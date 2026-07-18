@@ -1,0 +1,181 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Administrative Services 
+ Office of the State Chief Information Officer - Chapter 128 
+ 
+ 
+ 
+ 
+ Division 20 State Information Technology Asset Protection - Covered Vendors 
+ 128-020-0020 
+ Designation Criteria 
+ 
+ The State Chief Information Officer will consider one or more of the following criteria when determining if a corporate entity is a national security threat: 
+
+ (1) The corporate entity owns or otherwise provides a product or service that was developed or provided by a covered vendor. 
+
+ (2) The extent to which the corporate entity is affiliated with a covered vendor. 
+
+ (3) The corporate entity owns or otherwise provides a product or service that collects user data, including but not limited to personal information, browsing history, and location history, that is not required for or grossly exceeds the minimum necessary user data for the product or service. 
+
+ (4) The corporate entity owns or otherwise provides a product or service that collects user data, such as biometric data, contact information, GPS locations, chat logs, photos and browser histories, personal information, browsing history, and location history, that is potentially or currently accessible by foreign governments or foreign state actors. 
+
+ (5) The corporate entity owns or otherwise provides a product or service that has security vulnerabilities that, if unresolved, could expose state information technology assets to malicious actors. 
+
+ (6) The corporate entity owns or otherwise provides a product or service developed or provided by a corporate entity that has been designated a national security threat or otherwise meets the criteria of a covered vendor under OAR 128-020-0010. 
+
+ (7) The corporate entity owns or otherwise provides a product or service that supports the administrative use of algorithmic modifications to conduct misinformation, disinformation, or malinformation campaigns. 
+
+ (8) The corporate entity owns or otherwise provides a product or service that has the potential to control or compromise state information technology assets. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 276A.300 
+ 
+ 
+ Statutes/Other Implemented:  Or Laws 2023, ch 256 (HB 3127) 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSCIO 1-2024, adopt filed 01/29/2024, effective 02/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

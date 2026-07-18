@@ -83,13 +83,11 @@ OARD served a different rule number than requested; documents were filed under t
 - `OAR 125-800-0010` — renumbered: OARD serves 128-030-0010 for this number
 - `OAR 125-800-0020` — renumbered: OARD serves 128-030-0020 for this number
 
-## Known enumeration gaps (3)
+## Known enumeration gaps (0)
 
 Corpus areas we know exist upstream but could not enumerate mechanically.
 
-- `OAR chapter 128 division 20 (State Information Technology Asset Protection - Co)` — division never enumerated
-- `OAR chapter 128 division 40 (Geographic Information)` — division never enumerated
-- `OAR chapter 128 division 50 (Identity Authentication/Electronic Signatures)` — division never enumerated
+_(none)_
 
 ## Standing item: human verification stamps
 
@@ -137,8 +135,8 @@ the attestation the review gates call for. Corpus size by directory:
 - `rules/125/300/`: 1 documents
 - `rules/125/700/`: 8 documents
 - `rules/128/010/`: 10 documents
+- `rules/128/020/`: 7 documents
 - `rules/128/030/`: 3 documents
 - `rules/128/040/`: 1 documents
 - `rules/128/050/`: 1 documents
-- `rules/999/999/`: 1 documents
 - `statutes/`: 570 documents

@@ -1499,12 +1499,45 @@ chapters:
   - division: '20'
     title: State Information Technology Asset Protection - Covered Vendors
     status: not_ingested
-    rules: not enumerated
+    rules:
+    - number: 128-020-0005
+      status: ingested
+      path: rules/128/020/oar-128-020-0005.md
+    - number: 128-020-0010
+      status: ingested
+      path: rules/128/020/oar-128-020-0010.md
+    - number: 128-020-0015
+      status: ingested
+      path: rules/128/020/oar-128-020-0015.md
+    - number: 128-020-0020
+      status: ingested
+      path: rules/128/020/oar-128-020-0020.md
+    - number: 128-020-0025
+      status: ingested
+      path: rules/128/020/oar-128-020-0025.md
+    - number: 128-020-0030
+      status: ingested
+      path: rules/128/020/oar-128-020-0030.md
+    - number: 128-020-0035
+      status: ingested
+      path: rules/128/020/oar-128-020-0035.md
+    note: enumerated 2026-07-18 by direct OARD probe (not mirrored on oregon.public.law); grid-probed
+      0000-0995 step 5
   - division: '40'
     title: Geographic Information
-    status: not_ingested
-    rules: not enumerated
+    status: ingested
+    rules:
+    - number: 128-040-0005
+      status: ingested
+      path: rules/128/040/oar-128-040-0005.md
+    note: 'enumerated 2026-07-18 by direct OARD probe (grid 0000-0995 step 5): exactly one rule; already
+      ingested via the renumbering guard (old 125-600 number)'
   - division: '50'
     title: Identity Authentication/Electronic Signatures
-    status: not_ingested
-    rules: not enumerated
+    status: ingested
+    rules:
+    - number: 128-050-0005
+      status: ingested
+      path: rules/128/050/oar-128-050-0005.md
+    note: 'enumerated 2026-07-18 by direct OARD probe (grid 0000-0995 step 5): exactly one rule; already
+      ingested via the renumbering guard (old 125-600 number)'

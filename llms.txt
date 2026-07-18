@@ -26,9 +26,9 @@
 
 ## Administrative Rules (OAR)
 
-- [Rules index](rules/_index.md): 436 rules, full text each — all 35 divisions of
+- [Rules index](rules/_index.md): 443 rules, full text each — all 35 divisions of
   chapter 125 (DAS: procurement 246-249, purchasing, surplus, facilities, payroll,
-  records, risk, fleet, more) and chapter 128 (State CIO: broadband 010, information
+  records, risk, fleet, more) and chapter 128 (State CIO: broadband 010, covered vendors 020, information
   security 030, geographic information 040, e-signatures 050). Old "OAR 125-800"
   citations resolve to 128-030.
 - [OAR 128-030-0020 — State Information Security](rules/128/030/oar-128-030-0020.md):

@@ -46,11 +46,13 @@ State's authoritative database). Layout: `rules/<chapter>/<division>/`.
 | 125 | 700 | Internal Auditing | 8 | 8 |
 | 125 | 800 | State Information Security (renumbered to chapte | 3 | 0 |
 | 128 | 10 | Providing Broadband Services and Operations to N | 10 | 10 |
-| 128 | 20 | State Information Technology Asset Protection -  | 0 | 0 |
-| 128 | 30 | State Information Security | 4 | 3 |
-| 128 | 40 | Geographic Information | 0 | 0 |
-| 128 | 50 | Identity Authentication/Electronic Signatures | 0 | 0 |
-| **all** | | | **439** | **426** |
+| 128 | 20 | State Information Technology Asset Protection -  | 7 | 7 |
+| 128 | 30 | State Information Security | 3 | 3 |
+| 128 | 40 | Geographic Information | 1 | 1 |
+| 128 | 50 | Identity Authentication/Electronic Signatures | 1 | 1 |
+| **all** | | | **447** | **435** |
 
 Per-rule numbers/statuses/paths (incl. renumbered/repealed flags):
-[`_meta/catalog/oar.yml`](../_meta/catalog/oar.yml). Chapter 128 division 20 is not listed on oregon.public.law and remains a known enumeration gap; divisions 40 and 50 received their rules via the renumbering guard (old 125-600 numbers now serve as 128-040/128-050).
+[`_meta/catalog/oar.yml`](../_meta/catalog/oar.yml). Chapter 128 divisions 20/40/50
+were enumerated by direct OARD probing (not mirrored on oregon.public.law); every
+division of chapters 125 and 128 is now fully enumerated and ingested.

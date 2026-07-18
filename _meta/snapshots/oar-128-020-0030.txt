@@ -74,15 +74,56 @@
  
 
  
- Oregon Administrative Rules 
- Error 
  
  
  
- Rule number must match format: 999-999-9999 
+ 
+ 
+ 
+ 
+ Department of Administrative Services 
+ Office of the State Chief Information Officer - Chapter 128 
+ 
+ 
+ 
+ 
+ Division 20 State Information Technology Asset Protection - Covered Vendors 
+ 128-020-0030 
+ De-Designation Criteria 
+ 
+ The State Chief Information Officer will consider one or more of the designation criteria in OAR 128-020-0020 when de-designating or re-evaluating a corporate entity’s status as a national security threat. 
 
  
  
+ 
+ 
+ Statutory/Other Authority:  ORS 276A.300 
+ 
+ 
+ Statutes/Other Implemented:  Or Laws 2023, ch 256 (HB 3127) 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSCIO 1-2024, adopt filed 01/29/2024, effective 02/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
  
  
 

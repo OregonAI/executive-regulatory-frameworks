@@ -8,6 +8,22 @@ file's frontmatter).
 
 ## [Unreleased]
 
+## [2026-07-18] (3)
+
+### Added
+
+- OAR chapter 128 division 20 (State IT Asset Protection — Covered Vendors), 7 rules
+  (128-020-0005 through -0035): enumerated by direct OARD probing (the division is not
+  mirrored on oregon.public.law), full text each. Closes the last known OAR enumeration
+  gap.
+
+### Fixed
+
+- Removed a garbage document (rules/999/999/) created by an earlier catalog placeholder
+  row hitting OARD's not-found page, which echoes the requested rule number and
+  masqueraded as a served rule. ingest_oar.py now detects the not-found shell and marks
+  such rows not_served instead of ingesting them.
+
 ## [2026-07-18] (2)
 
 ### Added

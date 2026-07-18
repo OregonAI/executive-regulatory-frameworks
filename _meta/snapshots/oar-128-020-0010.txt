@@ -1,0 +1,222 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Administrative Services 
+ Office of the State Chief Information Officer - Chapter 128 
+ 
+ 
+ 
+ 
+ Division 20 State Information Technology Asset Protection - Covered Vendors 
+ 128-020-0010 
+ Definitions 
+ 
+ For the purposes of these Chapter 20 rules, the following definitions apply: 
+
+ (1) "Artificial intelligence" means a machine-based system that is capable, for a given set of human-defined objectives, of making predictions, recommendations or decisions influencing real or virtual environments and uses machine- or human-based inputs to: 
+
+ (a) Perceive real or virtual environments; 
+
+ (b) Abstract the perceptions into models through analysis in an automated manner; and 
+
+ (c) Use model inference to formulate options for information or action. 
+
+ (2) "Corporate entity" means any type of organization or legal entity other than an individual natural person, such as a corporation, partnership, limited liability company, or other organization, whether incorporated or unincorporated. 
+
+ (3) "Covered product" means: 
+
+ (a) Any form of hardware, software or service provided by a covered vendor; and 
+
+ (b) Any hardware, software or service that uses artificial intelligence and the artificial intelligence is developed or owned by a covered vendor. 
+
+ (4) "Covered vendor" means any of the following corporate entities, or any parent, subsidiary, affiliate, or successor entity of: 
+
+ (a) The following corporate entities: 
+
+ (A) Ant Group Co., Limited; 
+
+ (B) ByteDance Limited; 
+
+ (C) Huawei Technologies Company Limited; 
+
+ (D) Kaspersky Lab; 
+
+ (E) Tencent Holdings Limited; and 
+
+ (F) ZTE Corporation. 
+
+ (b) Any other corporate entity designated by the State Chief Information Officer as a covered vendor because it is a national security threat. 
+
+ (c) Any corporate entity that has been prohibited or had its products or services prohibited from use by a federal agency pursuant to the Secure and Trusted Communications Networks Act of 2019, 47 USC 1601, et seq, including as amended. 
+
+ (5) "National security threat" means, for purposes of protecting state information technology assets, a corporate entity that has been designated as a covered vendor because its covered product(s) pose(s) an unacceptable risk of harm to the operations of government, business entities, or the economy, or an unacceptable risk of harm to the rights and privacy of individuals, because of its engagement in a pattern or serious instance(s) of conduct significantly adverse to the security of federal or state infrastructure, government operations or systems, public and private institutions, law enforcement or military intelligence, individuals' personal information, or other sensitive or protected information. 
+
+ (6) "State agency" means any board, commission, department, division, office, or other entity of state government, as defined in ORS 174.111, except that state government does not include the Secretary of State or State Treasurer. 
+
+ (7) "State information technology asset" means any form of hardware, software or service for data processing, office automation, or telecommunications that is used directly by a state agency or used to a significant extent by a contractor in the performance of a contract with a state agency. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 276A.300 
+ 
+ 
+ Statutes/Other Implemented:  ORS 276A.340-276A.344 & Or Laws 2025, ch 396 (HB 3936) 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSCIO 1-2025, amend filed 12/04/2025, effective 01/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSCIO 1-2024, adopt filed 01/29/2024, effective 02/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

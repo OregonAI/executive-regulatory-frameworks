@@ -2155,6 +2155,41 @@ sources:
   sha256: bc0792de86bc66e48521d9c7ef6894adeaae5ac5ee6b789df498a01163733d6f
   last_checked: '2026-07-18'
   notes: Appeals A
+- id: oar-128-020-0005
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=128-020-0005
+  sha256: 8659850ebdd9677ebc8407b6a238ae15d9673a121206acffc30bfa7ab308141a
+  last_checked: '2026-07-18'
+  notes: Purpose
+- id: oar-128-020-0010
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=128-020-0010
+  sha256: ccd9388964e7cad1a149b2578b208fb86261c05c2e19bceed5a307f436aabafa
+  last_checked: '2026-07-18'
+  notes: Definitions
+- id: oar-128-020-0015
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=128-020-0015
+  sha256: 48ac6b89a65b6ace42f05a6bc01f5129c044118bae5a2c0fcb9310cba1288939
+  last_checked: '2026-07-18'
+  notes: Covered
+- id: oar-128-020-0020
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=128-020-0020
+  sha256: c1c97e2631e5501914e92930db89e906208ccb06e93611b9c36092b54ea88793
+  last_checked: '2026-07-18'
+  notes: Designation
+- id: oar-128-020-0025
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=128-020-0025
+  sha256: affb26d1f501e1130ba1f4336cdf6f5b7586aed178d7bb82644f41b30eec36aa
+  last_checked: '2026-07-18'
+  notes: Designation
+- id: oar-128-020-0030
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=128-020-0030
+  sha256: 2af3e290aee504ec9391329349d3ea5de2b2fdc9e930b5d889ee9c659c8ccdc6
+  last_checked: '2026-07-18'
+  notes: De-Designation
+- id: oar-128-020-0035
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=128-020-0035
+  sha256: bc18fcd30b39ea45631aae2ee9f34334b26447aea1f2d75b7ac78ed15309338e
+  last_checked: '2026-07-18'
+  notes: De-Designation
 - id: oar-128-030-0005
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=128-030-0005
   sha256: 976949c2a41585f6ccb8a81c0f81d7c6f9a70f902b21c597eb7e024314910b86
@@ -2180,8 +2215,3 @@ sources:
   sha256: 7211b1a336058d47f038fc029c632360d43b903b5fad27186828a364c5cef891
   last_checked: '2026-07-18'
   notes: Guidelines for
-- id: oar-999-999-9999
-  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=128-030-xxxx
-  sha256: 3eba96bdc99e043158f7e90e9475809ffc38ec45af36a5bf177b432b486064cb
-  last_checked: '2026-07-18'
-  notes: v2.1

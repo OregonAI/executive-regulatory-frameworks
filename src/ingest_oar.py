@@ -167,7 +167,11 @@ def cmd_ingest(chapters):
                     continue
                 time.sleep(0.3)
                 text = html_to_text(raw)
-                served = served_rule_number(ws_only(text))
+                wt = ws_only(text)
+                served = served_rule_number(wt)
+                # OARD's not-found shell echoes the requested number in its search box
+                if served and re.search(re.escape(served) + r"\s+not found", wt):
+                    served = None
                 if not served:
                     r["status"] = "not_served"
                     r["note"] = "OARD page contains no rule number (rule likely repealed)"
