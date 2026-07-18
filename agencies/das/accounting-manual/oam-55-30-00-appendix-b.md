@@ -18,6 +18,7 @@ source_version: "Effective date per the OAM listing of record: (none listed)"
 status: current
 supersedes: null
 content_mode: summary
+content_exception: "Source is a binary .xls workbook (form/template); no text representation. Snapshotted raw."
 last_verified: "2026-07-18"
 verified_by: "@morficflux"
 maintainer: "@morficflux"
@@ -37,7 +38,7 @@ tags: ["oam", "accounting"]
 
 ## At a glance
 
-**[SUMMARY]** OAM chapter "55 - Other programs", document 55.30.00_Appendix_B: SPOTS Card Program log example- appendix B.
+OAM chapter "55 - Other programs", document 55.30.00_Appendix_B: SPOTS Card Program log example- appendix B.
 No effective date shown in the OAM listing of record. The source is a .xls file (form/template), snapshotted raw; no text extraction or verbatim quotes.
 
 ## Provenance & change history
