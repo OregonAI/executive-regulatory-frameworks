@@ -1,0 +1,223 @@
+                                                   NUMBER                          SUPERSEDES
+
+                                                   107-004-015_PR                  Policy # | 107-001-015
+                                                                                   (2010)
+ STATEWIDE PROCEDURE                               EFFECTIVE DATE                  PAGE NUMBER
+                                                   May 1, 2025
+                                                   REVIEWED DATE                   Pages 1 of 5
+                                                   May 1, 2025
+ DIVISION                                          REFERENCE
+
+ Enterprise Information Services                   •   ORS 291.015, ORS 291.016, ORS 291.018, ORS
+                                                       291.026, ORS 291.034, and ORS 276A.206
+ POLICY OWNER
+                                                   •   Statewide Policy 107-004-015
+ Shared Services
+ SUBJECT                                           APPROVED SIGNATURE
+
+ Internal Controls for Managing
+ Mobile Communications Devices                     _________________________________________________
+                                                   Terrence Woods, State Chief Information Officer
+
+PURPOSE
+
+This procedure outlines steps for maintaining agency internal controls for managing the use of Mobile
+Communications Devices (MCDs).
+
+APPLICABILITY
+
+All Executive Branch agencies under direct authority of the Governor. Other agencies may follow this policy at
+their option.
+
+FORMS/EXHIBITS/INSTRUCTIONS
+
+Attachment A: Mobile Communication Device Acceptable Use Agreement
+
+DEFINITIONS
+
+Access Account: The account of each access number for voice/data transmission provided by a mobile
+communications provider.
+
+Authorized User: The person or entity authorized to use the access number on the Access Account.
+
+Mobile Communication Device (MCD): A wireless or cellular, two-way communication device designed to
+receive and transmit voice or text communication including mobile Global Positioning System (GPS) device or
+Application Data. This procedure applies to any Mobile Communication Device that requires the purchase of
+mobile communication services by the state.
+
+
+
+Procedure No: 107-004-015_PR | Effective Date: May 1, 2025 Reviewed: May 1, 2025                     Page 1 of 5
+Mobile Device Management: Software that allows IT administrators to control, secure, and enforce policies on
+smartphones, tablets, and other endpoints.
+
+Plan Charge: The charge assessed by a data or voice provider for each Access Account.
+
+Text: A Short Messaging Service (SMS), Multimedia Messaging Services (MMS) iMessage, or any other written
+form of message using an MCD such as a cell phone, smart phone, tablet, or GPS device.
+
+Short Messaging Services (SMS): Commonly referred to as texting or text messaging. This is a technology for
+sending short messages between MCDs.
+
+PROCEDURE
+
+ RESPONSIBILITY            STEP     ACTION
+ Agency Director               1.   Each agency director is responsible for:
+
+                                    (1) Ensuring that their agency has sufficient safeguards in place to ensure
+                                        that expenditures for mobile communications are restricted to those
+                                        necessary for the conduct of official state business. This includes
+                                        ensuring that there are sufficient internal controls.
+                                    (2) Ensuring appropriate usage of MCDs (i.e. restrictions on personal calls)
+                                        and compliance with applicable rules and policies.
+                                    (3) Ensuring that only charges incurred by Authorized Users conducting
+                                        official state business are paid by the state.
+                                    (4) Ensuring that Authorized Users are on the most cost-effective plan for
+                                        their type of use.
+                                    (5) Designating a Mobile Communication Plan Coordinator in writing with
+                                        authority to open, manage and cancel Access Accounts.
+
+ Division Administrator        2.   Each division administrator is responsible for enforcing Policy 107-001-
+                                    015 and:
+
+                                    (1) Providing a good example of MCD use and guarding against excessive
+                                        or inappropriate use of such devices by employees.
+                                    (2) Maintaining accurate record of violations of Policy 107-001-015.
+                                    (3) Implementing a mobile device maintenance program that includes
+                                        processes for software updates (Mobile Device Management), regular
+                                        inspection, and maintenance.
+                                    (4) For vehicle-mounted MCDs, pre-trip inspections are required, with
+                                        immediate withdrawal from service of any device with mechanical
+                                        defects.
+ Mobile                        3.   Each Mobile Communication Plan Coordinator is responsible for:
+ Communication
+ Plan Coordinator                   (1) Opening Access Accounts by authorizing vendors to issue Access
+                                        Account numbers for Authorized Users.
+                                    (2) Managing Access Accounts by:
+                                        a) Maintaining a list of all MCD Access Accounts and corresponding
+                                           Authorized User (employee names) with corresponding personnel
+                                           identification numbers. List will also identify any special purpose
+                                           accounts for audit purposes.
+                                        b) Serving as a contact and liaison between agency, divisions and the
+                                           vendor.
+
+Procedure No: 107-004-015_PR | Effective Date: May 1, 2025 Reviewed: May 1, 2025                      Page 2 of 5
+ RESPONSIBILITY            STEP     ACTION
+                                        c) Ensuring that specific staff is assigned to monitor plan charges
+                                             including use by Authorized Users, appropriateness of plans, and
+                                             personal use.
+                                    (3) Ensure that MCDs are securely stored when not assigned to Authorized
+                                        Users.
+                                    (4) Cancelling Access Accounts when Authorized Users terminate state
+                                        service and when MCDs are lost or stolen, or access is disconnected
+                                        for cause. Reporting information security incident/event when the MCD
+                                        is lost or stolen.
+                                    (5) Securing removal or destruction of Limited, Restricted, and Critical
+                                        information prior to disposal or surplus of MCDs.
+                                    (6) Annually review plans for best fit to agency needs and recommend
+                                        changes to division administrator for potential cost savings.
+                                    (7) Quarterly, review and validate plan charges and authorized users to
+                                        ensure that expenditures for plan charges meet the requirements under
+                                        Policy 107-004-015. Any discrepancy should be noted to the supervisor
+                                        of the Authorized User.
+
+ Supervisor of the             4.   The supervisor of the Authorized User is responsible for:
+ Authorized User
+                                    (1) Determining if a valid business reason exists to provide an MCD and
+                                        authorize Plan Charges for an Authorized User. Examples of valid
+                                        business reasons include:
+                                        a) Official duties require the worker to be “on-call” away from
+                                           workstations.
+                                        b) Official duties require travel during their normal assigned work
+                                           time.
+                                        c) Official duties expose staff to danger.
+                                        d) Official duties require an emergency or time-critical response.
+                                        e) Cost of device is justified by the gain in operational efficiency.
+
+                                    Issuance of an MCD and the authorization of Plan Charges expose the
+                                    agency and state to liability for all charges resulting from the use of the
+                                    MCD. Agencies need to be able to identify a business need when
+                                    determining if the issuance of an MCD is necessary.
+
+                                    (2) Ensuring that the Authorized User:
+                                        a) Has received training on acceptable use, understands their
+                                            responsibilities and signs an MCD Acceptable Use Agreement.
+                                        b) Knows the importance of protecting Limited, Restricted, and Critical
+                                            information assets contained on a MCD that can be released during
+                                            voice/data transmissions or with the loss or theft of an MCD.
+                                        c) Has access to Policy 107-004-015.
+                                     (3) Coordinates with the agency’s human resources office on mobile
+                                         communications issues. Possible sanctions for misuse could include:
+                                         a) Forfeiture of Access Account
+                                         b) Required reimbursement of personal or other inappropriate use
+                                         c) Disciplinary actions including dismissal
+                                         d) Criminal charges
+
+
+
+Procedure No: 107-004-015_PR | Effective Date: May 1, 2025 Reviewed: May 1, 2025                         Page 3 of 5
+ RESPONSIBILITY            STEP     ACTION
+ Authorized User               5.   The Authorized User is responsible for:
+
+                                    (1) Taking reasonable steps to ensure the physical security of MCDs.
+                                        Immediately reporting missing, lost or stolen MCDs to their supervisor
+                                        and Mobile Communication Plan Coordinator.
+                                    (2) Using the MCD in a manner consistent with the MCD Acceptable Use
+                                        Agreement.
+                                    (3) Taking reasonable steps to prevent the release of Limited, Restricted,
+                                        or Critical information either during the voice/data transmission or
+                                        from the loss/theft of the MCD.
+                                    (4) Understanding that sanctions, including dismissal, may result from the
+                                        unauthorized use of the MCD.
+
+
+
+
+Procedure No: 107-004-015_PR | Effective Date: May 1, 2025 Reviewed: May 1, 2025                     Page 4 of 5
+Attachment A
+
+
+
+                         Mobile Communication Device Acceptable Use Agreement
+
+
+
+
+I, ______________________________________________acknowledge I am being granted use of state
+information assets to carry out my work and agree that my use of such assets will be conducted in a manner
+that ensures compliance with state policies 107-004-015, 107-001-010, 107-004-110, and Oregon Accounting
+Manual Policy 40.10.00 PO.
+
+I agree that non-emergency personal use of a state Mobile Communications Device, may be identified on a
+monthly basis and may require reimbursement to the agency through Payroll Deduction. I further understand
+that any personal use is also subject to taxation of the user.
+
+I understand my usage will be monitored, without further warning, and that inappropriate use may be cause for
+disciplinary action, including but not limited to reprimand, suspension, and termination of employment or civil or
+criminal prosecution under federal and state law.
+
+I understand that I must use a hands-free accessory when driving a motor vehicle while using a Mobile
+Communication Device, except where exclusions apply. Any traffic violations or payment of fines imposed for
+violation of any applicable laws are my personal responsibility.
+
+I understand that the use of state information assets may be revoked at any time without further warning.
+
+By signing below, I acknowledge that I have read and understood this document. I further understand it is my
+responsibility to seek advice regarding any questions I might have regarding this document or state policy prior
+to my signing.
+
+
+
+
+_____________________________________                 ______________
+Employee Signature                                    Date
+
+
+_____________________________________                 ______________
+Print Name
+
+
+
+
+Procedure No: 107-004-015_PR | Effective Date: May 1, 2025 Reviewed: May 1, 2025                       Page 5 of 5
+

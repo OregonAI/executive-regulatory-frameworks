@@ -1,0 +1,790 @@
+                                             NUMBER                    SUPERSEDES
+
+                                             107-009-0080-PO           n/a
+STATEWIDE POLICY
+                                             EFFECTIVE DATE            PAGE NUMBER
+
+                                             September 10, 2014        Pages 1 of 17
+
+DIVISION                                     AUTHORITY/REFERENCE
+
+Chief Financial Office                       ORS 279A.140, 279B.205, and 184.423(1)(j)
+
+SUBJECT                                      APPROVED SIGNATURE
+
+Green Chemistry Procurement
+Guidelines
+
+
+
+PURPOSE
+
+This policy outlines the procurement guidelines required by the management directive of
+Executive Order 12-05. The purpose of the policy is to revise state procurement practices, reduce
+toxic chemicals of concern in Products procured by state agencies and used by their contractors,
+and realize the economic, environmental and public health benefits of Green Chemistry. The
+policy’s guidelines are designed to empower and support agencies in developing procurement
+specifications under ORS 279B.205, exercising judgment, and moving toward the goal of the
+Executive Order with continual improvement. Agencies have options and references to:
+    •   Procure Safer Products (Sections II and III),
+    •   Consider other Sustainability options (Section IV),
+    •   Apply Green Chemistry in buy decisions and procurement methods (Sections V or VI),
+    •   Report information related to the EO goal (Section VII) and
+    •   Utilize other procurement-related resources and tools (Section VIII).
+
+APPLICABILITY State agencies (agency).
+
+ATTACHMENT A. Safer Product Certification or Verification
+
+DEFINITIONS
+
+A. “Alternatives Assessment” means a process for identifying and comparing potential
+   chemical and non-chemical alternatives that can be used as substitutes to replace chemicals
+   or technologies of high concern.
+
+B. “Certifier” means an individual or organization determined by an agency to be competent
+   and qualified to identify a Safer Product. See Section II and Attachment A.
+
+DAS Statewide Policy No: 107-009-0080-PO                                                  Page 1
+C. “Chemicals of Concern” are chemicals that raise serious environmental or health concerns
+   about risks of injury to health and the environment, including chemicals not on any
+   established agency list, but known to exhibit hazard characteristics of high concern (for
+   example, carcinogenicity, persistence of toxins, endocrine activity, and neurotoxicity).
+
+D. “Contractor,” for purposes of these Guidelines, means a Person, as defined in OAR 125-
+   246-0110(104), who submits an Offer, as defined in OAR 125-246-0110(91), or with whom
+   an agency enters into a Contract, depending on context. “Contractor” has the same meaning
+   as an agency’s vendor, supplier, consultant, or provider.
+
+E. “Environmental Product Declaration” or “EPD” means a standardized report of the
+   environmental impacts of a Product. EPDs are independently verified and developed using
+   Life Cycle assessment data. EPDs may also be developed using predetermined parameters,
+   which are specific to different product categories. ISO 14025 governs EPD guidelines.
+
+F. “DEQ Toxics Focus List” means the list of Chemicals of Concern, compiled and published
+   by the Oregon Department of Environmental Quality (DEQ) at:
+   http://www.oregon.gov/deq/FilterDocs/focuslist.pdf
+
+G. “Executive Order No. 12-05 ” or “EO” means the order of Governor John Kitzhaber,
+   signed April 27, 2012, that fosters innovation and encourages new business development of
+   less toxic products and safer alternatives for people and the environment by:
+   1. Helping businesses take advantage of emerging market opportunities,
+   2. Addressing related sustainability challenges, and
+   3. Establishing the “Oregon Green Chemistry Innovation Initiative” to help ensure Oregon’s
+       long-term competitiveness in the market for greener technologies.
+
+H. “Green Chemistry” means the design of chemical Products and processes that reduce or
+   eliminate the use or generation of hazardous substances. Green Chemistry applies across the
+   Life Cycle of a chemical Product, including its design, manufacture, use, and ultimate
+   disposal. Green Chemistry principles can be found in the text by Paul Anastas and John
+   Warner (1998), Green Chemistry: Theory and Practice, Oxford University Press: New York.
+
+I. “Green Washing,” for the purpose of these Guidelines, means deception, unjustified claims,
+   or misrepresentation that a Product or its Life Cycle is a Safer Product and will realize the
+   environmental and public health benefits of Green Chemistry principles, without providing
+   proof or qualification.
+
+J. “Guidelines” means a statement or other indication of Policy or procedure by which to
+   determine a course of action. The EO uses the term, “Guidelines,” and for these purposes,
+   “Guidelines” means the same as “Policy.” Both terms equally express Policy.
+
+K. “Life Cycle” means the life cycle of a Product, including design, raw material extraction,
+   manufacture, transportation, use, and disposal (cradle to grave) or recovery (cradle to cradle).
+
+
+
+
+DAS Statewide Policy No: 107-009-0080-PO                                                   Page 2
+L. “Life Cycle Analysis” or “LCA” means a quantitative compilation and evaluation of the
+   inputs (such as energy and raw materials), outputs (such as emissions and wastes), and
+   potential environmental impacts of a Product throughout its Life Cycle.
+
+M. “Life Cycle Costing” means an analysis method that considers quantifiable economic costs
+   over the Life Cycle of a Product, including the costs of acquiring, operating, supporting and
+   disposing of a Product. The method may include quantifiable costs that relate to an adverse
+   impact of a Product, for example, impacts to the environment or public health.
+
+N. “Policy” means a governing principle or plan that establishes the general parameters for the
+   agency to follow in carrying out its responsibilities.
+
+O. “Procurement” means the act of purchasing, leasing, renting or otherwise acquiring or
+   selling: Supplies and Services; Architectural, Engineering, Photogrammetric Mapping,
+   Transportation Planning or Land Surveying Services and Related Services; and Public
+   Improvements. Procurement includes each function and procedure undertaken or required to
+   be undertaken by an Authorized Agency to enter into a Public Contract, administer a Public
+   Contract and obtain the performance of a Public Contract under the Public Contracting Code
+   and OAR 125-246 through 279. Procurement includes Contract Administration, and
+   Contract Administration includes Amendments. See OAR 125-246-0110 for the definitions
+   of words capitalized in this definition of Procurement.
+
+P. “Products” means Goods or Supplies as defined in OAR 125-246-0110. For the purposes of
+   these Guidelines, Products may also include Services that impact Products or use Products.
+
+Q. “Safer Chemical” means any chemical used as a replacement for a Chemical of Concern
+   that the agency identifies, based on analyses referenced in these Guidelines, as reducing
+   chemical hazard and exposure risks to human health and the environment, while still
+   maintaining the functionality and performance the agency requires.
+
+R. “Safer Products” means a Product that is determined by the agency to have substantially
+   less Chemicals of Concern, compared to a Product with Chemicals of Concern. For the
+   purposes of these Guidelines, Products may also include Services that impact Products or use
+   Products. “Safer Products” is a generic term and is not associated with any entities with
+   names that include the term “safer products.”
+
+S. “Services” means Personal Services, Trade Services, or any combination thereof as defined
+   in OAR 125-246-0110.
+
+T. “Sustainability” means using, developing and protecting resources in a manner that enables
+   people to meet current needs and provides that future generations can also meet future needs,
+   from the joint perspective of environmental, economic and community objectives (ORS
+   184.421).
+
+
+
+
+DAS Statewide Policy No: 107-009-0080-PO                                                  Page 3
+ GUIDELINES
+
+
+                                            I. INTRODUCTION
+
+ A. Priority. The Guidelines give priority to the procurement of Safer Products. Under ORS
+    184.421, Agencies are encouraged to include other Sustainability criteria as options that are
+    usually complementary with Safer Products. It is beyond the scope of the Guidelines to
+    resolve potential, specific trade-off scenarios, which will call for agencies to acquire related
+    knowledge, consult with experts, and document their decisions.
+
+ B. Sole Discretion of the Agency. The agency has the sole discretion to determine the
+    specification content of procured Products (ORS 279B.205). An agency’s specifications will
+    seek to promote optimal value and suitability for the purposes intended and to reasonably
+    encourage competition in satisfying an agency’s needs (ORS 279B.205). The Guidelines
+    assist agencies in exercising their sole discretion to develop procurement specifications,
+    which will seek to promote optimal value and suitability for the agencies’ purposes and to
+    reasonably encourage competition in satisfying an agency’s needs (ORS 279B.205). Optimal
+    value and suitability includes Sustainability (ORS 184.421 & .423).
+
+ C. Responsibility of Contractors. Contractors who offer bids, proposals, or quotes will meet
+    standards of responsibility, including integrity (ORS 279B.110). Agency may determine that
+    Contractor is not responsible under OAR 125-247-0640(1)(c)(F)(iii) if the Contractor lacks
+    integrity because of Green Washing.
+
+
+                       II. PROCURING CERTIFIED SAFER PRODUCTS
+
+Agency may satisfy the EO by using one of the following Safer Product certifications or
+verifications (Certifiers). An alternative to Section II is provided in Section III.
+
+ A. Third-Party Certification. See Attachment A, Safer Product Certification or Verification.
+
+ B. Shared Third-Party Certification. Agency is encouraged to share recommended third-party
+    Certifiers, for example, to purchase a brand name Product based on another agency’s third-
+    party certification of that Product under this Section.
+
+ C. Contractor Self-Certification. Agency is discouraged from accepting self-certification
+    unless agency verifies the reliability of the self-certification. For example, agency may
+    require the Contractor to submit a disclosure form that verifies that the Product contains no
+    Chemicals of Concern (see Definition, Section C), and the Contractor has the burden of
+    proof. Agency may then be advised by a subject matter expert that the information is reliable.
+    For further guidance, see, Lists of Chemicals of Concern, Section III.B.1.b; Disclosure,
+    Section III.B.2; and Subject Matter Experts, Section III.B.3.
+
+
+
+
+ DAS Statewide Policy No: 107-009-0080-PO                                                     Page 4
+       III. PROCURING SAFER PRODUCTS APART FROM CERTIFICATION
+
+As an alternative to Section II, agency may satisfy the EO by procuring Safer Products available
+through statewide price agreements (Section III.A); Safer Products identified by criteria,
+disclosure, experts, and alternative assessments (Section III.B); or Products in line with specific
+regulatory or court requirements (Section III.C).
+
+A. Safer Products Available through Statewide Price Agreements
+
+    1. Janitorial and Industrial Products. Agency is required to purchase Safer Products from
+       the Oregon and Washington mandatory price agreements, numbers 3401, 3402, 3403, and
+       3400, for janitorial and industrial products in seven categories.
+       For the solicitation requirements and these price agreements, use the document search
+       feature in the Oregon Procurement Information Network at
+       http://www.oregon.gov/DAS/Procurement/Pages/ORPIN.aspx.
+
+    2. Other Safer Products. When DAS provides future price agreements for Safer Products
+       based on Green Chemistry principles, agency will be expected to purchase Safer Products
+       from these price agreements or communicate with the Governor’s Office or DAS about
+       the facts and reasons that agency did not make these purchases. A communication
+       process may be provided at a later time.
+
+B. Safer Products Identified by Criteria, Disclosure, Experts, and Alternative
+   Assessments
+
+    1. Procurement Criteria that Include Chemicals of Concern.
+       a. Agency’s Objectives. Agency will describe its need to procure a Safer Product),
+           based on Green Chemistry principles, and this need may also include Sustainability
+           options described in Section IV below. ORS 279ABC gives agency the discretion to
+           some extent to vary the form and method of procurement, for example, mandatory
+           and discretionary requirements for proposals or specifications for bids, quotes, and
+           orders (collectively, criteria).
+       b. Lists of Chemicals of Concern. At a minimum, agency will require that the DEQ
+           Toxics Focus List (see Definition, Section F) is used for identification of Chemicals
+           of Concern. In addition, agency may require or invite the use of one or more
+           additional lists developed by Oregon or national government agencies, including but
+           not limited to:
+            i. DEQ’s Priority Persistent Pollutant (P3) list for water quality, developed in
+               response to state legislation, at
+               http://www.deq.state.or.us/wq/SB737/docs/P3LTechnicalDetailsFinal.pdf.
+           ii. Center for Disease Control and Prevention (CDC) National Biomonitoring
+               Program environmental chemicals list at:
+               http://www.cdc.gov/biomonitoring/environmental_chemicals.html.
+          iii. The Environmental Protection Agency (EPA) Priority Chemical List for waste
+               minimization at http://www.epa.gov/epawaste/hazard/wastemin/priority.htm. The
+               EPA no longer updates this information but it may be useful as a resource.
+
+
+
+DAS Statewide Policy No: 107-009-0080-PO                                                    Page 5
+           iv. The list of the International Agency for Research on Cancer (IARC), published by
+                 the American Cancer Society at:
+                 http://www.cancer.org/cancer/cancercauses/othercarcinogens/generalinformationa
+                 boutcarcinogens/known-and-probable-human-carcinogens.
+        c. Lists of Safer Chemicals. Agency is encouraged to use one or both of the following
+            lists to evaluate offers of Contractors and claims of safer chemicals.
+             i. CleanGredients is an online database of verified information about the
+                 environmental and human health attributes of ingredients used in cleaning
+                 products. See http://www.cleangredients.org/home.
+            ii. EPA. The DfE Safer Chemical Ingredients List meets the DfE Safer Chemical
+                 criteria and is used for DfE-labeled Products. This is a list of chemicals of less
+                 concern, according to the EPA, and Products certified by the EPA may contain
+                 these chemicals. See www.epa.gov/dfe/saferingredients.
+
+     2. Disclosure of Product Information; Forms.
+        a. Contractors. Agency will require the Contractor to identify whether the Product
+           contains one or more Chemicals of Concern. By definition, Chemicals of Concern are
+           not limited to one or more lists, if they are known to exhibit hazard characteristics of
+           high concern (such as carcinogenicity, persistence of toxins, endocrine activity, and
+           neurotoxicity). For example, a very minor change in a toxic Product’s chemical
+           formula may remove it from a list but not reduce its toxicity. Agency may provide to
+           the Contractors agency’s information requirements for each procurement.
+        b. Other Source. As an alternative to Subsection 2.a above, agency may obtain this
+           information from a reliable source, for example, the data reported by manufacturers
+           under the Children’s Safe Products Act of Washington State and reported to the
+           Department of Ecology at https://fortress.wa.gov/ecy/cspareporting/.
+        c. Disclosure Forms.
+            i. The HPD Form. Agency is encouraged to use the Health Product Declaration
+               (HPD) form at http://www.hpdcollaborative.org/. HPD is a tool to report product
+               contents and each ingredient’s relationship to human and ecological health. The
+               HPD defines critical information needed to support supply chain disclosure by
+               manufacturers and suppliers and informed decisions by agencies and users. The
+               information is also useful for the future, because emerging chemistry may
+               discover later that a chemical being used today is a Chemical of Concern.
+           ii. Other Forms. Agency may develop forms for its specific procurements.
+
+    3. Subject Matter Expert (SME) Assistance as Needed. The SME’s level of expertise and
+       experience, which an agency needs to evaluate specific Safer Products, may depend
+       upon: Product and process complexity, available data, consistency among SMEs, how a
+       Safer Product may be verified, and funding. An agency may:
+       a. Identify an SME within the agency with the needed expertise,
+       b. Request information, referrals and technical expertise from DEQ,
+       c. Contract with an organization with expertise in toxic chemicals Alternatives
+          Assessment, green procurement, or Sustainability, or
+       d. Share an SME with one or more other agencies or organizations for this purpose.
+
+
+
+
+DAS Statewide Policy No: 107-009-0080-PO                                                    Page 6
+     4. Evaluation of Safer Alternatives. If a Product contains one or more Chemicals of
+        Concern or hazard characteristics of high concern, even if the chemical is not on any list,
+        then evaluate and determine whether a safer alternative exists. This determination may
+        also be a gradual process as agency reviews its contracts, new alternatives become
+        available, and agency increasingly uses Safer Products.
+        a. Alternatives Assessment. Agency may require the Contractor or SME to assess safer
+            alternatives and the options for reducing Chemicals of Concern. Agency may require
+            the Contractor or SME to adhere to the Principles of Alternatives Assessments, found
+            at http://www.turi.org/Our_Work/Research/Alternatives_Assessment. See other
+            optional alternatives assessment tools and references in Subsection 4.b below.
+        b. Optional Tools and References.
+             i. The Washington Department of Ecology offers a “Quick Chemical Assessment
+                Tool” (QCAT) for smaller businesses to conduct hazard assessments of Products
+                and chemicals. QCAT is a streamlined version of the Green Screen developed by
+                Clean Production Action and found at:
+                http://www.ecy.wa.gov/greenchemistry/qcat.html. Green Screen is found at
+                http://www.greenscreenchemicals.org/.
+            ii. In 2014, the Interstate Chemicals Clearinghouse (IC2) released the IC2
+                Alternatives Assessment Guide to assist businesses and governments in
+                evaluating alternatives to toxic chemicals in Products, help create Safer Products,
+                and reduce the impact that chemicals have on human health and the environment.
+                This guide includes modules for small or large businesses and is found at
+                www.newmoa.org/prevention/ic2/aaguidance.cfm. Examples of state agencies’
+                alternative assessments are found at
+                http://www.newmoa.org/prevention/ic2/projects/resource/hazassesstool.cfm.
+           iii. The University of Massachusetts, Lowell Center, Toxics Use Reduction Institute
+                (TURI) provides an “Alternatives Assessment Framework” and other tools and
+                references at http://www.turi.org/Our_Work/Research/Alternatives_Assessment.
+
+C.    Products Procured according to Regulatory and Court Requirements.
+
+     1. Generally. A statute, rule or order having the force of law (Regulation) or court decision
+        may compel agency to use a specific product specification, contrary to the sole discretion
+        of agency to develop specifications under ORS 279B.205 (Requirement). Agency may
+        satisfy the EO by documenting its determination that the Requirement applies to the
+        Product to be procured by agency. If it is unclear whether a Requirement exists and
+        applies to a Product, agency should seek an interpretation and advice from its legal
+        counsel.
+
+     2. Regulation. One example of a Regulation is Oregon’s Integrated Pest Management
+        (IPM), as defined in ORS 634.650.
+        a. IPM is a coordinated decision-making and action process that uses the most
+           appropriate pest control methods and strategy in an environmentally and
+           economically sound manner to meet agency pest management objectives, including
+           objectives similar to the EO: establishing density of pest populations based on health
+           thresholds and strategies that consider human health and ecological impact.
+        b. The IPM Coordinating Committee implements integrated pest management practices.
+
+DAS Statewide Policy No: 107-009-0080-PO                                                    Page 7
+        c. Agency may satisfy the EO by relying on and documenting the IPM process and
+           practices when procuring a Product related to the IPM’s appropriate pest control
+           methods and strategy.
+
+    3. Court Decision. One example of a court decision arises when forensic evidence in
+       criminal proceedings is admissible only if the agency uses specific laboratory equipment
+       that requires a Product with Chemicals of Concern. Agency may satisfy the EO by
+       relying on and documenting the specific court limitations that disallow any Safer Product
+       related to admissible forensic evidence.
+
+
+                IV. CONSIDERING SUSTAINABILITY OPTIONS AND PLANS
+
+A. Optional Request for Proposals Criteria. Requirements may include topics such as, but not
+   limited to:
+   1. Certification standards for the Product, if available,
+   2. Chemicals of Concern and materials that the agency has chosen to prohibit in the Request
+       for Proposals,
+   3. Safer Chemicals and materials that the agency has chosen to require in the Request for
+       Proposals,
+   4. Alternative Products without added Chemicals of Concern (e.g., foam or fabric in
+       furniture that meets fire safety standards without toxic flame retardants),
+   5. Containers, dispensers, or equipment,
+   6. Recycled content of Products,
+   7. Chemical ingredient and safety information to be provided to end users, for example,
+       Safety Data Sheet,
+   8. Samples of Product for evaluation and testing, if requested by the agency,
+   9. Description of how the Product is used,
+   10. Web capabilities, online ordering capability, and off-line ordering process,
+   11. Forced substitutions not allowed, prior agreement required,
+   12. Training end users and Contractor’s technicians for Product usage, including but not
+       limited to the amount of chemical used and the frequency of use.
+   13. Reporting of itemized criteria and purchasing,
+   14. Ongoing certification of its Products, if requested,
+   15. Packaging,
+   16. Implementation, Product promotion, and contract management plan,
+   17. Contractor’s Sustainability programs and efforts,
+   18. Contractor’s environmental practices related to the Product,
+   19. Minority, Women, and Emerging Small Business opportunities (see Executive Order No.
+       12-03: Promoting Diversity and Inclusion Opportunities for Oregon Minority-Owned,
+       Women-Owned and Emerging Small Businesses),
+   20. Product end-of-life and take-back addressed by manufacturer,
+   21. Reduction of negative impacts on indoor air quality, and
+   22. Other environmental attributes of the Product, for example, greenhouse gas footprint,
+       water footprint, energy use, and water use.
+
+
+
+
+DAS Statewide Policy No: 107-009-0080-PO                                                 Page 8
+B. Optional Life Cycle Considerations.
+
+    1. Life Cycle Costing. Agency must consider Life Cycle Costing during planning for a
+       Competitive Sealed Bidding or a Competitive Sealed Proposal sourcing method, and Life
+       Cycle Costing is optional for other sourcing methods, under OAR 125-247-0170.
+
+    2. Life Cycle Analysis and Related Analyses. A Life Cycle Analysis (LCA) following the
+       International Organization of Standardization (ISO) standards typically requires
+       considerable time and funding. Agency may require or encourage Contractors to
+       complete LCAs for their Products, and to share the LCA results with the agency in the
+       form of the LCA document or through ISO-compliant Environmental Product
+       Declarations (EPDs).
+       a. If requesting that a Contractor provide LCA results, agency is strongly encouraged to
+           request an LCA document or EPD that complies with ISO standards 14040/14044 and
+           14025, respectively.
+       b. If reviewing an LCA document or EPD provided by a Contractor, agency is strongly
+           encouraged to first confirm that the LCA document or EPD complies with ISO
+           standards 14040/14044 and 14025, and if not, to disregard the document. In all cases,
+           agency is encouraged to pay particular attention to the following topics:
+            i. Key Assumptions and Boundaries of the Analysis. For example, whether the
+               evaluation ends at the point of final manufacture (“cradle to gate”) or extends to
+               include impacts associated with use and end-of-life management (“cradle to
+               grave”). For some Products, cradle to gate analyses are sufficient. But for
+               Products that have significant impacts associated with their use and/or disposal,
+               cradle to grave analyses are preferable.
+           ii. Supply Chain Impacts. At a minimum, LCAs must address not only the impacts
+               associated with the final Product (e.g., energy used by the final manufacturer), but
+               also impacts associated with the final manufacturer’s supply chains. These
+               impacts are often far greater than the impacts at the point of final production or
+               assembly.
+          iii. Comparative Assertions. If Contractor makes comparative assertions regarding
+               the environmental impacts of one Product or option versus another, agency will
+               confirm that such claims are consistent with the findings of a report that complies
+               with ISO 14040/14044, and in particular requirements specific to comparative
+               assertions and critical review. Agency is also encouraged to review the findings of
+               the critical review panel.
+       c. A likely scenario will be where one Contractor presents an LCA or LCA results, and
+           competing contractors do not. The Product with the LCA is not necessarily the lower-
+           impact alternative. However, the act of having conducted an LCA indicates that the
+           brand owner has made a significant effort to understand the environmental impact of
+           their Product. All other things being equal, agency may give preference to a Product
+           for which an ISO-compliant LCA or EPD is provided, versus competing Products for
+           which ISO-compliant LCAs or EPDs are not provided.
+       d. Agency may receive more than one LCA document or EPD for competing Products.
+           Unless similar data sets and accounting standards are used, results of separate and
+           independent studies are likely not comparable, and agency should not assume that the
+           LCA document or EPD claiming the lower impact is in fact the less-impactful option.
+
+DAS Statewide Policy No: 107-009-0080-PO                                                   Page 9
+           EPDs of two or more Products that were produced using the same product category
+           rules (PCRs) are meant to be directly comparable. However, since the field of LCA is
+           still developing and some PCRs allow considerable latitude in performing analyses,
+           caution should be exercised even when comparing EPDs that are generated from the
+           same PCR.
+        e. The field of LCA has changed and advanced significantly in recent years and will
+           likely continue to do so for some time. Agency is encouraged to review general
+           information regarding LCAs and any periodical updates.
+        f. The relevant ISO standards, while potentially cumbersome, protect users against the
+           misuse of LCA and LCA results, which is why agencies are strongly encouraged to
+           only consider ISO-compliant LCAs and EPDs. In exceptional cases, agency may
+           consider Life Cycle Analyses or streamlined analyses that are not ISO compliant, but
+           only with extreme caution and after review of general information regarding LCAs
+           and any periodical updates.
+
+C. Examples of Green Criteria Developed by Others.
+
+    1. City of Portland provides examples of green criteria and case studies at:
+       www.portlandoregon.gov/buygreen.
+
+    2. Oregon Multnomah County Purchasing developed a sustainable language library, sample
+       solicitations, checklists, anecdotes, and other related tools. See
+       http://web.multco.us/purchasing/sustainable-purchasing.
+
+    3. New York State Department of Environmental Conservation and Office of General
+       Services-Procurement Services developed 28 green specifications for 63 products (2012).
+       See https://www.ogs.ny.gov/GreenNY/green-product-specs.asp.
+
+
+      V. MAKING BUY DECISIONS WITH GREEN CHEMISTRY PRINCIPLES
+
+Agency will make buy decisions before agency procures Products and Services in the open market
+(OAR 125-247-0200). If the buy decisions do not meet the agency’s need for a Safer Product, then
+agency may procure in the open market, described in Section VI.
+
+A. Surplus Property under OAR 125-050-0100 through 125-050-0400. Agency is
+   encouraged to purchase surplus Safer Products that meet Green Chemistry standards in
+   addition to achieving efficiency by using existing resources. See
+   http://www.oregon.gov/DAS/Surplus/pages/index.aspx.
+
+B. Qualified Rehabilitation Facilities under ORS 279.835 TO 279.855 (QRF). Agency is
+   encouraged to require a Safer Product, including Services using Safer Products, from the
+   QRF and apply these Guidelines. If two or more QRFs are available, agency may negotiate
+   with a QRF to provide a Safer Product, purchased from a statewide price agreement or
+   otherwise verified by a subject matter expert, with the understanding that agency may
+   negotiate with other QRFs, if needed. See
+   http://www.oregon.gov/DAS/Procurement/Pages/QRF.aspx.
+
+DAS Statewide Policy No: 107-009-0080-PO                                                Page 10
+C. Inmate Labor under Oregon Constitution, Article 11, Sec. 41. Agency is encouraged to
+   use inmate labor and the Safer Products that they manufacture or distribute. The Oregon
+   Corrections Enterprises (OCE) is a semi-independent state agency with a constitutional
+   mandate to create work opportunities for inmates that teach marketable work skills while
+   providing high quality products to government agencies.
+
+    OCE has a major initiative to manufacture Safer Products and offer Sustainable alternatives,
+    in partnership with its vendors. Products can be customized to meet the agency’s Green
+    Chemistry requirements. Plywood hardwood and specialty panels may be produced for
+    Leadership in Energy and Environmental Design (LEED) points. Mattresses are produced
+    without toxic flame retardants and at a lower cost. Safer Products include: furniture, printing,
+    laundry, and lower-emitting diesel truck leases. See
+    http://www.oregon.gov/OCE/pages/index.aspx.
+
+D. Statewide Price Agreements under OAR 125-247-0296. See Section III.A above. In
+   addition, DAS Procurement Services provides statewide price agreements offering green
+   Products, for example, office supplies, tires, office computer products, and e-waste disposal.
+
+    If the terms of a statewide price agreement permit amendments and renegotiations, agency is
+    encouraged to request alternative Safer Products under the modified price agreement and
+    apply the Guidelines. DAS may also request approval of a special procurement under ORS
+    279B.085 to modify an existing statewide price agreement in order to provide Safer Products.
+
+E. Agreements among Public Bodies. Agency is encouraged to apply the Guidelines and
+   acquire Safer Products from a public body through interagency, intergovernmental, interstate,
+   tribal, and international agreements under ORS 190.
+
+
+ VI. PROCURING IN THE OPEN MARKET WITH GREEN CHEMISTRY PRINCIPLES
+
+A. Procurement Methods.
+
+    1.     Supplies and Services. The Guidelines apply to the following procurement methods:
+         a. Small Procurement under ORS 279B.065. Small direct awards may foster innovation
+            and encourage new business development that helps firms take advantage of emerging
+            market opportunities. An agency may award multiple small contracts in order to
+            compare different Safer Products offered by Contractors, and this business reason
+            distinguishes the process from fragmenting. Also, see Special Procurement below
+            (Subsection A.1.g).
+         b. Intermediate Procurement under ORS 279B.070, aka Informal Requests for
+            Quotes, Bids, or Proposals.
+            Consider the benefits of informal requests for quotes, bids or proposals and timing.
+         c. Competitive Sealed Bidding under ORS 279B.055, aka formal Invitations to Bid.
+            Consider specifications’ risk and costs, price focus, limited criteria, and no negotiation.
+         d. Competitive Sealed Proposals under ORS 279B.060, aka formal Requests for
+            Proposals.
+            Consider benefits of Contractors’ innovations, subjective criteria, and negotiation.
+
+DAS Statewide Policy No: 107-009-0080-PO                                                      Page 11
+        e. Sole Source Procurement under ORS 279B.075. Agency may:
+             i. Identify Products with Chemicals of Concern,
+            ii. Assess alternative Safer Products,
+           iii. Request approval of a brand that meets Green Chemistry standards, and
+           iv. Negotiate that terms, such as length of contract and payments, will depend on the
+                provider’s successful transition to alternative Safer Products.
+        f. Emergency Procurement under ORS 279B.080. Agency will:
+             i. With the authorization of the head of the agency or delegate, document the nature of
+                the emergency, as defined in ORS 279A.010(1)(f), and describe the method used for
+                the selection of the Contractor.
+            ii. Under OAR 125-247-0280, exercise discretion to enter into an emergency contract
+                without a competitive solicitation, but regardless of the dollar value, encourage
+                competition that is reasonable and appropriate under the emergency circumstances.
+                For construction services that are not Public Improvements, ensure reasonable and
+                appropriate competition, including a solicitation time and informal requests for
+                offers, or make direct appointments without competition in cases of extreme
+                necessity.
+           iii. Except in cases of extreme necessity and when competition is reasonable and
+                appropriate, request Safer Products to avoid compounding the emergency’s effects.
+        g. Special Procurement under ORS 279B.085.
+             i. If an agency desires to award multiple, smaller contracts to Contractors for Safer
+                Products, an approved special procurement may seed a market to provide new or
+                emerging Safer Products. In Phase 1, agency would award short-term small contracts
+                to Contractors providing Safer Products. Contractors and agency would gain
+                knowledge and experience with the Products and each other, while contracts provide
+                incentives to develop the market in line with the EO. This business reason
+                distinguishes the process from fragmenting. Phase 2 would be a competitive process
+                for a larger, longer-term contract.
+            ii. A client services special procurement under OAR 125-247-0288(2) would support a
+                public-private pilot program, encouraging caseworkers and clients to choose to
+                purchase Safer Products for better health, safety and environment. The caseworkers
+                and clients would purchase from one or more local retail businesses that screen the
+                Products based on Green Chemistry and Sustainability principles, market Safer
+                Products, and supply reports of usage to the agency and, upon request, DAS.
+
+    2. Public Improvements. The Guidelines apply to the following procurement methods:
+       a. Selection procedures for consultants providing architectural, engineering,
+          photogrammetric mapping, transportation planning, land surveying and related services
+          (A&E services) under ORS 279C.110, 279C.120, and 279C.125.
+       b. Competitive Bidding under ORS 279C.335(1).
+       c. Non-competitive Awards less than $5,000 under ORS 279C.335(1).
+       d. Competitive Quotes under ORS 279C.412 and 279C.414.
+       e. Exempted Competitive Proposals under ORS 279C.335, 279C.400 to 279C.450.
+       f. Other Exempted Alternative Contracting Methods under ORS 279C.335.
+
+
+
+
+DAS Statewide Policy No: 107-009-0080-PO                                                  Page 12
+B. Negotiation. If allowed under ORS 279ABC and related rules, agency is encouraged to
+   negotiate for Safer Products prior to a new purchase, when amending a contract, and during
+   renegotiation of a contract.
+
+C. Contract Administration Plan. In a solicitation, agency may require Contractors to submit a
+   Green Chemistry Plan with their Offers. For example, the Plan may include a transition to Safer
+   Products. The Plan may, but does not need to, be scored or evaluated in the selection process.
+   During negotiations, if allowed under ORS 279ABC and related Rules, or contract
+   administration planning, agency may require implementation of the Plan.
+
+D. Contract Administration Compliance Measures. During contract administration or prior to
+   contract renewal, agency is encouraged to use measures for performance, like inspections, tests,
+   and reviews for compliance with the Guidelines.
+
+
+            VII. REPORTING INFORMATION RELATED TO THE EO GOAL
+
+A. Requirement. The EO states that DEQ, Business Oregon, and DAS will identify and use
+   relevant metrics to assess the reduction of Chemicals of Concern through procurement.
+
+B. Metrics. At a minimum, the standards of measurement include:
+
+    1. A baseline, when possible, prior to the application of the EO or Guidelines,
+
+    2. The agency’s contract resulting from the application of the EO or Guidelines (Contract),
+
+    3. The type or category of Products under the Contract,
+
+    4. The quantity and value of purchased Products in a given time period, and
+
+    5. Changes as a result of the application of the EO or Guidelines.
+
+    Metrics are subject to change by DEQ, Business Oregon and DAS.
+
+C. Data Collection and Reporting. DEQ, Business Oregon, and DAS will develop specific
+   guidance for metrics, data collection, and reporting in consultation with interested agencies.
+   Where possible, agencies are to retain data on past purchases for comparative purposes.
+   Agencies will assist DEQ, Business Oregon, and DAS and furnish such information and
+   advice as DEQ, Business Oregon, and DAS need in order to meet the reporting requirement.
+
+
+                           VIII. UTILIZING OTHER RESOURCES
+
+A. Green Purchasing Resources.
+
+    1. City of Portland. For considerable green purchasing information, see
+       www.portlandoregon.gov/buygreen.
+
+DAS Statewide Policy No: 107-009-0080-PO                                                   Page 13
+    2. Oregon Multnomah County Purchasing. For a list of resources, including checklists,
+       materials, examples, and anecdotes, see http://web.multco.us/purchasing/sustainable-
+       purchasing.
+
+B. Subject Matter Expert Services and Collaborators.
+
+    1. Responsible Purchasing Network (RPN). RPN is “an international network of buyers
+       dedicated to socially responsible and environmentally sustainable purchasing. Its
+       membership program and consulting services provide institutional purchasers with
+       cutting edge procurement tools and resources designed to save money, conserve
+       resources, reduce waste, and improve efficiency.” See:
+       http://www.responsiblepurchasing.org/.
+
+    2. Sustainable Purchasing Leadership Council (SPLC). SPLC brings together leaders to
+       simplify, optimize and standardize the practice of sustainable procurement, provide
+       guidance, and recognize leadership in order to drive social, environmental, and economic
+       sustainability. See http://www.purchasingcouncil.org.
+
+    3. Sustainable Supply Chain Community of Practice. For information about collaborators
+       in a sustainable supply chain community, see: https://www.data.gov.
+
+C. Product and Chemical Assessment Tools and Guidance.
+
+    1. 3E Green Product Analyzer™ (GPA) is a tool that assesses environmental, health and
+       safety (EH&S) compliance for chemical products. It provides information that can help
+       retailers compare products and measure improvement. See
+       http://www.greenchemistryandcommerce.org/retailer-portal/overview.
+
+    2. BizNGO Guide to Safer Chemicals is creating the principles, tools, and resources
+       essential to businesses implementing safer chemicals management programs. See
+       http://www.bizngo.org/safer-chemicals/guide-to-safer-chemicals.
+
+    3. Chemical Compliance Systems (CCS) is proprietary software that uses customized
+       portions of the CCS Relational Chemical and Product Database
+       (http://www.chemply.com/relational-chemical--products-database) and generates
+       capabilities for unique, holistic, product analysis and compliance capabilities. See
+       http://www.chemply.com/.
+
+    4. EarthSure applies to a variety of Products. EarthSure environmental product
+       declarations (EPDs) can cover a portion of the life cycle of a Product or an entire life
+       cycle. Products in any sector can obtain EPDs as the EarthSure program has codes for all
+       sectors of the economy. See http://iere.org/programs/earthsure/.
+
+    5. GreenScreen is a method for comparative Chemical Hazard Assessment (CHA) that can
+       be used for identifying chemicals of high concern and safer alternatives. See
+       https://www.cleanproduction.org/resources/entry/greenscreen-did-you-know.
+
+
+
+DAS Statewide Policy No: 107-009-0080-PO                                                Page 14
+    6. GreenWERCS Chemical Screening Tool exists for retailers to screen Products from
+       suppliers. See www.greenchemistryandcommerce.org.
+
+    7. iSustain Green Chemistry Index provides a methodology to generate a sustainability-
+       based score for chemical products and processes. See
+       http://www.beyondbenign.us/home/isustain/isustain.html.
+
+
+
+
+DAS Statewide Policy No: 107-009-0080-PO                                             Page 15
+                                           ATTACHMENT A
+
+                 SAFER PRODUCT CERTIFICATION OR VERIFICATION
+
+
+A. INTRODUCTION:
+Agency may meet the EO’s Safer Products goal under Section II by relying on the vetting of
+Safer Products by third-party certification programs or database organizations (Certifiers), which
+are listed below.
+Certification may take several forms. Products may be certified against a standard that always
+addresses Chemicals of Concern, or Certifiers may have multiple standards (for example,
+different standards for different types of Products), of which some but not all address Chemicals
+of Concern. Further, some Certifiers serve to verify product claims made by brand owners; these
+product claims may or may not address Chemicals of Concern. Agency must understand what is
+being certified or verified on a case-by-case basis. If the certification or verification does not
+address the presence (or absence) of Chemicals of Concern for a specific Product or class of
+Products, then it cannot be used to satisfy the Executive Order.
+Outside of this list, other Certifiers exist, particularly for specific categories of Products. An
+agency and its subject matter expert may determine that other Certifiers can provide a reliable,
+comprehensive vetting of a Product for Chemicals of Concern and Environmentally Preferable
+Purchasing. Agency will document this determination in its Procurement File and provide the
+information to DEQ.
+
+B. CERTIFIERS (in alphabetical order):
+
+1. Cradle to Cradle (C2C) applies to a variety of Products and provides a company with a
+   means to demonstrate efforts in eco-intelligent design. Cradle to Cradle Certification is a
+   third-party sustainability label that requires achievement across multiple attributes. See
+   http://www.c2ccertified.org/.
+
+2. EPA Design for Environment (DfE) Safer Product Labeling Program applies to Products
+   such as cleaners, disinfectants, paints, car and boat products, and firefighting foams, DfE is
+   an EPA partnership program that provides a database of over 2,750 DfE-labeled, industrial
+   and consumer, Safer Products. See
+   http://www.epa.gov/dfe/pubs/projects/formulat/formpart.htm.
+
+3. EPEAT is a system that helps purchasers evaluate, compare and select electronic products
+   based on their environmental attributes. The system currently covers desktop and laptop
+   computers, thin clients, workstations and computer displays, but will expand to additional
+   electronic product categories over time. See http://www.epeat.net/.
+
+4. GreenGuard (a division of UL Environment) has the mission to improve human health and
+   quality of life through programs that reduce chemical exposure and improve indoor air
+   quality. GREENGUARD Indoor Air Quality Certified® products must meet standards for
+
+
+DAS Statewide Policy No: 107-009-0080-PO                                                     Page 16
+    low chemical emissions based on established health criteria from key public health agencies.
+    See http://www.greenguard.org/en/index.aspx.
+
+5. GreenSeal certifies thousands of products and services that meet science-based
+   environmental standards that are credible and transparent. Green Seal uses a life-cycle
+   approach to ensure tangible reductions in the whole environmental footprint. See
+   http://www.greenseal.org/.
+
+6. Pharos certifies for building products. Transparent scoring protocols for environmental and
+   health impacts of building products are linked to a library of over 150 certifications. See
+   http://www.pharosproject.net/.
+
+7. SMaRT 4.0 Sustainable Product Standard is a third party certification that uses a
+   comprehensive life cycle approach to assess the sustainability of Products used in building
+   infrastructures and their interior. SMaRT certifies Products that are screened for at least
+   1,300 pollutants. The screened Products are rated on a scale from 0 to 100%, indicating the
+   degree that a Product is free of these pollutants. Agency should require that the Product has a
+   100% rating and follow the guidelines in the Introduction above. See
+   http://mts.sustainableproducts.com/SMaRT_Value.html.
+
+8. UL EcoLogo applies to a variety of Products. EcoLogo provides its customers with
+   assurance that the Products and services bearing the logo meet stringent standards of
+   environmental leadership. See http://www.ecologo.org/en/.
+
+9. UL's Environmental Claims Validation (ECV) Service and Label test a manufacturer’s
+   Product and validate that the environmental claims in marketing and packaging materials are
+   factual. See http://www.ul.com/global/eng/pages/offerings/businesses/environment/about/.
+
+10. UL Sustainable Product Certifications & Database provides a variety of building product
+    evaluations and claim validations (e.g. formaldehyde free), provides a GREENGAURD
+    certification using a third party chemical emission standard on chemical exposure risk,
+    provides Environmental Product Declarations, and has a sustainable products guide. Users of
+    this service will still need to verify compliance with the Guidelines. See
+    http://industries.ul.com/environment/product-sustainability.
+
+11. U.S. General Services Administration (GSA) Green Products Compilation is an
+    extensive list of Products that meets federal regulations for sustainability, some (but not all)
+    of which address Chemicals of Concern. See https://sftool.gov/greenprocurement.
+
+
+
+
+DAS Statewide Policy No: 107-009-0080-PO                                                      Page 17
+

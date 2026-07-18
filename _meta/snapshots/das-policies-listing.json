@@ -1,0 +1,1746 @@
+{
+ "note": "Normalized snapshot of the DAS statewide policies listing of record: 14 category views on the SharePoint library /das/Policies, as rendered by das/Pages/policies.aspx and das/Pages/policieshr.aspx. Diff key = number+file_ref; a change = effective date or file path changed.",
+ "retrieved": "2026-07-18",
+ "list_url": "/das/Policies",
+ "api": "POST https://www.oregon.gov/das/_api/web/GetList('/das/Policies')/RenderListDataAsStream?View=<view_guid> body {\"parameters\":{\"__metadata\":{\"type\":\"SP.RenderListDataParameters\"},\"RenderOptions\":2}}",
+ "views": {
+  "HR-Position Mgmt": "34c6dc62-bbea-4493-a372-f6f04f5a41aa",
+  "HR-Class-Comp": "c3c2f3a2-c3ad-4b52-b619-ffef40d6e4da",
+  "HR-General": "f82838c3-8dc6-40e5-9861-689cae045fbb",
+  "HR-Workforce Mgmt": "444e5db9-2eb5-41d2-80f2-70de826eb1d8",
+  "HR-Filling Positions": "23f5f3bc-c3ea-4b75-85f7-3477d9869f84",
+  "HR-Employee Leave": "7b5bc4d1-48ca-421f-afa9-a28bc66e71f0",
+  "HR-Discipline & Discharge": "b12e240e-a927-402b-bc9e-0357546679f5",
+  "HR-Rulemaking": "9f87ab70-9cde-4368-b966-a520c9df242d",
+  "Facilities": "bdf76315-1c17-4176-babe-50467125fda2",
+  "General": "5afcfc9f-18f4-42fa-a587-6e0058723e96",
+  "Procurement": "c7028b35-4937-4928-858c-01fbe8caaa56",
+  "IT-Assets": "0c4ce0c8-071b-4d23-9d96-25c500ae2d5f",
+  "IT-General": "1246d3ac-2caa-499e-8d07-c76b1c3a0217",
+  "IT-Security": "23ecb983-9e04-4349-b322-03ff00280e21"
+ },
+ "rows": [
+  {
+   "number": "",
+   "title": "",
+   "effective_date": "2/1/2019",
+   "file_ref": "/das/Policies/10-040-01_Prior.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "General",
+   "views": [
+    "HR-General"
+   ]
+  },
+  {
+   "number": "",
+   "title": "",
+   "effective_date": "7/2/2024",
+   "file_ref": "/das/Policies/20-005-10_Addendum-A-Pay-Practices.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Class/comp",
+   "views": [
+    "HR-Class-Comp"
+   ]
+  },
+  {
+   "number": "",
+   "title": "",
+   "effective_date": "",
+   "file_ref": "/das/Policies/50-020-10.Attachment.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Workforce mgmt",
+   "views": [
+    "HR-Workforce Mgmt"
+   ]
+  },
+  {
+   "number": "",
+   "title": "",
+   "effective_date": "",
+   "file_ref": "/das/Policies/60-000-03.prior.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Employee leave",
+   "views": [
+    "HR-Employee Leave"
+   ]
+  },
+  {
+   "number": "",
+   "title": "",
+   "effective_date": "",
+   "file_ref": "/das/Policies/60-000-11_Addendum-A.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Employee leave",
+   "views": [
+    "HR-Employee Leave"
+   ]
+  },
+  {
+   "number": "",
+   "title": "",
+   "effective_date": "",
+   "file_ref": "/das/Policies/60.010.01.2017.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Employee leave",
+   "views": [
+    "HR-Employee Leave"
+   ]
+  },
+  {
+   "number": "",
+   "title": "",
+   "effective_date": "",
+   "file_ref": "/das/Policies/Harassment and Discrimination Free Workplace.pdf",
+   "show": "Yes",
+   "category": "General",
+   "subcategory": "",
+   "views": [
+    "General"
+   ]
+  },
+  {
+   "number": "",
+   "title": "Safety: Dealing with Unknown or Questionable Substances Guideline",
+   "effective_date": "",
+   "file_ref": "/das/Policies/Link to document-00.pdf",
+   "show": "Yes",
+   "category": "General",
+   "subcategory": "",
+   "views": [
+    "General"
+   ]
+  },
+  {
+   "number": "",
+   "title": "Political Campaigning for Public Employees, Restrictions on",
+   "effective_date": "",
+   "file_ref": "/das/Policies/Link to link-02.pdf",
+   "show": "Yes",
+   "category": "General",
+   "subcategory": "",
+   "views": [
+    "General"
+   ]
+  },
+  {
+   "number": "",
+   "title": "Writing resources",
+   "effective_date": "",
+   "file_ref": "/das/Policies/Link to web page-00.pdf",
+   "show": "Yes",
+   "category": "General",
+   "subcategory": "",
+   "views": [
+    "General"
+   ]
+  },
+  {
+   "number": "10-000-01",
+   "title": "Definitions, Human Resource",
+   "effective_date": "1/1/2024",
+   "file_ref": "/das/Policies/10-000-01.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "General",
+   "views": [
+    "HR-General"
+   ]
+  },
+  {
+   "number": "10-011-01",
+   "title": "Personnel Records",
+   "effective_date": "2/1/2019",
+   "file_ref": "/das/Policies/10-011-01.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "General",
+   "views": [
+    "HR-General"
+   ]
+  },
+  {
+   "number": "10-025-01",
+   "title": "Human Resources Investigation Practices",
+   "effective_date": "3/3/2025",
+   "file_ref": "/das/Policies/10-025-01.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "General",
+   "views": [
+    "HR-General"
+   ]
+  },
+  {
+   "number": "10-030-01",
+   "title": "Support of Employee's Work and Life Balance",
+   "effective_date": "3/21/2025",
+   "file_ref": "/das/Policies/10-030-01.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "General",
+   "views": [
+    "HR-General"
+   ]
+  },
+  {
+   "number": "10-040-01",
+   "title": "Statewide Workforce Learning and Development",
+   "effective_date": "11/01/2024",
+   "file_ref": "/das/Policies/10-040-01.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "General",
+   "views": [
+    "HR-General"
+   ]
+  },
+  {
+   "number": "105-001-0000",
+   "title": "Human Resources-Notice of Rulemaking",
+   "effective_date": "",
+   "file_ref": "/das/Policies/Link to OAR-02.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Rulemaking",
+   "views": [
+    "HR-Rulemaking"
+   ]
+  },
+  {
+   "number": "105-001-0005",
+   "title": "Human Resources-Model Rules of Procedure",
+   "effective_date": "",
+   "file_ref": "/das/Policies/Link to OAR-03.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Rulemaking",
+   "views": [
+    "HR-Rulemaking"
+   ]
+  },
+  {
+   "number": "105-020-0001",
+   "title": "Comparability of Work Rule",
+   "effective_date": "",
+   "file_ref": "/das/Policies/Link to OAR-07.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Class/comp",
+   "views": [
+    "HR-Class-Comp"
+   ]
+  },
+  {
+   "number": "105-020-0015",
+   "title": "Employee Contributions and Limitations to Retirement",
+   "effective_date": "",
+   "file_ref": "/das/Policies/Link to OAR-08.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Class/comp",
+   "views": [
+    "HR-Class-Comp"
+   ]
+  },
+  {
+   "number": "105-040-0001",
+   "title": "Equal Employment Opportunity and Affirmative Action Rule",
+   "effective_date": "",
+   "file_ref": "/das/Policies/Link to OAR-09.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Filling positions",
+   "views": [
+    "HR-Filling Positions"
+   ]
+  },
+  {
+   "number": "105-050-0003",
+   "title": "Alcohol and Controlled Substance Testing of Employees Having Commercial Drivers License Rule",
+   "effective_date": "",
+   "file_ref": "/das/Policies/Link to OAR-19.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Workforce mgmt",
+   "views": [
+    "HR-Workforce Mgmt"
+   ]
+  },
+  {
+   "number": "105-050-0004",
+   "title": "Drug Testing of Final Applicants for Certain State Classifications|Positions Rule",
+   "effective_date": "",
+   "file_ref": "/das/Policies/Link to OAR-20.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Workforce mgmt",
+   "views": [
+    "HR-Workforce Mgmt"
+   ]
+  },
+  {
+   "number": "105-050-0025",
+   "title": "Injured Worker Preference for Light Duty Assignments Rule",
+   "effective_date": "",
+   "file_ref": "/das/Policies/Link to OAR-22.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Workforce mgmt",
+   "views": [
+    "HR-Workforce Mgmt"
+   ]
+  },
+  {
+   "number": "105-050-0030",
+   "title": "Injured Worker Preference for Entry-level Positions Rule",
+   "effective_date": "",
+   "file_ref": "/das/Policies/Link to OAR-23.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Workforce mgmt",
+   "views": [
+    "HR-Workforce Mgmt"
+   ]
+  },
+  {
+   "number": "107-001-002",
+   "title": "Exceptions to Policies",
+   "effective_date": "3/5/2024",
+   "file_ref": "/das/Policies/107-001-002.pdf",
+   "show": "Yes",
+   "category": "General",
+   "subcategory": "",
+   "views": [
+    "General"
+   ]
+  },
+  {
+   "number": "107-001-002_PR",
+   "title": "Exceptions to Policies procedure",
+   "effective_date": "3/5/2024",
+   "file_ref": "/das/Policies/107-001-002_PR.pdf",
+   "show": "Yes",
+   "category": "General",
+   "subcategory": "",
+   "views": [
+    "General"
+   ]
+  },
+  {
+   "number": "107-001-010",
+   "title": "Continuity of Operations Planning, Statewide",
+   "effective_date": "2/21/2018",
+   "file_ref": "/das/Policies/107-001-010.pdf",
+   "show": "Yes",
+   "category": "General",
+   "subcategory": "",
+   "views": [
+    "General"
+   ]
+  },
+  {
+   "number": "107-001-016",
+   "title": "Mobile Communication Device Usage While Driving",
+   "effective_date": "1/1/2010",
+   "file_ref": "/das/Policies/107-001-016.pdf",
+   "show": "Yes",
+   "category": "IT",
+   "subcategory": "General",
+   "views": [
+    "IT-General"
+   ]
+  },
+  {
+   "number": "107-001-020",
+   "title": "Public Records Management",
+   "effective_date": "6/1/2025",
+   "file_ref": "/das/Policies/107-001-020.pdf",
+   "show": "Yes",
+   "category": "General",
+   "subcategory": "",
+   "views": [
+    "General"
+   ]
+  },
+  {
+   "number": "107-001-030",
+   "title": "Public Records Requests Fees and Charges",
+   "effective_date": "4/1/2025",
+   "file_ref": "/das/Policies/107-001-030.pdf",
+   "show": "Yes",
+   "category": "General",
+   "subcategory": "",
+   "views": [
+    "General"
+   ]
+  },
+  {
+   "number": "107-001-040",
+   "title": "Enterprise Customer Service Standards",
+   "effective_date": "11/18/2024",
+   "file_ref": "/das/Policies/107-001-040.pdf",
+   "show": "Yes",
+   "category": "General",
+   "subcategory": "",
+   "views": [
+    "General"
+   ]
+  },
+  {
+   "number": "107-004-010",
+   "title": "Information Technology Asset Inventory and Management",
+   "effective_date": "9/8/2008",
+   "file_ref": "/das/Policies/107-004-010.pdf",
+   "show": "Yes",
+   "category": "IT",
+   "subcategory": "Assets",
+   "views": [
+    "IT-Assets"
+   ]
+  },
+  {
+   "number": "107-004-015",
+   "title": "Mobile Communications Devices, Internal Controls for Managing Policy",
+   "effective_date": "5/1/2025",
+   "file_ref": "/das/Policies/107-004-015.pdf",
+   "show": "Yes",
+   "category": "IT",
+   "subcategory": "General",
+   "views": [
+    "IT-General"
+   ]
+  },
+  {
+   "number": "107-004-015_PR",
+   "title": "Mobile Communications Devices, Internal Controls for Managing Procedure",
+   "effective_date": "5/1/2025",
+   "file_ref": "/das/Policies/107-004-015_PR.pdf",
+   "show": "Yes",
+   "category": "IT",
+   "subcategory": "General",
+   "views": [
+    "IT-General"
+   ]
+  },
+  {
+   "number": "107-004-030",
+   "title": "Independent Quality Management Services for IT Initiatives Policy",
+   "effective_date": "6/9/2025",
+   "file_ref": "/das/Policies/107-004-030.pdf",
+   "show": "Yes",
+   "category": "IT",
+   "subcategory": "General",
+   "views": [
+    "IT-General"
+   ]
+  },
+  {
+   "number": "107-004-030_PR",
+   "title": "Independent Quality Management Services for IT Initiatives Procedure",
+   "effective_date": "6/9/2025",
+   "file_ref": "/das/Policies/107-004-030_PR.pdf",
+   "show": "Yes",
+   "category": "IT",
+   "subcategory": "General",
+   "views": [
+    "IT-General"
+   ]
+  },
+  {
+   "number": "107-004-050",
+   "title": "Information Asset Classification",
+   "effective_date": "7/12/2023",
+   "file_ref": "/das/Policies/107-004-050.pdf",
+   "show": "Yes",
+   "category": "IT",
+   "subcategory": "General",
+   "views": [
+    "IT-General"
+   ]
+  },
+  {
+   "number": "107-004-051",
+   "title": "Controlling Portable and Removable Storage Devices",
+   "effective_date": "7/30/2007",
+   "file_ref": "/das/Policies/107-004-051.pdf",
+   "show": "Yes",
+   "category": "IT",
+   "subcategory": "Security",
+   "views": [
+    "IT-Security"
+   ]
+  },
+  {
+   "number": "107-004-052",
+   "title": "Cyber and Information Security Policy",
+   "effective_date": "2/17/2026",
+   "file_ref": "/das/Policies/107-004-052.pdf",
+   "show": "Yes",
+   "category": "IT",
+   "subcategory": "Security",
+   "views": [
+    "IT-Security"
+   ]
+  },
+  {
+   "number": "107-004-052_PR",
+   "title": "Cyber and Information Security Procedure",
+   "effective_date": "2/17/2026",
+   "file_ref": "/das/Policies/107-004-052_PR.pdf",
+   "show": "Yes",
+   "category": "IT",
+   "subcategory": "Security",
+   "views": [
+    "IT-Security"
+   ]
+  },
+  {
+   "number": "107-004-053",
+   "title": "Employee Security",
+   "effective_date": "7/30/2007",
+   "file_ref": "/das/Policies/107-004-053.pdf",
+   "show": "Yes",
+   "category": "IT",
+   "subcategory": "Security",
+   "views": [
+    "IT-Security"
+   ]
+  },
+  {
+   "number": "107-004-100",
+   "title": "Transporting Information Assets",
+   "effective_date": "1/31/2008",
+   "file_ref": "/das/Policies/107-004-100.pdf",
+   "show": "Yes",
+   "category": "IT",
+   "subcategory": "Security",
+   "views": [
+    "IT-Security"
+   ]
+  },
+  {
+   "number": "107-004-110",
+   "title": "Acceptable Use of State Information Assets",
+   "effective_date": "1/1/2010",
+   "file_ref": "/das/Policies/107-004-110.pdf",
+   "show": "Yes",
+   "category": "IT",
+   "subcategory": "Assets",
+   "views": [
+    "IT-Assets"
+   ]
+  },
+  {
+   "number": "107-004-120",
+   "title": "Cyber and Information Security Incident Response",
+   "effective_date": "11/16/2020",
+   "file_ref": "/das/Policies/107-004-120.pdf",
+   "show": "Yes",
+   "category": "IT",
+   "subcategory": "Security",
+   "views": [
+    "IT-Security"
+   ]
+  },
+  {
+   "number": "107-004-130",
+   "title": "Information Technology Investment Oversight",
+   "effective_date": "6/1/2020",
+   "file_ref": "/das/Policies/107-004-130.pdf",
+   "show": "Yes",
+   "category": "IT",
+   "subcategory": "General",
+   "views": [
+    "IT-General"
+   ]
+  },
+  {
+   "number": "107-004-130_PR",
+   "title": "Information Technology Investment Oversight Procedure",
+   "effective_date": "6/1/2020",
+   "file_ref": "/das/Policies/107-004-130_PR.pdf",
+   "show": "Yes",
+   "category": "IT",
+   "subcategory": "General",
+   "views": [
+    "IT-General"
+   ]
+  },
+  {
+   "number": "107-004-140",
+   "title": "Privileged Access to Information Systems",
+   "effective_date": "7/10/2013",
+   "file_ref": "/das/Policies/107-004-140.pdf",
+   "show": "Yes",
+   "category": "IT",
+   "subcategory": "Security",
+   "views": [
+    "IT-Security"
+   ]
+  },
+  {
+   "number": "107-004-150",
+   "title": "Cloud and Hosted Systems Policy with Exhibit",
+   "effective_date": "5/1/2019",
+   "file_ref": "/das/Policies/107-004-150.pdf",
+   "show": "Yes",
+   "category": "IT",
+   "subcategory": "Security",
+   "views": [
+    "IT-Security"
+   ]
+  },
+  {
+   "number": "107-004-150_PR",
+   "title": "Cloud and Hosted Systems Procedure",
+   "effective_date": "5/1/2019",
+   "file_ref": "/das/Policies/107-004-150_PR.pdf",
+   "show": "Yes",
+   "category": "IT",
+   "subcategory": "Security",
+   "views": [
+    "IT-Security"
+   ]
+  },
+  {
+   "number": "107-004-155",
+   "title": "Covered Products and Vendors Policy",
+   "effective_date": "1/1/2026",
+   "file_ref": "/das/Policies/107-004-155.pdf",
+   "show": "Yes",
+   "category": "IT",
+   "subcategory": "Security",
+   "views": [
+    "IT-Security"
+   ]
+  },
+  {
+   "number": "107-004-155_PR",
+   "title": "Covered Products and Vendors Procedure",
+   "effective_date": "1/1/2026",
+   "file_ref": "/das/Policies/107-004-155_PR.pdf",
+   "show": "Yes",
+   "category": "IT",
+   "subcategory": "Security",
+   "views": [
+    "IT-Security"
+   ]
+  },
+  {
+   "number": "107-004-160",
+   "title": "Data Governance policy",
+   "effective_date": "2/9/2022",
+   "file_ref": "/das/Policies/107-004-160 - Copy.pdf",
+   "show": "Yes",
+   "category": "IT",
+   "subcategory": "General",
+   "views": [
+    "IT-General"
+   ]
+  },
+  {
+   "number": "107-004-160",
+   "title": "Data Governance Policy",
+   "effective_date": "2/9/2022",
+   "file_ref": "/das/Policies/107-004-160.pdf",
+   "show": "Yes",
+   "category": "IT",
+   "subcategory": "General",
+   "views": [
+    "IT-General"
+   ]
+  },
+  {
+   "number": "107-004-180",
+   "title": "Information Technology Readiness",
+   "effective_date": "3/12/2026",
+   "file_ref": "/das/Policies/107-004-180.pdf",
+   "show": "Yes",
+   "category": "IT",
+   "subcategory": "General",
+   "views": [
+    "IT-General"
+   ]
+  },
+  {
+   "number": "107-004-180_PR",
+   "title": "Information Technology Readiness",
+   "effective_date": "3/12/2026",
+   "file_ref": "/das/Policies/107-004-180_PR.pdf",
+   "show": "Yes",
+   "category": "IT",
+   "subcategory": "General",
+   "views": [
+    "IT-General"
+   ]
+  },
+  {
+   "number": "107-004-190",
+   "title": "Responsible Artificial Intelligence Usage policy",
+   "effective_date": "6/16/2026",
+   "file_ref": "/das/Policies/107-004-190.pdf",
+   "show": "Yes",
+   "category": "IT",
+   "subcategory": "General",
+   "views": [
+    "IT-General"
+   ]
+  },
+  {
+   "number": "107-004-190_PR",
+   "title": "Responsible Artificial Intelligence Usage procedure",
+   "effective_date": "6/16/2026",
+   "file_ref": "/das/Policies/107-004-190_PR.pdf",
+   "show": "Yes",
+   "category": "IT",
+   "subcategory": "General",
+   "views": [
+    "IT-General"
+   ]
+  },
+  {
+   "number": "107-004-200",
+   "title": "Copilot General Usage policy",
+   "effective_date": "6/16/2026",
+   "file_ref": "/das/Policies/107-004-200.pdf",
+   "show": "Yes",
+   "category": "IT",
+   "subcategory": "General",
+   "views": [
+    "IT-General"
+   ]
+  },
+  {
+   "number": "107-004-200_PR",
+   "title": "Copilot General Usual procedure",
+   "effective_date": "6/16/2026",
+   "file_ref": "/das/Policies/107-004-200_PR.pdf",
+   "show": "Yes",
+   "category": "IT",
+   "subcategory": "General",
+   "views": [
+    "IT-General"
+   ]
+  },
+  {
+   "number": "107-009-0020",
+   "title": "Oregon Procurement Information Network (ORPIN)",
+   "effective_date": "12/13/2013",
+   "file_ref": "/das/Policies/107-009-0020.pdf",
+   "show": "Yes",
+   "category": "Procurement",
+   "subcategory": "",
+   "views": [
+    "Procurement"
+   ]
+  },
+  {
+   "number": "107-009-0030 (under revision)",
+   "title": "Business Equity, Inclusion and Engagement in Public Procurement",
+   "effective_date": "12/16/2020",
+   "file_ref": "/das/Policies/107-009-0030.pdf",
+   "show": "Yes",
+   "category": "Procurement",
+   "subcategory": "",
+   "views": [
+    "Procurement"
+   ]
+  },
+  {
+   "number": "107-009-0030_PR (under revision)",
+   "title": "Business Equity, Inclusion and Engagement in Public Procurement Procedure",
+   "effective_date": "12/16/2020",
+   "file_ref": "/das/Policies/107-009-0030_PR.pdf",
+   "show": "Yes",
+   "category": "Procurement",
+   "subcategory": "",
+   "views": [
+    "Procurement"
+   ]
+  },
+  {
+   "number": "107-009-0040",
+   "title": "Sustainable Procurement",
+   "effective_date": "7/26/2023",
+   "file_ref": "/das/Policies/107-009-0040.pdf",
+   "show": "Yes",
+   "category": "Procurement",
+   "subcategory": "",
+   "views": [
+    "Procurement"
+   ]
+  },
+  {
+   "number": "107-009-0060",
+   "title": "Statewide Procurement Training Policy",
+   "effective_date": "4/28/2025",
+   "file_ref": "/das/Policies/107-009-0060.pdf",
+   "show": "Yes",
+   "category": "Procurement",
+   "subcategory": "",
+   "views": [
+    "Procurement"
+   ]
+  },
+  {
+   "number": "107-009-0060_PR",
+   "title": "Statewide Procurement Training Procedure",
+   "effective_date": "4/28/2025",
+   "file_ref": "/das/Policies/107-009-0060_PR.pdf",
+   "show": "Yes",
+   "category": "Procurement",
+   "subcategory": "",
+   "views": [
+    "Procurement"
+   ]
+  },
+  {
+   "number": "107-009-0080",
+   "title": "Green Chemistry Procurement Guidelines",
+   "effective_date": "9/10/2014",
+   "file_ref": "/das/Policies/107-009-0080.pdf",
+   "show": "Yes",
+   "category": "Procurement",
+   "subcategory": "",
+   "views": [
+    "Procurement"
+   ]
+  },
+  {
+   "number": "107-011-010",
+   "title": "Energy and Resource Conservation",
+   "effective_date": "4/17/2024",
+   "file_ref": "/das/Policies/107-011-010.pdf",
+   "show": "Yes",
+   "category": "Facilities",
+   "subcategory": "",
+   "views": [
+    "Facilities"
+   ]
+  },
+  {
+   "number": "107-011-100",
+   "title": "Space Design and Utilization",
+   "effective_date": "5/1/2024",
+   "file_ref": "/das/Policies/107-011-100.pdf",
+   "show": "Yes",
+   "category": "Facilities",
+   "subcategory": "",
+   "views": [
+    "Facilities"
+   ]
+  },
+  {
+   "number": "107-011-115",
+   "title": "Siting State-Owned and Leased Office Space policy",
+   "effective_date": "6/10/2025",
+   "file_ref": "/das/Policies/107-011-115.pdf",
+   "show": "Yes",
+   "category": "Facilities",
+   "subcategory": "",
+   "views": [
+    "Facilities"
+   ]
+  },
+  {
+   "number": "107-011-115_PR",
+   "title": "Siting State-owned and Leased Office Space procedure",
+   "effective_date": "6/10/2025",
+   "file_ref": "/das/Policies/107-011-115_PR.pdf",
+   "show": "Yes",
+   "category": "Facilities",
+   "subcategory": "",
+   "views": [
+    "Facilities"
+   ]
+  },
+  {
+   "number": "107-011-120",
+   "title": "Uniform Rent Program",
+   "effective_date": "3/12/2001",
+   "file_ref": "/das/Policies/107-011-120.pdf",
+   "show": "Yes",
+   "category": "Facilities",
+   "subcategory": "",
+   "views": [
+    "Facilities"
+   ]
+  },
+  {
+   "number": "107-011-130",
+   "title": "Celebration Decorations and Lights",
+   "effective_date": "6/26/2024",
+   "file_ref": "/das/Policies/107-011-130.pdf",
+   "show": "Yes",
+   "category": "Facilities",
+   "subcategory": "",
+   "views": [
+    "Facilities"
+   ]
+  },
+  {
+   "number": "107-011-150",
+   "title": "Animals in facilities owned, operated or leased by DAS",
+   "effective_date": "5/20/2025",
+   "file_ref": "/das/Policies/107-011-150.pdf",
+   "show": "Yes",
+   "category": "Facilities",
+   "subcategory": "",
+   "views": [
+    "Facilities"
+   ]
+  },
+  {
+   "number": "107-011-160",
+   "title": "Flag protocol at public buildings",
+   "effective_date": "6/13/2025",
+   "file_ref": "/das/Policies/107-011-160.pdf",
+   "show": "Yes",
+   "category": "Facilities",
+   "subcategory": "",
+   "views": [
+    "Facilities"
+   ]
+  },
+  {
+   "number": "107-011-170",
+   "title": "Building Security Access",
+   "effective_date": "6/10/2025",
+   "file_ref": "/das/Policies/107-011-170.pdf",
+   "show": "Yes",
+   "category": "Facilities",
+   "subcategory": "",
+   "views": [
+    "Facilities"
+   ]
+  },
+  {
+   "number": "107-011-225",
+   "title": "Building Names and Capitol Mall Building Signs",
+   "effective_date": "6/10/2025",
+   "file_ref": "/das/Policies/107-011-225.pdf",
+   "show": "Yes",
+   "category": "Facilities",
+   "subcategory": "",
+   "views": [
+    "Facilities"
+   ]
+  },
+  {
+   "number": "107-011-310",
+   "title": "Capitol Mall Area Parks and Grounds, Use of",
+   "effective_date": "6/20/2001",
+   "file_ref": "/das/Policies/107-011-310.pdf",
+   "show": "Yes",
+   "category": "Facilities",
+   "subcategory": "",
+   "views": [
+    "Facilities"
+   ]
+  },
+  {
+   "number": "107-011-320",
+   "title": "Public Use of State Building Premises",
+   "effective_date": "3/1/1998",
+   "file_ref": "/das/Policies/107-011-320.pdf",
+   "show": "Yes",
+   "category": "Facilities",
+   "subcategory": "",
+   "views": [
+    "Facilities"
+   ]
+  },
+  {
+   "number": "107-011-323",
+   "title": "Smoking, aerosolizing or vaporizing of inhalants at state-owned and leased facilities",
+   "effective_date": "6/10/2025",
+   "file_ref": "/das/Policies/107-011-323.pdf",
+   "show": "Yes",
+   "category": "Facilities",
+   "subcategory": "",
+   "views": [
+    "Facilities"
+   ]
+  },
+  {
+   "number": "107-011-330",
+   "title": "Vending Services in State Office Buildings and Grounds Controlled by the Department",
+   "effective_date": "6/10/2025",
+   "file_ref": "/das/Policies/107-011-330.pdf",
+   "show": "Yes",
+   "category": "Facilities",
+   "subcategory": "",
+   "views": [
+    "Facilities"
+   ]
+  },
+  {
+   "number": "107-011-331",
+   "title": "Cafeterias in state office buildings and grounds controlled by the Department",
+   "effective_date": "6/10/2025",
+   "file_ref": "/das/Policies/107-011-331.pdf",
+   "show": "Yes",
+   "category": "Facilities",
+   "subcategory": "",
+   "views": [
+    "Facilities"
+   ]
+  },
+  {
+   "number": "107-011-341",
+   "title": "Bomb Threat Procedures",
+   "effective_date": "2/1/2000",
+   "file_ref": "/das/Policies/107-011-341.pdf",
+   "show": "Yes",
+   "category": "Facilities",
+   "subcategory": "",
+   "views": [
+    "Facilities"
+   ]
+  },
+  {
+   "number": "20-000-01",
+   "title": "Classification Plan Development and Maintenance",
+   "effective_date": "3/21/2025",
+   "file_ref": "/das/Policies/20-000-01.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Class/comp",
+   "views": [
+    "HR-Class-Comp"
+   ]
+  },
+  {
+   "number": "20-000-05",
+   "title": "Job Evaluation and Position Benchmarks",
+   "effective_date": "3/21/2025",
+   "file_ref": "/das/Policies/20-000-05.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Class/comp",
+   "views": [
+    "HR-Class-Comp"
+   ]
+  },
+  {
+   "number": "20-005-01",
+   "title": "General Compensation Policy",
+   "effective_date": "3/21/2025",
+   "file_ref": "/das/Policies/20-005-01.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Class/comp",
+   "views": [
+    "HR-Class-Comp"
+   ]
+  },
+  {
+   "number": "20-005-05",
+   "title": "Merit Pay System",
+   "effective_date": "6/1/2024",
+   "file_ref": "/das/Policies/20-005-05.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Class/comp",
+   "views": [
+    "HR-Class-Comp"
+   ]
+  },
+  {
+   "number": "20-005-10",
+   "title": "Pay Practices",
+   "effective_date": "06/01/2024",
+   "file_ref": "/das/Policies/20-005-10.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Class/comp",
+   "views": [
+    "HR-Class-Comp"
+   ]
+  },
+  {
+   "number": "20-005-11",
+   "title": "Pay Differentials",
+   "effective_date": "6/1/2024",
+   "file_ref": "/das/Policies/20-005-11.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Class/comp",
+   "views": [
+    "HR-Class-Comp"
+   ]
+  },
+  {
+   "number": "20-005-15",
+   "title": "Exceptions to Hay Evaluated Salary",
+   "effective_date": "11/01/2024",
+   "file_ref": "/das/Policies/20-005-15.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Class/comp",
+   "views": [
+    "HR-Class-Comp"
+   ]
+  },
+  {
+   "number": "20-005-20",
+   "title": "Fair Labor Standards Act",
+   "effective_date": "1/1/2024",
+   "file_ref": "/das/Policies/20-005-20.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Class/comp",
+   "views": [
+    "HR-Class-Comp"
+   ]
+  },
+  {
+   "number": "30-000-01",
+   "title": "Position Management",
+   "effective_date": "3/21/2025",
+   "file_ref": "/das/Policies/30-000-01.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Position mgmt",
+   "views": [
+    "HR-Position Mgmt"
+   ]
+  },
+  {
+   "number": "30-000-20",
+   "title": "Span of Control",
+   "effective_date": "11/01/2024",
+   "file_ref": "/das/Policies/30-000-20.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Position mgmt",
+   "views": [
+    "HR-Position Mgmt"
+   ]
+  },
+  {
+   "number": "30-005-01",
+   "title": "Effect of Position Classification Change on Incumbents",
+   "effective_date": "1/1/2022",
+   "file_ref": "/das/Policies/30-005-01.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Position mgmt",
+   "views": [
+    "HR-Position Mgmt"
+   ]
+  },
+  {
+   "number": "40-010-02",
+   "title": "Recruitment and Selection",
+   "effective_date": "3/21/2025",
+   "file_ref": "/das/Policies/40-010-02.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Filling positions",
+   "views": [
+    "HR-Filling Positions"
+   ]
+  },
+  {
+   "number": "40-025-01",
+   "title": "Temporary Appointments",
+   "effective_date": "11/01/2024",
+   "file_ref": "/das/Policies/40-025-01.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Filling positions",
+   "views": [
+    "HR-Filling Positions"
+   ]
+  },
+  {
+   "number": "40-025-02",
+   "title": "Limited duration appointments",
+   "effective_date": "11/01/2024",
+   "file_ref": "/das/Policies/40-025-02.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Filling positions",
+   "views": [
+    "HR-Filling Positions"
+   ]
+  },
+  {
+   "number": "40-035-01",
+   "title": "Unclassified Service Employment, Investigation and Termination ",
+   "effective_date": "3/21/2025",
+   "file_ref": "/das/Policies/40-035-01.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Filling positions",
+   "views": [
+    "HR-Filling Positions"
+   ]
+  },
+  {
+   "number": "40-045-01",
+   "title": "Transfers",
+   "effective_date": "1/01/2025",
+   "file_ref": "/das/Policies/40-045-01.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Filling positions",
+   "views": [
+    "HR-Filling Positions"
+   ]
+  },
+  {
+   "number": "40-055-04",
+   "title": "Candidate Preference in Employment",
+   "effective_date": "3/21/2025",
+   "file_ref": "/das/Policies/40-055-04.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Filling positions",
+   "views": [
+    "HR-Filling Positions"
+   ]
+  },
+  {
+   "number": "40-055-10",
+   "title": "Current Employee Relocation",
+   "effective_date": "1/1/2025",
+   "file_ref": "/das/Policies/40-055-10.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Filling positions",
+   "views": [
+    "HR-Filling Positions"
+   ]
+  },
+  {
+   "number": "40-055-20",
+   "title": "New Employee Relocation",
+   "effective_date": "3/21/2025",
+   "file_ref": "/das/Policies/40-055-20.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Filling positions",
+   "views": [
+    "HR-Filling Positions"
+   ]
+  },
+  {
+   "number": "40-065-01",
+   "title": "Trial Service Period",
+   "effective_date": "11/01/2024",
+   "file_ref": "/das/Policies/40-065-01.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Filling positions",
+   "views": [
+    "HR-Filling Positions"
+   ]
+  },
+  {
+   "number": "40-080-01",
+   "title": "Reemployment",
+   "effective_date": "3/21/2025",
+   "file_ref": "/das/Policies/40-080-01.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Filling positions",
+   "views": [
+    "HR-Filling Positions"
+   ]
+  },
+  {
+   "number": "50-000-01",
+   "title": "Drug-Free Workplace",
+   "effective_date": "11/01/2024",
+   "file_ref": "/das/Policies/50-000-01.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Workforce mgmt",
+   "views": [
+    "HR-Workforce Mgmt"
+   ]
+  },
+  {
+   "number": "50-000-02",
+   "title": "Drug Testing of Employees in Designated Job Profiles",
+   "effective_date": "1/1/2025",
+   "file_ref": "/das/Policies/50-000-02.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Workforce mgmt",
+   "views": [
+    "HR-Workforce Mgmt"
+   ]
+  },
+  {
+   "number": "50-010-01",
+   "title": "Discrimination and Harassment Free Workplace",
+   "effective_date": "3/3/2025",
+   "file_ref": "/das/Policies/50-010-01.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Workforce mgmt",
+   "views": [
+    "HR-Workforce Mgmt"
+   ]
+  },
+  {
+   "number": "50-010-02",
+   "title": "Violence-Free Workplace",
+   "effective_date": "11/01/2024",
+   "file_ref": "/das/Policies/50-010-02.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Workforce mgmt",
+   "views": [
+    "HR-Workforce Mgmt"
+   ]
+  },
+  {
+   "number": "50-010-03",
+   "title": "Maintaining a Professional Workplace",
+   "effective_date": "3/3/2025",
+   "file_ref": "/das/Policies/50-010-03.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Workforce mgmt",
+   "views": [
+    "HR-Workforce Mgmt"
+   ]
+  },
+  {
+   "number": "50-010-04",
+   "title": "Workplace Effects of Domestic Violence, Harassment, Sexual Assault, and Stalking",
+   "effective_date": "3/21/2025",
+   "file_ref": "/das/Policies/50-010-04.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Workforce mgmt",
+   "views": [
+    "HR-Workforce Mgmt"
+   ]
+  },
+  {
+   "number": "50-010-05",
+   "title": "Weapons in the Workplace",
+   "effective_date": "3/21/2025",
+   "file_ref": "/das/Policies/50-010-05.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Workforce mgmt",
+   "views": [
+    "HR-Workforce Mgmt"
+   ]
+  },
+  {
+   "number": "50-010-06",
+   "title": "Employee Health & Wellness",
+   "effective_date": "1/1/2025",
+   "file_ref": "/das/Policies/50-010-06.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Workforce mgmt",
+   "views": [
+    "HR-Workforce Mgmt"
+   ]
+  },
+  {
+   "number": "50-010-08",
+   "title": "Recording Workplace Conversations",
+   "effective_date": "9/26/2025",
+   "file_ref": "/das/Policies/50-010-08.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Workforce mgmt",
+   "views": [
+    "HR-Workforce Mgmt"
+   ]
+  },
+  {
+   "number": "50-015-01",
+   "title": "Job Rotation",
+   "effective_date": "1/1/2025",
+   "file_ref": "/das/Policies/50-015-01.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Workforce mgmt",
+   "views": [
+    "HR-Workforce Mgmt"
+   ]
+  },
+  {
+   "number": "50-020-03",
+   "title": "Reinstatement and Reemployment of Injured Workers",
+   "effective_date": "1/1/2025",
+   "file_ref": "/das/Policies/50-020-03.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Workforce mgmt",
+   "views": [
+    "HR-Workforce Mgmt"
+   ]
+  },
+  {
+   "number": "50-020-05",
+   "title": "Early Return to Work of Injured Workers",
+   "effective_date": "3/21/2025",
+   "file_ref": "/das/Policies/50-020-05.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Workforce mgmt",
+   "views": [
+    "HR-Workforce Mgmt"
+   ]
+  },
+  {
+   "number": "50-020-10",
+   "title": "ADA and Reasonable Accommodation in Employment",
+   "effective_date": "3/21/2025",
+   "file_ref": "/das/Policies/50-020-10.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Workforce mgmt",
+   "views": [
+    "HR-Workforce Mgmt"
+   ]
+  },
+  {
+   "number": "50-025-01",
+   "title": "Layoff/Removal",
+   "effective_date": "3/21/2025",
+   "file_ref": "/das/Policies/50-025-01.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Workforce mgmt",
+   "views": [
+    "HR-Workforce Mgmt"
+   ]
+  },
+  {
+   "number": "50-030-01",
+   "title": "Restoration of Removed Management Service Employees",
+   "effective_date": "1/1/2025",
+   "file_ref": "/das/Policies/50-030-01.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Workforce mgmt",
+   "views": [
+    "HR-Workforce Mgmt"
+   ]
+  },
+  {
+   "number": "50-035-01",
+   "title": "Performance Management Process",
+   "effective_date": "3/21/2025",
+   "file_ref": "/das/Policies/50-035-01.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Workforce mgmt",
+   "views": [
+    "HR-Workforce Mgmt"
+   ]
+  },
+  {
+   "number": "50-040-01",
+   "title": "Employee Performance Recognition Program",
+   "effective_date": "3/21/2025",
+   "file_ref": "/das/Policies/50-040-01.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Workforce mgmt",
+   "views": [
+    "HR-Workforce Mgmt"
+   ]
+  },
+  {
+   "number": "50-050-01",
+   "title": "Working Remotely",
+   "effective_date": "3/21/2025",
+   "file_ref": "/das/Policies/50-050-01.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Workforce mgmt",
+   "views": [
+    "HR-Workforce Mgmt"
+   ]
+  },
+  {
+   "number": "50-060-01",
+   "title": "Transition of Agency Head",
+   "effective_date": "3/21/2025",
+   "file_ref": "/das/Policies/50-060-01.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Workforce mgmt",
+   "views": [
+    "HR-Workforce Mgmt"
+   ]
+  },
+  {
+   "number": "50-070-01",
+   "title": "Patient Protection and Affordable Care Act",
+   "effective_date": "3/21/2025",
+   "file_ref": "/das/Policies/50-070-01.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Workforce mgmt",
+   "views": [
+    "HR-Workforce Mgmt"
+   ]
+  },
+  {
+   "number": "50-090-01",
+   "title": "Managing Improper Governmental Conduct",
+   "effective_date": "1/1/2025",
+   "file_ref": "/das/Policies/50-090-01.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Workforce mgmt",
+   "views": [
+    "HR-Workforce Mgmt"
+   ]
+  },
+  {
+   "number": "60-000-01",
+   "title": "Sick Leave With Pay",
+   "effective_date": "9/3/2023",
+   "file_ref": "/das/Policies/60-000-01.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Employee leave",
+   "views": [
+    "HR-Employee Leave"
+   ]
+  },
+  {
+   "number": "60-000-03",
+   "title": "Oregon Family Leave Act",
+   "effective_date": "08/19/2024",
+   "file_ref": "/das/Policies/60-000-03.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Employee leave",
+   "views": [
+    "HR-Employee Leave"
+   ]
+  },
+  {
+   "number": "60-000-04",
+   "title": "Paid Leave Oregon",
+   "effective_date": "7/1/2024",
+   "file_ref": "/das/Policies/60-000-04.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Employee leave",
+   "views": [
+    "HR-Employee Leave"
+   ]
+  },
+  {
+   "number": "60-000-05",
+   "title": "Vacation Leave",
+   "effective_date": "1/1/2025",
+   "file_ref": "/das/Policies/60-000-05.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Employee leave",
+   "views": [
+    "HR-Employee Leave"
+   ]
+  },
+  {
+   "number": "60-000-10",
+   "title": "Special Leaves With Pay",
+   "effective_date": "3/21/2025",
+   "file_ref": "/das/Policies/60-000-10.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Employee leave",
+   "views": [
+    "HR-Employee Leave"
+   ]
+  },
+  {
+   "number": "60-000-11",
+   "title": "Leaves without Pay",
+   "effective_date": "3/21/2025",
+   "file_ref": "/das/Policies/60-000-11.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Employee leave",
+   "views": [
+    "HR-Employee Leave"
+   ]
+  },
+  {
+   "number": "60-000-12",
+   "title": "Statutorily Required Leaves with and without Pay",
+   "effective_date": "1/1/2024",
+   "file_ref": "/das/Policies/60-000-12.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Employee leave",
+   "views": [
+    "HR-Employee Leave"
+   ]
+  },
+  {
+   "number": "60-000-15",
+   "title": "Family and Medical Leave",
+   "effective_date": "7/1/2024",
+   "file_ref": "/das/Policies/60-000-15.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Employee leave",
+   "views": [
+    "HR-Employee Leave"
+   ]
+  },
+  {
+   "number": "60-000-20",
+   "title": "Alternate Leave Provisions",
+   "effective_date": "3/21/2025",
+   "file_ref": "/das/Policies/60-000-20.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Employee leave",
+   "views": [
+    "HR-Employee Leave"
+   ]
+  },
+  {
+   "number": "60-000-25",
+   "title": "Military Leave",
+   "effective_date": "1/1/2024",
+   "file_ref": "/das/Policies/60-000-25.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Employee leave",
+   "views": [
+    "HR-Employee Leave"
+   ]
+  },
+  {
+   "number": "60-000-30",
+   "title": "Expression of Milk and Unpaid Rest Periods",
+   "effective_date": "11/01/2024",
+   "file_ref": "/das/Policies/60-000-30.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Employee leave",
+   "views": [
+    "HR-Employee Leave"
+   ]
+  },
+  {
+   "number": "60-010-01",
+   "title": "Holiday Leave with Pay",
+   "effective_date": "01/01/2024",
+   "file_ref": "/das/Policies/60-010-01.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Employee leave",
+   "views": [
+    "HR-Employee Leave"
+   ]
+  },
+  {
+   "number": "60-015-01",
+   "title": "Temporary Interruption of Employment",
+   "effective_date": "3/21/2025",
+   "file_ref": "/das/Policies/60-015-01.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Employee leave",
+   "views": [
+    "HR-Employee Leave"
+   ]
+  },
+  {
+   "number": "60-020-05",
+   "title": "Military Donated Leave Program",
+   "effective_date": "1/1/2025",
+   "file_ref": "/das/Policies/60-020-05.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Employee leave",
+   "views": [
+    "HR-Employee Leave"
+   ]
+  },
+  {
+   "number": "60-025-01",
+   "title": "Donated Leave",
+   "effective_date": "3/21/2025",
+   "file_ref": "/das/Policies/60-025-01.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Employee leave",
+   "views": [
+    "HR-Employee Leave"
+   ]
+  },
+  {
+   "number": "70-000-02",
+   "title": "Management Service Discipline, and Dismissal/Removal",
+   "effective_date": "11/01/2024",
+   "file_ref": "/das/Policies/70-000-02.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Discipline & discharge",
+   "views": [
+    "HR-Discipline & Discharge"
+   ]
+  },
+  {
+   "number": "70-000-10",
+   "title": "Management Service Grievance and Appeal",
+   "effective_date": "1/1/2025",
+   "file_ref": "/das/Policies/70-000-10.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Discipline & discharge",
+   "views": [
+    "HR-Discipline & Discharge"
+   ]
+  },
+  {
+   "number": "70-005-02",
+   "title": "Classified Unrepresented Discipline, and Dismissal",
+   "effective_date": "3/21/2025",
+   "file_ref": "/das/Policies/70-005-02.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Discipline & discharge",
+   "views": [
+    "HR-Discipline & Discharge"
+   ]
+  },
+  {
+   "number": "70-005-05",
+   "title": "Classified Unrepresented Grievance and Appeal",
+   "effective_date": "3/21/2025",
+   "file_ref": "/das/Policies/70-005-05.pdf",
+   "show": "Yes",
+   "category": "HR",
+   "subcategory": "Discipline & discharge",
+   "views": [
+    "HR-Discipline & Discharge"
+   ]
+  }
+ ],
+ "checker": {
+  "web": "/das",
+  "list": "/das/Policies",
+  "id_field": "Number",
+  "date_field": "Effective_x0020_date"
+ }
+}

@@ -1,0 +1,84 @@
+                                                     NUMBER                      SUPERSEDES
+
+                                                     107-004-015                 Policy # | 107-001-015
+ STATEWIDE POLICY                                                                (2010)
+                                                     EFFECTIVE DATE              PAGE NUMBER
+                                                     May 1, 2025
+                                                     REVIEWED DATE               Pages 1 of 2
+                                                     May 1, 2025
+ DIVISION                                            REFERENCE
+
+ Enterprise Information Services                     •   ORS 291.015, 291.016, 291.018, 291.026, 291.034, and
+                                                         276A.206
+ POLICY OWNER                                        •   Statewide Procedure 107-004-015_PR
+
+ Shared Services
+ SUBJECT                                             APPROVED
+
+ Internal Controls for Managing                      _________________________________________________
+ Mobile Communications Devices                       Terrence Woods, State Chief Information Officer
+
+
+PURPOSE
+
+This policy identifies the minimum internal controls for managing the use of an agency’s Mobile
+Communications Devices (MCDs).
+
+APPLICABILITY
+
+All Executive Branch agencies under direct authority of the Governor. Other agencies may follow this policy at
+their option.
+
+DEFINITIONS
+
+Access Account: The account of each access number for voice/data transmission provided by a mobile
+communications provider.
+
+Authorized User: The person or entity authorized to use the access number on the Access Account.
+
+Mobile Communication Device (MCD): A wireless or cellular, two-way communication device designed to
+receive and transmit voice or text communication including mobile Global Positioning System (GPS) device
+and/or application data. This policy applies to any Mobile Communication Device that requires the purchase of
+mobile communication services by the state. MCD Excludes devices or any equipment that while capable of
+connecting to a cellular network is not designed for direct human communication or interaction (e.g. roadside
+temperature sensor, or controller for emergency exit lighting).
+
+
+Policy No: 107-004-015 | Effective: May 1, 2025 Reviewed: May 1, 2025                                 Page 1 of 2
+Mobile Device Management: Software that allows IT administrators to control, secure, and enforce policies on
+smartphones, tablets, and other endpoints.
+
+Plan Charge: The charge assessed by a data or voice provider for each Access Account.
+
+Text: A Short Messaging Service (SMS), Multimedia Messaging Services (MMS) iMessage, or any other written
+form of message using an MCD such as a cell phone, smart phone, tablet, or GPS device.
+
+Short Messaging Services (SMS): Commonly referred to as texting or text messaging. This is a technology for
+sending short messages between MCDs.
+
+GENERAL INFORMATION
+
+General use at work:
+   • MCDs are assigned to authorized users in order to carry out their work while conducting state business.
+   • MCDs assigned to authorized users only for business use except in case of an emergency when a
+      personal device is not available. When assigned MCDs are utilized beyond emergency use, the agency
+      may seek reimbursement through payroll deduction.
+   • MCDs are to be protected by the authorized user, used in an appropriate manner, and returned when
+      employment ends.
+   • Plan charges for MCDs issued to authorized users will be monitored, allowing an employee’s manager
+      to determine excessive or irregular use and resulting consequences.
+   • Use of the camera function on camera-enabled MCDs is prohibited in spaces where there is reasonable
+      expectation of privacy such as restrooms, locker rooms, and lactation rooms.
+   • Use of the camera function on camera-enabled MCDs of Limited, Restricted, and Critical Information is
+      prohibited. (Limited, Restricted and Critical as defined in Policy 107-004-050, Information Asset
+      Classification.)
+   • Use of the camera function on camera-enabled MCDs of locations considered to be Protected Critical
+      Infrastructure Information (PCII) is limited to those certified to handle PCII.
+   • State-owned MCDs will utilize Mobile Device Management software approved by Enterprise Information
+      Services.
+
+
+
+
+Policy No:107-004-015 | Effective: May 1, 2025 Reviewed: May 1, 2025                              Page 2 of 2
+

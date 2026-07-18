@@ -21,40 +21,74 @@ def fetch(url: str) -> bytes:
         return resp.read()
 
 
-def check_oam_listing():
-    """Re-query the 16 OAM chapter views (SharePoint REST, same data the official page
-    renders) and diff normalized rows (id | effective_date | file_ref) against the
-    committed snapshot. Diff rules per the listing of record: key on document id; a
-    change = effective date or file path changed. Returns list of difference strings."""
+LISTING_SNAPSHOTS = {
+    "oam-listing": "oam-listing.json",
+    "das-policies-listing": "das-policies-listing.json",
+}
+
+
+def _fetch_view_rows(web, list_path, guid):
+    url = (f"https://www.oregon.gov{web}/_api/web/GetList('{list_path}')/"
+           f"RenderListDataAsStream?View={guid}")
+    body = b'{"parameters":{"__metadata":{"type":"SP.RenderListDataParameters"},"RenderOptions":2}}'
+    req = urllib.request.Request(url, data=body, headers={
+        "User-Agent": USER_AGENT,
+        "Accept": "application/json;odata=verbose",
+        "Content-Type": "application/json;odata=verbose"})
     import json
-    snap = json.loads((REPO_ROOT / "_meta/snapshots/oam-listing.json").read_text())
+    with urllib.request.urlopen(req, timeout=60) as resp:
+        return json.loads(resp.read())["Row"]
+
+
+def check_sp_listing(snapshot_name):
+    """Re-query a SharePoint listing's views (same data the official page renders) and
+    diff normalized rows against the committed snapshot. Diff rules per the listing of
+    record: key on document id + file path; a change = effective date changed; rows
+    keyed only one way so adds/removals are also flagged."""
+    import json
+    snap = json.loads((REPO_ROOT / "_meta/snapshots" / snapshot_name).read_text())
+    cfg = snap["checker"]
     diffs = []
-    for ch, c in snap["chapters"].items():
-        guid = snap["views"][ch]
-        url = ("https://www.oregon.gov/das/Financial/Acctng/_api/web/"
-               "GetList('/das/Financial/Acctng/Documents')/RenderListDataAsStream"
-               f"?View={guid}")
-        body = b'{"parameters":{"__metadata":{"type":"SP.RenderListDataParameters"},"RenderOptions":2}}'
-        req = urllib.request.Request(url, data=body, headers={
-            "User-Agent": USER_AGENT,
-            "Accept": "application/json;odata=verbose",
-            "Content-Type": "application/json;odata=verbose"})
-        with urllib.request.urlopen(req, timeout=60) as resp:
-            data = json.loads(resp.read())
+    # stored rows: OAM nests under chapters; policies is a flat rows list
+    stored_by_view = {}
+    if "chapters" in snap:
+        for ch, c in snap["chapters"].items():
+            stored_by_view[ch] = {r["id"] + "|" + r["file_ref"]: r["effective_date"]
+                                  for r in c["rows"]}
+    else:
+        flat = {}
+        for r in snap["rows"]:
+            flat[r["number"] + "|" + r["file_ref"]] = r["effective_date"]
+        # live side is per-view; compare against the union once
+        stored_by_view["*"] = flat
+
+    if "chapters" in snap:
+        for ch in snap["chapters"]:
+            rows = _fetch_view_rows(cfg["web"], cfg["list"], snap["views"][ch])
+            live = {(r.get(cfg["id_field"]) or "").strip() + "|" + (r.get("FileRef") or ""):
+                    (r.get(cfg["date_field"]) or "") for r in rows}
+            stored = stored_by_view[ch]
+            for k in stored.keys() - live.keys():
+                diffs.append(f"{ch} REMOVED: {k}")
+            for k in live.keys() - stored.keys():
+                diffs.append(f"{ch} ADDED: {k}")
+            for k in stored.keys() & live.keys():
+                if stored[k] != live[k]:
+                    diffs.append(f"{ch} DATE CHANGED: {k}: {stored[k]!r} -> {live[k]!r}")
+    else:
         live = {}
-        for r in data["Row"]:
-            key = (r.get("Alpha_x002f_Number") or "").strip() + "|" + (r.get("FileRef") or "")
-            live[key] = (r.get("Effective_x0020_Date") or "")
-        stored = {}
-        for r in c["rows"]:
-            stored[r["id"] + "|" + r["file_ref"]] = r["effective_date"]
+        for name, guid in snap["views"].items():
+            for r in _fetch_view_rows(cfg["web"], cfg["list"], guid):
+                key = (r.get(cfg["id_field"]) or "").strip() + "|" + (r.get("FileRef") or "")
+                live[key] = (r.get(cfg["date_field"]) or "")
+        stored = stored_by_view["*"]
         for k in stored.keys() - live.keys():
-            diffs.append(f"ch{ch} REMOVED: {k}")
+            diffs.append(f"REMOVED: {k}")
         for k in live.keys() - stored.keys():
-            diffs.append(f"ch{ch} ADDED: {k}")
+            diffs.append(f"ADDED: {k}")
         for k in stored.keys() & live.keys():
             if stored[k] != live[k]:
-                diffs.append(f"ch{ch} DATE CHANGED: {k}: {stored[k]!r} -> {live[k]!r}")
+                diffs.append(f"DATE CHANGED: {k}: {stored[k]!r} -> {live[k]!r}")
     return diffs
 
 
@@ -67,9 +101,9 @@ def main():
     changed, failed = [], []
     for src in manifest.get("sources", []):
         sid, url, old = src["id"], src["url"], src["sha256"]
-        if sid == "oam-listing":
+        if sid in LISTING_SNAPSHOTS:
             try:
-                diffs = check_oam_listing()
+                diffs = check_sp_listing(LISTING_SNAPSHOTS[sid])
             except Exception as e:
                 failed.append(sid)
                 print(f"FETCH FAILED {sid}: listing API ({e})")

@@ -1,0 +1,105 @@
+RESPONSIBLE ARTIFICIAL INTELLIGENCE
+USAGE PROCEDURE
+NUMBER: 107-004-190_PR
+EFFECTIVE DATE: June 16, 2026
+DIVISION: Enterprise Information Services (State CIO)
+POLICY OWNER: Privacy and Artificial Intelligence
+INTERNAL OR STATEWIDE PROCEDURE: Statewide
+LAST REVIEWED DATE: June 16, 2026
+SUPERSEDES: Updated Interim Guidance on Generative AI Usage and Access memo
+(Feb.10, 2026)
+PAGE NUMBER: Page 1 of 3
+REFERENCE/AUTHORITY:
+
+   •   ORS 276A.203; 276A.206
+   •   Responsible Artificial Intelligence Usage Policy 107-004-190
+APPROVED SIGNATURE:
+
+
+_____________________________________________
+Terrence Woods, State Chief Information Officer
+
+Statement
+This procedure establishes the core activities agencies will use to implement
+the statewide Responsible Artificial Intelligence (AI) Usage policy.
+
+Applicability
+This procedure applies to state agencies as defined in ORS 174.112, and includes any
+board, commission, department, office or other entity within the Oregon executive
+department. The following agencies are excluded:
+
+   •   Secretary of State
+   •   State Treasurer
+
+
+
+
+Policy No: 107-004-190_PR | Effective: 6/16/2026; Reviewed: 6/16/2026           Page 1 of 3
+The procedure applies to generative and agentic AI systems used to conduct the business
+of the state, including both standalone systems and components embedded in other
+software.
+
+Forms and Instructions
+The following supporting materials may be required or used under this procedure:
+     •   Agency AI Adoption Strategy Template and Instructions
+     •   AI Risk Management Framework
+     •   AI Use Form
+     •   User disclosure mechanism
+     •   User feedback
+     •   Human in the loop documentation
+     •   Higher-risk use cases requirements
+
+Definitions
+Refer to the Responsible Artificial Intelligence Usage Policy (107-004-190).
+
+Procedure
+Create an AI Adoption Plan for the Agency
+ STEP RESPONSIBILITY ACTION
+ 1        Agency             Establish an internal process for creating an AI Adoption Plan
+                             following the AI Adoption Strategy template provided.
+
+ 2                           Create an AI Adoption Plan that is aligned with and/or
+                             included within the agency’s strategic/business plan, IT
+                             strategic plan, and data governance plan.
+
+
+
+For proposed new uses of AI, evaluate risks and submit the AI Use Form as part of the
+Information Technology Investment Oversight Policy and Procedure
+ STEP RESPONSIBILITY ACTION
+ 1        Agency             Review the proposed AI use through the agency’s internal
+                             governance, risk evaluation, and approval processes.
+
+ 2                           Apply the AI Risk Management Framework to your potential AI
+                             use case. Refer to the questions in the AI Use Form,
+                             to identify risks and answer questions around safeguards,
+                             testing, monitoring, and oversight.
+
+
+Policy No: 107-004-190_PR | Effective: 6/16/2026; Reviewed: 6/16/2026            Page 2 of 3
+ STEP RESPONSIBILITY ACTION
+ 3      Agency             Ensure the proposed use has the following requirements
+                           and/or standards identified:
+                              • Generative AI model and system card disclosure
+                              • Use of non-public data for model training prohibited
+                              • User disclosure mechanism
+                              • User feedback
+                              • Human in the loop documentation
+                              • Additional requirements for elevated-risk or higher-
+                                  risk uses
+
+ 4                         Complete and submit the AI Use Form as a supplemental
+                           form to the IT investment intake process.
+
+ 5      EIS                Initial review by EIS. For use cases categorized as higher-risk,
+                           EIS will prescribe additional requirements. Refer to Higher-
+                           risk use cases requirements for additional information.
+
+ 6      Agency             Complete additional requirements for higher-risk use cases,
+                           if required by EIS.
+
+
+
+
+Policy No: 107-004-190_PR | Effective: 6/16/2026; Reviewed: 6/16/2026            Page 3 of 3
+

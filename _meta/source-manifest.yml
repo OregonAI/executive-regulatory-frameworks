@@ -4,218 +4,811 @@
 # Stage 2 batch approved in-chat by @morficflux on 2026-07-17.
 sources:
   # ---- DAS statewide policies ----
+  # Regenerated 2026-07-18 from the listing of record (das-policies-listing.json).
+  - id: das-policies-listing
+    url: "https://www.oregon.gov/das/Pages/policies.aspx"
+    sha256: "0000000000000000000000000000000000000000000000000000000000000000"
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "DAS policies listing of record (14 SharePoint views). detect_changes handles this id specially; sha256 unused."
+  - id: das-10-000-01
+    url: "https://www.oregon.gov/das/Policies/10-000-01.pdf"
+    sha256: a730f882fd8cb8265e575f728d9d9e788428b91826edada4cae7e59e14001853
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Definitions, Human Resource"
+  - id: das-10-011-01
+    url: "https://www.oregon.gov/das/Policies/10-011-01.pdf"
+    sha256: 6a06eca86fa41fce9d9b77021defa2e949dd9a3f21cfcbc532f547605714be2c
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Personnel Records"
+  - id: das-10-025-01
+    url: "https://www.oregon.gov/das/Policies/10-025-01.pdf"
+    sha256: 16926f800caf6c00fe4f479398cda67d185f25f461879c4f6953c942d4260f0b
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Human Resources Investigation Practices"
+  - id: das-10-030-01
+    url: "https://www.oregon.gov/das/Policies/10-030-01.pdf"
+    sha256: 08f92e044d9524df141484f4184079ae9734f2037438c7e9d5ab8e44dc885862
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Support of Employee's Work and Life Balance"
+  - id: das-10-040-01
+    url: "https://www.oregon.gov/das/Policies/10-040-01.pdf"
+    sha256: 13ea56cdd4aba3a2d554152369271ab295a22b15b89b969dfe5760bc729342b5
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Statewide Workforce Learning and Development"
+  - id: das-105-001-0000
+    url: "https://www.oregon.gov/das/Policies/Link%20to%20OAR-02.pdf"
+    sha256: bad3df2e984889f5df99c6d1057f63a8ca4e05921cbc02aa24a83ded59e7e5f0
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Human Resources-Notice of Rulemaking"
+  - id: das-105-001-0005
+    url: "https://www.oregon.gov/das/Policies/Link%20to%20OAR-03.pdf"
+    sha256: bad3df2e984889f5df99c6d1057f63a8ca4e05921cbc02aa24a83ded59e7e5f0
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Human Resources-Model Rules of Procedure"
+  - id: das-105-020-0001
+    url: "https://www.oregon.gov/das/Policies/Link%20to%20OAR-07.pdf"
+    sha256: bad3df2e984889f5df99c6d1057f63a8ca4e05921cbc02aa24a83ded59e7e5f0
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Comparability of Work Rule"
+  - id: das-105-020-0015
+    url: "https://www.oregon.gov/das/Policies/Link%20to%20OAR-08.pdf"
+    sha256: bad3df2e984889f5df99c6d1057f63a8ca4e05921cbc02aa24a83ded59e7e5f0
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Employee Contributions and Limitations to Retirement"
+  - id: das-105-040-0001
+    url: "https://www.oregon.gov/das/Policies/Link%20to%20OAR-09.pdf"
+    sha256: bad3df2e984889f5df99c6d1057f63a8ca4e05921cbc02aa24a83ded59e7e5f0
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Equal Employment Opportunity and Affirmative Action Rule"
+  - id: das-105-050-0003
+    url: "https://www.oregon.gov/das/Policies/Link%20to%20OAR-19.pdf"
+    sha256: bad3df2e984889f5df99c6d1057f63a8ca4e05921cbc02aa24a83ded59e7e5f0
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Alcohol and Controlled Substance Testing of Employees Having Commercial Drivers License Ru"
+  - id: das-105-050-0004
+    url: "https://www.oregon.gov/das/Policies/Link%20to%20OAR-20.pdf"
+    sha256: bad3df2e984889f5df99c6d1057f63a8ca4e05921cbc02aa24a83ded59e7e5f0
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Drug Testing of Final Applicants for Certain State Classifications|Positions Rule"
+  - id: das-105-050-0025
+    url: "https://www.oregon.gov/das/Policies/Link%20to%20OAR-22.pdf"
+    sha256: bad3df2e984889f5df99c6d1057f63a8ca4e05921cbc02aa24a83ded59e7e5f0
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Injured Worker Preference for Light Duty Assignments Rule"
+  - id: das-105-050-0030
+    url: "https://www.oregon.gov/das/Policies/Link%20to%20OAR-23.pdf"
+    sha256: bad3df2e984889f5df99c6d1057f63a8ca4e05921cbc02aa24a83ded59e7e5f0
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Injured Worker Preference for Entry-level Positions Rule"
+  - id: das-107-001-002
+    url: "https://www.oregon.gov/das/Policies/107-001-002.pdf"
+    sha256: d64a914590b00572540576ee15f2b6f04868368c471cdcf0c6178f364af81a7e
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Exceptions to Policies"
+  - id: das-107-001-002_pr
+    url: "https://www.oregon.gov/das/Policies/107-001-002_PR.pdf"
+    sha256: de6e52c0f7d92423ecd7502ae0a1b1ea01db979a2bc1a689aef106933ad0398e
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Exceptions to Policies procedure"
+  - id: das-107-001-010
+    url: "https://www.oregon.gov/das/Policies/107-001-010.pdf"
+    sha256: 1047ebc54696f41d7a1e4cebba184ebe3c99acc13b4bcb215ac3f27d60f3e946
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Continuity of Operations Planning, Statewide"
+  - id: das-107-001-016
+    url: "https://www.oregon.gov/das/Policies/107-001-016.pdf"
+    sha256: 807bcc507a09051485fa07c2e1f8ce780bb008aac21c91212822f6915628d600
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Mobile Communication Device Usage While Driving"
   - id: das-107-001-020
-    url: https://www.oregon.gov/das/Policies/107-001-020.pdf
+    url: "https://www.oregon.gov/das/Policies/107-001-020.pdf"
     sha256: e7af87ac6466d4a914335142a978f8b7d95cfa38eba56ef060dd99090f1c16fe
-    last_checked: "2026-07-17"
+    last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Public Records Management. Effective 6/1/2025."
+    notes: "Public Records Management"
+  - id: das-107-001-030
+    url: "https://www.oregon.gov/das/Policies/107-001-030.pdf"
+    sha256: 230f1ac126d7e346ff9af24746734883793b2ee9936b8b34ec309727be4648fa
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Public Records Requests Fees and Charges"
+  - id: das-107-001-040
+    url: "https://www.oregon.gov/das/Policies/107-001-040.pdf"
+    sha256: b737bd9bc9b380eeaeff964fe0e6c5c66abcd04ea687e3840bfd90485c69f0c1
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Enterprise Customer Service Standards"
   - id: das-107-004-010
-    url: https://www.oregon.gov/das/Policies/107-004-010.pdf
+    url: "https://www.oregon.gov/das/Policies/107-004-010.pdf"
     sha256: 2fd5cd7efcca59b9f547f280e91059854032068301824015584566f84fca868c
-    last_checked: "2026-07-17"
+    last_checked: "2026-07-18"
     recheck: monthly
-    notes: "IT Asset Inventory & Management. Effective 09-08-08."
+    notes: "Information Technology Asset Inventory & Management"
+  - id: das-107-004-015
+    url: "https://www.oregon.gov/das/Policies/107-004-015.pdf"
+    sha256: fc2c0caf3fca55d85f363800c7fc35ddd1957edac51aee214f87ed6d416154f3
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Mobile Communications Devices, Internal Controls for Managing Policy"
+  - id: das-107-004-015_pr
+    url: "https://www.oregon.gov/das/Policies/107-004-015_PR.pdf"
+    sha256: adc8eb3aa4eedb4302a154f6d703e3aaa7de56a69da49385e2771418ac3ff992
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Mobile Communications Devices, Internal Controls for Managing Procedure"
+  - id: das-107-004-030
+    url: "https://www.oregon.gov/das/Policies/107-004-030.pdf"
+    sha256: 83faee7475887f5e61e5c2b6331fcc185dbdf264828fa50324ba55fd78aed46f
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Independent Quality Management Services for IT Initiatives Policy"
+  - id: das-107-004-030_pr
+    url: "https://www.oregon.gov/das/Policies/107-004-030_PR.pdf"
+    sha256: 52e4484a528d0f10b451d2b5bbfdb97665b73b4ba12442a084502b37a11791c0
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Independent Quality Management Services for IT Initiatives Procedure"
   - id: das-107-004-050
-    url: https://www.oregon.gov/das/Policies/107-004-050.pdf
+    url: "https://www.oregon.gov/das/Policies/107-004-050.pdf"
     sha256: 2eecf7b9e2027c4fe8e342d109daf921a727a361ed2f94f82b4bc0a89b6085ff
-    last_checked: "2026-07-17"
+    last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Information Asset Classification. Effective 7/12/2023."
+    notes: "Information Asset Classification Policy"
   - id: das-107-004-051
-    url: https://www.oregon.gov/das/Policies/107-004-051.pdf
+    url: "https://www.oregon.gov/das/Policies/107-004-051.pdf"
     sha256: 62c3d544ea18704207b2ba0e28e52046baad7085f499d66398bddb61815b5284
-    last_checked: "2026-07-17"
+    last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Controlling Portable and Removable Storage Devices. Effective 07/30/07. IMAGE-ONLY SCAN — summary-only ingest, no verbatim quotes."
+    notes: "Controlling Portable and Removable Storage Devices"
   - id: das-107-004-052
-    url: https://www.oregon.gov/das/Policies/107-004-052.pdf
+    url: "https://www.oregon.gov/das/Policies/107-004-052.pdf"
     sha256: f1f6759cf76b92ade851db5ec0a57cf45ad94ecf642ad56f3d14bc1dcb61d312
-    last_checked: "2026-07-17"
+    last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Cyber and Information Security. Effective 2/17/2026."
+    notes: "Cyber and Information Security"
   - id: das-107-004-052_pr
-    url: https://www.oregon.gov/das/Policies/107-004-052_PR.pdf
+    url: "https://www.oregon.gov/das/Policies/107-004-052_PR.pdf"
     sha256: 4b4e7159961cfc11a6ed28d79f9fed4d3fcda7295f63a6ff7651608233dc76b0
-    last_checked: "2026-07-17"
+    last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Cyber and Information Security Procedure. Effective 2/17/2026."
+    notes: "Cyber and Information Security Procedure"
+  - id: das-107-004-053
+    url: "https://www.oregon.gov/das/Policies/107-004-053.pdf"
+    sha256: d638bb6ac81fac9cc1c6aa513d81759871e39525c3aec72dd57e723c7d03f323
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Employee Security"
   - id: das-107-004-100
-    url: https://www.oregon.gov/das/Policies/107-004-100.pdf
+    url: "https://www.oregon.gov/das/Policies/107-004-100.pdf"
     sha256: b6a43762ffdbfac021c4c6fc1cdc56e0af3dc0394d90bab8cdb87b44231961d7
-    last_checked: "2026-07-17"
+    last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Transporting Information Assets. Effective 01-31-08. IMAGE-ONLY SCAN — summary-only ingest."
+    notes: "Transporting Information Assets"
   - id: das-107-004-110
-    url: https://www.oregon.gov/das/Policies/107-004-110.pdf
+    url: "https://www.oregon.gov/das/Policies/107-004-110.pdf"
     sha256: 00e49c9b62ac8b2506b66162e3397e956c383864b40faf3850d1052b32ec3507
-    last_checked: "2026-07-17"
+    last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Acceptable Use of State Information Assets. Effective 01-01-2010."
+    notes: "Acceptable Use of State Information Assets"
   - id: das-107-004-120
-    url: https://www.oregon.gov/das/Policies/107-004-120.pdf
+    url: "https://www.oregon.gov/das/Policies/107-004-120.pdf"
     sha256: 7366e8d8d35944f244059a9fe19fe80b4492175ba8c3c26d89e539801aa3ecca
-    last_checked: "2026-07-17"
+    last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Cyber and Information Security Incident Response. Effective 11/16/2020."
+    notes: "Cyber and Information Security Incident Response"
+  - id: das-107-004-130
+    url: "https://www.oregon.gov/das/Policies/107-004-130.pdf"
+    sha256: 568bd14254181080759ae703a5c134e9681c568b1e98a7ac9316763a37600116
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Information Technology Investment Oversight"
+  - id: das-107-004-130_pr
+    url: "https://www.oregon.gov/das/Policies/107-004-130_PR.pdf"
+    sha256: dfe75be5c5c475e3679023486131d01fecd3867897c301d4e1c6282652b95187
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Information Technology Investment Oversight Procedure"
   - id: das-107-004-140
-    url: https://www.oregon.gov/das/Policies/107-004-140.pdf
+    url: "https://www.oregon.gov/das/Policies/107-004-140.pdf"
     sha256: f24caa2502eaa2b59e3fa46d728b858bdd1feb4120083d22c9d03789f34ec092
-    last_checked: "2026-07-17"
+    last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Privileged Access to Information Systems (State Data Center). Effective 7/10/2013."
+    notes: "Privileged Access to Information Systems"
   - id: das-107-004-150
-    url: https://www.oregon.gov/das/Policies/107-004-150.pdf
+    url: "https://www.oregon.gov/das/Policies/107-004-150.pdf"
     sha256: e0bf3b473f05c784972305b6772c574f42c4b6bb64aa66c6fce14951696fdd4a
-    last_checked: "2026-07-17"
+    last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Cloud and Hosted Systems. Effective 5/1/2019."
+    notes: "Cloud and Hosted Systems"
+  - id: das-107-004-150_pr
+    url: "https://www.oregon.gov/das/Policies/107-004-150_PR.pdf"
+    sha256: cf26d8a220476c9a35a080ccf77b61955001cb2b2bc9d98f2d0b7dfa4915ae0d
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Cloud and Hosted Systems Procedure"
+  - id: das-107-004-155
+    url: "https://www.oregon.gov/das/Policies/107-004-155.pdf"
+    sha256: 280802e64265b8805e68ffee51f5c3b0ac9a935b624cc176d08d8dbf770ec289
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Covered Products and Vendors Policy"
+  - id: das-107-004-155_pr
+    url: "https://www.oregon.gov/das/Policies/107-004-155_PR.pdf"
+    sha256: 9fc6eadd7fb652e833d97e53363e666f1c24eb5d003161e1a492cdabe19013bd
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Covered Products and Vendors Procedure"
   - id: das-107-004-160
-    url: https://www.oregon.gov/das/Policies/107-004-160.pdf
+    url: "https://www.oregon.gov/das/Policies/107-004-160.pdf"
     sha256: 376c9d904f247f2b9641b016ef863f6ea850d1638cf3b24b8b2a53b212256d9c
-    last_checked: "2026-07-17"
+    last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Data Governance. Effective 2/9/2022."
+    notes: "Data Governance"
+  - id: das-107-004-180
+    url: "https://www.oregon.gov/das/Policies/107-004-180.pdf"
+    sha256: 7913957b573b326003f2e8069244637eef756464bb22fbc602f6735ff9b391c5
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Information Technology Readiness"
+  - id: das-107-004-180_pr
+    url: "https://www.oregon.gov/das/Policies/107-004-180_PR.pdf"
+    sha256: eab7bc4e2d1aac7d5b506352dc7ab9baaac403869ab18d0eee904f0f4cf2852d
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Information Technology Readiness"
+  - id: das-107-004-190
+    url: "https://www.oregon.gov/das/Policies/107-004-190.pdf"
+    sha256: 5d8d362f0362c15de830dd5b0f925d40e38e570833af9901addc92b70b2eef61
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Responsible Artificial Intelligence Usage policy"
+  - id: das-107-004-190_pr
+    url: "https://www.oregon.gov/das/Policies/107-004-190_PR.pdf"
+    sha256: 52c81664be8435019fc027cf3872246791b0ef5b3fbc5dba6844776847c19305
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Responsible Artificial Intelligence Usage procedure"
+  - id: das-107-004-200
+    url: "https://www.oregon.gov/das/Policies/107-004-200.pdf"
+    sha256: d5fceab5ce38237f6650249ebc17b7ff641de0476c63bceba16015825d4e9c03
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Copilot General Usage policy"
+  - id: das-107-004-200_pr
+    url: "https://www.oregon.gov/das/Policies/107-004-200_PR.pdf"
+    sha256: 6627314d7308e002d05f617c991d1b227305dd0a44cb3525060dbe7b71a0f034
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Copilot General Usual procedure"
+  - id: das-107-009-0020
+    url: "https://www.oregon.gov/das/Policies/107-009-0020.pdf"
+    sha256: 096f8127dec7535ad8a2575b2271525fb91aae8ef96d187fc0c5ce0d960e102c
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Oregon Procurement Information Network (ORPIN)"
+  - id: das-107-009-0030
+    url: "https://www.oregon.gov/das/Policies/107-009-0030.pdf"
+    sha256: fa14470044167c0f87f2836221c2b54dc61c5a091110427588c14e1a1a04fc73
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Business Equity, Inclusion and Engagement in Public Procurement"
+  - id: das-107-009-0030_pr
+    url: "https://www.oregon.gov/das/Policies/107-009-0030_PR.pdf"
+    sha256: d7e0587a200f22abb359f51e1ac9f90d127df5d4cf40f13ee60ca018720a6544
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Business Equity, Inclusion and Engagement in Public Procurement Procedure"
+  - id: das-107-009-0040
+    url: "https://www.oregon.gov/das/Policies/107-009-0040.pdf"
+    sha256: 76a053a468136d3e704c9594a96034b1c54cad2cd5de006fd4e20432f4a7c663
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Sustainable Procurement"
+  - id: das-107-009-0060
+    url: "https://www.oregon.gov/das/Policies/107-009-0060.pdf"
+    sha256: 1b83f0961cee2303fd862c423971a3d775b313ddc3683d952a12331c3f5b88ac
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Statewide Procurement Training Policy"
+  - id: das-107-009-0060_pr
+    url: "https://www.oregon.gov/das/Policies/107-009-0060_PR.pdf"
+    sha256: de5cbaf10bf726dac941db8084c5748dd15d906aef8bf2d458e1a95971f49b3f
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Statewide Procurement Training Procedure"
+  - id: das-107-009-0080
+    url: "https://www.oregon.gov/das/Policies/107-009-0080.pdf"
+    sha256: 32021c80a46cae932c786141f105652fc5fef7b4957f57ae83d9750c4e25f1a8
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Green Chemistry Procurement Guidelines"
   - id: das-107-011-010
-    url: https://www.oregon.gov/das/Policies/107-011-010.pdf
+    url: "https://www.oregon.gov/das/Policies/107-011-010.pdf"
     sha256: c913f87bff52810baa14ad755007c086d1c432763a94e2d41904c1d6d8b72000
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Energy and Resource Conservation. Effective 4/17/2024."
+    notes: "Energy and Resource Conservation"
   - id: das-107-011-050_pr
-    url: https://www.oregon.gov/das/Policies/107-011-050_PR.pdf
+    url: "https://www.oregon.gov/das/Policies/107-011-050_PR.pdf"
     sha256: e42bd059e8c31804129bf7bbe4bf8a2cc2e0fd8f5576b40983ff7b7e66531e7b
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Sustainable Acquisition and Disposal of Electronic Equipment (e-waste). Effective 3/9/2017."
+    notes: "Sustainable Acquisition and Disposal of Electronic Equipment (E-Waste/Recovery)"
   - id: das-107-011-100
-    url: https://www.oregon.gov/das/Policies/107-011-100.pdf
+    url: "https://www.oregon.gov/das/Policies/107-011-100.pdf"
     sha256: 6a3efb1915de5c55c770176c6f7303ff40df142c9b96b6530889d4b4acc7b32f
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Space Design and Utilization. Effective 5/1/2024."
+    notes: "Space Design and Utilization"
   - id: das-107-011-115
-    url: https://www.oregon.gov/das/Policies/107-011-115.pdf
+    url: "https://www.oregon.gov/das/Policies/107-011-115.pdf"
     sha256: 942f75cde7c3472d9cad33cc6fab5da02f1b602495702e1305a7126db9133118
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Siting State-owned and Leased Office Space. Effective 6/10/2025."
+    notes: "Siting State-owned and Leased Office Space"
+  - id: das-107-011-115_pr
+    url: "https://www.oregon.gov/das/Policies/107-011-115_PR.pdf"
+    sha256: 94a55d33959413df4bd82076e7f0eb56005e8135bdecfc7f04e6b7f772862b59
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Siting State-owned and Leased Office Space procedure"
+  - id: das-107-011-120
+    url: "https://www.oregon.gov/das/Policies/107-011-120.pdf"
+    sha256: 3dd234887fc6285338c9e369b9bd65ca873acb03a23b14dfcdae5893c1257531
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Uniform Rent Program"
+  - id: das-107-011-130
+    url: "https://www.oregon.gov/das/Policies/107-011-130.pdf"
+    sha256: d44998caa5f98c6fa127ffb739fcc259f38575da873c720cbe9d6c795a552147
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Celebration Decorations and Lights"
   - id: das-107-011-150
-    url: https://www.oregon.gov/das/Policies/107-011-150.pdf
+    url: "https://www.oregon.gov/das/Policies/107-011-150.pdf"
     sha256: 207e58c8a8f9d5b8f1c29d9418326b66e5ac53c1d600a98fb298cf3e97c06fa1
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Service Animals. Effective 5/20/2025."
+    notes: "Service Animals"
+  - id: das-107-011-160
+    url: "https://www.oregon.gov/das/Policies/107-011-160.pdf"
+    sha256: 1253d20f34f7c6a928e29f8972f392995d92ee78b8cf5caf068ce8e68840a1ad
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Flag protocol at public buildings"
+  - id: das-107-011-170
+    url: "https://www.oregon.gov/das/Policies/107-011-170.pdf"
+    sha256: 85538e468595b0c2c8fc2870611a34c87221c904cad885b7d3866d29ae0eb652
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Building Security Access"
+  - id: das-107-011-225
+    url: "https://www.oregon.gov/das/Policies/107-011-225.pdf"
+    sha256: d5441f841d1caf7a060bd7abdf94b0a01fab70498a71e7d9c86eb20707ae8dee
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Building Names and Capitol Mall Building Signs"
   - id: das-107-011-310
-    url: https://www.oregon.gov/das/Policies/107-011-310.pdf
+    url: "https://www.oregon.gov/das/Policies/107-011-310.pdf"
     sha256: ccea1d130ab386be34ecd44cdc52ff6a4b0936daf14c42131134838795e62def
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Capitol Mall Area Parks and Grounds, Use of. Effective 6/20/2001."
+    notes: "Capitol Mall Area Parks and Grounds, Use of"
+  - id: das-107-011-320
+    url: "https://www.oregon.gov/das/Policies/107-011-320.pdf"
+    sha256: 3def2c90902247bf99059af3c80e43a8fcfd878e5483942994fe5b561698a65a
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Public Use of State Building Premises"
+  - id: das-107-011-323
+    url: "https://www.oregon.gov/das/Policies/107-011-323.pdf"
+    sha256: 5dc9ab1cc0dc6e6ca2778d20c25c473f684b22f69e3d38274861a3f14522d57f
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Smoking, aerosolizing or vaporizing of inhalants at state-owned and leased facilities"
   - id: das-107-011-330
-    url: https://www.oregon.gov/das/Policies/107-011-330.pdf
+    url: "https://www.oregon.gov/das/Policies/107-011-330.pdf"
     sha256: fcac1f94f8565a46cb9ddd4d786332c21792f601fd084d4aa08ef851665db7c6
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Vending Services. Effective 6/10/2025."
+    notes: "Vending Services in State Office Buildings and Grounds Controlled by the Department"
+  - id: das-107-011-331
+    url: "https://www.oregon.gov/das/Policies/107-011-331.pdf"
+    sha256: a93cc37e7812d5267b912da69f1d0328fb43e76d8aec37faaba503c637c35613
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Cafeterias in state office buildings and grounds controlled by the Department"
+  - id: das-107-011-341
+    url: "https://www.oregon.gov/das/Policies/107-011-341.pdf"
+    sha256: e0b322fa7b5f75aedb11188a21420c3c0413f166590da98f990ce9f205a3a8ca
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Bomb Threat Procedures"
+  - id: das-20-000-01
+    url: "https://www.oregon.gov/das/Policies/20-000-01.pdf"
+    sha256: a1dbf9fe9a4979f6be3f3bab57a14cbf906df2fd017fc2ae5b77e18ed866e329
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Classification Plan Development and Maintenance"
+  - id: das-20-000-05
+    url: "https://www.oregon.gov/das/Policies/20-000-05.pdf"
+    sha256: 3d3d3e6502fbcaf2ef0b1caad72b730dfd1f5696438c5349a4c3efc47564c0cf
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Job Evaluation and Position Benchmarks"
+  - id: das-20-005-01
+    url: "https://www.oregon.gov/das/Policies/20-005-01.pdf"
+    sha256: 6c54c6884f78c3688602b534f84d1bfe192808b7135fb5fddfd6b563609566fb
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "General Compensation Policy"
+  - id: das-20-005-05
+    url: "https://www.oregon.gov/das/Policies/20-005-05.pdf"
+    sha256: 4e06fec3c58eed593601ca0f1fa2be5306f3214dbf4d83570068393891343d38
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Merit Pay System"
+  - id: das-20-005-10
+    url: "https://www.oregon.gov/das/Policies/20-005-10.pdf"
+    sha256: 25bce5eff0941c4b001ed5fe22f8be3b5eec20b854cb3befc490c72a9683904a
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Pay Practices"
+  - id: das-20-005-11
+    url: "https://www.oregon.gov/das/Policies/20-005-11.pdf"
+    sha256: 17c00f28f0064241b50818d202d4ad08ad15ec3812493d91504beb727b163f1c
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Pay Differentials"
+  - id: das-20-005-15
+    url: "https://www.oregon.gov/das/Policies/20-005-15.pdf"
+    sha256: 22d583da65138fa0abb9e2c6ddf3f01a17711548ffff6ec14678f5b0077d2f7b
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Exceptions to Hay Evaluated Salary"
+  - id: das-20-005-20
+    url: "https://www.oregon.gov/das/Policies/20-005-20.pdf"
+    sha256: 7017c865628a7b65ac82fa0ea77d3f409dc21b2892ff95af289c407383de319a
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Fair Labor Standards Act"
+  - id: das-30-000-01
+    url: "https://www.oregon.gov/das/Policies/30-000-01.pdf"
+    sha256: 20b48f3e9ad8729c489e386e200eb464ce7370047f128e63722d234119deb4fb
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Position Management"
+  - id: das-30-000-20
+    url: "https://www.oregon.gov/das/Policies/30-000-20.pdf"
+    sha256: ebab5c2007f6f4e643c7f2610817528fcb304055af174475f21e6222d5aa7184
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Span of Control"
+  - id: das-30-005-01
+    url: "https://www.oregon.gov/das/Policies/30-005-01.pdf"
+    sha256: 3f418399978c84580eb301a52a5cfa7ab00e95cb98cde122ebe75f566657bd92
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Effect of Position Classification Change on Incumbents"
+  - id: das-40-010-02
+    url: "https://www.oregon.gov/das/Policies/40-010-02.pdf"
+    sha256: c615ff258f64e0ec4e5ba70e1d1afa986134113a0bee863f6153438d13242b7c
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Recruitment and Selection"
+  - id: das-40-025-01
+    url: "https://www.oregon.gov/das/Policies/40-025-01.pdf"
+    sha256: 5446463dd82084059178b301cc0defb116a96a02056a0528ddde76415a05c9b9
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Temporary Appointments"
+  - id: das-40-025-02
+    url: "https://www.oregon.gov/das/Policies/40-025-02.pdf"
+    sha256: 289d20e26239c5f0a0721651c057c08a5969ef96edbfc4e47bd2c5c3643e978a
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Limited duration appointments"
+  - id: das-40-035-01
+    url: "https://www.oregon.gov/das/Policies/40-035-01.pdf"
+    sha256: 5a4ec8bb3bb4e474c7ea2fa162dda6e8cc7e43a10b07f58f0463683acc10a375
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Unclassified Service Employment, Investigation and Termination"
+  - id: das-40-045-01
+    url: "https://www.oregon.gov/das/Policies/40-045-01.pdf"
+    sha256: c826eafef9a0f5f9fef4c1edecb1654fc59d611da2785ee8391bd96130517f83
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Transfers"
+  - id: das-40-055-04
+    url: "https://www.oregon.gov/das/Policies/40-055-04.pdf"
+    sha256: 6e25716c2930d00f031a4908f828775d53e142ef7cd5696261cf48c1e4243d12
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Candidate Preference in Employment"
+  - id: das-40-055-10
+    url: "https://www.oregon.gov/das/Policies/40-055-10.pdf"
+    sha256: 8e2af8977d4d44979e4eac1b1ca7b21340cda35c5cd646691fac09d0f973b83d
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Current Employee Relocation"
+  - id: das-40-055-20
+    url: "https://www.oregon.gov/das/Policies/40-055-20.pdf"
+    sha256: 78b6907a57fcce92a9820c733c9ccdf16fc6fd7731479dca5f0b175924229808
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "New Employee Relocation"
+  - id: das-40-065-01
+    url: "https://www.oregon.gov/das/Policies/40-065-01.pdf"
+    sha256: 0ee821a7a45813fc955600e113899b0f87fd80f9042d9164db50c52867705255
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Trial Service Period"
+  - id: das-40-080-01
+    url: "https://www.oregon.gov/das/Policies/40-080-01.pdf"
+    sha256: 9195263bf0f5a56d5356d0a46408ca148cfa60e23f300a2b7ddcdc538d554d39
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Reemployment"
   - id: das-50-000-01
-    url: https://www.oregon.gov/das/Policies/50-000-01.pdf
+    url: "https://www.oregon.gov/das/Policies/50-000-01.pdf"
     sha256: 652a7e94cf677c677a38565ddc92113d1d0c2cbdad806c7df140177b4678ac83
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Drug Free Workplace. Effective 11/01/2024."
+    notes: "Drug Free Workplace"
+  - id: das-50-000-02
+    url: "https://www.oregon.gov/das/Policies/50-000-02.pdf"
+    sha256: bb9f434a723782eeb1412d28d1d488bfbd20859aac01c297beb9401a1a7a5098
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Drug Testing of Employees in Designated Job Profiles"
   - id: das-50-010-01
-    url: https://www.oregon.gov/das/Policies/50-010-01.pdf
+    url: "https://www.oregon.gov/das/Policies/50-010-01.pdf"
     sha256: 5903294ebd9bf1ac7a04d77bca0eadc90196ab6cc367494832c9975142140499
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Discrimination and Harassment Free Workplace. Effective 03/03/2025."
+    notes: "Discrimination and Harassment Free Workplace"
   - id: das-50-010-02
-    url: https://www.oregon.gov/das/Policies/50-010-02.pdf
+    url: "https://www.oregon.gov/das/Policies/50-010-02.pdf"
     sha256: 866a5e14574edb2bfb5f297f897a3a7fc62ab2262f91f9e8c38a09429bf6ac7c
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Violence-Free Workplace. Effective 11/1/2024."
+    notes: "Violence-Free Workplace"
   - id: das-50-010-03
-    url: https://www.oregon.gov/das/Policies/50-010-03.pdf
+    url: "https://www.oregon.gov/das/Policies/50-010-03.pdf"
     sha256: 461bc3399aeca057bf3ee352bbaeba6b8fec5b4f39c77fd398d296204cccee4a
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Maintaining a Professional Workplace. Effective 03/03/2025."
+    notes: "Maintaining a Professional Workplace"
+  - id: das-50-010-04
+    url: "https://www.oregon.gov/das/Policies/50-010-04.pdf"
+    sha256: 9fec51a831dade9b24c6adb24fac52935b76351474b8d8d9dda853e2418929e5
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Workplace Effects of Domestic Violence, Harassment, Sexual Assault, and Stalking"
   - id: das-50-010-05
-    url: https://www.oregon.gov/das/Policies/50-010-05.pdf
+    url: "https://www.oregon.gov/das/Policies/50-010-05.pdf"
     sha256: 1b6172dc5372a2610ea6bccf4daaf6bb707c2767a84fe867718dbbd49d34c941
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Weapons in the Workplace. Effective 3/21/2025."
+    notes: "Weapons in the Workplace"
   - id: das-50-010-06
-    url: https://www.oregon.gov/das/Policies/50-010-06.pdf
+    url: "https://www.oregon.gov/das/Policies/50-010-06.pdf"
     sha256: 62ccb65ff86e3bd64671a28b357150072d375c3f990428dbc591075fbe99e911
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Employee Health and Wellness. Effective 01/01/2025."
+    notes: "Employee Health and Wellness"
+  - id: das-50-010-08
+    url: "https://www.oregon.gov/das/Policies/50-010-08.pdf"
+    sha256: 1b4e0ca3b61165ab1b836e84a463293b430b3735656cb3265ca4a7e7ca110d73
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Recording Workplace Conversations"
+  - id: das-50-015-01
+    url: "https://www.oregon.gov/das/Policies/50-015-01.pdf"
+    sha256: 93e96956e93d52ca3e2bcbcd9d0fff93e7be1c891167a281de78b919d6963929
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Job Rotation"
+  - id: das-50-020-03
+    url: "https://www.oregon.gov/das/Policies/50-020-03.pdf"
+    sha256: ca3775ab42b95f101f360e0f4358ff9dd14d759994ed961d3b5e669d2e9e2afe
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Reinstatement and Reemployment of Injured Workers"
+  - id: das-50-020-05
+    url: "https://www.oregon.gov/das/Policies/50-020-05.pdf"
+    sha256: 27114091abfb6e5fd3d426b33d4cd785698e32c237c0917182605d600439f8c8
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Early Return to Work of Injured Workers"
   - id: das-50-020-10
-    url: https://www.oregon.gov/das/Policies/50-020-10.pdf
+    url: "https://www.oregon.gov/das/Policies/50-020-10.pdf"
     sha256: 0ff7c1dd13302c5ab9b131aa2f2a5b800f77604444567d25bb5d927727124d3b
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "ADA and Reasonable Accommodation in Employment. Effective 3/21/2025."
+    notes: "ADA and Reasonable Accommodation in Employment"
+  - id: das-50-025-01
+    url: "https://www.oregon.gov/das/Policies/50-025-01.pdf"
+    sha256: cc4bb085bdb33dcb57c6aa177409909261a6dabdc0ef2f561f195cb8437b12cc
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Layoff/Removal"
+  - id: das-50-030-01
+    url: "https://www.oregon.gov/das/Policies/50-030-01.pdf"
+    sha256: 73bb9f0be48cc4f6ccf2c3d8d46178bb1ba0ad39c7e717a303ff5425ab08f0e4
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Restoration of Removed Management Service Employees"
   - id: das-50-035-01
-    url: https://www.oregon.gov/das/Policies/50-035-01.pdf
+    url: "https://www.oregon.gov/das/Policies/50-035-01.pdf"
     sha256: 2da88d46a01d795291138e1daab7ed939163f346ea86aacbb50f0981a9ba7e13
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Performance Management Process. Effective 3/21/2025."
+    notes: "Performance Management Process"
+  - id: das-50-040-01
+    url: "https://www.oregon.gov/das/Policies/50-040-01.pdf"
+    sha256: f96ac9d55c7c90e8b35abdeb46a15189431afd22a4d4f8b217e88797130ee79a
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Employee Performance Recognition Program"
   - id: das-50-050-01
-    url: https://www.oregon.gov/das/Policies/50-050-01.pdf
+    url: "https://www.oregon.gov/das/Policies/50-050-01.pdf"
     sha256: 0c6819ab69ee60403581b0f43095c1592badd733e438133edb8629612f9e7335
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Working Remotely. Effective 3/21/2025."
+    notes: "Working Remotely"
+  - id: das-50-060-01
+    url: "https://www.oregon.gov/das/Policies/50-060-01.pdf"
+    sha256: e6a408125dbe58e54ab5aea068a95e77bf30781b2ebf43e9f8ec38ea3e2cb031
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Transition of Agency Head"
+  - id: das-50-070-01
+    url: "https://www.oregon.gov/das/Policies/50-070-01.pdf"
+    sha256: 70eaee0bb9dbcf75a85bc180cbe012471f47aaf2d9e790a9f8a51768606f8014
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Patient Protection and Affordable Care Act"
   - id: das-50-090-01
-    url: https://www.oregon.gov/das/Policies/50-090-01.pdf
+    url: "https://www.oregon.gov/das/Policies/50-090-01.pdf"
     sha256: 8c5ea918062551c7a7465d0ed87cfbbd4006598a5bca558a8f045169c70e289e
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Managing Improper Governmental Conduct. Effective 01/01/2025."
-  # ---- EIS/CSS statewide standards ----
-  - id: eis-css-itcs
-    url: "https://www.oregon.gov/eis/cyber-security-services/Documents/eis-css-statewide-information-technology(IT)-control-standards.pdf"
-    sha256: 16985315fc10c902762c51c2a13e78eaf104ac6d6c58cc96eae4cbfdcd698d2a
-    last_checked: "2026-07-17"
-    recheck: on_review_date
-    notes: "Statewide IT Control Standards, January 2024. Split by control family under agencies/das/standards/eis-css-it-control-standards/."
-  - id: eis-css-secplan
-    url: https://www.oregon.gov/eis/cyber-security-services/documents/statewideinformationsecurityplan.pdf
-    sha256: ca7524fbe62b092e733567d6b4f6f86e8824e860700fc1122cb5318d41510b84
-    last_checked: "2026-07-17"
-    recheck: on_review_date
-    notes: "Statewide Information Security Plan, 8/1/2018."
-  - id: eis-css-program-plan-2023
-    url: https://www.oregon.gov/eis/cyber-security-services/Documents/eis-css-statewide-information-security-program-plan.pdf
-    sha256: 7c233470f93b0170576aeb0ed50f1b872b7848b24bd40e1167b69a7d12f3130d
-    last_checked: "2026-07-17"
-    recheck: on_review_date
-    notes: "2023 Statewide Information Security Program Plan."
-  # ---- OAR (chapter 128, State CIO — renumbered from 125-800 eff. 5/1/2026, AON DAS 2-2026) ----
-  - id: oar-128-030-0005
-    url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=128-030-0005
-    sha256: 976949c2a41585f6ccb8a81c0f81d7c6f9a70f902b21c597eb7e024314910b86
-    last_checked: "2026-07-17"
+    notes: "Managing Improper Governmental Conduct"
+  - id: das-60-000-01
+    url: "https://www.oregon.gov/das/Policies/60-000-01.pdf"
+    sha256: 2e6162f9438911022fc1b7af73d940c7c52ad5d27ae25b4e96dde3a0033c4d71
+    last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Purpose, Application, and Authority. Renumbered from 125-800-0005."
-  - id: oar-128-030-0010
-    url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=128-030-0010
-    sha256: 39ce488b8f8effbdc18ecd8e4dc1a05b1525d3833a9313cdde2d22badbc825fb
-    last_checked: "2026-07-17"
+    notes: "Sick Leave With Pay"
+  - id: das-60-000-03
+    url: "https://www.oregon.gov/das/Policies/60-000-03.pdf"
+    sha256: cc49730406789708693f3c859b7dec2ba6e60bef4b98dde681de1a4ed87e4e1e
+    last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Definitions. Renumbered from 125-800-0010."
-  - id: oar-128-030-0020
-    url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=128-030-0020
-    sha256: 9d3d617bfe1ac049bcdba3725dabb0f6aadbf7e39a8ec3fab1e6e5a98de745a3
-    last_checked: "2026-07-17"
+    notes: "Oregon Family Leave Act"
+  - id: das-60-000-04
+    url: "https://www.oregon.gov/das/Policies/60-000-04.pdf"
+    sha256: 301ad0d2e9c7e83f0d087dda159b7ff30bfc0702c6352d0cb671ec58f67ca27f
+    last_checked: "2026-07-18"
     recheck: monthly
-    notes: "State Information Security. Renumbered from 125-800-0020."
+    notes: "Paid Leave Oregon"
+  - id: das-60-000-05
+    url: "https://www.oregon.gov/das/Policies/60-000-05.pdf"
+    sha256: b9a5e507b2345b5ad84f915881c8ea4443411e989c9d32646049cf5df44fd338
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Vacation Leave"
+  - id: das-60-000-10
+    url: "https://www.oregon.gov/das/Policies/60-000-10.pdf"
+    sha256: 966b0e4fca9a64b95244e44f46b536ff45f67cfc5c02dd9dd6228629e0327d01
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Special Leaves With Pay"
+  - id: das-60-000-11
+    url: "https://www.oregon.gov/das/Policies/60-000-11.pdf"
+    sha256: dc9ce74fe02da0cf2ff40b4fb9f32e28ed2e8107eeab78438f4c2cd2c88a002b
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Leaves without Pay"
+  - id: das-60-000-12
+    url: "https://www.oregon.gov/das/Policies/60-000-12.pdf"
+    sha256: eaf1ef3b768d5f642c75b5dde66ef0dc52153891636fec16b011e67d117837f3
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Statutorily Required Leaves with and without Pay"
+  - id: das-60-000-15
+    url: "https://www.oregon.gov/das/Policies/60-000-15.pdf"
+    sha256: 1407445c46afff2e1af246ce1f411f92935ac62d63a27c7f752f0b131d229027
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Family and Medical Leave"
+  - id: das-60-000-20
+    url: "https://www.oregon.gov/das/Policies/60-000-20.pdf"
+    sha256: b84722b9dd3a0182897afa1596e286a9a5c0777912cf76259933abcd57e77a6b
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Alternate Leave Provisions"
+  - id: das-60-000-25
+    url: "https://www.oregon.gov/das/Policies/60-000-25.pdf"
+    sha256: 20957ac8ed8297e0052132a1b1c734d8d06e35e3beb0a858c70f716c8540656e
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Military Leave"
+  - id: das-60-000-30
+    url: "https://www.oregon.gov/das/Policies/60-000-30.pdf"
+    sha256: 80dffc251244f570f4555944e577dbe5cecb345334f91cda2708411421bb9174
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Expression of Milk and Unpaid Rest Periods"
+  - id: das-60-010-01
+    url: "https://www.oregon.gov/das/Policies/60-010-01.pdf"
+    sha256: d6c8e20fbc921f038ba68c52e94a3402948fa95c378f741fef383d19ed3501f4
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Holiday Leave with Pay"
+  - id: das-60-015-01
+    url: "https://www.oregon.gov/das/Policies/60-015-01.pdf"
+    sha256: e2f5a9fafd7c02d4242666b40979be1e0d35f8dfd84a625ec5cb01d6d7899c68
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Temporary Interruption of Employment"
+  - id: das-60-020-05
+    url: "https://www.oregon.gov/das/Policies/60-020-05.pdf"
+    sha256: cf284b20c6deb942ec5bbebac850daaf225e025299f9bd7712d6c7b769a747ba
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Military Donated Leave Program"
+  - id: das-60-025-01
+    url: "https://www.oregon.gov/das/Policies/60-025-01.pdf"
+    sha256: 679183ce27208530409e8485e69a349975da0052eb4fa0753fee062803bb1dd7
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Donated Leave"
+  - id: das-70-000-02
+    url: "https://www.oregon.gov/das/Policies/70-000-02.pdf"
+    sha256: 6424984b0658619393e72e5087001a0719f35cc5cbfec5ab46be209eea9a51c8
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Management Service Discipline, and Dismissal/Removal"
+  - id: das-70-000-10
+    url: "https://www.oregon.gov/das/Policies/70-000-10.pdf"
+    sha256: 6fb4e68119a39136f4d88a6999294ef9ae8f89a0cc954a1d6750cf2c23f2e2ac
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Management Service Grievance and Appeal"
+  - id: das-70-005-02
+    url: "https://www.oregon.gov/das/Policies/70-005-02.pdf"
+    sha256: 3f5ae3ee4c066d113236f826cbdbb3fc3a30e56ab749c389226b53ecbc3116d2
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Classified Unrepresented Discipline, and Dismissal"
+  - id: das-70-005-05
+    url: "https://www.oregon.gov/das/Policies/70-005-05.pdf"
+    sha256: 40c3d0e208be9ac4d2f53d7fe910c5ed9c99dd07f3d39aae53a55ed7efe41e10
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Classified Unrepresented Grievance and Appeal"
   # ---- Oregon Accounting Manual (OAM) ----
   # Regenerated 2026-07-18 from the listing of record (oam-listing.json).
   # The oam-listing pseudo-source is checked by detect_changes.py via the REST API.

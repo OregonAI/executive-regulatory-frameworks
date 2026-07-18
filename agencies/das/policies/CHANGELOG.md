@@ -8,6 +8,36 @@ file's frontmatter).
 
 ## [Unreleased]
 
+## [2026-07-18] — scope fix: rebuilt from the listing of record
+
+### Fixed
+
+- **Scope bug** (same class as the OAM fix): the policies catalog was compiled from
+  search-engine discovery because das/Pages/policies.aspx renders its lists client-side.
+  The actual listing of record — 14 category views on the SharePoint library
+  /das/Policies (incl. all 8 HR views behind policieshr.aspx) — carries **143 rows**;
+  the repo held 29. Listing now consumed from its anonymous REST data source (endpoint,
+  view GUIDs, and normalized rows in `_meta/snapshots/das-policies-listing.json`).
+- Reconciliation of the 29 previously-ingested policies against the listing found zero
+  URL or date drift. 107-011-050_PR is not in any view (linked statically from the
+  Surplus section) — noted in the catalog, kept.
+
+### Added
+
+- 104 documents, full-text-first from day one: Facilities (13 more, incl. building
+  security, flag protocol, bomb threat procedures), General (5 more incl. Exceptions to
+  Policies + procedure, COOP, records fees, customer service standards), Procurement
+  (all 7: 107-009-xxxx sustainability/procurement cluster), IT (107-004-030/-100_PR/
+  -110_PR/-130/-140_PR/-180/-053 and more), and the entire HR corpus: classification &
+  compensation (20-xxx), position management (30-xxx), filling positions (40-xxx),
+  workforce management (50-xxx remainder + 60-xxx), employee leave (60-xxx),
+  discipline & discharge, and rulemaking. 10 image-only scans (105-xxx OAR-excerpt
+  series, 107-004-053) carry `content_exception`.
+- `detect_changes.py` listing checker generalized (`check_sp_listing`) and now watches
+  both `oam-listing` and `das-policies-listing` every run.
+
+Verified-by @morficflux.
+
 ## [2026-07-18] — full-text-first migration
 
 ### Changed

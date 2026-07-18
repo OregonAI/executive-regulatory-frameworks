@@ -37,8 +37,11 @@
 
 ## DAS Policies
 
-- [DAS policies index](agencies/das/policies/_index.md): all 12 ingested policies with a
-  "how to find the right policy" guide.
+- [DAS policies index](agencies/das/policies/_index.md): 133 policies/procedures
+  mirroring the DAS policies listing of record (14 categories: Facilities, General,
+  Procurement, IT Assets/General/Security, and the full HR corpus — classification &
+  compensation, position management, filling positions, workforce management, employee
+  leave, discipline & discharge, rulemaking).
 - [DAS 107-004-052 — Cyber and Information Security](agencies/das/policies/das-107-004-052.md):
   the statewide security program policy — roles (State CISO, agency heads, users),
   enterprise security baseline, CSS assessments, offshoring prohibition. Companion:

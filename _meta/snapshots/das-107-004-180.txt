@@ -1,0 +1,163 @@
+                                                     NUMBER                    SUPERSEDES
+                                                                               IT Project Prioritization:
+                                                     107-004-180               An Agency Instruction
+                                                                               Guide (2025-2027)
+ STATEWIDE POLICY                                    EFFECTIVE DATE            PAGE NUMBER
+                                                     March 12, 2026
+                                                     REVIEWED DATE             Pages 1 of 3
+                                                     March 12, 2026
+ DIVISION                                            REFERENCE
+
+
+ Enterprise Information Services                      •   ORS 276A.203
+ (State CIO)                                          •   Senate Bill 1090 (2025)
+                                                      •   Information Technology Readiness
+ POLICY OWNER                                             Statewide Procedure 107-004-180_PR
+
+ Administrative Services
+
+ SUBJECT                                             APPROVED SIGNATURE
+
+
+ Information Technology Readiness
+
+                                                     Terrence Woods,
+                                                     State Chief Information Officer
+
+PURPOSE
+
+This policy establishes requirements for agencies to request funding for information technology (IT) budgets
+and IT projects, including replacements, modernizations, upgrades and expansions of IT systems. This policy
+supports an approach for prioritizing IT funding requests for the Oregon Executive Branch.
+
+APPLICABILITY
+
+This policy applies to all state agencies as defined in ORS 174.112, and includes any board, commission,
+department, division, office or other entity within the Oregon executive department. The following agencies and
+boards are excluded:
+   • Secretary of State
+   • State Treasurer
+   • Oregon State Lottery
+   • Public university listed in ORS 352.002
+   • Semi-independent agencies listed in ORS 182.454
+   • Oregon Film and Television Office (ORS 284.365)
+   • State Fair Council (ORS 565.555)
+   • Travel Information Council (ORS 377.840)
+
+
+
+
+Policy No: 107-004-180 | Effective: March 12, 2026; Reviewed: March 12, 2026                         Page 1 of 3
+FORMS/EXHIBITS/INSTRUCTIONS
+
+   •   Enterprise Information Services Strategic Framework
+   •   Modernization Playbook: An Agency Guide to Digital Transformation
+   •   Cloud Forward: A Framework for Embracing the Cloud in Oregon
+   •   Oregon’s Data Strategy: Unlocking Oregon’s Potential
+   •   Strategic Plan for Geospatial Data Management 2023-2026
+   •   Diversity, Equity, and Inclusion Action Plan: A Roadmap to Racial Equity and Belonging
+   •   IT Readiness Workbook
+   •   Attachment A: Prioritization Criteria
+
+DEFINITIONS
+
+Information technology (IT): all present and future forms of hardware, software and services for data
+processing, office automation and telecommunications. Services relate to Enterprise Information Services
+service lines including geographic information systems (GIS) and data inventory related activities.
+
+IT project: a temporary technology endeavor undertaken to create a unique product, service, or result.
+Typically, projects have project managers assigned, are approved by agency governance and are officially
+chartered. A project may be a component of an IT program.
+
+GENERAL INFORMATION
+
+Each state agency that intends to request funding (regardless of fund type) for an IT budget or IT project shall
+submit the request in the format and timeframe detailed in Statewide Procedure 107-004-180_PR Information
+Technology Readiness. IT projects exceeding the cost of $1,000,000 require a prioritization business case and
+project prioritization worksheet. The project prioritization worksheet is a component of the IT Readiness
+Workbook.
+
+IT budget requests may include the agency’s current service level budget amount for positions, services and
+supplies, capital outlay as well as additional needs above the current service level. IT budget requests may
+also include needs for IT projects that fall below the $1,000,000 threshold.
+
+Each request should clearly present alignment with the prioritization criteria (Attachment A). Detailed
+questions to conduct prioritization analysis are available in the IT Readiness Workbook.
+
+IT Requests Prioritization
+
+The State Chief Information Officer (CIO), in collaboration with the Legislative Fiscal Office (LFO), shall
+establish criteria for assigning priorities among the requested IT budgets and IT projects.
+
+Enterprise Information Services (EIS), in collaboration with affected state agencies, shall evaluate submitted IT
+budget and IT project requests, using the prioritization criteria (Attachment A).
+
+EIS shall recommend priority rankings of the requests for the State CIO approval, in the following contexts:
+    • requests within each state agency
+    • requests within a legislative program area
+    • requests for the executive department as a whole
+
+
+
+
+Policy No: 107-004-180 | Effective: March 12, 2026 Reviewed: March 12, 2026                              Page 2 of 3
+IT Funding Reporting
+
+The State CIO shall, not later than November 30 of each even-numbered year, submit to the Governor and the
+Joint Legislative Committee on Information Management and Technology a report that includes:
+    • priority ranking of requests within each state agency
+    • priority ranking of requests within an Executive Branch program area
+    • priority ranking of requests for the executive department as a whole
+    • recommendations for design, delivery and management of identified IT services as enterprise or
+        shared IT services
+    • status of new enterprise or shared IT services
+    • a description of critical IT system or services needs not otherwise identified within the priority rankings
+
+The State CIO, not later than October 31 of each odd-number year, in collaboration with the LFO, shall submit to
+the Governor and the Joint Legislative Committee on Information Management and Technology, a report that
+lists all the IT budget and IT project requests that the Legislative Assembly approved in the prior concluding
+legislative session.
+
+
+
+
+Policy No: 107-004-180 | Effective: March 12, 2026 Reviewed: March 12, 2026                           Page 3 of 3
+Attachment A: Prioritization Criteria
+
+Strategic Alignment
+
+       (1)     Aligns with and supports implementation of the Enterprise Information Resources
+               Management Strategy described in ORS 276A.203 (4)(a)(M) (...the Enterprise
+               Information Resources Management Strategy must provide for integrating statewide
+               technology initiatives, ensuring compliance with information technology rules,
+               policies and standards, promoting coordination, consolidation and alignment of
+               information resources and technologies and effectively managing the state’s and
+               state agencies’ information technology portfolios.)
+       (2)     Aligns with the agency’s IT and business strategic plans
+
+Technology Best Practices
+
+       (1)     Enhances the information security posture of the agency or the state
+       (2)     Involves or promotes the use of shared systems, resources or data
+       (3)     Aligns with the State CIO adopted technology standards
+       (4)     Uses commercially available systems or software
+
+People and Business -Centered Approach
+
+       (1)     People-centered approach
+       (2)     Business process transformation
+       (3)     Investment risk (investment fulﬁlls a legislative mandate, enables compliance
+               with current state or federal law, or addresses speciﬁc audit ﬁndings)
+
+Agency Readiness and Solution Appropriateness
+
+       (1)     IT governance and project management processes
+       (2)     Organizational change management
+       (3)     Solution scale and approach
+       (4)     Capacity
+
+
+
+
+Attachment A to Policy No: 107-004-180 | Effective: March 12, 2026; Reviewed: March 12, 2026   Page 1 of 1
+

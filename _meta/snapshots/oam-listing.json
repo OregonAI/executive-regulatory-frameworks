@@ -1327,5 +1327,11 @@
     }
    ]
   }
+ },
+ "checker": {
+  "web": "/das/Financial/Acctng",
+  "list": "/das/Financial/Acctng/Documents",
+  "id_field": "Alpha_x002f_Number",
+  "date_field": "Effective_x0020_Date"
  }
 }
