@@ -1541,3 +1541,179 @@ chapters:
       path: rules/128/050/oar-128-050-0005.md
     note: 'enumerated 2026-07-18 by direct OARD probe (grid 0000-0995 step 5): exactly one rule; already
       ingested via the renumbering guard (old 125-600 number)'
+- chapter: '105'
+  title: Chapter 105
+  divisions:
+  - division: '1'
+    title: Division 1
+    rules:
+    - number: 105-001-0000
+      status: ingested
+      path: rules/105/001/oar-105-001-0000.md
+    - number: 105-001-0005
+      status: ingested
+      path: rules/105/001/oar-105-001-0005.md
+    status: not_ingested
+  - division: '20'
+    title: Division 20
+    rules:
+    - number: 105-020-0001
+      status: ingested
+      path: rules/105/020/oar-105-020-0001.md
+    - number: 105-020-0015
+      status: ingested
+      path: rules/105/020/oar-105-020-0015.md
+    status: not_ingested
+  - division: '40'
+    title: Division 40
+    rules:
+    - number: 105-040-0001
+      status: ingested
+      path: rules/105/040/oar-105-040-0001.md
+    status: not_ingested
+  - division: '50'
+    title: Division 50
+    rules:
+    - number: 105-050-0003
+      status: ingested
+      path: rules/105/050/oar-105-050-0003.md
+    - number: 105-050-0004
+      status: ingested
+      path: rules/105/050/oar-105-050-0004.md
+    - number: 105-050-0025
+      status: ingested
+      path: rules/105/050/oar-105-050-0025.md
+    - number: 105-050-0030
+      status: ingested
+      path: rules/105/050/oar-105-050-0030.md
+    status: not_ingested
+- chapter: '122'
+  title: Chapter 122
+  divisions:
+  - division: '1'
+    title: Division 1
+    rules:
+    - number: 122-001-0000
+      status: ingested
+      path: rules/122/001/oar-122-001-0000.md
+    - number: 122-001-0005
+      status: ingested
+      path: rules/122/001/oar-122-001-0005.md
+    status: not_ingested
+  - division: '40'
+    title: Division 40
+    rules:
+    - number: 122-040-0040
+      status: ingested
+      path: rules/122/040/oar-122-040-0040.md
+    - number: 122-040-0050
+      status: ingested
+      path: rules/122/040/oar-122-040-0050.md
+    - number: 122-040-0060
+      status: ingested
+      path: rules/122/040/oar-122-040-0060.md
+    status: not_ingested
+  - division: '50'
+    title: Division 50
+    rules:
+    - number: 122-050-0000
+      status: ingested
+      path: rules/122/050/oar-122-050-0000.md
+    - number: 122-050-0010
+      status: ingested
+      path: rules/122/050/oar-122-050-0010.md
+    - number: 122-050-0020
+      status: ingested
+      path: rules/122/050/oar-122-050-0020.md
+    - number: 122-050-0030
+      status: ingested
+      path: rules/122/050/oar-122-050-0030.md
+    - number: 122-050-0040
+      status: ingested
+      path: rules/122/050/oar-122-050-0040.md
+    - number: 122-050-0050
+      status: ingested
+      path: rules/122/050/oar-122-050-0050.md
+    status: not_ingested
+  - division: '60'
+    title: Division 60
+    rules:
+    - number: 122-060-0000
+      status: ingested
+      path: rules/122/060/oar-122-060-0000.md
+    - number: 122-060-0010
+      status: ingested
+      path: rules/122/060/oar-122-060-0010.md
+    status: not_ingested
+  - division: '70'
+    title: Division 70
+    rules:
+    - number: 122-070-0100
+      status: ingested
+      path: rules/122/070/oar-122-070-0100.md
+    - number: 122-070-0110
+      status: ingested
+      path: rules/122/070/oar-122-070-0110.md
+    - number: 122-070-0120
+      status: ingested
+      path: rules/122/070/oar-122-070-0120.md
+    - number: 122-070-0130
+      status: ingested
+      path: rules/122/070/oar-122-070-0130.md
+    - number: 122-070-0140
+      status: ingested
+      path: rules/122/070/oar-122-070-0140.md
+    - number: 122-070-0150
+      status: ingested
+      path: rules/122/070/oar-122-070-0150.md
+    - number: 122-070-0160
+      status: ingested
+      path: rules/122/070/oar-122-070-0160.md
+    status: not_ingested
+  - division: '75'
+    title: Division 75
+    rules:
+    - number: 122-075-0100
+      status: ingested
+      path: rules/122/075/oar-122-075-0100.md
+    - number: 122-075-0110
+      status: ingested
+      path: rules/122/075/oar-122-075-0110.md
+    - number: 122-075-0120
+      status: ingested
+      path: rules/122/075/oar-122-075-0120.md
+    - number: 122-075-0150
+      status: ingested
+      path: rules/122/075/oar-122-075-0150.md
+    - number: 122-075-0160
+      status: ingested
+      path: rules/122/075/oar-122-075-0160.md
+    status: not_ingested
+  - division: '85'
+    title: Division 85
+    rules:
+    - number: 122-085-0100
+      status: ingested
+      path: rules/122/085/oar-122-085-0100.md
+    - number: 122-085-0110
+      status: ingested
+      path: rules/122/085/oar-122-085-0110.md
+    - number: 122-085-0120
+      status: ingested
+      path: rules/122/085/oar-122-085-0120.md
+    - number: 122-085-0130
+      status: ingested
+      path: rules/122/085/oar-122-085-0130.md
+    - number: 122-085-0140
+      status: ingested
+      path: rules/122/085/oar-122-085-0140.md
+    - number: 122-085-0150
+      status: ingested
+      path: rules/122/085/oar-122-085-0150.md
+    - number: 122-085-0160
+      status: ingested
+      path: rules/122/085/oar-122-085-0160.md
+    - number: 122-085-0200
+      status: ingested
+      path: rules/122/085/oar-122-085-0200.md
+    status: not_ingested

@@ -56,7 +56,7 @@ The document prints a different date than its listing of record (known site typo
 - `agencies/das/accounting-manual/oam-15-60-25.md` — document's printed date differs from the listing of record (see Curator notes)
 - `agencies/das/accounting-manual/oam-45-20-00.md` — document's printed date differs from the listing of record (see Curator notes)
 
-## Catalog: sections with no sliceable body (5)
+## Catalog: sections with no sliceable body (15)
 
 ORS catalog entries whose section text couldn't be found in the chapter HTML (likely renumbered/repealed or TOC noise). Verify against the printed ORS if any of these numbers matter; otherwise they stay intentionally not ingested.
 
@@ -65,6 +65,16 @@ ORS catalog entries whose section text couldn't be found in the chapter HTML (li
 - `ORS 184.884` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 184.925` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 192.478` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
+- `ORS 240.005` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
+- `ORS 240.430` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
+- `ORS 276.001` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
+- `ORS 276.106` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
+- `ORS 276.137` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
+- `ORS 279A.005` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
+- `ORS 279A.075` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
+- `ORS 279B.085` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
+- `ORS 279C.010` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
+- `ORS 292.990` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 
 ## Catalog: renumbered / repealed rules (auto-resolved — verify mappings) (12)
 
@@ -102,6 +112,17 @@ the attestation the review gates call for. Corpus size by directory:
 - `agencies/das/standards/`: 3 documents
 - `agencies/das/standards/eis-css-it-control-standards/`: 18 documents
 - `external-references/`: 1 documents
+- `rules/105/001/`: 2 documents
+- `rules/105/020/`: 2 documents
+- `rules/105/040/`: 1 documents
+- `rules/105/050/`: 4 documents
+- `rules/122/001/`: 2 documents
+- `rules/122/040/`: 3 documents
+- `rules/122/050/`: 6 documents
+- `rules/122/060/`: 2 documents
+- `rules/122/070/`: 7 documents
+- `rules/122/075/`: 5 documents
+- `rules/122/085/`: 8 documents
 - `rules/125/001/`: 2 documents
 - `rules/125/007/`: 9 documents
 - `rules/125/010/`: 1 documents
@@ -140,4 +161,4 @@ the attestation the review gates call for. Corpus size by directory:
 - `rules/128/030/`: 3 documents
 - `rules/128/040/`: 1 documents
 - `rules/128/050/`: 1 documents
-- `statutes/`: 570 documents
+- `statutes/`: 1071 documents

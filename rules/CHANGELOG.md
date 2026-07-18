@@ -8,6 +8,18 @@ file's frontmatter).
 
 ## [Unreleased]
 
+## [2026-07-18] (4)
+
+### Added
+
+- OAR chapters 105 (Chief Human Resources Office, 4 divisions) and 122 (Chief
+  Financial Office, 7 divisions), 42 rules total, full text each — enumerated via
+  `src/ingest_oar.py --enumerate` and ingested via `--ingest` (no code changes
+  needed; both chapters existed and were verified by live fetch before ingesting).
+  Zero renumbering/not-found hits. Per a researched list of ORS/OAR chapters DAS
+  derives authority from or administers policy under — every DAS-associated OAR
+  chapter (105, 122, 125, 128) is now fully enumerated and ingested.
+
 ## [2026-07-18] (3)
 
 ### Added

@@ -10,6 +10,17 @@ State's authoritative database). Layout: `rules/<chapter>/<division>/`.
 
 | Chapter | Division | Title | Rules listed | Ingested |
 |---|---|---|---|---|
+| 105 | 1 | Division 1 | 2 | 2 |
+| 105 | 20 | Division 20 | 2 | 2 |
+| 105 | 40 | Division 40 | 1 | 1 |
+| 105 | 50 | Division 50 | 4 | 4 |
+| 122 | 1 | Division 1 | 2 | 2 |
+| 122 | 40 | Division 40 | 3 | 3 |
+| 122 | 50 | Division 50 | 6 | 6 |
+| 122 | 60 | Division 60 | 2 | 2 |
+| 122 | 70 | Division 70 | 7 | 7 |
+| 122 | 75 | Division 75 | 5 | 5 |
+| 122 | 85 | Division 85 | 8 | 8 |
 | 125 | 1 | Procedural Rules | 2 | 2 |
 | 125 | 7 | Criminal Records Check and Fitness Determination | 9 | 9 |
 | 125 | 10 | Public Contract Review Services and Fees | 1 | 1 |
@@ -50,9 +61,9 @@ State's authoritative database). Layout: `rules/<chapter>/<division>/`.
 | 128 | 30 | State Information Security | 3 | 3 |
 | 128 | 40 | Geographic Information | 1 | 1 |
 | 128 | 50 | Identity Authentication/Electronic Signatures | 1 | 1 |
-| **all** | | | **447** | **435** |
+| **all** | | | **489** | **477** |
 
 Per-rule numbers/statuses/paths (incl. renumbered/repealed flags):
-[`_meta/catalog/oar.yml`](../_meta/catalog/oar.yml). Chapter 128 divisions 20/40/50
-were enumerated by direct OARD probing (not mirrored on oregon.public.law); every
-division of chapters 125 and 128 is now fully enumerated and ingested.
+[`_meta/catalog/oar.yml`](../_meta/catalog/oar.yml). Every division of chapters 105
+(Chief Human Resources Office), 122 (Chief Financial Office), 125 (DAS general), and
+128 (State CIO) is enumerated and ingested.
