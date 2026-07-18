@@ -38,7 +38,7 @@ def search_corpus(query: str, doc_type: str = "", agency: str = "",
     policies, procedures, standards, accounting manual). Returns ranked matches with
     ~snippets, never whole documents. Optional filters: doc_type (statute, rule,
     executive_order, policy, procedure, standard, manual, external_reference) and
-    agency (e.g. 'administrative-services-department', 'statewide')."""
+    agency (e.g. 'department-of-administrative-services', 'statewide')."""
     return mcp_lib.search_corpus(query, doc_type or None, agency or None, limit)
 
 

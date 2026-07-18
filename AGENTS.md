@@ -96,7 +96,7 @@ Absolute do-nots:
 
 **Answering policy questions**: quote directly from the relevant document's `## Full
 text` section and cite the file path plus the source's own section number (e.g.
-`agencies/administrative-services-department/policies/das-107-004-052.md`, General
+`agencies/department-of-administrative-services/policies/das-107-004-052.md`, General
 Information (4)). No external fetch
 is needed for state-authored content.
 

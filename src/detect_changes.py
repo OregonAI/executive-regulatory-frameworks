@@ -25,7 +25,7 @@ def fetch(url: str) -> bytes:
 
 LISTING_SNAPSHOTS = {
     "oam-listing": "oam-listing.json",
-    "administrative-services-department-policies-listing": "administrative-services-department-policies-listing.json",
+    "department-of-administrative-services-policies-listing": "department-of-administrative-services-policies-listing.json",
 }
 
 

@@ -7,7 +7,7 @@ citation: "DAS Statewide Procedure XXX-XXX-XXX_PR"
 # ---- Authority ----
 authority_level: agency_procedure       # required for procedures
 issuing_body: "ISSUING DIVISION"        # required
-agency: administrative-services-department                             # required
+agency: department-of-administrative-services                             # required
 legal_authority: []                     # e.g., ["ORS 276A.300", "OAR 125-800"]
 # ---- Provenance (anti-fabrication core) ----
 source_url: "https://www.oregon.gov/das/Policies/XXX-XXX-XXX_PR.pdf"   # required

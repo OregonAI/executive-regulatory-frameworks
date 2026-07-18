@@ -5,7 +5,7 @@ doc_type: standard
 citation: "CITATION"
 authority_level: standard
 issuing_body: "DAS Enterprise Information Services / Cyber Security Services"
-agency: administrative-services-department
+agency: department-of-administrative-services
 legal_authority: []                     # e.g., ["ORS 276A.300"]
 source_url: "https://www.oregon.gov/das/OSCIO/..."
 source_format: pdf

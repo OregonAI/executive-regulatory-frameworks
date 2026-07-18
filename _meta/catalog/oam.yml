@@ -23,13 +23,13 @@ chapters:
     effective_date_listed: 01/01/2025
     file_ref: /das/Financial/Acctng/Documents/01.05.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-01-05-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-01-05-00.md
   - number: 01.10.00
     title: Roles and responsibilities
     effective_date_listed: 07/01/2001
     file_ref: /das/Financial/Acctng/Documents/01.10.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-01-10-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-01-10-00.md
 - chapter: '05'
   title: 05 - R*STARS
   documents:
@@ -45,37 +45,37 @@ chapters:
     effective_date_listed: 2/12/2008
     file_ref: /das/Financial/Acctng/Documents/05.10.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-05-10-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-05-10-00.md
   - number: 05.20.00
     title: Fund and appropriation structure
     effective_date_listed: 01/22/2018
     file_ref: /das/Financial/Acctng/Documents/05.20.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-05-20-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-05-20-00.md
   - number: 05.30.00.po
     title: General ledger and object structure policy
     effective_date_listed: 02/12/2008
     file_ref: /das/Financial/Acctng/Documents/05.30.00.po.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-05-30-00-po.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-05-30-00-po.md
   - number: 05.30.00.pr
     title: General ledger and object structure procedure
     effective_date_listed: 02/12/2008
     file_ref: /das/Financial/Acctng/Documents/05.30.00.pr.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-05-30-00-pr.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-05-30-00-pr.md
   - number: 05.35.00.po
     title: Transaction code structure policy
     effective_date_listed: 02/12/2008
     file_ref: /das/Financial/Acctng/Documents/05.35.00.po.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-05-35-00-po.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-05-35-00-po.md
   - number: 05.35.00.pr
     title: Transaction code structure procedure
     effective_date_listed: 02/12/2008
     file_ref: /das/Financial/Acctng/Documents/05.35.00.pr.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-05-35-00-pr.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-05-35-00-pr.md
 - chapter: '10'
   title: 10 - Internal control
   documents:
@@ -91,127 +91,127 @@ chapters:
     effective_date_listed: 07/01/2001
     file_ref: /das/Financial/Acctng/Documents/10.10.00.po.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-10-10-00-po.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-10-10-00-po.md
   - number: 10.10.00.pr
     title: Management's responsibilities procedure
     effective_date_listed: 07/01/2001
     file_ref: /das/Financial/Acctng/Documents/10.10.00.pr.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-10-10-00-pr.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-10-10-00-pr.md
   - number: 10.15.00.po
     title: Transaction documentation requirements-policy
     effective_date_listed: 12/01/2004
     file_ref: /das/Financial/Acctng/Documents/10.15.00.po.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-10-15-00-po.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-10-15-00-po.md
   - number: 10.20.00
     title: Cash
     effective_date_listed: 01/27/2026
     file_ref: /das/Financial/Acctng/Documents/10.20.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-10-20-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-10-20-00.md
   - number: 10.30.00.po
     title: Revenues-policy
     effective_date_listed: 07/01/2001
     file_ref: /das/Financial/Acctng/Documents/10.30.00.po.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-10-30-00-po.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-10-30-00-po.md
   - number: 10.30.00.pr
     title: Revenues-procedure
     effective_date_listed: 07/01/2001
     file_ref: /das/Financial/Acctng/Documents/10.30.00.pr.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-10-30-00-pr.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-10-30-00-pr.md
   - number: 10.35.00.po
     title: Credit card acceptance for payment-policy
     effective_date_listed: 04/17/2008
     file_ref: /das/Financial/Acctng/Documents/10.35.00.po.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-10-35-00-po.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-10-35-00-po.md
   - number: 10.35.00.pr
     title: Credit card acceptance for payment-procedure
     effective_date_listed: 04/17/2008
     file_ref: /das/Financial/Acctng/Documents/10.35.00.pr.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-10-35-00-pr.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-10-35-00-pr.md
   - number: 10.40.00
     title: Expenditures
     effective_date_listed: 01/27/2026
     file_ref: /das/Financial/Acctng/Documents/10.40.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-10-40-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-10-40-00.md
   - number: 10.40.10
     title: Non-travel meals and refreshments-policy
     effective_date_listed: 07/28/2003
     file_ref: /das/Financial/Acctng/Documents/10.40.10.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-10-40-10.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-10-40-10.md
   - number: 10.50.00.po
     title: Capital and non-capital assets-policy
     effective_date_listed: 07/01/2001
     file_ref: /das/Financial/Acctng/Documents/10.50.00.po.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-10-50-00-po.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-10-50-00-po.md
   - number: 10.50.00.pr
     title: Capital and non-capital assets-procedure
     effective_date_listed: 01/02/2002
     file_ref: /das/Financial/Acctng/Documents/10.50.00.pr.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-10-50-00-pr.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-10-50-00-pr.md
   - number: 10.55.00
     title: Employee assigned property-policy
     effective_date_listed: 02/02/2002
     file_ref: /das/Financial/Acctng/Documents/10.55.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-10-55-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-10-55-00.md
   - number: 10.60.00.po
     title: Information technology-policy
     effective_date_listed: 08/01/2010
     file_ref: /das/Financial/Acctng/Documents/10.60.00.po.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-10-60-00-po.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-10-60-00-po.md
   - number: 10.60.00.pr
     title: Information technology-procedure
     effective_date_listed: 10/01/2007
     file_ref: /das/Financial/Acctng/Documents/10.60.00.pr.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-10-60-00-pr.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-10-60-00-pr.md
   - number: 10.65.00.po
     title: Approval of proposed fiscal systems-policy
     effective_date_listed: 07/29/2003
     file_ref: /das/Financial/Acctng/Documents/10.65.00.po.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-10-65-00-po.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-10-65-00-po.md
   - number: 10.70.00
     title: Security access to financial systems
     effective_date_listed: 06/14/2017
     file_ref: /das/Financial/Acctng/Documents/10.70.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-10-70-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-10-70-00.md
   - number: 10.75.00
     title: ACH security
     effective_date_listed: 10/01/2010
     file_ref: /das/Financial/Acctng/Documents/10.75.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-10-75-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-10-75-00.md
   - number: 10.80.00.po
     title: Auditing-policy
     effective_date_listed: 07/01/2003
     file_ref: /das/Financial/Acctng/Documents/10.80.00.po.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-10-80-00-po.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-10-80-00-po.md
   - number: 10.80.00.pr
     title: Auditing-procedure
     effective_date_listed: 07/01/2003
     file_ref: /das/Financial/Acctng/Documents/10.80.00.pr.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-10-80-00-pr.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-10-80-00-pr.md
   - number: 10.90.00
     title: Approval of agency head transactions-policy
     effective_date_listed: 07/16/2001
     file_ref: /das/Financial/Acctng/Documents/10.90.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-10-90-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-10-90-00.md
 - chapter: '15'
   title: 15 - Accounting & financial reporting
   documents:
@@ -227,175 +227,175 @@ chapters:
     effective_date_listed: 02/13/2017
     file_ref: /das/Financial/Acctng/Documents/15.05.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-15-05-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-15-05-00.md
   - number: 15.10.00
     title: Cash and cash equivalents
     effective_date_listed: 06/01/2013
     file_ref: /das/Financial/Acctng/Documents/15.10.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-15-10-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-15-10-00.md
   - number: 15.15.00
     title: Investments
     effective_date_listed: 05/01/2013
     file_ref: /das/Financial/Acctng/Documents/15.15.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-15-15-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-15-15-00.md
   - number: 15.20.00
     title: Derivative instruments
     effective_date_listed: 07/16/2015
     file_ref: /das/Financial/Acctng/Documents/15.20.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-15-20-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-15-20-00.md
   - number: 15.30.00
     title: Securities lending
     effective_date_listed: 07/01/2012
     file_ref: /das/Financial/Acctng/Documents/15.30.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-15-30-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-15-30-00.md
   - number: 15.35.00
     title: Revenues and receivables
     effective_date_listed: 01/31/2013
     file_ref: /das/Financial/Acctng/Documents/15.35.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-15-35-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-15-35-00.md
   - number: 15.40.00
     title: Expenses, Expenditures, and Payables
     effective_date_listed: 09/10/2018
     file_ref: /das/Financial/Acctng/Documents/15.40.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-15-40-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-15-40-00.md
   - number: 15.41.00
     title: Withholding from non-state entities
     effective_date_listed: 09/16/2014
     file_ref: /das/Financial/Acctng/Documents/15.41.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-15-41-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-15-41-00.md
   - number: 15.42.00
     title: Federal grants
     effective_date_listed: 04/01/2013
     file_ref: /das/Financial/Acctng/Documents/15.42.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-15-42-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-15-42-00.md
   - number: 15.45.10
     title: Interfund and interagency transactions-services
     effective_date_listed: 03/01/2013
     file_ref: /das/Financial/Acctng/Documents/15.45.10.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-15-45-10.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-15-45-10.md
   - number: 15.45.20
     title: Interfund and interagency transactions-advances
     effective_date_listed: 06/01/2012
     file_ref: /das/Financial/Acctng/Documents/15.45.20.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-15-45-20.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-15-45-20.md
   - number: 15.45.30
     title: Interfund and interagency transactions-Lottery
     effective_date_listed: 07/01/2013
     file_ref: /das/Financial/Acctng/Documents/15.45.30.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-15-45-30.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-15-45-30.md
   - number: 15.50.00
     title: Inventories
     effective_date_listed: 07/01/2011
     file_ref: /das/Financial/Acctng/Documents/15.50.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-15-50-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-15-50-00.md
   - number: 15.51.00
     title: Outstanding Balances with Component Units
     effective_date_listed: 01/22/2018
     file_ref: /das/Financial/Acctng/Documents/15.51.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-15-51-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-15-51-00.md
   - number: 15.55.00
     title: Non-capital assets
     effective_date_listed: 07/01/2013
     file_ref: /das/Financial/Acctng/Documents/15.55.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-15-55-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-15-55-00.md
   - number: 15.60.10
     title: Capital assets-classification/capitalization
     effective_date_listed: 09/16/2017
     file_ref: /das/Financial/Acctng/Documents/15.60.10.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-15-60-10.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-15-60-10.md
   - number: 15.60.20
     title: Capital assets-depreciation/amortization
     effective_date_listed: 08/10/2010
     file_ref: /das/Financial/Acctng/Documents/15.60.20.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-15-60-20.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-15-60-20.md
   - number: 15.60.25
     title: Capital assets-impairments
     effective_date_listed: 08/10/2010
     file_ref: /das/Financial/Acctng/Documents/15.60.25.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-15-60-25.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-15-60-25.md
   - number: 15.60.30
     title: (untitled)
     effective_date_listed: null
     file_ref: /das/Financial/Acctng/Documents/15.60.30 draft.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-15-60-30-draft.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-15-60-30-draft.md
   - number: 15.60.30
     title: Capital assets-capital leases
     effective_date_listed: 07/01/2012
     file_ref: /das/Financial/Acctng/Documents/15.60.30.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-15-60-30.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-15-60-30.md
   - number: 15.60.40
     title: Capital assets- intangible assets
     effective_date_listed: 06/01/2013
     file_ref: /das/Financial/Acctng/Documents/15.60.40.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-15-60-40.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-15-60-40.md
   - number: 15.65.10
     title: Bonds and Certificates of Participation
     effective_date_listed: 01/22/2018
     file_ref: /das/Financial/Acctng/Documents/15.65.10.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-15-65-10.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-15-65-10.md
   - number: 15.65.20
     title: Arbitrage
     effective_date_listed: 03/25/2014
     file_ref: /das/Financial/Acctng/Documents/15.65.20.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-15-65-20.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-15-65-20.md
   - number: 15.65.30
     title: Debt refunding
     effective_date_listed: 01/22/2018
     file_ref: /das/Financial/Acctng/Documents/15.65.30.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-15-65-30.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-15-65-30.md
   - number: 15.70.00
     title: Compensated absences
     effective_date_listed: 04/16/20019
     file_ref: /das/Financial/Acctng/Documents/15.70.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-15-70-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-15-70-00.md
   - number: 15.75.00
     title: Claims and judgments
     effective_date_listed: 07/01/2012
     file_ref: /das/Financial/Acctng/Documents/15.75.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-15-75-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-15-75-00.md
   - number: 15.77.00
     title: Pollution and remediation obligations
     effective_date_listed: 07/10/2010
     file_ref: /das/Financial/Acctng/Documents/15.77.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-15-77-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-15-77-00.md
   - number: 15.80.00
     title: Commitments
     effective_date_listed: 07/01/2011
     file_ref: /das/Financial/Acctng/Documents/15.80.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-15-80-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-15-80-00.md
   - number: 15.85.00
     title: Equities
     effective_date_listed: 12/05/2013
     file_ref: /das/Financial/Acctng/Documents/15.85.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-15-85-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-15-85-00.md
 - chapter: '20'
   title: 20 - Budgetary accounting & reporting
   documents:
@@ -411,37 +411,37 @@ chapters:
     effective_date_listed: 10/01/2004
     file_ref: /das/Financial/Acctng/Documents/20.10.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-20-10-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-20-10-00.md
   - number: 20.20.00
     title: Encumbrances
     effective_date_listed: 07/01/2012
     file_ref: /das/Financial/Acctng/Documents/20.20.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-20-20-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-20-20-00.md
   - number: 20.30.00.po
     title: Expenditure and interfund transfer recognition-policy
     effective_date_listed: 07/01/2005
     file_ref: /das/Financial/Acctng/Documents/20.30.00.po.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-20-30-00-po.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-20-30-00-po.md
   - number: 20.30.00.pr
     title: Expenditure and interfund transfer recognition-procedure
     effective_date_listed: 07/01/2005
     file_ref: /das/Financial/Acctng/Documents/20.30.00.pr.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-20-30-00-pr.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-20-30-00-pr.md
   - number: 20.40.00
     title: Reduction of expense
     effective_date_listed: 07/01/2012
     file_ref: /das/Financial/Acctng/Documents/20.40.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-20-40-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-20-40-00.md
   - number: 20.50.00
     title: Revenue and interfund transfer recognition
     effective_date_listed: 07/15/2012
     file_ref: /das/Financial/Acctng/Documents/20.50.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-20-50-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-20-50-00.md
 - chapter: '25'
   title: 25 - Management accounting
   documents:
@@ -457,13 +457,13 @@ chapters:
     effective_date_listed: 07/01/2001
     file_ref: /das/Financial/Acctng/Documents/25.00.00.po.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-25-00-00-po.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-25-00-00-po.md
   - number: 25.00.00.pr
     title: Management accounting-policy
     effective_date_listed: 07/01/2001
     file_ref: /das/Financial/Acctng/Documents/25.00.00.pr.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-25-00-00-pr.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-25-00-00-pr.md
 - chapter: '30'
   title: 30 - Federal compliance
   documents:
@@ -479,43 +479,43 @@ chapters:
     effective_date_listed: 04/02/2007
     file_ref: /das/Financial/Acctng/Documents/30.10.00.po.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-30-10-00-po.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-30-10-00-po.md
   - number: 30.10.00.pr
     title: Statewide single audit-procedure
     effective_date_listed: 04/02/2007
     file_ref: /das/Financial/Acctng/Documents/30.10.00.pr.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-30-10-00-pr.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-30-10-00-pr.md
   - number: 30.20.00.po
     title: Statewide central services cost allocation-policy
     effective_date_listed: 10/26/2010
     file_ref: /das/Financial/Acctng/Documents/30.20.00.po.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-30-20-00-po.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-30-20-00-po.md
   - number: 30.20.00.pr
     title: Statewide central services cost allocation-procedure
     effective_date_listed: 07/01/2001
     file_ref: /das/Financial/Acctng/Documents/30.20.00.pr.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-30-20-00-pr.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-30-20-00-pr.md
   - number: 30.30.00.po
     title: Cash management-policy
     effective_date_listed: 04/02/2007
     file_ref: /das/Financial/Acctng/Documents/30.30.00.po.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-30-30-00-po.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-30-30-00-po.md
   - number: 30.30.00.pr
     title: Cash management-procedure
     effective_date_listed: 04/02/2007
     file_ref: /das/Financial/Acctng/Documents/30.30.00.pr.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-30-30-00-pr.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-30-30-00-pr.md
   - number: 30.40.00
     title: Subrecipient monitoring and audit reviews
     effective_date_listed: 08/15/2019
     file_ref: /das/Financial/Acctng/Documents/30.40.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-30-40-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-30-40-00.md
 - chapter: '35'
   title: 35 - Accounts receivable management
   documents:
@@ -531,115 +531,115 @@ chapters:
     effective_date_listed: 12/11/2018
     file_ref: /das/Financial/Acctng/Documents/35.05.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-35-05-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-35-05-00.md
   - number: 35.20.20
     title: Account establishment- debtor inform. gathering
     effective_date_listed: 12/11/2018
     file_ref: /das/Financial/Acctng/Documents/35.20.20.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-35-20-20.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-35-20-20.md
   - number: 35.20.30
     title: Account establishment-ability to pay/deny services
     effective_date_listed: 12/11/2018
     file_ref: /das/Financial/Acctng/Documents/35.20.30.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-35-20-30.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-35-20-30.md
   - number: 35.30.10
     title: Account activity- sch. collection activity
     effective_date_listed: 07/01/2018
     file_ref: /das/Financial/Acctng/Documents/35.30.10.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-35-30-10.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-35-30-10.md
   - number: 35.30.20
     title: Account activity- invoicing and interest
     effective_date_listed: 12/11/2018
     file_ref: /das/Financial/Acctng/Documents/35.30.20.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-35-30-20.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-35-30-20.md
   - number: 35.30.30
     title: Account activity-definitions-liquidated/delinquent
     effective_date_listed: 04/23/2023
     file_ref: /das/Financial/Acctng/Documents/35.30.30.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-35-30-30.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-35-30-30.md
   - number: 35.30.40
     title: Account activity-telephone collections
     effective_date_listed: 12/11/2018
     file_ref: /das/Financial/Acctng/Documents/35.30.40.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-35-30-40.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-35-30-40.md
   - number: 35.30.50
     title: Account activity-letter collections
     effective_date_listed: 07/16/2018
     file_ref: /das/Financial/Acctng/Documents/35.30.50.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-35-30-50.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-35-30-50.md
   - number: 35.30.60
     title: Account activity-payment plans
     effective_date_listed: 07/01/2018
     file_ref: /das/Financial/Acctng/Documents/35.30.60.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-35-30-60.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-35-30-60.md
   - number: 35.30.70
     title: Account activity- skip tracing/asset location
     effective_date_listed: 12/11/2018
     file_ref: /das/Financial/Acctng/Documents/35.30.70.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-35-30-70.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-35-30-70.md
   - number: 35.30.80
     title: Account activity - offers in compromise
     effective_date_listed: 07/16/2018
     file_ref: /das/Financial/Acctng/Documents/35.30.80.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-35-30-80.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-35-30-80.md
   - number: 35.30.90
     title: Account activity-coordination of vendor payments
     effective_date_listed: 04/24/2023
     file_ref: /das/Financial/Acctng/Documents/35.30.90.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-35-30-90.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-35-30-90.md
   - number: 35.40.10
     title: Account assignments-assign./exemptions
     effective_date_listed: 12/01/2018
     file_ref: /das/Financial/Acctng/Documents/35.40.10.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-35-40-10.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-35-40-10.md
   - number: 35.40.20
     title: Account assignments- collection fees
     effective_date_listed: 07/01/2018
     file_ref: /das/Financial/Acctng/Documents/35.40.20.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-35-40-20.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-35-40-20.md
   - number: 35.40.30
     title: Account assignments-Dept. of Revenue
     effective_date_listed: 07/16/2018
     file_ref: /das/Financial/Acctng/Documents/35.40.30.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-35-40-30.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-35-40-30.md
   - number: 35.50.10
     title: Uncollectible accounts- write-off guidelines
     effective_date_listed: 07/01/2018
     file_ref: /das/Financial/Acctng/Documents/35.50.10.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-35-50-10.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-35-50-10.md
   - number: 35.60.10
     title: Receivable reports- reporting liquidated/delinquent accts.
     effective_date_listed: 07/01/2018
     file_ref: /das/Financial/Acctng/Documents/35.60.10.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-35-60-10.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-35-60-10.md
   - number: 35.60.20
     title: Receivable reports -  accounts receivable performance measures
     effective_date_listed: 02/09/2018
     file_ref: /das/Financial/Acctng/Documents/35.60.20.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-35-60-20.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-35-60-20.md
   - number: 35.70.10
     title: Interagency receivables- billings/payments/progressive actions
     effective_date_listed: 12/11/2018
     file_ref: /das/Financial/Acctng/Documents/35.70.10.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-35-70-10.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-35-70-10.md
 - chapter: '40'
   title: 40 - Travel
   documents:
@@ -655,25 +655,25 @@ chapters:
     effective_date_listed: 01/01/2026
     file_ref: /das/Financial/Acctng/Documents/40.10.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-40-10-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-40-10-00.md
   - number: 40.20.00
     title: Travel advances
     effective_date_listed: 07/01/2012
     file_ref: /das/Financial/Acctng/Documents/40.20.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-40-20-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-40-20-00.md
   - number: 40.20.10.po
     title: Corporate travel card-policy
     effective_date_listed: 05/01/2007
     file_ref: /das/Financial/Acctng/Documents/40.20.10.PO.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-40-20-10-po.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-40-20-10-po.md
   - number: 40.20.10.pr
     title: Corporate travel card-procedure
     effective_date_listed: 05/01/2007
     file_ref: /das/Financial/Acctng/Documents/40.20.10.PR.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-40-20-10-pr.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-40-20-10-pr.md
 - chapter: '45'
   title: 45 - Payroll
   documents:
@@ -689,121 +689,121 @@ chapters:
     effective_date_listed: 03/01/2007
     file_ref: /das/Financial/Acctng/Documents/45.05.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-45-05-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-45-05-00.md
   - number: 45.06.00
     title: Sick leave balances at retirement
     effective_date_listed: 03/01/2007
     file_ref: /das/Financial/Acctng/Documents/45.06.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-45-06-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-45-06-00.md
   - number: 45.07.00
     title: Time record approval and leave report review
     effective_date_listed: 11/12/2025
     file_ref: /das/Financial/Acctng/Documents/45.07.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-45-07-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-45-07-00.md
   - number: 45.10.00.po
     title: Voluntary deductions- policy
     effective_date_listed: 02/27/2008
     file_ref: /das/Financial/Acctng/Documents/45.10.00.po.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-45-10-00-po.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-45-10-00-po.md
   - number: 45.10.00.pr
     title: Voluntary deductions-procedure
     effective_date_listed: 02/27/2008
     file_ref: /das/Financial/Acctng/Documents/45.10.00.pr.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-45-10-00-pr.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-45-10-00-pr.md
   - number: 45.15.00.po
     title: Payroll accounts reimbursement-policy
     effective_date_listed: 08/15/2001
     file_ref: /das/Financial/Acctng/Documents/45.15.00.po.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-45-15-00-po.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-45-15-00-po.md
   - number: 45.15.00.pr
     title: Payroll accounts reimbursement-procedure
     effective_date_listed: 08/15/2001
     file_ref: /das/Financial/Acctng/Documents/45.15.00.pr.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-45-15-00-pr.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-45-15-00-pr.md
   - number: 45.17.00
     title: Payroll data integrity
     effective_date_listed: 08/15/2001
     file_ref: /das/Financial/Acctng/Documents/45.17.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-45-17-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-45-17-00.md
   - number: 45.20.00
     title: Cash insurance payments
     effective_date_listed: 02/27/2007
     file_ref: /das/Financial/Acctng/Documents/45.20.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-45-20-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-45-20-00.md
   - number: 45.25.00.po
     title: Salary advances-policy
     effective_date_listed: 03/04/2003
     file_ref: /das/Financial/Acctng/Documents/45.25.00.po.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-45-25-00-po.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-45-25-00-po.md
   - number: 45.25.00.pr
     title: Salary advances-procedures
     effective_date_listed: 03/04/2003
     file_ref: /das/Financial/Acctng/Documents/45.25.00.pr.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-45-25-00-pr.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-45-25-00-pr.md
   - number: 45.30.00
     title: Dual update access to PPDB/OSPA
     effective_date_listed: 06/29/2007
     file_ref: /das/Financial/Acctng/Documents/45.30.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-45-30-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-45-30-00.md
   - number: 45.35.00.po
     title: Review of gross pay adjust. reports- policy
     effective_date_listed: 06/29/2007
     file_ref: /das/Financial/Acctng/Documents/45.35.00.po.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-45-35-00-po.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-45-35-00-po.md
   - number: 45.35.00.pr
     title: Review of gross pay adjust. reports-procedure
     effective_date_listed: 06/29/2007
     file_ref: /das/Financial/Acctng/Documents/45.35.00.pr.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-45-35-00-pr.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-45-35-00-pr.md
   - number: 45.37.00
     title: Review of month end leave reports-policy
     effective_date_listed: 06/29/2007
     file_ref: /das/Financial/Acctng/Documents/45.37.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-45-37-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-45-37-00.md
   - number: 45.40.00
     title: Reimbursement of employee expense through OSPA
     effective_date_listed: 02/27/2008
     file_ref: /das/Financial/Acctng/Documents/45.40.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-45-40-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-45-40-00.md
   - number: 45.42.00
     title: Distrib. accompanying payroll payment
     effective_date_listed: 03/24/2006
     file_ref: /das/Financial/Acctng/Documents/45.42.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-45-42-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-45-42-00.md
   - number: 45.45.00
     title: Separation of duties
     effective_date_listed: 07/01/2005
     file_ref: /das/Financial/Acctng/Documents/45.45.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-45-45-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-45-45-00.md
   - number: 45.50.00
     title: Collection of Overpayment of Wages
     effective_date_listed: 11/12/2025
     file_ref: /das/Financial/Acctng/Documents/45.50.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-45-50-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-45-50-00.md
   - number: 45.55.00
     title: Collection of Employee Benefit Payment Amounts Paid by the Employers
     effective_date_listed: 11/12/2025
     file_ref: /das/Financial/Acctng/Documents/45.55.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-45-55-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-45-55-00.md
 - chapter: '50'
   title: 50 - Tax issues
   documents:
@@ -819,55 +819,55 @@ chapters:
     effective_date_listed: 07/01/2009
     file_ref: /das/Financial/Acctng/Documents/50.10.00.po.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-50-10-00-po.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-50-10-00-po.md
   - number: 50.10.00.pr
     title: Education assistance payments-procedure
     effective_date_listed: 07/01/2009
     file_ref: /das/Financial/Acctng/Documents/50.10.00.pr.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-50-10-00-pr.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-50-10-00-pr.md
   - number: 50.20.00
     title: Tax Issues - Moving Expenses
     effective_date_listed: 04/17/2018
     file_ref: /das/Financial/Acctng/Documents/50.20.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-50-20-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-50-20-00.md
   - number: 50.30.00.po
     title: Fringe benefits-vehicles policy
     effective_date_listed: 11/01/2002
     file_ref: /das/Financial/Acctng/Documents/50.30.00.po.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-50-30-00-po.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-50-30-00-po.md
   - number: 50.30.00.pr
     title: Fringe benefits-vehicles procedure
     effective_date_listed: 11/01/2002
     file_ref: /das/Financial/Acctng/Documents/50.30.00.pr.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-50-30-00-pr.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-50-30-00-pr.md
   - number: 50.50.00.po
     title: 1099-misc. reporting- policy
     effective_date_listed: 08/01/2001
     file_ref: /das/Financial/Acctng/Documents/50.50.00.po.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-50-50-00-po.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-50-50-00-po.md
   - number: 50.50.00.pr
     title: 1099-misc. reporting-procedure
     effective_date_listed: 08/01/2001
     file_ref: /das/Financial/Acctng/Documents/50.50.00.pr.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-50-50-00-pr.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-50-50-00-pr.md
   - number: 50.60.00.po
     title: Mass transit tax-policy
     effective_date_listed: 08/24/2004
     file_ref: /das/Financial/Acctng/Documents/50.60.00.po.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-50-60-00-po.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-50-60-00-po.md
   - number: 50.60.00.pr
     title: Mass transit tax-procedure
     effective_date_listed: 08/24/2004
     file_ref: /das/Financial/Acctng/Documents/50.60.00.pr.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-50-60-00-pr.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-50-60-00-pr.md
 - chapter: '55'
   title: 55 - Other programs
   documents:
@@ -876,19 +876,19 @@ chapters:
     effective_date_listed: 04/24/2023
     file_ref: /das/Financial/Acctng/Documents/55.30.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-55-30-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-55-30-00.md
   - number: 55.30.00_Appendix_A
     title: SPOTS Card Program blocked MCCs - appendix A
     effective_date_listed: null
     file_ref: /das/Financial/Acctng/Documents/55.30.00_Appendix_A.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-55-30-00-appendix-a.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-55-30-00-appendix-a.md
   - number: 55.30.00_Appendix_B
     title: SPOTS Card Program log example- appendix B
     effective_date_listed: null
     file_ref: /das/Financial/Acctng/Documents/55.30.00_Appendix_B.xls
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-55-30-00-appendix-b.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-55-30-00-appendix-b.md
 - chapter: '60'
   title: 60 - Chart of accounts
   documents:
@@ -904,19 +904,19 @@ chapters:
     effective_date_listed: 06/14/2017
     file_ref: /das/Financial/Acctng/Documents/60.10.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-60-10-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-60-10-00.md
   - number: 60.20.00
     title: Comptroller objects-financial statement classification
     effective_date_listed: 06/14/2017
     file_ref: /das/Financial/Acctng/Documents/60.20.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-60-20-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-60-20-00.md
   - number: 60.30.00
     title: Comptroller objects- numeric sequence
     effective_date_listed: 06/14/2017
     file_ref: /das/Financial/Acctng/Documents/60.30.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-60-30-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-60-30-00.md
 - chapter: '65'
   title: 65 - Glossary
   documents:
@@ -925,7 +925,7 @@ chapters:
     effective_date_listed: 06/01/2010
     file_ref: /das/Financial/Acctng/Documents/65.00.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-65-00-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-65-00-00.md
 - chapter: '70'
   title: 70 - Agency lists
   documents:
@@ -934,25 +934,25 @@ chapters:
     effective_date_listed: 01/01/2025
     file_ref: /das/Financial/Acctng/Documents/70.10.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-70-10-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-70-10-00.md
   - number: 70.20.00
     title: Current agencies - Numeric sequence
     effective_date_listed: 01/01/2025
     file_ref: /das/Financial/Acctng/Documents/70.20.00.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-70-20-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-70-20-00.md
   - number: 70.30.00
     title: Obsolete Agencies - Alpha Sequence
     effective_date_listed: 2/7/2024
     file_ref: /das/Financial/Acctng/Documents/70.30.00 Agencies Obsolete Alpha.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-70-30-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-70-30-00.md
   - number: 70.40.00
     title: Obsolete Agencies - Numeric Sequence
     effective_date_listed: 2/7/2024
     file_ref: /das/Financial/Acctng/Documents/70.40.00 Agencies Obsolete Numeric.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-70-40-00.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-70-40-00.md
 - chapter: '75'
   title: 75 - Forms
   documents:
@@ -968,151 +968,151 @@ chapters:
     effective_date_listed: null
     file_ref: /das/Financial/Acctng/Documents/75.30.01.fo.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-75-30-01-fo.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-75-30-01-fo.md
   - number: 75.30.02.fo
     title: Sample completion letter for sub recipient monitoring
     effective_date_listed: null
     file_ref: /das/Financial/Acctng/Documents/75.30.02.fo.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-75-30-02-fo.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-75-30-02-fo.md
   - number: 75.35.01.fo
     title: Agency documentation for self-exempting accounts
     effective_date_listed: null
     file_ref: /das/Financial/Acctng/Documents/75.35.01.fo.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-75-35-01-fo.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-75-35-01-fo.md
   - number: 75.35.02.fo
     title: Request for exemption from assignment
     effective_date_listed: null
     file_ref: /das/Financial/Acctng/Documents/75.35.02.fo.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-75-35-02-fo.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-75-35-02-fo.md
   - number: 75.35.03.fo
     title: Sample inter-agency invoice
     effective_date_listed: null
     file_ref: /das/Financial/Acctng/Documents/75.35.03.fo.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-75-35-03-fo.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-75-35-03-fo.md
   - number: 75.35.04.fo
     title: Inter-agency invoice inquiry
     effective_date_listed: null
     file_ref: /das/Financial/Acctng/Documents/75.35.04.fo.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-75-35-04-fo.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-75-35-04-fo.md
   - number: 75.35.05.fo
     title: Account contact record
     effective_date_listed: null
     file_ref: /das/Financial/Acctng/Documents/75.35.05.fo.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-75-35-05-fo.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-75-35-05-fo.md
   - number: 75.35.07.fo
     title: IDRP inquiry notifcation
     effective_date_listed: null
     file_ref: /das/Financial/Acctng/Documents/75.35.07.fo.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-75-35-07-fo.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-75-35-07-fo.md
   - number: 75.35.08.fo
     title: IDRP inquiry response
     effective_date_listed: null
     file_ref: /das/Financial/Acctng/Documents/75.35.08.fo.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-75-35-08-fo.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-75-35-08-fo.md
   - number: 75.35.09.fo
     title: IDRP finding and order
     effective_date_listed: null
     file_ref: /das/Financial/Acctng/Documents/75.35.09.fo.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-75-35-09-fo.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-75-35-09-fo.md
   - number: 75.35.10.fo
     title: Sample invoice
     effective_date_listed: null
     file_ref: /das/Financial/Acctng/Documents/75.35.10.fo.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-75-35-10-fo.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-75-35-10-fo.md
   - number: 75.35.11.fo
     title: Exemption from 90-day turnover request
     effective_date_listed: null
     file_ref: /das/Financial/Acctng/Documents/75.35.11.fo.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-75-35-11-fo.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-75-35-11-fo.md
   - number: 75.35.12.fo
     title: Accounts receivable performance measures report
     effective_date_listed: null
     file_ref: /das/Financial/Acctng/Documents/75.35.12.fo.xlsx
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-75-35-12-fo.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-75-35-12-fo.md
   - number: 75.35.13.fo
     title: Write-off certification form
     effective_date_listed: null
     file_ref: /das/Financial/Acctng/Documents/75.35.13.fo.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-75-35-13-fo.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-75-35-13-fo.md
   - number: 75.35.14.fo
     title: Offer in Compromise Approval form
     effective_date_listed: null
     file_ref: /das/Financial/Acctng/Documents/75.35.14.fo.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-75-35-14-fo.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-75-35-14-fo.md
   - number: 75.35.15.fo
     title: 'Annual Certification: Write-off, Abated, and Canceled Debt'
     effective_date_listed: null
     file_ref: /das/Financial/Acctng/Documents/75.35.15.fo.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-75-35-15-fo.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-75-35-15-fo.md
   - number: 75.40.01.fo
     title: Travel Expense Detail Sheet
     effective_date_listed: January 1, 2026
     file_ref: /das/Financial/Acctng/Documents/75.40.01.fo.xlsx
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-75-40-01-fo.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-75-40-01-fo.md
   - number: 75.40.02.fo
     title: Employee report of travel awards
     effective_date_listed: null
     file_ref: /das/Financial/Acctng/Documents/75.40.02.FO.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-75-40-02-fo.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-75-40-02-fo.md
   - number: 75.40.03.fo
     title: Corporate travel card agreement
     effective_date_listed: null
     file_ref: /das/Financial/Acctng/Documents/75.40.03.FO.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-75-40-03-fo.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-75-40-03-fo.md
   - number: 75.40.04.fo
     title: U.S. Bank corporate card application
     effective_date_listed: null
     file_ref: /das/Financial/Acctng/Documents/75.40.04.fo.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-75-40-04-fo.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-75-40-04-fo.md
   - number: 75.40.05.fo
     title: Authorization to use private vehicle
     effective_date_listed: null
     file_ref: /das/Financial/Acctng/Documents/75.40.05.FO.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-75-40-05-fo.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-75-40-05-fo.md
   - number: 75.45.01.fo
     title: Authorized OSPA signatures
     effective_date_listed: null
     file_ref: /das/Financial/Acctng/Documents/75.45.01.fo.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-75-45-01-fo.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-75-45-01-fo.md
   - number: 75.45.02.fo
     title: Request for payroll advance
     effective_date_listed: null
     file_ref: /das/Financial/Acctng/Documents/75.45.02.fo.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-75-45-02-fo.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-75-45-02-fo.md
   - number: 75.55.01.fo
     title: SPOTS agency operating agreement
     effective_date_listed: null
     file_ref: /das/Financial/Acctng/Documents/75.55.01.fo.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-75-55-01-fo.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-75-55-01-fo.md
   - number: 75.55.02.fo
     title: SPOTS card application and agreement
     effective_date_listed: null
     file_ref: /das/Financial/Acctng/Documents/75.55.02.fo.pdf
     status: ingested
-    path: agencies/administrative-services-department/accounting-manual/oam-75-55-02-fo.md
+    path: agencies/department-of-administrative-services/accounting-manual/oam-75-55-02-fo.md
   - number: N/A
     title: Out-of-State travel authorization form (Sample)
     effective_date_listed: null
@@ -1124,15 +1124,15 @@ not_in_listing:
   note: Documents fetched from the older Acctng/Pages/OAM.aspx page that do NOT appear in the listing
     of record — pending comment-period drafts kept for reference, status proposed/draft.
   documents:
-  - agencies/administrative-services-department/accounting-manual/oam-15-92-00.md
-  - agencies/administrative-services-department/accounting-manual/oam-15-95-00.md
-  - agencies/administrative-services-department/accounting-manual/oam-15-97-00.md
-  - agencies/administrative-services-department/accounting-manual/oam-45-10-00.md
-  - agencies/administrative-services-department/accounting-manual/oam-45-15-00.md
-  - agencies/administrative-services-department/accounting-manual/oam-45-25-00.md
-  - agencies/administrative-services-department/accounting-manual/oam-45-35-00.md
-  - agencies/administrative-services-department/accounting-manual/oam-50-10-00.md
-  - agencies/administrative-services-department/accounting-manual/oam-50-30-00.md
-  - agencies/administrative-services-department/accounting-manual/oam-50-50-00.md
-  - agencies/administrative-services-department/accounting-manual/oam-50-60-00.md
-  - agencies/administrative-services-department/accounting-manual/oam-75-30-02.md
+  - agencies/department-of-administrative-services/accounting-manual/oam-15-92-00.md
+  - agencies/department-of-administrative-services/accounting-manual/oam-15-95-00.md
+  - agencies/department-of-administrative-services/accounting-manual/oam-15-97-00.md
+  - agencies/department-of-administrative-services/accounting-manual/oam-45-10-00.md
+  - agencies/department-of-administrative-services/accounting-manual/oam-45-15-00.md
+  - agencies/department-of-administrative-services/accounting-manual/oam-45-25-00.md
+  - agencies/department-of-administrative-services/accounting-manual/oam-45-35-00.md
+  - agencies/department-of-administrative-services/accounting-manual/oam-50-10-00.md
+  - agencies/department-of-administrative-services/accounting-manual/oam-50-30-00.md
+  - agencies/department-of-administrative-services/accounting-manual/oam-50-50-00.md
+  - agencies/department-of-administrative-services/accounting-manual/oam-50-60-00.md
+  - agencies/department-of-administrative-services/accounting-manual/oam-75-30-02.md

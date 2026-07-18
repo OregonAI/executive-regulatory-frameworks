@@ -40,7 +40,7 @@ def body_index(slug, title, body):
 
 <!-- TODO: after the first ingest batch, describe the listing of record here and add
 the document table (see
-agencies/administrative-services-department/policies/_index.md for the pattern). -->
+agencies/department-of-administrative-services/policies/_index.md for the pattern). -->
 
 | Citation | Title | Status | Path |
 |---|---|---|---|

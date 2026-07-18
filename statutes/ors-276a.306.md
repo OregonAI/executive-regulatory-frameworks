@@ -69,7 +69,7 @@ DAS policy 107-004-120 and the CSS assessment provisions of 107-004-052).
 
 ## Cross-references
 
-- [DAS 107-004-120 — Cyber and Information Security Incident Response](../agencies/administrative-services-department/policies/das-107-004-120.md)
+- [DAS 107-004-120 — Cyber and Information Security Incident Response](../agencies/department-of-administrative-services/policies/das-107-004-120.md)
 
 ## Provenance & change history
 

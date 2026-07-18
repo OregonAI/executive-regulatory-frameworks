@@ -8,21 +8,21 @@ resolve an item at its source and regenerate. CI fails if this file is stale.
 
 These carry `content_exception`: their sources are image-only scans or binary forms, so nothing diffs them against a snapshot. A human must check each against its `source_url`. Resolve by OCR + full-text migration, or confirm the summary and record review in the file.
 
-- `agencies/administrative-services-department/accounting-manual/oam-55-30-00-appendix-b.md` — Source is a binary .xls workbook (form/template); no text representation. Snapshotted raw.
-- `agencies/administrative-services-department/accounting-manual/oam-75-35-12-fo.md` — Source is a binary .xlsx workbook (form/template); no text representation. Snapshotted raw.
-- `agencies/administrative-services-department/accounting-manual/oam-75-40-01-fo.md` — Source is a binary .xlsx workbook (form/template); no text representation. Snapshotted raw.
-- `agencies/administrative-services-department/policies/das-105-001-0000.md` — Source PDF has no extractable text layer (image-only scan); full text requires OCR + human verification.
-- `agencies/administrative-services-department/policies/das-105-001-0005.md` — Source PDF has no extractable text layer (image-only scan); full text requires OCR + human verification.
-- `agencies/administrative-services-department/policies/das-105-020-0001.md` — Source PDF has no extractable text layer (image-only scan); full text requires OCR + human verification.
-- `agencies/administrative-services-department/policies/das-105-020-0015.md` — Source PDF has no extractable text layer (image-only scan); full text requires OCR + human verification.
-- `agencies/administrative-services-department/policies/das-105-040-0001.md` — Source PDF has no extractable text layer (image-only scan); full text requires OCR + human verification.
-- `agencies/administrative-services-department/policies/das-105-050-0003.md` — Source PDF has no extractable text layer (image-only scan); full text requires OCR + human verification.
-- `agencies/administrative-services-department/policies/das-105-050-0004.md` — Source PDF has no extractable text layer (image-only scan); full text requires OCR + human verification.
-- `agencies/administrative-services-department/policies/das-105-050-0025.md` — Source PDF has no extractable text layer (image-only scan); full text requires OCR + human verification.
-- `agencies/administrative-services-department/policies/das-105-050-0030.md` — Source PDF has no extractable text layer (image-only scan); full text requires OCR + human verification.
-- `agencies/administrative-services-department/policies/das-107-004-051.md` — Source PDF is an image-only scan with no extractable text layer; summary transcribed by visual reading. Full text requires OCR + human verification.
-- `agencies/administrative-services-department/policies/das-107-004-053.md` — Source PDF has no extractable text layer (image-only scan); full text requires OCR + human verification.
-- `agencies/administrative-services-department/policies/das-107-004-100.md` — Source PDF is an image-only scan with no extractable text layer; summary transcribed by visual reading. Full text requires OCR + human verification.
+- `agencies/department-of-administrative-services/accounting-manual/oam-55-30-00-appendix-b.md` — Source is a binary .xls workbook (form/template); no text representation. Snapshotted raw.
+- `agencies/department-of-administrative-services/accounting-manual/oam-75-35-12-fo.md` — Source is a binary .xlsx workbook (form/template); no text representation. Snapshotted raw.
+- `agencies/department-of-administrative-services/accounting-manual/oam-75-40-01-fo.md` — Source is a binary .xlsx workbook (form/template); no text representation. Snapshotted raw.
+- `agencies/department-of-administrative-services/policies/das-105-001-0000.md` — Source PDF has no extractable text layer (image-only scan); full text requires OCR + human verification.
+- `agencies/department-of-administrative-services/policies/das-105-001-0005.md` — Source PDF has no extractable text layer (image-only scan); full text requires OCR + human verification.
+- `agencies/department-of-administrative-services/policies/das-105-020-0001.md` — Source PDF has no extractable text layer (image-only scan); full text requires OCR + human verification.
+- `agencies/department-of-administrative-services/policies/das-105-020-0015.md` — Source PDF has no extractable text layer (image-only scan); full text requires OCR + human verification.
+- `agencies/department-of-administrative-services/policies/das-105-040-0001.md` — Source PDF has no extractable text layer (image-only scan); full text requires OCR + human verification.
+- `agencies/department-of-administrative-services/policies/das-105-050-0003.md` — Source PDF has no extractable text layer (image-only scan); full text requires OCR + human verification.
+- `agencies/department-of-administrative-services/policies/das-105-050-0004.md` — Source PDF has no extractable text layer (image-only scan); full text requires OCR + human verification.
+- `agencies/department-of-administrative-services/policies/das-105-050-0025.md` — Source PDF has no extractable text layer (image-only scan); full text requires OCR + human verification.
+- `agencies/department-of-administrative-services/policies/das-105-050-0030.md` — Source PDF has no extractable text layer (image-only scan); full text requires OCR + human verification.
+- `agencies/department-of-administrative-services/policies/das-107-004-051.md` — Source PDF is an image-only scan with no extractable text layer; summary transcribed by visual reading. Full text requires OCR + human verification.
+- `agencies/department-of-administrative-services/policies/das-107-004-053.md` — Source PDF has no extractable text layer (image-only scan); full text requires OCR + human verification.
+- `agencies/department-of-administrative-services/policies/das-107-004-100.md` — Source PDF is an image-only scan with no extractable text layer; summary transcribed by visual reading. Full text requires OCR + human verification.
 - `executive-orders/ (506 documents)` — image-only scans or unusable OCR layers — metadata stubs only; resolvable only by an OCR + human-verification pass; per-order detail in `_meta/catalog/eo.yml` (`text_layer` field)
 
 ## Explicit TODO markers (0)
@@ -35,52 +35,52 @@ _(none)_
 
 Documents whose own source (or the listing of record) marks them draft/proposed. No action needed until the upstream finalizes them (`/check-updates` will notice); review only if you need to know what's coming.
 
-- `agencies/administrative-services-department/accounting-manual/oam-15-60-30-draft.md` — status: draft — Effective date as printed: MM/DD/YYYY (template placeholder); untitled/undated r
-- `agencies/administrative-services-department/accounting-manual/oam-15-92-00.md` — status: proposed — Effective date as printed: 07/01/2019
-- `agencies/administrative-services-department/accounting-manual/oam-15-95-00.md` — status: draft — Effective date as printed: MM/DD/YYYY
-- `agencies/administrative-services-department/accounting-manual/oam-15-97-00.md` — status: proposed — Effective date as printed: July 1, 2012
-- `agencies/administrative-services-department/accounting-manual/oam-45-10-00.md` — status: draft — Effective date as printed: MM/DD/YYYY
-- `agencies/administrative-services-department/accounting-manual/oam-45-15-00.md` — status: draft — Effective date as printed: MM/DD/YYYY
-- `agencies/administrative-services-department/accounting-manual/oam-45-25-00.md` — status: draft — Effective date as printed: MM/DD/YYYY
-- `agencies/administrative-services-department/accounting-manual/oam-45-35-00.md` — status: draft — Effective date as printed: XX/XX/XXXX
-- `agencies/administrative-services-department/accounting-manual/oam-50-10-00.md` — status: draft — Effective date as printed: TBD
-- `agencies/administrative-services-department/accounting-manual/oam-50-30-00.md` — status: draft — Effective date as printed: TBD
-- `agencies/administrative-services-department/accounting-manual/oam-50-50-00.md` — status: draft — Effective date as printed: TBD
-- `agencies/administrative-services-department/accounting-manual/oam-50-60-00.md` — status: draft — Effective date as printed: TBD
-- `agencies/administrative-services-department/accounting-manual/oam-75-30-02.md` — status: proposed — Effective date as printed: not applicable (form)
+- `agencies/department-of-administrative-services/accounting-manual/oam-15-60-30-draft.md` — status: draft — Effective date as printed: MM/DD/YYYY (template placeholder); untitled/undated r
+- `agencies/department-of-administrative-services/accounting-manual/oam-15-92-00.md` — status: proposed — Effective date as printed: 07/01/2019
+- `agencies/department-of-administrative-services/accounting-manual/oam-15-95-00.md` — status: draft — Effective date as printed: MM/DD/YYYY
+- `agencies/department-of-administrative-services/accounting-manual/oam-15-97-00.md` — status: proposed — Effective date as printed: July 1, 2012
+- `agencies/department-of-administrative-services/accounting-manual/oam-45-10-00.md` — status: draft — Effective date as printed: MM/DD/YYYY
+- `agencies/department-of-administrative-services/accounting-manual/oam-45-15-00.md` — status: draft — Effective date as printed: MM/DD/YYYY
+- `agencies/department-of-administrative-services/accounting-manual/oam-45-25-00.md` — status: draft — Effective date as printed: MM/DD/YYYY
+- `agencies/department-of-administrative-services/accounting-manual/oam-45-35-00.md` — status: draft — Effective date as printed: XX/XX/XXXX
+- `agencies/department-of-administrative-services/accounting-manual/oam-50-10-00.md` — status: draft — Effective date as printed: TBD
+- `agencies/department-of-administrative-services/accounting-manual/oam-50-30-00.md` — status: draft — Effective date as printed: TBD
+- `agencies/department-of-administrative-services/accounting-manual/oam-50-50-00.md` — status: draft — Effective date as printed: TBD
+- `agencies/department-of-administrative-services/accounting-manual/oam-50-60-00.md` — status: draft — Effective date as printed: TBD
+- `agencies/department-of-administrative-services/accounting-manual/oam-75-30-02.md` — status: proposed — Effective date as printed: not applicable (form)
 
 ## Source/listing discrepancies (3)
 
 The document prints a different date than its listing of record (known site typos). This repo records what the document prints; each file's Curator notes explain. Review once; no fix needed unless upstream corrects itself.
 
-- `agencies/administrative-services-department/accounting-manual/oam-15-60-20.md` — document's printed date differs from the listing of record (see Curator notes)
-- `agencies/administrative-services-department/accounting-manual/oam-15-60-25.md` — document's printed date differs from the listing of record (see Curator notes)
-- `agencies/administrative-services-department/accounting-manual/oam-45-20-00.md` — document's printed date differs from the listing of record (see Curator notes)
+- `agencies/department-of-administrative-services/accounting-manual/oam-15-60-20.md` — document's printed date differs from the listing of record (see Curator notes)
+- `agencies/department-of-administrative-services/accounting-manual/oam-15-60-25.md` — document's printed date differs from the listing of record (see Curator notes)
+- `agencies/department-of-administrative-services/accounting-manual/oam-45-20-00.md` — document's printed date differs from the listing of record (see Curator notes)
 
 ## Unlinked rules/policies/procedures/standards — no graph edges (93)
 
 `src/link_graph.py` found no authority citation (or, for procedures, no `_PR` naming match) connecting this document to anything else in the corpus. Usually means the source's authority/reference text doesn't match the extractor's citation patterns (a typo'd rule number, unusual wording) or the document genuinely has no printed authority — check the source and either fix the citation text or add a hand-authored relationship.
 
-- `agencies/administrative-services-department/policies/das-105-001-0000.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/administrative-services-department/policies/das-105-001-0005.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/administrative-services-department/policies/das-105-020-0001.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/administrative-services-department/policies/das-105-020-0015.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/administrative-services-department/policies/das-105-040-0001.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/administrative-services-department/policies/das-105-050-0003.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/administrative-services-department/policies/das-105-050-0004.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/administrative-services-department/policies/das-105-050-0025.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/administrative-services-department/policies/das-105-050-0030.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/administrative-services-department/policies/das-107-001-016.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/administrative-services-department/policies/das-107-001-040.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/administrative-services-department/policies/das-107-004-053.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/administrative-services-department/policies/das-107-011-120.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/administrative-services-department/policies/das-107-011-160.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/administrative-services-department/policies/das-107-011-341.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/administrative-services-department/policies/das-50-070-01.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/administrative-services-department/policies/das-60-000-03.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/administrative-services-department/policies/das-60-000-04.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/administrative-services-department/policies/das-60-000-15.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/administrative-services-department/policies/das-60-000-25.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/department-of-administrative-services/policies/das-105-001-0000.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/department-of-administrative-services/policies/das-105-001-0005.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/department-of-administrative-services/policies/das-105-020-0001.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/department-of-administrative-services/policies/das-105-020-0015.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/department-of-administrative-services/policies/das-105-040-0001.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/department-of-administrative-services/policies/das-105-050-0003.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/department-of-administrative-services/policies/das-105-050-0004.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/department-of-administrative-services/policies/das-105-050-0025.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/department-of-administrative-services/policies/das-105-050-0030.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/department-of-administrative-services/policies/das-107-001-016.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/department-of-administrative-services/policies/das-107-001-040.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/department-of-administrative-services/policies/das-107-004-053.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/department-of-administrative-services/policies/das-107-011-120.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/department-of-administrative-services/policies/das-107-011-160.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/department-of-administrative-services/policies/das-107-011-341.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/department-of-administrative-services/policies/das-50-070-01.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/department-of-administrative-services/policies/das-60-000-03.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/department-of-administrative-services/policies/das-60-000-04.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/department-of-administrative-services/policies/das-60-000-15.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/department-of-administrative-services/policies/das-60-000-25.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/122/001/oar-122-001-0000.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/125/001/oar-125-001-0000.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/125/010/oar-125-010-0005.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
@@ -217,11 +217,11 @@ ingestion time. No document has yet had a human read-through against its officia
 source. When you review a file, update its `last_verified` to that date — that is
 the attestation the review gates call for. Corpus size by directory:
 
-- `agencies/administrative-services-department/accounting-manual/`: 173 documents
-- `agencies/administrative-services-department/policies/`: 119 documents
-- `agencies/administrative-services-department/procedures/`: 14 documents
-- `agencies/administrative-services-department/standards/`: 3 documents
-- `agencies/administrative-services-department/standards/eis-css-it-control-standards/`: 18 documents
+- `agencies/department-of-administrative-services/accounting-manual/`: 173 documents
+- `agencies/department-of-administrative-services/policies/`: 119 documents
+- `agencies/department-of-administrative-services/procedures/`: 14 documents
+- `agencies/department-of-administrative-services/standards/`: 3 documents
+- `agencies/department-of-administrative-services/standards/eis-css-it-control-standards/`: 18 documents
 - `executive-orders/`: 526 documents
 - `external-references/`: 1 documents
 - `rules/105/001/`: 2 documents
