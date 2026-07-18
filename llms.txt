@@ -1,0 +1,51 @@
+# Oregon Executive-Branch Knowledge Repository (DAS pilot)
+
+> Curated, NON-AUTHORITATIVE copies and summaries of the statutes, administrative rules,
+> executive orders, policies, and standards governing Oregon executive-branch agencies,
+> starting with the Department of Administrative Services (DAS). Every document carries
+> provenance frontmatter and links to its official source — always verify there. Agent
+> rules live in AGENTS.md.
+
+## Statutes (ORS)
+
+- [Statutes index](statutes/_index.md): Oregon Revised Statutes relevant to DAS and
+  statewide IT/administration (ORS 183, 184, 192, 276A, 291/293). Consult for the legal
+  authority behind any rule or policy.
+
+## Administrative Rules (OAR)
+
+- [Rules index](rules/_index.md): Oregon Administrative Rules; chapter 125 is DAS
+  (Division 800 = State Information Security). Consult for regulations with the force of
+  law implementing the statutes.
+
+## Executive Orders
+
+- [Executive orders index](executive-orders/_index.md): Governor's executive orders
+  affecting executive-branch administration.
+
+## DAS Policies
+
+- [DAS policies index](agencies/das/policies/_index.md): DAS statewide policies (107-xxx
+  series and others) binding executive-branch agencies. Consult for operational
+  requirements below the level of law.
+- [DAS 107-004-052 — Cyber and Information Security](agencies/das/policies/das-107-004-052.md):
+  the statewide cyber/information security program policy; consult for agency security
+  program requirements, roles (State CISO, agency heads, users), the enterprise security
+  baseline, and the offshoring prohibition.
+
+## DAS Accounting Manual
+
+- [OAM index](agencies/das/accounting-manual/_index.md): Oregon Accounting Manual —
+  statewide financial policy from the Office of the State Controller.
+
+## DAS Standards (EIS/CSS)
+
+- [Standards index](agencies/das/standards/_index.md): statewide information security
+  standards maintained by Enterprise Information Services / Cyber Security Services under
+  ORS 276A.300 — the non-policy documents that policies require agencies to uphold.
+
+## External References
+
+- [External references index](external-references/_index.md): summaries + links for
+  non-Oregon documents referenced by policy (e.g., NIST SP 800-53). Third-party
+  copyrighted standards are summarized only, never reproduced.

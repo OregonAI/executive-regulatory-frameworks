@@ -1,0 +1,61 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "document.frontmatter.schema.json",
+  "title": "Content document frontmatter",
+  "type": "object",
+  "required": [
+    "id", "title", "doc_type", "citation",
+    "authority_level", "issuing_body", "agency",
+    "source_url", "source_format", "retrieved", "source_sha256",
+    "status", "content_mode", "last_verified", "verified_by"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9._-]*[a-z0-9]$",
+      "description": "Stable slug; must equal the filename without .md"
+    },
+    "title": { "type": "string", "minLength": 1 },
+    "doc_type": {
+      "enum": ["statute", "rule", "executive_order", "policy", "procedure", "standard", "manual", "external_reference"]
+    },
+    "citation": { "type": "string", "minLength": 1 },
+    "authority_level": {
+      "enum": ["statute", "administrative_rule", "executive_order", "state_policy", "agency_procedure", "standard", "external_reference"],
+      "description": "Ranked: statute > administrative_rule > executive_order > state_policy > agency_procedure > standard > external_reference"
+    },
+    "issuing_body": { "type": "string", "minLength": 1 },
+    "agency": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Agency slug for agency-scoped docs; 'statewide' for ORS/OAR/EO; 'external' for external references"
+    },
+    "legal_authority": { "type": "array", "items": { "type": "string" } },
+    "source_url": { "type": "string", "format": "uri", "pattern": "^https?://" },
+    "source_format": { "enum": ["pdf", "html", "xml"] },
+    "retrieved": { "type": "string", "format": "date", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+    "source_sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
+    "effective_date": { "type": ["string", "null"], "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+    "last_reviewed": { "type": ["string", "null"], "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+    "source_version": { "type": ["string", "null"] },
+    "status": { "enum": ["current", "superseded", "repealed", "proposed", "draft"] },
+    "supersedes": { "type": ["string", "null"] },
+    "content_mode": { "enum": ["verbatim", "summary", "mixed"] },
+    "last_verified": { "type": "string", "format": "date", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+    "verified_by": { "type": "string", "pattern": "^@" },
+    "maintainer": { "type": "string" },
+    "relationships": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "implements": { "type": "array", "items": { "type": "string" } },
+        "implemented_by": { "type": "array", "items": { "type": "string" } },
+        "references_external": { "type": "array", "items": { "type": "string" } },
+        "related": { "type": "array", "items": { "type": "string" } },
+        "supersedes": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "tags": { "type": "array", "items": { "type": "string" } }
+  },
+  "additionalProperties": false
+}

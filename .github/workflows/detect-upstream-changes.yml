@@ -1,0 +1,38 @@
+name: detect-upstream-changes
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 10 * * 1"   # weekly, Monday 10:23 UTC
+    - cron: "23 10 3 * *"   # monthly, 3rd (after the first-business-day Oregon Bulletin)
+
+permissions:
+  issues: write
+  contents: read
+
+jobs:
+  detect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pyyaml
+      - name: Re-fetch sources and diff hashes
+        id: detect
+        run: python3 src/detect_changes.py --github-output "$GITHUB_OUTPUT"
+      - name: Open issues for changed sources
+        if: steps.detect.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          while IFS=$'\t' read -r id url old new; do
+            [ -z "$id" ] && continue
+            title="Source changed: $id"
+            if gh issue list --label source-change --state open --search "in:title \"$title\"" --json number --jq length | grep -qv '^0$'; then
+              echo "Issue already open for $id, skipping"
+              continue
+            fi
+            gh issue create --label source-change --title "$title" --body "$(printf 'Automated detection.\n\n- **Document id**: %s\n- **Source URL**: %s\n- **Previous sha256**: %s\n- **New sha256**: %s\n- **Detected**: %s\n\nWork this issue per the source-change checklist (.github/ISSUE_TEMPLATE/source-change.md).' "$id" "$url" "$old" "$new" "$(date -I)")"
+          done < changed-sources.tsv

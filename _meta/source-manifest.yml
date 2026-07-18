@@ -1,0 +1,10 @@
+# Every upstream source this repo curates. Review gate #1: entries must be approved
+# by a maintainer before any content is ingested. Validated against
+# _meta/schema/source-manifest.schema.json; re-fetched by detect-upstream-changes.
+sources:
+  - id: das-107-004-052
+    url: https://www.oregon.gov/das/Policies/107-004-052.pdf
+    sha256: ff23504f8a967139e617ea9781495e23301849863a5e21c1a1e5367885b5ac35
+    last_checked: "2026-07-17"
+    recheck: monthly
+    notes: "DAS Statewide Policy — Cyber and Information Security. Effective 2/17/2026."
