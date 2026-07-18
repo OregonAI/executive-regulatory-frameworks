@@ -68,10 +68,11 @@ is needed for state-authored content.
 
 - **Ingesting a new document**: follow `_meta/skills/intake.md` (spec-driven, two human
   review gates: manifest approval before ingestion; CODEOWNER review before merge). Use the
-  templates in `_meta/templates/` and register the source in `_meta/source-manifest.yml`.
-- **Updating after an upstream change**: work the auto-opened `source-change` issue —
-  re-fetch, update snapshot + hash + frontmatter dates, re-verify every quote, log a
-  `Source-Updated` entry in that knowledge body's `CHANGELOG.md`.
+  templates in `_meta/templates/` and register the source in its update group under `_meta/sources/`.
+- **Checking for / applying upstream changes**: use the `/check-updates` skill
+  (`.claude/skills/check-updates`) — group-scoped, token-efficient, driven by
+  `src/check_updates.py` over the update groups in `_meta/sources/`. Log a
+  `Source-Updated` entry in the affected body's `CHANGELOG.md`.
 - **Every PR**: run `python3 src/validate_frontmatter.py` and
   `python3 src/verify_provenance.py` locally; complete the PR checklist; update the
   relevant `CHANGELOG.md` and, for new documents, `llms.txt` and the directory `_index.md`.

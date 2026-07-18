@@ -8,7 +8,7 @@ provenance mechanically. AI agents are welcome contributors under the rules in
 
 1. **Propose** — open an *intake request* issue (for new documents) or work an auto-opened
    *source change* issue (for upstream updates). New sources must first be added to
-   `_meta/source-manifest.yml` and approved by a maintainer **before any content is
+   the matching update group in `_meta/sources/` and approved by a maintainer **before any content is
    ingested** (review gate #1).
 2. **Ingest** — follow `_meta/skills/intake.md`: fetch the pinned URL, snapshot it under
    `_meta/snapshots/`, record `retrieved` + `source_sha256`, fill the matching template

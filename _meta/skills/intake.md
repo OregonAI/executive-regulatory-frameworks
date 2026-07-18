@@ -26,7 +26,7 @@ apply throughout.
    - EIS/CSS standards: https://www.oregon.gov/eis/cyber-security-services/pages/guidance-for-state-agencies.aspx
 2. Produce a **candidate source manifest**: for each document — citation, title, URL,
    doc_type, why-relevant, what-it-references. Submit as a PR editing
-   `_meta/source-manifest.yml`.
+   the matching `_meta/sources/<group>.yml` update group.
 3. **Follow outbound references**: when a policy points to a non-policy document (e.g.,
    107-004-052 → Statewide IT Control Standards), add that document as a candidate too.
 4. **REVIEW GATE #1** — a maintainer approves/prunes the manifest PR. No content may be

@@ -1,0 +1,22 @@
+group: eis-standards
+title: EIS/CSS statewide standards
+kind: content-hash
+recheck: on_review_date
+upstream_signal: EIS Cyber Security Services documents pages; printed review dates
+last_checked: '2026-07-18'
+sources:
+- id: eis-css-itcs
+  url: https://www.oregon.gov/eis/cyber-security-services/Documents/eis-css-statewide-information-technology(IT)-control-standards.pdf
+  sha256: 16985315fc10c902762c51c2a13e78eaf104ac6d6c58cc96eae4cbfdcd698d2a
+  last_checked: '2026-07-18'
+  notes: Statewide IT Control Standards — Access Control (AC)
+- id: eis-css-program-plan-2023
+  url: https://www.oregon.gov/eis/cyber-security-services/Documents/eis-css-statewide-information-security-program-plan.pdf
+  sha256: 7c233470f93b0170576aeb0ed50f1b872b7848b24bd40e1167b69a7d12f3130d
+  last_checked: '2026-07-18'
+  notes: 2023 Statewide Information Security Program Plan
+- id: eis-css-secplan
+  url: https://www.oregon.gov/eis/cyber-security-services/documents/statewideinformationsecurityplan.pdf
+  sha256: ca7524fbe62b092e733567d6b4f6f86e8824e860700fc1122cb5318d41510b84
+  last_checked: '2026-07-18'
+  notes: Statewide Information Security Plan

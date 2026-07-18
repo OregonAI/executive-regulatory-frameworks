@@ -1,0 +1,22 @@
+group: oar
+title: Oregon Administrative Rules (ingested rules)
+kind: content-hash
+recheck: monthly
+upstream_signal: Oregon Bulletin, first business day monthly; OARD rule pages
+last_checked: '2026-07-18'
+sources:
+- id: oar-128-030-0005
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=128-030-0005
+  sha256: 976949c2a41585f6ccb8a81c0f81d7c6f9a70f902b21c597eb7e024314910b86
+  last_checked: '2026-07-18'
+  notes: Purpose, Application, and Authority
+- id: oar-128-030-0010
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=128-030-0010
+  sha256: 39ce488b8f8effbdc18ecd8e4dc1a05b1525d3833a9313cdde2d22badbc825fb
+  last_checked: '2026-07-18'
+  notes: Definitions
+- id: oar-128-030-0020
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=128-030-0020
+  sha256: 9d3d617bfe1ac049bcdba3725dabb0f6aadbf7e39a8ec3fab1e6e5a98de745a3
+  last_checked: '2026-07-18'
+  notes: State Information Security

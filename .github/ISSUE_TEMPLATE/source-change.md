@@ -21,5 +21,5 @@ labels: source-change
 - [ ] Update frontmatter (`retrieved`, `source_sha256`, `effective_date`, `source_version`,
       `status`, `last_verified`, `verified_by`)
 - [ ] Re-verify every `[VERBATIM]` quote; update body content as needed
-- [ ] Update `_meta/source-manifest.yml`
+- [ ] Update the matching `_meta/sources/<group>.yml`
 - [ ] Log `Source-Updated` (or `Superseded`/`Repealed`) in the knowledge body `CHANGELOG.md`

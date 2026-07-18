@@ -1,0 +1,12 @@
+group: ors
+title: Oregon Revised Statutes (ingested chapters)
+kind: chapter-html
+recheck: biennial
+upstream_signal: Biennial ORS edition (odd-year sessions), oregonlegislature.gov chapter HTML
+last_checked: '2026-07-18'
+sources:
+- id: ors-chapter-276a
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors276A.html
+  sha256: 84da86d3f6f9ce77d9cc126a49ac106bc0eca2d1318bc9898a3711409cd2b2d3
+  last_checked: '2026-07-18'
+  notes: Information systems security in executive department; rules

@@ -1,0 +1,12 @@
+group: external
+title: Third-party external references
+kind: content-hash
+recheck: on_review_date
+upstream_signal: Publisher sites (summary+link only per HC-2)
+last_checked: '2026-07-18'
+sources:
+- id: nist-sp-800-53-r5
+  url: https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final
+  sha256: e0f14de2ca45862f8eba09003ab55d326e7885608fa39ae4c84979b894774756
+  last_checked: '2026-07-17'
+  notes: NIST SP 800-53 Rev. 5 landing page. Summary + link only.

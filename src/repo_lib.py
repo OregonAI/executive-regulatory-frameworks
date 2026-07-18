@@ -10,7 +10,13 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 CONTENT_DIRS = ["statutes", "rules", "executive-orders", "agencies", "external-references"]
 SNAPSHOT_DIR = REPO_ROOT / "_meta" / "snapshots"
 SCHEMA_DIR = REPO_ROOT / "_meta" / "schema"
-MANIFEST_PATH = REPO_ROOT / "_meta" / "source-manifest.yml"
+SOURCES_DIR = REPO_ROOT / "_meta" / "sources"
+
+
+def source_groups():
+    """Yield (path, parsed dict) for every update-group file in _meta/sources/."""
+    for p in sorted(SOURCES_DIR.glob("*.yml")):
+        yield p, yaml.safe_load(p.read_text())
 
 NON_CONTENT_NAMES = {"CHANGELOG.md"}
 

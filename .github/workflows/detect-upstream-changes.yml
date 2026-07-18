@@ -1,10 +1,10 @@
 name: detect-upstream-changes
 
+# Cron retired 2026-07-18: routine update checking is done on demand via the
+# /check-updates skill (.claude/skills/check-updates), scoped per update group
+# (_meta/sources/*.yml). This workflow remains as a manual full sweep.
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "23 10 * * 1"   # weekly, Monday 10:23 UTC
-    - cron: "23 10 3 * *"   # monthly, 3rd (after the first-business-day Oregon Bulletin)
 
 permissions:
   issues: write

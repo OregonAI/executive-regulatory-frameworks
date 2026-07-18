@@ -9,8 +9,8 @@ import jsonschema
 import yaml
 
 from repo_lib import (
-    CONTENT_DIRS, MANIFEST_PATH, REPO_ROOT, SCHEMA_DIR,
-    Reporter, content_files, parse_frontmatter,
+    CONTENT_DIRS, REPO_ROOT, SCHEMA_DIR,
+    Reporter, content_files, parse_frontmatter, source_groups,
 )
 
 SLUG_RE = re.compile(r"^[a-z0-9][a-z0-9._-]*[a-z0-9]$")
@@ -55,14 +55,20 @@ def main():
                 else:
                     r.warn(rel, f"relationships.{edge}: '{t}' is a citation, not yet ingested")
 
-    # Source manifest
-    manifest_schema = json.loads((SCHEMA_DIR / "source-manifest.schema.json").read_text())
+    # Source groups
+    group_schema = json.loads((SCHEMA_DIR / "source-group.schema.json").read_text())
+    gvalidator = jsonschema.Draft202012Validator(group_schema)
     try:
-        manifest = yaml.safe_load(MANIFEST_PATH.read_text())
-        for err in sorted(jsonschema.Draft202012Validator(manifest_schema).iter_errors(manifest), key=str):
-            r.error(MANIFEST_PATH.relative_to(REPO_ROOT), f"schema: {err.message}")
+        for gpath, gdata in source_groups():
+            grel = gpath.relative_to(REPO_ROOT)
+            for err in sorted(gvalidator.iter_errors(gdata), key=str):
+                r.error(grel, f"schema: {err.message}")
+            if gdata.get("group") != gpath.stem:
+                r.error(grel, f"group '{gdata.get('group')}' != filename stem '{gpath.stem}'")
+            if gdata.get("kind") == "sp-listing" and not gdata.get("listing_snapshot"):
+                r.error(grel, "sp-listing group requires listing_snapshot")
     except Exception as e:
-        r.error(MANIFEST_PATH.relative_to(REPO_ROOT), f"unreadable: {e}")
+        r.error("_meta/sources", f"unreadable: {e}")
 
     n = len(list(content_files()))
     r.finish(f"OK: {n} content file(s) validated across {', '.join(CONTENT_DIRS)}.")

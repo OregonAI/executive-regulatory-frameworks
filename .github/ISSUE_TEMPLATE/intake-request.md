@@ -23,6 +23,6 @@ labels: intake
 
 ## Checklist
 
-- [ ] Added to `_meta/source-manifest.yml` (PR linked)
+- [ ] Added to the matching `_meta/sources/<group>.yml` (PR linked)
 - [ ] Manifest entry approved by a maintainer (gate #1)
 - [ ] Ingested per `_meta/skills/intake.md` (PR linked)
