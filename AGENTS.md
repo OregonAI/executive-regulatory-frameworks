@@ -104,6 +104,10 @@ is needed for state-authored content.
 - **Ingesting a new document**: follow `_meta/skills/intake.md` (spec-driven, two human
   review gates: manifest approval before ingestion; CODEOWNER review before merge). Use the
   templates in `_meta/templates/` and register the source in its update group under `_meta/sources/`.
+- **Onboarding a new agency**: `python3 src/new_agency.py <slug> --title "Full Name"`
+  scaffolds the `agencies/<slug>/` tree and update-group stub, and prints the
+  onboarding checklist; then follow the intake skill per knowledge body. Known
+  deferred generalizations for multi-agency scale live in [BACKLOG.md](BACKLOG.md).
 - **Checking for / applying upstream changes**: use the `/check-updates` skill
   (`.claude/skills/check-updates`) — group-scoped, token-efficient, driven by
   `src/check_updates.py` over the update groups in `_meta/sources/`. Log a

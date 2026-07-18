@@ -266,12 +266,47 @@ def graph_neighbors(doc_id: str) -> dict:
     return out
 
 
+def _catalog_coverage() -> dict:
+    """Ingested-vs-backlog counts per discovery catalog, derived by walking each
+    _meta/catalog/*.yml for leaf nodes carrying a status field (a node's own status
+    is ignored when its children carry statuses, so a division doesn't double-count
+    its rules). Data-driven so new agencies/catalogs appear here automatically."""
+    import yaml
+    from collections import Counter
+    out = {}
+    for p in sorted((REPO_ROOT / "_meta/catalog").glob("*.yml")):
+        counts = Counter()
+
+        def walk(node) -> bool:
+            """Count leaf statuses; return True if this subtree contained any."""
+            found = False
+            if isinstance(node, dict):
+                for v in node.values():
+                    found = walk(v) or found
+                if not found and isinstance(node.get("status"), str):
+                    counts[node["status"]] += 1
+                    found = True
+            elif isinstance(node, list):
+                for v in node:
+                    found = walk(v) or found
+            return found
+
+        walk(yaml.safe_load(p.read_text()))
+        out[p.stem] = dict(counts.most_common())
+    return out
+
+
 def corpus_overview() -> dict:
     con = ensure_index()
     by_type = dict(con.execute(
         "SELECT doc_type, COUNT(*) FROM docs GROUP BY doc_type ORDER BY 2 DESC"))
-    exceptions = con.execute(
-        "SELECT COUNT(*) FROM docs WHERE content_exception != ''").fetchone()[0]
+    by_agency = dict(con.execute(
+        "SELECT agency, COUNT(*) FROM docs GROUP BY agency ORDER BY 2 DESC"))
+    by_mode = dict(con.execute(
+        "SELECT content_mode, COUNT(*) FROM docs GROUP BY content_mode ORDER BY 2 DESC"))
+    exceptions = dict(con.execute(
+        "SELECT doc_type, COUNT(*) FROM docs WHERE content_exception != '' "
+        "GROUP BY doc_type ORDER BY 2 DESC"))
     head = subprocess.run(["git", "log", "-1", "--format=%h %cs"], cwd=REPO_ROOT,
                           capture_output=True, text=True).stdout.strip()
     review = (REPO_ROOT / "REVIEW.md").read_text()
@@ -281,16 +316,22 @@ def corpus_overview() -> dict:
         "repo": "github.com/morficflux/oregon-policy-repo",
         "commit": head,
         "documents_by_type": by_type,
+        "documents_by_agency": by_agency,
+        "content_mode": {
+            **by_mode,
+            "note": ("verbatim = complete official text in-repo under '## Full text'; "
+                     "summary = metadata/summary + official link only (see "
+                     "summary_only_by_type for why — mostly image-only scan sources; "
+                     "third-party references are summary-by-policy, never full text)"),
+        },
+        "summary_only_by_type": exceptions,
         "graph_edges": sum(len(v) for d in graph()[1].values() for v in d.values()),
-        "coverage_notes": [
-            "Full verbatim text for nearly all state-authored docs (ORS chapters 183/184/"
-            "192/240/276/276A/278/279A-C/282/283/291/292/293; OAR chapters 105/122/125/128; "
-            "DAS policies+procedures; OAM; EIS standards).",
-            f"{exceptions} documents are summary/metadata-only (content_exception — mostly "
-            "executive orders whose sources are image-only scans; their titles, numbers, "
-            "and source links are in-repo, the text is not).",
-            "Third-party references (NIST etc.) are summary+link only, never full text.",
-        ],
+        "upstream_coverage_by_catalog": {
+            "note": ("everything known to exist upstream per discovery catalog, by "
+                     "status — 'ingested' is in this corpus, anything else is not "
+                     "(backlog, repealed, unparseable, etc.)"),
+            **_catalog_coverage(),
+        },
         "human_review_queue": {name: int(n) for name, n in review_sections},
     }
 

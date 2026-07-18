@@ -4,6 +4,12 @@ A spec-driven, human-gated pipeline for bringing a document into the repository.
 follow this checklist exactly; the hard content rules in [AGENTS.md](../../AGENTS.md)
 apply throughout.
 
+**Onboarding a whole new agency?** Scaffold first —
+`python3 src/new_agency.py <slug> --title "Full Agency Name"` creates the
+`agencies/<slug>/` tree (per-body `_index.md` + `CHANGELOG.md`) and an update-group
+stub, then prints the onboarding checklist. Discovery below proceeds per body from the
+agency's own listing of record.
+
 ## Phase 0 — Discover (agent proposes; human vets the LIST first)
 
 0. **Check the coverage catalogs first**: `_meta/catalog/{ors,oar,oam,das-policies,eo}.yml`
