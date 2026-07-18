@@ -20,6 +20,23 @@ def source_groups():
 
 NON_CONTENT_NAMES = {"CHANGELOG.md"}
 
+# Single source of truth for "which directory does this doc_type live in".
+# Shared by validate_frontmatter.py (CI-enforced check) and ingest_lib.py
+# (output_dir_for, so new ingestion code can't hand-type the wrong path).
+# Jurisdiction-wide doc_types are NOT agency-scoped (top-level dir); the rest live
+# under agencies/<agency>/<dir>/.
+DIR_DOC_TYPE = {
+    "statutes": "statute",
+    "rules": "rule",
+    "executive-orders": "executive_order",
+    "external-references": "external_reference",
+    "policies": "policy",
+    "procedures": "procedure",
+    "accounting-manual": "manual",
+    "standards": "standard",
+}
+JURISDICTION_WIDE_DIRS = {"statutes", "rules", "executive-orders", "external-references"}
+
 
 def content_files():
     """Yield every content document (excludes _index.md and CHANGELOG.md)."""

@@ -9,11 +9,17 @@ import jsonschema
 import yaml
 
 from repo_lib import (
-    CONTENT_DIRS, REPO_ROOT, SCHEMA_DIR,
+    CONTENT_DIRS, DIR_DOC_TYPE, REPO_ROOT, SCHEMA_DIR,
     Reporter, content_files, parse_frontmatter, source_groups,
 )
 
 SLUG_RE = re.compile(r"^[a-z0-9][a-z0-9._-]*[a-z0-9]$")
+
+# DIR_DOC_TYPE (imported above) maps directory name -> the one doc_type allowed to
+# live there. Enforced here as a hard error (not a warning) so a document can never
+# be merged into the wrong knowledge body, regardless of which script or human
+# created it. See src/ingest_lib.py output_dir_for() for the single place new
+# ingestion code should derive the target directory from.
 
 
 def main():
@@ -36,6 +42,33 @@ def main():
             r.error(rel, f"id '{fm.get('id')}' != filename stem '{path.stem}'")
         if "NON-AUTHORITATIVE" not in body:
             r.error(rel, "missing NON-AUTHORITATIVE disclaimer block in body")
+
+        # Directory <-> doc_type: a document may only live in the one knowledge-body
+        # directory designated for its doc_type (see DIR_DOC_TYPE above). The
+        # knowledge-body directory is the top-level one (statutes/, rules/, ...) or,
+        # for agency-scoped docs, the directory right after agencies/<agency>/ — rules
+        # and standards nest further (rules/<ch>/<div>/, standards/<family>/), so we
+        # can't just check path.parent.
+        parts = rel.parts
+        body_dir = parts[2] if parts[0] == "agencies" and len(parts) > 2 else parts[0]
+        doc_type = fm.get("doc_type")
+        expected_dir = next((d for d, dt in DIR_DOC_TYPE.items() if dt == doc_type), None)
+        if body_dir in DIR_DOC_TYPE:
+            if DIR_DOC_TYPE[body_dir] != doc_type:
+                r.error(rel, f"doc_type '{doc_type}' does not belong in '{body_dir}/' "
+                            f"(expected doc_type '{DIR_DOC_TYPE[body_dir]}')")
+        elif expected_dir is not None:
+            r.error(rel, f"doc_type '{doc_type}' belongs under a '{expected_dir}/' "
+                        f"directory, not '{body_dir}/'")
+
+        # Procedures are named *_pr; policies must not be (the exact mislabel class
+        # this check was added for: a procedure filed with doc_type: policy).
+        is_pr_name = path.stem.endswith("_pr")
+        if doc_type == "procedure" and not is_pr_name:
+            r.error(rel, "doc_type: procedure but filename does not end in '_pr'")
+        if doc_type == "policy" and is_pr_name:
+            r.error(rel, "filename ends in '_pr' but doc_type is 'policy' (should be 'procedure')")
+
         docs[fm.get("id")] = rel
 
     # Relationships graph: slug-shaped targets must resolve to an in-repo document;

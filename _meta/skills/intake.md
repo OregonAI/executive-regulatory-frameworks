@@ -50,7 +50,13 @@ the issue.
    committed text via `hash_snapshot()`, never by re-running `pdftotext` at verification
    time, because poppler's output can differ by version across machines.
 3. Copy the matching template from `_meta/templates/`; name the file by its citation slug
-   (`das-107-004-052.md`, `oar-125-800-0020.md`, `ors-276A.300.md`).
+   (`das-107-004-052.md`, `oar-125-800-0020.md`, `ors-276A.300.md`). Place it via
+   `output_dir_for(doc_type, agency)` in `src/ingest_lib.py` (AGENTS.md "Directory
+   routing" has the full table) — don't hand-type the target directory; a
+   procedure (`doc_type: procedure`, filename ends `_pr`) belongs in
+   `agencies/<agency>/procedures/`, never `.../policies/`. `validate_frontmatter.py`
+   will hard-fail CI if this is wrong, but getting it right the first time saves the
+   round trip.
 4. Transcribe header metadata (effective/reviewed dates, version string) exactly as
    printed in the source.
 5. Write the body per the full-text-first policy (AGENTS.md Content policy): the

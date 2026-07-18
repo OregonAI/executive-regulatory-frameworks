@@ -23,6 +23,29 @@ authoritative. Every answer you derive from it should cite the document's `sourc
 4. File names are citation-aligned and predictable: `ors-276A.300.md`,
    `oar-125-800-0020.md`, `das-107-004-052.md`, `oam-15-15-00.md`, `eo-YY-NN.md`.
 
+## Directory routing (CI-enforced)
+
+Every `doc_type` has exactly one directory it may live in — `validate_frontmatter.py`
+hard-fails CI if a document is in the wrong place, or if a `_pr` filename and
+`doc_type: procedure` disagree. Jurisdiction-wide types sit at repo root; the rest are
+agency-scoped under `agencies/<agency>/`:
+
+| doc_type | Directory |
+|---|---|
+| `statute` | `statutes/` |
+| `rule` | `rules/` |
+| `executive_order` | `executive-orders/` |
+| `external_reference` | `external-references/` |
+| `policy` | `agencies/<agency>/policies/` |
+| `procedure` | `agencies/<agency>/procedures/` (filename ends `_pr`) |
+| `manual` | `agencies/<agency>/accounting-manual/` |
+| `standard` | `agencies/<agency>/standards/` |
+
+New ingestion code should call `output_dir_for(doc_type, agency)` in
+`src/ingest_lib.py` rather than hand-typing a path — it's the single source of truth
+(shared with the CI check via `repo_lib.DIR_DOC_TYPE`), so a new pipeline is correct
+by construction instead of relying on the check to catch a mistake after the fact.
+
 ## Content policy (HARD REQUIREMENTS — full-text-first, anti-fabrication)
 
 **Default: every Oregon state-authored document (ORS, OAR, executive orders, DAS

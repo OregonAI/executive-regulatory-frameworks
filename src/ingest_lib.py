@@ -8,8 +8,8 @@ import urllib.request
 from collections import Counter
 from pathlib import Path
 
-from repo_lib import (REPO_ROOT, SNAPSHOT_DIR, content_hash, normalize_ws,
-                      parse_frontmatter, snapshot_slice)
+from repo_lib import (DIR_DOC_TYPE, JURISDICTION_WIDE_DIRS, REPO_ROOT, SNAPSHOT_DIR,
+                      content_hash, normalize_ws, parse_frontmatter, snapshot_slice)
 
 USER_AGENT = "Mozilla/5.0 (oregon-policy-repo updater; +https://github.com/morficflux/oregon-policy-repo)"
 
@@ -59,6 +59,23 @@ def flow_to_lines(norm_text: str) -> str:
     t = re.sub(r" (?=History: )", "\n\n", t)
     t = re.sub(r" (?=Statutory/Other Authority)", "\n\n", t)
     return t
+
+
+def output_dir_for(doc_type: str, agency: str | None = None) -> Path:
+    """The one correct directory for a new document of this doc_type — the single
+    place ingestion code should derive a target path from, instead of hand-typing
+    'agencies/das/policies' (or similar) and risking the procedures/policies mixup
+    this function exists to prevent. Mirrors DIR_DOC_TYPE / validate_frontmatter.py's
+    CI-enforced check, so a mistake here would be caught even without this helper —
+    but using it means new code is correct by construction."""
+    body_dir = next((d for d, dt in DIR_DOC_TYPE.items() if dt == doc_type), None)
+    if body_dir is None:
+        raise ValueError(f"no known directory for doc_type {doc_type!r}")
+    if body_dir in JURISDICTION_WIDE_DIRS:
+        return REPO_ROOT / body_dir
+    if not agency:
+        raise ValueError(f"doc_type {doc_type!r} is agency-scoped; pass agency=")
+    return REPO_ROOT / "agencies" / agency / body_dir
 
 
 def fetch(url: str) -> bytes:
