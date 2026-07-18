@@ -1,8 +1,8 @@
 # Statewide IT Control Standards — control families
 
 Per-family inventories of the [Statewide IT Control Standards](../eis-css-itcs.md)
-(January 2024). **Non-authoritative summaries** — binding control text lives in the
-source PDF.
+(January 2024). **Non-authoritative full-text copies** — each family file carries its family's
+complete control text under `## Full text`; always verify against the source PDF.
 
 | Family | Name | Base controls | Total entries | File |
 |---|---|---|---|---|

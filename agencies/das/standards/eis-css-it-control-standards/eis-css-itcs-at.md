@@ -18,7 +18,8 @@ last_reviewed: null
 source_version: "January 2024 (Level 1, Published)"
 status: current
 supersedes: null
-content_mode: summary
+content_mode: verbatim
+conversion_notes: "family slice of the shared standard snapshot; stripped repeated page line 'Level N, Published PAGE N' x1"
 last_verified: "2026-07-17"
 verified_by: "@morficflux"
 maintainer: "@morficflux"
@@ -43,27 +44,48 @@ tags: ["information-security", "control-standards", "at", "nist-800-53"]
 
 ## At a glance
 
-**[SUMMARY]** The Awareness and Training (AT) control family of Oregon's Statewide Information
+The Awareness and Training (AT) control family of Oregon's Statewide Information
 Technology Control Standards (January 2024). It defines 4 base controls (plus
 enhancements, 6 entries total) that agencies must meet under DAS Policy
 107-004-052 and ORS 276A.300. Control numbering and structure follow NIST SP 800-53
 Rev. 5. For binding control text, consult the source PDF — this file is an inventory only.
 
-## Control inventory
+## Full text
 
-**[SUMMARY]** Control identifiers and titles as printed in the AT section of the
-source document:
+AWARENESS AND TRAINING – AT
+AT-1 - Policy and Procedures
+        Refer to the Statewide Information Security Plan for additional details on policies and procedures.
+AT-2 - Security Awareness and Training
+        a.   Provide security literacy training to system users (including managers, senior executives, and
+             contractors):
+             1.   As part of initial training for new users and at least annually thereafter; and
+             2.   When required by system changes or following significant events;
+        b.   Employ supplement training as necessary to increase the security awareness of system users and to
+             meet regulatory and compliance obligations;
+        c.   Update literacy training and awareness content at least annually and following significant events; and
+        d.   Incorporate lessons learned from internal or external security incidents into literacy training and
+             awareness techniques.
+        AT-2(2) - Security Awareness and Training | Insider Threat
+        Provide literacy training on recognizing and reporting potential indicators of insider threat.
+        AT-2(3) - Security Awareness Training | Social Engineering and Data Mining
+        Provide literacy training on recognizing and reporting potential and actual instances of social engineering
+        and social mining.
+AT-3 - Role-Based Training
+        a.   Provide role-based security training to software development personnel; personnel with privileged
+             access; and other personnel as required by applicable laws, Executive Orders, directives, policies,
+             regulations, standards, and guidance:
+             1.   Before authorizing access to the system, information, or performing assigned duties, and at least
+                  annually thereafter; and
+             2.   When required by system changes;
+        b.   Update role-based training content at least annually and following significant events; and
+        c.   Incorporate lessons learned from internal or external security incidents into role-based training.
+AT-4 - Security Training Records
+        a.   Document and monitor individual system security training activities, including security awareness
+             training, and specific role-based system security training; and
+        b.   Retain individual training records for at least one (1) year or one (1) year after completion of a
+             specific training program.
 
-| Control | Title |
-|---|---|
-| AT-1 | Policy and Procedures |
-| AT-2 | Security Awareness and Training |
-| AT-2(2) | Security Awareness and Training | Insider Threat |
-| AT-2(3) | Security Awareness Training | Social Engineering and Data Mining |
-| AT-3 | Role-Based Training |
-| AT-4 | Security Training Records |
-
-## Authority & references
+## Cross-references
 
 - Rests on: [ORS 276A.300](../../../../statutes/ors-276a.300.md)
 - Required by: [DAS 107-004-052](../../policies/das-107-004-052.md)

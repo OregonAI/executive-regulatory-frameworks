@@ -8,6 +8,19 @@ file's frontmatter).
 
 ## [Unreleased]
 
+## [2026-07-18] — full-text-first migration
+
+### Changed
+
+- All state-authored documents in this knowledge body migrated to the full-text-first
+  content policy: complete verbatim source text now lives under each file's
+  `## Full text` section (generated from the committed source snapshots; page furniture
+  stripped and recorded in `conversion_notes`); inline [VERBATIM]/[SUMMARY] tags retired;
+  curator content confined to At a glance / Curator notes / Cross-references;
+  `content_mode: verbatim`. Source hashes unchanged (snapshots were fetched 2026-07-17/18;
+  not re-fetched). CI now verifies every full-text line against the snapshot in order,
+  plus a completeness coverage check.
+
 ## [2026-07-17]
 
 ### Added
