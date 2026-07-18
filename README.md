@@ -27,6 +27,7 @@ The full design rationale lives in [repo-design.md](repo-design.md).
 |---|---|
 | [llms.txt](llms.txt) | Machine-readable master index — start here if you are an AI agent |
 | [AGENTS.md](AGENTS.md) | Canonical agent guide: repo rules, anti-fabrication requirements |
+| [REVIEW.md](REVIEW.md) | Generated queue of everything needing human review/intervention |
 | `*/_index.md` | Per-directory scoped maps ("how to find the right document") |
 | Frontmatter `relationships` | Graph edges: walk from any policy up to its statute or out to referenced standards |
 

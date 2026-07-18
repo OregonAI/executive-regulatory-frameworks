@@ -85,6 +85,15 @@ Record agent authorship with a commit trailer, e.g.:
 Assisted-by: Claude Code (supervised)
 ```
 
+## Human-review queue
+
+[`REVIEW.md`](REVIEW.md) is the single place listing everything that needs human
+intervention (unverifiable scans, TODO markers, pending drafts, catalog anomalies,
+enumeration gaps). It is **generated** by `python3 src/review_queue.py` from ground
+truth in the repo — never edit it by hand; resolve items at their source and
+regenerate. Regenerate it after any batch that adds/changes content; CI fails when
+it is stale.
+
 ## Validation commands
 
 ```bash

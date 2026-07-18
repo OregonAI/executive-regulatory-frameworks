@@ -15,3 +15,5 @@ jobs:
           python-version: "3.12"
       - run: pip install pyyaml jsonschema
       - run: python3 src/validate_frontmatter.py
+      - name: Review queue must be current
+        run: python3 src/review_queue.py --check
