@@ -1,35 +1,56 @@
 # Administrative Rules (OAR) — index
 
-Oregon Administrative Rules: regulations with the force of law, adopted under ORS 183,
-published in OARD by the Secretary of State. Directory layout: `rules/<chapter>/<division>/`.
+Oregon Administrative Rules, full text per rule, fetched from OARD (the Secretary of
+State's authoritative database). Layout: `rules/<chapter>/<division>/`.
 **Non-authoritative copies.**
 
-> **Renumbering note (May 2026):** the State Information Security rules moved from DAS
-> chapter 125, Division 800 (OAR 125-800-xxxx) to **chapter 128 (Office of the State
-> Chief Information Officer), Division 30** — AON "DAS 2-2026, renumbered from
-> 125-800-xxxx, filed 04/28/2026, effective 05/01/2026". Many DAS policies still cite the
-> old 125-800 numbers; those citations resolve to the 128-030 rules below.
+> **Renumbering note:** the State Information Security rules moved from 125-800 to
+> 128-030 effective 5/1/2026; other renumbered rows are flagged in the catalog with
+> their served numbers.
 
-| Citation | Title | Status | Effective | Path |
+| Chapter | Division | Title | Rules listed | Ingested |
 |---|---|---|---|---|
-| OAR 128-030-0005 | Purpose, Application, and Authority | current | 2026-05-01 | [128/030/oar-128-030-0005.md](128/030/oar-128-030-0005.md) |
-| OAR 128-030-0010 | Definitions | current | 2026-05-01 | [128/030/oar-128-030-0010.md](128/030/oar-128-030-0010.md) |
-| OAR 128-030-0020 | State Information Security | current | 2026-05-01 | [128/030/oar-128-030-0020.md](128/030/oar-128-030-0020.md) |
+| 125 | 1 | Procedural Rules | 2 | 2 |
+| 125 | 7 | Criminal Records Check and Fitness Determination | 9 | 9 |
+| 125 | 10 | Public Contract Review Services and Fees | 1 | 1 |
+| 125 | 15 | Payroll Administration | 1 | 1 |
+| 125 | 20 | Access to Public Records and Photocopy(ing) Char | 5 | 5 |
+| 125 | 30 | Annual Charitable Fund Drive Program | 10 | 10 |
+| 125 | 35 | Federal Surplus Property | 15 | 15 |
+| 125 | 40 | Mail/Delivery Services | 3 | 3 |
+| 125 | 45 | Disposition and Acquisition of Real Property Int | 19 | 19 |
+| 125 | 50 | State Surplus Property | 5 | 5 |
+| 125 | 55 | State Purchasing | 18 | 18 |
+| 125 | 60 | Housing and Rentals | 2 | 2 |
+| 125 | 70 | Gifts and Donations | 1 | 1 |
+| 125 | 75 | Use of Buildings, Grounds, Parking Areas (Struct | 4 | 4 |
+| 125 | 80 | Sales or Solicitation | 3 | 3 |
+| 125 | 85 | Recycling | 1 | 1 |
+| 125 | 90 | Parking Facilities | 18 | 11 |
+| 125 | 110 | Land Use Coordination | 1 | 1 |
+| 125 | 120 | Renting or Leasing Office Quarters | 18 | 18 |
+| 125 | 125 | Statewide Facility Planning Process | 39 | 39 |
+| 125 | 140 | Confidentiality and Inadmissibility of Mediation | 2 | 2 |
+| 125 | 150 | Risk Management | 3 | 3 |
+| 125 | 155 | State Vehicle Use and Access | 14 | 14 |
+| 125 | 156 | Sale of Compressed Natural Gas | 1 | 1 |
+| 125 | 160 | Administration and Benefits of the Inmate Injury | 22 | 22 |
+| 125 | 170 | Economic Development Fund Process | 1 | 1 |
+| 125 | 180 | Shared Services Fund | 6 | 6 |
+| 125 | 246 | General Provisions for Public Contracting | 50 | 50 |
+| 125 | 247 | Public Procurement of Supplies and Services | 59 | 59 |
+| 125 | 248 | Consultant Selection: Architectural, Engineering | 16 | 16 |
+| 125 | 249 | General Provisions Related to Public Contracts f | 62 | 62 |
+| 125 | 300 | State Peer Review Audits | 1 | 1 |
+| 125 | 600 | Identity Authentication/Electronic Signatures | 2 | 0 |
+| 125 | 700 | Internal Auditing | 8 | 8 |
+| 125 | 800 | State Information Security (renumbered to chapte | 3 | 0 |
+| 128 | 10 | Providing Broadband Services and Operations to N | 10 | 10 |
+| 128 | 20 | State Information Technology Asset Protection -  | 0 | 0 |
+| 128 | 30 | State Information Security | 4 | 3 |
+| 128 | 40 | Geographic Information | 0 | 0 |
+| 128 | 50 | Identity Authentication/Electronic Signatures | 0 | 0 |
+| **all** | | | **439** | **426** |
 
-## How to find the right rule
-
-- **DAS's information-security duties and agency obligations:** OAR 128-030-0020.
-- **Definitions (incident, information resources, security plan):** OAR 128-030-0010.
-- Rule history is encoded in Administrative Order Numbers (AONs); upstream changes arrive
-  via the monthly Oregon Bulletin (first business day).
-
-## Full coverage map
-
-DAS administers OAR chapter 125 (34 divisions covering procurement, real property, fleet,
-surplus, risk management, records, and more) and chapter 128 (5 divisions, State CIO).
-Only division 128-030 (State Information Security) is ingested so far, and only its 3
-known rules. [`_meta/catalog/oar.yml`](../_meta/catalog/oar.yml) lists every division in
-both chapters (titles from oregon.public.law, retrieved 2026-07-18) with ingestion status
-— a discovery/backlog map, not verified content. Individual rule numbers within
-not-yet-ingested divisions are not enumerated; propose ingestion via an intake-request
-issue.
+Per-rule numbers/statuses/paths (incl. renumbered/repealed flags):
+[`_meta/catalog/oar.yml`](../_meta/catalog/oar.yml). Chapter 128 division 20 is not listed on oregon.public.law and remains a known enumeration gap; divisions 40 and 50 received their rules via the renumbering guard (old 125-600 numbers now serve as 128-040/128-050).

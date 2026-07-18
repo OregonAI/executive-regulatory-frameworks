@@ -1,0 +1,223 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Administrative Services 
+ Office of the State Chief Information Officer - Chapter 128 
+ 
+ 
+ 
+ 
+ Division 10 Providing Broadband Services and Operations to Non-State Entities 
+ 128-010-0030 
+ Service Request by a Non-State Entity 
+ 
+ (1) A Non-State Entity or group of Non-State Entities may, at any time, submit a Service Request to the Office. 
+
+ (2) The Service Request must include the following information: 
+
+ (a) Identification of the Non-State Entity or group of Non-State Entities; 
+
+ (A) The entity must submit to the Office information necessary to allow the Office to make an initial determination that the requesting entity is an eligible Entity. 
+
+ (B) If the entity wishes to be designated as a Community of Interest, the entity must complete the application and approval process set forth in these Division 10 rules, and obtain a Designation as a Community of Interest. 
+
+ (b) Identification of the Site; 
+
+ (c) A description of the Broadband services and operations requested, including specification of the Tier of services required, based on the minimum specifications for Tiers set forth in Section 20 of these Division 10 rules; 
+
+ (d) A list of the applications, use cases, anticipated network load or other information to assist the Office in evaluating and validating the specifications of the Broadband services and operations requested; 
+
+ (e) When the Broadband services are needed; 
+
+ (f) Identification of the entity’s current Telecommunications Provider, if any; 
+
+ (g) Identification of any other communication providers that may offer the requested Broadband services and operations to the area in which the Site is located; 
+
+ (h) Whether the entity contacted the local exchange carrier or any other Telecommunications Provider and requested the services, and if so, when. The entity shall include a copy of the response in its Service Request; 
+
+ (i) Additional information that the entity believes is relevant to its request, including, for example, the entity’s purpose, size, annual budget, existing facilities, existing infrastructure and communication assets, nature and need of its served population, and the consequence of not receiving the services. A requestor is not bound by the minimum specifications set forth in Section 20 of these Division 10 rules. 
+
+ (3) Upon receipt of a Service Request, the Office will post the Service Request and notify Telecommunications Providers and other interested parties as provided in Section 15(1)(e) of these Division 10 rules. The notice will identify the Non-State Entity submitting the Service Request, and the Site at which the Non-State Entity is requesting Broadband services and operations. Telecommunications Providers and other interested parties that receive the notice of a Service Request are not prohibited from contacting the Non-State Entity that submitted the Service Request, or from contacting the Office regarding the Service Request. 
+
+ (4) Telecommunications Providers or other interested parties shall have ten (10) calendar days from the date of the notice to submit an initial response relevant to the question of whether the Site described in the Service Request is an eligible Site because it is in an Unserved area. The Office will notify the requestor, the Telecommunications Provider and other interested persons of any such responses and will conduct an initial review. In conducting such review, the Office may solicit additional information from, or consider information provided by, the requestor, any Telecommunications Provider or other interested person, and any other source that the Office determines is relevant to the determination of whether the Site for which the requestor desires Broadband services is in an Unserved area in accordance with these rules. 
+
+ (5) If the Office determines that the requesting entity is not an eligible Non-State Entity or that the site is not an eligible Site, then the Office shall notify the requesting entity that the Office cannot provide the requested Broadband services. 
+
+ (6) If the Office elects to proceed, the Office will conduct a network feasibility analysis for purposes of determining if the Office wishes to and is able to provide the requested Broadband services and operations. The analysis will include, without limitation, review of the following: 
+
+ (a) The current architecture of the State’s Private Communications Network; 
+
+ (b) Any plans the Office has to further develop or expand the State’s Private Communications Network; 
+
+ (c) The nature of the entity requesting the Services; 
+
+ (d) The area of the requested services; 
+
+ (e) The costs of providing the requested services; 
+
+ (f) The schedule by which the Office would be able to fulfill the Service Request; and 
+
+ (g) Whether there are other providers capable of providing the requested services in the area; 
+
+ (7) Based upon its analysis, the Office will determine whether it wishes to or is able to provide the Broadband services and operations. 
+
+ (8) If the Office determines that it does not wish to or is unable to provide the requested Broadband services and operations, the Office will notify the requestor that the Office will not seek to fulfill the Service Request. 
+
+ (9) If the Office does wish to seek to provide the Broadband services and operations that are the subject of a Service Request submitted to the Office by a Non-State Entity, the Office will provide a proposed plan that: 
+
+ (a) Defines the area in which the requested Services will be provided. (In defining the area of a requested Service to be provided to a Non-State Entity, the Office will define the area relative to the Broadband services and operations proposed to be provided); and 
+
+ (b) Establishes the Tier of the Broadband services and operations the Office is able to provide (based on the Tiered minimum specifications as set forth in these rules) and the Non-State Entities that the Office proposes to receive the Broadband services and operations; and 
+
+ (c) Confirms the Office’s initial determination that the Site is in an Unserved area with respect to the particular Broadband services and operations the Office proposes to provide. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 276A 
+ 
+ 
+ Statutes/Other Implemented:  Or Laws 2018, ch 51 (HB 4023) 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSCIO 1-2019, adopt filed 03/26/2019, effective 03/26/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

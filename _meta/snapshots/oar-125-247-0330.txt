@@ -1,0 +1,271 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Administrative Services 
+ Chapter 125 
+ 
+ 
+ 
+ 
+ 
+ Division 247 PUBLIC PROCUREMENT OF SUPPLIES AND SERVICES 
+ 125-247-0330 
+ E-Procurement
+ 
+ 
+ (1) General. 
+
+ (a) Electronic Processes. An Authorized Agency may conduct all phases of a Procurement, including without limitation, the posting of Electronic Advertisements and the receipt of Electronic Offers, by the following electronic processes: 
+
+ (A) E-Bidding; 
+
+ (B) Reverse Auction; or 
+
+ (C) Special Procurement if (i) or (ii) are not appropriate (Electronic Processes). The Authorized Agency must specify in a Solicitation Document, a request for Quotes, or any other Writing that instructs Persons how to participate in the Procurement. 
+
+ (b) Security Measures. The Authorized Agency must open an Electronic Offer in accordance with electronic security measures in effect at the Authorized Agency at the time of its receipt of the Electronic Offer. Unless the Authorized Agency provides procedures for the secure receipt of Electronic Offers, the Person submitting the Electronic Offer assumes the risk of premature disclosure due to submission in unsealed form. 
+
+ (c) The Authorized Agency's use of electronic Signatures must be consistent with applicable statutes and rules. An Authorized Agency must authorize, and may limit the use of Electronic Processes of conducting a Procurement based on the best interests of the Authorized Agency, as determined by the Authorized Agency. 
+
+ (d) If the Authorized Agency determines that Bid or Proposal security is or will be required, the Authorized Agency should not authorize Electronic Offers unless the Authorized Agency has another method for receipt of such security. 
+
+ (2) Rules Governing Electronic Procurements. The Authorized Agency must conduct all portions of an electronic Procurement in accordance with these Division 247 Rules, unless otherwise set forth in this Rule. 
+
+ (3) Preliminary Matters. As a condition of participation in an electronic Procurement, the Authorized Agency may require potential Contractors to register with the Authorized Agency before the date and time on which the Authorized Agency will first accept Offers, to agree to the terms, conditions, or other requirements of a Solicitation Document, or to agree to terms and conditions governing the Procurement, such as procedures that the Authorized Agency may use to attribute, authenticate or verify the accuracy of an Electronic Offer, or the actions that constitute an electronic Signature. 
+
+ (4) Offer Process. An Authorized Agency may specify that Persons must submit an Electronic Offer by a particular date and time, or that Persons may submit multiple Electronic Offers during a period of time established in the Electronic Advertisement. When the Authorized Agency specifies that Persons may submit multiple Electronic Offers during a specified period of time, the Authorized Agency must designate a time and date on which Persons may begin to submit Electronic Offers, and a time and date after which Persons may no longer submit Electronic Offers. The date and time after which Persons may no longer submit Electronic Offers need not be specified by a particular date and time, but may be specified by a description of the conditions that, when they occur, will establish the date and time after which Persons may no longer submit Electronic Offers. When the Authorized Agency will accept Electronic Offers for a period of time, then at the designated date and time that the Authorized Agency will first receive Electronic Offers, the Authorized Agency must begin to accept real time Electronic Offers on OregonBuys or other Electronic Procurement System approved by the State Chief Procurement Officer (for purposes of this Rule, collectively, OregonBuys), and must continue to accept Electronic Offers in accordance with Subsection 5 of this Rule until the date and time specified by the Authorized Agency, after which the Authorized Agency will no longer accept Electronic Offers. 
+
+ (5) One-Time Receipt of All Electronic Offers. When an Authorized Agency conducts an electronic Procurement that provides that all Electronic Offers must be submitted by a particular date and time, the Authorized Agency must receive the Electronic Offers in accordance with these Division 247 Rules. 
+
+ (6) Failure of the E-Procurement System. In the event of a failure of OregonBuys or other Electronic Procurement System approved by the State Chief Procurement Officer that interferes with the ability of Persons to submit Electronic Offers, protest or to otherwise participate in the Procurement, the Authorized Agency may cancel the Procurement in accordance with OAR 125-247-0660, or may extend the date and time for receipt of Electronic Offers by providing notice of the extension immediately after the OregonBuys or other Electronic Procurement System approved by the State Chief Procurement Officer becomes available. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 279A.065(5)(a) & 279A.070 
+ 
+ 
+ Statutes/Other Implemented:  ORS 279B.050 - 279B.090 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DAS 5-2023, amend filed 12/29/2023, effective 01/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DAS 1-2023, amend filed 04/11/2023, effective 05/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DAS 6-2022, temporary amend filed 11/07/2022, effective 11/07/2022 through 05/05/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DAS 3-2019, amend filed 12/23/2019, effective 01/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DAS 3-2012, f. 11-29-12, cert. ef. 12-1-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DAS 6-2008, f. & cert. ef. 7-2-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DAS 4-2004, f. 11-23-04, cert. ef. 3-1-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

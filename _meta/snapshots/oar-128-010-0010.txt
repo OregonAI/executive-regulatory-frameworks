@@ -1,0 +1,197 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Administrative Services 
+ Office of the State Chief Information Officer - Chapter 128 
+ 
+ 
+ 
+ 
+ Division 10 Providing Broadband Services and Operations to Non-State Entities 
+ 128-010-0010 
+ Definitions 
+ 
+ For the purposes of these rules, the following definitions apply: 
+
+ (1) “Broadband” means wide bandwidth communications transmissions over coaxial cable, optical fiber, radio, twisted pair or other transmission medium with an ability to simultaneously transport multiple signals and traffic types at no less than the minimum transmission speed established for Tier 1 services as set forth in Section 20 of these rules. 
+
+ (2) “Communications” means media that communicate voice, data, text or video over a distance using electrical, electronic or light wave transmissions. 
+
+ (3) “Community of Interest” means an entity so designated by the Office pursuant to these rules. 
+
+ (4) “Nonprofit Organization” means an organization that demonstrates to the Office that it meets all requirements to achieve tax exempt status under Section 501(c)(3) of the Internal Revenue Code of 1986. 
+
+ (5) “Non-State Entity” means: 
+
+ (a) any public body, as defined in ORS 174.109, other than a State Agency; or 
+
+ (b) any federally recognized Indian tribe in Oregon; or 
+
+ (c) any nonprofit organization designated as a Community of Interest under these rules. 
+
+ (6) “Public body” means a public body, as defined in ORS 174.109, in this state. 
+
+ (7) “Office” means the Office of the State Chief Information Officer established pursuant to ORS 276A.203(1). 
+
+ (8) “Service Request” means a request for Broadband services submitted to the Office by a Non-State Entity for purposes of the Office evaluating whether it may, and is willing and able to pursue Broadband services and operations to the Non-State Agency. 
+
+ (9) “Site” means a specific location within an area at which a Non-State Entity desires to receive Broadband services and operations. 
+
+ (10) “State Agency” has the meaning given that term in ORS 279A.010. 
+
+ (11) “State’s Private Communications Network” means the communications network operated and maintained by the Office for the benefit of State Agencies, comprised of equipment, software, hardware, facilities and services owned by the State, or as provided to or acquired by the Office through agreements with communications providers or other government entities. 
+
+ (12) “Telecommunications Provider” means any person that is capable of providing Broadband and communications services including, but not limited to, a telecommunications utility as defined in ORS 759.005, a competitive Telecommunications Provider as defined in ORS 759.005, a cooperative Telecommunications Provider, a cable television provider or an interstate Telecommunications Provider. 
+
+ (13) “Unserved” means, with respect to a particular area, that there is no Telecommunications Provider offering the Broadband services that meet the minimum specifications for Tier 1 services as set forth in Section 20 of these Division 10 rules. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 183, ORS 276A 
+ 
+ 
+ Statutes/Other Implemented:  Or Laws 2018, ch 51 (HB 4023) 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSCIO 1-2019, adopt filed 03/26/2019, effective 03/26/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

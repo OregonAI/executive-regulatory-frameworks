@@ -1,0 +1,422 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Administrative Services 
+ Chapter 125 
+ 
+ 
+ 
+ 
+ 
+ Division 90 PARKING FACILITIES 
+ 125-090-0000 
+ Definitions
+ 
+ 
+ As used in this chapter 125, division 90 (“these rules”), unless the context requires otherwise: 
+
+ (1) “ ADA ” means the Americans with Disabilities Act. 
+
+ (2) “ Applicant ” means any person applying to DAS for authorization to use a Parking Facility for Motor Vehicle or Bicycle parking or other transportation use identified in these rules or authorization to participate in an Alternative Transportation Modes program. 
+
+ (3) “ Alternative Transportation Modes ” has the meaning given that term in OAR 125-090-0138(2)(a)(B). 
+
+ (4) “ Autocycle ” means a Motorcycle that: 
+
+ (a) Is manufactured to travel on three wheels; and 
+
+ (b) Has a steering wheel for steering control; and 
+
+ (c) Has non-straddle seating; and 
+
+ (d) Is equipped with a manufacturer-installed three-point safety belt or safety harness. 
+
+ (e) DAS considers an Autocycle a “Motor Vehicle” for the purposes of parking. 
+
+ (5) “ Bicycle ” means a vehicle that: 
+
+ (a) Is designed to be operated on the ground on wheels; and 
+
+ (b) Has a seat or saddle for use of the rider; and 
+
+ (c) Is designed to travel with not more than three wheels in contact with the ground; and 
+
+ (d) Is propelled by human power; and 
+
+ (e) Has every wheel more than 14 inches in diameter or two tandem wheels either of which is more than 14 inches in diameter. [1983 c.338 §22] 
+
+ (f) DAS may prohibit any Bicycle from certain Bicycle storage areas based on Bicycle size. 
+
+ (6) “ Capitol Mall Parking Area ” means that area within the City of Salem bounded by Church Street on the west, D Street on the north, Mill Street on the south and 13th Street on the east. 
+
+ (7) “ Carpool ” means a registered group of an eligible State Employee and one or more employed others who use a ride-sharing arrangement to commute to work together in a Carpool Area no fewer than 3 days of a 5-day work week. Any other alternative work schedule needs to be approved by DAS. For the purposes of OAR 125-090-0132, a “Vanpool” qualifies as and has the same meaning as “Carpool” 
+
+ (8) “ Carpool Area ” means any one of the following: 
+
+ (a) “ Downtown Eugene Area ” means the area within the City of Eugene bounded by Third Street on the north, Fairmount Street on the east, 24th Street on the south and Washington Street on the west. 
+
+ (b) “ Downtown Portland Area ” means the area within the City of Portland bounded by Hoyt Street on the north, the Willamette River on the east and I-405 on the south and west. 
+
+ (c) “ Lloyd District Area ” means the area within the City of Portland bounded by Broadway on the north, N.E. 16th on the east, I-84 on the south and Martin Luther King Jr. Blvd. on the west. 
+
+ (d) “ Salem Area ” means the area within the City of Salem bounded by Market Street on the north, 17th Street on the east, Mission Street on the south and the Willamette River on the west. The Capitol Mall Parking Area is in the Salem Area. 
+
+ (9) “ Commercial Parking ” means parking made available by a private or public concern for which a use fee is charged. 
+
+ (10) “ DAS ” means the Department of Administrative Services, Enterprise Asset Management Division, Fleet and Parking Services. 
+
+ (11) “ Director ” means the Director of the Oregon Department of Administrative Services. 
+
+ (12) “ Electric Vehicle ” means a Motor Vehicle where the sole means of propulsion is from an electric motor(s) and the Motor Vehicle requires charging from an external electrical source to replenish the batteries. 
+
+ (13) “ Hire Date ” means the date of a State Employee’s initial hire to State service as recorded in the official personnel file for that employee. 
+
+ (14) “ Lease ” means to charge or to pay a charge for the use of portions of the facilities and grounds in a Parking Facility for the parking of Motor Vehicles and other transportation uses. 
+
+ (15) “ Manager ” means the Manager of the Oregon Department of Administrative Services, Fleet and Parking Services program, or the Manager’s designee. 
+
+ (16) “ Member ” means a registered user of a Carpool, a registered user of the Space Sharing Program, or an approved user of a DAS Alternative Transportation Modes program. 
+
+ (17) “ Motor Vehicle ” - "(Passenger) Motor Vehicle" means any self-propelled vehicle used for transporting persons or commodities on public roads. DAS may prohibit any Motor Vehicle from certain lots based on Motor Vehicle size. 
+
+ (18) “ Motorcycle ” - For the purposes of these rules, "Motorcycle" means any Motor Vehicle, including mopeds, having a seat or saddle for the use of the rider and designed to travel on not more than three wheels in contact with the ground and having a mass of 680 kilograms (1500 pounds) or less with manufacturer recommended fluids and nominal fuel capacity included. DAS may prohibit any Motorcycle from certain lots based on Motorcycle size. 
+
+ (19) “ Park ” and “ Parking ” means to stop, or to cause or allow to remain stopped, any Motor Vehicle or combination of Motor Vehicles, or any portion thereof, on any street, off-street Parking facility, Parking space, or other public right of way including sidewalks, except such stops as are made in response to legal controls or requirements, conditions created by other traffic, emergencies related to the operation of the Motor Vehicle during the actual period of such emergency, or momentary stops for the expeditious loading or unloading of passengers. Whether capitalized or not in these rules, “park”, “parked”, or “parking” have the same meaning. 
+
+ (20) “ Parking Facility ” means any lot, grounds, parking structure, or facility owned, managed, controlled or administered by DAS and used or available for the parking of Motor Vehicles and Bicycles and other transportation uses, including but not limited to those grounds and parking structures and facilities described in ORS 276.594 and those parking structures and facilities at the State office buildings in Eugene and Portland. Parking Facility also includes any additional grounds and parking structures, or facilities designated by State Agencies to be managed, controlled or administered by DAS. 
+
+ (21) “ Permit ” means an authorization issued in accordance with these rules to Park a Motor Vehicle or a Bicycle in compliance with the conditions specified in the authorization and these rules. It may also mean the hangtag or decal issued to identify a Motor Vehicle exercising the authorization. 
+
+ (22) “Primary Participant” means: 
+
+ (a) The State Employee Member with responsibility for certifying Member membership in a Carpool and paying the charge for the monthly Permit for the Carpool. 
+
+ (b) The State Employee Member with responsibility for certifying the Space Sharing Program Members allowed to use their Permit and paying the charge for the monthly Permit. 
+
+ (c) The State Employee Member in any DAS Parking incentive program (i.e. Smart Commuter Program). 
+
+ (23) “ Request Date ” means the date a customer is on a waitlist in the DAS database. 
+
+ (24) “ Schedule of Base Rates and Charges ” means the Schedule of Base Rates and Charges in OAR 125-090-0065, which rates and charges are adopted by DAS pursuant to OAR 125-090-0015 and OAR 125-090-0035 for the use of portions of the facilities and grounds in Parking Facilities for the parking of Motor Vehicles and Bicycles and other transportation uses. 
+
+ (25) “ Service Vehicle ” means a Motor Vehicle used primarily for the transport of goods or services from a business to State Agency premises. 
+
+ (26) “ Shared Space ” means the parking space shared by the Primary Participant or a Member participating in the Space Sharing Program. 
+
+ (27) “ Space Sharing Program ” means where a State Employee assigned a monthly reserved or unreserved permit to park in a DAS controlled Parking Facility allows one or more other State Employees to use their permit. This may be with or without compensation exchanged between the parties (see Sublet definition (32)). 
+
+ (28) “ State ” means the State of Oregon. 
+
+ (29) “ State Agency ” means any elected or appointed officer, board, commission, department, institution, branch or other unit of the State government. 
+
+ (30) “ State Employee ” means any employee, officer, board or commission member, or volunteer worker of the State. 
+
+ (31) “ State Employee with a Disability ” means a State Employee who has been issued a disabled person parking Permit by the Oregon Department of Transportation (ODOT) under ORS 811.602. 
+
+ (32) “ Sublet ” is when a person who has a reserved space or a Permit allows another person to use their space or Permit and is compensated monetarily or in any other way for said use. 
+
+ (33) “ Tenant ” is a State Employee whose Work Location is within a specific State owned or Leased building(s) as determined by DAS. A State Agency, program, division, etc. may also be a Tenant. Assignment of Permits in some Parking Facilities is limited to Tenants only; see section OAR 125-090-0003 Eligibility. 
+
+ (34) “ Vanpool ” means a group of people commuting to work collectively in a passenger Motor Vehicle designed to hold six (6) or more people. A Vanpool is defined as 6 or more people that ride together. 
+
+ (35) “ Visitor ” a person representing themselves, a company, or other entity who uses a DAS Parking Facility to Park a Motor Vehicle. Depending on the specific uses and restrictions on Parking spaces or Parking Facilities, State Employees may be considered Visitors when accessing Parking Facilities that are not at their Work Location. 
+
+ (36) “ Workday ” – The State of Oregon official HR system of record. 
+
+ (37) “ Work Location ” means the building, office, assembly point or other similar location that is: 
+
+ (a) Designated in Workday as the State Employee’s Central Workplace or Alternate Workplace (as defined per the Statewide Human Resources Working Remotely Policy 50.050.01); or 
+
+ (b) A Temporary Workplace (as defined per the Statewide Human Resources Working Remotely Policy 50.050.01) where the State Employee physically reports for work; or 
+
+ (c) When the State Employee is engaged in Mobile Work (as defined per the Statewide Human Resources Working Remotely Policy 50.050.01), the Work Location is where the State Employee is required to initially report for work at the start of their day. 
+
+ (38) “ Writing ” means letters, characters and symbols inscribed on paper by hand, print, type or other method of impression, or made in electronic form such as e-mail and facsimile, and intended to represent or convey particular ideas or meanings. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 98.805 - 98.818, 184.340, 190.240, 276.591 - 276.601, 283.100, 283.110 & Governor’s Executive Order 17-21 
+ 
+ 
+ Statutes/Other Implemented:  ORS 98.805, 190.240, 276.591 & 283.110 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DAS 1-2025, amend filed 04/14/2025, effective 04/15/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DAS 4-2022, amend filed 05/10/2022, effective 05/15/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DAS 1-2021, amend filed 06/16/2021, effective 07/01/2021 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DAS 7-2009, f. & cert. ef. 7-1-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DAS 4-2001, f. 5-31-01, cert. ef. 6-1-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DAS 7-2000(Temp), f. & cert. ef. 12-11-00 thru 6-8-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DASII 1-1996, f. & cert. ef. 3-1-96 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ GS 17-1992, f. & cert. ef. 8-27-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ GS 13-1992(Temp), f. 6-22-92, cert. ef. 7-1-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ GS 1-1992, f. 1-28-92, cert. ef. 2-1-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ GS 7-1981, f. 11-23-81, ef. 1-1-82 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ GS 3-1981(Temp), f. 8-28-81, ef. 10-1-81 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

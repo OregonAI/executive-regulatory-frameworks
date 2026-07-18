@@ -1,0 +1,411 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Administrative Services 
+ Chapter 125 
+ 
+ 
+ 
+ 
+ 
+ Division 246 GENERAL PROVISIONS FOR PUBLIC CONTRACTING 
+ 125-246-0100 
+ Application; Commentary; Federal Law Prevails
+ 
+ 
+ (1) These Rules of the Department of Administrative Services (Department) are policy and procedure that apply to public contracting by: 
+
+ (a) Agencies subject to these Rules; 
+
+ (b) All contracting agencies, as defined in ORS 279A.010; and 
+
+ (c) All public agencies, as defined in ORS 279.835(4); that are subject to the DAS Rules adopted under: 
+
+ (A) Oregon Constitution, Article I, Section 41, subsection 11, related to the use of inmate labor (125-247-0200); 
+
+ (B) ORS 200.005 through 200.200 related to Certification Office for Business Inclusion and Diversity (COBID) certified firms (see OAR 125-246-0200 through 125-246-0220); 
+
+ (C) ORS 279.835 through 279.855 related to qualified nonprofit agencies for individuals with disabilities (see OAR 125-055-0005 through 125-055-0045); 
+
+ (D) ORS 279A.140(2)(h) related to personal services contracts (see OAR 125-246-0335 through 125-246-0353); 
+
+ (E) ORS 279A.159 requiring education, training or experience for persons that conduct procurements or administer contracts for state contracting agencies (see OAR 125-246-0140); 
+
+ (F) ORS 279A.250 through 279A.290 related to surplus property (OAR 125-050-0100 through 125-050-0400; 125-247-0200); and 
+
+ (G) 2015 Oregon Laws, Chapter 807 (HB 3099) requirements for review or approval by the State Chief Information Officer of any Procurement of Information Technology or Telecommunications (see OAR 125-247-0185; ORS 184.477; 279A.050; 279A.075; 279B.075). 
+
+ (d) Unless required by a specific law, the Secretary of State and State Treasurer are not subject to the Department Public Contracting Rules or policies. 
+
+ (2) According to ORS 279A.065(5), the Department adopts these Rules, including but not limited to selected and adapted Public Contract Model Rules. Except for those Public Contract Model Rules expressly adopted by the Department in OAR 125-246-0100, 125-247-0100, 125-248-0100 and 125-249-0100, the Public Contract Model Rules adopted by the Attorney General do not apply to the Department or the Agencies. These Department Public Contracting Rules implement the Oregon Public Contracting Code. 
+
+ (3) These Department Public Contracting Rules consist of the following four Divisions: 
+
+ (a) Division 246, which applies to all Public Contracting; 
+
+ (b) Division 247, which applies only to Public Contracting for Supplies and Services, and not to construction services procured through ORS 279C or Architectural, Engineering, Photogrammetric Mapping, Transportation Planning or Land Surveying Services, or Related Services 
+
+ (c) Division 248, which applies only to Public Contracting for Architectural, Engineering, Photogrammetric Mapping, Transportation Planning or Land Surveying Services and Related Services; and 
+
+ (d) Division 249, which applies only to Public Contracting for construction services. 
+
+ (4) If a conflict arises between these Division 246 Rules and Rules in Division 247, 248 or 249, the Rules in Divisions 247, 248 or 249 take precedence over these Division 246 Rules. 
+
+ (5) Commentary on these Rules may be published by the Department to assist the Agencies by providing: examples, options, references, background, and other commentary. The Department's commentary is not a Rule or interpretation of any Rule and has no legally-binding effect. 
+
+ (6) Federal statutes and regulations prevail and govern, except as otherwise expressly provided in ORS 279C.800 through 279C.870 (Prevailing Wage Rate) and despite other provisions of the Public Contracting Code, under the following conditions: 
+
+ (a) Federal funds are involved; and 
+
+ (b) The federal statutes or regulations either: 
+
+ (A) Conflict with any provision of ORS Chapters 279A, 279B, or 279C.005 through 279C.670; or 
+
+ (B) Require additional conditions in Public Contracts not authorized by ORS Chapters 279A, 279B, or ORS 279C.005 through 279C.670. 
+
+ (7) Adaptation of Model Rules for Agency Use. The following words found in those Model Rules expressly adopted by the Department are replaced by the words as defined in OAR 125-246-0110: 
+
+ (a) “Contracting agency(ies)” is replaced by “Authorized Agency(ies), unless expressly stated otherwise.” 
+
+ (b) “Goods or services” is replaced by “Supplies and Services.” 
+
+ (c) “Agreements to agree” and “price agreement” are replaced by “Price Agreement.” 
+
+ (8) Capitalization of Defined Terms. Uncapitalized terms in those Model Rules expressly adopted by the Department have the same meaning as the same terms that are capitalized and defined in OAR 125-246-0110. 
+
+ (9) Department Policy. Agencies must comply with Department policies, if applicable. 
+
+ (10) For purposes of these Division 246 Rules, the Department adopts the following Model Public Contract Rules, as revised and effective January 1, 2016: OAR 137-046-0140, 137-046-0300, 137-046-0330, 137-046-0400, 137-046-0410, 137-046-0420, 137-046-0430, 137-046-0440, 137-046-0450, 137-046-0460, 137-046-0470, 137-046-0480. 
+
+ (11) OregonBuys may use some system terms and document titles that differ from defined terms in these Rules. 
+
+ (a) To the extent there is any different terminology used in OregonBuys that is the equivalent of the term or terms in these Rules, these Rules shall include or defer to the terminology used in OregonBuys or other Electronic Procurement System approved by the State Chief Procurement Officer. 
+
+ (b) Equivalent terms are identified in a crosswalk comparing and translating these terms and can be found at: terminology crosswalk . 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 279A.065(5)(a) & 279A.070 
+ 
+ 
+ Statutes/Other Implemented:  ORS 279A.020, 279A.030 & 279A.065 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DAS 5-2023, amend filed 12/29/2023, effective 01/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DAS 1-2023, amend filed 04/11/2023, effective 05/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DAS 6-2022, temporary amend filed 11/07/2022, effective 11/07/2022 through 05/05/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DAS 3-2018, amend filed 12/14/2018, effective 01/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DAS 2-2016, f. 12-22-16, cert. ef. 1-1-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DAS 4-2015, f. 12-29-15, cert. ef. 1-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DAS 4-2013, f. 12-17-13, cert. ef. 1-1-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DAS 3-2012, f. 11-29-12, cert. ef. 12-1-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DAS 3-2011, f. 12-22-11, cert. ef. 1-1-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DAS 6-2008, f. & cert. ef. 7-2-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DAS 5-2006, f. & cert. ef. 5-31-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DAS 9-2005, f. & cert. ef. 8-3-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DAS 7-2005, f. & cert. ef. 6-6-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DAS 4-2005, f. 4-13-05, cert. ef. 6-6-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DAS 4-2004, f. 11-23-04, cert. ef. 3-1-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

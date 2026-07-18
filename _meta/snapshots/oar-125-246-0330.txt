@@ -1,0 +1,472 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Administrative Services 
+ Chapter 125 
+ 
+ 
+ 
+ 
+ 
+ Division 246 GENERAL PROVISIONS FOR PUBLIC CONTRACTING 
+ 125-246-0330 
+ Supplier Requirements
+ 
+ 
+ (1) Requirements to Transact Business in Oregon. 
+
+ (a) A Contractor who is a corporation, partnership, or who has an assumed business name must be registered with the Secretary of State Office in accordance with ORS Chapters 58, 60, 62, 63, 65, 67, 70, and 648. This registration is the obligation of the Contractor, not the Agency. 
+
+ (b) In addition, for Contracts requiring the services of one or more architects, engineers, and land surveyors, these Consultants must be registered with the appropriate licensing boards under the provisions of ORS 671.020, 672.020, and 672.025. 
+
+ (c) The statutory requirements for contracting firms to register with the Secretary of State’s Office may be subject to a limited number of exceptions under federal law. For example, national banks, when they contract with Authorized Agencies, are not subject to the registration requirement. 
+
+ (d) The Contractor or Consultant must be registered at the time of the execution of the Contract and during the entire term of the Contract. 
+
+ (2) Tax Compliance. 
+
+ (a) No Contract or other agreement for more than $1,000 may be entered into, renewed or extended with any Person unless the Person certifies in Writing, under penalty of perjury, that the Person is not in violation of any tax laws in accordance with ORS 305.380(4), and 305.385(6) and (7). 
+
+ (b) Agency must determine that a Bidder or Proposer is responsible under ORS 279B.110, OAR 125-247-0500 and 125-247-0640. In order to make this determination, a Bidder or Proposer must demonstrate to the Agency that the Bidder or Proposer has complied with the tax laws of this state or a political subdivision of this state, including ORS 305.620 and ORS chapters 316, 317 and 318, any tax provisions imposed by a political subdivision that apply to the Offeror or to the performance of the Contract, and any rules and regulations that implement or enforce those tax laws. The Bidder or Proposer must demonstrate compliance by attesting in Writing, that the Bidder or Proposer has complied with the tax laws of this state or a political subdivision of this state, including ORS 305.620 and ORS chapters 316, 317 and 318, any tax provisions imposed by a political subdivision that apply to the Offeror or to the performance of the Contract, and any rules and regulations that implement or enforce those tax laws. (Attestation). 
+
+ (A) Agency may determine which Bidder or Proposer must submit an Attestation and the timing and manner of the submittal. 
+
+ (B) Agency may allow the Bidder or Proposer to electronically transmit the Attestation, and Agency may maintain the electronically transmitted Attestation in lieu of the original Attestation. 
+
+ (C) A Contracting Agency may exercise discretion in determining whether a particular form of attesting to compliance with the tax laws is “credible and convenient” under ORS 279B.110(2)(e), taking into consideration the circumstances in which the Attestation is made and the consequences of making a false Attestation. Therefore, a Contracting Agency may find acceptable forms of Attestation that range from a notarized statement to a less formal document that records the Offeror’s Attestation. However, State Contracting Agencies may not accept the certificate of compliance with tax laws required by ORS 305.385 unless that certificate embraces, in addition to the tax laws described in ORS 305.380, the tax laws of political subdivisions. 
+
+ (D) An Attestation attests to the Bidder or Proposer’s current compliance with tax laws. During the period Bidder or Proposer is in compliance, a Bidder or Proposer may submit a copy of the same Attestation to multiple Agencies or for multiple Invitations to Bid or Requests for Proposals, and an Agency is not required to obtain a new original Attestation from a Bidder or Proposer for each Procurement. 
+
+ (E) The Bidder or Proposer is responsible for determining whether the Bidder or Proposer is in compliance with tax laws. If applicable, compliance with tax laws may not require payment of taxes. 
+
+ (3) Net Neutrality. 
+
+ (a) Definitions. For purposes of this section, the following terms are defined in Oregon Laws 2018, Chapter 88 (HB 4155) and mean: 
+
+ (A) “Broadband Internet access service”: 
+
+ (i) A mass-market retail Internet access service provided by wire or radio that enables a person to transmit data to or receive data between the person’s customer premises equipment, including mobile devices, and all, or substantially all, Internet endpoints; 
+
+ (ii) Any service that the Public Utility Commission finds is providing a service that is the functional equivalent of the service described in sub-subparagraph (i) of this subparagraph; or 
+
+ (iii) Any service that is incidental to or that enables the operation of the service described in sub-subparagraph (i) of this subparagraph. 
+
+ (B) “Broadband Internet access service” does not include dial-up Internet access service. 
+
+ (C) “Broadband Internet access service provider” means a person or P ublic Body that provides broadband Internet access service. 
+
+ (D) “Content, applications or services” means all traffic transmitted to or from end users of a broadband Internet access service. 
+
+ (E) “Edge provider” means any person that provides content, applications or services over the Internet, and any person that provides a device used for accessing content, applications or services over the Internet. 
+
+ (F) “End user” means any person that uses a broadband Internet access service. 
+
+ (G) “Fixed broadband Internet access service” means broadband Internet access service that serves end users primarily at fixed endpoints using stationary equipment, including fixed satellite services and licensed and unlicensed fixed wireless services. 
+
+ (H) “Mobile broadband Internet access service” means broadband Internet access service that serves end users primarily using mobile stations. 
+
+ (I) “Nonharmful device” means a device the Public Utility Commission determines by rule to be nonharmful to broadband Internet access services. 
+
+ (J) “Paid prioritization” means a broadband Internet access service provider’s management of its network to directly or indirectly favor some traffic over other traffic, including through traffic shaping, prioritization, resource reservation or other forms of preferential traffic management, either in exchange for consideration from a third party or to benefit  an affiliated entity. 
+
+ (K) “Public Body” is defined in ORS 174.109, and means state government bodies, local government bodies, and special government bodies . 
+
+ (b) Except as provided in subsection (d) below, no P ublic Body, as defined in ORS 174.109, may contract with, or enter into a renewal or extension of an existing contract with, a broadband internet access service provider that, at any time on or after January 1, 2019: 
+
+ (A) Engages in paid prioritization; 
+
+ (B) Blocks lawful content, applications or services or nonharmful devices; 
+
+ (C) Impairs or degrades lawful Internet traffic for the purpose of discriminating against or favoring certain Internet content, applications or services or the use of nonharmful devices; 
+
+ (D) Unreasonably interferes with or unreasonably disadvantages an end user’s ability to select, access and use the broadband Internet access service or lawful Internet content, applications or services or devices of the end user’s choice; or 
+
+ (E) Unreasonably interferes with or unreasonably disadvantages an edge provider’s ability to make devices or lawful content, applications or services available to end users. 
+
+ (c) For the purposes of this Rule, a Public Body contracts with a broadband internet access service provider if the Public Body procures, or provides funding for the procurement of, broadband internet access service, including fixed broadband internet access service or mobile broadband internet access service, from the broadband internet access service pro vider. 
+
+ (d) Notwithstanding subsection (b) of this Rule, a Public Body may contract with a broadband internet access service provider that: 
+
+ (A) Is the sole provider of fixed broadband internet access service to the geographic location subject to the contract; 
+
+ (B) Engages in any of the activities described in subsection (3)(b) of this Rule in the process of addressing copyright infringement or other unlawful activity or the needs of emergency communications, law enforcement, public safety or national security authorities; 
+
+ (C) Engages in paid prioritization if the Public Utility Commission determines that the broadband Internet access service provider’s paid prioritization provides significant public interest benefits and does not harm the open nature of the provided broadband Internet ac cess service; 
+
+ (D) Engages in any activities described in subsection (3)(b) to (d) of this section if the Public Utility Commission determines that the broadband Internet access service provider’s engagement in the activity is reasonable network management. An activity is reasonable network management if the activity: 
+
+ (i) Has a technical network management justification; 
+
+ (ii) Does not include other business practices; and 
+
+ (iii) Is narrowly tailored to achieve a legitimate network management purpose, taking into account the particular network architecture and technology of the broadband Internet access service; or 
+
+ (E) Engaged in any of the activities described in subsection (b) of this section at any time on or after January 1, 2019 if: 
+
+ (i) The broadband Internet access service provider certifies in a Signed Writing that it has ceased engaging in all of the activities described in subsection (b) of this section; and 
+
+ (ii) The Public Utility Commission determines that allowing a Public Body to contract with the broadband Internet access service provider provides significant public interest benefits. 
+
+ (e) A broadband Internet access service provider engaged in the provision of broadband Internet access service to a Public Body must publicly disclose information regarding the provider’s network management practices and performance characteristics and the commercial terms of the provider’s broadband Internet access service sufficient for end users to verify that the service is provided in compliance with Oregon Laws 2018, Chapter 88 (HB 4155), applicable Public Utility Commission rules, and this Rule. 
+
+ (f) The Legislative Assembly has directed the Public Utility Commission to specify, by rule, the manner and form in which provider disclosures must be made.   
+
+ (g) A broadband Internet access service provider that is engaged in or may engage in the provision of broadband Internet access service to a Public Body must certify in a Signed Writing that it is in compliance with Oregon Laws 2018, Chapter 88 (HB 4155) and applicable Public Utility Commission rules, and will remain in compliance throughout the term of the Public Body Contract. 
+
+ (4) Debt Collection. 
+
+ (a)   Definitions. For purposes of this section : 
+
+ (A) "State A gency" means any agency within t he Executive Department as defined in ORS 174.112, other than the Oregon Secretary of State, Oregon State Treasury , Oregon Department of Justice, and Oregon Bureau of Labor and Industries. 
+
+ (B) " Liquidated Debt" is defined in the Oregon Accounting Manual number 35.30.30. 
+
+ (C) "Delinquent Debt" is a receivable for which payment has not been received by the due date. 
+
+ (b) State Agencies must consider, where appropriate, Liquidated Debt and Delinquent Debt owed to the State when evaluating vendors on state Price Agreements, when issuing P urchase O rders or similar ordering documents, or when entering into new Contracts with vendors when the Contract value exceeds $150,000, to the extent not prohibited by law. 
+
+ (c) State Agencies, to the extent not prohibited by law , must include in Public Contracts provisions that allow State Agencies to recoup Liquidated Debt and Delinquent Debt owed by vendors to any State Agency. 
+
+ (d) Subject to policies established by DAS, S tate A gencies must make efforts to recover L iquidated Debt and Delinquent Debt from entities to which State Agencies are remitting significant payments. 
+
+ (5)  Protected Class Pay Equity Law. 
+
+ (a) Any person employing one or more employees must comply with ORS 652.210 and 652.220, and may not discriminate on the basis of any protected class . 
+
+ (b) Every P ublic C ontract subject to ORS 279B or 279C must provide that: the C ontractor must comply with ORS 652.220, that compliance is a material element of the C ontract and that a failure to comply is a breach that entitles the Contracting A gency to terminate the C ontract for cause. 
+
+ (c) As used in this subsection: “Protected class” is defined by ORS 652.210 and means a group of persons distinguished by race, color, religion, sex, sexual orientation, national origin, marital status, veteran status, disability or age. 
+
+ (6) Gender Pay Equity Certificate. An Offeror in any State Contracting Agency procurements must demonstrate to the Agency that the Offeror  possesses an unexpired certificate, issued by the Oregon Department of Administrative Services in accordance with ORS 279A.167, if the Offeror employs 50 or more full-time workers at the time of the Closing and the estimated Contract price exceeds $500,000. Unless the certificate provides otherwise, the certificate shall be unexpired for a period of three years from the date issued. 
+
+ (7) If an Offeror, at or before the execution of the Public Contract, demonstrates that the Offeror possesses an unexpired certificate, issued by the Oregon Department of Administrative Services in accordance with ORS 279A.167, this shall satisfy both subsections (5) and (6) of the rule. 
+
+ (8) Policy And Practice Preventing Sexual Harassment, Sexual Assault And Discrimination Against Members of a Protected Class; Notice; Exceptions. 
+
+ (a) Except as provided in subsection (4)(f) of this Rule, no State Contracting Agency may enter into a Public Contract with an anticipated Contract Price, including all amendments, of $150,000 or more, with a prospective Contractor unless that Contractor certifies in a Signed Writing that the prospective Contractor has a policy and practice of preventing: 
+
+ (A) sexual harassment; 
+
+ (B) sexual assault; and 
+
+ (C) discrimination against employees who are members of a protected class. 
+
+ (b) The Contractor’s policy and practice must include, at a minimum: 
+
+ (A) A Written notice to each employee that clearly prohibits and specifies disciplinary measures for conduct that constitutes sexual harassment, sexual assault, or discrimination against a member of a protected class; 
+
+ (B) A clear process that: 
+
+ (i) Enables an employee that experiences or witnesses conduct that constitutes sexual harassment, sexual assault or discrimination against a member of a protected class to report and stop the conduct; and 
+
+ (ii) Guides the prospective Contractor in responding to the report, resolving the issues identified in the report, and disciplining employees who engage in prohibited conduct; 
+
+ (C) A regular Written procedure for submitting a report that identifies the specific individuals to whom an employee may submit the report and the individuals who have responsibility for resolving issues identified in the report; 
+
+ (D) A practice of treating as confidential, to the extent permitted by law, any report that an employee makes under the Contractor’s policy and practice; 
+
+ (E) A prohibition against retaliating against an employee who experiences; witnesses, or reports, conduct that constitutes sexual harassment, sexual assault or discrimination against a member of a protected class; 
+
+ (F) A prohibition against discrimination in providing benefits to an employee or a dependent of the employee based on the employee’s membership in a protected class or the membership of the employee’s dependent in a protected class; and 
+
+ (G) A prohibition on denying benefits to an employee or a dependent of the employee based solely on the employee’s gender identity or the gender identity of the employee’s dependent, if the prospective Contractor provides health insurance or health care benefits. 
+
+ (c) A prospective Contractor may provide the required Written notice by means of a printed or electronic employee handbook. 
+
+ (d) The Department may develop and make available on the Department’s website an electronic template or other guidance for prospective Contractors in meeting these notice requirements. The Department may provide suggested language, forms, or other guidance to help enable prospective Contractors to satisfy the requirements of this Rule, or may approve any part or all of a Contractor’s policy and practice that the Department may determine meets the requirements of this Rule. 
+
+ (e) A Public Contract with a Contract Price of $150,000 or more must include as a material term of the Public Contract that the Contractor certify in Writing: 
+
+ (A) that the Contractor has a policy and practice that meets the requirements of this Rule, and 
+
+ (B) that the Contractor will maintain the policy and practice in force during the entire term of the Public Contract. 
+
+ (f) A State Contracting Agency may enter into a Public Contract described in this Rule with a prospective Contractor that has not provided the Written certification if: 
+
+ (A) The State Contracting Agency conducted the procurement under ORS 279B.075, 279B.080 or 279B.085; or 
+
+ (B) Only one prospective Contractor submitted a bid or proposal in response to the State Contracting Agency’s solicitation. 
+
+ (g) As used in this subsection: 
+
+ (A) “Discrimination” means conduct that has the purpose or effect of creating employment conditions for an individual that are intimidating, hostile or offensive or that show animosity, resentment, anger, prejudice or ill will to others primarily because of the individual’s identification with or membership in a protected class. 
+
+ (B) “Protected class” means a group of people that state or federal law protects from employment discrimination including, but not limited to, a group in which membership depends on an ascribed association or identification, or an individual’s voluntary association or identification with other individuals, on the basis of one or more of these characteristics: 
+
+ (i) Race, color or ethnicity; 
+
+ (ii) National origin; 
+
+ (iii) Sex; 
+
+ (iv) Gender, including actual or perceived gender identity; 
+
+ (v) Sexual orientation; 
+
+ (vi) Disability; 
+
+ (vii) Age; 
+
+ (viii) Marital status; or 
+
+ (ix) Religion. 
+
+ (C) “Sexual assault” means any unwanted sexual contact, as defined in ORS 163.305. 
+
+ (D) “Sexual harassment” means: 
+
+ (i) A request or demand for sexual favors in an implicit or explicit exchange for an employment-related benefit or as a means of avoiding an employment-related detriment; or 
+
+ (ii) Unwelcome conduct of a sexual nature that has the purpose or effect of interfering with a person’s ability to perform job duties or that creates an intimidating, offensive or hostile work environment. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 279A.065(5)(a) & 279A.070 
+ 
+ 
+ Statutes/Other Implemented:  ORS 279A.167, 279A.140, 279B.110(1), 279C.105(1), ORS 279A.112, Or Laws 2018, ch 88 (HB 4155) & Governor's Executive Order 17-09 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DAS 3-2019, amend filed 12/23/2019, effective 01/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DAS 3-2018, amend filed 12/14/2018, effective 01/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DAS 4-2017, amend filed 12/28/2017, effective 01/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DAS 4-2015, f. 12-29-15, cert. ef. 1-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DAS 3-2014, f. 12-29-14, cert. ef. 1-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DAS 11-2009, f. 12-30-09, cert. ef. 1-1-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DAS 6-2008, f. & cert. ef. 7-2-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DAS 5-2006, f. & cert. ef. 5-31-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DAS 4-2004, f. 11-23-04, cert. ef. 3-1-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
