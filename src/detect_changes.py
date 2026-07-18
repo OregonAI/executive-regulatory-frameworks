@@ -12,7 +12,7 @@ import yaml
 
 from repo_lib import MANIFEST_PATH, REPO_ROOT
 
-USER_AGENT = "oregon-policy-repo-change-detector (+https://github.com/dzinck/oregon-policy-repo)"
+USER_AGENT = "oregon-policy-repo-change-detector (+https://github.com/morficflux/oregon-policy-repo)"
 
 
 def fetch(url: str) -> bytes:

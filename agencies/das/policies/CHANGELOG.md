@@ -14,4 +14,4 @@ file's frontmatter).
 
 - das-107-004-052 (Cyber and Information Security): initial ingest from
   https://www.oregon.gov/das/Policies/107-004-052.pdf (Effective 2/17/2026,
-  Reviewed 12/2/2025; sha256 ff23504f…). Verified-by @dzinck.
+  Reviewed 12/2/2025; sha256 ff23504f…). Verified-by @morficflux.

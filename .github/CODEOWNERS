@@ -1,12 +1,12 @@
 # Default owner for everything
-* @dzinck
+* @morficflux
 
 # Per-knowledge-body owners (replace with teams as the project grows)
-/statutes/ @dzinck
-/rules/ @dzinck
-/executive-orders/ @dzinck
-/agencies/das/ @dzinck
-/external-references/ @dzinck
-/_meta/ @dzinck
-/src/ @dzinck
-/.github/ @dzinck
+/statutes/ @morficflux
+/rules/ @morficflux
+/executive-orders/ @morficflux
+/agencies/das/ @morficflux
+/external-references/ @morficflux
+/_meta/ @morficflux
+/src/ @morficflux
+/.github/ @morficflux
