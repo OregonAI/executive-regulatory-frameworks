@@ -217,246 +217,1052 @@ sources:
     recheck: monthly
     notes: "State Information Security. Renumbered from 125-800-0020."
   # ---- Oregon Accounting Manual (OAM) ----
+  # Regenerated 2026-07-18 from the listing of record (oam-listing.json).
+  # The oam-listing pseudo-source is checked by detect_changes.py via the REST API.
+  - id: oam-listing
+    url: "https://www.oregon.gov/das/financial/osc/pages/oam.aspx"
+    sha256: "0000000000000000000000000000000000000000000000000000000000000000"
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "OAM listing of record (16 SharePoint chapter views). detect_changes handles this id specially: re-queries the REST API and compares normalized rows against oam-listing.json; sha256 field unused."
+  - id: oam-01-05-00
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/01.05.00.pdf"
+    sha256: 819a0973740720bbdcd4e04ed6bac910aec50e764289ee0cd58a5b80b3ef99e3
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Scope and applicability"
+  - id: oam-01-10-00
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/01.10.00.pdf"
+    sha256: 45c24d428b99889b4c7d5377935438aa42de6a27d61be0d5cdf9b46a97d3b322
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Roles and responsibilities"
+  - id: oam-05-10-00
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/05.10.00.pdf"
+    sha256: 53fba47aeb3140abbb8d4f204cd8ee38affc7da68387d5afb4adf49077496969
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Overview"
   - id: oam-05-20-00
     url: "https://www.oregon.gov/das/Financial/Acctng/Documents/05.20.00.pdf"
     sha256: 0285c9ac83ce1ed5cd783cf2b86ea14e8c6c13e15f17caf3b6a400a4e7792c0b
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Fund and Appropriation Structure and Usage."
+    notes: "Fund and Appropriation Structure and Usage"
+  - id: oam-05-30-00-po
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/05.30.00.po.pdf"
+    sha256: 4f7931b40e9446722e6859a741c0c7bf97c544f1b1970403b185cc61ec6f9e9e
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "General ledger and object structure policy"
+  - id: oam-05-30-00-pr
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/05.30.00.pr.pdf"
+    sha256: e02e9a22c67f8ceebf11528f50d96f99933a7f9c65fc4d83723f5ccc9c5c01ca
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "General ledger and object structure procedure"
+  - id: oam-05-35-00-po
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/05.35.00.po.pdf"
+    sha256: 04abfc3d77c91f30da758db6790f15cd1f05bd653a3c72b47bd885cc4428987c
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Transaction code structure policy"
+  - id: oam-05-35-00-pr
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/05.35.00.pr.pdf"
+    sha256: 268c96a0e45b15ba522e4d2aecf32d1c30f8b1c5a6f8412db1558f4a33162894
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Transaction code structure procedure"
+  - id: oam-10-10-00-po
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/10.10.00.po.pdf"
+    sha256: 87f75474f2dcfb3b25122cbf19b581862136479db6946e1201cac790900bde27
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Management's responsibilities policy"
+  - id: oam-10-10-00-pr
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/10.10.00.pr.pdf"
+    sha256: c8bd8ebb74a1a6f1936e17994937e39e90c53430467380a61f18a76c6f6d0bae
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Management's responsibilities procedure"
+  - id: oam-10-15-00-po
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/10.15.00.po.pdf"
+    sha256: b6edb6770adc1371bb4458319bb581a73e0fa0c395a64296e83f7317b7c59e75
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Transaction documentation requirements-policy"
+  - id: oam-10-20-00
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/10.20.00.pdf"
+    sha256: 549f10313f89382c15554dbfa9ea96682c91bc2f8bcc02abb8295afb0aecf6e4
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Cash"
+  - id: oam-10-30-00-po
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/10.30.00.po.pdf"
+    sha256: 02674e206dcb3beef9706db2d7511a561d68dda091bef70b9f7b537326058025
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Revenues-policy"
+  - id: oam-10-30-00-pr
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/10.30.00.pr.pdf"
+    sha256: e53b8ad5330aa90d99122bcc580436bc30146dcc8dd8119a85aedb97360fb6f8
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Revenues-procedure"
+  - id: oam-10-35-00-po
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/10.35.00.po.pdf"
+    sha256: dde6a95fa96a64d4efe9bc1f40ffd1782ceee95f0ec09ca861655716fcb344b2
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Credit card acceptance for payment-policy"
+  - id: oam-10-35-00-pr
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/10.35.00.pr.pdf"
+    sha256: 1d15c3e17489296c2a4e49544ef2d5b5b740147d4a8c6782ff41dcff4fcea7a0
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Credit card acceptance for payment-procedure"
+  - id: oam-10-40-00
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/10.40.00.pdf"
+    sha256: 5faa473a6767d5feea1cc678d4d698b87903c0eea0e1202c6dfae7c4271f0f1b
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Expenditures"
+  - id: oam-10-40-10
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/10.40.10.pdf"
+    sha256: 2e9c3d7c60530b5cbb9e8915b7174fc016501e922779ddfb7e1b07d0416be2ba
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Non-travel meals and refreshments-policy"
+  - id: oam-10-50-00-po
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/10.50.00.po.pdf"
+    sha256: 796125808de10c60486959eca0bf948052945582dde89f17742c99caa38ada9d
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Capital and non-capital assets-policy"
+  - id: oam-10-50-00-pr
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/10.50.00.pr.pdf"
+    sha256: f7170c2e994cfcd46b3d36ece980a87faaa5b0e6a716a215b91828ef37e1c7e3
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Capital and non-capital assets-procedure"
+  - id: oam-10-55-00
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/10.55.00.pdf"
+    sha256: c0db9e0497cad19d13e177784918246498b87e770296a953fdfdb856e06dc147
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Employee assigned property-policy"
+  - id: oam-10-60-00-po
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/10.60.00.po.pdf"
+    sha256: 1d49d2500ecc1901e35e9ff9cd210f87459269daa68ca41489b2904908e34051
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Information technology-policy"
+  - id: oam-10-60-00-pr
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/10.60.00.pr.pdf"
+    sha256: 7a82e758bbd490f9d3e75362aabe8692b4cf65503f0e549e36af561b0fd55eec
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Information technology-procedure"
+  - id: oam-10-65-00-po
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/10.65.00.po.pdf"
+    sha256: c8bc2e1a919e5030c6b56df93991d10b679019e4337258a8e730fccb05992bac
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Approval of proposed fiscal systems-policy"
+  - id: oam-10-70-00
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/10.70.00.pdf"
+    sha256: dda8fa82b7ac2445f4f1520266a2d3aafb610aa786edec6a17f8640742cb8731
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Security access to financial systems"
   - id: oam-10-75-00
-    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/OAM%2010.75.00_ACH_Security.pdf"
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/10.75.00.pdf"
     sha256: 3cddb69b82ef14b254d81c531dc24344bb601c2eed1fdeddedaa60bdd873f2b4
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "ACH Security."
+    notes: "ACH Security"
+  - id: oam-10-80-00-po
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/10.80.00.po.pdf"
+    sha256: 835123264c89cc8494d47cc8b029b501eb6f3902367464adc855dfb79648ae5c
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Auditing-policy"
+  - id: oam-10-80-00-pr
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/10.80.00.pr.pdf"
+    sha256: dd661797db6e88a77f88aa1443786c53637b6d2ade446e440204726a1361a448
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Auditing-procedure"
+  - id: oam-10-90-00
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/10.90.00.pdf"
+    sha256: f174b75d6eaf313f148240c0ab8529da0bdcbb92acc8329d68611167d3ff01f2
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Approval of agency head transactions-policy"
+  - id: oam-15-05-00
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/15.05.00.pdf"
+    sha256: 7aeb4fd85f9c1bd8162e748fa96c27ef51a9e6cfff5a4068c7dd24016b19f904
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "GAAP hierarchy"
+  - id: oam-15-10-00
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/15.10.00.pdf"
+    sha256: 1990c6d75e288850f3d4f9c49f666a8521b5c9d2099c67b2a754e751ddf87039
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Cash and cash equivalents"
+  - id: oam-15-15-00
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/15.15.00.pdf"
+    sha256: 02bc1f46bcc98ce8a505f9b448b9fc6a2bcd25d12434ad58abcc6d2765aca47c
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Investments"
+  - id: oam-15-20-00
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/15.20.00.pdf"
+    sha256: 78e1734d6614256b7c0fdfb131a0096fc9a3885d228110bcc529422beeefa363
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Derivative instruments"
+  - id: oam-15-30-00
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/15.30.00.pdf"
+    sha256: af893fe1eac390f405ad44a91d5012caf8c80671493f403725b4571a7ad90de0
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Securities lending"
+  - id: oam-15-35-00
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/15.35.00.pdf"
+    sha256: eb19cedef7b03130374e9eb59d75a19ba1031bbb00224424080a28eadb895b76
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Revenues and receivables"
   - id: oam-15-40-00
     url: "https://www.oregon.gov/das/Financial/Acctng/Documents/15.40.00.pdf"
     sha256: 2c36b300fbf8a34209c13b6a5108c10b4fb26e826c59e4f1efa785be44427e75
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Expenditures."
+    notes: "Expenditures"
   - id: oam-15-41-00
     url: "https://www.oregon.gov/das/Financial/Acctng/Documents/15.41.00.pdf"
     sha256: f61d6c61700d3dcf5a9f77d2730172734e03748b70bdda0fddd8b25dee12fc72
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Withholding from Non-state Entities."
+    notes: "Withholding from Non-state Entities"
+  - id: oam-15-42-00
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/15.42.00.pdf"
+    sha256: 8e8024a11c4c2f857511c1f4156ad0acb9028bf63467ef106107b45a80ab9151
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Federal grants"
   - id: oam-15-45-10
     url: "https://www.oregon.gov/das/Financial/Acctng/Documents/15.45.10.pdf"
     sha256: a6736d56e5aaaf1afb354f7eef3de2e14b1b57bb955a9afd0332d3ab72cf41d4
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Interfund Services, Reimbursements and Transfers."
+    notes: "Interfund Services, Reimbursements and Transfers"
+  - id: oam-15-45-20
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/15.45.20.pdf"
+    sha256: 00589b1b55e0b328870eeed91798e15efc71055cf3233189bc02524c8c9a2194
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Interfund and interagency transactions-advances"
+  - id: oam-15-45-30
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/15.45.30.pdf"
+    sha256: 73b424de50e6d529875417ccb023db486e01e9fc3c5e76afd34d18f7f4f235d8
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Interfund and interagency transactions-Lottery"
+  - id: oam-15-50-00
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/15.50.00.pdf"
+    sha256: 16a7182460ed22dd2200863061c112140d420cade3afb6654f76648be5c551bf
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Inventories"
+  - id: oam-15-51-00
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/15.51.00.pdf"
+    sha256: 372bd01e229a9e58720a0561cce01e8f9cae95218a247bf9322412269543956c
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Outstanding Balances with Component Units"
+  - id: oam-15-55-00
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/15.55.00.pdf"
+    sha256: 70048246bf874c2cca0f75f5d53472348d802ad6eb240b20413cf3bb767ad598
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Non-capital assets"
   - id: oam-15-60-10
     url: "https://www.oregon.gov/das/Financial/Acctng/Documents/15.60.10.pdf"
     sha256: 6e81cd93e8ff756fd285a0d688d13f42c20eb71ce8f680192de81059b788dfca
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Capital Assets — Classification and Capitalization."
+    notes: "Capital Assets — Classification and Capitalization"
   - id: oam-15-60-20
     url: "https://www.oregon.gov/das/Financial/Acctng/Documents/15.60.20.pdf"
     sha256: 731f282292761f0212db0d8d8d2af2a8f38858242ce8947ed3a9dbae5f83167c
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Capital Assets — Depreciation and Amortization."
+    notes: "Capital Assets — Depreciation and Amortization"
   - id: oam-15-60-25
     url: "https://www.oregon.gov/das/Financial/Acctng/Documents/15.60.25.pdf"
     sha256: 4f9e730d70c8fd1a275c8e52e21240d1d45a6feab422c7aeb79ef51b0f1bab12
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Capital Asset Impairments."
+    notes: "Capital Asset Impairments"
+  - id: oam-15-60-30-draft
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/15.60.30%20draft.pdf"
+    sha256: 88c140c5d3b07cab53386c23063661725dfb1611d337ea2ee48fe2094f5abf89
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Capital Assets — Leases (pending draft revision)"
   - id: oam-15-60-30
     url: "https://www.oregon.gov/das/Financial/Acctng/Documents/15.60.30.pdf"
     sha256: a80e080cbb9d1ef3864316e7a84b5443fff6b3de0e73201902b66fb069ef0f9c
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Capital Leases."
+    notes: "Capital Leases"
   - id: oam-15-60-40
     url: "https://www.oregon.gov/das/Financial/Acctng/Documents/15.60.40.pdf"
     sha256: 09cf64073d0ee8f0eaf948c3b99d2d4b12de3be539e339a52274e4357486d79c
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Intangible Assets."
+    notes: "Intangible Assets"
+  - id: oam-15-65-10
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/15.65.10.pdf"
+    sha256: c4e1480358ce9cf08a3101c58f3fffc925d84e35eefde1d195af0a602ccc7fe1
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Bonds and Certificates of Participation"
+  - id: oam-15-65-20
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/15.65.20.pdf"
+    sha256: 238ff462c767a515d8c7971ae45e2c5db0347fe5a8999ad8e0b734565e404f9d
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Arbitrage"
+  - id: oam-15-65-30
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/15.65.30.pdf"
+    sha256: c492133b40b8ca615533203140591f05829f5896db5fe8cb3b51613fcee99c72
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Debt refunding"
+  - id: oam-15-70-00
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/15.70.00.pdf"
+    sha256: 663aaf2b5f5d7cf9dadb97dbb4016b52d66cefb1443ae86716c0f693403d974a
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Compensated absences"
+  - id: oam-15-75-00
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/15.75.00.pdf"
+    sha256: a772a424f7b47463be046146c66f75b0671d3b035a3486ff11e6c7b748278d6c
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Claims and judgments"
+  - id: oam-15-77-00
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/15.77.00.pdf"
+    sha256: e53cc8563fd1cab1b8b30e687c3213b18b5c19ecbd4d1913981fbf8575108ab7
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Pollution and remediation obligations"
   - id: oam-15-80-00
     url: "https://www.oregon.gov/das/Financial/Acctng/Documents/15.80.00.pdf"
     sha256: 9e2c4fe8b502342d7a149ea1f8550413524e14caaf680c0f25fadd493c299c02
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Commitments."
+    notes: "Commitments"
+  - id: oam-15-85-00
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/15.85.00.pdf"
+    sha256: f1bbdbdd3a67e61686dd719c2bc49ae7af96fd09ac4fa2c40f33822d4f5ddb2f
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Equities"
   - id: oam-15-92-00
     url: "https://www.oregon.gov/das/Financial/Acctng/Documents/15.92.00%20draft.pdf"
     sha256: 6bc7d3c2ebb352f926fcd582b98ee12c803a48c4c5f6ce98a601c56fbe10a0f0
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Accounting and Financial Reporting — Fiduciary Activities."
+    notes: "Accounting and Financial Reporting — Fiduciary Activities"
   - id: oam-15-95-00
     url: "https://www.oregon.gov/das/Financial/Acctng/Documents/15.95.00%20draft.pdf"
     sha256: b828f30f30590ef095359979aa5caf5f9e5c77caae043be48c3b9c7ee91916ae
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Year-End Closing and Statewide Balancing."
+    notes: "Year-End Closing and Statewide Balancing"
   - id: oam-15-97-00
     url: "https://www.oregon.gov/das/Financial/Acctng/Documents/15.97.00.pdf"
     sha256: d6ccd39a1836aaa621ddba2c95bb4c025ab47c76aa8202488d381aef7c480d85
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Agency Financial Reporting."
+    notes: "Agency Financial Reporting"
+  - id: oam-20-10-00
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/20.10.00.pdf"
+    sha256: 5f76f35e6dd101bd48f6d854fb9aa173e07e42ff8a9411a1b0f0fcf3916e01df
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Budget adoption and reporting"
   - id: oam-20-20-00
     url: "https://www.oregon.gov/das/Financial/Acctng/Documents/20.20.00.pdf"
     sha256: e3b0e42d759edb3d3c650fe72ee61cabce835dc2e5b9fc9866db8eb5da074cf5
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Encumbrances."
+    notes: "Encumbrances"
+  - id: oam-20-30-00-po
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/20.30.00.po.pdf"
+    sha256: cc1191130b06bcd19d8ce3a159ee9494afccb64531b74ce1494f4531d20b0db9
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Expenditure and interfund transfer recognition-policy"
+  - id: oam-20-30-00-pr
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/20.30.00.pr.pdf"
+    sha256: 6e6626d86b6a334ca88b02478b9217273054f4df921e9ad2ea65872affbe21d5
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Expenditure and interfund transfer recognition-procedure"
+  - id: oam-20-40-00
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/20.40.00.pdf"
+    sha256: 8e8254bf3dd0cf07b17a3f4496dec7538271bcb527145482f24501e03d8064d2
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Reduction of expense"
+  - id: oam-20-50-00
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/20.50.00.pdf"
+    sha256: 3f55b79e11cbba3e8cc3c81a5193c4ddb3be697e057d78004bbea38e9a4ffa25
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Revenue and interfund transfer recognition"
+  - id: oam-25-00-00-po
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/25.00.00.po.pdf"
+    sha256: 7d5ec1f197e048ea866cf3acbd5949fa96a86bc016bc810db17e3f6622ba6f97
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Management accounting-policy"
+  - id: oam-25-00-00-pr
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/25.00.00.pr.pdf"
+    sha256: bbf327db4a9cc957a8c5a16caf66173241bdf977a8fb06a53ff2488727707e65
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Management accounting-policy"
+  - id: oam-30-10-00-po
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/30.10.00.po.pdf"
+    sha256: c62a55e0582b301ed3bff2588182852d58137490dfa79fafd5cb090237b11298
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Statewide single audit- policy"
+  - id: oam-30-10-00-pr
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/30.10.00.pr.pdf"
+    sha256: e03b356fe1d170edfdb6ae4f5bb68ea9434cc5c9bc4efa3dd1e6d9cb5fd95912
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Statewide single audit-procedure"
+  - id: oam-30-20-00-po
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/30.20.00.po.pdf"
+    sha256: 38f11062c2ed2608839b98ff22d7712cf6844fb7dc481683116beb82e94c57d7
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Statewide central services cost allocation-policy"
+  - id: oam-30-20-00-pr
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/30.20.00.pr.pdf"
+    sha256: 9aa2056364f6cad0c92cc08177433cb8653ed6d103cbba10edb3f4f1defb4a38
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Statewide central services cost allocation-procedure"
+  - id: oam-30-30-00-po
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/30.30.00.po.pdf"
+    sha256: f70c273cf9afdd95933e125f6334312652d41ed845d993e18073ccf051f67365
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Cash management-policy"
+  - id: oam-30-30-00-pr
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/30.30.00.pr.pdf"
+    sha256: 8496215dfe313dac79dd79b6c895c703f9b5921b8355b7ec5057a51e2c512487
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Cash management-procedure"
   - id: oam-30-40-00
-    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/30.40.00%20-%20Subrecipient%20Monitoring.pdf"
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/30.40.00.pdf"
     sha256: bcab146c2229602e89ffb4c28742715b50575c2791cbfce7ac738103b19721fd
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Subrecipient Monitoring."
+    notes: "Subrecipient Monitoring"
+  - id: oam-35-05-00
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/35.05.00.pdf"
+    sha256: fd249be2e66b6c4104cd2e61f2ee7c91f3b1640dc87abc1b42f23abd956b8360
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Introduction"
+  - id: oam-35-20-20
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/35.20.20.pdf"
+    sha256: 9dcb483e9a33d6547b7fe4dfb6fba8d0533340a1faea12246605223feca62612
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Account establishment- debtor inform. gathering"
+  - id: oam-35-20-30
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/35.20.30.pdf"
+    sha256: ca3b8b17ca14059df548e3e34a8722272586ee4cbf06facd0c3fc5d0451c6980
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Account establishment-ability to pay/deny services"
+  - id: oam-35-30-10
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/35.30.10.pdf"
+    sha256: dc1b69f396621fe11488369ea21f3b91f66fa2ae3af28b743037e6cea2e44cdd
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Account activity- sch. collection activity"
+  - id: oam-35-30-20
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/35.30.20.pdf"
+    sha256: e2edbdcfa3110b06fb269a0655298e3caad94d11864c9354474a8f516fc85602
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Account activity- invoicing and interest"
+  - id: oam-35-30-30
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/35.30.30.pdf"
+    sha256: e5a052b6fb6199b82e3a9fe0ebb5589256ebf69679ff59958cdc84ed4c45c6cb
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Account activity-definitions-liquidated/delinquent"
+  - id: oam-35-30-40
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/35.30.40.pdf"
+    sha256: e53b2bcf96966830498ec023d221d9088ee2d15decb5c2c6eb4aaf862c02c9a7
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Account activity-telephone collections"
+  - id: oam-35-30-50
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/35.30.50.pdf"
+    sha256: 950af79730f5ac063e898e1733a2c56ea04461518f44adaff95f30a57d8d5a4b
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Account activity-letter collections"
+  - id: oam-35-30-60
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/35.30.60.pdf"
+    sha256: 0d458924cba9d501354ee04013b72af6b318f51c1cfcd3f6473c4b0a7f03e3fb
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Account activity-payment plans"
+  - id: oam-35-30-70
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/35.30.70.pdf"
+    sha256: d743e45e571c3bf0c7261f79a804a2d04c4913a461a205d301663fd05015fba9
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Account activity- skip tracing/asset location"
+  - id: oam-35-30-80
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/35.30.80.pdf"
+    sha256: 085be0a0465408b38c9a91dbc0b0a73e30b75c8657541c99d33c8e5652ca49c5
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Account activity - offers in compromise"
+  - id: oam-35-30-90
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/35.30.90.pdf"
+    sha256: 013a69cdefda5c0b2ae4dba994bbdbb19c518a86731d222701325828d23c309a
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Account activity-coordination of vendor payments"
+  - id: oam-35-40-10
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/35.40.10.pdf"
+    sha256: 6e36fdf2cf1d641b12ec3bb5fb28eb9835391308245b452d3bc9649b3015df0d
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Account assignments-assign./exemptions"
+  - id: oam-35-40-20
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/35.40.20.pdf"
+    sha256: 63f6bec6f9f13e922818ad7be6d93a6de74b64616edf08903e334096280e1e88
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Account assignments- collection fees"
+  - id: oam-35-40-30
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/35.40.30.pdf"
+    sha256: 3ab5c2ffc90d2f4c454bcd242fd30049ab3b22bcc313522918a729a841db5f6b
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Account assignments-Dept. of Revenue"
+  - id: oam-35-50-10
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/35.50.10.pdf"
+    sha256: 392d033c1c24a9d6827eada305fd945095f9a655b7734c3c08face3286a9d7a3
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Uncollectible accounts- write-off guidelines"
+  - id: oam-35-60-10
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/35.60.10.pdf"
+    sha256: 2379aa0743c75a7b924548f3b651b6ab04262d6b7bbf7ac660abb2a125b5b35d
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Receivable reports- reporting liquidated/delinquent accts."
+  - id: oam-35-60-20
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/35.60.20.pdf"
+    sha256: 87b2227a3251bd8a6f6d35deff7734d40ac10361349b89bf8bf757e09b336ff5
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Receivable reports -  accounts receivable performance measures"
+  - id: oam-35-70-10
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/35.70.10.pdf"
+    sha256: bdb22e2b2c2c5d6823d2e9e5763b57af13da5bbcb7823fadb22f12096bb43a94
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Interagency receivables- billings/payments/progressive actions"
+  - id: oam-40-10-00
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/40.10.00.pdf"
+    sha256: 470b8f2903a3e5226ae6291ec6cfa3787ebd0f39db6853fc483a1631c0f6b4bd
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Statewide travel policy"
+  - id: oam-40-20-00
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/40.20.00.pdf"
+    sha256: c91960cf809111369a5f741adf0da964e972086e5cb893853296732eb631b4c5
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Travel advances"
+  - id: oam-40-20-10-po
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/40.20.10.PO.pdf"
+    sha256: 01bff56e998e0c559a4378cebb0cd002a4b70589355d4d0aee36a127dfcaf863
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Corporate travel card-policy"
+  - id: oam-40-20-10-pr
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/40.20.10.PR.pdf"
+    sha256: 6a6a118e5d89cfb47ce8358fec3e0a91f82101fb3e4a2c2d362d8daaadb752d3
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Corporate travel card-procedure"
   - id: oam-45-05-00
     url: "https://www.oregon.gov/das/Financial/Acctng/Documents/45.05.00.pdf"
     sha256: c9bb145083855061e5ec2019b5ce5cb3e7b3b40fecd05a3cf615a66e5b1a16e9
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Regular Pay Days."
+    notes: "Regular Pay Days"
   - id: oam-45-06-00
     url: "https://www.oregon.gov/das/Financial/Acctng/Documents/45.06.00.pdf"
     sha256: 46fa401c49996ddd66e4d8e8ace19fefab2685664a1f816be4c7a6d3b3b3b107
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Sick Leave Balances at Retirement."
+    notes: "Sick Leave Balances at Retirement"
+  - id: oam-45-07-00
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/45.07.00.pdf"
+    sha256: f89b4ff593ad1e84995e171ff5679bcbeba86ab78a5fc3ede219ef63b726cb0e
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Time record approval and leave report review"
+  - id: oam-45-10-00-po
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/45.10.00.po.pdf"
+    sha256: cdaf5f707fe3708c5cb3216b55d810bd0e58732b3dd643cdbab0baa2c6d1daf3
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Voluntary deductions- policy"
+  - id: oam-45-10-00-pr
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/45.10.00.pr.pdf"
+    sha256: 07465104ee377ad02b97aabaa80c562a293112c73ae7ac165307da74ab570963
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Voluntary deductions-procedure"
   - id: oam-45-10-00
     url: "https://www.oregon.gov/das/Financial/Acctng/Documents/45.10.00%20Voluntary%20Deductions-Final%20Draft.pdf"
     sha256: 90cdd6e2471b8331f20287a1e27ee62135f242a0430cd92a8baf318b44db667f
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Voluntary Deductions."
+    notes: "Voluntary Deductions"
+  - id: oam-45-15-00-po
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/45.15.00.po.pdf"
+    sha256: cca654913cb2c2326473f57f0ebc7003815132026950a295d755be735d1a05d2
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Payroll accounts reimbursement-policy"
+  - id: oam-45-15-00-pr
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/45.15.00.pr.pdf"
+    sha256: 000033d4c7d2ba4f84b6183aac8f1a14d36b678273ed7901d2c2786123ac6c11
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Payroll accounts reimbursement-procedure"
   - id: oam-45-15-00
     url: "https://www.oregon.gov/das/Financial/Acctng/Documents/45.15.00%20Payroll%20Accounts%20Reimb-Final%20Draft.pdf"
     sha256: 97e2fa4e49a24026c8336e41d36799635271ff16571c976d77e742132f89eb65
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Payroll Accounts Reimbursement."
+    notes: "Payroll Accounts Reimbursement"
   - id: oam-45-17-00
     url: "https://www.oregon.gov/das/Financial/Acctng/Documents/45.17.00.pdf"
     sha256: 7f27fb41ed2a37d6cfe0572f469687667a0769c12f420263181b7b9c6ad31131
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Payroll Data Integrity."
+    notes: "Payroll Data Integrity"
   - id: oam-45-20-00
     url: "https://www.oregon.gov/das/Financial/Acctng/Documents/45.20.00.pdf"
     sha256: 11dcfa4364e25bb0b31c925b16d990fb2933c7180ac7c9c281214309084fd3b5
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Cash Insurance Payments."
+    notes: "Cash Insurance Payments"
+  - id: oam-45-25-00-po
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/45.25.00.po.pdf"
+    sha256: 7d06fa05bd92a8d19001933b7e33700dde35d6c3dd3c0e6408ee128ae41a8ec0
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Salary advances-policy"
+  - id: oam-45-25-00-pr
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/45.25.00.pr.pdf"
+    sha256: 639523cc2186e1e9ddb36ffdb4a51a3d47989d73112338a2a7d3fbd794f838ea
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Salary advances-procedures"
   - id: oam-45-25-00
     url: "https://www.oregon.gov/das/Financial/Acctng/Documents/45.25.00%20Salary%20Advances-DRAFT.pdf"
     sha256: 7b228623f7531ad5ee78e1b40e5c39e2d2ec6158a6029ce9c21c9f5ce4179ce6
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Salary Advances."
+    notes: "Salary Advances"
   - id: oam-45-30-00
     url: "https://www.oregon.gov/das/Financial/Acctng/Documents/45.30.00.pdf"
     sha256: d21f4114f13df6f4d23f7d84579a5424aa5d900d5d132d3e085c4e5caafeff3e
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Dual Update Access to PPDB and OSPA."
+    notes: "Dual Update Access to PPDB and OSPA"
+  - id: oam-45-35-00-po
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/45.35.00.po.pdf"
+    sha256: d5ef2e2a3da57685b808c77dbce083fee62c5dd96511fe93aac17c00ce04383e
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Review of gross pay adjust. reports- policy"
+  - id: oam-45-35-00-pr
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/45.35.00.pr.pdf"
+    sha256: 1a77483692a856e6aa68e325c84ff8779a7b603e2fc20ca7707b1c07c893b6b6
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Review of gross pay adjust. reports-procedure"
   - id: oam-45-35-00
     url: "https://www.oregon.gov/das/Financial/Acctng/Documents/45.35.00%20Review%20of%20Gross%20Pay%20Adjustments%20-%20DRAFT.pdf"
     sha256: 27de27ea96fd438c31b1946cabb85243d6f1a20a5f0a3202136da59ea13adf04
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Review of Gross Pay Adjustments."
+    notes: "Review of Gross Pay Adjustments"
   - id: oam-45-37-00
     url: "https://www.oregon.gov/das/Financial/Acctng/Documents/45.37.00.pdf"
     sha256: ebc6f8e3774a74c2ad0fa0d1c5b4434bb01e7b710c378d8fecdc5f9180df0da6
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Review of Month End Leave Reports."
+    notes: "Review of Month End Leave Reports"
   - id: oam-45-40-00
     url: "https://www.oregon.gov/das/Financial/Acctng/Documents/45.40.00.pdf"
     sha256: c8ba5563dd436bbad6bf33f6ba497ca2fd7fe253af5c6a051e10ba512741e7d4
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Reimbursement of Employee Expenses Through OSPA."
+    notes: "Reimbursement of Employee Expenses Through OSPA"
   - id: oam-45-42-00
     url: "https://www.oregon.gov/das/Financial/Acctng/Documents/45.42.00.pdf"
     sha256: c1db66cf488f57a837a5173cf91af08d49a54b66e0dad199ab42e844d4dcc745
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Distributions Accompanying Payroll Payment."
+    notes: "Distributions Accompanying Payroll Payment"
   - id: oam-45-45-00
     url: "https://www.oregon.gov/das/Financial/Acctng/Documents/45.45.00.pdf"
     sha256: 42675b36fc3987a0a5c4472855c375b459f345307cb6a4a094794308834347ab
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Separation of Duties."
+    notes: "Separation of Duties"
+  - id: oam-45-50-00
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/45.50.00.pdf"
+    sha256: 75c43fd387fea87982e96ddf7c610775ee75319cc4c889e5c700a46db0073bd5
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Collection of Overpayment of Wages"
+  - id: oam-45-55-00
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/45.55.00.pdf"
+    sha256: 108d0366df8853351ea3e03f41b60bc9c79ca744046d8fde89056ef4433a39bb
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Collection of Employee Benefit Payment Amounts Paid by the Employers"
+  - id: oam-50-10-00-po
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/50.10.00.po.pdf"
+    sha256: 09c3b33e750f76937abec05e49e6cac164355992bfbd19f7cbb71344ae999503
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Education assistance payments-policy"
+  - id: oam-50-10-00-pr
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/50.10.00.pr.pdf"
+    sha256: 03d2af76f969012ffd62747c20157268c1c2d8c1b72b2f1cc8185e767ab93226
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Education assistance payments-procedure"
   - id: oam-50-10-00
     url: "https://www.oregon.gov/das/Financial/Acctng/Documents/OAM_50.10.00_Education_Assistance_Payments.pdf"
     sha256: d0ed1ca6829fa638b1d206fe59a160ca83c0e03b598beaa08e0ea6744499f275
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Education Assistance Payments."
+    notes: "Education Assistance Payments"
+  - id: oam-50-20-00
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/50.20.00.pdf"
+    sha256: 99219e01768c985454f35b246a27961cd51390b680dd2cf3a5a85ba0f6f974a9
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Tax Issues - Moving Expenses"
+  - id: oam-50-30-00-po
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/50.30.00.po.pdf"
+    sha256: 7669abd84e5817efe02e93700e47c55aa2220e44af58453badd892bc771c9f15
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Fringe benefits-vehicles policy"
+  - id: oam-50-30-00-pr
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/50.30.00.pr.pdf"
+    sha256: bc46392b88c311afa6decab344c248ac556907415c260f5d1bc6bed7609e0447
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Fringe benefits-vehicles procedure"
   - id: oam-50-30-00
     url: "https://www.oregon.gov/das/Financial/Acctng/Documents/OAM_50.30.00_Tax_Issues_-_Fringe_Benefits-Vehicles.pdf"
     sha256: 60c2b72300bce64baa063afc15f94649caa7939d7f44edab4efbc5226688e5e2
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Tax Issues — Fringe Benefits — Vehicles."
+    notes: "Tax Issues — Fringe Benefits — Vehicles"
+  - id: oam-50-50-00-po
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/50.50.00.po.pdf"
+    sha256: 90aaa68f22e0efba5a8ca96a65bebef95311d8b15ac8a9271b7eb4af0bba8081
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "1099-misc. reporting- policy"
+  - id: oam-50-50-00-pr
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/50.50.00.pr.pdf"
+    sha256: b93f359c1bbfc64f1bd023ee953e97be01971fdee24610cf110f633e385916c8
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "1099-misc. reporting-procedure"
   - id: oam-50-50-00
     url: "https://www.oregon.gov/das/Financial/Acctng/Documents/OAM_50.50.00_1099-MISC.pdf"
     sha256: 736bf858d4977f58e1fff6c023ca7a17db0ea333b64bc0c4b38e15c65dfac5f6
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "1099-MISC."
+    notes: "1099-MISC"
+  - id: oam-50-60-00-po
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/50.60.00.po.pdf"
+    sha256: 07bb2122d069a4c32b5bc6ba1a426851b80c4157f298803524a8839ce9901854
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Mass transit tax-policy"
+  - id: oam-50-60-00-pr
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/50.60.00.pr.pdf"
+    sha256: 962b42a2c959da24513852ff1a035c581c9e9684fe12217a3298a25ee4730653
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Mass transit tax-procedure"
   - id: oam-50-60-00
     url: "https://www.oregon.gov/das/Financial/Acctng/Documents/OAM_50.60.00_Mass_Transit_Tax.pdf"
     sha256: cb5de6759f4b582ace9868fe9cb956011514d3b044f86012a7d9c0b280b7ff52
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Mass Transit Tax."
+    notes: "Mass Transit Tax"
+  - id: oam-55-30-00-appendix-a
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/55.30.00_Appendix_A.pdf"
+    sha256: deef9a219a75f78eb808c4672db3c4744f92947a8540646979a799f4ba610cad
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "SPOTS Card Program blocked MCCs - appendix A"
+  - id: oam-55-30-00-appendix-b
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/55.30.00_Appendix_B.xls"
+    sha256: 9ba9177d3f15cd6732c79be4cc68b3c5e4960f9da2e0978eba02055061909691
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "SPOTS Card Program log example- appendix B"
   - id: oam-55-30-00
     url: "https://www.oregon.gov/das/Financial/Acctng/Documents/55.30.00.pdf"
     sha256: 16c3a749e626d8b221e4a671527125e9c9adc99cac8664125e517c0938884bcf
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Other Programs — SPOTS Purchase Card Program."
+    notes: "Other Programs — SPOTS Purchase Card Program"
   - id: oam-60-10-00
     url: "https://www.oregon.gov/das/Financial/Acctng/Documents/60.10.00.pdf"
     sha256: e81fc9fd329cb24c0910204a7426cba3e1520984fb092aa080ebf1b0d0aeba60
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "General Ledger Accounts."
+    notes: "General Ledger Accounts"
   - id: oam-60-20-00
     url: "https://www.oregon.gov/das/Financial/Acctng/Documents/60.20.00.pdf"
     sha256: d33b9b8c01e8ed4f9fcc07b64a9bcec8788dcc5770fc1b9bdeb162e201640187
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Comptroller Objects by Financial Statement Classification."
+    notes: "Comptroller Objects by Financial Statement Classification"
   - id: oam-60-30-00
-    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/60.30.00%20draft.pdf"
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/60.30.00.pdf"
     sha256: e4de28e95bb7784deb2a0e63b8a9861bdbb7252c9e9472966342864f2de1867b
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Comptroller Objects — Numeric Sequence."
+    notes: "Comptroller Objects — Numeric Sequence"
   - id: oam-65-00-00
     url: "https://www.oregon.gov/das/Financial/Acctng/Documents/65.00.00.pdf"
     sha256: 5b707ee66b5423ced1d1a7e54f7a59bc6dc7b37bfdd42a98e7c04d341c99c28f
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Definitions (Glossary)."
+    notes: "Definitions (Glossary)"
+  - id: oam-70-10-00
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/70.10.00.pdf"
+    sha256: 61054cd96820f2680b1b4eb8be9281b23b57bf8db4900226d530cc77d62dc03e
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Current agencies - Alpha sequence"
   - id: oam-70-20-00
     url: "https://www.oregon.gov/das/Financial/Acctng/Documents/70.20.00.pdf"
     sha256: a4a7c7fa61662b8eb4addc91c51470203210df73b2405a86ca6ba2aa92af8b8e
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Current Agencies — Numeric Sequence."
+    notes: "Current Agencies — Numeric Sequence"
+  - id: oam-70-30-00
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/70.30.00%20Agencies%20Obsolete%20Alpha.pdf"
+    sha256: c573af1695ed27b4dd69f5977f22df90bc45a2820f6dbb952193d60b262fa301
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Obsolete Agencies - Alpha Sequence"
+  - id: oam-70-40-00
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/70.40.00%20Agencies%20Obsolete%20Numeric.pdf"
+    sha256: 36fa1005bfcefa2d2ff7e7e7973212656673058c9a207edac43b846bbd838d26
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Obsolete Agencies - Numeric Sequence"
+  - id: oam-75-30-01-fo
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/75.30.01.fo.pdf"
+    sha256: ca9a1e721424c247d3b57ba5b01081059eb9369f4e6f344fa6bd2450b4cbb903
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Uniform Guidance Subpart F Review Checklist"
+  - id: oam-75-30-02-fo
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/75.30.02.fo.pdf"
+    sha256: 7a9ef73578ca92874258e471237c854e3f8f355dbd3409767b460550534f2f2e
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Sample completion letter for sub recipient monitoring"
   - id: oam-75-30-02
     url: "https://www.oregon.gov/das/Financial/Acctng/Documents/75.30.02.FO%20Sample%20Completion%20Letter.pdf"
     sha256: e1c3b4a81e9cbdfb1bcd44d77e07f7bc4c214acb68d7af89fbf48835876c77b6
     last_checked: "2026-07-18"
     recheck: monthly
-    notes: "Sample Completion Letter for Review of Subrecipient Single Audit."
+    notes: "Sample Completion Letter for Review of Subrecipient Single Audit"
+  - id: oam-75-35-01-fo
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/75.35.01.fo.pdf"
+    sha256: 448e5534e1c2391190ef5baf85e3a8f1a8a0bc7b80415efb1d14447f97591983
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Agency documentation for self-exempting accounts"
+  - id: oam-75-35-02-fo
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/75.35.02.fo.pdf"
+    sha256: 55c80d00422aba90d3d48a4aaa77a965353e4edf683e27b3bbf2e66e8bc9b5fc
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Request for exemption from assignment"
+  - id: oam-75-35-03-fo
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/75.35.03.fo.pdf"
+    sha256: 6d70741508a6c42f384eee3c006bc27ee41a4742d9f942abc17dfebafdd8ba45
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Sample inter-agency invoice"
+  - id: oam-75-35-04-fo
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/75.35.04.fo.pdf"
+    sha256: 9229c0c283aeaeeb12ea86918ef3c31a725cd0ab534b4173df02680d0566896f
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Inter-agency invoice inquiry"
+  - id: oam-75-35-05-fo
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/75.35.05.fo.pdf"
+    sha256: a61542da2ef4d1df6fea47337f4fb19f3643094be70f107dbee8e3ca662616ca
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Account contact record"
+  - id: oam-75-35-07-fo
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/75.35.07.fo.pdf"
+    sha256: 6765da0af2e5900316d5971cc26bfb91b1b1fff5e7b5b2765dd6634435e9d010
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "IDRP inquiry notifcation"
+  - id: oam-75-35-08-fo
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/75.35.08.fo.pdf"
+    sha256: 3a193725eed4185a39928cd74130b66120f3bf21432601c9ec2a2c0211cc044e
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "IDRP inquiry response"
+  - id: oam-75-35-09-fo
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/75.35.09.fo.pdf"
+    sha256: 796580aac8ac27e777419980300934bb5b9551621f839c4d1f0ed4951990ffcd
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "IDRP finding and order"
+  - id: oam-75-35-10-fo
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/75.35.10.fo.pdf"
+    sha256: 1eca598fc8c2b54490d87dc88d02462ab5d445dd2de29a100f0c900443b730a9
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Sample invoice"
+  - id: oam-75-35-11-fo
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/75.35.11.fo.pdf"
+    sha256: 79c575a510fc99127fb606066b0f370ce270c19b11544b19d73636e37ba8e200
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Exemption from 90-day turnover request"
+  - id: oam-75-35-12-fo
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/75.35.12.fo.xlsx"
+    sha256: 6096c0f78934824b88c8095d59aaf043f256754347ab1de786fe7b2df2258921
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Accounts receivable performance measures report"
+  - id: oam-75-35-13-fo
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/75.35.13.fo.pdf"
+    sha256: 22515bf96a53d403ea885696976388ef8ddf2157985550d3d64c3398edf87013
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Write-off certification form"
+  - id: oam-75-35-14-fo
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/75.35.14.fo.pdf"
+    sha256: 6916d776bf5775165daaff09c94dd0230a61ab042727a2d6002abc53f2caf737
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Offer in Compromise Approval form"
+  - id: oam-75-35-15-fo
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/75.35.15.fo.pdf"
+    sha256: ab50bc1851f567d8bddd33213cf6a3f8f9945052958481bb6cff8d691e7e6f89
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Annual Certification: Write-off, Abated, and Canceled Debt"
+  - id: oam-75-40-01-fo
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/75.40.01.fo.xlsx"
+    sha256: 7cfc0c3b730ba8fb3dfa592cfceaecd7d994d98f108447782dd2af1529223a40
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Travel Expense Detail Sheet"
+  - id: oam-75-40-02-fo
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/75.40.02.FO.pdf"
+    sha256: 83d0c78f185a6c521aa03e06d0e4c836de09709c96f3beef26a1507ef9a90437
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Employee report of travel awards"
+  - id: oam-75-40-03-fo
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/75.40.03.FO.pdf"
+    sha256: 7c55ca93eb3f93557e3b2b0b7197096a53920da9a0f4a2e335b8b632bbae3336
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Corporate travel card agreement"
+  - id: oam-75-40-04-fo
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/75.40.04.fo.pdf"
+    sha256: 19bebd709b1beb74925d9098b0f6b139c12e4e381c0b221476a7ecc3f09384f1
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "U.S. Bank corporate card application"
+  - id: oam-75-40-05-fo
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/75.40.05.FO.pdf"
+    sha256: 1e01696cef39214924aa44be637d4e5018f99123ff2119c604250c43a3bf07c5
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Authorization to use private vehicle"
+  - id: oam-75-45-01-fo
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/75.45.01.fo.pdf"
+    sha256: 59f5ff2005c6e4922edff3fdfa70d0b4e66d16d0a0427bd1e00936e4d971b3fb
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Authorized OSPA signatures"
+  - id: oam-75-45-02-fo
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/75.45.02.fo.pdf"
+    sha256: 3ca1240bebc1a2135b917eb65f6ef1b248a5f40da0e12d027ab6fb7c51d68298
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Request for payroll advance"
+  - id: oam-75-55-01-fo
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/75.55.01.fo.pdf"
+    sha256: 6dc629cd54aec81effbad80d3f560ecef52aeb1628ad0536af58992b602fb13c
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "SPOTS agency operating agreement"
+  - id: oam-75-55-02-fo
+    url: "https://www.oregon.gov/das/Financial/Acctng/Documents/75.55.02.fo.pdf"
+    sha256: 7e743c314172b5d5e82c33da4d821456c565a05723a298832c0adb9a69dee5ea
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "SPOTS card application and agreement"
   # ---- ORS (one chapter HTML snapshot shared by section documents via snapshot_id) ----
   - id: ors-chapter-276a
     url: https://www.oregonlegislature.gov/bills_laws/ors/ors276A.html

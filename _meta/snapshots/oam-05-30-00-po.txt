@@ -1,0 +1,40 @@
+                                                                                                 Statewide Policy
+
+
+
+OREGON ACCOUNTING MANUAL
+Subject:       Accounting and Financial Reporting                              Number:        05.30.00.PO
+Division:      State Controller’s Division                                     Effective date: February 12, 2008
+Chapter:       Relational Statewide Accounting and Reporting System (R*STARS)
+Part:          General Ledger and Object Structure
+Section:
+
+Approved:      John Radford, State Controller                                  Signature on file at SCD
+
+
+
+Authority         ORS 291.015
+                  ORS 293.590
+                  ORS 293.595
+
+
+Maintenance of General Ledger and Object Tables
+
+        .101      Statewide Financial Management Services (SFMS) Operations is responsible for maintaining the
+                  general ledger and comptroller object tables in the Relational Statewide Accounting and
+                  Reporting System (R*STARS). Statewide Accounting and Reporting Services will provide advice
+                  and assistance to SFMS Operations to ensure that general ledger and comptroller object
+                  definitions are in accordance with generally accepted accounting principles.
+
+
+Agency Management’s Responsibility
+
+        .102      Agency fiscal management is responsible for ensuring that fiscal staff make appropriate decisions
+                  regarding the use of general ledger accounts and comptroller objects, in order to ensure the
+                  accuracy and consistency of statewide financial reporting.
+
+
+
+
+                                                                                                          05 30 00.PO.1
+

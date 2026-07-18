@@ -1,0 +1,1331 @@
+{
+ "note": "Normalized snapshot of the OAM listing of record: the 16 'OAM Chapter NN' SharePoint views on /das/Financial/Acctng/Documents, as rendered by das/financial/osc/pages/oam.aspx. Diff key = document id; a change = effective_date or file_ref changed.",
+ "retrieved": "2026-07-18",
+ "list_url": "/das/Financial/Acctng/Documents",
+ "api": "POST https://www.oregon.gov/das/Financial/Acctng/_api/web/GetList('/das/Financial/Acctng/Documents')/RenderListDataAsStream?View=<view_guid> body {\"parameters\":{\"__metadata\":{\"type\":\"SP.RenderListDataParameters\"},\"RenderOptions\":2}}",
+ "views": {
+  "01": "d546b2a9-1844-4d08-b3a5-5f626c0cd5e6",
+  "05": "995b0014-4233-432c-a9de-447c67bd3695",
+  "10": "06c13a55-d038-4383-b631-4cd3f06c47f0",
+  "15": "fc5345bd-ec42-402b-8517-e4609b62a0e8",
+  "20": "6380d498-664f-48f8-8ea6-241f931034f8",
+  "25": "b29e5811-9ff0-4e40-9cae-a646ffbed20f",
+  "30": "79b9c6e5-8552-476b-8866-0dc92d3c2dea",
+  "35": "3ffdefb5-823a-4e7b-b9ac-51d1631a96a0",
+  "40": "2290dc8b-ffe0-4308-9e73-fa3eaa4a1fc9",
+  "45": "bb9aca6f-f783-40f0-8aec-3d6ced13e3f8",
+  "50": "83fdd440-8046-466f-92ce-9f665ec5a4ea",
+  "55": "bfb3c40a-a41b-464d-aea4-0830a5174a1b",
+  "60": "e0912481-61a7-471d-a616-ac26d5a925b6",
+  "65": "0400fe9e-a88f-4108-affd-f4936a31ccea",
+  "70": "776f6419-6f44-4580-859e-aa4edc555418",
+  "75": "b03cd3bc-5c1d-42d9-b149-bf2d82aac799"
+ },
+ "chapters": {
+  "01": {
+   "name": "01 - Introduction",
+   "rows": [
+    {
+     "id": "01",
+     "title": "01 Complete Chapter",
+     "effective_date": "",
+     "file_ref": "/das/Financial/Acctng/Documents/01 Introduction search.pdf",
+     "size": 296279
+    },
+    {
+     "id": "01.05.00",
+     "title": "Scope and applicability",
+     "effective_date": "01/01/2025",
+     "file_ref": "/das/Financial/Acctng/Documents/01.05.00.pdf",
+     "size": 171121
+    },
+    {
+     "id": "01.10.00",
+     "title": "Roles and responsibilities",
+     "effective_date": "07/01/2001",
+     "file_ref": "/das/Financial/Acctng/Documents/01.10.00.pdf",
+     "size": 133505
+    }
+   ]
+  },
+  "05": {
+   "name": "05 - R*STARS",
+   "rows": [
+    {
+     "id": "05",
+     "title": "05 Complete Chapter",
+     "effective_date": "",
+     "file_ref": "/das/Financial/Acctng/Documents/05 RStars search.pdf",
+     "size": 697500
+    },
+    {
+     "id": "05.10.00",
+     "title": "Overview",
+     "effective_date": "2/12/2008",
+     "file_ref": "/das/Financial/Acctng/Documents/05.10.00.pdf",
+     "size": 87876
+    },
+    {
+     "id": "05.20.00",
+     "title": "Fund and appropriation structure",
+     "effective_date": "01/22/2018",
+     "file_ref": "/das/Financial/Acctng/Documents/05.20.00.pdf",
+     "size": 332522
+    },
+    {
+     "id": "05.30.00.po",
+     "title": "General ledger and object structure policy",
+     "effective_date": "02/12/2008",
+     "file_ref": "/das/Financial/Acctng/Documents/05.30.00.po.pdf",
+     "size": 124536
+    },
+    {
+     "id": "05.30.00.pr",
+     "title": "General ledger and object structure procedure",
+     "effective_date": "02/12/2008",
+     "file_ref": "/das/Financial/Acctng/Documents/05.30.00.pr.pdf",
+     "size": 75791
+    },
+    {
+     "id": "05.35.00.po",
+     "title": "Transaction code structure policy",
+     "effective_date": "02/12/2008",
+     "file_ref": "/das/Financial/Acctng/Documents/05.35.00.po.pdf",
+     "size": 124995
+    },
+    {
+     "id": "05.35.00.pr",
+     "title": "Transaction code structure procedure",
+     "effective_date": "02/12/2008",
+     "file_ref": "/das/Financial/Acctng/Documents/05.35.00.pr.pdf",
+     "size": 127326
+    }
+   ]
+  },
+  "10": {
+   "name": "10 - Internal control",
+   "rows": [
+    {
+     "id": "10",
+     "title": "10 Complete Chapter",
+     "effective_date": "",
+     "file_ref": "/das/Financial/Acctng/Documents/10 Internal Controls search.pdf",
+     "size": 2070765
+    },
+    {
+     "id": "10.10.00.po",
+     "title": "Management's responsibilities policy",
+     "effective_date": "07/01/2001",
+     "file_ref": "/das/Financial/Acctng/Documents/10.10.00.po.pdf",
+     "size": 89340
+    },
+    {
+     "id": "10.10.00.pr",
+     "title": "Management's responsibilities procedure",
+     "effective_date": "07/01/2001",
+     "file_ref": "/das/Financial/Acctng/Documents/10.10.00.pr.pdf",
+     "size": 211781
+    },
+    {
+     "id": "10.15.00.po",
+     "title": "Transaction documentation requirements-policy",
+     "effective_date": "12/01/2004",
+     "file_ref": "/das/Financial/Acctng/Documents/10.15.00.po.pdf",
+     "size": 69562
+    },
+    {
+     "id": "10.20.00",
+     "title": "Cash",
+     "effective_date": "01/27/2026",
+     "file_ref": "/das/Financial/Acctng/Documents/10.20.00.pdf",
+     "size": 251591
+    },
+    {
+     "id": "10.30.00.po",
+     "title": "Revenues-policy",
+     "effective_date": "07/01/2001",
+     "file_ref": "/das/Financial/Acctng/Documents/10.30.00.po.pdf",
+     "size": 12391
+    },
+    {
+     "id": "10.30.00.pr",
+     "title": "Revenues-procedure",
+     "effective_date": "07/01/2001",
+     "file_ref": "/das/Financial/Acctng/Documents/10.30.00.pr.pdf",
+     "size": 77366
+    },
+    {
+     "id": "10.35.00.po",
+     "title": "Credit card acceptance for payment-policy",
+     "effective_date": "04/17/2008",
+     "file_ref": "/das/Financial/Acctng/Documents/10.35.00.po.pdf",
+     "size": 77028
+    },
+    {
+     "id": "10.35.00.pr",
+     "title": "Credit card acceptance for payment-procedure",
+     "effective_date": "04/17/2008",
+     "file_ref": "/das/Financial/Acctng/Documents/10.35.00.pr.pdf",
+     "size": 205018
+    },
+    {
+     "id": "10.40.00",
+     "title": "Expenditures",
+     "effective_date": "01/27/2026",
+     "file_ref": "/das/Financial/Acctng/Documents/10.40.00.pdf",
+     "size": 199656
+    },
+    {
+     "id": "10.40.10",
+     "title": "Non-travel meals and refreshments-policy",
+     "effective_date": "07/28/2003",
+     "file_ref": "/das/Financial/Acctng/Documents/10.40.10.pdf",
+     "size": 108596
+    },
+    {
+     "id": "10.50.00.po",
+     "title": "Capital and non-capital assets-policy",
+     "effective_date": "07/01/2001",
+     "file_ref": "/das/Financial/Acctng/Documents/10.50.00.po.pdf",
+     "size": 92184
+    },
+    {
+     "id": "10.50.00.pr",
+     "title": "Capital and non-capital assets-procedure",
+     "effective_date": "01/02/2002",
+     "file_ref": "/das/Financial/Acctng/Documents/10.50.00.pr.pdf",
+     "size": 122264
+    },
+    {
+     "id": "10.55.00",
+     "title": "Employee assigned property-policy",
+     "effective_date": "02/02/2002",
+     "file_ref": "/das/Financial/Acctng/Documents/10.55.00.pdf",
+     "size": 24612
+    },
+    {
+     "id": "10.60.00.po",
+     "title": "Information technology-policy",
+     "effective_date": "08/01/2010",
+     "file_ref": "/das/Financial/Acctng/Documents/10.60.00.po.pdf",
+     "size": 81261
+    },
+    {
+     "id": "10.60.00.pr",
+     "title": "Information technology-procedure",
+     "effective_date": "10/01/2007",
+     "file_ref": "/das/Financial/Acctng/Documents/10.60.00.pr.pdf",
+     "size": 123620
+    },
+    {
+     "id": "10.65.00.po",
+     "title": "Approval of proposed fiscal systems-policy",
+     "effective_date": "07/29/2003",
+     "file_ref": "/das/Financial/Acctng/Documents/10.65.00.po.pdf",
+     "size": 72097
+    },
+    {
+     "id": "10.70.00",
+     "title": "Security access to financial systems",
+     "effective_date": "06/14/2017",
+     "file_ref": "/das/Financial/Acctng/Documents/10.70.00.pdf",
+     "size": 230892
+    },
+    {
+     "id": "10.75.00",
+     "title": "ACH security",
+     "effective_date": "10/01/2010",
+     "file_ref": "/das/Financial/Acctng/Documents/10.75.00.pdf",
+     "size": 138047
+    },
+    {
+     "id": "10.80.00.po",
+     "title": "Auditing-policy",
+     "effective_date": "07/01/2003",
+     "file_ref": "/das/Financial/Acctng/Documents/10.80.00.po.pdf",
+     "size": 74188
+    },
+    {
+     "id": "10.80.00.pr",
+     "title": "Auditing-procedure",
+     "effective_date": "07/01/2003",
+     "file_ref": "/das/Financial/Acctng/Documents/10.80.00.pr.pdf",
+     "size": 84541
+    },
+    {
+     "id": "10.90.00",
+     "title": "Approval of agency head transactions-policy",
+     "effective_date": "07/16/2001",
+     "file_ref": "/das/Financial/Acctng/Documents/10.90.00.pdf",
+     "size": 84294
+    }
+   ]
+  },
+  "15": {
+   "name": "15 - Accounting & financial reporting",
+   "rows": [
+    {
+     "id": "15",
+     "title": "15 Complete Chapter",
+     "effective_date": "",
+     "file_ref": "/das/Financial/Acctng/Documents/15 Accounting and Financial Reporting search.pdf",
+     "size": 4108670
+    },
+    {
+     "id": "15.05.00",
+     "title": "GAAP hierarchy",
+     "effective_date": "02/13/2017",
+     "file_ref": "/das/Financial/Acctng/Documents/15.05.00.pdf",
+     "size": 96367
+    },
+    {
+     "id": "15.10.00",
+     "title": "Cash and cash equivalents",
+     "effective_date": "06/01/2013",
+     "file_ref": "/das/Financial/Acctng/Documents/15.10.00.pdf",
+     "size": 95437
+    },
+    {
+     "id": "15.15.00",
+     "title": "Investments",
+     "effective_date": "05/01/2013",
+     "file_ref": "/das/Financial/Acctng/Documents/15.15.00.pdf",
+     "size": 170889
+    },
+    {
+     "id": "15.20.00",
+     "title": "Derivative instruments",
+     "effective_date": "07/16/2015",
+     "file_ref": "/das/Financial/Acctng/Documents/15.20.00.pdf",
+     "size": 175223
+    },
+    {
+     "id": "15.30.00",
+     "title": "Securities lending",
+     "effective_date": "07/01/2012",
+     "file_ref": "/das/Financial/Acctng/Documents/15.30.00.pdf",
+     "size": 96747
+    },
+    {
+     "id": "15.35.00",
+     "title": "Revenues and receivables",
+     "effective_date": "01/31/2013",
+     "file_ref": "/das/Financial/Acctng/Documents/15.35.00.pdf",
+     "size": 237125
+    },
+    {
+     "id": "15.40.00",
+     "title": "Expenses, Expenditures, and Payables",
+     "effective_date": "09/10/2018",
+     "file_ref": "/das/Financial/Acctng/Documents/15.40.00.pdf",
+     "size": 94140
+    },
+    {
+     "id": "15.41.00",
+     "title": "Withholding from non-state entities",
+     "effective_date": "09/16/2014",
+     "file_ref": "/das/Financial/Acctng/Documents/15.41.00.pdf",
+     "size": 105981
+    },
+    {
+     "id": "15.42.00",
+     "title": "Federal grants",
+     "effective_date": "04/01/2013",
+     "file_ref": "/das/Financial/Acctng/Documents/15.42.00.pdf",
+     "size": 298672
+    },
+    {
+     "id": "15.45.10",
+     "title": "Interfund and interagency transactions-services",
+     "effective_date": "03/01/2013",
+     "file_ref": "/das/Financial/Acctng/Documents/15.45.10.pdf",
+     "size": 185770
+    },
+    {
+     "id": "15.45.20",
+     "title": "Interfund and interagency transactions-advances",
+     "effective_date": "06/01/2012",
+     "file_ref": "/das/Financial/Acctng/Documents/15.45.20.pdf",
+     "size": 105249
+    },
+    {
+     "id": "15.45.30",
+     "title": "Interfund and interagency transactions-Lottery",
+     "effective_date": "07/01/2013",
+     "file_ref": "/das/Financial/Acctng/Documents/15.45.30.pdf",
+     "size": 145601
+    },
+    {
+     "id": "15.50.00",
+     "title": "Inventories",
+     "effective_date": "07/01/2011",
+     "file_ref": "/das/Financial/Acctng/Documents/15.50.00.pdf",
+     "size": 104463
+    },
+    {
+     "id": "15.51.00",
+     "title": "Outstanding Balances with Component Units",
+     "effective_date": "01/22/2018",
+     "file_ref": "/das/Financial/Acctng/Documents/15.51.00.pdf",
+     "size": 171154
+    },
+    {
+     "id": "15.55.00",
+     "title": "Non-capital assets",
+     "effective_date": "07/01/2013",
+     "file_ref": "/das/Financial/Acctng/Documents/15.55.00.pdf",
+     "size": 96228
+    },
+    {
+     "id": "15.60.10",
+     "title": "Capital assets-classification/capitalization",
+     "effective_date": "09/16/2017",
+     "file_ref": "/das/Financial/Acctng/Documents/15.60.10.pdf",
+     "size": 236176
+    },
+    {
+     "id": "15.60.20",
+     "title": "Capital assets-depreciation/amortization",
+     "effective_date": "08/10/2010",
+     "file_ref": "/das/Financial/Acctng/Documents/15.60.20.pdf",
+     "size": 129784
+    },
+    {
+     "id": "15.60.25",
+     "title": "Capital assets-impairments",
+     "effective_date": "08/10/2010",
+     "file_ref": "/das/Financial/Acctng/Documents/15.60.25.pdf",
+     "size": 138595
+    },
+    {
+     "id": "15.60.30",
+     "title": "",
+     "effective_date": "",
+     "file_ref": "/das/Financial/Acctng/Documents/15.60.30 draft.pdf",
+     "size": 736632
+    },
+    {
+     "id": "15.60.30",
+     "title": "Capital assets-capital leases",
+     "effective_date": "07/01/2012",
+     "file_ref": "/das/Financial/Acctng/Documents/15.60.30.pdf",
+     "size": 124046
+    },
+    {
+     "id": "15.60.40",
+     "title": "Capital assets- intangible assets",
+     "effective_date": "06/01/2013",
+     "file_ref": "/das/Financial/Acctng/Documents/15.60.40.pdf",
+     "size": 186055
+    },
+    {
+     "id": "15.65.10",
+     "title": "Bonds and Certificates of Participation",
+     "effective_date": "01/22/2018",
+     "file_ref": "/das/Financial/Acctng/Documents/15.65.10.pdf",
+     "size": 227958
+    },
+    {
+     "id": "15.65.20",
+     "title": "Arbitrage",
+     "effective_date": "03/25/2014",
+     "file_ref": "/das/Financial/Acctng/Documents/15.65.20.pdf",
+     "size": 284687
+    },
+    {
+     "id": "15.65.30",
+     "title": "Debt refunding",
+     "effective_date": "01/22/2018",
+     "file_ref": "/das/Financial/Acctng/Documents/15.65.30.pdf",
+     "size": 108691
+    },
+    {
+     "id": "15.70.00",
+     "title": "Compensated absences",
+     "effective_date": "04/16/20019",
+     "file_ref": "/das/Financial/Acctng/Documents/15.70.00.pdf",
+     "size": 89018
+    },
+    {
+     "id": "15.75.00",
+     "title": "Claims and judgments",
+     "effective_date": "07/01/2012",
+     "file_ref": "/das/Financial/Acctng/Documents/15.75.00.pdf",
+     "size": 80872
+    },
+    {
+     "id": "15.77.00",
+     "title": "Pollution and remediation obligations",
+     "effective_date": "07/10/2010",
+     "file_ref": "/das/Financial/Acctng/Documents/15.77.00.pdf",
+     "size": 185122
+    },
+    {
+     "id": "15.80.00",
+     "title": "Commitments",
+     "effective_date": "07/01/2011",
+     "file_ref": "/das/Financial/Acctng/Documents/15.80.00.pdf",
+     "size": 140376
+    },
+    {
+     "id": "15.85.00",
+     "title": "Equities",
+     "effective_date": "12/05/2013",
+     "file_ref": "/das/Financial/Acctng/Documents/15.85.00.pdf",
+     "size": 278876
+    }
+   ]
+  },
+  "20": {
+   "name": "20 - Budgetary accounting & reporting",
+   "rows": [
+    {
+     "id": "20",
+     "title": "20 Complete Chapter",
+     "effective_date": "",
+     "file_ref": "/das/Financial/Acctng/Documents/20 Budgetary Accounting and Reporting search.pdf",
+     "size": 498557
+    },
+    {
+     "id": "20.10.00",
+     "title": "Budget adoption and reporting",
+     "effective_date": "10/01/2004",
+     "file_ref": "/das/Financial/Acctng/Documents/20.10.00.pdf",
+     "size": 89386
+    },
+    {
+     "id": "20.20.00",
+     "title": "Encumbrances",
+     "effective_date": "07/01/2012",
+     "file_ref": "/das/Financial/Acctng/Documents/20.20.00.pdf",
+     "size": 107108
+    },
+    {
+     "id": "20.30.00.po",
+     "title": "Expenditure and interfund transfer recognition-policy",
+     "effective_date": "07/01/2005",
+     "file_ref": "/das/Financial/Acctng/Documents/20.30.00.po.pdf",
+     "size": 80353
+    },
+    {
+     "id": "20.30.00.pr",
+     "title": "Expenditure and interfund transfer recognition-procedure",
+     "effective_date": "07/01/2005",
+     "file_ref": "/das/Financial/Acctng/Documents/20.30.00.pr.pdf",
+     "size": 94386
+    },
+    {
+     "id": "20.40.00",
+     "title": "Reduction of expense",
+     "effective_date": "07/01/2012",
+     "file_ref": "/das/Financial/Acctng/Documents/20.40.00.pdf",
+     "size": 78245
+    },
+    {
+     "id": "20.50.00",
+     "title": "Revenue and interfund transfer recognition",
+     "effective_date": "07/15/2012",
+     "file_ref": "/das/Financial/Acctng/Documents/20.50.00.pdf",
+     "size": 103324
+    }
+   ]
+  },
+  "25": {
+   "name": "25 - Management accounting",
+   "rows": [
+    {
+     "id": "25",
+     "title": "25 Complete Chapter",
+     "effective_date": "",
+     "file_ref": "/das/Financial/Acctng/Documents/25 Management Accounting search.pdf",
+     "size": 106307
+    },
+    {
+     "id": "25.00.00.po",
+     "title": "Management accounting-policy",
+     "effective_date": "07/01/2001",
+     "file_ref": "/das/Financial/Acctng/Documents/25.00.00.po.pdf",
+     "size": 8858
+    },
+    {
+     "id": "25.00.00.pr",
+     "title": "Management accounting-policy",
+     "effective_date": "07/01/2001",
+     "file_ref": "/das/Financial/Acctng/Documents/25.00.00.pr.pdf",
+     "size": 102028
+    }
+   ]
+  },
+  "30": {
+   "name": "30 - Federal compliance",
+   "rows": [
+    {
+     "id": "30",
+     "title": "30 Complete Chapter",
+     "effective_date": "",
+     "file_ref": "/das/Financial/Acctng/Documents/30 Federal Compliance search.pdf",
+     "size": 635403
+    },
+    {
+     "id": "30.10.00.po",
+     "title": "Statewide single audit- policy",
+     "effective_date": "04/02/2007",
+     "file_ref": "/das/Financial/Acctng/Documents/30.10.00.po.pdf",
+     "size": 77159
+    },
+    {
+     "id": "30.10.00.pr",
+     "title": "Statewide single audit-procedure",
+     "effective_date": "04/02/2007",
+     "file_ref": "/das/Financial/Acctng/Documents/30.10.00.pr.pdf",
+     "size": 80808
+    },
+    {
+     "id": "30.20.00.po",
+     "title": "Statewide central services cost allocation-policy",
+     "effective_date": "10/26/2010",
+     "file_ref": "/das/Financial/Acctng/Documents/30.20.00.po.pdf",
+     "size": 74858
+    },
+    {
+     "id": "30.20.00.pr",
+     "title": "Statewide central services cost allocation-procedure",
+     "effective_date": "07/01/2001",
+     "file_ref": "/das/Financial/Acctng/Documents/30.20.00.pr.pdf",
+     "size": 83532
+    },
+    {
+     "id": "30.30.00.po",
+     "title": "Cash management-policy",
+     "effective_date": "04/02/2007",
+     "file_ref": "/das/Financial/Acctng/Documents/30.30.00.po.pdf",
+     "size": 75628
+    },
+    {
+     "id": "30.30.00.pr",
+     "title": "Cash management-procedure",
+     "effective_date": "04/02/2007",
+     "file_ref": "/das/Financial/Acctng/Documents/30.30.00.pr.pdf",
+     "size": 84862
+    },
+    {
+     "id": "30.40.00",
+     "title": "Subrecipient monitoring and audit reviews",
+     "effective_date": "08/15/2019",
+     "file_ref": "/das/Financial/Acctng/Documents/30.40.00.pdf",
+     "size": 211722
+    }
+   ]
+  },
+  "35": {
+   "name": "35 - Accounts receivable management",
+   "rows": [
+    {
+     "id": "35",
+     "title": "35 Complete Chapter",
+     "effective_date": "",
+     "file_ref": "/das/Financial/Acctng/Documents/35 Accounts Receivable Management search.pdf",
+     "size": 1088180
+    },
+    {
+     "id": "35.05.00",
+     "title": "Introduction",
+     "effective_date": "12/11/2018",
+     "file_ref": "/das/Financial/Acctng/Documents/35.05.00.pdf",
+     "size": 140166
+    },
+    {
+     "id": "35.20.20",
+     "title": "Account establishment- debtor inform. gathering",
+     "effective_date": "12/11/2018",
+     "file_ref": "/das/Financial/Acctng/Documents/35.20.20.pdf",
+     "size": 140030
+    },
+    {
+     "id": "35.20.30",
+     "title": "Account establishment-ability to pay/deny services",
+     "effective_date": "12/11/2018",
+     "file_ref": "/das/Financial/Acctng/Documents/35.20.30.pdf",
+     "size": 142495
+    },
+    {
+     "id": "35.30.10",
+     "title": "Account activity- sch. collection activity",
+     "effective_date": "07/01/2018",
+     "file_ref": "/das/Financial/Acctng/Documents/35.30.10.pdf",
+     "size": 68659
+    },
+    {
+     "id": "35.30.20",
+     "title": "Account activity- invoicing and interest",
+     "effective_date": "12/11/2018",
+     "file_ref": "/das/Financial/Acctng/Documents/35.30.20.pdf",
+     "size": 149508
+    },
+    {
+     "id": "35.30.30",
+     "title": "Account activity-definitions-liquidated/delinquent",
+     "effective_date": "04/23/2023",
+     "file_ref": "/das/Financial/Acctng/Documents/35.30.30.pdf",
+     "size": 172845
+    },
+    {
+     "id": "35.30.40",
+     "title": "Account activity-telephone collections",
+     "effective_date": "12/11/2018",
+     "file_ref": "/das/Financial/Acctng/Documents/35.30.40.pdf",
+     "size": 177738
+    },
+    {
+     "id": "35.30.50",
+     "title": "Account activity-letter collections",
+     "effective_date": "07/16/2018",
+     "file_ref": "/das/Financial/Acctng/Documents/35.30.50.pdf",
+     "size": 79534
+    },
+    {
+     "id": "35.30.60",
+     "title": "Account activity-payment plans",
+     "effective_date": "07/01/2018",
+     "file_ref": "/das/Financial/Acctng/Documents/35.30.60.pdf",
+     "size": 71185
+    },
+    {
+     "id": "35.30.70",
+     "title": "Account activity- skip tracing/asset location",
+     "effective_date": "12/11/2018",
+     "file_ref": "/das/Financial/Acctng/Documents/35.30.70.pdf",
+     "size": 159322
+    },
+    {
+     "id": "35.30.80",
+     "title": "Account activity - offers in compromise",
+     "effective_date": "07/16/2018",
+     "file_ref": "/das/Financial/Acctng/Documents/35.30.80.pdf",
+     "size": 85404
+    },
+    {
+     "id": "35.30.90",
+     "title": "Account activity-coordination of vendor payments",
+     "effective_date": "04/24/2023",
+     "file_ref": "/das/Financial/Acctng/Documents/35.30.90.pdf",
+     "size": 236330
+    },
+    {
+     "id": "35.40.10",
+     "title": "Account assignments-assign./exemptions",
+     "effective_date": "12/01/2018",
+     "file_ref": "/das/Financial/Acctng/Documents/35.40.10.pdf",
+     "size": 83518
+    },
+    {
+     "id": "35.40.20",
+     "title": "Account assignments- collection fees",
+     "effective_date": "07/01/2018",
+     "file_ref": "/das/Financial/Acctng/Documents/35.40.20.pdf",
+     "size": 60572
+    },
+    {
+     "id": "35.40.30",
+     "title": "Account assignments-Dept. of Revenue",
+     "effective_date": "07/16/2018",
+     "file_ref": "/das/Financial/Acctng/Documents/35.40.30.pdf",
+     "size": 93221
+    },
+    {
+     "id": "35.50.10",
+     "title": "Uncollectible accounts- write-off guidelines",
+     "effective_date": "07/01/2018",
+     "file_ref": "/das/Financial/Acctng/Documents/35.50.10.pdf",
+     "size": 84637
+    },
+    {
+     "id": "35.60.10",
+     "title": "Receivable reports- reporting liquidated/delinquent accts.",
+     "effective_date": "07/01/2018",
+     "file_ref": "/das/Financial/Acctng/Documents/35.60.10.pdf",
+     "size": 61428
+    },
+    {
+     "id": "35.60.20",
+     "title": "Receivable reports -  accounts receivable performance measures",
+     "effective_date": "02/09/2018",
+     "file_ref": "/das/Financial/Acctng/Documents/35.60.20.pdf",
+     "size": 88277
+    },
+    {
+     "id": "35.70.10",
+     "title": "Interagency receivables- billings/payments/progressive actions",
+     "effective_date": "12/11/2018",
+     "file_ref": "/das/Financial/Acctng/Documents/35.70.10.pdf",
+     "size": 151808
+    }
+   ]
+  },
+  "40": {
+   "name": "40 - Travel",
+   "rows": [
+    {
+     "id": "40",
+     "title": "40 Complete Chapter",
+     "effective_date": "",
+     "file_ref": "/das/Financial/Acctng/Documents/40 Travel search.pdf",
+     "size": 757256
+    },
+    {
+     "id": "40.10.00",
+     "title": "Statewide travel policy",
+     "effective_date": "01/01/2026",
+     "file_ref": "/das/Financial/Acctng/Documents/40.10.00.pdf",
+     "size": 362261
+    },
+    {
+     "id": "40.20.00",
+     "title": "Travel advances",
+     "effective_date": "07/01/2012",
+     "file_ref": "/das/Financial/Acctng/Documents/40.20.00.pdf",
+     "size": 98753
+    },
+    {
+     "id": "40.20.10.po",
+     "title": "Corporate travel card-policy",
+     "effective_date": "05/01/2007",
+     "file_ref": "/das/Financial/Acctng/Documents/40.20.10.PO.pdf",
+     "size": 152079
+    },
+    {
+     "id": "40.20.10.pr",
+     "title": "Corporate travel card-procedure",
+     "effective_date": "05/01/2007",
+     "file_ref": "/das/Financial/Acctng/Documents/40.20.10.PR.pdf",
+     "size": 118381
+    }
+   ]
+  },
+  "45": {
+   "name": "45 - Payroll",
+   "rows": [
+    {
+     "id": "45",
+     "title": "45 Complete Chapter",
+     "effective_date": "",
+     "file_ref": "/das/Financial/Acctng/Documents/45 Payroll search.pdf",
+     "size": 1436062
+    },
+    {
+     "id": "45.05.00",
+     "title": "Regular pay days",
+     "effective_date": "03/01/2007",
+     "file_ref": "/das/Financial/Acctng/Documents/45.05.00.pdf",
+     "size": 74086
+    },
+    {
+     "id": "45.06.00",
+     "title": "Sick leave balances at retirement",
+     "effective_date": "03/01/2007",
+     "file_ref": "/das/Financial/Acctng/Documents/45.06.00.pdf",
+     "size": 88203
+    },
+    {
+     "id": "45.07.00",
+     "title": "Time record approval and leave report review",
+     "effective_date": "11/12/2025",
+     "file_ref": "/das/Financial/Acctng/Documents/45.07.00.pdf",
+     "size": 150021
+    },
+    {
+     "id": "45.10.00.po",
+     "title": "Voluntary deductions- policy",
+     "effective_date": "02/27/2008",
+     "file_ref": "/das/Financial/Acctng/Documents/45.10.00.po.pdf",
+     "size": 128190
+    },
+    {
+     "id": "45.10.00.pr",
+     "title": "Voluntary deductions-procedure",
+     "effective_date": "02/27/2008",
+     "file_ref": "/das/Financial/Acctng/Documents/45.10.00.pr.pdf",
+     "size": 128690
+    },
+    {
+     "id": "45.15.00.po",
+     "title": "Payroll accounts reimbursement-policy",
+     "effective_date": "08/15/2001",
+     "file_ref": "/das/Financial/Acctng/Documents/45.15.00.po.pdf",
+     "size": 8414
+    },
+    {
+     "id": "45.15.00.pr",
+     "title": "Payroll accounts reimbursement-procedure",
+     "effective_date": "08/15/2001",
+     "file_ref": "/das/Financial/Acctng/Documents/45.15.00.pr.pdf",
+     "size": 75355
+    },
+    {
+     "id": "45.17.00",
+     "title": "Payroll data integrity",
+     "effective_date": "08/15/2001",
+     "file_ref": "/das/Financial/Acctng/Documents/45.17.00.pdf",
+     "size": 11818
+    },
+    {
+     "id": "45.20.00",
+     "title": "Cash insurance payments",
+     "effective_date": "02/27/2007",
+     "file_ref": "/das/Financial/Acctng/Documents/45.20.00.pdf",
+     "size": 71905
+    },
+    {
+     "id": "45.25.00.po",
+     "title": "Salary advances-policy",
+     "effective_date": "03/04/2003",
+     "file_ref": "/das/Financial/Acctng/Documents/45.25.00.po.pdf",
+     "size": 74742
+    },
+    {
+     "id": "45.25.00.pr",
+     "title": "Salary advances-procedures",
+     "effective_date": "03/04/2003",
+     "file_ref": "/das/Financial/Acctng/Documents/45.25.00.pr.pdf",
+     "size": 77683
+    },
+    {
+     "id": "45.30.00",
+     "title": "Dual update access to PPDB/OSPA",
+     "effective_date": "06/29/2007",
+     "file_ref": "/das/Financial/Acctng/Documents/45.30.00.pdf",
+     "size": 72090
+    },
+    {
+     "id": "45.35.00.po",
+     "title": "Review of gross pay adjust. reports- policy",
+     "effective_date": "06/29/2007",
+     "file_ref": "/das/Financial/Acctng/Documents/45.35.00.po.pdf",
+     "size": 71564
+    },
+    {
+     "id": "45.35.00.pr",
+     "title": "Review of gross pay adjust. reports-procedure",
+     "effective_date": "06/29/2007",
+     "file_ref": "/das/Financial/Acctng/Documents/45.35.00.pr.pdf",
+     "size": 103981
+    },
+    {
+     "id": "45.37.00",
+     "title": "Review of month end leave reports-policy",
+     "effective_date": "06/29/2007",
+     "file_ref": "/das/Financial/Acctng/Documents/45.37.00.pdf",
+     "size": 79392
+    },
+    {
+     "id": "45.40.00",
+     "title": "Reimbursement of employee expense through OSPA",
+     "effective_date": "02/27/2008",
+     "file_ref": "/das/Financial/Acctng/Documents/45.40.00.pdf",
+     "size": 72210
+    },
+    {
+     "id": "45.42.00",
+     "title": "Distrib. accompanying payroll payment",
+     "effective_date": "03/24/2006",
+     "file_ref": "/das/Financial/Acctng/Documents/45.42.00.pdf",
+     "size": 77188
+    },
+    {
+     "id": "45.45.00",
+     "title": "Separation of duties",
+     "effective_date": "07/01/2005",
+     "file_ref": "/das/Financial/Acctng/Documents/45.45.00.pdf",
+     "size": 69872
+    },
+    {
+     "id": "45.50.00",
+     "title": "Collection of Overpayment of Wages",
+     "effective_date": "11/12/2025",
+     "file_ref": "/das/Financial/Acctng/Documents/45.50.00.pdf",
+     "size": 147707
+    },
+    {
+     "id": "45.55.00",
+     "title": "Collection of Employee Benefit Payment Amounts Paid by the Employers",
+     "effective_date": "11/12/2025",
+     "file_ref": "/das/Financial/Acctng/Documents/45.55.00.pdf",
+     "size": 139814
+    }
+   ]
+  },
+  "50": {
+   "name": "50 - Tax issues",
+   "rows": [
+    {
+     "id": "50",
+     "title": "50 Complete Chapter",
+     "effective_date": "",
+     "file_ref": "/das/Financial/Acctng/Documents/50 Tax Issues search.pdf",
+     "size": 673488
+    },
+    {
+     "id": "50.10.00.po",
+     "title": "Education assistance payments-policy",
+     "effective_date": "07/01/2009",
+     "file_ref": "/das/Financial/Acctng/Documents/50.10.00.po.pdf",
+     "size": 80826
+    },
+    {
+     "id": "50.10.00.pr",
+     "title": "Education assistance payments-procedure",
+     "effective_date": "07/01/2009",
+     "file_ref": "/das/Financial/Acctng/Documents/50.10.00.pr.pdf",
+     "size": 73798
+    },
+    {
+     "id": "50.20.00",
+     "title": "Tax Issues - Moving Expenses",
+     "effective_date": "04/17/2018",
+     "file_ref": "/das/Financial/Acctng/Documents/50.20.00.pdf",
+     "size": 57697
+    },
+    {
+     "id": "50.30.00.po",
+     "title": "Fringe benefits-vehicles policy",
+     "effective_date": "11/01/2002",
+     "file_ref": "/das/Financial/Acctng/Documents/50.30.00.po.pdf",
+     "size": 139078
+    },
+    {
+     "id": "50.30.00.pr",
+     "title": "Fringe benefits-vehicles procedure",
+     "effective_date": "11/01/2002",
+     "file_ref": "/das/Financial/Acctng/Documents/50.30.00.pr.pdf",
+     "size": 141685
+    },
+    {
+     "id": "50.50.00.po",
+     "title": "1099-misc. reporting- policy",
+     "effective_date": "08/01/2001",
+     "file_ref": "/das/Financial/Acctng/Documents/50.50.00.po.pdf",
+     "size": 13357
+    },
+    {
+     "id": "50.50.00.pr",
+     "title": "1099-misc. reporting-procedure",
+     "effective_date": "08/01/2001",
+     "file_ref": "/das/Financial/Acctng/Documents/50.50.00.pr.pdf",
+     "size": 83480
+    },
+    {
+     "id": "50.60.00.po",
+     "title": "Mass transit tax-policy",
+     "effective_date": "08/24/2004",
+     "file_ref": "/das/Financial/Acctng/Documents/50.60.00.po.pdf",
+     "size": 72678
+    },
+    {
+     "id": "50.60.00.pr",
+     "title": "Mass transit tax-procedure",
+     "effective_date": "08/24/2004",
+     "file_ref": "/das/Financial/Acctng/Documents/50.60.00.pr.pdf",
+     "size": 76928
+    }
+   ]
+  },
+  "55": {
+   "name": "55 - Other programs",
+   "rows": [
+    {
+     "id": "55.30.00",
+     "title": "SPOTS Card Program",
+     "effective_date": "04/24/2023",
+     "file_ref": "/das/Financial/Acctng/Documents/55.30.00.pdf",
+     "size": 404883
+    },
+    {
+     "id": "55.30.00_Appendix_A",
+     "title": "SPOTS Card Program blocked MCCs - appendix A",
+     "effective_date": "",
+     "file_ref": "/das/Financial/Acctng/Documents/55.30.00_Appendix_A.pdf",
+     "size": 77911
+    },
+    {
+     "id": "55.30.00_Appendix_B",
+     "title": "SPOTS Card Program log example- appendix B",
+     "effective_date": "",
+     "file_ref": "/das/Financial/Acctng/Documents/55.30.00_Appendix_B.xls",
+     "size": 52736
+    }
+   ]
+  },
+  "60": {
+   "name": "60 - Chart of accounts",
+   "rows": [
+    {
+     "id": "60",
+     "title": "60 Complete Chapter",
+     "effective_date": "",
+     "file_ref": "/das/Financial/Acctng/Documents/60 Chart of Account search.pdf",
+     "size": 716679
+    },
+    {
+     "id": "60.10.00",
+     "title": "General ledger accounts",
+     "effective_date": "06/14/2017",
+     "file_ref": "/das/Financial/Acctng/Documents/60.10.00.pdf",
+     "size": 214695
+    },
+    {
+     "id": "60.20.00",
+     "title": "Comptroller objects-financial statement classification",
+     "effective_date": "06/14/2017",
+     "file_ref": "/das/Financial/Acctng/Documents/60.20.00.pdf",
+     "size": 353330
+    },
+    {
+     "id": "60.30.00",
+     "title": "Comptroller objects- numeric sequence",
+     "effective_date": "06/14/2017",
+     "file_ref": "/das/Financial/Acctng/Documents/60.30.00.pdf",
+     "size": 413889
+    }
+   ]
+  },
+  "65": {
+   "name": "65 - Glossary",
+   "rows": [
+    {
+     "id": "65.00.00",
+     "title": "Definitions",
+     "effective_date": "06/01/2010",
+     "file_ref": "/das/Financial/Acctng/Documents/65.00.00.pdf",
+     "size": 197519
+    }
+   ]
+  },
+  "70": {
+   "name": "70 - Agency lists",
+   "rows": [
+    {
+     "id": "70.10.00",
+     "title": "Current agencies - Alpha sequence",
+     "effective_date": "01/01/2025",
+     "file_ref": "/das/Financial/Acctng/Documents/70.10.00.pdf",
+     "size": 189534
+    },
+    {
+     "id": "70.20.00",
+     "title": "Current agencies - Numeric sequence",
+     "effective_date": "01/01/2025",
+     "file_ref": "/das/Financial/Acctng/Documents/70.20.00.pdf",
+     "size": 165201
+    },
+    {
+     "id": "70.30.00",
+     "title": "Obsolete Agencies - Alpha Sequence",
+     "effective_date": "2/7/2024",
+     "file_ref": "/das/Financial/Acctng/Documents/70.30.00 Agencies Obsolete Alpha.pdf",
+     "size": 135654
+    },
+    {
+     "id": "70.40.00",
+     "title": "Obsolete Agencies - Numeric Sequence",
+     "effective_date": "2/7/2024",
+     "file_ref": "/das/Financial/Acctng/Documents/70.40.00 Agencies Obsolete Numeric.pdf",
+     "size": 140032
+    }
+   ]
+  },
+  "75": {
+   "name": "75 - Forms",
+   "rows": [
+    {
+     "id": "",
+     "title": "",
+     "effective_date": "",
+     "file_ref": "/das/Financial/Acctng/Documents/Draft 75.40.01 form - Adding Work Type Option.xlsx",
+     "size": 232797
+    },
+    {
+     "id": "75.30.01.fo",
+     "title": "Uniform Guidance Subpart F Review Checklist",
+     "effective_date": "",
+     "file_ref": "/das/Financial/Acctng/Documents/75.30.01.fo.pdf",
+     "size": 293416
+    },
+    {
+     "id": "75.30.02.fo",
+     "title": "Sample completion letter for sub recipient monitoring",
+     "effective_date": "",
+     "file_ref": "/das/Financial/Acctng/Documents/75.30.02.fo.pdf",
+     "size": 131732
+    },
+    {
+     "id": "75.35.01.fo",
+     "title": "Agency documentation for self-exempting accounts",
+     "effective_date": "",
+     "file_ref": "/das/Financial/Acctng/Documents/75.35.01.fo.pdf",
+     "size": 30904
+    },
+    {
+     "id": "75.35.02.fo",
+     "title": "Request for exemption from assignment",
+     "effective_date": "",
+     "file_ref": "/das/Financial/Acctng/Documents/75.35.02.fo.pdf",
+     "size": 18581
+    },
+    {
+     "id": "75.35.03.fo",
+     "title": "Sample inter-agency invoice",
+     "effective_date": "",
+     "file_ref": "/das/Financial/Acctng/Documents/75.35.03.fo.pdf",
+     "size": 61466
+    },
+    {
+     "id": "75.35.04.fo",
+     "title": "Inter-agency invoice inquiry",
+     "effective_date": "",
+     "file_ref": "/das/Financial/Acctng/Documents/75.35.04.fo.pdf",
+     "size": 16981
+    },
+    {
+     "id": "75.35.05.fo",
+     "title": "Account contact record",
+     "effective_date": "",
+     "file_ref": "/das/Financial/Acctng/Documents/75.35.05.fo.pdf",
+     "size": 11688
+    },
+    {
+     "id": "75.35.07.fo",
+     "title": "IDRP inquiry notifcation",
+     "effective_date": "",
+     "file_ref": "/das/Financial/Acctng/Documents/75.35.07.fo.pdf",
+     "size": 26857
+    },
+    {
+     "id": "75.35.08.fo",
+     "title": "IDRP inquiry response",
+     "effective_date": "",
+     "file_ref": "/das/Financial/Acctng/Documents/75.35.08.fo.pdf",
+     "size": 27216
+    },
+    {
+     "id": "75.35.09.fo",
+     "title": "IDRP finding and order",
+     "effective_date": "",
+     "file_ref": "/das/Financial/Acctng/Documents/75.35.09.fo.pdf",
+     "size": 20584
+    },
+    {
+     "id": "75.35.10.fo",
+     "title": "Sample invoice",
+     "effective_date": "",
+     "file_ref": "/das/Financial/Acctng/Documents/75.35.10.fo.pdf",
+     "size": 127418
+    },
+    {
+     "id": "75.35.11.fo",
+     "title": "Exemption from 90-day turnover request",
+     "effective_date": "",
+     "file_ref": "/das/Financial/Acctng/Documents/75.35.11.fo.pdf",
+     "size": 24251
+    },
+    {
+     "id": "75.35.12.fo",
+     "title": "Accounts receivable performance measures report",
+     "effective_date": "",
+     "file_ref": "/das/Financial/Acctng/Documents/75.35.12.fo.xlsx",
+     "size": 103785
+    },
+    {
+     "id": "75.35.13.fo",
+     "title": "Write-off certification form",
+     "effective_date": "",
+     "file_ref": "/das/Financial/Acctng/Documents/75.35.13.fo.pdf",
+     "size": 80587
+    },
+    {
+     "id": "75.35.14.fo",
+     "title": "Offer in Compromise Approval form",
+     "effective_date": "",
+     "file_ref": "/das/Financial/Acctng/Documents/75.35.14.fo.pdf",
+     "size": 86832
+    },
+    {
+     "id": "75.35.15.fo",
+     "title": "Annual Certification: Write-off, Abated, and Canceled Debt",
+     "effective_date": "",
+     "file_ref": "/das/Financial/Acctng/Documents/75.35.15.fo.pdf",
+     "size": 120877
+    },
+    {
+     "id": "75.40.01.fo",
+     "title": "Travel Expense Detail Sheet",
+     "effective_date": "January 1, 2026",
+     "file_ref": "/das/Financial/Acctng/Documents/75.40.01.fo.xlsx",
+     "size": 57581
+    },
+    {
+     "id": "75.40.02.fo",
+     "title": "Employee report of travel awards",
+     "effective_date": "",
+     "file_ref": "/das/Financial/Acctng/Documents/75.40.02.FO.pdf",
+     "size": 111813
+    },
+    {
+     "id": "75.40.03.fo",
+     "title": "Corporate travel card agreement",
+     "effective_date": "",
+     "file_ref": "/das/Financial/Acctng/Documents/75.40.03.FO.pdf",
+     "size": 89765
+    },
+    {
+     "id": "75.40.04.fo",
+     "title": "U.S. Bank corporate card application",
+     "effective_date": "",
+     "file_ref": "/das/Financial/Acctng/Documents/75.40.04.fo.pdf",
+     "size": 177528
+    },
+    {
+     "id": "75.40.05.fo",
+     "title": "Authorization to use private vehicle",
+     "effective_date": "",
+     "file_ref": "/das/Financial/Acctng/Documents/75.40.05.FO.pdf",
+     "size": 119404
+    },
+    {
+     "id": "75.45.01.fo",
+     "title": "Authorized OSPA signatures",
+     "effective_date": "",
+     "file_ref": "/das/Financial/Acctng/Documents/75.45.01.fo.pdf",
+     "size": 235974
+    },
+    {
+     "id": "75.45.02.fo",
+     "title": "Request for payroll advance",
+     "effective_date": "",
+     "file_ref": "/das/Financial/Acctng/Documents/75.45.02.fo.pdf",
+     "size": 164280
+    },
+    {
+     "id": "75.55.01.fo",
+     "title": "SPOTS agency operating agreement",
+     "effective_date": "",
+     "file_ref": "/das/Financial/Acctng/Documents/75.55.01.fo.pdf",
+     "size": 54919
+    },
+    {
+     "id": "75.55.02.fo",
+     "title": "SPOTS card application and agreement",
+     "effective_date": "",
+     "file_ref": "/das/Financial/Acctng/Documents/75.55.02.fo.pdf",
+     "size": 80232
+    },
+    {
+     "id": "N/A",
+     "title": "Out-of-State travel authorization form (Sample)",
+     "effective_date": "",
+     "file_ref": "/das/Financial/Acctng/Documents/outofstate.docx",
+     "size": 2290854
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,152 @@
+                                                                                Number
+ OREGON ACCOUNTING MANUAL                                                       50.50.00.PR
+
+ Oregon Department of                              Procedure                    Effective Date
+ Administrative Services
+ State Controller's Division                                                    August 1, 2001
+
+ Chapter          Tax Issues
+                                                                                .1 OF .3
+ Part             1099-MISC Reporting
+
+ Section                                                                        Approval
+
+                                                                                Signature on file at SCD
+
+Authority       Internal Revenue Service publications:
+                Instructions for Forms 1099, 1098, 5498, 1096, and W-2G
+                Publication 1179 - Specifications for Paper Document Reporting and Paper Substitutes for Forms
+                     1096, 1098, 1099 series, 5498, and W-2G
+                Publication 1220 - Specifications for Filing Forms 1098, 1099, 5498, and W-2G Magnetically or
+                     Electronically
+                Publication 1281 - Backup Withholding on Missing and Incorrect Taxpayer Identification Numbers
+                Publication 1586 - Reasonable Cause Regulations and Requirements as They Apply to Certain
+                     Information Returns
+                Publication 1679 - A Guide to Backup Withholding
+
+
+Scope and Applicability
+
+        .101    The following procedures pertain to the filing of forms 1099-MISC. If your agency is subject to
+                reporting for other types of 1099 forms, these procedures may not cover all reporting situations.
+                For additional information, check the Internal Revenue Service (IRS) instructions for filing
+                information returns (see Authority above). To further clarify requirements for filing any information
+                returns, contact the Vendor Accountant in Statewide Financial Management Services (SFMS).
+
+
+Payments Subject to 1099-MISC Reporting
+
+        .102    SFMS Operations files all 1099-MISC forms for all Statewide Financial Management System
+                (SFMS) vendors that meet the reporting requirements. State agencies are required to file form
+                1099-MISC for non-SFMS vendors and all other types of 1099 forms.
+
+        .103    Reportable payments are those that are made for services, rent, royalties, or other things of value
+                (e.g. prizes and awards, remunerations, emoluments, gains, profits, or income). The payments
+                are reportable whether the paying agency directly receives the benefit of the services or whether
+                they are paying for services received by a third party.
+
+        .104    Vendors subject to reporting are any vendors that are not corporations, except for medical
+                corporations which are subject to reporting. Payments to companies, sole proprietorships,
+                estates, trusts, partnerships, medical corporations, individuals, or non-profit organizations are all
+                reportable.
+
+        .105    1099-MISC reporting is on a calendar year rather than a fiscal year basis and will include
+                reportable payments totalling in excess of $600 made within the calendar year being reported,
+                whether or not the services were performed within the same calendar year in which the payments
+                were made.
+
+
+
+
+                                                                                                      50 50 OO.PR.1
+Obtaining a Proper Taxpayer Identification Number
+
+       .106   In order to file forms 1099-MISC with the IRS, it is necessary to include the vendor's Taxpayer
+              Identification Number (TIN). A taxpayers’ TIN can be either a social security number or a federal
+              identification number. In order to create a new vendor on SFMS, the TIN must be available.
+
+       .107   There is no required form to be used in requesting TINs, and agencies may make the request
+              either orally or in writing. Form W-9 is sent out from SFMS Operations for non-corporate vendors
+              and medical corporations. It is also available from the IRS for use in requesting TINs.
+
+       .108   Personal services contracts issued by the Department of Administrative Services Transportation,
+              Purchasing, and Print Services (TPPS) Division include a section on the signature page of the
+              contract which requests the new vendor's TIN. TPPS purchasing analysts handle all contracts
+              awarded for $25,000 and above, and the analysts’ request the number as part of the process of
+              issuing the contract. Contracts for less than $25,000 are handled by the agency that is actually
+              buying and receiving the goods or services described in the contract. Each agency is responsible
+              for developing internal procedures that instruct personnel involved in any purchasing function for
+              the agency to request the TIN. If an agency uses a vendor whose contract was handled by TPPS,
+              they may contact TPPS to determine if a TIN was submitted by the vendor and to request the
+              number for the agency's records. However, if a TIN was not received by TPPS and the agency
+              uses the vendor, the agency must follow up with requests for the TIN from the vendor directly as
+              in paragraph .107 above. The agency who incurs a liability to a given vendor is responsible for the
+              reporting of the TIN to the IRS whether or not a third party was involved in hiring the vendor.
+
+
+Locating Missing Vendor Information
+
+       .109   If vendor data collected by an agency is found to be in error or incomplete and the agency
+              encounters difficulty in contacting the vendor, information regarding companies or individuals who
+              do business in the State of Oregon may be available for those companies or individuals who are
+              registered with the Corporation Division of the Secretary of State. Some of the information that
+              may be available includes:
+
+              a. Registry Number - an eight digit number assigned by the Corporation Division.
+
+              b. Entity Name - name under which the entity does business.
+
+              c.   Owner's Name - name of the owner of the entity.
+
+              d. Principle's Name - name of individual with primary responsibility for the business.
+
+              e. Address - address of the entity, principle, and owner.
+
+       .110   The above information may be obtained by contacting the Corporation Division and requesting the
+              information, which, if available for a given entity, will be printed in hardcopy for inquiring agencies
+              for a fee of $1.00 per inquiry. The agency may also access the Corporation Division's Business
+              Registry Database through the Secretary of State’s website.
+
+
+Backup Withholding Requirements
+
+       .111   The IRS requires backup withholding (similar to income tax withholding for employees) on
+              payments to vendors under any of the following circumstances:
+
+              a. The vendor did not provide a TIN as requested by an agency (see .106 through .108 above).
+
+              b. SFMS has received two "B Notices" from the IRS regarding a given vendor within a three year
+                 period.
+
+
+                                                                                                      50 50 OO.PR.2
+       .112    The backup withholding rate is 31 percent prior to August 6, 2001, and 30.5 percent thereafter
+               and is required to be withheld on all sums due to a vendor who meets the criteria in .111 above,
+               even if the amount is less than $600 in a calendar year.
+
+       .113    SFMS Operations is responsible for processing backup withholding for vendors on the Statewide
+               Financial Management System.
+
+
+Filing Requirements and Deadlines
+
+       .114    Reporting on form 1099-MISC is on a calendar year basis and filing deadlines occur very quickly
+               after a calendar year ends; the deadline for filing forms with the IRS is February 28th, and payee
+               copies of the forms must be distributed to the vendors by January 31st. SFMS Operations is
+               responsible for the timely filing of 1099-MISC information for SFMS agencies. Agencies are
+               responsible for providing accurate information. Agencies are also responsible for filing any other
+               form 1099 required to be filed.
+
+
+Filing Penalties
+
+       .115    The IRS may assess penalties against any entity, including any state agency, that is required to
+               file form 1099-MISC and fails to file, files forms with incorrect information, files unprocessable
+               forms, or fails to file on magnetic media. Penalties may be assessed against the Employer
+               Identification Number under which an agency was required to file forms.
+
+
+
+
+                                                                                                   50 50 OO.PR.3
+

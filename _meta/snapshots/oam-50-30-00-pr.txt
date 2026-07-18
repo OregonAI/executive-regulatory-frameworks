@@ -1,0 +1,79 @@
+                                                                                  Number
+ OREGON ACCOUNTING MANUAL                                                         50.30.00.PR
+
+ Oregon Department of                               Procedure                     Effective Date
+ Administrative Services
+ State Controller's Division                                                      November 1, 2002
+
+ Chapter          Tax Issues
+                                                                                  .1 OF .2
+ Part             Fringe Benefits – Vehicles
+
+ Section                                                                          Approval
+
+                                                                                  Signature on file at SCD
+
+Authority       ORS 283.395
+                OAR 125-155
+                IRS Regulations §§1.61-21, 1.162-2(d)
+                IRS Publication 15-B
+
+
+Determination of Taxable Amount
+
+        .101    If an assigned vehicle garaged at home is used to commute to the employee’s official duty station,
+                that use of the vehicle becomes a taxable fringe benefit to the employee, and the value must be
+                reported as taxable income on the employee’s W-2 form.
+
+        .102    Commuting to the official duty station (personal use) in a state-owned vehicle garaged at home
+                may be valued using one of two valuation rules as defined by the IRS.
+
+                Commuting Valuation Rule. The value of commuting can be valued at $1.50 each one-way trip if:
+
+                     a. You require the employee to commute in this vehicle, and
+
+                     b. The employee is not an elected official, a director, or an employee who
+                        earns more than $160,000 annually.
+
+                The employee is required to maintain a monthly or quarterly log of commutes to work and return.
+                The employee must provide that signed and dated log to the agency at the end of each month or
+                quarter. The calculation of the imputed value of the vehicle use is calculated by multiplying the
+                number of one-way commutes by $1.50.
+
+                Cents-Per-Mile Rule may be used if:
+
+                     a. The vehicle is driven at least 10,000 miles per year, and
+
+                     b. The fair market value of the vehicle doesn’t exceed $15,400 (revised
+                        annually), and
+
+                     c.   50% of the miles driven in the vehicle must be for official state business.
+
+                The employee is required to maintain a monthly or quarterly log of the miles per each one-way or
+                round-trip commute and provide that signed and dated log to the agency at the end of the month
+                or quarter. The calculation of the imputed value of the vehicle use is calculated by multiplying the
+                number of miles by the prevailing business mileage rate. The mileage rate for 2003 is 36 cents
+                per mile. That rate may be reduced by no more than 5.5 cents per mile if the state does not
+                provide the fuel.
+
+
+
+                                                                                                        50.30.00.PR - 1
+      .103   The agency is required to notify each employee who garages a state vehicle at home that there is
+             a taxable value associated with each commute to the official duty station and the method that will
+             be used to value the commute. The agency is required to define a record-keeping methodology
+             and notify the employee of the requirements.
+
+
+Reporting Procedure
+
+      .104   These fringe benefits will be reported through the payroll system either monthly or quarterly.
+             Reporting for the months of November and December can be deferred to the next tax year; that
+             is, tax year reporting can be for benefits received for the period November 1 through October 31
+             of the next year.
+
+
+
+
+                                                                                                  50.30.00.PR - 2
+

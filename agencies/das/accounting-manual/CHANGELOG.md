@@ -8,6 +8,49 @@ file's frontmatter).
 
 ## [Unreleased]
 
+## [2026-07-18] (2) — scope fix: rebuilt from the listing of record
+
+### Fixed
+
+- **Scope bug**: the initial OAM ingest was built from the static HTML of
+  Acctng/Pages/OAM.aspx, which exposes only ~40 documents and mixes in pending
+  comment-period drafts. The actual OAM listing of record — the 16 "OAM Chapter NN"
+  SharePoint views rendered by das/financial/osc/pages/oam.aspx — carries **175 rows
+  across 16 chapters**, including chapters 25 (Management accounting), 35 (Accounts
+  receivable management), and 40 (Travel) that were missing entirely. The listing is now
+  consumed directly from its anonymous REST data source (endpoint + view GUIDs + row
+  snapshot in `_meta/snapshots/oam-listing.json`).
+- Corrected source URLs for oam-10-75-00, oam-30-40-00, oam-60-30-00 (the listing points
+  to different filenames than previously fetched; 60.30.00 had been ingested from a
+  draft file).
+- 12 previously-ingested documents are **not in the listing of record** (pending
+  comment-period drafts from the old page): 15.92.00, 15.95.00, 15.97.00, 45.10.00,
+  45.15.00, 45.25.00, 45.35.00, 50.10.00, 50.30.00, 50.50.00, 50.60.00, 75.30.02. Kept
+  with prominent warnings; current-status ones demoted to `proposed`. The listing instead
+  carries the older split .po/.pr documents as current.
+- Date-typo notes added to oam-15-60-20, oam-15-60-25, oam-45-20-00 where the listing's
+  date differs from the date the document itself prints (documents win).
+
+### Added
+
+- 132 documents from the listing of record, including all of chapters 25, 35 (19 AR
+  docs), 40 (Travel), the split .po/.pr pairs for chapters 10–75, 24 more chapter-75
+  forms, and oam-15-60-30-draft (the pending GASB 87 Leases rewrite, which the listing
+  carries alongside the current 2012 policy under the same document id).
+- `detect_changes.py` now re-queries the 16 chapter views on every run (manifest id
+  `oam-listing`) and diffs rows by (id | effective date | file path) — adds, removals,
+  and date changes are all flagged.
+- 3 non-PDF forms (.xls/.xlsx) snapshotted raw with raw-byte hashes; schema
+  `source_format` extended with xls/xlsx/docx.
+
+### Removed
+
+- Not ingested by design: the 12 "NN Complete Chapter" compiled PDFs (duplicate
+  per-document content) and 2 form rows with no document id — all cataloged in
+  `_meta/catalog/oam.yml`.
+
+Verified-by @morficflux.
+
 ## [2026-07-18]
 
 ### Added

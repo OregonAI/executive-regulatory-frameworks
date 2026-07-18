@@ -1,0 +1,61 @@
+                                                                                Number
+ OREGON ACCOUNTING MANUAL                                                       45.15.00.PR
+
+ Oregon Department of                              Procedure                    Effective Date
+ Administrative Services
+ State Controller's Division                                                    August 15, 2001
+
+ Chapter          Payroll
+                                                                                .1 OF .1
+ Part             Payroll Accounts Reimbursement
+
+ Section                                                                        Approval
+
+                                                                                Signature on file at SCD
+
+Authority       ORS 291.405
+                ORS 291.407
+                ORS 292.026
+                ORS 292.036
+
+        .101    Oregon State Payroll Services (OSPS) prepares vendor and payroll checks and reports. The
+                Oregon State Payroll Application (OSPA) transmits reports and provides the Statewide
+                Financial Management Application (SFMA) reimbursement amounts.
+
+        .102    SFMA reimbursement amounts (accounts receivable) are reconciled by Statewide Financial
+                Management Services (SFMS) Operations unit to the OSPA information by payroll run, taking
+                into consideration timing options for payroll run 2. For agencies that need detailed information
+                from their subsidiary system, OSPS provides a file of the payroll data to accommodate this need.
+                It is the responsibility of the agency to reconcile the original total dollars from OSPA to the new
+                SFMA interface file. SFMS Operations will also verify totals for these agencies to assure the
+                SFMA accounts receivable agency totals equal the agency total payroll accounts payables.
+
+        .103    By pay day, all payroll information will need to be interfaced to SFMA so that SFMA can
+                automatically reimburse the OSPS Joint Payroll Account. When agency funds are available
+                (which should be no later than pay day), SFMA automatically reimburses the OSPS Joint Payroll
+                Account for the appropriate amount based on the OSPA information.
+
+        .104    After SFMA receives the payroll information, it generates the appropriate Mass Transit
+                contributions, which automatically reimburse the Mass Transit Account. For any agencies not on
+                SFMA, OSPA generates the Mass Transit amount and creates a check, which is deposited into
+                the Mass Transit account.
+
+        .105    If an agency’s cash position does not permit prompt reimbursement of payroll and Mass Transit, a
+                request for temporary delay should be sent to the State Controller.
+
+        .106    The request, signed by the agency head, should address the reasons for the delay, the expected
+                payment date, the likelihood of future deficiencies, and the corrective action planned.
+
+        .107    It is not appropriate for an agency to postpone the liquidation of payroll payables without following
+                the procedures identified in .105 and .106 above.
+
+        .108    SFMS Operations monitors receivable balances and reports to OSPS any outstanding
+                reimbursements over 45 days old. OSPS reports outstanding reimbursements over 45 days old,
+                by pay date and amount, to the State Controller and the Budget and Management Division
+                administrator.
+
+        .109    The State Controller pursues delinquent accounts.
+
+
+                                                                                                         45.15.00.PR.1
+

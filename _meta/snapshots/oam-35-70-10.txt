@@ -1,0 +1,149 @@
+                            OREGON ACCOUNTING MANUAL
+                                                        NUMBER                      SUPERSEDES
+
+                                                        35.70.10                    35.70.10
+                                                                                    dated 04/15/2013
+STATEWIDE POLICY
+                                                        EFFECTIVE DATE              PAGE NUMBER
+
+                                                        12/11/2018                  Pages 1 of 3
+Division                                                REFERENCE/AUTHORITY
+Chief Financial Office
+                                                        ORS 291.015
+                                                        ORS 293.250
+Policy Owner                                            ORS 293.252
+Statewide Accounting and Reporting                      ORS 293.285
+Services                                                ORS 293.590
+
+SUBJECT                                                 APPROVED SIGNATURE
+Accounts Receivable Management-
+                                                        George Naughton, Chief Financial Officer
+Interagency Receivables: Billings, Payments,            Signature on file
+and Progressive Actions
+
+PURPOSE
+This policy describes state agency responsibilities when issuing and paying interagency invoices.
+
+APPLICABILITY
+This policy applies to all state agencies included in the State’s annual financial statements, except for
+those agencies specifically exempted by OAM 01.05.00.
+
+FORMS/EXHIBITS/INSTRUCTIONS
+None.
+
+DEFINITIONS
+Reasonable effort: The use of available, legal, and cost-effective means that are appropriate to the
+circumstances of the collection effort. A means of collection may be considered cost-effective when it is
+reasonable to expect the costs of collection to be less than the debt. If the anticipated recovery would
+be only marginally in excess of the cost of collection, it may be reasonable to exert little or no effort to
+collect the debt.
+
+Click here for other definitions.
+
+EXCLUSIONS AND SPECIAL SITUATIONS
+None.
+
+POLICY
+101. Agency management must ensure that state agency personnel employ appropriate practices in
+     the management of accounts receivable.
+
+102.       State agencies are required to make reasonable efforts to collect interagency invoices. The
+           management of accounts receivable between agencies is an important part of a state agency’s
+           cash management process. There shall be a shared responsibility and cooperation by both
+           agencies to assure that the providing agency bills for goods or services requested properly and
+           promptly, and the receiving agency pays for the goods or services timely.
+
+Policy No: 35.70.10 | Effective: 12-11-2018                                                        Page 1 of 3
+Billings and Payments
+103. Per OAM 35.30.10 paragraph 103, agency management must develop clear, written internal
+       policies and procedures for the billing and collection of accounts receivable.
+
+104.   State agencies shall accumulate charges up to a periodic cut-off point and produce interagency
+       invoices based on a periodic cycle. Interagency invoices must be distributed within 15 days of a
+       monthly based billing cycle and within 30 days of a quarterly or annually based billing cycle.
+
+105.   Each billing state agency’s invoice must be clear and informative (refer to the sample
+       interagency invoice in OAM 75.35.03.FO). At a minimum, the following components should be
+       included on the invoice:
+       a. Header: Include the name and address of the billing and paying state agencies; the invoice
+          number; invoice date; customer number; due date; and the total amount due.
+       b. Body: Include specialized contract or agreement numbers and the billing period that the
+          invoice covers; detail about the amount due; special information about the invoice, including
+          terms or conditions; and, if the invoice lists more than one item, provide a total amount due.
+       c. Footer: Include a contact name and phone number for the paying state agency to call if they
+          have questions regarding the invoice, including TTY information, and the R*STARS
+          accounting data (e.g. transaction code, suffix, amount by suffix, etc.).
+
+106.   State agencies must make payment within 30 days of the invoice date listed on the interagency
+       invoice, unless the paying agency disputes all or a portion of the invoice. State agencies paying
+       interagency invoices using R*STARS must pay each invoice with the appropriate transaction
+       code based on the R*STARS accounting data listed on the invoice, or with a payment method
+       approved by both state agencies.
+
+       a. Where there are billing disputes, the paying state agency must make payment on the
+          undisputed portion of the invoice within 30 days of the invoice date.
+
+       b. Disputes or disagreements are those limited situations where the parties cannot reach
+          agreement on the facts that created the invoice or the amount billed. Interagency invoices
+          sent to the correct state agency, but reference the wrong division or program, do not
+          constitute grounds for a dispute.
+
+       c. State agencies must present and resolve billing questions promptly so that the paying state
+          agency may make payment within 30 days. When questions regarding the interagency
+          invoice become disagreements, the paying state agency must provide the billing state
+          agency a written notification that explains the disputed amounts and the reason for the
+          dispute (refer to OAM 75.35.04.FO for a sample Interagency Invoice Inquiry form).
+
+       d. The billing state agency shall respond promptly to the written invoice dispute in an attempt
+          to clarify or resolve the paying state agency’s concerns. Typically, this should be less than
+          30 days.
+
+Progressive Actions
+107. Agency management must have policies or procedures that define when progressive actions
+      will be utilized to collect delinquent interagency invoices. Progressive actions are not
+      mandatory, but if state agencies choose to take them, the actions should be applied in the order
+      suggested in paragraph 109.
+
+
+
+Policy No: 35.70.10 | Effective: 12-11-2018                                                    Page 2 of 3
+108.   State agencies may utilize the progressive actions outlined in paragraph 109 to collect
+       delinquent interagency invoices when:
+
+       a. A state agency does not pay a properly billed interagency invoice within 30 days of the
+          invoice date;
+
+       b. A delinquent state agency does not remit payment in response to notices of delinquent
+          interagency invoices; or
+
+       c. A state agency has a history of delinquency.
+
+109.   Progressive actions to collect interagency invoices include, but are not limited to:
+
+       a. Collection letters, emails, or phone calls to the Chief Financial Officer (CFO) of the
+          delinquent state agency. The billing state agency may notify the delinquent state
+          agency’s CFO. The letter or message should describe the magnitude of the
+          delinquent amount and provide any additional information regarding the payment
+          pattern or history of delinquent payments.
+
+       b. Collection letters, emails, or phone calls to the Director of the delinquent state
+          agency. For repeated delinquencies, the billing state agency may notify the
+          delinquent state agency’s Director. The notification should describe the magnitude of
+          the delinquent amount and provide any additional information regarding the payment
+          pattern or history of delinquent payments. The notification should also describe the
+          collection measures the billing state agency has already taken. The purpose of this
+          notification is to alert the delinquent state agency’s Director of the situation and
+          request assistance in resolving the issue.
+
+       c. A request for intervention by the DAS Chief Financial Office. After notifying the
+          delinquent state agency’s CFO and Director, the billing state agency may contact the
+          DAS Chief Financial Office. The billing state agency’s CFO (or designee) shall send
+          a request for intervention to the DAS Chief Financial Office which includes a brief
+          explanation of the situation. A copy of the request should be sent to the delinquent
+          state agency’s CFO and Director.
+
+
+
+
+Policy No: 35.70.10 | Effective: 12-11-2018                                                        Page 3 of 3
+

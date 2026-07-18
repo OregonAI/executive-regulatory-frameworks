@@ -1,0 +1,51 @@
+                                                                                                   Statewide Policy
+
+
+
+OREGON ACCOUNTING MANUAL
+Subject:       Accounting and Financial Reporting                               Number:         05.10.00
+Division:      State Controller’s Division                                      Effective date: February 12, 2008
+Chapter:       Relational Statewide Accounting and Reporting System (R*STARS)
+Part:          Overview
+Section:
+
+Approved:      John Radford, State Controller                                   Signature on file at SCD
+
+
+
+R*STARS as System of Record
+
+        .101      The Relational Statewide Accounting and Reporting System (R*STARS) is Oregon’s official
+                  accounting system. With limited exceptions, all primary government agencies record their
+                  accounting transactions in R*STARS. In a few instances, agencies may record transactions
+                  initially into another accounting system and interface those transactions to R*STARS.
+
+
+R*STARS Structure
+
+        .102      The Statewide Financial Management Application (SFMA) consists of two parts: R*STARS and
+                  the Advanced Purchasing and Inventory Control System (ADPICS). ADPICS is used for purchase
+                  processing and interfaces with R*STARS.
+
+        .103      There are eight data classification structures within R*STARS:
+
+                             Fund
+                             General ledger
+                             Object
+                             Appropriation
+                             Program
+                             Organization
+                             Project
+                             Grant
+
+                  The first four of these are the key structures used in statewide financial reporting and budgeting.
+                  The last four are established at the agency level.
+
+        .104      Agencies are responsible for designing and setting up a structure in R*STARS, including fund,
+                  program, organization, project and grant elements as appropriate.
+
+
+
+
+                                                                                                           05 10 00.PO.1
+

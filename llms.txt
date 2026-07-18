@@ -70,13 +70,14 @@
 
 ## DAS Accounting Manual (OAM)
 
-- [OAM index](agencies/das/accounting-manual/_index.md): 40 documents across 12 chapters
-  (05 R*STARS, 10 Internal Control, 15 Accounting & Financial Reporting, 20 Budgetary
-  Accounting, 30 Federal Compliance, 45 Payroll, 50 Tax Issues, 55 Other Programs, 60
-  Chart of Accounts, 65 Glossary, 70 agency numbering reference, 75 Forms). Several
-  payroll/tax documents are `status: draft` (unfinished on DAS's own site, with a
-  template-placeholder effective date) — check frontmatter before treating as current
-  guidance.
+- [OAM index](agencies/das/accounting-manual/_index.md): 173 documents mirroring the OAM
+  listing of record — 16 chapters (01 Introduction, 05 R*STARS, 10 Internal Control, 15
+  Accounting & Financial Reporting, 20 Budgetary Accounting, 25 Management Accounting,
+  30 Federal Compliance, 35 Accounts Receivable, 40 Travel, 45 Payroll, 50 Tax Issues,
+  55 Other Programs/SPOTS, 60 Chart of Accounts, 65 Glossary, 70 Agency Lists, 75
+  Forms). Older documents come as split `.po` policy / `.pr` procedure pairs. 12 files
+  are pending drafts not in the listing of record (status `proposed`/`draft`, clearly
+  annotated) — always check frontmatter `status` before treating a document as current.
 
 ## DAS Standards (EIS/CSS)
 

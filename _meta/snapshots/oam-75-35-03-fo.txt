@@ -1,0 +1,60 @@
+                                    Sample Interagency Invoice
+                                                    State of Oregon
+                                               Department of Accounting
+                                                   123 Fourth Street
+                                                 Salem, Oregon 97310
+
+To:      Dept. of Publicity                                                  Invoice No.          ARZ01946
+         Division of Advertisements                                          Date                 1/10/2000
+         567 Eighth Street                                                   Customer No.         10700-123
+         Salem, OR 97310                                                     Amount               $1,251.00
+
+
+
+                                                     ~ INVOICE ~
+ [Contract/Agreement Number]                                                  Period Covering: 12/1/99 – 12/31/99
+
+ ÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙ
+ ª The first page or section is devoted to a summary of the goods
+ ª or services provided if not made obvious by the detail.
+ ÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙ
+
+ ª The next page or section is devoted to
+ ª details concerning the goods or services provided
+ ª including identifying personnel, amounts, and pricing…
+
+
+                                                      Unit                    Unit
+ Description                                         Quantity                 Price                           Total
+
+ Graphic design, mock-up, approval                        5.0                 22.00                            $110.00
+
+ Color printing                                       200.0                     4.50                           $900.00
+
+ Laminating - clear                                   200.0                     1.00                           $200.00
+
+ Lay-up @ Std Rate                                        1.0                 41.00                              $41.00
+
+                                                                                         Total                $1,251.00
+
+ ÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙ
+ ª The final page or section might include information regarding terms and
+ ª conditions, explanations concerning indirect charges, overhead, etc.
+ ÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙ
+
+
+                                                      For SFMS Agencies
+ Vendor Number: ______________                                  OUR     RECOMMEND
+ Invoice #        SFX   PCA/Index     Comp/Agy Obj    AY        Tcode     Tcode Grant/Project         Phase     Amount
+  ARZ01946       001   99305/              /1000        01      199       730/731                              $1,251.00
+ 
+ 
+ 
+
+ Questions? Please call ___(NAME)___ @ (503) 555-5555.                  Remit a copy of this invoice when paying by check.
+
+                                                         TERMS: NET 30
+
+
+                                                                                                                         75 35 03.FO 1
+

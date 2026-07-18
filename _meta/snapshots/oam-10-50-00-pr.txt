@@ -1,0 +1,225 @@
+ OREGON ACCOUNTING MANUAL                                                      Number
+                                                                               10.50.00.PR
+
+ Oregon Department of                             Procedure                    Effective Date
+ Administrative Services
+ State Controller's Division                                                   January 2, 2002
+
+ Chapter          Internal Control
+                                                                               .1 OF .5
+ Part             Capital and Non-capital Assets
+
+ Section                                                                       Approval
+
+                                                                               Signature on file at SCD
+
+Authority       ORS 270.020
+                ORS 270.100
+                ORS 270.180
+                ORS 276.180
+                ORS 276.227
+                ORS 278.405
+                ORS 283.337
+                ORS 283.343
+                ORS 283.350
+                ORS 293.590
+
+
+        .101    Capital assets are all tangible or intangible property used in an agency’s operations that have
+                initial estimated useful lives beyond a single year and have an initial cost (inclusive of ancillary
+                charges necessary to place the asset into its intended location and condition for use) of at least
+                $5,000. Items below the $5,000 threshold should not be capitalized. Examples of capital assets
+                include land, land improvements, buildings and building improvements, motor vehicles,
+                equipment and machinery, works of art and historical treasures, and infrastructure items such
+                as state highways and airports.
+
+        .102    Non-capital assets are all tangible and intangible property used in agency operations that have
+                initial estimated useful lives beyond a single year and have an initial cost (inclusive of ancillary
+                charges) of less than $5,000. Although non-capital assets should not be capitalized, agency
+                management should determine which of these assets is at high risk of loss (e.g. laptop
+                computers, firearms, hand tools, etc.) and should inventory and track these assets on a separate
+                inventory listing. Public stewardship, risk, and internal control concerns should govern the
+                agency’s decision on how these assets are managed and tracked.
+
+        .103    Capital assets may be acquired by outright purchase, construction, lease purchase agreement,
+                installment purchase contract, eminent domain, foreclosure, transfer from another fund or
+                agency, or gift. Capital assets should be separated and recorded under the proper definition as
+                land, land improvements, buildings and building improvements, equipment and machinery, data
+                processing hardware, data processing software, works of art and historical treasures, and
+                infrastructure.
+
+        .104    Reconciliations of capital outlay expenditures to capital assets should be completed by each
+                agency on at least a quarterly basis.
+
+
+
+
+                                                                                                       10 50 00.PR - 1
+Real Property
+
+       .105     DAS Facilities Division shall maintain and keep current an inventory of all State-owned property
+                and shall classify all such property on the basis of current use, value, idle or surplus to the
+                agency need. DAS shall establish categories of real property necessary for management of state-
+                owned real property. Land owning agencies shall provide status information, as requested by
+                DAS, of agency-owned land.
+
+       .106     When vacated and no longer required for institution uses, all or any portion of the buildings,
+                grounds, and facilities presently operated and controlled by the Mental Health and Developmental
+                Disability Services Division, Department of Corrections, State Office for Services to Children and
+                Families, or the State Board of Education, are transferred to the DAS, if the Department of
+                Administrative Services orders such transfer.
+
+       .107     Agencies are required to secure approval from DAS for sale of all other real property prior to
+                disposition. Excepted agencies (Department of Fish and Wildlife, Department of Forestry,
+                Department of Transportation, Division of State Lands, Oregon University System, Parks and
+                Recreation Department) and agencies of the legislative or judicial branches must receive prior
+                approval if disposition is for less than the fair market value of the land. A copy of the approval will
+                be kept in the agency’s control file.
+
+       .108     Property is removed from the property ledger only when title is transferred to another.
+
+
+Vehicles
+
+       .109     DAS shall control and regulate the acquisition, use, maintenance, and disposal of motor vehicles
+                used for State business.
+
+       .110     Agencies wanting to acquire passenger vehicles not listed on State price agreement shall seek
+                and receive specific approval from the Joint Legislative Committee on Ways and Means or the
+                Legislative Emergency Board before proceeding with vehicle acquisition through DAS
+                purchasing.
+
+       .111     Exceptions to .110 above require signature approval of the administrator of the TPPS Division of
+                DAS and shall be permitted in instances enumerated in DAS Fleet Policy.                    (See
+                http://www.oregon.gov/DAS/EAM/FPS/pages/policies.aspx.)
+
+       .112     State vehicles deemed to have reached the end of their efficient life cycle shall be disposed of
+                according to State law. Vehicles scheduled for disposal will be sold through DAS TPPS Division
+                Surplus Property.
+
+       .113     State-owned sedans and station wagons must meet a minimum monthly mileage requirment.
+                Vehicles not achieving the monthly mileage threshold as averaged over a designated six-month
+                period    may     be     subject    to    sale.        Refer   to    DAS      Fleet    Policy
+                http://www.oregon.gov/DAS/EAM/FPS/pages/policies.aspx.
+
+       .114     Agencies are responsible for obtaining the most cost-effective means of transportation for their
+                employees. The most cost-effective alternative is motor pool vehicles. If a motor pool vehicle is
+                not available, agencies may reimburse private car mileage, or approve rental of a vehicle through
+                State price agreement. These choices should only be temporary until a Motor Pool vehicle is
+                available.
+
+       .115     With few exceptions, the State’s vehicles shall be stored at sites owned, leased, or controlled by
+                the State. When practical, a State vehicle at home, hotel, or motel shall be parked off the street
+                in a reasonably secure setting.
+
+       .116     An agency may allow a State vehicle to be parked at an employee’s home when a task or trip
+                requires the driver to depart so early or return so late that it is impractical to pick up or return the
+
+                                                                                                          10 50 00.PR - 2
+               vehicle to State Parking the same day. The agency must do a cost-benefit analysis before a
+               long-term assignment of a vehicle to an employee’s home.
+       .117    State owned or operated automobiles or trucks shall be marked, in plain lettering of readable
+               size, with the name of the owning or operating agency, followed by the words “State of Oregon.”
+               Subject to the approval of the TPPS Division Administrator, vehicles owned or operated by State
+               agencies may be unmarked when used by State agencies for specific purposes such as
+               undercover criminal investigation.
+
+       .118    Agency management shall be responsible for acquiring vehicle services and replacement parts at
+               the lowest possible cost and/or value to the State. Management shall also ensure that purchases
+               and record keeping comply with State laws and generally accepted accounting principles.
+
+       .119    Custody of assets should be separated from recordkeeping. For instance, vehicle titles should be
+               controlled by an individual in a unit separate from fleet storage and maintenance.
+
+
+Inventory
+
+       .120    Personal property meeting the definition of capital assets should be capitalized, tagged with a
+               State of Oregon identification tag and property control number, listed on the capital asset property
+               inventory, and physically inventoried at least annually. Discrepancies should be investigated.
+               Support that a physical inventory has been taken, for all locations, should be retained in the
+               agency’s central accounting office.
+
+       .121    As an individual agency policy, a lower level (below $5,000) may be used for inventory control
+               purposes only (not for capitalization).
+
+       .122    Agencies should identify, record, and control inventory items that have a high risk of loss such as:
+
+                   Computer and electronic equipment
+                   Photography equipment
+                   Firearms
+                   Hand tools
+                   Any other items agency management identifies as being at high risk of loss
+
+       .123    The agency should establish a separate listing for high risk and other assets below the $5,000
+               capitalization threshold that are inventoried.      The separate listings can be inventoried
+               concurrently or on a different frequency than the capital asset inventory. High risk assets that are
+               assigned to state employees are subject to OAM 10.55.00.
+
+
+Vehicle Records
+
+       .124   Agencies shall maintain records on each vehicle under their control. Records shall include:
+
+               a. Accurate vehicle inventory.
+
+               b. Reliable detailed and accurate information on work performed, replacement parts,
+                  and associated costs.
+
+       .125    Vehicle maintenance and repair records must accompany vehicles when transferred to another
+               owner.
+
+       .126    Agencies shall maintain records and provide DAS with information necessary to comply with
+               biennial legislative reporting requirements identified in ORS 283.343, Compliance Examination
+               On Use Of State Owned Vehicles.
+
+
+                                                                                                      10 50 00.PR - 3
+       .127   Agencies shall maintain records and provide DAS with information necessary for the annual
+              reporting requirements identified in ORS 283.337, Reports to Department of Environmental
+              Quality and Office of Energy.
+
+
+Insurance
+
+       .128   Each agency is required to file a Risk Report annually with the Risk Management Division of the
+              Department of Administrative Services (DAS). Agencies are required to report all property in their
+              possession on July 1 of each year on which the risk management policy would pay losses. Loss
+              to property omitted from the report will not be paid. Loss to property acquired after report
+              preparation will be paid subject to Risk Management policy.                          Refer to
+              http://oregon.gov/DAS/EGS/Risk/Pages/PolicyHandbook.aspx.
+
+       .129   Conditions of coverage for employee dishonesty are:
+
+              a. Agencies must immediately report any and all losses discovered from apparent
+                 fraudulent or dishonest acts by agency officers, employees, or agents to the Risk
+                 Management Division and the Secretary of State Audits Division.
+
+              b. Agencies must report any and all losses within 90 days after they are discovered.
+                 Late reporting may forfeit coverage.
+
+              c.   Agencies may not forgive, release, or promise not to prosecute any staff alleged to
+                   have caused a loss.
+
+              d. Agencies must preserve and furnish to Risk Management and the Audits Division all
+                 evidence of loss and of fraud or dishonesty.
+
+              Failure to comply with the above conditions may expose a state officer, employee, or
+              agent to personal liability.
+
+
+Disposition
+
+       .130   All personal property (including both capital and non-capital assets), when removed from the
+              property ledger for any reason, must be removed by completion of the form designated by the
+              DAS-State Surplus Property Program.
+
+       .134   Agencies should respond to directions from State Surplus Property Program for disposal of the
+              surplus property. Do not delete property sent to surplus from the property control ledger until
+              notified that the property has been sold or disposed of.
+
+
+
+
+                                                                                                   10 50 00.PR - 4
+

@@ -1,0 +1,191 @@
+                             OREGON ACCOUNTING MANUAL
+                                                      NUMBER                      SUPERSEDES
+
+                                                      35.40.30                    35.40.30
+                                                                                  dated 02/09/2018
+ STATEWIDE POLICY
+                                                      EFFECTIVE DATE              PAGE NUMBER
+
+                                                      07/16/2018                  Pages 1 of 4
+ Division                                             REFERENCE/AUTHORITY
+ Chief Financial Office                               ORS 183.413             ORS 183.502
+                                                      ORS 291.015             ORS 293.226
+ Policy Owner                                         ORS 293.231             ORS 293.233
+ Statewide Accounting and Reporting                   ORS 293.250             ORS 293.252
+ Services                                             ORS 293.590
+
+ SUBJECT                                              APPROVED SIGNATURE
+ Accounts Receivable Management- Account
+                                                      George Naughton, Chief Financial Officer
+ Assignments: Department of Revenue                   Signature on file
+ Assignments
+
+PURPOSE
+This policy provides state agencies with guidelines for using the Department of Revenue Other Agency
+Accounts Unit (DOR-OAA) for the collection of liquidated and delinquent debt.
+
+APPLICABILITY
+This policy applies to all state agencies included in the State’s annual financial statements, except for
+those agencies specifically exempted by OAM 01.05.00.
+
+FORMS/EXHIBITS/INSTRUCTIONS
+None
+
+DEFINITIONS
+Account: a relationship between a state agency and an individual or an entity.
+
+Apportionment: The process of separating a joint tax return refund based on the adjusted gross
+income of each person.
+
+Automated Clearing House (ACH): An electronic network for financial transactions in the United
+States.
+
+Delinquent debt: An account receivable for which the state agency did not receive payment by the
+original due date.
+
+Full collection services: Also referred to as “unrestricted”, services may include: letters, phone calls,
+garnishments, skip tracing, asset location, and offset.
+
+Liquidated debt: An account receivable for which the debtor was provided notification of the debt
+amount and an opportunity to dispute the debt. The complete definition of liquidated is available in
+OAM 35.30.30.
+
+Offset Only: Also referred to as “restricted”, services include intercepting refunds.
+
+
+Policy No: 35-40-30 | Effective: 07/16/2018                                                      Page 1 of 4
+Click here for other definitions.
+
+EXCLUSIONS AND SPECIAL SITUATIONS
+None.
+
+POLICY:
+101. Agency management must ensure that agency personnel employ appropriate practices in the
+     management and collection of accounts receivable.
+
+102.    The State’s policy is to collect all accounts receivable due to state agencies and to establish
+        procedures to effect the timely collection of all amounts owed.
+
+103.    Prior to assignment to DOR-OAA:
+
+        a.      Agencies must notify debtors of the assignment requirements referenced in paragraph
+                103(b). Refer to OAM 35.30.50 for notification requirements.
+
+        b.      Agencies are must identify accounts subject to assignment in accordance with OAM
+                35.30.30 and OAM 35.40.10. Account assignments shall be made via Revenue Online
+                or in a format approved by DOR-OAA.
+
+        c.      Agencies shall determine whether to assign exempt liquidated and delinquent accounts
+                referenced in OAM 35.40.10 to DOR-OAA for offset only or for full collection
+                services. Accounts assigned for offset only must include a social security number
+                (refer to paragraph 103(e)).
+
+        d.      Agencies may not assign a liquidated and delinquent account to DOR-OAA for full
+                collection services and offset only at the same time; full collection services includes
+                offset recovery.
+
+        e.      Agencies that obtain the social security number directly from the debtor may only
+                provide DOR-OAA the debtor’s social security number if the debtor was provided
+                notification as outlined in OAR 122-085-0200. A social security number obtained from a
+                third party via skip tracing (refer to OAM 35.30.70) may be provided to DOR-OAA
+                without notifying the debtor in advance.
+
+104.    Agencies shall determine the level of service to be performed prior to assigning accounts to
+        DOR-OAA for collections. The level of service performed by DOR-OAA and the fees for
+        providing the service shall be documented in a format determined by DOR-OAA.
+
+105.    Agencies shall request DOR-OAA to create agency specific program code(s). Program codes
+        may be used to separate:
+
+        A. Accounts assigned for full collection service from accounts assigned for offset only;
+
+        B. Full collection service accounts eligible for the issuance of distraint warrants from those
+           that are not;
+
+        C. Accounts where the cost of collection is passed to the debtor (refer to OAM 35.40.20); and
+
+        D. Accounts by agency program area.
+
+106.    Agencies must determine whether an account qualifies for DOR-OAA to issue a distraint
+        warrant when assigned for full collection services. DOR-OAA may only issue distraint
+
+Policy No: 35-40-30 | Effective: 07/16/2018                                                      Page 2 of 4
+        warrants for accounts that were liquidated in accordance with the Administrative Procedures
+        Act (refer to OAM 35.30.30).
+
+107.    At the time an account is assigned to DOR-OAA, agencies must provide information regarding
+        the account as required by DOR-OAA.
+
+108.    Agencies cannot continue to pursue collection from a debtor after assigning the account to
+        DOR-OAA for full collection services. (Refer to paragraph 117 to recall accounts if
+        applicable).
+
+109.    DOR-OAA has authority to determine the best avenue for collecting assigned accounts within
+        the terms of service agreed upon by the assigning agency as referenced in paragraph 104.
+
+110.    Agencies must maintain account balances. Agencies are responsible for notifying DOR-OAA of
+        any account balance changes (e.g. adjustments or payments received by the agency).
+        Notifications may be made through Revenue Online or in a format approved by DOR-OAA.
+
+111.    Agencies shall handle disputed assigned accounts in accordance with the level of service
+        agreed to between the agency and DOR-OAA.
+
+112.    DOR-OAA may intercept refunds and apply those amounts to offset liquidated and delinquent
+        accounts assigned for offset only or full collection services. A social security number is
+        required to intercept state tax refunds (refer to paragraph 103(e)).
+
+113.    DOR-OAA may report liquidated and delinquent account balances to the United States
+        Treasury Offset Program State Reciprocal Program to allow for federal non-tax payments to be
+        intercepted and applied towards the liquidated and delinquent account balances.
+
+114.    DOR-OAA will notify the debtor directly of any offsets; the notification will include procedures for
+        the debtor to request a hearing to dispute the offset or to request an apportionment.
+
+115.    DOR-OAA will review and respond to all apportionment requests. DOR-OAA will charge any
+        resultant change in the refund amount back to the assigning agency. DOR-OAA will send
+        notification of the apportionment request and the outcome to the assigning agency in a format
+        determined by DOR-OAA.
+
+116.    ORS 293.231 requires DOR-OAA to assign all liquidated and delinquent accounts received
+        under paragraph 103(b) to a private collection firm (PCF) if a payment has not been received
+        within six months from the date the account was assigned to DOR-OAA. DOR-OAA may assign
+        these accounts to a PCF prior to six months.
+
+117.    Agencies have the authority to and may request DOR-OAA to return an assigned account via
+        Revenue Online or in a format approved by DOR-OAA. The agencies shall document the
+        reasons for recalling the account.
+
+118.    DOR-OAA will recommend accounts for write-off to the assigning agency once all reasonable
+        efforts to collect the account have been exhausted.
+
+119.    Agencies shall evaluate accounts recommended for write-off under paragraph 118 for
+        uncollectibility as outlined in OAM 35.50.10.
+
+120.    DOR-OAA shall continue to monitor accounts recommended for write-off for subsequent
+        collectibility as referenced in ORS 293.245. Refer to OAM 35.50.10 for guidance on
+        subsequently collectible accounts.
+
+Policy No: 35-40-30 | Effective: 07/16/2018                                                       Page 3 of 4
+121.    DOR-OAA will provide monthly reports to each agency via Revenue Online or in a format
+        approved by DOR-OAA. The reports will include account activity or status for all accounts
+        assigned to DOR-OAA and PCFs.
+
+122.    Agencies should reconcile agency account balances with the DOR-OAA reports regularly.
+        Agencies are responsible for contacting DOR-OAA to resolve any reconciliation issues.
+
+123.    Agencies must report all liquidated and delinquent account assignment activity to the
+        Legislative Fiscal Office as described in OAM 35.60.10.
+
+124.    DOR-OAA will remit moneys collected, less the applicable collection fee, to the respective
+        agencies monthly via ACH. This includes moneys collected by PCFs.
+
+125.    Agencies shall record moneys remitted by DOR-OAA in accordance with OAM 15.35.00.
+
+126.    Debtor overpayments will be resolved in accordance with the agreement between DOR-OAA
+        and the assigning agency.
+
+
+
+
+Policy No: 35-40-30 | Effective: 07/16/2018                                                    Page 4 of 4
+

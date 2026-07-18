@@ -1,0 +1,57 @@
+                                                                                 Number
+ OREGON ACCOUNTING MANUAL                                                        10.65.00.PO
+
+ Oregon Department of                                Policy                      Effective Date
+ Administrative Services
+ State Controller's Division                                                     July 29, 2003
+
+ Chapter             Internal Control
+                                                                                 .1 OF .1
+ Part                Approval of Proposed Fiscal Systems
+
+ Section                                                                         Approval
+
+                                                                                 Signature on file at SCD
+
+Authority       ORS 291.015
+                ORS 291.038
+                ORS 293.595
+
+
+        .101    The Oregon Department of Administrative Services (DAS), State Controller's Division will review
+                all proposed development, acquisitions, or modifications of fiscal systems. For purposes of this
+                policy, fiscal systems are defined to include subsidiary systems that interface into statewide
+                systems which are used to record transactions related to revenues, expenditures, assets and
+                liabilities; to record or control non-capital or capital assets; or to record or produce vouchers,
+                checks, purchase orders, or invoices. Statewide systems managed by the State Controller’s
+                Division include the Statewide Financial Management Application (SFMA) and the Oregon State
+                Payroll Application (OSPA).
+
+        .102    Because of the cost to develop a fiscal system and the requirement for data processing support,
+                the State Controller's Division, in conjunction with the DAS Information Resources Management
+                Division (IRMD), will review all proposals to determine:
+
+                a. The need for purchasing, modifying, or developing a new system or a system
+                   that will interface to SFMA or OSPA.
+
+                b. Whether or not the proposed system duplicates the functionality of an
+                   existing statewide system.
+
+                c.     The availability of data processing support.
+
+                d. The advisability of using or modifying an available system.
+
+                e. Uniformity with other state systems.
+
+                f.     Adequacy of controls and audit trail.
+
+                The decision to approve or disapprove the request will be made based on the above
+                determinations. The State Controller’s Division will retain formal documentation of the decisions
+                made and will provide a copy of such documentation to the Secretary of State Audits Division for
+                their information.
+
+
+
+
+                                                                                                        10 65 00.PO. 1
+

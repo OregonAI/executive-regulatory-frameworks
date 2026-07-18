@@ -32,7 +32,7 @@
     },
     "legal_authority": { "type": "array", "items": { "type": "string" } },
     "source_url": { "type": "string", "format": "uri", "pattern": "^https?://" },
-    "source_format": { "enum": ["pdf", "html", "xml"] },
+    "source_format": { "enum": ["pdf", "html", "xml", "xls", "xlsx", "docx"] },
     "retrieved": { "type": "string", "format": "date", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
     "source_sha256": {
       "type": "string",

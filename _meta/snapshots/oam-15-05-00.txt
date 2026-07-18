@@ -1,0 +1,85 @@
+                                                                                     Statewide Policy
+
+
+OREGON ACCOUNTING MANUAL
+
+SUBJECT:       Accounting and Reporting                              Number: 15.05.00
+DIVISION:      Chief Financial Office                                Effective date: February 13, 2017
+Chapter:       Accounting and Financial Reporting
+Part:          GAAP Hierarchy
+Section:
+
+APPROVED: George Naughton, Chief Financial Officer                   Signature on file
+
+
+PURPOSE:               The purpose of this policy is to identify the sources of accounting principles and
+                       the framework for selecting the principles used in the preparation of financial
+                       statements presented in conformity with generally accepted accounting
+                       principles (GAAP).
+
+AUTHORITY:             ORS 293.590
+                       GASB Statement No. 76
+
+APPLICABILITY:         This policy applies to all state agencies included in the State’s annual financial
+                       statements, except for those agencies specifically exempted by OAM Policy
+                       01.05.00.
+
+POLICY:
+
+101.    Agency management must ensure the proper accounting and reporting of agency operations in
+        accordance with GAAP.
+
+102.    The GAAP Hierarchy sets forth what constitutes GAAP for all state and local government
+        entities. It establishes the order of priority of pronouncements and other sources of accounting
+        and financial reporting guidance that a governmental entity should apply.
+
+103.    The sources of authoritative GAAP are categorized in descending order of authority as follows:
+
+               a. Officially established accounting principles - Governmental Accounting
+                  Standards Board (GASB) Statements (Category A)
+
+               b. GASB Technical Bulletins; GASB Implementation Guides; and literature of
+                  the AICPA cleared by GASB (Category B)
+
+        Authoritative GAAP is incorporated periodically into the Codification of Governmental
+        Accounting and Financial Reporting Standards (Codification), and when presented in the
+        Codification, it retains its authoritative status.
+
+
+
+
+OAM 15.05.00                                                                                       Page 1
+104.   If the accounting treatment for a transaction or other event is not specified by a pronouncement
+       in Category A, consider whether the accounting treatment is specified by a source in Category
+       B.
+
+105.   If the accounting treatment for a transaction or other event is not specified within a source of
+       authoritative GAAP described in paragraph 103, first consider accounting principles for similar
+       transactions or other events within a source of authoritative GAAP described in paragraph 103
+       and then one may consider nonauthoritative accounting literature from other sources, as
+       identified in paragraph 106, that does not conflict with or contradict authoritative GAAP. Do not
+       apply accounting principles specified in authoritative GAAP described in paragraph 103 to
+       similar transactions or other events if those accounting principles either (a) prohibit the
+       application of the accounting treatment to the particular transaction or other event or (b)
+       indicate that the accounting treatment should not be applied by analogy.
+
+106.   Sources of nonauthoritative accounting literature:
+           GASB Concepts Statements
+           The pronouncements and other literature of the Financial Accounting Standards Board,
+             Federal Accounting Standards Advisory Board, International Public Sector Accounting
+             Standards Board, and International Accounting Standards Board, and AICPA literature
+             not cleared by the GASB
+           Practices that are widely recognized and prevalent in state and local government
+           Literature of other professional associations or regulatory agencies
+           Accounting textbooks, handbooks, and articles
+
+       The appropriateness of the nonauthoritative accounting literature depends on the consistency
+       of the literature with the GASB Concepts Statements, the relevance of the literature to particular
+       circumstances, the specificity of the literature, and the general recognition of the issuer or
+       author as an authority.
+
+
+
+
+OAM 15.05.00                                                                                      Page 2
+

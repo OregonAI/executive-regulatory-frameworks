@@ -1,0 +1,47 @@
+                                              DEPARTMENT OF ACCOUNTING                           INVOICE
+                                                    123 Fourth Street
+                                                    Salem, OR 97310
+
+Bill To:                                                                               Invoice Date:   September 01, 2018
+           Department of Publicity                                                 Invoice Number:     AIX12345
+           Division of Advertisements                                                     Due Date:    October 01, 2018
+           567 Eighth Street                                                     Customer Number:      0000114000
+           Salem, OR 97310                                                       Total Amount Due:     $1,251.00
+
+                                            INVOICE DESCRIPTION                                             AMOUNT
+
+
+           [Contract or agreement number]                                                                       $1,251.00
+           For the period consisting of August 1, 2018 - August 31, 2018
+
+                                                           Unit           Unit
+            Item description                            quantity         price             Total
+            Graphic design, mock-up, approval               5.0        $22.00           $110.00
+            Color printing                                200.0          4.50             900.00
+            Laminating – clear                           200.00          1.00             200.00
+            Lay-up @ standard rate                          1.0         41.00              41.00
+                                                                        Total:         $1,251.00
+
+           Failure to remit payment in full by the due date may result in additional costs
+           associated with penalties, fees, and interest as authorized by law.
+
+              PLEASE REFERENCE THE INVOICE NUMBER ON ALL REMITTANCE DOCUMENTS
+
+           If paying with an SFMA balanced transfer, please use T-Code 730-731 and apply the
+           payment as follows:
+                                          Invoice
+                              T-Code      number        Suffix         Total
+                                731      AIX12345        001        $110.00
+                                731      AIX12345        002         900.00
+                                731      AIX12345        003         200.00
+                                731      AIX12345        004           41.00
+
+
+
+           Thank you for your prompt payment.
+
+                                                                                              TOTAL:            $1,251.00
+
+
+                                    Billing questions? Please call [name] at (503) 123-4567
+

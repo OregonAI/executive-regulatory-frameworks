@@ -109,9 +109,12 @@ def content_hash(raw: bytes, fmt: str) -> str:
         proc = subprocess.run(["pdftotext", "-layout", "-", "-"], input=raw,
                               capture_output=True, check=False)
         text = proc.stdout.decode("utf-8", errors="replace") if proc.returncode == 0 else ""
-    else:
+    elif fmt in ("html", "xml"):
         from html_to_text import html_to_text
         text = html_to_text(normalize_volatile(raw))
+    else:
+        # binary formats with no text extractor (xls/xlsx/docx): raw-byte hash
+        return hashlib.sha256(raw).hexdigest()
     norm = normalize_ws(text)
     if len(norm) >= 200:
         return hashlib.sha256(norm.encode("utf-8")).hexdigest()

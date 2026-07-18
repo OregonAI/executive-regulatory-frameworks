@@ -1,0 +1,84 @@
+                                                                                                Statewide Policy
+
+
+
+OREGON ACCOUNTING MANUAL
+SUBJECT:       Accounting and Financial Reporting                             Number:         10.60.00.PO
+DIVISION:      State Controller’s Division                                    Effective date: August 1, 2010
+Chapter:       Internal Control
+Part:          Information Technology
+
+APPROVED: John Radford, State Controller                                      Signature on file at SCD
+
+
+Authority      ORS 291.015
+               ORS 293.590
+               ORS 293.595
+
+
+Management of Risks, Performance, and Controls in the Information Technology (IT) Environment
+
+        .101   Each agency head is responsible for establishing, maintaining, and improving internal controls
+               over the agency’s information technology (IT). An agency must ensure the adequacy of the
+               design, implementation, and operation of its IT controls to provide an acceptable level of
+               confidence in agency systems and assurance that:
+
+               a. Management’s IT goals and objectives are being accomplished effectively and
+                  efficiently;
+               b. IT investments and investment strategies are well planned and adequately funded;
+               c. IT assets are safeguarded; and
+               d. IT operational and investment strategies follow management’s direction,
+                  authorization, and security and control policies.
+
+        .102   In addition, agencies must comply with all statewide IT security policies and initiatives issued by
+               the Department of Administrative Services, Enterprise Information Strategy and Policy Division
+               (DAS-EISPD) and all applicable federal and state laws and regulations pertaining to the
+               confidentiality, integrity and availability of electronic data, including Oregon Laws 2007, Chapter
+               759.
+
+        .103   State agencies must provide adequate security and control training and other educational support
+               to employees involved in the design, development, implementation, maintenance, and
+               management of the IT infrastructure/function, as well as the storage and protection of the
+               underlying data. A variety of nationally and locally recognized associations and DAS-EISPD
+               provide training.
+
+
+Review of IT Controls
+
+        .104   Periodically, agency management must review and test the performance of the agency’s internal
+               controls over information technologies.
+
+        .105   Agency management must prepare a report that identifies any significant or material weaknesses
+               in the agency’s IT controls and gives a status update on IT control weaknesses identified in earlier
+               reports or noted by internal or external auditors. This report should be available for use by the
+
+                                                                                                       10.60.00.PO.1
+       Department of Administrative Services as well as internal and external auditors. The agency must
+       create a detailed plan for correcting the deficiencies and include estimated dates of completion.
+
+.106   Agency heads should consider making the IT review process an annual event. The corresponding
+       report would serve to document, as a permanent record, the effective management and control of
+       the agency’s IT operations and infrastructure investments.
+
+.107   The Secretary of State, Audits Division has adopted CobiT (Control Objectives for Information and
+       Related Technology) as the basis for auditing the IT management function. Agencies are also
+       encouraged to adopt generally accepted standards relating to the IT management function.
+
+.108   The Audits Division may review an agency’s IT security and internal control management as part
+       of its ongoing audit activities. Such a review will not satisfy the requirements of this policy for
+       agency management to review and be accountable for the adequacy of the design,
+       implementation, and operation of the agency’s IT controls. However, suggestions from the Audits
+       Division can be useful to agency managers in conducting IT reviews and formulating corrective
+       action plans.
+
+.109   The use of qualified agency internal auditors to assist management in reviewing IT controls is
+       strongly encouraged. A properly staffed internal audit function may be able to provide ongoing
+       monitoring and objective risk assessment. Independent review and analysis are critical elements
+       in a well-designed framework of IT controls, particularly, during the planning, development, testing
+       and implementation of systems.
+
+
+
+
+                                                                                              10.60.00.PO.2
+

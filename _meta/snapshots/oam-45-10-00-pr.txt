@@ -1,0 +1,56 @@
+                                                                                              Statewide Procedure
+
+
+
+OREGON ACCOUNTING MANUAL
+Subject:       Accounting and Financial Reporting                               Number:         45.10.00.PR
+Division:      State Controller’s Division                                      Effective date: February 27, 2008
+Chapter:       Payroll
+Part:          Voluntary Deductions
+Section:
+
+Approved:      John Radford, State Controller                                   Signature on file at SCD
+
+
+
+Procedure to Establish a Deduction Code
+
+        .101      The organization, entity or agency proposing or requesting a new deduction contacts Oregon
+                  Statewide Payroll Services (OSPS) to request that a new deduction code be assigned. The
+                  requestor must specify if the deduction is to be limited to specific agencies. OSPS will evaluate
+                  the request and verify the permissions. If the deduction is permitted, OSPS will respond to the
+                  requestor and verify the date by which the code will be effective.
+
+        .102      When notified that the deduction code request has been approved, the funds recipient must, in
+                  writing, provide the information necessary to implement Electronic Funds Transfer (EFT) of the
+                  deducted funds. The following information is needed:
+
+                      a. Complete business name and address of the recipient of the funds.
+                      b. The name and address of the recipient’s bank.
+                      c.   The American Banking Association (ABA) routing/transit number and the account number
+                           for the destination of the funds.
+
+        .103      OSPS will create the deduction code and notify the requesting entity and the agencies when the
+                  code is ready for use.
+
+        .104      The code and description will be added to the OSPS Reference Manual appendix of valid
+                  deduction codes.
+
+
+Implementing Deductions from Employee’s Pay
+
+        .105      The funds recipient will supply the agencies with deduction authorization forms to record the
+                  employee’s permission to activate the deduction. Authorization forms must indicate the funds
+                  recipient, the monthly amount, the effective date of the deduction, length of time for which the
+                  deduction is authorized (either fixed term or permanent), a clear statement of authorization, and a
+                  place for the employee’s full name, signature and the date the form was signed.
+
+        .106      Upon receipt of a signed authorization, the agency may activate the deduction code in OSPA.
+                  The agency must retain employee deduction authorizations in accordance with the state records
+                  retention schedule.
+
+
+
+
+                                                                                                           45.10.00.PR.1
+
