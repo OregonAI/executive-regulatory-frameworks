@@ -1,0 +1,1844 @@
+note: Discovery map of ORS chapters relevant to DAS/executive-branch administration. Section catchlines
+  extracted from oregonlegislature.gov chapter HTML (2025 Edition) on 2026-07-18; not independently verified
+  per-section and may include minor noise (e.g. cross-references, renumbered/repealed sections). Status
+  'ingested' means a full document file with provenance exists in statutes/; everything else is backlog.
+chapters:
+- chapter: '183'
+  title: Administrative Procedures Act
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors183.html
+  sections:
+  - number: '183.310'
+    title: Definitions for chapter
+    status: not_ingested
+  - number: '183.315'
+    title: Application of provisions of chapter to certain agencies (Adoption of Rules)
+    status: not_ingested
+  - number: '183.325'
+    title: Delegation of rulemaking authority to named officer or employee
+    status: not_ingested
+  - number: '183.330'
+    title: Description of organization; service of order; rules coordinator; order not final until put
+      in writing
+    status: not_ingested
+  - number: '183.332'
+    title: Policy statement; conformity of state rules with equivalent federal laws and rules
+    status: not_ingested
+  - number: '183.333'
+    title: Policy statement; public involvement in development of policy and drafting of rules; advisory
+      committees
+    status: not_ingested
+  - number: '183.335'
+    title: Notice; content; public comment; temporary rule adoption, amendment or suspension; substantial
+      compliance required
+    status: not_ingested
+  - number: '183.336'
+    title: Cost of compliance effect on small businesses
+    status: not_ingested
+  - number: '183.337'
+    title: Procedure for agency adoption of federal rules
+    status: not_ingested
+  - number: '183.338'
+    title: Use of term “noncitizen” in rules and regulations
+    status: not_ingested
+  - number: '183.341'
+    title: Model rules of procedure; establishment; compilation; publication; agencies required to adopt
+      procedural rules
+    status: not_ingested
+  - number: '183.355'
+    title: Filing and taking effect of rules; filing of executive orders; copies; fees; rules
+    status: not_ingested
+  - number: '183.360'
+    title: Publication of rules and orders; exceptions; requirements; bulletin; judicial notice; citation
+    status: not_ingested
+  - number: '183.365'
+    title: Publication of administrative rules in electronic form
+    status: not_ingested
+  - number: '183.370'
+    title: Distribution of published rules
+    status: not_ingested
+  - number: '183.390'
+    title: Petitions requesting adoption of rules
+    status: not_ingested
+  - number: '183.400'
+    title: Judicial determination of validity of rule
+    status: not_ingested
+  - number: '183.403'
+    title: Agency report to Legislative Assembly regarding temporary rules
+    status: not_ingested
+  - number: '183.405'
+    title: Agency review of rules; report by Secretary of State
+    status: not_ingested
+  - number: '183.407'
+    title: Small Business Rules Advisory Committee
+    status: not_ingested
+  - number: '183.410'
+    title: Agency determination of applicability of rule or statute to petitioner; effect; judicial review
+      (Contested Cases)
+    status: not_ingested
+  - number: '183.411'
+    title: Delegation of final order authority
+    status: not_ingested
+  - number: '183.413'
+    title: Notice to parties before hearing of rights and procedure; failure to provide notice
+    status: not_ingested
+  - number: '183.415'
+    title: Notice of right to hearing
+    status: not_ingested
+  - number: '183.417'
+    title: Procedure in contested case hearing
+    status: not_ingested
+  - number: '183.425'
+    title: Depositions or subpoena of material witness; discovery
+    status: not_ingested
+  - number: '183.430'
+    title: Hearing on refusal to renew license; exceptions
+    status: not_ingested
+  - number: '183.435'
+    title: Period allowed to request hearing for license refusal on grounds other than test or inspection
+      results
+    status: not_ingested
+  - number: '183.440'
+    title: Subpoenas in contested cases
+    status: not_ingested
+  - number: '183.445'
+    title: Subpoena by agency or attorney of record of party when agency not subject to ORS
+    status: not_ingested
+  - number: '183.450'
+    title: Evidence in contested cases
+    status: not_ingested
+  - number: '183.452'
+    title: Representation of agencies at contested case hearings
+    status: not_ingested
+  - number: '183.453'
+    title: Representation of Oregon Health Authority and Department of Human Services at contested case
+      hearings
+    status: not_ingested
+  - number: '183.457'
+    title: Representation of persons other than agencies participating in contested case hearings
+    status: not_ingested
+  - number: '183.458'
+    title: Nonattorney and out-of-state attorney representation of parties in certain contested case hearings
+    status: not_ingested
+  - number: '183.459'
+    title: Representation of home care worker by labor union representative
+    status: not_ingested
+  - number: '183.460'
+    title: Examination of evidence by agency
+    status: not_ingested
+  - number: '183.462'
+    title: Agency statement of ex parte communications; notice
+    status: not_ingested
+  - number: '183.464'
+    title: Proposed order by hearing officer; amendment by agency; exemptions
+    status: not_ingested
+  - number: '183.470'
+    title: Orders in contested cases
+    status: not_ingested
+  - number: '183.471'
+    title: Preservation of orders in electronic format; fees (Judicial Review)
+    status: not_ingested
+  - number: '183.480'
+    title: Judicial review of agency orders
+    status: not_ingested
+  - number: '183.482'
+    title: Jurisdiction for review of contested cases; procedure; scope of court authority
+    status: not_ingested
+  - number: '183.484'
+    title: Jurisdiction for review of orders other than contested cases; procedure; scope of court authority
+    status: not_ingested
+  - number: '183.485'
+    title: Decision of court on review of contested case
+    status: not_ingested
+  - number: '183.486'
+    title: Form and scope of decision of reviewing court
+    status: not_ingested
+  - number: '183.490'
+    title: Agency may be compelled to act
+    status: not_ingested
+  - number: '183.497'
+    title: Awarding costs and attorney fees when finding for petitioner (Appeals From Circuit Courts)
+    status: not_ingested
+  - number: '183.500'
+    title: Appeals (Alternative Dispute Resolution)
+    status: not_ingested
+- chapter: '184'
+  title: Certain Executive Branch Departments (incl. DAS)
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors184.html
+  sections:
+  - number: '184.305'
+    title: Oregon Department of Administrative Services
+    status: not_ingested
+  - number: '184.315'
+    title: Director of Oregon Department of Administrative Services; confirmation; compensation; bond
+    status: not_ingested
+  - number: '184.325'
+    title: Duties of director; administrative divisions; appointive power; exception
+    status: not_ingested
+  - number: '184.335'
+    title: Deputy director; subordinate officers
+    status: not_ingested
+  - number: '184.340'
+    title: Rules
+    status: not_ingested
+  - number: '184.345'
+    title: Oregon Department of Administrative Services to provide services to certain agencies on reimbursable
+      basis
+    status: not_ingested
+  - number: '184.351'
+    title: Corrections population forecasts
+    status: not_ingested
+  - number: '184.360'
+    title: Internal audits in state government; policy; reports; rules
+    status: not_ingested
+  - number: '184.365'
+    title: Authority of Oregon Department of Administrative Services to require fingerprints
+    status: not_ingested
+  - number: '184.370'
+    title: Training program (Grant Agreements for Baseball Tax Revenues)
+    status: not_ingested
+  - number: '184.400'
+    title: Definitions for ORS
+    status: not_ingested
+  - number: '184.402'
+    title: Findings
+    status: not_ingested
+  - number: '184.404'
+    title: Grant agreements; obligations of state
+    status: not_ingested
+  - number: '184.406'
+    title: Prerequisites of grant agreement
+    status: not_ingested
+  - number: '184.408'
+    title: Major League Stadium Grant Fund (Sustainability)
+    status: not_ingested
+  - number: '184.421'
+    title: “Sustainability” defined
+    status: not_ingested
+  - number: '184.423'
+    title: Findings and goals regarding sustainability (Sustainability Board)
+    status: not_ingested
+  - number: '184.425'
+    title: Definitions for ORS
+    status: not_ingested
+  - number: '184.427'
+    title: Sustainability Board; members; terms; qualifications; confirmation
+    status: not_ingested
+  - number: '184.429'
+    title: Powers and duties of board
+    status: not_ingested
+  - number: '184.431'
+    title: Chairperson and vice chairperson; quorum; meetings
+    status: not_ingested
+  - number: '184.433'
+    title: Rules
+    status: not_ingested
+  - number: '184.435'
+    title: Sustainability Board Fund (Housing Analysis)
+    status: not_ingested
+  - number: '184.451'
+    title: Oregon Housing Needs Analysis
+    status: not_ingested
+  - number: '184.453'
+    title: Statewide housing analysis; allocation of housing needs; publication of maximum sales prices,
+      income affordability requirements
+    status: not_ingested
+  - number: '184.455'
+    title: Allocation of housing production targets (CASA Volunteer Programs)
+    status: not_ingested
+  - number: '184.489'
+    title: Definitions
+    status: not_ingested
+  - number: '184.492'
+    title: Duties; rules
+    status: not_ingested
+  - number: '184.495'
+    title: Report
+    status: not_ingested
+  - number: '184.498'
+    title: Court Appointed Special Advocate Fund (Grants for Community Violence Prevention)
+    status: not_ingested
+  - number: '184.521'
+    title: Grants related to community violence prevention; reports; rules (Grant for Housing and Community
+      Development) (Temporary provisions relating to a grant for hous
+    status: not_ingested
+  - number: '184.610'
+    title: Definitions for ORS
+    status: not_ingested
+  - number: '184.611'
+    title: Freight mobility projects; priority
+    status: not_ingested
+  - number: '184.612'
+    title: Oregon Transportation Commission; confirmation; qualifications; term; compensation and expenses
+    status: not_ingested
+  - number: '184.614'
+    title: Authority to enter into agreements
+    status: not_ingested
+  - number: '184.615'
+    title: Department of Transportation; duties
+    status: not_ingested
+  - number: '184.617'
+    title: Functions of commission
+    status: not_ingested
+  - number: '184.619'
+    title: Rulemaking authority; orders
+    status: not_ingested
+  - number: '184.620'
+    title: Director of Transportation; confirmation; subordinates
+    status: not_ingested
+  - number: '184.621'
+    title: Commission; selection of projects for Statewide Transportation Improvement Program
+    status: not_ingested
+  - number: '184.622'
+    title: Authority of Department of Transportation to require fingerprints
+    status: not_ingested
+  - number: '184.623'
+    title: Director of Transportation; confirmation
+    status: not_ingested
+  - number: '184.625'
+    title: Compensation and expenses of director and subordinates
+    status: not_ingested
+  - number: '184.626'
+    title: Bond of director
+    status: not_ingested
+  - number: '184.627'
+    title: Real property inventory
+    status: not_ingested
+  - number: '184.628'
+    title: Chief engineer; appointment; qualifications; staff engineers
+    status: not_ingested
+  - number: '184.630'
+    title: Research program
+    status: not_ingested
+  - number: '184.632'
+    title: Legislative finding on ports; policy
+    status: not_ingested
+  - number: '184.633'
+    title: Duties of director; delegation; bonds for employees; participation in land use matters
+    status: not_ingested
+  - number: '184.634'
+    title: Disposition of real property by department; rules
+    status: not_ingested
+  - number: '184.635'
+    title: Reports to Governor; delegation of powers; rules
+    status: not_ingested
+  - number: '184.636'
+    title: Revolving funds; disbursements; payment of claims and expenses of other state agencies
+    status: not_ingested
+  - number: '184.637'
+    title: Departmental fiscal officer; reports
+    status: not_ingested
+  - number: '184.638'
+    title: Functions provided by fiscal officer
+    status: not_ingested
+  - number: '184.639'
+    title: Internal auditor
+    status: not_ingested
+  - number: '184.640'
+    title: Transportation Administration Account; budget and payment for administrative expenses of department
+    status: not_ingested
+  - number: '184.642'
+    title: Department of Transportation Operating Fund; sources; uses
+    status: not_ingested
+  - number: '184.643'
+    title: Transfer of certain fuel tax moneys to operating fund
+    status: not_ingested
+  - number: '184.644'
+    title: Levy and sale of property for payment of liquidated and delinquent debt owed to department;
+      fees; warrants
+    status: not_ingested
+  - number: '184.645'
+    title: Department of Transportation Working Capital Account; data processing and photocopy equipment
+      and services
+    status: not_ingested
+  - number: '184.647'
+    title: Transfer of funds to working capital account; retransfer; use of remainder
+    status: not_ingested
+  - number: '184.648'
+    title: Revolving fund
+    status: not_ingested
+  - number: '184.649'
+    title: Report on audits
+    status: not_ingested
+  - number: '184.651'
+    title: Cost accounting system; requirements
+    status: not_ingested
+  - number: '184.652'
+    title: Sharing facilities and offices with local governments
+    status: not_ingested
+  - number: '184.653'
+    title: Least-cost planning
+    status: not_ingested
+  - number: '184.654'
+    title: Short title
+    status: not_ingested
+  - number: '184.656'
+    title: Governor’s budget for department Note Reports on revenue--2010 c.30 §18
+    status: not_ingested
+  - number: '184.657'
+    title: Describing and reporting condition of transportation infrastructure
+    status: not_ingested
+  - number: '184.659'
+    title: Written analysis of costs and benefits of proposed transportation projects
+    status: not_ingested
+  - number: '184.661'
+    title: Website
+    status: not_ingested
+  - number: '184.665'
+    title: Continuous Improvement Advisory Committee
+    status: not_ingested
+  - number: '184.667'
+    title: Autonomous vehicles; lead agency (Cooperation and Assistance on Transportation Projects)
+    status: not_ingested
+  - number: '184.668'
+    title: Cooperation by other agencies issuing permits for transportation projects; technical assistance
+      on land use decisions (Public Transit)
+    status: not_ingested
+  - number: '184.670'
+    title: Purpose of ORS
+    status: not_ingested
+  - number: '184.675'
+    title: Definitions for ORS
+    status: not_ingested
+  - number: '184.685'
+    title: Purpose of department
+    status: not_ingested
+  - number: '184.689'
+    title: Powers and duties of department
+    status: not_ingested
+  - number: '184.691'
+    title: Public Transit Account; use of moneys
+    status: not_ingested
+  - number: '184.705'
+    title: Operating agreements
+    status: not_ingested
+  - number: '184.710'
+    title: When operating agreements prohibited
+    status: not_ingested
+  - number: '184.720'
+    title: Criteria and standards for evaluation of projects
+    status: not_ingested
+  - number: '184.725'
+    title: Rules (Public Transportation Development Program)
+    status: not_ingested
+  - number: '184.730'
+    title: Authority for public transportation development program
+    status: not_ingested
+  - number: '184.733'
+    title: Department of Transportation Public Transportation Development Fund; use of fund; sources (Safe
+      Routes to Schools)
+    status: not_ingested
+  - number: '184.740'
+    title: Safe Routes to Schools Fund
+    status: not_ingested
+  - number: '184.741'
+    title: Safe routes to schools program; rules
+    status: not_ingested
+  - number: '184.742'
+    title: Matching grant program; rules (Day-Use Parking Passes for State Parks)
+    status: not_ingested
+  - number: '184.745'
+    title: Website information on purchase of state park day-use passes
+    status: not_ingested
+  - number: '184.746'
+    title: Duties of State Parks and Recreation Department (Design Practices)
+    status: not_ingested
+  - number: '184.748'
+    title: Transportation design practices (Public Transportation Service Providers)
+    status: not_ingested
+  - number: '184.751'
+    title: Statewide Transportation Improvement Fund
+    status: not_ingested
+  - number: '184.752'
+    title: Definitions
+    status: not_ingested
+  - number: '184.758'
+    title: Distribution of moneys from Statewide Transportation Improvement Fund; rules
+    status: not_ingested
+  - number: '184.761'
+    title: Review process; advisory committees; rules
+    status: not_ingested
+  - number: '184.766'
+    title: Qualified entities; reports; rules (Road User Fee Task Force and Program)
+    status: not_ingested
+  - number: '184.841'
+    title: Legislative findings
+    status: not_ingested
+  - number: '184.843'
+    title: Road User Fee Task Force; members; duties; terms; reports
+    status: not_ingested
+  - number: '184.846'
+    title: Pilot programs; fees; rules
+    status: not_ingested
+  - number: '184.850'
+    title: Variable pilot program fees
+    status: not_ingested
+  - number: '184.853'
+    title: Moneys for task force and programs (Workforce Development)
+    status: not_ingested
+  - number: '184.866'
+    title: Highway construction workforce development (Greenhouse Gas Reduction)
+    status: not_ingested
+  - number: '184.879'
+    title: Greenhouse gas reduction program; definitions; grants; request for funding; rules
+    status: not_ingested
+  - number: '184.882'
+    title: Technical advisory committee
+    status: not_ingested
+  - number: '184.884'
+    title: Reports (Statewide Transportation Strategy on Greenhouse Gas Emissions)
+    status: not_ingested
+  - number: '184.888'
+    title: “Metropolitan planning organization” defined
+    status: not_ingested
+  - number: '184.891'
+    title: Agency authority to regulate air contaminants
+    status: not_ingested
+  - number: '184.893'
+    title: Alternative land use and transportation scenario guidelines
+    status: not_ingested
+  - number: '184.895'
+    title: Development of toolkit used to reduce greenhouse gas emissions
+    status: not_ingested
+  - number: '184.897'
+    title: Education on reducing greenhouse gas emissions
+    status: not_ingested
+  - number: '184.899'
+    title: Regional transportation plans (Floatable Natural Waterways)
+    status: not_ingested
+  - number: '184.901'
+    title: Bridge projects that cross floatable natural waterways; notification to other agencies (Small
+      Business Development Program)
+    status: not_ingested
+  - number: '184.906'
+    title: Small business development program; advisory committee; report; rules (Broadband Installation)
+    status: not_ingested
+  - number: '184.911'
+    title: Definitions for
+    status: not_ingested
+  - number: '184.916'
+    title: Registry of telecommunication providers; identification of projects
+    status: not_ingested
+  - number: '184.920'
+    title: Process for selecting projects; rules
+    status: not_ingested
+  - number: '184.925'
+    title: Rules (Jurisdictional Transfer Advisory Committee) (Temporary provisions relating to the Jurisdictional
+      Transfer Advisory Committee are compiled as notes follow
+    status: not_ingested
+- chapter: '192'
+  title: Records; Reports and Meetings
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors192.html
+  sections:
+  - number: '192.001'
+    title: Policy concerning public records ARCHIVING OF PUBLIC RECORDS
+    status: not_ingested
+  - number: '192.005'
+    title: Definitions for ORS
+    status: not_ingested
+  - number: '192.015'
+    title: Secretary of State as public records administrator
+    status: not_ingested
+  - number: '192.018'
+    title: Written policies on use, retention and ownership of public records; State Archivist approval
+    status: not_ingested
+  - number: '192.040'
+    title: Making, filing and recording records by photocopying
+    status: not_ingested
+  - number: '192.050'
+    title: Copying records; evidentiary effect
+    status: not_ingested
+  - number: '192.060'
+    title: Indexing and filing copied records
+    status: not_ingested
+  - number: '192.070'
+    title: Duplicate rolls of microfilm required; delivery to State Archivist
+    status: not_ingested
+  - number: '192.072'
+    title: State Archivist performing microfilm services for public body
+    status: not_ingested
+  - number: '192.105'
+    title: State Archivist authorization for state officials to dispose of records; legislative records
+      excepted; local government policy on disposing of public records; l
+    status: not_ingested
+  - number: '192.108'
+    title: Retention schedules
+    status: not_ingested
+  - number: '192.130'
+    title: Disposition of valueless records in custody of State Archivist; notice prior to disposition
+    status: not_ingested
+  - number: '192.170'
+    title: Disposition of materials without authorization RECORDS AND REPORTS IN ENGLISH
+    status: not_ingested
+  - number: '192.173'
+    title: Records and reports required by law to be in English; penalty EXECUTIVE DEPARTMENT
+    status: not_ingested
+  - number: '192.180'
+    title: Coordination of executive department response to public records request
+    status: not_ingested
+  - number: '192.183'
+    title: Compiling public records stored in electronic form; rules
+    status: not_ingested
+  - number: '192.191'
+    title: Department of Justice information sharing guide PUBLIC REPORTS (Standardized Form)
+    status: not_ingested
+  - number: '192.210'
+    title: Definitions for ORS
+    status: not_ingested
+  - number: '192.220'
+    title: Standardized report forms; exemptions (Policy; Compliance)
+    status: not_ingested
+  - number: '192.230'
+    title: Definitions for ORS
+    status: not_ingested
+  - number: '192.235'
+    title: Policy for ORS
+    status: not_ingested
+  - number: '192.240'
+    title: Duties of state agency issuing report
+    status: not_ingested
+  - number: '192.243'
+    title: Availability of report on Internet; rules
+    status: not_ingested
+  - number: '192.245'
+    title: Form of report to legislature
+    status: not_ingested
+  - number: '192.250'
+    title: Director of Oregon Department of Administrative Services to report to legislature on ORS
+    status: not_ingested
+  - number: '192.270'
+    title: Definitions for ORS
+    status: not_ingested
+  - number: '192.275'
+    title: Notice when report required; content; effect INSPECTION OF PUBLIC RECORDS (Definitions)
+    status: not_ingested
+  - number: '192.311'
+    title: Definitions for ORS
+    status: not_ingested
+  - number: '192.478'
+    title: (Public Records Request Processing)
+    status: not_ingested
+  - number: '192.314'
+    title: Right to inspect public records; notice to public body attorney
+    status: not_ingested
+  - number: '192.318'
+    title: Functions of custodian of public records; rules
+    status: not_ingested
+  - number: '192.324'
+    title: Copies or inspection of public records; public body response; fees; procedure for records requests
+    status: not_ingested
+  - number: '192.329'
+    title: Public body’s response to public records request
+    status: not_ingested
+  - number: '192.335'
+    title: Immunity from liability for disclosure of public record; effect of disclosure on privilege
+    status: not_ingested
+  - number: '192.338'
+    title: Exempt and nonexempt public record to be separated (Exemptions)
+    status: not_ingested
+  - number: '192.340'
+    title: Attorney General catalog of exemptions from disclosure
+    status: not_ingested
+  - number: '192.345'
+    title: Public records conditionally exempt from disclosure
+    status: not_ingested
+  - number: '192.355'
+    title: Public records exempt from disclosure
+    status: not_ingested
+  - number: '192.360'
+    title: Condensation of public record subject to disclosure; petition to review denial of right to
+      inspect public record; adequacy of condensation (Records Containing P
+    status: not_ingested
+  - number: '192.363'
+    title: Contents of certain requests for disclosure
+    status: not_ingested
+  - number: '192.365'
+    title: Disclosure of information pertaining to home care worker, personal support worker, operator
+      of child care facility, exempt child care provider or operator of ad
+    status: not_ingested
+  - number: '192.368'
+    title: Nondisclosure on request of home address, home telephone number and electronic mail address;
+      rules of procedure; duration of effect of request; liability; when
+    status: not_ingested
+  - number: '192.371'
+    title: Nondisclosure of public employee identification badge or card
+    status: not_ingested
+  - number: '192.374'
+    title: Nondisclosure of concealed handgun license records or information; exceptions; limitations;
+      rules
+    status: not_ingested
+  - number: '192.377'
+    title: Required redaction of certain personal information
+    status: not_ingested
+  - number: '192.380'
+    title: Immunity from liability for disclosure of certain personal information; recovery of costs (Investigation
+      Records)
+    status: not_ingested
+  - number: '192.385'
+    title: Nondisclosure of certain public safety officer investigation records; exceptions (Old Records)
+    status: not_ingested
+  - number: '192.390'
+    title: Inspection of records more than 25 years old (Health Records)
+    status: not_ingested
+  - number: '192.395'
+    title: Health services costs
+    status: not_ingested
+  - number: '192.398'
+    title: Medical records; sealed records; records of individual in custody or under supervision; student
+      records
+    status: not_ingested
+  - number: '192.401'
+    title: Records of health professional regulatory boards, Health Licensing Office (Appeals)
+    status: not_ingested
+  - number: '192.407'
+    title: When petition for review of public records request allowed; order granting petition; penalty
+    status: not_ingested
+  - number: '192.411'
+    title: Petition to review denial of right to inspect state public record; appeal from decision of
+      Attorney General denying inspection
+    status: not_ingested
+  - number: '192.415'
+    title: Procedure to review denial of right to inspect other public records; effect of disclosure
+    status: not_ingested
+  - number: '192.418'
+    title: Effect of failure of Attorney General, district attorney or elected official to take timely
+      action on inspection petition
+    status: not_ingested
+  - number: '192.422'
+    title: Petition form; procedure when petition received
+    status: not_ingested
+  - number: '192.427'
+    title: Procedure to review denial by elected official of right to inspect public records
+    status: not_ingested
+  - number: '192.431'
+    title: Court authority in reviewing action denying right to inspect public records; docketing; costs
+      and attorney fees PUBLIC RECORDS ADVOCATE
+    status: not_ingested
+  - number: '192.461'
+    title: Public Records Advocate
+    status: not_ingested
+  - number: '192.464'
+    title: Facilitated dispute resolution services of Public Records Advocate
+    status: not_ingested
+  - number: '192.468'
+    title: Discretion of Public Records Advocate in dispute resolution services
+    status: not_ingested
+  - number: '192.472'
+    title: Confidentiality of Public Records Advocate records
+    status: not_ingested
+  - number: '192.475'
+    title: Public records request training
+    status: not_ingested
+  - number: '192.476'
+    title: Estimate of expenses; rules
+    status: not_ingested
+  - number: '192.477'
+    title: Public Records Advocate Fund
+    status: not_ingested
+  - number: '192.481'
+    title: Public Records Advisory Council
+    status: not_ingested
+  - number: '192.483'
+    title: Duties of Public Records Advisory Council; rules PUBLIC RECORDS OVERSIGHT
+    status: not_ingested
+  - number: '192.485'
+    title: Definitions for ORS
+    status: not_ingested
+  - number: '192.488'
+    title: Open government impact statement
+    status: not_ingested
+  - number: '192.492'
+    title: Notification of change to public records laws
+    status: not_ingested
+  - number: '192.499'
+    title: Legislative review of Oregon Sunshine Committee
+    status: not_ingested
+  - number: '192.508'
+    title: Rules
+    status: not_ingested
+  - number: '192.511'
+    title: Oregon Sunshine Committee; membership; duties; rules
+    status: not_ingested
+  - number: '192.513'
+    title: Review of exemptions from disclosure by Oregon Sunshine Committee RECORDS OF INDIVIDUAL WITH
+      DISABILITY OR MENTAL ILLNESS
+    status: not_ingested
+  - number: '192.515'
+    title: Definitions for ORS
+    status: not_ingested
+  - number: '192.517'
+    title: Access to records of individual with disability or individual with mental illness GENETIC PRIVACY
+    status: not_ingested
+  - number: '192.531'
+    title: Definitions for ORS
+    status: not_ingested
+  - number: '192.533'
+    title: Legislative findings; purposes
+    status: not_ingested
+  - number: '192.535'
+    title: Informed consent for obtaining genetic information
+    status: not_ingested
+  - number: '192.537'
+    title: Individual’s rights in genetic information; retention of information; destruction of information
+    status: not_ingested
+  - number: '192.538'
+    title: Notice by health care provider regarding anonymous or coded research
+    status: not_ingested
+  - number: '192.539'
+    title: Disclosure of genetic information; exceptions
+    status: not_ingested
+  - number: '192.540'
+    title: Use of deceased individual’s DNA sample or genetic information for research
+    status: not_ingested
+  - number: '192.541'
+    title: Private right of action; remedies; affirmative defense; attorney fees
+    status: not_ingested
+  - number: '192.543'
+    title: Criminal penalty
+    status: not_ingested
+  - number: '192.545'
+    title: Enforcement; Attorney General or district attorney; intervention
+    status: not_ingested
+  - number: '192.547'
+    title: Oregon Health Authority rules; procedures
+    status: not_ingested
+  - number: '192.549'
+    title: Advisory Committee on Genetic Privacy and Research MISCELLANEOUS HEALTH CARE RECORDS
+    status: not_ingested
+  - number: '192.551'
+    title: Health care records at colleges, universities PROTECTED HEALTH INFORMATION
+    status: not_ingested
+  - number: '192.553'
+    title: Policy for protected health information
+    status: not_ingested
+  - number: '192.556'
+    title: Definitions for ORS
+    status: not_ingested
+  - number: '192.558'
+    title: Use or disclosure by health care provider or state health plan
+    status: not_ingested
+  - number: '192.561'
+    title: Disclosure by health care provider in coordinated care organization
+    status: not_ingested
+  - number: '192.563'
+    title: Health care provider and state health plan charges
+    status: not_ingested
+  - number: '192.566'
+    title: Authorization form
+    status: not_ingested
+  - number: '192.567'
+    title: Disclosure without authorization form
+    status: not_ingested
+  - number: '192.568'
+    title: Confidentiality; use and disclosure
+    status: not_ingested
+  - number: '192.571'
+    title: No right of action
+    status: not_ingested
+  - number: '192.573'
+    title: Personal representative of deceased individual
+    status: not_ingested
+  - number: '192.576'
+    title: Disclosure to individual appealing denial of Social Security benefits
+    status: not_ingested
+  - number: '192.577'
+    title: Disclosure of information concerning adult in custody of Department of Corrections
+    status: not_ingested
+  - number: '192.579'
+    title: Allowed disclosure for coordinating care
+    status: not_ingested
+  - number: '192.581'
+    title: Allowed retention or disclosure of genetic information BEDBUGS
+    status: not_ingested
+  - number: '192.582'
+    title: Confidentiality of bedbug infestation reports PRIVATE FINANCIAL RECORDS
+    status: not_ingested
+  - number: '192.583'
+    title: Definitions for ORS
+    status: not_ingested
+  - number: '192.586'
+    title: Disclosure of financial records prohibited; exceptions
+    status: not_ingested
+  - number: '192.588'
+    title: Disclosure to Department of Human Services or Oregon Health Authority; procedure; limitations
+    status: not_ingested
+  - number: '192.589'
+    title: Financial institution records of deceased individual; disclosure to Department of Human Services
+      or Oregon Health Authority; procedure
+    status: not_ingested
+  - number: '192.591'
+    title: Disclosure to state court; procedure; limitations
+    status: not_ingested
+  - number: '192.593'
+    title: Authorization by customer for disclosure
+    status: not_ingested
+  - number: '192.596'
+    title: Disclosure under summons or subpoena; procedure
+    status: not_ingested
+  - number: '192.597'
+    title: Disclosure pursuant to abuse investigation; procedure; liability; affidavit
+    status: not_ingested
+  - number: '192.598'
+    title: Disclosure under search warrant
+    status: not_ingested
+  - number: '192.600'
+    title: Liability of financial institution for disclosure
+    status: not_ingested
+  - number: '192.602'
+    title: Time for compliance; reimbursement; exceptions
+    status: not_ingested
+  - number: '192.603'
+    title: Procedure for disclosure to law enforcement agency
+    status: not_ingested
+  - number: '192.605'
+    title: Charges for participation in attorney trust account overdraft notification program
+    status: not_ingested
+  - number: '192.606'
+    title: Civil liability for violation of ORS
+    status: not_ingested
+  - number: '192.607'
+    title: Severability PUBLIC MEETINGS
+    status: not_ingested
+  - number: '192.610'
+    title: Definitions for ORS
+    status: not_ingested
+  - number: '192.620'
+    title: Policy
+    status: not_ingested
+  - number: '192.630'
+    title: Meetings of governing body to be open to public; location of meetings; accommodation for person
+      with disability; interpreters
+    status: not_ingested
+  - number: '192.640'
+    title: Public notice required; special notice for executive sessions or special or emergency meetings
+    status: not_ingested
+  - number: '192.650'
+    title: Recording or written minutes required; content; fees
+    status: not_ingested
+  - number: '192.655'
+    title: Recording requirements for certain entities
+    status: not_ingested
+  - number: '192.660'
+    title: Executive sessions permitted on certain matters; procedures; news media representatives’ attendance;
+      limits
+    status: not_ingested
+  - number: '192.665'
+    title: Oregon Government Ethics Commission advisory opinions and advice
+    status: not_ingested
+- chapter: '291'
+  title: State Financial Administration
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors291.html
+  sections:
+  - number: '291.001'
+    title: Use of accounting terms; determination of appropriate methods of transfer; establishment of
+      funds and accounts
+    status: not_ingested
+  - number: '291.002'
+    title: Definitions
+    status: not_ingested
+  - number: '291.003'
+    title: Federal laws and rules govern use of federal funds; exceptions FISCAL DUTIES OF DEPARTMENT
+    status: not_ingested
+  - number: '291.011'
+    title: Blanket fidelity bonds for state officers and personnel
+    status: not_ingested
+  - number: '291.015'
+    title: Fiscal responsibilities of department; delegation of fiscal functions
+    status: not_ingested
+  - number: '291.016'
+    title: Making administrative and organizational surveys
+    status: not_ingested
+  - number: '291.018'
+    title: Conducting research; requiring administrative reports from agencies
+    status: not_ingested
+  - number: '291.026'
+    title: Examining agency records and financial affairs
+    status: not_ingested
+  - number: '291.028'
+    title: Submitting suggestions to Governor for improvement of state governmental administration
+    status: not_ingested
+  - number: '291.030'
+    title: “Agency” defined for ORS
+    status: not_ingested
+  - number: '291.032'
+    title: and
+    status: not_ingested
+  - number: '291.034'
+    title: Providing technical services involving data processing
+    status: not_ingested
+  - number: '291.040'
+    title: State financial report
+    status: not_ingested
+  - number: '291.042'
+    title: Copyright, patent or other use of state data processing programs, information or materials;
+      disposition of moneys collected
+    status: not_ingested
+  - number: '291.044'
+    title: State agency quarterly report of employee pay-line exceptions PUBLIC CONTRACT APPROVAL
+    status: not_ingested
+  - number: '291.045'
+    title: Definitions for ORS
+    status: not_ingested
+  - number: '291.047'
+    title: Public contract approval by Attorney General; exemptions; rules
+    status: not_ingested
+  - number: '291.049'
+    title: Ratification of public contract when performance begun prior to contract approval; conditions;
+      effects; rules AGENCY FEE RESTRICTIONS
+    status: not_ingested
+  - number: '291.050'
+    title: Definitions for ORS
+    status: not_ingested
+  - number: '291.055'
+    title: State agency fee approval; exemptions; restoration of temporarily reduced fees
+    status: not_ingested
+  - number: '291.060'
+    title: Report of fees to Legislative Assembly FINANCIAL MANAGEMENT DUTIES
+    status: not_ingested
+  - number: '291.100'
+    title: Financial management; duties of Oregon Department of Administrative Services; duties of state
+      agencies
+    status: not_ingested
+  - number: '291.110'
+    title: Achieving performance outcomes; monitoring agency progress
+    status: not_ingested
+  - number: '291.120'
+    title: Distribution of agency savings; agency use STATE BUDGET; GOVERNOR’S BUDGET AND TAX EXPENDITURE
+      REPORT
+    status: not_ingested
+  - number: '291.190'
+    title: Short title
+    status: not_ingested
+  - number: '291.195'
+    title: Policy for financial expenditure planning
+    status: not_ingested
+  - number: '291.200'
+    title: Budget policy
+    status: not_ingested
+  - number: '291.201'
+    title: “Tax expenditure” defined for ORS
+    status: not_ingested
+  - number: '291.202'
+    title: Budget and tax expenditure report of Governor; department to assist in preparation
+    status: not_ingested
+  - number: '291.203'
+    title: Tax expenditure report by Governor
+    status: not_ingested
+  - number: '291.204'
+    title: Instructions to agencies for submitting budget information
+    status: not_ingested
+  - number: '291.206'
+    title: Guidance of agencies in completing agency request budgets; 10 percent cost reduction options;
+      racial impact statement
+    status: not_ingested
+  - number: '291.208'
+    title: Filing agency request budgets with department; preparing budgets for agencies failing to file
+    status: not_ingested
+  - number: '291.210'
+    title: Preparing tentative budget; updating projected costs of currently authorized programs
+    status: not_ingested
+  - number: '291.214'
+    title: Governor to prepare recommendations regarding certain tax expenditures
+    status: not_ingested
+  - number: '291.215'
+    title: Governor’s budget to include amount for deferred maintenance and capital improvements
+    status: not_ingested
+  - number: '291.216'
+    title: Governor’s budget; when due; content
+    status: not_ingested
+  - number: '291.217'
+    title: Outcomes-based budget; contents; legislative review of performance management and performance
+      measurement processes for services provided by contract or by scho
+    status: not_ingested
+  - number: '291.218'
+    title: Printing Governor’s budget and tax expenditure report; transmitting to members of legislature;
+      distribution
+    status: not_ingested
+  - number: '291.220'
+    title: Furnishing information and assistance to legislature
+    status: not_ingested
+  - number: '291.222'
+    title: Furnishing information and assistance to Governor-elect; revision of budget and tax expenditure
+      report
+    status: not_ingested
+  - number: '291.223'
+    title: Furnishing budget estimates to Legislative Fiscal Officer and Legislative Revenue Officer;
+      confidentiality of estimates
+    status: not_ingested
+  - number: '291.224'
+    title: Inclusion of capital construction program in Governor’s budget; furnishing information to Capitol
+      Planning Commission
+    status: not_ingested
+  - number: '291.227'
+    title: Maximum supervisory ratios of certain state agencies; reporting; rules ALLOTMENTS
+    status: not_ingested
+  - number: '291.232'
+    title: Declaration of policy
+    status: not_ingested
+  - number: '291.234'
+    title: Department to make allotments to state officers and agencies of appropriations and funds; allotment
+      period; exemptions
+    status: not_ingested
+  - number: '291.236'
+    title: Application of allotment system; controlling expenditures and encumbering of emergency, contingent,
+      revolving and trust funds
+    status: not_ingested
+  - number: '291.238'
+    title: Expenditures without allotment prohibited; expenditures from dedicated, revolving and trust
+      funds
+    status: not_ingested
+  - number: '291.242'
+    title: Allotment required before expenditure of appropriation; submitting estimates; notice to Legislative
+      Fiscal Office
+    status: not_ingested
+  - number: '291.244'
+    title: Department action on estimates
+    status: not_ingested
+  - number: '291.246'
+    title: Allotments to be made for purpose or classification of expenditure prescribed in appropriation
+      measure
+    status: not_ingested
+  - number: '291.248'
+    title: Notice of allotment
+    status: not_ingested
+  - number: '291.250'
+    title: Claims and encumbrances limited by amount and purpose of allotment
+    status: not_ingested
+  - number: '291.252'
+    title: Modification of allotment previously made; notice to Legislative Fiscal Office
+    status: not_ingested
+  - number: '291.258'
+    title: Approval of department required for establishment of new personnel position or classification
+    status: not_ingested
+  - number: '291.260'
+    title: Approving, modifying or disapproving requests and budgets to be submitted to the federal government
+    status: not_ingested
+  - number: '291.261'
+    title: Reducing allotment to prevent deficit; exception
+    status: not_ingested
+  - number: '291.263'
+    title: Vacant positions; information to Oregon Department of Administrative Services; report to Legislative
+      Fiscal Officer ALLOCATION OF GOVERNMENTAL SERVICE EXPENSES
+    status: not_ingested
+  - number: '291.272'
+    title: Definitions for ORS
+    status: not_ingested
+  - number: '291.274'
+    title: Determination of funds and appropriations to be assessed
+    status: not_ingested
+  - number: '291.276'
+    title: Department allocation of governmental service expenses among state agencies
+    status: not_ingested
+  - number: '291.278'
+    title: Transfer of allocated amounts
+    status: not_ingested
+  - number: '291.285'
+    title: Payment of accounting charges from Economic Development Fund
+    status: not_ingested
+  - number: '291.290'
+    title: Cash account of state agency for receipts from Economic Development Fund ACTS APPROPRIATING
+      MONEY FROM GENERAL FUND
+    status: not_ingested
+  - number: '291.307'
+    title: Appropriation from General Fund to constitute a credit only EMERGENCY EXPENDITURES; EMERGENCY
+      BOARD
+    status: not_ingested
+  - number: '291.322'
+    title: Definitions for ORS
+    status: not_ingested
+  - number: '291.324'
+    title: Emergency Board created
+    status: not_ingested
+  - number: '291.326'
+    title: Powers of board concerning expenditures by state agencies
+    status: not_ingested
+  - number: '291.328'
+    title: Board may require presentation of evidence to support requests for action; filing of orders
+    status: not_ingested
+  - number: '291.330'
+    title: Members of board; confirmation
+    status: not_ingested
+  - number: '291.332'
+    title: Meetings of board; terms of members; filling vacancies on board
+    status: not_ingested
+  - number: '291.334'
+    title: Assistance of Legislative Fiscal Office to board; payment of board expenses ESTIMATES OF STATE
+      REVENUES
+    status: not_ingested
+  - number: '291.342'
+    title: Annual estimation of state revenues; apportionment among counties of any state property tax
+      levy necessary to make up deficiency; quarterly estimates
+    status: not_ingested
+  - number: '291.345'
+    title: Appropriation of certain excess corporate income and excise tax revenues to State School Fund
+    status: not_ingested
+  - number: '291.348'
+    title: Biennial estimate of General Fund and State Lottery Fund revenues; certification to Secretary
+      of State
+    status: not_ingested
+  - number: '291.349'
+    title: Revenue estimate; disposition of revenue in excess of estimate RATE OF GROWTH OF APPROPRIATIONS
+    status: not_ingested
+  - number: '291.357'
+    title: Limitation on rate of growth of appropriations for general governmental purposes; exceeding
+      limitation LEGISLATIVE REVIEW
+    status: not_ingested
+  - number: '291.371'
+    title: Salary plan review by legislative review agency; approval for position reallocation; quarterly
+      reports by state agencies
+    status: not_ingested
+  - number: '291.373'
+    title: Reporting of substantive program changes
+    status: not_ingested
+  - number: '291.375'
+    title: Legislative review of applications for federal financial assistance; submission, approval required;
+      exemptions
+    status: not_ingested
+  - number: '291.377'
+    title: Report to legislative review agency of state position reclassifications MASS TRANSIT ASSESSMENT
+    status: not_ingested
+  - number: '291.405'
+    title: Assessment of state agencies for mass transit purposes; rates
+    status: not_ingested
+  - number: '291.407'
+    title: Mass Transit Assistance Account; source; distribution; assistance of Department of Transportation;
+      exemption from parking code requirements PROCEDURE FOR DETERM
+    status: not_ingested
+  - number: '291.445'
+    title: Certificate of state agency that issues general obligation bonds; certificate of state tax
+      levy if required; effect of reduction in General Fund appropriations
+    status: not_ingested
+  - number: '291.730'
+    title: Cryptocurrency payments PENALTIES
+    status: not_ingested
+  - number: '291.990'
+    title: Penalties GENERAL PROVISIONS
+    status: not_ingested
+- chapter: '293'
+  title: Administration of Public Funds
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors293.html
+  sections:
+  - number: '293.075'
+    title: Encumbrances; rules GIFTS, DEVISES AND BEQUESTS
+    status: not_ingested
+  - number: '293.090'
+    title: Disposition of gift, devise or bequest to state or state agency
+    status: not_ingested
+  - number: '293.095'
+    title: Effect of change in organization of state agencies on gifts, devises and bequests GENERAL FUND;
+      OTHER STATE FUNDS (Generally)
+    status: not_ingested
+  - number: '293.105'
+    title: General Fund
+    status: not_ingested
+  - number: '293.110'
+    title: Certain funds as part of General Fund
+    status: not_ingested
+  - number: '293.115'
+    title: Moneys separate and distinct from General Fund
+    status: not_ingested
+  - number: '293.117'
+    title: Trust fund; continuous appropriation
+    status: not_ingested
+  - number: '293.125'
+    title: Department to make accounting entries and charge claims against special dedicated funds
+    status: not_ingested
+  - number: '293.130'
+    title: Information required on records of moneys deposited
+    status: not_ingested
+  - number: '293.135'
+    title: Payment of warrants against certain special funds
+    status: not_ingested
+  - number: '293.140'
+    title: Disposition of interest on state funds (Oregon Rainy Day Fund)
+    status: not_ingested
+  - number: '293.144'
+    title: Oregon Rainy Day Fund; use; interest
+    status: not_ingested
+  - number: '293.146'
+    title: Transfer of moneys to Rainy Day Fund
+    status: not_ingested
+  - number: '293.148'
+    title: Cap on amount (Deficiencies)
+    status: not_ingested
+  - number: '293.165'
+    title: Borrowing to pay warrants against General Fund
+    status: not_ingested
+  - number: '293.167'
+    title: Proceeding when warrants not paid for want of funds
+    status: not_ingested
+  - number: '293.169'
+    title: Notification to agency to stop issuing checks or warrants or initiating electronic funds transfers;
+      resumption of checks, warrants or electronic funds transfers
+    status: not_ingested
+  - number: '293.171'
+    title: State agency overdrafts; interest (Petty Cash)
+    status: not_ingested
+  - number: '293.180'
+    title: Agency petty cash fund (Reversion)
+    status: not_ingested
+  - number: '293.190'
+    title: Reversion of appropriations to General Fund; cancellation of budget limitations; rules; exceptions;
+      extensions (Retention of Certain Appropriation Balances)
+    status: not_ingested
+  - number: '293.195'
+    title: Retention of appropriation balances TRANSFERS TO FUNDS HAVING INSUFFICIENT MONEY (Transfers
+      for Wildfire Suppression Costs)
+    status: not_ingested
+  - number: '293.200'
+    title: Transfers for wildfire suppression costs (Generally)
+    status: not_ingested
+  - number: '293.205'
+    title: Definitions for ORS
+    status: not_ingested
+  - number: '293.210'
+    title: Transfer and retransfer of money and credit among state funds
+    status: not_ingested
+  - number: '293.212'
+    title: Transfers to funds of Department of Transportation with insufficient moneys
+    status: not_ingested
+  - number: '293.214'
+    title: Lines of credit for state agency; duration; source of funding
+    status: not_ingested
+  - number: '293.215'
+    title: Evidencing transfers and retransfers; notification of transfer
+    status: not_ingested
+  - number: '293.220'
+    title: Interest on transferred moneys or credits
+    status: not_ingested
+  - number: '293.225'
+    title: Construction of ORS
+    status: not_ingested
+  - number: '293.226'
+    title: Use of Social Security numbers for state agency debt collection activities; disclosure notice;
+      rules
+    status: not_ingested
+  - number: '293.227'
+    title: Definitions for ORS
+    status: not_ingested
+  - number: '293.229'
+    title: Liquidated and delinquent accounts of state agency; annual reports
+    status: not_ingested
+  - number: '293.231'
+    title: Collection of liquidated and delinquent accounts by Department of Revenue or private collection
+      agency; rules; fee added to debt
+    status: not_ingested
+  - number: '293.233'
+    title: Exemption of accounts from assignment to Department of Revenue or private collection agency;
+      rules
+    status: not_ingested
+  - number: '293.234'
+    title: Report by Oregon Department of Administrative Services on certain uncollected debt; rules UNCOLLECTIBLE
+      DEBTS
+    status: not_ingested
+  - number: '293.235'
+    title: “State agency” defined for ORS
+    status: not_ingested
+  - number: '293.240'
+    title: and
+    status: not_ingested
+  - number: '293.245'
+    title: Subsequent collection of debt written off under ORS
+    status: not_ingested
+  - number: '293.250'
+    title: Collections Unit; assistance in collection of amounts due to certain entities; rules; charges;
+      setoff of sums due debtor; warrants
+    status: not_ingested
+  - number: '293.252'
+    title: Duties of Oregon Department of Administrative Services relating to state agency debt collection
+    status: not_ingested
+  - number: '293.254'
+    title: Requirement that state agency make reasonable efforts to collect debts owed to agency; use
+      of Social Security numbers; setoff; rules
+    status: not_ingested
+  - number: '293.256'
+    title: Charges for expenses of Oregon Department of Administrative Services; payment by state agencies;
+      rules
+    status: not_ingested
+  - number: '293.258'
+    title: Delinquent Accounts Administration Fund
+    status: not_ingested
+  - number: '293.260'
+    title: Collection of moneys and property due to state
+    status: not_ingested
+  - number: '293.262'
+    title: Requiring information regarding accounts; reference to legislature
+    status: not_ingested
+  - number: '293.265'
+    title: Disposition of collected moneys; accord and satisfaction; return of checks or money orders;
+      rules
+    status: not_ingested
+  - number: '293.270'
+    title: Record of moneys deposited under ORS
+    status: not_ingested
+  - number: '293.275'
+    title: Disbursement of moneys
+    status: not_ingested
+  - number: '293.280'
+    title: Application of ORS
+    status: not_ingested
+  - number: '293.285'
+    title: Transfers between funds, accounts or appropriations authorized for certain interagency and
+      intergovernmental payments
+    status: not_ingested
+  - number: '293.293'
+    title: Funds held in trust by court APPROVING AND PAYING CLAIMS (Approval)
+    status: not_ingested
+  - number: '293.295'
+    title: When claim against moneys in State Treasury may be paid
+    status: not_ingested
+  - number: '293.300'
+    title: No claim to be paid if disapproved by department; exceptions
+    status: not_ingested
+  - number: '293.306'
+    title: Forms and procedures for claims, warrants, checks and orders; notice of two-year cancellation
+    status: not_ingested
+  - number: '293.311'
+    title: Requiring information regarding claims
+    status: not_ingested
+  - number: '293.316'
+    title: Appeal of disputed claim
+    status: not_ingested
+  - number: '293.321'
+    title: Limitation on time of presentment of claims
+    status: not_ingested
+  - number: '293.326'
+    title: When claim allowed against state as setoff
+    status: not_ingested
+  - number: '293.330'
+    title: Designation of officer by state agency to approve disbursements
+    status: not_ingested
+  - number: '293.335'
+    title: Designation of individual by legislative committee to approve disbursements
+    status: not_ingested
+  - number: '293.341'
+    title: References to voucher claims as references to disbursements; filing designations with department
+    status: not_ingested
+  - number: '293.346'
+    title: Drawing warrants
+    status: not_ingested
+  - number: '293.348'
+    title: Charging and billing state agencies for expense of drawing and processing warrants
+    status: not_ingested
+  - number: '293.353'
+    title: Payment for expense of processing banking-related transactions
+    status: not_ingested
+  - number: '293.370'
+    title: Use of facsimile signatures by department and state agencies
+    status: not_ingested
+  - number: '293.375'
+    title: Use of facsimile signatures by state officers and employees (Payment)
+    status: not_ingested
+  - number: '293.406'
+    title: Payment by State Treasurer; effect of issuance of check or warrant or initiation of electronic
+      funds transfer by state officer
+    status: not_ingested
+  - number: '293.445'
+    title: Definition for ORS
+    status: not_ingested
+  - number: '293.447'
+    title: Establishment of accounts for purposes other than those in ORS
+    status: not_ingested
+  - number: '293.450'
+    title: Report of checks outstanding more than two years
+    status: not_ingested
+  - number: '293.455'
+    title: Refusal of payment of unpresented checks; duties of State Treasurer in transferring funds
+    status: not_ingested
+  - number: '293.460'
+    title: Recourse of owners of unpaid checks
+    status: not_ingested
+  - number: '293.462'
+    title: Payment of overdue account charges; rules (Duplicate Instruments)
+    status: not_ingested
+  - number: '293.465'
+    title: Definitions for ORS
+    status: not_ingested
+  - number: '293.470'
+    title: Payment on lost, stolen or destroyed instruments; indemnity bonds not required
+    status: not_ingested
+  - number: '293.475'
+    title: Issuance of duplicate instrument; affidavit of owner, payee or representative
+    status: not_ingested
+  - number: '293.480'
+    title: Adoption of uniform procedure for issuing duplicate instruments
+    status: not_ingested
+  - number: '293.485'
+    title: Effect of wrongful payment; liability of officer (Death of Payee)
+    status: not_ingested
+  - number: '293.490'
+    title: Payment upon death of person entitled to money from state if estate not in probate
+    status: not_ingested
+  - number: '293.495'
+    title: Procedure for payment
+    status: not_ingested
+  - number: '293.500'
+    title: Probate proceedings unnecessary; accounting to administrator (Auditor of Public Accounts)
+    status: not_ingested
+  - number: '293.505'
+    title: Secretary of State as Auditor of Public Accounts; claim disapproved in performance of constitutional
+      functions not to be paid
+    status: not_ingested
+  - number: '293.510'
+    title: Presentment of claims to Secretary of State not required
+    status: not_ingested
+  - number: '293.515'
+    title: Withholding salary of state official or employee failing to settle accounts or correct delinquencies
+      or errors in audit reports; notice and hearing; exemptions
+    status: not_ingested
+  - number: '293.525'
+    title: Payments to and by state agencies by electronic funds transfers; rules; penalty for failure
+      to comply ACCOUNTS FOR TOBACCO SETTLEMENT MONEYS
+    status: not_ingested
+  - number: '293.537'
+    title: Tobacco Settlement Funds Account; sources; uses; investment
+    status: not_ingested
+  - number: '293.540'
+    title: Health Care Trust Fund; sources; uses; investment DISTRIBUTING CERTAIN FEDERAL MONEYS
+    status: not_ingested
+  - number: '293.550'
+    title: Receipt and disposition generally of federal aid moneys; deposit in special fund
+    status: not_ingested
+  - number: '293.555'
+    title: Receipt and disposition of moneys received from federal government in lieu of ad valorem property
+      taxes
+    status: not_ingested
+  - number: '293.560'
+    title: Apportionment among counties of moneys received from federal government from forest reserves
+    status: not_ingested
+  - number: '293.565'
+    title: Apportionment among counties of moneys received from federal government under Mineral Lands
+      Leasing Act; Federal Mineral Leases Fund
+    status: not_ingested
+  - number: '293.570'
+    title: Apportionment among counties of moneys received from federal government under federal Flood
+      Control Act; Federal Flood Control Leases Fund
+    status: not_ingested
+  - number: '293.575'
+    title: Distribution of funds received under the Taylor Grazing Act; Taylor Grazing Fund ACCOUNTING
+      AND FISCAL REPORTING
+    status: not_ingested
+  - number: '293.590'
+    title: Department to supervise state agency accounting; furnishing accounting services
+    status: not_ingested
+  - number: '293.595'
+    title: Supervision of data processing equipment for accounting system; other uses
+    status: not_ingested
+  - number: '293.600'
+    title: Financial and statistical reports by state agencies
+    status: not_ingested
+  - number: '293.605'
+    title: Fiscal year
+    status: not_ingested
+  - number: '293.611'
+    title: Accounts and records of Secretary of State as Auditor of Public Accounts
+    status: not_ingested
+  - number: '293.616'
+    title: Accounts and records of State Treasurer
+    status: not_ingested
+  - number: '293.620'
+    title: Monthly account of and payment by custodians of state property
+    status: not_ingested
+  - number: '293.625'
+    title: Statements to be rendered to Secretary of State
+    status: not_ingested
+  - number: '293.630'
+    title: Date for closing accounts by persons who must make annual accounts
+    status: not_ingested
+  - number: '293.640'
+    title: Period covered by biennial reports
+    status: not_ingested
+  - number: '293.660'
+    title: Determining date of filing or receipt of reports, claims, tax returns or remittances INVESTING
+      STATE FUNDS
+    status: not_ingested
+  - number: '293.701'
+    title: Definitions for ORS
+    status: not_ingested
+  - number: '293.706'
+    title: Oregon Investment Council; appointment; term; vacancies
+    status: not_ingested
+  - number: '293.708'
+    title: Conflicts of interest for council members
+    status: not_ingested
+  - number: '293.711'
+    title: Compensation and expenses of council members; chairperson
+    status: not_ingested
+  - number: '293.712'
+    title: Continuing education requirements for members of council
+    status: not_ingested
+  - number: '293.713'
+    title: When compensation of council member as director of business prohibited
+    status: not_ingested
+  - number: '293.714'
+    title: Council meetings; recordings; logs
+    status: not_ingested
+  - number: '293.716'
+    title: State Treasurer is investment officer for council; subordinate personnel; bonds
+    status: not_ingested
+  - number: '293.718'
+    title: Payment of expenses of State Treasurer
+    status: not_ingested
+  - number: '293.721'
+    title: General objective of investments
+    status: not_ingested
+  - number: '293.723'
+    title: Discrete investment of moneys
+    status: not_ingested
+  - number: '293.726'
+    title: Standard of judgment and care in investments; investment in corporate stock
+    status: not_ingested
+  - number: '293.728'
+    title: Oregon Short Term Fund
+    status: not_ingested
+  - number: '293.731'
+    title: Council to formulate and review investment policies; exception
+    status: not_ingested
+  - number: '293.733'
+    title: Venture capital investments; council’s duty
+    status: not_ingested
+  - number: '293.734'
+    title: Report on venture capital investments
+    status: not_ingested
+  - number: '293.736'
+    title: Duties of investment officer
+    status: not_ingested
+  - number: '293.741'
+    title: Council may contract with others to perform investment officer functions; compensation; bond
+    status: not_ingested
+  - number: '293.746'
+    title: Opinion of bond attorney or Attorney General; investment counseling and mortgage services
+    status: not_ingested
+  - number: '293.751'
+    title: Custody of title instruments; deposit for safekeeping; form; collection and disposition of
+      principal and interest; default proceedings
+    status: not_ingested
+  - number: '293.756'
+    title: Separate accounting for funds
+    status: not_ingested
+  - number: '293.761'
+    title: Duty of investment officer to provide information for financial reporting
+    status: not_ingested
+  - number: '293.766'
+    title: Monthly reports by investment officer to council
+    status: not_ingested
+  - number: '293.771'
+    title: Reports by council to Governor and legislature
+    status: not_ingested
+  - number: '293.776'
+    title: Examination and audit of investment program; report
+    status: not_ingested
+  - number: '293.778'
+    title: Investment holding companies; use; directors and officers; effect of conflict of interests
+    status: not_ingested
+  - number: '293.780'
+    title: Group annuity contracts with insurers on behalf of Public Employees Retirement System and Board
+    status: not_ingested
+  - number: '293.790'
+    title: Holding, investing and disposing of corporate stock
+    status: not_ingested
+  - number: '293.793'
+    title: Purchase or acquisition of state government bonds
+    status: not_ingested
+  - number: '293.796'
+    title: Findings regarding venture capital for new businesses INVESTING IN THERMAL COAL
+    status: not_ingested
+  - number: '293.798'
+    title: Definitions
+    status: not_ingested
+  - number: '293.799'
+    title: Investments in thermal coal
+    status: not_ingested
+  - number: '293.800'
+    title: Identification of and engagement with thermal coal companies; rules
+    status: not_ingested
+  - number: '293.801'
+    title: Reporting by State Treasurer
+    status: not_ingested
+  - number: '293.803'
+    title: Applicability of ORS
+    status: not_ingested
+  - number: '293.809'
+    title: Management of climate change risks; reporting INVESTING IN SUDAN
+    status: not_ingested
+  - number: '293.811'
+    title: Short title
+    status: not_ingested
+  - number: '293.812'
+    title: Definitions
+    status: not_ingested
+  - number: '293.813'
+    title: Findings
+    status: not_ingested
+  - number: '293.819'
+    title: Investment in scrutinized companies
+    status: not_ingested
+  - number: '293.825'
+    title: Policy for engagement with investment managers with investments in scrutinized companies
+    status: not_ingested
+  - number: '293.828'
+    title: Notice on State Treasurer’s website
+    status: not_ingested
+  - number: '293.832'
+    title: Applicability of ORS
+    status: not_ingested
+  - number: '293.837'
+    title: Definitions
+    status: not_ingested
+  - number: '293.839'
+    title: Investment in scrutinized companies
+    status: not_ingested
+  - number: '293.841'
+    title: Policy for engagement with investment managers with investments in scrutinized companies
+    status: not_ingested
+  - number: '293.843'
+    title: Notice on State Treasurer’s website
+    status: not_ingested
+  - number: '293.847'
+    title: Applicability of ORS
+    status: not_ingested
+  - number: '293.857'
+    title: Separate accounts for each local government; report; investment rules INVESTMENT POOLS
+    status: not_ingested
+  - number: '293.861'
+    title: Investment pools authorized
+    status: not_ingested
+  - number: '293.863'
+    title: Investment pool procedures; duties of State Treasurer CASH MANAGEMENT
+    status: not_ingested
+  - number: '293.875'
+    title: State Treasurer as state banking and cash management officer; duties; preemption of conflicting
+      laws
+    status: not_ingested
+  - number: '293.880'
+    title: Accounts and funds established to comply with federal legislation relating to state and federal
+      cash management reform PENALTIES
+    status: not_ingested
+- chapter: 276A
+  title: Information Technology
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors276A.html
+  sections:
+  - number: 276A.200
+    title: Legislative findings on information resources
+    status: not_ingested
+  - number: 276A.203
+    title: State Chief Information Officer; qualifications; duties; Enterprise Information Resources Management
+      Strategy; rules
+    status: not_ingested
+  - number: 276A.206
+    title: Oversight of state information and telecommunications technology by State Chief Information
+      Officer; policy; rules; application for designation as community of interest
+    status: not_ingested
+  - number: 276A.209
+    title: State Information Technology Operating Fund
+    status: not_ingested
+  - number: 276A.223
+    title: Requirement that state agency or public corporation obtain quality management services when
+      implementing information technology initiative; reports; exceptions
+    status: not_ingested
+  - number: 276A.226
+    title: State agency funding requests for information technology; review by State Chief Information
+      Officer and Enterprise Information Services; priority rankings; biennial report
+    status: not_ingested
+  - number: 276A.230
+    title: Definitions
+    status: not_ingested
+  - number: 276A.233
+    title: Information technology portfolio-based management; inventory; standards; rules; exception
+    status: not_ingested
+  - number: 276A.236
+    title: Enterprise information resources management; adoption and implementation of strategy; state
+      agency information technology initiatives costing more than $1 million
+    status: not_ingested
+  - number: 276A.239
+    title: Portfolio-based management of information technology resources for Secretary of State
+    status: not_ingested
+  - number: 276A.242
+    title: Portfolio-based management of information technology resources for State Treasurer
+    status: not_ingested
+  - number: 276A.250
+    title: Definitions
+    status: not_ingested
+  - number: 276A.253
+    title: Oregon transparency website
+    status: not_ingested
+  - number: 276A.256
+    title: Reports of tax expenditures connected to economic development
+    status: not_ingested
+  - number: 276A.259
+    title: Transparency Oregon Advisory Commission; members; duties; terms; reports
+    status: not_ingested
+  - number: 276A.262
+    title: Transparency Oregon Advisory Commission Fund
+    status: not_ingested
+  - number: 276A.270
+    title: Definitions
+    status: not_ingested
+  - number: 276A.273
+    title: Electronic Government Portal Advisory Board
+    status: not_ingested
+  - number: 276A.276
+    title: Ability to offer government services through portal; portal provider fee; rules
+    status: not_ingested
+  - number: 276A.300
+    title: Information systems security in executive department; rules
+    status: ingested
+    path: statutes/ors-276a.300.md
+  - number: 276A.303
+    title: Information systems security for Secretary of State, State Treasurer and Attorney General
+    status: ingested
+    path: statutes/ors-276a.303.md
+  - number: 276A.306
+    title: Information security incidents and assessments; reports
+    status: ingested
+    path: statutes/ors-276a.306.md
+  - number: 276A.323
+    title: State agency coordination
+    status: not_ingested
+  - number: 276A.332
+    title: Authority of State Chief Information Officer to enter into agreements
+    status: not_ingested
+  - number: 276A.335
+    title: Moneys from federal government and other sources
+    status: not_ingested
+  - number: 276A.340
+    title: Definitions
+    status: not_ingested
+  - number: 276A.342
+    title: State agencies prohibited from using covered products; risk mitigation; exceptions
+    status: not_ingested
+  - number: 276A.344
+    title: Policies and standards; national security threat; rules
+    status: not_ingested
+  - number: 276A.346
+    title: Secretary of State prohibited from using covered products; risk mitigation; exceptions
+    status: not_ingested
+  - number: 276A.348
+    title: State Treasurer prohibited from using covered products; risk mitigation; exceptions
+    status: not_ingested
+  - number: 276A.350
+    title: Definitions
+    status: not_ingested
+  - number: 276A.353
+    title: Chief Data Officer; duties; rules
+    status: not_ingested
+  - number: 276A.356
+    title: Open data standard
+    status: not_ingested
+  - number: 276A.359
+    title: Technical standards manual
+    status: not_ingested
+  - number: 276A.362
+    title: Release of publishable data on web portal; exemptions; rules
+    status: not_ingested
+  - number: 276A.365
+    title: Information management by state agencies
+    status: not_ingested
+  - number: 276A.368
+    title: Purpose of data; limitation of liability; publishable data in public domain
+    status: not_ingested
+  - number: 276A.371
+    title: Obligations of state agency under public records law
+    status: not_ingested
+  - number: 276A.374
+    title: Application to Secretary of State and State Treasurer; rules
+    status: not_ingested

@@ -17,6 +17,12 @@ published biennially by the Legislative Counsel Committee (current: 2025 Edition
 - **Why are the Secretary of State / Treasurer / DOJ excluded from DAS policies?**
   ORS 276A.303.
 - **What counts as a security incident or assessment?** ORS 276A.306.
-- Not yet ingested: ORS 183 (rulemaking), 184 (DAS), 192 (public records), 276A.323–.335
-  (remaining security sections), 291/293 (financial administration). Propose via
-  intake-request issues.
+- Not yet ingested: ORS 183 (rulemaking), 184 (DAS), 192 (public records), 276A (remaining
+  ~30 sections outside 300/303/306), 291/293 (financial administration).
+
+## Full coverage map
+
+[`_meta/catalog/ors.yml`](../_meta/catalog/ors.yml) lists every section discovered in each
+in-scope chapter (183, 184, 192, 276A, 291, 293) with ingestion status, compiled from the
+Legislature's chapter HTML on 2026-07-18. It is a discovery/backlog map, not verified
+content — propose ingestion of any listed section via an intake-request issue.

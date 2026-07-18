@@ -6,6 +6,14 @@ apply throughout.
 
 ## Phase 0 — Discover (agent proposes; human vets the LIST first)
 
+0. **Check the coverage catalogs first**: `_meta/catalog/{ors,oar,oam,das-policies}.yml`
+   are discovery/backlog maps built 2026-07-18 — every known ORS section, OAR division,
+   OAM document, and DAS policy in scope, each flagged `ingested` or `not_ingested`. Pick
+   candidates from there before doing fresh discovery, and update the relevant catalog
+   entry's `status` (and add a `path`) once a document is ingested. The DAS policy and OAR
+   division-level catalogs are best-effort (JS-rendered source pages have no public
+   sitemap) — verify a candidate still exists and get its real title before ingesting;
+   never trust a `(title TBD)` catalog entry as ground truth.
 1. Seed from the authoritative index pages:
    - DAS policies: https://www.oregon.gov/das/Pages/policies.aspx
    - OARD single rules (works with plain fetch): https://secure.sos.state.or.us/oard/view.action?ruleNumber=XXX-XXX-XXXX

@@ -22,3 +22,14 @@ published in OARD by the Secretary of State. Directory layout: `rules/<chapter>/
 - **Definitions (incident, information resources, security plan):** OAR 128-030-0010.
 - Rule history is encoded in Administrative Order Numbers (AONs); upstream changes arrive
   via the monthly Oregon Bulletin (first business day).
+
+## Full coverage map
+
+DAS administers OAR chapter 125 (34 divisions covering procurement, real property, fleet,
+surplus, risk management, records, and more) and chapter 128 (5 divisions, State CIO).
+Only division 128-030 (State Information Security) is ingested so far, and only its 3
+known rules. [`_meta/catalog/oar.yml`](../_meta/catalog/oar.yml) lists every division in
+both chapters (titles from oregon.public.law, retrieved 2026-07-18) with ingestion status
+— a discovery/backlog map, not verified content. Individual rule numbers within
+not-yet-ingested divisions are not enumerated; propose ingestion via an intake-request
+issue.

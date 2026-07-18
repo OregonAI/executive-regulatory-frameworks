@@ -1,0 +1,71 @@
+note: >
+  Discovery map of DAS statewide policies. The canonical index page
+  (oregon.gov/das/Pages/policies.aspx) renders its policy list via client-side JavaScript
+  against a SharePoint data source with no public sitemap or API discovered, so this catalog
+  is compiled from search-engine indexing of individual policy PDFs (retrieved 2026-07-18)
+  rather than one authoritative listing. It is best-effort and almost certainly incomplete —
+  treat gaps as "not yet discovered," not "does not exist." Titles marked "(title TBD)" were
+  not confirmed from a search snippet and must be verified at ingestion, never assumed.
+program_areas:
+  - area: General / Records (107-001)
+    policies:
+      - {number: "107-001-002", title: "(title TBD)", status: not_ingested}
+      - {number: "107-001-010", title: "(title TBD)", status: not_ingested}
+      - {number: "107-001-016", title: "Mobile Communication Device (MCD) Use", status: not_ingested}
+      - {number: "107-001-020", title: "Public Records Management", status: ingested, path: agencies/das/policies/das-107-001-020.md}
+      - {number: "107-001-030", title: "(title TBD)", status: not_ingested}
+  - area: Information Technology and Security (107-004)
+    policies:
+      - {number: "107-004-010", title: "IT Asset Inventory & Management", status: ingested, path: agencies/das/policies/das-107-004-010.md}
+      - {number: "107-004-050", title: "Information Asset Classification", status: ingested, path: agencies/das/policies/das-107-004-050.md}
+      - {number: "107-004-051", title: "Controlling Portable and Removable Storage Devices", status: ingested, path: agencies/das/policies/das-107-004-051.md}
+      - {number: "107-004-052", title: "Cyber and Information Security", status: ingested, path: agencies/das/policies/das-107-004-052.md}
+      - {number: "107-004-052_PR", title: "Cyber and Information Security Procedure", status: ingested, path: agencies/das/policies/das-107-004-052_pr.md}
+      - {number: "107-004-100", title: "Transporting Information Assets", status: ingested, path: agencies/das/policies/das-107-004-100.md}
+      - {number: "107-004-110", title: "Acceptable Use of State Information Assets", status: ingested, path: agencies/das/policies/das-107-004-110.md}
+      - {number: "107-004-120", title: "Cyber and Information Security Incident Response", status: ingested, path: agencies/das/policies/das-107-004-120.md}
+      - {number: "107-004-130", title: "Information Technology Investment Oversight", status: not_ingested}
+      - {number: "107-004-140", title: "Privileged Access to Information Systems", status: ingested, path: agencies/das/policies/das-107-004-140.md}
+      - {number: "107-004-150", title: "Cloud and Hosted Systems", status: ingested, path: agencies/das/policies/das-107-004-150.md}
+      - {number: "107-004-150_PR", title: "Cloud and Hosted Systems Procedure", status: not_ingested}
+      - {number: "107-004-155", title: "(title TBD)", status: not_ingested}
+      - {number: "107-004-160", title: "Data Governance", status: ingested, path: agencies/das/policies/das-107-004-160.md}
+  - area: Procurement / Sustainability (107-009)
+    policies:
+      - {number: "107-009-0020", title: "(title TBD — procurement/contracting; supersedes 107-009-020)", status: not_ingested}
+      - {number: "107-009-0040", title: "Sustainable Procurement", status: not_ingested}
+      - {number: "107-009-0080", title: "Green Chemistry", status: not_ingested}
+  - area: Facilities, Fleet, Asset Management, Surplus (107-011)
+    policies:
+      - {number: "107-011-010", title: "Statewide Energy Policy", status: not_ingested}
+      - {number: "107-011-050_PR", title: "Sustainable Acquisition and Disposal of Electronic Equipment (E-Waste/Recovery)", status: not_ingested, note: "cited by das-107-004-051 as the disposal-of-electronics companion"}
+      - {number: "107-011-100", title: "Workplace Space Standards", status: not_ingested}
+      - {number: "107-011-111", title: "(title TBD)", status: not_ingested}
+      - {number: "107-011-115", title: "(title TBD; formerly Policy 125-6-115, 1998)", status: not_ingested}
+      - {number: "107-011-150", title: "Service Animals", status: not_ingested}
+      - {number: "107-011-310", title: "Use of Capitol area parks and grounds", status: not_ingested}
+      - {number: "107-011-330", title: "Vending Services and Food Carts", status: not_ingested}
+  - area: Human Resources (50-xxx)
+    policies:
+      - {number: "50-000-01", title: "Drug-Free Workplace", status: not_ingested}
+      - {number: "50-010-01", title: "(title TBD — Discrimination and Harassment Free Workplace, per search summary; unverified)", status: not_ingested}
+      - {number: "50-010-02", title: "Workplace Violence Prevention", status: not_ingested}
+      - {number: "50-010-03", title: "Professional Workplace Behavior", status: not_ingested}
+      - {number: "50-010-05", title: "Weapons in the Workplace", status: not_ingested}
+      - {number: "50-010-06", title: "Employee Health & Wellness", status: not_ingested}
+      - {number: "50-020-10", title: "Disability Accommodations and Equal Employment Opportunity", status: not_ingested}
+      - {number: "50-035-01", title: "(title TBD)", status: not_ingested}
+      - {number: "50-050-01", title: "Remote Work", status: not_ingested}
+      - {number: "50-090-01", title: "Improper Governmental Conduct Reporting", status: not_ingested}
+    note: >
+      The HR-specific portal (das/Pages/policieshr.aspx) lists category headers — General;
+      Classification & Compensation; Position Management; Filling Positions; Workforce
+      Management; Employee Leave; Discipline & Discharge — with no policy numbers visible
+      in static HTML. Numbers below are almost certainly incomplete; leave/discipline
+      categories in particular have no confirmed numbers yet.
+  - area: Publishing & Distribution, Risk Management
+    policies: []
+    note: >
+      No policy numbers discovered yet; category pages
+      (das/PrintMail/Pages/agreements.aspx, das/Risk/Pages/Insself.aspx) are program
+      pages, not policy indexes.

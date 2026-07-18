@@ -1,0 +1,187 @@
+note: Discovery map of OAR chapters administered by/relevant to DAS. Division titles from oregon.public.law
+  chapter listings, retrieved 2026-07-18; individual rule numbers within a division are enumerated only
+  where already ingested (chapter 128, division 30) or known from prior work. Status 'ingested' means
+  a full document exists in rules/.
+chapters:
+- chapter: '125'
+  title: Department of Administrative Services
+  url: https://oregon.public.law/rules/oar_chapter_125
+  divisions:
+  - division: '1'
+    title: Procedural Rules
+    status: not_ingested
+    rules: not enumerated
+  - division: '7'
+    title: Criminal Records Check and Fitness Determination Rules
+    status: not_ingested
+    rules: not enumerated
+  - division: '10'
+    title: Public Contract Review Services and Fees
+    status: not_ingested
+    rules: not enumerated
+  - division: '15'
+    title: Payroll Administration
+    status: not_ingested
+    rules: not enumerated
+  - division: '20'
+    title: Access to Public Records and Photocopy(ing) Charges
+    status: not_ingested
+    rules: not enumerated
+  - division: '30'
+    title: Annual Charitable Fund Drive Program
+    status: not_ingested
+    rules: not enumerated
+  - division: '35'
+    title: Federal Surplus Property
+    status: not_ingested
+    rules: not enumerated
+  - division: '40'
+    title: Mail/Delivery Services
+    status: not_ingested
+    rules: not enumerated
+  - division: '45'
+    title: Disposition and Acquisition of Real Property Interests
+    status: not_ingested
+    rules: not enumerated
+  - division: '50'
+    title: State Surplus Property
+    status: not_ingested
+    rules: not enumerated
+  - division: '55'
+    title: State Purchasing
+    status: not_ingested
+    rules: not enumerated
+  - division: '60'
+    title: Housing and Rentals
+    status: not_ingested
+    rules: not enumerated
+  - division: '70'
+    title: Gifts and Donations
+    status: not_ingested
+    rules: not enumerated
+  - division: '75'
+    title: Use of Buildings, Grounds, Parking Areas (Structures, Facilities, Lots) and Premises Under
+      Department Control
+    status: not_ingested
+    rules: not enumerated
+  - division: '80'
+    title: Sales or Solicitation
+    status: not_ingested
+    rules: not enumerated
+  - division: '85'
+    title: Recycling
+    status: not_ingested
+    rules: not enumerated
+  - division: '90'
+    title: Parking Facilities
+    status: not_ingested
+    rules: not enumerated
+  - division: '110'
+    title: Land Use Coordination
+    status: not_ingested
+    rules: not enumerated
+  - division: '120'
+    title: Renting or Leasing Office Quarters
+    status: not_ingested
+    rules: not enumerated
+  - division: '125'
+    title: Statewide Facility Planning Process
+    status: not_ingested
+    rules: not enumerated
+  - division: '140'
+    title: Confidentiality and Inadmissibility of Mediation Communications
+    status: not_ingested
+    rules: not enumerated
+  - division: '150'
+    title: Risk Management
+    status: not_ingested
+    rules: not enumerated
+  - division: '155'
+    title: State Vehicle Use and Access
+    status: not_ingested
+    rules: not enumerated
+  - division: '156'
+    title: Sale of Compressed Natural Gas
+    status: not_ingested
+    rules: not enumerated
+  - division: '160'
+    title: Administration and Benefits of the Inmate Injury System
+    status: not_ingested
+    rules: not enumerated
+  - division: '170'
+    title: Economic Development Fund Process
+    status: not_ingested
+    rules: not enumerated
+  - division: '180'
+    title: Shared Services Fund
+    status: not_ingested
+    rules: not enumerated
+  - division: '246'
+    title: General Provisions for Public Contracting
+    status: not_ingested
+    rules: not enumerated
+  - division: '247'
+    title: Public Procurement of Supplies and Services
+    status: not_ingested
+    rules: not enumerated
+  - division: '248'
+    title: 'Consultant Selection: Architectural, Engineering, Land Surveying Services and Related Services
+      Contracts'
+    status: not_ingested
+    rules: not enumerated
+  - division: '249'
+    title: General Provisions Related to Public Contracts for Construction Services
+    status: not_ingested
+    rules: not enumerated
+  - division: '300'
+    title: State Peer Review Audits
+    status: not_ingested
+    rules: not enumerated
+  - division: '600'
+    title: Identity Authentication/Electronic Signatures
+    status: not_ingested
+    rules: not enumerated
+  - division: '700'
+    title: Internal Auditing
+    status: not_ingested
+    rules: not enumerated
+  - division: '800'
+    title: State Information Security (renumbered to chapter 128, Division 30, effective 2026-05-01)
+    status: not_ingested
+    rules: not enumerated
+- chapter: '128'
+  title: Office of the State Chief Information Officer
+  url: https://oregon.public.law/rules/oar_chapter_128
+  divisions:
+  - division: '30'
+    title: State Information Security
+    status: partially_ingested
+    rules:
+    - number: 128-030-0005
+      status: ingested
+      path: rules/128/030/oar-128-030-0005.md
+    - number: 128-030-0010
+      status: ingested
+      path: rules/128/030/oar-128-030-0010.md
+    - number: 128-030-0020
+      status: ingested
+      path: rules/128/030/oar-128-030-0020.md
+    - number: 128-030-xxxx
+      status: not_enumerated
+      note: additional rules in this division not confirmed
+  - division: '10'
+    title: Providing Broadband Services and Operations to Non-State Entities
+    status: not_ingested
+    rules: not enumerated
+  - division: '20'
+    title: State Information Technology Asset Protection - Covered Vendors
+    status: not_ingested
+    rules: not enumerated
+  - division: '40'
+    title: Geographic Information
+    status: not_ingested
+    rules: not enumerated
+  - division: '50'
+    title: Identity Authentication/Electronic Signatures
+    status: not_ingested
+    rules: not enumerated

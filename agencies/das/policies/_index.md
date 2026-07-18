@@ -35,3 +35,15 @@ Procedures carry a `_PR` suffix. **Non-authoritative copies.**
   [../standards/](../standards/_index.md).
 - ⚠️ 107-004-051 and 107-004-100 are image-only scans: summary-only files, no verbatim
   quotes.
+
+## Full coverage map
+
+DAS's policy index page (oregon.gov/das/Pages/policies.aspx) renders its list via
+client-side JavaScript with no public sitemap, so no single authoritative source
+enumerates every policy. [`_meta/catalog/das-policies.yml`](../../../_meta/catalog/das-policies.yml)
+is a best-effort discovery map — compiled from search-engine indexing of individual
+policy PDFs on 2026-07-18 — covering 12 ingested policies plus ~24 discovered-but-not-ingested
+across General/Records, IT & Security, Procurement, Facilities/Fleet/Surplus, and HR. It is
+almost certainly incomplete (Publishing, Risk Management, and most HR sub-categories have no
+confirmed policy numbers yet); treat gaps as "not yet discovered," not "doesn't exist," and
+never assume a "(title TBD)" entry's title without checking the source at ingestion time.
