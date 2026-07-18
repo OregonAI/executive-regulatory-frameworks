@@ -116,12 +116,12 @@ def snapshot_slice(doc_id: str, snapshot_id: str, raw_text: str) -> str:
     """The portion of a shared snapshot's text that a document's '## Full text' covers.
     Used identically by the migration generator and verify_provenance so coverage is
     measured against the same slice that was transcribed. Default: whole text."""
-    if snapshot_id == "ors-chapter-276a":
-        sec = doc_id.replace("ors-", "").upper().replace("276A", "276A")  # e.g. 276A.300
+    if snapshot_id.startswith("ors-chapter-"):
+        sec = doc_id.replace("ors-", "").upper()  # e.g. 276A.300, 192.018
         norm = ws_only(raw_text)
         matches = list(re.finditer(re.escape(sec) + r" [A-Z“\"]", norm))
         if not matches:
-            return norm
+            return ""
         start = matches[-1].start()
         nxt = re.search(r"\b\d{3}[A-Z]?\.\d{3} [A-Z“\"]", norm[start + 10:])
         end = start + 10 + nxt.start() if nxt else len(norm)

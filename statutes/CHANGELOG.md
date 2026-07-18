@@ -8,6 +8,18 @@ file's frontmatter).
 
 ## [Unreleased]
 
+## [2026-07-18] (2)
+
+### Added
+
+- Whole-chapter ingestion via the new `src/ingest_ors.py` pipeline: 567 section
+  documents across chapters 183 (48), 184 (114), 192 (126), 291 (86), 293 (157), and
+  the remainder of 276A (36) — full text per section, sliced from the Legislature's
+  chapter HTML (2025 Edition) with the same shared slicing the verifier uses. 5 catalog
+  entries marked `not_sliceable` (no section body in the chapter text — renumbered/
+  repealed or TOC-noise entries) and intentionally not ingested. Verified-by
+  @morficflux (machine verification; human review pending).
+
 ## [2026-07-18] — full-text-first migration
 
 ### Changed

@@ -1,0 +1,4912 @@
+ 
+ 
+ 
+ Oregon Revised Statutes 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ Oregon Revised Statutes 
+
+ 
+
+ Chapter
+183 — Administrative Procedures Act; Review of Rules; Civil Penalties 
+
+   
+
+ New sections of law
+were added by legislative action to this ORS chapter or to a series within this
+ORS chapter by the Legislative Assembly during its 2026 regular session. See
+sections in the following 2026 Oregon Laws chapters: 2026
+Session Laws 0050 ; 2026
+Session Laws 0104 ; 2026
+Session Laws 0105 
+
+   
+
+ New sections of law
+were enacted by the Legislative Assembly during its 2026 regular session and
+pertain to or are likely to be compiled in this ORS chapter. See sections in
+the following 2026 Oregon Laws chapters: 2026
+Session Laws 0050 ; 2026
+Session Laws 0105 
+
+   
+
+   
+
+ 2025
+EDITION 
+
+   
+
+ ADMINISTRATIVE PROCEDURES ACT 
+
+   
+
+ EXECUTIVE BRANCH; ORGANIZATION 
+
+   
+
+ ADMINISTRATIVE PROCEDURES ACT 
+
+   
+
+ (General Provisions) 
+
+   
+
+ 183.310     Definitions for chapter 
+
+   
+
+ 183.315     Application of
+provisions of chapter to certain agencies 
+
+   
+
+ (Adoption of Rules) 
+
+   
+
+ 183.325     Delegation of
+rulemaking authority to named officer or employee 
+
+   
+
+ 183.330     Description of
+organization; service of order; rules coordinator; order not final until put in
+writing 
+
+   
+
+ 183.332     Policy statement;
+conformity of state rules with equivalent federal laws and rules 
+
+   
+
+ 183.333     Policy statement;
+public involvement in development of policy and drafting of rules; advisory
+committees 
+
+   
+
+ 183.335     Notice; content; public
+comment; temporary rule adoption, amendment or suspension; substantial
+compliance required 
+
+   
+
+ 183.336     Cost of compliance
+effect on small businesses 
+
+   
+
+ 183.337     Procedure for agency
+adoption of federal rules 
+
+   
+
+ 183.338     Use of term “noncitizen”
+in rules and regulations 
+
+   
+
+ 183.341     Model rules of
+procedure; establishment; compilation; publication; agencies required to adopt
+procedural rules 
+
+   
+
+ 183.355     Filing and taking
+effect of rules; filing of executive orders; copies; fees; rules 
+
+   
+
+ 183.360     Publication of rules
+and orders; exceptions; requirements; bulletin; judicial notice; citation 
+
+   
+
+ 183.365     Publication of
+administrative rules in electronic form 
+
+   
+
+ 183.370     Distribution of
+published rules 
+
+   
+
+ 183.390     Petitions requesting
+adoption of rules 
+
+   
+
+ 183.400     Judicial determination
+of validity of rule 
+
+   
+
+ 183.403     Agency report to
+Legislative Assembly regarding temporary rules 
+
+   
+
+ 183.405     Agency review of rules;
+report by Secretary of State 
+
+   
+
+ 183.407     Small Business Rules
+Advisory Committee 
+
+   
+
+ 183.410     Agency determination of
+applicability of rule or statute to petitioner; effect; judicial review 
+
+   
+
+ (Contested Cases) 
+
+   
+
+ 183.411     Delegation of final
+order authority 
+
+   
+
+ 183.413     Notice to parties
+before hearing of rights and procedure; failure to provide notice 
+
+   
+
+ 183.415     Notice of right to
+hearing 
+
+   
+
+ 183.417     Procedure in contested
+case hearing 
+
+   
+
+ 183.425     Depositions or subpoena
+of material witness; discovery 
+
+   
+
+ 183.430     Hearing on refusal to
+renew license; exceptions 
+
+   
+
+ 183.435     Period allowed to
+request hearing for license refusal on grounds other than test or inspection
+results 
+
+   
+
+ 183.440     Subpoenas in contested
+cases 
+
+   
+
+ 183.445     Subpoena by agency or
+attorney of record of party when agency not subject to ORS 183.440 
+
+   
+
+ 183.450     Evidence in contested
+cases 
+
+   
+
+ 183.452     Representation of
+agencies at contested case hearings 
+
+   
+
+ 183.453     Representation of
+Oregon Health Authority and Department of Human Services at contested case
+hearings 
+
+   
+
+ 183.457     Representation of
+persons other than agencies participating in contested case hearings 
+
+   
+
+ 183.458     Nonattorney and
+out-of-state attorney representation of parties in certain contested case
+hearings 
+
+   
+
+ 183.459     Representation of home
+care worker by labor union representative 
+
+   
+
+ 183.460     Examination of evidence
+by agency 
+
+   
+
+ 183.462     Agency statement of ex
+parte communications; notice 
+
+   
+
+ 183.464     Proposed order by
+hearing officer; amendment by agency; exemptions 
+
+   
+
+ 183.470     Orders in contested
+cases 
+
+   
+
+ 183.471     Preservation of orders
+in electronic format; fees 
+
+   
+
+ (Judicial Review) 
+
+   
+
+ 183.480     Judicial review of
+agency orders 
+
+   
+
+ 183.482     Jurisdiction for review
+of contested cases; procedure; scope of court authority 
+
+   
+
+ 183.484     Jurisdiction for review
+of orders other than contested cases; procedure; scope of court authority 
+
+   
+
+ 183.485     Decision of court on
+review of contested case 
+
+   
+
+ 183.486     Form and scope of
+decision of reviewing court 
+
+   
+
+ 183.490     Agency may be compelled
+to act 
+
+   
+
+ 183.497     Awarding costs and
+attorney fees when finding for petitioner 
+
+   
+
+ (Appeals From Circuit Courts) 
+
+   
+
+ 183.500     Appeals 
+
+   
+
+ (Alternative Dispute Resolution) 
+
+   
+
+ 183.502     Authority of agencies
+to use alternative means of dispute resolution; model rules; amendment of
+agreements and forms; agency alternative dispute resolution programs 
+
+   
+
+ (Housing Cost Impact Statement) 
+
+   
+
+ 183.530     Housing cost impact
+statement required for certain proposed rules 
+
+   
+
+ 183.534     Housing cost impact
+statement described; rules 
+
+   
+
+ 183.538     Effect of failure to
+prepare housing cost impact statement; judicial review 
+
+   
+
+ (Effects of Rules on Small
+Business) 
+
+   
+
+ 183.540     Reduction of economic
+impact on small business 
+
+   
+
+ (Office of Administrative Hearings) 
+
+   
+
+ 183.605     Office of
+Administrative Hearings 
+
+   
+
+ 183.610     Chief administrative
+law judge 
+
+   
+
+ 183.615     Administrative law
+judges; duties; qualifications; rules 
+
+   
+
+ 183.620     Contract administrative
+law judges 
+
+   
+
+ 183.625     Assignment of
+administrative law judges; conduct of hearings 
+
+   
+
+ 183.630     Model rules of
+procedure; exemptions; depositions 
+
+   
+
+ 183.635     Agencies required to
+use administrative law judges from Office of Administrative Hearings;
+exceptions 
+
+   
+
+ 183.640     Use of Office of
+Administrative Hearings by exempt agencies and by political subdivisions 
+
+   
+
+ 183.645     Request for change of
+administrative law judge; rules 
+
+   
+
+ 183.650     Form of order;
+modification of form of order by agency; finding of historical fact 
+
+   
+
+ 183.655     Fees 
+
+   
+
+ 183.660     Office of
+Administrative Hearings Operating Account 
+
+   
+
+ 183.665     Estimates of office
+expenses 
+
+   
+
+ 183.670     Rules 
+
+   
+
+ 183.675     Alternative dispute
+resolution 
+
+   
+
+ 183.680     Standards and training
+program 
+
+   
+
+ 183.685     Ex parte communications 
+
+   
+
+ 183.690     Office of
+Administrative Hearings Oversight Committee 
+
+   
+
+ PERMITS AND LICENSES 
+
+   
+
+ 183.700     Permits subject to ORS
+183.702 
+
+   
+
+ 183.702     Statement of criteria
+and procedures for evaluating permit application; documentation of decision on
+application; required signature 
+
+   
+
+ 183.705     Extended term for
+renewed licenses; fees; continuing education; rules 
+
+   
+
+ REVIEW OF RULES 
+
+   
+
+ (Legislative Assembly) 
+
+   
+
+ 183.710     Definitions for ORS
+183.710 to 183.730 
+
+   
+
+ 183.715     Submission of adopted
+rule to Legislative Counsel required 
+
+   
+
+ 183.720     Procedure for review of
+agency rule; reports on rules claimed to be duplicative or conflicting 
+
+   
+
+ 183.722     Required agency
+response to Legislative Counsel determination; consideration of determination
+by interim committee 
+
+   
+
+ 183.724     Designation of interim
+committees for purposes of considering rule reports 
+
+   
+
+ (Oregon Sunshine Committee) 
+
+   
+
+ 183.730     Review of rule by
+Oregon Sunshine Committee 
+
+   
+
+ CIVIL PENALTIES 
+
+   
+
+ 183.745     Civil penalty
+procedures; notice; hearing; judicial review; exemptions; recording;
+enforcement 
+
+   
+
+ READABILITY OF PUBLIC WRITINGS 
+
+   
+
+ 183.750     State agency required
+to prepare public writings in readable form 
+
+   
+
+       183.010 [Repealed by 1971 c.734 §21] 
+
+   
+
+       183.020 [Repealed by 1971 c.734 §21] 
+
+   
+
+       183.025 [Formerly 182.065; 1993 c.729 §4;
+2003 c.749 §8; renumbered 183.750 in 2003] 
+
+   
+
+       183.030 [Repealed by 1971 c.734 §21] 
+
+   
+
+       183.040 [Repealed by 1971 c.734 §21] 
+
+   
+
+       183.050 [Repealed by 1971 c.734 §21] 
+
+   
+
+       183.060 [1957 c.147 §1; repealed by 1969
+c.292 §3] 
+
+   
+
+       183.090 [1991 c.734 §2; 1997 c.387 §3;
+2001 c.621 §71; renumbered 183.745 in 2003] 
+
+   
+
+ ADMINISTRATIVE
+PROCEDURES ACT 
+
+   
+
+ (General Provisions) 
+
+   
+
+       183.310
+Definitions for chapter. 
+As used in this chapter: 
+
+       (1) “Agency”
+means any state board, commission, department, or division thereof, or officer
+authorized by law to make rules or to issue orders, except those in the
+legislative and judicial branches. 
+
+       (2)(a) “Contested
+case” means a proceeding before an agency: 
+
+       (A) In which the
+individual legal rights, duties or privileges of specific parties are required
+by statute or Constitution to be determined only after an agency hearing at
+which such specific parties are entitled to appear and be heard; 
+
+       (B) Where the
+agency has discretion to suspend or revoke a right or privilege of a person; 
+
+       (C) For the
+suspension, revocation or refusal to renew or issue a license where the
+licensee or applicant for a license demands such hearing; or 
+
+       (D) Where the
+agency by rule or order provides for hearings substantially of the character
+required by ORS 183.415, 183.417, 183.425, 183.450, 183.460 and 183.470. 
+
+       (b) “Contested
+case” does not include proceedings in which an agency decision rests solely on
+the result of a test. 
+
+       (3) “Economic
+effect” means the economic impact on affected businesses by and the costs of
+compliance, if any, with a rule for businesses, including but not limited to
+the costs of equipment, supplies, labor and administration. 
+
+       (4) “Hearing
+officer” includes an administrative law judge. 
+
+       (5) “License”
+includes the whole or part of any agency permit, certificate, approval,
+registration or similar form of permission required by law to pursue any
+commercial activity, trade, occupation or profession. 
+
+       (6)(a) “Order”
+means any agency action expressed orally or in writing directed to a named
+person or named persons, other than employees, officers or members of an
+agency. “Order” includes any agency determination or decision issued in
+connection with a contested case proceeding. “Order” includes: 
+
+       (A) Agency action
+under ORS chapter 657 making determination for purposes of unemployment
+compensation of employees of the state; 
+
+       (B) Agency action
+under ORS chapter 240 which grants, denies, modifies, suspends or revokes any
+right or privilege of an employee of the state; and 
+
+       (C) Agency action
+under ORS 468B.050 to issue a permit. 
+
+       (b) “Final order”
+means final agency action expressed in writing. “Final order” does not include
+any tentative or preliminary agency declaration or statement that: 
+
+       (A) Precedes
+final agency action; or 
+
+       (B) Does not
+preclude further agency consideration of the subject matter of the statement or
+declaration. 
+
+       (7) “Party”
+means: 
+
+       (a) Each person
+or agency entitled as of right to a hearing before the agency; 
+
+       (b) Each person
+or agency named by the agency to be a party; or 
+
+       (c) Any person
+requesting to participate before the agency as a party or in a limited party
+status which the agency determines either has an interest in the outcome of the
+agency’s proceeding or represents a public interest in such result. The agency’s
+determination is subject to judicial review in the manner provided by ORS
+183.482 after the agency has issued its final order in the proceedings. 
+
+       (8) “Person”
+means any individual, partnership, corporation, association, governmental
+subdivision or public or private organization of any character other than an
+agency. 
+
+       (9) “Rule” means
+any agency directive, standard, regulation or statement of general
+applicability that implements, interprets or prescribes law or policy, or
+describes the procedure or practice requirements of any agency. The term
+includes the amendment or repeal of a prior rule, but does not include: 
+
+       (a) Unless a
+hearing is required by statute, internal management directives, regulations or
+statements which do not substantially affect the interests of the public: 
+
+       (A) Between
+agencies, or their officers or their employees; or 
+
+       (B) Within an
+agency, between its officers or between employees. 
+
+       (b) Action by
+agencies directed to other agencies or other units of government which do not
+substantially affect the interests of the public. 
+
+       (c) Declaratory
+rulings issued pursuant to ORS 183.410 or 305.105. 
+
+       (d) Intra-agency
+memoranda. 
+
+       (e) Executive
+orders of the Governor. 
+
+       (f) Rules of
+conduct for persons committed to the physical and legal custody of the
+Department of Corrections, the violation of which will not result in: 
+
+       (A) Placement in
+segregation or isolation status in excess of seven days. 
+
+       (B) Institutional
+transfer or other transfer to secure confinement status for disciplinary
+reasons. 
+
+       (C) Disciplinary
+procedures adopted pursuant to ORS 421.180. 
+
+       (10)(a) “Small
+business” means a corporation, partnership, sole proprietorship or other legal
+entity formed for the purpose of making a profit, which is independently owned
+and operated from all other businesses and which has 50 or fewer employees. 
+
+       (b) “Small
+business” does not include a coordinated care organization as defined in ORS
+414.025. [1957 c.717 §1; 1965 c.285 §78a; 1967 c.419 §32; 1969 c.80 §37a; 1971
+c.734 §1; 1973 c.386 §4; 1973 c.621 §1a; 1977 c.374 §1; 1977 c.798 §1; 1979
+c.593 §6; 1981 c.755 §1; 1987 c.320 §141; 1987 c.861 §1; 2003 c.75 §71; 2005
+c.523 §8; 2007 c.288 §9; 2019 c.529 §4] 
+
+   
+
+       183.315
+Application of provisions of chapter to certain agencies. (1) The provisions of ORS 183.410,
+183.415, 183.417, 183.425, 183.440, 183.450, 183.452, 183.458, 183.460, 183.470
+and 183.480 do not apply to local government boundary commissions created
+pursuant to ORS 199.430, the Department of Revenue, State Accident Insurance
+Fund Corporation, Department of Consumer and Business Services with respect to
+its functions under ORS chapters 654 and 656, State Board of Parole and
+Post-Prison Supervision or Psychiatric Security Review Board with respect to
+its functions under ORS 161.315 to 161.351. 
+
+       (2) This chapter
+does not apply with respect to actions of the Governor authorized under ORS
+chapter 240 and ORS 396.125 or actions of the Adjutant General authorized under
+ORS 396.160 (14). 
+
+       (3) The
+provisions of ORS 183.410, 183.415, 183.417, 183.425, 183.440, 183.450,
+183.452, 183.458 and 183.460 do not apply to the Employment Appeals Board or
+the Employment Department. 
+
+       (4) The
+Employment Department shall be exempt from the provisions of this chapter to
+the extent that a formal finding of the United States Secretary of Labor is
+made that such provision conflicts with the terms of the federal law,
+acceptance of which by the state is a condition precedent to continued
+certification by the United States Secretary of Labor of the state’s law. 
+
+       (5) The
+provisions of ORS 183.415 to 183.430, 183.440 to 183.460, 183.470 to 183.485
+and 183.490 to 183.500 do not apply to orders issued to persons who: 
+
+       (a) Have been
+committed pursuant to ORS 137.124 to the custody of the Department of
+Corrections or are otherwise confined in a Department of Corrections facility;
+or 
+
+       (b) Seek to visit
+an adult in custody confined in a Department of Corrections facility. 
+
+       (6) ORS 183.410, 183.415,
+183.417, 183.425, 183.440, 183.450, 183.460, 183.470 and 183.482 (3) do not
+apply to the Public Utility Commission. Except as provided in ORS 774.180,
+judicial review of an order issued by the commission in a contested case may be
+sought only by a party to the contested case. 
+
+       (7) The
+provisions of this chapter do not apply to the suspension, cancellation or
+termination of an apprenticeship or training agreement under ORS 660.060. 
+
+       (8) The
+provisions of ORS 183.413 to 183.497 do not apply to administrative proceedings
+conducted under rules adopted by the Secretary of State under ORS 246.190. [1971
+c.734 §19; 1973 c.612 §3; 1973 c.621 §2; 1973 c.694 §1; 1975 c.759 §1; 1977
+c.804 §45; 1979 c.593 §7; 1981 c.711 §16; 1987 c.320 §142; 1987 c.373 §21; 1989
+c.90 §1; 1997 c.26 §1; 1999 c.448 §6; 1999 c.679 §1; 2003 c.64 §8; 2005 c.512 §30;
+2005 c.638 §1; 2007 c.239 §8; 2007 c.288 §10; 2011 c.708 §24; 2017 c.312 §1;
+2017 c.442 §23; 2019 c.213 §54] 
+
+   
+
+       183.317 [1971 c.734 §187; repealed by 1979
+c.593 §34] 
+
+   
+
+       183.320 [1957 c.717 §15; repealed by 1971
+c.734 §21] 
+
+   
+
+ (Adoption of Rules) 
+
+   
+
+       183.325
+Delegation of rulemaking authority to named officer or employee. Unless otherwise provided by law,
+an agency may delegate its rulemaking authority to an officer or employee
+within the agency. A delegation of authority under this section must be made in
+writing and filed with the Secretary of State before the filing of any rule
+adopted pursuant to the delegation. A delegation under this section may be made
+only to one or more named individuals. The delegation of authority shall
+reflect the name of the authorized individual or individuals, and be signed in
+acknowledgment by the named individuals. Any officer or employee to whom
+rulemaking authority is delegated under this section is an “agency” for the
+purposes of the rulemaking requirements of this chapter. [1979 c.593 §10; 1993
+c.729 §1] 
+
+   
+
+       183.330
+Description of organization; service of order; rules coordinator; order not
+final until put in writing. 
+(1) In addition to other rulemaking requirements imposed by law, each agency
+shall publish a description of its organization and the methods whereby the
+public may obtain information or make submissions or requests. 
+
+       (2) Each state
+agency that adopts rules shall appoint a rules coordinator and file a copy of
+that appointment with the Secretary of State. The rules coordinator shall: 
+
+       (a) Maintain
+copies of all rules adopted by the agency; 
+
+       (b) Provide to
+the public, upon request, information pertaining to: 
+
+       (A) All
+rulemaking proceedings of the agency; 
+
+       (B) The status of
+the agency’s rules; and 
+
+       (C) All
+certificates and rules filed by the agency with the Secretary of State; and 
+
+       (c) Keep and make
+available the mailing list required by ORS 183.335 (8). 
+
+       (3) An order
+shall not be effective as to any person or party unless it is served upon the
+person or party either personally or by mail. This subsection is not applicable
+in favor of any person or party who has actual knowledge of the order. 
+
+       (4) An order is
+not final until it is reduced to writing. [1957 c.717 §2; 1971 c.734 §4; 1975
+c.759 §3; 1979 c.593 §8; 1993 c.729 §2; 2001 c.220 §3; 2017 c.518 §1] 
+
+   
+
+       183.332 Policy
+statement; conformity of state rules with equivalent federal laws and rules. It is the policy of this state
+that agencies shall seek to retain and promote the unique identity of Oregon by
+considering local conditions when an agency adopts policies and rules. However,
+since there are many federal laws and regulations that apply to activities that
+are also regulated by the state, it is also the policy of this state that
+agencies attempt to adopt rules that correspond with equivalent federal laws
+and rules unless: 
+
+       (1) There is
+specific statutory direction to the agency that authorizes the adoption of the
+rule; 
+
+       (2) A federal
+waiver has been granted that authorizes the adoption of the rule; 
+
+       (3) Local or
+special conditions exist in this state that warrant a different rule; 
+
+       (4) The state
+rule has the effect of clarifying the federal rules, standards, procedures or
+requirements; 
+
+       (5) The state
+rule achieves the goals of the federal and state law with the least impact on
+public and private resources; or 
+
+       (6) There is no
+corresponding federal regulation. [1997 c.602 §2] 
+
+   
+
+       183.333 Policy
+statement; public involvement in development of policy and drafting of rules;
+advisory committees. 
+(1)(a) The Legislative Assembly finds and declares that it is the policy of
+this state that whenever possible the public be involved in the development of
+public policy by agencies and in the drafting of rules. The Legislative
+Assembly encourages agencies to seek public input to the maximum extent
+possible before giving notice of intent to adopt a rule. The agency may appoint
+an advisory committee or use any other means of obtaining public views that
+will assist the agency in drafting the rule. 
+
+       (b) The
+membership of an advisory committee appointed under this subsection must
+represent the interests of persons and communities likely to be affected by the
+rule. 
+
+       (c) An agency
+that appoints an advisory committee under this subsection with regard to
+adoption of rules implementing legislation enacted by the Legislative Assembly
+shall invite to participate as a nonvoting member of the committee: 
+
+       (A) For
+legislation sponsored by a member of the Legislative Assembly, the first chief
+sponsor of the legislation, or another sponsor of the legislation as designated
+by the first chief sponsor. 
+
+       (B) For
+legislation sponsored by a committee of the Legislative Assembly, the chair of
+the committee that sponsored the legislation at the time the legislation was
+introduced, or another member of the committee as designated by the chair. 
+
+       (2) Any agency in
+its discretion may develop a list of interested parties and inform those
+parties of any issue that may be the subject of rulemaking and invite the
+parties to make comments on the issue. 
+
+       (3) If an agency
+appoints an advisory committee for consideration of a rule under subsection (1)
+of this section, the agency shall seek the committee’s recommendations on
+whether the rule will have a fiscal impact, what the extent of that impact will
+be and whether the rule will have a significant adverse impact on small
+businesses. If the committee indicates that the rule will have a significant
+adverse impact on small businesses, the agency shall seek the committee’s
+recommendations on compliance with ORS 183.540. 
+
+       (4) An agency
+shall consider an advisory committee’s recommendations provided under
+subsection (3) of this section in preparing the statement of fiscal impact
+required by ORS 183.335 (2)(b)(E). 
+
+       (5) If an agency
+does not appoint an advisory committee for consideration of a permanent rule
+under subsection (1) of this section and 10 or more persons likely to be
+affected by the rule object to the agency’s statement of fiscal impact as
+required by ORS 183.335 (2)(b)(E) or an association with at least 10 members
+likely to be affected by the rule objects to the statement, the agency shall
+appoint a fiscal impact advisory committee to provide recommendations on
+whether the rule will have a fiscal impact and what the extent of that impact
+will be. The membership of the fiscal impact advisory committee must represent
+the interests of persons and communities likely to be affected by the rule. An
+objection under this subsection must be made not later than 14 days after the
+notice required by ORS 183.335 (1) is given. If the agency determines that the
+statement does not adequately reflect the rule’s fiscal impact, the agency
+shall extend the period for submission of data or views under ORS 183.335
+(3)(a) by at least 20 days. The agency shall include any recommendations from
+the committee in the record maintained by the agency for the rule. 
+
+       (6) An agency may
+appoint the Small Business Rules Advisory Committee established in ORS 183.407
+as the advisory committee or fiscal impact advisory committee for purposes of
+this section. 
+
+       (7) Subsection
+(5) of this section does not apply to any rule adopted by an agency to comply
+with a judgment or a settlement of a judicial proceeding. 
+
+       (8) If an agency
+is required by law to appoint an advisory committee or a fiscal impact advisory
+committee under this section, the agency may not appoint an officer, employee
+or other agent of the agency to serve as a member of the advisory committee or fiscal
+impact advisory committee. [2003 c.749 §4; 2005 c.807 §4; 2013 c.273 §1; 2018
+c.20 §3; 2021 c.463 §1; 2025 c.446 §1] 
+
+   
+
+       183.335
+Notice; content; public comment; temporary rule adoption, amendment or
+suspension; substantial compliance required. (1) Prior to the adoption, amendment or repeal of any
+rule, the agency shall give notice of its intended action: 
+
+       (a) In the manner
+established by rule adopted by the agency under ORS 183.341 (4), which provides
+a reasonable opportunity for interested persons to be notified of the agency’s
+proposed action; 
+
+       (b) In the
+bulletin referred to in ORS 183.360 at least 21 days prior to the effective
+date; 
+
+       (c) At least 28
+days before the effective date, to persons who have requested notice pursuant
+to subsection (8) of this section; and 
+
+       (d) Delivered
+only by electronic mail, at least 49 days before the effective date, to the
+persons specified in subsection (15) of this section. 
+
+       (2)(a) The notice
+required by subsection (1) of this section must include: 
+
+       (A) A caption of
+not more than 15 words that reasonably identifies the subject matter of the
+agency’s intended action. The agency shall include the caption on each separate
+notice, statement, certificate or other similar document related to the
+intended action. 
+
+       (B) An objective,
+simple and understandable statement summarizing the subject matter and purpose
+of the intended action in sufficient detail to inform a person that the person’s
+interests may be affected, and the time, place and manner in which interested
+persons may present their views on the intended action. 
+
+       (b) The agency
+shall include with the notice of intended action given under subsection (1) of
+this section: 
+
+       (A) A citation of
+the statutory or other legal authority relied upon and bearing upon the
+promulgation of the rule; 
+
+       (B) A citation of
+the statute or other law the rule is intended to implement; 
+
+       (C) A statement
+of the need for the rule and a statement of how the rule is intended to meet
+the need; 
+
+       (D) A list of the
+principal documents, reports or studies, if any, prepared by or relied upon by
+the agency in considering the need for and in preparing the rule, and a
+statement of the location at which those documents are available for public
+inspection. The list may be abbreviated if necessary, and if so abbreviated
+there shall be identified the location of a complete list; 
+
+       (E) A statement
+of fiscal impact identifying state agencies, units of local government and the
+public that may be economically affected by the adoption, amendment or repeal
+of the rule and an estimate of that economic impact on state agencies, units of
+local government and the public. In considering the economic effect of the
+proposed action on the public, the agency shall utilize available information
+to project any significant economic effect of that action on businesses which
+shall include a cost of compliance effect on small businesses affected. For an
+agency specified in ORS 183.530, the statement of fiscal impact shall also
+include a housing cost impact statement as described in ORS 183.534; 
+
+       (F) A statement
+identifying how adoption of the rule will affect racial equity in this state; 
+
+       (G) If an
+advisory committee is not appointed under the provisions of ORS 183.333, an
+explanation as to why no advisory committee was used to assist the agency in
+drafting the rule; and 
+
+       (H) A request for
+public comment on whether other options should be considered for achieving the
+rule’s substantive goals while reducing the negative economic impact of the
+rule on business. 
+
+       (c) The Secretary
+of State may omit the information submitted under paragraph (b) of this
+subsection from publication in the bulletin referred to in ORS 183.360. 
+
+       (d) When
+providing notice of an intended action under subsection (1)(c) of this section,
+the agency shall provide a copy of the rule that the agency proposes to adopt,
+amend or repeal, or an explanation of how the person may acquire a copy of the
+rule. The copy of an amended rule shall show all changes to the rule by
+striking through material to be deleted and underlining all new material, or by
+any other method that clearly shows all new and deleted material. 
+
+       (3)(a) When an
+agency proposes to adopt, amend or repeal a rule, it shall give interested
+persons reasonable opportunity to submit data or views. Opportunity for oral
+hearing shall be granted upon request received from 10 persons or from an
+association having not less than 10 members before the earliest date that the
+rule could become effective after the giving of notice pursuant to subsection
+(1) of this section. An agency holding a hearing upon a request made under this
+subsection shall give notice of the hearing at least 21 days before the hearing
+to the person who has requested the hearing, to persons who have requested
+notice pursuant to subsection (8) of this section and to the persons specified
+in subsection (15) of this section. The agency shall publish notice of the
+hearing in the bulletin referred to in ORS 183.360 at least 14 days before the
+hearing. The agency shall consider fully any written or oral submission. 
+
+       (b) If an agency
+is required to conduct an oral hearing under paragraph (a) of this subsection,
+and the rule for which the hearing is to be conducted applies only to a limited
+geographical area within this state, or affects only a limited geographical area
+within this state, the hearing shall be conducted within the geographical area
+at the place most convenient for the majority of the residents within the
+geographical area. At least 14 days before a hearing conducted under this
+paragraph, the agency shall publish notice of the hearing in the bulletin
+referred to in ORS 183.360 and in a newspaper of general circulation published
+within the geographical area that is affected by the rule or to which the rule
+applies. If a newspaper of general circulation is not published within the
+geographical area that is affected by the rule or to which the rule applies,
+the publication shall be made in the newspaper of general circulation published
+closest to the geographical area. 
+
+       (c)
+Notwithstanding paragraph (a) of this subsection, the Department of Corrections
+and the State Board of Parole and Post-Prison Supervision may adopt rules
+limiting participation by adults in custody in the proposed adoption, amendment
+or repeal of any rule to written submissions. 
+
+       (d) If requested
+by at least five persons before the earliest date that the rule could become
+effective after the agency gives notice pursuant to subsection (1) of this
+section, the agency shall provide a statement that identifies the objective of
+the rule and a statement of how the agency will subsequently determine whether
+the rule is in fact accomplishing that objective. 
+
+       (e) An agency
+that receives data or views concerning proposed rules from interested persons
+shall maintain a record of the data or views submitted. The record shall
+contain: 
+
+       (A) All written
+materials submitted to an agency in response to a notice of intent to adopt,
+amend or repeal a rule. 
+
+       (B) A recording
+or summary of oral submissions received at hearings held for the purpose of
+receiving those submissions. 
+
+       (C) Any public
+comment received in response to the request made under subsection (2)(b)(H) of
+this section and the agency’s response to that comment. 
+
+       (D) Any
+statements provided by the agency under paragraph (d) of this subsection. 
+
+       (4) Upon request
+of an interested person received before the earliest date that the rule could
+become effective after the giving of notice pursuant to subsection (1) of this
+section, the agency shall postpone the date of its intended action no less than
+21 nor more than 90 days in order to allow the requesting person an opportunity
+to submit data, views or arguments concerning the proposed action. Nothing in
+this subsection shall preclude an agency from adopting a temporary rule
+pursuant to subsection (5) of this section. 
+
+       (5)
+Notwithstanding subsections (1) to (4) of this section, an agency may adopt,
+amend or suspend a rule without prior notice or hearing or upon any abbreviated
+notice and hearing that it finds practicable, if the agency prepares: 
+
+       (a) A statement
+of its findings that its failure to act promptly will result in serious
+prejudice to the public interest or the interest of the parties concerned and
+the specific reasons for its findings of prejudice; 
+
+       (b) A citation of
+the statutory or other legal authority relied upon and bearing upon the
+promulgation of the rule; 
+
+       (c) A statement
+of the need for the rule and a statement of how the rule is intended to meet
+the need; 
+
+       (d) A list of the
+principal documents, reports or studies, if any, prepared by or relied upon by
+the agency in considering the need for and in preparing the rule, and a
+statement of the location at which those documents are available for public
+inspection; and 
+
+       (e) For an agency
+specified in ORS 183.530, a housing cost impact statement as defined in ORS
+183.534. 
+
+       (6)(a) A rule
+adopted, amended or suspended under subsection (5) of this section is temporary
+and may be effective for a period of not longer than 180 days. The adoption of
+a rule under this subsection does not preclude the subsequent adoption of an
+identical rule under subsections (1) to (4) of this section. 
+
+       (b) A rule
+temporarily suspended shall regain effectiveness upon expiration of the
+temporary period of suspension unless the rule is repealed under subsections
+(1) to (4) of this section. 
+
+       (7)
+Notwithstanding subsections (1) to (4) of this section, an agency may amend a
+rule without prior notice or hearing if the amendment is solely for the purpose
+of: 
+
+       (a) Changing the
+name of an agency by reason of a name change prescribed by law; 
+
+       (b) Changing the
+name of a program, office or division within an agency as long as the change in
+name does not have a substantive effect on the functions of the program, office
+or division; 
+
+       (c) Correcting
+spelling; 
+
+       (d) Correcting
+grammatical mistakes in a manner that does not alter the scope, application or
+meaning of the rule; 
+
+       (e) Correcting
+statutory or rule references; 
+
+       (f) Correcting
+addresses or telephone numbers referred to in the rules; or 
+
+       (g) Changing a
+term or phrase in order to conform with a change prescribed by law. 
+
+       (8)(a) Any person
+may request in writing that an agency send to the person copies of the agency’s
+notices of intended action issued under subsection (1) of this section. The
+person must provide an address where the person elects to receive notices. The
+address provided may be a postal mailing address or, if the agency provides
+notice by electronic mail, may be an electronic mailing address. 
+
+       (b) A request
+under this subsection must indicate that the person requests one of the
+following: 
+
+       (A) The person
+may request that the agency mail paper copies of the proposed rule and other
+information required by subsection (2) of this section to the postal mailing
+address. 
+
+       (B) If the agency
+posts notices of intended action on a website, the person may request that the
+agency mail the information required by subsection (2)(a) of this section to
+the postal mailing address with a reference to the website where electronic
+copies of the proposed rule and other information required by subsection (2) of
+this section are posted. 
+
+       (C) The person
+may request that the agency electronically mail the information required by
+subsection (2)(a) of this section to the electronic mailing address, and either
+provide electronic copies of the proposed rule and other information required
+by subsection (2) of this section or provide a reference to a website where
+electronic copies of the proposed rule and other information required by
+subsection (2) of this section are posted. 
+
+       (c) Upon receipt
+of any request under this subsection, the agency shall acknowledge the request,
+establish a mailing list and maintain a record of all mailings made pursuant to
+the request. Agencies may establish procedures for establishing the mailing lists
+and keeping the mailing lists current. Agencies by rule may establish fees
+necessary to defray the costs of mailings and maintenance of the lists. 
+
+       (d) Members of
+the Legislative Assembly who receive notices under subsection (15) of this
+section may request that an agency furnish paper copies of the notices. 
+
+       (9) This section
+does not apply to rules establishing an effective date for a previously
+effective rule or establishing a period during which a provision of a
+previously effective rule will apply. 
+
+       (10) This section
+does not apply to ORS 279.835 to 279.855, 279A.140 to 279A.161, 279A.250 to
+279A.290, 279A.990, 279B.050 to 279B.085, 279B.200 to 279B.240, 279B.270,
+279B.275, 279B.280, 279C.360, 279C.365, 279C.370, 279C.375, 279C.380, 279C.385,
+279C.500 to 279C.530, 279C.540, 279C.545, 279C.550 to 279C.570, 279C.580,
+279C.585, 279C.590, 279C.600 to 279C.625, 279C.650 to 279C.670 and 279C.800 to
+279C.870 relating to public contracts and purchasing. 
+
+       (11)(a) Except as
+provided in paragraph (c) of this subsection, a rule is not valid unless
+adopted in substantial compliance with the provisions of this section in effect
+on the date that the notice required under subsection (1) of this section is
+delivered to the Secretary of State for the purpose of publication in the
+bulletin referred to in ORS 183.360. 
+
+       (b) In addition
+to all other requirements with which rule adoptions must comply, a rule other
+than a rule amended for a purpose described in subsection (7) of this section
+is not valid if the rule has not been submitted to the Legislative Counsel in
+the manner required by ORS 183.355 and 183.715. 
+
+       (c) A rule is not
+subject to judicial review or other challenge by reason of failing to comply
+with subsection (2)(a)(A) of this section. 
+
+       (12)(a)
+Notwithstanding the provisions of subsection (11) of this section, but subject
+to paragraph (b) of this subsection, an agency may correct its failure to
+substantially comply with the requirements of subsections (2) and (5) of this
+section in adoption of a rule by an amended filing, as long as the
+noncompliance did not substantially prejudice the interests of persons to be
+affected by the rule. 
+
+       (b) An agency may
+use an amended filing to correct a failure to include a fiscal impact statement
+in a notice of intended action, as required by subsection (2)(b)(E) of this
+section, or to correct an inaccurate fiscal impact statement, only if the
+agency developed the fiscal impact statement with the assistance of an advisory
+committee or fiscal impact advisory committee appointed under ORS 183.333. 
+
+       (13) Unless
+otherwise provided by statute, the adoption, amendment or repeal of a rule by
+an agency need not be based upon or supported by an evidentiary record. 
+
+       (14) When an
+agency has established a deadline for comment on a proposed rule under the
+provisions of subsection (3)(a) of this section, the agency may not extend that
+deadline for another agency or person unless the extension applies equally to
+all interested agencies and persons. An agency shall not consider any
+submission made by another agency after the final deadline has passed. 
+
+       (15) The notices
+required under subsections (1) and (3) of this section must be given by the
+agency to the following persons: 
+
+       (a) If the
+proposed adoption, amendment or repeal results from legislation that was passed
+within two years before notice is given under subsection (1) of this section,
+notice shall be given to the legislator who introduced the bill that
+subsequently was enacted into law, and to the chair or cochairs of all
+committees that reported the bill out, except for those committees whose sole
+action on the bill was referral to another committee. 
+
+       (b) If the
+proposed adoption, amendment or repeal does not result from legislation that
+was passed within two years before notice is given under subsection (1) of this
+section, notice shall be given to the chair or cochairs of any interim or
+session committee with authority over the subject matter of the rule. 
+
+       (c) If notice
+cannot be given under paragraph (a) or (b) of this subsection, notice shall be
+given to the Speaker of the House of Representatives and to the President of
+the Senate who are in office on the date the notice is given. 
+
+       (16)(a) Upon the
+request of a member of the Legislative Assembly or of a person who would be
+affected by a proposed adoption, amendment or repeal, the committees receiving
+notice under subsection (15) of this section shall review the proposed
+adoption, amendment or repeal for compliance with the legislation from which
+the proposed adoption, amendment or repeal results. 
+
+       (b) The
+committees shall submit their comments on the proposed adoption, amendment or
+repeal to the agency proposing the adoption, amendment or repeal. [1971 c.734 §3;
+1973 c.612 §1; 1975 c.136 §11; 1975 c.759 §4; 1977 c.161 §1; 1977 c.344 §6;
+1977 c.394 §1a; 1977 c.798 §2; 1979 c.593 §11; 1981 c.755 §2; 1987 c.861 §2;
+1993 c.729 §3; 1995 c.652 §5; 1997 c.602 §3; 1999 c.123 §1; 1999 c.334 §1; 2001
+c.220 §1; 2001 c.563 §1; 2003 c.749 §5; 2003 c.794 §206; 2005 c.17 §1; 2005
+c.18 §1; 2005 c.382 §1; 2005 c.807 §5; 2007 c.115 §1; 2007 c.768 §58; 2011
+c.380 §2; 2017 c.518 §2; 2019 c.213 §126; 2021 c.463 §2; 2022 c.97 §6] 
+
+   
+
+       183.336 Cost
+of compliance effect on small businesses. (1) The statement of cost of compliance effect on
+small businesses required by ORS 183.335 (2)(b)(E) must include: 
+
+       (a) An estimate
+of the number of small businesses subject to the proposed rule and
+identification of the types of businesses and industries with small businesses
+subject to the proposed rule; 
+
+       (b) A brief
+description of the projected reporting, recordkeeping and other administrative
+activities required for compliance with the proposed rule, including costs of
+professional services; 
+
+       (c) An
+identification of equipment, supplies, labor and increased administration
+required for compliance with the proposed rule; and 
+
+       (d) A description
+of the manner in which the agency proposing the rule involved small businesses
+in the development of the rule. 
+
+       (2) An agency
+shall utilize available information in complying with the requirements of this
+section. [2005 c.807 §2] 
+
+   
+
+       183.337
+Procedure for agency adoption of federal rules. (1) Notwithstanding ORS 183.335,
+when an agency is required to adopt rules or regulations promulgated by an
+agency of the federal government and the agency has no authority to alter or
+amend the content or language of those rules or regulations prior to their
+adoption, the agency may adopt those rules or regulations under the procedure
+prescribed in this section. 
+
+       (2) Prior to the
+adoption of a federal rule or regulation under subsection (1) of this section,
+the agency shall give notice of the adoption of the rule or regulation, the
+effective date of the rule or regulation in this state and the subject matter
+of the rule or regulation in the manner established in ORS 183.335 (1). 
+
+       (3) After giving
+notice the agency may adopt the rule or regulation by filing a copy with the
+Secretary of State in compliance with ORS 183.355. The agency is not required
+to conduct a public hearing concerning the adoption of the rule or regulation. 
+
+       (4) Nothing in
+this section authorizes an agency to amend federal rules or regulations or
+adopt rules in accordance with federal requirements without giving an
+opportunity for hearing as required by ORS 183.335. [1979 c.593 §15] 
+
+   
+
+       183.338 Use of
+term “noncitizen” in rules and regulations. (1) As used in this section: 
+
+       (a) “Noncitizen”
+means an individual who is not a citizen or national of the United States. 
+
+       (b) “State agency”
+means any state officer, board, commission, department, division, institution,
+branch or agency of the state government. 
+
+       (2) A state
+agency shall use the term “noncitizen” to reference an individual who is not a
+citizen or national of the United States when promulgating a rule or regulation
+that references an individual who is not a citizen or national of the United
+States. [2022 c.97 §1] 
+
+   
+
+       Note: 183.338 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 183
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+       183.340 [1957 c.717 §3 (3); 1971 c.734 §6;
+repealed by 1975 c.759 §5 (183.341 enacted in lieu of 183.340)] 
+
+   
+
+       183.341 Model
+rules of procedure; establishment; compilation; publication; agencies required
+to adopt procedural rules. 
+(1) The Attorney General shall prepare model rules of procedure appropriate for
+use by as many agencies as possible. Except as provided in ORS 183.630, any
+agency may adopt all or part of the model rules by reference without complying
+with the rulemaking procedures under ORS 183.335. Notice of such adoption shall
+be filed with the Secretary of State in the manner provided by ORS 183.355 for
+the filing of rules. The model rules may be amended from time to time by an
+adopting agency or the Attorney General after notice and opportunity for
+hearing as required by rulemaking procedures under this chapter. 
+
+       (2) Except as
+provided in ORS 183.630, all agencies shall adopt rules of procedure to be
+utilized in the adoption of rules and conduct of proceedings in contested cases
+or, if exempt from the contested case provisions of this chapter, for the
+conduct of proceedings. 
+
+       (3) The Secretary
+of State shall publish in the Oregon Administrative Rules: 
+
+       (a) The Attorney
+General’s model rules adopted under subsection (1) of this section; 
+
+       (b) The
+procedural rules of all agencies that have not adopted the Attorney General’s
+model rules; and 
+
+       (c) The notice
+procedures required by ORS 183.335 (1). 
+
+       (4) Agencies
+shall adopt rules of procedure which will provide a reasonable opportunity for
+interested persons to be notified of the agency’s intention to adopt, amend or
+repeal a rule. 
+
+       (5) No rule
+adopted after September 13, 1975, is valid unless adopted in substantial
+compliance with the rules adopted pursuant to subsection (4) of this section. [1975
+c.759 §6 (enacted in lieu of 183.340); 1979 c.593 §12; 1997 c.837 §1; 1999
+c.849 §§24,25; 2003 c.75 §28] 
+
+   
+
+       183.350 [1957 c.717 §3 (1), (2); repealed
+by 1971 c.734 §21] 
+
+   
+
+       183.355 Filing
+and taking effect of rules; filing of executive orders; copies; fees; rules. (1) The Secretary of State shall
+by rule prescribe requirements for the manner and form for filing rules
+adopted, amended or repealed by agencies. The Secretary of State may refuse to
+accept for filing any rules that do not comply with the requirements. 
+
+       (2)(a) Each
+agency shall file with the office of the Secretary of State each rule adopted
+by the agency. 
+
+       (b) Unless
+otherwise provided by rule adopted by the Secretary of State, an agency
+adopting a rule incorporating published standards by reference is not required
+to file a copy of those standards with the Secretary of State if: 
+
+       (A) The standards
+adopted are unusually voluminous and costly to reproduce; and 
+
+       (B) The rule
+filed with the Secretary of State identifies the location of the standards so
+incorporated and the conditions of their availability to the public. 
+
+       (3) Each rule is
+effective upon filing as required by subsection (2) of this section, except
+that: 
+
+       (a) If a later
+effective date is required by statute or specified in the rule, the later date
+is the effective date. 
+
+       (b) A temporary
+rule becomes effective upon filing with the Secretary of State, or at a
+designated later date, only if the statement required by ORS 183.335 (5) is
+filed with the rule. The agency shall take appropriate measures to make
+temporary rules known to the persons who may be affected by them. 
+
+       (4) When a rule
+is amended or repealed by an agency, the agency shall file the amendment or
+notice of repeal with the Secretary of State. 
+
+       (5) A certified
+copy of each executive order issued, prescribed or promulgated by the Governor
+shall be filed in the office of the Secretary of State. 
+
+       (6) A rule is not
+valid or effective against any person or party until the rule is filed in
+accordance with this section. However, if an agency, in disposing of a
+contested case, announces in its decision the adoption of a general policy
+applicable to the case and subsequent cases of like nature the agency may rely
+upon the decision in disposition of later cases. 
+
+       (7) The Secretary
+of State shall, upon request, supply copies of rules, or orders or designated
+parts of rules or orders, in the format requested, making and collecting
+therefor fees prescribed by ORS 177.130. All receipts from the sale of copies
+shall be deposited in the State Treasury to the credit of the Secretary of
+State Miscellaneous Receipts Account established under ORS 279A.290. 
+
+       (8) The Secretary
+of State shall establish and collect fees from agencies filing rules under this
+section. The fees shall be established in amounts calculated to be necessary to
+generate revenues adequate to pay costs incurred by the Secretary of State in
+performing the following duties that are not paid for by subscriber fees or
+other fees prescribed by law: 
+
+       (a) Publication
+of the compilation referred to in ORS 183.360 (1); 
+
+       (b) Electronic
+publication of the bulletin referred to in ORS 183.360 (3); and 
+
+       (c) Electronic
+publication of rules and other information relating to rules under ORS 183.365. 
+
+       (9) All fees
+collected under subsection (8) of this section shall be deposited in the State
+Treasury to the credit of the Secretary of State Miscellaneous Receipts Account
+established under ORS 279A.290. 
+
+       (10) No later
+than 10 days after an agency files an adopted, amended or repealed rule with
+the Secretary of State, other than a rule amended for a purpose described in
+ORS 183.335 (7), the Secretary of State shall: 
+
+       (a)
+Electronically transmit the rule to the Legislative Counsel in accordance with
+ORS 183.715; and 
+
+       (b) Provide to
+the agency that filed the rule a written confirmation that the rule was
+transmitted to the Legislative Counsel. [1971 c.734 §5; 1973 c.612 §2; 1975
+c.759 §7; 1977 c.798 §2b; 1979 c.593 §13; 1991 c.169 §2; 2003 c.794 §207; 2009
+c.289 §1; 2017 c.518 §3] 
+
+   
+
+       183.360
+Publication of rules and orders; exceptions; requirements; bulletin; judicial
+notice; citation. 
+(1) The Secretary of State shall compile, index and publish all rules adopted
+by each agency. The compilation shall be supplemented or revised as often as
+necessary. Such compilation supersedes any other rules. The Secretary of State
+may make such compilations of other material published in the bulletin as are
+desirable. The Secretary of State may copyright the compilations prepared under
+this subsection, and may establish policies for the revision, clarification,
+classification, arrangement, indexing, printing, binding, publication, sale and
+distribution of the compilations. 
+
+       (2) The Secretary
+of State has discretion to omit from the compilation, if published in print,
+rules the publication of which would be unduly cumbersome or expensive if the
+rule in printed or processed form is made available on application to the
+adopting agency, and if the compilation contains a notice summarizing the
+omitted rule and stating how a copy of the omitted rule may be obtained. In
+preparing the compilation the Secretary of State may not alter the sense,
+meaning, effect or substance of any rule, but may renumber sections and parts
+of sections of the rules, change the wording of headnotes, rearrange sections,
+change reference numbers to agree with renumbered chapters, sections or other
+parts, substitute the proper subsection, section or chapter or other division
+numbers, change capitalization for the purpose of uniformity, and correct
+manifest clerical or typographical errors. 
+
+       (3) The Secretary
+of State shall publish at least at monthly intervals a bulletin that: 
+
+       (a) Briefly
+indicates the agencies that are proposing to adopt, amend or repeal a rule, the
+subject matter of the rule and the name, address and telephone number of an
+agency officer or employee from whom information and a copy of any proposed
+rule may be obtained; 
+
+       (b) Contains the
+text or a brief description of all rules filed under ORS 183.355 since the last
+bulletin indicating the effective date of the rule; 
+
+       (c) Contains
+executive orders of the Governor; and 
+
+       (d) Contains
+orders issued by the Director of the Department of Revenue under ORS 305.157
+extending tax statutes of limitation. 
+
+       (4) Courts shall
+take judicial notice of rules and executive orders filed with the Secretary of
+State. 
+
+       (5) The
+compilation required by subsection (1) of this section shall be titled Oregon
+Administrative Rules and may be cited as “OAR” with appropriate numerical
+indications. 
+
+       (6) The Secretary
+of State may publish the compilation and bulletin required by this section in
+print, or by placing the compilation and bulletin on the Internet. [1957 c.717 §4
+(1),(2),(3); 1961 c.464 §1; 1971 c.734 §7; 1973 c.612 §4; 1975 c.759 §7a; 1977
+c.394 §2; 1979 c.593 §16; 1993 c.729 §13; 1995 c.79 §62; 2001 c.104 §63; 2003
+c.168 §3; 2009 c.289 §2; 2017 c.518 §4] 
+
+   
+
+       183.362 [1993 c.729 §12; repealed by 2017
+c.518 §9] 
+
+   
+
+       183.365
+Publication of administrative rules in electronic form. (1) Pursuant to ORS 183.360, the
+Secretary of State shall publish in electronic form administrative rules
+adopted or amended by state agencies and make the information available to the
+public and members of the Legislative Assembly. 
+
+       (2) The Secretary
+of State shall determine the most cost-effective format and procedures for the
+timely release of the information described in subsection (1) of this section
+in electronic form. 
+
+       (3) Pursuant to
+ORS 183.355, the Secretary of State shall establish requirements for filing
+administrative rules adopted or amended by state agencies for entry into
+computer networks for the purpose of subsection (1) of this section. 
+
+       (4) Although each
+state agency is responsible for its information resources, centralized
+information resource management must also exist to: 
+
+       (a) Provide
+public access to the information described in subsection (1) of this section; 
+
+       (b) Provide
+technical assistance to state agencies; and 
+
+       (c) Ensure that
+the information resources needed to implement subsection (1) of this section
+are addressed along with the needs of the individual agencies. 
+
+       (5) Personal
+information concerning a person who accesses the information identified in
+subsection (1) of this section may be maintained only for the purpose of
+providing service to the person. 
+
+       (6) No fee or
+other charge may be imposed by the Secretary of State as a condition of
+accessing the information identified in subsection (1) of this section. 
+
+       (7) No action
+taken pursuant to this section shall be deemed to alter or relinquish any
+copyright or other proprietary interest or entitlement of the State of Oregon
+relative to any of the information made available pursuant to subsection (1) of
+this section. [1995 c.614 §5; 2017 c.518 §5] 
+
+   
+
+       Note: 183.365 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 183
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+       183.370
+Distribution of published rules. 
+The bulletins and compilations may be distributed by the Secretary of State
+free of charge as provided for the distribution of legislative materials
+referred to in ORS 171.236. Other copies of the bulletins and compilations
+shall be distributed by the Secretary of State at a cost determined by the
+Secretary of State. Any agency may compile and publish its rules or all or part
+of its rules for purpose of distribution outside of the agency only after it
+proves to the satisfaction of the Secretary of State that agency publication is
+necessary. [1957 c.717 §4(4); 1959 c.260 §1; 1969 c.174 §4; 1975 c.759 §8; 1977
+c.394 §3] 
+
+   
+
+       183.380 [1957 c.717 §4 (5); repealed by
+1971 c.734 §21] 
+
+   
+
+       183.390
+Petitions requesting adoption of rules. (1) An interested person may petition an agency
+requesting the promulgation, amendment or repeal of a rule. The Attorney
+General shall prescribe by rule the form for such petitions and the procedure
+for their submission, consideration and disposition. Not later than 90 days
+after the date of submission of a petition, the agency either shall deny the
+petition in writing or shall initiate rulemaking proceedings in accordance with
+ORS 183.335. 
+
+       (2) If a petition
+requesting the amendment or repeal of a rule is submitted to an agency under
+this section, the agency shall invite public comment upon the rule, and shall
+specifically request public comment on whether options exist for achieving the
+rule’s substantive goals in a way that reduces the negative economic impact on
+businesses. 
+
+       (3) In reviewing
+a petition subject to subsection (2) of this section, the agency shall
+consider: 
+
+       (a) The continued
+need for the rule; 
+
+       (b) The nature of
+complaints or comments received concerning the rule from the public; 
+
+       (c) The
+complexity of the rule; 
+
+       (d) The extent to
+which the rule overlaps, duplicates or conflicts with other state rules or
+federal regulations and, to the extent feasible, with local government
+regulations; 
+
+       (e) The degree to
+which technology, economic conditions or other factors have changed in the
+subject area affected by the rule; and 
+
+       (f) The statutory
+citation or legal basis for the rule. [1957 c.717 §5; 1971 c.734 §8; 2003 c.749
+§6] 
+
+   
+
+       183.400
+Judicial determination of validity of rule. (1) The validity of any rule may be determined upon a
+petition by any person to the Court of Appeals in the manner provided for
+review of orders in contested cases. The court shall have jurisdiction to
+review the validity of the rule whether or not the petitioner has first
+requested the agency to pass upon the validity of the rule in question, but not
+when the petitioner is a party to an order or a contested case in which the
+validity of the rule may be determined by a court. 
+
+       (2) The validity
+of any applicable rule may also be determined by a court, upon review of an
+order in any manner provided by law or pursuant to ORS 183.480 or upon
+enforcement of such rule or order in the manner provided by law. 
+
+       (3) Judicial
+review of a rule shall be limited to an examination of: 
+
+       (a) The rule
+under review; 
+
+       (b) The statutory
+provisions authorizing the rule; and 
+
+       (c) Copies of all
+documents necessary to demonstrate compliance with applicable rulemaking
+procedures. 
+
+       (4) The court
+shall declare the rule invalid only if it finds that the rule: 
+
+       (a) Violates
+constitutional provisions; 
+
+       (b) Exceeds the
+statutory authority of the agency; or 
+
+       (c) Was adopted
+without compliance with applicable rulemaking procedures. 
+
+       (5) In the case
+of disputed allegations of irregularities in procedure which, if proved, would
+warrant reversal or remand, the Court of Appeals may refer the allegations to a
+master appointed by the court to take evidence and make findings of fact. The court’s
+review of the master’s findings of fact shall be de novo on the evidence. 
+
+       (6) The court
+shall not declare a rule invalid solely because it was adopted without
+compliance with applicable rulemaking procedures after a period of two years
+after the date the rule was filed in the office of the Secretary of State, if
+the agency attempted to comply with those procedures and its failure to do so
+did not substantially prejudice the interests of the parties. [1957 c.717 §6;
+1971 c.734 §9; 1975 c.759 §9; 1979 c.593 §17; 1987 c.861 §3] 
+
+   
+
+       183.403 Agency
+report to Legislative Assembly regarding temporary rules. (1) As used in this section: 
+
+       (a) “Agency” has
+the meaning given that term in ORS 183.310. 
+
+       (b) “Rule” has
+the meaning given that term in ORS 183.310. 
+
+       (c) “Statement of
+need” means the statement described in ORS 183.335 (5)(c). 
+
+       (2) No later than
+February 1 of each year, an agency that is subject to ORS 183.335 shall provide
+a report to the Legislative Assembly, in the manner provided in ORS 192.245,
+regarding all rules that the agency adopted, amended, repealed or suspended during
+the preceding 12-month period. The report must include: 
+
+       (a) The number of
+rules adopted, amended or repealed in accordance with ORS 183.335 (2) and (3);
+and 
+
+       (b) With respect
+to rules adopted, amended or suspended using the procedure described in ORS
+183.335 (5): 
+
+       (A) The number of
+rules; 
+
+       (B) A list of the
+rules; 
+
+       (C) A statement
+of need for each rule and all of the agency’s findings that a failure to act
+promptly would result in serious prejudice to the public interest or the
+interest of parties concerned; and 
+
+       (D) For each
+rule, an explanation of why proceeding under ORS 183.335 (5) was the most
+appropriate method for adopting, amending or suspending the rule and why it was
+not appropriate to proceed in accordance with ORS 183.335 (2) and (3). [2016
+c.44 §1] 
+
+   
+
+       Note: 183.403 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 183
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+       183.405 Agency
+review of rules; report by Secretary of State. (1) Not later than five years
+after adopting a rule, an agency shall review the rule for the purpose of
+determining: 
+
+       (a) Whether the
+rule has had the intended effect; 
+
+       (b) Whether the
+anticipated fiscal impact of the rule was underestimated or overestimated; 
+
+       (c) Whether
+subsequent changes in the law require that the rule be repealed or amended; 
+
+       (d) Whether there
+is continued need for the rule; and 
+
+       (e) What impacts
+the rule has on small businesses. 
+
+       (2) Upon request
+of an agency, the Small Business Rules Advisory Committee established in ORS
+183.407 may agree to complete the review and reporting required by this section
+for the agency. 
+
+       (3) An agency or
+the Small Business Rules Advisory Committee shall utilize available information
+in complying with the requirements of subsection (1) of this section. 
+
+       (4) An agency or
+the Small Business Rules Advisory Committee shall provide a report on each
+review of a rule conducted under this section: 
+
+       (a) To the
+Secretary of State; 
+
+       (b) To the Small
+Business Rules Advisory Committee, unless the committee completed the review
+under subsection (2) of this section; and 
+
+       (c) If the agency
+appointed an advisory committee pursuant to ORS 183.333 for consideration of a
+rule subject to the requirements of this section, to the advisory committee. 
+
+       (5) The
+provisions of this section do not apply to the amendment or repeal of a rule. 
+
+       (6) The
+provisions of this section do not apply to: 
+
+       (a) Rules adopted
+to implement court orders or the settlement of civil proceedings; 
+
+       (b) Rules that
+adopt federal laws or rules by reference; 
+
+       (c) Rules adopted
+to implement legislatively approved fee changes; or 
+
+       (d) Rules adopted
+to correct errors or omissions. 
+
+       (7) The Secretary
+of State shall compile the reports submitted under this section during each
+calendar year and submit an annual report to the Legislative Assembly in the
+manner required by ORS 192.245 no later than February 1 of the following year. [2005
+c.807 §3; 2017 c.518 §6; 2018 c.20 §4] 
+
+   
+
+       Note: 183.405 was added to and made a
+part of 183.325 to 183.410 by legislative action but was not added to any
+smaller series therein. See Preface to Oregon Revised Statutes for further
+explanation. 
+
+   
+
+       183.407 Small
+Business Rules Advisory Committee. 
+(1) The Small Business Rules Advisory Committee is established to serve as an
+advisory committee for agencies adopting new administrative rules and to review
+the effectiveness of existing administrative rules. 
+
+       (2) The committee
+consists of nine members as follows: 
+
+       (a) Two
+representatives of small businesses appointed by the Governor; 
+
+       (b) Two
+representatives of small businesses appointed by the President of the Senate; 
+
+       (c) Two
+representatives of small businesses appointed by the Speaker of the House; 
+
+       (d) A
+representative of small businesses appointed by the Office of Small Business
+Assistance established in ORS 56.203; 
+
+       (e) A
+representative of state agencies appointed by the Director of the Oregon
+Department of Administrative Services; and 
+
+       (f) A member who
+is an expert in the rulemaking process appointed by the State Archivist. 
+
+       (3)(a) Upon
+request of an agency, the committee shall serve as the advisory committee or
+fiscal impact advisory committee for reviewing an agency’s proposed
+administrative rules under ORS 183.333. 
+
+       (b) When an
+agency uses the committee as the advisory committee under this subsection with
+regard to adoption of rules implementing legislation enacted by the Legislative
+Assembly, the committee shall invite to participate as a nonvoting member of
+the committee: 
+
+       (A) For
+legislation sponsored by a member of the Legislative Assembly, the first chief
+sponsor of the legislation, or another sponsor of the legislation as designated
+by the first chief sponsor. 
+
+       (B) For
+legislation sponsored by a committee of the Legislative Assembly, the chair of
+the committee that sponsored the legislation at the time the legislation was
+introduced, or another member of the committee as designated by the chair. 
+
+       (4) Upon request
+of an agency, the committee may agree to complete the rules review and
+reporting required by ORS 183.405 in place of the agency. 
+
+       (5) Members of
+the committee shall be appointed to serve for terms of two years, but a member
+serves at the pleasure of the appointing authority. The appointing authority
+shall appoint a person to fill any vacancy on the committee for the expired
+term. A member may be reappointed to the committee. 
+
+       (6) The members
+of the committee shall elect a chairperson from among the members of the
+committee. In the absence of a chairperson, the member appointed by the State
+Archivist shall serve as acting chairperson. 
+
+       (7) A majority of
+the members of the committee constitutes a quorum for the transaction of
+business. 
+
+       (8) The committee
+shall meet upon the call of the chairperson or upon a request of a majority of
+the members of the committee. The committee may meet by phone or video
+conference with at least 24 hours’ public notice. 
+
+       (9) The State Archives
+shall provide administrative support to the committee. 
+
+       (10) Members of
+the committee are not entitled to compensation, but may be reimbursed from
+funds available to the State Archives for actual and necessary travel and other
+expenses incurred by them in the performance of their official duties in the
+manner and amounts provided for in ORS 292.495. [2018 c.20 §2; 2025 c.446 §2] 
+
+   
+
+       Note: 183.407 was added to and made a
+part of 183.325 to 183.410 by legislative action but was not added to any
+smaller series therein. See Preface to Oregon Revised Statutes for further
+explanation. 
+
+   
+
+       183.410 Agency
+determination of applicability of rule or statute to petitioner; effect;
+judicial review. 
+On petition of any interested person, any agency may in its discretion issue a
+declaratory ruling with respect to the applicability to any person, property,
+or state of facts of any rule or statute enforceable by it. A declaratory
+ruling is binding between the agency and the petitioner on the state of facts
+alleged, unless it is altered or set aside by a court. However, the agency may,
+where the ruling is adverse to the petitioner, review the ruling and alter it
+if requested by the petitioner. Binding rulings provided by this section are
+subject to review in the Court of Appeals in the manner provided in ORS 183.480
+for the review of orders in contested cases. The Attorney General shall
+prescribe by rule the form for such petitions and the procedure for their
+submission, consideration and disposition. The petitioner shall have the right
+to submit briefs and present oral argument at any declaratory ruling proceeding
+held pursuant to this section. [1957 c.717 §7; 1971 c.734 §10; 1973 c.612 §5] 
+
+   
+
+ (Contested Cases) 
+
+   
+
+       183.411
+Delegation of final order authority. 
+Unless otherwise provided by law, an agency may delegate authority to enter a
+final order in a proceeding or class of proceedings to an officer or employee
+of the agency, or to a class of officers or employees of the agency. A
+delegation of authority under this section must be made in writing before the
+issuance of any order pursuant to the delegation and must be retained in the
+agency’s records. [2007 c.116 §2] 
+
+   
+
+       Note: 183.411 was added to and made a
+part of ORS chapter 183 by legislative action but was not added to any smaller
+series therein. See Preface to Oregon Revised Statutes for further explanation. 
+
+   
+
+       183.413 Notice
+to parties before hearing of rights and procedure; failure to provide notice. (1) The Legislative Assembly finds
+that parties to a contested case hearing have a right to be informed as to the
+procedures by which contested cases are heard by state agencies, their rights
+in hearings before state agencies, the import and effect of hearings before
+state agencies and their rights and remedies with respect to actions taken by
+state agencies. Accordingly, it is the purpose of subsections (2) and (3) of
+this section to set forth certain requirements of state agencies so that
+parties to contested case hearings shall be fully informed as to these matters
+when exercising their rights before state agencies. 
+
+       (2) Prior to the
+commencement of a contested case hearing before any agency including those
+agencies identified in ORS 183.315, the agency shall serve personally or by
+mail a written notice to each party to the hearing that includes the following: 
+
+       (a) The time and
+place of the hearing. 
+
+       (b) A statement
+of the authority and jurisdiction under which the hearing is to be held. 
+
+       (c) A statement
+that generally identifies the issues to be considered at the hearing. 
+
+       (d) A statement
+indicating that the party may be represented by counsel and that legal aid
+organizations may be able to assist a party with limited financial resources. 
+
+       (e) A statement
+that the party has the right to respond to all issues properly before the
+presiding officer and present evidence and witnesses on those issues. 
+
+       (f) A statement
+indicating whether discovery is permitted and, if so, how discovery may be
+requested. 
+
+       (g) A general
+description of the hearing procedure including the order of presentation of
+evidence, what kinds of evidence are admissible, whether objections may be made
+to the introduction of evidence and what kind of objections may be made and an
+explanation of the burdens of proof or burdens of going forward with the
+evidence. 
+
+       (h) Whether a
+record will be made of the proceedings and the manner of making the record and
+its availability to the parties. 
+
+       (i) The function
+of the record-making with respect to the perpetuation of the testimony and
+evidence and with respect to any appeal from the determination or order of the
+agency. 
+
+       (j) Whether an
+attorney will represent the agency in the matters to be heard and whether the
+parties ordinarily and customarily are represented by an attorney. 
+
+       (k) The title and
+function of the person presiding at the hearing with respect to the decision
+process, including, but not limited to, the manner in which the testimony and
+evidence taken by the person presiding at the hearing are reviewed, the effect
+of that person’s determination, who makes the final determination on behalf of
+the agency, whether the person presiding at the hearing is or is not an
+employee, officer or other representative of the agency and whether that person
+has the authority to make a final independent determination. 
+
+       (L) In the event
+a party is not represented by an attorney, whether the party may during the
+course of proceedings request a recess if at that point the party determines
+that representation by an attorney is necessary to the protection of the party’s
+rights. 
+
+       (m) Whether there
+exists an opportunity for an adjournment at the end of the hearing if the party
+then determines that additional evidence should be brought to the attention of
+the agency and the hearing reopened. 
+
+       (n) Whether there
+exists an opportunity after the hearing and prior to the final determination or
+order of the agency to review and object to any proposed findings of fact,
+conclusions of law, summary of evidence or recommendations of the officer
+presiding at the hearing. 
+
+       (o) A description
+of the appeal process from the determination or order of the agency. 
+
+       (p) A statement
+that active duty servicemembers have a right to stay proceedings under the
+federal Servicemembers Civil Relief Act and may contact the Oregon State Bar or
+the Oregon Military Department for more information. The statement must include
+the toll-free telephone numbers for the Oregon State Bar and the Oregon
+Military Department and the Internet address for the United States Armed Forces
+Legal Assistance Legal Services Locator website. 
+
+       (3) The failure
+of an agency to give notice of any item specified in subsection (2) of this
+section does not invalidate any determination or order of the agency unless
+upon an appeal from or review of the determination or order a court finds that
+the failure affects the substantial rights of the complaining party. In the
+event of such a finding, the court shall remand the matter to the agency for a
+reopening of the hearing and shall direct the agency as to what steps it shall
+take to remedy the prejudice to the rights of the complaining party. [1979
+c.593 §§37,38,39; 1995 c.79 §63; 2007 c.288 §1; 2013 c.295 §1] 
+
+   
+
+       183.415 Notice
+of right to hearing. 
+(1) The Legislative Assembly finds that persons affected by actions taken by
+state agencies have a right to be informed of their rights and remedies with
+respect to the actions. 
+
+       (2) In a
+contested case, all parties shall be afforded an opportunity for hearing after
+reasonable notice, served personally or by registered or certified mail. 
+
+       (3) Notice under
+this section must include: 
+
+       (a) A statement
+of the party’s right to hearing, with a description of the procedure and time
+to request a hearing, or a statement of the time and place of the hearing; 
+
+       (b) A statement
+of the authority and jurisdiction under which the hearing is to be held; 
+
+       (c) A reference
+to the particular sections of the statutes and rules involved; 
+
+       (d) A short and
+plain statement of the matters asserted or charged; 
+
+       (e) A statement
+indicating whether and under what circumstances an order by default may be
+entered; and 
+
+       (f) A statement
+that active duty servicemembers have a right to stay proceedings under the
+federal Servicemembers Civil Relief Act and may contact the Oregon State Bar or
+the Oregon Military Department for more information. The statement must include
+the toll-free telephone numbers for the Oregon State Bar and the Oregon
+Military Department and the Internet address for the United States Armed Forces
+Legal Assistance Legal Services Locator website. [1971 c.734 §13; 1979 c.593 §18;
+1985 c.757 §1; 1997 c.837 §2; 1999 c.849 §§27,28; 2003 c.75 §29; 2007 c.288 §2;
+2013 c.295 §3] 
+
+   
+
+       183.417
+Procedure in contested case hearing. 
+(1) In a contested case proceeding, the parties may elect to be represented by
+counsel and to respond and present evidence and argument on all issues properly
+before the presiding officer in the proceeding. 
+
+       (2) Agencies may
+adopt rules of procedure governing participation in contested case proceedings
+by persons appearing as limited parties. 
+
+       (3)(a) Unless
+prohibited by law, informal disposition may be made of any contested case by
+stipulation, agreed settlement, consent order or default. Informal settlement
+may be made in license revocation proceedings by written agreement of the
+parties and the agency consenting to a suspension, fine or other form of
+intermediate sanction. 
+
+       (b) Any informal
+disposition of a contested case, other than an informal disposition by default,
+must be in writing and signed by the party or parties to the contested case.
+The agency shall incorporate that disposition into a final order. An order
+under this paragraph is not subject to ORS 183.470. The agency shall deliver or
+mail a copy of the order to each party and to the attorney of record if the
+party is represented. An order that incorporates the informal disposition is a
+final order in a contested case, but is not subject to judicial review. A party
+may petition the agency to set aside a final order that incorporates the
+informal disposition on the ground that the informal disposition was obtained
+by fraud or duress. 
+
+       (4) An order
+adverse to a party may be issued upon default only if a prima facie case is
+made on the record. The record on a default order includes all materials
+submitted by the party. The record on a default order may be made at the time
+of issuance of the order. If the record on the default order consists solely of
+an application and other materials submitted by the party, the agency shall so
+note in the order. 
+
+       (5) At the
+commencement of a contested case hearing, the officer presiding at the hearing
+shall explain the issues involved in the hearing and the matters that the
+parties must either prove or disprove. 
+
+       (6) Testimony at
+a contested case hearing shall be taken upon oath or affirmation of the
+witness. The officer presiding at the hearing shall administer oaths or
+affirmations to witnesses. 
+
+       (7) The officer
+presiding at the hearing shall place on the record a statement of the substance
+of any written or oral ex parte communication on a fact in issue made to the
+officer during the pendency of the proceeding and notify the parties of the
+communication and of their right to rebut the communication. If an ex parte
+communication is made to an administrative law judge assigned from the Office
+of Administrative Hearings established under ORS 183.605, the administrative
+law judge must comply with ORS 183.685. 
+
+       (8) The officer
+presiding at the hearing shall ensure that the record developed at the hearing
+shows a full and fair inquiry into the facts necessary for consideration of all
+issues properly before the presiding officer in the case and the correct application
+of the law to those facts. 
+
+       (9) The record in
+a contested case shall include: 
+
+       (a) All
+pleadings, motions and intermediate rulings. 
+
+       (b) Evidence
+received or considered. 
+
+       (c) Stipulations. 
+
+       (d) A statement
+of matters officially noticed. 
+
+       (e) Questions and
+offers of proof, objections and rulings thereon. 
+
+       (f) A statement
+of any ex parte communication that must be disclosed under subsection (7) of
+this section and that was made to the officer presiding at the hearing. 
+
+       (g) Proposed
+findings and exceptions. 
+
+       (h) Any proposed,
+intermediate or final order prepared by the agency or an administrative law
+judge. 
+
+       (10) A verbatim
+oral, written or mechanical record shall be made of all motions, rulings and
+testimony in a contested case proceeding. The record need not be transcribed
+unless requested for purposes of rehearing or court review. The agency may
+charge the party requesting transcription the cost of a copy of transcription,
+unless the party files an appropriate affidavit of indigency. Upon petition, a
+court having jurisdiction to review under ORS 183.480 may reduce or eliminate
+the charge upon finding that it is equitable to do so, or that matters of
+general interest would be determined by review of the order of the agency. [2007
+c.288 §4] 
+
+   
+
+       183.418 [1973 c.386 §6; 1989 c.224 §11;
+1991 c.750 §5; repealed by 1999 c.1041 §9] 
+
+   
+
+       183.420 [1957 c.717 §8 (1); repealed by
+1971 c.734 §21] 
+
+   
+
+       183.421 [1991 c.750 §4; repealed by 1999
+c.1041 §9] 
+
+   
+
+       183.425
+Depositions or subpoena of material witness; discovery. (1) On petition of any party to a
+contested case, or upon the agency’s own motion, the agency may order that the
+testimony of any material witness may be taken by deposition in the manner
+prescribed by law for depositions in civil actions. Depositions may also be
+taken by the use of audio or audio-visual recordings. The petition shall set
+forth the name and address of the witness whose testimony is desired, a showing
+of the materiality of the testimony of the witness, and a request for an order
+that the testimony of such witness be taken before an officer named in the
+petition for that purpose. If the witness resides in this state and is
+unwilling to appear, the agency may issue a subpoena as provided in ORS
+183.440, requiring the appearance of the witness before such officer. 
+
+       (2) An agency
+may, by rule, prescribe other methods of discovery which may be used in
+proceedings before the agency. [1971 c.734 §14; 1975 c.759 §11; 1979 c.593 §19;
+1997 c.837 §6] 
+
+   
+
+       183.430
+Hearing on refusal to renew license; exceptions. (1) In the case of any license
+which must be periodically renewed, where the licensee has made timely
+application for renewal in accordance with the rules of the agency, such
+license shall not be deemed to expire, despite any stated expiration date thereon,
+until the agency concerned has issued a formal order of grant or denial of such
+renewal. In case an agency proposes to refuse to renew such license, upon
+demand of the licensee, the agency must grant hearing as provided by this
+chapter before issuance of order of refusal to renew. This subsection does not
+apply to any emergency or temporary permit or license. 
+
+       (2) In any case
+where the agency finds a serious danger to the public health or safety and sets
+forth specific reasons for such findings, the agency may suspend or refuse to
+renew a license without hearing, but if the licensee demands a hearing within
+90 days after the date of notice to the licensee of such suspension or refusal
+to renew, then a hearing must be granted to the licensee as soon as practicable
+after such demand, and the agency shall issue an order pursuant to such hearing
+as required by this chapter confirming, altering or revoking its earlier order.
+Such a hearing need not be held where the order of suspension or refusal to
+renew is accompanied by or is pursuant to, a citation for violation which is
+subject to judicial determination in any court of this state, and the order by
+its terms will terminate in case of final judgment in favor of the licensee. [1957
+c.717 §8 (3), (4); 1965 c.212 §1; 1971 c.734 §11] 
+
+   
+
+       183.435 Period
+allowed to request hearing for license refusal on grounds other than test or
+inspection results. 
+When an agency refuses to issue a license required to pursue any commercial
+activity, trade, occupation or profession if the refusal is based on grounds
+other than the results of a test or inspection that agency shall grant the
+person requesting the license 60 days from notification of the refusal to
+request a hearing. [Formerly 670.285] 
+
+   
+
+       183.440
+Subpoenas in contested cases. 
+(1) An agency may issue subpoenas on its own motion in a contested case. In
+addition, an agency or hearing officer in a contested case may issue subpoenas
+upon the request of a party to a contested case upon a showing of general
+relevance and reasonable scope of the evidence sought. A party entitled to have
+witnesses on behalf of the party may have subpoenas issued by an attorney of
+record of the party, subscribed by the signature of the attorney. Witnesses
+appearing pursuant to subpoena, other than the parties or officers or employees
+of the agency, shall receive fees and mileage as prescribed by law for
+witnesses in ORS 44.415 (2). 
+
+       (2) If any person
+fails to comply with any subpoena so issued or any party or witness refuses to
+testify on any matters on which the party or witness may be lawfully
+interrogated, the judge of the circuit court of any county, on the application
+of the hearing officer, the agency or the party requesting the issuance of or
+issuing the subpoena, shall compel obedience by proceedings for contempt as in
+the case of disobedience of the requirements of a subpoena issued from such
+court or a refusal to testify therein. [1957 c.717 §8 (2); 1971 c.734 §12; 1979
+c.593 §20; 1981 c.174 §4; 1989 c.980 §10a; 1997 c.837 §3; 1999 c.849 §30] 
+
+   
+
+       183.445
+Subpoena by agency or attorney of record of party when agency not subject to
+ORS 183.440. (1)
+In any proceeding before an agency not subject to ORS 183.440 in which a party
+is entitled to have subpoenas issued for the appearance of witnesses on behalf
+of the party, a subpoena may be issued by an attorney of record of the party,
+subscribed by the signature of the attorney. A subpoena issued by an attorney
+of record may be enforced in the same manner as a subpoena issued by the
+agency. 
+
+       (2) In any
+proceeding before an agency not subject to ORS 183.440 in which a party is
+entitled to have subpoenas issued by the agency to compel the appearance of
+witnesses on behalf of the party, the agency may issue subpoenas on its own
+motion. [1981 c.174 §6; 1997 c.837 §4; 1999 c.849 §32] 
+
+   
+
+       183.450
+Evidence in contested cases. 
+In contested cases: 
+
+       (1) Irrelevant,
+immaterial or unduly repetitious evidence shall be excluded but erroneous
+rulings on evidence shall not preclude agency action on the record unless shown
+to have substantially prejudiced the rights of a party. All other evidence of a
+type commonly relied upon by reasonably prudent persons in conduct of their
+serious affairs shall be admissible. Agencies and hearing officers shall give
+effect to the rules of privilege recognized by law. Objections to evidentiary
+offers may be made and shall be noted in the record. Any part of the evidence
+may be received in written form. 
+
+       (2) All evidence
+shall be offered and made a part of the record in the case, and except for
+matters stipulated to and except as provided in subsection (4) of this section
+no other factual information or evidence shall be considered in the
+determination of the case. Documentary evidence may be received in the form of
+copies or excerpts, or by incorporation by reference. The burden of presenting
+evidence to support a fact or position in a contested case rests on the
+proponent of the fact or position. 
+
+       (3) Every party
+shall have the right of cross-examination of witnesses who testify and shall
+have the right to submit rebuttal evidence. Persons appearing in a limited
+party status shall participate in the manner and to the extent prescribed by
+rule of the agency. 
+
+       (4) The hearing
+officer and agency may take notice of judicially cognizable facts, and may take
+official notice of general, technical or scientific facts within the
+specialized knowledge of the hearing officer or agency. Parties shall be
+notified at any time during the proceeding but in any event prior to the final
+decision of material officially noticed and they shall be afforded an
+opportunity to contest the facts so noticed. The hearing officer and agency may
+utilize the hearing officer’s or agency’s experience, technical competence and
+specialized knowledge in the evaluation of the evidence presented. 
+
+       (5) No sanction
+shall be imposed or order be issued except upon consideration of the whole
+record or such portions thereof as may be cited by any party, and as supported
+by, and in accordance with, reliable, probative and substantial evidence. [1957
+c.717 §9; 1971 c.734 §15; 1975 c.759 §12; 1977 c.798 §3; 1979 c.593 §21; 1987
+c.833 §1; 1995 c.272 §5; 1997 c.391 §1; 1997 c.801 §76; 1999 c.448 §5; 1999
+c.849 §34] 
+
+   
+
+       183.452
+Representation of agencies at contested case hearings. (1) Agencies may, at their
+discretion, be represented at contested case hearings by the Attorney General. 
+
+       (2)
+Notwithstanding ORS 9.160 and 9.320 and ORS chapter 180, and unless otherwise
+authorized by another law, an agency may be represented at contested case
+hearings by an officer or employee of the agency if: 
+
+       (a) The Attorney
+General has consented to the representation of the agency by an agency
+representative in the particular hearing or in the class of hearings that
+includes the particular hearing; and 
+
+       (b) The agency,
+by rule, has authorized an agency representative to appear on its behalf in the
+particular type of hearing being conducted. 
+
+       (3) An agency
+representative acting under the provisions of this section may not give legal
+advice to an agency, and may not present legal argument in contested case
+hearings, except to the extent authorized by subsection (4) of this section. 
+
+       (4) The officer
+presiding at a contested case hearing in which an agency representative appears
+under the provisions of this section may allow the agency representative to
+present evidence, examine and cross-examine witnesses, and make arguments
+relating to the: 
+
+       (a) Application
+of statutes and rules to the facts in the contested case; 
+
+       (b) Actions taken
+by the agency in the past in similar situations; 
+
+       (c) Literal
+meaning of the statutes or rules at issue in the contested case; 
+
+       (d) Admissibility
+of evidence; and 
+
+       (e) Proper
+procedures to be used in the contested case hearing. 
+
+       (5) Upon judicial
+review, no limitation imposed under this section on an agency representative is
+the basis for reversal or remand of agency action unless the limitation
+resulted in substantial prejudice to a party. 
+
+       (6) The Attorney
+General may prepare model rules for agency representatives authorized under
+this section. [1999 c.448 §3] 
+
+   
+
+       Note: 183.452 was added to and made a
+part of 183.413 to 183.470 by legislative action but was not added to any other
+series. See Preface to Oregon Revised Statutes for further explanation. 
+
+   
+
+       183.453
+Representation of Oregon Health Authority and Department of Human Services at
+contested case hearings. 
+The Oregon Health Authority and the Department of Human Services may be
+represented at contested case hearings by an officer or employee of either the
+authority or the department, subject to the requirements of ORS 183.452. [2013
+c.14 §1] 
+
+   
+
+       Note: 183.453 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 183
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+       183.455 [1987 c.259 §3; repealed by 1999
+c.448 §10] 
+
+   
+
+       183.457
+Representation of persons other than agencies participating in contested case
+hearings. (1)
+Notwithstanding ORS 8.690, 9.160 and 9.320, and unless otherwise authorized by
+another law, a person participating in a contested case hearing conducted by an
+agency described in this subsection may be represented by an attorney or by an
+authorized representative subject to the provisions of subsection (2) of this
+section. The Attorney General shall prepare model rules for proceedings with
+lay representation that do not have the effect of precluding lay
+representation. No rule adopted by a state agency shall have the effect of
+precluding lay representation. The agencies before which an authorized
+representative may appear are: 
+
+       (a) The State
+Landscape Contractors Board in the administration of the Landscape Contractors
+Law. 
+
+       (b) The State
+Department of Energy and the Energy Facility Siting Council. 
+
+       (c) The
+Environmental Quality Commission and the Department of Environmental Quality. 
+
+       (d) The
+Department of Consumer and Business Services for proceedings in which an
+insured appears pursuant to ORS 737.505. 
+
+       (e) The
+Department of Consumer and Business Services and any other agency for the
+purpose of proceedings to enforce the state building code, as defined by ORS
+455.010. 
+
+       (f) The
+Department of the State Fire Marshal. 
+
+       (g) The
+Department of State Lands for proceedings regarding the issuance or denial of
+fill or removal permits under ORS 196.800 to 196.825. 
+
+       (h) The Public
+Utility Commission. 
+
+       (i) The Water
+Resources Commission and the Water Resources Department. 
+
+       (j) The Land
+Conservation and Development Commission and the Department of Land Conservation
+and Development. 
+
+       (k) The State
+Department of Agriculture, for purposes of hearings under ORS 215.705. 
+
+       (L) The Bureau of
+Labor and Industries. 
+
+       (2) A person
+participating in a contested case hearing as provided in subsection (1) of this
+section may appear by an authorized representative if: 
+
+       (a) The agency
+conducting the contested case hearing has determined that appearance of such a
+person by an authorized representative will not hinder the orderly and timely
+development of the record in the type of contested case hearing being
+conducted; 
+
+       (b) The agency
+conducting the contested case hearing allows, by rule, authorized
+representatives to appear on behalf of such participants in the type of
+contested case hearing being conducted; and 
+
+       (c) The officer
+presiding at the contested case hearing may exercise discretion to limit an
+authorized representative’s presentation of evidence, examination and
+cross-examination of witnesses, or presentation of factual arguments to ensure
+the orderly and timely development of the hearing record, and shall not allow
+an authorized representative to present legal arguments except to the extent
+authorized under subsection (3) of this section. 
+
+       (3) The officer
+presiding at a contested case hearing in which an authorized representative
+appears under the provisions of this section may allow the authorized
+representative to present evidence, examine and cross-examine witnesses, and
+make arguments relating to the: 
+
+       (a) Application
+of statutes and rules to the facts in the contested case; 
+
+       (b) Actions taken
+by the agency in the past in similar situations; 
+
+       (c) Literal
+meaning of the statutes or rules at issue in the contested case; 
+
+       (d) Admissibility
+of evidence; and 
+
+       (e) Proper
+procedures to be used in the contested case hearing. 
+
+       (4) Upon judicial
+review, no limitation imposed by an agency presiding officer on the participation
+of an authorized representative shall be the basis for reversal or remand of
+agency action unless the limitation resulted in substantial prejudice to a
+person entitled to judicial review of the agency action. 
+
+       (5) For the
+purposes of this section, “authorized representative” means a member of a
+participating partnership, an authorized officer or regular employee of a
+participating corporation, association or organized group, or an authorized
+officer or employee of a participating governmental authority other than a
+state agency. [1987 c.833 §3; 1989 c.453 §2; 1993 c.186 §4; 1995 c.102 §1; 1999
+c.448 §1; 1999 c.599 §1; 2021 c.539 §109] 
+
+   
+
+       Note: 183.457 was added to and made a
+part of 183.413 to 183.470 by legislative action but was not added to any other
+series. See Preface to Oregon Revised Statutes for further explanation. 
+
+   
+
+       183.458
+Nonattorney and out-of-state attorney representation of parties in certain
+contested case hearings. 
+(1) Notwithstanding any other provision of law, in any contested case hearing
+before a state agency involving child support, public assistance as defined in
+ORS 411.010, medical assistance as defined in ORS 414.025 or the right to be
+free from potentially unusual or hazardous treatment procedures under ORS
+426.385 (3), a party may be represented by any of the following persons: 
+
+       (a) An attorney
+licensed to practice law in any state who is an employee of or contracts with a
+nonprofit legal services program that receives funding pursuant to ORS 9.572. 
+
+       (b) An authorized
+representative who is an employee of a nonprofit legal services program that
+receives funding pursuant to ORS 9.572. The authorized representative must be
+supervised by an attorney also employed by a legal services program. 
+
+       (c) An authorized
+representative who is an employee of the system described in ORS 192.517 (1).
+The authorized representative must be supervised by an attorney also employed
+by the system. 
+
+       (2) In any
+contested case hearing before a state agency involving child support, a party
+may be represented by a law student who is: 
+
+       (a) Handling the
+child support matter as part of a law school clinical program in which the
+student is enrolled; and 
+
+       (b) Supervised by
+an attorney employed by the program. 
+
+       (3) In any
+contested case hearing before a state agency involving an applicant for or
+recipient of medical assistance, the claimant may be represented by a relative,
+friend or any other person of the claimant’s choosing. 
+
+       (4) A person
+authorized to represent a party under this section may present evidence in the
+proceeding, examine and cross-examine witnesses and present factual and legal
+arguments in the proceeding. [1999 c.448 §4; 2003 c.14 §86; 2005 c.498 §6; 2009
+c.49 §1; 2013 c.688 §25] 
+
+   
+
+       Note: 183.458 was added to and made a
+part of 183.413 to 183.470 by legislative action but was not added to any other
+series. See Preface to Oregon Revised Statutes for further explanation. 
+
+   
+
+       183.459
+Representation of home care worker by labor union representative. (1) Notwithstanding ORS 8.690,
+9.160 and 9.320, a home care worker or personal support worker, as defined in
+ORS 410.600, who is a party in a contested case hearing conducted by the
+Department of Human Services may be represented in the hearing by a labor union
+representative. 
+
+       (2)
+Notwithstanding ORS 8.690, 9.160 and 9.320, a family child care provider, as
+defined in ORS 329A.430, who is a party in a contested case hearing conducted
+by the Department of Early Learning and Care may be represented in the hearing
+by a labor union representative. 
+
+       (3) The hearing
+officer at a contested case hearing in which a labor union representative
+appears under the provisions of this section shall allow the representative to
+present evidence, examine and cross-examine witnesses and make arguments
+relating to the: 
+
+       (a) Application
+of statutes and rules to the facts in the contested case; 
+
+       (b) Actions taken
+by the agency in the past in similar situations; 
+
+       (c) Literal
+meaning of the statutes or rules at issue in the contested case; 
+
+       (d) Admissibility
+of evidence; and 
+
+       (e) Proper
+procedures to be used in the contested case hearing. [2009 c.424 §2; 2018 c.75 §9;
+2021 c.631 §16; 2023 c.554 §43] 
+
+   
+
+       Note: 183.459 was added to and made a
+part of 183.413 to 183.470 by legislative action but was not added to any other
+series. See Preface to Oregon Revised Statutes for further explanation. 
+
+   
+
+       183.460
+Examination of evidence by agency. 
+Whenever in a contested case a majority of the officials of the agency who are
+to render the final order have not heard the case or considered the record, the
+order, if adverse to a party other than the agency itself, shall not be made
+until a proposed order, including findings of fact and conclusions of law, has
+been served upon the parties and an opportunity has been afforded to each party
+adversely affected to file exceptions and present argument to the officials who
+are to render the decision. [1957 c.717 §10; 1971 c.734 §16; 1975 c.759 §13] 
+
+   
+
+       183.462 Agency
+statement of ex parte communications; notice. The agency shall place on the record a statement of
+the substance of any written or oral ex parte communications on a fact in issue
+made to the agency during its review of a contested case. The agency shall
+notify all parties of such communications and of their right to rebut the
+substance of the ex parte communications on the record. [1979 c.593 §36c] 
+
+   
+
+       183.464
+Proposed order by hearing officer; amendment by agency; exemptions. (1) Except as otherwise provided
+in subsections (1) to (4) of this section, unless a hearing officer is
+authorized or required by law or agency rule to issue a final order, the
+hearing officer shall prepare and serve on the agency and all parties to a contested
+case hearing a proposed order, including recommended findings of fact and
+conclusions of law. The proposed order shall become final after the 30th day
+following the date of service of the proposed order, unless the agency within
+that period issues an amended order. 
+
+       (2) An agency may
+by rule specify a period of time after which a proposed order will become final
+that is different from that specified in subsection (1) of this section. 
+
+       (3) If an agency
+determines that additional time will be necessary to allow the agency
+adequately to review a proposed order in a contested case, the agency may
+extend the time after which the proposed order will become final by a specified
+period of time. The agency shall notify the parties to the hearing of the
+period of extension. 
+
+       (4) Subsections
+(1) to (4) of this section do not apply to the Public Utility Commission or the
+Energy Facility Siting Council. 
+
+       (5) The Governor
+may exempt any agency or any class of contested case hearings before an agency
+from the requirements in whole or part of subsections (1) to (4) of this
+section by executive order. The executive order shall contain a statement of
+the reasons for the exemption. [1979 c.593 §§36,36b; 1995 c.79 §64; 2001 c.104 §64] 
+
+   
+
+       183.470 Orders
+in contested cases. 
+In a contested case: 
+
+       (1) Every order
+adverse to a party to the proceeding shall be in writing or stated in the
+record and may be accompanied by an opinion. 
+
+       (2) A final order
+shall be accompanied by findings of fact and conclusions of law. The findings
+of fact shall consist of a concise statement of the underlying facts supporting
+the findings as to each contested issue of fact and as to each ultimate fact required
+to support the agency’s order. 
+
+       (3) The agency
+shall notify the parties to a proceeding of a final order by delivering or
+mailing a copy of the order and any accompanying findings and conclusions to
+each party or, if applicable, the party’s attorney of record. 
+
+       (4) Every final
+order shall include a citation of the statutes under which the order may be
+appealed. [1957 c.717 §11; 1971 c.734 §17; 1979 c.593 §22] 
+
+   
+
+       183.471
+Preservation of orders in electronic format; fees. (1) When an agency issues a final
+order in a contested case, the agency shall maintain the final order in a
+digital format that: 
+
+       (a) Identifies
+the final order by the date it was issued; 
+
+       (b) Is suitable
+for indexing and searching; and 
+
+       (c) Preserves the
+textual attributes of the document, including the manner in which the document
+is paginated and any boldfaced, italicized or underlined writing in the
+document. 
+
+       (2) The Oregon
+State Bar may request that an agency provide the Oregon State Bar, or its
+designee, with electronic copies of final orders issued by the agency in
+contested cases. The request must be in writing. No later than 30 days after
+receiving the request, the agency, subject to ORS 192.338, 192.345 and 192.355,
+shall provide the Oregon State Bar, or its designee, with an electronic copy of
+all final orders identified in the request. 
+
+       (3)
+Notwithstanding ORS 192.324, an agency may not charge a fee for the first two
+requests submitted under this section in a calendar year. For any subsequent
+request, an agency may impose a fee in accordance with ORS 192.324 to reimburse
+the agency for the actual costs of complying with the request. 
+
+       (4) For purposes
+of this section, a final order entered in a contested case by an administrative
+law judge under ORS 183.625 (3) is a final order issued by the agency that
+authorized the administrative law judge to conduct the hearing. 
+
+       (5) This section
+does not apply to final orders by default issued under ORS 183.417 (3) or to
+final orders issued in contested cases by: 
+
+       (a) The
+Department of Revenue; 
+
+       (b) The State
+Board of Parole and Post-Prison Supervision; 
+
+       (c) The
+Department of Corrections; 
+
+       (d) The
+Employment Relations Board; 
+
+       (e) The Public
+Utility Commission of Oregon; 
+
+       (f) The Oregon
+Health Authority; 
+
+       (g) The Land
+Conservation and Development Commission, except for enforcement orders under
+ORS 197A.810; 
+
+       (h) The Land Use
+Board of Appeals; 
+
+       (i) The Division
+of Child Support of the Department of Justice; 
+
+       (j) The
+Department of Transportation, if the final order relates to the suspension,
+revocation or cancellation of identification cards, vehicle registrations,
+vehicle titles or driving privileges or to the assessment of taxes or
+stipulated settlements in the regulation of vehicle related businesses; 
+
+       (k) The
+Employment Department or the Employment Appeals Board, if the final order
+relates to benefits as defined in ORS 657.010; 
+
+       (L) The
+Employment Department, if the final order relates to an assessment of
+unemployment tax for which a hearing was not held; 
+
+       (m) The
+Employment Department, if the final order relates to: 
+
+       (A) Benefits, as
+defined in ORS 657B.010; 
+
+       (B) Employer and
+employee contributions under ORS 657B.150 for which a hearing was not held; 
+
+       (C)
+Employer-offered benefit plans approved under ORS 657B.210 or terminated under
+ORS 657B.220; or 
+
+       (D) Employer
+assistance grants under ORS 657B.200; or 
+
+       (n) The
+Department of Human Services, if the final order was not related to licensing
+or certification. [2013 c.156 §2; 2023 c.292 §12; 2024 c.110 §65] 
+
+   
+
+       Note: 183.471 was added to and made a
+part of ORS chapter 183 by legislative action but was not added to any smaller
+series therein. See Preface to Oregon Revised Statutes for further explanation. 
+
+   
+
+ (Judicial Review) 
+
+   
+
+       183.480
+Judicial review of agency orders. 
+(1) Except as provided in ORS 183.417 (3)(b), any person adversely affected or
+aggrieved by an order or any party to an agency proceeding is entitled to
+judicial review of a final order, whether such order is affirmative or negative
+in form. A petition for rehearing or reconsideration need not be filed as a
+condition of judicial review unless specifically otherwise provided by statute
+or agency rule. 
+
+       (2) Judicial
+review of final orders of agencies shall be solely as provided by ORS 183.482,
+183.484, 183.490 and 183.500. 
+
+       (3) No action or
+suit shall be maintained as to the validity of any agency order except a final
+order as provided in this section and ORS 183.482, 183.484, 183.490 and 183.500
+or except upon showing that the agency is proceeding without probable cause, or
+that the party will suffer substantial and irreparable harm if interlocutory
+relief is not granted. 
+
+       (4) Judicial
+review of orders issued pursuant to ORS 813.410 shall be as provided by ORS
+813.410. [1957 c.717 §12; 1963 c.449 §1; 1971 c.734 §18; 1975 c.759 §14; 1979
+c.593 §23; 1983 c.338 §901; 1985 c.757 §4; 1997 c.837 §5; 2007 c.288 §11] 
+
+   
+
+       183.482 Jurisdiction
+for review of contested cases; procedure; scope of court authority. (1) Jurisdiction for judicial
+review of contested cases is conferred upon the Court of Appeals. Proceedings
+for review shall be instituted by filing a petition in the Court of Appeals.
+The petition shall be filed within 60 days only following the date the order
+upon which the petition is based is served unless otherwise provided by
+statute. If a petition for rehearing has been filed, then the petition for
+review shall be filed within 60 days only following the date the order denying
+the petition for rehearing is served. If the agency does not otherwise act, a
+petition for rehearing or reconsideration shall be deemed denied the 60th day
+following the date the petition was filed, and in such cases, petition for
+judicial review shall be filed within 60 days only following such date. Date of
+service shall be the date on which the agency delivered or mailed its order in
+accordance with ORS 183.470. 
+
+       (2) The petition
+shall state the nature of the order the petitioner desires reviewed, and shall
+state whether the petitioner was a party to the administrative proceeding, was
+denied status as a party or is seeking judicial review as a person adversely affected
+or aggrieved by the agency order. In the latter case, the petitioner shall, by
+supporting affidavit, state the facts showing how the petitioner is adversely
+affected or aggrieved by the agency order. Before deciding the issues raised by
+the petition for review, the Court of Appeals shall decide, from facts set
+forth in the affidavit, whether or not the petitioner is entitled to petition
+as an adversely affected or an aggrieved person. Copies of the petition shall
+be served by registered or certified mail upon the agency, and all other
+parties of record in the agency proceeding. 
+
+       (3)(a) The filing
+of the petition shall not stay enforcement of the agency order, but the agency
+may do so upon a showing of: 
+
+       (A) Irreparable
+injury to the petitioner; and 
+
+       (B) A colorable
+claim of error in the order. 
+
+       (b) When a
+petitioner makes the showing required by paragraph (a) of this subsection, the
+agency shall grant the stay unless the agency determines that substantial
+public harm will result if the order is stayed. If the agency denies the stay,
+the denial shall be in writing and shall specifically state the substantial
+public harm that would result from the granting of the stay. 
+
+       (c) When the
+agency grants a stay, the agency may impose such reasonable conditions as the
+giving of a bond, irrevocable letter of credit or other undertaking and that
+the petitioner file all documents necessary to bring the matter to issue before
+the Court of Appeals within specified reasonable periods of time. 
+
+       (d) Agency denial
+of a motion for stay is subject to review by the Court of Appeals under such
+rules as the court may establish. 
+
+       (4) Within 30
+days after service of the petition, or within such further time as the court
+may allow, the agency shall transmit to the reviewing court the original or a
+certified copy of the entire record of the proceeding under review, but, by
+stipulation of all parties to the review proceeding, the record may be
+shortened. Any party unreasonably refusing to stipulate to limit the record may
+be taxed by the court for the additional costs. The court may require or permit
+subsequent corrections or additions to the record when deemed desirable. Except
+as specifically provided in this subsection, the cost of the record shall not
+be taxed to the petitioner or any intervening party. However, the court may tax
+such costs and the cost of agency transcription of record to a party filing a
+frivolous petition for review. 
+
+       (5) If, on review
+of a contested case, before the date set for hearing, application is made to
+the court for leave to present additional evidence, and it is shown to the
+satisfaction of the court that the additional evidence is material and that
+there were good and substantial reasons for failure to present it in the
+proceeding before the agency, the court may order that the additional evidence
+be taken before the agency upon such conditions as the court deems proper. The
+agency may modify its findings and order by reason of the additional evidence
+and shall, within a time to be fixed by the court, file with the reviewing
+court, to become a part of the record, the additional evidence, together with
+any modifications or new findings or orders, or its certificate that the agency
+elects to stand on its original findings and order, as the case may be. 
+
+       (6) At any time
+subsequent to the filing of the petition for review and prior to the date set
+for hearing the agency may withdraw its order for purposes of reconsideration.
+If an agency withdraws an order for purposes of reconsideration, the agency
+shall, within such time as the court may allow, affirm, modify or reverse its
+order. If the petitioner is dissatisfied with the agency action after
+withdrawal for purposes of reconsideration, the petitioner may refile the
+petition for review and the review shall proceed upon the revised order. An
+amended petition for review shall not be required if the agency, on
+reconsideration, affirms the order or modifies the order with only minor
+changes. If an agency withdraws an order for purposes of reconsideration and modifies
+or reverses the order in favor of the petitioner, the court shall allow the
+petitioner costs, but not attorney fees, to be paid from funds available to the
+agency. 
+
+       (7) Review of a
+contested case shall be confined to the record, and the court shall not
+substitute its judgment for that of the agency as to any issue of fact or
+agency discretion. In the case of disputed allegations of irregularities in
+procedure before the agency not shown in the record which, if proved, would
+warrant reversal or remand, the Court of Appeals may refer the allegations to a
+master appointed by the court to take evidence and make findings of fact upon
+them. The court shall remand the order for further agency action if the court
+finds that either the fairness of the proceedings or the correctness of the
+action may have been impaired by a material error in procedure or a failure to
+follow prescribed procedure, including a failure by the presiding officer to
+comply with the requirements of ORS 183.417 (8). 
+
+       (8)(a) The court
+may affirm, reverse or remand the order. If the court finds that the agency has
+erroneously interpreted a provision of law and that a correct interpretation
+compels a particular action, the court shall: 
+
+       (A) Set aside or
+modify the order; or 
+
+       (B) Remand the
+case to the agency for further action under a correct interpretation of the
+provision of law. 
+
+       (b) The court
+shall remand the order to the agency if the court finds the agency’s exercise
+of discretion to be: 
+
+       (A) Outside the
+range of discretion delegated to the agency by law; 
+
+       (B) Inconsistent
+with an agency rule, an officially stated agency position, or a prior agency
+practice, if the inconsistency is not explained by the agency; or 
+
+       (C) Otherwise in
+violation of a constitutional or statutory provision. 
+
+       (c) The court
+shall set aside or remand the order if the court finds that the order is not
+supported by substantial evidence in the record. Substantial evidence exists to
+support a finding of fact when the record, viewed as a whole, would permit a
+reasonable person to make that finding. [1975 c.759 §15; 1977 c.798 §4; 1979
+c.593 §24; 1985 c.757 §2; 1989 c.453 §1; 1991 c.331 §44; 2007 c.659 §§2,5] 
+
+   
+
+       183.484
+Jurisdiction for review of orders other than contested cases; procedure; scope
+of court authority. 
+(1) Jurisdiction for judicial review of orders other than contested cases is
+conferred upon the Circuit Court for Marion County and upon the circuit court
+for the county in which the petitioner resides or has a principal business
+office. Proceedings for review under this section shall be instituted by filing
+a petition in the Circuit Court for Marion County or the circuit court for the
+county in which the petitioner resides or has a principal business office. 
+
+       (2) Petitions for
+review shall be filed within 60 days only following the date the order is
+served, or if a petition for reconsideration or rehearing has been filed, then
+within 60 days only following the date the order denying such petition is
+served. If the agency does not otherwise act, a petition for rehearing or
+reconsideration shall be deemed denied the 60th day following the date the
+petition was filed, and in such case petition for judicial review shall be
+filed within 60 days only following such date. Date of service shall be the
+date on which the agency delivered or mailed its order in accordance with ORS
+183.470. 
+
+       (3) The petition
+shall state the nature of the petitioner’s interest, the facts showing how the
+petitioner is adversely affected or aggrieved by the agency order and the
+ground or grounds upon which the petitioner contends the order should be
+reversed or remanded. The review shall proceed and be conducted by the court
+without a jury. 
+
+       (4) At any time
+subsequent to the filing of the petition for review and prior to the date set
+for hearing, the agency may withdraw its order for purposes of reconsideration.
+If an agency withdraws an order for purposes of reconsideration, it shall,
+within such time as the court may allow, affirm, modify or reverse its order.
+If the petitioner is dissatisfied with the agency action after withdrawal for
+purposes of reconsideration, the petitioner may refile the petition for review
+and the review shall proceed upon the revised order. An amended petition for
+review shall not be required if the agency, on reconsideration, affirms the
+order or modifies the order with only minor changes. If an agency withdraws an
+order for purposes of reconsideration and modifies or reverses the order in
+favor of the petitioner, the court shall allow the petitioner costs, but not
+attorney fees, to be paid from funds available to the agency. 
+
+       (5)(a) The court
+may affirm, reverse or remand the order. If the court finds that the agency has
+erroneously interpreted a provision of law and that a correct interpretation
+compels a particular action, it shall: 
+
+       (A) Set aside or
+modify the order; or 
+
+       (B) Remand the
+case to the agency for further action under a correct interpretation of the
+provision of law. 
+
+       (b) The court
+shall remand the order to the agency if it finds the agency’s exercise of
+discretion to be: 
+
+       (A) Outside the
+range of discretion delegated to the agency by law; 
+
+       (B) Inconsistent
+with an agency rule, an officially stated agency position, or a prior agency
+practice, if the inconsistency is not explained by the agency; or 
+
+       (C) Otherwise in
+violation of a constitutional or statutory provision. 
+
+       (c) The court
+shall set aside or remand the order if it finds that the order is not supported
+by substantial evidence in the record. Substantial evidence exists to support a
+finding of fact when the record, viewed as a whole, would permit a reasonable
+person to make that finding. 
+
+       (6) In the case
+of reversal the court shall make special findings of fact based upon the
+evidence in the record and conclusions of law indicating clearly all aspects in
+which the agency’s order is erroneous. [1975 c.759 §16; 1979 c.284 §121; 1979
+c.593 §25a; 1985 c.757 §3; 1999 c.113 §1] 
+
+   
+
+       183.485
+Decision of court on review of contested case. (1) The court having jurisdiction
+for judicial review of contested cases shall direct its decision, including its
+judgment, to the agency issuing the order being reviewed and may direct that
+its judgment be delivered to the circuit court for any county designated by the
+prevailing party for entry in the circuit court’s register. 
+
+       (2) Upon receipt
+of the court’s decision, including the judgment, the clerk of the circuit court
+shall enter a judgment in the register of the court pursuant to the direction
+of the court to which the appeal is made. [1973 c.612 §7; 1981 c.178 §11; 1985
+c.540 §39; 2003 c.576 §193] 
+
+   
+
+       183.486 Form
+and scope of decision of reviewing court. (1) The reviewing court’s decision under ORS 183.482
+or 183.484 may be mandatory, prohibitory, or declaratory in form, and it shall
+provide whatever relief is appropriate irrespective of the original form of the
+petition. The court may: 
+
+       (a) Order agency
+action required by law, order agency exercise of discretion when required by
+law, set aside agency action, remand the case for further agency proceedings or
+decide the rights, privileges, obligations, requirements or procedures at issue
+between the parties; and 
+
+       (b) Order such
+ancillary relief as the court finds necessary to redress the effects of
+official action wrongfully taken or withheld. 
+
+       (2) If the court
+sets aside agency action or remands the case to the agency for further
+proceedings, it may make such interlocutory order as the court finds necessary
+to preserve the interests of any party and the public pending further
+proceedings or agency action. 
+
+       (3) Unless the
+court finds a ground for setting aside, modifying, remanding, or ordering
+agency action or ancillary relief under a specified provision of this section,
+it shall affirm the agency action. [1979 c.593 §27] 
+
+   
+
+       183.490 Agency
+may be compelled to act. 
+The court may, upon petition as described in ORS 183.484, compel an agency to
+act where it has unlawfully refused to act or make a decision or unreasonably
+delayed taking action or making a decision. [1957 c.717 §13; 1979 c.593 §28] 
+
+   
+
+       183.495 [1975 c.759 §16a; repealed by 1985
+c.757 §7] 
+
+   
+
+       183.497
+Awarding costs and attorney fees when finding for petitioner. (1) In a judicial proceeding
+designated under subsection (2) of this section the court: 
+
+       (a) May, in its
+discretion, allow a petitioner reasonable attorney fees and costs if the court
+finds in favor of the petitioner. 
+
+       (b) Shall allow a
+petitioner reasonable attorney fees and costs if the court finds in favor of
+the petitioner and determines that the state agency acted without a reasonable
+basis in fact or in law; but the court may withhold all or part of the attorney
+fees from any allowance to a petitioner if the court finds that the state
+agency has proved that its action was substantially justified or that special
+circumstances exist that make the allowance of all or part of the attorney fees
+unjust. 
+
+       (2) The
+provisions of subsection (1) of this section apply to an administrative or
+judicial proceeding brought by a petitioner against a state agency, as defined
+in ORS 291.002, for: 
+
+       (a) Judicial
+review of a final order as provided in ORS 183.480 to 183.484; 
+
+       (b) Judicial
+review of a declaratory ruling provided in ORS 183.410; or 
+
+       (c) A judicial
+determination of the validity of a rule as provided in ORS 183.400. 
+
+       (3) Amounts
+allowed under this section for reasonable attorney fees and costs shall be paid
+from funds available to the state agency whose final order, declaratory ruling
+or rule was reviewed by the court. [1981 c.871 §1; 1985 c.757 §5] 
+
+   
+
+       Note: 183.497 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 183
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+ (Appeals From Circuit
+Courts) 
+
+   
+
+       183.500
+Appeals. Any party
+to the proceedings before the circuit court may appeal from the judgment of
+that court to the Court of Appeals. Such appeal shall be taken in the manner
+provided by law for appeals from the circuit court in suits in equity. [1957
+c.717 §14; 1969 c.198 §76; 2003 c.576 §394] 
+
+   
+
+ (Alternative Dispute
+Resolution) 
+
+   
+
+       183.502
+Authority of agencies to use alternative means of dispute resolution; model
+rules; amendment of agreements and forms; agency alternative dispute resolution
+programs. (1)
+Unless otherwise prohibited by law, agencies may use alternative means of
+dispute resolution in rulemaking proceedings, contested case proceedings,
+judicial proceedings in which the agency is a party, and any other
+decision-making process in which conflicts may arise. The alternative means of
+dispute resolution may be arbitration, mediation or any other collaborative
+problem-solving process designed to encourage parties to work together to
+develop mutually agreeable solutions to disputes. Use of alternative means of
+dispute resolution by an agency does not affect the application of ORS 192.311
+to 192.478 to the agency, or the application of ORS 192.610 to 192.705 to the
+agency. 
+
+       (2) An agency
+that elects to utilize alternative means of dispute resolution shall inform and
+may consult with the Mark O. Hatfield School of Government, the Department of
+Justice and the Oregon Department of Administrative Services in developing a
+policy or program for implementation of alternative means of dispute
+resolution. 
+
+       (3) The Attorney
+General, in consultation with the Mark O. Hatfield School of Government and the
+Oregon Department of Administrative Services, may develop for agencies model
+rules for the implementation of alternative means of dispute resolution. An
+agency may adopt all or part of the model rules by reference without complying
+with the rulemaking procedures of ORS 183.325 to 183.410. Notice of the
+adoption of all or part of the model rules must be filed by the agency with the
+Secretary of State in the manner provided by ORS 183.355 for the filing of
+rules. 
+
+       (4) When an
+agency reviews the standard agreements, forms for contracts and forms for
+applying for grants or other assistance used by the agency, the agency shall
+determine whether the agreements and forms should be amended to authorize and
+encourage the use of alternative means of dispute resolution in disputes that
+arise under the agreement, contract or application. 
+
+       (5) The
+Department of Justice, the Mark O. Hatfield School of Government, the Oregon
+Department of Administrative Services and the Governor shall collaborate to
+increase the use of alternative dispute resolution to resolve disputes
+involving the State of Oregon by: 
+
+       (a) Assisting
+agencies to develop a policy for alternative means of dispute resolution; 
+
+       (b) Assisting
+agencies to develop or expand flexible and diverse agency programs that provide
+alternative means of dispute resolution; and 
+
+       (c) Providing
+assistance in the efficient and effective selection of mediators or
+facilitators. 
+
+       (6)(a) The Mark
+O. Hatfield School of Government, the Oregon Department of Administrative
+Services and the Department of Justice shall work cooperatively in designing
+the program under ORS 36.179 that is intended to provide services to, apply to
+or involve any state agency. 
+
+       (b) The Mark O.
+Hatfield School of Government, the Oregon Department of Administrative Services
+and the Department of Justice shall enter into an interagency agreement that
+includes, but is not limited to, provisions on appropriate roles, reporting
+requirements and coordination of services provided to state agencies by the
+Mark O. Hatfield School of Government pursuant to ORS 36.179. 
+
+       (c) Before
+providing dispute resolution services in a specific matter to a state agency
+under ORS 36.179, the Mark O. Hatfield School of Government shall notify the
+Department of Justice of any proposal to provide such services. 
+
+       (7) Agencies with
+alternative dispute resolution programs shall seek to identify cases
+appropriate for mediation and other means of alternative dispute resolution and
+to design systems and procedures to resolve those cases. 
+
+       (8) The purpose
+of the agency alternative dispute resolution programs is to: 
+
+       (a) Increase
+agency efficiency; 
+
+       (b) Increase
+public and agency satisfaction with the process and results of dispute
+resolution; and 
+
+       (c) Decrease the
+cost of resolving disputes. 
+
+       (9) An agency may
+use the services of an employee of another agency or of the federal government
+to serve as a mediator or facilitator, and may provide the services of an
+agency employee to another agency or to the federal government to serve as a
+mediator or facilitator. An agency may enter into an agreement with another
+agency or with the federal government to determine reimbursement for services
+of an employee acting as a mediator or facilitator under the provisions of this
+subsection. This subsection does not apply to mediation under ORS 243.650 to
+243.809. [1993 c.647 §2; 1995 c.515 §2; 1997 c.706 §5; 1997 c.801 §42; 1997
+c.837 §7; 2001 c.581 §2; 2003 c.791 §§27,27a; 2005 c.334 §§1,2; 2005 c.817 §6] 
+
+   
+
+       Note: 183.502 was added to and made a
+part of ORS chapter 183 by legislative action but was not added to any smaller
+series therein. See Preface to Oregon Revised Statutes for further explanation. 
+
+   
+
+       183.510 [1957 c.717 §16; repealed by 1971
+c.734 §21] 
+
+   
+
+ (Housing Cost Impact
+Statement) 
+
+   
+
+       183.530
+Housing cost impact statement required for certain proposed rules. A housing cost impact statement
+shall be prepared upon the proposal for adoption or repeal of any rule or any
+amendment to an existing rule by: 
+
+       (1) The Oregon
+Housing Stability Council; 
+
+       (2) A building
+codes division of the Department of Consumer and Business Services or any board
+associated with the department with regard to rules adopted under ORS 455.610
+to 455.630; 
+
+       (3) The Land
+Conservation and Development Commission; 
+
+       (4) The
+Environmental Quality Commission; 
+
+       (5) The
+Construction Contractors Board; 
+
+       (6) The
+Occupational Safety and Health Division of the Department of Consumer and
+Business Services; or 
+
+       (7) The State
+Department of Energy. [1995 c.652 §2; 2015 c.180 §39] 
+
+   
+
+       Note: 183.530 to 183.538 were added to
+and made a part of ORS chapter 183 by legislative action but were not added to
+any smaller series therein. See Preface to Oregon Revised Statutes for further
+explanation. 
+
+   
+
+       183.534
+Housing cost impact statement described; rules.  (1) A housing cost impact
+statement is an estimate of the effect of a proposed rule or ordinance on the
+cost of development of a 6,000 square foot parcel and the construction of a
+1,200 square foot detached single family dwelling on that parcel. The Housing
+and Community Services Department shall adopt rules prescribing the form to be
+used when preparing the estimate and other such rules necessary to the
+implementation of this section and ORS 183.530 and 183.538. 
+
+       (2) A housing
+cost impact statement: 
+
+       (a) For an agency
+listed in ORS 183.530 shall be incorporated in the: 
+
+       (A) Fiscal impact
+statement required by ORS 183.335 (2)(b)(E) for permanent rule adoption; or 
+
+       (B) Statements
+required by ORS 183.335 (5) for temporary rule adoption. 
+
+       (b) Shall not be
+required for the adoption of any procedural rule by an agency listed in ORS
+183.530. [1995 c.652 §3; 1997 c.249 §54; 2015 c.180 §40; 2023 c.193 §12] 
+
+   
+
+       Note: See note under 183.530. 
+
+   
+
+       183.538 Effect
+of failure to prepare housing cost impact statement; judicial review. (1) Notwithstanding ORS 183.335
+(12), 183.400 (4) or any other provision of law, the failure to prepare a
+housing cost impact statement shall not affect the validity or effective date
+of any rule or ordinance or any amendment to a rule or ordinance. 
+
+       (2) If a rule or
+ordinance or any amendment to a rule or ordinance is challenged based on the
+failure to prepare a housing cost impact statement, the court or other
+reviewing authority shall remand the proposed rule or ordinance or any
+amendment to a rule or ordinance to the adopting or repealing entity if it
+determines that a housing cost impact statement is required. 
+
+       (3) The court or
+other reviewing authority shall determine only whether a housing cost impact
+statement was prepared and shall not make any determination as to the
+sufficiency of the housing cost impact statement. [1995 c.652 §4; 2001 c.220 §4] 
+
+   
+
+       Note: See note under 183.530. 
+
+   
+
+ (Effects of Rules on
+Small Business) 
+
+   
+
+       183.540
+Reduction of economic impact on small business. If the statement of cost of
+compliance effect on small businesses required by ORS 183.335 (2)(b)(E) shows
+that a rule has a significant adverse effect upon small business, to the extent
+consistent with the public health and safety purpose of the rule, the agency
+shall reduce the economic impact of the rule on small business by: 
+
+       (1) Establishing
+differing compliance or reporting requirements or time tables for small
+business; 
+
+       (2) Clarifying,
+consolidating or simplifying the compliance and reporting requirements under
+the rule for small business; 
+
+       (3) Utilizing
+objective criteria for standards; 
+
+       (4) Exempting
+small businesses from any or all requirements of the rule; or 
+
+       (5) Otherwise
+establishing less intrusive or less costly alternatives applicable to small
+business. [1981 c.755 §4; 2003 c.749 §7; 2005 c.807 §6] 
+
+   
+
+       183.545 [1981 c.755 §5; repealed by 2003
+c.749 §17] 
+
+   
+
+       183.550 [1981 c.755 §6; repealed by 2003
+c.749 §17] 
+
+   
+
+       183.560 [2001 c.374 §1; 2003 c.740 §1;
+renumbered 183.700 in 2003] 
+
+   
+
+       183.562 [2001 c.374 §2; renumbered 183.702
+in 2003] 
+
+   
+
+       183.600 [1999 c.849 §2; 2003 c.75 §1;
+repealed by 2009 c.866 §4] 
+
+   
+
+ (Office of
+Administrative Hearings) 
+
+   
+
+       183.605 Office
+of Administrative Hearings. 
+(1) The Office of Administrative Hearings is established within the Employment
+Department. The office shall be managed by the chief administrative law judge
+appointed under ORS 183.610. The office shall make administrative law judges
+available to agencies under ORS 183.605 to 183.690. Administrative law judges
+assigned from the office under ORS 183.605 to 183.690 may: 
+
+       (a) Conduct
+contested case proceedings on behalf of agencies in the manner provided by ORS
+183.605 to 183.690; 
+
+       (b) Perform such
+other services, as may be requested by an agency, that are appropriate for the
+resolution of disputes arising out of the conduct of agency business; and 
+
+       (c) Perform such
+other duties as may be authorized under ORS 183.605 to 183.690. 
+
+       (2) All persons
+serving as administrative law judges in the office must meet the standards and
+training requirements of ORS 183.680. 
+
+       (3) The
+Employment Department shall provide administrative services to the Office of
+Administrative Hearings, including budget services, accounting services,
+procurement services, contracting services, human resources services and
+information technology services. The services must be provided in a manner that
+is consistent with law, rules and state policies. The Office of Administrative
+Hearings shall reimburse the Employment Department for the costs of the
+services provided. [1999 c.849 §3; 2003 c.75 §2; 2009 c.866 §5] 
+
+   
+
+       183.610 Chief
+administrative law judge. 
+(1)(a) The Governor shall appoint a person to serve as chief administrative law
+judge for the Office of Administrative Hearings. The appointment of the chief
+administrative law judge is subject to confirmation by the Senate in the manner
+prescribed in ORS 171.562 and 171.565. 
+
+       (b) At the time
+of appointment, the chief administrative law judge must be an active licensee
+of the Oregon State Bar with at least one year of employment experience in
+administrative law or administrative hearings. Within six months after the
+appointment, the chief administrative law judge must meet all qualifications
+required of an administrative law judge under ORS 183.615. 
+
+       (c) The Governor
+shall consider recommendations by the Office of Administrative Hearings
+Oversight Committee in appointing or reappointing a chief administrative law
+judge. 
+
+       (d) The chief
+administrative law judge has all the powers necessary and convenient to
+organize and manage the office. Subject to the State Personnel Relations Law,
+the chief administrative law judge shall employ all persons necessary for the
+administration of the office, prescribe the duties of those employees and fix
+their compensation. 
+
+       (e) The chief
+administrative law judge shall serve for a term of four years. 
+
+       (f) Upon a
+vacancy or expected vacancy in the office of chief administrative law judge,
+the Governor shall notify the Office of Administrative Hearings Oversight
+Committee and the Oregon State Bar of the vacancy and direct the Employment
+Department, in coordination with the oversight committee, to conduct a public
+candidate search, recruitment and application process to assist the oversight
+committee in making recommendations to the Governor to fill the vacancy. The
+Governor may appoint an acting chief administrative law judge until the vacancy
+is filled. 
+
+       (g)
+Notwithstanding ORS 236.140, the Governor may remove the chief administrative
+law judge only for cause, but the Governor may decline to reappoint the chief
+administrative law judge at the end of the four-year term without cause. 
+
+       (2) The chief
+administrative law judge shall employ administrative law judges. The chief
+administrative law judge shall ensure that administrative law judges employed
+for the office receive all training necessary to meet the standards required
+under the program created under ORS 183.680. 
+
+       (3) The chief
+administrative law judge shall take all actions necessary to protect and ensure
+the independence of each administrative law judge assigned from the office. [1999
+c.849 §4; 2003 c.75 §3; 2009 c.866 §1; 2023 c.52 §1; 2025 c.32 §95] 
+
+   
+
+       183.615
+Administrative law judges; duties; qualifications; rules. (1) An administrative law judge
+employed by or contracting with the chief administrative law judge shall
+conduct hearings on behalf of agencies as assigned by the chief administrative
+law judge. An administrative law judge shall be impartial in the performance of
+the administrative law judge’s duties and shall remain fair in all hearings
+conducted by the administrative law judge. An administrative law judge shall
+develop the record in contested case proceedings in the manner provided by ORS
+183.417 (8). 
+
+       (2) Only persons
+who have a knowledge of administrative law and procedure may be employed by the
+chief administrative law judge as administrative law judges. The chief
+administrative law judge by rule may establish additional qualifications for
+administrative law judges employed for the office. [1999 c.849 §5; 2003 c.75 §4;
+2007 c.659 §§3,6] 
+
+   
+
+       183.620
+Contract administrative law judges. 
+(1) The chief administrative law judge for the Office of Administrative
+Hearings may contract for the services of persons to act as administrative law
+judges. 
+
+       (2) Contract
+administrative law judges shall meet the same qualifications as administrative
+law judges regularly employed by the chief administrative law judge and shall
+be paid at an hourly rate comparable to the per hour cost of salary and
+benefits for administrative law judges regularly employed by the chief
+administrative law judge and conducting similar hearings. [1999 c.849 §6; 2003
+c.75 §5] 
+
+   
+
+       183.625
+Assignment of administrative law judges; conduct of hearings. (1) In assigning an administrative
+law judge to conduct hearings on behalf of an agency, the chief administrative
+law judge shall, whenever practicable, assign an administrative law judge that
+has expertise in the legal issues or general subject matter of the proceeding. 
+
+       (2)
+Notwithstanding any other provision of state law, any agency that is required
+to use administrative law judges assigned from the Office of Administrative
+Hearings to conduct hearings must delegate responsibility for the conduct of
+the hearing to an administrative law judge assigned from the Office of
+Administrative Hearings, and the hearing may not be conducted by the
+administrator, director, board, commission or other person or body charged with
+administering the agency. 
+
+       (3) Any agency
+may authorize an administrative law judge assigned to conduct a hearing on
+behalf of the agency under this section to enter a final order for the agency. 
+
+       (4) An agency
+that is not required to use administrative law judges assigned from the office
+may contract with the chief administrative law judge for the assignment of an
+administrative law judge from the office for the purpose of conducting one or
+more contested cases on behalf of the agency. [1999 c.849 §7; 2003 c.75 §6] 
+
+   
+
+       183.630 Model
+rules of procedure; exemptions; depositions. (1) Except as provided in subsection (2) of this
+section, all contested case hearings conducted by administrative law judges
+assigned from the Office of Administrative Hearings must be conducted pursuant
+to the model rules of procedure prepared by the Attorney General under ORS
+183.341 if the hearing is subject to the procedural requirements for contested
+case proceedings. 
+
+       (2) The Attorney
+General, after consulting with the chief administrative law judge, may exempt
+an agency or a category of cases from the requirements of subsection (1) of
+this section. The exemption may be from all or part of the model rules adopted
+by the Attorney General. Any exemption granted under this subsection must be
+made in writing. 
+
+       (3) The Attorney
+General shall consult with an advisory group when adopting model rules of
+procedure for the purpose of contested case hearings conducted by
+administrative law judges assigned from the Office of Administrative Hearings.
+The advisory group shall consist of: 
+
+       (a) The chief
+administrative law judge; 
+
+       (b) An officer or
+employee of a state agency, appointed by the Governor; 
+
+       (c) An attorney
+who practices administrative law, appointed by the Oregon State Bar; 
+
+       (d) A deputy or
+assistant attorney general appointed by the Attorney General; and 
+
+       (e) A public
+member, appointed by the Governor, who is not an attorney or an officer or
+employee of a state agency. 
+
+       (4) Except as may
+be expressly granted by the agency to an administrative law judge assigned from
+the office, or as may be expressly provided for by law, an administrative law
+judge conducting a hearing for an agency under ORS 183.605 to 183.690 may not authorize
+a party to take a deposition that is to be paid for by the agency. [1999 c.849 §8;
+2003 c.75 §7; 2009 c.866 §6] 
+
+   
+
+       183.635
+Agencies required to use administrative law judges from Office of
+Administrative Hearings; exceptions. 
+(1) Except as provided in this section, all agencies must use administrative
+law judges assigned from the Office of Administrative Hearings established
+under ORS 183.605 to conduct contested case hearings, without regard to whether
+those hearings are subject to the procedural requirements for contested case
+hearings. 
+
+       (2) The following
+agencies need not use administrative law judges assigned from the office: 
+
+       (a) Attorney
+General. 
+
+       (b) Boards of
+stewards appointed by the Oregon Racing Commission. 
+
+       (c) Bureau of
+Labor and Industries and the Commissioner of the Bureau of Labor and
+Industries. 
+
+       (d) Department of
+Corrections. 
+
+       (e) Department of
+Education, State Board of Education and Superintendent of Public Instruction. 
+
+       (f) Department of
+Human Services for vocational rehabilitation services cases under 29 U.S.C.
+722(c) and disability determination cases under 42 U.S.C. 405. 
+
+       (g) Department of
+Revenue. 
+
+       (h) Department of
+State Police. 
+
+       (i) Employment
+Appeals Board. 
+
+       (j) Employment
+Relations Board. 
+
+       (k) Energy
+Facility Siting Council. 
+
+       (L) Fair
+Dismissal Appeals Board. 
+
+       (m) Governor. 
+
+       (n) Land
+Conservation and Development Commission. 
+
+       (o) Land Use
+Board of Appeals. 
+
+       (p) Local
+government boundary commissions created pursuant to ORS 199.430. 
+
+       (q) Public
+universities listed in ORS 352.002. 
+
+       (r) Oregon Youth
+Authority. 
+
+       (s) Psychiatric
+Security Review Board. 
+
+       (t) Oregon Health
+Authority, for purposes of contested case hearings involving informed consent
+at the Oregon State Hospital. 
+
+       (u) Public
+Utility Commission. 
+
+       (v) State
+Accident Insurance Fund Corporation. 
+
+       (w) State
+Apprenticeship and Training Council. 
+
+       (x) State Board
+of Parole and Post-Prison Supervision. 
+
+       (y) State Land
+Board. 
+
+       (z) State
+Treasurer, except the State Treasurer shall use an administrative law judge for
+contested cases involving claims arising under ORS 98.302 to 98.436, 98.992 or
+116.253 or any other claim to escheated or unclaimed property. 
+
+       (3) The Workers’
+Compensation Board is exempt from using administrative law judges assigned from
+the office for any hearing conducted by the board under ORS chapters 147, 654
+and 656. Except as specifically provided in this subsection, the Department of
+Consumer and Business Services must use administrative law judges assigned from
+the office only for contested cases arising out of the department’s powers and
+duties under: 
+
+       (a) ORS 86A.095
+to 86A.198, 86A.990 and 86A.992 and ORS chapter 59; 
+
+       (b) ORS chapter
+455; 
+
+       (c) ORS chapter
+674; 
+
+       (d) ORS chapters
+706 to 716; 
+
+       (e) ORS chapter
+717; 
+
+       (f) ORS chapters
+723, 725 and 726; and 
+
+       (g) ORS chapters
+731, 732, 733, 734, 735, 737, 742, 743, 743A, 743B, 744, 746, 748 and 750. 
+
+       (4)
+Notwithstanding any other provision of law, in any proceeding in which an
+agency is required to use an administrative law judge assigned from the office,
+an officer or employee of the agency may not conduct the hearing on behalf of
+the agency. 
+
+       (5)
+Notwithstanding any other provision of ORS 183.605 to 183.690, an agency is not
+required to use an administrative law judge assigned from the office if: 
+
+       (a) Federal law
+requires that a different administrative law judge or hearing officer be used;
+or 
+
+       (b) Use of an
+administrative law judge from the office could result in a loss of federal
+funds. 
+
+       (6)
+Notwithstanding any other provision of this section, the Department of
+Environmental Quality must use administrative law judges assigned from the
+office only for contested case hearings conducted under the provisions of ORS
+183.413 to 183.470. [1999 c.849 §9; 2001 c.900 §46; 2003 c.75 §8; 2005 c.22 §131;
+2005 c.26 §18; 2007 c.239 §9; 2009 c.541 §6; 2009 c.762 §46; 2009 c.830 §147;
+2009 c.866 §10; 2011 c.637 §64; 2011 c.708 §25; 2013 c.296 §19; 2015 c.767 §53;
+2017 c.442 §24; 2019 c.678 §56; 2025 c.559 §41] 
+
+   
+
+       183.640 Use of
+Office of Administrative Hearings by exempt agencies and by political
+subdivisions. (1)
+Upon request of an agency, the chief administrative law judge for the Office of
+Administrative Hearings may assign administrative law judges from the office to
+conduct contested case proceedings on behalf of agencies that are exempted from
+mandatory use of administrative law judges assigned from the office under ORS
+183.635. 
+
+       (2) The chief
+administrative law judge may contract with any political subdivision of this
+state to provide the services of administrative law judges to the political
+subdivision for the purpose of conducting quasi-judicial hearings on behalf of
+the political subdivision. [1999 c. 849 §10; 2003 c.75 §9] 
+
+   
+
+       183.645
+Request for change of administrative law judge; rules. (1) After assignment of an
+administrative law judge from the Office of Administrative Hearings to conduct
+a hearing on behalf of an agency, the chief administrative law judge shall
+assign a different administrative law judge for the hearing upon receiving a
+written request from any party in the contested case or from the agency. The
+chief administrative law judge may by rule establish time limitations and
+procedures for requests under this section. 
+
+       (2) Only one
+request for a change of assignment of administrative law judge under subsection
+(1) of this section may be granted by the chief administrative law judge
+without a showing of good cause. If a party or agency fails to make a request
+under subsection (1) of this section within the time allowed, or if a party or
+agency objects to an administrative law judge assigned after a request for a
+different administrative law judge has been granted under subsection (1) of
+this section, the chief administrative law judge shall assign a different
+administrative law judge only upon a showing of good cause. 
+
+       (3)
+Notwithstanding subsection (1) of this section, a different administrative law
+judge may not be assigned for a hearing provided under ORS 813.410 or 813.440
+on suspension of driving privileges, except upon a showing of good cause. [1999
+c.849 §11; 2001 c.294 §8; 2003 c.75 §10] 
+
+   
+
+       183.650 Form
+of order; modification of form of order by agency; finding of historical fact. (1) In any contested case hearing
+conducted by an administrative law judge assigned from the Office of
+Administrative Hearings, the administrative law judge shall prepare and serve
+on the agency and all parties to the hearing a form of order, including recommended
+findings of fact and conclusions of law. The administrative law judge shall
+also prepare and serve a proposed order in the manner provided by ORS 183.464
+unless the agency or hearing is exempt from the requirements of ORS 183.464. 
+
+       (2) If the
+administrative law judge assigned from the office will not enter the final
+order in a contested case proceeding, and the agency modifies the form of order
+issued by the administrative law judge in any substantial manner, the agency
+must identify the modifications and provide an explanation to the parties to
+the hearing as to why the agency made the modifications. 
+
+       (3) An agency
+conducting a contested case hearing may modify a finding of historical fact
+made by the administrative law judge assigned from the Office of Administrative
+Hearings only if the agency determines that there is clear and convincing
+evidence in the record that the finding was wrong. For the purposes of this
+section, an administrative law judge makes a finding of historical fact if the
+administrative law judge determines that an event did or did not occur in the
+past or that a circumstance or status did or did not exist either before the
+hearing or at the time of the hearing. 
+
+       (4)
+Notwithstanding ORS 19.415 (3), if a party seeks judicial review of an agency’s
+modification of a finding of historical fact under subsection (3) of this
+section, the court shall make an independent finding of the fact in dispute by
+conducting a review de novo of the record viewed as a whole. If the court
+decides that the agency erred in modifying the finding of historical fact made
+by the administrative law judge, the court shall remand the matter to the
+agency for entry of an order consistent with the court’s judgment. [1999 c.849 §12;
+2003 c.75 §11; 2009 c.231 §5; 2009 c.866 §7] 
+
+   
+
+       183.655 Fees. The chief administrative law judge
+for the Office of Administrative Hearings shall establish a schedule of fees
+for services rendered by administrative law judges assigned from the office.
+The fee charged shall be in an amount calculated to recover the cost of
+providing the administrative law judge, the cost of conducting the hearing and
+all associated administrative costs. All fees collected by the chief
+administrative law judge under this section shall be paid into the Office of
+Administrative Hearings Operating Account created under ORS 183.660. [1999
+c.849 §13; 2003 c.75 §12] 
+
+   
+
+       183.660 Office
+of Administrative Hearings Operating Account. (1) The Office of Administrative Hearings Operating
+Account is created within the General Fund. The account shall consist of moneys
+paid into the account under ORS 183.655. Moneys credited to the account are
+continuously appropriated to the chief administrative law judge for the Office
+of Administrative Hearings created under ORS 183.605 for the purpose of paying
+expenses incurred in the administration of the office. 
+
+       (2) At the
+discretion of the chief administrative law judge, petty cash funds may be
+established and maintained for the purpose of administering the duties of the
+office. [1999 c.849 §14; 2003 c.75 §13] 
+
+   
+
+       183.665
+Estimates of office expenses. 
+The chief administrative law judge for the Office of Administrative Hearings
+shall estimate in advance the expenses that the office will incur during each
+biennium and shall notify each agency required to use the office’s services of
+the agency’s share of the anticipated expenses for periods within the biennium.
+[1999 c.849 §15; 2003 c.75 §14] 
+
+   
+
+       183.670 Rules. Subject to the provisions of the
+State Personnel Relations Law, the chief administrative law judge for the
+Office of Administrative Hearings may adopt rules to: 
+
+       (1) Organize and
+manage the Office of Administrative Hearings established under ORS 183.605. 
+
+       (2) Facilitate
+the performance of the duties of administrative law judges assigned from the
+office. 
+
+       (3) Establish
+qualifications for persons employed as administrative law judges by the office. 
+
+       (4) Establish
+standards and procedures for the evaluation and training of administrative law
+judges employed by the office, consistent with standards and training
+requirements established under ORS 183.680. [1999 c.849 §16; 2003 c.75 §15] 
+
+   
+
+       183.675
+Alternative dispute resolution. 
+ORS 183.605 to 183.690 do not limit in any way the ability of any agency to use
+alternative dispute resolution, including mediation or arbitration, to resolve
+disputes without conducting a contested case hearing or without requesting
+assignment of an administrative law judge from the Office of Administrative
+Hearings. [1999 c.849 §16a; 2003 c.75 §16] 
+
+   
+
+       183.680
+Standards and training program. 
+(1) The chief administrative law judge for the Office of Administrative
+Hearings, working in coordination with the Attorney General, shall design and
+implement a standards and training program for administrative law judges
+employed by the office and for persons seeking to be employed as administrative
+law judges by the office. The program shall include: 
+
+       (a) The
+establishment of an ethical code for persons employed as administrative law
+judges by the office. 
+
+       (b) Training for
+administrative law judges employed by the office that is designed to assist in
+identifying cases that are appropriate for the use of alternative dispute
+resolution processes. 
+
+       (2) The program
+established by the chief administrative law judge under this section may
+include: 
+
+       (a) The
+conducting of courses on administrative law, evidence, hearing procedures and
+other issues that arise in presiding over administrative hearings, including
+courses designed to provide any training required by the chief administrative
+law judge for administrative law judges employed by the office. 
+
+       (b) The
+certification of courses offered by other persons for the purpose of any
+training required by the chief administrative law judge for administrative law
+judges employed by the office. 
+
+       (c) The provision
+of specialized training for administrative law judges in subject matter areas
+affecting particular agencies required to use administrative law judges
+assigned from the office. 
+
+       (3) The chief
+administrative law judge is bound by the ethical code established under this
+section and must satisfactorily complete training required of administrative
+law judges employed by the office other than specialized training in subject
+matter areas affecting particular agencies. [1999 c.849 §19; 2003 c.75 §17] 
+
+   
+
+       183.685 Ex
+parte communications. 
+(1) An administrative law judge assigned from the Office of Administrative
+Hearings who is presiding in a contested case proceeding and who receives an ex
+parte communication described in subsections (3) and (4) of this section shall
+place in the record of the pending matter: 
+
+       (a) The name of
+each person from whom the administrative law judge received an ex parte
+communication; 
+
+       (b) A copy of any
+ex parte written communication received by the administrative law judge; 
+
+       (c) A copy of any
+written response to the communication made by the administrative law judge; 
+
+       (d) A memorandum
+reflecting the substance of any ex parte oral communication made to the
+administrative law judge; and 
+
+       (e) A memorandum
+reflecting the substance of any oral response made by the administrative law
+judge to an ex parte oral communication. 
+
+       (2) Upon making a
+record of an ex parte communication under subsection (1) of this section, an
+administrative law judge shall advise the agency and all parties in the
+proceeding that an ex parte communication has been made a part of the record.
+The administrative law judge shall allow the agency and parties an opportunity
+to respond to the ex parte communication. 
+
+       (3) Except as
+otherwise provided in this section, the provisions of this section apply to
+communications that: 
+
+       (a) Relate to a
+legal or factual issue in a contested case proceeding; 
+
+       (b) Are made
+directly or indirectly to an administrative law judge while the proceeding is
+pending; and 
+
+       (c) Are made
+without notice and opportunity for the agency and all parties to participate in
+the communication. 
+
+       (4) The
+provisions of this section apply to any ex parte communication made directly or
+indirectly to an administrative law judge, or to any agent of an administrative
+law judge, by: 
+
+       (a) A party; 
+
+       (b) A party’s
+representative or legal adviser; 
+
+       (c) Any other
+person who has a direct or indirect interest in the outcome of the proceeding; 
+
+       (d) Any other
+person with personal knowledge of the facts relevant to the proceeding; or 
+
+       (e) Any officer,
+employee or agent of an agency. 
+
+       (5) The
+provisions of this section do not apply to: 
+
+       (a)
+Communications made to an administrative law judge by other administrative law
+judges; or 
+
+       (b)
+Communications made to an administrative law judge by any person employed by
+the office to assist the administrative law judge. [1999 c.849 §20; 2003 c.75 §18;
+2009 c.866 §9] 
+
+   
+
+       183.690 Office
+of Administrative Hearings Oversight Committee. (1) The Office of Administrative
+Hearings Oversight Committee is created. The committee consists of nine
+members, as follows: 
+
+       (a) The President
+of the Senate and the Speaker of the House of Representatives shall appoint
+four legislators to the committee. Two shall be Senators appointed by the
+President. Two shall be Representatives appointed by the Speaker. 
+
+       (b) The Governor
+shall appoint two members to the committee. At least one of the members
+appointed by the Governor shall be an active licensee of the Oregon State Bar
+with experience in representing parties who are not agencies in contested case
+hearings. 
+
+       (c) The Attorney
+General shall appoint two members to the committee. 
+
+       (d) The chief
+administrative law judge for the Office of Administrative Hearings shall serve
+as an ex officio member of the committee. The chief administrative law judge
+may cast a vote on a matter before the committee if the votes of the other
+members are equally divided on the matter. 
+
+       (2) The term of a
+legislative member of the committee shall be two years. If a person appointed
+by the President of the Senate or by the Speaker of the House ceases to be a
+Senator or Representative during the person’s term on the committee, the person
+may continue to serve as a member of the committee for the balance of the
+member’s term on the committee. The term of all other appointed members shall
+be four years. Appointed members of the committee may be reappointed. If a
+vacancy occurs in one of the appointed positions for any reason during the term
+of membership, the official who appointed the member to the vacated position
+shall appoint a new member to serve the remainder of the term. An appointed
+member of the committee may be removed from the committee at any time by the
+official who appointed the member. 
+
+       (3)(a) The
+members of the committee shall select from among themselves a chairperson and a
+vice chairperson. 
+
+       (b) The committee
+shall meet at such times and places as determined by the chairperson. 
+
+       (4) Legislative
+members shall be entitled to payment of per diem and expense reimbursement
+under ORS 171.072, payable from funds appropriated to the Legislative Assembly. 
+
+       (5) The committee
+shall: 
+
+       (a) Study the
+operations of the Office of Administrative Hearings; 
+
+       (b) Make any
+recommendations to the Governor and the Legislative Assembly that the committee
+deems necessary to increase the effectiveness, fairness and efficiency of the
+operations of the Office of Administrative Hearings; 
+
+       (c) Make any
+recommendations for additional legislation governing the operations of the
+Office of Administrative Hearings; 
+
+       (d) Make
+recommendations to the Governor for the appointment or reappointment of the
+chief administrative law judge; and 
+
+       (e) Conduct such
+other studies as necessary to accomplish the purposes of this subsection. 
+
+       (6)(a) The Office
+of Administrative Hearings shall provide the committee with staff. 
+
+       (b) The
+Employment Department shall provide the committee with human resources services
+and assist the committee with candidate searches for appointment of the chief
+administrative law judge. [1999 c.849 §21; 2003 c.75 §19; 2005 c.22 §132; 2009
+c.866 §3; 2023 c.52 §2; 2025 c.32 §96] 
+
+   
+
+ PERMITS AND LICENSES 
+
+   
+
+       183.700
+Permits subject to ORS 183.702. 
+(1) As used in this section and ORS 183.702, “permit” means an individual and
+particularized license, permit, certificate, approval, registration or similar
+form of permission required by law to pursue any activity specified in this
+section, for which an agency must weigh information, make specific findings and
+make determinations on a case-by-case basis for each applicant. 
+
+       (2) The
+requirements of this section and ORS 183.702 apply to the following permits
+granted by: 
+
+       (a) The
+Department of Environmental Quality under ORS 448.415, 454.655, 454.695,
+454.790, 454.800, 459.205, 465.315, 465.325, 466.140, 466.145, 466.706 to
+466.882, 468A.040, 468A.310, 468B.035, 468B.040, 468B.045, 468B.050 and
+468B.095. 
+
+       (b) The
+Department of State Lands under ORS 196.800 to 196.900 and 390.805 to 390.925. 
+
+       (c) The Water
+Resources Department under ORS chapters 537 and 540, except those permits
+issued under ORS 537.747 to 537.765. 
+
+       (d) The State
+Department of Agriculture pursuant to ORS 468B.200 to 468B.230 and 622.250. 
+
+       (e) The State
+Department of Fish and Wildlife pursuant to ORS 497.142, 497.218, 497.228,
+497.238, 497.248, 497.252, 497.298, 497.308, 498.019, 498.279, 508.106,
+508.300, 508.760, 508.775, 508.801, 508.840, 508.880, 508.926 and 509.140. 
+
+       (f) The
+Department of Transportation pursuant to ORS 374.312. [Formerly 183.560] 
+
+   
+
+       Note: 183.700 and 183.702 were enacted
+into law by the Legislative Assembly but were not added to or made a part of
+ORS chapter 183 or any series therein by legislative action. See Preface to
+Oregon Revised Statutes for further explanation. 
+
+   
+
+       183.702
+Statement of criteria and procedures for evaluating permit application;
+documentation of decision on application; required signature. (1) At the time a person applies
+for a permit specified in ORS 183.700, the issuing agency shall offer a
+document to that applicant that specifies the criteria and procedures for
+evaluating a permit application. 
+
+       (2) The agencies
+specified in ORS 183.700 must document in writing the basis for all decisions
+to deny a permit specified in ORS 183.700, including citation to the criteria
+applied by the agency and the manner in which agency standards were utilized in
+applying the criteria. The documentation required under this section shall be
+made part of the record for the decision on the permit application. 
+
+       (3) At least one
+officer or employee of the issuing agency who has authority to sign orders on
+behalf of the agency, or the officer or employee responsible for the decision
+to deny a permit specified in ORS 183.700, shall sign the documentation
+required under subsection (2) of this section. 
+
+       (4) The issuing
+agency shall provide to the applicant a copy of the documentation required
+under subsection (2) of this section. [Formerly 183.562] 
+
+   
+
+       Note: See note under 183.700. 
+
+   
+
+       183.705
+Extended term for renewed licenses; fees; continuing education; rules. (1) Notwithstanding any other
+provision of law, an agency that issues licenses that must be renewed on an
+annual basis under the laws administered by the agency also may offer those
+licenses with terms of two, three, four or five years. Notwithstanding any
+other provision of law, an agency that issues licenses that must be renewed on
+a biennial basis under the laws administered by the agency also may offer those
+licenses with terms of three, four or five years. Extended terms may be offered
+only for renewed licenses and may not be offered for initial applications for
+licenses. 
+
+       (2) An agency may
+offer an extended term under this section for a license issued by the agency
+only after adopting a rule authorizing the extended term. An agency may adopt a
+rule authorizing an extended term only if the agency finds that the extended term
+is consistent with public safety and with the objectives of the licensing
+requirement. An agency by rule may prohibit extended terms based on prior
+license discipline of an applicant. 
+
+       (3) An applicant
+must meet all qualifications established by the agency to be granted an
+extended term. 
+
+       (4) An agency may
+not offer an extended term under this section if: 
+
+       (a) Another
+agency or a local government, as defined by ORS 174.116, is authorized by
+statute to make a recommendation on the issuance of the license; 
+
+       (b) The agency or
+the local government, as defined by ORS 174.116, that has authority to make a
+recommendation on the issuance of the license has recommended against the
+issuance of the license; and 
+
+       (c) The
+recommendation of the agency or the local government, as defined by ORS
+174.116, is based on licensing criteria established by statute or by rule. 
+
+       (5) An extended
+term granted under this section may be revoked by an agency if the agency
+determines that the licensee is subject to discipline under the licensing
+criteria applicable to the licensee. An agency offering extended terms under
+this section by rule may establish other grounds for revoking an extended term
+under this section. 
+
+       (6)
+Notwithstanding any other provision of law, an agency that offers an extended
+term under this section for a license issued by the agency shall increase the
+annual or biennial license fee established by statute by a percentage no
+greater than necessary to ensure that there is no revenue loss by reason of the
+extended term. 
+
+       (7)
+Notwithstanding any other provision of law, an agency that offers an extended
+term under this section for a license issued by the agency shall increase any
+annual or biennial continuing education requirement established by statute as
+necessary to ensure that there is no reduction in the continuing education
+requirement for licensees by reason of the extended term. [2005 c.76 §2; 2007
+c.768 §1] 
+
+   
+
+ REVIEW OF RULES 
+
+   
+
+ (Legislative Assembly) 
+
+   
+
+       183.710
+Definitions for ORS 183.710 to 183.730. As used in ORS 183.710 to 183.730, unless the context
+requires otherwise: 
+
+       (1) “Interim
+committee” means a committee of the Legislative Assembly that is scheduled to
+meet when the Legislative Assembly is not in session and that has
+subject-matter jurisdiction over the state agency that has adopted a rule, as
+set forth in the subject-matter jurisdiction list developed under ORS 183.724. 
+
+       (2) “Rule” has
+the meaning given that term in ORS 183.310. 
+
+       (3) “State agency”
+means an agency as defined in ORS 183.310. [Formerly 171.705; 2009 c.81 §1] 
+
+   
+
+       Note: 183.710 to 183.730 were enacted
+into law by the Legislative Assembly but were not added to or made a part of
+ORS chapter 183 or any series therein by legislative action. See Preface to
+Oregon Revised Statutes for further explanation. 
+
+   
+
+       183.715
+Submission of adopted rule to Legislative Counsel required. If a state agency adopts, amends
+or repeals a rule, the Secretary of State shall electronically submit a copy of
+the adopted, amended or repealed rule to the Legislative Counsel within 10 days
+after the agency files the rule in the office of the Secretary of State as
+provided in ORS 183.355. The electronic transmission of an amended rule that is
+submitted to the Legislative Counsel must show all changes to the rule by
+striking through material to be deleted and underlining all new material, or by
+any other method that clearly shows all new and deleted material. [Formerly
+171.707; 1991 c.94 §1; 1999 c.167 §1; 2005 c.18 §2; 2017 c.518 §7] 
+
+   
+
+       Note: See note under 183.710. 
+
+   
+
+       183.720
+Procedure for review of agency rule; reports on rules claimed to be duplicative
+or conflicting. 
+(1) The Legislative Counsel may review, or shall review at the direction of the
+Legislative Counsel Committee, a proposed rule or an adopted rule of a state
+agency. 
+
+       (2) The
+Legislative Counsel may review an adopted rule of a state agency upon the
+written request of any person affected by the rule. The Legislative Counsel
+shall review a proposed or adopted rule of a state agency upon the written
+request of any member of the Legislative Assembly. The written request for
+review must identify the specific objection or problem with the rule. 
+
+       (3) When
+reviewing a rule of a state agency pursuant to subsection (1) or (2) of this
+section, the Legislative Counsel shall: 
+
+       (a) Determine
+whether the rule appears to be within the intent and scope of the enabling
+legislation purporting to authorize its adoption; and 
+
+       (b) Determine
+whether the rule raises any constitutional issue other than described in
+paragraph (a) of this subsection, and if so, the nature of the issue. 
+
+       (4) In making a
+determination under subsection (3)(a) of this section, the Legislative Counsel
+shall, wherever possible, follow generally accepted principles of statutory
+construction. 
+
+       (5) The
+Legislative Counsel shall prepare written findings on a rule reviewed, setting
+forth the determinations made under subsection (3) of this section. 
+
+       (6) When a review
+of a rule is made by the Legislative Counsel, the Legislative Counsel shall
+send a copy of the determinations made under subsection (3) of this section to
+the appropriate interim committee or, if the review was requested by a member
+of the Legislative Assembly or by a person affected by the rule, to the person
+requesting the review. If the Legislative Counsel determines that a rule is not
+within the intent and scope of the enabling legislation purporting to authorize
+the state agency’s adoption of the rule, or that the rule raises a
+constitutional issue, the Legislative Counsel shall also send a copy of the
+determination to the agency. The Legislative Counsel may request that the state
+agency respond in writing to the determinations or appear at the meeting of the
+interim committee at which the committee will consider the determinations. The
+interim committee may direct the Legislative Counsel to send a copy of the
+determinations to the presiding officer of a house of the Legislative Assembly,
+who may refer the determinations to any legislative committee concerned. 
+
+       (7)(a) A member
+of the Legislative Assembly may request that Legislative Counsel prepare a
+report on a rule adopted by a state agency that the member asserts is
+duplicative of or conflicts with another rule. A person affected by a rule
+adopted by a state agency may request that Legislative Counsel prepare a report
+on the rule if the person asserts that the rule is duplicative of or conflicts
+with another rule. A request for a report must be in writing and contain copies
+of the two rules that are claimed to be duplicative or conflicting. The second
+rule may be either a rule adopted by a state agency or a rule or regulation
+adopted by a federal agency. 
+
+       (b)(A) Upon
+receipt of a written request by a member of the Legislative Assembly, the
+Legislative Counsel shall prepare a report to the interim committee that
+contains: 
+
+       (i) A copy of the
+request, including copies of the two rules that the member asserts are
+conflicting or duplicative; and 
+
+       (ii) Legislative
+Counsel’s analysis of the requirements of the two rules. 
+
+       (B) Upon receipt
+of a written request by a person affected by a rule adopted by a state agency,
+the Legislative Counsel may prepare a written report to the person and each
+state agency concerned that contains the Legislative Counsel’s analysis of the
+requirements of the two rules. 
+
+       (8) Upon receipt
+of a report under subsection (7)(b)(A) of this section, the interim committee
+may issue a determination that a rule is duplicative of or conflicts with the
+other cited rule. 
+
+       (9) When a report
+on a rule is made by the Legislative Counsel under subsection (7)(b)(A) of this
+section, the Legislative Counsel shall send a copy of the report and any
+determinations made under subsection (8) of this section to each state agency
+concerned. The interim committee may direct the Legislative Counsel to send a
+copy of the determinations to the presiding officer of a house of the
+Legislative Assembly, who may refer the determinations to any legislative
+committee concerned. [Formerly 171.709; 1993 c.729 §7; 1997 c.602 §4; 2001
+c.156 §1; 2009 c.81 §4] 
+
+   
+
+       Note: See note under 183.710. 
+
+   
+
+       183.722
+Required agency response to Legislative Counsel determination; consideration of
+determination by interim committee. 
+(1)(a) If the Legislative Counsel determines under ORS 183.720 (3) that a
+proposed or adopted rule is not within the intent and scope of the enabling
+legislation purporting to authorize the rule’s adoption, or that the rule is
+not constitutional, and the Legislative Counsel has provided a copy of that
+determination to the state agency pursuant to 183.720 (6), the agency shall
+either make a written response to the determination or appear at the meeting of
+the interim committee at which the committee will consider the determinations.
+The response of the state agency shall indicate if the agency intends to
+repeal, amend or take other action with respect to the rule. 
+
+       (b) The interim
+committee shall consider the Legislative Counsel determination described in
+paragraph (a) of this subsection and any state agency response to the
+determination. If the interim committee adopts the Legislative Counsel
+determination, the Legislative Counsel shall post the determination on the
+Legislative Counsel website. Adopted determinations that are posted on the
+website shall be organized by OAR number and shall remain on the website until
+the earlier of the date that: 
+
+       (A) The rule is
+modified and the Legislative Counsel determines that the modified rule is
+within the intent and scope of the enabling legislation; 
+
+       (B) A court makes
+a final determination that the rule is within the intent and scope of the
+enabling legislation and is otherwise constitutional, all appeals of the court’s
+determination are exhausted and the state agency notifies the Legislative
+Counsel of the determination; or 
+
+       (C) The
+Legislative Assembly modifies the enabling legislation so as to bring the rule
+within the intent and scope of the enabling legislation, any other
+constitutional defect in the rule is cured and the state agency notifies the
+Legislative Counsel of the modification or cure. 
+
+       (2) If the
+Legislative Counsel determines under ORS 183.720 (3) that a proposed or adopted
+rule is not within the intent and scope of the enabling legislation purporting
+to authorize the rule’s adoption, or that the rule is not constitutional, and
+the interim committee is not satisfied with the response to those issues made
+by the state agency, the committee may request that one or more representatives
+of the agency appear at a subsequent meeting of the committee along with a
+representative of the Oregon Department of Administrative Services for the
+purpose of further explaining the position of the agency. 
+
+       (3) If a state
+agency is requested under subsection (2) of this section to appear at a
+subsequent meeting of the interim committee along with a representative of the
+Oregon Department of Administrative Services, the agency shall promptly notify
+the department of the request. The notification to the department must be in
+writing, and must include a copy of the determinations made by the Legislative
+Counsel and a copy of any written response made by the state agency to the
+determinations. [1997 c.602 §7; 1999 c.31 §2; 2009 c.81 §5] 
+
+ Note: See note under 183.710. 
+
+   
+
+       183.724
+Designation of interim committees for purposes of considering rule reports. (1) As soon as is practicable
+after the end of each odd-numbered year regular legislative session, the
+Legislative Counsel shall develop a list of state agencies with areas of
+responsibility that are primarily within the subject-matter jurisdiction of interim
+committees of the Legislative Assembly. The Legislative Counsel shall assign
+all state agencies to at least one interim committee. The Legislative Counsel
+may modify the list to reflect changes in interim committees. The Legislative
+Counsel shall distribute the list to all state agencies whenever the list is
+developed or modified. 
+
+       (2) If an interim
+committee of one house of the Legislative Assembly has overlapping
+subject-matter jurisdiction with an interim committee of the other house, the
+Legislative Counsel may assign a state agency to either committee or to both
+committees. The Legislative Counsel shall strive to assign state agencies so as
+to ensure that the rule review workload is approximately equally distributed
+between the interim committees of both houses of the Legislative Assembly. 
+
+       (3) The
+consideration of the written findings prepared by the Legislative Counsel on a
+rule by any one interim committee of either house of the Legislative Assembly
+satisfies the requirements of ORS 183.710 to 183.730. [2009 c.81 §3; 2011 c.545
+§13] 
+
+   
+
+       Note: See note under 183.710. 
+
+   
+
+       183.725 [Formerly 171.713; 1993 c.729 §8;
+1997 c.602 §5; 1999 c.31 §1; 2009 c.81 §6; repealed by 2017 c.518 §9] 
+
+   
+
+ (Oregon Sunshine
+Committee) 
+
+   
+
+       183.730 Review
+of rule by Oregon Sunshine Committee. 
+(1) As used in this section, “public record” has the meaning given that term in
+ORS 192.311. 
+
+       (2) The Oregon
+Sunshine Committee shall include in the plan or schedule for review established
+under ORS 192.511 an adopted rule of a state agency upon the written request of
+any person affected by the rule if the adopted rule impacts the disclosure, or exemption
+from disclosure, of a public record. The request must specify the disclosure or
+exemption that is of concern. 
+
+       (3) The committee
+shall include in the plan or schedule for review established under ORS 192.511
+an adopted rule of a state agency upon the written request of a member of the
+Legislative Assembly if the adopted rule impacts the disclosure, or exemption from
+disclosure, of a public record. [2017 c.654 §9] 
+
+   
+
+       Note: See note under 183.710. 
+
+   
+
+ CIVIL PENALTIES 
+
+   
+
+       183.745 Civil
+penalty procedures; notice; hearing; judicial review; exemptions; recording;
+enforcement. (1)
+Except as otherwise provided by law, an agency may only impose a civil penalty
+as provided in this section. 
+
+       (2) A civil
+penalty imposed under this section shall become due and payable 10 days after
+the order imposing the civil penalty becomes final by operation of law or on
+appeal. A person against whom a civil penalty is to be imposed shall be served
+with a notice in the form provided in ORS 183.415. Service of the notice shall
+be accomplished in the manner provided by ORS 183.415. 
+
+       (3) The person to
+whom the notice is addressed shall have 20 days from the date of service of the
+notice provided for in subsection (2) of this section in which to make written
+application for a hearing. The agency may by rule provide for a longer period
+of time in which application for a hearing may be made. If no application for a
+hearing is made within the time allowed, the agency may make a final order
+imposing the penalty. A final order entered under this subsection need not be
+delivered or mailed to the person against whom the civil penalty is imposed. 
+
+       (4) Any person
+who makes application as provided for in subsection (3) of this section shall
+be entitled to a hearing. The hearing shall be conducted as a contested case
+hearing pursuant to the applicable provisions of ORS 183.413 to 183.470. 
+
+       (5) Judicial
+review of an order made after a hearing under subsection (4) of this section
+shall be as provided in ORS 183.480 to 183.497 for judicial review of contested
+cases. 
+
+       (6) When an order
+assessing a civil penalty under this section becomes final by operation of law
+or on appeal, and the amount of penalty is not paid within 10 days after the
+order becomes final, the order may be recorded with the county clerk in any
+county of this state. The clerk shall thereupon record the name of the person
+incurring the penalty and the amount of the penalty in the County Clerk Lien
+Record. 
+
+       (7) This section
+does not apply to penalties: 
+
+       (a) Imposed under
+the tax laws of this state; 
+
+       (b) Imposed under
+the provisions of ORS 646.760 or 652.332; 
+
+       (c) Imposed under
+the provisions of ORS chapter 654, 656 or 659A; or 
+
+       (d) Imposed by
+the Public Utility Commission. 
+
+       (8) This section
+creates no new authority in any agency to impose civil penalties. 
+
+       (9) This section
+does not affect: 
+
+       (a) Any right
+under any other law that an agency may have to bring an action in a court of
+this state to recover a civil penalty; or 
+
+       (b) The ability
+of an agency to collect a properly imposed civil penalty under the provisions
+of ORS 305.830. 
+
+       (10) The notice
+provided for in subsection (2) of this section may be made part of any other
+notice served by the agency under ORS 183.415. 
+
+       (11) Informal
+disposition of proceedings under this section, whether by stipulation, agreed
+settlement, consent order or default, may be made at any time. 
+
+       (12) In addition
+to any other remedy provided by law, recording an order in the County Clerk
+Lien Record pursuant to the provisions of this section has the effect provided
+for in ORS 205.125 and 205.126, and the order may be enforced as provided in
+ORS 205.125 and 205.126. 
+
+       (13) As used in
+this section: 
+
+       (a) “Agency” has
+that meaning given in ORS 183.310. 
+
+       (b) “Civil
+penalty” includes only those monetary penalties that are specifically
+denominated as civil penalties by statute. [Formerly 183.090] 
+
+ Note: 183.745 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 183
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+ READABILITY OF PUBLIC
+WRITINGS 
+
+   
+
+       183.750 State
+agency required to prepare public writings in readable form. (1) Every state agency shall
+prepare its public writings in language that is as clear and simple as
+possible. 
+
+       (2) As used in
+this section: 
+
+       (a) “Public
+writing” means any rule, form, license or notice prepared by a state agency. 
+
+       (b) “State agency”
+means any officer, board, commission, department, division or institution in
+the executive or administrative branch of state government. [Formerly 183.025] 
+
+ Note: 183.750 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter 183
+or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+ _______________ 
+
+   
+
+ 
+
+ 
+
+ 

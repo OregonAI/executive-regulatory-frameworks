@@ -5,8 +5,33 @@ recheck: biennial
 upstream_signal: Biennial ORS edition (odd-year sessions), oregonlegislature.gov chapter HTML
 last_checked: '2026-07-18'
 sources:
+- id: ors-chapter-183
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors183.html
+  sha256: ff4571b2252327f48223e3198ac1958f2320923c0b3b5023751ccfd06eed8494
+  last_checked: '2026-07-18'
+  notes: ORS chapter 183 (Administrative Procedures Act), 2025 Edition
+- id: ors-chapter-184
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors184.html
+  sha256: b7fe7bb91941baf738f22b4ea5a187ff3d65233ce0f63c41a751dc58a063a50b
+  last_checked: '2026-07-18'
+  notes: ORS chapter 184 (Certain Executive Branch Departments (incl. DAS)), 2025 Edition
+- id: ors-chapter-192
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors192.html
+  sha256: 807d082f52b2a24fefff22ddad950f17557af3dc0d7b55b9572c6bad7dfadcdf
+  last_checked: '2026-07-18'
+  notes: ORS chapter 192 (Records; Reports and Meetings), 2025 Edition
 - id: ors-chapter-276a
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors276A.html
   sha256: 84da86d3f6f9ce77d9cc126a49ac106bc0eca2d1318bc9898a3711409cd2b2d3
   last_checked: '2026-07-18'
-  notes: Information systems security in executive department; rules
+  notes: ORS chapter 276A (Information Technology), 2025 Edition
+- id: ors-chapter-291
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors291.html
+  sha256: c05d0af0dee595cf34a601d410bbcec710cd631fae5e89436a2dce8d1b6c11a6
+  last_checked: '2026-07-18'
+  notes: ORS chapter 291 (State Financial Administration), 2025 Edition
+- id: ors-chapter-293
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors293.html
+  sha256: c363bb55e9ae828d37d9d2675b422a4dd87d1bcf07de3f1a6b79c06d2d1af23f
+  last_checked: '2026-07-18'
+  notes: ORS chapter 293 (Administration of Public Funds), 2025 Edition
