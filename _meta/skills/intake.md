@@ -45,7 +45,10 @@ the issue.
 2. Record `retrieved` (ISO date) and `source_sha256` — the **content hash** computed by
    `content_hash()` in `src/repo_lib.py` (sha256 of normalized extracted text; raw-byte
    hash only for image-only sources). Never hash raw bytes of PDFs/HTML directly: several
-   state servers stamp different bytes on every download.
+   state servers stamp different bytes on every download. **Always commit the `.txt`
+   extraction alongside the `.pdf`/`.html` snapshot** — CI verifies against that
+   committed text via `hash_snapshot()`, never by re-running `pdftotext` at verification
+   time, because poppler's output can differ by version across machines.
 3. Copy the matching template from `_meta/templates/`; name the file by its citation slug
    (`das-107-004-052.md`, `oar-125-800-0020.md`, `ors-276A.300.md`).
 4. Transcribe header metadata (effective/reviewed dates, version string) exactly as

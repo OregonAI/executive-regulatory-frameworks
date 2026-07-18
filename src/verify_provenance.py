@@ -5,7 +5,7 @@ substring of the snapshot text. '…' inside a quote marks an elision: each segm
 must appear, in order. This mechanically prevents quote fabrication (AGENTS.md)."""
 from repo_lib import (
     REPO_ROOT, SNAPSHOT_DIR,
-    Reporter, content_files, content_hash, extract_verbatim_quotes, normalize_ws,
+    Reporter, content_files, extract_verbatim_quotes, hash_snapshot, normalize_ws,
     parse_frontmatter,
 )
 
@@ -39,7 +39,7 @@ def main():
         if not raw.is_file():
             r.error(rel, f"missing source snapshot {raw.relative_to(REPO_ROOT)}")
             continue
-        digest = content_hash(raw.read_bytes(), fmt)
+        digest = hash_snapshot(doc_id, fmt)
         if digest != fm.get("source_sha256"):
             r.error(rel, f"source_sha256 mismatch: frontmatter {fm.get('source_sha256')} != snapshot {digest}")
         txt = SNAPSHOT_DIR / f"{doc_id}.txt"

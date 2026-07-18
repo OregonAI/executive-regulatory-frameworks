@@ -92,11 +92,17 @@ def normalize_volatile(data: bytes) -> bytes:
 
 
 def content_hash(raw: bytes, fmt: str) -> str:
-    """Content hash of a source: sha256 of the whitespace-normalized extracted text
-    (pdftotext for PDFs, tag-stripping for HTML). Some servers stamp different bytes on
-    every download (Cloudflare scripts, PDF metadata), so raw-byte hashes drift without
-    content change. Falls back to the raw-byte hash when extraction yields <200 chars
-    (e.g. image-only scans), where text hashing would be meaningless."""
+    """Content hash of a freshly-fetched source: sha256 of the whitespace-normalized
+    extracted text (pdftotext for PDFs, tag-stripping for HTML). Some servers stamp
+    different bytes on every download (Cloudflare scripts, PDF metadata), so raw-byte
+    hashes drift without content change. Falls back to the raw-byte hash when extraction
+    yields <200 chars (e.g. image-only scans), where text hashing would be meaningless.
+
+    Used only by detect_changes.py (comparing a fresh fetch against the manifest) and at
+    ingestion time. NOT used by verify_provenance.py — pdftotext's output can differ by
+    poppler version, so re-deriving text from the .pdf at CI verification time is
+    nondeterministic across machines. See hash_snapshot() for the CI-stable check, which
+    hashes the .txt already committed alongside the .pdf instead of re-extracting it."""
     import hashlib
     if fmt == "pdf":
         import subprocess
@@ -109,6 +115,21 @@ def content_hash(raw: bytes, fmt: str) -> str:
     norm = normalize_ws(text)
     if len(norm) >= 200:
         return hashlib.sha256(norm.encode("utf-8")).hexdigest()
+    return hashlib.sha256(raw).hexdigest()
+
+
+def hash_snapshot(doc_id: str, fmt: str, snapshot_dir: Path = SNAPSHOT_DIR) -> str:
+    """CI-stable content hash: sha256 of the whitespace-normalized text already
+    committed in <id>.txt (produced once at ingestion time), never re-derived from the
+    .pdf/.html at verification time. Falls back to the raw source file's bytes if no
+    .txt exists or it's too short to be meaningful (image-only scans)."""
+    import hashlib
+    raw = (snapshot_dir / f"{doc_id}.{fmt}").read_bytes()
+    txt_path = snapshot_dir / f"{doc_id}.txt"
+    if txt_path.is_file():
+        norm = normalize_ws(txt_path.read_text(encoding="utf-8", errors="replace"))
+        if len(norm) >= 200:
+            return hashlib.sha256(norm.encode("utf-8")).hexdigest()
     return hashlib.sha256(raw).hexdigest()
 
 
