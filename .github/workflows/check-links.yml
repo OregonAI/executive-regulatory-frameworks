@@ -18,5 +18,6 @@ jobs:
             --no-progress
             --accept 200..=299,403,429
             --exclude-path _meta/snapshots
+            --exclude-path _meta/templates
             "**/*.md" llms.txt
           fail: true

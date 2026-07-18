@@ -7,7 +7,7 @@ apply throughout.
 ## Phase 0 — Discover (agent proposes; human vets the LIST first)
 
 1. Seed from the authoritative index pages:
-   - DAS policies: https://www.oregon.gov/das/Policies/Pages/policies.aspx
+   - DAS policies: https://www.oregon.gov/das/Pages/policies.aspx
    - OARD chapter 125 (DAS): https://secure.sos.state.or.us/oard/displayChapterRules.action?selectedChapter=97
    - ORS chapters 183 / 184 / 276A: https://www.oregonlegislature.gov/bills_laws/Pages/ORS.aspx
    - EIS/CSS standards: https://www.oregon.gov/das/OSCIO/Pages/SecurityResources.aspx
