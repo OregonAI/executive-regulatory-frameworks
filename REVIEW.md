@@ -97,7 +97,8 @@ source. When you review a file, update its `last_verified` to that date — that
 the attestation the review gates call for. Corpus size by directory:
 
 - `agencies/das/accounting-manual/`: 173 documents
-- `agencies/das/policies/`: 133 documents
+- `agencies/das/policies/`: 119 documents
+- `agencies/das/procedures/`: 14 documents
 - `agencies/das/standards/`: 3 documents
 - `agencies/das/standards/eis-css-it-control-standards/`: 18 documents
 - `external-references/`: 1 documents

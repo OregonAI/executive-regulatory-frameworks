@@ -8,6 +8,16 @@ file's frontmatter).
 
 ## [Unreleased]
 
+## [2026-07-18] (3) — procedures split out
+
+### Removed
+
+- 14 procedure documents (`doc_type: procedure`, filenames ending `_pr.md`) moved to
+  the new sibling directory [`../procedures/`](../procedures/_index.md) via `git mv` —
+  procedures aren't policies. No content, hash, or provenance changes; only file
+  location and cross-reference paths. See `../procedures/CHANGELOG.md` for the full
+  list and one `doc_type` mislabel fixed in the same move.
+
 ## [2026-07-18] — scope fix: rebuilt from the listing of record
 
 ### Fixed

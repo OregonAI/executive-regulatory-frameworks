@@ -31,7 +31,7 @@ categories:
     effective_date_listed: 6/10/2025
     file_ref: /das/Policies/107-011-115_PR.pdf
     status: ingested
-    path: agencies/das/policies/das-107-011-115_pr.md
+    path: agencies/das/procedures/das-107-011-115_pr.md
   - number: 107-011-120
     title: Uniform Rent Program
     effective_date_listed: 3/12/2001
@@ -141,7 +141,7 @@ categories:
     effective_date_listed: 3/5/2024
     file_ref: /das/Policies/107-001-002_PR.pdf
     status: ingested
-    path: agencies/das/policies/das-107-001-002_pr.md
+    path: agencies/das/procedures/das-107-001-002_pr.md
   - number: 107-001-010
     title: Continuity of Operations Planning, Statewide
     effective_date_listed: 2/21/2018
@@ -701,7 +701,7 @@ categories:
     effective_date_listed: 5/1/2025
     file_ref: /das/Policies/107-004-015_PR.pdf
     status: ingested
-    path: agencies/das/policies/das-107-004-015_pr.md
+    path: agencies/das/procedures/das-107-004-015_pr.md
   - number: 107-004-030
     title: Independent Quality Management Services for IT Initiatives Policy
     effective_date_listed: 6/9/2025
@@ -713,7 +713,7 @@ categories:
     effective_date_listed: 6/9/2025
     file_ref: /das/Policies/107-004-030_PR.pdf
     status: ingested
-    path: agencies/das/policies/das-107-004-030_pr.md
+    path: agencies/das/procedures/das-107-004-030_pr.md
   - number: 107-004-050
     title: Information Asset Classification
     effective_date_listed: 7/12/2023
@@ -731,7 +731,7 @@ categories:
     effective_date_listed: 6/1/2020
     file_ref: /das/Policies/107-004-130_PR.pdf
     status: ingested
-    path: agencies/das/policies/das-107-004-130_pr.md
+    path: agencies/das/procedures/das-107-004-130_pr.md
   - number: 107-004-160
     title: Data Governance policy
     effective_date_listed: 2/9/2022
@@ -755,7 +755,7 @@ categories:
     effective_date_listed: 3/12/2026
     file_ref: /das/Policies/107-004-180_PR.pdf
     status: ingested
-    path: agencies/das/policies/das-107-004-180_pr.md
+    path: agencies/das/procedures/das-107-004-180_pr.md
   - number: 107-004-190
     title: Responsible Artificial Intelligence Usage policy
     effective_date_listed: 6/16/2026
@@ -767,7 +767,7 @@ categories:
     effective_date_listed: 6/16/2026
     file_ref: /das/Policies/107-004-190_PR.pdf
     status: ingested
-    path: agencies/das/policies/das-107-004-190_pr.md
+    path: agencies/das/procedures/das-107-004-190_pr.md
   - number: 107-004-200
     title: Copilot General Usage policy
     effective_date_listed: 6/16/2026
@@ -779,7 +779,7 @@ categories:
     effective_date_listed: 6/16/2026
     file_ref: /das/Policies/107-004-200_PR.pdf
     status: ingested
-    path: agencies/das/policies/das-107-004-200_pr.md
+    path: agencies/das/procedures/das-107-004-200_pr.md
 - category: IT / Security
   documents:
   - number: 107-004-051
@@ -799,7 +799,7 @@ categories:
     effective_date_listed: 2/17/2026
     file_ref: /das/Policies/107-004-052_PR.pdf
     status: ingested
-    path: agencies/das/policies/das-107-004-052_pr.md
+    path: agencies/das/procedures/das-107-004-052_pr.md
   - number: 107-004-053
     title: Employee Security
     effective_date_listed: 7/30/2007
@@ -835,7 +835,7 @@ categories:
     effective_date_listed: 5/1/2019
     file_ref: /das/Policies/107-004-150_PR.pdf
     status: ingested
-    path: agencies/das/policies/das-107-004-150_pr.md
+    path: agencies/das/procedures/das-107-004-150_pr.md
   - number: 107-004-155
     title: Covered Products and Vendors Policy
     effective_date_listed: 1/1/2026
@@ -847,7 +847,7 @@ categories:
     effective_date_listed: 1/1/2026
     file_ref: /das/Policies/107-004-155_PR.pdf
     status: ingested
-    path: agencies/das/policies/das-107-004-155_pr.md
+    path: agencies/das/procedures/das-107-004-155_pr.md
 - category: Procurement
   documents:
   - number: 107-009-0020
@@ -867,7 +867,7 @@ categories:
     effective_date_listed: 12/16/2020
     file_ref: /das/Policies/107-009-0030_PR.pdf
     status: ingested
-    path: agencies/das/policies/das-107-009-0030_pr.md
+    path: agencies/das/procedures/das-107-009-0030_pr.md
   - number: 107-009-0040
     title: Sustainable Procurement
     effective_date_listed: 7/26/2023
@@ -885,7 +885,7 @@ categories:
     effective_date_listed: 4/28/2025
     file_ref: /das/Policies/107-009-0060_PR.pdf
     status: ingested
-    path: agencies/das/policies/das-107-009-0060_pr.md
+    path: agencies/das/procedures/das-107-009-0060_pr.md
   - number: 107-009-0080
     title: Green Chemistry Procurement Guidelines
     effective_date_listed: 9/10/2014
@@ -895,4 +895,4 @@ categories:
 listed_via_static_links_not_views:
 - number: 107-011-050_PR
   note: linked directly from the Surplus section of policies.aspx, not in any view
-  path: agencies/das/policies/das-107-011-050_pr.md
+  path: agencies/das/procedures/das-107-011-050_pr.md
