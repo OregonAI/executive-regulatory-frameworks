@@ -50,6 +50,13 @@
   [107-004-051 removable media](agencies/das/policies/das-107-004-051.md) ·
   [107-004-100 transporting assets](agencies/das/policies/das-107-004-100.md)
 - [DAS 107-001-020 — Public Records Management](agencies/das/policies/das-107-001-020.md)
+- Facilities/asset management: [107-011-010 energy & conservation](agencies/das/policies/das-107-011-010.md) ·
+  [107-011-050_PR e-waste disposal](agencies/das/policies/das-107-011-050_pr.md) ·
+  [107-011-100 office space design](agencies/das/policies/das-107-011-100.md) ·
+  [107-011-115 office siting](agencies/das/policies/das-107-011-115.md) ·
+  [107-011-150 service animals](agencies/das/policies/das-107-011-150.md) ·
+  [107-011-310 Capitol Mall grounds](agencies/das/policies/das-107-011-310.md) ·
+  [107-011-330 vending services](agencies/das/policies/das-107-011-330.md)
 
 ## DAS Standards (EIS/CSS)
 

@@ -76,6 +76,48 @@ sources:
     last_checked: "2026-07-17"
     recheck: monthly
     notes: "Data Governance. Effective 2/9/2022."
+  - id: das-107-011-010
+    url: https://www.oregon.gov/das/Policies/107-011-010.pdf
+    sha256: c913f87bff52810baa14ad755007c086d1c432763a94e2d41904c1d6d8b72000
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Energy and Resource Conservation. Effective 4/17/2024."
+  - id: das-107-011-050_pr
+    url: https://www.oregon.gov/das/Policies/107-011-050_PR.pdf
+    sha256: e42bd059e8c31804129bf7bbe4bf8a2cc2e0fd8f5576b40983ff7b7e66531e7b
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Sustainable Acquisition and Disposal of Electronic Equipment (e-waste). Effective 3/9/2017."
+  - id: das-107-011-100
+    url: https://www.oregon.gov/das/Policies/107-011-100.pdf
+    sha256: 6a3efb1915de5c55c770176c6f7303ff40df142c9b96b6530889d4b4acc7b32f
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Space Design and Utilization. Effective 5/1/2024."
+  - id: das-107-011-115
+    url: https://www.oregon.gov/das/Policies/107-011-115.pdf
+    sha256: 942f75cde7c3472d9cad33cc6fab5da02f1b602495702e1305a7126db9133118
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Siting State-owned and Leased Office Space. Effective 6/10/2025."
+  - id: das-107-011-150
+    url: https://www.oregon.gov/das/Policies/107-011-150.pdf
+    sha256: 207e58c8a8f9d5b8f1c29d9418326b66e5ac53c1d600a98fb298cf3e97c06fa1
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Service Animals. Effective 5/20/2025."
+  - id: das-107-011-310
+    url: https://www.oregon.gov/das/Policies/107-011-310.pdf
+    sha256: ccea1d130ab386be34ecd44cdc52ff6a4b0936daf14c42131134838795e62def
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Capitol Mall Area Parks and Grounds, Use of. Effective 6/20/2001."
+  - id: das-107-011-330
+    url: https://www.oregon.gov/das/Policies/107-011-330.pdf
+    sha256: fcac1f94f8565a46cb9ddd4d786332c21792f601fd084d4aa08ef851665db7c6
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Vending Services. Effective 6/10/2025."
   # ---- EIS/CSS statewide standards ----
   - id: eis-css-itcs
     url: "https://www.oregon.gov/eis/cyber-security-services/Documents/eis-css-statewide-information-technology(IT)-control-standards.pdf"

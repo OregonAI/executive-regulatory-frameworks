@@ -8,7 +8,27 @@ file's frontmatter).
 
 ## [Unreleased]
 
-## [2026-07-17]
+## [2026-07-18]
+
+### Added
+
+- 107-011 batch (Facilities/Fleet/Asset Management/Surplus, from `_meta/catalog/das-policies.yml`):
+  das-107-011-010 (Energy and Resource Conservation), das-107-011-050_pr (Sustainable
+  Acquisition and Disposal of Electronic Equipment — completes the two-way edge with
+  das-107-004-051), das-107-011-100 (Space Design and Utilization), das-107-011-115
+  (Siting State-owned and Leased Office Space), das-107-011-150 (Service Animals),
+  das-107-011-310 (Capitol Mall Area Parks and Grounds), das-107-011-330 (Vending
+  Services). All fetched, hashed, and quote-verified 2026-07-18. Verified-by @morficflux.
+
+### Fixed
+
+- das-107-004-051: relationship edge to the e-waste procedure resolved from a bare
+  citation (old number 107-009-0050) to the ingested slug das-107-011-050_pr.
+
+### Removed
+
+- Catalog candidate 107-011-111 dropped: the URL 404s, confirmed at verification. Never
+  existed in the ingested corpus.
 
 ### Added
 

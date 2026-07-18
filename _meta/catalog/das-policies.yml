@@ -37,14 +37,14 @@ program_areas:
       - {number: "107-009-0080", title: "Green Chemistry", status: not_ingested}
   - area: Facilities, Fleet, Asset Management, Surplus (107-011)
     policies:
-      - {number: "107-011-010", title: "Statewide Energy Policy", status: not_ingested}
-      - {number: "107-011-050_PR", title: "Sustainable Acquisition and Disposal of Electronic Equipment (E-Waste/Recovery)", status: not_ingested, note: "cited by das-107-004-051 as the disposal-of-electronics companion"}
-      - {number: "107-011-100", title: "Workplace Space Standards", status: not_ingested}
-      - {number: "107-011-111", title: "(title TBD)", status: not_ingested}
-      - {number: "107-011-115", title: "(title TBD; formerly Policy 125-6-115, 1998)", status: not_ingested}
-      - {number: "107-011-150", title: "Service Animals", status: not_ingested}
-      - {number: "107-011-310", title: "Use of Capitol area parks and grounds", status: not_ingested}
-      - {number: "107-011-330", title: "Vending Services and Food Carts", status: not_ingested}
+      - {number: "107-011-010", title: "Energy and Resource Conservation", status: ingested, path: agencies/das/policies/das-107-011-010.md}
+      - {number: "107-011-050_PR", title: "Sustainable Acquisition and Disposal of Electronic Equipment (E-Waste/Recovery)", status: ingested, path: agencies/das/policies/das-107-011-050_pr.md}
+      - {number: "107-011-100", title: "Space Design and Utilization", status: ingested, path: agencies/das/policies/das-107-011-100.md}
+      - {number: "107-011-111", title: "(does not exist — dropped 2026-07-18)", status: not_found, note: "404 on oregon.gov/das/Policies/107-011-111.pdf at verification"}
+      - {number: "107-011-115", title: "Siting State-owned and Leased Office Space", status: ingested, path: agencies/das/policies/das-107-011-115.md, note: "supersedes 1998 Policy 125-6-115"}
+      - {number: "107-011-150", title: "Service Animals", status: ingested, path: agencies/das/policies/das-107-011-150.md}
+      - {number: "107-011-310", title: "Capitol Mall Area Parks and Grounds, Use of", status: ingested, path: agencies/das/policies/das-107-011-310.md}
+      - {number: "107-011-330", title: "Vending Services in State Office Buildings and Grounds Controlled by the Department", status: ingested, path: agencies/das/policies/das-107-011-330.md}
   - area: Human Resources (50-xxx)
     policies:
       - {number: "50-000-01", title: "Drug-Free Workplace", status: not_ingested}

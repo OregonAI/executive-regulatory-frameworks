@@ -1,0 +1,215 @@
+                                                          NUMBER                     SUPERSEDES
+
+                                                          107-011-050_PR             Policy #107-009-0050
+                                                                                     July 1, 2012
+ STATEWIDE PROCEDURE                                      EFFECTIVE DATE             PAGE NUMBER
+
+                                                          March 9, 2017              Pages 1 of 4
+                                                          REVIEWED DATE
+
+                                                          June 23, 2022
+ Division                                                 REFERENCE/AUTHORITY
+
+ Enterprise Asset Management                              Governor's Executive Order 06-02; ORS 279, 279A.075,
+                                                          279A.250-279A.280; OAR 125-050 and OAR 125-246-0800;
+                                                          EPEAT Criteria: https://www.epeat.net/about-epeat
+ Procedure Owner
+
+ Surplus Property
+ SUBJECT                                                  APPROVED SIGNATURE
+
+ Sustainable Acquisition and Disposal of                  Katy Coba, COO & DAS Director
+ Electronic Equipment (e-waste/recovery)                  Signature on file with DAS Business Services
+
+PURPOSE
+This procedure directs state agencies in acquiring and disposing of electronic equipment; it supports the
+Governor's Executive Order 06-02, Sustainability for the 21st Century, and adopts the Electronic Products and
+Acquisition Technology (EPEAT) standards. Procedure objectives:
+
+        1. Prevent hazardous materials from entering the waste stream
+        2. Consider the "end-of-life" cost in the overall cost of acquiring electronic equipment
+        3. Maximize the re-use of all universal waste and materials contained in or used in electronic
+           equipment
+        4. Encourage the design and manufacture of new electronic equipment with re-use in mind
+        5. Refurbish electronic equipment for re-use with minimal energy consumption
+        6. Prevent the release of sensitive or protected information from the state's control
+
+APPLICABILITY
+All state agencies subject to the authority of the Department of Administrative Services under ORS 279 and
+279A. State agencies with independent authority may voluntarily apply the standards of this procedure.
+
+REFERENCE
+    •   U.S. Department of Commerce National Institute of Standards and Technology Special Publication 800-
+        88 found at: http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-88r1.pdf; referred to
+        within this procedure as federal publication 800-88.
+
+    •   Memo to state agencies regarding “Personal Property Disposition.”
+
+    •   Guidance for State Agencies Disposing of Surplus Personal Property and Vehicles or Heavy
+        Equipment
+
+
+
+
+Procedure No: 107-011-050_PR | Effective: March 9, 2017                                                     Page 1 of 4
+DEFINITIONS
+Electronic waste (e-waste):
+
+       1. Obsolete or non-working electronic equipment and electronics that have memory that could contain
+          sensitive or confidential data. Examples: information technology equipment, televisions, copiers,
+          facsimile machines, medical equipment, telephones, radios, electronic test equipment, etc.
+
+       2. Other equipment primarily made of circuit boards, CRT monitors, plasma monitors, and liquid crystal
+          displays.
+
+           Please contact the DAS Surplus Property Program with any questions: 503-378-6020
+
+Authorized e-waste contractor: A vendor under state contract for the disposal of e-waste. The vendor’s
+operation meets the disposal criteria set forth in this procedure, and for a fee provides agencies with
+Certificates of Destruction.
+
+Authorized IT supply vendor: A supplier with a price agreement or contract awarded by DAS Procurement
+Services to sell appropriate IT goods to state agencies and local governments.
+
+Certificate of Destruction: A document from a manufacturer or vendor or Authorized e-waste
+contractor that certifies all data, operating system software, information, or formatting was irretrievably
+destroyed following the approved sanitization methods in federal publication 800-88.
+
+Disposal criteria for e-waste:
+
+       1. Data/information: Complete removal and absolute destruction of all data, information, operating
+          system software, firmware or non-writeable read-only media and formatting per federal publication
+          800-88.
+
+       2. Hardware:
+          a) Safe transfer of all hazardous material to a re-use facility or an EPA-approved hazardous
+             waste site
+          b) Re-use of all materials in their existing or elemental form
+          c) No hazardous materials deposited in any landfill
+          d) No transfer of hardware or components to another country without disassembly or de-
+             manufacture
+
+End-Of-Life (EOL) management: Standards for design, acquisition, shipping, configuration and
+programming of equipment that maximizes safe re-use of all materials at the lowest cost and energy
+consumpt ion.
+
+EPEAT: A procurement tool to help purchasers evaluate, compare and select desktop computers,
+notebooks and monitors based on environmental attributes. EPEAT provides a clear and consistent set of
+performance criteria for the design of products and recognizes manufacturers for reducing the
+environmental impact of products.
+
+Vendor or Manufacturer's Buy Back/Take Back Program: Usually offered as "green" or "environmentally
+preferred" purchases within state price agreements. The vendor or manufacturer must certify the sustainable
+disposal of all returned components and the destruction of all data per federal publication 800-88.
+Manufacturers must supply the originating state agency with a Manufacturer’s Disposal Receipt and a
+Certificate of Destruction.
+
+Manufacturer's Disposal Receipt: Documentation of the transfer of e-waste from a state agency to an
+authorized IT supply vendor.
+
+Procedure No: 107-011-050_PR | Effective: March 9, 2017                                               Page 2 of 4
+Obsolete IT equipment: IT equipment that is no longer commonly used by the agency or the public.
+
+DAS Procurement Services: The Department of Administrative Services' program responsible for
+developing contracts and price agreements for e-waste disposal and IT equipment purchases; manages
+the Manufacturer's Buy Back/Take Back Program.
+
+DAS Surplus Property: The Department of Administrative Services’ program responsible for this procedure
+and the disposal of excess and surplus property; operates the Property Distribution Center for receiving excess
+and surplus agency property, excluding e-waste.
+
+
+GUIDELINES
+All state agencies subject to the authority of the Department of Administrative Services under ORS 279 and
+279A will acquire, identify, and manage all IT equipment to maximize investments and plan for end-of-life
+management. State agencies will use one of the following options to transfer ownership of all e-waste.
+
+  I.    OPTION 1 - Vendor or Manufacturer Buy-Back/Take-Back Program
+
+        State agencies may return e-waste to a manufacturer or vendor with a current state price agreement
+        that contains Buy-Back or Take-Back provisions.
+
+  II.   OPTION 2 - E-waste Refurbishing and Recycling Program
+
+        State agencies will transfer all e-waste directly to the state's Authorized E-waste Contractor.
+
+ III.   OPTION 3 – Interagency Sale or Transfer
+
+        State agencies may transfer computers or other technology devices with memory (i.e., cell phones,
+        printers, etc.) to another state agency.
+
+PROCEDURE
+OPTION 1 - Vendor or Manufacturer Buy-Back/Take-Back Program
+
+ RESPONSIBILITY              STEP      ACTION
+ DAS Procurement                1      Maintains Manufacturer's Buy Back/Take Back programs in all contracts,
+ Services                              price agreements, intergovernmental agreements, and cooperative price
+                                       agreements. The cost of disposal may be included in the acquisition price
+                                       or charged as a fee. An Authorized IT Supply Vendor must certify
+                                       destruction of sensitive and confidential information per federal publication
+                                       800-88 and dispose of hardware items according to Oregon Department of
+                                       Environmental Quality and US Environmental Protection Agency
+                                       hazardous waste rules. Procurement Services requires a supplier with an
+                                       authorized Manufacturer's Buy Back/Take Back program to furnish a
+                                       Manufacturer's Disposal Receipt and a Certificate of Destruction to the
+                                       agency that disposed of the e-waste.
+
+ State Agency                   2      Uses any vendor with a current state price agreement that contains Buy-
+                                       Back/Take Back provisions, but only for one-to-one replacement of existing
+                                       equipment.
+
+ DAS Surplus Property           3      Delegates its authority to dispose of e-waste (under ORS 279A.280(C)) to
+                                       the state agencies that return e-waste to an electronic product
+
+Procedure No: 107-011-050_PR | Effective: March 9, 2017                                                     Page 3 of 4
+ RESPONSIBILITY              STEP      ACTION
+                                       manufacturer or a vendor that meets the data sanitization/clearing and
+                                       disposal requirements per federal publication 800-88.
+
+
+OPTION 2 - E-waste Refurbishing and Recycling Program
+
+ RESPONSIBILITY              STEP      ACTION
+ State Agency                   1      Contacts the Authorized E-waste Contractor directly to arrange transfer of
+                                       e-waste. Agencies must document the removal of the items from their
+                                       possession.
+
+ Authorized E-waste             2      Sends invoice to the originating agency for any e-waste disposal charges.
+ Contractor                            If requested, provides a Certificate of Destruction for a fee.
+
+                                3      Maintains R2/RIOS certification and ensures all hard-drives are cleared as
+                                       per federal publication 800-88. Authorized E-waste Contractor will
+                                       document the data removal and system specifications for all e­waste items
+                                       refurbished and sold or transferred.
+
+                                4      Recovers costs for ultimate disposal and information security/data removal
+                                       through a disposal fee. Authorized E-waste Contractor will use revenue
+                                       from the sale of refurbished e-waste to offset costs for e-waste disposal.
+                                       Current disposal fee information appears at:
+                                       https://www.oregon.gov/das/Surplus/Pages/E-waste.aspx
+
+
+
+OPTION 3 – Interagency Sale or Transfer
+
+ RESPONSIBILITY              STEP      ACTION
+ State Agency with              1      The agency making computers available must ensure that all data is
+ Items to Transfer                     removed according to federal publication 800-88 prior to the transfer.
+                                       Failure to adhere to proper handling of sensitive or confidential data could
+                                       result in personal or agency liability.
+
+                                2      Make the transfer through the current DAS Surplus Property Program
+                                       inventory tracking system. The system’s name at the time of this writing is
+                                       “Reuse.”
+
+ State Agency                   3      The receiving agency is responsible for adhering to software licensing laws
+ Receiving Items                       and software manufacturer requirements.
+
+                                4      When the items are obsolete or no longer functional, the receiving agency
+                                       must dispose of the items following the guidelines in this procedure.
+
+
+
+
+Procedure No: 107-011-050_PR | Effective: March 9, 2017                                                    Page 4 of 4
+

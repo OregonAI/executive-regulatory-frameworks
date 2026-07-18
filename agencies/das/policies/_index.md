@@ -19,6 +19,13 @@ Procedures carry a `_PR` suffix. **Non-authoritative copies.**
 | DAS 107-004-140 | Privileged Access to Information Systems | current | 2013-07-10 | [das-107-004-140.md](das-107-004-140.md) |
 | DAS 107-004-150 | Cloud and Hosted Systems | current | 2019-05-01 | [das-107-004-150.md](das-107-004-150.md) |
 | DAS 107-004-160 | Data Governance | current | 2022-02-09 | [das-107-004-160.md](das-107-004-160.md) |
+| DAS 107-011-010 | Energy and Resource Conservation | current | 2024-04-17 | [das-107-011-010.md](das-107-011-010.md) |
+| DAS 107-011-050_PR | Sustainable Acquisition and Disposal of Electronic Equipment | current | 2017-03-09 | [das-107-011-050_pr.md](das-107-011-050_pr.md) |
+| DAS 107-011-100 | Space Design and Utilization | current | 2024-05-01 | [das-107-011-100.md](das-107-011-100.md) |
+| DAS 107-011-115 | Siting State-owned and Leased Office Space | current | 2025-06-10 | [das-107-011-115.md](das-107-011-115.md) |
+| DAS 107-011-150 | Service Animals | current | 2025-05-20 | [das-107-011-150.md](das-107-011-150.md) |
+| DAS 107-011-310 | Capitol Mall Area Parks and Grounds, Use of | current | 2001-06-20 | [das-107-011-310.md](das-107-011-310.md) |
+| DAS 107-011-330 | Vending Services | current | 2025-06-10 | [das-107-011-330.md](das-107-011-330.md) |
 
 ## How to find the right policy
 
@@ -31,6 +38,9 @@ Procedures carry a `_PR` suffix. **Non-authoritative copies.**
 - **Incident response:** 107-004-120. **Cloud contracts:** 107-004-150. **Removable
   media:** 107-004-051; transporting media: 107-004-100. **Asset inventory:** 107-004-010.
 - **Public records:** 107-001-020.
+- **Facilities/asset management:** energy & conservation 107-011-010; e-waste disposal
+  107-011-050_PR; office space design 107-011-100; office siting 107-011-115; service
+  animals 107-011-150; Capitol Mall grounds use 107-011-310; vending 107-011-330.
 - **For the underlying control requirements** a policy points to, see
   [../standards/](../standards/_index.md).
 - ⚠️ 107-004-051 and 107-004-100 are image-only scans: summary-only files, no verbatim
