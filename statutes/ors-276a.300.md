@@ -117,8 +117,8 @@ section.
 ## Cross-references
 
 - [OAR 128-030-0020 — State Information Security](../rules/128/030/oar-128-030-0020.md)
-- [DAS 107-004-052 — Cyber and Information Security](../agencies/das/policies/das-107-004-052.md)
-- [Statewide IT Control Standards](../agencies/das/standards/eis-css-itcs.md)
+- [DAS 107-004-052 — Cyber and Information Security](../agencies/administrative-services-department/policies/das-107-004-052.md)
+- [Statewide IT Control Standards](../agencies/administrative-services-department/standards/eis-css-itcs.md)
 
 ## Provenance & change history
 

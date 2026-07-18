@@ -38,7 +38,7 @@ The full design rationale lives in [repo-design.md](repo-design.md).
 statutes/            ORS — Oregon Revised Statutes (jurisdiction-wide)
 rules/               OAR — Oregon Administrative Rules (chapter/division)
 executive-orders/    Governor's executive orders
-agencies/das/        DAS-scoped: policies/ · accounting-manual/ · standards/
+agencies/administrative-services-department/   DAS-scoped: policies/ · procedures/ · accounting-manual/ · standards/
 external-references/ Non-policy documents that policies require agencies to uphold
 _meta/               Schemas, templates, intake skill, source manifest, snapshots
 src/                 Validation tooling (frontmatter, provenance, change detection)

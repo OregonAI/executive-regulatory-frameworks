@@ -15,6 +15,17 @@ from repo_lib import (
 
 SLUG_RE = re.compile(r"^[a-z0-9][a-z0-9._-]*[a-z0-9]$")
 
+# The 'agency:' field is grounded in the state's own organization directory (see
+# src/catalog_agencies.py) rather than free-typed -- a hard error here is what makes
+# that grounding real instead of a suggestion. 'statewide' covers jurisdiction-wide
+# bodies (ORS/OAR/EO); 'external' covers third-party references.
+AGENCY_SPECIAL = {"statewide", "external"}
+
+
+def _agency_registry():
+    cat = yaml.safe_load((REPO_ROOT / "_meta/catalog/agencies.yml").read_text())
+    return {o["slug"] for o in cat["organizations"]}
+
 # DIR_DOC_TYPE (imported above) maps directory name -> the one doc_type allowed to
 # live there. Enforced here as a hard error (not a warning) so a document can never
 # be merged into the wrong knowledge body, regardless of which script or human
@@ -26,6 +37,7 @@ def main():
     r = Reporter()
     doc_schema = json.loads((SCHEMA_DIR / "document.frontmatter.schema.json").read_text())
     validator = jsonschema.Draft202012Validator(doc_schema)
+    agency_registry = _agency_registry()
 
     docs = {}
     for path in content_files():
@@ -42,6 +54,12 @@ def main():
             r.error(rel, f"id '{fm.get('id')}' != filename stem '{path.stem}'")
         if "NON-AUTHORITATIVE" not in body:
             r.error(rel, "missing NON-AUTHORITATIVE disclaimer block in body")
+
+        agency = fm.get("agency")
+        if agency not in AGENCY_SPECIAL and agency not in agency_registry:
+            r.error(rel, f"agency '{agency}' is not 'statewide'/'external' and not in "
+                        "the agency registry (_meta/catalog/agencies.yml — refresh with "
+                        "src/catalog_agencies.py if the state added/renamed this org)")
 
         # Directory <-> doc_type: a document may only live in the one knowledge-body
         # directory designated for its doc_type (see DIR_DOC_TYPE above). The

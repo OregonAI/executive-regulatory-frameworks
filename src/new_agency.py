@@ -1,8 +1,13 @@
 #!/usr/bin/env python3
 """Scaffold a new agency into the repo — the mechanical first step of onboarding.
 
-  python3 src/new_agency.py <slug> --title "Oregon Department of X" \\
-      [--bodies policies,procedures] [--abbr ODX]
+  python3 src/new_agency.py <slug> [--bodies policies,procedures]
+
+<slug> MUST be a slug from the canonical agency registry
+(_meta/catalog/agencies.yml, grounded in the state's own organization directory —
+see src/catalog_agencies.py). Look yours up first:
+
+  python3 src/catalog_agencies.py "department of transportation"
 
 Creates (never overwrites; idempotent — re-run to add bodies later):
   agencies/<slug>/_index.md                 agency-level map
@@ -15,11 +20,11 @@ the agency's real listing of record (find the data-tables-web-part SharePoint co
 behind its oregon.gov policy page; see AGENTS.md and _meta/skills/intake.md). The
 printed next-steps checklist walks the rest of the onboarding flow."""
 import argparse
-import re
 import sys
 from datetime import date
 from pathlib import Path
 
+import catalog_agencies
 from repo_lib import DIR_DOC_TYPE, JURISDICTION_WIDE_DIRS, REPO_ROOT
 
 TODAY = date.today().isoformat()
@@ -34,7 +39,8 @@ def body_index(slug, title, body):
 (`agency: {slug}`). **Non-authoritative copies** — see [AGENTS.md](../../../AGENTS.md).
 
 <!-- TODO: after the first ingest batch, describe the listing of record here and add
-the document table (see agencies/das/policies/_index.md for the pattern). -->
+the document table (see
+agencies/administrative-services-department/policies/_index.md for the pattern). -->
 
 | Citation | Title | Status | Path |
 |---|---|---|---|
@@ -85,15 +91,23 @@ sources: []
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("slug", help="agency slug (lowercase, e.g. 'odot', 'oha')")
-    ap.add_argument("--title", required=True, help='full name, e.g. "Oregon Department of Transportation"')
+    ap.add_argument("slug", help="a slug from _meta/catalog/agencies.yml "
+                                 "(look it up with catalog_agencies.py '<search term>')")
     ap.add_argument("--bodies", default="policies,procedures",
                     help=f"comma-separated from: {','.join(AGENCY_BODIES)}")
     args = ap.parse_args()
 
     slug = args.slug
-    if not re.fullmatch(r"[a-z][a-z0-9-]*", slug):
-        sys.exit(f"slug must be lowercase [a-z0-9-], got {slug!r}")
+    registry = {o["slug"]: o["name"] for o in catalog_agencies.load()["organizations"]}
+    if slug not in registry:
+        suggestions = catalog_agencies.find(slug.replace("-", " "))
+        sys.exit(f"{slug!r} is not in the agency registry (_meta/catalog/agencies.yml).\n"
+                 + (f"Did you mean one of:\n" +
+                    "\n".join(f"  {o['slug']}  ({o['name']})" for o in suggestions)
+                    if suggestions else
+                    "Search with: python3 src/catalog_agencies.py '<search term>'"))
+    title = registry[slug]
+    args.title = title
     bodies = [b.strip() for b in args.bodies.split(",") if b.strip()]
     bad = [b for b in bodies if b not in AGENCY_BODIES]
     if bad:

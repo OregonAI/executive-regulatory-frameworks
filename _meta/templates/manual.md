@@ -7,7 +7,7 @@ citation: "OAM XX.XX.XX"
 # ---- Authority ----
 authority_level: state_policy           # required (agency_procedure for _PR docs)
 issuing_body: "ISSUING DIVISION"        # required
-agency: das                             # required
+agency: administrative-services-department                             # required
 legal_authority: []                     # e.g., ["ORS 276A.300", "OAR 125-800"]
 # ---- Provenance (anti-fabrication core) ----
 source_url: "https://www.oregon.gov/das/Financial/Acctng/Documents/XX.XX.XX.pdf"  # take href from the OAM listing row, never construct   # required

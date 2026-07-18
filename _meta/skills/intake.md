@@ -4,11 +4,13 @@ A spec-driven, human-gated pipeline for bringing a document into the repository.
 follow this checklist exactly; the hard content rules in [AGENTS.md](../../AGENTS.md)
 apply throughout.
 
-**Onboarding a whole new agency?** Scaffold first —
-`python3 src/new_agency.py <slug> --title "Full Agency Name"` creates the
-`agencies/<slug>/` tree (per-body `_index.md` + `CHANGELOG.md`) and an update-group
-stub, then prints the onboarding checklist. Discovery below proceeds per body from the
-agency's own listing of record.
+**Onboarding a whole new agency?** Look up its slug in the canonical registry first —
+`python3 src/catalog_agencies.py "<search term>"` (grounded in the state's own
+organization directory, `_meta/catalog/agencies.yml`; refresh with
+`catalog_agencies.py --refresh` if the org is missing/renamed). Then
+`python3 src/new_agency.py <slug>` creates the `agencies/<slug>/` tree (per-body
+`_index.md` + `CHANGELOG.md`) and an update-group stub, then prints the onboarding
+checklist. Discovery below proceeds per body from the agency's own listing of record.
 
 ## Phase 0 — Discover (agent proposes; human vets the LIST first)
 

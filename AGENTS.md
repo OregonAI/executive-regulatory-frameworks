@@ -96,7 +96,8 @@ Absolute do-nots:
 
 **Answering policy questions**: quote directly from the relevant document's `## Full
 text` section and cite the file path plus the source's own section number (e.g.
-`agencies/das/policies/das-107-004-052.md`, General Information (4)). No external fetch
+`agencies/administrative-services-department/policies/das-107-004-052.md`, General
+Information (4)). No external fetch
 is needed for state-authored content.
 
 ## Workflows
@@ -104,10 +105,18 @@ is needed for state-authored content.
 - **Ingesting a new document**: follow `_meta/skills/intake.md` (spec-driven, two human
   review gates: manifest approval before ingestion; CODEOWNER review before merge). Use the
   templates in `_meta/templates/` and register the source in its update group under `_meta/sources/`.
-- **Onboarding a new agency**: `python3 src/new_agency.py <slug> --title "Full Name"`
-  scaffolds the `agencies/<slug>/` tree and update-group stub, and prints the
-  onboarding checklist; then follow the intake skill per knowledge body. Known
-  deferred generalizations for multi-agency scale live in [BACKLOG.md](BACKLOG.md).
+- **Agency registry**: `_meta/catalog/agencies.yml` is the canonical list of
+  executive-branch agencies/boards/commissions, grounded in the state's own
+  organization directory (not repo-invented), refreshed via
+  `python3 src/catalog_agencies.py --refresh`. Every content file's `agency:` field
+  must be `statewide`, `external`, or a slug from this registry —
+  `validate_frontmatter.py` hard-fails otherwise.
+- **Onboarding a new agency**: look up its registry slug
+  (`python3 src/catalog_agencies.py "<search term>"`), then
+  `python3 src/new_agency.py <slug>` scaffolds the `agencies/<slug>/` tree and
+  update-group stub, and prints the onboarding checklist; then follow the intake
+  skill per knowledge body. Known deferred generalizations for multi-agency scale
+  live in [BACKLOG.md](BACKLOG.md).
 - **Checking for / applying upstream changes**: use the `/check-updates` skill
   (`.claude/skills/check-updates`) — group-scoped, token-efficient, driven by
   `src/check_updates.py` over the update groups in `_meta/sources/`. Log a

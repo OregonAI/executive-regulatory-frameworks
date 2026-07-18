@@ -64,7 +64,7 @@ def flow_to_lines(norm_text: str) -> str:
 def output_dir_for(doc_type: str, agency: str | None = None) -> Path:
     """The one correct directory for a new document of this doc_type — the single
     place ingestion code should derive a target path from, instead of hand-typing
-    'agencies/das/policies' (or similar) and risking the procedures/policies mixup
+    'agencies/<slug>/policies' (or similar) and risking the procedures/policies mixup
     this function exists to prevent. Mirrors DIR_DOC_TYPE / validate_frontmatter.py's
     CI-enforced check, so a mistake here would be caught even without this helper —
     but using it means new code is correct by construction."""

@@ -40,10 +40,10 @@ tags: ["nist", "control-framework", "external"]
 
 ## Why it's here
 
-Oregon's [Statewide IT Control Standards](../agencies/das/standards/eis-css-itcs.md)
+Oregon's [Statewide IT Control Standards](../agencies/administrative-services-department/standards/eis-css-itcs.md)
 state that they align with "the moderate control families of the National Institute of
 Standards and Technology Special Publication 800-53 Revision 5," and the
-[2023 Security Program Plan](../agencies/das/standards/eis-css-program-plan-2023.md)
+[2023 Security Program Plan](../agencies/administrative-services-department/standards/eis-css-program-plan-2023.md)
 derives its objectives from it. The Oregon control families (AC, AT, AU, …, SR) and
 control numbering follow this catalog.
 
@@ -57,9 +57,9 @@ timeframes) in its statewide standards.
 
 ## Referenced by (in-repo)
 
-- [Statewide IT Control Standards](../agencies/das/standards/eis-css-itcs.md) and its
-  [per-family inventories](../agencies/das/standards/eis-css-it-control-standards/_index.md)
-- [2023 Statewide Information Security Program Plan](../agencies/das/standards/eis-css-program-plan-2023.md)
+- [Statewide IT Control Standards](../agencies/administrative-services-department/standards/eis-css-itcs.md) and its
+  [per-family inventories](../agencies/administrative-services-department/standards/eis-css-it-control-standards/_index.md)
+- [2023 Statewide Information Security Program Plan](../agencies/administrative-services-department/standards/eis-css-program-plan-2023.md)
 
 ## Provenance
 
