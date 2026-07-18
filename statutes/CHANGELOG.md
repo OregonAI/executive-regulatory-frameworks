@@ -8,6 +8,21 @@ file's frontmatter).
 
 ## [Unreleased]
 
+## [2026-07-18] (3)
+
+### Added
+
+- 9 more DAS-associated ORS chapters, full text per section, via the new
+  `src/catalog_ors.py` (TOC discovery) + existing `src/ingest_ors.py` pipeline: 240
+  (State Personnel Relations, 64), 276 (Public Facilities, 99), 278 (Insurance for
+  Public Bodies, 22), 279A (Public Contracting — General Provisions, 51), 279B (Public
+  Procurements, 46), 279C (Public Improvements, 104), 282 (Public Printing, 16), 283
+  (Interagency Services, 45), 292 (Salaries and Expenses of State Officers and
+  Employees, 54) — 501 sections. 10 further catalog entries marked `not_sliceable`
+  (no section body in the chapter text). Corpus now spans every ORS chapter the
+  Department of Administrative Services derives authority from or administers policy
+  under. Verified-by @morficflux (machine verification; human review pending).
+
 ## [2026-07-18] (2)
 
 ### Added

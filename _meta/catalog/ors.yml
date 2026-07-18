@@ -1222,6 +1222,2130 @@ chapters:
     title: Oregon Government Ethics Commission advisory opinions and advice
     status: ingested
     path: statutes/ors-192.665.md
+- chapter: '240'
+  title: State Personnel Relations
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors240.html
+  sections:
+  - number: '240.005'
+    title: Short title
+    status: not_sliceable
+    note: no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference
+      artifact); not ingested
+  - number: '240.010'
+    title: Purpose of chapter
+    status: ingested
+    path: statutes/ors-240.010.md
+  - number: '240.011'
+    title: Policy on public service contracts; review
+    status: ingested
+    path: statutes/ors-240.011.md
+  - number: '240.012'
+    title: Job sharing; policy statement
+    status: ingested
+    path: statutes/ors-240.012.md
+  - number: '240.013'
+    title: Job-sharing positions; adjustment of benefits and detriments
+    status: ingested
+    path: statutes/ors-240.013.md
+  - number: '240.015'
+    title: Definitions
+    status: ingested
+    path: statutes/ors-240.015.md
+  - number: '240.055'
+    title: Personnel Division
+    status: ingested
+    path: statutes/ors-240.055.md
+  - number: '240.057'
+    title: Administrator of Personnel Division; appointment
+    status: ingested
+    path: statutes/ors-240.057.md
+  - number: '240.060'
+    title: Employment Relations Board; qualification of members; outside activities
+    status: ingested
+    path: statutes/ors-240.060.md
+  - number: '240.065'
+    title: Appointment; terms; vacancies
+    status: ingested
+    path: statutes/ors-240.065.md
+  - number: '240.071'
+    title: Compensation and expenses of members
+    status: ingested
+    path: statutes/ors-240.071.md
+  - number: '240.075'
+    title: Removal of members
+    status: ingested
+    path: statutes/ors-240.075.md
+  - number: '240.080'
+    title: Chairperson appointed by Governor; meetings; quorum; hearings
+    status: ingested
+    path: statutes/ors-240.080.md
+  - number: '240.086'
+    title: Duties of board; rules
+    status: ingested
+    path: statutes/ors-240.086.md
+  - number: '240.088'
+    title: Review of arbitration awards after written exceptions filed
+    status: ingested
+    path: statutes/ors-240.088.md
+  - number: '240.100'
+    title: Administer oaths; subpoena witnesses; compel production of papers
+    status: ingested
+    path: statutes/ors-240.100.md
+  - number: '240.105'
+    title: Use of public facilities of state or municipalities
+    status: ingested
+    path: statutes/ors-240.105.md
+  - number: '240.115'
+    title: Action to secure compliance with chapter
+    status: ingested
+    path: statutes/ors-240.115.md
+  - number: '240.123'
+    title: Board personnel; counsel
+    status: ingested
+    path: statutes/ors-240.123.md
+  - number: '240.131'
+    title: Employment Relations Board Administrative Account
+    status: ingested
+    path: statutes/ors-240.131.md
+  - number: '240.145'
+    title: Duties of administrator; rules
+    status: ingested
+    path: statutes/ors-240.145.md
+  - number: '240.160'
+    title: Agency personnel officers
+    status: ingested
+    path: statutes/ors-240.160.md
+  - number: '240.165'
+    title: Cost of operating Personnel Division divided among various agencies of state government
+    status: ingested
+    path: statutes/ors-240.165.md
+  - number: '240.167'
+    title: Cost of operating Employment Relations Board divided among various divisions of state government
+    status: ingested
+    path: statutes/ors-240.167.md
+  - number: '240.170'
+    title: Oregon Department of Administrative Services Operating Fund
+    status: ingested
+    path: statutes/ors-240.170.md
+  - number: '240.185'
+    title: Maximum number of state employees; applicability; exceptions CATEGORIES OF SERVICE; CLASSIFICATION
+      AND COMPENSATION PLANS
+    status: ingested
+    path: statutes/ors-240.185.md
+  - number: '240.190'
+    title: Policy on comparability of value of work and compensation and classification
+    status: ingested
+    path: statutes/ors-240.190.md
+  - number: '240.195'
+    title: Categories of positions in state service
+    status: ingested
+    path: statutes/ors-240.195.md
+  - number: '240.200'
+    title: Exempt service
+    status: ingested
+    path: statutes/ors-240.200.md
+  - number: '240.205'
+    title: Unclassified service
+    status: ingested
+    path: statutes/ors-240.205.md
+  - number: '240.210'
+    title: Classified service
+    status: ingested
+    path: statutes/ors-240.210.md
+  - number: '240.212'
+    title: Management service
+    status: ingested
+    path: statutes/ors-240.212.md
+  - number: '240.215'
+    title: Classification plan; job share; career ladder; transfers
+    status: ingested
+    path: statutes/ors-240.215.md
+  - number: '240.217'
+    title: Certain reclassifications prohibited
+    status: ingested
+    path: statutes/ors-240.217.md
+  - number: '240.227'
+    title: Salary for legislator appointed to exempt, unclassified or management service
+    status: ingested
+    path: statutes/ors-240.227.md
+  - number: '240.235'
+    title: Compensation plan for classified service
+    status: ingested
+    path: statutes/ors-240.235.md
+  - number: '240.240'
+    title: Application of chapter to unclassified or management service
+    status: ingested
+    path: statutes/ors-240.240.md
+  - number: '240.245'
+    title: Application of chapter to exempt service
+    status: ingested
+    path: statutes/ors-240.245.md
+  - number: '240.250'
+    title: Rules applicable to management service METHOD OF SELECTING EMPLOYEES FOR SERVICE IN CLASSIFIED
+      POSITIONS
+    status: ingested
+    path: statutes/ors-240.250.md
+  - number: '240.306'
+    title: Recruitment, selection and promotion of state employees; criteria; procedures; duties of department
+    status: ingested
+    path: statutes/ors-240.306.md
+  - number: '240.307'
+    title: Procedure for enforcement of ORS
+    status: ingested
+    path: statutes/ors-240.307.md
+  - number: '240.309'
+    title: Temporary appointments; limitations; duration; extension; periodic reports; post-audit review;
+      investigation; exceptions
+    status: ingested
+    path: statutes/ors-240.309.md
+  - number: '240.311'
+    title: Delegation of authority and responsibility by division; post-audit review
+    status: ingested
+    path: statutes/ors-240.311.md
+  - number: '240.316'
+    title: Trial service; regular status; procedures for transfer, demotion and separation of employees
+    status: ingested
+    path: statutes/ors-240.316.md
+  - number: '240.321'
+    title: Collective bargaining; effect of collective bargaining agreements on personnel rules; grievance
+      procedures
+    status: ingested
+    path: statutes/ors-240.321.md
+  - number: '240.395'
+    title: Suspension of merit system in emergencies; reinstatement
+    status: ingested
+    path: statutes/ors-240.395.md
+  - number: '240.400'
+    title: Designation by appointing authority of staff employees to act as alternates EMPLOYER-REQUESTED
+      INTERVIEWS
+    status: ingested
+    path: statutes/ors-240.400.md
+  - number: '240.406'
+    title: Right of unclassified or exempt employee to be accompanied to employer-requested interview
+      REMOVAL DURING TRIAL SERVICE; SEASONAL EMPLOYEES; MERIT RATINGS
+    status: ingested
+    path: statutes/ors-240.406.md
+  - number: '240.410'
+    title: Removals during trial period
+    status: ingested
+    path: statutes/ors-240.410.md
+  - number: '240.425'
+    title: Regular seasonal employees
+    status: ingested
+    path: statutes/ors-240.425.md
+  - number: '240.430'
+    title: Merit ratings STATE MANAGEMENT CREDENTIALS PROGRAM
+    status: not_sliceable
+    note: no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference
+      artifact); not ingested
+  - number: '240.435'
+    title: State Management Credentials Program required; purpose WORKING HOURS; LEAVES; DISCIPLINE; REEMPLOYMENT
+    status: ingested
+    path: statutes/ors-240.435.md
+  - number: '240.546'
+    title: Payments in lieu of sick leave with pay; rules; exclusions
+    status: ingested
+    path: statutes/ors-240.546.md
+  - number: '240.551'
+    title: Working hours, holidays, leaves of absence and vacations of employees in state classified service
+    status: ingested
+    path: statutes/ors-240.551.md
+  - number: '240.555'
+    title: Suspension, reduction, demotion or dismissal
+    status: ingested
+    path: statutes/ors-240.555.md
+  - number: '240.560'
+    title: Appeal procedure
+    status: ingested
+    path: statutes/ors-240.560.md
+  - number: '240.563'
+    title: Judicial review
+    status: ingested
+    path: statutes/ors-240.563.md
+  - number: '240.570'
+    title: Classified employee filling position in unclassified, exempt or management service
+    status: ingested
+    path: statutes/ors-240.570.md
+  - number: '240.580'
+    title: Service credits for service in unclassified service
+    status: ingested
+    path: statutes/ors-240.580.md
+  - number: '240.590'
+    title: Reemployment of employee in exempt service BOARD FEES
+    status: ingested
+    path: statutes/ors-240.590.md
+  - number: '240.610'
+    title: Mediation service fee; labor relations and negotiation training fee; amount; payment; disposition
+      of fees PROHIBITED CONDUCT
+    status: ingested
+    path: statutes/ors-240.610.md
+  - number: '240.710'
+    title: Certain acts unlawful
+    status: ingested
+    path: statutes/ors-240.710.md
+  - number: '240.750'
+    title: When discipline action not to be retained in personnel file MISCELLANEOUS
+    status: ingested
+    path: statutes/ors-240.750.md
+  - number: '240.850'
+    title: Policy on work environments; duties of state agencies
+    status: ingested
+    path: statutes/ors-240.850.md
+  - number: '240.855'
+    title: Telecommuting; state policy; agencies to adopt written policies; identification of barriers
+      and solutions PENALTIES
+    status: ingested
+    path: statutes/ors-240.855.md
+  - number: '240.990'
+    title: Penalties ADMINISTRATIVE PROVISIONS
+    status: ingested
+    path: statutes/ors-240.990.md
+- chapter: '276'
+  title: Public Facilities
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors276.html
+  sections:
+  - number: '276.001'
+    title: Definitions STATE BUILDINGS AND GROUNDS (Generally)
+    status: not_sliceable
+    note: no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference
+      artifact); not ingested
+  - number: '276.002'
+    title: Control of State Capitol; disposition of rentals
+    status: ingested
+    path: statutes/ors-276.002.md
+  - number: '276.003'
+    title: State Capitol Operating Account
+    status: ingested
+    path: statutes/ors-276.003.md
+  - number: '276.004'
+    title: Utilization of buildings and grounds other than State Capitol, Supreme Court Building and State
+      Capitol State Park
+    status: ingested
+    path: statutes/ors-276.004.md
+  - number: '276.005'
+    title: Capital Projects Fund; use; gifts, grants and donations; loaned moneys
+    status: ingested
+    path: statutes/ors-276.005.md
+  - number: '276.007'
+    title: Oregon Department of Administrative Services Operating Fund; use of excess amounts
+    status: ingested
+    path: statutes/ors-276.007.md
+  - number: '276.009'
+    title: Acquisition of state office buildings by installment payments or lease purchase
+    status: ingested
+    path: statutes/ors-276.009.md
+  - number: '276.010'
+    title: Definitions for ORS
+    status: ingested
+    path: statutes/ors-276.010.md
+  - number: '276.013'
+    title: Acquisition of office buildings
+    status: ingested
+    path: statutes/ors-276.013.md
+  - number: '276.015'
+    title: Investment of certain funds
+    status: ingested
+    path: statutes/ors-276.015.md
+  - number: '276.021'
+    title: State building police officers; appointment; duties; status
+    status: ingested
+    path: statutes/ors-276.021.md
+  - number: '276.023'
+    title: State Capitol police officers; status (Lands and Facilities in Capitol Area)
+    status: ingested
+    path: statutes/ors-276.023.md
+  - number: '276.046'
+    title: Authority for department to acquire and improve land in capitol area
+    status: ingested
+    path: statutes/ors-276.046.md
+  - number: '276.053'
+    title: State Capitol State Park; boundaries; administration; monuments (Capitol Area Planning)
+    status: ingested
+    path: statutes/ors-276.053.md
+  - number: '276.054'
+    title: Declaration of policy concerning capitol area and other areas
+    status: ingested
+    path: statutes/ors-276.054.md
+  - number: '276.055'
+    title: Capitol Planning Commission; compensation; meetings
+    status: ingested
+    path: statutes/ors-276.055.md
+  - number: '276.056'
+    title: Duties of commission
+    status: ingested
+    path: statutes/ors-276.056.md
+  - number: '276.057'
+    title: Existing development plans and coordination plans
+    status: ingested
+    path: statutes/ors-276.057.md
+  - number: '276.058'
+    title: Investigation and review of proposals; advice to Oregon Department of Administrative Services
+      and State Parks and Recreation Department
+    status: ingested
+    path: statutes/ors-276.058.md
+  - number: '276.059'
+    title: Activities requiring commission review and recommendation
+    status: ingested
+    path: statutes/ors-276.059.md
+  - number: '276.061'
+    title: Commission’s cooperation with City of Salem
+    status: ingested
+    path: statutes/ors-276.061.md
+  - number: '276.062'
+    title: Disposition of buildings or improvements acquired for capitol area
+    status: ingested
+    path: statutes/ors-276.062.md
+  - number: '276.070'
+    title: Contract relating to building owned by Employment Department (Lease Purchase)
+    status: ingested
+    path: statutes/ors-276.070.md
+  - number: '276.071'
+    title: Applicability of certain statutes to public improvements under lease purchase agreements
+    status: ingested
+    path: statutes/ors-276.071.md
+  - number: '276.072'
+    title: When written notice required for public improvement under lease purchase; public record (Art
+      Acquisition)
+    status: ingested
+    path: statutes/ors-276.072.md
+  - number: '276.073'
+    title: Definitions for ORS
+    status: ingested
+    path: statutes/ors-276.073.md
+  - number: '276.075'
+    title: Public policy of acquiring works of art for state buildings
+    status: ingested
+    path: statutes/ors-276.075.md
+  - number: '276.080'
+    title: One percent of moneys for construction or alteration of state buildings to be used for acquisition
+      of art works; use in other state buildings
+    status: ingested
+    path: statutes/ors-276.080.md
+  - number: '276.090'
+    title: State agencies to determine art work acquisitions; title to art works in name of state; administrative
+      expenses and maintenance (Public Policy for State Buildin
+    status: ingested
+    path: statutes/ors-276.090.md
+  - number: '276.093'
+    title: Definitions for ORS
+    status: ingested
+    path: statutes/ors-276.093.md
+  - number: '276.098'
+    title: and
+    status: ingested
+    path: statutes/ors-276.098.md
+  - number: '276.094'
+    title: Public policy for state buildings
+    status: ingested
+    path: statutes/ors-276.094.md
+  - number: '276.095'
+    title: Use of buildings by state and public
+    status: ingested
+    path: statutes/ors-276.095.md
+  - number: '276.096'
+    title: Consultation with certain agencies, officers and groups; cooperation with State Historic Preservation
+      Officer
+    status: ingested
+    path: statutes/ors-276.096.md
+  - number: '276.097'
+    title: Public access to state offices
+    status: ingested
+    path: statutes/ors-276.097.md
+  - number: '276.102'
+    title: Acceptance of donations for state executive residence
+    status: ingested
+    path: statutes/ors-276.102.md
+  - number: '276.106'
+    title: Use of Oregon products ACQUISITION OF STATE OFFICE BUILDINGS WITH STATE TRUST FUNDS
+    status: not_sliceable
+    note: no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference
+      artifact); not ingested
+  - number: '276.110'
+    title: Definitions for ORS
+    status: ingested
+    path: statutes/ors-276.110.md
+  - number: '276.112'
+    title: Authority to repay certain loans and to manage Salem office buildings
+    status: ingested
+    path: statutes/ors-276.112.md
+  - number: '276.118'
+    title: Policy concerning location and manner of construction of buildings
+    status: ingested
+    path: statutes/ors-276.118.md
+  - number: '276.120'
+    title: Building and site as investment of investing fund; title or leasehold interest of investing
+      fund
+    status: ingested
+    path: statutes/ors-276.120.md
+  - number: '276.122'
+    title: Assistance, grants, donations or gifts from United States and others; disposition
+    status: ingested
+    path: statutes/ors-276.122.md
+  - number: '276.128'
+    title: Fire and other insurance
+    status: ingested
+    path: statutes/ors-276.128.md
+  - number: '276.137'
+    title: Title to buildings TRANSFER OF VACANT FACILITIES TO OREGON DEPARTMENT OF ADMINISTRATIVE SERVICES
+    status: not_sliceable
+    note: no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference
+      artifact); not ingested
+  - number: '276.180'
+    title: Transfer of certain buildings, grounds and facilities when vacated; operation; maintenance
+      SERVICES AND FACILITIES FOR STATE BUILDINGS (Heat, Light, Power, Sewa
+    status: ingested
+    path: statutes/ors-276.180.md
+  - number: '276.210'
+    title: Definition for ORS
+    status: ingested
+    path: statutes/ors-276.210.md
+  - number: '276.212'
+    title: Heat, light, communication and power systems; preference for use of biofuels
+    status: ingested
+    path: statutes/ors-276.212.md
+  - number: '276.214'
+    title: Acquiring land, buildings and structures; eminent domain procedure
+    status: ingested
+    path: statutes/ors-276.214.md
+  - number: '276.216'
+    title: Erecting and constructing buildings and structures
+    status: ingested
+    path: statutes/ors-276.216.md
+  - number: '276.218'
+    title: Acquiring machines and equipment; terms; pledging operating funds
+    status: ingested
+    path: statutes/ors-276.218.md
+  - number: '276.220'
+    title: Payment of cost of real and personal property
+    status: ingested
+    path: statutes/ors-276.220.md
+  - number: '276.222'
+    title: Contracting to purchase services and use facilities
+    status: ingested
+    path: statutes/ors-276.222.md
+  - number: '276.224'
+    title: Charges for providing heat, light, communication, power facilities; transfer from appropriations
+      to revolving fund
+    status: ingested
+    path: statutes/ors-276.224.md
+  - number: '276.226'
+    title: Acceptance of federal funds; contracts with United States or its agencies
+    status: ingested
+    path: statutes/ors-276.226.md
+  - number: '276.227'
+    title: Statewide planning process; public review process for capital projects; advisory board; state
+      property database; maintenance plans
+    status: ingested
+    path: statutes/ors-276.227.md
+  - number: '276.228'
+    title: Approval of claims
+    status: ingested
+    path: statutes/ors-276.228.md
+  - number: '276.229'
+    title: Four-year major construction budgets for state agencies; maintenance plans and budgets; application
+      to certain agencies (Water)
+    status: ingested
+    path: statutes/ors-276.229.md
+  - number: '276.234'
+    title: Providing water and water power for public buildings and institutions
+    status: ingested
+    path: statutes/ors-276.234.md
+  - number: '276.236'
+    title: Department may acquire land, water and water rights, watercourses, franchises and privileges
+    status: ingested
+    path: statutes/ors-276.236.md
+  - number: '276.238'
+    title: Purchase of land, water and water rights, watercourses, franchises and privileges
+    status: ingested
+    path: statutes/ors-276.238.md
+  - number: '276.240'
+    title: Eminent domain procedure; possession of property; rental value
+    status: ingested
+    path: statutes/ors-276.240.md
+  - number: '276.242'
+    title: Proceedings in name of state; pleadings; conveyances and contracts
+    status: ingested
+    path: statutes/ors-276.242.md
+  - number: '276.244'
+    title: Powers of department (Miscellaneous)
+    status: ingested
+    path: statutes/ors-276.244.md
+  - number: '276.246'
+    title: Repair, replacement and reconstruction of buildings, appliances, fixtures and furniture damaged
+      by fire
+    status: ingested
+    path: statutes/ors-276.246.md
+  - number: '276.248'
+    title: Water pipes and supply; entry to place and repair pipes; damages for use of land
+    status: ingested
+    path: statutes/ors-276.248.md
+  - number: '276.250'
+    title: Agreement with City of Salem for water and fire protection
+    status: ingested
+    path: statutes/ors-276.250.md
+  - number: '276.252'
+    title: Sewage system for state institutions and departments
+    status: ingested
+    path: statutes/ors-276.252.md
+  - number: '276.255'
+    title: State agency devices or facilities to charge electric motor vehicles; locations; contracts;
+      rules
+    status: ingested
+    path: statutes/ors-276.255.md
+  - number: '276.265'
+    title: Apprenticeship programs; state agency as training agent (Financing Construction, Maintenance
+      and Repair)
+    status: ingested
+    path: statutes/ors-276.265.md
+  - number: '276.280'
+    title: Definitions for ORS
+    status: ingested
+    path: statutes/ors-276.280.md
+  - number: '276.285'
+    title: Maintenance, preservation and development of state-owned property; dedicated accounts; rental
+      program ASSIGNMENT, LEASING AND RENTAL OF STATE BUILDINGS AND OTHE
+    status: ingested
+    path: statutes/ors-276.285.md
+  - number: '276.385'
+    title: Rentals for buildings other than State Capitol or Supreme Court Building
+    status: ingested
+    path: statutes/ors-276.385.md
+  - number: '276.390'
+    title: Submission of rent schedule to Emergency Board or Joint Interim Committee on Ways and Means
+    status: ingested
+    path: statutes/ors-276.390.md
+  - number: '276.410'
+    title: Assignment of quarters to officers and state agencies
+    status: ingested
+    path: statutes/ors-276.410.md
+  - number: '276.412'
+    title: Payment of rent by state agencies
+    status: ingested
+    path: statutes/ors-276.412.md
+  - number: '276.420'
+    title: “Office quarters” defined; department may enter into leases and rental agreements on behalf
+      of certain agencies
+    status: ingested
+    path: statutes/ors-276.420.md
+  - number: '276.424'
+    title: Joint leases
+    status: ingested
+    path: statutes/ors-276.424.md
+  - number: '276.426'
+    title: Location of leased office quarters of state agencies to be centralized
+    status: ingested
+    path: statutes/ors-276.426.md
+  - number: '276.428'
+    title: Approval and supervision of leases and rental agreements; ordering changes in location of offices
+      of state agencies
+    status: ingested
+    path: statutes/ors-276.428.md
+  - number: '276.429'
+    title: Leases; lease option purchase; cost policy; report to legislative review agency
+    status: ingested
+    path: statutes/ors-276.429.md
+  - number: '276.440'
+    title: Renting space to public agencies and private citizens; use for meetings EMPLOYMENT DEPARTMENT
+      OFFICE BUILDING
+    status: ingested
+    path: statutes/ors-276.440.md
+  - number: '276.575'
+    title: Computation of rent schedules; collection of rents
+    status: ingested
+    path: statutes/ors-276.575.md
+  - number: '276.580'
+    title: Additional payment by occupants for maintenance and service charges
+    status: ingested
+    path: statutes/ors-276.580.md
+  - number: '276.585'
+    title: Assignment of excess space; rental and additional charges SUPREME COURT BUILDING
+    status: ingested
+    path: statutes/ors-276.585.md
+  - number: '276.587'
+    title: Control through State Court Administrator; contract for operation STATE PARKING FACILITIES
+      AND CARPOOLS
+    status: ingested
+    path: statutes/ors-276.587.md
+  - number: '276.591'
+    title: Definition; state parking facilities policy
+    status: ingested
+    path: statutes/ors-276.591.md
+  - number: '276.592'
+    title: Taxation of facilities used by private individuals
+    status: ingested
+    path: statutes/ors-276.592.md
+  - number: '276.594'
+    title: Management of department facilities in Salem; use of parking receipts; rules
+    status: ingested
+    path: statutes/ors-276.594.md
+  - number: '276.595'
+    title: Management of other facilities; rules
+    status: ingested
+    path: statutes/ors-276.595.md
+  - number: '276.598'
+    title: Carpools or vanpools; rules
+    status: ingested
+    path: statutes/ors-276.598.md
+  - number: '276.601'
+    title: Establishment of rates for minimum parking fees; exceptions; use of receipts; rules BUILDINGS
+      AT STATE INSTITUTIONS; STATE BUILDING FUND
+    status: ingested
+    path: statutes/ors-276.601.md
+  - number: '276.610'
+    title: State Building Fund
+    status: ingested
+    path: statutes/ors-276.610.md
+  - number: '276.612'
+    title: Determining buildings to be constructed, altered, repaired, furnished and equipped OPTIONS
+    status: ingested
+    path: statutes/ors-276.612.md
+  - number: '276.625'
+    title: Authority to acquire options; contingency; legislative review agency approval COMMUNITY HOUSES
+    status: ingested
+    path: statutes/ors-276.625.md
+  - number: '276.732'
+    title: Community houses in cities; constructing; financing; use
+    status: ingested
+    path: statutes/ors-276.732.md
+  - number: '276.734'
+    title: Submission of issues to electors
+    status: ingested
+    path: statutes/ors-276.734.md
+  - number: '276.736'
+    title: Levy of tax; sale of bonds; construction and maintenance of houses STATE AGENCY FACILITY ENERGY
+      DESIGN
+    status: ingested
+    path: statutes/ors-276.736.md
+  - number: '276.900'
+    title: Policy
+    status: ingested
+    path: statutes/ors-276.900.md
+  - number: '276.905'
+    title: Definitions for ORS
+    status: ingested
+    path: statutes/ors-276.905.md
+  - number: '276.910'
+    title: Use of fuel cell power systems in state agency facilities; rules
+    status: ingested
+    path: statutes/ors-276.910.md
+  - number: '276.915'
+    title: Energy design requirements; rules; fees; waiver PENALTIES
+    status: ingested
+    path: statutes/ors-276.915.md
+  - number: '276.990'
+    title: Penalties GENERAL PROVISIONS
+    status: ingested
+    path: statutes/ors-276.990.md
+- chapter: 276A
+  title: Information Technology
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors276A.html
+  sections:
+  - number: 276A.200
+    title: Legislative findings on information resources
+    status: ingested
+    path: statutes/ors-276a.200.md
+  - number: 276A.203
+    title: State Chief Information Officer; qualifications; duties; Enterprise Information Resources Management
+      Strategy; rules
+    status: ingested
+    path: statutes/ors-276a.203.md
+  - number: 276A.206
+    title: Oversight of state information and telecommunications technology by State Chief Information
+      Officer; policy; rules; application for designation as community of interest
+    status: ingested
+    path: statutes/ors-276a.206.md
+  - number: 276A.209
+    title: State Information Technology Operating Fund
+    status: ingested
+    path: statutes/ors-276a.209.md
+  - number: 276A.223
+    title: Requirement that state agency or public corporation obtain quality management services when
+      implementing information technology initiative; reports; exceptions
+    status: ingested
+    path: statutes/ors-276a.223.md
+  - number: 276A.226
+    title: State agency funding requests for information technology; review by State Chief Information
+      Officer and Enterprise Information Services; priority rankings; biennial report
+    status: ingested
+    path: statutes/ors-276a.226.md
+  - number: 276A.230
+    title: Definitions
+    status: ingested
+    path: statutes/ors-276a.230.md
+  - number: 276A.233
+    title: Information technology portfolio-based management; inventory; standards; rules; exception
+    status: ingested
+    path: statutes/ors-276a.233.md
+  - number: 276A.236
+    title: Enterprise information resources management; adoption and implementation of strategy; state
+      agency information technology initiatives costing more than $1 million
+    status: ingested
+    path: statutes/ors-276a.236.md
+  - number: 276A.239
+    title: Portfolio-based management of information technology resources for Secretary of State
+    status: ingested
+    path: statutes/ors-276a.239.md
+  - number: 276A.242
+    title: Portfolio-based management of information technology resources for State Treasurer
+    status: ingested
+    path: statutes/ors-276a.242.md
+  - number: 276A.250
+    title: Definitions
+    status: ingested
+    path: statutes/ors-276a.250.md
+  - number: 276A.253
+    title: Oregon transparency website
+    status: ingested
+    path: statutes/ors-276a.253.md
+  - number: 276A.256
+    title: Reports of tax expenditures connected to economic development
+    status: ingested
+    path: statutes/ors-276a.256.md
+  - number: 276A.259
+    title: Transparency Oregon Advisory Commission; members; duties; terms; reports
+    status: ingested
+    path: statutes/ors-276a.259.md
+  - number: 276A.262
+    title: Transparency Oregon Advisory Commission Fund
+    status: ingested
+    path: statutes/ors-276a.262.md
+  - number: 276A.270
+    title: Definitions
+    status: ingested
+    path: statutes/ors-276a.270.md
+  - number: 276A.273
+    title: Electronic Government Portal Advisory Board
+    status: ingested
+    path: statutes/ors-276a.273.md
+  - number: 276A.276
+    title: Ability to offer government services through portal; portal provider fee; rules
+    status: ingested
+    path: statutes/ors-276a.276.md
+  - number: 276A.300
+    title: Information systems security in executive department; rules
+    status: ingested
+    path: statutes/ors-276a.300.md
+  - number: 276A.303
+    title: Information systems security for Secretary of State, State Treasurer and Attorney General
+    status: ingested
+    path: statutes/ors-276a.303.md
+  - number: 276A.306
+    title: Information security incidents and assessments; reports
+    status: ingested
+    path: statutes/ors-276a.306.md
+  - number: 276A.323
+    title: State agency coordination
+    status: ingested
+    path: statutes/ors-276a.323.md
+  - number: 276A.332
+    title: Authority of State Chief Information Officer to enter into agreements
+    status: ingested
+    path: statutes/ors-276a.332.md
+  - number: 276A.335
+    title: Moneys from federal government and other sources
+    status: ingested
+    path: statutes/ors-276a.335.md
+  - number: 276A.340
+    title: Definitions
+    status: ingested
+    path: statutes/ors-276a.340.md
+  - number: 276A.342
+    title: State agencies prohibited from using covered products; risk mitigation; exceptions
+    status: ingested
+    path: statutes/ors-276a.342.md
+  - number: 276A.344
+    title: Policies and standards; national security threat; rules
+    status: ingested
+    path: statutes/ors-276a.344.md
+  - number: 276A.346
+    title: Secretary of State prohibited from using covered products; risk mitigation; exceptions
+    status: ingested
+    path: statutes/ors-276a.346.md
+  - number: 276A.348
+    title: State Treasurer prohibited from using covered products; risk mitigation; exceptions
+    status: ingested
+    path: statutes/ors-276a.348.md
+  - number: 276A.350
+    title: Definitions
+    status: ingested
+    path: statutes/ors-276a.350.md
+  - number: 276A.353
+    title: Chief Data Officer; duties; rules
+    status: ingested
+    path: statutes/ors-276a.353.md
+  - number: 276A.356
+    title: Open data standard
+    status: ingested
+    path: statutes/ors-276a.356.md
+  - number: 276A.359
+    title: Technical standards manual
+    status: ingested
+    path: statutes/ors-276a.359.md
+  - number: 276A.362
+    title: Release of publishable data on web portal; exemptions; rules
+    status: ingested
+    path: statutes/ors-276a.362.md
+  - number: 276A.365
+    title: Information management by state agencies
+    status: ingested
+    path: statutes/ors-276a.365.md
+  - number: 276A.368
+    title: Purpose of data; limitation of liability; publishable data in public domain
+    status: ingested
+    path: statutes/ors-276a.368.md
+  - number: 276A.371
+    title: Obligations of state agency under public records law
+    status: ingested
+    path: statutes/ors-276a.371.md
+  - number: 276A.374
+    title: Application to Secretary of State and State Treasurer; rules
+    status: ingested
+    path: statutes/ors-276a.374.md
+- chapter: '278'
+  title: Insurance for Public Bodies
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors278.html
+  sections:
+  - number: '278.005'
+    title: Definitions INSURANCE OF PUBLIC PROPERTY
+    status: ingested
+    path: statutes/ors-278.005.md
+  - number: '278.011'
+    title: State agencies to supply information on property; appraised value determined
+    status: ingested
+    path: statutes/ors-278.011.md
+  - number: '278.022'
+    title: Coverage of vessels
+    status: ingested
+    path: statutes/ors-278.022.md
+  - number: '278.050'
+    title: Restoring lost, damaged or destroyed property; exceptions; use of fund for other purposes;
+      deductibles
+    status: ingested
+    path: statutes/ors-278.050.md
+  - number: '278.052'
+    title: Right of action against person responsible for loss; investigations
+    status: ingested
+    path: statutes/ors-278.052.md
+  - number: '278.075'
+    title: State agencies to supply information on media property; scope of coverage
+    status: ingested
+    path: statutes/ors-278.075.md
+  - number: '278.120'
+    title: Claims management; defense; authority of Attorney General; payment of judgment or settlement;
+      rules
+    status: ingested
+    path: statutes/ors-278.120.md
+  - number: '278.125'
+    title: Purchase of insurance; payment of premium; legislative approval of self-insurance plan
+    status: ingested
+    path: statutes/ors-278.125.md
+  - number: '278.130'
+    title: Employment of staff assistance; payment for services by Attorney General
+    status: ingested
+    path: statutes/ors-278.130.md
+  - number: '278.150'
+    title: Special Liability Revolving Fund; accounting for moneys disbursed INSURANCE FOR MOTOR VEHICLES
+      OWNED BY GOVERNMENT
+    status: ingested
+    path: statutes/ors-278.150.md
+  - number: '278.200'
+    title: “Motor vehicle” defined for ORS
+    status: ingested
+    path: statutes/ors-278.200.md
+  - number: '278.205'
+    title: and
+    status: ingested
+    path: statutes/ors-278.205.md
+  - number: '278.210'
+    title: State has rights and duties of insurer
+    status: ingested
+    path: statutes/ors-278.210.md
+  - number: '278.215'
+    title: Uninsured motorist coverage requirements LIABILITY INSURANCE
+    status: ingested
+    path: statutes/ors-278.215.md
+  - number: '278.315'
+    title: Liability insurance for county or private community care providers
+    status: ingested
+    path: statutes/ors-278.315.md
+  - number: '278.320'
+    title: Application of government tort law to claims against private community care providers; liability
+      for damages in excess of coverage
+    status: ingested
+    path: statutes/ors-278.320.md
+  - number: '278.322'
+    title: Child care facility liability insurance coverage RISK MANAGEMENT
+    status: ingested
+    path: statutes/ors-278.322.md
+  - number: '278.405'
+    title: Department to manage risk management and insurance programs; rules
+    status: ingested
+    path: statutes/ors-278.405.md
+  - number: '278.415'
+    title: Department authorization of agency insurance purchases; exceptions INSURANCE FUND
+    status: ingested
+    path: statutes/ors-278.415.md
+  - number: '278.425'
+    title: Insurance Fund; uses
+    status: ingested
+    path: statutes/ors-278.425.md
+  - number: '278.435'
+    title: Fund to operate on actuarially sound basis; apportionment; assessment; advances; repayment
+    status: ingested
+    path: statutes/ors-278.435.md
+  - number: '278.440'
+    title: Report on financial condition of Insurance Fund; report contents; recommendations; contracting
+      power GENERAL PROVISIONS
+    status: ingested
+    path: statutes/ors-278.440.md
+- chapter: 279A
+  title: Public Contracting - General Provisions
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors279A.html
+  sections:
+  - number: 279A.005
+    title: Short title
+    status: not_sliceable
+    note: no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference
+      artifact); not ingested
+  - number: 279A.010
+    title: Definitions for Public Contracting Code
+    status: ingested
+    path: statutes/ors-279a.010.md
+  - number: 279A.015
+    title: Policy
+    status: ingested
+    path: statutes/ors-279a.015.md
+  - number: 279A.020
+    title: Organization of Public Contracting Code
+    status: ingested
+    path: statutes/ors-279a.020.md
+  - number: 279A.025
+    title: Application of Public Contracting Code
+    status: ingested
+    path: statutes/ors-279a.025.md
+  - number: 279A.030
+    title: Federal law prevails in case of conflict AUTHORITY
+    status: ingested
+    path: statutes/ors-279a.030.md
+  - number: 279A.050
+    title: Procurement authority
+    status: ingested
+    path: statutes/ors-279a.050.md
+  - number: 279A.055
+    title: Personal services contracts
+    status: ingested
+    path: statutes/ors-279a.055.md
+  - number: 279A.060
+    title: Local contract review boards
+    status: ingested
+    path: statutes/ors-279a.060.md
+  - number: 279A.065
+    title: Model rules generally; applicability to contracting agencies
+    status: ingested
+    path: statutes/ors-279a.065.md
+  - number: 279A.070
+    title: Rules
+    status: ingested
+    path: statutes/ors-279a.070.md
+  - number: 279A.075
+    title: Delegation DISADVANTAGED BUSINESS ENTERPRISES, MINORITY-OWNED BUSINESSES, WOMAN-OWNED BUSINESSES,
+      VETERAN-OWNED BUSINESSES AND EMERGING SMALL BUSINESSES
+    status: not_sliceable
+    note: no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference
+      artifact); not ingested
+  - number: 279A.100
+    title: Affirmative action; limited competition permitted
+    status: ingested
+    path: statutes/ors-279a.100.md
+  - number: 279A.105
+    title: Subcontracting to emerging small businesses or veteran-owned businesses
+    status: ingested
+    path: statutes/ors-279a.105.md
+  - number: 279A.107
+    title: Certification as disadvantaged business enterprise, minority-owned business, woman-owned business,
+      veteran-owned business or emerging small business during term
+    status: ingested
+    path: statutes/ors-279a.107.md
+  - number: 279A.110
+    title: Discrimination in subcontracting prohibited; remedies
+    status: ingested
+    path: statutes/ors-279a.110.md
+  - number: 279A.112
+    title: Requirement to certify that contractor has policy and practice of preventing sexual harassment,
+      sexual assault and discrimination against employees who are memb
+    status: ingested
+    path: statutes/ors-279a.112.md
+  - number: 279A.120
+    title: Preference for Oregon goods and services; nonresident bidders
+    status: ingested
+    path: statutes/ors-279a.120.md
+  - number: 279A.125
+    title: Preference for recycled materials
+    status: ingested
+    path: statutes/ors-279a.125.md
+  - number: 279A.128
+    title: Preferences for goods and services supplied within this state; preferences for certain entities
+    status: ingested
+    path: statutes/ors-279a.128.md
+  - number: 279A.130
+    title: Preference for exceeding Buy America requirements for transit projects; rules STATE PROCUREMENT
+    status: ingested
+    path: statutes/ors-279a.130.md
+  - number: 279A.140
+    title: State procurement of goods and services; rules
+    status: ingested
+    path: statutes/ors-279a.140.md
+  - number: 279A.142
+    title: Limitation of competition
+    status: ingested
+    path: statutes/ors-279a.142.md
+  - number: 279A.145
+    title: Recycled product purchasing information
+    status: ingested
+    path: statutes/ors-279a.145.md
+  - number: 279A.150
+    title: Procurement of goods containing recycled polyethylene material
+    status: ingested
+    path: statutes/ors-279a.150.md
+  - number: 279A.152
+    title: Assessment of procurement practices related to recycled products and materials and recycled
+      PETE
+    status: ingested
+    path: statutes/ors-279a.152.md
+  - number: 279A.155
+    title: State procurement of paper
+    status: ingested
+    path: statutes/ors-279a.155.md
+  - number: 279A.157
+    title: State contracting agency use of contract form, contract template or solicitation template;
+      exceptions and exemptions; rules
+    status: ingested
+    path: statutes/ors-279a.157.md
+  - number: 279A.159
+    title: Education and training or experience requirements for persons that conduct procurements or
+      administer contracts for state contracting agencies; deadlines; rules
+    status: ingested
+    path: statutes/ors-279a.159.md
+  - number: 279A.161
+    title: Review and verification of advice and recommendations concerning procurements; delegation
+    status: ingested
+    path: statutes/ors-279a.161.md
+  - number: 279A.165
+    title: Report concerning special procurements; requirement to maintain records
+    status: ingested
+    path: statutes/ors-279a.165.md
+  - number: 279A.167
+    title: Certification program for training in pay equity provisions of state law; rules INTERGOVERNMENTAL
+      RELATIONS (Generally)
+    status: ingested
+    path: statutes/ors-279a.167.md
+  - number: 279A.180
+    title: Purchases through federal programs
+    status: ingested
+    path: statutes/ors-279a.180.md
+  - number: 279A.185
+    title: Local contracting agency arrangements for use or disposition of personal property authorized
+    status: ingested
+    path: statutes/ors-279a.185.md
+  - number: 279A.190
+    title: Transfers of fire protection equipment between fire departments (Cooperative Procurement)
+    status: ingested
+    path: statutes/ors-279a.190.md
+  - number: 279A.200
+    title: Definitions for ORS
+    status: ingested
+    path: statutes/ors-279a.200.md
+  - number: 279A.205
+    title: Cooperative procurements authorized
+    status: ingested
+    path: statutes/ors-279a.205.md
+  - number: 279A.210
+    title: Joint cooperative procurements
+    status: ingested
+    path: statutes/ors-279a.210.md
+  - number: 279A.215
+    title: Permissive cooperative procurements
+    status: ingested
+    path: statutes/ors-279a.215.md
+  - number: 279A.220
+    title: Interstate cooperative procurements
+    status: ingested
+    path: statutes/ors-279a.220.md
+  - number: 279A.225
+    title: Protests and disputes STATE SURPLUS PROPERTY
+    status: ingested
+    path: statutes/ors-279a.225.md
+  - number: 279A.250
+    title: Definitions for ORS
+    status: ingested
+    path: statutes/ors-279a.250.md
+  - number: 279A.255
+    title: Inspection, appraisal and inventory of state property; reports by state agencies
+    status: ingested
+    path: statutes/ors-279a.255.md
+  - number: 279A.260
+    title: Powers and duties of department; acquisitions by qualified donees; rules
+    status: ingested
+    path: statutes/ors-279a.260.md
+  - number: 279A.265
+    title: Use of Oregon Department of Administrative Services Operating Fund; cash dividends
+    status: ingested
+    path: statutes/ors-279a.265.md
+  - number: 279A.270
+    title: Contracts with federal government for accepting gifts and acquiring surplus property; bids
+      not required
+    status: ingested
+    path: statutes/ors-279a.270.md
+  - number: 279A.275
+    title: Leasing of state property
+    status: ingested
+    path: statutes/ors-279a.275.md
+  - number: 279A.280
+    title: Disposal of surplus property; costs of disposal
+    status: ingested
+    path: statutes/ors-279a.280.md
+  - number: 279A.285
+    title: Disposition of moneys received as payment for repair or replacement of damaged, destroyed,
+      lost or stolen property
+    status: ingested
+    path: statutes/ors-279a.285.md
+  - number: 279A.290
+    title: Miscellaneous receipts accounts MISCELLANEOUS PROVISIONS
+    status: ingested
+    path: statutes/ors-279a.290.md
+  - number: 279A.800
+    title: Consideration of whether bidder or proposer owes liquidated and delinquent debt to state
+    status: ingested
+    path: statutes/ors-279a.800.md
+  - number: 279A.803
+    title: Requirements for qualified projects funded with moneys from American Rescue Plan Act of 2021;
+      exceptions PENALTIES
+    status: ingested
+    path: statutes/ors-279a.803.md
+  - number: 279A.990
+    title: Penalties GENERAL PROVISIONS
+    status: ingested
+    path: statutes/ors-279a.990.md
+- chapter: 279B
+  title: Public Contracting - Public Procurements
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors279B.html
+  sections:
+  - number: 279B.005
+    title: Definitions
+    status: ingested
+    path: statutes/ors-279b.005.md
+  - number: 279B.010
+    title: Policy
+    status: ingested
+    path: statutes/ors-279b.010.md
+  - number: 279B.015
+    title: Applicability
+    status: ingested
+    path: statutes/ors-279b.015.md
+  - number: 279B.020
+    title: Maximum hours of labor on public contracts; holidays; exceptions; liability to workers; rules
+    status: ingested
+    path: statutes/ors-279b.020.md
+  - number: 279B.025
+    title: Procurement practices regarding recyclable and reusable goods
+    status: ingested
+    path: statutes/ors-279b.025.md
+  - number: 279B.030
+    title: Demonstration that procurement will cost less than performing service with contracting agency’s
+      own personnel and resources or that performing service is not fe
+    status: ingested
+    path: statutes/ors-279b.030.md
+  - number: 279B.033
+    title: Contents of cost analysis; conditions under which procurement may proceed; exceptions
+    status: ingested
+    path: statutes/ors-279b.033.md
+  - number: 279B.036
+    title: Determination of feasibility of procurement
+    status: ingested
+    path: statutes/ors-279b.036.md
+  - number: 279B.040
+    title: Prohibition on accepting bid or proposal from contractor that advised or assisted contracting
+      agency to develop specifications or solicitation documents; except
+    status: ingested
+    path: statutes/ors-279b.040.md
+  - number: 279B.045
+    title: Contractor warranty and covenant concerning tax law compliance SOURCE SELECTION (Methods of
+      Source Selection)
+    status: ingested
+    path: statutes/ors-279b.045.md
+  - number: 279B.050
+    title: Methods of source selection
+    status: ingested
+    path: statutes/ors-279b.050.md
+  - number: 279B.055
+    title: Competitive sealed bidding
+    status: ingested
+    path: statutes/ors-279b.055.md
+  - number: 279B.060
+    title: Competitive sealed proposals
+    status: ingested
+    path: statutes/ors-279b.060.md
+  - number: 279B.065
+    title: Small procurements
+    status: ingested
+    path: statutes/ors-279b.065.md
+  - number: 279B.070
+    title: Intermediate procurements
+    status: ingested
+    path: statutes/ors-279b.070.md
+  - number: 279B.075
+    title: Sole-source procurements
+    status: ingested
+    path: statutes/ors-279b.075.md
+  - number: 279B.080
+    title: Emergency procurements
+    status: ingested
+    path: statutes/ors-279b.080.md
+  - number: 279B.085
+    title: Special procurements (Cancellation, Rejection and Delay of Invitations for Bids or Requests
+      for Proposals)
+    status: not_sliceable
+    note: no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference
+      artifact); not ingested
+  - number: 279B.100
+    title: Cancellation, rejection, delay of invitations for bids or requests for proposals (Qualifications)
+    status: ingested
+    path: statutes/ors-279b.100.md
+  - number: 279B.110
+    title: Responsibility of bidders and proposers
+    status: ingested
+    path: statutes/ors-279b.110.md
+  - number: 279B.112
+    title: Personnel deployment disclosure; contents; preference for bidder or proposer that will employ
+      more workers in state; rules; exception
+    status: ingested
+    path: statutes/ors-279b.112.md
+  - number: 279B.115
+    title: Qualified products lists
+    status: ingested
+    path: statutes/ors-279b.115.md
+  - number: 279B.120
+    title: Prequalification of prospective bidders and proposers
+    status: ingested
+    path: statutes/ors-279b.120.md
+  - number: 279B.125
+    title: Application for prequalification
+    status: ingested
+    path: statutes/ors-279b.125.md
+  - number: 279B.130
+    title: Debarment of prospective bidders and proposers (Notice of Intent to Award)
+    status: ingested
+    path: statutes/ors-279b.130.md
+  - number: 279B.135
+    title: Notice of intent to award (Price Agreements)
+    status: ingested
+    path: statutes/ors-279b.135.md
+  - number: 279B.140
+    title: Price agreements (Determinations)
+    status: ingested
+    path: statutes/ors-279b.140.md
+  - number: 279B.145
+    title: Finality of determinations SPECIFICATIONS (General Provisions)
+    status: ingested
+    path: statutes/ors-279b.145.md
+  - number: 279B.200
+    title: Definitions for ORS
+    status: ingested
+    path: statutes/ors-279b.200.md
+  - number: 279B.205
+    title: Specifications to encourage reasonable competition
+    status: ingested
+    path: statutes/ors-279b.205.md
+  - number: 279B.210
+    title: Policy; development of specifications
+    status: ingested
+    path: statutes/ors-279b.210.md
+  - number: 279B.215
+    title: Brand name or equal specification; brand name specification
+    status: ingested
+    path: statutes/ors-279b.215.md
+  - number: 279B.220
+    title: Conditions concerning payment, contributions, liens, withholding
+    status: ingested
+    path: statutes/ors-279b.220.md
+  - number: 279B.225
+    title: Condition concerning salvaging, recycling, composting or mulching yard waste material
+    status: ingested
+    path: statutes/ors-279b.225.md
+  - number: 279B.230
+    title: Condition concerning payment for medical care and providing workers’ compensation
+    status: ingested
+    path: statutes/ors-279b.230.md
+  - number: 279B.235
+    title: Condition concerning hours of labor; compliance with pay equity provisions; employee discussions
+      of rate of pay or benefits
+    status: ingested
+    path: statutes/ors-279b.235.md
+  - number: 279B.240
+    title: Exclusion of recycled oils prohibited (Specifications in State Contracts)
+    status: ingested
+    path: statutes/ors-279b.240.md
+  - number: 279B.270
+    title: State contracting agencies to use recovered resources and recycled materials; notice to prospective
+      contractors
+    status: ingested
+    path: statutes/ors-279b.270.md
+  - number: 279B.275
+    title: Purchase of goods containing recycled polyethylene material
+    status: ingested
+    path: statutes/ors-279b.275.md
+  - number: 279B.280
+    title: Use of recycled products when economically feasible
+    status: ingested
+    path: statutes/ors-279b.280.md
+  - number: 279B.283
+    title: Condition concerning use of conflict minerals LEGAL REMEDIES
+    status: ingested
+    path: statutes/ors-279b.283.md
+  - number: 279B.400
+    title: Protests and judicial review of approvals of special procurements
+    status: ingested
+    path: statutes/ors-279b.400.md
+  - number: 279B.405
+    title: Protests and judicial review of solicitations
+    status: ingested
+    path: statutes/ors-279b.405.md
+  - number: 279B.410
+    title: Protests of contract award
+    status: ingested
+    path: statutes/ors-279b.410.md
+  - number: 279B.415
+    title: Judicial review of protests of contract award
+    status: ingested
+    path: statutes/ors-279b.415.md
+  - number: 279B.420
+    title: Judicial review of other violations
+    status: ingested
+    path: statutes/ors-279b.420.md
+  - number: 279B.425
+    title: Review of prequalification and debarment decisions GENERAL PROVISIONS
+    status: ingested
+    path: statutes/ors-279b.425.md
+- chapter: 279C
+  title: Public Contracting - Public Improvements
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors279C.html
+  sections:
+  - number: 279C.005
+    title: Definitions
+    status: ingested
+    path: statutes/ors-279c.005.md
+  - number: 279C.010
+    title: Applicability ARCHITECTURAL, ENGINEERING, PHOTOGRAMMETRIC MAPPING, TRANSPORTATION PLANNING,
+      LAND SURVEYING AND RELATED SERVICES
+    status: not_sliceable
+    note: no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference
+      artifact); not ingested
+  - number: 279C.100
+    title: Definitions for ORS
+    status: ingested
+    path: statutes/ors-279c.100.md
+  - number: 279C.105
+    title: Contracts for architectural, engineering, photogrammetric mapping, transportation planning
+      or land surveying and related services; procedures
+    status: ingested
+    path: statutes/ors-279c.105.md
+  - number: 279C.107
+    title: Public disclosure of contents of proposals for architectural, engineering, photogrammetric
+      mapping, transportation planning or land surveying services; treatmen
+    status: ingested
+    path: statutes/ors-279c.107.md
+  - number: 279C.110
+    title: Selection procedures for consultants to provide services; use of pricing proposals; compensation;
+      protests; applicability; rules
+    status: ingested
+    path: statutes/ors-279c.110.md
+  - number: 279C.115
+    title: Direct contracts for services of consultants
+    status: ingested
+    path: statutes/ors-279c.115.md
+  - number: 279C.120
+    title: Selection procedure for related services
+    status: ingested
+    path: statutes/ors-279c.120.md
+  - number: 279C.125
+    title: Architectural, engineering, photogrammetric mapping, transportation planning and land surveying
+      services selection process for local public improvements procure
+    status: ingested
+    path: statutes/ors-279c.125.md
+  - number: 279C.300
+    title: Policy on competition
+    status: ingested
+    path: statutes/ors-279c.300.md
+  - number: 279C.303
+    title: Production in United States of materials for public improvements and public works; waiver and
+      review of waiver; technical assistance and grant program; rules
+    status: ingested
+    path: statutes/ors-279c.303.md
+  - number: 279C.305
+    title: 'Least-cost policy for public improvements; requirement to file list of planned projects and
+      estimated costs and to identify projects contracting agency intends '
+    status: ingested
+    path: statutes/ors-279c.305.md
+  - number: 279C.306
+    title: Administrative enforcement of least-cost policy for public improvements; procedure; civil action
+    status: ingested
+    path: statutes/ors-279c.306.md
+  - number: 279C.307
+    title: Limitations in procurement of personal services; exceptions; procedure for obtaining exception
+      from appropriate authority; basis for approving exception
+    status: ingested
+    path: statutes/ors-279c.307.md
+  - number: 279C.308
+    title: Community benefit contract; permitted provisions; required contents of solicitation; powers
+      and duties of contracting agency and local contract review board; ru
+    status: ingested
+    path: statutes/ors-279c.308.md
+  - number: 279C.310
+    title: Limitation on contracting agency constructing public improvement
+    status: ingested
+    path: statutes/ors-279c.310.md
+  - number: 279C.315
+    title: Waiver of damages for unreasonable delay by contracting agency against public policy
+    status: ingested
+    path: statutes/ors-279c.315.md
+  - number: 279C.320
+    title: Contracts for construction other than public improvements
+    status: ingested
+    path: statutes/ors-279c.320.md
+  - number: 279C.325
+    title: Limitation on contracting agency awarding contract to nonresident education service district
+      (Competitive Bidding; Contract Specifications; Exceptions; Exemptio
+    status: ingested
+    path: statutes/ors-279c.325.md
+  - number: 279C.330
+    title: “Findings” defined
+    status: ingested
+    path: statutes/ors-279c.330.md
+  - number: 279C.332
+    title: Definitions for ORS 279A.065,
+    status: ingested
+    path: statutes/ors-279c.332.md
+  - number: 279C.337
+    title: and
+    status: ingested
+    path: statutes/ors-279c.337.md
+  - number: 279C.335
+    title: Competitive bidding requirement; exceptions; exemptions
+    status: ingested
+    path: statutes/ors-279c.335.md
+  - number: 279C.340
+    title: Contract negotiations
+    status: ingested
+    path: statutes/ors-279c.340.md
+  - number: 279C.345
+    title: Specifications for contracts; exemptions
+    status: ingested
+    path: statutes/ors-279c.345.md
+  - number: 279C.350
+    title: Exemption procedure; appeal
+    status: ingested
+    path: statutes/ors-279c.350.md
+  - number: 279C.355
+    title: Evaluation of public improvement projects not contracted by competitive bidding (Solicitation;
+      Contract Award; Rejection)
+    status: ingested
+    path: statutes/ors-279c.355.md
+  - number: 279C.360
+    title: Requirement for public improvement advertisements
+    status: ingested
+    path: statutes/ors-279c.360.md
+  - number: 279C.365
+    title: Requirements for solicitation documents and bids and proposals
+    status: ingested
+    path: statutes/ors-279c.365.md
+  - number: 279C.370
+    title: First-tier subcontractor disclosure
+    status: ingested
+    path: statutes/ors-279c.370.md
+  - number: 279C.375
+    title: Award and execution of contract; determination of responsibility of bidder; bonds; impermissible
+      exclusions
+    status: ingested
+    path: statutes/ors-279c.375.md
+  - number: 279C.380
+    title: Performance bond; payment bond; waiver of bonds
+    status: ingested
+    path: statutes/ors-279c.380.md
+  - number: 279C.385
+    title: Return or retention of bid security
+    status: ingested
+    path: statutes/ors-279c.385.md
+  - number: 279C.390
+    title: Exemption of contracts from bid security and bonds
+    status: ingested
+    path: statutes/ors-279c.390.md
+  - number: 279C.395
+    title: Rejection of bids (Competitive Proposals)
+    status: ingested
+    path: statutes/ors-279c.395.md
+  - number: 279C.400
+    title: Competitive proposals; procedure
+    status: ingested
+    path: statutes/ors-279c.400.md
+  - number: 279C.405
+    title: Requests for information, interest or qualifications; requirements for requests for proposals
+    status: ingested
+    path: statutes/ors-279c.405.md
+  - number: 279C.410
+    title: Receipt of proposals; evaluation and award
+    status: ingested
+    path: statutes/ors-279c.410.md
+  - number: 279C.412
+    title: Competitive quotes for intermediate procurements
+    status: ingested
+    path: statutes/ors-279c.412.md
+  - number: 279C.414
+    title: Requirements for competitive quotes (Prequalification and Disqualification)
+    status: ingested
+    path: statutes/ors-279c.414.md
+  - number: 279C.430
+    title: Prequalification of bidders; rules
+    status: ingested
+    path: statutes/ors-279c.430.md
+  - number: 279C.435
+    title: Effect of prequalification by Department of Transportation or Oregon Department of Administrative
+      Services
+    status: ingested
+    path: statutes/ors-279c.435.md
+  - number: 279C.440
+    title: Disqualification from consideration for award of contracts
+    status: ingested
+    path: statutes/ors-279c.440.md
+  - number: 279C.445
+    title: Appeal of disqualification
+    status: ingested
+    path: statutes/ors-279c.445.md
+  - number: 279C.450
+    title: Appeal procedure for decision to deny, revoke or revise prequalification; hearing; costs; judicial
+      review (Remedies)
+    status: ingested
+    path: statutes/ors-279c.450.md
+  - number: 279C.460
+    title: Action by or on behalf of adversely affected bidder or proposer; exception for personal services
+      contract
+    status: ingested
+    path: statutes/ors-279c.460.md
+  - number: 279C.465
+    title: Action against successful bidder; amount of damages; when action to be commenced; defenses
+    status: ingested
+    path: statutes/ors-279c.465.md
+  - number: 279C.470
+    title: Compensation for contractor on contract declared void by court; exceptions; applicability CONSTRUCTION
+      CONTRACTS GENERALLY (Required Contract Conditions)
+    status: ingested
+    path: statutes/ors-279c.470.md
+  - number: 279C.500
+    title: “Person” defined
+    status: ingested
+    path: statutes/ors-279c.500.md
+  - number: 279C.505
+    title: Conditions concerning payment, contributions, liens, withholding, drug testing
+    status: ingested
+    path: statutes/ors-279c.505.md
+  - number: 279C.510
+    title: Demolition contracts to require material salvage; lawn and landscape maintenance contracts
+      to require composting or mulching
+    status: ingested
+    path: statutes/ors-279c.510.md
+  - number: 279C.515
+    title: Conditions concerning payment of claims by public officers, payment to persons furnishing labor
+      or materials and complaints
+    status: ingested
+    path: statutes/ors-279c.515.md
+  - number: 279C.520
+    title: Condition concerning hours of labor; compliance with pay equity provisions; employee discussions
+      of rate of pay or benefits
+    status: ingested
+    path: statutes/ors-279c.520.md
+  - number: 279C.525
+    title: Provisions concerning environmental and natural resources laws; remedies
+    status: ingested
+    path: statutes/ors-279c.525.md
+  - number: 279C.527
+    title: Inclusion of amount for green energy technology or woody biomass energy technology in public
+      improvement contract; written determination of appropriateness; con
+    status: ingested
+    path: statutes/ors-279c.527.md
+  - number: 279C.528
+    title: State Department of Energy requirements and specifications; record keeping requirements; rules
+    status: ingested
+    path: statutes/ors-279c.528.md
+  - number: 279C.530
+    title: Condition concerning payment for medical care and providing workers’ compensation
+    status: ingested
+    path: statutes/ors-279c.530.md
+  - number: 279C.533
+    title: Minimum hours and pay for apprentices employed on public improvements; contractor’s plan for
+      outreach to and recruitment and retention of COBID-certified busine
+    status: ingested
+    path: statutes/ors-279c.533.md
+  - number: 279C.534
+    title: Advisory committee for monitoring implementation of apprenticeship condition in public improvement
+      contracts
+    status: ingested
+    path: statutes/ors-279c.534.md
+  - number: 279C.535
+    title: Condition concerning steel material; rules
+    status: ingested
+    path: statutes/ors-279c.535.md
+  - number: 279C.537
+    title: Condition concerning use of diesel engines in motor vehicles used in performing certain public
+      improvement contracts; rules (Hours of Labor)
+    status: ingested
+    path: statutes/ors-279c.537.md
+  - number: 279C.540
+    title: Maximum hours of labor on public contracts; holidays; exceptions; liability to workers; rules
+    status: ingested
+    path: statutes/ors-279c.540.md
+  - number: 279C.545
+    title: Time limitation on claim for overtime; posting of circular by contractor (Retainage and Payments)
+    status: ingested
+    path: statutes/ors-279c.545.md
+  - number: 279C.550
+    title: “Retainage” defined
+    status: ingested
+    path: statutes/ors-279c.550.md
+  - number: 279C.555
+    title: Withholding of retainage
+    status: ingested
+    path: statutes/ors-279c.555.md
+  - number: 279C.560
+    title: Form of retainage; requirements for surety bonds; conditions for rejecting bonds, securities
+      or other instruments; allocation of costs; procedures for holding a
+    status: ingested
+    path: statutes/ors-279c.560.md
+  - number: 279C.565
+    title: Limitation on retainage requirements
+    status: ingested
+    path: statutes/ors-279c.565.md
+  - number: 279C.570
+    title: Prompt payment policy; progress payments; retainage; interest; exception; settlement of compensation
+      disputes (Subcontractors)
+    status: ingested
+    path: statutes/ors-279c.570.md
+  - number: 279C.580
+    title: Contractor’s relations with subcontractors
+    status: ingested
+    path: statutes/ors-279c.580.md
+  - number: 279C.585
+    title: Authority to substitute undisclosed first-tier subcontractor; circumstances; rules
+    status: ingested
+    path: statutes/ors-279c.585.md
+  - number: 279C.590
+    title: Complaint process for substitutions of subcontractors; civil penalties (Action on Payment Bonds
+      and Public Works Bonds)
+    status: ingested
+    path: statutes/ors-279c.590.md
+  - number: 279C.600
+    title: Right of action on payment bond or public works bond of contractor or subcontractor; notice
+      of claim
+    status: ingested
+    path: statutes/ors-279c.600.md
+  - number: 279C.605
+    title: Notice of claim
+    status: ingested
+    path: statutes/ors-279c.605.md
+  - number: 279C.610
+    title: Action on contractor’s public works bond or payment bond; time limitation
+    status: ingested
+    path: statutes/ors-279c.610.md
+  - number: 279C.615
+    title: Preference for labor and material liens
+    status: ingested
+    path: statutes/ors-279c.615.md
+  - number: 279C.620
+    title: Rights of person providing medical care to employees of contractor
+    status: ingested
+    path: statutes/ors-279c.620.md
+  - number: 279C.625
+    title: Joint liability when payment bond not executed (Termination or Suspension of Contract for Public
+      Interest Reasons)
+    status: ingested
+    path: statutes/ors-279c.625.md
+  - number: 279C.650
+    title: “Labor dispute” defined
+    status: ingested
+    path: statutes/ors-279c.650.md
+  - number: 279C.655
+    title: Extension and compensation when work suspended
+    status: ingested
+    path: statutes/ors-279c.655.md
+  - number: 279C.660
+    title: Compensation when contract terminated due to public interest
+    status: ingested
+    path: statutes/ors-279c.660.md
+  - number: 279C.665
+    title: Contractual provisions for compensation when contract terminated due to public interest
+    status: ingested
+    path: statutes/ors-279c.665.md
+  - number: 279C.670
+    title: Application of ORS
+    status: ingested
+    path: statutes/ors-279c.670.md
+  - number: 279C.800
+    title: Definitions for ORS
+    status: ingested
+    path: statutes/ors-279c.800.md
+  - number: 279C.805
+    title: Policy
+    status: ingested
+    path: statutes/ors-279c.805.md
+  - number: 279C.807
+    title: Workforce diversity for public works projects
+    status: ingested
+    path: statutes/ors-279c.807.md
+  - number: 279C.808
+    title: Rules
+    status: ingested
+    path: statutes/ors-279c.808.md
+  - number: 279C.810
+    title: Exemptions; rules
+    status: ingested
+    path: statutes/ors-279c.810.md
+  - number: 279C.815
+    title: Determination of prevailing wage; sources of information; comparison of state and federal prevailing
+      wage; other powers of commissioner
+    status: ingested
+    path: statutes/ors-279c.815.md
+  - number: 279C.817
+    title: Determination of applicability of prevailing wage rate; time limitation; hearing; rules
+    status: ingested
+    path: statutes/ors-279c.817.md
+  - number: 279C.820
+    title: Advisory committee to assist commissioner
+    status: ingested
+    path: statutes/ors-279c.820.md
+  - number: 279C.825
+    title: Fees; rules
+    status: ingested
+    path: statutes/ors-279c.825.md
+  - number: 279C.827
+    title: Division of public works project; applicability of prevailing wage rate to divided projects
+    status: ingested
+    path: statutes/ors-279c.827.md
+  - number: 279C.829
+    title: Agreement with other state to pay less than prevailing rate of wage
+    status: ingested
+    path: statutes/ors-279c.829.md
+  - number: 279C.830
+    title: Provisions concerning prevailing rate of wage in specifications, contracts and subcontracts;
+      applicability of prevailing wage; bond
+    status: ingested
+    path: statutes/ors-279c.830.md
+  - number: 279C.835
+    title: Notifying commissioner of public works contract subject to prevailing wage; payment of fee
+    status: ingested
+    path: statutes/ors-279c.835.md
+  - number: 279C.836
+    title: Public works bond; rules
+    status: ingested
+    path: statutes/ors-279c.836.md
+  - number: 279C.838
+    title: Applicability of state and federal rates of wage; determination of site of project; determination
+      of applicability of wage to transportation workers; waiver
+    status: ingested
+    path: statutes/ors-279c.838.md
+  - number: 279C.840
+    title: Payment of prevailing rate of wage; posting of rates and fringe benefit plan provisions
+    status: ingested
+    path: statutes/ors-279c.840.md
+  - number: 279C.845
+    title: Certified statements regarding payment of prevailing rates of wage; retainage
+    status: ingested
+    path: statutes/ors-279c.845.md
+  - number: 279C.850
+    title: Inspection to determine whether prevailing rate of wage being paid; civil action for failure
+      to pay prevailing rate of wage or overtime
+    status: ingested
+    path: statutes/ors-279c.850.md
+  - number: 279C.855
+    title: Liability for violations
+    status: ingested
+    path: statutes/ors-279c.855.md
+  - number: 279C.860
+    title: Ineligibility for public works contracts for failure to pay or post notice of prevailing rates
+      of wage; certified payroll reports to commissioner
+    status: ingested
+    path: statutes/ors-279c.860.md
+  - number: 279C.865
+    title: Civil penalties
+    status: ingested
+    path: statutes/ors-279c.865.md
+  - number: 279C.870
+    title: Civil action to enforce payment of prevailing rates of wage
+    status: ingested
+    path: statutes/ors-279c.870.md
+  - number: 279C.875
+    title: Criminal liability for intentional failure to pay prevailing wage; rules GENERAL PROVISIONS
+    status: ingested
+    path: statutes/ors-279c.875.md
+- chapter: '282'
+  title: Public Printing
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors282.html
+  sections:
+  - number: '282.010'
+    title: Definitions for ORS
+    status: ingested
+    path: statutes/ors-282.010.md
+  - number: '282.020'
+    title: Control of state printing and printing purchases
+    status: ingested
+    path: statutes/ors-282.020.md
+  - number: '282.025'
+    title: Legislative printing priority required
+    status: ingested
+    path: statutes/ors-282.025.md
+  - number: '282.030'
+    title: Submitting copy specifications for approval by director or designee
+    status: ingested
+    path: statutes/ors-282.030.md
+  - number: '282.040'
+    title: Charges for printing by department
+    status: ingested
+    path: statutes/ors-282.040.md
+  - number: '282.045'
+    title: Symbol on recycled paper
+    status: ingested
+    path: statutes/ors-282.045.md
+  - number: '282.050'
+    title: Multiple duplication work
+    status: ingested
+    path: statutes/ors-282.050.md
+  - number: '282.060'
+    title: Exception to application of state laws where federal funds are involved
+    status: ingested
+    path: statutes/ors-282.060.md
+  - number: '282.076'
+    title: Exemption for better value services
+    status: ingested
+    path: statutes/ors-282.076.md
+  - number: '282.080'
+    title: State Printer
+    status: ingested
+    path: statutes/ors-282.080.md
+  - number: '282.110'
+    title: Use of Oregon Department of Administrative Services Operating Fund
+    status: ingested
+    path: statutes/ors-282.110.md
+  - number: '282.150'
+    title: Printing inaugural address of Governor PUBLIC PRINTING GENERALLY
+    status: ingested
+    path: statutes/ors-282.150.md
+  - number: '282.210'
+    title: Performance within state of public printing, binding and stationery work; stipulation in request
+      for bids and in contracts; exceptions
+    status: ingested
+    path: statutes/ors-282.210.md
+  - number: '282.220'
+    title: Payment for unauthorized work outside state prohibited
+    status: ingested
+    path: statutes/ors-282.220.md
+  - number: '282.230'
+    title: Provisions required in contracts for work to be done outside of state PENALTIES
+    status: ingested
+    path: statutes/ors-282.230.md
+  - number: '282.990'
+    title: Penalties STATE PRINTING
+    status: ingested
+    path: statutes/ors-282.990.md
+- chapter: '283'
+  title: Interagency Services
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors283.html
+  sections:
+  - number: '283.010'
+    title: Definitions
+    status: ingested
+    path: statutes/ors-283.010.md
+  - number: '283.020'
+    title: Federal law governs when federal granted funds involved
+    status: ingested
+    path: statutes/ors-283.020.md
+  - number: '283.076'
+    title: Oregon Department of Administrative Services Operating Fund
+    status: ingested
+    path: statutes/ors-283.076.md
+  - number: '283.080'
+    title: Special revolving fund for immediate payments; petty cash fund CERTIFICATES OF PARTICIPATION
+      FINANCING
+    status: ingested
+    path: statutes/ors-283.080.md
+  - number: '283.085'
+    title: Definitions for ORS
+    status: ingested
+    path: statutes/ors-283.085.md
+  - number: '283.087'
+    title: Financing agreements; limitations
+    status: ingested
+    path: statutes/ors-283.087.md
+  - number: '283.089'
+    title: Authority of Director of Oregon Department of Administrative Services regarding financing agreements
+    status: ingested
+    path: statutes/ors-283.089.md
+  - number: '283.091'
+    title: Governor’s budget to include amount needed to pay amounts due on unpaid financing agreements
+    status: ingested
+    path: statutes/ors-283.091.md
+  - number: '283.092'
+    title: Effect of financing agreement on tax status
+    status: ingested
+    path: statutes/ors-283.092.md
+  - number: '283.095'
+    title: Authority for state agency to enter into financing agreement STATE AGENCY SERVICES
+    status: ingested
+    path: statutes/ors-283.095.md
+  - number: '283.100'
+    title: General government administrative functions and information technology and communications functions
+      for state agencies
+    status: ingested
+    path: statutes/ors-283.100.md
+  - number: '283.110'
+    title: Furnishing by state agency to another state agency of services, facilities and materials; services,
+      facilities or materials furnished to other persons; rules
+    status: ingested
+    path: statutes/ors-283.110.md
+  - number: '283.120'
+    title: State agency service unit; rules
+    status: ingested
+    path: statutes/ors-283.120.md
+  - number: '283.130'
+    title: “Agency” defined for ORS
+    status: ingested
+    path: statutes/ors-283.130.md
+  - number: '283.140'
+    title: and
+    status: ingested
+    path: statutes/ors-283.140.md
+  - number: '283.143'
+    title: Surcharge for telecommunications services; purpose; exempt agencies
+    status: ingested
+    path: statutes/ors-283.143.md
+  - number: '283.170'
+    title: Sale of steam heat to certain museums CONTROL AND REGULATION OF STATE-OWNED MOTOR VEHICLES
+      AND MOTOR POOL RESOURCES
+    status: ingested
+    path: statutes/ors-283.170.md
+  - number: '283.305'
+    title: Definitions for ORS
+    status: ingested
+    path: statutes/ors-283.305.md
+  - number: '283.310'
+    title: Control and regulation of state-owned motor vehicles; rules; statement of use
+    status: ingested
+    path: statutes/ors-283.310.md
+  - number: '283.312'
+    title: Provision of state-owned vehicle to authorized agency driver; mileage limits requirements;
+      exceptions; penalty for noncompliance
+    status: ingested
+    path: statutes/ors-283.312.md
+  - number: '283.313'
+    title: Adoption of mileage limits for use and replacement of state-owned vehicles; procedure for approving
+      exceptions to requirement for provision of state-owned vehic
+    status: ingested
+    path: statutes/ors-283.313.md
+  - number: '283.314'
+    title: Replacement of state-owned vehicle when replacement mileage standard is exceeded
+    status: ingested
+    path: statutes/ors-283.314.md
+  - number: '283.315'
+    title: Establishing motor pools
+    status: ingested
+    path: statutes/ors-283.315.md
+  - number: '283.320'
+    title: Transfer to pool or sale of vehicles; reimbursement
+    status: ingested
+    path: statutes/ors-283.320.md
+  - number: '283.325'
+    title: Acquisition of motor vehicles by department; assignment to state agencies
+    status: ingested
+    path: statutes/ors-283.325.md
+  - number: '283.327'
+    title: 'Purchase or lease of light-duty vehicles by state agencies; requirement for zero-emission
+      vehicles; exceptions when purchase or lease of zero-emission vehicles '
+    status: ingested
+    path: statutes/ors-283.327.md
+  - number: '283.330'
+    title: Department responsible for motor vehicles under its control
+    status: ingested
+    path: statutes/ors-283.330.md
+  - number: '283.335'
+    title: Storage, repair and maintenance facilities; interagency agreements
+    status: ingested
+    path: statutes/ors-283.335.md
+  - number: '283.337'
+    title: Reports to Department of Environmental Quality and State Department of Energy; content
+    status: ingested
+    path: statutes/ors-283.337.md
+  - number: '283.340'
+    title: Policy; rules; keeping records
+    status: ingested
+    path: statutes/ors-283.340.md
+  - number: '283.343'
+    title: Compliance examination on use of state-owned vehicles
+    status: ingested
+    path: statutes/ors-283.343.md
+  - number: '283.345'
+    title: Use of privately owned vehicles; rules
+    status: ingested
+    path: statutes/ors-283.345.md
+  - number: '283.350'
+    title: Use of Oregon Department of Administrative Services Operating Fund for automotive purposes
+    status: ingested
+    path: statutes/ors-283.350.md
+  - number: '283.390'
+    title: State-owned vehicles to be marked; exceptions
+    status: ingested
+    path: statutes/ors-283.390.md
+  - number: '283.395'
+    title: Driving state-owned vehicles for private purposes prohibited; rules
+    status: ingested
+    path: statutes/ors-283.395.md
+  - number: '283.398'
+    title: Findings and goals for zero-emission vehicles; purchasing requirements; rules
+    status: ingested
+    path: statutes/ors-283.398.md
+  - number: '283.401'
+    title: Report concerning utilization of zero-emission vehicles within state; recommendations for legislation
+      ELECTRIC VEHICLE CHARGING SYSTEMS
+    status: ingested
+    path: statutes/ors-283.401.md
+  - number: '283.410'
+    title: Conditions for installation of electric vehicle charging systems authorized or funded by state
+      agencies; exception MASTER ASBESTOS MANAGEMENT PLAN
+    status: ingested
+    path: statutes/ors-283.410.md
+  - number: '283.415'
+    title: Legislative findings; policy
+    status: ingested
+    path: statutes/ors-283.415.md
+  - number: '283.417'
+    title: Definitions for ORS
+    status: ingested
+    path: statutes/ors-283.417.md
+  - number: '283.419'
+    title: Department to develop and administer asbestos abatement standards, plans and procedures
+    status: ingested
+    path: statutes/ors-283.419.md
+  - number: '283.421'
+    title: Agency responsibility for abatement of asbestos
+    status: ingested
+    path: statutes/ors-283.421.md
+  - number: '283.423'
+    title: Expenses of department
+    status: ingested
+    path: statutes/ors-283.423.md
+  - number: '283.425'
+    title: Costs of litigation PENALTIES
+    status: ingested
+    path: statutes/ors-283.425.md
+  - number: '283.990'
+    title: Penalties GENERAL PROVISIONS
+    status: ingested
+    path: statutes/ors-283.990.md
 - chapter: '291'
   title: State Financial Administration
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors291.html
@@ -1597,6 +3721,239 @@ chapters:
     title: Penalties GENERAL PROVISIONS
     status: ingested
     path: statutes/ors-291.990.md
+- chapter: '292'
+  title: Salaries and Expenses of State Officers and Employees
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors292.html
+  sections:
+  - number: '292.010'
+    title: Salaries of state officers and employees payable monthly or biweekly
+    status: ingested
+    path: statutes/ors-292.010.md
+  - number: '292.014'
+    title: Definitions for ORS
+    status: ingested
+    path: statutes/ors-292.014.md
+  - number: '292.016'
+    title: Centralized payroll procedure
+    status: ingested
+    path: statutes/ors-292.016.md
+  - number: '292.018'
+    title: Designation of agent
+    status: ingested
+    path: statutes/ors-292.018.md
+  - number: '292.022'
+    title: Preparation of payroll
+    status: ingested
+    path: statutes/ors-292.022.md
+  - number: '292.024'
+    title: Warrant for aggregate amount allowed plus assessments; limits
+    status: ingested
+    path: statutes/ors-292.024.md
+  - number: '292.026'
+    title: Payroll payments
+    status: ingested
+    path: statutes/ors-292.026.md
+  - number: '292.032'
+    title: Records of payroll payments
+    status: ingested
+    path: statutes/ors-292.032.md
+  - number: '292.033'
+    title: Advances of regular and terminal salary or wages
+    status: ingested
+    path: statutes/ors-292.033.md
+  - number: '292.034'
+    title: Payment for use of centralized payroll services
+    status: ingested
+    path: statutes/ors-292.034.md
+  - number: '292.036'
+    title: Rules
+    status: ingested
+    path: statutes/ors-292.036.md
+  - number: '292.039'
+    title: Paying officers and employees of certain state institutions and agencies
+    status: ingested
+    path: statutes/ors-292.039.md
+  - number: '292.040'
+    title: Bond of payroll officer
+    status: ingested
+    path: statutes/ors-292.040.md
+  - number: '292.042'
+    title: Paying employees by single payment to designated financial institutions
+    status: ingested
+    path: statutes/ors-292.042.md
+  - number: '292.043'
+    title: Deduction for payment to foundations; rules
+    status: ingested
+    path: statutes/ors-292.043.md
+  - number: '292.044'
+    title: Deduction by employees of public universities for payment to nonprofit organization; approval
+      by governing board
+    status: ingested
+    path: statutes/ors-292.044.md
+  - number: '292.045'
+    title: Annual charitable fund drive program; charitable fund drive committee; members; powers; deduction
+      for payment to charitable fund drive program; disclosure of ad
+    status: ingested
+    path: statutes/ors-292.045.md
+  - number: '292.047'
+    title: Deduction for payment to Oregon State Capitol Foundation; rules
+    status: ingested
+    path: statutes/ors-292.047.md
+  - number: '292.051'
+    title: Deduction of cost of group insurance and other services; fee; payment of moneys deducted
+    status: ingested
+    path: statutes/ors-292.051.md
+  - number: '292.057'
+    title: Deduction for payment to Oregon Veterans’ Home Account; rules
+    status: ingested
+    path: statutes/ors-292.057.md
+  - number: '292.061'
+    title: Deduction for payment of delinquent taxes
+    status: ingested
+    path: statutes/ors-292.061.md
+  - number: '292.065'
+    title: Deduction of payment for parking fees; agreements for parking in state lots; rules
+    status: ingested
+    path: statutes/ors-292.065.md
+  - number: '292.067'
+    title: Deduction of requested payments to financial institutions; payment to designated central depositories
+    status: ingested
+    path: statutes/ors-292.067.md
+  - number: '292.070'
+    title: Withholding compensation to purchase United States Savings Bonds or other obligations; Employes’
+      Bond Savings Account; rules
+    status: ingested
+    path: statutes/ors-292.070.md
+  - number: '292.080'
+    title: Issuance of bonds; delivery to employee
+    status: ingested
+    path: statutes/ors-292.080.md
+  - number: '292.090'
+    title: Use of balances to purchase bonds in advance
+    status: ingested
+    path: statutes/ors-292.090.md
+  - number: '292.100'
+    title: Refunds from account
+    status: ingested
+    path: statutes/ors-292.100.md
+  - number: '292.110'
+    title: Procedure where employee dies having credit in account
+    status: ingested
+    path: statutes/ors-292.110.md
+  - number: '292.150'
+    title: Advances upon mileage allowances of members of legislature and upon salaries of legislative
+      employees and other state employees; rules
+    status: ingested
+    path: statutes/ors-292.150.md
+  - number: '292.160'
+    title: Repayment of amounts advanced
+    status: ingested
+    path: statutes/ors-292.160.md
+  - number: '292.170'
+    title: Procedure when employee leaves employment after overpayment
+    status: ingested
+    path: statutes/ors-292.170.md
+  - number: '292.180'
+    title: Invoice reflecting certain savings; use of savings; refunding SUBSISTENCE AND MILEAGE ALLOWANCES
+      FOR TRAVEL BY STATE OFFICERS AND EMPLOYEES
+    status: ingested
+    path: statutes/ors-292.180.md
+  - number: '292.210'
+    title: Definitions for ORS
+    status: ingested
+    path: statutes/ors-292.210.md
+  - number: '292.220'
+    title: Department to regulate subsistence and mileage allowances for travel; rules
+    status: ingested
+    path: statutes/ors-292.220.md
+  - number: '292.230'
+    title: Policy on out-of-state travel; guidelines; rules
+    status: ingested
+    path: statutes/ors-292.230.md
+  - number: '292.250'
+    title: Reimbursement for use of privately owned motor vehicle on official business; statewide tiered
+      mileage reimbursement rate schedule
+    status: ingested
+    path: statutes/ors-292.250.md
+  - number: '292.280'
+    title: Advance for expenses of travel and subsistence
+    status: ingested
+    path: statutes/ors-292.280.md
+  - number: '292.286'
+    title: Approval of advance by agency head; payment; rules
+    status: ingested
+    path: statutes/ors-292.286.md
+  - number: '292.288'
+    title: State claim on advances SALARIES AND EXPENSES OF STATE OFFICERS
+    status: ingested
+    path: statutes/ors-292.288.md
+  - number: '292.311'
+    title: Governor, Secretary of State, State Treasurer, Attorney General, Commissioner of Bureau of
+      Labor and Industries
+    status: ingested
+    path: statutes/ors-292.311.md
+  - number: '292.316'
+    title: Governor, Secretary of State, State Treasurer and Attorney General to pay fees and commissions
+      into treasury; biennial report
+    status: ingested
+    path: statutes/ors-292.316.md
+  - number: '292.406'
+    title: Court of Appeals judges
+    status: ingested
+    path: statutes/ors-292.406.md
+  - number: '292.411'
+    title: Supreme Court Chief Justice and judges
+    status: ingested
+    path: statutes/ors-292.411.md
+  - number: '292.416'
+    title: Circuit court judges
+    status: ingested
+    path: statutes/ors-292.416.md
+  - number: '292.426'
+    title: Tax court judge
+    status: ingested
+    path: statutes/ors-292.426.md
+  - number: '292.428'
+    title: Cost of living adjustment for judicial salaries
+    status: ingested
+    path: statutes/ors-292.428.md
+  - number: '292.430'
+    title: Retirement and insurance benefits extension to state elected officers
+    status: ingested
+    path: statutes/ors-292.430.md
+  - number: '292.495'
+    title: Compensation and expenses of members of state boards and commissions
+    status: ingested
+    path: statutes/ors-292.495.md
+  - number: '292.500'
+    title: Compensation and expenses of members of Oregon Council on Developmental Disabilities
+    status: ingested
+    path: statutes/ors-292.500.md
+  - number: '292.930'
+    title: Annual salary for certain elected officers COMPARABLE VALUE OF WORK
+    status: ingested
+    path: statutes/ors-292.930.md
+  - number: '292.951'
+    title: Definitions for ORS
+    status: ingested
+    path: statutes/ors-292.951.md
+  - number: '292.956'
+    title: Methodology for determining comparability of value of work; rules
+    status: ingested
+    path: statutes/ors-292.956.md
+  - number: '292.961'
+    title: Pay Equity Adjustment Fund; use; priority; review of distribution by legislative body
+    status: ingested
+    path: statutes/ors-292.961.md
+  - number: '292.971'
+    title: Job Evaluation Teams; duties PENALTIES
+    status: ingested
+    path: statutes/ors-292.971.md
+  - number: '292.990'
+    title: Penalties PROCEDURE FOR PAYMENT OF SALARY AND EXPENSES OF STATE OFFICERS AND EMPLOYEES
+    status: not_sliceable
+    note: no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference
+      artifact); not ingested
 - chapter: '293'
   title: Administration of Public Funds
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors293.html
@@ -2254,168 +4611,3 @@ chapters:
       cash management reform PENALTIES
     status: ingested
     path: statutes/ors-293.880.md
-- chapter: 276A
-  title: Information Technology
-  url: https://www.oregonlegislature.gov/bills_laws/ors/ors276A.html
-  sections:
-  - number: 276A.200
-    title: Legislative findings on information resources
-    status: ingested
-    path: statutes/ors-276a.200.md
-  - number: 276A.203
-    title: State Chief Information Officer; qualifications; duties; Enterprise Information Resources Management
-      Strategy; rules
-    status: ingested
-    path: statutes/ors-276a.203.md
-  - number: 276A.206
-    title: Oversight of state information and telecommunications technology by State Chief Information
-      Officer; policy; rules; application for designation as community of interest
-    status: ingested
-    path: statutes/ors-276a.206.md
-  - number: 276A.209
-    title: State Information Technology Operating Fund
-    status: ingested
-    path: statutes/ors-276a.209.md
-  - number: 276A.223
-    title: Requirement that state agency or public corporation obtain quality management services when
-      implementing information technology initiative; reports; exceptions
-    status: ingested
-    path: statutes/ors-276a.223.md
-  - number: 276A.226
-    title: State agency funding requests for information technology; review by State Chief Information
-      Officer and Enterprise Information Services; priority rankings; biennial report
-    status: ingested
-    path: statutes/ors-276a.226.md
-  - number: 276A.230
-    title: Definitions
-    status: ingested
-    path: statutes/ors-276a.230.md
-  - number: 276A.233
-    title: Information technology portfolio-based management; inventory; standards; rules; exception
-    status: ingested
-    path: statutes/ors-276a.233.md
-  - number: 276A.236
-    title: Enterprise information resources management; adoption and implementation of strategy; state
-      agency information technology initiatives costing more than $1 million
-    status: ingested
-    path: statutes/ors-276a.236.md
-  - number: 276A.239
-    title: Portfolio-based management of information technology resources for Secretary of State
-    status: ingested
-    path: statutes/ors-276a.239.md
-  - number: 276A.242
-    title: Portfolio-based management of information technology resources for State Treasurer
-    status: ingested
-    path: statutes/ors-276a.242.md
-  - number: 276A.250
-    title: Definitions
-    status: ingested
-    path: statutes/ors-276a.250.md
-  - number: 276A.253
-    title: Oregon transparency website
-    status: ingested
-    path: statutes/ors-276a.253.md
-  - number: 276A.256
-    title: Reports of tax expenditures connected to economic development
-    status: ingested
-    path: statutes/ors-276a.256.md
-  - number: 276A.259
-    title: Transparency Oregon Advisory Commission; members; duties; terms; reports
-    status: ingested
-    path: statutes/ors-276a.259.md
-  - number: 276A.262
-    title: Transparency Oregon Advisory Commission Fund
-    status: ingested
-    path: statutes/ors-276a.262.md
-  - number: 276A.270
-    title: Definitions
-    status: ingested
-    path: statutes/ors-276a.270.md
-  - number: 276A.273
-    title: Electronic Government Portal Advisory Board
-    status: ingested
-    path: statutes/ors-276a.273.md
-  - number: 276A.276
-    title: Ability to offer government services through portal; portal provider fee; rules
-    status: ingested
-    path: statutes/ors-276a.276.md
-  - number: 276A.300
-    title: Information systems security in executive department; rules
-    status: ingested
-    path: statutes/ors-276a.300.md
-  - number: 276A.303
-    title: Information systems security for Secretary of State, State Treasurer and Attorney General
-    status: ingested
-    path: statutes/ors-276a.303.md
-  - number: 276A.306
-    title: Information security incidents and assessments; reports
-    status: ingested
-    path: statutes/ors-276a.306.md
-  - number: 276A.323
-    title: State agency coordination
-    status: ingested
-    path: statutes/ors-276a.323.md
-  - number: 276A.332
-    title: Authority of State Chief Information Officer to enter into agreements
-    status: ingested
-    path: statutes/ors-276a.332.md
-  - number: 276A.335
-    title: Moneys from federal government and other sources
-    status: ingested
-    path: statutes/ors-276a.335.md
-  - number: 276A.340
-    title: Definitions
-    status: ingested
-    path: statutes/ors-276a.340.md
-  - number: 276A.342
-    title: State agencies prohibited from using covered products; risk mitigation; exceptions
-    status: ingested
-    path: statutes/ors-276a.342.md
-  - number: 276A.344
-    title: Policies and standards; national security threat; rules
-    status: ingested
-    path: statutes/ors-276a.344.md
-  - number: 276A.346
-    title: Secretary of State prohibited from using covered products; risk mitigation; exceptions
-    status: ingested
-    path: statutes/ors-276a.346.md
-  - number: 276A.348
-    title: State Treasurer prohibited from using covered products; risk mitigation; exceptions
-    status: ingested
-    path: statutes/ors-276a.348.md
-  - number: 276A.350
-    title: Definitions
-    status: ingested
-    path: statutes/ors-276a.350.md
-  - number: 276A.353
-    title: Chief Data Officer; duties; rules
-    status: ingested
-    path: statutes/ors-276a.353.md
-  - number: 276A.356
-    title: Open data standard
-    status: ingested
-    path: statutes/ors-276a.356.md
-  - number: 276A.359
-    title: Technical standards manual
-    status: ingested
-    path: statutes/ors-276a.359.md
-  - number: 276A.362
-    title: Release of publishable data on web portal; exemptions; rules
-    status: ingested
-    path: statutes/ors-276a.362.md
-  - number: 276A.365
-    title: Information management by state agencies
-    status: ingested
-    path: statutes/ors-276a.365.md
-  - number: 276A.368
-    title: Purpose of data; limitation of liability; publishable data in public domain
-    status: ingested
-    path: statutes/ors-276a.368.md
-  - number: 276A.371
-    title: Obligations of state agency under public records law
-    status: ingested
-    path: statutes/ors-276a.371.md
-  - number: 276A.374
-    title: Application to Secretary of State and State Treasurer; rules
-    status: ingested
-    path: statutes/ors-276a.374.md

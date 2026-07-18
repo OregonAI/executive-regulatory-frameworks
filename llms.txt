@@ -11,10 +11,13 @@
 
 ## Statutes (ORS)
 
-- [Statutes index](statutes/_index.md): 570 ORS sections, full text each — complete
+- [Statutes index](statutes/_index.md): 1071 ORS sections, full text each — complete
   chapters 183 (Administrative Procedures Act), 184 (Executive Branch Departments incl.
-  DAS), 192 (Public Records; Meetings), 276A (Information Technology), 291 (State
-  Financial Administration), 293 (Administration of Public Funds), 2025 Edition.
+  DAS), 192 (Public Records; Meetings), 240 (State Personnel Relations), 276 (Public
+  Facilities), 276A (Information Technology), 278 (Insurance for Public Bodies), 279A/B/C
+  (Public Contracting — General/Procurements/Improvements), 282 (Public Printing), 283
+  (Interagency Services), 291 (State Financial Administration), 292 (Salaries & Expenses
+  of State Officers/Employees), 293 (Administration of Public Funds), 2025 Edition.
   Consult for the legal authority behind any rule or policy.
 - [ORS 276A.300 — Information systems security in executive department](statutes/ors-276a.300.md):
   the State CIO's authority over executive-branch information security; the statutory

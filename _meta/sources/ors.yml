@@ -20,16 +20,61 @@ sources:
   sha256: 807d082f52b2a24fefff22ddad950f17557af3dc0d7b55b9572c6bad7dfadcdf
   last_checked: '2026-07-18'
   notes: ORS chapter 192 (Records; Reports and Meetings), 2025 Edition
+- id: ors-chapter-240
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors240.html
+  sha256: 535b0ebfd2a337ab32087e87613c5043b8aafa1bc01dacdbd10ed1cc466a7f64
+  last_checked: '2026-07-18'
+  notes: ORS chapter 240 (State Personnel Relations), 2025 Edition
+- id: ors-chapter-276
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors276.html
+  sha256: 70e38b5c060d5925bfc56e0fb6f060c45c905348fa1604f0c18bd2dd2b89c898
+  last_checked: '2026-07-18'
+  notes: ORS chapter 276 (Public Facilities), 2025 Edition
 - id: ors-chapter-276a
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors276A.html
   sha256: 84da86d3f6f9ce77d9cc126a49ac106bc0eca2d1318bc9898a3711409cd2b2d3
   last_checked: '2026-07-18'
   notes: ORS chapter 276A (Information Technology), 2025 Edition
+- id: ors-chapter-278
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors278.html
+  sha256: d47426a939ed5879f62e58dc0aea387e562caed17ca8416435d63ea1db50ce44
+  last_checked: '2026-07-18'
+  notes: ORS chapter 278 (Insurance for Public Bodies), 2025 Edition
+- id: ors-chapter-279a
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors279A.html
+  sha256: 3355f807e570e5bbac0e788867e7f18aec22631bd04464c251f043b4d7a69ceb
+  last_checked: '2026-07-18'
+  notes: ORS chapter 279A (Public Contracting - General Provisions), 2025 Edition
+- id: ors-chapter-279b
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors279B.html
+  sha256: 3c6665fcbec427c4c854cf41d560ec646fe74362554c009dbd4b65f327457671
+  last_checked: '2026-07-18'
+  notes: ORS chapter 279B (Public Contracting - Public Procurements), 2025 Edition
+- id: ors-chapter-279c
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors279C.html
+  sha256: 13a9d288a82b988f41c523aed6a631956e3ba907a6139a5cbd5e527a561e6308
+  last_checked: '2026-07-18'
+  notes: ORS chapter 279C (Public Contracting - Public Improvements), 2025 Edition
+- id: ors-chapter-282
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors282.html
+  sha256: fc7e6b2e072546c2e7a365f8cd901ebf3b4cb4dbc3c75e651834e9504c90a821
+  last_checked: '2026-07-18'
+  notes: ORS chapter 282 (Public Printing), 2025 Edition
+- id: ors-chapter-283
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors283.html
+  sha256: 29e2834e5bdca98e6178d212ab2c18413d46ed981352a9b53931874a7c65e906
+  last_checked: '2026-07-18'
+  notes: ORS chapter 283 (Interagency Services), 2025 Edition
 - id: ors-chapter-291
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors291.html
   sha256: c05d0af0dee595cf34a601d410bbcec710cd631fae5e89436a2dce8d1b6c11a6
   last_checked: '2026-07-18'
   notes: ORS chapter 291 (State Financial Administration), 2025 Edition
+- id: ors-chapter-292
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors292.html
+  sha256: 48a0eb57ec86240555134af8d08abcaf4fce7bff65bbebc22cc088f0ffade151
+  last_checked: '2026-07-18'
+  notes: ORS chapter 292 (Salaries and Expenses of State Officers and Employees), 2025 Edition
 - id: ors-chapter-293
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors293.html
   sha256: c363bb55e9ae828d37d9d2675b422a4dd87d1bcf07de3f1a6b79c06d2d1af23f

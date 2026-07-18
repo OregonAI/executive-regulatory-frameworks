@@ -1,0 +1,3574 @@
+ 
+ 
+ 
+ Oregon Revised Statutes 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ Oregon Revised Statutes 
+
+ 
+
+
+ Chapter
+279A — Public Contracting - General Provisions 
+
+   
+
+ 2025
+EDITION 
+
+   
+
+   
+
+ PUBLIC CONTRACTING - GENERAL
+PROVISIONS 
+
+   
+
+ PUBLIC FACILITIES, CONTRACTING
+& INSURANCE 
+
+   
+
+ GENERAL PROVISIONS 
+
+   
+
+ 279A.005  Short title 
+
+   
+
+ 279A.010  Definitions for Public
+Contracting Code 
+
+   
+
+ 279A.015  Policy 
+
+   
+
+ 279A.020  Organization of Public
+Contracting Code 
+
+   
+
+ 279A.025  Application of Public
+Contracting Code 
+
+   
+
+ 279A.030  Federal law prevails in
+case of conflict 
+
+   
+
+ AUTHORITY 
+
+   
+
+ 279A.050  Procurement authority 
+
+   
+
+ 279A.055  Personal services
+contracts 
+
+   
+
+ 279A.060  Local contract review
+boards 
+
+   
+
+ 279A.065  Model rules generally;
+applicability to contracting agencies 
+
+   
+
+ 279A.070  Rules 
+
+   
+
+ 279A.075  Delegation 
+
+   
+
+ DISADVANTAGED BUSINESS ENTERPRISES,
+MINORITY-OWNED BUSINESSES, WOMAN-OWNED BUSINESSES, VETERAN-OWNED BUSINESSES AND
+EMERGING SMALL BUSINESSES 
+
+   
+
+ 279A.100  Affirmative action;
+limited competition permitted 
+
+   
+
+ 279A.105  Subcontracting to emerging
+small businesses or veteran-owned businesses 
+
+   
+
+ 279A.107  Certification as
+disadvantaged business enterprise, minority-owned business, woman-owned
+business, veteran-owned business or emerging small business during term of
+public contract; exceptions 
+
+   
+
+ 279A.110  Discrimination in
+subcontracting prohibited; remedies 
+
+   
+
+ 279A.112  Requirement to certify
+that contractor has policy and practice of preventing sexual harassment, sexual
+assault and discrimination against employees who are members of protected
+class; required elements of certification; exceptions 
+
+   
+
+ CONTRACT PREFERENCES 
+
+   
+
+ 279A.120  Preference for Oregon
+goods and services; nonresident bidders 
+
+   
+
+ 279A.125  Preference for recycled
+materials 
+
+   
+
+ 279A.128  Preferences for goods and
+services supplied within this state; preferences for certain entities 
+
+   
+
+ 279A.130  Preference for exceeding
+Buy America requirements for transit projects; rules 
+
+   
+
+ STATE PROCUREMENT 
+
+   
+
+ 279A.140  State procurement of
+goods and services; rules 
+
+   
+
+ 279A.142  Limitation of competition 
+
+   
+
+ 279A.145  Recycled product
+purchasing information 
+
+   
+
+ 279A.150  Procurement of goods
+containing recycled polyethylene material 
+
+   
+
+ 279A.152  Assessment of procurement
+practices related to recycled products and materials and recycled PETE 
+
+   
+
+ 279A.155  State procurement of
+paper 
+
+   
+
+ 279A.157  State contracting agency
+use of contract form, contract template or solicitation template; exceptions
+and exemptions; rules 
+
+   
+
+ 279A.159  Education and training or
+experience requirements for persons that conduct procurements or administer
+contracts for state contracting agencies; deadlines; rules 
+
+   
+
+ 279A.161  Review and verification
+of advice and recommendations concerning procurements; delegation 
+
+   
+
+ 279A.165  Report concerning special
+procurements; requirement to maintain records 
+
+   
+
+ 279A.167  Certification program for
+training in pay equity provisions of state law; rules 
+
+   
+
+ INTERGOVERNMENTAL RELATIONS 
+
+   
+
+ (Generally) 
+
+   
+
+ 279A.180  Purchases through federal
+programs 
+
+   
+
+ 279A.185  Local contracting agency
+arrangements for use or disposition of personal property authorized 
+
+   
+
+ 279A.190  Transfers of fire
+protection equipment between fire departments 
+
+   
+
+ (Cooperative Procurement) 
+
+   
+
+ 279A.200  Definitions for ORS
+279A.200 to 279A.225 
+
+   
+
+ 279A.205  Cooperative procurements
+authorized 
+
+   
+
+ 279A.210  Joint cooperative
+procurements 
+
+   
+
+ 279A.215  Permissive cooperative
+procurements 
+
+   
+
+ 279A.220  Interstate cooperative
+procurements 
+
+   
+
+ 279A.225  Protests and disputes 
+
+   
+
+ STATE SURPLUS PROPERTY 
+
+   
+
+ 279A.250  Definitions for ORS
+279A.250 to 279A.290 
+
+   
+
+ 279A.255  Inspection, appraisal and
+inventory of state property; reports by state agencies 
+
+   
+
+ 279A.260  Powers and duties of
+department; acquisitions by qualified donees; rules 
+
+   
+
+ 279A.265  Use of Oregon Department
+of Administrative Services Operating Fund; cash dividends 
+
+   
+
+ 279A.270  Contracts with federal
+government for accepting gifts and acquiring surplus property; bids not
+required 
+
+   
+
+ 279A.275  Leasing of state property 
+
+   
+
+ 279A.280  Disposal of surplus
+property; costs of disposal 
+
+   
+
+ 279A.285  Disposition of moneys
+received as payment for repair or replacement of damaged, destroyed, lost or
+stolen property 
+
+   
+
+ 279A.290  Miscellaneous receipts
+accounts 
+
+   
+
+ MISCELLANEOUS PROVISIONS 
+
+   
+
+ 279A.800  Consideration of whether
+bidder or proposer owes liquidated and delinquent debt to state 
+
+   
+
+ 279A.803  Requirements for
+qualified projects funded with moneys from American Rescue Plan Act of 2021;
+exceptions 
+
+   
+
+ PENALTIES 
+
+   
+
+ 279A.990  Penalties 
+
+   
+
+ GENERAL PROVISIONS 
+
+   
+
+       279A.005 Short
+title. ORS
+chapters 279A, 279B and 279C may be cited as the Public Contracting Code. [2003
+c.794 §1] 
+
+   
+
+       279A.010
+Definitions for Public Contracting Code. (1) As used in the Public Contracting Code, unless
+the context or a specifically applicable definition requires otherwise: 
+
+       (a) “Bidder”
+means a person that submits a bid in response to an invitation to bid. 
+
+       (b) “Contracting
+agency” means a public body authorized by law to conduct a procurement. “Contracting
+agency” includes, but is not limited to, the Director of the Oregon Department
+of Administrative Services and any person authorized by a contracting agency to
+conduct a procurement on the contracting agency’s behalf. “Contracting agency”
+does not include the judicial department or the legislative department. 
+
+       (c) “Days” means
+calendar days. 
+
+       (d) “Department”
+means the Oregon Department of Administrative Services. 
+
+       (e) “Director”
+means the Director of the Oregon Department of Administrative Services or a
+person designated by the director to carry out the authority of the director
+under the Public Contracting Code. 
+
+       (f) “Emergency”
+means circumstances that: 
+
+       (A) Could not
+have been reasonably foreseen; 
+
+       (B) Create a
+substantial risk of loss, damage or interruption of services or a substantial
+threat to property, public health, welfare or safety; and 
+
+       (C) Require
+prompt execution of a contract to remedy the condition. 
+
+       (g) “Energy
+performance contract” means a public contract, including a design-build
+contract, between a contracting agency and a qualified energy service company,
+as defined in ORS 276.905, in which the qualified energy service company: 
+
+       (A) Identifies
+and assesses a need or requirement in a public improvement for: 
+
+       (i) Providing
+guaranteed energy savings or performance through an energy conservation
+measure; 
+
+       (ii) Reducing
+energy consumption, greenhouse gas emissions, waste generation or water
+consumption; 
+
+       (iii) Reducing
+costs related to energy usage and storage, water supply or waste disposal; 
+
+       (iv) Reducing
+labor and materials costs necessary to repair, replace or maintain energy
+supply and storage systems, water supply systems or plumbing or waste disposal
+systems; or 
+
+       (v) Increasing
+renewable energy generation and storage, including renewable energy from
+thermal energy sources; and 
+
+       (B) Recommends,
+designs and constructs, fabricates, assembles or installs, as appropriate, a
+fixture, furnishing or system that meets the need or requirement identified in
+subparagraph (A) of this paragraph. 
+
+       (h) “Executive department”
+has the meaning given that term in ORS 174.112. 
+
+       (i) “Goods”
+includes supplies, equipment, materials, personal property, including any
+tangible, intangible and intellectual property and rights and licenses in
+relation thereto, and combinations of any of the items identified in this
+paragraph. 
+
+       (j) “Goods and
+services” or “goods or services” includes combinations of any of the items
+identified in the definitions of “goods” and “services.” 
+
+       (k)(A) “Grant”
+means: 
+
+       (i) An agreement
+under which a contracting agency receives moneys, property or other assistance,
+including but not limited to federal assistance that is characterized as a
+grant by federal law or regulations, loans, loan guarantees, credit
+enhancements, gifts, bequests, commodities or other assets, from a grantor for
+the purpose of supporting or stimulating a program or activity of the
+contracting agency and in which no substantial involvement by the grantor is
+anticipated in the program or activity other than involvement associated with
+monitoring compliance with the grant conditions; or 
+
+       (ii) An agreement
+under which a contracting agency provides moneys, property or other assistance,
+including but not limited to federal assistance that is characterized as a
+grant by federal law or regulations, loans, loan guarantees, credit
+enhancements, gifts, bequests, commodities or other assets, to a recipient for
+the purpose of supporting or stimulating a program or activity of the recipient
+and in which no substantial involvement by the contracting agency is
+anticipated in the program or activity other than involvement associated with
+monitoring compliance with the grant conditions. 
+
+       (B) “Grant” does
+not include a public contract for a public improvement, for public works, as
+defined in ORS 279C.800, or for emergency work, minor alterations or ordinary
+repair or maintenance necessary to preserve a public improvement, when under
+the public contract a contracting agency pays, in consideration for contract
+performance intended to realize or to support the realization of the purposes
+for which grant funds were provided to the contracting agency, moneys that the
+contracting agency has received under a grant. 
+
+       (L) “Industrial
+oil” means any compressor, turbine or bearing oil, hydraulic oil, metal-working
+oil or refrigeration oil. 
+
+       (m) “Judicial
+department” has the meaning given that term in ORS 174.113. 
+
+       (n) “Legislative
+department” has the meaning given that term in ORS 174.114. 
+
+       (o) “Local
+contract review board” means a local contract review board described in ORS
+279A.060. 
+
+       (p) “Local
+contracting agency” means a local government or special government body
+authorized by law to conduct a procurement. “Local contracting agency” includes
+any person authorized by a local contracting agency to conduct a procurement on
+behalf of the local contracting agency. 
+
+       (q) “Local
+government” has the meaning given that term in ORS 174.116. 
+
+       (r) “Lowest
+responsible bidder” means the lowest bidder who: 
+
+       (A) Has
+substantially complied with all prescribed public contracting procedures and
+requirements; 
+
+       (B) Has met the
+standards of responsibility set forth in ORS 279B.110 or 279C.375; 
+
+       (C) Has not been
+debarred or disqualified by the contracting agency under ORS 279B.130 or
+279C.440; and 
+
+       (D) If the
+advertised contract is a public improvement contract, is not on the list
+created by the Construction Contractors Board under ORS 701.227. 
+
+       (s) “Lubricating
+oil” means any oil intended for use in an internal combustion crankcase,
+transmission, gearbox or differential or an automobile, bus, truck, vessel,
+plane, train, heavy equipment or machinery powered by an internal combustion
+engine. 
+
+       (t) “Person”
+means a natural person capable of being legally bound, a sole proprietorship, a
+corporation, a partnership, a limited liability company or partnership, a
+limited partnership, a for-profit or nonprofit unincorporated association, a
+business trust, two or more persons having a joint or common economic interest,
+any other person with legal capacity to contract or a public body. 
+
+       (u) “Post-consumer
+waste” means a finished material that would normally be disposed of as solid
+waste, having completed its life cycle as a consumer item. “Post-consumer waste”
+does not include manufacturing waste. 
+
+       (v) “Price
+agreement” means a public contract for the procurement of goods or services at
+a set price with: 
+
+       (A) No guarantee
+of a minimum or maximum purchase; or 
+
+       (B) An initial
+order or minimum purchase combined with a continuing contractor obligation to
+provide goods or services in which the contracting agency does not guarantee a
+minimum or maximum additional purchase. 
+
+       (w) “Procurement”
+means the act of purchasing, leasing, renting or otherwise acquiring goods or
+services. “Procurement” includes each function and procedure undertaken or
+required to be undertaken by a contracting agency to enter into a public
+contract, administer a public contract and obtain the performance of a public
+contract under the Public Contracting Code. 
+
+       (x) “Proposer”
+means a person that submits a proposal in response to a request for proposals. 
+
+       (y) “Public body”
+has the meaning given that term in ORS 174.109. 
+
+       (z) “Public
+contract” means a sale or other disposal, or a purchase, lease, rental or other
+acquisition, by a contracting agency of personal property, services, including
+personal services, public improvements, public works, minor alterations, or
+ordinary repair or maintenance necessary to preserve a public improvement. “Public
+contract” does not include grants. 
+
+       (aa) “Public
+contracting” means procurement activities described in the Public Contracting
+Code relating to obtaining, modifying or administering public contracts or
+price agreements. 
+
+       (bb) “Public
+Contracting Code” or “code” means ORS chapters 279A, 279B and 279C. 
+
+       (cc) “Public
+improvement” means a project for construction, reconstruction or major
+renovation on real property by or for a contracting agency. “Public improvement”
+does not include: 
+
+       (A) Projects for
+which no funds of a contracting agency are directly or indirectly used, except
+for participation that is incidental or related primarily to project design or
+inspection; or 
+
+       (B) Emergency
+work, minor alteration, ordinary repair or maintenance necessary to preserve a
+public improvement. 
+
+       (dd) “Public
+improvement contract” means a public contract for a public improvement. “Public
+improvement contract” does not include a public contract for emergency work,
+minor alterations, or ordinary repair or maintenance necessary to preserve a
+public improvement. 
+
+       (ee) “Recycled
+material” means any material that would otherwise be a useless, unwanted or
+discarded material except for the fact that the material still has useful
+physical or chemical properties after serving a specific purpose and can,
+therefore, be reused or recycled. 
+
+       (ff) “Recycled
+oil” means used oil that has been prepared for reuse as a petroleum product by
+refining, rerefining, reclaiming, reprocessing or other means, provided that
+the preparation or use is operationally safe, environmentally sound and
+complies with all laws and regulations. 
+
+       (gg) “Recycled
+paper” means a paper product with not less than: 
+
+       (A) Fifty percent
+of its fiber weight consisting of secondary waste materials; or 
+
+       (B) Twenty-five
+percent of its fiber weight consisting of post-consumer waste. 
+
+       (hh) “Recycled
+PETE” means post-consumer polyethylene terephthalate material. 
+
+       (ii) “Recycled
+product” means all materials, goods and supplies, not less than 50 percent of
+the total weight of which consists of secondary and post-consumer waste with
+not less than 10 percent of its total weight consisting of post-consumer waste.
+“Recycled product” includes any product that could have been disposed of as
+solid waste, having completed its life cycle as a consumer item, but otherwise
+is refurbished for reuse without substantial alteration of the product’s form. 
+
+       (jj) “Secondary
+waste materials” means fragments of products or finished products of a
+manufacturing process that has converted a virgin resource into a commodity of
+real economic value. “Secondary waste materials” includes post-consumer waste. “Secondary
+waste materials” does not include excess virgin resources of the manufacturing
+process. For paper, “secondary waste materials” does not include fibrous waste
+generated during the manufacturing process such as fibers recovered from waste
+water or trimmings of paper machine rolls, mill broke, wood slabs, chips,
+sawdust or other wood residue from a manufacturing process. 
+
+       (kk) “Services”
+mean services other than personal services designated under ORS 279A.055,
+except that, for state contracting agencies with procurement authority under
+ORS 279A.050 or 279A.140, “services” includes personal services as designated
+by the state contracting agencies. 
+
+       (LL) “Special
+government body” has the meaning given that term in ORS 174.117. 
+
+       (mm) “State
+agency” means the executive department, except the Secretary of State and the
+State Treasurer in the performance of the duties of their constitutional
+offices. 
+
+       (nn) “State
+contracting agency” means an executive department entity authorized by law to
+conduct a procurement. 
+
+       (oo) “State
+government” has the meaning given that term in ORS 174.111. 
+
+       (pp) “Used oil”
+has the meaning given that term in ORS 459A.555. 
+
+       (qq) “Virgin oil”
+means oil that has been refined from crude oil and that has not been used or
+contaminated with impurities. 
+
+       (2) Other
+definitions appearing in the Public Contracting Code and the sections in which
+they appear are: 
+
+   
+
+   
+
+       (a)  “Administering
+contracting 
+
+       agency”     ORS 279A.200 
+
+       (b)  “Affirmative action”   ORS
+279A.100 
+
+       (c)  “Architect”      ORS
+279C.100 
+
+       (d) “Architectural, 
+
+       engineering, photogram- 
+
+       metric mapping, 
+
+       transportation planning 
+
+       or land surveying 
+
+       services”    ORS 279C.100 
+
+       (e)  “Bid documents”        ORS
+279C.400 
+
+       (f)  “Bidder”         ORS
+279B.415 
+
+       (g)  “Bids” ORS 279C.400 
+
+       (h)  “Brand name” ORS
+279B.405 
+
+       (i)   “Brand name or equal 
+
+       specification”        ORS
+279B.200 
+
+       (j)   “Brand name 
+
+       specification”        ORS
+279B.200 
+
+       (k)  “Class special 
+
+       procurement”        ORS
+279B.085 
+
+       (L) “Consultant”   ORS
+279C.115 
+
+       (m) “Contract-specific 
+
+       special procurement”        ORS
+279B.085 
+
+       (n)  “Cooperative 
+
+       procurement”        ORS
+279A.200 
+
+       (o)  “Cooperative procurement 
+
+       group”       ORS 279A.200 
+
+       (p)  “Donee”          ORS
+279A.250 
+
+       (q)  “Engineer”      ORS
+279C.100 
+
+       (r)  “Findings”       ORS
+279C.330 
+
+       (s)  “Fire protection 
+
+       equipment”            ORS
+279A.190 
+
+       (t)  “Fringe benefits”        ORS
+279C.800 
+
+       (u)  “Funds of a public 
+
+       agency”     ORS 279C.810 
+
+       (v)  “Good cause”  ORS
+279C.585 
+
+       (w) “Good faith dispute”   ORS
+279C.580 
+
+       (x)  “Goods”          ORS
+279B.115 
+
+       (y)  “Housing”       ORS
+279C.800 
+
+       (z)  “Interstate cooperative 
+
+       procurement”        ORS
+279A.200 
+
+       (aa)            “Invitation
+to bid”       ORS 279B.005 
+
+             and 279C.400 
+
+       (bb)            “Joint
+cooperative 
+
+       procurement”        ORS
+279A.200 
+
+       (cc)            “Labor
+dispute”          ORS 279C.650 
+
+       (dd)           “Land surveyor”          ORS
+279C.100 
+
+       (ee)            “Legally
+flawed”        ORS 279B.405 
+
+       (ff) “Locality”       ORS
+279C.800 
+
+       (gg)            “Nonprofit 
+
+       organization”         ORS
+279C.810 
+
+       (hh)            “Nonresident
+bidder”  ORS 279A.120 
+
+       (ii)  “Not-for-profit 
+
+       organization”         ORS
+279A.250 
+
+       (jj)  “Original contract”     ORS
+279A.200 
+
+       (kk)            “Permissive
+cooperative 
+
+       procurement”        ORS
+279A.200 
+
+       (LL)           “Person”          ORS
+279C.500 
+
+             and 279C.815 
+
+       (mm)          “Personal
+services”     ORS 279C.100 
+
+       (nn)            “Photogrammetric 
+
+       mapping”   ORS 279C.100 
+
+       (oo)            “Photogrammetrist”    ORS
+279C.100 
+
+       (pp)            “Prevailing
+rate of 
+
+       wage”        ORS 279C.800 
+
+       (qq)            “Procurement 
+
+       description”           ORS
+279B.005 
+
+       (rr) “Property”       ORS
+279A.250 
+
+       (ss) “Public agency”          ORS
+279C.800 
+
+       (tt) “Public contract”        ORS
+279A.190 
+
+       (uu)            “Public works”            ORS
+279C.800 
+
+       (vv)            “Purchasing
+contracting 
+
+       agency”     ORS 279A.200 
+
+       (ww)          “Regularly organized
+fire 
+
+       department”          ORS
+279A.190 
+
+       (xx)            “Related
+services”       ORS 279C.100 
+
+       (yy)            “Request for 
+
+       proposals” ORS 279B.005 
+
+       (zz)            “Resident
+bidder”       ORS 279A.120 
+
+       (aaa)          “Responsible
+bidder”  ORS 279A.105 
+
+             and 279B.005 
+
+       (bbb)          “Responsible 
+
+       proposer”   ORS 279B.005 
+
+       (ccc)          “Responsive
+bid”        ORS 279B.005 
+
+       (ddd)         “Responsive 
+
+       proposal”   ORS 279B.005 
+
+       (eee)          “Retainage”     ORS
+279C.550 
+
+       (fff)           “Special 
+
+       procurement”        ORS
+279B.085 
+
+       (ggg)          “Specification”            ORS
+279B.200 
+
+       (hhh)          “State agency” ORS
+279A.250 
+
+       (iii)             “Substantial 
+
+       completion”           ORS
+279C.465 
+
+       (jjj)             “Surplus
+property”      ORS 279A.250 
+
+       (kkk)          “Transportation 
+
+       planning services” ORS
+279C.100 
+
+       (LLL)        “Unnecessarily 
+
+       restrictive” ORS
+279B.405 [2003 c.794 §2;
+2003 c.794 §2a; 2005 c.22 §199; 2005 c.103 §1a; 2005 c.153 §2; 2005 c.360 §13;
+2007 c.764 §1; 2011 c.458 §8; 2017 c.715 §4; 2025 c.161 §3] 
+
+   
+
+       279A.015
+Policy. It is the
+policy of the State of Oregon, in enacting the Public Contracting Code, that a
+sound and responsive public contracting system should: 
+
+       (1) Simplify,
+clarify and modernize procurement practices so that they reflect the
+marketplace and industry standards. 
+
+       (2) Instill
+public confidence through ethical and fair dealing, honesty and good faith on
+the part of government officials and those who do business with the government. 
+
+       (3) Promote
+efficient use of state and local government resources, maximizing the economic
+investment in public contracting within this state. 
+
+       (4) Clearly
+identify rules and policies that implement each of the legislatively mandated
+socioeconomic programs that overlay public contracting and accompany the
+expenditure of public funds. 
+
+       (5) Allow
+impartial and open competition, protecting both the integrity of the public
+contracting process and the competitive nature of public procurement. In public
+procurement, as set out in ORS chapter 279B, meaningful competition may be
+obtained by evaluation of performance factors and other aspects of service and
+product quality, as well as pricing, in arriving at best value. 
+
+       (6) Provide a
+public contracting structure that can take full advantage of evolving
+procurement methods as they emerge within various industries, while preserving
+competitive bidding as the standard for public improvement contracts unless
+otherwise exempted. [2003 c.794 §3] 
+
+   
+
+       279A.020
+Organization of Public Contracting Code. (1) Except as otherwise provided in the Public
+Contracting Code, all public contracting by a contracting agency is subject to
+this chapter. 
+
+       (2) Except as
+provided in ORS 279C.320, public contracting involving public improvements and
+other construction services is subject to this chapter and ORS chapter 279C,
+but not ORS chapter 279B. 
+
+       (3) Public
+contracting involving architects, engineers, photogrammetrists, transportation
+planners, land surveyors and related services is subject to this chapter and
+ORS chapter 279C, but not ORS chapter 279B. 
+
+       (4) Except as
+provided in ORS 279C.320, all other public contracting is subject to this
+chapter and ORS chapter 279B, but not ORS chapter 279C. [2003 c.794 §4; 2005
+c.103 §2; 2011 c.458 §9] 
+
+   
+
+       279A.025
+Application of Public Contracting Code. (1) Except as provided in subsections (2) to (4) of
+this section, the Public Contracting Code applies to all public contracting. 
+
+       (2) The Public
+Contracting Code does not apply to: 
+
+       (a) Contracts
+between a contracting agency and: 
+
+       (A) Another
+contracting agency; 
+
+       (B) The Oregon
+Health and Science University; 
+
+       (C) A public
+university listed in ORS 352.002; 
+
+       (D) The Oregon
+State Bar; 
+
+       (E) A
+governmental body of another state; 
+
+       (F) The federal
+government; 
+
+       (G) A Federally
+Funded Research and Development Center that the National Science Foundation, or
+a successor agency, includes in the Master Government List of Federally Funded
+R&D Centers, or a similar list, however named, that the foundation or the successor
+agency makes publicly available; 
+
+       (H) An American
+Indian tribe or an agency of an American Indian tribe; 
+
+       (I) A nation, or
+a governmental body in a nation, other than the United States; or 
+
+       (J) An
+intergovernmental entity formed between or among: 
+
+       (i) Governmental
+bodies of this or another state; 
+
+       (ii) The federal
+government; 
+
+       (iii) An American
+Indian tribe or an agency of an American Indian tribe; 
+
+       (iv) A nation
+other than the United States; or 
+
+       (v) A
+governmental body in a nation other than the United States; 
+
+       (b) Agreements
+authorized by ORS chapter 190 or by a statute, charter provision, ordinance or
+other authority for establishing agreements between or among governmental
+bodies or agencies or tribal governing bodies or agencies; 
+
+       (c) Insurance and
+service contracts as provided for under ORS 414.115, 414.125, 414.135 and
+414.145 for purposes of source selection; 
+
+       (d) Grants; 
+
+       (e) Contracts for
+professional or expert witnesses or consultants to provide services or
+testimony relating to existing or potential litigation or legal matters in
+which a public body is or may become interested; 
+
+       (f) Acquisitions
+or disposals of real property or interest in real property; 
+
+       (g) Sole-source
+expenditures when rates are set by law or ordinance for purposes of source
+selection; 
+
+       (h) Contracts for
+the procurement or distribution of textbooks; 
+
+       (i) Procurements
+by a contracting agency from an Oregon Corrections Enterprises program; 
+
+       (j) The
+procurement, transportation, sale or distribution of distilled liquor, as
+defined in ORS 471.001, or the appointment of agents under ORS 471.230 or
+471.750 by the Oregon Liquor and Cannabis Commission; 
+
+       (k) Contracts
+entered into under ORS chapter 180 between the Attorney General and private
+counsel or special legal assistants; 
+
+       (L) Contracts for
+the sale of timber from lands that the State Board of Forestry, the State
+Forestry Department, the State Parks and Recreation Commission or the State
+Parks and Recreation Department owns or manages; 
+
+       (m) Contracts for
+activities necessary or convenient for the sale of timber under paragraph (L)
+of this subsection, either separately from or in conjunction with contracts for
+the sale of timber, including but not limited to activities such as timber harvesting
+and sorting, transporting, gravel pit development or operation, and road
+construction, maintenance or improvement; 
+
+       (n) Contracts for
+forest protection or forest related activities, as described in ORS 477.406, by
+the State Forester or the State Board of Forestry; 
+
+       (o) Contracts
+that the Housing and Community Services Department enters into in exercising
+the department’s duties prescribed in ORS chapters 456 and 458, or procurements
+described in ORS 456.625 (19); 
+
+       (p) Contracts
+that the State Treasurer enters into in exercising the powers of that office
+prescribed in ORS 178.010 to 178.090 and 276A.242 and ORS chapters 286A, 287A,
+289, 293, 294 and 295, including but not limited to investment contracts and
+agreements, banking services, clearing house services and collateralization
+agreements, bond documents, certificates of participation and other debt
+repayment agreements, and any associated contracts, agreements and documents,
+regardless of whether the obligations that the contracts, agreements or
+documents establish are general, special or limited, except that the State
+Treasurer’s public contracting for goods and services is subject to ORS chapter
+279B; 
+
+       (q) Contracts,
+agreements or other documents entered into, issued or established in connection
+with: 
+
+       (A) The issuance
+of obligations, as defined in ORS 286A.100 and 287A.310, of a public body; 
+
+       (B) Program loans
+and similar extensions or advances of funds, aid or assistance that a public
+body makes to a public or private body for the purpose of carrying out,
+promoting or sustaining activities or programs authorized by law; or 
+
+       (C) The
+investment of funds by a public body as authorized by law, and other financial
+transactions of a public body that by their character cannot practically be
+established under the competitive contractor selection procedures of ORS
+279B.050 to 279B.085; 
+
+       (r) Contracts for
+employee benefit plans as provided in ORS 243.105 (1), 243.125 (4), 243.221,
+243.275, 243.291, 243.303 and 243.565; 
+
+       (s) Contracts for
+employee benefit plans as provided in ORS 243.860 to 243.886; 
+
+       (t) Any agreement
+that a county enters into with a real estate broker or agent, auctioneer,
+appraiser or any other person for the purpose of disposing of property in
+accordance with ORS 312.520; or 
+
+       (u) Any other
+public contracting of a public body specifically exempted from the code by
+another provision of law. 
+
+       (3) The Public
+Contracting Code does not apply to the contracting activities of: 
+
+       (a) The Oregon
+State Lottery Commission; 
+
+       (b) The
+legislative department; 
+
+       (c) The judicial
+department; 
+
+       (d)
+Semi-independent state agencies listed in ORS 182.454, except as provided in
+ORS 279.835 to 279.855 and 279A.250 to 279A.290; 
+
+       (e) Oregon
+Corrections Enterprises; 
+
+       (f) The Oregon
+Film and Video Office, except as provided in ORS 279A.100 and 279A.250 to
+279A.290; 
+
+       (g) The Travel
+Information Council, except as provided in ORS 279A.250 to 279A.290; 
+
+       (h) The Oregon
+529 Savings Network and the Oregon 529 Savings Board; 
+
+       (i) The Oregon
+Innovation Council; 
+
+       (j) The Oregon
+Utility Notification Center; 
+
+       (k) The State
+Parks and Recreation Department, except for duties or obligations the
+department has under ORS 279A.250 to 279A.290 and the department’s contracting
+activities related to information technology, as defined in ORS 276A.230,
+photogrammetric mapping, as defined in ORS 672.002, or telecommunications, as
+defined in ORS 276A.206; or 
+
+       (L) Any other
+public body specifically exempted from the code by another provision of law. 
+
+       (4) ORS 279A.200
+to 279A.225 and 279B.050 to 279B.085 do not apply to contracts made with
+qualified nonprofit agencies providing employment opportunities for individuals
+with disabilities under ORS 279.835 to 279.855. [2003 c.794 §5; 2003 c.794 §5a;
+2005 c.22 §200; 2005 c.103 §3; 2005 c.109 §3; 2005 c.297 §3; 2005 c.748 §12;
+2005 c.777 §15; 2007 c.7 §19; 2007 c.70 §67; 2007 c.71 §81; 2007 c.764 §2; 2007
+c.783 §91; 2011 c.637 §88; 2013 c.492 §28; 2013 c.768 §123; 2015 c.447 §3; 2015
+c.843 §19; 2017 c.183 §94; 2017 c.533 §3; 2019 c.90 §1; 2021 c.351 §19; 2023
+c.193 §13; 2025 c.40 §1; 2025 c.414 §1; 2025 c.475 §7] 
+
+   
+
+       279A.030
+Federal law prevails in case of conflict. Except as otherwise expressly provided in ORS
+279C.800 to 279C.870, and notwithstanding ORS 279C.005 to 279C.670 and this
+chapter and ORS chapter 279B, applicable federal statutes and regulations
+govern when federal funds are involved and the federal statutes or regulations
+conflict with any provision of ORS 279C.005 to 279C.670 or this chapter or ORS
+chapter 279B, or require additional conditions in public contracts not
+authorized by ORS 279C.005 to 279C.670 or this chapter or ORS chapter 279B. [2003
+c.794 §6] 
+
+   
+
+ AUTHORITY 
+
+   
+
+       279A.050
+Procurement authority. 
+(1)(a) Except as otherwise provided in the Public Contracting Code, a
+contracting agency shall exercise all of the contracting agency’s procurement
+authority in accordance with the provisions of the Public Contracting Code. 
+
+       (b) If a
+contracting agency has authority under this section to carry out functions
+described in this section, or has authority to make procurements under a
+provision of law other than the Public Contracting Code, the contracting agency
+need not exercise the contracting agency’s authority in accordance with the
+provisions of the code if, under ORS 279A.025, the code does not apply to the
+contract or contracting agency. 
+
+       (2)(a) Except as
+otherwise provided in paragraph (b) of this subsection and the Public
+Contracting Code, for state agencies the Director of the Oregon Department of
+Administrative Services has all the authority available to carry out the
+provisions of the Public Contracting Code. 
+
+       (b) Except as
+otherwise provided in the Public Contracting Code, for state agencies the
+director may delegate to the State Chief Information Officer the authority to
+procure or supervise the procurement of all goods, services and personal
+services related to information technology and telecommunications for state
+contracting agencies. This paragraph does not apply to contracts under which
+the contractor delivers to the state agency information technology products or
+services incidentally in performing a personal services contract described in
+ORS chapter 279C or a construction contract described in ORS chapter 279C. 
+
+       (3) Except as
+otherwise provided in the Public Contracting Code, the Director of
+Transportation has all the authority available to: 
+
+       (a) Procure or
+supervise the procurement of all services and personal services to construct,
+acquire, plan, design, maintain and operate passenger terminal facilities and
+motor vehicle parking facilities in connection with any public transportation
+system in accordance with ORS 184.689 (5); 
+
+       (b) Procure or
+supervise the procurement of all goods, services, public improvements and
+personal services that relate to operating, maintaining or constructing
+highways, bridges and other transportation facilities that are subject to the
+authority of the Department of Transportation; and 
+
+       (c) Establish
+standards for, prescribe forms for and conduct the prequalification of
+prospective bidders on public improvement contracts that relate to operating,
+maintaining or constructing highways, bridges and other transportation
+facilities that are subject to the authority of the Department of
+Transportation. 
+
+       (4) Except as
+otherwise provided in the Public Contracting Code, the Secretary of State has
+all the authority to procure or supervise the procurement of goods, services
+and personal services related to programs under the authority of the Secretary
+of State. 
+
+       (5) Except as
+otherwise provided in the Public Contracting Code, the State Treasurer has all
+the authority to procure or supervise the procurement of goods, services and
+personal services related to programs under the authority of the State
+Treasurer. 
+
+       (6) The state
+agencies listed in this subsection have all the authority to do the following
+in accordance with the Public Contracting Code: 
+
+       (a) The
+Department of Human Services to procure or supervise the procurement of goods,
+services and personal services under ORS 179.040 for the department’s
+institutions and the procurement of goods, services and personal services for
+constructing, demolishing, exchanging, maintaining, operating and equipping
+housing for the purpose of providing care to individuals with intellectual
+disabilities or other developmental disabilities, subject to applicable
+provisions of ORS 427.335; 
+
+       (b) The Oregon
+Health Authority to procure or supervise the procurement of goods, services and
+personal services under ORS 179.040 and construction materials, equipment and
+supplies for the authority’s institutions and the procurement of goods,
+services, personal services, construction materials, equipment and supplies for
+constructing, demolishing, exchanging, maintaining, operating and equipping
+housing for individuals with chronic mental illness, subject to applicable
+provisions of ORS 426.504; 
+
+       (c) The State
+Department of Fish and Wildlife to procure or supervise the procurement of
+construction materials, equipment, supplies, services and personal services for
+public improvements, public works or ordinary construction described in ORS
+279C.320 that is subject to the authority of the State Department of Fish and
+Wildlife; 
+
+       (d) The State
+Parks and Recreation Department to procure or supervise the procurement of all
+goods, services, public improvements and personal services related to state
+parks; 
+
+       (e) The Oregon
+Department of Aviation to procure or supervise the procurement of construction
+materials, equipment, supplies, services and personal services for public
+improvements, public works or ordinary construction described in ORS 279C.320
+that is subject to the authority of the Oregon Department of Aviation; 
+
+       (f) The Oregon
+Business Development Department to procure or supervise the procurement of all
+goods, services, personal services and public improvements related to its
+foreign trade offices operating outside the state; 
+
+       (g) The Housing
+and Community Services Department to procure or supervise the procurement of
+goods, services and personal services that are unrelated to the department’s
+duties prescribed in ORS chapters 456 and 458, and not otherwise provided for
+by ORS 456.625 (19); 
+
+       (h) The
+Department of Corrections to procure or supervise the procurement of
+construction materials, equipment, supplies, services and personal services for
+public improvements, public works or ordinary construction described in ORS
+279C.320 that is subject to the authority of the Department of Corrections; 
+
+       (i) The
+Department of Corrections, subject to any applicable provisions of ORS
+279A.120, 279A.125, 279A.145 and 283.110 to 283.395, to procure or supervise
+the procurement of goods, services and personal services under ORS 179.040 for
+its institutions; 
+
+       (j) The
+Department of Veterans’ Affairs to procure or supervise the procurement of real
+estate broker and principal real estate broker services related to programs
+under the department’s authority; 
+
+       (k) The Oregon
+Military Department to procure or supervise the procurement of construction
+materials, equipment, supplies, services and personal services for public
+improvements, public works or ordinary construction described in ORS 279C.320
+that is subject to the authority of the Oregon Military Department; 
+
+       (L) The
+Department of Education, subject to any applicable provisions of ORS 329.075,
+329.085 and 329.485 and the federal Every Student Succeeds Act (P.L. 114-95,
+129 Stat. 1802), to procure or supervise the procurement of goods, services,
+personal services and information technology related to student assessment; 
+
+       (m) The
+Department of Early Learning and Care to procure or supervise the procurement
+of goods, services, personal services and information technology related to the
+authority of the department or the Early Learning Council; 
+
+       (n) The Higher
+Education Coordinating Commission to procure or supervise the procurement of
+goods, services, personal services and information technology related to the
+authority of the commission; and 
+
+       (o) Any state
+agency to conduct a procurement when the agency is specifically authorized by
+any provision of law other than the Public Contracting Code to enter into a
+contract. 
+
+       (7)(a)
+Notwithstanding this section and ORS 279A.140 (1), the Director of the Oregon
+Department of Administrative Services has exclusive authority, unless the
+director delegates the authority, to procure or supervise the procurement of
+all price agreements on behalf of the state agencies identified in subsection
+(6) of this section under which more than one state agency may order goods,
+services or personal services. 
+
+       (b) The director
+may delegate to the State Chief Information Officer the exclusive authority to
+procure or supervise the procurement of all price agreements related to
+information technology and telecommunications on behalf of the state agencies
+identified in subsection (6) of this section. Notwithstanding any authority
+that a state agency may have under subsection (3) or (6) of this section, the
+state agency may not establish a price agreement or enter into a contract for
+goods, services or personal services without the approval of the director or
+the State Chief Information Officer if the director or the State Chief
+Information Officer has established a price agreement for the goods, services
+or personal services. 
+
+       (c) The State
+Chief Information Officer may review any solicitation document for procuring
+information technology or telecommunications that a state agency intends to
+issue before the state agency issues the solicitation document and may require
+the state agency to name the State Chief Information Officer as a third-party
+beneficiary with full authority to enforce the terms and conditions of any
+public contract for information technology or telecommunications. The State
+Chief Information Officer must approve a state agency’s procurement for
+information technology or telecommunications if the procurement has an
+anticipated contract price of $1 million or more. The State Chief Information
+Officer may require the state agency to name the State Chief Information
+Officer as the contracting party on behalf of the State of Oregon in a
+procurement for information technology or telecommunications that has an
+anticipated contract price of $1 million or more. 
+
+       (8) Except as
+otherwise provided in the Public Contracting Code, the Director of the
+Department of State Lands has all the authority to procure or supervise the
+procurement of goods, services and personal services related to the removal of
+abandoned vessels and derelict vessels, as defined in ORS 830.908, and derelict
+structures as defined in ORS 274.376. [2003 c.794 §7; 2005 c.625 §61; 2007 c.70
+§68; 2007 c.197 §1; 2007 c.764 §3; 2009 c.397 §2; 2009 c.828 §13; 2011 c.658 §36;
+2011 c.720 §73a; 2013 c.492 §29; 2015 c.167 §1; 2015 c. 243 §7; 2015 c.447 §4;
+2015 c.807 §22; 2017 c.726 §1; 2021 c.631 §17; 2023 c.26 §6; 2023 c.193 §§14,15;
+2025 c.90 §12; 2025 c.384 §4] 
+
+   
+
+       279A.055
+Personal services contracts. 
+(1) Except as provided in ORS 279A.140, a contracting agency may enter into
+personal services contracts. The provisions of this section do not relieve a
+contracting agency of the duty to comply with ORS 279A.140, any other law
+applicable to state agencies or applicable city or county charter provisions. 
+
+       (2) A state
+contracting agency with procurement authority under ORS 279A.050 or a local
+contract review board by ordinance, resolution, administrative rule or other
+regulation may designate certain service contracts or classes of service
+contracts as personal services contracts. [2003 c.794 §8; 2005 c.103 §4] 
+
+   
+
+       279A.060 Local
+contract review boards. 
+If the governing body of a local contracting agency takes no action to provide
+otherwise, the governing body is the local contract review board of that local
+contracting agency. However, the governing body of a local contracting agency
+may, by charter, ordinance or other local legislation, authorize a body, board
+or commission other than the governing body to serve as the local contract
+review board of the local contracting agency. The governing body of a local
+contracting agency also may enter into intergovernmental agreements under ORS
+chapter 190 to permit the local contract review board of another local
+contracting agency or the Director of the Oregon Department of Administrative
+Services to exercise authority under ORS 279B.085. [2003 c.794 §9] 
+
+   
+
+       279A.065 Model
+rules generally; applicability to contracting agencies. (1) The Attorney General shall
+prepare and maintain model rules that specify procedures for public contracting
+under the Public Contracting Code and that are appropriate for all contracting
+agencies to use. The Attorney General may devise and publish forms for use with
+the model rules. The Attorney General shall adopt the model rules in accordance
+with ORS chapter 183. Before adopting or amending a model rule, the Attorney
+General shall consult with the Director of the Oregon Department of
+Administrative Services, the Director of Transportation, representatives of
+county governments, representatives of city governments, representatives of
+school boards and other knowledgeable persons. 
+
+       (2) The Attorney
+General shall adopt model rules that specify procedures for all contracting
+agencies to use to enter into energy performance contracts. Before adopting or
+amending a rule under this subsection, the Attorney General shall consult with
+the Oregon Department of Administrative Services, the State Department of
+Energy, local contracting agencies and other knowledgeable persons. The
+Attorney General may develop standard contract forms for use with energy
+performance contracts. 
+
+       (3)(a) The
+Attorney General shall adopt model rules that specify procedures for all
+contracting agencies to use to procure construction manager/general contractor
+services. Before adopting or amending a rule under this subsection, the
+Attorney General shall consult with the Director of the Oregon Department of
+Administrative Services, the Director of Transportation, local contracting
+agencies, construction contractors, construction subcontractors and other
+knowledgeable persons. 
+
+       (b)
+Notwithstanding subsection (6) of this section, a contracting agency may not
+adopt the contracting agency’s own rules for procuring construction
+manager/general contractor services. 
+
+       (4) After each
+legislative session, the Attorney General shall review all laws the Legislative
+Assembly passed that affect public contracting to determine if the Attorney
+General should amend or repeal a model rule prepared under this section or
+adopt a new rule. If the Attorney General determines that a modification of the
+model rules is necessary, the Attorney General shall prepare the modification
+within such time as to allow the modification to take effect no later than 120
+days after the effective date of the legislation that caused the Attorney
+General to modify the rule. The Attorney General may prepare a modification to
+take effect 121 or more days after the effective date of the legislation if the
+Attorney General, in a notice to the state agencies and persons listed in
+subsection (1) of this section, specifies when the modification will take
+effect. 
+
+       (5) A contracting
+agency that has not adopted the contracting agency’s own rules of procedure in
+accordance with subsection (6) of this section is subject to the model rules
+the Attorney General adopts under this section, including all modifications to
+the model rules that the Attorney General may adopt. 
+
+       (6)(a) A
+contracting agency may adopt the contracting agency’s own rules of procedure
+for public contracts that: 
+
+       (A) Specifically
+state that the model rules the Attorney General adopts under this section do
+not apply to the contracting agency; and 
+
+       (B) Prescribe the
+rules of procedure that the contracting agency will use for public contracts,
+which may include portions of the model rules the Attorney General adopts. 
+
+       (b) A contracting
+agency that adopts rules under this subsection shall review the rules each time
+the Attorney General modifies the model rules under this section to determine
+whether the contracting agency should modify the contracting agency’s rules to
+ensure compliance with statutory changes. [2003 c.794 §10; 2003 c.794 §10a;
+2011 c.458 §10; 2013 c.522 §4; 2015 c.767 §80; 2025 c.161 §4] 
+
+   
+
+       279A.070
+Rules. In addition
+to rules adopted under ORS 279A.065 (6), a contracting agency may, in
+exercising authority granted under ORS 279A.050, adopt rules necessary to carry
+out the provisions of the Public Contracting Code, including but not limited to
+rules for procuring, managing, disposing of and controlling goods, services,
+personal services and public improvements under the Public Contracting Code.
+Each contracting agency authorized to enter into personal services contracts
+shall create procedures to screen and select persons to perform personal
+services. [2003 c.794 §11; 2003 c.794 §11a; 2013 c.522 §5] 
+
+   
+
+       279A.075
+Delegation. (1)
+Unless otherwise provided in the Public Contracting Code, a person or agency
+that has an authority under the code may delegate and subdelegate the exercise
+of the authority in whole or in part. Notwithstanding delegations of authority
+under this section, the code and rules adopted under the code govern a person’s
+or agency’s exercise of the delegated authority. 
+
+       (2) The Secretary
+of State, State Treasurer, Director of the Oregon Department of Administrative
+Services, State Chief Information Officer and Director of Transportation and
+other heads of state agencies with specific limited authority identified in ORS
+279A.050 (6) may delegate authority to contract for and manage public contracts
+for their offices or agencies. The State Chief Information Officer may require
+the Director of the Oregon Department of Administrative Services to obtain the
+State Chief Information Officer’s review and approval before the director
+delegates authority to a state contracting agency to conduct a procurement for
+information technology or telecommunications. [2003 c.794 §12; 2015 c.807 §23] 
+
+   
+
+ DISADVANTAGED BUSINESS
+ENTERPRISES, MINORITY-OWNED BUSINESSES, WOMAN-OWNED BUSINESSES, VETERAN-OWNED
+BUSINESSES AND EMERGING SMALL BUSINESSES 
+
+   
+
+       279A.100
+Affirmative action; limited competition permitted. (1) As used in this section: 
+
+       (a) “Affirmative
+action” means a program designed to ensure equal opportunity in employment and
+business for persons otherwise disadvantaged by reason of race, color,
+religion, sex, national origin, age or physical or mental disability or a
+policy to give a preference in awarding public contracts to disabled veterans. 
+
+       (b) “Disabled
+veteran” has the meaning given that term in ORS 408.225. 
+
+       (2) The
+provisions of the Public Contracting Code may not be construed to prohibit a
+contracting agency from engaging in public contracting practices designed to
+promote affirmative action goals, policies or programs for disadvantaged or
+minority groups or to give a preference in awarding public contracts to
+disabled veterans. 
+
+       (3) In carrying
+out an affirmative action goal, policy or program, a contracting agency by
+appropriate ordinance, resolution or rule may limit competition for a public
+contract for goods and services, or for any other public contract estimated to
+cost $50,000 or less, to contracting entities owned or controlled by persons
+described in subsection (1) of this section. [2003 c.794 §13; 2009 c.235 §1] 
+
+   
+
+       279A.105
+Subcontracting to emerging small businesses or veteran-owned businesses. (1) A contracting agency may
+require a contractor to subcontract some part of a contract to, or to obtain
+materials for use in performing the contract from, a business that is certified
+under ORS 200.055 as an emerging small business or as a veteran-owned business. 
+
+       (2) A contracting
+agency may require a contractor to subcontract some part of a contract to, or
+to obtain materials to be used in performing the contract from, a business that
+is certified under ORS 200.055 as an emerging small business and that, as identified
+by the contracting agency, is located in or draws the business’s workforce from
+economically distressed areas, as designated by the Oregon Business Development
+Department. 
+
+       (3) A contracting
+agency may require that a public contract be awarded to a responsible bidder or
+proposer, as defined in ORS 200.005, that the contracting agency determines has
+made good faith efforts as prescribed in ORS 200.045. [2003 c.794 §14; 2005
+c.103 §5; 2009 c.235 §2; 2015 c.565 §12; 2023 c.497 §11] 
+
+   
+
+       Note: Sections 1 and 2, chapter 483,
+Oregon Laws 2025, provide: 
+
+       Sec. 1. (1) As used in this section, “Oregon
+small business enterprise” means a business to which the Oregon Business
+Development Department issues a certification under subsection (2) of this
+section. 
+
+       (2) The Oregon
+Business Development Department by rule shall specify eligibility criteria for
+certifying a business as an Oregon small business enterprise and shall issue a
+certification to a business that qualifies as eligible. The eligibility
+criteria must, at a minimum, specify: 
+
+       (a) The maximum
+number of persons the business may employ; 
+
+       (b) The maximum
+amount of revenue the business may generate; 
+
+       (c) The location
+in which the business may operate; 
+
+       (d) Other
+requirements that evaluate the operation of the business as a small business;
+and 
+
+       (e) Other
+criteria that the department determines will aid in establishing eligibility. 
+
+       (3) The Oregon
+Department of Administrative Services shall establish a program for granting
+preferences to Oregon small business enterprises in procurements the department
+conducts under ORS 279A.140. The program, at a minimum, shall: 
+
+       (a) Develop
+guidelines for the department and for all state agencies on behalf of which the
+department conducts procurements to use to identify a range of public contracts
+that would be suitable for an Oregon small business enterprise to undertake
+successfully; 
+
+       (b) Create
+effective strategies and methods for attracting, inviting, encouraging and
+enabling Oregon small business enterprises to participate in public
+procurement; 
+
+       (c) Suggest
+changes in statutes and administrative rules that would enable the department
+to implement effective preferences for Oregon small business enterprises in
+public procurement and that would harmonize, streamline and otherwise improve
+the various small business preferences programs that now exist within state
+public procurement; and 
+
+       (d) Establish,
+for participation by Oregon small business enterprises in public procurement,
+targets and goals that result in a reduction or elimination of disparities
+identified in the 2023 State of Oregon Disparity Study. 
+
+       (4) As part of
+the program described in subsection (3) of this section, the department may: 
+
+       (a) Conduct
+studies, develop models, issue requests for information, contact and interview
+or survey potential participants in a preferences program for Oregon small
+business enterprises, consult experts and otherwise use lawful means to carry
+out the purposes set forth in subsection (3) of this section; and 
+
+       (b) State in solicitation
+materials for procurements the department conducts that the department will
+consider bids or proposals solely from Oregon small business enterprises. 
+
+       (5) The
+department may adopt rules necessary to implement and administer the program
+described in subsection (3) of this section. 
+
+       (6)(a) No later
+than December 31 of each year, the department shall report to the Governor and,
+in the manner provided in ORS 192.245, to the Legislative Assembly: 
+
+       (A) The substance
+of the guidelines the department develops under subsection (3) of this section,
+with examples of categories of public contracts the department identifies as
+suitable for Oregon small business enterprises and the range of contract values
+and scopes of work the department considers appropriate for Oregon small
+business enterprises to undertake; 
+
+       (B) The number of
+public contracts the department awarded to Oregon small business enterprises
+during the previous calendar year; 
+
+       (C) The number of
+Oregon small business enterprises to which the department provides assistance
+under the program; 
+
+       (D) The type and
+size of the small businesses that participate in the Oregon small business
+enterprise program; 
+
+       (E) The
+aggregated value of public contracts the department awarded that had a
+connection to the program during the previous calendar year; 
+
+       (F) Progress in
+developing the plan described in subsection (7) of this section; and 
+
+       (G) Such other
+information about the program that the department deems relevant to report. 
+
+       (b) The
+department shall collect and compile data necessary to prepare and submit the
+report described in this subsection. 
+
+       (7) The
+department shall devise and implement a plan based on the recommendations from
+the 2023 State of Oregon Disparity Study. To the extent feasible, the
+department shall incorporate into the plan the results and findings of studies,
+models, expert opinion, contacts with potential participants and other methods
+available to the department under subsections (3) and (4) of this section.
+[2025 c.483 §1] 
+
+       Sec. 2. Section 1 of this 2025 Act is
+repealed on December 31, 2031. [2025 c.483 §2] 
+
+   
+
+       279A.107
+Certification as disadvantaged business enterprise, minority-owned business,
+woman-owned business, veteran-owned business or emerging small business during
+term of public contract; exceptions. 
+(1) A contracting agency that under ORS 279A.105 awards a public contract to a
+responsible bidder, as defined in ORS 200.005, that has made good faith
+efforts, as described in ORS 200.045 (3), or that awards a public contract in
+the course of carrying out an affirmative action goal, policy or program under
+ORS 279A.100 shall: 
+
+       (a) Provide as a
+material condition of the public contract that a contractor remain certified as
+a disadvantaged business enterprise, minority-owned business, woman-owned
+business, veteran-owned business or emerging small business under ORS 200.055
+for the entire term of the public contract, if the contracting agency awarded
+the public contract, in whole or in part, on the basis of the contractor’s
+certification. 
+
+       (b) Require a
+contractor to provide in the contractor’s subcontracts that a subcontractor
+remain certified as a disadvantaged business enterprise, minority-owned
+business, woman-owned business, veteran-owned business or emerging small
+business under ORS 200.055 for the entire term of the subcontract, if the
+contractor awards the subcontract, in whole or in part, on the basis of the
+subcontractor’s certification. 
+
+       (c) Verify the
+contractor’s or subcontractor’s compliance with the requirements set forth in
+paragraphs (a) and (b) of this subsection. 
+
+       (d) Verify that a
+contractor is paying a subcontractor that is certified under ORS 200.055
+promptly as provided in ORS 279B.220 or 279C.570, as appropriate. 
+
+       (2)(a) If a
+contracting agency determines at any time during the term of a public contract
+that a contractor to which the contracting agency awarded the public contract
+on the basis described in subsection (1) of this section, or a subcontractor to
+which the contractor awarded a subcontract in connection with the public
+contract on the basis described in subsection (1) of this section, is no longer
+certified, the contracting agency may: 
+
+       (A) Terminate the
+public contract; 
+
+       (B) Require the
+contractor to terminate the subcontract; or 
+
+       (C) Exercise any
+of the remedies for breach of contract that are reserved in the public
+contract. 
+
+       (b) The actions a
+contracting agency may take under paragraph (a) of this subsection are in
+addition to and not in lieu of any other action the Oregon Business Development
+Department may take with respect to the contractor or subcontractor under ORS
+200.065. 
+
+       (c) Paragraph (a)
+of this subsection does not apply to an emerging small business as defined in
+ORS 200.005 that, because of growth in the number of full-time equivalent
+employees or average annual gross receipts that occurs during the term of the
+public contract, no longer qualifies as a tier one firm or tier two firm, as
+those terms are defined in ORS 200.005, or for which a certification under ORS
+200.055 expires during the term of the public contract. [2015 c.325 §2; 2015
+c.565 §26; 2023 c.497 §12] 
+
+   
+
+       279A.110
+Discrimination in subcontracting prohibited; remedies. (1) A bidder or proposer that
+competes for or is awarded a public contract may not discriminate against a
+subcontractor in awarding a subcontract because the subcontractor is a
+disadvantaged business enterprise, a minority-owned business, a woman-owned business,
+a veteran-owned business or an emerging small business that is certified under
+ORS 200.055. 
+
+       (2) A contracting
+agency may debar or disqualify, under ORS 279B.130 or 279C.440, as appropriate,
+a bidder or proposer if the contracting agency finds that the bidder or
+proposer has violated subsection (1) of this section in awarding a subcontract
+in connection with a contract the contracting agency advertised or otherwise
+solicited or a contract between the contracting agency and the bidder or
+proposer. A debarred or disqualified bidder or proposer may appeal the
+debarment or disqualification under ORS 279B.425 or ORS 279C.445 and 279C.450,
+as appropriate. 
+
+       (3) A contracting
+agency may not allege an occurrence of discrimination in subcontracting as a
+basis for debarring or disqualifying a bidder or proposer under subsection (2)
+of this section more than three years after the alleged discriminatory conduct
+occurred or more than three years after the contracting agency, in the exercise
+of reasonable diligence, should have discovered the conduct, whichever is
+later. 
+
+       (4) A bidder or
+proposer shall certify in the bid or proposal that the bidder or proposer has
+not discriminated and will not discriminate, in violation of subsection (1) of
+this section, against a disadvantaged business enterprise, a minority-owned
+business, a woman-owned business, a veteran-owned business or an emerging small
+business in awarding a subcontract. 
+
+       (5) If a
+contracting agency awards a public contract to a contractor and the contractor
+violates the contractor’s certification under subsection (4) of this section,
+the contracting agency may regard the violation as a breach of contract that
+permits the contracting agency to: 
+
+       (a) Terminate the
+contract; or 
+
+       (b) Exercise any
+of the remedies for breach of contract that are reserved in the contract. [2003
+c.794 §15; 2009 c.235 §3; 2015 c.565 §13; 2023 c.497 §13] 
+
+   
+
+       279A.112
+Requirement to certify that contractor has policy and practice of preventing
+sexual harassment, sexual assault and discrimination against employees who are
+members of protected class; required elements of certification; exceptions. (1) As used in this section: 
+
+       (a) “Discrimination”
+means conduct that has the purpose or effect of creating employment conditions
+for an individual that are intimidating, hostile or offensive or that evince
+animosity, resentment, anger, prejudice or ill will in others primarily because
+of the individual’s identification with or membership in a protected class. 
+
+       (b) “Protected
+class” means a group of people that state or federal law protects from
+employment discrimination including, but not limited to, a group in which
+membership depends on an ascribed association or identification, or an
+individual’s voluntary association or identification with other individuals, on
+the basis of one or more of these characteristics: 
+
+       (A) Race, color
+or ethnicity; 
+
+       (B) National
+origin; 
+
+       (C) Sex; 
+
+       (D) Gender,
+including actual or perceived gender identity; 
+
+       (E) Sexual
+orientation; 
+
+       (F) Disability; 
+
+       (G) Age; 
+
+       (H) Marital
+status; or 
+
+       (I) Religion. 
+
+       (c) “Sexual
+assault” means any unwanted sexual contact, as defined in ORS 163.305. 
+
+       (d) “Sexual
+harassment” means: 
+
+       (A) A request or
+demand for sexual favors in an implicit or explicit exchange for an
+employment-related benefit or as a means of avoiding an employment-related
+detriment; or 
+
+       (B) Unwelcome
+conduct of a sexual nature that has the purpose or effect of interfering with a
+person’s ability to perform job duties or that creates an intimidating,
+offensive or hostile work environment. 
+
+       (2)(a) Except as
+provided in subsection (4) of this section, a state contracting agency may not
+enter into a public contract with an anticipated contract price of $150,000 or
+more with a prospective contractor that does not certify in a signed writing that
+the prospective contractor has a policy and practice of preventing sexual
+harassment, sexual assault and discrimination against employees who are members
+of a protected class. 
+
+       (b) A prospective
+contractor may not certify under paragraph (a) of this subsection that the
+prospective contractor has a policy and practice of preventing sexual
+harassment, sexual assault or discrimination against employees who are members
+of a protected class unless the policy and practice includes, at a minimum: 
+
+       (A) A written
+notice to each employee that clearly prohibits and specifies disciplinary
+measures for conduct that constitutes sexual harassment, sexual assault or
+discrimination against a member of a protected class. 
+
+       (B) A clear
+process that: 
+
+       (i) Enables an
+employee that experiences or witnesses conduct that constitutes sexual
+harassment, sexual assault or discrimination against a member of a protected
+class to report and stop the conduct; and 
+
+       (ii) Guides the
+prospective contractor in responding to a report under sub-subparagraph (i) of
+this subparagraph, resolving the issues identified in the report and
+disciplining employees who engage in prohibited conduct. 
+
+       (C) A regular
+written procedure for submitting a report under subparagraph (B)(i) of this
+paragraph that identifies the specific individuals to whom an employee may
+submit the report and the individuals who have responsibility for resolving
+issues identified in the report. 
+
+       (D) A practice of
+treating as confidential, to the extent permitted by law, any report that an
+employee makes under subparagraph (B)(i) of this paragraph. 
+
+       (E) A prohibition
+against retaliating against an employee who experiences or witnesses, and
+reports, conduct that constitutes sexual harassment, sexual assault or
+discrimination against a member of a protected class. 
+
+       (F) A prohibition
+against discrimination in providing benefits to an employee or a dependent of
+the employee based on the employee’s membership in a protected class or the
+membership of the employee’s dependent in a protected class. 
+
+       (G) A prohibition
+on denying benefits to an employee or a dependent of the employee based solely
+on the employee’s gender identity or the gender identity of the employee’s
+dependent, if the prospective contractor provides health insurance or health
+care benefits. 
+
+       (c) A prospective
+contractor may provide the written notice described in paragraph (b)(A) of this
+subsection by means of a printed or electronic employee handbook. The Oregon
+Department of Administrative Services may develop and make available on the department’s
+website an electronic template to guide prospective contractors in meeting the
+notice requirements set forth in paragraph (b)(A) of this subsection and may
+provide other guidance to prospective contractors in meeting the requirements
+set forth in paragraph (b) of this subsection. 
+
+       (3) Every public
+contract described in subsection (2)(a) of this section that a state
+contracting agency awards must require as a material term of the public
+contract that a contractor certify that the contractor has a policy and
+practice that meets the requirements described in subsection (2) of this
+section and will maintain the policy and practice in force during the entire
+term of the public contract. 
+
+       (4) A state
+contracting agency may enter into a public contract described in subsection
+(2)(a) of this section with a prospective contractor that has not provided the
+certification described in subsection (2) of this section if: 
+
+       (a) The state
+contracting agency conducted the procurement under ORS 279B.075, 279B.080 or
+279B.085; or 
+
+       (b) Only one
+prospective contractor submitted a bid or proposal in response to the state
+contracting agency’s solicitation. [2017 c.212 §2] 
+
+   
+
+ CONTRACT PREFERENCES 
+
+   
+
+       279A.120
+Preference for Oregon goods and services; nonresident bidders. (1) As used in this section: 
+
+       (a) “Nonresident
+bidder” means a bidder who is not a resident bidder. 
+
+       (b) “Resident
+bidder” means a bidder that has paid unemployment taxes or income taxes in this
+state during the 12 calendar months immediately preceding submission of the
+bid, has a business address in this state and has stated in the bid whether the
+bidder is a “resident bidder” under this paragraph. 
+
+       (2) For the
+purposes of awarding a public contract, a contracting agency shall: 
+
+       (a) Give
+preference to goods or services that have been manufactured or produced in this
+state if price, fitness, availability and quality are otherwise equal; and 
+
+       (b) Add a percent
+increase to the bid of a nonresident bidder equal to the percent, if any, of
+the preference given to the bidder in the state in which the bidder resides. 
+
+       (3) When a public
+contract is awarded to a nonresident bidder and the contract price exceeds
+$10,000, the bidder shall promptly report to the Department of Revenue on forms
+to be provided by the department the total contract price, terms of payment,
+length of contract and such other information as the department may require
+before the bidder may receive final payment on the public contract. The
+contracting agency shall satisfy itself that the requirement of this subsection
+has been complied with before the contracting agency issues a final payment on
+a public contract. 
+
+       (4) The Oregon
+Department of Administrative Services on or before January 1 of each year shall
+publish a list of states that give preference to in-state bidders with the
+percent increase applied in each state. A contracting agency may rely on the
+names of states and percentages so published in determining the lowest
+responsible bidder without incurring any liability to any bidder. [2003 c.794 §16] 
+
+   
+
+       279A.125
+Preference for recycled materials. 
+(1) Notwithstanding provisions of law requiring a contracting agency to award a
+contract to the lowest responsible bidder or best proposer or provider of a
+quotation and subject to subsection (2) of this section, a contracting agency
+charged with the procurement of goods for any public use shall give preference
+to the procurement of goods manufactured from recycled materials. 
+
+       (2) A contracting
+agency shall give preference to goods that are certified to be made from
+recycled materials if: 
+
+       (a) The recycled
+product is available; 
+
+       (b) The recycled
+product meets applicable standards; 
+
+       (c) The recycled
+product can be substituted for a comparable nonrecycled product; and 
+
+       (d) The recycled
+product’s costs do not exceed the costs of nonrecycled products by more than
+five percent, or a higher percentage if a written determination is made by the
+contracting agency. [2003 c.794 §17] 
+
+   
+
+       279A.128
+Preferences for goods and services supplied within this state; preferences for
+certain entities. 
+(1) As used in this section, “services” means services as defined in ORS
+279A.010 (1)(kk) and personal services designated under ORS 279A.055. 
+
+       (2)(a)
+Notwithstanding provisions of law requiring a contracting agency to award a
+contract to the lowest responsible bidder or best proposer or provider of a
+quotation, a contracting agency that uses public funds to procure goods or
+services for a public use under ORS chapter 279B may give preference to: 
+
+       (A) Procuring
+goods or services from one of the following sources, if the goods or services
+cost not more than five percent more than goods or services available from
+contractors other than the source: 
+
+       (i) A benefit
+company that is incorporated, organized, formed or created under ORS 60.754,
+that submits with a bid or proposal a certificate of existence issued under ORS
+60.027 and has the majority of the benefit company’s regular, full-time
+workforce located in this state at the time the benefit company submits the bid
+or proposal; or 
+
+       (ii) An entity in
+which the entity’s employees own at least 50 percent of the ownership interest
+in the entity directly or through an employee stock ownership plan, as defined
+in 26 U.S.C. 4975(e)(7), as in effect on September 26, 2025, that the United
+States Internal Revenue Service recognizes as a qualified plan; or 
+
+       (B) Procuring
+goods that are fabricated or processed, or services that are performed,
+entirely within this state if the goods or services cost not more than 10
+percent more than goods that are not fabricated or processed, or services that
+are not performed, entirely within this state. 
+
+       (b) If more than
+one bidder or proposer qualifies for a preference described in paragraph (a) of
+this subsection, the contracting agency may give a further preference to a
+qualifying bidder or proposer that resides in or is headquartered in this
+state. 
+
+       (c) A contracting
+agency may give a preference to an entity described in paragraph (a)(A)(ii) of
+this subsection only if the entity submits with a bid or proposal for a public
+contract evidence that shows that employees of the entity own at least 50 percent
+of the entity’s ownership interest directly or through an employee stock
+ownership plan. 
+
+       (d) The
+contracting agency by order may set a higher cost percentage than the cost
+percentages set forth in paragraph (a) of this subsection if the contracting
+agency, in a written determination to support the order, finds good cause to
+set the higher cost percentage and explains the contracting agency’s reasons
+and evidence for the finding. 
+
+       (3)
+Notwithstanding ORS 279C.320 (1), subsection (2) of this section does not apply
+to emergency work, minor alterations, ordinary repairs or maintenance work for
+public improvements or to other construction contracts described in ORS
+279C.320 (1). [2009 c.214 §2; 2011 c.237 §1; 2023 c.559 §1; 2025 c.304 §1] 
+
+   
+
+       279A.130
+Preference for exceeding Buy America requirements for transit projects; rules. (1) Notwithstanding provisions of
+law that require a contracting agency to award a contract to the lowest
+responsible bidder or best proposer or provider of a quotation, a contracting
+agency that receives and uses funds from the federal government or an agency of
+the federal government for a transit project may give preference to a bidder or
+proposer that exceeds federal Buy America requirements that apply to federally
+funded transit projects, as permitted under 49 C.F.R. 661.21 as that regulation
+existed on March 16, 2012. 
+
+       (2) The
+Department of Transportation, the Oregon Department of Administrative Services
+and the Attorney General may adopt rules under ORS 279A.065 and establish
+policies and procedures to implement subsection (1) of this section. [2012 c.58
+§2] 
+
+   
+
+ STATE PROCUREMENT 
+
+   
+
+       279A.140 State
+procurement of goods and services; rules. (1) The Oregon Department of Administrative Services
+shall conduct all procurements and administer the contracting for goods,
+services and personal services, including architectural, engineering,
+photogrammetric mapping, transportation planning or land surveying services and
+related services, for state agencies unless a state agency is specifically
+authorized by ORS 279A.050 or provisions of law other than the Public
+Contracting Code to enter into a contract. The authority described in this
+subsection may be delegated in whole or in part in accordance with ORS
+279A.075. 
+
+       (2) The following
+requirements and procedures apply to all contracts of state agencies: 
+
+       (a) A personal
+services contract is not valid or effective without the written approval of the
+department unless: 
+
+       (A) The contract
+is authorized under ORS 279A.050; or 
+
+       (B) The
+department has delegated authority to the contracting agency under ORS 279A.075
+to make the personal services contract. 
+
+       (b) Neither the
+department nor a state agency may approve a contract before the contract has
+been reviewed for legal sufficiency and approved by the Attorney General, if
+the review and approval are required under ORS 291.047 or 291.049. 
+
+       (c) Unless
+otherwise provided by law, the department or a state agency may enter into a
+public contract for any period of time, provided that the term of the contract
+and conditions of renewal or extension are included in the solicitation.
+Contracting agencies may stipulate in contracts for goods or services that any
+payment and performance obligations for succeeding fiscal periods are subject
+to the availability and appropriation of funds for the obligations. A contract
+for goods or services subject to this section may not be construed as violating
+any applicable debt limitation or limitation on a contracting agency’s
+expenditure authority. 
+
+       (d) When funds
+are not appropriated or otherwise made available to support continuation of the
+department’s or a state agency’s performance of a contract in a subsequent
+fiscal period, the department or state agency may cancel the contract and
+reimburse the contractor for the reasonable value of any nonrecurring costs
+incurred but not amortized in the price of the goods or services delivered
+under the contract. The department or state agency may pay the reimbursement
+only from any appropriations or funds then lawfully available for such
+purposes. 
+
+       (e) Except as
+otherwise provided in this chapter, a contract of a state agency will be deemed
+by the department to have been executed only when all requisite approvals have
+been obtained. 
+
+       (f) Any
+procurement or contract by the department for a state agency must, when
+required by rules adopted by the department under ORS 279A.070, be made on the
+basis of a requisition by the state agency. 
+
+       (g) The
+department may use moneys from the Oregon Department of Administrative Services
+Operating Fund to procure goods, services and personal services for the purpose
+of supplying requirements of state agencies, the cost of which shall be
+reimbursed to the fund from charges paid by state agencies on the basis of
+actual usage. Administrative costs incurred in the operation of the fund may be
+paid from the fund and the amount of such costs shall be added to the cost of
+the goods, services and personal services as charged to the state agencies. 
+
+       (h) The
+department shall adopt rules necessary to implement the provisions of this
+subsection, including but not limited to rules establishing: 
+
+       (A) A reporting
+system for personal service contracts, including architectural, engineering,
+photogrammetric mapping, transportation planning or land surveying services
+contracts and related services contracts, that includes the following: 
+
+       (i) A state
+agency shall submit to the department personal services contract information as
+directed by the department. A state agency shall file with the department a
+copy of each personal services contract entered into by the state agency,
+including appropriate documentation as required by the department. Whenever a
+state agency pays more in a calendar year under a personal services contract
+for services historically performed by state employees than the agency would
+have paid to the agency’s employees performing the same work, the agency shall
+so report to the department and include in the report a statement of
+justification for the greater costs. 
+
+       (ii) The
+department shall keep the copy of the contract and the department’s
+documentation on file for three years, after which the department may destroy
+the file. The department shall maintain a system for filing copies of personal
+services contracts and documentation submitted to the department under this
+paragraph. The department shall submit a biennial report to the Legislative
+Assembly concerning the use of personal services contracts by state agencies.
+The report must specify the name of each state agency, the amount paid under
+each personal services contract entered into by the agency, the name of the
+contractor, the duration of the contract and the contract’s basic purpose. The
+report must also include the total dollar figure of all personal services
+contracts for each year of the preceding biennium. 
+
+       (B) Procedures
+for the evaluation and award of personal services contracts when the department
+authorizes a state agency to contract directly for personal services, including
+architectural, engineering, photogrammetric mapping, transportation planning or
+land surveying services and related services, in accordance with ORS 279B.050
+or 279C.100 to 279C.125. 
+
+       (3) The
+department shall notify all state agencies of the requirements of this section.
+[2003 c.794 §18; 2011 c.458 §11] 
+
+   
+
+       279A.142
+Limitation of competition. 
+A contracting agency may, by appropriate ordinance, resolution, rule or other
+appropriate legislative action, limit competition for a public contract to
+emerging small businesses certified under ORS 200.055 if the contract price is
+estimated at $250,000 or less and is funded by the Emerging Small Business
+Account established under ORS 200.180. [2007 c.344 §2; 2015 c.565 §14; 2021
+c.630 §46] 
+
+   
+
+       279A.145
+Recycled product purchasing information. The Oregon Department of Administrative Services
+shall include recycled product purchasing information within publications and
+training programs provided to local governments requesting state government
+purchasing assistance. [2003 c.794 §19] 
+
+   
+
+       279A.150
+Procurement of goods containing recycled polyethylene material. (1) The Oregon Department of
+Administrative Services shall provide guidelines to state agencies and
+contractors on the availability of necessary goods that contain recycled PETE,
+as well as other recycled plastic resin supplies and materials. 
+
+       (2) The
+department shall identify suppliers able to provide necessary goods containing
+recycled PETE, as well as other recycled plastic resin supplies and materials. [2003
+c.794 §20] 
+
+   
+
+       279A.152
+Assessment of procurement practices related to recycled products and materials
+and recycled PETE. 
+(1) The Oregon Department of Administrative Services, in consultation with the
+Department of Environmental Quality, shall study and assess state procurement
+practices as they relate to recycled products, recycled PETE and recycled
+materials as those terms are defined in ORS 279A.010. The assessment must
+include: 
+
+       (a) An evaluation
+of procurement practices under ORS chapters 279A and 279B related to recycled
+materials, including efficacy and compliance; 
+
+       (b) A
+quantitative evaluation of the impact and effectiveness of the five percent
+price limitation described in ORS 279A.125 (2)(d); 
+
+       (c) A feasibility
+study of additional opportunities to increase the purchase of products
+containing postconsumer recycled content, including but not limited to products
+containing post-consumer recycled PETE and other plastics; 
+
+       (d) An evaluation
+of opportunities for strengthening traceability and verification requirements
+associated with recycled products or recycled materials, especially recycled
+plastic; and 
+
+       (e)
+Recommendations for legislation. 
+
+       (2) The Oregon
+Department of Administrative Services shall provide the results of the
+assessment in a report to the appropriate interim committees of the Legislative
+Assembly in the manner provided under ORS 192.245. The department shall revise
+the initial assessment completed under this section every five years. [2021
+c.681 §44] 
+
+   
+
+       Note: 279A.152 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter
+279A or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+       279A.155 State
+procurement of paper. 
+No less than 35 percent of state agency procurements of paper products may be
+from recycled paper products. [2003 c.794 §21] 
+
+   
+
+       279A.157 State
+contracting agency use of contract form, contract template or solicitation
+template; exceptions and exemptions; rules. (1) As used in this section: 
+
+       (a)(A) “Contract
+form” means a document with terms and conditions that the Attorney General and
+the Oregon Department of Administrative Services develop, approve and make
+available for state contracting agencies to use without alteration, except as
+provided in subparagraph (B) of this paragraph, as the terms and conditions of
+a public contract. 
+
+       (B) “Contract
+form” does not include specifications for a procurement, a scope of work,
+pricing information, information that identifies parties to the public contract
+or similar or related portions of a public contract that a state contracting
+agency necessarily develops or must alter, with approval from the Attorney
+General or the Oregon Department of Administrative Services, as a means of
+achieving the results the state contracting agency intends for the procurement. 
+
+       (b)(A) “Contract
+template” means a document with terms and conditions that the Attorney General
+and the department develop, approve and make available for state contracting
+agencies to use, with appropriate alterations, as the basis for the terms and
+conditions of a public contract. 
+
+       (B) “Contract
+template” does not include specifications for a procurement, a scope of work,
+pricing information, information that identifies parties to the public contract
+or similar or related portions of a public contract that a state contracting
+agency necessarily develops or must alter as a means of achieving the results
+the state contracting agency intends for the procurement. 
+
+       (c) “Solicitation
+template” means a request for information, a request for a quotation, an
+invitation to bid, a request for proposals or other document for soliciting a
+procurement under the Public Contracting Code in which the Attorney General and
+the department develop, approve and make available standardized language that a
+state contracting agency must use, with appropriate alterations, for a
+solicitation. 
+
+       (2)(a) Except as
+provided in paragraph (c) of this subsection, a state contracting agency shall
+use a solicitation template in advertising and soliciting all procurements
+under the Public Contracting Code and, as provided in paragraph (b) of this
+subsection, shall use a contract form or a contract template, as appropriate,
+as the basis for all public contracts into which the state contracting agency
+enters. A state contracting agency, in accordance with the Public Contracting
+Code, may negotiate the terms and conditions set forth in a contract form or
+contract template but may not vary the terms and conditions without the advice
+of the Attorney General or legal counsel that the Attorney General approves if
+the state contracting agency anticipates that the contract form or contract
+template will be the basis for a public contract with a contract price that
+exceeds $150,000. 
+
+       (b) A state
+contracting agency shall use a contract form or contract template for all price
+agreements, cooperative procurements or procurements for which the Attorney
+General or the Director of the Oregon Department of Administrative Services
+determines that the specifications for goods or services, the terms and
+conditions, the scope of work or other aspects of a procurement or a class of
+procurements do not vary significantly among state contracting agencies, or for
+procurements or classes of procurements in which the Attorney General or the
+director determines that using a contract form or contract template is
+necessary for the state contracting agency to avoid unreasonable liabilities or
+other risks or would promote best practices in public contracting. A state
+contracting agency, in accordance with the Public Contracting Code, may
+negotiate the terms and conditions set forth in a contract form or contract
+template but may not vary the terms and conditions without the advice of the
+Attorney General or legal counsel that the Attorney General approves if the
+state contracting agency anticipates that the contract form or contract
+template will be the basis for a public contract with a contract price that
+exceeds $150,000. 
+
+       (c) A state
+contracting agency may base a public contract on terms and conditions other
+than the terms and conditions set forth in a contract form or contract template
+only if: 
+
+       (A) The state
+contracting agency receives approval from the Attorney General or, if the state
+contracting agency is subject to ORS 279A.140, from the Director of the Oregon
+Department of Administrative Services, unless the state contracting agency
+determines that the contract price for the public contract is unlikely to
+exceed $150,000; 
+
+       (B) The nature of
+the procurement is unique and the public contract requires specific terms and
+conditions to accommodate the unique nature of the procurement or the state
+contracting agency, in accordance with provisions in the solicitation documents
+for the procurement, negotiated terms and conditions for the public contract
+that differ from the terms and conditions in a contract form or contract
+template; 
+
+       (C) The state
+contracting agency consults the Attorney General, or legal counsel that the
+Attorney General approves, to develop appropriate terms and conditions for the
+public contract and for legal advice during all phases of the procurement for
+which the Attorney General determines that legal advice is necessary and
+relevant; and 
+
+       (D) The state
+contracting agency submits the public contract to the Attorney General for
+approval for legal sufficiency, if the provisions of ORS 291.047 require the
+submission. 
+
+       (d) This
+subsection does not apply to a procurement that a state contracting agency
+conducts under ORS 279B.065, 279B.080 or 279C.110 (11). 
+
+       (3)
+Notwithstanding provisions of this section that require a state contracting
+agency to use a solicitation template, contract form or contract template that
+the Attorney General and the department develop, the office of the Secretary of
+State and the office of the State Treasurer shall use standardized forms and
+templates that each office develops for each office’s own use in conducting
+procurements or entering into public contracts. The Secretary of State and the
+State Treasurer may elect to use solicitation templates, contract forms or
+contract templates that the Attorney General and the department develop. 
+
+       (4) The Attorney
+General and the Director of the Oregon Department of Administrative Services
+shall cooperate to: 
+
+       (a) Develop and
+make available solicitation templates, contract forms and contract templates
+for procurements or classes of procurements that state contracting agencies
+require; and 
+
+       (b) Adopt rules
+under ORS 279A.065 to implement the provisions of this section. [2015 c.646 §2;
+2019 c.55 §2] 
+
+   
+
+       279A.159
+Education and training or experience requirements for persons that conduct
+procurements or administer contracts for state contracting agencies; deadlines;
+rules. (1) A
+person that conducts a procurement or administers a public contract for a state
+contracting agency shall complete a course of education and training or have
+professional experience that, at a minimum and in accordance with standards
+established under subsection (2) of this section, adequately prepares the
+person to: 
+
+       (a) Develop
+specifications and develop or adapt solicitation documents for a procurement; 
+
+       (b) Read
+critically, understand, interpret and apply terms and conditions set forth in
+public contracts of the scope and nature that the person administers or will
+administer; 
+
+       (c) Draft scopes
+of work, statements of work, contract amendments, change orders, insurance
+requirements, notices and other documents and communications that are necessary
+to conduct a procurement or administer a public contract of the scope and
+nature for which the person is or will be responsible; 
+
+       (d) Monitor a
+contractor’s performance under a public contract to ensure that the contractor
+performs services, provides goods or supplies materials according to the
+schedule, pricing, specifications and terms and conditions set forth in the
+public contract; 
+
+       (e) Manage
+relations between a state contracting agency and contractors so that
+contractors meet obligations to the state contracting agency and the state
+contracting agency meets obligations to contractors; 
+
+       (f) Recognize and
+investigate emerging disputes or other risks, unique requirements, unusual
+situations or other issues that arise in connection with a procurement and
+formulate appropriate responses and resolutions, seeking advice from legal
+counsel, risk management personnel or other persons when necessary; 
+
+       (g) Understand
+auditing requirements and procedures that apply to procurements of the scope
+and nature for which the person is or will be responsible and organize and
+maintain appropriate documentation and administrative practices that meet the
+auditing requirements; and 
+
+       (h) Follow
+regular business and office procedures, implement applicable state contracting
+agency policies and procedures and otherwise conduct procurements or administer
+public contracts for a state contracting agency in accordance with best
+practices. 
+
+       (2)(a) The Oregon
+Department of Administrative Services by rule shall establish standards for the
+education and training or experience a person must have to conduct a
+procurement or administer a public contract for a state contracting agency
+other than the Secretary of State or State Treasurer and may specify
+requirements in addition to the requirements set forth in subsection (1) of
+this section. The standards must describe the contents and quality of a
+curriculum for an appropriate education or training program, fix a passing
+score for an examination or assessment, if appropriate, specify requirements
+for obtaining a certificate or other evidence of having completed the education
+or training program and otherwise determine the skills and the level and depth
+of knowledge a person must have obtained from the education or training
+program. The standards must also describe the length of service or other
+evidence of adequate experience that a person must have in order to conduct a
+procurement or administer a public contract for a state contracting agency. 
+
+       (b) The
+department may establish levels or classifications of education and training or
+experience that are necessary for a person to conduct a procurement or
+administer a public contract for a state contracting agency, according to: 
+
+       (A) The
+complexity, scope or category of procurements a state contracting agency
+conducts; 
+
+       (B) The degree of
+responsibility a person will have for conducting a procurement or administering
+a public contract; or 
+
+       (C) Other
+appropriate criteria. 
+
+       (c) The
+department may provide an education or training program that meets the
+standards the department establishes under this subsection or may approve an
+education or training program that meets the standards. 
+
+       (d) The
+department by rule shall set a date, not later than December 31, 2017, by which
+an education or training program must meet the standards the department
+establishes under this subsection and a date, not later than December 31, 2018,
+after which all persons that conduct procurements or administer public
+contracts for state contracting agencies must meet the requirements specified
+in this section. In setting dates under this paragraph, the department shall
+take into account the fiscal impact of the standards and requirements on state
+contracting agencies and may phase in or specify incremental steps for meeting
+the standards and requirements. 
+
+       (3) The office of
+the Secretary of State and the office of the State Treasurer, not later than
+December 31, 2017, shall each establish standards for the education and
+training or experience a person must have to conduct a procurement or
+administer a public contract for the Secretary of State or the State Treasurer.
+The standards for education and training or experience must meet the
+requirements set forth in subsection (1) of this section. The Secretary of
+State and the State Treasurer may specify requirements in addition to the
+requirements set forth in subsection (1) of this section and may elect to meet
+the standards that the department establishes under subsection (2) of this
+section. Not later than December 31, 2018, a person that conducts a procurement
+or administers a public contract for the office of the Secretary of State or
+the office of the State Treasurer shall meet the standards that the office of
+the Secretary of State or the office of the State Treasurer, as appropriate,
+establishes under this subsection. [2015 c.646 §3] 
+
+   
+
+       279A.161
+Review and verification of advice and recommendations concerning procurements;
+delegation. (1)
+Before a state contracting agency executes a public contract with a contract
+price that exceeds $150,000, the director or other head of the state
+contracting agency shall review, and shall verify that the person that will
+administer the public contract for the state contracting agency has read and
+understands, all advice and recommendations that the Oregon Department of
+Administrative Services, the Department of Justice or other legal counsel gave
+to the state contracting agency with respect to the public contract and the
+procurement that resulted in the public contract. The director or other head of
+the state contracting agency shall sign and retain in the state contracting
+agency’s records a statement that acknowledges that the director or other head
+of the state contracting agency reviewed the advice and recommendations and
+made the verification described in this subsection. 
+
+       (2) The director
+or other head of a state contracting agency that enters into more than 12
+public contracts during a calendar year may delegate to a qualified employee of
+the state contracting agency all or a portion of the duties the director or
+other head of the state contracting agency has under subsection (1) of this
+section. [2015 c.646 §4] 
+
+   
+
+       279A.165
+Report concerning special procurements; requirement to maintain records. (1) The Oregon Department of
+Administrative Services, before the beginning of each odd-numbered year regular
+legislative session, shall provide to an appropriate committee of the
+Legislative Assembly that considers questions related to public contracting a
+report that contains information about special procurements conducted under the
+provisions of ORS 279B.085 by state contracting agencies that are subject to
+the authority of the department under ORS 279A.050 (2) and (7). The information
+must include, at a minimum: 
+
+       (a) The name of
+each state contracting agency that conducted a procurement under the
+provisions; 
+
+       (b) The number of
+procurements the state contracting agency conducted under the provisions and
+the number of contracts the state contracting agency awarded under the
+provisions; 
+
+       (c) A summary of
+the reasons that the state contracting agency decided to conduct the
+procurement under the provisions; 
+
+       (d) A descriptive
+summary of the procurement procedure the state contracting agency used to
+conduct the procurement, noting whether the procedure was competitive or not
+and listing the number of bids or proposals the state contracting agency
+received if the procedure was competitive; 
+
+       (e) The contract
+price or estimated contract price for each contract the state contracting
+agency awarded under the provisions; and 
+
+       (f) A summary of
+the protests or other responses the state contracting agency received in
+response to the decision to conduct the procurement under the provisions, and a
+summary of the disposition of the protests or other responses. 
+
+       (2) A state
+contracting agency subject to the authority of the department under ORS
+279A.050 (2) and (7) shall maintain records that enable the state contracting
+agency to calculate or otherwise determine and provide to the department the
+information described in subsection (1) of this section. The state contracting
+agency shall maintain the records for the purposes described under this section
+and may not use the information for evaluating proposals or invitations to bid
+that the state contracting agency receives in response to a solicitation for a
+procurement. 
+
+       (3) This section
+does not apply to the Secretary of State or the State Treasurer. [2012 c.53 §4] 
+
+   
+
+       279A.167
+Certification program for training in pay equity provisions of state law;
+rules. (1) The
+Oregon Department of Administrative Services shall establish a program to
+certify that a person that intends to submit a bid or proposal for a public
+contract understands the prohibition set forth in ORS 652.220 and in other laws
+or rules that prohibit discrimination in compensation or wage payments. The
+program must include, but is not limited to, all of these elements: 
+
+       (a) A curriculum
+for training prospective bidders and proposers in complying with the
+prohibition described in this subsection. The curriculum must include
+hypothetical situations, case studies and other examples that show conduct that
+would violate the prohibition and other conduct that would constitute correct
+and best practices. 
+
+       (b) Criteria for
+assessing whether prospective bidders and proposers understand the prohibition
+and can successfully apply best practices to a hypothetical situation that
+involves discrimination in compensation or wage payments. 
+
+       (c) Standards for
+successful completion of the curriculum and assessment that will result in the
+department issuing the certificate. 
+
+       (2) The
+department may conduct the training and assessment for the program described in
+subsection (1) of this section or may enter into an interagency agreement with
+the Bureau of Labor and Industries or a contract with a private entity to
+conduct the training and assessment. 
+
+       (3) The
+department may by rule specify a period of time during which a certificate the
+department issues under this section is valid and may adopt other rules that
+are necessary to implement the provisions of this section. [2015 c.454 §2] 
+
+   
+
+ INTERGOVERNMENTAL
+RELATIONS 
+
+   
+
+ (Generally) 
+
+   
+
+       279A.180
+Purchases through federal programs. 
+Notwithstanding any other provision of the Public Contracting Code, a
+procurement may be made without competitive sealed bidding, competitive sealed
+proposals or other competition required under ORS 279B.050 to 279B.085 provided
+that: 
+
+       (1) The
+procurement is made in accordance with rules adopted by the contracting agency
+for procurements under this section; and 
+
+       (2) The
+procurement is made under 10 U.S.C. 381, the Electronic Government Act of 2002
+(P.L. 107-347) or other federal law that is, as determined by the Director of
+the Oregon Department of Administrative Services or a local contract review
+board, similar to 10 U.S.C. 381 or section 211 of the Electronic Government Act
+of 2002 in effectuating or promoting transfers of property to contracting
+agencies. [2003 c.794 §22] 
+
+   
+
+       279A.185 Local
+contracting agency arrangements for use or disposition of personal property
+authorized. (1)
+Notwithstanding the competitive procurement requirements of ORS chapters 279B
+and 279C, a local contracting agency may sell, transfer or dispose of personal
+property in accordance with rules adopted under ORS 279A.070. 
+
+       (2)
+Notwithstanding the competitive procurement requirements of ORS chapters 279B
+and 279C, a local contracting agency may negotiate with one or more private or
+public entities to establish contracts, agreements and other cooperative
+arrangements for the use, operation, maintenance or ultimate lawful disposition
+of personal property owned by or under the control of the local contracting
+agency, including property acquired under ORS 279A.260. Before approving such a
+contract, agreement or arrangement, the governing body of the local contracting
+agency must make a finding that the contract, agreement or arrangement will
+promote the economic development of the local contracting agency, of the
+geographical area in which the local contracting agency is situated or of other
+public bodies that perform similar functions. [2003 c.794 §23] 
+
+   
+
+       279A.190
+Transfers of fire protection equipment between fire departments. (1) As used in this section: 
+
+       (a) “Fire
+protection equipment” has the meaning given that term in ORS 476.005. 
+
+       (b) “Public
+contract” includes a sale at no cost. 
+
+       (c) “Regularly
+organized fire department” has the meaning given that term in ORS 652.050. 
+
+       (2)
+Notwithstanding any other provision of the Public Contracting Code, transfers
+of fire protection equipment under public contracts between regularly organized
+fire departments may be made without competitive sealed bidding, competitive
+sealed proposals or other competition required in ORS 279B.050 to 279B.085,
+provided: 
+
+       (a) The recipient
+regularly organized fire department makes a written request for the fire
+protection equipment to the transferor regularly organized fire department; 
+
+       (b) The fire
+protection equipment is surplus to or unusable by the transferor; 
+
+       (c) The total
+fair market value of fire protection equipment received by the recipient does
+not exceed $50,000 per calendar year; and 
+
+       (d) The
+transferor holds a public hearing, with hearing notice published in at least
+one trade newspaper of general statewide circulation a minimum of 14 days
+before the hearing, and finds that the public contract is in the public’s
+interest. [2003 c.794 §24] 
+
+   
+
+ (Cooperative
+Procurement) 
+
+   
+
+       279A.200
+Definitions for ORS 279A.200 to 279A.225. (1) As used in ORS 279A.200 to 279A.225: 
+
+       (a) “Administering
+contracting agency” means a governmental body in this state or in another
+jurisdiction that solicits and establishes the original contract for the
+procurement of goods, services or public improvements in a cooperative
+procurement. 
+
+       (b) “Cooperative
+procurement” means a procurement conducted on behalf of more than one
+governmental body. “Cooperative procurement” includes but is not limited to
+multiagency contracts and price agreements. “Cooperative procurement” does not
+include an agreement formed among only governmental bodies under ORS chapter
+190 or by a statute, charter provision, ordinance or other authority for
+establishing agreements between or among governmental bodies or agencies or
+tribal governing bodies or agencies. 
+
+       (c) “Cooperative
+procurement group” means a group of governmental bodies joined through an
+intergovernmental agreement for the purpose of facilitating cooperative
+procurements. 
+
+       (d) “Interstate
+cooperative procurement” means a permissive cooperative procurement in which
+the administering contracting agency is a governmental body, domestic or
+foreign, that is authorized under the governmental body’s laws, rules or
+regulations to enter into public contracts and in which one or more of the
+participating governmental bodies are located outside this state. 
+
+       (e) “Joint
+cooperative procurement” means a cooperative procurement in which the
+participating governmental bodies or the cooperative procurement group and the
+bodies’ or group’s contract requirements or estimated contract requirements for
+price agreements are identified. 
+
+       (f) “Original
+contract” means the initial contract or price agreement solicited and awarded
+during a cooperative procurement by an administering contracting agency. 
+
+       (g) “Permissive
+cooperative procurement” means a cooperative procurement in which the
+purchasing contracting agencies are not identified. 
+
+       (h) “Purchasing
+contracting agency” means a governmental body that procures goods, services or
+public improvements from a contractor based on the original contract
+established by an administering contracting agency. 
+
+       (2) As used in
+ORS 279A.210 (1)(a), 279A.215 (1)(a) and 279A.220 (1)(a), an administering
+contracting agency’s solicitation and award process uses source selection
+methods “substantially equivalent” to those identified in ORS 279B.055,
+279B.060 or 279B.085 if the solicitation and award process: 
+
+       (a) Calls for
+award of a contract on the basis of a lowest responsible bidder or a lowest and
+best bidder determination in the case of competitive bids, or on the basis of a
+determination of the proposer whose proposal is most advantageous based on
+evaluation factors set forth in the request for proposals in the case of
+competitive proposals; 
+
+       (b) Does not
+permit the application of any geographic preference that is more favorable to
+bidders or proposers who reside in the jurisdiction or locality favored by the
+preference than the preferences provided in ORS 279A.120 (2); and 
+
+       (c) Uses
+reasonably clear and precise specifications that promote suitability for the
+purposes intended and that reasonably encourage competition. [2003 c.794 §25;
+2007 c.764 §4] 
+
+   
+
+       279A.205
+Cooperative procurements authorized. 
+(1) A contracting agency may participate in, sponsor, conduct or administer a
+joint cooperative procurement for the procurement of any goods, services or
+public improvements. 
+
+       (2) A contracting
+agency may participate in, sponsor, conduct or administer a permissive or
+interstate cooperative procurement for the procurement of any goods or
+services, but not public improvements. [2003 c.794 §26; 2005 c.103 §6] 
+
+   
+
+       279A.210 Joint
+cooperative procurements. 
+(1) A joint cooperative procurement is valid only if: 
+
+       (a) The
+administering contracting agency’s solicitation and award process for the
+original contract is an open and impartial competitive process and uses source
+selection methods substantially equivalent to those specified in ORS 279B.055,
+279B.060 or 279B.085 or uses a competitive bidding process substantially
+equivalent to the competitive bidding process in ORS chapter 279C; 
+
+       (b) The
+administering contracting agency’s solicitation and the original contract or
+price agreement identifies the cooperative procurement group or each
+participating purchasing contracting agency and specifies the estimated
+contract requirements; and 
+
+       (c) No material
+change is made in the terms, conditions or prices of the contract between the
+contractor and the purchasing contracting agency from the terms, conditions and
+prices of the original contract between the contractor and the administering
+contracting agency. 
+
+       (2) A joint
+cooperative procurement may not be a permissive cooperative procurement. [2003
+c.794 §27] 
+
+   
+
+       279A.215
+Permissive cooperative procurements. 
+(1) A contracting agency may establish a contract or price agreement through a
+permissive cooperative procurement only if: 
+
+       (a) The
+administering contracting agency’s solicitation and award process for the
+original contract is an open and impartial competitive process and uses source
+selection methods substantially equivalent to those specified in ORS 279B.055
+or 279B.060; 
+
+       (b) The
+administering contracting agency’s solicitation and the original contract allow
+other contracting agencies to establish contracts or price agreements under the
+terms, conditions and prices of the original contract; 
+
+       (c) The
+contractor agrees to extend the terms, conditions and prices of the original
+contract to the purchasing contracting agency; and 
+
+       (d) No material
+change is made in the terms, conditions or prices of the contract or price
+agreement between the contractor and the purchasing contracting agency from the
+terms, conditions and prices of the original contract between the contractor
+and the administering contracting agency. 
+
+       (2)(a) A
+purchasing contracting agency shall provide public notice of intent to
+establish a contract or price agreement through a permissive cooperative
+procurement if the estimated amount of the procurement exceeds $250,000. 
+
+       (b) The notice of
+intent must include: 
+
+       (A) A description
+of the procurement; 
+
+       (B) An estimated
+amount of the procurement; 
+
+       (C) The name of
+the administering contracting agency; and 
+
+       (D) A time, place
+and date by which comments must be submitted to the purchasing contracting
+agency regarding the intent to establish a contract or price agreement through
+a permissive cooperative procurement. 
+
+       (c) Public notice
+of the intent to establish a contract or price agreement through a permissive
+cooperative procurement must be given in the same manner as provided in ORS
+279B.055 (4)(b) and (c). 
+
+       (d) Unless
+otherwise specified in rules adopted under ORS 279A.070, the purchasing
+contracting agency shall give public notice at least seven days before the
+deadline for submission of comments regarding the intent to establish a
+contract or price agreement through a permissive cooperative procurement. 
+
+       (3) If a
+purchasing contracting agency is required to provide notice of intent to
+establish a contract or price agreement through a permissive cooperative
+procurement under subsection (2) of this section: 
+
+       (a) The
+purchasing contracting agency shall provide vendors who would otherwise be
+prospective bidders or proposers on the contract or price agreement, if the
+procurement were competitively procured under ORS chapter 279B, an opportunity
+to comment on the intent to establish a contract or price agreement through a
+permissive cooperative procurement. 
+
+       (b) Vendors must
+submit comments within seven days after the notice of intent is published. 
+
+       (c) And if the
+purchasing contracting agency receives comments on the intent to establish a
+contract or price agreement through a permissive cooperative procurement,
+before the purchasing contracting agency may establish a contract or price
+agreement through the permissive cooperative procurement, the purchasing
+contracting agency shall make a written determination that establishing a
+contract or price agreement through a permissive cooperative procurement is in
+the best interest of the purchasing contracting agency. The purchasing
+contracting agency shall provide a copy of the written determination to any
+vendor that submitted comments. [2003 c.794 §28] 
+
+   
+
+       279A.220
+Interstate cooperative procurements. 
+(1) A contracting agency may establish a contract or price agreement through an
+interstate cooperative procurement only if: 
+
+       (a) The
+administering contracting agency’s solicitation and award process for the
+original contract is an open and impartial competitive process and uses source
+selection methods substantially equivalent to those specified in ORS 279B.055
+or 279B.060; 
+
+       (b) The
+administering contracting agency’s solicitation and the original contract
+allows other governmental bodies to establish contracts or price agreements
+under the terms, conditions and prices of the original contract; and 
+
+       (c) The
+administering contracting agency permits the contractor to extend the use of
+the terms, conditions and prices of the original contract to the purchasing
+contracting agency. 
+
+       (2) In addition
+to the requirements in subsection (1) of this section: 
+
+       (a) The
+purchasing contracting agency, or the cooperative procurement group of which
+the purchasing contracting agency is a member, must be listed in the
+solicitation of the administering contracting agency as a party that may
+establish contracts or price agreements under the terms, conditions and prices
+of the original contract, and the solicitation must be advertised in Oregon; or 
+
+       (b)(A) The
+purchasing contracting agency, or the cooperative procurement group of which
+the purchasing contracting agency is a member, shall advertise a notice of
+intent to establish a contract or price agreement through an interstate
+cooperative procurement. 
+
+       (B) The notice of
+intent must include: 
+
+       (i) A description
+of the procurement; 
+
+       (ii) An estimated
+amount of the procurement; 
+
+       (iii) The name of
+the administering contracting agency; and 
+
+       (iv) A time,
+place and date by which comments must be submitted to the purchasing contracting
+agency regarding the intent to establish a contract or price agreement through
+an interstate cooperative procurement. 
+
+       (C) Public notice
+of the intent to establish a contract or price agreement through an interstate
+cooperative procurement must be given in the same manner as provided in ORS
+279B.055 (4)(b) and (c). 
+
+       (D) Unless
+otherwise specified in rules adopted under ORS 279A.070, the purchasing
+contracting agency shall give public notice at least seven days before the
+deadline for submission of comments regarding the intent to establish a
+contract or price agreement through an interstate cooperative procurement. 
+
+       (3) If a
+purchasing contracting agency is required to provide notice of intent to
+establish a contract or price agreement through an interstate cooperative
+procurement under subsection (2) of this section: 
+
+       (a) The
+purchasing contracting agency shall provide vendors who would otherwise be
+prospective bidders or proposers on the contract or price agreement, if the
+procurement were competitively procured under ORS chapter 279B, an opportunity
+to comment on the intent to establish a contract or price agreement through an
+interstate cooperative procurement. 
+
+       (b) Vendors must
+submit comments within seven days after the notice of intent is published. 
+
+       (c) And if the
+purchasing contracting agency receives comments on the intent to establish a
+contract or price agreement through an interstate cooperative procurement,
+before the purchasing contracting agency may establish a contract or price
+agreement through the interstate cooperative procurement, the purchasing
+contracting agency shall make a written determination that establishing a
+contract or price agreement through an interstate cooperative procurement is in
+the best interest of the purchasing contracting agency. The purchasing
+contracting agency shall provide a copy of the written determination to any
+vendor that submitted comments. 
+
+       (4) For purposes
+of this section, an administering contracting agency may be any governmental
+body, domestic or foreign, authorized under its laws, rules or regulations to
+enter into contracts for the procurement of goods and services for use by a
+governmental body. [2003 c.794 §29] 
+
+   
+
+       279A.225
+Protests and disputes. 
+(1) A protest regarding the procurement process, the contents of solicitation
+documents or the award or proposed award of an original contract may be
+directed only to the administering contracting agency. The protest must be in
+accordance with the provisions of ORS 279B.400 to 279B.425. 
+
+       (2) A protest
+regarding the use of a cooperative procurement by a purchasing contracting
+agency after the execution of an original contract may be directed only to the
+purchasing contracting agency. The protest must be in accordance with the
+provisions of ORS 279B.400 to 279B.425 and is limited in scope to the
+purchasing contracting agency’s authority to enter into a cooperative
+procurement contract. 
+
+       (3) The decision
+of a local contracting agency to use a cooperative procurement is reviewable in
+the circuit court of the county where the principal offices of the local
+contracting agency are located. The decision of a state contracting agency to
+use a cooperative procurement shall be reviewable by the Circuit Court for
+Marion County or the circuit court of the county where the principal offices of
+the state contracting agency are located. 
+
+       (4) Disputes
+regarding contract performance between a purchasing contracting agency and a
+contractor may be resolved solely by the purchasing contracting agency and the
+contractor. [2003 c.794 §30] 
+
+   
+
+ STATE SURPLUS PROPERTY 
+
+   
+
+       279A.250
+Definitions for ORS 279A.250 to 279A.290. As used in ORS 279A.250 to 279A.290, unless the
+context requires otherwise: 
+
+       (1) “Donee” means
+an entity eligible to acquire federal donation property based upon federal
+regulations or eligible to acquire surplus property in accordance with rules
+adopted by the Oregon Department of Administrative Services. Entities eligible
+to acquire federal donation property may also acquire surplus property other
+than federal donation property. 
+
+       (2) “Not-for-profit
+organization” means a nonprofit corporation as defined in ORS 307.130. 
+
+       (3) “Property”
+means personal property. 
+
+       (4) “State agency”
+means every state officer, board, commission, department, institution, branch
+or agency of state government whose costs are paid wholly or in part from funds
+held in the State Treasury, and includes the Legislative Assembly and the
+courts, including the officers and committees of both, and the Secretary of
+State and the State Treasurer in the performance of the duties of their
+constitutional offices. 
+
+       (5) “Surplus
+property” means property received by the Oregon Department of Administrative
+Services or a state agency as surplus from federal government units, state
+agencies, local governments, special government bodies, not-for-profit
+organizations, other states and private entities. [2003 c.794 §36] 
+
+   
+
+       279A.255
+Inspection, appraisal and inventory of state property; reports by state
+agencies. The
+Oregon Department of Administrative Services may: 
+
+       (1) Provide for
+the periodic inspection and appraisal of state property; 
+
+       (2) Provide for
+the maintenance of current and perpetual inventories of state property; and 
+
+       (3) Require any
+state agency to make reports of the property in the agency’s custody at such
+intervals and in such form as the department deems necessary. [2003 c.794 §37] 
+
+   
+
+       279A.260
+Powers and duties of department; acquisitions by qualified donees; rules. (1) Subject to the power of the
+Governor to terminate the functions listed in this section, the Oregon
+Department of Administrative Services may: 
+
+       (a) Accept
+surplus property; 
+
+       (b) Distribute
+surplus property to donees; 
+
+       (c) Provide
+suitable facilities for the storage and distribution of surplus property; 
+
+       (d) Enter into
+reciprocal agreements and contracts with federal government units, state
+agencies, local governments, special government bodies, not-for-profit
+organizations, other states and private entities, with respect to the
+utilization and exchange of property, facilities, personnel and services, for
+the administration of the provisions of this section in accordance with federal
+and state laws governing the acquisition, distribution, utilization, disposal
+or sale of surplus property; 
+
+       (e) Expend funds
+in connection with the provisions of this section; 
+
+       (f) Adopt rules
+for the acquisition, distribution, utilization, disposal or sale of surplus
+property in accordance with federal and state laws; 
+
+       (g) Set charges,
+subject to federal and state laws, necessary to recover all direct and indirect
+costs associated with acquiring, purchasing, shipping, handling, warehousing,
+storing and distributing surplus property; 
+
+       (h) Cooperate
+with donees in locating, obtaining or warehousing surplus property; and 
+
+       (i) Obtain
+surplus property on behalf of donees. 
+
+       (2) The
+department shall deposit all fees or charges collected or received under this
+section in the Oregon Department of Administrative Services Operating Fund. 
+
+       (3) The governing
+board or the executive head of a donee may, by order or resolution, confer upon
+any officer or employee thereof authority to secure the acquisition of surplus
+property through the department in accordance with federal and state laws governing
+the acquisition, distribution, utilization, disposal or sale of surplus
+property. [2003 c.794 §38] 
+
+   
+
+       279A.265 Use
+of Oregon Department of Administrative Services Operating Fund; cash dividends. (1) In addition to the other
+purposes for which the Oregon Department of Administrative Services Operating
+Fund established under ORS 283.076 may be used, the fund hereby is appropriated
+continuously for and may be used for the purposes of this section and ORS
+279A.260. All claims approved by the Oregon Department of Administrative
+Services for the purposes of this section and ORS 279A.260 shall be paid as
+provided in ORS 293.295 to 293.462. The department shall draw warrants on the
+State Treasurer for the payment thereof payable out of the fund. All moneys
+received under ORS 279A.260 shall be paid by the department to the State
+Treasurer for credit to the fund. 
+
+       (2) The Director
+of the Oregon Department of Administrative Services may distribute in the form
+of cash dividends accumulated surpluses in the fund that arise because the
+charges collected from donees are in excess of the amount necessary to keep the
+activities under this section and ORS 279A.260 on a self-sustaining basis. The
+director shall pay the cash dividends to the donees referred to in ORS 279A.260
+(1). Any dividend paid under this subsection shall be based on the ratio of the
+charges collected from each donee during the preceding fiscal year to the total
+charges collected from all donees for the fiscal year immediately preceding the
+fiscal year in which the dividend is authorized to be paid. 
+
+       (3) Upon
+termination by the Governor of the functions of the department under ORS
+279A.260, any balance remaining in the fund that is attributable to the
+activities under this section and ORS 279A.260 shall be refunded pro rata to
+the donees referred to in ORS 279A.260 (1) upon the basis of the total charges
+collected from each donee during the preceding fiscal year, unless the director
+determines that the cost of making the refund is excessive, in which case the
+unrefunded moneys shall be paid to the Treasurer of the United States. [2003
+c.794 §39] 
+
+   
+
+       279A.270
+Contracts with federal government for accepting gifts and acquiring surplus
+property; bids not required. 
+The Oregon Department of Administrative Services may enter into contracts with
+any federal government unit for the purpose of accepting gifts and for the
+acquisition of surplus property upon such terms and conditions as may be agreed
+upon, without regard to the provisions of law requiring the posting of notices
+or public advertising for bids or the soliciting or receiving of competitive
+bids. [2003 c.794 §40] 
+
+   
+
+       279A.275
+Leasing of state property. 
+The Oregon Department of Administrative Services may lease any state property
+not needed for public use, provided the law does not prohibit the leasing and
+the authority to lease is not vested in any other state agency. [2003 c.794 §41] 
+
+   
+
+       279A.280
+Disposal of surplus property; costs of disposal. (1)(a) Without requiring
+competitive bidding: 
+
+       (A) The Oregon
+Department of Administrative Services may sell or transfer surplus property to
+or transfer surplus property between donees. Donees may be given preference to
+acquire surplus property. Property acquired shall be used for public purpose or
+benefit and not for resale to a private purchaser. 
+
+       (B) The
+department, or a public or private person or entity designated by the
+department, may transfer computers and related hardware that are surplus,
+obsolete or unused to a common or union high school district or education
+service district. The department, or its designee, may not charge the school
+district a fee for the transfer. 
+
+       (C) The
+department, or a public or private person or entity designated by the
+department, may recycle or otherwise dispose of property when the department
+determines the value and condition of the property does not warrant the cost of
+a sale. 
+
+       (b) Authorized
+transfers under this subsection include those made with or without
+consideration. 
+
+       (2) In accordance
+with ORS 279B.055 or 279B.060, the department may sell surplus property. 
+
+       (3) All proceeds
+derived from the disposal of property under this section, except proceeds that
+may not under federal laws or regulations be deposited in the manner provided
+by this section, shall be deposited in the State Treasury to the credit of the
+Oregon Department of Administrative Services Operating Fund. 
+
+       (4) In addition
+to the other purposes for which the fund may be used, the fund is appropriated
+continuously for and may be used for paying the administrative costs incurred
+in the transfer or disposal of property under subsections (1) and (2) of this
+section, and for paying the amount due to the state agency whose property has
+been sold. The total amount payable to the agency whose property has been sold
+shall be the amount derived from the disposal of the property less the amount
+of the administrative costs incurred in disposing of the property. Such total
+amount may be deposited in the State Treasury to the credit of the
+miscellaneous receipts account established under ORS 279A.290 for the agency
+whose property has been sold. 
+
+       (5) The cost of
+services for disposal of property under this section that is not recoverable
+from the proceeds of a sale of the property shall be charged to the state
+agency served and paid to the department in the same manner as other claims
+against the agency are paid. [2003 c.794 §42] 
+
+   
+
+       279A.285
+Disposition of moneys received as payment for repair or replacement of damaged,
+destroyed, lost or stolen property. 
+All moneys received from insurers and other sources as payment for the cost and
+expense of repair and replacement of property of state agencies that has been
+damaged, destroyed, lost or stolen, except the particular moneys as may not
+under federal law or regulations be deposited in the manner provided by this
+section, may be deposited in the State Treasury to the credit of the
+miscellaneous receipts account established under ORS 279A.290 for the state
+agency whose property has been damaged, destroyed, lost or stolen. [2003 c.794 §43] 
+
+   
+
+       279A.290
+Miscellaneous receipts accounts. 
+(1) The State Treasurer may establish a miscellaneous receipts account for any
+state agency and shall credit to the account any amounts paid into the State
+Treasury under ORS 190.240 (1), 279A.280, 279A.285, 283.110 or 357.885 for the
+state agency for which the account was established. The moneys credited to the
+miscellaneous receipts account of a state agency established under this section
+are appropriated continuously for the payment of the expenses of the state
+agency, subject to the allotment system provided by ORS 291.234 to 291.260. 
+
+       (2) Laws enacted
+by the Legislative Assembly limiting expenditures do not limit expenditures
+from miscellaneous receipts accounts established under this section except when
+the law limiting expenditures of a state agency specifically establishes a
+limit for expenditures from the miscellaneous receipts account of the agency. [2003
+c.794 §44; 2003 c.794 §44a] 
+
+   
+
+ MISCELLANEOUS
+PROVISIONS 
+
+   
+
+       279A.800
+Consideration of whether bidder or proposer owes liquidated and delinquent debt
+to state. In
+addition to making a determination concerning a bidder’s or proposer’s
+responsibility under ORS 279B.110 or 279C.375, a contracting agency as part of
+the contracting agency’s evaluation of a bid or proposal may consider at any
+time before executing a public contract with the bidder or proposer whether the
+bidder or proposer owes a liquidated and delinquent debt to the state. [2019
+c.124 §2] 
+
+   
+
+       279A.803
+Requirements for qualified projects funded with moneys from American Rescue
+Plan Act of 2021; exceptions. 
+(1) A public body that is carrying out a qualified project shall require each
+contractor in a contract with an estimated cost of $200,000 or greater to: 
+
+       (a) Enter into a
+project labor agreement that, at a minimum, provides for payment of wages at or
+above the prevailing rate of wage; 
+
+       (b) Employ
+apprentices to perform 15 percent of the work hours that workers in
+apprenticeable occupations perform under the contract, in a manner consistent
+with the apprentices’ respective apprenticeship training programs; 
+
+       (c) Establish and
+execute a plan for outreach, recruitment and retention of women, minority
+individuals and veterans to perform work under the contract, with the
+aspirational target of having at least 15 percent of total work hours performed
+by individuals in one or more of those groups; and 
+
+       (d) Require any
+subcontractor engaged by the contractor to abide by the requirements set forth
+in paragraphs (a), (b) and (c) of this subsection, if the work to be performed
+under the subcontract has an estimated cost of $200,000 or greater. 
+
+       (2) The
+requirements of subsection (1) of this section do not apply to a contract for a
+qualified project if the public body carrying out the qualified project
+demonstrates to the Oregon Department of Administrative Services that: 
+
+       (a) The qualified
+project is primarily located in a county that is characterized as
+nonmetropolitan by the United States Office of Management and Budget; and 
+
+       (b) Compliance
+with the requirements would, with respect to the contract: 
+
+       (A) Cause
+significant expense or delay; or 
+
+       (B) Limit the
+pool of bidders to fewer than three. 
+
+       (3) As used in
+this section: 
+
+       (a) “Apprentice”
+has the meaning given that term in ORS 660.010. 
+
+       (b) “Apprenticeable
+occupation” has the meaning given that term in ORS 660.010. 
+
+       (c) “Apprenticeship
+training program” means the total system of apprenticeship that a particular
+local joint committee, as defined in ORS 660.010, operates, including the local
+joint committee’s registered standards and all other terms and conditions for
+qualifying, recruiting, selecting, employing and training apprentices in an
+apprenticeable occupation. 
+
+       (d) “Minority
+individual” has the meaning given that term in ORS 200.005. 
+
+       (e) “Prevailing
+rate of wage” has the meaning given that term in ORS 279C.800. 
+
+       (f) “Public body”
+has the meaning given that term in ORS 174.109. 
+
+       (g) “Qualified
+project” means a project: 
+
+       (A) For capital
+improvements to water, sewer, broadband or transportation infrastructure; 
+
+       (B) That has an
+estimated project cost of at least $10 million; and 
+
+       (C) That utilizes
+at least $750,000 of moneys made available to the state under the American
+Rescue Plan Act of 2021 (P.L. 117-2). 
+
+       (h) “Veteran” has
+the meaning given that term in ORS 408.225. 
+
+       (i) “Woman” has
+the meaning given that term in ORS 200.005. [2021 c.678 §17] 
+
+   
+
+       Note: 279A.803 was enacted into law by
+the Legislative Assembly but was not added to or made a part of ORS chapter
+279A or any series therein by legislative action. See Preface to Oregon Revised
+Statutes for further explanation. 
+
+   
+
+ PENALTIES 
+
+   
+
+       279A.990
+Penalties. (1) The
+provisions of ORS 291.990 apply to ORS 279A.140, 279A.280 and 279B.270. Any
+violation of ORS 279A.140, 279A.280 or 279B.270 shall be punished as described
+in ORS 291.990. 
+
+       (2) Any
+contractor, subcontractor, agent or person in authority or in charge who
+violates any provision of ORS 279C.520 or 279C.540 as to hours of labor commits
+a Class A misdemeanor. 
+
+       (3) Any
+contractor or subcontractor subject to ORS 279C.840 who fails to pay the
+prevailing rate of wage as required by ORS 279C.840 commits a Class B
+misdemeanor. [2003 c.794 §46; 2011 c.597 §176] 
+
+ _______________ 
+
+   
+
+ 
+
+ 
+
+ 
