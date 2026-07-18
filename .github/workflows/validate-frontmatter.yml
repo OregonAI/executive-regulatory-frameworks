@@ -17,3 +17,5 @@ jobs:
       - run: python3 src/validate_frontmatter.py
       - name: Review queue must be current
         run: python3 src/review_queue.py --check
+      - name: Relationship graph must be current
+        run: python3 src/link_graph.py --check

@@ -25,11 +25,13 @@ maintainer: "@morficflux"
 relationships:
   implements: []
   implemented_by:
-    - "das-107-004-120"
+    - das-107-004-052
+    - das-107-004-052_pr
+    - das-107-004-120
   references_external: []
   related:
-    - "ors-276a.300"
-    - "ors-276a.303"
+    - ors-276a.300
+    - ors-276a.303
   supersedes: []
 tags: ["information-security", "incident-response", "assessments", "statutory-authority"]
 ---

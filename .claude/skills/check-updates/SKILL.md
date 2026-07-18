@@ -55,6 +55,7 @@ changes.
 
        python3 src/validate_frontmatter.py && python3 src/verify_provenance.py
        python3 src/review_queue.py   # refresh REVIEW.md (CI checks it is current)
+       python3 src/link_graph.py     # refresh relationship edges + _meta/graph.json
 
    Then write a `Source-Updated` entry in the affected body's `CHANGELOG.md`
    (what changed, old→new hash prefixes, any TODO markers left for human review),

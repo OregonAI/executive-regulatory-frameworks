@@ -108,6 +108,20 @@ Record agent authorship with a commit trailer, e.g.:
 Assisted-by: Claude Code (supervised)
 ```
 
+## Relationship graph
+
+Every document's frontmatter `relationships` (implements / implemented_by /
+references_external / related / supersedes) forms a traversable authority graph,
+compiled into [`_meta/graph.json`](_meta/graph.json) (nodes + typed edges — the
+artifact an MCP server or any tool should load instead of parsing 1,900
+frontmatters). Edges are **mechanically derived** by `python3 src/link_graph.py`
+from authority citations inside each document (OARD's Statutory/Other Authority
+lines, policy REFERENCE headers, `legal_authority` frontmatter, the `_PR`
+procedure↔policy naming rule) — never from model judgment. Run it after any
+ingest; reruns are idempotent; CI fails when graph.json is stale. Hand-authored
+edges are preserved, and mirrors (implements ⇄ implemented_by) are kept
+symmetric automatically.
+
 ## Human-review queue
 
 [`REVIEW.md`](REVIEW.md) is the single place listing everything that needs human

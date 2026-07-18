@@ -24,13 +24,13 @@ verified_by: "@morficflux"
 maintainer: "@morficflux"
 relationships:
   implements:
-    - "ors-276a.300"
+    - ors-276a.300
   implemented_by: []
   references_external: []
   related:
-    - "das-107-004-052"
-    - "eis-css-itcs"
-    - "eis-css-program-plan-2023"
+    - das-107-004-052
+    - eis-css-itcs
+    - eis-css-program-plan-2023
   supersedes: []
 tags: ["information-security", "security-plan", "eis", "css"]
 ---

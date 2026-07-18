@@ -25,12 +25,12 @@ verified_by: "@morficflux"
 maintainer: "@morficflux"
 relationships:
   implements:
-    - "ors-276a.300"
+    - ors-276a.300
   implemented_by: []
   references_external:
-    - "nist-sp-800-53-r5"
+    - nist-sp-800-53-r5
   related:
-    - "eis-css-itcs"
+    - eis-css-itcs
   supersedes: []
 tags: ["information-security", "control-standards", "cp", "nist-800-53"]
 ---

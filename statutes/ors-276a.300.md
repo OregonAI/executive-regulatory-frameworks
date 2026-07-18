@@ -25,13 +25,44 @@ maintainer: "@morficflux"
 relationships:
   implements: []
   implemented_by:
-    - "oar-128-030-0020"
-    - "das-107-004-052"
-    - "eis-css-itcs"
+    - das-107-004-050
+    - das-107-004-052
+    - das-107-004-052_pr
+    - das-107-004-120
+    - das-107-004-160
+    - eis-css-itcs
+    - eis-css-itcs-ac
+    - eis-css-itcs-at
+    - eis-css-itcs-au
+    - eis-css-itcs-ca
+    - eis-css-itcs-cm
+    - eis-css-itcs-cp
+    - eis-css-itcs-ia
+    - eis-css-itcs-ir
+    - eis-css-itcs-ma
+    - eis-css-itcs-mp
+    - eis-css-itcs-pe
+    - eis-css-itcs-pl
+    - eis-css-itcs-ps
+    - eis-css-itcs-ra
+    - eis-css-itcs-sa
+    - eis-css-itcs-sc
+    - eis-css-itcs-si
+    - eis-css-itcs-sr
+    - eis-css-program-plan-2023
+    - eis-css-secplan
+    - oar-128-020-0005
+    - oar-128-020-0010
+    - oar-128-020-0015
+    - oar-128-020-0020
+    - oar-128-020-0025
+    - oar-128-020-0030
+    - oar-128-020-0035
+    - oar-128-030-0020
   references_external: []
   related:
-    - "ors-276a.303"
-    - "ors-276a.306"
+    - ors-276a.303
+    - ors-276a.306
   supersedes: []
 tags: ["information-security", "state-cio", "eis", "statutory-authority"]
 ---

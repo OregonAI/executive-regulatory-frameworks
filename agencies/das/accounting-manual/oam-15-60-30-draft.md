@@ -28,11 +28,12 @@ last_verified: "2026-07-18"
 verified_by: "@morficflux"
 maintainer: "@morficflux"
 relationships:
-  implements: []
+  implements:
+    - ors-293.590
   implemented_by: []
   references_external: []
   related:
-    - "oam-15-60-30"
+    - oam-15-60-30
   supersedes: []
 tags: ["oam", "accounting", "leases", "gasb-87"]
 ---

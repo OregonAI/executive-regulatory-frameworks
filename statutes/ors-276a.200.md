@@ -24,7 +24,12 @@ verified_by: "@morficflux"
 maintainer: "@morficflux"
 relationships:
   implements: []
-  implemented_by: []
+  implemented_by:
+    - das-107-004-030
+    - das-107-004-030_pr
+    - das-107-004-050
+    - das-107-004-130
+    - das-107-004-130_pr
   references_external: []
   related: []
   supersedes: []

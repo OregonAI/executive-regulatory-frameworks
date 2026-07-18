@@ -24,11 +24,14 @@ verified_by: "@morficflux"
 maintainer: "@morficflux"
 relationships:
   implements: []
-  implemented_by: []
+  implemented_by:
+    - das-107-004-052
+    - das-107-004-052_pr
+    - das-107-004-120
   references_external: []
   related:
-    - "ors-276a.300"
-    - "ors-276a.306"
+    - ors-276a.300
+    - ors-276a.306
   supersedes: []
 tags: ["information-security", "elected-offices", "statutory-authority"]
 ---

@@ -24,14 +24,14 @@ verified_by: "@morficflux"
 maintainer: "@morficflux"
 relationships:
   implements:
-    - "ors-276a.300"
+    - ors-276a.300
   implemented_by: []
   references_external:
-    - "nist-sp-800-53-r5"
+    - nist-sp-800-53-r5
   related:
-    - "das-107-004-052"
-    - "eis-css-itcs"
-    - "eis-css-secplan"
+    - das-107-004-052
+    - eis-css-itcs
+    - eis-css-secplan
   supersedes: []
 tags: ["information-security", "program-plan", "eis", "css"]
 ---

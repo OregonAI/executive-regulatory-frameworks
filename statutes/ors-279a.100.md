@@ -24,7 +24,12 @@ verified_by: "@morficflux"
 maintainer: "@morficflux"
 relationships:
   implements: []
-  implemented_by: []
+  implemented_by:
+    - das-107-009-0030
+    - das-107-009-0030_pr
+    - oar-125-246-0200
+    - oar-125-246-0220
+    - oar-125-246-0314
   references_external: []
   related: []
   supersedes: []

@@ -64,7 +64,9 @@ the issue.
    curator content only under `## At a glance` / `## Curator notes` /
    `## Cross-references`. Third-party sources: summary + link only. If the source
    cannot be cleanly parsed, insert `<!-- TODO: human verification required -->` and stop.
-6. Populate `relationships`; update the directory `_index.md`, `llms.txt`, and the
+6. Run `python3 src/link_graph.py` — relationship edges are derived mechanically from
+   the document's authority citations (add hand-authored edges only for connections the
+   citations don't capture); update the directory `_index.md`, `llms.txt`, and the
    knowledge body `CHANGELOG.md` (`Added`).
 
 ## Phase 3 — Verify & merge (REVIEW GATE #2)

@@ -25,8 +25,8 @@ relationships:
   implemented_by: []
   references_external: []
   related:
-    - "eis-css-itcs"
-    - "eis-css-program-plan-2023"
+    - eis-css-itcs
+    - eis-css-program-plan-2023
   supersedes: []
 tags: ["nist", "control-framework", "external"]
 ---
