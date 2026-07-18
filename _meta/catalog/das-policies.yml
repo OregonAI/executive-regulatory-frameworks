@@ -47,22 +47,24 @@ program_areas:
       - {number: "107-011-330", title: "Vending Services in State Office Buildings and Grounds Controlled by the Department", status: ingested, path: agencies/das/policies/das-107-011-330.md}
   - area: Human Resources (50-xxx)
     policies:
-      - {number: "50-000-01", title: "Drug-Free Workplace", status: not_ingested}
-      - {number: "50-010-01", title: "(title TBD — Discrimination and Harassment Free Workplace, per search summary; unverified)", status: not_ingested}
-      - {number: "50-010-02", title: "Workplace Violence Prevention", status: not_ingested}
-      - {number: "50-010-03", title: "Professional Workplace Behavior", status: not_ingested}
-      - {number: "50-010-05", title: "Weapons in the Workplace", status: not_ingested}
-      - {number: "50-010-06", title: "Employee Health & Wellness", status: not_ingested}
-      - {number: "50-020-10", title: "Disability Accommodations and Equal Employment Opportunity", status: not_ingested}
-      - {number: "50-035-01", title: "(title TBD)", status: not_ingested}
-      - {number: "50-050-01", title: "Remote Work", status: not_ingested}
-      - {number: "50-090-01", title: "Improper Governmental Conduct Reporting", status: not_ingested}
+      - {number: "50-000-01", title: "Drug Free Workplace", status: ingested, path: agencies/das/policies/das-50-000-01.md}
+      - {number: "50-010-01", title: "Discrimination and Harassment Free Workplace", status: ingested, path: agencies/das/policies/das-50-010-01.md}
+      - {number: "50-010-02", title: "Violence-Free Workplace", status: ingested, path: agencies/das/policies/das-50-010-02.md}
+      - {number: "50-010-03", title: "Maintaining a Professional Workplace", status: ingested, path: agencies/das/policies/das-50-010-03.md}
+      - {number: "50-010-05", title: "Weapons in the Workplace", status: ingested, path: agencies/das/policies/das-50-010-05.md, note: "50-010-05.Prior.pdf is the superseded 2019 copy, not ingested"}
+      - {number: "50-010-06", title: "Employee Health and Wellness", status: ingested, path: agencies/das/policies/das-50-010-06.md}
+      - {number: "50-020-10", title: "ADA and Reasonable Accommodation in Employment", status: ingested, path: agencies/das/policies/das-50-020-10.md}
+      - {number: "50-035-01", title: "Performance Management Process", status: ingested, path: agencies/das/policies/das-50-035-01.md}
+      - {number: "50-050-01", title: "Working Remotely", status: ingested, path: agencies/das/policies/das-50-050-01.md}
+      - {number: "50-090-01", title: "Managing Improper Governmental Conduct", status: ingested, path: agencies/das/policies/das-50-090-01.md}
     note: >
       The HR-specific portal (das/Pages/policieshr.aspx) lists category headers — General;
       Classification & Compensation; Position Management; Filling Positions; Workforce
       Management; Employee Leave; Discipline & Discharge — with no policy numbers visible
-      in static HTML. Numbers below are almost certainly incomplete; leave/discipline
-      categories in particular have no confirmed numbers yet.
+      in static HTML. The 10 policies above (all confirmed to exist and ingested
+      2026-07-18) fall under General; Classification & Compensation, Position Management,
+      Filling Positions, Workforce Management, Employee Leave, and Discipline & Discharge
+      categories likely contain further policies with no confirmed numbers yet.
   - area: Publishing & Distribution, Risk Management
     policies: []
     note: >

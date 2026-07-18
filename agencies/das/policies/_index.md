@@ -26,6 +26,16 @@ Procedures carry a `_PR` suffix. **Non-authoritative copies.**
 | DAS 107-011-150 | Service Animals | current | 2025-05-20 | [das-107-011-150.md](das-107-011-150.md) |
 | DAS 107-011-310 | Capitol Mall Area Parks and Grounds, Use of | current | 2001-06-20 | [das-107-011-310.md](das-107-011-310.md) |
 | DAS 107-011-330 | Vending Services | current | 2025-06-10 | [das-107-011-330.md](das-107-011-330.md) |
+| DAS 50-000-01 | Drug Free Workplace | current | 2024-11-01 | [das-50-000-01.md](das-50-000-01.md) |
+| DAS 50-010-01 | Discrimination and Harassment Free Workplace | current | 2025-03-03 | [das-50-010-01.md](das-50-010-01.md) |
+| DAS 50-010-02 | Violence-Free Workplace | current | 2024-11-01 | [das-50-010-02.md](das-50-010-02.md) |
+| DAS 50-010-03 | Maintaining a Professional Workplace | current | 2025-03-03 | [das-50-010-03.md](das-50-010-03.md) |
+| DAS 50-010-05 | Weapons in the Workplace | current | 2025-03-21 | [das-50-010-05.md](das-50-010-05.md) |
+| DAS 50-010-06 | Employee Health and Wellness | current | 2025-01-01 | [das-50-010-06.md](das-50-010-06.md) |
+| DAS 50-020-10 | ADA and Reasonable Accommodation in Employment | current | 2025-03-21 | [das-50-020-10.md](das-50-020-10.md) |
+| DAS 50-035-01 | Performance Management Process | current | 2025-03-21 | [das-50-035-01.md](das-50-035-01.md) |
+| DAS 50-050-01 | Working Remotely | current | 2025-03-21 | [das-50-050-01.md](das-50-050-01.md) |
+| DAS 50-090-01 | Managing Improper Governmental Conduct | current | 2025-01-01 | [das-50-090-01.md](das-50-090-01.md) |
 
 ## How to find the right policy
 
@@ -41,6 +51,10 @@ Procedures carry a `_PR` suffix. **Non-authoritative copies.**
 - **Facilities/asset management:** energy & conservation 107-011-010; e-waste disposal
   107-011-050_PR; office space design 107-011-100; office siting 107-011-115; service
   animals 107-011-150; Capitol Mall grounds use 107-011-310; vending 107-011-330.
+- **HR:** drug-free workplace 50-000-01; discrimination/harassment 50-010-01;
+  workplace violence 50-010-02; professional conduct 50-010-03; weapons 50-010-05;
+  health & wellness 50-010-06; ADA/accommodation 50-020-10; performance management
+  50-035-01; remote work 50-050-01; improper conduct reporting 50-090-01.
 - **For the underlying control requirements** a policy points to, see
   [../standards/](../standards/_index.md).
 - ⚠️ 107-004-051 and 107-004-100 are image-only scans: summary-only files, no verbatim

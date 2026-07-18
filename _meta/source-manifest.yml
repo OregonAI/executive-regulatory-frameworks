@@ -118,6 +118,66 @@ sources:
     last_checked: "2026-07-18"
     recheck: monthly
     notes: "Vending Services. Effective 6/10/2025."
+  - id: das-50-000-01
+    url: https://www.oregon.gov/das/Policies/50-000-01.pdf
+    sha256: 652a7e94cf677c677a38565ddc92113d1d0c2cbdad806c7df140177b4678ac83
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Drug Free Workplace. Effective 11/01/2024."
+  - id: das-50-010-01
+    url: https://www.oregon.gov/das/Policies/50-010-01.pdf
+    sha256: 5903294ebd9bf1ac7a04d77bca0eadc90196ab6cc367494832c9975142140499
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Discrimination and Harassment Free Workplace. Effective 03/03/2025."
+  - id: das-50-010-02
+    url: https://www.oregon.gov/das/Policies/50-010-02.pdf
+    sha256: 866a5e14574edb2bfb5f297f897a3a7fc62ab2262f91f9e8c38a09429bf6ac7c
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Violence-Free Workplace. Effective 11/1/2024."
+  - id: das-50-010-03
+    url: https://www.oregon.gov/das/Policies/50-010-03.pdf
+    sha256: 461bc3399aeca057bf3ee352bbaeba6b8fec5b4f39c77fd398d296204cccee4a
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Maintaining a Professional Workplace. Effective 03/03/2025."
+  - id: das-50-010-05
+    url: https://www.oregon.gov/das/Policies/50-010-05.pdf
+    sha256: 1b6172dc5372a2610ea6bccf4daaf6bb707c2767a84fe867718dbbd49d34c941
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Weapons in the Workplace. Effective 3/21/2025."
+  - id: das-50-010-06
+    url: https://www.oregon.gov/das/Policies/50-010-06.pdf
+    sha256: 62ccb65ff86e3bd64671a28b357150072d375c3f990428dbc591075fbe99e911
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Employee Health and Wellness. Effective 01/01/2025."
+  - id: das-50-020-10
+    url: https://www.oregon.gov/das/Policies/50-020-10.pdf
+    sha256: 0ff7c1dd13302c5ab9b131aa2f2a5b800f77604444567d25bb5d927727124d3b
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "ADA and Reasonable Accommodation in Employment. Effective 3/21/2025."
+  - id: das-50-035-01
+    url: https://www.oregon.gov/das/Policies/50-035-01.pdf
+    sha256: 2da88d46a01d795291138e1daab7ed939163f346ea86aacbb50f0981a9ba7e13
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Performance Management Process. Effective 3/21/2025."
+  - id: das-50-050-01
+    url: https://www.oregon.gov/das/Policies/50-050-01.pdf
+    sha256: 0c6819ab69ee60403581b0f43095c1592badd733e438133edb8629612f9e7335
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Working Remotely. Effective 3/21/2025."
+  - id: das-50-090-01
+    url: https://www.oregon.gov/das/Policies/50-090-01.pdf
+    sha256: 8c5ea918062551c7a7465d0ed87cfbbd4006598a5bca558a8f045169c70e289e
+    last_checked: "2026-07-18"
+    recheck: monthly
+    notes: "Managing Improper Governmental Conduct. Effective 01/01/2025."
   # ---- EIS/CSS statewide standards ----
   - id: eis-css-itcs
     url: "https://www.oregon.gov/eis/cyber-security-services/Documents/eis-css-statewide-information-technology(IT)-control-standards.pdf"

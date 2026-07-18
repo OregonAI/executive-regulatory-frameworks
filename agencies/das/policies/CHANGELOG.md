@@ -8,6 +8,21 @@ file's frontmatter).
 
 ## [Unreleased]
 
+## [2026-07-18] (2)
+
+### Added
+
+- 50-xxx HR batch (from `_meta/catalog/das-policies.yml`): das-50-000-01 (Drug Free
+  Workplace), das-50-010-01 (Discrimination and Harassment Free Workplace), das-50-010-02
+  (Violence-Free Workplace), das-50-010-03 (Maintaining a Professional Workplace),
+  das-50-010-05 (Weapons in the Workplace), das-50-010-06 (Employee Health and Wellness),
+  das-50-020-10 (ADA and Reasonable Accommodation in Employment), das-50-035-01
+  (Performance Management Process), das-50-050-01 (Working Remotely), das-50-090-01
+  (Managing Improper Governmental Conduct). All 10 catalog candidates confirmed to exist
+  and ingested; titles corrected from "(title TBD)" to verified headers. Wired
+  cross-references: 107-011-100 <-> 50-050-01 (space/remote work); 107-011-150 <->
+  50-020-10 (service animals/ADA accommodation). Verified-by @morficflux.
+
 ## [2026-07-18]
 
 ### Added

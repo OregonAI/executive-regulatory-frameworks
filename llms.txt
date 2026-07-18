@@ -57,6 +57,16 @@
   [107-011-150 service animals](agencies/das/policies/das-107-011-150.md) ·
   [107-011-310 Capitol Mall grounds](agencies/das/policies/das-107-011-310.md) ·
   [107-011-330 vending services](agencies/das/policies/das-107-011-330.md)
+- HR: [50-000-01 drug-free workplace](agencies/das/policies/das-50-000-01.md) ·
+  [50-010-01 discrimination/harassment](agencies/das/policies/das-50-010-01.md) ·
+  [50-010-02 workplace violence](agencies/das/policies/das-50-010-02.md) ·
+  [50-010-03 professional conduct](agencies/das/policies/das-50-010-03.md) ·
+  [50-010-05 weapons](agencies/das/policies/das-50-010-05.md) ·
+  [50-010-06 health & wellness](agencies/das/policies/das-50-010-06.md) ·
+  [50-020-10 ADA/accommodation](agencies/das/policies/das-50-020-10.md) ·
+  [50-035-01 performance management](agencies/das/policies/das-50-035-01.md) ·
+  [50-050-01 remote work](agencies/das/policies/das-50-050-01.md) ·
+  [50-090-01 improper conduct reporting](agencies/das/policies/das-50-090-01.md)
 
 ## DAS Standards (EIS/CSS)
 
