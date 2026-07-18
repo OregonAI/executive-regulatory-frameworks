@@ -67,7 +67,10 @@ the issue.
 6. Run `python3 src/link_graph.py` — relationship edges are derived mechanically from
    the document's authority citations (add hand-authored edges only for connections the
    citations don't capture); update the directory `_index.md`, `llms.txt`, and the
-   knowledge body `CHANGELOG.md` (`Added`).
+   knowledge body `CHANGELOG.md` (`Added`). Then run `python3 src/review_queue.py` — a
+   rule/policy/procedure/standard that comes out with zero relationship edges is flagged
+   under "Unlinked rules/policies/procedures/standards" in `REVIEW.md`; check the
+   source's authority/reference text before merging.
 
 ## Phase 3 — Verify & merge (REVIEW GATE #2)
 

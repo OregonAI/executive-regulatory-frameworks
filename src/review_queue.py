@@ -18,6 +18,13 @@ from repo_lib import REPO_ROOT, content_files, parse_frontmatter
 OUT = REPO_ROOT / "REVIEW.md"
 TODO_MARK = "TODO: human verification required"
 
+# doc_types where a rule/policy/procedure/standard with zero graph edges is a red
+# flag: link_graph.py should have found an authority citation (or a naming-pair,
+# for procedures) for every one of these. An unlinked doc usually means the
+# citation text didn't match the extractor's patterns and needs a human look.
+LINKABLE_DOC_TYPES = {"rule", "policy", "procedure", "standard"}
+REL_KEYS = ["implements", "implemented_by", "references_external", "related", "supersedes"]
+
 
 def scan():
     q = {
@@ -26,6 +33,7 @@ def scan():
         "pending": [],     # status proposed/draft docs
         "migration": [],   # migration_pending
         "discrepancy": [], # curator-noted source/listing discrepancies
+        "unlinked": [],    # rule/policy/procedure/standard with zero graph edges
     }
     body_counts = {}
     for path in content_files():
@@ -48,6 +56,12 @@ def scan():
             q["pending"].append((rel, f"status: {fm['status']} — {fm.get('source_version', '')[:80]}"))
         if "Date discrepancy" in body:
             q["discrepancy"].append((rel, "document's printed date differs from the listing of record (see Curator notes)"))
+        if fm.get("doc_type") in LINKABLE_DOC_TYPES:
+            rels = fm.get("relationships") or {}
+            if not any(rels.get(k) for k in REL_KEYS):
+                q["unlinked"].append((rel, f"{fm['doc_type']} has zero relationship edges — "
+                                            "link_graph.py found no authority citation "
+                                            "(or naming pair) to resolve; add/verify one manually"))
 
     # catalog-derived items
     cat_items = {"not_sliceable": [], "renumbered": [], "gaps": []}
@@ -120,6 +134,15 @@ def render(q, cat_items, body_counts):
             "typos). This repo records what the document prints; each file's Curator notes "
             "explain. Review once; no fix needed unless upstream corrects itself.",
             q["discrepancy"])
+
+    section("Unlinked rules/policies/procedures/standards — no graph edges",
+            "`src/link_graph.py` found no authority citation (or, for procedures, no "
+            "`_PR` naming match) connecting this document to anything else in the "
+            "corpus. Usually means the source's authority/reference text doesn't match "
+            "the extractor's citation patterns (a typo'd rule number, unusual wording) "
+            "or the document genuinely has no printed authority — check the source and "
+            "either fix the citation text or add a hand-authored relationship.",
+            q["unlinked"])
 
     section("Catalog: sections with no sliceable body",
             "ORS catalog entries whose section text couldn't be found in the chapter HTML "

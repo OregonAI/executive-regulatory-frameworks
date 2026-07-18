@@ -126,10 +126,17 @@ symmetric automatically.
 
 [`REVIEW.md`](REVIEW.md) is the single place listing everything that needs human
 intervention (unverifiable scans, TODO markers, pending drafts, catalog anomalies,
-enumeration gaps). It is **generated** by `python3 src/review_queue.py` from ground
-truth in the repo — never edit it by hand; resolve items at their source and
-regenerate. Regenerate it after any batch that adds/changes content; CI fails when
-it is stale.
+enumeration gaps, unlinked documents). It is **generated** by `python3
+src/review_queue.py` from ground truth in the repo — never edit it by hand; resolve
+items at their source and regenerate. Regenerate it after any batch that adds/changes
+content; CI fails when it is stale.
+
+Every `rule`, `policy`, `procedure`, or `standard` is expected to come out of
+`link_graph.py` with at least one relationship edge (an authority citation, or —
+for procedures — a `_PR` naming match). If it doesn't, `review_queue.py` flags it
+under "Unlinked rules/policies/procedures/standards" — check the source's
+authority/reference text for wording the citation extractor doesn't recognize, or
+add a hand-authored relationship if the document really has no in-repo authority.
 
 ## Validation commands
 

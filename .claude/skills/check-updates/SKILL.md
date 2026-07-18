@@ -54,8 +54,10 @@ changes.
 4. **Validate and land**:
 
        python3 src/validate_frontmatter.py && python3 src/verify_provenance.py
-       python3 src/review_queue.py   # refresh REVIEW.md (CI checks it is current)
        python3 src/link_graph.py     # refresh relationship edges + _meta/graph.json
+       python3 src/review_queue.py   # refresh REVIEW.md (CI checks it is current;
+                                      # flags any rule/policy/procedure/standard left
+                                      # with zero relationship edges after linking)
 
    Then write a `Source-Updated` entry in the affected body's `CHANGELOG.md`
    (what changed, old→new hash prefixes, any TODO markers left for human review),
