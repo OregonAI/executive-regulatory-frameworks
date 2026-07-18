@@ -1,0 +1,11 @@
+group: executive-orders
+title: Governor's executive orders (2003-present)
+kind: sp-listing
+recheck: monthly
+listing_snapshot: _meta/snapshots/eo-listing.json
+upstream_signal: SharePoint list /gov/eo behind gov/pages/executive-orders.aspx (Public view). Orders are IMMUTABLE
+  once issued (project policy 2026-07-18) — the check only watches for ADDED rows (new orders); existing orders
+  are never re-fetched or re-hashed, which is why sources is empty. Never auto-ingest ADDED rows (intake gate 1)
+  — on approval run `python3 src/ingest_eo.py --enumerate` then `--ingest`.
+last_checked: '2026-07-18'
+sources: []

@@ -77,6 +77,9 @@ def authority_text(fm, body):
         # header region: everything before the first substantive heading
         m = re.search(r"\b(PURPOSE|POLICY STATEMENT|POLICY/)\b", t)
         parts.append(t[: m.start()] if m else t[:2500])
+    elif fm["doc_type"] == "executive_order":
+        # orders are short and cite their authority inline throughout
+        parts.append(t)
     return " ".join(parts)
 
 
@@ -142,7 +145,8 @@ def compute(write=False):
 
     # 1) citation-derived implements edges (rules/policies/procedures/manuals/standards)
     for did, d in docs.items():
-        if d["fm"]["doc_type"] in ("rule", "policy", "procedure", "manual", "standard"):
+        if d["fm"]["doc_type"] in ("rule", "policy", "procedure", "manual", "standard",
+                                   "executive_order"):
             targets = resolve_citations(
                 authority_text(d["fm"], d["body"]), docs, rule_map, div_map,
                 rules_by_div, did)

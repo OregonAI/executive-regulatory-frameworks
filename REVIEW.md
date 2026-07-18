@@ -4,7 +4,7 @@
 derived from ground truth in the repo (frontmatter, body markers, catalogs);
 resolve an item at its source and regenerate. CI fails if this file is stale.
 
-## Documents with NO machine verification — highest review priority (15)
+## Documents with NO machine verification — highest review priority (16)
 
 These carry `content_exception`: their sources are image-only scans or binary forms, so nothing diffs them against a snapshot. A human must check each against its `source_url`. Resolve by OCR + full-text migration, or confirm the summary and record review in the file.
 
@@ -23,6 +23,7 @@ These carry `content_exception`: their sources are image-only scans or binary fo
 - `agencies/das/policies/das-107-004-051.md` — Source PDF is an image-only scan with no extractable text layer; summary transcribed by visual reading. Full text requires OCR + human verification.
 - `agencies/das/policies/das-107-004-053.md` — Source PDF has no extractable text layer (image-only scan); full text requires OCR + human verification.
 - `agencies/das/policies/das-107-004-100.md` — Source PDF is an image-only scan with no extractable text layer; summary transcribed by visual reading. Full text requires OCR + human verification.
+- `executive-orders/ (506 documents)` — image-only scans or unusable OCR layers — metadata stubs only; resolvable only by an OCR + human-verification pass; per-order detail in `_meta/catalog/eo.yml` (`text_layer` field)
 
 ## Explicit TODO markers (0)
 
@@ -197,6 +198,18 @@ Corpus areas we know exist upstream but could not enumerate mechanically.
 
 _(none)_
 
+## Executive-order catalog anomalies (7)
+
+Oddities in the /gov/eo listing of record recorded by `src/ingest_eo.py` (duplicate rows with different file bytes, rows whose printed Year/Number metadata contradicts the filename, fetch failures). The repo trusts the filename (descriptions agree with it); spot-check each once against the official page.
+
+- `eo-06-13` — listing says 2007 No. 13; filename (trusted) says 2006 No. 13 — the description matches the filename
+- `eo-06-15` — listing says 2006 No. 14; filename (trusted) says 2006 No. 15 — the description matches the filename
+- `eo-07-10` — listing says 2007 No. 19; filename (trusted) says 2007 No. 10 — the description matches the filename
+- `eo-07-20` — listing says 2007 No. 29; filename (trusted) says 2007 No. 20 — the description matches the filename
+- `eo-20-50` — listing says 2020 No. 59; filename (trusted) says 2020 No. 50 — the description matches the filename
+- `eo-21-05` — two listing rows with different bytes (/gov/eo/eo-21-05.pdf vs /gov/eo/eo_21-05.pdf) — confirm which file is the order of record
+- `eo-21-20` — listing says 2021 No. 29; filename (trusted) says 2021 No. 20 — the description matches the filename
+
 ## Standing item: human verification stamps
 
 `verified_by`/`last_verified` across the corpus record *machine* verification at
@@ -209,6 +222,7 @@ the attestation the review gates call for. Corpus size by directory:
 - `agencies/das/procedures/`: 14 documents
 - `agencies/das/standards/`: 3 documents
 - `agencies/das/standards/eis-css-it-control-standards/`: 18 documents
+- `executive-orders/`: 526 documents
 - `external-references/`: 1 documents
 - `rules/105/001/`: 2 documents
 - `rules/105/020/`: 2 documents

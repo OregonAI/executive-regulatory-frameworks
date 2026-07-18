@@ -53,17 +53,39 @@ def main():
         snap_id = fm.get("snapshot_id") or doc_id
         fmt = fm.get("source_format", "html")
         raw = SNAPSHOT_DIR / f"{snap_id}.{fmt}"
-        if not raw.is_file():
-            r.error(rel, f"missing source snapshot {raw.relative_to(REPO_ROOT)}")
-            continue
-        digest = hash_snapshot(snap_id, fmt)
-        if digest != fm.get("source_sha256"):
-            r.error(rel, f"source_sha256 mismatch: frontmatter {fm.get('source_sha256')} != snapshot {digest}")
         txt = SNAPSHOT_DIR / f"{snap_id}.txt"
-        source_text = normalize_ws(
-            txt.read_text(encoding="utf-8") if txt.is_file()
-            else raw.read_text(encoding="utf-8", errors="replace")
-        )
+        hash_only = fm.get("snapshot_policy") == "hash-only"
+        if hash_only:
+            # Raw source deliberately not committed (e.g. executive orders: ~700 MB of
+            # image scans). If a .txt extraction is committed, the recorded hash is the
+            # normalized-text sha256 and full-text checks run against it as usual; with
+            # no .txt (image-only scans) the recorded raw-byte hash of the uncommitted
+            # PDF cannot be re-verified here — those docs carry content_exception and
+            # are already surfaced in REVIEW.md.
+            if txt.is_file():
+                import hashlib
+                digest = hashlib.sha256(
+                    normalize_ws(txt.read_text(encoding="utf-8", errors="replace"))
+                    .encode("utf-8")).hexdigest()
+                if digest != fm.get("source_sha256"):
+                    r.error(rel, f"source_sha256 mismatch: frontmatter {fm.get('source_sha256')} != committed .txt {digest}")
+                source_text = normalize_ws(txt.read_text(encoding="utf-8", errors="replace"))
+            elif fm.get("content_mode") == "verbatim":
+                r.error(rel, "snapshot_policy: hash-only verbatim doc has no committed .txt to verify against")
+                continue
+            else:
+                source_text = ""
+        else:
+            if not raw.is_file():
+                r.error(rel, f"missing source snapshot {raw.relative_to(REPO_ROOT)}")
+                continue
+            digest = hash_snapshot(snap_id, fmt)
+            if digest != fm.get("source_sha256"):
+                r.error(rel, f"source_sha256 mismatch: frontmatter {fm.get('source_sha256')} != snapshot {digest}")
+            source_text = normalize_ws(
+                txt.read_text(encoding="utf-8") if txt.is_file()
+                else raw.read_text(encoding="utf-8", errors="replace")
+            )
         checked += 1
 
         mode = fm.get("content_mode")

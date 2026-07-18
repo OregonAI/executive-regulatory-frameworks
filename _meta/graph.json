@@ -926,6 +926,3162 @@
    "path": "agencies/das/standards/eis-css-secplan.md"
   },
   {
+   "id": "eo-03-01",
+   "title": "Regulatory Streamlining EO 03-01",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-03-01.md"
+  },
+  {
+   "id": "eo-03-02",
+   "title": "Industrial Lands EO 03-02",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-03-02.md"
+  },
+  {
+   "id": "eo-03-03",
+   "title": "Sustainable Oregon EO 03-03",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-03-03.md"
+  },
+  {
+   "id": "eo-03-03-letter",
+   "title": "Sustainable Oregon EO 03-03 Letter to Secretary of State",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-03-03-letter.md"
+  },
+  {
+   "id": "eo-03-04",
+   "title": "Rescission of Executive Orders Declaring Drought Emergencies",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-03-04.md"
+  },
+  {
+   "id": "eo-03-05",
+   "title": "State of Drought Emergency in Baker, Malheur, Wheeler, Crook and Harney Counties",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-03-05.md"
+  },
+  {
+   "id": "eo-03-06",
+   "title": "Oregon Commemorative Coin Commission",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-03-06.md"
+  },
+  {
+   "id": "eo-03-08",
+   "title": "Governor´s Advisory Committee on Motorcycle Safety",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-03-08.md"
+  },
+  {
+   "id": "eo-03-09",
+   "title": "State of Drought Emergency in Sherman County and Wallowa County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-03-09.md"
+  },
+  {
+   "id": "eo-03-10",
+   "title": "State of Emergency Due to the Imminent Threat of Wildfire",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-03-10.md"
+  },
+  {
+   "id": "eo-03-12",
+   "title": "State of Drought Emergency in Union County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-03-12.md"
+  },
+  {
+   "id": "eo-03-13",
+   "title": "Conflagration Act - Herman Creek",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-03-13.md"
+  },
+  {
+   "id": "eo-03-14",
+   "title": "Conflagration Act B & B Complex Fire",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-03-14.md"
+  },
+  {
+   "id": "eo-03-15",
+   "title": "Mental Health Task Force",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-03-15.md"
+  },
+  {
+   "id": "eo-03-16",
+   "title": "Workforce Development",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-03-16.md"
+  },
+  {
+   "id": "eo-04-01",
+   "title": "State of Drought Emergency in Klamath County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-04-01.md"
+  },
+  {
+   "id": "eo-04-02",
+   "title": "Juvenile Correction Population Forecasting Committee",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-04-02.md"
+  },
+  {
+   "id": "eo-04-03",
+   "title": "State of Drought Emergency in Malheur and Morrow Counties",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-04-03.md"
+  },
+  {
+   "id": "eo-04-04",
+   "title": "Office of Rural Policy and Rural Policy Advisory Committee",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-04-04.md"
+  },
+  {
+   "id": "eo-04-05",
+   "title": "Office of Homeland Security",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-04-05.md"
+  },
+  {
+   "id": "eo-05-01",
+   "title": "Affirmative Action",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-05-01.md"
+  },
+  {
+   "id": "eo-05-02",
+   "title": "Baker Klamath Drought",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-05-02.md"
+  },
+  {
+   "id": "eo-05-03",
+   "title": "Authorization for DOE to Access LEDS",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-05-03.md"
+  },
+  {
+   "id": "eo-05-04",
+   "title": "Water Reuse",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-05-04.md"
+  },
+  {
+   "id": "eo-05-05",
+   "title": "Drought April 7, 2005",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-05-05.md"
+  },
+  {
+   "id": "eo-05-06",
+   "title": "Drought May 2005",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-05-06.md"
+  },
+  {
+   "id": "eo-05-07",
+   "title": "Authorization for the Oregon State Fair and Exposition Center to Law Enforcement Data System",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-05-07.md"
+  },
+  {
+   "id": "eo-05-08",
+   "title": "Deer Creek Fire",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-05-08.md"
+  },
+  {
+   "id": "eo-05-09",
+   "title": "Hurricane Katrina",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-05-09.md"
+  },
+  {
+   "id": "eo-05-10",
+   "title": "Child Care Providers",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-05-10.md"
+  },
+  {
+   "id": "eo-06-01",
+   "title": "Emergency Declaration",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-06-01.md"
+  },
+  {
+   "id": "eo-06-02",
+   "title": "Sustainability for the 21st Century",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-06-02.md"
+  },
+  {
+   "id": "eo-06-03",
+   "title": "Governor's Taskforce on Equality",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-06-03.md"
+  },
+  {
+   "id": "eo-06-04",
+   "title": "Representation of Subsidized, License-Exempt Family Child Care Providers",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-06-04.md"
+  },
+  {
+   "id": "eo-06-05",
+   "title": "State Interagency Council to End Homelessness and Interagency Council on Hunger and Homelessness",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-06-05.md"
+  },
+  {
+   "id": "eo-06-06",
+   "title": "Determination of a State Emergency in Tillamook, Lincoln, Coos and Curry Counties and Coastal Portions of Lane and Douglas Counties Due to Klamath River Basin Conditions and limitations on Ocean Commercial and Sport Salmon Fishing",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-06-06.md"
+  },
+  {
+   "id": "eo-06-07",
+   "title": "Amendment to Executive Order 06-06",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-06-07.md"
+  },
+  {
+   "id": "eo-06-08",
+   "title": "Authorization for Access to Law Enforcement Data System",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-06-08.md"
+  },
+  {
+   "id": "eo-06-09",
+   "title": "State Employment Opportunities for Ocean Fishing Industry Workers",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-06-09.md"
+  },
+  {
+   "id": "eo-06-10",
+   "title": "State of Emergency due to imminent threat of wildfire",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-06-10.md"
+  },
+  {
+   "id": "eo-06-11",
+   "title": "Invocation of Emergency Conflagration Act for McClean Creek Fire in Baker County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-06-11.md"
+  },
+  {
+   "id": "eo-06-12",
+   "title": "Invocation of Emergency Conflagration Act for McClean Creek Fire in Deschutes County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-06-12.md"
+  },
+  {
+   "id": "eo-06-13",
+   "title": "Governor's Task Force on Methamphetamine",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-06-13.md"
+  },
+  {
+   "id": "eo-06-14",
+   "title": "Transportation and Tourism Task Force",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-06-14.md"
+  },
+  {
+   "id": "eo-06-15",
+   "title": "Determination of a State of Emergency in Tillamook County due to Heavy Rain and Flooding",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-06-15.md"
+  },
+  {
+   "id": "eo-06-16",
+   "title": "Determination of a State of Emergency in Clatsop, Clackamas, Columbia, Hood River, Multnomah, Lincoln, Tillamook, Lane and Washington Counties due to Heavy Rain and Flooding",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-06-16.md"
+  },
+  {
+   "id": "eo-07-01",
+   "title": "Search and Rescue Task Force",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-07-01.md"
+  },
+  {
+   "id": "eo-07-02",
+   "title": "Office of Rural Policy",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-07-02.md"
+  },
+  {
+   "id": "eo-07-03",
+   "title": "Collective Bargaining with Family Child Care Providers",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-07-03.md"
+  },
+  {
+   "id": "eo-07-04",
+   "title": "Children's Wraparound",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-07-04.md"
+  },
+  {
+   "id": "eo-07-05",
+   "title": "Governor's Re-Entry Council",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-07-05.md"
+  },
+  {
+   "id": "eo-07-06",
+   "title": "Amends EO 99-09 Regarding Governor's Advisory Committee on Motorcycle Safety",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-07-06.md"
+  },
+  {
+   "id": "eo-07-07",
+   "title": "Collective Bargaining with Adult Foster Home Providers",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-07-07.md"
+  },
+  {
+   "id": "eo-07-08",
+   "title": "Conflagration Act - Harney County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-07-08.md"
+  },
+  {
+   "id": "eo-07-09",
+   "title": "Declaring an Emergency-Fire Danger",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-07-09.md"
+  },
+  {
+   "id": "eo-07-10",
+   "title": "Determination of a State of Drought Emergency in Baker, Harney and Union Counties Due to Drought and Low Water Conditions",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-07-10.md"
+  },
+  {
+   "id": "eo-07-11",
+   "title": "Determination of a State of Drought Emergency in Malheur County Due to Drought and Low Water Conditions",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-07-11.md"
+  },
+  {
+   "id": "eo-07-12",
+   "title": "Governor's Process for Calculating the Essential Budget Level for the Community College Support Fund",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-07-12.md"
+  },
+  {
+   "id": "eo-07-13",
+   "title": "Post-Secondary Quality Education Commission",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-07-13.md"
+  },
+  {
+   "id": "eo-07-14",
+   "title": "Conflagration Act - Deschutes County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-07-14.md"
+  },
+  {
+   "id": "eo-07-15",
+   "title": "Authorization for Access to Law Enforcement Data System",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-07-15.md"
+  },
+  {
+   "id": "eo-07-16",
+   "title": "Determination of a State of Drought Emergency in Lake County Due to Drought and Low Water Conditions",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-07-16.md"
+  },
+  {
+   "id": "eo-07-17",
+   "title": "Domestic Violence in the Workplace",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-07-17.md"
+  },
+  {
+   "id": "eo-07-18",
+   "title": "Determination of a State of Drought Emergency in Grant County Due to Drought and Low Water Conditions",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-07-18.md"
+  },
+  {
+   "id": "eo-07-19",
+   "title": "Authorization for Access to Law Enforcement Data System",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-07-19.md"
+  },
+  {
+   "id": "eo-07-20",
+   "title": "Collective Bargaining with Relative Adult Foster Home Providers",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-07-20.md"
+  },
+  {
+   "id": "eo-07-21-a",
+   "title": "Governor's Task Force on Federal Forest Payments and County Services",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-07-21-a.md"
+  },
+  {
+   "id": "eo-07-22",
+   "title": "Standards for Issuance of Oregon Driver Licenses and Identification CardsExecutive Order 07-21: Governor's Task Force on Federal Forest Payments and County Services",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-07-22.md"
+  },
+  {
+   "id": "eo-07-23",
+   "title": "Search and Rescue Policy Commission",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-07-23.md"
+  },
+  {
+   "id": "eo-07-24",
+   "title": "Determination of State of Emergency in Oregon Due to a Severe Winter Storm that Includes High Winds, Flooding, and Landslides",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-07-24.md"
+  },
+  {
+   "id": "eo-07-25",
+   "title": "Declaration of Abnormal Disruption of the Market in Clatsop, Columbia and Tillamook Counties Due to Severe Winter Storm, Winds and Flooding",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-07-25.md"
+  },
+  {
+   "id": "eo-07-26-a",
+   "title": "Amendment to Executive Order 07-21",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-07-26-a.md"
+  },
+  {
+   "id": "eo-07-27",
+   "title": "Regulatory Extensions and Waivers for those Affected by the State of Emergency, Storm and Flood",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-07-27.md"
+  },
+  {
+   "id": "eo-08-01",
+   "title": "Determination of State of Emergency in Umatilla County Due to Severe Winter Storm and High Winds",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-08-01.md"
+  },
+  {
+   "id": "eo-08-02",
+   "title": "Determination of State of Emergency in Union County Due to Severe Winter Storm and High Winds",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-08-02.md"
+  },
+  {
+   "id": "eo-08-03",
+   "title": "Oregon Small Business Advisory Council",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-08-03.md"
+  },
+  {
+   "id": "eo-08-04",
+   "title": "Determination of State of Emergency in Lake and Marion Counties Due to Severe Winter Storm",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-08-04.md"
+  },
+  {
+   "id": "eo-08-05",
+   "title": "Governor's Task Force on Campus Safety in Oregon",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-08-05.md"
+  },
+  {
+   "id": "eo-08-06",
+   "title": "Amendment to Executive Order No. 08-04",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-08-06.md"
+  },
+  {
+   "id": "eo-08-07",
+   "title": "Directing State Agencies to Protect Coastal Communities in Siting Marine Reserves and Wave Energy Projects",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-08-07.md"
+  },
+  {
+   "id": "eo-08-08",
+   "title": "Governor's Task Force on Veterans Services",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-08-08.md"
+  },
+  {
+   "id": "eo-08-09",
+   "title": "Governor's Health Information Infrastructure Advisory Committee",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-08-09.md"
+  },
+  {
+   "id": "eo-08-10",
+   "title": "Determination of a State of Emergency in Tillamook, Lincoln, Coos, Clatsop and Curry Counties and Coastal Portions of Lane and Douglas Counties Due to Limitations of Ocean Commercial and Sport Salmon Fishing",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-08-10.md"
+  },
+  {
+   "id": "eo-08-11",
+   "title": "Restructuring Oregon Economic and Community Development Department",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-08-11.md"
+  },
+  {
+   "id": "eo-08-12",
+   "title": "Designating the Mark O. Hatfield Chair of the Oregon Health & Science University Board of Directors",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-08-12.md"
+  },
+  {
+   "id": "eo-08-13",
+   "title": "Amendment to Executive Order 08-03 on Oregon Small Business Advisory Council",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-08-13.md"
+  },
+  {
+   "id": "eo-08-14",
+   "title": "Amendment to Executive Order 08-05 Establishing Governor's Task Force on Campus Safety in Oregon",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-08-14.md"
+  },
+  {
+   "id": "eo-08-15",
+   "title": "Amendment to Executive Order 04-02 Establishing the Juvenile Correction Population Forecasting Advisory Committee",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-08-15.md"
+  },
+  {
+   "id": "eo-08-16",
+   "title": "Promoting Diversity and Equal Opportunity for Minority and Women owned Businesses",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-08-16.md"
+  },
+  {
+   "id": "eo-08-16-letter",
+   "title": "Promoting Diversity and Equal Opportunity for Minority and Women owned Businesses (letter)",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-08-16-letter.md"
+  },
+  {
+   "id": "eo-08-17",
+   "title": "Authorization for Department of Education Access to Law Enforcement Data System",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-08-17.md"
+  },
+  {
+   "id": "eo-08-18",
+   "title": "Amending Executive Order 05-01 Relating to Affirmative Action",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-08-18.md"
+  },
+  {
+   "id": "eo-08-19",
+   "title": "Invocation of Emergency Conflagration Act for Scappoose Rural Fire Protection District in Columbia County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-08-19.md"
+  },
+  {
+   "id": "eo-08-20",
+   "title": "Governor's Emergency Recovery Framework",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-08-20.md"
+  },
+  {
+   "id": "eo-08-21",
+   "title": "Invocation of Emergency Conflagration Act for the Royce Butte fire in Klamath County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-08-21.md"
+  },
+  {
+   "id": "eo-08-22",
+   "title": "Determination of a State of Drought Emergency in Sherman County Due to Drought and Low Water Conditions",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-08-22.md"
+  },
+  {
+   "id": "eo-08-23",
+   "title": "Determination of a State of Drought Emergency in Gilliam County Due to Drought and Extreme Weather Conditions",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-08-23.md"
+  },
+  {
+   "id": "eo-08-24",
+   "title": "Oregon's Alternative Fuel Infrastructure",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-08-24.md"
+  },
+  {
+   "id": "eo-08-25",
+   "title": "Amendment to Executive Order 06-14 Establishing Transportation and Tourism Task Force",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-08-25.md"
+  },
+  {
+   "id": "eo-08-26-rev",
+   "title": "Oregon Energy Planning Council",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-08-26-rev.md"
+  },
+  {
+   "id": "eo-08-27",
+   "title": "Determination of a State of Emergency in Multnomah and Columbia Counties Due to Severe Winter Weather",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-08-27.md"
+  },
+  {
+   "id": "eo-08-28",
+   "title": "Determination of a State of Emergency in Clackamas County Due to Severe Winter Weather",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-08-28.md"
+  },
+  {
+   "id": "eo-08-29",
+   "title": "Amendment to Determination of a State Emergency in All Areas Where Milk Delivery is Affected by Severe Winter Weather",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-08-29.md"
+  },
+  {
+   "id": "eo-09-01",
+   "title": "Determination of a State of Emergency in Clackamas County Due to Severe Winter Weather, Including Heavy Rain, Snow Melt, and Flooding",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-09-01.md"
+  },
+  {
+   "id": "eo-09-02-rev",
+   "title": "Task Force on Disproportionality in Child Welfare",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-09-02-rev.md"
+  },
+  {
+   "id": "eo-09-03",
+   "title": "Connecting Oregon's Veterans with Services and Benefits",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-09-03.md"
+  },
+  {
+   "id": "eo-09-04",
+   "title": "Determination of State of Emergency in Columbia, Clackamas, Tillamook, Clatsop, Lincoln, Yamhill, Polk, Benton, Marion and Wasco Counties Due to Severe Winter Weather Including Flooding, Landslides and Wind",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-09-04.md"
+  },
+  {
+   "id": "eo-09-05",
+   "title": "Amending Executive Order 0902",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-09-05.md"
+  },
+  {
+   "id": "eo-09-06-r",
+   "title": "Using Oregon's Green Advantage to Maximize the Federal Economic Recovery Package",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-09-06-r.md"
+  },
+  {
+   "id": "eo-09-07-r",
+   "title": "Establishing Oregon Commission on Autism Spectrum Disorder",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-09-07-r.md"
+  },
+  {
+   "id": "eo-09-08",
+   "title": "Determination of a State of Emergency in Tillamook, Lincoln, Coos, Clatsop and Curry Counties and Coastal Portions of Lane and Douglas Counties Due to Limitations on Ocean Commercial and Sport Salmon Fishing",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-09-08.md"
+  },
+  {
+   "id": "eo-09-09",
+   "title": "Amending Executive Order 09-03 Regarding Connecting Oregon's Veterans with Services and Benefits",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-09-09.md"
+  },
+  {
+   "id": "eo-09-10",
+   "title": "Amending Executive Order 03-01 Regarding Regulatory Streamlining",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-09-10.md"
+  },
+  {
+   "id": "eo-09-11-rev",
+   "title": "Oregon Health Authority Planning and Implementation",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-09-11-rev.md"
+  },
+  {
+   "id": "eo-09-12",
+   "title": "Invocation of Emergency Conflagration Act for the Microwave Fire in Hood River and Wasco Counties",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-09-12.md"
+  },
+  {
+   "id": "eo-09-13",
+   "title": "Governor's Reset Cabinet",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-09-13.md"
+  },
+  {
+   "id": "eo-09-14",
+   "title": "Invocation of Emergency Conflagration Act for the Siskiyou Fire in Jackson County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-09-14.md"
+  },
+  {
+   "id": "eo-09-15",
+   "title": "Invocation of Emergency Conflagration Act for the Deer Ridge Fire in Jackson County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-09-15.md"
+  },
+  {
+   "id": "eo-09-16-rev",
+   "title": "Implementing the State Response to Pandemic H1N1 Influenza",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-09-16-rev.md"
+  },
+  {
+   "id": "eo-09-17",
+   "title": "Granting State Public Health Director Additional Authority to Respond to Pandemic H1N1 Influenza",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-09-17.md"
+  },
+  {
+   "id": "eo-10-01",
+   "title": "Preserving and Enhancing Oregon's Historic Downtowns",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-10-01.md"
+  },
+  {
+   "id": "eo-10-02",
+   "title": "Amending Executive Order 07-23 Establishing Search and Rescue Policy Commission",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-10-02.md"
+  },
+  {
+   "id": "eo-10-03",
+   "title": "Determination of a State of Drought Emergency in Klamath County and Contiguous Counties due to Drought and Extreme Weather Conditions",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-10-03.md"
+  },
+  {
+   "id": "eo-10-04",
+   "title": "Amending Executive Order 07-23 Establishing Search and Rescue Policy Commission",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-10-04.md"
+  },
+  {
+   "id": "eo-10-05",
+   "title": "Authorization for Oregon Liquor Control Commission Access to Law Enforcement Data System",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-10-05.md"
+  },
+  {
+   "id": "eo-10-06",
+   "title": "Establishment of the Early Childhood Matters Advisory Council",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-10-06.md"
+  },
+  {
+   "id": "eo-10-07",
+   "title": "Rebuilding Vernonia's Schools and the Surrounding Community in the Wake of the December 2007 Storm",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-10-07.md"
+  },
+  {
+   "id": "eo-10-08",
+   "title": "Invocation of Emergency Conflagration Act for the D. Harris Fire in Wasco County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-10-08.md"
+  },
+  {
+   "id": "eo-10-09",
+   "title": "Transportation Electrification Executive Council",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-10-09.md"
+  },
+  {
+   "id": "eo-10-10",
+   "title": "Implementing the Klamath Basin Restoration Agreement and Klamath Hydroelectric Settlement Agreement",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-10-10.md"
+  },
+  {
+   "id": "eo-10-11",
+   "title": "Governor's Executive Order on Long-Range Capital Planning",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-10-11.md"
+  },
+  {
+   "id": "eo-10-12",
+   "title": "Goveror's Commission on Public Safety (CPS)",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-10-12.md"
+  },
+  {
+   "id": "eo-10-13",
+   "title": "Recovery Planning Assistance for the City of Aumsville and Marion County due to a Tornado",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-10-13.md"
+  },
+  {
+   "id": "eo-11-01",
+   "title": "Determination of a state of emergency in Clackamas, Clatsop, Columbia, Crook, Douglas, Grant, Harney, Lane, Lincoln, Linn, Malheur, Marion, Multnomah, Tillamook, Umatilla, Union, Washington, and Yamhill counties due to extreme weather conditions damaging transportation infrastructure.",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-11-01.md"
+  },
+  {
+   "id": "eo-11-02",
+   "title": "Oregon Education Investment Team",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-11-02.md"
+  },
+  {
+   "id": "eo-11-03",
+   "title": "Authorization for Oregon Business Development Department dba Business Oregon Access to Law Enforcement Data System",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-11-03.md"
+  },
+  {
+   "id": "eo-11-04",
+   "title": "Determination of a state of emergency in Curry County due to tsunami wave damage",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-11-04.md"
+  },
+  {
+   "id": "eo-11-05",
+   "title": "Continuing Oregon Commission on Autism Spectrum Disorder",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-11-05.md"
+  },
+  {
+   "id": "eo-11-06",
+   "title": "Governor's Commission on Public Safety (CPS)",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-11-06.md"
+  },
+  {
+   "id": "eo-11-07",
+   "title": "Invocation of Emergency Conflagration Act for the North River Road Fire in Jackson County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-11-07.md"
+  },
+  {
+   "id": "eo-11-08",
+   "title": "Invocation of Emergency Conflagration Act for the Elk fire in Jefferson County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-11-08.md"
+  },
+  {
+   "id": "eo-11-09",
+   "title": "Invocation of Emergency Conflagration Act for the High Cascades Complex fire in Jefferson County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-11-09.md"
+  },
+  {
+   "id": "eo-11-10",
+   "title": "Proclamation of State of Emergency due to Imminent Threat of Wildfire",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-11-10.md"
+  },
+  {
+   "id": "eo-11-11",
+   "title": "Proclamation of State of Emergency due to Imminent Threat of Wildfire",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-11-11.md"
+  },
+  {
+   "id": "eo-11-12",
+   "title": "Establishing the Oregon Solutions Network and Connecting the Work of the Regional Solutions Centers, Oregon Solutions and the Oregon Consensus Program",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-11-12.md"
+  },
+  {
+   "id": "eo-12-01",
+   "title": "Determination of a state of emergency in Benton, Coos, Lincoln and Marion Counties due to severe winter weather",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-12-01.md"
+  },
+  {
+   "id": "eo-12-02",
+   "title": "Amending Executive Order 12-01 and declaring a state of emergency in Clackamas, Clatsop, Columbia, Curry, Douglas, Harney, Hood River, Lane, Linn, Multnomah, Polk, Tillamook, Washington and Yamhill Counties",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-12-02.md"
+  },
+  {
+   "id": "eo-12-03",
+   "title": "Promoting diversity and inclusion opportunities for Oregon minority-owned, women-owned and emerging small businesses",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-12-03.md"
+  },
+  {
+   "id": "eo-12-04",
+   "title": "Amends Executive Order No. 99-09 Regarding Governor's Advisory Committee on Motorcycle Safety",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-12-04.md"
+  },
+  {
+   "id": "eo-12-05",
+   "title": "Fostering Environmentally-Friendly Purchasing and Product Design",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-12-05.md"
+  },
+  {
+   "id": "eo-12-06",
+   "title": "Determination of a state of emergency in Benton, Clackamas, Columbia, Coos, Curry, Douglas, Lane, Lincoln, Linn, Multnomah, Polk, Tillamook, and Yamhill counties due to damaging winds, heavy rains, flooding, mudslides, and landslides",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-12-06.md"
+  },
+  {
+   "id": "eo-12-07",
+   "title": "A Pilot Program for Regional Farm and Forest Land Conservation",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-12-07.md"
+  },
+  {
+   "id": "eo-12-08",
+   "title": "Reconvening the Governor's Commission on Public Safety",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-12-08.md"
+  },
+  {
+   "id": "eo-12-09",
+   "title": "Amends EO 10-06 Regarding Establishment of the Early Childhood Matters Advisory Council",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-12-09.md"
+  },
+  {
+   "id": "eo-12-10",
+   "title": "Establishing Domestic Violence Task Force",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-12-10.md"
+  },
+  {
+   "id": "eo-12-11",
+   "title": "Determination of a State of Emergency in Harney and Malheur Counties due to Extreme Fires",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-12-11.md"
+  },
+  {
+   "id": "eo-12-12",
+   "title": "Amending Executive Order 12-10 Establishing the Oregon Domestic Violence Prevention and Response Task Force",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-12-12.md"
+  },
+  {
+   "id": "eo-12-13",
+   "title": "Tobacco Free Properties",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-12-13.md"
+  },
+  {
+   "id": "eo-12-14",
+   "title": "Proclamation of State of Emergency Due to Imminent Threat of Wildfire",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-12-14.md"
+  },
+  {
+   "id": "eo-12-15",
+   "title": "Detrmination of a State of Drought Emergency in the Lost River Basin due to Drought and Low Water Conditions",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-12-15.md"
+  },
+  {
+   "id": "eo-12-16",
+   "title": "Promoting wood products in commerce as a green building material, encouraging innovative uses of wood products and increasing markets for Oregon wood products",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-12-16.md"
+  },
+  {
+   "id": "eo-12-17",
+   "title": "Infrastructure Planning and Investment",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-12-17.md"
+  },
+  {
+   "id": "eo-12-special-session",
+   "title": "Executive Order 12-special-session",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-12-special-session.md"
+  },
+  {
+   "id": "eo-13-01",
+   "title": "Oregon Small Business Advisory Council",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-13-01.md"
+  },
+  {
+   "id": "eo-13-02",
+   "title": "Establishing the Task Force on Traumatic Brain Injury",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-13-02.md"
+  },
+  {
+   "id": "eo-13-03",
+   "title": "Amendment to Executive Order 12-18",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-13-03.md"
+  },
+  {
+   "id": "eo-13-04",
+   "title": "Providing Employment Services to Individuals with Intellectual and Developmental Disabilities",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-13-04.md"
+  },
+  {
+   "id": "eo-13-05",
+   "title": "Determination of a State of Drought Emergency in Klamath County Due to Drought and Low Water Conditions",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-13-05.md"
+  },
+  {
+   "id": "eo-13-06",
+   "title": "Determination of a state of drought emergency in Baker, Gilliam, and Malheur counties due to drought and low water conditions",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-13-06.md"
+  },
+  {
+   "id": "eo-13-07",
+   "title": "Determination of a State of Emergency in Josephine County due to Extreme Fire",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-13-07.md"
+  },
+  {
+   "id": "eo-13-08",
+   "title": "Chartering Partnerships for Job Growth and Talent Development",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-13-08.md"
+  },
+  {
+   "id": "eo-13-09",
+   "title": "Determination of a State of Drought Emergency in Morrow County due to Drought and Low Water Conditions",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-13-09.md"
+  },
+  {
+   "id": "eo-13-10",
+   "title": "Proclamation of State of Emergency due to Imminent Threat of Wildfire",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-13-10.md"
+  },
+  {
+   "id": "eo-13-11",
+   "title": "Determination of a State of Emergency in Douglas and Josephine Counties due to Extreme Fire",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-13-11.md"
+  },
+  {
+   "id": "eo-13-12",
+   "title": "Determination of a State of Emergency in Grant County due to Extreme Fire",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-13-12.md"
+  },
+  {
+   "id": "eo-13-13",
+   "title": "Determination of a State of Emergency in Wasco and Hood River Counties due to Extreme Fire",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-13-13.md"
+  },
+  {
+   "id": "eo-13-14",
+   "title": "Oregon Council on Developmental Disabilities (Rescinds Executive Order No. 02-24)",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-13-14.md"
+  },
+  {
+   "id": "eo-14-01",
+   "title": "Determination of a State of Drought Emergency in Harney, Klamath, Lake, and Malheur Counties due to Drought and Low Water Conditions",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-14-01.md"
+  },
+  {
+   "id": "eo-14-02",
+   "title": "Determination of a state of Drought Emergency in Crook County due to Drought and Low Water Conditions",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-14-02.md"
+  },
+  {
+   "id": "eo-14-03",
+   "title": "Determination of a State of Emergency in Hood River County due to Severe Winter Weather including Landslides, Snow Fall, and Ice Accumulation",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-14-03.md"
+  },
+  {
+   "id": "eo-14-04",
+   "title": "Determination of a State of Drought Emergency in Jackson County due to Drought and Low Water Conditions",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-14-04.md"
+  },
+  {
+   "id": "eo-14-05",
+   "title": "Determination of a State of Drought Emergency in Grant, Josephine, and Wheeler Counties Due to Drought and Low Water Conditions",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-14-05.md"
+  },
+  {
+   "id": "eo-14-06",
+   "title": "Invocation of Emergency Conflagration Act for the Two Bulls Wildfire in Deschutes County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-14-06.md"
+  },
+  {
+   "id": "eo-14-07",
+   "title": "Proclamation of State of Emergency Due to Imminent Threat of Wildfire",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-14-07.md"
+  },
+  {
+   "id": "eo-14-08",
+   "title": "Invocation of Emergency Conflagration Act for the Beaver Complex Fire in Jackson County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-14-08.md"
+  },
+  {
+   "id": "eo-14-09",
+   "title": "Invocation of Emergency Conflagration Act for the Rowena Fire in Wasco County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-14-09.md"
+  },
+  {
+   "id": "eo-14-10",
+   "title": "Invocation of Emergency Conflagration Act for the Rogue River Drive Fire in Jackson County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-14-10.md"
+  },
+  {
+   "id": "eo-14-11",
+   "title": "Statuary Hall Study Commission",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-14-11.md"
+  },
+  {
+   "id": "eo-14-12",
+   "title": "Determination of a State of Drought Emergency in Baker County Due to Drought and Low Water Conditions",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-14-12.md"
+  },
+  {
+   "id": "eo-14-13",
+   "title": "Invocation of Emergency Conflagration Act for the 36 Pit Fire in Clackamas County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-14-13.md"
+  },
+  {
+   "id": "eo-14-14",
+   "title": "Governor's Process for Calculating the Forecasted Budget Level for K-12 School Funding",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-14-14.md"
+  },
+  {
+   "id": "eo-14-15",
+   "title": "Invocation of Emergency Conflagration Act for the Scoggins Creek Fire in Washington County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-14-15.md"
+  },
+  {
+   "id": "eo-14-16",
+   "title": "Juvenile Corrections Population Forecasting Advisory Committee",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-14-16.md"
+  },
+  {
+   "id": "eo-15-01",
+   "title": "Providing employment services to individuals with intellectual and developmental disabilities",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-15-01.md"
+  },
+  {
+   "id": "eo-15-02",
+   "title": "Determination of a state of drought emergency in Lake and Malheur Counties due to drought and low water conditions",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-15-02.md"
+  },
+  {
+   "id": "eo-15-03",
+   "title": "Determination of a state of drought emergency in Crook, Harney, and Klamath Counties due to drought, low snow pack levels, and low water conditions",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-15-03.md"
+  },
+  {
+   "id": "eo-15-04",
+   "title": "Determination of a state drought emergency in Baker and Wheeler counties due to drought, low snow pack levels, and water conditions.",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-15-04.md"
+  },
+  {
+   "id": "eo-15-05",
+   "title": "Determination of a state of drought emergency in Deschutes, Grant, Jackson, Josephine, Lane, Morrow, Umatilla, and Wasco counties due to drought, low snow pack levels, and low water conditions",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-15-05.md"
+  },
+  {
+   "id": "eo-15-06",
+   "title": "Determination of a state of drought emergency in Gilliam, Jefferson, Coos and Douglas counties due to drought, low snow levels, and low water conditions.",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-15-06.md"
+  },
+  {
+   "id": "eo-15-07",
+   "title": "Determination of a State of Drought Emergency in Sherman County Due to Drought and Low Water Conditions",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-15-07.md"
+  },
+  {
+   "id": "eo-15-08",
+   "title": "Determination of a state of drought emergency in Curry, Hood River and Union Counties due to drought, low snow pack levels, and low water conditions",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-15-08.md"
+  },
+  {
+   "id": "eo-15-09",
+   "title": "Directing state agencies to plan for resiliency to drought, to meet the challenge that a changing climate brings",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-15-09.md"
+  },
+  {
+   "id": "eo-15-10",
+   "title": "Determination of a state of emergency regarding delivery of aircraft fuel directed to use in firefighting activities",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-15-10.md"
+  },
+  {
+   "id": "eo-15-11",
+   "title": "Determination of a state of drought emergency in Linn County due to drought, low snow pack levels, and low water conditions",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-15-11.md"
+  },
+  {
+   "id": "eo-15-12",
+   "title": "Invocation of emergency conflagration act for the Stouts Creek fire in Douglas county",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-15-12.md"
+  },
+  {
+   "id": "eo-15-13",
+   "title": "Invocation of emergency conflagration act for the Cornet and Windy Ridge fires in Baker county",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-15-13.md"
+  },
+  {
+   "id": "eo-15-14",
+   "title": "Invocation of emergency conflagration act for the Canyon Creek Complex fire in Grant county",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-15-14.md"
+  },
+  {
+   "id": "eo-15-15",
+   "title": "Invocation of emergency conflagration act for the Grizzly Bear Complex fire in Wallowa county",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-15-15.md"
+  },
+  {
+   "id": "eo-15-16",
+   "title": "Proclamation of state of emergency due to imminent threat of wildfire",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-15-16.md"
+  },
+  {
+   "id": "eo-15-17",
+   "title": "Proclamation of State of Emergency Regarding Effects of Wildfire and Delegation of Authority to Suspend Administrative Rules that Prevent, Hinder or Delay Mitigation of the Effects of Wildfires",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-15-17.md"
+  },
+  {
+   "id": "eo-15-18",
+   "title": "Adopting the Oregon Sage-Grouse Action Plan and directing state agencies to implement the plan in full",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-15-18.md"
+  },
+  {
+   "id": "eo-15-19",
+   "title": "Determination of a State of Drought Emergency in Marion County Due to Drought, Low Snow Pack Levels, and Low Water Conditions",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-15-19.md"
+  },
+  {
+   "id": "eo-15-20",
+   "title": "Determination of State of Emergency in Baker and Grant Counties, due to Wildland Fires beginning August 10, 2015",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-15-20.md"
+  },
+  {
+   "id": "eo-15-21",
+   "title": "Invocation of Emergency Conflagration Act for the Dry Gulch Fire in Baker County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-15-21.md"
+  },
+  {
+   "id": "eo-15-22",
+   "title": "Determination of State of Emergency in Douglas County Due to Wildland Fires Beginning August 10, 2015",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-15-22.md"
+  },
+  {
+   "id": "eo-16-01",
+   "title": "Amends Executive Order 99-09 Relating to the Governor's Advisory Committee on Motorcycle Safety OR2015",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-16-01.md"
+  },
+  {
+   "id": "eo-16-02",
+   "title": "Determ. of St. of Emg. in Bent., Clack., Clats., Colum., Lane, Linc., Linn, Mar., Mult., Polk, Till., Wash., and Yam. Counties and Coos, Curry, Doug., Jack., Jose., and Klam. Counties due to a Severe Winter Storm with High Winds, Flooding, and Landslides",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-16-02.md"
+  },
+  {
+   "id": "eo-16-03",
+   "title": "Governor's Council on Educator Advancement",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-16-03.md"
+  },
+  {
+   "id": "eo-16-04",
+   "title": "Designating Segments of the Chetco River (Curry County) and Molalla River (Clackamas County) as State Scenic Waterways and Directing Scenic Waterway Studies to Use a Collaborative Process",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-16-04.md"
+  },
+  {
+   "id": "eo-16-05",
+   "title": "Oregon Small Business Advisory Cabinet",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-16-05.md"
+  },
+  {
+   "id": "eo-16-06",
+   "title": "Public Records",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-16-06.md"
+  },
+  {
+   "id": "eo-16-07",
+   "title": "Governor's Disaster Management Framework",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-16-07.md"
+  },
+  {
+   "id": "eo-16-08",
+   "title": "Governor's Council on Educator Advancement",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-16-08.md"
+  },
+  {
+   "id": "eo-16-09",
+   "title": "Relating to affirmative action and diversity & inclusion",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-16-09.md"
+  },
+  {
+   "id": "eo-16-10",
+   "title": "Invocation of Emergency Conflagration Act for the Wasco County Train Derailment in Wasco County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-16-10.md"
+  },
+  {
+   "id": "eo-16-11",
+   "title": "Invocation of Emergency Conflagration Act for the Akawana fire in Jefferson County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-16-11.md"
+  },
+  {
+   "id": "eo-16-12",
+   "title": "Enhancing Gun Safety in Oregon",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-16-12.md"
+  },
+  {
+   "id": "eo-16-13",
+   "title": "Unifying Cyber Security in Oregon",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-16-13.md"
+  },
+  {
+   "id": "eo-16-14",
+   "title": "Invocation of Emergency Conflagration Act for the Wassen Pond Fire in Wasco County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-16-14.md"
+  },
+  {
+   "id": "eo-16-15",
+   "title": "Revocation of Executive Order 12-17",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-16-15.md"
+  },
+  {
+   "id": "eo-17-01",
+   "title": "State Agency Employee Wellness",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-17-01.md"
+  },
+  {
+   "id": "eo-17-02",
+   "title": "Determination of State of Emergency in Oregon due to a Severe Winter Storm that includes Heavy Snow and Ice Accumulation, High Winds, Flooding, and Landslides.",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-17-02.md"
+  },
+  {
+   "id": "eo-17-03",
+   "title": "Proclamation of State of Emergency for Malheur County Regarding Effects of Severe Winter Storms and Delegation of Emergency Authority Pursuant to ORS 401.035(2) to Suspend State Adminiistrative Rules that Prevent, Hinder or Delay Mitigation of the Effects of these Winter STorms",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-17-03.md"
+  },
+  {
+   "id": "eo-17-04",
+   "title": "Renewing Oregon's Commitment to Protecting its Immigrant, Refugee, and Religious-Minority Residents",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-17-04.md"
+  },
+  {
+   "id": "eo-17-05",
+   "title": "Determination of State of Emergency in Coos, Curry, Douglas, Josephine, Multnomah, and Tillamook Counties Due to a Severe Winter Storm that Includes High Winds, Flooding, and Landslides",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-17-05.md"
+  },
+  {
+   "id": "eo-17-06",
+   "title": "Determination of State of Emergency in Clackamas, Clatsop, Columbia, Coos, Curry, Douglas, Gilliam, Grant, Harney, Hood River, Josephine, Lake, Lane, Marion, Multnomah, Tillamook, Wasco, and Washington Counties, Due to a Severe Winter Storm that Includes High Winds, Flooding, and Landslides",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-17-06.md"
+  },
+  {
+   "id": "eo-17-07",
+   "title": "Immediate Cost Saving Measures in Oregon's Executive Branch",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-17-07.md"
+  },
+  {
+   "id": "eo-17-08",
+   "title": "Strengthening Public Employee Bargaining and Training Practices",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-17-08.md"
+  },
+  {
+   "id": "eo-17-09",
+   "title": "Promoting Fiscal Responsibility by Recovering Monies Owed to the State",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-17-09.md"
+  },
+  {
+   "id": "eo-17-10",
+   "title": "Amending Executive Order 17-09",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-17-10.md"
+  },
+  {
+   "id": "eo-17-11",
+   "title": "Relating to Affirmative Action, Equal Employment Opportunity, Diversity, Equity, and Inclusion",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-17-11.md"
+  },
+  {
+   "id": "eo-17-12",
+   "title": "Task Force on Oregon Tribal Cultural Items",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-17-12.md"
+  },
+  {
+   "id": "eo-17-13",
+   "title": "Directing State Agencies to Continue Planning and Response Activities for the Solar Eclipse, to Ensure a Safe and Memorable Experience for Visitors to and Residents of Oregon",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-17-13.md"
+  },
+  {
+   "id": "eo-17-14",
+   "title": "Determination of State of Emergency in Oregon to facilitate eclipse preparedness and readiness",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-17-14.md"
+  },
+  {
+   "id": "eo-17-15",
+   "title": "Proclamation of State of Emergency Due to Imminent Threat of Wildfire",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-17-15.md"
+  },
+  {
+   "id": "eo-17-16",
+   "title": "Invocation of Emergency Conflagration Act for the Flounce Fire in Jackson County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-17-16.md"
+  },
+  {
+   "id": "eo-17-17",
+   "title": "Invocation of Emergency Conflagration Act for the Milli fire in Deschutes County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-17-17.md"
+  },
+  {
+   "id": "eo-17-18",
+   "title": "Invocation of Emergency Conflagration Act for the Chetco Bar Fire in Curry County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-17-18.md"
+  },
+  {
+   "id": "eo-17-19",
+   "title": "Invocation of Emergency Conflagration Act for the Eagle Creek Fire in Hood River and Multnomah Counties",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-17-19.md"
+  },
+  {
+   "id": "eo-17-20",
+   "title": "Accelerating efficiency in Oregon's built environment to reduce greenhouse gas emissions and address climate change",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-17-20.md"
+  },
+  {
+   "id": "eo-17-21",
+   "title": "Accelerating zero emission vehicle adoption in Oregon to reduce greenhouse gas emissions and address climate change",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-17-21.md"
+  },
+  {
+   "id": "eo-17-22",
+   "title": "Amending Executive Order 17-06",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-17-22.md"
+  },
+  {
+   "id": "eo-18-01",
+   "title": "Building Oregon's commitment to addiction prevention, treatment, and recovery priorities, and setting deadlines for statutory requirements, and declaring a public health crisis",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-18-01.md"
+  },
+  {
+   "id": "eo-18-02",
+   "title": "Determination of a State of Drought Emergency in Klamath County Due to Low Snowpack, Precipitation, and Streamflow, and Warmer Than Normal Temperatures",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-18-02.md"
+  },
+  {
+   "id": "eo-18-03",
+   "title": "Promoting Diversity and Inclusion Opportunities for Oregon Minority-Owned, Women-Owned, Service-Disabled Veteran Owned, and Emerging Small Businesses",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-18-03.md"
+  },
+  {
+   "id": "eo-18-04",
+   "title": "Determination of a state of drought emergency in Grant County due to low snowpack, precipitation, and streamflow, and warming temperatures",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-18-04.md"
+  },
+  {
+   "id": "eo-18-05",
+   "title": "Public Records",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-18-05.md"
+  },
+  {
+   "id": "eo-18-06",
+   "title": "Determination of a State of Drought Emergency in Harney County Due to Low Snowpack, Precipitation, and Streamflow, and Warming Temperatures",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-18-06.md"
+  },
+  {
+   "id": "eo-18-07",
+   "title": "Determination of a State of Drought Emergency in Lake County due to Low Snowpack, Precipitation, and Streamflow, and Warming Temperatures",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-18-07.md"
+  },
+  {
+   "id": "eo-18-08",
+   "title": "Declaration of State of Emergency for Marion and Polk Counties due to hazardous algae blooms.",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-18-08.md"
+  },
+  {
+   "id": "eo-18-09",
+   "title": "Determination of a State of Drought Emergency in Baker County due to Low Snowpack, Precipitation, and Streamflow, and Warming Temperatures",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-18-09.md"
+  },
+  {
+   "id": "eo-18-10",
+   "title": "Determination of a State of Drought Emergency in Douglas County due to Low Snowpack, Precipitation, and Streamflow, and Warming Temperatures",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-18-10.md"
+  },
+  {
+   "id": "eo-18-11",
+   "title": "Invocation of Emergency Conflagration Act for the Graham Fire in Jefferson County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-18-11.md"
+  },
+  {
+   "id": "eo-18-12",
+   "title": "Determination of a State of Drought Emergency in Wheeler County Due to Low Streamflow and Hot, Dry Conditions",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-18-12.md"
+  },
+  {
+   "id": "eo-18-13",
+   "title": "Invocation of Emergency Conflagration Act for the Substation Fire in Sherman and Wasco Counties",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-18-13.md"
+  },
+  {
+   "id": "eo-18-14",
+   "title": "Proclamation of State of Emergency Due to Imminent Threat of Wildfire",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-18-14.md"
+  },
+  {
+   "id": "eo-18-15",
+   "title": "Invocation of Emergency Conflagration Act for the Garner Complex Fire in Jackson and Josephine Counties",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-18-15.md"
+  },
+  {
+   "id": "eo-18-16",
+   "title": "Oregon Historic Trails Advisory Council",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-18-16.md"
+  },
+  {
+   "id": "eo-18-17",
+   "title": "Invocation of Emergency Conflagration Act for the South Valley Fire in Wasco County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-18-17.md"
+  },
+  {
+   "id": "eo-18-18",
+   "title": "Amending Executive Order 18-15 and Extending the Garner Complex Fire Declaration",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-18-18.md"
+  },
+  {
+   "id": "eo-18-19",
+   "title": "Determination of a State of Drought Emergency in Lincoln County Due to Low Streamflow and Hot, Dry Conditions",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-18-19.md"
+  },
+  {
+   "id": "eo-18-20",
+   "title": "Determination of a State of Drought Emergency in Morrow County Due to Low Streamflow and Hot, Dry Conditions",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-18-20.md"
+  },
+  {
+   "id": "eo-18-21",
+   "title": "Invocation of Emergency Conflagration Act for the Memaloose 2 Fire in Wasco County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-18-21.md"
+  },
+  {
+   "id": "eo-18-22",
+   "title": "Invocation of Emergency Conflagration Act for the Stubblefield and Other Fires in Gilliam and Wheeler Counties",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-18-22.md"
+  },
+  {
+   "id": "eo-18-23",
+   "title": "Invocation of Emergency Conflagration Act for the Ramsey Canyon Fire in Jackson County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-18-23.md"
+  },
+  {
+   "id": "eo-18-24",
+   "title": "Invocation of Emergency Conflagration Act for the Hugo Fire in Josephine County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-18-24.md"
+  },
+  {
+   "id": "eo-18-25",
+   "title": "Determination of a state of drought emergency in Gilliam County due to low streamflow and hot, dry conditions",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-18-25.md"
+  },
+  {
+   "id": "eo-18-26",
+   "title": "Determination of a State of Drought Emergency in Malheur County due to a summer of low streamflow and hot, dry conditions",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-18-26.md"
+  },
+  {
+   "id": "eo-18-27",
+   "title": "Invocation of Emergency Conflagration Act for the Klondike West Fire in Curry County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-18-27.md"
+  },
+  {
+   "id": "eo-18-28",
+   "title": "Directing State Agencies to Protect Oregon's Coastal Economy by Preventing Activities Associated with Offshore Oil and Gas Drilling",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-18-28.md"
+  },
+  {
+   "id": "eo-18-29",
+   "title": "Amending Executive Order No. 16-07",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-18-29.md"
+  },
+  {
+   "id": "eo-18-30",
+   "title": "Continuing Oregon Commission on Autism Spectrum Disorder",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-18-30.md"
+  },
+  {
+   "id": "eo-18-31",
+   "title": "Establishing the Oregon Broadband Office",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-18-31.md"
+  },
+  {
+   "id": "eo-19-01",
+   "title": "Establishing the Governor's Council on Wildfire Response",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-19-01.md"
+  },
+  {
+   "id": "eo-19-02",
+   "title": "Determination of State of Emergency in Coos, Curry, Deschutes, Douglas, Jackson, Josephine, Klamath, Lane, Linn, and Marion Counties due to a Severe Winter Storm that includes Heavy Snow and Ice Accumulation, High Winds, Flooding, and Landslides,",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-19-02.md"
+  },
+  {
+   "id": "eo-19-03",
+   "title": "Establishing an Oversight Board to Address the Crisis in Oregon's Child Welfare System",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-19-03.md"
+  },
+  {
+   "id": "eo-19-04",
+   "title": "Determination of State of Emergency in Baker, Coos, Curry, Douglas, Grant, Harney, Lane, Linn, Malheur, Umatilla, Union, Wallowa, and Wheeler Counties Due to a Severe Winter Storm that Includes High Winds, Flooding, and Landslides",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-19-04.md"
+  },
+  {
+   "id": "eo-19-05",
+   "title": "Designating Segments of the Nehalem River (Clatsop and Tillamook Counties) as State Scenic Waterway and Directing Scenic Waterway Studies to Use a Collaborative Process",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-19-05.md"
+  },
+  {
+   "id": "eo-19-06",
+   "title": "Establishing the Behavioral Health Advisory Council",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-19-06.md"
+  },
+  {
+   "id": "eo-19-07",
+   "title": "Amending Executive Order No. 19-03",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-19-07.md"
+  },
+  {
+   "id": "eo-19-08",
+   "title": "Ensuring Equal Treatment Under Law to Oregon's LGBT+ Community",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-19-08.md"
+  },
+  {
+   "id": "eo-19-09",
+   "title": "Directing State Agencies to Take Immediate Action to Address the Vaping Public Health Crisis",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-19-09.md"
+  },
+  {
+   "id": "eo-20-01",
+   "title": "Determination of State of Emergency in Umatilla, Union and Wallowa Counties due to a Severe Storm that includes Heavy Rain, Snowmelt, Flooding and Landslides",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-01.md"
+  },
+  {
+   "id": "eo-20-02",
+   "title": "Determination of a State of Drought Emergency in Klamath County due to low snowpack, precipitation, streamflow, and warming temperatures",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-02.md"
+  },
+  {
+   "id": "eo-20-03",
+   "title": "Declaration of Emergency due to Corona Virus (COVID-19) outbreak in Oregon",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-03.md"
+  },
+  {
+   "id": "eo-20-04",
+   "title": "Directing State Agencies to Take Actions to Reduce and Regulate Greenhouse Gas Emissions",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-04.md"
+  },
+  {
+   "id": "eo-20-05",
+   "title": "Prohibiting Large Gatherings Due to Coronavirus (COVID-19) Outbreak in Oregon",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-05.md"
+  },
+  {
+   "id": "eo-20-06",
+   "title": "Declaration of Abnormal Disruption of the Market due to COVID-19",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-06.md"
+  },
+  {
+   "id": "eo-20-07",
+   "title": "Prohibiting On-Premises Consumption of Food or Drink and Gatherings of More Than 25 People",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-07.md"
+  },
+  {
+   "id": "eo-20-08",
+   "title": "School Closures and the Provision of School-based and Child Care Services in Response to Coronavirus (COVID-19) Outbreak",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-08.md"
+  },
+  {
+   "id": "eo-20-09",
+   "title": "Suspension of In-Person Instructional Activities at Higher Education Institutions in Response to Coronavirus (COVID-19) Outbreak",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-09.md"
+  },
+  {
+   "id": "eo-20-10",
+   "title": "Conserving Personal Protective Equipment and Hospital Beds, Protecting Health Care Workers, Postponing Non-urgent Health Care Procedures, and Restricting Visitation in Response to Coronavirus (COVID-19) Outbreaks",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-10.md"
+  },
+  {
+   "id": "eo-20-11",
+   "title": "Temporary Moratorium on Residential Evictions for Nonpayment, in Response to Coronavirus (COVID-19) Outbreak",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-11.md"
+  },
+  {
+   "id": "eo-20-12",
+   "title": "Stay Home, Save Lives: Ordering Oregonians to Stay at Home, Closing Specified Retail Businesses, Requiring Social Distancing Measures for Other Public and Private Facilities, and Imposing Requirements for Outdoor Areas and Licensed Childcare Facilities",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-12.md"
+  },
+  {
+   "id": "eo-20-13",
+   "title": "Temporary Moratorium on Certain Evictions and Terminations of Rental Agreements and Leases, in Response to Coronavirus (COVID-19) Outbreak",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-13.md"
+  },
+  {
+   "id": "eo-20-14",
+   "title": "Extending the Duration of Executive Order No. 20-07 (Prohibiting On-Premises Consumption of Food or Drink)",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-14.md"
+  },
+  {
+   "id": "eo-20-15",
+   "title": "Extending the Duration of Executive Order No. 20-06 (Declaration of Abnormal Disruption of the Market Due to COVID-19)",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-15.md"
+  },
+  {
+   "id": "eo-20-16",
+   "title": "Keep Government Working: Ordering Necessary Measures to Ensure Safe Public Meetings and Continued Operations by Local Governments During Coronavirus (COVID-19) Outbreak",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-16.md"
+  },
+  {
+   "id": "eo-20-17",
+   "title": "Extending Executive Order No. 20-09 (Suspension of In-Person Instructional Activities at Higher Education Institutions)",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-17.md"
+  },
+  {
+   "id": "eo-20-18",
+   "title": "Protecting Cares Act Recovery Rebate Payments from Garnishments, so those Funds can be Used for Essential Needs",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-18.md"
+  },
+  {
+   "id": "eo-20-19",
+   "title": "Extending Directives Regarding Closure of Licensed Childcare Facilities, in Response to Coronavirus (COVID-19) Outbreak",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-19.md"
+  },
+  {
+   "id": "eo-20-20",
+   "title": "Continued Suspension of In-Person K-12 Instructional Activities and the Provision of School-Based Services in Response to Coronavirus (COVID-19) Outbreak",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-20.md"
+  },
+  {
+   "id": "eo-20-21",
+   "title": "Determination of a State of Drought Emergency in Curry County due to Unusually Low Streamflow and Hot, Dry Conditions",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-21.md"
+  },
+  {
+   "id": "eo-20-22",
+   "title": "Allowing Measured Resumption of Non-Urgent Health Care Procedures using Personal Protective Equipment, and Continuing Restrictions on Visitation in Response to Coronavirus (COVID-19) Outbreaks",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-22.md"
+  },
+  {
+   "id": "eo-20-23",
+   "title": "Determination of a State of Drought Emergency in Jackson County Due to Unusually Low Streamflow and Hot Dry Conditions",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-23.md"
+  },
+  {
+   "id": "eo-20-24",
+   "title": "Extending the COVID-19 Declaration of Emergency (Executive Order No. 20-03) for an Additional 60 Days, through July 6, 2020",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-24.md"
+  },
+  {
+   "id": "eo-20-25",
+   "title": "A Safe and Strong Oregon: Maintaining Essential Health Directives in Response to COVID-19, and Implementing a Phased Approach for Reopening Oregon's Economy",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-25.md"
+  },
+  {
+   "id": "eo-20-26",
+   "title": "Determination of a State of Drought Emergency in Coos County Due to Unusually Low Streamflow and Hot, Dry Conditions",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-26.md"
+  },
+  {
+   "id": "eo-20-27",
+   "title": "A Safe and Strong Oregon (Phase II): Maintaining Essential Health Directives in Response to COVID-19, and Continuing to Implement a Phased Approach for Reopening Oregon's Economy",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-27.md"
+  },
+  {
+   "id": "eo-20-28",
+   "title": "Operation of Higher Education Institutions during Coronavirus Pandemic",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-28.md"
+  },
+  {
+   "id": "eo-20-29",
+   "title": "Ready Schools, Safe Learners: K-12 Instructional Activities and the Provision of School-based Services During 2020-2021 Academic Year in the Face of the Ongoing Coronavirus (COVID-19) Outbreak",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-29.md"
+  },
+  {
+   "id": "eo-20-30",
+   "title": "Second Extension of Executive Order 20-03 and COVID-19 State of Emergency; Rescinding Executive Order 20-13 and Executive Order 20-18",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-30.md"
+  },
+  {
+   "id": "eo-20-31",
+   "title": "Determination of a State of Drought Emergency in Douglas, Gilliam, Josephine, Crook, Deschutes, Jefferson and Wasco Counties due to Unusually Low Water Supplies and Hot, Dry Conditions",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-31.md"
+  },
+  {
+   "id": "eo-20-32",
+   "title": "Determination of a State of Drought Emergency in Morrow and Wheeler Counties Due to Unusually Low Water Supplies and Hot, Dry Conditions",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-32.md"
+  },
+  {
+   "id": "eo-20-33",
+   "title": "Determination of a State Drought Emergency in Lake County Due to Unusually Low Water Supplies and Hot, Dry Condiditions",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-33.md"
+  },
+  {
+   "id": "eo-20-34",
+   "title": "Invocation of Emergency Conflagration Act for the Mosier Creek Fire in Wasco County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-34.md"
+  },
+  {
+   "id": "eo-20-35",
+   "title": "Proclamation of State of Emergency Due to Imminent Threat of Wildfire",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-35.md"
+  },
+  {
+   "id": "eo-20-36",
+   "title": "Invocation of Emergency Conflagration Act for the White River Fire in Wasco County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-36.md"
+  },
+  {
+   "id": "eo-20-37",
+   "title": "Extending House Bill 4204's Mortgage Foreclosure Moratorium until December 31, 2020",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-37.md"
+  },
+  {
+   "id": "eo-20-38",
+   "title": "Third Extension of Executive Order 20-03 and COVID-19 State of Emergency; Rescinding Executive Order 20-16",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-38.md"
+  },
+  {
+   "id": "eo-20-39",
+   "title": "Invocation of Emergency Conflagration Act for the Beachie Creek and Lionshead Fires in Marion County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-39.md"
+  },
+  {
+   "id": "eo-20-40",
+   "title": "Invocation of Emergency Conflagration Act for the Holiday Farm Fire in Lane County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-40.md"
+  },
+  {
+   "id": "eo-20-41",
+   "title": "Invocation of Emergency Conflagration Act Statewide in Light of Extreme Fire Danger from Hot, Dry, Windy Conditions",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-41.md"
+  },
+  {
+   "id": "eo-20-42",
+   "title": "Declaration of Abnormal Disruption of the Market Due to Wildfires",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-42.md"
+  },
+  {
+   "id": "eo-20-43",
+   "title": "Invocation of Emergency Conflagration Act for the Powerline Fire in Washington County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-43.md"
+  },
+  {
+   "id": "eo-20-44",
+   "title": "Invocation of Emergency Conflagration Act for the Almeda Fire in Jackson County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-44.md"
+  },
+  {
+   "id": "eo-20-45",
+   "title": "Invocation of Emergency Conflagration Act for the Slater Fire in Josephine County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-45.md"
+  },
+  {
+   "id": "eo-20-46",
+   "title": "Determination of a State of Drought Emergency in Baker County Due to Unusually Low Water Supplies and Hot, Dry Conditions",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-46.md"
+  },
+  {
+   "id": "eo-20-47",
+   "title": "Invocation of Emergency Conflagration Act for the North Cascade Complex Fire in Clackamas County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-47.md"
+  },
+  {
+   "id": "eo-20-48",
+   "title": "Invocation of Emergency Conflagration Act for the Brattain Fire in Lake County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-48.md"
+  },
+  {
+   "id": "eo-20-49",
+   "title": "Invocation of Emergency Conflagration Act for the Archie Creek Fire in Douglas County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-49.md"
+  },
+  {
+   "id": "eo-20-50",
+   "title": "Invocation of Emergency Conflagration Act for the Riverside Fire in Clackamas County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-50.md"
+  },
+  {
+   "id": "eo-20-51",
+   "title": "Invocation of Emergency Conflagration Act for the South Obenchain Fire in Jackson County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-51.md"
+  },
+  {
+   "id": "eo-20-52",
+   "title": "Invocation of Emergency Conflagration Act for the Two Four Two Fire in Klamath County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-52.md"
+  },
+  {
+   "id": "eo-20-53",
+   "title": "Amending Executive Order 20-47, Regarding the North <br>Cascades Complex Fire",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-53.md"
+  },
+  {
+   "id": "eo-20-54",
+   "title": "Implementing Law Enforcement Plan to Keep the Peace, Protect Free Speech, and Prevent Violence in the City of Portland",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-54.md"
+  },
+  {
+   "id": "eo-20-55",
+   "title": "Rescinding Executive Order 20-54",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-55.md"
+  },
+  {
+   "id": "eo-20-56",
+   "title": "Temporary Moratorium on Residential Evictions for Nonpayment, in Response to COVID-19 and Wildfire Emergencies",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-56.md"
+  },
+  {
+   "id": "eo-20-57",
+   "title": "Extending the Duration of Executive Order No. 20-42 (Declaration of Abnornal Disruption of the Market Due to Wildfires)",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-57.md"
+  },
+  {
+   "id": "eo-20-58",
+   "title": "Enhanced Health and Safety Requirements for Certain Employer-Provided Housing During Agricultural Off Season in Response to Coronavirus (COVID-19) Oubreak",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-58.md"
+  },
+  {
+   "id": "eo-20-59",
+   "title": "Fourth Extension of Executive Order 20-03 and COVID-19 State of Emergency",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-59.md"
+  },
+  {
+   "id": "eo-20-60",
+   "title": "Proclamation of State of Emergency to Support Ongoing Recovery from Catastrophic Wildfires",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-60.md"
+  },
+  {
+   "id": "eo-20-61",
+   "title": "Implementing Law Enforcement Plan to Keep the Peace, Protect Free Speech, and Prevent Violence in the City of Portland",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-61.md"
+  },
+  {
+   "id": "eo-20-62",
+   "title": "Extending Executive Order 20-61",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-62.md"
+  },
+  {
+   "id": "eo-20-63",
+   "title": "Extending Executive Order 20-61",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-63.md"
+  },
+  {
+   "id": "eo-20-64",
+   "title": "Rescinding Executive Order 20-61",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-64.md"
+  },
+  {
+   "id": "eo-20-65",
+   "title": "Temporary Freeze to Address Surge in COVID-19 Cases in Oregon",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-65.md"
+  },
+  {
+   "id": "eo-20-66",
+   "title": "Risk and Safety Framework: County-By-County Metrics-Based Approach to Controlling COVID-19 Transmission to Conserve Hospital Capacity and Protect Human Health and Human Lives",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-66.md"
+  },
+  {
+   "id": "eo-20-67",
+   "title": "Fifth Extension of Executive Order 20-03 and COVID-19 State of Emergency",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-20-67.md"
+  },
+  {
+   "id": "eo-21-01",
+   "title": "Determination of State of Emergency in Clatsop, Curry, Hood River, Lincoln, Multnomah, and Tillamook Counties Due to a Severe Winter Storm that Included High Winds, Heavy Rain, Flooding, and Landslides",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-21-01.md"
+  },
+  {
+   "id": "eo-21-02",
+   "title": "Determination of State of Emergency in Benton, Clackamas, Hood River, Linn, Marion, Multnomah, Polk, Washington, and Yamhill Counties Due to a Severe Winter Storm that Inlcudes Heavy Snow and Ice Accumulations, High Winds, Flooding, and Landslides",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-21-02.md"
+  },
+  {
+   "id": "eo-21-03",
+   "title": "Declaration of Abnormal Disruption of the Market Due to Winter Storms",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-21-03.md"
+  },
+  {
+   "id": "eo-21-04",
+   "title": "Extending Executive Order 21-02 for Clackamas, Marion, Multnomah, Polk, and Yamhill Counties",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-21-04.md"
+  },
+  {
+   "id": "eo-21-05",
+   "title": "Sixth Extension of Executive Order 20-03 and COVID-19 State of Emergency",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-21-05.md"
+  },
+  {
+   "id": "eo-21-06",
+   "title": "Ordering Public Schools to Offer Fully On-Site or Hybrid In-Person Instruction, Requiring All Schools to Continue to Comply with Health and Safety Protocols to Control COVID-19",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-21-06.md"
+  },
+  {
+   "id": "eo-21-07",
+   "title": "Determination of a State of Drought Emergency in Klamath County Due to Unusually Low Snow Pack and Lack of Precipitation",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-21-07.md"
+  },
+  {
+   "id": "eo-21-08",
+   "title": "Determination of a State of Drought Emergency in Jackson County Due to Unusually Low Snow Pack, Lack of Precipitation, Low Streamflow, and Low Reservoir Levels",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-21-08.md"
+  },
+  {
+   "id": "eo-21-09",
+   "title": "DETERMINATION OF A STATE OF DROUGHT EMERGENCY IN LAKE COUNTY DUE TO LACK OF PRECIPITATION AND UNUSUALLY LOW SNOW PACK AND STREAMFLOW.",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-21-09.md"
+  },
+  {
+   "id": "eo-21-10",
+   "title": "SEVENTH EXTENSION OF EXECUTIVE ORDER 20-03 AND COVID-19 STATE OF EMERGENCY",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-21-10.md"
+  },
+  {
+   "id": "eo-21-11",
+   "title": "Determination of a State of Drought Emergency in Baker, Douglas, Gilliam, Morrow, and Wheeler Counties Due to Lack of Precipitation and Unusually Low Snow Pack and Streamflow.",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-21-11.md"
+  },
+  {
+   "id": "eo-21-12",
+   "title": "Determination of a State of Drought Emergency in Deschutes and Jefferson Counties Due to Lack of Precipitation and Unusually Low Snowpack and Streamflow.",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-21-12.md"
+  },
+  {
+   "id": "eo-21-13",
+   "title": "Determination of a State of Drought Emergency in Crook, Harney, Malheur, Sherman, and Wallowa Counties Due to Lack of Precipitation and Unusually Low Snowpack and Streamflow.",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-21-13.md"
+  },
+  {
+   "id": "eo-21-14",
+   "title": "Extending House Bill 2009's Mortgage Foreclosure Moratorium until September 30, 2021",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-21-14.md"
+  },
+  {
+   "id": "eo-21-15",
+   "title": "Rescinding all Remaining Covid-19 Restrictions; Continuing State Efforts to Support Ongoing Covid-19 Vaccination, Response, and Recovery Efforts",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-21-15.md"
+  },
+  {
+   "id": "eo-21-16",
+   "title": "Determination of a State of Drought Emergency in Grant, Umatilla, Union, and Wasco Counties Due to Lack of Precipitation, Unusually Low Snowpack and Streamflow",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-21-16.md"
+  },
+  {
+   "id": "eo-21-17",
+   "title": "PROCLAMATION OF STATE OF EMERGENCY DUE TO IMMINENT<br>THREAT OF WILDFIRE",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-21-17.md"
+  },
+  {
+   "id": "eo-21-18",
+   "title": "Invocation of Emergency Conflagration Act for the Wrentham Market Fire in Wasco County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-21-18.md"
+  },
+  {
+   "id": "eo-21-19",
+   "title": "Invocation of Emergency Conflagration Act for the Sunset Valley Fire in Wasco County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-21-19.md"
+  },
+  {
+   "id": "eo-21-20",
+   "title": "Directing State Agencies to Support Communities in Drought by Curtailing Nonessential Water Use, Implementing Water Conservation Measures, and Encouraging Drought Resiliency",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-21-20.md"
+  },
+  {
+   "id": "eo-21-21",
+   "title": "Invocation of Emergency Conflagration Act for the Jack Fire in Douglas County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-21-21.md"
+  },
+  {
+   "id": "eo-21-22",
+   "title": "Invocation of the Emergency Conflagration Act for the Bootleg Fire in Klamath County.",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-21-22.md"
+  },
+  {
+   "id": "eo-21-23",
+   "title": "Invocation of Emergency Conflagration Act for the Grandview Fire in Jefferson County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-21-23.md"
+  },
+  {
+   "id": "eo-21-24",
+   "title": "Invocation of Emergency Conflagration Act for the Elbow Creek Fire in Wallowa County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-21-24.md"
+  },
+  {
+   "id": "eo-21-25",
+   "title": "Determination of a State of Drought Emergency in Coos, Lane, and Lincoln Counties due to Lack of Precipitation, High Temperatures, and Low Streamflow",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-21-25.md"
+  },
+  {
+   "id": "eo-21-26",
+   "title": "Determination of State of Emergency in Benton, Columbia, Clackamas, Curry, Douglas, Gilliam, Grant, Hood River, Jackson, Josephine, Lane, Lincoln, Linn, Marion, Morrow, Multnomah, Polk, Sherman, Umatilla, Wasco, Washington, Wheeler, and Yamhill Counties Due to Excessive High Temperatures Causing a Threat to Life, Health, and Infrastructure",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-21-26.md"
+  },
+  {
+   "id": "eo-21-27",
+   "title": "Determination of State of Emergency in the State of Oregon Due to Excessive High Temperatures Causing a Threat to Life, Health, and Infrastructure",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-21-27.md"
+  },
+  {
+   "id": "eo-21-28",
+   "title": "Invocation of Emergency Conflagration Act for the Middle Fork Complex in Lane County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-21-28.md"
+  },
+  {
+   "id": "eo-21-29",
+   "title": "COVID-19 Vaccination Requirement for State Executive Branch",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-21-29.md"
+  },
+  {
+   "id": "eo-21-30",
+   "title": "Extending House Bill 2009's Mortgage Foreclosure Moratorium Until December 31, 2021",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-21-30.md"
+  },
+  {
+   "id": "eo-21-31",
+   "title": "Extending Emergency Regulatory Flexibility for Childare Licensing; Amending Executive Order 21-15.",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-21-31.md"
+  },
+  {
+   "id": "eo-21-32",
+   "title": "Invocation of Emergency Conflagration Act for the Cougar Peak Fire in Lake County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-21-32.md"
+  },
+  {
+   "id": "eo-21-33",
+   "title": "Determination of a State of Drought Emergency in Josephine, Linn, and Yamhill Counties Due to Lack of Precipitation, Low Snowpack, Low Reservoir Levels, and Low Streamflow.",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-21-33.md"
+  },
+  {
+   "id": "eo-21-34",
+   "title": "Invocation of Emergency Conflagration Act for the Patton Meadow Fire in Lake County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-21-34.md"
+  },
+  {
+   "id": "eo-21-35",
+   "title": "Determination of a State of Drought Emergency in Curry County Due to Lack of Precipitation and Above Average Temperatures and Low Streamflows",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-21-35.md"
+  },
+  {
+   "id": "eo-21-36",
+   "title": "Continuing State Efforts to Support Ongoing COVID-19 Vaccinataion, Response, and Recovery Efforts; Extending Executive Order 20-03; Rescinding Executive Order 21-15 and Executive Order 21-31",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-21-36.md"
+  },
+  {
+   "id": "eo-21-37",
+   "title": "Determination of State of Emergency in Oregon Due to Severe Winter Weather that Includes Snow Accumulation and Sustained Temperatures Below Freezing Across the State",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-21-37.md"
+  },
+  {
+   "id": "eo-22-01",
+   "title": "Determination of State of Emergency in Clackamas, Clatsop, Columbia, Curry, Douglas, Lane, Lincoln, Multnomah, Polk, and Yamhill Counties Due to a Severe Winter Storm that Includes High Winds, Heavy Rain, Flooding, and Landslides",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-22-01.md"
+  },
+  {
+   "id": "eo-22-02",
+   "title": "Determination of a State of Drought Emergency in Klamath County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-22-02.md"
+  },
+  {
+   "id": "eo-22-03",
+   "title": "Terminating COVID-19 State of Emergency; Rescinding Executive Order 20-03, Executive Order 21-29, and Executive Order 21-36",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-22-03.md"
+  },
+  {
+   "id": "eo-22-04",
+   "title": "Determination of a State of Drought Emergency in Crook, Jefferson and Morrow Counties",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-22-04.md"
+  },
+  {
+   "id": "eo-22-05",
+   "title": "Rescinding Executive Order 20-60",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-22-05.md"
+  },
+  {
+   "id": "eo-22-06",
+   "title": "Determination of a State of Drought Emergency in Gilliam, Harney, and Jackson Counties",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-22-06.md"
+  },
+  {
+   "id": "eo-22-07",
+   "title": "Determination of a State of Drought Emergency in Deschutes, Grant, Lake, and Malheur Counties",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-22-07.md"
+  },
+  {
+   "id": "eo-22-08",
+   "title": "Determination of a State of Drought Emergency in Baker, Douglas, Wallowa, and Wheeler Counties",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-22-08.md"
+  },
+  {
+   "id": "eo-22-09",
+   "title": "Determination of a State of Drought Emergency in Union and Wasco Counties",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-22-09.md"
+  },
+  {
+   "id": "eo-22-10",
+   "title": "Determination of State of Emergency in Multiple Counties Due to the Need for Statewide Coordination to Address Persistent Extreme Drought Conditions",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-22-10.md"
+  },
+  {
+   "id": "eo-22-11",
+   "title": "Relating to Affirmative Action, Equal Employment Opportunity, Diversity, Equity, and Inclusion",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-22-11.md"
+  },
+  {
+   "id": "eo-22-12",
+   "title": "Determination of State of Emergency in Crook, Jefferson, Umatilla, Union, Wallowa, and Wheeler Counties Due to a Severe Storm that Includes High Winds, Heavy Rain, Flooding, and Landslides",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-22-12.md"
+  },
+  {
+   "id": "eo-22-13",
+   "title": "Determination of State of Emergency in 25 Oregon Counties Due to Excessive High Temperatures Causing a Threat to Life, Health, and Infrastructure",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-22-13.md"
+  },
+  {
+   "id": "eo-22-14",
+   "title": "Invocation of Emergency Conflagration Act for the Miller Road / Dodge Fire in Wasco County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-22-14.md"
+  },
+  {
+   "id": "eo-22-15",
+   "title": "Directing State Agencies to take Specific Steps to Improve Equity in State Procurement and Contracting; Rescinding and Replacing Executive Order 18-03.",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-22-15.md"
+  },
+  {
+   "id": "eo-22-16",
+   "title": "Invocation of Emergency Conflagration Act for the Rum Creek Fire in Josephine County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-22-16.md"
+  },
+  {
+   "id": "eo-22-17",
+   "title": "Proclamation of State of Emergency Due to Imminent Threat of Wildfire",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-22-17.md"
+  },
+  {
+   "id": "eo-22-18",
+   "title": "Invocation of Emergency Conflagration Act for the Double Creek Fire in Wallowa County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-22-18.md"
+  },
+  {
+   "id": "eo-22-19",
+   "title": "Invocation of Emergency Conflagration Act for the Sturgill Fire in Wallowa County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-22-19.md"
+  },
+  {
+   "id": "eo-22-20",
+   "title": "Invocation of Emergency Conflagration Act for the Cedar Creek Fire in Lane County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-22-20.md"
+  },
+  {
+   "id": "eo-22-21",
+   "title": "Establishing the Oregon Interagency Council on Homelessness",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-22-21.md"
+  },
+  {
+   "id": "eo-22-22",
+   "title": "Continuing the Governor's Advisory Committee on Motorcycle Safety; Replacing Executive Orders 99.09 and 16-01",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-22-22.md"
+  },
+  {
+   "id": "eo-22-23",
+   "title": "Declaration of Emergency Due to Surge in Pediatric Respiratory Infections in Oregon",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-22-23.md"
+  },
+  {
+   "id": "eo-22-24",
+   "title": "Expanding Declaration Of Emergency Due To Surge In Respiratory Infections In Oregon; Repealing and Replacing Executive Order 22-23",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-22-24.md"
+  },
+  {
+   "id": "eo-22-25",
+   "title": "Naming the Salem Campus of the State Hospital after Oregon Senate President Peter Courtney",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-22-25.md"
+  },
+  {
+   "id": "eo-23-01",
+   "title": "Determination of State of Emergency in Clackamas, Coos, Curry, Douglas, Hood River, Jackson, Josephine, Lane, Lincoln, Multnomah, Washington, and Umatilla counties due to a severe winter storm",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-23-01.md"
+  },
+  {
+   "id": "eo-23-02",
+   "title": "Declaring state of emergency due to homelessness",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-23-02.md"
+  },
+  {
+   "id": "eo-23-03",
+   "title": "Directing state agencies to prioritize reducing homelessness",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-23-03.md"
+  },
+  {
+   "id": "eo-23-04",
+   "title": "Establishing a statewide housing production goal and housing production advisory council",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-23-04.md"
+  },
+  {
+   "id": "eo-23-05",
+   "title": "Determination of a State of Drought Emergency in Crook and Jefferson Counties",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-23-05.md"
+  },
+  {
+   "id": "eo-23-06",
+   "title": "Determination of a State of Winter Emergency in Multnomah County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-23-06.md"
+  },
+  {
+   "id": "eo-23-07",
+   "title": "Supersedes Executive Order 23-01 To Add Malheur County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-23-07.md"
+  },
+  {
+   "id": "eo-23-08",
+   "title": "Determination of a State of Drought Emergency in Grant and Deschutes Counties",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-23-08.md"
+  },
+  {
+   "id": "eo-23-09",
+   "title": "Expanding Homelessness State of Emergency Declared in Executive Order 23-02 to include Clatsop, Linn and Malheur Counties",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-23-09.md"
+  },
+  {
+   "id": "eo-23-10",
+   "title": "Determination of a State of Drought Emergency in Wasco County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-23-10.md"
+  },
+  {
+   "id": "eo-23-11",
+   "title": "Determination of a State of Drought Emergency in Harney County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-23-11.md"
+  },
+  {
+   "id": "eo-23-12",
+   "title": "Strengthening Educator Preparation for Literacy Instruction",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-23-12.md"
+  },
+  {
+   "id": "eo-23-13",
+   "title": "Determination of a State of Emergency in Lake and Sherman Counties",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-23-13.md"
+  },
+  {
+   "id": "eo-23-14",
+   "title": "Invocation of Emergency Conflagration Act for the Hat Rock and Mt. Hebron Fires in Umatilla County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-23-14.md"
+  },
+  {
+   "id": "eo-23-15",
+   "title": "Determination of a State of Drought Emergency in Jackson County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-23-15.md"
+  },
+  {
+   "id": "eo-23-16",
+   "title": "Invocation of Emergency Conflagration Act for the Golden Fire in Klamath County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-23-16.md"
+  },
+  {
+   "id": "eo-23-17",
+   "title": "Proclamation of State of Emergency due to Imminent Threat of Wildfire",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-23-17.md"
+  },
+  {
+   "id": "eo-23-18",
+   "title": "Invocation of Emergency Conflagration Act for the Lookout Fire in Lane County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-23-18.md"
+  },
+  {
+   "id": "eo-23-19",
+   "title": "Invocation of Emergency Conflagration Act for Portions of the Tyee Ridge Complex in Douglas County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-23-19.md"
+  },
+  {
+   "id": "eo-23-20",
+   "title": "Determination of a State of Drought Emergency in Gilliam and Douglas Counties",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-23-20.md"
+  },
+  {
+   "id": "eo-23-21",
+   "title": "Invocation of Emergency Conflagration Act for Portions of the Smith River Complex in Josephine County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-23-21.md"
+  },
+  {
+   "id": "eo-23-22",
+   "title": "Determination of a State of Drought Emergency in Lincoln County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-23-22.md"
+  },
+  {
+   "id": "eo-23-23",
+   "title": "Invocation of Emergency Conflagration Act for the Bensel Fire in Umatilla County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-23-23.md"
+  },
+  {
+   "id": "eo-23-24",
+   "title": "Determination of State of Emergency in Harney and Malheur due to a Severe Storm that Includes Flooding and Landslides",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-23-24.md"
+  },
+  {
+   "id": "eo-23-25",
+   "title": "Determination of a State of Drought Emergency in Morrow County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-23-25.md"
+  },
+  {
+   "id": "eo-23-26",
+   "title": "Establishing a State Government Artificial Intelligence Advisory Council",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-23-26.md"
+  },
+  {
+   "id": "eo-24-01",
+   "title": "Determination of State of Emergency in Coos, Curry, Douglas, Jackson, and Tillamook due to a severe storm that includes heavy rain, flooding, and landslides",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-24-01.md"
+  },
+  {
+   "id": "eo-24-02",
+   "title": "Merge and Extend Executive Order 23-02 and Executive Order 23-09",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-24-02.md"
+  },
+  {
+   "id": "eo-24-03",
+   "title": "Modifying the Interagency Council on Homelessness to Implement Executive Order 23-03; Repealing and Replacing Executive Order 22-21",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-24-03.md"
+  },
+  {
+   "id": "eo-24-04",
+   "title": "Declaration of State of Emergency in Lane County due to a Severe Winter Storm that included high winds, ice, freezing rain, and extreme cold",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-24-04.md"
+  },
+  {
+   "id": "eo-24-05",
+   "title": "Declaration of State of Emergency in Oregon due to a Severe Winter Storm that included high winds, flooding, avalanches, and landslides",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-24-05.md"
+  },
+  {
+   "id": "eo-24-06",
+   "title": "Oregon Tribal Cultural Items Task Force",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-24-06.md"
+  },
+  {
+   "id": "eo-24-07",
+   "title": "Declaring State of Emergency Due to Fentanyl Use in Portland City Center in Multnomah County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-24-07.md"
+  },
+  {
+   "id": "eo-24-08",
+   "title": "Determination of a State of Drought Emergency in Jefferson County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-24-08.md"
+  },
+  {
+   "id": "eo-24-09",
+   "title": "Invocation of Emergency Conflagration Act for the Darlene 3 Fire in Deschutes County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-24-09.md"
+  },
+  {
+   "id": "eo-24-10",
+   "title": "Declaration of State of Emergency Due to Extreme Heat",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-24-10.md"
+  },
+  {
+   "id": "eo-24-11",
+   "title": "Invocation of Emergency Conflagration Act for the Larch Creek Fire in Wasco County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-24-11.md"
+  },
+  {
+   "id": "eo-24-12",
+   "title": "Invocation of Emergency Conflagration Act for the Cow Valley Fire in Malheur County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-24-12.md"
+  },
+  {
+   "id": "eo-24-13",
+   "title": "Proclamation of State of Emergency due to Imminent Threat of Wildfire",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-24-13.md"
+  },
+  {
+   "id": "eo-24-14",
+   "title": "Invocation of Emergency Conflagration Act for the Falls Fire in Harney County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-24-14.md"
+  },
+  {
+   "id": "eo-24-15",
+   "title": "Invocation of Emergency Conflagration Act for the Lone Rock Fire in Gilliam, Morrow, Wheeler Counties",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-24-15.md"
+  },
+  {
+   "id": "eo-24-15-amended",
+   "title": "(AMENDED) Invocation of Emergency Conflagration Act for the Lone Rock Fire in Gilliam County and Boneyard Fire in Grant County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-24-15-amended.md"
+  },
+  {
+   "id": "eo-24-16",
+   "title": "Invocation of Emergency Conflagration Act for the Series of Fires in Umatilla County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-24-16.md"
+  },
+  {
+   "id": "eo-24-17",
+   "title": "Invocation of Emergency Conflagration Act for the Battle Mountain Complex Fire in Grant and Umatilla Counties",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-24-17.md"
+  },
+  {
+   "id": "eo-24-18",
+   "title": "Invocation of Emergency Conflagration Act for the Durkee Fire in Baker County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-24-18.md"
+  },
+  {
+   "id": "eo-24-19",
+   "title": "Invocation of Emergency Conflagration Act for the Telephone Fire in Harney County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-24-19.md"
+  },
+  {
+   "id": "eo-24-20",
+   "title": "Invocation of Emergency Conflagration Act for the Elk Lane Fire in Jefferson County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-24-20.md"
+  },
+  {
+   "id": "eo-24-21",
+   "title": "Invocation of Emergency Conflagration Act for the Town Gulch Fire in Baker County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-24-21.md"
+  },
+  {
+   "id": "eo-24-22",
+   "title": "Invocation of Emergency Conflagration Act for the Dixon Fire in Douglas County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-24-22.md"
+  },
+  {
+   "id": "eo-24-23",
+   "title": "Invocation of Emergency Conflagration Act for the Copperfield Fire in Klamath County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-24-23.md"
+  },
+  {
+   "id": "eo-24-24",
+   "title": "Invocation of Emergency Conflagration Act for the Rail Ridge Fire in Crook and Grant Counties",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-24-24.md"
+  },
+  {
+   "id": "eo-24-25",
+   "title": "Invocation of Emergency Conflagration Act for the Shoe Fly Fire in Wheeler County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-24-25.md"
+  },
+  {
+   "id": "eo-24-26",
+   "title": "Determination of a State of Drought Emergency in Lake County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-24-26.md"
+  },
+  {
+   "id": "eo-24-27",
+   "title": "Invocation of Emergency Conflagration Act for the Service Fire in Wheeler",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-24-27.md"
+  },
+  {
+   "id": "eo-24-28",
+   "title": "Directing Coordinated and Transparent Implementation of Oregon's Commitments to the Columbia Basin Restoration Initiative and the Resilient Columbia Basin Agreement",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-24-28.md"
+  },
+  {
+   "id": "eo-24-29",
+   "title": "Determination of a State of Drought Emergency in Wallowa County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-24-29.md"
+  },
+  {
+   "id": "eo-24-30",
+   "title": "Determination of a State of Drought Emergency in Harney County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-24-30.md"
+  },
+  {
+   "id": "eo-24-31",
+   "title": "Establishing Project Labor Agreements for State Construction Projects (FAQ)",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-24-31.md"
+  },
+  {
+   "id": "eo-25-01",
+   "title": "Extension of Executive Order 24-02 (Homelessness State of Emergency)",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-25-01.md"
+  },
+  {
+   "id": "eo-25-02",
+   "title": "State of Emergency Due to Risk of Economic Shutdown in Morrow and Umatilla Counties",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-25-02.md"
+  },
+  {
+   "id": "eo-25-03",
+   "title": "Determination of State of Emergency in Tillamook, Clackamas, Polk, Lincoln, Lane, Coos, Curry, Douglas, Jackson, Wasco, Lake, Umatilla, Wheeler, Grant, and Wallowa due to Heavy Rain and Flooding",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-25-03.md"
+  },
+  {
+   "id": "eo-25-04",
+   "title": "Determination of State of Emergency in Clackamas, Coos, Curry, Douglas, Harney, Jackson, Josephine, Lane, Multnomah, and Malheur Counties due to Flooding and Landslide Incidents",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-25-04.md"
+  },
+  {
+   "id": "eo-25-05",
+   "title": "Declaration of State of Emergency in Harney County due to Flooding",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-25-05.md"
+  },
+  {
+   "id": "eo-25-06",
+   "title": "Invocation of Emergency Conflagration Act for the Rowena Fire in Wasco County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-25-06.md"
+  },
+  {
+   "id": "eo-25-07",
+   "title": "Invocation of Emergency Conflagration Act for the Alder Springs Fire in Jefferson County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-25-07.md"
+  },
+  {
+   "id": "eo-25-08",
+   "title": "Declaration of State of Emergency in Wasco County Due to the Rowena Wildfire",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-25-08.md"
+  },
+  {
+   "id": "eo-25-09",
+   "title": "Personal Electronic Device Policy for School Districts",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-25-09.md"
+  },
+  {
+   "id": "eo-25-10",
+   "title": "Invocation of Emergency Conflagration Act for the Cold Springs Fire in Umatilla County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-25-10.md"
+  },
+  {
+   "id": "eo-25-11",
+   "title": "Invocation of Emergency Conflagration Act for the Elk Fire in Klamath County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-25-11.md"
+  },
+  {
+   "id": "eo-25-12",
+   "title": "Determination of a State of Drought Emergency in Baker County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-25-12.md"
+  },
+  {
+   "id": "eo-25-13",
+   "title": "Determination of a State of Drought Emergency in Lincoln County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-25-13.md"
+  },
+  {
+   "id": "eo-25-14",
+   "title": "Invocation of Emergency Conflagration Act for the Highland Fire in Crook County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-25-14.md"
+  },
+  {
+   "id": "eo-25-15",
+   "title": "Invocation of Emergency Conflagration Act for the Cram Fire in Jefferson and Wasco Counties",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-25-15.md"
+  },
+  {
+   "id": "eo-25-16",
+   "title": "Declaration of State of Emergency Due to Imminent Threat of Wildfire",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-25-16.md"
+  },
+  {
+   "id": "eo-25-17",
+   "title": "Extending Executive Order 25-08 Declaring a State of Emergency in Wasco County due to the Rowena Wildfire",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-25-17.md"
+  },
+  {
+   "id": "eo-25-18",
+   "title": "Determination of a State of Drought Emergency in Morrow, Douglas, and Union Counties.",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-25-18.md"
+  },
+  {
+   "id": "eo-25-19",
+   "title": "Determination of a State of Drought Emergency in Coos and Wheeler Counties",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-25-19.md"
+  },
+  {
+   "id": "eo-25-20",
+   "title": "Invocation of Emergency Conflagration Act for the Flat Fire in Jefferson and Deschutes Counties",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-25-20.md"
+  },
+  {
+   "id": "eo-25-21",
+   "title": "Tobacco Prevention and Education Program Council",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-25-21.md"
+  },
+  {
+   "id": "eo-25-22",
+   "title": "Constructing Seismically Resilient State Buildings",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-25-22.md"
+  },
+  {
+   "id": "eo-25-23",
+   "title": "Determination of a State of Drought Emergency on Jefferson County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-25-23.md"
+  },
+  {
+   "id": "eo-25-24",
+   "title": "Invocation of Emergency Conflagration Act for the Moon Complex Fire in Curry County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-25-24.md"
+  },
+  {
+   "id": "eo-25-25",
+   "title": "Accelerating Wind and Solar Energy Development in Advance of Elimination of Federal Clean Energy Tax Credits",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-25-25.md"
+  },
+  {
+   "id": "eo-25-26",
+   "title": "Directing State Agencies to Take Urgent Action to Promote the Resilience of our Communities and Natural and Working Lands and Waters",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-25-26.md"
+  },
+  {
+   "id": "eo-25-27",
+   "title": "Declaring a Hunger Emergency to Protect Oregonians from the Suspension of Federal Supplemental Nutrition Assistance Program (SNAP)",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-25-27.md"
+  },
+  {
+   "id": "eo-25-28",
+   "title": "Second Extension of Executive Order 25-08 Declaring a State of Emergency in Wasco County due to the Rowena Fire",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-25-28.md"
+  },
+  {
+   "id": "eo-25-29",
+   "title": "Executive Order on Reducing Greenhouse Gas Emissions and Advancing Oregon's Clean Energy Future",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-25-29.md"
+  },
+  {
+   "id": "eo-25-30",
+   "title": "Proclamation of State of Emergency Due to Impacts of the Olympic Pipeline Shutdown",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-25-30.md"
+  },
+  {
+   "id": "eo-25-31",
+   "title": "Rescinding Executive Order 25-30",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-25-31.md"
+  },
+  {
+   "id": "eo-25-32",
+   "title": "Determination of State of Emergency in multiple counties due to a Severe Storm that included high winds, heavy rain, flooding, and landslides",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-25-32.md"
+  },
+  {
+   "id": "eo-26-01",
+   "title": "Extending Homelessness Emergency",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-26-01.md"
+  },
+  {
+   "id": "eo-26-02",
+   "title": "Expanding State of Emergency Declared in Executive Order 25-32 to include Linn, Polk, Umatilla, Union, and Wallowa Counties",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-26-02.md"
+  },
+  {
+   "id": "eo-26-03",
+   "title": "Third Extension of Executive Order 25-08 Declaring a State of Emergency in Wasco County due to the Rowena Wildfire",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-26-03.md"
+  },
+  {
+   "id": "eo-26-04",
+   "title": "Ensuring State Coordination for Immigrant and Refugee Communities to Promote Dignity and Safety",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-26-04.md"
+  },
+  {
+   "id": "eo-26-05",
+   "title": "Determination of a State of Drought Emergency in Baker, Deschutes and Umatilla Counties",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-26-05.md"
+  },
+  {
+   "id": "eo-26-06",
+   "title": "Preserving Student Instructional Time",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-26-06.md"
+  },
+  {
+   "id": "eo-26-07",
+   "title": "Determination of a State of Drought Emergency in Crook, Grant, Jackson, Jefferson, Morrow and Wallowa Counties",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-26-07.md"
+  },
+  {
+   "id": "eo-26-08",
+   "title": "Determination of a State of Drought Emergency in Coos, Klamath and Wheeler Counties",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-26-08.md"
+  },
+  {
+   "id": "eo-26-09",
+   "title": "Determination of a State of Drought Emergency in Douglas, Gilliam, Harney, Lake and Malheur Counties",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-26-09.md"
+  },
+  {
+   "id": "eo-26-10",
+   "title": "Proclamation of State of Emergency Due to Imminent Threat of Wildfire",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-26-10.md"
+  },
+  {
+   "id": "eo-26-11",
+   "title": "Determination of a State of Drought Emergency in Josephine and Wasco Counties",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-26-11.md"
+  },
+  {
+   "id": "eo-26-12",
+   "title": "Determination of a State of Drought Emergency in Curry and Union Counties",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-26-12.md"
+  },
+  {
+   "id": "eo-26-13",
+   "title": "Invocation of Emergency Conflagration Act for the East Evans Creek Road Fire in Jackson County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-26-13.md"
+  },
+  {
+   "id": "eo-26-14",
+   "title": "Invocation of Emergency Conflagration Act for the Olive Butte Fire in Grant County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-26-14.md"
+  },
+  {
+   "id": "eo-26-15",
+   "title": "Invocation of Emergency Conflagration Act for the Lower Dry Creek Fire in Umatilla County",
+   "doc_type": "executive_order",
+   "path": "executive-orders/eo-26-15.md"
+  },
+  {
    "id": "nist-sp-800-53-r5",
    "title": "NIST SP 800-53 Rev. 5 — Security and Privacy Controls for Information Systems and Organizations",
    "doc_type": "external_reference",
@@ -14087,6 +17243,46 @@
    "type": "related"
   },
   {
+   "from": "eo-03-03-letter",
+   "to": "ors-283.343",
+   "type": "implements"
+  },
+  {
+   "from": "eo-03-03-letter",
+   "to": "eo-03-03",
+   "type": "related"
+  },
+  {
+   "from": "eo-06-02",
+   "to": "ors-184.423",
+   "type": "implements"
+  },
+  {
+   "from": "eo-07-21-a",
+   "to": "ors-292.495",
+   "type": "implements"
+  },
+  {
+   "from": "eo-08-16-letter",
+   "to": "eo-08-16",
+   "type": "related"
+  },
+  {
+   "from": "eo-11-02",
+   "to": "ors-292.495",
+   "type": "implements"
+  },
+  {
+   "from": "eo-24-15-amended",
+   "to": "eo-24-15",
+   "type": "related"
+  },
+  {
+   "from": "eo-24-31",
+   "to": "ors-279a.015",
+   "type": "implements"
+  },
+  {
    "from": "nist-sp-800-53-r5",
    "to": "eis-css-itcs",
    "type": "related"
@@ -23092,6 +26288,11 @@
    "type": "implemented_by"
   },
   {
+   "from": "ors-184.423",
+   "to": "eo-06-02",
+   "type": "implemented_by"
+  },
+  {
    "from": "ors-184.634",
    "to": "oar-125-045-0211",
    "type": "implemented_by"
@@ -25724,6 +28925,11 @@
   {
    "from": "ors-279a.010",
    "to": "oar-125-246-0800",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-279a.015",
+   "to": "eo-24-31",
    "type": "implemented_by"
   },
   {
@@ -29688,6 +32894,11 @@
   },
   {
    "from": "ors-283.343",
+   "to": "eo-03-03-letter",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-283.343",
    "to": "oam-10-50-00-pr",
    "type": "implemented_by"
   },
@@ -30699,6 +33910,16 @@
   {
    "from": "ors-292.288",
    "to": "oam-40-20-10-po",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-292.495",
+   "to": "eo-07-21-a",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-292.495",
+   "to": "eo-11-02",
    "type": "implemented_by"
   },
   {

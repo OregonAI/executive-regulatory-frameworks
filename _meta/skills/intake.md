@@ -6,7 +6,7 @@ apply throughout.
 
 ## Phase 0 — Discover (agent proposes; human vets the LIST first)
 
-0. **Check the coverage catalogs first**: `_meta/catalog/{ors,oar,oam,das-policies}.yml`
+0. **Check the coverage catalogs first**: `_meta/catalog/{ors,oar,oam,das-policies,eo}.yml`
    are discovery/backlog maps built 2026-07-18 — every known ORS section, OAR division,
    OAM document, and DAS policy in scope, each flagged `ingested` or `not_ingested`. Pick
    candidates from there before doing fresh discovery, and update the relevant catalog

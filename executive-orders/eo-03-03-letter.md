@@ -1,0 +1,448 @@
+---
+id: eo-03-03-letter
+title: "Sustainable Oregon EO 03-03 Letter to Secretary of State"
+doc_type: executive_order
+citation: "Executive Order 03-03"
+authority_level: executive_order
+issuing_body: "Office of the Governor, State of Oregon"
+agency: statewide
+legal_authority: []
+source_url: "https://www.oregon.gov/gov/eo/eo-03-03-letter.pdf"
+source_format: pdf
+retrieved: "2026-07-18"
+source_sha256: "4e99dcc12a9902d4a50140e85216fda718b41c852c1a7cbbe38f4afd6c9e4cb3"
+snapshot_policy: hash-only
+effective_date: null
+last_reviewed: null
+source_version: null
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "no page furniture detected"
+last_verified: "2026-07-18"
+verified_by: "@morficflux"
+maintainer: "@morficflux"
+relationships:
+  implements:
+    - ors-283.343
+  implemented_by: []
+  references_external: []
+  related:
+    - eo-03-03
+  supersedes: []
+tags: ["executive-order", "year-2003"]
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** Verify against the official
+> source: <https://www.oregon.gov/gov/eo/eo-03-03-letter.pdf> (retrieved 2026-07-18).
+
+# Sustainable Oregon EO 03-03 Letter to Secretary of State (Executive Order 03-03)
+
+## At a glance
+
+Executive Order 03-03: Sustainable Oregon EO 03-03 Letter to Secretary of State. (Title as printed in the Governor's office listing of record; see Provenance.)
+
+## Full text
+
+The Honorable Bill Bradbury
+Chair, Oregon Sustainability Board
+State Capitol
+Salem, Oregon
+
+Dear Bill,
+
+Today I issued Executive Order 03-03, to achieve a sustainable Oregon for the 21st century. That Order is
+intended to support and drive the goals of the Oregon Sustainability Act (Act) adopted by the Legislature
+in 2001. I direct and encourage the Oregon Sustainability Board (Board) to use the powers vested under
+the Act to provide the needed leadership and direction for state government to achieve new plateaus of
+sustainability. And, it is my hope that the Board will also provide leadership and encouragement to the
+rest of the state to move to significantly higher levels of sustainability.
+
+It is my intent that state agencies take specific actions to achieve the Board’s sustainability goals for the
+state. and under the Act, I believe the Board has the ability to direct assistance from other agencies in
+reaching these goals. I have received a number of excellent suggestions from inside and outside state
+government about actions that agencies could take to drive to sustainability. By this letter, I forward these
+attached suggestions to you.
+
+The first group is a set of actions that were developed in discussion with state agencies and may be ready
+to implement almost immediately. I believe that implementing this group of actions in a timely manner
+would move the state measurably down the path toward sustainability. The second group includes other
+ideas that have not been developed sufficiently to implement immediately, but are also very worthy of
+consideration. I invite the Board, and its Sustainability Leadership Team provided for in the Order, to
+review both groups of suggestions and take the actions it deems appropriate.
+
+In close, I want to thank you for your continued leadership on the Board and encourage you to call on me
+if you need further direction or assistance in this matter.
+
+Highest Regards,
+
+Governor Kulongoski
+
+                    State Agency Sustainability Actions Underway
+
+1. Development of a Statewide Conservation Plan (“Conservation Plan”). (Proposed deadline:
+   June 30, 2005)
+
+       a) The long-term goal of the Conservation Plan would be to assure the sustainability of
+          Oregon’s terrestrial and aquatic ecosystems and the economies that rely upon them. The
+          Conservation Plan could be coordinated with major economic development initiatives of the
+          state to avoid unnecessary conflicts and misdirected investments. It could contain a vision
+          statement, overall assessment of the distribution and condition of natural resources (soil,
+          timber, water, fish, wildlife, habitat, etc.), goals and objectives for major regions of the state,
+          a map of resources in greatest need of conservation, and performance monitoring. The
+          Conservation Plan could address the sustainable management of lands used primarily for
+          economic purposes to help define their role in meeting overall conservation objectives.
+       b) The Director of the Oregon Department of Fish and Wildlife could assemble an
+          interdisciplinary team to develop the Conservation Plan, drawing expertise from other
+          agencies and the private sector, to address the full range of natural resource conservation
+          needs, including those outside the jurisdiction and expertise of the agency.
+       c) To the extent applicable, the Directors of the Departments of Agriculture, Water Resources,
+          Forestry, Environmental Quality and Watershed Enhancement should provide information
+          needed for and participate in the development of the Conservation Plan.
+       d) The Director of the Oregon Department of Fish and Wildlife could solicit the involvement of
+          the Institute for Natural Resources at Oregon State University, Tribal and local governments,
+          non-government organizations with an interest in natural resources conservation and
+          management, and appropriate federal agencies.
+
+2. Oregon Energy Office (Energy) Actions .
+
+       a) Implement a High Performance Schools program that makes energy and green building
+          design services for new schools available to all K-12 school districts. The designs could
+          significantly improve energy efficiency and indoor air quality, and in most cases, do so at no
+          additional capital cost to the districts. The goal would be to involve at least 50 percent of all
+          new school buildings. In addition, Energy could offer a companion program targeted at new
+          k-12 portable classrooms, that could exceed building code energy-efficiency requirements by
+          30 percent, address indoor air quality, and provide higher levels of daylighting. Energy also
+          could assist school districts to obtain funding for additional energy enhancements that may be
+          funded by grants from other sources and notify all appropriate entities about the program.
+          (Proposed deadline: July 1, 2003)
+
+       b) Develop a proposal for the Governor to designate October as Energy Awareness Month. The
+          Director could provide agencies with information, ideas and materials to promote energy
+          conservation, use of renewables, and the reduction in Green House Gas emissions.
+
+       c) In consultation with the Chairman of the Energy Facilities Siting Council (EFSC), evaluate
+          whether, on a MW output basis, renewable energy facilities face comparable siting
+          requirements compared to conventional generating facilities. If the Director determines there
+          is a disparity that disadvantages renewable facilities, the Director would then recommend to
+
+            the Board remedies to eliminate the disadvantages for adoption by EFSC.
+
+        d) Participate in negotiations and prepare recommendations for Oregon’s potential participation
+           in the West Coast Climate Change/Clean Energy Initiative.
+
+3. Oregon Department of Agriculture (AG) Actions .
+
+    a. In collaboration with the Department of Administrative Services, the Department of Corrections,
+       the Department of Economic and Community Development, and stakeholder groups, AG could
+       develop strategies, baseline data and targets to increase the purchase of locally produced and
+       grown food, groceries and produce by state institutions, in particular food products certified as
+       organic under Federal law or that meet other similar certification programs.
+
+    b. Develop a report for the Board on how to increase the sustainability of Oregon agriculture
+       through the use and promotion of voluntary sustainability certification programs. In developing
+       this recommendation, AG would work with the State Board of Agriculture, the US Department of
+       Agriculture, the agricultural industry and groups that have developed agricultural certification
+       programs (such as the Food Alliance and Oregon Tilth). The report could examine the pros and
+       cons of existing certification programs and the marketing advantages to agriculture from using
+       the programs. If the report concludes that certification programs can help improve agricultural
+       sustainability and offer marketing advantages to Oregon agriculture, the report could make
+       specific recommendations on how to promote existing programs and/or develop a new program, a
+       work plan, schedule and budget for implementation of the recommendations. (Proposed deadline:
+       March 2004)
+
+    c. Maximize the opportunities and resources associated with the 2002 Farm Bill Energy Title that
+       provides assistance to growers for project development of bio-fuels, bio-mass, wind energy,
+       methane digesters, carbon sequestration, and other similar programs. In collaboration with the
+       Energy, Economic and Community Development Department, the Governor's Office, and other
+       federal, state, and local agencies, organizations, and private businesses, the department could
+       implement a program to assist growers in identifying financial and technical assistance to
+       maximize these opportunities.
+
+    d. Complete the development of Agricultural Water Quality Management Plans for all basins in the
+       state. The department would work with Soil and Water Conservation Districts, USDA agencies,
+       and other state and local entities to identify and provide technical, financial and educational
+       assistance to the advisory groups helping the department develop the plans. (Proposed deadline:
+       January 2004)
+
+4. Department of Administrative Services Actions :
+
+a) Establish motor vehicles purchase standards, subject to competitive solicitation processes:
+
+    (1) Light duty vehicles (under 8,500 lbs. gross) that score 6.0 or higher on the U.S. Environmental
+        Protection Agency’s emissions/air pollution index, provided that such vehicles are available and
+        capable of carrying out the operational needs of using agencies.
+
+    (2) Oversee an annual process wherein all state agencies that own vehicles determine a composite
+        EPA emissions/air pollution score and an average fleet miles-per-gallon score for all 2003 and
+
+        later models. Agencies would be directed to increase the percentage value each year by an
+        amount to be set by the Director after consultation with affected agencies. The Director could
+        also compile scores of all agencies that use DAS Motor Pool vehicles. The Director could
+        compile and submit agency scores for inclusion into the biennial statewide fleet review mandated
+        by ORS 283.343. (Proposed deadline: September 2003)
+
+    (3) Oversee a process that results in at least three state agencies operating vehicle repair facilities
+        achieving “Eco-Logical Business” certification from the Department of Environmental Quality.
+        (Proposed deadline: July 2005).
+
+    (4) Annually, measure the quantities of “environmentally friendly” fuel (compressed natural gas, bio-
+        diesel, ultra-low sulfur diesel, and others to be determined) and normal fuel (unleaded gasoline,
+        diesel) used by Motor Pool vehicles in the previous fiscal year. The Director could implement
+        programs, as necessary, directed toward meeting an objective of increasing the use of
+        “environmentally friendly” fuel by 5% per year. (Proposed deadline: September 2003)
+
+b) Other purchasing activities:
+
+    (1) In consultation with the Department of Environmental Quality and the Western States
+        Contracting Alliance, develop sustainability-sensitive purchasing and disposal policies, targets
+        and benchmarks for state-agency purchased personal computers, monitors, PDAs, cell phones,
+        servers, and related peripheral equipment. These policies could result within 6 years in a
+        measurable target, such as direct supplier take-back of these components at the end of their
+        operational lifetimes. (Proposed deadline: July 2004)
+
+    (2) Revise the Department’s statewide bid specifications for electronic office equipment to require an
+        “Energy Star” or other third-party certification standard relating to energy savings. (Proposed
+        deadline: July 2003)
+
+c) Standards and guidelines for state buildings:
+
+    (1) New State Facilities: To the extent possible under exiting laws, ensure that all state buildings,
+        including buildings on the campuses of institutions of higher education, authorized for design
+        after a defined date are sited, designed, constructed, operated and maintained in ways that are
+        models of energy, water, and materials efficiency. Revise the State Facilities Standards and
+        Guidelines, as necessary, to accomplish this to include all reasonable cost-effective measures in
+        the areas of site, water efficiency, energy and atmosphere, materials and resources, and indoor air
+        quality. Look for ways to exceed the statutory goal of 20% for energy consumption and include
+        practices to ensure buildings start and continue to operate efficiently over time. Measures
+        reported could include reduced water use, waste recycled, materials reused, reduced energy use,
+        and recycled materials used.
+
+    (2) Existing Buildings: Reduce the use of non-renewable energy use in buildings by at least 10
+        percent below consumption for the base year of 2000. Renovations to existing buildings could
+        include all reasonable cost-effective measures in the areas of site, water efficiency, energy and
+        atmosphere, materials and resources, and indoor air quality. (Proposed deadline: July 2003)
+
+    (3) Leased Facilities: By July 2004, all build-to-suit and leases involving major renovation could
+        incorporate all reasonable cost-effective measures in the areas of water efficiency, energy and
+
+         atmosphere, materials and resources, and indoor air quality that have pay-backs shorter than the
+         lease term. (Proposed deadline: July 2004)
+
+     (4) Develop and implement a plan for state agencies to double the amount of electricity purchased
+         from green power sources. State agencies could work with electricity providers in all areas of the
+         state to help ensure green power is available and cost-effective. (Proposed deadline: July 2005).
+
+     (5) Set up a standards review committee which would advise the Director of DAS on updating the
+         State Facilities Standards and Guidelines policy, developing new standards, and providing
+         references and guidance to state agencies. A key objective of this update would be to provide
+         measurable standards for all mandatory elements of the policy, and as many measurable standards
+         as possible for the recommended and optional elements. (Proposed deadline July 2004)
+
+5. Economic and Community Development Department (OECDD) Actions:
+
+a) Investigate the possibility of creating an annual sustainability awards program modeled on the Oregon
+   Performance Excellence Awards program. The Director of OECDD could seek the involvement of
+   private for profit corporations and businesses, non-profit entities and local and federal government to
+   fund and operate the program. (Proposed deadline: February 2004).
+
+b)    Promote sustainable industries and business practices in coordination with other public and private
+     partners by:
+
+         1. Developing a target industry strategy as part of the Oregon Marketing Campaign to capitalize
+            on business opportunities that support sustainable development, including opportunities for
+            new and existing businesses. The Director would work the Sustainability Board, industry and
+            other partners in developing this strategy. Target industries to be evaluated could include:
+            renewable energy and energy conservation; clean transportation technologies; pollution
+            control and prevention; water conservation, recycling and reuse; stormwater technologies;
+            green chemistry and materials sciences; recycling and reuse products and technologies;
+            ecosystem management and restoration; organic and sustainable agriculture; green building
+            design and construction technologies; products from certified forest practices; eco- and
+            agricultural tourism; and international services.
+         2. Including a sustainability factor when OECDD reviews projects for priority funding.
+            OECDD could review the extent to which a request for funding promotes sustainable
+            industries or sustainable business practices.
+         3. Providing incentives to use Leadership in Energy and Environmental Design (LEED)
+            standards and other green building practices in the development of facilities funded by the
+            OECDD.
+         4. Sponsoring workshops and training opportunities, connecting businesses with providers of
+            technical assistance, identifying suppliers of sustainable products, supporting partnerships
+            that encourage sustainable development and providing information concerning sustainable
+            business practices to businesses throughout the state via the Regional Development Officers’
+            Business Outreach program and the work of OECDD’s Sustainable Business Liaison.
+         5. Developing proposals for tax incentives and other funding mechanisms to support sustainable
+            business practices and sustainable industry development. Included in this could be a
+            recommendation to the Board on whether to propose legislation to establish a Development
+            Finance Authority. (Proposed deadline: November 2004 for inclusion in the 2005 legislative
+            package).
+
+        6. Convening workshops with representatives from different tourism-related industries in
+           Oregon (travel agents, hotels, conference facilities, tour operators, meeting planners,
+           attractions, transportation options, etc.) to develop a plan for "sustainable tourism."
+
+6. Department of Parks and Recreation Actions :
+
+a) Establish criteria for the evaluation of grant proposals that include considerations for use of
+   sustainable materials, efficient use of energy, waste and hazardous substance reduction and impact on
+   ecosystems. Such criteria could apply to projects through the Local Government Grant Program,
+   County Opportunity Grant Program, Land and Water Conservation Fund, Recreation Trails Program
+   and the All Terrain Vehicle Grant Program. (Proposed deadline: January 2004).
+
+b) Develop a program to phase out the use of two-cycle engines. Director of OECDD, with the advice
+   and support of the Director of the Department of Environmental Quality, could develop a report for
+   the Board’s review that contains an inventory of all implements with said engines used by the
+   department or its regular contractors, determines the availability and suitability of substitute
+   implements that are more efficient and significantly less polluting, calculates the emissions reductions
+   from the new equipment, projects phase-in of new equipment over a 6 year period, and calculates the
+   additional cost for implementing this program. (Proposed deadline: January 2004).
+
+7. Oregon Progress Board Actions: The Oregon Progress Board could recommend to the Board a
+   plan for incorporating the measurement of sustainability into the Oregon Benchmarks. The Progress
+   Board could also incorporate the concepts of sustainability into all subsequent updates of Oregon
+   Shines, the state's strategic vision. (Proposed deadline: December 30, 2003).
+
+                                Potential State Agency Actions
+
+1. Department of Administrative Services (DAS). DAS could undertake the following actions:
+
+    a) Review the International Council for Local Environmental Initiatives/ICLEI “Green Your Fleet”
+       methodology in order to develop a fleet vehicle CO2 emissions goal for state fleet and to give
+       priority to purchase of SULEV and ZEV vehicles.
+    b) Develop a program to ensure that all state agencies are “greening the supply chain” by ensuring
+       that the state utilizes its purchasing power to influence the availability and purchasing of more
+       sustainable products and services.
+
+2. Public Utility Commission (PUC) Actions. PUC could undertake to report to the Board on whether
+   the Least Cost Plans for the electric utilities that are OPUC regulated are appropriately evaluating the
+   inclusion of renewable energy resources. In addition to the customary OPUC evaluation criteria, the
+   report could evaluate whether considerations of price stability, system reliability and environmental
+   quality are satisfactorily reflected in those plans.
+
+3. ODOT and DEQ Actions. ODOT and DEQ could undertake to:
+
+    a) Determine options for reducing diesel truck and other diesel equipment idling, especially in
+       populated areas, including their authority to implement such actions.
+
+    b) Evaluate options for emissions testing for diesel-powered vehicle s, costs and benefits associated
+       with such testing, and make appropriate recommendations to the Board.
+
+    c) Evaluate emissions impacts of the current school bus fleet. Evaluate options for converting
+       school bus fleets to non-diesel or lower-emissions diesel alternatives.
+
+4. Department of Housing and Community Development Actions . The Department of Housing and
+   Community Development could implement a policy to increase the use of technology by residents of
+   publicly funded affordable housing. Agencies could structure programs so that they aid affordable
+   housing developers to stimulate a culture of digital use among residents. To achieve these goals
+   programs could provide that:
+
+    •   Agencies could only fund housing developments that provide high speed Internet access in
+        residential units.
+    •   Each unit could be connected via a data network to reduce the cost of high speed Internet access.
+    •   All costs of providing high speed Internet access for each residential unit could be eligible for
+        funding.
+    •   Ongoing monthly costs of high-speed Internet access could be considered a part of the housing
+        operating budget and eligible for funding.
+    •   Computers could be included in each unit and funded as an amenity could be considered an
+        eligible expense.
+
+5. The Department of Energy and DAS could develop a program to promote the use of renewable
+   resources so that by a date certain all state agencies purchase at least 10 percent of their electricity
+   from green power sources. All state agencies could consider installing renewable energy applications
+
+   at state facilities, such as solar-powered parking lot lighting. All state agencies that own adequate land
+   resources could assess the feasibility of installing renewable resource electricity generation on those
+   lands.
+
+6. Department of Energy (Energy) Actions. Energy could undertake the following:
+
+   a) Help increase the number of state employees using the telework program by offering training and
+      other assistance. Telework helps reduce the amount of carbon dioxide emissions and relieves
+      traffic congestion. The State of Oregon could take advantage of telework where there are
+      opportunities to improve employee performance, reduce commuting miles and produce agency
+      savings.
+
+   b) Through life-cycle cost-effective energy measures, develop a program so that each agency
+      reduces its greenhouse gas emissions attributed to facility energy use by a defined percentage by
+      a defined date compared to such emissions levels in 2000. In order to encourage optimal
+      investment in energy improvements, agencies could count greenhouse gas reductions from
+      improvements in nonfacility energy use toward this goal.
+
+7. ODOT Actions. ODOT could undertake the following:
+
+   a) Develop specific sustainability measures and criteria for the demolition, design and construction
+      of bridges in the state.
+   b) Oversee development of an Environmental Management System (EMS) in the Maintenance
+      Division by a certain date to minimize the environmental impacts of the maintenance of the
+      transportation system throughout Oregon while providing an effective transportation system that
+      supports both the economic activities of the state and the livability of communities. The
+      Environmental Management System could be documented so that cost and time savings can be
+      identified along with environmenta l protection improvements. The documentation would be
+      designed as a model for other ODOT Divisions, other state agencies, and other large government
+      entities.
+
+8. The Department of Environmental Quality (DEQ) Actions. DEQ could undertake the following:
+
+   a) Continue efforts to develop and implement a cost-effective and collaborative strategy for
+      reducing the amount of toxics in Oregon's air, land, and water, in support of the Agency's
+      strategic prioritie s; promote opportunities within Oregon to minimize toxic releases, properly
+      manage toxics, reduce exposures to toxics, and identify alternatives for products that contain
+      toxics; examine what other states are doing to eliminate the use of certain toxic materials and
+      determine whether such programs are applicable to Oregon. An initial focus of the effort could
+      be to develop a strategy for reducing mercury. DEQ could develop a mercury reduction strategy,
+      including recommendations for efforts to be undertaken to reduce mercury, as well as targets and
+      specific measures of progress. Future efforts could focus on developing strategies, consistent
+      with the approach above, addressing reductions for other toxics, focusing on, but not exclusive to,
+      those that are persistent and bioaccumulative.
+
+   b) In consultation with interested stakeholders, develop a strategy to promote clean diesel
+      technology in Oregon that considers public health, environmental impacts, cost, economic
+      development, the role of renewable fuels and other relevant factors.
+
+9. The Land Conservation and Development Commission Actions. LCDC could undertake the
+   following:
+
+   a) Work with the "Committee on Land Use Planning" group (HB 2912) to assess the ability of
+      Oregon's land use planning system to enhance planning for sustainable communities and to
+      recommend changes needed that would improve the ability of the state and local land use
+      planning programs and services in encouraging sustainable communities.
+   b) Work in partnership with other government agencies and the private sector to develop a system to
+      certify that communities and/or development projects as sustainable.
+   c) Continue to work with the Ocean Policy Advisory Advisory Council to evaluate and plan for a
+      limited system of marine reserves to address the economic concerns of the commercia l and
+      recreational fishing industry and coastal communities while meeting the conservation objectives
+      of Statewide Planning Goal 19.
+   d) Help maintain a land base to support sustainable agricultural and forest industries in accordance
+      with its performance measures regarding land zoned for exclusive farm or forest use outside
+      urban growth boundaries.
+   e) Allocate grants to local government with a priority on planning activities that directly assist in
+      promoting economic development and sustainable communities.
+   f) Work with the Oregon Department of Energy and local governments to plan for and site
+      renewable energy projects such as wind facilities.
+   g) Continue to work with local governments through programs like the Transportation Growth
+      Management program to encourage development patterns that foster sustainability.
+   h) Work with local governments to develop capitol improvement and infrastructure plans that
+      support sustainable development.
+
+10. The Department of State Lands Actions. DSL could undertake the following:
+
+   a) Partner with the Oregon Department of Agriculture, the Bureau of Land Management, NRCS,
+      and its lessees to identify and treat noxious weeds on state owned land.
+   b) Initiate a program to assess rangeland health and create long-term plans that achieve sustainable
+      management of rangelands.
+   c) Participate in collaborative efforts to find viable commercial uses and ecologically beneficial
+      storage sites for dredging spoils.
+   d) Participate in research at the South Slough National Estuary aimed at supporting sustainable
+      aquacultural industries and developing scientifically sound techniques for restoration of estuarine
+      and riparian habitats.
+   e) Explore the potential for wind generation and other alternative energy sources on state-owned
+      land.
+
+11. The Oregon University System (OUS) Actions. OUS could establish guidelines and a program to
+    expand the reach of the sustainability efforts the universities have already made in curriculum,
+    research, and operations.
+
+## Provenance & change history
+
+- Source: <https://www.oregon.gov/gov/eo/eo-03-03-letter.pdf> · retrieved 2026-07-18 · text-content sha256 `4e99dcc12a9902d4a50140e85216fda718b41c852c1a7cbbe38f4afd6c9e4cb3`
+- Snapshot policy: **hash-only** — executive-order PDFs (mostly large image scans) are not committed to the repo; the text extraction is committed as `_meta/snapshots/eo-03-03-letter.txt`.
+- See this knowledge body's [CHANGELOG](./CHANGELOG.md).

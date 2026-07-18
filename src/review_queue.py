@@ -64,7 +64,20 @@ def scan():
                                             "(or naming pair) to resolve; add/verify one manually"))
 
     # catalog-derived items
-    cat_items = {"not_sliceable": [], "renumbered": [], "gaps": []}
+    cat_items = {"not_sliceable": [], "renumbered": [], "gaps": [], "eo": []}
+    eo_path = REPO_ROOT / "_meta/catalog/eo.yml"
+    if eo_path.exists():
+        eo = yaml.safe_load(eo_path.read_text())
+        for o in eo.get("orders", []):
+            if "human review" in str(o.get("duplicate_note", "")):
+                cat_items["eo"].append(
+                    (o["id"], f"two listing rows with different bytes "
+                              f"({o['file_ref']} vs {', '.join(o.get('duplicate_file_refs', []))}) "
+                              f"— confirm which file is the order of record"))
+            if o.get("status") in ("fetch_failed", "not_pdf"):
+                cat_items["eo"].append((o["id"], f"{o['status']}: {o.get('note', '')[:90]}"))
+            if o.get("listing_metadata_mismatch"):
+                cat_items["eo"].append((o["id"], o["listing_metadata_mismatch"][:130]))
     ors = yaml.safe_load((REPO_ROOT / "_meta/catalog/ors.yml").read_text())
     for c in ors["chapters"]:
         for s in c["sections"]:
@@ -109,12 +122,23 @@ def render(q, cat_items, body_counts):
             L.append("_(none)_")
         L.append("")
 
+    # Executive orders are aggregated: hundreds of pre-digital orders are image-only
+    # scans by nature; itemizing each would drown the section. The catalog carries the
+    # per-order detail (text_layer field).
+    eo_exc = [x for x in q["exception"] if x[0].startswith("executive-orders/")]
+    other_exc = [x for x in q["exception"] if not x[0].startswith("executive-orders/")]
+    if eo_exc:
+        other_exc.append(
+            (f"executive-orders/ ({len(eo_exc)} documents)",
+             "image-only scans or unusable OCR layers — metadata stubs only; resolvable "
+             "only by an OCR + human-verification pass; per-order detail in "
+             "`_meta/catalog/eo.yml` (`text_layer` field)"))
     section("Documents with NO machine verification — highest review priority",
             "These carry `content_exception`: their sources are image-only scans or binary "
             "forms, so nothing diffs them against a snapshot. A human must check each "
             "against its `source_url`. Resolve by OCR + full-text migration, or confirm "
             "the summary and record review in the file.",
-            q["exception"])
+            other_exc)
 
     section("Explicit TODO markers",
             f"Files containing `{TODO_MARK}` — usually inserted by a source refresh: "
@@ -159,6 +183,14 @@ def render(q, cat_items, body_counts):
     section("Known enumeration gaps",
             "Corpus areas we know exist upstream but could not enumerate mechanically.",
             cat_items["gaps"])
+
+    section("Executive-order catalog anomalies",
+            "Oddities in the /gov/eo listing of record recorded by `src/ingest_eo.py` "
+            "(duplicate rows with different file bytes, rows whose printed Year/Number "
+            "metadata contradicts the filename, fetch failures). The repo trusts the "
+            "filename (descriptions agree with it); spot-check each once against the "
+            "official page.",
+            cat_items["eo"])
 
     if q["migration"]:
         section("Legacy migration pending", "Mixed-mode content awaiting full-text migration.",

@@ -42,7 +42,11 @@
 
 ## Executive Orders
 
-- [Executive orders index](executive-orders/_index.md): none ingested yet.
+- [Executive orders index](executive-orders/_index.md): 526 orders, 2003–present, from
+  the Governor's listing of record. Most sources are image-only scans, so the typical
+  document is metadata + official link only (title, number, raw-byte hash); 19 orders
+  with clean text layers carry verbatim full text. Orders are immutable — check the
+  index or `_meta/catalog/eo.yml` for whether an order has in-repo text before quoting.
 
 ## DAS Policies
 

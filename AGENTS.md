@@ -66,6 +66,18 @@ A state-authored doc may be non-verbatim only with a frontmatter `content_except
 (written justification, e.g. image-only scan with no text layer) or a legacy
 `migration_pending: true` — CI warns instead of failing on those.
 
+**Executive-order exception — hash-only snapshots**: the 500+ EO source PDFs are
+~700 MB of mostly image-only scans, so they are **not** committed to
+`_meta/snapshots/` (frontmatter `snapshot_policy: hash-only`). Orders whose text
+layer passes the ingest quality gate (≥100 words, ≥80% dictionary-recognizable —
+rejects garbage OCR) carry verbatim full text verified against their committed
+small `.txt` extraction; the rest are metadata stubs (`content_exception`) whose
+`source_sha256` is the raw-byte hash of the uncommitted PDF. Never auto-OCR a scan
+into `## Full text`. Orders are immutable: upstream checking watches the listing
+for **new** orders only (`_meta/sources/executive-orders.yml`); ingestion is
+`python3 src/ingest_eo.py --enumerate` / `--ingest`, catalog in
+`_meta/catalog/eo.yml`.
+
 Absolute do-nots:
 
 - **Never** paraphrase, summarize, or "clean up" anything inside `## Full text`; never

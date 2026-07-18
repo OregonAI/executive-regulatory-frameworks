@@ -1,0 +1,4945 @@
+note: 'Listing of record: SharePoint list /gov/eo behind https://www.oregon.gov/gov/pages/executive-orders.aspx
+  (Public view). Ids derive from filenames; 6 rows have wrong Year/Number listing metadata (recorded per-order).
+  Orders are immutable — only NEW orders ever appear.'
+retrieved: '2026-07-18'
+orders:
+- id: eo-03-01
+  status: ingested
+  title: Regulatory Streamlining EO 03-01
+  file_ref: /gov/eo/eo-03-01.pdf
+  listing_year: '2003'
+  listing_number: '1'
+  text_layer: none
+  path: executive-orders/eo-03-01.md
+  sha256: f0cbaed7f49ad61fd7f394f6db593c3ebe15e411ee0be68bad76e04c3188057c
+- id: eo-03-02
+  status: ingested
+  title: Industrial Lands EO 03-02
+  file_ref: /gov/eo/eo-03-02.pdf
+  listing_year: '2003'
+  listing_number: '2'
+  text_layer: none
+  path: executive-orders/eo-03-02.md
+  sha256: 047511f2e7aa6f64ba567528c4783bdb09bab70b89efcd998043e90192b715be
+- id: eo-03-03
+  status: ingested
+  title: Sustainable Oregon EO 03-03
+  file_ref: /gov/eo/eo-03-03.pdf
+  listing_year: '2003'
+  listing_number: '3'
+  text_layer: none
+  path: executive-orders/eo-03-03.md
+  sha256: 8ad3c5a1f36ba1ea5863edb2a3c52c1848bea37d80b0d5d0f83588ef4c85832c
+- id: eo-03-03-letter
+  status: ingested
+  title: Sustainable Oregon EO 03-03 Letter to Secretary of State
+  file_ref: /gov/eo/eo-03-03-letter.pdf
+  listing_year: '2003'
+  listing_number: '3'
+  text_layer: clean (3642 words, 97% dictionary)
+  path: executive-orders/eo-03-03-letter.md
+  sha256: 4e99dcc12a9902d4a50140e85216fda718b41c852c1a7cbbe38f4afd6c9e4cb3
+- id: eo-03-04
+  status: ingested
+  title: Rescission of Executive Orders Declaring Drought Emergencies
+  file_ref: /gov/eo/eo-03-04.pdf
+  listing_year: '2003'
+  listing_number: '4'
+  text_layer: none
+  path: executive-orders/eo-03-04.md
+  sha256: 00b6e7e27138189b8bc73a7194c247325a854867e026f6ae022805607cb656de
+- id: eo-03-05
+  status: ingested
+  title: State of Drought Emergency in Baker, Malheur, Wheeler, Crook and Harney Counties
+  file_ref: /gov/eo/eo-03-05.pdf
+  listing_year: '2003'
+  listing_number: '5'
+  text_layer: none
+  path: executive-orders/eo-03-05.md
+  sha256: 5d5ca1f4264ae11790cd916ad58638fc85f0e1bf5ccdfad1aa8c6827f3e0214e
+- id: eo-03-06
+  status: ingested
+  title: Oregon Commemorative Coin Commission
+  file_ref: /gov/eo/eo-03-06.pdf
+  listing_year: '2003'
+  listing_number: '6'
+  text_layer: none
+  path: executive-orders/eo-03-06.md
+  sha256: 5aae831a229068d4a1ecee6fdfd9d5c65b4215c44a6d3c782c74894727c483ff
+- id: eo-03-08
+  status: ingested
+  title: Governor´s Advisory Committee on Motorcycle Safety
+  file_ref: /gov/eo/eo-03-08.pdf
+  listing_year: '2003'
+  listing_number: '8'
+  text_layer: none
+  path: executive-orders/eo-03-08.md
+  sha256: 811d5235f94327c03181888cc8fe1c9cdd87d32c4c8875e17a01d55d4ed17972
+- id: eo-03-09
+  status: ingested
+  title: State of Drought Emergency in Sherman County and Wallowa County
+  file_ref: /gov/eo/eo-03-09.pdf
+  listing_year: '2003'
+  listing_number: '9'
+  text_layer: none
+  path: executive-orders/eo-03-09.md
+  sha256: 97d0d4c21ecadce6e482f3217b6802c0dd14b81606a1933e0df5ad5b79dbb608
+- id: eo-03-10
+  status: ingested
+  title: State of Emergency Due to the Imminent Threat of Wildfire
+  file_ref: /gov/eo/eo-03-10.pdf
+  listing_year: '2003'
+  listing_number: '10'
+  text_layer: none
+  path: executive-orders/eo-03-10.md
+  sha256: e8eed4bc59befec1bf4f70ab423584a90cd301633543ed2e3db704d52570f6ed
+- id: eo-03-12
+  status: ingested
+  title: State of Drought Emergency in Union County
+  file_ref: /gov/eo/eo-03-12.pdf
+  listing_year: '2003'
+  listing_number: '12'
+  text_layer: none
+  path: executive-orders/eo-03-12.md
+  sha256: 715c7c505317bcdb4f9fc36f561c2d492b127c573e95ac6d6ad9b77141f2d119
+- id: eo-03-13
+  status: ingested
+  title: Conflagration Act - Herman Creek
+  file_ref: /gov/eo/eo-03-13.pdf
+  listing_year: '2003'
+  listing_number: '13'
+  text_layer: none
+  path: executive-orders/eo-03-13.md
+  sha256: a0c076ba6432e22b21e23c567ede1a4c843a819f59ebdb3987b58c5c916dc593
+- id: eo-03-14
+  status: ingested
+  title: Conflagration Act B & B Complex Fire
+  file_ref: /gov/eo/eo-03-14.pdf
+  listing_year: '2003'
+  listing_number: '14'
+  text_layer: none
+  path: executive-orders/eo-03-14.md
+  sha256: 89e679eb48f5f257504f4434fab057bf519713e10b1cb3d1c3cf976eb768e5cd
+- id: eo-03-15
+  status: ingested
+  title: Mental Health Task Force
+  file_ref: /gov/eo/eo-03-15.pdf
+  listing_year: '2003'
+  listing_number: '15'
+  text_layer: none
+  path: executive-orders/eo-03-15.md
+  sha256: 8d944818c0b645b1a99967f94129665ab194ce7a75954911c5397ef9bbead394
+- id: eo-03-16
+  status: ingested
+  title: Workforce Development
+  file_ref: /gov/eo/eo-03-16.pdf
+  listing_year: '2003'
+  listing_number: '16'
+  text_layer: clean (1089 words, 99% dictionary)
+  path: executive-orders/eo-03-16.md
+  sha256: 539941b2397cddecfc9fe9d89669509f832e303f0ad24d1932e0ce971552106f
+- id: eo-04-01
+  status: ingested
+  title: State of Drought Emergency in Klamath County
+  file_ref: /gov/eo/eo-04-01.pdf
+  listing_year: '2004'
+  listing_number: '1'
+  text_layer: none
+  path: executive-orders/eo-04-01.md
+  sha256: ab203f6631108be81ef33f8bfaffd7787b4d0ec8d9b522ae523564f462b0f5e3
+- id: eo-04-02
+  status: ingested
+  title: Juvenile Correction Population Forecasting Committee
+  file_ref: /gov/eo/eo-04-02.pdf
+  listing_year: '2004'
+  listing_number: '2'
+  text_layer: none
+  path: executive-orders/eo-04-02.md
+  sha256: e6af68d2726d3ae268ab2a71fae2c652ab81f4b45590b96573b89d2b86be4128
+- id: eo-04-03
+  status: ingested
+  title: State of Drought Emergency in Malheur and Morrow Counties
+  file_ref: /gov/eo/eo-04-03.pdf
+  listing_year: '2004'
+  listing_number: '3'
+  text_layer: none
+  path: executive-orders/eo-04-03.md
+  sha256: 76bb3e76206c68551dbaa0c09feba9b0c14ea4e09192aa0bf0efc9189e84871d
+- id: eo-04-04
+  status: ingested
+  title: Office of Rural Policy and Rural Policy Advisory Committee
+  file_ref: /gov/eo/eo-04-04.pdf
+  listing_year: '2004'
+  listing_number: '4'
+  text_layer: none
+  path: executive-orders/eo-04-04.md
+  sha256: 13a927095eaafedbe82fdc395c85b8dec8877ada9a5e42c6f6f5f7778d75fbd2
+- id: eo-04-05
+  status: ingested
+  title: Office of Homeland Security
+  file_ref: /gov/eo/eo-04-05.pdf
+  listing_year: '2004'
+  listing_number: '5'
+  text_layer: none
+  path: executive-orders/eo-04-05.md
+  sha256: 65d544262ac6e3e9d61a82120f55e5ea7b3f0ad3866f838903f1fff5593c621d
+- id: eo-05-01
+  status: ingested
+  title: Affirmative Action
+  file_ref: /gov/eo/eo-05-01.pdf
+  listing_year: '2005'
+  listing_number: '1'
+  text_layer: clean (455 words, 99% dictionary)
+  path: executive-orders/eo-05-01.md
+  sha256: f4c8d9fd021296bca68baccd4ec448b1d18a772983393f42c7b635e7de2ee046
+- id: eo-05-02
+  status: ingested
+  title: Baker Klamath Drought
+  file_ref: /gov/eo/eo0502.pdf
+  listing_year: '2005'
+  listing_number: '2'
+  text_layer: none
+  path: executive-orders/eo-05-02.md
+  sha256: e49c4bef77bbe81493716db4b4a20e1d3a89f0a46c7b788d1edf3303078dfd6f
+- id: eo-05-03
+  status: ingested
+  title: Authorization for DOE to Access LEDS
+  file_ref: /gov/eo/eo0503.pdf
+  listing_year: '2005'
+  listing_number: '3'
+  text_layer: none
+  path: executive-orders/eo-05-03.md
+  sha256: 26bcba71c30648256b126aff404e13fd96f290fa61644f4dcf962a9adb00beb3
+- id: eo-05-04
+  status: ingested
+  title: Water Reuse
+  file_ref: /gov/eo/EO0504.pdf
+  listing_year: '2005'
+  listing_number: '4'
+  text_layer: none
+  path: executive-orders/eo-05-04.md
+  sha256: 8530c594fe449fd416251ae8594a3a1d1cb3041a832b98eda70f8066b67b328d
+- id: eo-05-05
+  status: ingested
+  title: Drought April 7, 2005
+  file_ref: /gov/eo/eo0505.pdf
+  listing_year: '2005'
+  listing_number: '5'
+  text_layer: none
+  path: executive-orders/eo-05-05.md
+  sha256: 158f998a50d14d967e33ac25c625280e1ee517daee61e6b48346588bc91c5ad2
+- id: eo-05-06
+  status: ingested
+  title: Drought May 2005
+  file_ref: /gov/eo/EO0506.pdf
+  listing_year: '2005'
+  listing_number: '6'
+  text_layer: none
+  path: executive-orders/eo-05-06.md
+  sha256: e3ef1ca7651fdb1742acb473cffc48cf4c2f4cf0edfc021106ae59b43c89f55d
+- id: eo-05-07
+  status: ingested
+  title: Authorization for the Oregon State Fair and Exposition Center to Law Enforcement Data System
+  file_ref: /gov/eo/EO0507.pdf
+  listing_year: '2005'
+  listing_number: '7'
+  text_layer: none
+  path: executive-orders/eo-05-07.md
+  sha256: c6489cc8882dae96218d9e72d79ca37046cd6f3b0395712251d3befd3637ae80
+- id: eo-05-08
+  status: ingested
+  title: Deer Creek Fire
+  file_ref: /gov/eo/EO0508.pdf
+  listing_year: '2005'
+  listing_number: '8'
+  text_layer: garbage OCR (205 words, 78% dictionary)
+  path: executive-orders/eo-05-08.md
+  sha256: 6f2d861255a20bfb91ecfe1859324f1a242c123921bad9a52f93fed0a188053d
+- id: eo-05-09
+  status: ingested
+  title: Hurricane Katrina
+  file_ref: /gov/eo/EO0509.pdf
+  listing_year: '2005'
+  listing_number: '9'
+  text_layer: garbage OCR (164 words, 74% dictionary)
+  path: executive-orders/eo-05-09.md
+  sha256: 5e44fdc0b4c365d6694ed61a93c9a46ba4f3d40d5ca27828aa251161d3c79c94
+- id: eo-05-10
+  status: ingested
+  title: Child Care Providers
+  file_ref: /gov/eo/EO0510.pdf
+  listing_year: '2005'
+  listing_number: '10'
+  text_layer: none
+  path: executive-orders/eo-05-10.md
+  sha256: 9c4e78444a793962621ca64d5d5088eb095cfae2144e6afd4bb20c9f7ce3ac51
+- id: eo-06-01
+  status: ingested
+  title: Emergency Declaration
+  file_ref: /gov/eo/eo0601.pdf
+  listing_year: '2006'
+  listing_number: '1'
+  text_layer: clean (265 words, 85% dictionary)
+  path: executive-orders/eo-06-01.md
+  sha256: dc0c7480aba5ffd53e9b5674c1c7b6366fa2e2e8a56141d62bf47bc8939be13c
+- id: eo-06-02
+  status: ingested
+  title: Sustainability for the 21st Century
+  file_ref: /gov/eo/eo-06-02.pdf
+  listing_year: '2006'
+  listing_number: '2'
+  text_layer: clean (1702 words, 87% dictionary)
+  path: executive-orders/eo-06-02.md
+  sha256: e9c80a2a147959fa1dfd4a54addd63e589be8e9a60abd61d49b08f11a499f945
+- id: eo-06-03
+  status: ingested
+  title: Governor's Taskforce on Equality
+  file_ref: /gov/eo/eo0603.pdf
+  listing_year: '2006'
+  listing_number: '3'
+  text_layer: garbage OCR (470 words, 62% dictionary)
+  path: executive-orders/eo-06-03.md
+  sha256: b6901e9fe10c373f59a9962e06d1dfd3f8fb57870f80b4f581d9c6034a03eb17
+- id: eo-06-04
+  status: ingested
+  title: Representation of Subsidized, License-Exempt Family Child Care Providers
+  file_ref: /gov/eo/eo0604.pdf
+  listing_year: '2006'
+  listing_number: '4'
+  text_layer: garbage OCR (632 words, 71% dictionary)
+  path: executive-orders/eo-06-04.md
+  sha256: b57989a6686ed6a4dfa9431cd8b3aca13bf6567736370bd54f7ce618d9598ee4
+- id: eo-06-05
+  status: ingested
+  title: State Interagency Council to End Homelessness and Interagency Council on Hunger and Homelessness
+  file_ref: /gov/eo/eo-06-05.pdf
+  listing_year: '2006'
+  listing_number: '5'
+  text_layer: garbage OCR (655 words, 64% dictionary)
+  path: executive-orders/eo-06-05.md
+  sha256: bf1ea16a9fe4f0db3464e330733c85b590902361e0ddbde68672fc988fcabcb2
+- id: eo-06-06
+  status: ingested
+  title: Determination of a State Emergency in Tillamook, Lincoln, Coos and Curry Counties and Coastal
+    Portions of Lane and Douglas Counties Due to Klamath River Basin Conditions and limitations on Ocean
+    Commercial and Sport Salmon Fishing
+  file_ref: /gov/eo/eo0606.pdf
+  listing_year: '2006'
+  listing_number: '6'
+  text_layer: none
+  path: executive-orders/eo-06-06.md
+  sha256: 47ed4d93618904602ed3460cc23ba76b70a641c2ca51f959df22d728b6cd2ffe
+- id: eo-06-07
+  status: ingested
+  title: Amendment to Executive Order 06-06
+  file_ref: /gov/eo/eo-06-07.pdf
+  listing_year: '2006'
+  listing_number: '7'
+  text_layer: none
+  path: executive-orders/eo-06-07.md
+  sha256: 7af2616622a0497d92735c9376ac203d77af84d2f8864926ea3ff129cf65d491
+- id: eo-06-08
+  status: ingested
+  title: Authorization for Access to Law Enforcement Data System
+  file_ref: /gov/eo/eo0608.pdf
+  listing_year: '2006'
+  listing_number: '8'
+  text_layer: clean (221 words, 80% dictionary)
+  path: executive-orders/eo-06-08.md
+  sha256: 68ec53985f63207199f431274d49f42a82042af8ebb968e1d98945a3f51f87c2
+- id: eo-06-09
+  status: ingested
+  title: State Employment Opportunities for Ocean Fishing Industry Workers
+  file_ref: /gov/eo/eo0609.pdf
+  listing_year: '2006'
+  listing_number: '9'
+  text_layer: garbage OCR (204 words, 56% dictionary)
+  path: executive-orders/eo-06-09.md
+  sha256: c6f12e5fc003bc7fc52d0d8bbcef1a4f2552bf79ce16568fcc6c12b0e4220d9a
+- id: eo-06-10
+  status: ingested
+  title: State of Emergency due to imminent threat of wildfire
+  file_ref: /gov/eo/eo0610.pdf
+  listing_year: '2006'
+  listing_number: '10'
+  text_layer: garbage OCR (218 words, 71% dictionary)
+  path: executive-orders/eo-06-10.md
+  sha256: 1f0f1c9f63846be8a0cdec8f938ed9be2d4e259c1779a3ffc5ce8014450e7e2e
+- id: eo-06-11
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for McClean Creek Fire in Baker County
+  file_ref: /gov/eo/eo0611.pdf
+  listing_year: '2006'
+  listing_number: '11'
+  text_layer: garbage OCR (202 words, 74% dictionary)
+  path: executive-orders/eo-06-11.md
+  sha256: 56afacd12625824c2a3b7ca52aa305ee525ea228cd663b40da0a240a90a730d3
+- id: eo-06-12
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for McClean Creek Fire in Deschutes County
+  file_ref: /gov/eo/eo0612.pdf
+  listing_year: '2006'
+  listing_number: '12'
+  text_layer: garbage OCR (187 words, 74% dictionary)
+  path: executive-orders/eo-06-12.md
+  sha256: da9c2ec4ce2059ffc4ff9d86545b81bdbee109e10d3db6ba3ac832c3b76ee25c
+- id: eo-06-13
+  status: ingested
+  title: Governor's Task Force on Methamphetamine
+  file_ref: /gov/eo/eo0613.pdf
+  listing_year: '2007'
+  listing_number: '13'
+  listing_metadata_mismatch: listing says 2007 No. 13; filename (trusted) says 2006 No. 13 — the description
+    matches the filename
+  text_layer: garbage OCR (354 words, 67% dictionary)
+  path: executive-orders/eo-06-13.md
+  sha256: 62985ccf0364dddf2a70debb9906cb9621872b27c45fd02ca414374e3892316a
+- id: eo-06-14
+  status: ingested
+  title: Transportation and Tourism Task Force
+  file_ref: /gov/eo/eo-06-14.pdf
+  listing_year: '2006'
+  listing_number: '14'
+  text_layer: garbage OCR (439 words, 70% dictionary)
+  path: executive-orders/eo-06-14.md
+  sha256: 2c3a6b0978565fb4fb8378491caff293f5a5026b6f43dea57f30842dc2e07823
+- id: eo-06-15
+  status: ingested
+  title: Determination of a State of Emergency in Tillamook County due to Heavy Rain and Flooding
+  file_ref: /gov/eo/eo0615.pdf
+  listing_year: '2006'
+  listing_number: '14'
+  listing_metadata_mismatch: listing says 2006 No. 14; filename (trusted) says 2006 No. 15 — the description
+    matches the filename
+  text_layer: garbage OCR (206 words, 70% dictionary)
+  path: executive-orders/eo-06-15.md
+  sha256: 661bac5f02d4b07fdd1e955ff004bccdc77169ac8804147b87dbc063fc221c04
+- id: eo-06-16
+  status: ingested
+  title: Determination of a State of Emergency in Clatsop, Clackamas, Columbia, Hood River, Multnomah,
+    Lincoln, Tillamook, Lane and Washington Counties due to Heavy Rain and Flooding
+  file_ref: /gov/eo/eo0616.pdf
+  listing_year: '2006'
+  listing_number: '16'
+  text_layer: none
+  path: executive-orders/eo-06-16.md
+  sha256: a4af098102bafca975c1eee78bb4321ea996731fa0d850b68ff2feb62a2086b0
+- id: eo-07-01
+  status: ingested
+  title: Search and Rescue Task Force
+  file_ref: /gov/eo/eo-07-01.pdf
+  listing_year: '2007'
+  listing_number: '1'
+  text_layer: garbage OCR (458 words, 68% dictionary)
+  path: executive-orders/eo-07-01.md
+  sha256: c995b7a2940c44ff3c1bac014d7b25bf4d996faf61269aeb1f2e38f9ce94e065
+- id: eo-07-02
+  status: ingested
+  title: Office of Rural Policy
+  file_ref: /gov/eo/eo0702.pdf
+  listing_year: '2007'
+  listing_number: '2'
+  text_layer: none
+  path: executive-orders/eo-07-02.md
+  sha256: c52634ba07ee8afd6a09dc25c9681faad5a1b09d4ba71ca06ec90d496d16fb11
+- id: eo-07-03
+  status: ingested
+  title: Collective Bargaining with Family Child Care Providers
+  file_ref: /gov/eo/eo-07-03.pdf
+  listing_year: '2007'
+  listing_number: '3'
+  text_layer: none
+  path: executive-orders/eo-07-03.md
+  sha256: 5a59ffb52d09ad49e8215d3570c68251748c1eac417b1fd0a99a6d53e5162943
+- id: eo-07-04
+  status: ingested
+  title: Children's Wraparound
+  file_ref: /gov/eo/eo0704.pdf
+  listing_year: '2007'
+  listing_number: '4'
+  text_layer: none
+  path: executive-orders/eo-07-04.md
+  sha256: 6970dd7f77c6c7b7b6e1e5d43bdebd76a8630abd3038a1f98ba7b86fa377088d
+- id: eo-07-05
+  status: ingested
+  title: Governor's Re-Entry Council
+  file_ref: /gov/eo/es07-05.pdf
+  listing_year: '2007'
+  listing_number: '5'
+  text_layer: none
+  path: executive-orders/eo-07-05.md
+  sha256: 4a54f18b0f4e1ca86d220687a6538d8fd2315af5d15fa15f508a15742ffe3c5e
+- id: eo-07-06
+  status: ingested
+  title: Amends EO 99-09 Regarding Governor's Advisory Committee on Motorcycle Safety
+  file_ref: /gov/eo/eo-07-06.pdf
+  listing_year: '2007'
+  listing_number: '6'
+  text_layer: none
+  path: executive-orders/eo-07-06.md
+  sha256: a2908b64e1d2f7cca8ebc6c46a5e55e7f89194f3b74491d1d92ee8970454d83e
+- id: eo-07-07
+  status: ingested
+  title: Collective Bargaining with Adult Foster Home Providers
+  file_ref: /gov/eo/eo-07-07.pdf
+  listing_year: '2007'
+  listing_number: '7'
+  text_layer: none
+  path: executive-orders/eo-07-07.md
+  sha256: d16c1be5c6750d859f7057f6c651752974eabb0cb07896e79e91a48bac5d56d0
+- id: eo-07-08
+  status: ingested
+  title: Conflagration Act - Harney County
+  file_ref: /gov/eo/eo-07-08.pdf
+  listing_year: '2007'
+  listing_number: '8'
+  text_layer: none
+  path: executive-orders/eo-07-08.md
+  sha256: d3abf55a7737bd3bb2be85daedb9c43d47bf6979ace22af8cfba2a321cbcbbf0
+- id: eo-07-09
+  status: ingested
+  title: Declaring an Emergency-Fire Danger
+  file_ref: /gov/eo/eo-07-09.pdf
+  listing_year: '2007'
+  listing_number: '9'
+  text_layer: none
+  path: executive-orders/eo-07-09.md
+  sha256: ff3e17327ee6df02bfad98c86e01dcee0869d7e4efed9d788b8abefa345d7fa7
+- id: eo-07-10
+  status: ingested
+  title: Determination of a State of Drought Emergency in Baker, Harney and Union Counties Due to Drought
+    and Low Water Conditions
+  file_ref: /gov/eo/eo0710.pdf
+  listing_year: '2007'
+  listing_number: '19'
+  listing_metadata_mismatch: listing says 2007 No. 19; filename (trusted) says 2007 No. 10 — the description
+    matches the filename
+  text_layer: none
+  path: executive-orders/eo-07-10.md
+  sha256: 81cdd184e5b002f199d62c35a6a2374be6153314e0d63681a43c1112ac16e51a
+- id: eo-07-11
+  status: ingested
+  title: Determination of a State of Drought Emergency in Malheur County Due to Drought and Low Water
+    Conditions
+  file_ref: /gov/eo/eo-07-11.pdf
+  listing_year: '2007'
+  listing_number: '11'
+  text_layer: none
+  path: executive-orders/eo-07-11.md
+  sha256: b7eccfe1901bb9443d93888db8f5634e127c3c554d80635669b502472817919c
+- id: eo-07-12
+  status: ingested
+  title: Governor's Process for Calculating the Essential Budget Level for the Community College Support
+    Fund
+  file_ref: /gov/eo/eo-07-12.pdf
+  listing_year: '2007'
+  listing_number: '12'
+  text_layer: none
+  path: executive-orders/eo-07-12.md
+  sha256: 72611c810c9190042816ba43fe2da03ff3e9049b6755751a191fe77fa8d3d192
+- id: eo-07-13
+  status: ingested
+  title: Post-Secondary Quality Education Commission
+  file_ref: /gov/eo/eo-07-13.pdf
+  listing_year: '2007'
+  listing_number: '13'
+  text_layer: none
+  path: executive-orders/eo-07-13.md
+  sha256: e38148ec4df21f2136259a109bed3d74c1bc47237918548d252f2476c474508f
+- id: eo-07-14
+  status: ingested
+  title: Conflagration Act - Deschutes County
+  file_ref: /gov/eo/eo-07-14.pdf
+  listing_year: '2007'
+  listing_number: '14'
+  text_layer: none
+  path: executive-orders/eo-07-14.md
+  sha256: 86b1ecb30e7b72ce772df624bd816e176200b8908f42786ac579b4e9185d13ba
+- id: eo-07-15
+  status: ingested
+  title: Authorization for Access to Law Enforcement Data System
+  file_ref: /gov/eo/eo-07-15.pdf
+  listing_year: '2007'
+  listing_number: '15'
+  text_layer: none
+  path: executive-orders/eo-07-15.md
+  sha256: ed8fc9a90f1f526f49415bc3f0359fa2a782022ef74e3dbe27069d6372bf5791
+- id: eo-07-16
+  status: ingested
+  title: Determination of a State of Drought Emergency in Lake County Due to Drought and Low Water Conditions
+  file_ref: /gov/eo/eo-07-16.pdf
+  listing_year: '2007'
+  listing_number: '16'
+  text_layer: none
+  path: executive-orders/eo-07-16.md
+  sha256: 6b77133c8ad526c2cf047d22abf11ea4ddbb34a6d2043ea882b47b4bb28cfe00
+- id: eo-07-17
+  status: ingested
+  title: Domestic Violence in the Workplace
+  file_ref: /gov/eo/eo-07-17.pdf
+  listing_year: '2007'
+  listing_number: '17'
+  text_layer: clean (638 words, 99% dictionary)
+  path: executive-orders/eo-07-17.md
+  sha256: 6d9daa60262bebdd0867704530080650c59a8f9c005e6a4b8ad214e247cf6c3d
+- id: eo-07-18
+  status: ingested
+  title: Determination of a State of Drought Emergency in Grant County Due to Drought and Low Water Conditions
+  file_ref: /gov/eo/eo-07-18.pdf
+  listing_year: '2007'
+  listing_number: '18'
+  text_layer: garbage OCR (174 words, 66% dictionary)
+  path: executive-orders/eo-07-18.md
+  sha256: 50d88b7ef8d0af94f6e705fc8fa0bca141c4fcd47dc32621962f0bc1bace0a94
+- id: eo-07-19
+  status: ingested
+  title: Authorization for Access to Law Enforcement Data System
+  file_ref: /gov/eo/eo-07-19.pdf
+  listing_year: '2007'
+  listing_number: '19'
+  text_layer: garbage OCR (130 words, 57% dictionary)
+  path: executive-orders/eo-07-19.md
+  sha256: 190243e9002a2b67536558aabbc8aae20115782d91353a612e39ad38be87722a
+- id: eo-07-20
+  status: ingested
+  title: Collective Bargaining with Relative Adult Foster Home Providers
+  file_ref: /gov/eo/eo-07-20.pdf
+  listing_year: '2007'
+  listing_number: '29'
+  listing_metadata_mismatch: listing says 2007 No. 29; filename (trusted) says 2007 No. 20 — the description
+    matches the filename
+  text_layer: none
+  path: executive-orders/eo-07-20.md
+  sha256: 1e3e14c439442bc1eb53134d64ae3feccb4905b556f80ef4939b2959e92d0e95
+- id: eo-07-21-a
+  status: ingested
+  title: Governor's Task Force on Federal Forest Payments and County Services
+  file_ref: /gov/eo/eo-07-21-a.pdf
+  listing_year: '2007'
+  listing_number: '21'
+  text_layer: clean (1088 words, 99% dictionary)
+  path: executive-orders/eo-07-21-a.md
+  sha256: 0a81a84727338473a4c8be0a0259dfc3b357ada5451e0e115e6858a5617441b5
+- id: eo-07-22
+  status: ingested
+  title: 'Standards for Issuance of Oregon Driver Licenses and Identification CardsExecutive Order 07-21:
+    Governor''s Task Force on Federal Forest Payments and County Services'
+  file_ref: /gov/eo/eo-07-22.pdf
+  listing_year: '2007'
+  listing_number: '22'
+  text_layer: clean (1232 words, 97% dictionary)
+  path: executive-orders/eo-07-22.md
+  sha256: d47c9895739616683ef50765828d337aa7648b3cbc0a32f3449491180efcecbc
+- id: eo-07-23
+  status: ingested
+  title: Search and Rescue Policy Commission
+  file_ref: /gov/eo/eo-07-23.pdf
+  listing_year: '2007'
+  listing_number: '23'
+  text_layer: none
+  path: executive-orders/eo-07-23.md
+  sha256: b4f291aa78fd3f84933ab3d1b34f069f59709ba070389bf6a430752a18f861e9
+- id: eo-07-24
+  status: ingested
+  title: Determination of State of Emergency in Oregon Due to a Severe Winter Storm that Includes High
+    Winds, Flooding, and Landslides
+  file_ref: /gov/eo/eo-07-24.pdf
+  listing_year: '2007'
+  listing_number: '24'
+  text_layer: none
+  path: executive-orders/eo-07-24.md
+  sha256: fcb72e40e9180be58ef8601543e5c3a012c15c7434d420e30298c0e475486919
+- id: eo-07-25
+  status: ingested
+  title: Declaration of Abnormal Disruption of the Market in Clatsop, Columbia and Tillamook Counties
+    Due to Severe Winter Storm, Winds and Flooding
+  file_ref: /gov/eo/eo-07-25.pdf
+  listing_year: '2007'
+  listing_number: '25'
+  text_layer: none
+  path: executive-orders/eo-07-25.md
+  sha256: 64c3ba4faa76713ab4cefd40f4d07d3c905146636566c54d497a641c0eee8d96
+- id: eo-07-26-a
+  status: ingested
+  title: Amendment to Executive Order 07-21
+  file_ref: /gov/eo/eo-07-26-a.pdf
+  listing_year: '2007'
+  listing_number: '26'
+  text_layer: none
+  path: executive-orders/eo-07-26-a.md
+  sha256: 3f8aa4d812aaec6e10f532520cfc4e97e9a879c7e08dbb26d29271edeacaaa17
+- id: eo-07-27
+  status: ingested
+  title: Regulatory Extensions and Waivers for those Affected by the State of Emergency, Storm and Flood
+  file_ref: /gov/eo/eo-07-27.pdf
+  listing_year: '2007'
+  listing_number: '27'
+  text_layer: none
+  path: executive-orders/eo-07-27.md
+  sha256: b95173cff36cf5630f0e66e39c300b15123d8ffb11499d558ed180945c29f4b7
+- id: eo-08-01
+  status: ingested
+  title: Determination of State of Emergency in Umatilla County Due to Severe Winter Storm and High Winds
+  file_ref: /gov/eo/eo-08-01.pdf
+  listing_year: '2008'
+  listing_number: '1'
+  text_layer: none
+  path: executive-orders/eo-08-01.md
+  sha256: c6ce954ca9a32c44b79cac1c2c7e15d138802ef3f65d1c1b5f6cd9bdec58e438
+- id: eo-08-02
+  status: ingested
+  title: Determination of State of Emergency in Union County Due to Severe Winter Storm and High Winds
+  file_ref: /gov/eo/eo--08-02.pdf
+  listing_year: '2008'
+  listing_number: '2'
+  text_layer: none
+  path: executive-orders/eo-08-02.md
+  sha256: e13934279d07705b5bd96cc462460172c96add79724cd4c5e497ab843d858e23
+- id: eo-08-03
+  status: ingested
+  title: Oregon Small Business Advisory Council
+  file_ref: /gov/eo/eo-08-03.pdf
+  listing_year: '2008'
+  listing_number: '3'
+  text_layer: none
+  path: executive-orders/eo-08-03.md
+  sha256: b461a9f28f3ae638469e30d5845b57aca43838dedad989b7c9f037dd34718c09
+- id: eo-08-04
+  status: ingested
+  title: Determination of State of Emergency in Lake and Marion Counties Due to Severe Winter Storm
+  file_ref: /gov/eo/eo-08-04.pdf
+  listing_year: '2008'
+  listing_number: '4'
+  text_layer: none
+  path: executive-orders/eo-08-04.md
+  sha256: d8a89644a7484306443f9288bf9bad246addc7a743db1fb5133be7d9f5bc2293
+- id: eo-08-05
+  status: ingested
+  title: Governor's Task Force on Campus Safety in Oregon
+  file_ref: /gov/eo/eo-08-05.pdf
+  listing_year: '2008'
+  listing_number: '5'
+  text_layer: none
+  path: executive-orders/eo-08-05.md
+  sha256: 12733d94c0618cc4403ee796d905fb0d87458ad9679bb64b59d435db1460d519
+- id: eo-08-06
+  status: ingested
+  title: Amendment to Executive Order No. 08-04
+  file_ref: /gov/eo/eo-08-06.pdf
+  listing_year: '2008'
+  listing_number: '6'
+  text_layer: none
+  path: executive-orders/eo-08-06.md
+  sha256: 5cd25ca527403082a48fb84f28ff4e71fbb20449056e88c0538508c0800ed8b4
+- id: eo-08-07
+  status: ingested
+  title: Directing State Agencies to Protect Coastal Communities in Siting Marine Reserves and Wave Energy
+    Projects
+  file_ref: /gov/eo/eo-08-07.pdf
+  listing_year: '2008'
+  listing_number: '7'
+  text_layer: none
+  path: executive-orders/eo-08-07.md
+  sha256: 7949111e9167d404f6f5f84815cc278de43227fe5b2cfd8628dd5ba47cb44119
+- id: eo-08-08
+  status: ingested
+  title: Governor's Task Force on Veterans Services
+  file_ref: /gov/eo/eo-08-08.pdf
+  listing_year: '2008'
+  listing_number: '8'
+  text_layer: none
+  path: executive-orders/eo-08-08.md
+  sha256: 3de3ca0f5e6291b005dfb29e51d6b5f66a1a1cc488d1d070235ca99d013f5345
+- id: eo-08-09
+  status: ingested
+  title: Governor's Health Information Infrastructure Advisory Committee
+  file_ref: /gov/eo/eo-08-09.pdf
+  listing_year: '2008'
+  listing_number: '9'
+  text_layer: none
+  path: executive-orders/eo-08-09.md
+  sha256: 5ea7a55a58e48c6e15197e69a86f410685d4bc002117c26cbc887637de58c708
+- id: eo-08-10
+  status: ingested
+  title: Determination of a State of Emergency in Tillamook, Lincoln, Coos, Clatsop and Curry Counties
+    and Coastal Portions of Lane and Douglas Counties Due to Limitations of Ocean Commercial and Sport
+    Salmon Fishing
+  file_ref: /gov/eo/eo-08-10.pdf
+  listing_year: '2008'
+  listing_number: '10'
+  text_layer: none
+  path: executive-orders/eo-08-10.md
+  sha256: f92e4b585bda364600db6a2510d48b64feb4778b43f348b1aa3d3a535f1cf1c8
+- id: eo-08-11
+  status: ingested
+  title: Restructuring Oregon Economic and Community Development Department
+  file_ref: /gov/eo/eo-08-11.pdf
+  listing_year: '2008'
+  listing_number: '11'
+  text_layer: none
+  path: executive-orders/eo-08-11.md
+  sha256: b5df8dafb3c47ed17518f2d12824928e4e9e4f29ea12f756d619325c2ae530eb
+- id: eo-08-12
+  status: ingested
+  title: Designating the Mark O. Hatfield Chair of the Oregon Health & Science University Board of Directors
+  file_ref: /gov/eo/eo-08-12.pdf
+  listing_year: '2008'
+  listing_number: '12'
+  text_layer: none
+  path: executive-orders/eo-08-12.md
+  sha256: d89dfccd98672b17c61351fdd220398da082f09d2dd45817a9b98555c1091b4e
+- id: eo-08-13
+  status: ingested
+  title: Amendment to Executive Order 08-03 on Oregon Small Business Advisory Council
+  file_ref: /gov/eo/eo-08-13.pdf
+  listing_year: '2008'
+  listing_number: '13'
+  text_layer: none
+  path: executive-orders/eo-08-13.md
+  sha256: 72aae9087cfed54b701ce9e18a4ef4a9ef9cfae172d0deb96a83b56853471dd7
+- id: eo-08-14
+  status: ingested
+  title: Amendment to Executive Order 08-05 Establishing Governor's Task Force on Campus Safety in Oregon
+  file_ref: /gov/eo/eo-08-14.pdf
+  listing_year: '2008'
+  listing_number: '14'
+  text_layer: none
+  path: executive-orders/eo-08-14.md
+  sha256: b4f5a54ad202817a8ae8bc0150063972074f49a609e9a3d42e1dd868139ead3d
+- id: eo-08-15
+  status: ingested
+  title: Amendment to Executive Order 04-02 Establishing the Juvenile Correction Population Forecasting
+    Advisory Committee
+  file_ref: /gov/eo/eo-08-15.pdf
+  listing_year: '2008'
+  listing_number: '15'
+  text_layer: none
+  path: executive-orders/eo-08-15.md
+  sha256: 0113f448a35976cc2a85c3310e17190a05dc859c9cdea4e8ba4a5c5d6cc92ca2
+- id: eo-08-16
+  status: ingested
+  title: Promoting Diversity and Equal Opportunity for Minority and Women owned Businesses
+  file_ref: /gov/eo/eo-08-16.pdf
+  listing_year: '2008'
+  listing_number: '16'
+  text_layer: none
+  path: executive-orders/eo-08-16.md
+  sha256: 634185efb1a9e599f4e6da5e98a84eae9b0f7fc8bbc947db1b62fd42a1ee14bd
+- id: eo-08-16-letter
+  status: ingested
+  title: Promoting Diversity and Equal Opportunity for Minority and Women owned Businesses (letter)
+  file_ref: /gov/eo/eo-08-16-letter.pdf
+  listing_year: '2008'
+  listing_number: '16'
+  text_layer: none
+  path: executive-orders/eo-08-16-letter.md
+  sha256: 94af129a6ecac70a304119242f88dcf5ecacaa6f94c516ac931bdfd20cb88efb
+- id: eo-08-17
+  status: ingested
+  title: Authorization for Department of Education Access to Law Enforcement Data System
+  file_ref: /gov/eo/eo-08-17.pdf
+  listing_year: '2008'
+  listing_number: '17'
+  text_layer: none
+  path: executive-orders/eo-08-17.md
+  sha256: 2a0e9bddaa259cb026f84761ad0a148e67779b4c8aea32d373fa885d79683a75
+- id: eo-08-18
+  status: ingested
+  title: Amending Executive Order 05-01 Relating to Affirmative Action
+  file_ref: /gov/eo/eo-08-18.pdf
+  listing_year: '2008'
+  listing_number: '18'
+  text_layer: none
+  path: executive-orders/eo-08-18.md
+  sha256: 5027fb81ab8e87140d04f41e1b57c1ae17b25f6f33406e9e22abeb3d9e91a7db
+- id: eo-08-19
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for Scappoose Rural Fire Protection District in Columbia
+    County
+  file_ref: /gov/eo/eo-08-19.pdf
+  listing_year: '2008'
+  listing_number: '19'
+  text_layer: none
+  path: executive-orders/eo-08-19.md
+  sha256: 9c668abee33cdd469cd14d936f72ad1cc368c22cc90bf596b980a370a578cf7c
+- id: eo-08-20
+  status: ingested
+  title: Governor's Emergency Recovery Framework
+  file_ref: /gov/eo/eo-08-20.pdf
+  listing_year: '2008'
+  listing_number: '20'
+  text_layer: none
+  path: executive-orders/eo-08-20.md
+  sha256: e497ff29c0bfde3c4d2c1bcfbf6ab1a2f440cc97bcd2e066330414d790d6fcf8
+- id: eo-08-21
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Royce Butte fire in Klamath County
+  file_ref: /gov/eo/eo-08-21.pdf
+  listing_year: '2008'
+  listing_number: '21'
+  text_layer: none
+  path: executive-orders/eo-08-21.md
+  sha256: 8459ad874c553eabf5736630718500d9b2c51c8a2f7fb390644fefb754ce322e
+- id: eo-08-22
+  status: ingested
+  title: Determination of a State of Drought Emergency in Sherman County Due to Drought and Low Water
+    Conditions
+  file_ref: /gov/eo/eo-08-22.pdf
+  listing_year: '2008'
+  listing_number: '22'
+  text_layer: none
+  path: executive-orders/eo-08-22.md
+  sha256: e415358910f8d5014a20dcdf68c7f4db33401d7dfb499f7f7e30379bc3dc6fd5
+- id: eo-08-23
+  status: ingested
+  title: Determination of a State of Drought Emergency in Gilliam County Due to Drought and Extreme Weather
+    Conditions
+  file_ref: /gov/eo/eo-08-23.pdf
+  listing_year: '2008'
+  listing_number: '23'
+  text_layer: none
+  path: executive-orders/eo-08-23.md
+  sha256: 3e56a68972b6c142af028a9c6f66ca1d2474cfa52ad455a62234a05ae8819cae
+- id: eo-08-24
+  status: ingested
+  title: Oregon's Alternative Fuel Infrastructure
+  file_ref: /gov/eo/eo-08-24.pdf
+  listing_year: '2008'
+  listing_number: '24'
+  text_layer: none
+  path: executive-orders/eo-08-24.md
+  sha256: 1ce2fd9ab570bd94f57d329707033573d0f26c13cc4c64a84493369e52cb47f3
+- id: eo-08-25
+  status: ingested
+  title: Amendment to Executive Order 06-14 Establishing Transportation and Tourism Task Force
+  file_ref: /gov/eo/eo-08-25.pdf
+  listing_year: '2008'
+  listing_number: '25'
+  text_layer: none
+  path: executive-orders/eo-08-25.md
+  sha256: 4cdc26832f8a800cf4a84bae1d574238213c38a3ffeaf3e32e0830bea0f9e6c2
+- id: eo-08-26-rev
+  status: ingested
+  title: Oregon Energy Planning Council
+  file_ref: /gov/eo/eo-08-26-rev.pdf
+  listing_year: '2008'
+  listing_number: '26'
+  text_layer: none
+  path: executive-orders/eo-08-26-rev.md
+  sha256: 66a181b63665cd17549b501a8df0824586f1ff317a37170f72aa26e6dce0abbc
+- id: eo-08-27
+  status: ingested
+  title: Determination of a State of Emergency in Multnomah and Columbia Counties Due to Severe Winter
+    Weather
+  file_ref: /gov/eo/eo-08-27.pdf
+  listing_year: '2008'
+  listing_number: '27'
+  text_layer: none
+  path: executive-orders/eo-08-27.md
+  sha256: e6b88a35e4d8d94260622c4b72acd0830a0b63ebb224c77ca5198c3b65f88f7d
+- id: eo-08-28
+  status: ingested
+  title: Determination of a State of Emergency in Clackamas County Due to Severe Winter Weather
+  file_ref: /gov/eo/eo-08-28.pdf
+  listing_year: '2008'
+  listing_number: '28'
+  text_layer: none
+  path: executive-orders/eo-08-28.md
+  sha256: f1743ef4f3f572d60397fb58144c8b04b3b3951236f099ce8af0aed63ff761b1
+- id: eo-08-29
+  status: ingested
+  title: Amendment to Determination of a State Emergency in All Areas Where Milk Delivery is Affected
+    by Severe Winter Weather
+  file_ref: /gov/eo/eo-08-29.pdf
+  listing_year: '2008'
+  listing_number: '29'
+  text_layer: none
+  path: executive-orders/eo-08-29.md
+  sha256: 97010958950553eb92157027e22c8a1756d7cfb5a29474494c2b6bb4c17e0be5
+- id: eo-09-01
+  status: ingested
+  title: Determination of a State of Emergency in Clackamas County Due to Severe Winter Weather, Including
+    Heavy Rain, Snow Melt, and Flooding
+  file_ref: /gov/eo/eo-09-01.pdf
+  listing_year: '2009'
+  listing_number: '1'
+  text_layer: none
+  path: executive-orders/eo-09-01.md
+  sha256: 6672111ac4578264a355161eae741bbabee6f3e5d8f46a5d7afb8cbe5bfd584b
+- id: eo-09-02-rev
+  status: ingested
+  title: Task Force on Disproportionality in Child Welfare
+  file_ref: /gov/eo/eo-09-02-rev.pdf
+  listing_year: '2009'
+  listing_number: '2'
+  text_layer: none
+  path: executive-orders/eo-09-02-rev.md
+  sha256: 692b38ea7c5256fc0080477eb6f694e8171fcfd531331b13bf38598a87fb9c67
+- id: eo-09-03
+  status: ingested
+  title: Connecting Oregon's Veterans with Services and Benefits
+  file_ref: /gov/eo/eo-09-03.pdf
+  listing_year: '2009'
+  listing_number: '3'
+  text_layer: none
+  path: executive-orders/eo-09-03.md
+  sha256: f523928508cb774e6518504c36dea90568fcbd7a3532bf37dc3f8d23657c12dc
+- id: eo-09-04
+  status: ingested
+  title: Determination of State of Emergency in Columbia, Clackamas, Tillamook, Clatsop, Lincoln, Yamhill,
+    Polk, Benton, Marion and Wasco Counties Due to Severe Winter Weather Including Flooding, Landslides
+    and Wind
+  file_ref: /gov/eo/eo-09-04.pdf
+  listing_year: '2009'
+  listing_number: '4'
+  text_layer: none
+  path: executive-orders/eo-09-04.md
+  sha256: da4e283fdf5613687bd9e8f5ed846c9ccf66194680f366fcf318c008dc178144
+- id: eo-09-05
+  status: ingested
+  title: Amending Executive Order 0902
+  file_ref: /gov/eo/eo-09-05.pdf
+  listing_year: '2009'
+  listing_number: '5'
+  text_layer: none
+  path: executive-orders/eo-09-05.md
+  sha256: fac3adb3a26ae41cadf172db5aa65525da6d08a63461dfcadedc4d7d07a7ca9b
+- id: eo-09-06-r
+  status: ingested
+  title: Using Oregon's Green Advantage to Maximize the Federal Economic Recovery Package
+  file_ref: /gov/eo/eo-09-06-r.pdf
+  listing_year: '2009'
+  listing_number: '6'
+  text_layer: none
+  path: executive-orders/eo-09-06-r.md
+  sha256: 5fb8340012b2fdad526b5ae27fd2063bf279d13a1b57a3ce40db1f0bc8d061f2
+- id: eo-09-07-r
+  status: ingested
+  title: Establishing Oregon Commission on Autism Spectrum Disorder
+  file_ref: /gov/eo/eo-09-07-r.pdf
+  listing_year: '2009'
+  listing_number: '7'
+  text_layer: none
+  path: executive-orders/eo-09-07-r.md
+  sha256: e519b3bca5950fc4bdb8d3b57d78ddc3a4c3ae15e73082e532bfe2e7a4fb7a0a
+- id: eo-09-08
+  status: ingested
+  title: Determination of a State of Emergency in Tillamook, Lincoln, Coos, Clatsop and Curry Counties
+    and Coastal Portions of Lane and Douglas Counties Due to Limitations on Ocean Commercial and Sport
+    Salmon Fishing
+  file_ref: /gov/eo/eo-09-08.pdf
+  listing_year: '2009'
+  listing_number: '8'
+  text_layer: none
+  path: executive-orders/eo-09-08.md
+  sha256: 1b65986d7a1d3d16ee1b71b4f1c5d03eed8967e009b0bce4156bd967bddeb79e
+- id: eo-09-09
+  status: ingested
+  title: Amending Executive Order 09-03 Regarding Connecting Oregon's Veterans with Services and Benefits
+  file_ref: /gov/eo/eo-09-09.pdf
+  listing_year: '2009'
+  listing_number: '9'
+  text_layer: none
+  path: executive-orders/eo-09-09.md
+  sha256: 1197a0d33312eeca50e09dae399988c9339c9a848f0bb5f284b251c1721d85ec
+- id: eo-09-10
+  status: ingested
+  title: Amending Executive Order 03-01 Regarding Regulatory Streamlining
+  file_ref: /gov/eo/eo-09-10.pdf
+  listing_year: '2009'
+  listing_number: '10'
+  text_layer: none
+  path: executive-orders/eo-09-10.md
+  sha256: f2bfe9cec4196ff579e144609acd95417364b547f33805ae3514932202b3db20
+- id: eo-09-11-rev
+  status: ingested
+  title: Oregon Health Authority Planning and Implementation
+  file_ref: /gov/eo/eo-09-11-rev.pdf
+  listing_year: '2009'
+  listing_number: '11'
+  text_layer: none
+  path: executive-orders/eo-09-11-rev.md
+  sha256: 68e73796b007cd883314b6d5919ac56e977c3520b0a76eefc1c88b1f9db466d7
+- id: eo-09-12
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Microwave Fire in Hood River and Wasco Counties
+  file_ref: /gov/eo/eo-09-12.pdf
+  listing_year: '2009'
+  listing_number: '12'
+  text_layer: none
+  path: executive-orders/eo-09-12.md
+  sha256: 86d163eb9ffda3114dfe9fadd4972537c0f1bd32d56da44501cfbf4dea2d95dc
+- id: eo-09-13
+  status: ingested
+  title: Governor's Reset Cabinet
+  file_ref: /gov/eo/eo-09-13.pdf
+  listing_year: '2009'
+  listing_number: '13'
+  text_layer: none
+  path: executive-orders/eo-09-13.md
+  sha256: a40c9d9595a14144d77e477eb05ef9abdf25b14852219c40fd4c602c235cf9c5
+- id: eo-09-14
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Siskiyou Fire in Jackson County
+  file_ref: /gov/eo/eo-09-14.pdf
+  listing_year: '2009'
+  listing_number: '14'
+  text_layer: none
+  path: executive-orders/eo-09-14.md
+  sha256: ba1e9c00fc530a8269ee417d9c3e9b5bc34166583c7a78f53883eea846c90531
+- id: eo-09-15
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Deer Ridge Fire in Jackson County
+  file_ref: /gov/eo/eo-09-15.pdf
+  listing_year: '2009'
+  listing_number: '15'
+  text_layer: none
+  path: executive-orders/eo-09-15.md
+  sha256: 41a588a6426538f11c5f922c35cf2da0b80d6ca2af04d52c6d57979cf304e31f
+- id: eo-09-16-rev
+  status: ingested
+  title: Implementing the State Response to Pandemic H1N1 Influenza
+  file_ref: /gov/eo/eo-09-16-rev.pdf
+  listing_year: '2009'
+  listing_number: '16'
+  text_layer: none
+  path: executive-orders/eo-09-16-rev.md
+  sha256: 90a2b2ef59f31033dc0dd9b2068ae5aa4124bc7d53e0bdab23df6a291ee5bfd3
+- id: eo-09-17
+  status: ingested
+  title: Granting State Public Health Director Additional Authority to Respond to Pandemic H1N1 Influenza
+  file_ref: /gov/eo/eo-09-17.pdf
+  listing_year: '2009'
+  listing_number: '17'
+  text_layer: none
+  path: executive-orders/eo-09-17.md
+  sha256: c798dbc3f34ee43d306dc55fbeba81cda7b0a55322e7eef8f1cbbd44a2e044cb
+- id: eo-10-01
+  status: ingested
+  title: Preserving and Enhancing Oregon's Historic Downtowns
+  file_ref: /gov/eo/eo-1001.pdf
+  listing_year: '2010'
+  listing_number: '1'
+  text_layer: none
+  path: executive-orders/eo-10-01.md
+  sha256: 209ad334290f7169ecc7c76c4a4565da05080258992145a689584944a22cc150
+- id: eo-10-02
+  status: ingested
+  title: Amending Executive Order 07-23 Establishing Search and Rescue Policy Commission
+  file_ref: /gov/eo/eo-10-02.pdf
+  listing_year: '2010'
+  listing_number: '2'
+  text_layer: none
+  path: executive-orders/eo-10-02.md
+  sha256: cfda5bcf8a0df0663e23566509498bfd35e1a9fd0521459dff62de8e07a00b47
+- id: eo-10-03
+  status: ingested
+  title: Determination of a State of Drought Emergency in Klamath County and Contiguous Counties due to
+    Drought and Extreme Weather Conditions
+  file_ref: /gov/eo/eo-10-03.pdf
+  listing_year: '2010'
+  listing_number: '3'
+  text_layer: none
+  path: executive-orders/eo-10-03.md
+  sha256: 3acc4dfe886f6c1c78b18d8282405b350a464d25e8d4515d6a5c0157b073f084
+- id: eo-10-04
+  status: ingested
+  title: Amending Executive Order 07-23 Establishing Search and Rescue Policy Commission
+  file_ref: /gov/eo/eo-10-04.pdf
+  listing_year: '2010'
+  listing_number: '4'
+  text_layer: none
+  path: executive-orders/eo-10-04.md
+  sha256: 6f22637d8043347567018f0cc7cf23792cd0ba1d5d1068ce82172e6f65a4ea54
+- id: eo-10-05
+  status: ingested
+  title: Authorization for Oregon Liquor Control Commission Access to Law Enforcement Data System
+  file_ref: /gov/eo/eo-10-05.pdf
+  listing_year: '2010'
+  listing_number: '5'
+  text_layer: none
+  path: executive-orders/eo-10-05.md
+  sha256: a73ab9bfe837cbf256562673c1283d631d74c46e33261e2b50ceaa92f4b5f390
+- id: eo-10-06
+  status: ingested
+  title: Establishment of the Early Childhood Matters Advisory Council
+  file_ref: /gov/eo/eo-10-06.pdf
+  listing_year: '2010'
+  listing_number: '6'
+  text_layer: none
+  path: executive-orders/eo-10-06.md
+  sha256: 3c004826832928697b88d440e0e4861dcfe2222497fc1ea8ac534c1af6bf48ea
+- id: eo-10-07
+  status: ingested
+  title: Rebuilding Vernonia's Schools and the Surrounding Community in the Wake of the December 2007
+    Storm
+  file_ref: /gov/eo/eo-10-07.pdf
+  listing_year: '2010'
+  listing_number: '7'
+  text_layer: none
+  path: executive-orders/eo-10-07.md
+  sha256: 2eb828aa5e6161e62f2398702970270663daa5fea374e8667d9de71bfb827643
+- id: eo-10-08
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the D. Harris Fire in Wasco County
+  file_ref: /gov/eo/eo-10-08.pdf
+  listing_year: '2010'
+  listing_number: '8'
+  text_layer: none
+  path: executive-orders/eo-10-08.md
+  sha256: 1a80cb6a8e788c7f4895622e5a068e8a92aa3c19c5cf39500bf4dd412a1dd2fe
+- id: eo-10-09
+  status: ingested
+  title: Transportation Electrification Executive Council
+  file_ref: /gov/eo/eo-10-09.pdf
+  listing_year: '2010'
+  listing_number: '9'
+  text_layer: none
+  path: executive-orders/eo-10-09.md
+  sha256: 29fa2b59536d1360ab782c72aabe7c8409c4eb5563b93dd4dd5ef2dd314d0933
+- id: eo-10-10
+  status: ingested
+  title: Implementing the Klamath Basin Restoration Agreement and Klamath Hydroelectric Settlement Agreement
+  file_ref: /gov/eo/eo-10-10.pdf
+  listing_year: '2010'
+  listing_number: '10'
+  text_layer: none
+  path: executive-orders/eo-10-10.md
+  sha256: 48d02d7160b082841f80379516c2ba092538b0c384db11eedea0764dc242a139
+- id: eo-10-11
+  status: ingested
+  title: Governor's Executive Order on Long-Range Capital Planning
+  file_ref: /gov/eo/eo-10-11.pdf
+  listing_year: '2010'
+  listing_number: '11'
+  text_layer: none
+  path: executive-orders/eo-10-11.md
+  sha256: 9c9ac7eac16ca9417b3ce0d1ed43adcd5993b5259f88c75076f45a0c8b14c2b6
+- id: eo-10-12
+  status: ingested
+  title: Goveror's Commission on Public Safety (CPS)
+  file_ref: /gov/eo/eo-10-12.pdf
+  listing_year: '2010'
+  listing_number: '12'
+  text_layer: none
+  path: executive-orders/eo-10-12.md
+  sha256: c80ad4e5e0758336d37c57ad6f768be6bf9a3c205733db81fe1369eb8e4630ff
+- id: eo-10-13
+  status: ingested
+  title: Recovery Planning Assistance for the City of Aumsville and Marion County due to a Tornado
+  file_ref: /gov/eo/eo-10-13.pdf
+  listing_year: '2010'
+  listing_number: '13'
+  text_layer: none
+  path: executive-orders/eo-10-13.md
+  sha256: 1477a6daaed30a328c615170307e8f004632d6150a0451461fa19e7379a4c208
+- id: eo-11-01
+  status: ingested
+  title: Determination of a state of emergency in Clackamas, Clatsop, Columbia, Crook, Douglas, Grant,
+    Harney, Lane, Lincoln, Linn, Malheur, Marion, Multnomah, Tillamook, Umatilla, Union, Washington, and
+    Yamhill counties due to extreme weather conditions damaging transportation infrastructure.
+  file_ref: /gov/eo/eo-11-01.pdf
+  listing_year: '2011'
+  listing_number: '1'
+  text_layer: clean (225 words, 86% dictionary)
+  path: executive-orders/eo-11-01.md
+  sha256: 98145bd4e9c695ef17d916eada398c8c5c7614da03dacb1d8d4cb01bfb6bfb6c
+- id: eo-11-02
+  status: ingested
+  title: Oregon Education Investment Team
+  file_ref: /gov/eo/eo-11-02.pdf
+  listing_year: '2011'
+  listing_number: '2'
+  text_layer: clean (1165 words, 98% dictionary)
+  path: executive-orders/eo-11-02.md
+  sha256: 4e063d8fc7eaf8fa4c909b261c9bbccc72afcbbb212bd85b06a84e6a8ebca4bb
+- id: eo-11-03
+  status: ingested
+  title: Authorization for Oregon Business Development Department dba Business Oregon Access to Law Enforcement
+    Data System
+  file_ref: /gov/eo/eo-11-03.pdf
+  listing_year: '2011'
+  listing_number: '3'
+  text_layer: none
+  path: executive-orders/eo-11-03.md
+  sha256: 65550388d32983d8f1921b76300b16b0f925660a61b9b2a2960cf75c4682752b
+- id: eo-11-04
+  status: ingested
+  title: Determination of a state of emergency in Curry County due to tsunami wave damage
+  file_ref: /gov/eo/eo-11-04.pdf
+  listing_year: '2011'
+  listing_number: '4'
+  text_layer: clean (225 words, 99% dictionary)
+  path: executive-orders/eo-11-04.md
+  sha256: 07e8577e4a947aaefeb4d014e72dac9e0e0cdbe11a825c21610b87595ac840b1
+- id: eo-11-05
+  status: ingested
+  title: Continuing Oregon Commission on Autism Spectrum Disorder
+  file_ref: /gov/eo/eo-11-05.pdf
+  listing_year: '2011'
+  listing_number: '5'
+  text_layer: none
+  path: executive-orders/eo-11-05.md
+  sha256: 23171a9379f3dbe920f470ac550ebc157551fe2f2f4aca4f72da50681c457e66
+- id: eo-11-06
+  status: ingested
+  title: Governor's Commission on Public Safety (CPS)
+  file_ref: /gov/eo/eo-11-06.pdf
+  listing_year: '2011'
+  listing_number: '6'
+  text_layer: none
+  path: executive-orders/eo-11-06.md
+  sha256: bf9a5b006ef2d73a81af25a920e0d398693b6425cda3c8e98cad237677464634
+- id: eo-11-07
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the North River Road Fire in Jackson County
+  file_ref: /gov/eo/eo-11-07.pdf
+  listing_year: '2011'
+  listing_number: '7'
+  text_layer: clean (254 words, 99% dictionary)
+  path: executive-orders/eo-11-07.md
+  sha256: 6efef23befd69db85837a79903541483f4842abb48fe3dbf2f8d92523a79ebf7
+- id: eo-11-08
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Elk fire in Jefferson County
+  file_ref: /gov/eo/eo-11-08.pdf
+  listing_year: '2011'
+  listing_number: '8'
+  text_layer: none
+  path: executive-orders/eo-11-08.md
+  sha256: 35b224d00f711a41c8938f997ce0c7abdf98651e89762b948b0cffc14d95fc50
+- id: eo-11-09
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the High Cascades Complex fire in Jefferson County
+  file_ref: /gov/eo/eo-11-09.pdf
+  listing_year: '2011'
+  listing_number: '9'
+  text_layer: none
+  path: executive-orders/eo-11-09.md
+  sha256: 3468b66636db6e253c5a109a88d13e0d172eaddc3cb670290f95d67befd9f964
+- id: eo-11-10
+  status: ingested
+  title: Proclamation of State of Emergency due to Imminent Threat of Wildfire
+  file_ref: /gov/eo/eo-11-10.pdf
+  listing_year: '2011'
+  listing_number: '10'
+  text_layer: none
+  path: executive-orders/eo-11-10.md
+  sha256: ce1fba90254c850dcc86c293d041a5a179f50cf1c9a1c95383a816fe04827b24
+- id: eo-11-11
+  status: ingested
+  title: Proclamation of State of Emergency due to Imminent Threat of Wildfire
+  file_ref: /gov/eo/eo-11-11.pdf
+  listing_year: '2011'
+  listing_number: '11'
+  text_layer: none
+  path: executive-orders/eo-11-11.md
+  sha256: fc34ca4d386166525c5e0e61deb0f49c9b925f7284c4b45db6435775e41a69f3
+- id: eo-11-12
+  status: ingested
+  title: Establishing the Oregon Solutions Network and Connecting the Work of the Regional Solutions Centers,
+    Oregon Solutions and the Oregon Consensus Program
+  file_ref: /gov/eo/eo-11-12.pdf
+  listing_year: '2011'
+  listing_number: '12'
+  text_layer: none
+  path: executive-orders/eo-11-12.md
+  sha256: c83852c2f07f005dcc2f18f785a6bb250f4cb631a1f7b76ac757fd9590b632f7
+- id: eo-12-01
+  status: ingested
+  title: Determination of a state of emergency in Benton, Coos, Lincoln and Marion Counties due to severe
+    winter weather
+  file_ref: /gov/eo/eo-12-01.pdf
+  listing_year: '2012'
+  listing_number: '1'
+  text_layer: none
+  path: executive-orders/eo-12-01.md
+  sha256: 101fd9d62d0a55d37abb3b1ff01dad0c36388621a29ce3a816597877df5fb32b
+- id: eo-12-02
+  status: ingested
+  title: Amending Executive Order 12-01 and declaring a state of emergency in Clackamas, Clatsop, Columbia,
+    Curry, Douglas, Harney, Hood River, Lane, Linn, Multnomah, Polk, Tillamook, Washington and Yamhill
+    Counties
+  file_ref: /gov/eo/eo-12-02.pdf
+  listing_year: '2012'
+  listing_number: '2'
+  text_layer: none
+  path: executive-orders/eo-12-02.md
+  sha256: 5ea156f04f460d7615e4fa7a816d56978cc12880163d5ad42e594675e6c11fae
+- id: eo-12-03
+  status: ingested
+  title: Promoting diversity and inclusion opportunities for Oregon minority-owned, women-owned and emerging
+    small businesses
+  file_ref: /gov/eo/eo-12-03.pdf
+  listing_year: '2012'
+  listing_number: '3'
+  text_layer: none
+  path: executive-orders/eo-12-03.md
+  sha256: c13cf1b2d15bbf7fe69109db310f5a87b65207246d7b21533804fae15767cfb5
+- id: eo-12-04
+  status: ingested
+  title: Amends Executive Order No. 99-09 Regarding Governor's Advisory Committee on Motorcycle Safety
+  file_ref: /gov/eo/eo-12-04.pdf
+  listing_year: '2012'
+  listing_number: '4'
+  text_layer: none
+  path: executive-orders/eo-12-04.md
+  sha256: e259732183ab1b23c1191a7e72efc798c27a7d03760efbe357a3488048e36969
+- id: eo-12-05
+  status: ingested
+  title: Fostering Environmentally-Friendly Purchasing and Product Design
+  file_ref: /gov/eo/eo-12-05.pdf
+  listing_year: '2012'
+  listing_number: '5'
+  text_layer: none
+  path: executive-orders/eo-12-05.md
+  sha256: 4b5d72fc0268c61924abf9f07aaf792dc83ff91d0184c260c804838062c68459
+- id: eo-12-06
+  status: ingested
+  title: Determination of a state of emergency in Benton, Clackamas, Columbia, Coos, Curry, Douglas, Lane,
+    Lincoln, Linn, Multnomah, Polk, Tillamook, and Yamhill counties due to damaging winds, heavy rains,
+    flooding, mudslides, and landslides
+  file_ref: /gov/eo/eo-12-06.pdf
+  listing_year: '2012'
+  listing_number: '6'
+  text_layer: none
+  path: executive-orders/eo-12-06.md
+  sha256: 157b4b267122b225a6d3110e020d000b96de3ab4a619406d980b282b9dc90c41
+- id: eo-12-07
+  status: ingested
+  title: A Pilot Program for Regional Farm and Forest Land Conservation
+  file_ref: /gov/eo/eo-12-07.pdf
+  listing_year: '2012'
+  listing_number: '7'
+  text_layer: none
+  path: executive-orders/eo-12-07.md
+  sha256: 2ac93bf403c09aa81a8aacaaf03f9aee7bf461826eddc715f97ffd02b49a72c9
+- id: eo-12-08
+  status: ingested
+  title: Reconvening the Governor's Commission on Public Safety
+  file_ref: /gov/eo/eo-12-08.pdf
+  listing_year: '2012'
+  listing_number: '8'
+  text_layer: none
+  path: executive-orders/eo-12-08.md
+  sha256: 86f65fcaffeeeb58190c52d8df1c9154014ab01c4a3cf647fdaf62a05c32f0d8
+- id: eo-12-09
+  status: ingested
+  title: Amends EO 10-06 Regarding Establishment of the Early Childhood Matters Advisory Council
+  file_ref: /gov/eo/eo-12-09.pdf
+  listing_year: '2012'
+  listing_number: '9'
+  text_layer: none
+  path: executive-orders/eo-12-09.md
+  sha256: 9e34fb46be29e81e920624e6d4a306aa959f81b5fc2797a1810bc4e2b52e6978
+- id: eo-12-10
+  status: ingested
+  title: Establishing Domestic Violence Task Force
+  file_ref: /gov/eo/eo-12-10.pdf
+  listing_year: '2012'
+  listing_number: '10'
+  text_layer: none
+  path: executive-orders/eo-12-10.md
+  sha256: b3c78f41742da634c7cc7b9d7f052498377eebc70c3023b40dc8eb96617416cb
+- id: eo-12-11
+  status: ingested
+  title: Determination of a State of Emergency in Harney and Malheur Counties due to Extreme Fires
+  file_ref: /gov/eo/eo-12-11.pdf
+  listing_year: '2012'
+  listing_number: '11'
+  text_layer: none
+  path: executive-orders/eo-12-11.md
+  sha256: d4dd008fdea76f4f60a44da9f005e9d6ab4baa0740c56ae4967a92c2fd63207b
+- id: eo-12-12
+  status: ingested
+  title: Amending Executive Order 12-10 Establishing the Oregon Domestic Violence Prevention and Response
+    Task Force
+  file_ref: /gov/eo/eo-12-12.pdf
+  listing_year: '2012'
+  listing_number: '12'
+  text_layer: none
+  path: executive-orders/eo-12-12.md
+  sha256: 3ffe4d9983c17e306ec81d680865e802de63643e20cbb3645e6e366f0ee98c61
+- id: eo-12-13
+  status: ingested
+  title: Tobacco Free Properties
+  file_ref: /gov/eo/eo-12-13.pdf
+  listing_year: '2012'
+  listing_number: '13'
+  text_layer: none
+  path: executive-orders/eo-12-13.md
+  sha256: 4aef51a9a9e0b859c2770e618bbc48ab6094c9ead7e1a88da5aaa6a40961fa41
+- id: eo-12-14
+  status: ingested
+  title: Proclamation of State of Emergency Due to Imminent Threat of Wildfire
+  file_ref: /gov/eo/eo-12-14.pdf
+  listing_year: '2012'
+  listing_number: '14'
+  text_layer: none
+  path: executive-orders/eo-12-14.md
+  sha256: d36724ebf83a279e7c4492aaecfee52465f0af57cff3b5b38325ae3efe0f150d
+- id: eo-12-15
+  status: ingested
+  title: Detrmination of a State of Drought Emergency in the Lost River Basin due to Drought and Low Water
+    Conditions
+  file_ref: /gov/eo/eo-12-15.pdf
+  listing_year: '2012'
+  listing_number: '15'
+  text_layer: none
+  path: executive-orders/eo-12-15.md
+  sha256: b2f6b86bb9a5b27ab318012d0eb432ce4185f89dfa945815fe19c536875b2f78
+- id: eo-12-16
+  status: ingested
+  title: Promoting wood products in commerce as a green building material, encouraging innovative uses
+    of wood products and increasing markets for Oregon wood products
+  file_ref: /gov/eo/eo-12-16.pdf
+  listing_year: '2012'
+  listing_number: '16'
+  text_layer: none
+  path: executive-orders/eo-12-16.md
+  sha256: c57eabdf85b8e05d680da054e8eab50c1daadea98e8e954784ebb8f21b8f77f5
+- id: eo-12-17
+  status: ingested
+  title: Infrastructure Planning and Investment
+  file_ref: /gov/eo/eo-12-17.pdf
+  listing_year: '2012'
+  listing_number: '17'
+  text_layer: none
+  path: executive-orders/eo-12-17.md
+  sha256: ed133d7c5dcca92c3b4e0d2b86a4794dfb0d24af2ac5aaee012131de78fa5f51
+- id: eo-12-special-session
+  status: ingested
+  title: ''
+  file_ref: /gov/eo/eo-12-special-session.pdf
+  listing_year: '2012'
+  listing_number: '0'
+  text_layer: none
+  path: executive-orders/eo-12-special-session.md
+  sha256: 6c2e06b27d4ac974ce523039dc083d4db4a520cc5a0d4c4e229c191f1ea95c39
+- id: eo-13-01
+  status: ingested
+  title: Oregon Small Business Advisory Council
+  file_ref: /gov/eo/eo-13-01.pdf
+  listing_year: '2013'
+  listing_number: '1'
+  text_layer: none
+  path: executive-orders/eo-13-01.md
+  sha256: 76a6687d857b2af34a2bad4f1fa6615423cad88dce37c5e3380f3d7bece484c8
+- id: eo-13-02
+  status: ingested
+  title: Establishing the Task Force on Traumatic Brain Injury
+  file_ref: /gov/eo/eo-13-02.pdf
+  listing_year: '2013'
+  listing_number: '2'
+  text_layer: none
+  path: executive-orders/eo-13-02.md
+  sha256: ee794d1281d097b55265850fb8df81234973a61c92cac16e85d8f1015aecb797
+- id: eo-13-03
+  status: ingested
+  title: Amendment to Executive Order 12-18
+  file_ref: /gov/eo/eo-13-03.pdf
+  listing_year: '2013'
+  listing_number: '3'
+  text_layer: none
+  path: executive-orders/eo-13-03.md
+  sha256: e884e846c94eadf895406712debb858ca50f4ec6912e60f990ccd57b116f3b93
+- id: eo-13-04
+  status: ingested
+  title: Providing Employment Services to Individuals with Intellectual and Developmental Disabilities
+  file_ref: /gov/eo/eo-13-04.pdf
+  listing_year: '2013'
+  listing_number: '4'
+  text_layer: none
+  path: executive-orders/eo-13-04.md
+  sha256: a982fa91e968a44785b60820f6b0b2afd7a488cd8db53206df5f608a6f68ac77
+- id: eo-13-05
+  status: ingested
+  title: Determination of a State of Drought Emergency in Klamath County Due to Drought and Low Water
+    Conditions
+  file_ref: /gov/eo/eo-13-05.pdf
+  listing_year: '2013'
+  listing_number: '5'
+  text_layer: none
+  path: executive-orders/eo-13-05.md
+  sha256: 9a0bceb05d2fbf626e6371ab2e35eaaf313ed85482797c285b775e747506e622
+- id: eo-13-06
+  status: ingested
+  title: Determination of a state of drought emergency in Baker, Gilliam, and Malheur counties due to
+    drought and low water conditions
+  file_ref: /gov/eo/eo-13-06.pdf
+  listing_year: '2013'
+  listing_number: '6'
+  text_layer: none
+  path: executive-orders/eo-13-06.md
+  sha256: 28bba5c4420e2448b0be0d977e341b00d86383303d05c3609ccc264e67895712
+- id: eo-13-07
+  status: ingested
+  title: Determination of a State of Emergency in Josephine County due to Extreme Fire
+  file_ref: /gov/eo/eo-13-07.pdf
+  listing_year: '2013'
+  listing_number: '7'
+  text_layer: none
+  path: executive-orders/eo-13-07.md
+  sha256: e7f02e1c14f2359da6e7ce9b2fd75c1515a70f2ebae49d0cc0e535dcb514941f
+- id: eo-13-08
+  status: ingested
+  title: Chartering Partnerships for Job Growth and Talent Development
+  file_ref: /gov/eo/eo-13-08.pdf
+  listing_year: '2013'
+  listing_number: '8'
+  text_layer: none
+  path: executive-orders/eo-13-08.md
+  sha256: d7869d15c56223898f37c7a8e829b07a0082c424a5fb0f9327d35a0c31247639
+- id: eo-13-09
+  status: ingested
+  title: Determination of a State of Drought Emergency in Morrow County due to Drought and Low Water Conditions
+  file_ref: /gov/eo/eo-13-09.pdf
+  listing_year: '2013'
+  listing_number: '9'
+  text_layer: none
+  path: executive-orders/eo-13-09.md
+  sha256: 13fea1eb41a4fe70a55bd033a65ae5e3369aef008ac46e79eff910f81e487085
+- id: eo-13-10
+  status: ingested
+  title: Proclamation of State of Emergency due to Imminent Threat of Wildfire
+  file_ref: /gov/eo/eo-13-10.pdf
+  listing_year: '2013'
+  listing_number: '10'
+  text_layer: none
+  path: executive-orders/eo-13-10.md
+  sha256: c7199a979ca59a2777e051faf0737fbc4ba9dd33653c278410a7bad73b60018d
+- id: eo-13-11
+  status: ingested
+  title: Determination of a State of Emergency in Douglas and Josephine Counties due to Extreme Fire
+  file_ref: /gov/eo/eo-13-11.pdf
+  listing_year: '2013'
+  listing_number: '11'
+  text_layer: none
+  path: executive-orders/eo-13-11.md
+  sha256: 31f4240d3e88032ddee60117feae30ff9764abc8748e7b58bf6fb2a338e98976
+- id: eo-13-12
+  status: ingested
+  title: Determination of a State of Emergency in Grant County due to Extreme Fire
+  file_ref: /gov/eo/eo-13-12.pdf
+  listing_year: '2013'
+  listing_number: '12'
+  text_layer: none
+  path: executive-orders/eo-13-12.md
+  sha256: 7afb0d70bcf11615e2153c1ac3a26bd5669801e7c60acc79b98e2561b7bf042f
+- id: eo-13-13
+  status: ingested
+  title: Determination of a State of Emergency in Wasco and Hood River Counties due to Extreme Fire
+  file_ref: /gov/eo/eo-13-13.pdf
+  listing_year: '2013'
+  listing_number: '13'
+  text_layer: none
+  path: executive-orders/eo-13-13.md
+  sha256: 69e77bd2b2b0f2a344af633add183a0e73fd73fa30c1d862a8853064b34f364b
+- id: eo-13-14
+  status: ingested
+  title: Oregon Council on Developmental Disabilities (Rescinds Executive Order No. 02-24)
+  file_ref: /gov/eo/eo-13-14.pdf
+  listing_year: '2013'
+  listing_number: '14'
+  text_layer: none
+  path: executive-orders/eo-13-14.md
+  sha256: 5b9ddba149fb07792e4ea8188b682025ff2075a80839203f52909e5b16e01fd4
+- id: eo-14-01
+  status: ingested
+  title: Determination of a State of Drought Emergency in Harney, Klamath, Lake, and Malheur Counties
+    due to Drought and Low Water Conditions
+  file_ref: /gov/eo/eo-14-01.pdf
+  listing_year: '2014'
+  listing_number: '1'
+  text_layer: none
+  path: executive-orders/eo-14-01.md
+  sha256: 7b465ea7c594b149859776f887c588f102e35de76c78b32f74f91a59f87d724d
+- id: eo-14-02
+  status: ingested
+  title: Determination of a state of Drought Emergency in Crook County due to Drought and Low Water Conditions
+  file_ref: /gov/eo/eo-14-02.pdf
+  listing_year: '2014'
+  listing_number: '2'
+  text_layer: none
+  path: executive-orders/eo-14-02.md
+  sha256: b5e9083f1e678e374ae2a70b5489fa0045634bd4bdec45c06a7538f307ae025c
+- id: eo-14-03
+  status: ingested
+  title: Determination of a State of Emergency in Hood River County due to Severe Winter Weather including
+    Landslides, Snow Fall, and Ice Accumulation
+  file_ref: /gov/eo/eo-14-03.pdf
+  listing_year: '2014'
+  listing_number: '3'
+  text_layer: none
+  path: executive-orders/eo-14-03.md
+  sha256: f1acab234720b5eeffb346b28665aaf8e98d94311ee3133f6d9eca3398a14f60
+- id: eo-14-04
+  status: ingested
+  title: Determination of a State of Drought Emergency in Jackson County due to Drought and Low Water
+    Conditions
+  file_ref: /gov/eo/eo-14-04.pdf
+  listing_year: '2014'
+  listing_number: '4'
+  text_layer: none
+  path: executive-orders/eo-14-04.md
+  sha256: 6b3a5d670bbcae807f273f30158cfcc14fe07c50364c6fd713d4608fa5db85b9
+- id: eo-14-05
+  status: ingested
+  title: Determination of a State of Drought Emergency in Grant, Josephine, and Wheeler Counties Due to
+    Drought and Low Water Conditions
+  file_ref: /gov/eo/eo-14-05.pdf
+  listing_year: '2014'
+  listing_number: '5'
+  text_layer: none
+  path: executive-orders/eo-14-05.md
+  sha256: c74b3cf8891d1898682766a6f0462dc84ec2eb86f8d15b8ad19b41cb02858947
+- id: eo-14-06
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Two Bulls Wildfire in Deschutes County
+  file_ref: /gov/eo/eo-14-06.pdf
+  listing_year: '2014'
+  listing_number: '6'
+  text_layer: none
+  path: executive-orders/eo-14-06.md
+  sha256: 221622c6ccef678ddf990ce9da0b8e9160a1126a266379a758042322ce1a35b0
+- id: eo-14-07
+  status: ingested
+  title: Proclamation of State of Emergency Due to Imminent Threat of Wildfire
+  file_ref: /gov/eo/eo-14-07.pdf
+  listing_year: '2014'
+  listing_number: '7'
+  text_layer: none
+  path: executive-orders/eo-14-07.md
+  sha256: 007a21c9a382ee616be5d6864651c4f9a56eaa247820af411b1dc42dad7cb28f
+- id: eo-14-08
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Beaver Complex Fire in Jackson County
+  file_ref: /gov/eo/eo-14-08.pdf
+  listing_year: '2014'
+  listing_number: '8'
+  text_layer: none
+  path: executive-orders/eo-14-08.md
+  sha256: 7b353990ff3d48d13b7995a7349820b1ed43082cb1e58d52174b42828f816e63
+- id: eo-14-09
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Rowena Fire in Wasco County
+  file_ref: /gov/eo/eo-14-09.pdf
+  listing_year: '2014'
+  listing_number: '9'
+  text_layer: none
+  path: executive-orders/eo-14-09.md
+  sha256: d07a5ab8851784ea660cab7b52e57fa890b263d2c6ae526149f3123c56a7af2d
+- id: eo-14-10
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Rogue River Drive Fire in Jackson County
+  file_ref: /gov/eo/eo-14-10.pdf
+  listing_year: '2014'
+  listing_number: '10'
+  text_layer: none
+  path: executive-orders/eo-14-10.md
+  sha256: 5c766119516066103193db122cd9a237fd87d81cad988529e112b65728e72e45
+- id: eo-14-11
+  status: ingested
+  title: Statuary Hall Study Commission
+  file_ref: /gov/eo/eo-14-11.pdf
+  listing_year: '2014'
+  listing_number: '11'
+  text_layer: none
+  path: executive-orders/eo-14-11.md
+  sha256: 64a5451dcbbfaad14a350018258727f887aac7afe4b23a619fc0bc0b7a8e5c62
+- id: eo-14-12
+  status: ingested
+  title: Determination of a State of Drought Emergency in Baker County Due to Drought and Low Water Conditions
+  file_ref: /gov/eo/eo-14-12.pdf
+  listing_year: '2014'
+  listing_number: '12'
+  text_layer: none
+  path: executive-orders/eo-14-12.md
+  sha256: a817267ad36e281de7fcad03484a78de819951e010364604bf348d7b49a29d0b
+- id: eo-14-13
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the 36 Pit Fire in Clackamas County
+  file_ref: /gov/eo/eo-14-13.pdf
+  listing_year: '2014'
+  listing_number: '13'
+  text_layer: none
+  path: executive-orders/eo-14-13.md
+  sha256: f82472ac378371412cc469099c77eda3d546862a33bcb389e8d65fc77a2d64da
+- id: eo-14-14
+  status: ingested
+  title: Governor's Process for Calculating the Forecasted Budget Level for K-12 School Funding
+  file_ref: /gov/eo/eo-14-14.pdf
+  listing_year: '2014'
+  listing_number: '14'
+  text_layer: none
+  path: executive-orders/eo-14-14.md
+  sha256: cf8cf43ed390dcbca1c69d114d0a04635768f28a9901e766055c43f851ebeabb
+- id: eo-14-15
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Scoggins Creek Fire in Washington County
+  file_ref: /gov/eo/eo-14-15.pdf
+  listing_year: '2014'
+  listing_number: '15'
+  text_layer: none
+  path: executive-orders/eo-14-15.md
+  sha256: f1aeb0cee24cd4970f4f2cf245ab38f3a07ecef8d39fd1c91413bb3867cf2615
+- id: eo-14-16
+  status: ingested
+  title: Juvenile Corrections Population Forecasting Advisory Committee
+  file_ref: /gov/eo/eo-14-16.pdf
+  listing_year: '2014'
+  listing_number: '16'
+  text_layer: none
+  path: executive-orders/eo-14-16.md
+  sha256: 323609f29f1b7a41c4dffbebde860ef9d3c387637acbd514350607acf4cd9402
+- id: eo-15-01
+  status: ingested
+  title: Providing employment services to individuals with intellectual and developmental disabilities
+  file_ref: /gov/eo/eo-15-01.pdf
+  listing_year: '2015'
+  listing_number: '1'
+  text_layer: none
+  path: executive-orders/eo-15-01.md
+  sha256: 06da0dd6b2d981f9a13c373fcf5f4483f3c68dd1400741afecd7d3f436bc5db5
+- id: eo-15-02
+  status: ingested
+  title: Determination of a state of drought emergency in Lake and Malheur Counties due to drought and
+    low water conditions
+  file_ref: /gov/eo/eo-15-02.pdf
+  listing_year: '2015'
+  listing_number: '2'
+  text_layer: none
+  path: executive-orders/eo-15-02.md
+  sha256: bc44611a2088b5608df27c29f1f28dc6d28e221df1dc5e0fb69d47c08fb15012
+- id: eo-15-03
+  status: ingested
+  title: Determination of a state of drought emergency in Crook, Harney, and Klamath Counties due to drought,
+    low snow pack levels, and low water conditions
+  file_ref: /gov/eo/eo-15-03.pdf
+  listing_year: '2015'
+  listing_number: '3'
+  text_layer: none
+  path: executive-orders/eo-15-03.md
+  sha256: ec02a1cd4dda794f6ba35b42e68df352f389c02853cb8bda34ca8ffa67af94a5
+- id: eo-15-04
+  status: ingested
+  title: Determination of a state drought emergency in Baker and Wheeler counties due to drought, low
+    snow pack levels, and water conditions.
+  file_ref: /gov/eo/eo-15-04.pdf
+  listing_year: '2015'
+  listing_number: '4'
+  text_layer: none
+  path: executive-orders/eo-15-04.md
+  sha256: 71421d2f96864c46bf9f9ecd7fd83aa79ff40fb2609f34e96a1ac95b3cf18915
+- id: eo-15-05
+  status: ingested
+  title: Determination of a state of drought emergency in Deschutes, Grant, Jackson, Josephine, Lane,
+    Morrow, Umatilla, and Wasco counties due to drought, low snow pack levels, and low water conditions
+  file_ref: /gov/eo/eo-15-05.pdf
+  listing_year: '2015'
+  listing_number: '5'
+  text_layer: none
+  path: executive-orders/eo-15-05.md
+  sha256: fbf3ebbb2eb6d04399e3e17ee82c7d1d8fe608e3d31de7de2e6b89e0ce1b5b4f
+- id: eo-15-06
+  status: ingested
+  title: Determination of a state of drought emergency in Gilliam, Jefferson, Coos and Douglas counties
+    due to drought, low snow levels, and low water conditions.
+  file_ref: /gov/eo/eo-15-06.pdf
+  listing_year: '2015'
+  listing_number: '6'
+  text_layer: none
+  path: executive-orders/eo-15-06.md
+  sha256: d039a43bb1155d8a9b3d4ca04a857fc9321bae2868dc5e3adfd1cc91b2521073
+- id: eo-15-07
+  status: ingested
+  title: Determination of a State of Drought Emergency in Sherman County Due to Drought and Low Water
+    Conditions
+  file_ref: /gov/eo/eo-15-07.pdf
+  listing_year: '2015'
+  listing_number: '7'
+  text_layer: none
+  path: executive-orders/eo-15-07.md
+  sha256: a22d06c3df458947f0a9c96751bceca3e849890a7b7fadfb50c8a2ad3de47057
+- id: eo-15-08
+  status: ingested
+  title: Determination of a state of drought emergency in Curry, Hood River and Union Counties due to
+    drought, low snow pack levels, and low water conditions
+  file_ref: /gov/eo/eo-15-08.pdf
+  listing_year: '2015'
+  listing_number: '8'
+  text_layer: none
+  path: executive-orders/eo-15-08.md
+  sha256: 6f8d32d104bb7804070071b182ce06040fdca33761837a430359fd7a1ba0c0e1
+- id: eo-15-09
+  status: ingested
+  title: Directing state agencies to plan for resiliency to drought, to meet the challenge that a changing
+    climate brings
+  file_ref: /gov/eo/eo-15-09.pdf
+  listing_year: '2015'
+  listing_number: '9'
+  text_layer: none
+  path: executive-orders/eo-15-09.md
+  sha256: 2f87af110215348d95e130f0e2071835715c42a6846f8e253fc9a843eafb2262
+- id: eo-15-10
+  status: ingested
+  title: Determination of a state of emergency regarding delivery of aircraft fuel directed to use in
+    firefighting activities
+  file_ref: /gov/eo/eo-15-10.pdf
+  listing_year: '2015'
+  listing_number: '10'
+  text_layer: none
+  path: executive-orders/eo-15-10.md
+  sha256: c309b7827876b89fcbfe228e2467249f01950d8140e5571b7aeae74e5482ac20
+- id: eo-15-11
+  status: ingested
+  title: Determination of a state of drought emergency in Linn County due to drought, low snow pack levels,
+    and low water conditions
+  file_ref: /gov/eo/eo-15-11.pdf
+  listing_year: '2015'
+  listing_number: '11'
+  text_layer: none
+  path: executive-orders/eo-15-11.md
+  sha256: 06295485091a93790e9a34aa096845017f40331e3a7b56f4e461cea7883bd7b5
+- id: eo-15-12
+  status: ingested
+  title: Invocation of emergency conflagration act for the Stouts Creek fire in Douglas county
+  file_ref: /gov/eo/eo-15-12.pdf
+  listing_year: '2015'
+  listing_number: '12'
+  text_layer: none
+  path: executive-orders/eo-15-12.md
+  sha256: c31280b8bb03f9a2ab9c254d4ff290f5dc07f1b995d6267e47e0b43301038ceb
+- id: eo-15-13
+  status: ingested
+  title: Invocation of emergency conflagration act for the Cornet and Windy Ridge fires in Baker county
+  file_ref: /gov/eo/eo-15-13.pdf
+  listing_year: '2015'
+  listing_number: '13'
+  text_layer: none
+  path: executive-orders/eo-15-13.md
+  sha256: 56b778940f0c3662e845bb2b7f5a539d054a19784f20bcffe8a43331b1b5a6fa
+- id: eo-15-14
+  status: ingested
+  title: Invocation of emergency conflagration act for the Canyon Creek Complex fire in Grant county
+  file_ref: /gov/eo/eo-15-14.pdf
+  listing_year: '2015'
+  listing_number: '14'
+  text_layer: none
+  path: executive-orders/eo-15-14.md
+  sha256: 824b018a532cd72372336068b6ebc21c84b0fb0368accc01ed17efa68e2e3b73
+- id: eo-15-15
+  status: ingested
+  title: Invocation of emergency conflagration act for the Grizzly Bear Complex fire in Wallowa county
+  file_ref: /gov/eo/eo-15-15.pdf
+  listing_year: '2015'
+  listing_number: '15'
+  text_layer: none
+  path: executive-orders/eo-15-15.md
+  sha256: 3842e866d4b257430236eaa36f7f4f6dcca9d35c3c5d18fcc8258122319096ec
+- id: eo-15-16
+  status: ingested
+  title: Proclamation of state of emergency due to imminent threat of wildfire
+  file_ref: /gov/eo/eo-15-16.pdf
+  listing_year: '2015'
+  listing_number: '16'
+  text_layer: none
+  path: executive-orders/eo-15-16.md
+  sha256: 0c6f4b5de24ef98e8ccbcbddc2110761aa45e781755a84873095b922b7dbcb5f
+- id: eo-15-17
+  status: ingested
+  title: Proclamation of State of Emergency Regarding Effects of Wildfire and Delegation of Authority
+    to Suspend Administrative Rules that Prevent, Hinder or Delay Mitigation of the Effects of Wildfires
+  file_ref: /gov/eo/eo-15-17.pdf
+  listing_year: '2015'
+  listing_number: '17'
+  text_layer: none
+  path: executive-orders/eo-15-17.md
+  sha256: fd961022737d8623a0cc91619329128ca2683e407b07ab47f535919466fe9b05
+- id: eo-15-18
+  status: ingested
+  title: Adopting the Oregon Sage-Grouse Action Plan and directing state agencies to implement the plan
+    in full
+  file_ref: /gov/eo/eo-15-18.pdf
+  listing_year: '2015'
+  listing_number: '18'
+  text_layer: none
+  path: executive-orders/eo-15-18.md
+  sha256: e2beb46122bb1435f0a49401d6b2af8b43782ef1da6b67527d9edbc92b653ca1
+- id: eo-15-19
+  status: ingested
+  title: Determination of a State of Drought Emergency in Marion County Due to Drought, Low Snow Pack
+    Levels, and Low Water Conditions
+  file_ref: /gov/eo/eo_15-19.pdf
+  listing_year: '2015'
+  listing_number: '19'
+  text_layer: none
+  path: executive-orders/eo-15-19.md
+  sha256: c92e93653c999f9d66e8a35f8a8b0e3b1b93282a647e7dc298e974c3c1defa6c
+- id: eo-15-20
+  status: ingested
+  title: Determination of State of Emergency in Baker and Grant Counties, due to Wildland Fires beginning
+    August 10, 2015
+  file_ref: /gov/eo/eo_15-20.pdf
+  listing_year: '2015'
+  listing_number: '20'
+  text_layer: none
+  path: executive-orders/eo-15-20.md
+  sha256: cd422723b686b255c1de62a19ad9389339b46f98d12030a89987c340b4dc442a
+- id: eo-15-21
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Dry Gulch Fire in Baker County
+  file_ref: /gov/eo/eo_15-21.pdf
+  listing_year: '2015'
+  listing_number: '21'
+  text_layer: none
+  path: executive-orders/eo-15-21.md
+  sha256: 8f14053edb33aca99ee3fb7457b270b8bdf82d9e8a2a5f454c04354753ac2c13
+- id: eo-15-22
+  status: ingested
+  title: Determination of State of Emergency in Douglas County Due to Wildland Fires Beginning August
+    10, 2015
+  file_ref: /gov/eo/eo_15-22.pdf
+  listing_year: '2015'
+  listing_number: '22'
+  text_layer: none
+  path: executive-orders/eo-15-22.md
+  sha256: eb56be1f7b4237a950128531e422137bb5886c6617d64fd17a7d5317707f7851
+- id: eo-16-01
+  status: ingested
+  title: Amends Executive Order 99-09 Relating to the Governor's Advisory Committee on Motorcycle Safety
+    OR2015
+  file_ref: /gov/eo/eo_16-01.pdf
+  listing_year: '2016'
+  listing_number: '1'
+  text_layer: none
+  path: executive-orders/eo-16-01.md
+  sha256: 7906a4e0f37293c28fc82cf232354ba7079a4b0cc3a14d96c7eeb3a700f261c6
+- id: eo-16-02
+  status: ingested
+  title: Determ. of St. of Emg. in Bent., Clack., Clats., Colum., Lane, Linc., Linn, Mar., Mult., Polk,
+    Till., Wash., and Yam. Counties and Coos, Curry, Doug., Jack., Jose., and Klam. Counties due to a
+    Severe Winter Storm with High Winds, Flooding, and Landslides
+  file_ref: /gov/eo/eo_16-02.pdf
+  listing_year: '2016'
+  listing_number: '2'
+  text_layer: none
+  path: executive-orders/eo-16-02.md
+  sha256: bc33ced8ae9b36c4ff41f8cf9417b1aa0ee79418301a418aabd8ae0fb6c5c9e7
+- id: eo-16-03
+  status: ingested
+  title: Governor's Council on Educator Advancement
+  file_ref: /gov/eo/eo_16-03.pdf
+  listing_year: '2016'
+  listing_number: '3'
+  text_layer: none
+  path: executive-orders/eo-16-03.md
+  sha256: b12a592129284c4f7155f3079bf0f1009dcad3a3469046d3de2cef11561d7f82
+- id: eo-16-04
+  status: ingested
+  title: Designating Segments of the Chetco River (Curry County) and Molalla River (Clackamas County)
+    as State Scenic Waterways and Directing Scenic Waterway Studies to Use a Collaborative Process
+  file_ref: /gov/eo/eo_16-04.pdf
+  listing_year: '2016'
+  listing_number: '4'
+  text_layer: none
+  path: executive-orders/eo-16-04.md
+  sha256: b132a3d2c72160743e377be62ae5449c084b40e3a88e01336aa97f741e6e5708
+- id: eo-16-05
+  status: ingested
+  title: Oregon Small Business Advisory Cabinet
+  file_ref: /gov/eo/eo_16-05.pdf
+  listing_year: '2016'
+  listing_number: '5'
+  text_layer: none
+  path: executive-orders/eo-16-05.md
+  sha256: 9acb3eb1a136620409a6a6a49a20aaa2933642412c0c0ce43af48f5b0ad287e0
+- id: eo-16-06
+  status: ingested
+  title: Public Records
+  file_ref: /gov/eo/eo_16-06.pdf
+  listing_year: '2016'
+  listing_number: '6'
+  text_layer: none
+  path: executive-orders/eo-16-06.md
+  sha256: 788da95b15889c958cbb62aee9bf3614aac982d411aa50746b35fc343f62b921
+- id: eo-16-07
+  status: ingested
+  title: Governor's Disaster Management Framework
+  file_ref: /gov/eo/eo_16-07.pdf
+  listing_year: '2016'
+  listing_number: '7'
+  text_layer: none
+  path: executive-orders/eo-16-07.md
+  sha256: 0e27078fa7e6ff7101713f37f3075b52f2ae2c6f54ee8dc2eea83fbf4099b4ce
+- id: eo-16-08
+  status: ingested
+  title: Governor's Council on Educator Advancement
+  file_ref: /gov/eo/eo_16-08.pdf
+  listing_year: '2016'
+  listing_number: '8'
+  text_layer: none
+  path: executive-orders/eo-16-08.md
+  sha256: 920ffd804aa79a31e73a58b8616ac5ec33e09c5b60b36565aebc58f443f3a056
+- id: eo-16-09
+  status: ingested
+  title: Relating to affirmative action and diversity & inclusion
+  file_ref: /gov/eo/eo_16-09.pdf
+  listing_year: '2016'
+  listing_number: '9'
+  text_layer: none
+  path: executive-orders/eo-16-09.md
+  sha256: b60b03227e9f52a7183ea8decf8073a5242beceb1a61a8ce0c0a7444545fdde8
+- id: eo-16-10
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Wasco County Train Derailment in Wasco County
+  file_ref: /gov/eo/eo_16-10.pdf
+  listing_year: '2016'
+  listing_number: '10'
+  text_layer: none
+  path: executive-orders/eo-16-10.md
+  sha256: ef87fe50b4cf6eeedf28d3bf7091b8c77270b27277ac9f5fcac3f52ea3a69e7d
+- id: eo-16-11
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Akawana fire in Jefferson County
+  file_ref: /gov/eo/eo-16-11.pdf
+  listing_year: '2016'
+  listing_number: '11'
+  text_layer: none
+  path: executive-orders/eo-16-11.md
+  sha256: 45b309a498db07dd222220e098410e971aa1aebc9d9456160cf5d5075f84f17f
+- id: eo-16-12
+  status: ingested
+  title: Enhancing Gun Safety in Oregon
+  file_ref: /gov/eo/eo-16-12.pdf
+  listing_year: '2016'
+  listing_number: '12'
+  text_layer: none
+  path: executive-orders/eo-16-12.md
+  sha256: 81b7b993427a110248689cb04fbdbc855c68b1006b25ec2a4e16f6c0e47b536e
+- id: eo-16-13
+  status: ingested
+  title: Unifying Cyber Security in Oregon
+  file_ref: /gov/eo/eo_16-13.pdf
+  listing_year: '2016'
+  listing_number: '13'
+  text_layer: none
+  path: executive-orders/eo-16-13.md
+  sha256: c98a066e73ac17694ad74204e2122fee7871761fd822acf8aba1ac10486e2f2c
+- id: eo-16-14
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Wassen Pond Fire in Wasco County
+  file_ref: /gov/eo/eo_16-14.pdf
+  listing_year: '2016'
+  listing_number: '14'
+  text_layer: none
+  path: executive-orders/eo-16-14.md
+  sha256: 91b40a9e5997bccdf72714a2c4f5852e6071e1cb55198bfceed7582ba717da6c
+- id: eo-16-15
+  status: ingested
+  title: Revocation of Executive Order 12-17
+  file_ref: /gov/eo/eo_16-15.pdf
+  listing_year: '2016'
+  listing_number: '15'
+  text_layer: none
+  path: executive-orders/eo-16-15.md
+  sha256: 0257b4c62ce1628f0687160052dff9388a79048dc2dd64326e097b91b6524b3e
+- id: eo-17-01
+  status: ingested
+  title: State Agency Employee Wellness
+  file_ref: /gov/eo/eo_17-01.pdf
+  listing_year: '2017'
+  listing_number: '1'
+  text_layer: none
+  path: executive-orders/eo-17-01.md
+  sha256: d20b3933dc5084e8984192e7c6a7869abf6cf8996e308aff18e667c3eca86211
+- id: eo-17-02
+  status: ingested
+  title: Determination of State of Emergency in Oregon due to a Severe Winter Storm that includes Heavy
+    Snow and Ice Accumulation, High Winds, Flooding, and Landslides.
+  file_ref: /gov/eo/eo_17-02.pdf
+  listing_year: '2017'
+  listing_number: '2'
+  text_layer: none
+  path: executive-orders/eo-17-02.md
+  sha256: 2563f1bf6a43d901dd4267fa6672fa5b23e2a26dd8ecdbe19e8a1d6fe7d57a91
+- id: eo-17-03
+  status: ingested
+  title: Proclamation of State of Emergency for Malheur County Regarding Effects of Severe Winter Storms
+    and Delegation of Emergency Authority Pursuant to ORS 401.035(2) to Suspend State Adminiistrative
+    Rules that Prevent, Hinder or Delay Mitigation of the Effects of these Winter STorms
+  file_ref: /gov/eo/eo_17-03.pdf
+  listing_year: '2017'
+  listing_number: '3'
+  text_layer: none
+  path: executive-orders/eo-17-03.md
+  sha256: 84174096800822ab9c9c6dcef21c9283c71a525532085e67be65a5e1e8e392b8
+- id: eo-17-04
+  status: ingested
+  title: Renewing Oregon's Commitment to Protecting its Immigrant, Refugee, and Religious-Minority Residents
+  file_ref: /gov/eo/eo_17-04.pdf
+  listing_year: '2017'
+  listing_number: '4'
+  text_layer: none
+  path: executive-orders/eo-17-04.md
+  sha256: 8f8e7126f84b421d8085234cca7ca33aeb5c838c4f6fea29279ac574b093fc61
+- id: eo-17-05
+  status: ingested
+  title: Determination of State of Emergency in Coos, Curry, Douglas, Josephine, Multnomah, and Tillamook
+    Counties Due to a Severe Winter Storm that Includes High Winds, Flooding, and Landslides
+  file_ref: /gov/eo/eo_17-05.pdf
+  listing_year: '2017'
+  listing_number: '5'
+  text_layer: none
+  path: executive-orders/eo-17-05.md
+  sha256: 5da1749f6781d98310d960e0af67df3bc09d82d567845df8e2f092050be63834
+- id: eo-17-06
+  status: ingested
+  title: Determination of State of Emergency in Clackamas, Clatsop, Columbia, Coos, Curry, Douglas, Gilliam,
+    Grant, Harney, Hood River, Josephine, Lake, Lane, Marion, Multnomah, Tillamook, Wasco, and Washington
+    Counties, Due to a Severe Winter Storm that Includes High Winds, Flooding, and Landslides
+  file_ref: /gov/eo/eo_17-06.pdf
+  listing_year: '2017'
+  listing_number: '6'
+  text_layer: none
+  path: executive-orders/eo-17-06.md
+  sha256: c30c58a18f88e0e4bacf3dbdde9b9b941f12e0b6ba4f67d626120f26cb940c29
+- id: eo-17-07
+  status: ingested
+  title: Immediate Cost Saving Measures in Oregon's Executive Branch
+  file_ref: /gov/eo/eo_17-07.pdf
+  listing_year: '2017'
+  listing_number: '7'
+  text_layer: none
+  path: executive-orders/eo-17-07.md
+  sha256: 1764bfa0e6fc0e24cec289834851496304714aaa3596d30a8746202b95257b61
+- id: eo-17-08
+  status: ingested
+  title: Strengthening Public Employee Bargaining and Training Practices
+  file_ref: /gov/eo/eo_17-08.pdf
+  listing_year: '2017'
+  listing_number: '8'
+  text_layer: none
+  path: executive-orders/eo-17-08.md
+  sha256: e1cc596aba3940fd120129f317c0a83adf11701886a5f7cb675f1ff909cbdf28
+- id: eo-17-09
+  status: ingested
+  title: Promoting Fiscal Responsibility by Recovering Monies Owed to the State
+  file_ref: /gov/eo/eo_17-09.pdf
+  listing_year: '2017'
+  listing_number: '9'
+  text_layer: none
+  path: executive-orders/eo-17-09.md
+  sha256: b7b0083d481e2cce581d5ff07cd8094fff83ba358a9ffc7247012aefe6e225be
+- id: eo-17-10
+  status: ingested
+  title: Amending Executive Order 17-09
+  file_ref: /gov/eo/eo_17-10.pdf
+  listing_year: '2017'
+  listing_number: '10'
+  text_layer: none
+  path: executive-orders/eo-17-10.md
+  sha256: a4cc356983b629ed66fb2e31d3fec777f2bd1152b898b74126e1dccf6947573b
+- id: eo-17-11
+  status: ingested
+  title: Relating to Affirmative Action, Equal Employment Opportunity, Diversity, Equity, and Inclusion
+  file_ref: /gov/eo/eo_17-11.pdf
+  listing_year: '2017'
+  listing_number: '11'
+  text_layer: none
+  path: executive-orders/eo-17-11.md
+  sha256: a2b8d0d22f2416166560484cd89ef247f7f6f192b01c9fa29e202b3a8fb0c9f0
+- id: eo-17-12
+  status: ingested
+  title: Task Force on Oregon Tribal Cultural Items
+  file_ref: /gov/eo/eo_17-12.pdf
+  listing_year: '2017'
+  listing_number: '12'
+  text_layer: none
+  path: executive-orders/eo-17-12.md
+  sha256: 9af0fd9197a0c166c9053ef92462f7e869918bbfc73a848a85ff6d3cdce88f10
+- id: eo-17-13
+  status: ingested
+  title: Directing State Agencies to Continue Planning and Response Activities for the Solar Eclipse,
+    to Ensure a Safe and Memorable Experience for Visitors to and Residents of Oregon
+  file_ref: /gov/eo/eo_17-13.pdf
+  listing_year: '2017'
+  listing_number: '13'
+  text_layer: none
+  path: executive-orders/eo-17-13.md
+  sha256: 525aa9af5f10607e87baa381d5dea63da79baf7e8eb9a72508b402883fcf44dc
+- id: eo-17-14
+  status: ingested
+  title: Determination of State of Emergency in Oregon to facilitate eclipse preparedness and readiness
+  file_ref: /gov/eo/eo_17-14.pdf
+  listing_year: '2017'
+  listing_number: '14'
+  text_layer: none
+  path: executive-orders/eo-17-14.md
+  sha256: a19b3418db9bda3318cc8fbd6a81aa4b69b47ddbeebb0298e78bf4b870e680fd
+- id: eo-17-15
+  status: ingested
+  title: Proclamation of State of Emergency Due to Imminent Threat of Wildfire
+  file_ref: /gov/eo/eo_17-15.pdf
+  listing_year: '2017'
+  listing_number: '15'
+  text_layer: none
+  path: executive-orders/eo-17-15.md
+  sha256: 0318b062bfcb35f90610ed7385513c44a9145a05a6ec7520c86a53eb42945a0a
+- id: eo-17-16
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Flounce Fire in Jackson County
+  file_ref: /gov/eo/eo_17-16.pdf
+  listing_year: '2017'
+  listing_number: '16'
+  text_layer: none
+  path: executive-orders/eo-17-16.md
+  sha256: d11ff0bf6db0b8fd009219d6d11d0e4cea0c84503cbc13eac199dfe1ff94e8be
+- id: eo-17-17
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Milli fire in Deschutes County
+  file_ref: /gov/eo/eo_17-17.pdf
+  listing_year: '2017'
+  listing_number: '17'
+  text_layer: none
+  path: executive-orders/eo-17-17.md
+  sha256: c2e13dacbca6fd1008a996cd8acc783fd29f62659c9a84081446eea408c1cd7e
+- id: eo-17-18
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Chetco Bar Fire in Curry County
+  file_ref: /gov/eo/eo_17-18.pdf
+  listing_year: '2017'
+  listing_number: '18'
+  text_layer: none
+  path: executive-orders/eo-17-18.md
+  sha256: ba7e0face049d6690607288e80b6f37102b1135a1a890cfa9b08410a97c27703
+- id: eo-17-19
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Eagle Creek Fire in Hood River and Multnomah
+    Counties
+  file_ref: /gov/eo/eo_17-19.pdf
+  listing_year: '2017'
+  listing_number: '19'
+  text_layer: none
+  path: executive-orders/eo-17-19.md
+  sha256: 0ce207f6fd6cdc5e412ec569c3c7b0fdd71771dcab0bbce3f1205ec6051cbd38
+- id: eo-17-20
+  status: ingested
+  title: Accelerating efficiency in Oregon's built environment to reduce greenhouse gas emissions and
+    address climate change
+  file_ref: /gov/eo/eo_17-20.pdf
+  listing_year: '2017'
+  listing_number: '20'
+  text_layer: none
+  path: executive-orders/eo-17-20.md
+  sha256: cb982656d52880d59e194833420ab2955e32e39d96c61bd4efd35fd68fcac143
+- id: eo-17-21
+  status: ingested
+  title: Accelerating zero emission vehicle adoption in Oregon to reduce greenhouse gas emissions and
+    address climate change
+  file_ref: /gov/eo/eo_17-21.pdf
+  listing_year: '2017'
+  listing_number: '21'
+  text_layer: none
+  path: executive-orders/eo-17-21.md
+  sha256: 6997423b8be5f0e8f0323a6a7895cbbb7524752ed67df9cf870d51b0f4377bdf
+- id: eo-17-22
+  status: ingested
+  title: Amending Executive Order 17-06
+  file_ref: /gov/eo/eo_17-22.pdf
+  listing_year: '2017'
+  listing_number: '22'
+  text_layer: none
+  path: executive-orders/eo-17-22.md
+  sha256: a07146eb416f26c6ac76ae7419160fc66e84de6c330d324949f1e361b76846f5
+- id: eo-18-01
+  status: ingested
+  title: Building Oregon's commitment to addiction prevention, treatment, and recovery priorities, and
+    setting deadlines for statutory requirements, and declaring a public health crisis
+  file_ref: /gov/eo/eo_18-01.pdf
+  listing_year: '2018'
+  listing_number: '1'
+  text_layer: none
+  path: executive-orders/eo-18-01.md
+  sha256: 33041eb52c2da57523535a62ffbb79fc4103a24a79cdaca2e219ccfba7d9db9d
+- id: eo-18-02
+  status: ingested
+  title: Determination of a State of Drought Emergency in Klamath County Due to Low Snowpack, Precipitation,
+    and Streamflow, and Warmer Than Normal Temperatures
+  file_ref: /gov/eo/eo_18-02.pdf
+  listing_year: '2018'
+  listing_number: '2'
+  text_layer: none
+  path: executive-orders/eo-18-02.md
+  sha256: 43739660d32c8a16b9045f9d46ec3856a8475eb9fbcf01e752c4f35ebde4decc
+- id: eo-18-03
+  status: ingested
+  title: Promoting Diversity and Inclusion Opportunities for Oregon Minority-Owned, Women-Owned, Service-Disabled
+    Veteran Owned, and Emerging Small Businesses
+  file_ref: /gov/eo/eo_18-03.pdf
+  listing_year: '2018'
+  listing_number: '3'
+  text_layer: none
+  path: executive-orders/eo-18-03.md
+  sha256: e3d810df3f401783fcc65e523d437faf4b367cac5def27ed18545beeb426c3cb
+- id: eo-18-04
+  status: ingested
+  title: Determination of a state of drought emergency in Grant County due to low snowpack, precipitation,
+    and streamflow, and warming temperatures
+  file_ref: /gov/eo/eo_18-04.pdf
+  listing_year: '2018'
+  listing_number: '4'
+  text_layer: none
+  path: executive-orders/eo-18-04.md
+  sha256: c0a29350586b4023c67da0389a6f0466ba048e168a9db8c948677a79c3995564
+- id: eo-18-05
+  status: ingested
+  title: Public Records
+  file_ref: /gov/eo/eo_18-05.pdf
+  listing_year: '2018'
+  listing_number: '5'
+  text_layer: none
+  path: executive-orders/eo-18-05.md
+  sha256: 399aacef2f6fed7a2f63a60b75efe8626e26163e5a7f1dbfb5f7bac5af0d8ae4
+- id: eo-18-06
+  status: ingested
+  title: Determination of a State of Drought Emergency in Harney County Due to Low Snowpack, Precipitation,
+    and Streamflow, and Warming Temperatures
+  file_ref: /gov/eo/eo_18-06.pdf
+  listing_year: '2018'
+  listing_number: '6'
+  text_layer: none
+  path: executive-orders/eo-18-06.md
+  sha256: 5b729d6152f170734505dfc234eac1cc1d241ef94d9604e65670c6009a5a03e6
+- id: eo-18-07
+  status: ingested
+  title: Determination of a State of Drought Emergency in Lake County due to Low Snowpack, Precipitation,
+    and Streamflow, and Warming Temperatures
+  file_ref: /gov/eo/eo_18-07.pdf
+  listing_year: '2018'
+  listing_number: '7'
+  text_layer: none
+  path: executive-orders/eo-18-07.md
+  sha256: c5a7c394575ed85204959dc737a553e4c67c7b300b189b232b7372e1ab522a27
+- id: eo-18-08
+  status: ingested
+  title: Declaration of State of Emergency for Marion and Polk Counties due to hazardous algae blooms.
+  file_ref: /gov/eo/eo_18-08.pdf
+  listing_year: '2018'
+  listing_number: '8'
+  text_layer: none
+  path: executive-orders/eo-18-08.md
+  sha256: 517a12bd48703d2cce315862a5f270757276a8b3860f68cefa3a78fdfcbbecf1
+- id: eo-18-09
+  status: ingested
+  title: Determination of a State of Drought Emergency in Baker County due to Low Snowpack, Precipitation,
+    and Streamflow, and Warming Temperatures
+  file_ref: /gov/eo/eo_18-09.pdf
+  listing_year: '2018'
+  listing_number: '9'
+  text_layer: none
+  path: executive-orders/eo-18-09.md
+  sha256: 5f65c1f383f6748ca0f9dd3d4c6d752b77eae01ad40445b9bf69ec3e58a8c971
+- id: eo-18-10
+  status: ingested
+  title: Determination of a State of Drought Emergency in Douglas County due to Low Snowpack, Precipitation,
+    and Streamflow, and Warming Temperatures
+  file_ref: /gov/eo/eo_18-10.pdf
+  listing_year: '2018'
+  listing_number: '10'
+  text_layer: none
+  path: executive-orders/eo-18-10.md
+  sha256: 5cdb380cea416cfd4cefa11d07c119b2dff05b89a45ed1eb59421e49c4cf2082
+- id: eo-18-11
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Graham Fire in Jefferson County
+  file_ref: /gov/eo/eo_18-11.pdf
+  listing_year: '2018'
+  listing_number: '11'
+  text_layer: none
+  path: executive-orders/eo-18-11.md
+  sha256: f00adacc13e942658ee6fe52b7bddff0ae6758b2bd2db5b5ecec65cc3a521c7e
+- id: eo-18-12
+  status: ingested
+  title: Determination of a State of Drought Emergency in Wheeler County Due to Low Streamflow and Hot,
+    Dry Conditions
+  file_ref: /gov/eo/eo_18-12.pdf
+  listing_year: '2018'
+  listing_number: '12'
+  text_layer: none
+  path: executive-orders/eo-18-12.md
+  sha256: c0fa907e7885837f9f8197f633507654b895a70e5c95c7ff319319fa8c942b20
+- id: eo-18-13
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Substation Fire in Sherman and Wasco Counties
+  file_ref: /gov/eo/eo_18-13.pdf
+  listing_year: '2018'
+  listing_number: '13'
+  text_layer: none
+  path: executive-orders/eo-18-13.md
+  sha256: d029ce2a99c7294df679b5693fbff892c722ba2df23fa09a9f8d91a8d39af24f
+- id: eo-18-14
+  status: ingested
+  title: Proclamation of State of Emergency Due to Imminent Threat of Wildfire
+  file_ref: /gov/eo/eo_18-14.pdf
+  listing_year: '2018'
+  listing_number: '14'
+  text_layer: none
+  path: executive-orders/eo-18-14.md
+  sha256: 5a1494de8db75d191ddf0f3c958e4df3736b55214f20acdc7187916750384ec1
+- id: eo-18-15
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Garner Complex Fire in Jackson and Josephine
+    Counties
+  file_ref: /gov/eo/eo_18-15.pdf
+  listing_year: '2018'
+  listing_number: '15'
+  text_layer: none
+  path: executive-orders/eo-18-15.md
+  sha256: 0b20c3726d0c606a21aed39ab51018c0342760d6984a498aa452413792ce2f14
+- id: eo-18-16
+  status: ingested
+  title: Oregon Historic Trails Advisory Council
+  file_ref: /gov/eo/eo_18-16.pdf
+  listing_year: '2018'
+  listing_number: '16'
+  text_layer: none
+  path: executive-orders/eo-18-16.md
+  sha256: ed869ddf99697117604d8c532954244e57b9fbd686fb2e1849e91032b0132526
+- id: eo-18-17
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the South Valley Fire in Wasco County
+  file_ref: /gov/eo/eo_18-17.pdf
+  listing_year: '2018'
+  listing_number: '17'
+  text_layer: none
+  path: executive-orders/eo-18-17.md
+  sha256: 1843fe1c9f384195fe427f8f78ac77de0d6dae1f588f9d8e7fb96ef2b060ebe8
+- id: eo-18-18
+  status: ingested
+  title: Amending Executive Order 18-15 and Extending the Garner Complex Fire Declaration
+  file_ref: /gov/eo/eo_18-18.pdf
+  listing_year: '2018'
+  listing_number: '18'
+  text_layer: none
+  path: executive-orders/eo-18-18.md
+  sha256: 0c2e983f328063d6699d3d6aa7336ed21661f047e1dac4bf56a062660c8f73f4
+- id: eo-18-19
+  status: ingested
+  title: Determination of a State of Drought Emergency in Lincoln County Due to Low Streamflow and Hot,
+    Dry Conditions
+  file_ref: /gov/eo/eo_18-19.pdf
+  listing_year: '2018'
+  listing_number: '19'
+  text_layer: none
+  path: executive-orders/eo-18-19.md
+  sha256: 74d1429bd3ede5f85d63735d71b3e2c9e07cb6b4086283dd41db9c956bc1e99a
+- id: eo-18-20
+  status: ingested
+  title: Determination of a State of Drought Emergency in Morrow County Due to Low Streamflow and Hot,
+    Dry Conditions
+  file_ref: /gov/eo/eo_18-20.pdf
+  listing_year: '2018'
+  listing_number: '20'
+  text_layer: none
+  path: executive-orders/eo-18-20.md
+  sha256: 9b3322a113e91297887acceef81063710867cab80807cf65082c0b60464a63f7
+- id: eo-18-21
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Memaloose 2 Fire in Wasco County
+  file_ref: /gov/eo/eo_18-21.pdf
+  listing_year: '2018'
+  listing_number: '21'
+  text_layer: none
+  path: executive-orders/eo-18-21.md
+  sha256: c950f98aa2acdd6f1c7c265423508a303b2c1e7c860a8af670815ea783b96ae8
+- id: eo-18-22
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Stubblefield and Other Fires in Gilliam and
+    Wheeler Counties
+  file_ref: /gov/eo/eo_18-22.pdf
+  listing_year: '2018'
+  listing_number: '22'
+  text_layer: none
+  path: executive-orders/eo-18-22.md
+  sha256: 4f8b5bb6b691532be3b06cdda871f1ba7ef42ce931255d0111908becb645e630
+- id: eo-18-23
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Ramsey Canyon Fire in Jackson County
+  file_ref: /gov/eo/eo_18-23.pdf
+  listing_year: '2018'
+  listing_number: '23'
+  text_layer: none
+  path: executive-orders/eo-18-23.md
+  sha256: e6861dbe488199cadf03ebc0880f21d9b4b418d5b0125db32991b986d85cfcd1
+- id: eo-18-24
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Hugo Fire in Josephine County
+  file_ref: /gov/eo/eo_18-24.pdf
+  listing_year: '2018'
+  listing_number: '24'
+  text_layer: none
+  path: executive-orders/eo-18-24.md
+  sha256: 72da224a16a570887d0c1ae985350493fb3163ad346555b75c963614189b96a1
+- id: eo-18-25
+  status: ingested
+  title: Determination of a state of drought emergency in Gilliam County due to low streamflow and hot,
+    dry conditions
+  file_ref: /gov/eo/eo_18-25.pdf
+  listing_year: '2018'
+  listing_number: '25'
+  text_layer: none
+  path: executive-orders/eo-18-25.md
+  sha256: d11447c7e1b90ca3430e11dafcc448129654fb6b854782f0208f46759067c419
+- id: eo-18-26
+  status: ingested
+  title: Determination of a State of Drought Emergency in Malheur County due to a summer of low streamflow
+    and hot, dry conditions
+  file_ref: /gov/eo/eo_18-26.pdf
+  listing_year: '2018'
+  listing_number: '26'
+  text_layer: none
+  path: executive-orders/eo-18-26.md
+  sha256: 0f208fe8913935dd544d2c4766bdd45324be3e7f319093d63eaee5db31eaae5b
+- id: eo-18-27
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Klondike West Fire in Curry County
+  file_ref: /gov/eo/eo_18-27.pdf
+  listing_year: '2018'
+  listing_number: '27'
+  text_layer: none
+  path: executive-orders/eo-18-27.md
+  sha256: e90ca25d5ac7bf43f2eae841f870ebdda311d35c540420d2e0c427b4543bca61
+- id: eo-18-28
+  status: ingested
+  title: Directing State Agencies to Protect Oregon's Coastal Economy by Preventing Activities Associated
+    with Offshore Oil and Gas Drilling
+  file_ref: /gov/eo/eo_18-28.pdf
+  listing_year: '2018'
+  listing_number: '28'
+  text_layer: none
+  path: executive-orders/eo-18-28.md
+  sha256: 47e6964ae6dbcdb18adbe49168339dbfeea9837815412af4399a22c8a9130718
+- id: eo-18-29
+  status: ingested
+  title: Amending Executive Order No. 16-07
+  file_ref: /gov/eo/eo_18-29.pdf
+  listing_year: '2018'
+  listing_number: '29'
+  text_layer: none
+  path: executive-orders/eo-18-29.md
+  sha256: a81ea15bfadbe25088c521b9475a85ba362ee5cc2063396f73b25902ce019f7a
+- id: eo-18-30
+  status: ingested
+  title: Continuing Oregon Commission on Autism Spectrum Disorder
+  file_ref: /gov/eo/eo_18-30.pdf
+  listing_year: '2018'
+  listing_number: '30'
+  text_layer: none
+  path: executive-orders/eo-18-30.md
+  sha256: 280f8c0b8edb5ed86b0d670a040ef3ec505794712883c4dd4471d4618e997c53
+- id: eo-18-31
+  status: ingested
+  title: Establishing the Oregon Broadband Office
+  file_ref: /gov/eo/eo_18-31.pdf
+  listing_year: '2018'
+  listing_number: '31'
+  text_layer: none
+  path: executive-orders/eo-18-31.md
+  sha256: ada6ad87e153a2cb4698c205fe413ce9d1032ab875552fd80e173d0b51ac3ec3
+- id: eo-19-01
+  status: ingested
+  title: Establishing the Governor's Council on Wildfire Response
+  file_ref: /gov/eo/eo_19-01.pdf
+  listing_year: '2019'
+  listing_number: '1'
+  text_layer: none
+  path: executive-orders/eo-19-01.md
+  sha256: 4d4f5c8c277406ca590d20e53220cf4e403622f42fa34fd5050afd93eea8212a
+- id: eo-19-02
+  status: ingested
+  title: Determination of State of Emergency in Coos, Curry, Deschutes, Douglas, Jackson, Josephine, Klamath,
+    Lane, Linn, and Marion Counties due to a Severe Winter Storm that includes Heavy Snow and Ice Accumulation,
+    High Winds, Flooding, and Landslides,
+  file_ref: /gov/eo/eo_19-02.pdf
+  listing_year: '2019'
+  listing_number: '2'
+  text_layer: none
+  path: executive-orders/eo-19-02.md
+  sha256: b053a18f714cbe609bd3a38b7de5b7a7069b593029ddaf30e19705cb1c6bf2d9
+- id: eo-19-03
+  status: ingested
+  title: Establishing an Oversight Board to Address the Crisis in Oregon's Child Welfare System
+  file_ref: /gov/eo/eo_19-03.pdf
+  listing_year: '2019'
+  listing_number: '3'
+  text_layer: none
+  path: executive-orders/eo-19-03.md
+  sha256: cb9d80ff8299603e9855e6e5bebd6ee7b928995d458a71da1453b4737c296312
+- id: eo-19-04
+  status: ingested
+  title: Determination of State of Emergency in Baker, Coos, Curry, Douglas, Grant, Harney, Lane, Linn,
+    Malheur, Umatilla, Union, Wallowa, and Wheeler Counties Due to a Severe Winter Storm that Includes
+    High Winds, Flooding, and Landslides
+  file_ref: /gov/eo/eo-19-04.pdf
+  listing_year: '2019'
+  listing_number: '4'
+  text_layer: none
+  path: executive-orders/eo-19-04.md
+  sha256: 142a586b6d888591e2ac5d90c0efb4827b56dc7b1d4b51d8a97d3ee2fa50fa99
+- id: eo-19-05
+  status: ingested
+  title: Designating Segments of the Nehalem River (Clatsop and Tillamook Counties) as State Scenic Waterway
+    and Directing Scenic Waterway Studies to Use a Collaborative Process
+  file_ref: /gov/eo/eo_19-05.pdf
+  listing_year: '2019'
+  listing_number: '5'
+  text_layer: none
+  path: executive-orders/eo-19-05.md
+  sha256: fb4132b2cc2816330298d7f19a9c99d9e5c326f0a0981851eadc062efa8363fd
+- id: eo-19-06
+  status: ingested
+  title: Establishing the Behavioral Health Advisory Council
+  file_ref: /gov/eo/eo_19-06.pdf
+  listing_year: '2019'
+  listing_number: '6'
+  text_layer: none
+  path: executive-orders/eo-19-06.md
+  sha256: 6c0dd10980e71f8f11495b86dbdbfe4d813356364d8bf5b803c7475381fa33ea
+- id: eo-19-07
+  status: ingested
+  title: Amending Executive Order No. 19-03
+  file_ref: /gov/eo/eo_19_07.pdf
+  listing_year: '2019'
+  listing_number: '7'
+  text_layer: none
+  path: executive-orders/eo-19-07.md
+  sha256: 0656a47c9e4da0461d755aa409f2440abe5ee54d85b0fc0ddcfa390e80b619d7
+- id: eo-19-08
+  status: ingested
+  title: Ensuring Equal Treatment Under Law to Oregon's LGBT+ Community
+  file_ref: /gov/eo/eo_19-08.pdf
+  listing_year: '2019'
+  listing_number: '8'
+  text_layer: none
+  path: executive-orders/eo-19-08.md
+  sha256: e65ed6ef5b3e6cc83ce10f6de2c4c877628c2e03f9560adbca2e6cc62588afd1
+- id: eo-19-09
+  status: ingested
+  title: Directing State Agencies to Take Immediate Action to Address the Vaping Public Health Crisis
+  file_ref: /gov/eo/eo-19-09.pdf
+  listing_year: '2019'
+  listing_number: '9'
+  text_layer: none
+  path: executive-orders/eo-19-09.md
+  sha256: be16567d6833bd745c5f77240b8f8e33ac84be6a1e7a5e45aa00268acecf8f80
+- id: eo-20-01
+  status: ingested
+  title: Determination of State of Emergency in Umatilla, Union and Wallowa Counties due to a Severe Storm
+    that includes Heavy Rain, Snowmelt, Flooding and Landslides
+  file_ref: /gov/eo/eo_20-01.pdf
+  listing_year: '2020'
+  listing_number: '1'
+  text_layer: none
+  path: executive-orders/eo-20-01.md
+  sha256: cc3d20dfd6beb7e33bda0e5f78260dd4d080bd0f98e491261977f56520661a86
+- id: eo-20-02
+  status: ingested
+  title: Determination of a State of Drought Emergency in Klamath County due to low snowpack, precipitation,
+    streamflow, and warming temperatures
+  file_ref: /gov/eo/eo_20-02.pdf
+  listing_year: '2020'
+  listing_number: '2'
+  text_layer: none
+  path: executive-orders/eo-20-02.md
+  sha256: 5946dfc0662795cd3672a3c94d8860a865686089f431a55f8ec74b970b9c53ca
+- id: eo-20-03
+  status: ingested
+  title: Declaration of Emergency due to Corona Virus (COVID-19) outbreak in Oregon
+  file_ref: /gov/eo/eo_20-03.pdf
+  listing_year: '2020'
+  listing_number: '3'
+  text_layer: none
+  path: executive-orders/eo-20-03.md
+  sha256: b9e0a8b6e68a243bfdaaf8a69d43cd9b3f8e6190609d881832935573716f3988
+- id: eo-20-04
+  status: ingested
+  title: Directing State Agencies to Take Actions to Reduce and Regulate Greenhouse Gas Emissions
+  file_ref: /gov/eo/eo_20-04.pdf
+  listing_year: '2020'
+  listing_number: '4'
+  text_layer: none
+  path: executive-orders/eo-20-04.md
+  sha256: 128fbbf1a6c1501cfe7839079b9b5205f4932e7693812428d3d36b0ece6a279c
+- id: eo-20-05
+  status: ingested
+  title: Prohibiting Large Gatherings Due to Coronavirus (COVID-19) Outbreak in Oregon
+  file_ref: /gov/eo/eo_20-05.pdf
+  listing_year: '2020'
+  listing_number: '5'
+  text_layer: none
+  path: executive-orders/eo-20-05.md
+  sha256: 15f51e5185f8d412ac6c345725ecfa8d47570b2f24dadf8a18572f574d079736
+- id: eo-20-06
+  status: ingested
+  title: Declaration of Abnormal Disruption of the Market due to COVID-19
+  file_ref: /gov/eo/eo_20-06.pdf
+  listing_year: '2020'
+  listing_number: '6'
+  text_layer: none
+  path: executive-orders/eo-20-06.md
+  sha256: 3816a5e06b452c1685574b656ca66c771c31249d64b9326e4eb6c0e59ab19de5
+- id: eo-20-07
+  status: ingested
+  title: Prohibiting On-Premises Consumption of Food or Drink and Gatherings of More Than 25 People
+  file_ref: /gov/eo/eo_20-07.pdf
+  listing_year: '2020'
+  listing_number: '7'
+  text_layer: none
+  path: executive-orders/eo-20-07.md
+  sha256: c9833ee74a0020a25aa42f3391c77084e57e33b242b36ba2a4a376833b8cea21
+- id: eo-20-08
+  status: ingested
+  title: School Closures and the Provision of School-based and Child Care Services in Response to Coronavirus
+    (COVID-19) Outbreak
+  file_ref: /gov/eo/eo_20-08.pdf
+  listing_year: '2020'
+  listing_number: '8'
+  text_layer: none
+  path: executive-orders/eo-20-08.md
+  sha256: 124aa3fea940ed744e6b9897d77acb93fad0554bdffa976d917050f1fa034908
+- id: eo-20-09
+  status: ingested
+  title: Suspension of In-Person Instructional Activities at Higher Education Institutions in Response
+    to Coronavirus (COVID-19) Outbreak
+  file_ref: /gov/eo/eo_20-09.pdf
+  listing_year: '2020'
+  listing_number: '9'
+  text_layer: none
+  path: executive-orders/eo-20-09.md
+  sha256: dbfc6715343694129986cef4d4a387773fb2bf8560e259ecd55576568d0eca7b
+- id: eo-20-10
+  status: ingested
+  title: Conserving Personal Protective Equipment and Hospital Beds, Protecting Health Care Workers, Postponing
+    Non-urgent Health Care Procedures, and Restricting Visitation in Response to Coronavirus (COVID-19)
+    Outbreaks
+  file_ref: /gov/eo/eo_20-10.pdf
+  listing_year: '2020'
+  listing_number: '10'
+  text_layer: none
+  path: executive-orders/eo-20-10.md
+  sha256: 690bd6ce3c6674966f8c0730883be9cc0a3ab8e47703e527f4d80bb828788497
+- id: eo-20-11
+  status: ingested
+  title: Temporary Moratorium on Residential Evictions for Nonpayment, in Response to Coronavirus (COVID-19)
+    Outbreak
+  file_ref: /gov/eo/eo_20-11.pdf
+  listing_year: '2020'
+  listing_number: '11'
+  text_layer: none
+  path: executive-orders/eo-20-11.md
+  sha256: 587edb6eb74952aaa59ac09d19935317452877d0125ceeacceaa9e8cd51d26a6
+- id: eo-20-12
+  status: ingested
+  title: 'Stay Home, Save Lives: Ordering Oregonians to Stay at Home, Closing Specified Retail Businesses,
+    Requiring Social Distancing Measures for Other Public and Private Facilities, and Imposing Requirements
+    for Outdoor Areas and Licensed Childcare Facilities'
+  file_ref: /gov/eo/eo_20-12.pdf
+  listing_year: '2020'
+  listing_number: '12'
+  text_layer: none
+  path: executive-orders/eo-20-12.md
+  sha256: e513bf7ede17b5962b9c3741d046d628c8fb0cee52d08e0b2dbf0699a353155a
+- id: eo-20-13
+  status: ingested
+  title: Temporary Moratorium on Certain Evictions and Terminations of Rental Agreements and Leases, in
+    Response to Coronavirus (COVID-19) Outbreak
+  file_ref: /gov/eo/eo_20-13.pdf
+  listing_year: '2020'
+  listing_number: '13'
+  text_layer: none
+  path: executive-orders/eo-20-13.md
+  sha256: 8bb396e4b7c4033d3219b009974480553dc375eb77ef812eebd12dbeb5ed5c7d
+- id: eo-20-14
+  status: ingested
+  title: Extending the Duration of Executive Order No. 20-07 (Prohibiting On-Premises Consumption of Food
+    or Drink)
+  file_ref: /gov/eo/eo_20-14.pdf
+  listing_year: '2020'
+  listing_number: '14'
+  text_layer: none
+  path: executive-orders/eo-20-14.md
+  sha256: 2f23f7ff941b009b9c3a63d6de1736fae560422274d5ddb40abf74ef697a915c
+- id: eo-20-15
+  status: ingested
+  title: Extending the Duration of Executive Order No. 20-06 (Declaration of Abnormal Disruption of the
+    Market Due to COVID-19)
+  file_ref: /gov/eo/eo_20-15.pdf
+  listing_year: '2020'
+  listing_number: '15'
+  text_layer: none
+  path: executive-orders/eo-20-15.md
+  sha256: a1ec856071c6a7d6e19adff3aed8f4becadae7be555a5a5f00b71a65b321f7c1
+- id: eo-20-16
+  status: ingested
+  title: 'Keep Government Working: Ordering Necessary Measures to Ensure Safe Public Meetings and Continued
+    Operations by Local Governments During Coronavirus (COVID-19) Outbreak'
+  file_ref: /gov/eo/eo_20-16.pdf
+  listing_year: '2020'
+  listing_number: '16'
+  text_layer: none
+  path: executive-orders/eo-20-16.md
+  sha256: 57741e38527c4cfe71381a4fa66fd6e115b2580b89f5000b52873049fcac955d
+- id: eo-20-17
+  status: ingested
+  title: Extending Executive Order No. 20-09 (Suspension of In-Person Instructional Activities at Higher
+    Education Institutions)
+  file_ref: /gov/eo/eo_20-17.pdf
+  listing_year: '2020'
+  listing_number: '17'
+  text_layer: none
+  path: executive-orders/eo-20-17.md
+  sha256: 567e44bdfe9974c1c31f638c9e345e02d3d882184a2110efbdcd591b15533d65
+- id: eo-20-18
+  status: ingested
+  title: Protecting Cares Act Recovery Rebate Payments from Garnishments, so those Funds can be Used for
+    Essential Needs
+  file_ref: /gov/eo/eo_20-18.pdf
+  listing_year: '2020'
+  listing_number: '18'
+  text_layer: none
+  path: executive-orders/eo-20-18.md
+  sha256: ce3451d9482c15845c91bf1fbae5322c9b26251c54dc3588b467e673b65124b7
+- id: eo-20-19
+  status: ingested
+  title: Extending Directives Regarding Closure of Licensed Childcare Facilities, in Response to Coronavirus
+    (COVID-19) Outbreak
+  file_ref: /gov/eo/eo_20-19.pdf
+  listing_year: '2020'
+  listing_number: '19'
+  text_layer: none
+  path: executive-orders/eo-20-19.md
+  sha256: 5083f6a4466504d0d77f835f6569cdf1acb497cb4d43091528ec5f91019a4f4d
+- id: eo-20-20
+  status: ingested
+  title: Continued Suspension of In-Person K-12 Instructional Activities and the Provision of School-Based
+    Services in Response to Coronavirus (COVID-19) Outbreak
+  file_ref: /gov/eo/eo_20-20.pdf
+  listing_year: '2020'
+  listing_number: '20'
+  text_layer: none
+  path: executive-orders/eo-20-20.md
+  sha256: 16a299ea0a60cfaab8a9023f68693abbf223914232fd515aeae2c689cba53d72
+- id: eo-20-21
+  status: ingested
+  title: Determination of a State of Drought Emergency in Curry County due to Unusually Low Streamflow
+    and Hot, Dry Conditions
+  file_ref: /gov/eo/eo_20-21.pdf
+  listing_year: '2020'
+  listing_number: '21'
+  text_layer: none
+  path: executive-orders/eo-20-21.md
+  sha256: aaa0e46a6b78de7589ff7ccc43ceba4f6c90216a00fa406236403b05d73ea457
+- id: eo-20-22
+  status: ingested
+  title: Allowing Measured Resumption of Non-Urgent Health Care Procedures using Personal Protective Equipment,
+    and Continuing Restrictions on Visitation in Response to Coronavirus (COVID-19) Outbreaks
+  file_ref: /gov/eo/eo_20-22.pdf
+  listing_year: '2020'
+  listing_number: '22'
+  text_layer: none
+  path: executive-orders/eo-20-22.md
+  sha256: 9f9ca349ef331497d82342225c0d817d44d7a0a71701131f2e2eaa76844b6276
+- id: eo-20-23
+  status: ingested
+  title: Determination of a State of Drought Emergency in Jackson County Due to Unusually Low Streamflow
+    and Hot Dry Conditions
+  file_ref: /gov/eo/eo_20-23.pdf
+  listing_year: '2020'
+  listing_number: '23'
+  text_layer: none
+  path: executive-orders/eo-20-23.md
+  sha256: f0c0c83db1717a67419c7ed4ca68d0b4f86c68e95a34ef3b6dbc849928a96a6c
+- id: eo-20-24
+  status: ingested
+  title: Extending the COVID-19 Declaration of Emergency (Executive Order No. 20-03) for an Additional
+    60 Days, through July 6, 2020
+  file_ref: /gov/eo/eo_20-24.pdf
+  listing_year: '2020'
+  listing_number: '24'
+  text_layer: none
+  path: executive-orders/eo-20-24.md
+  sha256: c3f90ad83e11e63749ef3533541fae83452a3e425046e66c34a2dbb2ede765e4
+- id: eo-20-25
+  status: ingested
+  title: 'A Safe and Strong Oregon: Maintaining Essential Health Directives in Response to COVID-19, and
+    Implementing a Phased Approach for Reopening Oregon''s Economy'
+  file_ref: /gov/eo/eo_20-25.pdf
+  listing_year: '2020'
+  listing_number: '25'
+  text_layer: none
+  path: executive-orders/eo-20-25.md
+  sha256: ba7d8ccf18e5abb1fb039ff73ba84f667f3c0115098a7782700a8c00de01cee5
+- id: eo-20-26
+  status: ingested
+  title: Determination of a State of Drought Emergency in Coos County Due to Unusually Low Streamflow
+    and Hot, Dry Conditions
+  file_ref: /gov/eo/eo_20-26.pdf
+  listing_year: '2020'
+  listing_number: '26'
+  text_layer: none
+  path: executive-orders/eo-20-26.md
+  sha256: 9ca37e08bdd76d48396978cb62b12c4ab7b9dcf03f9c296acc749f738c3097a3
+- id: eo-20-27
+  status: ingested
+  title: 'A Safe and Strong Oregon (Phase II): Maintaining Essential Health Directives in Response to
+    COVID-19, and Continuing to Implement a Phased Approach for Reopening Oregon''s Economy'
+  file_ref: /gov/eo/eo_20-27.pdf
+  listing_year: '2020'
+  listing_number: '27'
+  text_layer: none
+  path: executive-orders/eo-20-27.md
+  sha256: 20d7fadb25e55bd8d5828ff67fc06b581b6a00c973c4e7dd8409051bfa0412e6
+- id: eo-20-28
+  status: ingested
+  title: Operation of Higher Education Institutions during Coronavirus Pandemic
+  file_ref: /gov/eo/eo_20-28.pdf
+  listing_year: '2020'
+  listing_number: '28'
+  text_layer: none
+  path: executive-orders/eo-20-28.md
+  sha256: 38a0384d8ed1a221455fd8cccf638c5c6f7dc06d2c6843ad67b83a7d7187ef04
+- id: eo-20-29
+  status: ingested
+  title: 'Ready Schools, Safe Learners: K-12 Instructional Activities and the Provision of School-based
+    Services During 2020-2021 Academic Year in the Face of the Ongoing Coronavirus (COVID-19) Outbreak'
+  file_ref: /gov/eo/eo_20-29.pdf
+  listing_year: '2020'
+  listing_number: '29'
+  text_layer: none
+  path: executive-orders/eo-20-29.md
+  sha256: 97166205d5d8448c27cb78b2f1d01233d769540c4905389a9b5cd6f992a75a6b
+- id: eo-20-30
+  status: ingested
+  title: Second Extension of Executive Order 20-03 and COVID-19 State of Emergency; Rescinding Executive
+    Order 20-13 and Executive Order 20-18
+  file_ref: /gov/eo/eo_20-30.pdf
+  listing_year: '2020'
+  listing_number: '30'
+  text_layer: none
+  path: executive-orders/eo-20-30.md
+  sha256: 135355bbc510a7b58511a4cebbe494caa5301de7d57cb55612964709a93bf32f
+- id: eo-20-31
+  status: ingested
+  title: Determination of a State of Drought Emergency in Douglas, Gilliam, Josephine, Crook, Deschutes,
+    Jefferson and Wasco Counties due to Unusually Low Water Supplies and Hot, Dry Conditions
+  file_ref: /gov/eo/eo_20-31.pdf
+  listing_year: '2020'
+  listing_number: '31'
+  text_layer: none
+  path: executive-orders/eo-20-31.md
+  sha256: 2b739f352ec2820b54ff374a643a8bcf4a0797e808c45b4ab6702e29ddd8c608
+- id: eo-20-32
+  status: ingested
+  title: Determination of a State of Drought Emergency in Morrow and Wheeler Counties Due to Unusually
+    Low Water Supplies and Hot, Dry Conditions
+  file_ref: /gov/eo/eo_20-32.pdf
+  listing_year: '2020'
+  listing_number: '32'
+  text_layer: none
+  path: executive-orders/eo-20-32.md
+  sha256: b3619699d5982dd319435e8f39bfa25173ba76e41f36ea01e829bea597f614f1
+- id: eo-20-33
+  status: ingested
+  title: Determination of a State Drought Emergency in Lake County Due to Unusually Low Water Supplies
+    and Hot, Dry Condiditions
+  file_ref: /gov/eo/eo_20-33.pdf
+  listing_year: '2020'
+  listing_number: '33'
+  text_layer: none
+  path: executive-orders/eo-20-33.md
+  sha256: 731635e9f3ddfef213c99ebb2598cac1964bf56f37aeb69aad0eac303588df70
+- id: eo-20-34
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Mosier Creek Fire in Wasco County
+  file_ref: /gov/eo/eo_20-34.pdf
+  listing_year: '2020'
+  listing_number: '34'
+  text_layer: none
+  path: executive-orders/eo-20-34.md
+  sha256: 6e36db8a3a8f5b0f357584ae35cf3455288175fab33727d2011ed1ea7d050b6d
+- id: eo-20-35
+  status: ingested
+  title: Proclamation of State of Emergency Due to Imminent Threat of Wildfire
+  file_ref: /gov/eo/eo_20-35.pdf
+  listing_year: '2020'
+  listing_number: '35'
+  text_layer: none
+  path: executive-orders/eo-20-35.md
+  sha256: 0153f0cf290827981d33306f30b94b293200b96c991728a762cd21c276f10bf4
+- id: eo-20-36
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the White River Fire in Wasco County
+  file_ref: /gov/eo/eo_20-36.pdf
+  listing_year: '2020'
+  listing_number: '36'
+  text_layer: none
+  path: executive-orders/eo-20-36.md
+  sha256: 3a0475f57d9035a261d695dd4a770eb237a9cdd69a5c43761141a9545a14b3da
+- id: eo-20-37
+  status: ingested
+  title: Extending House Bill 4204's Mortgage Foreclosure Moratorium until December 31, 2020
+  file_ref: /gov/eo/eo_20-37.pdf
+  listing_year: '2020'
+  listing_number: '37'
+  text_layer: none
+  path: executive-orders/eo-20-37.md
+  sha256: 79b16cd3f6170895224ae02ff005e1c8a7c08cbe54d33fe43f144f5c31693541
+- id: eo-20-38
+  status: ingested
+  title: Third Extension of Executive Order 20-03 and COVID-19 State of Emergency; Rescinding Executive
+    Order 20-16
+  file_ref: /gov/eo/eo_20-38.pdf
+  listing_year: '2020'
+  listing_number: '38'
+  text_layer: none
+  path: executive-orders/eo-20-38.md
+  sha256: 3b0e3cdbb886dd03645596a63d286ae1dc563f888fb2996ce04c370bdf545881
+- id: eo-20-39
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Beachie Creek and Lionshead Fires in Marion
+    County
+  file_ref: /gov/eo/eo_20-39.pdf
+  listing_year: '2020'
+  listing_number: '39'
+  text_layer: none
+  path: executive-orders/eo-20-39.md
+  sha256: b3e9bf36568e120d664410d4d2e9c7e865a7d83a33f9f7c678e2dbd9854fcda5
+- id: eo-20-40
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Holiday Farm Fire in Lane County
+  file_ref: /gov/eo/eo_20-40.pdf
+  listing_year: '2020'
+  listing_number: '40'
+  text_layer: none
+  path: executive-orders/eo-20-40.md
+  sha256: 6c4b1faac843e3b82c9282deafc56d13cdbe6e4089a220477561acfd72eefbcd
+- id: eo-20-41
+  status: ingested
+  title: Invocation of Emergency Conflagration Act Statewide in Light of Extreme Fire Danger from Hot,
+    Dry, Windy Conditions
+  file_ref: /gov/eo/eo_20-41.pdf
+  listing_year: '2020'
+  listing_number: '41'
+  text_layer: none
+  path: executive-orders/eo-20-41.md
+  sha256: c23be4e200918f7d0dd2885bf3186425fa9bad3a0de2064d9aea64d32ffb2286
+- id: eo-20-42
+  status: ingested
+  title: Declaration of Abnormal Disruption of the Market Due to Wildfires
+  file_ref: /gov/eo/eo_20-42.pdf
+  listing_year: '2020'
+  listing_number: '42'
+  text_layer: none
+  path: executive-orders/eo-20-42.md
+  sha256: 669adc06bb4676fce0769fde30508d65bab5fbe5469fd8cf975c35ce22c96ae5
+- id: eo-20-43
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Powerline Fire in Washington County
+  file_ref: /gov/eo/eo_20-43.pdf
+  listing_year: '2020'
+  listing_number: '43'
+  text_layer: none
+  path: executive-orders/eo-20-43.md
+  sha256: c510374066c020a79e58d6f28f59d8aa2c45969c0758056b13b83c62bced7d9a
+- id: eo-20-44
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Almeda Fire in Jackson County
+  file_ref: /gov/eo/eo_20-44.pdf
+  listing_year: '2020'
+  listing_number: '44'
+  text_layer: none
+  path: executive-orders/eo-20-44.md
+  sha256: 59f462b42b72a40b43a64b3a16b2473ba26adbeb50dbb20f989f57575a6bd599
+- id: eo-20-45
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Slater Fire in Josephine County
+  file_ref: /gov/eo/eo_20-45.pdf
+  listing_year: '2020'
+  listing_number: '45'
+  text_layer: none
+  path: executive-orders/eo-20-45.md
+  sha256: 21c753107c600b292b5901fd4d9bc41b1e38ed535801d094f906ab94a92f57a6
+- id: eo-20-46
+  status: ingested
+  title: Determination of a State of Drought Emergency in Baker County Due to Unusually Low Water Supplies
+    and Hot, Dry Conditions
+  file_ref: /gov/eo/eo_20-46.pdf
+  listing_year: '2020'
+  listing_number: '46'
+  text_layer: none
+  path: executive-orders/eo-20-46.md
+  sha256: 5e214cf385ac6ced2be5de8647b6fc27130c91781af0719eafe577f8bd9dad01
+- id: eo-20-47
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the North Cascade Complex Fire in Clackamas County
+  file_ref: /gov/eo/eo_20-47.pdf
+  listing_year: '2020'
+  listing_number: '47'
+  text_layer: none
+  path: executive-orders/eo-20-47.md
+  sha256: caa3e797f5e73544f9a91084967033ef02810f4777e57a59b27a3d1244a9e46f
+- id: eo-20-48
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Brattain Fire in Lake County
+  file_ref: /gov/eo/eo_20-48.pdf
+  listing_year: '2020'
+  listing_number: '48'
+  text_layer: none
+  path: executive-orders/eo-20-48.md
+  sha256: 3969361f5087b349a6c6efed87f959104f2fe6e59fcfc95d337beb80ee155a30
+- id: eo-20-49
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Archie Creek Fire in Douglas County
+  file_ref: /gov/eo/eo_20-49.pdf
+  listing_year: '2020'
+  listing_number: '49'
+  text_layer: none
+  path: executive-orders/eo-20-49.md
+  sha256: 885a90d6ae594accd90c5ce15d5b1ba017fc3f96e3ea9e0b1eef155526945c95
+- id: eo-20-50
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Riverside Fire in Clackamas County
+  file_ref: /gov/eo/eo_20-50.pdf
+  listing_year: '2020'
+  listing_number: '59'
+  listing_metadata_mismatch: listing says 2020 No. 59; filename (trusted) says 2020 No. 50 — the description
+    matches the filename
+  text_layer: none
+  path: executive-orders/eo-20-50.md
+  sha256: 0ddbc5324be3197948e83940e12a3f3daf2cdb53151b0adeefc7103b88cf0545
+- id: eo-20-51
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the South Obenchain Fire in Jackson County
+  file_ref: /gov/eo/eo_20-51.pdf
+  listing_year: '2020'
+  listing_number: '51'
+  text_layer: none
+  path: executive-orders/eo-20-51.md
+  sha256: ce0f154fb0af9adfe8d73ac28968542ceb2f823814b8cd55e398c67fe52e57e5
+- id: eo-20-52
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Two Four Two Fire in Klamath County
+  file_ref: /gov/eo/eo_20-52.pdf
+  listing_year: '2020'
+  listing_number: '52'
+  text_layer: none
+  path: executive-orders/eo-20-52.md
+  sha256: dfd010a4aebee668bec5cb4bea2215178d3affa9eabb83bacd360a266ace1d4a
+- id: eo-20-53
+  status: ingested
+  title: Amending Executive Order 20-47, Regarding the North <br>Cascades Complex Fire
+  file_ref: /gov/eo/eo_20-53.pdf
+  listing_year: '2020'
+  listing_number: '53'
+  text_layer: none
+  path: executive-orders/eo-20-53.md
+  sha256: 23aa3db33922cbcd2214335eb6465bdc76c62547af2aaeebfa7b99db961fad7f
+- id: eo-20-54
+  status: ingested
+  title: Implementing Law Enforcement Plan to Keep the Peace, Protect Free Speech, and Prevent Violence
+    in the City of Portland
+  file_ref: /gov/eo/eo_20-54.pdf
+  listing_year: '2020'
+  listing_number: '54'
+  text_layer: none
+  path: executive-orders/eo-20-54.md
+  sha256: 4ffbe5aeaf2db47a0c654db161d7d1d5b5a7e27aae8a3fe318a15825301d8eb5
+- id: eo-20-55
+  status: ingested
+  title: Rescinding Executive Order 20-54
+  file_ref: /gov/eo/eo_20-55.pdf
+  listing_year: '2020'
+  listing_number: '55'
+  text_layer: none
+  path: executive-orders/eo-20-55.md
+  sha256: 6932c4a96b76ae75e1527c0b5c0cb41788e91e15f80aa46d8af9f741b95cff1c
+- id: eo-20-56
+  status: ingested
+  title: Temporary Moratorium on Residential Evictions for Nonpayment, in Response to COVID-19 and Wildfire
+    Emergencies
+  file_ref: /gov/eo/eo_20-56.pdf
+  listing_year: '2020'
+  listing_number: '56'
+  text_layer: none
+  path: executive-orders/eo-20-56.md
+  sha256: de025f1f1328dabcf7541681e8aa29880648b7185cae2956e88be5ce8e78938f
+- id: eo-20-57
+  status: ingested
+  title: Extending the Duration of Executive Order No. 20-42 (Declaration of Abnornal Disruption of the
+    Market Due to Wildfires)
+  file_ref: /gov/eo/eo_20-57.pdf
+  listing_year: '2020'
+  listing_number: '57'
+  text_layer: none
+  path: executive-orders/eo-20-57.md
+  sha256: 91737d5d3bb668005bf205f496f889f0d44e6e29e55fffcd49bb256260c32527
+- id: eo-20-58
+  status: ingested
+  title: Enhanced Health and Safety Requirements for Certain Employer-Provided Housing During Agricultural
+    Off Season in Response to Coronavirus (COVID-19) Oubreak
+  file_ref: /gov/eo/eo_20-58.pdf
+  listing_year: '2020'
+  listing_number: '58'
+  text_layer: none
+  path: executive-orders/eo-20-58.md
+  sha256: 12333333b68f53251eaa9dd193ab79b0a9c81023412b5199740230b4c024872e
+- id: eo-20-59
+  status: ingested
+  title: Fourth Extension of Executive Order 20-03 and COVID-19 State of Emergency
+  file_ref: /gov/eo/eo_20-59.pdf
+  listing_year: '2020'
+  listing_number: '59'
+  text_layer: none
+  path: executive-orders/eo-20-59.md
+  sha256: 49526418efec04fd1393acdfa7122b100d7aacbe13a6f20709257a5c3620f0a0
+- id: eo-20-60
+  status: ingested
+  title: Proclamation of State of Emergency to Support Ongoing Recovery from Catastrophic Wildfires
+  file_ref: /gov/eo/eo-20-60.pdf
+  listing_year: '2020'
+  listing_number: '60'
+  text_layer: none
+  path: executive-orders/eo-20-60.md
+  sha256: bb44067406da50bf273625ce4b8d24f454559da72424cbad44667abf4a8709e4
+- id: eo-20-61
+  status: ingested
+  title: Implementing Law Enforcement Plan to Keep the Peace, Protect Free Speech, and Prevent Violence
+    in the City of Portland
+  file_ref: /gov/eo/eo-20-61.pdf
+  listing_year: '2020'
+  listing_number: '61'
+  text_layer: none
+  path: executive-orders/eo-20-61.md
+  sha256: 43a94f89e921a6b09fbeb57c4a05c22120e458cf1489ca94737b0207f2af05ce
+- id: eo-20-62
+  status: ingested
+  title: Extending Executive Order 20-61
+  file_ref: /gov/eo/eo-20-62.pdf
+  listing_year: '2020'
+  listing_number: '62'
+  text_layer: none
+  path: executive-orders/eo-20-62.md
+  sha256: f5c733007f152d5e682a8a720931f72c6cf6c0aa7583df462d8fc86c6460defd
+- id: eo-20-63
+  status: ingested
+  title: Extending Executive Order 20-61
+  file_ref: /gov/eo/eo-20-63.pdf
+  listing_year: '2020'
+  listing_number: '63'
+  text_layer: none
+  path: executive-orders/eo-20-63.md
+  sha256: b7b43b7e804b0698d2af0f046f8ad2a8e2c53605eeb027dcb04dc46ed7ee2807
+- id: eo-20-64
+  status: ingested
+  title: Rescinding Executive Order 20-61
+  file_ref: /gov/eo/eo-20-64.pdf
+  listing_year: '2020'
+  listing_number: '64'
+  text_layer: none
+  path: executive-orders/eo-20-64.md
+  sha256: d588e241da6298e8557fa7c33b05c755144a84aae3a8037d5cb22c911eca4bc2
+- id: eo-20-65
+  status: ingested
+  title: Temporary Freeze to Address Surge in COVID-19 Cases in Oregon
+  file_ref: /gov/eo/eo-20-65.pdf
+  listing_year: '2020'
+  listing_number: '65'
+  text_layer: none
+  path: executive-orders/eo-20-65.md
+  sha256: c6b837e12f0f70d78562d37f54f89549093bc530b7f364224655098be1315fb7
+- id: eo-20-66
+  status: ingested
+  title: 'Risk and Safety Framework: County-By-County Metrics-Based Approach to Controlling COVID-19 Transmission
+    to Conserve Hospital Capacity and Protect Human Health and Human Lives'
+  file_ref: /gov/eo/eo-20-66.pdf
+  listing_year: '2020'
+  listing_number: '66'
+  text_layer: none
+  path: executive-orders/eo-20-66.md
+  sha256: 8f862634dfe9d3f2876b7f2027d7d900936d755170b6b017903fd50fe4d7bd62
+- id: eo-20-67
+  status: ingested
+  title: Fifth Extension of Executive Order 20-03 and COVID-19 State of Emergency
+  file_ref: /gov/eo/eo-20-67.pdf
+  listing_year: '2020'
+  listing_number: '67'
+  text_layer: none
+  path: executive-orders/eo-20-67.md
+  sha256: c97bcd30c2a40a32d5a7c6575dec8df8ce24c3401014796f2f792a564a69ac5a
+- id: eo-21-01
+  status: ingested
+  title: Determination of State of Emergency in Clatsop, Curry, Hood River, Lincoln, Multnomah, and Tillamook
+    Counties Due to a Severe Winter Storm that Included High Winds, Heavy Rain, Flooding, and Landslides
+  file_ref: /gov/eo/eo-21-01.pdf
+  listing_year: '2021'
+  listing_number: '1'
+  text_layer: none
+  path: executive-orders/eo-21-01.md
+  sha256: 4b7b2cb7a055c63b4b67ed948894103c7d2fc4101a80e69089e243d3ce145185
+- id: eo-21-02
+  status: ingested
+  title: Determination of State of Emergency in Benton, Clackamas, Hood River, Linn, Marion, Multnomah,
+    Polk, Washington, and Yamhill Counties Due to a Severe Winter Storm that Inlcudes Heavy Snow and Ice
+    Accumulations, High Winds, Flooding, and Landslides
+  file_ref: /gov/eo/eo-21-02.pdf
+  listing_year: '2021'
+  listing_number: '2'
+  text_layer: none
+  path: executive-orders/eo-21-02.md
+  sha256: 011fa153bd12cd5e68e911624314c6d9cfe41359be01cbd96c507b476c90a52f
+- id: eo-21-03
+  status: ingested
+  title: Declaration of Abnormal Disruption of the Market Due to Winter Storms
+  file_ref: /gov/eo/eo-21-03.pdf
+  listing_year: '2021'
+  listing_number: '3'
+  text_layer: none
+  path: executive-orders/eo-21-03.md
+  sha256: e9c4ce6df05de68cd6d9c9c1e7d37dc18dd0a6eeb4487d2613fee42683e61de9
+- id: eo-21-04
+  status: ingested
+  title: Extending Executive Order 21-02 for Clackamas, Marion, Multnomah, Polk, and Yamhill Counties
+  file_ref: /gov/eo/eo-21-04.pdf
+  listing_year: '2021'
+  listing_number: '4'
+  text_layer: none
+  path: executive-orders/eo-21-04.md
+  sha256: d9f343c82f8a9975d6c1891bd569bba0dc48e17764d302a81cea4f59b37376df
+- id: eo-21-05
+  status: ingested
+  title: Sixth Extension of Executive Order 20-03 and COVID-19 State of Emergency
+  file_ref: /gov/eo/eo-21-05.pdf
+  listing_year: '2021'
+  listing_number: '5'
+  duplicate_file_refs:
+  - /gov/eo/eo_21-05.pdf
+  duplicate_note: 'two listing rows: eo-21-05.pdf (text layer reads ''EXECUTIVE ORDER NO. 21-05 SIXTH
+    EXTENSION OF EXECUTIVE ORDER 20-03...'', ingested) and eo_21-05.pdf (larger image-only scan, no text
+    layer, cannot machine-confirm it is the same order) — human review: confirm the scan matches and which
+    is the file of record'
+  text_layer: clean (545 words, 99% dictionary)
+  path: executive-orders/eo-21-05.md
+  sha256: 157b05a2e009a78c175119c1b839c91fa55ece151e241ae6d79dfe43ac969717
+- id: eo-21-06
+  status: ingested
+  title: Ordering Public Schools to Offer Fully On-Site or Hybrid In-Person Instruction, Requiring All
+    Schools to Continue to Comply with Health and Safety Protocols to Control COVID-19
+  file_ref: /gov/eo/eo-21-06.pdf
+  listing_year: '2021'
+  listing_number: '6'
+  text_layer: none
+  path: executive-orders/eo-21-06.md
+  sha256: e90fb5cd5c2ee565dc6f3aa0705dc8087bb950e817889a9d6d5caaea8e567a8a
+- id: eo-21-07
+  status: ingested
+  title: Determination of a State of Drought Emergency in Klamath County Due to Unusually Low Snow Pack
+    and Lack of Precipitation
+  file_ref: /gov/eo/eo-21-07.pdf
+  listing_year: '2021'
+  listing_number: '7'
+  text_layer: none
+  path: executive-orders/eo-21-07.md
+  sha256: bcebf1b6cf6f1b946463e5836182e7a677a5943f31ceff8f7b9704bc01041cfc
+- id: eo-21-08
+  status: ingested
+  title: Determination of a State of Drought Emergency in Jackson County Due to Unusually Low Snow Pack,
+    Lack of Precipitation, Low Streamflow, and Low Reservoir Levels
+  file_ref: /gov/eo/eo-21-08.pdf
+  listing_year: '2021'
+  listing_number: '8'
+  text_layer: none
+  path: executive-orders/eo-21-08.md
+  sha256: fd91128c6f744325947a146f4c6cfc000a92c453eb295291ed5b903e5b02dd65
+- id: eo-21-09
+  status: ingested
+  title: DETERMINATION OF A STATE OF DROUGHT EMERGENCY IN LAKE COUNTY DUE TO LACK OF PRECIPITATION AND
+    UNUSUALLY LOW SNOW PACK AND STREAMFLOW.
+  file_ref: /gov/eo/eo-21-09.pdf
+  listing_year: '2021'
+  listing_number: '9'
+  text_layer: none
+  path: executive-orders/eo-21-09.md
+  sha256: 632a6899edfd2386c9847a6f82b45bd5288988fab3b2435781ef236688c4c0a6
+- id: eo-21-10
+  status: ingested
+  title: SEVENTH EXTENSION OF EXECUTIVE ORDER 20-03 AND COVID-19 STATE OF EMERGENCY
+  file_ref: /gov/eo/eo-21-10.pdf
+  listing_year: '2021'
+  listing_number: '10'
+  text_layer: none
+  path: executive-orders/eo-21-10.md
+  sha256: 7f728d6282f1247d3c6379cc6c721738a51fe52bb133b66846d4baac4497f8e8
+- id: eo-21-11
+  status: ingested
+  title: Determination of a State of Drought Emergency in Baker, Douglas, Gilliam, Morrow, and Wheeler
+    Counties Due to Lack of Precipitation and Unusually Low Snow Pack and Streamflow.
+  file_ref: /gov/eo/eo-21-11.pdf
+  listing_year: '2021'
+  listing_number: '11'
+  text_layer: none
+  path: executive-orders/eo-21-11.md
+  sha256: 7a646335751bc3dd55439bd5ce1371253f2c1daa6ff1e5c6cbe8ec05158415b6
+- id: eo-21-12
+  status: ingested
+  title: Determination of a State of Drought Emergency in Deschutes and Jefferson Counties Due to Lack
+    of Precipitation and Unusually Low Snowpack and Streamflow.
+  file_ref: /gov/eo/eo-21-12.pdf
+  listing_year: '2021'
+  listing_number: '12'
+  text_layer: none
+  path: executive-orders/eo-21-12.md
+  sha256: d2267e1e4590fccf7d5a2fcea93ec044f8c432d682f58416e11a145f92998fbc
+- id: eo-21-13
+  status: ingested
+  title: Determination of a State of Drought Emergency in Crook, Harney, Malheur, Sherman, and Wallowa
+    Counties Due to Lack of Precipitation and Unusually Low Snowpack and Streamflow.
+  file_ref: /gov/eo/eo-21-13.pdf
+  listing_year: '2021'
+  listing_number: '13'
+  text_layer: none
+  path: executive-orders/eo-21-13.md
+  sha256: a178c26771ae6e5310e3b9e55c3808cf38098e7e47a46b40f24e199d59cd4d27
+- id: eo-21-14
+  status: ingested
+  title: Extending House Bill 2009's Mortgage Foreclosure Moratorium until September 30, 2021
+  file_ref: /gov/eo/eo-21-14.pdf
+  listing_year: '2021'
+  listing_number: '14'
+  text_layer: none
+  path: executive-orders/eo-21-14.md
+  sha256: 302d565acd8b00a3ffc3384652dac421218c59b197c4f22e42f414d4e82653b5
+- id: eo-21-15
+  status: ingested
+  title: Rescinding all Remaining Covid-19 Restrictions; Continuing State Efforts to Support Ongoing Covid-19
+    Vaccination, Response, and Recovery Efforts
+  file_ref: /gov/eo/eo-21-15.pdf
+  listing_year: '2021'
+  listing_number: '15'
+  text_layer: none
+  path: executive-orders/eo-21-15.md
+  sha256: 96af02b586aa0ef90e9162d6718c3a72b3333b9713160f17317c96a89427e987
+- id: eo-21-16
+  status: ingested
+  title: Determination of a State of Drought Emergency in Grant, Umatilla, Union, and Wasco Counties Due
+    to Lack of Precipitation, Unusually Low Snowpack and Streamflow
+  file_ref: /gov/eo/eo-21-16.pdf
+  listing_year: '2021'
+  listing_number: '16'
+  text_layer: none
+  path: executive-orders/eo-21-16.md
+  sha256: adf462de3542f807a4a26ecc3eefc166e34b15886d92d9212743681af6b25632
+- id: eo-21-17
+  status: ingested
+  title: PROCLAMATION OF STATE OF EMERGENCY DUE TO IMMINENT<br>THREAT OF WILDFIRE
+  file_ref: /gov/eo/eo-21-17.pdf
+  listing_year: '2021'
+  listing_number: '17'
+  text_layer: none
+  path: executive-orders/eo-21-17.md
+  sha256: 33e340c845b175bca3994c22e12f516967a9d59b64fab606cfe0697fd84b0656
+- id: eo-21-18
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Wrentham Market Fire in Wasco County
+  file_ref: /gov/eo/eo-21-18.pdf
+  listing_year: '2021'
+  listing_number: '18'
+  text_layer: none
+  path: executive-orders/eo-21-18.md
+  sha256: 17d91e838d96a54f396dcd2e0cbb5c62365bb34fac6f068c8d1148c2fb77db94
+- id: eo-21-19
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Sunset Valley Fire in Wasco County
+  file_ref: /gov/eo/eo-21-19.pdf
+  listing_year: '2021'
+  listing_number: '19'
+  text_layer: none
+  path: executive-orders/eo-21-19.md
+  sha256: d37d395de8a539d68589519a3a83896aee63c7ef314c013ea37d5b6f12e7c1b8
+- id: eo-21-20
+  status: ingested
+  title: Directing State Agencies to Support Communities in Drought by Curtailing Nonessential Water Use,
+    Implementing Water Conservation Measures, and Encouraging Drought Resiliency
+  file_ref: /gov/eo/eo-21-20.pdf
+  listing_year: '2021'
+  listing_number: '29'
+  listing_metadata_mismatch: listing says 2021 No. 29; filename (trusted) says 2021 No. 20 — the description
+    matches the filename
+  text_layer: none
+  path: executive-orders/eo-21-20.md
+  sha256: 01083f17b968eeb1e300f19da48237fba1f9628cbb97cf72c8cffacc6890120f
+- id: eo-21-21
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Jack Fire in Douglas County
+  file_ref: /gov/eo/eo-21-21.pdf
+  listing_year: '2021'
+  listing_number: '21'
+  text_layer: none
+  path: executive-orders/eo-21-21.md
+  sha256: 8f3c402954003fa284c9b2e116dcbdce09bcd416e7ff601bb0211999539cb247
+- id: eo-21-22
+  status: ingested
+  title: Invocation of the Emergency Conflagration Act for the Bootleg Fire in Klamath County.
+  file_ref: /gov/eo/eo-21-22.pdf
+  listing_year: '2021'
+  listing_number: '22'
+  text_layer: none
+  path: executive-orders/eo-21-22.md
+  sha256: 52e5df56dbc380bb1a3c5ed7adc2f85d1a3efffe7eea45e01506646886fc3ffc
+- id: eo-21-23
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Grandview Fire in Jefferson County
+  file_ref: /gov/eo/eo-21-23.pdf
+  listing_year: '2021'
+  listing_number: '23'
+  text_layer: none
+  path: executive-orders/eo-21-23.md
+  sha256: 22bfc509d686b8a1a9ca03981aaa2fb95c81d7d5b23aff627cf230cb366a6a1b
+- id: eo-21-24
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Elbow Creek Fire in Wallowa County
+  file_ref: /gov/eo/eo-21-24.pdf
+  listing_year: '2021'
+  listing_number: '24'
+  text_layer: none
+  path: executive-orders/eo-21-24.md
+  sha256: 68499372235ebefbed5ae6f4e0e97e7b781ffe84ba9bbaaa17a91173ad99e280
+- id: eo-21-25
+  status: ingested
+  title: Determination of a State of Drought Emergency in Coos, Lane, and Lincoln Counties due to Lack
+    of Precipitation, High Temperatures, and Low Streamflow
+  file_ref: /gov/eo/eo-21-25.pdf
+  listing_year: '2021'
+  listing_number: '25'
+  text_layer: none
+  path: executive-orders/eo-21-25.md
+  sha256: 49100e64efbe143807130d5452467f434f5e80492683f9cbea7c37abcfecb3be
+- id: eo-21-26
+  status: ingested
+  title: Determination of State of Emergency in Benton, Columbia, Clackamas, Curry, Douglas, Gilliam,
+    Grant, Hood River, Jackson, Josephine, Lane, Lincoln, Linn, Marion, Morrow, Multnomah, Polk, Sherman,
+    Umatilla, Wasco, Washington, Wheeler, and Yamhill Counties Due to Excessive High Temperatures Causing
+    a Threat to Life, Health, and Infrastructure
+  file_ref: /gov/eo/eo-21-26.pdf
+  listing_year: '2021'
+  listing_number: '26'
+  text_layer: none
+  path: executive-orders/eo-21-26.md
+  sha256: 37d90473f8150169a7432531c26cf3d2463ad3b59473b953a44efbaa56225775
+- id: eo-21-27
+  status: ingested
+  title: Determination of State of Emergency in the State of Oregon Due to Excessive High Temperatures
+    Causing a Threat to Life, Health, and Infrastructure
+  file_ref: /gov/eo/eo-21-27.pdf
+  listing_year: '2021'
+  listing_number: '27'
+  text_layer: none
+  path: executive-orders/eo-21-27.md
+  sha256: f697685e331d8e78e67f03d5621d3e25440fbd90971cef24f0ce0c511df3ba1d
+- id: eo-21-28
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Middle Fork Complex in Lane County
+  file_ref: /gov/eo/eo-21-28.pdf
+  listing_year: '2021'
+  listing_number: '28'
+  text_layer: none
+  path: executive-orders/eo-21-28.md
+  sha256: 2fd56f7510e6b79f4517edecb05d3b292ab79a5177cd2f1083e02c77e46294dd
+- id: eo-21-29
+  status: ingested
+  title: COVID-19 Vaccination Requirement for State Executive Branch
+  file_ref: /gov/eo/eo-21-29.pdf
+  listing_year: '2021'
+  listing_number: '29'
+  text_layer: none
+  path: executive-orders/eo-21-29.md
+  sha256: 600c796fc04d92796c2e88ae9a4e624a8dfb83e9acd60af6d065143ce9f0efc2
+- id: eo-21-30
+  status: ingested
+  title: Extending House Bill 2009's Mortgage Foreclosure Moratorium Until December 31, 2021
+  file_ref: /gov/eo/eo-21-30.pdf
+  listing_year: '2021'
+  listing_number: '30'
+  text_layer: none
+  path: executive-orders/eo-21-30.md
+  sha256: 27ef5b58eba6e6a76194316672750098591025deda6d074300f0c5f81acb2985
+- id: eo-21-31
+  status: ingested
+  title: Extending Emergency Regulatory Flexibility for Childare Licensing; Amending Executive Order 21-15.
+  file_ref: /gov/eo/eo_21-31.pdf
+  listing_year: '2021'
+  listing_number: '31'
+  text_layer: none
+  path: executive-orders/eo-21-31.md
+  sha256: 988754a3d9704ff7064938931ae8b9ac90267a495ff79669aa88e5581be3520e
+- id: eo-21-32
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Cougar Peak Fire in Lake County
+  file_ref: /gov/eo/eo_21-32.pdf
+  listing_year: '2021'
+  listing_number: '32'
+  text_layer: none
+  path: executive-orders/eo-21-32.md
+  sha256: 829acde28060eb1946502aff55e7bc0ef28dce94b20c026b6a7b1bcc74c1a25d
+- id: eo-21-33
+  status: ingested
+  title: Determination of a State of Drought Emergency in Josephine, Linn, and Yamhill Counties Due to
+    Lack of Precipitation, Low Snowpack, Low Reservoir Levels, and Low Streamflow.
+  file_ref: /gov/eo/eo_21-33.pdf
+  listing_year: '2021'
+  listing_number: '33'
+  text_layer: none
+  path: executive-orders/eo-21-33.md
+  sha256: 22b8590b9bc6214864042c38c56489d60cdc8812a421377284b443e8f907a7fa
+- id: eo-21-34
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Patton Meadow Fire in Lake County
+  file_ref: /gov/eo/eo_21-34.pdf
+  listing_year: '2021'
+  listing_number: '34'
+  text_layer: none
+  path: executive-orders/eo-21-34.md
+  sha256: 89689f98bc9a61a3034c2332e9d44ba57e736895b77595993f6bb96dee2b3899
+- id: eo-21-35
+  status: ingested
+  title: Determination of a State of Drought Emergency in Curry County Due to Lack of Precipitation and
+    Above Average Temperatures and Low Streamflows
+  file_ref: /gov/eo/eo_21-35.pdf
+  listing_year: '2021'
+  listing_number: '35'
+  text_layer: none
+  path: executive-orders/eo-21-35.md
+  sha256: c6c70369bfbc12e1684ffa0e2da675be60eec25d76d55c61c6510d4ef87f5772
+- id: eo-21-36
+  status: ingested
+  title: Continuing State Efforts to Support Ongoing COVID-19 Vaccinataion, Response, and Recovery Efforts;
+    Extending Executive Order 20-03; Rescinding Executive Order 21-15 and Executive Order 21-31
+  file_ref: /gov/eo/eo_21-36.pdf
+  listing_year: '2021'
+  listing_number: '36'
+  text_layer: none
+  path: executive-orders/eo-21-36.md
+  sha256: 058a2083f4a0e933e933475fde73c8dd7e86a26801ba3580ba60f2f7b335cc72
+- id: eo-21-37
+  status: ingested
+  title: Determination of State of Emergency in Oregon Due to Severe Winter Weather that Includes Snow
+    Accumulation and Sustained Temperatures Below Freezing Across the State
+  file_ref: /gov/eo/eo_21-37.pdf
+  listing_year: '2021'
+  listing_number: '37'
+  text_layer: none
+  path: executive-orders/eo-21-37.md
+  sha256: 5f627e9325415208d9b17f493b0c639dade1c7d5e373559573e1accdc18a27b7
+- id: eo-22-01
+  status: ingested
+  title: Determination of State of Emergency in Clackamas, Clatsop, Columbia, Curry, Douglas, Lane, Lincoln,
+    Multnomah, Polk, and Yamhill Counties Due to a Severe Winter Storm that Includes High Winds, Heavy
+    Rain, Flooding, and Landslides
+  file_ref: /gov/eo/eo_22-01.pdf
+  listing_year: '2022'
+  listing_number: '1'
+  text_layer: none
+  path: executive-orders/eo-22-01.md
+  sha256: 5dbb3cd3bba16fd1a21975e9b4aedf8e05f9fb5f8a5c9fb69e1b3dae93ce5ecb
+- id: eo-22-02
+  status: ingested
+  title: Determination of a State of Drought Emergency in Klamath County
+  file_ref: /gov/eo/eo_22-02.pdf
+  listing_year: '2022'
+  listing_number: '2'
+  text_layer: none
+  path: executive-orders/eo-22-02.md
+  sha256: 0d447408990f8eeb2df0d183a341b55db2513ce4a4877d006aa65ede6af6b110
+- id: eo-22-03
+  status: ingested
+  title: Terminating COVID-19 State of Emergency; Rescinding Executive Order 20-03, Executive Order 21-29,
+    and Executive Order 21-36
+  file_ref: /gov/eo/eo_22-03.pdf
+  listing_year: '2022'
+  listing_number: '3'
+  text_layer: none
+  path: executive-orders/eo-22-03.md
+  sha256: 22c4995354e7d3eeb98ef23e50571d123cfee8f61035c202a47686449e5a2587
+- id: eo-22-04
+  status: ingested
+  title: Determination of a State of Drought Emergency in Crook, Jefferson and Morrow Counties
+  file_ref: /gov/eo/eo_22-04.pdf
+  listing_year: '2022'
+  listing_number: '4'
+  text_layer: none
+  path: executive-orders/eo-22-04.md
+  sha256: 12ed7db9bf76b3e2dbae7ab275d8b727b225c89c92b053039c6b1d3cc85d0a8a
+- id: eo-22-05
+  status: ingested
+  title: Rescinding Executive Order 20-60
+  file_ref: /gov/eo/eo_22-05.pdf
+  listing_year: '2022'
+  listing_number: '5'
+  text_layer: none
+  path: executive-orders/eo-22-05.md
+  sha256: c2dafe7e2bfabe6f72fc528960d31297c1814daaac452b1d9ee2dac39ab82f1a
+- id: eo-22-06
+  status: ingested
+  title: Determination of a State of Drought Emergency in Gilliam, Harney, and Jackson Counties
+  file_ref: /gov/eo/eo_22-06.pdf
+  listing_year: '2022'
+  listing_number: '6'
+  text_layer: none
+  path: executive-orders/eo-22-06.md
+  sha256: 6984687dd1acb27b8a7e906bb538868a022f123e80b64e56b0666bedea2e2598
+- id: eo-22-07
+  status: ingested
+  title: Determination of a State of Drought Emergency in Deschutes, Grant, Lake, and Malheur Counties
+  file_ref: /gov/eo/eo_22-07.pdf
+  listing_year: '2022'
+  listing_number: '7'
+  text_layer: none
+  path: executive-orders/eo-22-07.md
+  sha256: 259bd551ba9d2d543cb525baafe304efb47ca696019e45ff5f565fd2ccaf191d
+- id: eo-22-08
+  status: ingested
+  title: Determination of a State of Drought Emergency in Baker, Douglas, Wallowa, and Wheeler Counties
+  file_ref: /gov/eo/eo_22-08.pdf
+  listing_year: '2022'
+  listing_number: '8'
+  text_layer: none
+  path: executive-orders/eo-22-08.md
+  sha256: ccd2e42f6f9eaad505c0142ca9022c002f8b5c593eb7c6fbf774f2034098b1e1
+- id: eo-22-09
+  status: ingested
+  title: Determination of a State of Drought Emergency in Union and Wasco Counties
+  file_ref: /gov/eo/eo_22-09.pdf
+  listing_year: '2022'
+  listing_number: '9'
+  text_layer: none
+  path: executive-orders/eo-22-09.md
+  sha256: c4f535dee72662067b316fe2319a710ecdbea26dee412c98d5edb9978b81512f
+- id: eo-22-10
+  status: ingested
+  title: Determination of State of Emergency in Multiple Counties Due to the Need for Statewide Coordination
+    to Address Persistent Extreme Drought Conditions
+  file_ref: /gov/eo/eo_22-10.pdf
+  listing_year: '2022'
+  listing_number: '10'
+  text_layer: none
+  path: executive-orders/eo-22-10.md
+  sha256: fe3814fd0e6e58a26374a36f5d26491442f0f926016ae30f3b093e7e7aa833bb
+- id: eo-22-11
+  status: ingested
+  title: Relating to Affirmative Action, Equal Employment Opportunity, Diversity, Equity, and Inclusion
+  file_ref: /gov/eo/eo_22-11.pdf
+  listing_year: '2022'
+  listing_number: '11'
+  text_layer: none
+  path: executive-orders/eo-22-11.md
+  sha256: f246c37085b3860793497dd6bcfb7fb528f1d66ef71fabe248abd19f229d4d02
+- id: eo-22-12
+  status: ingested
+  title: Determination of State of Emergency in Crook, Jefferson, Umatilla, Union, Wallowa, and Wheeler
+    Counties Due to a Severe Storm that Includes High Winds, Heavy Rain, Flooding, and Landslides
+  file_ref: /gov/eo/eo_22-12.pdf
+  listing_year: '2022'
+  listing_number: '12'
+  text_layer: none
+  path: executive-orders/eo-22-12.md
+  sha256: fc145a8454d866f7ee36ec7ab9cfc2f74c8b105aae6cf67d99e745b714ba7359
+- id: eo-22-13
+  status: ingested
+  title: Determination of State of Emergency in 25 Oregon Counties Due to Excessive High Temperatures
+    Causing a Threat to Life, Health, and Infrastructure
+  file_ref: /gov/eo/eo_22-13.pdf
+  listing_year: '2022'
+  listing_number: '13'
+  text_layer: none
+  path: executive-orders/eo-22-13.md
+  sha256: 3355822f0e2e78a28b620fde962a08342efee454aad39f903cfbe491a7925ace
+- id: eo-22-14
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Miller Road / Dodge Fire in Wasco County
+  file_ref: /gov/eo/eo_22-14.pdf
+  listing_year: '2022'
+  listing_number: '14'
+  text_layer: none
+  path: executive-orders/eo-22-14.md
+  sha256: 4b2ec35746868b804e6c359b30a7635e3f71c875b86d6ca0f86c2f277bbbea3d
+- id: eo-22-15
+  status: ingested
+  title: Directing State Agencies to take Specific Steps to Improve Equity in State Procurement and Contracting;
+    Rescinding and Replacing Executive Order 18-03.
+  file_ref: /gov/eo/eo_22-15.pdf
+  listing_year: '2022'
+  listing_number: '15'
+  text_layer: none
+  path: executive-orders/eo-22-15.md
+  sha256: 3d65acda76c4a3839ae13cc01aab4500252b70da371df2746645609ac5017088
+- id: eo-22-16
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Rum Creek Fire in Josephine County
+  file_ref: /gov/eo/eo_22-16.pdf
+  listing_year: '2022'
+  listing_number: '16'
+  text_layer: none
+  path: executive-orders/eo-22-16.md
+  sha256: 8c5c56aa373bfeee2282d0284622189f813ffb60c7c486d357d592360b36ef79
+- id: eo-22-17
+  status: ingested
+  title: Proclamation of State of Emergency Due to Imminent Threat of Wildfire
+  file_ref: /gov/eo/eo_22-17.pdf
+  listing_year: '2022'
+  listing_number: '17'
+  text_layer: none
+  path: executive-orders/eo-22-17.md
+  sha256: 3369790ba728f10b97a0c444460c1f1042942943cc79a6272ac520fd86f84a98
+- id: eo-22-18
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Double Creek Fire in Wallowa County
+  file_ref: /gov/eo/eo_22-18.pdf
+  listing_year: '2022'
+  listing_number: '18'
+  text_layer: none
+  path: executive-orders/eo-22-18.md
+  sha256: 8fdf5199845816f79389764fb708ac7cfaea6086885e7ce054a7a0fa0e080bf4
+- id: eo-22-19
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Sturgill Fire in Wallowa County
+  file_ref: /gov/eo/eo_22-19.pdf
+  listing_year: '2022'
+  listing_number: '19'
+  text_layer: none
+  path: executive-orders/eo-22-19.md
+  sha256: 1f3438a72820572447d5886cf7b76183e9fe79ee08a0cee96a543dd150c5a8c8
+- id: eo-22-20
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Cedar Creek Fire in Lane County
+  file_ref: /gov/eo/eo_22-20.pdf
+  listing_year: '2022'
+  listing_number: '20'
+  text_layer: none
+  path: executive-orders/eo-22-20.md
+  sha256: f5c6f44976a5ec6f631468f2dbb1e08964d5571b0359579a99811a08e18f7fe0
+- id: eo-22-21
+  status: ingested
+  title: Establishing the Oregon Interagency Council on Homelessness
+  file_ref: /gov/eo/eo_22-21.pdf
+  listing_year: '2022'
+  listing_number: '21'
+  text_layer: none
+  path: executive-orders/eo-22-21.md
+  sha256: ea24636969d262f4b9bc27cfc70b2fcaf90f4d7eb281b788ac01d7dbc0f1c959
+- id: eo-22-22
+  status: ingested
+  title: Continuing the Governor's Advisory Committee on Motorcycle Safety; Replacing Executive Orders
+    99.09 and 16-01
+  file_ref: /gov/eo/eo_22-22.pdf
+  listing_year: '2022'
+  listing_number: '22'
+  text_layer: none
+  path: executive-orders/eo-22-22.md
+  sha256: 566d507988b3e1f243d1494916895c111d4c164ba8d2ee5b5dd9eeefebab4e30
+- id: eo-22-23
+  status: ingested
+  title: Declaration of Emergency Due to Surge in Pediatric Respiratory Infections in Oregon
+  file_ref: /gov/eo/eo_22-23.pdf
+  listing_year: '2022'
+  listing_number: '23'
+  text_layer: none
+  path: executive-orders/eo-22-23.md
+  sha256: 598d11403bd0e86a095403bb5943da401d4764b50d04308e1048b2f7984e8d23
+- id: eo-22-24
+  status: ingested
+  title: Expanding Declaration Of Emergency Due To Surge In Respiratory Infections In Oregon; Repealing
+    and Replacing Executive Order 22-23
+  file_ref: /gov/eo/eo_22-24.pdf
+  listing_year: '2022'
+  listing_number: '24'
+  text_layer: none
+  path: executive-orders/eo-22-24.md
+  sha256: b6a6e49ea4af138927c15395f45626176222343b50a5e80a8bd4d351ca3ab8e0
+- id: eo-22-25
+  status: ingested
+  title: Naming the Salem Campus of the State Hospital after Oregon Senate President Peter Courtney
+  file_ref: /gov/eo/eo_22-25.pdf
+  listing_year: '2022'
+  listing_number: '25'
+  text_layer: none
+  path: executive-orders/eo-22-25.md
+  sha256: a6ca19975a3ce0f9b8f834101eb5ac2946073e79fb67740478129048bd393ff3
+- id: eo-23-01
+  status: ingested
+  title: Determination of State of Emergency in Clackamas, Coos, Curry, Douglas, Hood River, Jackson,
+    Josephine, Lane, Lincoln, Multnomah, Washington, and Umatilla counties due to a severe winter storm
+  file_ref: /gov/eo/eo_23-01.pdf
+  listing_year: '2023'
+  listing_number: '1'
+  text_layer: clean (316 words, 93% dictionary)
+  path: executive-orders/eo-23-01.md
+  sha256: 40bf669ae360e1fce77e190c6c687f47865830abbf8a1f7a485720a7eb37b33a
+- id: eo-23-02
+  status: ingested
+  title: Declaring state of emergency due to homelessness
+  file_ref: /gov/eo/eo-23-02.pdf
+  listing_year: '2023'
+  listing_number: '2'
+  text_layer: none
+  path: executive-orders/eo-23-02.md
+  sha256: 06abc11867cacba07825930b6b1743f73e90a646c8de237110feae9f2866018a
+- id: eo-23-03
+  status: ingested
+  title: Directing state agencies to prioritize reducing homelessness
+  file_ref: /gov/eo/eo-23-03.pdf
+  listing_year: '2023'
+  listing_number: '3'
+  text_layer: none
+  path: executive-orders/eo-23-03.md
+  sha256: 5c4fc29e9dcb321be5ee9e35a216ce1bff8327061b0744b722563503314d3387
+- id: eo-23-04
+  status: ingested
+  title: Establishing a statewide housing production goal and housing production advisory council
+  file_ref: /gov/eo/eo-23-04.pdf
+  listing_year: '2023'
+  listing_number: '4'
+  text_layer: none
+  path: executive-orders/eo-23-04.md
+  sha256: f8fcad4003962d7c8cdf1ef7d7d4db6c11090acf40252e413920ae8d0b69d703
+- id: eo-23-05
+  status: ingested
+  title: Determination of a State of Drought Emergency in Crook and Jefferson Counties
+  file_ref: /gov/eo/eo-23-05.pdf
+  listing_year: '2023'
+  listing_number: '5'
+  text_layer: clean (488 words, 95% dictionary)
+  path: executive-orders/eo-23-05.md
+  sha256: 7b9a19d3e846a9ba4960236fbeee99d52b8542e0e3ac3fdef7bf2e57522c1d73
+- id: eo-23-06
+  status: ingested
+  title: Determination of a State of Winter Emergency in Multnomah County
+  file_ref: /gov/eo/eo-23-06.pdf
+  listing_year: '2023'
+  listing_number: '6'
+  text_layer: clean (198 words, 94% dictionary)
+  path: executive-orders/eo-23-06.md
+  sha256: 987ca7b65d9b517abd37aba3502432afeec2475b808a69768b0b9b0c74a37aef
+- id: eo-23-07
+  status: ingested
+  title: Supersedes Executive Order 23-01 To Add Malheur County
+  file_ref: /gov/eo/eo-23-07.pdf
+  listing_year: '2023'
+  listing_number: '7'
+  text_layer: none
+  path: executive-orders/eo-23-07.md
+  sha256: d0530455c0e26a492b9f5f30e6e27964a899fa09a7e69034ea5a4b6ef2209a85
+- id: eo-23-08
+  status: ingested
+  title: Determination of a State of Drought Emergency in Grant and Deschutes Counties
+  file_ref: /gov/eo/eo-23-08.pdf
+  listing_year: '2023'
+  listing_number: '8'
+  text_layer: none
+  path: executive-orders/eo-23-08.md
+  sha256: 3b844cd140e632ef28d2cc927c7b0a545230c05a8fae1f828b4c8f30499ead3c
+- id: eo-23-09
+  status: ingested
+  title: Expanding Homelessness State of Emergency Declared in Executive Order 23-02 to include Clatsop,
+    Linn and Malheur Counties
+  file_ref: /gov/eo/eo-23-09.pdf
+  listing_year: '2023'
+  listing_number: '9'
+  text_layer: none
+  path: executive-orders/eo-23-09.md
+  sha256: ce3167ac96f775739a9f4c4b82083fe8d08ebd098a058ebbdd93db4996acd9a5
+- id: eo-23-10
+  status: ingested
+  title: Determination of a State of Drought Emergency in Wasco County
+  file_ref: /gov/eo/eo-23-10.pdf
+  listing_year: '2023'
+  listing_number: '10'
+  text_layer: none
+  path: executive-orders/eo-23-10.md
+  sha256: a77a49666cd9e34dddc46ec2c888bfcbdd254eaff9f12af56746b0313b356224
+- id: eo-23-11
+  status: ingested
+  title: Determination of a State of Drought Emergency in Harney County
+  file_ref: /gov/eo/eo-23-11.pdf
+  listing_year: '2023'
+  listing_number: '11'
+  text_layer: none
+  path: executive-orders/eo-23-11.md
+  sha256: 76e31a8365481ba87eeb94abb80c193301f0dafbeffbf7fac09bd72a28ab3e4a
+- id: eo-23-12
+  status: ingested
+  title: Strengthening Educator Preparation for Literacy Instruction
+  file_ref: /gov/eo/eo-23-12.pdf
+  listing_year: '2023'
+  listing_number: '12'
+  text_layer: none
+  path: executive-orders/eo-23-12.md
+  sha256: 4e3b55932eda050088b17da30e68f81cfbec4cfe79c6ba68f83ba2cfc201f9a7
+- id: eo-23-13
+  status: ingested
+  title: Determination of a State of Emergency in Lake and Sherman Counties
+  file_ref: /gov/eo/eo-23-13.pdf
+  listing_year: '2023'
+  listing_number: '13'
+  text_layer: none
+  path: executive-orders/eo-23-13.md
+  sha256: 024af434ba5f1ff254ef614a092c0ce6640fa3d733145e78bf1c2b85ad5d7629
+- id: eo-23-14
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Hat Rock and Mt. Hebron Fires in Umatilla County
+  file_ref: /gov/eo/eo-23-14.pdf
+  listing_year: '2023'
+  listing_number: '14'
+  text_layer: none
+  path: executive-orders/eo-23-14.md
+  sha256: a4e13d008d6d22e8158d3e545f783985566bf4ab5874bcbdf48abd9969ed19ae
+- id: eo-23-15
+  status: ingested
+  title: Determination of a State of Drought Emergency in Jackson County
+  file_ref: /gov/eo/eo-23-15.pdf
+  listing_year: '2023'
+  listing_number: '15'
+  text_layer: none
+  path: executive-orders/eo-23-15.md
+  sha256: ee19266eedbeee245ea4c5158d4989d24ec03a01583b6392d8830731ccc6fa9d
+- id: eo-23-16
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Golden Fire in Klamath County
+  file_ref: /gov/eo/eo-23-16.pdf
+  listing_year: '2023'
+  listing_number: '16'
+  text_layer: none
+  path: executive-orders/eo-23-16.md
+  sha256: 81e6bbf630da4206e47e3ddab7a891737ad58086f8434100b0115411c730f5f6
+- id: eo-23-17
+  status: ingested
+  title: Proclamation of State of Emergency due to Imminent Threat of Wildfire
+  file_ref: /gov/eo/eo-23-17.pdf
+  listing_year: '2023'
+  listing_number: '17'
+  text_layer: none
+  path: executive-orders/eo-23-17.md
+  sha256: 6c025f209634e244458f86ffbd424d8314b37a467dcdd7385e7bb47251c03151
+- id: eo-23-18
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Lookout Fire in Lane County
+  file_ref: /gov/eo/eo-23-18.pdf
+  listing_year: '2023'
+  listing_number: '18'
+  text_layer: none
+  path: executive-orders/eo-23-18.md
+  sha256: f6ae1da0ab8a4dd6db37a11c2ee73e9d13674d6e9d10ff4571714d2fb054d92b
+- id: eo-23-19
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for Portions of the Tyee Ridge Complex in Douglas County
+  file_ref: /gov/eo/eo-23-19.pdf
+  listing_year: '2023'
+  listing_number: '19'
+  text_layer: none
+  path: executive-orders/eo-23-19.md
+  sha256: ee6d5e897481ef92029d158c08898453a34f9d38f385eb9f9649a1ad3834f605
+- id: eo-23-20
+  status: ingested
+  title: Determination of a State of Drought Emergency in Gilliam and Douglas Counties
+  file_ref: /gov/eo/eo-23-20.pdf
+  listing_year: '2023'
+  listing_number: '20'
+  text_layer: none
+  path: executive-orders/eo-23-20.md
+  sha256: 9929ec0b7fb7fe43a4cbdb4ece296c86b832d258b672d5a820ba2377bea92850
+- id: eo-23-21
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for Portions of the Smith River Complex in Josephine
+    County
+  file_ref: /gov/eo/eo-23-21.pdf
+  listing_year: '2023'
+  listing_number: '21'
+  text_layer: none
+  path: executive-orders/eo-23-21.md
+  sha256: fc3be57fc614ba7303a72b9efc3855c12729f6450449fdce7ea4443d4d8b4c8f
+- id: eo-23-22
+  status: ingested
+  title: Determination of a State of Drought Emergency in Lincoln County
+  file_ref: /gov/eo/eo-23-22.pdf
+  listing_year: '2023'
+  listing_number: '22'
+  text_layer: none
+  path: executive-orders/eo-23-22.md
+  sha256: a6a35eefcef61da8dfb5927ec0b0faf18081c9081316bc8cd73f0737d92e6cec
+- id: eo-23-23
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Bensel Fire in Umatilla County
+  file_ref: /gov/eo/eo-23-23.pdf
+  listing_year: '2023'
+  listing_number: '23'
+  text_layer: none
+  path: executive-orders/eo-23-23.md
+  sha256: 2a39676fef719347d35c951df3e9f5d29c3c50ea3591f7832d093975bf478263
+- id: eo-23-24
+  status: ingested
+  title: Determination of State of Emergency in Harney and Malheur due to a Severe Storm that Includes
+    Flooding and Landslides
+  file_ref: /gov/eo/eo-23-24.pdf
+  listing_year: '2023'
+  listing_number: '24'
+  text_layer: none
+  path: executive-orders/eo-23-24.md
+  sha256: 77808f3b8795d866a402e51901ae94e373270ed3c0dfbc364f81c79c5ab6e1ba
+- id: eo-23-25
+  status: ingested
+  title: Determination of a State of Drought Emergency in Morrow County
+  file_ref: /gov/eo/eo-23-25.pdf
+  listing_year: '2023'
+  listing_number: '25'
+  text_layer: none
+  path: executive-orders/eo-23-25.md
+  sha256: 5cfcb927b120394d4bb58b8be32d0ea1e7c308e820fe6deb5a27351f323986d8
+- id: eo-23-26
+  status: ingested
+  title: Establishing a State Government Artificial Intelligence Advisory Council
+  file_ref: /gov/eo/eo-23-26.pdf
+  listing_year: '2023'
+  listing_number: '26'
+  text_layer: none
+  path: executive-orders/eo-23-26.md
+  sha256: 3db63b4d46ef7d8a4c7ebef795f26c2078f49f27bc33a5bb329321a4014a63c4
+- id: eo-24-01
+  status: ingested
+  title: Determination of State of Emergency in Coos, Curry, Douglas, Jackson, and Tillamook due to a
+    severe storm that includes heavy rain, flooding, and landslides
+  file_ref: /gov/eo/eo-24-01.pdf
+  listing_year: '2024'
+  listing_number: '1'
+  text_layer: none
+  path: executive-orders/eo-24-01.md
+  sha256: 9f680c4ea7e9b91bf8fb05c743bda9ade0927ce7dcfefd19ad9e0d83db5b520e
+- id: eo-24-02
+  status: ingested
+  title: Merge and Extend Executive Order 23-02 and Executive Order 23-09
+  file_ref: /gov/eo/eo-24-02.pdf
+  listing_year: '2024'
+  listing_number: '2'
+  text_layer: none
+  path: executive-orders/eo-24-02.md
+  sha256: 9cda906ef3be0fbde6530b88455fc8cbaaf7bbce5667dacbffc79d333955f6bf
+- id: eo-24-03
+  status: ingested
+  title: Modifying the Interagency Council on Homelessness to Implement Executive Order 23-03; Repealing
+    and Replacing Executive Order 22-21
+  file_ref: /gov/eo/eo-24-03.pdf
+  listing_year: '2024'
+  listing_number: '3'
+  text_layer: none
+  path: executive-orders/eo-24-03.md
+  sha256: eb636e38a43386aefe2a834798b0652e06a60ee0b349a6e6c76fac724a8907cf
+- id: eo-24-04
+  status: ingested
+  title: Declaration of State of Emergency in Lane County due to a Severe Winter Storm that included high
+    winds, ice, freezing rain, and extreme cold
+  file_ref: /gov/eo/eo-24-04.pdf
+  listing_year: '2024'
+  listing_number: '4'
+  text_layer: none
+  path: executive-orders/eo-24-04.md
+  sha256: dafa3efc5d23d2ea5549f1fc76fbf3a104d52eca19b2ee4e2bb48d71d536f95f
+- id: eo-24-05
+  status: ingested
+  title: Declaration of State of Emergency in Oregon due to a Severe Winter Storm that included high winds,
+    flooding, avalanches, and landslides
+  file_ref: /gov/eo/eo-24-05.pdf
+  listing_year: '2024'
+  listing_number: '5'
+  text_layer: none
+  path: executive-orders/eo-24-05.md
+  sha256: 67cd838727886f3351dd9b1c752e2a7fd2e5db98e1b302dc4fbe6b3b818e749a
+- id: eo-24-06
+  status: ingested
+  title: Oregon Tribal Cultural Items Task Force
+  file_ref: /gov/eo/eo-24-06.pdf
+  listing_year: '2024'
+  listing_number: '6'
+  text_layer: none
+  path: executive-orders/eo-24-06.md
+  sha256: 60fb412ce4fe4f5b3470787bea29e090e579b450ed7b53bb956c169bc9a956b6
+- id: eo-24-07
+  status: ingested
+  title: Declaring State of Emergency Due to Fentanyl Use in Portland City Center in Multnomah County
+  file_ref: /gov/eo/eo-24-07.pdf
+  listing_year: '2024'
+  listing_number: '7'
+  text_layer: none
+  path: executive-orders/eo-24-07.md
+  sha256: 791bbeae02f7ad0253b294dc9bc66431632e8fd001d2256093f2ad0a38c568e7
+- id: eo-24-08
+  status: ingested
+  title: Determination of a State of Drought Emergency in Jefferson County
+  file_ref: /gov/eo/eo-24-08.pdf
+  listing_year: '2024'
+  listing_number: '8'
+  text_layer: none
+  path: executive-orders/eo-24-08.md
+  sha256: 804bcc1938a3888513b741765886260dde62ee34eb8e3d52538f8ecfa1c1dda7
+- id: eo-24-09
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Darlene 3 Fire in Deschutes County
+  file_ref: /gov/eo/eo-24-09.pdf
+  listing_year: '2024'
+  listing_number: '9'
+  text_layer: none
+  path: executive-orders/eo-24-09.md
+  sha256: bab8688faca37f0ca5c0915946a421c1812bf897c3440f23d35e121f7422444e
+- id: eo-24-10
+  status: ingested
+  title: Declaration of State of Emergency Due to Extreme Heat
+  file_ref: /gov/eo/eo-24-10.pdf
+  listing_year: '2024'
+  listing_number: '10'
+  text_layer: none
+  path: executive-orders/eo-24-10.md
+  sha256: 1bfad41ff642721febcca9be6b1eb92e9e4a5d2c9737d96c76c85fbec531f2a4
+- id: eo-24-11
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Larch Creek Fire in Wasco County
+  file_ref: /gov/eo/eo-24-11.pdf
+  listing_year: '2024'
+  listing_number: '11'
+  text_layer: none
+  path: executive-orders/eo-24-11.md
+  sha256: aac7418ed4db4c02cfe73c80424a77728f1bc90d8b0a0c175eac0232eb20d2d8
+- id: eo-24-12
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Cow Valley Fire in Malheur County
+  file_ref: /gov/eo/eo-24-12.pdf
+  listing_year: '2024'
+  listing_number: '12'
+  text_layer: none
+  path: executive-orders/eo-24-12.md
+  sha256: 1bc8e66e32e4c24d6ffcc74499a6afd1cacba96791a835f887e6b2927b596f55
+- id: eo-24-13
+  status: ingested
+  title: Proclamation of State of Emergency due to Imminent Threat of Wildfire
+  file_ref: /gov/eo/eo-24-13.pdf
+  listing_year: '2024'
+  listing_number: '13'
+  text_layer: none
+  path: executive-orders/eo-24-13.md
+  sha256: bbd6d0f2706434d61f451b986db7fcd7d6edd26d014b8a9233eb8f00a8d3f837
+- id: eo-24-14
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Falls Fire in Harney County
+  file_ref: /gov/eo/eo-24-14.pdf
+  listing_year: '2024'
+  listing_number: '14'
+  text_layer: none
+  path: executive-orders/eo-24-14.md
+  sha256: e9feb42b5671b7f6a70860f4c758e5c55289fd203a333271df269ffcba6e0b82
+- id: eo-24-15
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Lone Rock Fire in Gilliam, Morrow, Wheeler
+    Counties
+  file_ref: /gov/eo/eo-24-15.pdf
+  listing_year: '2024'
+  listing_number: '15'
+  text_layer: none
+  path: executive-orders/eo-24-15.md
+  sha256: f76634db9fcc231d6f17ab7b4eeedd110ccd2688a7db9048013404ec37c221a2
+- id: eo-24-15-amended
+  status: ingested
+  title: (AMENDED) Invocation of Emergency Conflagration Act for the Lone Rock Fire in Gilliam County
+    and Boneyard Fire in Grant County
+  file_ref: /gov/eo/eo-24-15 (amended).pdf
+  listing_year: '2024'
+  listing_number: '15'
+  note: URL can't contain control characters. '/gov/eo/eo-24-15 (amended).pdf' (found at least ' ')
+  text_layer: none
+  path: executive-orders/eo-24-15-amended.md
+  sha256: 0858b09ac986c7e30bf02c5177e8ff469b8f12e8cb29b5de01a5b0defd186a66
+- id: eo-24-16
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Series of Fires in Umatilla County
+  file_ref: /gov/eo/eo-24-16.pdf
+  listing_year: '2024'
+  listing_number: '16'
+  text_layer: none
+  path: executive-orders/eo-24-16.md
+  sha256: 1d5c442f2423d4fe047a518fc4bdd35f96d4b5fa3fdc6c2b94a12533831087ac
+- id: eo-24-17
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Battle Mountain Complex Fire in Grant and Umatilla
+    Counties
+  file_ref: /gov/eo/eo-24-17.pdf
+  listing_year: '2024'
+  listing_number: '17'
+  text_layer: none
+  path: executive-orders/eo-24-17.md
+  sha256: 1abcac52c9ba0bcd347cfe30c3bf9b42c4d63464ec725cfd4c0c37e1db07e10f
+- id: eo-24-18
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Durkee Fire in Baker County
+  file_ref: /gov/eo/eo-24-18.pdf
+  listing_year: '2024'
+  listing_number: '18'
+  text_layer: none
+  path: executive-orders/eo-24-18.md
+  sha256: a18e0ff8e3b3017bfdc431d29ec0748f0e581d2cd20ae713627626f6d18515a4
+- id: eo-24-19
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Telephone Fire in Harney County
+  file_ref: /gov/eo/eo-24-19.pdf
+  listing_year: '2024'
+  listing_number: '19'
+  text_layer: none
+  path: executive-orders/eo-24-19.md
+  sha256: a8efc8d9b67e37fef55a48bb8be05b109574b5eced00e62dacc17a546ded0124
+- id: eo-24-20
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Elk Lane Fire in Jefferson County
+  file_ref: /gov/eo/eo-24-20.pdf
+  listing_year: '2024'
+  listing_number: '20'
+  text_layer: none
+  path: executive-orders/eo-24-20.md
+  sha256: a8b09059e3e8961ece00b15cff5e78676654128d96d18e85e4043d08bfee4794
+- id: eo-24-21
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Town Gulch Fire in Baker County
+  file_ref: /gov/eo/eo-24-21.pdf
+  listing_year: '2024'
+  listing_number: '21'
+  text_layer: none
+  path: executive-orders/eo-24-21.md
+  sha256: 0a76c1623ed627785369a223fe31100bcf3b4f257a7cb0620da8efc640c2d8d7
+- id: eo-24-22
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Dixon Fire in Douglas County
+  file_ref: /gov/eo/eo-24-22.pdf
+  listing_year: '2024'
+  listing_number: '22'
+  text_layer: none
+  path: executive-orders/eo-24-22.md
+  sha256: 2929d4edc218cc5700aa0a6b9b984f36cbe82aeb629cfdf4bd23c8acbf86c8bf
+- id: eo-24-23
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Copperfield Fire in Klamath County
+  file_ref: /gov/eo/eo-24-23.pdf
+  listing_year: '2024'
+  listing_number: '23'
+  text_layer: none
+  path: executive-orders/eo-24-23.md
+  sha256: 660e930c5039a02ac58c90eeb661a79c144ec5a4c38776a08b1afa8a7dfbdb2b
+- id: eo-24-24
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Rail Ridge Fire in Crook and Grant Counties
+  file_ref: /gov/eo/eo-24-24.pdf
+  listing_year: '2024'
+  listing_number: '24'
+  text_layer: none
+  path: executive-orders/eo-24-24.md
+  sha256: 88564382a3cacfa1c4b8fa8c11efc8f911199e3b4d49be2f9c62139a68e3f479
+- id: eo-24-25
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Shoe Fly Fire in Wheeler County
+  file_ref: /gov/eo/eo-24-25.pdf
+  listing_year: '2024'
+  listing_number: '25'
+  text_layer: none
+  path: executive-orders/eo-24-25.md
+  sha256: 9e9ef99e6c4295d952b44243d46c8b24c203ec186c6c0c40c703265acaf7f2ce
+- id: eo-24-26
+  status: ingested
+  title: Determination of a State of Drought Emergency in Lake County
+  file_ref: /gov/eo/eo-24-26.pdf
+  listing_year: '2024'
+  listing_number: '26'
+  text_layer: none
+  path: executive-orders/eo-24-26.md
+  sha256: 6053fd5850c5fb8898212d54cfe3b77390e544b8b6cf1d25e01e3955d97aa389
+- id: eo-24-27
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Service Fire in Wheeler
+  file_ref: /gov/eo/eo-24-27.pdf
+  listing_year: '2024'
+  listing_number: '27'
+  text_layer: none
+  path: executive-orders/eo-24-27.md
+  sha256: 42758d02f1815d8a8e39c4f224e3270a58e724a91bfbe34dd099a3c0b34cb19f
+- id: eo-24-28
+  status: ingested
+  title: Directing Coordinated and Transparent Implementation of Oregon's Commitments to the Columbia
+    Basin Restoration Initiative and the Resilient Columbia Basin Agreement
+  file_ref: /gov/eo/eo-24-28.pdf
+  listing_year: '2024'
+  listing_number: '28'
+  text_layer: none
+  path: executive-orders/eo-24-28.md
+  sha256: 0f889052e36717cfb105390b3911e538bc1f8abe1f1829cf07089c8576780070
+- id: eo-24-29
+  status: ingested
+  title: Determination of a State of Drought Emergency in Wallowa County
+  file_ref: /gov/eo/eo-24-29.pdf
+  listing_year: '2024'
+  listing_number: '29'
+  text_layer: none
+  path: executive-orders/eo-24-29.md
+  sha256: 059d754be9101ea93c4c0bfe9263e3aa54d16b19a5482da46d8604816ac18f40
+- id: eo-24-30
+  status: ingested
+  title: Determination of a State of Drought Emergency in Harney County
+  file_ref: /gov/eo/eo-24-30.pdf
+  listing_year: '2024'
+  listing_number: '30'
+  text_layer: none
+  path: executive-orders/eo-24-30.md
+  sha256: 1ba2c6723e14af925716cab720c81e746d65f6f48ce4a064a9972b6f1662aba0
+- id: eo-24-31
+  status: ingested
+  title: Establishing Project Labor Agreements for State Construction Projects (FAQ)
+  file_ref: /gov/eo/eo-24-31.pdf
+  listing_year: '2024'
+  listing_number: '31'
+  text_layer: clean (603 words, 96% dictionary)
+  path: executive-orders/eo-24-31.md
+  sha256: ded6480503b1121ac706a430bf917b0bbaabc7aa30ccc1e4200019db9bf01351
+- id: eo-25-01
+  status: ingested
+  title: Extension of Executive Order 24-02 (Homelessness State of Emergency)
+  file_ref: /gov/eo/eo-25-01.pdf
+  listing_year: '2025'
+  listing_number: '1'
+  text_layer: none
+  path: executive-orders/eo-25-01.md
+  sha256: 30589774db56536a19cefde12112cab2191b81886540c16256d39cb791593c73
+- id: eo-25-02
+  status: ingested
+  title: State of Emergency Due to Risk of Economic Shutdown in Morrow and Umatilla Counties
+  file_ref: /gov/eo/eo-25-02.pdf
+  listing_year: '2025'
+  listing_number: '2'
+  text_layer: none
+  path: executive-orders/eo-25-02.md
+  sha256: 04e4cee7f4844fef806005b392f3563a61ce870b5128e06b81590842667d81d1
+- id: eo-25-03
+  status: ingested
+  title: Determination of State of Emergency in Tillamook, Clackamas, Polk, Lincoln, Lane, Coos, Curry,
+    Douglas, Jackson, Wasco, Lake, Umatilla, Wheeler, Grant, and Wallowa due to Heavy Rain and Flooding
+  file_ref: /gov/eo/eo-25-03.pdf
+  listing_year: '2025'
+  listing_number: '3'
+  text_layer: none
+  path: executive-orders/eo-25-03.md
+  sha256: 1a58d24217afa5fb1e46598caed134d79f64b3d1f351907f00cb3ed4e248cc39
+- id: eo-25-04
+  status: ingested
+  title: Determination of State of Emergency in Clackamas, Coos, Curry, Douglas, Harney, Jackson, Josephine,
+    Lane, Multnomah, and Malheur Counties due to Flooding and Landslide Incidents
+  file_ref: /gov/eo/eo-25-04.pdf
+  listing_year: '2025'
+  listing_number: '4'
+  text_layer: none
+  path: executive-orders/eo-25-04.md
+  sha256: a811f93dfff98cfd192bea57ddacb35202814a7932e4a95839b5249a8cab269c
+- id: eo-25-05
+  status: ingested
+  title: Declaration of State of Emergency in Harney County due to Flooding
+  file_ref: /gov/eo/eo-25-05.pdf
+  listing_year: '2025'
+  listing_number: '5'
+  text_layer: none
+  path: executive-orders/eo-25-05.md
+  sha256: ab477d9e068a22a12f29e74c6a491327441c561f2ee3e396755f0123cb49efbe
+- id: eo-25-06
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Rowena Fire in Wasco County
+  file_ref: /gov/eo/eo-25-06.pdf
+  listing_year: '2025'
+  listing_number: '6'
+  text_layer: none
+  path: executive-orders/eo-25-06.md
+  sha256: 7425257fd9be7d8cbf5278169668b0d2ba5259aca11d5943ab5c691f8ba9a9fc
+- id: eo-25-07
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Alder Springs Fire in Jefferson County
+  file_ref: /gov/eo/eo-25-07.pdf
+  listing_year: '2025'
+  listing_number: '7'
+  text_layer: none
+  path: executive-orders/eo-25-07.md
+  sha256: df90aa36e8e325a9c8c129c898bd02d30483d026ce81c3d158590c5e9925137c
+- id: eo-25-08
+  status: ingested
+  title: Declaration of State of Emergency in Wasco County Due to the Rowena Wildfire
+  file_ref: /gov/eo/eo-25-08.pdf
+  listing_year: '2025'
+  listing_number: '8'
+  text_layer: none
+  path: executive-orders/eo-25-08.md
+  sha256: 598032ada1b8a6a47d706d72824b0382b11b0c5548ec402c920934e55e412d01
+- id: eo-25-09
+  status: ingested
+  title: Personal Electronic Device Policy for School Districts
+  file_ref: /gov/eo/eo-25-09.pdf
+  listing_year: '2025'
+  listing_number: '9'
+  text_layer: none
+  path: executive-orders/eo-25-09.md
+  sha256: 40621a2003ec8c6e45dee34e20e8b378dc90df1fecfeaf2f298161957a9709b4
+- id: eo-25-10
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Cold Springs Fire in Umatilla County
+  file_ref: /gov/eo/eo-25-10.pdf
+  listing_year: '2025'
+  listing_number: '10'
+  text_layer: none
+  path: executive-orders/eo-25-10.md
+  sha256: ff4dc51167a8e6f1bf43d145f72fc358d433e40241bef062588855e964fcfd80
+- id: eo-25-11
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Elk Fire in Klamath County
+  file_ref: /gov/eo/eo-25-11.pdf
+  listing_year: '2025'
+  listing_number: '11'
+  text_layer: none
+  path: executive-orders/eo-25-11.md
+  sha256: 296c0bd9f07a38131216fb21f2882761a411c13b51c7cb97ebe38d8cd3194a3d
+- id: eo-25-12
+  status: ingested
+  title: Determination of a State of Drought Emergency in Baker County
+  file_ref: /gov/eo/eo-25-12.pdf
+  listing_year: '2025'
+  listing_number: '12'
+  text_layer: none
+  path: executive-orders/eo-25-12.md
+  sha256: 682492f04fe6416e79f982e5e5fcba4aad92d6dfabfbb59b94617449e733100d
+- id: eo-25-13
+  status: ingested
+  title: Determination of a State of Drought Emergency in Lincoln County
+  file_ref: /gov/eo/eo-25-13.pdf
+  listing_year: '2025'
+  listing_number: '13'
+  text_layer: none
+  path: executive-orders/eo-25-13.md
+  sha256: bf4b39409e45a066599bc677ef3f9466fac500d6a64b2330aec9db94405891b0
+- id: eo-25-14
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Highland Fire in Crook County
+  file_ref: /gov/eo/eo-25-14.pdf
+  listing_year: '2025'
+  listing_number: '14'
+  text_layer: none
+  path: executive-orders/eo-25-14.md
+  sha256: 523b80459cddc1b0db877f564b46642190013a0e07965b9e8f92000a2e2f6dd4
+- id: eo-25-15
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Cram Fire in Jefferson and Wasco Counties
+  file_ref: /gov/eo/eo-25-15.pdf
+  listing_year: '2025'
+  listing_number: '15'
+  text_layer: none
+  path: executive-orders/eo-25-15.md
+  sha256: 8d8087d9bd97a28aa6e1da687907788f27ae08bdc417b8698f114cae06b5ce6b
+- id: eo-25-16
+  status: ingested
+  title: Declaration of State of Emergency Due to Imminent Threat of Wildfire
+  file_ref: /gov/eo/eo-25-16.pdf
+  listing_year: '2025'
+  listing_number: '16'
+  text_layer: none
+  path: executive-orders/eo-25-16.md
+  sha256: 6aa0f0b843409f2fcf5d6c429d412e431b31f85fd3c286aedd134158b301c1db
+- id: eo-25-17
+  status: ingested
+  title: Extending Executive Order 25-08 Declaring a State of Emergency in Wasco County due to the Rowena
+    Wildfire
+  file_ref: /gov/eo/eo-25-17.pdf
+  listing_year: '2025'
+  listing_number: '17'
+  text_layer: none
+  path: executive-orders/eo-25-17.md
+  sha256: b342f45963da62ac4edf3116bf63dbd044c4048c3f24769aef0f2d1892689fca
+- id: eo-25-18
+  status: ingested
+  title: Determination of a State of Drought Emergency in Morrow, Douglas, and Union Counties.
+  file_ref: /gov/eo/eo-25-18.pdf
+  listing_year: '2025'
+  listing_number: '18'
+  text_layer: none
+  path: executive-orders/eo-25-18.md
+  sha256: 8978f017d17bd32e2b569d2fbb356814fa7b2a8095252dabf93e9f97134ab182
+- id: eo-25-19
+  status: ingested
+  title: Determination of a State of Drought Emergency in Coos and Wheeler Counties
+  file_ref: /gov/eo/eo-25-19.pdf
+  listing_year: '2025'
+  listing_number: '19'
+  text_layer: none
+  path: executive-orders/eo-25-19.md
+  sha256: 6f69063701a45be2dc77ea37e18fe17a5c40f72a2312159fbd5a0acf7c2da0c9
+- id: eo-25-20
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Flat Fire in Jefferson and Deschutes Counties
+  file_ref: /gov/eo/eo-25-20.pdf
+  listing_year: '2025'
+  listing_number: '20'
+  text_layer: none
+  path: executive-orders/eo-25-20.md
+  sha256: ae1e707f1bc8d40f443fa36871464a948dcab7453f0e176379c5740f42499320
+- id: eo-25-21
+  status: ingested
+  title: Tobacco Prevention and Education Program Council
+  file_ref: /gov/eo/eo-25-21.pdf
+  listing_year: '2025'
+  listing_number: '21'
+  text_layer: none
+  path: executive-orders/eo-25-21.md
+  sha256: 9b533f0372fd66d0091cb01e4c1e69c1389a060b9b318262f7a5a3b226e6120b
+- id: eo-25-22
+  status: ingested
+  title: Constructing Seismically Resilient State Buildings
+  file_ref: /gov/eo/eo-25-22.pdf
+  listing_year: '2025'
+  listing_number: '22'
+  text_layer: none
+  path: executive-orders/eo-25-22.md
+  sha256: 9ed72a5f61392a6fc6f60ef9119f26b1212146d0a0337a02a8bdf62f15ad95f1
+- id: eo-25-23
+  status: ingested
+  title: Determination of a State of Drought Emergency on Jefferson County
+  file_ref: /gov/eo/eo-25-23.pdf
+  listing_year: '2025'
+  listing_number: '23'
+  text_layer: none
+  path: executive-orders/eo-25-23.md
+  sha256: 3974825a85b6b10a383b38716917ba172588862b73f160a29852200c828b3b84
+- id: eo-25-24
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Moon Complex Fire in Curry County
+  file_ref: /gov/eo/eo-25-24.pdf
+  listing_year: '2025'
+  listing_number: '24'
+  text_layer: none
+  path: executive-orders/eo-25-24.md
+  sha256: 7a6dba6dc217bcd31af99dd00e58fb281eac83e0dcd74239b81585edfe1028c0
+- id: eo-25-25
+  status: ingested
+  title: Accelerating Wind and Solar Energy Development in Advance of Elimination of Federal Clean Energy
+    Tax Credits
+  file_ref: /gov/eo/eo-25-25.pdf
+  listing_year: '2025'
+  listing_number: '25'
+  text_layer: none
+  path: executive-orders/eo-25-25.md
+  sha256: c6d3716bf79d67b33af1872ca93b22a6f760a54b813199486050011c4b2250cc
+- id: eo-25-26
+  status: ingested
+  title: Directing State Agencies to Take Urgent Action to Promote the Resilience of our Communities and
+    Natural and Working Lands and Waters
+  file_ref: /gov/eo/eo-25-26.pdf
+  listing_year: '2025'
+  listing_number: '26'
+  text_layer: none
+  path: executive-orders/eo-25-26.md
+  sha256: 44938142323825852994afe53bc2c8b3bffb2b6c1d829bc43d55762fbf9ec579
+- id: eo-25-27
+  status: ingested
+  title: Declaring a Hunger Emergency to Protect Oregonians from the Suspension of Federal Supplemental
+    Nutrition Assistance Program (SNAP)
+  file_ref: /gov/eo/eo-25-27.pdf
+  listing_year: '2025'
+  listing_number: '27'
+  text_layer: none
+  path: executive-orders/eo-25-27.md
+  sha256: d6ca4306fc3075c0700264b7a412da93cde01bc64afeb372de2c977b76e40be9
+- id: eo-25-28
+  status: ingested
+  title: Second Extension of Executive Order 25-08 Declaring a State of Emergency in Wasco County due
+    to the Rowena Fire
+  file_ref: /gov/eo/eo-25-28.pdf
+  listing_year: '2025'
+  listing_number: '28'
+  text_layer: none
+  path: executive-orders/eo-25-28.md
+  sha256: 5402e68888c56ec733d98debd6861a83c9b5ae25e9e387900d32ae6f08858214
+- id: eo-25-29
+  status: ingested
+  title: Executive Order on Reducing Greenhouse Gas Emissions and Advancing Oregon's Clean Energy Future
+  file_ref: /gov/eo/eo-25-29.pdf
+  listing_year: '2025'
+  listing_number: '29'
+  text_layer: none
+  path: executive-orders/eo-25-29.md
+  sha256: 6d881367752623b5cb015a1e2662c34923e84bbf220c622b9d5454f292327b2e
+- id: eo-25-30
+  status: ingested
+  title: Proclamation of State of Emergency Due to Impacts of the Olympic Pipeline Shutdown
+  file_ref: /gov/eo/eo-25-30.pdf
+  listing_year: '2025'
+  listing_number: '30'
+  text_layer: none
+  path: executive-orders/eo-25-30.md
+  sha256: 9efaece4689eb89639042804d57abbca9059b0c3c6bf171f8773322b1bf967fe
+- id: eo-25-31
+  status: ingested
+  title: Rescinding Executive Order 25-30
+  file_ref: /gov/eo/eo-25-31.pdf
+  listing_year: '2025'
+  listing_number: '31'
+  text_layer: none
+  path: executive-orders/eo-25-31.md
+  sha256: ec843548cc63b7904480455a1b98fcb8a75838d1481ea5f4ab909cbbea345b78
+- id: eo-25-32
+  status: ingested
+  title: Determination of State of Emergency in multiple counties due to a Severe Storm that included
+    high winds, heavy rain, flooding, and landslides
+  file_ref: /gov/eo/eo-25-32.pdf
+  listing_year: '2025'
+  listing_number: '32'
+  text_layer: clean (382 words, 90% dictionary)
+  path: executive-orders/eo-25-32.md
+  sha256: 8bfa6993c26833a551a06c23697c17b087082eac00db0bcce36b634ec358c939
+- id: eo-26-01
+  status: ingested
+  title: Extending Homelessness Emergency
+  file_ref: /gov/eo/eo-26-01.pdf
+  listing_year: '2026'
+  listing_number: '1'
+  text_layer: none
+  path: executive-orders/eo-26-01.md
+  sha256: 5beec799b2a86490478bb2ab810e556dc577db0b1e2351b5e2b98d1ff048dee5
+- id: eo-26-02
+  status: ingested
+  title: Expanding State of Emergency Declared in Executive Order 25-32 to include Linn, Polk, Umatilla,
+    Union, and Wallowa Counties
+  file_ref: /gov/eo/eo-26-02.pdf
+  listing_year: '2026'
+  listing_number: '2'
+  text_layer: none
+  path: executive-orders/eo-26-02.md
+  sha256: 9537b3f6a4799ed68d0ab7206ce714ebbe8bad27a0d00a01b135e8fc0568d193
+- id: eo-26-03
+  status: ingested
+  title: Third Extension of Executive Order 25-08 Declaring a State of Emergency in Wasco County due to
+    the Rowena Wildfire
+  file_ref: /gov/eo/eo-26-03.pdf
+  listing_year: '2026'
+  listing_number: '3'
+  text_layer: none
+  path: executive-orders/eo-26-03.md
+  sha256: 19c312d9c8dfbdbbdca85a0bdc9a63f8baf57e577623a00751a0a067538aa359
+- id: eo-26-04
+  status: ingested
+  title: Ensuring State Coordination for Immigrant and Refugee Communities to Promote Dignity and Safety
+  file_ref: /gov/eo/eo-26-04.pdf
+  listing_year: '2026'
+  listing_number: '4'
+  text_layer: none
+  path: executive-orders/eo-26-04.md
+  sha256: dae85d5b0beb361789bb98712abb63841825f1e0d9aca63a4bd43d537da72f8a
+- id: eo-26-05
+  status: ingested
+  title: Determination of a State of Drought Emergency in Baker, Deschutes and Umatilla Counties
+  file_ref: /gov/eo/eo-26-05.pdf
+  listing_year: '2026'
+  listing_number: '5'
+  text_layer: none
+  path: executive-orders/eo-26-05.md
+  sha256: daa92e8e9023753ca753a7135a2b2063590698c73f9b8644b678e9fe74c31e68
+- id: eo-26-06
+  status: ingested
+  title: Preserving Student Instructional Time
+  file_ref: /gov/eo/eo-26-06.pdf
+  listing_year: '2026'
+  listing_number: '6'
+  text_layer: none
+  path: executive-orders/eo-26-06.md
+  sha256: 6a272e7b192189d372c2ee30361c32da123ca0b687a69d1ef17139a996d17dd6
+- id: eo-26-07
+  status: ingested
+  title: Determination of a State of Drought Emergency in Crook, Grant, Jackson, Jefferson, Morrow and
+    Wallowa Counties
+  file_ref: /gov/eo/eo-26-07.pdf
+  listing_year: '2026'
+  listing_number: '7'
+  text_layer: none
+  path: executive-orders/eo-26-07.md
+  sha256: d204eb74d03c8a9abe1989e88c4d1b6b1d8f8035b29a37134aedd93dd686441f
+- id: eo-26-08
+  status: ingested
+  title: Determination of a State of Drought Emergency in Coos, Klamath and Wheeler Counties
+  file_ref: /gov/eo/eo-26-08.pdf
+  listing_year: '2026'
+  listing_number: '8'
+  text_layer: none
+  path: executive-orders/eo-26-08.md
+  sha256: 6898d5807332ac70c7e947fcff8e6a3798e565e8e40c8582029ed1c574d0272d
+- id: eo-26-09
+  status: ingested
+  title: Determination of a State of Drought Emergency in Douglas, Gilliam, Harney, Lake and Malheur Counties
+  file_ref: /gov/eo/eo-26-09.pdf
+  listing_year: '2026'
+  listing_number: '9'
+  text_layer: none
+  path: executive-orders/eo-26-09.md
+  sha256: 94ea9476c910336ead2deef52e655c5db6d90f3d9383045cfa286a3fc07b02d5
+- id: eo-26-10
+  status: ingested
+  title: Proclamation of State of Emergency Due to Imminent Threat of Wildfire
+  file_ref: /gov/eo/eo-26-10.pdf
+  listing_year: '2026'
+  listing_number: '10'
+  text_layer: none
+  path: executive-orders/eo-26-10.md
+  sha256: e5b7447fd43734eb2e70b73037d65283ce3a3d9339fce0dd293355e4401c5a80
+- id: eo-26-11
+  status: ingested
+  title: Determination of a State of Drought Emergency in Josephine and Wasco Counties
+  file_ref: /gov/eo/eo-26-11.pdf
+  listing_year: '2026'
+  listing_number: '11'
+  text_layer: none
+  path: executive-orders/eo-26-11.md
+  sha256: 1a4fd639818386a62b7b06e6cd2f9ab7e122c124a59ff8188318f6e8d376bff4
+- id: eo-26-12
+  status: ingested
+  title: Determination of a State of Drought Emergency in Curry and Union Counties
+  file_ref: /gov/eo/eo-26-12.pdf
+  listing_year: '2026'
+  listing_number: '12'
+  text_layer: none
+  path: executive-orders/eo-26-12.md
+  sha256: 96ae5fddad857a8edebcdedeb1ca7c248bb57fb38b815ebbb7c26d8a6993f9ef
+- id: eo-26-13
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the East Evans Creek Road Fire in Jackson County
+  file_ref: /gov/eo/eo-26-13.pdf
+  listing_year: '2026'
+  listing_number: '13'
+  text_layer: none
+  path: executive-orders/eo-26-13.md
+  sha256: 359e446a59ac0c47d146fa6dd3305aaf60d77197526601d3335c64708d077d46
+- id: eo-26-14
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Olive Butte Fire in Grant County
+  file_ref: /gov/eo/eo-26-14.pdf
+  listing_year: '2026'
+  listing_number: '14'
+  text_layer: none
+  path: executive-orders/eo-26-14.md
+  sha256: dd24517d0fdd9c08ba9ac7dbeff4d28886fdd8d3a58c9b2c1bac0d5ec54d18b4
+- id: eo-26-15
+  status: ingested
+  title: Invocation of Emergency Conflagration Act for the Lower Dry Creek Fire in Umatilla County
+  file_ref: /gov/eo/eo-26-15.pdf
+  listing_year: '2026'
+  listing_number: '15'
+  text_layer: clean (364 words, 86% dictionary)
+  path: executive-orders/eo-26-15.md
+  sha256: 0054e4b92a744617158f5727d1ce06dbc4948ed2de24473d2efe65f2670f3bf0

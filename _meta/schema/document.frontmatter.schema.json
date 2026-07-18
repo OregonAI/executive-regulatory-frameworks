@@ -39,6 +39,10 @@
       "pattern": "^[0-9a-f]{64}$",
       "description": "Content hash: sha256 of the whitespace-normalized extracted text of the source (raw-byte sha256 only for sources with <200 chars of extractable text, e.g. image-only scans). Computed by content_hash() in src/repo_lib.py; some servers stamp different bytes on every download, so raw hashes would drift without content change."
     },
+    "snapshot_policy": {
+      "enum": ["hash-only"],
+      "description": "hash-only: the raw source file is deliberately NOT committed (e.g. executive orders — ~700 MB of image-scan PDFs). source_sha256 is the normalized-text sha256 of the committed .txt extraction when one exists, else the raw-byte sha256 of the uncommitted source. Absent = normal always-commit-snapshot policy."
+    },
     "snapshot_id": {
       "type": "string",
       "description": "Snapshot basename in _meta/snapshots/ when it differs from id — for documents split from, or sharing, one source file (e.g. control-family files of one standard; ORS sections from one chapter HTML)"
