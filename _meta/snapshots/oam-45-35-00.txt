@@ -1,0 +1,91 @@
+OREGON ACCOUNTING MANUAL
+STATEWIDE POLICY
+NUMBER: 45.35.00
+SUBJECT: Payroll: Review of Gross Pay Adjustments
+EFFECTIVE DATE: XX/XX/XXXX
+LAST REVIEWED DATE: XX/XX/XXXX
+DIVISION: Chief Financial Office
+POLICY OWNER: Office of the State Controller | Oregon Statewide Payroll Services (OSPS)
+SUPERSEDES: Policy 45.35.00.PO and 45.35.00.PR (06/29/2007)
+PAGE NUMBER: Page 1 of 3
+REFERENCE/AUTHORITY:
+
+   •   ORS 292.018
+   •   ORS 292.022
+   •   ORS 292.036
+   •   ORS 84.004
+   •   ORS 84.013
+   •   ORS 84.019
+   •   OAR 166-300-2025
+   •   OAM 10.10.00 PO & PR
+APPROVED BY:
+
+Kate Nass, Chief Financial Officer, Approval on file
+_______________________________________
+
+Statement
+This is the state’s policy on the review of gross pay adjustments for each pay period. The
+purpose of the review is to analyze and ensure entries manually added by payroll staff are
+not entered for and by the same person or a team member and to promptly identify and
+correct any erroneous entries.
+
+
+
+
+Policy No: 45.35.00      Effective: XX/XX/XXXX Reviewed: XX/XX/XXXX              Page 1 of 3
+Applicability
+This policy applies to all state agencies that are subject to the Oregon Accounting Manual
+(OAM), as outlined in OAM 01.05.00 Introduction: Scope and Applicability. If any provisions
+of OAM policies or procedures conflict with bargaining agreements, the provisions of
+bargaining agreements would supersede OAM guidance.
+
+Definitions
+Employer agency: The state agency who employs staff in the exempt, unclassified, classified
+and management service providing personal services to the employer.
+
+Refer to OAM 65.00.00 Glossary for definitions.
+
+Policy
+Agency Responsibility
+101.   Immediately following each payroll processing run and prior to the release of pay to
+       employees, the Pay | Payroll Input Details report must be generated from the
+       Workday Payroll System to be reviewed by an agency manager who does not
+       directly supervise the payroll unit. The reviewer must approve (sign) the report. This
+       review must follow the procedures as outlined in this policy.
+
+Procedure
+Creating the Report and Performing the Review
+102.   The Pay | Payroll Input Details report must be created within one (1) business day
+       from the date payroll is processed
+103.   The Pay | Payroll Input Details report displays transactions (both current and
+       retroactive) that result in increases or decreases to gross wages or net pay or are
+       non-cash increases or decreases to year-to-date taxable income.
+104.   When creating the Pay | Payroll Input Details report, you may filter by “Pay
+       Component Group”, selecting “Adds to Gross” and “Adds to Net” to view all
+       manual entries that impact gross wages or net pay. The report must also include the
+       date and time that the report was created.
+105.   It is the responsibility of the employer agency to follow established internal control
+       procedures to ensure the review is consistently performed and properly
+       documented.
+
+
+
+
+Policy No: 45.35.00      Effective: XX/XX/XXXX Reviewed: XX/XX/XXXX                Page 2 of 3
+Report Correction, Approval and Retention
+106.   Any items identified during the review that appear unusual, potentially erroneous, or
+       otherwise questionable must be brought to the attention of a payroll partner, the
+       payroll manager, or other manager who oversees the agency’s payroll function.
+107.   After completing the review and making any necessary corrections, the reviewer
+       must either electronically approve or physically sign and date the report
+       to indicate approval of the information as presented or as corrected. If using an
+       electronic approval, it shall be in a manner that allows the documentation to
+       sufficiently and reliably identify the approver and their intent to approve.
+108.   Agencies must retain the PAY | Payroll Input Details report and approval in
+       accordance with the state records retention schedule.
+
+
+
+
+Policy No: 45.35.00      Effective: XX/XX/XXXX Reviewed: XX/XX/XXXX               Page 3 of 3
+

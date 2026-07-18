@@ -1,0 +1,324 @@
+                                                                                            Statewide Policy
+
+
+OREGON ACCOUNTING MANUAL
+SUBJECT:       Accounting and Financial Reporting                       Number:     15.60.20
+DIVISION:      Chief Financial Office                                   Effective date: August 1, 2010
+Chapter:       Accounting and Financial Reporting
+Part:          Capital Assets
+Section:       Depreciation and Amortization
+
+APPROVED: George Naughton, Chief Financial Officer                      Signature on file
+
+
+
+PURPOSE:               This policy provides guidance on accounting and financial reporting for
+                       depreciation and amortization of capital assets.
+
+AUTHORITY:             ORS 293.590
+                       GASB Statement No. 34
+                       GASB Statement No. 42
+                       GASB Statement No. 51
+
+APPLICABILITY:         This policy applies to all state agencies included in the state’s annual financial
+                       statements, except those agencies specifically exempted by OAM policy
+                       01.05.00.
+
+DEFINITIONS:           Amortization: The systematic and rational allocation of the cost of an intangible
+                       capital asset (less salvage value) over its estimated useful life.
+
+                       Depreciation: The systematic and rational allocation of the cost of a tangible
+                       capital asset (less salvage value) over its estimated useful life.
+
+                       Estimated salvage value: The expected residual value of an asset at the end
+                       of its useful life; i.e., the estimated amount that will be received at the time the
+                       asset is sold or removed from service.
+
+                       Modified approach: An optional method of accounting for infrastructure assets
+                       (e.g., roads, bridges, and tunnels) that allows governments to forego the
+                       recognition of depreciation expense. To use this method, agencies must
+                       demonstrate they can properly maintain infrastructure assets on an ongoing
+                       basis.
+
+POLICY:
+
+101.    Agency management must ensure the proper accounting and reporting of depreciation and
+        amortization.
+
+102.    Except for infrastructure assets, depreciate/amortize capital assets with limited useful lives on a
+        straight-line basis. Do not depreciate/amortize capital assets with indefinite useful lives.
+
+
+OAM 15.60.20                                                                                       Page 1 of 6
+103.   Use any generally accepted method of depreciation to depreciate infrastructure assets so long
+       as the method is consistently applied from year to year, complies with applicable statutes, and
+       meets the requirements of the federal government or other organizations related to rate
+       determination and cost recovery. Do not use the modified approach to account for
+       infrastructure assets unless preapproved by the Chief Financial Office.
+
+104.   Use the recommended useful life ranges presented in the accompanying procedures, unless
+       your agency’s experience and specific circumstances differ. Periodically, review the
+       reasonableness of the useful lives assigned to your agency’s capital assets. Make any
+       adjustments on a prospective basis only.
+
+105.   Depreciation/amortization begins on the day a capital asset is placed in service. Generally, the
+       placed-in-service date and the purchase date are the same. In some cases, however, the
+       placed-in-service date is the day installation or construction is complete and the asset is ready
+       to be used for its intended purpose.
+
+106.   Do not record depreciation expense (if material) on a capital asset that is temporarily idle, if the
+       idle condition has no affect on the asset’s total service capacity. Otherwise, record depreciation
+       each year, regardless of whether the asset is idle or in active use.
+
+107.   Calculate annual depreciation/amortization expense for each asset in the agency’s subsidiary
+       property ledgers. Reconcile this activity to increases posted to the accumulated depreciation
+       general ledger (GL) control accounts. Upon disposition of a capital asset, remove the related
+       accumulated depreciation/amortization from the subsidiary property ledgers. Reconcile this
+       activity to decreases posted to the accumulated depreciation GL control accounts. Perform
+       these reconciliations at least quarterly.
+
+PROCEDURES:
+
+Estimated Useful Life
+
+108.   Useful Life Ranges: Estimating the useful life of a capital asset requires professional judgment.
+       Factors to consider include (a) the asset’s present physical condition, (b) the maintenance
+       required to keep the asset in good working order, (c) the asset’s capacity to meet the agency’s
+       service demands in the future, (d) other obsolescence factors, and (e) the agency’s historical
+       experience with similar assets.
+
+       Asset Classification                                             Useful Life Ranges
+
+       Works of Art & Historical Treasures (depreciable)                    10 to 30 years
+       Equipment and Machinery                                              3 to 50 years
+       Motor Vehicles                                                       3 to 30 years
+       Data Processing Software                                             3 to 10 years
+       Data Processing Hardware                                             3 to 10 years
+       Other Intangibles (amortizable, such as patents & copyrights)        Term of legal rights
+       Buildings and Building Improvements                                  10 to 75 years
+       Land Improvements                                                    10 to 75 years
+       Land Use Rights (amortizable)                                        Length of contract
+
+
+                                            (Continued on next page)
+
+
+
+OAM 15.60.20                                                                                       Page 2 of 6
+       Asset Classification                                             Useful Life Ranges
+
+       Leasehold Improvements                                               Length of lease*
+       Capital Leased Property                                              Length of lease**
+       State Highways                                                       20 to 35 years
+       Other Roads                                                          15 to 50 years
+       Tunnels and Bridges                                                  20 to 75 years
+       Airports                                                             20 to 75 years
+       Utility Systems                                                      5 to 50 years
+       Docks, Dikes and Dams                                                30 to 50 years
+
+       *Or life of asset, whichever is shorter
+       **Life of asset, for lease-purchase contracts payable
+
+109.   The useful life ranges presented above are recommendations only; an agency’s actual
+       experience may differ.
+
+110.   Estimated Useful Life versus Actual Experience: Periodically, compare the useful lives
+       assigned to your agency’s capital assets to your agency’s actual experience. If circumstances
+       indicate the need to change the useful life of a particular class of assets, make the change
+       prospectively (i.e., as an adjustment to charges for depreciation/amortization in subsequent
+       periods). Do not make changes to previously reported results.
+
+111.   In addition, reevaluate the remaining useful life of a specific capital asset, if the value of that
+       asset (a) increases as the result of an improvement or (b) declines as the result of impairment.
+       For more information on impairments, refer to OAM 15.60.25.
+
+112.   Adjusting the Estimated Useful Life (example): Equipment acquired for $100,000 (with no
+       salvage value) has an estimated useful life of 20 years. Annual depreciation on a straight-line
+       basis is $5,000. At the end of 12 years, the agency determines the useful life should be 25
+       years. The change in estimate does not affect the amount already reported as accumulated
+       depreciation. Instead, the agency depreciates the remaining depreciable cost over the
+       remaining “adjusted” useful life of the asset. After adjustment, annual depreciation is $3,077.
+
+           Initial depreciation calculation:
+           $100,000 cost/20 years = $5,000 annual depreciation expense
+
+           Accumulated depreciation at the end of 12 years:
+           $5,000 x 12 = $60,000
+
+           Adjustment to the useful life of the asset:
+           8 + 5 = 13 remaining years
+
+           Adjustment to annual depreciation expense:
+           $40,000 remaining cost/13 years = $3,077 adjusted annual depreciation expense
+
+Straight-line Method and Variations
+
+113.   Straight-line Method and Salvage Value: The straight-line method of depreciation/amortization
+       allocates the cost (less salvage value) of a capital asset evenly over its estimated useful life.
+       Calculate annual straight-line depreciation/amortization by deducting the estimated salvage
+       value from the cost of the asset and dividing the remaining cost by the estimated years of
+       useful life.
+
+OAM 15.60.20                                                                                     Page 3 of 6
+       NOTE: Salvage value is difficult to predict and requires the use of professional judgment. In
+       general, agencies may ignore salvage value in computing annual depreciation/amortization, if
+       the estimated salvage value is less than ten percent of the asset cost.
+
+114.   Group/Composite Depreciation: Ideally, agencies calculate depreciation separately for each
+       individual capital asset. However, agencies may apply depreciation to groupings of assets
+       within a major asset class. The term group depreciation is used when the grouped assets are
+       essentially similar; otherwise, the term composite depreciation applies. In either case, agencies
+       must calculate an average depreciation rate for the group as a whole.
+
+       NOTE: No gains or losses are reported on disposals when the group or composite method is
+       used because all assets are presumed to be (a) fully depreciated at the time of disposal if no
+       cash is received or (b) sold for book value if cash is received.
+
+115.   Partial Year Depreciation: To determine depreciation/amortization expense for a partial year,
+       compute the expense for the full year and then prorate. Use any one of the following fractional-
+       year policies to allocate the cost between the first year and the last year as long as the policy is
+       consistently applied.
+
+          Nearest full month
+          Nearest fraction of a year
+          Half year in period of acquisition and disposal
+          Full year in period of acquisition, none in period disposal
+          None in period of acquisition, full year in period disposal
+
+116.   Fully Depreciated Asset Still in Use: If a capital asset is fully depreciated/amortized (cost =
+       accumulated depreciation) but still in use, continue to carry the asset and related accumulated
+       depreciation/amortization in the subsidiary property ledgers and GL control accounts. Do not
+       record a prior period adjustment to compensate for the error in estimating the asset’s useful life.
+       Instead, reevaluate the remaining useful lives of similar assets and make any changes
+       prospectively. Remove the fully depreciated/amortized asset and related accumulated
+       depreciation/amortization only upon disposition.
+
+Building Components
+
+117.   A single building often comprises one or more individual components with a significantly shorter
+       useful life (e.g., roof, HVAC). An agency may use any one of three methods to depreciate the
+       components.
+
+       Example: Assume that a $6 million building with no salvage value has an estimated useful life
+       of 60 years, but that its roof (one tenth of the $6 million cost = $600,000) will have to be
+       replaced every 20 years.
+
+          Treat component as separate capital asset. This approach treats the cost of each major
+           building component as a separate capital asset. Accordingly, the agency depreciates the
+           $600,000 roof in this example over its own estimated 20-year useful life, leaving a zero
+           balance when the time comes to replace it with a new roof.
+
+          Include component as integral part of larger capital asset and treat subsequent
+           replacement as repair. The second approach treats the component as an integral part of
+           the larger asset and depreciates the combined cost over the life of the latter. Accordingly,
+           the agency depreciates the full $6 million cost of the building over 60 years. The agency
+
+
+OAM 15.60.20                                                                                     Page 4 of 6
+           accounts for the subsequent replacement of the roof in year 21 and year 41 as a repair (an
+           expense of the period).
+
+          Include component as integral part of larger capital asset and treat subsequent
+           replacement as disposal. The third approach also treats the roof as an integral part of the
+           building and depreciates the combined cost over the life of the building. However, each time
+           the roof is replaced, the agency removes the undepreciated balance of the current roof and
+           recognizes a loss upon disposal. The agency depreciates the cost of each new roof over
+           the remaining life of the building.
+
+           If detailed project costs by building component are not available, the agency may estimate
+           the cost of the original roof. The original roof’s undepreciated balance (carrying value) at
+           date of replacement is equal to the estimated cost less depreciation-to-date, based on the
+           life of the building. (NOTE: The estimated cost must be reasonable and supporting
+           documentation must be maintained.)
+
+Leasehold Improvements
+
+118.   Leasehold improvements revert to the owner of the property upon termination of the lease.
+       Therefore, the lessee amortizes leasehold improvements over the economic life of the
+       improvement or the life of the lease, whichever is shorter. When determining the life of the
+       lease, include any renewal options management expects to exercise.
+
+Idle Assets
+
+119.   If the total service capacity of an asset that is temporarily idle is not affected, do not report
+       depreciation expense (if material) while the asset is idle. Otherwise, record depreciation each
+       year, regardless of whether the asset is idle or in active use.
+
+120.   For example, assume a certain piece of equipment is capable of providing ten years of service,
+       but that the equipment has to be taken out of service for one year (in year 6). If the asset will
+       still provide a full ten years of service, only in different years, report depreciation expense only
+       in the years receiving the service (i.e., years 1-5 and 7-11); report no depreciation expense in
+       year 6 when the asset is idle. Conversely, if the asset’s service utility is limited to ten
+       chronological years, regardless of whether it is actually used, report depreciation expense in
+       each year (i.e., years 1-10).
+
+       NOTE: If an agency permanently retires a capital asset from service (either voluntarily or
+       involuntarily) and does not immediately sell or otherwise dispose of the asset, the asset ceases
+       to be a capital asset (because it no longer will be used in operations) and must be reclassified
+       to state owned property held for sale (GL 0927). Report assets held for sale at the lower of
+       carrying value or fair value.
+
+Accounting for Depreciation and Amortization
+
+121.   Depreciate/amortize capital assets acquired by proprietary funds or fiduciary funds within the
+       accounts of those funds. Capital assets acquired by governmental funds are considered
+       general capital assets (assets associated with governmental activities). Depreciate/amortize
+       general capital assets in the government-wide reporting fund.
+
+
+
+
+OAM 15.60.20                                                                                      Page 5 of 6
+122.   Use the following comptroller objects to record annual depreciation/amortization expense:
+
+          7474 Amortization of Other Capital Assets
+          7475 Amortization of Leasehold Improvements
+          7476 Depreciation Expense
+          7477 Amortization of Leased Property
+          7478 Amortization of Software
+
+123.   The entry below illustrates how to record depreciation expense for a building placed in service
+       on July 1. The building cost $5,250,000 and has an estimated useful life of 50 years and an
+       estimated salvage value of $525,000. The building was purchased with special revenue fund
+       resources. Annual depreciation expense is $94,500 ($5,250,000 – $525,000)/50 years).
+
+                                   Government-wide Reporting Fund
+
+       T-code 542: To record depreciation expense using comptroller object 7476 – Depreciation
+       Expense.
+
+           DR 3600 GAAP Expenditure Offset (C/O 7476)                                     94,500
+           DR 3018 Invested in Capital Assets                                             94,500
+              CR 0875 Accumulated Depreciation – Buildings                                         94,500
+              CR 3074 Change in Capital Assets                                                     94,500
+
+Financial Statement Reporting
+
+124.   The Statewide Accounting and Reporting Services (SARS) reports depreciation/amortization
+       expense in proprietary funds in the statement of revenues, expenses and changes in fund net
+       assets as a separate line item within operating expenses. Depreciation/amortization expense in
+       fiduciary funds is reported in administrative expenses in the statement of changes in fiduciary
+       net assets. SARS reports depreciation/amortization expense in the government-wide reporting
+       fund in the statement of activities in the applicable function/program for governmental or
+       business-type activities.
+
+125.   Accumulated depreciation/amortization is reported as a contra account to capital assets in the
+       proprietary funds balance sheet and the government-wide statement of net assets. SARS
+       reports capital assets, net of accumulated depreciation, in the statement of fiduciary net assets.
+
+Disclosure Requirements
+
+126.   Capital asset activity must be disclosed in the state’s financial statements. The requirements
+       include disclosure of beginning balance, increases, decreases, and ending balance of each
+       asset classification and the related accumulated depreciation/amortization account.
+
+127.   Notes to the State’s financial statements also include a schedule to illustrate the amount of
+       depreciation/amortization expense charged to each function during the fiscal year. SARS
+       presents depreciation/amortization for capital assets used in governmental activities, business-
+       type activities, and fiduciary fund activities separately.
+
+
+
+
+OAM 15.60.20                                                                                   Page 6 of 6
+

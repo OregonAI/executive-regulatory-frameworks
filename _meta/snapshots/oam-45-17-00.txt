@@ -1,0 +1,52 @@
+                                                                                 Number
+ OREGON ACCOUNTING MANUAL                                                        45.17.00
+
+ Oregon Department of                              Policy                        Effective Date
+ Administrative Services
+ State Controller's Division                                                     August 15, 2001
+
+ Chapter          Payroll
+                                                                                 .1 OF .1
+ Part             Payroll Data Integrity
+
+ Section                                                                         Approval
+
+                                                                                 Signature on file at SCD
+
+Authority       ORS 292.036
+
+        .101    In order to protect payroll data integrity, agencies must reconcile their Oregon State Payroll
+                Application (OSPA) reports to Statewide Financial Management Application (SFMA) and
+                agency specific accounting systems.
+
+        .102    Agencies who make coding structure changes such as PCA or Index before batches are posted
+                to SFMA or agency specific accounting systems must maintain an audit trail for those changes.
+                The audit trail must consist of a record of before and after the changes and must be approved by
+                agency management. The structure changes must reconcile to and balance with the source
+                OSPA XREF report. The reconciliation should disclose or document proof that the results of the
+                changes in SFMA and other accounting systems agree to the source documents. Further, those
+                changes should be annotated upon the OSPA XREF report to create backup documentation that
+                reflects the changes made to the SFMA batch. SFMA does not allow dollar amount changes to
+                this information.
+
+        .103    While agencies have the ability to make PCA and Index changes in SFMA where there is a cost
+                benefit, agencies should strongly consider making needed adjustments as separate adjusting
+                entries only after the initial batch has been posted. This method of making PCA and Index
+                changes creates a more precise audit trail.
+
+        .104    To accommodate some agency requirements where subsidiary systems house further allocation
+                of staff time, OSPS provides a file of payroll data to the agency. This process does allow for total
+                dollar changes. It is the responsibility of the agencies receiving these files to verify the final file
+                totals the same amount as the original file produced by OSPA. Files with different totals create a
+                serious agency lack of controls. Continued discrepancies between the total amount of the
+                original file and the final file may jeopardize the use of this practice for the agency.
+
+        .105    Statewide Financial Management Services (SFMS) Operations has the responsibility to
+                reconcile the OSPA payroll run information to SFMA accounts receivable information by agency.
+                This reconciliation takes into consideration agency timing requests for the second payroll run.
+
+
+
+
+                                                                                                          45.17.00.PO. 1
+

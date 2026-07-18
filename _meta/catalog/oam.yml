@@ -1,88 +1,254 @@
-note: >
-  Discovery map of the Oregon Accounting Manual (OAM), from
-  oregon.gov/das/Financial/Acctng/Pages/OAM.aspx (retrieved 2026-07-18). No OAM document has
-  been ingested yet (agencies/das/accounting-manual/ is empty). Chapter numbers are
-  non-contiguous by design (DAS reserves ranges for future chapters). Suffixes: PO=policy,
+note: 'Discovery map of the Oregon Accounting Manual (OAM), from oregon.gov/das/Financial/Acctng/Pages/OAM.aspx
+  (retrieved 2026-07-18). No OAM document has been ingested yet (agencies/das/accounting-manual/ is empty).
+  Chapter numbers are non-contiguous by design (DAS reserves ranges for future chapters). Suffixes: PO=policy,
   PR=procedure, FO=form, RF=reference; PO/PR are dropped once combined into one document.
+
+
+  2026-07-18 update: all documents listed above have been ingested into agencies/das/accounting-manual/.
+  This catalog is now a completeness cross-check, not a to-do list — re-run detect_changes.py against
+  the manifest for freshness, not this file.'
 url: https://www.oregon.gov/das/Financial/Acctng/Pages/OAM.aspx
 chapters:
-  - chapter: "01"
-    title: Introduction
-    documents: []
-  - chapter: "05"
-    title: R*STARS
-    documents:
-      - {number: "05.20.00", title: "Fund and Appropriation Structure and Usage", type: PO, status: not_ingested}
-  - chapter: "10"
-    title: Internal Control
-    documents:
-      - {number: "10.75.00", title: "ACH Security", type: PO, status: not_ingested}
-  - chapter: "15"
-    title: Accounting & Financial Reporting
-    documents:
-      - {number: "15.40.00", title: "Expenditures", type: PO, status: not_ingested}
-      - {number: "15.41.00", title: "Withholding from Non-State Entities", type: PO, status: not_ingested}
-      - {number: "15.45.10", title: "Interfund Services, Reimbursements, and Transfers", type: PO, status: not_ingested}
-      - {number: "15.60.10", title: "Classification and Capitalization", type: PO, status: not_ingested}
-      - {number: "15.60.20", title: "Depreciation", type: PO, status: not_ingested}
-      - {number: "15.60.25", title: "Capital Asset Impairments", type: PO, status: not_ingested}
-      - {number: "15.60.30", title: "Leases", type: PO, status: not_ingested}
-      - {number: "15.60.40", title: "Intangible Assets", type: PO, status: not_ingested}
-      - {number: "15.80.00", title: "Commitments", type: PO, status: not_ingested}
-      - {number: "15.92.00", title: "Fiduciary Activities", type: PO, status: not_ingested}
-      - {number: "15.95.00", title: "Year-End Closing and Statewide Balancing", type: PO, status: not_ingested}
-      - {number: "15.97.00", title: "Agency Financial Reporting", type: PO, status: not_ingested}
-  - chapter: "30"
-    title: Federal Compliance
-    documents:
-      - {number: "30.40.00", title: "Subrecipient Monitoring", type: PO, status: not_ingested}
-  - chapter: "45"
-    title: Payroll
-    documents:
-      - {number: "45.05.00", title: "Regular Paydays", type: draft, status: not_ingested}
-      - {number: "45.06.00", title: "Sick Leave at Retirement", type: draft, status: not_ingested}
-      - {number: "45.10.00", title: "Voluntary Deductions", type: draft, status: not_ingested}
-      - {number: "45.15.00", title: "Payroll Accounts Reimbursement", type: draft, status: not_ingested}
-      - {number: "45.17.00", title: "Payroll Data Integrity", type: draft, status: not_ingested}
-      - {number: "45.20.00", title: "Cash Insurance Payments", type: draft, status: not_ingested}
-      - {number: "45.25.00", title: "Salary Advances", type: draft, status: not_ingested}
-      - {number: "45.30.00", title: "Dual Update Access", type: draft, status: not_ingested}
-      - {number: "45.35.00", title: "Review of Gross Pay Adjustments", type: draft, status: not_ingested}
-      - {number: "45.37.00", title: "Review of Month End Leave Reports", type: draft, status: not_ingested}
-      - {number: "45.40.00", title: "Reimbursement of Employee Expenses", type: draft, status: not_ingested}
-      - {number: "45.42.00", title: "Distributions with Payroll", type: draft, status: not_ingested}
-      - {number: "45.45.00", title: "Separation of Duties", type: draft, status: not_ingested}
-    note: "all listed as draft/final-draft on the source page as of retrieval"
-  - chapter: "50"
-    title: Tax Issues
-    documents:
-      - {number: "50.10.00", title: "Education Assistance Payments", type: PO, status: not_ingested}
-      - {number: "50.30.00", title: "Tax Issues—Fringe Benefits—Vehicles", type: PO, status: not_ingested}
-      - {number: "50.50.00", title: "1099-MISC", type: PO, status: not_ingested}
-      - {number: "50.60.00", title: "Mass Transit Tax", type: PO, status: not_ingested}
-  - chapter: "55"
-    title: Other Programs
-    documents:
-      - {number: "55.30.00", title: "SPOTS", type: PO, status: not_ingested, note: "revised 2024"}
-  - chapter: "60"
-    title: Chart of Accounts
-    documents:
-      - {number: "60.10.00", title: "General Ledger Accounts", type: PO, status: not_ingested}
-      - {number: "60.20.00", title: "Comptroller Objects by Financial Statement Classification", type: PO, status: not_ingested}
-      - {number: "60.30.00", title: "Comptroller Objects—Numeric Sequence", type: PO, status: not_ingested}
-  - chapter: "65"
-    title: Glossary
-    documents:
-      - {number: "65.00.00", title: "Definitions", type: PO, status: not_ingested}
-  - chapter: "75"
-    title: Forms
-    documents:
-      - {number: "75.30.02", title: "Sample Completion Letter", type: FO, status: not_ingested}
-  - chapter: "70"
-    title: (seen referenced but not itemized on the fetched page)
-    documents:
-      - {number: "70.20.00", title: "(title TBD)", type: PO, status: not_ingested, note: "URL known from search: das/Financial/Acctng/Documents/70.20.00.pdf; not shown on OAM.aspx listing at retrieval time"}
-  - chapter: "20"
-    title: (seen referenced but not itemized on the fetched page)
-    documents:
-      - {number: "20.20.00", title: "(title TBD)", type: PO, status: not_ingested, note: "URL known from search: das/Financial/Acctng/Documents/20.20.00.pdf"}
+- chapter: '01'
+  title: Introduction
+  documents: []
+- chapter: '05'
+  title: R*STARS
+  documents:
+  - number: 05.20.00
+    title: Fund and Appropriation Structure and Usage
+    type: PO
+    status: ingested
+    path: agencies/das/accounting-manual/oam-05-20-00.md
+- chapter: '10'
+  title: Internal Control
+  documents:
+  - number: 10.75.00
+    title: ACH Security
+    type: PO
+    status: ingested
+    path: agencies/das/accounting-manual/oam-10-75-00.md
+- chapter: '15'
+  title: Accounting & Financial Reporting
+  documents:
+  - number: 15.40.00
+    title: Expenditures
+    type: PO
+    status: ingested
+    path: agencies/das/accounting-manual/oam-15-40-00.md
+  - number: 15.41.00
+    title: Withholding from Non-State Entities
+    type: PO
+    status: ingested
+    path: agencies/das/accounting-manual/oam-15-41-00.md
+  - number: 15.45.10
+    title: Interfund Services, Reimbursements, and Transfers
+    type: PO
+    status: ingested
+    path: agencies/das/accounting-manual/oam-15-45-10.md
+  - number: 15.60.10
+    title: Classification and Capitalization
+    type: PO
+    status: ingested
+    path: agencies/das/accounting-manual/oam-15-60-10.md
+  - number: 15.60.20
+    title: Depreciation
+    type: PO
+    status: ingested
+    path: agencies/das/accounting-manual/oam-15-60-20.md
+  - number: 15.60.25
+    title: Capital Asset Impairments
+    type: PO
+    status: ingested
+    path: agencies/das/accounting-manual/oam-15-60-25.md
+  - number: 15.60.30
+    title: Leases
+    type: PO
+    status: ingested
+    path: agencies/das/accounting-manual/oam-15-60-30.md
+  - number: 15.60.40
+    title: Intangible Assets
+    type: PO
+    status: ingested
+    path: agencies/das/accounting-manual/oam-15-60-40.md
+  - number: 15.80.00
+    title: Commitments
+    type: PO
+    status: ingested
+    path: agencies/das/accounting-manual/oam-15-80-00.md
+  - number: 15.92.00
+    title: Fiduciary Activities
+    type: PO
+    status: ingested
+    path: agencies/das/accounting-manual/oam-15-92-00.md
+  - number: 15.95.00
+    title: Year-End Closing and Statewide Balancing
+    type: PO
+    status: ingested
+    path: agencies/das/accounting-manual/oam-15-95-00.md
+  - number: 15.97.00
+    title: Agency Financial Reporting
+    type: PO
+    status: ingested
+    path: agencies/das/accounting-manual/oam-15-97-00.md
+- chapter: '30'
+  title: Federal Compliance
+  documents:
+  - number: 30.40.00
+    title: Subrecipient Monitoring
+    type: PO
+    status: ingested
+    path: agencies/das/accounting-manual/oam-30-40-00.md
+- chapter: '45'
+  title: Payroll
+  documents:
+  - number: 45.05.00
+    title: Regular Paydays
+    type: draft
+    status: ingested
+    path: agencies/das/accounting-manual/oam-45-05-00.md
+  - number: 45.06.00
+    title: Sick Leave at Retirement
+    type: draft
+    status: ingested
+    path: agencies/das/accounting-manual/oam-45-06-00.md
+  - number: 45.10.00
+    title: Voluntary Deductions
+    type: draft
+    status: ingested
+    path: agencies/das/accounting-manual/oam-45-10-00.md
+  - number: 45.15.00
+    title: Payroll Accounts Reimbursement
+    type: draft
+    status: ingested
+    path: agencies/das/accounting-manual/oam-45-15-00.md
+  - number: 45.17.00
+    title: Payroll Data Integrity
+    type: draft
+    status: ingested
+    path: agencies/das/accounting-manual/oam-45-17-00.md
+  - number: 45.20.00
+    title: Cash Insurance Payments
+    type: draft
+    status: ingested
+    path: agencies/das/accounting-manual/oam-45-20-00.md
+  - number: 45.25.00
+    title: Salary Advances
+    type: draft
+    status: ingested
+    path: agencies/das/accounting-manual/oam-45-25-00.md
+  - number: 45.30.00
+    title: Dual Update Access
+    type: draft
+    status: ingested
+    path: agencies/das/accounting-manual/oam-45-30-00.md
+  - number: 45.35.00
+    title: Review of Gross Pay Adjustments
+    type: draft
+    status: ingested
+    path: agencies/das/accounting-manual/oam-45-35-00.md
+  - number: 45.37.00
+    title: Review of Month End Leave Reports
+    type: draft
+    status: ingested
+    path: agencies/das/accounting-manual/oam-45-37-00.md
+  - number: 45.40.00
+    title: Reimbursement of Employee Expenses
+    type: draft
+    status: ingested
+    path: agencies/das/accounting-manual/oam-45-40-00.md
+  - number: 45.42.00
+    title: Distributions with Payroll
+    type: draft
+    status: ingested
+    path: agencies/das/accounting-manual/oam-45-42-00.md
+  - number: 45.45.00
+    title: Separation of Duties
+    type: draft
+    status: ingested
+    path: agencies/das/accounting-manual/oam-45-45-00.md
+  note: all listed as draft/final-draft on the source page as of retrieval
+- chapter: '50'
+  title: Tax Issues
+  documents:
+  - number: 50.10.00
+    title: Education Assistance Payments
+    type: PO
+    status: ingested
+    path: agencies/das/accounting-manual/oam-50-10-00.md
+  - number: 50.30.00
+    title: Tax Issues—Fringe Benefits—Vehicles
+    type: PO
+    status: ingested
+    path: agencies/das/accounting-manual/oam-50-30-00.md
+  - number: 50.50.00
+    title: 1099-MISC
+    type: PO
+    status: ingested
+    path: agencies/das/accounting-manual/oam-50-50-00.md
+  - number: 50.60.00
+    title: Mass Transit Tax
+    type: PO
+    status: ingested
+    path: agencies/das/accounting-manual/oam-50-60-00.md
+- chapter: '55'
+  title: Other Programs
+  documents:
+  - number: 55.30.00
+    title: SPOTS
+    type: PO
+    status: ingested
+    note: revised 2024
+    path: agencies/das/accounting-manual/oam-55-30-00.md
+- chapter: '60'
+  title: Chart of Accounts
+  documents:
+  - number: 60.10.00
+    title: General Ledger Accounts
+    type: PO
+    status: ingested
+    path: agencies/das/accounting-manual/oam-60-10-00.md
+  - number: 60.20.00
+    title: Comptroller Objects by Financial Statement Classification
+    type: PO
+    status: ingested
+    path: agencies/das/accounting-manual/oam-60-20-00.md
+  - number: 60.30.00
+    title: Comptroller Objects—Numeric Sequence
+    type: PO
+    status: ingested
+    path: agencies/das/accounting-manual/oam-60-30-00.md
+- chapter: '65'
+  title: Glossary
+  documents:
+  - number: 65.00.00
+    title: Definitions
+    type: PO
+    status: ingested
+    path: agencies/das/accounting-manual/oam-65-00-00.md
+- chapter: '75'
+  title: Forms
+  documents:
+  - number: 75.30.02
+    title: Sample Completion Letter
+    type: FO
+    status: ingested
+    path: agencies/das/accounting-manual/oam-75-30-02.md
+- chapter: '20'
+  title: Budgetary Accounting and Reporting
+  documents:
+  - number: 20.20.00
+    title: Encumbrances
+    type: PO
+    status: ingested
+    path: agencies/das/accounting-manual/oam-20-20-00.md
+    note: real chapter title confirmed at ingestion; not shown on OAM.aspx listing
+- chapter: '70'
+  title: (chapter title not confirmed — document is an agency numbering reference table)
+  documents:
+  - number: 70.20.00
+    title: Current Agencies — Numeric Sequence
+    type: reference
+    status: ingested
+    path: agencies/das/accounting-manual/oam-70-20-00.md
+    note: not shown on OAM.aspx listing at discovery time; fetched directly and confirmed to exist

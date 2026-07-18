@@ -1,0 +1,46 @@
+                                                                              Number
+ OREGON ACCOUNTING MANUAL                                                     45.45.00
+
+ Oregon Department of                            Policy                       Effective Date
+ Administrative Services
+ State Controller's Division                                                  July 1, 2005
+
+ Chapter          Payroll
+                                                                              .1 OF .1
+ Part             Separation of Duties
+
+ Section                                                                      Approval
+
+                                                                              Signature on file at SCD
+
+Authority       ORS 292.018
+                ORS 292.036
+                OAM 10.10.00.PO & PR
+
+
+Distribution of Payroll Checks
+
+        .101    For effective internal control, an agency payroll or fiscal employee having update access to the
+                Oregon State Payroll Application (OSPA) should not receive or distribute payroll checks or direct
+                deposit pay stubs. This includes daily manual payroll checks.
+
+
+OSPA Access and Personal Payroll Transactions
+
+        .102    No person with update access to the OSPA should perform data entry for their own paper
+                timesheets, gross pay adjustments, changes in tax withholding, or any correction to their own pay
+                amounts. Agencies with a single payroll technician with no opportunity for a second person to
+                process entries related to the payroll technician must ensure a monthly review is conducted by a
+                person in another section, preferably management personnel.
+
+        .103    Agencies that use OSPA Online Daily Time perform an adequate review of the payroll officer’s
+                time entry when the supervisor locks the timesheet. Agency owned time systems that batch
+                upload time to OSPA, as long as that system provides for supervisory review of time and an
+                approval mechanism that prevents alteration of time once approved, also provide adequate
+                internal control.
+
+
+
+
+                                                                                                     45.45.00.PO. 1
+

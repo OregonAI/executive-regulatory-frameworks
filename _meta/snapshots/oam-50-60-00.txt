@@ -1,0 +1,138 @@
+ OREGON ACCOUNTING MANUAL
+                                                      NUMBER                       SUPERSEDES
+
+                                                      50.60.00                     50.60.00.PO & PR
+
+ STATEWIDE POLICY                                     EFFECTIVE DATE               PAGE NUMBER
+
+                                                      TBD                          Pages 1 of 3
+ Division                                             REFERENCE/AUTHORITY
+ Chief Financial Office                               ORS 291.405 - Assessment of State Agencies
+                                                                    for Mass Transit Purposes
+ Policy Owner
+                                                      ORS 291.407 - Mass Transit Assistance Account
+ Statewide Accounting and Reporting Services
+ SUBJECT                                              APPROVED SIGNATURE
+ Mass Transit Tax
+                                                      George Naughton, Chief Financial Officer
+                                                      Signature on file
+
+
+PURPOSE
+This policy provides guidance on the assessment and distribution of Oregon state government’s mass transit
+tax.
+
+APPLICABILITY
+Any agency, maintaining a branch, office, or other physical location within the boundaries of a mass transit
+district or transportation district is subject to the provisions of this policy.
+
+FORMS/EXHIBITS/INSTRUCTIONS
+None.
+
+DEFINITIONS
+Click here for other definitions.
+
+EXCLUSIONS AND SPECIAL SITUATIONS
+None.
+
+GENERAL INFORMATION
+All employees whose official station is within the boundaries of a mass transit or transportation district are
+subject to a state-paid payroll assessment of not more than 0.6% of gross wages. All agencies must send, or
+make available the appropriate amount of tax, to the Department of Administrative Services (DAS) for deposit
+in the Mass Transit Assistance Account. DAS subsequently distributes the funds to mass transit and
+transportation districts throughout the state.
+
+POLICY
+
+.101   The Oregon Department of Transportation (ODOT) conducts an annual review of the mass transit tax
+       rate and communicates to DAS. This ensures agencies are not over-assessed and that mass transit
+       and transportation districts are receiving the appropriate amount allowed by statute. Mass transit tax
+       rates are adjusted as necessary to ensure that no more than a prudent surplus is maintained in the
+       Mass Transit Assistance Account.
+
+.102   The US Department of Health and Human Services has interpreted the cost principles under OMB’s
+       Uniform Guidance, such that the mass transit tax is not a qualifying payment for reimbursement with
+       federal funds. Therefore, salaries paid with federal funds are exempt from the mass transit tax.
+
+Policy No: 50-60-00 | Effective: TBD                                                                  Page 1 of 3
+.103   The availability of mass transit for employees and those doing business with state government is a
+       benefit to those agencies located in mass transit or transportation districts. In exchange for payments
+       made to these districts, which are authorized under ORS 291.405 and 291.407, the state and its
+       agencies are exempt from any parking code requirements for existing state-owned buildings. This
+       includes construction of new state buildings or the renovation of existing state buildings that have been
+       or may be established by any political subdivision within the boundaries of a mass transit or
+       transportation district receiving such payments.
+
+PROCEDURES
+
+.104   The ODOT Rail and Public Transit Division, which oversees the state’s mass transit and transportation
+       districts, will send written documentation to inform DAS Financial Business Systems of any changes
+       associated with mass transit boundaries or rates.
+
+.105   Based on the boundary and rate information provided, each valid position in the state human resource
+       information system (Workday) links to a work location by ZIP code. In addition, all valid mass transit
+       codes (listed below) link to a corresponding ZIP code. When an employee is attached to the position,
+       the ZIP code associated with the appropriate mass transit district automatically links to the following
+       mass transit codes:
+
+                       C – Tillamook County
+
+                       E – Sunset Empire (Astoria, Hammond, Seaside, and Warrenton)
+
+                       H – Hood River Transit District
+
+                       K – Basin Transit Service District (Klamath Falls)
+
+                       L – Lane County Mass Transit District
+
+                       M – South Clackamas Transportation District (Molalla)
+
+                       R – Rogue Valley Transportation District
+
+                       S – Salem Transit District
+
+                       T – Tri-County Metropolitan District (Portland)
+
+                       X – Not Subject (All Others)
+
+                       Y – Lincoln County (Lincoln City, Newport, Siletz, and Waldport)
+
+.106 For agencies using the Statewide Financial Management Application (SFMA), will automatically generate
+     mass transit tax and move the generated funds to the Mass Transit Assistance Account. Salaries paid
+     with federal funds are exempt from mass transit tax. Federal funds are designated in SFMA, either by
+     the position, or portion of the position having a federal fund PCA(s) in Workday. These PCAs look up
+     federal D23 funds in SFMA. Agencies may take an overall mass transit reduction via SFMA’s D54 screen,
+     Table ID: PARM. It is the agency’s responsibility to document and ensure the federal, non-federal split
+     is accurate.
+
+ .107 The Statewide Financial Management Services staff monitors agencies payroll payables, including
+      mass transit, compared to DAS’s receivables to ensure both sets of transactions balance and are
+      reimbursed timely.
+
+Policy No: 50-60-00 | Effective: TBD                                                                  Page 2 of 3
+.108   For agencies on the Oregon State Payroll Application (OSPA) and not on SFMA, OSPA calculates the
+       mass transit amount due.
+
+       a. DAS, Shared Financial Services (SFS), invoices the agency.
+
+       b. Non-SFMA agencies are responsible to pay the mass transit tax to SFS monthly.
+
+.109   DAS SFS is responsible for the following mass transit processes:
+
+       a. Deposit mass transit tax receipts from non-SFMA agencies in the Mass Transit Assistance Account.
+
+       b. Distribute the mass transit tax quarterly to the appropriate districts based on calculations and
+          reports identifying tax revenue levied/collected on behalf of the districts.
+
+       c. Coordinate resolution of all subsequent adjustments by a state agency or a mass transit or
+          transportation district. Research and resolve questions concerning over-assessment and under-
+          assessment of taxes. Assure proper payments are made to resolve negotiated adjustments.
+
+       d. Coordinate with the ODOT Rail & Public Transit Division, as necessary, to provide information and
+          resolve disputes.
+
+
+
+
+Policy No: 50-60-00 | Effective: TBD                                                                  Page 3 of 3
+

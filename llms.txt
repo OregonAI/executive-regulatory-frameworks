@@ -68,6 +68,16 @@
   [50-050-01 remote work](agencies/das/policies/das-50-050-01.md) ·
   [50-090-01 improper conduct reporting](agencies/das/policies/das-50-090-01.md)
 
+## DAS Accounting Manual (OAM)
+
+- [OAM index](agencies/das/accounting-manual/_index.md): 40 documents across 12 chapters
+  (05 R*STARS, 10 Internal Control, 15 Accounting & Financial Reporting, 20 Budgetary
+  Accounting, 30 Federal Compliance, 45 Payroll, 50 Tax Issues, 55 Other Programs, 60
+  Chart of Accounts, 65 Glossary, 70 agency numbering reference, 75 Forms). Several
+  payroll/tax documents are `status: draft` (unfinished on DAS's own site, with a
+  template-placeholder effective date) — check frontmatter before treating as current
+  guidance.
+
 ## DAS Standards (EIS/CSS)
 
 - [Standards index](agencies/das/standards/_index.md): the non-policy documents policies

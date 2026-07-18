@@ -1,0 +1,688 @@
+                                                                                          Statewide Policy
+
+
+
+ OREGON ACCOUNTING MANUAL
+ Subject:        Accounting and Financial Reporting                  Number:      15.60.10
+                                                                     Effective date: September 16,
+ Division:       Chief Financial Office
+                                                                     2017
+ Chapter:        Accounting and Financial Reporting
+ Part:           Capital Assets
+ Section:        Classification and Capitalization
+
+ Approved:       George Naughton, Chief Financial Officer            Signature on file
+
+
+
+PURPOSE:               This policy provides guidance on accounting and financial reporting for capital
+                       assets.
+
+AUTHORITY:             ORS 293.590
+                       GASB Statement No. 34
+                       GASB Statement No. 42
+                       GASB Statement No. 51
+                       GASB Statement No. 72
+                       GASB Comprehensive Implementation Guide 2016-1, Q. 4.71
+
+APPLICABILITY:         This policy applies to all state agencies included in the state’s annual financial
+                       statements, except those agencies specifically exempted by OAM 01.05.00.
+
+DEFINITIONS:           Capital Assets: Tangible or intangible property used in agency operations
+                       having an initial estimated useful life of more than one year and an initial cost
+                       (including ancillary charges) of $5,000 or more. This definition does not include
+                       assets held primarily for resale; agencies account for these assets as inventory.
+
+                       Acquisition Value: A market based entry price, representing the price that
+                       would be paid to acquire an asset with equivalent service potential in an orderly
+                       market transaction at the acquisition date, or the amount at which a liability could
+                       be liquidated with the counterparty at the acquisition date.
+
+                       Click here for other definitions.
+
+POLICY:
+
+101.     Agency management must ensure the proper accounting and reporting of capital assets and
+         establish a system of internal controls that reduces the risk of theft or other loss. Agencies
+         should refer to OAM 15.60.40, Intangible Assets for specific guidance on accounting for
+         intangible capital assets.
+
+102.     Record capital asset additions in the appropriate capital asset general ledger (GL) accounts.
+         Assets that cost less than $5,000 must be expensed according to OAM 15.55.00, Non-Capital
+         Assets.
+
+
+OAM 15.60.10                                                                                         1 of 13
+103.   If an agency uses estimated historical cost to capitalize an asset, ensure the estimate is
+       reasonable and supported by documentation that adequately describes the methodology and
+       assumptions used to arrive at the estimate. Once calculated, reduce the estimated historical
+       cost by an appropriate amount of accumulated depreciation or amortization.
+
+104.   Depreciate or amortize capital assets with limited lives on a straight-line basis according to
+       OAM 15.60.20, Depreciation and Amortization. Do not depreciate or amortize capital assets
+       with indefinite lives.
+
+105.   Reconcile capital outlay expenditures and property disposition records to the subsidiary
+       property ledgers; reconcile the subsidiary property ledgers to the capital asset GL control
+       accounts. Perform these reconciliations at least quarterly.
+
+106.   Conduct an annual physical inventory of capital assets.
+
+107.   When an agency sells or retires a capital asset, remove the asset and accumulated
+       depreciation from the GL control accounts and the subsidiary property ledger, and recognize
+       any gain or loss arising from the disposition. When disposing of surplus capital assets, contact
+       the Department of Administrative Services (DAS), Enterprise Goods and Services Division,
+       Surplus Property unit for instructions.
+
+108.   In addition to this policy, Statewide IT Policy 107-004-010, Information Technology Asset
+       Inventory and Management, applies to all IT assets.
+
+PROCEDURES:
+
+Classification
+
+109.   The Statewide Accounting and Reporting Services (SARS) combines and reports the capital
+       asset general ledger accounts in the state’s Comprehensive Annual Financial Report
+       (CAFR) under the following classifications:
+
+          Land (not depreciated or amortized; includes land use rights with indefinite lives)
+          Construction in Progress (not depreciated)
+          Works of Art and Other Nondepreciable Assets (not depreciated/amortized)
+          Buildings, Property, and Equipment (includes amortizable intangible assets)
+          Infrastructure
+          Accumulated Depreciation and Amortization
+          Invested in Capital Assets, Net of Related Debt
+
+       The GL accounts included within each of these reporting categories appear on the D31 profile in
+       R*STARS, as defined below.
+
+110.   Land: Assets capitalized as part of this classification are not subject to depreciation or
+       amortization. Record land in the following GL accounts.
+
+          Land – Record the carrying value of land owned by the agency in this GL account. When an
+           agency purchases land, the capitalized cost includes the purchase price and any costs
+           incurred to place the land in condition for its intended use, such as legal fees, title fees,
+           surveying costs, appraisal and negotiation charges, site preparation and excavation costs
+           (clearing, filling, and leveling) and similar costs. If an agency purchases land for a building
+           site, add the demolition costs to remove existing buildings to the cost of the land. If an
+
+
+OAM 15.60.10                                                                                        2 of 13
+           agency acquires land by donation, the amount capitalized represents the estimated
+           acquisition value at the time of donation, plus ancillary charges, if any. Account for land
+           purchased for resale as inventory, not as a capital asset. Do not depreciate land.
+
+           Note: Capitalize only those acquisition costs directly identifiable with a specific asset. For
+                 example, do not capitalize the cost of a site assessment or feasibility study
+                 undertaken to determine the best location for constructing a new building. Costs
+                 incurred during this early stage are not identifiable to a specific property. Capitalize
+                 such costs only if incurred after acquisition of the related asset becomes probable
+                 (i.e., likely to occur).
+
+          Land Use Rights (not amortized) – The cost of land use rights obtained by contract or other
+           legal right that the agency must account for separately because the agency did not acquire
+           the rights as part of the purchase or donation of the underlying land (see OAM 15.60.40,
+           Intangible Assets). Land use rights recorded in this GL account have indefinite lives, for
+           example, a permanent easement.
+
+111.   Construction in Progress: Use this GL account to record the costs of unfinished construction or
+       capital improvement projects (i.e. labor, materials and overhead). When a project is complete
+       (i.e., the asset is ready for its intended use), reclassify the capitalized costs from Construction in
+       Progress to the appropriate capital asset GL account (e.g., Buildings and Building
+       Improvements). Do not depreciate Construction in Progress. Do not begin depreciating a capital
+       asset until the agency places the asset in service.
+
+112.   Works of Art and Other Nondepreciable Assets (not depreciated/amortized): Do not depreciate
+       or amortize assets capitalized as part of this classification. Record these assets in the following
+       GL Accounts.
+
+          Works of Art and Historical Treasures (not depreciated) – Includes works of art and historical
+           artifacts, held as individual items or in a collection, that are considered inexhaustible; i.e.,
+           their economic benefit or service potential is used up so slowly that their estimated useful
+           lives are extraordinarily long. Examples include statues, paintings, sculptures, and historical
+           documents or artifacts.
+
+           Note: For items considered exhaustible, or depreciable, see paragraph 113 below.
+
+           Normally, agencies report collections of works of art and historical treasures in the financial
+           statements. However, agencies are not required to capitalize collections if they meet all of
+           the following criteria:
+
+           a. The collection is held for reasons other than financial gain (i.e., public exhibition,
+              education, or research as a public service, rather than financial gain).
+
+           b. The collection is protected, kept unencumbered, cared for, and preserved.
+
+           c. The collection is subject to a policy that requires the agency to use the proceeds from
+              sales of collection items to acquire other items for collections.
+
+          Other Nondepreciable Assets (not depreciated/amortized) – Includes the cost of intangible
+           assets (other than land use rights) with indefinite lives, such as a trademark.
+
+113.   Buildings, Property and Equipment: Depreciate or amortize assets capitalized as part of this
+       classification. Record these assets in the following GL accounts.
+
+
+
+OAM 15.60.10                                                                                           3 of 13
+          Works of Art and Historical Treasures (depreciable) – Includes works of art or historical
+           treasures, held as individual items or in a collection, that are exhaustible, such as exhibits
+           whose useful lives are diminished by display, educational, or research purposes.
+
+           Note: Agencies record artwork acquired as the result of the “one percent for arts” provision
+                 contained in ORS 276.080 in GL account, Buildings and Building Improvements.
+
+          Equipment and Machinery – Tangible property of a permanent nature (other than land,
+           buildings, and improvements to land or buildings) used in agency operations. Examples
+           include machinery, tools, and equipment.
+
+           Note: Do not capitalize data processing hardware in this account. See below.
+
+          Motor Vehicles – Includes cars, vans, trucks or other motorized vehicles used in agency
+           operations.
+
+          Data Processing Software – Computer and Web site software programs purchased,
+           internally generated, or acquired through a licensing agreement. See OAM 15.60.40.
+
+          Data Processing Hardware – Computers and peripheral equipment, such as modems and
+           servers.
+
+          Buildings and Building Improvements – Use this GL account to record the cost of permanent
+           structures (and improvements to structures) used to house people or property. Also, include
+           the cost of fixtures attached to and forming a permanent part of a building. When
+           constructing a new building on land owned by the agency, include the cost of demolishing
+           existing buildings in the cost of the new building. Record the value of land associated with
+           buildings separately in the GL account, Land. Outbuildings related to airports, buildings
+           associated with roadways, or buildings that are considered historical treasures, normally, are
+           not recorded in this account.
+
+          Land Improvements – Includes the costs of permanent improvements, other than buildings,
+           that add value to land. Examples include fences, gates, retaining walls, pedestrian bridges,
+           sidewalks, paved paths, parking lots, lighting, irrigation systems, septic systems, swimming
+           pools, fountains, signage, kiosks, and landscaping.
+
+          Leasehold Improvements – The cost of permanent additions or improvements made to a
+           leased asset that reverts to the owner of the property upon termination of the lease.
+
+          Capital Leased Property – Property acquired through a lease that meets the criteria for
+           capitalization. See OAM 15.60.30, Capital Leases.
+
+          Land Use Rights (amortizable) – The cost of land use rights obtained by contract or other
+           legal right that the agency must account for separately because the agency did not acquire
+           the rights as part of the purchase or donation of the underlying land (see OAM 15.60.40,
+           Intangible Assets). Limit the useful life of assets recorded in this GL account to the term of
+           the contract or legal right. Examples include non-permanent easements and water, mineral,
+           and timber rights.
+
+          Other Intangible Assets (amortizable) – The cost of intangible assets (other than land use
+           rights) that have limited lives, for example, patents.
+
+
+
+
+OAM 15.60.10                                                                                         4 of 13
+114.   Infrastructure: Infrastructure assets are long-lived capital assets that normally are stationary in
+       nature and can be preserved for a significantly greater number of years than most capital
+       assets. Examples of infrastructure assets include roads, bridges, tunnels, water and sewer
+       systems, and lighting systems. Do not consider buildings as infrastructure assets, except
+       buildings that are an ancillary part of a network of infrastructure assets, such as road
+       maintenance shops associated with roadway systems. Infrastructure capital assets are subject
+       to depreciation and are recorded in the following GL accounts.
+
+          State Highways – All state highway roads maintained by an agency including interstate
+           highways, principle arterials, minor arterials, major collectors and minor collectors. Costs
+           includes construction of the road, associated lighting, signage, traffic control devices, pipes,
+           wires, guard rails, culverts, drainage systems, and retaining walls. Also, include
+           maintenance buildings (such as sand sheds) and rest areas if the agency considers these
+           items a subsidiary part of state highways.
+
+          Other Roads – Any graveled or paved section of land maintained by an agency and used by
+           motorized vehicles, not associated with state highways. Costs includes construction of the
+           road, associated lighting, signage, traffic control devices, pipes, wires, guard rails, culverts,
+           drainage systems, and retaining walls. Also, include maintenance or other buildings
+           connected with the roadways.
+
+          Tunnels and Bridges – Tunnels, bridges, trestles, and other similar items needed for the
+           construction of roadway systems.
+
+          Airports – Any airport maintained by an agency. An airport includes elements such as air
+           traffic control structures, hangers, taxiways, runways, fueling stations, outbuildings,
+           helicopter landing pads, and lighting.
+
+          Utility Systems – Systems designed to deliver facility services including, for example,
+           sanitary sewer collection systems (not septic systems), fiber optics systems, water
+           distribution systems, electrical distribution systems, and vehicle fuel distribution systems.
+           These systems differ from land improvements in that they are not an integral part of the
+           operation of a single building. Example: Classify a septic system that is integral to the
+           operation of a single building as a land improvement, rather than as infrastructure.
+
+          Docks, Dikes and Dams – Infrastructure including docks, piers, dikes, levies, seawalls, dams
+           and structures associated with dams, wharves, and other similar assets.
+
+Acquisitions
+
+115.   Account for capital assets purchased with resources from proprietary funds or fiduciary
+       funds, or capital assets donated to those funds, within the GL accounts of those funds. Capital
+       assets purchased with resources from governmental funds, or donated to governmental funds,
+       are considered general capital assets (assets associated with governmental activities). Account
+       for general capital assets in the government-wide reporting fund.
+
+116.   Agencies may acquire capital assets by purchase (with or without trade-in), construction,
+       capital lease agreement, installment purchase contract, donation, transfer from another fund or
+       agency, eminent domain, or by foreclosure. Normally, agencies intend to resell assets acquired
+       through foreclosure. Record items for resale as inventory rather than capital assets.
+
+117.   Purchase: Report purchased capital assets at historical cost. The cost of a capital asset
+       includes ancillary charges necessary to place the asset into service. Ancillary charges include
+
+
+OAM 15.60.10                                                                                         5 of 13
+       costs that directly relate to acquisition of an asset, such as freight and handling charges,
+       insurance on the asset while in transit, site preparation costs, and assembly or installation costs
+       to get the asset ready for its intended use and location.
+
+118.   When an agency purchases a capital asset, use the capital outlay expenditure/expense
+       comptroller object that best matches the nature of the asset acquired. Comptroller objects for
+       capital outlay appear on the D10 profile in R*STARS and are included in the range 5000
+       through 5999 (e.g., 5800 Buildings and Improvements). The following entries illustrate how to
+       record the purchase and capitalization of equipment acquired with governmental fund
+       resources.
+
+                                               Governmental Fund
+
+       Generic entry to record expenditure using comptroller object 5150 - Equipment and Machinery.
+
+           DR Expenditure (C/O 5150)                                                 5,000
+             CR Cash                                                                         5,000
+                                    Government-wide Reporting Fund
+
+       T-code 545: To capitalize the asset using comptroller object 5150 - Equipment and Machinery.
+
+           DR 0815 Equipment and Machinery                                           5,000
+           DR 3074 Change in Capital Assets                                          5,000
+             CR 3018 Invested in Capital Assets                                              5,000
+             CR 3600 GAAP Expenditure Offset – C/O 5150                                      5,000
+
+119.   Additions or Improvements to Existing Assets: The historical cost of a capital asset includes
+       the cost of subsequent additions or improvements but excludes the cost of repairs and
+       maintenance. An addition or improvement, unlike a repair, provides additional value, enhances
+       a capital asset’s functionality (effectiveness or efficiency), or extends a capital asset’s expected
+       useful life. Repairs and maintenance only retain value. Example: The periodic resurfacing of a
+       road is expensed as a repair, while adding a new lane constitutes an addition that is capitalized.
+
+       Upon purchase or completion of an addition or improvement, the agency must reevaluate the
+       estimates used in the depreciation calculations (remaining useful life and salvage value) and
+       adjust them prospectively, if necessary.
+
+120.   Purchase with Trade-In: When the seller grants a trade-in allowance, record the cost of the new
+       asset at the amount of the cash paid, plus the unexpired cost (asset less accumulated
+       depreciation) of the trade-in surrendered. This rule applies to assets purchased and recorded in
+       proprietary funds, fiduciary funds, and the government-wide reporting fund.
+
+121.   Construction: The cost of capital assets acquired through construction includes all the costs
+       required to build the asset and get it ready for its intended use, such as architect fees,
+       engineering fees, materials, labor, subcontractor charges, and other similar costs.
+
+122.   Capitalized Interest: When enterprise funds use tax-exempt debt to finance the capital
+       construction of specified assets, capitalize the interest costs incurred during the construction
+       period as part of the cost to construct the asset. Interest capitalization starts on the date of the
+       borrowing and continues until the date the asset is ready for its intended use. Interest earned
+       during this period on unspent borrowings reduces the amount the agency capitalizes. Do not
+       include capitalized interest in the cost of assets purchased with resources from governmental
+       funds. Do not include capitalized interest in the cost of assets purchased with the resources of
+
+
+OAM 15.60.10                                                                                          6 of 13
+       internal service funds, as these are governmental activities for government-wide financial
+       reporting purposes.
+
+123.   Capital Lease Agreement: If a lease agreement meets the criteria of a capital lease, capitalize
+       the related asset using an amount equal to the net present value of future minimum lease
+       payments. See OAM 15.60.30.
+
+124.   Installment Purchase Contract: The cost of a capital asset acquired through an installment
+       purchase contract does not include the interest charges contained in each payment. Expense
+       the interest charges. See OAM 15.60.40, the final paragraph, for an example of how to account
+       for an installment purchase contract. The example involves a software licensing agreement that
+       is accounted for as an installment purchase contract.
+
+125.   Donation of Capital Asset by External Party: Report capital assets donated to an agency by an
+       external party at their estimated acquisition value at the time of donation, plus ancillary
+       charges, if any. It’s important to note that acquisition value is a market-based entry price, which
+       is the price to acquire an asset, rather than an exit price, which is the price to dispose of an
+       asset. If the agency cannot readily determine the acquisition value, use an appraisal value. If an
+       agency considers donated capital assets as capital contributions, report the amount of the
+       contribution separately on the operating statement. The following entry illustrates the donation
+       of equipment to a governmental fund.
+
+                                   Government-wide Reporting Fund
+
+       T-code 537R: To capitalize a donated asset using comptroller object 2550 - Capital
+       Contributions.
+
+           DR 0815 Equipment and Machinery                                          5,000
+           DR 3074 Change in Capital Assets                                                 5,000
+             CR 3018 Invested in Capital Assets                                     5,000
+             CR 3200 GAAP Revenue Offset (C/O 2550)                                         5,000
+
+       Note that there is no entry to be made directly in the governmental fund to record the donation.
+       Only an entry to the government-wide reporting fund is made. If a proprietary fund receives
+       a donated capital asset, it does recognize the donation as a capital contribution.
+
+126.   Capital Assets Used for Pollution Remediation: Agencies account for the estimated costs to
+       acquire facilities and equipment that will be used exclusively in pollution remediation activities
+       as a component of the pollution remediation obligation. Agencies record the eventual purchase
+       of the facilities and equipment as a reduction of the previously recognized liability for pollution
+       remediation outlays.
+
+127.   Transfer of Assets: When capital assets move from one agency to another, the receiving
+       agency reports those assets at the net book value previously reported (that is, historical cost
+       less accumulated depreciation) by the sending agency in the government-wide statement of net
+       position. Consequently, the sending agency recognizes no gain or loss. Record the transfer in
+       R*STARS as a two-step process.
+
+       Step 1: Select the appropriate transaction code from the list below to remove the depreciated
+               portion of the capital asset from the sending agency’s GL accounts. The receiving
+               agency records the depreciated portion of the capital asset in its GL accounts using
+               the same transaction code with an “R” (reverse).
+
+
+
+
+OAM 15.60.10                                                                                        7 of 13
+                                                                         DR GL            CR GL
+                  TC       Description                                   (Accum Depr)     (Asset)
+                  529      FA Disp/Adj-Motor Veh-Prop/Govt-Wide/Fid      0872             0816
+                  530      FA Disp/Adj-Bldg&Imp-Prop/Govt-Wide/Fid       0875             0852
+                  531      FA Disp/Adj-Land Impr-Prop/Govt-Wide/Fid      0867             0856
+                  532      FA Disp/Adj-DP Sftwr-Prop/Govt-Wide/Fid       0868             0817
+                  533      FA Disp/Adj-Equip&Mach-Prop/Govt-Wide/Fid     0869             0815
+                  534      FA Disp/Adj-Lesehld Imp-Prop/Govt-Wide/Fid    0870             0862
+                  535      FA Disp/Adj Cap L’sd-Prop/Govt-Wide/Fid       0871             0863
+                  538      FA Disp/Adj-DP Hrdware-Prop/Gov-Wide/Fid      0873             0818
+                  539      FA Disp/Adj-Art/His Tres-Prop/Gov-Wide/Fid    0876             0812
+                  543      FA Disp/Adj-St Highways-Prop/Gov-Wide/Fid     0880             0840
+                  544      FA Disp/Adj-Tun’l/Brid-Prop/Gov-Wide/Fid      0881             0842
+                  546      FA Disp/Adj-LandUse Rght-Prop/Gov-Wide/Fid    0865             0849
+                  547      FA Disp/Adj-Oth Intangib-Prop/Gov-Wide/Fid    0866             0820
+                  551      FA Disp/Adj-Airports-Prop/Gov-Wide/Fid        0882             0843
+                  552      FA Disp/Adj-Util Syst-Prop/Gov-Wide/Fid       0883             0844
+                  553      Disp/Adj-Docks,Dikes,Dams-Prop/Gov-Wi/Fid     0884             0845
+                  557      FA Disp/Adj-Oth Roads-Prop/Gov-Wide/Fid       0885             0841
+
+        Step 2: Use transaction codes 900 and 901 (a balanced transfer) to transfer the remaining net
+                book value of the capital asset from one agency to another. The sending agency uses
+                T-code 900 and the appropriate agency transfer-out comptroller object. The receiving
+                agency uses T-code 901 and the appropriate agency transfer-in comptroller object.
+
+                Note: If the transfer involves a capital asset that is fully depreciated, T-codes 900 and
+                      901 are not required.
+
+                Use comptroller objects 1301 and 1401 only when transferring the net book value of a
+                capital asset from one fund to another fund within the same agency (not transfers
+                between agencies).
+
+                See the chart below for details.
+
+
+                  TC      Description        DR G/Ls    CR GLs      Optional G/Ls   Comp Object
+
+                  900     Capital Asset      3550,      3074        0811-0863       1401, 1430, 1800-
+                          Transfer Out       3018                                   1999
+                          Between Funds/                                            GASB 38 transfer
+                          Agencies                                                  number required
+                  901     Capital Asset      3074       3150,       0811-0863       1201-1301, 1305-
+                          Transfer In                   3018                        1490
+                          Between Funds/                                            GASB 38 transfer
+                          Agencies                                                  number required
+
+Ownership is Unclear
+
+128.   Sometimes it is unclear who owns a particular capital asset. Uncertainty of ownership may
+       arise when an agency maintains or uses an asset, but another governmental entity finances the
+       capital asset and retains a reversionary interest or is responsible for replacement of the asset.
+       Under these circumstances, the agency records the asset in its accounting records and
+       depreciates the asset, if either of the following conditions apply:
+
+
+
+OAM 15.60.10                                                                                        8 of 13
+           The agency is party to an arrangement that makes it responsible for maintaining the asset,
+            or
+
+           The agency is the party that uses the asset in its activities and makes the decisions
+            regarding when and how the asset will be used and managed.
+
+Estimated Historical Cost
+
+129.   Agencies may use a variety of methods to estimate the historical cost of a capital asset when
+       invoices are no longer available. One method is to use historical sources, such as old vendor
+       catalogs, to establish the average cost of obtaining a similar asset at the time of acquisition (the
+       standard costing approach). Another approach is to deflate the current cost of a similar asset
+       using an appropriate price index (normal costing or backtrending). In either case, once
+       calculated, reduce the estimated historical cost by an appropriate amount of accumulated
+       depreciation or amortization.
+
+       Example: An agency acquired an asset 10 years ago and the asset has an estimated remaining
+       useful life of 5 years. The current cost of a similar asset is $9,500, and the price index for that
+       type of asset over the past 10 years is 1.90 (that is, a 90% increase).
+
+            9,500 (cost of new asset) = 5,000 (estimated historical cost)
+               1.90 (price index)
+
+            10 years (past service life) X 5,000 (estimated historical cost) = 3,333 accum depr/amort
+            15 years (estimated total service life)
+
+Subsidiary Property Ledgers
+
+130.   Track and control capital assets by affixing permanent identification tags and recording them in
+       subsidiary property ledgers. The tags must be pre-numbered and controlled. At a minimum,
+       maintain the following details in the property ledgers:
+
+       a. Asset identification tag number
+       b. Asset description
+       c. Acquisition date
+       d. Acquisition voucher number
+       e. Acquisition cost for purchases or acquisition value for donations.
+       f.   Location
+       g. Accumulated depreciation
+       h. Value for insurance coverage (usually replacement value). Refer to the Property Self-
+          Insurance Manual maintained by DAS, State Services Division, Risk Management.
+
+131.   Agencies may also use subsidiary property ledgers to track and control non-capital IT assets
+       and other non-capital assets at high risk of loss. In either case, do not record non-capital assets
+       in the capital asset GL control accounts. See OAM 10.50.00 PO, Capital and Non-capital
+       Assets for detailed internal control procedures related to capital and non-capital assets.
+
+
+
+
+OAM 15.60.10                                                                                        9 of 13
+Reconciliations
+
+132.   Reconcile capital outlay expenditures to the additions recorded in the subsidiary property
+       ledgers. If an agency budgets its capital asset purchases or construction as services and
+       supplies expenditures, include those services and supplies comptroller objects in the
+       reconciliation. Reconcile deletions recorded in the subsidiary property ledgers to the property
+       disposition records. Lastly, reconcile the subsidiary property ledgers to the capital asset GL
+       control accounts. Perform these reconciliations at least quarterly.
+
+Physical Inventory Observation
+
+133.   Take a physical inventory of the agency's property at least annually to verify the existence of
+       all items listed on the subsidiary property ledgers. Investigate and resolve discrepancies and
+       adjust the GL control accounts accordingly. Maintain documented evidence that the agency has
+       conducted a physical inventory.
+
+Impairment
+
+134.   When a significant, unexpected decline in the service utility of a capital asset is determined to
+       be a permanent impairment, reduce the carrying value of the capital asset by the amount of the
+       impairment loss. For guidance, refer to OAM 15.60.25, Capital Asset Impairments.
+
+Disposals and Retirements
+
+135.   As assets wear out or become obsolete, agencies may sell, scrap, or exchange them. When
+       disposing of surplus capital assets, follow the guidelines established by DAS, State Services
+       Division, Surplus Property unit. Use the property disposition request (PDR) form that agencies
+       complete to dispose of surplus property as documentation for removing the asset from the
+       agency’s GL accounts and subsidiary property ledgers.
+
+136.   If an agency permanently retires a capital asset from service (either voluntarily or involuntarily)
+       and does not immediately sell or otherwise dispose of the asset, the asset ceases to be a
+       capital asset (because it no longer will be used in operations) and must be reclassified to state
+       owned property held for sale (GL 0927). Report assets held for sale at the lower of book value
+       or fair value.
+
+137.   Proprietary Fund Sale: When an agency sells an asset, remove the cost from the appropriate
+       asset account and the related depreciation from the accumulated depreciation account. The
+       difference between the unexpired cost (asset cost less accumulated depreciation) and the
+       proceeds received on the sale equals the gain or loss.
+
+138.   The entries below illustrate the sale of a fully depreciated piece of equipment originally
+       purchased by an enterprise fund for $50,000. At the time of sale, accumulated depreciation was
+       $50,000. The equipment was sold for $20,000. Since the asset was fully depreciated, the entire
+       $20,000 represents a gain on the sale.
+
+                                                Enterprise Fund
+
+       T-code 149: To record sale proceeds using comptroller object 2330 - Gain (Loss) on
+       Disposition.
+
+           DR 0065 Unreconciled Deposit                                             20,000
+             CR 3100 Revenue Control-Cash (C/O 2330)                                         20,000
+
+
+
+OAM 15.60.10                                                                                          10 of 13
+       T-code 533: To remove accumulated depreciation
+
+           DR 0869 Accumulated Depreciation – Equipment                            50,000
+             CR 0815 Equipment and Machinery                                                50,000
+
+139.   Sale of General Capital Assets: When an agency sells a general capital asset, remove the
+       cost from the appropriate asset account and the related depreciation from the accumulated
+       depreciation account in the government-wide reporting fund.
+
+140.   The entries below illustrate the sale of a partially depreciated vehicle originally purchased with
+       special revenue fund resources for $20,000. At the time of sale, accumulated depreciation was
+       $15,000. The vehicle was sold for $5,000.
+
+                                             Special Revenue Fund
+
+       T-code 149: To record sale proceeds received using comptroller object 2330 - Gain (Loss) on
+       Disposition.
+
+           DR 0065 Unreconciled Deposit                                            5,000
+             CR 3100 Revenue Control-Cash (C/O 2330)                                        5,000
+
+                                       Government-wide Reporting Fund
+
+       T-code 529: To remove accumulated depreciation.
+
+           DR 0872 Accumulated Depreciation – Motor Vehicles                       15,000
+             CR 0816 Motor Vehicles                                                         15,000
+
+       T-code 537: To remove unexpired cost using comptroller object 2330 - Gain (Loss) on
+       Disposition.
+
+           DR 3018 Invested in Capital Assets                                      5,000
+           DR 3200 GAAP Revenue Offset (C/O 2330)                                  5,000
+             CR 0816 Motor Vehicles                                                         5,000
+             CR 3074 Change in Capital Assets                                               5,000
+
+141.   Trade-in: When the seller grants a trade-in allowance, record the cost of the new asset as the
+       amount of the cash paid, plus the unexpired cost (asset cost less accumulated depreciation) of
+       the trade-in surrendered. Remove the cost and accumulated depreciation of an asset traded-in
+       from the accounts in conjunction with recording the acquisition cost of the new asset. This rule
+       applies to assets purchased and recorded in proprietary funds, fiduciary funds, and the
+       government-wide reporting fund.
+
+Financial Statement Reporting
+
+142.   SARS combines capital assets into the asset categories noted above in paragraph 109 on the
+       proprietary funds statement of net position, the statement of fiduciary net position, and the
+       government-wide statement of net position. SARS reports accumulated
+       depreciation/amortization as a contra account to capital assets in the proprietary funds
+       statement of net position and the government-wide statement of net position. Capital assets are
+       reported net of accumulated depreciation in the statement of fiduciary net position. SARS
+       reports invested in capital assets, net of related debt, as a component of net position (equity) in
+       the proprietary funds statement of net position and government-wide statement of net position.
+
+
+
+OAM 15.60.10                                                                                         11 of 13
+143.   SARS reports depreciation/amortization expense in proprietary funds as an operating expense
+       in the statement of revenues, expenses and changes in fund net position.
+       Depreciation/amortization expense in fiduciary funds is reported in the statement of changes in
+       fiduciary net position as a part of administrative expenses. SARS reports
+       depreciation/amortization expense in the government-wide reporting fund as a program
+       expense in the applicable function for governmental or business-type activities.
+
+144.   SARS reports gains and losses on disposition of capital assets of a proprietary fund in
+       nonoperating revenues/expenses in the statement of revenues, expenses, and changes in fund
+       net position. Similar gains and losses in fiduciary funds are reported as part of administrative
+       expenses.
+
+145.   SARS reports proceeds from the sale of general capital assets as other revenue in the
+       governmental fund statement of revenues, expenditures and changes in fund balances.
+       Although comptroller object 2330 - Gain (Loss) on Disposition of Assets is used to record sale
+       proceeds, it rolls up to Other Revenue for governmental fund reporting purposes.
+
+146.   When an agency transfers a capital asset to a proprietary fund from the government-wide
+       reporting fund, SARS reclassifies the transfer-in and treats it as a capital contribution for
+       financial reporting. The capital contribution appears as a separate line item within nonoperating
+       revenues/expenses on the proprietary funds statement of revenues, expenses, and changes in
+       fund net position.
+
+147.   When an agency transfers a capital asset from a proprietary fund to the government-wide
+       reporting fund, SARS reclassifies the transfer-out and reports it as nonoperating expense on
+       the proprietary funds statement of revenues, expenses, and changes in fund net position.
+
+148.   Because the state does not normally sell general capital assets (assets associated with
+       governmental activities), sales of capital assets are usually infrequent and insignificant.
+       However, agencies should consider whether a sales transaction meets the definition of a
+       special item or an extraordinary item that must be reported separately in the operating
+       statement. If applicable, agencies must disclose the transaction when completing the year-end
+       General Disclosure forms.
+
+149.   In the government-wide statement of activities, SARS reports immaterial gains/losses on
+       disposition of general capital assets as an adjustment to current year depreciation expense. If
+       the gains are material, SARS reports them as general revenues (unlike gains on the sale of
+       capital assets in proprietary funds, which are reported as part of the appropriate functional
+       expense within business-type activities), or as a special item or an extraordinary item, if
+       applicable.
+
+Disclosure Requirements
+
+150.   The state must disclose capital asset activity in the CAFR, including beginning balance,
+       increases, decreases, and ending balance of each asset classification and the related
+       accumulated depreciation/amortization. The notes to the financial statements report capital
+       assets used in governmental activities separately from capital assets used in business-type
+       activities.
+
+151.   Notes to the state’s CAFR also include a schedule to illustrate the amount of depreciation
+       expense charged to each function during the fiscal year. The disclosures present
+       depreciation/amortization for capital assets used in governmental activities separately from
+       depreciation/amortization for capital assets used in business-type activities. Depreciation related
+       to fiduciary fund activities is also presented.
+
+
+OAM 15.60.10                                                                                      12 of 13
+152.   If an agency elects not to capitalize a work of art or historical treasure because it meets all of
+       the criteria in paragraph 114, the agency must provide a description of the collection and the
+       reasons the agency has chosen not to capitalize it. If applicable, disclose this information when
+       completing the year-end General Disclosure forms.
+
+153.   SARS reports the amount of net position (equity) invested in capital assets, net of any related
+       debt outstanding at year end. To determine the appropriate balance, agencies complete a year-
+       end General Disclosure form to report the amount of outstanding debt issued to acquire or
+       construct capital assets. SARS subtracts the outstanding debt from the Invested in Capital
+       Assets account and reports invested in capital assets, net of related debt, in the proprietary
+       fund statement of net position and the government-wide statement of net position.
+
+
+
+
+OAM 15.60.10                                                                                      13 of 13
+

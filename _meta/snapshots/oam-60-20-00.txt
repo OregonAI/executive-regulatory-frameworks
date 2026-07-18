@@ -1,0 +1,888 @@
+                                                                                                  Statewide Policy
+
+
+
+OREGON ACCOUNTING MANUAL
+SUBJECT:        Accounting and Financial Reporting                            Number:       60.20.00
+DIVISION:       Chief Financial Office                                        Revision date: June 14, 2017
+Chapter:        Chart of Accounts
+Part:           Comptroller Objects (Nominal Accounts) – By Financial Statement Classification
+
+
+ CAFR Title and Definition
+
+               D10 No.           Comptroller Object Title
+
+ Personal Income Taxes – Taxes on individuals based on income.
+               0111              Personal Income Taxes
+
+ Corporate Income Taxes – Taxes on corporations based on income.
+               0115              Corporate Excise and Income Taxes
+
+ Tobacco Taxes – Sales taxes on tobacco products.
+               0121              Cigarette Taxes
+               0130              Other Tobacco Product Taxes
+
+ Healthcare Provider Taxes – Taxes on hospitals and other healthcare providers.
+               0129              Healthcare Provider Taxes
+
+ Inheritance Taxes – Taxes on the value of a deceased person’s assets.
+               0160              Inheritance Taxes
+
+ Public Utilities Taxes – Taxes on public utilities to regulate tax rates charged to customers.
+               0142              Public Utilities Taxes
+
+ Insurance Premium Taxes – Taxes on out-of-state insurers as a cost to do business in Oregon.
+               0143              Insurance Premium Taxes
+
+ Motor Fuels Taxes – Sales taxes on gasoline and diesel fuel; constitutionally dedicated to transportation purposes.
+               0122              Motor Fuels Taxes
+
+ Weight-Mile Taxes – Use taxes imposed on trucks; constitutionally dedicated to transportation purposes.
+               0123              Weight-Mile Taxes
+
+ Vehicle Registration Taxes – Taxes charged for the use of vehicles on the State’s roads; constitutionally dedicated
+ for transportation purposes.
+               0126              Vehicle Registration Taxes
+
+ Employer – Employee Taxes – Payroll taxes on employers and employees.
+               0153              Other Employer – Employee Taxes
+
+ Workers’ Compensation Insurance Taxes – Taxes collected from insurers based on workers’ compensation
+ premiums earned in Oregon.
+               0152              Workers’ Compensation Insurance Taxes
+
+OAM 60.20.00                                                                                                1 of 19
+ Other Taxes – Selective taxes on sales, use, receipts and transfers of assets.
+               0124             Alcoholic Beverage Taxes
+               0125             Other Selective Taxes
+               0131             Marijuana Product Taxes
+               0141             Amusement Taxes
+               0144             Other Gross Receipts Business Taxes
+               0171             Eastern Oregon Severance Taxes
+               0172             Western Oregon Severance Taxes
+               0173             Other Severance Taxes
+               0181             Forest Protection Taxes
+               0182             Other Taxes
+
+ Assessments – Taxes used for the payment of unemployment benefits to individuals.
+               0151             Employment Taxes
+
+ Licenses and Fees – Revenue from businesses and individuals for the privilege of doing business or in return for
+ other benefits.
+               0210             Corporation Fees
+               0211             Fire Marshal Fees
+               0212             Other Business Licenses and Fees
+               0220             Park User Fees
+               0222             Drivers Licenses
+               0223             Transportation Licenses and Fees
+               0224             Hunter and Angler Licenses
+               0225             Commercial Fishing Licenses and Fees
+               0226             Power and Water Fees
+               0227             State Court Fees
+               0228             Other Nonbusiness Licenses and Fees
+               0229             Indigent Defense Recovery
+
+ Federal – All revenues and cost reimbursements received directly from the federal government.
+               0300             Federal Revenue
+               0355             Federal Revenue as Other Funds (not required to be used)
+               0360             Federal Revenue Service Contracts
+               0365             Build America Bonds Federal Credit
+
+ Charges for Services – All revenues received from individuals, businesses, other funds, and other governments
+ in return for services performed.
+               0401             Administrative and Service Charges
+               0402             Education of Children in State Schools
+               0403             Care of State Wards
+               0404             Support Collections
+               0405             Central Service Charges
+               0406             Indirect Cost Reimbursements
+               0407             Other Charges for Services
+               0408             Merchant Card Convenience & Service Fees
+               0410             Insurance Premiums
+OAM 60.20.00                                                                                               2 of 19
+ Fines and Forfeitures – Revenues from fines, penalties, and confiscated deposits imposed for the commission of
+ statutory offenses, violation of lawful administrative rules, or neglect of official duty.
+               0500              Fines, Forfeitures, and Penalties
+ Rebates and Recoveries – Rebates and Recoveries is intended to report rebates that cannot be reported as a
+ reduction of a related expenditure and refunds/recoveries of prior year expenses/expenditures.
+               0560              Rebates and Recoveries
+
+ Rents and Royalties – Resources derived from the use by others of the State’s tangible and intangible assets.
+               0600              Rents and Royalties
+
+ Sales – Revenue derived from the sale of merchandise, publications, supplies, and other items.
+               0701              Liquor Sales
+               0702              Pari-Mutuel Receipts
+               0703              State Forest Lands
+               0704              Common School Lands
+               0708              Other Sales Income
+
+ Donations and Grants – Resources donated to the State from external parties, excluding federal grants.
+               0709              Donations
+               0716              Grants – Non Federal
+
+ Unclaimed Property Revenue – Unclaimed warrants, checks, safe deposit contents, and other abandoned
+ property that the State holds while looking for the rightful owner. Also includes escheat property that reverts to the
+ Common School Fund on an individual´s death because no heir or will exists or can be found.
+
+               0720             Unclaimed Property Revenue
+
+ Tobacco Settlement Proceeds – Proceeds from tobacco industry lawsuit.
+               0725              Tobacco Settlement Proceeds
+
+ Foreclosure Settlement Proceeds – Proceeds from foreclosure lawsuits to take property to satisfy a debt. The
+ bank or lender may take actual ownership of the property or have the property sold to pay off the debt.
+
+               0726             Foreclosure Settlement Proceeds
+
+ Veterans’ Income – Benefits or other income of Veterans for whom the State is financial guardian.
+
+               0730             Veterans’ Income
+
+ Income of Individuals in State Care – Benefits or other income of individuals for whom the State is financial
+ guardian.
+
+               0740             Income of Individuals in State Care
+
+ Investment Income – Proceeds from interest earned on cash, investments and loans, and income from changes
+ in fair value of investments.
+               0800              Interest on Investments
+               0801              Interest on Program Loans
+               0810              Income from Investments – Treasury
+               0811              Interest on Program Loans – Treasury
+               0820              Excess Fund Interest – Treasury
+               0830              Net Increase (Decrease) in Fair Value of Investments
+               2340              Gain (Loss) on Sale of Investments
+               2341              Increase/(Decrease) in Income from Sale of Investments – Fair Value
+OAM 60.20.00                                                                                                   3 of 19
+ Employee Contributions – Retirement contributions received by PERS.
+               1001            Retirement Contributions
+
+ Program Loan Repayments – Repayments of loan principal.
+               1100            Other Program Loan Repayments
+               1101            Housing Division Loan Repayments
+               1102            Veterans’ Loan Repayments
+               1103            Senior Citizen Property Tax Repayments
+               1104            Other Loan Repayments
+
+ Other Revenue – Revenues not meeting any of the classifications above.
+               1105            Other Revenue
+               1106            Collection of Overpayments
+               1107            Reimbursement of Assistance
+               1108            Over/Short Account
+ Pension Bond Debt Service Assessments – Agency payments for pension bond debt service received by DAS.
+               1112            Pension Bond Debt Service Assessments
+
+ Transfers from Other Funds – Flows of assets (cash or goods) into an agency or fund without equivalent flows
+ out in return and without a requirement for repayment.
+               1279            Transfer in from Board of Dentistry
+               1280            Transfer in from Board of Licensed Professional Counselors and Therapists
+               1282            Transfer in from Employment Relations Board
+               1283            Transfer in from Board of Clinical Social Workers
+               1285            Transfer in from State Board of Chiropractic Examiners
+               1287            Transfer in from Office of Public Defense Services
+               1288            Transfer in from Department of Human Services
+               1289            Transfer in from Oregon Health Licensing Agency
+               1290            Transfer in from Watershed Enhancement Board
+               1291            Transfer in from Land Use Board of Appeals
+               1292            Transfer in from Criminal Justice Commission
+               1293            Transfer in from Board of Accountancy
+               1294            Transfer in from State Board of Psychologists Examiners
+               1295            Transfer in from Board of Tax Practitioners
+               1296            Transfer in from Chief Education Office
+               1297            Transfer in from Higher Education Coordinating Commission
+               1298            Transfer in from Construction Contractors Board
+               1299            Transfer in from Oregon Youth Authority
+               1301            Transfer in from Other Fund
+               1302            Transfer in Lottery Proceeds
+               1303            Transfer in from General Fund
+               1305            Transfer in from State General Fund – Agency 999
+               1306            Transfer in from Department of Administrative Services
+               1307            Transfer in from Long-term Care Ombudsman
+               1308            Transfer in from Office of the Governor
+
+OAM 60.20.00                                                                                               4 of 19
+               1309   Transfer in from Oregon Business Development Department (Business Oregon)
+               1310   Transfer in from Legislative Counsel Committee
+               1311   Transfer in from Legislative Fiscal Office
+               1312   Transfer in from Oregon Advocacy Commissions Office
+               1314   Transfer in from Department of Justice
+               1315   Transfer in from Department of State Lands
+               1316   Transfer in from Department of Revenue
+               1317   Transfer in from Legislative Assembly
+               1318   Transfer in from Legislative Administration Committee
+               1319   Transfer in from Citizens Initiative Review
+               1320   Transfer in from Secretary of State
+               1321   Transfer in from Oregon State Treasury
+               1322   Transfer in from Lottery Commission
+               1323   Transfer in from Council on Court Procedures
+               1324   Transfer in from Judicial Department
+               1325   Transfer in from Military Department
+               1326   Transfer in from Oregon State Marine Board
+               1329   Transfer in from Department of State Police
+               1330   Transfer in from Department of Public Safety Standards
+               1331   Transfer in from Oregon Department of Veterans’ Affairs
+               1332   Transfer in from Department of Corrections
+               1335   Transfer in from Oregon Department of Energy
+               1337   Transfer in from Department of Environmental Quality
+               1347   Transfer in from State Commission on Children and Families
+               1350   Transfer in from Public Employees Retirement System
+               1351   Transfer in from Department of Consumer and Business Services
+               1352   Transfer in from Office of Private Health Partnerships
+               1353   Transfer in from Oregon Health Authority
+               1355   Transfer in from Employment Department
+               1356   Transfer in from Indirect Cost Center
+               1358   Transfer in from Oregon State Library
+               1362   Transfer in from Department of Education
+               1365   Transfer in from Blind Commission
+               1367   Transfer in from Oregon Department of Agriculture
+               1370   Transfer in from Oregon Forest Resources Institute
+               1371   Transfer in from Department of Forestry
+               1372   Transfer in from Department of Geology and Mineral Industries
+               1373   Transfer in from Oregon Department of Fish and Wildlife
+               1374   Transfer in from Department of Land Conservation and Development
+               1375   Transfer in from Water Resources Department
+               1377   Transfer in from Parks and Recreation Department
+               1378   Transfer in from Department of Transportation
+               1383   Transfer in from Department of Aviation
+               1386   Transfer in from Health Related Licensing Boards
+OAM 60.20.00                                                                               5 of 19
+               1387            Transfer in from Bureau of Labor and Industries
+               1388            Transfer in from Oregon Liquor Control Commission
+               1389            Transfer in from Oregon Medical Board
+               1390            Transfer in from Board of Nursing
+               1391            Transfer in from Public Utility Commission
+               1392            Transfer in from Oregon Racing Commission
+               1394            Transfer in from Housing and Community Services Department
+               1395            Transfer in from State Board of Pharmacy
+               1396            Transfer in from Real Estate Agency
+               1399            Transfer in from Water Resources Bond Program
+               1400            Transfer in from Teacher Standards and Practices Commission
+
+ Revenue Transfers Out – Payments of revenue sharing amounts (e.g., gas taxes) to cities, counties, and non-
+ governmental units. This account is reclassified to special payments expenditures for financial reporting.
+               1404            Transfer to Cities
+               1405            Transfer to Counties
+               1407            Transfer to Oregon Health and Science University (Component Unit)
+               1408            Transfer to Non-Governmental Units
+               1429            Transfer to Independent Universities
+               1435            Transfer to Semi-Independent Agency
+
+ Long Term Debt Issued – The face amount of debt issued (which may not equal the proceeds received) in
+ governmental funds. In proprietary funds, the cash received is recorded as Debt Proceeds.
+               1500            General Obligation Bonds (Dedicated Funds)
+               1501            General Obligation Bonds (Debt Service paid from General Fund)
+               1502            Lottery Revenue Bonds
+               1503            Revenue Bonds
+               1504            Tax Exempt Commercial Paper
+               1506            Certificates of Participation
+               1512            Appropriation Bonds
+
+ Refunded Debt Issued – The face amount of debt issued as refunding debt (which may not equal the proceeds
+ received) in governmental funds. In proprietary funds, the cash received is recorded as Debt Proceeds.
+               1505            Proceeds from Refunding Bond/COP Debt
+
+ Debt Issuance Discount – The excess of par over the selling price for debt issued in governmental funds. Not
+ used in proprietary funds.
+               1507            OID – Certificates of Participation
+               1508            OID – Bonds
+
+
+
+
+OAM 60.20.00                                                                                              6 of 19
+ Debt Issuance Premium – The excess of the selling price over par for debt issued in governmental funds. Not
+ used in proprietary funds.
+               1509            OIP – Certificates of Participation
+               1510            OIP – Bonds
+               1511            OIP – Tax Anticipation Notes
+               1513            OIP – Appropriation Bonds
+
+ Loan Proceeds – Resources received on loan.
+               1600            Loan Proceeds
+
+ TAN Proceeds – Resources received from issuance of tax anticipation notes.
+               1605            Tax Anticipation Note Proceeds
+
+ Leases Incurred – In governmental funds, the present value of a lease incurred that meets the requirement of
+ reporting as a capital lease.
+               1700            Leases Incurred
+
+ Transfers to Other Funds – Flows of assets (cash or goods) out of an agency or fund without equivalent flows
+ coming in and without a requirement for repayment from the receiving fund.
+               1401            Transfer Out to Other Fund
+               1402            Transfer Out Lottery Proceeds
+               1403            Transfer Out to General Fund
+               1430            Transfer Out to Oregon Corrections Enterprises
+               1456            Transfer Out – Indirect Cost Center
+               1801            Transfer Out to Department of Administrative Services
+               1803            Transfer Out to Office of the Governor
+               1804            Transfer Out to Oregon Business Development Department (Business Oregon)
+               1805            Transfer Out to Oregon Government Ethics Commission
+               1807            Transfer Out to Oregon Advocacy Commissions Office
+               1809            Transfer Out to Department of Justice
+               1810            Transfer Out to Department of State Lands
+               1811            Transfer Out to Department of Revenue
+               1812            Transfer Out to Legislative Administration Committee
+               1813            Transfer Out to Secretary of State
+               1814            Transfer Out to Oregon State Treasury
+               1816            Transfer Out to Legislative Counsel Committee
+               1817            Transfer Out to Legislative Fiscal Office
+               1818            Transfer Out to Judicial Department
+               1819            Transfer Out to Military Department
+               1820            Transfer Out to Oregon State Marine Board
+               1822            Transfer Out to Department of State Police
+               1823            Transfer Out to Department of Public Safety Standards and Training
+               1824            Transfer Out to Oregon Department of Veterans’ Affairs
+               1825            Transfer Out to Department of Corrections
+               1827            Transfer Out to Oregon Department of Energy
+               1829            Transfer Out to Department of Environmental Quality
+               1830            Transfer Out to Legislature Revenue Office
+OAM 60.20.00                                                                                              7 of 19
+               1841   Transfer Out to State Commission on Children and Families
+               1843   Transfer Out to Oregon Health Authority
+               1844   Transfer Out to Department of Consumer and Business Services
+               1845   Transfer Out to Office of Private Health Partnerships
+               1846   Transfer Out to Oregon Public Employees Retirement System
+               1848   Transfer Out to Employment Department
+               1850   Transfer Out to Oregon State Library
+               1854   Transfer Out to Department of Education
+               1856   Transfer Out to Chief Education Office
+               1857   Transfer Out to Higher Education Coordinating Commission
+               1858   Transfer Out to Oregon Department of Agriculture
+               1862   Transfer Out to Oregon Forest Resources Institute
+               1863   Transfer Out to Department of Forestry
+               1864   Transfer Out to Department of Geology and Mineral Industries
+               1865   Transfer Out to Oregon Department of Fish and Wildlife
+               1866   Transfer Out to Department of Land Conservation and Development
+               1867   Transfer Out to Water Resources Department
+               1868   Transfer Out to Parks and Recreation Department
+               1869   Transfer Out to Department of Transportation
+               1870   Transfer Out to Oregon Liquor Control Commission
+               1871   Transfer Out to Citizens Initiative Review
+               1872   Transfer Out to Travel Information Council
+               1876   Transfer Out to Department of Aviation
+               1879   Transfer Out to Health Related Licensing Boards
+               1880   Transfer Out to Bureau of Labor and Industries
+               1881   Transfer Out to Public Utilities Commission
+               1882   Transfer Out to Oregon Racing Commission
+               1883   Transfer Out to Board of Nursing
+               1884   Transfer Out to Housing and Community Services Department
+               1885   Transfer Out to Construction Contractors Board
+               1886   Transfer Out to Oregon Affordable Housing Assistance Corporation (OAHAC)
+               1889   Transfer Out to Real Estate Agency
+               1895   Transfer Out to State Board of Pharmacy
+               1896   Transfer Out to Oregon Youth Authority
+               1898   Transfer Out to Oregon Health Licensing Agency
+               1901   Transfer Out to Board of Tax Practitioners
+               1902   Transfer Out to Board of Accountancy
+               1903   Transfer Out to State Board of Psychologists Examiners
+               1904   Transfer Out to Criminal Justice Commission
+               1905   Transfer Out to Land Use Board of Appeals
+               1906   Transfer Out to Watershed Enhancement Board
+               1907   Transfer Out to Board of Licensed Professional Counselors and Therapists
+               1908   Transfer Out to Board of Clinical Social Workers
+               1909   Transfer Out to Teacher Standards and Practices Commission
+OAM 60.20.00                                                                                     8 of 19
+               1910             Transfer Out to Agency 999 (State General Fund)
+               1911             Transfer Out to Department of Human Services
+               1912             Transfer Out to Office of Public Defense Services
+               1913             Transfer Out to Board of Dentistry
+               1914             Transfer Out to Tourism Commission
+               1915             Transfer Out to Long Term Care Ombudsmen
+
+ Gain (Loss) on Disposition of Assets – The difference between the selling price received for an asset and its net
+ book value. Reflected as “Other Revenue” in the governmental fund financial statements.
+               2330             Gain (Loss) on Disposition of Assets
+
+ Gain (Loss) on Foreclosed Property – The difference between the selling price of a property that has been
+ foreclosed and resold, and the book value of that property.
+               2350             Gain (Loss) on Foreclosed Property
+
+ Contributions to Permanent Funds – Contributions of principal received by permanent funds.
+               2400             Contributions to Permanent Funds
+
+ Extraordinary Items – Transactions or other financial events that are both unusual in nature and infrequent in
+ occurrence.
+               2450             Extraordinary Items
+
+ Special Items – Transactions or other financial events that are within the control of management and are either
+ unusual in nature or infrequent in occurrence.
+               2500             Special Items
+
+ Capital Contributions – Contributions of net assets to a proprietary fund.
+               2550             Capital Contributions
+
+ Salaries and Wages – Payments of salaries and benefits to State employees.
+               3111             Regular Employees
+               3112             Board and Commission Per Diem
+               3113             Earnings, Piece Rate/Event
+               3114             Permanent Positions Full Time
+               3115             Reimburse Training Salaries
+               3116             Limited Duration Salaries
+               3117             Permanent Positions Part Time
+               3118             Legislator Salaries
+               3119             Interim Employees
+               3120             Board Member Stipends
+               3121             Temporary Employees
+               3122             Session Position Excluding Legislative Aide
+               3123             Session Position Legislative Aide Only
+               3124             Session Employee Salaries
+               3125             Judges Salaries
+               3126             Payments of Deceased Employees Wages/Leave
+               3127             Disaster/Rescue Operations
+               3129             Wage-related Penalty Payment/YvO etc
+               3130             Seasonal Positions
+
+OAM 60.20.00                                                                                                 9 of 19
+               3133            Firefighting Labor
+               3171            Overtime Payments
+               3172            Overtime – Double Time
+               3173            On Duty – Call Back – Overtime
+               3174            Overtime Training
+               3176            Vehicle Allowance
+               3181            Shift Differential
+               3190            All Other Differential
+               3191            Seasonal Differential/Lieu of Public Employ
+               3192            Holiday Pay
+               3193            Per Diem Lieu of Benefits
+               3194            Out of Class, Lead Work, Special Qualifications
+               3195            Longevity Bonus – Incentive
+               3196            Standby Duty Pay
+               3197            Diving Differential
+               3198            Penalty Pay
+               3199            Travel Differential
+               3210            Public Employees Retirement Contribution
+               3211            Employer Retirement Contribution to Deferred Compensation
+               3212            Pension Bond Assessment
+               3214            Pension Expense – GASB 68
+               3221            Social Security Taxes
+               3226            Social Security Taxes – Wages of Deceased Employee
+               3231            Unemployment Compensation and Assessment
+               3241            Workers’ Compensation Assessments
+               3251            Workers’ Accident Insurance
+               3252            Workers’ Accident Insurance – Volunteer
+               3260            Health Engagement Model (HEM) Employee Incentive
+               3261            OPEU Cash
+               3262            Health Care Cash
+               3263            Medical, Dental, Life Insurance
+               3264            Medical, Dental, Life Insurance – Agency Subsidy
+               3271            Other Payroll Expenses
+               3281            Mass Transit Tax
+               3291            Employment Relations Board Assessments
+
+ Services and Supplies – Professional and technical services, property services, training and travel expenses, and
+ purchases of supplies for use in government operations.
+               3800            Consultant Payroll – Professional Services
+               3805            Taxable Employee Reimbursable Expense – Payroll Other Services
+               3810            Employee Relocation – Payroll
+               3815            Laundry Services – Payroll
+               3820            Uniforms – Payroll
+               3830            Client Payments
+               3835            Elected Official Allowance
+OAM 60.20.00                                                                                              10 of 19
+               3836   In Leg Meals and Lodging – Payroll
+               3837   In Leg Ground Transportation – Payroll
+               4001   Annuity and Disability Benefits
+               4002   Death Benefits
+               4030   PERS Benefit Equalization
+               4101   Instate Meals with Overnight Stay
+               4103   Instate Mileage Reimbursement
+               4104   Instate Travel Miscellaneous Expenses
+               4105   Instate Meals – No Overnight Stay
+               4106   Instate Lodging
+               4107   Instate Air Transportation
+               4108   Instate Ground Transportation
+               4109   Instate Mileage Reimbursement – Full Rate
+               4110   Instate Mileage Reimbursement – Reduced Rate
+               4111   Instate Mileage Reimbursement - Volunteers
+               4112   Instate Mileage Reimbursement - Nonemployee
+               4149   Out of State Meals – No Overnight Stay
+               4150   Out of State Lodging
+               4151   Out of State Meals with Overnight Stay
+               4153   Out of State Mileage Reimbursement
+               4154   Out of State Travel Miscellaneous Expense
+               4155   Foreign Meals and Lodging
+               4156   Foreign Travel Mileage Reimbursement
+               4157   Foreign Ground Transportation
+               4158   Foreign Travel Miscellaneous Expense
+               4159   Out of State Air Transportation
+               4160   Out of State Ground Transportation
+               4161   Foreign Air Transportation
+               4162   Out-Of-State Mileage Reimbursement – Full Rate
+               4163   Out-Of-State Mileage Reimbursement – Reduced Rate
+               4164   Out-Of-State Mileage Reimbursement - Volunteers
+               4165   Out-Of-State Mileage Reimbursement - Nonemployee
+               4200   Office Supplies
+               4201   Office Services
+               4202   Equipment Rental
+               4206   Catering Services
+               4250   Dues and Memberships
+               4251   Subscriptions and Publications
+               4253   Advertising, Publicity, Publishing, and Printing Services
+               4255   Prizes and Awards
+               4301   Telecom/Voice Usage
+               4302   Telecom/Voice Equipment Rental < $5k
+               4303   Telecom/Voice Maintenance
+               4304   Telecom/Voice Equipment < $5k
+OAM 60.20.00                                                                      11 of 19
+               4305   Telecom/Network Services
+               4306   Telecom/Network Equipment < $5k
+               4307   Telecom/Network Support
+               4310   Telecom/Wireless Public Safety Usage
+               4311   Telecom/Wireless PS Equipment < $5k
+               4312   Telecom/Wireless PS Support
+               4315   Telecom/Teleconference Usage
+               4316   Telecom/Teleconference Equipment < $5k
+               4317   Telecom/Teleconference Support
+               4354   Computer Technology Mainframe Equip < $5k
+               4355   Computer Technology Mainframe Equip Rental < $5k
+               4356   Computer Technology Mainframe Software < $5k
+               4357   Computer Technology Mainframe Support
+               4360   Computer Technology Server Equip < $5k
+               4361   Computer Technology Server Software < $5k
+               4362   Computer Technology Server Support
+               4365   Computer Technology PC Equipment < $5k
+               4366   Computer Technology PC Software < $5k
+               4367   Computer Technology PC Support
+               4370   Computer Technology Peripheral Equip Rental < $5k
+               4371   Computer Technology Peripheral Support
+               4372   Computer Technology Peripheral Equip < $5k
+               4375   Computer Technology Computer Processing
+               4401   Training, Education, or Instruction Services
+               4402   Interagency Training, Education, or Instruction Services
+               4404   Professional Development In House Training
+               4406   Professional Development Instate Tuition and Registration, 1099 Reportable
+               4409   Professional Development Instate Mileage Reimbursement
+               4410   Professional Development Instate Travel Miscellaneous Expense
+               4411   Professional Development Out of State Tuition and Registration, 1099 Reportable
+               4414   Professional Development Out of State Mileage Reimbursement
+               4415   Professional Development Out of State Travel Miscellaneous Expenses
+               4416   Professional Development Foreign Meals and Lodging
+               4418   Professional Development Foreign Ground Transportation
+               4419   Professional Development Foreign Tuition and Registration
+               4420   Professional Development Foreign Travel Miscellaneous Expenses
+               4421   Professional Development Foreign Mileage Reimbursement
+               4422   Employee Recruitment Meals
+               4426   Professional Development Training Materials
+               4428   Training Supplies
+               4429   Training Equipment < $5K
+               4430   Employee Recruitment, Wellness and Safety, 1099 Reportable
+               4431   Employee Reimbursement Professional Development Instate Meals/Lodging
+               4432   Employee Reimbursement Professional Development Out of State Meals/Lodging
+OAM 60.20.00                                                                                  12 of 19
+               4433   Professional Development Instate Lodging
+               4434   Professional Development Out of State Lodging
+               4435   Professional Development Instate Meals, No Overnight Stay
+               4436   Professional Development Out of State Meals, No Overnight Stay
+               4437   Professional Development Dues and Memberships
+               4438   Professional Development Instate Air Transportation
+               4439   Professional Development Instate Ground Transportation
+               4440   Professional Development Out of State Air Transportation
+               4441   Professional Development Out of State Ground Transportation
+               4442   Professional Development Foreign Air Transportation
+               4443   Employee Recruitment Lodging
+               4444   Employee Recruitment Air Transportation
+               4445   Employee Recruitment Ground Transportation
+               4446   Employee Recruitment Travel Reimbursement
+               4447   Employee Recruitment Mileage Reimbursement
+               4450   Professional Development Instate Mileage Reimbursement – Full Rate
+               4451   Professional Development Instate Mileage Reimbursement – Reduced Rate
+               4452   Professional Development Out-Of-State Mileage Reimbursement – Full Rate
+               4453   Professional Development Out-Of-State Mileage Reimbursement – Reduced Rate
+               4500   Professional Services Non-IT < $75K
+               4505   Professional Services Non-IT > $75K
+               4510   Professional Services/Network
+               4511   Professional Services/Wireless Public Safety
+               4512   Professional Services/Teleconference
+               4513   Professional Services/Application New
+               4514   Professional Services/Application Modifications
+               4515   Professional Services/Application Maintenance
+               4516   Professional Services/Servers
+               4517   Professional Services/IT Security
+               4518   Professional Services/IT Quality Assurance
+               4519   Professional Services/Managed Service Provider
+               4520   Professional Services/IT Quality Control
+               4526   Dispute Resolution Services
+               4550   Attorney General Legal Fees
+               4600   State Government Service Charges
+               4625   ARRA Central Service Charges
+               4650   Intra/Inter Agency Charges
+               4675   Delinquent Claims Interest
+               4680   Loss Liability Expenditure
+               4685   Liability Expenditure – Attorney Settlement
+               4690   Pollution Remediation Outlays
+               4701   Other Services
+               4703   Uniforms
+               4704   Other Supplies
+OAM 60.20.00                                                                               13 of 19
+               4705             Laundry Services
+               4720             Collection Fees – DOR
+               4725             Collection Fees – Private Collection Agent
+               4730             Merchant Fees
+               4735             Credit Card Surcharges
+               4740             Investment Expense
+               4800             Facilities Rent
+               4801             Facilities Taxes
+               4825             Fuels and Utilities
+               4850             Facilities Maintenance
+               4851             Facilities Supplies
+               4875             Food and Kitchen Supplies
+               4900             Medical Supplies
+               4901             Medical Services
+               4902             Medical Rentals
+               4950             Other Care of Residents/Patients – Service
+               4951             Other Care of Resident/Patient – Supplies
+               4952             Transitional Housing
+               4975             Agency Program Related Services
+               4976             Agency Program Related Supplies
+               4977             Agency Program Related Reimbursements
+               4999             Expendable Property Non-IT < $5k
+               7430             Amortization – Prepaid Expenses
+
+ Capital Outlay – Expenditures for acquiring capital assets.
+               5100             Office Furniture and Fixtures > $5K
+               5105             Installation of Furniture and Fixtures > $5K, 1099 Reportable
+               5120             Works of Art and Historical Treasures > $5K
+               5125             Installation of Art and Historical Treasures > $5K, 1099 Reportable
+               5150             Equipment and Machinery > $5K
+               5155             Installation of Equipment and Machinery > $5K, 1099 Reportable
+               5170             Motor Vehicles > $5K
+               5175             Assembly/Motor Vehicles > $5K, 1099 Reportable
+               5200             Telecom/Voice Equipment > $5K
+               5201             Telecom/Network Equipment > $5K
+               5202             Telecom/Wireless PS Equip > $5K
+               5203             Telecom/Teleconference Equip > $5K
+               5205             Telecom/Installation Services > $5K
+               5250             Technical Equipment > $5K
+               5255             Installation/Technical Equipment > $5K, 1099 Reportable
+               5300             Information Technology Network Software > $5K
+               5301             Information Technology Mainframe Software > $5K
+               5302             Information Technology Server Software > $5K
+               5303             Information Technology PC Software > $5K
+
+OAM 60.20.00                                                                                          14 of 19
+               5305             Information Technology Software Services > $5K, 1099 Reportable
+               5350             Computer Technology Mainframe Equip > $5K
+               5351             Computer Technology Server Equip > $5K
+               5352             Computer Technology Peripheral Equip > $5K
+               5355             Computer Technology Installation Service > $5K
+               5400             Household and Institutional Equipment > $5K
+               5405             Installation of Household and Institutional Equipment > $5K, 1099 Reportable
+               5450             Industrial and Heavy Equipment > $5K
+               5455             Installation of Industrial and Heavy Equipment > $5K, 1099 Reportable
+               5500             Aircraft > $5K
+               5505             Assembly/Aircraft > $5K, 1099 Reportable
+               5600             Agricultural Equipment and Machinery > $5K
+               5605             Installation of Agricultural Equipment and Machinery > $5K, 1099 Reportable
+               5705             Land Improvements > $5K, 1099 Reportable
+               5725             Land Use Rights > $5K
+               5730             Land > $5K
+               5755             Leasehold Improvements > $5K, 1099 Reportable
+               5770             Capital Leased Property > $5K
+               5775             Installation/Capital Leased Property > $5K, 1099 Reportable
+               5805             Buildings and Improvements > $5K, 1099 Reportable
+               5905             Other Capital Outlay > $5K, 1099 Reportable
+               5915             Other Intangible Assets > $5K
+               5925             State Highways > $5K, 1099 Reportable
+               5935             Other Roads > $5K, 1099 Reportable
+               5945             Tunnels and Bridges > $5K, 1099 Reportable
+               5955             Airports > $5K, 1099 Reportable
+               5965             Utility Systems > $5K, 1099 Reportable
+               5975             Docks, Dikes, and Dams > $5K, 1099 Reportable
+
+ Cost of Goods Sold – Cost of inventories sold in proprietary fund operations.
+               4061             Merchandise Inventory (Stores for Resale)
+               4062             Other Cost of Goods Sold
+               4063             Liquor Cost of Goods Sold
+
+ Special Payments to State Agencies – Distributions to other state agencies that will be reported as interagency
+ transfers in the GAAP financial statements but are budgeted as expenditures.
+               6081             Distribution to Board of Dentistry
+               6082             Distribution to Department of Human Services
+               6084             Distribution to Oregon Watershed Enhancement Board
+               6085             Distribution to Land Use Board of Appeals
+               6086             Distribution to Criminal Justice Commission
+               6087             Distribution to State Board of Psychologists Examiners
+               6088             Distribution to Board of Accountancy
+               6089             Distribution to Board of Tax Practitioners
+               6094             Distribution to Oregon State Marine Board
+
+OAM 60.20.00                                                                                              15 of 19
+               6095   Distribution to State Board of Chiropractic Examiners
+               6096   Distribution to Oregon Youth Authority
+               6097   Distribution to Office of Private Health Partnerships
+               6098   Distribution to Office of the Governor
+               6105   Distribution to Oregon State Library
+               6110   Distribution to Public Defense Services
+               6122   Distribution to Department of Administrative Services
+               6123   Distribution to Long Term Care Ombudsman
+               6124   Distribution to Oregon Business Development Department (Business Oregon)
+               6125   Distribution to Oregon Advocacy Commissions Office
+               6126   Distribution to Department of Justice
+               6127   Distribution to Department of State Lands
+               6128   Distribution to Department of Revenue
+               6129   Distribution to Oregon State Treasury
+               6130   Distribution to Legislative Administration Committee
+               6131   Distribution to Secretary of State
+               6132   Distribution to Judicial Department
+               6133   Distribution to Military Department
+               6135   Distribution to State Board of Parole & Post Prison Supervision
+               6136   Distribution to Department of State Police
+               6137   Distribution to Department of Public Safety Standards and Training
+               6138   Distribution to Oregon Department of Veterans’ Affairs
+               6139   Distribution to Department of Corrections
+               6142   Distribution to Oregon Department of Energy
+               6144   Distribution to Department of Environmental Quality
+               6151   Distribution to Psychiatric Security Review Board
+               6155   Distribution to State Board of Pharmacy
+               6157   Distribution to Oregon Health Authority
+               6158   Distribution to State Commission on Children and Families
+               6161   Distribution to Department of Consumer and Business Services
+               6162   Distribution to Oregon Public Employees Retirement System
+               6164   Distribution to Employment Department
+               6170   Distribution to Department of Education
+               6172   Distribution to Teacher Standards and Practices Commission
+               6173   Distribution to Commission for the Blind
+               6175   Distribution to Oregon Department of Agriculture
+               6177   Distribution to Department of Forestry
+               6178   Distribution to Department of Geology and Mineral Industries
+               6179   Distribution to Oregon Department of Fish and Wildlife
+               6180   Distribution to Department of Land Conservation and Development
+               6181   Distribution to Water Resources Department
+               6182   Distribution to Parks and Recreation Department
+               6183   Distribution to Department of Transportation
+               6188   Distribution to Department of Aviation
+OAM 60.20.00                                                                               16 of 19
+               6190            Distribution to Health Related Licensing Boards
+               6191            Distribution to Bureau of Labor and Industries
+               6192            Distribution to Oregon Liquor Control Commission
+               6193            Distribution to Oregon Medical Board
+               6194            Distribution to Board of Nursing
+               6195            Distribution to Public Utilities Commission
+               6196            Distribution to Housing and Community Services Department
+               6197            Distribution to Construction Contractors Board
+               6198            Distribution to Higher Education Coordinating Commission
+               6200            Intra-agency General Fund/Other Fund Transfers
+
+ Special Payments – Distributions to entities outside state government.
+               6093            Distribution to Oregon Health and Science University (Component Unit)
+               6300            Distribution to Counties
+               6400            Distribution to Cities
+               6450            Distribution to University of Oregon
+               6451            Distribution to Oregon State University
+               6452            Distribution to Portland State University
+               6453            Distribution to Southern Oregon University
+               6454            Distribution to Eastern Oregon University
+               6455            Distribution to Western Oregon University
+               6456            Distribution to Oregon Institute of Technology
+               6457            Distribution to Oregon Affordable Housing Assistance Corporation (OAHAC)
+               6500            Distribution to Community College Districts
+               6600            Distribution to Local School Districts
+               6700            Distribution to Other Governments
+               6725            Distribution to Non-Governments
+               6726            Distribution to For-Profit Subrecipient
+               6730            Other Distributions to Subrecipients
+               6735            Distribution to Non-Profit Organizations
+               6740            Other Distribution to Taxable Subrecipients
+               6800            Distribution to Individuals
+               6805            Client/Benefit Payments
+               6808            Distributions to Non-Employees
+               6810            Rental Assistance
+               6820            Payments to Counties
+               6821            Payments to Cities
+               6822            Payments to Community College Districts
+               6823            Payments to Local School Districts
+               6824            Payments to Other Governments
+               6826            Payments to Non-governments
+               6893            Payments to OHSU (Component Unit)
+               6900            Other Special Payments
+               6905            Loan Repayment on Behalf of Grant Subrecipients
+
+OAM 60.20.00                                                                                           17 of 19
+               6910            Distribution to Contract Service Provider
+               6950            Other Special Payments – Medical Services
+
+ Loans Repaid – Repayments of loans received.
+               6825            Loans Repaid to State Agencies
+
+ Loans Made – Payments to others that are to be repaid at a future date.
+               6727            Loans Made – Subrecipient Distribution
+               6850            Loans Made to Individuals
+               6870            Loans Made to State Agencies
+               6875            Loans Made – Other
+
+ Refunded Debt Payment to Escrow Agent – Payment to escrow agent of the amounts needed to defease bonds
+ or other debt.
+               4051            Bond Refunding Debt Payment – Escrow – Agency Cash
+               4056            COP Refunding Debt Payment – Escrow Agent Not From Proceeds
+               7050            Refunded Debt Payment – Escrow Agent – from Bond/COP Proceeds
+
+ Gain (Loss) on Capital Asset Impairments – An amount calculated using one of four methods that represents the
+ portion of the historical cost that will be written off as a result of the capital asset impairment. When an
+ insurance recovery is recognized in the same fiscal year as the impairment, the gain (loss) on capital asset
+ impairment is reported net of the insurance recovery.
+
+               7510            Gain (Loss) on Capital Asset Impairments
+
+ Insurance Recovery Subsequent to Loss – (1) Insurance settlement for an insured loss related to a capital asset
+ impairment recognized in a fiscal year subsequent to the year of the impairment; or (2) insurance settlement for
+ an insured loss (such as theft) not related to capital asset impairment.
+
+               7511            Insurance Recovery Subsequent to Loss
+
+ Principal – Payments of the face amount of debt.
+               7100            Principal – Bonds
+               7150            Principal – Certificates of Participation
+               7200            Principal – Loans
+               7275            Principal – Appropriation Bonds
+               7410            Principal – Tax Anticipation Notes
+
+
+
+
+OAM 60.20.00                                                                                              18 of 19
+ Interest – Payments of the charges for the use of borrowed money.
+               7250         Interest – Bonds
+               7280         Interest – Appropriation Bonds
+               7300         Interest – Certificates of Participation
+               7400         Interest – Loans
+               7405         Other Interest Expense
+               7415         Interest – Tax Anticipation Notes
+               7450         Amortization – Discount/Premium on Bonds
+               7455         Amortization – Discount/Premium on Certificates of Participation
+               7456         Amortization – Discount/Premium on Tax Anticipation Notes
+               7468         Amortization of Prepaid Debt Insurance
+               7470         Amortization Deferred Loss (Gain) on Refunding
+
+ Other Debt Service – Expenses associated with servicing debt other than principal or interest.
+               2310         Loss on Bond Calls – Disbursements
+               2311         Loss on COP Calls – Disbursements
+               2315         Loss on Bond Call – Capitalization Write Off
+               2316         Loss on COP Call – Capitalization Write Off
+               4040         Appropriation Bond Costs
+               4045         TAN Costs
+               4050         Bond Costs
+               4055         Certificate of Participation Costs
+
+ Depreciation and Amortization – The systematic and rational apportionment of costs over a period of time.
+               7474         Amortization of Other Capital Assets
+               7475         Amortization of Leasehold Improvements
+               7476         Depreciation Expense
+               7477         Amortization of Leased Property
+               7478         Amortization of Software
+
+ Bad Debt Expense – The expense associated with writing off loans owed to the agency that cannot be
+ reported as a reduction of revenue because no revenue has been recorded.
+               7479         Bad Debt Expense
+
+ Change in Reserve for Inventories – The change between reporting periods in the amount of inventory
+ reported in a governmental fund.
+               7500         Increase/Decrease in Governmental Inventories Reserve
+
+
+
+
+OAM 60.20.00                                                                                             19 of 19
+
