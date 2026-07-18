@@ -34,7 +34,15 @@
     "source_url": { "type": "string", "format": "uri", "pattern": "^https?://" },
     "source_format": { "enum": ["pdf", "html", "xml"] },
     "retrieved": { "type": "string", "format": "date", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
-    "source_sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
+    "source_sha256": {
+      "type": "string",
+      "pattern": "^[0-9a-f]{64}$",
+      "description": "Content hash: sha256 of the whitespace-normalized extracted text of the source (raw-byte sha256 only for sources with <200 chars of extractable text, e.g. image-only scans). Computed by content_hash() in src/repo_lib.py; some servers stamp different bytes on every download, so raw hashes would drift without content change."
+    },
+    "snapshot_id": {
+      "type": "string",
+      "description": "Snapshot basename in _meta/snapshots/ when it differs from id — for documents split from, or sharing, one source file (e.g. control-family files of one standard; ORS sections from one chapter HTML)"
+    },
     "effective_date": { "type": ["string", "null"], "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
     "last_reviewed": { "type": ["string", "null"], "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
     "source_version": { "type": ["string", "null"] },

@@ -13,7 +13,7 @@ legal_authority: []                     # e.g., ["ORS 276A.300", "OAR 125-800"]
 source_url: "https://www.oregon.gov/das/Policies/XXX-XXX-XXX.pdf"   # required
 source_format: pdf                      # required
 retrieved: YYYY-MM-DD                   # required; date the source was fetched
-source_sha256: "TODO"                   # required; sha256 of the fetched file
+source_sha256: "TODO"                   # required; content hash (src/repo_lib.py content_hash)
 # ---- Versioning (mirrors the source's own version signals) ----
 effective_date: YYYY-MM-DD              # from the PDF header "Effective"
 last_reviewed: YYYY-MM-DD               # from the PDF header "Reviewed"

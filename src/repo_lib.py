@@ -53,18 +53,63 @@ def _stringify_dates(value):
     return value
 
 
+_PUNCT_MAP = str.maketrans({"‘": "'", "’": "'", "“": '"', "”": '"', " ": " "})
+
+
 def normalize_ws(s: str) -> str:
-    """Collapse all whitespace runs to single spaces (PDF text extraction wraps lines)."""
-    return re.sub(r"\s+", " ", s).strip()
+    """Collapse whitespace runs to single spaces (PDF extraction wraps lines) and map
+    curly quotes/apostrophes to straight ones, so punctuation style in the rendered
+    Markdown never causes a false quote mismatch."""
+    return re.sub(r"\s+", " ", s.translate(_PUNCT_MAP)).strip()
 
 
-VERBATIM_RE = re.compile(r"\*\*\[VERBATIM\]\*\*\s*[\"“](.*?)[\"”]", re.DOTALL)
+# Quotes are authored between straight double quotes; curly quotes are reserved for
+# quotation marks inside the quoted text.
+VERBATIM_RE = re.compile(r"\*\*\[VERBATIM\]\*\*\s*\"(.*?)\"", re.DOTALL)
 
 
 def extract_verbatim_quotes(body: str):
     """Return the quoted text of every **[VERBATIM]** "..." block, blockquote markers stripped."""
     cleaned = re.sub(r"^\s*>\s?", "", body, flags=re.MULTILINE)
     return [m.group(1) for m in VERBATIM_RE.finditer(cleaned)]
+
+
+# Byte patterns that change on every fetch without any content change (session ids,
+# Cloudflare email-protection keys). HTML snapshots are stored and hashed with these
+# stripped, and detect_changes strips them before comparing, so hash drift means real
+# content drift.
+VOLATILE_PATTERNS = [
+    rb";JSESSIONID_OARD=[^?'\" >]*",
+    rb"/cdn-cgi/l/email-protection#[0-9a-f]+",
+    rb"data-cfemail=\"[0-9a-f]+\"",
+]
+
+
+def normalize_volatile(data: bytes) -> bytes:
+    for pat in VOLATILE_PATTERNS:
+        data = re.sub(pat, b"", data)
+    return data
+
+
+def content_hash(raw: bytes, fmt: str) -> str:
+    """Content hash of a source: sha256 of the whitespace-normalized extracted text
+    (pdftotext for PDFs, tag-stripping for HTML). Some servers stamp different bytes on
+    every download (Cloudflare scripts, PDF metadata), so raw-byte hashes drift without
+    content change. Falls back to the raw-byte hash when extraction yields <200 chars
+    (e.g. image-only scans), where text hashing would be meaningless."""
+    import hashlib
+    if fmt == "pdf":
+        import subprocess
+        proc = subprocess.run(["pdftotext", "-layout", "-", "-"], input=raw,
+                              capture_output=True, check=False)
+        text = proc.stdout.decode("utf-8", errors="replace") if proc.returncode == 0 else ""
+    else:
+        from html_to_text import html_to_text
+        text = html_to_text(normalize_volatile(raw))
+    norm = normalize_ws(text)
+    if len(norm) >= 200:
+        return hashlib.sha256(norm.encode("utf-8")).hexdigest()
+    return hashlib.sha256(raw).hexdigest()
 
 
 class Reporter:

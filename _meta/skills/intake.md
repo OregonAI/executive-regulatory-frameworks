@@ -8,9 +8,14 @@ apply throughout.
 
 1. Seed from the authoritative index pages:
    - DAS policies: https://www.oregon.gov/das/Pages/policies.aspx
-   - OARD chapter 125 (DAS): https://secure.sos.state.or.us/oard/displayChapterRules.action?selectedChapter=97
-   - ORS chapters 183 / 184 / 276A: https://www.oregonlegislature.gov/bills_laws/Pages/ORS.aspx
-   - EIS/CSS standards: https://www.oregon.gov/das/OSCIO/Pages/SecurityResources.aspx
+   - OARD single rules (works with plain fetch): https://secure.sos.state.or.us/oard/view.action?ruleNumber=XXX-XXX-XXXX
+     (OARD chapter/division listing pages render via JavaScript and return empty shells to
+     curl — use the per-rule URL, or oregon.public.law for discovery. DAS = chapter 125;
+     State CIO = chapter 128, incl. Division 30 State Information Security, renumbered
+     from 125-800 effective 5/1/2026.)
+   - ORS chapter HTML: https://www.oregonlegislature.gov/bills_laws/ors/ors276A.html
+     (pattern: orsNNN.html; windows-1252 encoded)
+   - EIS/CSS standards: https://www.oregon.gov/eis/cyber-security-services/pages/guidance-for-state-agencies.aspx
 2. Produce a **candidate source manifest**: for each document — citation, title, URL,
    doc_type, why-relevant, what-it-references. Submit as a PR editing
    `_meta/source-manifest.yml`.
@@ -29,7 +34,10 @@ the issue.
 
 1. Fetch the pinned `url`; save the raw file as `_meta/snapshots/<id>.<ext>` and (for
    PDFs) an extracted text copy `_meta/snapshots/<id>.txt` (`pdftotext -layout`).
-2. Record `retrieved` (ISO date) and `source_sha256` (hash of the raw fetched file).
+2. Record `retrieved` (ISO date) and `source_sha256` — the **content hash** computed by
+   `content_hash()` in `src/repo_lib.py` (sha256 of normalized extracted text; raw-byte
+   hash only for image-only sources). Never hash raw bytes of PDFs/HTML directly: several
+   state servers stamp different bytes on every download.
 3. Copy the matching template from `_meta/templates/`; name the file by its citation slug
    (`das-107-004-052.md`, `oar-125-800-0020.md`, `ors-276A.300.md`).
 4. Transcribe header metadata (effective/reviewed dates, version string) exactly as

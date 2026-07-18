@@ -1,10 +1,130 @@
 # Every upstream source this repo curates. Review gate #1: entries must be approved
 # by a maintainer before any content is ingested. Validated against
 # _meta/schema/source-manifest.schema.json; re-fetched by detect-upstream-changes.
+# Stage 2 batch approved in-chat by @morficflux on 2026-07-17.
 sources:
-  - id: das-107-004-052
-    url: https://www.oregon.gov/das/Policies/107-004-052.pdf
-    sha256: ff23504f8a967139e617ea9781495e23301849863a5e21c1a1e5367885b5ac35
+  # ---- DAS statewide policies ----
+  - id: das-107-001-020
+    url: https://www.oregon.gov/das/Policies/107-001-020.pdf
+    sha256: e7af87ac6466d4a914335142a978f8b7d95cfa38eba56ef060dd99090f1c16fe
     last_checked: "2026-07-17"
     recheck: monthly
-    notes: "DAS Statewide Policy — Cyber and Information Security. Effective 2/17/2026."
+    notes: "Public Records Management. Effective 6/1/2025."
+  - id: das-107-004-010
+    url: https://www.oregon.gov/das/Policies/107-004-010.pdf
+    sha256: 2fd5cd7efcca59b9f547f280e91059854032068301824015584566f84fca868c
+    last_checked: "2026-07-17"
+    recheck: monthly
+    notes: "IT Asset Inventory & Management. Effective 09-08-08."
+  - id: das-107-004-050
+    url: https://www.oregon.gov/das/Policies/107-004-050.pdf
+    sha256: 2eecf7b9e2027c4fe8e342d109daf921a727a361ed2f94f82b4bc0a89b6085ff
+    last_checked: "2026-07-17"
+    recheck: monthly
+    notes: "Information Asset Classification. Effective 7/12/2023."
+  - id: das-107-004-051
+    url: https://www.oregon.gov/das/Policies/107-004-051.pdf
+    sha256: 62c3d544ea18704207b2ba0e28e52046baad7085f499d66398bddb61815b5284
+    last_checked: "2026-07-17"
+    recheck: monthly
+    notes: "Controlling Portable and Removable Storage Devices. Effective 07/30/07. IMAGE-ONLY SCAN — summary-only ingest, no verbatim quotes."
+  - id: das-107-004-052
+    url: https://www.oregon.gov/das/Policies/107-004-052.pdf
+    sha256: f1f6759cf76b92ade851db5ec0a57cf45ad94ecf642ad56f3d14bc1dcb61d312
+    last_checked: "2026-07-17"
+    recheck: monthly
+    notes: "Cyber and Information Security. Effective 2/17/2026."
+  - id: das-107-004-052_pr
+    url: https://www.oregon.gov/das/Policies/107-004-052_PR.pdf
+    sha256: 4b4e7159961cfc11a6ed28d79f9fed4d3fcda7295f63a6ff7651608233dc76b0
+    last_checked: "2026-07-17"
+    recheck: monthly
+    notes: "Cyber and Information Security Procedure. Effective 2/17/2026."
+  - id: das-107-004-100
+    url: https://www.oregon.gov/das/Policies/107-004-100.pdf
+    sha256: b6a43762ffdbfac021c4c6fc1cdc56e0af3dc0394d90bab8cdb87b44231961d7
+    last_checked: "2026-07-17"
+    recheck: monthly
+    notes: "Transporting Information Assets. Effective 01-31-08. IMAGE-ONLY SCAN — summary-only ingest."
+  - id: das-107-004-110
+    url: https://www.oregon.gov/das/Policies/107-004-110.pdf
+    sha256: 00e49c9b62ac8b2506b66162e3397e956c383864b40faf3850d1052b32ec3507
+    last_checked: "2026-07-17"
+    recheck: monthly
+    notes: "Acceptable Use of State Information Assets. Effective 01-01-2010."
+  - id: das-107-004-120
+    url: https://www.oregon.gov/das/Policies/107-004-120.pdf
+    sha256: 7366e8d8d35944f244059a9fe19fe80b4492175ba8c3c26d89e539801aa3ecca
+    last_checked: "2026-07-17"
+    recheck: monthly
+    notes: "Cyber and Information Security Incident Response. Effective 11/16/2020."
+  - id: das-107-004-140
+    url: https://www.oregon.gov/das/Policies/107-004-140.pdf
+    sha256: f24caa2502eaa2b59e3fa46d728b858bdd1feb4120083d22c9d03789f34ec092
+    last_checked: "2026-07-17"
+    recheck: monthly
+    notes: "Privileged Access to Information Systems (State Data Center). Effective 7/10/2013."
+  - id: das-107-004-150
+    url: https://www.oregon.gov/das/Policies/107-004-150.pdf
+    sha256: e0bf3b473f05c784972305b6772c574f42c4b6bb64aa66c6fce14951696fdd4a
+    last_checked: "2026-07-17"
+    recheck: monthly
+    notes: "Cloud and Hosted Systems. Effective 5/1/2019."
+  - id: das-107-004-160
+    url: https://www.oregon.gov/das/Policies/107-004-160.pdf
+    sha256: 376c9d904f247f2b9641b016ef863f6ea850d1638cf3b24b8b2a53b212256d9c
+    last_checked: "2026-07-17"
+    recheck: monthly
+    notes: "Data Governance. Effective 2/9/2022."
+  # ---- EIS/CSS statewide standards ----
+  - id: eis-css-itcs
+    url: "https://www.oregon.gov/eis/cyber-security-services/Documents/eis-css-statewide-information-technology(IT)-control-standards.pdf"
+    sha256: 16985315fc10c902762c51c2a13e78eaf104ac6d6c58cc96eae4cbfdcd698d2a
+    last_checked: "2026-07-17"
+    recheck: on_review_date
+    notes: "Statewide IT Control Standards, January 2024. Split by control family under agencies/das/standards/eis-css-it-control-standards/."
+  - id: eis-css-secplan
+    url: https://www.oregon.gov/eis/cyber-security-services/documents/statewideinformationsecurityplan.pdf
+    sha256: ca7524fbe62b092e733567d6b4f6f86e8824e860700fc1122cb5318d41510b84
+    last_checked: "2026-07-17"
+    recheck: on_review_date
+    notes: "Statewide Information Security Plan, 8/1/2018."
+  - id: eis-css-program-plan-2023
+    url: https://www.oregon.gov/eis/cyber-security-services/Documents/eis-css-statewide-information-security-program-plan.pdf
+    sha256: 7c233470f93b0170576aeb0ed50f1b872b7848b24bd40e1167b69a7d12f3130d
+    last_checked: "2026-07-17"
+    recheck: on_review_date
+    notes: "2023 Statewide Information Security Program Plan."
+  # ---- OAR (chapter 128, State CIO — renumbered from 125-800 eff. 5/1/2026, AON DAS 2-2026) ----
+  - id: oar-128-030-0005
+    url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=128-030-0005
+    sha256: 976949c2a41585f6ccb8a81c0f81d7c6f9a70f902b21c597eb7e024314910b86
+    last_checked: "2026-07-17"
+    recheck: monthly
+    notes: "Purpose, Application, and Authority. Renumbered from 125-800-0005."
+  - id: oar-128-030-0010
+    url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=128-030-0010
+    sha256: 39ce488b8f8effbdc18ecd8e4dc1a05b1525d3833a9313cdde2d22badbc825fb
+    last_checked: "2026-07-17"
+    recheck: monthly
+    notes: "Definitions. Renumbered from 125-800-0010."
+  - id: oar-128-030-0020
+    url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=128-030-0020
+    sha256: 9d3d617bfe1ac049bcdba3725dabb0f6aadbf7e39a8ec3fab1e6e5a98de745a3
+    last_checked: "2026-07-17"
+    recheck: monthly
+    notes: "State Information Security. Renumbered from 125-800-0020."
+  # ---- ORS (one chapter HTML snapshot shared by section documents via snapshot_id) ----
+  - id: ors-chapter-276a
+    url: https://www.oregonlegislature.gov/bills_laws/ors/ors276A.html
+    sha256: 84da86d3f6f9ce77d9cc126a49ac106bc0eca2d1318bc9898a3711409cd2b2d3
+    last_checked: "2026-07-17"
+    recheck: biennial
+    notes: "ORS chapter 276A (Information Technology). Sections 276A.300/.303/.306 ingested; more available."
+  # ---- External references ----
+  - id: nist-sp-800-53-r5
+    url: https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final
+    sha256: e0f14de2ca45862f8eba09003ab55d326e7885608fa39ae4c84979b894774756
+    last_checked: "2026-07-17"
+    recheck: on_review_date
+    notes: "NIST SP 800-53 Rev. 5 landing page. Summary + link only."

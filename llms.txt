@@ -8,44 +8,61 @@
 
 ## Statutes (ORS)
 
-- [Statutes index](statutes/_index.md): Oregon Revised Statutes relevant to DAS and
-  statewide IT/administration (ORS 183, 184, 192, 276A, 291/293). Consult for the legal
-  authority behind any rule or policy.
+- [Statutes index](statutes/_index.md): ORS sections relevant to DAS and statewide IT
+  administration; consult for the legal authority behind any rule or policy.
+- [ORS 276A.300 — Information systems security in executive department](statutes/ors-276a.300.md):
+  the State CIO's authority over executive-branch information security; the statutory
+  root of the whole security stack.
+- [ORS 276A.303 — Security for SoS, Treasurer, AG](statutes/ors-276a.303.md): why those
+  offices are excluded from DAS security policies.
+- [ORS 276A.306 — Security incidents and assessments](statutes/ors-276a.306.md):
+  definitions grounding incident response and CSS assessments.
 
 ## Administrative Rules (OAR)
 
-- [Rules index](rules/_index.md): Oregon Administrative Rules; chapter 125 is DAS
-  (Division 800 = State Information Security). Consult for regulations with the force of
-  law implementing the statutes.
+- [Rules index](rules/_index.md): chapter 128 Division 30 = State Information Security
+  (renumbered May 2026 from chapter 125 Division 800 — old "OAR 125-800" citations in
+  policies resolve here).
+- [OAR 128-030-0020 — State Information Security](rules/128/030/oar-128-030-0020.md):
+  DAS as primary point of accountability; agency duties. Also
+  [128-030-0005 (purpose)](rules/128/030/oar-128-030-0005.md) and
+  [128-030-0010 (definitions)](rules/128/030/oar-128-030-0010.md).
 
 ## Executive Orders
 
-- [Executive orders index](executive-orders/_index.md): Governor's executive orders
-  affecting executive-branch administration.
+- [Executive orders index](executive-orders/_index.md): none ingested yet.
 
 ## DAS Policies
 
-- [DAS policies index](agencies/das/policies/_index.md): DAS statewide policies (107-xxx
-  series and others) binding executive-branch agencies. Consult for operational
-  requirements below the level of law.
+- [DAS policies index](agencies/das/policies/_index.md): all 12 ingested policies with a
+  "how to find the right policy" guide.
 - [DAS 107-004-052 — Cyber and Information Security](agencies/das/policies/das-107-004-052.md):
-  the statewide cyber/information security program policy; consult for agency security
-  program requirements, roles (State CISO, agency heads, users), the enterprise security
-  baseline, and the offshoring prohibition.
-
-## DAS Accounting Manual
-
-- [OAM index](agencies/das/accounting-manual/_index.md): Oregon Accounting Manual —
-  statewide financial policy from the Office of the State Controller.
+  the statewide security program policy — roles (State CISO, agency heads, users),
+  enterprise security baseline, CSS assessments, offshoring prohibition. Companion:
+  [107-004-052_PR procedure](agencies/das/policies/das-107-004-052_pr.md).
+- Security cluster: [107-004-050 asset classification](agencies/das/policies/das-107-004-050.md) ·
+  [107-004-110 acceptable use](agencies/das/policies/das-107-004-110.md) ·
+  [107-004-120 incident response](agencies/das/policies/das-107-004-120.md) ·
+  [107-004-140 privileged access](agencies/das/policies/das-107-004-140.md) ·
+  [107-004-150 cloud/hosted](agencies/das/policies/das-107-004-150.md) ·
+  [107-004-160 data governance](agencies/das/policies/das-107-004-160.md) ·
+  [107-004-010 asset inventory](agencies/das/policies/das-107-004-010.md) ·
+  [107-004-051 removable media](agencies/das/policies/das-107-004-051.md) ·
+  [107-004-100 transporting assets](agencies/das/policies/das-107-004-100.md)
+- [DAS 107-001-020 — Public Records Management](agencies/das/policies/das-107-001-020.md)
 
 ## DAS Standards (EIS/CSS)
 
-- [Standards index](agencies/das/standards/_index.md): statewide information security
-  standards maintained by Enterprise Information Services / Cyber Security Services under
-  ORS 276A.300 — the non-policy documents that policies require agencies to uphold.
+- [Standards index](agencies/das/standards/_index.md): the non-policy documents policies
+  require agencies to uphold, issued under ORS 276A.300.
+- [Statewide IT Control Standards (Jan 2024)](agencies/das/standards/eis-css-itcs.md):
+  the baseline control catalog agencies must meet (NIST SP 800-53 r5 aligned); per-family
+  inventories in [eis-css-it-control-standards/](agencies/das/standards/eis-css-it-control-standards/_index.md).
+- [Statewide Information Security Plan (2018)](agencies/das/standards/eis-css-secplan.md)
+  and [2023 Security Program Plan](agencies/das/standards/eis-css-program-plan-2023.md).
 
 ## External References
 
-- [External references index](external-references/_index.md): summaries + links for
-  non-Oregon documents referenced by policy (e.g., NIST SP 800-53). Third-party
-  copyrighted standards are summarized only, never reproduced.
+- [External references index](external-references/_index.md): summaries + links only.
+- [NIST SP 800-53 Rev. 5](external-references/nist-sp-800-53-r5.md): the control
+  framework behind the statewide standards.

@@ -7,3 +7,10 @@ dates below are repo-curation dates, not official effective dates (those live in
 file's frontmatter).
 
 ## [Unreleased]
+
+## [2026-07-17]
+
+### Added
+
+- nist-sp-800-53-r5: summary + link (CSRC landing page snapshot, sha256 d7c0f7b1…).
+  Verified-by @morficflux.

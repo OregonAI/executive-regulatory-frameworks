@@ -7,3 +7,11 @@ dates below are repo-curation dates, not official effective dates (those live in
 file's frontmatter).
 
 ## [Unreleased]
+
+## [2026-07-17]
+
+### Added
+
+- ors-276a.300, ors-276a.303, ors-276a.306 (2025 Edition): initial ingest from the
+  chapter 276A HTML (shared snapshot ors-chapter-276a.html, sha256 b4adecc9…).
+  Verified-by @morficflux.

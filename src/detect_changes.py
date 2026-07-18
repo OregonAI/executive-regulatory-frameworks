@@ -10,7 +10,7 @@ import urllib.request
 
 import yaml
 
-from repo_lib import MANIFEST_PATH, REPO_ROOT
+from repo_lib import MANIFEST_PATH, REPO_ROOT, content_hash
 
 USER_AGENT = "oregon-policy-repo-change-detector (+https://github.com/morficflux/oregon-policy-repo)"
 
@@ -31,7 +31,8 @@ def main():
     for src in manifest.get("sources", []):
         sid, url, old = src["id"], src["url"], src["sha256"]
         try:
-            new = hashlib.sha256(fetch(url)).hexdigest()
+            fmt = "pdf" if url.lower().split("?")[0].endswith(".pdf") else "html"
+            new = content_hash(fetch(url), fmt)
         except Exception as e:
             failed.append(sid)
             print(f"FETCH FAILED {sid}: {url} ({e})")

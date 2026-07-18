@@ -7,9 +7,9 @@ still kept summary-first.
 
 | Citation | Title | Status | Path |
 |---|---|---|---|
-| _(none ingested yet)_ | | | |
+| NIST SP 800-53 Rev. 5 | Security and Privacy Controls for Information Systems and Organizations | current | [nist-sp-800-53-r5.md](nist-sp-800-53-r5.md) |
 
-## Planned ingests
+## How to find the right reference
 
-- NIST SP 800-53 Rev. 5 (the baseline behind the Statewide IT Control Standards) —
-  summary + link.
+- **Where do Oregon's control families come from?** NIST SP 800-53 Rev. 5 — the
+  framework behind the Statewide IT Control Standards.

@@ -1,0 +1,194 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Administrative Services 
+ Office of the State Chief Information Officer - Chapter 128 
+ 
+ 
+ 
+ 
+ Division 30 State Information Security 
+ 128-030-0010 
+ Definitions
+ 
+ 
+ (1) “Incident” means any material adverse event that impairs the confidentiality, integrity or availability of information resources. 
+
+ (2) “Information Resources” means all categories of automated or non-automated systems and data, including but not limited to, records, files, and databases, information technology equipment, facilities, and software owned or leased by the state. 
+
+ (3) “Material adverse event” means an adverse event whereby some aspect of computer security could be threatened: loss of data confidentiality, disruption of data or system integrity, or disruption or denial of availability. 
+
+ (4) “Ordinary Public Access” means unauthenticated access to systems or online resources intentionally provided for public use, such as an agency’s public web site. 
+
+ (5) “Publicly addressable interfaces” means any network device or software application using Internet protocols that can be accessed using addresses that are routable over the public Internet infrastructure, including the state's backbone network. 
+
+ (6) “Privately addressed interfaces” means any network device or software application using Internet protocols accessed using addresses that are not routable over the public Internet infrastructure, including the state's backbone network. 
+
+ (7) “State Information Security Plan” means a compilation of documents including, but not limited to, statutes, administrative rules, policies, and plans, prescribing the information security practices of the State of Oregon. 
+
+ (8) “Security Assessment” means any organized method of determining the risk or vulnerability including, but not limited to: risk assessment; vulnerability assessment; security penetration test, and security audits and reviews. 
+
+ (9) “State Shared Computing and Network Infrastructure” means all network and information assets under the direct control or maintained by the Executive Department. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 184.305; 182.122 
+ 
+ 
+ Statutes/Other Implemented:  2005 Oregon Laws Chapter 739 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DAS 2-2026, renumbered from 125-800-0010, filed 04/28/2026, effective 05/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DAS 8-2006, f. & cert. ef. 12-28-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
