@@ -17,7 +17,8 @@ last_reviewed: null
 source_version: "2025 Edition"
 status: current
 supersedes: null
-content_mode: mixed
+content_mode: verbatim
+conversion_notes: "sliced the document's own text out of the shared chapter/page snapshot; line breaks inserted at subsection markers (whitespace-only)"
 last_verified: "2026-07-17"
 verified_by: "@morficflux"
 maintainer: "@morficflux"
@@ -41,25 +42,29 @@ tags: ["information-security", "elected-offices", "statutory-authority"]
 
 ## At a glance
 
-**[SUMMARY]** The carve-out that explains why DAS security policies exclude certain
+The carve-out that explains why DAS security policies exclude certain
 offices: the Secretary of State, State Treasurer, and (for the Department of Justice) the
 Attorney General control their own information systems security, but must establish
 security plans compatible with the State CIO's statewide plan. This is the section DAS
 policy applicability clauses cite when excluding those offices.
 
-## Key provisions
+## Full text
 
-> **[VERBATIM]** "Notwithstanding ORS 276A.300, the Secretary of State, the State
-> Treasurer and the Attorney General have sole discretion and authority over information
-> systems security in their respective agencies, including the discretion and authority to
-> take all measures that are reasonably necessary to protect the availability, integrity
-> or confidentiality of information systems or the information stored in information
-> systems."
+276A.303 Information systems security for Secretary of State, State Treasurer and Attorney General.
 
-**[SUMMARY]** Each of those officers must establish an information systems security plan
-in collaboration with the State CIO (subsection 2); the plan must, at minimum, be
-compatible with the state plan and standards established under ORS 276A.300(2) and assign
-review/monitoring/verification responsibility. (Source: subsections (2)–(3).)
+(1) Notwithstanding ORS 276A.300, the Secretary of State, the State Treasurer and the Attorney General have sole discretion and authority over information systems security in their respective agencies, including the discretion and authority to take all measures that are reasonably necessary to protect the availability, integrity or confidentiality of information systems or the information stored in information systems.
+
+(2) The Secretary of State, the State Treasurer and the Attorney General shall each establish an information systems security plan and associated standards, policies and procedures in collaboration with the State Chief Information Officer as provided in ORS 276A.300.
+
+(3) The plan established under subsection
+
+(2) of this section, at a minimum, must: (a) Be compatible with the state information systems security plan and associated standards, policies and procedures established by the State Chief Information Officer under ORS 276A.300 (2); (b) Assign responsibility for: (A) Reviewing, monitoring and verifying the security of the Secretary of State’s, the State Treasurer’s and the Attorney General’s information systems; and (B) Conducting vulnerability assessments of information systems for the purpose of evaluating and responding to the susceptibility of information systems to attack, disruption or any other event that threatens the availability, integrity or confidentiality of information systems or the information stored in information systems; (c) Contain policies for responding to events that damage or threaten the availability, integrity or confidentiality of information systems or the information stored in information systems, whether the systems are within, interoperable with or outside the state’s shared computing and network infrastructure; (d) Prescribe actions reasonably necessary to: (A) Promptly assemble and deploy in a coordinated manner the expertise, tools and methodologies required to prevent or mitigate the damage caused or threatened by an event; (B) Promptly alert the State Chief Information Officer and other persons of the event and of the actions reasonably necessary to prevent or mitigate the damage caused or threatened by the event; (C) Implement forensic techniques and controls developed under paragraph (e) of this subsection; (D) Evaluate the event for the purpose of possible improvements to the security of information systems; and (E) Communicate and share information with agencies, using preexisting incident response capabilities; and (e) Describe and implement forensic techniques and controls for the security of information systems, whether those systems are within, interoperable with or outside the state’s shared computing and network infrastructure, including the use of specialized expertise, tools and methodologies, to investigate events that damage or threaten the availability, integrity or confidentiality of information systems or the information stored in information systems.
+
+(4) The Secretary of State, the State Treasurer and the Attorney General shall participate in the planning process that the State Chief Information Officer conducts under ORS 276A.300 (2).
+
+(5) If the State Chief Information Officer cannot agree with the Secretary of State, the State Treasurer or the Attorney General on a joint information systems security plan and associated operational standards and policies, the State Chief Information Officer, in collaboration with the Oregon Department of Administrative Services, may take steps reasonably necessary to condition, limit or preclude electronic traffic or other vulnerabilities between information systems for which the Secretary of State, State Treasurer or Attorney General has authority under subsection
+
+(1) of this section and the information systems for which the State Chief Information Officer has authority under ORS 276A.300 (2). [Formerly 182.124] 
 
 ## Provenance & change history
 
