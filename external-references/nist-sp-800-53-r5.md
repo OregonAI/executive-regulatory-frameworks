@@ -40,7 +40,7 @@ tags: ["nist", "control-framework", "external"]
 
 ## Why it's here
 
-**[SUMMARY]** Oregon's [Statewide IT Control Standards](../agencies/das/standards/eis-css-itcs.md)
+Oregon's [Statewide IT Control Standards](../agencies/das/standards/eis-css-itcs.md)
 state that they align with "the moderate control families of the National Institute of
 Standards and Technology Special Publication 800-53 Revision 5," and the
 [2023 Security Program Plan](../agencies/das/standards/eis-css-program-plan-2023.md)
@@ -49,7 +49,7 @@ control numbering follow this catalog.
 
 ## Summary
 
-**[SUMMARY]** NIST SP 800-53 Rev. 5 is the U.S. federal catalog of security and privacy
+NIST SP 800-53 Rev. 5 is the U.S. federal catalog of security and privacy
 controls for information systems and organizations, organized into 20 control families
 with baseline allocations (low/moderate/high) published separately in SP 800-53B. Oregon
 adopts the moderate-baseline families and tailors control parameters (e.g., specific

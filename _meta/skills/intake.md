@@ -53,8 +53,11 @@ the issue.
    (`das-107-004-052.md`, `oar-125-800-0020.md`, `ors-276A.300.md`).
 4. Transcribe header metadata (effective/reviewed dates, version string) exactly as
    printed in the source.
-5. Write the body: every statement labeled `[VERBATIM]` (exact quote) or `[SUMMARY]`
-   (paraphrase under a heading tied to a cited section). If uncertain, `TODO: verify`.
+5. Write the body per the full-text-first policy (AGENTS.md Content policy): the
+   COMPLETE source text under `## Full text` (conversion rules in the templates);
+   curator content only under `## At a glance` / `## Curator notes` /
+   `## Cross-references`. Third-party sources: summary + link only. If the source
+   cannot be cleanly parsed, insert `<!-- TODO: human verification required -->` and stop.
 6. Populate `relationships`; update the directory `_index.md`, `llms.txt`, and the
    knowledge body `CHANGELOG.md` (`Added`).
 

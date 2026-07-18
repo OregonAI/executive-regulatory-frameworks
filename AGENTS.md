@@ -23,31 +23,46 @@ authoritative. Every answer you derive from it should cite the document's `sourc
 4. File names are citation-aligned and predictable: `ors-276A.300.md`,
    `oar-125-800-0020.md`, `das-107-004-052.md`, `oam-15-15-00.md`, `eo-YY-NN.md`.
 
-## Content rules (HARD REQUIREMENTS — anti-fabrication)
+## Content policy (HARD REQUIREMENTS — full-text-first, anti-fabrication)
 
-Every substantive statement in a content file is labeled exactly one of:
+**Default: every Oregon state-authored document (ORS, OAR, executive orders, DAS
+policies/procedures, OAM, EIS/CSS standards) carries its complete verbatim text in a
+`## Full text` section** (`content_mode: verbatim`). Summary-plus-link is reserved for
+third-party references (`doc_type: external_reference`, `content_mode: summary`) — ISO,
+CIS, vendor material, and (by scope choice) NIST are **never** reproduced in full.
 
-- **`[VERBATIM]`** — an exact quote from the pinned source. It must be a literal
-  (whitespace-normalized) substring of the source snapshot in `_meta/snapshots/`; CI diffs
-  it and fails on any mismatch.
-- **`[SUMMARY]`** — a paraphrase, placed under a heading tied to a cited section of the
-  same source.
+Everything under `## Full text` is verbatim by definition — CI checks every line appears
+in the source snapshot in order and that coverage of the source is complete. Curator-
+authored content may appear **only** under these headings:
 
-There is **no third category**. Model knowledge is not a source.
+- `## At a glance` — 1–3 sentence plain-language summary
+- `## Curator notes` — optional; conversion caveats, context (renumbering, date typos)
+- `## Cross-references` — in-repo relative links
+
+A state-authored doc may be non-verbatim only with a frontmatter `content_exception`
+(written justification, e.g. image-only scan with no text layer) or a legacy
+`migration_pending: true` — CI warns instead of failing on those.
 
 Absolute do-nots:
 
+- **Never** paraphrase, summarize, or "clean up" anything inside `## Full text`; never
+  summarize in place of transcription. Preserve numbering/hierarchy (e.g. `(1)(a)(A)`),
+  punctuation, capitalization, and defined-term casing exactly. Strip only page
+  headers/footers/page numbers, recorded in the `conversion_notes` frontmatter field.
+- **Never** write content that does not exist in the pinned source. If a source cannot be
+  fetched or cleanly parsed, insert `<!-- TODO: human verification required -->` and stop
+  — do not reconstruct text from model knowledge.
 - **Never** state a rule number, dollar figure, date, deadline, or requirement that is not
-  present in the cited source.
-- **Never** infer or reconstruct a citation from memory. If you cannot verify it, write
-  `TODO: verify` and leave it for human review.
-- **Never** alter a `[VERBATIM]` quote — not even punctuation or capitalization.
+  present in the cited source; never infer a citation from memory — write `TODO: verify`.
 - **Never** remove or weaken the non-authoritative disclaimer block at the top of any file.
 - **Never** fill frontmatter provenance fields (`retrieved`, `source_sha256`,
   `effective_date`, `source_version`) with assumed values — transcribe them from the
   actually fetched source.
-- **Never** reproduce third-party copyrighted standards (ISO, CIS, etc.) — summary + link
-  only.
+
+**Answering policy questions**: quote directly from the relevant document's `## Full
+text` section and cite the file path plus the source's own section number (e.g.
+`agencies/das/policies/das-107-004-052.md`, General Information (4)). No external fetch
+is needed for state-authored content.
 
 ## Workflows
 
@@ -73,7 +88,7 @@ Assisted-by: Claude Code (supervised)
 
 ```bash
 python3 src/validate_frontmatter.py   # schema + relationship-graph check, all content files
-python3 src/verify_provenance.py      # snapshot hash + [VERBATIM] quote diff
+python3 src/verify_provenance.py      # snapshot hash + full-text containment/coverage
 python3 src/detect_changes.py         # re-fetch manifest URLs, report hash drift
 ```
 

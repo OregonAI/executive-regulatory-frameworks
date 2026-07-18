@@ -1,9 +1,12 @@
 # Oregon Executive-Branch Knowledge Repository (DAS pilot)
 
-> Curated, NON-AUTHORITATIVE copies and summaries of the statutes, administrative rules,
+> Curated, NON-AUTHORITATIVE copies of the statutes, administrative rules,
 > executive orders, policies, and standards governing Oregon executive-branch agencies,
 > starting with the Department of Administrative Services (DAS). Every document carries
-> provenance frontmatter and links to its official source — always verify there. Agent
+> provenance frontmatter and links to its official source — always verify there. The
+> FULL VERBATIM TEXT of every state-authored document is included in-repo under each
+> file's '## Full text' section (no external fetch needed to quote policy language);
+> third-party standards are summarized with links to official sources only. Agent
 > rules live in AGENTS.md.
 
 ## Statutes (ORS)

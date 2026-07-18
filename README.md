@@ -1,7 +1,7 @@
 # Oregon Executive-Branch Knowledge Repository (DAS pilot)
 
 > ## ⚠️ NON-AUTHORITATIVE — AI-friendly reference only
-> This repository contains **curated copies and summaries** of Oregon statutes, administrative
+> This repository contains **curated full-text copies** of Oregon statutes, administrative
 > rules, executive-branch policies, and standards. It is **not the official text of Oregon law
 > or policy** and must never be used as a source of truth for compliance decisions. Every
 > document links to its authoritative source — always verify there. Oregon's own online
@@ -14,9 +14,10 @@ A public, AI-agent-friendly knowledge base of the rules and processes that gover
 executive-branch agencies, starting with the Department of Administrative Services (DAS).
 Each document is one Markdown file with a strict YAML provenance header (source URL,
 authority level, effective/retrieval dates, content hash, verification record) and a body in
-which every substantive statement is labeled **[VERBATIM]** (exact, diffable quote from the
-pinned source) or **[SUMMARY]** (paraphrase traceable to a cited section). Nothing else is
-permitted.
+which the complete source text lives under a `## Full text` section (every line diffed
+against the pinned source snapshot by CI). Curator-authored content is confined to
+`## At a glance`, `## Curator notes`, and `## Cross-references`. Third-party standards
+(ISO, CIS, NIST) are summary + official link only.
 
 The full design rationale lives in [repo-design.md](repo-design.md).
 

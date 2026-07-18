@@ -1,29 +1,35 @@
 ---
-id: oar-XXX-XXX-XXXX
-title: "TITLE"
-doc_type: rule
-citation: "OAR XXX-XXX-XXXX"
-authority_level: administrative_rule
-issuing_body: "ADOPTING AGENCY; compiled by the Secretary of State Administrative Rules Unit"
-agency: statewide
-legal_authority: []                     # statutory authority cited in the rule
-source_url: "https://secure.sos.state.or.us/oard/view.action?ruleNumber=XXX-XXX-XXXX"
-source_format: html
-retrieved: YYYY-MM-DD
-source_sha256: "TODO"
-effective_date: YYYY-MM-DD              # from the rule's history (latest AON cert. ef. date)
-last_reviewed: null
-source_version: "AON e.g. DAS 8-2006, f. & cert. ef. 12-28-06"
-status: current
+# ---- Identity ----
+id: oam-XX-XX-XX                     # required; stable slug = filename
+title: "TITLE"                          # required
+doc_type: manual
+citation: "OAM XX.XX.XX"
+# ---- Authority ----
+authority_level: state_policy           # required (agency_procedure for _PR docs)
+issuing_body: "ISSUING DIVISION"        # required
+agency: das                             # required
+legal_authority: []                     # e.g., ["ORS 276A.300", "OAR 125-800"]
+# ---- Provenance (anti-fabrication core) ----
+source_url: "https://www.oregon.gov/das/Financial/Acctng/Documents/XX.XX.XX.pdf"  # take href from the OAM listing row, never construct   # required
+source_format: pdf                      # required
+retrieved: YYYY-MM-DD                   # required; date the source was fetched
+source_sha256: "TODO"                   # required; content hash (src/repo_lib.py content_hash)
+# ---- Versioning (mirrors the source's own version signals) ----
+effective_date: YYYY-MM-DD              # from the PDF header "Effective"
+last_reviewed: YYYY-MM-DD               # from the PDF header "Reviewed"
+source_version: "Effective M/D/YYYY"    # verbatim version string as printed
+status: current                         # required
 supersedes: null
+# ---- Repo curation metadata ----
 content_mode: verbatim                 # required: full text for state-authored docs
-conversion_notes: ""                    # what conversion stripped (page furniture, lossy tables)
-last_verified: YYYY-MM-DD
-verified_by: "@handle"
+conversion_notes: ""                    # what conversion stripped (page furniture, lossy tables)                     # required
+last_verified: YYYY-MM-DD               # required
+verified_by: "@handle"                  # required
 maintainer: "@handle"
+# ---- Relationships (graph edges) ----
 relationships:
-  implements: []                        # the authorizing ORS
-  implemented_by: []                    # policies operationalizing this rule
+  implements: []
+  implemented_by: []
   references_external: []
   related: []
   supersedes: []

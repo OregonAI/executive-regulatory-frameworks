@@ -21,7 +21,8 @@ source_version: "Effective M/D/YYYY"    # verbatim version string as printed
 status: current                         # required
 supersedes: null
 # ---- Repo curation metadata ----
-content_mode: mixed                     # required
+content_mode: verbatim                 # required: full text for state-authored docs
+conversion_notes: ""                    # what conversion stripped (page furniture, lossy tables)                     # required
 last_verified: YYYY-MM-DD               # required
 verified_by: "@handle"                  # required
 maintainer: "@handle"
@@ -35,41 +36,38 @@ relationships:
 tags: []
 ---
 
-> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy/summary,
-> not the official text. Verify against the official source: {source_url}
-> (retrieved {retrieved}).
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
+> official text. Verify against the official source: {source_url} (retrieved {retrieved}).
 
 # {title} ({citation})
 
 ## At a glance
 
-_1–3 sentence plain-language summary of what this document requires and who it applies to._
+_1–3 sentence plain-language summary. Curator-authored content may appear ONLY here,
+under Curator notes, and under Cross-references._
 
-## Scope & applicability
+## Full text
 
-_Who it binds; exceptions._
+_The COMPLETE source text, converted to Markdown. Conversion rules:_
+_- preserve the source's numbering and hierarchy exactly (e.g. (1)(a)(A));_
+_- preserve original punctuation, capitalization, and defined-term casing;_
+_- strip page headers/footers/page numbers and record what was stripped in the_
+_  `conversion_notes` frontmatter field;_
+_- convert tables to Markdown tables; if lossy, keep the text and note it;_
+_- NEVER paraphrase, summarize, or reconstruct from model knowledge — if the source_
+_  cannot be fetched or cleanly parsed, insert `<!-- TODO: human verification required -->`_
+_  and stop (HC-1)._
 
-## Key provisions
+## Curator notes
 
-### {Provision heading}
+_Optional: conversion caveats, context (e.g. renumbering notes, date discrepancies)._
 
-> **[VERBATIM]** "Exact quoted text from the source…"
+## Cross-references
 
-**[SUMMARY]** Paraphrase of the provision in agent-friendly form (cite the source section).
-
-## Definitions
-
-## Authority & references
-
-- Rests on: {legal_authority}
-- References out to: {references_external}
-
-## Cross-references (in-repo)
-
-- [Related document](./related.md)
+- _In-repo relative links: authorizing statute/rule, implementing procedures, related docs._
 
 ## Provenance & change history
 
 - Source: {source_url} · retrieved {retrieved} · sha256 {source_sha256}
-- Snapshot: `_meta/snapshots/{id}.pdf` / `.txt`
+- Snapshot: `_meta/snapshots/{id}.*`
 - See this knowledge body's [CHANGELOG](./CHANGELOG.md).

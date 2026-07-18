@@ -56,6 +56,12 @@ def _stringify_dates(value):
 _PUNCT_MAP = str.maketrans({"‘": "'", "’": "'", "“": '"', "”": '"', " ": " "})
 
 
+def ws_only(s: str) -> str:
+    """Collapse whitespace runs WITHOUT touching punctuation — for producing rendered
+    text (e.g. '## Full text' slices) where original curly quotes must be preserved."""
+    return re.sub(r"\s+", " ", s).strip()
+
+
 def normalize_ws(s: str) -> str:
     """Collapse whitespace runs to single spaces (PDF extraction wraps lines) and map
     curly quotes/apostrophes to straight ones, so punctuation style in the rendered
@@ -72,6 +78,72 @@ def extract_verbatim_quotes(body: str):
     """Return the quoted text of every **[VERBATIM]** "..." block, blockquote markers stripped."""
     cleaned = re.sub(r"^\s*>\s?", "", body, flags=re.MULTILINE)
     return [m.group(1) for m in VERBATIM_RE.finditer(cleaned)]
+
+
+FULLTEXT_RE = re.compile(r"^## Full text\s*$(.*?)(?=^## |\Z)", re.MULTILINE | re.DOTALL)
+
+
+def extract_fulltext(body: str):
+    """Return the '## Full text' section body, or None if absent."""
+    m = FULLTEXT_RE.search(body)
+    return m.group(1) if m else None
+
+
+ITCS_FAMILY_CODES = ["AC", "AT", "AU", "CA", "CM", "CP", "IA", "IR", "MA", "MP",
+                     "PE", "PL", "PS", "RA", "SA", "SC", "SI", "SR"]
+_ITCS_HEAD = re.compile(r"^\s*([A-Z ,&–()-]+?)\s*[–(-]\s*\(?([A-Z]{2})\)?\s*$")
+
+
+def _itcs_bounds(lines):
+    """Line index of each ITCS family section start (body, not TOC)."""
+    starts = {}
+    for i, ln in enumerate(lines):
+        if i < 450:
+            continue
+        m = _ITCS_HEAD.match(ln)
+        if m and m.group(2) in ITCS_FAMILY_CODES and m.group(2) not in starts:
+            starts[m.group(2)] = i
+    return starts
+
+
+def snapshot_slice(doc_id: str, snapshot_id: str, raw_text: str) -> str:
+    """The portion of a shared snapshot's text that a document's '## Full text' covers.
+    Used identically by the migration generator and verify_provenance so coverage is
+    measured against the same slice that was transcribed. Default: whole text."""
+    if snapshot_id == "ors-chapter-276a":
+        sec = doc_id.replace("ors-", "").upper().replace("276A", "276A")  # e.g. 276A.300
+        norm = ws_only(raw_text)
+        matches = list(re.finditer(re.escape(sec) + r" [A-Z“\"]", norm))
+        if not matches:
+            return norm
+        start = matches[-1].start()
+        nxt = re.search(r"\b\d{3}[A-Z]?\.\d{3} [A-Z“\"]", norm[start + 10:])
+        end = start + 10 + nxt.start() if nxt else len(norm)
+        return norm[start:end]
+    if doc_id.startswith("oar-"):
+        # OARD page text includes site chrome; the rule text runs from the rule number
+        # heading to OARD's bookmark hint.
+        num = doc_id.replace("oar-", "").replace("-", "-")
+        norm = ws_only(raw_text)
+        rule_num = doc_id.replace("oar-", "")
+        i = norm.find(rule_num)
+        j = norm.find("Please use this link to bookmark")
+        if i > -1:
+            return norm[i:j] if j > i else norm[i:]
+        return norm
+    if snapshot_id == "eis-css-itcs":
+        lines = raw_text.splitlines()
+        starts = _itcs_bounds(lines)
+        order = sorted(starts.items(), key=lambda kv: kv[1])
+        if doc_id == "eis-css-itcs":
+            first = order[0][1] if order else len(lines)
+            return "\n".join(lines[:first])
+        code = doc_id.rsplit("-", 1)[-1].upper()
+        if code in starts:
+            i = [k for k, _ in order].index(code)
+            end = order[i + 1][1] if i + 1 < len(order) else len(lines)
+            return "\n".join(lines[starts[code]:end])
+    return raw_text
 
 
 # Byte patterns that change on every fetch without any content change (session ids,
