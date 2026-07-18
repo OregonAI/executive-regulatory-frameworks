@@ -150,6 +150,15 @@ under "Unlinked rules/policies/procedures/standards" — check the source's
 authority/reference text for wording the citation extractor doesn't recognize, or
 add a hand-authored relationship if the document really has no in-repo authority.
 
+## MCP server
+
+`src/mcp_server.py` serves this corpus over MCP (stdio or `--http`): full-text
+search (SQLite FTS5), `get_document` with provenance, citation resolution incl. OAR
+renumbering, and authority-chain traversal over `_meta/graph.json`. Setup, tool
+reference, and deploy notes: [docs/mcp.md](docs/mcp.md). The query engine
+(`src/mcp_lib.py`) is stdlib-only and CI-tested (`--selftest`); its FTS cache lives
+in `_meta/.cache/` (gitignored) and rebuilds automatically when the repo changes.
+
 ## Validation commands
 
 ```bash

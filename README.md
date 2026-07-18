@@ -30,6 +30,7 @@ The full design rationale lives in [repo-design.md](repo-design.md).
 | [REVIEW.md](REVIEW.md) | Generated queue of everything needing human review/intervention |
 | `*/_index.md` | Per-directory scoped maps ("how to find the right document") |
 | Frontmatter `relationships` | Graph edges: walk from any policy up to its statute or out to referenced standards |
+| [docs/mcp.md](docs/mcp.md) | MCP server: search, citation resolution, and authority-graph tools over this corpus (stdio or HTTP) |
 
 ## Structure
 

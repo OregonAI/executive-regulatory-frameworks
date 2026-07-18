@@ -19,3 +19,5 @@ jobs:
         run: python3 src/review_queue.py --check
       - name: Relationship graph must be current
         run: python3 src/link_graph.py --check
+      - name: MCP query engine selftest
+        run: python3 src/mcp_lib.py --selftest
