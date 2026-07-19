@@ -11,8 +11,11 @@ authoritative. Every answer you derive from it should cite the document's `sourc
 
 ## How to navigate
 
-1. **Start at [`llms.txt`](llms.txt)** — the curated master index of every document, with
-   one-line guidance on when to consult each.
+1. **Start at [`llms.txt`](llms.txt)** — the master index of every document, with
+   one-line guidance on when to consult each. It is **generated** by
+   `python3 src/build_llms.py` (counts/coverage derived from the corpus and
+   catalogs; CI fails when stale) — curated titles, consult-prose, and highlighted
+   documents live in `_meta/llms-curated.yml`; never edit llms.txt directly.
 2. **Drill into `_index.md`** in any content directory for a scoped map and a "how to find
    the right document" narrative.
 3. **Walk the graph** via each file's frontmatter `relationships`:
@@ -123,7 +126,8 @@ is needed for state-authored content.
   `Source-Updated` entry in the affected body's `CHANGELOG.md`.
 - **Every PR**: run `python3 src/validate_frontmatter.py` and
   `python3 src/verify_provenance.py` locally; complete the PR checklist; update the
-  relevant `CHANGELOG.md` and, for new documents, `llms.txt` and the directory `_index.md`.
+  relevant `CHANGELOG.md` and, for new documents, the directory `_index.md`, and run
+  `python3 src/build_llms.py` (llms.txt regenerates itself from the corpus).
 
 ## Commit conventions
 

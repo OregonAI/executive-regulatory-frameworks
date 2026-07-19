@@ -147,7 +147,7 @@ Next steps (see _meta/skills/intake.md for the full gated flow):
     if there's a listing), listing_snapshot.
  3. Ingest via the established pipelines (ingest_lib helpers; output_dir_for routes
     files). New ORS/OAR chapters go through catalog_ors.py / ingest_oar.py unchanged.
- 4. After the batch: link_graph.py, review_queue.py, both validators, update llms.txt
+ 4. After the batch: link_graph.py, review_queue.py, build_llms.py, both validators; update
     and the agency _index.md files (fill the TODO markers).""")
 
 

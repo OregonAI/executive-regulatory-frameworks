@@ -74,7 +74,7 @@ the issue.
    cannot be cleanly parsed, insert `<!-- TODO: human verification required -->` and stop.
 6. Run `python3 src/link_graph.py` — relationship edges are derived mechanically from
    the document's authority citations (add hand-authored edges only for connections the
-   citations don't capture); update the directory `_index.md`, `llms.txt`, and the
+   citations don't capture); update the directory `_index.md`, run `python3 src/build_llms.py` (llms.txt is generated — curate via `_meta/llms-curated.yml`), and update the
    knowledge body `CHANGELOG.md` (`Added`). Then run `python3 src/review_queue.py` — a
    rule/policy/procedure/standard that comes out with zero relationship edges is flagged
    under "Unlinked rules/policies/procedures/standards" in `REVIEW.md`; check the

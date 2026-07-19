@@ -49,7 +49,7 @@ changes.
      ADDED rows and, on approval, ingest them with the established listing-driven
      pattern (fetch each row's FileRef verbatim, magic-byte check, snapshot + `.txt`,
      full-text-first body via `src/ingest_lib.py` helpers), then rebuild the listing
-     snapshot, catalog, group file, `_index.md`, and `llms.txt`.
+     snapshot, catalog, group file, `_index.md`, and `python3 src/build_llms.py` (llms.txt is generated).
 
 4. **Validate and land**:
 

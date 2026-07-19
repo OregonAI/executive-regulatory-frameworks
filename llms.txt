@@ -1,123 +1,46 @@
 # Oregon Executive-Branch Knowledge Repository (DAS pilot)
 
-> Curated, NON-AUTHORITATIVE copies of the statutes, administrative rules,
-> executive orders, policies, and standards governing Oregon executive-branch agencies,
-> starting with the Department of Administrative Services (DAS). Every document carries
-> provenance frontmatter and links to its official source — always verify there. The
-> FULL VERBATIM TEXT of every state-authored document is included in-repo under each
-> file's '## Full text' section (no external fetch needed to quote policy language);
-> third-party standards are summarized with links to official sources only. Agent
-> rules live in AGENTS.md.
+> Curated, NON-AUTHORITATIVE copies of the statutes, administrative rules, executive orders, policies, and standards governing Oregon executive-branch agencies, starting with the Department of Administrative Services (DAS). Every document carries provenance frontmatter and links to its official source — always verify there. The FULL VERBATIM TEXT of every state-authored document is included in-repo under each file's '## Full text' section (no external fetch needed to quote policy language); third-party standards are summarized with links to official sources only. Agent rules live in AGENTS.md.
 
 ## Statutes (ORS)
 
-- [Statutes index](statutes/_index.md): 1071 ORS sections, full text each — complete
-  chapters 183 (Administrative Procedures Act), 184 (Executive Branch Departments incl.
-  DAS), 192 (Public Records; Meetings), 240 (State Personnel Relations), 276 (Public
-  Facilities), 276A (Information Technology), 278 (Insurance for Public Bodies), 279A/B/C
-  (Public Contracting — General/Procurements/Improvements), 282 (Public Printing), 283
-  (Interagency Services), 291 (State Financial Administration), 292 (Salaries & Expenses
-  of State Officers/Employees), 293 (Administration of Public Funds), 2025 Edition.
-  Consult for the legal authority behind any rule or policy.
-- [ORS 276A.300 — Information systems security in executive department](statutes/ors-276a.300.md):
-  the State CIO's authority over executive-branch information security; the statutory
-  root of the whole security stack.
-- [ORS 276A.303 — Security for SoS, Treasurer, AG](statutes/ors-276a.303.md): why those
-  offices are excluded from DAS security policies.
-- [ORS 276A.306 — Security incidents and assessments](statutes/ors-276a.306.md):
-  definitions grounding incident response and CSS assessments.
+- [Index](statutes/_index.md): 1071 ORS sections, full text each — complete chapters 183 (Administrative Procedures Act), 184 (Certain Executive Branch Departments (incl. DAS)), 192 (Records; Reports and Meetings), 240 (State Personnel Relations), 276 (Public Facilities), 276A (Information Technology), 278 (Insurance for Public Bodies), 279A (Public Contracting - General Provisions), 279B (Public Contracting - Public Procurements), 279C (Public Contracting - Public Improvements), 282 (Public Printing), 283 (Interagency Services), 291 (State Financial Administration), 292 (Salaries and Expenses of State Officers and Employees), 293 (Administration of Public Funds). Consult for the legal authority behind any rule or policy.
+- [ORS 276A.300 — Information systems security in executive department](statutes/ors-276a.300.md): the State CIO's authority over executive-branch information security; the statutory root of the whole security stack.
+- [ORS 276A.303 — Security for SoS, Treasurer, AG](statutes/ors-276a.303.md): why those offices are excluded from DAS security policies.
+- [ORS 276A.306 — Security incidents and assessments](statutes/ors-276a.306.md): definitions grounding incident response and CSS assessments.
 
 ## Administrative Rules (OAR)
 
-- [Rules index](rules/_index.md): 489 rules, full text each — every division of
-  chapter 105 (Chief Human Resources Office), chapter 122 (Chief Financial Office),
-  chapter 125 (DAS: procurement 246-249, purchasing, surplus, facilities, payroll,
-  records, risk, fleet, more), and chapter 128 (State CIO: broadband, covered vendors,
-  information security 030, geographic information, e-signatures). Old "OAR 125-800"
-  citations resolve to 128-030.
-- [OAR 128-030-0020 — State Information Security](rules/128/030/oar-128-030-0020.md):
-  DAS as primary point of accountability; agency duties. Also
-  [128-030-0005 (purpose)](rules/128/030/oar-128-030-0005.md) and
-  [128-030-0010 (definitions)](rules/128/030/oar-128-030-0010.md).
+- [Index](rules/_index.md): 484 OAR rules, full text each — chapters 125 (Department of Administrative Services), 128 (Office of the State Chief Information Officer), 105, 122. Old "OAR 125-800" citations resolve to 128-030.
+- [OAR 128-030-0020 — State Information Security](rules/128/030/oar-128-030-0020.md): DAS as primary point of accountability; agency duties. Also 128-030-0005 (purpose) and 128-030-0010 (definitions) beside it.
 
 ## Executive Orders
 
-- [Executive orders index](executive-orders/_index.md): 526 orders, 2003–present, from
-  the Governor's listing of record. Most sources are image-only scans, so the typical
-  document is metadata + official link only (title, number, raw-byte hash); 19 orders
-  with clean text layers carry verbatim full text. Orders are immutable — check the
-  index or `_meta/catalog/eo.yml` for whether an order has in-repo text before quoting.
+- [Index](executive-orders/_index.md): 526 executive orders, 2003–2026, from the Governor's listing of record; 20 carry verbatim full text, the rest are image-only scans (metadata + official source link). Orders are immutable — check the index or `_meta/catalog/eo.yml` for whether an order has in-repo text before quoting; most sources are image-only scans (metadata + official link only).
 
 ## DAS Policies
 
-- [DAS policies index](agencies/das/policies/_index.md): 133 policies/procedures
-  mirroring the DAS policies listing of record (14 categories: Facilities, General,
-  Procurement, IT Assets/General/Security, and the full HR corpus — classification &
-  compensation, position management, filling positions, workforce management, employee
-  leave, discipline & discharge, rulemaking).
-- [DAS 107-004-052 — Cyber and Information Security](agencies/das/policies/das-107-004-052.md):
-  the statewide security program policy — roles (State CISO, agency heads, users),
-  enterprise security baseline, CSS assessments, offshoring prohibition. Companion:
-  [107-004-052_PR procedure](agencies/das/procedures/das-107-004-052_pr.md).
-- Security cluster: [107-004-050 asset classification](agencies/das/policies/das-107-004-050.md) ·
-  [107-004-110 acceptable use](agencies/das/policies/das-107-004-110.md) ·
-  [107-004-120 incident response](agencies/das/policies/das-107-004-120.md) ·
-  [107-004-140 privileged access](agencies/das/policies/das-107-004-140.md) ·
-  [107-004-150 cloud/hosted](agencies/das/policies/das-107-004-150.md) ·
-  [107-004-160 data governance](agencies/das/policies/das-107-004-160.md) ·
-  [107-004-010 asset inventory](agencies/das/policies/das-107-004-010.md) ·
-  [107-004-051 removable media](agencies/das/policies/das-107-004-051.md) ·
-  [107-004-100 transporting assets](agencies/das/policies/das-107-004-100.md)
-- [DAS 107-001-020 — Public Records Management](agencies/das/policies/das-107-001-020.md)
-- Facilities/asset management: [107-011-010 energy & conservation](agencies/das/policies/das-107-011-010.md) ·
-  [107-011-050_PR e-waste disposal](agencies/das/procedures/das-107-011-050_pr.md) ·
-  [107-011-100 office space design](agencies/das/policies/das-107-011-100.md) ·
-  [107-011-115 office siting](agencies/das/policies/das-107-011-115.md) ·
-  [107-011-150 service animals](agencies/das/policies/das-107-011-150.md) ·
-  [107-011-310 Capitol Mall grounds](agencies/das/policies/das-107-011-310.md) ·
-  [107-011-330 vending services](agencies/das/policies/das-107-011-330.md)
-- HR: [50-000-01 drug-free workplace](agencies/das/policies/das-50-000-01.md) ·
-  [50-010-01 discrimination/harassment](agencies/das/policies/das-50-010-01.md) ·
-  [50-010-02 workplace violence](agencies/das/policies/das-50-010-02.md) ·
-  [50-010-03 professional conduct](agencies/das/policies/das-50-010-03.md) ·
-  [50-010-05 weapons](agencies/das/policies/das-50-010-05.md) ·
-  [50-010-06 health & wellness](agencies/das/policies/das-50-010-06.md) ·
-  [50-020-10 ADA/accommodation](agencies/das/policies/das-50-020-10.md) ·
-  [50-035-01 performance management](agencies/das/policies/das-50-035-01.md) ·
-  [50-050-01 remote work](agencies/das/policies/das-50-050-01.md) ·
-  [50-090-01 improper conduct reporting](agencies/das/policies/das-50-090-01.md)
+- [Index](agencies/department-of-administrative-services/policies/_index.md): 119 documents (107 with verbatim full text). Mirrors the DAS policies listing of record (Facilities, General, Procurement, IT Assets/General/Security, and the full HR corpus).
+- [DAS 107-004-052 — Cyber and Information Security](agencies/department-of-administrative-services/policies/das-107-004-052.md): the statewide security program policy — roles (State CISO, agency heads, users), enterprise security baseline, CSS assessments, offshoring prohibition. Companion procedure 107-004-052_PR in ../procedures/.
+- [Security cluster — 107-004-050 asset classification](agencies/department-of-administrative-services/policies/das-107-004-050.md): siblings 107-004-010 asset inventory · -051 removable media · -100 transporting assets · -110 acceptable use · -120 incident response · -140 privileged access · -150 cloud/hosted · -160 data governance.
+- [DAS 107-001-020 — Public Records Management](agencies/department-of-administrative-services/policies/das-107-001-020.md): retention, disposition, and public-records duties.
+- [HR corpus — 50-010-01 discrimination & harassment free workplace](agencies/department-of-administrative-services/policies/das-50-010-01.md): siblings include 50-000-01 drug-free · 50-010-02 workplace violence · 50-010-03 professional conduct · 50-020-10 ADA/accommodation · 50-035-01 performance management · 50-050-01 remote work · 50-090-01 improper conduct reporting.
 
 ## DAS Procedures
 
-- [DAS procedures index](agencies/das/procedures/_index.md): 14 procedures
-  (`doc_type: procedure`, filenames ending `_pr.md`) that implement DAS statewide
-  policies — split out from DAS Policies so procedures aren't mixed in with policies.
-  A procedure's policy is its number minus the `_PR` suffix (e.g. 107-004-052_PR
-  implements 107-004-052).
+- [Index](agencies/department-of-administrative-services/procedures/_index.md): 14 documents. Procedures (`_pr.md`) implement DAS statewide policies — a procedure's policy is its number minus the `_PR` suffix (e.g. 107-004-052_PR implements 107-004-052).
 
 ## DAS Accounting Manual (OAM)
 
-- [OAM index](agencies/das/accounting-manual/_index.md): 173 documents mirroring the OAM
-  listing of record — 16 chapters (01 Introduction, 05 R*STARS, 10 Internal Control, 15
-  Accounting & Financial Reporting, 20 Budgetary Accounting, 25 Management Accounting,
-  30 Federal Compliance, 35 Accounts Receivable, 40 Travel, 45 Payroll, 50 Tax Issues,
-  55 Other Programs/SPOTS, 60 Chart of Accounts, 65 Glossary, 70 Agency Lists, 75
-  Forms). Older documents come as split `.po` policy / `.pr` procedure pairs. 12 files
-  are pending drafts not in the listing of record (status `proposed`/`draft`, clearly
-  annotated) — always check frontmatter `status` before treating a document as current.
+- [Index](agencies/department-of-administrative-services/accounting-manual/_index.md): 173 documents (170 with verbatim full text). Older documents come as split `.po` policy / `.pr` procedure pairs; some files are pending drafts not in the listing of record (status `proposed`/`draft`) — always check frontmatter `status` before treating a document as current.
 
 ## DAS Standards (EIS/CSS)
 
-- [Standards index](agencies/das/standards/_index.md): the non-policy documents policies
-  require agencies to uphold, issued under ORS 276A.300.
-- [Statewide IT Control Standards (Jan 2024)](agencies/das/standards/eis-css-itcs.md):
-  the baseline control catalog agencies must meet (NIST SP 800-53 r5 aligned); per-family
-  inventories in [eis-css-it-control-standards/](agencies/das/standards/eis-css-it-control-standards/_index.md).
-- [Statewide Information Security Plan (2018)](agencies/das/standards/eis-css-secplan.md)
-  and [2023 Security Program Plan](agencies/das/standards/eis-css-program-plan-2023.md).
+- [Index](agencies/department-of-administrative-services/standards/_index.md): 21 documents. The non-policy documents policies require agencies to uphold, issued under ORS 276A.300.
+- [Statewide IT Control Standards (Jan 2024)](agencies/department-of-administrative-services/standards/eis-css-itcs.md): the baseline control catalog agencies must meet (NIST SP 800-53 r5 aligned); per-family inventories in eis-css-it-control-standards/.
+- [Statewide Information Security Plan (2018)](agencies/department-of-administrative-services/standards/eis-css-secplan.md): with the 2023 Security Program Plan (eis-css-program-plan-2023) beside it.
 
 ## External References
 
-- [External references index](external-references/_index.md): summaries + links only.
-- [NIST SP 800-53 Rev. 5](external-references/nist-sp-800-53-r5.md): the control
-  framework behind the statewide standards.
+- [Index](external-references/_index.md): 1 third-party reference(s). Summaries + links only — never full text.
+- [NIST SP 800-53 Rev. 5](external-references/nist-sp-800-53-r5.md): the control framework behind the statewide standards.

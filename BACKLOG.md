@@ -30,6 +30,4 @@ Hand-maintained list of known improvements deliberately deferred. (Distinct from
   (per-order detail: `_meta/catalog/eo.yml` `text_layer` field).
 - CI runtime: verify only changed files on PRs, full corpus on main pushes,
   once the suite passes ~10 minutes (~2.5 min at 2,409 files).
-- Generate the per-body count lines of `llms.txt` (keep the guidance prose
-  curated).
 - Semantic/embedding search for the MCP server (FTS5 keyword+rank first).
