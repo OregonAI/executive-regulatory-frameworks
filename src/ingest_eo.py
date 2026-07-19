@@ -4,6 +4,9 @@
   python3 src/ingest_eo.py --enumerate   # pull the /gov/eo SharePoint listing of record;
                                          # write _meta/catalog/eo.yml + eo-listing.json
   python3 src/ingest_eo.py --ingest      # fetch each catalog row; emit docs
+  python3 src/ingest_eo.py --ocr [--limit N]   # re-fetch each image-only-scan order's
+                                         # PDF, OCR it, promote to verbatim on a pass
+                                         # (see cmd_ocr below)
 
 Orders never change once issued (per project policy), so the update group only watches
 the listing for ADDED rows — existing orders are never re-fetched.
@@ -17,7 +20,9 @@ Quality gate (mechanical, HC-1 safe): a PDF's text layer becomes '## Full text' 
 it has >= 100 words AND >= 80% of its alphabetic words appear in the system dictionary —
 this rejects garbage OCR layers (e.g. "EXECI]TIVE ORDER") that would otherwise pass as
 verbatim text. Everything else is a summary stub with content_exception; the At-a-glance
-line quotes the listing-of-record description verbatim. No auto-OCR, ever.
+line quotes the listing-of-record description verbatim. `--ingest` never auto-OCRs;
+promoting a stub to verbatim only ever happens via the explicit, separately-invoked
+`--ocr` step below, gated by the identical quality check.
 
 Identity: id eo-YY-NN derived from the FILENAME (listing Year/Number metadata is wrong
 for 6 rows — filenames + descriptions agree with each other); mismatches recorded in the
@@ -266,6 +271,121 @@ tags: ["executive-order", "year-20{yy}"]
     return common + body
 
 
+def ocr_and_extract(pdf_bytes: bytes) -> str:
+    """OCR a fetched (image-only) PDF and return its recovered text. Never touches the
+    committed snapshot -- operates entirely in a temp dir. Mirrors src/ocr_promote.py's
+    DAS-policy OCR step exactly (same ocrmypdf flags), applied here to a freshly
+    fetched EO PDF instead of an already-committed one, since EO PDFs are hash-only
+    and never land on disk under _meta/snapshots/."""
+    with tempfile.TemporaryDirectory() as td:
+        src_pdf = Path(td) / "src.pdf"
+        ocr_pdf = Path(td) / "ocr.pdf"
+        src_pdf.write_bytes(pdf_bytes)
+        subprocess.run(
+            ["ocrmypdf", "--deskew", "--clean", "--optimize", "1", "--quiet",
+             str(src_pdf), str(ocr_pdf)],
+            check=True, capture_output=True)
+        return subprocess.run(
+            ["pdftotext", "-layout", str(ocr_pdf), "-"],
+            capture_output=True, text=True, check=True).stdout
+
+
+def cmd_ocr(limit=None, only=None):
+    """Promote image-only-scan orders (text_layer 'none'/'garbage OCR...') to verbatim
+    by OCRing a freshly-refetched copy of their PDF. Explicit, separately-invoked step
+    -- never runs as part of --ingest. Quality-gated identically to --ingest's own
+    check (>=100 words, >=80% dictionary) so a failed OCR pass leaves the stub
+    untouched, exactly like src/ocr_promote.py does for DAS policies. The committed
+    _meta/snapshots/<id>.txt (if a pass) and source_sha256 follow the SAME formula as
+    a fresh --ingest full-text hit (sha256 of the whitespace-normalized raw pdftotext
+    output) -- this is what verify_provenance.py's hash-only branch re-derives, so it
+    MUST match."""
+    cat = yaml.safe_load(CATALOG.read_text())
+    dictionary = load_dictionary()
+    if dictionary is None:
+        sys.exit("no system dictionary found (needed for the OCR quality gate)")
+
+    candidates = [o for o in cat["orders"]
+                 if o.get("status") == "ingested"
+                 and str(o.get("text_layer", "")).startswith(("none", "garbage OCR"))]
+    if only:
+        candidates = [o for o in candidates if o["id"] == only]
+    if limit:
+        candidates = candidates[:limit]
+
+    promoted = failed_fetch = failed_gate = 0
+    for i, o in enumerate(candidates, 1):
+        oid = o["id"]
+        url = "https://www.oregon.gov" + urllib.request.quote(o["file_ref"])
+        try:
+            raw = fetch(url)
+        except Exception as e:
+            print(f"FETCH FAILED {oid}: {e}")
+            failed_fetch += 1
+            continue
+        time.sleep(0.2)
+        if not raw.startswith(b"%PDF"):
+            print(f"NOT A PDF {oid}: server returned {raw[:40]!r}")
+            failed_fetch += 1
+            continue
+
+        try:
+            text = ocr_and_extract(raw)
+        except subprocess.CalledProcessError as e:
+            print(f"OCR FAILED {oid}: ocrmypdf exit {e.returncode}")
+            # Still prefixed "none" so the candidate filter (startswith "none") would
+            # retry this on a future run -- but recorded as attempted so completion
+            # tracking can tell "tried and failed" apart from "never touched" (this
+            # ambiguity previously caused a batch run to be mistaken for incomplete
+            # or complete when it was the other).
+            o["text_layer"] = f"none (ocrmypdf failed exit {e.returncode} on {TODAY})"
+            failed_gate += 1
+            continue
+        words, ratio = text_quality(text, dictionary)
+        if words < MIN_WORDS or ratio < MIN_DICT_RATIO:
+            print(f"GATE FAIL  {oid}: {words} words, {ratio:.0%} dictionary "
+                 f"(need >={MIN_WORDS}, >={MIN_DICT_RATIO:.0%}) — left as stub")
+            o["text_layer"] = (f"none (OCR attempted {TODAY}: {words} words, "
+                              f"{ratio:.0%} dictionary — below threshold)")
+            failed_gate += 1
+            continue
+
+        ft, conv = clean_pdf_text(text)
+        conv = f"text recovered via OCR (ocrmypdf/tesseract); {conv}"
+        (SNAPSHOT_DIR / f"{oid}.txt").write_text(text, encoding="utf-8")
+        sha = hashlib.sha256(normalize_ws(text).encode("utf-8")).hexdigest()
+        eff = parse_signed_date(normalize_ws(text))
+        eff_date = f'"{eff}"' if eff else None
+        related = []
+        base = re.match(r"^(eo-\d{2}-\d{2})-", oid)
+        if base and any(x["id"] == base.group(1) for x in cat["orders"]):
+            related.append(base.group(1))
+
+        doc = doc_text(oid, o["title"], url, sha, ft, conv, eff_date, None, related)
+        curator_note = (
+            "## Curator notes\n\n"
+            f"OCR'd via `ocrmypdf` (tesseract) on {TODAY} because the source PDF is an "
+            "image-only scan with no native text layer — old scans in particular can "
+            "carry misread words, garbled signature/date lines, or dropped characters. "
+            "Verify against the source PDF before treating any name, date, or figure in "
+            "the text above as certain.\n\n")
+        doc = doc.replace("## Provenance & change history",
+                          curator_note + "## Provenance & change history", 1)
+        out = REPO_ROOT / o["path"]
+        out.write_text(doc)
+        o["text_layer"] = f"ocr-recovered ({words} words, {ratio:.0%} dictionary)"
+        o["sha256"] = sha
+        promoted += 1
+        print(f"OK  {oid}: {words} words, {ratio:.0%} dictionary — promoted to verbatim")
+
+        if i % 25 == 0:
+            CATALOG.write_text(yaml.safe_dump(cat, sort_keys=False, allow_unicode=True, width=100))
+
+    CATALOG.write_text(yaml.safe_dump(cat, sort_keys=False, allow_unicode=True, width=100))
+    print(f"\nocr: {promoted} promoted, {failed_gate} failed the quality gate, "
+         f"{failed_fetch} fetch/format failures, out of {len(candidates)} candidates")
+
+
 def cmd_ingest(limit=None):
     cat = yaml.safe_load(CATALOG.read_text())
     dictionary = load_dictionary()
@@ -359,7 +479,7 @@ def write_index():
     """Regenerate executive-orders/_index.md from the catalog (grouped by year)."""
     cat = yaml.safe_load(CATALOG.read_text())
     ingested = [o for o in cat["orders"] if o.get("status") == "ingested"]
-    full = sum(1 for o in ingested if str(o.get("text_layer", "")).startswith("clean"))
+    full = sum(1 for o in ingested if str(o.get("text_layer", "")).startswith(("clean", "ocr-recovered")))
     by_year = {}
     for o in ingested:
         yy = o["id"][3:5]
@@ -383,7 +503,7 @@ def write_index():
         L.append("| Order | Title | Full text |")
         L.append("|---|---|---|")
         for o in sorted(by_year[year], key=lambda o: o["id"]):
-            ft = "yes" if str(o.get("text_layer", "")).startswith("clean") else "—"
+            ft = "yes" if str(o.get("text_layer", "")).startswith(("clean", "ocr-recovered")) else "—"
             title = (o["title"] or "(no description on the listing)").replace("|", "\\|")
             L.append(f"| [{o['id']}]({o['id']}.md) | {title} | {ft} |")
         L.append("")
@@ -395,13 +515,19 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--enumerate", action="store_true")
     ap.add_argument("--ingest", action="store_true")
+    ap.add_argument("--ocr", action="store_true",
+                    help="OCR every image-only-scan order's PDF, promoting a pass to verbatim")
     ap.add_argument("--index", action="store_true", help="regenerate _index.md only")
-    ap.add_argument("--limit", type=int, default=None, help="ingest at most N (testing)")
+    ap.add_argument("--limit", type=int, default=None, help="process at most N (testing)")
+    ap.add_argument("--only", default=None, help="--ocr a single order id (testing)")
     args = ap.parse_args()
     if args.enumerate:
         cmd_enumerate()
     elif args.ingest:
         cmd_ingest(args.limit)
+        write_index()
+    elif args.ocr:
+        cmd_ocr(args.limit, args.only)
         write_index()
     elif args.index:
         write_index()

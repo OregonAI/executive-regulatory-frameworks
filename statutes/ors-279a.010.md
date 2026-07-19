@@ -27,6 +27,9 @@ relationships:
   implemented_by:
     - das-107-004-030
     - das-107-004-030_pr
+    - eo-23-02
+    - eo-23-03
+    - eo-24-02
     - oar-125-246-0800
   references_external: []
   related: []

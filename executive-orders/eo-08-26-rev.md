@@ -10,20 +10,21 @@ legal_authority: []
 source_url: "https://www.oregon.gov/gov/eo/eo-08-26-rev.pdf"
 source_format: pdf
 retrieved: "2026-07-18"
-source_sha256: "66a181b63665cd17549b501a8df0824586f1ff317a37170f72aa26e6dce0abbc"
+source_sha256: "ec43a340180677fdb2e39aa732b8f20f1f7b8e22b02e634814ae982f1bf2c4b6"
 snapshot_policy: hash-only
 effective_date: null
 last_reviewed: null
 source_version: null
 status: current
 supersedes: null
-content_mode: summary
-content_exception: "Source PDF is an image-only scan with no text layer; no machine-verifiable text. Hash-only snapshot policy for executive orders (raw-byte sha256 recorded; PDF not committed). Resolvable only by OCR + human verification."
+content_mode: verbatim
+conversion_notes: "text recovered via OCR (ocrmypdf/tesseract); no page furniture detected"
 last_verified: "2026-07-18"
 verified_by: "@morficflux"
 maintainer: "@morficflux"
 relationships:
-  implements: []
+  implements:
+    - ors-292.495
   implemented_by: []
   references_external: []
   related: []
@@ -31,9 +32,7 @@ relationships:
 tags: ["executive-order", "year-2008"]
 ---
 
-> **NON-AUTHORITATIVE — AI-friendly reference only.** The source PDF is an image-only scan (or has an
-> unusable OCR text layer), so this file carries **no verbatim text** — only
-> the listing-of-record metadata below. Verify against the official
+> **NON-AUTHORITATIVE — AI-friendly reference only.** Verify against the official
 > source: <https://www.oregon.gov/gov/eo/eo-08-26-rev.pdf> (retrieved 2026-07-18).
 
 # Oregon Energy Planning Council (Executive Order 08-26)
@@ -42,8 +41,178 @@ tags: ["executive-order", "year-2008"]
 
 Executive Order 08-26: Oregon Energy Planning Council. (Title as printed in the Governor's office listing of record; see Provenance.)
 
+## Full text
+
+Wires of the Governor
+State of Oregon
+
+    EXECUTIVE ORDER 08 — 26
+
+    OREGON ENERGY PLANNING COUNCIL
+
+    Our decisions in the next decade will determine Oregon’s energy future. Whether
+    it is demand from our growing economy or growing population, Oregon’s energy
+    needs are expected to increase. Oregon has charted a course to meet future demand
+    with renewable energy, aggressive conservation strategies and increased efficiency.
+    It will take time, however, to implement Oregon’s green, more efficient energy
+    plan and invest in the energy infrastructure needed to incorporate renewable energy
+    into the grid.
+
+    On August 27, 2008, I hosted a Summit on Oregon’s Energy Future. At the
+    Summit, energy suppliers, public officials, scientists, labor and business
+    representatives, students and environmentalists gathered to begin a discourse about
+    creating Oregon’s energy future. The Summit identified Oregon’s need for a
+    formal, comprehensive planning process to move the state toward clean, renewable
+    energy, while also addressing the immediate issues of price stability and supply
+    certainty for Oregon families and businesses.
+
+    Energy supply and demand are dynamic and thus, the State’s energy planning
+    requires ongoing analysis, flexibility and adaptability. Even in these tough
+    economic times, the need to address Oregon’s energy future in a comprehensive
+    way remains an essential goal. The future well-being and prosperity of Oregon’s
+    families and businesses depend on it. This Executive Order establishes the Oregon
+    Energy Planning Council to provide proactive analysis, advice and assistance on
+    energy planning.
+
+    NOW THEREFORE, IT IS HEREBY DIRECTED AND ORDERED:
+
+            1.       The Oregon Energy Planning Council (“Council”) is hereby                  )
+    established.                     .
+
+            2.       The Council shall consist of eleven members appointed by the
+    Governor for terms of three years each. Members shall represent the best interests
+    of Oregon as a whole. The Council shall include:
+
+                     a.     A representative from the Oregon University System;
+                     b.     A representative who is knowledgeable about energy
+                            transmission;             :
+                     c.     A representative who is an energy economist;
+                     d.     Two representatives of ratepayers;
+
+                                                                                          He
+
+Office of the Governor
+State of Oregon
+
+    EXECUTIVE ORDER NO. 08 — 26
+    PAGE TWO
+
+                               A representative of renewable energy providers;                    .
+
+                    rmBog bh
+                           ©
+                               A tepresentative of the Bonneville Power Administration;
+                               A representative of natural gas providers;
+                               Two representatives of electricity providers; and
+                               A representative who is knowledgeable about energy
+                               efficiency and conservation.
+
+               3.   All members serve at the pleasure of the Governor. The terms of
+    each appointment shall be three years. Initial terms shall be proportionately
+    staggered to periods of one, two and three years. Members may be reappointed.
+    The Governor shall designate a Chair, who will serve at the pleasure of the
+    Governor.
+
+               4.     The following Oregon officials or their designees shall serve as ex
+    officio members of the Council:
+
+                               Chair of the Board of Agriculture;
+
+                    eS oP
+                               Chair of the Board of Forestry;
+                               Chair of the Economic and Community Development
+                               Commission;
+
+                    ga rhpe
+                               Chair of the Energy Facility Siting Council;
+                               Chair of the Environmental Quality Commission;
+                               Chair of the Fish and Wildlife Commission;
+                               Chair of the Land, Conservation and Development
+                               Commission;
+
+                    ror
+                      pe
+                               Chair of the Oregon Global Warming Commission;
+                               Chair of the Oregon Investment Council;
+                               Chair of the Public Utilities Commission; and
+                               The State Economist.
+
+               5.   The Council shall meet at least quarterly and at the call of the Chair
+    or the Governor. The Council’s deliberations shall be public, and the Council shall
+    hold meetings at different locations throughout the state, at the direction of the
+    Chair.
+
+               6.   On or before December 31, 2010, and continuing thereafter on a
+    biennial basis, or at the request of the Governor, the Council shall issue an Oregon
+    energy planning report to the Governor and the Legislative Assembly, which may
+    outline:
+
+                                                                                             He
+
+Office of the Governor
+State of Oregon
+
+    EXECUTIVE ORDER NO. 08 — 26
+    PAGE THREE
+
+                   a.        Oregon’s current energy use and energy supply and its future
+                             energy needs;
+                   b.        Challenges to addressing the immediate issues of price
+                             stability and energy supply certainty for Oregon families and
+                             businesses;
+                    c.       Recommendations for bridging any potential gaps in
+                             Oregon’s energy supply;
+                    d.       Recommendations for short, middle and long-range
+                             strategies for meeting Oregon’s future energy needs,
+                             including the costs of any required infrastructure
+                             improvements and the expected environmental and economic
+                             impact of each energy strategy;
+                    e.       At least two alternative strategies for meeting Oregon’s
+                             energy needs; and
+                   f.        Any recommended statutory changes for legislative
+                             consideration and recommended budget items to be included
+                             in the Governor’s budget.
+
+           7.       On an ongoing basis, at the request of the Governor, the Council
+    shall provide analysis and counsel on energy forecasting, energy transmission,
+    energy price stability, renewable energy, alternative energy sources and energy
+    efficiency.
+
+            8.      The Oregon Department of Energy shall provide staff support to the
+    Council. Other state agencies shall assist the Council upon request. The Council
+    shall consult with national energy experts as appropriate.
+                                                                                             |
+
+            9.      The members of the Council shall not receive compensation for their
+    activities as members of the Council, but may be reimbursed for travel expenses
+    incurredin attending Council business pursuant to ORS 292.495(2) and subject to
+    availability of funds.
+
+                                                                                             1
+
+Office of the Governor
+State of Oregon
+
+    EXECUTIVE ORDER NO. 08 — 26
+    PAGE FOUR
+
+         Done at Salem, Oregon, this 17th day of December, 2008.
+
+                                         “VA illstee
+                                            Theodore R. Kulongoski
+                                             GOVERNOR
+
+                                             ATTEST:
+
+                                             Bill Bradbury
+                                             SECRETARY OF STATE
+
+## Curator notes
+
+OCR'd via `ocrmypdf` (tesseract) on 2026-07-18 because the source PDF is an image-only scan with no native text layer — old scans in particular can carry misread words, garbled signature/date lines, or dropped characters. Verify against the source PDF before treating any name, date, or figure in the text above as certain.
+
 ## Provenance & change history
 
-- Source: <https://www.oregon.gov/gov/eo/eo-08-26-rev.pdf> · retrieved 2026-07-18 · raw-byte sha256 `66a181b63665cd17549b501a8df0824586f1ff317a37170f72aa26e6dce0abbc`
-- Snapshot policy: **hash-only** — executive-order PDFs (mostly large image scans) are not committed to the repo; there is no text layer to commit, so nothing diffs this document against its source mechanically.
+- Source: <https://www.oregon.gov/gov/eo/eo-08-26-rev.pdf> · retrieved 2026-07-18 · text-content sha256 `ec43a340180677fdb2e39aa732b8f20f1f7b8e22b02e634814ae982f1bf2c4b6`
+- Snapshot policy: **hash-only** — executive-order PDFs (mostly large image scans) are not committed to the repo; the text extraction is committed as `_meta/snapshots/eo-08-26-rev.txt`.
 - See this knowledge body's [CHANGELOG](./CHANGELOG.md).

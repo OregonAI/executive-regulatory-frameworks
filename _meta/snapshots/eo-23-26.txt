@@ -1,0 +1,167 @@
+Office of the Governor
+State of Oregon
+
+    EXECUTIVE ORDER NO. 23-26
+
+
+    ESTABLISHING A STATE GOVERNMENT ARTIFICIAL
+    INTELLIGENCE ADVISORY COUNCIL
+
+
+    WHEREAS, artificial intelligence is a term coined in 1956; and
+
+
+    WHEREAS, generative artificial intelligence has the potential to bring significant
+    benefits and also raise questions and concerns regarding ethics, privacy,
+    notification, security, employment, education, and social change; and
+
+
+    WHEREAS, ensuring the safe and beneficial use of artificial intelligence has never
+    been more crucial; and
+
+
+    WHEREAS, the potential for artificial intelligence to replicate, codify, and
+    systematize discrimination and related impacts is extensive enough to have created
+    a partner industry of activists, advocacy groups, and organizations devoted to
+    shaping artificial intelligence policies to prevent further harm; and
+
+
+    WHEREAS, Oregon’s State Data Strategy explicitly centers equity and ethics at
+    the forefront of Oregon’s use of data and artificial intelligence systems; and
+
+
+    WHEREAS, the federal government released a Blueprint for Artificial Intelligence
+    Bill of Rights further centering the need for ethical and equitable principles,
+    practices, and guidelines for government artificial intelligence adoption in order to
+    protect individuals from harm; and
+
+
+    WHEREAS, the exponential growth of artificial intelligence technologies should
+    be documented, and the potential risks of their use should be acknowledged,
+    planned for, and mitigated; and
+
+
+    WHEREAS, maximizing potential benefits of ethical and effective artificial
+    intelligence implementation and adoption requires thoughtful governance and
+    standards to mitigate risk and address privacy, ethics, and equity; and
+
+    WHEREAS, a stable and thoughtful regulatory approach to the use of artificial
+    intelligence technologies in Oregon will continue to foster an environment for
+    innovation while protecting individual and civil rights;
+
+
+
+
+                                                                                            ER?
+                                                                                            Ht
+Office of the Governor
+State of Oregon
+
+    EXECUTIVE ORDER NO. 23-26
+    PAGE TWO
+
+
+    NOW, THEREFORE, I, TINA KOTEK, Governor of the State of Oregon, by
+    virtue of the power and authority vested in me by the Constitution and statutes of
+    the State of Oregon, do hereby issue this order to become effectively immediately:
+
+
+    IT IS HEREBY ORDERED THAT:
+        1.   The Governor’s Oregon State Government Artificial Intelligence Advisory
+             Council (the “Council’’) is established. The Council shall recommend an
+             action plan to guide awareness, education, and usage of artificial
+             intelligence in state government that aligns with the State’s policies, goals,
+             and values and supports public servants to deliver customer service more
+             efficiently and effectively. The recommended action plan shall include
+             concrete executive actions, policies, and investments needed to leverage
+             artificial intelligence while honoring transparency, privacy, and diversity,
+             equity, and inclusion.
+
+
+       2.    The Council shall consist of no more than fifteen (15) members. All
+             members of the Council must have a commitment to data ethics and data
+             equity. The members shall be selected as follows:
+
+                 a.   The President of the Senate shall appoint one member of the Oregon
+                      State Senate;
+                 b.   The Speaker of the House shall appoint one member of the Oregon
+                      House of Representatives;
+                      Oregon State Chief Information Officer;
+                 Ss
+                      Oregon State Chief Data Officer;
+                e.    Representative from the Governor’s Racial Justice Council,
+                      appointed by the Governor;
+                 f.   Department of Administrative Services Cultural Change Officer;
+                 g.   Executive Branch agency representative, appointed by the
+                      Governor;
+                h. The Governor shall appoint up to eight additional members. These
+                   members, at the discretion of the Governor, may include community
+                   organizations with demonstrated expertise in data justice; artificial
+                   intelligence experts from Oregon universities; and representatives
+                      from local governments.
+
+
+
+
+                                                                                              HER
+    Office of the Governor
+    State of Oregon
+
+        EXECUTIVE ORDER NO. 23-26
+        PAGE THREE
+
+
+          3.   The Governor shall designate the Oregon State Chief Information Officer as
+               Chair of the Council.
+
+
+          4.   A quorum for the Council meetings shall consist of a majority of the
+               appointed members. The Council shall strive to operate by consensus;
+               however, the Council may approve measures and recommendations based
+               on an affirmative vote of a majority of the quorum.
+
+
+          5.   The Council shall provide a recommended plan framework to the
+               Governor’s Office no Jater than six months from date of convening, and a
+               final recommended action plan no later than 12 months from convening.
+               The report shall include the findings and recommendations of the Council.
+
+|         6. The Council shall be staffed by Enterprise Information Services. In
+               addition, all state offices and agencies shall provide necessary support to the
+               Council.
+
+
+          7. The Council shall make specific recommendations for policy changes and
+             investments for consideration by the Governor, in order that:
+
+                  a.   Awareness of artificial intelligence (AI) is promoted to support state
+                       employees with information needed for their decision making; and
+                  b. The State has clear usage policies that outline the acceptable use of
+                     AI tools, providing transparency, uplifting diversity, equity, and
+                     inclusion, and protecting personally identifiable information and
+                       other sensitive information.
+
+                  Done at Salem, Oregon, this 28" day of November, 2023.
+
+
+
+
+                                                      Tina Kotek
+                                                      GOVERNOR
+
+
+
+
+                                                      LaVonne Griffin-Valade
+                                               ,
+
+
+
+
+                                                      SECRETARY OF STATE
+
+
+
+
+                                                                                                 Contales
+

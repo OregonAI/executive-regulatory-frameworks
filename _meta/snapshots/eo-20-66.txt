@@ -1,0 +1,820 @@
+Office of the Governor
+State of Oregon
+
+    EXECUTIVE ORDER NO. 20-66
+
+    RISK AND SAFETY FRAMEWORK: COUNTY-BY-COUNTY METRICS-
+    BASED APPROACH TO CONTROLLING COVID-19 TRANSMISSION TO
+    CONSERVE HOSPITAL CAPACITY AND PROTECT HUMAN HEALTH
+    AND HUMAN LIVES
+
+    Since January 2020, the State of Oregon has been engaged in responding to the
+    public health threat posed by the novel infectious coronavirus (COVID-19). As the
+    threat escalated, the State’s response elevated to meet the threat. On March 8,
+    2020, I declared a state of emergency pursuant to ORS 401.165 et seq., and
+    directed certain immediate response actions. Thereafter, the World Health
+    Organization declared that the COVID-19 outbreak is a global pandemic, and the
+    President of the United States declared the COVID-19 outbreak a national
+    emergency.
+
+
+
+    During March and April 2020, as COVID-19 continued to spread around the world,
+    I took a series of actions aimed at slowing the spread of the virus, and to mitigate
+    the public health and economic impacts of the pandemic. On March 23, 2020, I
+    ordered Oregonians to “Stay Home, Save Lives,” directing individuals to stay home
+    to the greatest extent possible, ordering the closure of specified retail businesses,
+    requiring physical distancing measures for other public and private facilities, and
+    imposing requirements for outdoor areas and licensed childcare.
+
+    Those actions helped prevent and control the spread of COVID-19 in Oregon, and
+    increased the state’s preparedness to live with this virus until a vaccine or cure is
+    widely available. Following the success of these early measures, in late April and
+    early May 2020, I began to take steps to ease the restrictions that had been imposed
+    in March and April. I signed executive orders directing the state to begin a data-
+    driven, phased reopening.
+
+    This reopening process has been gradual and cautious, and has not been linear. In
+    response to rising case numbers during the summer, I imposed additional measures,
+    including face-covering requirements for individuals. Outbreaks and community
+    spread in certain counties also have required us to reimpose restrictions at times, to
+    maintain public health and safety. Even before the current surge in cases, it was
+    clear that continued work was necessary to bring transmission levels down to levels
+    that allow K-12 schools across the state to reopen for in-person instruction, among
+    other critical priorities.
+
+    Over the past nine months, due to these measures and the collective sacrifices and
+    hard work of Oregonians, Oregon has fared better than many other states when it
+    comes to the health impacts of COVID-19. Both our case numbers and our fatality
+    rate have been lower than the national average. This has real impacts. Put simply,
+    the protective measures we have implemented, combined with the hard work and
+    sacrifice of Oregonians, have saved lives.
+
+    However, this pandemic remains very dangerous even in Oregon. As of today,
+    there have been at least 78,160 cases and 953 deaths in Oregon, with more than
+    13,000,000 cases and more than 269,000 deaths from COVID-19 nationwide.
+
+
+
+
+                                                                                             Contains
+                                                                                             Recycled
+Office of the Governor
+State of Oregon
+
+    EXECUTIVE ORDER NO. 20-66
+    PAGE TWO
+
+
+
+    And right now, in Oregon, like the rest of the country, new cases of COVID-19 are
+    spiking at an alarming rate, as we enter cold and flu season, as the weather turns
+    and grows colder, and as Oregonians spend more time indoors. We have gone
+    from seeing around 200-300 cases a day in September, to more than 1,000 cases a
+    day in November. These cases are occurring in communities around the state. Test
+    positivity rates are increasing sharply as well, an indication that COVID-19 is
+    widespread in our communities. Additionally, the holiday season gives further
+    cause for concern. Our history with this virus is such that after each holiday so far,
+    we have experienced a spike in cases. Given the surge we are in right now, a
+    further spike could be devastating.
+
+    The situation is truly dire.
+
+    As a result, our hospitals have been sounding the alarm. Hospital census due to
+    COVID-19 patients needing hospitalization is growing rapidly across most of the
+    state. Hospitals have started to utilize tools to maximize patient access to hospital
+    beds, but the tools are not infinite. Hospitals across the state have voluntarily
+    begun to reduce some surgeries to preserve beds and staff capacity. This is not just
+    happening in Oregon. The dreaded winter surge is here. Infection records are
+    being set in states across the country. This means we cannot look to other states to
+    share their staffing and hospital beds because they too are experiencing the surge.
+
+    The cycle of this virus is such that if we are seeing case rates topping 1,000 per day
+    now—and anticipating increased transmission over the holidays—that means our
+    hospitals are headed for very dark days ahead. Actions taken now will help prevent
+    lives from being lost—not just from COVID-19, but from other diseases or
+    accidents that lead people to need hospital-level care, which they would not be able
+    to get if hospital beds and hospital staff are fully occupied with COVID-19
+    patients.
+
+    We are all buoyed by the hopeful news regarding COVID-19 vaccines, and hopeful
+    that distribution of one or more vaccines against COVID-19 may begin in the not-
+    too-distant future. However, unfortunately, as federal, state, and private sector
+    professionals have long advised, distribution of those vaccines, and the vaccines’
+    ability to bring community spread down to acceptable levels, will take time.
+
+    Put simply, despite hopeful news on the vaccine front, it is clear that we will still be
+    living with COVID-19 for some time. In order to save lives and protect human
+    health, the state must continue its efforts to control COVID-19 using the basic
+    mitigation measures that have defined this pandemic: wearing a face covering,
+    keeping physical distance, washing hands, avoiding touching our face.
+
+
+
+
+                                                                                               Contains
+                                                                                               Materials
+Office of the Governor
+State of Oregon
+
+    EXECUTIVE ORDER NO. 20-66
+    PAGE THREE
+
+    This Executive Order sets forth the framework for using data-driven indicators of
+    disease spread to guide measures to reduce risk from COVID-19. That is, in
+    counties where disease spread is higher, more restrictive measures will need to be
+    implemented. In counties where disease spread is lower, measures may be eased.
+    The degree of protective measures in the community will be tied directly to the
+    spread of COVID-19 in the community, and may increase or decrease periodically,
+    as spread within the county increases or decreases. It is important to note,
+    however, that there is no zero-risk category.
+
+    This is not forever. It is just for now. By continuing to make sacrifices in the near
+    term to protect our friends, families, neighbors, and fellow Oregonians, we can help
+    ensure no one is missing when we gather around our dining room tables and in
+    public spaces in the future. There are no shortcuts in this pandemic. But we will
+    get through it the same way we have so far: together.
+
+    NOW THEREFORE, IT IS HEREBY DIRECTED AND ORDERED THAT:
+
+    Pursuant to ORS 401.168, ORS 401.175, ORS 401.188, ORS 433.441, and
+    ORS 401.035, I am ordering the following:
+
+        1. Replacing Executive Orders 20-27 and 20-65. As of the effective date of
+           this Executive Order, Executive Orders 20-27 and 20-65 are rescinded, and
+            replaced by the directives in this Executive Order.
+
+
+       2.   Oregon Health Authority (OHA) to issue guidance for the public,
+            employers, and sectors. Throughout this pandemic, Oregon’s response has
+            shifted as conditions on the ground have shifted, and as emerging science
+            and data have given us greater clarity regarding the best ways to manage
+            this pandemic. Maintaining the flexibility to nimbly adjust as conditions
+            and knowledge change is critical to an effective emergency response.
+            Accordingly:
+
+
+            a.   I delegate to OHA the authority to develop and issue, and from time to
+                 time revise, binding guidance for the public, for employers, and for
+                 particular sectors of the economy, to implement the directives of this
+                 Executive Order. OHA guidance may also provide definitions,
+                 clarifications, or needed modifications to the directives in this Executive
+                 Order, and may identify certain business types, the operation of which is
+                 prohibited during this emergency. The Governor will approve OHA
+                 guidance before it is issued. Upon approval, the OHA guidance will
+
+
+
+
+                                                                                               Contains
+Office of the Governor
+State of Oregon
+
+    EXECUTIVE ORDER NO. 20-66
+    PAGE FOUR
+
+
+
+                become part of the directives of this Executive Order and will be
+                published online on Governor Brown's website
+                (https://govstatus.egov.com/or-covid-19/) and the OHA website
+                (https://govstatus.egov.com/OR-OHA-COVID-19).
+
+
+           b.   As described more fully in paragraph 10 of this Executive Order, once
+                approved by the Governor and published, guidance issued to implement
+                this Executive Order is enforceable to the same extent this Executive
+                Order is enforceable.
+
+
+           c.   In order to continue to control the spread and risk from COIVD-19 in
+                Oregon, individuals, businesses, and other covered entities are directed
+                to comply with applicable OHA guidance issued under the authority of
+                this Executive Order.
+
+
+           d.   Any guidance previously issued under the authority of Executive Orders
+                20-27 or 20-65 continues under the authority of this Executive Order
+                unless and until that guidance is rescinded or modified by OHA or the
+                issuing agency.
+
+
+      3.   Risk Level Metrics.
+
+
+                a.   Establishing Risk Level Metrics.
+
+
+                         i.   Using the procedure described in paragraph 2 of this
+                              Executive Order, OHA is directed to develop and, upon
+                              approval by the Governor, publish Risk Level Metrics to
+                              systematically measure and identify, on a county-by-county
+                              basis, when counties are experiencing “Lower Risk,”
+                              “Moderate Risk,” “High Risk,” and “Extreme Risk” from
+                              COVID-19 (collectively, “Risk Levels”).
+
+
+                        ii.   These Risk Level Metrics shall consider indicators of disease
+                              spread, which may include case rates and percent positivity.
+                              The Risk Level Metrics may also consider factors such as
+                              hospital capacity, public health response and response
+                              capacity, and impact on communities disproportionately
+
+
+
+
+                                                                                              Contains
+                                                                                              Recycled
+Office of the Governor
+State of Oregon
+
+
+
+    EXECUTIVE ORDER NO. 20-66
+    PAGE FIVE
+
+
+                            impacted, or such other measures as OHA in its judgment, in
+                            consultation with the Governor, may determine best measure
+                            a county’s Risk Level.
+
+
+                     iii. These Risk Level Metrics may be revised from time to time,
+                            via the procedure described in paragraph 2 of this Executive
+                            Order, and may identify additional Risk Levels beyond the
+                            four identified above.
+
+
+              b.   Determining counties’ Risk Level.
+
+
+                       i.   OHA is directed to regularly determine and publish which
+                            Risk Level each county falls into, based on the Risk Level
+                            Metrics, so counties, and the businesses, individuals, and
+                            other entities within those counties, may identify which Risk
+                            Level they fall into, and what restrictions apply, at any given
+                            time.
+
+
+                      ii.   OHA’s methodology for periodically determining and
+                            publishing which Risk Level a county falls into may use a
+                            “waiting period” before moving counties up or down a Risk
+                            Level, to confirm that changing case rates or test positivity
+                            are a stable trend, rather than an anomaly.
+
+
+                     iii. A county may request to stay at a higher Risk Level on the
+                          Risk Level Metrics, even when eligible to move to a lower
+                            Risk Level.
+
+
+                      iv.   A county's current Risk Level is as determined by OHA for
+                            purposes of this Executive Order and guidance issued under
+                            the authority of this Executive Order.
+
+
+      4.   Sector Guidance. Using the procedure described in paragraph 2 of this
+           Executive Order, OHA is directed to do the following:
+
+
+
+
+                                                                                              Recycled
+Office of the Governor
+State of Oregon
+
+    EXECUTIVE ORDER NO. 20-66
+    PAGE SIX
+
+
+
+           a.   Content of sector guidance.
+
+
+                    i.   OHA is directed to issue guidance that defines and sets
+                         safety measures, operational limitations, and capacity limits
+                         for different sectors of the economy, to control the spread
+                         and risk from COVID-19. Operational limitations may
+                         include, but are not limited to, closure of certain activities.
+
+
+                   ii.   These safety measures, operational limitations, and capacity
+                         limits may be tied to, implemented by reference to, and
+                         depend on, the Risk Level Metrics and county Risk Levels
+                         described in paragraph 3, above. That is, where Risk Levels
+                         are higher, safety measures, capacity limits or operational
+                         limitations may be more restrictive.
+
+
+                  iii.   In issuing the guidance that defines and sets these safety
+                         measures, operational limitations, and capacity limits, OHA
+                         shall generally be guided by science and data regarding risk,
+                         including but not limited to the general principles for
+                         fighting the virus that OHA has identified, or may identify in
+                         the future, including but not limited to:
+
+
+                             1.   That outdoor activity is safer than indoor activity;
+
+
+                             2.   That good ventilation is better than poor ventilation;
+
+
+                             3.   That always wearing masks when around others
+                                  outside your household protects you and those around
+                                  you;
+
+
+                             4.   That keeping at least six feet from others outside your
+                                  household helps prevent the spread of the disease;
+
+
+                             5.   That we should limit the number of people we have
+                                  contact with—within six feet and in the same space;
+
+
+
+
+                                                                                            Contains
+                                                                                            Recycled
+Office of the Governor
+State of Oregon
+
+    EXECUTIVE ORDER NO. 20-66
+    PAGE SEVEN
+
+
+
+                              6.   That we should limit the density indoors and in
+                                   confined outdoor spaces or those with shared indoor
+                                   facilities;
+
+
+                              7.   That we should limit the amount of time you are with
+                                   others outside your household; and
+
+
+                              8.   That we may need additional measures to protect
+                                   those who are most vulnerable.
+
+
+           b.   Enumeration of sectors. I direct OHA to issue sector guidance
+                defining, and setting safety measures, operational limitations, and
+                capacity limits, for the following sectors or categories of activities:
+
+
+                     i.   Eating and drinking establishments.
+
+
+                    ii.   Indoor Recreation and Fitness Establishments, including but
+                          not limited to indoor gyms, indoor fitness organizations,
+                          indoor recreational sports, indoor pools, indoor K-12 sports,
+                          indoor collegiate sports, indoor personal training, and indoor
+                          dance.
+
+
+                   iii.   Indoor Entertainment Establishments, including but not
+                          limited to aquariums, indoor theaters/arenas/concert halls,
+                          indoor gardens, indoor museums, indoor entertainment
+                          activities of any kind, and indoor event spaces.
+
+
+                   iv.    Retail Establishments, including but not limited to farmers’
+                          markets, grocery stores, warehouse clubs, wholesale clubs,
+                          convenience stores and pharmacies.
+
+
+                    v.    Indoor and Outdoor Shopping Centers/Malls.
+
+
+                   vi.    Faith Institutions,    Funeral Homes, Mortuaries, and
+                          Cemeteries.
+
+
+
+
+                                                                                           Contains
+                                                                                           Recycled
+Office of the Governor
+State of Oregon
+
+    EXECUTIVE ORDER NO. 20-66
+    PAGE EIGHT
+
+
+
+                  vii.   Outdoor Recreation and Fitness Establishments, including
+                         but not limited to outdoor gyms, outdoor fitness
+                         organizations, outdoor recreational sports, outdoor pools,
+                         outdoor parks and hiking trails, outdoor campsites, outdoor
+                         K-12 sports, outdoor collegiate sports, outdoor personal
+                         training, and outdoor dance.
+
+
+                 viii.   Outdoor Entertainment Establishments, including but not
+                         limited to zoos, outdoor gardens, outdoor aquariums, outdoor
+                         theaters, outdoor stadiums, outdoor event spaces, outdoor
+                         arenas, outdoor concert halls, and outdoor entertainment
+                         activities of any kind.
+
+
+                   ix.   Youth programs, including but not limited to camps and
+                         programs operated by a political subdivision of the state or
+                         governmental agency that would otherwise be exempt from
+                         licensure.
+
+
+                   x.    Personal Services, including but not limited to barber shops,
+                         hair salons, esthetician practices, medical spas, facial spas
+                         and day spas, non-medical massage therapy services, nail
+                         salons, tanning salons, and tattoo/piercing parlors.
+
+
+                   xi.   Drive-in operations, including but not limited to drive-in
+                         movie theatres and viewing experiences from a personal
+                         vehicle.
+
+
+                  xii.   Other sectors or categories of activities as OHA, in
+                         consultation with the Governor, may determine require
+                         sector-specific guidance.
+
+
+           c.   Compliance with OHA Guidance. Businesses, non-profits, and
+                other sectors must at all times be aware of the Risk Level in the
+                counties where they operate and comply with the requirements
+                applicable to those Risk Levels established in OHA guidance.
+
+
+
+
+                                                                                         Contains
+Office of the Governor
+State of Oregon
+
+    EXECUTIVE ORDER NO. 20-66
+    PAGE NINE
+
+
+
+             d.   Sectors without specific prohibitions may operate, provided they
+                  comply with any applicable OHA guidance, including but not
+                  limited to applicable sector-specific guidance, the guidance for
+                  employers, and the face coverings guidance.
+
+
+      5. Individual Guidance. Using the procedure described in paragraph 2 of this
+         Executive Order, as part of or in addition to the sector guidance referenced
+         in paragraph 4 of this Executive Order, OHA may from time to time issue
+         or amend guidance establishing general requirements that individual
+         Oregonians must comply with regardless of setting to control the spread and
+         risk from COVID-19. This individual guidance may be tied to,
+         implemented by reference to, and depend on, the Risk Level Metrics
+         described in paragraph 3 of this Executive Order. Areas where OHA may,
+         with the approval of the Governor, issue individual guidance include, but
+         are not limited to:
+
+
+             a.   Requirements regarding face coverings;
+
+
+             b.   Requirements regarding physical distancing;
+
+
+             c.   Limitations and safety requirements for social and at-home
+                  gatherings;
+
+
+             d.   Limitations on indoor or outdoor activities not otherwise
+                  categorized;
+
+
+             e.   Limitations and safety requirements for travel; and
+
+
+             f.   Requirements regarding COVID-19 related isolation and quarantine.
+
+
+      6. Workplaces with offices in Oregon. While COVID-19 is spreading in a
+         community, telework, when it is possible, helps to protect a business’
+         employees and their families and other close contacts, and also helps to
+         protect others who are unable to telework, by helping to keep community
+         spread lower. Although utilizing telework options to the extent possible is
+         recommended in all Risk Levels during this pandemic, requirements around
+         telework will vary based on the Risk Level where the county is located.
+
+
+
+
+                                                                                        Recycled
+Office of the Governor
+State of Oregon
+
+    EXECUTIVE ORDER NO. 20-66
+    PAGE TEN
+
+
+
+           Namely, all businesses and nonprofit entities with offices in Oregon, except
+           those expressly exempted in paragraph 8, below, must comply with the
+           following:
+
+
+              a.   When a county is at Extreme Risk: All businesses and non-profit
+                   entities with offices in that county shall facilitate telework and
+                   work-at-home by employees, to the maximum extent
+                   possible. Work in offices is prohibited whenever telework and
+                   work-at-home options are available, in light of position duties,
+                   availability of teleworking equipment, and network adequacy.
+
+
+              b.   When a county is at High or Moderate Risk: All businesses and
+                   non-profit entities with offices in that county are strongly
+                   recommended to facilitate telework and work-at-home by
+                   employees, to the maximum extent possible. It is strongly
+                   recommended that work in offices be avoided whenever telework
+                   and work-at-home options are available, in light of position duties,
+                   availability of teleworking equipment, and network adequacy.
+
+
+              c.   When a county is at Lower Risk: Businesses and non-profit entities
+                   with offices in that county may make limited return to work
+                   available. Businesses and non-profits are encouraged to consider
+                   continuing to make telework and work-at-home options are
+                   available.
+
+
+              d.   For all Risk Levels: Businesses and non-profit entities with offices
+                   in Oregon must comply with any applicable OHA guidance,
+                   including but not limited to applicable sector-specific guidance, the
+                   guidance for employers, and the face coverings guidance.
+
+
+      7.   Recommendations.
+
+
+              a.   Remote, drive-through, and outdoor options encouraged. For all
+                   activities allowed during the effective dates of this Executive Order,
+                   individuals, families, businesses, event organizers, and faith leaders
+                   are strongly encouraged to consider remote, drive-through, curbside,
+
+
+
+
+                                                                                            Contains
+                                                                                            Recycled
+Office of the Governor
+State of Oregon
+
+    EXECUTIVE ORDER NO. 20-66
+    PAGE ELEVEN
+
+
+
+                   delivery and outdoor options, or canceling or postponing the
+                   activity.
+
+
+              b.   OHA recommendations. In addition to the mandatory OHA
+                   guidance described in this Executive Order, OHA may, from time to
+                   time, issue or amend non-mandatory recommendations or
+                   advisories. Such recommendations may be included in OHA
+                   guidance, or may be issued separately, but in either case will be
+                   clearly designated as recommendations, rather than requirements.
+
+
+      8.   Exceptions. The settings listed below are, to the extent stated below,
+           exempt from the requirements of this Executive Order.
+
+
+              a.   Higher education, K-12 schools, childcare. Higher education
+                   institutions shall continue to comply with Executive Order 20-28,
+                   including as extended or modified by further Executive Orders, and
+                   any guidance from the Higher Education Coordinating Commission.
+                   Childcare facilities shall continue to comply with Executive Order
+                   20-19, including as modified by further Executive Orders, and any
+                   guidance from the Department of Education, Early Learning
+                   Division, Office of Child Care. K-12 schools continue to be comply
+                   with Executive Order 20-29, including as extended or modified by
+                   further Executive Orders, and any guidance from the Department of
+                   Education or OHA. Settings governed by the Executive Orders
+                   listed above in this subparagraph 8(a) are exempt from the
+                   requirements of this Executive Order.
+
+
+              b.   State executive branch buildings and operations. I delegate to the
+                   Director of the Department of Administrative Services (DAS) the
+                   authority to issue, and from time to time revise, binding guidance to
+                   help control the spread of COVID-19 in state executive branch
+                   buildings and operations. That guidance is enforceable to the same
+                   extent this Executive Order is enforceable. State executive branch
+                   buildings and operations are otherwise exempt from the
+                   requirements of this Executive Order, provided they are operating in
+                   compliance with the DAS guidance.
+
+
+
+
+                                                                                           Contains
+                                                                                           Recycled
+                                                                                           Materials
+Office of the Governor
+State of Oregon
+
+    EXECUTIVE ORDER NO. 20-66
+    PAGE TWELVE
+
+
+
+           c.   Local governments. Local government buildings and operations are
+                exempt from the requirements of Paragraph 6 of this executive order
+                (workplaces with offices in Oregon), but must otherwise comply
+                with any applicable requirements of this Executive Order, the Risk
+                Level Metrics, and OHA guidance issued under the authority of this
+                Executive Order.
+
+
+           d.   Judicial branch, legislative branch, federal government, and tribal
+                governments. This Executive Order, and any guidance issued under
+                the authority of this Executive Order, does not apply to offices and
+                buildings owned or occupied by the state legislative and judicial
+                branches, federal government, and tribal governments, or to the
+                governmental operations of those entities. It is my hope and
+                expectation that these entities will continue to maintain, or adopt,
+                evidence-based rules or guidance to govern their own buildings and
+                operations that control the spread of COVID-19     in those settings.
+
+
+           e.   Licensed health care facilities and licensed residential facilities.
+                Health care facilities and residential facilities licensed by OHA and
+                DHS must continue to comply with licensing requirements and
+                applicable DHS and OHA guidance. Provided that they are in
+                compliance with licensing requirements and applicable guidance,
+                however, these entities are exempt from the other requirements of
+                this Executive Order.
+
+
+           f.   Shelters and emergency response. Emergency response activities,
+                shelter and meal programs serving vulnerable populations, and
+                encampments of people experiencing homelessness must comply
+                with applicable OHA guidance specifically for shelters and
+                emergency response activities. Provided that they are in compliance
+                with that guidance, emergency response activities, shelter and meal
+                programs serving vulnerable populations, and encampments of
+                people experiencing homelessness are exempt from the other
+                requirements of this Executive Order.
+
+
+
+
+                                                                                        Contains
+                                                                                        Recycled
+Office of the Governor
+State of Oregon
+
+    EXECUTIVE ORDER NO. 20-66
+    PAGE THIRTEEN
+
+
+
+             g.   Certain employer-provided housing. Settings covered by Executive
+                  Order 20-58 shall continue to comply with that Executive Order so
+                  long as it is in effect, and are exempt from the requirements of this
+                  Executive Order.
+
+
+      9. Legal Effect. This Executive Order is issued under the authority conferred
+         to the Governor by ORS 401.165 to 401.236 and ORS 401.035. Pursuant to
+         ORS 401.192(1), the directives set forth in this Executive Order shall have
+         the full force and effect of law, and any existing laws, ordinances, rules and
+         orders shall be inoperative to the extent they are inconsistent with this
+         exercise of the Governor’s emergency powers.
+
+
+      10. Enforcement.
+
+
+             a.   This Executive Order, the Risk Level Metrics, and any guidance
+                  issued by OHA or another state agency designated by the Governor
+                  to implement this Executive Order, are public health laws as defined
+                  in ORS 431A.005, and may be enforced as permitted under
+                  ORS 431A.010, including but not limited to enforcement via civil
+                  penalties as provided in that statute, which has a statutory maximum
+                  fine of $500 per day per violation.
+
+
+             b.   In addition to any other penalty that may be imposed under
+                  applicable laws, any person, business, or entity found to be in
+                  violation of this Executive Order, the Risk Level Metrics, or any
+                  guidance issued by OHA or other state agencies to implement this
+                  Executive Order, is subject to the penalties described in
+                  ORS 401.990, in particular, that any person knowingly violating this
+                  Executive Order shall, upon conviction thereof, be guilty of a Class
+                  C misdemeanor, which is punishable by up to 30 days in jail or a
+                  fine of $1,250 or both.
+
+
+             c.   I direct other state agencies with regulatory enforcement authority,
+                  including but not limited to Oregon Occupational Safety and Health
+                  (Oregon OSHA) and the Oregon Liquor Control Commission, to
+                  continue their efforts to protect the lives and health of Oregonians
+                  by enforcing, under existing civil and administrative enforcement
+
+
+
+
+                                                                                          Contains
+                                                                                          Recycled
+Office of the Governor
+State of Oregon
+
+
+
+    EXECUTIVE ORDER NO. 20-66
+    PAGE FOURTEEN
+
+
+                  authorities, the directives in this Executive Order, the Risk Level
+                  Metrics, and any guidance issued by OHA or other state agencies to
+                  implement this Executive Order.
+
+
+             d.   I direct the Superintendent of the Oregon State Police to coordinate
+                  with law enforcement agencies throughout the state to enforce the
+                  directives of this Executive Order, the Risk Level Metrics, or any
+                  guidance issued by OHA or other state agencies to implement this
+                  Executive Order, as appropriate. It is my expectation that law
+                  enforcement agencies will primarily focus on referral to civil
+                  enforcement authorities, and will reserve criminal citations for
+                  willful and flagrant violations of this order.
+
+
+             e.   These enumerated enforcement mechanisms are in addition to any
+                  other private rights of action or other enforcement mechanism that
+                  may exist in statute or at common law, or under federal law.
+
+
+             f.   Businesses and other entities that fail to comply with the applicable
+                  requirements of this Executive Order, the Risk Level Metrics, or any
+                  guidance issued by OHA or other state agencies to implement this
+                  Executive Order, may be closed until they demonstrate compliance.
+
+
+      11. Severability. If any section, subsection, paragraph, subparagraph,
+         sentence, clause, phrase, or word of this Executive Order, or any guidance
+         issued under the authority of this Executive Order, is for any reason held to
+         be invalid, such holding shall not affect the validity of the remaining
+         portions of this Order or guidance issued under the authority of this
+         Executive Order.
+
+
+      12. Discretion; No Right of Action. Any decision made by the Governor
+         pursuant to this Executive Order is made at her sole discretion. This
+         Executive Order is not intended to create, and does not create, any
+         individual right, privilege, or benefit, whether substantive or procedural,
+         enforceable at law or in equity by any party against the State of Oregon, its
+         agencies, departments, or any officers, employees, or agents thereof.
+
+
+
+
+                                                                                          Contains
+                                                                                          Recycled
+Office of the Governor
+State of Oregon
+
+   EXECUTIVE ORDER NO. 20-66
+   PAGE FIFTEEN
+
+
+
+     13. Effective Date. This Executive Order is effective December 3, 2020 at
+        12:01 a.m., and remains in effect until terminated by the Governor.
+
+
+        Done at Salem, Oregon, this 2TM day of December, 2020.
+
+
+
+                                         Kit. Low
+                                                —
+                                       Kate Brown
+                                       GOVERNOR
+
+
+
+                                       ATTEST:
+
+
+
+
+                                           a) Coa
+                                       Bev Clarno
+                                       SECRETARY OF STATE
+
+
+
+
+                                                                                 Contains
+                                                                                 Recycled
+

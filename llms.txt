@@ -16,11 +16,11 @@
 
 ## Executive Orders
 
-- [Index](executive-orders/_index.md): 526 executive orders, 2003–2026, from the Governor's listing of record; 20 carry verbatim full text, the rest are image-only scans (metadata + official source link). Orders are immutable — check the index or `_meta/catalog/eo.yml` for whether an order has in-repo text before quoting; most sources are image-only scans (metadata + official link only).
+- [Index](executive-orders/_index.md): 526 executive orders, 2003–2026, from the Governor's listing of record; 499 carry verbatim full text, the rest are image-only scans (metadata + official source link). Orders are immutable — check the index or `_meta/catalog/eo.yml` for whether an order has in-repo text before quoting; most sources are image-only scans (metadata + official link only).
 
 ## DAS Policies
 
-- [Index](agencies/department-of-administrative-services/policies/_index.md): 119 documents (107 with verbatim full text). Mirrors the DAS policies listing of record (Facilities, General, Procurement, IT Assets/General/Security, and the full HR corpus).
+- [Index](agencies/department-of-administrative-services/policies/_index.md): 119 documents (110 with verbatim full text). Mirrors the DAS policies listing of record (Facilities, General, Procurement, IT Assets/General/Security, and the full HR corpus).
 - [DAS 107-004-052 — Cyber and Information Security](agencies/department-of-administrative-services/policies/das-107-004-052.md): the statewide security program policy — roles (State CISO, agency heads, users), enterprise security baseline, CSS assessments, offshoring prohibition. Companion procedure 107-004-052_PR in ../procedures/.
 - [Security cluster — 107-004-050 asset classification](agencies/department-of-administrative-services/policies/das-107-004-050.md): siblings 107-004-010 asset inventory · -051 removable media · -100 transporting assets · -110 acceptable use · -120 incident response · -140 privileged access · -150 cloud/hosted · -160 data governance.
 - [DAS 107-001-020 — Public Records Management](agencies/department-of-administrative-services/policies/das-107-001-020.md): retention, disposition, and public-records duties.

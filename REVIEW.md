@@ -4,7 +4,7 @@
 derived from ground truth in the repo (frontmatter, body markers, catalogs);
 resolve an item at its source and regenerate. CI fails if this file is stale.
 
-## Documents with NO machine verification — highest review priority (16)
+## Documents with NO machine verification — highest review priority (13)
 
 These carry `content_exception`: their sources are image-only scans or binary forms, so nothing diffs them against a snapshot. A human must check each against its `source_url`. Resolve by OCR + full-text migration, or confirm the summary and record review in the file.
 
@@ -20,10 +20,7 @@ These carry `content_exception`: their sources are image-only scans or binary fo
 - `agencies/department-of-administrative-services/policies/das-105-050-0004.md` — Source PDF has no extractable text layer (image-only scan); full text requires OCR + human verification.
 - `agencies/department-of-administrative-services/policies/das-105-050-0025.md` — Source PDF has no extractable text layer (image-only scan); full text requires OCR + human verification.
 - `agencies/department-of-administrative-services/policies/das-105-050-0030.md` — Source PDF has no extractable text layer (image-only scan); full text requires OCR + human verification.
-- `agencies/department-of-administrative-services/policies/das-107-004-051.md` — Source PDF is an image-only scan with no extractable text layer; summary transcribed by visual reading. Full text requires OCR + human verification.
-- `agencies/department-of-administrative-services/policies/das-107-004-053.md` — Source PDF has no extractable text layer (image-only scan); full text requires OCR + human verification.
-- `agencies/department-of-administrative-services/policies/das-107-004-100.md` — Source PDF is an image-only scan with no extractable text layer; summary transcribed by visual reading. Full text requires OCR + human verification.
-- `executive-orders/ (506 documents)` — image-only scans or unusable OCR layers — metadata stubs only; resolvable only by an OCR + human-verification pass; per-order detail in `_meta/catalog/eo.yml` (`text_layer` field)
+- `executive-orders/ (27 documents)` — image-only scans or unusable OCR layers — metadata stubs only; resolvable only by an OCR + human-verification pass; per-order detail in `_meta/catalog/eo.yml` (`text_layer` field)
 
 ## Explicit TODO markers (0)
 

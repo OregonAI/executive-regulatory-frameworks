@@ -25,6 +25,7 @@ maintainer: "@morficflux"
 relationships:
   implements: []
   implemented_by:
+    - eo-20-04
     - oar-125-246-0400
   references_external: []
   related: []
