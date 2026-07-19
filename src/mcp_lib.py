@@ -376,7 +376,7 @@ def selftest():
     check("normal doc returns body with disclaimer",
           "body" in r and r["disclaimer"] == DISCLAIMER and "## Full text" in r["body"])
 
-    r = get_document("eo-03-01")
+    r = get_document("eo-03-08")
     check("EO scan stub carries content_exception", bool(r.get("content_exception")))
 
     r = get_document("nonexistent-id-xyz")
