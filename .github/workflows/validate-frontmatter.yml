@@ -23,5 +23,9 @@ jobs:
         run: python3 src/build_llms.py --check
       - name: OAR frontmatter must match each rule's own structured lines
         run: python3 src/enrich_oar.py --check
+      - name: Agency overview must be current
+        run: python3 src/build_agency_index.py --check
+      - name: Agency profile engine selftest
+        run: python3 src/agency_profile.py --selftest
       - name: MCP query engine selftest
         run: python3 src/mcp_lib.py --selftest

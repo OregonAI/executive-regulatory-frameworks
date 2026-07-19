@@ -296,6 +296,16 @@ def _catalog_coverage() -> dict:
     return out
 
 
+def agency_profile(slug_or_query: str) -> dict:
+    """Merged agency profile (registry identity + curated governance/publication
+    context + derived corpus stats + update-group freshness). Thin wrapper over
+    src/agency_profile.py so the MCP layer stays one import away."""
+    import agency_profile as _ap
+    r = _ap.profile(slug_or_query)
+    r["disclaimer"] = DISCLAIMER
+    return r
+
+
 def corpus_overview() -> dict:
     con = ensure_index()
     by_type = dict(con.execute(
@@ -341,7 +351,10 @@ def corpus_overview() -> dict:
 def selftest():
     fails = []
 
+    n_checks = [0]
+
     def check(name, cond, detail=""):
+        n_checks[0] += 1
         print(("PASS " if cond else "FAIL ") + name + (f" — {detail}" if detail and not cond else ""))
         if not cond:
             fails.append(name)
@@ -385,9 +398,14 @@ def selftest():
     r = corpus_overview()
     check("overview counts docs", sum(r["documents_by_type"].values()) > 2000, str(r)[:200])
 
+    r = agency_profile("department-of-administrative-services")
+    check("agency profile merges curated + derived",
+          r["curated"]["governance"] == "executive_branch"
+          and isinstance(r["in_repo"], dict) and r["disclaimer"] == DISCLAIMER)
+
     if fails:
         sys.exit(f"selftest FAILED: {fails}")
-    print(f"selftest OK ({11} checks)")
+    print(f"selftest OK ({n_checks[0]} checks)")
 
 
 if __name__ == "__main__":

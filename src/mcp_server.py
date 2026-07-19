@@ -88,6 +88,20 @@ def corpus_overview() -> dict:
     return mcp_lib.corpus_overview()
 
 
+@mcp.tool()
+def agency_profile(slug_or_query: str) -> dict:
+    """Context ABOUT an agency's data, not the data itself: who the agency is (proper
+    name, OAR chapter, parent/sub-unit hierarchy), curated governance class
+    (executive_branch / semi_independent / constitutional_elected, with the citation
+    that supports it), where the agency publishes its policies (or that it doesn't),
+    what this corpus actually holds for it (doc counts, verbatim vs summary,
+    OCR-recovered counts, unrecoverable-scan exceptions), and when its sources were
+    last checked for updates. Accepts a registry slug or a name fragment
+    (e.g. 'administrative services', 'financial office'). Call this before relying
+    on an agency's documents so you know the data's provenance and gaps."""
+    return mcp_lib.agency_profile(slug_or_query)
+
+
 @mcp.resource("repo://llms.txt", name="Corpus index (llms.txt)",
               description="Curated master index of every document with guidance on "
                           "when to consult each.")

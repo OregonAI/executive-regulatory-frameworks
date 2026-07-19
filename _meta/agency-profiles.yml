@@ -1,0 +1,554 @@
+note: 'Curated context about each agency''s DATA, not the data itself: governance class (with a required
+  citation basis), where the agency publishes its policies (or that it doesn''t), and quality caveats.
+  Keyed by registry slug (_meta/catalog/agencies.yml); schema-validated (_meta/schema/agency-profile.schema.json).
+  Derived stats (doc counts, OCR counts, last-checked dates) are computed fresh by src/agency_profile.py
+  — never stored here. ''unclassified''/''unknown'' are honest defaults awaiting human curation; a classification
+  without a citation is an invented claim and the schema rejects it.'
+profiles:
+  appraiser-certification-and-licensure-board:
+    governance: unclassified
+    policies_published: unknown
+  board-of-chiropractic-examiners:
+    governance: unclassified
+    policies_published: unknown
+  board-of-examiners-for-engineering-and-land-surveying:
+    governance: unclassified
+    policies_published: unknown
+  board-of-examiners-for-speech-language-pathology-and-audiology:
+    governance: unclassified
+    policies_published: unknown
+  board-of-geologist-examiners:
+    governance: unclassified
+    policies_published: unknown
+  board-of-licensed-social-workers:
+    governance: unclassified
+    policies_published: unknown
+  board-of-massage-therapists:
+    governance: unclassified
+    policies_published: unknown
+  board-of-medical-imaging:
+    governance: unclassified
+    policies_published: unknown
+  board-of-nursing:
+    governance: unclassified
+    policies_published: unknown
+  board-of-optometry:
+    governance: unclassified
+    policies_published: unknown
+  board-of-parole-and-post-prison-supervision:
+    governance: unclassified
+    policies_published: unknown
+  board-of-pharmacy:
+    governance: unclassified
+    policies_published: unknown
+  bureau-of-labor-and-industries:
+    governance: unclassified
+    policies_published: unknown
+  chief-education-office:
+    governance: unclassified
+    policies_published: unknown
+  citizens-initiative-review-commission:
+    governance: unclassified
+    policies_published: unknown
+  columbia-river-gorge-commission:
+    governance: unclassified
+    policies_published: unknown
+  commission-for-the-blind:
+    governance: unclassified
+    policies_published: unknown
+  construction-contractors-board:
+    governance: unclassified
+    policies_published: unknown
+  department-of-administrative-services:
+    governance: executive_branch
+    governance_basis: ORS 184.305 (creates DAS); ORS 174.112 (executive department definition) — both
+      in-repo
+    policies_published: web
+    policies_location: https://www.oregon.gov/das/Pages/policies.aspx (+ policieshr.aspx) — SharePoint
+      listing of record, 14 category views; mirrored by the department-of-administrative-services-policies
+      update group
+    notes: Statewide policies binding executive-branch agencies. 9 pre-2010 policy PDFs are identical
+      blank-placeholder scans on the source site (unrecoverable; summary stubs in-repo); 3 policies carry
+      OCR-recovered text (see conversion_notes).
+  department-of-administrative-services-chief-financial-office:
+    governance: executive_branch
+    governance_basis: Sub-unit of DAS (ORS 184.305); OAR chapter 122 assigned per the agency registry
+    policies_published: web
+    policies_location: 'Oregon Accounting Manual: SharePoint listing behind oregon.gov/das/Financial/Acctng
+      (16 chapter views); mirrored by the oam update group'
+    notes: Issues the Oregon Accounting Manual (OAM) — statewide accounting policy/procedure.
+  department-of-administrative-services-chief-human-resources-office:
+    governance: executive_branch
+    governance_basis: Sub-unit of DAS (ORS 184.305); OAR chapter 105 assigned per the agency registry
+    policies_published: web
+    policies_location: State HR policies are part of the DAS policies listing (policieshr.aspx views);
+      OARs in chapter 105
+    notes: Statewide HR policy issuer (50-xxx and 105-xxx series).
+  department-of-administrative-services-office-of-the-state-chief-information-officer:
+    governance: executive_branch
+    governance_basis: Sub-unit of DAS (ORS 184.305); statutory duties in ORS 276A (in-repo); OAR chapter
+      128 assigned per the agency registry
+    policies_published: web
+    policies_location: 'EIS/CSS standards: oregon.gov/eis/cyber-security-services pages; security OARs
+      in chapter 128 division 30; statewide IT policies in the DAS 107-004-xxx series'
+    notes: State CIO / Enterprise Information Services. IT security authority rooted at ORS 276A.300.
+  department-of-agriculture:
+    governance: unclassified
+    policies_published: unknown
+  department-of-agriculture-oregon-albacore-commission:
+    governance: unclassified
+    policies_published: unknown
+  department-of-agriculture-oregon-alfalfa-seed-commission:
+    governance: unclassified
+    policies_published: unknown
+  department-of-agriculture-oregon-beef-council:
+    governance: unclassified
+    policies_published: unknown
+  department-of-agriculture-oregon-blueberry-commission:
+    governance: unclassified
+    policies_published: unknown
+  department-of-agriculture-oregon-clover-seed-commission:
+    governance: unclassified
+    policies_published: unknown
+  department-of-agriculture-oregon-dairy-products-commission:
+    governance: unclassified
+    policies_published: unknown
+  department-of-agriculture-oregon-dungeness-crab-commission:
+    governance: unclassified
+    policies_published: unknown
+  department-of-agriculture-oregon-fine-fescue-commission:
+    governance: unclassified
+    policies_published: unknown
+  department-of-agriculture-oregon-hazelnut-commission:
+    governance: unclassified
+    policies_published: unknown
+  department-of-agriculture-oregon-hop-commission:
+    governance: unclassified
+    policies_published: unknown
+  department-of-agriculture-oregon-invasive-species-council:
+    governance: unclassified
+    policies_published: unknown
+  department-of-agriculture-oregon-mint-commission:
+    governance: unclassified
+    policies_published: unknown
+  department-of-agriculture-oregon-potato-commission:
+    governance: unclassified
+    policies_published: unknown
+  department-of-agriculture-oregon-processed-vegetable-commission:
+    governance: unclassified
+    policies_published: unknown
+  department-of-agriculture-oregon-raspberry-and-blackberry-commission:
+    governance: unclassified
+    policies_published: unknown
+  department-of-agriculture-oregon-ryegrass-growers-seed-commission:
+    governance: unclassified
+    policies_published: unknown
+  department-of-agriculture-oregon-salmon-commission:
+    governance: unclassified
+    policies_published: unknown
+  department-of-agriculture-oregon-sheep-commission:
+    governance: unclassified
+    policies_published: unknown
+  department-of-agriculture-oregon-strawberry-commission:
+    governance: unclassified
+    policies_published: unknown
+  department-of-agriculture-oregon-sweet-cherry-commission:
+    governance: unclassified
+    policies_published: unknown
+  department-of-agriculture-oregon-tall-fescue-commission:
+    governance: unclassified
+    policies_published: unknown
+  department-of-agriculture-oregon-trawl-commission:
+    governance: unclassified
+    policies_published: unknown
+  department-of-agriculture-oregon-wheat-commission:
+    governance: unclassified
+    policies_published: unknown
+  department-of-consumer-and-business-services:
+    governance: unclassified
+    policies_published: unknown
+  department-of-consumer-and-business-services-building-codes-division:
+    governance: unclassified
+    policies_published: unknown
+  department-of-consumer-and-business-services-director-s-office:
+    governance: unclassified
+    policies_published: unknown
+  department-of-consumer-and-business-services-finance-and-securities-regulation:
+    governance: unclassified
+    policies_published: unknown
+  department-of-consumer-and-business-services-health-insurance-marketplace:
+    governance: unclassified
+    policies_published: unknown
+  department-of-consumer-and-business-services-insurance-regulation:
+    governance: unclassified
+    policies_published: unknown
+  department-of-consumer-and-business-services-oregon-occupational-safety-and-health-division:
+    governance: unclassified
+    policies_published: unknown
+  department-of-consumer-and-business-services-workers-compensation-board:
+    governance: unclassified
+    policies_published: unknown
+  department-of-consumer-and-business-services-workers-compensation-division:
+    governance: unclassified
+    policies_published: unknown
+  department-of-corrections:
+    governance: unclassified
+    policies_published: unknown
+  department-of-energy:
+    governance: unclassified
+    policies_published: unknown
+  department-of-energy-energy-facility-siting-council:
+    governance: unclassified
+    policies_published: unknown
+  department-of-environmental-quality:
+    governance: unclassified
+    policies_published: unknown
+  department-of-fish-and-wildlife:
+    governance: unclassified
+    policies_published: unknown
+  department-of-forestry:
+    governance: unclassified
+    policies_published: unknown
+  department-of-geology-and-mineral-industries:
+    governance: unclassified
+    policies_published: unknown
+  department-of-human-services:
+    governance: unclassified
+    policies_published: unknown
+  department-of-human-services-aging-and-people-with-disabilities-and-developmental-disabilities:
+    governance: unclassified
+    policies_published: unknown
+  department-of-human-services-child-welfare-programs:
+    governance: unclassified
+    policies_published: unknown
+  department-of-human-services-home-care-commission:
+    governance: unclassified
+    policies_published: unknown
+  department-of-human-services-self-sufficiency-programs:
+    governance: unclassified
+    policies_published: unknown
+  department-of-human-services-vocational-rehabilitation-services:
+    governance: unclassified
+    policies_published: unknown
+  department-of-justice:
+    governance: executive_branch
+    governance_basis: ORS 180.020 (Attorney General elected statewide — in-repo); office created by statute
+      (ORS ch. 180), not the constitution
+    policies_published: unknown
+    notes: Headed by the statewide-elected Attorney General; statutory (not constitutional) office, so
+      classed executive_branch — see basis.
+  department-of-public-safety-standards-and-training:
+    governance: unclassified
+    policies_published: unknown
+  department-of-revenue:
+    governance: unclassified
+    policies_published: unknown
+  department-of-state-lands:
+    governance: unclassified
+    policies_published: unknown
+  department-of-state-lands-south-slough-national-estuarine-research-reserve:
+    governance: unclassified
+    policies_published: unknown
+  department-of-state-police:
+    governance: unclassified
+    policies_published: unknown
+  department-of-state-police-office-of-state-fire-marshal:
+    governance: unclassified
+    policies_published: unknown
+  department-of-state-police-oregon-state-athletic-commission:
+    governance: unclassified
+    policies_published: unknown
+  department-of-transportation:
+    governance: unclassified
+    policies_published: unknown
+  department-of-transportation-driver-and-motor-vehicle-services-division:
+    governance: unclassified
+    policies_published: unknown
+  department-of-transportation-highway-division:
+    governance: unclassified
+    policies_published: unknown
+  department-of-transportation-motor-carrier-transportation-division:
+    governance: unclassified
+    policies_published: unknown
+  department-of-transportation-public-transit-division:
+    governance: unclassified
+    policies_published: unknown
+  department-of-transportation-rail-division:
+    governance: unclassified
+    policies_published: unknown
+  department-of-transportation-transportation-safety-division:
+    governance: unclassified
+    policies_published: unknown
+  department-of-veterans-affairs:
+    governance: unclassified
+    policies_published: unknown
+  eastern-oregon-border-economic-development-board:
+    governance: unclassified
+    policies_published: unknown
+  economic-recovery-review-council:
+    governance: unclassified
+    policies_published: unknown
+  employment-department:
+    governance: unclassified
+    policies_published: unknown
+  employment-relations-board:
+    governance: unclassified
+    policies_published: unknown
+  higher-education-coordinating-commission:
+    governance: unclassified
+    policies_published: unknown
+  higher-education-coordinating-commission-office-of-community-colleges-and-workforce-development:
+    governance: unclassified
+    policies_published: unknown
+  higher-education-coordinating-commission-office-of-degree-authorization:
+    governance: unclassified
+    policies_published: unknown
+  higher-education-coordinating-commission-office-of-student-access-and-completion:
+    governance: unclassified
+    policies_published: unknown
+  judicial-department:
+    governance: unclassified
+    policies_published: unknown
+  land-conservation-and-development-department:
+    governance: unclassified
+    policies_published: unknown
+  land-use-board-of-appeals:
+    governance: unclassified
+    policies_published: unknown
+  landscape-architect-board:
+    governance: unclassified
+    policies_published: unknown
+  landscape-contractors-board:
+    governance: unclassified
+    policies_published: unknown
+  legislative-administration-committee:
+    governance: unclassified
+    policies_published: unknown
+  long-term-care-ombudsman:
+    governance: unclassified
+    policies_published: unknown
+  mental-health-regulatory-agency:
+    governance: unclassified
+    policies_published: unknown
+  mental-health-regulatory-agency-oregon-board-of-licensed-professional-counselors-and-therapists:
+    governance: unclassified
+    policies_published: unknown
+  mental-health-regulatory-agency-oregon-board-of-psychology:
+    governance: unclassified
+    policies_published: unknown
+  mortuary-and-cemetery-board:
+    governance: unclassified
+    policies_published: unknown
+  occupational-therapy-licensing-board:
+    governance: unclassified
+    policies_published: unknown
+  oregon-529-savings-board:
+    governance: unclassified
+    policies_published: unknown
+  oregon-board-of-accountancy:
+    governance: unclassified
+    policies_published: unknown
+  oregon-board-of-dentistry:
+    governance: unclassified
+    policies_published: unknown
+  oregon-board-of-naturopathic-medicine:
+    governance: unclassified
+    policies_published: unknown
+  oregon-board-of-physical-therapy:
+    governance: unclassified
+    policies_published: unknown
+  oregon-business-development-department:
+    governance: unclassified
+    policies_published: unknown
+  oregon-criminal-justice-commission:
+    governance: unclassified
+    policies_published: unknown
+  oregon-department-of-aviation:
+    governance: unclassified
+    policies_published: unknown
+  oregon-department-of-education:
+    governance: unclassified
+    policies_published: unknown
+  oregon-department-of-education-early-learning-division:
+    governance: unclassified
+    policies_published: unknown
+  oregon-department-of-education-fair-dismissal-appeals-board:
+    governance: unclassified
+    policies_published: unknown
+  oregon-department-of-education-youth-development-division:
+    governance: unclassified
+    policies_published: unknown
+  oregon-facilities-authority:
+    governance: unclassified
+    policies_published: unknown
+  oregon-film-and-video-office:
+    governance: unclassified
+    policies_published: unknown
+  oregon-forest-resources-institute:
+    governance: unclassified
+    policies_published: unknown
+  oregon-government-ethics-commission:
+    governance: unclassified
+    policies_published: unknown
+  oregon-health-authority:
+    governance: unclassified
+    policies_published: unknown
+  oregon-health-authority-health-licensing-office:
+    governance: unclassified
+    policies_published: unknown
+  oregon-health-authority-health-licensing-office-behavior-analysis-regulatory-board:
+    governance: unclassified
+    policies_published: unknown
+  oregon-health-authority-health-licensing-office-board-of-certified-advanced-estheticians:
+    governance: unclassified
+    policies_published: unknown
+  oregon-health-authority-health-licensing-office-board-of-cosmetology:
+    governance: unclassified
+    policies_published: unknown
+  oregon-health-authority-health-licensing-office-board-of-direct-entry-midwifery:
+    governance: unclassified
+    policies_published: unknown
+  oregon-health-authority-health-licensing-office-board-of-licensed-dietitians:
+    governance: unclassified
+    policies_published: unknown
+  oregon-health-authority-health-licensing-office-environmental-health-registration-board:
+    governance: unclassified
+    policies_published: unknown
+  oregon-health-authority-health-licensing-office-long-term-care-administrators-board:
+    governance: unclassified
+    policies_published: unknown
+  oregon-health-authority-health-policy-and-analytics:
+    governance: unclassified
+    policies_published: unknown
+  oregon-health-authority-health-systems-division-addiction-services:
+    governance: unclassified
+    policies_published: unknown
+  oregon-health-authority-health-systems-division-behavioral-health-services:
+    governance: unclassified
+    policies_published: unknown
+  oregon-health-authority-health-systems-division-medical-assistance-programs:
+    governance: unclassified
+    policies_published: unknown
+  oregon-health-authority-oregon-prescription-drug-program:
+    governance: unclassified
+    policies_published: unknown
+  oregon-health-authority-public-employees-benefit-board:
+    governance: unclassified
+    policies_published: unknown
+  oregon-health-authority-public-health-division:
+    governance: unclassified
+    policies_published: unknown
+  oregon-housing-and-community-services-department:
+    governance: unclassified
+    policies_published: unknown
+  oregon-investment-council:
+    governance: unclassified
+    policies_published: unknown
+  oregon-liquor-control-commission:
+    governance: unclassified
+    policies_published: unknown
+  oregon-medical-board:
+    governance: unclassified
+    policies_published: unknown
+  oregon-military-department:
+    governance: unclassified
+    policies_published: unknown
+  oregon-military-department-office-of-emergency-management:
+    governance: unclassified
+    policies_published: unknown
+  oregon-patient-safety-commission:
+    governance: unclassified
+    policies_published: unknown
+  oregon-public-employees-retirement-system:
+    governance: unclassified
+    policies_published: unknown
+  oregon-racing-commission:
+    governance: unclassified
+    policies_published: unknown
+  oregon-state-library:
+    governance: unclassified
+    policies_published: unknown
+  oregon-state-lottery:
+    governance: unclassified
+    policies_published: unknown
+  oregon-state-marine-board:
+    governance: unclassified
+    policies_published: unknown
+  oregon-state-treasury:
+    governance: constitutional_elected
+    governance_basis: Or. Const. Art. VI, §1 (office established); ORS ch. 178 (duties — in-repo)
+    policies_published: unknown
+    notes: Constitutional statewide elected office; excluded from several DAS statewide policies (see
+      ORS 276A.303).
+  oregon-tourism-commission:
+    governance: unclassified
+    policies_published: unknown
+  oregon-utility-notification-center:
+    governance: unclassified
+    policies_published: unknown
+  oregon-watershed-enhancement-board:
+    governance: unclassified
+    policies_published: unknown
+  oregon-watershed-enhancement-board-oregon-agricultural-heritage-program:
+    governance: unclassified
+    policies_published: unknown
+  oregon-wine-board:
+    governance: unclassified
+    policies_published: unknown
+  oregon-youth-authority:
+    governance: unclassified
+    policies_published: unknown
+  parks-and-recreation-department:
+    governance: unclassified
+    policies_published: unknown
+  psychiatric-security-review-board:
+    governance: unclassified
+    policies_published: unknown
+  public-utility-commission:
+    governance: unclassified
+    policies_published: unknown
+  public-utility-commission-oregon-board-of-maritime-pilots:
+    governance: unclassified
+    policies_published: unknown
+  real-estate-agency:
+    governance: unclassified
+    policies_published: unknown
+  secretary-of-state:
+    governance: constitutional_elected
+    governance_basis: Or. Const. Art. VI, §1 (office established); ORS ch. 177 (duties — in-repo)
+    policies_published: unknown
+    notes: Constitutional statewide elected office; excluded from several DAS statewide policies (see
+      ORS 276A.303).
+  secretary-of-state-archives-division:
+    governance: unclassified
+    policies_published: unknown
+  secretary-of-state-audits-division:
+    governance: unclassified
+    policies_published: unknown
+  secretary-of-state-business-services-division:
+    governance: unclassified
+    policies_published: unknown
+  secretary-of-state-corporation-division:
+    governance: unclassified
+    policies_published: unknown
+  secretary-of-state-elections-division:
+    governance: unclassified
+    policies_published: unknown
+  southern-oregon-university:
+    governance: unclassified
+    policies_published: unknown
+  state-board-of-architect-examiners:
+    governance: unclassified
+    policies_published: unknown
+  teacher-standards-and-practices-commission:
+    governance: unclassified
+    policies_published: unknown
+  travel-information-council:
+    governance: unclassified
+    policies_published: unknown
+  veterinary-medical-examining-board:
+    governance: unclassified
+    policies_published: unknown
+  water-resources-department:
+    governance: unclassified
+    policies_published: unknown

@@ -1,0 +1,50 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Agency profile (curated context about an agency's data, not the data itself)",
+  "type": "object",
+  "required": ["profiles"],
+  "properties": {
+    "note": { "type": "string" },
+    "profiles": {
+      "type": "object",
+      "description": "Keyed by registry slug (_meta/catalog/agencies.yml); validate_frontmatter.py rejects orphan keys and requires an entry for every agency with in-repo content",
+      "additionalProperties": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["governance", "policies_published"],
+        "properties": {
+          "governance": {
+            "enum": ["executive_branch", "semi_independent", "constitutional_elected", "unclassified"],
+            "description": "Governance class. Anything but 'unclassified' REQUIRES governance_basis — a classification without a citation is an invented claim."
+          },
+          "governance_basis": {
+            "type": "string",
+            "description": "Citation supporting the classification (e.g. 'ORS 184.305 (creates DAS); ORS 174.112' or 'Or. Const. Art. VI, §1'). Prefer citations whose text is in-repo."
+          },
+          "policies_published": {
+            "enum": ["web", "on_request", "not_published", "unknown"],
+            "description": "Where/whether the agency publishes its internal policies. 'web' requires policies_location."
+          },
+          "policies_location": {
+            "type": "string",
+            "description": "URL or description of the listing of record for the agency's policies (or how to request them)"
+          },
+          "notes": {
+            "type": "string",
+            "description": "Free-text context for the model: known quality caveats, publication quirks, scope notes"
+          }
+        },
+        "allOf": [
+          {
+            "if": { "not": { "properties": { "governance": { "const": "unclassified" } } } },
+            "then": { "required": ["governance_basis"] }
+          },
+          {
+            "if": { "properties": { "policies_published": { "const": "web" } } },
+            "then": { "required": ["policies_location"] }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -106,6 +106,34 @@ def main():
                 else:
                     r.warn(rel, f"relationships.{edge}: '{t}' is a citation, not yet ingested")
 
+    # Agency profiles: schema-valid; every key must be a registry slug (no orphans);
+    # every agency that actually has in-repo content must have a profile entry —
+    # profiles are the context layer for the data, so they may not silently lag
+    # onboarding. (Stub entries with governance: unclassified satisfy this; the
+    # review queue surfaces them as curation debt.)
+    try:
+        prof_schema = json.loads((SCHEMA_DIR / "agency-profile.schema.json").read_text())
+        prof_data = yaml.safe_load((REPO_ROOT / "_meta/agency-profiles.yml").read_text())
+        for err in sorted(jsonschema.Draft202012Validator(prof_schema).iter_errors(prof_data), key=str):
+            r.error("_meta/agency-profiles.yml", f"schema: {err.message[:160]}")
+        prof_keys = set((prof_data.get("profiles") or {}).keys())
+        for k in sorted(prof_keys - agency_registry):
+            r.error("_meta/agency-profiles.yml", f"profile key '{k}' is not a registry slug")
+        content_agencies = set()
+        for path in content_files():
+            try:
+                fm, _ = parse_frontmatter(path)
+            except ValueError:
+                continue
+            a = fm.get("agency")
+            if a in agency_registry:
+                content_agencies.add(a)
+        for a in sorted(content_agencies - prof_keys):
+            r.error("_meta/agency-profiles.yml",
+                    f"agency '{a}' has in-repo content but no profile entry")
+    except FileNotFoundError as e:
+        r.error("_meta/agency-profiles.yml", f"missing: {e}")
+
     # Source groups
     group_schema = json.loads((SCHEMA_DIR / "source-group.schema.json").read_text())
     gvalidator = jsonschema.Draft202012Validator(group_schema)

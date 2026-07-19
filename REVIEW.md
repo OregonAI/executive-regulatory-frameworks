@@ -211,6 +211,12 @@ Oddities in the /gov/eo listing of record recorded by `src/ingest_eo.py` (duplic
 - `eo-21-05` — two listing rows with different bytes (/gov/eo/eo-21-05.pdf vs /gov/eo/eo_21-05.pdf) — confirm which file is the order of record
 - `eo-21-20` — listing says 2021 No. 29; filename (trusted) says 2021 No. 20 — the description matches the filename
 
+## Agency profiles needing curation (0)
+
+These agencies have in-repo content but their profile (`_meta/agency-profiles.yml`) still carries stub values — the model gets their data without its context until a human fills governance (with a citation) and publication status.
+
+_(none)_
+
 ## Standing item: human verification stamps
 
 `verified_by`/`last_verified` across the corpus record *machine* verification at

@@ -210,6 +210,36 @@ def render(q, cat_items, body_counts):
             "official page.",
             cat_items["eo"])
 
+    # Agency-profile curation debt: agencies whose data is in-repo but whose context
+    # (governance class / publication status) is still a stub.
+    prof_items = []
+    prof_path = REPO_ROOT / "_meta/agency-profiles.yml"
+    if prof_path.exists():
+        profiles = (yaml.safe_load(prof_path.read_text()) or {}).get("profiles", {})
+        content_agencies = set()
+        for path in content_files():
+            try:
+                fm, _ = parse_frontmatter(path)
+            except ValueError:
+                continue
+            if fm.get("agency") in profiles:
+                content_agencies.add(fm["agency"])
+        for a in sorted(content_agencies):
+            p = profiles.get(a, {})
+            gaps = []
+            if p.get("governance") == "unclassified":
+                gaps.append("governance unclassified (needs a class + citation basis)")
+            if p.get("policies_published") == "unknown":
+                gaps.append("policies_published unknown (where does this agency publish?)")
+            if gaps:
+                prof_items.append((f"_meta/agency-profiles.yml ({a})", "; ".join(gaps)))
+    section("Agency profiles needing curation",
+            "These agencies have in-repo content but their profile "
+            "(`_meta/agency-profiles.yml`) still carries stub values — the model gets "
+            "their data without its context until a human fills governance (with a "
+            "citation) and publication status.",
+            prof_items)
+
     if q["migration"]:
         section("Legacy migration pending", "Mixed-mode content awaiting full-text migration.",
                 q["migration"])

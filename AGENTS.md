@@ -115,6 +115,14 @@ is needed for state-authored content.
   `python3 src/catalog_agencies.py --refresh`. Every content file's `agency:` field
   must be `statewide`, `external`, or a slug from this registry —
   `validate_frontmatter.py` hard-fails otherwise.
+- **Agency profiles**: `_meta/agency-profiles.yml` carries curated context ABOUT each
+  agency's data — governance class (citation basis REQUIRED; 'unclassified' is the
+  only uncited value allowed), where the agency publishes policies (or that it
+  doesn't), quality caveats. Derived stats (doc counts, OCR-recovered counts,
+  last-checked) are computed fresh by `src/agency_profile.py` (also the MCP
+  `agency_profile` tool) and rendered into the generated `agencies/_index.md`
+  (`src/build_agency_index.py`; CI-checked). Every content-bearing agency must have
+  a profile entry; stub values are flagged in REVIEW.md as curation debt.
 - **Onboarding a new agency**: look up its registry slug
   (`python3 src/catalog_agencies.py "<search term>"`), then
   `python3 src/new_agency.py <slug>` scaffolds the `agencies/<slug>/` tree and
