@@ -35,6 +35,11 @@ def scan():
         "discrepancy": [], # curator-noted source/listing discrepancies
         "unlinked": [],    # rule/policy/procedure/standard with zero graph edges
     }
+    # OAR rules that are CORRECT non-links (chapter-level or not-ingested authority)
+    # are aggregated per chapter — at mass-import scale, thousands of itemized
+    # correct non-links would drown the real linker gaps this section exists to
+    # surface. {chapter: [chapter_level_count, not_in_corpus_count]}
+    rule_nonlink = {}
     body_counts = {}
     for path in content_files():
         rel = str(path.relative_to(REPO_ROOT))
@@ -66,20 +71,17 @@ def scan():
                 sectionless = [a for a in auth
                                if re.fullmatch(r"ORS \d{1,3}[A-Z]?", a)]
                 if auth and fm["doc_type"] == "rule":
+                    ch = fm["id"].split("-")[1]
+                    counts = rule_nonlink.setdefault(ch, [0, 0])
                     if sectionless and len(sectionless) == len(auth):
-                        why = ("rule's authority is chapter-level only "
-                               f"({', '.join(auth[:4])}) — no section exists to link to; "
-                               "correct non-link")
+                        counts[0] += 1
                     else:
-                        why = ("rule's cited authority is not in the corpus "
-                               f"({', '.join(auth[:4])}{'…' if len(auth) > 4 else ''}) — "
-                               "repealed/renumbered or an un-ingested chapter; verify, "
-                               "don't hand-link")
+                        counts[1] += 1
                 else:
                     why = (f"{fm['doc_type']} has zero relationship edges — "
                            "link_graph.py found no authority citation "
                            "(or naming pair) to resolve; add/verify one manually")
-                q["unlinked"].append((rel, why))
+                    q["unlinked"].append((rel, why))
 
     # catalog-derived items
     cat_items = {"not_sliceable": [], "renumbered": [], "gaps": [], "eo": []}
@@ -118,6 +120,18 @@ def scan():
                 cat_items["gaps"].append(
                     (f"OAR chapter {c['chapter']} division {d['division']} ({d['title'][:50]})",
                      "division never enumerated"))
+
+    # aggregate the correct-non-link rules per chapter (see rule_nonlink above)
+    for ch in sorted(rule_nonlink):
+        cl, nc = rule_nonlink[ch]
+        parts = []
+        if cl:
+            parts.append(f"{cl} cite only chapter-level authority (no section to link to)")
+        if nc:
+            parts.append(f"{nc} cite authority not in the corpus (repealed or un-ingested chapter)")
+        q["unlinked"].append((f"rules/{ch}/ ({cl + nc} rules)",
+                              "correct non-links — " + "; ".join(parts) +
+                              "; per-rule detail in each file's legal_authority"))
     return q, cat_items, body_counts
 
 
@@ -180,10 +194,11 @@ def render(q, cat_items, body_counts):
     section("Unlinked rules/policies/procedures/standards — no graph edges",
             "`src/link_graph.py` found no authority citation (or, for procedures, no "
             "`_PR` naming match) connecting this document to anything else in the "
-            "corpus. Usually means the source's authority/reference text doesn't match "
-            "the extractor's citation patterns (a typo'd rule number, unusual wording) "
-            "or the document genuinely has no printed authority — check the source and "
-            "either fix the citation text or add a hand-authored relationship.",
+            "corpus. Itemized entries usually mean the source's authority text doesn't "
+            "match the extractor's citation patterns — check the source and either fix "
+            "the citation text or add a hand-authored relationship. Per-chapter "
+            "aggregate entries are rules whose own cited authority is chapter-level or "
+            "not in the corpus — correct non-links, nothing to fix.",
             q["unlinked"])
 
     section("Catalog: sections with no sliceable body",

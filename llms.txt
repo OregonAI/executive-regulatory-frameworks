@@ -11,7 +11,7 @@
 
 ## Administrative Rules (OAR)
 
-- [Index](rules/_index.md): 484 OAR rules, full text each — chapters 125 (Department of Administrative Services), 128 (Office of the State Chief Information Officer), 105, 122. Old "OAR 125-800" citations resolve to 128-030.
+- [Index](rules/_index.md): 484 OAR rules, full text each — chapters 105 (Department of Administrative Services, Chief Human Resources Office), 122 (Department of Administrative Services, Chief Financial Office), 125 (Department of Administrative Services), 128 (Department of Administrative Services, Office of the State Chief Information Officer). Old "OAR 125-800" citations resolve to 128-030.
 - [OAR 128-030-0020 — State Information Security](rules/128/030/oar-128-030-0020.md): DAS as primary point of accountability; agency duties. Also 128-030-0005 (purpose) and 128-030-0010 (definitions) beside it.
 
 ## Executive Orders

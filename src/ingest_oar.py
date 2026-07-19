@@ -143,7 +143,12 @@ history are in the full text below.
 """
 
 
-def cmd_ingest(chapters):
+def cmd_ingest(chapters, skip_group=False):
+    # skip_group: mass-import mode — do NOT append per-rule entries to the oar
+    # update group. At thousands of rules, per-rule content-hash rechecking is
+    # impractical; freshness for mass-imported chapters comes from re-running
+    # catalog_oar.py --discover --redo and diffing the catalog (new/removed rule
+    # numbers), then re-ingesting just the changes.
     from ingest_lib import flow_to_lines
     # New documents are born enriched: agency/authority/effective-date/lineage parsed
     # from the rule's own structured lines right after writing (see enrich_oar.py,
@@ -219,11 +224,17 @@ def cmd_ingest(chapters):
                 if served == num:
                     r["status"] = "ingested"
                 r["path"] = str(out.relative_to(REPO_ROOT))
-                gsrc[doc_id] = {"id": doc_id, "url": url, "sha256": sha,
-                                "last_checked": TODAY, "notes": title_line[:90]}
+                if not skip_group:
+                    gsrc[doc_id] = {"id": doc_id, "url": url, "sha256": sha,
+                                    "last_checked": TODAY, "notes": title_line[:90]}
                 made += 1
-    group["sources"] = sorted(gsrc.values(), key=lambda s: s["id"])
-    GROUP.write_text(yaml.safe_dump(group, sort_keys=False, allow_unicode=True, width=110))
+                if made % 100 == 0:
+                    print(f"...{made} ingested")
+                    CATALOG.write_text(yaml.safe_dump(cat, sort_keys=False,
+                                                      allow_unicode=True, width=100))
+    if not skip_group:
+        group["sources"] = sorted(gsrc.values(), key=lambda s: s["id"])
+        GROUP.write_text(yaml.safe_dump(group, sort_keys=False, allow_unicode=True, width=110))
     CATALOG.write_text(yaml.safe_dump(cat, sort_keys=False, allow_unicode=True, width=100))
     print(f"made {made}, renumbered {renumbered}, skipped {skipped}, failed {failed}")
 
@@ -232,11 +243,13 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--enumerate", nargs="+", metavar="CH")
     ap.add_argument("--ingest", nargs="+", metavar="CH")
+    ap.add_argument("--skip-group", action="store_true",
+                    help="mass-import mode: no per-rule update-group entries (see cmd_ingest)")
     a = ap.parse_args()
     if a.enumerate:
         cmd_enumerate(a.enumerate)
     elif a.ingest:
-        cmd_ingest(a.ingest)
+        cmd_ingest(a.ingest, a.skip_group)
     else:
         ap.print_help()
         sys.exit(2)

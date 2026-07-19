@@ -21,6 +21,18 @@ Hand-maintained list of known improvements deliberately deferred. (Distinct from
   lights up); when it does, add that agency's header pattern rather than
   hand-authoring edges.
 
+## Mass-OAR-import scale deferrals
+
+- **OAR freshness at scale** — mass-imported chapters get NO per-rule entries in the
+  `oar` update group (`ingest_oar.py --skip-group`): per-rule content-hash rechecking
+  is impractical at ~20k rules. Interim freshness story: re-run
+  `catalog_oar.py --discover --redo` periodically and diff the catalog (new/removed
+  rule numbers), then re-ingest changes. Proper design someday: drive re-checks from
+  the monthly Oregon Bulletin's list of filed rule changes instead.
+- **CI runtime at ~20k+ files** — verify_provenance will cross the ~10-minute
+  threshold noted below after the import; switch PRs to changed-files-only
+  verification (full corpus on main pushes or nightly) when it starts to hurt.
+
 ## Other known deferrals
 
 - Docker image smoke test (blocked: local user lacks docker socket permission —
