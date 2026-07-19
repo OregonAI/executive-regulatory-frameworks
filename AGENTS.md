@@ -109,8 +109,9 @@ is needed for state-authored content.
   review gates: manifest approval before ingestion; CODEOWNER review before merge). Use the
   templates in `_meta/templates/` and register the source in its update group under `_meta/sources/`.
 - **Agency registry**: `_meta/catalog/agencies.yml` is the canonical list of
-  executive-branch agencies/boards/commissions, grounded in the state's own
-  organization directory (not repo-invented), refreshed via
+  agencies and their sub-units, keyed on the OAR chapter assignment scheme as
+  presented by oregon.public.law/rules (proper names from each chapter page;
+  parent/sub-unit hierarchy from the index tree), refreshed via
   `python3 src/catalog_agencies.py --refresh`. Every content file's `agency:` field
   must be `statewide`, `external`, or a slug from this registry —
   `validate_frontmatter.py` hard-fails otherwise.

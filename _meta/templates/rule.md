@@ -4,9 +4,10 @@ title: "TITLE"
 doc_type: rule
 citation: "OAR XXX-XXX-XXXX"
 authority_level: administrative_rule
-issuing_body: "ADOPTING AGENCY; compiled by the Secretary of State Administrative Rules Unit"
-agency: statewide
-legal_authority: []                     # statutory authority cited in the rule
+issuing_body: "OWNING AGENCY per the chapter registry (_meta/catalog/agencies.yml)"
+agency: OWNING-AGENCY-SLUG                # chapter -> registry lookup; enrich_oar.py fills this
+legal_authority: []                     # from the rule's "Statutory/Other Authority:" line (enrich_oar.py)
+statutes_implemented: []                # from "Statutes/Other Implemented:" (enrich_oar.py)
 source_url: "https://secure.sos.state.or.us/oard/view.action?ruleNumber=XXX-XXX-XXXX"
 source_format: html
 retrieved: YYYY-MM-DD

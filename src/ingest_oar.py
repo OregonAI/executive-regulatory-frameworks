@@ -145,6 +145,13 @@ history are in the full text below.
 
 def cmd_ingest(chapters):
     from ingest_lib import flow_to_lines
+    # New documents are born enriched: agency/authority/effective-date/lineage parsed
+    # from the rule's own structured lines right after writing (see enrich_oar.py,
+    # which is also the CI drift check for these fields).
+    from enrich_oar import apply as enrich_apply
+    from enrich_oar import derive as enrich_derive
+    from enrich_oar import load_registry_by_chapter
+    registry_by_ch = load_registry_by_chapter()
     cat = yaml.safe_load(CATALOG.read_text())
     by_ch = {c["chapter"]: c for c in cat["chapters"]}
     group = yaml.safe_load(GROUP.read_text())
@@ -208,6 +215,7 @@ def cmd_ingest(chapters):
                 body = doc_body(target, title_line, url, sha, s_ch, s_div)
                 body = body.replace("{FT}", flow_to_lines(sl))
                 out.write_text(body)
+                enrich_apply(out, enrich_derive(flow_to_lines(sl), doc_id, registry_by_ch))
                 if served == num:
                     r["status"] = "ingested"
                 r["path"] = str(out.relative_to(REPO_ROOT))

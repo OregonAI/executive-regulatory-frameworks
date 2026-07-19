@@ -21,5 +21,7 @@ jobs:
         run: python3 src/link_graph.py --check
       - name: llms.txt must be current
         run: python3 src/build_llms.py --check
+      - name: OAR frontmatter must match each rule's own structured lines
+        run: python3 src/enrich_oar.py --check
       - name: MCP query engine selftest
         run: python3 src/mcp_lib.py --selftest

@@ -1,629 +1,1214 @@
-note: 'Canonical registry of Oregon executive-branch agencies/boards/commissions/divisions, grounded in
-  the Secretary of State''s Blue Book directory (an earlier data.oregon.gov-sourced registry was dropped
-  2026-07-18 as unreliable). Names are mechanically reconstructed from the Blue Book''s comma-inverted
-  Title field (first-comma split-and-swap; a trailing '' - PARENTABBR'' on ~14 division/program rows is
-  captured as parent_abbr, not reordered into the name). validate_frontmatter.py requires every content
-  file''s agency: field to resolve to ''statewide'', ''external'', or a slug here.'
-source_url: https://sos.oregon.gov/blue-book/government/pages/state-agencies.aspx
-retrieved: '2026-07-18'
+note: 'Canonical registry of Oregon agencies and their sub-units, keyed on the OAR chapter assignment
+  scheme as presented by oregon.public.law/rules (an unofficial but well-maintained mirror; official chapter
+  assignment lives with the SoS Administrative Rules Unit). Proper names come from each chapter page''s
+  own title; the index tree provides the parent/sub-unit hierarchy (parent_chapter/parent_slug). Third
+  registry source: a data.oregon.gov dataset and the SoS Blue Book directory were both previously used
+  and dropped after review (2026-07-18/19). validate_frontmatter.py requires every content file''s agency:
+  field to resolve to ''statewide'', ''external'', or a slug here.'
+source_url: https://oregon.public.law/rules
+retrieved: '2026-07-19'
 organizations:
-- slug: advisory-council-on-hearing-aids
-  name: Advisory Council on Hearing Aids
-  parent_abbr: null
-  raw_title: Hearing Aids, Advisory Council on
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/health-licensing-subdivisions.aspx#hearing
-- slug: aging-people-with-disabilities
-  name: Aging & People with Disabilities
-  parent_abbr: DHS
-  raw_title: Aging & People with Disabilities​ - DHS
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/human-services-subdivisions.aspx#aging
-- slug: agriculture-department
-  name: Agriculture Department
-  parent_abbr: null
-  raw_title: Agriculture Department
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/agriculture.aspx
-- slug: appraiser-certification-licensure-board
-  name: Appraiser Certification & Licensure Board
-  parent_abbr: null
-  raw_title: Appraiser Certification & Licensure Board
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/appraiser.aspx
-- slug: archives-division
-  name: Archives Division
-  parent_abbr: SOS
-  raw_title: Archives Division - SOS
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/secretary-of-state-subdivisions.aspx#archives
-- slug: audits-division
-  name: Audits Division
-  parent_abbr: SOS
-  raw_title: Audits Division - SOS​
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/secretary-of-state-subdivisions.aspx#audits
-- slug: blind-commission
-  name: Blind Commission
-  parent_abbr: null
-  raw_title: Blind Commission
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/blind.aspx
-- slug: board-of-accountancy
-  name: Board of Accountancy
-  parent_abbr: null
-  raw_title: Accountancy, Board of
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/accountancy.aspx
-- slug: board-of-athletic-trainers
-  name: Board of Athletic Trainers
-  parent_abbr: null
-  raw_title: Athletic Trainers, Board of
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/health-licensing-subdivisions.aspx
+- slug: appraiser-certification-and-licensure-board
+  name: Appraiser Certification and Licensure Board
+  oar_chapter: '161'
+  raw_index_name: Appraiser Certification & Licensure Board
+  source_url: https://oregon.public.law/rules/oar_chapter_161
+  parent_slug: null
+  parent_chapter: null
 - slug: board-of-chiropractic-examiners
   name: Board of Chiropractic Examiners
-  parent_abbr: null
-  raw_title: Chiropractic Examiners, Board of
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/chiropractic.aspx
-- slug: board-of-cosmetology
-  name: Board of Cosmetology
-  parent_abbr: null
-  raw_title: Cosmetology, Board of
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/health-licensing-subdivisions.aspx#cosmetology
-- slug: board-of-denture-technology
-  name: Board of Denture Technology
-  parent_abbr: null
-  raw_title: Denture Technology, Board of
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/health-licensing-subdivisions.aspx#denture
-- slug: board-of-direct-entry-midwifery
-  name: Board Of Direct Entry Midwifery
-  parent_abbr: null
-  raw_title: Midwifery, Board Of Direct Entry
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/health-licensing-subdivisions.aspx#midwifery
-- slug: board-of-electrologist-body-art-practitioners
-  name: Board of Electrologist & Body Art Practitioners
-  parent_abbr: null
-  raw_title: Electrologist & Body Art Practitioners, Board of
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/health-licensing-subdivisions.aspx#electrologist
-- slug: board-of-licensed-dieticians
-  name: Board of Licensed Dieticians
-  parent_abbr: null
-  raw_title: Dieticians, Board of Licensed
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/health-licensing-subdivisions.aspx#dieticians
+  oar_chapter: '811'
+  raw_index_name: Board of Chiropractic Exam'rs
+  source_url: https://oregon.public.law/rules/oar_chapter_811
+  parent_slug: null
+  parent_chapter: null
+- slug: board-of-examiners-for-engineering-and-land-surveying
+  name: Board of Examiners for Engineering and Land Surveying
+  oar_chapter: '820'
+  raw_index_name: Board of Exam'rs for Engineering & Land Surveying
+  source_url: https://oregon.public.law/rules/oar_chapter_820
+  parent_slug: null
+  parent_chapter: null
+- slug: board-of-examiners-for-speech-language-pathology-and-audiology
+  name: Board of Examiners for Speech-Language Pathology and Audiology
+  oar_chapter: '335'
+  raw_index_name: Board of Exam'rs for Speech-Language Pathology & Audiology
+  source_url: https://oregon.public.law/rules/oar_chapter_335
+  parent_slug: null
+  parent_chapter: null
+- slug: board-of-geologist-examiners
+  name: Board of Geologist Examiners
+  oar_chapter: '809'
+  raw_index_name: Board of Geologist Exam'rs
+  source_url: https://oregon.public.law/rules/oar_chapter_809
+  parent_slug: null
+  parent_chapter: null
+- slug: board-of-licensed-social-workers
+  name: Board of Licensed Social Workers
+  oar_chapter: '877'
+  raw_index_name: Board of Licensed Social Workers
+  source_url: https://oregon.public.law/rules/oar_chapter_877
+  parent_slug: null
+  parent_chapter: null
 - slug: board-of-massage-therapists
   name: Board of Massage Therapists
-  parent_abbr: null
-  raw_title: Massage Therapists, Board of
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/massage-therapists.aspx
+  oar_chapter: '334'
+  raw_index_name: Board of Massage Therapists
+  source_url: https://oregon.public.law/rules/oar_chapter_334
+  parent_slug: null
+  parent_chapter: null
 - slug: board-of-medical-imaging
   name: Board of Medical Imaging
-  parent_abbr: null
-  raw_title: Medical Imaging, Board of
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/medical-imaging.aspx
-- slug: board-of-naturopathic-medicine
-  name: Board of Naturopathic Medicine
-  parent_abbr: null
-  raw_title: Naturopathic Medicine, Board of
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/naturopathic.aspx
+  oar_chapter: '337'
+  raw_index_name: Board of Medical Imaging
+  source_url: https://oregon.public.law/rules/oar_chapter_337
+  parent_slug: null
+  parent_chapter: null
+- slug: board-of-nursing
+  name: Board of Nursing
+  oar_chapter: '851'
+  raw_index_name: Board of Nursing
+  source_url: https://oregon.public.law/rules/oar_chapter_851
+  parent_slug: null
+  parent_chapter: null
 - slug: board-of-optometry
   name: Board of Optometry
-  parent_abbr: null
-  raw_title: Optometry, Board of
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/optometry-board.aspx
-- slug: board-of-parole-post-prison-supervision
-  name: Board of Parole & Post-Prison Supervision
-  parent_abbr: null
-  raw_title: Parole & Post-Prison Supervision, Board of
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/parole-board.aspx
-- slug: board-of-tax-practitioners
-  name: Board of Tax Practitioners
-  parent_abbr: null
-  raw_title: Tax Practitioners, Board of
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/tax-practitioners.aspx
-- slug: building-codes-division
-  name: Building Codes Division
-  parent_abbr: DCBS
-  raw_title: Building Codes Division - DCBS
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/building-codes.aspx
-- slug: bureau-of-boli-labor-industries
-  name: Bureau of (BOLI) Labor & Industries
-  parent_abbr: null
-  raw_title: Labor & Industries, Bureau of (BOLI)
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/labor-industries.aspx
-- slug: business-development-department
-  name: Business Development Department
-  parent_abbr: null
-  raw_title: Business Development Department
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/business-development.aspx
-- slug: child-welfare-programs
-  name: Child Welfare Programs
-  parent_abbr: null
-  raw_title: Child Welfare Programs
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/human-services-subdivisions.aspx#child
+  oar_chapter: '852'
+  raw_index_name: Board of Optometry
+  source_url: https://oregon.public.law/rules/oar_chapter_852
+  parent_slug: null
+  parent_chapter: null
+- slug: board-of-parole-and-post-prison-supervision
+  name: Board of Parole and Post-Prison Supervision
+  oar_chapter: '255'
+  raw_index_name: Board of Parole & Post-Prison Supervision
+  source_url: https://oregon.public.law/rules/oar_chapter_255
+  parent_slug: null
+  parent_chapter: null
+- slug: board-of-pharmacy
+  name: Board of Pharmacy
+  oar_chapter: '855'
+  raw_index_name: Board of Pharmacy
+  source_url: https://oregon.public.law/rules/oar_chapter_855
+  parent_slug: null
+  parent_chapter: null
+- slug: bureau-of-labor-and-industries
+  name: Bureau of Labor and Industries
+  oar_chapter: '839'
+  raw_index_name: Bureau of Labor & Industries
+  source_url: https://oregon.public.law/rules/oar_chapter_839
+  parent_slug: null
+  parent_chapter: null
+- slug: chief-education-office
+  name: Chief Education Office
+  oar_chapter: '705'
+  raw_index_name: Chief Education Office
+  source_url: https://oregon.public.law/rules/oar_chapter_705
+  parent_slug: null
+  parent_chapter: null
+- slug: citizens-initiative-review-commission
+  name: Citizens' Initiative Review Commission
+  oar_chapter: '710'
+  raw_index_name: Citizens' Initiative Review Comm'n
+  source_url: https://oregon.public.law/rules/oar_chapter_710
+  parent_slug: null
+  parent_chapter: null
 - slug: columbia-river-gorge-commission
   name: Columbia River Gorge Commission
-  parent_abbr: null
-  raw_title: Columbia River Gorge Commission
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/columbia-river-gorge.aspx
-- slug: commerce-compliance-division
-  name: Commerce & Compliance Division
-  parent_abbr: ODOT
-  raw_title: Commerce & Compliance Division - ODOT
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/transportation-subdivisions.aspx#commerce
-- slug: commission-for-women
-  name: Commission For Women
-  parent_abbr: null
-  raw_title: Women, Commission For
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/advocacy-commissions-subdivisions.aspx#women
-- slug: commission-on-asian-pacific-islander-affairs
-  name: Commission on Asian & Pacific Islander Affairs
-  parent_abbr: null
-  raw_title: "Asian \uFEFF& Pacific Islander Affairs, Commission on"
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/advocacy-commissions-subdivisions.aspx
-- slug: commission-on-black-affairs
-  name: Commission on Black Affairs
-  parent_abbr: null
-  raw_title: Black Affairs, Commission on
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/advocacy-commissions-subdivisions.aspx#black
+  oar_chapter: '350'
+  raw_index_name: Columbia River Gorge Comm'n
+  source_url: https://oregon.public.law/rules/oar_chapter_350
+  parent_slug: null
+  parent_chapter: null
+- slug: commission-for-the-blind
+  name: Commission for the Blind
+  oar_chapter: '585'
+  raw_index_name: Comm'n for the Blind
+  source_url: https://oregon.public.law/rules/oar_chapter_585
+  parent_slug: null
+  parent_chapter: null
 - slug: construction-contractors-board
   name: Construction Contractors Board
-  parent_abbr: null
-  raw_title: Construction Contractors Board
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/construction-contractors.aspx
-- slug: corporation-division
-  name: Corporation Division
-  parent_abbr: SOS
-  raw_title: Corporation Division - SOS
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/secretary-of-state-subdivisions.aspx#corporation
-- slug: criminal-justice-commission
-  name: Criminal Justice Commission
-  parent_abbr: null
-  raw_title: Criminal Justice Commission
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/criminal-justice.aspx
+  oar_chapter: '812'
+  raw_index_name: Construction Contractors Board
+  source_url: https://oregon.public.law/rules/oar_chapter_812
+  parent_slug: null
+  parent_chapter: null
 - slug: department-of-administrative-services
   name: Department of Administrative Services
-  parent_abbr: null
-  raw_title: Administrative Services, Department of
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/administrative-services.aspx
-- slug: department-of-aviation
-  name: Department of Aviation
-  parent_abbr: null
-  raw_title: Aviation, Department of
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/aviation.aspx
-- slug: department-of-consumer-business-services
-  name: Department of Consumer & Business Services
-  parent_abbr: null
-  raw_title: Consumer & Business Services, Department of
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/consumer.aspx
+  oar_chapter: '125'
+  raw_index_name: Dept. of Administrative Services
+  source_url: https://oregon.public.law/rules/oar_chapter_125
+  parent_slug: null
+  parent_chapter: null
+- slug: department-of-administrative-services-chief-financial-office
+  name: Department of Administrative Services, Chief Financial Office
+  oar_chapter: '122'
+  raw_index_name: Chief Financial Office
+  source_url: https://oregon.public.law/rules/oar_chapter_122
+  parent_slug: department-of-administrative-services
+  parent_chapter: '125'
+- slug: department-of-administrative-services-chief-human-resources-office
+  name: Department of Administrative Services, Chief Human Resources Office
+  oar_chapter: '105'
+  raw_index_name: Chief Human Resources Office
+  source_url: https://oregon.public.law/rules/oar_chapter_105
+  parent_slug: department-of-administrative-services
+  parent_chapter: '125'
+- slug: department-of-administrative-services-office-of-the-state-chief-information-officer
+  name: Department of Administrative Services, Office of the State Chief Information Officer
+  oar_chapter: '128'
+  raw_index_name: Office of the State Chief Information Officer
+  source_url: https://oregon.public.law/rules/oar_chapter_128
+  parent_slug: department-of-administrative-services
+  parent_chapter: '125'
+- slug: department-of-agriculture
+  name: Department of Agriculture
+  oar_chapter: '603'
+  raw_index_name: Dept. of Agriculture
+  source_url: https://oregon.public.law/rules/oar_chapter_603
+  parent_slug: null
+  parent_chapter: null
+- slug: department-of-agriculture-oregon-albacore-commission
+  name: Department of Agriculture, Oregon Albacore Commission
+  oar_chapter: '972'
+  raw_index_name: Or. Albacore Comm'n
+  source_url: https://oregon.public.law/rules/oar_chapter_972
+  parent_slug: department-of-agriculture
+  parent_chapter: '603'
+- slug: department-of-agriculture-oregon-alfalfa-seed-commission
+  name: Department of Agriculture, Oregon Alfalfa Seed Commission
+  oar_chapter: '624'
+  raw_index_name: Or. Alfalfa Seed Comm'n
+  source_url: https://oregon.public.law/rules/oar_chapter_624
+  parent_slug: department-of-agriculture
+  parent_chapter: '603'
+- slug: department-of-agriculture-oregon-beef-council
+  name: Department of Agriculture, Oregon Beef Council
+  oar_chapter: '605'
+  raw_index_name: Or. Beef Council
+  source_url: https://oregon.public.law/rules/oar_chapter_605
+  parent_slug: department-of-agriculture
+  parent_chapter: '603'
+- slug: department-of-agriculture-oregon-blueberry-commission
+  name: Department of Agriculture, Oregon Blueberry Commission
+  oar_chapter: '670'
+  raw_index_name: Or. Blueberry Comm'n
+  source_url: https://oregon.public.law/rules/oar_chapter_670
+  parent_slug: department-of-agriculture
+  parent_chapter: '603'
+- slug: department-of-agriculture-oregon-clover-seed-commission
+  name: Department of Agriculture, Oregon Clover Seed Commission
+  oar_chapter: '664'
+  raw_index_name: Or. Clover Seed Comm'n
+  source_url: https://oregon.public.law/rules/oar_chapter_664
+  parent_slug: department-of-agriculture
+  parent_chapter: '603'
+- slug: department-of-agriculture-oregon-dairy-products-commission
+  name: Department of Agriculture, Oregon Dairy Products Commission
+  oar_chapter: '617'
+  raw_index_name: Or. Dairy Products Comm'n
+  source_url: https://oregon.public.law/rules/oar_chapter_617
+  parent_slug: department-of-agriculture
+  parent_chapter: '603'
+- slug: department-of-agriculture-oregon-dungeness-crab-commission
+  name: Department of Agriculture, Oregon Dungeness Crab Commission
+  oar_chapter: '645'
+  raw_index_name: Or. Dungeness Crab Comm'n
+  source_url: https://oregon.public.law/rules/oar_chapter_645
+  parent_slug: department-of-agriculture
+  parent_chapter: '603'
+- slug: department-of-agriculture-oregon-fine-fescue-commission
+  name: Department of Agriculture, Oregon Fine Fescue Commission
+  oar_chapter: '604'
+  raw_index_name: Or. Fine Fescue Comm'n
+  source_url: https://oregon.public.law/rules/oar_chapter_604
+  parent_slug: department-of-agriculture
+  parent_chapter: '603'
+- slug: department-of-agriculture-oregon-hazelnut-commission
+  name: Department of Agriculture, Oregon Hazelnut Commission
+  oar_chapter: '623'
+  raw_index_name: Or. Hazelnut Comm'n
+  source_url: https://oregon.public.law/rules/oar_chapter_623
+  parent_slug: department-of-agriculture
+  parent_chapter: '603'
+- slug: department-of-agriculture-oregon-hop-commission
+  name: Department of Agriculture, Oregon Hop Commission
+  oar_chapter: '643'
+  raw_index_name: Or. Hop Comm'n
+  source_url: https://oregon.public.law/rules/oar_chapter_643
+  parent_slug: department-of-agriculture
+  parent_chapter: '603'
+- slug: department-of-agriculture-oregon-invasive-species-council
+  name: Department of Agriculture, Oregon Invasive Species Council
+  oar_chapter: '609'
+  raw_index_name: Or. Invasive Species Council
+  source_url: https://oregon.public.law/rules/oar_chapter_609
+  parent_slug: department-of-agriculture
+  parent_chapter: '603'
+- slug: department-of-agriculture-oregon-mint-commission
+  name: Department of Agriculture, Oregon Mint Commission
+  oar_chapter: '642'
+  raw_index_name: Or. Mint Comm'n
+  source_url: https://oregon.public.law/rules/oar_chapter_642
+  parent_slug: department-of-agriculture
+  parent_chapter: '603'
+- slug: department-of-agriculture-oregon-potato-commission
+  name: Department of Agriculture, Oregon Potato Commission
+  oar_chapter: '658'
+  raw_index_name: Or. Potato Comm'n
+  source_url: https://oregon.public.law/rules/oar_chapter_658
+  parent_slug: department-of-agriculture
+  parent_chapter: '603'
+- slug: department-of-agriculture-oregon-processed-vegetable-commission
+  name: Department of Agriculture, Oregon Processed Vegetable Commission
+  oar_chapter: '647'
+  raw_index_name: Or. Processed Vegetable Comm'n
+  source_url: https://oregon.public.law/rules/oar_chapter_647
+  parent_slug: department-of-agriculture
+  parent_chapter: '603'
+- slug: department-of-agriculture-oregon-raspberry-and-blackberry-commission
+  name: Department of Agriculture, Oregon Raspberry and Blackberry Commission
+  oar_chapter: '611'
+  raw_index_name: Or. Raspberry & Blackberry Comm'n
+  source_url: https://oregon.public.law/rules/oar_chapter_611
+  parent_slug: department-of-agriculture
+  parent_chapter: '603'
+- slug: department-of-agriculture-oregon-ryegrass-growers-seed-commission
+  name: Department of Agriculture, Oregon Ryegrass Growers Seed Commission
+  oar_chapter: '657'
+  raw_index_name: Or. Ryegrass Growers Seed Comm'n
+  source_url: https://oregon.public.law/rules/oar_chapter_657
+  parent_slug: department-of-agriculture
+  parent_chapter: '603'
+- slug: department-of-agriculture-oregon-salmon-commission
+  name: Department of Agriculture, Oregon Salmon Commission
+  oar_chapter: '646'
+  raw_index_name: Or. Salmon Comm'n
+  source_url: https://oregon.public.law/rules/oar_chapter_646
+  parent_slug: department-of-agriculture
+  parent_chapter: '603'
+- slug: department-of-agriculture-oregon-sheep-commission
+  name: Department of Agriculture, Oregon Sheep Commission
+  oar_chapter: '644'
+  raw_index_name: Or. Sheep Comm'n
+  source_url: https://oregon.public.law/rules/oar_chapter_644
+  parent_slug: department-of-agriculture
+  parent_chapter: '603'
+- slug: department-of-agriculture-oregon-strawberry-commission
+  name: Department of Agriculture, Oregon Strawberry Commission
+  oar_chapter: '668'
+  raw_index_name: Or. Strawberry Comm'n
+  source_url: https://oregon.public.law/rules/oar_chapter_668
+  parent_slug: department-of-agriculture
+  parent_chapter: '603'
+- slug: department-of-agriculture-oregon-sweet-cherry-commission
+  name: Department of Agriculture, Oregon Sweet Cherry Commission
+  oar_chapter: '669'
+  raw_index_name: Or. Sweet Cherry Comm'n
+  source_url: https://oregon.public.law/rules/oar_chapter_669
+  parent_slug: department-of-agriculture
+  parent_chapter: '603'
+- slug: department-of-agriculture-oregon-tall-fescue-commission
+  name: Department of Agriculture, Oregon Tall Fescue Commission
+  oar_chapter: '607'
+  raw_index_name: Or. Tall Fescue Comm'n
+  source_url: https://oregon.public.law/rules/oar_chapter_607
+  parent_slug: department-of-agriculture
+  parent_chapter: '603'
+- slug: department-of-agriculture-oregon-trawl-commission
+  name: Department of Agriculture, Oregon Trawl Commission
+  oar_chapter: '656'
+  raw_index_name: Or. Trawl Comm'n
+  source_url: https://oregon.public.law/rules/oar_chapter_656
+  parent_slug: department-of-agriculture
+  parent_chapter: '603'
+- slug: department-of-agriculture-oregon-wheat-commission
+  name: Department of Agriculture, Oregon Wheat Commission
+  oar_chapter: '678'
+  raw_index_name: Or. Wheat Comm'n
+  source_url: https://oregon.public.law/rules/oar_chapter_678
+  parent_slug: department-of-agriculture
+  parent_chapter: '603'
+- slug: department-of-consumer-and-business-services
+  name: Department of Consumer and Business Services
+  oar_chapter: null
+  raw_index_name: Dept. of Consumer & Business Services
+  source_url: https://oregon.public.law/rules
+  parent_slug: null
+  parent_chapter: null
+- slug: department-of-consumer-and-business-services-building-codes-division
+  name: Department of Consumer and Business Services, Building Codes Division
+  oar_chapter: '918'
+  raw_index_name: Building Codes Division
+  source_url: https://oregon.public.law/rules/oar_chapter_918
+  parent_slug: department-of-consumer-and-business-services
+  parent_chapter: null
+- slug: department-of-consumer-and-business-services-director-s-office
+  name: Department of Consumer and Business Services, Director's Office
+  oar_chapter: '440'
+  raw_index_name: Director's Office
+  source_url: https://oregon.public.law/rules/oar_chapter_440
+  parent_slug: department-of-consumer-and-business-services
+  parent_chapter: null
+- slug: department-of-consumer-and-business-services-finance-and-securities-regulation
+  name: Department of Consumer and Business Services, Finance and Securities Regulation
+  oar_chapter: '441'
+  raw_index_name: Finance & Securities Regulation
+  source_url: https://oregon.public.law/rules/oar_chapter_441
+  parent_slug: department-of-consumer-and-business-services
+  parent_chapter: null
+- slug: department-of-consumer-and-business-services-health-insurance-marketplace
+  name: Department of Consumer and Business Services, Health Insurance Marketplace
+  oar_chapter: '945'
+  raw_index_name: Health Insurance Marketplace
+  source_url: https://oregon.public.law/rules/oar_chapter_945
+  parent_slug: department-of-consumer-and-business-services
+  parent_chapter: null
+- slug: department-of-consumer-and-business-services-insurance-regulation
+  name: Department of Consumer and Business Services, Insurance Regulation
+  oar_chapter: '836'
+  raw_index_name: Insurance Regulation
+  source_url: https://oregon.public.law/rules/oar_chapter_836
+  parent_slug: department-of-consumer-and-business-services
+  parent_chapter: null
+- slug: department-of-consumer-and-business-services-oregon-occupational-safety-and-health-division
+  name: Department of Consumer and Business Services, Oregon Occupational Safety and Health Division
+  oar_chapter: '437'
+  raw_index_name: Or. Occupational Safety & Health Division
+  source_url: https://oregon.public.law/rules/oar_chapter_437
+  parent_slug: department-of-consumer-and-business-services
+  parent_chapter: null
+- slug: department-of-consumer-and-business-services-workers-compensation-board
+  name: Department of Consumer and Business Services, Workers' Compensation Board
+  oar_chapter: '438'
+  raw_index_name: Workers' Compensation Board
+  source_url: https://oregon.public.law/rules/oar_chapter_438
+  parent_slug: department-of-consumer-and-business-services
+  parent_chapter: null
+- slug: department-of-consumer-and-business-services-workers-compensation-division
+  name: Department of Consumer and Business Services, Workers' Compensation Division
+  oar_chapter: '436'
+  raw_index_name: Workers' Compensation Division
+  source_url: https://oregon.public.law/rules/oar_chapter_436
+  parent_slug: department-of-consumer-and-business-services
+  parent_chapter: null
 - slug: department-of-corrections
   name: Department of Corrections
-  parent_abbr: null
-  raw_title: Corrections, Department of
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/corrections.aspx
-- slug: department-of-early-learning-care
-  name: Department of Early Learning & Care
-  parent_abbr: null
-  raw_title: Early Learning & Care, Department of
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/early-learning.aspx
-- slug: department-of-education
-  name: Department of Education
-  parent_abbr: null
-  raw_title: Education, Department of
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/education.aspx
-- slug: department-of-emergency-management
-  name: Department of Emergency Management
-  parent_abbr: OEM
-  raw_title: Emergency Management, Department of - OEM
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/emergency-management.aspx
+  oar_chapter: '291'
+  raw_index_name: Dept. of Corrections
+  source_url: https://oregon.public.law/rules/oar_chapter_291
+  parent_slug: null
+  parent_chapter: null
 - slug: department-of-energy
   name: Department of Energy
-  parent_abbr: null
-  raw_title: Energy, Department of
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/energy.aspx
+  oar_chapter: '330'
+  raw_index_name: Dept. of Energy
+  source_url: https://oregon.public.law/rules/oar_chapter_330
+  parent_slug: null
+  parent_chapter: null
+- slug: department-of-energy-energy-facility-siting-council
+  name: Department of Energy, Energy Facility Siting Council
+  oar_chapter: '345'
+  raw_index_name: Energy Facility Siting Council
+  source_url: https://oregon.public.law/rules/oar_chapter_345
+  parent_slug: department-of-energy
+  parent_chapter: '330'
 - slug: department-of-environmental-quality
   name: Department of Environmental Quality
-  parent_abbr: null
-  raw_title: Environmental Quality, Department of
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/environmental-quality.aspx
-- slug: department-of-fish-wildlife
-  name: Department of Fish & Wildlife
-  parent_abbr: null
-  raw_title: Fish & Wildlife, Department of
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/fish-wildlife.aspx
+  oar_chapter: '340'
+  raw_index_name: Dept. of Environmental Quality
+  source_url: https://oregon.public.law/rules/oar_chapter_340
+  parent_slug: null
+  parent_chapter: null
+- slug: department-of-fish-and-wildlife
+  name: Department of Fish and Wildlife
+  oar_chapter: '635'
+  raw_index_name: Dept. of Fish & Wildlife
+  source_url: https://oregon.public.law/rules/oar_chapter_635
+  parent_slug: null
+  parent_chapter: null
 - slug: department-of-forestry
   name: Department of Forestry
-  parent_abbr: null
-  raw_title: Forestry, Department of
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/forestry.aspx
+  oar_chapter: '629'
+  raw_index_name: Dept. of Forestry
+  source_url: https://oregon.public.law/rules/oar_chapter_629
+  parent_slug: null
+  parent_chapter: null
+- slug: department-of-geology-and-mineral-industries
+  name: Department of Geology and Mineral Industries
+  oar_chapter: '632'
+  raw_index_name: Dept. of Geology & Mineral Industries
+  source_url: https://oregon.public.law/rules/oar_chapter_632
+  parent_slug: null
+  parent_chapter: null
 - slug: department-of-human-services
   name: Department of Human Services
-  parent_abbr: null
-  raw_title: Human Services, Department of
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/human-services.aspx
-- slug: department-of-public-safety-standards-training
-  name: Department of Public Safety Standards & Training
-  parent_abbr: null
-  raw_title: Public Safety Standards & Training, Department of
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/public-safety-standards.aspx
+  oar_chapter: '407'
+  raw_index_name: Dept. of Human Services
+  source_url: https://oregon.public.law/rules/oar_chapter_407
+  parent_slug: null
+  parent_chapter: null
+- slug: department-of-human-services-aging-and-people-with-disabilities-and-developmental-disabilities
+  name: Department of Human Services, Aging and People with Disabilities and Developmental Disabilities
+  oar_chapter: '411'
+  raw_index_name: Aging & People with Disabilities and Developmental Disabilities
+  source_url: https://oregon.public.law/rules/oar_chapter_411
+  parent_slug: department-of-human-services
+  parent_chapter: '407'
+- slug: department-of-human-services-child-welfare-programs
+  name: Department of Human Services, Child Welfare Programs
+  oar_chapter: '413'
+  raw_index_name: Child Welfare Programs
+  source_url: https://oregon.public.law/rules/oar_chapter_413
+  parent_slug: department-of-human-services
+  parent_chapter: '407'
+- slug: department-of-human-services-home-care-commission
+  name: Department of Human Services, Home Care Commission
+  oar_chapter: '418'
+  raw_index_name: Home Care Comm'n
+  source_url: https://oregon.public.law/rules/oar_chapter_418
+  parent_slug: department-of-human-services
+  parent_chapter: '407'
+- slug: department-of-human-services-self-sufficiency-programs
+  name: Department of Human Services, Self-Sufficiency Programs
+  oar_chapter: '461'
+  raw_index_name: Self-Sufficiency Programs
+  source_url: https://oregon.public.law/rules/oar_chapter_461
+  parent_slug: department-of-human-services
+  parent_chapter: '407'
+- slug: department-of-human-services-vocational-rehabilitation-services
+  name: Department of Human Services, Vocational Rehabilitation Services
+  oar_chapter: '582'
+  raw_index_name: Vocational Rehabilitation Services
+  source_url: https://oregon.public.law/rules/oar_chapter_582
+  parent_slug: department-of-human-services
+  parent_chapter: '407'
+- slug: department-of-justice
+  name: Department of Justice
+  oar_chapter: '137'
+  raw_index_name: Dept. of Justice
+  source_url: https://oregon.public.law/rules/oar_chapter_137
+  parent_slug: null
+  parent_chapter: null
+- slug: department-of-public-safety-standards-and-training
+  name: Department of Public Safety Standards and Training
+  oar_chapter: '259'
+  raw_index_name: Dept. of Pub. Safety Standards & Training
+  source_url: https://oregon.public.law/rules/oar_chapter_259
+  parent_slug: null
+  parent_chapter: null
 - slug: department-of-revenue
   name: Department of Revenue
-  parent_abbr: null
-  raw_title: Revenue, Department of
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/revenue.aspx
+  oar_chapter: '150'
+  raw_index_name: Dept. of Revenue
+  source_url: https://oregon.public.law/rules/oar_chapter_150
+  parent_slug: null
+  parent_chapter: null
 - slug: department-of-state-lands
   name: Department of State Lands
-  parent_abbr: null
-  raw_title: State Lands, Department of
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/state-lands.aspx
-- slug: department-of-the-state-fire-marshal
-  name: Department of the State Fire Marshal
-  parent_abbr: null
-  raw_title: Fire Marshal, Department of the State
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/fire-marshal.aspx
+  oar_chapter: '141'
+  raw_index_name: Dept. of State Lands
+  source_url: https://oregon.public.law/rules/oar_chapter_141
+  parent_slug: null
+  parent_chapter: null
+- slug: department-of-state-lands-south-slough-national-estuarine-research-reserve
+  name: Department of State Lands, South Slough National Estuarine Research Reserve
+  oar_chapter: '142'
+  raw_index_name: South Slough National Estuarine Research Reserve
+  source_url: https://oregon.public.law/rules/oar_chapter_142
+  parent_slug: department-of-state-lands
+  parent_chapter: '141'
+- slug: department-of-state-police
+  name: Department of State Police
+  oar_chapter: '257'
+  raw_index_name: Dept. of State Police
+  source_url: https://oregon.public.law/rules/oar_chapter_257
+  parent_slug: null
+  parent_chapter: null
+- slug: department-of-state-police-office-of-state-fire-marshal
+  name: Department of State Police, Office of State Fire Marshal
+  oar_chapter: '837'
+  raw_index_name: Office of State Fire Marshal
+  source_url: https://oregon.public.law/rules/oar_chapter_837
+  parent_slug: department-of-state-police
+  parent_chapter: '257'
+- slug: department-of-state-police-oregon-state-athletic-commission
+  name: Department of State Police, Oregon State Athletic Commission
+  oar_chapter: '230'
+  raw_index_name: Or. State Athletic Comm'n
+  source_url: https://oregon.public.law/rules/oar_chapter_230
+  parent_slug: department-of-state-police
+  parent_chapter: '257'
 - slug: department-of-transportation
   name: Department of Transportation
-  parent_abbr: null
-  raw_title: Transportation, Department of
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/transportation.aspx
+  oar_chapter: '731'
+  raw_index_name: Dept. of Transportation
+  source_url: https://oregon.public.law/rules/oar_chapter_731
+  parent_slug: null
+  parent_chapter: null
+- slug: department-of-transportation-driver-and-motor-vehicle-services-division
+  name: Department of Transportation, Driver and Motor Vehicle Services Division
+  oar_chapter: '735'
+  raw_index_name: Driver & Motor Vehicle Services Division
+  source_url: https://oregon.public.law/rules/oar_chapter_735
+  parent_slug: department-of-transportation
+  parent_chapter: '731'
+- slug: department-of-transportation-highway-division
+  name: Department of Transportation, Highway Division
+  oar_chapter: '734'
+  raw_index_name: Highway Division
+  source_url: https://oregon.public.law/rules/oar_chapter_734
+  parent_slug: department-of-transportation
+  parent_chapter: '731'
+- slug: department-of-transportation-motor-carrier-transportation-division
+  name: Department of Transportation, Motor Carrier Transportation Division
+  oar_chapter: '740'
+  raw_index_name: Motor Carrier Transportation Division
+  source_url: https://oregon.public.law/rules/oar_chapter_740
+  parent_slug: department-of-transportation
+  parent_chapter: '731'
+- slug: department-of-transportation-public-transit-division
+  name: Department of Transportation, Public Transit Division
+  oar_chapter: '732'
+  raw_index_name: Pub. Transit Division
+  source_url: https://oregon.public.law/rules/oar_chapter_732
+  parent_slug: department-of-transportation
+  parent_chapter: '731'
+- slug: department-of-transportation-rail-division
+  name: Department of Transportation, Rail Division
+  oar_chapter: '741'
+  raw_index_name: Rail Division
+  source_url: https://oregon.public.law/rules/oar_chapter_741
+  parent_slug: department-of-transportation
+  parent_chapter: '731'
+- slug: department-of-transportation-transportation-safety-division
+  name: Department of Transportation, Transportation Safety Division
+  oar_chapter: '737'
+  raw_index_name: Transportation Safety Division
+  source_url: https://oregon.public.law/rules/oar_chapter_737
+  parent_slug: department-of-transportation
+  parent_chapter: '731'
 - slug: department-of-veterans-affairs
   name: Department of Veterans' Affairs
-  parent_abbr: null
-  raw_title: Veterans' Affairs, Department of
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/veterans-affairs.aspx
-- slug: district-attorneys
-  name: District Attorneys
-  parent_abbr: null
-  raw_title: District Attorneys
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/district-attorneys.aspx
-- slug: driver-motor-vehicle-division-dmv
-  name: Driver & Motor Vehicle Division (DMV)
-  parent_abbr: ODOT
-  raw_title: Driver & Motor Vehicle Division (DMV)​ - ODOT
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/transportation-subdivisions.aspx#dmv
-- slug: elections-division
-  name: Elections Division
-  parent_abbr: SOS
-  raw_title: Elections Division - SOS
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/secretary-of-state-subdivisions.aspx#elections
+  oar_chapter: '274'
+  raw_index_name: Dept. of Veterans' Affairs
+  source_url: https://oregon.public.law/rules/oar_chapter_274
+  parent_slug: null
+  parent_chapter: null
+- slug: eastern-oregon-border-economic-development-board
+  name: Eastern Oregon Border Economic Development Board
+  oar_chapter: '124'
+  raw_index_name: Eastern Or. Border Econ. Dev. Board
+  source_url: https://oregon.public.law/rules/oar_chapter_124
+  parent_slug: null
+  parent_chapter: null
+- slug: economic-recovery-review-council
+  name: Economic Recovery Review Council
+  oar_chapter: '966'
+  raw_index_name: Econ. Recovery Review Council
+  source_url: https://oregon.public.law/rules/oar_chapter_966
+  parent_slug: null
+  parent_chapter: null
 - slug: employment-department
   name: Employment Department
-  parent_abbr: null
-  raw_title: Employment Department
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/employment.aspx
+  oar_chapter: '471'
+  raw_index_name: Employment Dept.
+  source_url: https://oregon.public.law/rules/oar_chapter_471
+  parent_slug: null
+  parent_chapter: null
 - slug: employment-relations-board
   name: Employment Relations Board
-  parent_abbr: null
-  raw_title: Employment Relations Board
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/employment-relations.aspx
-- slug: environmental-health-registration-board
-  name: Environmental Health Registration Board
-  parent_abbr: null
-  raw_title: Environmental Health Registration Board
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/health-licensing-subdivisions.aspx#environmental
-- slug: financial-regulation-division
-  name: Financial Regulation Division
-  parent_abbr: DCBS
-  raw_title: Financial Regulation Division - DCBS
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/consumer-subdivisions.aspx#financial
-- slug: government-ethics-commission
-  name: Government Ethics Commission
-  parent_abbr: null
-  raw_title: Government Ethics Commission
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/government-ethics.aspx
-- slug: governor-s-office
-  name: Governor's Office
-  parent_abbr: null
-  raw_title: Governor's Office
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/governor.aspx
-- slug: health-licensing-office
-  name: Health Licensing Office
-  parent_abbr: null
-  raw_title: Health Licensing Office​
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/health-authority-subdivisions.aspx#licensing
+  oar_chapter: '115'
+  raw_index_name: Employment Relations Board
+  source_url: https://oregon.public.law/rules/oar_chapter_115
+  parent_slug: null
+  parent_chapter: null
 - slug: higher-education-coordinating-commission
   name: Higher Education Coordinating Commission
-  parent_abbr: null
-  raw_title: Higher Education Coordinating Commission
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/hecc.aspx
-- slug: hispanic-affairs-commission
-  name: Hispanic Affairs Commission
-  parent_abbr: null
-  raw_title: Hispanic Affairs Commission
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/advocacy-commissions-subdivisions.aspx#hispanic
-- slug: housing-community-services-department
-  name: Housing & Community Services Department
-  parent_abbr: null
-  raw_title: Housing & Community Services Department
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/housing.aspx
-- slug: intellectual-developmental-disabilities-program
-  name: Intellectual & Developmental Disabilities Program
-  parent_abbr: null
-  raw_title: Intellectual & Developmental Disabilities Program
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/human-services-subdivisions.aspx#disabilities
-- slug: land-conservation-development-department
-  name: Land Conservation & Development Department
-  parent_abbr: null
-  raw_title: Land Conservation & Development Department
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/land-conservation.aspx
+  oar_chapter: '715'
+  raw_index_name: Higher Education Coordinating Comm'n
+  source_url: https://oregon.public.law/rules/oar_chapter_715
+  parent_slug: null
+  parent_chapter: null
+- slug: higher-education-coordinating-commission-office-of-community-colleges-and-workforce-development
+  name: Higher Education Coordinating Commission, Office of Community Colleges and Workforce Development
+  oar_chapter: '589'
+  raw_index_name: Office of Community Colleges & Workforce Dev.
+  source_url: https://oregon.public.law/rules/oar_chapter_589
+  parent_slug: higher-education-coordinating-commission
+  parent_chapter: '715'
+- slug: higher-education-coordinating-commission-office-of-degree-authorization
+  name: Higher Education Coordinating Commission, Office of Degree Authorization
+  oar_chapter: '583'
+  raw_index_name: Office of Degree Authorization
+  source_url: https://oregon.public.law/rules/oar_chapter_583
+  parent_slug: higher-education-coordinating-commission
+  parent_chapter: '715'
+- slug: higher-education-coordinating-commission-office-of-student-access-and-completion
+  name: Higher Education Coordinating Commission, Office of Student Access and Completion
+  oar_chapter: '575'
+  raw_index_name: Office of Student Access & Completion
+  source_url: https://oregon.public.law/rules/oar_chapter_575
+  parent_slug: higher-education-coordinating-commission
+  parent_chapter: '715'
+- slug: judicial-department
+  name: Judicial Department
+  oar_chapter: '198'
+  raw_index_name: Judicial Dept.
+  source_url: https://oregon.public.law/rules/oar_chapter_198
+  parent_slug: null
+  parent_chapter: null
+- slug: land-conservation-and-development-department
+  name: Land Conservation and Development Department
+  oar_chapter: '660'
+  raw_index_name: Land Conservation & Dev. Dept.
+  source_url: https://oregon.public.law/rules/oar_chapter_660
+  parent_slug: null
+  parent_chapter: null
 - slug: land-use-board-of-appeals
   name: Land Use Board of Appeals
-  parent_abbr: null
-  raw_title: Land Use Board of Appeals
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/land-use.aspx
+  oar_chapter: '661'
+  raw_index_name: Land Use Board of Appeals
+  source_url: https://oregon.public.law/rules/oar_chapter_661
+  parent_slug: null
+  parent_chapter: null
 - slug: landscape-architect-board
   name: Landscape Architect Board
-  parent_abbr: null
-  raw_title: Landscape Architect Board
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/landscape-architect.aspx
+  oar_chapter: '804'
+  raw_index_name: Landscape Architect Board
+  source_url: https://oregon.public.law/rules/oar_chapter_804
+  parent_slug: null
+  parent_chapter: null
 - slug: landscape-contractors-board
   name: Landscape Contractors Board
-  parent_abbr: null
-  raw_title: Landscape Contractors Board
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/landscape-contractors.aspx
-- slug: liquor-cannabis-commission
-  name: Liquor & Cannabis Commission
-  parent_abbr: null
-  raw_title: Liquor & Cannabis Commission
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/liquor-cannabis.aspx
+  oar_chapter: '808'
+  raw_index_name: Landscape Contractors Board
+  source_url: https://oregon.public.law/rules/oar_chapter_808
+  parent_slug: null
+  parent_chapter: null
+- slug: legislative-administration-committee
+  name: Legislative Administration Committee
+  oar_chapter: '156'
+  raw_index_name: Legislative Administration Committee
+  source_url: https://oregon.public.law/rules/oar_chapter_156
+  parent_slug: null
+  parent_chapter: null
+- slug: long-term-care-ombudsman
+  name: Long Term Care Ombudsman
+  oar_chapter: '114'
+  raw_index_name: Long Term Care Ombudsman
+  source_url: https://oregon.public.law/rules/oar_chapter_114
+  parent_slug: null
+  parent_chapter: null
 - slug: mental-health-regulatory-agency
   name: Mental Health Regulatory Agency
-  parent_abbr: null
-  raw_title: Mental Health Regulatory Agency
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/mental-health-regulatory.aspx
-- slug: military-department
-  name: Military Department
-  parent_abbr: null
-  raw_title: Military Department
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/military.aspx
-- slug: mortuary-cemetery-board
-  name: Mortuary & Cemetery Board
-  parent_abbr: null
-  raw_title: Mortuary & Cemetery Board
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/mortuary-cemetery.aspx
-- slug: northwest-power-conservation-council
-  name: Northwest Power & Conservation Council
-  parent_abbr: null
-  raw_title: Northwest Power & Conservation Council
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/northwest-power-conservation.aspx
-- slug: occupational-safety-health-division
-  name: Occupational Safety & Health Division
-  parent_abbr: DCBS
-  raw_title: Occupational Safety & Health Division - DCBS
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/consumer-subdivisions.aspx#occupational
+  oar_chapter: null
+  raw_index_name: Mental Health Regulatory Agency
+  source_url: https://oregon.public.law/rules
+  parent_slug: null
+  parent_chapter: null
+- slug: mental-health-regulatory-agency-oregon-board-of-licensed-professional-counselors-and-therapists
+  name: Mental Health Regulatory Agency, Oregon Board of Licensed Professional Counselors and Therapists
+  oar_chapter: '833'
+  raw_index_name: Or. Board of Licensed Professional Counselors & Therapists
+  source_url: https://oregon.public.law/rules/oar_chapter_833
+  parent_slug: mental-health-regulatory-agency
+  parent_chapter: null
+- slug: mental-health-regulatory-agency-oregon-board-of-psychology
+  name: Mental Health Regulatory Agency, Oregon Board of Psychology
+  oar_chapter: '858'
+  raw_index_name: Or. Board of Psychology
+  source_url: https://oregon.public.law/rules/oar_chapter_858
+  parent_slug: mental-health-regulatory-agency
+  parent_chapter: null
+- slug: mortuary-and-cemetery-board
+  name: Mortuary and Cemetery Board
+  oar_chapter: '830'
+  raw_index_name: Mortuary & Cemetery Board
+  source_url: https://oregon.public.law/rules/oar_chapter_830
+  parent_slug: null
+  parent_chapter: null
 - slug: occupational-therapy-licensing-board
   name: Occupational Therapy Licensing Board
-  parent_abbr: null
-  raw_title: Occupational Therapy Licensing Board
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/occupational-therapy.aspx
-- slug: office-of-administrative-hearings
-  name: Office of Administrative Hearings
-  parent_abbr: null
-  raw_title: Administrative Hearings, Office of
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/administrative-hearings.aspx
-- slug: office-of-community-colleges-workforce-development
-  name: Office of Community Colleges & Workforce Development
-  parent_abbr: HECC
-  raw_title: Community Colleges & Workforce Development, Office of​ - HECC
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/hecc-subdivisions.aspx#community-workforce
-- slug: office-of-long-term-care-ombudsman
-  name: Office of Long-Term Care Ombudsman
-  parent_abbr: null
-  raw_title: Long-Term Care Ombudsman, Office of
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/long-term-care.aspx
-- slug: office-of-the-public-records-advocate
-  name: Office of the Public Records Advocate
-  parent_abbr: null
-  raw_title: Public Records Advocate, Office of the
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/public-records-advocate.aspx
-- slug: office-of-the-secretary-of-state
-  name: Office of the Secretary Of State
-  parent_abbr: null
-  raw_title: Secretary Of State, Office of the
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/secretary-of-state.aspx
-- slug: oregon-advocacy-commissions-office
-  name: Oregon Advocacy Commissions Office
-  parent_abbr: null
-  raw_title: Advocacy Commissions Office, Oregon
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/advocacy-commissions.aspx
+  oar_chapter: '339'
+  raw_index_name: Occupational Therapy Licensing Board
+  source_url: https://oregon.public.law/rules/oar_chapter_339
+  parent_slug: null
+  parent_chapter: null
+- slug: oregon-529-savings-board
+  name: Oregon 529 Savings Board
+  oar_chapter: '173'
+  raw_index_name: Or. 529 Savings Board
+  source_url: https://oregon.public.law/rules/oar_chapter_173
+  parent_slug: null
+  parent_chapter: null
+- slug: oregon-board-of-accountancy
+  name: Oregon Board of Accountancy
+  oar_chapter: '801'
+  raw_index_name: Or. Board of Accountancy
+  source_url: https://oregon.public.law/rules/oar_chapter_801
+  parent_slug: null
+  parent_chapter: null
 - slug: oregon-board-of-dentistry
   name: Oregon Board of Dentistry
-  parent_abbr: null
-  raw_title: Dentistry, Oregon Board of
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/dentistry.aspx
+  oar_chapter: '818'
+  raw_index_name: Or. Board of Dentistry
+  source_url: https://oregon.public.law/rules/oar_chapter_818
+  parent_slug: null
+  parent_chapter: null
+- slug: oregon-board-of-naturopathic-medicine
+  name: Oregon Board of Naturopathic Medicine
+  oar_chapter: '850'
+  raw_index_name: Or. Board of Naturopathic Medicine
+  source_url: https://oregon.public.law/rules/oar_chapter_850
+  parent_slug: null
+  parent_chapter: null
 - slug: oregon-board-of-physical-therapy
   name: Oregon Board of Physical Therapy
-  parent_abbr: null
-  raw_title: Physical Therapy, Oregon Board of
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/physical-therapist.aspx
-- slug: oregon-department-of-justice
-  name: Oregon Department of Justice
-  parent_abbr: null
-  raw_title: Justice, Oregon Department of
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/justice.aspx
-- slug: oregon-film-video-office
-  name: Oregon Film & Video Office
-  parent_abbr: null
-  raw_title: Film & Video Office, Oregon
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/film.aspx
+  oar_chapter: '848'
+  raw_index_name: Or. Board of Physical Therapy
+  source_url: https://oregon.public.law/rules/oar_chapter_848
+  parent_slug: null
+  parent_chapter: null
+- slug: oregon-business-development-department
+  name: Oregon Business Development Department
+  oar_chapter: '123'
+  raw_index_name: Or. Business Dev. Dept.
+  source_url: https://oregon.public.law/rules/oar_chapter_123
+  parent_slug: null
+  parent_chapter: null
+- slug: oregon-criminal-justice-commission
+  name: Oregon Criminal Justice Commission
+  oar_chapter: '213'
+  raw_index_name: Or. Criminal Justice Comm'n
+  source_url: https://oregon.public.law/rules/oar_chapter_213
+  parent_slug: null
+  parent_chapter: null
+- slug: oregon-department-of-aviation
+  name: Oregon Department of Aviation
+  oar_chapter: '738'
+  raw_index_name: Or. Dept. of Aviation
+  source_url: https://oregon.public.law/rules/oar_chapter_738
+  parent_slug: null
+  parent_chapter: null
+- slug: oregon-department-of-education
+  name: Oregon Department of Education
+  oar_chapter: '581'
+  raw_index_name: Or. Dept. of Education
+  source_url: https://oregon.public.law/rules/oar_chapter_581
+  parent_slug: null
+  parent_chapter: null
+- slug: oregon-department-of-education-early-learning-division
+  name: Oregon Department of Education, Early Learning Division
+  oar_chapter: '414'
+  raw_index_name: Early Learning Division
+  source_url: https://oregon.public.law/rules/oar_chapter_414
+  parent_slug: oregon-department-of-education
+  parent_chapter: '581'
+- slug: oregon-department-of-education-fair-dismissal-appeals-board
+  name: Oregon Department of Education, Fair Dismissal Appeals Board
+  oar_chapter: '586'
+  raw_index_name: Fair Dismissal Appeals Board
+  source_url: https://oregon.public.law/rules/oar_chapter_586
+  parent_slug: oregon-department-of-education
+  parent_chapter: '581'
+- slug: oregon-department-of-education-youth-development-division
+  name: Oregon Department of Education, Youth Development Division
+  oar_chapter: '423'
+  raw_index_name: Youth Dev. Division
+  source_url: https://oregon.public.law/rules/oar_chapter_423
+  parent_slug: oregon-department-of-education
+  parent_chapter: '581'
+- slug: oregon-facilities-authority
+  name: Oregon Facilities Authority
+  oar_chapter: '172'
+  raw_index_name: Or. Facilities Authority
+  source_url: https://oregon.public.law/rules/oar_chapter_172
+  parent_slug: null
+  parent_chapter: null
+- slug: oregon-film-and-video-office
+  name: Oregon Film and Video Office
+  oar_chapter: '951'
+  raw_index_name: Or. Film & Video Office
+  source_url: https://oregon.public.law/rules/oar_chapter_951
+  parent_slug: null
+  parent_chapter: null
 - slug: oregon-forest-resources-institute
   name: Oregon Forest Resources Institute
-  parent_abbr: null
-  raw_title: Forest Resources Institute, Oregon
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/forest-resources.aspx
+  oar_chapter: '628'
+  raw_index_name: Or. Forest Resources Institute
+  source_url: https://oregon.public.law/rules/oar_chapter_628
+  parent_slug: null
+  parent_chapter: null
+- slug: oregon-government-ethics-commission
+  name: Oregon Government Ethics Commission
+  oar_chapter: '199'
+  raw_index_name: Or. Government Ethics Comm'n
+  source_url: https://oregon.public.law/rules/oar_chapter_199
+  parent_slug: null
+  parent_chapter: null
 - slug: oregon-health-authority
   name: Oregon Health Authority
-  parent_abbr: null
-  raw_title: Health Authority, Oregon
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/health-authority.aspx
+  oar_chapter: '943'
+  raw_index_name: Or. Health Authority
+  source_url: https://oregon.public.law/rules/oar_chapter_943
+  parent_slug: null
+  parent_chapter: null
+- slug: oregon-health-authority-health-licensing-office
+  name: Oregon Health Authority, Health Licensing Office
+  oar_chapter: '331'
+  raw_index_name: Health Licensing Office
+  source_url: https://oregon.public.law/rules/oar_chapter_331
+  parent_slug: oregon-health-authority
+  parent_chapter: '943'
+- slug: oregon-health-authority-health-licensing-office-behavior-analysis-regulatory-board
+  name: Oregon Health Authority, Health Licensing Office, Behavior Analysis Regulatory Board
+  oar_chapter: '824'
+  raw_index_name: Health Licensing Office:<br> Behavior Analysis Regulatory Board
+  source_url: https://oregon.public.law/rules/oar_chapter_824
+  parent_slug: oregon-health-authority
+  parent_chapter: '943'
+- slug: oregon-health-authority-health-licensing-office-board-of-certified-advanced-estheticians
+  name: Oregon Health Authority, Health Licensing Office, Board of Certified Advanced Estheticians
+  oar_chapter: '819'
+  raw_index_name: Health Licensing Office:<br> Board of Certified Advanced Estheticians
+  source_url: https://oregon.public.law/rules/oar_chapter_819
+  parent_slug: oregon-health-authority
+  parent_chapter: '943'
+- slug: oregon-health-authority-health-licensing-office-board-of-cosmetology
+  name: Oregon Health Authority, Health Licensing Office, Board of Cosmetology
+  oar_chapter: '817'
+  raw_index_name: Health Licensing Office:<br> Board of Cosmetology
+  source_url: https://oregon.public.law/rules/oar_chapter_817
+  parent_slug: oregon-health-authority
+  parent_chapter: '943'
+- slug: oregon-health-authority-health-licensing-office-board-of-direct-entry-midwifery
+  name: Oregon Health Authority, Health Licensing Office, Board of Direct Entry Midwifery
+  oar_chapter: '332'
+  raw_index_name: Health Licensing Office:<br> Board of Direct Entry Midwifery
+  source_url: https://oregon.public.law/rules/oar_chapter_332
+  parent_slug: oregon-health-authority
+  parent_chapter: '943'
+- slug: oregon-health-authority-health-licensing-office-board-of-licensed-dietitians
+  name: Oregon Health Authority, Health Licensing Office, Board of Licensed Dietitians
+  oar_chapter: '834'
+  raw_index_name: Health Licensing Office:<br> Board of Licensed Dietitians
+  source_url: https://oregon.public.law/rules/oar_chapter_834
+  parent_slug: oregon-health-authority
+  parent_chapter: '943'
+- slug: oregon-health-authority-health-licensing-office-environmental-health-registration-board
+  name: Oregon Health Authority, Health Licensing Office, Environmental Health Registration Board
+  oar_chapter: '338'
+  raw_index_name: Health Licensing Office:<br> Environmental Health Registration Board
+  source_url: https://oregon.public.law/rules/oar_chapter_338
+  parent_slug: oregon-health-authority
+  parent_chapter: '943'
+- slug: oregon-health-authority-health-licensing-office-long-term-care-administrators-board
+  name: Oregon Health Authority, Health Licensing Office, Long Term Care Administrators Board
+  oar_chapter: '853'
+  raw_index_name: Health Licensing Office:<br> Long Term Care Administrators Board
+  source_url: https://oregon.public.law/rules/oar_chapter_853
+  parent_slug: oregon-health-authority
+  parent_chapter: '943'
+- slug: oregon-health-authority-health-policy-and-analytics
+  name: Oregon Health Authority, Health Policy and Analytics
+  oar_chapter: '409'
+  raw_index_name: Health Policy & Analytics
+  source_url: https://oregon.public.law/rules/oar_chapter_409
+  parent_slug: oregon-health-authority
+  parent_chapter: '943'
+- slug: oregon-health-authority-health-systems-division-addiction-services
+  name: 'Oregon Health Authority, Health Systems Division: Addiction Services'
+  oar_chapter: '415'
+  raw_index_name: Health Systems Division:<br> Addiction Services
+  source_url: https://oregon.public.law/rules/oar_chapter_415
+  parent_slug: oregon-health-authority
+  parent_chapter: '943'
+- slug: oregon-health-authority-health-systems-division-behavioral-health-services
+  name: 'Oregon Health Authority, Health Systems Division: Behavioral Health Services'
+  oar_chapter: '309'
+  raw_index_name: Health Systems Division:<br> Behavioral Health Services
+  source_url: https://oregon.public.law/rules/oar_chapter_309
+  parent_slug: oregon-health-authority
+  parent_chapter: '943'
+- slug: oregon-health-authority-health-systems-division-medical-assistance-programs
+  name: 'Oregon Health Authority, Health Systems Division: Medical Assistance Programs'
+  oar_chapter: '410'
+  raw_index_name: Health Systems Division:<br> Medical Assistance Programs
+  source_url: https://oregon.public.law/rules/oar_chapter_410
+  parent_slug: oregon-health-authority
+  parent_chapter: '943'
+- slug: oregon-health-authority-oregon-prescription-drug-program
+  name: Oregon Health Authority, Oregon Prescription Drug Program
+  oar_chapter: '431'
+  raw_index_name: Or. Prescription Drug Program
+  source_url: https://oregon.public.law/rules/oar_chapter_431
+  parent_slug: oregon-health-authority
+  parent_chapter: '943'
+- slug: oregon-health-authority-public-employees-benefit-board
+  name: Oregon Health Authority, Public Employees' Benefit Board
+  oar_chapter: '101'
+  raw_index_name: Pub. Employees' Benefit Board
+  source_url: https://oregon.public.law/rules/oar_chapter_101
+  parent_slug: oregon-health-authority
+  parent_chapter: '943'
+- slug: oregon-health-authority-public-health-division
+  name: Oregon Health Authority, Public Health Division
+  oar_chapter: '333'
+  raw_index_name: Pub. Health Division
+  source_url: https://oregon.public.law/rules/oar_chapter_333
+  parent_slug: oregon-health-authority
+  parent_chapter: '943'
+- slug: oregon-housing-and-community-services-department
+  name: Oregon Housing and Community Services Department
+  oar_chapter: '813'
+  raw_index_name: Or. Housing & Community Services Dept.
+  source_url: https://oregon.public.law/rules/oar_chapter_813
+  parent_slug: null
+  parent_chapter: null
+- slug: oregon-investment-council
+  name: Oregon Investment Council
+  oar_chapter: '171'
+  raw_index_name: Or. Investment Council
+  source_url: https://oregon.public.law/rules/oar_chapter_171
+  parent_slug: null
+  parent_chapter: null
+- slug: oregon-liquor-control-commission
+  name: Oregon Liquor Control Commission
+  oar_chapter: '845'
+  raw_index_name: Or. Liquor Control Comm'n
+  source_url: https://oregon.public.law/rules/oar_chapter_845
+  parent_slug: null
+  parent_chapter: null
 - slug: oregon-medical-board
   name: Oregon Medical Board
-  parent_abbr: null
-  raw_title: Medical Board, Oregon
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/medical-board.aspx
-- slug: oregon-public-universities
-  name: Oregon Public Universities
-  parent_abbr: null
-  raw_title: Universities, Oregon Public
-  blue_book_url: https://sos.oregon.gov/blue-book/education/Pages/higher.aspx
-- slug: oregon-state-board-of-nursing
-  name: Oregon State Board of Nursing
-  parent_abbr: null
-  raw_title: Nursing, Oregon State Board of
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/nursing-board.aspx
+  oar_chapter: '847'
+  raw_index_name: Or. Medical Board
+  source_url: https://oregon.public.law/rules/oar_chapter_847
+  parent_slug: null
+  parent_chapter: null
+- slug: oregon-military-department
+  name: Oregon Military Department
+  oar_chapter: null
+  raw_index_name: Or. Military Dept.
+  source_url: https://oregon.public.law/rules
+  parent_slug: null
+  parent_chapter: null
+- slug: oregon-military-department-office-of-emergency-management
+  name: Oregon Military Department, Office of Emergency Management
+  oar_chapter: '104'
+  raw_index_name: Office of Emergency Management
+  source_url: https://oregon.public.law/rules/oar_chapter_104
+  parent_slug: oregon-military-department
+  parent_chapter: null
+- slug: oregon-patient-safety-commission
+  name: Oregon Patient Safety Commission
+  oar_chapter: '325'
+  raw_index_name: Or. Patient Safety Comm'n
+  source_url: https://oregon.public.law/rules/oar_chapter_325
+  parent_slug: null
+  parent_chapter: null
+- slug: oregon-public-employees-retirement-system
+  name: Oregon Public Employees Retirement System
+  oar_chapter: '459'
+  raw_index_name: Or. Pub. Employees Retirement System
+  source_url: https://oregon.public.law/rules/oar_chapter_459
+  parent_slug: null
+  parent_chapter: null
+- slug: oregon-racing-commission
+  name: Oregon Racing Commission
+  oar_chapter: '462'
+  raw_index_name: Or. Racing Comm'n
+  source_url: https://oregon.public.law/rules/oar_chapter_462
+  parent_slug: null
+  parent_chapter: null
 - slug: oregon-state-library
   name: Oregon State Library
-  parent_abbr: null
-  raw_title: Library, Oregon State
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/library-state.aspx
+  oar_chapter: '543'
+  raw_index_name: Or. State Library
+  source_url: https://oregon.public.law/rules/oar_chapter_543
+  parent_slug: null
+  parent_chapter: null
 - slug: oregon-state-lottery
   name: Oregon State Lottery
-  parent_abbr: null
-  raw_title: Lottery, Oregon State
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/lottery.aspx
+  oar_chapter: '177'
+  raw_index_name: Or. State Lottery
+  source_url: https://oregon.public.law/rules/oar_chapter_177
+  parent_slug: null
+  parent_chapter: null
 - slug: oregon-state-marine-board
   name: Oregon State Marine Board
-  parent_abbr: null
-  raw_title: Marine Board, Oregon State
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/marine-board.aspx
-- slug: oregon-state-police
-  name: Oregon State Police
-  parent_abbr: null
-  raw_title: State Police, Oregon
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/state-police.aspx
-- slug: oregon-state-treasurer
-  name: Oregon State Treasurer
-  parent_abbr: null
-  raw_title: Treasurer, Oregon State
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/treasurer.aspx
-- slug: oregon-travel-oregon-tourism-commission
-  name: Oregon (Travel Oregon) Tourism Commission
-  parent_abbr: null
-  raw_title: Tourism Commission, Oregon (Travel Oregon)
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/tourism.aspx
+  oar_chapter: '250'
+  raw_index_name: Or. State Marine Board
+  source_url: https://oregon.public.law/rules/oar_chapter_250
+  parent_slug: null
+  parent_chapter: null
+- slug: oregon-state-treasury
+  name: Oregon State Treasury
+  oar_chapter: '170'
+  raw_index_name: Or. State Treasury
+  source_url: https://oregon.public.law/rules/oar_chapter_170
+  parent_slug: null
+  parent_chapter: null
+- slug: oregon-tourism-commission
+  name: Oregon Tourism Commission
+  oar_chapter: '976'
+  raw_index_name: Or. Tourism Comm'n
+  source_url: https://oregon.public.law/rules/oar_chapter_976
+  parent_slug: null
+  parent_chapter: null
+- slug: oregon-utility-notification-center
+  name: Oregon Utility Notification Center
+  oar_chapter: '952'
+  raw_index_name: Or. Utility Notification Center
+  source_url: https://oregon.public.law/rules/oar_chapter_952
+  parent_slug: null
+  parent_chapter: null
+- slug: oregon-watershed-enhancement-board
+  name: Oregon Watershed Enhancement Board
+  oar_chapter: '695'
+  raw_index_name: Or. Watershed Enhancement Board
+  source_url: https://oregon.public.law/rules/oar_chapter_695
+  parent_slug: null
+  parent_chapter: null
+- slug: oregon-watershed-enhancement-board-oregon-agricultural-heritage-program
+  name: Oregon Watershed Enhancement Board, Oregon Agricultural Heritage Program
+  oar_chapter: '698'
+  raw_index_name: Or. Agricultural Heritage Program
+  source_url: https://oregon.public.law/rules/oar_chapter_698
+  parent_slug: oregon-watershed-enhancement-board
+  parent_chapter: '695'
 - slug: oregon-wine-board
   name: Oregon Wine Board
-  parent_abbr: null
-  raw_title: Wine Board, Oregon
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/wine.aspx
+  oar_chapter: '619'
+  raw_index_name: Or. Wine Board
+  source_url: https://oregon.public.law/rules/oar_chapter_619
+  parent_slug: null
+  parent_chapter: null
 - slug: oregon-youth-authority
   name: Oregon Youth Authority
-  parent_abbr: null
-  raw_title: Youth Authority, Oregon
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/youth-authority.aspx
-- slug: parks-recreation-department
-  name: Parks & Recreation Department
-  parent_abbr: null
-  raw_title: Parks & Recreation Department
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/parks-recreation.aspx
-- slug: patient-safety-commission
-  name: Patient Safety Commission
-  parent_abbr: null
-  raw_title: Patient Safety Commission
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/patient-safety.aspx
+  oar_chapter: '416'
+  raw_index_name: Or. Youth Authority
+  source_url: https://oregon.public.law/rules/oar_chapter_416
+  parent_slug: null
+  parent_chapter: null
+- slug: parks-and-recreation-department
+  name: Parks and Recreation Department
+  oar_chapter: '736'
+  raw_index_name: Parks & Recreation Dept.
+  source_url: https://oregon.public.law/rules/oar_chapter_736
+  parent_slug: null
+  parent_chapter: null
 - slug: psychiatric-security-review-board
   name: Psychiatric Security Review Board
-  parent_abbr: null
-  raw_title: Psychiatric Security Review Board
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/psychiatric-security.aspx
-- slug: public-defense-commission
-  name: Public Defense Commission
-  parent_abbr: null
-  raw_title: Public Defense Commission
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/public-defense.aspx
-- slug: public-employees-benefit-board
-  name: Public Employees Benefit Board
-  parent_abbr: null
-  raw_title: Public Employees Benefit Board
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/health-authority-subdivisions.aspx#pebb
-- slug: public-employees-retirement-system
-  name: Public Employees Retirement System
-  parent_abbr: null
-  raw_title: Public Employees Retirement System
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/pers.aspx
-- slug: public-health-division
-  name: Public Health Division
-  parent_abbr: OHA
-  raw_title: Public Health Division - OHA
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/health-authority-subdivisions.aspx#public
+  oar_chapter: '859'
+  raw_index_name: Psychiatric Security Review Board
+  source_url: https://oregon.public.law/rules/oar_chapter_859
+  parent_slug: null
+  parent_chapter: null
 - slug: public-utility-commission
   name: Public Utility Commission
-  parent_abbr: null
-  raw_title: Public Utility Commission
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/public-utility.aspx
-- slug: racing-commission
-  name: Racing Commission
-  parent_abbr: null
-  raw_title: Racing Commission
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/racing.aspx
+  oar_chapter: '860'
+  raw_index_name: Pub. Utility Comm'n
+  source_url: https://oregon.public.law/rules/oar_chapter_860
+  parent_slug: null
+  parent_chapter: null
+- slug: public-utility-commission-oregon-board-of-maritime-pilots
+  name: Public Utility Commission, Oregon Board of Maritime Pilots
+  oar_chapter: '856'
+  raw_index_name: Or. Board of Maritime Pilots
+  source_url: https://oregon.public.law/rules/oar_chapter_856
+  parent_slug: public-utility-commission
+  parent_chapter: '860'
 - slug: real-estate-agency
   name: Real Estate Agency
-  parent_abbr: null
-  raw_title: Real Estate Agency
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/real-estate.aspx
-- slug: respiratory-therapist-polysomnographic-technologist-licensing-board
-  name: Respiratory Therapist & Polysomnographic Technologist Licensing Board
-  parent_abbr: null
-  raw_title: Respiratory Therapist & Polysomnographic Technologist Licensing Board
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/health-licensing-subdivisions.aspx#respiratory
+  oar_chapter: '863'
+  raw_index_name: Real Estate Agency
+  source_url: https://oregon.public.law/rules/oar_chapter_863
+  parent_slug: null
+  parent_chapter: null
+- slug: secretary-of-state
+  name: Secretary of State
+  oar_chapter: null
+  raw_index_name: Secretary of State
+  source_url: https://oregon.public.law/rules
+  parent_slug: null
+  parent_chapter: null
+- slug: secretary-of-state-archives-division
+  name: Secretary of State, Archives Division
+  oar_chapter: '166'
+  raw_index_name: Archives Division
+  source_url: https://oregon.public.law/rules/oar_chapter_166
+  parent_slug: secretary-of-state
+  parent_chapter: null
+- slug: secretary-of-state-audits-division
+  name: Secretary of State, Audits Division
+  oar_chapter: '162'
+  raw_index_name: Audits Division
+  source_url: https://oregon.public.law/rules/oar_chapter_162
+  parent_slug: secretary-of-state
+  parent_chapter: null
+- slug: secretary-of-state-business-services-division
+  name: Secretary of State, Business Services Division
+  oar_chapter: '167'
+  raw_index_name: Business Services Division
+  source_url: https://oregon.public.law/rules/oar_chapter_167
+  parent_slug: secretary-of-state
+  parent_chapter: null
+- slug: secretary-of-state-corporation-division
+  name: Secretary of State, Corporation Division
+  oar_chapter: '160'
+  raw_index_name: Corporation Division
+  source_url: https://oregon.public.law/rules/oar_chapter_160
+  parent_slug: secretary-of-state
+  parent_chapter: null
+- slug: secretary-of-state-elections-division
+  name: Secretary of State, Elections Division
+  oar_chapter: '165'
+  raw_index_name: Elections Division
+  source_url: https://oregon.public.law/rules/oar_chapter_165
+  parent_slug: secretary-of-state
+  parent_chapter: null
+- slug: southern-oregon-university
+  name: Southern Oregon University
+  oar_chapter: '573'
+  raw_index_name: Southern Or. University
+  source_url: https://oregon.public.law/rules/oar_chapter_573
+  parent_slug: null
+  parent_chapter: null
 - slug: state-board-of-architect-examiners
   name: State Board of Architect Examiners
-  parent_abbr: null
-  raw_title: Architect Examiners, State Board of
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/architect.aspx
-- slug: state-board-of-examiners-for-engineering-land-surveying
-  name: State Board of Examiners for Engineering & Land Surveying
-  parent_abbr: null
-  raw_title: Engineering & Land Surveying, State Board of Examiners for
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/engineering.aspx
-- slug: state-board-of-examiners-for-speech-language-pathology-audiology
-  name: State Board of Examiners for Speech-Language Pathology & Audiology
-  parent_abbr: null
-  raw_title: Speech-Language Pathology & Audiology, State Board of Examiners for
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/speech-language.aspx
-- slug: state-board-of-geologist-examiners
-  name: State Board of Geologist Examiners
-  parent_abbr: null
-  raw_title: Geologist Examiners, State Board of
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/geologist-examiners.aspx
-- slug: state-board-of-licensed-social-workers
-  name: State Board of Licensed Social Workers
-  parent_abbr: null
-  raw_title: Social Workers, State Board of Licensed
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/social-workers-licensed.aspx
-- slug: state-board-of-pharmacy
-  name: State Board of Pharmacy
-  parent_abbr: null
-  raw_title: Pharmacy, State Board of
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/pharmacy-board.aspx
-- slug: state-department-of-geology-mineral-industries
-  name: State Department of Geology & Mineral Industries
-  parent_abbr: null
-  raw_title: Geology & Mineral Industries, State Department of
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/geology.aspx
-- slug: state-fair-council
-  name: State Fair Council
-  parent_abbr: null
-  raw_title: State Fair Council
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/state-fair.aspx
-- slug: teacher-standards-practices-commission
-  name: Teacher Standards & Practices Commission
-  parent_abbr: null
-  raw_title: Teacher Standards & Practices Commission
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/teacher-standards.aspx
+  oar_chapter: '806'
+  raw_index_name: State Board of Architect Exam'rs
+  source_url: https://oregon.public.law/rules/oar_chapter_806
+  parent_slug: null
+  parent_chapter: null
+- slug: teacher-standards-and-practices-commission
+  name: Teacher Standards and Practices Commission
+  oar_chapter: '584'
+  raw_index_name: Teacher Standards & Practices Comm'n
+  source_url: https://oregon.public.law/rules/oar_chapter_584
+  parent_slug: null
+  parent_chapter: null
 - slug: travel-information-council
   name: Travel Information Council
-  parent_abbr: null
-  raw_title: Travel Information Council
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/travel-information.aspx
+  oar_chapter: '733'
+  raw_index_name: Travel Information Council
+  source_url: https://oregon.public.law/rules/oar_chapter_733
+  parent_slug: null
+  parent_chapter: null
 - slug: veterinary-medical-examining-board
   name: Veterinary Medical Examining Board
-  parent_abbr: null
-  raw_title: Veterinary Medical Examining Board
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/veterinary.aspx
+  oar_chapter: '875'
+  raw_index_name: Veterinary Medical Examining Board
+  source_url: https://oregon.public.law/rules/oar_chapter_875
+  parent_slug: null
+  parent_chapter: null
 - slug: water-resources-department
   name: Water Resources Department
-  parent_abbr: null
-  raw_title: Water Resources Department
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/water-resources.aspx
-- slug: watershed-enhancement-board
-  name: Watershed Enhancement Board
-  parent_abbr: null
-  raw_title: Watershed Enhancement Board
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/watershed-enhancement.aspx
-- slug: workers-compensation-board
-  name: Workers’ Compensation Board
-  parent_abbr: DCBS
-  raw_title: Workers’ Compensation Board - DCBS
-  blue_book_url: https://sos.oregon.gov/blue-book/government/Pages/workers-compensation-board.aspx
+  oar_chapter: '690'
+  raw_index_name: Water Resources Dept.
+  source_url: https://oregon.public.law/rules/oar_chapter_690
+  parent_slug: null
+  parent_chapter: null

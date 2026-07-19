@@ -31,6 +31,8 @@
       "description": "Agency slug for agency-scoped docs; 'statewide' for ORS/OAR/EO; 'external' for external references"
     },
     "legal_authority": { "type": "array", "items": { "type": "string" } },
+    "statutes_implemented": { "type": "array", "items": { "type": "string" },
+      "description": "OARD's 'Statutes/Other Implemented' line, parsed: what the rule carries out (distinct from legal_authority, what authorizes it)" },
     "source_url": { "type": "string", "format": "uri", "pattern": "^https?://" },
     "source_format": { "enum": ["pdf", "html", "xml", "xls", "xlsx", "docx"] },
     "retrieved": { "type": "string", "format": "date", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },

@@ -54,7 +54,7 @@ The document prints a different date than its listing of record (known site typo
 - `agencies/department-of-administrative-services/accounting-manual/oam-15-60-25.md` — document's printed date differs from the listing of record (see Curator notes)
 - `agencies/department-of-administrative-services/accounting-manual/oam-45-20-00.md` — document's printed date differs from the listing of record (see Curator notes)
 
-## Unlinked rules/policies/procedures/standards — no graph edges (91)
+## Unlinked rules/policies/procedures/standards — no graph edges (90)
 
 `src/link_graph.py` found no authority citation (or, for procedures, no `_PR` naming match) connecting this document to anything else in the corpus. Usually means the source's authority/reference text doesn't match the extractor's citation patterns (a typo'd rule number, unusual wording) or the document genuinely has no printed authority — check the source and either fix the citation text or add a hand-authored relationship.
 
@@ -77,78 +77,77 @@ The document prints a different date than its listing of record (known site typo
 - `agencies/department-of-administrative-services/policies/das-60-000-04.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/department-of-administrative-services/policies/das-60-000-15.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/department-of-administrative-services/policies/das-60-000-25.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/122/001/oar-122-001-0000.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/001/oar-125-001-0000.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/010/oar-125-010-0005.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/035/oar-125-035-0005.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/035/oar-125-035-0010.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/035/oar-125-035-0015.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/035/oar-125-035-0020.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/035/oar-125-035-0025.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/035/oar-125-035-0030.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/035/oar-125-035-0035.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/035/oar-125-035-0040.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/035/oar-125-035-0045.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/035/oar-125-035-0050.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/035/oar-125-035-0055.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/035/oar-125-035-0060.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/035/oar-125-035-0065.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/035/oar-125-035-0070.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/035/oar-125-035-0075.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/040/oar-125-040-0010.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/045/oar-125-045-0205.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/045/oar-125-045-0210.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/045/oar-125-045-0213.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/045/oar-125-045-0214.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/045/oar-125-045-0215.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/045/oar-125-045-0216.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/045/oar-125-045-0221.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/045/oar-125-045-0222.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/045/oar-125-045-0230.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/045/oar-125-045-0235.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/045/oar-125-045-0240.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/045/oar-125-045-0255.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/045/oar-125-045-0260.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/045/oar-125-045-0265.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/070/oar-125-070-0000.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/122/001/oar-122-001-0000.md` — rule's authority is chapter-level only (ORS 183, ORS 184) — no section exists to link to; correct non-link
+- `rules/125/001/oar-125-001-0000.md` — rule's authority is chapter-level only (ORS 183) — no section exists to link to; correct non-link
+- `rules/125/010/oar-125-010-0005.md` — rule's cited authority is not in the corpus (ORS 279.015, ORS 279.055) — repealed/renumbered or an un-ingested chapter; verify, don't hand-link
+- `rules/125/035/oar-125-035-0005.md` — rule's authority is chapter-level only (ORS 279, ORS 283) — no section exists to link to; correct non-link
+- `rules/125/035/oar-125-035-0010.md` — rule's authority is chapter-level only (ORS 279, ORS 283) — no section exists to link to; correct non-link
+- `rules/125/035/oar-125-035-0015.md` — rule's authority is chapter-level only (ORS 279, ORS 283) — no section exists to link to; correct non-link
+- `rules/125/035/oar-125-035-0020.md` — rule's authority is chapter-level only (ORS 279, ORS 283) — no section exists to link to; correct non-link
+- `rules/125/035/oar-125-035-0025.md` — rule's authority is chapter-level only (ORS 279, ORS 283) — no section exists to link to; correct non-link
+- `rules/125/035/oar-125-035-0030.md` — rule's authority is chapter-level only (ORS 279, ORS 283) — no section exists to link to; correct non-link
+- `rules/125/035/oar-125-035-0035.md` — rule's authority is chapter-level only (ORS 279, ORS 283) — no section exists to link to; correct non-link
+- `rules/125/035/oar-125-035-0040.md` — rule's authority is chapter-level only (ORS 279, ORS 283) — no section exists to link to; correct non-link
+- `rules/125/035/oar-125-035-0045.md` — rule's authority is chapter-level only (ORS 279, ORS 283) — no section exists to link to; correct non-link
+- `rules/125/035/oar-125-035-0050.md` — rule's authority is chapter-level only (ORS 279, ORS 283) — no section exists to link to; correct non-link
+- `rules/125/035/oar-125-035-0055.md` — rule's authority is chapter-level only (ORS 279, ORS 283) — no section exists to link to; correct non-link
+- `rules/125/035/oar-125-035-0060.md` — rule's authority is chapter-level only (ORS 279, ORS 283) — no section exists to link to; correct non-link
+- `rules/125/035/oar-125-035-0065.md` — rule's authority is chapter-level only (ORS 279, ORS 283) — no section exists to link to; correct non-link
+- `rules/125/035/oar-125-035-0070.md` — rule's authority is chapter-level only (ORS 279, ORS 283) — no section exists to link to; correct non-link
+- `rules/125/035/oar-125-035-0075.md` — rule's authority is chapter-level only (ORS 279, ORS 283) — no section exists to link to; correct non-link
+- `rules/125/040/oar-125-040-0010.md` — rule's authority is chapter-level only (ORS 283) — no section exists to link to; correct non-link
+- `rules/125/045/oar-125-045-0205.md` — rule's cited authority is not in the corpus (ORS 270.015(2), ORS 270.100(1)(d), ORS 271.005, ORS 271.330…) — repealed/renumbered or an un-ingested chapter; verify, don't hand-link
+- `rules/125/045/oar-125-045-0210.md` — rule's cited authority is not in the corpus (ORS 270.015, ORS 270.100(1)(d), ORS 270.105, ORS 270.110) — repealed/renumbered or an un-ingested chapter; verify, don't hand-link
+- `rules/125/045/oar-125-045-0213.md` — rule's cited authority is not in the corpus (ORS 270.015, ORS 270.100, ORS 270.110, ORS 270.120) — repealed/renumbered or an un-ingested chapter; verify, don't hand-link
+- `rules/125/045/oar-125-045-0214.md` — rule's cited authority is not in the corpus (ORS 270.100, ORS 270.105, ORS 270.130, ORS 270.180…) — repealed/renumbered or an un-ingested chapter; verify, don't hand-link
+- `rules/125/045/oar-125-045-0215.md` — rule's cited authority is not in the corpus (ORS 270.015, ORS 270.100, ORS 270.105) — repealed/renumbered or an un-ingested chapter; verify, don't hand-link
+- `rules/125/045/oar-125-045-0216.md` — rule's cited authority is not in the corpus (ORS 270.100-270.105, ORS 270.110(4), ORS 270.120(6)) — repealed/renumbered or an un-ingested chapter; verify, don't hand-link
+- `rules/125/045/oar-125-045-0221.md` — rule's cited authority is not in the corpus (ORS 270.015, ORS 270.100, ORS 270.105, ORS 270.110…) — repealed/renumbered or an un-ingested chapter; verify, don't hand-link
+- `rules/125/045/oar-125-045-0222.md` — rule's cited authority is not in the corpus (ORS 270.015, ORS 270.100, ORS 270.105, ORS 270.110…) — repealed/renumbered or an un-ingested chapter; verify, don't hand-link
+- `rules/125/045/oar-125-045-0230.md` — rule's cited authority is not in the corpus (ORS 270.010, ORS 270.015(2), ORS 270.100(1)(d), ORS 270.110…) — repealed/renumbered or an un-ingested chapter; verify, don't hand-link
+- `rules/125/045/oar-125-045-0235.md` — rule's cited authority is not in the corpus (ORS 270.010, ORS 270.015(2), ORS 270.100-270.110, ORS 270.130-270.140) — repealed/renumbered or an un-ingested chapter; verify, don't hand-link
+- `rules/125/045/oar-125-045-0240.md` — rule's cited authority is not in the corpus (ORS 270.015(2), ORS 270.110(2)) — repealed/renumbered or an un-ingested chapter; verify, don't hand-link
+- `rules/125/045/oar-125-045-0255.md` — rule's cited authority is not in the corpus (ORS 270.015(2), ORS 270.100(1)(d), ORS 270.120) — repealed/renumbered or an un-ingested chapter; verify, don't hand-link
+- `rules/125/045/oar-125-045-0260.md` — rule's cited authority is not in the corpus (ORS 270.015(2), ORS 270.100(1)(d), ORS 270.120) — repealed/renumbered or an un-ingested chapter; verify, don't hand-link
+- `rules/125/045/oar-125-045-0265.md` — rule's cited authority is not in the corpus (ORS 270.015(2), ORS 270.100, ORS 270.155, ORS 270.180) — repealed/renumbered or an un-ingested chapter; verify, don't hand-link
+- `rules/125/070/oar-125-070-0000.md` — rule's authority is chapter-level only (ORS 276, ORS 283) — no section exists to link to; correct non-link
 - `rules/125/075/oar-125-075-0000.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/075/oar-125-075-0010.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/080/oar-125-080-0010.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/085/oar-125-085-0000.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/125/oar-125-125-0048.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/125/oar-125-125-0049.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/125/oar-125-125-0520.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/125/oar-125-125-0525.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/125/oar-125-125-0527.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/125/oar-125-125-0528.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/125/oar-125-125-0531.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/125/oar-125-125-0532.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/125/oar-125-125-0540.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/125/oar-125-125-0545.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/125/oar-125-125-0546.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/125/oar-125-125-0547.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/125/oar-125-125-0552.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/125/oar-125-125-0560.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/125/oar-125-125-0561.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/125/oar-125-125-0562.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/125/oar-125-125-0566.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/125/oar-125-125-0567.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/125/oar-125-125-0600.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/140/oar-125-140-0020.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/170/oar-125-170-0010.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/180/oar-125-180-1030.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/180/oar-125-180-1040.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/300/oar-125-300-0200.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/128/010/oar-128-010-0010.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/128/010/oar-128-010-0015.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/128/010/oar-128-010-0020.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/128/010/oar-128-010-0025.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/128/010/oar-128-010-0030.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/128/010/oar-128-010-0035.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/128/010/oar-128-010-0040.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/128/010/oar-128-010-0045.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/128/010/oar-128-010-0050.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/128/040/oar-128-040-0005.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/125/075/oar-125-075-0010.md` — rule's authority is chapter-level only (ORS 276, ORS 283) — no section exists to link to; correct non-link
+- `rules/125/080/oar-125-080-0010.md` — rule's authority is chapter-level only (ORS 276, ORS 283) — no section exists to link to; correct non-link
+- `rules/125/085/oar-125-085-0000.md` — rule's authority is chapter-level only (ORS 276, ORS 279, ORS 283) — no section exists to link to; correct non-link
+- `rules/125/125/oar-125-125-0048.md` — rule's authority is chapter-level only (ORS 183, ORS 276) — no section exists to link to; correct non-link
+- `rules/125/125/oar-125-125-0049.md` — rule's authority is chapter-level only (ORS 183) — no section exists to link to; correct non-link
+- `rules/125/125/oar-125-125-0520.md` — rule's authority is chapter-level only (ORS 183, ORS 197, ORS 276) — no section exists to link to; correct non-link
+- `rules/125/125/oar-125-125-0525.md` — rule's authority is chapter-level only (ORS 183, ORS 276) — no section exists to link to; correct non-link
+- `rules/125/125/oar-125-125-0527.md` — rule's authority is chapter-level only (ORS 183, ORS 276) — no section exists to link to; correct non-link
+- `rules/125/125/oar-125-125-0528.md` — rule's authority is chapter-level only (ORS 183, ORS 276) — no section exists to link to; correct non-link
+- `rules/125/125/oar-125-125-0531.md` — rule's authority is chapter-level only (ORS 183, ORS 276) — no section exists to link to; correct non-link
+- `rules/125/125/oar-125-125-0532.md` — rule's authority is chapter-level only (ORS 183, ORS 276) — no section exists to link to; correct non-link
+- `rules/125/125/oar-125-125-0540.md` — rule's authority is chapter-level only (ORS 183, ORS 276) — no section exists to link to; correct non-link
+- `rules/125/125/oar-125-125-0545.md` — rule's authority is chapter-level only (ORS 183, ORS 276) — no section exists to link to; correct non-link
+- `rules/125/125/oar-125-125-0546.md` — rule's authority is chapter-level only (ORS 183, ORS 276) — no section exists to link to; correct non-link
+- `rules/125/125/oar-125-125-0547.md` — rule's authority is chapter-level only (ORS 183, ORS 276) — no section exists to link to; correct non-link
+- `rules/125/125/oar-125-125-0552.md` — rule's authority is chapter-level only (ORS 183, ORS 276) — no section exists to link to; correct non-link
+- `rules/125/125/oar-125-125-0560.md` — rule's authority is chapter-level only (ORS 183, ORS 276) — no section exists to link to; correct non-link
+- `rules/125/125/oar-125-125-0561.md` — rule's authority is chapter-level only (ORS 183, ORS 276) — no section exists to link to; correct non-link
+- `rules/125/125/oar-125-125-0562.md` — rule's authority is chapter-level only (ORS 183, ORS 276) — no section exists to link to; correct non-link
+- `rules/125/125/oar-125-125-0566.md` — rule's authority is chapter-level only (ORS 183, ORS 276) — no section exists to link to; correct non-link
+- `rules/125/125/oar-125-125-0567.md` — rule's authority is chapter-level only (ORS 183, ORS 276) — no section exists to link to; correct non-link
+- `rules/125/125/oar-125-125-0600.md` — rule's authority is chapter-level only (ORS 183, ORS 276) — no section exists to link to; correct non-link
+- `rules/125/140/oar-125-140-0020.md` — rule's cited authority is not in the corpus (ORS 36.224) — repealed/renumbered or an un-ingested chapter; verify, don't hand-link
+- `rules/125/170/oar-125-170-0010.md` — rule's cited authority is not in the corpus (OR Const. Art. XV, Sec. 4(4)(d), ORS 461.500 - 461.555) — repealed/renumbered or an un-ingested chapter; verify, don't hand-link
+- `rules/125/180/oar-125-180-1030.md` — rule's cited authority is not in the corpus (ORS 285C.615(7)) — repealed/renumbered or an un-ingested chapter; verify, don't hand-link
+- `rules/125/180/oar-125-180-1040.md` — rule's cited authority is not in the corpus (ORS 285C.615(7), ORS 285C.635(4)) — repealed/renumbered or an un-ingested chapter; verify, don't hand-link
+- `rules/125/300/oar-125-300-0200.md` — rule's cited authority is not in the corpus (ORS 426.385, ORS 675.070, ORS 675.100, ORS 675.130…) — repealed/renumbered or an un-ingested chapter; verify, don't hand-link
+- `rules/128/010/oar-128-010-0010.md` — rule's authority is chapter-level only (ORS 183, ORS 276A) — no section exists to link to; correct non-link
+- `rules/128/010/oar-128-010-0015.md` — rule's authority is chapter-level only (ORS 183, ORS 276A) — no section exists to link to; correct non-link
+- `rules/128/010/oar-128-010-0020.md` — rule's authority is chapter-level only (ORS 276A) — no section exists to link to; correct non-link
+- `rules/128/010/oar-128-010-0025.md` — rule's authority is chapter-level only (ORS 276A) — no section exists to link to; correct non-link
+- `rules/128/010/oar-128-010-0030.md` — rule's authority is chapter-level only (ORS 276A) — no section exists to link to; correct non-link
+- `rules/128/010/oar-128-010-0035.md` — rule's authority is chapter-level only (ORS 276A) — no section exists to link to; correct non-link
+- `rules/128/010/oar-128-010-0040.md` — rule's authority is chapter-level only (ORS 276A) — no section exists to link to; correct non-link
+- `rules/128/010/oar-128-010-0045.md` — rule's authority is chapter-level only (ORS 276A) — no section exists to link to; correct non-link
+- `rules/128/010/oar-128-010-0050.md` — rule's authority is chapter-level only (ORS 276A) — no section exists to link to; correct non-link
 
 ## Catalog: sections with no sliceable body (22)
 

@@ -59,9 +59,27 @@ def scan():
         if fm.get("doc_type") in LINKABLE_DOC_TYPES:
             rels = fm.get("relationships") or {}
             if not any(rels.get(k) for k in REL_KEYS):
-                q["unlinked"].append((rel, f"{fm['doc_type']} has zero relationship edges — "
-                                            "link_graph.py found no authority citation "
-                                            "(or naming pair) to resolve; add/verify one manually"))
+                # A rule whose own legal_authority cites only chapter-level or
+                # not-ingested statutes is a correct non-link — say so, instead of
+                # implying a linker gap that needs manual fixing.
+                auth = fm.get("legal_authority") or []
+                sectionless = [a for a in auth
+                               if re.fullmatch(r"ORS \d{1,3}[A-Z]?", a)]
+                if auth and fm["doc_type"] == "rule":
+                    if sectionless and len(sectionless) == len(auth):
+                        why = ("rule's authority is chapter-level only "
+                               f"({', '.join(auth[:4])}) — no section exists to link to; "
+                               "correct non-link")
+                    else:
+                        why = ("rule's cited authority is not in the corpus "
+                               f"({', '.join(auth[:4])}{'…' if len(auth) > 4 else ''}) — "
+                               "repealed/renumbered or an un-ingested chapter; verify, "
+                               "don't hand-link")
+                else:
+                    why = (f"{fm['doc_type']} has zero relationship edges — "
+                           "link_graph.py found no authority citation "
+                           "(or naming pair) to resolve; add/verify one manually")
+                q["unlinked"].append((rel, why))
 
     # catalog-derived items
     cat_items = {"not_sliceable": [], "renumbered": [], "gaps": [], "eo": []}
