@@ -24,6 +24,15 @@ from repo_lib import REPO_ROOT, SNAPSHOT_DIR, ws_only
 CATALOG = REPO_ROOT / "_meta/catalog/ors.yml"
 
 CHAPTER_TITLES = {
+    "174": "Construction of Statutes; General Definitions",
+    "176": "Governor",
+    "177": "Secretary of State",
+    "178": "State Treasurer",
+    "179": "Administration of State Institutions",
+    "180": "Attorney General; Department of Justice",
+    "181A": "State Police; Public Safety Standards and Training",
+    "182": "State Administrative Agencies Generally",
+    "185": "Oregon Disabilities Commission; Commissions on Hispanic Affairs, Black Affairs, and Asian and Pacific Islander Affairs; Commission for Women",
     "240": "State Personnel Relations",
     "276": "Public Facilities",
     "278": "Insurance for Public Bodies",

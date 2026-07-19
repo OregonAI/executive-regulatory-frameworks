@@ -5,6 +5,46 @@ recheck: biennial
 upstream_signal: Biennial ORS edition (odd-year sessions), oregonlegislature.gov chapter HTML
 last_checked: '2026-07-18'
 sources:
+- id: ors-chapter-174
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors174.html
+  sha256: 84b10edfa50a9ca603dc3e8502f5f01ae39417afb4aef6fd38c1c411a969f397
+  last_checked: '2026-07-18'
+  notes: ORS chapter 174 (Construction of Statutes; General Definitions), 2025 Edition
+- id: ors-chapter-176
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors176.html
+  sha256: f05c23e09f2b9edd27941de684e21cb69ca73fa0caed1c15b3f5cb0b00b3daa7
+  last_checked: '2026-07-18'
+  notes: ORS chapter 176 (Governor), 2025 Edition
+- id: ors-chapter-177
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors177.html
+  sha256: bac710fd6c41970c3ce22422a3305d6cd61080d28827da06c8888dde275f5620
+  last_checked: '2026-07-18'
+  notes: ORS chapter 177 (Secretary of State), 2025 Edition
+- id: ors-chapter-178
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors178.html
+  sha256: da25617525c1b1fcf82b60f920c5642b4e52f7d947fa2cbd0a97c060685dcd6a
+  last_checked: '2026-07-18'
+  notes: ORS chapter 178 (State Treasurer), 2025 Edition
+- id: ors-chapter-179
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors179.html
+  sha256: 31e0feb1474e7139bddd089e291277d66b127c10393f8fd4560b033130215222
+  last_checked: '2026-07-18'
+  notes: ORS chapter 179 (Administration of State Institutions), 2025 Edition
+- id: ors-chapter-180
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors180.html
+  sha256: bb82ff1b3157e681720662ed1c32ae4f2f4e21728a752f81643456ec57c3f7d8
+  last_checked: '2026-07-18'
+  notes: ORS chapter 180 (Attorney General; Department of Justice), 2025 Edition
+- id: ors-chapter-181a
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors181A.html
+  sha256: 741829874bcccee3761335175df3fe1ed7d39f68c07b6c9aed0c21c2ffd131ad
+  last_checked: '2026-07-18'
+  notes: ORS chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition
+- id: ors-chapter-182
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors182.html
+  sha256: 71080a458e7bc9bb63494f493f469648048c7def9af4d94234861fe63f13df4f
+  last_checked: '2026-07-18'
+  notes: ORS chapter 182 (State Administrative Agencies Generally), 2025 Edition
 - id: ors-chapter-183
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors183.html
   sha256: ff4571b2252327f48223e3198ac1958f2320923c0b3b5023751ccfd06eed8494
@@ -15,6 +55,12 @@ sources:
   sha256: b7fe7bb91941baf738f22b4ea5a187ff3d65233ce0f63c41a751dc58a063a50b
   last_checked: '2026-07-18'
   notes: ORS chapter 184 (Certain Executive Branch Departments (incl. DAS)), 2025 Edition
+- id: ors-chapter-185
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors185.html
+  sha256: 44a1b8d0386151a2a7d5fea2c38a7443358674b1302daccc5dc87aa298d7020f
+  last_checked: '2026-07-18'
+  notes: ORS chapter 185 (Oregon Disabilities Commission; Commissions on Hispanic Affairs, Black Affairs, and Asian
+    and Pacific Islander Affairs; Commission for Women), 2025 Edition
 - id: ors-chapter-192
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors192.html
   sha256: 807d082f52b2a24fefff22ddad950f17557af3dc0d7b55b9572c6bad7dfadcdf

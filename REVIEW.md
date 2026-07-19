@@ -57,7 +57,7 @@ The document prints a different date than its listing of record (known site typo
 - `agencies/department-of-administrative-services/accounting-manual/oam-15-60-25.md` — document's printed date differs from the listing of record (see Curator notes)
 - `agencies/department-of-administrative-services/accounting-manual/oam-45-20-00.md` — document's printed date differs from the listing of record (see Curator notes)
 
-## Unlinked rules/policies/procedures/standards — no graph edges (93)
+## Unlinked rules/policies/procedures/standards — no graph edges (91)
 
 `src/link_graph.py` found no authority citation (or, for procedures, no `_PR` naming match) connecting this document to anything else in the corpus. Usually means the source's authority/reference text doesn't match the extractor's citation patterns (a typo'd rule number, unusual wording) or the document genuinely has no printed authority — check the source and either fix the citation text or add a hand-authored relationship.
 
@@ -71,7 +71,6 @@ The document prints a different date than its listing of record (known site typo
 - `agencies/department-of-administrative-services/policies/das-105-050-0025.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/department-of-administrative-services/policies/das-105-050-0030.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/department-of-administrative-services/policies/das-107-001-016.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/department-of-administrative-services/policies/das-107-001-040.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/department-of-administrative-services/policies/das-107-004-053.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/department-of-administrative-services/policies/das-107-011-120.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/department-of-administrative-services/policies/das-107-011-160.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
@@ -114,7 +113,6 @@ The document prints a different date than its listing of record (known site typo
 - `rules/125/045/oar-125-045-0255.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/125/045/oar-125-045-0260.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/125/045/oar-125-045-0265.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/125/060/oar-125-060-0000.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/125/070/oar-125-070-0000.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/125/075/oar-125-075-0000.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/125/075/oar-125-075-0010.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
@@ -155,14 +153,21 @@ The document prints a different date than its listing of record (known site typo
 - `rules/128/010/oar-128-010-0050.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/128/040/oar-128-040-0005.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 
-## Catalog: sections with no sliceable body (15)
+## Catalog: sections with no sliceable body (22)
 
 ORS catalog entries whose section text couldn't be found in the chapter HTML (likely renumbered/repealed or TOC noise). Verify against the printed ORS if any of these numbers matter; otherwise they stay intentionally not ingested.
 
+- `ORS 179.580` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
+- `ORS 180.010` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
+- `ORS 180.150` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
+- `ORS 181A.689` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
+- `ORS 181A.970` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
+- `ORS 181A.990` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 183.500` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 184.370` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 184.884` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 184.925` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
+- `ORS 185.625` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 192.478` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 240.005` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 240.430` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
@@ -273,4 +278,4 @@ the attestation the review gates call for. Corpus size by directory:
 - `rules/128/030/`: 3 documents
 - `rules/128/040/`: 1 documents
 - `rules/128/050/`: 1 documents
-- `statutes/`: 1071 documents
+- `statutes/`: 1633 documents

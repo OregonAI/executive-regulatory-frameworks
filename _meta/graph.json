@@ -8030,6 +8030,3210 @@
    "path": "rules/128/050/oar-128-050-0005.md"
   },
   {
+   "id": "ors-174.010",
+   "title": "General rule for construction of statutes",
+   "doc_type": "statute",
+   "path": "statutes/ors-174.010.md"
+  },
+  {
+   "id": "ors-174.020",
+   "title": "Legislative intent; general and particular provisions; consideration of legislative history",
+   "doc_type": "statute",
+   "path": "statutes/ors-174.020.md"
+  },
+  {
+   "id": "ors-174.030",
+   "title": "Construction favoring natural right to prevail",
+   "doc_type": "statute",
+   "path": "statutes/ors-174.030.md"
+  },
+  {
+   "id": "ors-174.040",
+   "title": "Severability",
+   "doc_type": "statute",
+   "path": "statutes/ors-174.040.md"
+  },
+  {
+   "id": "ors-174.060",
+   "title": "Effect of amendment of statute adopted by reference",
+   "doc_type": "statute",
+   "path": "statutes/ors-174.060.md"
+  },
+  {
+   "id": "ors-174.070",
+   "title": "Effect of repeal of validating or curative Act",
+   "doc_type": "statute",
+   "path": "statutes/ors-174.070.md"
+  },
+  {
+   "id": "ors-174.080",
+   "title": "Effect of repeal of repealing Act",
+   "doc_type": "statute",
+   "path": "statutes/ors-174.080.md"
+  },
+  {
+   "id": "ors-174.090",
+   "title": "Effect of repeal of repealing constitutional provision GENERAL DEFINITIONS (Miscellaneous)",
+   "doc_type": "statute",
+   "path": "statutes/ors-174.090.md"
+  },
+  {
+   "id": "ors-174.100",
+   "title": "Definitions",
+   "doc_type": "statute",
+   "path": "statutes/ors-174.100.md"
+  },
+  {
+   "id": "ors-174.101",
+   "title": "“Manufactured structure,” “recreational vehicle” defined",
+   "doc_type": "statute",
+   "path": "statutes/ors-174.101.md"
+  },
+  {
+   "id": "ors-174.102",
+   "title": "“Agricultural commodity,” “agricultural product” defined; harvesting or baling of straw as farming practice",
+   "doc_type": "statute",
+   "path": "statutes/ors-174.102.md"
+  },
+  {
+   "id": "ors-174.104",
+   "title": "“Public notice” defined",
+   "doc_type": "statute",
+   "path": "statutes/ors-174.104.md"
+  },
+  {
+   "id": "ors-174.107",
+   "title": "“Person with a disability” defined (Public Bodies)",
+   "doc_type": "statute",
+   "path": "statutes/ors-174.107.md"
+  },
+  {
+   "id": "ors-174.108",
+   "title": "Effect of definitions",
+   "doc_type": "statute",
+   "path": "statutes/ors-174.108.md"
+  },
+  {
+   "id": "ors-174.109",
+   "title": "“Public body” defined",
+   "doc_type": "statute",
+   "path": "statutes/ors-174.109.md"
+  },
+  {
+   "id": "ors-174.111",
+   "title": "“State government” defined",
+   "doc_type": "statute",
+   "path": "statutes/ors-174.111.md"
+  },
+  {
+   "id": "ors-174.112",
+   "title": "“Executive department” defined",
+   "doc_type": "statute",
+   "path": "statutes/ors-174.112.md"
+  },
+  {
+   "id": "ors-174.113",
+   "title": "“Judicial department” defined",
+   "doc_type": "statute",
+   "path": "statutes/ors-174.113.md"
+  },
+  {
+   "id": "ors-174.114",
+   "title": "“Legislative department” defined",
+   "doc_type": "statute",
+   "path": "statutes/ors-174.114.md"
+  },
+  {
+   "id": "ors-174.116",
+   "title": "“Local government” and “local service district” defined",
+   "doc_type": "statute",
+   "path": "statutes/ors-174.116.md"
+  },
+  {
+   "id": "ors-174.117",
+   "title": "“Special government body” defined",
+   "doc_type": "statute",
+   "path": "statutes/ors-174.117.md"
+  },
+  {
+   "id": "ors-174.118",
+   "title": "Application of definitions to ORS",
+   "doc_type": "statute",
+   "path": "statutes/ors-174.118.md"
+  },
+  {
+   "id": "ors-174.120",
+   "title": "Computation of time; leap year",
+   "doc_type": "statute",
+   "path": "statutes/ors-174.120.md"
+  },
+  {
+   "id": "ors-174.125",
+   "title": "Computation of time period for personal service MISCELLANEOUS",
+   "doc_type": "statute",
+   "path": "statutes/ors-174.125.md"
+  },
+  {
+   "id": "ors-174.127",
+   "title": "Singular or plural number; masculine, feminine or neuter gender",
+   "doc_type": "statute",
+   "path": "statutes/ors-174.127.md"
+  },
+  {
+   "id": "ors-174.129",
+   "title": "Statutes, rules and orders to use sex-neutral terms",
+   "doc_type": "statute",
+   "path": "statutes/ors-174.129.md"
+  },
+  {
+   "id": "ors-174.130",
+   "title": "Majority can exercise authority given jointly",
+   "doc_type": "statute",
+   "path": "statutes/ors-174.130.md"
+  },
+  {
+   "id": "ors-174.140",
+   "title": "Construction of “a surety” or similar words",
+   "doc_type": "statute",
+   "path": "statutes/ors-174.140.md"
+  },
+  {
+   "id": "ors-174.160",
+   "title": "Mailing methods authorized in place of notice by registered or certified mail",
+   "doc_type": "statute",
+   "path": "statutes/ors-174.160.md"
+  },
+  {
+   "id": "ors-174.170",
+   "title": "Notice by personal service equivalent to notice by mail",
+   "doc_type": "statute",
+   "path": "statutes/ors-174.170.md"
+  },
+  {
+   "id": "ors-174.510",
+   "title": "Statute revision of 1953 enacted as law; Oregon Revised Statutes; citation",
+   "doc_type": "statute",
+   "path": "statutes/ors-174.510.md"
+  },
+  {
+   "id": "ors-174.515",
+   "title": "Duplicate original of 1953 revision; evidentiary effect",
+   "doc_type": "statute",
+   "path": "statutes/ors-174.515.md"
+  },
+  {
+   "id": "ors-174.520",
+   "title": "General statutes enacted prior to January 12, 1953, repealed; exceptions",
+   "doc_type": "statute",
+   "path": "statutes/ors-174.520.md"
+  },
+  {
+   "id": "ors-174.530",
+   "title": "Construction of statutes enacted as part of 1953 revision",
+   "doc_type": "statute",
+   "path": "statutes/ors-174.530.md"
+  },
+  {
+   "id": "ors-174.535",
+   "title": "Construction of reviser’s bills",
+   "doc_type": "statute",
+   "path": "statutes/ors-174.535.md"
+  },
+  {
+   "id": "ors-174.540",
+   "title": "Parts of printed statute editions not part of the law",
+   "doc_type": "statute",
+   "path": "statutes/ors-174.540.md"
+  },
+  {
+   "id": "ors-174.550",
+   "title": "Statute revision of 1953 substituted for statutes repealed by ORS",
+   "doc_type": "statute",
+   "path": "statutes/ors-174.550.md"
+  },
+  {
+   "id": "ors-174.580",
+   "title": "Oregon Rules of Civil Procedure; citation form",
+   "doc_type": "statute",
+   "path": "statutes/ors-174.580.md"
+  },
+  {
+   "id": "ors-174.590",
+   "title": "Statutory terminology not intended to preserve procedural distinctions between actions and suits CONSTRUCTION OF STATUTES",
+   "doc_type": "statute",
+   "path": "statutes/ors-174.590.md"
+  },
+  {
+   "id": "ors-176.010",
+   "title": "Commencement of term; inauguration",
+   "doc_type": "statute",
+   "path": "statutes/ors-176.010.md"
+  },
+  {
+   "id": "ors-176.020",
+   "title": "Cessation of term",
+   "doc_type": "statute",
+   "path": "statutes/ors-176.020.md"
+  },
+  {
+   "id": "ors-176.110",
+   "title": "Actions of Governor-elect; budget; tax expenditure report; expenses",
+   "doc_type": "statute",
+   "path": "statutes/ors-176.110.md"
+  },
+  {
+   "id": "ors-176.200",
+   "title": "Governor’s Office Operating Fund",
+   "doc_type": "statute",
+   "path": "statutes/ors-176.200.md"
+  },
+  {
+   "id": "ors-176.250",
+   "title": "Service of subpoena upon Governor LAW ENFORCEMENT MEDALS",
+   "doc_type": "statute",
+   "path": "statutes/ors-176.250.md"
+  },
+  {
+   "id": "ors-176.260",
+   "title": "Medal of Honor",
+   "doc_type": "statute",
+   "path": "statutes/ors-176.260.md"
+  },
+  {
+   "id": "ors-176.262",
+   "title": "Governor’s Commission on the Law Enforcement Medal of Honor; rules",
+   "doc_type": "statute",
+   "path": "statutes/ors-176.262.md"
+  },
+  {
+   "id": "ors-176.264",
+   "title": "Law Enforcement Medal of Honor Account",
+   "doc_type": "statute",
+   "path": "statutes/ors-176.264.md"
+  },
+  {
+   "id": "ors-176.267",
+   "title": "Medal of Ultimate Sacrifice AWARDS",
+   "doc_type": "statute",
+   "path": "statutes/ors-176.267.md"
+  },
+  {
+   "id": "ors-176.268",
+   "title": "Oregon Gifts of Life Award DISABILITY OF GOVERNOR",
+   "doc_type": "statute",
+   "path": "statutes/ors-176.268.md"
+  },
+  {
+   "id": "ors-176.300",
+   "title": "Temporary transfer of power",
+   "doc_type": "statute",
+   "path": "statutes/ors-176.300.md"
+  },
+  {
+   "id": "ors-176.303",
+   "title": "Disability evaluation panel",
+   "doc_type": "statute",
+   "path": "statutes/ors-176.303.md"
+  },
+  {
+   "id": "ors-176.306",
+   "title": "Convocation of disability evaluation panel",
+   "doc_type": "statute",
+   "path": "statutes/ors-176.306.md"
+  },
+  {
+   "id": "ors-176.309",
+   "title": "Disability evaluation panel procedures",
+   "doc_type": "statute",
+   "path": "statutes/ors-176.309.md"
+  },
+  {
+   "id": "ors-176.312",
+   "title": "Finding of disability; finding that disability has ceased RACIAL JUSTICE COUNCIL",
+   "doc_type": "statute",
+   "path": "statutes/ors-176.312.md"
+  },
+  {
+   "id": "ors-176.350",
+   "title": "Racial Justice Council; membership; policy committees; terms of office",
+   "doc_type": "statute",
+   "path": "statutes/ors-176.350.md"
+  },
+  {
+   "id": "ors-176.353",
+   "title": "Duties of Racial Justice Council PROCLAMATIONS (Death of Unknown Persons)",
+   "doc_type": "statute",
+   "path": "statutes/ors-176.353.md"
+  },
+  {
+   "id": "ors-176.740",
+   "title": "Governor’s proclamation; presumption for missing person; report of death (Energy Resources Emergency Powers)",
+   "doc_type": "statute",
+   "path": "statutes/ors-176.740.md"
+  },
+  {
+   "id": "ors-176.750",
+   "title": "“Energy resources” defined",
+   "doc_type": "statute",
+   "path": "statutes/ors-176.750.md"
+  },
+  {
+   "id": "ors-176.755",
+   "title": "Policy",
+   "doc_type": "statute",
+   "path": "statutes/ors-176.755.md"
+  },
+  {
+   "id": "ors-176.760",
+   "title": "Information to be available to Governor",
+   "doc_type": "statute",
+   "path": "statutes/ors-176.760.md"
+  },
+  {
+   "id": "ors-176.765",
+   "title": "Confidentiality of information; use; liability",
+   "doc_type": "statute",
+   "path": "statutes/ors-176.765.md"
+  },
+  {
+   "id": "ors-176.770",
+   "title": "Curtailment priorities",
+   "doc_type": "statute",
+   "path": "statutes/ors-176.770.md"
+  },
+  {
+   "id": "ors-176.775",
+   "title": "Content of Governor’s proclamation of lack of energy resource or resource emergency",
+   "doc_type": "statute",
+   "path": "statutes/ors-176.775.md"
+  },
+  {
+   "id": "ors-176.780",
+   "title": "Action authorized by proclamation under ORS",
+   "doc_type": "statute",
+   "path": "statutes/ors-176.780.md"
+  },
+  {
+   "id": "ors-176.785",
+   "title": "Proclamation of state of emergency",
+   "doc_type": "statute",
+   "path": "statutes/ors-176.785.md"
+  },
+  {
+   "id": "ors-176.790",
+   "title": "Duration of emergency under proclamation; renewal or extension of proclamation",
+   "doc_type": "statute",
+   "path": "statutes/ors-176.790.md"
+  },
+  {
+   "id": "ors-176.795",
+   "title": "Actions authorized by proclamation under ORS",
+   "doc_type": "statute",
+   "path": "statutes/ors-176.795.md"
+  },
+  {
+   "id": "ors-176.800",
+   "title": "Construction of ORS",
+   "doc_type": "statute",
+   "path": "statutes/ors-176.800.md"
+  },
+  {
+   "id": "ors-176.805",
+   "title": "Status of proclamation, order or directive as rule; judicial review",
+   "doc_type": "statute",
+   "path": "statutes/ors-176.805.md"
+  },
+  {
+   "id": "ors-176.809",
+   "title": "Governor’s energy emergency contingency plan",
+   "doc_type": "statute",
+   "path": "statutes/ors-176.809.md"
+  },
+  {
+   "id": "ors-176.815",
+   "title": "Cooperation with local governments",
+   "doc_type": "statute",
+   "path": "statutes/ors-176.815.md"
+  },
+  {
+   "id": "ors-176.820",
+   "title": "State Department of Energy Account PENALTIES",
+   "doc_type": "statute",
+   "path": "statutes/ors-176.820.md"
+  },
+  {
+   "id": "ors-176.990",
+   "title": "Penalties GENERAL PROVISIONS",
+   "doc_type": "statute",
+   "path": "statutes/ors-176.990.md"
+  },
+  {
+   "id": "ors-177.010",
+   "title": "Oath and bond",
+   "doc_type": "statute",
+   "path": "statutes/ors-177.010.md"
+  },
+  {
+   "id": "ors-177.020",
+   "title": "Successive recoveries on bond",
+   "doc_type": "statute",
+   "path": "statutes/ors-177.020.md"
+  },
+  {
+   "id": "ors-177.030",
+   "title": "Duties of Secretary of State",
+   "doc_type": "statute",
+   "path": "statutes/ors-177.030.md"
+  },
+  {
+   "id": "ors-177.040",
+   "title": "Deputy Secretary of State",
+   "doc_type": "statute",
+   "path": "statutes/ors-177.040.md"
+  },
+  {
+   "id": "ors-177.050",
+   "title": "Employment and administration of personnel; merit system; rules",
+   "doc_type": "statute",
+   "path": "statutes/ors-177.050.md"
+  },
+  {
+   "id": "ors-177.060",
+   "title": "Designation of persons to sign in name of Secretary of State",
+   "doc_type": "statute",
+   "path": "statutes/ors-177.060.md"
+  },
+  {
+   "id": "ors-177.065",
+   "title": "Authority of Secretary of State relating to official acts of public officials; signatures of notaries public",
+   "doc_type": "statute",
+   "path": "statutes/ors-177.065.md"
+  },
+  {
+   "id": "ors-177.070",
+   "title": "Bonds for clerks or positions",
+   "doc_type": "statute",
+   "path": "statutes/ors-177.070.md"
+  },
+  {
+   "id": "ors-177.075",
+   "title": "Authority of Secretary of State to require fingerprints",
+   "doc_type": "statute",
+   "path": "statutes/ors-177.075.md"
+  },
+  {
+   "id": "ors-177.080",
+   "title": "Acts of Congress and of states to be deposited in State of Oregon Law Library",
+   "doc_type": "statute",
+   "path": "statutes/ors-177.080.md"
+  },
+  {
+   "id": "ors-177.110",
+   "title": "Oregon Guide",
+   "doc_type": "statute",
+   "path": "statutes/ors-177.110.md"
+  },
+  {
+   "id": "ors-177.120",
+   "title": "Oregon Blue Book",
+   "doc_type": "statute",
+   "path": "statutes/ors-177.120.md"
+  },
+  {
+   "id": "ors-177.130",
+   "title": "Fees of the Secretary of State",
+   "doc_type": "statute",
+   "path": "statutes/ors-177.130.md"
+  },
+  {
+   "id": "ors-177.140",
+   "title": "Secretary of State Administration Division Account",
+   "doc_type": "statute",
+   "path": "statutes/ors-177.140.md"
+  },
+  {
+   "id": "ors-177.150",
+   "title": "Record required for Secretary of State Miscellaneous Receipts Account",
+   "doc_type": "statute",
+   "path": "statutes/ors-177.150.md"
+  },
+  {
+   "id": "ors-177.170",
+   "title": "Government Waste Hotline; acceptance of other reports; purpose; notice",
+   "doc_type": "statute",
+   "path": "statutes/ors-177.170.md"
+  },
+  {
+   "id": "ors-177.180",
+   "title": "Reports received through Government Waste Hotline or by other method; confidentiality; investigation; written determination; annual report to Legislative Assemb",
+   "doc_type": "statute",
+   "path": "statutes/ors-177.180.md"
+  },
+  {
+   "id": "ors-177.190",
+   "title": "Purchase of state flags for Armed Forces by Secretary of State",
+   "doc_type": "statute",
+   "path": "statutes/ors-177.190.md"
+  },
+  {
+   "id": "ors-178.010",
+   "title": "Oath and bond",
+   "doc_type": "statute",
+   "path": "statutes/ors-178.010.md"
+  },
+  {
+   "id": "ors-178.020",
+   "title": "Additional bond requirement",
+   "doc_type": "statute",
+   "path": "statutes/ors-178.020.md"
+  },
+  {
+   "id": "ors-178.030",
+   "title": "Premiums on surety bonds of treasurer and employees paid by state; limit on amount",
+   "doc_type": "statute",
+   "path": "statutes/ors-178.030.md"
+  },
+  {
+   "id": "ors-178.040",
+   "title": "Successive recoveries on bond",
+   "doc_type": "statute",
+   "path": "statutes/ors-178.040.md"
+  },
+  {
+   "id": "ors-178.050",
+   "title": "Duties of State Treasurer",
+   "doc_type": "statute",
+   "path": "statutes/ors-178.050.md"
+  },
+  {
+   "id": "ors-178.060",
+   "title": "Deputy State Treasurer; other personnel; merit system; rules; duties of Deputy State Treasurer in event of vacancy in office of State Treasurer",
+   "doc_type": "statute",
+   "path": "statutes/ors-178.060.md"
+  },
+  {
+   "id": "ors-178.065",
+   "title": "Authority of State Treasurer to require fingerprints",
+   "doc_type": "statute",
+   "path": "statutes/ors-178.065.md"
+  },
+  {
+   "id": "ors-178.090",
+   "title": "Manner of providing evidence of receipt of funds or securities OREGON RETIREMENT SAVINGS PLAN",
+   "doc_type": "statute",
+   "path": "statutes/ors-178.090.md"
+  },
+  {
+   "id": "ors-178.200",
+   "title": "Oregon Retirement Savings Board",
+   "doc_type": "statute",
+   "path": "statutes/ors-178.200.md"
+  },
+  {
+   "id": "ors-178.205",
+   "title": "Powers and duties of Oregon Retirement Savings Board; rules",
+   "doc_type": "statute",
+   "path": "statutes/ors-178.205.md"
+  },
+  {
+   "id": "ors-178.210",
+   "title": "Requirements for Oregon Retirement Savings Plan",
+   "doc_type": "statute",
+   "path": "statutes/ors-178.210.md"
+  },
+  {
+   "id": "ors-178.215",
+   "title": "Rules for Oregon Retirement Savings Plan",
+   "doc_type": "statute",
+   "path": "statutes/ors-178.215.md"
+  },
+  {
+   "id": "ors-178.220",
+   "title": "Confidentiality of account information",
+   "doc_type": "statute",
+   "path": "statutes/ors-178.220.md"
+  },
+  {
+   "id": "ors-178.225",
+   "title": "Oregon Retirement Savings Plan Administrative Fund",
+   "doc_type": "statute",
+   "path": "statutes/ors-178.225.md"
+  },
+  {
+   "id": "ors-178.230",
+   "title": "Prerequisites to establishment of Oregon Retirement Savings Plan",
+   "doc_type": "statute",
+   "path": "statutes/ors-178.230.md"
+  },
+  {
+   "id": "ors-178.235",
+   "title": "Annual reports",
+   "doc_type": "statute",
+   "path": "statutes/ors-178.235.md"
+  },
+  {
+   "id": "ors-178.240",
+   "title": "Preemption",
+   "doc_type": "statute",
+   "path": "statutes/ors-178.240.md"
+  },
+  {
+   "id": "ors-178.245",
+   "title": "Assistance of state agencies with outreach, technical assistance and compliance services",
+   "doc_type": "statute",
+   "path": "statutes/ors-178.245.md"
+  },
+  {
+   "id": "ors-178.250",
+   "title": "Compliance with plan; complaints",
+   "doc_type": "statute",
+   "path": "statutes/ors-178.250.md"
+  },
+  {
+   "id": "ors-178.255",
+   "title": "Investigation by Commissioner of Bureau of Labor and Industries; civil penalty",
+   "doc_type": "statute",
+   "path": "statutes/ors-178.255.md"
+  },
+  {
+   "id": "ors-178.260",
+   "title": "Final orders relating to compliance OREGON 529 SAVINGS NETWORK (Generally)",
+   "doc_type": "statute",
+   "path": "statutes/ors-178.260.md"
+  },
+  {
+   "id": "ors-178.300",
+   "title": "Definitions for ORS",
+   "doc_type": "statute",
+   "path": "statutes/ors-178.300.md"
+  },
+  {
+   "id": "ors-178.305",
+   "title": "Oregon 529 Savings Network",
+   "doc_type": "statute",
+   "path": "statutes/ors-178.305.md"
+  },
+  {
+   "id": "ors-178.310",
+   "title": "Oregon 529 Savings Board; membership",
+   "doc_type": "statute",
+   "path": "statutes/ors-178.310.md"
+  },
+  {
+   "id": "ors-178.315",
+   "title": "Board powers and duties; rules",
+   "doc_type": "statute",
+   "path": "statutes/ors-178.315.md"
+  },
+  {
+   "id": "ors-178.320",
+   "title": "Oregon 529 Savings Network Fund; College Savings Plan Subaccount; ABLE Subaccount",
+   "doc_type": "statute",
+   "path": "statutes/ors-178.320.md"
+  },
+  {
+   "id": "ors-178.325",
+   "title": "State interest in contributions and earnings",
+   "doc_type": "statute",
+   "path": "statutes/ors-178.325.md"
+  },
+  {
+   "id": "ors-178.330",
+   "title": "Annual report to Governor and Legislative Assembly (Accounts for Qualified Higher Education Expenses)",
+   "doc_type": "statute",
+   "path": "statutes/ors-178.330.md"
+  },
+  {
+   "id": "ors-178.335",
+   "title": "Network participation for higher education expenses; contribution limits; fees",
+   "doc_type": "statute",
+   "path": "statutes/ors-178.335.md"
+  },
+  {
+   "id": "ors-178.340",
+   "title": "Right to direct investments for higher education expenses; insurance and guarantees prohibited; liability for loss",
+   "doc_type": "statute",
+   "path": "statutes/ors-178.340.md"
+  },
+  {
+   "id": "ors-178.345",
+   "title": "Prohibitions and limitations on accounts for higher education expenses",
+   "doc_type": "statute",
+   "path": "statutes/ors-178.345.md"
+  },
+  {
+   "id": "ors-178.350",
+   "title": "Designated beneficiary of account for higher education expenses; confidentiality of account information",
+   "doc_type": "statute",
+   "path": "statutes/ors-178.350.md"
+  },
+  {
+   "id": "ors-178.355",
+   "title": "Withdrawals from accounts for higher education expenses; rules; report",
+   "doc_type": "statute",
+   "path": "statutes/ors-178.355.md"
+  },
+  {
+   "id": "ors-178.360",
+   "title": "Consideration of amounts in accounts for higher education expenses in benefit eligibility determinations (ABLE Accounts for Qualified Disability Expenses)",
+   "doc_type": "statute",
+   "path": "statutes/ors-178.360.md"
+  },
+  {
+   "id": "ors-178.375",
+   "title": "Definitions for ORS",
+   "doc_type": "statute",
+   "path": "statutes/ors-178.375.md"
+  },
+  {
+   "id": "ors-178.380",
+   "title": "and",
+   "doc_type": "statute",
+   "path": "statutes/ors-178.380.md"
+  },
+  {
+   "id": "ors-178.385",
+   "title": "Right to direct investments for ABLE accounts; insurance and guarantees prohibited; liability for loss PENALTIES",
+   "doc_type": "statute",
+   "path": "statutes/ors-178.385.md"
+  },
+  {
+   "id": "ors-178.990",
+   "title": "Penalties ADMINISTRATION",
+   "doc_type": "statute",
+   "path": "statutes/ors-178.990.md"
+  },
+  {
+   "id": "ors-179.010",
+   "title": "Definitions",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.010.md"
+  },
+  {
+   "id": "ors-179.040",
+   "title": "General powers and duties; rules",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.040.md"
+  },
+  {
+   "id": "ors-179.045",
+   "title": "Reports on convictions; forms; confidentiality",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.045.md"
+  },
+  {
+   "id": "ors-179.050",
+   "title": "Authority to hold property",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.050.md"
+  },
+  {
+   "id": "ors-179.055",
+   "title": "Disposition of income from property; maintenance of property",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.055.md"
+  },
+  {
+   "id": "ors-179.065",
+   "title": "Furnishing utilities for institutions",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.065.md"
+  },
+  {
+   "id": "ors-179.105",
+   "title": "Acceptance of federal or other assistance to carry out general powers and duties; legislative oversight of expenditures",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.105.md"
+  },
+  {
+   "id": "ors-179.110",
+   "title": "Use of federal grants; cooperation with federal agencies; disposition of balances of appropriations",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.110.md"
+  },
+  {
+   "id": "ors-179.130",
+   "title": "Institutional petty cash fund; creation; reimbursement from appropriation for institution",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.130.md"
+  },
+  {
+   "id": "ors-179.140",
+   "title": "Auditing and paying claims; approval of vouchers",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.140.md"
+  },
+  {
+   "id": "ors-179.150",
+   "title": "Interest in contracts prohibited CLAIM FOR INJURY OR DAMAGE",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.150.md"
+  },
+  {
+   "id": "ors-179.210",
+   "title": "Claim for injury or damage; conditions",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.210.md"
+  },
+  {
+   "id": "ors-179.230",
+   "title": "Rejection of claim final and not reviewable",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.230.md"
+  },
+  {
+   "id": "ors-179.240",
+   "title": "Procedure where award due person owing debt to state SUPERVISION OF STATE INSTITUTIONS (Superintendent)",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.240.md"
+  },
+  {
+   "id": "ors-179.310",
+   "title": "“Superintendent” defined",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.310.md"
+  },
+  {
+   "id": "ors-179.321",
+   "title": "Responsibility to supervise state institutions",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.321.md"
+  },
+  {
+   "id": "ors-179.325",
+   "title": "Change in use of institution for persons with developmental disabilities or mental illness",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.325.md"
+  },
+  {
+   "id": "ors-179.331",
+   "title": "Appointment, suspension and removal of superintendents",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.331.md"
+  },
+  {
+   "id": "ors-179.340",
+   "title": "Salaries and expenses of superintendents",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.340.md"
+  },
+  {
+   "id": "ors-179.360",
+   "title": "Powers and duties of superintendents",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.360.md"
+  },
+  {
+   "id": "ors-179.370",
+   "title": "Residence of superintendents at institutions (Staff)",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.370.md"
+  },
+  {
+   "id": "ors-179.375",
+   "title": "Chaplaincy services",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.375.md"
+  },
+  {
+   "id": "ors-179.380",
+   "title": "Employment of staff; oaths and bonds",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.380.md"
+  },
+  {
+   "id": "ors-179.385",
+   "title": "Scholarship programs to train personnel for institutions; rules",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.385.md"
+  },
+  {
+   "id": "ors-179.390",
+   "title": "Appointment, suspension, removal and salaries of assistants, officers and employees; contract services",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.390.md"
+  },
+  {
+   "id": "ors-179.400",
+   "title": "Rentals to officers and employees at institution",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.400.md"
+  },
+  {
+   "id": "ors-179.405",
+   "title": "License required for teachers at institution (Work at Institution)",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.405.md"
+  },
+  {
+   "id": "ors-179.440",
+   "title": "Work in production of articles and performance of labor for state",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.440.md"
+  },
+  {
+   "id": "ors-179.450",
+   "title": "Work on state-owned land",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.450.md"
+  },
+  {
+   "id": "ors-179.460",
+   "title": "Sale and exchange of surplus products of institutions; rules; State Institutional Betterment Fund (Transfer Procedures)",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.460.md"
+  },
+  {
+   "id": "ors-179.471",
+   "title": "Definitions for ORS",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.471.md"
+  },
+  {
+   "id": "ors-179.473",
+   "title": "and",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.473.md"
+  },
+  {
+   "id": "ors-179.478",
+   "title": "Examination for intellectual disability; commitment hearing; transfer to facility for persons with intellectual disability; termination of sentence",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.478.md"
+  },
+  {
+   "id": "ors-179.479",
+   "title": "Conveyance of adults in custody from institution to physician or hospital for treatment; rules",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.479.md"
+  },
+  {
+   "id": "ors-179.483",
+   "title": "Time spent pursuant to transfer or conveyance counted as part of sentence",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.483.md"
+  },
+  {
+   "id": "ors-179.485",
+   "title": "Rights of person transferred to institution for persons with mental illness or intellectual disabilities",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.485.md"
+  },
+  {
+   "id": "ors-179.486",
+   "title": "Payment of costs in connection with transfers and conveyances; medical reports to accompany certain inmates (Medical Care)",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.486.md"
+  },
+  {
+   "id": "ors-179.490",
+   "title": "Authorization and payment of cost of emergency and necessary operations",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.490.md"
+  },
+  {
+   "id": "ors-179.492",
+   "title": "Dispensing of brand-name mental health drugs (Records)",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.492.md"
+  },
+  {
+   "id": "ors-179.495",
+   "title": "Disclosure of written accounts of adult in custody; penalty",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.495.md"
+  },
+  {
+   "id": "ors-179.505",
+   "title": "Disclosure of written accounts by health care services provider",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.505.md"
+  },
+  {
+   "id": "ors-179.507",
+   "title": "Enforcement of ORS",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.507.md"
+  },
+  {
+   "id": "ors-179.508",
+   "title": "Disclosure of individually identifiable health information about adult in custody",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.508.md"
+  },
+  {
+   "id": "ors-179.509",
+   "title": "Reports on deaths at institutions; compilation submitted to President and Speaker (Funds of Institution Residents)",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.509.md"
+  },
+  {
+   "id": "ors-179.510",
+   "title": "“Funds” defined; deposit of funds of institution residents with State Treasurer",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.510.md"
+  },
+  {
+   "id": "ors-179.520",
+   "title": "Authorization to receive funds of institution residents; separate accounts",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.520.md"
+  },
+  {
+   "id": "ors-179.530",
+   "title": "Disbursements from accounts; accountability OREGON STATE HOSPITAL ADVISORY BOARD",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.530.md"
+  },
+  {
+   "id": "ors-179.560",
+   "title": "Members; appointment; terms; meetings",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.560.md"
+  },
+  {
+   "id": "ors-179.570",
+   "title": "Powers and duties of board; report to legislature",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.570.md"
+  },
+  {
+   "id": "ors-179.610",
+   "title": "Definitions for ORS",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.610.md"
+  },
+  {
+   "id": "ors-179.620",
+   "title": "Liability of person or estate for cost of care",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.620.md"
+  },
+  {
+   "id": "ors-179.640",
+   "title": "Determination of ability to pay; rules; financial information; notice; order; hearing; appeal",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.640.md"
+  },
+  {
+   "id": "ors-179.653",
+   "title": "Unpaid costs as lien on property; order; when appealable",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.653.md"
+  },
+  {
+   "id": "ors-179.655",
+   "title": "Enforcement of lien; distraint warrant",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.655.md"
+  },
+  {
+   "id": "ors-179.660",
+   "title": "Guardian or conservator for estate of person in institution",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.660.md"
+  },
+  {
+   "id": "ors-179.701",
+   "title": "Determination of cost-of-care rates",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.701.md"
+  },
+  {
+   "id": "ors-179.711",
+   "title": "Remittance of amounts due; refunds",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.711.md"
+  },
+  {
+   "id": "ors-179.731",
+   "title": "Waiver of collection of amount payable",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.731.md"
+  },
+  {
+   "id": "ors-179.740",
+   "title": "Collection from estates; settlement",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.740.md"
+  },
+  {
+   "id": "ors-179.745",
+   "title": "Title to and transfer of property DISCRIMINATION PROHIBITED",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.745.md"
+  },
+  {
+   "id": "ors-179.750",
+   "title": "Equal care and services for persons in state institutions RULES",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.750.md"
+  },
+  {
+   "id": "ors-179.770",
+   "title": "Rules; employees GENERAL PROVISIONS",
+   "doc_type": "statute",
+   "path": "statutes/ors-179.770.md"
+  },
+  {
+   "id": "ors-180.020",
+   "title": "Election; term of office",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.020.md"
+  },
+  {
+   "id": "ors-180.030",
+   "title": "Filing certificate of election or appointment",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.030.md"
+  },
+  {
+   "id": "ors-180.040",
+   "title": "Governor to fill vacancy by appointment; term of appointee",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.040.md"
+  },
+  {
+   "id": "ors-180.050",
+   "title": "Location of office (Powers and Duties)",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.050.md"
+  },
+  {
+   "id": "ors-180.060",
+   "title": "Powers and duties of Attorney General",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.060.md"
+  },
+  {
+   "id": "ors-180.070",
+   "title": "Power of Attorney General to conduct investigations and prosecutions; duties of district attorneys unaffected",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.070.md"
+  },
+  {
+   "id": "ors-180.073",
+   "title": "Subpoena authority in criminal investigation",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.073.md"
+  },
+  {
+   "id": "ors-180.075",
+   "title": "Disclosure of information obtained under subpoena",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.075.md"
+  },
+  {
+   "id": "ors-180.080",
+   "title": "Attorney General to manage criminal proceedings in court or before grand jury at request of Governor",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.080.md"
+  },
+  {
+   "id": "ors-180.090",
+   "title": "Investigations and special prosecutions; calling on other departments and officers for assistance; employing special investigators",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.090.md"
+  },
+  {
+   "id": "ors-180.095",
+   "title": "Department of Justice Protection and Education Revolving Account",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.095.md"
+  },
+  {
+   "id": "ors-180.096",
+   "title": "Use of Countrywide Financial Corporation settlement proceeds",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.096.md"
+  },
+  {
+   "id": "ors-180.100",
+   "title": "Legislative bills; preparation on request",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.100.md"
+  },
+  {
+   "id": "ors-180.110",
+   "title": "Keeping copies of opinions and records of cases; biennial report; printing and binding opinions",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.110.md"
+  },
+  {
+   "id": "ors-180.120",
+   "title": "Defending in criminal proceedings for Oregon State Police or member thereof; conducting prosecutions",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.120.md"
+  },
+  {
+   "id": "ors-180.125",
+   "title": "Intergovernmental road maintenance agreements (Personnel)",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.125.md"
+  },
+  {
+   "id": "ors-180.130",
+   "title": "Deputy Attorney General",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.130.md"
+  },
+  {
+   "id": "ors-180.140",
+   "title": "Other assistants; salaries; representation of indigent clients",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.140.md"
+  },
+  {
+   "id": "ors-180.160",
+   "title": "Charges for services to public agencies; rules",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.160.md"
+  },
+  {
+   "id": "ors-180.170",
+   "title": "Billing for services to public agencies",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.170.md"
+  },
+  {
+   "id": "ors-180.180",
+   "title": "Department of Justice Operating Account",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.180.md"
+  },
+  {
+   "id": "ors-180.190",
+   "title": "Department of Justice Current Expense Account; Department of Justice Portland Legal Office Petty Cash Account",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.190.md"
+  },
+  {
+   "id": "ors-180.200",
+   "title": "Department of Justice Client Trust Account",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.200.md"
+  },
+  {
+   "id": "ors-180.205",
+   "title": "Tobacco Enforcement Fund",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.205.md"
+  },
+  {
+   "id": "ors-180.207",
+   "title": "Requirements for Department of Justice agency request budget (Powers and Duties)",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.207.md"
+  },
+  {
+   "id": "ors-180.210",
+   "title": "Department of Justice; Attorney General head and chief law officer",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.210.md"
+  },
+  {
+   "id": "ors-180.220",
+   "title": "Powers and duties",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.220.md"
+  },
+  {
+   "id": "ors-180.225",
+   "title": "Attorney General representing public bodies in antitrust proceedings",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.225.md"
+  },
+  {
+   "id": "ors-180.230",
+   "title": "Compensation not allowed state departments for attorney services",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.230.md"
+  },
+  {
+   "id": "ors-180.235",
+   "title": "Authority of agency to employ counsel; qualification and salary; status",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.235.md"
+  },
+  {
+   "id": "ors-180.240",
+   "title": "Attorney General and Department of Justice to have powers and prerogatives of district attorneys",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.240.md"
+  },
+  {
+   "id": "ors-180.260",
+   "title": "Service of process by department employees",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.260.md"
+  },
+  {
+   "id": "ors-180.265",
+   "title": "Authority of department to delegate certain duties to employees of Department of Revenue",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.265.md"
+  },
+  {
+   "id": "ors-180.267",
+   "title": "Authority of Department of Justice to require fingerprints",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.267.md"
+  },
+  {
+   "id": "ors-180.269",
+   "title": "Biennial litigation reports to Legislative Assembly (Division of Child Support)",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.269.md"
+  },
+  {
+   "id": "ors-180.320",
+   "title": "Cooperation with division in enforcement; confidentiality of information furnished to division",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.320.md"
+  },
+  {
+   "id": "ors-180.330",
+   "title": "District attorneys not relieved from duties relating to enforcement of support laws",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.330.md"
+  },
+  {
+   "id": "ors-180.340",
+   "title": "Division of Child Support established; employment of personnel",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.340.md"
+  },
+  {
+   "id": "ors-180.345",
+   "title": "Oregon Child Support Program; rules",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.345.md"
+  },
+  {
+   "id": "ors-180.350",
+   "title": "Investigators to have authority of peace officers",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.350.md"
+  },
+  {
+   "id": "ors-180.360",
+   "title": "Division exempt from payment of certain court fees; exemption",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.360.md"
+  },
+  {
+   "id": "ors-180.365",
+   "title": "Child Support Suspense Fund",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.365.md"
+  },
+  {
+   "id": "ors-180.380",
+   "title": "Disclosure of information to authorized persons (Tobacco Master Settlement Agreement)",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.380.md"
+  },
+  {
+   "id": "ors-180.400",
+   "title": "Legislative findings",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.400.md"
+  },
+  {
+   "id": "ors-180.405",
+   "title": "Definitions",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.405.md"
+  },
+  {
+   "id": "ors-180.410",
+   "title": "Manufacturer certification",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.410.md"
+  },
+  {
+   "id": "ors-180.415",
+   "title": "Nonparticipating manufacturer certification; rules",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.415.md"
+  },
+  {
+   "id": "ors-180.416",
+   "title": "Nonparticipating manufacturer bond; rules",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.416.md"
+  },
+  {
+   "id": "ors-180.420",
+   "title": "Document retention period",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.420.md"
+  },
+  {
+   "id": "ors-180.425",
+   "title": "Attorney General’s directory; rules",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.425.md"
+  },
+  {
+   "id": "ors-180.430",
+   "title": "Nonresident nonparticipating manufacturer service agent",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.430.md"
+  },
+  {
+   "id": "ors-180.435",
+   "title": "Distributor obligations; production of records and testimony; Attorney General and Department of Revenue information sharing; nonparticipating manufacturer requ",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.435.md"
+  },
+  {
+   "id": "ors-180.440",
+   "title": "Prohibited conduct; penalty",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.440.md"
+  },
+  {
+   "id": "ors-180.441",
+   "title": "Prohibited shipping; in-person sale required",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.441.md"
+  },
+  {
+   "id": "ors-180.445",
+   "title": "Quarterly escrow deposits or equity assessment payments; rules",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.445.md"
+  },
+  {
+   "id": "ors-180.448",
+   "title": "Attorney General investigative demand",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.448.md"
+  },
+  {
+   "id": "ors-180.450",
+   "title": "Judicial review; civil remedies; rules",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.450.md"
+  },
+  {
+   "id": "ors-180.451",
+   "title": "Civil remedies for violation of ORS",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.451.md"
+  },
+  {
+   "id": "ors-180.455",
+   "title": "Revocation or suspension of distributor license; refusal to issue license; penalties; remedies (Smokeless Tobacco Master Settlement Agreement)",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.455.md"
+  },
+  {
+   "id": "ors-180.465",
+   "title": "Legislative findings",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.465.md"
+  },
+  {
+   "id": "ors-180.468",
+   "title": "Definitions",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.468.md"
+  },
+  {
+   "id": "ors-180.471",
+   "title": "Manufacturer certification",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.471.md"
+  },
+  {
+   "id": "ors-180.474",
+   "title": "Nonparticipating manufacturer certification; rules",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.474.md"
+  },
+  {
+   "id": "ors-180.477",
+   "title": "Attorney General’s directory; rules",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.477.md"
+  },
+  {
+   "id": "ors-180.480",
+   "title": "Nonresident nonparticipating manufacturer service agent",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.480.md"
+  },
+  {
+   "id": "ors-180.483",
+   "title": "Distributor obligations; Attorney General and Department of Revenue information sharing; nonparticipating manufacturer escrow requirements",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.483.md"
+  },
+  {
+   "id": "ors-180.486",
+   "title": "Prohibited conduct; penalty",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.486.md"
+  },
+  {
+   "id": "ors-180.489",
+   "title": "Quarterly escrow deposits; rules",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.489.md"
+  },
+  {
+   "id": "ors-180.491",
+   "title": "Judicial review; civil remedies; rules",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.491.md"
+  },
+  {
+   "id": "ors-180.494",
+   "title": "Revocation or suspension of distributor license; refusal to issue license; penalties; remedies (Training Programs)",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.494.md"
+  },
+  {
+   "id": "ors-180.500",
+   "title": "Model training program for groups and agencies that interact with persons who have experienced trauma",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.500.md"
+  },
+  {
+   "id": "ors-180.502",
+   "title": "Training program concerning human trafficking awareness and prevention (Consumer Protection Services)",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.502.md"
+  },
+  {
+   "id": "ors-180.510",
+   "title": "Functions of Department of Justice; personnel",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.510.md"
+  },
+  {
+   "id": "ors-180.520",
+   "title": "Duties of department; agency cooperation; Consumer Advisory Council created; membership; compensation and expenses (Plain Language Review of Consumer Contracts)",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.520.md"
+  },
+  {
+   "id": "ors-180.540",
+   "title": "Review of consumer contracts for conformity with plain language standards",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.540.md"
+  },
+  {
+   "id": "ors-180.545",
+   "title": "Plain language standards; approval; fees",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.545.md"
+  },
+  {
+   "id": "ors-180.550",
+   "title": "Compliance statement",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.550.md"
+  },
+  {
+   "id": "ors-180.555",
+   "title": "Exemptions; effect of certification; admissibility (Investigation of Organized Crime)",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.555.md"
+  },
+  {
+   "id": "ors-180.600",
+   "title": "Definitions",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.600.md"
+  },
+  {
+   "id": "ors-180.610",
+   "title": "Investigation of organized criminal activity; powers and duties of department",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.610.md"
+  },
+  {
+   "id": "ors-180.620",
+   "title": "Investigators to have authority of peace officers",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.620.md"
+  },
+  {
+   "id": "ors-180.630",
+   "title": "Acceptance of federal grant of funds; expenditure limitations",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.630.md"
+  },
+  {
+   "id": "ors-180.640",
+   "title": "Criminal Justice Revolving Account (Batterers’ Intervention Programs)",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.640.md"
+  },
+  {
+   "id": "ors-180.700",
+   "title": "Advisory committee; rules",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.700.md"
+  },
+  {
+   "id": "ors-180.710",
+   "title": "Program reviews (Hope Card Program)",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.710.md"
+  },
+  {
+   "id": "ors-180.720",
+   "title": "Hope Card Program; rules (False Claims)",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.720.md"
+  },
+  {
+   "id": "ors-180.750",
+   "title": "Definitions",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.750.md"
+  },
+  {
+   "id": "ors-180.755",
+   "title": "Prohibited acts",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.755.md"
+  },
+  {
+   "id": "ors-180.760",
+   "title": "Civil action for violation; remedies; penalty",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.760.md"
+  },
+  {
+   "id": "ors-180.765",
+   "title": "Statute of limitation",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.765.md"
+  },
+  {
+   "id": "ors-180.770",
+   "title": "Estoppel",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.770.md"
+  },
+  {
+   "id": "ors-180.775",
+   "title": "Investigative demand",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.775.md"
+  },
+  {
+   "id": "ors-180.777",
+   "title": "Confidentiality and use of documentary material, answers to interrogatories and transcripts of oral testimony",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.777.md"
+  },
+  {
+   "id": "ors-180.780",
+   "title": "Distribution of recovered amounts",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.780.md"
+  },
+  {
+   "id": "ors-180.785",
+   "title": "Remedy not exclusive (Immigration)",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.785.md"
+  },
+  {
+   "id": "ors-180.805",
+   "title": "Prohibited involvement of public bodies in federal immigration law enforcement; civil action",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.805.md"
+  },
+  {
+   "id": "ors-180.810",
+   "title": "Model confidentiality policy; rules ATTORNEY GENERAL (Generally)",
+   "doc_type": "statute",
+   "path": "statutes/ors-180.810.md"
+  },
+  {
+   "id": "ors-181a.010",
+   "title": "Definitions for ORS",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.010.md"
+  },
+  {
+   "id": "ors-181a.015",
+   "title": "Department of State Police established",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.015.md"
+  },
+  {
+   "id": "ors-181a.020",
+   "title": "State Police Account; subaccount; uses; authority to accept property",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.020.md"
+  },
+  {
+   "id": "ors-181a.025",
+   "title": "Petty cash account",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.025.md"
+  },
+  {
+   "id": "ors-181a.030",
+   "title": "Superintendent of State Police; appointment; confirmation; removal",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.030.md"
+  },
+  {
+   "id": "ors-181a.035",
+   "title": "Appointment of Deputy Superintendent of State Police",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.035.md"
+  },
+  {
+   "id": "ors-181a.040",
+   "title": "Powers and duties of deputy superintendent",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.040.md"
+  },
+  {
+   "id": "ors-181a.045",
+   "title": "Oath of superintendent and deputy superintendent",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.045.md"
+  },
+  {
+   "id": "ors-181a.050",
+   "title": "Oregon State Police",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.050.md"
+  },
+  {
+   "id": "ors-181a.055",
+   "title": "Qualifications for appointment and reappointment of state police; special officers; neighboring states",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.055.md"
+  },
+  {
+   "id": "ors-181a.060",
+   "title": "Appointment of employees of department as special state police officers",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.060.md"
+  },
+  {
+   "id": "ors-181a.065",
+   "title": "Oath of members of state police",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.065.md"
+  },
+  {
+   "id": "ors-181a.070",
+   "title": "Salaries of state police",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.070.md"
+  },
+  {
+   "id": "ors-181a.075",
+   "title": "Instruction; rules and regulations for discipline and control",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.075.md"
+  },
+  {
+   "id": "ors-181a.080",
+   "title": "Powers and duties of department and its members",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.080.md"
+  },
+  {
+   "id": "ors-181a.085",
+   "title": "Targeted enforcement program; rules",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.085.md"
+  },
+  {
+   "id": "ors-181a.090",
+   "title": "Duty to enforce laws and regulations of agencies",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.090.md"
+  },
+  {
+   "id": "ors-181a.095",
+   "title": "Headquarters and patrol stations; real property agreements",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.095.md"
+  },
+  {
+   "id": "ors-181a.100",
+   "title": "Organization of work of department",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.100.md"
+  },
+  {
+   "id": "ors-181a.105",
+   "title": "Distribution of police throughout state",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.105.md"
+  },
+  {
+   "id": "ors-181a.110",
+   "title": "Standard uniform for state police; service without wearing uniform; wearing uniforms by other persons prohibited",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.110.md"
+  },
+  {
+   "id": "ors-181a.115",
+   "title": "Supplies and equipment of state police",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.115.md"
+  },
+  {
+   "id": "ors-181a.120",
+   "title": "Commanding assistance of citizens",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.120.md"
+  },
+  {
+   "id": "ors-181a.125",
+   "title": "Interference with personal and property rights of others",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.125.md"
+  },
+  {
+   "id": "ors-181a.130",
+   "title": "Records and reports of activities and time spent in performance of duties",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.130.md"
+  },
+  {
+   "id": "ors-181a.135",
+   "title": "National Crime Prevention and Privacy Compact; rules",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.135.md"
+  },
+  {
+   "id": "ors-181a.140",
+   "title": "Department responsible for criminal identification information",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.140.md"
+  },
+  {
+   "id": "ors-181a.145",
+   "title": "Criminal investigations division",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.145.md"
+  },
+  {
+   "id": "ors-181a.150",
+   "title": "Forensic laboratories",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.150.md"
+  },
+  {
+   "id": "ors-181a.155",
+   "title": "Authority over blood and buccal samples and analyses; rules; disclosure; inspection by subject person; destruction of sample CRIME REPORTING",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.155.md"
+  },
+  {
+   "id": "ors-181a.160",
+   "title": "Fingerprints, identifying data, disposition report required upon arrest",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.160.md"
+  },
+  {
+   "id": "ors-181a.165",
+   "title": "Crimes for which criminal offender information is required",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.165.md"
+  },
+  {
+   "id": "ors-181a.170",
+   "title": "Electronic fingerprint capture technology required; exceptions; Oregon Department of Administrative Services to develop contract for electronic fingerprint capt",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.170.md"
+  },
+  {
+   "id": "ors-181a.175",
+   "title": "Transmittal of disposition report",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.175.md"
+  },
+  {
+   "id": "ors-181a.180",
+   "title": "Copy of certain disposition reports to Teacher Standards and Practices Commission and Department of Education",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.180.md"
+  },
+  {
+   "id": "ors-181a.185",
+   "title": "Report of release or escape from state institution of certain inmates",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.185.md"
+  },
+  {
+   "id": "ors-181a.190",
+   "title": "Criminal records check; qualified entities; Department of Human Services to make fitness determination; rules; fees",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.190.md"
+  },
+  {
+   "id": "ors-181a.195",
+   "title": "Criminal records check; authorized agencies; retention of fingerprint cards by FBI and Department of State Police; fitness determinations; rules; fee",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.195.md"
+  },
+  {
+   "id": "ors-181a.200",
+   "title": "Authority of Department of Human Services, Oregon Health Authority and Employment Department to require fingerprints; qualified entities; rules (Temporary provi",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.200.md"
+  },
+  {
+   "id": "ors-181a.201",
+   "title": "Authority of humane investigation agency to require fingerprints",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.201.md"
+  },
+  {
+   "id": "ors-181a.202",
+   "title": "Authority of municipal tax collection agency to require fingerprints",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.202.md"
+  },
+  {
+   "id": "ors-181a.205",
+   "title": "Fingerprint retention system; Rap Back program; rules; fee",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.205.md"
+  },
+  {
+   "id": "ors-181a.210",
+   "title": "Criminal identification information to be furnished to Native American tribe",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.210.md"
+  },
+  {
+   "id": "ors-181a.215",
+   "title": "Oregon Department of Administrative Services to adopt rules relating to certain aspects of criminal records checks; immunity from civil liability",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.215.md"
+  },
+  {
+   "id": "ors-181a.220",
+   "title": "Confidentiality of some records",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.220.md"
+  },
+  {
+   "id": "ors-181a.225",
+   "title": "Reporting of crime statistics",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.225.md"
+  },
+  {
+   "id": "ors-181a.230",
+   "title": "Establishment of procedures for access to criminal record information; rules",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.230.md"
+  },
+  {
+   "id": "ors-181a.235",
+   "title": "Fee waiver",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.235.md"
+  },
+  {
+   "id": "ors-181a.240",
+   "title": "Procedure when information requested by designated agency; exception for investigation of child abuse or neglect",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.240.md"
+  },
+  {
+   "id": "ors-181a.245",
+   "title": "Procedure when information requested by other than criminal justice agency",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.245.md"
+  },
+  {
+   "id": "ors-181a.250",
+   "title": "Specific information not to be collected or maintained",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.250.md"
+  },
+  {
+   "id": "ors-181a.255",
+   "title": "Report of suspected criminal homicide; form and time of report; compilation; comparison CRIMINAL JUSTICE INFORMATION STANDARDS",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.255.md"
+  },
+  {
+   "id": "ors-181a.265",
+   "title": "Criminal Justice Information Standards program; duties",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.265.md"
+  },
+  {
+   "id": "ors-181a.270",
+   "title": "Duties of state criminal justice agencies",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.270.md"
+  },
+  {
+   "id": "ors-181a.275",
+   "title": "Criminal Justice Information Standards Advisory Board; members; expenses",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.275.md"
+  },
+  {
+   "id": "ors-181a.280",
+   "title": "Law Enforcement Data System established; duties; rules",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.280.md"
+  },
+  {
+   "id": "ors-181a.285",
+   "title": "Medical health database",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.285.md"
+  },
+  {
+   "id": "ors-181a.287",
+   "title": "Entry of certain convictions related to possession of firearms or ammunition into Law Enforcement Data System and databases of National Crime Information Center",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.287.md"
+  },
+  {
+   "id": "ors-181a.290",
+   "title": "Certain information required from agencies; rules MISSING PERSONS PROCEDURES",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.290.md"
+  },
+  {
+   "id": "ors-181a.300",
+   "title": "Establishment and maintenance of missing persons clearinghouse",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.300.md"
+  },
+  {
+   "id": "ors-181a.305",
+   "title": "Duties of administrator of clearinghouse",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.305.md"
+  },
+  {
+   "id": "ors-181a.310",
+   "title": "When notification of missing children clearinghouse required",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.310.md"
+  },
+  {
+   "id": "ors-181a.315",
+   "title": "Amber Plan; rules",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.315.md"
+  },
+  {
+   "id": "ors-181a.320",
+   "title": "Written policies relating to missing vulnerable adults required SEXUAL ASSAULT FORENSIC EVIDENCE KITS",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.320.md"
+  },
+  {
+   "id": "ors-181a.322",
+   "title": "Short title",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.322.md"
+  },
+  {
+   "id": "ors-181a.323",
+   "title": "Definitions for ORS",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.323.md"
+  },
+  {
+   "id": "ors-181a.324",
+   "title": "Sexual assault forensic evidence kit testing; reports; rules",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.324.md"
+  },
+  {
+   "id": "ors-181a.325",
+   "title": "Policies and procedures regarding collection, submission for testing, retention and destruction of kits",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.325.md"
+  },
+  {
+   "id": "ors-181a.326",
+   "title": "Notification to law enforcement agency when kit collected",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.326.md"
+  },
+  {
+   "id": "ors-181a.328",
+   "title": "Committee on tracking of sexual assault forensic evidence; statewide electronic sexual assault forensic evidence kit tracking system MISCELLANEOUS",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.328.md"
+  },
+  {
+   "id": "ors-181a.338",
+   "title": "Purchase and receipt of property from military equipment surplus program",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.338.md"
+  },
+  {
+   "id": "ors-181a.340",
+   "title": "Commissioning of humane special agents; rules",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.340.md"
+  },
+  {
+   "id": "ors-181a.345",
+   "title": "Humane special agents to enforce animal welfare laws under direction of law enforcement agency; notice required of allegation of abuse of commission",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.345.md"
+  },
+  {
+   "id": "ors-181a.348",
+   "title": "Telecommunicators as first responders",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.348.md"
+  },
+  {
+   "id": "ors-181a.350",
+   "title": "Eligibility of towing business to be placed on department list; rules PUBLIC SAFETY STANDARDS AND TRAINING (Definitions)",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.350.md"
+  },
+  {
+   "id": "ors-181a.355",
+   "title": "Definitions for ORS",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.355.md"
+  },
+  {
+   "id": "ors-181a.360",
+   "title": "Board on Public Safety Standards and Training; term limit; confirmation",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.360.md"
+  },
+  {
+   "id": "ors-181a.365",
+   "title": "Organization of board; meetings; policy of state",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.365.md"
+  },
+  {
+   "id": "ors-181a.370",
+   "title": "Executive committee",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.370.md"
+  },
+  {
+   "id": "ors-181a.375",
+   "title": "Policy committees; rules",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.375.md"
+  },
+  {
+   "id": "ors-181a.380",
+   "title": "Leave to perform duties of board or policy committee (Director)",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.380.md"
+  },
+  {
+   "id": "ors-181a.385",
+   "title": "Appointment of director of department (Standards and Training)",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.385.md"
+  },
+  {
+   "id": "ors-181a.390",
+   "title": "Training academy; title to real property",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.390.md"
+  },
+  {
+   "id": "ors-181a.395",
+   "title": "Certain officers required to be at least 21 years of age",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.395.md"
+  },
+  {
+   "id": "ors-181a.400",
+   "title": "Authority of Department of Public Safety Standards and Training to require fingerprints",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.400.md"
+  },
+  {
+   "id": "ors-181a.405",
+   "title": "Legislative intent and findings",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.405.md"
+  },
+  {
+   "id": "ors-181a.410",
+   "title": "Minimum standards and training for certification; duties in improving public safety units; grants; fees; rules",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.410.md"
+  },
+  {
+   "id": "ors-181a.420",
+   "title": "Minimum standards and training requirements inapplicable to certain persons; certification based on experience, education or training",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.420.md"
+  },
+  {
+   "id": "ors-181a.425",
+   "title": "Department not required to provide training for certification of reserve officers",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.425.md"
+  },
+  {
+   "id": "ors-181a.430",
+   "title": "Effect of minimum requirements under authority other than ORS",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.430.md"
+  },
+  {
+   "id": "ors-181a.440",
+   "title": "Training in vehicle pursuit, mental illness and airway and circulatory systems; certification in cardiopulmonary resuscitation",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.440.md"
+  },
+  {
+   "id": "ors-181a.442",
+   "title": "Equity training for police officers; rules",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.442.md"
+  },
+  {
+   "id": "ors-181a.444",
+   "title": "Training on interacting with persons who have experienced trauma",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.444.md"
+  },
+  {
+   "id": "ors-181a.445",
+   "title": "Best practices for interacting with persons who have experienced trauma; rules",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.445.md"
+  },
+  {
+   "id": "ors-181a.450",
+   "title": "Child abuse and domestic violence training; report",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.450.md"
+  },
+  {
+   "id": "ors-181a.460",
+   "title": "Training in missing persons cases",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.460.md"
+  },
+  {
+   "id": "ors-181a.470",
+   "title": "Training relating to Vienna Convention and crimes motivated by prejudice or that constitute abuse",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.470.md"
+  },
+  {
+   "id": "ors-181a.480",
+   "title": "Training in human trafficking",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.480.md"
+  },
+  {
+   "id": "ors-181a.483",
+   "title": "Prohibition on training to use physical force that impedes breathing or circulation; rules",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.483.md"
+  },
+  {
+   "id": "ors-181a.485",
+   "title": "Psychological screening of law enforcement officers; rules",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.485.md"
+  },
+  {
+   "id": "ors-181a.487",
+   "title": "Mental health wellness policies for law enforcement agencies (Certification)",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.487.md"
+  },
+  {
+   "id": "ors-181a.490",
+   "title": "Certification of police officers and certified reserve officers",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.490.md"
+  },
+  {
+   "id": "ors-181a.500",
+   "title": "Lapse of certification; reapplication for certification; rules; fees",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.500.md"
+  },
+  {
+   "id": "ors-181a.510",
+   "title": "Certification for certain purposes of individuals employed by tribal government to perform duties of public safety officer",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.510.md"
+  },
+  {
+   "id": "ors-181a.520",
+   "title": "Certification of corrections officers",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.520.md"
+  },
+  {
+   "id": "ors-181a.522",
+   "title": "Training of corrections officers by Department of Corrections; standards; audits",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.522.md"
+  },
+  {
+   "id": "ors-181a.530",
+   "title": "Certification of parole and probation officers",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.530.md"
+  },
+  {
+   "id": "ors-181a.540",
+   "title": "Certification of judicial marshals",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.540.md"
+  },
+  {
+   "id": "ors-181a.550",
+   "title": "Certification of regulatory specialists",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.550.md"
+  },
+  {
+   "id": "ors-181a.560",
+   "title": "Certification of telecommunicators and emergency medical dispatchers",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.560.md"
+  },
+  {
+   "id": "ors-181a.570",
+   "title": "Certification of full-time department employees",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.570.md"
+  },
+  {
+   "id": "ors-181a.580",
+   "title": "Certification of certain Law Enforcement Data System employees",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.580.md"
+  },
+  {
+   "id": "ors-181a.590",
+   "title": "Certification of instructors; accreditation of training programs",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.590.md"
+  },
+  {
+   "id": "ors-181a.600",
+   "title": "Limitation on accreditation of training programs",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.600.md"
+  },
+  {
+   "id": "ors-181a.610",
+   "title": "Reimbursement for training to local law enforcement units; rules",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.610.md"
+  },
+  {
+   "id": "ors-181a.620",
+   "title": "Reimbursement of qualifying expenses",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.620.md"
+  },
+  {
+   "id": "ors-181a.630",
+   "title": "Procedure for denial, suspension or revocation of application or certification",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.630.md"
+  },
+  {
+   "id": "ors-181a.640",
+   "title": "Grounds for denial, suspension or revocation of application or certification of person or accreditation of program; rules",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.640.md"
+  },
+  {
+   "id": "ors-181a.650",
+   "title": "Judicial review of department’s final order; reapplication for certification; rules",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.650.md"
+  },
+  {
+   "id": "ors-181a.655",
+   "title": "Civil penalties relating to certification; rules; immunity from civil liability (Accreditation of Law Enforcement Agencies)",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.655.md"
+  },
+  {
+   "id": "ors-181a.657",
+   "title": "Accreditation of law enforcement agencies; rules (Oregon Center for Policing Excellence)",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.657.md"
+  },
+  {
+   "id": "ors-181a.660",
+   "title": "Oregon Center for Policing Excellence; purpose; rules (Police Memorial Trust Fund)",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.660.md"
+  },
+  {
+   "id": "ors-181a.661",
+   "title": "Police Memorial Trust Fund; rules (National Use-of-Force Data Collection)",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.661.md"
+  },
+  {
+   "id": "ors-181a.663",
+   "title": "National Use-of-Force Data Collection (Police Standards and Training Account)",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.663.md"
+  },
+  {
+   "id": "ors-181a.665",
+   "title": "Police Standards and Training Account (Employment Information)",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.665.md"
+  },
+  {
+   "id": "ors-181a.666",
+   "title": "Findings",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.666.md"
+  },
+  {
+   "id": "ors-181a.667",
+   "title": "Review, provision and retention of personnel records; immunity from liability",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.667.md"
+  },
+  {
+   "id": "ors-181a.668",
+   "title": "Request for employment information; injunction to compel disclosure; confidentiality",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.668.md"
+  },
+  {
+   "id": "ors-181a.670",
+   "title": "Disclosure of information about public safety officer; order to compel compliance",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.670.md"
+  },
+  {
+   "id": "ors-181a.672",
+   "title": "Disclosure of information about certain employees of law enforcement agencies",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.672.md"
+  },
+  {
+   "id": "ors-181a.674",
+   "title": "Disclosure of information about certain public safety employees",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.674.md"
+  },
+  {
+   "id": "ors-181a.676",
+   "title": "Uniform background checklist; standardized personal history questionnaire (Misconduct, Discipline and Standards)",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.676.md"
+  },
+  {
+   "id": "ors-181a.681",
+   "title": "Report of misconduct or violation of minimum standards; investigation; failure to intervene or report grounds for discipline; reporting requirement",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.681.md"
+  },
+  {
+   "id": "ors-181a.683",
+   "title": "Form for reports; forwarding of reports to law enforcement unit",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.683.md"
+  },
+  {
+   "id": "ors-181a.684",
+   "title": "Database of discipline and suspensions and revocations of certification of police officers; reporting requirement",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.684.md"
+  },
+  {
+   "id": "ors-181a.686",
+   "title": "Report on discipline to Department of Public Safety Standards and Training",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.686.md"
+  },
+  {
+   "id": "ors-181a.688",
+   "title": "Findings regarding racism",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.688.md"
+  },
+  {
+   "id": "ors-181a.700",
+   "title": "Definitions for ORS",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.700.md"
+  },
+  {
+   "id": "ors-181a.702",
+   "title": "and",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.702.md"
+  },
+  {
+   "id": "ors-181a.704",
+   "title": "Provision of officer identity to member of public (Law Enforcement Tactics)",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.704.md"
+  },
+  {
+   "id": "ors-181a.708",
+   "title": "Use of tools in crowd management",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.708.md"
+  },
+  {
+   "id": "ors-181a.710",
+   "title": "Use of other law enforcement agencies to engage in barred conduct OREGON COMMUNITY CRIME PREVENTION INFORMATION CENTER",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.710.md"
+  },
+  {
+   "id": "ors-181a.720",
+   "title": "Definitions for ORS",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.720.md"
+  },
+  {
+   "id": "ors-181a.725",
+   "title": "Oregon Community Crime Prevention Information Center; duties",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.725.md"
+  },
+  {
+   "id": "ors-181a.730",
+   "title": "Coordinator; appointment; duties",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.730.md"
+  },
+  {
+   "id": "ors-181a.735",
+   "title": "Advisory committee; meetings; expenses PLAN ADDRESSING USE OF DEADLY PHYSICAL FORCE",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.735.md"
+  },
+  {
+   "id": "ors-181a.775",
+   "title": "Definitions for ORS",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.775.md"
+  },
+  {
+   "id": "ors-181a.780",
+   "title": "Planning authority; development and approval of plan; compliance; notice upon challenge to plan",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.780.md"
+  },
+  {
+   "id": "ors-181a.785",
+   "title": "Components of plan",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.785.md"
+  },
+  {
+   "id": "ors-181a.790",
+   "title": "Policy relating to use of deadly physical force; collection of information; rules",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.790.md"
+  },
+  {
+   "id": "ors-181a.795",
+   "title": "Admissibility of conclusions and recommendations",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.795.md"
+  },
+  {
+   "id": "ors-181a.800",
+   "title": "Compliance",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.800.md"
+  },
+  {
+   "id": "ors-181a.805",
+   "title": "Grants; rules",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.805.md"
+  },
+  {
+   "id": "ors-181a.810",
+   "title": "Expenditure limitation on grant moneys",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.810.md"
+  },
+  {
+   "id": "ors-181a.815",
+   "title": "Expenses; rules IMMIGRATION ENFORCEMENT",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.815.md"
+  },
+  {
+   "id": "ors-181a.820",
+   "title": "Enforcement of federal immigration laws; civil action for violation",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.820.md"
+  },
+  {
+   "id": "ors-181a.822",
+   "title": "Definitions for ORS",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.822.md"
+  },
+  {
+   "id": "ors-181a.823",
+   "title": "Prohibitions related to immigration enforcement; explanation of rights and consequences; civil action",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.823.md"
+  },
+  {
+   "id": "ors-181a.826",
+   "title": "Prohibition on use of public resources for immigration enforcement; documentation; submission to Oregon Criminal Justice Commission; website; disclosure to Depa",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.826.md"
+  },
+  {
+   "id": "ors-181a.827",
+   "title": "Sanctuary violation reporting mechanism; website",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.827.md"
+  },
+  {
+   "id": "ors-181a.828",
+   "title": "Prohibition on civil arrest without warrant or order in court facility or in connection with court proceeding; civil action",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.828.md"
+  },
+  {
+   "id": "ors-181a.829",
+   "title": "Prohibition on agreements related to immigration enforcement; operation of private immigration detention facility; civil action PEER SUPPORT SERVICES",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.829.md"
+  },
+  {
+   "id": "ors-181a.835",
+   "title": "Peer support services; confidentiality; admissibility as evidence PRIVATE SECURITY",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.835.md"
+  },
+  {
+   "id": "ors-181a.840",
+   "title": "Definitions for ORS",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.840.md"
+  },
+  {
+   "id": "ors-181a.845",
+   "title": "Applicability of ORS",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.845.md"
+  },
+  {
+   "id": "ors-181a.850",
+   "title": "Prohibited acts; temporary assignment of person not certified allowed",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.850.md"
+  },
+  {
+   "id": "ors-181a.855",
+   "title": "Qualifications for private security professional; rules",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.855.md"
+  },
+  {
+   "id": "ors-181a.860",
+   "title": "Application procedure",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.860.md"
+  },
+  {
+   "id": "ors-181a.865",
+   "title": "Qualifications for executive manager or supervisory manager",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.865.md"
+  },
+  {
+   "id": "ors-181a.870",
+   "title": "Board on Public Safety Standards and Training to establish standards; department to establish procedures and fees; report; rules",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.870.md"
+  },
+  {
+   "id": "ors-181a.875",
+   "title": "Licenses and certificates; issuance; duration; denial or revocation",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.875.md"
+  },
+  {
+   "id": "ors-181a.880",
+   "title": "Hearing if license or certificate denied, suspended or revoked",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.880.md"
+  },
+  {
+   "id": "ors-181a.885",
+   "title": "Effect of being charged with crime",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.885.md"
+  },
+  {
+   "id": "ors-181a.890",
+   "title": "Disposition of funds received by department",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.890.md"
+  },
+  {
+   "id": "ors-181a.891",
+   "title": "Persons providing private security services on September 9, 1995",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.891.md"
+  },
+  {
+   "id": "ors-181a.893",
+   "title": "Restrictions on entities employing private security providers; rules",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.893.md"
+  },
+  {
+   "id": "ors-181a.895",
+   "title": "and",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.895.md"
+  },
+  {
+   "id": "ors-181a.900",
+   "title": "Procedures for licensing of private security entities; rules; fees",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.900.md"
+  },
+  {
+   "id": "ors-181a.902",
+   "title": "Investigation of applicant’s character, competence and reliability",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.902.md"
+  },
+  {
+   "id": "ors-181a.904",
+   "title": "License examination; rules",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.904.md"
+  },
+  {
+   "id": "ors-181a.906",
+   "title": "Firearm training",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.906.md"
+  },
+  {
+   "id": "ors-181a.908",
+   "title": "Training through Bureau of Labor and Industries",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.908.md"
+  },
+  {
+   "id": "ors-181a.911",
+   "title": "Interagency agreement",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.911.md"
+  },
+  {
+   "id": "ors-181a.913",
+   "title": "Required statements to private security professionals",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.913.md"
+  },
+  {
+   "id": "ors-181a.914",
+   "title": "Prohibitions relating to discharge of or discrimination against private security provider",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.914.md"
+  },
+  {
+   "id": "ors-181a.916",
+   "title": "Hiring unlicensed private security entity; liability for unpaid wages",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.916.md"
+  },
+  {
+   "id": "ors-181a.918",
+   "title": "Injunction against using services of unlicensed private security entity; attorney fees; damages",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.918.md"
+  },
+  {
+   "id": "ors-181a.922",
+   "title": "Private Security Entity Account TRIBAL POLICE OFFICERS",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.922.md"
+  },
+  {
+   "id": "ors-181a.940",
+   "title": "Definitions for ORS",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.940.md"
+  },
+  {
+   "id": "ors-181a.942",
+   "title": "Eligibility to act as authorized tribal police officer",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.942.md"
+  },
+  {
+   "id": "ors-181a.944",
+   "title": "Legislative purpose; requirements for citation issued outside tribal jurisdiction; tribal government insurance; tribal police officer not officer, employee or a",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.944.md"
+  },
+  {
+   "id": "ors-181a.946",
+   "title": "Application for nontribal police officers to exercise tribal police powers on tribal lands; citation for tribal offense; liability for torts; report SECURITY ON",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.946.md"
+  },
+  {
+   "id": "ors-181a.972",
+   "title": "Requirements for special campus security providers and private security providers on campuses of institutions of higher education PENALTIES",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.972.md"
+  },
+  {
+   "id": "ors-181a.995",
+   "title": "Penalties relating to regulation of private security; criminal and civil STATE POLICE",
+   "doc_type": "statute",
+   "path": "statutes/ors-181a.995.md"
+  },
+  {
+   "id": "ors-182.010",
+   "title": "Nonattendance of member of board or commission at meetings as forfeiting office; appointment of successor",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.010.md"
+  },
+  {
+   "id": "ors-182.020",
+   "title": "Notice of meetings of boards and commissions; reporting of absences",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.020.md"
+  },
+  {
+   "id": "ors-182.030",
+   "title": "Employment of persons advocating violent overthrow of the Government of the United States or Oregon prohibited",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.030.md"
+  },
+  {
+   "id": "ors-182.035",
+   "title": "Criminal records checks to be conducted through Department of State Police",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.035.md"
+  },
+  {
+   "id": "ors-182.040",
+   "title": "Boards and commissions to pay counties for services; exceptions",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.040.md"
+  },
+  {
+   "id": "ors-182.050",
+   "title": "Time and manner of payment to counties",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.050.md"
+  },
+  {
+   "id": "ors-182.060",
+   "title": "County clerk to record instruments affecting realty for state boards and commissions",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.060.md"
+  },
+  {
+   "id": "ors-182.072",
+   "title": "Payment for licenses issued by county or other public body on behalf of state agency",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.072.md"
+  },
+  {
+   "id": "ors-182.080",
+   "title": "Effect of repeal or amendment of statute authorizing state agency to collect, receive and expend moneys",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.080.md"
+  },
+  {
+   "id": "ors-182.090",
+   "title": "State agency to pay attorney fees and expenses when court finds for petitioner and that agency acted unreasonably",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.090.md"
+  },
+  {
+   "id": "ors-182.100",
+   "title": "Affirmative action policy; implementation on appointments",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.100.md"
+  },
+  {
+   "id": "ors-182.105",
+   "title": "Information concerning tax benefits of providing child care under employee benefit plan",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.105.md"
+  },
+  {
+   "id": "ors-182.109",
+   "title": "Agency actions to carry out state policies for persons with disabilities",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.109.md"
+  },
+  {
+   "id": "ors-182.112",
+   "title": "Title to property acquired by state agency in name of state",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.112.md"
+  },
+  {
+   "id": "ors-182.116",
+   "title": "Identification of race or ethnicity on forms issued by public bodies",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.116.md"
+  },
+  {
+   "id": "ors-182.119",
+   "title": "Mailing of agency notices to post office boxes IMPACT OF STATE AGENCY ACTION ON FAMILIES",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.119.md"
+  },
+  {
+   "id": "ors-182.151",
+   "title": "Assessment of impact of state agency action on families",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.151.md"
+  },
+  {
+   "id": "ors-182.152",
+   "title": "No right or benefit created RELATIONSHIP OF STATE AGENCIES WITH INDIAN TRIBES",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.152.md"
+  },
+  {
+   "id": "ors-182.162",
+   "title": "Definitions for ORS",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.162.md"
+  },
+  {
+   "id": "ors-182.164",
+   "title": "State agencies to develop and implement policy on relationship with tribes; cooperation with tribes",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.164.md"
+  },
+  {
+   "id": "ors-182.166",
+   "title": "Training of state agency managers and employees who communicate with tribes; annual meetings of representatives of agencies and tribes; annual reports by state ",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.166.md"
+  },
+  {
+   "id": "ors-182.168",
+   "title": "No right of action created by ORS",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.168.md"
+  },
+  {
+   "id": "ors-182.365",
+   "title": "Legislative findings; definitions for ORS",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.365.md"
+  },
+  {
+   "id": "ors-182.375",
+   "title": "State Productivity Improvement Revolving Fund; creation; sources; uses",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.375.md"
+  },
+  {
+   "id": "ors-182.380",
+   "title": "Credit of certain savings to General Fund",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.380.md"
+  },
+  {
+   "id": "ors-182.385",
+   "title": "Identification of reduced expenses resulting from improved efficiency",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.385.md"
+  },
+  {
+   "id": "ors-182.390",
+   "title": "Plan for increased efficiency",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.390.md"
+  },
+  {
+   "id": "ors-182.395",
+   "title": "Ineligibility of new programs for credits",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.395.md"
+  },
+  {
+   "id": "ors-182.400",
+   "title": "Report on productivity improvement program RULES GOVERNING AGENCY-PROVIDED HOUSING",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.400.md"
+  },
+  {
+   "id": "ors-182.415",
+   "title": "Definitions for ORS",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.415.md"
+  },
+  {
+   "id": "ors-182.425",
+   "title": "State agency required to collect rental for housing provided to employees; provision of furnishings prohibited; determination of fair rental value",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.425.md"
+  },
+  {
+   "id": "ors-182.435",
+   "title": "Schedule of reduction from fair rental value SEMI-INDEPENDENT STATE AGENCIES (Listing of Semi-Independent State Agencies)",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.435.md"
+  },
+  {
+   "id": "ors-182.454",
+   "title": "Semi-independent state agencies (General Provisions Relating to Semi-Independent State Agencies)",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.454.md"
+  },
+  {
+   "id": "ors-182.456",
+   "title": "Definitions for ORS",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.456.md"
+  },
+  {
+   "id": "ors-182.460",
+   "title": "Statutory provisions applicable to semi-independent state agencies",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.460.md"
+  },
+  {
+   "id": "ors-182.462",
+   "title": "Budgets for semi-independent state agencies; annual financial statements; disposition of civil penalties; rules",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.462.md"
+  },
+  {
+   "id": "ors-182.464",
+   "title": "Financial review by Secretary of State",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.464.md"
+  },
+  {
+   "id": "ors-182.466",
+   "title": "Powers of semi-independent state agencies; fees; rules",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.466.md"
+  },
+  {
+   "id": "ors-182.468",
+   "title": "Administrators",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.468.md"
+  },
+  {
+   "id": "ors-182.470",
+   "title": "Accounts for and investment of moneys collected or received by semi-independent state agencies",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.470.md"
+  },
+  {
+   "id": "ors-182.472",
+   "title": "Reports OMBUDSMAN SERVICES",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.472.md"
+  },
+  {
+   "id": "ors-182.500",
+   "title": "Mandatory report to Governor by person performing ombudsman services; cooperation with ombudsman EVIDENCE-BASED PROGRAMS",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.500.md"
+  },
+  {
+   "id": "ors-182.515",
+   "title": "Definitions for ORS",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.515.md"
+  },
+  {
+   "id": "ors-182.525",
+   "title": "Mandatory expenditures for evidence-based programs; biennial report; rules ENVIRONMENTAL JUSTICE COUNCIL",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.525.md"
+  },
+  {
+   "id": "ors-182.535",
+   "title": "Definitions for ORS",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.535.md"
+  },
+  {
+   "id": "ors-182.538",
+   "title": "Environmental Justice Council",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.538.md"
+  },
+  {
+   "id": "ors-182.542",
+   "title": "Duties of council",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.542.md"
+  },
+  {
+   "id": "ors-182.543",
+   "title": "Reports by council",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.543.md"
+  },
+  {
+   "id": "ors-182.545",
+   "title": "Duties of natural resource agencies",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.545.md"
+  },
+  {
+   "id": "ors-182.550",
+   "title": "Reports by natural resource agencies",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.550.md"
+  },
+  {
+   "id": "ors-182.555",
+   "title": "Environmental justice mapping tool",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.555.md"
+  },
+  {
+   "id": "ors-182.557",
+   "title": "Use of environmental justice mapping tool by natural resource agencies Note See State agencies under QUICK SEARCH at the beginning of ORS volume 20 (Index) for ",
+   "doc_type": "statute",
+   "path": "statutes/ors-182.557.md"
+  },
+  {
    "id": "ors-183.310",
    "title": "Definitions for chapter",
    "doc_type": "statute",
@@ -9000,6 +12204,174 @@
    "title": "Process for selecting projects; rules",
    "doc_type": "statute",
    "path": "statutes/ors-184.920.md"
+  },
+  {
+   "id": "ors-185.005",
+   "title": "Oregon Advocacy Commissions Office",
+   "doc_type": "statute",
+   "path": "statutes/ors-185.005.md"
+  },
+  {
+   "id": "ors-185.010",
+   "title": "Executive director",
+   "doc_type": "statute",
+   "path": "statutes/ors-185.010.md"
+  },
+  {
+   "id": "ors-185.020",
+   "title": "Assistance of Bureau of Labor and Industries",
+   "doc_type": "statute",
+   "path": "statutes/ors-185.020.md"
+  },
+  {
+   "id": "ors-185.025",
+   "title": "Oregon Advocacy Commissions Office Account (Temporary provisions relating to affinity group task forces are compiled as notes following ORS",
+   "doc_type": "statute",
+   "path": "statutes/ors-185.025.md"
+  },
+  {
+   "id": "ors-185.110",
+   "title": "Definitions for ORS",
+   "doc_type": "statute",
+   "path": "statutes/ors-185.110.md"
+  },
+  {
+   "id": "ors-185.130",
+   "title": "Oregon Disabilities Commission; qualifications",
+   "doc_type": "statute",
+   "path": "statutes/ors-185.130.md"
+  },
+  {
+   "id": "ors-185.140",
+   "title": "Advisory function",
+   "doc_type": "statute",
+   "path": "statutes/ors-185.140.md"
+  },
+  {
+   "id": "ors-185.150",
+   "title": "Duties",
+   "doc_type": "statute",
+   "path": "statutes/ors-185.150.md"
+  },
+  {
+   "id": "ors-185.155",
+   "title": "Monitoring of progress of institutions of higher education and colleges in eliminating barriers to access",
+   "doc_type": "statute",
+   "path": "statutes/ors-185.155.md"
+  },
+  {
+   "id": "ors-185.170",
+   "title": "Retaliation for legislative testimony prohibited",
+   "doc_type": "statute",
+   "path": "statutes/ors-185.170.md"
+  },
+  {
+   "id": "ors-185.190",
+   "title": "Meetings; quorum; duties of chairperson",
+   "doc_type": "statute",
+   "path": "statutes/ors-185.190.md"
+  },
+  {
+   "id": "ors-185.200",
+   "title": "Compensation and expenses (Sign Language Interpreters)",
+   "doc_type": "statute",
+   "path": "statutes/ors-185.200.md"
+  },
+  {
+   "id": "ors-185.225",
+   "title": "Standards for sign language interpreters in public schools; rules",
+   "doc_type": "statute",
+   "path": "statutes/ors-185.225.md"
+  },
+  {
+   "id": "ors-185.230",
+   "title": "Contract to provide sign language interpreters for state agencies; fees COMMISSION ON HISPANIC AFFAIRS",
+   "doc_type": "statute",
+   "path": "statutes/ors-185.230.md"
+  },
+  {
+   "id": "ors-185.310",
+   "title": "Policy; report",
+   "doc_type": "statute",
+   "path": "statutes/ors-185.310.md"
+  },
+  {
+   "id": "ors-185.320",
+   "title": "Commission on Hispanic Affairs; confirmation; term; officers; quorum; compensation and expenses",
+   "doc_type": "statute",
+   "path": "statutes/ors-185.320.md"
+  },
+  {
+   "id": "ors-185.330",
+   "title": "Duties COMMISSION ON BLACK AFFAIRS",
+   "doc_type": "statute",
+   "path": "statutes/ors-185.330.md"
+  },
+  {
+   "id": "ors-185.410",
+   "title": "Policy; report",
+   "doc_type": "statute",
+   "path": "statutes/ors-185.410.md"
+  },
+  {
+   "id": "ors-185.420",
+   "title": "Commission on Black Affairs; confirmation; term; officers; quorum; compensation and expenses",
+   "doc_type": "statute",
+   "path": "statutes/ors-185.420.md"
+  },
+  {
+   "id": "ors-185.430",
+   "title": "Duties COMMISSION FOR WOMEN",
+   "doc_type": "statute",
+   "path": "statutes/ors-185.430.md"
+  },
+  {
+   "id": "ors-185.510",
+   "title": "Policy; report",
+   "doc_type": "statute",
+   "path": "statutes/ors-185.510.md"
+  },
+  {
+   "id": "ors-185.520",
+   "title": "Commission for Women; confirmation; term; officers; meetings; funds",
+   "doc_type": "statute",
+   "path": "statutes/ors-185.520.md"
+  },
+  {
+   "id": "ors-185.530",
+   "title": "Special study committees",
+   "doc_type": "statute",
+   "path": "statutes/ors-185.530.md"
+  },
+  {
+   "id": "ors-185.540",
+   "title": "Duties",
+   "doc_type": "statute",
+   "path": "statutes/ors-185.540.md"
+  },
+  {
+   "id": "ors-185.550",
+   "title": "Compensation and expenses COMMISSION ON ASIAN AND PACIFIC ISLANDER AFFAIRS",
+   "doc_type": "statute",
+   "path": "statutes/ors-185.550.md"
+  },
+  {
+   "id": "ors-185.610",
+   "title": "Commission on Asian and Pacific Islander Affairs; confirmation; term; officers; quorum; compensation and expenses",
+   "doc_type": "statute",
+   "path": "statutes/ors-185.610.md"
+  },
+  {
+   "id": "ors-185.620",
+   "title": "Duties",
+   "doc_type": "statute",
+   "path": "statutes/ors-185.620.md"
+  },
+  {
+   "id": "ors-185.650",
+   "title": "Office of Immigrant and Refugee Advancement; director; staff; duties; rules OREGON ADVOCACY COMMISSIONS OFFICE",
+   "doc_type": "statute",
+   "path": "statutes/ors-185.650.md"
   },
   {
    "id": "ors-192.001",
@@ -14514,6 +17886,11 @@
   },
   {
    "from": "das-10-030-01",
+   "to": "ors-182.151",
+   "type": "implements"
+  },
+  {
+   "from": "das-10-030-01",
    "to": "ors-240.145",
    "type": "implements"
   },
@@ -14619,12 +17996,22 @@
   },
   {
    "from": "das-107-001-020",
+   "to": "ors-174.112",
+   "type": "implements"
+  },
+  {
+   "from": "das-107-001-020",
    "to": "ors-192.018",
    "type": "implements"
   },
   {
    "from": "das-107-001-030",
    "to": "ors-192.324",
+   "type": "implements"
+  },
+  {
+   "from": "das-107-001-040",
+   "to": "ors-174.112",
    "type": "implements"
   },
   {
@@ -14704,6 +18091,11 @@
   },
   {
    "from": "das-107-004-030",
+   "to": "ors-174.112",
+   "type": "implements"
+  },
+  {
+   "from": "das-107-004-030",
    "to": "ors-276a.200",
    "type": "implements"
   },
@@ -14750,6 +18142,11 @@
   {
    "from": "das-107-004-030_pr",
    "to": "das-107-004-030",
+   "type": "implements"
+  },
+  {
+   "from": "das-107-004-030_pr",
+   "to": "ors-174.112",
    "type": "implements"
   },
   {
@@ -15229,6 +18626,11 @@
   },
   {
    "from": "das-107-004-190",
+   "to": "ors-174.112",
+   "type": "implements"
+  },
+  {
+   "from": "das-107-004-190",
    "to": "ors-276a.203",
    "type": "implements"
   },
@@ -15249,12 +18651,22 @@
   },
   {
    "from": "das-107-004-190_pr",
+   "to": "ors-174.112",
+   "type": "implements"
+  },
+  {
+   "from": "das-107-004-190_pr",
    "to": "ors-276a.203",
    "type": "implements"
   },
   {
    "from": "das-107-004-190_pr",
    "to": "ors-276a.206",
+   "type": "implements"
+  },
+  {
+   "from": "das-107-004-200",
+   "to": "ors-174.112",
    "type": "implements"
   },
   {
@@ -15275,6 +18687,11 @@
   {
    "from": "das-107-004-200_pr",
    "to": "das-107-004-200",
+   "type": "implements"
+  },
+  {
+   "from": "das-107-004-200_pr",
+   "to": "ors-174.112",
    "type": "implements"
   },
   {
@@ -15314,6 +18731,11 @@
   },
   {
    "from": "das-107-009-0030",
+   "to": "ors-174.112",
+   "type": "implements"
+  },
+  {
+   "from": "das-107-009-0030",
    "to": "ors-184.340",
    "type": "implements"
   },
@@ -15345,6 +18767,11 @@
   {
    "from": "das-107-009-0030_pr",
    "to": "oar-125-246-0200",
+   "type": "implements"
+  },
+  {
+   "from": "das-107-009-0030_pr",
+   "to": "ors-174.112",
    "type": "implements"
   },
   {
@@ -15580,6 +19007,11 @@
   {
    "from": "das-107-011-115",
    "to": "oar-125-120-0170",
+   "type": "implements"
+  },
+  {
+   "from": "das-107-011-115",
+   "to": "ors-174.112",
    "type": "implements"
   },
   {
@@ -16119,6 +19551,11 @@
   },
   {
    "from": "das-40-025-01",
+   "to": "ors-180.140",
+   "type": "implements"
+  },
+  {
+   "from": "das-40-025-01",
    "to": "ors-240.307",
    "type": "implements"
   },
@@ -16305,6 +19742,11 @@
   {
    "from": "das-50-000-02",
    "to": "ors-240.321",
+   "type": "implements"
+  },
+  {
+   "from": "das-50-010-01",
+   "to": "ors-174.100",
    "type": "implements"
   },
   {
@@ -19199,6 +22641,21 @@
   },
   {
    "from": "oar-125-007-0200",
+   "to": "ors-181a.170",
+   "type": "implements"
+  },
+  {
+   "from": "oar-125-007-0200",
+   "to": "ors-181a.195",
+   "type": "implements"
+  },
+  {
+   "from": "oar-125-007-0200",
+   "to": "ors-181a.215",
+   "type": "implements"
+  },
+  {
+   "from": "oar-125-007-0200",
    "to": "ors-184.340",
    "type": "implements"
   },
@@ -19209,6 +22666,21 @@
   },
   {
    "from": "oar-125-007-0210",
+   "to": "ors-181a.170",
+   "type": "implements"
+  },
+  {
+   "from": "oar-125-007-0210",
+   "to": "ors-181a.195",
+   "type": "implements"
+  },
+  {
+   "from": "oar-125-007-0210",
+   "to": "ors-181a.215",
+   "type": "implements"
+  },
+  {
+   "from": "oar-125-007-0210",
    "to": "ors-184.340",
    "type": "implements"
   },
@@ -19219,6 +22691,21 @@
   },
   {
    "from": "oar-125-007-0220",
+   "to": "ors-181a.170",
+   "type": "implements"
+  },
+  {
+   "from": "oar-125-007-0220",
+   "to": "ors-181a.195",
+   "type": "implements"
+  },
+  {
+   "from": "oar-125-007-0220",
+   "to": "ors-181a.215",
+   "type": "implements"
+  },
+  {
+   "from": "oar-125-007-0220",
    "to": "ors-184.340",
    "type": "implements"
   },
@@ -19229,6 +22716,21 @@
   },
   {
    "from": "oar-125-007-0250",
+   "to": "ors-181a.170",
+   "type": "implements"
+  },
+  {
+   "from": "oar-125-007-0250",
+   "to": "ors-181a.195",
+   "type": "implements"
+  },
+  {
+   "from": "oar-125-007-0250",
+   "to": "ors-181a.215",
+   "type": "implements"
+  },
+  {
+   "from": "oar-125-007-0250",
    "to": "ors-184.340",
    "type": "implements"
   },
@@ -19239,6 +22741,21 @@
   },
   {
    "from": "oar-125-007-0260",
+   "to": "ors-181a.170",
+   "type": "implements"
+  },
+  {
+   "from": "oar-125-007-0260",
+   "to": "ors-181a.195",
+   "type": "implements"
+  },
+  {
+   "from": "oar-125-007-0260",
+   "to": "ors-181a.215",
+   "type": "implements"
+  },
+  {
+   "from": "oar-125-007-0260",
    "to": "ors-184.340",
    "type": "implements"
   },
@@ -19249,6 +22766,21 @@
   },
   {
    "from": "oar-125-007-0270",
+   "to": "ors-181a.170",
+   "type": "implements"
+  },
+  {
+   "from": "oar-125-007-0270",
+   "to": "ors-181a.195",
+   "type": "implements"
+  },
+  {
+   "from": "oar-125-007-0270",
+   "to": "ors-181a.215",
+   "type": "implements"
+  },
+  {
+   "from": "oar-125-007-0270",
    "to": "ors-184.340",
    "type": "implements"
   },
@@ -19259,6 +22791,21 @@
   },
   {
    "from": "oar-125-007-0300",
+   "to": "ors-181a.170",
+   "type": "implements"
+  },
+  {
+   "from": "oar-125-007-0300",
+   "to": "ors-181a.195",
+   "type": "implements"
+  },
+  {
+   "from": "oar-125-007-0300",
+   "to": "ors-181a.215",
+   "type": "implements"
+  },
+  {
+   "from": "oar-125-007-0300",
    "to": "ors-184.340",
    "type": "implements"
   },
@@ -19269,12 +22816,42 @@
   },
   {
    "from": "oar-125-007-0310",
+   "to": "ors-181a.170",
+   "type": "implements"
+  },
+  {
+   "from": "oar-125-007-0310",
+   "to": "ors-181a.195",
+   "type": "implements"
+  },
+  {
+   "from": "oar-125-007-0310",
+   "to": "ors-181a.215",
+   "type": "implements"
+  },
+  {
+   "from": "oar-125-007-0310",
    "to": "ors-184.340",
    "type": "implements"
   },
   {
    "from": "oar-125-007-0310",
    "to": "ors-184.365",
+   "type": "implements"
+  },
+  {
+   "from": "oar-125-007-0330",
+   "to": "ors-181a.170",
+   "type": "implements"
+  },
+  {
+   "from": "oar-125-007-0330",
+   "to": "ors-181a.195",
+   "type": "implements"
+  },
+  {
+   "from": "oar-125-007-0330",
+   "to": "ors-181a.215",
    "type": "implements"
   },
   {
@@ -19860,6 +23437,16 @@
   {
    "from": "oar-125-055-0130",
    "to": "ors-279a.140",
+   "type": "implements"
+  },
+  {
+   "from": "oar-125-060-0000",
+   "to": "ors-182.415",
+   "type": "implements"
+  },
+  {
+   "from": "oar-125-060-0000",
+   "to": "ors-182.435",
    "type": "implements"
   },
   {
@@ -25206,6 +28793,221 @@
    "from": "oar-128-050-0005",
    "to": "ors-184.305",
    "type": "implements"
+  },
+  {
+   "from": "ors-174.100",
+   "to": "das-50-010-01",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-174.112",
+   "to": "das-107-001-020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-174.112",
+   "to": "das-107-001-040",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-174.112",
+   "to": "das-107-004-030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-174.112",
+   "to": "das-107-004-030_pr",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-174.112",
+   "to": "das-107-004-190",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-174.112",
+   "to": "das-107-004-190_pr",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-174.112",
+   "to": "das-107-004-200",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-174.112",
+   "to": "das-107-004-200_pr",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-174.112",
+   "to": "das-107-009-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-174.112",
+   "to": "das-107-009-0030_pr",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-174.112",
+   "to": "das-107-011-115",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-180.140",
+   "to": "das-40-025-01",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-181a.170",
+   "to": "oar-125-007-0200",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-181a.170",
+   "to": "oar-125-007-0210",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-181a.170",
+   "to": "oar-125-007-0220",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-181a.170",
+   "to": "oar-125-007-0250",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-181a.170",
+   "to": "oar-125-007-0260",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-181a.170",
+   "to": "oar-125-007-0270",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-181a.170",
+   "to": "oar-125-007-0300",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-181a.170",
+   "to": "oar-125-007-0310",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-181a.170",
+   "to": "oar-125-007-0330",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-181a.195",
+   "to": "oar-125-007-0200",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-181a.195",
+   "to": "oar-125-007-0210",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-181a.195",
+   "to": "oar-125-007-0220",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-181a.195",
+   "to": "oar-125-007-0250",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-181a.195",
+   "to": "oar-125-007-0260",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-181a.195",
+   "to": "oar-125-007-0270",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-181a.195",
+   "to": "oar-125-007-0300",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-181a.195",
+   "to": "oar-125-007-0310",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-181a.195",
+   "to": "oar-125-007-0330",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-181a.215",
+   "to": "oar-125-007-0200",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-181a.215",
+   "to": "oar-125-007-0210",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-181a.215",
+   "to": "oar-125-007-0220",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-181a.215",
+   "to": "oar-125-007-0250",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-181a.215",
+   "to": "oar-125-007-0260",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-181a.215",
+   "to": "oar-125-007-0270",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-181a.215",
+   "to": "oar-125-007-0300",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-181a.215",
+   "to": "oar-125-007-0310",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-181a.215",
+   "to": "oar-125-007-0330",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-182.151",
+   "to": "das-10-030-01",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-182.415",
+   "to": "oar-125-060-0000",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-182.435",
+   "to": "oar-125-060-0000",
+   "type": "implemented_by"
   },
   {
    "from": "ors-183.325",

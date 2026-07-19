@@ -3,6 +3,2283 @@ note: Discovery map of ORS chapters relevant to DAS/executive-branch administrat
   per-section and may include minor noise (e.g. cross-references, renumbered/repealed sections). Status
   'ingested' means a full document file with provenance exists in statutes/; everything else is backlog.
 chapters:
+- chapter: '174'
+  title: Construction of Statutes; General Definitions
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors174.html
+  sections:
+  - number: '174.010'
+    title: General rule for construction of statutes
+    status: ingested
+    path: statutes/ors-174.010.md
+  - number: '174.020'
+    title: Legislative intent; general and particular provisions; consideration of legislative history
+    status: ingested
+    path: statutes/ors-174.020.md
+  - number: '174.030'
+    title: Construction favoring natural right to prevail
+    status: ingested
+    path: statutes/ors-174.030.md
+  - number: '174.040'
+    title: Severability
+    status: ingested
+    path: statutes/ors-174.040.md
+  - number: '174.060'
+    title: Effect of amendment of statute adopted by reference
+    status: ingested
+    path: statutes/ors-174.060.md
+  - number: '174.070'
+    title: Effect of repeal of validating or curative Act
+    status: ingested
+    path: statutes/ors-174.070.md
+  - number: '174.080'
+    title: Effect of repeal of repealing Act
+    status: ingested
+    path: statutes/ors-174.080.md
+  - number: '174.090'
+    title: Effect of repeal of repealing constitutional provision GENERAL DEFINITIONS (Miscellaneous)
+    status: ingested
+    path: statutes/ors-174.090.md
+  - number: '174.100'
+    title: Definitions
+    status: ingested
+    path: statutes/ors-174.100.md
+  - number: '174.101'
+    title: “Manufactured structure,” “recreational vehicle” defined
+    status: ingested
+    path: statutes/ors-174.101.md
+  - number: '174.102'
+    title: “Agricultural commodity,” “agricultural product” defined; harvesting or baling of straw as
+      farming practice
+    status: ingested
+    path: statutes/ors-174.102.md
+  - number: '174.104'
+    title: “Public notice” defined
+    status: ingested
+    path: statutes/ors-174.104.md
+  - number: '174.107'
+    title: “Person with a disability” defined (Public Bodies)
+    status: ingested
+    path: statutes/ors-174.107.md
+  - number: '174.108'
+    title: Effect of definitions
+    status: ingested
+    path: statutes/ors-174.108.md
+  - number: '174.109'
+    title: “Public body” defined
+    status: ingested
+    path: statutes/ors-174.109.md
+  - number: '174.111'
+    title: “State government” defined
+    status: ingested
+    path: statutes/ors-174.111.md
+  - number: '174.112'
+    title: “Executive department” defined
+    status: ingested
+    path: statutes/ors-174.112.md
+  - number: '174.113'
+    title: “Judicial department” defined
+    status: ingested
+    path: statutes/ors-174.113.md
+  - number: '174.114'
+    title: “Legislative department” defined
+    status: ingested
+    path: statutes/ors-174.114.md
+  - number: '174.116'
+    title: “Local government” and “local service district” defined
+    status: ingested
+    path: statutes/ors-174.116.md
+  - number: '174.117'
+    title: “Special government body” defined
+    status: ingested
+    path: statutes/ors-174.117.md
+  - number: '174.118'
+    title: Application of definitions to ORS
+    status: ingested
+    path: statutes/ors-174.118.md
+  - number: '174.120'
+    title: Computation of time; leap year
+    status: ingested
+    path: statutes/ors-174.120.md
+  - number: '174.125'
+    title: Computation of time period for personal service MISCELLANEOUS
+    status: ingested
+    path: statutes/ors-174.125.md
+  - number: '174.127'
+    title: Singular or plural number; masculine, feminine or neuter gender
+    status: ingested
+    path: statutes/ors-174.127.md
+  - number: '174.129'
+    title: Statutes, rules and orders to use sex-neutral terms
+    status: ingested
+    path: statutes/ors-174.129.md
+  - number: '174.130'
+    title: Majority can exercise authority given jointly
+    status: ingested
+    path: statutes/ors-174.130.md
+  - number: '174.140'
+    title: Construction of “a surety” or similar words
+    status: ingested
+    path: statutes/ors-174.140.md
+  - number: '174.160'
+    title: Mailing methods authorized in place of notice by registered or certified mail
+    status: ingested
+    path: statutes/ors-174.160.md
+  - number: '174.170'
+    title: Notice by personal service equivalent to notice by mail
+    status: ingested
+    path: statutes/ors-174.170.md
+  - number: '174.510'
+    title: Statute revision of 1953 enacted as law; Oregon Revised Statutes; citation
+    status: ingested
+    path: statutes/ors-174.510.md
+  - number: '174.515'
+    title: Duplicate original of 1953 revision; evidentiary effect
+    status: ingested
+    path: statutes/ors-174.515.md
+  - number: '174.520'
+    title: General statutes enacted prior to January 12, 1953, repealed; exceptions
+    status: ingested
+    path: statutes/ors-174.520.md
+  - number: '174.530'
+    title: Construction of statutes enacted as part of 1953 revision
+    status: ingested
+    path: statutes/ors-174.530.md
+  - number: '174.535'
+    title: Construction of reviser’s bills
+    status: ingested
+    path: statutes/ors-174.535.md
+  - number: '174.540'
+    title: Parts of printed statute editions not part of the law
+    status: ingested
+    path: statutes/ors-174.540.md
+  - number: '174.550'
+    title: Statute revision of 1953 substituted for statutes repealed by ORS
+    status: ingested
+    path: statutes/ors-174.550.md
+  - number: '174.580'
+    title: Oregon Rules of Civil Procedure; citation form
+    status: ingested
+    path: statutes/ors-174.580.md
+  - number: '174.590'
+    title: Statutory terminology not intended to preserve procedural distinctions between actions and
+      suits CONSTRUCTION OF STATUTES
+    status: ingested
+    path: statutes/ors-174.590.md
+- chapter: '176'
+  title: Governor
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors176.html
+  sections:
+  - number: '176.010'
+    title: Commencement of term; inauguration
+    status: ingested
+    path: statutes/ors-176.010.md
+  - number: '176.020'
+    title: Cessation of term
+    status: ingested
+    path: statutes/ors-176.020.md
+  - number: '176.110'
+    title: Actions of Governor-elect; budget; tax expenditure report; expenses
+    status: ingested
+    path: statutes/ors-176.110.md
+  - number: '176.200'
+    title: Governor’s Office Operating Fund
+    status: ingested
+    path: statutes/ors-176.200.md
+  - number: '176.250'
+    title: Service of subpoena upon Governor LAW ENFORCEMENT MEDALS
+    status: ingested
+    path: statutes/ors-176.250.md
+  - number: '176.260'
+    title: Medal of Honor
+    status: ingested
+    path: statutes/ors-176.260.md
+  - number: '176.262'
+    title: Governor’s Commission on the Law Enforcement Medal of Honor; rules
+    status: ingested
+    path: statutes/ors-176.262.md
+  - number: '176.264'
+    title: Law Enforcement Medal of Honor Account
+    status: ingested
+    path: statutes/ors-176.264.md
+  - number: '176.267'
+    title: Medal of Ultimate Sacrifice AWARDS
+    status: ingested
+    path: statutes/ors-176.267.md
+  - number: '176.268'
+    title: Oregon Gifts of Life Award DISABILITY OF GOVERNOR
+    status: ingested
+    path: statutes/ors-176.268.md
+  - number: '176.300'
+    title: Temporary transfer of power
+    status: ingested
+    path: statutes/ors-176.300.md
+  - number: '176.303'
+    title: Disability evaluation panel
+    status: ingested
+    path: statutes/ors-176.303.md
+  - number: '176.306'
+    title: Convocation of disability evaluation panel
+    status: ingested
+    path: statutes/ors-176.306.md
+  - number: '176.309'
+    title: Disability evaluation panel procedures
+    status: ingested
+    path: statutes/ors-176.309.md
+  - number: '176.312'
+    title: Finding of disability; finding that disability has ceased RACIAL JUSTICE COUNCIL
+    status: ingested
+    path: statutes/ors-176.312.md
+  - number: '176.350'
+    title: Racial Justice Council; membership; policy committees; terms of office
+    status: ingested
+    path: statutes/ors-176.350.md
+  - number: '176.353'
+    title: Duties of Racial Justice Council PROCLAMATIONS (Death of Unknown Persons)
+    status: ingested
+    path: statutes/ors-176.353.md
+  - number: '176.740'
+    title: Governor’s proclamation; presumption for missing person; report of death (Energy Resources
+      Emergency Powers)
+    status: ingested
+    path: statutes/ors-176.740.md
+  - number: '176.750'
+    title: “Energy resources” defined
+    status: ingested
+    path: statutes/ors-176.750.md
+  - number: '176.755'
+    title: Policy
+    status: ingested
+    path: statutes/ors-176.755.md
+  - number: '176.760'
+    title: Information to be available to Governor
+    status: ingested
+    path: statutes/ors-176.760.md
+  - number: '176.765'
+    title: Confidentiality of information; use; liability
+    status: ingested
+    path: statutes/ors-176.765.md
+  - number: '176.770'
+    title: Curtailment priorities
+    status: ingested
+    path: statutes/ors-176.770.md
+  - number: '176.775'
+    title: Content of Governor’s proclamation of lack of energy resource or resource emergency
+    status: ingested
+    path: statutes/ors-176.775.md
+  - number: '176.780'
+    title: Action authorized by proclamation under ORS
+    status: ingested
+    path: statutes/ors-176.780.md
+  - number: '176.785'
+    title: Proclamation of state of emergency
+    status: ingested
+    path: statutes/ors-176.785.md
+  - number: '176.790'
+    title: Duration of emergency under proclamation; renewal or extension of proclamation
+    status: ingested
+    path: statutes/ors-176.790.md
+  - number: '176.795'
+    title: Actions authorized by proclamation under ORS
+    status: ingested
+    path: statutes/ors-176.795.md
+  - number: '176.800'
+    title: Construction of ORS
+    status: ingested
+    path: statutes/ors-176.800.md
+  - number: '176.805'
+    title: Status of proclamation, order or directive as rule; judicial review
+    status: ingested
+    path: statutes/ors-176.805.md
+  - number: '176.809'
+    title: Governor’s energy emergency contingency plan
+    status: ingested
+    path: statutes/ors-176.809.md
+  - number: '176.815'
+    title: Cooperation with local governments
+    status: ingested
+    path: statutes/ors-176.815.md
+  - number: '176.820'
+    title: State Department of Energy Account PENALTIES
+    status: ingested
+    path: statutes/ors-176.820.md
+  - number: '176.990'
+    title: Penalties GENERAL PROVISIONS
+    status: ingested
+    path: statutes/ors-176.990.md
+- chapter: '177'
+  title: Secretary of State
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors177.html
+  sections:
+  - number: '177.010'
+    title: Oath and bond
+    status: ingested
+    path: statutes/ors-177.010.md
+  - number: '177.020'
+    title: Successive recoveries on bond
+    status: ingested
+    path: statutes/ors-177.020.md
+  - number: '177.030'
+    title: Duties of Secretary of State
+    status: ingested
+    path: statutes/ors-177.030.md
+  - number: '177.040'
+    title: Deputy Secretary of State
+    status: ingested
+    path: statutes/ors-177.040.md
+  - number: '177.050'
+    title: Employment and administration of personnel; merit system; rules
+    status: ingested
+    path: statutes/ors-177.050.md
+  - number: '177.060'
+    title: Designation of persons to sign in name of Secretary of State
+    status: ingested
+    path: statutes/ors-177.060.md
+  - number: '177.065'
+    title: Authority of Secretary of State relating to official acts of public officials; signatures of
+      notaries public
+    status: ingested
+    path: statutes/ors-177.065.md
+  - number: '177.070'
+    title: Bonds for clerks or positions
+    status: ingested
+    path: statutes/ors-177.070.md
+  - number: '177.075'
+    title: Authority of Secretary of State to require fingerprints
+    status: ingested
+    path: statutes/ors-177.075.md
+  - number: '177.080'
+    title: Acts of Congress and of states to be deposited in State of Oregon Law Library
+    status: ingested
+    path: statutes/ors-177.080.md
+  - number: '177.110'
+    title: Oregon Guide
+    status: ingested
+    path: statutes/ors-177.110.md
+  - number: '177.120'
+    title: Oregon Blue Book
+    status: ingested
+    path: statutes/ors-177.120.md
+  - number: '177.130'
+    title: Fees of the Secretary of State
+    status: ingested
+    path: statutes/ors-177.130.md
+  - number: '177.140'
+    title: Secretary of State Administration Division Account
+    status: ingested
+    path: statutes/ors-177.140.md
+  - number: '177.150'
+    title: Record required for Secretary of State Miscellaneous Receipts Account
+    status: ingested
+    path: statutes/ors-177.150.md
+  - number: '177.170'
+    title: Government Waste Hotline; acceptance of other reports; purpose; notice
+    status: ingested
+    path: statutes/ors-177.170.md
+  - number: '177.180'
+    title: Reports received through Government Waste Hotline or by other method; confidentiality; investigation;
+      written determination; annual report to Legislative Assemb
+    status: ingested
+    path: statutes/ors-177.180.md
+  - number: '177.190'
+    title: Purchase of state flags for Armed Forces by Secretary of State
+    status: ingested
+    path: statutes/ors-177.190.md
+- chapter: '178'
+  title: State Treasurer
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors178.html
+  sections:
+  - number: '178.010'
+    title: Oath and bond
+    status: ingested
+    path: statutes/ors-178.010.md
+  - number: '178.020'
+    title: Additional bond requirement
+    status: ingested
+    path: statutes/ors-178.020.md
+  - number: '178.030'
+    title: Premiums on surety bonds of treasurer and employees paid by state; limit on amount
+    status: ingested
+    path: statutes/ors-178.030.md
+  - number: '178.040'
+    title: Successive recoveries on bond
+    status: ingested
+    path: statutes/ors-178.040.md
+  - number: '178.050'
+    title: Duties of State Treasurer
+    status: ingested
+    path: statutes/ors-178.050.md
+  - number: '178.060'
+    title: Deputy State Treasurer; other personnel; merit system; rules; duties of Deputy State Treasurer
+      in event of vacancy in office of State Treasurer
+    status: ingested
+    path: statutes/ors-178.060.md
+  - number: '178.065'
+    title: Authority of State Treasurer to require fingerprints
+    status: ingested
+    path: statutes/ors-178.065.md
+  - number: '178.090'
+    title: Manner of providing evidence of receipt of funds or securities OREGON RETIREMENT SAVINGS PLAN
+    status: ingested
+    path: statutes/ors-178.090.md
+  - number: '178.200'
+    title: Oregon Retirement Savings Board
+    status: ingested
+    path: statutes/ors-178.200.md
+  - number: '178.205'
+    title: Powers and duties of Oregon Retirement Savings Board; rules
+    status: ingested
+    path: statutes/ors-178.205.md
+  - number: '178.210'
+    title: Requirements for Oregon Retirement Savings Plan
+    status: ingested
+    path: statutes/ors-178.210.md
+  - number: '178.215'
+    title: Rules for Oregon Retirement Savings Plan
+    status: ingested
+    path: statutes/ors-178.215.md
+  - number: '178.220'
+    title: Confidentiality of account information
+    status: ingested
+    path: statutes/ors-178.220.md
+  - number: '178.225'
+    title: Oregon Retirement Savings Plan Administrative Fund
+    status: ingested
+    path: statutes/ors-178.225.md
+  - number: '178.230'
+    title: Prerequisites to establishment of Oregon Retirement Savings Plan
+    status: ingested
+    path: statutes/ors-178.230.md
+  - number: '178.235'
+    title: Annual reports
+    status: ingested
+    path: statutes/ors-178.235.md
+  - number: '178.240'
+    title: Preemption
+    status: ingested
+    path: statutes/ors-178.240.md
+  - number: '178.245'
+    title: Assistance of state agencies with outreach, technical assistance and compliance services
+    status: ingested
+    path: statutes/ors-178.245.md
+  - number: '178.250'
+    title: Compliance with plan; complaints
+    status: ingested
+    path: statutes/ors-178.250.md
+  - number: '178.255'
+    title: Investigation by Commissioner of Bureau of Labor and Industries; civil penalty
+    status: ingested
+    path: statutes/ors-178.255.md
+  - number: '178.260'
+    title: Final orders relating to compliance OREGON 529 SAVINGS NETWORK (Generally)
+    status: ingested
+    path: statutes/ors-178.260.md
+  - number: '178.300'
+    title: Definitions for ORS
+    status: ingested
+    path: statutes/ors-178.300.md
+  - number: '178.305'
+    title: Oregon 529 Savings Network
+    status: ingested
+    path: statutes/ors-178.305.md
+  - number: '178.310'
+    title: Oregon 529 Savings Board; membership
+    status: ingested
+    path: statutes/ors-178.310.md
+  - number: '178.315'
+    title: Board powers and duties; rules
+    status: ingested
+    path: statutes/ors-178.315.md
+  - number: '178.320'
+    title: Oregon 529 Savings Network Fund; College Savings Plan Subaccount; ABLE Subaccount
+    status: ingested
+    path: statutes/ors-178.320.md
+  - number: '178.325'
+    title: State interest in contributions and earnings
+    status: ingested
+    path: statutes/ors-178.325.md
+  - number: '178.330'
+    title: Annual report to Governor and Legislative Assembly (Accounts for Qualified Higher Education
+      Expenses)
+    status: ingested
+    path: statutes/ors-178.330.md
+  - number: '178.335'
+    title: Network participation for higher education expenses; contribution limits; fees
+    status: ingested
+    path: statutes/ors-178.335.md
+  - number: '178.340'
+    title: Right to direct investments for higher education expenses; insurance and guarantees prohibited;
+      liability for loss
+    status: ingested
+    path: statutes/ors-178.340.md
+  - number: '178.345'
+    title: Prohibitions and limitations on accounts for higher education expenses
+    status: ingested
+    path: statutes/ors-178.345.md
+  - number: '178.350'
+    title: Designated beneficiary of account for higher education expenses; confidentiality of account
+      information
+    status: ingested
+    path: statutes/ors-178.350.md
+  - number: '178.355'
+    title: Withdrawals from accounts for higher education expenses; rules; report
+    status: ingested
+    path: statutes/ors-178.355.md
+  - number: '178.360'
+    title: Consideration of amounts in accounts for higher education expenses in benefit eligibility determinations
+      (ABLE Accounts for Qualified Disability Expenses)
+    status: ingested
+    path: statutes/ors-178.360.md
+  - number: '178.375'
+    title: Definitions for ORS
+    status: ingested
+    path: statutes/ors-178.375.md
+  - number: '178.380'
+    title: and
+    status: ingested
+    path: statutes/ors-178.380.md
+  - number: '178.385'
+    title: Right to direct investments for ABLE accounts; insurance and guarantees prohibited; liability
+      for loss PENALTIES
+    status: ingested
+    path: statutes/ors-178.385.md
+  - number: '178.990'
+    title: Penalties ADMINISTRATION
+    status: ingested
+    path: statutes/ors-178.990.md
+- chapter: '179'
+  title: Administration of State Institutions
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors179.html
+  sections:
+  - number: '179.010'
+    title: Definitions
+    status: ingested
+    path: statutes/ors-179.010.md
+  - number: '179.040'
+    title: General powers and duties; rules
+    status: ingested
+    path: statutes/ors-179.040.md
+  - number: '179.045'
+    title: Reports on convictions; forms; confidentiality
+    status: ingested
+    path: statutes/ors-179.045.md
+  - number: '179.050'
+    title: Authority to hold property
+    status: ingested
+    path: statutes/ors-179.050.md
+  - number: '179.055'
+    title: Disposition of income from property; maintenance of property
+    status: ingested
+    path: statutes/ors-179.055.md
+  - number: '179.065'
+    title: Furnishing utilities for institutions
+    status: ingested
+    path: statutes/ors-179.065.md
+  - number: '179.105'
+    title: Acceptance of federal or other assistance to carry out general powers and duties; legislative
+      oversight of expenditures
+    status: ingested
+    path: statutes/ors-179.105.md
+  - number: '179.110'
+    title: Use of federal grants; cooperation with federal agencies; disposition of balances of appropriations
+    status: ingested
+    path: statutes/ors-179.110.md
+  - number: '179.130'
+    title: Institutional petty cash fund; creation; reimbursement from appropriation for institution
+    status: ingested
+    path: statutes/ors-179.130.md
+  - number: '179.140'
+    title: Auditing and paying claims; approval of vouchers
+    status: ingested
+    path: statutes/ors-179.140.md
+  - number: '179.150'
+    title: Interest in contracts prohibited CLAIM FOR INJURY OR DAMAGE
+    status: ingested
+    path: statutes/ors-179.150.md
+  - number: '179.210'
+    title: Claim for injury or damage; conditions
+    status: ingested
+    path: statutes/ors-179.210.md
+  - number: '179.230'
+    title: Rejection of claim final and not reviewable
+    status: ingested
+    path: statutes/ors-179.230.md
+  - number: '179.240'
+    title: Procedure where award due person owing debt to state SUPERVISION OF STATE INSTITUTIONS (Superintendent)
+    status: ingested
+    path: statutes/ors-179.240.md
+  - number: '179.310'
+    title: “Superintendent” defined
+    status: ingested
+    path: statutes/ors-179.310.md
+  - number: '179.321'
+    title: Responsibility to supervise state institutions
+    status: ingested
+    path: statutes/ors-179.321.md
+  - number: '179.325'
+    title: Change in use of institution for persons with developmental disabilities or mental illness
+    status: ingested
+    path: statutes/ors-179.325.md
+  - number: '179.331'
+    title: Appointment, suspension and removal of superintendents
+    status: ingested
+    path: statutes/ors-179.331.md
+  - number: '179.340'
+    title: Salaries and expenses of superintendents
+    status: ingested
+    path: statutes/ors-179.340.md
+  - number: '179.360'
+    title: Powers and duties of superintendents
+    status: ingested
+    path: statutes/ors-179.360.md
+  - number: '179.370'
+    title: Residence of superintendents at institutions (Staff)
+    status: ingested
+    path: statutes/ors-179.370.md
+  - number: '179.375'
+    title: Chaplaincy services
+    status: ingested
+    path: statutes/ors-179.375.md
+  - number: '179.380'
+    title: Employment of staff; oaths and bonds
+    status: ingested
+    path: statutes/ors-179.380.md
+  - number: '179.385'
+    title: Scholarship programs to train personnel for institutions; rules
+    status: ingested
+    path: statutes/ors-179.385.md
+  - number: '179.390'
+    title: Appointment, suspension, removal and salaries of assistants, officers and employees; contract
+      services
+    status: ingested
+    path: statutes/ors-179.390.md
+  - number: '179.400'
+    title: Rentals to officers and employees at institution
+    status: ingested
+    path: statutes/ors-179.400.md
+  - number: '179.405'
+    title: License required for teachers at institution (Work at Institution)
+    status: ingested
+    path: statutes/ors-179.405.md
+  - number: '179.440'
+    title: Work in production of articles and performance of labor for state
+    status: ingested
+    path: statutes/ors-179.440.md
+  - number: '179.450'
+    title: Work on state-owned land
+    status: ingested
+    path: statutes/ors-179.450.md
+  - number: '179.460'
+    title: Sale and exchange of surplus products of institutions; rules; State Institutional Betterment
+      Fund (Transfer Procedures)
+    status: ingested
+    path: statutes/ors-179.460.md
+  - number: '179.471'
+    title: Definitions for ORS
+    status: ingested
+    path: statutes/ors-179.471.md
+  - number: '179.473'
+    title: and
+    status: ingested
+    path: statutes/ors-179.473.md
+  - number: '179.478'
+    title: Examination for intellectual disability; commitment hearing; transfer to facility for persons
+      with intellectual disability; termination of sentence
+    status: ingested
+    path: statutes/ors-179.478.md
+  - number: '179.479'
+    title: Conveyance of adults in custody from institution to physician or hospital for treatment; rules
+    status: ingested
+    path: statutes/ors-179.479.md
+  - number: '179.483'
+    title: Time spent pursuant to transfer or conveyance counted as part of sentence
+    status: ingested
+    path: statutes/ors-179.483.md
+  - number: '179.485'
+    title: Rights of person transferred to institution for persons with mental illness or intellectual
+      disabilities
+    status: ingested
+    path: statutes/ors-179.485.md
+  - number: '179.486'
+    title: Payment of costs in connection with transfers and conveyances; medical reports to accompany
+      certain inmates (Medical Care)
+    status: ingested
+    path: statutes/ors-179.486.md
+  - number: '179.490'
+    title: Authorization and payment of cost of emergency and necessary operations
+    status: ingested
+    path: statutes/ors-179.490.md
+  - number: '179.492'
+    title: Dispensing of brand-name mental health drugs (Records)
+    status: ingested
+    path: statutes/ors-179.492.md
+  - number: '179.495'
+    title: Disclosure of written accounts of adult in custody; penalty
+    status: ingested
+    path: statutes/ors-179.495.md
+  - number: '179.505'
+    title: Disclosure of written accounts by health care services provider
+    status: ingested
+    path: statutes/ors-179.505.md
+  - number: '179.507'
+    title: Enforcement of ORS
+    status: ingested
+    path: statutes/ors-179.507.md
+  - number: '179.508'
+    title: Disclosure of individually identifiable health information about adult in custody
+    status: ingested
+    path: statutes/ors-179.508.md
+  - number: '179.509'
+    title: Reports on deaths at institutions; compilation submitted to President and Speaker (Funds of
+      Institution Residents)
+    status: ingested
+    path: statutes/ors-179.509.md
+  - number: '179.510'
+    title: “Funds” defined; deposit of funds of institution residents with State Treasurer
+    status: ingested
+    path: statutes/ors-179.510.md
+  - number: '179.520'
+    title: Authorization to receive funds of institution residents; separate accounts
+    status: ingested
+    path: statutes/ors-179.520.md
+  - number: '179.530'
+    title: Disbursements from accounts; accountability OREGON STATE HOSPITAL ADVISORY BOARD
+    status: ingested
+    path: statutes/ors-179.530.md
+  - number: '179.560'
+    title: Members; appointment; terms; meetings
+    status: ingested
+    path: statutes/ors-179.560.md
+  - number: '179.570'
+    title: Powers and duties of board; report to legislature
+    status: ingested
+    path: statutes/ors-179.570.md
+  - number: '179.580'
+    title: Ad hoc committees RESPONSIBILITY FOR COST OF CARE OF PERSONS IN STATE INSTITUTIONS
+    status: not_sliceable
+    note: no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference
+      artifact); not ingested
+  - number: '179.610'
+    title: Definitions for ORS
+    status: ingested
+    path: statutes/ors-179.610.md
+  - number: '179.620'
+    title: Liability of person or estate for cost of care
+    status: ingested
+    path: statutes/ors-179.620.md
+  - number: '179.640'
+    title: Determination of ability to pay; rules; financial information; notice; order; hearing; appeal
+    status: ingested
+    path: statutes/ors-179.640.md
+  - number: '179.653'
+    title: Unpaid costs as lien on property; order; when appealable
+    status: ingested
+    path: statutes/ors-179.653.md
+  - number: '179.655'
+    title: Enforcement of lien; distraint warrant
+    status: ingested
+    path: statutes/ors-179.655.md
+  - number: '179.660'
+    title: Guardian or conservator for estate of person in institution
+    status: ingested
+    path: statutes/ors-179.660.md
+  - number: '179.701'
+    title: Determination of cost-of-care rates
+    status: ingested
+    path: statutes/ors-179.701.md
+  - number: '179.711'
+    title: Remittance of amounts due; refunds
+    status: ingested
+    path: statutes/ors-179.711.md
+  - number: '179.731'
+    title: Waiver of collection of amount payable
+    status: ingested
+    path: statutes/ors-179.731.md
+  - number: '179.740'
+    title: Collection from estates; settlement
+    status: ingested
+    path: statutes/ors-179.740.md
+  - number: '179.745'
+    title: Title to and transfer of property DISCRIMINATION PROHIBITED
+    status: ingested
+    path: statutes/ors-179.745.md
+  - number: '179.750'
+    title: Equal care and services for persons in state institutions RULES
+    status: ingested
+    path: statutes/ors-179.750.md
+  - number: '179.770'
+    title: Rules; employees GENERAL PROVISIONS
+    status: ingested
+    path: statutes/ors-179.770.md
+- chapter: '180'
+  title: Attorney General; Department of Justice
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors180.html
+  sections:
+  - number: '180.010'
+    title: Office of Attorney General
+    status: not_sliceable
+    note: no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference
+      artifact); not ingested
+  - number: '180.020'
+    title: Election; term of office
+    status: ingested
+    path: statutes/ors-180.020.md
+  - number: '180.030'
+    title: Filing certificate of election or appointment
+    status: ingested
+    path: statutes/ors-180.030.md
+  - number: '180.040'
+    title: Governor to fill vacancy by appointment; term of appointee
+    status: ingested
+    path: statutes/ors-180.040.md
+  - number: '180.050'
+    title: Location of office (Powers and Duties)
+    status: ingested
+    path: statutes/ors-180.050.md
+  - number: '180.060'
+    title: Powers and duties of Attorney General
+    status: ingested
+    path: statutes/ors-180.060.md
+  - number: '180.070'
+    title: Power of Attorney General to conduct investigations and prosecutions; duties of district attorneys
+      unaffected
+    status: ingested
+    path: statutes/ors-180.070.md
+  - number: '180.073'
+    title: Subpoena authority in criminal investigation
+    status: ingested
+    path: statutes/ors-180.073.md
+  - number: '180.075'
+    title: Disclosure of information obtained under subpoena
+    status: ingested
+    path: statutes/ors-180.075.md
+  - number: '180.080'
+    title: Attorney General to manage criminal proceedings in court or before grand jury at request of
+      Governor
+    status: ingested
+    path: statutes/ors-180.080.md
+  - number: '180.090'
+    title: Investigations and special prosecutions; calling on other departments and officers for assistance;
+      employing special investigators
+    status: ingested
+    path: statutes/ors-180.090.md
+  - number: '180.095'
+    title: Department of Justice Protection and Education Revolving Account
+    status: ingested
+    path: statutes/ors-180.095.md
+  - number: '180.096'
+    title: Use of Countrywide Financial Corporation settlement proceeds
+    status: ingested
+    path: statutes/ors-180.096.md
+  - number: '180.100'
+    title: Legislative bills; preparation on request
+    status: ingested
+    path: statutes/ors-180.100.md
+  - number: '180.110'
+    title: Keeping copies of opinions and records of cases; biennial report; printing and binding opinions
+    status: ingested
+    path: statutes/ors-180.110.md
+  - number: '180.120'
+    title: Defending in criminal proceedings for Oregon State Police or member thereof; conducting prosecutions
+    status: ingested
+    path: statutes/ors-180.120.md
+  - number: '180.125'
+    title: Intergovernmental road maintenance agreements (Personnel)
+    status: ingested
+    path: statutes/ors-180.125.md
+  - number: '180.130'
+    title: Deputy Attorney General
+    status: ingested
+    path: statutes/ors-180.130.md
+  - number: '180.140'
+    title: Other assistants; salaries; representation of indigent clients
+    status: ingested
+    path: statutes/ors-180.140.md
+  - number: '180.150'
+    title: Clerks DEPARTMENT OF JUSTICE (Fiscal Matters)
+    status: not_sliceable
+    note: no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference
+      artifact); not ingested
+  - number: '180.160'
+    title: Charges for services to public agencies; rules
+    status: ingested
+    path: statutes/ors-180.160.md
+  - number: '180.170'
+    title: Billing for services to public agencies
+    status: ingested
+    path: statutes/ors-180.170.md
+  - number: '180.180'
+    title: Department of Justice Operating Account
+    status: ingested
+    path: statutes/ors-180.180.md
+  - number: '180.190'
+    title: Department of Justice Current Expense Account; Department of Justice Portland Legal Office
+      Petty Cash Account
+    status: ingested
+    path: statutes/ors-180.190.md
+  - number: '180.200'
+    title: Department of Justice Client Trust Account
+    status: ingested
+    path: statutes/ors-180.200.md
+  - number: '180.205'
+    title: Tobacco Enforcement Fund
+    status: ingested
+    path: statutes/ors-180.205.md
+  - number: '180.207'
+    title: Requirements for Department of Justice agency request budget (Powers and Duties)
+    status: ingested
+    path: statutes/ors-180.207.md
+  - number: '180.210'
+    title: Department of Justice; Attorney General head and chief law officer
+    status: ingested
+    path: statutes/ors-180.210.md
+  - number: '180.220'
+    title: Powers and duties
+    status: ingested
+    path: statutes/ors-180.220.md
+  - number: '180.225'
+    title: Attorney General representing public bodies in antitrust proceedings
+    status: ingested
+    path: statutes/ors-180.225.md
+  - number: '180.230'
+    title: Compensation not allowed state departments for attorney services
+    status: ingested
+    path: statutes/ors-180.230.md
+  - number: '180.235'
+    title: Authority of agency to employ counsel; qualification and salary; status
+    status: ingested
+    path: statutes/ors-180.235.md
+  - number: '180.240'
+    title: Attorney General and Department of Justice to have powers and prerogatives of district attorneys
+    status: ingested
+    path: statutes/ors-180.240.md
+  - number: '180.260'
+    title: Service of process by department employees
+    status: ingested
+    path: statutes/ors-180.260.md
+  - number: '180.265'
+    title: Authority of department to delegate certain duties to employees of Department of Revenue
+    status: ingested
+    path: statutes/ors-180.265.md
+  - number: '180.267'
+    title: Authority of Department of Justice to require fingerprints
+    status: ingested
+    path: statutes/ors-180.267.md
+  - number: '180.269'
+    title: Biennial litigation reports to Legislative Assembly (Division of Child Support)
+    status: ingested
+    path: statutes/ors-180.269.md
+  - number: '180.320'
+    title: Cooperation with division in enforcement; confidentiality of information furnished to division
+    status: ingested
+    path: statutes/ors-180.320.md
+  - number: '180.330'
+    title: District attorneys not relieved from duties relating to enforcement of support laws
+    status: ingested
+    path: statutes/ors-180.330.md
+  - number: '180.340'
+    title: Division of Child Support established; employment of personnel
+    status: ingested
+    path: statutes/ors-180.340.md
+  - number: '180.345'
+    title: Oregon Child Support Program; rules
+    status: ingested
+    path: statutes/ors-180.345.md
+  - number: '180.350'
+    title: Investigators to have authority of peace officers
+    status: ingested
+    path: statutes/ors-180.350.md
+  - number: '180.360'
+    title: Division exempt from payment of certain court fees; exemption
+    status: ingested
+    path: statutes/ors-180.360.md
+  - number: '180.365'
+    title: Child Support Suspense Fund
+    status: ingested
+    path: statutes/ors-180.365.md
+  - number: '180.380'
+    title: Disclosure of information to authorized persons (Tobacco Master Settlement Agreement)
+    status: ingested
+    path: statutes/ors-180.380.md
+  - number: '180.400'
+    title: Legislative findings
+    status: ingested
+    path: statutes/ors-180.400.md
+  - number: '180.405'
+    title: Definitions
+    status: ingested
+    path: statutes/ors-180.405.md
+  - number: '180.410'
+    title: Manufacturer certification
+    status: ingested
+    path: statutes/ors-180.410.md
+  - number: '180.415'
+    title: Nonparticipating manufacturer certification; rules
+    status: ingested
+    path: statutes/ors-180.415.md
+  - number: '180.416'
+    title: Nonparticipating manufacturer bond; rules
+    status: ingested
+    path: statutes/ors-180.416.md
+  - number: '180.420'
+    title: Document retention period
+    status: ingested
+    path: statutes/ors-180.420.md
+  - number: '180.425'
+    title: Attorney General’s directory; rules
+    status: ingested
+    path: statutes/ors-180.425.md
+  - number: '180.430'
+    title: Nonresident nonparticipating manufacturer service agent
+    status: ingested
+    path: statutes/ors-180.430.md
+  - number: '180.435'
+    title: Distributor obligations; production of records and testimony; Attorney General and Department
+      of Revenue information sharing; nonparticipating manufacturer requ
+    status: ingested
+    path: statutes/ors-180.435.md
+  - number: '180.440'
+    title: Prohibited conduct; penalty
+    status: ingested
+    path: statutes/ors-180.440.md
+  - number: '180.441'
+    title: Prohibited shipping; in-person sale required
+    status: ingested
+    path: statutes/ors-180.441.md
+  - number: '180.445'
+    title: Quarterly escrow deposits or equity assessment payments; rules
+    status: ingested
+    path: statutes/ors-180.445.md
+  - number: '180.448'
+    title: Attorney General investigative demand
+    status: ingested
+    path: statutes/ors-180.448.md
+  - number: '180.450'
+    title: Judicial review; civil remedies; rules
+    status: ingested
+    path: statutes/ors-180.450.md
+  - number: '180.451'
+    title: Civil remedies for violation of ORS
+    status: ingested
+    path: statutes/ors-180.451.md
+  - number: '180.455'
+    title: Revocation or suspension of distributor license; refusal to issue license; penalties; remedies
+      (Smokeless Tobacco Master Settlement Agreement)
+    status: ingested
+    path: statutes/ors-180.455.md
+  - number: '180.465'
+    title: Legislative findings
+    status: ingested
+    path: statutes/ors-180.465.md
+  - number: '180.468'
+    title: Definitions
+    status: ingested
+    path: statutes/ors-180.468.md
+  - number: '180.471'
+    title: Manufacturer certification
+    status: ingested
+    path: statutes/ors-180.471.md
+  - number: '180.474'
+    title: Nonparticipating manufacturer certification; rules
+    status: ingested
+    path: statutes/ors-180.474.md
+  - number: '180.477'
+    title: Attorney General’s directory; rules
+    status: ingested
+    path: statutes/ors-180.477.md
+  - number: '180.480'
+    title: Nonresident nonparticipating manufacturer service agent
+    status: ingested
+    path: statutes/ors-180.480.md
+  - number: '180.483'
+    title: Distributor obligations; Attorney General and Department of Revenue information sharing; nonparticipating
+      manufacturer escrow requirements
+    status: ingested
+    path: statutes/ors-180.483.md
+  - number: '180.486'
+    title: Prohibited conduct; penalty
+    status: ingested
+    path: statutes/ors-180.486.md
+  - number: '180.489'
+    title: Quarterly escrow deposits; rules
+    status: ingested
+    path: statutes/ors-180.489.md
+  - number: '180.491'
+    title: Judicial review; civil remedies; rules
+    status: ingested
+    path: statutes/ors-180.491.md
+  - number: '180.494'
+    title: Revocation or suspension of distributor license; refusal to issue license; penalties; remedies
+      (Training Programs)
+    status: ingested
+    path: statutes/ors-180.494.md
+  - number: '180.500'
+    title: Model training program for groups and agencies that interact with persons who have experienced
+      trauma
+    status: ingested
+    path: statutes/ors-180.500.md
+  - number: '180.502'
+    title: Training program concerning human trafficking awareness and prevention (Consumer Protection
+      Services)
+    status: ingested
+    path: statutes/ors-180.502.md
+  - number: '180.510'
+    title: Functions of Department of Justice; personnel
+    status: ingested
+    path: statutes/ors-180.510.md
+  - number: '180.520'
+    title: Duties of department; agency cooperation; Consumer Advisory Council created; membership; compensation
+      and expenses (Plain Language Review of Consumer Contracts)
+    status: ingested
+    path: statutes/ors-180.520.md
+  - number: '180.540'
+    title: Review of consumer contracts for conformity with plain language standards
+    status: ingested
+    path: statutes/ors-180.540.md
+  - number: '180.545'
+    title: Plain language standards; approval; fees
+    status: ingested
+    path: statutes/ors-180.545.md
+  - number: '180.550'
+    title: Compliance statement
+    status: ingested
+    path: statutes/ors-180.550.md
+  - number: '180.555'
+    title: Exemptions; effect of certification; admissibility (Investigation of Organized Crime)
+    status: ingested
+    path: statutes/ors-180.555.md
+  - number: '180.600'
+    title: Definitions
+    status: ingested
+    path: statutes/ors-180.600.md
+  - number: '180.610'
+    title: Investigation of organized criminal activity; powers and duties of department
+    status: ingested
+    path: statutes/ors-180.610.md
+  - number: '180.620'
+    title: Investigators to have authority of peace officers
+    status: ingested
+    path: statutes/ors-180.620.md
+  - number: '180.630'
+    title: Acceptance of federal grant of funds; expenditure limitations
+    status: ingested
+    path: statutes/ors-180.630.md
+  - number: '180.640'
+    title: Criminal Justice Revolving Account (Batterers’ Intervention Programs)
+    status: ingested
+    path: statutes/ors-180.640.md
+  - number: '180.700'
+    title: Advisory committee; rules
+    status: ingested
+    path: statutes/ors-180.700.md
+  - number: '180.710'
+    title: Program reviews (Hope Card Program)
+    status: ingested
+    path: statutes/ors-180.710.md
+  - number: '180.720'
+    title: Hope Card Program; rules (False Claims)
+    status: ingested
+    path: statutes/ors-180.720.md
+  - number: '180.750'
+    title: Definitions
+    status: ingested
+    path: statutes/ors-180.750.md
+  - number: '180.755'
+    title: Prohibited acts
+    status: ingested
+    path: statutes/ors-180.755.md
+  - number: '180.760'
+    title: Civil action for violation; remedies; penalty
+    status: ingested
+    path: statutes/ors-180.760.md
+  - number: '180.765'
+    title: Statute of limitation
+    status: ingested
+    path: statutes/ors-180.765.md
+  - number: '180.770'
+    title: Estoppel
+    status: ingested
+    path: statutes/ors-180.770.md
+  - number: '180.775'
+    title: Investigative demand
+    status: ingested
+    path: statutes/ors-180.775.md
+  - number: '180.777'
+    title: Confidentiality and use of documentary material, answers to interrogatories and transcripts
+      of oral testimony
+    status: ingested
+    path: statutes/ors-180.777.md
+  - number: '180.780'
+    title: Distribution of recovered amounts
+    status: ingested
+    path: statutes/ors-180.780.md
+  - number: '180.785'
+    title: Remedy not exclusive (Immigration)
+    status: ingested
+    path: statutes/ors-180.785.md
+  - number: '180.805'
+    title: Prohibited involvement of public bodies in federal immigration law enforcement; civil action
+    status: ingested
+    path: statutes/ors-180.805.md
+  - number: '180.810'
+    title: Model confidentiality policy; rules ATTORNEY GENERAL (Generally)
+    status: ingested
+    path: statutes/ors-180.810.md
+- chapter: 181A
+  title: State Police; Public Safety Standards and Training
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors181A.html
+  sections:
+  - number: 181A.010
+    title: Definitions for ORS
+    status: ingested
+    path: statutes/ors-181a.010.md
+  - number: 181A.015
+    title: Department of State Police established
+    status: ingested
+    path: statutes/ors-181a.015.md
+  - number: 181A.020
+    title: State Police Account; subaccount; uses; authority to accept property
+    status: ingested
+    path: statutes/ors-181a.020.md
+  - number: 181A.025
+    title: Petty cash account
+    status: ingested
+    path: statutes/ors-181a.025.md
+  - number: 181A.030
+    title: Superintendent of State Police; appointment; confirmation; removal
+    status: ingested
+    path: statutes/ors-181a.030.md
+  - number: 181A.035
+    title: Appointment of Deputy Superintendent of State Police
+    status: ingested
+    path: statutes/ors-181a.035.md
+  - number: 181A.040
+    title: Powers and duties of deputy superintendent
+    status: ingested
+    path: statutes/ors-181a.040.md
+  - number: 181A.045
+    title: Oath of superintendent and deputy superintendent
+    status: ingested
+    path: statutes/ors-181a.045.md
+  - number: 181A.050
+    title: Oregon State Police
+    status: ingested
+    path: statutes/ors-181a.050.md
+  - number: 181A.055
+    title: Qualifications for appointment and reappointment of state police; special officers; neighboring
+      states
+    status: ingested
+    path: statutes/ors-181a.055.md
+  - number: 181A.060
+    title: Appointment of employees of department as special state police officers
+    status: ingested
+    path: statutes/ors-181a.060.md
+  - number: 181A.065
+    title: Oath of members of state police
+    status: ingested
+    path: statutes/ors-181a.065.md
+  - number: 181A.070
+    title: Salaries of state police
+    status: ingested
+    path: statutes/ors-181a.070.md
+  - number: 181A.075
+    title: Instruction; rules and regulations for discipline and control
+    status: ingested
+    path: statutes/ors-181a.075.md
+  - number: 181A.080
+    title: Powers and duties of department and its members
+    status: ingested
+    path: statutes/ors-181a.080.md
+  - number: 181A.085
+    title: Targeted enforcement program; rules
+    status: ingested
+    path: statutes/ors-181a.085.md
+  - number: 181A.090
+    title: Duty to enforce laws and regulations of agencies
+    status: ingested
+    path: statutes/ors-181a.090.md
+  - number: 181A.095
+    title: Headquarters and patrol stations; real property agreements
+    status: ingested
+    path: statutes/ors-181a.095.md
+  - number: 181A.100
+    title: Organization of work of department
+    status: ingested
+    path: statutes/ors-181a.100.md
+  - number: 181A.105
+    title: Distribution of police throughout state
+    status: ingested
+    path: statutes/ors-181a.105.md
+  - number: 181A.110
+    title: Standard uniform for state police; service without wearing uniform; wearing uniforms by other
+      persons prohibited
+    status: ingested
+    path: statutes/ors-181a.110.md
+  - number: 181A.115
+    title: Supplies and equipment of state police
+    status: ingested
+    path: statutes/ors-181a.115.md
+  - number: 181A.120
+    title: Commanding assistance of citizens
+    status: ingested
+    path: statutes/ors-181a.120.md
+  - number: 181A.125
+    title: Interference with personal and property rights of others
+    status: ingested
+    path: statutes/ors-181a.125.md
+  - number: 181A.130
+    title: Records and reports of activities and time spent in performance of duties
+    status: ingested
+    path: statutes/ors-181a.130.md
+  - number: 181A.135
+    title: National Crime Prevention and Privacy Compact; rules
+    status: ingested
+    path: statutes/ors-181a.135.md
+  - number: 181A.140
+    title: Department responsible for criminal identification information
+    status: ingested
+    path: statutes/ors-181a.140.md
+  - number: 181A.145
+    title: Criminal investigations division
+    status: ingested
+    path: statutes/ors-181a.145.md
+  - number: 181A.150
+    title: Forensic laboratories
+    status: ingested
+    path: statutes/ors-181a.150.md
+  - number: 181A.155
+    title: Authority over blood and buccal samples and analyses; rules; disclosure; inspection by subject
+      person; destruction of sample CRIME REPORTING
+    status: ingested
+    path: statutes/ors-181a.155.md
+  - number: 181A.160
+    title: Fingerprints, identifying data, disposition report required upon arrest
+    status: ingested
+    path: statutes/ors-181a.160.md
+  - number: 181A.165
+    title: Crimes for which criminal offender information is required
+    status: ingested
+    path: statutes/ors-181a.165.md
+  - number: 181A.170
+    title: Electronic fingerprint capture technology required; exceptions; Oregon Department of Administrative
+      Services to develop contract for electronic fingerprint capt
+    status: ingested
+    path: statutes/ors-181a.170.md
+  - number: 181A.175
+    title: Transmittal of disposition report
+    status: ingested
+    path: statutes/ors-181a.175.md
+  - number: 181A.180
+    title: Copy of certain disposition reports to Teacher Standards and Practices Commission and Department
+      of Education
+    status: ingested
+    path: statutes/ors-181a.180.md
+  - number: 181A.185
+    title: Report of release or escape from state institution of certain inmates
+    status: ingested
+    path: statutes/ors-181a.185.md
+  - number: 181A.190
+    title: Criminal records check; qualified entities; Department of Human Services to make fitness determination;
+      rules; fees
+    status: ingested
+    path: statutes/ors-181a.190.md
+  - number: 181A.195
+    title: Criminal records check; authorized agencies; retention of fingerprint cards by FBI and Department
+      of State Police; fitness determinations; rules; fee
+    status: ingested
+    path: statutes/ors-181a.195.md
+  - number: 181A.200
+    title: Authority of Department of Human Services, Oregon Health Authority and Employment Department
+      to require fingerprints; qualified entities; rules (Temporary provi
+    status: ingested
+    path: statutes/ors-181a.200.md
+  - number: 181A.201
+    title: Authority of humane investigation agency to require fingerprints
+    status: ingested
+    path: statutes/ors-181a.201.md
+  - number: 181A.202
+    title: Authority of municipal tax collection agency to require fingerprints
+    status: ingested
+    path: statutes/ors-181a.202.md
+  - number: 181A.205
+    title: Fingerprint retention system; Rap Back program; rules; fee
+    status: ingested
+    path: statutes/ors-181a.205.md
+  - number: 181A.210
+    title: Criminal identification information to be furnished to Native American tribe
+    status: ingested
+    path: statutes/ors-181a.210.md
+  - number: 181A.215
+    title: Oregon Department of Administrative Services to adopt rules relating to certain aspects of
+      criminal records checks; immunity from civil liability
+    status: ingested
+    path: statutes/ors-181a.215.md
+  - number: 181A.220
+    title: Confidentiality of some records
+    status: ingested
+    path: statutes/ors-181a.220.md
+  - number: 181A.225
+    title: Reporting of crime statistics
+    status: ingested
+    path: statutes/ors-181a.225.md
+  - number: 181A.230
+    title: Establishment of procedures for access to criminal record information; rules
+    status: ingested
+    path: statutes/ors-181a.230.md
+  - number: 181A.235
+    title: Fee waiver
+    status: ingested
+    path: statutes/ors-181a.235.md
+  - number: 181A.240
+    title: Procedure when information requested by designated agency; exception for investigation of child
+      abuse or neglect
+    status: ingested
+    path: statutes/ors-181a.240.md
+  - number: 181A.245
+    title: Procedure when information requested by other than criminal justice agency
+    status: ingested
+    path: statutes/ors-181a.245.md
+  - number: 181A.250
+    title: Specific information not to be collected or maintained
+    status: ingested
+    path: statutes/ors-181a.250.md
+  - number: 181A.255
+    title: Report of suspected criminal homicide; form and time of report; compilation; comparison CRIMINAL
+      JUSTICE INFORMATION STANDARDS
+    status: ingested
+    path: statutes/ors-181a.255.md
+  - number: 181A.265
+    title: Criminal Justice Information Standards program; duties
+    status: ingested
+    path: statutes/ors-181a.265.md
+  - number: 181A.270
+    title: Duties of state criminal justice agencies
+    status: ingested
+    path: statutes/ors-181a.270.md
+  - number: 181A.275
+    title: Criminal Justice Information Standards Advisory Board; members; expenses
+    status: ingested
+    path: statutes/ors-181a.275.md
+  - number: 181A.280
+    title: Law Enforcement Data System established; duties; rules
+    status: ingested
+    path: statutes/ors-181a.280.md
+  - number: 181A.285
+    title: Medical health database
+    status: ingested
+    path: statutes/ors-181a.285.md
+  - number: 181A.287
+    title: Entry of certain convictions related to possession of firearms or ammunition into Law Enforcement
+      Data System and databases of National Crime Information Center
+    status: ingested
+    path: statutes/ors-181a.287.md
+  - number: 181A.290
+    title: Certain information required from agencies; rules MISSING PERSONS PROCEDURES
+    status: ingested
+    path: statutes/ors-181a.290.md
+  - number: 181A.300
+    title: Establishment and maintenance of missing persons clearinghouse
+    status: ingested
+    path: statutes/ors-181a.300.md
+  - number: 181A.305
+    title: Duties of administrator of clearinghouse
+    status: ingested
+    path: statutes/ors-181a.305.md
+  - number: 181A.310
+    title: When notification of missing children clearinghouse required
+    status: ingested
+    path: statutes/ors-181a.310.md
+  - number: 181A.315
+    title: Amber Plan; rules
+    status: ingested
+    path: statutes/ors-181a.315.md
+  - number: 181A.320
+    title: Written policies relating to missing vulnerable adults required SEXUAL ASSAULT FORENSIC EVIDENCE
+      KITS
+    status: ingested
+    path: statutes/ors-181a.320.md
+  - number: 181A.322
+    title: Short title
+    status: ingested
+    path: statutes/ors-181a.322.md
+  - number: 181A.323
+    title: Definitions for ORS
+    status: ingested
+    path: statutes/ors-181a.323.md
+  - number: 181A.324
+    title: Sexual assault forensic evidence kit testing; reports; rules
+    status: ingested
+    path: statutes/ors-181a.324.md
+  - number: 181A.325
+    title: Policies and procedures regarding collection, submission for testing, retention and destruction
+      of kits
+    status: ingested
+    path: statutes/ors-181a.325.md
+  - number: 181A.326
+    title: Notification to law enforcement agency when kit collected
+    status: ingested
+    path: statutes/ors-181a.326.md
+  - number: 181A.328
+    title: Committee on tracking of sexual assault forensic evidence; statewide electronic sexual assault
+      forensic evidence kit tracking system MISCELLANEOUS
+    status: ingested
+    path: statutes/ors-181a.328.md
+  - number: 181A.338
+    title: Purchase and receipt of property from military equipment surplus program
+    status: ingested
+    path: statutes/ors-181a.338.md
+  - number: 181A.340
+    title: Commissioning of humane special agents; rules
+    status: ingested
+    path: statutes/ors-181a.340.md
+  - number: 181A.345
+    title: Humane special agents to enforce animal welfare laws under direction of law enforcement agency;
+      notice required of allegation of abuse of commission
+    status: ingested
+    path: statutes/ors-181a.345.md
+  - number: 181A.348
+    title: Telecommunicators as first responders
+    status: ingested
+    path: statutes/ors-181a.348.md
+  - number: 181A.350
+    title: Eligibility of towing business to be placed on department list; rules PUBLIC SAFETY STANDARDS
+      AND TRAINING (Definitions)
+    status: ingested
+    path: statutes/ors-181a.350.md
+  - number: 181A.355
+    title: Definitions for ORS
+    status: ingested
+    path: statutes/ors-181a.355.md
+  - number: 181A.689
+    title: (Board on Public Safety Standards and Training)
+    status: not_sliceable
+    note: no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference
+      artifact); not ingested
+  - number: 181A.360
+    title: Board on Public Safety Standards and Training; term limit; confirmation
+    status: ingested
+    path: statutes/ors-181a.360.md
+  - number: 181A.365
+    title: Organization of board; meetings; policy of state
+    status: ingested
+    path: statutes/ors-181a.365.md
+  - number: 181A.370
+    title: Executive committee
+    status: ingested
+    path: statutes/ors-181a.370.md
+  - number: 181A.375
+    title: Policy committees; rules
+    status: ingested
+    path: statutes/ors-181a.375.md
+  - number: 181A.380
+    title: Leave to perform duties of board or policy committee (Director)
+    status: ingested
+    path: statutes/ors-181a.380.md
+  - number: 181A.385
+    title: Appointment of director of department (Standards and Training)
+    status: ingested
+    path: statutes/ors-181a.385.md
+  - number: 181A.390
+    title: Training academy; title to real property
+    status: ingested
+    path: statutes/ors-181a.390.md
+  - number: 181A.395
+    title: Certain officers required to be at least 21 years of age
+    status: ingested
+    path: statutes/ors-181a.395.md
+  - number: 181A.400
+    title: Authority of Department of Public Safety Standards and Training to require fingerprints
+    status: ingested
+    path: statutes/ors-181a.400.md
+  - number: 181A.405
+    title: Legislative intent and findings
+    status: ingested
+    path: statutes/ors-181a.405.md
+  - number: 181A.410
+    title: Minimum standards and training for certification; duties in improving public safety units;
+      grants; fees; rules
+    status: ingested
+    path: statutes/ors-181a.410.md
+  - number: 181A.420
+    title: Minimum standards and training requirements inapplicable to certain persons; certification
+      based on experience, education or training
+    status: ingested
+    path: statutes/ors-181a.420.md
+  - number: 181A.425
+    title: Department not required to provide training for certification of reserve officers
+    status: ingested
+    path: statutes/ors-181a.425.md
+  - number: 181A.430
+    title: Effect of minimum requirements under authority other than ORS
+    status: ingested
+    path: statutes/ors-181a.430.md
+  - number: 181A.440
+    title: Training in vehicle pursuit, mental illness and airway and circulatory systems; certification
+      in cardiopulmonary resuscitation
+    status: ingested
+    path: statutes/ors-181a.440.md
+  - number: 181A.442
+    title: Equity training for police officers; rules
+    status: ingested
+    path: statutes/ors-181a.442.md
+  - number: 181A.444
+    title: Training on interacting with persons who have experienced trauma
+    status: ingested
+    path: statutes/ors-181a.444.md
+  - number: 181A.445
+    title: Best practices for interacting with persons who have experienced trauma; rules
+    status: ingested
+    path: statutes/ors-181a.445.md
+  - number: 181A.450
+    title: Child abuse and domestic violence training; report
+    status: ingested
+    path: statutes/ors-181a.450.md
+  - number: 181A.460
+    title: Training in missing persons cases
+    status: ingested
+    path: statutes/ors-181a.460.md
+  - number: 181A.470
+    title: Training relating to Vienna Convention and crimes motivated by prejudice or that constitute
+      abuse
+    status: ingested
+    path: statutes/ors-181a.470.md
+  - number: 181A.480
+    title: Training in human trafficking
+    status: ingested
+    path: statutes/ors-181a.480.md
+  - number: 181A.483
+    title: Prohibition on training to use physical force that impedes breathing or circulation; rules
+    status: ingested
+    path: statutes/ors-181a.483.md
+  - number: 181A.485
+    title: Psychological screening of law enforcement officers; rules
+    status: ingested
+    path: statutes/ors-181a.485.md
+  - number: 181A.487
+    title: Mental health wellness policies for law enforcement agencies (Certification)
+    status: ingested
+    path: statutes/ors-181a.487.md
+  - number: 181A.490
+    title: Certification of police officers and certified reserve officers
+    status: ingested
+    path: statutes/ors-181a.490.md
+  - number: 181A.500
+    title: Lapse of certification; reapplication for certification; rules; fees
+    status: ingested
+    path: statutes/ors-181a.500.md
+  - number: 181A.510
+    title: Certification for certain purposes of individuals employed by tribal government to perform
+      duties of public safety officer
+    status: ingested
+    path: statutes/ors-181a.510.md
+  - number: 181A.520
+    title: Certification of corrections officers
+    status: ingested
+    path: statutes/ors-181a.520.md
+  - number: 181A.522
+    title: Training of corrections officers by Department of Corrections; standards; audits
+    status: ingested
+    path: statutes/ors-181a.522.md
+  - number: 181A.530
+    title: Certification of parole and probation officers
+    status: ingested
+    path: statutes/ors-181a.530.md
+  - number: 181A.540
+    title: Certification of judicial marshals
+    status: ingested
+    path: statutes/ors-181a.540.md
+  - number: 181A.550
+    title: Certification of regulatory specialists
+    status: ingested
+    path: statutes/ors-181a.550.md
+  - number: 181A.560
+    title: Certification of telecommunicators and emergency medical dispatchers
+    status: ingested
+    path: statutes/ors-181a.560.md
+  - number: 181A.570
+    title: Certification of full-time department employees
+    status: ingested
+    path: statutes/ors-181a.570.md
+  - number: 181A.580
+    title: Certification of certain Law Enforcement Data System employees
+    status: ingested
+    path: statutes/ors-181a.580.md
+  - number: 181A.590
+    title: Certification of instructors; accreditation of training programs
+    status: ingested
+    path: statutes/ors-181a.590.md
+  - number: 181A.600
+    title: Limitation on accreditation of training programs
+    status: ingested
+    path: statutes/ors-181a.600.md
+  - number: 181A.610
+    title: Reimbursement for training to local law enforcement units; rules
+    status: ingested
+    path: statutes/ors-181a.610.md
+  - number: 181A.620
+    title: Reimbursement of qualifying expenses
+    status: ingested
+    path: statutes/ors-181a.620.md
+  - number: 181A.630
+    title: Procedure for denial, suspension or revocation of application or certification
+    status: ingested
+    path: statutes/ors-181a.630.md
+  - number: 181A.640
+    title: Grounds for denial, suspension or revocation of application or certification of person or accreditation
+      of program; rules
+    status: ingested
+    path: statutes/ors-181a.640.md
+  - number: 181A.650
+    title: Judicial review of department’s final order; reapplication for certification; rules
+    status: ingested
+    path: statutes/ors-181a.650.md
+  - number: 181A.655
+    title: Civil penalties relating to certification; rules; immunity from civil liability (Accreditation
+      of Law Enforcement Agencies)
+    status: ingested
+    path: statutes/ors-181a.655.md
+  - number: 181A.657
+    title: Accreditation of law enforcement agencies; rules (Oregon Center for Policing Excellence)
+    status: ingested
+    path: statutes/ors-181a.657.md
+  - number: 181A.660
+    title: Oregon Center for Policing Excellence; purpose; rules (Police Memorial Trust Fund)
+    status: ingested
+    path: statutes/ors-181a.660.md
+  - number: 181A.661
+    title: Police Memorial Trust Fund; rules (National Use-of-Force Data Collection)
+    status: ingested
+    path: statutes/ors-181a.661.md
+  - number: 181A.663
+    title: National Use-of-Force Data Collection (Police Standards and Training Account)
+    status: ingested
+    path: statutes/ors-181a.663.md
+  - number: 181A.665
+    title: Police Standards and Training Account (Employment Information)
+    status: ingested
+    path: statutes/ors-181a.665.md
+  - number: 181A.666
+    title: Findings
+    status: ingested
+    path: statutes/ors-181a.666.md
+  - number: 181A.667
+    title: Review, provision and retention of personnel records; immunity from liability
+    status: ingested
+    path: statutes/ors-181a.667.md
+  - number: 181A.668
+    title: Request for employment information; injunction to compel disclosure; confidentiality
+    status: ingested
+    path: statutes/ors-181a.668.md
+  - number: 181A.670
+    title: Disclosure of information about public safety officer; order to compel compliance
+    status: ingested
+    path: statutes/ors-181a.670.md
+  - number: 181A.672
+    title: Disclosure of information about certain employees of law enforcement agencies
+    status: ingested
+    path: statutes/ors-181a.672.md
+  - number: 181A.674
+    title: Disclosure of information about certain public safety employees
+    status: ingested
+    path: statutes/ors-181a.674.md
+  - number: 181A.676
+    title: Uniform background checklist; standardized personal history questionnaire (Misconduct, Discipline
+      and Standards)
+    status: ingested
+    path: statutes/ors-181a.676.md
+  - number: 181A.681
+    title: Report of misconduct or violation of minimum standards; investigation; failure to intervene
+      or report grounds for discipline; reporting requirement
+    status: ingested
+    path: statutes/ors-181a.681.md
+  - number: 181A.683
+    title: Form for reports; forwarding of reports to law enforcement unit
+    status: ingested
+    path: statutes/ors-181a.683.md
+  - number: 181A.684
+    title: Database of discipline and suspensions and revocations of certification of police officers;
+      reporting requirement
+    status: ingested
+    path: statutes/ors-181a.684.md
+  - number: 181A.686
+    title: Report on discipline to Department of Public Safety Standards and Training
+    status: ingested
+    path: statutes/ors-181a.686.md
+  - number: 181A.688
+    title: Findings regarding racism
+    status: ingested
+    path: statutes/ors-181a.688.md
+  - number: 181A.700
+    title: Definitions for ORS
+    status: ingested
+    path: statutes/ors-181a.700.md
+  - number: 181A.702
+    title: and
+    status: ingested
+    path: statutes/ors-181a.702.md
+  - number: 181A.704
+    title: Provision of officer identity to member of public (Law Enforcement Tactics)
+    status: ingested
+    path: statutes/ors-181a.704.md
+  - number: 181A.708
+    title: Use of tools in crowd management
+    status: ingested
+    path: statutes/ors-181a.708.md
+  - number: 181A.710
+    title: Use of other law enforcement agencies to engage in barred conduct OREGON COMMUNITY CRIME PREVENTION
+      INFORMATION CENTER
+    status: ingested
+    path: statutes/ors-181a.710.md
+  - number: 181A.720
+    title: Definitions for ORS
+    status: ingested
+    path: statutes/ors-181a.720.md
+  - number: 181A.725
+    title: Oregon Community Crime Prevention Information Center; duties
+    status: ingested
+    path: statutes/ors-181a.725.md
+  - number: 181A.730
+    title: Coordinator; appointment; duties
+    status: ingested
+    path: statutes/ors-181a.730.md
+  - number: 181A.735
+    title: Advisory committee; meetings; expenses PLAN ADDRESSING USE OF DEADLY PHYSICAL FORCE
+    status: ingested
+    path: statutes/ors-181a.735.md
+  - number: 181A.775
+    title: Definitions for ORS
+    status: ingested
+    path: statutes/ors-181a.775.md
+  - number: 181A.780
+    title: Planning authority; development and approval of plan; compliance; notice upon challenge to
+      plan
+    status: ingested
+    path: statutes/ors-181a.780.md
+  - number: 181A.785
+    title: Components of plan
+    status: ingested
+    path: statutes/ors-181a.785.md
+  - number: 181A.790
+    title: Policy relating to use of deadly physical force; collection of information; rules
+    status: ingested
+    path: statutes/ors-181a.790.md
+  - number: 181A.795
+    title: Admissibility of conclusions and recommendations
+    status: ingested
+    path: statutes/ors-181a.795.md
+  - number: 181A.800
+    title: Compliance
+    status: ingested
+    path: statutes/ors-181a.800.md
+  - number: 181A.805
+    title: Grants; rules
+    status: ingested
+    path: statutes/ors-181a.805.md
+  - number: 181A.810
+    title: Expenditure limitation on grant moneys
+    status: ingested
+    path: statutes/ors-181a.810.md
+  - number: 181A.815
+    title: Expenses; rules IMMIGRATION ENFORCEMENT
+    status: ingested
+    path: statutes/ors-181a.815.md
+  - number: 181A.820
+    title: Enforcement of federal immigration laws; civil action for violation
+    status: ingested
+    path: statutes/ors-181a.820.md
+  - number: 181A.822
+    title: Definitions for ORS
+    status: ingested
+    path: statutes/ors-181a.822.md
+  - number: 181A.823
+    title: Prohibitions related to immigration enforcement; explanation of rights and consequences; civil
+      action
+    status: ingested
+    path: statutes/ors-181a.823.md
+  - number: 181A.826
+    title: Prohibition on use of public resources for immigration enforcement; documentation; submission
+      to Oregon Criminal Justice Commission; website; disclosure to Depa
+    status: ingested
+    path: statutes/ors-181a.826.md
+  - number: 181A.827
+    title: Sanctuary violation reporting mechanism; website
+    status: ingested
+    path: statutes/ors-181a.827.md
+  - number: 181A.828
+    title: Prohibition on civil arrest without warrant or order in court facility or in connection with
+      court proceeding; civil action
+    status: ingested
+    path: statutes/ors-181a.828.md
+  - number: 181A.829
+    title: Prohibition on agreements related to immigration enforcement; operation of private immigration
+      detention facility; civil action PEER SUPPORT SERVICES
+    status: ingested
+    path: statutes/ors-181a.829.md
+  - number: 181A.835
+    title: Peer support services; confidentiality; admissibility as evidence PRIVATE SECURITY
+    status: ingested
+    path: statutes/ors-181a.835.md
+  - number: 181A.840
+    title: Definitions for ORS
+    status: ingested
+    path: statutes/ors-181a.840.md
+  - number: 181A.895
+    title: and
+    status: ingested
+    path: statutes/ors-181a.895.md
+  - number: 181A.845
+    title: Applicability of ORS
+    status: ingested
+    path: statutes/ors-181a.845.md
+  - number: 181A.850
+    title: Prohibited acts; temporary assignment of person not certified allowed
+    status: ingested
+    path: statutes/ors-181a.850.md
+  - number: 181A.855
+    title: Qualifications for private security professional; rules
+    status: ingested
+    path: statutes/ors-181a.855.md
+  - number: 181A.860
+    title: Application procedure
+    status: ingested
+    path: statutes/ors-181a.860.md
+  - number: 181A.865
+    title: Qualifications for executive manager or supervisory manager
+    status: ingested
+    path: statutes/ors-181a.865.md
+  - number: 181A.870
+    title: Board on Public Safety Standards and Training to establish standards; department to establish
+      procedures and fees; report; rules
+    status: ingested
+    path: statutes/ors-181a.870.md
+  - number: 181A.875
+    title: Licenses and certificates; issuance; duration; denial or revocation
+    status: ingested
+    path: statutes/ors-181a.875.md
+  - number: 181A.880
+    title: Hearing if license or certificate denied, suspended or revoked
+    status: ingested
+    path: statutes/ors-181a.880.md
+  - number: 181A.885
+    title: Effect of being charged with crime
+    status: ingested
+    path: statutes/ors-181a.885.md
+  - number: 181A.890
+    title: Disposition of funds received by department
+    status: ingested
+    path: statutes/ors-181a.890.md
+  - number: 181A.891
+    title: Persons providing private security services on September 9, 1995
+    status: ingested
+    path: statutes/ors-181a.891.md
+  - number: 181A.893
+    title: Restrictions on entities employing private security providers; rules
+    status: ingested
+    path: statutes/ors-181a.893.md
+  - number: 181A.900
+    title: Procedures for licensing of private security entities; rules; fees
+    status: ingested
+    path: statutes/ors-181a.900.md
+  - number: 181A.902
+    title: Investigation of applicant’s character, competence and reliability
+    status: ingested
+    path: statutes/ors-181a.902.md
+  - number: 181A.904
+    title: License examination; rules
+    status: ingested
+    path: statutes/ors-181a.904.md
+  - number: 181A.906
+    title: Firearm training
+    status: ingested
+    path: statutes/ors-181a.906.md
+  - number: 181A.908
+    title: Training through Bureau of Labor and Industries
+    status: ingested
+    path: statutes/ors-181a.908.md
+  - number: 181A.911
+    title: Interagency agreement
+    status: ingested
+    path: statutes/ors-181a.911.md
+  - number: 181A.913
+    title: Required statements to private security professionals
+    status: ingested
+    path: statutes/ors-181a.913.md
+  - number: 181A.914
+    title: Prohibitions relating to discharge of or discrimination against private security provider
+    status: ingested
+    path: statutes/ors-181a.914.md
+  - number: 181A.916
+    title: Hiring unlicensed private security entity; liability for unpaid wages
+    status: ingested
+    path: statutes/ors-181a.916.md
+  - number: 181A.918
+    title: Injunction against using services of unlicensed private security entity; attorney fees; damages
+    status: ingested
+    path: statutes/ors-181a.918.md
+  - number: 181A.922
+    title: Private Security Entity Account TRIBAL POLICE OFFICERS
+    status: ingested
+    path: statutes/ors-181a.922.md
+  - number: 181A.940
+    title: Definitions for ORS
+    status: ingested
+    path: statutes/ors-181a.940.md
+  - number: 181A.942
+    title: Eligibility to act as authorized tribal police officer
+    status: ingested
+    path: statutes/ors-181a.942.md
+  - number: 181A.944
+    title: Legislative purpose; requirements for citation issued outside tribal jurisdiction; tribal government
+      insurance; tribal police officer not officer, employee or a
+    status: ingested
+    path: statutes/ors-181a.944.md
+  - number: 181A.946
+    title: Application for nontribal police officers to exercise tribal police powers on tribal lands;
+      citation for tribal offense; liability for torts; report SECURITY ON
+    status: ingested
+    path: statutes/ors-181a.946.md
+  - number: 181A.970
+    title: Short title
+    status: not_sliceable
+    note: no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference
+      artifact); not ingested
+  - number: 181A.972
+    title: Requirements for special campus security providers and private security providers on campuses
+      of institutions of higher education PENALTIES
+    status: ingested
+    path: statutes/ors-181a.972.md
+  - number: 181A.990
+    title: Penalties
+    status: not_sliceable
+    note: no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference
+      artifact); not ingested
+  - number: 181A.995
+    title: Penalties relating to regulation of private security; criminal and civil STATE POLICE
+    status: ingested
+    path: statutes/ors-181a.995.md
+- chapter: '182'
+  title: State Administrative Agencies Generally
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors182.html
+  sections:
+  - number: '182.010'
+    title: Nonattendance of member of board or commission at meetings as forfeiting office; appointment
+      of successor
+    status: ingested
+    path: statutes/ors-182.010.md
+  - number: '182.020'
+    title: Notice of meetings of boards and commissions; reporting of absences
+    status: ingested
+    path: statutes/ors-182.020.md
+  - number: '182.030'
+    title: Employment of persons advocating violent overthrow of the Government of the United States or
+      Oregon prohibited
+    status: ingested
+    path: statutes/ors-182.030.md
+  - number: '182.035'
+    title: Criminal records checks to be conducted through Department of State Police
+    status: ingested
+    path: statutes/ors-182.035.md
+  - number: '182.040'
+    title: Boards and commissions to pay counties for services; exceptions
+    status: ingested
+    path: statutes/ors-182.040.md
+  - number: '182.050'
+    title: Time and manner of payment to counties
+    status: ingested
+    path: statutes/ors-182.050.md
+  - number: '182.060'
+    title: County clerk to record instruments affecting realty for state boards and commissions
+    status: ingested
+    path: statutes/ors-182.060.md
+  - number: '182.072'
+    title: Payment for licenses issued by county or other public body on behalf of state agency
+    status: ingested
+    path: statutes/ors-182.072.md
+  - number: '182.080'
+    title: Effect of repeal or amendment of statute authorizing state agency to collect, receive and expend
+      moneys
+    status: ingested
+    path: statutes/ors-182.080.md
+  - number: '182.090'
+    title: State agency to pay attorney fees and expenses when court finds for petitioner and that agency
+      acted unreasonably
+    status: ingested
+    path: statutes/ors-182.090.md
+  - number: '182.100'
+    title: Affirmative action policy; implementation on appointments
+    status: ingested
+    path: statutes/ors-182.100.md
+  - number: '182.105'
+    title: Information concerning tax benefits of providing child care under employee benefit plan
+    status: ingested
+    path: statutes/ors-182.105.md
+  - number: '182.109'
+    title: Agency actions to carry out state policies for persons with disabilities
+    status: ingested
+    path: statutes/ors-182.109.md
+  - number: '182.112'
+    title: Title to property acquired by state agency in name of state
+    status: ingested
+    path: statutes/ors-182.112.md
+  - number: '182.116'
+    title: Identification of race or ethnicity on forms issued by public bodies
+    status: ingested
+    path: statutes/ors-182.116.md
+  - number: '182.119'
+    title: Mailing of agency notices to post office boxes IMPACT OF STATE AGENCY ACTION ON FAMILIES
+    status: ingested
+    path: statutes/ors-182.119.md
+  - number: '182.151'
+    title: Assessment of impact of state agency action on families
+    status: ingested
+    path: statutes/ors-182.151.md
+  - number: '182.152'
+    title: No right or benefit created RELATIONSHIP OF STATE AGENCIES WITH INDIAN TRIBES
+    status: ingested
+    path: statutes/ors-182.152.md
+  - number: '182.162'
+    title: Definitions for ORS
+    status: ingested
+    path: statutes/ors-182.162.md
+  - number: '182.164'
+    title: State agencies to develop and implement policy on relationship with tribes; cooperation with
+      tribes
+    status: ingested
+    path: statutes/ors-182.164.md
+  - number: '182.166'
+    title: 'Training of state agency managers and employees who communicate with tribes; annual meetings
+      of representatives of agencies and tribes; annual reports by state '
+    status: ingested
+    path: statutes/ors-182.166.md
+  - number: '182.168'
+    title: No right of action created by ORS
+    status: ingested
+    path: statutes/ors-182.168.md
+  - number: '182.365'
+    title: Legislative findings; definitions for ORS
+    status: ingested
+    path: statutes/ors-182.365.md
+  - number: '182.375'
+    title: State Productivity Improvement Revolving Fund; creation; sources; uses
+    status: ingested
+    path: statutes/ors-182.375.md
+  - number: '182.380'
+    title: Credit of certain savings to General Fund
+    status: ingested
+    path: statutes/ors-182.380.md
+  - number: '182.385'
+    title: Identification of reduced expenses resulting from improved efficiency
+    status: ingested
+    path: statutes/ors-182.385.md
+  - number: '182.390'
+    title: Plan for increased efficiency
+    status: ingested
+    path: statutes/ors-182.390.md
+  - number: '182.395'
+    title: Ineligibility of new programs for credits
+    status: ingested
+    path: statutes/ors-182.395.md
+  - number: '182.400'
+    title: Report on productivity improvement program RULES GOVERNING AGENCY-PROVIDED HOUSING
+    status: ingested
+    path: statutes/ors-182.400.md
+  - number: '182.415'
+    title: Definitions for ORS
+    status: ingested
+    path: statutes/ors-182.415.md
+  - number: '182.425'
+    title: State agency required to collect rental for housing provided to employees; provision of furnishings
+      prohibited; determination of fair rental value
+    status: ingested
+    path: statutes/ors-182.425.md
+  - number: '182.435'
+    title: Schedule of reduction from fair rental value SEMI-INDEPENDENT STATE AGENCIES (Listing of Semi-Independent
+      State Agencies)
+    status: ingested
+    path: statutes/ors-182.435.md
+  - number: '182.454'
+    title: Semi-independent state agencies (General Provisions Relating to Semi-Independent State Agencies)
+    status: ingested
+    path: statutes/ors-182.454.md
+  - number: '182.456'
+    title: Definitions for ORS
+    status: ingested
+    path: statutes/ors-182.456.md
+  - number: '182.460'
+    title: Statutory provisions applicable to semi-independent state agencies
+    status: ingested
+    path: statutes/ors-182.460.md
+  - number: '182.462'
+    title: Budgets for semi-independent state agencies; annual financial statements; disposition of civil
+      penalties; rules
+    status: ingested
+    path: statutes/ors-182.462.md
+  - number: '182.464'
+    title: Financial review by Secretary of State
+    status: ingested
+    path: statutes/ors-182.464.md
+  - number: '182.466'
+    title: Powers of semi-independent state agencies; fees; rules
+    status: ingested
+    path: statutes/ors-182.466.md
+  - number: '182.468'
+    title: Administrators
+    status: ingested
+    path: statutes/ors-182.468.md
+  - number: '182.470'
+    title: Accounts for and investment of moneys collected or received by semi-independent state agencies
+    status: ingested
+    path: statutes/ors-182.470.md
+  - number: '182.472'
+    title: Reports OMBUDSMAN SERVICES
+    status: ingested
+    path: statutes/ors-182.472.md
+  - number: '182.500'
+    title: Mandatory report to Governor by person performing ombudsman services; cooperation with ombudsman
+      EVIDENCE-BASED PROGRAMS
+    status: ingested
+    path: statutes/ors-182.500.md
+  - number: '182.515'
+    title: Definitions for ORS
+    status: ingested
+    path: statutes/ors-182.515.md
+  - number: '182.525'
+    title: Mandatory expenditures for evidence-based programs; biennial report; rules ENVIRONMENTAL JUSTICE
+      COUNCIL
+    status: ingested
+    path: statutes/ors-182.525.md
+  - number: '182.535'
+    title: Definitions for ORS
+    status: ingested
+    path: statutes/ors-182.535.md
+  - number: '182.538'
+    title: Environmental Justice Council
+    status: ingested
+    path: statutes/ors-182.538.md
+  - number: '182.542'
+    title: Duties of council
+    status: ingested
+    path: statutes/ors-182.542.md
+  - number: '182.543'
+    title: Reports by council
+    status: ingested
+    path: statutes/ors-182.543.md
+  - number: '182.545'
+    title: Duties of natural resource agencies
+    status: ingested
+    path: statutes/ors-182.545.md
+  - number: '182.550'
+    title: Reports by natural resource agencies
+    status: ingested
+    path: statutes/ors-182.550.md
+  - number: '182.555'
+    title: Environmental justice mapping tool
+    status: ingested
+    path: statutes/ors-182.555.md
+  - number: '182.557'
+    title: 'Use of environmental justice mapping tool by natural resource agencies Note See State agencies
+      under QUICK SEARCH at the beginning of ORS volume 20 (Index) for '
+    status: ingested
+    path: statutes/ors-182.557.md
 - chapter: '183'
   title: Administrative Procedures Act
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors183.html
@@ -695,6 +2972,133 @@ chapters:
     status: not_sliceable
     note: no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference
       artifact); not ingested
+- chapter: '185'
+  title: Oregon Disabilities Commission; Commissions on Hispanic Affairs, Black Affairs, and Asian and
+    Pacific Islander Affairs; Commission for Women
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors185.html
+  sections:
+  - number: '185.005'
+    title: Oregon Advocacy Commissions Office
+    status: ingested
+    path: statutes/ors-185.005.md
+  - number: '185.010'
+    title: Executive director
+    status: ingested
+    path: statutes/ors-185.010.md
+  - number: '185.020'
+    title: Assistance of Bureau of Labor and Industries
+    status: ingested
+    path: statutes/ors-185.020.md
+  - number: '185.025'
+    title: Oregon Advocacy Commissions Office Account (Temporary provisions relating to affinity group
+      task forces are compiled as notes following ORS
+    status: ingested
+    path: statutes/ors-185.025.md
+  - number: '185.110'
+    title: Definitions for ORS
+    status: ingested
+    path: statutes/ors-185.110.md
+  - number: '185.130'
+    title: Oregon Disabilities Commission; qualifications
+    status: ingested
+    path: statutes/ors-185.130.md
+  - number: '185.140'
+    title: Advisory function
+    status: ingested
+    path: statutes/ors-185.140.md
+  - number: '185.150'
+    title: Duties
+    status: ingested
+    path: statutes/ors-185.150.md
+  - number: '185.155'
+    title: Monitoring of progress of institutions of higher education and colleges in eliminating barriers
+      to access
+    status: ingested
+    path: statutes/ors-185.155.md
+  - number: '185.170'
+    title: Retaliation for legislative testimony prohibited
+    status: ingested
+    path: statutes/ors-185.170.md
+  - number: '185.190'
+    title: Meetings; quorum; duties of chairperson
+    status: ingested
+    path: statutes/ors-185.190.md
+  - number: '185.200'
+    title: Compensation and expenses (Sign Language Interpreters)
+    status: ingested
+    path: statutes/ors-185.200.md
+  - number: '185.225'
+    title: Standards for sign language interpreters in public schools; rules
+    status: ingested
+    path: statutes/ors-185.225.md
+  - number: '185.230'
+    title: Contract to provide sign language interpreters for state agencies; fees COMMISSION ON HISPANIC
+      AFFAIRS
+    status: ingested
+    path: statutes/ors-185.230.md
+  - number: '185.310'
+    title: Policy; report
+    status: ingested
+    path: statutes/ors-185.310.md
+  - number: '185.320'
+    title: Commission on Hispanic Affairs; confirmation; term; officers; quorum; compensation and expenses
+    status: ingested
+    path: statutes/ors-185.320.md
+  - number: '185.330'
+    title: Duties COMMISSION ON BLACK AFFAIRS
+    status: ingested
+    path: statutes/ors-185.330.md
+  - number: '185.410'
+    title: Policy; report
+    status: ingested
+    path: statutes/ors-185.410.md
+  - number: '185.420'
+    title: Commission on Black Affairs; confirmation; term; officers; quorum; compensation and expenses
+    status: ingested
+    path: statutes/ors-185.420.md
+  - number: '185.430'
+    title: Duties COMMISSION FOR WOMEN
+    status: ingested
+    path: statutes/ors-185.430.md
+  - number: '185.510'
+    title: Policy; report
+    status: ingested
+    path: statutes/ors-185.510.md
+  - number: '185.520'
+    title: Commission for Women; confirmation; term; officers; meetings; funds
+    status: ingested
+    path: statutes/ors-185.520.md
+  - number: '185.530'
+    title: Special study committees
+    status: ingested
+    path: statutes/ors-185.530.md
+  - number: '185.540'
+    title: Duties
+    status: ingested
+    path: statutes/ors-185.540.md
+  - number: '185.550'
+    title: Compensation and expenses COMMISSION ON ASIAN AND PACIFIC ISLANDER AFFAIRS
+    status: ingested
+    path: statutes/ors-185.550.md
+  - number: '185.610'
+    title: Commission on Asian and Pacific Islander Affairs; confirmation; term; officers; quorum; compensation
+      and expenses
+    status: ingested
+    path: statutes/ors-185.610.md
+  - number: '185.620'
+    title: Duties
+    status: ingested
+    path: statutes/ors-185.620.md
+  - number: '185.625'
+    title: Additional duties OFFICE OF IMMIGRANT AND REFUGEE ADVANCEMENT
+    status: not_sliceable
+    note: no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference
+      artifact); not ingested
+  - number: '185.650'
+    title: Office of Immigrant and Refugee Advancement; director; staff; duties; rules OREGON ADVOCACY
+      COMMISSIONS OFFICE
+    status: ingested
+    path: statutes/ors-185.650.md
 - chapter: '192'
   title: Records; Reports and Meetings
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors192.html
