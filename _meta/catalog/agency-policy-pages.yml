@@ -1,0 +1,1258 @@
+note: 'DRAFT inventory of candidate policy-publication pages per agency — web research 2026-07-19, UNVERIFIED,
+  for human review (gate #1 input for future per-agency policy ingestion). Statuses: candidate_found /
+  rules_only / not_found / covered_by_parent. Never treat a candidate URL as a listing of record until
+  a human confirms it.'
+retrieved: '2026-07-19'
+agencies:
+- slug: appraiser-certification-and-licensure-board
+  name: Appraiser Certification and Licensure Board
+  status: rules_only
+  confidence: medium
+  notes: Searches surface only ORS 674, OAR chapter 161, and Blue Book / license-directory pages. No internal-policy
+    listing found on oregon.gov/aclb-style pages.
+- slug: board-of-chiropractic-examiners
+  name: Board of Chiropractic Examiners
+  status: candidate_found
+  url: https://www.oregon.gov/OBCE/pages/policies.aspx
+  appears_to_be: '"Policies & Practice Issues" page — policy guide, practice guides, telehealth policy/procedures,
+    chart & record-keeping templates.'
+  confidence: high
+- slug: board-of-examiners-for-engineering-and-land-surveying
+  name: Board of Examiners for Engineering and Land Surveying
+  status: rules_only
+  confidence: medium
+  notes: OSBEELS site (oregon.gov/osbeels) has Rules & Statutes (ORS/OAR) pages and a Mission Statement
+    page; no internal-policy listing surfaced.
+- slug: board-of-geologist-examiners
+  name: Board of Geologist Examiners
+  status: rules_only
+  confidence: low
+  notes: oregon.gov/osbge has Laws & Rules and a "Professional Practices Guidance" document referenced
+    in search snippets, plus an eLicense "Policies" app page (apps.oregon.gov/applications/OSBGE/eLicense/Policies)
+    that appears to be licensing-process policy, not a general internal-policy listing. Did not fetch.
+- slug: board-of-licensed-social-workers
+  name: Board of Licensed Social Workers
+  status: rules_only
+  confidence: medium
+  notes: oregon.gov/blsw has "Laws and Rules" and "Compliance Laws and Rules" pages; no distinct internal-policy
+    listing found.
+- slug: board-of-massage-therapists
+  name: Board of Massage Therapists
+  status: candidate_found
+  url: https://www.oregon.gov/obmt/pages/regulation.aspx
+  appears_to_be: '"Laws, Rules & Policies" page for the board — combines OAR chapter 334 with board policies;
+    not yet opened to confirm content mix.'
+  confidence: medium
+- slug: board-of-nursing
+  name: Board of Nursing
+  status: rules_only
+  confidence: medium
+  notes: oregon.gov/osbn provides Nurse Practice Act (ORS 678 / OAR 851) pages; no separate internal-policy
+    listing surfaced.
+- slug: board-of-optometry
+  name: Board of Optometry
+  status: rules_only
+  confidence: medium
+  notes: oregon.gov/obo links to ORS/OAR compilation only; no internal-policy listing surfaced.
+- slug: board-of-examiners-for-speech-language-pathology-and-audiology
+  name: Board of Examiners for Speech-Language Pathology and Audiology
+  status: rules_only
+  confidence: medium
+  notes: oregon.gov/bspa has Investigations and Rule Making Review pages, ORS 681 / OAR 335; no internal-policy
+    listing found.
+- slug: board-of-medical-imaging
+  name: Board of Medical Imaging
+  status: candidate_found
+  url: https://www.oregon.gov/obmi/Documents/CURRENT%20Board%20Policies.pdf
+  appears_to_be: PDF titled "Oregon Board of Medical Imaging – Policies – Revised January 2026" covering
+    public-records handling, citizenship/immigration-status info handling, and related administrative
+    procedures.
+  confidence: high
+- slug: board-of-parole-and-post-prison-supervision
+  name: Board of Parole and Post-Prison Supervision
+  status: rules_only
+  confidence: medium
+  notes: oregon.gov/boppps publishes "General Conditions" of supervision (PDF) and OAR chapter 255 references,
+    framed as administrative rules/conditions rather than an internal-policy manual. Not a clear candidate_found.
+- slug: board-of-pharmacy
+  name: Board of Pharmacy
+  status: rules_only
+  confidence: medium
+  notes: oregon.gov/pharmacy has Laws & Rules and Rulemaking Information pages only; no internal-policy
+    listing surfaced.
+- slug: bureau-of-labor-and-industries
+  name: Bureau of Labor and Industries
+  status: not_found
+  confidence: medium
+  notes: Search of oregon.gov/boli returned worker/employer resource pages, no internal-policy listing;
+    search engine explicitly noted no public policy manual found.
+- slug: chief-education-office
+  name: Chief Education Office
+  status: not_found
+  confidence: high
+  notes: Agency sunset 2019-06-30 (statutory sunset); functions transferred to Oregon Department of Education.
+    No current standalone site exists to check.
+- slug: citizens-initiative-review-commission
+  name: Citizens' Initiative Review Commission
+  status: not_found
+  confidence: medium
+  notes: Semi-independent small commission; search surfaced only ORS 250.137, Ballotpedia, academic sources
+    — no oregon.gov page or policy listing found.
+- slug: columbia-river-gorge-commission
+  name: Columbia River Gorge Commission
+  status: not_found
+  confidence: low
+  notes: Commission runs its own site at gorgecommission.org (not oregon.gov); search results were about-us/compact
+    pages only. Its own site was not fetched for a policies section — worth a follow-up look at gorgecommission.org
+    directly.
+- slug: commission-for-the-blind
+  name: Commission for the Blind
+  status: rules_only
+  confidence: medium
+  notes: oregon.gov/blind has About Us and Rulemaking pages (ORS 346, OAR division 10); no internal-policy
+    listing surfaced.
+- slug: construction-contractors-board
+  name: Construction Contractors Board
+  status: candidate_found
+  url: https://www.oregon.gov/ccb/pages/policies.aspx
+  appears_to_be: Page titled "Policies" covering payment processing, refund policy, and licensing/continuing-education
+    policy — administrative/consumer-facing policy content rather than a big internal manual.
+  confidence: medium
+- slug: department-of-administrative-services
+  name: Department of Administrative Services
+  status: candidate_found
+  url: https://www.oregon.gov/das/pages/policies.aspx
+  appears_to_be: '"Statewide Policies and Guidelines" listing — already ingested into this repo (rules/
+    and _meta/catalog/department-of-administrative-services-policies.yml); also has a companion Statewide
+    HR Policies page (oregon.gov/das/pages/policieshr.aspx).'
+  confidence: high
+  notes: Already ingested in prior work (see repo history); listing of record.
+- slug: department-of-agriculture
+  name: Department of Agriculture
+  status: not_found
+  confidence: medium
+  notes: 'oregon.gov/oda pages found: Laws and Rules, About Us, Board of Agriculture — no internal-policy
+    listing surfaced; search explicitly found no publicly indexed policy documentation.'
+- slug: department-of-consumer-and-business-services
+  name: Department of Consumer and Business Services
+  status: not_found
+  confidence: medium
+  notes: DCBS parent site (oregon.gov/dcbs) is a hub pointing to divisions (Building Codes, Financial
+    Regulation, OSHA, Workers' Comp Board/Division); no department-wide internal-policy listing surfaced
+    — check sub-divisions individually.
+- slug: department-of-corrections
+  name: Department of Corrections
+  status: candidate_found
+  url: https://www.oregon.gov/doc/rules-and-policies/pages/policies.aspx
+  appears_to_be: '"Departmental Policies" page — dropdown listing of numbered policies (e.g. Policy 60.1.2,
+    60.1.6) as individual PDFs, covering operations, security, community corrections, etc. Large, well-structured
+    listing.'
+  confidence: high
+- slug: department-of-energy
+  name: Department of Energy
+  status: not_found
+  confidence: medium
+  notes: oregon.gov/energy content found relates to the 2025 Oregon Energy Strategy (external policy strategy,
+    not internal administrative policy); no internal-policy listing surfaced.
+- slug: department-of-environmental-quality
+  name: Department of Environmental Quality
+  status: candidate_found
+  url: https://www.oregon.gov/deq/get-involved/pages/imd.aspx
+  appears_to_be: '"Internal Management Directives" (IMDs) listing — staff-facing directives e.g. Administrative
+    Search Warrant Procedures, Enforcement Guidance for Field Staff, water/air/land-quality directives.
+    Strong match for "internal policy" definition.'
+  confidence: high
+- slug: department-of-fish-and-wildlife
+  name: Department of Fish and Wildlife
+  status: candidate_found
+  url: https://www.dfw.state.or.us/hr/policies/
+  appears_to_be: '"ODFW Policies" listing on the agency''s non-oregon.gov domain (dfw.state.or.us), HR/agency-policy
+    oriented (one hit was a DAS-conduct policy PDF hosted there too); site said to be mid-migration to
+    new URLs.'
+  confidence: medium
+- slug: department-of-forestry
+  name: Department of Forestry
+  status: rules_only
+  confidence: medium
+  notes: oregon.gov/odf has Laws & Rules and Publications pages (Forest Practices Act materials); no internal
+    administrative-policy listing surfaced.
+- slug: department-of-geology-and-mineral-industries
+  name: Department of Geology and Mineral Industries
+  status: not_found
+  confidence: medium
+  notes: oregon.gov/dogami pages found relate to programs (Geological Survey & Services, Mineral Land
+    Regulation & Reclamation) and governing-board strategic plan; no internal-policy listing surfaced.
+- slug: department-of-human-services
+  name: Department of Human Services
+  status: candidate_found
+  url: https://www.oregon.gov/odhs/transmittals/pages/default.aspx
+  appears_to_be: '"ODHS Transmittals" hub — Policy Transmittals, Action Requests, and Info Memoranda across
+    programs (APD, Self-Sufficiency, Child Welfare, ODDS, OEP); also links to a broader "ODHS Rules and
+    Policies" page (oregon.gov/odhs/rules-policy/pages/default.aspx). Large, active, well-organized.'
+  confidence: high
+- slug: department-of-justice
+  name: Department of Justice
+  status: not_found
+  confidence: medium
+  notes: doj.state.or.us / justice.oregon.gov show division overviews and an information-security-governance
+    mention, but no publicly accessible internal-policy listing surfaced.
+- slug: department-of-public-safety-standards-and-training
+  name: Department of Public Safety Standards and Training
+  status: rules_only
+  confidence: medium
+  notes: oregon.gov/dpsst centers on OAR-based training/certification standards set by the Board and policy
+    committees; no separate internal-policy listing surfaced.
+- slug: department-of-revenue
+  name: Department of Revenue
+  status: not_found
+  confidence: low
+  notes: Found one individual policy PDF (oregon.gov/dor/Documents/110-033 CL2.pdf, "Customer Service"
+    policy dated 2025-03-28) implying a numbered policy series exists, but no index/listing page was found
+    in search results.
+- slug: department-of-state-lands
+  name: Department of State Lands
+  status: rules_only
+  confidence: medium
+  notes: oregon.gov/dsl has Laws and Rules page (OAR ch. 141/142); statute references DSL "administrative
+    policies" set per State Land Board general policies, but no public listing page surfaced.
+- slug: department-of-state-police
+  name: Department of State Police
+  status: not_found
+  confidence: low
+  notes: Only external/archived references to an "Oregon State Police Manual" and "Administrative Handbook"
+    via OJP's NCJRS abstracts (not live oregon.gov pages); oregon.gov/osp page found was for OARs only.
+- slug: department-of-transportation
+  name: Department of Transportation
+  status: not_found
+  confidence: medium
+  notes: oregon.gov/odot has Statewide (transportation) Policy Plans, an OR Plan tool, and numerous technical/engineering/DMV
+    manuals — these are public-facing transportation-policy and technical-guidance documents, not an internal
+    administrative-policy listing. No internal-policy index surfaced.
+- slug: department-of-veterans-affairs
+  name: Department of Veterans' Affairs
+  status: rules_only
+  confidence: medium
+  notes: oregon.gov/odva has an OARs page and Strategic Plan; no internal-policy listing surfaced.
+- slug: employment-department
+  name: Employment Department
+  status: not_found
+  confidence: medium
+  notes: oregon.gov/employ has an Administrative Rules page; no internal-policy listing surfaced.
+- slug: employment-relations-board
+  name: Employment Relations Board
+  status: rules_only
+  confidence: low
+  notes: Found a single "2025 ERB Customer Service Policy" PDF (oregon.gov/erb/Documents/2025-ERBCustomerServicePolicy.pdf)
+    — one narrow policy document, not a broader internal-policy listing/index.
+- slug: higher-education-coordinating-commission
+  name: Higher Education Coordinating Commission
+  status: candidate_found
+  url: https://www.oregon.gov/highered/about/Documents/About-HECC/HECC-Policies-and-Procedures_February-2022_adopted%20v2.pdf
+  appears_to_be: 'PDF titled "HIGHER EDUCATION COORDINATING COMMISSION: Policies & Procedures" (adopted
+    Feb 2022) — appears to be the Commission''s own governance policy manual, linked from the About-HECC
+    documents section.'
+  confidence: high
+- slug: judicial-department
+  name: Judicial Department
+  status: candidate_found
+  url: https://www.courts.oregon.gov/Pages/policies.aspx
+  appears_to_be: '"Policies" page on courts.oregon.gov (distinct from the Rules Center / UTCR court-rules
+    pages) — likely OJD internal/administrative policies rather than court procedural rules.'
+  confidence: medium
+- slug: land-conservation-and-development-department
+  name: Land Conservation and Development Department
+  status: not_found
+  confidence: medium
+  notes: oregon.gov/lcd has a "2025-2027 DLCD Policy Agenda" PDF (legislative agenda, not internal policy)
+    and Laws and Rules pages; no internal administrative- policy listing surfaced.
+- slug: land-use-board-of-appeals
+  name: Land Use Board of Appeals
+  status: rules_only
+  confidence: medium
+  notes: oregon.gov/luba has Rules of Procedure (OAR ch. 661 div. 10) and FAQ pages; no internal-policy
+    listing surfaced.
+- slug: landscape-architect-board
+  name: Landscape Architect Board
+  status: rules_only
+  confidence: medium
+  notes: oregon.gov/landarch has Laws & Rules page mentioning the Board follows "its own operational policies
+    and procedures" but no public listing/index page was found.
+- slug: landscape-contractors-board
+  name: Landscape Contractors Board
+  status: rules_only
+  confidence: medium
+  notes: oregon.gov/lcb has a Laws/Rules/Business-Practices Guide PDF, Contract Requirements, Consumer
+    Guide, and Strategic Plan pages; no internal-policy listing surfaced.
+- slug: legislative-administration-committee
+  name: Legislative Administration Committee
+  status: candidate_found
+  url: https://www.oregonlegislature.gov/EnterpriseDocumentLibrary/lac_policies.pdf
+  appears_to_be: PDF "LEGISLATIVE ADMINISTRATION COMMITTEE POLICIES & GUIDELINES" covering building-use/space-reservation
+    policy, alcohol policy, ADA accommodation process, and administrative-services governance for the
+    Legislative Branch.
+  confidence: high
+- slug: long-term-care-ombudsman
+  name: Long Term Care Ombudsman
+  status: rules_only
+  confidence: medium
+  notes: Found OAR division 92 and ORS 441.406 (statutory duties); office's own site is oltco.org (not
+    oregon.gov) — not fetched for a policies section; no internal-policy listing surfaced in search results.
+- slug: mental-health-regulatory-agency
+  name: Mental Health Regulatory Agency
+  status: candidate_found
+  url: https://www.oregon.gov/mhra/pages/reports.aspx
+  appears_to_be: '"Policies/Plans/Reports" page (distinct from the Laws & Rules page) — likely lists agency
+    policies/plans/reports; also references an affirmative- action/diversity employment policy.'
+  confidence: medium
+- slug: mortuary-and-cemetery-board
+  name: Mortuary and Cemetery Board
+  status: rules_only
+  confidence: medium
+  notes: oregon.gov/omcb has Rulemaking, Death Care Laws, and Forms pages; no internal-policy listing
+    surfaced.
+- slug: occupational-therapy-licensing-board
+  name: Occupational Therapy Licensing Board
+  status: rules_only
+  confidence: medium
+  notes: oregon.gov/otlb has a "More Topics" page and a Student Handbook PDF (licensure guidance for students,
+    not internal agency policy); no internal-policy listing surfaced.
+- slug: oregon-529-savings-board
+  name: Oregon 529 Savings Board
+  status: rules_only
+  confidence: medium
+  notes: Board sits within Oregon Treasury (oregon.gov/treasury); pages found are program pages, meeting
+    minutes, and an annual report — no distinct internal- policy listing found (treasury itself not yet
+    searched separately).
+- slug: oregon-board-of-accountancy
+  name: Oregon Board of Accountancy
+  status: candidate_found
+  url: https://www.oregon.gov/BOA/pages/BrdMemberPolicies.aspx
+  appears_to_be: '"Board Policies - Board Members" page — appears narrow in scope (board-member governance
+    policies) rather than a full agency policy manual.'
+  confidence: low
+- slug: oregon-board-of-dentistry
+  name: Oregon Board of Dentistry
+  status: rules_only
+  confidence: medium
+  notes: oregon.gov/dentistry has Dental Practice Act PDF and Laws/Rules page; no internal-policy listing
+    surfaced (Oregon Wellness Program is a member benefit, not an internal policy).
+- slug: oregon-board-of-naturopathic-medicine
+  name: Oregon Board of Naturopathic Medicine
+  status: rules_only
+  confidence: medium
+  notes: oregon.gov/obnm has Statutes and Rules page and an "AA Plan 2025-2027" PDF (affirmative-action
+    plan); no broader internal-policy listing surfaced.
+- slug: oregon-board-of-physical-therapy
+  name: Oregon Board of Physical Therapy
+  status: rules_only
+  confidence: medium
+  notes: oregon.gov/pt has Laws and Rulemaking and HB 3824 pages; no internal-policy listing surfaced.
+- slug: oregon-business-development-department
+  name: Oregon Business Development Department
+  status: not_found
+  confidence: medium
+  notes: oregon.gov/biz (Business Oregon) pages found are budget/strategic-plan documents; ORS 285A.070
+    references director-prescribed internal rules for staff conduct/records but no public listing page
+    was found.
+- slug: oregon-department-of-education
+  name: Oregon Department of Education
+  status: candidate_found
+  url: https://www.oregon.gov/ode/rules-and-policies/pages/default.aspx
+  appears_to_be: '"Rules & Policies Home" hub with sub-pages including "Policy Resources and Links," "Other
+    Federal Policies," and "Policies and Procedures for Special Education" — broad policy hub, mixes federal/state
+    rule links with agency policy content.'
+  confidence: medium
+- slug: oregon-facilities-authority
+  name: Oregon Facilities Authority
+  status: rules_only
+  confidence: medium
+  notes: Authority's own site is oregonfacilities.org; oregon.gov hits were ORS 289 / OAR chapter 172
+    and DAS state-facilities pages (different agency); no internal-policy listing surfaced for the Authority
+    itself.
+- slug: oregon-film-and-video-office
+  name: Oregon Film and Video Office
+  status: candidate_found
+  url: https://oregonfilm.org/article/oregon-film-equal-opportunity-harassment-policy/
+  appears_to_be: '"Oregon Film Equal Opportunity Policy" page on the office''s non-oregon.gov site (oregonfilm.org)
+    — narrow single-policy page, not a general listing.'
+  confidence: low
+- slug: oregon-forest-resources-institute
+  name: Oregon Forest Resources Institute
+  status: not_found
+  confidence: medium
+  notes: OFRI operates via oregonforests.org; oregon.gov hits were Blue Book pages only; no internal-policy
+    listing surfaced on either domain in search results.
+- slug: oregon-government-ethics-commission
+  name: Oregon Government Ethics Commission
+  status: rules_only
+  confidence: medium
+  notes: OGEC's "policy" content is public government-ethics law (ORS 244) it administers/enforces, not
+    an internal agency policy manual; no internal- policy listing surfaced.
+- slug: oregon-health-authority
+  name: Oregon Health Authority
+  status: candidate_found
+  url: https://www.oregon.gov/oha/osh/pages/policies.aspx
+  appears_to_be: '"Policies & Procedures" page for Oregon State Hospital (PDF-per-policy listing) — one
+    of several strong OHA-division policy pages found, alongside Equity and Inclusion Division policies
+    (oregon.gov/oha/oei/Pages/policies.aspx), Institutional Review Board Policy & Procedures Manual, and
+    an Information Security and Privacy Policies page (oregon.gov/OHA/FOD/OIS-ISPO/Pages/Policies.aspx).
+    OHA is large and decentralized — multiple division-level policy listings, no single department-wide
+    index found.'
+  confidence: high
+- slug: oregon-housing-and-community-services-department
+  name: Oregon Housing and Community Services Department
+  status: candidate_found
+  url: https://www.oregon.gov/ohcs/rental-housing/housing-development/development-resources/Documents/lihtc/gpgm-2025-final-branded.pdf
+  appears_to_be: '"General Policy and Guideline Manual" (GPGM 2025) — uniform policies and guidelines
+    governing OHCS funding-program allocation (LIHTC/rental housing development); program-policy manual
+    rather than broad internal admin policy.'
+  confidence: medium
+- slug: oregon-investment-council
+  name: Oregon Investment Council
+  status: candidate_found
+  url: https://www.oregon.gov/treasury/invested-for-oregon/Documents/Invested-for-OR-OIC-INV/Investment-Policy-Statement-for-OPERF.pdf
+  appears_to_be: '"Investment Policy Statement for Oregon Public Employees Retirement Fund" — OIC''s formal
+    investment policy document; narrow (investment-policy) scope.'
+  confidence: medium
+- slug: oregon-liquor-control-commission
+  name: Oregon Liquor Control Commission
+  status: not_found
+  confidence: medium
+  notes: (Registry name predates OLCC's cannabis-commission rename.) Search result explicitly stated OLCC
+    internal policies/procedures are "stored electronically" for employee access, i.e. confirmed to exist
+    but not publicly listed; only public pages found were Rulemaking, Compliance, Laws and Rules, About
+    Us.
+- slug: oregon-medical-board
+  name: Oregon Medical Board
+  status: rules_only
+  confidence: medium
+  notes: oregon.gov/omb has Statutes & Rules Overview and Board/About Us pages; no internal-policy listing
+    surfaced.
+- slug: oregon-military-department
+  name: Oregon Military Department
+  status: candidate_found
+  url: https://www.oregon.gov/omd/employeeresources/pages/policies.aspx
+  appears_to_be: '"Policies" page under Employee Resources — HR-style policy listing (COVID-19 guidance,
+    temporary interruption of employment, Code of Ethics, conflict of interest, occupational health &
+    safety) issued by The Adjutant General for OMD employees.'
+  confidence: high
+- slug: oregon-patient-safety-commission
+  name: Oregon Patient Safety Commission
+  status: rules_only
+  confidence: medium
+  notes: Commission's own site is oregonpatientsafety.org; "Laws & Rules" page found there and OAR chapter
+    147 / ORS 442.820+; no internal-policy listing surfaced.
+- slug: oregon-public-employees-retirement-system
+  name: Oregon Public Employees Retirement System
+  status: not_found
+  confidence: medium
+  notes: oregon.gov/pers pages found are member/employer-facing benefit-overview pages; no internal-policy
+    listing surfaced.
+- slug: oregon-racing-commission
+  name: Oregon Racing Commission
+  status: candidate_found
+  url: https://digitalcollections.library.oregon.gov/nodes/view/257524
+  appears_to_be: '"Oregon Racing Commission licensee information guide: policies and procedures" — archived
+    in State Library digital collections; appears to be licensee-facing guidance rather than internal
+    agency administrative policy.'
+  confidence: low
+- slug: oregon-state-library
+  name: Oregon State Library
+  status: candidate_found
+  url: https://www.oregon.gov/library/Documents/Policies/LibraryRulesOfConduct.pdf
+  appears_to_be: '"Library Rules of Conduct" PDF, hosted in an oregon.gov/library/Documents/Policies/
+    folder — the folder path implies a broader internal policy set may exist beyond this one document
+    (not confirmed; only this file surfaced).'
+  confidence: medium
+- slug: oregon-state-lottery
+  name: Oregon State Lottery
+  status: rules_only
+  confidence: medium
+  notes: Lottery's own site is oregonlottery.org (Rulemaking page there); "Responsible Gambling Code of
+    Practice" (ORS 461.200) is a statutory conduct code for employees/retailers, closer to a public-facing
+    regulatory code than an internal administrative-policy manual; no internal-policy listing surfaced.
+- slug: oregon-criminal-justice-commission
+  name: Oregon Criminal Justice Commission
+  status: rules_only
+  confidence: medium
+  notes: oregon.gov/cjc has About/Rules pages and budget documents; the commission's "policy" work is
+    statewide criminal-justice policy planning (its statutory mission), not an internal administrative-policy
+    listing.
+- slug: oregon-department-of-aviation
+  name: Oregon Department of Aviation
+  status: rules_only
+  confidence: medium
+  notes: oregon.gov/aviation has Statutes & Rulemaking and About/Administration pages; no internal-policy
+    listing surfaced.
+- slug: oregon-state-marine-board
+  name: Oregon State Marine Board
+  status: rules_only
+  confidence: medium
+  notes: oregon.gov/osmb has Statutes and Rules, Strategic Plan, About Us pages (OAR chapter 250); no
+    internal-policy listing surfaced.
+- slug: oregon-state-treasury
+  name: Oregon State Treasury
+  status: candidate_found
+  url: https://www.oregon.gov/treasury/public-financial-services/banking-with-treasury/pages/cash-management-policies.aspx
+  appears_to_be: '"Cash Management Policies" page — Treasury''s cash-handling procedures under ORS 293.875;
+    narrow financial-operations scope rather than a broad internal administrative-policy manual.'
+  confidence: medium
+- slug: oregon-tourism-commission
+  name: Oregon Tourism Commission
+  status: not_found
+  confidence: medium
+  notes: Travel Oregon's own sites (traveloregon.com, industry.traveloregon.com) and oregon.gov Blue Book/OAR
+    pages found; no internal-policy listing surfaced.
+- slug: oregon-utility-notification-center
+  name: Oregon Utility Notification Center
+  status: rules_only
+  confidence: medium
+  notes: OUNC is an independent not-for-profit public corporation; its own site is digsafelyoregon.com
+    (Rulemaking page found there); no internal-policy listing surfaced.
+- slug: oregon-watershed-enhancement-board
+  name: Oregon Watershed Enhancement Board
+  status: candidate_found
+  url: https://www.oregon.gov/oweb/resources/pages/statutes-policies.aspx
+  appears_to_be: '"Statutes & Policies" page naming specific board policies: Customer Service Standards
+    Policy, Environmental Cleanup Sites Policy & Guidance, Mitigation Policy Guidance, and State-Tribal
+    Relations Policy.'
+  confidence: high
+- slug: oregon-wine-board
+  name: Oregon Wine Board
+  status: not_found
+  confidence: medium
+  notes: OWB pages found are tax/FAQ and equity-statement content; administrative support comes from DCBS;
+    no internal-policy listing surfaced.
+- slug: oregon-youth-authority
+  name: Oregon Youth Authority
+  status: candidate_found
+  url: http://www.oregon.gov/oya/pages/policies/policy_list.aspx
+  appears_to_be: '"Policies" listing under About OYA — large, numbered policy series (e.g. III-B-4.0 Youth
+    Rights and Grievances, III-D-2.1 Youth Transports and Escorts, III-D-2.3 Staff and Youth Safety) each
+    as individual PDFs. Comparable in structure to the already-ingested DOC policy listing.'
+  confidence: high
+  notes: URL 301-redirects to /oya/aboutoya/Pages/Policies.aspx (verified live).
+- slug: parks-and-recreation-department
+  name: Parks and Recreation Department
+  status: rules_only
+  confidence: medium
+  notes: oregon.gov/oprd has Rules and Laws / rulemaking pages (OAR ch. 736) and Commission policy-setting
+    described in general terms; no internal-policy listing surfaced.
+- slug: psychiatric-security-review-board
+  name: Psychiatric Security Review Board
+  status: rules_only
+  confidence: medium
+  notes: oregon.gov/prb has About/Statutes_Rules/Resources pages (OAR ch. 859); no internal-policy listing
+    surfaced.
+- slug: public-utility-commission
+  name: Public Utility Commission
+  status: candidate_found
+  url: https://www.oregon.gov/puc/forms/Forms%20and%20Reports/Internal-Operating-Guidelines.pdf
+  appears_to_be: '"Internal Operating Guidelines" (Order No., Appendix A, ~30pp) — explains how PUC decisions
+    are made and outlines Commission responsibilities and procedures for contested cases, rulemaking,
+    public meetings, intervention.'
+  confidence: high
+- slug: real-estate-agency
+  name: Real Estate Agency
+  status: rules_only
+  confidence: medium
+  notes: oregon.gov/rea has Laws and Rules and Newsroom pages (ORS 696, etc.); "written policies/procedures"
+    referenced apply to managing principal brokers' own brokerages, not REA's internal agency policy.
+    No internal- policy listing surfaced.
+- slug: secretary-of-state
+  name: Secretary of State
+  status: not_found
+  confidence: medium
+  notes: sos.oregon.gov pages found are About Us / Divisions / Executive Team; search explicitly found
+    no internal-policy documents (suggested public-records request as the alternative route).
+- slug: southern-oregon-university
+  name: Southern Oregon University
+  status: candidate_found
+  url: https://policies.sou.edu/full-policy-listing/
+  appears_to_be: University-wide policy portal (policies.sou.edu) with a "Full Policy Listing" and a proposed-policies-for-comment
+    page — standard university policy-library structure, general-application policies (departmental/ school-level
+    procedures excluded per the site's own scope note).
+  confidence: high
+- slug: state-board-of-architect-examiners
+  name: State Board of Architect Examiners
+  status: rules_only
+  confidence: medium
+  notes: oregon.gov/osbae has Statutes and Rules, FAQ, About Us pages, and an Affirmative Action/DEI Plan
+    PDF (narrow HR-policy document); no broader internal-policy listing surfaced.
+- slug: teacher-standards-and-practices-commission
+  name: Teacher Standards and Practices Commission
+  status: rules_only
+  confidence: medium
+  notes: oregon.gov/tspc has a "Professional Standards Manual" and "Program Review and Standards Handbook"
+    — these govern licensure/program-approval standards for educators (external-facing), not TSPC's own
+    internal administrative policy. No internal-policy listing surfaced.
+- slug: travel-information-council
+  name: Travel Information Council
+  status: rules_only
+  confidence: medium
+  notes: OTIC's own site is oregontic.com (Statutes/Laws/Rules page there); a "Government-to-Government
+    Relations" policy statement (2013) was found but is narrow/topic-specific; no broader internal-policy
+    listing surfaced.
+- slug: veterinary-medical-examining-board
+  name: Veterinary Medical Examining Board
+  status: rules_only
+  confidence: medium
+  notes: oregon.gov/ovmeb has OAR chapter 875 compilation and a Strategic Plan PDF; no internal-policy
+    listing surfaced.
+- slug: water-resources-department
+  name: Water Resources Department
+  status: candidate_found
+  url: https://www.oregon.gov/OWRD/programs/policylawandrules/Pages/default.aspx
+  appears_to_be: '"Policy, Law, and Rules" hub page — ORS 536 gives the Director authority to prescribe
+    internal policies/procedures for the department; this hub page likely surfaces them alongside rulemaking,
+    but the specific internal-policy document(s) were not directly visible in search results — worth a
+    follow-up fetch of the hub page itself.'
+  confidence: medium
+- slug: eastern-oregon-border-economic-development-board
+  name: Eastern Oregon Border Economic Development Board
+  status: not_found
+  confidence: medium
+  notes: Board's own site is eoborderboard.org; oregon.gov hits were ORS 284.776+ / OAR 124-001-0020 only;
+    no internal-policy listing surfaced on either domain.
+- slug: economic-recovery-review-council
+  name: Economic Recovery Review Council
+  status: not_found
+  confidence: low
+  notes: Search surfaced Governor Kotek's "Prosperity Council" (created Jan 2026) and a 2021-22 Business
+    Oregon economic recovery plan, but no page matching this exact registry name/council was found; may
+    be a defunct or renamed body. No internal-policy listing found either way.
+- slug: department-of-administrative-services-chief-financial-office
+  name: Department of Administrative Services, Chief Financial Office
+  status: covered_by_parent
+  covered_by: department-of-administrative-services
+  confidence: medium
+  notes: Sub-unit of department-of-administrative-services; publishes (if at all) under the parent agency's
+    oregon.gov domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: department-of-administrative-services-chief-human-resources-office
+  name: Department of Administrative Services, Chief Human Resources Office
+  status: covered_by_parent
+  covered_by: department-of-administrative-services
+  confidence: medium
+  notes: Sub-unit of department-of-administrative-services; publishes (if at all) under the parent agency's
+    oregon.gov domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: department-of-administrative-services-office-of-the-state-chief-information-officer
+  name: Department of Administrative Services, Office of the State Chief Information Officer
+  status: covered_by_parent
+  covered_by: department-of-administrative-services
+  confidence: medium
+  notes: Sub-unit of department-of-administrative-services; publishes (if at all) under the parent agency's
+    oregon.gov domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: department-of-agriculture-oregon-albacore-commission
+  name: Department of Agriculture, Oregon Albacore Commission
+  status: covered_by_parent
+  covered_by: department-of-agriculture
+  confidence: medium
+  notes: Sub-unit of department-of-agriculture; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: department-of-agriculture-oregon-alfalfa-seed-commission
+  name: Department of Agriculture, Oregon Alfalfa Seed Commission
+  status: covered_by_parent
+  covered_by: department-of-agriculture
+  confidence: medium
+  notes: Sub-unit of department-of-agriculture; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: department-of-agriculture-oregon-beef-council
+  name: Department of Agriculture, Oregon Beef Council
+  status: covered_by_parent
+  covered_by: department-of-agriculture
+  confidence: medium
+  notes: Sub-unit of department-of-agriculture; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: department-of-agriculture-oregon-blueberry-commission
+  name: Department of Agriculture, Oregon Blueberry Commission
+  status: covered_by_parent
+  covered_by: department-of-agriculture
+  confidence: medium
+  notes: Sub-unit of department-of-agriculture; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: department-of-agriculture-oregon-clover-seed-commission
+  name: Department of Agriculture, Oregon Clover Seed Commission
+  status: covered_by_parent
+  covered_by: department-of-agriculture
+  confidence: medium
+  notes: Sub-unit of department-of-agriculture; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: department-of-agriculture-oregon-dairy-products-commission
+  name: Department of Agriculture, Oregon Dairy Products Commission
+  status: covered_by_parent
+  covered_by: department-of-agriculture
+  confidence: medium
+  notes: Sub-unit of department-of-agriculture; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: department-of-agriculture-oregon-dungeness-crab-commission
+  name: Department of Agriculture, Oregon Dungeness Crab Commission
+  status: covered_by_parent
+  covered_by: department-of-agriculture
+  confidence: medium
+  notes: Sub-unit of department-of-agriculture; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: department-of-agriculture-oregon-fine-fescue-commission
+  name: Department of Agriculture, Oregon Fine Fescue Commission
+  status: covered_by_parent
+  covered_by: department-of-agriculture
+  confidence: medium
+  notes: Sub-unit of department-of-agriculture; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: department-of-agriculture-oregon-hazelnut-commission
+  name: Department of Agriculture, Oregon Hazelnut Commission
+  status: covered_by_parent
+  covered_by: department-of-agriculture
+  confidence: medium
+  notes: Sub-unit of department-of-agriculture; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: department-of-agriculture-oregon-hop-commission
+  name: Department of Agriculture, Oregon Hop Commission
+  status: covered_by_parent
+  covered_by: department-of-agriculture
+  confidence: medium
+  notes: Sub-unit of department-of-agriculture; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: department-of-agriculture-oregon-invasive-species-council
+  name: Department of Agriculture, Oregon Invasive Species Council
+  status: covered_by_parent
+  covered_by: department-of-agriculture
+  confidence: medium
+  notes: Sub-unit of department-of-agriculture; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: department-of-agriculture-oregon-mint-commission
+  name: Department of Agriculture, Oregon Mint Commission
+  status: covered_by_parent
+  covered_by: department-of-agriculture
+  confidence: medium
+  notes: Sub-unit of department-of-agriculture; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: department-of-agriculture-oregon-potato-commission
+  name: Department of Agriculture, Oregon Potato Commission
+  status: covered_by_parent
+  covered_by: department-of-agriculture
+  confidence: medium
+  notes: Sub-unit of department-of-agriculture; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: department-of-agriculture-oregon-processed-vegetable-commission
+  name: Department of Agriculture, Oregon Processed Vegetable Commission
+  status: covered_by_parent
+  covered_by: department-of-agriculture
+  confidence: medium
+  notes: Sub-unit of department-of-agriculture; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: department-of-agriculture-oregon-raspberry-and-blackberry-commission
+  name: Department of Agriculture, Oregon Raspberry and Blackberry Commission
+  status: covered_by_parent
+  covered_by: department-of-agriculture
+  confidence: medium
+  notes: Sub-unit of department-of-agriculture; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: department-of-agriculture-oregon-ryegrass-growers-seed-commission
+  name: Department of Agriculture, Oregon Ryegrass Growers Seed Commission
+  status: covered_by_parent
+  covered_by: department-of-agriculture
+  confidence: medium
+  notes: Sub-unit of department-of-agriculture; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: department-of-agriculture-oregon-salmon-commission
+  name: Department of Agriculture, Oregon Salmon Commission
+  status: covered_by_parent
+  covered_by: department-of-agriculture
+  confidence: medium
+  notes: Sub-unit of department-of-agriculture; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: department-of-agriculture-oregon-sheep-commission
+  name: Department of Agriculture, Oregon Sheep Commission
+  status: covered_by_parent
+  covered_by: department-of-agriculture
+  confidence: medium
+  notes: Sub-unit of department-of-agriculture; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: department-of-agriculture-oregon-strawberry-commission
+  name: Department of Agriculture, Oregon Strawberry Commission
+  status: covered_by_parent
+  covered_by: department-of-agriculture
+  confidence: medium
+  notes: Sub-unit of department-of-agriculture; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: department-of-agriculture-oregon-sweet-cherry-commission
+  name: Department of Agriculture, Oregon Sweet Cherry Commission
+  status: covered_by_parent
+  covered_by: department-of-agriculture
+  confidence: medium
+  notes: Sub-unit of department-of-agriculture; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: department-of-agriculture-oregon-tall-fescue-commission
+  name: Department of Agriculture, Oregon Tall Fescue Commission
+  status: covered_by_parent
+  covered_by: department-of-agriculture
+  confidence: medium
+  notes: Sub-unit of department-of-agriculture; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: department-of-agriculture-oregon-trawl-commission
+  name: Department of Agriculture, Oregon Trawl Commission
+  status: covered_by_parent
+  covered_by: department-of-agriculture
+  confidence: medium
+  notes: Sub-unit of department-of-agriculture; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: department-of-agriculture-oregon-wheat-commission
+  name: Department of Agriculture, Oregon Wheat Commission
+  status: covered_by_parent
+  covered_by: department-of-agriculture
+  confidence: medium
+  notes: Sub-unit of department-of-agriculture; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: department-of-consumer-and-business-services-building-codes-division
+  name: Department of Consumer and Business Services, Building Codes Division
+  status: covered_by_parent
+  covered_by: department-of-consumer-and-business-services
+  confidence: medium
+  notes: Sub-unit of department-of-consumer-and-business-services; publishes (if at all) under the parent
+    agency's oregon.gov domain/section rather than a separate site. See parent entry for that agency's
+    policy-publication finding.
+- slug: department-of-consumer-and-business-services-director-s-office
+  name: Department of Consumer and Business Services, Director's Office
+  status: covered_by_parent
+  covered_by: department-of-consumer-and-business-services
+  confidence: medium
+  notes: Sub-unit of department-of-consumer-and-business-services; publishes (if at all) under the parent
+    agency's oregon.gov domain/section rather than a separate site. See parent entry for that agency's
+    policy-publication finding.
+- slug: department-of-consumer-and-business-services-finance-and-securities-regulation
+  name: Department of Consumer and Business Services, Finance and Securities Regulation
+  status: covered_by_parent
+  covered_by: department-of-consumer-and-business-services
+  confidence: medium
+  notes: Sub-unit of department-of-consumer-and-business-services; publishes (if at all) under the parent
+    agency's oregon.gov domain/section rather than a separate site. See parent entry for that agency's
+    policy-publication finding.
+- slug: department-of-consumer-and-business-services-health-insurance-marketplace
+  name: Department of Consumer and Business Services, Health Insurance Marketplace
+  status: covered_by_parent
+  covered_by: department-of-consumer-and-business-services
+  confidence: medium
+  notes: Sub-unit of department-of-consumer-and-business-services; publishes (if at all) under the parent
+    agency's oregon.gov domain/section rather than a separate site. See parent entry for that agency's
+    policy-publication finding.
+- slug: department-of-consumer-and-business-services-insurance-regulation
+  name: Department of Consumer and Business Services, Insurance Regulation
+  status: covered_by_parent
+  covered_by: department-of-consumer-and-business-services
+  confidence: medium
+  notes: Sub-unit of department-of-consumer-and-business-services; publishes (if at all) under the parent
+    agency's oregon.gov domain/section rather than a separate site. See parent entry for that agency's
+    policy-publication finding.
+- slug: department-of-consumer-and-business-services-oregon-occupational-safety-and-health-division
+  name: Department of Consumer and Business Services, Oregon Occupational Safety and Health Division
+  status: covered_by_parent
+  covered_by: department-of-consumer-and-business-services
+  confidence: medium
+  notes: Sub-unit of department-of-consumer-and-business-services; publishes (if at all) under the parent
+    agency's oregon.gov domain/section rather than a separate site. See parent entry for that agency's
+    policy-publication finding.
+- slug: department-of-consumer-and-business-services-workers-compensation-board
+  name: Department of Consumer and Business Services, Workers' Compensation Board
+  status: covered_by_parent
+  covered_by: department-of-consumer-and-business-services
+  confidence: medium
+  notes: Sub-unit of department-of-consumer-and-business-services; publishes (if at all) under the parent
+    agency's oregon.gov domain/section rather than a separate site. See parent entry for that agency's
+    policy-publication finding.
+- slug: department-of-consumer-and-business-services-workers-compensation-division
+  name: Department of Consumer and Business Services, Workers' Compensation Division
+  status: covered_by_parent
+  covered_by: department-of-consumer-and-business-services
+  confidence: medium
+  notes: Sub-unit of department-of-consumer-and-business-services; publishes (if at all) under the parent
+    agency's oregon.gov domain/section rather than a separate site. See parent entry for that agency's
+    policy-publication finding.
+- slug: department-of-energy-energy-facility-siting-council
+  name: Department of Energy, Energy Facility Siting Council
+  status: covered_by_parent
+  covered_by: department-of-energy
+  confidence: medium
+  notes: Sub-unit of department-of-energy; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: department-of-human-services-aging-and-people-with-disabilities-and-developmental-disabilities
+  name: Department of Human Services, Aging and People with Disabilities and Developmental Disabilities
+  status: covered_by_parent
+  covered_by: department-of-human-services
+  confidence: medium
+  notes: Sub-unit of department-of-human-services; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: department-of-human-services-child-welfare-programs
+  name: Department of Human Services, Child Welfare Programs
+  status: covered_by_parent
+  covered_by: department-of-human-services
+  confidence: medium
+  notes: Sub-unit of department-of-human-services; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: department-of-human-services-home-care-commission
+  name: Department of Human Services, Home Care Commission
+  status: covered_by_parent
+  covered_by: department-of-human-services
+  confidence: medium
+  notes: Sub-unit of department-of-human-services; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: department-of-human-services-self-sufficiency-programs
+  name: Department of Human Services, Self-Sufficiency Programs
+  status: covered_by_parent
+  covered_by: department-of-human-services
+  confidence: medium
+  notes: Sub-unit of department-of-human-services; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: department-of-human-services-vocational-rehabilitation-services
+  name: Department of Human Services, Vocational Rehabilitation Services
+  status: covered_by_parent
+  covered_by: department-of-human-services
+  confidence: medium
+  notes: Sub-unit of department-of-human-services; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: department-of-state-lands-south-slough-national-estuarine-research-reserve
+  name: Department of State Lands, South Slough National Estuarine Research Reserve
+  status: covered_by_parent
+  covered_by: department-of-state-lands
+  confidence: medium
+  notes: Sub-unit of department-of-state-lands; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: department-of-state-police-office-of-state-fire-marshal
+  name: Department of State Police, Office of State Fire Marshal
+  status: covered_by_parent
+  covered_by: department-of-state-police
+  confidence: medium
+  notes: Sub-unit of department-of-state-police; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: department-of-state-police-oregon-state-athletic-commission
+  name: Department of State Police, Oregon State Athletic Commission
+  status: covered_by_parent
+  covered_by: department-of-state-police
+  confidence: medium
+  notes: Sub-unit of department-of-state-police; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: department-of-transportation-driver-and-motor-vehicle-services-division
+  name: Department of Transportation, Driver and Motor Vehicle Services Division
+  status: covered_by_parent
+  covered_by: department-of-transportation
+  confidence: medium
+  notes: Sub-unit of department-of-transportation; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: department-of-transportation-highway-division
+  name: Department of Transportation, Highway Division
+  status: covered_by_parent
+  covered_by: department-of-transportation
+  confidence: medium
+  notes: Sub-unit of department-of-transportation; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: department-of-transportation-motor-carrier-transportation-division
+  name: Department of Transportation, Motor Carrier Transportation Division
+  status: covered_by_parent
+  covered_by: department-of-transportation
+  confidence: medium
+  notes: Sub-unit of department-of-transportation; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: department-of-transportation-public-transit-division
+  name: Department of Transportation, Public Transit Division
+  status: covered_by_parent
+  covered_by: department-of-transportation
+  confidence: medium
+  notes: Sub-unit of department-of-transportation; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: department-of-transportation-rail-division
+  name: Department of Transportation, Rail Division
+  status: covered_by_parent
+  covered_by: department-of-transportation
+  confidence: medium
+  notes: Sub-unit of department-of-transportation; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: department-of-transportation-transportation-safety-division
+  name: Department of Transportation, Transportation Safety Division
+  status: covered_by_parent
+  covered_by: department-of-transportation
+  confidence: medium
+  notes: Sub-unit of department-of-transportation; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: higher-education-coordinating-commission-office-of-community-colleges-and-workforce-development
+  name: Higher Education Coordinating Commission, Office of Community Colleges and Workforce Development
+  status: covered_by_parent
+  covered_by: higher-education-coordinating-commission
+  confidence: medium
+  notes: Sub-unit of higher-education-coordinating-commission; publishes (if at all) under the parent
+    agency's oregon.gov domain/section rather than a separate site. See parent entry for that agency's
+    policy-publication finding.
+- slug: higher-education-coordinating-commission-office-of-degree-authorization
+  name: Higher Education Coordinating Commission, Office of Degree Authorization
+  status: covered_by_parent
+  covered_by: higher-education-coordinating-commission
+  confidence: medium
+  notes: Sub-unit of higher-education-coordinating-commission; publishes (if at all) under the parent
+    agency's oregon.gov domain/section rather than a separate site. See parent entry for that agency's
+    policy-publication finding.
+- slug: higher-education-coordinating-commission-office-of-student-access-and-completion
+  name: Higher Education Coordinating Commission, Office of Student Access and Completion
+  status: covered_by_parent
+  covered_by: higher-education-coordinating-commission
+  confidence: medium
+  notes: Sub-unit of higher-education-coordinating-commission; publishes (if at all) under the parent
+    agency's oregon.gov domain/section rather than a separate site. See parent entry for that agency's
+    policy-publication finding.
+- slug: mental-health-regulatory-agency-oregon-board-of-licensed-professional-counselors-and-therapists
+  name: Mental Health Regulatory Agency, Oregon Board of Licensed Professional Counselors and Therapists
+  status: covered_by_parent
+  covered_by: mental-health-regulatory-agency
+  confidence: medium
+  notes: Sub-unit of mental-health-regulatory-agency; publishes (if at all) under the parent agency's
+    oregon.gov domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: mental-health-regulatory-agency-oregon-board-of-psychology
+  name: Mental Health Regulatory Agency, Oregon Board of Psychology
+  status: covered_by_parent
+  covered_by: mental-health-regulatory-agency
+  confidence: medium
+  notes: Sub-unit of mental-health-regulatory-agency; publishes (if at all) under the parent agency's
+    oregon.gov domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: oregon-department-of-education-early-learning-division
+  name: Oregon Department of Education, Early Learning Division
+  status: covered_by_parent
+  covered_by: oregon-department-of-education
+  confidence: medium
+  notes: Sub-unit of oregon-department-of-education; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: oregon-department-of-education-fair-dismissal-appeals-board
+  name: Oregon Department of Education, Fair Dismissal Appeals Board
+  status: covered_by_parent
+  covered_by: oregon-department-of-education
+  confidence: medium
+  notes: Sub-unit of oregon-department-of-education; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: oregon-department-of-education-youth-development-division
+  name: Oregon Department of Education, Youth Development Division
+  status: covered_by_parent
+  covered_by: oregon-department-of-education
+  confidence: medium
+  notes: Sub-unit of oregon-department-of-education; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: oregon-health-authority-health-licensing-office
+  name: Oregon Health Authority, Health Licensing Office
+  status: covered_by_parent
+  covered_by: oregon-health-authority
+  confidence: medium
+  notes: Sub-unit of oregon-health-authority; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: oregon-health-authority-health-licensing-office-behavior-analysis-regulatory-board
+  name: Oregon Health Authority, Health Licensing Office, Behavior Analysis Regulatory Board
+  status: covered_by_parent
+  covered_by: oregon-health-authority
+  confidence: medium
+  notes: Sub-unit of oregon-health-authority; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: oregon-health-authority-health-licensing-office-board-of-certified-advanced-estheticians
+  name: Oregon Health Authority, Health Licensing Office, Board of Certified Advanced Estheticians
+  status: covered_by_parent
+  covered_by: oregon-health-authority
+  confidence: medium
+  notes: Sub-unit of oregon-health-authority; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: oregon-health-authority-health-licensing-office-board-of-cosmetology
+  name: Oregon Health Authority, Health Licensing Office, Board of Cosmetology
+  status: covered_by_parent
+  covered_by: oregon-health-authority
+  confidence: medium
+  notes: Sub-unit of oregon-health-authority; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: oregon-health-authority-health-licensing-office-board-of-direct-entry-midwifery
+  name: Oregon Health Authority, Health Licensing Office, Board of Direct Entry Midwifery
+  status: covered_by_parent
+  covered_by: oregon-health-authority
+  confidence: medium
+  notes: Sub-unit of oregon-health-authority; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: oregon-health-authority-health-licensing-office-board-of-licensed-dietitians
+  name: Oregon Health Authority, Health Licensing Office, Board of Licensed Dietitians
+  status: covered_by_parent
+  covered_by: oregon-health-authority
+  confidence: medium
+  notes: Sub-unit of oregon-health-authority; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: oregon-health-authority-health-licensing-office-environmental-health-registration-board
+  name: Oregon Health Authority, Health Licensing Office, Environmental Health Registration Board
+  status: covered_by_parent
+  covered_by: oregon-health-authority
+  confidence: medium
+  notes: Sub-unit of oregon-health-authority; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: oregon-health-authority-health-licensing-office-long-term-care-administrators-board
+  name: Oregon Health Authority, Health Licensing Office, Long Term Care Administrators Board
+  status: covered_by_parent
+  covered_by: oregon-health-authority
+  confidence: medium
+  notes: Sub-unit of oregon-health-authority; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: oregon-health-authority-health-policy-and-analytics
+  name: Oregon Health Authority, Health Policy and Analytics
+  status: covered_by_parent
+  covered_by: oregon-health-authority
+  confidence: medium
+  notes: Sub-unit of oregon-health-authority; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: oregon-health-authority-health-systems-division-addiction-services
+  name: 'Oregon Health Authority, Health Systems Division: Addiction Services'
+  status: covered_by_parent
+  covered_by: oregon-health-authority
+  confidence: medium
+  notes: Sub-unit of oregon-health-authority; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: oregon-health-authority-health-systems-division-behavioral-health-services
+  name: 'Oregon Health Authority, Health Systems Division: Behavioral Health Services'
+  status: covered_by_parent
+  covered_by: oregon-health-authority
+  confidence: medium
+  notes: Sub-unit of oregon-health-authority; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: oregon-health-authority-health-systems-division-medical-assistance-programs
+  name: 'Oregon Health Authority, Health Systems Division: Medical Assistance Programs'
+  status: covered_by_parent
+  covered_by: oregon-health-authority
+  confidence: medium
+  notes: Sub-unit of oregon-health-authority; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: oregon-health-authority-oregon-prescription-drug-program
+  name: Oregon Health Authority, Oregon Prescription Drug Program
+  status: covered_by_parent
+  covered_by: oregon-health-authority
+  confidence: medium
+  notes: Sub-unit of oregon-health-authority; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: oregon-health-authority-public-employees-benefit-board
+  name: Oregon Health Authority, Public Employees' Benefit Board
+  status: covered_by_parent
+  covered_by: oregon-health-authority
+  confidence: medium
+  notes: Sub-unit of oregon-health-authority; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: oregon-health-authority-public-health-division
+  name: Oregon Health Authority, Public Health Division
+  status: covered_by_parent
+  covered_by: oregon-health-authority
+  confidence: medium
+  notes: Sub-unit of oregon-health-authority; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: oregon-military-department-office-of-emergency-management
+  name: Oregon Military Department, Office of Emergency Management
+  status: covered_by_parent
+  covered_by: oregon-military-department
+  confidence: medium
+  notes: Sub-unit of oregon-military-department; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: oregon-watershed-enhancement-board-oregon-agricultural-heritage-program
+  name: Oregon Watershed Enhancement Board, Oregon Agricultural Heritage Program
+  status: covered_by_parent
+  covered_by: oregon-watershed-enhancement-board
+  confidence: medium
+  notes: Sub-unit of oregon-watershed-enhancement-board; publishes (if at all) under the parent agency's
+    oregon.gov domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: public-utility-commission-oregon-board-of-maritime-pilots
+  name: Public Utility Commission, Oregon Board of Maritime Pilots
+  status: covered_by_parent
+  covered_by: public-utility-commission
+  confidence: medium
+  notes: Sub-unit of public-utility-commission; publishes (if at all) under the parent agency's oregon.gov
+    domain/section rather than a separate site. See parent entry for that agency's policy-publication
+    finding.
+- slug: secretary-of-state-archives-division
+  name: Secretary of State, Archives Division
+  status: covered_by_parent
+  covered_by: secretary-of-state
+  confidence: medium
+  notes: Sub-unit of secretary-of-state; publishes (if at all) under the parent agency's oregon.gov domain/section
+    rather than a separate site. See parent entry for that agency's policy-publication finding.
+- slug: secretary-of-state-audits-division
+  name: Secretary of State, Audits Division
+  status: covered_by_parent
+  covered_by: secretary-of-state
+  confidence: medium
+  notes: Sub-unit of secretary-of-state; publishes (if at all) under the parent agency's oregon.gov domain/section
+    rather than a separate site. See parent entry for that agency's policy-publication finding.
+- slug: secretary-of-state-business-services-division
+  name: Secretary of State, Business Services Division
+  status: covered_by_parent
+  covered_by: secretary-of-state
+  confidence: medium
+  notes: Sub-unit of secretary-of-state; publishes (if at all) under the parent agency's oregon.gov domain/section
+    rather than a separate site. See parent entry for that agency's policy-publication finding.
+- slug: secretary-of-state-corporation-division
+  name: Secretary of State, Corporation Division
+  status: covered_by_parent
+  covered_by: secretary-of-state
+  confidence: medium
+  notes: Sub-unit of secretary-of-state; publishes (if at all) under the parent agency's oregon.gov domain/section
+    rather than a separate site. See parent entry for that agency's policy-publication finding.
+- slug: secretary-of-state-elections-division
+  name: Secretary of State, Elections Division
+  status: covered_by_parent
+  covered_by: secretary-of-state
+  confidence: medium
+  notes: Sub-unit of secretary-of-state; publishes (if at all) under the parent agency's oregon.gov domain/section
+    rather than a separate site. See parent entry for that agency's policy-publication finding.
