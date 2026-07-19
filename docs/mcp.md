@@ -45,8 +45,37 @@ Client config for a remote server: `{"type": "http", "url": "https://host/mcp"}`
 `claude mcp add --transport http oregon-policy https://host/mcp`).
 
 **If exposed publicly**: the server has no auth — put it behind a reverse proxy with
-TLS + access control. The container bakes the corpus in at build time; rebuild to
-pick up new commits.
+TLS + access control, or accept that it's unauthenticated (fine for this corpus, since
+everything served is public Oregon law/policy text). The container bakes the corpus in
+at build time; rebuild to pick up new commits.
+
+**`--public-hostname`**: the MCP SDK's DNS-rebinding protection rejects any `Host`
+header it doesn't recognize (defaults to `127.0.0.1`/`localhost` only) — a reverse
+proxy or tunnel that forwards a different Host will get `421 Invalid Host header`
+until you pass `--public-hostname <your-hostname>`. This is not a secret (it's the
+server's own public DNS name); it only widens the allow-list, never anything auth-like.
+
+### Production deployment (Cloudflare Tunnel example)
+
+This repo's own instance runs this way: `systemd` service running
+`src/mcp_server.py --http --host 127.0.0.1 --port 8000 --public-hostname <hostname>`,
+fronted by a Cloudflare Tunnel (`cloudflared tunnel run`) that terminates TLS and
+proxies `<hostname>` to `127.0.0.1:8000`. Nothing about the tunnel lives in this repo:
+
+- `cloudflared tunnel create <name>` writes credentials to `~/.cloudflared/<uuid>.json`
+  on the host — outside any repo checkout, by cloudflared's own default.
+- The tunnel's `config.yml` (which references that credentials file by path) also
+  lives under `~/.cloudflared/`, never in-repo.
+- `.gitignore` has a belt-and-suspenders block (`.cloudflared/`, `*.pem`,
+  `cloudflared-*.json`, `.env*`, etc.) in case a credentials file is ever created
+  inside a checkout by habit — it should never need to fire, but it's there.
+- Two systemd units (`oregon-policy-mcp.service`, `cloudflared-<name>.service`) run
+  the app and the tunnel as ordinary host services; neither unit file nor its content
+  is repo-tracked, since they're deploy-environment-specific (paths, the tunnel name)
+  rather than portable application config.
+
+Rotating credentials: `cloudflared tunnel delete <name>` invalidates the old
+credentials file; create a new tunnel and update the systemd unit/DNS route.
 
 ## Tools
 

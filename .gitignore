@@ -5,3 +5,15 @@ node_modules/
 .DS_Store
 changed-sources.tsv
 _meta/.cache/
+
+# Deploy-time secrets: this repo's own MCP server is deployed via a Cloudflare
+# Tunnel whose credentials live in ~/.cloudflared/ on the host, never in-repo (see
+# docs/mcp.md). These patterns are a safety net in case one is ever dropped here
+# by habit -- they must never be committed.
+.cloudflared/
+*.pem
+cert.pem
+cloudflared-*.json
+tunnel-*.json
+*.env
+.env.*

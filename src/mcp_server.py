@@ -4,6 +4,8 @@
   python3 src/mcp_server.py                  # stdio (Claude Code / Claude Desktop)
   python3 src/mcp_server.py --http           # streamable-HTTP on 127.0.0.1:8000
   python3 src/mcp_server.py --http --host 0.0.0.0 --port 8080
+  python3 src/mcp_server.py --http --public-hostname mcp.example.com  # behind a
+                                              # reverse proxy/tunnel (see docs/mcp.md)
 
 Client setup, tool reference, and deploy notes: docs/mcp.md.
 Requires the `mcp` SDK (see requirements.txt); the query engine itself (mcp_lib) is
@@ -105,11 +107,25 @@ def main():
     ap.add_argument("--http", action="store_true", help="streamable-HTTP instead of stdio")
     ap.add_argument("--host", default="127.0.0.1")
     ap.add_argument("--port", type=int, default=8000)
+    ap.add_argument("--public-hostname", default="",
+                    help="Host header to additionally allow (e.g. mcp.example.com) — "
+                         "required when served through a reverse proxy or tunnel that "
+                         "forwards a different Host header than --host; the MCP SDK's "
+                         "DNS-rebinding protection rejects any Host it doesn't "
+                         "recognize. Not a secret — it's the server's own public name.")
     args = ap.parse_args()
     mcp_lib.ensure_index()  # warm the FTS cache before serving
     if args.http:
         mcp.settings.host = args.host
         mcp.settings.port = args.port
+        if args.public_hostname:
+            from mcp.server.transport_security import TransportSecuritySettings
+            mcp.settings.transport_security = TransportSecuritySettings(
+                allowed_hosts=["127.0.0.1:*", "localhost:*", "[::1]:*",
+                              args.public_hostname],
+                allowed_origins=["http://127.0.0.1:*", "http://localhost:*",
+                                 "http://[::1]:*", f"https://{args.public_hostname}"],
+            )
         mcp.run(transport="streamable-http")
     else:
         mcp.run()
