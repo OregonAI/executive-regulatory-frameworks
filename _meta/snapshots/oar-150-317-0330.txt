@@ -1,0 +1,288 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 317 CORPORATION EXCISE TAX ACT OF 1929: RULES AND GENERAL PROVISIONS 
+ 150-317-0330 
+ Modification for Dividends Received
+ 
+ 
+ (1) For dividends received or accrued after December 31, 1987, in tax years ending after December 31, 1987, a corporation is allowed to subtract from federal taxable income 80 percent of dividends received or deemed received from another corporation. Dividends deemed received includes subpart F income included in federal taxable income pursuant to IRC section 951. In order to take the Oregon dividends received deduction, however, the taxpayer must first add back the federal dividend received deductions allowed by IRC sections 243 and 245 and the dividends eliminated under the federal consolidation rules. Exceptions to this general rule are as follows: 
+
+ (a) Dividends received from corporations owned less than 20 percent by the recipient must be reduced by a 70 percent rather than 80 percent dividends received deduction for dividends received or accrued after December 31, 1987. 
+
+ (b) Dividends received from a foreign sales corporation and deducted under IRC section 245(c) are not added back. These dividends are totally excluded from Oregon taxable income. 
+
+ (c) Dividends received from a related domestic international sales corporation are totally excluded from Oregon taxable income. A subtraction is allowed for these dividends to the extent they are included in federal taxable income. 
+
+ (d) Dividend income included in federal taxable income pursuant to the “gross-up” provisions of IRC section 78 is not taxable by Oregon. These dividends are subtracted in full under ORS 317.273. 
+
+ (e) Dividends eliminated under IRC section 243(a)(3) are not added back to federal taxable income on the Oregon return if the recipient and the payer corporations are both members of the same unitary group filing an Oregon consolidated tax return. If they are not members of the same Oregon consolidated group, the 100 percent federal dividend deduction is added back to federal taxable income and the appropriate Oregon dividends received deduction is subtracted. 
+
+ (2) Unlike the federal dividend received deduction, the Oregon deduction is permitted on dividends received or deemed received from foreign as well as domestic corporations. Income included in federal taxable income pursuant to IRC section 951(a) qualifies for the dividend received deduction. Such income is a dividend “deemed received.” Dividends from tax exempt corporations and dividends that qualify for a federal dividend deduction limited to a certain measure of income qualify for the full Oregon dividend deduction. An example of the latter is a dividend from a Federal Home Loan Bank. 
+
+ (3) An Oregon dividends received deduction is not allowed with respect to “dividends” that are not treated as dividends under federal law or dividends that are not included in federal taxable income as provided in ORS 317.267(1). For tax years beginning on or after January 1, 2006, ORS 317.267(2)(b) provides that a dividend that is not treated as a dividend under IRC section 243(d) or 965(c)(3) may not be treated as a dividend for purposes of the Oregon dividends received deduction. 
+
+ Example: L Corporation received $10,000 in “dividend” income from a mutual savings bank. L Corporation does not own stock in the bank. The $10,000 represents interest income on funds deposited in the mutual savings bank, and not dividend income. Since these “dividends” are not treated as dividends for purposes of the federal dividends received deduction under the provisions of IRC section 243(d)(1), they are not eligible for the Oregon dividends received deduction. 
+
+ (4) For tax years beginning on or after January 1, 2006, a taxpayer may not claim an Oregon dividend received deduction for a dividend if the federal dividends received deduction is not allowed because of IRC section 246(a) or (c). 
+
+ (5) In the case of dividends on debt-financed portfolio stock, the percentage of the Oregon dividend received deduction will be reduced in the same manner as the federal deduction under IRC section 246A. 
+
+ (6) For tax years beginning before January 1, 2007, a dividends received deduction allowed under IRC section 965 for federal tax purposes is allowed in determining taxable income under ORS chapter 317 for the same tax year as the deduction is allowed for federal tax purposes. IRC section 965 provides a temporary dividends received deduction for cash dividends received from controlled foreign corporations. 
+
+ (7) In the case of any dividend received from an alien, domestic, or foreign insurer that would be included in the taxpayer’s consolidated Oregon return but for the application of ORS 317.710 (5) or (7), the Oregon dividends received deduction is 100%. 
+
+ [Publications: C ontact the Oregon Department of Revenue for information about how to obtain a copy of the publication referred to or incorporated by reference in this rule pursuant to ORS 183.360(2) and ORS 183.355(1)(b).] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 
+ 
+ 
+ Statutes/Other Implemented:  ORS 317.267 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 71-2017, amend filed 12/22/2017, effective 01/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 150-317.267-(B), REV 68-2016, f. 8-15-16, cert. ef. 9-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 3-2005, f. 12-30-05, cert. ef. 1-1-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 2-2003, f. & cert. ef. 7-31-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RD 9-1992, f. 12-29-92, cert. ef. 12-31-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RD 12-1990, f. 12-20-90, cert. ef. 12-31-90 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RD 7-1989, f. 12-18-89, cert. ef. 12-31-89 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RD 15-1987, f. 12-10-87, cert. ef. 12-31-87 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RD 12-1985, f. 12-16-85, cert. ef. 12-31-85 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

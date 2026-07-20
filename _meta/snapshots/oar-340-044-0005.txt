@@ -1,0 +1,336 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 44 CONSTRUCTION AND USE OF WASTE DISPOSAL WELLS OR OTHER UNDERGROUND INJECTION ACTIVITIES (UNDERGROUND INJECTION CONTROL) 
+ 340-044-0005 
+ Definitions
+ 
+ 
+ As used in these regulations unless the context requires otherwise: 
+
+ (1) “Absorption Facility” means a system receiving the flow from septic tanks or other treatment units to distribute wastewater for oxidation and absorption by the soil within the zone of aeration. 
+
+ (2) “Aquifer” means an underground zone holding water that is capable of yielding a significant amount of water to a well or spring. 
+
+ (3) “Aquifer Storage and Recovery” means the storage of water from a separate source that meets drinking water standards in a suitable aquifer for later recovery and not having as one of its primary purposes the restoration of the aquifer. 
+
+ (4) “Authorized Representatives” means the staff of the Department or of the local unit of government performing duties for and under agreement with the Department as authorized by the Director to act for the Department. 
+
+ (5) “Best Management Practices (BMPs)” for storm water means schedules of activities, prohibitions of practices, maintenance procedures or other management practices to prevent or reduce the pollution of waters of the state. BMPs for storm water may include operational and structural source controls that minimize and prevent contaminants from entering storm water as well as treatment BMPs that remove contaminants contained in storm water runoff before disposal or discharge. 
+
+ (6) “Cesspool” means a receptacle that receives sewage, allows separation of solids and liquids, retains the solids and allows liquids to seep into the surrounding soil through perforations in the lining or an open bottom. 
+
+ (7) “Commercial” means a type of business activity that may distribute goods or provide services, but does not involve the manufacturing, processing or production of goods. 
+
+ (8) “Confinement Barrier” means a naturally occurring zone in subsurface soil or bedrock that prevents the movement of liquids and contaminants into the underlying groundwater aquifer and which may act as a confining unit to an underlying groundwater aquifer. 
+
+ (9) “Construction” includes installation, alteration, repair or extension. 
+
+ (10) “Contaminant” means any chemical, ion, radionuclide, synthetic organic compound, microorganism, waste or other substance that does not occur naturally in groundwater or that occurs naturally but at a lower concentration. 
+
+ (11) “Contamination” means introduction of a contaminant. 
+
+ (12) “Department” means the Department of Environmental Quality. 
+
+ (13) “Director” means the Director of the Department of Environmental Quality or the Director’s authorized designee. 
+
+ (14) “Drywell” means a well, other than a subsurface fluid distribution system, completed so that its bottom and sides are typically dry except when receiving fluids. 
+
+ (15) “Fluid” means any material or substance that flows or moves whether in a semisolid, liquid, sludge, gas or any other form or state. 
+
+ (16) “Governmental Unit” means the state or federal government or any agency thereof. 
+
+ (17) “Groundwater Point Source” means any confined or discrete source of pollution where contaminants can either enter into, or be conveyed by the movement of water, to public waters. 
+
+ (18) “Hazardous Substance” means: 
+
+ (a) Hazardous waste. 
+
+ (b) Any substance defined as a hazardous substance pursuant to section 101(14) of the federal Comprehensive Environmental Response, Compensation and Liability Act. 
+
+ (c) Oil or petroleum products. 
+
+ (d) Any substance designated by the Environmental Quality Commission under ORS 465.400. 
+
+ (19) “Hazardous Waste” means a waste as defined in ORS 466.005 or 40 CFR 261.3. 
+
+ (20) “Improved Sinkhole” means a naturally occurring depression, rock fracture, or other natural crevice, found in volcanic or other types of bedrock formations, that has been modified for the purpose of directing and emplacing fluids into the subsurface. 
+
+ (21) “Industrial Activities” for the purpose of storm water injection control means, but is not limited to, manufacturing, processing and material handling activities and those areas of an industrial facility associated with such activities. Material handling activities include the storage, loading and unloading, transport or conveyance of any raw material, intermediate product, final product or waste product, and specifically includes hazardous substances, toxic materials and petroleum products. 
+
+ (22) “Industrial Waste” means any liquid, gaseous, radioactive or solid waste substance or a combination thereof resulting from any process of industry, manufacturing, trade or business, or from the development or recovery of any natural resources. 
+
+ (23) “Injection” or “Underground Injection” means the emplacement or discharge of fluids into the subsurface. 
+
+ (24) “Injection System” or “Underground Injection System” means a well, improved sinkhole, sewage drain hole, subsurface fluid distribution system or other system or groundwater point source used for the subsurface emplacement or discharge of fluids. 
+
+ (25) “Low-Temperature Geothermal Fluid” means any groundwater used for its thermal characteristics that is encountered in a well with a bottom hole temperature of less than 250 degrees Fahrenheit. 
+
+ (26) “Mine Backfill” means mine tailings, sand or other solids with fluids used to fill mined-out portions of subsurface mines. 
+
+ (27) “Municipal Sanitary Sewer Service” means a sanitary waste collection, transmission or treatment facility owned and operated by a municipality. 
+
+ (28) “Municipality” means any county, city, special service district, or other governmental entity. 
+
+ (29) “North American Industry Classification System” or “NAICS” means the system used for classifying businesses and reporting industry statistics adopted in 1997 for United States federal agency implementation that replaces the Standard Industrial Code (SIC) system. 
+
+ (30) “On-Site Sewage Disposal System” means a sewage disposal system such as a standard subsurface, alternative or experimental system as defined in OAR 340-071 that is installed on land of the owner of the system or on other land on which the owner of the system has the legal right to install the system. 
+
+ (31) “Owner or Operator” means any person who alone, or jointly, or severally with others: 
+
+ (a) Owned, leased, operated, controlled or exercised significant control over the operation of a facility; 
+
+ (b) Has legal title to any lot, dwelling, or dwelling unit; 
+
+ (c) Has care, charge, or control of any real property as agent, executor, executrix, administrator, administratrix, trustee, lessee or guardian of the estate of the holder of legal title; or 
+
+ (d) Is the contract purchaser of real property. 
+
+ (32) “Permit” means a written authorization from the Director or the Director’s authorized designees to discharge wastes or construct, install, modify or operate a disposal system. A Water Pollution Control Facilities (WPCF) permit is one type of permit. 
+
+ (33) “Person” means the United States and agencies thereof, any state, any individual, public or private corporation, political subdivision, governmental agency, municipality, industry, copartnership, association, firm, trust, estate or any other legal entity whatsoever. 
+
+ (34) “Pollution” means alteration of the physical, chemical or biological properties of any waters of the state, including changes in temperature, taste, color, turbidity, silt or odor of the waters, or such discharge of any liquid, gaseous, solid, radioactive or other substance into any waters of the state, which will or tends to, either by itself or in connection with any other substance, create a public nuisance or which will or tends to render such waters harmful, detrimental or injurious to public health, safety or welfare, or to domestic, commercial, industrial, agricultural, recreational or other legitimate beneficial uses or to livestock, wildlife, fish or other aquatic life or the habitat thereof. 
+
+ (35) “Radioactive Waste” means waste as defined in ORS 469.300 or that contains radioactive material in concentrations that exceed those listed in 10 CFR Part 20, Appendix B, Table II, Column 2. 
+
+ (36) “Sanitary Waste” means liquid or solid wastes originating solely from humans and human activities, such as wastes collected from toilets, showers, wash basins, sinks used for cleaning domestic areas, sinks used for food preparation, clothes washing operations and sinks or washing machines where food and beverage serving dishes, glasses and utensils are cleaned. Sources of these wastes may include, but are not limited to, single or multiple residences, hotels and motels, restaurants, bunkhouses, schools, ranger stations, crew quarters, guard stations, campgrounds, picnic grounds, day-use recreation areas, other commercial facilities and industrial facilities provided the waste is not mixed with industrial waste. The combination of industrial waste and sewage is not considered sanitary waste. 
+
+ (37) “Seepage Pit” means a type of absorption facility that is a covered pit with an open-jointed lining through which septic tank effluent may seep or leach into surrounding soil. 
+
+ (38) “Septic System” means a system used to emplace sanitary waste below the surface and is typically comprised of a septic tank and subsurface fluid distribution or disposal system. 
+
+ (39) “Sewage” means the water-carried human or animal waste from residences, buildings, industrial establishments or other places, together with such groundwater infiltration, surface water or industrial waste as may be present. 
+
+ (40) “Sewage Drain Hole” or “Sewage Drill Hole” means a drilled, hammered or blasted borehole or natural lava crack or fissure used for sewage or sanitary waste disposal, and that may include a septic tank ahead of the disposal well. 
+
+ (41) “Storm Water” means water from precipitation or snow melt that collects on or runs off outdoor surfaces such as buildings, roads, paved surfaces and unpaved land surfaces. 
+
+ (42) “Subsurface Fluid Distribution System” means an assemblage of perforated pipes, drain tiles or other mechanisms intended to distribute fluids below the surface of the ground. 
+
+ (43) “Surface Infiltration” means fluid movement from the ground surface into the underlying soil material without the use of a subsurface fluid distribution system or injection system. 
+
+ (44) “Time-of-Travel” means the amount of time it takes groundwater to flow within an aquifer to a given well. 
+
+ (45) “Toxic Material” means any material that will cause or can reasonably be expected to cause a hazard to aquatic, human or animal life. 
+
+ (46) “Underground Source of Drinking Water” means an aquifer or groundwater source that supplies or potentially could supply drinking water for human consumption. 
+
+ (47) “Vehicle Trips” means a one-direction vehicle movement either entering or exiting a facility. 
+
+ (48) “Waste Disposal Well” means a well used to dispose of wastes. 
+
+ (49) “Wastes” means sewage, industrial wastes, agricultural wastes, and all other liquid, gaseous, solid, radioactive or other substances which will or may cause pollution or tend to cause pollution of any waters of the state. 
+
+ (50) “Waters of the State” or “Public Waters” means lakes, bays, ponds, impounding reservoirs, springs, wells, rivers, streams, creeks, estuaries, marshes, inlets, canals, the Pacific Ocean within the territorial limits of the State of Oregon and all other bodies of surface or underground waters, natural or artificial, inland or coastal, fresh or salt, public or private (except those private waters which do not combine or effect a junction with natural surface or underground waters), which are wholly or partially within or bordering the state or within its jurisdiction. 
+
+ (51) “Well” means a bored, drilled, driven or dug hole whose depth is greater than its largest surface dimension, an improved sinkhole, a sewage drain hole, or a subsurface fluid distribution system. 
+
+ (52) “WPCF Permit” means a Water Pollution Control Facilities permit as defined in OAR 340-045 to construct and operate a disposal system with no discharge to navigable waters. 
+
+ [Publications: Publications referenced are available from the agency.] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 454.625, 468.020, 468B.020 & 468B.165 
+ 
+ 
+ Statutes/Other Implemented:  ORS 454.605 & 468.005 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 44-2018, minor correction filed 04/02/2018, effective 04/02/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 8-2001, f. 7-13-01, cert. ef. 9-20-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 15-1983, f. & ef. 8-26-83 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 35-1979, f. & ef. 12-19-79 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SA 41, f. 5-15-69 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

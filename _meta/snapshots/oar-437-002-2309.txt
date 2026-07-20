@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Oregon Occupational Safety and Health Division - Chapter 437 
+ 
+ 
+ 
+ 
+ Division 2 GENERAL OCCUPATIONAL SAFETY AND HEALTH RULES 
+ 437-002-2309 
+ Live-line Tools 
+ 
+ (1) Live-line tools must be used by employees when doing work on energized lines and equipment in excess of 5,000 volts.  (2) Live-line tools must be used while handling foreign objects that are in contact with high voltage equipment or conductors energized in excess of 5,000 volts.  (3) Only live-line tools that are tested and warranted by the manufacturer at the time of purchase to be adequate for the voltage involved must be used.  (4) Design of tools. Live-line tool rods, tubes, and poles must be designed and constructed to withstand the following minimum tests:  (a) If the tool is made of fiberglass-reinforced plastic (FRP), it must withstand 328,100 volts per meter (100,000 volts per foot) of length for 5 minutes, or  NOTE to paragraph (4)(a): Live-line tools using rod and tube that meet ASTM F711-02 (2007), Standard Specification for Fiberglass-Reinforced Plastic (FRP) Rod and Tube Used in Live Line Tools, are deemed to comply with paragraph (4) of this rule.  (b) If the tool is made of wood, it must withstand 246,100 volts per meter (75,000 volts per foot) of length for 3 minutes, or  (c) The tool must withstand other tests that the employer can demonstrate are equivalent.  (5) Condition of tools.  (a) Each live-line tool must be wiped clean and visually inspected for defects before use each day.  (b) If any defect or contamination that could adversely affect the insulating qualities or mechanical integrity of the live-line tool is present after wiping, the tool must be removed from service and examined and tested according to paragraph (5)(c) of this rule before being returned to service.  (c) Live-line tools used for primary employee protection must be removed from service every 2 years, and whenever required under paragraph (5)(b) of this rule, for examination, cleaning, repair, and testing as follows:  (A) Each tool must be thoroughly examined for defects.  (B) If a defect or contamination that could adversely affect the insulating qualities or mechanical integrity of the live-line tool is found, the tool must be repaired and refinished or must be permanently removed from service. If no such defect or contamination is found, the tool must be cleaned and waxed.  (C) The tool must be tested in accordance with paragraphs (5)(c)(D) and (5)(c)(E) of this rule under the following conditions:  (i) After the tool has been repaired or refinished; and  (ii) After the examination if repair or refinishing is not performed, unless the tool is made of FRP rod or foam-filled FRP tube and the employer can demonstrate that the tool has no defects that could cause it to fail during use.  (D) The test method used must be designed to verify the tool's integrity along its entire working length and, if the tool is made of fiberglass-reinforced plastic, its integrity under wet conditions.  (E) The voltage applied during the tests must be as follows:  (i) 246,100 volts per meter (75,000 volts per foot) of length for 1 minute if the tool is made of fiberglass, or  (ii) 164,000 volts per meter (50,000 volts per foot) of length for 1 minute if the tool is made of wood, or  (iii) Other tests that the employer can demonstrate are equivalent.  (d) Live-line tools may not be used when rain, fog, or any other factor is sufficient to reduce their insulating qualities so that leakage can be felt.  (e) Live-line tools must be kept in a dry place. When transporting, they must be kept in separate special storage compartments, or be contained in protective bags. They may not be laid directly on the ground.  NOTE to paragraph (5) of this rule: Guidelines for the examination, cleaning, repairing, and in-service testing of live-line tools are specified in the Institute of Electrical and Electronics Engineers' IEEE Guide for Maintenance Methods on Energized Power Lines, IEEE Std 516-2009. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 654.025(2) & 656.726(4) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 654.001 - 654.295 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSHA 3-2015, f. 10-9-15, cert. ef. 1-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

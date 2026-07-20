@@ -1,0 +1,327 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 130 MEDICAL-SURGICAL SERVICES 
+ 410-130-0240 
+ Medical Services
+ 
+ 
+ (1) Coverage of medical and surgical services is subject to the Health Evidence Review Commission’s (HERC) Prioritized List of Health Services (Prioritized List). Medical and surgical services requiring prior authorization (PA) are listed in Oregon administrative rule (OAR or rule) 410-130-0200, PA Table 130-0200-1, and medical and surgical services that are Not Covered/Bundled services are listed in OAR 410-130-0220, Table 130-0220-1. 
+
+ (2) Coverage for acupuncture services by an enrolled acupuncture provider are subject to the HERC Prioritized List and the client’s benefit plan. 
+
+ (3) Coverage for medically appropriate chiropractic services provided by an enrolled chiropractor is subject to the HERC Prioritized List and benefit plan for: 
+
+ (a) Diagnostic visits including evaluation and management services; 
+
+ (b) Chiropractic care including manipulative treatment; 
+
+ (c) Laboratory and radiology services. 
+
+ (4) Maternity care and delivery: 
+
+ (a) The Division may consider payment for delivery within a hospital, clinic, birthing center, or home setting; 
+
+ (b) For out-of-hospital births, the Division may only consider payment for labor and delivery care of women experiencing low risk pregnancy. The Division will determine whether a pregnancy can be considered low risk and an out-of-hospital birth is eligible for payment; 
+
+ (c) During the Coronavirus (COVID-19) outbreak state of emergency initiated under governor Kate Brown’s executive order 20-03 and any subsequent executive order extending the state of emergency, the division adopts tables 410-130-0240-1, 410-130-0240-2, 410-130-0240-3 and 410-130-0240-4, superseding the requirements in the Prioritized List of Health Services Guideline Note 153 for the purposes described below. 
+
+ (d) During the Coronavirus (COVID-19) outbreak state of emergency initiated under governor Kate Brown’s executive order 20-03 and any subsequent executive order extending the state of emergency, the division adopts Table 410-130-0240-1 and Table 410-130-0240-3 to outline the absolute risk factors that, if present, would preclude payment for initiation or continuation of any out-of-hospital labor and delivery care. For a planned out-of-hospital birth, the Division requires that a contingency for an in-hospital birth be included in the medical record. The division considers all conditions listed in Tables 410-130-0240-1 and 410-130-0240-3 to necessitate an in-hospital birth if present or anticipated to be present at the onset of labor. The Division may deny payment for labor and delivery services in an out-of-hospital setting if it determines that an in-hospital birth was necessary and appropriate steps to facilitate an in-hospital birth were not pursued. The Division may also deny payment for services if appropriate risk assessments were not performed at initiation of care and throughout pregnancy, or when the appropriate consultation policies described in subsection (e) were not followed. When an in-hospital birth becomes necessary for a client that was seeking a planned out-of-hospital birth and care is transferred from one provider to another, the Division will consider payment for both providers for the portion of care provided. Bill using appropriate CPT and HCPCS codes. 
+
+ (e) During the Coronavirus (COVID-19) outbreak state of emergency initiated under governor Kate Brown’s executive order 20-03 and any subsequent executive order extending the state of emergency, the division adopts Table 410-130-0240-2 and Table 410-130-0240-4, which contain criteria requiring consultation regarding the management of risk factors during pregnancy and birth for patients receiving out-of-hospital birth care. The division may deny payment if any of the high-risk conditions in tables 410-130-0240-2 or 410-130-0240-4 arise during pregnancy, labor, delivery or the immediate postpartum period and no consultation with an appropriate provider occurs, or if the recommendations of the consulting provider are not adhered to by the out-of-hospital birth attendant in the out-of-hospital setting. For the purposes of consultation under this subsection, an appropriate consulting provider is one of the following: 
+
+ (A) A provider (MD/DO or CNM) who has active admitting privileges to manage pregnancy in a hospital, or; 
+
+ (B) An appropriate specialty consultant (e.g., maternal-fetal medicine, hepatologist, hematologist, psychiatrist). 
+
+ (f) When a provider is practicing within the authorization of his or her license, the division may consider payment for administration of drugs and devices that are used in pregnancy, birth, postpartum care, newborn care, or resuscitation and that are deemed integral to providing safe care. 
+
+ (g) For out-of-hospital births, drugs authorized in subsection (f) or this section are limited: 
+
+ (A) For out-of-hospital births, the Division will make no payment for general, spinal, caudal, or epidural anesthesia administered for care associated with labor and delivery; 
+
+ (B) For out-of-hospital births, the Division will make no payment for inducing, stimulating, or using chemical agents to augment labor during the first or second stages of labor; 
+
+ (C) For out-of-hospital births, the Division will consider payment for chemical agents administered to inhibit labor only as a temporary measure until referral or transfer of the client to a higher level of care is complete. 
+
+ (h) Within the home setting, the Division may consider payment for appropriate supplies in addition to delivery payment. The additional payment for supplies includes all supplies, equipment, staff assistance, and newborn screening cards; 
+
+ (i) During labor in an out-of-hospital setting, should any of the risk factors outlined in Table 410-130-0240-3 develop, the Division requires that the client will be transferred to a hospital, and the Division may deny payment for labor and delivery services if it determines that appropriate steps to facilitate the transfer were not pursued. Appropriate transfer of care must be in accordance with the practitioner’s licensure requirements. When labor management does not result in a delivery, and the client is appropriately transferred to a higher level of care, the provider shall code for labor management only. Bill code 59899 and attach appropriate clinical documentation of services performed with respect to labor management. The Division may also deny payment for services if appropriate risk assessments were not performed during labor, or when the appropriate consultation policies described in subsection (e) were not followed; 
+
+ (j) For births in an out-of-hospital setting, should any of the risk factors outlined in Table 410-130-0240-3 develop during the postpartum period in the mother, the Division requires that the mother will be transferred to a hospital, and the Division may deny payment for labor and delivery services if it determines that appropriate steps to facilitate the transfer were not pursued. Appropriate transfer of care must be in accordance with the practitioner’s licensure requirements. The Division will consider payment for both providers for the portion of care provided when appropriate. The Division may also deny payment for services if appropriate risk assessments were not performed at initiation of care and throughout pregnancy, or when the appropriate consultation policies described in subsection (e) were not followed; 
+
+ (k) For multiple vaginal births, use the appropriate CPT code for the first delivery. Use the delivery-only code for the subsequent deliveries. The Division will reimburse the first delivery at 100 percent and the subsequent deliveries at 50 percent of the delivery-only code's maximum allowance. For multiple babies delivered via cesarean section, the Division pays for the cesarean section only once. 
+
+ (l) The division may deny payment or authorization for planned out-of-hospital birth when conditions arise which in the Division’s judgment create a situation in which a planned out-of-hospital birth is not medically appropriate. For example, having multiple risk conditions requiring consultation may increase the risk sufficiently to indicate the need for transfer of care.  
+
+ (5) Neonatal Intensive Care Unit (NICU) procedures: 
+
+ (a) Are reimbursed only to neonatologists and pediatric intensivists for services provided to infants when admitted to a Neonatal or Pediatric Intensive Care Unit (NICU/PICU). All other pediatricians must use other CPT codes when billing for services provided to neonates and infants; 
+
+ (b) Neonatal intensive care codes are not payable for infants on Extracorporeal Membrane Oxygenation (ECMO). Use appropriate CPT ECMO codes. 
+
+ (6) Neurology or Neuromuscular payment for polysomnograms and multiple sleep latency tests (MSLT) are each limited to two in a 12-month period. 
+
+ (7) Oral health services provided by medical practitioners may include an oral assessment and application of topical fluoride varnish during a medical visit for children. Refer to OAR 410-123-1260 Dental Services program rule. 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.025 & 414.065 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 54-2020, temporary amend filed 09/30/2020, effective 10/01/2020 through 03/29/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 50-2020, amend filed 09/24/2020, effective 09/27/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 17-2020, temporary amend filed 04/01/2020, effective 04/01/2020 through 09/27/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 73-2014, f. 12-9-14, cert. ef. 1-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ DMAP 23-2014, f. & cert. ef. 4-4-14 
+DMAP 75-2013(Temp), f. 12-31-13, cert. ef. 1-1-14 thru 6-30-14 
+DMAP 27-2013, f. & cert. ef. 6-25-13 
+DMAP 58-2012(Temp), f. 12-27-12, cert. ef. 12-28-12 thru 6-25-13 
+DMAP 18-2009, f. 6-12-09, cert. ef. 7-1-09 
+OMAP 26-2006, f. 6-14-06, cert. ef. 7-1-06 
+OMAP 8-2005, f. 3-9-05, cert. ef. 4-1-05 
+OMAP 88-2004, f. 11-24-04, cert. ef. 12-1-04 
+OMAP 58-2004, f. 9-10-04, cert. ef. 10-1-04 
+OMAP 13-2004, f. 3-11-04, cert. ef. 4-1-04 
+OMAP 69-2003, f. 9-12-03, cert. ef. 10-1-03 
+OMAP 23-2003, f. 3-26-03 cert. ef. 4-1-03 
+OMAP 40-2001, f. 9-24-01, cert. ef. 10-1-01 
+OMAP 13-2001, f. 3-30-01, cert. ef. 4-1-01 
+OMAP 31-2000, f. 9-29-00, cert. ef. 10-1-00 
+OMAP 17-1999, f. & cert. ef. 4-1-99 
+OMAP 3-1998, f. 1-30-98, cert. ef. 2-1-98 
+HR 4-1997, f. 1-31-97, cert. ef. 2-1-97 
+HR 10-1996, f. 5-31-96, cert. ef. 6-1-96 
+HR 42-1994, f. 12-30-94, cert. ef. 1-1-95 
+HR 6-1994, f. & cert. ef. 2-1-94, Renumbered from 410-130-0320, 410-130-0340, 410-130-0360 & 410-130-0740 
+HR 16-1993, f. & cert. ef. 7-2-93 
+HR 40-1992, f. 12-31-92, cert. ef. 2-1-93 
+HR 36-1992, f. & cert. ef. 12-1-92 
+HR 18-1992, f. & cert. ef. 7-1-92 
+HR 8-1992, f. 2-28-92, cert. ef. 3-1-92 
+HR 2-1992, f. & cert. ef. 1-2-92 
+HR 24-1991, f. & cert. ef. 6-18-91 
+HR 19-1991, f. 4-12-91, cert. ef. 5-1-91 
+HR 18-1991(Temp), f. 4-12-91, cert. ef. 4-15-91 
+HR 14-1991(Temp), f. & cert. ef. 3-7-91 
+HR 10-1990, f. 3-30-90, cert. ef. 4-1-90, Renumbered from 461-014-0650, 461-014-0690 & 461-014-0700 
+AFS 48-1989, f. & cert. ef. 8-24-89, Renumbered from 461-014-0021 & 461-014-0056 
+AFS 48-1989, f. & cert. ef. 8-24-89 
+AFS 5-1989(Temp), f. 2-9-89, cert. ef. 3-1-89; AFS 48-1989, f. & cert. ef. 8-24-89 
+AFS 56-1987, f. 10-29-87, cert. ef. 11-1-87 
+AFS 50-1986, f. 6-30-86, cert. ef. 8-1-86 
+AFS 29-1985, f. 5-22-85, cert. ef. 5-29-85 
+AFS 48-1984(Temp), f. 11-30-84, cert. ef. 12-1-84 
+AFS 57-1983, f. 11-29-83, cert. ef. 1-1-84 
+AFS 38-1983, f. & cert. ef. 8-1-83 
+AFS 27-1982, f. 4-22-82 & AFS 51-1982, f. 5-28-82, cert. ef. 5-1-82 for providers located in the geographical areas covered by the AFS branch offices located in North Salem, South Salem, Dallas, Woodburn, McMinnville, Lebanon, Albany and Corvallis, cert. ef. 6-30-82 for remaining AFS branch offices 
+AFS 36-1981, f. 6-29-81, cert. ef. 7-1-81 
+AFS 2-1981, f. 1-9-81, cert. ef. 2-1-81 
+AFS 56-1980(Temp), f. 8-29-80, cert. ef. 9-1-80 
+AFS 26-1980, f. 5-21-80, cert. ef. 6-1-80 
+AFS 31-1978, f. & cert. ef. 8-1-78 
+AFS 14-1978(Temp), f. 4-14-78, cert. ef. 4-15-78 
+PWC 868, f. 12-30-77, cert. ef. 2-1-78 
+PWC 849, f. 7-15-77, cert. ef. 8-1-77 
+PWC 839(Temp), f. & cert. ef. 4-28-77 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

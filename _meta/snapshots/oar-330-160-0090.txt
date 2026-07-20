@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Energy 
+ Chapter 330 
+ 
+ 
+ 
+ 
+ 
+ Division 160 ESTABLISH A RENEWABLE ENERGY CERTIFICATE SYSTEM FOR THE OREGON RENEWABLE PORTFOLIO STANDARD (RPS) 
+ 330-160-0090 
+ Metering, Monitoring, and Reporting of Qualifying Thermal Energy 
+ 
+ In order to be eligible to generate T-RECs, a facility must meet all the requirements of this Rule. Qualifying thermal energy must be measured, monitored, and reported using the following methods:  (1) Metering:  (a) Large facilities: For facilities with the capacity to generate one or more T-RECs per hour of operation (3.412 million Btu/hr), the generator representative must have installed a thermal energy measurement system to continually measure qualifying thermal energy. The thermal energy delivered to the secondary purpose must be metered. All parameters needed to determine thermal energy to the secondary purpose must be directly measured.  (b) Small facilities: For facilities with the capacity to generate less than one T-REC per hour of operation (3.412 million Btu/hr), the generator representative must have installed a thermal energy measurement system to measure qualifying thermal energy delivered to the secondary purpose. Calculation parameters, such as heat capacity, and directly measured parameters, such as temperature and pressure, that do not vary more than +/-2% for the full range of expected operating conditions, may be evaluated on an annual basis and used in the calculation methodology as a constant. These parameters may be based on such sources as manufacturers’ published ratings or one-time measurements, but must be clearly defined and explained in the thermal energy measurement plan required under Subsection(e). All other parameters used to determine the amount of qualifying thermal energy must be continually measured. The generator representative must assess the significance of the potential error that the methodology parameters have on the total annual quantity of qualifying thermal energy and include this analysis in the thermal energy measurement plan. The generator representative must also submit to the Department for approval in the thermal energy measurement plan an appropriate discount factor to be applied to the qualifying thermal energy calculation methodology, and the Department may revise this discount factor as it considers appropriate to account for variance due to parameters that are not continually measured.  (c) The thermal energy measurement system must capture sufficient data, and make necessary calculations or provide all necessary data for calculations to be made using standard engineering calculation procedures, to determine the net thermal energy used by the secondary purpose over an interval specified in the thermal energy measurement plan.  (d) Measurement system components must be installed in accordance with the manufacturer’s specifications.  (e) The generator representative must submit to the Department a thermal energy measurement plan that describes the thermal energy generating equipment, secondary purposes, data measurements to be collected, all associated measurement devices, data formats and storage, data gathering techniques, measurement system calibration, calculation methodology, discount factors, and other relevant equipment and activities that will be used to determine the quantity of qualifying thermal energy. The generator representative must also submit all necessary documentation, including drawings, specifications, piping and instrumentation diagrams, and other information as requested by the Department for system review. The thermal energy measurement system must be reviewed and approved by the Department as part of the certification of a facility as Oregon RPS-eligible.  (f) The generator representative must submit an updated measurement plan and documentation for review and approval to the Department upon the following:  (A) Changes in the configuration of the thermal energy measurement system;  (B) Installation or removal of thermal energy measurement system components;  (C) Installation of new thermal energy generation equipment or changes in thermal energy generation capacity; or  (D) Installation or removal of secondary purpose equipment, changes to secondary purpose use, or changes the secondary purpose maximum thermal energy demand;  (E) Observations that indicate the thermal energy measurement system is not performing in accordance with the thermal energy measurement plan.  (2) Monitoring  (a) Where continual measurements are required to determine the quantity of qualifying thermal energy, the generator representative must take data readings at least once per hour or more frequently as necessary to capture irregular or frequently varying parameters. For all facilities, the qualifying thermal energy produced shall be totaled for each 24 hour period, each month, and each quarter.  (b) The generator representative must retain measured data and related thermal energy calculations on-site for 5 calendar years and make records available for audit as required by the Department.  (c) Prior to measuring qualifying thermal energy for the purpose of generating T-RECs, the generator representative must perform, or have performed, an initial calibration of the thermal energy measurement system and all associated measurement devices, or demonstrate that a calibration has been performed as specified by system component manufacturers or within the last 365 days of the application date for certification as Oregon RPS-eligible. All measurement devices shall be recalibrated annually or as specified by system component manufacturers to maintain specified accuracy. Calibrations must be performed using the calibration procedures specified by the meter manufacturer, calibration methods published by a consensus-based standards organization, or other industry accepted practice.  (d) Individuals designing, installing, operating, and maintaining the thermal energy measurement system must have appropriate training and certification. The generator representative must maintain documentation of maintenance and calibration activities.  (3) Reporting must be conducted in accordance with all WREGIS reporting requirements. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 469.040, 469A.130, OL 2016 & Ch. 28 
+ 
+ 
+ Statutes/Other Implemented:  ORS 469A.010 - 469A.025, 469A-130 - 469A.145, OL 2016 & Ch. 28 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 7-2016, f. & cert. ef. 12-21-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

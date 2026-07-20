@@ -1,0 +1,336 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Justice 
+ Chapter 137 
+ 
+ 
+ 
+ 
+ 
+ Division 46 MODEL RULES GENERAL PROVISIONS RELATED TO PUBLIC CONTRACTING 
+ 137-046-0110 
+ Definitions for the Model Rules
+ 
+ 
+ Unless the context of a specifically applicable definition in the Code requires otherwise, capitalized terms used in the Model Rules have the meaning set forth in the division of the Model Rules in which they appear, and if not defined there, the meaning set forth in these division 46 rules, and if not defined here, the meaning set forth in the Code. The following terms, when capitalized in these Model Rules, have the meaning given below: 
+
+ (1) “Addendum” or “Addenda” means an addition to, deletion from, a material change in, or general interest explanation of a Solicitation Document. 
+
+ (2) “Administering Contracting Agency” has the meaning set forth in ORS 279A.200(1)(a) and for Interstate Cooperative Procurements includes the entities specified in ORS 279A.220(4). 
+
+ (3) “Award” means, as the context requires, either identifying or the Contracting Agency’s identification of the Person with whom the Contracting Agency intends to enter into a Contract following the resolution of any protest of the Contracting Agency’s se election of that Person and the completion of all Contract negotiations. 
+
+ (4) “Benefit company” means a corporation or a limited liability company that is incorporated, organized, formed or created under ORS 60.754 and the corporation’s articles of incorporation state that the corporation is a benefit company subject to ORS 60.750 to 60.770. 
+
+ (5) “Bid” means a Written response to an Invitation to Bid. 
+
+ (6) “Closing” means the date and time specified in a Solicitation Document as the deadline for submitting Offers. 
+
+ (7) “Code” means the Public Contracting Code. 
+
+ (8) “Competitive Range” means the Proposers with whom the Contracting Agency will conduct discussions or negotiations if the Contracting Agency intends to conduct discussions or negotiations in accordance with OAR 137-047-0261 or 137-049-0650. 
+
+ (9) “Contract” means a contract for sale or other disposal, or a purchase, lease, rental or other acquisition, by a Contracting Agency of personal property, services, including personal services, public improvements, public works, minor alterations, or ordinary repair or maintenance necessary to preserve a public improvement. “Contract” does not include grants. 
+
+ (10) “Contract Price” means, as the context requires, the maximum monetary obligation that a Contracting Agency either will or may incur under a Contract, including bonuses, incentives and contingency amounts, if the Contractor fully performs under the Contract. 
+
+ (11) “Contract Review Authority” means: 
+
+ (a) For State Contracting Agencies, generally the Director of the Oregon Department of Administrative Services; 
+
+ (b) For Local Contracting Agencies, the Local Contracting Agency’s Local Contract Review Board determined as specified in ORS 279A.060; and 
+
+ (c) Where specified by statute, the Director of the Oregon Department of Transportation. 
+
+ (12) “Contractor” means the Person, including a Consultant as defined in OAR 137-048-0110(1), with whom a Contracting Agency enters into a Contract. 
+
+ (13) “Descriptive Literature” means Written information submitted with the Offer that addresses the Goods and Services included in the Offer. 
+
+ (14) “Disqualification” means a disqualification, suspension or debarment under ORS 200.065, 200.075 or 279A.110. 
+
+ (15) “Electronic Advertisement” means a Contracting Agency’s Solicitation Document, Request for Quotes, request for information or other document inviting participation in the Contracting Agency’s Procurements made available over the Internet via: 
+
+ (a) The World Wide Web or some other Internet protocol; or 
+
+ (b) A Contracting Agency’s Electronic Procurement System. 
+
+ (16) “Electronic Offer” means a response to a Contracting Agency's Solicitation Document or Request for Quotes submitted to a Contracting Agency via: 
+
+ (a) The World Wide Web or some other Internet protocol; or 
+
+ (b) A Contracting Agency’s Electronic Procurement System. 
+
+ (17) “Electronic Procurement System” means an information system that Persons may access through the Internet using the World Wide Web or some other Internet protocol or that Persons may otherwise remotely access using a computer, that enables Persons to send Electronic Offers and a Contracting Agency to post Electronic Advertisements, receive Electronic Offers, and conduct other activities related to a Procurement. 
+
+ (18) “Invitation to Bid” or "ITB" means the Solicitation Document issued to invite Offers from prospective Contractors under either ORS 279B.055 or 279C.335. 
+
+ (19) “Model Rules” means the Attorney General’s model rules of procedure for Public Contracting as required under ORS 279A.065. 
+
+ (20) “Offer” means a Written offer to provide Goods or Services in response to a Solicitation Document. 
+
+ (21) “Offeror” means a Person who submits an Offer. 
+
+ (22) “Opening” means the date, time and place specified in the Solicitation Document for the public opening of Offers. 
+
+ (23) “Person” means any of the following with legal capacity to enter into a Contract: individual, corporation, business trust, estate, trust, partnership, limited liability company, association, joint venture, governmental agency, public corporation or any other legal or commercial entity. 
+
+ (24) “Personal Services” as used in division 47 and as used in division 46 when applicable to division 47 means the services performed under a Personal Services Contract. “Personal Services” as used in division 48 and division 49, and as used in this division 46 when applicable to division 48 or division 49, or both, has the meaning set forth in ORS 279C.100. 
+
+ (25) “Personal Services Contract” means: 
+
+ (a) For a Local Contracting Agency, a Contract or member of a class of Contracts, other than a Contract for the services of an Architect, Engineer, Land Surveyor or Provider of Related Services (as defined in ORS 279C.100), that the Local Contracting Agency's Local Contract Review Board has designated as a personal services contract pursuant to ORS 279A.055; or 
+
+ (b) For a State Contracting Agency, a Contract, or member of a class of Contracts, other than a Contract for the services of an Architect, Engineer, Land Surveyor or Provider of Related Services (as defined in ORS 279C.100), whose primary purpose is to acquire specialized skills, knowledge and resources in the application of technical or scientific expertise, or the exercise of professional, artistic or management discretion or judgment, including, without limitation, a Contract for the services of an accountant, physician or dentist, educator, consultant, broadcaster or artist (including a photographer, filmmaker, painter, weaver or sculptor). 
+
+ (26) “Product Sample” means the exact Goods or a representative portion of the Goods offered in an Offer, or the Goods requested in the Solicitation Document as a sample. 
+
+ (27) “Proposal” means a Written response to a Request for Proposals. 
+
+ (28) “Recycled Materials” means recycled paper (as defined in ORS 279A.010(1)(gg)), recycled PETE products (as defined in ORS 279A.010(1)(hh)), and other recycled plastic resin products and recycled products (as defined in ORS 279A.010(1)(ii)). 
+
+ (29) “Request for Qualifications” or “RFQ” means a Written document issued by a Contracting Agency to which Contractors respond in Writing by describing their experience with and qualifications for the Services, Personal Services or Architectural, Engineering or Land Surveying Services, or Related Services, described in the document. 
+
+ (30) “Request for Quotes” means a Written or oral request for prices, rates or other conditions under which a potential Contractor would provide Goods or perform Services, Personal Services or Public Improvements described in the request. 
+
+ (31) “Responsible” means meeting the standards set forth in OAR 137-047-0640 or 137-049-0390(2), and not debarred or disqualified by the Contracting Agency under OAR 137-047-0575 or 137-049-0370. 
+
+ (32) “Responsible Offeror” means, as the context requires, a Responsible Bidder, Responsible Proposer or a Person who has submitted an Offer and meets the standards set forth in OAR 137-047-0640 or 137-049-0390(2), and who has not been debarred or disqualified by the Contracting Agency under OAR 137-047-0575 or 137-049-0370. 
+
+ (33) “Responsive” means having the characteristic of substantial compliance in all material respects with applicable solicitation requirements. 
+
+ (34) “Responsive Offer” means, as the context requires, a Responsive Bid, Responsive Proposal or other Offer that substantially complies in all material respects with applicable solicitation requirements. 
+
+ (35) “Signature” means any Written mark, word or symbol that is made or adopted by a Person with the intent to be bound and that is attached to or logically associated with a Written document to which the Person intends to be bound. 
+
+ (36) “Signed” means, as the context requires, that a Written document contains a Signature or that the act of making a Signature has occurred. 
+
+ (37) “Solicitation Document” means an Invitation to Bid, Request for Proposals, Request for Quotes, or other similar document issued to invite Offers from prospective Contractors under ORS Chapter 279B or 279C. The following are not Solicitation Documents unless they invite Offers from prospective Contractors: a Request for Qualifications, a prequalification of bidders, a request for information, a sole source notice, an approval of a Special Procurement, or a request for product prequalification. A project-specific selection document under a Price Agreement that has resulted from a previous Solicitation Document is not itself a Solicitation Document. 
+
+ (38) “Veteran” has the meaning set forth in ORS 200.005. 
+
+ (39) “Writing” means letters, characters and symbols inscribed on paper by hand, print, type or other method of impression, intended to represent or convey particular ideas or meanings. “Writing,” when required or permitted by law, or required or permitted in a Solicitation Document, also means letters, characters and symbols made in electronic form and intended to represent or convey particular ideas or meanings. 
+
+ (40) “Written” means existing in Writing. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 279A.065 
+ 
+ 
+ Statutes/Other Implemented:  ORS 279A.065 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 24-2023, amend filed 12/22/2023, effective 01/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 18-2015, f. 12-31-15, cert. ef. 1-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 10-2011, f. 11-29-11, cert. ef. 1-1-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 15-2009, f. 12-1-09, cert. ef. 1-1-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 19-2007, f. 12-28-07, cert. ef. 1-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 20-2005, f. 12-27-05, cert. ef. 1-1-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 11-2004, f. 9-1-04, cert. ef. 3-1-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

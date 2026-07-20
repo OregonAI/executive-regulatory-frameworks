@@ -1,0 +1,298 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Public Utility Commission 
+ Chapter 860 
+ 
+ 
+ 
+ 
+ 
+ Division 82 SMALL GENERATOR INTERCONNECTION RULES 
+ 860-082-0015 
+ Definitions
+ 
+ 
+ As used in OAR 860-082-0005 through 860-082-0085: 
+
+ (1) “Adverse system impact” means a negative effect caused by the interconnection of a small generator facility that may compromise the safety or reliability of a transmission or distribution system. 
+
+ (2) “Affected system” means a transmission or distribution system, not owned or operated by the interconnecting public utility, which may experience an adverse system impact from the interconnection of a small generator facility. 
+
+ (3) “Aggregated export capacity” means the total combined export capacity of: 
+
+ (a) A proposed small generator facility; 
+
+ (b) Existing small generator facilities, net metering facilities, FERC jurisdictional generators, and state jurisdictional generators with a nameplate rating greater than 10 megawatts; and 
+
+ (c) Small generator facilities, net metering facilities, FERC jurisdictional generators, and state jurisdictional generators with a nameplate rating greater than 10 megawatts that have pending completed applications with higher queue positions than the proposed small generator facility. 
+
+ (4) “Aggregated nameplate rating” means the total combined nameplate rating of: 
+
+ (a) A proposed small generator facility; 
+
+ (b) Existing small generator facilities, net metering facilities, FERC jurisdictional generators, and state jurisdictional generators with a nameplate rating greater than 10 megawatts; and 
+
+ (c) Small generator facilities, net metering facilities, FERC jurisdictional generators, and state jurisdictional generators with a nameplate rating greater than 10 megawatts that have pending completed applications with higher queue positions than the proposed small generator facility. 
+
+ (5) “Applicant” means a person who has submitted an application to interconnect a small generator facility to a public utility’s transmission or distribution system. 
+
+ (6) “Application” means a written request to interconnect a small generator facility with a public utility’s transmission or distribution system, which must follow the standard form developed by the public utility and approved by the Commission. 
+
+ (7) “Area network” means a type of distribution system served by multiple transformers interconnected in an electrical network circuit in order to provide high reliability of service.  
+
+ (8) “Certificate of completion” means a certificate signed by an applicant and an interconnecting public utility attesting that a small generator facility is complete, meets the applicable requirements of the small generator interconnection rules, has passed all applicable federal, state, and local inspection requirements, and is certified as physically ready for operation. A certificate of completion includes the “as built” specifications and initial settings for the small generator facility and its associated interconnection equipment. 
+
+ (9) “Distribution system” means the portion of an electric system that delivers electricity from transformation points on the transmission system to points of connection on a customer’s premises. 
+
+ (10) “Energy storage system” means a mechanical, electrical, or electrochemical means to store and release electrical energy, and its associated interconnection and control equipment. For the purposes of these rules, an energy storage system can be considered part of a small generator facility or a small generator facility in whole that operates in parallel with the distribution system. 
+
+ (11) “Export capacity” means the amount of power that can be transferred from the small generator facility to the distribution system. Export capacity is either the nameplate rating, or a lower amount if limited using an acceptable means identified in OAR 860-082-0033. 
+
+ (12) “Fault current” means an electrical current that flows through a circuit during a fault condition. A fault condition occurs when one or more electrical conductors contact ground or each other. Types of faults include phase to ground, double-phase to ground, three-phase to ground, phase to phase, and three-phase. 
+
+ (13) “Field-tested equipment” means interconnection equipment that is identical to equipment that was approved by the interconnecting public utility for a different small generator facility interconnection and successfully completed a witness test under the requirements included in the current version of the public utility’s interconnection requirements handbook before the date of the submission of the current application. 
+
+ (14) "Host load” means electrical power, less the small generator facility auxiliary load, consumed by the customer at the location where the small generator facility is connected. 
+
+ (15) “IEEE 1547” means the standards published in the 2018 edition of the Institute of Electrical and Electronics Engineers (IEEE) Standard 1547, titled “IEEE Standard for Interconnection and Interoperability of Distributed Energy Resources with Associated Electric Power Systems Interfaces” and approved by the IEEE SA Standards Board on February 15, 2018. 
+
+ (16) “IEEE 1547.1” means the standards published in the 2020 edition of the IEEE Standard 1547.1, titled “IEEE Standard Conformance Test Procedures for Equipment Interconnecting Distributed Resources with Electric Power Systems and Associated Interfaces” and approved by the IEEE SA Standards Board on March 5, 2020. 
+
+ (17) “Inadvertent export” means the unscheduled export of active power from a small generator facility, exceeding a specified magnitude and for a limited duration, generally due to fluctuations in load-following behavior. 
+
+ (18) “Interconnection agreement” means a contract between an applicant or interconnection customer and an interconnecting public utility that governs the interconnection of a small generator facility to the public utility’s transmission or distribution system and the ongoing operation of the small generator facility after it is interconnected. An interconnection agreement will follow the standard form agreement developed by the public utility and filed with the Commission. 
+
+ (19) “Interconnection customer” means a person with one or more small generator facilities interconnected to a public utility’s transmission or distribution system. 
+
+ (20) “Interconnection equipment” means a group of components or an integrated system provided by an interconnection customer or applicant to connect a small generator facility to a public utility’s transmission or distribution system. 
+
+ (21) “Interconnection facilities” means the facilities and equipment required by a public utility to accommodate the interconnection of a small generator facility to the public utility’s transmission or distribution system and used exclusively for that interconnection. Interconnection facilities do not include system upgrades. 
+
+ (22) "Interconnection facilities study" means a study conducted by a utility for the customer-generator that determines the additional or upgraded distribution system facilities, the cost of those facilities, and the time schedule required to interconnect the small generator facility to the public utility’s distribution system. 
+
+ (23) “Interconnection service” means service provided by an interconnecting public utility to an interconnection customer. 
+
+ (24) “Lab-tested equipment” means interconnection equipment that has been designed to comply with IEEE 1547, tested in accordance with IEEE 1547.1, and certified and labeled as compliant with these IEEE standards at the point of manufacture by a nationally recognized testing lab. For interconnection equipment to be considered lab-tested equipment under these rules, the equipment must be used in a manner consistent with the certification. 
+
+ (25) “Limited export” means the exporting capability of a small generator facility whose export capacity is limited by the use of any configuration or operating mode described in OAR 860-082-0033. 
+
+ (26) “Line section” means that portion of a public utility’s transmission or distribution system that is connected to an interconnection customer and bounded by automatic sectionalizing devices or the end of a distribution line. 
+
+ (27) “Minor equipment modification” means a change to a small generator facility or its associated interconnection equipment that: 
+
+ (a) Includes a change or replacement of equipment that is a like-kind substitution in size, ratings, impedances, efficiencies, or capabilities of the equipment specified in the original interconnection application. Minor variations that do not affect safety, performance, or interoperability are acceptable; 
+
+ (b) Includes a replacement of existing inverters with new inverters that conform to standards in effect at the time of replacement; 
+
+ (c) Includes a reduction in the nameplate rating and/or export capacity of the small generator facility of 10 percent or less; or 
+
+ (d) For changes not specified in subsections (a) through (c) of this definition, the change must not, in the interconnecting public utility’s reasonable opinion, have a material impact on the safety or reliability of the public utility’s transmission or distribution system or an affected system. 
+
+ (e) Applicants must inform the interconnecting public utility of minor equipment modifications, prior to making the change. 
+
+ (28) “Nameplate rating” means the sum total of maximum rated power output of all of a small generator facility’s constituent generating units and/or energy storage systems as identified on the manufacturer nameplate in Alternating Current (AC), regardless of whether it is limited by any approved means. For a generating unit that uses an inverter to change direct current energy supplied to an AC quantity, the nameplate rating will be the manufacturer’s AC output rating for the inverter(s). 
+
+ (29) “Nationally recognized testing laboratory” or “NRTL” means a qualified private organization that performs independent safety testing and product certification. Each NRTL must meet the requirements set forth by the United States Occupational Safety and Health Administration. 
+
+ (30) “Net metering facility” has the meaning set forth in ORS 757.300(1)(d). 
+
+ (31) “Non-export or non-exporting” means when the small generator facility is sized and designed and operated using any of the methods in OAR 860-082-0033, such that the output is used for host load only and no electrical energy (except for any inadvertent export) is transferred from the small generator facility to the distribution system. 
+
+ (32) “Pending completed application” means an application for interconnection of a small generator facility, a net metering facility, or a FERC jurisdictional generator that an interconnecting public utility has deemed complete. 
+
+ (33) “Person” includes individuals, joint ventures, partnerships, corporations and associations or their officers, employees, agents, lessees, assignees, trustees or receivers, as supplemented to include governmental entities. 
+
+ (34) “Point of interconnection” means the point where a small generator facility is electrically connected to a public utility’s transmission or distribution system. This term has the same meaning as “point of common coupling” as defined in IEEE 1547. 
+
+ (35) "Power control system” means systems or devices which electronically limit or control steady state currents to a programmable limit. 
+
+ (36) “Primary line” means a distribution line with an operating voltage greater than 600 volts. 
+
+ (37) “Public utility” has the meaning set forth in ORS 757.005 and is limited to a public utility that provides electric service. 
+
+ (38) “Queue position” means the rank of a pending completed application, relative to all other pending completed applications, that is established based on the date and time that the interconnecting public utility receives the completed applications, including application fees. 
+
+ (39) “Reference point of applicability” (RPA) means a location proximate to the generation where the interconnection and interoperability performance requirements, as specified by IEEE 1547, apply. 
+
+ (40) “Relevant minimum load” means the lowest measured load coincident with the generating facility’s production. For solar-only facilities, this is the daytime minimum load (i.e., 10 a.m. to 4 p.m. for fixed panel systems and 8 a.m. to 6 p.m. for PV systems utilizing tracking systems). 
+
+ (41) “Scoping meeting” means an initial meeting between representatives of an applicant and an interconnecting public utility that is conducted to discuss the RPA, to discuss alternative interconnection options; to exchange information, including any relevant transmission or distribution system data and earlier studies that would reasonably be expected to affect the interconnection options; to analyze such information; and to determine the potentially feasible points of interconnection. 
+
+ (42) “Secondary line” means a service line with an operating voltage of 600 volts or less. 
+
+ (43) “Small generator facility” means a facility that operates in parallel with the distribution system for the production of electrical energy that has a maximum installed instantaneous power production capacity of the completed Facility, expressed in MW (AC), and measured at the Point of Interconnection of 10 MW, when operated in compliance with the Generation Interconnection Agreement and consistent with the recommended power factor and operating parameters provided by the manufacturer of the generator, inverters, energy storage devices, or other equipment within the Facility affecting the Facility's capability to deliver useful electric energy to the grid at the Point of Interconnection, 
+
+ (44) “Spot network” means a type of transmission or distribution system that uses two or more intertied transformers protected by network protectors to supply an electrical network circuit. A spot network may be used to supply power to a single customer or a small group of customers. 
+
+ (45) “System upgrade” means an addition or modification to a public utility’s transmission or distribution system or to an affected system that is required to accommodate the interconnection of a small generator facility. 
+
+ (46) “Transmission line” means any electric line operating at or above 50,000 volts. 
+
+ (47) “Transmission system” means a public utility’s high voltage facilities and equipment used to transport bulk power or to provide transmission service under the public utility’s open access transmission tariff. 
+
+ (48) “Witness test” means the on-site visual verification of the interconnection installation and commissioning as required in IEEE 1547. For interconnection equipment that does not meet the definition of lab-tested equipment, the witness test may, at the discretion of the public utility, also include a type test and small generator facility evaluation according to IEEE 1547 as applicable to the specific interconnection equipment used. 
+
+ (49) “Written notice” means a required notice sent by the public utility via electronic mail if the customer-generator has provided a functioning electronic mail address. If the customer-generator has not provided a functioning electronic mail address or has requested in writing to be notified by United States mail, then written notices from the public utility must be sent via First Class United States mail to the notification address provided by the customer-generator. The public utility is deemed to have fulfilled its duty to respond under these rules on the day it sends the customer-generator notice via electronic mail or deposits such notice in First Class mail. The customer-generator is responsible for informing the public utility of any changes to its notification address. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 183, ORS 756 & ORS 757 
+ 
+ 
+ Statutes/Other Implemented:  ORS 756.040 & ORS 756.060 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 4-2024, amend filed 04/09/2024, effective 04/09/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 10-2009, f. & cert. ef. 8-26-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

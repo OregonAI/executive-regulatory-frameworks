@@ -1,0 +1,742 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 120 MEDICAL ASSISTANCE PROGRAMS 
+ 410-120-1210 
+ Medical Assistance Benefit Packages and Delivery System
+ 
+ 
+ (1) The services clients are eligible to receive are based on their benefit package. Not all packages receive the same benefits. 
+
+ (2) The Health Systems Division (Division), Medical Assistance Programs benefit package description, codes, eligibility criteria, coverage, limitations, and exclusions are identified in these rules. 
+
+ (3) The limitations and exclusions listed here are in addition to those described in OAR 410-120-1200 and in any chapter 410 OARs. 
+
+ (4) Benefit package descriptions: 
+
+ (a) Oregon Health Plan (OHP) Plus: 
+
+ (A) Benefit package identifier: BMH; 
+
+ (B) Eligibility criteria: As defined in federal regulations and in the 1115 OHP waiver demonstration, a client is categorically eligible for medical assistance if they are eligible under a federally defined mandatory, selected, optional Medicaid program or the Children's Health Insurance Program (CHIP) and also meets Oregon Health Authority (Authority) adopted income and other eligibility criteria; 
+
+ (C) Coverage includes: 
+
+ (i) Early and Periodic Screening, Diagnostic and Treatment (EPSDT) coverage for individuals under age 21 and individuals who qualify for the Young Adults with Special Health Care Needs (YSHCN) program, as detailed in Chapter 410 Division 151.  
+
+ (ii)Services consistent with the Health Evidence Review Commission (HERC) Prioritized List of Health Services (Prioritized List), (OAR 410-141-3820 through 410-141-3830); 
+
+ (iii) Ancillary services, (OAR 410-141-3820); 
+
+ (iv) Substance use disorder treatment and recovery services provided through local substance use disorder treatment and recovery providers; 
+
+ (v) Mental health services based on the Prioritized List to be provided by Board licensed, certified, or credentialed providers or through Community Mental Health Programs certified and credentialed providers; 
+
+ (vi) Hospice; 
+
+ (vii) Post-hospital extended care benefit up to a one hundred (100) day stay in a nursing facility for non-Medicare Division clients who meet Medicare criteria for a post-hospital skilled nursing placement. This benefit requires prior authorization by pre-admission screening (OAR 411-070-0043) or by the Coordinated Care Organization (CCO) for clients enrolled in a CCO; and 
+
+ (viii) HRSN Services (OAR 410-120-2005). 
+
+ (D) Limitations:  Except for individuals who qualify for the Young Adults with Special Health Care Needs program (see OAR 410-200-0455), the following services have limited coverage for non-pregnant adults age 21 and older, who are outside of the protected postpartum eligibility period (see OAR 410-200-0135). (Refer to the cited OAR chapters and divisions for details): 
+
+ (i) Selected dental (OAR chapter 410, division 123 and 200); 
+
+ (ii) Vision services such as frames, lenses, contacts corrective devices and eye exams for the purpose of prescribing glasses or contacts (OAR chapter 410, division 140 and 200). 
+
+ (b) OHP with Limited Drugs: 
+
+ (A) Benefit package identifier: BMM, BMD; 
+
+ (B) Eligibility criteria: Eligible clients are eligible for Medicare and Medicaid benefits; 
+
+ (C) Coverage includes: services covered by Medicare and OHP Plus as described in this rule; 
+
+ (D) Limitations: 
+
+ (i) The same as OHP Plus as described in this rule; 
+
+ (ii) Drugs excluded from Medicare Part D coverage that are also covered under the medical assistance programs, subject to applicable limitations for covered prescription drugs (Refer to OAR chapter 410, division 121 for specific limitations). These drugs include but are not limited to: 
+
+ (I) Over-the-counter (OTC) drugs; 
+
+ (II) Barbiturates (except for dual eligible individuals when used in the treatment of epilepsy, cancer or a chronic mental health disorder as Part D shall cover those indications). 
+
+ (E) Exclusions: Drugs or classes of drugs covered by Medicare Part D Prescription Drug; 
+
+ (F) Payment for services is limited to the Medicaid-allowed payment less the Medicare payment up to the amount of co-insurance and deductible; 
+
+ (G) Cost sharing related to Medicare Part D is not covered since drugs covered by Part D are excluded from the benefit package. 
+
+ (c) Qualified Medicare Beneficiary (QMB)-Only: 
+
+ (A) Benefit Package identifier code MED; 
+
+ (B) Eligibility criteria: Eligible clients are Medicare Part A and B beneficiaries who have limited income but do not meet the income standard for full medical assistance coverage; 
+
+ (C) Coverage: Is limited to the co-insurance or deductible for the Medicare service. Payment is based on the Medicaid-allowed payment less the Medicare payment up to the amount of co-insurance and deductible but no more than the Medicare allowable; 
+
+ (D) Providers may not bill QMB-only clients for the deductible and coinsurance amounts due for services that are covered by Medicare; 
+
+ (E) Medicare is the source of benefit coverage for service; therefore, an OHP 3165 is not required for this eligibility group. A Medicare Advance Beneficiary Notice of Noncoverage (ABN) may be required by Medicare, refer to Medicare for ABN requirements. 
+
+ (d) Citizenship Waived Medical (CWM) Benefit Package defined in OAR 410-120-0000. Refer to OARs 410-134-0005(2) and 410-134-0005(3) for coverage and billing guidance. 
+
+ (e) Compact of Free Association (COFA) Dental Program: 
+
+ (A) Benefit Package identifier code DEN; 
+
+ (B) Eligibility criteria: Eligible clients are specified in OAR 410-200-0445; 
+
+ (C) Coverage is state funded and includes the types and extent of Dental services that the Authority determines shall be provided to medical assistance recipients in accordance with OAR chapter 410 division 123. 
+
+ (D) Coverage also includes pharmaceuticals prescribed by a dental health care provider as component of covered dental services. 
+
+ (E) No copayments, deductibles or cost sharing shall be required for eligible clients. 
+
+ (f) Veteran Dental Program: 
+
+ (A) Benefit Package identifier code DEN and DNT; 
+
+ (B) Eligibility criteria: Eligible clients are specified in OAR 410-200-0445; 
+
+ (C) Coverage is state funded and includes the types and extent of dental services that the Authority determines shall be provided to medical assistance recipients in accordance with OAR chapter 410 division 123. 
+
+ (D) Coverage also includes pharmaceuticals prescribed by a dental health care provider as component of covered dental services. 
+
+ (E) No copayments, deductibles or cost sharing shall be required for eligible clients. 
+
+ (g) Young Adults with Special Health Care Needs (YSHCN) Program:  
+
+ (A) Benefit package identifier codes BMH, BMM, or BMD; 
+
+ (B) Eligibility criteria: Eligible clients are specified in OAR 410-200-0455; 
+
+ (C) Coverage: Eligible individuals receive OHP Plus coverage with the following supplemental benefits:  
+
+ (i) Early and Periodic Screening, Diagnostic and Treatment (EPSDT) coverage as described in chapter 410 Division 151; 
+
+ (ii) All dental and vision services available to EPSDT beneficiaries, as detailed in chapter 410 Division 123 and chapter 410 Division 140; and 
+
+ (iii) Health-Related Social Needs or “HRSN” services (as defined in OAR 140-120-0000 and detailed in OAR 410-120-2000) are available to those receiving YSHCN as an “HRSN Covered Population”. 
+
+ (D) Limitations:  Individuals receiving OHP Plus benefits under the YSHCN program are not eligible for long-term care services and supports under Oregon’s 1915(c) waiver, and HRSN services must be annually reassessed for eligibility for HRSN services as set out in OAR 410-120-2015. 
+
+ (5) Division clients are enrolled for covered health services and HRSN Services to be delivered through one of the following means: 
+
+ (a) Coordinated Care Organization (CCO): 
+
+ (A) These clients are enrolled in a CCO that provides integrated and coordinated health care; 
+
+ (B) CCO services are obtained from the CCO or by referral from the CCO that is responsible for the provision and reimbursement for physical health, substance use disorder treatment and recovery, mental health services, dental care, or HRSN Services. 
+
+ (b) Fee-for-service (FFS): 
+
+ (A) These clients are not enrolled in a CCO; 
+
+ (B) Subject to limitations and restrictions in the Division’s individual program rules, the client may receive health care from any Division-enrolled provider that accepts FFS clients. The provider shall bill the Division directly for any covered service and shall receive a fee for the service provided. 
+
+ (C) Delivery of HRSN Services for members enrolled in FFS shall be provided as set forth in OAR 410-120-2000. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042 
+ 
+ 
+ Statutes/Other Implemented:  ORS 413.042, ORS 414.025, 414.065, 414.329, 414.706, 414.710, 414.432, 414.312, 414.430, 414.690, 414.572, 414.605, 414.665, 414.719 & SB 269-b (2025) 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 86-2025, amend filed 12/05/2025, effective 01/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 138-2024, amend filed 11/26/2024, effective 01/01/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 130-2024, amend filed 10/24/2024, effective 11/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 35-2024, amend filed 01/22/2024, effective 01/22/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 89-2023, amend filed 12/19/2023, effective 12/20/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 55-2023, temporary amend filed 06/30/2023, effective 07/01/2023 through 12/27/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 5-2023, minor correction filed 02/17/2023, effective 02/17/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 90-2022, amend filed 12/19/2022, effective 01/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 65-2022, amend filed 06/30/2022, effective 07/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 14-2022, temporary amend filed 02/16/2022, effective 02/16/2022 through 07/06/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 4-2022, temporary amend filed 01/11/2022, effective 01/11/2022 through 07/06/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 3-2022, temporary amend filed 01/07/2022, effective 01/08/2022 through 07/06/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 2-2022, temporary amend filed 01/07/2022, effective 01/07/2022 through 01/07/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 23-2021, amend filed 06/22/2021, effective 07/01/2021 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 71-2018, minor correction filed 06/01/2018, effective 06/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 70-2018, amend filed 05/31/2018, effective 06/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 16-2018, temporary amend filed 03/15/2018, effective 03/15/2018 through 06/29/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 55-2017, temporary amend filed 12/26/2017, effective 01/01/2018 through 06/29/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 23-2014, f. & cert. ef. 4-4-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 75-2013(Temp), f. 12-31-13, cert. ef. 1-1-14 thru 6-30-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 71-2013, f. & cert. ef. 12-27-13 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ Reverted to DMAP 31-2013, f. & cert. ef. 6-27-13 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 37-2013(Temp), f. 6-27-13, cert. ef. 7-1-13 thru 12-24-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 31-2013, f. & cert. ef. 6-27-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 63-2012(Temp), f. 12-27-12, cert. ef. 1-1-13 thru 6-29-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 49-2012, f. 10-31-12, cert. ef. 11-1-12 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 36-2011, f. 12-13-11, cert. ef. 1-1-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 38-2009, f. 12-15-09, cert. ef. 1-1-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 15-2006, f. 6-12-06, cert. ef. 7-1-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 65-2005, f. 11-30-05, cert. ef. 1-1-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 39-2005, f. 9-2-05, cert. ef. 10-1-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 49-2004, f. 7-28-04 cert. ef. 8-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 56-2003, f. 8-28-03, cert. ef. 9-1-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 46-2003(Temp), f. & cert. ef. 7-1-03 thru 12-15-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

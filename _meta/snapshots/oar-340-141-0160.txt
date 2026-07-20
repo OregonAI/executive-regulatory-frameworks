@@ -1,0 +1,302 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 141 OIL SPILL CONTINGENCY PLANNING AND FEES 
+ 340-141-0160 
+ Prevention Strategies for Facilities
+ 
+ 
+ (1) The owner or operator of each onshore and offshore facility must develop spill prevention strategies that will, when implemented, provide the best achievable protection from damages caused by the discharge of oil into the waters of the state. The strategies may be in the form of: 
+
+ (a) Appendices to oil spill prevention and emergency response plans required under this chapter; or 
+
+ (b) A standalone prevention plan that meets all requirements of OAR 340-141-0100 to 340-141-0230. 
+
+ (2) Spill Prevention Countermeasure and Control Plans (SPCC), Operation Manuals and other prevention documents prepared to meet federal requirements under 33 C.F.R. 154, 33 C.F.R. 156, 40 C.F.R. 109, 40 C.F.R. 112, or the Federal Oil Pollution Act of 1990 or plans prepared to meet the requirements of other states may be submitted to satisfy requirements under this chapter if DEQ deems that such requirements equal or exceed those of DEQ, or if the plans are modified or appended to satisfy requirements of this Division. 
+
+ (3) Spill prevention strategies must at a minimum provide all of the following: 
+
+ (a) Documentation of types and frequency of spill prevention training provided to applicable personnel; 
+
+ (b) Evidence that the facility has an operations manual; 
+
+ (c) A description of a drug and alcohol awareness program that provides training and information materials to all employees on recognition of alcohol and drug abuse treatment opportunities, and applicable company policies; 
+
+ (d) Evidence of a maintenance and inspection program that includes: 
+
+ (A) Summary of the frequency and type of all regularly scheduled inspection and preventative maintenance procedures for tanks, pipelines, key storage, transfer, or production equipment including associated pumps, valves, and flanges, and overpressure safety devices and other spill prevention equipment; 
+
+ (B) Description of integrity testing of storage tanks and pipelines using such techniques as hydrostatic testing and visual inspection, including but not limited to the frequency of tests, means of identifying that a leak has occurred and measures to reduce spill risk if test material is product; 
+
+ (C) External and internal corrosion detection and repair; 
+
+ (D) Damage criteria for equipment repair or replacement; 
+
+ (E) Maintenance and inspection records of the storage and transfer facilities and related equipment will be made available to DEQ upon request; and 
+
+ (F) Documentation required under 40 C.F.R. 112.7(e) or 33 C.F.R. 154, Subparts C and D may be used to address elements of this subsection. 
+
+ (e) A description of the use of containment boom at facilities transferring persistent oil, including: 
+
+ (A) Type(s) of boom used based upon the varied conditions within the region(s) of operation; and 
+
+ (B) Methods of boom placement and anchoring. 
+
+ (f) Identification of spill prevention technology currently in use, including if applicable: 
+
+ (A) Tank and pipeline materials and design; 
+
+ (B) Storage tank overflow alarms, tank overflow cutoff switches, low level alarms and automatic transfer shutdown systems, including methods to alert operators, system accuracy and tank fill margin remaining at time of alarm activation before overflow would occur at maximum pumping rate (documentation required under 40 C.F.R. 112.7(e)(2)(viii) or 33 C.F.R. 154.310(a)(12-13) may be used to address some or all of these elements); 
+
+ (C) Leak detection systems for both active and nonactive pipeline conditions including detection thresholds in terms of duration and percentage of pipeline flow limitations on system performance due to normal pipeline events, and procedures for operator response to leak alarms (documentation required under 40 C.F.R. 112.7(e)(3) may be used to address some or all of these elements); 
+
+ (D) Rapid pump and valve shutdown procedures, including means of ensuring that surge and overpressure conditions do not occur, rates of valve closure, sequence and time duration (average and maximum) for entire procedure, automatic and remote control capabilities utilized and visual displays of system status for operator use (documentation required under 40 C.F.R. 112.7(e)(3) may be used to address some or all of these elements); 
+
+ (E) Minimization of post-shutdown residual drainout from pipes, including criteria for locating valves, identification of all valves (including types and means of operation) that may be open during a transfer process, and any other techniques for reducing drain out; 
+
+ (F) Means of relieving pressure due to thermal expansion of liquid in pipes during periods of nonuse; 
+
+ (G) Secondary containment, including contents of the largest tank plus space for precipitation, and material design and permeability of the containment area (documentation required under 40 C.F.R. 112.7(e)(1) and (2)(ii)–(iv) may be used to address some or all of these elements); 
+
+ (H) Surge control systems; 
+
+ (I) Internal and external corrosion control coatings or wrappings and instruments; 
+
+ (J) Storm water and other drainage retention, treatment and discharge systems, including maximum storage capacities and identification of any applicable discharge permits (documentation required under 40 C.F.R. 112.7(e)(1) and (2)(iii) and (ix) may be used to address some or all of these elements); and 
+
+ (K) Criteria for suspension of operations while leak detection or other spill control systems are inoperative. 
+
+ (g) A description of facility site security systems, including: 
+
+ (A) Procedures for controlling and monitoring facility access; 
+
+ (B) Lighting (documentation required under 33 C.F.R. 154.570 may be used to address some or all of this element); 
+
+ (C) Signage; and 
+
+ (D) Right-of-way identification or other measures to prevent third party damage (documentation required under 40 C.F.R. 122.7(e)(3)(v) and (9) may be used to address some or all of this element). 
+
+ (h) History of any discharges of oil to the land or waters of the state in excess of 25 barrels (1,050 gallons) which occurred during the five-year period prior to the plan submittal date. For each discharge, describe: 
+
+ (A) Quantity; 
+
+ (B) Type of oil; 
+
+ (C) Geographic area; 
+
+ (D) Analysis of cause, including source(s) of discharged oil and contributing factors (e.g., equipment failure, employee error, adverse weather, etc.); and 
+
+ (E) Measures taken to remedy the cause and prevent reoccurrence. 
+
+ (i) A detailed and comprehensive site risk analysis that: 
+
+ (A) Evaluates the construction, age, corrosion, inspection and maintenance, operation and oil spill risk of the transfer, production and storage system including piping, tanks, pumps, valves and associated equipment; 
+
+ (B) Evaluates spill minimization and containment systems; 
+
+ (C) Incorporates information required in subsection (f) of this section; 
+
+ (D) Is prepared under the supervision of (and bears the seal of) a licensed professional engineer; and 
+
+ (E) Includes documentation required under 40 C.F.R. 112.7(b) and (e) may be used to address some or all of the elements in this subsection. 
+
+ (j) A description of how the facility will incorporate those measures that will provide best achievable protection to address the spill risks identified in the risk analyses required in subsection (i) of this section. (Information documented under 40 C.F.R. 112.7(e) and 33 C.F.R. 154.310 may be used to address some or all of the elements of this subsection.) 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020 & 468B.395 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468B.345 - 468B.390 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 8-2021, amend filed 05/20/2021, effective 05/20/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 13-2019, amend filed 05/16/2019, effective 05/16/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 105-2018, minor correction filed 04/10/2018, effective 04/10/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 2-2003, f. & cert. ef. 1-31-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,290 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Land Conservation and Development Department 
+ Chapter 660 
+ 
+ 
+ 
+ 
+ 
+ Division 38 SIMPLIFIED URBAN GROWTH BOUNDARY METHOD 
+ 660-038-0140 
+ Translate Job Forecast to Employment Land Need
+ 
+ 
+ (1) Determine the current density (jobs per acre) of developed commercial land, as follows: 
+
+ (a) Based on the determination from OAR 660-038-0120, for all lots and parcels zoned for commercial uses, identify the area (acreage) of “developed” lots and parcels, and the developed portion (acreage) of “partially vacant” lots and parcels. The sum of these equals the total area of “developed commercial land” for purposes of this rule. 
+
+ (b) Determine current number of commercial jobs in the UGB from Table 3. 
+
+ (c) Subtract 20 percent from (b) to account for current commercial jobs that occur on land not zoned commercial or industrial. 
+
+ (d) Divide the number of jobs determined in subsection (c) by the amount of developed commercial land determined in subsection (a). The result is the current density of commercial uses (jobs per acre) on commercial land in the UGB. 
+
+ (2) Determine the current density (jobs per acre) for developed industrial land in the UGB, as follows: 
+
+ (a) Based on the determination in OAR 660-038-0120, for all lots and parcels zoned for industrial uses, identify the area (acreage) of “developed” lots and parcels, and the developed portion (acreage) of “partially vacant” lots and parcels. The sum of these equals the total area of “developed industrial land” for purposes of this rule. 
+
+ (b) Determine current number of industrial jobs in the UGB from Table 3. 
+
+ (c) Subtract 20 percent from the determination in subsection (b) to account for current industrial jobs that occur on land not zoned commercial or industrial. 
+
+ (d) Divide the number of jobs determined in subsection (c) by the amount of developed industrial land determined in subsection (a). The result is the current density of industrial uses (jobs per acre) on industrial land in the UGB. 
+
+ (3) To account for redevelopment and the anticipated long term increase in efficiency of employment land, the city must: 
+
+ (a) Multiply the result of section (1) for commercial uses, and section (2) for industrial uses, by the applicable factors in paragraphs (A) or (B) of this subsection: 
+
+ (A) For cities with a UGB population less than 10,000, the factor shall be a range from one to three percent for commercial, and one-half of a percent for industrial. 
+
+ (B) For cities with a UGB population equal to or greater than 10,000 the factor shall be a range of three to five percent for commercial and one percent for industrial. 
+
+ (b) Add the result from subsection (a) to the result in section (1) for commercial uses, and to the result in section (2) for industrial uses. This is the anticipated density of commercial and industrial land (jobs per acre) in the UGB. 
+
+ (4) Divide the number of commercial and industrial jobs forecast in OAR 660-038-0100 and 660-038-0110 by the applicable results in section (3) to determine the net new land need for commercial and industrial uses over the planning period. 
+
+ (5) The city must increase the results of section (4) by 15 percent to convert net land need to gross land need in consideration of land need for streets, roads and other public facilities due to employment land growth over the planning period. 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 197.040, ORS 197.235, ORS 197A.285 & ORS 197A.305 
+ 
+ 
+ Statutes/Other Implemented:  ORS 197A.315, ORS 197A.320, ORS 197A.325, ORS 197A.300, ORS 197A.302, ORS 197A.305, ORS 197A.310 & ORS 197A.312 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LCDD 2-2025, amend filed 07/07/2025, effective 07/07/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LCDD 3-2024, amend filed 07/11/2024, effective 07/11/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LCDD 8-2023, amend filed 08/07/2023, effective 08/07/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LCDD 4-2023, amend filed 05/10/2023, effective 05/10/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LCDD 7-2020, amend filed 06/22/2020, effective 07/03/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LCDD 1-2019, amend filed 01/28/2019, effective 02/05/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ LCDD 6-2015, f. 12-29-15, cert. ef. 1-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,310 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 136 MEDICAL TRANSPORTATION SERVICES 
+ 410-136-3370 
+ General Requirements for GEMT 
+ 
+ (1) The Ground Emergency Medical Transportation (GEMT) program is a voluntary program that makes supplemental payments to eligible GEMT providers who furnish qualifying emergency ambulance services to Oregon Health Authority (Authority) Medicaid recipients: 
+
+ (a) The supplemental payment covers the gap between the eligible GEMT provider’s total allowable costs for providing GEMT services as reported on the Centers for Medicare and Medicaid Services (CMS) approved cost report and the amount of the base payment, mileage, and all other sources of reimbursement; 
+
+ (b) The Authority makes supplemental payments only up to the amount uncompensated by all other sources of reimbursement. Total reimbursements from Medicaid including the supplemental payment may not exceed one hundred percent of actual costs; 
+
+ (c) The supplemental payments shall be made at least annually on a lump-sum basis after the conclusion of each state fiscal year. These payments are not an increase to current fee-for-service (FFS) reimbursement rates; 
+
+ (d) This supplemental payment applies only to GEMT services rendered to Oregon FFS Medicaid recipients by eligible GEMT providers on or after July 1, 2017. 
+
+ (2) Definitions: 
+
+ (a) “Agency” means the Oregon Health Authority (Authority); 
+
+ (b) Advanced Life Support” means special services designed to provide definitive prehospital emergency medical care, including but not limited to cardiopulmonary resuscitation, cardiac monitoring, cardiac defibrillation, advanced airway management, intravenous therapy, administration of drugs and other medicinal preparations, and other specified techniques and procedures; 
+
+ (c) “Allowable Costs” means an expenditure that complies with the regulatory principles as listed in chapter 2 of the Code of Federal Regulations (CFR) Section 200; 
+
+ (d) “Basic Life Support” means emergency first aid and cardiopulmonary resuscitation procedures to maintain life without invasive techniques; 
+
+ (e) “Contracts with a Local Government” means contracts pursuant to a county plan for ambulance and emergency medical services that is approved by the Oregon Health Authority with a; 
+
+ (A) City, county, an Indian tribe as defined in Section 4 of the Indian Self-Determination and Education Assistance Act; or 
+
+ (B) Local service district, including but not limited to; 
+
+ (i) A rural fire protection district; or 
+
+ (ii) All administrative subdivisions of such city, county, or local service district. 
+
+ (f) “Direct Costs” means all costs that can be identified specifically with a particular final cost objective in order to meet emergency medical transportation requirements. This includes unallocated payroll costs for the shifts of personnel, medical equipment and supplies, professional and contracted services, travel, training, and other costs directly related to the delivery of covered medical transport services; 
+
+ (g) “Eligible GEMT Provider” means a GEMT provider that meets all the eligibility requirements described in OAR 410-136-3370(3); 
+
+ (h) “Federal Financial Participation (FFP)” means the portion of medical assistance expenditures for emergency medical services that are paid or reimbursed by the Centers for Medicare and Medicaid Services in accordance with the State Plan for medical assistance. Clients under Title XIX are eligible for FFP; 
+
+ (i) “GEMT Services” means the act of transporting an individual by ground from any point of origin to the nearest medical facility capable of meeting the emergency medical needs of the patient, as well as the advanced, limited-advanced, and basic life support services provided to an individual by eligible GEMT providers before or during the act of transportation; 
+
+ (j) “Governmental Unit” means the entire state, local, or federally-recognized Indian tribal government, including any component thereof; 
+
+ (k) “Indirect Costs” means the costs for a common or joint purpose benefitting more than one cost objective that is allocated to each objective using an agency-approved indirect rate or an allocation methodology; 
+
+ (l) “Limited Advanced Life Support” means special services to provide prehospital emergency medical care limited to techniques and procedures that exceed basic life support but are less than advanced life support services; 
+
+ (m) “Publicly Owned or Operated” means a unit of government that is a state, a city, a county, a special purpose district, or other governmental unit in the state that has taxing authority, has direct access to tax revenues, or is an Indian tribe as defined in Section 4 of the Indian Self-Determination and Education Assistance Act; 
+
+ (n) “Service Period” means July 1 through June 30 of each Oregon State Fiscal Year (SFY); 
+
+ (o) “Shift” means a standard period of time assigned for a complete cycle of work, as set by each eligible GEMT provider. The number of hours in a shift may vary by GEMT provider but shall be consistent to each GEMT provider. 
+
+ (p) “Treatment in place” means EMT services (basic, limited-advanced, and advanced life support services) provided by a Medicaid-enrolled EMS professional to an individual who is released on the scene without transportation by ambulance to a medical facility. 
+
+ (3) GEMT Provider Eligibility Requirements: 
+
+ (a) To be eligible for supplemental payments, GEMT providers shall meet the following requirements: 
+
+ (A) Be enrolled as an Oregon Health Plan Medicaid provider for the period being claimed on their annual cost report; and 
+
+ (B) Provide ground emergency medical transport services to Medicaid recipients. 
+
+ (b) GEMT providers must classify as a Governmental Unit provider in accordance with 2 CFR 200. 
+
+ (4) Supplemental Reimbursement Methodology General Provisions: 
+
+ (a) Computation of allowable costs and their allocation methodology shall be determined in accordance with the CMS Provider Reimbursement Manual (CMS Pub. 15-1), CMS non-institutional reimbursement policies, and 2 C.F.R. Part 200, which establish principles and standards for determining allowable costs and the methodology for allocating and apportioning those expenses to the Medicaid program, except as expressly modified below; 
+
+ (b) Medicaid base payments to the eligible GEMT providers for providing GEMT services are derived from the ambulance FFS fee schedule established for reimbursements payable by the Medicaid program by procedure code. The primary source of paid claims data, managed care encounter data, and other Medicaid reimbursements is the Oregon Medicaid Management Information System (MMIS). The number of paid Medicaid FFS GEMT transports is derived from and supported by the MMIS reports for services during the applicable service period; 
+
+ (c) The total uncompensated care costs of each eligible GEMT provider available to be reimbursed under this supplemental reimbursement program shall equal the shortfall resulting from the allowable costs determined using the Cost Determination Protocols for each eligible GEMT provider providing GEMT services to Oregon Medicaid beneficiaries, net of the amounts received and payable from the Oregon Medicaid program and all other sources of reimbursement for such services provided to Oregon Medicaid beneficiaries. If the eligible GEMT providers do not have any uncompensated care costs, then the provider may not receive a supplemental payment under this supplemental reimbursement program. Total reimbursement from Medicaid may not exceed one hundred percent of actual cost of providing services to Oregon Medicaid beneficiaries. 
+
+ (5) Cost Determination Protocols: 
+
+ (a) An eligible GEMT provider’s specific allowable cost per-medical transport rate shall be calculated based on the provider’s audited financial data reported on the CMS-approved cost report. The per-medical transport cost rate shall be the sum of actual allowable direct and indirect costs of providing medical transport services divided by the actual number of medical transports provided for the applicable service period; 
+
+ (b) Direct costs for providing medical transport services include only the unallocated payroll costs for the shifts when personnel dedicate 100 percent of their time to providing medical transport services, medical equipment and supplies, and other costs directly related to the delivery of covered services, such as first-line supervision, materials and supplies, professional and contracted services, capital outlay, travel, and training. These costs shall be in compliance with Medicaid non-institutional reimbursement policy and are directly attributable to the provision of the medical transport services; 
+
+ (c) Indirect costs are determined in accordance with one of the following options: 
+
+ (A) Eligible GEMT providers that receive more than $35 million in direct federal awards shall either have a Cost Allocation Plan (CAP) or a cognizant agency-approved indirect rate agreement in place with its federal cognizant agency to identify indirect cost. If the eligible GEMT provider does not have a CAP or an indirect rate agreement in place with its federal cognizant agency and it would like to claim indirect cost in association with a non-institutional service, it shall obtain one or the other before it can claim any indirect cost; or 
+
+ (B) Eligible GEMT providers that receive less than $35 million of direct federal awards are required to develop and maintain an indirect rate proposal for purposes of audit. In the absence of an indirect rate proposal, eligible GEMT providers may use methods originating from a CAP to identify its indirect cost. If the eligible GEMT provider does not have an indirect rate proposal on file or a CAP in place and it would like to claim indirect cost in association with a non-institutional service, it shall secure one or the other before it can claim any indirect cost; or 
+
+ (C) Eligible GEMT providers that receive no direct federal funding can use any of the following previously established methodologies to identify indirect cost: 
+
+ (i) A CAP with its local government; or 
+
+ (ii) An indirect rate negotiated with its local government; or 
+
+ (iii) Direct identification through use of a cost report. 
+
+ (D) If the eligible GEMT provider never established any of the above methodologies, it may do so, or it may elect to use the 10 percent de minimis rate to identify its indirect cost. 
+
+ (d) The GEMT provider-specific, per-medical transport cost rate is calculated by dividing the total net medical transport allowable costs of the specific provider by the total number of medical transports provided by the provider for the applicable service period; 
+
+ (e) The costs associated with Treatment in place shall not be included in the total allowable costs and must not be counted as an allowable medical transport. 
+
+ (6) Interim Supplemental Payment: 
+
+ (a) Each eligible GEMT provider shall compute the annual cost in accordance with OAR 410-136-3370(5) and shall submit the completed annual as-filed cost report to the Authority within five months after the close of the state’s fiscal year; 
+
+ (b) The Authority shall make annual interim supplemental payments to eligible GEMT providers. The interim supplemental payment for each eligible GEMT provider is based on the provider’s completed annual cost report in the format prescribed by the Authority and approved by CMS for the applicable cost reporting year; 
+
+ (c) To determine the interim supplemental GEMT payment rate, the Authority shall use the most recently filed cost reports of all eligible GEMT providers to determine the average cost per transport, which varies between the providers. 
+
+ (7) Cost Settlement Process: 
+
+ (a) The payments and the number of transport data reported in the as-filed cost report shall be reconciled to the Authority’s MMIS reports generated for the cost reporting period within one year of receipt of the as-filed cost report. The Authority shall make adjustments to the as-filed cost report based on the reconciliation results of the most recently retrieved MMIS report; 
+
+ (b) Each eligible GEMT provider shall receive payments in an amount equal to the greater of the interim payment or the total CMS approved Medicaid-allowable costs for GEMT services; 
+
+ (c) The Authority shall perform a final reconciliation where it will settle the provider’s annual cost report as audited within the following calendar quarter. The Authority shall compute the net GEMT allowable costs using audited per-medical transport cost and the number of fee-for-service GEMT transports data from the updated MMIS reports. Actual net allowable costs shall be compared to the total base and interim supplemental payment and settlement payments made and any other source of reimbursement received by the provider for the period; 
+
+ (d) If, at the end of the final reconciliation, it is determined that the eligible GEMT provider is overpaid, the provider shall return the overpayment to the Authority, and the Authority shall return the overpayment to the federal government pursuant to section 433.316 of Title 42 of the Code of Federal Regulations. If an underpayment is determined, then the eligible GEMT provider shall receive an interim supplemental payment in the amount of the underpayment. Overpayments and underpayments shall be processed in accordance with OAR 410-120-1397; 
+
+ (e) The provider may appeal an Authority notice of overpayment in the manner provided in OAR 410-120-1560. 
+
+ (8) Eligible GEMT Provider Reporting Requirements: 
+
+ (a) Submit CMS approved cost reports to the Authority no later than five months after the close of the SFY, unless the eligible GEMT provider made a written request for an extension and such request is granted by the Authority; 
+
+ (b) Provide any supporting documentation to serve as evidence supporting information on the cost report and the cost determination, if specifically requested by the Authority; 
+
+ (c) Keep, maintain, and have readily retrievable such records to fully disclose reimbursement amounts that the eligible GEMT provider is entitled to and any other records required by CMS; 
+
+ (d) Comply with the allowable cost requirements provided in Part 413 of Title 42 of the Code of Federal Regulations, 2 CFR Part 200, and Medicaid non-institutional reimbursement policy. 
+
+ (9) Agency Responsibilities: 
+
+ (a) The Authority shall, on an annual basis, submit any necessary materials to the federal government to provide assurances that claims shall include only those expenditures that are allowable under federal law; 
+
+ (b) The Authority shall complete the audit and final reconciliation process of the interim supplemental payments for the service period within nine months of the postmark date of the cost report and conduct on-site audits as necessary. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.234 
+ 
+ 
+ Statutes/Other Implemented:  ORS 413.235 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 76-2023, amend filed 09/19/2023, effective 09/19/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 23-2019, adopt filed 06/25/2019, effective 07/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

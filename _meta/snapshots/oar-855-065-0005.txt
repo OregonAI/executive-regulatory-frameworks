@@ -1,0 +1,430 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Board of Pharmacy 
+ Chapter 855 
+ 
+ 
+ 
+ 
+ 
+ Division 65 WHOLESALE DRUG OUTLETS 
+ 855-065-0005 
+ Definitions
+ 
+ 
+ (1) “Affiliate” means a business entity that has a relationship, or is an authorized trading partner, with a second business entity if, directly or indirectly: 
+
+ (a) One business entity controls, or has the power to control, the other business entity; or 
+
+ (b) A third party controls, or has the power to control, both of the business entities. 
+
+ (2) "Authorized Distributor of Record" means a wholesale distributor with whom a manufacturer has established an ongoing relationship to distribute the manufacturer's prescription drug. An ongoing relationship is deemed to exist between such wholesale distributor and a manufacturer when the wholesale distributor, including any affiliated group of the wholesale distributor, as defined in Section 1504 of the Internal Revenue Code, complies with either or both of the following: 
+
+ (a) The wholesale distributor has a written agreement currently in effect with the manufacturer evidencing such ongoing relationship; or 
+
+ (b) The wholesale distributor is listed on the manufacturer's current list of authorized distributors of record, which is updated by the manufacturer no less than monthly. 
+
+ (3) "Broker" means a person engaged in the marketing, offering, or contracting for wholesale distribution and sale of a drug into, within, or out of Oregon and who does not take physical possession of the brokered substance. 
+
+ (4) "Chain Pharmacy Warehouse" means a physical location for drugs that acts as a central warehouse and performs intra company sales or transfers of drugs to a group of chain pharmacies that have the same common ownership and control. 
+
+ (5) "Closed Door Pharmacy" means a pharmacy that provides pharmaceutical services to a defined and exclusive group of patients and is not open for dispensing to the general patient population and cannot be registered as a wholesale distributor. 
+
+ (6) "Co-Manufacturing Partner" means a pharmaceutical manufacturer that has entered into an agreement with another pharmaceutical manufacturer to engage in a business activity or occupation related to the manufacture or distribution of a prescription drug. 
+
+ (7) "Designated Representative" means an individual designated by each wholesale distributor registered by the board who will serve as the primary contact person for the wholesale distributor with the board and who is responsible for managing the company's operations at that registered location. 
+
+ (8) "Drug Sample" means a unit of a drug that is intended to promote the sale of the drug, but which is not itself for sale. 
+
+ (9) “Illegitimate Product” means a product for which credible evidence shows that the product is: 
+
+ (a) Counterfeit, diverted, or stolen; 
+
+ (b) Intentionally adulterated such that the product would result in serious adverse health consequences or death to humans; 
+
+ (c) The subject of a fraudulent transaction; or 
+
+ (d) Otherwise unfit for distribution such that the product would be reasonably likely to result in serious adverse health consequences or death. 
+
+ (10) "Intra Company Transfer" means the transfer of any drug between a division, subsidiary, parent, and an affiliated or related company under the common ownership and control of a corporate entity. 
+
+ (11) "Manufacturer" means anyone, including a manufacturer's co-manufacturing partner, who is engaged in manufacturing, preparing, propagating, compounding, processing, packaging, repackaging, or labeling of a drug, except when the process is part of a shared pharmacy service agreement as defined in OAR 855-006-0005. 
+
+ (12) "Pedigree" for the purpose of this Division consists of: 
+
+ (a) “Transaction History,” which means a statement in paper or electronic form, including the transaction information for each prior transaction going back to the manufacturer of the product. 
+
+ (b) “Transaction Information,” which must include, but is not limited to: 
+
+ (A) The proprietary or established name or names of the product; 
+
+ (B) The strength and dosage form of the product; 
+
+ (C) The National Drug Code number of the product; 
+
+ (D) The container size; 
+
+ (E) The number of containers; 
+
+ (F) The lot number of the product; 
+
+ (G) The date of the transaction; 
+
+ (H) The date of the shipment, if more than 24 hours after the date of the transaction; 
+
+ (I) The business name and address of the person from whom ownership is being transferred; and 
+
+ (J) The business name and address of the person to whom ownership is being transferred. 
+
+ (c) “Transaction Statement,” which is a statement, in paper or electronic form, that the entity transferring ownership in a transaction is compliant with Food and Drug Administration (FDA) regulations set forth by the Drug Quality and Security Act and includes but is not limited to: 
+
+ (A) Confirmation that the entity is authorized or registered as required under the Drug Supply Chain Security Act; 
+
+ (B) Acknowledgement that product is received from an authorized or registered entity, as required under the Drug Supply Chain Security Act; 
+
+ (C) Confirmation of receipt of transaction information and of transaction statement from the prior owner of the product, as required under the Drug Supply Chain Security Act; 
+
+ (D) Verification that a suspect or illegitimate product was not knowingly shipped; 
+
+ (E) Confirmation that systems and processes are in place to comply with verification requirements under the Drug Supply Chain Security Act; 
+
+ (F) Confirmation that false transaction information was not knowingly provided; and 
+
+ (G) Confirmation that transaction history was not knowingly altered. 
+
+ (13) "Prescription Drug" means any drug required by law to be dispensed only by a prescription. 
+
+ (14) “Quarantine” means the storage or identification of a product, to prevent distribution or transfer of the product, in a physically separate area clearly identified for such use or through other procedures. 
+
+ (15) "Suspect Product" means a product for which there is no reason to believe that such product is: 
+
+ (a) Potentially counterfeit, diverted, or stolen; 
+
+ (b) Potentially intentionally adulterated such that the product would result in serious adverse health consequences or death to humans; 
+
+ (c) Potentially the subject of a fraudulent transaction; or 
+
+ (d) Otherwise unfit for distribution such that the product would result in serious adverse health consequences or death. 
+
+ (16) “Trading Partner” means: 
+
+ (a) A manufacturer, repackager, wholesale distributor, or dispenser from whom a manufacturer, repackager, wholesale distributor, or dispenser accepts direct ownership of a product or to whom a manufacturer, repackager, wholesale distributor, or dispenser transfers direct ownership of a product; or 
+
+ (b) A third-party logistics provider from whom a manufacturer, repackager, wholesale distributor, or dispenser accepts direct possession of a product or to whom a manufacturer, repackager, wholesale distributor, or dispenser transfers direct possession of a product. 
+
+ (17) “Validate” means to verify that each transaction listed on the pedigree and other accompanying documentation has occurred and is accurately recorded. 
+
+ (18) "Wholesale Distribution" means distribution of a drug to a person other than a consumer or patient, but does not include: 
+
+ (a) Delivery by a retail pharmacy of a prescription drug to a patient or patient's agent pursuant to the lawful order of a licensed practitioner. 
+
+ (b) The sale of minimal quantities of a prescription drug by retail or institutional pharmacies to licensed practitioners for office use. 
+
+ (c) The sale, purchase, or trade of a drug or an offer to sell, purchase, or trade a drug which may include: 
+
+ (A) Emergency medical reasons; 
+
+ (B) Drug or devices used during a federal or state declared emergency; or 
+
+ (C) The transfer of a drug by a pharmacy to another pharmacy to alleviate a temporary shortage. 
+
+ (d) Intra company transfer of drugs as defined in these rules. 
+
+ (e) The lawful distribution of a drug sample by a manufacturer's or a distributor's representative. 
+
+ (f) The distribution of a drug or an offer to distribute a drug by a charitable organization to a non-profit affiliate of the organization to the extent permitted by law. 
+
+ (g) The purchase or acquisition of a drug by a hospital or other health care entity that is a member of a group purchasing organization, for the hospital's or health care entity's own use, from the group purchasing organization or from other hospitals or health care entities that are members of the organization or under common control. 
+
+ (h) The transfer of a prescription drug between pharmacies pursuant to a shared pharmacy service agreement as defined in OAR 855-006-0005. 
+
+ (i) The distribution by a manufacturer, as part of a prescription assistance program, of a drug intended for a specific patient, to a person authorized to prescribe, administer or dispense prescription drugs. 
+
+ (j) The sale, purchase, or trade of blood and blood components intended for transfusion. 
+
+ (k) Drug returns, when conducted in accordance with state and federal laws and regulations. A drug return includes the sale or transfer from a dispenser, retail pharmacy, or chain pharmacy warehouse of expired, damaged, returned or recalled drugs to the original manufacturer, wholesale distributor, or to a reverse wholesaler, and the returns of saleable drugs to the original manufacturer or wholesaler. 
+
+ (l) The sale, transfer, merger or consolidation of all or part of the business of a pharmacy from or with another pharmacy. 
+
+ (m) The distribution of drugs by a manufacturer registered under OAR 855-065 division of this chapter of rules of its own products to a person other than a patient. 
+
+ (19) "Wholesale Distributor" means any entity engaged in the wholesale distribution of drugs. The term "Wholesale Distributor" includes but is not limited to, own-label distributors; private-label distributors; warehouses, including manufacturers' and distributors' warehouses; drug wholesalers or distributors; retail pharmacies that conduct wholesale distribution; and chain pharmacy warehouses that conduct wholesale distribution. 
+
+ (20) "Wholesaler" means any wholesale distributor: 
+
+ (a) "Class I Wholesaler" for the purpose of these rules means any person operating or maintaining a wholesale distribution center, wholesale business or any other business in which prescription drugs, including controlled drugs, devices containing prescription drugs, medicinal chemicals, or poisons are sold, dispensed, stocked, exposed or offered for sale at wholesale to a pharmacy or other legally licensed drug outlets or persons and is required to comply with all pedigree requirements; 
+
+ (b) "Class II Wholesaler" means any person operating or maintaining a wholesale distribution center, wholesale business or any other business in which any non-prescription drugs are stored, or offered for sale or distribution at wholesale to a drug outlet or practitioner legally authorized to resell, distribute, dispense or administer. 
+
+ (c) “Class III Wholesaler” means any person operating or maintaining a wholesale distribution center, wholesale business or any other business in which any of the products in paragraphs (A)-(F) below are stored, or offered for sale or distribution at wholesale to a drug outlet or practitioner legally authorized to resell, distribute, dispense or administer and is exempted from Federal recordkeeping requirements: 
+
+ (A) Drugs distributed exclusively for veterinary use. If any prescription drugs not intended for veterinary use are offered for sale, the wholesaler must register as a Class I wholesaler; 
+
+ (B) Prescription devices that do not contain a prescription drug; 
+
+ (C) Drugs or devices possessed by a state or local government agency, or non-profit relief organization approved by the board; 
+
+ (D) Oxygen USP and medical gases; 
+
+ (E) Intravenous drugs; by which formulation, are intended for the replenishment of fluids, electrolytes or calories; 
+
+ (F) Medical convenience kits which includes any non-controlled drug product or biological product, assembled in kit form. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 689.205 
+ 
+ 
+ Statutes/Other Implemented:  ORS 689.155 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BP 45-2021, amend filed 12/16/2021, effective 12/16/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ BP 4-2015, f. & cert. ef. 7-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ BP 6-2012, f. & cert. ef. 12-13-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ BP 4-2012(Temp), f. & cert. ef. 6-19-12 thru 12-16-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ BP 5-2009, f. & cert. ef. 12-24-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ BP 2-2009(Temp), f. 6-22-09, cert. ef. 6-26-09 thru 12-23-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ BP 12-2006, f. & cert. ef. 12-19-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PB 3-1992, f. & cert. ef. 3-26-92 (and corrected 4-8-92) 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 1PB 2-1980, f. & ef. 4-3-80 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 1PB 2-1979(Temp), f. & ef. 10-3-79 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

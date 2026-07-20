@@ -1,0 +1,318 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 314 INCOME TAXATION GENERALLY  GENERAL PROVISIONS 
+ 150-314-0169 
+ Standards for Substitute Tax Forms; Treatment of Forms Not Meeting the Standards; Treatment of Payments Received With Forms Not Meeting the Standards
+ 
+ 
+ (1) Definitions . For purposes of this rule: 
+
+ (a) Official form . An official form is any payroll, income, excise tax, or corporate activity tax form prepared, printed, and distributed by or on behalf of the department pursuant to Oregon Revised Statutes (ORS) Chapters 310, 314, 315, 316, 317, 317A, 318, Lane Transit District (LTD) Ordinance 51, and Tri-County Metropolitan Transportation District (TRIMET) Ordinance 92. 
+
+ (b) Substitute form . A substitute form is any payroll, income, excise tax, or corporate activity tax form authorized under ORS Chapters 310, 314, 315, 316, 317, 317A, 318, LTD Ordinance 51, or TRIMET Ordinance 92 that is intended to replace the official form. 
+
+ (c) Tax Return . A tax return is a payroll, income,  excise tax, or corporate activity tax form filed with the department by or on behalf of a taxpayer under the provisions of ORS Chapter 310, 314, 315, 316, 317, 317A, 318, LTD Ordinance 51, or TRIMET Ordinance 92. 
+
+ (2) A tax return must be made on the department-prescribed forms, which may be obtained upon request from the department. Such forms are widely distributed, but a failure to receive any forms does not relieve the taxpayer from the responsibility to file any return required by statute. 
+
+ (3) The department may accept a substitute form filed in lieu of an official form if the substitute form meets the standards set forth in this rule. It is the intent of the department to follow the National Association of Computerized Tax Processors (NACTP) standards as closely as is practical. 
+
+ (4) Substitute form standards. A substitute form with or without optical character readable (OCR) scan lines must be a duplicate of the official form unless the variation is within the exceptions listed in section (5) of this rule. The overall format of substitute forms must match the format of official forms. Overall format includes text size and placement, graphics, location of lines, boxes, data entry symbols, spacing, 2-D barcode placement, and OCR scan line. 
+
+ (a) A substitute form must be on paper of the same overall dimension (size) and weight and of a quality equal to or better than that used for the official form. 
+
+ (b) Substitute forms and the filled-in data must be legible and must not have extra text or marks that do not appear on the official forms. 
+
+ (c) The social security number on substitute forms must be separated by hyphens after the third and fifth digits. 
+
+ (d) If the substitute form has OCR scan lines, black nonreflective ink in OCR-A font must be used for printing the scan line. 
+
+ (e) Substitute forms must contain a 2-D barcode for tax years beginning on or after January 1, 2006 if the substitute form is: 
+
+ (A) Software generated; and 
+
+ (B) Used for personal income tax purposes under ORS Chapters 314, 315, or 316. 
+
+ (5) Exceptions . The substitute form may differ from the official form with respect to the exceptions listed in this section. However, the difference may delay processing of the tax return. 
+
+ (a) Official forms that are printed on colored paper may be reproduced in black ink on white paper. 
+
+ (b) Official forms that use both sides of the paper may be reproduced on one side only of two successive pages. 
+
+ (c) Gray boxes that are intended to drop out during imaging do not need to be printed on the reproduced forms. 
+
+ (d) Substitute forms that the department does not support in 2-D barcode format may be printed without 2-D barcode. 
+
+ (6) Photocopies of official forms may be filed if the official form does not contain OCR printing. 
+
+ (7)(a) Substitute forms must be approved by the department prior to use. Substitute forms that do not meet the requirements of this rule may not be filed in lieu of the official forms. The department may reject and return to the taxpayer tax returns using substitute forms that do not meet the requirements of this rule. 
+
+ (b) A tax return that has been rejected under this rule does not meet the filing requirement of the applicable program. The taxpayer must file a tax return using an official form or a substitute form that meets the requirements of this rule in order to meet the filing requirement under the provisions of the personal income tax, corporate income tax, corporate excise tax, and corporate activity tax programs; the filing requirement under the TRIMET self-employment tax and LTD programs; or the filing requirement under ORS 314.724 for partnership returns. If the return is rejected, the taxpayer may be assessed penalty for failure to file a tax return as provided under ORS 314.400, 314.724 or as otherwise provided under Oregon law. 
+
+ (8) If the department receives payment with a substitute form that does not meet the requirements of this rule, the department will treat the payment as an estimated tax payment under the provisions of ORS Chapters 314, 316, or 317A. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 
+ 
+ 
+ Statutes/Other Implemented:  ORS 314.385 & 317A.149 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 9-2021, amend filed 06/28/2021, effective 07/01/2021 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 150-314.385(3), REV 32-2016, f. 8-12-16, cert. ef. 9-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 10-2006, f. 12-27-06, cert. ef. 1-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 7-2006(Temp), f. & cert. ef. 9-29-06 thru 12-31-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 150-314.385(1)-(D), Rev 4-2005, f. 12-30-05, cert. ef. 1-1-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 1-2005, f. 6-27-05, cert. ef. 6-30-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RD 3-1995, f. 12-29-95, cert. ef. 12-31-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RD 4-1991, f. 12-30-91, cert. ef. 12-31-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RD 11-1987, f. & cert. ef. 11-1-87 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RD 9-1987(Temp), f. & cert. ef. 7-8-87 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

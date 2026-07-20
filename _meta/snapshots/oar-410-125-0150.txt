@@ -1,0 +1,205 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 125 HOSPITAL SERVICES 
+ 410-125-0150 
+ Disproportionate Share 
+ 
+ (1) The Disproportionate-share hospital (DSH) payment is an additional reimbursement made to hospitals that serve a disproportionate share of low-income patients with special needs.  (a) To receive DSH payments, a hospital must have at least two obstetricians with staff privileges at the hospital who have agreed to provide non-emergency obstetrical services to Medicaid patients. For hospitals in a rural area (outside of a Metropolitan Statistical Area, as defined by the Executive Office of Management and Budget), the term "obstetrician" includes any physician with staff privileges at the hospital that performs non-emergency obstetric procedures. This requirement does not apply to a hospital in which a majority of inpatients are under 18 years of age, or a hospital that had discontinued or did not offer non-emergency obstetric services as of December 21, 1987. No hospital may qualify for disproportionate share payments unless the hospital has, at a minimum, a Medicaid utilization rate of 1 percent. The Medicaid utilization rate is the ratio of total paid Medicaid (Title XIX, non-Medicare) days to total inpatient days. Newborn days, days in specialized wards, and administratively necessary days are included. Days attributable to individuals eligible for Medicaid in another State are also accounted for;  (b) Information on total inpatient days is taken from the most recent Medicare Cost Report.  (2) A hospital's eligibility for DSH payments is determined at the beginning of each fiscal year. Hospitals that are not eligible under Criteria 1 may apply for eligibility at any time during the year under Criteria 2. A hospital may be determined eligible under Criteria 2 only after being determined ineligible under Criteria 1.  (3) Eligibility under Criteria 2 is effective from the beginning of the quarter in which eligibility is approved. Out-of-state hospitals are eligible for DSH payments if they have been designated by their state Title XIX Medicaid program as eligible for DSH payments within that state:  (a) Criteria 1: One or more standard deviation above the mean  (A) The ratio of total paid Medicaid inpatient (Title XIX, non-Medicare) days for hospital services (regardless of whether the services were furnished on a fee-for-service basis or through a managed care entity) to total inpatient days is one or more standard deviations above the mean for all Oregon hospital;  (B) Information on total inpatient days is taken from the most recent audited Medicare Cost Report. The total paid Medicaid inpatient days is based on Division of Medical Assistance Programs’ (Division) records for the same cost reporting period;  (C) Information on total paid Medicaid days is taken from Division reports of paid claims for the same fiscal period as the Medicare Cost Report.  (b) Criteria 2: A low-income utilization rate exceeding 25 percent  (A) The Low income utilization rate is the sum of percentages (3)(b)(A)(i) and (3)(b)(A)(ii) below:  (i) The Medicaid percentage: The total of Medicaid inpatient and outpatient revenues paid to the hospital for hospital services (regardless of whether the services were furnished on a fee-for-service basis or through a managed care entity) plus any cash subsidies received directly from State and local governments in the most recent Medicare cost reporting period. This amount is divided by the total amount of inpatient and outpatient revenues and cash subsidies of the hospital for patient services in the most recent Medicare cost reporting period. The result is expressed as a percentage;  (ii) The charity care percentage: The total hospital charges for inpatient hospital services for charity care in the most recent Medicare cost reporting period, minus any cash subsidies received directly from State and local government in the same period is divided by the total amount of the hospital's charges for inpatient services in the same period. The result is expressed as a percentage;  (iii) Charity care is provided to individuals who have no source of payment, including third party and personal resources.  (B) Charity care shall not include deductions from revenues or the amount by which inpatient charges are reduced due to contractual allowances and discounts to other third party payers, such as Fully-Capitated Health Plans (FCHPs), Medicare, Medicaid, etc;  (C) The information used to calculate the low income utilization rate is taken from the following sources:  (i) The most recent Medicare Cost Reports;  (ii) The Division’s records of payments made during the same reporting period;  (iii) Hospital-provided financial statements, prepared and certified for accuracy by a licensed public accounting firm for the same reporting period;  (iv) Hospital-provided official records from state and county agencies of any cash subsidies paid to the hospital during the same reporting period;  (v) Any other information that the Division, working in conjunction with representatives of Oregon hospitals, determines is necessary to establish eligibility.  (D) The Division determines within 30 days of receipt of all required information if a hospital is eligible under the low income utilization rate criteria.  (c) Disproportionate-share payment calculations:  (A) All hospitals that have been deemed DSH hospitals will always qualify for DSH payments under criteria 1 or criteria 2. Hospital ranking is done on an annual basis for all hospitals. Once eligible hospitals are determined Division calculates the standard deviations for the hospitals to determine if they will be eligible under criteria 1 or criteria 2.  (B) Criteria 1: One or more deviations above the mean The quarterly DSH payment to hospitals eligible under criteria 1 is the sum of Diagnosis Related Groups (DRG) weights for paid Title XIX non-Medicare claims for the quarter multiplied by a percentage of the hospital-specific Unit Value; this determines the hospital's DSH payment for the current quarter. The Unit Value used for eligible Type A, Type B, and Critical Access Hospitals is set at the same rate as for out-of-state hospitals. The calculation is as follows:  (i) For eligible hospitals more than one standard deviation and less than two standard deviations above the mean, the disproportionate share percentage is 5%. The total of all relative weights is multiplied by the hospital's unit value. This amount is multiplied by 5% to determine the DSH payment;  (ii) For eligible hospitals more than two and less than three standard deviations above the mean, the percentage is 10%. The total of all relative weights is multiplied by the hospital's unit value. The amount is multiplied by 0.10 to determine the DSH payment.  (iii) For eligible hospitals more than three standard deviations above the mean, the percentage is 25%. The total of all relative weights is multiplied by the hospital's unit value. This amount is multiplied by 0.25 to determine the DSH payment.  (C) Eligibility under Criteria 2: For hospitals eligible under Criteria 2 (low income utilization rate), the payment is the sum of DRG weights for claims paid by the Division in the quarter, multiplied by the hospital's disproportionate share adjustment percentage established under Section 1886(d)(5)(F)(iv) of the Social Security Act multiplied by the hospital's unit value;  (D) For out-of-state hospitals, the quarterly DSH payment is 5% of the out-of-state unit value multiplied by the sum of the Oregon Medicaid DRG weights for the quarter. Out-of-state hospitals that have entered into agreements with the Division for payment are reimbursed according to the terms of the agreement or contract.  (d) Public Academic Medical Center Disproportionate Share adjustments:  (A) Public academic medical centers that meet the following eligibility standards shall be deemed eligible for additional DSH payments up to 100% of their cost for serving Medicaid fee for service clients and indigent and uninsured patients:  (i) The hospital must have at least two obstetricians with staff privileges at the hospital who have agreed to provide obstetric services to individuals who are entitled to medical assistance for such services; and  (ii) The hospital must be located within the State of Oregon (border hospitals are excluded); and  (iii) The hospital provides a major medical teaching program, defined as a hospital with more than 200 residents or interns.  (B) 100% of the costs for hospitals qualifying for this DSH payment will be determined from the following sources:  (i) The most recent Medicare Cost Reports; or  (ii) The Division’s record of payments made during the same reporting period; or  (iii) Hospital provided official records from state and county agencies of any cash subsidies paid to the hospital during the same reporting period; or  (iv) Any information which the Division, working in conjunction with representatives of Oregon hospitals, determines necessary to establish cost.  (e) Additional Disproportionate Adjustments:  (A) For all hospitals with a Medicaid utilization rate above one percent of all payer utilization, the DSH payment is the ratio of the hospital’s low income shortfall to the low income shortfall for all eligible hospitals multiplied by the total Federal disproportionate share allotment remaining after disproportionate payments have been made.  (B) The low income shortfall is the Medicaid costs for inpatient and outpatient hospitals services plus uncompensated care for the uninsured cost for inpatient and outpatient hospital services less total Medicaid and self-pay payments for inpatient and outpatient hospital services.  (f) Disproportionate-share payment schedule:  (A) Hospitals qualifying for DSH payments under section (3)(c) above will receive quarterly payments based on claims paid during the preceding quarter. Hospitals that were eligible during one fiscal year but are not eligible for disproportionate share status during the next fiscal year will receive DSH payments based on claims paid in the quarter in which they were eligible. Hospitals qualifying for DSH payments under section (3)(e) above will receive quarterly payments of 25 percent of the amount determined under this section;  (B) Effective October 1, 1994, and in accordance with the Omnibus Budget Reconciliation Act of 1993, DSH payments to hospitals will not exceed 100 percent of the "basic limit" which is:  (i) The inpatient and outpatient costs for services to Medicaid patients, less the amounts paid by the State under the non-DSH payment provisions of the State plan, plus  (ii) The inpatient and outpatient costs for services to uninsured indigent patients, less any payments for such services. An uninsured indigent patient is defined as an individual who has no other resources to cover the costs of services delivered. The costs attributable to uninsured patients are determined through disclosures in the Medicare (HCFA-2552) cost report and state records on indigent care.  (C) The State has a contingency plan to assure that disproportionate share hospital payments will not exceed the State disproportionate share hospital allotment (allotment). A reduction in payments in proportion to payments received will be effected to meet the requirements of section 1923(f) of the Social Security Act. DSH payments are made quarterly. Before payments are made for the last quarter of the Federal fiscal year, payments for the first three quarters and the anticipated payment for the last quarter are cumulatively compared to the allotment.  (i) If the allotment will be exceeded, the DSH payments for the last quarter will be adjusted proportionately for each hospital qualifying for payments under section (3)(d).  (ii) If the allotment will still be exceeded after this adjustment, DSH payments to out-of-state hospitals will be adjusted in proportion to DSH payments received during the previous three quarters.  (iii) If this second adjustment still results in the allotment being exceeded, hospitals qualifying for payments under section (3)(c) (Criteria 1 and 2) will be adjusted by applying each hospital's proportional share of payments during the previous three quarters to total DSH payments to all hospitals for that period.  (D) Similar monitoring, using a predetermined limit based on the most recent audited costs, and including the execution of appropriate adjustments to DSH payments are in effect to meet the hospital specific limit provisions detailed in section 1923(g) of the Social Security Act. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.065 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 32-2012, f. 6-29-12, cert. ef. 7-1-12 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ OMAP 70-2004, f. 9-15-04, cert. ef. 10-1-04 
+OMAP 35-2001, f. 9-24-01, cert. ef. 10-1-01 
+OMAP 23-1998, f. & cert. ef. 7-15-98 
+OMAP 6-1998(Temp), f. & cert. ef. 2-11-98 thru 7-15-98 
+HR 24-1995, f. 12-29-95, cert. ef. 1-1-96 
+HR 36-1993, f. & cert. ef. 12-1-93 
+HR 53-1991, f. & cert. ef. 11-18-91, Renumbered from 410-125-0940 
+HR 32-1991(Temp), f. & cert. ef. 7-29-91 
+HR 28-1991(Temp), f. & cert. ef. 7-1-91 
+HR 2-1991, f. & cert. ef. 1-4-91 
+HR 31-1990(Temp), f. & cert. ef. 9-11-90 
+HR 21-1990, f. & cert. ef. 7-9-90, Renumbered from 461-015-0620 
+AFS 72-1989, f. & cert. ef. 12-1-89, Renumbered from 461-015-0006 & 461-015-0124 
+AFS 49-1989(Temp), f. 8-24-89, cert. ef. 9-1-89 
+AFS 45-1989, f. & cert. ef. 8-21-89 
+AFS 37-1989(Temp), f. 6-30-89, cert. ef. 7-1-89 
+AFS 36-1989(Temp), f. & cert. ef. 6-30-89 
+AFS 15-1989(Temp), f. 3-31-89, cert. ef. 4-1-89 
+AFS 7-1989(Temp), f. 2-17-89, cert. ef. 3-1-89 
+AFS 63-1988, f. 10-3-88, cert. ef. 12-1-88 
+AFS 47-1988(Temp), f. 7-13-88, cert. ef. 7-1-88 
+AFS 26-1988, f. 3-31-88, cert. ef. 4-1-88 
+AFS 12-1988, f. 2-10-88, cert. ef. 6-1-88 
+AFS 62-1987(Temp), f. 12-30-87, cert. ef. 1-1-88 
+AFS 46-1987, f. & cert. ef. 10-1-87 
+AFS 33-1987(Temp), f. & cert. ef. 7-22-87 
+AFS 61-1986, f. 8-12-86, cert. ef. 9-1-86 
+AFS 46-1986(Temp), f. 6-25-86, cert. ef. 7-1-86 
+AFS 52-1985, f. 9-3-85, cert. ef. 10-1-85 
+AFS 6-1985, f. 1-28-85, cert. ef. 2-1-85 
+AFS 45-1984, f. & cert. ef. 10-1-84 
+AFS 1-1984, f. & cert. ef. 1-9-84 
+AFS 37-1983(Temp), f. & cert. ef. 7-15-83 
+AFS 60-1982, f. & cert. ef. 7-1-82; Renumbered from 461-015-0120(5) 
+AFS 18-1982(Temp), f. & cert. ef. 3-1-82 
+AFS 57-1980, f. 8-29-80, cert. ef. 9-1-80 
+AFS 14-1980, f. 3-27-80, cert. ef. 4-1-80 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

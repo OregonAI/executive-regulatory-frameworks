@@ -1,0 +1,317 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 116 USE OF RADIONUCLIDES IN THE HEALING ARTS 
+ 333-116-0905 
+ Training for Authorized Medical Physicist
+ 
+ 
+ Except as provided in OAR 333-116-0740, the licensee shall require the authorized medical physicist to be an individual who: 
+
+ (1) Is certified by a specialty board whose certification process has been recognized by the U.S. Nuclear Regulatory Commission or an Agreement State and who meets the requirements in section (3) of this rule. The names of board certifications that have been recognized by the U.S. Nuclear Regulatory Commission or an Agreement State are posted on the U.S. Nuclear Regulatory Commission’s Medical Uses Licensees Toolkit webpage. To have its certification process recognized, a specialty board shall require all candidates for certification to: 
+
+ (a) Hold a master's or doctor's degree in physics, medical physics, other physical science, engineering, or applied mathematics from an accredited college or university; 
+
+ (b) Have two years of full-time practical training and supervised experience in medical physics: 
+
+ (A) Under the supervision of a medical physicist who is certified in medical physics by a specialty board whose certification process has been recognized under this rule, by the U.S. Nuclear Regulatory Commission or an Agreement State; or 
+
+ (B) In clinical radiation facilities providing high-energy, external beam therapy (photons and electrons with energies greater than or equal to one million electron volts) and brachytherapy services under the direction of physicians who meet the requirements for authorized users in OAR 333-116-0740, 333-116-0690 or 333-116-0720; and 
+
+ (c) Pass an examination, administered by diplomats of the specialty board, that assesses knowledge and competence in clinical radiation therapy, radiation safety, calibration, quality assurance, and treatment planning for external beam therapy, brachytherapy, and stereotactic radiosurgery; or 
+
+ (2) Holds a master's or doctor's degree in physics, medical physics, other physical science, engineering, or applied mathematics from an accredited college or university; and has completed one year of full-time training in medical physics and an additional year of full-time work experience under the supervision of an individual who meets the requirements for an authorized medical physicist for the type(s) of use for which the individual is seeking authorization. 
+
+ (a) This training and work experience must be conducted in clinical radiation facilities that provide high-energy, external beam therapy (photons and electrons with energies greater than or equal to one million electron volts) and brachytherapy services and must include: 
+
+ (A) Performing sealed source leak tests and inventories; 
+
+ (B) Performing decay corrections; 
+
+ (C) Performing full calibration and periodic spot checks of external beam treatment units, stereotactic radiosurgery units, and remote afterloading units as applicable; and 
+
+ (D) Conducting radiation surveys around external beam treatment units, stereotactic radiosurgery units, and remote afterloading units as applicable; and 
+
+ (b) Has obtained written attestation that the individual has satisfactorily completed the requirements in section (2) and subsection (3)(a) of this rule, and has achieved a level of competency sufficient to independently fulfill the radiation safety-related duties as an authorized medical physicist for each type of therapeutic medical unit for which the individual is requesting authorized medical physicist status. The written attestation must be signed by a preceptor authorized medical physicist who meets the requirements in this rule, OAR 333-116-0740, 333-116-0905, or equivalent U.S. Nuclear Regulatory Commission or Agreement State requirements for an authorized medical physicist for each type of therapeutic medical unit for which the individual is requesting authorized medical physicist status; and 
+
+ (3) Has training for the type(s) of use for which authorization is sought that includes hands-on device operation, safety procedures, clinical use, and the operation of a treatment planning system. This training requirement may be satisfied by satisfactorily completing either a training program provided by the vendor or by training supervised by an authorized medical physicist authorized for the type(s) of use for which the individual is seeking authorization. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 453.635 
+ 
+ 
+ Statutes/Other Implemented:  ORS 453.605 - 453.807 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 81-2021, amend filed 11/19/2021, effective 11/23/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 86-2018, minor correction filed 02/01/2018, effective 02/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 25-2016, f. 8-26-16, cert. ef. 9-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 4-2013, f. & cert. ef. 1-29-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 4-2010, f. & cert. ef. 2-16-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 14-2008, f. & cert. ef. 9-15-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 4-2007, f. & cert. ef. 3-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 12-2006, f. & cert. ef. 6-16-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 36-2004, f. & cert. ef. 12-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 31-2004(Temp), f. & cert. ef. 10-8-04 thru 4-5-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 3-2003, f. & cert. ef. 3-27-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,202 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Corrections 
+ Chapter 291 
+ 
+ 
+ 
+ 
+ 
+ Division 5 NETWORK INFORMATION SYSTEM ACCESS AND SECURITY 
+ 291-005-0035 
+ Termination of Access
+ 
+ 
+ (1) Notice of termination of employment with the agency shall result in retirement of the individual’s user account(s). Prompt notice of termination shall be sent to the Department of Corrections ISO or designee by the Employee Services manager or designee who handles user authorization. This procedure also applies to users from external organizations, Oregon Corrections Enterprises, contractors, and volunteers. 
+
+ (2) Functional unit managers or their designees shall review a list of user accounts from their respective units annually to ensure accounts are legitimate. Information Technology Services (ITS) shall provide the list. 
+
+ (3) Managers of external users shall review a list of users annually and confirm those needing continued access. ITS shall provide the list. 
+
+ (4) Newly created user profiles that are not used within 45 days will be removed. 
+
+ (5) User profiles for deceased employees shall be immediately disabled upon notification. Notification is provided to manager and site contact. If no response is received from the manager or site contact within 14 days, the profile will be deleted. 
+
+ (6) Users and managers of existing profiles that are inactive for a period of 45 days will be sent notification by the Department of Corrections ISO or designee to confirm continued need for access. If there is no response within 10 business days, the profile will be disabled. Disabled accounts will be deleted 30 days after disablement, unless otherwise noted on the account. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 179.040, 423.020, 423.030 & 423.075 
+ 
+ 
+ Statutes/Other Implemented:  ORS 179.040, 423.020, 423.030 & 423.075 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 5-2024, amend filed 04/29/2024, effective 04/29/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 11-2000, f. & cert. ef. 6-19-00 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ DOC 23-1999(Temp), f. & cert. ef. 12-22-99 thru 6-19-00 
+DOC 16-1999, f. 9-24-99, cert. ef. 10-1-99 
+CD 10-1997, f. & cert. ef. 6-20-97 
+CD 24-1992, f. 11-24-92, cert. ef. 12-1-92 
+CD 12-1986, f. & cert. ef. 6-30-86 
+CD 38-1985, f. & cert. ef. 8-16-85 
+CD 7-1981, f. & cert. ef. 4-17-81 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

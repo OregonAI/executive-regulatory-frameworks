@@ -1,0 +1,314 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Justice 
+ Chapter 137 
+ 
+ 
+ 
+ 
+ 
+ Division 55 OREGON CHILD SUPPORT PROGRAM 
+ 137-055-6024 
+ Allocation of Collections to Multiple Cases
+ 
+ 
+ The terms used in this rule have the meanings set out in OAR 137-055-1020 and 137-055-6010. 
+
+ (1) Except as provided in OAR 137-055-6023 and this rule, when an obligor has multiple support cases, the distribution and disbursement sequence, as needed for each case, will be as provided in OAR 137-055-6022. 
+
+ (2) When a withholder remits a payment for an obligor against whom more than one income withholding order has been issued, the Department will allocate and distribute the amount as follows: 
+
+ (a) To current support on all cases for which the withholding was made. Any remaining amount, after current support is paid in full on all cases, will be allocated and distributed to the arrears on all withholding cases as provided in subsection (2)(b) of this rule. If the payment is not sufficient to pay each type of current support due on each case, the payment will be allocated to each case based on each case’s pro rata share of each type of current support remaining due in the following priority: current cash child support first, then current cash medical support, then current spousal support. Pro rata shares for a particular type of support will be determined by dividing the amount of that type of current support remaining due on the case by the total combined amount of that type of support remaining due on all the obligor’s support cases to which the proceeds of the order to withhold will be applied, and then multiplying the resulting percentage by the total amount withheld. 
+
+ (b) To arrears on each withholding case based on each case’s pro rata share of arrears, determined by dividing the amount of arrears owed on the case by the total combined amount of arrears remaining owed on all the obligor ’ s support cases, and then multiplying the resulting percentage by the total amount available for distribution to arrears. However, no case may receive more than the total amount of current support and arrears owed on that case at the time this distribution and disbursement is made. Any remaining funds will be allocated pro rata to the obligor’s other cases. 
+
+ (3) When the obligor is paid either weekly or biweekly, for those months in which there is an extra pay period due to the manner in which pay periods fall during the year, the payment may be allocated to each case for which an income withholding order is in effect when the payment is received, even if this results in a case receiving more than the amount requested to be withheld for that case for a single month. 
+
+ (4) Except as provided by section (5) of this rule, when the Department receives a single collection that is the result of an enforcement action that includes more than one case for the obligor, the Department will allocate and distribute the amount received as follows: 
+
+ (a) To current support on each case included in the enforcement action. Any remaining amount, after current support is paid in full on all cases, will be allocated and distributed to the arrears on all cases included in the enforcement action as provided in subsection (4)(b) of this rule. If the payment is not sufficient to pay each type of current support due on each case, the payment will be allocated to each case based on each case’s pro rata share of each type of current support remaining due in the following priority: current cash child support first, then current cash medical support, then current spousal support. Pro rata shares for a particular type of support will be determined by dividing the amount of that type of current support remaining due on the case by the total combined amount of that type of support remaining due on all the obligor’s support cases to which the proceeds of the enforcement action will be applied, and then multiplying the resulting percentage by the total amount received. 
+
+ (b) To arrears on each case included in the enforcement action based on each case’s Pro rata share of arrears, determined by dividing the amount of arrears owed on the case by the total combined amount of arrears remaining owed on all the obligor ’ s support cases, and then multiplying the resulting percentage by the total amount available for distribution to arrears. However, no case may receive more than the total amount of current support and arrears owed on that case at the time this distribution and disbursement is made. Any remaining funds will be allocated pro rata to the obligor’s other cases. 
+
+ (5) When support payments are received from federal tax refund intercepts, the payment will first be processed under OAR 137-055-6021(5). If the payment is not sufficient to pay the full arrears amount on each case certified for federal offset, the Department will allocate and distribute the amount received as follows: 
+
+ (a) If the total amount is not sufficient to pay the state’s permanently assigned arrears on all certified cases, the amount received will be allocated pro rata to each case, determined by dividing the amount of assigned arrears owed on the case to the total combined amount of assigned arrears remaining owed on all of the certified cases, and then multiplying the resulting percentage by the total amount available for distribution to arrears. 
+
+ (b) If the total amount is sufficient to pay the state’s permanently assigned arrears on all certified cases, but is not enough to pay in full all the conditionally assigned and unassigned arrears on all the obligor’s certified cases, the amount received in excess of that required to pay the state’s permanently assigned arrears on all certified cases will be allocated, distributed, and, as appropriate, disbursed as follows: 
+
+ (A) Pro rata to each certified case determined by dividing the amount of conditionally assigned and unassigned arrears owed on the case by the total combined amount of conditionally assigned and unassigned arrears remaining owed on all the obligor ’ s support certified cases, and then multiplying the resulting percentage by the total amount available for distribution to arrears. 
+
+ (B) To arrears owed to other jurisdictions, pro rata to each certified case, determined by dividing the amount of arrears owed on the case to other jurisdictions by the total combined amount of arrears remaining owed on all the obligor ’ s support cases to other jurisdictions, and then multiplying the resulting percentage by the total amount available for distribution to arrears. Within a single case, if multiple other jurisdictions are owed arrears, pro rata to the arrears owed to other jurisdictions determined by dividing the amount of arrears owed to each other jurisdiction by the total combined amount of arrears remaining owed to all other jurisdictions. 
+
+ (6) When the Department has received a personal payment from an obligor that was not directed to fewer than all cases for the obligor for which support is due as provided in OAR 137-055-6023, the Department will allocate, distribute, and, as appropriate, disburse the payment pursuant to section (4) of this rule as if it were a payment received as the result of an enforcement action that included all the obligor’s support cases. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 25.020 & 180.345 
+ 
+ 
+ Statutes/Other Implemented:  ORS 18.645, 25.020, 25.387, 25.414 & 25.610 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 9-2024, amend filed 05/24/2024, effective 06/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 55-2020, amend filed 08/04/2020, effective 08/07/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 2-2019, amend filed 02/27/2019, effective 03/04/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 23-2018, temporary amend filed 11/01/2018, effective 11/01/2018 through 04/29/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 20-2018, amend filed 09/04/2018, effective 09/05/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 9-2014, f. & cert. ef. 5-22-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 1-2010, f. & cert. ef. 1-4-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 8-2007, f. 9-28-07, cert. ef. 10-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 1-2007, f. & cert. ef. 1-2-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 9-2005, f. & cert. ef. 10-3-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

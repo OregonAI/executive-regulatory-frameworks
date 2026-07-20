@@ -1,0 +1,397 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 71 ONSITE WASTEWATER TREATMENT SYSTEMS 
+ 340-071-0275 
+ Pressurized Distribution Systems
+ 
+ 
+ (1) Pressurized distribution systems receiving residential strength wastewater may be permitted on any site meeting the requirements for installation of a standard onsite system and on other sites where this method of effluent distribution is preferable and the site conditions in this rule can be met. 
+
+ (2) Except as allowed in OAR 340-071-0220(1)(d), pressurized distribution systems must be used where depth to soil with rapid or very rapid permeability as defined in OAR 340-071- 0100(150)(a) and (b) is less than 36 inches and the minimum separation distance between the bottom of the absorption trench and such soil is less than 18 inches. 
+
+ (3) Pressurized distribution systems installed in soil with rapid or very rapid permeability as defined in OAR 340-071-0100(150)(a) and (b) in areas with permanent water tables may not discharge more than 450 gallons of effluent per 1/2 acre per day except where: 
+
+ (a) Groundwater is degraded and designated as a non-developable resource by the Oregon Water Resources Department; or 
+
+ (b) A detailed hydrogeological study discloses loading rates exceeding 450 gallons per 1/2 acre per day would not increase the nitrate-nitrogen concentration in the groundwater beneath the site or at any down gradient location to above 5 mg/L. 
+
+ (4) Materials and construction. 
+
+ (a) General. 
+
+ (A) All materials used in pressurized systems must be structurally sound, durable, and capable of withstanding normal stresses incidental to installation and operation. 
+
+ (B) Pump wiring must comply with applicable building, electrical, or other codes. An electrical permit and inspection from the Department of Consumer and Business Services, Building Codes Division, or the municipality with jurisdiction, is required for pump wiring installation. 
+
+ (C) A single-compartment dosing septic tank may not be used in a system with pressurized distribution laterals unless the tank is partitioned with a flow-through below the tank's lowest liquid level. The flow through port must be at 65 to 75 percent of the minimum liquid level and be at least 4" in diameter. 
+
+ (b) Pressurized distribution piping. Piping, valves, and fittings for pressurized systems must meet the following minimum requirements. 
+
+ (A) All pressure transport, manifold, lateral piping, and fittings must meet the requirements in OAR 340-073-0060(3). 
+
+ (B) Pressure transport piping must be uniformly supported along the trench bottom. The agent may require the piping to be bedded in sand or other material approved by the agent. A minimum 18 gauge, green-jacketed tracer wire or green color-coded metallic locate tape must be placed above piping. 
+
+ (C) Orifices must be located on top of the pipe, except as noted in subsection 4(b)(I) of this rule. 
+
+ (D) The ends of lateral piping must be constructed with long sweep elbows or an equivalent method to bring the end of the pipe to finished grade. The ends of the pipe must be provided with threaded plugs, caps, or other devices acceptable to the agent to allow for access to and flushing the lateral. 
+
+ (E) All joints in the manifold, lateral piping, and fittings must be solvent-welded using the appropriate joint compound for the pipe material. Pressure transport piping may be solvent-welded or rubber-ring jointed. 
+
+ (F) A shut off valve must be placed on the pressure transport pipe in or near the dosing tank when appropriate. 
+
+ (G) A check valve must be placed between the pump and the shut off valve when appropriate. 
+
+ (H) All orifices must be covered by a protective, durable, noncorrosive orifice shield designed to keep orifices from being blocked by drain media or other system components. The shields or piping must be removable for access to the orifices. 
+
+ (I) The agent may specify alternate orifice orientation and valve arrangements for conditions such as extended freezing temperatures, temporary or seasonal use, or effluent characteristics. 
+
+ (J) Where operating a pump could result in siphonage of effluent to below the normal off level of the pump, an anti-siphon measure in the form of a non- discharging valve designed for the specific purpose must be used. The anti-siphon valve must be installed and operated under manufacturer's specifications. 
+
+ (c) Absorption trench sizing and construction. 
+
+ (A) A system using absorption trenches must be designed and sized as OAR 340- 071-0220(2) requires. 
+
+ (B) Absorption trenches must be constructed using the specifications for the standard disposal trench unless otherwise authorized by the agent. 
+
+ (C) The trench must contain drain media at least 12 inches deep, with at least 6 inches of media under the pressure distribution laterals and sufficient media above the laterals to meet or cover the orifice shields to provide a smooth, even cover. 
+
+ (D) The top of the drain media must be covered with filter fabric or other nondegradable material permeable to fluids that will not allow passage of soil particles coarser than very fine sand. In unstable soils, sidewall lining may be required. 
+
+ (d) Seepage bed construction. 
+
+ (A) Seepage beds may be used instead of absorption trenches in soil as defined in OAR 340-071-0100(150)(b) if flows do not exceed 600 gpd. 
+
+ (B) The effective seepage area must be based on the bottom area of the seepage bed. The area must be at least 200 square feet per 150 gallons per day waste flow. 
+
+ (C) Beds must be installed at least 18 inches deep (12 inches with a capping fill) but not deeper than 36 inches into the natural soil. The seepage bed bottom must be level. 
+
+ (D) The top of the drain media must be covered with filter fabric or other nondegradable material that is permeable to fluids but will not allow passage of soil particles coarser than very fine sand. 
+
+ (E) The bed must contain drain media at least 12 inches deep with at least 6 inches of media under the pressure distribution laterals and sufficient media  above the laterals to meet or cover the orifice shields to provide a smooth, even cover. 
+
+ (F) Pressurized distribution piping must be horizontally spaced not more than 4 feet apart and not more than 2 feet away from the seepage bed sidewall. At least 2 parallel pressurized distribution pipes must be placed in the seepage bed. 
+
+ (G) A minimum of 10 feet of undisturbed earth must be maintained between seepage beds. 
+
+ (5) Hydraulic design criteria. Pressurized distribution systems must be designed for appropriate head and capacity. 
+
+ (a) Head calculations must include maximum static lift, pipe friction, and orifice head requirements. 
+
+ (A) Static lift where pumps are used must be measured from the minimum dosing tank level to the level of the perforated distribution piping. 
+
+ (B) Pipe friction must be based upon a Hazen Williams coefficient of smoothness of 150. All pressure piping and fittings on laterals must have a minimum diameter of 2 inches unless submitted plans and specifications show a smaller diameter pipe is adequate. 
+
+ (C) A minimum head of 5 feet at the remotest orifice and no more than a 10 percent flow variation between the nearest and remotest orifice in an individual unit are required. 
+
+ (b) The capacity of a pressurized distribution system refers to the rate of flow given in gallons per minute (gpm). 
+
+ (A) Lateral piping must have discharge orifices drilled a minimum diameter of 1/8 inch and evenly spaced no more than 24 inches apart in coarse textured soils or no more than 4 feet apart in finer textured soils. 
+
+ (B) The system must be dosed at a rate not to exceed 20 percent of the projected daily sewage flow. 
+
+ (C) The effect of back drainage of the total volume of effluent within the pressure distribution system must be evaluated for its impact on the dosing tank and system operation. 
+
+ (6) Operation and maintenance. The operation and maintenance of a pressurized distribution system, including service contracts, must meet the requirements under OAR 340-071-0132. 
+
+ (7) Required inspections. The agent must perform the following inspections for each installed pressure distribution system, unless waived by the agent: 
+
+ (a) Inspect the installed absorption facility and distribution network before covering. 
+
+ (b) Inspect to confirm the pump, floats, and controls are powered on, set according to the approved plans, and functioning properly. The agent may require the certified maintenance provider under contract for inspecting, operating, and maintaining the system to conduct this inspection and submit a completed start-up report on a DEQ-approved form to the agent. 
+
+ 
+ [Publications: Publications referenced are available from the agency.] 
+ 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 454.625 & 468.020 
+ 
+ 
+ Statutes/Other Implemented:  ORS 454.615, 454.775 & 468B.080 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 29-2025, amend filed 10/01/2025, effective 01/01/2026 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 15-2017, amend filed 10/31/2017, effective 11/01/2017 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 14-2013, f. 12-20-13, cert. ef. 1-2-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 11-2004, f. 12-22-04, cert. ef. 3-1-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 16-1999, f. & cert. ef. 12-29-99 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 12-1997, f. & cert. ef. 6-19-97 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 27-1994, f. 11-15-94, cert. ef. 4-1-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 15-1986, f. & ef. 8-6-86 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 8-1983, f. & ef. 5-25-83 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 5-1982, f. & ef. 3-9-82 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 19-1981, f. 7-23-81, ef. 7-27-81 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 10-1981, f. & ef. 3-20-81 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

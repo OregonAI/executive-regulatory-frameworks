@@ -1,0 +1,517 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+   Temporary rule language in effect until 09/26/2026. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Child Welfare Programs - Chapter 413 
+ 
+ 
+ 
+ 
+ Division 80 SUBSTITUTE CARE — TYPES OF SERVICES 
+ 413-080-0050 
+ Definitions
+ 
+ 
+ Unless the context indicates otherwise, the following definitions apply to OAR chapter 413, division 080: 
+
+ (1) "Abuse" means as defined in OAR 413-015-0115(1). 
+
+ (2) "Certified family" means an individual or individuals who hold a current Certificate of Approval from the Department to operate a home to provide care, in the home in which they reside, to a child or young adult in the care or custody of the Department. 
+
+ (3) "Child" means a person who: 
+
+ (a) Is under 18 years of age; or 
+
+ (b) Is under 21 years of age and residing in or receiving care or services at a child-caring agency or proctor foster home . 
+
+ (4) "Child-caring agency" means a "child-caring agency" that is not owned, operated, or administered by a governmental agency or unit. (See ORS 418.205) 
+
+ (5) "Conditions for return" means a written statement of the specific behaviors, conditions, or circumstances that must exist within a child's home before a child can safely return and remain in the home with an in-home initial safety plan or in-home ongoing safety plan . 
+
+ (6) "Contact" means any communication between Child Welfare staff and a child , young adult , parent or guardian , resource  parent or relative caregiver , provider , or other individual involved in a Child Welfare safety plan or case. "Contact" includes, but is not limited to, communication in person, by telephone, by video-conferencing, or in writing. "Contact" may occur, for instance, during a face-to-face visit; a treatment review meeting for a child , young adult , parent , or guardian ; a court or Citizen Review Board hearing; or a family meeting. 
+
+ (7) "Department" means the Oregon Department of Human Services. 
+
+ (8) "Face-to-face" means an in-person interaction between individuals. When the parent, guardian, or Indian Custodian is an adult in custody at an Oregon Department of Corrections facility, a face-to-face contact includes virtual/video contact when in-person contact is prevented by the facility. 
+
+ (9) "Guardian" means an individual who has been granted guardianship of a child or young adult through a judgment of the court. 
+
+ (10) "ICPC" means the Interstate Compact for the Placement of Children (see ORS 417.200). 
+
+ (11) "Impending danger safety threat" means a family behavior, condition, or circumstance that meets all five safety threshold criteria. When it is occurring, this type of threat is not immediate, obvious, or occurring at the onset of the CPS intervention. This threat is identified and understood more fully by evaluating and understanding individual and family functioning. 
+
+ (12) "Indian child" means any unmarried person who is under age 18 and either: 
+
+ (a) Is a member or citizen of an Indian tribe; or 
+
+ (b) Is eligible for membership or citizenship in an Indian tribe and is the biological child of a member or citizen of an Indian tribe. 
+
+ (13) "Initial safety plan" means a documented set of actions or interventions sufficient to protect a child or, if applicable, a young adult from an impending danger safety threat in order to allow for completion of the CPS assessment. 
+
+ (14) “Located” means a caseworker has discovered the exact place of a missing child or young adult and has made physical contact with them in the place where they are living. 
+
+ (15) “Missing” means a the child or young adult is absent from an approved placement and their whereabouts are unknown. 
+
+ (16) "Monthly face-to-face contact" means in-person interaction between individuals at least once each and every full calendar month. 
+
+ (17) "Ongoing safety plan" means a documented set of actions or interventions that manage the safety of a child or, when applicable, a young adult after the Department has identified one or more impending danger safety threats at the conclusion of a CPS assessment or anytime during ongoing work with a family. 
+
+ (18) “Plan of care” means a written plan for a substance affected infant and the infant’s family, focused on meeting health needs and substance disorder treatment needs and developed in collaboration with the family, the healthcare provider, community agencies and child welfare when appropriate. 
+
+ (19) "Parent” means the genetic or adoptive mother and the legal parent of the child. A legal parent is a person who has adopted the child or whose parentage has been established or declared under ORS 109.065. In cases involving an Indian child, "parent" means a biological parent of an Indian child, an Indian who has lawfully adopted an Indian child, including adoptions made under tribal law or custom, or a father whose parentage has been acknowledged or established under ORS 109.065(1) to (6) or (9) or 419B.609. Parent also includes an alleged genetic parent who has demonstrated a direct and significant commitment to the child by assuming or attempting to assume responsibilities normally associated with parenthood, unless a court finds that the alleged genetic parent is not the legal or genetic parent of the child. 
+
+ (20) "Present danger safety threat" means an immediate, significant, and clearly observable family behavior, condition or circumstance occurring in the present tense, already endangering or threatening to endanger a child or, when applicable, a young adult . The family behavior, condition, or circumstance is happening now and it is currently in the process of actively placing a child or, when applicable, a young adult in peril. 
+
+ (21) “Proctor foster home” means a foster home certified by a child-caring agency that is not subject to ORS 418.625 to 418.470. 
+
+ (22) "Protective action plan" means an immediate, same day, short-term plan, lasting a maximum of 10 calendar days, sufficient to protect from a present danger safety threat . 
+
+ (23) "Protective capacity" means behavioral, cognitive, and emotional characteristics that can specifically and directly be associated with a person's ability and willingness to care for and keep a child or, when applicable, a young adult safe. 
+
+ (24) "Provider" means an employee of a child-caring agency approved to provide care for a child or young adult or a proctor foster parent. 
+
+ (25) "Relative caregiver" means a person who operates a home that has been approved by the Department to provide care for a related child or young adult who is placed in the home by the Department. 
+
+ (26) " Resource parent" means a person who operates a home that has been approved by the Department to provide care for an unrelated child or young adult placed in the home by the Department. 
+
+ (27) "Safety service provider" means a participant in a protective action plan, initial safety plan , or ongoing safety plan whose actions, assistance, or supervision help a family in managing safety. 
+
+ (28) "Safety services" means the actions, assistance, and supervision provided by safety service providers to manage the identified present danger safety threats or impending danger safety threats. 
+
+ (29) "Screener" means a Department employee with training required to provide screening services. 
+
+ (30) "Sex trafficking" means the recruitment, harboring, transportation, provision, obtaining, patronizing, or soliciting of a person under the age of 18 for the purpose of a commercial sex act or the recruitment, harboring, transportation, provision, or obtaining of a person over the age of 18 using force, fraud, or coercion for the purpose of a commercial sex act. 
+
+ (31) "Social service assistant" means a Department employee with training required to provide services to assist a caseworker on an open case. 
+
+ (32) “Substance affected infant” means an infant, regardless of whether abuse is suspected, for whom prenatal substance exposure is indicated at birth and subsequent assessment by a health care provider identifies signs of substance withdrawal, a Fetal Alcohol Spectrum Disorder diagnosis, or detectable physical, developmental, cognitive, or emotional delay or harm that is associated with prenatal substance exposure. Prenatal substance exposure is determined by a positive toxicology screen from the infant or the mother at delivery or credible information the mother had an active untreated substance use disorder, during the pregnancy or at the time of birth. 
+
+ (33) "Substitute care" means the out-of-home placement of a child or young adult who is in the legal or physical custody and care of the Department. 
+
+ (34) "Young adult" means a person aged 18 through 20 years. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 418.005 & ORS 409.050 
+ 
+ 
+ Statutes/Other Implemented:  ORS 418.005 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 50-2026, temporary amend filed 03/31/2026, effective 03/31/2026 through 09/26/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 4-2026, amend filed 01/28/2026, effective 01/28/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 84-2023, amend filed 10/23/2023, effective 11/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 135-2020, temporary amend filed 07/29/2020, effective 07/29/2020 through 01/24/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 120-2020, minor correction filed 02/27/2020, effective 02/27/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 53-2018, amend filed 06/29/2018, effective 06/29/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 27-2018, temporary amend filed 04/05/2018, effective 04/05/2018 through 06/29/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 29-2017, temporary amend filed 12/30/2017, effective 01/01/2018 through 06/29/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 9-2017, f. 8-5-17, cert. ef. 8-6-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 2-2017(Temp), f. & cert. ef. 2-7-17 thru 8-5-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 23-2016, f. & cert. ef. 12-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 11-2016(Temp), f. 6-30-16, cert. ef. 7-1-16 thru 12-27-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 27-2015, f. 12-28-15, cert. ef. 1-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 25-2015(Temp), f. & cert. ef. 11-24-15 thru 5-21-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 18-2015(Temp), f. 9-30-15, cert. ef. 10-1-15 thru 3-28-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 10-2014, f. 5-20-14, cert. ef. 5-27-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 1-2013, f. & cert. ef. 1-15-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 21-2009, f. & cert. ef. 12-29-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 6-2009(Temp), f. & cert. ef. 7-1-09 thru 12-28-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 4-2007, f. & cert. ef. 3-20-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 15-2004, f. & cert. ef. 8-25-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 3-2004(Temp), f. & cert. ef. 3-1-04 thru 8-27-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

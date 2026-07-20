@@ -1,0 +1,308 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Agriculture 
+ Chapter 603 
+ 
+ 
+ 
+ 
+ 
+ Division 74 CONFINED ANIMAL FEEDING OPERATION PROGRAM 
+ 603-074-0080 
+ Civil Penalty Determination Procedure
+ 
+ 
+ In determining the amount of a civil penalty to be assessed for any violation, the Department shall apply the following procedure: 
+
+ (1) Determine the magnitude of the violation as specified in OAR 603-074-0070(6). 
+
+ (2) Determine the gravity of effect of the violation as specified in OAR 603-074-0070(7). 
+
+ (3) Using the magnitude of the violation and the gravity of effect identified, and depending on whether it is the first or a repeat violation, determine the base penalty (B). 
+
+ (a) Civil Penalty Matrix for First Violation. Gravity of Effect Magnitude of Violation: 
+
+ (A) High 
+
+ (i) Category 1 (Major) $1,200 
+
+ (ii) Category II (Moderate) $600 
+
+ (iii) Category III (Minor) $240 
+
+ (B) Medium 
+
+ (i) Category 1 (Major) $800 
+
+ (ii) Category II (Moderate) $400 
+
+ (iii)Category III (Minor) $120 
+
+ (C) Low 
+
+ (i) Category 1 (Major) $400 
+
+ (ii) Category II (Moderate) $200 
+
+ (iii) Category III (Minor) $50 
+
+ (b) Civil Penalty Matrix for Repeat Violations. Gravity of Effect Magnitude of Violation: 
+
+ (A) High 
+
+ (i) Category 1 (Major) $5,000 
+
+ (ii) Category II (Moderate) $1,600 
+
+ (iii) Category III (Minor) $400 
+
+ (B) Medium 
+
+ (i) Category 1 (Major) $2,400 
+
+ (ii) Category II (Moderate) $800 
+
+ (iii) Category III (Minor) $200 
+
+ (C) Low 
+
+ (i) Category 1 (Major) $800 
+
+ (ii) Category II (Moderate) $400 
+
+ (iii) Category III (Minor) $100 
+
+ (4) Calculate the amount of the civil penalty to be assessed utilizing the formula: B + [(.1 X B) (P + H + R)] = Penalty Amount where: 
+
+ (a) B = Base penalty is the primary penalty for a given violation derived from the appropriate matrix contained in OAR 603-074-0080(3); 
+
+ (b) P = Past occurrence of violations. P will be weighted from 0 to 6 in the following manner: 
+
+ (A) 0 = no prior violation or insufficient evidence on which to base a finding; 
+
+ (B) 1 = past occurrence of a category III violation; 
+
+ (C) 2 = past occurrence of a Category II violation or two category III violations; 
+
+ (D) 3 = past occurrence of a Category I violation, two Category II violations, or three Category III violations: 
+
+ (E) 4 = past occurrence of two Category I violations, three Category II violations or four Category III violations; 
+
+ (F) 5 = past occurrence of three Category I violations, four Category II violations, or five or more Category III violations; 
+
+ (G) 6 = past occurrence of more than three Category I violations or five or more Category II violations. 
+
+ (c) H = History of the person in taking all feasible steps or procedures necessary and appropriate to prevent or correct a violation. H will be weighted from -2 to 2 in the following way: 
+
+ (A) -2 = the person took all feasible steps to correct any prior violations: 
+
+ (B) 0 = there is no prior history or insufficient information on which to base a finding; 
+
+ (C) 1 = the person took some, but not all feasible steps to correct prior violations; 
+
+ (D) 2 = the person took no action to correct prior violations. 
+
+ (d) R = Preventability of the violation and whether negligence or misconduct was involved. R will be weighted from -2 to 7 in the following way: 
+
+ (A) -2 = the person's actions determined to be in violation were unavoidable and the person notified the Department of the violation in accordance with the terms of the person's permit; 
+
+ (B) -1 = the person's actions determined to be in violation were unavoidable; 
+
+ (C) 0 = information is insufficient to make any finding; 
+
+ (D) 2 = the person's actions determined to be in violation were reasonably avoidable and the person notified the Department of the violation in accordance with the terms of the person's permit; 
+
+ (E) 4 = the person's actions determined to be in violation were reasonably avoidable; 
+
+ (F) 7 = the person's actions were flagrant or reckless. 
+
+ (5) A civil penalty imposed under the applicable statutes and these rules may be remitted or reduced at the director's discretion upon such terms and conditions that are proper and consistent with public health and safety. 
+
+ (6) At the discretion of the director, a person who is unable to pay the full amount of a civil penalty may be allowed to pay the civil penalty by means of a schedule of payments that may include payment of interest on the unpaid balance for any delayed payments. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468B.217, 468B.230 & 561 
+ 
+ 
+ Statutes/Other Implemented:  ORS 561.175 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 19-2024, amend filed 09/25/2024, effective 09/25/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 2-2009, f. & cert. ef. 1-30-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 30-2003, f. 9-11-03, cert. ef. 10-1-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AD 8-1994, f. & cert. ef. 7-26-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

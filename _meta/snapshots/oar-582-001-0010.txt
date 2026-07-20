@@ -1,0 +1,728 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Vocational Rehabilitation Services - Chapter 582 
+ 
+ 
+ 
+ 
+ Division 1 DEFINITIONS 
+ 582-001-0010 
+ Definitions for Chapter 582
+ 
+ 
+ The following definitions apply to each division in chapter 582 of the Oregon Administrative Rules unless otherwise indicated: 
+
+ (1) "Act" means Public Law No: 113-128, Title IV-Amendments to the Rehabilitation Act of 1973. 
+
+ (2) "Applicant" means an individual who submits an application for vocational rehabilitation services in accordance with 34 CFR §361.41(b)(2). 
+
+ (3) “Apprenticeship” means a job that allows an individual to earn money while gaining skills and experience through both technical instruction and hands-on training. 
+
+ (4) “Appropriate modes of communication” means specialized aids and supports that enable an individual with a disability to comprehend and respond to information that is being communicated. Appropriate modes of communication include, but are not limited to, the use of interpreters, open and closed captioned videos, specialized telecommunications services and audio recordings, Brailled and large print materials, materials in electronic formats, augmentative communication devices, graphic presentations, and simple language materials. 
+
+ (5) "Assessment for determining eligibility and vocational rehabilitation needs" means, as appropriate in each case— 
+
+ (a)(A) A review of existing data— 
+
+ (i) To determine if an individual is eligible for vocational rehabilitation services; and 
+
+ (ii) To assign priority for an order of selection described in 34 CFR §361.36 in the States that use an order of selection; and 
+
+ (B) To the extent necessary, the provision of appropriate assessment activities to obtain necessary additional data to make the eligibility determination and assignment; 
+
+ (b) To the extent additional data are necessary to make a determination of the employment outcomes and the nature and scope of vocational rehabilitation services to be included in the individualized plan for employment of an eligible individual, a comprehensive assessment to determine the unique strengths, resources, priorities, concerns, abilities, capabilities, interests, and informed choice, including the need for supported employment, of the eligible individual. This comprehensive assessment— 
+
+ (A) Is limited to information that is necessary to identify the rehabilitation needs of the individual and to develop the individualized plan for employment of the eligible individual; 
+
+ (B) Uses as a primary source of information, to the maximum extent possible and appropriate and in accordance with confidentiality requirements— 
+
+ (i) Existing information obtained for the purposes of determining the eligibility of the individual and assigning priority for an order of selection described in 34 CFR §361.36 for the individual; and 
+
+ (ii) Information that can be provided by the individual and, if appropriate, by the family of the individual; 
+
+ (C) May include, to the degree needed to make such a determination, an assessment of the personality, interests, interpersonal skills, intelligence and related functional capacities, educational achievements, work experience, vocational aptitudes, personal and social adjustments, and employment opportunities of the individual and the medical, psychiatric, psychological, and other pertinent vocational, educational, cultural, social, recreational, and environmental factors that affect the employment and rehabilitation needs of the individual; 
+
+ (D) May include, to the degree needed, an appraisal of the patterns of work behavior of the individual and services needed for the individual to acquire occupational skills and to develop work attitudes, work habits, work tolerance, and social and behavior patterns necessary for successful job performance, including the use of work in real job situations to assess and develop the capacities of the individual to perform adequately in a work environment; and 
+
+ (E) To the maximum extent possible, relies on information obtained from experiences in integrated employment settings in the community and in other integrated community settings; 
+
+ (c) Referral, for the provision of rehabilitation technology services to the individual, to assess and develop the capacities of the individual to perform in a work environment; and 
+
+ (d) An exploration of the individual's abilities, capabilities, and capacity to perform in work situations, which must be assessed periodically during trial work experiences, including experiences in which the individual is provided appropriate supports and training. 
+
+ (6) “Assistive technology” means technology designed to be utilized in an assistive technology device or assistive technology service. (See also, Section 3, Assistive Technology Act of 1998 (29 U.S.C. 3002)) 
+
+ (7) “Assistive technology device” means any item, piece of equipment, or product system, whether acquired commercially off the shelf, modified, or customized, that is used to increase, maintain, or improve the functional capabilities of an individual with a disability, except that the reference to the term individuals with disabilities shall mean more than one individual with a disability as defined in paragraph (20)(A) of the Act. (See also Section 3, Assistive Technology Act of 1998 (29 U.S.C. 3002)) 
+
+ (8) "Assistive technology service" means any service that directly assists an individual with a disability in the selection, acquisition, or use of an assistive technology device. Such term includes-- 
+
+ (a) The evaluation of the assistive technology needs of an individual with a disability, including a functional evaluation of the impact of the provision of appropriate assistive technology and appropriate services to the individual in the customary environment of the individual; 
+
+ (b) A service consisting of purchasing, leasing, or otherwise providing for the acquisition of assistive technology devices by individuals with disabilities; 
+
+ (c) A service consisting of selecting, designing, fitting, customizing, adapting, applying, maintaining, repairing, replacing, or donating assistive technology devices; 
+
+ (d) Coordination and use of necessary therapies, interventions, or services with assistive technology devices, such as therapies, interventions, or services associated with education and rehabilitation plans and programs; 
+
+ (e) Training or technical assistance for an individual with a disability or, where appropriate, the family members, guardians, advocates, or authorized representatives of such an individual; 
+
+ (f) Training or technical assistance for professionals (including individuals providing education and rehabilitation services and entities that manufacture or sell assistive technology devices), employers, providers of employment and training services, or other individuals who provide services to, employ, or are otherwise substantially involved in the major life functions of individuals with disabilities; and 
+
+ (g) A service consisting of expanding the availability of access to technology, including electronic and information technology, to individuals with disabilities. 
+
+ (9) “Auxiliary aids and services” mean: 
+
+ (a) Qualified interpreters on-site or through video remote interpreting (VRI) services; note takers; real-time computer-aided transcription services, written materials, exchange of written notes, telephone handset amplifiers, assistive listening devices, assistive listening systems, telephones compatible with hearing aids, closed caption decoders, open and closed captioning, including real-time captioning, voice, text, and video-based telecommunications products and systems, including text telephones (TTYs), videophones, and captioned telephones, or equally effective telecommunications devices, videotext displays; accessible electronic and information technology, or other effective methods of making aurally delivered information available to individuals who are deaf or hard of hearing, 
+
+ (b) Qualified readers, taped texts, audio recordings, Brailled materials and displays, screen reader software, magnification software, optical readers, secondary auditory programs (SAP), large print materials, accessible electronic and information technology, or other effective methods of making visually delivered materials available to individuals who are blind or have low vision, 
+
+ (c) Acquisition or modification of equipment or devices, and 
+
+ (d) Other similar services and actions. 
+
+ (10) “Benefits Planning” means services that provide eligible individuals entitled to Social Security benefits under Titles II or XVI of the Social Security Act with information on assistance and supports available to individuals desiring to enter the workforce. These services are intended to help these individuals understand the implications of employment for continued receipt of their benefits so that they can make a fully informed choice of an employment goal. 
+
+ (11) “Best Practice” means promising vocational rehabilitation service delivery practices commonly seen as effective when working with specified populations of individuals with disabilities that help improve employment outcomes of people with disabilities. 
+
+ (12) “Case Service Record” means the case service record documents the application for and provision of vocational rehabilitation and supported employment services to individuals with disabilities, including program outcomes. An individual may have multiple service records resulting from repeated involvement with the vocational rehabilitation and supported employment programs. Also referred to as service record or record of service (34 CFR §361.47 Record of services), file, record, case, hard copy file, electronic file, or ORCA file. 
+
+ (13) “CFR” means the Code of Federal Regulations. 
+
+ (14) “Client Assistance Program” (CAP) means a federally-funded program authorized under 34 CFR §370 that is independent of the Program and its purpose is to provide information, advocacy, and legal representation to individuals seeking Program services. 
+
+ (15) “Closure” means an applicant’s or participant’s record of services shows an end to vocational rehabilitation services and the applicant’s or participant’s exit from the program. 
+
+ (16) “Community Rehabilitation Program” (CRP) means: 
+
+ (a) A vendor that provides directly or facilitates providing one or more of the following vocational rehabilitation services to individuals with disabilities: 
+
+ (A) Medical, psychiatric, psychological, social, and vocational services that are provided under one management. 
+
+ (B) Testing, fitting, or training in the use of prosthetic and orthotic devices. 
+
+ (C) Recreational therapy. 
+
+ (D) Physical and occupational therapy. 
+
+ (E) Speech, language, and hearing therapy. 
+
+ (F) Psychiatric, psychological, and social services, including positive behavior management. 
+
+ (G) Assessment for determining eligibility and vocational rehabilitation needs, 
+
+ (H) Rehabilitation technology. 
+
+ (I) Job development, placement, and retention services. 
+
+ (J) Evaluation or control of specific disabilities. 
+
+ (K) Orientation and mobility services for individuals who are blind. 
+
+ (L) Psychosocial rehabilitation services. 
+
+ (M) Supported employment services and extended services. 
+
+ (N) Customized employment. 
+
+ (O) Services to family members if necessary, to enable the applicant or eligible individual to achieve an employment outcome. 
+
+ (P) Personal assistance services. 
+
+ (Q) Services similar to the services described in paragraphs (A) through (P) of this definition. 
+
+ (b) For the purposes of this definition, “vendor” means an agency, organization, or institution that provides directly or facilitates the provision of vocational rehabilitation services as one of its major functions. 
+
+ (17) “Comparable services and benefits” mean services and benefits that are: 
+
+ (a) Provided or paid for, in whole or in part, by other Federal, State, or local public agencies, health insurance, or employee benefits; 
+
+ (b) Available to the individual at the time needed to ensure the progress of the individual toward achieving the employment outcome in the individual's individualized plan for employment in accordance with 34 CFR §361.53; 
+
+ (c) Commensurate to the services that the individual would otherwise receive from the Program; and 
+
+ (d) Includes accommodations and auxiliary aids. 
+
+ (e) For the purposes of this definition, comparable services and benefits does not include awards and scholarships based on merit. 
+
+ (18) “Competitive integrated employment” means work that— 
+
+ (a) Is performed on a full-time or part-time basis (including self-employment) and for which an individual is compensated at a rate that- 
+
+ (A) Is not less than the higher of the rate specified in section 6(a)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(a)(1)) or the rate required under the applicable State or local minimum wage law for the place of employment; 
+
+ (B) Is not less than the customary rate paid by the employer for the same or similar work performed by other employees who are not individuals with disabilities and who are similarly situated in similar occupations by the same employer and who have similar training, experience, and skills; and 
+
+ (C) In the case of an individual who is self-employed, yields an income that is comparable to the income received by other individuals who are not individuals with disabilities and who are self-employed in similar occupations or on similar tasks and who have similar training, experience, and skills; and 
+
+ (D) Is eligible for the level of benefits provided to other employees; and 
+
+ (b) Is at a location— 
+
+ (A) Typically found in the community; and 
+
+ (B) Where the employee with a disability interacts for the purpose of performing the duties of the position with other employees within the particular work unit and the entire work site, and, as appropriate to the work performed, other persons (e.g., customers and vendors), who are not individuals with disabilities (not including supervisory personnel or individuals who are providing services to such employee) to the same extent that employees who are not individuals with disabilities and who are in comparable positions interact with these persons; and 
+
+ (c) Presents, as appropriate, opportunities for advancement that are similar to those for other employees who are not individuals with disabilities and who have similar positions. 
+
+ (19) “Comprehensive Statewide Assessment” means the results of a comprehensive, statewide assessment, jointly conducted by the Program and the State Rehabilitation Council every three years. Results of the assessment shall be included in the vocational rehabilitation portion of the Unified or Combined State Plan, submitted in accordance with the requirements of 34 CFR §361.10(a) and the joint regulations of this part. 
+
+ (20) “Department” means the Department of Human Services. 
+
+ (21) “Director” means the Director of Vocational Rehabilitation. 
+
+ (22) “Due Process” is the process by which Program applicants or participants who are dissatisfied or disagree with a decision that affects the provision of vocational rehabilitation services may pursue a review. 
+
+ (23) “Educational goal” means the participant’s next educational or training milestone along the educational path they hope to achieve in the next year and leads to an employment goal or outcome listed in the individualized plan for employment. 
+
+ (24) “Educational outcome” means the logical endpoint or conclusion of the current educational goal. 
+
+ (25) “Eligible individual” means an applicant for vocational rehabilitation services who meets the eligibility requirements of 34 CFR §361.42(a). 
+
+ (26) “Employment outcome” with respect to an individual, entering, advancing in, or retaining full-time or, if appropriate, part-time competitive integrated employment, as defined in 34 CFR §361.5 (c)(9) (including customized employment, self-employment, telecommuting, or business ownership), or supported employment as defined in 34 CFR §361.5(c)(53), that is consistent with an individual’s unique strengths, resources, priorities, concerns, abilities, capabilities, interests, and informed choice. 
+
+ (27) “Entity” means an employer, or a contractor or subcontractor of that employer, that holds a special wage certificate described in section 14(c) of the Fair Labor Standards Act of 1938 (FLSA). 
+
+ (28) “Essential functions” mean the tasks that must be performed, because: 
+
+ (a) The position, or business, exists to perform a particular function; or 
+
+ (b) There is evidence to support a determination that a job function is considered essential because of the experience of others doing the same kind of work; judgement of experts in the field; or consequences of not performing the function. 
+
+ (29) “Evidence-based practices” means a program or instructional practice with evidence that: 
+
+ (a) The practice model has gone through rigorous research and has demonstrated a record of success, and 
+
+ (b) There is reliable, trustworthy, and valid evidence that exists which demonstrates the practice effectiveness. 
+
+ (c) The evidence supporting these practices or instruction must be supported by scientifically based research. 
+
+ (30) “Extended services” means ongoing support services and other appropriate services that are— 
+
+ (a) Needed to support and maintain an individual with a most significant disability including a youth with a most significant disability, in supported employment; 
+
+ (b) Organized or made available, singly or in combination, in such a way as to assist an eligible individual in maintaining supported employment; 
+
+ (c) Based on the needs of an eligible individual, as specified in an individualized plan for employment; 
+
+ (d) Provided by a State agency, a private nonprofit organization, employer, or any other appropriate resource, after an individual has made the transition from support from the designated State unit; and 
+
+ (e) Provided to a youth with a most significant disability by the Program in accordance with requirements set forth in 34 CFR §361 and 34 CFR §363 for a period not to exceed four years, or at such time that a youth reaches age 25 and no longer meets the definition of a youth with a disability under 34 CFR §361(c)(58), whichever occurs first. The Program may not provide extended services to an individual with a most significant disability who is not a youth with a most significant disability. 
+
+ (31) “Family member,” for purposes of receiving vocational rehabilitation services in accordance with 34 CFR §361.48, means an individual 
+
+ (a) Who is either: 
+
+ (A) A relative or guardian of an applicant or eligible individual; or 
+
+ (B) Lives in the same household as an applicant or eligible individual; and, 
+
+ (b) Who has a substantial interest in the well-being of that individual; and 
+
+ (c) Whose receipt of vocational rehabilitation services is necessary to enable the applicant or eligible individual to achieve an employment outcome. 
+
+ (32) “Federal Fiscal Year” (FFY) means the period beginning on October 1 and ending on September 30. 
+
+ (33) “Federal Minimum Wage” means the rate applicable under section 6(A)(1) of the Fair Labor Standards Act (FLSA). 
+
+ (34) “Individualized Education Program” (IEP) means a written statement for each child with a disability that is developed, reviewed, and revised in accordance with section 614(d) of the Individuals with Disabilities Education Act (IDEA). 
+
+ (35) “Indian; American Indian; Indian American; Indian Tribe” mean an individual who is a member of an Indian tribe and also includes a Native and a descendant of a Native, as such terms are defined in subsections (b) and (r) of section 3 of the Alaska Native Claims Settlement Act (43 U.S.C. 1602). 
+
+ (36) “Indian tribe” means any Federal or State Indian tribe, band, rancheria, pueblo, colony, or community, including any Alaskan native village or regional village corporation (as defined in or established pursuant to the Alaska Native Claims Settlement Act) and a tribal organization as defined in section 4(1) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450(b)(1). 
+
+ (37) “Individual who is blind” means an individual who is blind within the meaning of applicable State law (ORS §346.120). 
+
+ (38) “Information and Referral” means an information and referral system that ensures individuals with disabilities, including eligible individuals who do not meet the Program's order of selection criteria for receiving vocational rehabilitation services if the agency is operating on an order of selection, who do not meet the Program‘s eligibility criteria, or are earning subminimum wage are provided: 
+
+ (a) Accurate vocational rehabilitation information and guidance using appropriate modes of communication to assist them in preparing for, securing, retaining, advancing in, or regaining employment; and 
+
+ (b) Referral to other appropriate Federal and State programs, including other components of the statewide workforce development system, and; 
+
+ (c) The Program shall ensure referral to appropriate programs and service providers best suited to address the specific rehabilitation, independent living and employment needs of an individual with a disability who makes an informed choice not to pursue an employment outcome under the vocational rehabilitation program. 
+
+ (39) “Individual with a disability” means an individual, except as provided in section (48): 
+
+ (a) Who has a physical or mental impairment; and 
+
+ (b) Whose impairment constitutes or results in a substantial impediment to employment; and 
+
+ (c) Who may benefit in terms of an employment outcome from the receipt of vocational rehabilitation services. 
+
+ (40) “Individual with a disability” for purposes of 34 CFR §§361.5(c)(13), 361.13(a), 361.13(b)(1), 361.17(a), (b), (c), and (j), 361.18(b), 361.19, 361.20, 361.23(b)(2), 361.29(a) and (d)(8), and 361.51(b), means an individual who: 
+
+ (a) Has a physical or mental impairment that substantially limits one or more major life activities; 
+
+ (b) Has a record of the impairment; or 
+
+ (c) Is regarded as having such an impairment. 
+
+ (41) “Individual with a most significant disability” means an eligible individual who: 
+
+ (a) Has a severe mental or physical impairment that seriously limits two or more functional capacities in mobility, communication, self-care, self-direction, interpersonal skills, work tolerance, or work skills in terms of an employment outcome; and 
+
+ (b) Is expected to require two or more vocational rehabilitation services over an extended period of time to achieve or maintain a successful employment outcome. 
+
+ (c) These criteria must be consistent with the requirements in 34 CFR §361.36(d)(1) and (2). 
+
+ (42) “Individual with a significant disability” means an individual with a disability: 
+
+ (a) Who has a severe physical or mental impairment that seriously limits one or more functional capacities (such as mobility, communication, self-care, self-direction, interpersonal skills, work tolerance, or work skills) in terms of an employment outcome; 
+
+ (b) Whose vocational rehabilitation can be expected to require multiple services over an extended period of time; and 
+
+ (c) Who has one or more physical or mental disabilities resulting from amputation, arthritis, autism, blindness, burn injury, cancer, cerebral palsy, cystic fibrosis, deafness, head injury, heart disease, hemiplegia, hemophilia, respiratory or pulmonary dysfunction, mental illness, multiple sclerosis, muscular dystrophy, musculo-skeletal disorders, neurological disorders (including stroke and epilepsy), spinal cord conditions (including paraplegia and quadriplegia), sickle cell anemia, intellectual disability, specific learning disability, end-stage renal disease, or another disability or combination of disabilities determined on the basis of an assessment for determining eligibility and vocational rehabilitation needs to cause comparable substantial functional limitation. 
+
+ (43) “Individualized Plan for Employment” (IPE) means a plan for attaining the individual’s vocational objective 
+
+ (44) “Individual’s representative” means any representative chosen by an applicant or eligible individual, as appropriate, and may include a parent, guardian, other family member, or advocate. If a representative has been appointed by a court, the court appointed representative is the individual’s representative. 
+
+ (45) “Informed Choice” means that individual who are applicants for vocational rehabilitation services or eligible individuals receiving such services shall be active and full partners throughout the vocational rehabilitation process. 
+
+ (a) Program participants shall have the opportunity to make meaningful decisions during assessment for eligibility and in the selection of the employment outcome, services needed to achieve the outcome, service providers, and method of securing services. 
+
+ (b) The Program shall provide information and support services sufficient to inform each applicant and eligible individual about the availability of and opportunity to exercise informed choice. 
+
+ (46) “Integrated setting” means 
+
+ (a) With respect to the provision of services, a setting typically found in the community in which applicants or eligible individuals interact with nondisabled individuals other than nondisabled individuals who are providing services to those applicants or eligible individuals; and 
+
+ (b) With respect to an employment outcome, means a setting: 
+
+ (A) Typically found in the community; and 
+
+ (B) Where the employee with a disability interacts, for the purpose of performing the duties of the position, with other employees within the particular work unit and the entire work site, and appropriate to the work performed, other individuals (e.g., customers and vendors) who are not individuals with disabilities (not including supervisory personnel or individuals who are providing services to the employee) to the same extent that employees who are not individuals with disabilities and who are in comparable positions interact with these individuals. 
+
+ (47) “Maintenance” means monetary support provided to an individual for expenses, such as food, shelter, and clothing, that are in excess of the individual’s normal expenses and that are necessitated by the individual's participation in an assessment for determining eligibility and vocational rehabilitation needs or the individual's receipt of vocational rehabilitation services under an individualized plan for employment. 
+
+ (48) "Parent or Guardian" means an individual having legal responsibility for the overall welfare and well-being of an individual under age 18 or an individual, if over age 18, is adjudicated legally incapacitated. 
+
+ (49) “Participant” means 
+
+ (a) A reportable individual who has been determined eligible for Program services, and is in need of, and can benefit from, rehabilitation services to assist in achieving an employment outcome. 
+
+ (b) This does not include students with disabilities that have only been determined potentially eligible for Pre-Employment Transition Services. 
+
+ (50) “Personal assistance services” means a range of services, including, among other things, training in managing, supervising, and directing personal assistance services, provided by one or more persons, that are— 
+
+ (a) Designed to assist an individual with a disability to perform daily living activities on or off the job that the individual would typically perform without assistance if the individual did not have a disability; 
+
+ (b) Designed to increase the individual's control in life and ability to perform everyday activities on or off the job; 
+
+ (c) Necessary to the achievement of an employment outcome; and 
+
+ (d) Provided only while the individual is receiving other vocational rehabilitation services. The services may include training in managing, supervising, and directing personal assistance services. 
+
+ (51) “Physical or mental impairment” means 
+
+ (a) Any physiological disorder or condition, cosmetic disfigurement, or anatomical loss affecting one or more of the following body systems: Neurological, musculo-skeletal, special sense organs, respiratory (including speech organs), cardiovascular, reproductive, digestive, genitourinary, hemic and lymphatic, skin, and endocrine; or 
+
+ (b) Any mental or psychological disorder such as intellectual disability, organic brain syndrome, emotional or mental illness, and specific learning disabilities. 
+
+ (52) “Post-employment services” means one or more of the services identified in 34 CFR §361.48(b) that are: 
+
+ (a) Provided subsequent to the achievement of an employment outcome and are necessary for an individual to maintain, regain, or advance in employment, consistent with the individual’s unique strengths, resources, priorities, concerns, abilities, capabilities, interests, and informed choice. 
+
+ (b) Available to meet rehabilitation needs that do not require a complex and comprehensive provision of services and, 
+
+ (c) Should be limited in scope and duration. 
+
+ (53) “Prior approval” means a request in writing is made in advance of the activity, obligation, or expenditure for all Program services including assessment. 
+
+ (54) “Program" means Oregon Vocational Rehabilitation. 
+
+ (55) “Qualified Personnel” means an individual licensed or certified by the state or who maintains an equivalent licensure or certification from another state to make the diagnosis of an applicant’s impairment. 
+
+ (56) “Qualified Rehabilitation Personnel” means a description of the minimum academic and experience requirements for Program professionals and paraprofessionals as amended by Workforce Innovation and Opportunity Act. 
+
+ (57) ‘‘Recognized Postsecondary Credential’’ means a credential consisting of an industry-recognized certificate or certification, a certificate of completion of an apprenticeship, a license recognized by the State involved or Federal Government, or an associate or baccalaureate degree. 
+
+ (58) “Record of services” see “Service Record”. 
+
+ (59) “Rehabilitation engineering” means the systematic application of engineering sciences to design, develop, adapt, test, evaluate, apply, and distribute technological solutions to problems confronted by individuals with disabilities in functional areas, such as mobility, communications, hearing, vision, and cognition, and in activities associated with employment, independent living, education, and integration into the community. 
+
+ (60) “Rehabilitation technology” means the systematic application of technologies, engineering methodologies, or scientific principles to meet the needs of, and address the barriers confronted by, individuals with disabilities in areas that include education, rehabilitation, employment, transportation, independent living, and recreation. The term includes rehabilitation engineering, assistive technology devices, and assistive technology services. 
+
+ (61) “Reportable individual” means an individual who has taken action that demonstrates an intent to use program services and who meets specific reporting criteria of the program, including: 
+
+ (a) Individuals who have an approved and signed IPE; and 
+
+ (b) Individuals who have begun to receive services. 
+
+ (62) “Reservation” means a Federal or State Indian reservation, a public domain Indian allotment, a former Indian reservation in Oklahoma, and land held by incorporated Native groups, regional corporations, and village corporations under the provisions of the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.); or a defined area of land recognized by a State or the Federal Government where there is a concentration of tribal members and on which the tribal government is providing structured activities and services. 
+
+ (63) “School Dropout” means an individual who is no longer attending any school and who has not received a secondary school diploma or its recognized equivalent. 
+
+ (64) “Section 504 Student with a disability” assures that students with disabilities covered by Section 504 of the Rehabilitation Act are not discriminated against and are assured their civil rights. 
+
+ (a) A student is entitled to a Section 504 Accommodation Plan if they have been identified and the valuation shows that the individual has a mental or physical impairment that substantially limits one or more major life activities. 
+
+ (b) This determination is made by a team of knowledgeable individuals, including the parents, who are familiar of the student and his/her disability. 
+
+ (65) “Self-Employment” means one individual owning and controlling the operations and management of an enterprise that reflects the owner’s skills, interests, and preferred work environment. 
+
+ (66) “Sole local agency” means a unit or combination of units of general local government or one or more Indian tribes that has the sole responsibility under an agreement with, and the supervision of, the State agency to conduct a local or tribal vocational rehabilitation program, in accordance with the vocational rehabilitation services portion of the Unified or Combined State Plan. 
+
+ (67) “Special wage certificate” means a certificate issued to an employer under section 14(c) of the Fair Labor Standards (29 U.S.C. 214(c)) and 29 CFR part 525 that authorizes payment of subminimum wages, wages less than the statutory federal minimum wage, to workers with disabilities for the work being performed. 
+
+ (68) "State plan" means the State plan for vocational rehabilitation services submitted by the Program under 34 CFR §361.10. 
+
+ (69) “State Fiscal Year” means the period beginning on July 1 and ending on June 30. 
+
+ (70) “Student with a disability” means an individual with a disability in a secondary, postsecondary, or other recognized education program who: 
+
+ (a) Is generally not younger than 16 but may be as young as 14 years of age as determined by the Oregon Department of Education; and 
+
+ (b) Is not older than 21 years of age; and, 
+
+ (A) Is eligible for, and receiving, special education or related services under Part B of the Individuals with Disabilities Education Act (20 U.S.C. 1411 et seq.); or, 
+
+ (B) Is a student who is an individual with a disability, for purposes of section 504, or 
+
+ (C) Is a student who is an individual with a disability who has been home schooled. 
+
+ (71) “Substantial impediment to employment” means a physical or mental impairment that, in light of medical, psychological, vocational, educational, communication, and other related factors, hinders an individual from preparing for, entering into, engaging in, advancing in, or retaining employment consistent with the individual's unique strengths, resources, priorities, concerns, abilities and capabilities. 
+
+ (72) “Transition services” means a coordinated set of activities for a student or youth with a disability— 
+
+ (a) Designed within an outcome-oriented process that promotes movement from school to post-school activities, including postsecondary education, vocational training, competitive integrated employment, supported employment, continuing and adult education, adult services, independent living, or community participation; 
+
+ (b) Based upon the individual student's or youth's needs, taking into account the student's or youth's preferences and interests; 
+
+ (c) That includes instruction, community experiences, the development of employment and other post-school adult living objectives, and, if appropriate, acquisition of daily living skills and functional vocational evaluation; 
+
+ (d) That promotes or facilitates the achievement of the employment outcome identified in the student's or youth's individualized plan for employment; and 
+
+ (e) That includes outreach to and engagement of the parents, or, as appropriate, the representative of such a student or youth with a disability. 
+
+ (73) “Transportation” means travel and related expenses that are necessary to enable an applicant or eligible individual to participate in a vocational rehabilitation service, including expenses for training in the use of public transportation vehicles and systems. 
+
+ (74) “Unemployed Individual’’ means an individual who is without a job and who wants and is available for work. The determination of whether an individual is without a job, for purposes of this section, shall be made in accordance with the criteria used by the Bureau of Labor Statistics of the Department of Labor in defining individuals as unemployed. 
+
+ (75) “Vocational rehabilitation services” means as appropriate to the vocational rehabilitation needs of each individual and consistent with each individual's informed choice, services that are available to assist the individual with a disability in preparing for, securing, retaining, or regaining an employment outcome that is consistent with the individual's strengths, resources, priorities, concerns, abilities, capabilities, interests, and informed choice. 
+
+ (a) If provided to an individual, means those services listed in 34 CFR §361.48 and 
+
+ (b) If provided for the benefit of groups of individuals, also means those services listed in 34 CFR §361.49. 
+
+ (76) “Vocational rehabilitation training” means skill training in which the basis and focus of the training is individualized or customized. Vocational rehabilitation training may include focus on disability related issues as those issues impact the skills training. Vocational rehabilitation training may include, but is not limited to: 
+
+ (a) Supported employment; 
+
+ (b) Disability and related skills training; 
+
+ (c) On the job training; 
+
+ (d) One-on-one specialized business training provided to individuals who are working to establish their own business; 
+
+ (e) Customized training offered by an employer to a group of individuals for the purpose of training and possibly hiring the individuals. 
+
+ (77) “Vocational training” means skills training for a specific occupation. 
+
+ (78) “Youth with a disability” means an individual with a disability who is not younger than 14 years of age and not older than 24 years of age. 
+
+ (79) “Youth with disabilities” means more than one youth with a disability. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 344.530 
+ 
+ 
+ Statutes/Other Implemented:  ORS 344.530, 344.550, 344.560, 344.570 & 344.590 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VRS 2-2020, amend filed 02/14/2020, effective 02/28/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VRS 1-2014, f. 12-30-14, cert. ef. 1-1-15 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VRS 2-2011, f. 8-12-11, cert. ef. 9-1-11 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ Reverted to VRS 2-2009, f. & cert. ef. 3-27-09 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VRS 1-2011(Temp), f. 2-15-11, cert. ef. 3-1-11 thru 8-28-11 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VRS 2-2009, f. & cert. ef. 3-27-09 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VRS 4-2008(Temp), f. 12-18-08, cert. ef. 12-19-08 thru 6-16-09 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VRS 3-2008, f. & cert. ef. 4-10-08 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VRS 2-2008, f. & cert. ef. 3-3-08 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VRS 1-2008, f. & cert. ef. 2-4-08 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ VRS 2-2005, f. 4-20-05, cert. ef. 7-1-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ VRS 5-2004, f. & cert. ef. 8-5-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

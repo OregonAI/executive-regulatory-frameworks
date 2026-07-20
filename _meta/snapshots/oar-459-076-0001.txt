@@ -1,0 +1,374 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Public Employees Retirement System 
+ Chapter 459 
+ 
+ 
+ 
+ 
+ 
+ Division 76 OPSRP DISABILITY BENEFIT 
+ 459-076-0001 
+ Definitions
+ 
+ 
+ The words and phrases used in this division have the same meaning given them in ORS Chapter 238A and OAR 459-070-0001. Additional terms are defined as follows unless the context requires otherwise. 
+
+ (1) “Any work for which qualified” means a job, not necessarily the last or usual job, which the applicant for disability benefits: 
+
+ (a) Is physically and psychologically capable of performing; and 
+
+ (b) Has or may obtain with reasonable training, the knowledge, skills and abilities, to perform the job. 
+
+ (2) “Certified vocational consultant” means a person who satisfies the criteria set forth under either of the following: 
+
+ (a) A Master's Degree in vocational rehabilitation, and one year of experience in performing vocation evaluations or developing individualized return-to-work plans; or a Bachelor's Degree and two years of such experience. All degrees must have been earned at an accredited institution; or 
+
+ (b) Accredited as a Certified Rehabilitation Counselor (CRC) by the Commission on Rehabilitation Counselor Certification; as a Certified Disability Management Specialist (CDMS) by the Certification of Disability Management Specialists Commission; or a Certified Vocational Evaluation Specialist (CVE) or a Certified Work Adjustment Specialist (CWA) by the Commission on Certification of Work Adjustment and Vocational Evaluation Specialists. 
+
+ (3) “Confidential information” means information of a personal nature such that disclosure would constitute an unreasonable invasion of privacy as defined by state law. 
+
+ (4) “Date an application for a disability benefit is filed” means the receipt date as determined pursuant to OAR 459-005-0220. 
+
+ (5) “Date of disability” means the date an active member ceased to work because of inability to perform any work for which qualified due to injury or disease. 
+
+ (6) “Date of separation from service” means the later of: the last day worked or the last day of paid leave with a PERS participating employer. 
+
+ (7) “Date of termination” means the date a member terminates from employment such that an employee/employer relationship no longer exists. 
+
+ (8) “Earned income” includes, but is not limited to: 
+
+ (a) Salary or wages received as an employee; 
+
+ (b) Self-employment income from: 
+
+ (A) Services industry; 
+
+ (B) Sales; 
+
+ (C) Assembly or manufacturing; 
+
+ (D) Consulting; 
+
+ (E) Property management; 
+
+ (F) Gambling, other than income from sweepstakes, lotteries, bingo, keno, or slot machines; 
+
+ (G) Hobby income; or 
+
+ (H) Book advances. 
+
+ (c) “Earned income” does not include: 
+
+ (A) Investment income; 
+
+ (B) Rent; and 
+
+ (C) Royalties. 
+
+ (d) Earned income is deemed to be received by the member on the date it is issued by the payer, except retroactive payments included in ORS 238.008 shall be deemed to be received by the member during the period for which the payment is allocated. 
+
+ (e) Earned income includes the net profits of any business entity owned solely or jointly by a member and for which the member materially participates in the business, as defined by the Internal Revenue Service under 26 CFR 1.469-5T, as in effect on July 1, 2021. 
+
+ (9) “Effective date of disability benefit” means the first day of the month following the date of disability, in which: 
+
+ (a) The member is paid no salary from a participating employer; and 
+
+ (b) The member does not receive paid leave from a participating employer, except for any lump sum payment for accrued vacation leave or compensatory time. 
+
+ (10) “Extended duration” means a period of not less than 90 consecutive calendar days unless the disability is expected to result in the death of the disabled member in less than 90 days. 
+
+ (11) “Independent medical exam” means an exam or exams conducted by a physician chosen by PERS for purposes other than for treatment which results in the issuance of a report or reports based on those exams, giving an opinion regarding the claimed injury or disease. 
+
+ (12) “Irregular and unpredictable manner” means earned income from other than employment. 
+
+ (13) “Material contributing cause” means the efficient, dominant, and proximate cause of the disability, without which the member would not be disabled. 
+
+ (14) “Monthly salary” means salary as defined in ORS 238A.005 that is earned in the last full calendar month of employment and includes a differential wage payment, as defined in OAR 459-005-0001. 
+
+ (a) Retroactive payments or payments made due to clerical errors, paid in accordance with ORS 238A.005, are allocated to the period the salary was earned or should have been earned. 
+
+ (b) Payments of salary paid within 31 days of separation are allocated to the period the salary was earned and should be considered as paid on the last date of employment. 
+
+ (15) “Monthly salary received” means the greater of the salary paid for the last full calendar month of: 
+
+ (a) Employment before the date of disability; or 
+
+ (b) Differential wage payments made before the date of disability. This subsection is effective January 1, 2009. 
+
+ (16) “Performance of duty” means whatever an employee may be directed, required or reasonably expected to do in connection with their employment, and not solely the duties particular to their position. 
+
+ (17) “Periodic review” means a review of a member receiving a disability benefit to determine whether or not a continued benefit is warranted. 
+
+ (18) “Physical capacity evaluation” means a comprehensive and objective evaluation performed by a physician, physical therapist, or occupational therapist to determine a member’s physical or functional capacity to perform work. The evaluation may include an analysis of the member’s ability to perform a specified job based on a position description and the member’s abilities or limitations. 
+
+ (19) “Physician” means a doctor of medicine, a doctor of osteopathy, a doctor of oral surgery, a chiropractic doctor, a naturopathic doctor, a doctor of podiatric medicine, or a doctor of psychology practicing only within the purview of their license issued by the designated authority of a state. 
+
+ (20) “Pre-existing condition” means a condition that was not sustained in actual performance of duty in a qualifying position with a participating employer. 
+
+ (21) “Protected health information” means health information created or received by a health care provider, health plan, or health care clearinghouse, where an individual has a reasonable belief that the information can identify the individual, which relates to: 
+
+ (a) The past, present, or future physical or mental health of an individual; 
+
+ (b) The provision of health care to an individual; or 
+
+ (c) The past, present, or future payment for the provision of health care to an individual. 
+
+ (22) “Total disability” means the inability to perform any work for which qualified for an extended duration due to physical or mental incapacitation. 
+
+ (23) “Vocational evaluation” means an evaluation conducted by a certified vocational consultant, to determine the ability of an applicant to perform any work for which they are qualified. 
+
+ (24) “Work related stress” means conditions or disabilities resulting from, but not limited to: 
+
+ (a) Change of employment duties; 
+
+ (b) Conflicts with supervisors; 
+
+ (c) Actual or perceived threat of loss of a job, demotion, or disciplinary action; 
+
+ (d) Relationships with supervisors, coworkers, or the public; 
+
+ (e) Specific or general job dissatisfaction; 
+
+ (f) Work load pressures; 
+
+ (g) Subjective perceptions of employment conditions or environment; 
+
+ (h) Loss of job or demotion for whatever reason; 
+
+ (i) Fear of exposure to chemicals, radiation biohazards, or other perceived hazards; 
+
+ (j) Objective or subjective stresses of employment; or 
+
+ (k) Personnel decisions. 
+
+ (25)  “Work the member performed at the time the member became disabled” means the duties and requirements of the last or usual job of a member who was last employed as a police officer or firefighter as defined in ORS 238A.005 at the time of disability. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 238A.450 
+ 
+ 
+ Statutes/Other Implemented:  ORS 238A.235 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PERS 17-2025, amend filed 12/05/2025, effective 12/05/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PERS 8-2021, amend filed 12/03/2021, effective 12/03/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PERS 14-2020, amend filed 10/02/2020, effective 10/02/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PERS 8-2011, f. & cert. ef. 10-5-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PERS 1-2009, f. & cert. ef. 2-12-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PERS 7-2007, f. & cert. ef. 4-4-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PERS 16-2005, f. & cert. ef. 10-3-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

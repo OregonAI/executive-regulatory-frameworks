@@ -1,0 +1,213 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 123 THERAPEUTIC RADIATION MACHINES 
+ 333-123-0150 
+ Superficial Electronic Brachytherapy: Quality Assurance Checks 
+ 
+ (1) Quality assurance checks shall be performed by the registrant on each superficial electronic brachytherapy device subject to this rule: 
+
+ (a) At the beginning of each day of use; and 
+
+ (b) After any software update or machine modification. 
+
+ (2) The registrant shall perform periodic quality assurance checks on the superficial brachytherapy device in accordance with procedures established by a qualified medical physicist. The quality assurance procedures established by the qualified medical physicist must: 
+
+ (a) Specify the frequency at which test or measurements are to be conducted . 
+
+ (b) Specify equipment required for the test; 
+
+ (c) Include the name of personnel conducting the test; and 
+
+ (d) Include the acceptable tolerance for each parameter measured in the quality assurance check and the response triggered by test results that exceed tolerance levels. 
+
+ (3) The registrant shall review the results of each radiation output quality assurance check according to the following procedures: 
+
+ (a) The authorized user and a qualified medical physicist shall be immediately notified if any parameter is not within its acceptable tolerance. The superficial electronic brachytherapy device shall not be made available for subsequent medical use until the qualified medical physicist has determined that all parameters are within their acceptable tolerances. 
+
+ (b) A qualified medical physicist shall review and sign the results of each radiation output quality assurance check at intervals not to exceed 30 days. 
+
+ (4) Safety device quality assurance checks. Superficial brachytherapy devices must have applicable safety quality assurance checks in accordance with industry standards of practice and the manufacturer's recommendations at least once a week to ensure: 
+
+ (a) Proper operation of radiation exposure indicator lights on the superficial electronic brachytherapy device and on the control console; 
+
+ (b) Proper operation of viewing and intercom systems in each superficial electronic brachytherapy facility, if applicable; 
+
+ (c) Proper operation of radiation monitors, if applicable; 
+
+ (d) The integrity of all cables or parts of the device that carry high voltages; and 
+
+ (e) Connecting guide tubes, transfer tubes, transfer-tube-applicator interfaces, and treatment spacers are free from any defects that interfere with proper operation. 
+
+ (5) If the results of the safety device quality assurance checks indicate the malfunction of any system, the registrant shall secure the control console in the OFF position and not use the superficial electronic brachytherapy device except as may be necessary to repair, replace, or check the malfunctioning system. 
+
+ (6) The registrant shall maintain a record as outlined in OAR 333-120-0690 of each quality assurance check for three years. 
+
+ (a) The record shall include: 
+
+ (A) The date of the quality assurance check; 
+
+ (B) The manufacturer's name, model number and serial number for the superficial electronic brachytherapy device; 
+
+ (C) The name and signature of the individual who performed the periodic quality assurance check; and 
+
+ (D) The name and signature of the qualified medical physicist who reviewed the quality assurance check. 
+
+ (b) For radiation output quality assurance checks required by this rule, the record shall also include the unique identifier for the superficial electronic brachytherapy source and the manufacturer's name, model number and serial number for the instrument(s) used to measure the radiation output of the electronic brachytherapy device. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 453.605 - 453.807 
+ 
+ 
+ Statutes/Other Implemented:  ORS 453.605 - 453.807 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 72-2020, adopt filed 10/09/2020, effective 10/09/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

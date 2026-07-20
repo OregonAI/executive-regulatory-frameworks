@@ -1,0 +1,275 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 136 MEDICAL TRANSPORTATION SERVICES 
+ 410-136-3000 
+ Responsibility for Providing Non-emergent Medical Transportation
+ 
+ 
+ (1) The Authority shall provide non-emergent medical transportation (NEMT) for eligible clients who receive their Oregon Health Plan (OHP) covered medical services on a fee-for-service basis or are clients enrolled in coordinated care organizations (CCO), and for eligible clients who receive Reproductive Health Access Fund (RHAF) covered services. The Authority shall discontinue providing this service to a client enrolled in a CCO after the date the client is enrolled in a CCO. The CCO shall provide and coordinate the service to their enrollees on and after the date of the client’s enrollment in the CCO pursuant to section (2) of this rule. 
+
+ (2) When a CCO begins providing NEMT services for its enrollees, the Authority shall provide NEMT services in the CCO’s service area only to clients not enrolled in a CCO: 
+
+ (a) The Authority may not pay for services covered by a CCO. Reimbursement is a matter between the CCO and its transportation brokerage and subcontractor. Reimbursement is a matter between the CCO and its contracted brokerage and transportation providers; 
+
+ (b) For clients enrolled in a CCO the transportation provider must coordinate all transportation services with the client’s transportation brokerage or CCO prior to providing services. 
+
+ (3) The requirements in OAR 410-136-3000–410-136-3360 apply to NEMT services for which the Authority is responsible pursuant to this rule. 
+
+ (4) Brokerages shall, and must ensure subcontractors, have access to culturally and linguistically appropriate tools available to provide clients accessing NEMT services: 
+
+ (a) of free written translations, oral interpretation, certified and qualified spoken and sign language interpreters, alternative formats, and auxiliary aids and services, for the client to be able to understand NEMT services information provided; 
+
+ (b) Alternative formats or languages, including interpretation during phone calls, shall be provided upon request at no cost to the client. 
+
+ (5) Language access services for NEMT services also applies to client representatives, family members and caregivers with hearing impairments or Limited English Proficiency (LEP) who need to understand the client’s condition and care. For OHP members, see Oregon Health Plan (OHP) program OAR 410-120-0001 Interpreter Services requirements for Medicaid members with Limited English Proficiency services. For RHAF clients, see Certification Requirements for RHCare Clinics Version 3, Certification Requirements for CCare Clinics Version 2, or Certification Requirements for AbortionCare Clinics Version 3 for language access requirements adopted in in OAR 333-004-3030, which are incorporated by reference in this section. 
+
+ (6) A brokerage may request that the Authority delay responsibility for reimbursement to clients pursuant to OAR 410-136-3240, Client Reimbursed Mileage, Meals and Lodging, until a CCO in the brokerage's service area assumes NEMT services for the CCO's enrolled client. Any delay of responsibility must not exceed fourteen (14) days and must be prior approved by the Authority. The delay of the brokerage's responsibility also includes reimbursing clients in the fee-for-service delivery system. 
+
+ (7) OAR 410-136-3040, Vehicle Equipment and Subcontractor Standards and OAR 410-136-3120, Secured Transports do not apply to ambulance providers, ambulance vehicles, or ambulance personnel that are licensed and regulated by ORS Chapter 682 and OAR chapter 333, divisions 250, 255, 260 and 265, whether providing ambulance or stretcher transports. 
+
+ (8) The following definitions specifically apply to OAR 410, division 136. This rule does not include an exhaustive list of Division acronyms and definitions. For more information of any terms not defined in this rule, see Oregon Health Plan (OHP) program OAR 410-141-3500 Acronyms and Definitions; OAR 410-120-0000 Acronyms and Definitions; OAR 309-032-0860; OAR 410-200-0015 General Definitions; and any appropriate governing acronyms and definitions in the Department of Human Services (Department) chapter 411, 413, or 461 administrative rules; or contact the Division. For purposes of the rules OAR 410-136-3000 through 410-136-3360: 
+
+ (a) “Attendant” means an individual at least 18 years of age to accompany the client. An attendant may also be a behavioral health personal care attendant allowed to accompany the client in accordance with OAR 410-172-0780; 
+
+ (b) “Brokerage” means a governmental transportation brokerage (local unit of government), or other entity, enrolled by and contracted with the Authority to arrange rides and pay subcontractors for NEMT services; 
+
+ (c) “Client” means an individual eligible to receive OHP or RHAF health services on the date of service and who resides in the Service Area; 
+
+ (d) “Contractor” means a transportation brokerage, or other entity, enrolled as an OHP provider by and contracted with the Authority to arrange rides brokerages pay subcontractors for NEMT services; 
+
+ (e) “Covered service” means medically necessary and appropriate health services and items described in ORS Chapter 414 and applicable administrative rules and the Prioritized List of Health Services above the funding line set by the legislature, consistent with OAR Chapter 410 division 120, or services as described in OAR 333-004-3070; 
+
+ (f) “Electronic Data Interchange (EDI)” means the exchange of business documents from application to application in a federally mandated format or, if no federal standard has been promulgated, using bulk transmission processes and other formats as the Authority designates for EDI transactions consistent with OAR Chapter 410 division 120; 
+
+ (g) “Local area” means an area within the accepted community standard and includes the client’s metropolitan area, city, or town of residence; 
+
+ (h) “Member” means an Oregon Health Plan (OHP) client enrolled with a coordinated care organization (CCO); 
+
+ (i) “Non-Emergent Medical Transportation Services (NEMT)” means transportation to or from a source of covered service, that does not involve a sudden, unexpected occurrence which creates a medical crisis requiring emergency medical services as defined in OAR 410-120-0000 and requiring immediate transportation to a site, usually a hospital, where appropriate emergency medical care is available; 
+
+ (j) “Provider” means a public Agency, non-profit company, for-profit company, or an individual with whom a brokerage subcontracts with to provide rides; 
+
+ (k) “RHAF” means Reproductive Health Access Fund, a source of coverage for reproductive health services as defined in OAR 333-004-3070 provided to individuals who complete the RH Access Fund Enrollment Form and are deemed eligible (“RHAF client”). 
+
+ (L) "RH Access Fund Eligibility Database" means the centralized, web-based data system operated by the RH Program to house information about enrollees. 
+
+ (m) “Ride” means to drive the client to and from Oregon Health Plan (OHP) covered services or RHAF covered services; 
+
+ (n) “Secure transport” means NEMT services for the involuntary transport of clients who are in danger of harming themselves or other individuals; 
+
+ (o) “Service area” means the geographic area within which the Regional Brokerage agreed under contract with the Authority to provide Rides as a service through the contractor’s Call Center; 
+
+ (p) “Subcontractor” means the provider, individual or entity, with which the brokerage executes a contract to drive the client to and from Oregon Health Plan (OHP) covered services; 
+
+ (q) “The Authority” means the Oregon Health Authority (OHA); 
+
+ (r) "Volunteer" (for the purposes of NEMT) means an individual selected, trained and under the supervision of the ODHS who is providing services on behalf of the ODHS in a non-paid capacity except for incidental expense reimbursement under the ODHS Volunteer Program authorized by ORS 409.360. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.065 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 152-2024, amend filed 12/30/2024, effective 01/01/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 95-2023, amend filed 12/22/2023, effective 01/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 29-2014, f. & cert. ef. 5-20-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 69-2013(Temp), f. 12-24-13, cert. ef. 1-1-14 thru 6-30-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 36-2013, f. 6-27-13, cert. ef. 7-1-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

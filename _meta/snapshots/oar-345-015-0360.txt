@@ -1,0 +1,381 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Energy 
+ Energy Facility Siting Council - Chapter 345 
+ 
+ 
+ 
+ 
+ Division 15 PROCEDURES GOVERNING COUNCIL AND DEPARTMENT OF ENERGY PROCEEDINGS, INCLUDING SITE CERTIFICATE HEARINGS 
+ 345-015-0360 
+ Requests for an Exemption
+ 
+ 
+ (1) Except as noted in (9), any person wishing to construct and operate a facility exempt from Council jurisdiction shall submit a request for exemption to the Department of Energy before beginning construction or modification of an energy facility. The request must demonstrate eligibility under OAR 345-015-0350 and include all applicable information listed below: 
+
+ (a) A description of the facility, including capacity, fuel type, and location; 
+
+ (b) Identification of ownership and operational control; 
+
+ (c) Any existing Council authorizations applicable to the facility; 
+
+ (d) Data supporting exemption eligibility under the relevant ORS or OAR provision; 
+
+ (e) Any proposed mitigation or reporting commitments; and 
+
+ (f) Any other information required to show the facility as proposed meets all applicable requirements outlined in ORS 469.320. 
+
+ (2) A person shall not construct or expand a facility as defined in OAR 345-001-0010 unless the Council has granted an exemption as described in OAR 345-015-0370 or has issued a site certificate or an amendment to an existing site certificate. 
+
+ (3) In a request for an exemption for a modification of a facility for which no site certificate has been issued that will not increase the ability of the facility to use fuel for electricity production under peak steady state operating conditions to more than 200 million Btu per hour (higher heating value) greater than it was on August 2, 1993, the person shall provide the following information, in addition to what is requested in section (1), in support of the request: 
+
+ (a) A detailed description of the proposed upgrade or expansion; 
+
+ (b) The proposed and current facility fuel use; 
+
+ (c) The proposed and current nominal electric generating capacity; 
+
+ (d) The proposed and current related or supporting facilities and site boundary; 
+
+ (e) The proposed and current heat rate; and 
+
+ (f) Verification that the facility had operable electric generating equipment on August 2, 1993. 
+
+ (4) In a request for an exemption for modification of a facility for which no site certificate has been issued that is called for in the short-term plan of action of an energy resource plan that has been acknowledged by the Public Utility Commission of Oregon, the person shall provide the following information, in addition to what is requested in section (1), in support of the request: 
+
+ (a) The information described in subsections (3)(a) through (f) of this rule; 
+
+ (b) Identification and discussion of the portion of the short-term plan of action of an energy resource plan that calls for the facility expansion; and 
+
+ (c) The Public Utility Commission of Oregon Order acknowledging the plan described in subsection (b). 
+
+ (5) In a request for an exemption for construction or expansion of an interstate natural gas pipeline or associated underground natural gas storage facility authorized by and subject to the continuing regulation of the Federal Energy Regulatory Commission, in addition to what is requested in section (1), the person shall provide a certificate of public convenience and necessity issued by the Federal Energy Regulatory Commission for the proposed pipeline or associated underground natural gas storage facility, or other comparable evidence that the proposed pipeline or storage facility is within that agency's jurisdiction. 
+
+ (6) In a request for an exemption based on a very efficient use of fuel (high efficiency cogeneration) the person shall provide the following information, in addition to what is requested in section (1), in support of the request: 
+
+ (a) Detailed information on proposed fuel use, power plant design, steam or heat output to the thermal host and proposed electric output; 
+
+ (b) Detailed information on the current facility, including fuel to be displaced, current steam or heat use and current electric output if any; 
+
+ (c) A detailed engineering assessment of fuel efficiency, showing that the proposed facility is a high efficiency cogeneration facility under the definition in OAR 345-001-0010. The person shall provide calculations in sufficient detail to facilitate independent review by the Department. The person shall state the underlying assumptions necessary to support the calculation including assumptions concerning the energy content of fuel displaced; and 
+
+ (d) A description of the facility, including the thermal host, the proposed energy facility, the location by address as well as township and range and any associated linear equipment needed. 
+
+ (7) In a request for an exemption of a small generating plant or expansion of a small generating plant, as defined in OAR 345-001-0210, the person shall include the following information, in addition to what is requested in section (1): 
+
+ (a) A description of the proposed small generating plant or proposed expansion to a small generating plant and a description of related or supporting facilities; 
+
+ (b) Identification of the person or persons who will construct, operate and own the plant; 
+
+ (c) An analysis of the factors described in OAR 345-001-0210(3); and 
+
+ (d) Any other information the Department of Energy determines the Council needs to make the finding described in OAR 345-001-0210(3). 
+
+ (8) In a request for an exemption under OAR 345-015-0350(5) for a plant that converts biomass to a liquid fuel, the person shall include the following information, in addition to what is requested in section (1): 
+
+ (a) A description of the proposed plant, including, but not limited to, the location, acreage and annual production capacity of the proposed plant and the type of liquid fuel the plant will produce; 
+
+ (b) A description of the feedstock verifying that the facility will use only the types of feedstock described in ORS 469.320(2)(f); 
+
+ (c) The identity of the affected local government that has given land use approval under the applicable acknowledged comprehensive plan and land use regulations and copies of all land use approval documents the local government has issued; 
+
+ (d) The statewide planning goals or rules of the Land Conservation and Development Commission that are directly applicable to the facility and evidence to support a finding by the Council that the facility complies with those goals and rules; 
+
+ (e) A description of the expected electrical loads and fuel needs of the facility and a statement verifying that the facility requires no new electric transmission lines or gas or petroleum product pipelines that would require a site certificate; and 
+
+ (f) A statement verifying that the plant will produce synthetic fuel, at least 90 percent of which will be used in an industrial or refueling facility located within one mile of the facility or will be transported from the facility by rail or barge and evidence that adequate rail and barge facilities are available to serve the proposed site. 
+
+ (9) Requests for an exemption for a standby generation facility under ORS 469.320(2)(g) are not required. 
+
+ (10) Within 60 days after receipt of an exemption request, the Department must notify the applicant whether the request is complete. In the notification, the Department must: 
+
+ (a) State that the request is complete and state the date of filing; 
+
+ (b) State that the request is incomplete, and: 
+
+ (A) Describe any information needed to complete the request to the extent known to the Department at the time of the notification; 
+
+ (B) Ask the applicant to submit the needed information by the deadline; and 
+
+ (C) Estimate the additional time the Department will need to make a determination of completeness; or 
+
+ (c) Explain the reasons why the Department cannot determine completeness and estimate the additional time the Department will need to make a determination of completeness. 
+
+ (11) The Council shall act within 60 days of Department recommendation, approving, approving with conditions, or denying the request. 
+
+ (12) When submitting a request for exemption, the requestor shall submit the fee established by the Council as described in ORS 469.441. The requestor is liable for reimbursement of any review expenses beyond the initial fee that are incurred by the Department of Energy and Council relating to the review and decision by the Council. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 469.470 
+ 
+ 
+ Statutes/Other Implemented:  ORS 469.320 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 3-2026, amend filed 04/23/2026, effective 04/23/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 1-2024, amend filed 01/30/2024, effective 01/30/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 1-2007, f. & cert. ef. 5-15-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 1-2003, f. & cert. ef. 9-3-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 1-2002, f. & cert. ef. 4-3-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 2-2000, f. & cert. ef. 11-20-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 1-2000, f. & cert. ef. 2-2-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 4-1999(Temp), f. & cert. ef. 10-15-99 thru 4-11-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 2-1999, f. & cert. ef. 4-14-99 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 3-1995, f. & cert. ef. 11-16-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 5-1994, f. & cert. ef. 11-30-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

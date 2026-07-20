@@ -1,0 +1,274 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+   Temporary rule language in effect until 10/04/2026. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Workers' Compensation Division - Chapter 436 
+ 
+ 
+ 
+ 
+ Division 35 DISABILITY RATING STANDARDS 
+ 436-035-0011 
+ Determining Percent of Impairment
+ 
+ 
+ (1) The total impairment rating for a body part cannot be more than 100% of the body part. 
+
+ (2) When rating disability the movement in a joint is measured in active degrees of motion. Impairment findings describing lost ranges of motion are converted to retained ranges of motion by subtracting the measured loss from the normal of full ranges established in these rules. 
+
+ (a) Range of motion values for each direction in a single joint are first added, then combined with other impairment findings. [See ED. NOTE.] 
+
+ (b) Range of motion values for multiple joints in a single body part (e.g., of a finger) are determined by finding the range of motion values for each joint (e.g., MCP, PIP, DIP) and combining those values for an overall loss of range of motion value for that body part. This value is then combined with other impairment values. 
+
+ (3) The range of motion or laxity (instability) of an injured joint is compared to and valued proportionately to the contralateral joint except when the contralateral joint has a history of injury or disease or when either joint’s range of motion is zero degrees or is ankylosed. The strength of an injured extremity, shoulder, or hip may be compared to and valued proportionately to the contralateral body part except when the contralateral body part has a history of injury or disease. 
+
+ 
+ Instability example: The injured knee is reported to have severe instability of the anterior cruciate ligament. The standards grant an impairment value of 15% for severe instability of the anterior cruciate ligament. The contralateral knee is reported to have mild instability of the anterior cruciate ligament. The standards grant an impairment value of 5% for mild instability of the anterior cruciate ligament. A proportion is established by subtracting the contralateral instability of 5% from the 15% for the injured joint which = 10% impairment for the instability. 
+
+ Strength example: The injured deltoid muscle is reported to have 3/5 strength. The standards note 3/5 strength = 50%. The contralateral deltoid muscle is reported to have 4+/5 strength. The standards note 4+/5 strength = 10%. A proportion is established by subtracting the contralateral strength of 10% from the 50% for the injured arm which = 40%. This percentage is then used to determine the loss of strength for the injured deltoid. 
+
+ Range of motion examples: 
+
+ Flexion (knee): 80° retained on injured side, the contralateral joint flexes to 140°. A proportion is established to determine the expected degrees of flexion since 140° has been established as normal for this worker. One method of determining this proportion is: 80/140 = X/150. X = expected retained range of motion compared to the established norm of 150° upon which flexion is determined under these rules. X, in this case, equals 86°. 86° of retained flexion of the knee is calculated under these rules, after rounding, to 23% impairment. 
+
+ Extension (knee): 35° retained on injured side, the contralateral joint extends to 15°. First, find the complement, i.e., 150 - 15 =135 (uninjured) and 150 - 35 = 115 (injured). Next, using the same method as for flexion, 115/135 = X/150, or, X = 127.77. Then, revert back, so, 150 - 127.77 = 22.23 rounded to 22° for an impairment value of 9%. [See ED. NOTE.] 
+ 
+
+ (a) If the motion of the injured or contralateral joint exceeds the values for ranges of motion established under these rules, the values established under these rules are maximums used to establish impairment. 
+
+ (b) When the contralateral joint has a history of injury or disease, the findings of the injured joint are valued based upon the values established under these rules. 
+
+ (4) Specific impairment findings (e.g., weakness, reduced range of motion, etc.) are awarded in whole number increments. This may require rounding non-whole number percentages and contralateral comparison degrees of motion for given impairment findings before combining with any other applicable impairment value. 
+
+ (a) Except for subsection (b) of this section, before combining, the sum of the impairment values is rounded to the nearest whole number. For the decimal portion of the number, point 5 and above is rounded up, below point 5 is rounded down. [See ED. NOTE.] 
+
+ (b) When the sum of impairment values is greater than zero and less than 0.5, a value of 1% will be granted. [See ED. NOTE.] 
+
+ (5) If there are impairment findings in two or more body parts in an extremity, the total impairment findings in the distal body part are converted to a value in the most proximal body part under the applicable conversion chart in these rules. This conversion is done prior to combining impairment values for the most proximal body part. [See ED. NOTE.] 
+
+ (6) Except as otherwise noted in these rules, impairment values to a given body part, area, or system are combined as follows: 
+
+ (a) The combined value is obtained by inserting the values for A and B into the formula A + B(1.0 - A). The larger of the two numbers is A and the smaller is B. The whole number percentages of impairment are converted to their decimal equivalents (e.g., 12% converts to .12; 3% converts to .03). The resulting percentage is rounded to a whole number as determined in section (1) of this rule. Upon combining the largest two percentages, the resulting percentage is combined with any lesser percentage(s) in descending order using the same formula until all percentages have been combined prior to performing further computations. After the calculations are completed, the decimal result is then converted back to a percentage equivalent. Example: .12 + .03(1.0 - .12) =.12 + .03(.88) =.12 + .0264 =.1464 = 14.6 = 15. [See ED. NOTE.] 
+
+ (b) Impairment values for a given body part, area, or system must be combined before combining with other impairment values. If the given body part is an upper or lower extremity, ear(s), or eye(s) then the impairment value is to be converted to a whole person value before combining with other impairment values, except when the date of injury for the claim is prior to Jan. 1, 2005. [See ED. NOTE.] 
+
+ (7) Loss of strength is determined using the modified 0 to 5 international grading system described below. The grade of strength is reported by the provider and assigned a percentage value from the table in subsection (a) of this section. The impairment value of the involved nerve, which supplies (innervates) the weakened muscle, is multiplied by this value. Grades identified as ”++” or ”--” are considered either a ”+” or ”-”, respectively. 
+
+ (a) The grading is valued as follows: [See ED. NOTE.] 
+
+ (b) When a provider reports a loss of strength with muscle action (e.g., flexion, extension, etc.) or when only the affected muscle(s) is identified, anatomy texts or the AMA Guides to the Evaluation of Permanent Impairment may be referenced to identify the specific muscle(s), peripheral nerve(s) or spinal nerve root(s) involved. A copy of the standards referenced in this rule is available for review during regular business hours at the Workers’ Compensation Division, 350 Winter Street NE, Salem OR 97301, 503-947-7810. 
+
+ (8) For muscles supplied (innervated) by the same nerve, the loss of strength is determined by averaging the percentages of impairment for each involved muscle to arrive at a single percentage of impairment for the involved nerve. [See ED. NOTE.] 
+
+ (9) When multiple nerves have impairment findings found under these rules, these impairment values are first combined for an overall loss of strength value for the body part before combining with other impairment values. 
+
+ (10) When a joint is ankylosed in more than one direction or plane, the largest ankylosis value is used for rating the loss or only one of the values is used if they are identical. This value is granted in lieu of all other range of motion or ankylosis values for that joint. 
+
+ [ED. NOTE: Examples referenced are available from the agency. Publications referenced are available from the agency.] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 656.726 
+ 
+ 
+ Statutes/Other Implemented:  ORS 656.005, 656.214, 656.268 & 656.726 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 3-2026, temporary amend filed 04/08/2026, effective 04/08/2026 through 10/04/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 8-2012, f. 11-26-12, cert. ef. 1-1-13 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 2-2010, f. 5-5-10, cert. ef. 6-1-10 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 8-2005, f. 12-6-05, cert. ef. 1-1-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 9-2004, f. 10-26-04, cert. ef. 1-1-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

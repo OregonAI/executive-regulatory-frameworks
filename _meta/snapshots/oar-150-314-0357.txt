@@ -1,0 +1,274 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 314 INCOME TAXATION GENERALLY  GENERAL PROVISIONS 
+ 150-314-0357 
+ Modified Factors for Motion Picture and Television Film Producers
+ 
+ 
+ (1) This regulation applies to motion picture and television film producers and producers of television commercials. 
+
+ (2) Definitions. 
+
+ (a) “Film” means the physical embodiment of a play, story, or other literary, commercial, educational, or artistic work, as a motion picture, video tape, disc, or other similar medium, except that it does not include news or sports films produced for telecast. “Film” does not include video cassettes or discs intended for home viewing. 
+
+ (b) Each episode of a series of films produced for television must constitute a separate film notwithstanding that the series relates to the same principal subject and is produced during one or more television seasons. 
+
+ (c) “Release date” means the date on which a film is placed in service. A film is placed in service when it is first telecast or exhibited to the primary audience for which the film was created. Thus, a motion picture theater film is placed in service when it is first publicly exhibited for entertainment purposes and an educational film is placed in service when it is first exhibited for instructional purposes. Each episode of a television series is placed in service when it is first telecast. A film is not placed in service merely because it is completed and therefore in a condition or state of readiness and availability for telecast or exhibition, or merely because it is telecast or exhibited to prospective exhibitors, sponsors, or purchasers, or is shown in a “sneak preview” before a select audience. 
+
+ (d) A “film” is deemed to be tangible personal property. 
+
+ (e) “Rent” includes license fees for the exhibition or telecast of films. 
+
+ (f) “Tangible personal property” used in the business, whether owned or rented, includes but is not limited to sets, props, wardrobes, and other similar equipment or property. 
+
+ (g) A “subscriber” to a subscription television telecaster is the individual residence or other outlet which is the ultimate recipient of the transmission. 
+
+ (h) “Telecast” means the transmission of an electronic signal by radiowaves or microwaves or by wires, lines, coaxial cables, wave guides, or other tangible conduits of communication. 
+
+ (3) Apportionment of Apportionable Income. The property, payroll, and sales factor of the apportionment formula for Motion Picture and Television Film Producers shall be computed pursuant to ORS 314.655 through 314.665 and the regulations thereunder except as provided in this regulation. 
+
+ (a) Property Factor. 
+
+ (A) In General. 
+
+ (i) In the case of rented studios, the net annual rental rate includes only the amount of the basic or flat rental charge by the studio for the use of a stage and other permanent equipment such as sound recording equipment, etc., except that additional equipment rented from other sources or from the studio not covered in the basic or flat rental charge and used for one week or longer (even though rented on a day-to-day basis) must be included. Lump-sum net rental payments for a period which encompasses more than a single income year is assigned ratably over the rental period. 
+
+ (ii) The value of films must: 
+
+ (I) Be the original cost of producing the film as determined for federal income tax purposes, before any adjustment for federal credits which have not been claimed for state purposes, and 
+
+ (II) Include talent salaries. 
+
+ (iii) The value of a film is not in the property factor until its release date. 
+
+ (iv) Video cassettes and discs are in the property factor at their inventory cost as shown in the taxpayer’s books and records. 
+
+ (B) Denominator. 
+
+ (i) All real property and tangible personal property (other than films) whether owned or rented, which is used in the business, is included in the denominator. 
+
+ (ii) Films, other than films the cost of which is expensed for Oregon tax purposes at the time of production, is included in the property factor at original cost for twelve years beginning with the release date. 
+
+ (iii) Films of a topical nature including news or current event programs, sporting events or interview shows, the cost of which is expensed for Oregon tax purposes at the time of production, is included in the property factor at original cost for one year beginning with the release date. 
+
+ (iv) All films, other than those included in the denominator under clause (ii) or (iii) of this subparagraph, are aggregated and treated as a single film property which must be included in the property factor. Such property is valued at eight times the gross receipts generated during the income year from theater distribution, television syndication, cable television, subscription television, and the marketing of video cassettes and discs through licensing or direct selling, or similar receipts, but in no event in an amount greater than the total original cost of such aggregated film property. 
+
+ (C) Numerator. 
+
+ (i) If tangible personal property (other than films) is located or used in this state for part of the income year, its value is determined by applying the ratio which the number of days the property is located or used in this state bears to the total number of days such property was owned or rented during the income year. 
+
+ (ii) The total value of films that are included in the property factor under subparagraph (B) of paragraph (3)(a) is attributed to this state in the same ratio in which the total Oregon receipts from such films as determined in subparagraphs (A), (B), and (C) of paragraph (3)(c) pertaining to the sales factor bears to the total of such receipts everywhere. 
+
+ (iii) If a film producer sells copies of a film to an affiliated corporation for distribution, at a price which does not reflect the actual cost of producing the film, the cost of the film in the hands of the distributor is redetermined under the provisions in subparagraph (A)(ii) of this paragraph, as if the distributor was the producer. 
+
+ (b) Payroll Factor. 
+
+ (A) Denominator. The denominator includes all compensation paid to employees during the income years, including talent salaries. Residual and profit participation payments constitute compensation paid to employees. 
+
+ (B) Numerator. Compensation of employees engaged in the production of a film on location is attributed to the state where the services are or were performed. Compensation of all other employees is governed by OAR 150-314-0417. 
+
+ (c) Sales Factor Numerator. The numerator includes all gross receipts of the taxpayer from sources within this state including the following: 
+
+ (A) Gross receipts from films in release to theaters and television stations located in this state. 
+
+ (B) Gross receipts from films in syndicated release is attributed to this state in the ratio that the audience for such films located in Oregon bears to the total audience for the syndicated film everywhere. The audience is determined by rate card values published annually in the Television & Cable Factbook, Vol I, “Stations Volume,” Television Digest, Inc., Washington, D.C., if available, or by other published market surveys, or, if none is available, by population data published by the U.S. Bureau of the Census. 
+
+ (C) Gross receipts from films in release to subscription television telecasters is attributed to this state in the ratio of the subscribers for such telecaster located in Oregon to the total subscribers of such telecaster everywhere. If the number of subscribers cannot be determined accurately from records maintained by the taxpayer, the ratio is determined on the basis of the applicable year’s statistics on subscribers published in Cable Vision, International Thompson Communications Inc., Denver, Colorado, if available, or by other published market surveys, or, if none is available, by population data published by the U.S. Bureau of the Census for all states in which the telecaster has subscribers. 
+
+ (D) Receipts from sales and rentals of video cassettes and discs is included in the sales factor as provided in the rules under ORS 314.665. 
+
+ [Publications: Contact the Oregon Department of Revenue to learn how to obtain a copy of the publication referred to or incorporated by reference in this rule pursuant to ORS 183.360(2) and 183.355(1)(b).] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 
+ 
+ 
+ Statutes/Other Implemented:  ORS 314.615 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 68-2017, amend filed 12/22/2017, effective 01/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 150-314.615-(H), REV 30-2016, f. 8-12-16, cert. ef. 9-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RD 7-1993, f. 12-30-93, cert. ef. 12-31-93 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RD 9-1992, f. 12-29-92, cert. ef. 12-31-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

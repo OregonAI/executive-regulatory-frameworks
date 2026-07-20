@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 123 THERAPEUTIC RADIATION MACHINES 
+ 333-123-0105 
+ Therapy Related Computer Systems 
+ 
+ (1) A registrant shall perform acceptance testing on the treatment planning system of electronic brachytherapy-related computer systems in accordance with current published recommendations from a recognized national professional association with expertise in electronic brachytherapy (when available). In the absence of an acceptance testing protocol published by a national professional association, the manufacturer’s acceptance testing protocol shall be followed.  (a) Acceptance testing shall be performed by, or under the direct supervision of a Qualified Medical Physicist. At a minimum, the acceptance testing shall include, as applicable, verification of:  (A) The source-specific input parameters required by the dose calculation algorithm;  (B) The accuracy of dose, dwell time, and treatment time calculations at representative points;  (C) The accuracy of isodose plots and graphic displays;  (D) The accuracy of the software used to determine radiation source positions from radiographic images, if applicable; and  (E) If the treatment-planning system is different from the treatment-delivery system, the accuracy of electronic transfers of the treatment delivery parameters to the treatment delivery unit from the treatment planning system.  (2) The position indicators in the applicator shall be compared to the actual position of the source or planned swell positions, as appropriate, at the time of commissioning.  (3) Prior to each patient treatment regimen, the parameters for the treatment shall be evaluated and approved by a Radiation Therapy Physician and a Qualified Medical Physicist for correctness through means independent of that used for determination of the parameters. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 453.605 - 453.807 
+ 
+ 
+ Statutes/Other Implemented:  ORS 453.605 - 453.807 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 4-2013, f. & cert. ef. 1-29-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

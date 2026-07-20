@@ -1,0 +1,324 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Energy 
+ Energy Facility Siting Council - Chapter 345 
+ 
+ 
+ 
+ 
+ Division 23 NEED STANDARD FOR NONGENERATING FACILITIES 
+ 345-023-0040 
+ Economically Reasonable Rule for Natural Gas Pipelines or Liquified Natural Gas Storage Facilities
+ 
+ 
+ The Council shall find the applicant has demonstrated need for a natural gas pipeline that is an energy facility under the definition in ORS 469.300 or a facility that stores liquefied natural gas, if the Council finds that: 
+
+ (1) The facility is needed to enable the natural gas supply system of which it is to be a part to meet firm capacity demands for natural gas that are reasonably expected to occur within five years following the facility's proposed in-service date based on weather conditions that have at least a 5 percent chance of occurrence in any year in the area to be served by the proposed facility; and 
+
+ (2) Construction and operation of the facility is an economically reasonable method of meeting the demands described in section (1) compared to the alternatives evaluated in the application for a site certificate. 
+
+ (3) If the applicant chooses to demonstrate need for a proposed natural gas pipeline or a proposed facility for storing liquefied natural gas they must submit the following additional information: 
+
+ (a) Load-resource balance tables for the area to be served by the proposed facility. In the tables, the applicant must include firm demands and resource availability for each of the years from the date of submission of the application to at least five years after the expected in-service date of the proposed facility. In the tables, the applicant must list flowing supply and storage supply separately; 
+
+ (b) Within the tables described in (a), a forecast of firm capacity demands for the area to be served by the proposed facility. The applicant must separate firm capacity demands into firm demands of retail customers, system losses and each wholesale contract for firm sale. The applicant must accompany the tables with load duration curves of firm capacity and interruptible demands for the most recent historical year, the year the facility is expected to be placed in service and the fifth year after the expected in-service date. In the forecast of firm capacity demands, the applicant must include a discussion of how the forecast incorporates reductions in firm capacity demand resulting from: 
+
+ (A) Existing federal, state or local building codes and equipment standards and conservation programs required by law for the area to be served by the proposed facility; 
+
+ (B) Conservation programs provided by the energy supplier, as defined in OAR 345-001-0010; 
+
+ (C) Conservation that results from responses to price; and 
+
+ (D) Retail customer fuel choice. 
+
+ (c) Within the tables described in (a), a forecast of existing and committed firm resources used to meet the demands described in (b). The applicant must include, as existing and committed firm capacity resources, existing pipelines, storage facilities, and scheduled and budgeted new facilities minus expected resource retirements or displacement. In the forecast, the applicant must list each committed resource separately; 
+
+ (d) A discussion of the reasons each resource is being retired or displaced if the forecast described in (c) includes expected retirements or displacements; 
+
+ (e) A discussion of the capacity factors assumed for any storage facilities listed in the forecast described in (c); 
+
+ (f) A discussion of the reliability criteria the applicant uses to demonstrate the proposed facility is needed, considering the capacity of existing gas system facilities supporting the area to be served by the proposed facility; 
+
+ (g) A discussion of reasons why the proposed facility is economically reasonable compared to the alternatives described in (h) or (j). In the discussion, the applicant must include a table showing the amounts of firm capacity available from the proposed facility and each alternative and the estimated direct cost, as defined in OAR 345-001-0010, of the proposed facility and each alternative. The applicant must include documentation of assumptions and calculations supporting the table; 
+
+ (h) In an application for a proposed natural gas pipeline, an evaluation of alternatives to construction and operation of the proposed facility including, but not limited to: 
+
+ (A) Implementation of cost-effective conservation, peak load management and voluntary customer interruption as a substitute for the proposed facility; 
+
+ (B) Installation of propane storage systems, facilities to store liquefied natural gas and underground gas storage reservoirs as a substitute for the proposed facility; 
+
+ (C) Direct use of electricity, solar or geothermal resources at retail loads as a substitute for use of natural gas supplied by the proposed facility; 
+
+ (D) Adding standard sized smaller or larger pipeline capacity; 
+
+ (i) In an application for a proposed liquefied natural gas storage facility, an evaluation of alternatives to construction and operation of the proposed facility including, but not limited to: 
+
+ (A) Implementation of cost-effective conservation, peak load management and voluntary customer interruption as a substitute for the proposed facility; 
+
+ (B) Installation of propane storage systems, natural gas pipelines and underground gas storage facilities as a substitute for the proposed facility; 
+
+ (C) Direct use of electricity, solar or geothermal resources at retail loads as a substitute for use of natural gas supplied by the proposed facility; 
+
+ (D) Adding smaller or larger liquefied natural gas storage capacity; and 
+
+ (j) The earliest and latest expected in-service date of the facility and a discussion of the circumstances of the energy supplier, as defined in OAR 345-001-0010, that determine these dates. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 469.470 & 469.501 
+ 
+ 
+ Statutes/Other Implemented:  ORS 469.501 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 2-2025, amend filed 04/02/2025, effective 04/02/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 1-2012, f. & cert. ef. 5-15-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 1-2000, f. & cert. ef. 2-2-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 2-1999, f. & cert. ef. 4-14-99 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 3-1995, f. & cert. ef. 11-16-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EFCS 2-1994, f. & cert. ef. 5-6-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EFCS 1-1994, f. & cert. ef. 1-28-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EFCS 5-1993(Temp), f. & cert. ef. 8-16-93 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 1-1993, f. & cert. ef. 1-15-93, Renumbered from 345-125-0040 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 4-1986, f. & ef. 9-5-86 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

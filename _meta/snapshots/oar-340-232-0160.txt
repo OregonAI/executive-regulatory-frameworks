@@ -1,0 +1,334 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 232 EMISSION STANDARDS FOR VOC POINT SOURCES 
+ 340-232-0160 
+ Surface Coating in Manufacturing
+ 
+ 
+ (1) No person may operate a coating line which emits into the atmosphere VOCs in excess of the limits in section (5), expressed as pounds VOC per gallon of coating applied, excluding water and exempt solvents, unless an alternative emission limit is approved by DEQ pursuant to section (3) or emissions are controlled to an equivalent level pursuant to section (7). If surface coating is performed but is not specifically listed in section (5), then that surface coating is subject to OAR 340-232-0040, if applicable. 
+
+ (2) Exemptions: 
+
+ (a) This rule does not apply to airplanes painted out of doors in open air; automobile and truck refinishing; customized top coating of automobiles and trucks, if production is less than 35 vehicles per day; marine vessels and vessel parts painted out in the open air; flat wood coating; wood furniture and wood cabinets; wooden doors, mouldings, and window frames; machine staining of exterior wood siding; high temperature coatings (for service above 500° F.); lumber marking coatings; potable water tank inside coatings; high performance inorganic zinc coatings, air dried, applied to fabricated steel; and markings by stencil for railroad cars; 
+
+ (b) This rule does not apply to: 
+
+ (A) Sources whose VOC potential to emit before add on controls from activities identified in section (5) is less than 10 tons per year; 
+
+ (B) Sources with VOC actual emissions before add on controls from activities identified in section (5) are less than 3 pounds per hour; 
+
+ (C) Sources with VOC actual emissions before add on controls from activities identified in section (5) are less than 15 pounds per day; or 
+
+ (D) Sources used exclusively for chemical or physical analysis or determination of product quality and commercial acceptance, such as research facilities, pilot plant operations, and laboratories, unless: 
+
+ (i) The operation of the source is an integral part of the production process; or 
+
+ (ii) The emissions from the source exceed 363 kilograms (800 pounds) in any calendar month. 
+
+ (3) Exceptions: 
+
+ (a) On a case-by-case basis, DEQ may approve exceptions to the emission limits specified in section (5), upon documentation by the source that an alternative emission limit would satisfy the federal criteria for RACT; 
+
+ (b) Included in this documentation must be a complete analysis of technical and economic factors which: 
+
+ (A) Prevent the source from using both compliance coatings and air pollution control devices; and 
+
+ (B) Justify the alternative emission limit sought by the source. 
+
+ (c) The alternative emission limit approved by DEQ will be incorporated into the source's Air Contaminant Discharge Permit, or Title V operating permit, and will be effective upon approval by EPA as a source specific SIP revision. 
+
+ (4) Applicability: This rule applies to each coating line, which includes the application area, flashoff area, air and forced air dryer, and oven used in the surface coating of the parts and products in subsections (5)(a) through (j). 
+
+ (5) Process and Limitation: These emission limitations must be based on a daily average except subsection (5)(e) must be based on a monthly average. If more than one emission limitation in this rule applies to a specific coating, then the most stringent emission limitation must be applied: 
+
+ (a) Can Coating: 
+
+ (A) Sheet basecoat, exterior and interior, and over-varnish; two-piece can exterior, basecoat and over-varnish, 2.8 pounds/gallon; 
+
+ (B) Two- and three-piece can interior and exterior body spray, two-piece can exterior end, spray or roll coat, 4.2 pounds/gallon; 
+
+ (C) Three-piece can side-seam spray 5.5 pounds/gallon; 
+
+ (D) End sealing compound 3.7 pounds/gallon; 
+
+ (E) End Sealing Compound for fatty foods 3.7 pounds/gallon. 
+
+ (b) Fabric Coating 2.9 pounds/gallon; 
+
+ (c) Vinyl Coating 3.8 pounds/gallon; 
+
+ (d) Paper Coating 2.9 pounds/gallon; 
+
+ (e) Existing Coating of Paper and Film in the Medford-Ashland AQMA 55 pounds VOC per 1000 square yards of material per pass; 
+
+ (f) Auto and Light Duty Truck Coating: 
+
+ (A) Prime 1.9 pounds/gallon; 
+
+ (B) Topcoat 2.8 pounds/gallon; 
+
+ (C) Repair 4.8 pounds/gallon; 
+
+ (g) Metal Furniture Coating 3.0 pounds/gallon; 
+
+ (h) Magnet Wire Coating 1.7 pounds/gallon; 
+
+ (i) Large Appliance Coating 2.8 pounds/gallon; 
+
+ (j) Miscellaneous Metal Parts and Products: 
+
+ (A) Clear Coatings 4.3 pounds/gallon; 
+
+ (B) Forced Air Dried or Air Dried 3.5 pounds/gallon; 
+
+ (C) Extreme Performance Coatings 3.5 pounds/gallon; 
+
+ (D) Other Coatings, i.e., powder, oven dried, 3.0 pounds/gallon; 
+
+ (E) High Performance Architectural Coatings 3.5 pounds/gallon. 
+
+ (6) Compliance Determination: Compliance with this rule must be determined by testing in accordance with 40 CFR part 60 EPA Method 18, 24, 25, a material balance method, or an equivalent plant specific method approved by and on file with DEQ. The limit in section (1) of VOC in the coating is based upon an assumed solvent density, and other assumptions unique to a coating line; where conditions differ, such as a different solvent density, a plant specific limit developed pursuant to the applicable Control Technology Guideline document may be submitted to DEQ for approval. 
+
+ (7) Reduction Method: Compliance with the emission limits of sections (3) and (5) must be achieved by: 
+
+ (a) The application of low solvent content coating technology; 
+
+ (b) An incineration system which oxidizes at least 90.0 percent of the non-methane VOCs entering the incinerator, VOC measured as total combustible carbon, to carbon dioxide and water; or 
+
+ (c) An equivalent means of VOC removal. The equivalent means must be approved by DEQ and will be incorporated in the source's Air Contaminant Discharge Permit or Title V permit, and will be effective upon approval by EPA as a source-specific SIP revision. Other alternative emission controls approved by DEQ and allowed by EPA may be used to provide an equivalent means of VOC removal. 
+
+ (8) Recordkeeping Requirements: 
+
+ (a) A current list of coatings must be maintained which provides all the coating data necessary to evaluate compliance, including the following information, where applicable: 
+
+ (A) Coating catalyst and reducer used; 
+
+ (B) Mix ratio of components used; 
+
+ (C) VOC content of coating as applied; and 
+
+ (D) Oven temperature. 
+
+ (b) Where applicable, a monthly record must be maintained indicating the type and amount of solvent used for cleanup and surface preparation; 
+
+ (c) Such records must be retained and available for inspection by DEQ for a period of five years. 
+
+ [NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.] 
+
+ [NOTE: View a PDF of referenced EPA Methods by clicking on “Tables” link below OAR 340-232-8010.] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, 468A.025 & 468A.070 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468A.025 & 468A.070 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 19-2022, amend filed 11/18/2022, effective 03/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 13-2019, amend filed 05/16/2019, effective 05/16/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 141-2018, minor correction filed 04/11/2018, effective 04/11/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 7-2015, f. & cert. ef. 4-16-15 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-022-0170 
+DEQ 20-1998, f. & cert. ef. 10-12-98 
+DEQ 22-1996, f. & cert. ef. 10-22-96 
+DEQ 4-1993, f. & cert. ef. 3-10-93, Sec. (5) Renumbered from 340-022-0173 
+DEQ 8-1991, f. & cert. ef. 5-16-91 
+DEQ 3-1986, f. & cert. ef. 2-12-86 
+DEQ 23-1980, f. & cert. ef. 9-26-80 
+DEQ 17-1979, f. & cert. ef. 6-22-79 
+DEQ 21-1978, f. & cert. ef. 12-28-78 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

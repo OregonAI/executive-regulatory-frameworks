@@ -1,0 +1,426 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 253 OREGON CLEAN FUELS PROGRAM 
+ 340-253-0060 
+ Acronyms
+ 
+ 
+ The following acronyms apply to this division: 
+
+ (1) “AFP” means Alternative Fuel Portal. 
+
+ (2) “ASTM” means ASTM International (formerly American Society for Testing and Materials). 
+
+ (3) “BEV” means battery electric vehicle. 
+
+ (4) “CARB” means the California Air Resources Board. 
+
+ (5) “CA-GREET” means the California Air Resources Board adopted version of the GREET model, including simplified calculators. 
+
+ (6) “CCS” means carbon capture and sequestration. 
+
+ (7) “CFP” means the Clean Fuels Program established under OAR chapter 340, division 253. 
+
+ (8) “CI” means carbon intensity. 
+
+ (9) “CNG” means compressed natural gas. 
+
+ (10) “CO2e” means carbon dioxide equivalents. 
+
+ (11) “DEQ” means Oregon Department of Environmental Quality. 
+
+ (12) “DCO” means distillers technical corn oil. 
+
+ (13) “DGS” means distillers grains and solubles. 
+
+ (14) “DDGS” means dry DGS. 
+
+ (15) “DSO” means distillers technical sorghum oil. 
+
+ (16) “eCHE” means electric cargo handling equipment. 
+
+ (17) “EER” means energy economy ratio. 
+
+ (18) “EN” means a European Standard adopted by one of the three European Standardization Organizations. 
+
+ (19) “eOGV” means electric ocean-going vessels. 
+
+ (20) “EQC” means Oregon Environmental Quality Commission. 
+
+ (21) “eTRU” means electric transport refrigeration unit. 
+
+ (22) “EV” means electric vehicle. 
+
+ (23) “FEIN” means federal employer identification number. 
+
+ (24) “FFV” means flex fuel vehicle. 
+
+ (25) “FPC” means fuel pathway code. 
+
+ (26) “FSE” means fuel supply equipment. 
+
+ (27) “gCO2e/MJ” means grams of carbon dioxide equivalent per megajoule of energy. 
+
+ (28) “HDV” means heavy-duty vehicle. 
+
+ (29) “HDV-CIE” means a heavy-duty vehicle compression ignition engine. 
+
+ (30) “HDV-SIE” means a heavy-duty vehicle spark ignition engine. 
+
+ (31) “HEFA” means hydroprocessed ester and fatty acid. 
+
+ (32) “L-CNG” means liquefied-compressed natural gas. 
+
+ (33) “LDV” means light-duty vehicle. 
+
+ (34) “LNG” means liquefied natural gas. 
+
+ (35) “LPG” means liquefied petroleum gas. 
+
+ (36) “LPGV” means liquefied petroleum gas vehicle. 
+
+ (37) “MDGS” means modified DGS. 
+
+ (38) “MDV” means medium-duty vehicle. 
+
+ (39) “mmBtu” means million British Thermal Units. 
+
+ (40) “NERC” means the North American Electric Reliability Corporation. 
+
+ (41) “NGV” means natural gas vehicle. 
+
+ (42) “OFRS” means the Oregon Fuels Reporting System, the electronic reporting, trading, and compliance platform for the Clean Fuels Program and the Greenhouse Gas Reporting Program. 
+
+ (43) “OPGEE” means Oil Production Greenhouse Gas Emissions Estimator. 
+
+ (44) “PHEV” means partial hybrid electric vehicle. 
+
+ (45) “PTD” means product transfer document. 
+
+ (46) “REC” means Renewable Energy Certificate. 
+
+ (47) “RFS” means the Renewable Fuel Standard implemented by the US Environmental Protection Agency. 
+
+ (48) “RTC” means Renewable Thermal Certificate. 
+
+ (49) “scf” means standard cubic foot. 
+
+ (50) “UCO” means used cooking oil. 
+
+ (51) “ULSD” means ultra-low sulfur diesel. 
+
+ (52) “WA-GREET” means the Washington Department of Ecology adopted version of the GREET model, including simplified calculators. 
+
+ (53) “WDGS” means wet DGS. 
+
+ (54) “WECC” means the Western Electricity Coordinating Council. 
+
+ (55) “WREGIS” means the Western Renewable Energy Generation Information System run by the Western Electricity Coordinating Council. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, 468A.266, 468A.268 & 468A.277 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468.020 & ORS 468A.265 - 468A.277 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 2-2025, amend filed 01/09/2025, effective 01/09/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 17-2022, amend filed 09/23/2022, effective 01/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 7-2021, amend filed 03/26/2021, effective 03/26/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 14-2020, amend filed 05/07/2020, effective 05/07/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 199-2018, amend filed 11/16/2018, effective 01/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 161-2018, minor correction filed 04/12/2018, effective 04/12/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 27-2017, amend filed 11/17/2017, effective 11/17/2017 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 13-2015, f. 12-10-15, cert. ef. 1-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 3-2015, f. 1-8-15, cert. ef. 2-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 8-2014, f. & cert. ef. 6-26-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 15-2013(Temp), f. 12-20-13, cert. ef. 1-1-14 thru 6-30-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 8-2012, f. & cert. ef. 12-11-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

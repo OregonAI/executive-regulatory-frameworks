@@ -1,0 +1,480 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Justice 
+ Chapter 137 
+ 
+ 
+ 
+ 
+ 
+ Division 55 OREGON CHILD SUPPORT PROGRAM 
+ 137-055-1020 
+ Oregon Child Support Program Definitions
+ 
+ 
+ Except as otherwise provided, the following definitions apply to OAR 137-055-1040 through 137-055-7190: 
+
+ (1) "Administrator" means either the administrator of the Division of Child Support of the Department of Justice or a district attorney, or the administrator's or a district attorney's authorized representative.       
+
+ (2) “Assignee” means the Oregon Department of Human Services (ODHS), the Oregon Health Authority (OHA), the Division of Child Support, or equivalent agencies in any other state or Tribe to which support rights for a person are assigned. 
+
+ (3) “Assignment” or “Assigned” means all or a portion of support payments owed to a person will be kept by the state if the person or a beneficiary of the person is receiving Temporary Assistance for Needy Families (TANF) cash assistance or foster care services. Support payments will be distributed as provided in OAR 137-055-6022. Additionally, if a person receives Title XIX medical assistance, medical support rights are assigned. 
+
+ (4) “Beneficiary” means any child, spouse, or former spouse for whom an obligor has been ordered (or has agreed) to pay support, under a court or administrative order, or a voluntary agreement. 
+
+ (5) “Child support award” means a money award or administrative order that requires the payment of child support. 
+
+ (6) “Child support program services” means services provided for the purposes of OAR 137-055-1040 through 137-055-7190 and ORS Chapter 25, and includes, but is not limited to, establishment of parentage, establishment, modification, and enforcement of child support orders, enforcement of spousal support orders when the program is enforcing child support for the same obligee, receipting of support payments, disbursement of support payments, and maintaining accounting records. 
+
+ (7) “Class order” means a support order for multiple children that does not specify an amount of support per child and requires the payment of the entire amount until the last child attains majority or until the order is prospectively modified. 
+
+ (8) “Court order” means any judgment or order of the court requiring an obligor to provide child or spousal or health care coverage, for specified beneficiaries. 
+
+ (9) “Court‑ordered amount” or “COA” means the periodic payment amount, usually monthly, ordered by the administrator, an administrative law judge or by a court for support. The COA can be either the amount for each beneficiary on a support case, or the total amount for all beneficiaries in a single support case. 
+
+ (10) “District Attorney” or “DA” means the district attorney for an Oregon county responsible for providing services under ORS 25.080. 
+
+ (11) “Division of Child Support” or “DCS” is the division of the Oregon Department of Justice that is responsible for providing services under ORS 25.080. 
+
+ (12) “Guidelines” refers to the guidelines, the formula, and related provisions established by DCS, in OAR 137-050-0705 through 137-050-0765. 
+
+ (13) “Income withholding” means a judicial or administrative process under which an obligor’s employer, trustee, or other provider of income is ordered to withhold a specified percentage, or a specified amount, from each and every paycheck or benefit payment of an obligor, for the purpose of paying current and past‑due support. Income withholding is distinguished from garnishment as follows: income withholding will occur continuously under a single order and is not subject to claim of exemption; a garnishment occurs for only a limited duration under a single writ and is subject to certain property exemptions provided by law. 
+
+ (14) “Initiating agency” means a state or Tribal IV-D agency, or a child support agency in a reciprocating foreign country, in which an individual has applied for or is receiving child support services. 
+
+ (15) “Intergovernmental” means a case or action that involves a Tribe, another country, or another state’s child support agency. 
+
+ (16) “Issuing jurisdiction” means the state, Tribe or reciprocating foreign country in which a tribunal issues a support order or renders a judgment determining parentage and includes an “issuing state” as defined in ORS 110.503(13). 
+
+ (17) “Judgment lien” means the effect of a judgment on real property for the county in which the judgment is entered, or such other county where the lien is recorded, and includes any support arrearage lien attaching to real property. 
+
+ (18) “Judgment remedy” means the ability of a judgment creditor to enforce a judgment, including enforcement through a judgment lien. 
+
+ (19) “Legal proceeding” means any action related to the support order that requires service of documents on the parties. For the purposes of OAR 137-055-1140 and 137-055-1160, legal proceeding means a proceeding initiated by the administrator. 
+
+ (20) “Medicaid” refers to Title XIX of the Social Security Act (see the definition under “Title XIX”). 
+
+ (21) “Money award” means a judgment or portion of a judgment that requires the payment of money. 
+
+ (22) “Oregon Child Support Program,” “Child Support Program,” or “CSP” is the program authorized under Title IV-D of the Social Security Act to provide child support services required by federal and state law. The Child Support Program director in Oregon is the administrator of the Division of Child Support. The Oregon Child Support Program includes the Division of Child Support and those district attorneys that contract to provide services described in ORS 25.080. 
+
+ (23) “Oregon Department of Human Services” or “ODHS” is the state’s health and human services agency. The ODHS is responsible for public assistance programs such as TANF, Supplemental Nutrition Assistance Program or SNAP (food stamps), child-protective services, and foster care and adoption programs. 
+
+ (24) “Oregon Health Authority” or “OHA” is the state’s Medicaid agency for administration of funds from Title XIX and XXI of the Social Security Act and to administer medical assistance under ORS Chapter 414. 
+
+ (25) “Party” means an obligor, obligee, or a child attending school under ORS 107.108 and OAR 137-055-5110, and includes any person who has been joined to the proceeding. 
+
+ (26) “Responding agency” means the agency that is providing services in response to a referral from an initiating agency in an intergovernmental case. 
+
+ (27) “Subsequent child” means a child whose parentage or support has not been established and who is born to the same parents of another child, or who has not been included in a support order for another child with the same parties. 
+
+ (28) “Support” means monetary payments, health care coverage payments or premiums, cash medical payments or other benefits or payments that a person has been ordered by a court or by administrative process, or has voluntarily agreed, to provide for the benefit and maintenance of another person. 
+
+ (29) “Support arrearage lien” means a lien that attaches to real property when an installment becomes due under the terms of a support award and is not paid. 
+
+ (30) “Support award” means a money award or administrative order that requires the payment of child or spousal support. 
+
+ (31) “Support order” means a judgment or order, whether temporary, final, or subject to modification, that reflects an obligation to contribute to the support of a child, a spouse or a former spouse, and requires an obligor to provide monetary support, health care, arrears or reimbursement. A support order may include related costs and fees, interest, income withholding, attorney fees and other relief. 
+
+ (32) “TANF” means Temporary Assistance for Needy Families, a public assistance program that provides case management and cash assistance to low‑income families with minor children. It is designed to promote personal responsibility and accountability for parents. The goal of the program is to reduce the number of families living in poverty through employment services and community resources. Title IV-A of the Social Security Act is the specific provision that gives grants to states and Tribes for aid and services to needy families with dependent children. 
+
+ (33) “Tiered order” means an order that includes an amount of support to be paid if an adult child becomes a child attending school under ORS 107.108 and OAR 137-055-5110. 
+
+ (34) “Title IV-A” refers to Title IV-A of the Social Security Act, which is the specific provision that gives grants to states and Tribes for aid and services to needy families with dependent children (see TANF). Applicants for assistance from IV-A programs are automatically referred to their state IV-D agency to identify and locate the non-custodial parent, establish parentage or a child support order, and obtain child support payments. 
+
+ (35) “Title IV-D” refers to Title IV-D of the Social Security Act, which requires each state to create a program to locate noncustodial parents, establish parentage, establish and enforce child support obligations, and collect, distribute and disburse support payments. Recipients of IV-A (TANF), IV-E (foster care), and XIX (Medicaid) assistance are referred to their state’s IV-D child support program. States must also accept applications from families who do not receive assistance, if requested, to assist in collection of child support. Title IV-D also established the federal Office of Child Support Enforcement. 
+
+ (36) “Title IV-E” refers to Title IV-E of the Social Security Act, which established a federal-state program known as Foster Care that provides financial support to a person, family, or institution that is raising a child or children who is not their own. The funding for IV-E foster care programs is primarily from federal sources. 
+
+ (37) “Title XIX”, known as Medicaid, refers to Title XIX of the Social Security Act, which mandates health c are coverage by states for TANF recipients and certain other means-tested categories of persons. Within broad national guidelines that the federal government provides, each state: establishes its own eligibility standards; determines the type, amount, duration, and scope of services; sets the rate of payment for services; and administers its own program. In Oregon, the program is administered by OHA. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 18.005 & 180.345 
+ 
+ 
+ Statutes/Other Implemented:  ORS 25.080 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 5-2026, minor correction filed 02/26/2026, effective 02/26/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 9-2025, amend filed 12/22/2025, effective 01/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 16-2023, minor correction filed 09/05/2023, effective 09/05/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 18-2021, amend filed 12/29/2021, effective 01/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 8-2017, minor correction filed 11/09/2017, effective 11/09/2017 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 4-2011, f. & cert. ef. 7-1-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 3-2011(Temp), f. & cert. ef. 3-31-11 thru 9-26-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 1-2010, f. & cert. ef. 1-4-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 8-2007, f. 9-28-07, cert. ef. 10-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 5-2007, f. & cert. ef. 7-2-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 1-2007, f. & cert. ef. 1-2-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 5-2006, f. 6-29-06, cert. ef. 7-3-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 1-2006, f & cert. ef. 1-3-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 2-2004, f. 1-2-04 cert. ef. 1-5-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 10-2003, f. 9-29-03, cert. ef. 10-1-03, Renumbered from 461-200-1020 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 6-2003(Temp), f. 6-25-03, cert. ef. 7-1-03 thru 12-28-03, Renumbered from 461-200-1020 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 28-2001, f. 12-28-01, cert. ef. 1-1-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 32-2000, f. 11-29-00, cert. ef. 12-1-00, Renumbered from 461-195-0001 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 14-1990, f. & cert. ef. 6-7-90 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 10-1990, f. 3-14-90, cert. ef. 4-1-90 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

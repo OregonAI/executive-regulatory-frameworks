@@ -1,0 +1,173 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 321 TIMBER TAXES 
+ 150-321-0690 
+ Contiguous Parcels Held in Common Ownership 
+ 
+ The following examples illustrate when contiguous parcels under common ownership must be included in an application for small tract forestland assessment as required by ORS 321.709(1)(b). For purposes of this rule, all parcels are designated forestland or highest and best use forestland.  (1) Example 1: Parcel # 1 is owned by three individuals, Bob, John and Greg. Parcel # 2 is contiguous to Parcel # 1 and is owned by husband and wife (Bob and Julie). Parcel # 3 is contiguous to Parcel # 2 and is owned by Julie. Parcels # 1 and # 3 are not contiguous.  (a) Parcel # 1 is the subject of an application for small tract forestland. Parcel # 2 must be included in the application as a contiguous parcel, since Bob has an ownership interest as an individual in both parcels. Parcel # 3 is not required to be included in the application, since Julie does not have an ownership interest as an individual in Parcel # 1.  (b) Parcel # 2 is the subject of an application for small tract forestland. Parcel # 1 must be included in the application as a contiguous parcel, since Bob has an ownership interest as an individual in Parcels # 1 and # 2. Parcel # 3 must also be included in the application as a contiguous parcel, since Julie has an ownership interest as an individual in Parcels # 2 and # 3.  (c) Parcel # 3 is the subject of an application for small tract forestland. Parcel # 2 must be included in the application as a contiguous parcel, since Julie has an ownership interest as an individual in Parcels # 2 and # 3. Parcel # 1 is not required to be included in the application, since Julie does not have an ownership interest as an individual in Parcel # 1.  (2) Example 2: Parcel # 4 is owned by a partnership, 3 J’s Partnership. The three partners, Bob, John and Greg, each have a 1/3 ownership interest. Parcel # 5 is contiguous to Parcel # 4 and is owned by husband and wife (Bob and Julie). Parcel # 6 is contiguous to Parcel # 5 and is owned by Bob. Parcels # 6 and # 4 are not contiguous.  (a) Parcel # 4 is the subject of an application for small tract forestland. Parcels # 5 and # 6 are not required to be included in the application, since Bob does not own a majority interest in 3 J’s Partnership.  (b) Parcel # 5 is the subject of an application for small tract forestland. Parcel # 6 must be included in the application as a contiguous parcel, since Bob has an ownership interest as an individual in Parcels # 5 and # 6. Parcel # 4 is not required to be included in the application, since Bob does not own a majority interest in 3 J’s Partnership.  (c) Parcel # 6 is the subject of an application for small tract forestland. Parcel # 5 must be included in the application as a contiguous parcel, since Bob has an ownership interest as an individual in Parcels # 5 and # 6. Parcel # 4 is not required to be included in the application, since Bob does not own a majority interest in 3 J’s Partnership.  (3) Example 3: Parcel # 7 is owned by a corporation, Bob and Julie Inc. Bob has a 60 percent interest in the corporation. Parcel # 8 is contiguous to Parcel # 7 and is owned by a partnership, 3 J’s Partnership. Bob has a 2/3 ownership interest in the partnership. John and Greg each have a 1/6 interest. Parcel # 9 is contiguous to Parcel # 8 and is owned by 2 J’s LLC. Bob and Julie each have a 50 percent interest in the LLC. Parcels # 9 and # 7 are not contiguous.  (a) Parcel # 7 is the subject of an application for small tract forestland. Parcel # 8 must be included in the application as a contiguous parcel, since Bob owns a majority interest in both Bob and Julie Inc. and 3 J’s Partnership. Parcel # 9 is not required to be included in the application, since Bob does not own a majority interest in 2 J’s LLC.  (b) Parcel # 8 is the subject of an application for small tract forestland. Parcel # 7 must be included in the application as a contiguous parcel, since Bob owns a majority interest in both Bob and Julie Inc. and 3 J’s Partnership. Parcel # 9 is not required to be included in the application, since Bob does not own a majority interest in 2 J’s LLC.  (c) Parcel # 9 is the subject of an application for small tract forestland. Parcels # 7 and # 8 are not required to be included in the application, since Bob does not own a majority interest in 2 J’s LLC. If Bob owned a majority interest in 2 J’s LLC, Parcel # 8 and Parcel # 7 would be deemed held in common ownership and contiguous because Bob would have owned a majority interest in all three parcels. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 
+ 
+ 
+ Statutes/Other Implemented:  ORS 321.709 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 150-321.709(1)(b), REV 71-2016, f. 8-15-16, cert. ef. 9-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 4-2004, f. 7-30-04 cert. ef. 7-31-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,379 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Addiction Services - Chapter 415 
+ 
+ 
+ 
+ 
+ Division 20 STANDARDS FOR OUTPATIENT OPIOID TREATMENT PROGRAMS 
+ 415-020-0005 
+ Definitions
+ 
+ 
+ (1) "Accreditation" means the process of review and acceptance by an accreditation body. 
+
+ (2) "Accreditation Body" means an organization that has been approved by the Substance Abuse and Mental Health Services Administration (SAMHSA) to accredit opioid treatment programs that use opioid agonist treatment medications. 
+
+ (3) "The ASAM Criteria " means the criteria in the Third edition of The American Society of Addiction Medicine (ASAM) for the assessment, level of care placement and treatment of addictive, substance-related, and co-occurring conditions. The ASAM Criteria is a clinical guide to developing patient-centered service plans and making objective decisions about admission, continuing care, and transfer or discharge for individuals. The ASAM Criteria is incorporated by reference in these rules. 
+
+ (4) “ASAM Level of Care” means one of several discrete intensities of services and supports, as described within The ASAM Criteria, Third Edition, within a substance use disorders program that are delivered in a structured, programmatic fashion, by a Division certified outpatient or licensed residential provider.  
+
+ (5) “Assessment” means the process of obtaining sufficient information through a face-to-face interview to determine a diagnosis and to plan individualized services and supports. For residential substance use disorder treatment programs, the assessment is multidimensional and consistent with The ASAM Criteria third edition 
+
+ (6) “Certificate” means the document or documents issued by the Division, which identifies and declares certification of a provider pursuant to OAR 309-008-0100 to 309-008-1600. A letter accompanying issuance of the certificate shall detail the scope, The ASAM Criteria level of care and approved service delivery locations of the certificate. 
+
+ (7) "Community Mental Health Program (CMHP)" means the organization of various services for individuals with a mental health diagnosis or addictive disorders operated by or contractually affiliated with a local mental health authority and operated in a specific geographic area of the state under an agreement with the Division pursuant to OAR chapter 309, division 014. 
+
+ (8) "Comprehensive maintenance treatment" means opioid agonist medication treatment that includes a broad range of clinically appropriate medical and rehabilitative services. 
+
+ (9) "Diversion Control Plan" means a plan implemented by the opioid treatment program that contains specific measures to reduce the possibility of diversion of controlled substances from legitimate treatment use. 
+
+ (10) "Division" means the Health Systems Division of the Oregon Health Authority (OHA) or its designee. 
+
+ (11) "Employee" means an individual who provides a program service or who takes part in a program service and who receives wages, a salary, or is otherwise paid by the program for providing the service. 
+
+ (12) "Federal Protocols" means the standards established by the United States Secretary of Health and Human Services that determines whether an opioid treatment program is qualified to engage in opioid treatment. 
+
+ (13) "Interim Maintenance Treatment" means treatment provided in conjunction with appropriate medical services while a patient is awaiting transfer to a program that provides comprehensive maintenance treatment. 
+
+ (14) "Level of Care" means the type, frequency, and duration of medically necessary services provided from the most integrated setting to the most restrictive and intensive inpatient setting. 
+
+ (15) "Maintenance Treatment" means the administration of an opioid agonist treatment medication at stable dosage levels for a period longer than 21 days. 
+
+ (16) "Medical Director" means a physician licensed to practice medicine in the State of Oregon who is designated by the opioid treatment program to be responsible for the program's medical services. 
+
+ (17) "Medically Supervised Withdrawal" means the administration of an opioid agonist treatment medication in decreasing doses to an individual to alleviate adverse physical or psychological effects incident to withdrawal from the continuous or sustained use of an opioid drug and as a method of bringing the individual to a drug free state. 
+
+ (18) "Medically Supervised Withdrawal Treatment" means treatment for a period of more than 30 days but not exceeding 180 days. 
+
+ (19) "Medical Professional" means a medical or osteopathic physician, physician's assistant licensed by the Board of Medical Examiners, or a registered nurse or nurse practitioner licensed by the Board of Nursing. 
+
+ (20) "Opiate Addiction" means a cluster of cognitive, behavioral, and physiological symptoms in which the individual continues use of opiates despite significant opiate-induced problems. Opiate addiction is characterized by repeated self-administration that usually results in tolerance, withdrawal symptoms, and compulsive drug taking. 
+
+ (21) "Opioid Agonist Medication" means any drug that is approved by the Food and Drug Administration under Section 505 of Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355) for use in the treatment of opiate addiction. 
+
+ (22) "Opioid Treatment Program (OTP) means a program that dispenses and administers opioid agonist medications in conjunction with appropriate counseling, supportive, and medical services. 
+
+ (23) "Patient" means any individual who receives services in an opioid treatment program. 
+
+ (24) "Patient Record" means the official legal written file for each patient, containing all the information required to demonstrate compliance with these rules. Information in program records maintained in electronic format must be able to be produced in a printed form, authenticated by signature, whether physical or digital, and date of the person who provided the service, and placed in the patient record. 
+
+ (25) "Program" means an organized system of services and supports delivered by a provider designed to address the treatment needs of individuals and families. 
+
+ (26) "Quality Assurance" means the process of objectively and systematically monitoring and evaluating the appropriateness of patient care to identify and resolve identified problems. 
+
+ (27) "Rehabilitation" means those services, such as vocational rehabilitation or academic education, which assist in overcoming the problems associated with drug abuse or drug dependence and which enable the patient to function at their highest potential. 
+
+ (28) "State Opioid Treatment Authority" means the State Opioid Treatment Authority designated pursuant to section 409 of Public Law 92-255, the Drug Abuse Office and Treatment Act of 1972, or in lieu thereof, any other State authority designated by the Governor for purposes of exercising the authority under this section. The State Opioid Treatment Authority for Oregon is the Oregon Health Authority designee to serve in that role. 
+
+ (29) "Treatment" means the specific medical and non-medical therapeutic techniques employed to assist the patient in recovering from drug abuse or drug dependence. 
+
+ (30) "Urinalysis Test" means a sensitive, rapid, and inexpensive immunoassay screen that identifies the presence of a specific drug or metabolite in a urine specimen to eliminate "true negative" specimens from further consideration. 
+
+ (31) "Volunteer" means a person who performs a service willingly and without pay. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 430.256 
+ 
+ 
+ Statutes/Other Implemented:  ORS 430.010(4)(b) & 430.560 - 430.590 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ADS 2-2023, amend filed 04/07/2023, effective 04/07/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ADS 1-2022, amend filed 03/25/2022, effective 03/28/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ADS 3-2021, temporary amend filed 09/29/2021, effective 10/01/2021 through 03/29/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ADS 2-2021, temporary amend filed 09/21/2021, effective 10/01/2021 through 03/29/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ADS 9-2016, f. & cert. ef. 12-14-16 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ADS 6-2016(Temp), f. & cert. ef. 8-10-16 thru 2-5-17 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ADS 5-2013, f. & cert. ef. 6-7-13 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ADS 2-2008, f. & cert. ef. 11-13-08 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ADS 1-2003, f. 6-13-03, cert. ef. 7-1-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ADAP 3-1995, f. 12-1-95, cert. ef. 3-1-96 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HR 17-1993, f. & cert. ef. 7-23-93, Renumbered from 410-006-0005 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HR 4-1988, f. & cert. ef. 5-10-88 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

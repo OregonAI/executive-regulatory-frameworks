@@ -1,0 +1,929 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Aging and People with Disabilities and Developmental Disabilities - Chapter 411 
+ 
+ 
+ 
+ 
+ Division 54 RESIDENTIAL CARE AND ASSISTED LIVING FACILITIES 
+ 411-054-0005 
+ Definitions
+ 
+ 
+ For the purpose of these rules, the following definitions apply: 
+
+ (1) "Abuse" means abuse as defined in OAR 411-020-0002 (Adult Protective Services). 
+
+ (2) "Activities of Daily Living (ADL)" mean those personal functional activities required by an individual for continued well-being, which are essential for health and safety. Activities include eating, dressing and grooming, bathing and personal hygiene, mobility, elimination, and cognition. 
+
+ (3) "Acuity-Based Staffing Tool (ABST)" means the tool described in ORS 443.432 or an acuity-based staffing tool adopted by a facility that meets requirements established by the Department in OAR 411-054-0037. An ABST is used by a facility to assess the acuity of each resident and determine the amount of staff time necessary to meet the 24-hour scheduled and unscheduled needs of each resident. Facilities may choose to use the ABST established by the Department, or use another Department-approved ABST. 
+
+ (4) “ABST Care Elements” means the required individual care elements that must be addressed and documented in a resident’s ABST evaluation as outlined in 411-054-0037(3). 
+
+ (5) "Acute Sexual Assault" means any non-consensual or unwanted sexual contact that warrants medical treatment or forensic collection. 
+
+ (6) "Administrator" means the person who is designated by the licensee that is responsible for the daily operation and maintenance of the facility as described in OAR 411-054-0065. 
+
+ (7) "Advance Directive" means a document that contains a health care instruction or a power of attorney for health care. 
+
+ (8) "Aging and People with Disabilities (APD)" means the program area of Aging and People with Disabilities, within the Department of Human Services. 
+
+ (9) "Applicant" means the individual, individuals, or entity, required to complete a facility application for license. 
+
+ (a) Except as set forth in OAR 411-054-0013(1)(b), applicant includes a sole proprietor, each partner in a partnership, and each member with a 10 percent or more ownership interest in a limited liability company, corporation, or entity that: 
+
+ (A) Owns the residential care or assisted living facility business; or 
+
+ (B) Operates the residential care or assisted living facility on behalf of the facility business owner. 
+
+ (b) Except as set forth in OAR 411-054-0013(1)(b), for those who serve the Medicaid population, applicant includes a sole proprietor, each partner in a partnership, and each member with a five percent or more ownership interest in a limited liability company, corporation, or entity that: 
+
+ (A) Owns the residential care or assisted living facility business; or 
+
+ (B) Operates the residential care or assisted living facility on behalf of the facility business owner. 
+
+ (10) "Approved Dementia Training" means a dementia training curriculum approved by an entity selected by the Department to be an approving entity pursuant to a Request for Application (RFA) process. 
+
+ (11) "Area Agency on Aging (AAA)" as defined in ORS 410.040 means the Department designated agency charged with the responsibility to provide a comprehensive and coordinated system of services to seniors or individuals with disabilities in a planning and service area. For the purpose of these rules, the term Area Agency on Aging is inclusive of both Type A and B Area Agencies on Aging that contract with the Department to perform specific activities in relation to residential care and assisted living facilities including: 
+
+ (a) Conducting inspections and investigations regarding protective service, abuse, and neglect. 
+
+ (b) Monitoring. 
+
+ (c) Making recommendations to the Department regarding facility license approval, denial, revocation, suspension, non-renewal, and civil penalties. 
+
+ (12) "Assisted Living Facility (ALF)" means a building, complex, or distinct part thereof, consisting of fully, self-contained, individual living units where six or more seniors and adult individuals with disabilities may reside in homelike surroundings. The assisted living facility offers and coordinates a range of supportive services available on a 24-hour basis to meet the activities of daily living, health, and social needs of the residents as described in these rules. A program approach is used to promote resident self-direction and participation in decisions that emphasize choice, dignity, privacy, individuality, and independence. 
+
+ (13) "Building Codes" are comprised of the set of specialty codes, including the Oregon Structural Specialty Code (OSSC), Oregon Mechanical Specialty Code (OMSC), Oregon Electrical Specialty Code (OESC), Oregon Plumbing Specialty Code (OPSC), and their reference codes and standards. 
+
+ (14) "Caregiver" means a facility employee who is either direct care staff or a universal worker, who is trained in accordance with OAR 411-054-0070 to provide personal care services to residents. 
+
+ (15) "Change in Use" means altering the purpose of an existing room, within the facility, that requires structural changes. 
+
+ (16) "Change of Condition - Short-Term" means a change in the resident's health or functioning, that is expected to resolve or be reversed with minimal intervention, or is an established, predictable, cyclical pattern associated with a previously diagnosed condition. 
+
+ (17) "Change of Condition - Significant" means a major deviation from the most recent evaluation, that may affect multiple areas of functioning or health, that is not expected to be short-term, and imposes significant risk to the resident. Examples of significant change of condition include, but are not limited to: 
+
+ (a) Broken bones. 
+
+ (b) Stroke, heart attack, or other acute illness or condition onset. 
+
+ (c) Unmanaged high blood sugar levels. 
+
+ (d) Uncontrolled pain. 
+
+ (e) Fast decline in activities of daily living. 
+
+ (f) Significant unplanned weight loss. 
+
+ (g) Pattern of refusing to eat. 
+
+ (h) Level of consciousness change. 
+
+ (i) Pressure ulcers (stage 2 or greater). 
+
+ (18) "Choice" means a resident has viable options that enable the resident to exercise greater control over their life. Choice is supported by the provision of sufficient private and common space within the facility that allows residents to select where and how to spend time and receive personal assistance. 
+
+ (19) "CMS" means the U.S. Department of Health and Human Services, Centers for Medicare and Medicaid Services. 
+
+ (20) "Competency" means to possess specific knowledge, technical skill, and the ability to perform tasks related to the role and responsibilities of direct care staff. 
+
+ (21) "Competency Assessment" means an evaluation of knowledge, technical skill and ability to carry out care pursuant to the requirements in OAR 411-054-0070. Evaluation shall include verification and documentation of direct care staff competency through observation, written testing or verbal testing. 
+
+ (22) "Condition" means a provision attached to a new or existing license that limits or restricts the scope of the license or imposes additional requirements on the licensee. 
+
+ (23) “Consistently” means regularly and typically. This means occurring steadily and with regularity over a period of time. 
+
+ (24) “Consumer Summary” means a summary of services provided by the facility. This statement also includes a summary of services not provided. This summary is one of the documents that must be provided to potential residents before move-in. 
+
+ (25) "Conversion Facility (CF)" means a nursing facility that has followed the requirements in these rules to become a residential care facility through the conversion facility process. 
+
+ (26) "Department" means the Oregon Department of Human Services (ODHS). 
+
+ (27) "Designated Representative" means: 
+
+ (a) Any adult, such as a parent, family member, guardian, advocate, or other person, who is: 
+
+ (A) Chosen by the individual or, as applicable, the legal representative; 
+
+ (B) Not a paid provider for the individual; and 
+
+ (C) Authorized by the individual, or as applicable the legal representative, to serve as the representative of the individual, or as applicable the legal representative, in connection with the provision of funded supports. 
+
+ (D) The power to act as a designated representative is valid until the individual modifies the authorization or notifies the agency that the designated representative is no longer authorized to act on his or her behalf. 
+
+ (b) An individual or the legal representative of the individual is not required to appoint a designated representative. 
+
+ (28) "Dignity" means providing support in such a way as to validate the self-worth of the individual. Dignity is supported by creating an environment that allows personal assistance to be provided in privacy and by delivering services in a manner that shows courtesy and respect. 
+
+ (29) "Direct Care Staff" means a facility employee whose primary responsibility is to provide personal care services to residents. 
+
+ (a) These personal care services may include: 
+
+ (A) Medication administration. 
+
+ (B) Individualized resident-focused activities, as outlined in a resident’s person-centered service plan. 
+
+ (C) Assistance with activities of daily living. 
+
+ (D) Supervision and support of residents. 
+
+ (E) Serving meals, but not meal preparation. 
+
+ (b) Employees such as activity staff, activity coordinators, and activity directors whose primary or sole responsibility is to provide social activities are not considered direct care staff. 
+
+ (30) "Directly Supervised" means a qualified staff member maintains visual contact with the supervised staff. 
+
+ (31) "Director" means the Director of the Department or that individual's designee. 
+
+ (32) "Disaster" means a sudden emergency occurrence beyond the control of the licensee, whether natural, technological, or man-made, that renders the licensee unable to operate the facility or makes the facility uninhabitable. 
+
+ (33) "Disclosure Statement" means the written information the facility is required to provide to consumers to enhance the understanding of facility costs, services, and operations. 
+
+ (34) "Entity" means an individual, a trust or estate, a partnership, a corporation (including associations, joint stock companies, and insurance companies), a state, or a political subdivision or instrumentality, including a municipal corporation of a state. 
+
+ (35) "Exception" means a written variance granted by the Department from a regulation or provision of these rules. 
+
+ (36) "Facility" means the residential care or assisted living facility licensee and the operations, policies, procedures, and employees of the residential care or assisted living facility. For purposes of HCBS, "facility" can also mean "provider". 
+
+ (37) “Gender expression” means an individual’s gender-related appearance and behavior, whether or not these are stereotypically associated with the sex the individual was assigned at birth. 
+
+ (38) “Gender identity” means an individual’s internal, deeply held knowledge or sense of the individual’s gender, regardless of physical appearance, surgical history, genitalia, legal sex, sex assigned at birth or name and sex as it appears in medical records or as it is described by any other individual, including a family member, conservator or legal representative of the individual. An individual’s gender identity is the last gender identity expressed by an individual who lacks the present ability to communicate. 
+
+ (39) “Gender nonconforming” means having a gender expression that does not conform to stereotypical expectations of one’s gender. 
+
+ (40) “Gender transition” means a process by which an individual begins to live according to that individual’s gender identity rather than the sex the person was assigned at birth. The process may or may not include changing the individual’s clothing, appearance, name or identification documents or undergoing medical treatments. 
+
+ (41) “Harass” or “harassment” means to act in a manner that is unwanted, unwelcomed or uninvited, or that demeans, threatens or offends a resident. 
+
+ (a) This includes bullying, denigrating or threatening a resident based on a resident’s actual or perceived status as a member of one of the protected classes in Oregon, as provided: 
+
+ (A) Race. 
+
+ (B) Color. 
+
+ (C) National origin. 
+
+ (D) Religion. 
+
+ (E) Disability. 
+
+ (F) Sex (includes pregnancy). 
+
+ (G) Sexual orientation. 
+
+ (H) Gender identity. 
+
+ (I) Age. 
+
+ (J) Marital status. 
+
+ (b) An example of “harassment” includes, but is not limited to, requiring a resident to show identity documents in order to gain entrance to a restroom or other area of a facility that is available to other individuals of the same gender identity as the resident. 
+
+ (42) "FPS" means the Facilities, Planning, and Safety Program within the Public Health Division of the Oregon Health Authority (OHA). 
+
+ (43) "HCB" means "Home and Community-Based." 
+
+ (44) "HCBS" means "Home and Community-Based Services." HCBS are services provided in the home or community of an individual. ODHS, Safety, Oversight and Quality and OHA provide oversight and license, certify, and endorse programs, settings, or settings designated as HCB. 
+
+ (45) “Health Care Facility” means a facility, as defined in ORS 442.015(12)(a), that provides acute care or a higher level of care to a resident according to OAR 411-054-0080. 
+
+ (46) "Homelike Environment" means a living environment that creates an atmosphere supportive of the resident's preferred lifestyle. Homelike environment is also supported by the use of residential building materials and furnishings. 
+
+ (47) "Hospice Program" means a coordinated program of home and inpatient care, available 24 hours a day, that utilizes an interdisciplinary team of personnel trained to provide palliative and supportive services to a patient-family unit experiencing a life-threatening disease with a limited medical prognosis. A hospice program is an institution for purposes of ORS 146.100. 
+
+ (48) "Immediate Jeopardy" means a situation where the failure of a residential care facility to comply with a Department rule has caused, or is likely to cause, a resident: 
+
+ (a) Serious injury; 
+
+ (b) Serious harm; 
+
+ (c) Serious impairment; or 
+
+ (d) Death. 
+
+ (49) "Incident of Ownership" means an ownership interest, an indirect ownership interest, or a combination of direct and indirect ownership interests. 
+
+ (50) "Independence" means supporting resident capabilities and facilitating the use of those abilities. Creating barrier free structures and careful use of assistive devices supports independence. 
+
+ (51) "Indirect Ownership Interest" means an ownership interest in an entity that has an ownership interest in another entity. Indirect ownership interest includes an ownership interest in an entity that has an indirect ownership interest in another entity. 
+
+ (52) "Individual" means a person enrolled in or utilizing HCBS. 
+
+ (53) "Individually-Based Limitation" means any limitation to the qualities outlined in OAR 411-004-0020 (1)(d) and (2)(d) to (2)(j), due to health and safety risks. An individually-based limitation is based on specific assessed need and only implemented with the informed consent of the individual, or as applicable, the legal representative, as described in OAR 411-004-0040. 
+
+ (54) "Informed Consent" means options, risks, and benefits have been explained to an individual, and, as applicable, the legal representative of the individual, in a manner that the individual, and, as applicable, the legal representative, comprehends. 
+
+ (55) "Individuality" means recognizing variability in residents' needs and preferences and having flexibility to organize services in response to different needs and preferences. 
+
+ (56) "Intensive Intervention Community (IIC)" means an RCF endorsed to house fewer than six socially dependent individuals or individuals with physical disabilities. The purpose of the IIC is to serve individuals with co‑occurring mental, emotional, or behavioral disturbances who are more appropriately served in smaller settings. 
+
+ (57) “Involuntary Move-Out” means a move out of a resident to which the resident or the resident’s legal representative does not agree. 
+
+ (58) “Language Access” means the facility must take reasonable steps to provide meaningful language access to a resident with limited English proficiency or a resident with a disability that makes it difficult to communicate using standard English. 
+
+ (59) “LGBTQIA2S+” means lesbian, gay, bisexual, transgender, queer, intersex, asexual, Two Spirit, nonbinary or other minority gender identity or sexual orientation. These terms are defined below: 
+
+ (a) “Lesbian” means the sexual orientation of a person who is female, feminine or nonbinary and who is physically, romantically or emotionally attracted to other women. Some lesbians may prefer to identify as gay, a gay woman, queer or in other ways. 
+
+ (b) “Gay” means the sexual orientation of a person attracted to people of the same gender. Although often used as an umbrella term, it is used more specifically to describe men attracted to men. 
+
+ (c) “Bisexual” means a person who has the potential to be physically, romantically and/or emotionally attracted to people of more than one gender, not necessarily at the same time, in the same way or to the same degree. 
+
+ (d) “Transgender” means having a gender identity or gender expression that differs from the sex one was assigned at birth, regardless of whether one has undergone or is in the process of undergoing gender-affirming care. Being transgender does not imply any specific sexual orientation. Therefore, transgender people may identify as straight, gay, lesbian, bisexual, etc. 
+
+ (e) “Queer” means individuals who do not identify as exclusively straight or individual who have non-binary or gender-expansive identities and is often used as a catch-all to refer to the LGBTQIA2S+ population as a whole. This term was previously used as a slur, but has been reclaimed by many parts of the LGBTQIA2S+ movement. It can also include transgender people who identify as male or female. The term should only be used to refer to a specific person if that person self-identifies as queer. 
+
+ (f) “Intersex” means someone born with a variety of differences in their sex traits and reproductive anatomy. Intersex traits greatly vary, including differences in, but limited to, hormone production and reproductive anatomy. 
+
+ (g) “Asexual” or “Ace” means a complete or partial lack of sexual attraction or lack of interest in sexual activity with others. Asexuality exists on a spectrum, and asexual people may experience no, little or conditional sexual attraction. Many people who are asexual still identify with a specific romantic orientation. 
+
+ (h) “2S” or “Two-Spirit” means a term used within some Indigenous communities, encompassing cultural, spiritual, sexual and gender identity. The term reflects complex indigenous understandings of gender roles, spirituality, and the long history of sexual and gender diversity in Indigenous cultures. The definition and common use of the term two-spirit may vary among Tribes and Tribal communities. 
+
+ (i) The “+” means all other identities and expressions of gender, romantic and sexual orientation, including minority gender identities. 
+
+ (j) “Nonbinary” means a person who does not identify exclusively as a man or a woman. Non-binary people may identify as being both a man and a woman, somewhere in between, or as falling completely outside these categories. While many also identify as transgender, not all non-binary people do. Non-binary can also be used as an umbrella term encompassing identities such as agender, bigender, genderqueer or gender-fluid. 
+
+ (60) "Licensed Nurse" means an Oregon licensed practical or registered nurse. 
+
+ (61) "Licensee" means the entity that owns the residential care or assisted living facility business, and to whom an assisted living or residential care facility license has been issued. 
+
+ (62) “Licensing Complaint Unit (LCU)” means the Safety, Oversight and Quality staff who investigate allegations of licensing violations. 
+
+ (63) "Legal Representative" means a person who has the legal authority to act for an individual. 
+
+ (a) The legal representative only has authority to act within the scope and limits of his or her authority as designated by the court or other agreement. Legal representatives acting outside of his or her authority or scope must meet the definition of designated representative. 
+
+ (b) For an individual 18 years of age and older, a guardian appointed by a court order or an agent legally designated as the health care representative, where the court order or the written designation provide authority for the appointed or designated person to make the decisions indicated where the term "legal representative" is used in this rule. 
+
+ (64) "Major Alteration": 
+
+ (a) Means: 
+
+ (A) Any structural change to the foundation, floor, roof, exterior, or load bearing wall of a building; 
+
+ (B) The addition of floor area to an existing building; or 
+
+ (C) The modification of an existing building that results in a change in use where such modification affects resident services or safety. 
+
+ (b) Does not include cosmetic upgrades to the interior or exterior of an existing building (for example: changes to wall finishes, floorings, or casework). 
+
+ (65) "Management" or "Operator" means possessing the right to exercise operational or management control over, or directly or indirectly conduct, the day-to-day operation of a facility. 
+
+ (66) "Modified Special Diet" means a diet ordered by a physician or other licensed health care professional that may be required to treat a medical condition (for example: heart disease or diabetes). 
+
+ (a) Modified special diets include, but are not limited to: 
+
+ (A) Small frequent meals; 
+
+ (B) No added salt; 
+
+ (C) Reduced or no added sugar; and 
+
+ (D) Simple textural modifications. 
+
+ (b) Medically complex diets are not included. 
+
+ (67) "New Construction" means: 
+
+ (a) A new building. 
+
+ (b) An existing building or part of a building that is not currently licensed. 
+
+ (c) A major alteration to an existing building. 
+
+ (d) Additions, conversions, renovations, or remodeling of existing buildings. 
+
+ (68) "Nursing Care" means the practice of nursing as governed by ORS chapter 678 and OAR chapter 851. 
+
+ (69) "OHA" means the Oregon Health Authority. 
+
+ (70) "Owner" means an individual with an ownership interest. 
+
+ (71) "Ownership Interest" means the possession of equity in the capital, the stock, or the profits of an entity. 
+
+ (72) "Person-Centered Service Plan" means the details of the supports, desired outcomes, activities, and resources required for an individual to achieve and maintain personal goals, health, and safety, as described in OAR 411-004-0030. 
+
+ (a) FOR INDIVIDUALS RECEIVING MEDICAID. The person-centered service plan coordinator completes the person-centered service plan. 
+
+ (b) FOR NON-MEDICAID INDIVIDUALS. The person-centered service plan may be completed by the resident, and as applicable, the representative of the individual, and others as chosen by the individual. The licensee may assist non-Medicaid individuals in developing person-centered service plans when no alternative resources are available. The elements of the individual's person-centered service plan may be incorporated into the resident's care plan. 
+
+ (73) "Person-Centered Service Plan Coordinator" means a: 
+
+ (a) Resident's AAA or APD case manager assigned to provide case management services or person-centered service planning for and with individuals; or 
+
+ (b) Person of the individual's choice for individuals who pay privately. 
+
+ (74) "Personal Incidental Funds (PIF)" means the monthly amount allowed each Medicaid resident for personal incidental needs. For purposes of this definition, personal incidental funds include monthly payments, as allowed, and previously accumulated resident savings. 
+
+ (75) “Preferred Language” means the chosen language of for the resident. Preferred language must be legally recognized language. 
+
+ (76) "Pre-Service Training" means training that must be completed before direct care staff provide care to residents. 
+
+ (77) "Primary Care Provider" means the health care provider primarily responsible for the on-going diagnosis and treatment of the resident where they currently reside. 
+
+ (78) "Privacy" means a specific area or time over which the resident maintains a large degree of control. Privacy is supported with services that are delivered with respect for the resident's civil rights. 
+
+ (79) "Provider" means any person or entity providing HCBS. 
+
+ (80) "P.R.N." means those medications and treatments that have been ordered by a qualified practitioner to be administered as needed. 
+
+ (81) "Psychotropic Medications" means any drug that affects brain activities associated with mental processes and behavior. These drugs include, but are not limited to, drugs in the following categories: 
+
+ (a) Anti-psychotic. 
+
+ (b) Anti-depressant. 
+
+ (c) Anti-anxiety. 
+
+ (d) Hypnotic. 
+
+ (82) “Qualified facility staff,” for purposes of OAR 411-054-0080, means the facility nurse, administrator, or administrator’s designee. 
+
+ (83) "Quality Measurement Program" means the quality metrics program, as described in OAR 411-054-0320. 
+
+ (84) "Quality Measurement Council" means a group of individuals appointed by the Governor to develop and oversee the Quality Metric Reporting Program as described in OAR 411-054-0320. 
+
+ (85) "Remodel" means a renovation or conversion of a building that requires a building permit and meets the criteria for review by the Facilities Planning and Safety Program as described in OAR 333-675-0000. 
+
+ (86) "Renovate" means to restore to good condition or to repair. 
+
+ (87) "Residency Agreement" means the written, legally enforceable agreement between a facility and an individual, or legal representative receiving services in a residential setting. This agreement is one of the documents that must be provided to potential residents before move-in. 
+
+ (88) "Resident" means any individual who is receiving room, board, care, and services on a 24-hour basis in a residential care or assisted living facility for compensation. 
+
+ (89) "Resident Evaluation" means an evaluation that uses the information obtained when addressing the elements required in OAR 411-054-0034(5). 
+
+ (90) "Residential Care Facility (RCF)" means a building, complex, or distinct part thereof, consisting of shared or individual living units in a homelike surrounding, where six or more seniors and adult individuals with disabilities may reside. The residential care facility offers and coordinates a range of supportive services available on a 24-hour basis to meet the activities of daily living, health, and social needs of the residents as described in these rules. A program approach is used to promote resident self-direction and participation in decisions that emphasize choice, dignity, individuality, and independence. 
+
+ (91) "Residential Care Facility Administrator (RCFA)" means an administrator of a residential care or assisted living facility, as defined in ORS 678.710 and licensed by the Oregon Health Licensing Office, according to OAR chapter 853. All individuals serving as administrators in residential care or assisted living facilities will be required to hold this license as of January 1, 2022. 
+
+ (92) "Restraint" means: 
+
+ (a) Physical restraints are any manual method, or physical or mechanical device, material, or equipment attached to or adjacent to the individual’s body that the individual cannot remove easily, which restricts freedom of movement or normal access of the individual to the individual’s body. Any manual method includes physically restraining someone by manually holding someone in place. 
+
+ (b) Chemical restraints are any substance or drug used for the purpose of discipline or convenience that has the effect of restricting the individual’s freedom of movement or behavior and is not used to treat the individual’s medical or psychiatric condition. 
+
+ (93) "Retaliation" means to threaten, intimidate, or take an action that is detrimental to an individual (for example, harassment, abuse, or coercion). 
+
+ (94) "Risk Agreement" means a process where a resident's high-risk behavior or choices are reviewed with the resident. Alternatives to and consequences of the behavior or choices are explained to the resident and the resident's decision to modify behavior or accept the consequences is documented. 
+
+ (95) "Service Plan" means a written, individualized plan for services, developed by a service planning team and the resident or the resident's legal representative, that reflects the resident's capabilities, choices, and if applicable, measurable goals, and managed risk issues. The service plan defines the division of responsibility in the implementation of the services. 
+
+ (96) "Service Planning Team" means two or more individuals, as set forth in OAR 411-054-0036, that assist the resident in determining what services and care are needed, preferred, and may be provided to the resident. For IICs, the term "interdisciplinary team" is synonymous with "service planning team." 
+
+ (97) "Services" mean supervision or assistance provided in support of a resident's needs, preferences, and comfort, including health care and activities of daily living, that help develop, increase, maintain, or maximize the resident's level of independent, psychosocial, and physical functioning. 
+
+ (98) “Sexual orientation” means romantic or sexual attraction, or a lack of romantic or sexual attraction, to other people. 
+
+ (99) “Staffing Assessment” means a review conducted by the Department to determine if a facility is using an acuity-based staffing tool according to administrative rule. 
+
+ (100) “Staffing Levels” means the number of staff required to provide the levels, intensity and qualifications of staff necessary to meet the scheduled and unscheduled needs of each resident 24 hours a day, seven days a week. Staffing levels are established by using an acuity-based staffing tool to determine the amount of time and expertise necessary to provide services to assist with activities of daily living and related tasks. 
+
+ (101) “Staffing Plan” means a plan outlining the staffing levels required to meet the scheduled and unscheduled needs of all residents within a facility. Staffing plans should incorporate and be consistent with the facility’s acuity‑based staffing tool data. 
+
+ (102) "Subject Individual" means any individual 16 years of age or older on whom the Department may conduct a background check as defined in OAR 407-007-0210 and from whom the Department may require fingerprints for the purpose of conducting a national background check. 
+
+ (a) For the purpose of these rules, subject individual includes: 
+
+ (A) All applicants, licensees, and operators of a residential care or assisted living facility. 
+
+ (B) All individuals employed or receiving training in an assisted living or residential care facility. 
+
+ (C) Volunteers, if allowed unsupervised access to residents. 
+
+ (b) For the purpose of these rules, subject individual does not apply to: 
+
+ (A) Residents and visitors of residents. 
+
+ (B) Individuals that provide services to residents who are employed by a private business not regulated by the Department. 
+
+ (103) "Substantial Compliance" means a level of compliance with state law and rules of the Department such that any identified deficiencies pose a risk of no more than negligible harm to the health or safety of residents of a facility. 
+
+ (104) "Supportive Device" means a device that may have restraining qualities that supports and improves a resident's physical functioning. 
+
+ (105) "These Rules" mean the rules in OAR chapter 411, division 054. 
+
+ (106) “Transgender” means having a gender identity or gender expression that differs from the sex one was assigned at birth, regardless of whether one has undergone or is in the process of undergoing gender-affirming care. Being transgender does not imply any specific sexual orientation. Therefore, transgender people may identify as straight, gay, lesbian, bisexual, etc. 
+
+ (107) "Underserved" means services are significantly unavailable within the service area in a comparable setting for: 
+
+ (a) The general public. 
+
+ (b) A specific population, for example, residents with dementia or traumatic brain injury. 
+
+ (108) "Unit" means the personal and sleeping space of an individual receiving services in an RCF or ALF setting, as agreed to in the Residency Agreement. 
+
+ (109) "Universal Worker" means a facility employee whose assignments include other tasks (for example, housekeeping, laundry, or food service) in addition to providing direct resident services. Universal worker does not include administrators, clerical or administrative staff, building maintenance staff, or licensed nurses who provide services as specified in OAR 411-054-0034. 
+
+ (110) “Voluntary Move-Out” means the facility and the resident, or resident’s legal representative, have mutually agreed the facility can no longer meet the resident’s health, behavior or care needs. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 410.070, 441.122, 443.450 & 443.738 
+ 
+ 
+ Statutes/Other Implemented:  ORS 441.111, 443.400 - 443.455, 443.738, 443.991 & 678.710 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 69-2024, amend filed 12/20/2024, effective 12/24/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 33-2024, temporary amend filed 06/24/2024, effective 07/01/2024 through 12/27/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 27-2022, amend filed 06/15/2022, effective 06/24/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 58-2021, temporary amend filed 12/23/2021, effective 01/01/2022 through 06/29/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 7-2021, amend filed 02/05/2021, effective 02/08/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 23-2020, amend filed 06/20/2020, effective 06/24/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 54-2019, temporary amend filed 12/23/2019, effective 01/01/2020 through 06/28/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 30-2019, amend filed 08/19/2019, effective 09/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 19-2018, amend filed 06/29/2018, effective 06/29/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 35-2017, temporary amend filed 12/30/2017, effective 01/01/2018 through 06/29/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 30-2017, amend filed 12/01/2017, effective 12/15/2017 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 17-2017(Temp), f. & cert. ef. 8-1-17 thru 1-27-18 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 10-2016, f. 6-27-16, cert. ef. 6-28-16 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 26-2015(Temp), f. 12-29-15, cert. ef. 1-1-16 thru 6-28-16 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 1-2015, f. 1-14-15, cert. ef. 1-15-15 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 11-2012, f. 8-31-12, cert. ef. 9-1-12 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 4-2012, f. 4-30-12, cert. ef. 5-1-12 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 23-2011(Temp), f. & cert. ef. 11-10-11 thru 5-7-12 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 7-2011, f. 3-31-11, cert. ef. 4-1-11 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 24-2010(Temp), f. & cert. ef. 10-5-10 thru 4-2-11 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 10-2010, f. 6-30-10, cert. ef. 7-1-10 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 23-2009(Temp), f. 12-31-09, cert. ef. 1-1-10 thru 6-30-10 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 13-2009, f. 9-30-09, cert. ef. 10-1-09 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 16-2008, f. 12-31-08, cert. ef. 1-1-09 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 14-2007, f. 8-31-07, cert. ef. 11-1-07 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

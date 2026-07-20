@@ -1,0 +1,409 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 102 LICENSING OF RADIOACTIVE MATERIAL 
+ 333-102-0115 
+ General Licenses — Radioactive Material Other than Source Material: Certain Measuring, Gauging and Controlling Devices
+ 
+ 
+ (1) A general license is hereby issued to commercial and industrial firms and to research, educational and medical institutions, individuals in the conduct of their business, and state or local government agencies to own, receive, acquire, possess, use or transfer in accordance with the provisions of OAR 333-103-0015 and sections (2), (3) and (4) of this rule, radioactive material, excluding special nuclear material, contained in devices designed and manufactured for the purpose of detecting, measuring, gauging or controlling thickness, density, level, interface location, radiation leakage, or qualitative or quantitative chemical composition, or for producing light or an ionized atmosphere. 
+
+ (2) The general license in section (1) of this rule applies only to radioactive material contained in devices that have been manufactured or initially transferred and labeled in accordance with the specifications contained in a specific license issued by the Authority pursuant to OAR 333-102-0200 or in accordance with the specifications contained in a specific license issued by the U.S. Nuclear Regulatory Commission, an Agreement State, or a Licensing State, that authorizes distribution of devices to persons generally licensed by the U.S. Nuclear Regulatory Commission, an Agreement State or a Licensing State. 
+
+ (3) The devices must have been received from one of the specific licensees described in section (2) of this rule or through a transfer made in accordance with subsection (4)(i) of this rule. 
+
+ 
+ NOTE: Regulations under the Federal Food, Drug and Cosmetic Act authorizing the use of radioactive control devices in food production require certain additional labeling thereon which is found in 21 CFR 179.21. 
+ 
+
+ (4) Any person who owns, receives, acquires, possesses, uses or transfers radioactive material in a device pursuant to the general license in section (1) of this rule: 
+
+ (a) Must assure that all labels affixed to the device at the time of receipt, and bearing a statement that removal of the label is prohibited, are maintained thereon and must comply with all instructions and precautions provided by such labels; 
+
+ (b) Must assure that the device is tested for leakage of radioactive material and proper operation of the on-off mechanism and indicator, if any, at no longer than six-month intervals or at such other intervals as are specified in the label; however: 
+
+ (A) Devices containing only krypton need not be tested for leakage of radioactive material; and 
+
+ (B) Devices containing only tritium or not more than 100 microcuries (3.7 MBq) of other beta or gamma emitting material or 10 microcuries (0.37 MBq) of alpha emitting material and devices held in storage in the original shipping container prior to initial installation need not be tested for any purpose. 
+
+ (c) Must assure that tests required in subsection (4)(b) of this rule and other testing, installation servicing and removing from installation involving the radioactive materials, its shielding or containment, are performed: 
+
+ (A) In accordance with the instructions provided by the labels; or 
+
+ (B) By a person holding an applicable specific license from the Authority, the U.S. Nuclear Regulatory Commission, an Agreement State or a Licensing State to perform such activities. 
+
+ (d) Must maintain records showing compliance with the requirements of subsections (4)(b) and (4)(c) of this rule. The records must show the results of tests. The records also must show the dates of performance of, and the names of persons performing, testing, installation servicing and removal from installation concerning the radioactive material, its shielding or containment. The licensee must retain these records as follows: 
+
+ (A) Records of tests for leakage of radioactive material required by subsection (4)(b) of this rule must be maintained as required in OAR 333-100-0057. 
+
+ (B) Records of tests of the on-off mechanism and indicator required by subsection (4)(b) of this rule must be maintained as required in OAR 333-100-0057. 
+
+ (C) Records which are required by subsection (4)(c) of this rule must be maintained as required in OAR 333-100-0057. 
+
+ (e) Upon the occurrence of a failure of or damage to, or any indication of a possible failure of or damage to, the shielding of the radioactive material or the on-off mechanism or indicator, or upon the detection of 0.005 microcurie (185 Bq) or more of removable radioactive material, the licensee must immediately suspend operation of the device until it has been repaired by the manufacturer or other person holding an applicable specific license from the Authority, the U.S. Nuclear Regulatory Commission, an Agreement State or a Licensing State to repair such devices. The device and any radioactive material from the device may only be disposed of by transfer to a person authorized by a specific license to receive the radioactive material in the device or as otherwise approved by the Authority. A report containing a brief description of the event and the remedial action taken; and, in the case of detection of 0.005 microcurie or more removable radioactive material or failure of or damage to a source likely to result in contamination of the premises or the environs, a plan for ensuring that the premises and environs are acceptable for unrestricted use, must be submitted to the Authority within 30 days. Under these circumstances, the criteria set out in OAR 333-120-0190, as determined by the Authority, on a case-by-case basis; 
+
+ (f) Must not abandon the device containing radioactive material; 
+
+ (g) Except as provided in subsection (4)(i) of this rule, must transfer or dispose of the device containing radioactive material only by export as provided by subsection (4)(l) of this rule, by transfer to another general licensee as authorized in subsection (4)(i) of this rule, or by transfer to a specific licensee of the Authority, the U.S. Nuclear Regulatory Commission, an Agreement State or a Licensing State whose specific license authorizes the individual to receive the device; and 
+
+ (A) Must furnish to the Authority, within 30 days after transfer of a device to a specific licensee or export, a report containing identification of the device by manufacturer's name, model number, serial number, the date of transfer, and the name, address and license number of the person receiving the device; 
+
+ (B) The general licensee must obtain written Authority approval before transferring the device to any other specific licensee not specifically identified in subsection (4)(g) of this rule. 
+
+ (h) A holder of a specific license may transfer a device for possession and use under its own specific license without prior approval, if the holder: 
+
+ (A) Verifies that the specific license authorized the possession and use, or applies for and obtains an amendment to the license authorizing the possession and use; 
+
+ (B) Removes, alters, covers, or clearly and unambiguously augments the existing label so that the device is labeled in compliance with OAR 333-120-0430, however the manufacturer model and serial numbers must be retained; 
+
+ (C) Obtains manufacturer’s or initial transferor’s information concerning maintenance that are applicable under the specific license (such as leak testing procedures); and 
+
+ (D) Reports the transfer under OAR 333-102-0115(4)(g)(A). 
+
+ (i) Must transfer the device to another general licensee only: 
+
+ (A) Where the device remains in use at a particular location. In such case the transferor must give the transferee a copy of this rule and any safety documents identified in the label on the device and within 30 days of the transfer, report to the Authority the manufacturer's (or initial transferor's) name, model number, serial number of the device transferred, the date of transfer, the name and address of the transferee and the location of use, and the name, title and phone number of the individual who is a point of contact between the Authority and the transferee. This individual must have the knowledge and authority to take actions to ensure compliance with the appropriate rules and requirements concerning the possession and use of these devices; or 
+
+ (B) Where the device is held in storage in the original shipping container at its intended location of use prior to initial use by a general licensee. 
+
+ (j) Must comply with the provisions of OAR 333-120-0700 and 333-120-0710 for reporting radiation incidents, theft or loss of licensed material but shall be exempt from the other requirements of divisions 111 and 120 of this chapter; 
+
+ (k) Must submit the required Authority form and receive from the Authority a validated registration certificate acknowledging the general license and verifying that all provisions of these rules have been met. The form must be submitted within 30 days after the first receipt or acquisition of such device. The general licensee must develop and maintain procedures designed to establish physical control over the device as described in this rule and designed to prevent transfer of such devices in any form, including metal scrap, to persons not authorized to receive the devices. 
+
+ (l) Shall not export a device containing radioactive material except in accordance with 10 CFR Part 110. 
+
+ (5) The general license in section (1) of this rule does not authorize the manufacture of devices containing radioactive material. 
+
+ (6) The general license provided in section (1) of this rule is subject to the provisions of OAR 333-100-0040 through 333-100-0055, 333-102-0335, 333-103-0015 and 333-118-0050. 
+
+ (7) The general licensee possessing or using devices licensed under the general license established by section (1) of this rule must report in writing to the Authority any changes in information furnished by the licensee on the required Authority form. The report must be submitted within 30 days after the effective date of such change. 
+
+ (8) The licensee must appoint an individual responsible for having knowledge of the appropriate regulations and requirements and the authority for taking required actions to comply with appropriate regulations and requirements. The general licensee, through this individual, must ensure the day-to-day compliance with appropriate regulations and requirements. This appointment does not relieve the general licensee of any of its responsibility in this regard. 
+
+ (9)(a) A device distributed or otherwise received as a generally licensed device must be registered with the Authority. Each address for a location of use, as described under subsection (9)(b) of this rule, represents a separate general licensee and requires a separate registration and fee. Devices containing more than 370 MBq (10 mCi) of cesium-137, 3.7 MBq (0.1 mCi) of strontium-90, 37 MBq (1 mCi) of cobalt-60, any quantity of americium-241, 3.7 MBq (0.1 mCi) of radium 226 or any other transuranic (for example, element with atomic number greater than uranium (92)), based on the activity indicated on the label are required to have a specific license. 
+
+ (b) In registering devices, the general licensee must furnish the following information and any other information specifically requested by the Authority: 
+
+ (A) Name and mailing address of the general licensee; 
+
+ (B) Information about each device. The manufacturer (or initial transferor), model number, serial number, the radioisotope and activity (as indicated on the label); 
+
+ (C) Name, title, and telephone number of the responsible person designated as a representative of the general licensee under section (8) of this rule. 
+
+ (D) Address or location at which the device(s) are used and stored. For portable devices, the address of the primary place of storage. 
+
+ (E) Certification by the responsible representative of the general licensee that the information concerning the device(s) has been verified through a physical inventory and checking of label information. 
+
+ (F) Certification by the responsible representative of the general licensee that they are aware of the requirements of the general license. 
+
+ (10) General licensees must report changes to their mailing address or the location of use (including a change in name of general licensee) to the Authority within 30 days of the effective date of the change. 
+
+ (11) Generally licensed devices that are not in use for longer than two years must be transferred to an authorized recipient or disposed of as radioactive waste. Shutters must be locked in the closed position on devices that are not being used or are in storage. The testing required by subsection (4)(b) of this rule need not be performed during the period of storage only. However, when devices are put back into service or transferred to another person and have not been tested within the required test interval, they must be tested for leakage before use or transfer and the shutter tested before use. 
+
+ (12) Persons generally licensed by an Agreement State with respect to devices meeting the criteria in section (9) of this rule are not subject to registration requirements if the devices are used in areas subject to NRC jurisdiction for a period less than 180 consecutive days in any calendar year. The Nuclear Regulatory Commission does not require registration information from such licensees. 
+
+ (13) The general license in section (1) of this rule does not authorize the manufacture or import of devices containing radioactive material. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 453.635 & 453.665 
+ 
+ 
+ Statutes/Other Implemented:  ORS 453.605 - 453.807 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 72-2020, amend filed 10/09/2020, effective 10/09/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 234-2018, amend filed 08/02/2018, effective 08/16/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 4-2013, f. & cert. ef. 1-29-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 10-2011, f. 9-30-11, cert. ef. 10-1-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 20-2010, f. & cert. ef. 9-1-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 4-2010, f. & cert. ef. 2-16-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 14-2008, f. & cert. ef. 9-15-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 4-2007, f. & cert. ef. 3-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 12-2006, f. & cert. ef. 6-16-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 1-1995, f. & cert. ef. 4-26-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 15-1994, f. & cert. ef. 5-6-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 1-1991, f. & cert. ef. 1-8-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 4-1985, f. & ef. 3-20-85 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

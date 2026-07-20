@@ -1,0 +1,236 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Corrections 
+ Chapter 291 
+ 
+ 
+ 
+ 
+ 
+ Division 5 NETWORK INFORMATION SYSTEM ACCESS AND SECURITY 
+ 291-005-0011 
+ Definitions
+ 
+ 
+ (1) Application(s): A system for collecting, saving, processing, and presenting data by means of a computer. The term application is generally used when referring to a component of software that can be executed. The terms application and software application are often used synonymously. 
+
+ (2) Authorized User: An individual who holds explicit permission to access information or use an information systems resource. An authorized user is distinguished by ownership of an active user account or profile and a fully executed security agreement. 
+
+ (3) Computing Device: A device that can perform substantial computations, including numerous arithmetic operations and logic operations without human intervention. A computing device can consist of a standalone unit or several interconnected units. It can also be a device that provides a specific set of functions, such as a phone or a personal organizer, or more general functions such as a laptop or desktop computer. 
+
+ (4) Department of Corrections Information Security Officer (ISO): The ISO manages information security throughout the agency. The ISO is responsible for coordinating program requirements throughout the agency with designated points of contact and project managers. Their duties include: 
+
+ (a) Developing and maintaining an agency-wide information security program. 
+
+ (b) Issuing annual information technology (IT) security planning guidance, including security priorities, objectives, and prioritization criteria for new and legacy systems. 
+
+ (c) Training and overseeing personnel with significant responsibilities for information security with respect to such responsibilities. 
+
+ (d) Developing and maintaining information security policies, procedures, and control techniques. 
+
+ (e) Assisting senior agency personnel concerning their IT security-related responsibilities. 
+
+ (5) External organization: Any non-Department of Corrections department, agency, corporation, or other group of individuals who are not under the authority of the Department of Corrections Director. This includes, but is not limited to, national, state, county, and municipal government agencies and departments, service providers and consultants, product and services vendors, appointed or ad hoc committees, advisory groups, and the public at large. 
+
+ (6) Functional Unit: Any organizational component within Department of Corrections responsible for the delivery of program services or coordination of program operations. 
+
+ (7) Functional Unit Manager (FUM): Any person within Department of Corrections who reports to either the Director, the Deputy Director, an Assistant Director, or an administrator and has responsibility for delivery of program services or coordination of program operations. 
+
+ (8) Information System: A discrete or interconnected set of information resources organized for the collection, processing, maintenance, use, sharing, dissemination, or disposition of information. A system normally includes hardware, software, information, data, applications, and communications. 
+
+ (9) Mobile Device: A portable computing device that has a small form factor such that it can easily be carried by a single individual, is designed to operate without a physical connection, possesses local, non-removable or removable data storage, and includes a self-contained power source. Mobile devices may also include voice communication capabilities, on-board sensors that allow the devices to capture information, or built-in features that synchronize local data with remote locations. 
+
+ (10) Multi-Factor Authentication (MFA): An authentication system that requires more than one distinct authentication factor for successful authentication. Multi-factor authentication can be performed using a multi-factor authenticator or by a combination of authenticators that provide different factors. These factors include something you know, something you have, and something you are. 
+
+ (11) Oregon Corrections Enterprises (OCE): A semi-independent state agency that is a non-Department of Corrections agency or division, which is under the authority of the Department of Corrections Director. For purposes of this rule only, Oregon Corrections Enterprises shall not be considered an external organization. 
+
+ (12) Personally-Owned Devices: Any technology device that was purchased by an individual and was not issued by the agency. 
+
+ (13) Privileged Account: An account provided to a privileged user for performing administrative or security-relevant functions. 
+
+ (14) Privileged User: A user that is authorized, and therefore trusted, to perform security-relevant functions that ordinary users are not authorized to perform. 
+
+ (15) Remote Access: Access to an organizational information system by a user or an information system communicating through an external, non-organization-controlled network (e.g., the Internet). 
+
+ (16) Stand-alone Computer Equipment: Computer equipment not connected to any network. 
+
+ (17) Telework or Telecommuting: The ability of staff to conduct work from locations other than regularly assigned agency facilities. 
+
+ (18) Terminals: Input and output devices that are used for data entry and display of entered or processed information. A terminal consists of a display screen and some form of input device, usually a keyboard or scanner. 
+
+ (19) User Account or Profile: A data record associated with each authorized user of a computer system or network. This record specifies the user’s real name, username, encrypted password, identification numbers or codes, and other operating parameters (such as limitations on the use of system resources, access permissions, etc.). This record is created and maintained for each user by the Department of Corrections Profile Administration Team. The record is used by the computer or network operating system software to permit or deny use of or access to system resources or information assets for a given user. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 179.040, 423.020, 423.030 & 423.075 
+ 
+ 
+ Statutes/Other Implemented:  ORS 179.040, 423.020, 423.030 & 423.075 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 5-2024, amend filed 04/29/2024, effective 04/29/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 11-2000, f. & cert. ef. 6-19-00 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ DOC 23-1999(Temp), f. & cert. ef. 12-22-99 thru 6-19-00 
+DOC 16-1999, f. 9-24-99, cert. ef. 10-1-99 
+CD 10-1997, f. & cert. ef. 6-20-97 
+CD 24-1992, f. 11-24-92, cert. ef. 12-1-92 
+CD 7-1981, f. & cert. ef. 4-17-81 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

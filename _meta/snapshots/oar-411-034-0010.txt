@@ -1,0 +1,459 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Aging and People with Disabilities and Developmental Disabilities - Chapter 411 
+ 
+ 
+ 
+ 
+ Division 34 STATE PLAN PERSONAL CARE SERVICES 
+ 411-034-0010 
+ Definitions
+ 
+ 
+ Unless the context indicates otherwise, the following definitions apply to the rules in OAR chapter 411, division 034: 
+
+ (1) “Activity of Daily Living (ADLs)” means those personal functional activities required by an individual for continued well-being, which are essential for health and safety. ADLs for these rules means Basic Personal Hygiene, Medication and Oxygen Management, Mobility, Toileting, Nutrition and Nursing Services. 
+
+ (2) "Adult" means any person at least 18 years of age. 
+
+ (3) "Alternative Service Resources" means other possible resources for the provision of services to meet an individual's needs. Alternative service resources include, but are not limited to, natural supports, risk intervention services, Older Americans Act programs, or other community supports. Alternative service resources are not paid by Medicaid. 
+
+ (4) "Area Agency on Aging (AAA)" means the Department designated agency charged with the responsibility to provide a comprehensive and coordinated system of services to older adults and adults with disabilities in a planning and service area. The terms AAA and Area Agency on Aging are inclusive of both Type A and Type B Area Agencies on Aging as defined in ORS 410.040 and described in ORS 410.210 to 410.300. 
+
+ (5) "Assistance" means an individual requires help from another person with the personal care or supportive services described in OAR 411-034-0020. 
+
+ (6) “Assistance Types” mean assistance from another person in the form of hands-on assistance (actually performing a personal care task for a person) or cueing (redirecting) so that the person performs the task by themselves. Other types of assistance may be defined in specific ADLs or IADLs. Specific assistance types include: 
+
+ (a) "Cueing" means giving verbal or visual clues during an activity to help an individual complete the activity without hands-on assistance. 
+
+ (b) "Hands-on" means a provider physically performs all or parts of an activity because an individual is unable to do so. 
+
+ (c) "Monitoring" means a provider must observe an individual to determine if intervention is needed. 
+
+ (d) "Reassurance" means to offer an individual encouragement and support. 
+
+ (e) "Redirection" means to divert an individual to another more appropriate activity. 
+
+ (f) "Set-up" means getting personal effects, supplies, or equipment ready so that an individual may perform an activity. 
+
+ (g) "Stand-by" means a provider is at the side of an individual ready to step in and take over the task if the individual is unable to complete the task independently. 
+
+ (h) "Support" means to enhance the environment to enable an individual to be as independent as possible. 
+
+ (7) "Assistive Devices" means any category of durable medical equipment, mechanical apparatus, electrical appliance, or instrument of technology used to assist and enhance an individual's independence in performing any task described in OAR 411-034-0020. 
+
+ (8) "Assistive Supports" means the aid of service animals, general household items, or furniture used to assist and enhance an individual’s independence in performing any task described in OAR 411-034-0020. 
+
+ (9) "Case Management" means the functions required to determine service eligibility, developing a plan of authorized services, and monitoring the effectiveness of services. 
+
+ (10) "Case Manager" means a Department employee or an employee of the Department's designee who assesses the service needs of individuals, determines eligibility, and offers service choices to eligible individuals. A case manager authorizes and implements an individual's plan for services and monitors the services delivered. 
+
+ (11) "Central Office" “CO” means the unit within the Department responsible for program and policy development and oversight. 
+
+ (12) "Child" means an individual who is less than 18 years of age. 
+
+ (13) “Cognition” refers to how the individual is able to use information, make decisions, and ensure their daily needs are met. 
+
+ (14) "Community Developmental Disability Program (CDDP)" means the Department's designee that is responsible for plan authorization, delivery, and monitoring of services for individuals with intellectual or developmental disabilities according to OAR chapter 411, division 320. 
+
+ (15) "Cost Effective" means being responsible and accountable with Department resources. 
+
+ (16) "Delegated Nursing Task" means a registered nurse (RN) authorizes an unlicensed person (defined in OAR 851-047-0010) to provide a nursing task normally requiring the education and license of an RN. 
+
+ (17) "Department" means the Oregon Department of Human Services. 
+
+ (18) "Designee" means an organization with which the Department contracts or has an interagency agreement. 
+
+ (19) "Developmental Disability" as defined in OAR 411-320-0020 and described in OAR 411-320-0080. 
+
+ (20) "Disability" means a physical, cognitive, or emotional impairment which, for an individual, constitutes or results in a functional limitation in one or more of the activities of daily living in these rules. 
+
+ (21) “Grocery Shopping” means Grocery Shopping - perform or assist individual in planning for and purchasing basic needs and household items. 
+
+ (22) "Guardian" for the purpose of these rules means a person or agency appointed and authorized by the courts to make decisions about services for an individual. 
+
+ (23) “Healthier Oregon” is an OHP Plus equivalent benefit (410-120-1210(4)(h)) for individuals described in 461-135-1080. 
+
+ (24) "Homecare Worker" means a provider directly employed by an individual to provide hourly in-home services to the eligible consumer per the criteria in the CEP program described in OAR 411-031-0020. 
+
+ (25) "In-Home Care Agency" means an incorporated entity or equivalent, licensed in accordance with OAR chapter 411, division 033 and chapter 333, division 536 that provides hourly contracted in-home services to individuals receiving services through the Department or Area Agency on Aging. 
+
+ (26) "Individual" means the person applying for or determined eligible for State Plan personal care services. 
+
+ (27) “Instrumental Activities of Daily Living (IADLs)” means certain day-to-day activities or tasks associated with an independent lifestyle. These are not considered to be essential for basic functioning but are regarded as important for maintaining day-to-day quality of life and relative independence. IADLs include housework, laundry, transportation, grocery shopping, using the telephone or other communication equipment, and money management. 
+
+ (28) "Intellectual Disability" as defined in OAR 411-320-0020 and described in OAR 411-320-0080. 
+
+ (29) "Legal Representative" means a person who has the legal authority to act for an individual. The legal representative only has authority to act within the scope and limits of his or her authority as designated by the court or other agreement. Legal representatives acting outside of his or her authority or scope must meet the definition of designated representative. 
+
+ (a) For an individual under the age of 18, the parent, unless a court appoints another person or agency to act as the guardian. 
+
+ (b) For an individual 18 years of age or older, a guardian appointed by a court order or an agent legally designated as the health care representative, where the court order or the written designation provide authority for the appointed or designated person to make the decisions indicated where the term “legal representative” is used in this rule. 
+
+ (30) "Long Term Care Community Nursing" means the nursing services described in OAR chapter 411, division 048. 
+
+ (31) "Natural Support" means resources and supports (e.g., relatives, friends, significant others, neighbors, roommates, or the community) who are willing to voluntarily provide services to an individual without the expectation of compensation. Natural supports are identified in collaboration with the individual and the potential "natural support". The natural support is required to have the skills, knowledge, and ability to provide the needed services and supports. 
+
+ (32) "Older Adult" means any person at least 65 years of age. 
+
+ (33) "Ostomy" means assistance that an individual needs with a colostomy, urostomy, or ileostomy tube or opening used for elimination. 
+
+ (34) "Personal Care" means the functional activities described in OAR 411-034-0020(2) that an individual requires for continued well-being. 
+
+ (35) "Provider" or "Qualified Provider" means a homecare worker that meets the qualifications in OAR chapter 418, division 020 or an In-Home Care Agency that meets the qualifications in OAR chapter 411, division 033 that performs State Plan personal care services. 
+
+ (36) "Relative" means a person, excluding an individual's spouse, who is related to the individual by blood, marriage, or adoption. 
+
+ (37) "Representative" means: 
+
+ (a) A person appointed by an individual or legal representative to participate in service planning on the individual’s behalf that is either the individual's guardian or natural support with longstanding involvement in assuring the individual’s health, safety and welfare; and 
+
+ (b) For the purpose of obtaining State Plan personal care services through a homecare or personal support worker, the person selected by an individual or the individual's legal representative to act on the individual's behalf to provide the employer responsibilities described in OAR 411-034-0040. 
+
+ (c) A HCW may not act as a consumer-employer representative for an individual who employs them. 
+
+ (38) "Respite" means services for the relief of a person normally providing supports to an individual unable to care for him or herself. 
+
+ (39) "Service Need" means the assistance with personal care and supportive services needed by an individual receiving Department services. 
+
+ (40) "Service Period" means two consecutive workweeks for a total of 14 days. 
+
+ (41) "Service Plan" or "Service Authorization" means an individual's written plan for services that identifies: 
+
+ (a) The individual's qualified provider who is to deliver the authorized services; 
+
+ (b) The date when the provision of services is to begin; and 
+
+ (c) The maximum hours per service period of personal care services authorized by the Department or the Department's designee. 
+
+ (42) "State Plan Personal Care Services" means the assistance with personal care, ADLs and IADLs described in OAR 411-034-0020 provided to an individual by a homecare worker or In-Home Care Agency. 
+
+ (43) "Sub-Acute Care Facility" means a care center or facility that provides short-term rehabilitation and complex medical services to an individual with a condition that does not require acute hospital care but prevents the individual from being discharged to his or her home. 
+
+ (44) “Using the telephone” means assisting the individual in the use of any communication related technology. 
+
+ (45) "These Rules" mean the rules in OAR chapter 411, division 034. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 410.070 
+ 
+ 
+ Statutes/Other Implemented:  ORS 410.020, 410.070, 410.710 & 411.675 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 57-2022, amend filed 12/22/2022, effective 12/23/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 28-2022, temporary amend filed 06/22/2022, effective 07/01/2022 through 12/27/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 8-2018, amend filed 03/28/2018, effective 03/29/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 22-2017, temporary amend filed 09/29/2017, effective 10/01/2017 through 03/29/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 35-2014, f. & cert. ef. 10-1-14 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 10-2014(Temp), f. & cert. ef. 5-1-14 thru 10-18-14 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 9-2014(Temp), f. 4-17-14, cert. ef. 4-21-14 thru 10-18-14 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 48-2013, f. 12-13-13, cert. ef. 12-15-13 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SDP 19-2013(Temp), f. & cert. ef. 7-1-13 thru 12-28-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 31-2010, f. 12-29-10, cert. ef. 1-1-11 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 16-2007, f. 10-4-07, cert. ef. 10-5-07 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 35-2004, f. 11-30-04, cert. ef. 12-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSD 2-1996, f. 3-13-96, cert. ef. 3-15-96 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

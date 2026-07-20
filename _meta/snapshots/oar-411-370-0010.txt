@@ -1,0 +1,319 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Aging and People with Disabilities and Developmental Disabilities - Chapter 411 
+ 
+ 
+ 
+ 
+ Division 370 PROVIDER ENROLLMENT, SERVICE BILLING, AND SERVICE PAYMENT FOR DEVELOPMENTAL DISABILITIES SERVICES 
+ 411-370-0010 
+ Definitions and Acronyms for Provider Enrollment 
+ 
+ In addition to the following definitions and acronyms, OAR 411-317-0000 includes general definitions for words and terms frequently used in OAR chapter 411, division 370. If a word or term is defined differently in OAR 411-317-0000, the definition in this rule applies. 
+(1) “Administrator” means the Director of the Oregon Department of Human Services, Office of Developmental Disabilities Services, or their designee. 
+(2) “Appropriate Service” means services that are required by a recipient’s approved individual service or support plan that are: 
+(a) Consistent with the recipient’s identified needs, goals, and desired outcomes. 
+(b) Appropriate with regard to standards of generally recognized practice, evidence based practice, and professional standards of service as effective. 
+(c) Not solely for the convenience of a provider of the service. 
+(d) The most cost effective of the alternative services that may be effectively provided to a recipient. 
+(e) Coordinated with the recipient’s local case management entity. 
+(3) “Authorization” means either service or payment authorization for specified covered services given prior to services being rendered by Department staff, or the Department’s designee including Community Developmental Disabilities Programs and Brokerages. 
+(4) “Billing Provider” means a person, agent, business, corporation, or other entity who, in connection with submission of claims to the Department, receives or directs payment from the Department on behalf of a performing provider and has been delegated the authority to obligate or act on behalf of the performing provider. 
+(5) “Claim” means a bill for services, a line item of a service, or all services for one recipient within a specified billing period. Claims include a bill submission, an invoice, or an encounter associated with requesting payment whether submitted on paper or electronically. Claim also includes any other methodology for requesting payment or as verification of an expenditure of an advanced payment that may be established in contract, provider enrollment agreement, or program-specific rules. 
+(6) “Community Services Programs” are developmental disabilities services provided for recipients under the following program names, service element numbers, or descriptions: 
+(a) Nursing facility specialized services (DD 45) as described in OAR chapter 411, division 070. 
+(b) Residential programs (DD 50) as described in OAR chapter 411, division 325. 
+(c) Supported living programs (DD 51) as described in OAR chapter 411, division 328. 
+(d) Transportation services (DD 53) as described in the applicable service element standards and procedures and community transportation services as described in OAR chapter 411, division 435. 
+(e) Employment services as described in OAR chapter 411, division 345. 
+(f) Community living supports as described in OAR chapter 411, division 450, including: 
+(A) Standard model agencies as defined in OAR 411-450-0020. 
+(B) As of January 1, 2026, employer model agencies as defined in OAR 411-450-0020. 
+(g) Rent subsidies (DD 56) as described in the applicable service element standards and procedures. 
+(h) Developmental disabilities special projects (DD 57) as described in the applicable service element standards and procedures. 
+(i) Children’s residential programs (DD 142) as described in OAR chapter 411, division 325. 
+(j) Host home programs as described in OAR chapter 411, division 348. 
+(k) Room and board (DD 156) as described in the applicable service element standards and procedures. 
+(l) Professional behavior services as described in OAR chapter 411, division 304. 
+(m) Direct nursing services as described in OAR chapter 411, division 380.  
+(n) Adult foster care programs (DD158) as described in OAR chapter 411, division 360.  
+(o) Foster homes for children (DD258) as described in OAR chapter 411, division 346. 
+(7) “Covered Services” mean appropriate services that are funded by the legislature and applicable Department rules describing the community services programs provided to eligible recipients under service element standards and procedures, program-specific requirements, provider enrollment agreements, or contracts by providers required to enroll with the Department under these rules. 
+(8) “Date of Service” means the date the recipient receives community services program services, unless otherwise specified in the appropriate program-specific rules. 
+(9) “Department” means the Oregon Department of Human Services. For the purpose of these rules, Department also includes the responsibility for the day-to-day operation and administration of 1915(c) Home and Community-Based Services waivers and the 1915(k) Community First Choice state plan as the operating agency designated by the Oregon Health Authority. 
+(10) “Express Payment and Reporting System (eXPRS)” means the Department’s information system for managing the disbursement and tracking of Department funding for certain developmental disabilities services. 
+(11) “False Claim” means a claim or encounter a provider knowingly submits or causes to be submitted that contains inaccurate or misleading information, and that information would result, or has resulted, in an overpayment or other improper payment. 
+(12) “Fraud” means an intentional deception or misrepresentation made by a recipient or provider with the knowledge the deception may result in some unauthorized benefit to them, or some other recipient or provider. Fraud includes any act that constitutes fraud or false claim under applicable federal or state law. 
+(13) “Liquid Resource” means cash or assets that may be converted to cash within 20 business days, such as a life insurance policy that has a cash value, stock certificates, or a guaranteed line of credit from a financial institution. The cash surrender value of a life insurance policy is not a liquid resource. 
+(14) “Medicaid” means a federal and state funded program established by Title XIX of the Social Security Act, as amended, and administered in Oregon by the Department and the Oregon Health Authority. 
+(15) “Medicaid Fraud Control Unit (MFCU)” means the unit of the Oregon Department of Justice that investigates and prosecutes billing fraud committed by Medicaid providers. MFCU also may investigate and prosecute physical, sexual, or financial abuse and neglect of residents who reside in Medicaid-funded facilities. 
+(16) “Medicaid Management Information System (MMIS)” means the automated claims processing and information retrieval system for handling all Medicaid transactions. The objectives of MMIS include verifying provider enrollment and client eligibility, managing health care provider claims and benefit package maintenance, and addressing a variety of Medicaid business needs. 
+(17) “Medicare” means the federal health insurance program for the aged and disabled administered by the Centers for Medicare and Medicaid Services under Title XVIII of the Social Security Act. 
+(18) “OHA” means Oregon Health Authority. OHA is the Single State Medicaid Agency for Oregon and retains ultimate authority and responsibility for the administration of the Medicaid State Plan. 
+(19) “Provider” or “Performing Provider” means an individual, agency, corporate entity, or other organization that provides community services program services and is enrolled with the Department in accordance with these rules to seek payment from the Department. 
+(20) “Quality Improvement” means the effort to improve the level of performance of key processes, practices, or outcomes in service provision. A quality improvement program measures the level of current performance of the processes and practices, finds ways to improve the performance or outcomes, and implements new and better methods for the processes or practices. Quality improvement includes the goals of quality assurance, quality control, quality planning, and quality management. 
+(21) “Recipient” means an individual found eligible by the Community Developmental Disabilities Program and the Department under OAR chapter 411, division 320 to receive community services program services. 
+(22) “Service Element Standards and Procedures” means the standard for a particular service element number that further describes the applicable service and details the purpose, performance requirements, special reporting requirements, and applicable rules to adhere to when providing that particular service element. 
+(23) “SFMA” means “Oregon Statewide Financial Management Services”. 
+(24) “Suspension” means a sanction prohibiting a provider’s participation in the Department’s community services programs by deactivation of the assigned provider number for a specified period of time or until the occurrence of a specified event. 
+(25) “These Rules” mean the rules in OAR chapter 411, division 370. 
+(26) “Third Party Resource (TPR)” means a service or financial resource that, by law, is available and applicable to pay for covered services for community services programs. 
+(27) “United States Department of Health & Human Services (USDHHS)” means the Cabinet department of the United States government with the goal of protecting the health of all Americans and providing essential human services. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 409.050, 411.060, 427.104, 430.640 & 430.662 
+ 
+ 
+ Statutes/Other Implemented:  ORS 409.010, 427.007, 427.101, 427.104, 430.215, 430.610-430.695 & 443.400-443.455 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 16-2025, amend filed 11/24/2025, effective 11/25/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 48-2020, amend filed 12/14/2020, effective 12/15/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 36-2019, amend filed 10/29/2019, effective 11/01/2019 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 21-2019, amend filed 06/28/2019, effective 07/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 29-2017, amend filed 11/30/2017, effective 12/01/2017 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 25-2016, f. & cert. ef. 6-29-16 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 35-2015(Temp), f. 12-31-15, cert. ef. 1-1-16 thru 6-28-16 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 16-2011, f. & cert. ef. 7-1-11 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

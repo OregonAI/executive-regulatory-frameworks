@@ -1,0 +1,322 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Energy 
+ Energy Facility Siting Council - Chapter 345 
+ 
+ 
+ 
+ 
+ Division 26 CONSTRUCTION AND OPERATION RULES FOR FACILITIES 
+ 345-026-0390 
+ Spent Nuclear Fuel Storage
+ 
+ 
+ (1) The certificate holder may store a maximum of 791 complete and partial fuel assemblies and storage of containers with nuclear fuel materials at an Independent Spent Fuel Storage Installation (ISFSI) at the site of the former Trojan Nuclear Plant, subject to the requirements of OAR 345-026-0300 through 345-026-0390. 
+
+ (a) The ISFSI must be designed to maintain discharges within the limits specified in applicable licenses authorized under the Atomic Energy Act of 1954, as amended, and any applicable permits issued under the National Pollutant Discharge Elimination System; 
+
+ (b) The ISFSI must be designed such that in case of accidents the projected dose to an individual outside of the Controlled Area Boundary will not exceed 1 rem over four days. 
+
+ (c) The ISFSI may not be used to store any spent nuclear fuel or radioactive materials and wastes other than that generated or used in the operation of the former Trojan Nuclear Plant. 
+
+ (2) Except as required for accident mitigation as described in the Safety Analysis Report, the certificate holder may not remove or transfer a multipurpose canister from its storage cask without the Council’s prior approval. 
+
+ (3) The certificate holder must notify the Department of incidents and accidents in accordance with the Emergency Plan required under OAR 345-026-0340, the Security Plan required under OAR 345-026-0350, and other agreements as established, and must: 
+
+ (a) Notify the Oregon Emergency Response System immediately upon declaration of an emergency under the approved Emergency Plan for the facility; 
+
+ (b) Notify the Department of non-emergency incidents or accidents as described in 10 CFR 72.75 . 
+
+ (4) The certificate holder must operate the ISFSI consistent with a Safety Analysis Report submitted in compliance with 10 CFR 72.70 and the following requirements: 
+
+ (a) The Safety Analysis Report must provide for the following programs: 
+
+ (A) A Temperature Monitoring and Air Vent Inspection Program. The program must include daily readings of Concrete Cask air outlet and ambient temperatures. The program must include provisions for more frequent measurements if temperatures approach Technical Specification limits. The program must also include a requirement to check air inlet and outlet vents for blockage weekly. The certificate holder may extend individual surveillance intervals by up to 25 percent to accommodate minor variations in work scheduling. 
+
+ (B) A Radiation Protection Program that complies with 10 CFR 20.1101 and ensures exposures to ISFSI personnel and the public are As Low As Reasonably Achievable as that term is defined in 10 CFR 20.1003. 
+
+ (C) A Radiological Environmental Monitoring Program that ensures the ISFSI complies with the Radiation Protection Program required under paragraph (4)(a)(B) of this rule. 
+
+ (D) An Aging Management Program for management of issues associated with aging that could adversely affect ISFSI components that are important to safety. 
+
+ (E) A program for maintaining equipment onsite and having equipment available to respond to credible accident scenarios as required by the Safety Analysis Report and a plan for construction of new concrete casks. 
+
+ (b) The certificate holder may not make changes to the ISFSI, or Safety Analysis Report that would require prior approval from the U.S. Nuclear Regulatory Commission (NRC) under 10 CFR 72.48 without requesting the Council’s prior approval, unless the proposed change is required for compliance with the regulations or orders of the NRC or is necessary to protect the health and safety of the public when there is insufficient time to obtain prior approval. 
+
+ (5) In lieu of the requirements of OAR 345-026-0080 the certificate holder must provide a written report to the Council on the status of the ISFSI biennially. The report must include, at a minimum: 
+
+ (a) A summary of changes to the ISFSI or Safety Analysis Report since the last report that did not require prior approval from the Council or NRC under section (4)(b) of this rule; 
+
+ (b) The results of radiation monitoring programs; 
+
+ (c) A summary of personnel exposure related to ISFSI storage operations; 
+
+ (d) A statement of expenses related to ISFSI storage operations; 
+
+ (e) A statement of the estimated costs of continuing ISFSI storage operations through decommissioning and the estimated costs of decommissioning, including a discussion of the methods and assumptions used to estimate operations and decommissioning costs; 
+
+ (f) An estimate of funds available for continuing ISFSI storage operations through decommissioning and funds available for ISFSI decommissioning; and 
+
+ (g) A statement of any significant developments regarding the opening of a Federally licensed High Level Waste facility. 
+
+ (6) Contractors: The certificate holder must require contractors who perform portions of the ISFSI storage or transporting operations to adhere to all applicable provisions of this rule. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 469.470 
+ 
+ 
+ Statutes/Other Implemented:  ORS 469.410 & 469.501 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 3-2021, amend filed 12/17/2021, effective 12/17/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 1-2007, f. & cert. ef. 5-15-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 1-2005, f. & cert. ef. 5-23-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 1-2003, f. & cert. ef. 9-3-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 2-2002, f. & cert. ef. 12-3-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 3-1999, f. & cert. ef. 4-21-99 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 2-1999, f. & cert. ef. 4-14-99 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 2-1995, f. & cert. ef. 11-3-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 5-1994, f. & cert. ef. 11-30-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 3-1994, f. & cert. ef. 6-28-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

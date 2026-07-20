@@ -1,0 +1,259 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Workers' Compensation Division - Chapter 436 
+ 
+ 
+ 
+ 
+ Division 160 ELECTRONIC DATA INTERCHANGE; MEDICAL BILL DATA 
+ 436-160-0060 
+ Testing Procedures and Requirements 
+ 
+ Testing and transition to production:  (1) Before testing can begin, or the division can accept medical billing data, the trading partner must submit a completed Medical Billing Data EDI Trading Partner Profile (Form 4015) to the division’s EDI Coordinator. Form 4015 is available on the division’s website: http://wcd.oregon.gov/insurer/edi/Pages/medical-bill-data.aspx.  (2) For test purposes each transmission must conform to the standards specified in OAR 436-160-0004.  (3) Test files will be evaluated in terms of whether the data sent was received in the correct standardized format and fully processed by the division's information processing system.  (4) The EDI Coordinator will determine the number of required transactions per test submission based on the anticipated volume of production transactions.  (5) To be approved to send production transmissions, the sender must:  (a) Accomplish secure file transfer protocol (SFTP) uploads and downloads;  (b) Demonstrate the ability to send transmissions to the division that are in the correct format and can be processed through the division's information processing system;  (c) Resolve any consistently recurring errors, and demonstrate the ability to correct and resubmit corrections to errors identified by the division;  (d) Send transmissions to the division that do not result in a 999 acknowledgment indicating a rejection;  (e) Send transmissions to the division without transaction level technical errors;  (f) Demonstrate the ability to receive and process acknowledgement transactions; and  (g) Achieve an acceptance rate of at least 90 percent. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 656.726(4) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 84.013 & 656.264 
+ 
+ History: 
+ 
+ 
+
+ 
+ Reverted to WCD 6-2013, f. 10-10-13, cert. ef. 7-1-14 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Temporary suspended by WCD 7-2014(Temp), f. 7-10-14, cert. ef. 10-1-14 thru 12-27-14 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 6-2013, f. 10-10-13, cert. ef. 7-1-14 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 5-2014(Temp), f. 6-5-14, cert. ef. 7-1-14 thru 12-27-14 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 7-2010, f. 10-1-10, cert. ef. 1-1-11 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 4-2008, f. 9-17-08, cert. ef. 7-1-09 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 10-2007, f. 11-1-07, cert. ef. 1-1-08 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 3-2003, f. 3-18-03, cert. ef. 4-1-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

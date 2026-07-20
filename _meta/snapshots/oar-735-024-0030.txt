@@ -1,0 +1,308 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Transportation 
+ Driver and Motor Vehicle Services Division - Chapter 735 
+ 
+ 
+ 
+ 
+ Division 24 ASSEMBLED/RECONSTRUCTED/ALTERED/DAMAGED VEHICLES 
+ 735-024-0030 
+ Definitions Relating to Vehicles and Documents for Vehicles that Have Been Damaged, Altered, or Rebuilt
+ 
+ 
+ The following definitions and application of terms apply to OAR 735-024-0030 through 735-024-0170: 
+
+ (1) "Accepting Vehicles as Salvage Material" as used in ORS 819.040, means to receive or purchase a vehicle that has already been wrecked, dismantled, or disassembled. 
+
+ (2) "Assembled Vehicle" as defined in ORS 801.130 and these rules, means a vehicle: 
+
+ (a) With a body that does not resemble any particular year model or make of vehicle; 
+
+ (b) That is not a vehicle rebuilt by a manufacturer; 
+
+ (c) That is not a vehicle built in a factory where the year model and make are assigned at the factory; and 
+
+ (d) That is not an antique vehicle, a vehicle of special interest, a reconstructed vehicle or a replica. 
+
+ (3) "Brand," "branded title" or "title brand" means a notation, indicator, symbol or phrase that is or has been printed, stamped or otherwise affixed to a certificate of title to indicate the history, condition, or circumstances of a vehicle. A title brand does not necessarily indicate the extent to which a vehicle may have been damaged, whether a vehicle has been repaired or to what degree a damaged vehicle has been repaired. 
+
+ (4) "Certificate of Title" or "title" is defined in ORS 801.185. A title: 
+
+ (a) May be issued by Oregon or another jurisdiction; 
+
+ (b) When issued by Oregon, is issued under ORS 803.045 or as is provided in ORS 821.060; 
+
+ (c) Except where designated, does not include a "salvage title certificate," "salvage title" or "salvage certificate"; 
+
+ (d) Is not issued to vehicles that: 
+
+ (A) Are dismantled, disassembled, or substantially altered; 
+
+ (B) Are otherwise in a condition that would require the title to be surrendered to the DMV for cancellation; 
+
+ (C) Have been issued a junk title, junk certificate or similar ownership document or brand as described in OAR 735-020-0070; or 
+
+ (D) Have a junk status or similar brand, disposition, or notation when DMV queries NMVTIS as described in OAR 735-020-0070. 
+
+ (e) Follows the frame or unibody of the vehicle for which the title was originally issued. 
+
+ (5) "Dismantle" and "Disassemble" are defined in OAR 735-024-0050. 
+
+ (6) "Frame" or "Unibody" refer to the major component(s) of a vehicle that form the support structure, undercarriage or lower structure of the vehicle, excluding such things as wheels or suspension. "Frame" does not include the body of the vehicle. 
+
+ (7) "Insurer" as used in ORS 801.527 and 819.014 and in these rules, means a person engaged in the business of entering into policies of insurance. The term does not include persons who are self-insured. 
+
+ (8) “National Motor Vehicle Title Information System” or “NMVTIS” means the electronic vehicle record system described in 28 CFR Part 25, Subpart B, and operated by the American Association of Motor Vehicle Administrators. 
+
+ (9) "Primary Ownership Document" is defined in ORS 801.402 and OAR 735-020-0010. 
+
+ (10) "Proof of Compliance" means a document issued by DMV as evidence that: 
+
+ (a) The title or primary ownership document was surrendered to DMV in accordance with ORS 819.010, 819.012 or 819.014; and 
+
+ (b) The title or primary ownership document was marked, or DMV received other documentation that satisfied DMV that the vehicle was wrecked, dismantled, disassembled or totaled. 
+
+ (11) "Reconstructed Vehicle," or "reconstructed" as defined in ORS 801.405 and these rules, means either: 
+
+ (a) A vehicle that: 
+
+ (A) Has a body that resembles and primarily is a particular year model or make of vehicle; 
+
+ (B) Is not a vehicle rebuilt by a manufacturer; 
+
+ (C) Is not a vehicle built in a factory where the year model and make are assigned at the factory; and 
+
+ (D) Is not a replica; or 
+
+ (b) A motor truck that has been rebuilt using a component kit if the manufacturer of the kit assigns a vehicle identification number and provides a manufacturer's certificate of origin for the kit. 
+
+ (12) "Replica" as defined in ORS 801.425 and these rules, means a vehicle with a body built to resemble and be a reproduction of another vehicle of a given year and given manufacturer. 
+
+ (13) "Salvage Title Certificate," "Oregon Salvage Title Certificate" or "salvage title" as defined in ORS 801.454 and this rule means a written document issued by DMV under the provisions of ORS 803.140 and 819.016 as evidence of vehicle ownership. Unless designated otherwise, an Oregon Salvage Title Certificate is not a certificate of title. 
+
+ (14) "Salvage title," "salvage certificate," and "dismantler (wrecker) bill of sale" means a document issued for a vehicle to indicate the vehicle has been damaged, wrecked or salvaged or words of similar import. "Salvage title" does not refer to an Oregon salvage title certificate as defined by ORS 801.454 and this rule, unless the Oregon salvage title certificate reflects a brand that indicates the vehicle was damaged in another jurisdiction, before being titled in Oregon. 
+
+ (15) "Substantially Alter the Form" is defined in OAR 735-024-0050. 
+
+ (16) "Totaled vehicle" and "totaled" as defined in ORS 801.527 and these rules means: 
+
+ (a) A vehicle that is declared a total loss by an insurer that is obligated to cover the loss or that the insurer takes possession of or title to; 
+
+ (b) A vehicle that is stolen, if it is not recovered within 30 days of the date that it is stolen and if the loss is not covered by an insurer; or 
+
+ (c) A vehicle that has sustained damage that is not covered by an insurer and that is such that the estimated cost to repair the vehicle is equal to at least 80 percent of the retail market value of the vehicle prior to the damage. For purposes of this subsection, "retail market value" is determined utilizing publications used by financial institutions doing business in Oregon. 
+
+ (17) "Wreck" is defined in OAR 735-024-0050. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 184.619, 802.010, 803.012, 803.015, 803.140, 819.016 & 821.060 
+ 
+ 
+ Statutes/Other Implemented:  ORS 803.015, 803.420 & 28 CFR Part 25 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMV 26-2020, amend filed 07/27/2020, effective 08/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMV 4-2006, f. & cert. ef. 5-25-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMV 32-2005(Temp), f. 12-14-05, cert. ef. 1-1-06 thru 6-29-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMV 11-2005, f. 4-25-05, cert. ef. 5-1-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMV 18-2004, f. & cert. ef. 8-20-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ MV 32-1991, f. 12-30-91, cert. ef. 1-1-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

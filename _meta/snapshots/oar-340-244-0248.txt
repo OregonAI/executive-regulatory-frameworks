@@ -1,0 +1,282 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 244 OREGON FEDERAL HAZARDOUS AIR POLLUTANT PROGRAM 
+ 340-244-0248 
+ Gasoline Dispensing Facilities: Stage I Vapor Balance System
+ 
+ 
+ (1) The owner or operator of a GDF or storage tank referred to this rule, except for gasoline storage tanks with floating roofs or the equivalent, must meet each of the following management practice and equipment requirements for a Stage I vapor balance system on each gasoline storage tank: 
+
+ (a) All vapor connections and lines on the storage tank must be equipped with closures that seal upon disconnect; 
+
+ (b) The vapor line from the gasoline storage tank to the gasoline cargo tank must be vapor-tight, as defined in OAR 340-244-0232; 
+
+ (c) The Stage I vapor balance system must be designed such that the pressure in the tank truck does not exceed 18 inches water pressure or 5.9 inches water vacuum during product transfer; 
+
+ (d) The vapor recovery and product adaptors, and the method of connection with the delivery elbow, must be designed so as to prevent the over-tightening or loosening of fittings during normal delivery operations; 
+
+ (e) If a gauge well separate from the fill tube is used, it must be provided with a submerged drop tube that extends the same distance from the bottom of the storage tank as specified in OAR 340-244-0245(2); 
+
+ (f) Liquid fill and vapor return connections for all systems must be equipped with vapor-tight caps; 
+
+ (g) Pressure/vacuum (PV) vent valves must be installed on the storage tank vent pipes. The pressure specifications for PV vent valves must be a positive pressure setting of 2.5 to 6.0 inches of water and a negative pressure setting of 6.0 to 10.0 inches of water. The total leak rate of all PV vent valves at an affected facility, including connections, must not exceed 0.17 cubic foot per hour at a pressure of 2.0 inches of water and 0.63 cubic foot per hour at a vacuum of 4 inches of water; and 
+
+ (h) The vapor balance system must be capable of meeting the static pressure performance requirement of the following equation: 
+
+ 
+ Pf = 2e-500.887/v 
+
+ Where: 
+
+ Pf = Minimum allowable final pressure, inches of water. 
+
+ V = Total ullage affected by the test, in gallons. 
+
+ E = Dimensionless constant equal to approximately 2.718. 
+
+ 2 = The initial pressure, in inches water. 
+ 
+
+ (2) The owner or operator of a new GDF, a reconstructed GDF that has ever had annual throughput of 1,000,000 gallons of gasoline or more, or any new or replaced storage tank(s) at a GDF that has ever had annual throughput of 1,000,000 gallons of gasoline or more must install and operate a dual-point vapor balance system, as defined in OAR 340-244-0232, on each affected gasoline storage tank and comply with the design criteria in section (1) of this rule. The dual-point vapor balance system must be installed 
+
+ (3) The owner or operator of a cargo tank unloading at a GDF must comply with the requirements of OAR 340-244-0245(1) and must not unload gasoline into a storage tank at a GDF with a Stage I vapor balance system unless the following conditions are met: 
+
+ (a) All hoses in the vapor balance system are properly connected; 
+
+ (b) The adapters or couplers that attach to the vapor line on the storage tank have closures that seal upon disconnect; 
+
+ (c) All vapor return hoses, couplers, and adapters used in the gasoline delivery are vapor-tight; 
+
+ (d) All tank truck vapor return equipment is compatible in size and forms a vapor-tight connection with the vapor balance equipment on the GDF storage tank; 
+
+ (e) All hatches on the tank truck are closed and securely fastened; and 
+
+ (f) The filling of storage tanks at GDF must be limited to unloading by vapor-tight gasoline cargo tanks. Documentation that the cargo tank has met the specifications of EPA Method 27 must be carried on or with the cargo tank. 
+
+ (4) The owner or operator of a  gasoline storage tank referred to this rule must comply with the following requirements: 
+
+ (a) When loading a gasoline storage tank equipped with a Stage I vapor balance system, connect and ensure the proper operation of the system whenever gasoline is being loaded; 
+
+ (b) Maintain all equipment associated with the Stage I vapor balance system to be vapor tight and in good working order; 
+
+ (c) In order to ensure that the Stage I vapor balance equipment is maintained to be vapor tight and in good working order, have the vapor balance equipment inspected every six months to discover potential or actual equipment failures; and 
+
+ (d) Replace, repair or modify the affected component or design element within 24 hours after the owner or operator knows or reasonably should know of the component or design element being worn on ineffective to ensure the vapor-tight integrity and efficiency of the Stage I vapor balance system. If repair parts must be ordered, either a written or oral order for those parts must be initiated within two working days of detecting such a leak. Such repair parts must be installed within five working days after receipt. 
+
+ (5) The owner or operator of a GDF or storage tank referred to this rule must: 
+
+ (a) Maintain spill containers (buckets) for gasoline storage tanks free of liquid and solid materials; 
+
+ (b) Equip gasoline dispensing hoses with an emergency breakaway device designed to retain liquid on both sides of a breakaway point. When hoses are attached to a hose-retrieving mechanism, the emergency breakaway device must be located between the hose nozzle and the point of attachment of the host retrieval mechanism to the hose; and 
+
+ (c) Limit the maximum flow rate from each dispenser to no more than 10 gallons per minute (37.9 liters per minute). The flow rate may be controlled through any means in the pump/dispenser system, provided the flow rate limit is complied with. Any dispensing pump that is dedicated exclusively to heavy-duty vehicles, boats, or airplanes is exempt from this requirement.  
+
+ (6) In any instance in which the applicable equipment or requirements of this rule directly conflict with applicable equipment or requirements of the Enhanced Vapor Recovery rule under OAR 340-244-0246, the EVR requirements and rule -0246 will supersede this rule.  
+
+ [NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040 only for affected sources in the Portland-Vancouver, Medford-Ashland, and Salem-Keizer Area Transportation Study air quality management areas and all of Clackamas, Multnomah, and Washington counties.] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, 468A.025 & 468A.050 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468A.025 & 468A.050 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 4-2024, amend filed 03/25/2024, effective 03/25/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 7-2015, f. & cert. ef. 4-16-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 4-2013, f. & cert. ef. 3-27-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 1-2011, f. & cert. ef. 2-24-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 15-2008, f. & cert. ef 12-31-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

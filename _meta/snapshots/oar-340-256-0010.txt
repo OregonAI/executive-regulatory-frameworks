@@ -1,0 +1,550 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 256 MOTOR VEHICLES 
+ 340-256-0010 
+ Definitions
+ 
+ 
+ The definitions in OAR 340-200-0020, 340-204-0010, and this rule apply to this division. If this rule defines the same term as OAR 340-200-0020 or 340-204-0010, the definition in this rule applies in this division. 
+
+ (1) “Application Receipt Period” means the calendar days including and between September 1 and October 31 of every year that the Department will begin the process of receiving annual renewal and applications for Approved Retrofit Technology. 
+
+ (2) “Approved Retrofit Technology” means on-road Diesel Particulate Matter pollution control system that meets the criteria established in OAR 340-256-0510. 
+
+ (3) "Basic test" means an inspection and maintenance program designed to measure exhaust emission levels during an unloaded idle mode as described in OAR 340-256-0340. 
+
+ (4) “CARB” means California Air Resources Board. 
+
+ (5) “CCD” means the Commerce and Compliance Division of the Oregon Department of Transportation. 
+
+ (6) “Certificate of Approved Retrofit Compliance” means an electronic certification issued by the Department that attests that the Medium-or Truck is equipped with Approved Retrofit Technology that complies with all applicable provisions in OAR 340-256-0510 through OAR 340-256-0560. 
+
+ (7) "CO2" means a chemical formula representing the compound carbon dioxide. 
+
+ (8) "CO" means a chemical formula representing the compound carbon monoxide. 
+
+ (9) "Certificate of Compliance" means a hard copy or electronic document stating that the vehicle identified on the certificate is equipped with the required functioning motor vehicle pollution control systems and otherwise complies with the Commission's emission control criteria, standards, and rules. A certificate of compliance is issued by a Private Business Fleet Vehicle Emission Inspector, a Public Agency Fleet Vehicle Emission Inspector, a Vehicle Emissions Inspector employed by DEQ, or an Independent Contractor. 
+
+ (10) "Clean-Screening" means a procedure by which DEQ determines that a vehicle has acceptable emissions and then allows the vehicle owner to bypass the traditional emissions inspection station test. DEQ's decision may be the result of remotely sensing the emissions, the status of emissions equipment, or another means determined by DEQ. 
+
+ (11) "Commission" means the Environmental Quality Commission. 
+
+ (12) “Component Swapping” means moving components of an Approved Retrofit Technology from the Medium or Heavy-duty Truck on which it was originally installed to another Medium- or Heavy-duty Truck in compliance with OAR 340-256-0560. 
+
+ (13) "Dealer" means any person who is engaged wholly or in part in the business of buying, selling, or exchanging, either outright or on conditional sale, bailment lease, chattel mortgage, or otherwise, motor vehicles. 
+
+ (14) "Dealership" means a business involved in the sale of vehicles that is franchised with an automobile manufacturer as defined in ORS 650.120(9). 
+
+ (15) "DEQ" means the Department of Environmental Quality. 
+
+ (16) “Diesel Engine” means a compression ignition engine. 
+
+ (17) "Diesel motor vehicle" means a motor vehicle powered by a stratified charge compression-ignition internal combustion engine. 
+
+ (18) “Diesel Particulate Matter” means the particles found in the exhaust of a Diesel Engine. 
+
+ (19) "Director" means the director of DEQ. 
+
+ (20) "DMV" means the Driver and Motor Vehicle Services Division of the Oregon Department of Transportation. 
+
+ (21) “Emissions” means gas or vapor released to the atmosphere from a motor vehicle component or resulting from fuel combustion within a motor vehicle engine. 
+
+ (22) "Emissions Inspection Station" means a facility, operated by DEQ or an Independent Contractor, for the purpose of conducting emissions inspections of vehicles required to be inspected under this Division. 
+
+ (23) "EPA" means the United States Environmental Protection Agency. 
+
+ (24) "Exhaust emissions" means substances emitted into the atmosphere from any opening downstream of the exhaust ports of a motor vehicle engine. 
+
+ (25) "Factory-installed motor vehicle pollution control system" means a motor vehicle pollution control system installed by the vehicle or engine manufacturer to comply with United States motor vehicle emission control laws and regulations published in the Code of Federal Regulations, 40 C.F.R. Parts 85 and 86. 
+
+ (26) “Franchised” means a sale entity licensed by the DMV and under an agreement as defined in ORS 650.120(5) to sell motor vehicles. 
+
+ (27) “Fleet participant” means a person who has applied for and been approved to conduct remote OBD testing for a fleet of vehicles as described in OAR 340-265-0469 
+
+ (28) "Gas analytical system" means a device that measures the amount of contaminants in the exhaust emissions of a motor vehicle and that has been issued a license by DEQ under OAR 340-256-0450 and ORS 468A.380. 
+
+ (29) "Gaseous fuel" includes, but is not limited to, liquefied petroleum gases and natural gases in liquefied or gaseous forms. 
+
+ (30) "Gasoline motor vehicle" means a motor vehicle powered by a spark-ignition internal combustion engine. 
+
+ (31) "Gross vehicle weight rating" or "GVWR" means the value specified by the manufacturer as the maximum design loaded weight of a vehicle. 
+
+ (32) "Heavy-duty motor vehicle" means any motor vehicle with a GVWR greater than 8,500 pounds. 
+
+ (33) “Heavy-duty Truck” means a Diesel Motor Vehicle, or combination of Diesel Motor Vehicles operated as a unit, that has or have a gross vehicle weight rating that is greater than 26,000 pounds. 
+
+ (34) “HC” is an abbreviation that means hydrocarbon. 
+
+ (35) “Host participant” means a person who has applied for and been approved to conduct remote OBD testing as described in OAR 340-256-0467 
+
+ (36) "Hydrocarbon" means a class of chemical compounds consisting of hydrogen and carbon. 
+
+ (37) "Idle speed" means the engine speed when accelerator pedal is fully released. 
+
+ (38) “Imported vehicle” means a vehicle legally imported from another country through channels other than the maker's official distribution system. 
+
+ (39) "Independent Contractor" means any person with whom DEQ enters into an agreement providing for the construction, equipment, maintenance, personnel, management or operation of emissions inspection stations or activities under ORS 468A.370 and these rules. 
+
+ (40) "Inspection and Maintenance Program or I/M Program” means a program of conducting regular inspections of motor vehicles, including measurement of air contaminants in the motor vehicle exhaust and an inspection of the motor vehicle pollution control system, to identify vehicles that do not meet the standards of this Division or that have malfunctioning, maladjusted or missing motor vehicle pollution control systems, and, when necessary, of requiring the repair or adjustment of vehicles to make the motor vehicle pollution control systems function as intended and to reduce tailpipe emissions of air contaminants. 
+
+ (41) "In-use motor vehicle" means any motor vehicle that is not a new motor vehicle. 
+
+ (42) "Light-duty motor vehicle" means any motor vehicle with a GVWR of 8,500 pounds or less. 
+
+ (43) “Medium-duty Truck” means a Diesel Motor Vehicle, or combination of Diesel Motor Vehicles operated as a unit, that has or have a gross vehicle weight rating that is greater than 14,000 pounds but less than or equal to 26,000 pounds. 
+
+ (44) "Model year" means the annual production period of new motor vehicles or new motor vehicle engines designated by the calendar year in which such period ends. If the manufacturer does not designate a production period, the model year with respect to such vehicles or engines means the 12-month period beginning January of the year in which production of the vehicle or engine begins. 
+
+ (45) "Motor vehicle" or “vehicle” means any self-propelled vehicle used for transporting persons or commodities on public roads. 
+
+ (46) "Motor vehicle pollution control system" means equipment designed for installation on a motor vehicle for the purpose of reducing the pollutants emitted from the vehicle, or a system or engine adjustment or modification that causes a reduction of pollutants emitted from the vehicle, or a system or device that inhibits the introduction of fuels that can adversely affect the overall motor vehicle pollution control system. 
+
+ (47) "Motor Vehicle Fleet Operation" means ownership, control, management or any combination thereof, by any person, of five or more motor vehicles. 
+
+ (48) "New motor vehicle" means a motor vehicle whose equitable or legal title has never been transferred to a person who, in good faith, purchases the motor vehicle for purposes other than resale. 
+
+ (49) "OBD" and “OBD-II” means the On Board Diagnostic system in a vehicle that tracks the effectiveness of the motor vehicle's pollution control system. 
+
+ (50) "OBD Test" means an emissions test that downloads diagnostic information from the vehicle's OBD computer to evaluate the effectiveness of the motor vehicle pollution control system. 
+
+ (51) "On-Site Vehicle Test" means an emissions test conducted at the vehicle owner's location. 
+
+ (52) "Owner" means the person having all the incidents of ownership in a vehicle. Where the incidents of ownership are in different persons, it means the person, other than a security interest holder or lessor, entitled to the possession of a vehicle under a security agreement or a lease for a term of 10 or more successive days. 
+
+ (53) "Opacity" means the degree to which transmitted light is obscured, expressed in percent. 
+
+ (54) “Periodic Verification Process” means the ongoing requirement to provide proof of Approved Retrofit Technology maintenance and operation to the Department to maintain the validity of a Certificate of Approved Retrofit Compliance. 
+
+ (55) “Permanent Fleet Vehicle” means a motor vehicle that the Oregon Department of Transportation identifies with permanent fleet tags, stickers, plates or other identification ODOT determines appropriate. 
+
+ (56) "Person" means an individual, public or private corporation, political subdivision, agency, board, department, or bureau of the state, municipality, partnership, association, firm, trust, estate, or any other legal entity whatsoever that is recognized by law as the subject of rights and duties. 
+
+ (57) "PPM" means parts per million by volume. 
+
+ (58) "Private Business Fleet" means a group of 100 or more Oregon-registered, in-use, motor vehicles that are owned by any person, excluding those vehicles held primarily for the purpose of resale. 
+
+ (59 ) "Private Business Fleet Vehicle Emissions Inspector" means any person employed on a full-time basis by a Private Business Fleet who possesses a current and valid license issued by DEQ under OAR 340-256-0440 and ORS 468A.380. 
+
+ (60) "Public Agency Fleet" means a group of 50 or more government-owned vehicles registered under ORS 805.040. 
+
+ (61) "Public Agency Fleet Vehicle Emissions Inspector" means any person employed on a full-time basis by a Public Agency Fleet that possesses a current and valid license issued by DEQ under OAR 340-256-0440 and ORS 468A.380. 
+
+ (62) "Public roads" means any street, alley, road, highway, freeway, thoroughfare, or section thereof used by the public, or dedicated or appropriated to public use. 
+
+ (63) “Re-Designation” means the complete removal of an Approved Retrofit Technology from the Medium or Heavy-duty Truck on which it was original installed and the subsequent transfer of the Approved Retrofit Technology to another Medium or Heavy-duty Truck within the person’s commonly owned fleet in compliance with OAR 340-256-0560. 
+
+ (64) "Regional Authority" means a regional air quality control authority established under the provisions of ORS 468A.005 to 468A.035, 468A.075, 468A.100 to 468A.130, and 468A.140 to 468A.175. 
+
+ (65) "Remote Sensing" means a technique for determining the level of a vehicle's emissions without connecting equipment directly to the vehicle, done either by optically measuring the pollutants in the vehicle's exhaust plume, by remotely receiving a vehicle's emissions diagnostic information, or by other means determined by DEQ. 
+
+ (66) "Ringlemann Smoke Chart" means the Ringlemann Smoke Chart with instructions for use as published in May 1967, by the U.S. Department of Interior, Bureau of Mines, Information circular 8333. 
+
+ (67) "RPM" means engine crankshaft revolutions per minute. 
+
+ (68) "Self-Service Test" means a procedure for vehicle testing offered by DEQ where the vehicle owner or driver can perform an emissions test on the vehicle at a facility provided by DEQ using remote sensing, plug-in OBD emissions testing, or other means designated by DEQ. 
+
+ (69) “Test equipment” means equipment that must contain the standard terminal Diagnostic Link Connector for OBD systems and be capable of operating as described in 340-256-0465 
+
+ (70) "Vehicle Emission Inspector" means any person employed by the Department or an Independent Contractor who possesses a current and valid license issued by the Department under OAR 340-256-0440 and ORS 468A.380. 
+
+ (71) “VIN” or “Vehicle Identification Number” means a unique code including a serial number that identifies a specific vehicle. 
+
+ (72) “VIP” means DEQ’s Vehicle Inspection Program established under this division. 
+
+ (73) "Visible emissions" means those gases or particulates, excluding uncombined water, that separately or in combination are visible upon release to the outdoor atmosphere. 
+
+ 
+ [NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.] 
+ 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468A.360, ORS 468A.810 & ORS 468.020 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468A.350 - 468A.400 & 468A.810 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 3-2025, amend filed 01/10/2025, effective 01/10/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 11-2021, amend filed 07/23/2021, effective 07/23/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 21-2020, amend filed 11/19/2020, effective 11/19/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 7-2005, f. & cert. ef. 7-12-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 14-2003, f. & cert. ef. 10-24-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 11-2001, f. & cert. ef. 10-4-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 17-2000, f. & cert. ef. 10-25-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-024-0005 & 340-024-0305 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 25-1996, f. & cert. ef. 11-26-96 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 15-1994, f. 6-8-94, cert. ef. 7-1-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 4-1993, f. & cert. ef. 3-10-93 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 23-1984, f. 11-19-84, ef. 4-1-85 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 12-1982, f. & ef. 7-21-82 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 18-1980, f. & ef. 6-25-80 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 22-1979, f. & ef. 7-5-79 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 9-1978, f. & ef. 7-7-78 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 139, f. 6-30-77, ef. 7-1-77 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 89, f. 4-22-75, ef. 5-25-75 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 4-1993, f. & cert. ef. 3-10-93 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 8, f. 4-7-70, ef. 5-11-70 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

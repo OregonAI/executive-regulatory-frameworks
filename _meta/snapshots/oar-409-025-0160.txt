@@ -1,0 +1,303 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Policy and Analytics - Chapter 409 
+ 
+ 
+ 
+ 
+ Division 25 ALL PAYER ALL CLAIMS DATA REPORTING PROGRAM 
+ 409-025-0160 
+ Data Access and Release
+ 
+ 
+ (1) The Authority shall comply with all relevant state and federal data privacy, security, and antitrust regulations, including The Health Insurance Portability and Accountability Act (HIPAA), when sharing APAC data. 
+(2) The Authority may collect payment to recoup costs when APAC data requests are fulfilled. 
+(3) The Authority shall provide a public use data set, which shall include de-identified member health information, in compliance with applicable Authority policies and state and federal rules, regulations, and statutes. 
+(a) The Authority shall maintain a list of data elements included in APAC public use data sets. 
+(b) Requestors seeking access to an APAC public use data set shall complete a Public Use Data File Application (APAC-2). Payment is required as follows: 
+(A) Actual cost with a maximum cost of $500 per data year for Medical Claims; 
+(B) Actual cost with a maximum cost of $500 per data year for Pharmacy Claims; 
+(C) Actual cost with a maximum cost of $500 per data year for Dental Claims; and 
+(D) Enrollment file requested in conjunction with Medical, Pharmacy or Dental Claims will be provided without additional charge. 
+(c) The Authority may approve or deny the completed request and provide written notification to the requestor within 30 calendar days of receipt of the request. 
+(d) The Authority shall deny the completed request for reasons which include, but are not limited to: 
+(A) Requestor or any person who will have access to the data has previously violated a data use agreement with the Authority. 
+(B) The Authority finds that the specific details of the request do not sufficiently explain the proposed use. 
+(C) The Authority finds that the specific details of the request violate any state or federal rule, regulation, or statute. 
+(D) Full payment is not included with the application or received within thirty (30) days of invoicing. 
+(e) If the Authority denies the Public Use Application (APAC-2): 
+(A) The Authority shall provide written notification stating the reason for the denial and process return of payment; and 
+(B) The requestor may appeal the denial by requesting a contested case hearing. The appeal must be filed within 30 business days of the denial. The appeal process is conducted pursuant to ORS chapter 183 and the Attorney General’s Uniform and Model Rules of Procedure, OAR 137-003-0501 to 137-003-0700. The requestor shall have the burden to prove that the Authority unreasonably denied the application. 
+(f) The public use data sets may not be used to identify any individual, including members or subscribers. The requestor may not use outside information to attempt to ascertain the identity of individuals who are the subject of public use data sets. 
+(g) Provider information will be reviewed for information that may be considered personally identifiable information.  
+(A) If a taxpayer identification number is determined to be a social security number, such information shall not be released.  
+(B) Information already available to the public including published licensing data or public-facing data from the National Plan & Provider Enumeration System shall not be considered personally identifiable information. 
+(4) The Authority shall provide limited data sets, in compliance with applicable Authority policies and state and federal rules, regulations, and statutes. Limited data sets may include protected health information. 
+(a) The Authority shall maintain a list of data elements that may be included in APAC limited data sets if approved for a specific request. 
+(b) APAC limited data sets may be disclosed for purposes allowed by state and federal regulations, including research, public health, and health care operations. 
+(c) Requestors seeking access to APAC limited data sets shall complete the Application for APAC Data Files (APAC-3). 
+(d) Requestors must identify each data element requested and explain the use of the data element within the description of activity in the application. The Authority will determine which data elements will be released after review under HIPAA and other applicable laws, regulations, and rules. 
+(e) The Authority shall determine the hours required to complete the data request and inform the requestor of the cost of the resulting data set. 
+(5) The Authority shall provide data, in compliance with applicable Authority policies and state and federal rules, regulations and statutes, to Oregon state agencies and local public health authorities. Use is limited to activities required to meet the agency’s duties as authorized by Oregon law. 
+(a) Agency-use data sets may include protected health information. 
+(b) Requestors seeking access to APAC agency data sets shall complete the Application for Agency Data Files and must explain use of each data element requested. 
+(c) Agency requests will be posted on the Data Review Committee for a minimum of two weeks to support transparency in data use. 
+(6) Requests for public use data set or limited data sets must be made using the form and manner prescribed by the Authority that is available on the agency’s website. The form shall collect sufficient information to evaluate any request for APAC data. 
+(7) Requestors who receive a limited data set must maintain Institutional Review Board (IRB) approval, if required for the data use agreement, throughout the span of authorized use of the data and until the data is destroyed. Requestors must submit updated documentation authorizing continued activity prior to the expiration of the previous authorization. 
+(8) Requesters who receive a limited data set must submit an amendment to the Authority when there is a change in the proposed use of the data within the scope of the original data request. 
+(a) Requestors shall file such an amendment when any of the following is anticipated: 
+(A) A change in persons accessing the data; 
+(B) Additional data elements are requested; 
+(C) Additional years of data are requested; 
+(D) Any change in the use of the data including linking or the addition of research questions; or 
+(E) Any change in research protocol, regardless of approval by an IRB. 
+(b) Changes or additions to use that are outside of the scope of the original data request will not be approved. 
+(c) Requestors may not implement any change related to access or use of data prior to receiving approval from the Authority. 
+(d) Changes in data elements, data use or research protocol must be reviewed by the Data Review Committee (DRC) described in OAR 409-025-0190. In addition, a recommendation by the DRC may be sought for additional years of data or new project staff for limited data sets the Authority determines to include vulnerable populations. 
+(e) The Authority shall review for completeness all applications and provide requestors written notification of completeness within 30 calendar days of receipt of the request. If the Authority determines that the application is incomplete, the requestor shall have 30 calendar days from notification of incompleteness to complete the application. Incomplete applications that are not completed shall be discarded without further notification to the requestor. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 442.373 
+ 
+ 
+ Statutes/Other Implemented:  ORS 442.373 & ORS 442.372 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 4-2023, amend filed 12/01/2023, effective 12/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 5-2022, amend filed 08/23/2022, effective 08/23/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 3-2021, amend filed 09/02/2021, effective 09/02/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 1-2019, amend filed 05/30/2019, effective 07/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 1-2016, f. & cert. ef. 1-5-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 2-2013, f. 1-24-13, cert. ef. 2-1-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 4-2012, f. 5-23-12, cert. ef. 6-1-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 1-2010, f. 2-26-10, cert. ef. 3-1-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

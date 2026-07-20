@@ -1,0 +1,185 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Insurance Regulation - Chapter 836 
+ 
+ 
+ 
+ 
+ Division 12 CREDIT FOR REINSURANCE 
+ 836-012-0310 
+ Accounting Requirements 
+ 
+ (1) An insurer that is subject to OAR 836-012-0300 to 836-012-332 shall not, for reinsurance ceded, reduce any liability or establish any asset in any financial statement filed with the Director if by the terms of the reinsurance agreement, in substance or effect, one or more of the following conditions exist:  (a) Renewal expense allowances provided or to be provided to the ceding insurer by the reinsurer in any accounting period are not sufficient to cover anticipated allocable renewal expenses of the ceding insurer on the portion of the business reinsured, unless a liability is established for the present value of the shortfall (using assumptions equal to the applicable statutory reserve basis on the business reinsured). Those expenses include commissions, premium taxes and direct expenses, including but not limited to expenses for billing, valuation, claims and maintenance expected by the ceding insurer at the time the business is reinsured;  (b) The ceding insurer is required to reimburse the reinsurer for negative experience under the reinsurance agreement, except that neither offsetting experience refunds against current and prior years' losses under the agreement nor payment by the ceding insurer of an amount equal to current and prior years' losses under the agreement upon voluntary termination of in-force reinsurance by the ceding insurer shall be considered such a reimbursement to the reinsurer for negative experience. Voluntary termination does not include situations in which termination occurs because of unreasonable provisions that allow the reinsurer to reduce its risk under the agreement. An example of such a provision is the right of the reinsurer to increase reinsurance premiums or risk and expense charges to excessive levels, forcing the ceding insurer to prematurely terminate the reinsurance treaty;  (c) The ceding insurer can be deprived of surplus or assets at the reinsurer's option or automatically upon the occurrence of some event, such as the insolvency of the ceding insurer, except that termination of the reinsurance agreement by the reinsurer for non-payment of reinsurance premiums or other amounts due, such as modified coinsurance reserve adjustments, interest and adjustments on funds withheld and tax reimbursements, shall not be considered to be such a deprivation of surplus or assets;  (d) The ceding insurer, at specific points in time scheduled in the agreement, must terminate or automatically recapture all or part of the reinsurance ceded;  (e) The reinsurance agreement involves the possible payment by the ceding insurer to the reinsurer of amounts other than from income realized from the reinsured policies. For example, it is improper for a ceding insurer to pay reinsurance premiums or other fees or charges to a reinsurer that are greater than the direct premiums collected by the ceding insurer;  (f) The treaty does not transfer all of the significant risk inherent in the business being reinsured. The following table in this subsection identifies, for a representative sampling of products or type of business, the risks that are considered to be significant. For products not specifically included, the risks determined to be significant must be consistent with this table. The risk categories are as follows:  (A) Morbidity;  (B) Mortality;  (C) Lapse, which is the risk that a policy will voluntarily terminate prior to the recoupment of a statutory surplus strain experienced at issue of the policy;  (D) Credit Quality (C1), which is the risk that invested assets supporting the reinsured business will decrease in value. The main hazards are that assets will default or that there will be a decrease in earning power. Credit quality excludes market value declines due to changes in interest rate;  (E) Reinvestment (C3), which is the risk that interest rates will fall and funds reinvested (coupon payments or monies received upon asset maturity or call) will therefore earn less than expected. If asset durations are less than liability durations, the mismatch will increase;  (F) Disintermediation (C3), which is the risk that interest rates rise and policy loans and surrenders increase or maturing contracts do not renew at anticipated rates of renewal. If asset durations are greater than the liability durations, the mismatch will increase. Policyholders will move their funds into new products offering higher rates. The insurer may have to sell assets at a loss to provide for these withdrawals.  For purposes of the following chart: + - Significant 0 - Insignificant  RISK CATEGORY A B C D E F  Health Insurance - other than long + 0 + 0 0 0  term care insurance and long term  disability insurance  Health Insurance - long term care + 0 + + + 0  insurance and long term disability  insurance  Immediate Annuities 0 + 0 + + 0  Single Premium Deferred Annuities 0 0 + + + +  Flexible Premium Deferred Annuities 0 0 + + + +  Guaranteed Interest Contracts 0 0 0 + + +  Other Annuity Deposit Business 0 0 + + + +  Single Premium Whole Life 0 + + + + +  Traditional Non-Par Permanent 0 + + + + +  Traditional Non-Par Term 0 + + 0 0 0  Traditional Par Permanent 0 + + + + +  Traditional Par Term 0 + + 0 0 0  Adjustable Premium Permanent 0 + + + + +  Indeterminate Premium Permanent 0 + + + + +  Universal Life Flexible Premium 0 + + + + +  Universal Life Fixed Premium 0 + + + + +  Universal Life Fixed Premium 0 + + + + +  dump-in premiums allowed  (g)(A) The credit quality, reinvestment or disintermediation risk is significant for the business reinsured and the ceding insurer does not (other than for the classes of business excepted in paragraph (B) of this subsection (g) either transfer the underlying assets to the reinsurer or legally segregate such assets in a trust or escrow account or otherwise establish a mechanism satisfactory to the Director that legally segregates, by contract or contract provision, the underlying assets;  (B) Notwithstanding the requirements of paragraph (A) of this subsection (g), the assets supporting the reserves for the following classes of business and any classes of business that do not have a significant credit quality, reinvestment or disintermediation risk may be held by the ceding insurer without segregation of such assets:  (i) Health Insurance — long term care insurance and long term disability insurance;  (ii) Traditional Non-Par Permanent;  (iii) Traditional Par Permanent;  (iv) Adjustable Premium Permanent;  (v) Indeterminate Premium Permanent; and  (vi) Universal Life Fixed Premium, (no dump-in premiums allowed).  (C) For assets that are not legally segregated, the associated formula for determining the reserve interest rate adjustment must reflect the ceding insurer's investment earnings and incorporates all realized and unrealized gains and losses reflected in the statutory statement. The following is an acceptable formula:  Rate = 2 (I + CG)  X + Y - I - CG  When: I is the net investment income;  CG is capital gains less capital losses;  X is the current year cash and invested assets plus   investment income due and accrued less borrowed   money; and  Y is the same as X but for the prior year.  (h) Settlements are made less frequently than quarterly or payments due from the reinsurer are not made in cash within 90 days of the settlement date;  (i) The ceding insurer is required to make representations or warranties not reasonably related to the business being reinsured;  (j) The ceding insurer is required to make representations or warranties about future performance of the business being reinsured; or  (k) The reinsurance agreement is entered into for the principal purpose of producing significant surplus aid for the ceding insurer, typically on a temporary basis, while not transferring all of the significant risks inherent in the business reinsured and, in substance or effect, the expected potential liability to the ceding insurer remains basically unchanged.  (2) Notwithstanding section (1) of this rule, with the prior approval of the Director, an insurer that is subject to OAR 836-012-0300 to 836-012-332 may take such reserve credit or establish such asset as the Director determines to be consistent with the Insurance Code or rules adopted thereunder, including actuarial interpretations or standards adopted by the Director.  (3)(a) An agreement entered into on or after November 9, 1995, that involves the reinsurance of business issued prior to the effective date of the agreement, along with any subsequent amendments thereto, shall be filed by the ceding insurer with the Director not later than the 30th day after its date of execution. Each filing must include data detailing the financial effect of the transaction. The ceding insurer's actuary who signs the financial statement actuarial opinion with respect to valuation of reserves shall consider OAR 836-012-0300 to 836-012-332 and any applicable actuarial standards of practice when determining the proper credit in financial statements filed with the Director. The actuary shall maintain adequate documentation and be prepared upon request to describe the actuarial work performed for inclusion in the financial statements and to demonstrate that such work conforms to OAR 836-012-0300 to 836-012-0332.  (b) Any increase in surplus net of federal income tax resulting from arrangements described in subsection (a) of this section shall be identified separately on the insurer's statutory financial statement as a surplus item (aggregate write-ins for gains and losses in surplus in the Capital and Surplus Account) and recognition of the surplus increase as income must be reflected on a net of tax basis in the "Reinsurance ceded" line, as earnings emerge from the business reinsured. The following example applies to this subsection:  (A) On the last day of calendar year N, company XYZ pays a $20 million initial commission and expense allowance to company ABC for reinsuring an existing block of business. Assuming a 34% tax rate, the net increase in surplus at inception is $13.2 million ($20 million - $6.8 million) that is reported on the "Aggregate write-ins for gains and losses in surplus" line in the Capital and Surplus account. $6.8 million (34% of $20 million) is reported as income on the "Commissions and expense allowances on reinsurance ceded" line of the Summary of Operations;  (B) At the end of year N+1 the business has earned $4 million. ABC has paid $.5 million in profit and risk charges in arrears for the year and has received a $1 million experience refund. Company ABC's annual statement would report $1.65 million (66% of ($4 million - $1 million - $.5 million) up to a maximum of $13.2 million) on the "Commissions and expense allowance on reinsurance ceded" line of the Summary of Operations, and -$1.65 million on the "Aggregate write-ins for gains and losses in surplus" line of the Capital and Surplus account. The experience refund would be reported separately as a miscellaneous income item in the Summary of Operations. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 731.244 & 731.508 
+ 
+ 
+ Statutes/Other Implemented:  ORS 731.508(6) 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ ID 4-2010, f. & cert. ef. 2-5-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ID 7-1995, f. & cert. ef. 11-15-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ID 8-1993, f. & cert. ef. 9-23-93 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

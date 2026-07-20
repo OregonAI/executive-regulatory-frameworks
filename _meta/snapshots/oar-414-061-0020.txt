@@ -1,0 +1,487 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Early Learning and Care 
+ Chapter 414 
+ 
+ 
+ 
+ 
+ 
+ Division 61 CENTRAL BACKGROUND REGISTRY 
+ 414-061-0020 
+ Definitions
+ 
+ 
+ (1) "Adult protective services history” means information about whether the subject individual has a substantiated finding of abuse or neglect in an adult abuse investigation conducted by the Oregon Department of Human Services or its contractor or designee, or similar information held by another state, county, municipal or other governmental entity or its contractor or designee. 
+
+ (2) “Adult protective services check” means a certification by the subject individual of the presence or absence of a substantiated finding of abuse or neglect in an adult abuse investigation, or obtaining and reviewing adult protective services records from appropriate governmental authority, its designee or contractor as required or permitted by these rules . 
+
+ (3) "Agency Agreement" means the written agreement between the Oregon State Police (OSP) and the Department. 
+
+ (4) “Caretaker Relative” is an individual related to the child by biology, marriage or adoption, including the former spouse of a relative who resides in the same household with and has primary responsibility for a child needing care. 
+
+ (5) “Central Background Registry” or “CBR” means the registry established and operated pursuant to ORS 329A.030 (6)(a). 
+
+ (6) "Child Abuse and Neglect Records" means information on child abuse and neglect cases conducted by the Oregon Department of Human Services or its contractor or designee, or similar information held by another state, county, municipal or other governmental entity or its contractor or designee. 
+
+ (7) “Child Abuse and Neglect Records Check” means obtaining and reviewing child abuse and neglect reports and records as required or permitted by these rules. 
+
+ (8)  “Child Care Licensing Division” or “CCLD” is the division within the Department of Early Learning and Care formerly known as the Office of Child Care (OCC). For the purposes of these rules, an act or agreement by OCC is an act or agreement of CCLD.  
+
+ (9) "Computerized Criminal History (CCH) System" means the on-line computer files of significant criminal offender information maintained by the Oregon State Police (OSP). 
+
+ (10) "Conditional Enrollment" means enrollment in the CBR pursuant to ORS 329A.030(6)(a). 
+
+ (11) "Criminal Records" means information, including fingerprints and photographs, received, compiled, and disseminated by the Oregon State Police, or by other states or jurisdictions, for purposes of identifying criminal offenders and alleged offenders and maintained as to such persons' records of arrest, the nature and disposition of criminal charges, sentencing, confinement, and release and includes the OSP Computerized Criminal History System. 
+
+ (12) "Criminal Records Check" means obtaining and reviewing criminal records as required or permitted by these rules and includes any or all of the following; 
+
+ (a) A check of Oregon criminal records and driving records conducted through use of the Law Enforcement Data System (LEDS) maintained by OSP, in accordance with the rules adopted and procedures established by OSP; 
+
+ (b) A check of Oregon criminal records, including through fingerprint identification or other means, conducted by OSP at the authorized agency or district’s request; 
+
+ (c) A nationwide check of criminal records, including through fingerprint identification, conducted by OSP through the Federal Bureau of Investigation (FBI); 
+
+ (d) A check of criminal records repositories maintained by any state or jurisdiction, including through fingerprint identification or name-based identification; 
+
+ (e) A check of the National Criminal Information Center’s National Sex Offender Registry (NSOR); 
+
+ (f) A check of a sex offender registry maintained by any state or jurisdiction; or 
+
+ (g) A check of Oregon Judicial Department’s OJCIN/OECI which includes court case information for Oregon’s 36 judicial districts. 
+
+ (13) “DHS Background Check” means a background check completed pursuant to OAR 125-007-0200 through 125-007-0330 and OAR 407-007-0200 through 407-007-0370 on or before June 30, 2023. 
+
+ (14) "Early Childhood Care and Education Program" means a regulated child care facility, federally-funded Head Start program, Oregon Department of Education funded pre-kindergarten program, parent-as-teacher program, or early childhood special education/early intervention program. 
+
+ (15) “ERDC” means Employment Related Day Care benefits which a child care provider may be approved to receive pursuant to OAR 461-165-0180. 
+
+ (16)  “Early Learning Division” is the division formerly within the Department of Education that is referenced to as the Department of Early Learning and Care on or after July 1, 2023. 
+
+ (17) "Early Learning Program" means a preschool provider referenced in ORS 329.172(3) that has applied to participate in the preschool program described in that section. 
+
+ (18) "Employee" means any individual caring for, overseeing, or who has or may have access to children, who holds a paid position in a requesting agency. 
+
+ (19) "Employee of the Department of Early Learning and Care" means any individual employed by the Department of Early Learning and Care. 
+
+ (20) "Enrollment" means approval for a five -year period to be enrolled in the Central Background Registry following an OSP criminal records check, child abuse and neglect records check, checks of adult protective services and foster care certification, and an FBI records check. 
+
+ (21) "Fee" means the charges assessed by the subject individual for processing each criminal records check and/or fingerprint-based criminal records check. 
+
+ (22) "FBI" means the Federal Bureau of Investigation. 
+
+ (23) “Fingerprint-Based Criminal Records” means criminal offender information compiled and maintained by the Federal Bureau of Investigation. 
+
+ (24) “Foster Care Certification History” means information and records regarding the status of any application for or approval of the Oregon Department of Human Services permitting the subject individual to provide foster care, or similar information held by another state, county, municipal or other governmental authorities or their contractors or designees. 
+
+ (25) “Foster care certification check” means a certification by the subject individual of the presence or absence of any negative action taken on their foster care certification by appropriate governmental authority, or obtaining and reviewing foster care from appropriate governmental authority, its designee or contractor as required or permitted by these rules. 
+
+ (26) "Incident" means the commission of a Category I or Category II crime, child abuse and neglect history, negative foster care history, or a substantiated finding of adult abuse or neglect. 
+
+ (27) “Limited enrollment” means: 
+
+ (a) An enrollment in the CBR for a subject individual that is subject to a restriction or condition agreed to in writing by the subject individual and the Department; or 
+
+ (b) An enrollment that does not allow unsupervised access to child care children for a subject individual who meets all of the following criteria: 
+
+ (A) The subject individual is a household member of a subsidized care facility that is not registered or certified by the Department; 
+
+ (B) The subject individual does not have a conviction for a disqualifying crime listed in 45 CFR 98.43(c); 
+
+ (C) The subject individual is the parent or a caretaker relative for a child needing care; and 
+
+ (D) The child care is needed for the parent or caretaker relative to participate in the JOBS program or they are eligible for the ERDC subsidy program. 
+
+ (28) “OCC” means the agency previously referred to as the Office of Child Care and, on or after July 1, 2023, reffered to as the Child Care Licensing Division of the Department of Early Learning and Care. 
+
+ (29) "OSP" means the Oregon State Police. 
+
+ (30) “Preschool Recorded Program” means a facility providing care for preschool age children that is primarily educational for four hours or less per day and where no preschool child is present at the facility for more than four hours per day. 
+
+ (31) “Reciprocal Agreement Program” includes: 
+
+ (a) A metropolitan service district organized under ORS chapter 268; and 
+
+ (b) A private agency or organization facilitating the provision of respite services, as defined in ORS 418.205, for parents pursuant to a properly executed power of attorney under ORS 109.056. 
+
+ (32) "Requesting Agency" means a childhood care and education program or individual providing care to children that is: 
+
+ (a) Regulated by the Department under ORS 329A.280 or 329A.330; 
+
+ (b) An early childhood care and education program; 
+
+ (c) A Preschool or a School Age Recorded Program; or 
+
+ (d) A Subsidized Care Facility as defined in these rules. 
+
+ (33) “School Age Recorded Program” means a program as described in ORS 329A.250 (12) through (14). 
+
+ (34) “Subsidized Care” means the care, supervision and guidance on a regular basis of a child, unaccompanied by a parent, guardian or custodian, provided to a child during a part of the 24 hours of a day, paid for in whole or in part by public funds administered by the Oregon Department of Early Learning and Care. 
+
+ (35) “Subsidized Care Facility” means any facility approved by either the Oregon Department of Human Services (ODHS) or the Oregon Department of Early Learning and Care (DELC) to provide subsidized care to children for which payment for child care is made directly by ODHS or DELC to the provider and does not include any facility providing care paid for in whole or in part by public funds when none of the public funds are administered by either ODHS or DELC.   
+
+ (36) "Unsupervised Contact with Children" means contact with children that provides the person opportunity for personal communication or touch when not under the direct supervision of an individual who holds a position with supervisory authority and holds an active enrollment in the CBR that is not a Limited Enrollment as defined by these rules. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 329A.030(7) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 329A.030 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DELC 13-2024, amend filed 02/28/2024, effective 02/28/2024 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DELC 12-2023, temporary amend filed 09/28/2023, effective 09/28/2023 through 03/25/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ELD 26-2022, amend filed 12/16/2022, effective 12/16/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ELD 8-2022, temporary amend filed 07/01/2022, effective 07/01/2022 through 12/27/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ELD 6-2020, amend filed 06/30/2020, effective 06/30/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ELD 18-2019, amend filed 08/13/2019, effective 08/13/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ELD 15-2019, temporary amend filed 05/30/2019, effective 05/30/2019 through 11/25/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ELD 10-2019, amend filed 03/28/2019, effective 03/28/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ELD 21-2018, temporary amend filed 11/01/2018, effective 11/01/2018 through 04/28/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ELD 3-2018, amend filed 02/08/2018, effective 09/30/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ELD 7-2016, f. & cert. ef. 12-19-16 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ELD 3-2015, f. & cert. ef. 2-3-15 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CCD 1-2010, f. 6-29-10, cert. ef. 7-1-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CCD 1-2009(Temp), f. 12-30-09, cert. ef. 1-1-10 thru 6-30-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CCD 2-2003, f. 12-5-03 cert. ef. 12-7-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CCD 1-1998, f. 9-30-98, cert. ef. 10-1-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

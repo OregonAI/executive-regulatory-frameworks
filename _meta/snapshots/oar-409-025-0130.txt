@@ -1,0 +1,272 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Policy and Analytics - Chapter 409 
+ 
+ 
+ 
+ 
+ Division 25 ALL PAYER ALL CLAIMS DATA REPORTING PROGRAM 
+ 409-025-0130 
+ Data Submission Requirements
+ 
+ 
+ (1) Mandatory reporters shall submit data files as specified in the Data Submission Schedule. Voluntary reporters may consult with the Authority to submit healthcare claims data files on an alternative schedule. 
+(2) Mandatory and voluntary reporters shall submit data files directly to the data vendor unless otherwise specified by the Authority. Each mandatory reporter is required to maintain an active user in the data vendor’s reporting portal to receive communications on deadlines and submit files and resolve validation issues in a timely manner. 
+(3) Mandatory and voluntary reporters shall transmit data files using one of the following approved processes: 
+(a) Secure file transfer protocol (SFTP) including separate strong encryption of data files prior to SFTP transmission; or 
+(b) Any process incorporating strong encryption that is approved in writing by both the Authority and the data vendor. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 442.466 
+ 
+ 
+ Statutes/Other Implemented:  ORS 442.464 & 442.466 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 8-2022, amend filed 12/01/2022, effective 12/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 2-2019, amend filed 05/30/2019, effective 01/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 7-2018, amend filed 06/29/2018, effective 01/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 2-2017, f. 6-23-17, cert. ef. 1-1-18 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 13-2016, f. & cert. ef. 9-13-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 10-2016, f. 6-22-16, cert. ef. 1-1-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 1-2016, f. & cert. ef. 1-5-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 4-2012, f. 5-23-12, cert. ef. 6-1-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 1-2010, f. 2-26-10, cert. ef. 3-1-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

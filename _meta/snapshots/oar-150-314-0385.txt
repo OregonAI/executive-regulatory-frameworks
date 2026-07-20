@@ -1,0 +1,216 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 314 INCOME TAXATION GENERALLY  GENERAL PROVISIONS 
+ 150-314-0385 
+ Apportionment Formula
+ 
+ 
+ (1) All apportionable income of each trade or business of the taxpayer must be apportioned to this state by use of the apportionment formula set forth in ORS 314.650. The apportionment formula includes the property factor provided in ORS 314.655 and the rules thereunder, the payroll factor provided in ORS 314.660 and the rules thereunder, and the sales factor provided in ORS 314.665 and the rules thereunder. 
+
+ (2) For tax years beginning on or after July 1, 2005, apportionable income is apportioned using only the sales factor. 
+
+ (3) For tax years beginning on or after July 1, 2005, the apportionment formula for a taxpayer in the forest products industry meeting the criteria provided in ORS 314.650(2)(a) is the formula provided in sections (5) and (7) of this rule. 
+
+ (4) For tax years beginning on or after May 1, 2003 and before July 1, 2005, the apportionment formula is 10 percent of the property factor, plus 10 percent of the payroll factor, plus 80 percent of the sales factor. 
+
+ (5) For tax years beginning on or after January 1, 1991 and before May 1, 2003, the numerator of the apportionment formula is the sum of the property factor, plus the payroll factor, plus two times the sales factor. The denominator of the apportionment formula is four. 
+
+ (6) For tax years beginning before January 1, 1991, the numerator of the apportionment formula is the sum of the property factor, plus the payroll factor, plus the sales factor. The denominator of the apportionment formula is three. 
+
+ (7) For tax years beginning on or after January 1, 1989 and before May 1, 2003, if the denominator of the property, payroll, or sales factor is zero, the denominator of the apportionment formula is reduced by the number of factors with a denominator of zero. 
+
+ (8) The apportionment factors of a corporation that is a member of a partnership, limited liability company treated as a partnership, or unincorporated joint venture (i.e. the “related entity”), that is a part of the corporation’s overall business operations, must include the corporation’s share of the property, payroll, and sales of the related entity. For the purpose of computing the apportionment factors, transactions between the corporation and the related entity must be eliminated to the extent of the corporation’s percentage of interest in the related entity. The corporation’s share of the related entity’s property, payroll, and sales are based on its percentage of interest in the related entity that is equal to the ratio of its capital account plus its share of the related entity’s debt to the total of the capital accounts of all members of the related entity plus total related entity debt. The capital accounts of the members must reflect the average of the accounts for the period of the tax return. The average of the capital accounts may be computed by averaging the beginning and ending balances or monthly balances. Capital accounts of a related entity must be adjusted to reflect a member’s adjusted basis in contributed property, rather than fair market value. The corporation’s share of a related entity’s debt is determined under IRC 752(a) and 752(b) and the regulations thereunder, irrespective of whether or not the related entity is a true partnership. 
+
+ (9) For the purpose of computing the apportionment factors for a consolidated Oregon return, inter-company transactions between a unitary affiliate of a partner or member and the related entity described in section (8) of this rule are treated the same as intercompany transactions directly between the affiliated corporations, to the extent of the corporate partner’s or member’s ownership share of the related entity. Inter-company transactions between affiliated corporations filing a consolidated Oregon return are eliminated as provided in section (3) of OAR 150-317-0620. 
+
+ Example: Corporations A, B, and C file a consolidated Oregon return. A and B each own 50 percent of partnership P. P is part of the overall business operations of the three corporations. P buys 80 percent of its raw materials from C. The intercompany sales between P and C must be eliminated from the apportionment formula for the consolidated Oregon return of the corporations. Transactions between C and P are considered to be directly between the three corporations. 
+
+ [Publications: Contact the Oregon Department of Revenue to learn how to obtain a copy of the publication referred to or incorporated by reference in this rule pursuant to ORS 183.360(2) and 183.355(1)(b).] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 
+ 
+ 
+ Statutes/Other Implemented:  ORS 314.650 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 68-2017, amend filed 12/22/2017, effective 01/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 150-314.650, REV 35-2016, f. 8-12-16, cert. ef. 9-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ REV 3-2005, f. 12-30-05, cert. ef. 1-1-06 
+REV 11-2004, f. 12-29-04, cert. ef. 12-31-04 
+REV 6-2004, f. 7-30-04, cert. ef. 7-31-04 
+REV 12-1999, f. 12-30-99, cert. ef. 12-31-99 
+REV 7-1998, f. 11-13-98, cert. ef. 12-31-98 
+RD 5-1994, f. 12-15-94, cert. ef. 12-31-94 
+RD 9-1992, f. 12-29-92, cert. ef. 12-31-92 
+RD 7-1989, f. 12-18-89, cert. ef. 12-31-89 
+RD 7-1983, f. 12-20-83, cert. ef. 12-31-83 
+8-73
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

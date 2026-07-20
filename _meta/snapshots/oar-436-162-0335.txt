@@ -1,0 +1,179 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Workers' Compensation Division - Chapter 436 
+ 
+ 
+ 
+ 
+ Division 162 ELECTRONIC DATA INTERCHANGE; PROOF OF COVERAGE 
+ 436-162-0335 
+ Testing Procedures and Transaction Accuracy Standards 
+ 
+ (1) An insurer that wants to self report proof of coverage must report through an approved vendor until the insurer completes all of the testing requirements in this rule and receives approval from the director to self report.  (2) To obtain approval, each sender must successfully complete the Secure File Transfer Protocol (SFTP) test, demonstrate ability to successfully transmit coverage data in the format specified in OAR 436-162-0004(1), achieve ninety percent reporting accuracy, and retrieve and process automated EDI acknowledgements.  (3) To begin the testing process for proof of coverage EDI, the sender must:  (a) Contact the division’s EDI coordinator. Contact information is on the division’s webpage: http://wcd.oregon.gov/insurer/edi/Pages/proof-of-coverage.aspx; and  (b) Complete and submit the proof of coverage EDI transmission profile (Form 440-4979), available from: http://wcd.oregon.gov/insurer/edi/Pages/proof-of-coverage.aspx.  (4) A successful EDI test is determined by the following:  (a) The resolution of any consistently recurring Fatal Technical errors identified by the division;  (b) Transmissions are sent to the division without errors in the header or trailer record;  (c) Transmissions are sent to the division without transaction level technical errors; and  (d) The sender is able to retrieve and process the automated EDI acknowledgement transactions.  (5) To move from testing to production:  (a) The sender must submit a minimum of three transmissions containing at least three records for each Oregon valid triplicate code included in Appendix A.  (b) Data transmitted during the proof of coverage EDI test must represent actual proof of coverage data, which will be discarded after the test.  (c) The division will provide the sender with an acknowledgement file to account for the processing outcome of each transaction, i.e., accepted or rejected. The sender should reconcile or correct identified data errors in their source data system as necessary.  (d) Ninety percent of transactions submitted during the testing phase must be accepted by the division. Additional proof of coverage EDI test transmission(s) may be required until a ninety percent accuracy rate is achieved.  (6) The director will notify senders once they have successfully completed testing.  (7) Once approved, the sender must maintain the accuracy as defined in sections (4) and (5)(d) of this rule. Failure to meet technical requirements may result in the revocation of EDI transmission approval.  (8) The division will inform the sender and insurer (if different) if accuracy standards for technical requirements fall below standards prescribed in sections (2) and (5)(d) of this rule. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 656.264, 656.419, 656.423, 656.427 & 656.726(4) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 656.264, 656.419, 656.423 & 656.427 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 436-162-0060, WCD 12-2014, f. 11-13-14, cert. ef. 4-1-15 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 7-2010, f. 10-1-10, cert. ef. 1-1-11 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

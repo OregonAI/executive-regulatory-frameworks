@@ -1,0 +1,238 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Workers' Compensation Division - Chapter 436 
+ 
+ 
+ 
+ 
+ Division 162 ELECTRONIC DATA INTERCHANGE; PROOF OF COVERAGE 
+ 436-162-0310 
+ Electronic Filing Requirements 
+ 
+ (1) Unless otherwise provided in these rules, insurers must transmit proof of coverage by EDI, and either use an approved vendor, or be approved as a sender.  (2) Unless otherwise provided in these rules, the data elements have the meaning provided in the data dictionary of the IAIABC EDI Implementation Guide for Proof of Coverage, Release 2.1, dated July 1, 2010, referenced in OAR 436-162-0004(1).  (3) Data elements are listed in Appendices A and B:  (a) Appendix A shows all proof of coverage data elements accepted by EDI in Oregon, and whether the data element is Exclude (X), Expected (E), Fatal Technical (F), Fatal Technical/Conditional (FT), Mandatory (M), Mandatory/Conditional (MC), Not Applicable (NA), or Restricted (R), for each transaction type.  (b) Appendix B lists Mandatory/Conditional data elements and the applicable conditions that make the data element mandatory.  (4) Filing due dates are listed in Appendix C, the Event Table.  (5) An insurer may file proof of coverage EDI by:  (a) Transmitting an electronic record of the proof of coverage data elements identified as Mandatory or Mandatory/Conditional, including a correct FEIN, as defined in OAR 436-162-0005(10), for each legally distinct employer included in the establishing document transaction; and  (b) Transmitting an establishing document transaction, coverage notice/binder, new/renew policy, rewrite/reissue policy, reinstatement, add location, add employer, or add jurisdiction.  (6) If an employer elects to include any nonsubject worker(s) for coverage, or subsequently to exclude such workers from coverage, the insurer must submit a transaction with a reason code for including or excluding a corporate officer, partner, member, sole proprietor, or any other nonsubject worker as described in ORS 656.027.  (7) Insurers may not:  (a) Submit placeholder or invalid FEINs; or  (b) Submit paper documents to the director without the director’s express permission.  [ED. NOTE: Appendix referenced are available from the agency.] 
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  656.264, 656.419, 656.423, 656.427 & 656.726(4) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 656.419, 656.423 & 656.427 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 12-2014, f. 11-13-14, cert. ef. 4-1-15 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 436-160-0310, WCD 7-2010, f. 10-1-10, cert. ef. 1-1-11 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 3-2009, f. 12-1-09, cert. ef. 1-1-10 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 4-2008, f. 9-17-08, cert. ef. 7-1-09 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 12-2003, f. 12-4-03, cert. ef. 1-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 3-2003, f. 3-18-03, cert. ef. 4-1-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

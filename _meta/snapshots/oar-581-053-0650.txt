@@ -1,0 +1,325 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Department of Education 
+ Chapter 581 
+ 
+ 
+ 
+ 
+ 
+ Division 53 SCHOOL BUS DRIVER TRAINING, LICENSING, AND SCHOOL BUS STANDARDS 
+ 581-053-0650 
+ Minimum Standards for All-Electric School Buses 
+ 
+ An all-electric vehicle school bus shall meet all minimum standards for the applicable type of school bus as listed in OAR 581-053-0240 and all retrofit standards as listed in 581-053-0250 with the following modifications. All-electric vehicle school buses: 
+
+ (1) Shall meet all applicable FMVSS regulations. 
+
+ (2) Shall be exempt from the following standards: 
+
+ (a) Air Cleaner; 
+
+ (b) Generator/alternator; 
+
+ (c) Exhaust system; 
+
+ (d) Fuel system; 
+
+ (e) Governor; 
+
+ (f) Gauges: 
+
+ (A) Fuel gauge 
+
+ (B) Oil pressure 
+
+ (C) Water temperature 
+
+ (D) Tachometer 
+
+ (g) Oil filter; 
+
+ (h) Power & Gradeability; 
+
+ (i) Throttle; and 
+
+ (j) Transmission. 
+
+ (3) Electrical System shall not be required to have a cold cranking capacity, nor conform to a uniform voltage with the chassis for non-propulsive electrical components. 
+
+ (4) Buses utilizing a high voltage propulsion system (60 VDC or 30 VAC) shall comply with the following: 
+
+ (A) The propulsion power source (batteries, fuel cells, etc.) shall be located outside the passenger compartment. 
+
+ (B) The propulsion power source enclosure shall be constructed to conform to the power source manufacturer’s requirements and recommendations. 
+
+ (C) Wire, cable, and conductor insulation in the High Voltage System shall provide adequate insulation for the voltage used and for ambient temperatures ranging from- 15°F to 120°F. All high voltage wiring/cabling shall be covered with bright orange loom or otherwise labeled as HIGH VOLTAGE. 
+
+ (D) All high voltage circuits shall provide adequate and automatic protection against electrical overloads caused by short circuits or other excessive current conditions through the use of fuses, circuit breakers, and ground fault interruption. 
+
+ (E) Each door, cover, or other panel that affords immediate access to any high voltage area shall be plainly marked with a hazard warning label which shall read WARNING—HIGH VOLTAGE or DANGER—HIGH VOLTAGE. This label shall be located in a highly conspicuous place. 
+
+ (F) All high voltage access areas shall be secured to prevent unauthorized access. 
+
+ (5) Instrument Panel shall include: 
+
+ (a) High Voltage battery state of charge, 
+
+ (b) Motor Temperature, 
+
+ (c) Battery available range in miles, 
+
+ (d) Battery discharge and regeneration rate, and 
+
+ (e) Battery temperature. 
+
+ (6) Heaters need not be hot water type. 
+
+ (7) Shall be equipped with an interlock device to prevent vehicle motion when connected to charging infrastructure. 
+
+ (8) Identification: All paint, lettering, trim, and any other markings shall conform to existing minimum standards in place at the time of construction; 
+
+ (a) Accepted colors shall be national school bus yellow or black for all markings; 
+
+ (b) Lettering specifying electric drive may be used in place of fuel type decals, and shall meet the same requirements as fuel type decals; 
+
+ (c) EV Identification label: 
+
+ (A) Each EV school bus shall be identified with a permanent, diamond-shaped label located on the exterior vertical surface or near-vertical surface on the lower right rear of the school bus other than on the bumper of the vehicle. 
+
+ (B) The label shall be a minimum of 4.7 inches long x 3.0 inches high. 
+
+ (C) The marking in the label shall consist of a blue colored background, a border, and the letters “EV”, 1-inch in height with the lightning bolt in the center. 
+
+ (D) In addition to the location on the right rear, labels shall be affixed to each side of the school bus, rear of the entrance door and beneath the driver’s window. 
+
+ (d) The graphical symbol ISO 7010 – W012 registered as IEC 60417-5036 “Dangerous voltage,” signifying a warning regarding electricity, may be applied to an all-Electric school bus; 
+
+ (e) Battery Disconnect Label: 
+
+ (A) A permanent label with black 1” letters shall identify the location(s) of the battery disconnect switch or device. 
+
+ (B) Any instructions may be printed adjacent to the switch or device in letters of ½ inches high 
+
+ (f) The battery compartment door may be labeled with 2 inch lettering by the words “12V BATTERIES” to identify the location of the 12 volt batteries. 
+
+ (g) The charging port may be identified in 1 inch lettering adjacent to the port location. 
+
+ (9) Battery System: 
+
+ (a) A 24-volt system may be installed, provided it can deliver 12-volt power to interior systems. 
+
+ (b) Buses with high voltage battery electric powertrain shall be equipped with a low voltage battery shut-off switch. The switch is to be placed in a location not readily accessible to the driver or passengers. 
+
+ (c) High voltage battery assemblies shall be protected according to federal requirements. 
+
+ (d) High voltage batteries shall have a main service disconnect that isolates the batteries and does not allow high voltage outside the battery pack. 
+
+ (10) Battery System Protection: 
+
+ (a) As part of the Battery Management System, EVs shall be equipped with an automatic shutdown to protect system components from damage caused by malfunctions such as charging/discharging faults, battery overheating, electrical overheating, degraded battery health, etc. 
+
+ (b) Prior to automatic shutdown, a warning or maintenance indicator shall be displayed in the driver console to notify the driver of impending shutdown or the need for immediate maintenance and allow enough time to safely reposition and stop the bus. Gradual derating of propulsion shall occur prior to complete automatic shutdown. 
+
+ (11) Charging Port: 
+
+ (a) The high voltage batteries shall be equipped with a system that allows the batteries to be charged via a connection to the local electric utility grid. This connection shall be a Combined Charging System (CCS), North American Charging Standard (NACS), or SAE J1772, compatible with the charging equipment. 
+
+ (b) The charging receptacle/port shall be mounted/located in accordance with manufacturer standards. The receptacle shall accommodate the minimum requirements for Level II AC charging DC fast charging. 
+
+ (12) Electric Vehicle DC-DC CONVERTER: 
+
+ (a) A DC-DC converter shall be provided and deliver a minimum of 200 amps at 12VDC. 
+
+ (b) The converter system shall incorporate a Ground Fault Interrupt (GFI) that disconnects/isolates the high voltage batteries in the event of a shorted circuit or water intrusion. 
+
+ (13) Ignition System: 
+
+ (a) The ignition switch circuit shall be linked to the Battery Management System and will prevent the driving of the vehicle while it is connected to an external battery charging source. 
+
+ (b) The high voltage system shall be designed so that when the ignition switch is off, the high voltage is disconnected. 
+
+ (14) Regenerative Brakes: In addition to service brake specifications for combustion engine buses, Electric Vehicles (EVs) will be equipped with regenerative braking that utilizes the electric drive system in concert with the service brakes to slow the vehicle and return electrical energy to the battery system. 
+
+ (15) Sound Generator: Electric and Hybrid school buses shall be equipped with a sound generator to warn pedestrians of the vehicle’s approach. The sound generator shall conform to any applicable national standard recommendations. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 327.013, ORS 327.100, ORS 820.105, ORS 820.110 & ORS 820.120 
+ 
+ 
+ Statutes/Other Implemented:  ORS 327.013, ORS 327.100, ORS 820.105, ORS 820.110 & ORS 820.120 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ODE 56-2025, amend filed 10/17/2025, effective 10/17/2025 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ODE 55-2024, amend filed 10/25/2024, effective 10/25/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ODE 5-2020, adopt filed 03/20/2020, effective 03/20/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

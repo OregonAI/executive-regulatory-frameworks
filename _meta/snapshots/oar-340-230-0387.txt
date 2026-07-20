@@ -1,0 +1,232 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 230 INCINERATOR REGULATIONS 
+ 340-230-0387 
+ Municipal Waste Combustors, Small Municipal Waste Combustion Unit: Other Monitoring Requirements
+ 
+ 
+ (1) Operating parameters. The owner or operator must monitor the following operating parameters: 
+
+ (a) Load level of each municipal waste combustion unit. 
+
+ (b) Temperature of flue gases at the inlet of the particulate matter air pollution control device. 
+
+ (c) Carbon feed rate if activated carbon is used to control dioxins/furans or mercury emissions. 
+
+ (2) Unit load: 
+
+ (a) If the municipal waste combustion unit generates steam, the owner or operator must install, calibrate, maintain, and operate a steam flowmeter or a feed water flowmeter and meet five requirements: 
+
+ (A) Continuously measure and record the measurements of steam (or feed water) in kilograms (or pounds) per hour. 
+
+ (B) Calculate the steam (or feed water) flow in 4-hour block averages. 
+
+ (C) Calculate the steam (or feed water) flow rate using the method in “American Society of Mechanical Engineers Power Test Codes: Test Code for Steam Generating Units, Power Test Code 4.1—1964 (R1991),” section 4. 
+
+ (D) Design, construct, install, calibrate, and use nozzles or orifices for flow rate measurements, using the recommendations in “American Society of Mechanical Engineers Interim Supplement 19.5 on Instruments and Apparatus: Application, Part II of Fluid Meters,” 6th Edition (1971), chapter 4. 
+
+ (E) Before each dioxins/furans stack test, or at least once a year, calibrate all signal conversion elements associated with steam (or feed water) flow measurements according to the manufacturer instructions. 
+
+ (b) If the municipal waste combustion units do not generate steam, or, if the municipal waste combustion units have shared steam systems and steam load cannot be estimated per unit, the owner or operator must determine, to the Department’s satisfaction, one or more operating parameters that can be used to continuously estimate load level (for example, the feed rate of municipal solid waste or refuse-derived fuel). The owner or operator must continuously monitor the selected parameters. 
+
+ (3) Pollution control device inlet temperature. The owner or operator must install, calibrate, maintain, and operate a device to continuously measure the temperature of the flue gas stream at the inlet of each particulate matter control device. 
+
+ (4) Carbon injection rate. If the municipal waste combustion unit uses activated carbon to control dioxins/furans or mercury emissions, the owner or operator must meet three requirements: 
+
+ (a) Select a carbon injection system operating parameter that can be used to calculate carbon feed rate (for example, screw feeder speed). 
+
+ (b) During each dioxins/furans and mercury stack test, determine the average carbon feed rate in kilograms (or pounds) per hour. Also, determine the average operating parameter level that correlates to the carbon feed rate. Establish a relationship between the operating parameter and the carbon feed rate in order to calculate the carbon feed rate based on the operating parameter level. 
+
+ (c) Continuously monitor the selected operating parameter during all periods when the municipal waste combustion unit is operating and combusting waste and calculate the 8-hour block average carbon feed rate in kilograms (or pounds) per hour, based on the selected operating parameter. When calculating the 8-hour block average, the owner or operator must do two things: 
+
+ (A) Exclude hours when the municipal waste combustion unit is not operating. 
+
+ (B) Include hours when the municipal waste combustion unit is operating but the carbon feed system is not working correctly. 
+
+ (5) Minimum data. The owner or operator must obtain the minimum data as prescribed in subsections (a)–(c) below: 
+
+ (a) Where continuous parameter monitoring systems are used, obtain 1-hour arithmetic averages for the following three parameters: 
+
+ (A) Load level of the municipal waste combustion unit. 
+
+ (B) Temperature of the flue gases at the inlet of the particulate matter control device; and 
+
+ (C) Carbon feed rate if activated carbon is used to control dioxins/furans or mercury emissions. 
+
+ (b) Obtain at least two data points per hour in order to calculate a valid 1-hour arithmetic average. 
+
+ (c) Obtain valid 1-hour averages for at least 75 percent of the operating hours per day for 90 percent of the operating days per calendar quarter. An operating day is any day the unit combusts any municipal solid waste or refuse-derived fuel. 
+
+ (d) If the owner or operator does not obtain the minimum data required in subsections (a)–(c), the owner or operator is in violation of the data collection requirement and must notify the Department according to OAR 340-230-0395(4)(b)(E) 
+
+ [Publications: Publications referenced are available from the agency.] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468A.025 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 139-2018, minor correction filed 04/11/2018, effective 04/11/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 4-2003, f. & cert. ef. 2-06-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

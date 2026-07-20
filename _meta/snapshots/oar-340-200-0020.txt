@@ -1,0 +1,1499 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 200 GENERAL AIR POLLUTION PROCEDURES AND DEFINITIONS 
+ 340-200-0020 
+ General Air Quality Definitions
+ 
+ 
+ As used in OAR chapter 340, divisions 200 through 268, unless specifically defined otherwise: 
+
+ (1) "Act" or "FCAA" means the Federal Clean Air Act, 42 U.S.C.A. § 7401 to 7671q. 
+
+ (2) "Activity" means any process, operation, action, or reaction (e.g., chemical) at a source that emits a regulated pollutant. 
+
+ (3) "Actual emissions" means the mass emissions of a regulated pollutant from an emissions source during a specified time period as set forth in OAR chapter 340, divisions 214, 220 and 222. 
+
+ (4) "Adjacent", as used in the definitions of major source and source and in OAR 340-216-0070, means interdependent facilities that are nearby to each other. 
+
+ (5) "Affected source" means a source that includes one or more affected units that are subject to emission reduction requirements or limitations under Title IV of the FCAA. 
+
+ (6) "Affected states" means all states: 
+
+ (a) Whose air quality may be affected by a proposed permit, permit modification, or permit renewal and that are contiguous to Oregon; or 
+
+ (b) That are within 50 miles of the permitted source. 
+
+ (7) "Aggregate insignificant emissions" means the annual actual emissions of any regulated pollutant from one or more designated activities at a source that are less than or equal to the lowest applicable level specified in this section. The total emissions from each designated activity and the aggregate emissions from all designated activities must be less than or equal to the lowest applicable level specified: 
+
+ (a) One ton for total reduced sulfur, hydrogen sulfide, sulfuric acid mist, any Class I or II substance subject to a standard promulgated under or established by Title VI of the FCAA, and each criteria pollutant, except lead; 
+
+ (b) 120 pounds for lead; 
+
+ (c) 600 pounds for fluorides; 
+
+ (d) 500 pounds for PM10 in a PM10 nonattainment area; 
+
+ (e) 500 pounds for direct PM2.5 in a PM2.5 nonattainment area; 
+
+ (f) The lesser of the amount established in 40 C.F.R. 68.130 or 1,000 pounds; 
+
+ (g) An aggregate of 5,000 pounds for all hazardous air pollutants; 
+
+ (h) 2,756 tons CO2e for greenhouse gases. 
+
+ (8) "Air contaminant" means a dust, fume, gas, mist, odor, smoke, vapor, pollen, soot, carbon, acid, particulate matter, regulated pollutant, or any combination thereof, exclusive of uncombined water. 
+
+ (9) "Air Contaminant Discharge Permit" or "ACDP" means written authorization issued, renewed, amended, or revised by DEQ, under OAR chapter 340, division 216. 
+
+ (10) “Air pollution control device” or “control device” means equipment, other than inherent process equipment that is used to destroy or remove a regulated pollutant prior to discharge to the atmosphere. 
+
+ (a) The types of equipment that may commonly be used as control devices include, but are not limited to, fabric filters; mechanical collectors; electrostatic precipitators; inertial separators; afterburners; thermal or catalytic incinerators; adsorption devices (e.g., carbon beds, condensers); scrubbers (e.g., wet collection and gas absorption devices); selective catalytic or non-catalytic reduction systems; flue gas recirculation systems; spray dryers; spray towers; mist eliminators at acid plants and sulfur recovery plants; injection systems (e.g., water, steam, ammonia, sorbent or limestone injection); and combustion devices independent of the particular process being conducted at an emissions unit (e.g., the destruction of emissions achieved by venting process emission streams to flares, boilers or process heaters). 
+
+ (b)(A) For purposes of OAR 340-212-0200 through 340-212-0280, a control device does not include passive control measures that act to prevent regulated pollutants from forming, such as the use of seals, lids, or roofs to prevent the release of regulated pollutants, use of low-polluting fuel or feedstocks, or the use of combustion or other process design features or characteristics. 
+
+ (B) If an applicable requirement establishes that particular equipment which otherwise meets this definition of a control device does not constitute a control device as applied to a particular regulated pollutant-specific emissions unit, then that definition will be binding for purposes of OAR 340-212-0200 through 340-212-0280. 
+
+ (11) "Alternative method" means any method of sampling and analyzing for an air pollutant which is not a reference or equivalent method but which has been demonstrated to DEQ's satisfaction to, in specific cases, produce results adequate for determination of compliance. The alternative method must comply with the intent of the rules, is at least equivalent in objectivity and reliability to the uniform recognized procedures, and is demonstrated to be reproducible, selective, sensitive, accurate, and applicable to the program. An alternative method used to meet an applicable federal requirement for which a reference method is specified must be approved by EPA unless EPA has delegated authority for the approval to DEQ. 
+
+ (12) "Ambient air" means that portion of the atmosphere, external to buildings, to which the general public has access. 
+
+ (13) "Applicable requirement" means all of the following as they apply to emissions units in an Oregon Title V Operating Permit program source or ACDP program source, including requirements that have been promulgated or approved by the EPA through rule making at the time of issuance but have future-effective compliance dates: 
+
+ (a) Any standard or other requirement provided for in the applicable implementation plan approved or promulgated by the EPA through rulemaking under Title I of the FCAA that implements the relevant requirements of the FCAA, including any revisions to that plan promulgated in 40 C.F.R. part 52; 
+
+ (b) Any standard or other requirement adopted under OAR 340-200-0040 of the State of Oregon Clean Air Act Implementation Plan that is more stringent than the federal standard or requirement which has not yet been approved by the EPA, and other state-only enforceable air pollution control requirements; 
+
+ (c) Any term or condition in an ACDP, OAR chapter 340, division 216, including any term or condition of any preconstruction permits issued under OAR chapter 340, division 224, New Source Review, until or unless DEQ revokes or modifies the term or condition by a permit modification; 
+
+ (d) Any term or condition in a Notice of Construction and Approval of Plans, OAR 340-210-0205 through 340-210-0240, until or unless DEQ revokes or modifies the term or condition by a Notice of Construction and Approval of Plans or a permit modification; 
+
+ (e) Any term or condition in a Notice of Approval, OAR 340-218-0190, issued before July 1, 2001, until or unless DEQ revokes or modifies the term or condition by a Notice of Approval or a permit modification; 
+
+ (f) Any term or condition of a PSD permit issued by the EPA until or unless the EPA revokes or modifies the term or condition by a permit modification; 
+
+ (g) Any standard or other requirement under section 111 of the FCAA, including section 111(d); 
+
+ (h) Any standard or other requirement under section 112 of the FCAA, including any requirement concerning accident prevention under section 112(r)(7) of the FCAA; 
+
+ (i) Any standard or other requirement of the acid rain program under Title IV of the FCAA or the regulations promulgated thereunder; 
+
+ (j) Any requirements established under section 504(b) or section 114(a)(3) of the FCAA; 
+
+ (k) Any standard or other requirement under section 126(a)(1) and(c) of the FCAA; 
+
+ (l) Any standard or other requirement governing solid waste incineration, under section 129 of the FCAA; 
+
+ (m) Any standard or other requirement for consumer and commercial products, under section 183(e) of the FCAA; 
+
+ (n) Any standard or other requirement for tank vessels, under section 183(f) of the FCAA; 
+
+ (o) Any standard or other requirement of the program to control air pollution from outer continental shelf sources, under section 328 of the FCAA; 
+
+ (p) Any standard or other requirement of the regulations promulgated to protect stratospheric ozone under Title VI of the FCAA, unless the Administrator has determined that such requirements need not be contained in an Oregon Title V Operating Permit; and 
+
+ (q) Any national ambient air quality standard or increment or visibility requirement under part C of Title I of the FCAA, but only as it would apply to temporary sources permitted under section 504(e) of the FCAA. 
+
+ (14) “Attainment area” or “unclassified area” means an area that has not otherwise been designated by EPA as nonattainment with ambient air quality standards for a particular regulated pollutant. Attainment areas or unclassified areas may also be referred to as sustainment or maintenance areas as designated in OAR chapter 340, division 204. Any particular location may be part of an attainment area or unclassified area for one regulated pollutant while also being in a different type of designated area for another regulated pollutant. 
+
+ (15) “Attainment pollutant” means a pollutant for which an area is designated an attainment or unclassified area. 
+
+ (16) "Baseline emission rate" means the actual emission rate during a baseline period as determined under OAR chapter 340, division 222. 
+
+ (17) "Baseline period" means the period used to determine the baseline emission rate for each regulated pollutant under OAR chapter 340, division 222. 
+
+ (18) "Best Available Control Technology" or "BACT" means an emission limitation, including, but not limited to, a visible emission standard, based on the maximum degree of reduction of each air contaminant subject to regulation under the FCAA which would be emitted from any proposed major source or major modification which, on a case-by-case basis, taking into account energy, environmental, and economic impacts and other costs, is achievable for such source or modification through application of production processes or available methods, systems, and techniques, including fuel cleaning or treatment or innovative fuel combustion techniques for control of such air contaminant. In no event may the application of BACT result in emissions of any air contaminant that would exceed the emissions allowed by any applicable new source performance standard or any standard for hazardous air pollutant. If an emission limitation is not feasible, a design, equipment, work practice, or operational standard, or combination thereof, may be required. Such standard must, to the degree possible, set forth the emission reduction achievable and provide for compliance by prescribing appropriate permit conditions. 
+
+ (19) "Biomass" means non-fossilized and biodegradable organic material originating from plants, animals, and microorganisms, including products, byproducts, residues and waste from agriculture, forestry, and related industries as well as the non-fossilized and biodegradable organic fractions of industrial and municipal wastes, including gases and liquids recovered from the decomposition of non-fossilized and biodegradable organic matter. 
+
+ (20) "Capacity" means the maximum regulated pollutant emissions from a stationary source under its physical and operational design. 
+
+ (21) “Capture efficiency” means the amount of regulated pollutant collected and routed to an air pollution control device divided by the amount of total emissions generated by the process being controlled. 
+
+ (22) "Capture system" means the equipment, including but not limited to hoods, ducts, fans, and booths, used to contain, capture and transport a regulated pollutant to a control device. 
+
+ (23) "Carbon dioxide equivalent" or "CO2e" means an amount of a greenhouse gas or gases expressed as the equivalent amount of carbon dioxide, and is computed by multiplying the mass of each of the greenhouse gases by the global warming potential published for each gas at 40 C.F.R. part 98, subpart A, Table A–1-Global Warming Potentials, and adding the resulting value for each greenhouse gas to compute the total equivalent amount of carbon dioxide. 
+
+ (24) "Categorically insignificant activity" means any of the following listed regulated pollutant emitting activities principally supporting the source or the major industrial group. Categorically insignificant activities must comply with all applicable requirements. 
+
+ (a) Constituents of a chemical mixture present at less than 1 percent by weight of any chemical or compound regulated under divisions 200 through 268 excluding divisions 248 and 262 of this chapter, or less than 0.1 percent by weight of any carcinogen listed in the U.S. Department of Health and Human Service's Annual Report on Carcinogens when usage of the chemical mixture is less than 100,000 pounds/year; 
+
+ (b) Evaporative and tailpipe emissions from on-site motor vehicle operation; 
+
+ (c) Distillate oil, kerosene, gasoline, natural gas or propane burning equipment, provided the aggregate expected actual emissions of the equipment identified as categorically insignificant do not exceed the de minimis level for any regulated pollutant, based on the expected maximum annual operation of the equipment. If a source’s expected emissions from all such equipment exceed the de minimis levels, then the source may identify a subgroup of such equipment as categorically insignificant with the remainder not categorically insignificant. The following equipment may never be included as categorically insignificant: 
+
+ (A) Any individual distillate oil, kerosene or gasoline burning equipment with a rating greater than 0.4 million Btu/hour; 
+
+ (B) Any individual natural gas or propane burning equipment with a rating greater than 2.0 million Btu/hour. 
+
+ (d) Distillate oil, kerosene, gasoline, natural gas or propane burning equipment brought on site for six months or less for maintenance, construction or similar purposes, such as but not limited to generators, pumps, hot water pressure washers and space heaters, provided that any such equipment that performs the same function as the permanent equipment, must be operated within the source's existing PSEL; 
+
+ (e) Office activities; 
+
+ (f) Food service activities; 
+
+ (g) Janitorial activities; 
+
+ (h) Personal care activities; 
+
+ (i) Groundskeeping activities including, but not limited to building painting and road and parking lot maintenance; 
+
+ (j) On-site laundry activities; 
+
+ (k) On-site recreation facilities; 
+
+ (l) Instrument calibration; 
+
+ (m) Maintenance and repair shop; 
+
+ (n) Automotive repair shops or storage garages; 
+
+ (o) Air cooling or ventilating equipment not designed to remove air contaminants generated by or released from associated equipment; 
+
+ (p) Refrigeration systems with less than 50 pounds of charge of ozone depleting substances regulated under Title VI, including pressure tanks used in refrigeration systems but excluding any combustion equipment associated with such systems; 
+
+ (q) Bench scale laboratory equipment and laboratory equipment used exclusively for chemical and physical analysis, including associated vacuum producing devices but excluding research and development facilities; 
+
+ (r) Temporary construction activities; 
+
+ (s) Warehouse activities; 
+
+ (t) Accidental fires; 
+
+ (u) Air vents from air compressors; 
+
+ (v) Air purification systems; 
+
+ (w) Continuous emissions monitoring vent lines; 
+
+ (x) Demineralized water tanks; 
+
+ (y) Pre-treatment of municipal water, including use of deionized water purification systems; 
+
+ (z) Electrical charging stations; 
+
+ (aa) Fire brigade training; 
+
+ (bb) Instrument air dryers and distribution; 
+
+ (cc) Process raw water filtration systems; 
+
+ (dd) Pharmaceutical packaging; 
+
+ (ee) Fire suppression; 
+
+ (ff) Blueprint making; 
+
+ (gg) Routine maintenance, repair, and replacement such as anticipated activities most often associated with and performed during regularly scheduled equipment outages to maintain a plant and its equipment in good operating condition, including but not limited to steam cleaning, abrasive use, and woodworking; 
+
+ (hh) Electric motors; 
+
+ (ii) Storage tanks, reservoirs, transfer and lubricating equipment used for ASTM grade distillate or residual fuels, lubricants, and hydraulic fluids; 
+
+ (jj) On-site storage tanks not subject to any New Source Performance Standards (NSPS), including underground storage tanks (UST), storing gasoline or diesel used exclusively for fueling of the facility's fleet of vehicles; 
+
+ (kk) Natural gas, propane, and liquefied petroleum gas (LPG) storage tanks and transfer equipment; 
+
+ (ll) Pressurized tanks containing gaseous compounds; 
+
+ (mm) Vacuum sheet stacker vents; 
+
+ (nn) Emissions from wastewater discharges to publicly owned treatment works (POTW) provided the source is authorized to discharge to the POTW, not including on-site wastewater treatment and/or holding facilities; 
+
+ (oo) Log ponds; 
+
+ (pp) Stormwater settling basins; 
+
+ (qq) Fire suppression and training; 
+
+ (rr) Paved roads and paved parking lots within an urban growth boundary; 
+
+ (ss) Hazardous air pollutant emissions in fugitive dust from paved and unpaved roads except for those sources that have processes or activities that contribute to the deposition and entrainment of hazardous air pollutants from surface soils; 
+
+ (tt) Health, safety, and emergency response activities; 
+
+ (uu) Emergency generators and pumps used only during loss of primary equipment or utility service due to circumstances beyond the reasonable control of the owner or operator, or to address a power emergency, provided that the aggregate horsepower rating of all stationary emergency generator and pump engines is not more than 3,000 horsepower. If the aggregate horsepower rating of all stationary emergency generator and pump engines is more than 3,000 horsepower, then no emergency generators and pumps at the source may be considered categorically insignificant; 
+
+ (vv) Non-contact steam vents and leaks and safety and relief valves for boiler steam distribution systems; 
+
+ (ww) Non-contact steam condensate flash tanks; 
+
+ (xx) Non-contact steam vents on condensate receivers, deaerators and similar equipment; 
+
+ (yy) Boiler blowdown tanks; 
+
+ (zz) Industrial cooling towers that do not use chromium-based water treatment chemicals; 
+
+ (aaa) Ash piles maintained in a wetted condition and associated handling systems and activities; 
+
+ (bbb) Uncontrolled oil/water separators in effluent treatment systems, excluding systems with a throughput of more than 400,000 gallons per year of effluent located at the following sources: 
+
+ (A) Petroleum refineries; 
+
+ (B) Sources that perform petroleum refining and re-refining of lubricating oils and greases including asphalt production by distillation and the reprocessing of oils and/or solvents for fuels; or 
+
+ (C) Bulk gasoline plants, bulk gasoline terminals, and pipeline facilities; 
+
+ (ccc) Combustion source flame safety purging on startup; 
+
+ (ddd) Broke beaters, pulp and repulping tanks, stock chests and pulp handling equipment, excluding thickening equipment and repulpers; 
+
+ (eee) Stock cleaning and pressurized pulp washing, excluding open stock washing systems; and 
+
+ (fff) White water storage tanks. 
+
+ (25) "Certifying individual" means the responsible person or official authorized by the owner or operator of a source who certifies the accuracy of the emission statement. 
+
+ (26) "Class I area" or “PSD Class I area” means any Federal, State or Indian reservation land which is classified or reclassified as a Class I area under OAR 340-204-0050 and 340-204-0060. 
+
+ (27) “Class II area” or “PSD Class II area’ means any land which is classified or reclassified as a Class II area under OAR 340-204-0050 and 340-204-0060. 
+
+ (28) “Class III area” or “PSD Class III area’ means any land which is reclassified as a Class III area under OAR 340-204-0060. 
+
+ (29) "Commence" or "commencement" means that the owner or operator has obtained all necessary preconstruction approvals required by the FCAA and either has: 
+
+ (a) Begun, or caused to begin, a continuous program of actual on-site construction of the source to be completed in a reasonable time; or 
+
+ (b) Entered into binding agreements or contractual obligations, which cannot be canceled or modified without substantial loss to the owner or operator, to undertake a program of construction of the source to be completed in a reasonable time. 
+
+ (30) "Commission" or "EQC" means Environmental Quality Commission. 
+
+ (31) "Constant process rate" means the average variation in process rate for the calendar year is not greater than plus or minus ten percent of the average process rate. 
+
+ (32) "Construction": 
+
+ (a) Except as provided in subsection (b) means any physical change including, but not limited to, fabrication, erection, installation, demolition, replacement, or modification of a source or part of a source; 
+
+ (b) As used in OAR chapter 340, division 224 means any physical change including, but not limited to, fabrication, erection, installation, demolition, or modification of an emissions unit, or change in the method of operation of a source which would result in a change in actual emissions. 
+
+ (33) "Continuous compliance determination method" means a method, specified by the applicable standard or an applicable permit condition, which: 
+
+ (a) Is used to determine compliance with an emission limitation or standard on a continuous basis, consistent with the averaging period established for the emission limitation or standard; and 
+
+ (b) Provides data either in units of the standard or correlated directly with the compliance limit. 
+
+ (34) "Continuous monitoring systems" means sampling and analysis, in a timed sequence, using techniques which will adequately reflect actual emissions or concentrations on a continuing basis as specified in the DEQ Continuous Monitoring Manual, found in OAR 340-200-0035, and includes continuous emission monitoring systems, continuous opacity monitoring system (COMS) and continuous parameter monitoring systems. 
+
+ (35) “Control efficiency” means the product of the capture and removal efficiencies. 
+
+ (36) "Criteria pollutant" means any of the following regulated pollutants: nitrogen oxides, volatile organic compounds, particulate matter, PM10, PM2.5, sulfur dioxide, carbon monoxide, and lead. 
+
+ (37) "Data" means the results of any type of monitoring or method, including the results of instrumental or non-instrumental monitoring, emission calculations, manual sampling procedures, recordkeeping procedures, or any other form of information collection procedure used in connection with any type of monitoring or method. 
+
+ (38) “Day” means a 24-hour period beginning at 12:00 a.m. midnight or a 24-hour period as specified in a permit. 
+
+ (39) "De minimis emission level" means the level for the regulated pollutants listed below: 
+
+ (a) Greenhouse Gases (CO2e) = 2,756 tons per year. 
+
+ (b) CO = 1 ton per year. 
+
+ (c) NOx = 1 ton per year. 
+
+ (d) SO2 = 1 ton per year. 
+
+ (e) VOC = 1 ton per year. 
+
+ (f) PM = 1 ton per year. 
+
+ (g) PM10 (except Medford AQMA) = 1 ton per year. 
+
+ (h) PM10 (Medford AQMA) = 0.5 ton per year and 5.0 pounds/day. 
+
+ (i) Direct PM2.5 = 1 ton per year. 
+
+ (j) Lead = 0.1 ton per year. 
+
+ (k) Fluorides = 0.3 ton per year. 
+
+ (l) Sulfuric Acid Mist = 0.7 ton per year. 
+
+ (m) Hydrogen Sulfide = 1 ton per year. 
+
+ (n) Total Reduced Sulfur (including hydrogen sulfide) = 1 ton per year. 
+
+ (o) Reduced Sulfur = 1 ton per year. 
+
+ (p) Municipal waste combustor organics (dioxin and furans) = 0.0000005 ton per year. 
+
+ (q) Municipal waste combustor metals = 1 ton per year. 
+
+ (r) Municipal waste combustor acid gases = 1 ton per year. 
+
+ (s) Municipal solid waste landfill gases (measured as nonmethane organic compounds) = 1 ton per year 
+
+ (t) Single HAP = 1 ton per year 
+
+ (u) Combined HAP (aggregate) = 1 ton per year 
+
+ (40) "Department" or “DEQ”: 
+
+ (a) Means Department of Environmental Quality; except 
+
+ (b) As used in OAR chapter 340, divisions 218 and 220 means Department of Environmental Quality, or in the case of Lane County, LRAPA. 
+
+ (41) “DEQ method [#]” means the sampling method and protocols for measuring a regulated pollutant as described in the DEQ Source Sampling Manual, found in OAR 340-200-0035. 
+
+ (42) “Designated area” means an area that has been designated as an attainment, unclassified, sustainment, nonattainment, reattainment, or maintenance area under OAR chapter 340, division 204 or applicable provisions of the FCAA. 
+
+ (43) “Destruction efficiency” means removal efficiency. 
+
+ (44) "Device" means any machine, equipment, raw material, product, or byproduct at a source that produces or emits a regulated pollutant. 
+
+ (45) "Direct PM2.5" has the meaning provided in the definition of PM2.5. 
+
+ (46) "Director" means the Director of DEQ or the Director's designee. 
+
+ (47) "Draft permit" means the version of an Oregon Title V Operating Permit for which DEQ or LRAPA offers public participation under OAR 340-218-0210 or the EPA and affected State review under 340-218-0230. 
+
+ (48) "Dry standard cubic foot" means the amount of gas that would occupy a volume of one cubic foot, if the gas were free of uncombined water at standard conditions. 
+
+ (49) "Effective date of the program" means the date that the EPA approves the Oregon Title V Operating Permit program submitted by DEQ on a full or interim basis. In case of a partial approval, the "effective date of the program" for each portion of the program is the date of the EPA approval of that portion. 
+
+ (50) "Emergency" means any situation arising from sudden and reasonably unforeseeable events beyond the control of the owner or operator, including acts of God, which situation requires immediate corrective action to restore normal operation, and that causes the source to exceed a technology-based emission limitation under the permit, due to unavoidable increases in emissions attributable to the emergency. An emergency does not include noncompliance to the extent caused by improperly designed equipment, lack of preventative maintenance, careless or improper operation, or operator error. 
+
+ (51) "Emission" means a release into the atmosphere of any regulated pollutant or any air contaminant. 
+
+ (52) "Emission estimate adjustment factor" or "EEAF" means an adjustment applied to an emission factor to account for the relative inaccuracy of the emission factor. 
+
+ (53) "Emission factor" means an estimate of the rate at which a regulated pollutant is released into the atmosphere, as the result of some activity, divided by the rate of that activity (e.g., production or process rate). 
+
+ (54) "Emission(s) limitation," “emission(s) limit,” "emission(s) standard or “emission(s) limitation or standard” means: 
+
+ (a) Except as provided in subsection (b), a requirement established by a state, local government, or EPA rule; a permit condition or order, which limits the quantity, rate, or concentration of emissions of regulated pollutants on a continuous basis, including any requirements which limit the level of opacity, prescribe equipment, set fuel specifications, or prescribe operation or maintenance procedures for a source to assure continuous emission reduction. 
+
+ (b) As used in OAR 340-212-0200 through 340-212-0280, any applicable requirement that constitutes an emission(s) limit, emission(s) limitation, emission(s) standard, standard of performance or means of emission(s) limitation as defined under the FCAA. An emission limitation or standard may be expressed in terms of the pollutant, expressed either as a specific quantity, rate or concentration of emissions, e.g., pounds of SO2 per hour, pounds of SO2 per million British thermal units of fuel input, kilograms of VOC per liter of applied coating solids, or parts per million by volume of SO2, or as the relationship of uncontrolled to controlled emissions, e.g., percentage capture and destruction efficiency of VOC or percentage reduction of SO2. An emission limitation or standard may also be expressed either as a work practice, process or control device parameter, or other form of specific design, equipment, operational, or operation and maintenance requirement. For purposes of 340-212-0200 through 340-212-0280, an emission limitation or standard does not include general operation requirements that an owner or operator may be required to meet, such as requirements to obtain a permit, operate and maintain sources using good air pollution control practices, develop and maintain a malfunction abatement plan, keep records, submit reports, or conduct monitoring. 
+
+ (55) "Emission reduction credit banking" means to presently reserve, subject to requirements of OAR chapter 340, division 268, Emission Reduction Credits, emission reductions for use by the reserver or assignee for future compliance with air pollution reduction requirements. 
+
+ (56) "Emission reporting form" means a paper or electronic form developed by DEQ that must be completed by the permittee to report calculated emissions, actual emissions, or permitted emissions for interim emission fee assessment purposes. 
+
+ (57) "Emissions unit" means any part or activity of a source that emits or has the potential to emit any regulated pollutant. 
+
+ (a) A part of a source is any machine, equipment, raw material, product, or byproduct that produces or emits regulated pollutants. An activity is any process, operation, action, or reaction, e.g., chemical, at a stationary source that emits regulated pollutants. Except as described in subsection (d), parts and activities may be grouped for purposes of defining an emissions unit if the following conditions are met: 
+
+ (A) The group used to define the emissions unit may not include discrete parts or activities to which a distinct emissions standard applies or for which different compliance demonstration requirements apply; and 
+
+ (B) The emissions from the emissions unit are quantifiable. 
+
+ (b) Emissions units may be defined on a regulated pollutant by regulated pollutant basis where applicable. 
+
+ (c) The term emissions unit is not meant to alter or affect the definition of the term "unit" under Title IV of the FCAA. 
+
+ (d) Parts and activities cannot be grouped for determining emissions increases from an emissions unit under OAR chapter 340, divisions 210 and 224, or for determining the applicability of any New Source Performance Standard. 
+
+ (58) "EPA" or "Administrator" means the Administrator of the United States Environmental Protection Agency or the Administrator's designee. 
+
+ (59) "EPA Method 9" means the method for Visual Determination of the Opacity of Emissions From Stationary Sources described in 40 C.F.R. part 60, Appendix A–4. 
+
+ (60) "Equivalent method" means any method of sampling and analyzing for a regulated pollutant that has been demonstrated to DEQ's satisfaction to have a consistent and quantitatively known relationship to the reference method, under specified conditions. An equivalent method used to meet an applicable federal requirement for which a reference method is specified must be approved by EPA unless EPA has delegated authority for the approval to DEQ. 
+
+ (61) "Event" means excess emissions that arise from the same condition and occur during a single calendar day or continue into subsequent calendar days. 
+
+ (62) "Exceedance" means a condition that is detected by monitoring that provides data in terms of an emission limitation or standard and that indicates that emissions, or opacity, are greater than the applicable emission limitation or standard, or less than the applicable standard in the case of a percent reduction requirement, consistent with any averaging period specified for averaging the results of the monitoring. 
+
+ (63) "Excess emissions" means emissions in excess of an emission limit, or a risk limit under OAR chapter 340, division 245, contained in an applicable requirement, a permit or permit attachment limit; or emissions in violation of any applicable air quality rule. 
+
+ (64) "Excursion" means a departure from an indicator range established for monitoring under OAR 340-212-0200 through 340-212-0280 and 340-218-0050(3)(a), consistent with any averaging period specified for averaging the results of the monitoring. 
+
+ (65) "Federal Land Manager" means with respect to any lands in the United States, the Secretary of the federal department with authority over such lands. 
+
+ (66) "Federal Major Source" means any source listed in subsections (a) or (d) below: 
+
+ (a) A source with potential to emit: 
+
+ (A) 100 tons per year or more of any individual regulated pollutant, excluding greenhouse gases and hazardous air pollutants listed in OAR chapter 340, division 244 if in a source category listed in subsection (c), or 
+
+ (B) 250 tons per year or more of any individual regulated pollutant, excluding greenhouse gases and hazardous air pollutants listed in OAR chapter 340, division 244, if not in a source category listed in subsection (c). 
+
+ (b) Calculations for determining a source’s potential to emit for purposes of subsections (a) and (d) must include the following: 
+
+ (A) Fugitive emissions and insignificant activity emissions; and 
+
+ (B) Increases or decreases due to a new or modified source. 
+
+ (c) Source categories: 
+
+ (A) Fossil fuel-fired steam electric plants of more than 250 million BTU/hour heat input; 
+
+ (B) Coal cleaning plants with thermal dryer(C) Kraft pulp mills; 
+
+ (D) Portland cement plants; 
+
+ (E) Primary zinc smelters; 
+
+ (F) Iron and steel mill plants; 
+
+ (G) Primary aluminum ore reduction plants; 
+
+ (H) Primary copper smelters; 
+
+ (I) Municipal incinerators capable of charging more than 50 tons of refuse per day; 
+
+ (J) Hydrofluoric acid plants; 
+
+ (K) Sulfuric acid plants; 
+
+ (L) Nitric acid plants; 
+
+ (M) Petroleum refineries; 
+
+ (N) Lime plants; 
+
+ (O) Phosphate rock processing plants; 
+
+ (P) Coke oven batteries; 
+
+ (Q) Sulfur recovery plants; 
+
+ (R) Carbon black plants, furnace process; 
+
+ (S) Primary lead smelters; 
+
+ (T) Fuel conversion plants; 
+
+ (U) Sintering plants; 
+
+ (V) Secondary metal production plants; 
+
+ (W) Chemical process plants, excluding ethanol production facilities that produce ethanol by natural fermentation included in NAICS codes 325193 or 312140; 
+
+ (X) Fossil fuel fired boilers, or combinations thereof, totaling more than 250 million BTU per hour heat input; 
+
+ (Y) Petroleum storage and transfer units with a total storage capacity exceeding 300,000 barrels; 
+
+ (Z) Taconite ore processing plants; 
+
+ (AA) Glass fiber processing plants; 
+
+ (BB) Charcoal production plants. 
+
+ (d) A major stationary source as defined in part D of Title I of the FCAA, including: 
+
+ (A) For ozone nonattainment areas, sources with the potential to emit 100 tons per year or more of VOCs or oxides of nitrogen in areas classified as "marginal" or "moderate," 50 tons per year or more in areas classified as "serious," 25 tons per year or more in areas classified as "severe," and 10 tons per year or more in areas classified as "extreme"; except that the references in this paragraph to 100, 50, 25, and 10 tons per year of nitrogen oxides do not apply with respect to any source for which the Administrator has made a finding, under section 182(f)(1) or (2) of the FCAA, that requirements under section 182(f) of the FCAA do not apply; 
+
+ (B) For ozone transport regions established under section 184 of the FCAA, sources with the potential to emit 50 tons per year or more of VOCs; 
+
+ (C) For carbon monoxide nonattainment areas that are classified as "serious" and in which stationary sources contribute significantly to carbon monoxide levels as determined under rules issued by the Administrator, sources with the potential to emit 50 tons per year or more of carbon monoxide. 
+
+ (D) For PM10 nonattainment areas classified as "serious," sources with the potential to emit 70 tons per year or more of PM10. 
+
+ (67) "Final permit" means the version of an Oregon Title V Operating Permit issued by DEQ or LRAPA that has completed all review procedures required by OAR 340-218-0120 through 340-218-0240. 
+
+ (68) "Form" means a paper or electronic form developed by DEQ. 
+
+ (69) “Fuel burning equipment” means equipment, other than internal combustion engines, the principal purpose of which is to produce heat or power by indirect heat transfer. 
+
+ (70) "Fugitive emissions": 
+
+ (a) Except as used in subsection (b), means emissions of any air contaminant which escape to the atmosphere from any point or area that is not identifiable as a stack, vent, duct, or equivalent opening. 
+
+ (b) As used to define a major Oregon Title V Operating Permit program source, means those emissions which could not reasonably pass through a stack, chimney, vent, or other functionally equivalent opening. 
+
+ (71) "General permit": 
+
+ (a) Except as provided in subsection (b), means an Oregon Air Contaminant Discharge Permit established under OAR 340-216-0060; 
+
+ (b) As used in OAR chapter 340, division 218 means an Oregon Title V Operating Permit established under OAR 340-218-0090. 
+
+ (72)(a) "Greenhouse gases" or "GHGs" means the aggregate group of carbon dioxide (CO2), methane (CH4), nitrous oxide (N20), sulfur hexafluoride (SF6), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), and other fluorinated greenhouse gases or fluorinated GHG as defined in 40 C.F.R. part 98. 
+
+ (b) The definition of greenhouse gases in subsection (a) of this section does not include, for purposes of division 216, 218, and 224, carbon dioxide emissions from the combustion or decomposition of biomass except to the extent required by federal law. 
+
+ (73) "Growth allowance" means an allocation of some part of an airshed's capacity to accommodate future proposed sources and modifications of sources. 
+
+ (74) "Hardboard" means a flat panel made from wood that has been reduced to basic wood fibers and bonded by adhesive properties under pressure. 
+
+ (75) “Hazardous Air Pollutant” or “HAP” means an air contaminant listed by the EPA under section 112(b) of the FCAA or determined by the EQC to cause, or reasonably be anticipated to cause, adverse effects to human health or the environment. 
+
+ (76) "Immediately" means as soon as possible but in no case more than one hour after a source knew or should have known of an excess emission period. 
+
+ (77) "Indian governing body" means the governing body of any tribe, band, or group of Indians subject to the jurisdiction of the United States and recognized by the United States as possessing power of self-government. 
+
+ (78) "Indian reservation" means any federally recognized reservation established by Treaty, Agreement, Executive Order, or Act of Congress. 
+
+ (79) "Inherent process equipment" means equipment that is necessary for the proper or safe functioning of the process, or material recovery equipment that the owner or operator documents is installed and operated primarily for purposes other than compliance with air pollution regulations. Equipment that must be operated at an efficiency higher than that achieved during normal process operations in order to comply with the applicable emission limitation or standard is not inherent process equipment. For the purposes of OAR 340-212-0200 through 340-212-0280, inherent process equipment is not considered a control device. 
+
+ (80) "Insignificant activity" means an activity or emission that DEQ has designated as categorically insignificant, or that meets the criteria of aggregate insignificant emissions. 
+
+ (81) "Insignificant change" means an off-permit change defined under OAR 340-218-0140(2)(a) to either a significant or an insignificant activity which: 
+
+ (a) Does not result in a re-designation from an insignificant to a significant activity; 
+
+ (b) Does not invoke an applicable requirement not included in the permit; and 
+
+ (c) Does not result in emission of regulated pollutants not regulated by the source's permit. 
+
+ (82) “Internal combustion engine” means stationary gas turbines and reciprocating internal combustion engines. 
+
+ (83) "Late payment" means a fee payment which is received after the due date. 
+
+ (84) "Liquefied petroleum gas" has the meaning given by the American Society for Testing and Materials in ASTM D1835-82, "Standard Specification for Liquid Petroleum Gases." 
+
+ (85) "Lowest Achievable Emission Rate" or "LAER" means that rate of emissions which reflects: the most stringent emission limitation which is contained in the implementation plan of any state for such class or category of source, unless the owner or operator of the proposed source demonstrates that such limitations are not achievable; or the most stringent emission limitation which is achieved in practice by such class or category of source, whichever is more stringent. The application of this term cannot permit a proposed new or modified source to emit any air contaminant in excess of the amount allowable under applicable New Source Performance Standards (NSPS) or standards for hazardous air pollutants. 
+
+ (86) "Maintenance area" means any area that was formerly nonattainment for a criteria pollutant but has since met the ambient air quality standard, and EPA has approved a maintenance plan to comply with the standards under 40 C.F.R. 51.110. Maintenance areas are designated by the EQC according to division 204. 
+
+ (87) "Maintenance pollutant" means a regulated pollutant for which a maintenance area was formerly designated a nonattainment area. 
+
+ (88) "Major Modification" means any physical change or change in the method of operation of a source that results in satisfying the requirements of OAR 340-224-0025. 
+
+ (89) “Major New Source Review” or “Major NSR” means the new source review process and requirements under OAR 340-224-0010 through 340-224-0070 and 340-224-0500 through 340-224-0540 based on the location and regulated pollutants emitted. 
+
+ (90) "Major source": 
+
+ (a) Except as provided in subsection (b) of this section, means a source that emits, or has the potential to emit, any regulated air pollutant at a Significant Emission Rate. The fugitive emissions and insignificant activity emissions of a stationary source are considered in determining whether it is a major source. Potential to emit calculations must include emission increases due to a new or modified source and may include emission decreases. 
+
+ (b) As used in OAR chapter 340, division 210, Stationary Source Notification Requirements; Compliance Assurance Monitoring, OAR 340-212-0200 through 340-212-0280; OAR 340-216-0066, Standard ACDPs; OAR chapter 340, division 218, Oregon Title V Operating Permits; OAR chapter 340, division 220, Oregon Title V Operating Permit Fees; 340-216-0066, Standard ACDPs, and OAR chapter 340, division 236, Emission Standards for Specific Industries; means any stationary source or any group of stationary sources that are located on one or more contiguous or adjacent properties and are under common control of the same person or persons under common control belonging to a single major industrial grouping or supporting the major industrial group and that is described in paragraphs (A), (B), or (C). For the purposes of this subsection, a stationary source or group of stationary sources is considered part of a single industrial grouping if all of the regulated pollutant emitting activities at such source or group of sources on contiguous or adjacent properties belong to the same major group (i.e., all have the same two-digit code) as described in the Standard Industrial Classification Manual (U.S. Office of Management and Budget, 1987) or support the major industrial group. 
+
+ (A) A major source of hazardous air pollutants, which means: 
+
+ (i) For hazardous air pollutants other than radionuclides, any stationary source or group of stationary sources located within a contiguous area and under common control that emits or has the potential to emit, in the aggregate, 10 tons per year or more of any hazardous air pollutants that has been listed under OAR 340-244-0040; 25 tons per year or more of any combination of such hazardous air pollutants, or such lesser quantity as the Administrator may establish by rule. Emissions from any oil or gas exploration or production well, along with its associated equipment, and emissions from any pipeline compressor or pump station will not be aggregated with emissions from other similar units, whether or not such units are in a contiguous area or under common control, to determine whether such units or stations are major sources; or 
+
+ (ii) For radionuclides, "major source" will have the meaning specified by the Administrator by rule. 
+
+ (B) A major stationary source of regulated pollutants, as defined in section 302 of the FCAA, that directly emits or has the potential to emit 100 tons per year or more of any regulated pollutant, except greenhouse gases, including any major source of fugitive emissions of any such regulated pollutant. The fugitive emissions of a stationary source are not considered in determining whether it is a major stationary source for the purposes of section 302(j) of the FCAA, unless the source belongs to one of the following categories of stationary sources: 
+
+ (i) Coal cleaning plants (with thermal dryers); 
+
+ (ii) Kraft pulp mills; 
+
+ (iii) Portland cement plants; 
+
+ (iv) Primary zinc smelters; 
+
+ (v) Iron and steel mills; 
+
+ (vi) Primary aluminum ore reduction plants; 
+
+ (vii) Primary copper smelters; 
+
+ (viii) Municipal incinerators capable of charging more than 50 tons of refuse per day; 
+
+ (ix) Hydrofluoric, sulfuric, or nitric acid plants; 
+
+ (x) Petroleum refineries; 
+
+ (xi) Lime plants; 
+
+ (xii) Phosphate rock processing plants; 
+
+ (xiii) Coke oven batteries; 
+
+ (xiv) Sulfur recovery plants; 
+
+ (xv) Carbon black plants (furnace process); 
+
+ (xvi) Primary lead smelters; 
+
+ (xvii) Fuel conversion plants; 
+
+ (xviii) Sintering plants; 
+
+ (xix) Secondary metal production plants; 
+
+ (xx) Chemical process plants, excluding ethanol production facilities that produce ethanol by natural fermentation included in NAICS codes 325193 or 312140; 
+
+ (xxi) Fossil-fuel boilers, or combination thereof, totaling more than 250 million British thermal units per hour heat input; 
+
+ (xxii) Petroleum storage and transfer units with a total storage capacity exceeding 300,000 barrels; 
+
+ (xxiii) Taconite ore processing plants; 
+
+ (xxiv) Glass fiber processing plants; 
+
+ (xxv) Charcoal production plants; 
+
+ (xxvi) Fossil-fuel-fired steam electric plants of more than 250 million British thermal units per hour heat input; or 
+
+ (xxvii) Any other stationary source category, that as of August 7, 1980 is being regulated under section 111 or 112 of the FCAA. 
+
+ (C) From July 1, 2011 through November 6, 2014, a major stationary source of regulated pollutants, as defined by Section 302 of the FCAA, that directly emits or has the potential to emit 100 tons per year or more of greenhouse gases and directly emits or has the potential to emit 100,000 tons per year or more CO2e, including fugitive emissions. 
+
+ (91) "Material balance" means a procedure for determining emissions based on the difference in the amount of material added to a process and the amount consumed and/or recovered from a process. 
+
+ (92) "Modification," except as used in the terms "major modification" “permit modification” and “Title I modification,” means any physical change to, or change in the method of operation of, a source or part of a source that results in an increase in the source or part of the source's potential to emit any regulated pollutant on an hourly basis. Modifications do not include the following: 
+
+ (a) Increases in hours of operation or production rates that do not involve a physical change or change in the method of operation; 
+
+ (b) Changes in the method of operation due to using an alternative fuel or raw material that the source or part of a source was physically capable of accommodating during the baseline period; and 
+
+ (c) Routine maintenance, repair and like-for-like replacement of components unless they increase the expected life of the source or part of a source by using component upgrades that would not otherwise be necessary for the source or part of a source to function. 
+
+ (93) "Monitoring" means any form of collecting data on a routine basis to determine or otherwise assess compliance with emission limitations or standards. Monitoring may include record keeping if the records are used to determine or assess compliance with an emission limitation or standard such as records of raw material content and usage, or records documenting compliance with work practice requirements. Monitoring may include conducting compliance method tests, such as the procedures in appendix A to 40 C.F.R. part 60, on a routine periodic basis. Requirements to conduct such tests on a one-time basis, or at such times as a regulatory authority may require on a non-regular basis, are not considered monitoring requirements for purposes of this definition. Monitoring may include one or more than one of the following data collection techniques as appropriate for a particular circumstance: 
+
+ (a) Continuous emission or opacity monitoring systems. 
+
+ (b) Continuous process, capture system, control device or other relevant parameter monitoring systems or procedures, including a predictive emission monitoring system. 
+
+ (c) Emission estimation and calculation procedures (e.g., mass balance or stoichiometric calculations). 
+
+ (d) Maintaining and analyzing records of fuel or raw materials usage. 
+
+ (e) Recording results of a program or protocol to conduct specific operation and maintenance procedures. 
+
+ (f) Verifying emissions, process parameters, capture system parameters, or control device parameters using portable or in situ measurement devices. 
+
+ (g) Visible emission observations and recording. 
+
+ (h) Any other form of measuring, recording, or verifying on a routine basis emissions, process parameters, capture system parameters, control device parameters or other factors relevant to assessing compliance with emission limitations or standards. 
+
+ (94) "Natural gas" means a naturally occurring mixture of hydrocarbon and nonhydrocarbon gases found in geologic formations beneath the earth's surface, of which the principal component is methane. 
+
+ (95) "Netting basis" means an emission rate determined as specified in OAR 340-222-0046. 
+
+ (96) "Nitrogen oxides" or "NOx" means all oxides of nitrogen except nitrous oxide. 
+
+ (97) "Nonattainment area" means a geographical area of the state, as designated by the EQC or the EPA, that exceeds any state or federal primary or secondary ambient air quality standard. Nonattainment areas are designated by the EQC according to division 204. 
+
+ (98) "Nonattainment pollutant" means a regulated pollutant for which an area is designated a nonattainment area. Nonattainment areas are designated by the EQC according to division 204. 
+
+ (99) "Normal source operation" means operation that does not include such conditions as forced fuel substitution, equipment malfunction, or highly abnormal market conditions. 
+
+ (100) "Odor" means that property of an air contaminant that affects the sense of smell. 
+
+ (101) "Offset" means an equivalent or greater emission reduction that is required before allowing an emission increase from a source that is subject to Major NSR or State NSR. 
+
+ (102) "Opacity" means the degree to which emissions, excluding uncombined water, reduce the transmission of light and obscure the view of an object in the background as measured by EPA Method 9 or other method, as specified in each applicable rule. 
+
+ (103) "Oregon Title V Operating Permit" or “Title V permit” means written authorization issued, renewed, amended, or revised under OAR chapter 340, division 218. 
+
+ (104) "Oregon Title V Operating Permit program" or “Title V program” means the Oregon program described in OAR chapter 340, division 218 and approved by the Administrator under 40 C.F.R. part 70. 
+
+ (105) "Oregon Title V Operating Permit program source" or “Title V source” means any source subject to the permitting requirements, OAR chapter 340, division 218. 
+
+ (106) "Ozone precursor" means nitrogen oxides and volatile organic compounds. 
+
+ (107) "Ozone season" means the contiguous 3 month period during which ozone exceedances typically occur, i.e., June, July, and August. 
+
+ (108) "Particleboard" means matformed flat panels consisting of wood particles bonded together with synthetic resin or other suitable binder. 
+
+ (109) "Particulate matter": 
+
+ (a) Except as provided in subsection (b) of this section, means all finely divided solid and liquid material, other than uncombined water, that is emitted to the ambient air as measured by the test method specified in each applicable rule, or where not specified by rule, in the permit. 
+
+ (b) As used in OAR chapter 340, division 208, Visible Emissions and Nuisance Requirements, means all finely divided solid material, including dust, and all finely divided liquid material, other than uncombined water, that is emitted to the ambient air. 
+
+ (110) "Permit" means an Air Contaminant Discharge Permit or an Oregon Title V Operating Permit, permit attachment and any amendments or modifications thereof. 
+
+ (111) "Permit modification" means a permit revision that meets the applicable requirements of OAR chapter 340, division 216, OAR chapter 340, division 224, or OAR 340-218-0160 through 340-218-0180. 
+
+ (112) "Permit revision" means any permit modification or administrative permit amendment. 
+
+ (113) "Permitted emissions" as used in OAR chapter 340, division 220 means each regulated pollutant portion of the PSEL, as identified in an ACDP, Oregon Title V Operating Permit, review report, or by DEQ under OAR 340-220-0090. 
+
+ (114) "Permittee" means the owner or operator of a source, authorized to emit regulated pollutants under an ACDP or Oregon Title V Operating Permit. 
+
+ (115) "Person" means individuals, corporations, associations, firms, partnerships, joint stock companies, public and municipal corporations, political subdivisions, the State of Oregon and any agencies thereof, and the federal government and any agencies thereof. 
+
+ (116) "Plant Site Emission Limit" or "PSEL" means the total mass emissions per unit time of an individual regulated pollutant specified in a permit for a source. The PSEL for a major source may consist of more than one permitted emission for purposes of Oregon Title V Operating Permit Fees in OAR chapter 340, division 220. 
+
+ (117) “Plywood" means a flat panel built generally of an odd number of thin sheets of veneers of wood in which the grain direction of each ply or layer is at right angles to the one adjacent to it. 
+
+ (118) "PM10": 
+
+ (a) When used in the context of emissions, means finely divided solid or liquid material, including condensable particulate, other than uncombined water, with an aerodynamic diameter less than or equal to a nominal 10 micrometers, emitted to the ambient air as measured by the test method specified in each applicable rule or, where not specified by rule, in each individual permit; 
+
+ (b) When used in the context of ambient concentration, means airborne finely divided solid or liquid material with an aerodynamic diameter less than or equal to a nominal 10 micrometers as measured under 40 C.F.R. part 50, Appendix J or an equivalent method designated under 40 C.F.R. part 53. 
+
+ (119) "PM2.5": 
+
+ (a) When used in the context of direct PM2.5 emissions, means finely divided solid or liquid material, including condensable particulate, other than uncombined water, with an aerodynamic diameter less than or equal to a nominal 2.5 micrometers, emitted to the ambient air as measured by the test method specified in each applicable rule or, where not specified by rule, in each individual permit. 
+
+ (b) When used in the context of PM2.5 precursor emissions, means sulfur dioxide (SO2) and nitrogen oxides (NOx) emitted to the ambient air as measured by the test method specified in each applicable rule or, where not specified by rule, in each individual permit. 
+
+ (c) When used in the context of ambient concentration, means airborne finely divided solid or liquid material with an aerodynamic diameter less than or equal to a nominal 2.5 micrometers as measured under 40 C.F.R. part 50, Appendix L, or an equivalent method designated under 40 C.F.R. part 53. 
+
+ (120) "PM2.5 fraction" means the fraction of PM2.5 in relation to PM10 for each emissions unit that is included in the netting basis and PSEL. 
+
+ (121) "Pollutant-specific emissions unit" means an emissions unit considered separately with respect to each regulated pollutant. 
+
+ (122) “Portable” means designed and capable of being carried or moved from one location to another. Indicia of portability include, but are not limited to, wheels, skids, carrying handles, dolly, trailer, or platform. 
+
+ (123) "Potential to emit" or "PTE" means the lesser of: 
+
+ (a) The regulated pollutant emissions capacity of a stationary source; or 
+
+ (b) The maximum allowable regulated pollutant emissions taking into consideration any physical or operational limitation, including use of control devices and restrictions on hours of operation or on the type or amount of material combusted, stored, or processed, if the limitation is enforceable by the U.S. EPA Administrator. 
+
+ (c) This definition does not alter or affect the use of this term for any other purposes under the FCAA or the term "capacity factor" as used in Title IV of the FCAA and the regulations promulgated thereunder. Secondary emissions are not considered in determining the potential to emit. 
+
+ (124) "ppm" means parts per million by volume unless otherwise specified in the applicable rule or an individual permit. It is a dimensionless unit of measurement for gases that expresses the ratio of the volume of one component gas to the volume of the entire sample mixture of gases. 
+
+ (125) "Predictive emission monitoring system” or “PEMS" means a system that uses process and other parameters as inputs to a computer program or other data reduction system to produce values in terms of the applicable emission limitation or standard. 
+
+ (126) "Press/cooling vent" means any opening through which particulate and gaseous emissions from plywood, particleboard, or hardboard manufacturing are exhausted, either by natural draft or powered fan, from the building housing the process. Such openings are generally located immediately above the board press, board unloader, or board cooling area. 
+
+ (127) "Process upset" means a failure or malfunction of a production process or system to operate in a normal and usual manner. 
+
+ (128) "Proposed permit" means the version of an Oregon Title V Operating Permit that DEQ or LRAPA proposes to issue and forwards to the Administrator for review in compliance with OAR 340-218-0230. 
+
+ (129) “Reattainment area” means an area that is designated as nonattainment and has three consecutive years of monitoring data that shows the area is meeting the ambient air quality standard for the regulated pollutant for which the area was designated a nonattainment area, but a formal redesignation by EPA has not yet been approved. Reattainment areas are designated by the EQC according to division 204. 
+
+ (130) “Reattainment pollutant” means a regulated pollutant for which an area is designated a reattainment area. 
+
+ (131) "Reference method" means any method of sampling and analyzing for a regulated pollutant as specified in 40 C.F.R. part 52, 60, 61 or 63. 
+
+ (132) "Regional agency" means Lane Regional Air Protection Agency. 
+
+ (133) "Regulated air pollutant" or "Regulated pollutant": 
+
+ (a) Except as provided in subsections (b), (c) and (d), means: 
+
+ (A) Nitrogen oxides or any VOCs; 
+
+ (B) Any pollutant for which an ambient air quality standard has been promulgated, including any precursors to such pollutants; 
+
+ (C) Any pollutant that is subject to any standard promulgated under section 111 of the FCAA; 
+
+ (D) Any Class I or II substance subject to a standard promulgated under or established by Title VI of the FCAA; 
+
+ (E) Any pollutant listed under OAR 340-244-0040 or 40 C.F.R. 68.130; 
+
+ (F) Greenhouse gases; and 
+
+ (G) Toxic Air Contaminants. 
+
+ (b) As used in OAR chapter 340, division 220, Oregon Title V Operating Permit Fees, regulated pollutant means particulate matter, volatile organic compounds, oxides of nitrogen and sulfur dioxide. 
+
+ (c) As used in OAR chapter 340, division 222, Plant Site Emission Limits and division 224, New Source Review, regulated pollutant does not include any pollutant listed in OAR chapter 340, divisions 246 or 247. 
+
+ (d) As used in OAR chapter 340, division 202, Ambient Air Quality Standards And PSD Increments through division 208, Visible Emissions and Nuisance Requirements; division 215, Greenhouse Reporting Requirements; division 222, Stationary Source Plant Site Emission Limits through division 244, Oregon Federal Hazardous Air Pollutant Program; and division 248, Asbestos Requirements through division 268, Emission Reduction Credits; regulated pollutant means only the air contaminants listed under paragraphs (a)(A) through (F). 
+
+ (134) “Removal efficiency” means the performance of an air pollution control device in terms of the ratio of the amount of the regulated pollutant removed from the airstream to the total amount of regulated pollutant that enters the air pollution control device. 
+
+ (135) "Renewal" means the process by which a permit is reissued at the end of its term. 
+
+ (136) "Responsible official" means one of the following: 
+
+ (a) For a corporation: a president, secretary, treasurer, or vice-president of the corporation in charge of a principal business function, or any other person who performs similar policy or decision-making functions for the corporation, or a duly authorized representative of such person if the representative is responsible for the overall operation of one or more manufacturing, production, or operating facilities applying for or subject to a permit and either: 
+
+ (A) The facilities employ more than 250 persons or have gross annual sales or expenditures exceeding $25 million (in second quarter 1980 dollars); or 
+
+ (B) The delegation of authority to such representative is approved in advance by DEQ or LRAPA. 
+
+ (b) For a partnership or sole proprietorship: a general partner or the proprietor, respectively; 
+
+ (c) For a municipality, State, Federal, or other public agency: either a principal executive officer or ranking elected official. For the purposes of this division, a principal executive officer of a Federal agency includes the chief executive officer having responsibility for the overall operations of a principal geographic unit of EPA (e.g., a Regional Administrator of the EPA); or 
+
+ (d) For affected sources: 
+
+ (A) The designated representative in so far as actions, standards, requirements, or prohibitions under Title IV of the FCAA or the regulations promulgated there under are concerned; and 
+
+ (B) The designated representative for any other purposes under the Oregon Title V Operating Permit program. 
+
+ (137) "Secondary emissions" means emissions that are a result of the construction and/or operation of a source or modification, but that do not come from the source itself. Secondary emissions must be specific, well defined, quantifiable, and impact the same general area as the source associated with the secondary emissions. Secondary emissions may include, but are not limited to: 
+
+ (a) Emissions from ships and trains coming to or from a facility; 
+
+ (b) Emissions from off-site support facilities that would be constructed or would otherwise increase emissions as a result of the construction or modification of a source. 
+
+ (138) "Section 111" means section 111 of the FCAA, 42 U.S.C. § 7411, which includes Standards of Performance for New Stationary Sources (NSPS). 
+
+ (139) "Section 111(d)" means subsection 111(d) of the FCAA, 42 U.S.C. § 7411(d), which requires states to submit to the EPA plans that establish standards of performance for existing sources and provides for implementing and enforcing such standards. 
+
+ (140) "Section 112" means section 112 of the FCAA, 42 U.S.C. § 7412, which contains regulations for Hazardous Air Pollutants. 
+
+ (141) "Section 112(b)" means subsection 112(b) of the FCAA, 42 U.S.C. § 7412(b), which includes the list of hazardous air pollutants to be regulated. 
+
+ (142) "Section 112(d)" means subsection 112(d) of the FCAA, 42 U.S.C. § 7412(d), which directs the EPA to establish emission standards for sources of hazardous air pollutants. This section also defines the criteria to be used by the EPA when establishing the emission standards. 
+
+ (143) "Section 112(e)" means subsection 112(e) of the FCAA, 42 U.S.C. § 7412(e), which directs the EPA to establish and promulgate emissions standards for categories and subcategories of sources that emit hazardous air pollutants. 
+
+ (144) "Section 112(r)(7)" means subsection 112(r)(7) of the FCAA, 42 U.S.C. § 7412(r)(7), which requires the EPA to promulgate regulations for the prevention of accidental releases and requires owners or operators to prepare risk management plans. 
+
+ (145) "Section 114(a)(3)" means subsection 114(a)(3) of the FCAA, 42 U.S.C. § 7414(a)(3), which requires enhanced monitoring and submission of compliance certifications for major sources. 
+
+ (146) "Section 129" means section 129 of the FCAA, 42 U.S.C. § 7429, which requires the EPA to establish emission standards and other requirements for solid waste incineration units. 
+
+ (147) "Section 129(e)" means subsection 129(e) of the FCAA, 42 U.S.C. § 7429(e), which requires solid waste incineration units to obtain Oregon Title V Operating Permits. 
+
+ (148) "Section 182(f)" means subsection 182(f) of the FCAA, 42 U.S.C. § 7511a(f), which requires states to include plan provisions in the SIP for NOx in ozone nonattainment areas. 
+
+ (149) "Section 182(f)(1)" means subsection 182(f)(1) of the FCAA, 42 U.S.C. § 7511a(f)(1), which requires states to apply those plan provisions developed for major VOC sources and major NOx sources in ozone nonattainment areas. 
+
+ (150) "Section 183(e)" means subsection 183(e) of the FCAA, 42 U.S.C. § 7511b(e), which requires the EPA to study and develop regulations for the control of certain VOC sources under federal ozone measures. 
+
+ (151) "Section 183(f)" means subsection 183(f) of the FCAA, 42 U.S.C. § 7511b(f), which requires the EPA to develop regulations pertaining to tank vessels under federal ozone measures. 
+
+ (152) "Section 184" means section 184 of the FCAA, 42 U.S.C. § 7511c, which contains regulations for the control of interstate ozone air pollution. 
+
+ (153) "Section 302" means section 302 of the FCAA, 42 U.S.C. § 7602, which contains definitions for general and administrative purposes in the FCAA. 
+
+ (154) "Section 302(j)" means subsection 302(j) of the FCAA, 42 U.S.C. § 7602(j), which contains definitions of "major stationary source" and "major emitting facility." 
+
+ (155) "Section 328" means section 328 of the FCAA, 42 U.S.C. § 7627, which contains regulations for air pollution from outer continental shelf activities. 
+
+ (156) "Section 408(a)" means subsection 408(a) of the FCAA, 42 U.S.C. § 7651g(a), which contains regulations for the Title IV permit program. 
+
+ (157) "Section 502(b)(10) change" means a change which contravenes an express permit term but is not a change that: 
+
+ (a) Would violate applicable requirements; 
+
+ (b) Would contravene federally enforceable permit terms and conditions that are monitoring, recordkeeping, reporting, or compliance certification requirements; or 
+
+ (c) Is a FCAA Title I modification. 
+
+ (158) "Section 504(b)" means subsection 504(b) of the FCAA, 42 U.S.C. § 7661c(b), which states that the EPA can prescribe by rule procedures and methods for determining compliance and for monitoring. 
+
+ (159) "Section 504(e)" means subsection 504(e) of the FCAA, 42 U.S.C. § 761c(e), which contains regulations for permit requirements for temporary sources. 
+
+ (160) "Significant emission rate" or "SER," except as provided in subsections (v) and (w), means an emission rate equal to the rates specified for the regulated pollutants below: 
+
+ (a) Greenhouse gases (CO2e) = 75,000 tons per year 
+
+ (b) Carbon monoxide = 100 tons per year except in a serious nonattainment area = 50 tons per year, provided DEQ has determined that stationary sources contribute significantly to carbon monoxide levels in that area. 
+
+ (c) Nitrogen oxides (NOX) = 40 tons per year. 
+
+ (d) Particulate matter = 25 tons per year. 
+
+ (e) PM10 = 15 tons per year. 
+
+ (f) Direct PM2.5 = 10 tons per year. 
+
+ (g) PM2.5 precursors (SO2 or NOx) = 40 tons per year. 
+
+ (h) Sulfur dioxide (SO2) = 40 tons per year. 
+
+ (i) Ozone precursors (VOC or NOx) = 40 tons per year except: 
+
+ (A) In a serious or severe ozone nonattainment area = 25 tons per year. 
+
+ (B) In an extreme ozone nonattainment area = any emissions increase. 
+
+ (j) Lead = 0.6 tons per year. 
+
+ (k) Inorganic fluoride compounds (as measured by EPA method 13A or 13B), excluding hydrogen fluoride = 3 tons per year. 
+
+ (l) Sulfuric acid mist = 7 tons per year. 
+
+ (m) Hydrogen sulfide = 10 tons per year. 
+
+ (n) Total reduced sulfur (including hydrogen sulfide) = 10 tons per year. 
+
+ (o) Reduced sulfur compounds (including hydrogen sulfide) = 10 tons per year. 
+
+ (p) Municipal waste combustor organics (measured as total tetra- through octa- chlorinated dibenzo-p-dioxins and dibenzofurans) = 0.0000035 tons per year. 
+
+ (q) Municipal waste combustor metals (measured as particulate matter) = 15 tons per year. 
+
+ (r) Municipal waste combustor acid gases (measured as sulfur dioxide and hydrogen chloride) = 40 tons per year. 
+
+ (s) Municipal solid waste landfill emissions (measured as nonmethane organic compounds) = 50 tons per year. 
+
+ (t) Ozone depleting substances in aggregate = 100 tons per year. 
+
+ (u) For the Medford-Ashland Air Quality Maintenance Area, the SER for PM10 is defined as 5.0 tons per year on an annual basis and 50.0 pounds per day on a daily basis. 
+
+ (v) For regulated pollutants not listed in subsections (a) through (u), the SER is zero. 
+
+ (w) Any new source or modification with an emissions increase less than the rates specified above and that is located within 10 kilometers of a Class I area, and would have an impact on such area equal to or greater than 1 ug/m3 (24 hour average) is emitting at a SER. This subsection does not apply to greenhouse gas emissions. 
+
+ (161) "Significant impact" means an additional ambient air quality concentration equal to or greater than the significant impact level. For sources of VOC or NOx, a source has a significant impact if it is located within the ozone impact distance defined in OAR 340 division 224. 
+
+ (162) “Significant impact level” or “SIL” means the ambient air quality concentrations listed below. The threshold concentrations listed below are used for comparison against the ambient air quality standards and PSD increments established under OAR chapter 340, division 202, but do not apply for protecting air quality related values, including visibility. 
+
+ (a) For Class I areas: 
+
+ (A) PM2.5: 
+
+ (i) Annual = 0.03 μg/m3. 
+
+ (ii) 24-hour = 0.07 μg/m3. 
+
+ (B) PM10: 24-hour = 0.30 μg/m3. 
+
+ (C) Sulfur dioxide: 
+
+ (i) Annual = 0.10 μg/m3. 
+
+ (ii) 24-hour = 0.20 μg/m3. 
+
+ (iii) 3-hour = 1.0 μg/m3. 
+
+ (D) Nitrogen dioxide: annual = 0.10 μg/m3. 
+
+ (b) For Class II areas: 
+
+ (A) PM2.5: 
+
+ (i) Annual = 0.13 μg/m3. 
+
+ (ii) 24-hour = 1.2 μg/m3. 
+
+ (B) PM10: 24-hour = 1.0 μg/m3. 
+
+ (C) Sulfur dioxide: 
+
+ (i) Annual = 1.0 μg/m3. 
+
+ (ii) 24-hour = 5.0 μg/m3. 
+
+ (iii) 3-hour =25.0 μg/m3. 
+
+ (iv) 1-hour = 8.0 μg/m3. 
+
+ (D) Nitrogen dioxide: 
+
+ (i) Annual =1.0 μg/m3. 
+
+ (ii) 1-hour = 8.0 μg/m3. 
+
+ (E) Carbon monoxide: 
+
+ (i) 8-hour = 0.5 mg/m3. 
+
+ (ii) 1-hour = 2.0 mg/m3. 
+
+ (c) For Class III areas: 
+
+ (A) PM2.5: 
+
+ (i) Annual = 0.13 μg/m3. 
+
+ (ii) 24-hour = 1.2 μg/m3. 
+
+ (B) PM10: 24-hour = 1.0 μg/m3. 
+
+ (C) Sulfur dioxide: 
+
+ (i) Annual = 1.0 μg/m3. 
+
+ (ii) 24-hour = 5.0 μg/m3. 
+
+ (iii) 3-hour = 25.0 μg/m3. 
+
+ (D) Nitrogen dioxide: annual = 1.0 μg/m3 
+
+ (E) Carbon monoxide: 
+
+ (i) 8-hour = 0.5 mg/m3. 
+
+ (ii) 1-hour = 2.0 mg/m3. 
+
+ (163) "Significant impairment" occurs when DEQ determines that visibility impairment interferes with the management, protection, preservation, or enjoyment of the visual experience within a Class I area. DEQ will make this determination on a case-by-case basis after considering the recommendations of the Federal Land Manager and the geographic extent, intensity, duration, frequency, and time of visibility impairment. These factors will be considered along with visitor use of the Class I areas, and the frequency and occurrence of natural conditions that reduce visibility. 
+
+ (164) "Small scale local energy project" means: 
+
+ (a) A system, mechanism or series of mechanisms located primarily in Oregon that directly or indirectly uses or enables the use of, by the owner or operator, renewable resources including, but not limited to, solar, wind, geothermal, biomass, waste heat or water resources to produce energy, including heat, electricity and substitute fuels, to meet a local community or regional energy need in this state; 
+
+ (b) A system, mechanism or series of mechanisms located primarily in Oregon or providing substantial benefits to Oregon that directly or indirectly conserves energy or enables the conservation of energy by the owner or operator, including energy used in transportation; 
+
+ (c) A recycling project; 
+
+ (d) An alternative fuel project; 
+
+ (e) An improvement that increases the production or efficiency, or extends the operating life, of a system, mechanism, series of mechanisms or project otherwise described in this section of this rule, including but not limited to restarting a dormant project; 
+
+ (f) A system, mechanism or series of mechanisms installed in a facility or portions of a facility that directly or indirectly reduces the amount of energy needed for the construction and operation of the facility and that meets the sustainable building practices standard established by the State Department of Energy by rule; or 
+
+ (g) A project described in subsections (a) to (f), whether or not the existing project was originally financed under ORS 470, together with any refinancing necessary to remove prior liens or encumbrances against the existing project. 
+
+ (h) A project described in subsections (a) to (g) that conserves energy or produces energy by generation or by processing or collection of a renewable resource. 
+
+ (165) "Source" means any building, structure, facility, installation or combination thereof that emits or is capable of emitting air contaminants to the atmosphere, is located on one or more contiguous or adjacent properties and is owned or operated by the same person or by persons under common control. The term includes all air contaminant emitting activities that belong to a single major industrial group, i.e., that have the same two-digit code, as described in the Standard Industrial Classification Manual, U.S. Office of Management and Budget, 1987, or that support the major industrial group. 
+
+ (166) "Source category": 
+
+ (a) Except as provided in subsection (b), means all the regulated pollutant emitting activities that belong to the same industrial grouping, i.e., that have the same two-digit code, as described in the Standard Industrial Classification Manual, U.S. Office of Management and Budget, 1987. 
+
+ (b) As used in OAR chapter 340, division 220, Oregon Title V Operating Permit Fees, means a group of major sources that DEQ determines are using similar raw materials and have equivalent process controls and air pollution control device. 
+
+ (167) "Source test" means the average of at least three test runs conducted under the DEQ Source Sampling Manual found in 340-200-0035. 
+
+ (168) "Standard conditions" means a temperature of 68° Fahrenheit (20° Celsius) and a pressure of 14.7 pounds per square inch absolute (1.03 Kilograms per square centimeter). 
+
+ (169) "Startup" and "shutdown" means that time during which a source or control device is brought into normal operation or normal operation is terminated, respectively. 
+
+ (170) "State Implementation Plan" or "SIP" means the State of Oregon Clean Air Act Implementation Plan as adopted by the EQC under OAR 340-200-0040 and approved by EPA. 
+
+ (171) “State New Source Review” or “State NSR” means the new source review process and requirements under OAR 340-224-0010 through 340-224-0038, 340-224-0245 through 340-224-0270 and 340-224-0500 through 340-224-0540 based on the location and regulated pollutants emitted. 
+
+ (172) "Stationary source" means any building, structure, facility, or installation at a source that emits or may emit any regulated pollutant. Stationary source includes portable sources that are required to have permits under OAR chapter 340, division 216. 
+
+ (173) "Substantial underpayment" means the lesser of 10 percent of the total interim emission fee for the major source or five hundred dollars. 
+
+ (174) “Sustainment area” means a geographical area of the state for which DEQ has ambient air quality monitoring data that shows an attainment or unclassified area could become a nonattainment area but a formal redesignation by EPA has not yet been approved. The presumptive geographic boundary of a sustainment area is the applicable urban growth boundary in effect on the date this rule was last approved by the EQC, unless superseded by rule. Sustainment areas are designated by the EQC according to division 204. 
+
+ (175) “Sustainment pollutant” means a regulated pollutant for which an area is designated a sustainment area. 
+
+ (176) "Synthetic minor source" means a source that would be classified as a major source under OAR 340-200-0020, but for limits on its potential to emit regulated pollutants contained in an ACDP or Oregon Title V permit issued by DEQ. 
+
+ (177) "Title I modification" means one of the following modifications under Title I of the FCAA: 
+
+ (a) A major modification subject to OAR 340-224-0050, Requirements for Sources in Nonattainment Areas or OAR 340-224-0055, Requirements for Sources in Reattainment Areas; 
+
+ (b) A major modification subject to OAR 340-224-0060, Requirements for Sources in Maintenance Areas; 
+
+ (c) A major modification subject to OAR 340-224-0070, Prevention of Significant Deterioration Requirements for Sources in Attainment or Unclassified Areas or 340-224-0045 Requirements for Sources in Sustainment Areas; 
+
+ (d) A modification that is subject to a New Source Performance Standard under Section 111 of the FCAA; or, 
+
+ (e) A modification under Section 112 of the FCAA. 
+
+ (178) "Total reduced sulfur" or "TRS" means the sum of the sulfur compounds hydrogen sulfide, methyl mercaptan, dimethyl sulfide, dimethyl disulfide, and any other organic sulfides present expressed as hydrogen sulfide (H2S). 
+
+ (179) “Toxic air contaminant” means an air pollutant that has been determined by the EQC to cause, or reasonably be anticipated to cause, adverse effects to human health and is listed in OAR 340-247-8010 Table 1. 
+
+ (180) “Type A State NSR” means State NSR as specified in OAR 340-224-0010(2)(a). 
+
+ (181) “Type B State NSR” means State NSR that is not Type A State NSR. 
+
+ (182) "Typically Achievable Control Technology" or "TACT" means the emission limit established on a case-by-case basis for a criteria pollutant from a particular emissions unit under OAR 340-226-0130. 
+
+ (183) "Unassigned emissions" means the amount of emissions that are in excess of the PSEL but less than the netting basis. 
+
+ (184) "Unavoidable" or "could not be avoided" means events that are not caused entirely or in part by design, operation, maintenance, or any other preventable condition in either process or control device. 
+
+ (185) “Unclassified area” or “attainment area” means an area that has not otherwise been designated by EPA as nonattainment with ambient air quality standards for a particular regulated pollutant. Attainment areas or unclassified areas may also be referred to as sustainment or maintenance areas as designated in OAR chapter 340, division 204. Any particular location may be part of an attainment area or unclassified area for one regulated pollutant while also being in a different type of designated area for another regulated pollutant. 
+
+ (186) "Upset" or "Breakdown" means any failure or malfunction of any air pollution control device or operating equipment that may cause excess emissions. 
+
+ (187) "Veneer" means a single flat panel of wood not exceeding 1/4 inch in thickness formed by slicing or peeling from a log. 
+
+ (188) "Veneer dryer" means equipment in which veneer is dried. 
+
+ (189) "Visibility impairment" means any humanly perceptible change in visual range, contrast or coloration from that which existed under natural conditions. Natural conditions include fog, clouds, windblown dust, rain, sand, naturally ignited wildfires, and natural aerosols. 
+
+ (190) "Volatile organic compounds" or "VOC" means any compound of carbon, excluding carbon monoxide, carbon dioxide, carbonic acid, metallic carbides or carbonates, and ammonium carbonate, that participates in atmospheric photochemical reactions. 
+
+ (a) VOC includes any such organic compound other than the following, which have been determined to have negligible photochemical reactivity: 
+
+ (A) Methane; 
+
+ (B) Ethane; 
+
+ (C) Methylene chloride (dichloromethane); 
+
+ (D) 1,1,1-trichloroethane (methyl chloroform); 
+
+ (E) 1,1,2-trichloro-1,2,2-trifluoroethane (CFC-113); 
+
+ (F) Trichlorofluoromethane (CFC-11); 
+
+ (G) Dichlorodifluoromethane (CFC-12); 
+
+ (H) Chlorodifluoromethane (HCFC-22); 
+
+ (I) Trifluoromethane (HFC-23); 
+
+ (J) 1,2-dichloro 1,1,2,2-tetrafluoroethane (CFC-114); 
+
+ (K) Chloropentafluoroethane (CFC-115); 
+
+ (L) 1,1,1-trifluoro 2,2-dichloroethane (HCFC-123); 
+
+ (M) 1,1,1,2-tetrafluoroethane (HFC-134a); 
+
+ (N) 1,1-dichloro 1-fluoroethane (HCFC-141b); 
+
+ (O) 1-chloro 1,1-difluoroethane (HCFC-142b); 
+
+ (P) 2-chloro-1,1,1,2-tetrafluoroethane (HCFC-124); 
+
+ (Q) Pentafluoroethane (HFC-125); 
+
+ (R) 1,1,2,2-tetrafluoroethane (HFC-134); 
+
+ (S) 1,1,1-trifluoroethane (HFC-143a); 
+
+ (T) 1,1-difluoroethane (HFC-152a); 
+
+ (U) Parachlorobenzotrifluoride (PCBTF); 
+
+ (V) Cyclic, branched, or linear completely methylated siloxanes; 
+
+ (W) Acetone; 
+
+ (X) Perchloroethylene (tetrachloroethylene); 
+
+ (Y) 3,3-dichloro-1,1,1,2,2-pentafluoropropane (HCFC-225ca); 
+
+ (Z) 1,3-dichloro-1,1,2,2,3-pentafluoropropane (HCFC-225cb); 
+
+ (AA) 1,1,1,2,3,4,4,5,5,5-decafluoropentane (HFC 43-10mee); 
+
+ (BB) Difluoromethane (HFC-32); 
+
+ (CC) Ethylfluoride (HFC-161); 
+
+ (DD) 1,1,1,3,3,3-hexafluoropropane (HFC-236fa); 
+
+ (EE) 1,1,2,2,3-pentafluoropropane (HFC-245ca); 
+
+ (FF) 1,1,2,3,3-pentafluoropropane (HFC-245ea); 
+
+ (GG) 1,1,1,2,3-pentafluoropropane (HFC-245eb); 
+
+ (HH) 1,1,1,3,3-pentafluoropropane (HFC-245fa); 
+
+ (II) 1,1,1,2,3,3-hexafluoropropane (HFC-236ea); 
+
+ (JJ) 1,1,1,3,3-pentafluorobutane (HFC-365mfc); 
+
+ (KK) chlorofluoromethane (HCFC-31); 
+
+ (LL) 1 chloro-1-fluoroethane (HCFC-151a); 
+
+ (MM) 1,2-dichloro-1,1,2-trifluoroethane (HCFC-123a); 
+
+ (NN) 1,1,1,2,2,3,3,4,4-nonafluoro-4-methoxy-butane (C4 F9 OCH3 or HFE-7100); 
+
+ (OO) 2-(difluoromethoxymethyl)-1,1,1,2,3,3,3-heptafluoropropane ((CF3 )2 CFCF2 OCH3); 
+
+ (PP) 1-ethoxy-1,1,2,2,3,3,4,4,4-nonafluorobutane (C4 F9 OC2 H5 or HFE-7200); 
+
+ (QQ) 2-(ethoxydifluoromethyl)-1,1,1,2,3,3,3-heptafluoropropane ((CF3 )2 CFCF2 OC2 H5); 
+
+ (RR) Methyl acetate; 
+
+ (SS) 1,1,1,2,2,3,3-heptafluoro-3-methoxy-propane (n-C3F7OCH3, HFE-7000); 
+
+ (TT) 3-ethoxy- 1,1,1,2,3,4,4,5,5,6,6,6-dodecafluoro-2-(trifluoromethyl) hexane (HFE-7500); 
+
+ (UU) 1,1,1,2,3,3,3-heptafluoropropane (HFC 227ea); 
+
+ (VV) Methyl formate (HCOOCH3); 
+
+ (WW) 1,1,1,2,2,3,4,5,5,5-decafluoro-3-methoxy-4-trifluoromethyl-pentane (HFE-7300); 
+
+ (XX) Propylene carbonate; 
+
+ (YY) Dimethyl carbonate; 
+
+ (ZZ) Trans -1,3,3,3-tetrafluoropropene (also known as HFO-1234ze); 
+
+ (AAA) HCF2 OCF2 H (HFE-134); 
+
+ (BBB) HCF2 OCF2 OCF2 H (HFE-236cal2); 
+
+ (CCC) HCF2 OCF2 CF2 OCF2 H (HFE-338pcc13); 
+
+ (DDD) HCF2 OCF2 OCF2 CF2 OCF2 H (H-Galden 1040x or H-Galden ZT 130 (or 150 or 180)); 
+
+ (EEE) Trans 1-chloro-3,3,3-trifluoroprop-1-ene (also known as SolsticeTM 1233zd(E)); 
+
+ (FFF) 2,3,3,3-tetrafluoropropene (also known as HFO–1234yf); 
+
+ (GGG) 2-amino-2-methyl-1-propanol; 
+
+ (HHH) perfluorocarbon compounds which fall into these classes: 
+
+ (i) Cyclic, branched, or linear, completely fluorinated alkanes; 
+
+ (ii) Cyclic, branched, or linear, completely fluorinated ethers with no unsaturations; 
+
+ (iii) Cyclic, branched, or linear, completely fluorinated tertiary amines with no unsaturations; and 
+
+ (iv) Sulfur containing perfluorocarbons with no unsaturations and with sulfur bonds only to carbon and fluorine; 
+
+ (III) cis-1,1,1,4,4,4-hexafluorobut-2-ene (also known as HFO-1336mzz-Z); and 
+
+ (JJJ) t-butyl acetate. 
+
+ (b) For purposes of determining compliance with emissions limits, VOC will be measured by an applicable test method in the DEQ Source Sampling Manual referenced in OAR 340-200-0035. Where such a method also measures compounds with negligible photochemical reactivity, these negligibly-reactive compounds may be excluded as VOC if the amount of such compounds is accurately quantified, and DEQ approves the exclusion. 
+
+ (c) When considering a requested exclusion of negligibly-reactive compounds under subsection (b), DEQ may require an owner or operator to provide monitoring or testing methods and results that demonstrate, to DEQ's satisfaction, the amount of negligibly-reactive compounds in the source's emissions. 
+
+ (191) "Wood fired veneer dryer" means a veneer dryer, that is directly heated by the products of combustion of wood fuel in addition to or exclusive of steam or natural gas or propane combustion. 
+
+ (192) “Wood fuel-fired device” means a device or appliance designed for wood fuel combustion, including cordwood stoves, woodstoves and fireplace stove inserts, fireplaces, wood fuel-fired cook stoves, pellet stoves and combination fuel furnaces and boilers that burn wood fuels. 
+
+ (193) "Year" means any consecutive 12 month period of time. 
+
+ 
+ NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040 with the exception of all references to toxic air contaminants and OAR chapter 340, division 245. 
+
+ NOTE: Referenced publications not linked to below are available from the agency. 
+
+ NOTE: View a PDF of referenced tables and EPA Methods by clicking on "Tables" link below. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020 & 468A 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468A.025, 468A.035, 468A.040, 468A.050, 468A.055, 468A.070, 468A.075, 468A.085, 468A.105, 468A.135, 468A.140, 468A.155, 468A.280, 468A.310, 468A.315, 468A.360, 468A.363, 468A.380, 468A.385, 468A.420, 468A.495, 468A.500, 468A.505, 468A.515, 468A.575, 468A.595, 468A.600, 468A.610, 468A.612, 468A.620, 468A.635, 468A.707, 468A.740, 468A.745, 468A.750, 468A.775, 468A.780, 468A.797, 468A.799, 468A.803, 468A.820 & & Or. Laws 2009, chapter 754 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 27-2025, amend filed 08/18/2025, effective 08/18/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 19-2022, amend filed 11/18/2022, effective 03/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 18-2021, amend filed 11/17/2021, effective 11/17/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 13-2019, amend filed 05/16/2019, effective 05/16/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 197-2018, amend filed 11/16/2018, effective 11/16/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 7-2015, f. & cert. ef. 4-16-15 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ DEQ 12-2014(Temp), f. & cert. ef. 11-12-14 thru 5-10-15 
+DEQ 11-2013, f. & cert. ef. 11-7-13 
+DEQ 4-2013, f. & cert. ef. 3-27-13 
+DEQ 1-2012, f. & cert. ef. 5-17-12 
+DEQ 7-2011(Temp), f. & cert. ef. 6-24-11 thru 12-19-11 
+DEQ 5-2011, f. 4-29-11, cert. ef. 5-1-11 
+DEQ 10-2010(Temp), f. 8-31-10, cert. ef. 9-1-10 thru 2-28-11 
+DEQ 5-2010, f. & cert. ef. 5-21-10 
+DEQ 10-2008, f. & cert. ef. 8-25-08 
+DEQ 8-2007, f. & cert. ef. 11-8-07 
+DEQ 6-2007(Temp), f. & cert. ef. 8-17-07 thru 2-12-08 
+DEQ 2-2006, f. & cert. ef. 3-14-06 
+DEQ 2-2005, f. & cert. ef. 2-10-05 
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01 
+DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-020-0205, 340-028-0110 
+DEQ 6-1999, f. & cert. ef. 5-21-99 
+DEQ 1-1999, f. & cert. ef. 1-25-99 
+DEQ 21-1998, f. & cert. ef. 10-14-98 
+DEQ 16-1998, f. & cert. ef. 9-23-98 
+DEQ 14-1998, f. & cert. ef. 9-14-98 
+DEQ 9-1997, f. & cert. ef. 5-9-97 
+DEQ 22-1996, f. & cert. ef. 10-22-96 
+DEQ 19-1996, f. & cert. ef. 9-24-96 
+DEQ 22-1995, f. & cert. ef. 10-6-95 
+DEQ 12-1995, f. & cert. ef. 5-23-95 
+DEQ 10-1995, f. & cert. ef. 5-1-95 
+DEQ 24-1994, f. & cert. ef. 10-28-94 
+DEQ 21-1994, f. & cert. ef. 10-14-94 
+DEQ 13-1994, f. & cert. ef. 5-19-94 
+DEQ 20-1993(Temp), f. & cert. ef. 11-4-93 
+DEQ 19-1993, f. & cert. ef. 11-4-93 
+DEQ 12-1993, f. & cert. ef. 9-24-93, Renumbered from 340-020-0145, 340-020-0225, 340-020-0305, 340-020-0355, 340-020-0460 & 340-020-0520 
+DEQ 4-1993, f. & cert. ef. 3-10-93 
+DEQ 27-1992, f. & cert. ef. 11-12-92 
+DEQ 7-1992, f. & cert. ef. 3-30-92 
+DEQ 2-1992, f. & cert. ef. 1-30-92 
+DEQ 42-1990, f. 12-13-90, cert. ef. 1-2-91 
+DEQ 14-1989, f. & cert. ef. 6-26-89 
+DEQ 8-1988, f. & cert. ef. 5-19-88 
+DEQ 18-1984, f. & cert. ef. 10-16-84 
+DEQ 5-1983, f. & cert, ef. 4-18-83 
+DEQ 25-1981, f. & cert. ef. 9-8-81 
+DEQ 15-1978, f. & cert. ef. 10-13-78 
+DEQ 107, f. & cert. ef. 1-6-76, Renumbered from 340-020-0033 
+DEQ 63, f. 12-20-73, cert. ef. 1-11-74 
+DEQ 47, f. 8-31-72, cert. ef. 9-15-72 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

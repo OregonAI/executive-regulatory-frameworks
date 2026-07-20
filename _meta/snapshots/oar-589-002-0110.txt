@@ -1,0 +1,337 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Higher Education Coordinating Commission 
+ Office of Community Colleges and Workforce Development - Chapter 589 
+ 
+ 
+ 
+ 
+ Division 2 COMMUNITY COLLEGE FUNDING 
+ 589-002-0110 
+ Definitions
+ 
+ 
+ The following definitions apply to OAR 589-002-0100 through 589-002-0130. 
+
+ (1) “Adult” is any student who is 25 years or older as of July 1 in a given academic year. 
+
+ (2) “Annual Growth Factor (AGF)” is one-half of the Biennial Growth Management Component. 
+
+ (3) “Base Payment” is an allocation made through the Community College Distribution Model which provides funding for basic community college district operations that are essential and do not vary in direct proportion to the districts’ Full-Time Equivalent (FTE) student enrollment. The base allocation increases stability and predictability of funding for individual colleges. 
+
+ (4) “Biennial Growth Management Component” is the percent change, from one biennium to the next, of the total number of FTE for all community college districts that could be included in the funding formula without reducing resources available per FTE. The biennial growth management component is determined by the amount of total public resources available for the current biennium compared to the prior biennium and the estimated increased cost of FTE. 
+
+ (5) “Career and Technical Education (CTE)” is any student for whom a plurality of their completed coursework in the given academic year takes place in Activity (ACTI) codes 210, 211, 220, 230 or 363. 
+
+ (6) “Community College Distribution Model” is the formula by which funds are distributed pursuant to OAR 589-002-120 (6). 
+
+ (7) “Community College Support Fund (CCSF)” includes funding appropriated by the Legislature from the state's General Fund for the benefit of the community colleges to support various educational programs. This includes the set aside programs and funding distributed through the Community College Distribution Model. 
+
+ (8) “Completions” is the number of students who have earned a HECC approved credential during the given academic year. This includes commission approved applied baccalaureate degrees, Bachelor of Science: Nursing degrees, associate degrees, career pathways certificates of completion, noncredit training certificates, and less than one-year certificates and two-year certificates. 
+
+ (9) “Contracted Out-of-District (COD) Reimbursable FTE” means full-time equivalent students that are not residents in the community college district that they are attending and for which the community college district has a contract to provide educational services with an entity in the geographic area from which the student resides. COD reimbursable FTE must meet all other requirements for reimbursable FTE. The community college district must have a contract in place with the Department of Community Colleges and Workforce Development in order to receive reimbursement. 
+
+ (10) “Equalized Funding” means equal public resource support per funded FTE, regardless of community college district, and exclusive of the base. Equalization is measured by dividing Total Public Resources, exclusive of the base, by funded FTE. 
+
+ (11) “Federal Pell Grant” is a grant awarded by the United States Department of Education to eligible students at American institutions of higher education largely on the basis of financial need. 
+
+ (12) “FTE Cap” is the maximum number of Community College Distribution Model reimbursable FTE per community college district, which may be included in the funding formula calculation. The FTE cap is determined by applying the annual growth factor and may be adjusted by the preliminary FTE cap as described in Section 14. 
+
+ (13) “Full-Time Equivalent (FTE) student” for the purpose of receiving state reimbursement, means a student who carries 510 clock hours over three terms of instruction for all terms including a fall 12-week term. All colleges with an 11-week fall term will have their fall term clock hours increased to the equivalent 12-week hours for the purpose of calculating reimbursable FTE. 
+
+ (14) “Fundable FTE” is the number of full-time equivalent students that are at or below each community college district’s FTE Cap. Fundable FTE is the lesser of either the Community College Distribution Model reimbursable FTE or the FTE cap. This number is used in the three-year weighted average calculation that determines a community college district’s funded FTE as described in Section 11 of this rule. 
+
+ (15) “Funded FTE” is the community college district’s number of full-time equivalent students used in the formula to distribute the Community College Distribution Model funding for each community college district. This number is buffered to prevent significant changes in a community college district’s funding due to variability in student enrollment. It is calculated using a three-year weighted average of fundable FTE with the first year prior to current fundable FTE weighted at 40%, second year prior to current fundable FTE weighted at 30%, and third year prior to current fundable FTE weighted at 30%. 
+
+ (16) “Gateway Course” is defined as any student who has earned credit in a college-level English, writing, or math course during the given academic year. 
+
+ (17) “Growth Management” means the application of the Growth Management Component in combination with each community college district’s FTE cap. 
+
+ (18) “Headcount” is the total count of students attending any community college in a given academic year, regardless of number or type of courses they are enrolled in. 
+
+ (19) “Higher Education Coordinating Commission’s Biennial Quality Growth Factor” is a policy lever that allows the number of FTE that will be counted for funding purposes to be above or below the Biennial Growth Management Component. 
+
+ (20) “Low Income” is any student who has received either a Federal Pell Grant or Oregon Opportunity Grant at any Oregon Community College. 
+
+ (21) “Non-Credit” is any student who has completed a certain amount of adult education and/or non-credit workforce training during the given academic year. This includes students who have earned 6 contact hours or more in courses coded in activity code 363 and students who have earned 12 contact hours or more in courses in activity codes 310, 320, 330, and 340. 
+
+ (22) “Oregon Opportunity Grant (OOG)” is a grant awarded by the Higher Education Coordinating Commission to eligible Oregon resident students pursuant to ORS 348.205. 
+
+ (23) “Preliminary FTE Cap” is a tool that allows a community college district to recover fundable FTE within one year, if the district’s Community College Distribution Model reimbursable FTE is less than the FTE cap. There are two preliminary FTE caps. The first is based on the FTE cap from one year prior and the second is based on the prior year’s fundable FTE. The annual growth factor (as defined in Section 19 below) is applied to each. The current year’s FTE cap is the greater of these two numbers. 
+
+ (24) “Prioritized Populations” include any students who are low income, adult, in CTE programs or from an underrepresented racial/ethnic group. 
+
+ (25) “Property tax revenues” means the amount determined by the Department of Revenue to be imposed on local property following the application of limits imposed by sections 11(b)(1) through 11(b)(3), Article XI, of the Oregon Constitution, and those limits imposed by legislation. This amount becomes the basis for operation of the funding formula without regard to uncollectible taxes, or taxes collected from previous years. Taxes levied or imposed by a community college district to provide a public library system shall be excluded from the definition of property taxes in this rule. Property tax revenues raised through voter approval of any local option or capital construction levy are not to be included as a resource to be distributed through the Community College Distribution Model. 
+
+ (26) “Reimbursable FTE” means full-time equivalent students that are eligible, as described in OAR 589-002-0110 Sections (2) through (5) of this rule, for state funding through the Community College Distribution Model, before the application of the Annual Growth Factor (AGF). 
+
+ (27) “Student Success Funding” is funding based on a student’s progression towards, or completion of, a degree, certificate, or credential. 
+
+ (28) “Student Support Funding” is funding based on the number and type of students who are from one or more prioritized populations. 
+
+ (29) “Total Biennial Growth Management Component” is the sum of the Biennial Growth Management Component and the Higher Education Coordinating Commission’s Biennial Quality Growth Factor. 
+
+ (30) “Total Funded FTE" is the sum of all community college districts’ funded FTE for a fiscal year. 
+
+ (31) “Total Public Resources (TPR)” include 100% of the next year's imposed property tax revenue and the portion of the General Fund appropriation from the legislature available for distribution through the Community College Distribution Model. TPR does not include tuition and fees paid by students. 
+
+ (32) “Total Reimbursable FTE” means full-time equivalent students that are eligible for state reimbursement. These students must receive instruction from community college districts through either a contracted out-of district (COD) agreement described in OAR 589-002-0600, an agreement to provide services to state penitentiary or correctional institution inmates described in OAR 589-002-0700, or are Community College Distribution Model reimbursable FTE, described in Sections (2) through (5) and Section (8) of this rule. 
+
+ (33) “Underrepresented Racial/Ethnic Group” is any student who identifies as a member of one or more of the following groups:  Asian American/Asian, Black/African American, Latino/a/x/Hispanic, Multiracial, Native American/Alaskan Native or Native Hawaiian/Pacific Islander. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 350.075, ORS 341.015, ORS 341.022, ORS 341.317, ORS 341.440, ORS 341.626, ORS 341.665 & ORS 341.484 
+ 
+ 
+ Statutes/Other Implemented:  ORS 341.626 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CCWD 4-2025, minor correction filed 08/27/2025, effective 08/27/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CCWD 1-2025, amend filed 02/14/2025, effective 02/14/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CCWD 4-2023, amend filed 06/09/2023, effective 06/09/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CCWD 1-2020, amend filed 07/07/2020, effective 07/07/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DCCWD 5-2015, f. & cert. ef. 10-30-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DCCWD 3-2015(Temp), f. & cert. ef. 10-12-15 thru 4-8-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DCCWD 3-2013, f. & cert. ef. 6-11-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DCCWD 3-2012, f. & cert. ef. 12-26-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DCCWD 1-2012(Temp), f. & cert. ef. 7-17-12 thru 1-10-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

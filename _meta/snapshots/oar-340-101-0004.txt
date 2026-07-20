@@ -1,0 +1,311 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 101 IDENTIFICATION AND LISTING OF HAZARDOUS WASTE 
+ 340-101-0004 
+ Exclusions
+ 
+ 
+ (1) Residue described in 40 C.F.R. § 261.4(b)(9) is exempted from divisions 100-106 and 109. 
+
+ (2) Dry cleaning wastewater subject to the requirements in OAR 340 division 124 is not excluded under 40 C.F.R. §§ 261.4(a)(1)(i) and (ii). 
+
+ (3) The phrase “or labeled with equivalent wording describing the contents of the container and recognizing the exclusion” is added to the end of the first sentence in 40 C.F.R. § 261.4(a)(26)(i) and 40 C.F.R. § 261.4(b)(18)(i). 
+
+ (4) The phrase “To a municipal solid waste landfill regulated under 40 C.F.R. part 258, including 40 C.F.R. § 258.40, or” is deleted from 40 C.F.R. § 261.4(b)(18)(vi)(A). 
+
+ (5) The phrase “To a municipal waste combustor or other combustion facility regulated under section 129 of the Clean Air Act or” in 40 C.F.R. 261.4(b)(18)(vi)(B) is deleted. 
+
+ (6) Selmet, Inc, or its corporate successor (Selmet). The following wastes are excluded under OAR 340-100-0020 and 340-100-0022: 
+
+ (a) Wastewater treatment sludge, EPA Hazardous Waste No. F006, generated at Selmet’s facility in, Albany, Oregon, and contained in an on-site surface impoundment, as described in the delisting petition Selmet, Inc. provided on May 22, 2018. This is a one-time exclusion. [Note: The petition is attached as Appendix 1 to this rule.] 
+
+ (b) Wastewater treatment sludge, EPA Hazardous Waste No. F006, generated at Selmet’s facility in Albany, Oregon, as described in the delisting petition Selmet, Inc. provided on May 22, 2018. The exemption is limited to a maximum annual rate of 3120 cubic yards per year. Selmet must have the sludge disposed of in a Subtitle D landfill the department licenses, permits, or otherwise authorizes to accept the delisted wastewater treatment sludge. [Note: The petition is attached as Appendix 1 to this rule.] 
+
+ (c) The exemption described in subsection 6(b) of this rule remains in effect only as long as Selmet meets the following conditions: 
+
+ (A) Delisting Levels: The constituent concentrations measured in a leachate extract may not exceed the following concentrations (mg/l): cadmium-0.2; chromium-4.9; nickel-32.7; cyanide-7.5 and fluoride-94.8. 
+
+ (B) Annual Verification Testing: To verify that the waste does not exceed the specified delisting concentrations, Selmet, Inc. must collect and analyze one waste sample annually using methods with appropriate detection concentrations and elements of quality control. Selmet may use a total analysis of the waste to estimate the Toxicity Characteristic Leaching Procedure concentration as provided for in section 1.2 of Method 1311 as described in EPA SW 846. The Toxicity Characteristic Leaching Procedure is attached to this rule as Appendix 3.] 
+
+ (d) Changes in Operation Conditions: 
+
+ (A) If Selmet significantly changes the manufacturing process or the chemicals used in the manufacturing process, or both, Selmet must notify DEQ not more than 30 days after making the change. 
+
+ (B) Selmet must handle the wastes generated after the process change as hazardous until DEQ notifies Selmet in writing that DEQ has determined the wastes continue to meet the delisting concentrations in subparagraph (6)(c)(A), that Selmet has demonstrated that no new hazardous constituents listed in appendix VIII of 40 C.F.R. part 261 have been introduced, and that the department approves Selmet’s not handling the wastes as hazardous. 
+
+ (e) Data Submittals: Selmet must submit the data obtained through verification testing, or as required by other conditions of this rule, to DEQ. Selmet must submit the annual verification data and certification of proper disposal on the anniversary of the effective date of this exclusion. Selmet must compile, summarize, and maintain on site, for a minimum of five years, records of operating conditions and analytical data. Selmet must make these records available to DEQ for inspection. Selmet must submit with all data a signed copy of the certification statement described in 40 C.F.R. § 260.22(i)(12). 
+
+ (f) Reopener Language: 
+
+ (A) If, at any time after the delisted waste is disposed of, Selmet possesses, or is otherwise made aware of, any data, including but not limited to leachate data, about the delisted waste, indicating that any constituent is at a concentration in the leachate higher than the specified delisting concentration in subparagraph 6(c)(A), then Selmet must report such data, in writing, to DEQ, within 10 days of first possessing or being made aware of that data. 
+
+ (B) Based on the information described in subsections (6)(d) and (6)(e), and any other information received from any source, DEQ will make a preliminary determination as to whether the reported information requires department action to protect human health or the environment. Further action may include suspending or revoking the exclusion, or other appropriate response necessary to protect human health and the environment. 
+
+ (C) If DEQ determines that the reported information does require DEQ action, DEQ will notify Selmet in writing, of the actions DEQ believes are necessary to protect human health and the environment. The notice will include a statement of the proposed action and a statement providing Selmet with an opportunity to present information as to why the proposed DEQ action is not necessary or to suggest an alternative action. Selmet must provide to DEQ in writing its information in response to the notice within 30 days from the date DEQ mails its notice requesting the information. 
+
+ (D) DEQ will issue a final written determination. DEQ will issue the written determination no sooner than 30 days after DEQ mailed its notice to Selmet. Before issuing its determination, DEQ will consider any additional information Selmet submitted to DEQ within 30 days after DEQ issued its notice. The written determination will describe DEQ’s actions that are necessary to protect human health and the environment. Any required action described in DEQ’s determination is effective immediately, unless DEQ provides otherwise. 
+
+ (7) Pacific Cast Technologies, Inc., or its corporate successor (PCT). The following wastes are excluded under OAR 340-100-0020 and 340-100-0022: 
+
+ (a) Wastewater treatment sludge, EPA Hazardous Waste No. F006, generated at PCT’s, Albany, Oregon facility as described in the delisting petition PCT provided on April 11, 2019. The exemption is limited to a maximum annual rate of 9,000 cubic yards per year. PCT must have the sludge disposed of in a Subtitle D landfill that DEQ licenses, permits, or otherwise authorizes to accept the delisted wastewater treatment sludge. [Note: The petition is attached to this rule as Appendix 2.] 
+
+ (b) The exemption described in OAR 340-101-0004(7)(a) remains in effect only as long as PCT meets the following conditions: 
+
+ (A) Delisting Levels: The constituent concentrations measured in a leachate extract may not exceed the following concentrations (mg/l): cadmium-0.0911; chromium-2.27; nickel-13.5; and cyanide-3.08. 
+
+ (B) Annual Verification Testing: To verify that the waste does not exceed the specified delisting concentrations, PCT must collect and analyze one waste sample annually using methods with appropriate detection limits and elements of quality control (similar to those in the delisting petition). PCT may use a total analysis of the waste to estimate the Toxicity Characteristic Leaching Procedure concentration as provided for in section 1.2 of Method 1311. 
+
+ (c) Changes in Operation Conditions: 
+
+ (A) If PCT significantly changes the manufacturing process or the chemicals used in the manufacturing process, or both, PCT must notify DEQ not more than 30 days after making the change. 
+
+ (B) PCT must handle the wastes generated after the process change as hazardous until DEQ notifies PCT in writing DEQ has determined that the waste continues to meet the delisting concentrations in OAR 340-101-0004(7)(b)(A), that PCT has demonstrated that no new hazardous constituents listed in appendix VIII of 40 CFR part 261 have been introduced, and that the department approves PCT’s not handling the wastes as hazardous. 
+
+ (d) Data Submittals: PCT must submit the data obtained through verification testing, or as required by other conditions of this rule, to DEQ. PCT must submit the annual verification data and certification of proper disposal on the anniversary of the effective date of this exclusion. PCT must compile, summarize, and maintain on site, for a minimum of five years, records of operating conditions and analytical data. PCT must make these records available to DEQ for inspection. PCT must submit with all data a signed copy of the certification statement described in 40 C.F.R. § 260.22(i)(12). 
+
+ (e) Reopener Language: 
+
+ (A) If, at any time after the delisted waste is disposed of, PCT possesses, or is otherwise made aware of, any data, including but not limited to leachate data, about the delisted waste, indicating that any constituent is at a concentration in the leachate higher than the specified delisting concentration in paragraph 7(b)(A), then PCT must report such data, in writing, to DEQ, within 10 days of first possessing or being made aware of that data. 
+
+ (B) Based on the information described in subsections (7)(b) and (7)(c), and any other information received from any source, DEQ will make a preliminary determination as to whether the reported information requires DEQ action to protect human health or the environment. Further action may include suspending or revoking the exclusion, or other appropriate response necessary to protect human health and the environment. 
+
+ (C) If DEQ determines that the reported information does require DEQ action, DEQ will notify PCT in writing, of the actions DEQ believes are necessary to protect human health and the environment. The notice will include a statement of the proposed action and a statement providing PCT with an opportunity to present information as to why the proposed DEQ action is not necessary or to suggest an alternative action. PCT must provide to DEQ in writing its information in response to the notice within 30 days from the date the department mails its notice requesting the information. 
+
+ (D) DEQ will issue a final written determination. DEQ may issue the determination at the later of either 30 days after it mailed notice to PCT, if PCT presented no additional information during that interval, or after reviewing any information Pacific submitted during the 30-day interval. The written determination will describe DEQ actions that are necessary to protect human health and the environment. Any required action described in DEQ’s determination is effective immediately, unless the DEQ provides otherwise. 
+
+ (8) The provisions contained in 40 C.F.R 261.4(a)(23), (a)(24), (a)(25), and (a)(27) are deleted.  
+
+ [NOTE: View a PDF of Appendices by clicking on “Tables” link below.] 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 192, 465.009, 466.015, 466.020, 466.075, 466.090, 466.180, 468.020 & 646 
+ 
+ 
+ Statutes/Other Implemented:  ORS 466.015, 466.075 & 466.195 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 20-2022, amend filed 11/21/2022, effective 01/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 25-2019, amend filed 11/15/2019, effective 11/15/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 13-2019, amend filed 05/16/2019, effective 05/16/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 198-2018, amend filed 11/16/2018, effective 11/16/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 5-2017, f. & cert. ef. 7-12-17 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ DEQ 13-2003, f. & cert. ef. 10-24-03 
+DEQ 10-2000, f. & cert. ef. 7-21-00 
+DEQ 4-1999, f. & cert. ef. 3-19-99 
+DEQ 6-1994, f. & cert. ef. 3-22-94 
+DEQ 8-1985, f. & cert. ef. 7-25-85 
+DEQ 7-1984, f. & cert. ef. 4-26-84 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

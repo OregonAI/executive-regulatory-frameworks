@@ -1,0 +1,342 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 141 OIL SPILL CONTINGENCY PLANNING AND FEES 
+ 340-141-0150 
+ Oil Spill Contingency Planning Standards
+ 
+ 
+ (1) The purpose of this rule is to establish oil spill prevention and emergency response contingency planning standards for onshore and offshore facilities, pipelines and vessels that will, when followed: 
+
+ (a) Promote the prevention of oil spills; 
+
+ (b) Promote a consistent west coast approach to oil spill prevention and response; 
+
+ (c) Maximize the effectiveness and timeliness of oil spill response by responsible parties and response contractors; 
+
+ (d) Ensure readiness of equipment and personnel; 
+
+ (e) Support coordination with state, federal and other contingency plans in particular the state plan required under ORS 468B.495 - 468B.500; and 
+
+ (f) Protect Oregon waters and other natural resources from the impacts of oil spills. 
+
+ (2) A plan that conforms to DEQ’s planning standards, or alternative planning standard approved or required by DEQ as provided in subsection (2)(a) and (2)(b), may be approved if all other planning requirements in this Division are met: 
+
+ (a) Plans submitted that are based on standards that differ from DEQ’s planning standards must be supported by a detailed analysis that fully supports the methodology proposed. Alternative planning standards proposed by a plan submitter must be consistent with regional goals, be defended by the plan writer during public review of the plan and be approved by DEQ. 
+
+ (b) DEQ will apply the applicable planning standard when evaluating the adequacy of a plan submitted to DEQ for approval, unless the planning standards do not fully reflect the unique circumstances of a particular facility or vessel. If DEQ determines that the plan does not fully protect the environment despite compliance with the general planning standards, DEQ will provide a detailed written explanation of its decision outlining the basis for its decision and the specific changes needed in the submitted plan. 
+
+ (3) Plan writers must identify in their plans adequate resources to protect the areas potentially affected by a spill from their facility or vessel. The plan must state how the Planning Standards, including any performance standards, will be achieved. Required resources are further described in section (4)(a), (4)(b) and (4)(c) of this rule. The lands and waters of the state are divided into Zones and sub-Zones for planning purposes. Planning standards are established for each Zone and sub-Zone covered by this Division: 
+
+ (a) Facilities located in a sub-Zone of the Columbia River must meet the following planning standards, except as provided in subsections (g) and (h) of this section: 
+
+ (A) By 1 hour after the discovery of a spill, the facility must have deployed containment boom around the spill source. The length of boom on hand for this purpose must be at least four times the length of the largest vessel, or combined vessel lengths, potentially at that facility. The boom must be placed in the water in a location and fashion so as to contain and facilitate recovery of the greatest amount of oil from the water. 
+
+ (B) By 2 hours after the discovery of a spill, responders listed in the plan must be prepared to participate in an initial assessment of the release. The amount of boom deployed and available in reserve to be deployed, if needed, must be eight times the length of the largest vessel, or combined vessel lengths, potentially at that facility. 
+
+ (C) By 6 hours after the discovery of a spill, the facility must arrange for recovery of spilled oil. There must be equipment and personnel on site with the ability to recover the lesser of 12,000 barrels of oil or an amount of oil equal to 10 percent of the facility’s worst case spill from the water in the next 24 hours. 
+
+ (D) By 12 hours after the discovery of a spill, the facility must have 35,000 feet of boom deployed or available at the designated staging area for equipment deployment. Facilities handling only nonpersistent oils need to have 15,000 feet of boom at this time. All facilities must have the ability at or before this time to recover the lesser of 36,000 barrels of oil or 15 percent of the worst-case spill volume from the water in the next 24 hours. Facilities must have the ability to assess the impact of a spill on wildlife. Responders listed in the plan must have the ability to identify shoreline impacts. 
+
+ (E) By 24 hours after the discovery of a spill, the facility must have in place equipment and personnel with the ability to recover oil from the water to the lesser of 48,000 barrels of oil or 20 percent of the worst case spill volume in the next 24 hours. 
+
+ (F) By 48 hours after the discovery of a spill, the facility must have in place equipment and personnel with the ability to recover oil from the water to the lesser of 60,000 barrels of oil or 25 percent of the worst case spill volume in the next 24 hours. 
+
+ (b) Facilities located in the Coastal Bays Zone must meet the following planning standards: 
+
+ (A) By 1 hour after the discovery of a spill, the facility must have deployed containment boom around the spill source. The length of boom on hand for this purpose must be at least four times the length of the largest vessel, or combined vessel lengths, potentially at that facility. The boom must be placed in the water in a location and fashion so as to contain and facilitate recovery of the greatest amount of oil from the water. 
+
+ (B) By 2 hours after the discovery of a spill, responders listed in the plan must be prepared to participate in an initial assessment of the release. The amount of boom deployed and available in reserve to be deployed if needed must be eight times the length of the largest vessel, or combined vessel lengths, potentially at that facility. 
+
+ (C) By 6 hours after the discovery of a spill, the facility must arrange for recovery of spilled oil. There must be equipment and personnel on site with the ability to recover the lesser of 12,000 barrels of oil or an amount of oil equal to 10 percent of the facility’s worst-case spill from the water in the next 24 hours. 
+
+ (D) By 12 hours after the discovery of a spill, the facility must have 35,000 feet of boom deployed or available at the designated staging area for equipment deployment. Facilities handling only nonpersistent oils need to have 10,000 feet of boom at this time. All facilities must have the ability to recover oil at or before this time and have in place equipment and personnel with the ability to recover the lesser of 36,000 barrels of oil or 15 percent of the worst case spill volume from the water in the next 24 hours. Facilities must have the ability to assess the impact of a spill on wildlife. Responders listed in the plan must have the ability to identify shoreline impacts. 
+
+ (E) By 24 hours after the discovery of a spill, the facility must have deployed or have at the designated staging area for equipment deployment an amount of boom equal to 35,000 feet. Facilities handling only nonpersistent oils need to have 15,000 feet of boom at this time. All facilities must have in place equipment and personnel with the ability to recover from the water the lesser of 48,000 barrels of oil or 20 percent of the worst case spill volume in the next 24 hours. 
+
+ (F) By 48 hours after the discovery of a spill, the facility must have the ability to recover oil from the water to the lesser of 60,000 barrels of oil or 25 percent of the worst case spill volume in the next 24 hours. 
+
+ (c) Offshore facilities located in the Open Ocean Zone; 
+
+ (A) By 1 hour after the discovery of a spill, the offshore facility must have begun deploying the open ocean rated boom required to be at the facility. This must be an amount of boom equal to the full perimeter of the offshore facility plus the length of the largest vessel or barge, or combined vessel lengths, moored at the offshore facility. 
+
+ (B) By 6 hours after the discovery of a spill, responders listed in the plan must be prepared to participate in an initial assessment of the release. The offshore facility must also have the ability to begin recovering oil so an amount equal to 10 percent of the worst-case spill volume can be recovered in the next 24 hours and stored on site. 
+
+ (C) By 12 hours after the discovery of a spill, the offshore facility must have the ability to deploy protective boom at all sensitive coastal locations within 25 miles of the offshore facility. Facilities must have the ability to recover the lesser of 36,000 barrels of oil or 15 percent of the worst case spill volume from the water in the next 24 hours. Facilities must have the ability to assess the impact of a spill on wildlife. Responders listed in the plan must have the ability to identify shoreline impacts. 
+
+ (D) By 24 hours after the discovery of a spill, the offshore facility must have the ability to recover oil from the water to the lesser of 48,000 barrels of oil or 20 percent of the worst case spill volume in the next 24 hours. 
+
+ (E) By 48 hours after the discovery of a spill, the offshore facility must have the ability to establish shoreline cleanup resources and wildlife rescue services. The facility must have the ability to recover oil from the water to the lesser of 60,000 barrels of oil or 25 percent of the worst case spill volume in the next 24 hours. 
+
+ (d) Covered vessels operating in any sub-Zone of the Columbia River must meet the following planning standards: 
+
+ (A) By 2 hours after the discovery of a spill, the responders listed in the operator’s plan must be prepared to participate in an initial assessment of the release. Responders listed in the plan must have initiated deployment of containment boom around the source except in the case of passenger vessels, and vessels at risk of exacerbating the situation, where a deflection deployment for safety reasons may be used. The amount of boom being deployed must be the lesser of 1000 feet, or a length equal to four times the length of the vessel. The boom must be placed in the water in a location and fashion so as to safely contain and facilitate recovery of the greatest amount of oil from the water. Additional boom must be available at the staging area equal to the balance of four times the length of the vessel if the vessel is more than 250 feet in length. In all cases the plan must include, by contract or other approved means, a boat crew capable of deploying and tending the required boom to be operating on site at this time. 
+
+ (B) By 6 hours after the discovery of a spill, the vessel operator must have arranged for recovery of spilled oil. There must be equipment and personnel available to be on site at this time with the ability to recover the lesser of 12,000 barrels of oil, or an amount of oil equal to two percent of the vessel’s worst-case spill, from the water in the next 24 hours. The vessel plan must also provide for the delivery of 10,000 feet of containment boom. 
+
+ (C) By 12 hours after the discovery of a spill, the vessel operator must have the ability to deploy 40,000 feet of boom. There must be a recovery system capable of removing the lesser of 36,000 barrels of oil or five percent of the worst case spill volume from the water in the next 24 hours. Plans must include the ability to assess the impact of a spill on wildlife. Responders listed in the plan must have the ability to identify shoreline impacts. 
+
+ (D) By 24 hours after the discovery of a spill, the vessel operator must have deployed, or have at the designated staging area for equipment deployment, equipment and operators with the ability to recover the lesser of 48,000 barrels of oil or 12 percent of the worst case spill volume from the water in the next 24 hours. 
+
+ (E) By 48 hours after the discovery of a spill, the vessel operator must be able to arrange for an increased ability to recover oil from the water to the lesser of 60,000 barrels of oil or 17 percent of the worst-case spill in the next 24 hours. 
+
+ (e) Covered vessels operating in the Coastal Bays Zone must meet the following planning standards: 
+
+ (A) By 2 hours after the discovery of a spill, the responders listed in the plan must be prepared to participate in an initial assessment of the release. Responders listed in the plan must have initiated deployment of containment boom around the source, or in the case of passenger vessels a deflection deployment for safety reasons. The amount of boom being deployed must be the lesser of 1,000 feet, or a length equal to four times the length of the vessel. The boom must be placed in the water in a location and fashion so as to contain and facilitate recovery of the greatest amount of oil from the water. Additional boom must be available at the staging area equal to the balance of four times the length of the vessel if the vessel is more than 250 feet in length. In all cases the plan must include, by contract or other approved means, a boat crew capable of deploying and tending the required boom to be operating on site at this time. 
+
+ (B) By 6 hours after the discovery of a spill, the vessel operator must have arranged for recovery of spilled oil. There must be equipment and personnel on site at this time with the ability to recover the lesser of 12,000 barrels of oil or an amount of oil equal to two percent of the vessel’s worst-case spill from the water in the next 24 hours. The vessel plan must also have provided for the delivery to the site of 6,500 feet of containment boom. 
+
+ (C) By 12 hours after the discovery of a spill, the vessel operator must have the ability to deploy 9,500 feet of boom. There must be a recovery system on site capable of removing the lesser of 36,000 barrels of oil or five percent of the worst case spill volume from the water in the next 24 hours. Vessels must have the ability to assess the impact of a spill on wildlife. Responders listed in the plan must have the ability to identify shoreline impacts. 
+
+ (D) By 24 hours after the discovery of a spill, the vessel operator must have 14,000 feet of boom deployed, or at the designated staging area for equipment deployment, and equipment and operators with the ability to recover the lesser of 48,000 barrels of oil or 12 percent of the worst case spill volume from the water in the next 24 hours. 
+
+ (E) By 48 hours after the discovery of a spill, the vessel operator must be able to arrange to recover oil from the water to the lesser of 60,000 barrels of oil or 17 percent of the worst-case spill volume in the next 24 hours. 
+
+ (f) Covered vessels operating in the Open Ocean Zone: 
+
+ (A) By 2 hours after the discovery of a spill, the responders listed in the plan must mobilize personnel, prepare to conduct an initial site assessment and site safety characterization of the spill area and arrange for aircraft for aerial observations. Transport of appropriate boom must take place in preparation for deployment at the source. In the case of passenger vessels, booming strategies must take into account the safety of passengers. Amount of boom must be the lesser of 1,000 feet, or a length equal to four times the length of the vessel. Booming strategies must maximize containment and facilitate recovery of the greatest amount of oil from the water. Additional boom must be available at the response resource staging area equal to the balance of four times the length of the vessel if the vessel is more than 250 feet in length. In all cases, the plan must have listed by contract or other approved means qualified personnel to accomplish the requirements of this paragraph. 
+
+ (B) By 6 hours after the discovery of a spill, the vessel operator must have arranged for recovery of spilled oil. There must be equipment and personnel on site capable of recovering the lesser of 12,000 barrels of oil from the water or an amount of oil equal to two percent of the vessel’s worst-case spill in the next 24 hours. The vessel plan must also have provided for the delivery to the site of 10,000 feet of containment boom. 
+
+ (C) By 12 hours after the discovery of a spill, the vessel operator must have the ability to deploy 40,000 feet of boom. There must be on site a recovery system capable of removing from the water the lesser of 36,000 barrels of oil or three percent of the worst case spill volume in the next 24 hours. Vessel operators must have the ability to assess the impact of a spill on wildlife. Responders listed in the plan must have the ability to identify shoreline impacts. 
+
+ (D) By 24 hours after the discovery of a spill, the vessel operator must have deployed, or have at the designated staging area for equipment deployment, equipment and operators with the ability to recover the lesser of 48,000 barrels of oil or 12 percent of the worst case spill volume from the water in the next 24 hours. 
+
+ (E) By 48 hours after the discovery of a spill, the vessel operator must be able to arrange to recover oil from the water to the lesser of 60,000 barrels of oil or 17 percent of the worst-case spill volume in the next 24 hours. 
+
+ (g) Pipelines located in, or crossing, a planning Zone where there is a potential for spilling or releasing oil to navigable waters of the state must meet the following planning standards: 
+
+ (A) By 1 hour after the discovery of a spill, the pipeline operator must completely shut down the pipeline. 
+
+ (B) By 2 hours after the discovery of a spill, the pipeline operator or its dedicated response contractor must have deployed 1,000 feet of containment boom around the spill source entering the water. The boom must be placed in the water in a location and fashion so as to contain and facilitate recovery of the greatest amount of oil from the water. 
+
+ (C) By 6 hours after the discovery of a spill, the pipeline operator must have arranged for recovery of spilled oil. There must be equipment and personnel on site capable of recovering the lesser of 12,000 barrels of oil or an amount of oil equal to 10 percent of the pipeline’s worst-case spill from the water in the next 24 hours. 
+
+ (D) By 12 hours after the discovery of a spill, the pipeline operator must have 15,000 feet of boom deployed or at the designated staging area for equipment deployment. All pipelines must have the ability to recover oil at or before this time and have in place equipment and personnel with the ability to recover the lesser of 36,000 barrels of oil or 15 percent of the worst case spill volume from the water in the next 24 hours. The pipeline operator must have the ability to assess the damage potentially done to wildlife and shorelines in the impacted area of the spill. 
+
+ (E) By 24 hours after the discovery of a spill, the pipeline operator must increase the ability to recover oil from the water to the lesser of 48,000 barrels of oil or 20 percent of the worst case spill volume in the next 24 hours. The pipeline operator must have arranged for sufficient boom of an appropriate design to be deployed for the protection of sensitive wildlife habitats within the potential drift of oil in 24 hours. 
+
+ (F) By 48 hours after the discovery of a spill, the pipeline operator must increase the ability to recover oil from the water to the lesser of 60,000 barrels of oil or 25 percent of the worst case spill volume in the next 24 hours. The pipeline operator must have arranged for sufficient boom of an appropriate design to be deployed for the protection of sensitive wildlife habitats within the potential drift of oil in 48 hours. 
+
+ (h) Pipelines located in, or crossing, the Inland Zone must meet the following planning standards: 
+
+ (A) By 1 hour after the discovery of a spill, the pipeline operator must complete a shutdown of the pipeline. 
+
+ (B) By 2 hours after the discovery of a spill, the pipeline operator must have assigned personnel and emergency equipment to locate the exact point of release. The pipeline operator must have arranged for the equipment and response personnel necessary to contain the spill. 
+
+ (C) By 6 hours after the discovery of a spill, the pipeline operator must have the ability to complete the assessment of the spill. The pipeline operator must have the ability to rapidly get resources to the spill location using preplanned caches of materials where no local resources are resident. 
+
+ (D) By 12 hours after the discovery of the spill, the pipeline operator must have the ability to recover freestanding liquid oil from the environment equal to five percent of the worst-case spill in the next 24 hours. The pipeline operator must have the ability to assess and mitigate the damage potentially done to wildlife, wildlife habitat and natural resources in the impacted area of the spill. 
+
+ (E) By 24 hours after the discovery of a spill, the pipeline operator must have deployed or have at the designated staging area for equipment deployment an amount of equipment capable of removing 10 percent of the worst case spill volume from the land and any impacted water in the next 24 hours. 
+
+ (F) By 48 hours after the discovery of a spill, the pipeline operator must increase the ability to remove oil from the environment to the lesser of 60,000 barrels in the next 24 hours, or 15 percent of the worst case spill volume. The pipeline operator must have arranged for sufficient equipment, of an appropriate design, to be deployed for the protection of sensitive wildlife habitats within the potential spread or travel of the oil in 24 hours. 
+
+ (4) Resources identified in a plan to meet planning standards must include these conditions and qualifications: 
+
+ (a) The required resources listed in the plans for facilities, not including transmission pipelines or pipeline terminals, must be the property of the plan holder or specifically available to the plan holder through a contract or other approved means. Those resources required for the first and second hours on the Columbia River must be stocks of materials and labor sources resident within the impacted sub-Zone. To meet the six hour planning standards, the resources on the Columbia River may also be those normally resident in an adjacent sub-Zone. To meet the planning standard on the Columbia River at 12 hours, the materials may be from resources resident in the Zone. Those resources required for the first through the sixth hours in a coastal bay must be stocks of materials and labor sources resident within the impacted Zone. To meet the 12-hour planning standards in Coastal and Inland Zones, the resources may be from an adjacent planning Zone. 
+
+ (b) The required resources listed in a covered vessel plan must be the property of the plan holder, or specifically available to the plan holder through a contract or other approved means. Those resources necessary and available to meet planning standards for the initial response, and through the first two hours on the Columbia River must be stocks of materials and labor sources resident within the impacted sub-Zone. To meet the six-hour planning standard, the resources may be from an adjacent sub-Zone. To meet the 12-hour planning standards the resources on the Columbia River must be those normally resident in that Zone. To meet planning standards at two hours and six hours in Coastal Bay Zone, the resources must be resident in the specific bay. To meet planning standards at 12 hours in the Coastal Bay Zone, the resources may be from an adjacent Zone. 
+
+ (c) The required resources listed for a pipeline plan must be the property of the plan holder, or specifically available to the plan holder through a contract or other approved means. Those resources required for the first and second hours on the Columbia River must be stocks of materials and labor sources resident within the impacted sub-Zone. To meet the six-hour planning standards, the resources on the Columbia River may also be those normally resident in an adjacent sub-Zone. To meet the 12-hour planning standard on the Columbia River, the materials may be from resources resident in the Zone. Those resources required for the first through the sixth hours in a Coastal Bay Zone must be stocks of materials and labor sources resident within the impacted Zone. To meet planning standards at 12 hours in Coastal and Inland Zones, the resources may be from an adjacent planning Zone. 
+
+ (5) For all facilities, pipelines and covered vessels subject to planning standards in this rule, if equipment to recover oil from the water is required, the plan must identify interim storage for the recovered oil and oily water. Interim storage qualifications are described in section 0140 (24), the required content of contingency plans section of this rule, and are also addressed in OAR 340-142-0080. DEQ will set plan specific interim storage planning standards, or apply a default interim storage capacity equal to three times the effective daily recovery capacity (EDRC) of the equipment used to achieve the recovery percentages or volumes given in the planning standards of section (3). EDRC is used in planning standards to adjust the total recovery ability of a particular piece of oil spill recovery equipment to a lower value compensating for any incidental water it may recover. Unless otherwise approved by DEQ the nameplate efficiency for a piece of equipment will be derated to 20 percent of its manufacturer’s claim. Requirements for the 6 to 12 hour planning standards must show how the plan will meet the need for interim storage. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020 & 468B.395 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468B.350 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 8-2021, amend filed 05/20/2021, effective 05/20/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 184-2018, minor correction filed 04/16/2018, effective 04/16/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 104-2018, minor correction filed 04/10/2018, effective 04/10/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 2-2003, f. & cert. ef. 1-31-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

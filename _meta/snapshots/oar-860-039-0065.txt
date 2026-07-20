@@ -1,0 +1,206 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Public Utility Commission 
+ Chapter 860 
+ 
+ 
+ 
+ 
+ 
+ Division 39 NET METERING RULES 
+ 860-039-0065 
+ Aggregation of Meters for Net Metering
+ 
+ 
+ (1) For the purpose of measuring electricity usage under the net metering program, a public utility must, upon request from a customer-generator, aggregate for billing purposes the meter that is physically attached to the net metering facility ("designated meter") with one or more meters ("aggregated meter") in the manner set out in this rule. This rule is mandatory upon the public utility only when: 
+
+ (a) The aggregated meters are located on the customer-generator's premises or property that is contiguous to such premises; 
+
+ (b) The electricity recorded by the designated meter and any aggregated meters is for the customer-generator's requirements, and; 
+
+ (c) The designated meter and the aggregated meters are served by the same primary feeder at the time of application. 
+
+ (2) When a customer-generator aggregates one or more meters that are subject to a different rate schedule than the designated meter, the facilities capacity limit in OAR 860-039-0010 is determined by the rate applicable to the designated meter. 
+
+ (3) A customer-generator must give at least 60 days' notice to the utility to request that additional meters be included in meter aggregation. The specific meters must be identified at the time of such request. In the event that more than one additional meter is identified, the customer-generator must designate the rank order for the aggregated meters to which net metering credits are to be applied, and must rank aggregated meters subject to the same rate schedule as the designated meter above any other meters. At least 60 days in advance of the beginning of the next annual billing period, a customer-generator may amend the rank order of the aggregated meters, subject to the requirements of this rule. 
+
+ (4) The aggregation of meters will apply only to charges that use kilowatt-hours as the billing determinant. All other charges applicable to each meter account will be billed to the customer-generator. 
+
+ (5) The utility will first apply the kWh credit to the charges for the designated meter and then to the charges for the aggregated meters in the rank order specified by the customer-generator. If in a monthly billing period the net metering facility supplies more electricity to the public utility than the energy usage recorded by the customer-generator's designated and aggregated meters, the utility will apply credits to the next monthly bill for the excess kilowatt-hours first to the designated meter, then to aggregated meters in the rank order specified by the customer-generator. Public utilities subject to ORS 757.300(2) through (8) must specify in tariffs how the kWh credits will be applied when rate schedules have non-uniform kWh charges. 
+
+ (6) With the Commission's prior approval, a public utility may charge the customer-generator requesting to aggregate meters a reasonable fee to cover the administrative costs of this provision pursuant to a tariff approved by the Commission. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 183, ORS 756 & ORS 757 
+ 
+ 
+ Statutes/Other Implemented:  ORS 756.040 & ORS 757.300 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 3-2024, amend filed 04/09/2024, effective 04/09/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 5-2011, f. & cert. ef. 9-7-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 8-2007, f. & cert. ef. 7-27-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

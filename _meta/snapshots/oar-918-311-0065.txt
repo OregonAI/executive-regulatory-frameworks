@@ -1,0 +1,263 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Building Codes Division - Chapter 918 
+ 
+ 
+ 
+ 
+ Division 311 MISCELLANEOUS ELECTRICAL RULES 
+ 918-311-0065 
+ Electric Vehicle Charging Systems Statewide Permit and Inspection Protocol
+ 
+ 
+ To ensure a path for the emerging technology and enable the installation of charging systems for electric vehicles the following permit and inspection protocols will apply throughout the state, notwithstanding contrary provisions contained in the Oregon Electrical Specialty Code. This Electric Vehicle Supply Equipment (EVSE) permit covers the installation of all electrical components dedicated to the operation of an electric vehicle charging system. No other state building code permit is required. 
+
+ (1) Building officials and inspectors shall permit and allow installation of an electric vehicle charging system that has a Building Codes Division special deputy certification label without further testing or certification. 
+
+ (2) Persons installing an electric vehicle charging system must obtain a permit from the inspecting jurisdiction for the EVSE. 
+
+ (3)(a) The permit shall be a flat fee based on an inspecting jurisdiction’s feeder permit fee for circuit of equivalent size to cover the cost of enforcement and inspection of the items listed in sub-section (4). 
+
+ (b) Permits issued under this rule include up to two inspections. 
+
+ (4) Inspection of an EVSE installation is limited to determining compliance with the following Oregon Electrical Specialty Code provisions: 
+
+ (a) Overcurrent protection, per articles 225 and 240; 
+
+ (b) Physical protection of conductors, per article 300; 
+
+ (c) Separation and sizing of the grounding and neutral conductors, per article 250; and 
+
+ (d) Provisions for locking out the disconnecting means for maintenance, per chapter 4. 
+
+ (5) If an electric vehicle charging system is mounted in or on a pedestal that is not attached to a structure, as defined by the Oregon Electrical Specialty Code, the installation of a grounding electrode system to supplement lightning protection is allowed but cannot be required. 
+
+ (6) An electrical contractor employing a general supervising electrician in accordance with OAR 918-282-0010 is authorized to use a minor installation label to install a new branch circuit limited to 60 amps 240 volts for the purpose of installing a wall mounted EVSE unit in the garage of one and two family dwellings, and connect a listed wall mounted EVSE unit to that branch circuit. The electrical panel where the circuit originates must be in the garage within sight from the EVSE unit. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 455.065 
+ 
+ 
+ Statutes/Other Implemented:  ORS 455.065 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BCD 16-2025, amend filed 12/29/2025, effective 01/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BCD 10-2012, f. 9-28-12, cert. ef. 10-1-12 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BCD 4-2012(Temp), f. & cert. ef. 5-1-12 thru 9-30-12 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BCD 8-2010, f. 6-15-10, cert. ef. 7-1-10 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BCD 30-2008, f. 12-31-08, cert. ef 1-1-09 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BCD 16-2008(Temp), f. & cert. ef. 9-26-08 thru 3-25-09 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

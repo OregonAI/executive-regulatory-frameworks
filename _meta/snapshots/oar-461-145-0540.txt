@@ -1,0 +1,398 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Self-Sufficiency Programs - Chapter 461 
+ 
+ 
+ 
+ 
+ Division 145 TREATMENTS OF SPECIFIC ASSETS 
+ 461-145-0540 
+ Trusts
+ 
+ 
+ (1) This section applies to all trust funds (see OAR 461-001-0000) in the Refugee Assistance (REF), Refugee Assistance Medical (REFM), Supplemental Nutrition Assistance Program (SNAP), and Temporary Assistance for Needy Families (TANF) programs. It also applies in the Oregon Supplemental Income Program (OSIP), Oregon Supplemental Income Program Medical (OSIPM), and Qualified Medicare Beneficiaries-Disabled Worker (QMB-DW) programs for trust funds established before October 1, 1993: 
+
+ (a) Trust funds are counted as a resource if the fund is legally available for use by a member of the financial group (see OAR 461-110-0530) for items covered by program benefits. 
+
+ (b) Trust funds are excluded if the fund is not available for use by a member of the financial group . The financial group must try to remove legal restrictions on the trust, unless that would cause an expense to the group. 
+
+ (c) The part of the fund available for use for medical expenses covered by the medical program for which the financial group is eligible is counted. 
+
+ (d) In the OSIP, OSIPM, and QMB-DW programs, the amount of the trust that is considered legally available is the maximum amount that could be distributed to the beneficiary under the terms of the trust, regardless of whether the trustee exercises his or her authority to actually make a distribution; and a revocable trust is available as a resource, in the maximum amount that could be distributed in the event of revocation. 
+
+ (2) In the OSIP, OSIPM, and QMB-DW programs, trust funds established on or after October 1, 1993, are treated in accordance with sections (4) to (10) of this rule. 
+
+ (3) In the Qualified Medicare Beneficiaries-Basic (QMB-BAS), Qualified Medicare Beneficiaries-Specified Low Income Medicare Beneficiaries (QMB-SMB), and Qualified Medicare Beneficiaries-Qualified Individuals (QMB-SMF) programs: 
+
+ (a) All trust funds are excluded as a resource. 
+
+ (b) A payment made from the trust to or for the benefit of the individual is counted as unearned income. 
+
+ (4) A trust is considered established if the financial group used their resources to form all or part of the trust and if any of the following established a trust, other than by a will: 
+
+ (a) The individual. 
+
+ (b) The individual's spouse. 
+
+ (c) Any other person, including a court or administrative body, with legal authority to act in place of or on behalf of the individual or the individual's spouse. 
+
+ (d) Any other person, including a court or administrative body, acting at the direction or upon the request of the individual or the individual's spouse. 
+
+ (5) If the trust contains resources or income of another person, only the share attributable to the individual is considered available. 
+
+ (6) Except as provided in section (9) of this rule, the following factors are ignored when determining how to treat a trust: 
+
+ (a) The purpose for which the trust was established. 
+
+ (b) Whether or not the trustees have or exercise any discretion under the trust. 
+
+ (c) Any restrictions on when or if distributions may be made from the trust. 
+
+ (d) Any restrictions on the use of distributions from the trust. 
+
+ (7) If the trust is revocable, it is treated as follows: 
+
+ (a) In the OSIP, OSIPM, and QMB-DW programs: 
+
+ (A) The total value of the trust is considered a resource available to the individual. 
+
+ (B) A payment made from the trust to or for the benefit of the individual is excluded as income. 
+
+ (b) In the REF, REFM, SNAP, and TANF programs: 
+
+ (A) The total value of the trust is considered a resource available to the individual. 
+
+ (B) A payment made from the trust to or for the benefit of the individual is considered unearned income. 
+
+ (c) A payment from the trust other than to or for the benefit of the individual is considered a transfer of assets covered by OAR 461-140-0210 and following. 
+
+ (8) If the trust is irrevocable, it is treated as follows: 
+
+ (a) If, under any circumstances, the funds transferred into the trust are unavailable to the individual and the trustee has no discretion to distribute the funds to or for the benefit of the individual, the individual is subject to a transfer-of-resources penalty as provided in OAR 461-140-0210 and following. 
+
+ (b) If, under any circumstances, payments could be made to or on behalf of the individual, the share of the trust from which the payment could be made is considered a resource. A payment from the trust other than one to or for the benefit of the individual is considered a transfer of assets that may be covered by OAR 461-140-0210. 
+
+ (c) If, under any circumstances, income is generated by the trust and could be paid to the individual, the income is unearned income. Payments made for any reason other than to or for the benefit of the individual are considered a transfer of assets subject to disqualification per OAR 461-140-0210. 
+
+ (d) If any change in circumstance makes assets (income or resources) from the trust unavailable to the individual, the change is a disqualifying transfer as of the date of the change. 
+
+ (9) Notwithstanding the provisions in sections (1), (2), and (4) to (8) of this rule, the following trusts are not considered in determining eligibility (see OAR 461-001-0000) for OSIPM and QMB-DW: 
+
+ (a) A trust containing the assets of an individual determined to have a disability that meets the Supplemental Security Income (SSI) criteria, if all of the following are met: 
+
+ (A) The trust was created before the individual reached age 65; 
+
+ (B) The state will receive all funds remaining in the trust upon the death of the individual, up to the amount of medical assistance provided on behalf of the individual ; 
+
+ (C) All funding of and transfers to the trust occurred before the individual reached age 65 (if funding or transfers occur after that time, see OAR 461-140-0210 as it may constitute a disqualifying transfer of assets); and 
+
+ (D) The trust was established by one of the following : 
+
+ (i) The individual if the trust was established on or after December 13, 2016, 
+
+ (ii) The individual's parent (see OAR 461-001-0000), 
+
+ (iii) The individual's grandparent, 
+
+ (iv) The individual's legal guardian or conservator, or 
+
+ (v) A court. 
+
+ (b) A trust established between October 1, 1993 and March 31, 1995 for the benefit of an individual meeting the requirements OAR 461-135-0745 or OAR 461-135-0750 and containing only the current and accumulated income of the individual. The accumulated amount remaining in the trust must be paid directly to the state upon the death of the individual up to the amount of medical assistance provided on behalf of the individual. The trust is the total income in excess of the income standard for OSIPM. The remaining income not deposited into the trust is available for the following deductions in the order they appear prior to applying the patient liability: 
+
+ (A) Personal-needs allowance. 
+
+ (B) Community spouse monthly maintenance needs allowance. 
+
+ (C) Medicare and other private medical insurance premiums. 
+
+ (D) Other incurred medical. 
+
+ (c) A trust established on or after April 1, 1995 for the benefit of an individual meeting the requirements of OAR 461-135-0745 or 461-135-0750, whose income is above 300 percent of the full SSI standard and containing only the current and accumulated income of the individual. The accumulated amount remaining in the trust must be paid directly to the state upon the death of the individual up to the amount of medical assistance provided on behalf of the individual. The trust contains all of the individual's income. The income deposited into the trust is distributed monthly in the following order with excess amounts treated as income to the individual subject to the rules on transfer of assets in division 140 of this chapter of rules: 
+
+ (A) An earned income deduction of $65 from earned income. 
+
+ (B) The deductions under the plan for self-support as allowed by OAR 461-145-0405. 
+
+ (C) Personal needs allowance and applicable room and board standard. 
+
+ (D) Reasonable administrative costs of the trust, not to exceed a total of $50 per month, including the following: 
+
+ (i) Trustee fees. 
+
+ (ii) A reserve for administrative fees and costs of the trust, including bank service charges, copy charges, postage, accounting and tax preparation fees, future legal expenses, and income taxes attributable to trust income. 
+
+ (iii) Conservatorship and guardianship fees and costs. 
+
+ (E) Community spouse and family monthly maintenance needs allowance. 
+
+ (F) Medicare and other private medical insurance premiums. 
+
+ (G) Other incurred medical costs as allowed under OAR 461-160-0030 and 461-160-0055. 
+
+ (H) Contributions to reserves or payments for child support, alimony, and income taxes. 
+
+ (I) Monthly contributions to reserves or payments for the purchase of an irrevocable burial plan with a maximum value of $5,000. 
+
+ (J) Contributions to a reserve or payments for home maintenance if the individual meets the criteria of OAR 461-155-0660 or OAR 461-160-0630. 
+
+ (K) Patient liability not to exceed the cost of home and community-based care (see OAR 461-001-0030) or nursing facility services. 
+
+ (10) This section of the rule applies to a trust signed on or after July 1, 2006. 
+
+ (a) Notwithstanding the provisions of sections (1), (2) and (4) to (8) of this rule, a trust that meets the requirements of subsection (b) of this section is not considered in determining eligibility for OSIPM and QMB-DW, except that if the individual is age 65 or older when the trust is funded or a transfer is made to the trust, the transfer may constitute a disqualifying transfer of assets under OAR 461-140-0210 and following. 
+
+ (b) This section of the rule applies to a trust that meets all of the following conditions: 
+
+ (A) The trust is established and managed by a non-profit association. 
+
+ (B) A separate account is maintained for each beneficiary of the trust, but, for purposes of investment and management of funds, the trust pools these accounts. 
+
+ (C) The trust is established by the individual, individual's parent , grandparent, or legal guardian or a court for individuals who have disabilities. 
+
+ (D) Upon the death of the beneficiary or termination of the trust, the trust pays to the state an amount equal to the total medical assistance paid on behalf of the beneficiary under the State plan for Medicaid. The amount paid to the state may be reduced by administrative costs directly related to administering the sub-trust account of the beneficiary. 
+
+ (E) The trust contains the resources or income of an individual who has a disability that meets the SSI criteria. 
+
+ (11) In the OSIP, OSIPM, and QMB-DW programs, the provisions of this rule may be waived for an irrevocable trust if the Department determines that denial of benefits would create an undue hardship on the individual if, among other things: 
+
+ (a) The absence of the services requested may result in a life-threatening situation. 
+
+ (b) The individual was a victim of fraud or misrepresentation. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  409.050, 411.060, 411.070, 411.083, 411.404, 411.816, 412.049, 413.085 & 414.619 
+ 
+ 
+ Statutes/Other Implemented:  411.060, 411.070, 411.083, 411.404, 411.816, 412.049, 413.085, 414.619, 409.010 & 414.117 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 61-2024, amend filed 12/30/2024, effective 01/01/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 17-2023, amend filed 06/14/2023, effective 07/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 21-2020, amend filed 07/08/2020, effective 07/08/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 21-2017, f. 8-11-17, cert. ef. 9-1-17 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ SSP 7-2017(Temp), f. & cert. ef. 3-13-17 thru 9-8-17 
+SSP 45-2016, f. 12-20-16, cert. ef. 1-1-17 
+SSP 42-2016(Temp), f. & cert. ef. 11-4-16 thru 5-2-17 
+SSP 31-2016, f. & cert. ef. 9-1-16 
+SSP 25-2016(Temp), f. 6-30-16, cert. ef. 7-1-16 thru 12-27-16 
+SSP 35-2015, f. 12-23-15, cert. ef. 1-1-16 
+SSP 38-2013, f. 12-31-13, cert. ef. 1-1-14 
+SSP 30-2013(Temp), f. & cert. ef. 10-1-13 thru 3-30-14 
+SSP 26-2013, f. & cert. ef. 10-1-13 
+SSP 17-2013(Temp), f. & cert. ef. 7-1-13 thru 12-28-13 
+SSP 26-2008, f. 12-31-08, cert. ef. 1-1-09 
+SSP 10-2007, f. & cert. ef. 10-1-07 
+SSP 4-2007, f. 3-30-07, cert. ef. 4-1-07 
+SSP 16-2006(Temp), f. 12-29-06, cert. ef. 1-1-07 thru 3-31-07 
+SSP 15-2006, f. 12-29-06, cert. ef. 1-1-07 
+SSP 14-2006, f. 9-29-06, cert. ef. 10-1-06 
+SSP 19-2005, f. 12-30-05, cert. ef. 1-1-06 
+SSP 22-2004, f. & cert. ef. 10-1-04 
+SSP 16-2003, f. & cert. ef. 7-1-03 
+SSP 11-2003, f. & cert. ef. 5-1-03 
+AFS 18-2002(Temp), f. & cert. ef, 11-19-02 thru 5-18-03 
+AFS 5-2002, f. & cert. ef. 4-1-02 
+AFS 22-2001, f. & cert. ef. 10-1-01 
+AFS 6-2001, f. 3-30-01, cert. ef. 4-1-01 
+AFS 34-2000, f. 12-22-00, cert. ef. 1-1-01 
+AFS 25-2000, f. 9-29-00, cert. ef. 10-1-00 
+AFS 13-1997, f. 8-28-97, cert. ef. 9-1-97 
+AFS 21-1995, f. 9-20-95, cert. ef. 10-1-95 
+AFS 13-1995, f. 6-29-95, cert. ef. 7-1-95 
+AFS 10-1995, f. 3-30-95, cert. ef. 4-1-95 
+AFS 13-1994, f. & cert. ef. 7-1-94 
+AFS 6-1994, f. & cert. ef. 4-1-94 
+AFS 29-1993, f. 12-30-93, cert. ef. 1-1-94 
+AFS 18-1993(Temp), f. & cert. ef. 10-1-93 
+AFS 80-1989, f. 12-21-89, cert. ef. 2-1-90 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

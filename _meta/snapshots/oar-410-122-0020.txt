@@ -1,0 +1,612 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 122 DURABLE MEDICAL EQUIPMENT, PROSTHETIC ORTHOTICS AND SUPPLIES (DMEPOS) 
+ 410-122-0020 
+ Orders
+ 
+ 
+ (1) The purchase, rental, or modifications of durable medical equipment and the purchase of supplies must have an order from the prescribing practitioner prior to dispensing items to a client. 
+
+ (2) For any durable medical equipment, prosthetics, orthotics and supplies (DMEPOS), a provider must have a written order signed and dated by the prescribing practitioner prior to submitting a claim to the Division. 
+
+ (3) A provider may dispense some items based on a verbal order from the prescribing practitioner, except those items requiring a written order prior to delivery or as specified in a particular rule: 
+
+ (a) A provider must maintain documentation of the verbal order and this documentation must be available to the Division upon request; 
+
+ (b) The verbal order must include all of the following elements: 
+
+ (A) Client’s name; 
+
+ (B) Practitioner’s name; 
+
+ (C) Description of the item; 
+
+ (D) Start date of the order; 
+
+ (E) Primary ICD-10 diagnosis code for the equipment/supplies requested. 
+
+ (c) For items that are dispensed based on a verbal order, the provider must obtain a written order that meets the requirements outlined below for written orders. 
+
+ (4) When specified in rule, a nurse practitioner or clinical nurse specialist may provide the dispensing order and sign the detailed written order only when the following are met: 
+
+ (a) They are treating the client for the condition for which the item is needed; and 
+
+ (b) They are practicing independently of a physician; and 
+
+ (c) All of the above are permitted when within their scope of practice and licensure with the State of Oregon. 
+
+ (5) When specified in rule, a physician associate may provide the dispensing order and sign the detailed written order only when the following are met: 
+
+ (a) They are treating the client for the condition for which the item is needed; and 
+
+ (b) They are practicing under the supervision of a Doctor of Medicine or Doctor of Osteopathy; and 
+
+ (c) All of the above are permitted when within their scope of practice and licensure with the State of Oregon. 
+
+ (6) The DMEPOS provider must have on file a written order, information from the prescribing practitioner concerning the client’s diagnosis and medical condition, and any additional information required in a specific rule. 
+
+ (7) The Division accepts any of the following forms of orders: a photocopy, facsimile image, electronically maintained or original “pen and ink” document: 
+
+ (a) An electronically maintained document is one that has been created, modified, and stored via electronic means such as commercially available software packages and servers; 
+
+ (b) The provider shall ensure the authenticity and validity of a facsimile image, electronically maintained or photocopied order; 
+
+ (c) A provider must also ensure the security and integrity of all electronically maintained orders; 
+
+ (d) The written order may serve as the order to dispense the item if the written order is obtained before the item is dispensed. 
+
+ (8) A written order must be legible and contain the following elements: 
+
+ (a) Client’s name; and 
+
+ (b) Detailed description of the item that can either be a general description (e.g., lightweight wheelchair base) or a brand name/model number including medically appropriate options or additional features; and 
+
+ (c) The detailed description of the item may be completed by someone other than the practitioner. However, the prescribing practitioner must review the detailed description and personally indicate agreement by his signature and the date that the order is signed: 
+
+ (A) Practitioners shall sign for services they order; 
+
+ (B) This signature must be handwritten or electronic, and it must be in the client’s medical record; 
+
+ (C) The ordering practitioner shall ensure the authenticity of the signature; 
+
+ (d) Primary ICD-10 diagnosis code for the equipment and supplies requested; and 
+
+ (e) Quantity to be dispensed, if applicable; and 
+
+ (f) Order date; and 
+
+ (g) Treating practitioner’s name; and 
+
+ (h) Treating practitioner’s signature: 
+
+ (A) This signature must be handwritten or electronic, and it must be in the client’s medical record; 
+
+ (B) The ordering/treating practitioner shall ensure the authenticity of the signature; and 
+
+ (C) Use of signature stamps may not be used on any medical record. 
+
+ (9) The DMEPOS provider shall obtain as much documentation from the client’s medical record as necessary for assurance that the Division coverage criteria for an item is met. 
+
+ (10) Certain items require one or more of the following additional elements in the written order: 
+
+ (a) For accessories or supplies that will be provided on a periodic basis: 
+
+ (A) Quantity used; 
+
+ (B) Specific frequency of change or use. “As needed” or “prn” orders are not acceptable; 
+
+ (C) Number of units; 
+
+ (D) Length of need. For example, an order for surgical dressings might specify one “4 x 4” hydrocolloid dressing that is changed one to two times per week for one month or until the ulcer heals. 
+
+ (b) For orthoses, if a custom-fabricated orthosis is ordered by the practitioner, this must be clearly indicated on the written order; 
+
+ (c) Length of need: 
+
+ (A) If the coverage criteria in a rule specifies length of need; or 
+
+ (B) If the order is for a rental item. 
+
+ (d) Any other medical documentation required by rule. 
+
+ (11) Repairs, labor for repairs, parts for durable medical equipment (DME) repairs, and replacement parts for DME (e.g., batteries) do not require a written order. 
+
+ (12) A new order is required: 
+
+ (a) When required by Medicare for a Medicare covered service; 
+
+ (b) When there is a change in the original order for an item (e.g., quantity); 
+
+ (c) When an item is permanently replaced; 
+
+ (d) When indicated by the prescribing practitioner: 
+
+ (A) A new order is required when an item is being replaced because the item is worn or the client’s condition has changed; 
+
+ (B) The provider’s records shall include client-specific information regarding the need for the replacement item; 
+
+ (C) This information shall be maintained in the provider’s files and be available to the Division upon request; 
+
+ (D) A new order is required before replacing lost, stolen, or irreparably damaged items to reaffirm the medical appropriateness of the item. 
+
+ (e) When there is a change in a DMEPOS provider or in cases where two or more providers merge, the recipient provider shall make all reasonable attempts to secure copies of all written orders from the transferring provider. This document shall be kept on file by the recipient provider and made available upon request by the Division; 
+
+ (f) On a regular basis (even if there is no change in the order) when it is so specified in the documentation section of a particular rule. 
+
+ (13) A provider shall maintain and provide legible copies of facsimile images and electronic transmissions of orders. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042 & 414.065 
+ 
+ 
+ Statutes/Other Implemented:  414.065 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 6-2025, minor correction filed 01/09/2025, effective 01/09/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 101-2023, amend filed 12/29/2023, effective 01/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 12-2018, amend filed 03/07/2018, effective 03/08/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 36-2017(Temp), f. 9-14-17, cert. ef. 9-15-17 thru 3-13-18 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 51-2015, f. 9-22-15, cert. ef. 10-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 13-2010, f. 6-10-10, cert. ef. 7-1-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 17-2008, f. 6-13-08, cert. ef. 7-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 47-2006, f. 12-15-06, cert. ef. 1-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 44-2005, f. 9-9-05, cert. ef. 10-1-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 11-2005, f. 3-9-05, cert. ef. 4-1-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 44-2004, f. & cert. ef. 7-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 36-2003, f. & cert. ef. 5-1-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 72-2002(Temp), f. & cert. ef. 12-24-02 thru 5-15-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 47-2002, f. & cert. ef. 10-1-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 32-2001, f. 9-24-01, cert. ef. 10-1-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 37-2000, f. 9-29-00, cert. ef. 10-1-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 13-1999, f. & cert. ef. 4-1-99 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HR 17-1996, f. & cert. ef. 8-1-96 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HR 10-1994, f. & cert. ef. 2-15-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HR 9-1993, f. & cert. ef. 4-1-93 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HR 32-1992, f. & cert. ef. 10-1-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HR 13-1991, f. & cert. ef. 3-1-91, Renumbered from 461-024-0004 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 48-1989, f. & cert. ef. 8-24-89 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 49-1987, f. 10-16-87, ef. 11-1-87 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 20-1983, f. 5-5-83, ef. 6-1-83 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 52-1982, f. & ef. 5-1-82 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 41-1982, f. & ef. 4-29-82 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

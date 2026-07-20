@@ -1,0 +1,655 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Office of Training, Investigations and Safety 
+ Chapter 419 
+ 
+ 
+ 
+ 
+ 
+ Division 400 CHILD-CARING AGENCY LICENSING UMBRELLA RULES 
+ 419-400-0005 
+ Definitions
+ 
+ 
+ Unless the context indicates otherwise, these terms are defined for use in OAR chapter 419, division 400: 
+
+ (1) "Academic boarding school" means an organization or a program in an organization that: 
+
+ (a) Provides educational services and care to children 24 hours a day; and 
+
+ (b) Does not hold itself out as serving children with emotional or behavioral problems, providing therapeutic services, or assuring that children receive therapeutic services. 
+
+ (2) "Adoption agency" means an organization providing any of the following services: 
+
+ (a) Identifying a child for adoption and arranging an adoption. 
+
+ (b) Securing the necessary consent to relinquishment of parental rights and to adoption. 
+
+ (c) Performing a background study on a child or a home study on a prospective adoptive parent and reporting on such a study. 
+
+ (d) Making determinations of the best interests of a child and the appropriateness of adoptive placement for the child. 
+
+ (e) Monitoring a placement until final adoption. 
+
+ (f) When necessary, because of disruption before final adoption, assuming custody and providing child care or other social services for the child pending an alternative placement. 
+
+ (3) "Age-appropriate or developmentally appropriate activities" means activities or items that are generally accepted as suitable for children in care based on their development of cognitive, emotional, physical, and behavioral capacities. 
+
+ (4) "Approved proctor foster parent" means an individual approved by a foster care agency to provide care to children in a proctor foster home. 
+
+ (5) "Background check" means a criminal records check and abuse check done in compliance with the Department's criminal records and abuse check rules, OAR 407-007-0200 to 407-007-0370. 
+
+ (6) "Birth parent" means each person who holds a legally recognized parental relationship to the child but does not include the adoptive parents in the adoption arranged by the adoption agency. 
+
+ (7) "Boarding" means care or treatment services provided on a 24 hour per day basis to children. 
+
+ (8) "Child in care" means an unmarried person under 21 years of age who resides in or receives care or services from a child caring agency. 
+
+ (9) "Child-caring agency" is defined in ORS 418.205 and: 
+
+ (a) Means any private school, private agency, or private organization providing: 
+
+ (A) Day treatment for children with emotional disturbances; 
+
+ (B) Adoption placement services; 
+
+ (C) Residential care including, but not limited to, foster care or residential treatment for children; 
+
+ (D) Outdoor youth programs; 
+
+ (E) A secure transportation services provider; 
+
+ (F) Any private organization or person that provides secure transportation services as defined by ORS 418.205(2)(a)(B); or 
+
+ (G) Other similar care or services for children. 
+
+ (b) Includes the following: 
+
+ (A) A shelter-care home that is not a foster home subject to ORS 418.625 to 418.645; 
+
+ (B) An independent residence facility as described in ORS 418.475; 
+
+ (C) A private residential boarding school; and 
+
+ (D) A child-caring facility as described in ORS 418.950. 
+
+ (E) A county operated program that provides care or services to children in the custody of the Oregon Department of Human Services or the Oregon Youth Authority, or under a contract with the Oregon Health Authority, as described in ORS 418.205. 
+
+ (c) Child-caring agency does not include: 
+
+ (A) Residential facilities or foster care homes certified or licensed by the Department under ORS 443.400 to 443.455, 443.830 and 443.835 for children receiving developmental disability services. 
+
+ (B) Any private agency or organization facilitating the provision of respite services for parents pursuant to a properly executed power of attorney under ORS 109.056. For purposes of this paragraph, "respite services" means the voluntary assumption of short-term care and control of a minor child without compensation or reimbursement of expenses for the purposes of providing a parent in crisis with relief from the demands of ongoing care of the parent's child; 
+
+ (C) A youth job development organization as defined in ORS 344.415; 
+
+ (D) A shelter-care home that is a foster home subject to ORS 418.625 to 418.645; or 
+
+ (E) A foster home subject to ORS 418.625 to 418.645. 
+
+ (F) A facility that exclusively serves individuals 18 years of age and older; or 
+
+ (G) A facility that primarily serves both adults and children but requires that any child must be accompanied at all times by at least one custodial parent or guardian. 
+
+ (10) “Children’s emergency safety intervention specialist” means a qualified mental health professional licensed to order, monitor and evaluate the use of seclusion and restraint in accredited and certified facilities that provide intensive mental health treatment services to individuals under 21 years of age. 
+
+ (11) "Clinical supervisor" means an individual who meets the clinical supervisor qualifications in OAR 309-022-0125. 
+
+ (12) "Cohabitating" means the act of two adults, unmarried to each other, living together in an intimate relationship as if married. 
+
+ (13) "Contraband" means items the possession of which is prohibited by the child-caring agency including, but not limited to weapons or drugs. 
+
+ (14) "Day treatment" means a comprehensive, interdisciplinary, nonresidential, community-based, psychiatric treatment, family treatment, and therapeutic activities integrated with an accredited education program provided to children with emotional disturbances and is subject to the requirements described in OAR 309-022-0100 through OAR 309-022-0192. 
+
+ (15) "Day treatment agency" means a child-caring agency that provides psychiatric day treatment services and is subject to the requirements described in OAR 309-022-0100 through OAR 309-022-0192. 
+
+ (16) "Department" means the Oregon Department of Human Services. 
+
+ (17) “Developmental disabilities residential facility” means a residential facility or foster home for children who are 17 years of age or younger and receiving developmental disability services that is subject to ORS 443.400 to 443.455, 443.830 and 443.835. 
+
+ (18) "Discipline" means a training process to help a child in care develop the self-control and self-direction necessary to assume responsibilities, make daily living decisions, and learn to conform to accepted levels of social behavior. 
+
+ (19) "Disruption" means the interruption of an adoptive placement prior to the finalization of the adoption in a court of law. 
+
+ (20) "Employee" means an individual holding a paid position with a child-caring agency. 
+
+ (21) “Executive director” means the highest-ranking executive in an organization with ultimate responsibility for making organizational decisions. 
+
+ (22) "Facility" means the physical setting, buildings, property, structures, administration, and equipment of a child-caring agency. 
+
+ (23) "Family" means related members of a household, among whom at least one adult functions as a parent to one or more minor children. 
+
+ (24) "Financial irregularities" means a condition or act characterized by intentional deception such as the intentional misstatement or omission of significant information in accounting records, financial statements, other reports, documents, or records. 
+
+ (25) "Foster care agency" means a child-caring agency that offers to place children by taking physical custody of and then placing the children in proctor foster homes certified by the child-caring agency as provided in ORS 418.248 and these rules. 
+
+ (26) "Homeless, runaway, and transitional living shelter" means a child-caring agency that provides residential services or operates a shelter, mass shelter, or transitional living program for homeless or runaway youth, pregnant or parenting girls, or other children in care working toward independent living. 
+
+ (27) "Homeless or runaway youth" means a child in care who has not been emancipated by the juvenile court; lacks a fixed, regular, safe, and stable nighttime residence; and cannot immediately be reunited with their family. 
+
+ (28) "ICWA" or "the Act" means the Indian Child Welfare Act of 1978, 25 U.S.C. §§ 1901-63. 
+
+ (29) "Indian child" means any unmarried person who is under age 18 and either: 
+
+ (a) Is a member or citizen of an Indian tribe; or 
+
+ (b) Is eligible for membership or citizenship in an Indian tribe and is the biological child of a member or citizen of an Indian tribe. 
+
+ (30) "Intercountry adoption" means an adoption in which a child who is a resident and citizen of one country is adopted by a citizen of another country. 
+
+ (31) “Involuntary seclusion” means the confinement of a child in care alone in a room or an enclosed space from which the child in care is prevented from leaving by any means. (Does not include age-appropriate discipline, including, but not limited to, time-out if the time-out is in a setting from which the child in care is not prevented from leaving by any means.) 
+
+ (32) "Licensee" means a child-caring agency that holds a license issued by the Department. 
+
+ (33) "Mass shelter" means a structure that contains one or more open sleeping areas in which, on a daily basis, only emergency services are provided to homeless or runaway youth, such as a meal and a safe place to sleep overnight. 
+
+ (34) “Mechanical Restraint” means a device used to restrict the movement of a child in care or the movement or normal function of a portion of the body of a child in care. 
+
+ (35) "Medication" means any drug, chemical, compound, suspension, or preparation in suitable form for use as a curative or remedial substance either internally or externally by any person. 
+
+ (36) "ODDS" means the Office of Developmental Disabilities Services within the Department. 
+
+ (37) "OYA" means the Oregon Youth Authority. 
+
+ (38) "Outdoor living setting" means an outdoor field setting in which services are provided to children in care either more than 10 days per month for each month of the year or for longer than 48 hours at a location more than two hours from community-based medical services. 
+
+ (39) "Outdoor youth program" means a program that provides, in an outdoor living setting, services to children in care who are enrolled in the program because they have behavioral problems, mental health problems, or problems with abuse of alcohol or drugs. "Outdoor youth program" does not include any program, facility, or activity operated by a governmental entity, operated or affiliated with the Oregon Youth Conservation Corps, or licensed by the Department under other authority of the Department. It does not include outdoor activities for children designed to be primarily recreational. 
+
+ (40) "Outdoor youth program activity" means an outdoor activity, provided to children in care for the purpose of behavior management or treatment, which requires specially trained staff or special safety precautions to reduce the possibility of an accident or injury. Outdoor youth activities include, but are not limited to, hiking, adventure challenge courses, climbing and rappelling, winter camping, soloing, expeditioning, orienteering, river and stream swimming, and whitewater activities. 
+
+ (41) "Over the counter medication" means any medication that does not require a written prescription for purchase or dispensing. 
+
+ (42) "Placement" means when the child is placed in the physical or legal custody of prospective adoptive parents. 
+
+ (43) "Proctor foster home" is defined in ORS 418.205 and means a foster home certified by a child-caring agency under ORS 418.248 that is not subject to ORS 418.625 to 418.645. 
+
+ (44) "Program" means a set of one or more services provided by a child-caring agency that make the child-caring agency subject to the rules in OAR chapter 419, division 400. 
+
+ (45) “Prone restraint” means a restraint in which a child in care is held face down on the floor. 
+
+ (46) "Qualified Mental Health Professional (QMHP)" means an individual who meets the QMHP qualifications in OAR 309-022-0125. 
+
+ (47) "Re-adoption" means a process in which a child whose adoption was completed in another country is re-adopted in this country. 
+
+ (48) "Reasonable and prudent parent standard" means the standard, characterized by careful and sensible parental decisions that maintain the health, safety, and best interests of a child in care while encouraging the emotional and developmental growth of the child in care, that a substitute care provider shall use when determining whether to allow a child in care to participate in extracurricular, enrichment, cultural, and social activities. 
+
+ (49) “Reportable injury” means any type of injury to a child in care, including but not limited to rug burns, fractures, sprains, bruising, pain, soft tissue injury, punctures, scratches, concussions, abrasions, dizziness, loss of consciousness, loss of vision, visual disturbance or death. 
+
+ (50) "Report of suspected violation" means information that a child-caring agency may have failed to comply with an applicable requirement in: 
+
+ (a) ORS 418.205 to 418.327; 
+
+ (b) These rules, OAR 419-400-00005 to 419-400-0310; 
+
+ (c) A contract with the Department to provide services to a child in care; or 
+
+ (d) Behavior Rehabilitation Services (see OAR 413-095-0000 to 413-095-0080). 
+
+ (51) "Residential care agency" means a child-caring agency that provides care and treatment services to children 24 hours a day in a staffed facility. 
+
+ (52) “Restraint” means the physical restriction of a child in care’s actions or movements by holding the child in care or using pressure or other means. 
+
+ (53) “Secure escort” means services for a child who poses a risk of elopement or where restraint or seclusion may be utilized if the child poses a risk of injury to self or others. 
+
+ (54) “Secure nonemergency medical transportation provider” means a private organization or person that provides nonemergency medical secure transportation services licensed by and subject to rules adopted by the Oregon Health Authority. 
+
+ (55) “Secure transportation” means the transport of a child in a vehicle specifically equipped to prevent a passenger from exiting, eloping or interfering with the operator of the vehicle. This excludes standard factory installed safety equipment such as seat belts or child-safety locks. 
+
+ (56) “Secure adolescent inpatient treatment program” means a child-caring agency that is an intensive treatment services program, as described by the Oregon Health Authority (see OAR 309-022-0100), that provides inpatient psychiatric stabilization and treatment services to individuals under 21 years of age who require a secure intensive treatment setting. 
+
+ (57) “Secure children’s inpatient treatment program” means a child-caring agency that is an intensive treatment services program, as described by the Oregon Authority by (see OAR 309-022-0100), that provides inpatient psychiatric stabilization and treatment services to children under 14 years of age who require a secure intensive treatment setting. 
+
+ (58) “Secure Transportation Services” means the secure transportation or secure escort of children. 
+
+ (59) “Serious bodily injury” means any significant impairment of the physical condition of an individual, as determined by qualified medical personnel, whether self-inflicted or inflicted by someone else. 
+
+ (60) "Service plan" means an individualized plan of services to be provided to each child in care based on their identified needs and designed to help them reach mutually agreed upon goals. The service plan must address, at a minimum, the child in care's physical and medical needs, behavior management issues, mental health treatment methods, education plans, and any other special needs. 
+
+ (61) "Shelter" means a facility operated by a child-caring agency that provides services to homeless or runaway youth or young people transitioning to adulthood. 
+
+ (62) "Sole supervision" means being alone with a child in care or being temporarily the only staff in charge of a child in care or subgroup of children in care. 
+
+ (63) "Special needs" mean a trait or disability of a child that requires special care or attention of the child or that historically has made placement of a child with similar characteristics or disability difficult. 
+
+ (64) "Staff" means employees of the child-caring agency who are responsible for providing care, services, or treatment to a child in care. 
+
+ (65) "Stationary outdoor youth program" means an outdoor youth program which remains in a stationary location that houses children in care. 
+
+ (66) “Supine restraint” means a restraint in which a child in care is held face up on the floor. 
+
+ (67) "Therapeutic boarding school" means an organization or a program in an organization that: 
+
+ (a) Is primarily a school and not a residential care agency; 
+
+ (b) Provides educational services and care to children for 24 hours a day; and 
+
+ (c) Holds itself out as serving children with emotional or behavioral problems, providing therapeutic services, or assuring that children receive therapeutic services. 
+
+ (68) "Transitional living program" means a set of services offered by a child-caring agency that provides supervision and comprehensive services for up to 18 months to assist homeless or runaway youth to make a successful transition to independent and self-sufficient living. 
+
+ (69) "Wilderness first responder" means a medical training course and certification for outdoor professionals. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 409.050, ORS 418.005, ORS 418.255 & ORS 418.240 
+ 
+ 
+ Statutes/Other Implemented:  ORS 418.205 - 418.327 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OTIS 1-2026, amend filed 04/27/2026, effective 05/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OTIS 76-2023, amend filed 11/15/2023, effective 11/15/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OTIS 74-2023, temporary amend filed 08/03/2023, effective 09/01/2023 through 02/27/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OTIS 3-2023, minor correction filed 01/18/2023, effective 01/18/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 26-2022, renumbered from 413-215-0000, filed 11/28/2022, effective 12/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 25-2022, amend filed 10/31/2022, effective 11/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 9-2022, temporary amend filed 06/23/2022, effective 06/23/2022 through 12/19/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 7-2022, amend filed 04/27/2022, effective 04/27/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 2-2022, amend filed 01/28/2022, effective 02/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 23-2021, temporary amend filed 11/01/2021, effective 11/01/2021 through 02/19/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 19-2021, temporary amend filed 08/24/2021, effective 09/01/2021 through 02/19/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 52-2019, amend filed 11/25/2019, effective 12/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 3-2019, minor correction filed 01/07/2019, effective 01/07/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 126-2018, amend filed 12/26/2018, effective 01/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 57-2018, amend filed 06/29/2018, effective 06/29/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 28-2017, temporary amend filed 12/30/2017, effective 01/01/2018 through 06/29/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 9-2017, f. 8-5-17, cert. ef. 8-6-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 2-2017(Temp), f. & cert. ef. 2-7-17 thru 8-5-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 22-2016, f. & cert. ef. 12-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 12-2016(Temp), f. & cert. ef. 7-1-16 thru 12-27-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

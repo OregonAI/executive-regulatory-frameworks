@@ -1,0 +1,185 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Chapter 407 
+ 
+ 
+ 
+ 
+ 
+ Division 120 PROVIDER RULES 
+ 407-120-0310 
+ Provider Requirements 
+ 
+ (1) Scope of Rule. All providers seeking reimbursement from the Department, a PHP, or a county pursuant to a county agreement with the Department for the provision of covered services or items to eligible recipients, must comply with these rules, OAR 407-120-0300 to 407-120-0400, and the applicable rules or contracts of the specific programs described below:  (a) Programs administered by DMAP including the OHP and the medical assistance program that reimburses providers for services or items provided to eligible recipients, including but not limited to chapter 410, division 120; chapter 410, division 141; and provider rules in chapter 410 applicable to the provider’s service category;  (b) Programs administered by AMH that reimburse providers for services or items provided to eligible AMH recipients; or  (c) Programs administered by SPD that reimburse providers for services or items provided to eligible SPD recipients.  (2) Visit Data. Department programs use visit data to monitor service delivery, planning, and quality improvement activities. Visit data is required to be submitted by a program-specific rule or contract. A provider is required to make accurate, complete, and timely submission of visit data. Visit data is not a HIPAA transaction and does not constitute a claim for reimbursement.  (3) CHIP and Medicaid-Funded Covered Services and Items.  (a) Covered services or items paid for with Medicaid (Title XIX) and CHIP (Title XXI) funds (referred to as the medical assistance program) are also subject to federal and state Medicaid rules and requirements. In interpreting these rules and program-specific rules or contracts, the Department shall construe them as much as possible in a manner that shall comply with federal and state medical assistance program laws and regulations, and the terms and conditions of federal waivers and the state plans  (b) If a provider is reimbursed with medical assistance program funds, the provider must comply with all applicable federal and state laws and regulations pertaining to the provision of Medicaid services under the Medicaid Act, Title XIX, 42 United States Code (USC) 1396 et. seq., and CHIP services under Title XXI, including without limitation:  (A) Maintaining all records necessary to fully disclose the extent of the services provided to individuals receiving medical assistance and furnish such information to any state or federal agency responsible for administration or oversight of the medical assistance program regarding any payments claimed by an individual or institution for providing Medicaid services as the state or federal agency may from time to time request;  (B) Complying with all disclosure requirements of 42 CFR 1002.3(a) and 42 CFR 455 subpart (B);  (C) Maintaining written notices and procedures respecting advance directives in compliance with 42 USC 1396(a)(57) and (w), 42 CFR 431.107(b)(4), and 42 CFR 489 subpart I;  (D) Certifying that the information is true, accurate and complete when submitting claims or PHP encounters for the provision of medical assistance services or items. Submission of a claim or PHP encounter constitutes a representation of the provider's understanding that payment of the claim shall be from federal or state funds, or both, and that any falsification or concealment of a material fact may result in prosecution under federal or state laws.  (c) Hospitals, nursing facilities, home health agencies (including those providing personal care), hospices, and HMOs must comply with the Patient Self-Determination Act as set forth in Section 4751 of OBRA 1991. To comply with the obligation under the above-listed laws to deliver information on the rights of the individual under Oregon law to make health care decisions, the named providers and organizations must give capable individuals over the age of 18 a copy of "Your Right to Make Health Care Decisions in Oregon," copyright 1993, by the Oregon State Bar Health Law Section. Out-of-state providers of these services should comply with Medicare and Medicaid regulations in their state. Submittal to the Department of the appropriate claim form requesting payment for medical services provided to a Medicaid eligible shall be considered representation to the Department of the medical provider's compliance with the above-listed laws.  (d) Payment for any service or item furnished by a provider of CHIP or Medicaid-funded services or items may not be made by or through (directly or by power of attorney) any individual or organization, such as a collection agency or service bureau, that advances money to a provider for accounts receivable that the provider has assigned, sold, or transferred to the individual or organization for an added fee or a deduction of a portion of the accounts receivable.  (e) The Department shall make medical assistance provider payments only to the following:  (A) The provider who actually performed the service or provided the item;  (B) In accordance with a reassignment from the provider to a government agency or reassignment by a court order;  (C) To the employer of the provider, if the provider is required as a condition of employment to turn over his or her fees to the employer, and the employer is enrolled with the Department as a billing provider;  (D) To the facility in which the service is provided, if the provider has a contract under which the facility submits the claim, and the facility is enrolled with the Department as a billing provider;  (E) To a foundation, PHP, clinic, or similar organization operating as an organized health care delivery system, if the provider has a contract under which the organization submits the claim, and the organization is enrolled with the Department as a billing provider; or  (F) To an enrolled billing provider, such as a billing service or an accounting firm that, in connection with the submission of claims, receives or directs payments in the name of the provider, if the billing provider's compensation for this service is:  (i) Related to the cost of processing the billing;  (ii) Not related on percentage or other basis to the amount that is billed or collected and not dependent upon the collection of the payment.  (f) Providers must comply with TPR requirements in program-specific rules or contracts.  (4) Program Integrity. The Department uses several approaches to promote program integrity. These rules describe program integrity actions related to provider payments, including provider reimbursement under program-specific rules, county agreements, and contracts. The program integrity goal is to pay the correct amount to a properly enrolled provider for covered services provided to an eligible client according to the program-specific coverage criteria in effect on the date of service.  (a) Program integrity activities include but are not limited to the following:  (A) Medical or professional review including but not limited to following the evaluation of care in accordance with evidence-based principles, medical error identification, and prior authorization processes, including all actions taken to determine the coverage and appropriateness of services or items in accordance with program-specific rules or contract;  (B) Provider obligations to submit correct claims and PHP encounters;  (C) Onsite visits to verify compliance with standards;  (D) Implementation of HIPAA electronic transaction standards to improve accuracy and timeliness of claims processing and encounter reporting;  (E) Provider credentialing activities;  (F) Accessing federal Department of Health and Human Services (DHHS) database (exclusions);  (G) Quality improvement activities;  (H) Cost report settlement processes;  (I) Audits;  (J) Investigation of false claims, fraud or prohibited kickback relationships; and  (K) Coordination with the Department of Justice Medicaid Fraud Control Unit (MFCU) and other health oversight authorities.  (b) The following individuals may review a request for services or items, or audit a claim or PHP encounter for care, services, or items, before or after payment, for assurance that the specific care, item, or service was provided in accordance with the program-specific and the generally accepted standards of a provider's field of practice or specialty:  (A) Department staff or designee;  (B) Medical utilization and professional review contractor;  (C) Dental utilization and professional review contractor; or  (D) Federal or state oversight authority.  (c) Payment may be denied or subject to recovery if the review or audit determines the care, service, or item was not provided in accordance with provider rules or does not meet the criteria for quality or medical appropriateness of the care, service, or item or payment. Related provider and hospital billings shall also be denied or subject to recovery.  (d) If the Department determines that an overpayment has been made to a provider, the amount of overpayment is subject to recovery.  (e) The Department may communicate with and coordinate any program integrity actions with the MFCU, DHHS, and other federal and state oversight authorities.  [Publications: Publications referenced are available from the agency.] 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 409.050 & 411.060 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.115, 414.125, 414.135 & 414.1455 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 11-2008, f. 12-26-08, cert. ef. 12-27-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 6-2008(Temp), f. & cert. ef. 7-1-08 thru 12-27-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 15-2007, f. 12-31-07, cert. ef. 1-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,507 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Self-Sufficiency Programs - Chapter 461 
+ 
+ 
+ 
+ 
+ Division 125 BASIS OF NEED 
+ 461-125-0370 
+ Disability as the Basis of Need
+ 
+ 
+ (1) In the OSIP and OSIPM programs (except OSIP-EPD and OSIPM-EPD), an individual meets the eligibility requirement to have a disability if the requirements of one of the following subsections are met: 
+
+ (a) The individual is receiving Social Security Disability Income (SSDI) or Supplemental Security Income (SSI) based on disability. Eligibility continues as long as the individual remains eligible for SSDI or SSI. 
+
+ (b) The individual was eligible for and received Aid to the Disabled benefits in Oregon in December 1973. These individuals continue to be eligible as long as they are continuously disabled as defined by Oregon requirements that were in effect in 1973. 
+
+ (c) The Department has determined the individual meets the listing of impairments found in 20 C.F.R. Part 404, Subpart P, Appendix 1; meets the medical vocational guidelines found in 20 C.F.R. Part 404, Subpart P, Appendix 2 for SSI; or meets the definition of disability in 20 C.F.R. section 404.1505 or 416.905. 
+
+ (d) The Social Security Administration (SSA) has determined the individual meets the listing of impairments found in 20 C.F.R. Part 404, Subpart P, Appendix 1; meets the medical vocational guidelines found in 20 C.F.R. Part 404, Subpart P, Appendix 2; or meets the definition of disability in 20 C.F.R. section 404.1505 or 416.905. 
+
+ (2) If the Department finds the individual eligible for OSIPM in the absence of a disability determination by SSA, the individual remains eligible, provided that the individual continues to meet the disability criteria for eligibility for OSIPM, until SSA denies the disability claim in a final administrative decision. 
+
+ (3) For OSIP and OSIPM, a disability determination made by SSA that is unfavorable to an individual is binding on the Department unless the requirements of at least one of the following subsections are met (see 42 C.F.R. section 435.541(c)(1) and (c)(4)): 
+
+ (a) SSA made the determination for a reason other than disability. 
+
+ (b) The individual alleges a disabling condition different from, or in addition to, that considered by SSA in making its determination. 
+
+ (c) More than 12 months after the most recent SSA determination denying disability, the individual alleges that his or her condition has changed or deteriorated since that SSA determination, and the individual has not made application to SSA based on these allegations. 
+
+ (d) The individual alleges less than 12 months after the most recent SSA determination denying disability that the condition which SSA evaluated has changed or deteriorated since that SSA determination; and one or both of the following apply: 
+
+ (A) The individual has requested reconsideration or reopening of the most recent SSA determination denying disability and SSA has declined to consider the new allegations. 
+
+ (B) It is clear that the individual no longer meets SSI eligibility requirements unrelated to disability status but may satisfy comparable Medicaid eligibility requirements. 
+
+ (4) If a binding SSA disability determination is not in place, the determination of disability to qualify for OSIPM is made by the Presumptive Medicaid Disability Determination Team (PMDDT), composed of a medical or psychological consultant and another individual who is qualified to interpret and evaluate medical reports, other evidence relating to the individual's physical or mental impairments, and (as necessary) to determine the capacities of the individual to perform substantial gainful activity, as specified in 20 C.F.R. Part 416, Subpart J (see 42 C.F.R. section 435.541(f)(2)). 
+
+ (5) The Presumptive Medicaid Disability Determination Team (PMDDT) obtains and reviews medical reports and other non-medical evidence pertaining to the individual and the claimed disability. The medical report and non-medical evidence must include diagnosis and other information in accordance with the requirements for evidence applicable to disability determinations under the SSI program specified in 20 CFR Part 416, Subpart I. The PMDDT then makes a decision about medical eligibility and whether and when a redetermination will be made (see 42 C.F.R. section 435.541(f)(1) and (3)). 
+
+ (6) In the OSIP-EPD and OSIPM-EPD programs, an individual is disabled (see OAR 461-001-0035) or has a disability (see OAR 461-001-0035) if the individual has a physical or mental impairment, or a combination of these impairments, that meets the definition of disability used by SSA when determining eligibility for SSI or SSDI under 20 C.F.R. Part 404. The determination is made as follows: 
+
+ (a) A determination by SSA that the individual is disabled or has a disability is accepted by the Department. 
+
+ (b) If the individual was determined to have a disability by SSA and lost their SSDI eligibility due to their own income, the SSA determination remains effective for one year from the date that the individual loses eligibility for SSDI. 
+
+ (c) If there is no currently effective SSA determination finding the individual has a disability, the case is referred to the Department's central office for a disability determination (see OAR 461-001-0035) using the standards of 20 C.F.R. Parts 404 and 416 and considering all relevant medical and vocational information. 
+
+ (d) For OSIPM-EPD, an individual is engaging in substantial gainful activity (SGA, see OAR 461-001-0035) if the earnings of the individual are at or above the EPD Income Standard. 
+
+ (e) For OSIPM-EPD, any work activity engaged in during the OSIPM-EPD application process or certification period is not evaluated as past relevant work (PRW, see OAR 461-001-0035). 
+
+ (7) An individual who is served by a branch office (see OAR 461-001-0000) and who has been determined by the Presumptive Medicaid Disability Determination Team (PMDDT) to have a disability (see section (1) of this rule) may receive free assistance from the Department with applications and administrative appeals for Social Security benefits based on a disability for purposes including, but not limited to, meeting the requirement to pursue assets under OAR 461-120-0330. 
+
+ (8) An individual may receive free assistance from the Department with applications and administrative appeals for Social Security benefits based on a disability for purposes including, but not limited to, meeting the requirement to pursue assets under OAR 410-200-0220 if the individual: 
+
+ (a) Is determined to have a disability under subsection (1)(c) of this rule; 
+
+ (b) Receives benefits from one of the HSD medical programs (see OAR 461-001-0000); and 
+
+ (c) Is served by an AAA (Area Agency on Aging) or APD (Aging and People with Disabilities) office. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 409.050, 410.070, 411.060, 411.070, 411.121, 411.404, 411.706, 411.816, 413.085 & 414.685 
+ 
+ 
+ Statutes/Other Implemented:  ORS 409.010, 409.050, 410.010, 410.020, 410.070, 411.060, 411.070, 411.121, 411.404, 411.704, 411.706, 411.816, 413.085 & 414.685 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 57-2021, minor correction filed 12/13/2021, effective 12/13/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 5-2021, minor correction filed 02/18/2021, effective 02/18/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 24-2016, f. 6-29-16, cert. ef. 7-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 19-2016, f. & cert. ef. 5-10-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 21-2016(Temp), f. & cert. ef. 5-13-16 thru 11-8-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 13-2016, f. 3-21-16, cert. ef. 4-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 9-2016(Temp), f. 2-23-16, cert. ef. 3-1-16 thru 4-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 26-2015(Temp), f. 9-29-15, cert. ef. 10-5-15 thru 4-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 5-2015, f. & cert. ef. 1-29-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 31-2014(Temp), f. & cert. ef. 12-8-14 thru 1-28-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 27-2014(Temp), f. & cert. ef. 10-1-14 thru 1-28-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 22-2014(Temp), f. 8-29-14, cert. ef. 9-1-14 thru 1-28-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 20-2014(Temp), f. & cert. ef. 8-1-14 thru 1-28-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 4-2007, f. 3-30-07, cert. ef. 4-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 15-2006, f. 12-29-06, cert. ef. 1-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 14-2005, f. 9-30-05, cert. ef. 10-1-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 22-2004, f. & cert. ef. 10-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 23-2003, f. & cert. ef. 10-1-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 16-2003, f. & cert. ef. 7-1-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 9-2003(Temp), f. & cert. ef. 4-11-03 thru 6-30-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 7-1999, f. 4-27-99, cert. ef. 5-1-99 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 1-1999(Temp), f. & cert. ef. 2-1-99 thru 7-31-99 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 29-1994, f. 12-29-94, cert. ef. 1-1-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 20-1991, f. & cert. ef. 10-1-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 80-1989, f. 12-21-89, cert. ef. 2-1-90 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

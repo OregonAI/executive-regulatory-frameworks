@@ -1,0 +1,268 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Building Codes Division - Chapter 918 
+ 
+ 
+ 
+ 
+ Division 309 ELECTRICAL PERMITS AND FEES 
+ 918-309-0030 
+ Permits for Residential Wiring
+ 
+ 
+ (1) The permittee is entitled to four inspections for a one-family dwelling, and eight inspections for a two-family dwelling. Fees are based on square footage for each one- or two-family dwelling (including attached garage) for residential wiring as follows: 
+
+ (a) Wiring of not more than 1,000 square feet, $106; 
+
+ (b) Each additional 500 square feet or portion thereof, $19. 
+
+ (2) Permit fee for Manufactured Home or Modular Dwelling including service or feeder to unit served, $63. 
+
+ (3) Permit fee for Limited Energy: 
+
+ (a) One and Two Family Residential, $25. This permit fee covers all limited energy type systems installed in the building when installed at the same time by the permittee. A permit holder working under a residential wiring permit calculated under section (1) of this rule is not required to obtain a limited energy permit to install wiring for doorbells, garage door openers and heating and air conditioning systems. 
+
+ (b) Multi-family residential, $45. This permit fee covers all limited energy systems installed in the building, except protective signaling as defined in ORS 479.905(5). The fee is assessed once per floor, regardless of the number of dwelling units on each floor. The permittee is entitled to two inspections per floor. 
+
+ (c) Multi-family residential protective signaling, $63. This permit fee includes all protective signaling systems installed in the building as defined in ORS 479.905(5). The fee is assessed once per floor, regardless of the number of dwelling units on each floor. The permittee is entitled to two inspections per floor. See example in Table 3-E. 
+
+ (4) Items Covered in this Section: 
+
+ (a) When computing the area, include the square footage of attached garages; 
+
+ (b) The residential fee covers services, feeders and all branch circuits on and inside each dwelling unit and includes garages that are attached to the dwelling unit, including the limited energy systems for the doorbell, garage door opener, and the heating and air conditioning control wiring in one and two family dwellings only; 
+
+ (c) New Construction. Use this fee in connection with new construction; 
+
+ (d) Remodels, Additions, Alterations or Repairs. Compute the fee under this section using the square footage of the area remodeled or added, then compute the fee under OAR 918-309-0060 “branch circuits.” Use the lower fee; 
+
+ (e) Reconnection only. See OAR 918-309-0040(9). 
+
+ (5) Application of Fees: 
+
+ (a) One- or Two-Family Dwellings. To calculate the fee for a one or two-family dwelling, obtain the square footage of each unit. Include the garage if it is attached to any unit. There is an exception in subsection (c)(A) of this section if a detached garage or accessory building is built at the same time as the dwelling unit. Compute the fee using the procedure shown for each dwelling unit. Record the number of units under “Items” in the permit and multiply this with the fee shown; 
+
+ (b) Multi-family Building. In the case of a multi-family building containing three or more apartments, determine the square footage of the largest apartment in the building and compute the fee. For each additional apartment in the building, a fee of one-half of the first unit fee must be used. The house panel fee for general service equipment such as apartment unit lights, washer-dryer, outdoor lighting and the like is calculated using OAR 918-309-0060(1) services and feeders, and OAR 918-309-0060(2)(b) dealing with branch circuits. The permittee is entitled to four inspections per floor; 
+
+ (c) Detached Garages. Detached garages and accessory buildings are not considered part of the residential unit. The permit fee is based on the method of supplying power to the unit: 
+
+ (A) Exception — Simultaneous Construction with Single Branch Circuit. If the structure receives power through a branch circuit from the house panel with a single branch circuit, include the square footage of the garage with the living unit, provided the garage is built at the same time as the dwelling unit. If separate construction is involved, use the fee for branch circuits under OAR 918-309-0060; 
+
+ (B) Sub-Panel. If the detached structure has a sub-panel powered from the house service, the fee is computed using the “feeder” section, OAR 918-309-0040 and branch circuits, OAR 918-309-0060(1); 
+
+ (C) If the detached structure is built first, the fee is based on service, feeder and branch circuits; 
+
+ (D) Separate Service. If the structure has a separate service, the fee is based upon service, feeder and branch circuits. 
+
+ (d) Reconnect Only. See OAR 918-309-0040(9); 
+
+ (e) House Moves. In most instances, the fee will only involve a service reconnect: 
+
+ (A) If changes to the service are made, a new service charge is made under OAR 918-309-0040; 
+
+ (B) For each new, extension or alteration of branch circuits, use OAR 918-309-0060; 
+
+ (C) If the building was moved in sections and there is no upgrading of the service, use the fees in this section using square footage. 
+
+ (f) Manufactured Dwellings and Modular Homes. Manufactured dwellings and modular homes usually require a service and a feeder from the service to the home. In mobile home parks, usually only the feeder is necessary because the service already exists. Where there is a detached garage or accessory building, refer to subsection (5)(c) of this rule dealing with detached structures. 
+
+   
+
+ [NOTE: Table referenced in not included in rule text.] 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 455.030 & 479.870 
+ 
+ 
+ Statutes/Other Implemented:  ORS 455.030 & 479.870 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BCD 12-2018, amend filed 06/21/2018, effective 07/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BCD 4-2016, f. & cert. ef. 4-1-16 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ BCD 16-2003, f. & cert. ef. 10-1-03 
+BCD 10-2003(Temp), f. 6-20-03, cert. ef. 7-1-03 thru 12-27-03 
+BCD 10-2001, f. 9-28-01, cert. ef. 10-1-01 
+BCD 9-2001(Temp), f. 8-15-01, cert. ef. 9-4-01 thru 3-3-02 
+BCD 23-2000, f. 9-29-00, cert. ef. 10-1-00 
+BCD 18-1998, f. 9-30-98, cert. ef. 10-1-98 
+BCD 9-1998(Temp), f. 6-2-98, cert. ef. 7-1-98 thru 12-27-98 
+BCD 19-1996, f. 9-17-96, cert. ef. 10-1-96, Renumbered from 918-260-0220 
+BCA 10-1991, f. 4-26-91, cert. ef. 7-1-91 
+DC 7-1983, f. & cert. ef. 3-11-83, Renumbered from 814-022-0108 
+DC 10-1982, f. & cert. ef. 3-1-82 
+DC 12-1981, f. 9-29-81, cert. ef. 10-1-81 
+DC 10-1979, f. & cert. ef. 6-8-79 
+DC 5-1979(Temp), f. & cert. ef. 3-5-79 
+DC 1-1979, f. & cert. ef. 1-5-79 
+DC 102, f. & cert. ef. 11-1-77 
+DC 74, f. 5-21-76, cert. ef. 8-1-76 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

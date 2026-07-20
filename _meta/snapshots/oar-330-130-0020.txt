@@ -1,0 +1,221 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Energy 
+ Chapter 330 
+ 
+ 
+ 
+ 
+ 
+ Division 130 ENERGY EFFICIENT DESIGN AND OPERATION FOR STATE AGENCY FACILITIES 
+ 330-130-0020 
+ Definitions 
+ 
+ (1) "Agency" means the authorized state agency, board, commission, department or division which has the authority to enter contracts, finance the construction, purchase, renovation, or leasing of buildings or other structures for use by the State of Oregon.  (2) "Agency contact" means a lead person appointed by the agency who is responsible to coordinate all State Energy Efficient Design related business with the Oregon Department of Energy, such as project notifications, interagency agreements, invoice and payment, project coordination, guideline updates and advisory recommendations.  (3) "Baseline building" means the basic building conceived by the agency and the design team. The baseline building incorporates the standard design features of typical buildings of the same usage and meets the prescriptive or performance requirements of the Oregon Energy Efficiency Specialty Code according to criteria established in the State Energy Efficient Design Program Guidelines.  (4) "Benefit-to-Cost Ratio (BCR)" means the present value of Energy Conservation Measure benefits divided by the present value of incremental Energy Conservation Measure costs.  (a) The Energy Conservation Measure benefit is the difference between the present values of the operating cost of the baseline building and the operating cost of the baseline building with the Energy Conservation Measure added.  (b) The incremental Energy Conservation Measure cost is the difference between the present values of the capital cost of the baseline building and the capital cost of the baseline building with the Energy Conservation Measure added.  (5) "Biennial report" means the report summarizing the progress toward achieving the goals of ORS 276.900 through ORS 276.915.  (6) Building Class:  (a) "Class 1 Building" means all:  (A) New buildings, additions, or renovations of 10,000 or more square feet of heated or cooled floor area; and  (B) Building additions that increase the size of an existing building to 10,000 or more square feet of heated or cooled floor area and renovations to buildings of 10,000 or more square feet of heated or cooled floor area, which significantly affect:  (i) The existing mechanical or control system; or  (ii) At least two of the following energy systems: interior lighting, building envelope, domestic hot water, or special equipment.  (iii) Only those systems identified in (i) and (ii) that are significantly affected are subject to procedures outlined in 330-130-0040.  (b) "Class 2 Building" means all new buildings or renovations of less than 10,000 square feet of heated or cooled floor area except for new buildings, structures, or facilities of any size which have no energy using systems.  (7) "Building model" means a computer model, which calculates annual building energy use. The Oregon Department of Energy shall approve hourly building models, simplified hourly building models and the approach to modeling Energy Conservation Measure energy savings above the baseline building as established in the State Energy Efficient Design Program Guidelines. The building model for all Class 1 Buildings must be an hourly building model, except for certain Class 1 buildings as approved by the Oregon Department of Energy where simplified hourly building modeling or prescriptive packages established in the State Energy Efficient Design Program Guidelines may be used.  (8) "Capital construction cost" means the cost of current and future building investments including construction, design, administration, major replacement, and salvage values. Costs of compliance with these rules may also be included.  (9) “Commissioning agent” is an individual or firm that has demonstrated experience commissioning Heating, Ventilating, and Air Conditioning (HVAC) mechanical systems and HVAC control systems, commercial and industrial mechanical technologies, lighting controls, and testing and balancing of air and water systems.  (10) “Contracting agency” means the agency entering into a contract for facility construction or renovation.  (11) “Department” means the Oregon Department of Energy.  (12) "Design team" means the architect(s), engineer(s), and other professionals who are responsible for the design of the new building or renovation.  (13) “Director” means the director of the department.  (14) “Energy Use Index (EUI)” is a calculated index that describes a building’s energy use in relation to a metric, generally square feet, such as kBtu/ft2 –yr or kWh/ft2 –yr.  (15) "Energy analysis report" means a report prepared by an energy analyst, under the direction of a professional engineer or licensed architect, recommending an Optimum Energy Conservation Measure Package for a Class 1 building. The report must include:  (a) Department State Energy Efficient Design forms;  (b) A summary of recommendations;  (c) A baseline building description;  (d) Energy Conservation Measure descriptions with analysis results;  (e) Energy Conservation Measure savings calculations; and  (f) Energy Conservation Measure cost estimates.  (16) "Energy analyst" means the individual who prepares the building energy analysis and the energy analysis report under the direction of a professional engineer or licensed architect who reports to the project architect or agency.  (17) “Energy auditor” is an individual or firm that has demonstrated experience performing comprehensive analysis of a building’s energy using systems, and performs benefit to cost analysis of energy efficiency measures.  (18) "Energy Conservation Measure (ECM)" means a measure designed to reduce energy use, including alternative energy systems which replace conventional fuels with renewable resources. ECMs must not conflict with applicable codes and other professional standards.  (19) "ECM Package" means two or more ECMs combined for analysis.  (20) “Energy Service Company (ESCO)” means a company, firm or other legal person with the demonstrated technical, operational, financial and managerial capabilities to design, install, construct, commission, manage, measure and verify, and otherwise implement ECMs and other work in building systems or building components that are directly related to the ECMs in existing buildings and structures.  (21) “Energy Services Performance Contract (ESPC)” means a public improvement contract between a contracting agency and a qualified energy service company for the identification, evaluation, recommendation, design, and construction of ECMs, including a Design Build Contract, that guarantees the energy savings performance.  (22) "Energy systems performance verification plan" means a plan that outlines how the building's energy systems are to be tested during the construction phase and how the building's performance is to be verified with long-term monitoring during occupancy.  (23) “Highly efficient facility” means a facility that is designed, built and operated according to these State Energy Efficient Design rules, that improves energy performance compared to the state building code by 20 percent or more, that makes use of renewable energy resources where practical, and that incorporates all cost-effective energy efficiency measures.  (24) “High performance target energy use” means a target energy use index for a building or building type as determined by the department, such as the ASHRAE Standard 100 Building Activity Energy Target.  (25) “Measurement and verification (M&V)" means, as used in ESPC Procurement, the examination of installed ECMs using the International Performance Measurement and Verification Protocol or process, to monitor and verify the operation of energy using systems pre-installation and post-installation.  (26) "Net Present Value Savings (NPVS)" means the difference between the present values of the capital and operating costs of the baseline building and the capital and operating costs of the baseline building with the ECM added.  (27) "Operating cost" means the costs for energy, fuel, annual and periodic maintenance, supplies, consumables, and other operating items associated with ECMs, such as water and sewer, during the life of the building.  (28) "Optimum ECM Package" means the ECM package which incorporates all reasonable cost-effective ECMs and which meets the following conditions:  (a) Each ECM included in the package has a BCR greater than 1.0 when modeled independently.  (b) The ECM package has a BCR greater than 1.0.  (c) The ECM Package has the highest NPVS of the analyzed ECM packages.  (29) "Present value" means the value of a financial cost or benefit, discounted to current dollars using discounting factors and methods approved by the department.  (30) “Renewable energy resource” includes, but is not limited to, on-site generation of energy for use in the building from the following sources:  (a) Straw, forest slash, wood waste or other wastes from farm or forest land, nonpetroleum plant or animal based biomass, ocean wave energy, solar energy, wind power, water power or geothermal energy; or  (b) A hydroelectric generating facility that obtains all applicable permits and complies with all state and federal statutory requirements for the protection of fish and wildlife and:  (A) That does not exceed 10 megawatts of installed capacity; or  (B) Qualifies as a research, development or demonstration facility.  (c) The purchase of renewable energy certificates does not qualify as a renewable energy resource.  (31) “Renovation” means an addition to, alteration of, or repair of a facility that adds to or alters the facility’s energy systems, provided that the affected energy systems accounts for 50 percent or more of the facility’s total energy use.  (32) “SEED” means State Energy Efficient Design Program as defined in ORS 276.900 through ORS 276.915 under the heading State Agency Facility Energy Design.  (33) "SEED Program Guidelines" are guidelines developed by the department with assistance from an advisory committee that consists of representatives from interested agencies, design professionals, consulting engineers and utilities.  (34) "Simple payback" means the estimated ECM cost divided by the estimated first year ECM energy, operating, and maintenance savings.  [Publications: Publications referenced are available from the agency.] 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 276.900 - 276.915 
+ 
+ 
+ Statutes/Other Implemented:  ORS 469 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 6-2017, f. & cert. ef. 8-15-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 5-2011, f. & cert. ef. 6-27-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 5-2008, f. 7-29-08, cert. ef. 8-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 4-2001, f. 11-5-01, cert. ef. 11-15-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 1-1998, f. & cert. ef. 3-26-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 1-1990, f. & cert. ef. 4-2-90 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

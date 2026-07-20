@@ -1,0 +1,238 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Agriculture 
+ Chapter 603 
+ 
+ 
+ 
+ 
+ 
+ Division 57 PESTICIDE CONTROL 
+ 603-057-0531 
+ Civil Penalty For A Violation Not Resulting From Gross Negligence or Willful Misconduct on or after January 1, 2016; Formula for Amount
+ 
+ 
+ (1) When the Director determines that the violation did not result from gross negligence or willful misconduct, and if the violation occurred on or after January 1, 2016, the Director will determine the amount of the civil penalty using this section. To determine the amount of the civil penalty, calculate it utilizing the formula: NB + [(.1 x NB) x (P + H + R + C)] = Penalty Amount where: 
+
+ (a) N = the number of times, within a period of three years prior to and including the date of the current violative act, that the person has been determined by the Director to have committed that violative act; 
+
+ (b) B = the base penalty determined using the following matrix: [Matrix not included. See ED. NOTE.] 
+
+ (A) The Magnitude of Violation is determined according to OAR 603-057-0525(2). 
+
+ (B) The Gravity of Effect is determined according to OAR 603-057-0525(3). 
+
+ (c) P = past occurrence of unrelated violations under ORS Chapter 634 for a period of three years prior to the date of the current violative act. P will be weighted from O to 6 in the following manner: 
+
+ (A) O = no prior violation or insufficient evidence on which to base a finding; 
+
+ (B) 1 = past occurrence of an unrelated Category III violation; 
+
+ (C) 2 = past occurrence of an unrelated Category II violation or two unrelated Category III violations; 
+
+ (D) 3 = past occurrence of an unrelated Category I violation, two unrelated Category II violations or three unrelated Category III violations; 
+
+ (E) 4 = past occurrence of two unrelated Category I violations, three unrelated Category II violations or four unrelated Category III violations; 
+
+ (F) 5 = past occurrence of three unrelated Category I violations, four unrelated Category II violations, or five or more unrelated Category III violations; 
+
+ (G) 6 = past occurrence of three or more unrelated Category I violations or five or more unrelated Category II violations. 
+
+ (d) H = History of the person in taking all feasible steps or procedures necessary or appropriate to correct a violative action. H will be weighted from -2 to 2 in the following way: 
+
+ (A) -2 = the person took all feasible steps or procedures to correct any prior violations; 
+
+ (B) O = there is no prior history or insufficient information on which to base a finding; 
+
+ (C) 1 = the person took some, but not all feasible steps or procedures to correct prior violations; 
+
+ (D) 2 = the person took no action to correct prior violations. 
+
+ (e) R = preventability of violation. R will be weighted from -2 to 7 in the following way: 
+
+ (A) -2 = the person's actions determined to be violative were unavoidable; 
+
+ (B) O = information is insufficient to make any finding; 
+
+ (C) 3 = the person's actions determined to be violative were reasonably avoidable; 
+
+ (D) 7 = the person's actions were flagrant. 
+
+ (f) C = cooperativeness on the part of the person to assist the department in its investigation and to the extent possible, rectify the violation. C will be weighted from -2 to 2 in the following way: 
+
+ (A) -2 = the person is cooperative; 
+
+ (B) -1 = the person provides limited cooperation; 
+
+ (C) O = the person is neither cooperative nor uncooperative; 
+
+ (D) 1 = the person is generally uncooperative; 
+
+ (E) 2 = the person is uncooperative. 
+
+ (4) If the calculation utilizing the formula in this section results in an amount more than $2,000 for a first violation of any provision of ORS 634, the Director shall assess a civil penalty of $2,000. If the calculation utilizing the formula in this section results in an amount more than $4,000 for any subsequent violation of the same provision of ORS 634, the Director shall assess a penalty of $4,000. In addition, the Director may consider this adjustment if the Director remits or reduces the amount as provided in ORS 634.910 or OAR 603-057-0502(6). 
+
+ [ED. NOTE: Matrix referenced is available from the agency.] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 634; 2015 HB 3549, 2015 HB 5002 & 2015 SB 5507 
+ 
+ 
+ Statutes/Other Implemented:  ORS 634; 2015 HB 3549, 2015 HB 5002 & 2015 SB 5507 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 16-2018, minor correction filed 04/13/2018, effective 04/13/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 5-2016, f. & cert. ef. 2-26-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

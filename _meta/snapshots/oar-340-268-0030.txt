@@ -1,0 +1,257 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 268 EMISSION REDUCTION CREDITS 
+ 340-268-0030 
+ Emission Reduction Credits 
+ 
+ Any person who reduces emissions by implementing more stringent controls than required by a permit or an applicable regulation may create an emission reduction credit. Emission reduction credits must be created and banked within two years from the time of actual emission reduction.  (1) Creating Emission Reduction Credits. Emission reductions can be considered credits if all of the following requirements are met:  (a) The reduction is permanent due to continuous overcontrol, curtailment or shutdown of an existing activity or device;  (b) The reduction is in terms of actual emissions reduced at the source. The amount of the creditable reduction is the difference between the contemporaneous (any consecutive 12 calendar month period during the prior 24 calendar months) pre-reduction actual (or allowable, whichever is less) emissions and the post-reduction allowable emissions from the subject activity or device;  (c) The reduction is either:  (A) Enforceable by DEQ through permit conditions or rules adopted specifically to implement the reduction that make increases from the activity or device creating the reduction a violation of a permit condition; or  (B) The result of a physical design that makes such increases physically impossible.  (d) The reduction is surplus. Emission reductions must be in addition to any emissions used to attain or maintain AAQS in the SIP;  (e) Sources in violation of air quality emission limitations may not create emission reduction credits from those emissions that are or were in violation of air quality emission limitations;  (f) Hazardous emissions reductions required to meet the MACT standards at 40 CFR part 61 and part 63, including emissions reductions to meet the early reduction requirements of section 112(i)(5), are not creditable as emission reduction credits for purposes of Major NSR in nonattainment or reattainment areas. However, any emissions reductions that are in excess of or incidental to the MACT standards are not precluded from being credited as emission reduction credits as long as all conditions of a creditable emission reduction credit are met.  (2) Banking of Emission Reduction Credits.  (a) The life of emission reduction credits may be extended through the banking process as follows:  (A) Emission reduction credits may be banked for ten years from the time of actual emission reduction.  (B) Requests for emission reduction credit banking must be submitted within the 2 year (24 calendar months) contemporaneous time period immediately following the actual emission reduction. (The actual emission reduction occurs when the airshed experiences the reduction in emissions, not when a permit is issued or otherwise changed).  (b) Banked emission reduction credits are protected during the banked period from rule required reduction, if DEQ receives the emission reduction credit banking request before DEQ submits a notice of a proposed rule or plan development action for publication in the Secretary of State's bulletin. The EQC may reduce the amount of any banked emission reduction credit that is protected under this section, if the EQC determines the reduction is necessary to attain or maintain an ambient air quality standard.  (c) Emission reductions must be in the amount of ten tons per year or more to be creditable for banking, except as follows:  (A) In the Medford-Ashland AQMA, PM10 emission reductions must be at least 3 tons per year.  (B) In Lane County, LRAPA may adopt lower levels.  (C) In the Klamath Falls nonattainment area and the Lakeview UGB, PM2.5 emission reductions must be at least 1 ton per year.  (d) Emission reduction credits will not expire pending DEQ taking action on a timely banking request unless the 10 year period available for banking expires.  (3) Using Emission Reduction Credits: Emission reduction credits may be used for:  (a) Netting actions within the source that generated the credit, through a permit modification; or  (b) Offsets pursuant to the NSR program, OAR 340 division 224.  (4) Emission reduction credits are considered used when a complete NSR permit application is received by DEQ to apply the emission reduction credits to netting actions within the source that generated the credit, or to meet the offset and net air quality benefit requirements of the NSR program under OAR 340-224-0500 though 340-224-0540.  (5) Unused Emission Reduction Credits.  (a) Emission reduction credits that are not used, and for which DEQ does not receive a request for banking within the contemporaneous time period, will become unassigned emissions for purposes of the PSEL and are no longer available for use as external offsets.  (b) Emission reduction credits that are not used prior to the expiration date of the credit will revert to the source that generated the credit and will be treated as unassigned emissions for purposes of the PSEL pursuant to OAR 340-222-0055 and are no longer available for use as external offsets.  (6) Emission Reduction Credit (ERC) Permit:  (a) DEQ tracks ERC creation and banking through the permitting process. The holder of ERCs must maintain either an ACDP, Title V permit, or an ERC Permit.  (b) DEQ issues ERC Permits for anyone who is not subject to the ACDP or Title V programs that requests an ERC or an ERC to be banked.  (c) An ERC permit will only contain conditions necessary to make the emission reduction enforceable and track the credit.  (d) Requests for emission reduction credit banking must be submitted in writing to DEQ and contain the following documentation:  (A) A detailed description of the activity or device controlled or shut down;  (B) Emission calculations showing the types and amounts of actual emissions reduced, including pre-reduction actual emission and post-reduction allowable emission calculations;  (C) The date or dates of actual reductions;  (D) The procedure that will render such emission reductions permanent and enforceable;  (E) Emission unit flow parameters including but not limited to temperature, flow rate and stack height;  (F) Description of short and long term emission reduction variability, if any.  (e) Requests for emission reduction credit banking must be submitted to DEQ within two years (24 months) of the actual emissions reduction. DEQ must approve or deny requests for emission reduction credit banking before they are effective. In the case of approvals, DEQ issues a permit to the owner or operator defining the terms of such banking. DEQ insures the permanence and enforceability of the banked emission reductions by including appropriate conditions in permits and, if necessary, by recommending appropriate revisions to the SIP.  (f) DEQ provides for the allocation of emission reduction credits in accordance with the uses specified by the holder of the emission reduction credits. The holder of ERCs must notify DEQ in writing when they are transferred to a new owner or site. Any use of emission reduction credits must be compatible with local comprehensive plans, statewide planning goals, and state laws and rules.  NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, 468A.025, 468A.040, 468A.135, 468A.155 & 468A.310 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468A.025, 468A.040, 468A.135, 468A.155 & 468A.310 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 7-2015, f. & cert. ef. 4-16-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-1980 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 19-1993, f. & cert. ef. 11-4-93 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 12-1993, f. & cert. ef. 9-24-93, Renumbered from 340-020-0265 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 4-1993, f. & cert. ef. 3-10-93 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 27-1992, f. & cert. ef. 11-12-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 5-1983, f. & ef. 4-18-83 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 25-1981, f. & ef. 9-8-81 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

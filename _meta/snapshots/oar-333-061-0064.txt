@@ -1,0 +1,339 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 61 DRINKING WATER 
+ 333-061-0064 
+ Emergency Response Plan Requirements
+ 
+ 
+ Water suppliers must maintain an emergency response plan for every community and NTNC water system. Water system staff must be instructed and trained in the use of the plan and the plan must be accessible at all times to all water system staff for use during emergencies. 
+
+ (1) At community water systems serving 3,300 or fewer people and NTNC water systems, the emergency response plan must include procedures for reasonably anticipated emergencies. 
+
+ (a) These procedures must include, but are not limited to: a plan for physical security measures, procedures to isolate all parts of the water system and procedures for emergency disinfection. There must also be a procedure for issuing a boil water or do not drink advisory to water system customers in the event of: 
+
+ (A) Loss of electrical power; 
+
+ (B) Loss of pressure in the water distribution system; 
+
+ (C) Disruption or failure of disinfection or other treatment systems; or 
+
+ (D) Detection of E. coli bacteria or another contaminant exceeding the MCL. 
+
+ (b) If computer networks or automated control systems operate or monitor processes at the water system, water suppliers must implement cybersecurity measures to prevent attacks on process controls including but not limited to: establishing a password policy based on current cybersecurity standards, creating a software update plan, monitoring for suspicious activity, and installing and updating antivirus or anti-malware software. 
+
+ (c) Water suppliers must have a procedure to coordinate with local emergency management agencies in the event of an emergency event that overwhelms the water system staff’s ability to respond. 
+
+ (2) At community water systems serving more than 3,300 people, water suppliers must complete a risk and resilience assessment in addition to maintaining an emergency response plan. Both emergency response plans and risk and resilience assessments must be updated at least every five years. 
+
+ (a) The risk and resilience assessment must include: 
+
+ (A) The risks to the water system from malevolent acts and natural hazards. 
+
+ (B) The resilience of the water system infrastructure, including but not limited to: pipes, constructed conveyances, physical barriers, water sources, water collection or intake facilities, pretreatment or treatment facilities, storage and distribution facilities, and electronic, computer or other automated systems (including the security of such systems) which are utilized at the system. 
+
+ (C) The water quality monitoring practices at the system. 
+
+ (D) The financial infrastructure for the system, such as business continuity or rate setting. 
+
+ (E) The use, storage, or handling of any chemicals by the system. 
+
+ (F) The operation and maintenance of the water system. 
+
+ (b) The emergency response plan must incorporate the findings of the risk and resilience assessment and also: 
+
+ (A) Include strategies and resources to improve the resilience of the system, including the physical security and cybersecurity of the system. 
+
+ (B) Include plans and procedures that can be implemented, and identify equipment that can be utilized, in the event of a malevolent act or natural hazard that threatens the ability of the water system to deliver safe drinking water. These plans and procedures must include but are not limited to: 
+
+ (i) Actions and procedures which can render harmless or significantly lessen the impact of malevolent acts or natural hazards upon public health and safety and the supply of safe drinking water, including how to isolate parts of the water system. 
+
+ (ii) Emergency disinfection procedures, the process for issuing a boil water advisory, and the process for responding to a waterborne disease outbreak. 
+
+ (iii) Response procedures for events involving high-risk contaminant sources or activities as identified in the water system’s source water assessment within the following areas: 
+
+ (I) A one-year time-of-travel for wells or zone 1 for springs for groundwater sources with a delineated drinking water source area. 
+
+ (II) Within a 500 ft. radius of a groundwater well, spring, or infiltration gallery without a delineated drinking water source area. 
+
+ (III) An eight-hour time-of-travel or an area within the eight-hour time-of-travel that captures high risk sources based on sensitive area information in the source water assessment for surface water sources. 
+
+ (C) Identify actions, procedures and equipment which can prevent or significantly lessen the impact of a malevolent act or natural hazard upon public health and safety and the supply of safe drinking water to communities and individuals, including the development of alternative source water options, relocation of water intakes and construction of flood protection barriers; and 
+
+ (i) Make provisions for an auxiliary power supply and provide for redundant equipment for critical components. 
+
+ (ii) Identify and develop plans for utilizing alternative drinking water sources and supplies. 
+
+ (iii) Develop plans for water rationing. 
+
+ (iv) Develop a plan for emergency provision of water. 
+
+ (D) Identify strategies that will aid in the detection of malevolent acts or natural hazards that threaten the security or resilience of the water system. 
+
+ (E) Describe communications and authority used by water system staff, including but not limited to the following. 
+
+ (i) Water system staff must coordinate with local emergency planning committees when preparing or revising the emergency response plan. 
+
+ (ii) Water system staff must develop and maintain an emergency contacts list to be used in the emergency response plan’s notification procedures. 
+
+ (iii) The emergency response plan must identify decision-making authorities and responsibilities for water system personnel. 
+
+ (iv) There must be a procedure for notification of agencies, water users, and the local media. 
+
+ (v) Water system staff must develop and maintain a list of institutional customers that serve vulnerable populations, including but not limited to: hospitals, dialysis centers, elderly care facilities, and childcare facilities. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 448.131 
+ 
+ 
+ Statutes/Other Implemented:  ORS 448.131 & 448.160 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 93-2021, amend filed 12/29/2021, effective 01/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 2-2018, amend filed 01/10/2018, effective 01/10/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 7-2010, f. & cert. ef. 4-19-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 4-2009, f. & cert. ef. 5-18-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 33-2004, f. & cert. ef. 10-21-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 20-2004, f. & cert. ef. 6-18-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 16-2004(Temp), f. & cert. ef. 4-9-04 thru 10-5-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 12-2003, f. & cert. ef. 8-15-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHD 17-2002, f. & cert. ef. 10-25-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

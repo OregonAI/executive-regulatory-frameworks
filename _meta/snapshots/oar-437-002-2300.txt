@@ -1,0 +1,166 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Oregon Occupational Safety and Health Division - Chapter 437 
+ 
+ 
+ 
+ 
+ Division 2 GENERAL OCCUPATIONAL SAFETY AND HEALTH RULES 
+ 437-002-2300 
+ General 
+ 
+ (1) Application. Division 2/RR covers the operation and maintenance of electric power generation, control, transformation, transmission, and distribution lines and equipment. These provisions apply to:  (a) Power generation, transmission, and distribution installations, including related equipment for the purpose of communication or metering that are accessible only to qualified employees;  NOTE to paragraph (1)(a): The types of installations covered by this paragraph include the generation, transmission, and distribution installations of electric utilities, as well as equivalent installations of industrial establishments. This includes facilities producing electric energy from other forms of energy, including but not limited to thermal, hydroelectric, photovoltaic, wind-generated, wave energy, and chemical energy from fuel cells and batteries. Division 2/S covers supplementary electric generating equipment that is used to supply a workplace for emergency, standby, or similar purposes only.  (b) Other installations at an electric power generating station, as follows:  (A) Fuel and ash handling and processing installations, such as coal conveyors,  (B) Water and steam installations, such as penstocks, pipelines, and tanks, providing a source of energy for electric generators, and  (C) Chlorine and hydrogen systems;  (c) Test sites where employees perform electrical testing involving temporary measurements associated with electric power generation, transmission, and distribution in laboratories, in the field, in substations, and on lines, as opposed to metering, relaying, and routine line work;  (d) Work on, or directly associated with, the installations covered in paragraphs (1)(a) through (1)(C) of this rule; and  (e) Line-clearance tree-trimming performed for the purpose of clearing space around electric power generation, transmission, or distribution lines or equipment and on behalf of an organization that operates, or that controls the operating procedures for, those lines or equipment, as follows:  (A) Entire Division 2/RR , except paragraph (1) of 437-002-2317, applies to line-clearance tree trimming covered by the introductory text to paragraph (1)(e) of 437-002-2300 when performed by qualified employees (those who are knowledgeable in the construction and operation of the electric power generation, transmission, or distribution equipment involved, along with the associated hazards).  (B) Rules 437-002-2300(2), (3); 437-002-2301, 437-002-2302, 437-002-2306, 437-002-2310, 437-002-2315, and 437-002-2317 of Division 2/RR apply to line-clearance tree trimming covered by the introductory text to paragraph (1)(e) of 437-002-2300 when performed by line-clearance tree trimmers who are not qualified employees.  (f) Notwithstanding paragraph (1)(a) of this rule, Division 2/RR does not apply to electrical installations, electrical safety-related work practices, or electrical maintenance considerations covered by Division 2/S or Division 3/K.  NOTE 1 to paragraph (1)(f): Oregon OSHA considers work practices conforming to 1910.332 through 1910.335 of Division 2/S as complying with the electrical safety-related work-practice requirements of Division 2/RR identified in Table 1 of Appendix A-2 to Division 2/RR, provided that employers are performing the work on a generation or distribution installation meeting 1910.303 through 1910.308 of Division 2/S. This table also identifies provisions in Division 2/RR that apply to work by qualified persons directly on, or associated with, installations of electric power generation, transmission, and distribution lines or equipment, regardless of compliance with 1910.332 through 1910.335 of Division 2/S.  NOTE 2 to paragraph (1)(f): Oregon OSHA considers work practices performed by qualified persons and conforming to Division 2/RR as complying with 1910.333(c) and 1910.335 of Division 2/S.  (g) Division 2/RR applies in addition to all other applicable standards contained in Division 2. Employers covered under Division 2/RR are not exempt from complying with other applicable provisions in Division 2 by the operation of 1910.5(c) of Division 2. Specific references in Division 2/RR to other subdivisions are for emphasis only.  (h) Division 2/RR also covers the construction of electric power transmission and distribution lines and equipment. As used in this Subdivision, the term "construction" includes the erection of new electric transmission and distribution lines and equipment, and the alteration, conversion, and improvement of existing electric transmission and distribution lines and equipment. Division 2/RR applies to safety-related work practices for qualified employees.  (i) This rule applies in addition to all other applicable standards contained in Division 3, relating to construction activities. Employers engaged in construction activities covered under Division 2/RR are not exempt from complying with other applicable provisions in Division 3 by the operation of 437-003-0005 Additional Applicability, of Division 3/A. Specific references in Division 2/RR to other subdivisions of Division 3 are provided for emphasis only.  (2) Training.  (a) All employees performing work covered by this rule must be trained as follows:  (A) Each employee must be trained in, and familiar with, the safety-related work practices, safety procedures, and other safety requirements in this rule that pertain to their job assignments.  (B) Each employee must also be trained in and familiar with any other safety practices, including applicable emergency procedures (such as pole-top and manhole rescue), that are not specifically addressed by this rule but that are related to their work and are necessary for their safety.  (C) The degree of training must be determined by the risk to the employee for the hazard involved.  (b) Each qualified employee must also be trained and competent in:  (A) The skills and techniques necessary to distinguish exposed live parts from other parts of electric equipment,  (B) The skills and techniques necessary to determine the nominal voltage of exposed live parts,  (C) The minimum approach distances specified in this rule corresponding to the voltages to which the qualified employee will be exposed and the skills and techniques necessary to maintain those distances,  (D) The proper use of the special precautionary techniques, personal protective equipment, insulating and shielding materials, and insulated tools for working on or near exposed energized parts of electric equipment, and  (E) The recognition of electrical hazards to which the employee may be exposed and the skills and techniques necessary to control or avoid these hazards.  NOTE to paragraph (2)(b): For the purposes of this rule, a person must have the training required by paragraph (2)(b) of this rule to be considered a qualified employee.  (c) Each line-clearance tree trimmer who is not a qualified employee must also be trained and competent in:  (A) The skills and techniques necessary to distinguish exposed live parts from other parts of electric equipment,  (B) The skills and techniques necessary to determine the nominal voltage of exposed live parts, and  (C) The minimum approach distances specified in this rule corresponding to the voltages to which the employee will be exposed and the skills and techniques necessary to maintain those distances.  (d) The employer must determine, through regular supervision and through inspections conducted on at least an annual basis, that each employee is complying with the safety-related work practices required by this rule.  (e) An employee must receive additional training (or retraining) under any of the following conditions:  (A) If the supervision or annual inspections required by paragraph (2)(d) of this rule indicate that the employee is not complying with the safety-related work practices required by this rule, or  (B) If new technology, new types of equipment, or changes in procedures necessitate the use of safety-related work practices that are different from those which the employee would normally use, or  (C) If they must employ safety-related work practices that are not normally used during their regular job duties.  NOTE to paragraph (2)(e)(C): Oregon OSHA considers tasks that are performed less often than once per year to necessitate retraining before the performance of the work practices involved.  (f) The training required by paragraph (a)(2) of this rule must be of the classroom or on-the-job type.  (g) The training must establish employee proficiency in the work practices required by this rule and must introduce the procedures necessary for compliance with this rule.  (h) The employer must ensure that each employee has demonstrated proficiency in the work practices involved before that employee is considered as having completed the training required by paragraph (a)(2) of this rule.  NOTE 1 to paragraph (2)(h): Though they are not required by this paragraph, employment records that indicate that an employee has successfully completed the required training are one way of keeping track of when an employee has demonstrated proficiency.  NOTE 2 to paragraph (2)(h): For an employee with previous training, an employer may determine that that employee has demonstrated the proficiency required by this paragraph using the following process:  (1) Confirm that the employee has the training required by paragraph (a)(2) of this rule,  (2) Use an examination or interview to make an initial determination that the employee understands the relevant safety-related work practices before they perform any work covered by this rule, and  (3) Supervise the employee closely until that employee has demonstrated proficiency as required by this paragraph.  (3) Information transfer.  (a) Before work begins, the host employer must inform contract employers of:  (A) The characteristics of the host employer's installation that are related to the safety of the work to be performed and are listed in paragraphs (4)(a) through (4)(e) of this rule;  NOTE to paragraph (3)(a)(A): This paragraph requires the host employer to obtain information listed in paragraphs (4)(a) through (4)(e) of this rule if it does not have this information in existing records.  (B) Conditions that are related to the safety of the work to be performed, that are listed in paragraphs (4)(f) through (4)(h) of this rule, and that are known to the host employer;  NOTE to paragraph (3)(a)(B): For the purposes of this paragraph, the host employer need only provide information to contract employers that the host employer can obtain from its existing records through the exercise of reasonable diligence. This paragraph does not require the host employer to make inspections of worksite conditions to obtain this information.  (C) Information about the design and operation of the host employer's installation that the contract employer needs to make the assessments required by this rule; and  NOTE to paragraph (3)(a)(C): This paragraph requires the host employer to obtain information about the design and operation of its installation that contract employers need to make required assessments if it does not have this information in existing records.  (D) Any other information about the design and operation of the host employer's installation that is known by the host employer, that the contract employer requests, and that is related to the protection of the contract employer's employees.  NOTE to paragraph (3)(a)(D): For the purposes of this paragraph, the host employer need only provide information to contract employers that the host employer can obtain from its existing records through the exercise of reasonable diligence. This paragraph does not require the host employer to make inspections of worksite conditions to obtain this information.  (b) Contract employers must comply with the following requirements:  (A) The contract employer must ensure that each of its employees is instructed in the hazardous conditions relevant to the employee's work that the contract employer is aware of as a result of information communicated to the contract employer by the host employer under paragraph (3)(a) of this rule.  (B) Before work begins, the contract employer must advise the host employer of any unique hazardous conditions presented by the contract employer's work.  (C) The contract employer must advise the host employer of any unanticipated hazardous conditions found during the contract employer's work that the host employer did not mention under paragraph (3)(a) of this rule. The contract employer must provide this information to the host employer within 2 working days after discovering the hazardous condition.  (c) The contract employer and the host employer must coordinate their work rules and procedures so that each employee of the contract employer and the host employer is protected as required by this rule.  (4) Existing characteristics and conditions. Existing characteristics and conditions of electric lines and equipment that are related to the safety of the work to be performed must be determined before work on or near the lines or equipment is started. Such characteristics and conditions include, but are not limited to:  (a) The nominal voltages of lines and equipment,  (b) The maximum switching-transient voltages,  (c) The presence of hazardous induced voltages,  (d) The presence of protective grounds and equipment grounding conductors,  (e) The locations of circuits and equipment, including electric supply lines, communication lines, and fire-protective signaling circuits,  (f) The condition of protective grounds and equipment grounding conductors,  (g) The condition of poles, and  (h) Environmental conditions relating to safety. 
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 654.025(2) & 656.726(4) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 654.001 - 654.295 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSHA 3-2015, f. 10-9-15, cert. ef. 1-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Public Utility Commission 
+ Chapter 860 
+ 
+ 
+ 
+ 
+ 
+ Division 84 SOLAR PHOTOVOLTAIC PROGRAMS 
+ 860-084-0320 
+ Level 2 System Interconnection Review 
+ 
+ (1) An electric company must apply the following Level 2 interconnection review procedure for an application to interconnect an eligible system that meets the following criteria:  (a) The facility has a capacity of 500 kilowatts or less; and  (b) The facility does not qualify for or failed to meet applicable Level 1 interconnection review procedures.  (2) The electric company must approve interconnection under the Level 2 interconnection review procedure if:  (a) The aggregate generation capacity on the distribution circuit to which the eligible system will interconnect, including the capacity of the eligible system, will not cause any distribution protective equipment (including, but not limited to, substation breakers, fuse cutouts, and line reclosers), or customer equipment on the electric distribution system, to exceed 90 percent of the short circuit interrupting capability of the equipment. In addition, an eligible system may not be connected to a circuit that already exceeds 90 percent of the short circuit interrupting capability, prior to interconnection of the facility;  (b) If there are posted transient stability limits to generating units located in the general electrical vicinity of the proposed point of common coupling, including, but not limited to within three or four transmission voltage level busses, the aggregate generation capacity, including the eligible system, connected to the distribution low voltage side of the substation transformer feeding the distribution circuit containing the point of common coupling may not exceed 10 megawatts;  (c) The aggregate generation capacity connected to the distribution circuit, including the eligible system, may not contribute more than 10 percent to the distribution circuit's maximum fault current at the point on the high voltage (primary) level nearest the proposed point of common coupling;  (d) If an eligible system is to be connected to a radial distribution circuit, the aggregate generation capacity connected to the electric distribution system by non-electric company sources, including the eligible system, may not exceed 15 percent of the total circuit annual peak load. For the purposes of this subsection, annual peak load will be based on measurements taken over the 12 months previous to the submittal of the application, measured for the circuit at the substation nearest to the eligible system;  (e) If an eligible system is to be connected to three-phase, three wire primary electric company distribution lines, a three-phase or single-phase generator must be connected phase-to-phase;  (f) If an eligible system is to be connected to three-phase, four wire primary electric company distribution lines, a three-phase or single-phase generator must be connected line-to-neutral and must be effectively grounded;  (g) If an eligible system is to be connected to a single-phase shared secondary, the aggregate generation capacity on the shared secondary, including the eligible system, may not exceed 20 kilovolt-amps;  (h) If an eligible system is single-phase and is to be connected to a transformer center tap neutral of a 240 volt service, the addition of the eligible system may not create a current imbalance between the two sides of the 240 volt service that is greater than 20 percent of the nameplate rating of the service transformer;  (i) An eligible system's point of common coupling may not be on a transmission line; and  (j) If an eligible system's proposed point of common coupling is on a spot or area network, the interconnection must meet the following additional requirements:  (A) For an eligible system that will be connected to a spot network circuit, the aggregate generation capacity connected to that spot network from the eligible system, and any generating facilities, may not exceed five percent of the spot network's maximum load;  (B) For an eligible system that utilizes inverter-based protective functions, which will be connected to an area network, the eligible system, combined with any other generating facilities on the load side of network protective devices, may not exceed 10 percent of the minimum annual load on the network, or 500 kilowatts, whichever is less. The percent of minimum load must be calculated based on the minimum load occurring during an off-peak daylight period; and  (C) For an eligible system that will be connected to a spot or an area network that does not utilize inverter-based protective functions, or for an inverter-based eligible system that does not meet the requirements of paragraphs (A) or (B) of this subsection, the eligible system must utilize low forward power relays or other protection devices that ensure no export of power from the eligible system, including inadvertent export (under fault conditions) that could adversely affect protective devices on the network.  (3) Within 15 business days after notifying a Level 2 applicant that the application is complete, the electric company must perform an initial review of the proposed interconnection to determine whether the interconnection meets the applicable criteria. During this initial review, the electric company may, at its own expense, conduct any studies or tests it deems necessary to evaluate the proposed interconnection and provide notice to the applicant of one of the following determinations:  (a) The eligible system meets the applicable requirements and that interconnection will be approved following any required inspection of the facility and fully executed interconnection agreement. Within three business days after this notice, the electric company must provide the applicant with an executable interconnection agreement;  (b) The eligible system failed to meet one or more of the applicable requirements, but the electric company determined that the eligible system may be interconnected consistent with safety, reliability, and power quality. In this case, the electric company must notify the applicant that the interconnection will be approved following any required inspection of the facility and fully executed interconnection agreement. Within five business days after this notice, the electric company must provide the applicant with an executable interconnection agreement; or  (c) The eligible system failed to meet one or more of the applicable requirements, and that additional review would not enable the electric company to determine that the eligible system could be interconnected consistent with safety, reliability, and power quality. In such a case, the electric company must notify the applicant that the interconnection application has been denied and must provide an explanation of the reason(s) for the denial, including a list of additional information, or modifications to the eligible system, or both, which would be required in order to obtain an approval under Level 2 interconnection procedures.  (4) An applicant that receives an interconnection agreement under subsection (3)(a) or (3)(b) of this rule must:  (a) Execute the agreement and return it to the electric company at least 10 business days prior to starting operation of the eligible system (unless the electric company does not so require); and  (b) Indicate to the electric company the anticipated start date for operation of the eligible system.  (5) The electric company may require an electric company inspection of an eligible system for compliance with these solar photovoltaic rules prior to operation, and may require and arrange for witness of commissioning tests as set forth in IEEE standards. The electric company must schedule any inspections or tests under this section promptly and within a reasonable time after submittal of the application. The applicant may not begin operating the eligible system until after the inspection and testing is completed.  (6) Approval of interconnected operation of any Level 2 eligible system must be conditioned on all of the following occurring:  (a) Approval of the interconnection by the electrical code official with jurisdiction over the interconnection;  (b) Successful completion of any electric company inspection or witnessing of commissioning tests, or both, requested by the electric company; and  (c) Passing of the planned start date provided by the applicant.  (7) If an application for Level 2 interconnection review is denied because it does not meet one or more of the requirements of this rule, the applicant may resubmit the application under the Level 3 interconnection review procedure. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 757.360 - 757.380 
+ 
+ 
+ Statutes/Other Implemented:  ORS 757.360 - 757.380 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 2-2010, f. & cert. ef. 6-1-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

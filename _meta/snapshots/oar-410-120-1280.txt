@@ -1,0 +1,673 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 120 MEDICAL ASSISTANCE PROGRAMS 
+ 410-120-1280 
+ Billing
+ 
+ 
+ (1) A provider enrolled with the Authority or providing services to a client in a Managed Care Entity (MCE) under the Oregon Health Plan (OHP) may not seek payment from the client for any services covered by Medicaid fee-for-service or through contracted health care plans, except as authorized by the Authority under this rule. 
+
+ (2) Identification of eligibility and third-party liability (TPL). The provider must: 
+
+ (a) Verify the client’s eligibility for medical assistance and benefit package prior to rendering service pursuant to OAR 410-120-1140; 
+
+ (b) Make “reasonable efforts” to identify third-party resources as described in section (10)(b) of this rule; and 
+
+ (c) Ask the client at the point of service and verify prior to billing if the client has medical assistance, is applying for medical assistance, enrolled with an MCE or has other third-party liability. 
+
+ (3) If a provider’s client is a medical assistance recipient, the provider must: 
+
+ (a) Comply with the provisions in sections (10) through (12) of this rule regarding third-party resources; 
+
+ (b) Submit a claim to the Authority or MCE, if no third-party resources are available or the provider has complied with section (2)(a) of this rule; 
+
+ (c) Delay any billing or collection action against the client  for ninety (90) calendar days from submitting the valid claim to the Authority or MCE, except as authorized in section (4) of this rule; 
+
+ (d) If no payment is received from the Authority or MCE within ninety (90) calendar days from the date a valid claim (OAR 410-120-0000) was submitted: 
+
+ (A) Verify the client’s eligibility for the date of service; 
+
+ (B) If the individual was not eligible for medical assistance on the date of service, proceed with the provider’s normal billing and collection process; or 
+
+ (C) If the individual was eligible for medical assistance on the date of service, and the provider does not have a completed agreement to pay form (OHP 3165, 3166, 4109), the provider is not allowed to bill the client, collect payment from the client, or assign an unpaid claim to a collection agency or similar entity pursuant to ORS 414.066, except as authorized by section (5) of this rule. 
+
+ (4) For Medicaid covered services, the provider must not: 
+
+ (a) Bill the Authority more than the provider's Usual Charge (OAR 410-120-0000) or the reimbursement specified in the applicable Authority program rules; 
+
+ (b) Bill the client for missed appointments. A missed appointment is not considered to be a distinct Medicaid service by the federal government and as such is not billable to the client or the Authority; 
+
+ (c) Bill the client for services or treatments that have been denied due to provider error, except as authorized under section (5) of this rule. Examples of provider error could be things such as required documentation not submitted for a prior authorization, or a prior authorization not submitted, or an error in the information or billing codes the provider listed on the claim. 
+
+ (5) Providers may only bill a client or a financially responsible relative or representative of that client in the following situations: 
+
+ (a) The client did not inform the provider of their Oregon Health plan I.D., MCE I.D. card, or third-party insurance card, or gave a name that did not match OHP I.D. at the time of or after a service was provided; therefore, the provider is now unable to bill the appropriate payer for reasons including but not limited to the lack of prior authorization, or because the time limit to submit the claim for payment to the appropriate payer has passed. The provider shall verify eligibility of the client at the time of service pursuant to OAR 410-120-1140 and prior to billing or collection pursuant to OAR 410-120-1280, and document each attempt to obtain coverage information prior to billing the client; 
+
+ (b) The client became eligible for benefits retroactively but did not meet all of the other criteria required to receive the service; 
+
+ (c) A third-party payer made payments directly to the client for services provided. The provider shall accept this payment from the third-party payer as payment in full; 
+
+ (d) Citizenship Waived Medical (CWM) Benefits Package recipients prior to June 30, 2023, that received services that are not part of the CWM emergency only benefits, must have signed the provider-completed Agreement to Pay OHP form 3165, 3166 or 4109. CWM Benefits Package coverage, limitations, and billing guidance found in OAR 410-134-0005. 
+
+ (e) The client has requested a continuation of benefits during the contested case hearing process, and the final decision was not in favor of the client. The client shall pay for any charges incurred for the denied service on or after the effective date on the Notice of Action or Notice of Appeal Resolution. The provider must complete the agreement to pay form OHP 3165 pursuant to section (5)(h) of this rule before providing these services to the client; 
+
+ (f) The client has requested to privately pay for services denied as not meeting the prior authorization, HERC or other criteria. The provider shall  provide to the client all required information for a non-covered service in this rule section (5)(h); 
+
+ (g) The client has requested to privately pay for a covered service. In this situation, the provider may bill the client if the provider informs the client in advance of all the following: 
+
+ (A) The client does not have to pay for the requested service because it is covered by the Oregon Health Plan; and 
+
+ (B) the provider is not permitted to bill the client more than the amount the appropriate payer may be required to pay; and 
+
+ (C) The estimated total cost of the covered service, including all related charges, that the client may have to pay if the client decides to privately pay, which cannot exceed the amount that the appropriate payer (Authority, or MCE, or third-party) may have to pay for the covered service; and 
+
+ (D) That the client knowingly and voluntarily agrees to pay for the covered service; and 
+
+ (E) The provider shall document in writing the date and time in the client’s medical record  that : 
+
+ (i) The provider gave the client or the client’s authorized representative the information described in section (5)(g)(A-C) of this rule; and 
+
+ (ii) The client had an opportunity to ask questions, obtain additional information, and consult with the client's caseworker or client representative; and 
+
+ (iii) The client agreed to privately pay for the covered service by signing an agreement to pay form (OHP 3165, 3166, 4109); and 
+
+ (iv) The provider must give a copy of the signed and dated agreement to pay form (OHP 3165, 3166, 4109) to the client and keeps a copy of the form in the client’s medical record. 
+
+ (F) A provider  must not submit a claim for payment for covered services to the Authority, the client's MCE, or a third-party payer that is subject to the agreement. 
+
+ (h) The service is a non-covered service by the Authority, or MCE (non-covered services include services denied under prior authorization. Refer to OAR 410-120-0000 for a definition of non-covered services). Before providing the non-covered service, the provider shall provide to the client of all of the following: 
+
+ (A) The requested service is a non-covered service; and 
+
+ (B) The estimated total cost of the non-covered service, including all related charges; and 
+
+ (C) That the client knowingly and voluntarily agrees to pay for the non-covered service; and 
+
+ (D) the provider documents in writing the date and time in the client’s record, indicating that: 
+
+ (i) The provider gave the client or the client’s authorized representative the information described in OAR 410-120-1280 (5)(h)(A)-(C) of this rule; and 
+
+ (ii) The client had an opportunity to ask questions, obtain additional information, and consult with the client's caseworker or client representative; and 
+
+ (iii) The client agreed to privately pay for the non-covered service by signing an agreement to pay form (OHP 3165, 3166, 4109); and 
+
+ (iv) The provider gives a copy of the signed and dated agreement to pay form (OHP 3165, 3166, 4109) to the client and keeps a copy of the form in the client’s medical record. 
+
+ (E) the client must sign and date the provider-completed agreement to pay form (OHP 3165, 3166, or 4109); 
+
+ (i) The completed agreement to pay form (OHP 3165, 3166, 4109) is valid only if the estimated fee for the service or good does not change and the service is scheduled within thirty (30) days of the client’s signature. The completed agreement to pay form (OHP 3165, 3166, 4109) is not transferrable to a different service or good. The agreement to pay form (OHP 3165, 3166, 4109) is not valid when this form is used by the provider as a generic agreement by the client to pay for unspecified non-covered services. 
+
+ (ii) For some long-term services, such as labor and delivery, a single form can span the duration of the pregnancy. 
+
+ (iii)  Providers must make a copy of the completed agreement to pay form (OHP 3165, 3166 or 4109) available to the Authority or MCE upon request. 
+
+ (i) For clients agreeing to pay for services under this rule section (5) who are limited English proficient, who are deaf, or hard of hearing, the provider shall provide translation or interpretation services before the client or a financially responsible relative or representative of that client signs the agreement to pay form (OHP 3165, 3166, 4109). This includes but is not limited to providing the following without limitation: 
+
+ (A) Written documents in appropriate languages; and  
+
+ (B) Interpreter services consistent with OAR 410-120-0001. 
+
+ (6) Code set requirements: 
+
+ (a) Federal Code Set requirements (45 CFR 162) apply to all Medicaid Code Set requirements, including the use of diagnostic or procedure codes for prior authorization, claims submissions, and payments. Code Set has the meaning set forth in 45 CFR 162.103, and it includes the codes and the descriptors of the codes, code guidelines, and parentheticals related to the code. Federal Code Set requirements are mandatory as part of the National Correct Coding Initiative (NCCI), and the Authority lacks any authority to delay or alter their application or effective dates as established by the U.S. Department of Health and Human Services; 
+
+ (b) The Authority shall adhere to the Code Set requirements in 45 CFR 162.1000–162.1011; 
+
+ (c) Periodically, the Authority shall update its provider rules and tables to conform to national codes. In the event of an alleged variation between an Authority-listed code and a national code, the Authority shall apply the national code in effect on the date of request or date of service. Providers billing the Authority shall use codes in the appropriate sequency and highest degree of specificity, append the appropriate modifiers, and indicate the appropriate and most specific place of services; 
+
+ (d) Only codes with limitations or requiring prior authorization are noted in OAR. National Code Set issuance alone may not be construed as coverage or a covered service by the Authority; 
+
+ (e) The Authority adopts by reference the National Code Set revisions, deletions, and additions issued and published by the American Medical Association (Current Procedural Terminology — CPT) and on the CMS website (Healthcare Common Procedural Coding System — HCPCS). This code adoption may not be construed as coverage or as a covered service by the Authority. 
+
+ (7) Claims: 
+
+ (a) Upon submission of a claim to the Authority for payment, the provider agrees that it has complied with all Division program rules. Submission of a claim, however, does not relieve the provider from the requirement of a signed provider agreement; 
+
+ (b) A provider enrolled with the Division shall bill using the Authority assigned provider number, or the National Provider Identification (NPI) number , pursuant to OAR 410-120-1260; 
+
+ (c) The provider may not bill the Division more than the provider's usual charge (see Definitions) or the reimbursement specified in the applicable Division program rules; 
+
+ (d) Claims shall be submitted on the appropriate form as described in the individual Division program rules or electronically in a manner authorized in OAR Chapter 943, Division 120; 
+
+ (e) Medicare shall send crossover claims to the Authority or contracted health plan after adjudication by Medicare. When billing Medicare as the primary payer, claims for all Medicaid/Medicare members shall include all applicable payer information (with Medicare as primary and Medicaid as secondary) so that Medicare can automatically transmit the correct Medicare payment, coinsurance, and deductible information to the Authority or MCE; 
+
+ (f) Claims must be for services provided within the provider's licensure or certification as required by OAR Chapter 410 Division120 and program specific rules; 
+
+ (g) Unless otherwise specified, claims shall be submitted after: 
+
+ (A) Delivery of service; or 
+
+ (B) Dispensing, shipment or mailing of the item. 
+
+ (h) The provider shall submit true and accurate information when billing the Division. Use of a billing provider does not do away with the performing provider's responsibility for the truth and accuracy of submitted information; 
+
+ (i) A claim is considered a valid claim only if it contains all data required for processing. See the appropriate provider rules and supplemental information for specific instructions and requirements; 
+
+ (j) A provider or its contracted agency, including billing providers, may not submit or cause to be submitted: 
+
+ (A) Any false claim for payment; 
+
+ (B) Any claim altered in such a way as to result in a payment for a service that has already been paid; 
+
+ (C) Any claim upon which payment has been made or is expected to be made by another source until after the other source has been billed with the exception of (10)(c)(A-D) of this rule. If the other source denies the claim or pays less than the Medicaid allowable amount, a claim may be submitted to the Division. Any amount paid by the other source must be clearly entered on the claim form and must include the appropriate Third Party Liability (TPL) Explanation Code; 
+
+ (D) Any claim for furnishing specific care, items, or services that has not been provided. 
+
+ (k) If an overpayment has been made by the Authority, the provider is required to do one of the following: 
+
+ (A) Adjust the original claim to show the overpayment as a credit in the appropriate field: 
+
+ (i) Submit an Individual Adjustment Request (OHP 1036); or 
+
+ (ii) Adjust the claim on the Provider Web Portal at https://www.or-medicaid.gov; 
+
+ (B) Refund the amount of the overpayment on any claim; 
+
+ (C) Void the claim via the Provider Web Portal if the Division overpaid due to an erroneous billing; 
+
+ (D) If the overpayment occurred because of a payment from a third-party payer refer to section (10)(f) of this rule. 
+
+ (L) 340B covered entities that bill Fee for Service (FFS) or a Coordinated Care Organization (CCO) shall follow OHA’s 340B policy in order to avoid “duplicate discounts”. 
+
+ (8) Diagnosis code requirement: 
+
+ (a) A primary diagnosis code is required on all claims, using the ICD-10-CM diagnosis code set, unless specifically excluded in individual Health System Division program rules; 
+
+ (b) The primary diagnosis code shall be the code that most accurately describes the client’s condition; 
+
+ (c) All diagnosis codes are required to the highest degree of specificity; 
+
+ (d) Hospitals shall follow national coding guidelines and bill using the seventh digit where applicable in accordance with methodology used in the Medicare Diagnosis Related Groups. 
+
+ (9) Procedure code requirement: 
+
+ (a) For claims requiring a procedure code the provider shall bill as instructed in the appropriate Division program rules and shall use the appropriate HIPAA procedure code set such as CPT, HCPCS, ICD-10-PCS, ADA CDT, NDC, established according to 45 CFR 162.1000 to 162.1011, which best describes the specific service or item provided; 
+
+ (b) For claims that require the listing of a procedure code as a condition of payment, the code listed on the claim must be supported by the client’s medical record and must be the code that most accurately describes the services provided. All Providers, including Hospitals, shall follow national coding guidelines; 
+
+ (c) When there is no appropriate descriptive procedure code to bill the Division, the provider shall use the code for “unlisted services.” Instructions on the specific use of unlisted services are contained in the individual provider rules. A complete and accurate description of the specific care, item, or service must be documented on the claim; 
+
+ (d) Where there is one CPT, CDT, or HCPCS code that according to CPT, CDT, and HCPCS coding guidelines or standards describes an array of services, the provider shall bill the Division using that code rather than itemizing the services under multiple codes. Providers may not “unbundle” services in order to increase the payment. 
+
+ (10) Third-Party Liability (TPL): 
+
+ (a) Federal law requires that state Medicaid agencies take all reasonable measures to ensure that in most instances the Division shall be the payer of last resort; 
+
+ (b) Providers shall make reasonable efforts to obtain payment first from other resources. For the purposes of this rule, “reasonable efforts” include determining the existence of insurance or other resources on each date of service by: 
+
+ (A) Using an insurance database such as Electronic Verification System (EVS) available to the provider; 
+
+ (B) Using the Automated Voice Response (AVR) or secure provider web portal on each date of service and at the time of billing; 
+
+ (C) Asking the Medicaid recipient at the point of service or prior to billing if they have other health insurance; 
+
+ (D) If the provider identifies from the client or other source third-party insurance that is unknown to the state or that is different from what is reported in one of the Division verification systems, the provider shall report the coverage to the Health Insurance Group (HIG) using the secure online form at www.reporttpl.org. 
+
+ (c) Except as noted in section (10)(d)(A)-(E) of this rule, when third-party coverage is known to the provider prior to billing the Division, the provider shall: 
+
+ (A) Bill all third-party insurance the client is covered by, which could include Personal Insurance Protection (PIP) or Workers Compensation if the claim is related to a personal injury; and 
+
+ (B) Except for pharmacy claims billed through the Division’s point-of-sale system, the provider shall wait thirty (30) days from submission date of a clean claim and have not received payment from the third party; and 
+
+ (C) Comply with the insurer's billing and authorization requirements; and 
+
+ (D) Appeal a denied claim when the service is payable in whole or in part by an insurer. 
+
+ (d) In accordance with federal regulations, the provider shall bill the TPL prior to billing the Division, except under the following circumstances: 
+
+ (A) The covered health service is provided by an Intermediate Care Facility for Individuals with Intellectual Disabilities (ICF/ID); 
+
+ (B) The covered health service is provided by institutional services for the mentally and emotionally disturbed; 
+
+ (C) The covered health services are prenatal and preventive pediatric services; 
+
+ (D) Services are covered by a third-party insurer through an absent parent where the medical coverage is administratively or court ordered; 
+
+ (E) When a negligent third party caused an injury or illness to a client, a provider may choose to bill the Liability Insurance (see Definitions), bill the liable third party, place a lien on a tort settlement or judgement, or bill the Division. The provider may not both place a lien against a settlement and bill the Division: 
+
+ (i) The provider may withdraw their lien and bill the Division within twelve (12) months of the date of service; however, the provider shall accept the Division payment as payment in full; 
+
+ (ii) The provider may not return the payment made by the Division in order to place a lien or to accept payment from a liability settlement, judgement, liability insurer, or other source. 
+
+ (F) In the circumstances outlined in section (10)(d)(A)-(E) of this rule, the provider may choose to bill the primary insurance prior to billing the Division. Otherwise, the Division shall process the claim and, if applicable, pay the Division’s allowable rate for these services and seek reimbursement from the liable third-party insurance plan; 
+
+ (G) In making the decision to bill the Division, the provider shall be cognizant of the possibility that the third-party payer may reimburse the service at a higher rate than the Division and that once the Division makes payment, no additional billing to the third party is permitted by the provider. 
+
+ (e) The provider may bill the Division directly for services that are never covered by Medicare or another insurer on the appropriate form identified in the relevant provider rules. Documentation shall be on file in the provider's records indicating this is a non-covered service for purposes of Third-Party Resources. See the individual provider rules for further information on services that shall be billed to Medicare first; 
+
+ (f) In the case of known third-party coverage, a provider may bill the Division if payment from the third-party coverage is not received within thirty (30) days. If a payment is received from the third-party coverage after receiving the Division payment, the provider shall do the following within thirty (30) days of receiving the payment: 
+
+ (A) Submit an Individual Adjustment Request (OHP 1036) that shows the amount of the third-party payment as a credit in the appropriate field; or 
+
+ (B) Submit a claim adjustment online at https://www.or-medicaid.gov/ProdPortal/ that shows the amount of the third-party payment as a credit in the appropriate field; or 
+
+ (C) Refund the amount paid by the Division. The amount refunded shall be the lesser of the third-party payment or the amount paid by the Division. The check to repay the Division shall include the reason the payment is being made and either 
+
+ (i) An Individual Adjustment Request that identifies the original claim, name and number of the client, date of service, and items or services for which the repayment is made; or 
+
+ (ii) A copy of the Remittance Advice showing the original Division payment. 
+
+ (D) Failure to submit the Individual Adjustment Requests within thirty (30) days of receipt of the third-party payment or to refund the Division payment is considered concealment of material facts and is grounds for recovery and sanction; 
+
+ (E) Any provider who accepts payment from a client or client’s representative and is subsequently paid for the service by the Division shall reimburse the client or their representative the full amount of their payment. 
+
+ (g) If the third-party coverage is not known by the Division or the provider at the time the Division makes payment, a provider may not return the Division payment in order to bill the third-party coverage if the third-party coverage becomes known after the Division payment; 
+
+ (h) The Division may make a claim against any third-party payer after making payment to the provider of service. The Division may pursue alternate resources following payment if it deems this a more efficient approach. Pursuing alternate resources includes but is not limited to requesting the provider to bill the third party and to refund the Division in accordance with this rule; 
+
+ (i) For services provided to a Medicare and Medicaid dual eligible client, the Division may request the provider to submit a claim for Medicare payment, except as noted in OAR 410-141-3565, and the provider shall honor that request. Claims submitted to Medicare shall include the Medicaid information necessary to enable electronic crossover to the Authority or contracted health plan. Under federal regulation, a provider may not charge a beneficiary (or the state as the beneficiary's subrogee) for services for which a provider failed to file a timely claim (42 CFR 424) with Medicare despite being requested to do so; 
+
+ (j) If Medicare is the primary payer and Medicare denies payment, Medicare appeals shall be timely pursued, and Medicare denial must be obtained prior to submitting the claim for payment to the Division. Medicare denial on the basis of failure to submit a timely appeal may result in the Division reducing from the amount of the claim any amount the Division determines could have been paid by Medicare. 
+
+ (11) Full use of alternate resources: 
+
+ (a) The Division shall generally make payment only when other resources are not available for the client's medical needs. Full use must be made of reasonable alternate resources in the local community; 
+
+ (b) Except as provided in section (12) of this rule, alternate resources may be available: 
+
+ (A) Under a federal or state worker's compensation law or plan; 
+
+ (B) For items or services furnished by reason of membership in a prepayment plan; 
+
+ (C) For items or services provided or paid for directly or indirectly by a health insurance plan or as health benefits of a governmental entity such as: 
+
+ (i) Armed Forces Retirees and Dependents Act (CHAMPVA); 
+
+ (ii) Armed Forces Active Duty and Dependents Military Medical Benefits Act (CHAMPUS); or 
+
+ (iii) Medicare Parts A and B. 
+
+ (D) To residents of another state under that state's Title XIX or state funded medical assistance programs; or 
+
+ (E) Through other reasonably available resources. 
+
+ (12) Exceptions: 
+
+ (a) Indian Health Services or Tribal Health Facilities. Pursuant to 42 CFR 136.61 subpart G and the Memorandum of Agreement in OAR 410-146-0020, Indian Health Services facilities and Tribal facilities operating under Public Law 93, Section 638 agreement are payers of last resort and are not considered an alternate resource or TPL; 
+
+ (b) Veterans Administration. Veterans who are also eligible for Medicaid benefits are encouraged to utilize Veterans’ Administration facilities whenever possible. Veterans’ benefits are prioritized for service-related conditions and as such are not considered an alternate or TPL. 
+
+ (13) Table 120-1280 – TPR codes. 
+
+ (14) Table – OHP Client Agreement to Pay form for Health Services, OHP 3165, 3166 or 4109. 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.025, 414.065 & 414.066 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 131-2024, amend filed 10/30/2024, effective 11/10/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 93-2024, amend filed 05/24/2024, effective 05/24/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 41-2024, amend filed 02/06/2024, effective 02/06/2024 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 81-2023, amend filed 10/18/2023, effective 10/18/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 55-2023, temporary amend filed 06/30/2023, effective 07/01/2023 through 12/27/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 65-2022, amend filed 06/30/2022, effective 07/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 28-2022, minor correction filed 02/16/2022, effective 02/16/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 21-2021, amend filed 06/03/2021, effective 06/03/2021 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 27-2020, amend filed 06/16/2020, effective 06/17/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 2-2020, temporary amend filed 01/14/2020, effective 01/15/2020 through 07/11/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 62-2017, amend filed 12/28/2017, effective 01/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 53-2016, f. 8-26-16, cert. ef. 9-1-16 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ DMAP 51-2015, f. 9-22-15, cert. ef. 10-1-15 
+DMAP 40-2015, f. & cert. ef. 7-1-15 
+DMAP 61-2013, f. 10-31-13, cert. ef. 11-1-13 
+DMAP 49-2012, f. 10-31-12, cert. ef. 11-1-12 
+DMAP 39-2010, f. 12-28-10, cert. ef. 1-1-11 
+DMAP 34-2008, f. 11-26-08, cert. ef. 12-1-08 
+OMAP 45-2006, f. 12-15-06, cert. ef. 1-1-07 
+OMAP 15-2006, f. 6-12-06, cert. ef. 7-1-06 
+OMAP 67-2005, f. 12-21-05, cert. ef. 1-1-06 
+OMAP 39-2005, f. 9-2-05, cert. ef. 10-1-05 
+OMAP 10-2005, f. 3-9-05, cert. ef. 4-1-05 
+OMAP 10-2004, f. 3-11-04, cert. ef. 4-1-04 
+OMAP 62-2003, f. 9-8-03, cert. ef.10-1-03 
+OMAP 3-2003, f. 1-31-03, cert. ef. 2-1-03 
+OMAP 73-2002, f. 12-24-02, cert. ef. 1-1-03 
+OMAP 42-2002, f. & cert. ef. 10-1-02 
+OMAP 23-2002, f. 6-14-02 cert. ef. 8-1-02 
+OMAP 30-2001, f. 9-24-01, cert. ef. 10-1-01 
+OMAP 35-2000, f. 9-29-00, cert. ef. 10-1-00 
+OMAP 31-1999, f. & cert. ef. 10-1-99 
+OMAP 10-1999, f. & cert. ef. 4-10-99 
+OMAP 20-1998, f. & cert. ef. 7-1-98 
+HR 21-1997, f. & cert. ef. 10-1-97 
+HR 5-1997, f. 1-31-97, cert. ef. 2-1-97 
+HR 31-1994, f. & cert. ef. 11-1-94 
+HR 32-1993, f. & cert. ef. 11-1-93, Renumbered from 410-120-0040, 410-120-0260, 410-120-0280, 410-120-0300 & 410-120-0320 
+HR 41-1991, f. & cert. ef. 10-1-91 
+HR 19-1990, f. & cert. ef. 7-9-90 
+HR 2-1990, f. 2-12-90, cert. ef. 3-1-90, Renumbered from 461-013-0140, 461-013-0150, 461-013-0175 & 461-013-0180 
+AFS 38-1988, f. 5-17-88, cert. ef. 6-1-88 
+AFS 14-1987, f. 5-31-87, cert. ef. 4-1-87 
+AFS 57-1986, f. 7-25-86, cert. ef. 8-1-86 
+AFS 43-1986, f. 6-13-86, cert. ef. 7-1-86 
+AFS 33-1986, f. 4-11-86, cert. ef. 6-1-86 
+AFS 24-1985, f. 4-24-85, cert. ef. 6-1-85 
+AFS 36-1984, f. & cert. ef. 8-20-84 
+AFS 6-1984(Temp), f. 2-28-84, cert. ef. 3-1-84 
+AFS 45-1983, f. 9-19-83, cert. ef. 10-1-83 
+AFS 42-1983, f. 9-2-83, cert. ef. 10-1-83 
+AFS 117-1982, f. 12-30-82, cert. ef. 1-1-83 
+AFS 52-1982, f. 5-28-82, cert. ef. 6-30-82 
+AFS 47-1982, f. 4-30-82, cert. ef. 5-1-82 
+AFS 5-1981, f. 1-23-81, cert. ef. 3-1-81, Renumbered from 461-013-0050, 461-013-0060, 461-013-0090 & 461-013-0020 
+PWC 812, f. & cert. ef. 10-1-76 
+PWC 803(Temp), f. & cert. ef. 7-1-76 
+PWC 683, f. 7-19-74, cert. ef. 8-11-74 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

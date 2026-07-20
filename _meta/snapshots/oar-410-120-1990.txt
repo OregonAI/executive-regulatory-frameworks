@@ -1,0 +1,357 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 120 MEDICAL ASSISTANCE PROGRAMS 
+ 410-120-1990 
+ Telehealth 
+ 
+ (1) The following definitions apply to the Oregon Health Authority (Authority) administrative rules applicable to the medical assistance programs: 
+
+ ( a ) “Asynchronous” means not simultaneous or concurrent in time. For the purpose of this general rule, asynchronous telecommunication technologies for telehealth services may include audio and video, audio without video, client or member portal and may include remote monitoring. “Asynchronous” does not include voice messages, facsimile, electronic mail or text messages ; 
+
+ ( b ) “Audio only” means the use of audio technology, permitting real-time communication between a health care provider and a member for the purpose of diagnosis, consultation or treatment. “Audio only” does not include health services that are normally delivered by audio telephone technology and normally not billed as separate services by a health care provider, such as the sharing of laboratory results ; 
+
+ (c) “Meaningful access” as defined in Oregon Administrative Rule (OAR) 410-120-0000; 
+
+ (d) “Synchronous” means an interaction between a provider and a client or member that occurs at the same time using an interactive technology. This may include audio only, video only, or audio with video and may include remote monitoring. Synchronous encounters are considered to meet face-to-face requirements; 
+
+ ( e ) “Telecommunication technologies” means the use of devices and services for telehealth delivered services. These technologies include videoconferencing, store-and-forward imaging, streaming media including services with information transmitted using landlines, and wireless communications, including the Internet and telephone networks ; 
+
+ ( f ) “Telehealth” includes telemedicine and also includes the use of electronic information and telecommunications technologies to support remote clinical healthcare, client or member and professional health-related education, public health, and health administration ; 
+
+ ( g ) “Telemedicine” means the mode of delivering remote clinical health services using information and telecommunication technologies to provide consultation and education or to facilitate diagnosis, treatment, care management or self-management of a client or member’s healthcare ; 
+
+ (h) “Trauma informed approach” as defined in OAR 410-120-0000; 
+
+ (i ) “Trauma informed services” as defined in OAR 410-120-0000 . 
+
+ ( 2 ) Communications may be between providers, or between one or more providers and one or more clients or members, family members, caregivers and guardians. 
+
+ ( 3 ) School-Based Health Services required by the Individuals with Disabilities Education Act (IDEA), Section 504 Plan, under the Rehabilitation Act of 1973, or any other documented individualized health or behavioral health plan or as otherwise determined medically necessary provided in school programs and settings provided to eligible children in their education program settings by public education enrolled providers billing for these services to Medicaid are exempt from this rule. See chapter 410, division 133 for School-Based Health Services OARs . 
+
+ (4) CCOs and FFS providers must ensure Oregon Health Plan (OHP) clients or members are offered a choice of how services are received, including services offered using telehealth modalities and in-person services, except where the Authority issues explicit guidance during a declared state of emergency or if a facility has implemented its facility disaster plan. 
+
+ ( 5 ) Providers unable to offer in-person services : 
+
+ (a) FFS providers unable to offer in-person services must develop, maintain and carry out policies and procedures to offer local provider options to a client or member when an in-person visit is clinically indicated or when the client or member requests in-person services. This may include but is not limited to care coordination or completing referral paperwork ; 
+
+ ( b) CCOs must ensure that providers unable to offer in-person services have access to the CCO Provider Directory.   CCOs must include in applicable provider contract language that providers unable to offer in-person services shall, as needed, inform the CCO upon referring a member to another provider so the CCO can provide any care coordination services necessary to support the member in accessing care . 
+
+ (6 ) Client or member choice and accommodation for telehealth must encompass the following standards and services: 
+
+ (a) Providers who offer telehealth delivered services must offer meaningful access to services by completing a capacity assessment of the client or member in the use of specific approved methods of telehealth delivery that comply with accessibility standards including alternate formats, and provides the optimal quality of care for the client or member given considerations of client or member access to necessary devices, access to a private and safe location, adequate internet, digital literacy, cultural appropriateness of services delivered using telehealth, and other considerations of client or member readiness to use telehealth; 
+
+ (b) Providers must offer meaningful access to health care services for clients or members and their families who experience Limited English Proficiency (LEP) or hearing impairment by working with qualified or certified health care interpreters, to provide language access services as described in OAR 333-002-0040. These services must not be significantly restricted, delayed, or inferior as compared to programs or activities provided to English proficient individuals; 
+
+ (c) Providers must collaborate with clients or members to identify and offer modalities for delivering health care services which best meets the needs of the member and considers the client or member’s choice and readiness for the modality of service selected; 
+
+ (d) Providers must offer telehealth services which are consistent with “meaningful access” as defined in OAR 410-120-0000. 
+
+ (7 ) Privacy and security standards for telehealth services must be met by satisfying the following: 
+
+ (a) Prior to the delivery of services using a telehealth modality, a client or member’s written, oral, or recorded consent to receive services using a telehealth delivery method in the language that the client or member understands must be obtained and documented by the health system, clinic or provider in the client or member’s health record. Consent must include an assessment of client or member readiness to access and participate in telehealth delivered services, including conveying all other options for receiving the health care service to the client or member. Consent must be updated at least annually thereafter. For clients or members and their families who experience LEP or hearing impairment clients, providers must use qualified or certified health care interpreters when obtaining client or member consent; 
+
+ (b) Consistent with Oregon Revised Statute ( ORS) 109.640 , provision of birth control information and services using a  telehealth modality must be provided to any person regardless of age without consent of parent or legal guardian; 
+
+ (c) Consistent with ORS 109.640, provision of any other medical or dental diagnosis and treatment using a telehealth modality must be provided to any person 15 years of age or older without consent of parent or legal guardian; 
+
+ (d) Consistent with ORS 109.675, provision of outpatient diagnosis or treatment of a mental or emotional disorder or a chemical dependency using a telehealth modality must be provided to any person 14 years of age or older without consent of parent or legal guardian; 
+
+ (e) Consistent with ORS 109.610, provision of diagnosis or treatment of certain sexually transmitted infections using a telehealth modality must be provided to a person regardless of age without consent of parent or legal guardian; 
+
+ (f) Services provided using a telehealth platform must comply with Health Insurance Portability and Accountability Act (HIPAA), https://aspe.hhs.gov/report/health-insurance-portability-and-accountability-act-1996 , and with the Authority’s Privacy and Confidentiality Rules (chapter 943, division 14) except as noted in section (10) below; 
+
+ (g) There is no limitation on the location of the client or member; 
+
+ (h) OHP enrolled providers may be located in any location where client or member privacy and confidentiality can be ensured; 
+
+ (i) Persons providing interpretive services and supports must be in a location where client or member privacy and confidentiality can be ensured . 
+
+ ( 8 ) Providers who offer telehealth delivery of services must meet the following requirements: 
+
+ (a) Must hold an unencumbered Oregon license; 
+
+ (b) Must be enrolled with the Authority as an Oregon Health Plan (OHP) provider, per OAR 410-120-1260; 
+
+ (c) Must provide services using telehealth that are within their respective certification or licensing board’s scope of practice and comply with telehealth requirements including, but not limited to: 
+
+ (A) Documenting client or member and provider agreement of consent to receive services. 
+
+ (B) Allowed physical locations of provider and client or member. 
+
+ (C) Establishing or maintaining an appropriate provider-client or member relationship. 
+
+ (d ) Comply with HIPAA and the Authority’s Privacy and Confidentiality Rules and security protections for the member in connection with the telehealth communication and related records requirements (OAR chapter 943 division 14 and 120, OAR 410-120-1360 and 1380, 42 CFR Part 2, if applicable, and ORS 646A.600 to 646A.628 (Oregon Consumer Identity Theft Protection Act) except as noted in section ( 10 ) of this rule ; 
+
+ ( e ) Obtain and maintain technology used in telehealth communication that is compliant with privacy and security standards in HIPAA and the Authority’s Privacy and Confidentiality Rules described in subsection (A) except as noted in section ( 10 ) of this rule ; 
+
+ ( f ) Develop and maintain policies and procedures to prevent a breach in privacy or exposure of client or member health information or records (whether oral or recorded in any form or medium) to unauthorized persons and timely breach reporting as described in OAR 943-014-0440 ; 
+
+ (g) Maintain clinical and financial documentation related to telehealth services as required in OAR 410-120-1360 and any program specific rules in OAR chapter 309 and chapter 410; 
+
+ ( h ) Comply with all federal and state statutes as required in OAR 410-120-1380. 
+
+ (9) CCOs and the Authority will reimburse telehealth delivered services only when all the following requirements are met: 
+
+ (a) Services provided must be covered services according to the client or member's benefit package as described in OAR 410-120-1210 and be provided in a manner compliant with relevant guideline notes included in the Health Evidence Review Commission’s Prioritized List of Health Services as described in OAR 410-141-3830 ; 
+
+ (b) CCOs and the Authority must provide reimbursement for telehealth services at the same reimbursement rate as if the professional services were provided in person. 
+
+ (A) As a condition of reimbursement, FFS providers must agree to reimburse Certified and Qualified Health Care Interpreters (HCIs) as defined in OAR 333-002-0010 for interpretation services provided using telehealth at the same rate, excluding travel expenses, as if interpretation services were provided in-person. 
+
+ (B) CCOs must also reimburse Certified and Qualified HCIs for interpretation services provided using telehealth at the same reimbursement rate, excluding travel expenses, as if it were provided in person. These requirements do not supersede the CCOs direct agreement(s) with providers, including but not limited to, alternative payment methodologies, quality and performance measures or Value Based Payment methods described in the CCO contract. Administrative rules and CCO Direct Agreements do not supersede any federal or state requirements with regard to the provision and coverage of health care interpreter services. 
+
+ (c) When allowed by individual certification or licensing board’s scope of practice standards, qualifying  telehealth delivered services are covered: 
+
+ (A) When provided to established clients or members; 
+
+ (B) When provided to new clients or members; and 
+
+ (C) When consistent with applicable program specific OARs within chapter 410. 
+
+ (d) All physical, behavioral and dental telehealth services except School Based Health Services (SBHS) must include Place of Service code 02 when the client or member is located in a place other than their home. When the client or member is located in their home, the claim must include Place of Service code 10; 
+
+ (e) All claim types except dental services must include modifier 95 when the telehealth delivered service utilizes a real-time interactive audio and video telecommunication system. When provision of the same service utilizes a real-time interactive audio only, the claim must include modifier 93. 
+
+ ( 10 ) In the event of a declared emergency or changes in federal requirements, the Authority may adopt flexibilities to remove administrative barriers and support telehealth delivered services: 
+
+ (a) The Authority must follow guidance from the US Department of Health and Human Services (HHS) Office for Civil Rights (OCR), which may allow enforcement discretion related to privacy or security requirements. 
+
+ (b) The Authority may expand network capacity through remote care and telehealth services provided across state lines. 
+
+ (c) The Authority may exercise flexibilities in network adequacy requirements as described in OAR 410-141-3515. 
+  
+
+   
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.032 & 413.042 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.025, 414.065 & 414.723 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 39-2025, amend filed 04/25/2025, effective 04/25/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 97-2024, minor correction filed 06/11/2024, effective 06/11/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 75-2023, amend filed 09/13/2023, effective 09/13/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 47-2023, minor correction filed 06/05/2023, effective 06/05/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 1-2022, amend filed 01/05/2022, effective 01/05/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 64-2020, adopt filed 12/18/2020, effective 01/01/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

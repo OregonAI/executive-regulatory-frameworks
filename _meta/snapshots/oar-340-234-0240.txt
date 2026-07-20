@@ -1,0 +1,293 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 234 EMISSION STANDARDS FOR WOOD PRODUCTS INDUSTRIES 
+ 340-234-0240 
+ Kraft Pulp Mills: Monitoring
+ 
+ 
+ (1) Total Reduced Sulfur (TRS). Each mill must continuously monitor TRS using the following: 
+
+ (a) The monitoring equipment must determine compliance with the emission limits and reporting requirements established by OAR 340-234-0200 through 340-234-0270, and must continuously sample and record concentrations of TRS; 
+
+ (b) The sources monitored must include, but are not limited to individual recovery furnaces, and lime kilns. All sources must be monitored down-stream of their respective control devices, in either the ductwork or the stack, using the DEQ Continuous Monitoring Manual; 
+
+ (c) Unless otherwise authorized or required by permit, at least once per year, vents from other sources as required in OAR 340-234-0210(1)(e), other sources, must be sampled to demonstrate the representativeness of the emission of TRS using EPA Method 16, 16A, 16B or continuous emission monitors. Sampling using these EPA methods must consist of three separate consecutive runs of one-hour each using the DEQ Source Sampling Manual. Continuous emissions monitors must be operated for three consecutive hours using the DEQ Continuous Monitoring Manual. All results must be reported to DEQ; 
+
+ (d) Smelt dissolving tank vents must be sampled for TRS quarterly except that testing may be semi-annual when the preceding six source tests were less than 0.0124 gram/Kg BLS (0.025 pound/ton BLS) using EPA Method 16, 16A, 16B or continuous emission monitors. Sampling using these EPA methods must consist of three separate consecutive runs of one-hour each using the DEQ Source Sampling Manual. 
+
+ (2) Particulate Matter: 
+
+ (a) Each mill must sample the recovery furnace, lime kiln and smelt dissolving tank vent for particulate emissions as measured by EPA Method 5 or 17 using the DEQ Source Sampling Manual. Particulate matter emission determinations by EPA Method 5 must use water as the cleanup solvent instead of acetone, and consist of the average of three separate consecutive runs having a minimum sampling time of 60 minutes each, a maximum sampling time of eight hours each, and a minimum sampling volume of 31.8 dscf each. 
+
+ (A) When applied to recovery furnace gases "dry standard cubic meter" requires adjustment of the gas volume to that which would result in a concentration of 8% oxygen if the oxygen concentration exceeds 8%. 
+
+ (B) When applied to lime kiln gases "dry standard cubic meter" requires adjustment of the gas volume to that which would result in a concentration of 10% oxygen if the oxygen concentration exceeds 10%. 
+
+ (C) The mill must demonstrate that oxygen concentrations are below the values in (A) and (B) above or furnish oxygen levels and corrected data. 
+
+ (b) Each mill must provide continuous monitoring of opacity of emissions discharged to the atmosphere from each recovery furnace stack using the DEQ Continuous Monitoring Manual. 
+
+ (c) Recovery furnace particulate source tests must be performed quarterly except that testing may be semi-annual when the preceding six source tests were less than 0.225 gram/dscm (0.097 grain/dscf) for furnaces subject to OAR 340-234-0210(2)(a) or 0.075 gram/dscm (0.033 grain/dscf) for furnaces subject to OAR 340-234-0210(2)(d)(A); 
+
+ (d) Lime kiln source tests must be performed semi-annually; 
+
+ (e) Smelt dissolving tank vent source tests must be performed quarterly except that testing may be semi-annual when the preceding six source tests were less than 0.187 kilogram per metric ton (0.375 pound per ton) of production. 
+
+ (3) Sulfur Dioxide (SO2). Representative sulfur dioxide emissions from each recovery furnace must be determined at least once each month by the average of three one-hour source tests using the DEQ Source Sampling Manual or from continuous emission monitors. If continuous emission monitors are used, the monitors must be operated for three consecutive hours using the DEQ Continuous Monitoring Manual. 
+
+ (4) Combined Monitoring. DEQ may allow the monitoring for opacity of a combination of more than one emission stream if each individual emission stream has been demonstrated with the exception of opacity to be in compliance with all the emission limits of OAR 340-234-0210. DEQ may establish more stringent emission limits for the combined emission stream. 
+
+ (5) New Source Performance Standards Monitoring. New or modified sources that are subject to the New Source Performance Standards, 40 CFR part 60 subpart BB, must conduct monitoring or source testing as required by subpart BB. In addition, when these rules are more stringent than 40 CFR part 60 subpart BB, DEQ may require some or all of the relevant monitoring in this section. 
+
+ [NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040 with the exception of references to Total Reduced Sulfur.] 
+
+ [NOTE: The DEQ Source Sampling Manual and Continuous Monitoring Manual are published with OAR 340-200-0035.] 
+
+ [NOTE: View a PDF of referenced EPA Methods by clicking on “Tables” link below.] 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020 & 468A.025 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468A.025 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 13-2019, amend filed 05/16/2019, effective 05/16/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 7-2015, f. & cert. ef. 4-16-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 8-2007, f. & cert. ef. 11-8-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-025-0180 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 4-1993, f. & cert. ef. 3-10-93 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 2-1990, f. & cert. ef. 1-24-90 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 137, f. & ef. 6-10-77 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 50, f. 2-9-73, ef. 3-1-73 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

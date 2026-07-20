@@ -1,0 +1,455 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Policy and Analytics - Chapter 409 
+ 
+ 
+ 
+ 
+ Division 25 ALL PAYER ALL CLAIMS DATA REPORTING PROGRAM 
+ 409-025-0100 
+ Definitions
+ 
+ 
+ The following definitions apply to OAR 409-025-0100 to 409-025-0190 
+(1) “Accident policy” means an insurance policy that provides benefits only for a loss due to accidental bodily injury. 
+(2) “Allowed amount” means the actual amount of charges for healthcare services, equipment, or supplies that are covered expenses under the terms of an insurance policy or health benefits plan. 
+(3) “APAC” means all payer all claims. 
+(4) “Association” means any organization, including a labor union, that has an active existence for at least one year, that has a constitution and bylaws and that has been organized and is maintained in good faith primarily for purposes other than that of obtaining insurance. 
+(5) “Attending provider” means the individual health care provider who delivered the health care services, equipment, or supplies specified on a health care claim. 
+(6) “Authority” means the Oregon Health Authority. 
+(7) “Billing provider” means the individual or entity that submits claims for health care services, equipment, or supplies delivered by an attending provider. 
+(8) “Capitated services” means services rendered by a provider through a contract in which payments are based upon a fixed monthly dollar amount for each enrollee. 
+(9) “Carrier” shall have the meaning given that term in ORS 743B.005. 
+(10) “Certificate of authority” shall have the meaning given that term in ORS 731.072. 
+(11) “Charges” means the actual dollar amount charged on the claim. 
+(12) “Claim” means an encounter or request for payment under the terms of an insurance policy, health benefits plan, Medicare, or Medicaid. 
+(13) "Coinsurance" means the percentage an enrollee pays toward the cost of a covered service. 
+(14) “Control totals file” means a data set containing summary information on medical, pharmacy and dental claims, members, providers, and premiums used to validate the detailed files submitted. 
+(15) “Coordinated Care Organization (CCO)” shall have the meaning given that term in ORS 414.025. 
+(16) "Copayment" means the fixed dollar amount an enrollee pays to a health care provider at the time a covered service is provided or the full cost of a service when that is less than the fixed dollar amount. 
+(17) “Data file” means electronic health information including medical claims files, enrollment files, medical provider files, pharmacy claims files, dental claims files, control totals files, subscriber-billed premiums files, payment arrangement files and any other related information specified in these rules. 
+(18) “Data set” means a collection of individual data records, whether in electronic or manual files. 
+(19) “Data vendor” means the entity under contract with the Authority to administer in whole or in part the all payer all claims database and related functions. 
+(20) “DCBS” means the Oregon Department of Consumer and Business Services. 
+(21) “Deductible” means the total dollar amount an enrollee pays toward the cost of covered services over an established period before the carrier or third-party administrator makes any payments under an insurance policy or health benefit plan. 
+(22) “De-identified health information” means health information that does not identify an individual and with respect to which there is no reasonable basis to believe that the information can be used to identify an individual. 
+(23) “Dental carrier” means an insurer or other entity that offers a policy, certificate of insurance or other contract that provides dental benefits, either standalone or in conjunction with other health insurance. 
+(24) “Dental claims file” means a data set comprised of dental health care service level remittance information for all adjudicated claims for each billed service including but not limited to provider information, charge and payment information, and clinical diagnosis and procedure codes for an Oregon resident as defined in ORS 803.355 or a non-resident who is a member of a PEBB or OEBB group health insurance plan. 
+(25) “Direct personal identifier” means information relating to an individual patient or enrollee that contains primary or obvious identifiers, including: 
+(a) Names; 
+(b) Business names when that name would serve to identify a person; 
+(c) Postal address information other than town or city, state, and 5-digit zip code; 
+(d) Specific latitude and longitude or other geographic information that would be used to derive postal address; 
+(e) Telephone and fax numbers; 
+(f) Electronic mail addresses; 
+(g) Social security numbers; 
+(h) Vehicle identifiers and serial numbers, including license plate numbers; 
+(i) Medical record numbers; 
+(j) Health plan beneficiary numbers; 
+(k) Certificate and license numbers; 
+(l) Internet protocol (IP) addresses and uniform resource locators (URL) that identify a business that would serve to identify a person; 
+(m) Biometric identifiers, including finger and voice prints; and 
+(n) Personal photographic images. 
+(26) “Disability policy” means an insurance policy that provides benefits for losses due to a covered illness or disability. 
+(27) “Disclosure” means the release, transfer, provision of access to, or divulging in any other manner of information outside the entity holding the information. 
+(28) “DRC” means Data Review Committee. 
+(29) “Dual eligible special needs plan” means a special needs plan that enrolls beneficiaries entitled to both Medicare and Medicaid. 
+(30) “Enrollment file” means a data set containing demographic information for each individual enrollee eligible for medical benefits for one or more days of coverage at any time during a calendar month for an Oregon resident as defined in ORS 803.355 or a non-Oregon resident who is a member of a PEBB or OEBB group health insurance plan. 
+(31) “Eligible employee” shall have the meaning given that term in ORS 743B.005. 
+(32) “Employee” shall have the meaning given that term in ORS 654.005. 
+(33) “Employer” shall have the meaning given that term in ORS 654.005. 
+(34) “Encrypted identifier” means a code or other means of identification to allow individual patients or enrollees to be tracked across data sets without revealing their identity. 
+(35) "Encryption" means a method by which the true value of data has been disguised to prevent the identification of individual patients or enrollees and does not provide the means for recovering the true value of the data. 
+(36) “Enrollee” means enrollee as defined in ORS 743B.005. 
+(37) “ERISA” means the Employee Retirement Income Security Act of 1974 (ERISA), 29 U.S.C. § 1001. 
+(38) “Exemption” means a requested variance from a validation rule on data format or quality threshold. 
+(39) “Extension” means a requested variance from the Data Submission schedule incorporated by reference under OAR 409-025-0120 and 409-025-0125.  
+(40) “Facility” means a health care facility as defined in ORS 442.015. 
+(41) “Genetic test” shall have the meaning given that term in ORS 192.531. 
+(42) “Group health insurance” shall have the meaning given that term in ORS 731.098. 
+(43) “Health benefit plan” shall have the meaning given that term in ORS 743B.005. 
+(44) “Health care” shall have the meaning given that term in ORS 192.556. 
+(45) “Health care operations” means certain administrative, financial, legal, and quality improvement activities that are necessary to run programs including, but not limited to, conducting quality assessment and improvement activities, population-based activities relating to improving health or reducing health care costs, case management and care coordination, evaluating practitioner, provider, or health plan performance, and underwriting, enrollment, premium rating and other activities related to creation, renewal, or replacement of a health insurance contract. 
+(46) “Health care provider” shall have the meaning given that term in ORS 192.556. 
+(47) “Health information” shall have the meaning given that term in ORS 192.556. 
+(48) “Health insurance exchange” shall have the meaning given that term in ORS 741.300. 
+(49) “Healthcare Common Procedure Coding System (HCPCS)” means a medical code set, maintained by the United States Department of Health and Human Services, that identifies health care procedures, equipment, and supplies for claim submission purposes. 
+(50) “HIPAA” means Title II, Subtitle F of the Health Insurance Portability and Accountability Act of 1996, 42 USC 1320d, et seq. and the federal regulations adopted to implement the Act. 
+(51) “Hospital indemnity policy” means an insurance policy that provides benefits only for covered hospital stays. 
+(52) “Indirect personal identifier” means information relating to an individual patient or enrollees that a person with appropriate knowledge of and experience with generally accepted statistical and scientific principles and methods could apply to render such information individually identifiable by using such information alone or in combination with other reasonably available information. 
+(53) “Individual”, when used in a list of required lines of business, means individual health benefit plans. 
+(54) “Individually identifiable health information” shall have the meaning given that term in ORS 192.556. 
+(55) “Insurance” shall have the meaning given that term in ORS 731.102. 
+(56) “Labor union” means any organization which is constituted for the purpose, in whole or in part, of collective bargaining or dealing with employers concerning grievances, terms or conditions of employment or of other mutual aid or protection in connection with employees. 
+(57) “Large group” means health benefit plans for employers with more than 50 employees. 
+(58) “Long-term care insurance” shall have the meaning given that term in ORS 743.652. 
+(59) “Mandatory reporter” means any organization defined as a mandatory reporter in OAR 409-025-0110. 
+(60) “Medicaid” means medical assistance provided under 42 U.S.C. section 1396a (section 1902 of the Social Security Act) or Children’s Health Insurance Program (CHIP) medical assistance provided under 42 U.S.C section 1397aa-mm (section 2103 of the Social Security Act), as administered by the Division of Medical Assistance Programs. 
+(61) “Medicaid fee-for-service” (Medicaid FFS) means that portion of Medicaid where a health care provider is paid a fee for each covered health care service delivered to an eligible Medicaid patient. 
+(62) “Medical claims file” means a data set composed of health care service level remittance information for all adjudicated claims for each billed service including but not limited to provider information, charge and payment information, and clinical diagnosis and procedure codes for an Oregon resident as defined in ORS 803.355 or a non-Oregon resident who is a member of a PEBB or OEBB group health insurance plan. 
+(63) “Medicare” means coverage under Part A, Part B, Part C, or Part D of Title XVIII of the Social Security Act, 42 U.S.C. 135 et seq., as amended. 
+(64) “Non-claims based primary care expenditures” means resources given to a primary care provider or practice for services and are not otherwise in a fee-for-service arrangement. 
+(65) “OEBB” means the Oregon Educators Benefit Board. 
+(66) “Paid amount” means the actual dollar amount paid for claims. 
+(67) “Patient” means any person in the data set who is the subject of the activities of the claim performed by the health care provider. 
+(68) “Patient-Centered Primary Care Home” or “PCPCH” means a health care team or clinic as defined in ORS 414.655 that meets the standards pursuant to OAR 409-055-0040, and has been recognized through the process pursuant to OAR 409-055-0040. 
+(69) “Payment arrangement file” means a data set composed of total and primary care-related dollars disbursed, by payment arrangement and line of business. 
+(70) “PEBB” means the Oregon Public Employees’ Benefit Board. 
+(71) “Person” shall have the meaning given that term in ORS 731.116. 
+(72) “Pharmacy benefit manager (PBM)” means a person or entity that performs pharmacy benefit management, including a person or entity in a contractual or employment relationship with a person or entity performing pharmacy benefit management for a health benefits plan. 
+(73) “Pharmacy claims file” means a data set containing service level remittance information from all adjudicated claims including, but not limited to provider information, charge and payment information, and national drug codes for an Oregon resident as defined in ORS 803.355 or a non-Oregon resident who is a member of a PEBB or OEBB group health insurance plan. 
+(74) “Policy” shall have the meaning given that term in ORS 731.122. 
+(75) "Prepaid amount" means the fee for the service equivalent that would have been paid for a specific service if the service had not been capitated. 
+(76) “Premium” shall have the meaning given that term in ORS 743B.005. 
+(77) “Primary care” means family medicine, general internal medicine, naturopathic medicine, obstetrics and gynecology, pediatrics or general psychiatry. 
+(78) “Primary care provider” means: 
+(a) A physician, naturopath, nurse practitioner, physician associate or other health professional licensed or certified in this state, whose clinical practice is in the area of primary care. 
+(b) A health care team or clinic certified by the Authority as a PCPCH. 
+(79) “Principal investigator (PI)” means the person in charge of a research project that makes use of limited data sets. The PI is the custodian of the data and shall comply with all state and federal restrictions, limitations, and conditions of use associated with the data release. 
+(80) “Protected health information” shall have the meaning given that term in ORS 192.556. 
+(81) “Provider file” means a data set containing information about health care providers providing health. 
+(82) “Public health authority” means the Public Health Division of the Authority or local public health authority as defined in ORS 431A.005. 
+(83) “Public health purposes” means the activities of a public health authority for preventing or controlling disease, injury, or disability including, but not limited to, the reporting of disease, injury, vital events such as birth or death, and the conduct of public health surveillance, investigations, and interventions. 
+(84) “Registered entity” means any person required to register with DCBS under ORS 744.714. 
+(85) “Research” means a systematic investigation, including research development, testing and evaluation, designed to develop or contribute to generalized knowledge. 
+(86) “Self-insured plan” means any plan, program, contract, or any other arrangement under which one or more employers, unions, or other organizations provide health care services or benefits to their employees or members in this state, either directly or indirectly through a trust or third-party administrator. 
+(87) “Small employer health insurance” means health benefit plans for employers whose workforce consists of at least two but not more than 50 eligible employees. 
+(88) “Special Needs Plan” means a Medicare health benefit plan created by the Medicare Modernization Act that is specifically designed to provide targeted care to individuals with special needs. 
+(89) “Specific disease policy” means an insurance policy that provides benefits only for a loss due to a covered disease. 
+(90) “Strongly-encrypted” means an encryption method that uses a cryptographic key with many random keyboard characters. 
+(91) “Subscriber” means the individual responsible for payment of premiums or whose employment is the basis for eligibility for membership in a health benefit plan. 
+(92) “Subscriber-billed Premium File” means the data set that includes premium information at the subscriber level for medical, pharmacy and dental insurance. 
+(93) “Summarized data” means data aggregated by one or more categories. Summarized data created from protected health information may not contain direct or indirect identifiers. 
+(94) “Third-party administrator (TPA)” means any person who directly or indirectly solicits or effects coverage of, underwrites, collects charges or premiums from, or adjusts or settles claims on, residents of Oregon or residents of another state from offices in Oregon, in connection with life insurance or health insurance coverage; or any person or entity who must otherwise be licensed under ORS 744.702. 
+(95) “Transact insurance” shall have the meaning given that term in ORS 731.146. 
+(96) “Trust” means a fund established by two or more employers in the same or related industry or by one or more labor unions or by one or more employers and one or more labor unions or by an association. 
+(97) “Vision policy” means a health benefits plan covering only vision health care. 
+(98) “Voluntary reporter” means any registered organization, other than a mandatory reporter, that voluntarily elects to comply with the reporting requirements in OAR 409-025-0100 to 409-025-0170. 
+(99) “Waiver” means an approved variance from the types of files submitted under OAR 409-025-0120 and 409-025-0125. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 443.373 
+ 
+ 
+ Statutes/Other Implemented:  ORS 442.372 & 443.373 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 2-2025, amend filed 10/24/2025, effective 10/24/2025 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 3-2024, minor correction filed 06/06/2024, effective 06/06/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 8-2022, amend filed 12/01/2022, effective 12/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 3-2021, amend filed 09/02/2021, effective 09/02/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 1-2019, amend filed 05/30/2019, effective 07/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 9-2018, amend filed 07/02/2018, effective 01/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 7-2018, amend filed 06/29/2018, effective 01/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 2-2017, f. 6-23-17, cert. ef. 1-1-18 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 10-2016, f. 6-22-16, cert. ef. 1-1-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 1-2016, f. & cert. ef. 1-5-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 6-2012, f. 6-26-12, cert. ef. 7-9-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 5-2012(Temp), f. 6-23-12, cert. ef. 6-1-12 thru 11-15-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 4-2012, f. 5-23-12, cert. ef. 6-1-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 1-2010, f. 2-26-10, cert. ef. 3-1-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

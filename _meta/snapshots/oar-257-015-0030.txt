@@ -1,0 +1,237 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of State Police 
+ Chapter 257 
+ 
+ 
+ 
+ 
+ 
+ Division 15 LAW ENFORCEMENT DATA SYSTEM (LEDS) 
+ 257-015-0030 
+ Definitions
+ 
+ 
+ (1) “LEDS” means the Department of State Police, Law Enforcement Data System. 
+
+ (2) “NCIC/III” means the Federal Bureau of Investigation, National Crime Information Center/ Information Identification Index. 
+
+ (3) “NLETS” means the International Justice & Public Safety Network, Incorporated. Previously known as the National Law Enforcement Telecommunications System. 
+
+ (4) “Associated Systems” means any automated or manual information system which is accessible via LEDS. 
+
+ (5) “Authorized User/Personnel” means an individual, or group of individuals, who have been appropriately vetted through a national fingerprint-based record check and have been granted access to criminal justice information. 
+
+ (6) “Criminal Justice Information” (CJI) means all of the FBI CJIS provided data necessary for law enforcement agencies to perform their mission and enforce the laws, including but not limited to: biometric, identity history, person, organization, property (when accompanied by any personally identifiable information), and case/incident history data. Additionally, CJI refers to the FBI CJIS provided data necessary for Non-criminal justice (government) agencies to perform their mission; including, but not limited to data used to make hiring decisions. 
+
+ (7) “Criminal Justice Agency” (CJA) means the following as defined by the National Crime Information Center: 
+
+ (a) Courts; 
+
+ (b) A government agency or any subunit thereof which performs the administration of criminal justice pursuant to a statute or executive order, and which allocates a substantial part of its annual budget to the administration of criminal justice; or 
+
+ (c) A criminal justice agency as defined by ORS 181A.010(1), or ORS 181A.265(3) who has a statutory requirement to access Oregon criminal history records but does not qualify for access to NCIC/III access as a criminal justice agency either by definition or budget. 
+
+ (8) “Criminal Justice Purpose” means: The administration of criminal justice, as defined in section (9) of this rule. 
+
+ (9) The “Administration of Criminal Justice” means the detection, apprehension, detention, pretrial release, post-trial release, prosecution, adjudication, correctional supervision, or rehabilitation of accused persons or criminal offenders. It also includes criminal identification activities; the collection, storage, and dissemination of criminal history record information; and criminal justice employment. In addition, administration of criminal justice includes “crime prevention programs” to the extent access to criminal history record information is limited to law enforcement agencies for law enforcement programs (e.g., record checks of individuals who participate in Neighborhood Watch or “safe house” programs) and the result of such checks will not be disseminated outside the law enforcement agency. 
+
+ (10) “Investigative Files” means computerized records stored in LEDS, NCIC or other state criminal justice information systems, as follows: outstanding arrest warrants and other wanted persons; missing persons; unidentified persons; restraining orders; lost or stolen identification; Psychiatric Security Review Board Orders; persons who have threatened a Secret Service protected person; Persons under the supervision of a Court or a Corrections agency; gang members; armed career criminals; Sex offender registrants; concealed handgun license records; stolen, repossessed, impounded vehicles; stolen vehicle license plates, vehicle parts, vehicle identification plates and title certificates; vehicles used in the commission of a felony; stolen and pawned firearms; stolen securities; stolen boats and associated equipment; other stolen and pawned property; other files of a similar nature which may be established to assist in law enforcement investigations or to enhance other criminal justice purposes. 
+
+ (11) ”CJIS Systems Agency (CSA)” means: The agency within each state who is responsible for the state’s computer link with the National Crime Information Center (NCIC/III) and the International Justice & Public Safety Network, formerly known as the National Law Enforcement Telecommunications System (NLETS) and who is responsible for ensuring that NCIC/III and NLETS system security and operational policies and procedures are carried out within the state. 
+
+ (12) “Management Control Agreement” means a written agreement between a criminal justice agency and a non-criminal justice agency as defined in the federal CJIS Security Policy. 
+
+ (13) Non-Criminal Justice Agency means: An agency designated by Executive order, statute, or regulation that provides services primarily for purposes other than the administration of criminal justice but may have a need to process CJI. Examples of services include, but are not limited to, employment suitability, licensing determinations, regulatory enforcement, child welfare investigations, or the administration of information technology equipment on behalf of a state law-enforcement agency. 
+
+ (14) ORI means an Agency Originating Identification Number used to access LEDS Oregon criminal justice information or information available in NCIC/III as determined allowed by the Oregon State Police CJIS Division. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 181A.280(3), ORS 181A.010 & ORS 181A.265 
+ 
+ 
+ Statutes/Other Implemented:  ORS 181A.280 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSP 3-2026, amend filed 06/24/2026, effective 06/24/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSP 15-2019, minor correction filed 01/03/2019, effective 01/03/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OSP 2-1998, f. & cert. ef. 10-6-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OSP 1-1995, f. & cert. ef. 8-15-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,236 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Building Codes Division - Chapter 918 
+ 
+ 
+ 
+ 
+ Division 282 ELECTRICAL AND ELEVATOR LICENSING 
+ 918-282-0400 
+ Solar Licensing
+ 
+ 
+ The purpose of this rule is to clarify the scope of work for solar installations. It does not affect the scope of licenses established in ORS 479.630. 
+
+ (1) For the purposes of this rule the following definitions apply: 
+
+ (a) “Building Integrated” means photovoltaic (PV) cells, devices, modules, or modular materials that are integrated into the outer surface or structure of a building and serve as the outer protective surface of that building or structure, such as the roof, skylights, windows or facades. 
+
+ (b) “Module” means a complete, environmentally protected unit consisting of solar cells, optics, and other components, exclusive of tracker, designed to generate dc power when exposed to sunlight. 
+
+ (c) “Racking” means the material, supports, attachment, frame, skeleton used to attach a solar system or module to a building, structure, or ground mounting. 
+
+ (d) “Rack mounted PV module” means a PV module that is attached to racking. 
+
+ (2) Persons placing or installing structural elements, including footings, roofs, carports, racking, and building integrated PV modules are not required to possess an electrical license. 
+
+ (3) The total generating capacity of a PV system, measured in KW AC, is determined by calculating the sum of the manufacturer’s rated capacity of the AC side of the inverters connected to the solar panels. 
+
+ (4) The following licensing requirements apply to PV system installations: 
+
+ (a) For PV systems not exceeding 50 KW AC a Limited Renewable Energy Technician, General Journeyman Electrician, General Supervising Electrician or a Limited Residential Electrician working within the scope of their license is required to perform the following: 
+
+ (A) Installation or attachment of PV modules to racking. 
+
+ (B) Making electrical connections between modules, including installation of all conductors that connect to and/or interconnect all PV modules regardless of the type of electrical connection including plug-type interconnections. 
+
+ (C) Making electrical connections to combiner boxes and inverter(s), including installation of all conductors between arrays and combiner boxes, up to the load side of the inverter. 
+
+ (D) All elements of system grounding utilizing wire-type conductors on the DC side of the inverter. 
+
+ (E) Making AC electrical wiring and connections to the termination of the final factory-provided interconnecting cable on the exterior of a structure that extends a maximum distance of 10 feet from the renewable energy system, and extends no more than three feet within an accessible space of a structure, and does not connect to the structure’s wiring system. 
+
+ (b) For PV systems exceeding 50 KW AC a General Journeyman Electrician, General Supervising Electrician or a Limited Residential Electrician working within the scope of their license is required to perform the following: 
+
+ (A) Installation or attachment of PV modules to racking. 
+
+ (B) Making electrical connections between modules, including installation of all conductors that connect to and/or interconnect all PV modules regardless of the type of electrical connection including plug-type interconnections. 
+
+ (C) Making electrical connections to combiner boxes and inverter(s), including installation of all conductors between arrays and combiner boxes, up to the load side of the inverter. 
+
+ (D) All elements of system grounding utilizing wire-type conductors. 
+
+ (E) Electrical connections to building electrical system including all AC connections on the line side of the inverter(s). 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 455.117, ORS 479.730 & ORS 479.630 
+ 
+ 
+ Statutes/Other Implemented:  ORS 479.730 & ORS 479.630 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BCD 9-2021, amend filed 09/29/2021, effective 10/01/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BCD 7-2021, temporary amend filed 05/27/2021, effective 05/27/2021 through 11/22/2021 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BCD 7-2010, f. 6-15-10, cert. ef. 7-1-10 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,294 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Public Employees Retirement System 
+ Chapter 459 
+ 
+ 
+ 
+ 
+ 
+ Division 9 PUBLIC EMPLOYER 
+ 459-009-0090 
+ Surplus Lump-Sum Payments by Employers
+ 
+ 
+ Purpose. The purpose of this rule is to establish procedures and requirements for the adjustment of employer contribution rates when an individual public employer that does not have an existing unfunded actuarial liability (UAL) makes a lump-sum payment. An employer with an existing unfunded actuarial liability must first submit a lump-sum payment for the full amount of that unfunded actuarial liability under OAR 459-009-0084 or 459-009-0085, as applicable, before the employer may make a payment under this rule. 
+
+ (1) Definitions. For the purposes of this rule: 
+
+ (a) “Actuarial surplus” means the excess of the actuarial value of an employer’s assets over the employer’s actuarial liability. 
+
+ (b) “Allocated actuarial liability” means the actuarial liability calculated using the fair market value of assets. 
+
+ (c) “Amortized amount” means the amount of a side account used to offset contributions due from the employer. 
+
+ (d) “IAP” means the Individual Account Program of the Oregon Public Service Retirement Plan. 
+
+ (e) “Pension program contribution” means the total calculated employer contribution due in any reporting period for both the Chapter 238 and OPSRP pension programs, excluding any IAP or retiree health insurance program contribution due. 
+
+ (f) “Side account” means an account in the Public Employees Retirement Fund into which a UAL lump-sum payment is deposited. 
+
+ (g) “Surplus lump-sum payment” means any employer payment that is: 
+
+ (A) Not regularly scheduled; 
+
+ (B) Not paid as a percentage of salary; 
+
+ (C) Made for the express purpose of creating an actuarial surplus or increasing an existing actuarial surplus; and 
+
+ (D) Paid at the employer’s election instead of at the PERS Board’s direction. 
+
+ (h) “UAL” or “Unfunded actuarial liability” means the excess of the actuarial liability over the actuarial value of assets. 
+
+ (i) “UAL lump-sum payment” means any employer payment: 
+
+ (A) That is not regularly scheduled; 
+
+ (B) That is not paid as a percentage of salary; 
+
+ (C) That is made for the express purpose of reducing the employer’s unfunded actuarial liability; and 
+
+ (D) Where the employer has control over the timing or whether to make the payment. 
+
+ (2) For employers with an existing UAL that wish to make a payment in excess of the existing UAL, the surplus lump-sum payment must be made after and separately from the UAL lump-sum payment. The provisions of this rule apply only to the surplus lump-sum payment. 
+
+ (3) Limitation on surplus lump-sum payments. An employer may make only one payment per every three calendar years under the provisions of this rule. 
+
+ (4) Minimum surplus lump-sum payment amount. If an individual employer elects to make a surplus lump-sum payment under this rule, the payment must result in a 50 basis point reduction in the employer’s pension program contribution rate based on the individual employer’s reported payroll in the most recent actuarial valuation. 
+
+ (5) Maximum surplus lump-sum payment amount. If an individual employer elects to make a surplus lump-sum payment under this rule, the payment may not be greater than the amount required to bring the employer’s lowest pension program contribution rate to zero based upon the individual employer’s reported payroll in the most recent actuarial valuation. 
+
+ (6) Requirements. In order to make a surplus lump-sum payment, an employer must comply with the process described in sections (7) through (15) of this rule. 
+
+ (7) Initiating surplus lump-sum payment process. At least 45 calendar days before the date the employer intends to make a surplus lump-sum payment, the employer must notify PERS Actuarial Services in writing that it intends to make a surplus lump-sum payment. The notification must specify: 
+
+ (a) Whether the intended payment shall be for the maximum payment amount as provided in section (5) of this rule, or, if other than the maximum amount, the percent of payroll reduction in the individual employer’s rate or dollar amount of the intended payment; and 
+
+ (b) No more than two potential dates for the payment. 
+
+ (8) PERS staff must notify the employer within five business days of receipt of the notification if the notification is incomplete or the process cannot be completed by the earliest intended date of the surplus lump-sum payment. 
+
+ (9) Payment to the actuary. The PERS consulting actuary must provide an invoice charging the employer for the cost of the rate reduction calculation requested by the employer. At least 30 calendar days before the date the employer intends to make a surplus lump-sum payment, the employer must remit payment for the cost of the rate reduction calculation directly to the PERS consulting actuary according to the instructions on the invoice. Failure to remit payment according to the terms of this section may result in the PERS consulting actuary not completing the employer’s rate reduction calculation by the proposed surplus lump-sum payment date. 
+
+ (10) Calculation of the individual employer’s actuarial liability. Upon receipt of notification that the employer has submitted payment in full to the PERS actuary for the requested UAL calculation, PERS staff shall request that the PERS consulting actuary calculate: 
+
+ (a) The minimum amount of the surplus lump-sum payment under section (4) of this rule; 
+
+ (b) The maximum amount of the surplus lump-sum payment under section (5) of this rule; 
+
+ (c) The alternative percentage or dollar amount specified by the employer in its notification under section (7) of this rule; and 
+
+ (d) The effect of each of the amounts calculated in subsections (a) to (d) of this section on the individual employer’s contribution rate using the potential date(s) for payment specified by the employer in its notification. 
+
+ (11) The calculations described in section (10) of this rule must be: 
+
+ (a) Based on the individual employer’s PERS Chapter 238 and OPSRP Pension program contribution rates from the most recent rate setting actuarial valuation; 
+
+ (b) Based on the covered salary, for the individual employer or as a proportion of the actuarial pool in which the employer participates, as applicable, reported by the employer for the year of the most recent actuarial valuation; and 
+
+ (c) Adjusted to reflect the effect of time from the most recent actuarial valuation to the intended date(s) of payment, using generally recognized and accepted actuarial principles and practices. 
+
+ (12) Notification of calculation. PERS staff must notify the employer in writing of the results of the individual employer’s calculation under section (10). In addition, PERS must send the employer a notification describing risks and uncertainties associated with making a lump-sum payment. 
+
+ (13) Notification of payment. The employer must notify PERS Actuarial Services in writing at least five business days before making a surplus lump-sum payment. This notification must be in addition to the notification in section (7) of this rule and must specify the dollar amount of the payment and the date the employer intends to make the payment. 
+
+ (14) Method of payment. A surplus lump-sum payment must be made by either wire transfer or check payable to the Public Employees Retirement System. 
+
+ (15) Receipt of payment. In order to adjust the employer contribution rate to that reported by PERS in section (12) of this rule, PERS must receive the correct funds no later than five business days after the corresponding intended date of the surplus lump-sum payment specified in the notification described in section (13) of this rule. 
+
+ (a) If the surplus lump-sum payment is received by PERS on or before the intended date specified in the notification described in section (13) of this rule or within the five business days following the intended date, the new employer contribution rate shall be effective for payrolls dated on or after the first of the month following receipt of the payment by PERS. 
+
+ (b) If the surplus lump-sum payment is received by PERS more than five business days after the intended payment date, the employer’s contribution rate shall be adjusted based on the next actuarial valuation after the date of receipt of the payment and will be effective on July 1 of the year following publication of the actuarial valuation. 
+
+ (c) Except as provided in subsection (15)(d), if the surplus lump-sum payment received by PERS is other than any amount specified in the notification under section (13) of this rule, the employer’s contribution rate shall be adjusted to the rate the payment amount fully funds using the actuarial calculation in section (10) of this rule. 
+
+ (d) If the surplus lump-sum payment received by PERS is less than the minimum amount described in section (4) of this rule, or greater than the maximum amount described in section (5) of this rule, the payment shall be returned to the employer and no adjustment shall be made to the employer contribution rate. 
+
+ (e) Nothing in this rule shall be construed to prevent the Board from: 
+
+ (A) Adjusting employer contribution rates based upon the date of receipt of funds or errors in the notification described in section (12) of this rule; or 
+
+ (B) Taking action pursuant to ORS 238.225. 
+
+ (16) Actuarial treatment of the payment. For actuarial purposes, the surplus lump-sum payment made by the employer shall be treated as pre-funded contributions and additional assets for the payment of obligations of the employer under ORS Chapters 238 or 238A, rather than as a reduction of those obligations. 
+
+ (17) Side account. The surplus lump-sum payment shall be held in a side account for the benefit of the employer making the surplus lump-sum payment. The amortized amount for each payroll reporting period shall be applied from the side account to the employer reserve. 
+
+ (18) Crediting earnings or losses. Side accounts shall be credited with earnings and losses in accordance with OAR 459-007-0530. 
+
+ (19) Nothing in this rule shall be construed to convey to an employer making a surplus lump-sum payment any proprietary interest in the Public Employees Retirement Fund or in the surplus lump-sum payment made to the fund by the employer. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 238.650 
+ 
+ 
+ Statutes/Other Implemented:  ORS 238.225 - 238.229 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PERS 9-2017, amend filed 12/01/2017, effective 12/01/2017 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PERS 14-2007, f. & cert. ef. 11-23-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PERS 17-2006, f. & cert. ef. 11-24-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

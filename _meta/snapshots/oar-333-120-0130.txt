@@ -1,0 +1,233 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 120 STANDARDS FOR PROTECTION AGAINST RADIATION 
+ 333-120-0130 
+ Radiation Dose Limits: Determination of Internal Exposure 
+ 
+ (1) For purposes of assessing dose used to determine compliance with occupational dose equivalent limits, the licensee must, when required under OAR 333-120-0210, take suitable and timely measurements of:  (a) Concentrations of radioactive materials in air in work areas; or  (b) Quantities of radionuclides in the body; or  (c) Quantities of radionuclides excreted from the body; or  (d) Combinations of these measurements.  (2) Unless respiratory protective equipment is used, as provided in OAR 333-120-0320 or the assessment of intake is based in bioassays, the licensee must assume that an individual inhales radioactive material at the airborne concentration in which the individual is present.  (3) When specific information on the physical and biochemical properties of the radionuclides taken into the body or the behavior or the material in an individual is known, the licensee may:  (a) Use that information to calculate the committed effective dose equivalent, and, if used, the licensee must document that information in the individual's record; and  (b) Upon prior approval of the Authority, adjust the DAC or ALI values to reflect the actual physical and chemical characteristics of airborne radioactive material (e.g. aerosol size distribution or density); and  (c) Separately assess the contribution of fractional intakes of Class D, W, or Y compounds of given radionuclide (see 10 CFR Part 20 Appendix B to 20.1001 to 20.2401) to the committed effective dose equivalent.  (4) If the licensee chooses to assess intakes of Class Y material using the measurements given in sections (1), (2) or (3) of this rule, the licensee may delay the recording and reporting of the assessments for periods up to seven months, unless otherwise required by OAR 333-120-0710 or 333-120-0720, in order to permit the licensee to make additional measurements basic to the assessments.  (5) If the identity and concentration of each radionuclide in a mixture are known, the fraction of the DAC applicable to the mixture for use in calculating DAC-hours must be either:  (a) The sum of the ratios of the concentration to the appropriate DAC value (e.g. D, W, Y) from 10 CFR Part 20 Appendix B to 20.1001 to 20.2401 for each radionuclide in the mixture; or  (b) The ratio of the total concentration for all radionuclides in the mixture to the most restrictive DAC value for any radionuclide in the mixture.  (6) If the identity of each radionuclide in a mixture is known, but the concentration of one or more of the radionuclides in the mixture is not known, the DAC for the mixture must be the most restrictive DAC of any radionuclide in the mixture.  (7) When a mixture of radionuclides in air exists, licensees may disregard certain radionuclides in the mixture if:  (a) The licensee uses the total activity of the mixture in demonstrating compliance with the dose limits in OAR 333-120-0100 and in complying with the monitoring requirements in 333-120-0210(2); and  (b) The concentration of any radionuclide disregarded is less than 10 percent of its DAC; and  (c) The sum of these percentages for all of the radionuclides disregarded in the mixture does not exceed 30 percent.  (8) When determining the committed effective dose equivalent, the following information may be considered:  (a) In order to calculate the committed effective dose equivalent, the licensee may assume that the inhalation of one ALI, or an exposure of 2,000 DAC-hours, results in a committed effective dose equivalent of 0.05 Sv (5 rem) for radionuclides that have their ALIs or DACs based on the committed effective dose equivalent.  (b) When the ALI (and the associated DAC) is determined by the nonstochastic organ dose limit of 0.50 Sv (50 rem), the intake of radionuclides that would result in a committed effective dose equivalent of 0.05 Sv (5 rem) (the stochastic ALI) is listed in parentheses in 10 CFR Part 20 Table 1 of Appendix B to 20.1001 to 20.2401. In this case, the licensee may, as a simplifying assumption, use the stochastic ALIs to determine committed effective dose equivalent. However, if the licensee uses the stochastic ALIs, the licensee also must demonstrate that the limit in OAR 333-120-0100(1)(a)(B) is met.  [ED. NOTE: Appendices referenced are available from the agency.] 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 453.635 
+ 
+ 
+ Statutes/Other Implemented:  ORS 453.605 - 453.807 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 14-2008, f. & cert. ef. 9-15-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 4-2007, f. & cert. ef. 3-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 12-2006, f. & cert. ef. 6-16-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 36-2004, f. & cert. ef. 12-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 31-2004(Temp), f. & cert. ef. 10-8-04 thru 4-5-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 3-2003, f. & cert. ef. 3-27-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 15-1994, f. & cert. ef. 5-6-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

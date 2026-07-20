@@ -1,0 +1,264 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Public Utility Commission 
+ Chapter 860 
+ 
+ 
+ 
+ 
+ 
+ Division 83 RENEWABLE PORTFOLIO STANDARDS 
+ 860-083-0010 
+ Definitions
+ 
+ 
+ As used in division 083: 
+
+ (1) “Aggregate costs” means costs included in ORS 469A.100(4)(c), (d), and (e) that are applicable to more than one generating facility. Aggregate costs also include physical or financial costs for assets to replace interruptions of generation or deliveries of short-term or long-term qualifying electricity, short-term electricity that is not qualifying, or electricity from proxy plants. 
+
+ (2) “Alternative compliance rate” has the meaning given that term in ORS 469A.180(2). 
+
+ (3) “Amortization” means spreading the initial estimates of capital costs of long-term qualifying electricity or a proxy plant at the discount rate over an initial amortization period. For replacement costs that were not included in the initial estimate of capital or operating costs for qualifying electricity, amortization means spreading such replacement costs at the discount rate over the remainder of the current amortization period for the associated qualifying electricity. For significant investments in facilities producing qualifying electricity, amortization means spreading such significant investment costs and the remaining unamortized investment of the facility at the discount rate over the expected useful life of the facility. 
+
+ (4) “Annual revenue requirement” has the meaning given that term in ORS 469A.100(3). 
+
+ (5) “Applicable filing for an electric company” means an implementation plan under ORS 469A.075, a filing for a change to rates for retail electricity consumers that includes costs of qualifying electricity in rates for the first time, or a compliance report under ORS 469A.170. Applicable filing does not include filings to change rates before 2011. 
+
+ (6) “Applicable filing for an electricity service supplier” means a compliance report under ORS 469A.170. 
+
+ (7) “Average cost of compliance” for an electricity service supplier means its total cost of compliance divided by its retail sales in megawatt-hours in the service areas of electric companies subject to ORS 469A.052 for a compliance year. 
+
+ (8) “Average retail revenue” for an electric company means the annual revenue requirement for a compliance year as determined in OAR 860-083-0200 divided by the forecast of retail sales in megawatt-hours used to determine the annual revenue requirement. 
+
+ (9) “Banked renewable energy certificate” has the meaning given that term in ORS 469A.005(1). 
+
+ (10) “Bundled renewable energy certificate” has the meaning given that term in ORS 469A.005(3). 
+
+ (11) “Compliance year” has the meaning given that term in ORS 469A.005(4). 
+
+ (12) “Cost of bundled renewable energy certificates” means the levelized incremental cost of the qualifying electricity associated with the bundled renewable energy certificate. 
+
+ (13) “Cost limit for an electric company” has the meaning given that term in ORS 469A.100. 
+
+ (14) “Discount rate” means the nominal after-tax marginal weighted-average cost of capital. 
+
+ (15) “Electric company” has the meaning given that term in ORS 757.600. 
+
+ (16) “Electricity service supplier” has the meaning given that term in ORS 757.600. 
+
+ (17) “Extended amortization period” means the period or periods after an initial amortization period where a facility will continue to provide qualifying electricity. 
+
+ (18) “Implementation plan” has the meaning given that term in ORS 469A.075. 
+
+ (19) “Incremental cost of compliance” means the cost of bundled renewable energy certificates used for compliance for a compliance year as calculated pursuant to OAR 860-083-0100. 
+
+ (20) “Initial amortization period for an electric company ” means the amortization period for new long-term qualifying electricity or a corresponding proxy plant established in the beginning year of new long-term qualifying electricity. If the qualifying electricity is acquired through a contract, the length of the amortization period is the term of the agreement. For facilities owned by an electric company and the proxy plant, the initial amortization period is based on the electric company’s most recent depreciation study approved by the Commission for the type of generating facility. 
+
+ (21) “Initial amortization period for an electricity service supplier” for facilities that produce qualifying electricity means a period based on the expected useful lifetime of the facility. If the qualifying electricity is acquired through a contract, the length of the amortization period is the term of the agreement. For proxy plants for an electricity service supplier, the initial amortization period means the period for a proxy plant used by the electric company subject to ORS 469A.052 in whose service area it made the most retail sales in megawatt-hours over the five calendar years preceding the compliance year. 
+
+ (22) “Integrated resource plan” means the long-term resource plan filed by an electric company that is subject to Commission acknowledgment as is generally set forth in Commission Order Nos. 07-002, 07-047 and 08-339.  
+
+ (23) “Interruptions of generation or deliveries” include, but are not limited to, planned and unplanned generating and transmission facility outages and derates, natural gas delivery interruptions, and reduced generation due to weather or curtailments. 
+
+ (24) “Levelized cost for long-term qualifying electricity and the corresponding proxy plant” means the present value of amortized capital costs and all other costs amortized at the discount rate over the time horizon of the qualifying electricity. Levelized cost also includes an estimate of the net present value of costs and benefits for the qualifying electricity and the corresponding proxy plant likely to occur after the end of the applicable time horizon, amortized over the time horizon at the discount rate. 
+
+ (25) “Levelized cost for short-term qualifying electricity” means costs levelized over the term of the contract. 
+
+ (26) “Levelized cost for short-term non-qualifying electricity” means costs levelized over a term consistent with the duration of the contract for qualifying electricity. 
+
+ (27) “Long-term qualifying electricity” means electricity from facilities owned by an electric company or electricity service supplier that generate qualifying electricity and qualifying electricity purchased pursuant to contracts of five years or more in duration. 
+
+ (28) “New qualifying electricity for an electric company” means qualifying electricity when the costs are first included in an applicable filing for a compliance year. New qualifying electricity may be from new generating facilities, generating facilities with significant new investments, or new contracts to purchase electricity. 
+
+ (29) “New qualifying electricity for an electricity service supplier” means qualifying electricity from new generating facilities, generating facilities with significant new investments, or new contracts to purchase electricity that the supplier plans to use to serve customers of electric companies subject to ORS 469A.052 and are first operational in a compliance year. 
+
+ (30) “Proxy plant” means, unless otherwise specified by the Commission, a base-load combined-cycle natural gas-fired generating facility that is used to estimate the costs of non-qualifying electricity corresponding to new long-term qualifying electricity with the same beginning amortization year. 
+
+ (31) “Qualifying electricity” has the meaning given that term in ORS 469A.005(9). 
+
+ (32) “Renewable energy certificate” has the meaning given that term in OAR 330 160-0015(8) (effective September 3, 2008). 
+
+ (33) “Renewable energy source” has the meaning given that term in ORS 469A.005(10). 
+
+ (34) “Replacement costs” means capital costs that have the effect of replacing initial capital costs for long-term qualifying electricity or proxy plants. 
+
+ (35) “Retail electricity consumer” has the meaning given that term in ORS 469A.005(11). 
+
+ (36) “Short-term qualifying electricity” means qualifying electricity purchased pursuant to contracts of less than five years in duration. 
+
+ (37) “Significant investments" means investments in a compliance year that if the investments were amortized over the remainder of the amortization period and combined with cost changes associated with such investments, they would increase the levelized cost of the facility by more than 10 percent. Such estimates do not include replacement costs that were included in the initial estimates of capital or operating costs. 
+
+ (38) “Specific costs” means the costs for electricity plus the costs for transmission delivery and substations that can reasonably serve only a single generating facility or contract. 
+
+ (39) “Total cost of compliance” for an electric company or electricity service supplier means the cumulative cost of: 
+
+ (a) The incremental cost of compliance; 
+
+ (b) The cost of unbundled renewable energy certificates used to meet the applicable renewable portfolio standard for a compliance year; and 
+
+ (c) The cost of alternative compliance payments used to meet the applicable renewable portfolio standard for a compliance year. 
+
+ (40) “Unbundled renewable energy certificate” has the meaning given that term in ORS 469A.005(12). 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 756.040, ORS 757.659 & ORS 469A.065 
+ 
+ 
+ Statutes/Other Implemented:  ORS 469A.005 - 469A.210 & 2023 HB 3161 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 11-2023, amend filed 12/28/2023, effective 12/28/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 8-2009, f. & cert. ef. 8-5-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

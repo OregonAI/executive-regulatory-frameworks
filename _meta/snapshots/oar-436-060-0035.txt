@@ -1,0 +1,386 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+   Temporary rule language in effect until 10/04/2026. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Workers' Compensation Division - Chapter 436 
+ 
+ 
+ 
+ 
+ Division 60 CLAIMS ADMINISTRATION 
+ 436-060-0035 
+ Supplemental Disability for Workers with Multiple Jobs at the Time of Injury
+ 
+ 
+ (1) For the purpose of this rule: 
+
+ (a) "Primary job" means the job at which the injury occurred, or the job where the worker was employed at the time of medical verification that the worker is unable to work because of disability caused by occupational disease; 
+
+ (b) "Secondary job" means any other job held by the worker in Oregon subject employment at the time of injury; 
+
+ (c) "Temporary disability" means wage loss replacement for the primary job; 
+
+ (d) "Supplemental disability" means wage loss replacement for the secondary jobs that exceeds the temporary disability, up to, but not exceeding, the maximum established by ORS 656.210; and 
+
+ (e) "Insurer" has the same meaning as OAR 436-060-0005(12), and also includes service companies. 
+
+ (2) Election to process and pay supplemental disability. An insurer may elect to be responsible for payment and processing of supplemental disability benefits to a worker employed in more than one job at the time of injury. The insurer is not required to inform the director of its election if it elects to process and pay supplemental disability, unless the insurer’s last notice to the director was that it would not process and pay supplemental disability. If the insurer informs the director of its election, the insurer must report its election to the director under OAR 436-060-0011(12). 
+
+ (a) The election must be made by the insurer, and applies to all service companies an insurer may use for processing claims. 
+
+ (b) The election remains in effect for all supplemental disability claims the insurer receives until the insurer changes its election. 
+
+ (c) If the insurer has elected to process and pay supplemental disability benefits: 
+
+ (A) The insurer must determine the worker’s ongoing entitlement to supplemental disability; 
+
+ (B) The insurer must pay the worker supplemental disability benefits simultaneously with any temporary disability benefits due; 
+
+ (C) The insurer must maintain a record of supplemental disability benefits paid to the worker, separate from temporary disability benefits paid as a result of the job at injury; and 
+
+ (D) The director will reimburse the insurer for supplemental disability paid under OAR 436-060-0500. 
+
+ (d) If the insurer has elected not to process and pay supplemental disability benefits: 
+
+ (A) The director will select an assigned processing administrator who is authorized to process and pay supplemental disability benefits on behalf of the director; 
+
+ (B) The assigned processing administrator must determine the worker’s ongoing entitlement to supplemental disability and must pay the worker supplemental disability benefits due once each 14 days; and 
+
+ (C) The insurer and assigned processing administrator must cooperate and communicate, as necessary, to coordinate benefits due. 
+
+ (i) The assigned processing administrator must provide the insurer with any verifiable documentation of wages from a secondary job received from the worker; and 
+
+ (ii) The insurer and assigned processing administrator must retain documentation of shared information. 
+
+ (3) Eligibility for supplemental disability. A worker who was employed at one or more secondary jobs with Oregon subject employers at the time of injury or medical verification of an occupational disease may be eligible to receive supplemental disability if: 
+
+ (a) The worker provides notification of the secondary job to the insurer within 30 days of the insurer’s receipt of the initial claim; 
+
+ (b) The rate of compensation for wages at the primary job under OAR 436-060-0025 is less than the maximum temporary disability rate established under ORS 656.210; and 
+
+ (c) The worker provides verifiable documentation of the wages from any secondary jobs at the time of injury or medical verification of an occupational disease within 60 days of the mailing date of the request for documentation sent under section (4) of this rule. For each secondary job, the documentation must: 
+
+ (A) Identify the Oregon subject employer for each secondary job; 
+
+ (B) Establish that the worker held the secondary job, in addition to the primary job, at the time of injury or medical verification of occupational disease; and 
+
+ (C) Provide adequate information to calculate the average weekly wage under OAR 436-060-0025. 
+
+ (4) Determination of eligibility. Upon receiving notification of a worker’s secondary job the insurer must determine the rate of temporary disability compensation for wages at the primary job under OAR 436-060-0025, and: 
+
+ (a) If the rate of temporary disability compensation meets or exceeds the maximum temporary disability rate, the worker is not eligible for supplemental disability benefits; or 
+
+ (b) If the rate of temporary disability is less than the maximum temporary disability rate, the worker may be eligible for supplemental disability benefits. If the worker may be eligible for supplemental disability benefits, the insurer must: 
+
+ (A) Mail the worker a request for verifiable documentation of the worker’s wages from any secondary jobs within five business days of notice or knowledge that the worker may be eligible for supplemental disability benefits; 
+
+ (i) The request must inform the worker what verifiable documentation the worker must submit to the insurer or assigned processing administrator, to determine the worker’s eligibility for supplemental disability; 
+
+ (ii) The request must clearly state that if the insurer or assigned processing administrator does not receive the required documentation within 60 days of the mailing date of the request, the insurer will determine the worker’s temporary disability rate based only on the job at which the injury occurred, and the worker will be found ineligible for supplemental disability; 
+
+ (B) If the insurer has elected not to process and pay supplemental disability benefits under section (2) of this rule, the insurer must also send a copy of the request to the assigned processing administrator. In addition to the requirements of this section, the request must also: 
+
+ (i) Contain the name, address, email address, and telephone number of the assigned processing administrator; 
+
+ (ii) Clearly advise the worker that the verifiable documentation must be sent to the assigned processing administrator; and 
+
+ (C) The insurer or assigned processing administrator must determine the worker’s eligibility for supplemental disability within 14 days of: 
+
+ (i) Receipt of the worker’s verifiable documentation; or 
+
+ (ii) The end of the 60-day period in the insurer’s request, if the worker does not provide verifiable documentation. 
+
+ (c) Any delay in the payment of a higher disability rate because of the worker’s failure to provide verifiable documentation under this section will not result in a penalty under ORS 656.262(11). 
+
+ (5) Notification of eligibility determination. The insurer or the assigned processing administrator must determine the worker’s eligibility for supplemental disability and must communicate the determination to the worker and the worker’s attorney, if any, in writing. If the worker is found ineligible for supplemental disability, the letter must also advise the worker of the reason why they are not eligible, and how to appeal if the worker disagrees with the determination. 
+
+ (6) Calculation of supplemental disability. The insurer or the assigned processing administrator must calculate supplemental disability for an eligible worker by adding the weekly averages of the worker’s wages from each secondary job as calculated under OAR 436-060-0025. For the purposes of calculating and payment of supplemental disability: 
+
+ (a) The total rate of supplemental disability may not exceed the difference between the maximum rate of temporary disability under ORS 656.210(1) and the rate of compensation for wages under the worker’s primary job; 
+
+ (b) No supplemental disability is due for jobs where the rate of compensation is based on an assumed wage; 
+
+ (c) In no case may an eligible worker receive less compensation than would be paid if based solely on wages from the primary employer; 
+
+ (d) The worker’s scheduled days off for the primary job must be used to calculate and pay supplemental disability; and 
+
+ (e) No three-day waiting period applies to supplemental disability benefits. 
+
+ (7) Partial disability. When a worker who is eligible to receive supplemental disability benefits has post-injury wages from either the primary job or any secondary job: 
+
+ (a) The insurer or the assigned processing administrator must calculate the rate of temporary partial disability due to the worker under OAR 436-060-0030 based on the worker’s wages from both the primary and secondary jobs; 
+
+ (b) The insurer or the assigned processing administrator must calculate the amount of supplemental disability by subtracting the rate of partial disability due based on wages from only the primary job from the total rate of compensation due to the worker; 
+
+ (c) If the worker receives post-injury wages from the secondary job equal to or greater than the secondary wages at the time of injury, no supplemental disability is due; and 
+
+ (d) If the worker returns to a job not held at the time of the injury, the insurer or the assigned processing administrator must process supplemental disability under the same terms, conditions and limitations as OAR 436-060-0030. 
+
+ (8) If temporary disability is not due from the primary job. Supplemental disability may be due on a nondisabling claim even if temporary disability is not due from the primary job. 
+
+ (a) A nondisabling claim will not change to disabling status due to payment of supplemental disability. 
+
+ (b) When supplemental disability payments cease on a nondisabling claim, the insurer or the assigned processing administrator must send the worker written notice advising the worker that their supplemental disability payments have stopped and of the worker’s right to request a hearing by the board within 60 days of the notice, if the worker disagrees. 
+
+ (9) Worker’s responsibilities. A worker who is eligible for supplemental disability under this rule has an ongoing responsibility to provide information and documentation to the insurer or the assigned processing administrator, even if temporary disability is not due from the primary job. 
+
+ (10) Hearings. If a worker disagrees with the insurer’s or the assigned processing administrator’s decision about the worker’s eligibility for supplemental disability or the rate of supplemental disability, the worker may request a hearing under OAR 436-060-0008. 
+
+ (a) If the worker requests a hearing on the insurer’s or the assigned processing administrator's decision concerning the worker’s eligibility for supplemental disability or the rate of supplemental disability, the worker must submit the request for a hearing of the insurer’s or the assigned processing administrator’s decision within 60 days of the notice in section (5) of this rule. 
+
+ (b) The insurer for the primary job is not required to contact the secondary job employer. The worker is responsible to provide any necessary documentation. 
+
+ (11) Sanctions. An insurer that elects not to process and pay supplemental disability benefits may be sanctioned upon a worker’s complaint if the insurer delays sending necessary information to the assigned processing administrator and that delay causes a delay in the worker receiving supplemental disability benefits. 
+
+ (12) Third party recovery. In the event of a third party recovery: 
+
+ (a) Previously reimbursed supplemental disability benefits are a portion of the paying agency’s lien; and 
+
+ (b) Remittance on recovered benefits must be made to the department in the quarter following the recovery in amounts determined in accordance with ORS 656.591 and ORS 656.593. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 656.210 & ORS 656.726(4) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 656.210, ORS 656.726(4), ORS 656.212, ORS 656.325(5) & ORS 656.704 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 3-2026, temporary amend filed 04/08/2026, effective 04/08/2026 through 10/04/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 5-2025, amend filed 12/23/2025, effective 01/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 18-2021, amend filed 12/13/2021, effective 01/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 7-2020, amend filed 03/13/2020, effective 04/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 6-2017, amend filed 12/14/2017, effective 01/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 6-2016, f. 11-28-16, cert. ef. 1-1-17 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ WCD 3-2009, f. 12-1-09, cert. ef. 1-1-10 
+WCD 5-2008, f. 12-15-08, cert. ef. 1-1-09 
+WCD 5-2006, f. 6-15-06, cert. ef. 7-1-06 
+WCD 8-2005, f. 12-6-05, cert. ef. 1-1-06 
+WCD 9-2004, f. 10-26-04, cert. ef. 1-1-05 
+WCD 2-2004, f. 2-19-04, cert. ef. 2-29-04 
+WCD 13-2003(Temp), f. 12-15-03, cert. ef. 1-1-04 thru 2-28-04 
+WCD 11-2003(Temp), f. & cert. ef. 9-22-03 thru 2-28-03 
+WCD 9-2003(Temp), f. 8-29-03, cert. ef. 9-2-03 thru 2-28-04 
+WCD 10-2002, f. 10-2-02, cert. ef. 11-1-02 
+WCD 6-2002(Temp), f. 4-22-02, cert. ef. 5-10-02 thru 11-5-02 
+WCD 11-2001, f. 11-30-01, cert. ef. 1-1-02 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

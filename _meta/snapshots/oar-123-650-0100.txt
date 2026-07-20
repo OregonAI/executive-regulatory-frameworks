@@ -1,0 +1,273 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+   Temporary rule language in effect until 12/01/2026. 
+ 
+ 
+ 
+ 
+ 
+ Oregon Business Development Department 
+ Chapter 123 
+ 
+ 
+ 
+ 
+ 
+ Division 650 ENTERPRISE ZONE CREATION AND AMENDMENT 
+ 123-650-0100 
+ Definitions
+ 
+ 
+ ORS 285C.050 and OAR 123-001 (Procedural Rules) contain definitions used in this division of administrative rules. In addition, unless the context demands otherwise: 
+
+ (1)  Census Statistical Unit includes any standard geographic area, jurisdictional entity, administrative designation, or parts of one, for which the U.S. Bureau of Census or other federal, state or institutional/academic sources issue recurring economic data, including but not limited to: County, county subdivision, city/place, census tract or census block group. 
+
+ (2) Data Center means real and personal property consisting of buildings or structures specifically designed or modified to house networked computers and data and transaction processing equipment, the computers contained within, and related infrastructure support equipment including but not limited to power and cooling equipment. To qualify as a data center under this definition, the storage, processing, transmission, or retrieval of digital data must constitute the primary commercial purpose of such buildings or structures and their operations. Covered buildings or structures include but are not limited to those used primarily for colocation services, cloud computing services, artificial intelligence training or inference services, or digital asset mining services, whether such services are internal or external services, i.e. provided to third parties or operated for the company's own commercial operations. For purposes of this definition, the primary use of property is based on the relative proportion of the original cost of property used for all purposes. Data Center does not include: 
+
+ (a) A server room, network operations facility, or other computing infrastructure that is incidental to and operated exclusively in support of the primary non-computing business operations of a single entity conducted at the same or an affiliated location. This includes, but is not limited to, computing infrastructure integral to semiconductor fabrication, manufacturing process control, industrial process design, or chemical or materials research, provided that such computing infrastructure is not held out or marketed as a service available to persons other than the entity and its affiliates; or 
+
+ (b) A telecommunications switching, routing, or network transmission center whose primary design and function is the carriage of voice, video, or broadband communications rather than the storage, processing, or hosting of data for end users. 
+
+ (3)  Data center project means the construction of a building or structure, installation of real property machinery or equipment or personal property, expansion or modification of an existing building or structure, or substantial re-equipping of a data center, or the acquisition of real property machinery, equipment (newly purchased, newly leased or newly transferred) used primarily in operating a data center. 
+
+ (4)  Enterprise Zone Population means, based on either the latest decennial U.S. Census count or the most recently available estimate from the Portland State University Population Research Center: 
+
+ (a) For rural enterprise zones, the total population of incorporated cities, in which any part of the zone is located, plus the currently estimated population of any Census Statistical Unit that tightly envelope unincorporated zone areas; or 
+
+ (b) For urban enterprise zones, the currently estimated population of Census Statistical Units that tightly envelope zone areas, and it may also include any associated residential area or group of such areas proximate to the zone boundary that encompass a populace, whom the Sponsoring Government(s) explicitly intend to serve through employment opportunities and relevant public or private efforts or programs in relation to the zone. 
+
+ (5) Local Area means the geographic area within which the enterprise zone generates or is reasonably expected to generate measurable economic activity. The size of the geographic area for each enterprise zone will vary by location. The local area shall be determined by analyzing various factors that includes but is not limited to geographic scope of job creation, capital investment impacts, employment data related to where employees live and spend their wages, tax revenue impacts on local government taxing districts and area fiscally affected by the enterprise zone, indirect economic impacts (ripple effects or supply chain transactions from businesses within same geographic area)and/or jurisdictional oversight by the sponsor(s). The local area shall be determined by the sponsor(s) and based on economic development evidence and circumstances. The local area does not require all of a sponsor’s jurisdiction to be included, but it must include the entirety of the designated enterprise zone territory. 
+
+ (6) “Original enterprise zone,” as used in ORS 285C.115(2) for purposes of boundary changes, means the area within the boundary of the zone at the time when it was most recently (re-)designated, irrespective of any intervening boundary change. 
+
+ (7)  Sponsoring Government means a county, port or city designating an enterprise zone (or a district that has effectively the same governing body as the county, port or city, and that contains all the city, port or county territory inside the proposed zone). A Sponsoring Government may be any city, port or county in Oregon, or any combination of such jurisdictions as provided in OAR 123-650-0500, except as described in OAR 123-650-0600 or 123-650-4900(2)(c). 
+
+ (8)  Terminated-by-Statute means the automatic termination of an enterprise zone by operation of law after more than 10 years under ORS 285C.245(1)(a). 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 285A.075, 285C.060(1) & 285C.066 
+ 
+ 
+ Statutes/Other Implemented:  ORS 285C.050 – 285C.250 & Oregon Laws 2026, Chapter 50 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OBDD 10-2026, temporary amend filed 06/05/2026, effective 06/05/2026 through 12/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OBDD 14-2024, amend filed 06/10/2024, effective 06/10/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OBDD 12-2020, amend filed 08/12/2020, effective 08/12/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OBDD 11-2017, amend filed 11/29/2017, effective 11/29/2017 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OBDD 15-2015, f. & cert. ef. 11-12-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OBDD 13-2012, f. & cert. ef. 8-15-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OBDD 23-2010, f. & cert. ef. 6-14-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

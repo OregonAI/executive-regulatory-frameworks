@@ -1,0 +1,411 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 136 MEDICAL TRANSPORTATION SERVICES 
+ 410-136-3020 
+ General Requirements for NEMT
+ 
+ 
+ (1) The Authority may enroll governmental transportation brokerages (local units of government) or other entities contracted with the Authority as a “contractor” to arrange rides. Transportation brokerages pay subcontractors for NEMT services. The Authority may limit the enrollment with transportation brokerages to units of local government; Transportation brokerages shall be enrolled as an Oregon Health Plan (OHP) provider and meet all requirements of OAR 410-120-1260 prior to delivering NEMT services or receiving payment. A governmental transportation brokerage signing the Provider Enrollment Agreement constitute agreement to comply with all applicable Authority OHP provider rules and federal and state laws and regulations. 
+
+ (2) The actions described in this rule may not be delegated and must be performed by the brokerage contracted with the Authority. The brokerage shall: 
+
+ (a) Prior authorize and pay subcontractors for the least costly but most appropriate mode of transport for the client’s medical needs to and from an OHP covered medical service. The most appropriate and least costly ride may include requiring the client to share the ride with other clients.  RHAF clients must not be required to share a ride with other clients; 
+
+ (b) Verify that the client is obtaining OHP covered medical services in the client’s local area; 
+
+ (c) Verify the client’s OHP or RHAF eligibility and that the client’s benefit package includes NEMT services on the scheduled date of service for the requested transport. The brokerage shall verify OHP eligibility and benefits packages through electronic eligibility information with the Authority Electronic Data Interchange (EDI). The brokerage shall verify RHAF eligibility through the RHAF eligibility database; 
+
+ (d) Assess the client’s access to other means of transportation, such as driving their own car or getting a ride from a friend, family member or neighbor; 
+
+ (e) Verify the client’s attendance for continuing requests for rides if the medical provider could not affirm an appointment for a previous ride; 
+
+ (f) Schedule a ride with an alternate subcontractor if the subcontractor originally assigned is unable to provide the ride; and 
+
+ (g) Assign rides to the subcontractor based on an evaluation of several factors including, but not limited to: 
+
+ (A) Cost; 
+
+ (B) The client’s need for appropriate equipment and transportation; 
+
+ (C) Any factors related to a subcontractor’s capabilities, availability, and past performance; and 
+
+ (D) Any factors related to the brokerage’s need to maintain sufficient service capacity to meet client needs. 
+
+ (4) Pursuant to OAR 410-120-1210, Medical Assistance Benefit Packages and Delivery System, clients receiving the Qualified Medicare Beneficiary (QMB) only benefit package are not eligible for NEMT. 
+
+ (5) The brokerage shall maintain records of prior authorization approval and denials of NEMT services. The brokerage shall also include the reasons for authorizing a ride: 
+
+ (a) That is not cost effective or not based on the factors specified in section (2) of this rule; 
+
+ (b) With more than two (2) attendants for an ambulance or stretcher car; or 
+
+ (c) With more than one (1) attendant for a wheelchair van. 
+
+ (6) The brokerage shall provide a ride to a client to fill prescription medication only in the following situation: 
+
+ (a) The client needs to stop on the way home to fill or pick up prescribed medication related to the covered service for which the brokerage provided the ride; 
+
+ (b) It is medically necessary to fill or pick up the medication immediately; and 
+
+ (c) The pharmacy is located on the return route or is the closest pharmacy to the return route. 
+
+ (7) The brokerage may provide a ride to a client to fill prescribed medication under the following situations: 
+
+ (a) The brokerage asks the client if the prescription service is available through the Authority’s contracted postal prescription service, and the client responds that it is not available through that source; 
+
+ (b) The client has an urgent need to fill or pick up prescribed medication because the postal prescription service mailed the wrong medication, or the client has an unexpected problem caused by the medication; or 
+
+ (c) The client is transient or without regular access to a mailbox. In this situation, the brokerage may evaluate the need on a case-by-case basis. 
+
+ (8) The brokerage shall provide rides outside the brokerage’s local service area as described in section (2)(b) of this rule, under the following circumstances: 
+
+ (a) The client is receiving a covered service that is not available in the service or local area but is available in another area of the state; 
+
+ (b) The client is receiving a covered service in California, Idaho, or Washington where the service location is no more than 75 miles from the Oregon border; or 
+
+ (c) No local medical provider or facility will provide the covered services for the client; or 
+
+ (d) For RHAF clients, no local medical provider will provide the covered services within the timeline required to address the client’s medical condition. 
+
+ (9) Brokerages may coordinate to provide a return ride to a client who receives a covered service outside the client's local area. 
+
+ (10) Brokerages shall retroactively authorize and pay for NEMT services that have already occurred only when the brokerage could not prior authorize the service because the brokerage was closed, and the request for authorization is received by the brokerage within thirty (30) days of the date of service. The brokerage shall confirm with the medical provider that one of the following circumstances supported the ride: 
+
+ (a) The client needed urgent medical care; 
+
+ (b) The client required secured transport pursuant to OAR 410-136-3120, Secured Transports; or 
+
+ (c) The client was in a hospital, and the hospital discharged or transferred the client. 
+
+ (11) In addition to section (10) of this rule, a brokerage shall retroactively authorize NEMT services for ambulance transports when: 
+
+ (a) An ambulance provider responds to an emergency call, but the client’s medical condition does not warrant an emergency transport; 
+
+ (b) The ambulance provider transports the client as a NEMT service; and 
+
+ (c) The ambulance provider requests retroactive authorization within thirty (30) days of the NEMT date of service. 
+
+ (12) Brokerages shall not authorize or pay subcontracted providers for rides outside their service areas based only on client preference or convenience. 
+
+ (13) Brokerages shall provide toll-free call centers for clients to request rides. Brokerages shall have written policies and procedures regarding its NEMT services that include all the requirements in this rule. Brokerages shall meet all the following requirements pertaining to the brokerage’s call center and scheduling of rides: 
+
+ (a) The call center shall operate at a minimum Monday through Friday from 9:00 a.m. to 5:00 p.m., but the brokerage may close the call center on New Year’s Day, Memorial Day, July 4th, Labor Day, Thanksgiving, and Christmas. The Authority may approve, in writing, additional days of closure if the brokerage requests the closure at least thirty (30) days in advance. 
+
+ (b) Brokerages shall make all reasonable efforts for clients to have access to available NEMT services 24 hours a day. When the call center is closed, the brokerages shall provide a recording or answering service in at a minimum, English and Spanish, to refer the client directly to a subcontractor. If no subcontractor is available, the brokerage must provide clients with recorded information in at a minimum, English and Spanish, about service hours and how to reach emergency services by calling 911; 
+
+ (c) The brokerage shall allow a client or their representative to schedule rides at least ninety (90) days in advance of the covered service; 
+
+ (d) The brokerage shall allow a client or their representative to request multiple ride requests at one time; 
+
+ (e) The brokerage shall develop and make all policies and procedures regarding its NEMT services available to clients either in a OHP Open Card Member Handbook, RHAF NEMT Rider Guide, or in a stand-alone document referred to as a “OHP Open Card NEMT rider guide” that meets the delivery and content specifications defined by the Authority. The brokerage’s written policies and procedures regarding NEMT services must be shared to subcontractors and shall be available upon request to the Authority for review. 
+
+ (f) Allow a client or their representative, including providers in accordance with OAR 410-172-0780, to schedule: 
+
+ (A) NEMT services up to ninety (90) days in advance; 
+
+ (B) Multiple NEMT services at one time for recurring appointments up to ninety (90) days in advance; and 
+
+ (C) Same-day NEMT services. 
+
+ (g) Comply with the following criteria for client drop-offs and pick-up protocols. A brokerage or subcontractors’ drivers are not permitted to: 
+
+ (A) Drop off a client at an appointment more than 15 minutes prior to the office or other facility opening for business unless requested by the client or, as applicable, the client’s guardian, parent, or representative; and 
+
+ (B) Pick up a client from an appointment more than 15 minutes after the office or facility closes for business unless the appointment is not reasonably expected to end within 15 minutes after closing, or as requested by the client, or as applicable, the client’s guardian, parent, or representative. 
+
+ (h) The brokerage shall provide to the client, or as applicable, the client’s guardian, parent, or representative the name of subcontractor, or name and telephone number of the driver when available; 
+
+ (i) The brokerage shall confirm the scheduled pick-up time and address with the client; 
+
+ (j) The brokerage shall make reasonable efforts to arrange a ride requested on the day of the medical service when the service is: 
+
+ (A) For an urgent medical condition; and 
+
+ (B) Due to the urgency of the medical condition, the client scheduled an immediate medical appointment. 
+
+ (14) The brokerage is not responsible for providing emergency medical transportation services. However, brokerages shall have procedures for referring clients requesting emergency medical transportation services to the appropriate emergency transportation resources and procedures for subcontractors per OAR 410-136-3040, Vehicle Equipment and Subcontractor Standards. 
+
+ (15) The Authority shall collaborate with brokerages and CCOs to develop and conduct a statewide client NEMT satisfaction survey at least once every two years. The Authority may contract with one or more brokerages, or a third party, to conduct the survey. The Authority shall use the results of the survey to identify and address potential operational deficiencies and to identify and share successes in the NEMT program. 
+
+ (16) Brokerages shall establish regional advisory groups consisting of representatives from the Authority, ODHS, Area Agencies on Aging, consumers, representatives of client advocacy groups from within the service or local area, brokerage subcontractors, and providers of NEMT ambulance services. The role of the group includes, but is not limited to: 
+
+ (a) Assisting in monitoring and evaluating the NEMT program; and 
+
+ (b) Recommending potential policy or procedure changes and program improvements to brokerages and the Authority and assisting in prioritizing those changes and improvements. 
+
+ (17) Brokerages shall have the discretion to use or not use Oregon Department of Human Services (ODHS)-approved volunteers. ODHS shall provide brokerages with a list of approved and trained volunteers. ODHS shall supervise the volunteers and assumes all liability for each volunteer as provided by law. 
+
+ (18) Brokerages or their subcontractors shall not bill eligible client for any NEMT service to and from a covered service or any transports where the Authority denies reimbursement. Brokerages or their subcontractors shall not collect payment from the client, or assign an unpaid claim to a collection agency, or similar entity pursuant to ORS 414.066. 
+
+ (19) On a minimum of five percent of the ride requests, brokerages shall contact medical providers to verify appointments and that the appointments are for covered medical services. 
+
+ (20) Brokerages may purchase tickets for common carrier transportation, such as inter- or intra-city bus, train, or commercial airline when deemed cost effective and safe for the client. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.065 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 152-2024, amend filed 12/30/2024, effective 01/01/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 96-2024, temporary amend filed 05/31/2024, effective 06/01/2024 through 11/27/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 95-2023, amend filed 12/22/2023, effective 01/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 89-2023, amend filed 12/19/2023, effective 12/20/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 55-2023, temporary amend filed 06/30/2023, effective 07/01/2023 through 12/27/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 20-2022, minor correction filed 02/16/2022, effective 02/16/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 29-2014, f. & cert. ef. 5-20-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 69-2013(Temp), f. 12-24-13, cert. ef. 1-1-14 thru 6-30-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 36-2013, f. 6-27-13, cert. ef. 7-1-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

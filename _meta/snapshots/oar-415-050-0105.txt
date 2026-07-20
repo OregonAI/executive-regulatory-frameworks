@@ -1,0 +1,425 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Addiction Services - Chapter 415 
+ 
+ 
+ 
+ 
+ Division 50 STANDARDS FOR ALCOHOL DETOXIFICATION CENTERS 
+ 415-050-0105 
+ Definitions
+ 
+ 
+ The following definitions apply to 415-050-0100 through 415-050-0195. 
+
+ (1) "Abuse of an Adult" means the circumstances defined in ORS 430.735 and OAR Chapter 407, Division 45 for abuse of an adult with mental illness or who is receiving residential substance use disorder treatment or withdrawal management services. 
+
+ (2) “Admission” means the act or process of enrollment into services regulated by these rules. 
+
+ (3) “ASAM” means The American Society of Addiction Medicine, Third Edition (ASAM). 
+
+ (4) “The ASAM Criteria " means the criteria in the Third Edition of The American Society of Addiction Medicine (ASAM) Criteria for the assessment, level of care placement and treatment of addictive, substance-related, and co-occurring conditions. The ASAM Criteria is a clinical guide to developing patient-centered service plans and making objective decisions about admission, continuing care, and transfer or discharge for patients. The ASAM Criteria is incorporated by reference in these rules. 
+
+ (5) “ASAM Dimensional Admission Criteria” means the specifications described in the ASAM Criteria for determining that a patient is appropriately admitted to a program based on six ASAM assessment dimensions. The criteria, dimensions and number of dimensions indicated differs per level of care and is described within The ASAM Criteria, Third Edition. 
+
+ (6) “ASAM Level of Care” means one of several discrete intensities of services and supports, as described within The ASAM Criteria, Third Edition, within a substance use disorders program that are delivered in a structured, programmatic fashion, by a certified outpatient or licensed residential provider.   
+
+ (7) “Adolescent” means an individual from 12 through 21 years of age or those individuals who are determined to be developmentally appropriate for such services. 
+
+ (8) “Adolescent ASAM Level 3.7-WM Medically Monitored Withdrawal Management (ASAM Level 3.5-WM)” means a medical, inpatient setting as described in The ASAM Criteria, Third Edition that provides 24-hour medically monitored intensive inpatient withdrawal management services for adolescent patients assessed at ASAM Level 3.7-WM. Adolescent patients meeting criteria to be admitted to this level of care experience moderate to severe withdrawal syndrome and therefore require 24-hour nursing care and LMP visits as needed. 
+
+ (9) "Adult" means an individual 18 years of age or older or an emancipated minor. An individual with Medicaid eligibility, who is in need of services specific to children, adolescents, or young adults in transition, shall be considered a child until age 21 for the purposes of these rules. Adults who are between the ages of 18 and 21, who are considered children for purposes of these rules, shall have all rights afforded to adults as specified in these rules. 
+
+ (10) “Adult ASAM Level 3.2-WM Clinically Managed Residential Withdrawal Management (ASAM Level 3.2-WM)” means a setting as described in The ASAM Criteria, Third Edition in which patients experience moderate withdrawal symptoms and need 24-hour support to complete withdrawal management and increase the likelihood of continuing treatment or recovery. Clinically managed services are directed by non-physician addiction specialists rather than medical and nursing personnel. This level emphasizes peer and social support and is for patients whose intoxication is sufficient to warrant 24-hour support or whose withdrawal symptoms are sufficiently severe to require primary medical nursing care services. 
+
+ (11) “Adult ASAM Level 3.7-WM Medically Monitored Withdrawal Management (ASAM Level 3.7-WM)” means a medical, inpatient setting as described in The ASAM Criteria, Third Edition that provides 24-hour medically monitored intensive inpatient treatment services for patients assessed at ASAM Level 3.7-WM. Patients who meet criteria for admission to this level of care experience severe withdrawal syndrome and need 24-hour nursing care and LMP visits as needed. 
+
+ (12) “Assessment” means the process of obtaining sufficient information through one or more face-to-face interview(s) to determine a diagnosis and to plan individualized services and supports. 
+
+ (13) “Oregon Health Authority (Authority) or (OHA)” means the Oregon Health Authority of the state of Oregon. 
+
+ (14) “Community Mental Health Program (CMHP)” an entity that is responsible for planning and delivery of safety net services for persons with mental or emotional disturbances, drug abuse problems, and alcoholism and alcohol abuse in a specific geographic area of the state under a contract with the Division or a local mental health authority and pursuant to OAR Chapter 309, Division 014. 
+
+ (15) “Care Coordination” means a process-oriented activity to facilitate ongoing communication and collaboration to meet multiple needs. Care coordination includes facilitating communication between the family, natural supports, community resources, and involved providers and agencies; organizing, facilitating, and participating in team meetings; and providing for continuity of care by creating linkages to and managing transitions between levels of care or transitions for young adults in transition to adult services. 
+
+ (16) "Clinical Supervision" means oversight by a qualified clinical supervisor of the rendering of physical health, substance use, problem gambling, and mental health services and supports, according to these rules, including ongoing evaluation and improvement of the effectiveness of those services and supports. 
+
+ (17) "Clinical Supervisor" means program staff qualified to oversee and evaluate the rendering of physical health, substance use, problem gambling, or mental health services and supports. 
+
+ (18) “Collaborative Educational Agreement” means an individualized written arrangement between an accredited college or university and a Division-certified provider pertaining to a student’s internship or field placement experience. 
+
+ (19) “Community Health Worker (CHW)” means personnel who meets qualification criteria adopted by the authority under ORS 414.665 and who is certified pursuant to the requirements in OAR 410-180-0310. 
+
+ (20) “Consistent with ASAM Criteria” means containing information that demonstrates use of and adherence to the description of components contained within The ASAM Criteria, Third Edition. 
+
+ (21) “Coordinated Care Organization (CCO)” means a corporation, governmental agency, public corporation or other legal entity that is certified as meeting the criteria adopted by the Oregon Health Authority under ORS 414.625 to be accountable for care management and to provide integrated and coordinated health care for each of the organization’s members. 
+
+ (22) "County" means the board of county commissioners or its representatives. 
+
+ (23) "Criminal Records Check" means documenting the criminal background check results for all employees, contracted staff and interns that render medical or behavioral health services and supports or have access to protected health information such as service records or billing information. 
+
+ (24) “Critical Incident” means any unanticipated event that threatens health, safety or the structural integrity of the facility and is documented in an Incident Report. Critical Incidents are reported to the Division.  
+
+ (25) "Cultural Competence" means the process by which people and systems respond respectfully and effectively to people of all cultures, languages, classes, races, ethnic backgrounds, disabilities, religions, genders, sexual orientations, and other diversity factors in a manner that recognizes, affirms, and values the worth of patients, families, and communities and protects and preserves the dignity of each. 
+
+ (26) “Culturally Responsive” means services that are respectful of and relevant to the beliefs, practices, culture and linguistic needs of diverse consumer/client populations and communities whose members identify as having particular cultural or linguistic affiliations. Cultural responsiveness describes the capacity to respond to the issues of diverse communities. It thus requires knowledge and capacity at different levels of intervention: systemic, organizational, professional, and patient. 
+
+ (27) "Diagnosis" means the principal substance use disorder diagnosis consistent with the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5-TR). The diagnosis is determined through the assessment and any examinations, tests, or consultations suggested by the assessment and is the medically necessary reason for services. 
+
+ (28) "Division" means the Health Systems Division of the Oregon Health Authority, or its designee. 
+
+ (29) “Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, (DSM-5-TR)” means the textbook used to diagnose and classify mental disorders that is published by the American Psychiatric Association. 
+
+ (30) “Episode of Care" means the period of care that begins at admission and ends at discharge. 
+
+ (31) "Grievance" means a formal complaint submitted to a provider verbally, or in writing, by a patient, or the patient’s chosen representative. 
+
+ (32) “Face to Face” means a personal interaction where both words can be heard, and facial expressions can be seen in person or through telehealth services where there is a live streaming audio and video. 
+
+ (33) “Health Insurance Portability and Accountability” (HIPAA) means the federal Health Insurance Portability and Accountability Act of 1996 and the regulations published in Title 45, parts 160 and 164, of the Code of Federal Regulations (CFR). 
+
+ (34) “Incident” means any event involving an individual or child of an individual receiving services occurring on the premises of the program or involving program staff or during a stabilization plan or care coordination plan activity and including but not limited to injury, major illness, accident, act of physical aggression, medication error, suspected abuse or neglect, or any other unusual or critical event that presents a risk to health and safety. Critical incidents are reported to the Division. 
+
+ (35) “Incident Report” means a written description of any incident. 
+
+ (36) "Informed Consent for Services" means that the service options, risks and benefits have been explained to the patient and guardian, if applicable, in a manner and language that they comprehend, and the patient and guardian, if applicable, have consented to the services or prior to or on the first date of service. 
+
+ (37) “Institutions of Mental Disease (IMD)” means a hospital, nursing facility, or other institution of more than 16 beds that is primarily engaged in providing diagnosis, treatment, or care of individuals with mental diseases, which includes substance use disorders (SUDs). 
+
+ (38) "Level of Care" means the type, frequency, and duration of medically necessary services provided from the most integrated setting to the most restrictive and intensive inpatient setting. 
+
+ (39) “Licensed Health Care Professional” means a practitioner of the healing arts acting within the scope of their practice under State law who is licensed by a recognized governing board in Oregon. 
+
+ (40) "Licensed Medical Practitioner (LMP)” means an individual who meets the following minimum qualifications as documented by the Local Mental Health Authority (LMHA) or designee: 
+
+ (a) Physician licensed to practice in the State of Oregon; or 
+
+ (b) Nurse practitioner licensed to practice in the State of Oregon; or 
+
+ (c) Physician's Assistant licensed to practice in the State of Oregon; and 
+
+ (d) Whose training, experience and competence demonstrate the ability to conduct a medical exam, a mental health assessment and provide medication management. 
+
+ (41) “Local Mental Health Authority (LMHA)” means one of the following entities: 
+
+ (a) The board of county commissioners of one or more counties that establishes or operates a CMHP; 
+
+ (b) The tribal council, in the case of a federally recognized tribe of Native Americans that elects to enter into an agreement to provide mental health services; or 
+
+ (c) A regional local mental health authority comprised of two or more boards of county commissioners. 
+
+ (42) "Mandatory Reporter" means anyone required by law, as defined in ORS 419B.005 or 430.735, who is required to report suspected abuse or neglect of a child, elderly person, or other adult as required by law in ORS 430.765, ORS 419B.010, or ORS 124.060. 
+
+ (43) "Medicaid" means the federal grant-in-aid program to state governments to provide medical assistance to eligible patients under Title XIX of the Social Security Act. 
+
+ (44) “Medical Assessment” means an assessment by or under the direction of a physician who is licensed to practice medicine in Oregon. The medical assessment includes a complete physical examination and a thorough comprehensive health history, which includes review of behavioral and physical health diagnoses, a description of behavior problems, prior evaluations, and treatment history. The medical assessment also reviews current use of prescription and over-the-counter medications. 
+
+ (45) "Medical Director" means a physician licensed to practice medicine in the State of Oregon and who is designated by a substance use disorders treatment program to be responsible for the program's medical services, either as an employee or through a contract. 
+
+ (46) "Medical Treatment" means the planned, medically necessary, individualized program of medical procedures and counseling services designed to address symptoms of a DSM-5-TR diagnosis. 
+
+ (47) “Medically Necessary” means health services and items that are required for an individual to address one or more of the following: 
+
+ (a) The prevention, diagnosis, or treatment of an individual’s condition or disorder that results in behavioral health impairments; or 
+
+ (b) The ability for a client or member to achieve age-appropriate growth and development; and 
+
+ (c) A medically necessary service must also be medically appropriate. 
+
+ (48) "Medical Treatment Staff" means program staff who are properly trained, educated, and credentialed to deliver medical services and who, while working within their scope of practice, are directly responsible for the delivery or oversight of withdrawal management services. 
+
+ (49) "Medication" means any drug, chemical, compound, suspension, or preparation in suitable form for use as a curative or remedial substance either internally or externally by any patient. 
+
+ (50) “Medication Administration Record (MAR)” means the documentation of the administration of written or verbal orders for medication, laboratory and other medical procedures issued by a LMP acting within the scope of their license. 
+
+ (51) “Medications for Assisted Treatment (MAT)” means the use of medication in combination with counseling and behavioral therapies for the treatment of substance use disorders. 
+
+ (52) “Motivational Enhancement Therapy” (MET) means a person-centered approach to therapy that focuses on improving a patient's motivation to change.  
+
+ (53) “Non-Institutions of Mental Disease (Non-IMD)” means a hospital, nursing facility, or other institution with less than 16 beds that is primarily engaged in providing diagnosis, treatment, or care of individuals with mental diseases, which includes substance use disorders (SUDs). 
+
+ (54) “Non-Medical Program Staff” means an individual who, by employment, contract, or volunteer agreement, or internship agreement with the program, provides a service or support within their scope of practice that is not medical and who has the applicable competencies, qualifications, or certification required in this rule to provide the corresponding non-medical service or support. 
+
+ (55) “Nursing Services” means services that are provided by a registered nurse (RN) or a licensed practical nurse (LPN), Advanced Practice Nurse including Clinical Nurse Specialist, or Certified Nurse Practitioner, licensed by the Oregon Board of Nursing within the scope of practice as defined in OAR chapter 851 division 045. 
+
+ (56) “On-site” means staff are physically present within the licensed facility, on duty, readily accessible and available to assist individuals. 
+
+ (57) "Patient" means an individual receiving withdrawal management services. 
+
+ (58) “Peer” means any person supporting a patient or the patient’s family member who has similar life experience, either as a current or former recipient of substance use, problem gambling, or mental health services, or as a family member of a patient who is a current or former recipient of substance use, problem gambling, or mental health services. 
+
+ (59) "Peer Support Specialist (PSS)” means a qualified program staff providing peer-delivered services to a patient or family member with similar life experience under the supervision of a qualified clinical supervisor and a qualified peer-delivered services supervisor as resources are made available. 
+
+ (60) “Peer Support and Peer Wellness Specialist Supervision" means supervision by a qualified clinical supervisor and a qualified peer-delivered services supervisor as resources are available. The supports provided include guidance in the unique discipline of peer-delivered services and the roles of peer support specialists and peer wellness specialists. 
+
+ (61) “Peer-Delivered Services Supervisor" means a qualified program staff, with at least one year of experience as a PSS or PWS in behavioral health services, who is responsible for evaluating and guiding PSS and PWS program staff in the delivery of peer-delivered services and supports. 
+
+ (62) “Peer Wellness Specialist (PWS)” means a program staff who supports a patient in identifying behavioral health service and support needs through community outreach, assisting patients with access to available services and resources, addressing barriers to services, and providing education and information about available resources and behavioral health issues in order to reduce stigma and discrimination toward consumers of behavioral health services and to provide direct services to assist patients in creating and maintaining recovery, health, and wellness under the supervision of a qualified clinical supervisor and a qualified peer-delivered services supervisor as resources are made available. 
+
+ (63) "Program" means an organized system of services and supports delivered by a provider designed to address the treatment needs of patients and families. 
+
+ (64) "Program Administrator" or "Program Director" means program staff with appropriate professional qualifications and experience who is designated to manage the operation of a program. 
+
+ (65) "Program Staff" means personnel who renders a clinical service or support. Program staff could include, for example, be an employee, contractor, intern, or volunteer who is rendering or assisting with rendering clinical services or supports.   
+
+ (66) "Provider" means an organizational entity or qualified individual that is certified or licensed by the Division for the direct delivery of substance use, problem gambling, or mental health services and supports. 
+
+ (67) “Publicly Funded” means financially supported, in part or in full, with revenue from a local, state or federal government. 
+
+ (68) "Psychiatrist" means a physician licensed by the Oregon Medical Board and who has completed an approved residency training program in psychiatry. 
+
+ (69) "Psychologist" means an individual who is currently licensed to practice psychology by the Oregon Board of Psychology. 
+
+ (70) "Quality Assessment and Performance Improvement" means the structured, internal monitoring and evaluation of services to improve processes, service delivery, and service outcomes. 
+
+ (71) "Representative" means someone who acts on behalf of a patient at the patient’s request with respect to a grievance, including but not limited to a relative, friend, employee of the Division, attorney, or legal guardian. 
+
+ (72) "Restraints" means any chemical or physical methods or devices that are intended to restrict or inhibit the movement, functioning, or behavior of a patient. 
+
+ (73) "Screening" means the process to determine whether the patient needs further assessment to identify need for referrals or services and supports. 
+
+ (74) "Seclusion" means the involuntary confinement of a resident alone in a room or an area from which the resident is physically prevented from leaving. 
+
+ (75) “Service Delivery Rules” means the OAR describing specific regulatory standards for the possible array of services covered by licenses issued under Chapter 415, Division 012. 
+
+ (76) “Service Note” means the written record of services and supports provided, including documentation of progress toward intended outcomes, consistent with the timelines stated in the stabilization or care coordination plan. 
+
+ (77) “Service Record” means the documentation, written or electronic, regarding a patient and resulting from admission, assessment, stabilization services and supports planning, stabilization services and supports provided, and transfer. 
+
+ (78) "Services" means those activities and treatments described in the Stabilization or care coordination Plan that are intended to assist the patient's stabilization, withdrawal management and transition to recovery from a substance use disorder. 
+
+ (79) “Signature” means any written or electronic means of entering the name, date of authentication and credentials of the individual providing a specific service, or the individual authorizing services and supports. Signature also means any written or electronic means of entering the name and date of authentication of the patient receiving services, the guardian of the patient receiving services, or any authorized representative of the patient receiving services. 
+
+ (80) “Stabilization” means the application of medical and psychosocial services and supports, through a services plan, and in a manner that results in the reduction of symptomology and increase in skill level to support and redirect patients to the most appropriate and least restrictive setting. Services are directed at restoring patients’ ability to maintain safety while enhancing their recovery, so they can successfully reintegrate into identified community settings. 
+
+ (81) “Stabilization Plan” means an individualized plan of medical interventions that sufficiently resolve the withdrawal symptoms or syndrome, and identifies the conditions needed for the patient to safely transition to the next identified ASAM Level of Care. 
+
+ (82) “Status Data” means data collected through the mandated state data system and includes, but is not limited to: 
+
+ (a) Initial admission, diagnostic, and demographics data; 
+
+ (b) Updates and changes as indicated through the patient’s enrollment in services; and 
+
+ (c) Discharge or other discontinuation of services. 
+
+ (83) “Student Intern” or “Intern” means a program staff who provides a paid or unpaid program service and does not qualify as a Mental Health Intern. 
+
+ (84) “Substance Use Disorders (SUD)” as defined in DSM-5-TR means disorders related to the taking of a drug of abuse including alcohol, to the side effects of a medication, or a toxin exposure. The disorders include substance use disorders and substance-induced disorders, which include  substance intoxication and, withdrawal, and substance-related disorders such as delirium, neuro-cognitive disorders, and substance- induced psychotic disorder. 
+
+ (85) "Substance Use Prevention and Treatment and Recovery Block Grant” or “SUPTR Block Grant” means the federal block grants for prevention and treatment of substance abuse under Public Law 102-321 (31 U.S.C. 7301-7305) and the regulations published in Title 45 Part 96 of the Code of Federal Regulations. 
+
+ (86) “Substance Use Disorders (SUD) Treatment Staff” means one type of program staff certified by a Division-approved certification body to render substance use disorders treatment services: 
+
+ (87) “Supports” means activities, referrals and supportive relationships designed to enhance the services delivered to patients and families for the purpose of facilitating progress toward intended outcomes. 
+
+ (88) “Transfer” means the process of assisting a patient to transition from the current services to the next identified setting or ASAM level of care. 
+
+ (89) “Trauma Informed Services” means services that reflect the consideration and evaluation of the role that trauma plays in the lives of people seeking mental health and addictions services, including recognition of the traumatic effect of misdiagnosis and coercive treatment. Services are responsive to the vulnerabilities of trauma survivors and are delivered in a way that avoids inadvertent re-traumatization and facilitates patient direction of services. 
+
+ (90) "Treatment" means the planned, medically necessary, individualized program of medical, psychological, and rehabilitative procedures, experiences and activities designed to remediate symptoms of a medical condition or DSM-5-TR diagnosis. 
+
+ (91) “Unethical” means any conduct that is incongruent with the American Counseling Association’s (ACA) Code of Ethics. The fact that a given conduct is not specifically addressed by an ethical standard does not mean that it is necessarily either ethical or unethical. Lack of awareness or misunderstanding of an ethical standard is not itself a defense to a charge of unethical conduct. 
+
+ (92) "Urinalysis Test" means a urine sample provided by a patient that is tested by the program using a sensitive, rapid, and inexpensive immunoassay screen to eliminate "true negative" specimens from further consideration. 
+
+ (93) "Variance" means an exception from a provision of these rules granted in writing by the Division pursuant to the process regulated by OAR 415-012-0090 upon written application from the provider. Approval and duration of a variance is determined on a case-by-case basis. 
+
+ (94) "Volunteer" means a person who performs a service willingly and without pay. 
+
+ (95) “Withdrawal Management Technician” means personnel who supports program staff in the promotion of maintaining a safe and orderly subacute environment and who may provide direct patient care. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042 & 430.256 
+ 
+ 
+ Statutes/Other Implemented:  430.345 - 430.375 & ORS 430.306 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ADS 3-2023, amend filed 04/07/2023, effective 04/07/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ADS 1-2023, renumbered from 415-050-0005, filed 01/20/2023, effective 01/20/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ADS 6-2013, f. & cert. ef. 8-1-13 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ ADS 3-2013(Temp), f. & cert. ef. 2-4-13 thru 8-2-13 
+ADS 2-2008, f. & cert. ef. 11-13-08 
+ADAP 3-1993, f. & cert. ef. 12-6-93, Renumbered from 309-050-0005 
+MHD 15-1983, f. 7-27-83, cert. ef. 10-25-83, Renumbered from 309-052-0000(3) 
+MHD 45, f. & cert. ef. 7-20-77 
+MHD 15(Temp), f. 1-16-74, cert. ef. 2-1-74 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

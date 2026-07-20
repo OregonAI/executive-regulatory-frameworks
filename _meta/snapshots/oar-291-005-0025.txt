@@ -1,0 +1,218 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Corrections 
+ Chapter 291 
+ 
+ 
+ 
+ 
+ 
+ Division 5 NETWORK INFORMATION SYSTEM ACCESS AND SECURITY 
+ 291-005-0025 
+ Access Authorization
+ 
+ 
+ (1) Only authorized users shall be allowed access to Department of Corrections information systems. 
+
+ (2) Authorized users shall be granted access to Department of Corrections information systems on a need-to-use basis. Such access will be controlled by a password. MFA will be required in some instances to access agency information systems. 
+
+ (3) Requests for user access and termination of user access shall be accepted by the Department of Corrections ISO or designee from functional unit managers or their designees only. These personnel shall handle all requests for access and termination for their functional unit. Letters of agreement with external organizations for access to Department of Corrections information systems shall clearly indicate the process and authority for user access authorization. Users from external organizations must comply with this rule. 
+
+ (4) No person presently or previously under the custody, control, or supervision of Department of Corrections or its agents shall be granted access to any computers or systems which contain data or are connected to any Department of Corrections information system unless the request for access has been recommended by the functional unit manager to the ISO for review and initial approval. Final approval for such access will be determined by the Assistant Director of Administrative Services. 
+
+ (5) Functional unit managers or their designees shall identify their staff who have a need to use Department of Corrections information systems and shall be responsible for the following process for authorization: 
+
+ (a) Functional unit managers or their designees are responsible to ensure that criminal history checks and Criminal Justice Information Systems (CJIS) clearance checks have been done on all persons for whom they request authorization to access Department of Corrections information systems. This includes contractors, volunteers, temporary staff, regular employees, and OCE employees. 
+
+ (b) Security Agreement: 
+
+ (A) All persons requesting access to Department of Corrections information systems must sign a security agreement which indicates that they understand they are responsible to protect agency assets, including computers and information, in accordance with the department’s rules on release of public information; files, records, and detainers; and network and information system access and security. 
+
+ (B) Security agreements are to be maintained within each staff member’s employee file. 
+
+ (c) Authorization Form: 
+
+ (A) The user’s functional unit manager or designee shall complete an authorization form requesting access to any Department of Corrections network, application, folder, or asset including modification of such access. 
+
+ (B) A separate request form shall be completed if the user is requesting approved telework access. 
+
+ (C) Authorization forms shall be signed by the functional unit manager or designee for the functional unit or external organization and shall be forwarded to the Department of Corrections ISO or designee who shall generate a user account allowing the access requested. The Department of Corrections ISO or designee shall notify the user when the profile is activated and access is authorized. 
+
+ (d) Training: The user shall be required to complete information security training within 30 days of account creation. Notification of completion of training shall be forwarded to the Department of Corrections ISO or designee. Account access will be disabled if the required training module(s) are not completed within the allotted 30 days. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 179.040, 423.020, 423.030 & 423.075 
+ 
+ 
+ Statutes/Other Implemented:  ORS 179.040, 423.020, 423.030 & 423.075 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 5-2024, amend filed 04/29/2024, effective 04/29/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 11-2000, f. & cert. ef. 6-19-00 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ DOC 23-1999(Temp), f. & cert ef. 12-22-99 thru 6-19-00 
+DOC 16-1999, f. 9-24-99, cert. ef. 10-1-99 
+CD 10-1997, f. & cert. ef. 6-20-97 
+CD 24-1992, f. 11-24-92, cert. ef. 12-1-92 
+CD 12-1986, f. & cert. ef. 6-30-86 
+CD 38-1985, f. & cert. ef. 8-16-85 
+CD 7-1981, f. & cert. ef. 4-17-81 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

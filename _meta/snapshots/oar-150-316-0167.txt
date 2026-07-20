@@ -1,0 +1,181 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 316 PERSONAL INCOME TAX GENERAL PROVISIONS 
+ 150-316-0167 
+ Gross Income of Nonresidents; Pensions and Retirement Income Received by Oregon Domiciliaries 
+ 
+ The provisions of this rule apply to pension and retirement income received after December 31, 1999, by persons who are domiciled in Oregon but who are taxed as nonresidents under Oregon law.  (1) Definitions.  (a) Qualified Employer Retirement Benefit Plan. “Qualified employer retirement benefit plan” means any employer-related plan that is defined and administered pursuant to part I of subchapter D of chapter 1 of subtitle A of the Internal Revenue Code. This includes, but is not limited to, the following employer administered plans: qualifying pension and profit sharing plans, annuity plans, cash or deferred compensation arrangements, or tax-shelter annuity plans.  (b) Qualified Employee Retirement Benefit Plan. “Qualified employee retirement benefit plan” means any plan established and maintained solely by an employee or on the employee’s behalf that is defined and administered pursuant to part I of subchapter D of chapter 1 of subtitle A of the Internal Revenue Code. This includes, but is not limited to, the following employee-related plans: individual retirement accounts, individual retirement annuities, simplified employee pension plans, or self-employed retirement plans.  (2)(a) General provisions. In general, Oregon nonresident taxpayers who have not given up their Oregon domicile must include in Oregon taxable income distributions received from qualified employer and employee retirement benefit plans that are derived from or connected with services performed in Oregon. Only contributions made to a retirement plan while the employee was performing services in Oregon are considered Oregon source income when received by the nonresident taxpayer. Resident taxpayers include in Oregon taxable income the same amount of the distribution as included for federal purposes regardless of where the services were performed or when the contributions were made to the plan.  Example 1: Joanne lived in Oregon and worked in Washington during her employment years. Upon her retirement, she moved her domicile to Florida. Her retirement income is not Oregon source income and is not subject to Oregon tax, because the job services were not performed in Oregon. Any retirement income actually or constructively received while an Oregon resident is subject to Oregon tax under ORS 316.048.  Example 2: Doug always lived and worked in Colorado. Subsequent to his retirement, he moved to Oregon and became an Oregon resident. While he remains an Oregon resident, all of his retirement distributions are subject to Oregon tax under ORS 316.048. If he later moves out of Oregon, none of the distributions received after his change of residence are subject to Oregon tax.  (b) Exception. If the compensation is not taxable by Oregon due to federal Public Law (P.L.) 101-322, then the related retirement benefits are not taxable. See OAR 150-316-0173 regarding P.L. 101-322.  (3) Qualified Employer Retirement Benefit Plans.  (a) General. Contributions or compensation paid by an employer pursuant to any qualified employer’s retirement benefit plan must be included in Oregon taxable income when received by a nonresident taxpayer who is domiciled in Oregon if such contribution or compensation is derived from or attributable to Oregon sources. For purposes of this subsection, “taxpayer” means the employee or any other beneficiary of the employee’s interest in the plan. This income is from Oregon sources if it relates to services performed in Oregon.  (b) If the employee is receiving a single-life annuity, the employee must first compute the expected return using the tables set forth in Treas. Reg. Section 1.72-9, and then make the applicable allocations set forth below to determine the Oregon source amount. Once the Oregon source amount is determined, use Example 4 under subsection (3)(d) of this rule to determine the amount of income to be reported to Oregon each year. If the retirement account also contained employee contributions, the employee must compute and apply the Oregon exclusion ratio defined in subsection (3)(d)(B) of this rule.  (c) The next two examples are intended to help define Oregon source income and are based on the assumption that the employee is receiving distributions from a profit sharing account that contains only the employer’s contributions, plus interest earnings. Because profit sharing distributions may be irregular in both the timing and amount of the distribution, at the employee’s election, expected return cannot be computed for these accounts.  Example 3: Sam lived and worked in Oregon until retirement in January 2000. At retirement he kept his Oregon domicile and moved to Arizona on a temporary basis, intending to return to Oregon in a few years. Sam is taxed as a nonresident under the provisions of ORS 316.027. His retirement account balance at retirement was $100,000. This included $30,000 in employer contributions and $70,000 in earnings. Of this amount, $30,000 is Oregon source income and is subject to Oregon tax as long as he remains domiciled in Oregon. Earnings on the account are not subject to Oregon tax if they were not actually or constructively received until after he left Oregon. Sam files an Oregon nonresident return and reports 30 percent of each distribution each year until $30,000 has been reported to Oregon.  (d) If an employee, while performing services within Oregon, makes contributions to a qualified employer retirement benefit plan, those contributions are considered part of the taxpayer’s basis to the extent the employee has received no tax benefit with respect to such contributions. For purposes of the following examples, the following phrases are defined.  (A) Employee contributions. “Employee contributions” means those contributions made to a qualified employer retirement benefit plan by an employee while the employee was performing services in Oregon.  (B) Oregon exclusion ratio. “Oregon exclusion ratio” means the ratio of the total employee contributions plus total earnings to the total expected return. Total expected return is to be calculated using the tables set forth in Treas. Reg. Section 1.72-9.  (C) Oregon annual exclusion amount. “Oregon annual exclusion amount” means the product of the total distributions received during a taxable period and the Oregon exclusion ratio.  (D) Oregon receipts. “Oregon receipts” mean the excess of the total distributions received during a taxable period over the Oregon annual exclusion amount.  (E) Oregon taxable percentage. “Oregon taxable percentage” means the ratio of the total Oregon source distributions to the total expected return net of the employee’s contributions. The total Oregon source distributions means the amount subject to Oregon tax. This includes the employer contributions or compensation amounts relating to services performed within Oregon.  (F) Amount currently taxable for Oregon purposes. “Amount currently taxable for Oregon purposes” means the product of the Oregon receipts and the Oregon taxable percentage.  Example 4: Assume the same facts as in Example 3, except that Sam receives his benefits in the form of a single-life annuity to be paid at $1,200 per month for the rest of his life. His expected return using the annuity tables pursuant to Treas. Reg. Section 1.72-9 is $216,000 ($1,200/mo. x 12 months x 15.0 (from Table I)). The amount of income he reports to Oregon for each payment is $167 ($1,200/mo. x ($30,000 ÷ $216,000)) or $2,000 annually until the entire $30,000 has been reported to Oregon.  (4) Qualified Employee Retirement Benefit Plans. Distributions from qualified employee retirement benefit plans must be included in Oregon taxable income to the extent a tax benefit was received for Oregon purposes with respect to the contributions made by the taxpayer. Interest or other income earned on such contributions is taxable by Oregon only to the extent distributed while the taxpayer was an Oregon resident. Oregon taxable income includes all distributions until the taxpayer has recovered the total amount of distribution subject to Oregon tax.  Example 5: Assume the same facts as Example 3, except that Sam also invested in an individual retirement arrangement (IRA) while living and working in Oregon His balance in the IRA at retirement is $63,000 ($20,000 of his tax deductible contributions and $43,000 of earnings). Any IRA distribution included in federal taxable income will also be taxable to Oregon until Sam has reported a total of $20,000 to Oregon. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 
+ 
+ 
+ Statutes/Other Implemented:  ORS 316.127 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 150-316.127-(B), REV 62-2016, f. 8-15-16, cert. ef. 9-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ REV 5-2000, f. & cert. ef. 8-3-00 
+RD 6-1996, f. 12-23-96, cert. ef. 12-31-96 
+RD 7-1991, f. 12-30-91, cert. ef. 12-31-91 
+RD 7-1989, f. 12-18-89, cert. ef. 12-31-89 
+12-31-87 
+12-31-85 
+12-31-84, Renumbered from 150-316.127(1) to 150-316.127 
+12-31-81 
+1-1-77 
+12-19-75 
+11-73 
+1-69
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

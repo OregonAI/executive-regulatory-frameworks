@@ -1,0 +1,245 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Transportation 
+ Chapter 731 
+ 
+ 
+ 
+ 
+ 
+ Division 5 PUBLIC CONTRACT RULES; HIGHWAY AND BRIDGE PROJECTS 
+ 731-005-0510 
+ Use of Electronic Data Interchange
+ 
+ 
+ (1) Agency Authorization. ODOT may authorize Offerors to submit EDI Offers. If ODOT determines that Bid security is or will be required, ODOT should not authorize EDI Offers unless ODOT has a method for receipt of such security. Prior to authorizing EDI Offers, ODOT must: 
+
+ (a) Establish administrative procedures and controls for receiving, identifying, recording, and safeguarding EDI Offers, to ensure timely delivery of the Offers to the Opening location and to preserve the sealed requirement of competitive procurement; 
+
+ (b) Determine whether ODOT's procedures, controls, equipment and personnel are capable of receiving the size and volume of anticipated EDI Offers within a short period of time; and 
+
+ (c) Make available to interested vendors an EDI trading partner or operating agreement. 
+
+ (2) EDI Operating Agreement. An EDI Operating Agreement must address the basic legal issues required to formalize an EDI relationship. The EDI Operating Agreement shall include the following: 
+
+ (a) Selection of EDI standards and methods of communication; 
+
+ (b) Allocation of responsibilities for ensuring that the equipment, software and services are operated and maintained effectively; 
+
+ (c) Procedures for making system changes that consider the impact on the parties’ ability to communicate; 
+
+ (d) Required security and authentication procedures and services; 
+
+ (e) The method for establishing receipt of Offers and for evidencing the Offeror is bound to its Offer; 
+
+ (f) The need , if any, for maintaining confidentiality; 
+
+ (g) The allocation of liabilities for failure to meet requirements under the EDI Operating Agreement; 
+
+ (h) Methods for resolving any disputes under the EDI Operating Agreement; and 
+
+ (i) Document backup and replacement procedures. 
+
+ (3) Provisions to be included in Solicitation. In addition to all other requirements, if ODOT authorizes an EDI Offer, ODOT will include in the Solicitation Document provisions substantially similar to the following: 
+
+ (a) An EDI Offer, as used in this solicitation, means an Offer, modification of an Offer, or withdrawal of an Offer that is transmitted to and received by ODOT in accordance with the EDI Operating Agreement between ODOT and Offeror. 
+
+ (b) An Offeror may submit an EDI Offer in response to this solicitation provided the Offeror has an effective EDI Operating Agreement with ODOT. The EDI Offer must be received as specified in the Solicitation Document. 
+
+ (c) An Offeror must Sign its EDI Offer in accordance with the EDI Operating Agreement between ODOT and the Offeror. 
+
+ (d) ODOT reserves the right to award the Contract based solely on the EDI Offer. Unless otherwise provided under the EDI Operating Agreement, the Offeror shall promptly submit conformed Signed documents upon ODOT's request. 
+
+ (e) Unless otherwise expressly agreed upon under the EDI Operating Agreement, ODOT is not responsible for any failure attributable to the transmission or receipt of the EDI Offer including, but not limited to the following: 
+
+ (A) Receipt of garbled or incomplete documents. 
+
+ (B) Availability or condition of the receiving equipment. 
+
+ (C) Incompatibility between the sending and receiving equipment. 
+
+ (D) Delay in transmission or receipt of documents. 
+
+ (E) Failure of the Offeror to properly identify the Offer documents. 
+
+ (F) Illegibility of Offer documents. 
+
+ (G) Security and confidentiality of data. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 184.619, 279A.050 & 279A.065 
+ 
+ 
+ Statutes/Other Implemented:  ORS 279A.065 & 279C.365 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOT 1-2024, amend filed 05/09/2024, effective 06/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOT 6-2022, amend filed 05/24/2022, effective 05/24/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOT 2-2005, f. 2-16-05, cert. ef. 3-1-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

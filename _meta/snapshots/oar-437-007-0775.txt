@@ -1,0 +1,173 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Oregon Occupational Safety and Health Division - Chapter 437 
+ 
+ 
+ 
+ 
+ Division 7 FOREST ACTIVITIES 
+ 437-007-0775 
+ Protective Structure For Operators, Machines Manufactured On Or After July 1, 2004 
+ 
+ NOTE: The scope of coverage in the SAE and ISO standards referenced in OAR 437-007-0775(11) and (14) are not intended to exclude any machines included in the scope of this Division.  (1) Machines manufactured on or after July 1, 2004, that permit the operator to stand on the ground adjacent to the machine while operating the machine:  (a) Are not required to have a fully enclosed cab.  (b) Must have overhead and landing chute side protection meeting the requirements of SAE J1084 April 80.  (2) Cabs and protective structures on forest activities machines manufactured on or after July 1, 2004, must have smooth, rounded edges and coverings free from projections which could puncture or tear flesh and clothing.  (3) Any machine operator cab, protective structure or attached guarding manufactured on or after July 1, 2004, that is damaged or weakened, to a strength less than that required by certified performance criteria must be replaced or immediately repaired.  (4) Repairs or modifications to major structural members of any operator cab, protective structure or attached guarding on machines manufactured on or after July 1, 2004, certified to performance criteria, must comply with the specific instructions of the original equipment manufacturer or be certified by a professional engineer.  (5) An operator restraint system must be provided and used on all machines manufactured on or after July 1, 2004, and equipped with ROPS, FOPS, reinforced cabs or overhead guards. The operator restraint system must:  (a) Comply with SAE J386 NOV97 or ISO 6683 Amended 1:1990.  (b) Be maintained in an effective condition.  EXCEPTION: Use of the operator restraint system is not required when operating yarders that are stationary.  (6) The level of protection provided by any machine operator cab, protective structure or attached guarding manufactured on or after July 1, 2004, must be identified by a label. The label must:  (a) Comply with the labeling requirements of ISO 3471:1994 or ISO 12117:1997 as applicable.  (b) Not claim that exclusion from a standard is equivalent to compliance with that standard.  NOTE: Machines capable of 360-degree upper structure rotation are excluded from the SAE J1040 MAY94 and ISO 8082:1994 standards for ROPS. In this case, the exclusion from these standards does not allow the label on a machine capable of 360-degree upper structure rotation to state compliance with SAE J1040 MAY94 or ISO 8082:1994.  (7) Each machine used in forest activities that is manufactured on or after July 1, 2004, must have a fully enclosed cab for the operator which prevents objects from entering the cab. The fully enclosed cab must have:  (a) The upper portion enclosed with materials that allow for maximum visibility and meets the Operator Protective Structure (OPS) requirements of SAE J1084 APR80 or ISO 8084:1993.  (b) Transparent material must not have defects, such as, but not limited to, scratches, cracks, or broken safety glass which could create a hazard for the operator.  (c) The lower portion enclosed with solid material meeting the requirements of SAE J1084: APR80 or ISO 8084:1993.  (d) The overhead covering enclosed with solid material meeting the FOPS requirements of ISO 8083:1989 (11,600 Joules).  EXCEPTION 1: 437-007-0775(7)(a) is not required for the front window in machines operating in sort yards, on landings and similar prepared surfaces which are equipped with front guards meeting the SAE J1356 FEB88 requirements.  EXCEPTION 2: 437-007-0775(7)(a) and (7)(c) are not required on machines operating in mill yards.  (8) The machine operator space in cabs and protective structures manufactured on or after July 1, 2004, must comply with ISO 3411:1995.  (9) Access to machine operator cabs and protective structures manufactured on or after July 1, 2004, must comply with SAE J185-1988 or ISO 2867:1994.  (10) Each fully enclosed cab installed on machines manufactured on or after July 1, 2004, must have a second means of egress which can be opened from both the inside and outside without tools.  (11) Machines capable of handling material in front of or above the deflection limiting volume (DLV), as defined by SAE J397 APR98, including yarders with cabs mounted next to the tower (boom), manufactured on or after July 1, 2004, must have a front and top guard meeting the requirements of SAE J1356:FEB88.  EXCEPTION: The rule does not apply to rubber-tired or tracked front-end loaders when equipped with buckets or forks with hold down grapple arm(s).  (12) Machines used for forest activities and those identified by SAE J1116 MAR99 that are manufactured on or after July 1, 2004, must:  (a) Be equipped with ROPS which meet the criteria in SAE J1040-1994 or ISO 8082:1994.  (b) Comply with the requirements of OAR 437-007-0775(2) through (11).  EXCEPTION 1: This rule does not apply to high mast log stackers used exclusively to lift, transport or stack logs in sorting yards or transfer stations.  EXCEPTION 2: This rule does not apply to machines capable of 360-degree upper structure rotation that are excluded from SAE J1040:May 94 and ISO 8082:1994 standards for ROPS.  (13) Shear or deflector guarding must be:  (a) Installed in front of each cab to deflect whipping saplings and branches.  (b) Located so they do not impede visibility and access to the cab.  EXCEPTION: This rule does not apply to rubber-tired loaders, scrapers and graders.  (14) Machines used for forest activities manufactured on or after July 1, 2004, that are excluded from the ROPS, SAE J1040:1994 or ISO 8082:1994 requirements because they are capable of 360 degree upper structure rotation must be equipped with fully enclosed cabs that meet the requirements of 437-007-0775(2) through (11). These machines must be limited to use on surfaces that are prepared, excavated or constructed of solid material with a slope of less than 20 percent unless the operator’s cab is equipped with the following additional protection:  (a) A Tip Over Protective Structure (TOPS) that meets the requirements of ISO 12117 1997:(E) with the exception of the “Formulae for the determination of energy required” In section 6.1.4 Table 1. The “Formulae for the determination of energy required” In Table 1 is changed as follows:  (A) The lateral energy equation is replaced with 7300(M/10,000)0.9 or 20,000 Joules, whichever is greater where M is the machine mass in kilograms.  (B) The longitudinal energy equation is replaced with 4300(M/10,000)0.9 or 12,000 Joules, whichever is greater where M is the machine mass in kilograms.  (b) An “Off-Boom Side Cab Guard” that complies with the “Front Guard” requirements of SAE J1356: FEB88.  (c) An “Off-Boom Side Cab Guard” that complies with 437-007-0775(14)(b) when the following modifications are made to SAE J1356:FEB88:  (A) Section 3.2. Each occurrence of the term “Front Guard” in this section is replaced with “Off Boom Side Cab Guard.”  (B) Section 3.2.4.1. The term “front of the DLV” on line 3 is replaced with “off boom side of the DLV”.  (C) Section 5.2. Each occurrence of the term “Front Guard” in this section is replaced with “Off Boom Side Cab Guard”.  (D) Section 5.2.3. The term “front of the DLV” on line 2 is replaced with “off boom side of the DLV”.  (E) Section 6.2. The term “Front Guard” on line 1 is replaced with “Off Boom Side Cab Guard”.  (15) Machines used for road construction activities on prepared surfaces with a slope of less than 20 percent are not required to have front and/or top cab protective structures when the machine’s activities do not expose operators to the hazards of yarding, loading or timber falling.  [ED. NOTE: Tables referenced are available from the agency.] 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 654.025(2) & 656.726(4) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 654.001 - 654.295 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSHA 2-2008, f. & cert. ef. 3-5-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OSHA 5-2003, f. 6-2-03, cert. ef. 12-1-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,370 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 200 ELIGIBILITY FOR HEALTH SYSTEMS DIVISION MEDICAL PROGRAMS 
+ 410-200-0310 
+ Eligibility and Budgeting; Health Systems Division Medical Programs.
+ 
+ 
+ (1) Eligibility is evaluated by reviewing the financial and non-financial information for the applicable budget months. The budget month is established as follows. 
+
+ (a) For new applicants, the budget month is: 
+
+ (A) The initial budget month is the month in which the Date of Request (DOR) is established; or 
+
+ (B) If ineligible in the initial budget month, the agency shall evaluate eligibility for the subsequent month. 
+
+ (b) For retroactive medical, the budget month is the month in which the applicant received medical services for which they are requesting payment. 
+
+ (c) For a current MAGI Medicaid/CHIP beneficiary, the budget month is: 
+
+ (A) At renewal, the month in which a renewal response is received by the agency; 
+
+ (B) The month a change that affects eligibility is reported; or 
+
+ (C) The month the individual ages off a medical program. 
+
+ (2) MAGI and MAGI-based income not specifically excluded is countable, and its value is used in determining the eligibility and benefit level of an applicant or beneficiary. 
+
+ (3) MAGI and MAGI-based income is considered available on the date it is received or the date a member of the EDG has a legal right to the payment and the legal ability to make it available, whichever is earlier, except as follows: 
+
+ (a) Income usually paid monthly or on some other regular payment schedule is considered available on the regular payment date if the date of payment is changed because of a holiday or weekend; 
+
+ (b) Income withheld or diverted at the request of an individual is considered available on the date the income may have been paid without the withholding or diversion; 
+
+ (c) An advance or draw of earned income is considered available on the date it is received. 
+
+ (4) For all HSD Medical Programs except OHP Bridge – Basic Health Program, financial eligibility is evaluated for the initial budget month by comparing the combined total of each EDG member’s countable MAGI-based income to the income standards for the appropriate family size. Countable MAGI-based income is determined as follows: 
+
+ (a) For EDG members with ongoing income (the income has not started, changed, or ended in the month being evaluated), the agency shall evaluate eligibility based on converted income. Converted income is calculated by considering the average amount of representative income received per pay period, then converting to a monthly amount using the following conversion standards: 
+
+ (A) Average weekly income is multiplied by 4.3; 
+
+ (B) Average bi-weekly income is multiplied by 2.15; 
+
+ (C) Average twice-monthly income is multiplied by 2 
+
+ (D) For ongoing income received less frequently than monthly (i.e. quarterly), the payment amount shall be divided by the appropriate number of months to arrive at a monthly average. 
+
+ (b) For EDG members whose income started or ended in a month being evaluated for eligibility, or changed such that income prior to the month being evaluated is not representative of current or future months: 
+
+ (A) For income expected to be received monthly or more frequently, the agency shall evaluate initial budget month eligibility by combining the actual income received and expected to be received in the budget month. Income is then converted to an ongoing amount using the methodology described in subsection (4)(a) of this part for ongoing eligibility. 
+
+ (B) For income expected to be paid on a regular basis less often than monthly, income is converted as described in subsection (4)(a)(D) of this part for budget month and ongoing eligibility. 
+
+ (5) If ineligible under section (4) because the MAGI-based income is over the applicable HSD Medical Program income standard based on family size, MAGI income shall be annualized using the requirements of 26 CFR §1.36 B-1(e) for the calendar year in which medical has been requested. 
+
+ (a) For all MAGI Medicaid/CHIP programs, if the annual income is at or below 100 percent FPL), income shall be divided by 12 to derive a monthly amount and applied to the budget month for initial and ongoing eligibility. 
+
+ (b) For OHP Bridge – Basic Health Program , if the annual income is between 133 and 200 percent FPL, that amount shall be used in the eligibility determination. 
+
+ (6) If ineligible under sections (4) or (5) of this rule, the agency shall evaluate eligibility for the subsequent month using the methodology described in section (4) of this rule. If eligible, the effective date of eligibility is established as described in HSD Medical Programs – Effective Dates (OAR 410-200-0115). 
+
+ (7) Financial eligibility for retroactive months (see OAR 410-200-0130) is first evaluated in accordance with section (4) of this rule. If a conversion of ongoing income results in ineligibility, the agency shall consider the actual countable income received in the retroactive month. If eligible, the effective date of eligibility is established as described in HSD Medical Programs – Effective dates (OAR 410-200-0115). 
+
+ (8) In the following scenarios, an individual’s countable income may be reduced by an amount equivalent to five percentage points of the FPL based on the applicable family size: 
+
+ (a) A child who is ineligible for MAGI Medicaid programs (MAGI Child (OAR 410-200-0415), MAGI Parent or Caretake Relative (OAR 410-200-0420), MAGI Pregnant Woman (OAR 410-200-0425)) and may otherwise be eligible for MAGI CHIP (OAR 410-200-0410); if the countable income reduced by five percentage points of the FPL is within the income standard for a MAGI Medicaid program, the individual meets the financial eligibility for that program. 
+
+ (b) Allowable Reduction of Countable Income for all HSD Medical Programs, except OHP Bridge – Basic Health Program. If the countable income, when it is reduced by five percentage points of the FPL, is within the income standard for any HSD Medical Program, then the individual meets the financial eligibility requirements for that program.  However, the five percentage point reduction is not used to determine financial eligibility for OHP Bridge – Basic Health Program. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 411.402, 411.404 & 413.042 
+ 
+ 
+ Statutes/Other Implemented:  ORS 411.400, 411.402, 411.404, 411.406, 411.439, 411.443, 413.032, 414.025, 414.231, 414.447 & 414.706 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 94-2024, amend filed 05/29/2024, effective 06/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 67-2020, amend filed 12/22/2020, effective 01/01/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 33-2020, temporary amend filed 06/29/2020, effective 07/06/2020 through 01/01/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 25-2020, amend filed 05/08/2020, effective 05/08/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 23-2020, amend filed 05/07/2020, effective 05/08/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 24-2016, f. & cert. ef. 6-2-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 78-2015(Temp), f. & cert. ef. 12-22-15 thru 6-18-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 3-2015, f. & cert. ef. 1-30-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 67-2014(Temp), f. 11-14-14, cert. ef. 11-15-14 thru 5-13-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 20-2014, f. & cert. ef. 3-28-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 4-2014(Temp), f. & cert. ef. 1-15-14 thru 3-30-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 54-2013(Temp), f. & cert. ef. 10-1-13 thru 3-30-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

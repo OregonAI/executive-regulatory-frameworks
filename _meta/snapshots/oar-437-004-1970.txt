@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Oregon Occupational Safety and Health Division - Chapter 437 
+ 
+ 
+ 
+ 
+ Division 4 AGRICULTURE 
+ 437-004-1970 
+ Farmstead Equipment 
+ 
+ (1) Application. Rule 437-004-1970 applies to all farmstead equipment except that the parts below do not apply to equipment manufactured before October 25, 1976:  (a) 1970(4);  (b) 1970(5);  (c) 1970(6)(b)(A).  (2) Definition. Farmstead equipment — Equipment that is normally stationary. This includes, but is not limited to, material handling equipment and accessories for this equipment whether or not it is an integral part of a building.  (3) Power take-off guarding.  (a) Guard all power take-off shafts with either a master shield or by other protective guarding.  (b) Guard power take-off driven equipment to prevent contact with positively driven rotating parts of the power drive system. If power take-off driven equipment requires removal of the tractor master shield, ensure that the equipment includes protection from that part of the tractor power take-off shaft that protrudes from the tractor.  (c) There must be signs on power take-off driven equipment to remind operators to keep safety shields in place.  (4) Other power transmission components.  (a) Guard the mesh or nip points of all power driven gears, belts, chains, sheaves, pulleys, sprockets, and idlers by protective shield, location, guardrail or fence.  (b) Guard all revolving shafts, including projections such as bolts, keys, or set screws, by protective shield, location, or guardrail or fence.  (c) Exceptions to the guarding requirements are as follows:  (A) Smooth off shafts and shaft ends (without any projecting bolts, keys, or set screws), revolving at less than 10 rpm, on feed handling equipment used on the top surface of materials in bulk storage facilities; and  (B) Smooth off shaft ends protruding less than one-half the outside diameter of the shaft and its locking means.  (5) Functional components.  (a) Guard to the fullest extent all functional components that must be exposed to operate. The guard must not substantially interfere with the normal operation of the equipment. Examples of these components are choppers, rotary beaters, mixing augers, feed rolls, conveying augers, grain spreaders, stirring augers, sweep augers, and feed augers.  (b) Guard sweep arm material gathering mechanisms on the top surface of materials within silo structures. Locate the lower or leading edge of the guard no more than 12 inches above the material surface and no less than 6 inches in front of the leading edge of the rotating member of the gathering mechanism. Ensure the guard is parallel to, and extends the fullest practical length of, the material gathering mechanism.  (c) Paragraph (b) above does not apply to bulk grain storage bins and similar structures where no workers are present except for installation or removal of the sweep arm material gathering mechanisms. During such work, disconnect and lockout the electrical power source following the procedures in OAR 437-004-1275, Division 4/J, Lockout/Tagout.  (d) Guard exposed auger flighting on portable augers with either grating type guards or solid baffle style covers as follows:  (A) Ensure the largest dimensions or openings in grating type guards through which materials must flow are 4-3/4 inches. Ensure the area of each opening is no larger than 10 square inches. Locate the opening no closer to the rotating flighting than 2-1/2 inches.  (B) Ensure slotted openings in solid baffle style covers are not wider than 1-1/2 inches, or closer than 3-1/2 inches to the exposed flighting.  (C) Openings larger than those in (A) and (B) above are allowable if necessary to permit the free flow of material that has a tendency to bridge over. Ensure these openings are no larger than required for proper functioning of the auger. Design, arrange or locate the guard so that no part of an employee’s body may contact the auger flighting.  (6) Access to moving parts.  (a) Ensure that guards, shields, and access doors are in place when the equipment is in operation.  (b) Where removal of a guard or access door will expose an employee to any component that continues to move after the power is disengaged, provide the following:  (A) A readily visible or audible warning of rotation; and  (B) A safety sign warning the employee to:  (i) Look and listen for evidence of rotation; and  (ii) Not remove the guard or access door until all parts stop.  (c) There must be a guard with openings no larger than 1/2 inch when the blades of a fan are less than 7 feet above the floor or working level.  (7) Additional guarding requirements.  (a) Properly safeguard carton or bag stitching machines to prevent employees from contacting the stitching head and other pinch or nip points.  (b) Guard the point of operation of all machines. Design and construct the guard to prevent any part of the operator’s body from being in the danger zone during the operating cycle. [Table not included. See ED. NOTE.]  NOTE: Table 2 gives the distances that point-of-operation guards must be from the danger line in relation to the size of the opening.  [ED. NOTE: Table referenced is available from the agency.] 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 654.025(2) & 656.726(3) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 654.001 - 654.295 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSHA 4-1998, f. 8-28-98, cert. ef. 10-1-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

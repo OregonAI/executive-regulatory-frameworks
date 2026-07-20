@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Business Development Department 
+ Chapter 123 
+ 
+ 
+ 
+ 
+ 
+ Division 600 BUSINESS ENERGY TAX CREDITS FOR  RENEWABLE ENERGY RESOURCE EQUIPMENT MANUFACTURING BETC (MANUFACTURING BETC) 
+ 123-600-0135 
+ Pass-through Transfer of the Tax Credit 
+ 
+ For purposes of ORS 285C.549 and the pass-through rate for discounting the face value of a certified Business Energy Tax Credit to the Net Present Value that is the minimum amount the Applicant shall receive as a cash payment from the Pass-through Partner(s) in exchange for the Credit:  (1) Rate Formula. As set forth by the Department on the first business day of each calendar quarter, the pass-through rate, to be multiplied by the credit amount, equals “1 ÷ (1 + R + S + P)^5,” where:  (a) “R” is the U.S. Prime Rate as published by The Wall Street Journal newspaper;  (b) “S” is a spread factor greater than zero to account for special transactional and risk elements, and initially set at 3.25 percentage points, but subject to adjustment by the Department based on experience and changing circumstances;  (c) “P” is an estimate of projected price inflation, as determined by the Department, but to be not less than the average of the lower central tendency for core price inflation in the succeeding two years from the latest economic projections of the Federal Reserve Board members and Federal Reserve Bank presidents; and  (d) “5” means to exponentially raise the preceding sum to the fifth power in accordance with the five years over which the credit may be claimed.  (2) Modification of Formula. In addition to modifications of the variables “R” and “S” in subsection (1)(a) of this rule, the Department may alter the formula for purposes of this rule, as announced at the start of the calendar quarter, in response to any greatly changing situation with prevailing market rates of return or projected price inflation, potentially pending a temporary or permanent rulemaking.  (3) Rate Option. The Applicant may elect to use the quarterly pass-through rate as set in section (1) of this rule for the calendar quarter, during which occurs either:  (a) Preliminary Certification, or  (b) Transaction of the pass-through payment.  (4) For the Department to issue a tax credit certificate to a pass through partner the Applicant must be in compliance with the conditions and requirements of the Preliminary Certificate, the performance agreement and these rules.  (5) A tax credit may be transferred one time only, from the Applicant to an eligible pass through partner.  (6) Finding Pass-through Partners. The Applicant is responsible for seeking a pass-through partner. The Department cannot guarantee a pass-through partner for any completed project.  (a) The Applicant will notify the Department if a third-party intermediary will be used to assist the Applicant in seeking a pass-through partner.  (b) The Applicant will notify the Department when a pass-through partner(s) is identified. The Department will provide the necessary instructions and forms needed to complete verification of the pass-through payment transaction in order to issue a tax credit certificate.  (7) Transferee’s Certification Period. For a transferee holding a credit that has been transferred under ORS 285C.549, the five-year period begins with the tax year of the transferee in which the transferee pays for the credit.  (8) Expiration of Transferability. The Director may issue a final certificate in the name of the Applicant for any tax credit balance remaining sixty days prior to the expiration of the Preliminary Certificate under ORS 285C.547(5). 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 285C.540 - 285C.559, ORS 315.341, OL 2011 & Ch. 474 HB2523 
+ 
+ 
+ Statutes/Other Implemented:  ORS 285C.540-559, 315.341, OL 2011, Ch. 474 HB2523, OL 2012 & Ch. 45 HB 4079 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ OBDD 8-2012, f. & cert. ef. 6-1-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

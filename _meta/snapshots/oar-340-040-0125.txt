@@ -1,0 +1,235 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 40 GROUNDWATER QUALITY PROTECTION 
+ 340-040-0125 
+ Method and Criteria for Establishment of Maximum Measurable Levels of Contaminants in Groundwater: Methods to Establish Maximum Measurable Levels
+ 
+ 
+ (1) If a federal standard has been promulgated for any substance of concern (OAR 340-040-0110(1)) or any contaminant (OAR 340-040-0110(2)), the Department shall review and propose only that federal standard to the Commission for adoption as the maximum measurable level, unless at least one of subsections (a), (b), and (c) of this section is determined: 
+
+ (a) The Department determines that valid scientific evidence establishes that the federal standard is not protective of public health as defined in OAR 340-040-0105(8). To so determine, the Department must declare that at least one of the following applies: 
+
+ (A) For substances of concern or contaminants which are carcinogens, the federal standard represents a risk greater than one additional cancer in one million humans; 
+
+ (B) For all substances of concern or contaminants, the federal standard has not considered relevant scientific evidence that demonstrate the federal standard does not protect public health. 
+
+ (b) The Department determines that valid scientific evidence establishes that groundwater contaminated to the level of that federal standard is not protective of the affected environment; 
+
+ (c) The Department determines that valid scientific evidence establishes that the federal standard is not protective of existing and future beneficial uses of the natural groundwater in Oregon. 
+
+ (2) In the event that the Department proposes to reject the federal standard for one or more of the reasons described in section (1) of this rule, the Department shall state the reason(s) in its proposal and shall propose a maximum measurable level which takes into account the following factors: 
+
+ (a) Public Health Factors: 
+
+ (A) For substances of concern or contaminants that are carcinogens, the scientifically valid evidence which supports a conclusion that the Department’s proposed maximum measurable level poses a risk level to public health that is less than or equal to one additional cancer in a million humans; 
+
+ (B) Concentration levels of the substance of concern or contaminant that are considered protective of human health, as a result of evaluation by a federal agency or a recognized scientific advisory group. The Department shall evaluate the available data, conclusions, or recommendations reached in the following sources of data by said agencies or advisory groups and determine whether a value can be identified as protective of human health. Once a value is identified as protective of human health, the Department will propose that value to the Environmental Quality Commission as the proposed MML. The Department will consider data sources in the following priority order: 
+
+ (i) An EPA proposed maximum contaminant level (MCL) or maximum contaminant level goal (MCLG); 
+
+ (ii) An EPA federal health advisory; 
+
+ (iii) Assistance from the EPA relative to a federal health advisory or a maximum contaminant level; 
+
+ (iv) Recommendations from EPA’s Science Advisory Board, the National Academy of Science, the International Agency for Research on Cancer, the European Economic Commission, EPA’s Cancer Assessment Group, the Carcinogenic Assessment Verification Endeavor Working Group, the National Toxicology Program, other states that follow EPA-like procedures, and other recognized scientific advisory groups. 
+
+ (C) Risk to public health is greater than the risk to the environment. 
+
+ (b) Environmental Factors: 
+
+ (A) Scientifically valid evidence that a contaminant or substance of concern in concentrations less than the federal maximum contaminant level (MCL) will cause adverse effects to the environment; 
+
+ (B) Concentration levels of the substance of concern or contaminant that are considered protective of the environment, as a result of evaluation by a federal agency or a recognized scientific advisory group. The Department shall evaluate and incorporate in its proposal the data and recommendations of EPA’s Quality Criteria for Water (1986), or subsequent update of this publication, unless EPA’s “National Guidelines for Deriving Numerical National Water Quality Criteria for the Protection of Aquatic Organisms and Their Uses,” or other valid scientific evidence demonstrates that EPA’s Quality Criteria for Water (1986), is not protective of the environment. 
+
+ (3) In the event there is no federal standard for a substance of concern or contaminant to be regulated under OAR 340-040-0110 and valid scientific evidence exists to support the development of a maximum measurable level for that substance of concern or contaminant, the Department shall propose a maximum measurable level. If the Department proposes a maximum measurable level under this condition, the Department shall consider the public health factors and the environmental factors set forth in section (2) of this rule. 
+
+ (4) In the event no federal standard exists for a substance of concern or contaminant to be regulated under OAR 340-040-0110 and there are insufficient scientifically valid data available to the Department to establish that the public health factors and the environmental factors set forth in section (2) of this rule can be met: 
+
+ (a) The Department shall request assistance from the EPA to: 
+
+ (A) Set a federal standard when valid scientific evidence warrants; or 
+
+ (B) Initiate research on the federal level to determine if scientific evidence will support establishment of a federal standard; or 
+
+ (C) Establish a criterion as defined in Section 304 of the Clean Water Act (33 USCA Section 1314(a)) which is protective of the environment. 
+
+ (b) The Department shall cause to be published a Health and Environmental Advisory as outlined in OAR 340-040-0130, for the contaminant. 
+
+ [NOTE: Publications referenced and not attached to this rule are available from the agency.] 
+
+ [NOTE: View a PDF of EPA Guidelines by clicking on "Tables" link below.] 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 183.335(7), 468.015, 468B & 536.137 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468B.155, 468B.165, 468B.166 & 468B.167 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 13-2019, amend filed 05/16/2019, effective 05/16/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 1-1991, f. & cert. ef. 2-11-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

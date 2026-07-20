@@ -1,0 +1,221 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 147 FQHC AND RHC SERVICES 
+ 410-147-0460 
+ Prepaid Health Plan Supplemental Payments 
+ 
+ (1) Effective January 1, 2001, the Division of Medical Assistance Programs (Division) is required by 42 USC 1396a(bb), to make supplemental payments to eligible federally qualified health centers (FQHC) and rural health clinics (RHC) that contract with Prepaid Health Plans (PHP).  (2) The PHP Supplemental Payment represents the difference, if any, between the payment received by the FQHC/RHC from the PHP(s) for treating the PHP enrollee and the payment to which the FQHC/RHC would be entitled if they had billed Division directly for these encounters according to the clinic’s Medicaid Prospective Payment System (PPS) encounter rate. Refer to OAR 410-147-0360.  (3) In accordance with federal regulations the Provider must take all reasonable measures to ensure that in most instances Medicaid will be the payer of last resort. Providers must make reasonable efforts to obtain payment first from other resources before submitting claims to the PHP. Refer to OAR 410-147-0120(14).  (4) When any other coverage is known to the provider, the provider must bill the other resource(s) prior to billing the PHP. When a Provider receives a payment from any source prior to the submission of a claim to the PHP, the amount of the payment must be shown as a credit on the claim in the appropriate field. See also OAR 410-120-1280 Billing and 410-120-1340 Payment.  (5) Supplemental payment by Division for encounters submitted by FQHC/RHCs for purposes of this rule is reduced by any and all payments received by the FQHC/RHC from outside resources, including Medicare, private insurance or any other coverage. Therefore, FQHC/RHCs are required to report all payments received on the Managed Care Data Submission Worksheet, including:  (a) Medicaid PHPs;  (b) Medicare Advantage Managed Care Organizations (MCO);  (c) Medicare, including Medicare MCO supplemental payments; and  (d) Any Third Party Resource(s) (TPR).  (6) Division will calculate the PHP Supplemental Payment in the aggregate of the difference between total payments received by the FQHC/RHC, to include payments as listed in Section (5) of this rule and the payment to which the FQHC/RHC would have been eligible to claim as an encounter if they had billed Division directly per their PPS encounter rate.  (7) Effective July 1, 2006, FQHC/RHCs must submit their clinic’s data beginning with dates of service January 1, 2006 and after, using the Managed Care Data Submission Template developed by Division to report all PHP encounter and payment activity.  (8) To facilitate Division processing PHP supplemental payments, the FQHC or RHC must submit the following:  (a) To PHPs:  (A) Claims within the required timelines outlined in the contract with the PHP and in OAR 410-141-0420, Oregon Health Plan Prepaid Health Plan Billing Payment Under the Oregon Health Plan;  (B) The National Provider Identifier (NPI) number and associated taxonomy code, registered by the FQHC or RHC clinic with Division must be used when submitting all claims to the PHPs;  (b) To Division:  (A) Report total payments for all services submitted to the PHP:  (i) Including laboratory, radiology, nuclear medicine, and diagnostic ultrasound; and  (ii) Excluding any bonus or incentive payments;  (B) Report total payments for each category listed in the “Amounts Received During the Settlement Period” section of the Managed Care Data Submission Template Coversheet;  (C) Payments are to be reported at the detail line level on the Managed Care Data Submission Template Worksheet, except for capitated payments, or per member per month and risk pool payments received from the PHP;  (D) The total number of actual encounters. An encounter represents all services for a like service element (Medical, Dental, Mental Health, or Alcohol and Chemical Dependency) provided to an individual client on a single date of service. The total number of encounters is not the total number of clients assigned to the FQHC or RHC or the total detail lines submitted on the Managed Care Data Submission Template Worksheet;  (E) All individual NPI numbers and taxonomy codes assigned to practitioners associated with the FQHC or RHC. A practitioner associated with an FQHC or RHC can only retain individual active enrollment with Division in limited situations. Refer to OAR 410-147-0340(3).  (F) A current list of all PHP contracts. An updated list of all PHP contracts must be submitted annually to Division no later than October 31 of each year.  (9) PHP Supplemental Payment process:  (a) Division will process PHP Supplemental Payments on a quarterly basis:  (A) Quarterly processing of PHP Supplemental Payments includes a final reconciliation for the reported time period;  (B) For an FQHC or RHC approved by Division to participate in a pilot project, PHP Supplemental Payments will be processed at the discretion of Division in collaboration with health centers;  (b) Upon processing a clinic’s data and the PHP Supplemental Payment, Division will:  (A) Send a check to the clinic for PHP Supplemental Payment calculated from clinic data Division was able to process;  (B) Provide a cover letter and summary of the payment calculation; and  (C) Return data that is incomplete, unmatched, or cannot otherwise be processed by Division;  (c) The FQHC or RHC is responsible for reviewing the data Division was unable to process for accuracy and completeness. The clinic has 30 days, from the date of Division’s cover letter under Section (9)(b) of this rule, to make any corrections to the data and resubmit to Division for processing. Documentation supporting any and all changes must accompany the resubmitted data. A request for extension must be received by Division prior to expiration of the 30 days, and must:  (A) Be requested in writing;  (B) Accompanied by a cover letter fully explaining the reason for the late submission; and  (C) Provide an anticipated date for providing Division the clinic's resubmitted data and supporting documentation;  (d) Within 30 days of Division’s receipt of the re-submitted data, Division will:  (A) Review the data and issue a check for all encounters Division verifies to be valid; and  (B) For quarterly data submissions, send a letter outlining the final quarterly settlement including any other pertinent information to accompany the check;  (e) The FQHC or RHC should submit data to Division within the timelines provided by Division.  (10) Clinics must carefully review in a timely fashion the data that Division was unable to process and returns to the FQHC or RHC. If clinics do not bring any incomplete, inaccurate or missing data to Division’s attention within the time frames outlined, Division will not process an adjustment.  (11) Division encourages FQHCs and RHCs to request PHP Supplemental Payment in a timely manner.  (12) Clinics must exclude from a clinic’s data submission for PHP supplemental payment, clinic services provided to a PHP-enrolled client when the clinic does not have a contract or agreement with the PHP. This may not apply to family planning services, or Human Immunodeficiency Virus and Acquired Immune Deficiency Syndrome (HIV/AIDS) prevention services. Family Planning and HIV/AIDS prevention services provided to a PHP-enrolled client when a clinic does not have a contract or agreement with the PHP:  (a) Must be reported in the clinic’s data submission for PHP Supplemental Payment if the clinic receives payment from the PHP;  (b) Cannot be reported in the clinic’s data submission for PHP Supplemental Payment if the clinic is denied payment by the PHP. If the PHP denies payment to the clinic, the clinic can bill these services directly to Division. (See also OAR 410-147-0060).  (13) If a PHP denies payment to an FQHC or RHC for all services, items and supplies provided to a client on a single date of service and meeting the definition of an “encounter” as defined in OAR 410-147-0120, for the reason that all services, items and supplies are non-covered by the plan, Division is not required to make a supplemental payment to the clinic. The following examples are excluded from the provision of this rule:  (a) Encounters that will later be billed to the PHP as a covered global procedure (e.g. Obstetrics Global Encounter);  (b) Had payment received by Medicare, and any other third party resource not have exceeded the payment the PHP would have made, the PHP would have made payment;  (c) At least one of the detail lines reported for all services, items and supplies provided to a client on a single date of service and represents an “encounter,” has a reported payment amount by the PHP.  (14) If an FQHC or RHC has been denied payment by a PHP because the clinic does not have a contract or agreement with the PHP, Division is not required to make a supplemental payment to the clinic. Division is only required to make a PHP supplement payment when the FQHC or RHC has a contract with a PHP.  (15) Division will not reimburse some Medicaid covered services that are only reimbursed by PHPs, and are not reimbursed by Division. Division will not make PHP supplemental payment for these services, as Division does not reimburse these services when billed directly to Division.  (16) It is the responsibility of the FQHC or RHC to refer PHP-enrolled clients back to their PHP if the FQHC or RHC does not have a contract with the PHP, and the service to be provided is not family planning or HIV/AIDS prevention. The Provider assumes full financial risk in serving a person not confirmed by Division as eligible on the date(s) of service. See OAR 410-120-1140. It is the responsibility of the Provider to verify:  (a) That the individual receiving medical services is eligible on the date of service for the service provided; and  (b) Whether a client is enrolled with a PHP or receives services on an “open card” or “fee-for-service” basis. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042 & 414.065 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.065 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 34-2008, f. 11-26-08, cert. ef. 12-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 25-2008, f. 6-13-08, cert. ef. 7-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 44-2006, f. 12-15-06, cert. ef. 1-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 27-2006, f. 6-14-06, cert. ef. 7-1-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 71-2003, f. 9-15-03, cert. ef. 10-1-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 63-2002, f. & cert. ef. 10-1-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

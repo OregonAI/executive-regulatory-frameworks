@@ -1,0 +1,252 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 272 THIRD PARTY VERIFICATION 
+ 340-272-0425 
+ Sampling Plan 
+ 
+ (1) Verification services must include the development of a sampling plan that meets the requirements of this rule. 
+
+ (2) All sampling plans must meet the following requirements: 
+
+ (a) The sampling plan must be developed based on a strategic analysis developed from document reviews and interviews to assess the likely nature, scale, and complexity of the verification services for a responsible entity and type of report or fuel pathway application. The analysis must review the inputs for the development of the submitted report(s) and fuel pathway application(s), the rigor and appropriateness of data management systems, and the coordination within the responsible entity’s organization to manage the operation and maintenance of equipment and systems used to develop submitted report(s) and fuel pathway application(s); 
+
+ (b) The sampling plan must be revised to describe tasks completed as information becomes available and potential issues emerge with material misstatement or nonconformance; and 
+
+ (c) The sampling plan must be retained according to the recordkeeping requirements of OAR 340-272-0300(3)(d). The sampling plan must be made available to DEQ upon request. 
+
+ (3) In addition to meeting the requirements under section (2), sampling plans for verification services provided for CFP reports and fuel pathway applications submitted under OAR chapter 340, division 253 must also meet the requirements of this section: 
+
+ (a) The sampling plan must include a ranking of data sources by relative contribution to the data type to be assessed for material misstatement and a ranking of data sources with the largest calculation uncertainty, including risk of incomplete reporting, based on type of report or fuel pathway application; 
+
+ (b) The sampling plan must include a qualitative narrative of uncertainty risk assessment in the following areas: 
+
+ (A) Data acquisition equipment; 
+
+ (B) Data sampling and frequency; 
+
+ (C) Data processing and tracking; 
+
+ (D) Tracking of fuel transportation into Oregon to include modes of transportation and distances traveled, as applicable for CFP fuel pathway applications or annual fuel pathway reports; 
+
+ (E) CI calculations, as applicable; 
+
+ (F) Fuel pathway code allocation methodology, as applicable; and 
+
+ (G) Management policies or practices in developing CFP reports; 
+
+ (c) After the verification team completes the strategic analysis and risk assessment, the sampling plan must be revised to include a list with the information described in paragraphs (A) through (C) of this subsection. The sampling plan list must be updated and finalized before the completion of verification services. The final sampling plan must describe in detail how the identified risks were addressed during the verification. When quarterly reviews are conducted as part of annual verification services, the final sampling plan must describe in detail how the risks and issues identified for the annual data set were addressed during each quarterly review and final annual verification. The sampling plan list must include the following: 
+
+ (A) Data sources that will be targeted for document reviews, data checks as specified under OAR 340-272-0430, and an explanation of why they were chosen; 
+
+ (B) Methods used to conduct data checks for each data type; and 
+
+ (C) A summary of the information analyzed in the data checks and document reviews conducted for each data type; and 
+
+ (d) Specified source feedstocks included in CFP fuel pathway applications and annual fuel pathway reports that require verification must be included in the scope of verification services. When verification is not required for a fuel pathway, specified source feedstocks must be included in the scope of verification of the CFP quarterly reports. The verification team must use professional judgment and include in its risk assessment and sampling plan its analysis of the need for a desk review or site visit for verification of any entity in the feedstock chain of custody. This analysis must include an evaluation of the need to trace feedstock through feedstock suppliers, including aggregators, storage or pretreatment facilities, and traders or brokers, to the point of origin. If an error is detected during data checks of records maintained by the responsible entity, the risk assessment and sampling plan must be updated to assure specified source feedstock characterization and quantities to the point of origin. 
+
+ (e) Sampling plans for aggregators of credit generators must include the following: 
+
+ (A) A ranking of credit generators by relative contribution to the data type to be assessed for material misstatement and a ranking of credit generators with the largest calculation uncertainty; 
+
+ (B) Qualitative narrative of uncertainty risk assessment for credit generations according to the requirements of OAR 340-272-0425(3)(b); and 
+
+ (C) Indication of whether the verification team intends to make a site visit to each credit generator listed based on the risk assessments described in this subsection. 
+
+ (4) In addition to meeting the requirements under section (2), sampling plans for verification services provided for GHG Reporting Program emissions data reports submitted under OAR chapter 340, division 215 must also meet the requirements of this section: 
+
+ (a) The sampling plan must include a ranking of emissions sources by amount of contribution to total reported emissions (metric tons of CO2e) for the responsible entity and a ranking of emissions sources with the largest calculation uncertainty. As applicable and deemed appropriate by the verification team, fuel and electricity transactions must also be ranked or evaluated relative to the amount of fuel or power exchanged and uncertainties that may apply to data provided by the responsible entity including risk of incomplete reporting; 
+
+ (b) The sampling plan must include a qualitative narrative of uncertainty risk assessment in the following areas: 
+
+ (A) Data acquisition equipment; 
+
+ (B) Data sampling and frequency; 
+
+ (C) Data processing and tracking; 
+
+ (D) Emissions calculations; 
+
+ (E) Data reporting; and 
+
+ (F) Management policies or practices in developing emissions data reports; and 
+
+ (c) After the verification team completes the strategic analysis and risk assessment, the sampling plan must be revised to include a list with the information described in paragraphs (A) through (C) of this subsection. The sampling plan list must be updated and finalized before the completion of verification services. The final sampling plan must describe in detail how the identified risks were addressed during the verification. The sampling plan list must include the following: 
+
+ (A) Emissions sources and transactions, as applicable, that will be targeted for document reviews, and data checks as specified under OAR 340-272-0430, and an explanation of why they were chosen; 
+
+ (B) Methods used to conduct data checks for each source or transaction; and 
+
+ (C) A summary of the information analyzed in the data checks and document reviews conducted for each emissions source or transaction targeted. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, 468A.050, 468A.266, 468A.271, 468A.277 & 468A.280 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468A.010, 468A.015, 468A.050, 468A.265 - 468A.277 & 468A.280 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 2-2025, amend filed 01/09/2025, effective 01/09/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 14-2020, adopt filed 05/07/2020, effective 05/07/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,248 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 222 STATIONARY SOURCE PLANT SITE EMISSION LIMITS 
+ 340-222-0046 
+ Netting Basis
+ 
+ 
+ (1) A netting basis will only be established for those regulated pollutants that could subject a source to NSR under OAR chapter 340, division 224. 
+
+ (a) The initial PM2.5 netting basis for a source that was permitted prior to May 1, 2011 will be established with the first permitting action issued after July 1, 2011, provided the permitting action involved a public notice period that began after July 1, 2011. 
+
+ (b) The initial greenhouse gas netting basis for a source will be established with the first permitting action issued after July 1, 2011, provided the permitting action involved a public notice period that began after July 1, 2011. 
+
+ (2) A source’s netting basis is established as specified in subsection (a), (b), or (c) and will be adjusted according to section (3): 
+
+ (a) For all regulated pollutants except for PM2.5, a source’s initial netting basis is equal to the baseline emission rate. 
+
+ (b) For PM2.5, a source’s initial netting basis is equal to the overall PM2.5 fraction of the PM10 PSEL in effect on May 1, 2011 multiplied by the PM10 netting basis in effect on May 1, 2011. DEQ may increase the initial PM2.5 netting basis by not more than 5 tons to ensure that the PM2.5 PSEL does not exceed the PM2.5 netting basis by more than the PM2.5 SER. 
+
+ (A) Any source with a permit in effect on May 1, 2011 is eligible for a PM2.5 netting basis without being otherwise subject to OAR 340-222-0041(5). 
+
+ (B) For a source that had a permit in effect on May 1, 2011 but later needs to correct its PM10 netting basis that was in effect on May 1, 2011, due to more accurate or reliable information, the corrected PM10 netting basis will be used to correct the initial PM2.5 netting basis. 
+
+ (i) Correction of a PM10 netting basis will not by itself trigger OAR 340-222-0041(5) for PM2.5. 
+
+ (ii) Correction of a PM10 netting basis could result in further requirements for PM10 in accordance with all applicable regulations. 
+
+ (c) A source’s netting basis is zero for: 
+
+ (A) Any regulated pollutant emitted from a source that first obtained permits to construct and operate after the applicable baseline period for that regulated pollutant, and has not undergone NSR for that regulated pollutant, except as provided in subsection (b) for PM2.5; 
+
+ (B) Any regulated pollutant for which the PSEL was set based on a generic PSEL under previously applicable rules; or 
+
+ (C) Any source permitted as portable. 
+
+ (3) A source’s netting basis will be adjusted as follows: 
+
+ (a) The netting basis will be reduced by any emission reductions required under a rule, order, or permit condition issued by the EQC or DEQ and required by the SIP or used to avoid any state (e.g., NSR) or federal requirements (e.g., NSPS, NESHAP), as of the effective date of the rule, order or permit condition; 
+
+ (A) Netting basis reductions are effective on the effective date of the rule, order or permit condition that requires the reductions; 
+
+ (B) Netting basis reductions may only apply to sources that are permitted, on the effective date of the applicable rule, order or permit condition, to operate the affected devices or emissions units that are subject to the rule, order, or permit condition requiring emission reductions; 
+
+ (C) Netting basis reductions will include reductions for unassigned emissions for devices or emissions units that are affected by the rule, order or permit condition, if the shutdown or over control that created the unassigned emissions occurred within five years prior to the adoption of the rule, order or permit condition that required an emission reduction unless the unassigned emissions have been used for internal netting actions. This provision applies to emission reductions that have been placed in unassigned emissions or that are eligible to be placed in unassigned emissions but the permit that would place them in unassigned emissions has not been issued. 
+
+ (D) Netting basis reductions will not affect emission reduction credits established under division 268. 
+
+ (E) Netting basis reductions for the affected devices or emissions units will be determined consistent with the approach used to determine the netting basis prior to the regulatory action reducing the emissions. The netting basis reduction is the difference between the emissions calculated using the previous emission rate and the emission rate established by rule, order, or permit using appropriate conversion factors when necessary. 
+
+ (F) The netting basis reductions will not include emission reductions achieved under OAR 340-226-0110, 340-226-0120, or OAR chapter 340, division 244; 
+
+ (b) The netting basis will be reduced by any unassigned emissions that are reduced under OAR 340-222-0055(3)(a); 
+
+ (c) The netting basis will be reduced by the amount of emission reduction credits transferred off site in accordance with OAR chapter 340, division 268; 
+
+ (d) The netting basis will be reduced when actual emissions are reduced according to OAR 340-222-0051(3); 
+
+ (e) The netting basis will be increased by any of the following: 
+
+ (A) For sources that obtained a permit on or after April 16, 2015, any emission increases approved through Major NSR or Type A State NSR action under OAR chapter 340, division 224; 
+
+ (B) For sources that obtained a permit prior to April 16, 2015, any emission increases approved through the NSR regulations in OAR chapter 340, division 224 in effect at the time; or 
+
+ (C) For sources where the netting basis was increased in accordance with the DEQ PSD rules that were in effect prior to July 1, 2001, the netting basis may include emissions from emissions units that were not subject to both an air quality analysis and control technology requirements if the netting basis had been increased following the rules in effect at the time. 
+
+ (f) The netting basis will be increased by any emissions from activities previously classified as categorically insignificant prior to April 16, 2015, provided the activities existed during the baseline period or at the time of the last NSR permitting action that changed the netting basis under subsection (e). 
+
+ (4) In order to maintain the netting basis, permittees must maintain either a Standard ACDP or an Oregon Title V Operating Permit. A request to be assigned any other type of ACDP sets the netting basis at zero upon issuance of the other type of permit and remains at zero unless an increase is approved under subsection (3)(e). 
+
+ (5) If a source relocates to a different site that DEQ determines is within or affects the same airshed, and the time between operation at the old and new sites is less than six months, the source may retain the netting basis from the old site. 
+
+ (6) A source’s netting basis for a regulated pollutant with a revised definition will be corrected if the source is emitting the regulated pollutant at the time the definition is revised, and the regulated pollutant is included in the source’s netting basis. 
+
+ (7) Where EPA requires an attainment demonstration based on dispersion modeling, the netting basis must not be more than the level used in the dispersion modeling to demonstrate attainment with the ambient air quality standard (i.e., the attainment demonstration is an emission reduction required by rule). 
+
+ [NOTE: This rule was moved verbatim from OAR 340-200-0020(76) and amended on 04-16-15. Previous rule history for OAR 340-200-0020: [DEQ 15-1978, f. & ef. 10-13-78; DEQ 4-1993, f. & cert. ef. 3-10-93; DEQ 47, f. 8-31-72, ef. 9-15-72; DEQ 63, f. 12-20-73, ef. 1-11-74; DEQ 107, f. & ef. 1-6-76; Renumbered from 340-020-0033.04; DEQ 25-1981, f. & ef. 9-8-81; DEQ 5-1983, f. & ef. 4-18-83; DEQ 18-1984, f. & ef. 10-16-84; DEQ 8-1988, f. & cert. ef. 5-19-88 (and corrected 5-31-88); DEQ 14-1989, f. & cert. ef. 6-26-89; DEQ 42-1990, f. 12-13-90, cert. ef. 1-2-91; DEQ 2-1992, f. & cert. ef. 1-30-92; DEQ 7-1992, f. & cert. ef. 3-30-92; DEQ 27-1992, f. & cert. ef. 11-12-92; DEQ 4-1993, f. & cert. ef. 3-10-93; DEQ 12-1993, f. & cert. ef. 9-24-93, Renumbered from 340-020-0145, 340-020-0225, 340-020-0305, 340-020-0355, 340-020-0460 & 340-020-0520; DEQ 19-1993, f. & cert. ef. 11-4-93; DEQ 20-1993(Temp), f. & cert. ef. 11-4-93; DEQ 13-1994, f. & cert. ef. 5-19-94; DEQ 21-1994, f. & cert. ef. 10-14-94; DEQ 24-1994, f. & cert. ef. 10-28-94; DEQ 10-1995, f. & cert. ef. 5-1-95; DEQ 12-1995, f. & cert. ef. 5-23-95; DEQ 22-1995, f. & cert. ef. 10-6-95; DEQ 19-1996, f. & cert. ef. 9-24-96; DEQ 22-1996, f. & cert. ef. 10-22-96; DEQ 9-1997, f. & cert. ef. 5-9-97; DEQ 14-1998, f. & cert. ef. 9-14-98; DEQ 16-1998, f. & cert. ef. 9-23-98; DEQ 21-1998, f. & cert. ef. 10-14-98; DEQ 1-1999, f. & cert. ef. 1-25-99; DEQ 6-1999, f. & cert. ef. 5-21-99]; DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-020-0205, 340-028-0110; DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01; DEQ 2-2005, f. & cert. ef. 2-10-05; DEQ 2-2006, f. & cert. ef. 3-14-06; DEQ 6-2007(Temp), f. & cert. ef. 8-17-07 thru 2-12-08; DEQ 8-2007, f. & cert. ef. 11-8-07; DEQ 10-2008, f. & cert. ef. 8-25-08; DEQ 5-2010, f. & cert. ef. 5-21-10; DEQ 10-2010(Temp), f. 8-31-10, cert. ef. 9-1-10 thru 2-28-11; Administrative correction 3-29-11; DEQ 5-2011, f. 4-29-11, cert. ef. 5-1-11; DEQ 7-2011(Temp), f. & cert. ef. 6-24-11 thru 12-19-11; Administrative correction, 2-6-12; DEQ 1-2012, f. & cert. ef. 5-17-12; DEQ 4-2013, f. & cert. ef. 3-27-13; DEQ 11-2013, f. & cert. ef. 11-7-13] 
+
+ [NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, 468A.025, 468A.040 & 468A.310 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468A 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 19-2022, amend filed 11/18/2022, effective 03/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 7-2015, f. & cert. ef. 4-16-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

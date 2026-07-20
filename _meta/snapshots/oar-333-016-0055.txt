@@ -1,0 +1,173 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 16 HAZARDOUS SUBSTANCES 
+ 333-016-0055 
+ Method for Determining the Sound Pressure Level Produced by Toy Caps 
+ 
+ (1) Equipment required. The equipment for the test includes a microphone, a preamplifier (if required), and an oscilloscope:  (a) The microphone-preamplifier system shall have a free-field response uniform to within plus or minus two decibels from 50 hertz to 70 kilohertz or beyond, and a dynamic range covering the interval 70 to 160 decibels relative to 20 micronewtons per square meter. Depending on the model, the microphone shall be used at normal or grazing incidence, whichever gives the most uniform free-field response. The microphone shall be calibrated both before and after the test of a model of cap. The calibration shall be accurate to within plus or minus one decibel. If the calibration is of the pressure type or of the piston-phone plus electro-static actuator type, it shall be corrected to free-field conditions in accordance with the manufacturer’s instructions;  (b) The oscilloscope shall be the storage type or one equipped with a camera. It shall have a response uniform to within plus or minus one decibel from 50 hertz to 250 kilohertz or higher. It shall be calibrated to within plus or minus one decibel against an external voltage source periodically during the tests.  (2) Procedure:  (a) Place the sound source and testing equipment so that neither the sound source nor the microphone is closer than one meter from any wall, floor, ceiling, or other large obstruction. Locate the sound source and the microphone in the same horizontal plane with a distance of 25 centimeters between the diaphragm of the microphone and the position of the sound producing component of the sound source, e.g., explosive or diaphragm. Measure the peak sound pressure level at each of the six designated orientations of the sound source with respect to the measuring microphone. When caps are tested use the type of pistol that would ordinarily be used with the caps being tested. The zero degree orientation corresponds to an unobstructed and direct line from the sound source to the microphone, e.g., the muzzle of a pistol pointing at the microphone. The 90, 180 , and 270 degree orientations are measured in a clockwise direction when looking down on the sound source and correspond to looking down on a pistol with its barrel horizontal as illustrated by the following figure:  0°  270° 90°  180°  (b) Testing Caps With a Pistol and Testing Gun. The hammer and trigger orientations are obtained by rotating the pistol about the axis of the barrel, when the pistol is in the 90-degree of 270-degree orientation, so that the hammer and the trigger are each respectively closest to and in the same horizontal plane with the microphone. Fire ten shots at each of the six orientations, obtaining readings on the oscilloscope of the maximum peak voltage for each shot. Average the results of the ten firings for each of the six orientations;  (c) Sound Sources Other Than Caps and Guns. Rotate the sound source about its axis to the four degrees of orientation. Produce ten sound emissions at each of the orientations obtaining readings on the oscilloscope of the maximum peak voltage for each emission. Average the results of the ten firings for each of the four orientations;  (d) Computation. Using the orientation that yields the highest average value, convert the value to sound pressure levels in decibels relative to 20 micronewtons per square meter using the response to the calibrated measuring microphone. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 453.095 
+ 
+ 
+ Statutes/Other Implemented:  ORS 453.005 & 453.055 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 89, f. 7-31-75, ef. 8-25-75 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 40, f. 8-2-73, ef. 8-15-73 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

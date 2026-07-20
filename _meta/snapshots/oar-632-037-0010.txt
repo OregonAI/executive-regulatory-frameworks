@@ -1,0 +1,173 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Geology and Mineral Industries 
+ Chapter 632 
+ 
+ 
+ 
+ 
+ 
+ Division 37 CONSOLIDATED PERMITTING OF MINING OPERATIONS 
+ 632-037-0010 
+ Definitions 
+ 
+ The definitions in ORS 517.952 are hereby incorporated as the definitions to be used in interpreting these rules, unless a term is specifically defined within these rules.  (1) "Affected Agency" includes permitting agencies, cooperating agencies and commenting agencies.  (2) "Available Technology" means technology that is obtainable and has been demonstrated to meet environmental standards at an existing mine or a demonstration project of similar size and scale, or is reasonably expected to meet or exceed environmental standards at the proposed mine.  (3) "Baseline Data" means information gathered to characterize the natural and cultural environments of a mining operation site before a mining operation begins.  (4) "Chemical Processing" means a processing method for extracting metal from metal bearing ores that uses chemicals to dissolve metals from ore.  (5) "Commenting Agency" means an agency that makes recommendations to the Department or to a permitting agency regarding permit conditions or whether to approve or deny a permit under the consolidated application process established under ORS 517.952 to 517.989. Commenting agencies may include but are not limited to the following agencies: Department of Economic Development, Emergency Management Division, Department of Energy, Department of Forestry, Health Division, Department of Land Conservation and Development, Department of Parks and Recreation, Public Utility Commission, Office of the State Fire Marshal, and the Department of Transportation. Commenting agencies may also be permitting and cooperating agencies that wish to comment on a permit issued by another agency.  (6) "Consolidated Application" means the single application required under ORS 517.971.  (7) "Cooperating Agency" means an agency that has statutory responsibility related to a mining operation but that does not issue a permit for the mining operation. Cooperating agencies may include but are not limited to the following agencies: Department of Agriculture and Department of Fish and Wildlife.  (8) "Credible Accident" means an unplanned discharge of ore processing solutions, ore processing solution contaminated water, or chemicals from a mine facility into surface water, ground water, soil, overburden, or living resources in sufficient quantity to impair the pre-mine quality of the receiving water, soil, overburden, or living resources, or that would exceed the discharge limitations of the Department of Environmental Quality. A credible accident may also include but is not limited to the following types of accidents: fires, unplanned detonation of explosives, equipment failures, fuel spills and accidents resulting from human errors.  (9) "Department" means the Department of Geology and Mineral Industries.  (10) "Disturbed Area" means any area within a permit area boundary where surface or subsurface resources are impacted as a result of mining, processing or mine facilities.  (11) "Environmental Evaluation" means an analysis prepared under ORS 517.979 to address specific impacts of the mining operation, to allow affected agencies to develop permit conditions.  (12) "Environmental Standards" means standards established either by statute or rule that must be met by a mining operation.  (13) "Facilitating Agency" means the Department of Geology and Mineral Industries. The Department shall coordinate the activities of the affected agencies related to the consolidated application process established in ORS 517.952 to 517.989.  (14) “Gravity Separation” means the separation of mineral particles, with the aid of water or air, according to the differences in the specific gravities of the particles.  (15) “Master List” means a consolidated list of all interested persons compiled by the Department and each permitting and cooperating agency and maintained by the Department.  (16) "Mine Facilities" includes but is not limited to the following:  (a) Leach pads and vats;  (b) Recovery plants and/or mill;  (c) Process solution ponds and/or storage ponds;  (d) Impoundments and diversions;  (e) Tailing disposal facility;  (f) Haul roads;  (g) Open pits;  (h) Related buildings;  (i) Energy facilities at the mine site;  (j) Disposal areas for waste rock and other mining wastes; and  (k) Storage areas for subgrade ore.  (17) “Mining Operation” means a surface or underground mine that processes, produces, or reclaims metal ore using a method other than, or in addition to, gravity separation to process the ore.  (18) "Mitigation" means the reduction of adverse effects of a proposed mining operation by considering, in the following order:  (a) Avoiding the impact altogether by not taking a certain action or parts of an action;  (b) Minimizing impacts by limiting the degree or magnitude of the action and its implementation;  (c) Rectifying the impact by repairing, rehabilitating or restoring the affected environment;  (d) Reducing or eliminating the impact over time by preservation and maintenance operations during the life of the action by monitoring and taking appropriate corrective measures; or  (e) Compensating for the impact by replacing or providing comparable substitute resources or environments.  (19) "Necessary Technology" means technology that is required to ensure compliance with environmental standards.  (20) "Operating Permit" means a permit issued by the Department that allows for the mining and processing of metal-bearing ores and provides for reclamation.  (21) "Permit Area" means the geographical location of a mining operation and related development activities covered by an operating permit and is defined by boundaries acceptable to the Department submitted by the applicant on a map. The permit area shall include the reasonably foreseeable extent of the mine and will generally be a parcel or contiguous parcels of land available to the permittee for mining. Areas used for the storage or disposition of any product or waste material from the mining operation, even though separate from the area of extraction, shall be included in the permit area. The permit area may be redefined as the mining operation progresses, subject to the requirements of OAR 632-037-0120.  (22) "Permitting Agency" means an agency that has a separate permitting authority for a proposed mining operation. Permitting agencies may include but are not limited to the following agencies: Department of Environmental Quality; Department of Geology and Mineral Industries, Division of State Lands, and the Water Resources Department.  (23) "Person" means any individual, partnership, corporation, association, public interest organization, the State of Oregon or any political subdivision, board, agency or commission of the State of Oregon.  (24) "Practicable Technology" means available and necessary technology whose costs are not significantly disproportionate to the potential environmental benefits. A technology is not practicable if the cost is so high it renders a mining operation infeasible.  (25) "Processing" means separating metals from ore through a method other than gravity separation, including milling and the use of chemicals to dissolve metals from ore. As used in these rules, "processing" includes, but is not limited to; cyanide heap leach processing operations, cyanide vat processing operations, and froth floatation processing operations.  (26) "Processing Solutions" means those solutions that are used directly or indirectly to recover minerals.  (27) "Project Coordinating Committee" means the interagency governmental committee established in accordance with ORS 517.965.  (28) "Reclamation" means the employment in mining of procedures reasonably designed to minimize as much as practicable the disruption from the mining operation and to provide for the rehabilitation of any surface and subsurface resources through the use of plant cover, soil stability techniques, measures to protect the surface and subsurface water resources, including but not limited to domestic water use and agricultural water use, and other measures appropriate to the subsequent beneficial use of any land or water resource affected by a mining operation. Surface reclamation shall also provide for the protection of human health and safety, as well as that of livestock, fish, and wildlife; environmental protection; and the establishment of a self-sustaining ecosystem, comparable to undamaged ecosystems in the area of the mine.  (29) "Study Area" means those areas determined by the technical review team for which baseline data must be collected and an environmental evaluation and socioeconomic impact analysis must be developed.  (30) "Technical Review Team" means the interagency group established in accordance with ORS 517.967.  (31) "Undamaged Ecosystem" means an ecosystem that is comparable in utility and stability to the ecosystem surrounding the mine and/or the pre-mine ecosystem, and that retains the principal ecological characteristics reasonably expected to exist under local, climatic, geological, soil, hydrological and biological conditions. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 517.750 - 517.995 
+ 
+ 
+ Statutes/Other Implemented:  ORS 517.750 & 517.952 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ DGMI 1-2014, f. & cert. ef. 4-2-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ GMI 2-1991, f. & cert. ef. 10-11-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

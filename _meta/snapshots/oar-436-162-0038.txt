@@ -1,0 +1,218 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Workers' Compensation Division - Chapter 436 
+ 
+ 
+ 
+ 
+ Division 162 ELECTRONIC DATA INTERCHANGE; PROOF OF COVERAGE 
+ 436-162-0038 
+ Acknowledgement 
+ 
+ (1) The division will respond to submitted transmissions by providing either a Transaction Accepted (TA) or a Transaction Rejected (TR) acknowledgement.  (2) Transaction rejected acknowledgements will be generated for transactions with errors, including but not limited to:  (a) An omitted Mandatory data element;  (b) An improperly populated data element field, e.g., numeric data element field is populated with alpha or alphanumeric data, or is not a valid value;  (c) Transactions or electronic records within the transaction that require matching and cannot be matched to the division's database;  (d) Illogical data in a Mandatory or Mandatory/Conditional field, e.g., policy expiration date is before policy effective date;  (e) Duplicate transmission or duplicate transaction within the transmission;  (f) Invalid triplicate code; or  (g) Illogical event sequence relationship between transactions, e.g., endorsement transaction submitted before a policy transaction is submitted.  (3) The insurer must correct and resubmit any transactions rejected for which a law or rule requires reporting to the director.  (4) Transactions that are not rejected under section (2) of this rule will result in a Transaction Accepted acknowledgement.  (5) An insurer’s obligation to file proof of coverage for the purposes of this rule is not satisfied unless the director acknowledges acceptance of the transaction. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 656.264, 656.419, 656.423, 656.427 & 656.726(4) 
+ 
+ 
+ Statutes/Other Implemented:  ORS, 656.419, 656.423 & 656.427 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 436-162-0320, WCD 12-2014, f. 11-13-14, cert. ef. 4-1-15 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 436-160-0320, WCD 7-2010, f. 10-1-10, cert. ef. 1-1-11 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 4-2008, f. 9-17-08, cert. ef. 7-1-09 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 12-2003, f. 12-4-03, cert. ef. 1-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 3-2003, f. 3-18-03, cert. ef. 4-1-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

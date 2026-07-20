@@ -1,0 +1,233 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 120 STANDARDS FOR PROTECTION AGAINST RADIATION 
+ 333-120-0110 
+ Radiation Dose Limits: Compliance with Requirements for Summation of External and Internal Doses 
+ 
+ (1) If the licensee is required to monitor under OAR 333-120-0210(1) and (2), the licensee must demonstrate compliance with the dose limits by summing external and internal doses. If the licensee is required to monitor only under OAR 333-120-0210(1) or only under 333-120-0210(2), then summation is not required to demonstrate compliance with the dose limits. The licensee may demonstrate compliance with the requirements for summation of external and internal doses by meeting one of the conditions specified in section (2) of this rule and the conditions in sections (3) and (4) of this rule.  NOTE: The dose equivalents for the lens of the eye, the skin, and the extremities are not included in the summation, but are subject to separate limits.  (2) Intake by Inhalation. If the only intake of radionuclides is by inhalation, the total effective dose equivalent limit is not exceeded if the sum of the deep-dose equivalent divided by the total effective dose equivalent limit, and one of the following, does not exceed unity:  (a) The sum of the fractions of the inhalation ALI for each radionuclide; or  (b) The total number of derived air concentration-hours (DAC-hours) for all radionuclides divided by 2,000; or  (c) The sum of the calculated committed effective dose equivalents to all significantly irradiated organs or tissues (T) calculated from bioassay data using appropriate biological models and expressed as a fraction of the annual limit.  NOTE: An organ or tissue is deemed to be significantly irradiated if, for that organ or tissue, the product of the weighting factors, WT, and the committed dose equivalent, HT,50, per unit intake is greater than ten percent of the maximum weighted value of HT50 (i.e. WTHT50) per unit intake for any organ or tissue.  (3) Intake by Oral Ingestion. If the occupationally exposed individual also receives an intake of radionuclides by oral ingestion greater than ten percent of the applicable oral ALI, the licensee must account for this intake and include it in demonstrating compliance with the limits.  (4) Intake Through Wounds or Absorption Through Skin. The licensee must evaluate and, to the extent practical, account for intakes through wounds or skin absorption. The intake through intact skin has been included in the calculation of DAC for hydrogen-3 and does not need to be further evaluated. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 453.635 
+ 
+ 
+ Statutes/Other Implemented:  ORS 453.605 - 453.807 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 14-2008, f. & cert. ef. 9-15-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 4-2007, f. & cert. ef. 3-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 12-2006, f. & cert. ef. 6-16-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 36-2004, f. & cert. ef. 12-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 31-2004(Temp), f. & cert. ef. 10-8-04 thru 4-5-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 3-2003, f. & cert. ef. 3-27-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 15-1994, f. & cert. ef. 5-6-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 150 UNDERGROUND STORAGE TANK RULES 
+ 340-150-0435 
+ Statistical Inventory Reconciliation Method of Release Detection 
+ 
+ (1) An owner and permittee using statistical inventory reconciliation (SIR) as a release detection method must meet the requirements of this rule. SIR cannot be used as a release detection method for pressurized underground piping.  (2) The method must be capable of detecting a least a 0.2 gallon per hour leak rate from any portion of the UST that routinely contains a regulated substance with a probability of detection of at least 95 percent and a probability of false alarm of no more than 5 percent.  (3) The SIR method used must be an approved leak detection method that meets the requirements of section (2) of this rule as listed by a national organization (e.g., the National Work Group on Leak Detection).  (4) Daily inventory control regulated substance measurements and data gathering must be performed in accordance with OAR 340-150-0430(4)–(9).  (5) An UST system must be monitored for releases on a monthly basis when the SIR method is used. To meet the monthly monitoring requirements, an owner and permittee must, within 22 days after each calendar month or 30-day period, submit the daily inventory records to and receive the SIR results back from the SIR vendor they have hired to perform the statistical analysis. An owner and permittee must follow up with the SIR vendor if there are delays and make any changes necessary to their service agreement or contract to prevent late report submittals.  (6) The results of a SIR analysis that shows a 0.2 gallon per hour or greater leak rate in any single month is considered to be a release detection failure.  (7) An owner and permittee must report to the department any single release detection failure and any two inconclusive results (as reported by the SIR vendor) obtained within a consecutive two-month period within 24 hours as a suspected release (OAR 340-150-0500) and immediately begin investigation in accordance with 340-150-0510; additionally  (a) An owner and permittee must investigate and attempt to remedy or repair the cause of inconclusive results; and  (b) SIR must be discontinued as the release detection method and immediately substituted with one of the release detection methods listed in OAR 340-150-0450 through 340-150-0470 if:  (A) An owner and permittee is unable to correct the cause of the inconclusive results after tank and piping tightness testing results or other investigation methods confirm that the UST system is not leaking; and  (B) More than four inconclusive results are recorded within a consecutive 12-month period.  (c) An owner and permittee must immediately investigate all larger-than-normal, unusual or reoccurring variations in results, including widely fluctuating water levels in the tank and report such variations as a suspected release if the variation cannot be accounted for, without waiting to obtain a second month of data.  (8) An owner and permittee must retain at a minimum the most current 12 consecutive months of release detection records, including SIR vendor results and inventory control records. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 466.706 - 466.835, 466.994 & 466.995 
+ 
+ 
+ Statutes/Other Implemented:  ORS 466.746 & 466.765 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 6-2003, f. & cert. ef. 2-14-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

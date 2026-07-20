@@ -1,0 +1,336 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of the State Fire Marshal 
+ Chapter 837 
+ 
+ 
+ 
+ 
+ 
+ Division 30 LIQUEFIED PETROLEUM GAS 
+ 837-030-0120 
+ Definitions
+ 
+ 
+ (1) For the purpose of these rules, the following definitions apply to OAR 837-030-0100 through 837-030-0280. 
+
+ (2) Application means the forms required by the State Fire Marshal to be completed and submitted to the State Fire Marshal. 
+
+ (3) Bulk Plant is a facility where the primary function is to store LP-Gas prior to further distribution. LP-Gas is received by cargo tank vehicle, railroad tank car, or pipeline, and then distributed by portable container (package) delivery, by cargo tank vehicle, or through gas piping. 
+
+ (4) Company License means the same as an Installation License defined in OAR 837-030-0120(12). 
+
+ (5) Company Representative means an individual who has passed the installation examination administered by the State Fire Marshal and represents the company at a specific site. 
+
+ (6) Delivery Unit means any unit that is used to deliver or transport liquefied petroleum gas. 
+
+ (7) Examination means a document designed to test an applicant's knowledge regarding liquefied petroleum gas, its properties, related equipment and applicable safety regulations. 
+
+ (8) Fitter License in general means a license issued to an individual who performs LP-Gas container and container appurtenance installation or replacement, and or, performs work on liquefied petroleum fuel gas systems including but not limited to, LP-gas containers, plumbing and pipe fitting, gas venting, installs, repairs or remodels any piping or venting, installs or repairs, connects, or disconnects any liquefied petroleum gas appliance. The specific types of Fitter Licenses are: 
+
+ (a) HVAC Fitter — Required for all individuals who install or perform LPG work on HVAC equipment, including hearth products; does not include piping up to the final shut off valve upstream of the equipment (see Master Fitter); 
+
+ (b) IC Fitter (Internal Combustion) — Required for all individuals who work on LPG fuel systems of LPG powered internal combustion engines; 
+
+ (c) Master Fitter — Required for all individuals who perform LPG fuel gas plumbing work including but not limited to, fitting or venting work, install or replace LP-Gas containers and container appurtenances, install, replace, repair or remodel any LP-Gas container, appliance, piping or venting. This license covers all areas of LPG work. 
+
+ 
+ NOTE: Individuals licensed as a fitter prior to May 16, 2005, are considered a Master Fitter. 
+ 
+
+ (9) Individual means one distinct, individual human being. It does not mean person. 
+
+ (10) Installation means an LP-Gas container or containers set on a specific customer property with the intent of supplying fuel gas to utilization equipment. 
+
+ (11) Installer means, a licensed company who provides a licensed individual making the connection from an installation to a LP-Gas fuel gas system and who conducts required leak testing and ensures the installation and piping system are in compliance to applicable codes and standards. 
+
+ (12) Installation License means a license issued to a company or business (hereinafter referred to as a Company License) that engages in or works at the business of installing LP-Gas containers and container appurtenances, installing extending, altering or repairing any liquefied petroleum fuel gas systems including but not limited to, gas appliances or piping, vent or flue connection pertaining to or in connection with liquefied petroleum gas installations. This includes the operation of delivery equipment on motorized vehicles. 
+
+ (13) License means the official written permission granted by the State Fire Marshal for the purpose of working in the liquefied petroleum gas business. 
+
+ (14) Liquefied Petroleum Gas means any liquid composed predominately of any of the following hydrocarbons or mixtures of the same: Propane, propylene, butanes (normal butane or isobutene) and butylenes. 
+
+ (15) NFPA means the National Fire Protection Association. 
+
+ (16) NFPA 54 means National Fire Protection Association Standards (NFPA) 54 National Fuel Gas Code 2021 Edition unless otherwise specified.  
+
+ (17) NFPA 58 means National Fire Protection Association Standards (NFPA) 58 Liquefied Petroleum Gas Code 2020 Edition, unless otherwise specified. 
+
+ (18) NFPA 1192 means National Fire Protection Association Standards (NFPA) 1192 Standard on Recreational Vehicles 2021 Edition, unless otherwise specified. 
+
+ (19) Oregon Electrical Specialty Code (OESC) means the 2023 edition of the Oregon Electrical Specialty Code, unless otherwise specified. 
+
+ (20) Oregon Fire Code (OFC) means the 2022 edition of the Oregon Fire Code as adopted by the Oregon State Fire Marshal, unless otherwise specified.  
+
+ (21) Oregon Mechanical Specialty Code (OMSC) means the 2022 edition of the Oregon Mechanical Specialty Code, unless otherwise specified. 
+
+ (22) Oregon Residential Specialty Code (ORSC) means the 2021 edition of the Oregon Residential Specialty Code, unless otherwise specified. 
+
+ (23) Person means one or more individuals, legal representatives, partnerships, joint ventures, associations, corporations (whether or not organized for profit), business trusts, or any organized group of persons and includes the state, state agencies, counties, municipal corporations, school districts and other public corporations or subdivisions. 
+
+ (24) Truck Equipment Operator License means a license issued to an individual who operates liquefied petroleum gas delivery equipment installed on a motorized vehicle. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 476 & ORS 480 
+ 
+ 
+ Statutes/Other Implemented:  ORS 480.410 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSFM 3-2025, amend filed 07/15/2025, effective 07/15/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSFM 4-2024, amend filed 11/15/2024, effective 11/15/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSFM 7-2020, minor correction filed 12/07/2020, effective 12/07/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OSFM 10-2012, f. & cert. ef. 10-2-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OSFM 8-2008, f. 9-26-08, cert. ef. 10-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OSFM 16-2005, f. & cert. ef. 11-9-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OSFM 4-2000, f. & cert. ef. 4-12-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OSFM 1-2000(Temp), f. & cert. ef. 1-18-00 thru 4-15-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OSFM 3-1999(Temp), f. & cert. ef. 7-23-99 thru 1-18-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ FM 3-1995, f. & cert. ef. 11-14-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

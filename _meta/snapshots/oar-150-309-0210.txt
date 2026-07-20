@@ -1,0 +1,231 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 309 EQUALIZATION OF PROPERTY TAXES 
+ 150-309-0210 
+ Trending and Indexing an Adjudicated Value
+ 
+ 
+ (1) “Adjudicated value” means a real market value that has been corrected by a final order of the Department of Revenue, the property value appeals board, the tax court or other court, and is adjusted only as allowed under ORS 309.115 for the subsequent five tax years. 
+
+ (2) A single trend or index applied to all properties of a certain class in a market area shall be applied in the same manner to adjudicated values in the same property class and market area. For purposes of this rule, a market area may be identified to exist within a county or include properties in multiple counties. This section applies, but is not limited, to ratio studies conducted under ORS 309.200 and economic studies conducted for industrial properties appraised by the Department of Revenue under 306.126. 
+
+ (3) Assessors may develop valuation models to determine the real market value of property in the same property class and in the same defined market area that rely on applying trending, indexing, and depreciation factors to multiple, identifiable property characteristics on file. 
+
+ (4) The assessor shall apply the same adjustments to adjudicated values as those applied to values of other properties in the same property class in the same defined market area where valuation modeling for multiple property characteristics is used to calculate real market value. 
+
+ (5) The adjudicated value in section (4) must be calculated using the method in either subsection (a) or  (b) of this section. The methods in subsections (a) and (b) in this section are mathematically equivalent, although differences due to rounding may occur. Such differences are de minimus. 
+
+ (a) Adjust the prior year’s adjudicated value proportionately to the change in value produced by the valuation model. 
+
+ (A) Calculate the ratio of the real market value produced by the valuation model in the current year to the real market value produced by the valuation model in the prior year. 
+
+ (B) Apply the ratio in paragraph (A) to the prior year’s adjudicated value. 
+
+ 
+ Example 1: Real property is originally listed on the 2013–14 tax roll with an RMV of $100,000. The county property value appeals board reduces the RMV to $85,000. The county applies a valuation model, which is recalculated each year, to all like properties in the market area. The table below shows the real market values produced by the valuation model, the ratio to the real market value produced by the valuation model for the prior year to those values, and the result of multiplying the prior year’s adjudicated value by the ratio for each tax year. [Table not included. See ED. NOTE.] 
+ 
+
+ (b) Adjust the real market value produced by the valuation model for the current year proportionately to the correction ordered in the first year of adjudication. 
+
+ (A) Calculate the ratio of the adjudicated value to the real market value produced by the valuation model in the first year of adjudication, 
+
+ (B) Apply the ratio to the real market value produced by the valuation model for the current year. 
+
+ 
+ Example 2: The facts are the same as for Example 1. The table below shows the real market values produced by the valuation model, the ratio of the adjudicated value to the original real market value produced by the valuation model in the first year of adjudication, and the result of multiplying the real market value produced by the valuation model by the ratio for each tax year. [Table not included. See ED. NOTE.] 
+ 
+
+ (6) Notwithstanding section (5), if the adjudicated value is the result of correcting a specific error in the description of property characteristics used in the valuation model, the real market value produced by the valuation model for the corrected property characteristics is the adjudicated value for the subsequent five years. 
+
+ 
+ Example 3: The Department of Revenue reduces the real market value of a home based on evidence that the square footage is less than the square footage shown on the architectural plans as used by the assessor. The real market value found by the department is based upon a price per square foot used by the assessor in the valuation model multiplied by the corrected square footage. The adjudicated value in subsequent years is the price per square foot determined by that year’s valuation model multiplied by the corrected square footage ordered by the department. 
+ 
+
+ [ED. NOTE: Tables referenced are available from the agency.] 
+
+ [ED. NOTE: To view attachments referenced in rule text, click here to view rule.] 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 
+ 
+ 
+ Statutes/Other Implemented:  ORS 309.115 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 39-2024, minor correction filed 06/25/2024, effective 06/25/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 150-309.115(2), REV 26-2016, f. 8-12-16, cert. ef. 9-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ Renumbered from 150-309.115(2)(b), REV 7-2014, f. 12-23-14, cert. ef. 1-1-15 
+RD 9-1989, f. 12-18-89, cert. ef. 12-31-89
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

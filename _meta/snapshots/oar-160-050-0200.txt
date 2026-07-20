@@ -1,0 +1,257 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Secretary of State 
+ Corporation Division - Chapter 160 
+ 
+ 
+ 
+ 
+ Division 50 UNIFORM COMMERCIAL CODE 
+ 160-050-0200 
+ EFS Requirements 
+ 
+ (1) An EFS must be filed on a form prescribed and approved by the Secretary of State. The form shall be designated "EFS-1."  (2) The information on the Form EFS-1 should meet the following requirements:  (a) Name, address and telephone number of the secured party:  (A) The name and address of the secured party are required;  (B) The secured party name or names must be entered completely and precisely;  (C) The name of an individual must be entered in order of last name (surname), first name, and, if any, middle initial or name;  (D) Assumed business names and business entity names must appear beginning with first word or character that is not an article or punctuation mark;  (E) The address of the secured party must be the address where information pertaining to the security interest maybe obtained;  (F) The telephone number of the secured party is requested.  (b) Name and address of each debtor:  (A) The name and address of each debtor is required;  (B) The name of each debtor must be entered completely and precisely;  (C) The name of an individual must be entered in order of last name (surname), first name, and, if any, middle initial or name;  (D) Assumed business names and business entity names must be entered beginning with the first word or character that is not an article or punctuation mark;  (E) The address of the debtor is the mailing address of such person;  (c) Farm Product name or code:  (A) Each farm product that is produced in Oregon is assigned a four-digit numerical code. The codes are located on the back side of the Form EFS-1;  (B) The farm product code is required;  (C) Each filing party is responsible for listing the appropriate farm product code for a farm product on which the EFS or notice of security interest is being filed;  (D) The four-digit product code for each farm product subject to the security interest must be entered. A table of product codes appears on the back of the Form EFS-1;  (d) Crop year:  (A) The crop year, for crops grown in soil, is the calendar year in which it is harvested or to be harvested;  (B) For animals, the crop year is the calendar year in which they are born or acquired;  (C) For poultry or eggs, the crop year is the calendar year in which they are sold or to be sold;  (D) If an EFS does not show a crop year, it will be regarded as applicable to the crop or farm product in question for every year the EFS is effective;  (E) The crop year is a two-digit or four-digit code representing the actual year;  (F) The crop year must be shown on the Form EFS-1, unless every year of the farm product in question, for the duration of the EFS, is subject to the particular security interest.  (e) County Code:  (A) Each county in Oregon is assigned a two-digit numerical code. The county code represents the county in which the farm product is produced or is to be produced. The county codes are located on the back side of the Form EFS-1;  (B) The county code is required;  (C) Below is a list of the county codes for Oregon:  (i) Baker — 01;  (ii) Benton — 02;  (iii) Clackamas — 03;  (iv) Clatsop — 04;  (v) Columbia — 05;  (vi) Coos — 06;  (vii) Crook — 07;  (viii) Curry — 08;  (ix) Deschutes — 09;  (x) Douglas — 10;  (xi) Gilliam — 11;  (xii) Grant — 12;  (xiii) Harney — 13;  (xiv) Hood River — 14;  (xv) Jackson — 15;  (xvi) Jefferson — 16;  (xvii) Josephine — 17;  (xviii) Klamath — 18;  (xix) Lake — 19;  (xx) Lane — 20;  (xxi) Lincoln — 21;  (xxii) Linn — 22;  (xxiii) Malheur — 23;  (xxiv) Marion — 24;  (xxv) Morrow — 25;  (xxvi) Multnomah — 26;  (xxvii) Polk — 27;  (xxviii) Sherman — 28;  (xxix) Tillamook — 29;  (xxx) Umatilla — 30;  (xxxi) Union — 31;  (xxxii) Wallowa — 32;  (xxxiii) Wasco — 33;  (xxxiv) Washington — 34;  (xxxv) Wheeler — 35;  (xxxvi) Yamhill — 36.  (D) The county code(s) must be listed for each product code shown.  (f) Amount of farm product (where applicable):  (A) The amount of farm product may or may not be shown on every EFS and master list entry;  (B) The need to supply this additional information arises only where some of the debtor's farm product is subject to the security interest and some is not;  (C) If the EFS does not show an amount, this constitutes a representation that all of such product owned by the debtor is subject to the security interest in question;  (D) The amount shown must be sufficient to enable a reader of the information to identify what part of the debtor's farm product owned by the debtor is subject to the security interest, and what is not;  (E) Twenty characters have been allotted on the master list for providing information on the amount of farm product. The description of the amount should not be more than 20 characters.  (g) Brief Description of farm product:  (A) A brief description of the farm product maybe shown on the EFS and master list entry.  (B) The need to supply this additional information arises only where some of the debtor's farm product is subject to the security interest and some is not.  (C) Seventy-five characters have been allotted on the master list for providing information on the description of the farm product. The farm product description should not be more than 75 characters.  (h) Signature of the debtor, unless the debtor has executed a security agreement granting a security interest in the farm products to the secured party.  (3) The EFS will be rejected if it does not contain the name and address of the debtor, name and address of the secured party, farm product code, county code, or if it is not accompanied by the EFS filing fee.  (4) For the purposes of filing an effective financing statement, an electronically submitted document shall be considered an original document under ORS 80.115. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 80.106 & 80.115 
+ 
+ 
+ Statutes/Other Implemented:  ORS 80.115 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ CORP 3-2012, f. & cert. ef. 3-1-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CORP 1-2008, f. & cert. ef. 1-15-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CORP 2-2006, f. & cert. ef. 2-6-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CORP 2-2001, f. 7-9-01, cert. ef. 8-1-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CORP 1-1993, f. 12-29-93, cert. ef. 1-1-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PRD 1-1989, f. 12-12-89, cert. ef. 1-1-90, Renumbered from 164-050-0030 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SOS 11-1987, f. 7-9-87, ef. 8-1-87 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SOS 1-1987, f. & ef. 1-2-87 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SD 33-1986(Temp), f. 12-5-86, ef. 12-24-86 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

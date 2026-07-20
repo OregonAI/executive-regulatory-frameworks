@@ -1,0 +1,342 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 123 DENTAL/DENTURIST SERVICES 
+ 410-123-1262 
+ Vaccine Counseling and Administration 
+ 
+ (1) Dental administration of vaccines must be carried out in compliance with Oregon Board of Dentistry OARs 818-012-0006 and 818-012-0007, OHA Medical/Surgical OAR 410-130-0255 and Vaccines for Children (VFC) – OHA Division 46, OARs 333-046-0110 through 333-046-0130. 
+
+ (2) The Authority covers immunization counseling (D1301) when the vaccine is not administered on the same date of service. 
+
+ (3) Provider must: 
+
+ (a) Be registered with the ALERT Immunization Information System (IIS) at a minimum as a query user; 
+
+ (b) Stay current with recommended immunization schedules by keeping up to date on immunization science and protocols and understand the risks, benefits, contraindications, and potential adverse effects of vaccines; 
+
+ (c) Review the member’s vaccine and medical history; 
+
+ (d) Explain to members which immunizations are recommended based on the member’s age, medical history, and risk factors and discuss the benefits of vaccination in preventing serious diseases; 
+
+ (e) Counsel with the member what signs and symptoms of potential adverse effects may be and on when medical attention may be needed, addressing questions and concerns; 
+
+ (f) Provide information to the member about where to obtain the vaccine(s); and 
+
+ (g) Refer the member to their primary care provider for administration of the vaccine. 
+
+ (4) The Authority encourages providers to take continuing education courses related to immunizations and to regularly review the OHA Immunization Information for Dentists website for best practices, educational resources, and additional information at  https://www.oregon.gov/oha/PH/PREVENTIONWELLNESS/VACCINESIMMUNIZATION/IMMUNIZATIONPROVIDERRESOURCES/Pages/Dentists.aspx. 
+
+ (5) Requirements for vaccine administration: 
+
+ (a) The licensed provider must have completed a course of training approved by the Oregon Board of Dentistry; 
+
+ (b) Licensed provider must register in ALERT; 
+
+ (c) Vaccines must be administered in accordance with the Model Immunization Protocols approved by the Authority; and 
+
+ (d) The dentist must not delegate administration of vaccines to another person. 
+
+ (6) Procedures for licensed providers administering vaccines: 
+
+ (a) Must report to ALERT within 14 days of administration; 
+
+ (A) Follow the Authority approved Model Immunization Protocols for immunization administration and treatment of severe adverse events following an administration. The Authority Model Immunization Protocols are located at: www.oregon.gov/oha/PH/PreventionWellness/VaccinesImmunization/ImmunizationProviderResources/Pages/provresources.aspx (see Vaccine Administration section); 
+
+ (B) Maintain written policies and procedures for handling and disposal of used or contaminated equipment and supplies; 
+
+ (C) If providing state or federal vaccines, report the vaccine eligibility code as specified by the Authority, to the ALERT system outlined in www.oregon.gov/oha/PH/PreventionWellness/VaccinesImmunization/alert/Pages/EnrollNewClinic.aspx; 
+
+ (b) Report adverse events within 10 business days to the: 
+
+ (A) Vaccine Adverse Events Reporting System (VAERS); 
+
+ (B) Oregon Board of Dentistry; and 
+
+ (C) Primary Care Provider (PCP) identified by the member. If the member does not have a PCP, providers must: 
+
+ (i) Provide the member with a copy of vaccination administration documentation; 
+
+ (ii) Direct the member toward resources containing more information; 
+
+ (iii) Encourage the member to become a physician's patient of record for their other health needs; and 
+
+ (iv) Document actions in the member's record. 
+
+ (c) Dentists or designated staff must: 
+
+ (A) Provide Vaccine Information Statements (VIS) to the member or legal representative with each dose of vaccine covered by these forms; 
+
+ (B) Document that the member or legal representative has read, or has had read to them, the information provided and that any questions are answered prior to the administration of the vaccine. The VIS provided must be the most current version; and 
+
+ (C) Document in the member record: 
+
+ (i) Date; 
+
+ (ii) Site of administration; 
+
+ (iii) Brand name or NDC number or other acceptable standardized vaccine code set; 
+
+ (iv) Dose, manufacturer, lot # (number), and expiration date of vaccine; 
+
+ (v) Name and identifiable initials of administering dentist; 
+
+ (vi) Address of office where vaccine was administered, unless automatically embedded in electronic report provided to the Authority ALERT Immunization System; and 
+
+ (vii) Date of publication of the VIS; and Date the VIS was provided. 
+
+ (7) Vaccines are billed using CPT codes on a Professional claim form (CMS 1500) found in the Professional Billing Instructions and the Medical-Surgical Services Provider Guide located at: www.oregon.gov/oha/HSD/OHP/Tools/Medical-Surgical%20Services%20Provider%20Guide.pdf. Coverage is as follows: 
+
+ (a) EPSDT beneficiaries: 
+
+ (A) VFC vaccines are administered only to children and adolescents through age 18 who meet VFC eligibility criteria; 
+
+ (B) All vaccines for this age group and for conditions covered by the VFC program must be obtained through the VFC program; and 
+
+ (C) The Authority does not reimburse providers for the administration or purchase of privately purchased vaccines if the vaccine may have been obtained through the VFC program. 
+
+ (b) Non-EPSDT beneficiaries: Billing providers must use standard professional claim form billing procedures for adults and for any vaccine that is not part of the VFC program; and 
+
+ (c) For information about the VFC program or to enroll as a VFC provider, contact the Public Health Immunization Program. The Oregon VFC program website is: www.oregon.gov/oha/PH/PREVENTIONWELLNESS/VACCINESIMMUNIZATION/IMMUNIZATIONPROVIDERRESOURCES/VFC/Pages/index.aspx. 
+
+ (8) The Authority reimburses only for the administration, not the serum, of vaccines available for free through the VFC Program. Refer to the Current Oregon Immunization Program State-Supplied Vaccine Billing Codes table in the Immunization Billing Resources section for a list of vaccines provided through the VFC Program. 
+
+ (9) To receive reimbursement for vaccine administration, VFC program providers must bill the Authority with appropriate coding; 
+
+ (a) CPT code and the modifier SL; or 
+
+ (b) CDT code. 
+
+ (10) FFS providers may bill the Authority directly for vaccines provided to members. Providers may bill the plans directly, as appropriate to member plan enrollment, for the administration of VFC vaccines if the member is enrolled in a CCO. Medicaid and Children's Health Insurance Program (CHIP) are not considered the “payer of last resort” for administration of VFC vaccines. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 679.543, 414.065 & HB 2220 (2019 Regular Session) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.065 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 93-2025, amend filed 12/22/2025, effective 01/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 139-2024, amend filed 12/06/2024, effective 01/01/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 65-2024, minor correction filed 02/21/2024, effective 02/21/2024 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 52-2022, minor correction filed 04/27/2022, effective 04/27/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 50-2021, amend filed 12/24/2021, effective 01/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 66-2019, adopt filed 12/26/2019, effective 01/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

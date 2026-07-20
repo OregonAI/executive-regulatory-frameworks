@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Insurance Regulation - Chapter 836 
+ 
+ 
+ 
+ 
+ Division 31 ACCOUNTING AND INVESTMENTS (ORS CHAPTER 733); REHABILITATION AND LIQUIDATION OF INSURERS (ORS CHAPTER 734) 
+ 836-031-0775 
+ Calculation of Minimum Valuation Standard for Flexible Premium and Fixed Premium Universal Life Insurance Policies that Contain Provisions Resulting in the Ability of a Policyowner to Keep a Policy in Force Over a Secondary Guarantee Period 
+ 
+ (1) The following standards apply for purposes of this rule:  (a) Policies with a secondary guarantee include:  (A) A policy with a guarantee that the policy will remain in force at the original schedule of benefits, subject only to the payment of specified premiums;  (B) A policy in which the minimum premium at any duration is less than the corresponding one year valuation premium, calculated using the maximum valuation interest rate and the 1980 CSO valuation tables with or without ten-year select mortality factors, or any other table adopted after January 1, 2000, by the NAIC and adopted by the Director of the Department of Consumer and Business Services by rule for this purpose; or  (C) A policy with any combination of paragraphs (A) and (B) of this subsection.  (b) A secondary guarantee period is the period for which the policy is guaranteed to remain in force subject only to a secondary guarantee. When a policy contains more than one secondary guarantee, the minimum reserve shall be the greatest of the respective minimum reserves at that valuation date of each unexpired secondary guarantee, ignoring all other secondary guarantees. Secondary guarantees that are unilaterally changed by the insurer after issue shall be considered to have been made at issue. Reserves described in sections (2) and (3) of this rule shall be recalculated from issue to reflect these changes.  (c) Specified premiums mean the premiums specified in the policy, the payment of which guarantees that the policy will remain in force at the original schedule of benefits, but which otherwise would be insufficient to keep the policy in force in the absence of the guarantee if maximum mortality and expense charges and minimum interest credits were made and any applicable surrender charges were assessed.  (d) For purposes of this rule, the minimum premium for any policy year is the premium that, when paid into a policy with a zero account value at the beginning of the policy year, produces a zero account value at the end of the policy year. The minimum premium calculation shall use the policy cost factors (including mortality charges, loads and expense charges) and the interest crediting rate, which are all guaranteed at issue.  (e) The one-year valuation premium means the net one-year premium based upon the original schedule of benefits for a given policy year. The one-year valuation premiums for all policy years are calculated at issue. The select mortality factors defined in OAR 836-031-0765(2)(b), (c) and (d) may not be used to calculate the one-year valuation premiums.  (f) The one-year valuation premium should reflect the frequency of fund processing, as well as the distribution of deaths assumption employed in the calculation of the monthly mortality charges to the fund.  (2) Basic reserves for the secondary guarantees shall be the segmented reserves for the secondary guarantee period. In calculating the segments and the segmented reserves, the gross premiums shall be set equal to the specified premiums, if any, or otherwise to the minimum premiums, that keep the policy in force and the segments will be determined according to the contract segmentation method as defined in OAR 836-031-0760(2).  (3) Deficiency reserves, if any, for the secondary guarantees shall be calculated for the secondary guarantee period in the same manner as described in OAR 836-031-0770(2) with gross premiums set equal to the specified premiums, if any, or otherwise to the minimum premiums that keep the policy in force.  (4) The minimum reserves during the secondary guarantee period are the greater of:  (a) The basic reserves for the secondary guarantee plus the deficiency reserve, if any, for the secondary guarantees; or  (b) The minimum reserves required by other rules governing universal life plans. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 731.244 
+ 
+ 
+ Statutes/Other Implemented:  ORS 733.030, 733.210 & 733.300 - 733.322 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ ID 7-1999, f. 12-29-99, cert. ef. 1-1-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

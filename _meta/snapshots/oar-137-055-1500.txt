@@ -1,0 +1,369 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Justice 
+ Chapter 137 
+ 
+ 
+ 
+ 
+ 
+ Division 55 OREGON CHILD SUPPORT PROGRAM 
+ 137-055-1500 
+ Incentive Payments
+ 
+ 
+ (1) For purposes of this rule, the following definitions apply: 
+
+ (a) “Centralized services” may include, but are not limited to: accounting functions, bankruptcy case management, central registry for interstate cases, computer charges, constituent services, Oregon Child Support Program director’s office administrative costs, garnishments resulting from a Financial Institution Data Match, locate services, technology services, Oregon District Attorney Association liaison position, postage, receipt, distribution and disbursement of support payments, and unemployment compensation and workers’ compensation withholdings; 
+
+ (b) “County” or “Counties” means the county district attorneys under cooperative agreements to provide child support services under ORS 25.080 and any county which enters into an agreement with the Division of Child Support (DCS) under ORS 25.080(5) on or after May 1, 2001, for DCS to assume the functions of the district attorney; 
+
+ (c) “Counties’ Collection Base” is that portion of the “State’s Collection Base” attributable only to amounts for cases assigned to the counties; 
+
+ (d) “DCS’ Collection Base” is that portion of the “State’s Collection Base” attributable only to amounts for cases assigned to DCS; 
+
+ (e) “State’s Collection Base” has the meaning given in 45 CFR 305.31(f); 
+
+ (f) “Available incentive payment pool” is the projected amount from the biennial budget of the gross amount of incentives to be received from the federal Department of Health and Human Services (DHHS) for the current fiscal year. 
+
+ (2) Beginning with incentive payments received for federal fiscal year (FFY) 2002 (October 1, 2001 through September 30, 2002), incentive payments received by the Oregon Child Support Program from the federal DHHS pursuant to 45 CFR 305 et seq. will be allocated to each county and DCS based on their performance in four program areas: 
+
+ (a) Support order establishment; 
+
+ (b) Current support collections; 
+
+ (c) Collection on arrears; and 
+
+ (d) Cost-effectiveness. 
+
+ (3) The incentive calculations for the current federal fiscal year will be based on the performance data from the final Office of Child Support Enforcement 157 report for the previous FFY and the state’s available incentive payment pool for the current FFY. 
+
+ (4) The formulas to compute each county’s and DCS’ performance for the four program areas identified in section (2) of this rule are as stated in 45 CFR 305.2. 
+
+ (5)(a) The level of performance of each county and DCS as calculated using the formulas referenced in section (4) of this rule determines the applicable percentage for each of the four performance measures as set out in tables in 45 CFR 305.33; 
+
+ (b) The cost effectiveness performance category will include an addition to the total expenditures of the counties for the cost of centralized services and a subtraction of the same amount from the DCS total expenditures for the cost of centralized services provided to the counties. 
+
+ (6) For the support order establishment and current support collections performance measures, the applicable percentages as determined per subsections (5)(a) and (b) of this rule are multiplied by 100% of the counties’ collection base for county computations or 100% of DCS’ collection base for DCS computations. 
+
+ (7) For cases receiving an arrears payment and the cost effectiveness performance measures, the applicable percentages as determined per subsections (5)(a) and (b) of this rule are multiplied by 75% of the counties’ collection base for county computations or 75% of DCS’ collection base for DCS computations. 
+
+ (8) The incentive calculations for the four performance areas calculated in sections (6) and (7) of this rule are added together to obtain the following amounts: 
+
+ (a) The incentive base amount for each individual county; and 
+
+ (b) The incentive base amount for DCS. 
+
+ (9) The sum of the incentive base amounts for all the counties as calculated in subsection (8)(a) is the total incentive base amount for all the counties. 
+
+ (10) The state aggregate incentive base amount is the sum of the total incentive base amount for all the counties as calculated in section (9), and the incentive base amount for DCS as calculated in subsection (8)(b). 
+
+ (11)(a) The counties’ collective incentive payment share is determined by dividing the total incentive base amount for all the counties as calculated in section (9), by the state aggregate incentive base amount as calculated in section (10), then multiplying the resulting percentage by the available incentive payment pool for the current FFY. 
+
+ (b) The counties’ collective incentive payment share will be reduced by a proportionate share of costs for centralized services, as determined upon review and agreement pursuant to section (15) of this rule, to be retained by DCS to offset the costs of such services provided to the counties by DCS. 
+
+ (c) Each individual county’s incentive payment is determined by dividing its county’s incentive base amount by the total incentive base amount for all the counties, then multiplying the resulting percentage by the counties’ collective incentive payment share as determined in subsection (11)(b). 
+
+ (12) DCS’ incentive payment is determined by dividing the DCS incentive base amount by the state aggregate incentive base amount as calculated in section (10), then multiplying the resulting percentage by the available incentive payment pool for the current FFY. 
+
+ (13) Each county’s and DCS’ incentive payment, as calculated respectively in subsection (11)(c) and section (12) of this rule, will be distributed in equal quarterly payments for the current FFY based on the counties’ and DCS’ performance for the prior FFY. 
+
+ (14) When the federal DHHS reconciles and determines the actual annual incentive payment to the state following the end of each FFY, any resulting positive or negative incentive adjustment amount will be apportioned according to the calculations in sections (4) through (12) of this rule using the performance figures for the corresponding prior FFY: 
+
+ (a) If the adjustment results in a positive incentive to the counties, such payment will be distributed and, as appropriate, disbursed no later than 60 days following the state’s receipt of the incentive adjustment from the federal DHHS; or 
+
+ (b) If the adjustment results in a negative incentive and incentive overpayment to the counties, such overpayment will be recovered from future incentive payments. 
+
+ (15) The allocation of incentive payments as set out in this rule and the cost of centralized services will be reviewed every two years, commencing in January 2004. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 180.345, 45 CFR 305.2 & 45 CFR 305.33 
+ 
+ 
+ Statutes/Other Implemented:  ORS 180.345 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 8-2026, minor correction filed 02/26/2026, effective 02/26/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 9-2025, amend filed 12/22/2025, effective 01/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 12-2023, minor correction filed 07/14/2023, effective 07/14/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 6-2018, minor correction filed 03/28/2018, effective 03/28/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 8-2007, f. 9-28-07, cert. ef. 10-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 10-2003, f. 9-29-03, cert. ef. 10-1-03, Renumbered from 461-200-1500 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 6-2003(Temp), f. 6-25-03, cert. ef. 7-1-03 thru 12-28-03, Renumbered from 461-200-1500 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 4-2003, f. 2-25-03, cert. ef. 3-1-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 32-2000, f. 11-29-00, cert. ef. 12-1-00, Renumbered from 461-195-0255 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 66-1989, f. 11-28-89, cert. ef. 12-1-89, Renumbered from 461-035-0052 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 14-1986, f. & ef. 2-11-86 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 80-1985(Temp), f. & ef. 12-31-85 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

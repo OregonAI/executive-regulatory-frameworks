@@ -1,0 +1,414 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Transportation 
+ Driver and Motor Vehicle Services Division - Chapter 735 
+ 
+ 
+ 
+ 
+ Division 60 THIRD PARTY TESTING FOR COMMERCIAL DRIVER LICENSES 
+ 735-060-0003 
+ Definitions
+ 
+ 
+ The following definitions apply to terms in OAR Chapter 735, Division 60: 
+
+ (1) “Administrative training” means instruction provided by DMV to a CDL Third Party Tester Representative that describes the administrative requirements and duties of a CDL Third Party Tester, including but not limited to, maintaining records, CDL road test route development, and proper completion of DMV-required reports in CSTIMS. 
+
+ (2) “Business day” means 8:00 a.m. to 5:00 p.m. any weekday, excluding any holiday when DMV is closed. 
+
+ (3) “Calendar day” means the period that begins at 12:01 a.m. and ends at 11:59 p.m. on the same day. 
+
+ (4) “Cancel” in relation to a CDL Third Party Tester Certificate of a CDL Third Party Examiner Certificate means to void the authority granted by the certificate. 
+
+ (5) “CDL” means a Class A, B or C Commercial Driver License. 
+
+ (6) “CDL skills test” means the test, as described in OAR 735-060-0120, of the competency of the CDL applicant to operate a CMV of the type and class for which the test qualifies the CDL applicant. 
+
+ (7) “CDL Third Party Examiner” or “Examiner” means an individual who has been authorized by DMV to administer a CDL skills test through a CDL Third Party Tester. 
+
+ (8) “CDL Third Party Examiner Certificate” means a document issued by DMV that authorizes an individual to administer, on behalf of DMV, a CDL skills test to a CDL applicant. 
+
+ (9) “CDL Third Party Tester” or “Tester” means a person authorized by DMV to operate a CDL skills testing program and provide a CDL Third Party Examiner to administer CDL skills tests to determine driver competency. 
+
+ (10) “CDL Third Party Tester Certificate” means a driver competency testing document issued by DMV to authorize the person to operate as a Tester, pursuant to ORS 807.080. 
+
+ (11) “CDL Third Party Tester Representative” or “Representative” means an individual, designated by the CDL Third Party Tester, to be responsible for the Tester’s activities required by administrative rule and the CDL Third Party Tester Agreement. 
+
+ (12) “CLP” means a commercial learner driver permit issued under ORS 807.285. 
+
+ (13) “CMV” means “commercial motor vehicle” as defined in ORS 801.208. 
+
+ (14) “CSTIMS” means Commercial Skills Test Information Management System, a web-based computer system for scheduling and reporting CDL skills tests information and results. 
+
+ (15) “Commercial truck or bus driver training school” means a licensed private career school or community college that offers training to the general public in driving CMVs. 
+
+ (16) “DMV” means the Driver and Motor Vehicle Services Division of the Oregon Department of Transportation. 
+
+ (17) “ELDT” has the meaning assigned that term within OAR 735-063-0205. 
+
+ (18) “FMCSA” means the Federal Motor Carrier Safety Administration of the United States Department of Transportation. 
+
+ (19) “Motor carrier” means a for-hire carrier or private carrier, as those terms are defined in ORS 825.005 that is subject to the FMCSA Regulations. 
+
+ (20) “Oregon CDL Examiner’s Manual” (DMV Form 735-7306) means the document that provides information to DMV and Examiners on administering a CDL skills test as provided in OAR 735-060-0120. 
+
+ (21) “Owner,” when used in connection with a person that is a CDL Third Party Tester, means a sole proprietor, partner, officer, director or a shareholder who holds 20% or more of the business. 
+
+ (22) “Person” is as defined in ORS 174.100. 
+
+ (23) “Personal information” is as defined in ORS 802.175. 
+
+ (24) “Revocation” means the termination of a CDL Third Party Tester Certificate or of a CDL Third Party Examiner Certificate and the right to apply for the certificate for the length of time specified in the Notice of Revocation. 
+
+ (25) “Suspension” means a temporary withdrawal of the authority granted by a CDL Third Party Tester Certificate or of a CDL Third Party Examiner Certificate for the length of time specified in the Notice of Suspension. 
+
+ (26) “Test site” means the physical location where an Examiner administers the pre-trip vehicle inspection and the basic control skills test portions of the CDL skills test. 
+
+ (27) “Traffic crime” is as defined in ORS 801.545. 
+
+ (28) “Valid CDL” means a CDL issued to an Examiner for the class of vehicle, with any necessary endorsement, required to operate a CMV for which the Examiner intends to administer CDL skills tests. “Valid CDL” does not include: 
+
+ (a) A CDL with restrictions that would make the Examiner’s operation of the CMV unlawful under ORS 807.010(2); 
+
+ (b) A CDL that is currently expired, suspended, revoked, cancelled, or otherwise withdrawn in any jurisdiction; or 
+
+ (c) A grant of driving privileges issued as a permit. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 184.619, 802.010, 807.072 & 807.080 
+ 
+ 
+ Statutes/Other Implemented:  ORS 807.040, 807.070, 807.072 & 807.080 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMV 2-2022, amend filed 01/25/2022, effective 01/25/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMV 23-2019, amend filed 12/17/2019, effective 12/17/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMV 13-2019, temporary amend filed 05/20/2019, effective 05/20/2019 through 11/15/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 735-060-0000, DMV 5-2016, f. 9-22-16, cert. ef. 9-26-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMV 20-2010, f. 11-19-10, cert. ef. 1-1-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMV 16-2010, f. 9-27-10, cert. ef. 9-30-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMV 31-2005, f. & cert. ef. 12-14-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMV 16-2003, f. & cert. ef. 11-18-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMV 1-1998, f. & cert. ef. 1-26-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ MV 10-1992, f. 8-21-92, cert. ef. 9-1-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ MV 16-1991, f. 9-18-91, cert. ef. 9-29-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ MV 9-1991(Temp), f. & cert. ef. 7-26-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ MV 6-1990, f. & cert. ef. 4-2-90 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ MV 23-1987, f. & ef. 9-28-87, Renumbered from 735-031-0600 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ MV 4-1987, f. & ef. 5-18-87 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ MV 11-1986, f. 6-27-86, ef. 7-1-86 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

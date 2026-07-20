@@ -1,0 +1,366 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+   Temporary rule language in effect until 12/27/2026. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Building Codes Division - Chapter 918 
+ 
+ 
+ 
+ 
+ Division 674 PREFABRICATED CONSTRUCTION 
+ 918-674-0740 
+ Division Fees
+ 
+ 
+ (1) The following fees are adopted by the division for the purposes of administering and enforcing the division’s prefabricated structures program. The fees in this rule may be incorporated into an electronic system for the purposes of the division calculating fee amounts for plan reviews, inspections, insignias and other fees associated with administering and enforcing the prefabricated structures program. 
+
+ (2) The fees in this rule do not apply to local building departments where the local building department issues permits and performs plan reviews and inspections for the installation of prefabricated structures as specified in these rules. Local building department must use appropriate fees adopted by the municipality for work under the purview of the local building department. 
+
+ (3) The plan review and inspection fees established in this rule do not apply to a prefabricated third-party agency. Plan review and inspection fees charged by a prefabricated third-party agency are established through a contractual agreement between the prefabricated third-party agency and the manufacturer they provide service to. Division fees established in this rule for Oregon insignia of compliance may not be changed by a prefabricated third-party agency regardless if the insignia of compliance is for a prefabricated building plan reviewed and inspected by a prefabricated third-party agency. 
+
+ (4) Registration fees: 
+
+ (a) Each manufacturing facility manufacturing prefabricated buildings or prefabricated components and businesses performing alterations to Oregon-approved prefabricated buildings: $100; 
+
+ (b) Annual renewal of registration: $20; 
+
+ (c) Administration fee for change of name, ownership or location of manufacturing facility or business: $20. 
+
+ (5) Travel expenses for out-of-state inspections: 
+
+ (a) In addition to the inspection fees established in section (8) of this rule, the division must be reimbursed for travel expenses for out-of-state inspections based actual costs for published airfare or equivalent, required surface transportation costs, parking fees, and costs for meals and lodging consistent with the allowances established by the Oregon Department of Administrative Services for authorized state employee travel. 
+
+ (b) Out-of-state travel expenses are calculated based on portal-to-portal methodology. 
+
+ (6) Plan review fees: 
+
+ (a) Plan review fees for prefabricated buildings are based on a percentage of the calculated permit fee amount for each code discipline (structural, mechanical, electrical, plumbing). The methodology for calculating plan review fees must be according to the following. 
+
+ (A) The structural plan review fee for commercial and residential prefabricated buildings is calculated according to the requirements established in OAR 918-460-0030 for commercial projects and OAR 918-480-0020 for residential projects. The methodology for calculation is provided in this rule for convenience. 
+
+ (i) Determine the building valuation from the Building Valuation Data Table in OAR 918-460-0030 for commercial projects under the Oregon Structural Specialty Code or OAR 918-480-0020 for residential projects under the Oregon Residential Specialty Code. 
+
+ (ii) For commercial projects the applicant may use either the valuation amount determined from the Building Valuation Data Table or a valuation amount stated by the applicant. The greater of the two valuation amounts will be used by the division. 
+
+ (iii) Apply the total valuation amount to OAR 918-460-0050 Table 2-S for commercial projects and residential projects. 
+
+ (iv) The amount calculated is considered the calculated structural permit fee amount. 
+
+ (v) The structural plan review fee is 65 percent of the calculated structural permit fee amount. 
+
+ (B) The fire and life safety plan review fee is 40 percent of the calculated structural permit fee amount. 
+
+ (C) The plumbing plan review fee for commercial and residential prefabricated buildings is calculated by determining the calculated plumbing permit fee using the applicable fee amounts in OAR 918-780-0080 and applying the applicable methodology established in OAR 918-050-0100. The methodology for a plumbing permit fee calculation is provided in this rule for convenience. 
+
+ (i) For residential projects the base fee amount includes one kitchen and one bathroom. A graduated scale and associated fee applies to each additional bathroom (up to three) or additional kitchens. The total amount is the calculated plumbing permit fee amount. 
+
+ (ii) For commercial projects use the base fee amount and then add any additional fixtures over the base number of fixtures to calculate the plumbing permit fee amount. The total amount is the calculated plumbing permit fee amount. 
+
+ (iii) The plumbing plan review fee is 30 percent of the calculated plumbing permit fee amount. 
+
+ (D) The mechanical plan review fee for commercial and residential prefabricated buildings is calculated according to the requirements established in OAR 918-440-0050 and the applicable fee methodology in 918-050-0100 for commercial projects or OAR 918-480-0020 for residential projects. The methodology for a mechanical permit fee calculation is provided in this rule for convenience. 
+
+ (i) For commercial projects the applicant must state the value of the mechanical equipment and installation costs and apply that amount to the division’s commercial mechanical permit fee schedule to determine the calculated mechanical permit fee amount. 
+
+ (ii) For residential projects determine the number of appliances and equipment from OAR 918-440-0050 Table 1-M and add up the fee amounts to determine the calculated mechanical permit fee amount. 
+
+ (iii) The mechanical plan review fee is 25 percent of the calculated mechanical permit fee amount. 
+
+ (E) The electrical plan review fee for commercial and residential prefabricated buildings is calculated according to the permit fee amounts established in OAR chapter 918, divisions 309 and 311. Typical methodologies applicable to prefabricated buildings are provided in this rule for convenience. 
+
+ (i) For one- and two-family dwellings, permit fees are based on the square footage of the building. There is a base permit fee amount for the first 1,000 square feet or less, and an additional fee amount for each additional 500 square feet more than the base 1,000 square feet. The total of these two amounts is the calculated electrical permit fee amount for one- and two-family dwellings. 
+
+ (ii) For all other buildings or structures there are fee amounts for services, feeders, and branch circuits. Determine the number of services, feeders, branch circuits. The total of all of these fees is the calculated electrical permit fee amount. 
+
+ (iii) The electrical plan review fee is 25 percent of the calculated electrical permit fee amount. 
+
+ (b) The hourly fee for a design option plan review or plan review for alterations is $60 per hour, minimum charge of one hour; 
+
+ (c) The fee for renewal of a valid plan and any applicable design options previously reviewed and approved is 50 percent of the initial plan review fees for both the base plan and any design options; 
+
+ (d) The fee for additional review of approved plans required by changes, additions or revisions are calculated at the hourly rate established in these rules; 
+
+ (e) An administrative fee of $100 will be charged for the transfer of an approved plan to another manufacturer; 
+
+ (f) The fee for reinstatement of plans that have expired or have been revoked by the division, is 100 percent of the appropriate plan review fee; 
+
+ (g) An administrative fee of $60 for filing an initial Notice to Local Enforcement Agency form and when any changes or revisions are made to a previously approved Notice to Local Enforcement Agency. 
+
+ (7) Compliance control program fees: 
+
+ (a) To review manufacturing facility compliance control manual: $400; 
+
+ (b) For resubmission of a compliance control manual that has been revoked or not approved: $200; 
+
+ (c) To transfer a compliance control program: $100; 
+
+ (d) For in-plant, field evaluation or audit of a compliance control program: $60 per hour. 
+
+ (8) Inspection and service fees: 
+
+ (a) Inspection fees for each prefabricated building are covered by the permit fee amounts calculated for a prefabricated building and collected by the division after the plans for a prefabricated building have been approved by the division. Calculated permit fee amounts are collected for each prefabricated building constructed for each code discipline associated with that prefabricated building. The maximum number of inspections allowed for each building for each code discipline is established in administrative rules adopted by the division or as specified in Oregon adopted specialty codes. 
+
+ (b) Fees for other inspections not covered by permit fees for the initial construction of a prefabricated building include, but are not limited to, any required reinspections or alteration inspections, are as follows. Inspection fees include travel time portal-to-portal. 
+
+ (A) For structural and mechanical inspections, $60 per hour. 
+
+ (B) For electrical inspections, the fee amount in OAR 918-309-0070. 
+
+ (C) For plumbing inspections, the fee amount in OAR 918-780-0080. 
+
+ (c) The permit fee for prefabricated components and sandwich panels is $ 0.03 per square foot of the total surface area for all panels erected. This fee must be paid at the same time an application is made for a single-component insignia of compliance, or it must be remitted to the division within one month of the date a component insignia of compliance was issued by a registered manufacturer authorized to issue insignia of compliance acquired under bulk insignias issuance. Monthly reporting of insignia issuance and payment of fees must be submitted using a division-approved monthly report form. 
+
+ (d) A fee of $19.50 per hour will be charged for technical consultation, with a minimum charge of one hour. 
+
+ (9) Insignia of compliance fees: 
+
+ (a) For a single section prefabricated building or the first section of a multi-section prefabricated building $50; 
+
+ (b) For each additional section of a multi-section prefabricated building $35; 
+
+ (c) For prefabricated components $50. 
+
+ (d) Alteration insignia of compliance are those fees in subsection (a) and (b) of this section. 
+
+ (10) Prefabricated third-party agency fees: 
+
+ (a) Certification application review fee: $400; 
+
+ (b) Certification renewal fee: $200; 
+
+ (c) Certification amendment fee: $60; 
+
+ (d) Application for recertification fee: $400; 
+
+ (e) Monitoring fee: $60 per hour. 
+
+ (11) Other inspection fees: 
+
+ (a) Any person who commences any work before obtaining the required plans, inspections, and insignia as established in these rules may be subject to an investigative fee. The amount of the investigative fee is the average or actual additional cost of ensuring that the work is in conformance with these rules and will be in addition to the required permit fees. 
+
+ (b) In addition to the required inspections, the division may make or require additional inspections to ensure compliance with the provisions of Oregon law, Oregon Specialty Codes and administrative rule. 
+
+ (12) Plan review fees for reciprocity plan reviews performed by the division are as follows: 
+
+ (a) One hundred percent of the structural, fire and life safety, mechanical, electrical, and plumbing plan review fees established in this rule when the division is determined to be the receiving state and will be performing a primary plan review. 
+
+ (b) Where the division is not the receiving state and only performing a secondary plan review: 
+
+ (A) Fifty percent of the structural plan review fee established in this rule; 
+
+ (B) One hundred percent of the fire and life safety, mechanical, electrical, and plumbing plan review fees established in this rule. 
+
+ [Publications: Publications referenced are available from the agency. Tables referenced are not included in rule text.] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 455.058, ORS 455.095, ORS 455.100, ORS 455.110 & ORS 455.210 
+ 
+ 
+ Statutes/Other Implemented:  ORS 455.210 & ORS 455.705 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BCD 8-2026, temporary amend filed 07/01/2026, effective 07/01/2026 through 12/27/2026 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BCD 5-2026, renumbered from 918-674-0155, filed 06/30/2026, effective 07/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BCD 12-2018, amend filed 06/21/2018, effective 07/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ BCD 11-1999, f. 9-7-99, cert. ef. 10-1-99 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ BCD 8-1999(Temp), f. & cert. ef. 7-1-99 thru 12-27-99 
+BCD 20-1998, f. 9-30-98, cert. ef. 10-1-98 
+BCD 7-1996, f. 3-29-96, cert. ef. 4-1-96 
+BCD 19-1994, f. 8-30-94, cert. ef. 9-1-94 
+BCA 27-1993, f. 10-22-93, cert. ef. 11-1-93 
+BCA 9-1993(Temp), f. 5-28-93, cert. ef. 6-1-93 
+BCA 25-1992, f. 12-28-92, cert. ef. 1-1-93 
+BCA 37-1991, f. 10-23-91, cert. ef. 10-31-91 
+BCA 17-1991(Temp), f. 6-12-91, cert. ef. 7-1-91 
+DC 9-1982, f. & cert. ef. 3-1-82, Renumbered from 814-050-0155 
+DC 13-1981, f. 10-30-81, cert. ef. 11-1-81 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

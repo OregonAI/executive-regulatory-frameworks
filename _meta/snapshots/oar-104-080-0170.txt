@@ -1,0 +1,259 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Department of Emergency Management 
+ Chapter 104 
+ 
+ 
+ 
+ 
+ 
+ Division 80 9-1-1 EMERGENCY COMMUNICATIONS  SYSTEM PROGRAM 
+ 104-080-0170 
+ Databases
+ 
+ 
+ (1) When interoperability of the emergency communications system requires a provider to share its ANI and ALI information or any other database information with another provider, the provider shall do so, subject to a Department-approved implementation method. 
+
+ (2) The selective routing database contained within each approved selective routing device must be maintained by the provider of the selective routing device in a manner that accurately reflects the most recent issuance or change of address, service or service account datum within 48 hours of the change. 
+
+ (3) A provider is responsible for making subscriber information data available through an ANI and ALI database query to the requesting PSAP at the time the PSAP receives or handles an emergency call. 
+
+ (4) Unless approved by the Department, a provider may not require a PSAP to query more than one ALI database for all emergency calls received by the PSAP. 
+
+ (5) A provider of an ANI and ALI database is responsible for the provider-based MSAG process, including compilation and continued maintenance. A provider must incorporate into the MSAG changes submitted by a PSAP within 72 hours of the submission. 
+
+ (6) A provider must make available ANI and ALI information to all PSAPs upon receipt of an emergency call and may not control or limit the PSAP’s access. 
+
+ (7) ALI information must include the following, if available: 
+
+ (a) Area code and ANI information of caller; 
+
+ (b) Date; 
+
+ (c) Time in 24-hour format; 
+
+ (d) Non-published designation when requested by the caller; 
+
+ (e) Subscriber name; 
+
+ (f) House number; 
+
+ (g) House number suffix; 
+
+ (h) Pilot or P-ANI number (if wireless); 
+
+ (i) Prefix or post directional; 
+
+ (j) Street name including type; 
+
+ (k) Location information; 
+
+ (l) Emergency service number; 
+
+ (m) Community name; 
+
+ (n) State; 
+
+ (o) Office approved class of service; 
+
+ (p) Caller’s service provider; 
+
+ (q) Latitude and longitude information of wireless caller location for Phase II wireless, or that of the cell tower for Phase I; 
+
+ (r) Wireless confidence intervals and reliability factors; 
+
+ (s) Caller’s elevation, speed, and direction of travel if available; 
+
+ (t) PSAP name; and 
+
+ (u) Emergency service number English translation. 
+
+ (8) Ownership of the MSAG is jointly held between the primary PSAP, the provider, and the Department. 
+
+ (9) The MSAG Coordinator in each 9-1-1 jurisdiction must coordinate with the ANI and ALI database provider to provide for MSAG updates into the ANI and ALI database. MSAG updates may be made as frequently as necessary for the 9-1-1 jurisdiction, but no less frequently than monthly. 
+
+ (10) All 9-1-1 geographic information data shall be delivered to and shared with the Department. The Department may use, manipulate, process, and store all 9-1-1 GIS data according to industry best practices. 
+
+ (11) All GIS data must be delivered to the Department in a standard data model[1], format[2], and method as set by the Department. 
+
+ [Publications [1]: Publications referred to or incorporated by reference in this rule are available from the Department and are also available at https://cdn.ymaws.com/www.nena.org/resource/resmgr/standards/nena-sta-006_ng9-1-1_gis_dat.pdf 
+
+ [Publications [2]: Publications referred to or incorporated by reference in this rule are available from the Office and are also available at https://www.oregon.gov/OEM/Documents/oregonali_aliaqor.pdf] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 403.120; 2015 HB 2426 
+ 
+ 
+ Statutes/Other Implemented:  ORS 403 & 2015 HB 2426 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OEM 25-2023, minor correction filed 04/10/2023, effective 04/10/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OEM 2-2018, amend filed 11/02/2018, effective 11/02/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OEM 3-2015, f. & cert. ef. 12-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

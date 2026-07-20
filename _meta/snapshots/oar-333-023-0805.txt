@@ -1,0 +1,269 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 23 PRESCRIPTION DRUG MONITORING PROGRAM 
+ 333-023-0805 
+ Definitions
+ 
+ 
+ Unless otherwise stated in OAR 333-023-0800 through 333-023-0830, or the context of OAR 333-023-0800 through 333-023-0830 requires otherwise, the following definitions apply to OAR 333-023-0800 through 333-023-0830: 
+
+ (1) "Approved entity" means an eligible entity that has been approved by the Authority to connect a health information technology system to the prescription monitoring data integration solution. 
+
+ (2) "Authority" means the Oregon Health Authority. 
+
+ (3) "Controlled substance" means a prescription drug classified in Schedules II through IV under the Federal Controlled Substances Act, 21 U.S.C. 811 and 812, as modified under ORS 475.035. 
+
+ (4) "Delegate" means a member of staff of a practitioner or pharmacist who is authorized by the practitioner or pharmacist to access the system on his or her behalf. 
+
+ (5) "Dental director" has the meaning given that term in ORS 431A.850. 
+
+ (6) "Diagnosis code" means an ICD-10 code for the underlying medical, dental or behavioral health condition for which the controlled substance is prescribed. 
+
+ (7) "Dispense" and "dispensing" have the meaning given those terms in ORS 689.005. 
+
+ (8) "Eligible entity" means an organization or entity that operates, or provides or makes available a health information technology system to a practitioner or pharmacist or a member of the practitioner’s or pharmacist’s staff. 
+
+ (9) "Health information technology system" means an information processing application using computer hardware and software for the storage, retrieval, sharing and use of health care information, data and knowledge for communication, decision-making, quality, safety and efficiency of a clinical practice. 
+
+ (10) "Health professional regulatory board" has the meaning given that term in ORS 676.160. 
+
+ (11) "Medical director" has the meaning given that term in ORS 431A.850. 
+
+ (12) "Patient record" means a collection of documents, either paper or electronically, that provides an account of patient care. 
+
+ (13) "Pharmacy" has the meaning given that term in ORS 689.005 but does not include a pharmacy in an institution as defined in ORS 179.010. 
+
+ (14) "Pharmacy director" has the meaning given that term in ORS 431A.850. 
+
+ (15) "Practitioner" has the meaning given that term in ORS 431A.850. 
+
+ (16) "Prescription drug" has the meaning given that term in ORS 689.005. 
+
+ (17) "Reason for prescription" means the underlying medical, dental or behavioral health condition for which the controlled substance is prescribed. 
+
+ (18) "System" means the secure electronic system used to monitor reported prescription drug information. 
+
+ (19) "Unsecure data" means data that is electronic and is not encrypted at the level established by the National Institute of Standards and Technology. 
+
+ (20) "Vendor" means the private entity under contract with the Authority to operate the system. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 431A.855 
+ 
+ 
+ Statutes/Other Implemented:  ORS 431A.855 - 431A.895 & 431.900 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 27-2019, amend filed 12/16/2019, effective 01/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 232-2018, amend filed 07/02/2018, effective 07/02/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 2-2017, f. & cert. ef. 1-10-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 410-121-4005, PH 28-2015, f. 12-29-15, cert. ef. 1-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 64-2013, f. & cert. ef. 11-19-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 6-2011, f. & cert. ef. 5-5-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

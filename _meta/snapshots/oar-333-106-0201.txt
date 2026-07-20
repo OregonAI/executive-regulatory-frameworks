@@ -1,0 +1,209 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 106 X-RAYS IN THE HEALING ARTS 
+ 333-106-0201 
+ Fluoroscopic X-ray Systems 
+ 
+ All fluoroscopic X-ray systems shall meet the following requirements:  (1) Primary Barrier:  (a) The fluoroscopic imaging assembly shall be provided with a primary protective barrier which intercepts the entire cross section of the useful beam at any SID;  (b) The X-ray tube used for fluoroscopy shall not produce X-rays unless the barrier is in position to intercept the entire useful beam.  (2) Nonimage intensified types of fluoroscopes shall not be used.  (3) Image-Intensified Fluoroscopy and Spot Filming:  (a) For image-intensified fluoroscopic equipment, neither the length nor the width of the X-ray field in the plane of the image receptor shall exceed that of the visible area of the image receptor by more than three percent of the SID. The sum of the excess length and the excess width shall be no greater than four percent of the SID. In addition:  (A) Means shall be provided to permit further limitation of the field. Beam-limiting devices manufactured after May 22, 1979, and incorporated in equipment with a variable SID or a visible area of greater than 300 square cm shall be provided with means for stepless adjustment of the X-ray field;  (B) All equipment with a fixed SID and a visible area of 300 square cm or less shall be provided with either stepless adjustment of the X-ray field or with means to further limit the X-ray field size at the plane of the image receptor to 125 square cm or less. Stepless adjustment shall, at the greatest SID, provide continuous field sizes from the maximum obtainable to a field size of 5 cm by 5 cm or less;  (C) For equipment manufactured after February 25, 1978, when the angle between the image receptor and beam axis is variable, means shall be provided to indicate when the axis of the X-ray beam is perpendicular to the plane of the image receptor; and  (D) Compliance shall be determined with the beam axis indicated to be perpendicular to the plane of the image receptor. For rectangular X-ray fields used with circular image reception, the error in alignment shall be determined along the length and width dimensions of the X-ray field which pass through the center of the visible area of the image receptor.  (b) Spot-film devices which are certified components shall meet the following additional requirements:  (A) Means shall be provided between the source and the patient for adjustment of the X-ray field size in the plane of the film to the size of that portion of the film which has been selected on the spot-film selector. Such adjustment shall be automatically accomplished except when the X-ray field size in the plane of the film is smaller than that of the selected portion of the film. For spot film devices manufactured after June 21, 1979, if the X-ray field size is less than the size of the selected portion of the film, the means for adjustment of the field size shall be only at the operator's option;  (B) It shall be possible to adjust the X-ray field size in the plane of the film to a size smaller than the selected portion of the film. The minimum field size at the greatest SID shall be equal to, or less than, 5 cm by 5 cm;  (C) The center of the X-ray field in the plane of the film shall be aligned with the center of the selected portion of the film to within two percent of the SID; and  (D) On spot-film devices manufactured after February 25, 1978, if the angle between the plane of the image receptor and beam axis is variable, means shall be provided to indicate when the axis of the X-ray beam is perpendicular to the plane of the image receptor, and compliance shall be determined with the beam axis indicated to be perpendicular to the plane of the image receptor.  (c) If a means exists to override any of the automatic X-ray field size adjustments required in section (3) of this rule, that means:  (A) Shall be designed for use only in the event of system failure;  (B) Shall incorporate a signal visible at the fluoroscopist's position which will indicate whenever the automatic field size adjustment is overridden; and  (C) Shall be clearly and durably labeled as follows: "FOR X-RAY FIELD LIMITATION SYSTEM FAILURE" 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 453.605 - 453.807 
+ 
+ 
+ Statutes/Other Implemented:  ORS 453.605 - 453.807 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 32-2014, f. 12-22-14, cert. ef. 1-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 14-2008, f. & cert. ef. 9-15-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 12-2006, f. & cert. ef. 6-16-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 1-1991, f. & cert. ef. 1-8-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 4-1985, f. & ef. 3-20-85 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

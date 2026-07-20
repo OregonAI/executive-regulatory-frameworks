@@ -1,0 +1,264 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Energy 
+ Chapter 330 
+ 
+ 
+ 
+ 
+ 
+ Division 240 SOLAR PLUS STORAGE REBATE PROGRAM 
+ 330-240-0030 
+ Project Eligibility 
+ 
+ To be eligible for a rebate for the sale, construction, or installation of a solar electric system, energy storage system that will be paired at the time of installation with a previously purchased and installed solar electric system, or a paired solar and storage system, the system must meet the following requirements: 
+
+ (1) The solar electric system, energy storage system, or paired solar and storage system must be installed by an eligible contractor. The contractor may use subcontractors in the construction or installation of a solar electric system, energy storage system, or paired solar and storage system; however, all firms and individuals working on the construction or installation of a solar electric system, energy storage system, or paired solar and storage system, whether working on behalf of the contractor or a subcontractor, must hold any license, bond, insurance or permit required for the work performed. 
+
+ (2) In the case of a paired solar and storage system, the solar electric system and energy storage system must be purchased together from the same eligible contractor. 
+
+ (3) In the case of a paired solar and storage system, the solar electric system and associated energy storage must be constructed and installed by the same eligible contractor or a subcontractor working for the eligible contractor, as provided in subparagraph (1), such that the energy storage system provides storage capacity for electrical energy produced by the solar electric system. 
+
+ (4) In the case of a paired solar and storage system, the system must include a minimum of one kilowatt DC of solar electric nameplate capacity for every five kilowatt-hours of battery storage. 
+
+ (5) In the case of an energy storage system that will be paired at the time of installation with a previously purchased and installed solar electric system, the paired system must include a minimum of one kilowatt DC of solar electric nameplate capacity for every five kilowatt-hours of battery storage. 
+
+ (6) The purchase contract for a solar electric system, energy storage system, or paired solar and storage system must be signed on or after January 1, 2020. 
+
+ (7) A contractor must submit a reservation application before starting construction or installation of a solar electric system, energy storage system, or paired solar and storage system in order to be eligible for a rebate. 
+
+ (8) The solar electric system, energy storage system that will be paired at the time of installation with a previously purchased and installed solar electric system, or paired solar and storage system must be installed on real property in Oregon. 
+
+ (9) The solar electric system, energy storage system that will be paired at the time of installation with a previously purchased and installed solar electric system, or paired solar and storage system must benefit a residential customer or a low-income service provider as defined in these rules. 
+
+ (10) The solar electric system, energy storage system, or paired solar and storage system must consist of new equipment. 
+
+ (11) In the case of a solar electric system, the system must contain all components necessary to convert and deliver solar energy into electrical energy for use in a dwelling or commercial application. 
+
+ (12) Equipment purchased for a solar electric system or a paired solar and storage system must include a manufacturer warranty covering the following: 
+
+ (a) The photovoltaic inverters for a minimum of five years against manufacturer’s defects. 
+
+ (b) Photovoltaic modules for a minimum of 20 years against degradation of performance below 80 percent of original output under standard test conditions. 
+
+ (13) All installations of a solar electric system or paired solar and storage system must include a total system workmanship warranty that covers the installation of solar panels, inverters, racking, patented roof protection systems, roof penetrations, batteries, electrical and mechanical parts, and wiring for the duration of at least five years. 
+
+ (14) All installations of an energy storage system that will be paired at the time of installation with a previously purchased and installed solar electric system must include a workmanship warranty that covers the installation of the battery for the duration of at least five years. 
+
+ (15) Any equipment installed as part of a solar electric system, energy storage system that will be paired at the time of installation with a previously purchased and installed solar electric system, or paired solar and storage system must meet industry standards and the technical specifications provided in these rules. 
+
+ (16) The solar electric system, energy storage system that will be paired at the time of installation with a previously purchased and installed solar electric system, or paired solar and storage system must have received all applicable electrical and structural permits from the local jurisdiction and must pass all final inspections conducted by the authority having jurisdiction. 
+
+ (17) The solar electric system, energy storage system that will be paired at the time of installation with a previously purchased and installed solar electric system, or paired solar and storage system must follow electric utility-specific rules and regulations. 
+
+ (18) The Total Solar Resource Fraction (“TSRF”) shall be calculated for each photovoltaic array and provided to the Department for reporting in the Department’s designated software system. The Department reserves the right to request documentation from a solar site analysis tool and to conduct independent verification of TSRF values. If all modules in a photovoltaic array do not meet the minimum TSRF requirement under this section, an eligible contractor may apply for a reservation based on the eligible modules. Only photovoltaic modules that meet the minimum performance standards of this section represent installed capacity for the purpose of solar electric system rebate calculations. All installations must meet the following minimum performance standards: 
+
+ (a) For on-site shade analysis the TSRF must be 75 percent or greater at all points on the photovoltaic array. 
+
+ (b) For remote shade analysis the TSRF must be 80 percent or greater for the roof plane where the photovoltaic array is located. 
+
+ (19) In the case of an energy storage system that will be paired at the time of installation with a previously purchased and installed solar electric system, the previously installed solar electric system must meet the minimum performance standards in 330-240-0030(18)(a) or (b). 
+
+ (20) Under no circumstances will more than one rebate be issued under the program for the same solar electric system, energy storage system, or paired solar and storage system. 
+
+ (21) A solar electric system, energy storage system, or paired solar and storage system installed for a low-income service provider who is eligible under 330-240-0070 paragraph (4) must be installed on a public building that provides social services to low- or moderate-income individuals, or provides emergency shelter and/or communications in disaster situations. 
+
+ (22) A solar electric system or paired solar and storage system may share an AC disconnect and main utility panel. 
+
+ (23) A solar electric system or paired solar and storage system qualifying for residential rebates may not be part of a larger system or share components such as racking with other solar electric or paired solar and storage systems. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 469.040 & Oregon Laws 2019 chapter 655 (House Bill 2618) 
+ 
+ 
+ Statutes/Other Implemented:  Oregon Laws 2019 chapter 655 (House Bill 2618) 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 1-2026, amend filed 04/28/2026, effective 04/29/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 3-2022, amend filed 04/13/2022, effective 04/15/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 1-2020, amend filed 05/28/2020, effective 05/28/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 3-2019, adopt filed 12/19/2019, effective 01/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

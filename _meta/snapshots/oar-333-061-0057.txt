@@ -1,0 +1,360 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 61 DRINKING WATER 
+ 333-061-0057 
+ Voluntary Drinking Water Protection Program
+ 
+ 
+ (1) In accordance with OAR 340-040-0140 through 0200, a public water system or other responsible management authority that wishes to have a state certified drinking water protection program shall comply with the requirements prescribed in this rule. 
+
+ (2) As used in this rule, the following definitions apply: 
+
+ (a) "Conceptual model" means a three-dimensional representation of the groundwater system, including the location and extent of the hydrogeologic units, areas of recharge and discharge, hydrogeologic boundaries and hydraulic gradient. 
+
+ (b) "Effective porosity" means the ratio of the volume of interconnected voids (openings) in a geological formation to the overall volume of the material. 
+
+ (c) "Hydrogeologic boundary" means physical features that bound and control direction of groundwater flow in a groundwater system. Boundaries may be in the form of a constant head (for example, streams) or represent barriers to flow (for example, groundwater divides and impermeable geologic barriers). 
+
+ (d) "Hydrogeologic mapping" means characterizing hydrogeologic features (for example, hydrogeologic units or hydrogeologic boundaries) within an area and determining their location, areal extent and relationship to one another. 
+
+ (e) "Hydrogeologic unit" means a geologic formation, group of formations, or part of a formation that has consistent and definable hydraulic properties. 
+
+ (f) "Porous media assumption" means the assumption that groundwater moves in the aquifer as if the aquifer were granular in character, that is moves directly down-gradient, and the velocity of the groundwater can be described by Darcy's Law. 
+
+ (g) "Provisional delineation" means approximating the WHPA for a well by using the WHPA from another well in the same hydrogeologic setting or by using generalized values for the aquifer characteristics to generate an approximate WHPA for the well. Used only for the purpose of evaluating potential siting of new or future groundwater sources. Not an acceptable way to formally delineate a WHPA. 
+
+ (h) "Recharge area" means a land area in which water percolates to the zone of saturation through infiltration from the surface. 
+
+ (i) "Recovery" means the rise in water level in a well from the pumping level towards the original static water level after pumping has been discontinued. 
+
+ (j) "Water-bearing zone" means that part or parts of the aquifer encountered during drilling that yield(s) water to a well. 
+
+ (3) Delineation of the DWPA: 
+
+ (a) Delineations will be accomplished for all Community, Non-transient Non Community and Transient Non Community water systems as part of the Safe Drinking Water Act’s Source Water Assessment Program. Water systems may choose to complete or upgrade the delineations themselves. If so, they must comply with subsection (3)(b) of this rule; 
+
+ (b) Delineation requirements for all groundwater sources are as follow: 
+
+ (A) Delineations will be accomplished using a minimum TOT criterion of 10 years unless a hydrogeologic boundary is encountered at a shorter time of travel or as specified in subsection (3)(c) of this rule. 
+
+ (B) Delineations will be accomplished by a registered geologist, engineering geologist or other licensed professional with demonstrated experience and competence in hydrogeology in accordance with ORS 672.505 through 672.705; 
+
+ (C) Except as noted in subsection (3)(c) of this rule, a conceptual ground water model shall be developed for all public water systems participating in the voluntary drinking water protection program. The model shall be based on available information including, but not limited to, well reports, published reports and available unpublished reports and theses, etc. Sources of this information include the Water Resources Department, U. S. Geological Survey, Department of Geology and Mineral Industries, Department of Environmental Quality, university libraries and the Authority. The model shall include, but not be limited to, the identification and characterization of hydrogeologic units, determination of hydrogeologic boundaries, if any, areas of discharge and recharge and distribution of hydraulic head for the aquifer(s) of concern. The model shall also evaluate whether or not the porous media assumption is valid; 
+
+ (D) The delineated DWPA and supporting documentation shall be submitted to the Authority for review and certification; 
+
+ (E) Within 60 days of the receipt of the delineated DWPA and supporting documentation, the Authority shall send a written acknowledgment of that receipt and an estimated date for review and certification of the delineation; 
+
+ (F) The delineation techniques stipulated in this rule represent the minimum acceptable effort required for a state certified program. The use of a more sophisticated technique is acceptable. 
+
+ (c) Springs. For water systems served by springs, hydrogeologic mapping shall be used to delineate the recharge area to the spring(s). 
+
+ (d) Wells. 
+
+ (A) All delineations for groundwater derived from wells shall use an adjusted pump rate (Qa) that allows for potential growth using one of the methods described below, whichever yields the smallest value for Qa: 
+
+ (i) 125 percent of average pump rate as determined from the three months representing the highest usage; or 
+
+ (ii) 125 percent of average pump rate as determined using a comparable community; or 
+
+ (iii) The design capacity of the pump; or 
+
+ (iv) 90 percent of the safe yield of the well. 
+
+ (v) The water system’s population times 200 gallons per day. 
+
+ (B) For water systems serving a population ≤500 and using a single well, the minimum acceptable delineation method is a calculated fixed radius. Parameters considered in this technique include Qa, effective porosity, open (screened or perforated) inter val or thickness of the water-bearing zone(s), whichever is less, and a TOT of 15 years. 
+
+ (C) For water systems serving a population of 501 to 3,300 or systems serving ≤500 with multiple wells, the DWPA(s) shall be delineated using a combination of an analytical technique and hydrogeologic mapping. 
+
+ (D) For water systems serving a population >3,300, the conceptual model shall be refined using site-specific collected data. Data collected shall include, but not be limited to, measured static water levels for the purpose of generating a map of the appropriate potentiometric-or water table surface, and a 24-hour or longer constant-rate aquifer test where a well is pumped and data is collected in a manner that provides information regarding the hydraulic characteristics of the aquifer. The well to be tested should remain idle for a period of 24 hours prior to the test. The pumping rate and water levels in the well should be monitored at appropriate intervals during the pre-pumping, pumping and recovery phases. Additional technical information is given in the Oregon Wellhead Protection Guidance Manual and the Oregon Source Water Assessment Guidance. 
+
+ (E) For water systems serving a population of 3,301 to 50,000, the DWPA(s) shall be delineated as provided in subsection (3)(c) of this rule, with the exception of using the site specific data collected in accordance with subsection (3)(c) of this rule. 
+
+ (F) For water systems serving a population >50,000 and using wells, the DWPA(s) shall be delineated using numerical models or comparable analytical methods. The model must be calibrated using field observations and measurements of appropriate hydrogeologic parameters. 
+
+ (e) Susceptibility Analysis. To guide the development of management strategies, the aquifer's susceptibility within the DWPA may be determined using the methods described in the Use and Susceptibility Waiver Guidance Document, the Oregon Source Water Assessment Guidance or another pre-approved process. Additional technical information is available in the Oregon Wellhead Protection Guidance Manual. 
+
+ (f) Delineation Update. The water system's DWPA delineation shall be re-examined every five years or during the sanitary survey for that system for potential revisions (OAR 340-040-0190). Factors that may require revision of a DWPA boundary include, but are not limited to the following: 
+
+ (A) A significant change in the pumping rate; 
+
+ (B) A significant change in recharge to the aquifer; 
+
+ (C) Wells outside the control of the water system placed in a manner that could significantly modify the shape or orientation of the original DWPA. 
+
+ (4) New and Future Groundwater Sources: 
+
+ (a) New sources. With regard to the voluntary wellhead protection program, a new source is defined as an additional or modified well or spring that will be used by the water system. 
+
+ (A) For new wells or springs outside an existing DWPA or deriving water from a different aquifer than that supplying other already delineated DWPAs, the following steps shall be completed: 
+
+ (i) If more than one potential site is available, the water system or other responsible management authority shall conduct a provisional delineation and a preliminary potential contaminant source inventory for each site being considered in order to evaluate the long-term viability of each of the sites available; and 
+
+ (ii) Delineate the chosen site as prescribed in section (3) of this rule. Further technical information is provided in the Oregon Wellhead Protection Guidance Manual. 
+
+ (B) For new wells or springs inside an existing DWPA or potentially influencing an existing DWPA, the following steps shall be completed: 
+
+ (i) Evaluate sites and delineate DWPA(s) as prescribed in subparagraphs (4)(a)(A)(i) and (ii) of this rule; and 
+
+ (ii) Modify the existing wellhead protection plan to encompass modifications resulting from the new delineation. 
+
+ (C) New wells or springs as defined in subsection (4)(a) of this rule shall comply with all appropriate construction standards as prescribed in OAR 333-061-0050 and shall comply with plan submission requirements as prescribed in OAR 333-061-0060. 
+
+ (b) Future sources. A public water system or other responsible management authority that has recognized the need for future groundwater supplies beyond their current capacity may choose to identify the area where this future supply will be obtained in accordance with subparagraph (4)(a)(A)(i) of this rule. 
+
+ (5) Contingency Planning: 
+
+ (a) Public water systems shall develop or revise contingency plans for response to potential loss or reduction of their drinking water source(s). Key elements of the plan shall include, but not be limited to, the following: 
+
+ (A) Inventory/prioritize all threats to the drinking water supply; 
+
+ (B) Prioritize water usage; 
+
+ (C) Anticipate responses to potential incidents; 
+
+ (D) Identify key personnel and development of notification roster; 
+
+ (E) Identify short-term and long-term replacement potable water supplies; 
+
+ (F) Identify short-term and long-term conservation measures; 
+
+ (G) Provide for plan testing, review and update; 
+
+ (H) Provide for new and on-going training of appropriate individuals; 
+
+ (I) Provide for education of the public; and 
+
+ (J) Identify logistical and financial resources. 
+
+ (b) Public water systems shall coordinate their contingency plan with the emergency response plans of the appropriate county or city and with the contingency plans developed by industries using hazardous materials within the WHPA. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 448.131 
+ 
+ 
+ Statutes/Other Implemented:  ORS 448.131, 448.150 & 448.273 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 2-2018, amend filed 01/10/2018, effective 01/10/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 7-2010, f. & cert. ef. 4-19-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 2-2006, f. & cert. ef. 1-31-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 20-2004, f. & cert. ef. 6-18-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 16-2004(Temp), f. & cert. ef. 4-9-04 thru 10-5-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHD 17-2002, f. & cert. ef. 10-25-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 1-1996, f. 1-2-96, cert. ef. 1-5-96 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

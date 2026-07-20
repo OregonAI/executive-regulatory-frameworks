@@ -1,0 +1,205 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 123 THERAPEUTIC RADIATION MACHINES 
+ 333-123-0140 
+ Superficial Electronic Brachytherapy: Facility Design Requirements 
+ 
+ (1) Treatment room shielding shall be adequate to meet the requirements of division 120 of this chapter. 
+
+ (2) Treatment room facility design information must be submitted to the Authority prior to: 
+
+ (a) The installation of a new superficial electronic brachytherapy device. 
+
+ (b) The installation of a superficial electronic brachytherapy device of a higher energy than the device currently being operated by the registrant. 
+
+ (3) The facility shall be designed such that no individual other than the patient and operator are in the treatment room during radiation therapy treatment and the operator must be protected by a barrier sufficient to meet the requirements of division 120 of this chapter. 
+
+ (4) In addition to shielding adequate to meet requirements of division 120 of this chapter, the treatment room must meet the following design requirements: 
+
+ (a) The room where the superficial electronic brachytherapy device is located must be secured to prevent unauthorized entry. 
+
+ (b) Treatment rooms must have warning lights, in a readily observable position (preferably at eye level) outside of all access doors to the therapy room. The warning lights must indicate when the useful beam is "ON" or when the room is being used for therapy purposes. 
+
+ (c) All entrance doors, including doors to any interior booths, must have safety interlocks that require the doors to be closed before treatment can be initiated or continued. If the radiation beam is interrupted by any door opening, the machine must be incapable of resuming operation with manual re-initiation at the control panel, and the machine must remain inoperable until the door is closed. In addition: 
+
+ (A) All safety interlocks must be designed so that any defect or component failure in the safety interlock system prevents or terminates operation of the superficial electronic brachytherapy device. 
+
+ (B) When the door to the treatment room is opened while the X-ray tube is activated, the air kerma rate at a distance of one meter from the source must be reduced to less than 1 mGy (100 mRad) per hour. 
+
+ (d) The treatment room must be designed such that the operator can continuously observe the patient during treatment. Specifically: 
+
+ (A) The viewing system must be configured so the operator can visually observe the patient from the control panel; 
+
+ (B) Windows, mirrors, closed-circuit television or an equivalent viewing system must permit continuous observation of the patient following positioning and during irradiation and must be so located that the operator may observe the patient from the treatment control panel . The superficial electronic brachytherapy device must not be used for patient irradiation unless at least one viewing system is operational . 
+
+ (C) The treatment room must have continuous two-way aural communication between the patient and the operator at the control panel. 
+
+ (D) The superficial electronic brachytherapy device must not be used for irradiation of patients unless continuous two-way aural communication is possible. 
+
+ (e) The control panel must: 
+
+ (A) Indicate whether electrical power is available at the control panel and if activation of the radiation is possible; 
+
+ (B) Indicate whether radiation is being produced; and 
+
+ (C) Include an access control (locking) device that will prevent unauthorized use of the superficial electronic brachytherapy device. 
+
+ (f) Emergency cutoff switches. At least one emergency power cutoff switch must be located in the radiation therapy room and must terminate all equipment electrical power including radiation and mechanical motion. All emergency power cutoff switches must include a manual reset so that the superficial electronic brachytherapy device cannot be restarted from the unit's control console without resetting the emergency cutoff switch. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 453.605 - 453.807 
+ 
+ 
+ Statutes/Other Implemented:  ORS 453.605 - 453.807 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 72-2020, adopt filed 10/09/2020, effective 10/09/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Public Utility Commission 
+ Chapter 860 
+ 
+ 
+ 
+ 
+ 
+ Division 86 CUSTOMER INFORMATION 
+ 860-086-0040 
+ Gas Utility Customer Information and Transfer of Data 
+ 
+ (1) A gas utility that offers energy conservation programs through the Administrator must transfer to the Administrator proprietary customer information for gas utility company customers as follows:  (a) If such information is available for its residential and commercial customers in the gas utility's records:  (A) Customer name;  (B) Service address (including apartment, unit, or suite number);  (C) Mailing address;  (D) Building type (for example, multifamily);  (E) Business type (identified using a Standard Industrial Classification (SIC) code or a U.S. Census Bureau NAICS code);  (F) Initially, 18 months of the most recent historical usage data;  (G) Meter and other point-of-delivery identification number;  (H) Rate schedules for each customer;  (I) Information about energy efficiency program participation,  (J) Type of space heat used by the customer; and  (K) Updates for all of the usage data and revisions to the underlying database information on a periodic basis under subsection (4)(d) of this rule; and  (b) If such information is available for its industrial sales customers or other customers not included in section (1)(a) and not subject under the applicable utility tariff to pay a public purpose charge:  (A) Customer name;  (B) Service address;  (C) Rate schedules; and  (D) Account numbers.  (2) A gas utility may not transfer to the Administrator the following customer information:  (a) Social security numbers;  (b) Billing and payment history;  (c) Credit information;  (d) Tax identification numbers;  (e) Driver license numbers;  (f) Life support information;  (g) Medical information;  (h) Proprietary customer information protected by the password provision required per OAR 860-021-0009(6);  (i) Proprietary customer information for customers who have requested that their information not be shared with third parties; or  (j) Proprietary customer information including usage data for the gas utility’s transportation customers.  (3) The Administrator must transfer to the gas utility information available in the Administrator’s records regarding gas utility customer participation in gas conservation programs where gas utility funding has been applied. At a minimum, the Administrator must provide:  (a) Customer name,  (b) Service address (including apartment, unit, or suite number),  (c) Meter number; and  (d) Information about gas efficiency program participation, such as gas measures installed since the inception of the Administrator’s delivery of the gas efficiency programs.  (4) The manner by which such information is transferred and used will be governed by an Information Transfer Agreement, which is executed and maintained by a gas utility and the Administrator. An Information Transfer Agreement must:  (a) Specify the necessary database format for information that will be transferred between the gas utility and the Administrator;  (b) Specify the billing period, payment arrangements, and estimates of incremental costs incurred by either the gas utility or the Administrator for the transfer of the information;  (c) Identify timelines for the transfer of information;  (d) Identify timelines for providing updates for data and revisions to the underlying database information;  (e) Acknowledge the Administrator’s obligations to protect proprietary customer information per this rule and the Administrator’s policy or policies adopted under section 10 of this rule;  (f) Acknowledge that the proprietary customer information will be used by the Administrator to implement, administer and evaluate gas efficiency programs, and the Administrator must regularly notify the gas utility of these activities;  (g) Acknowledge that the proprietary customer information provided to the Administrator will not be used for telemarketing to gas utility customers;  (h) Acknowledge that the Administrator may use proprietary customer information for the purpose of direct marketing of the Administrator’s gas efficiency programs, provided:  (A) The Administrator has given prior notification to the gas utility whose customers are likely to be affected;  (B) The Administrator has coordinated the direct marketing activities with the utility; and  (C) Disputes regarding the direct marketing activities may be addressed under section (6) of this rule.  (i) Acknowledge that the release of proprietary customer information by the Administrator for any other purpose or to any other third party who has not signed an agreement to treat such information confidentially under subsection 10(b) of this rule may not be made without consent of the customer; and  (j) Acknowledge that the information provided by the Administrator to the gas utility may be used by the gas utility solely for utility business, may not be shared with other parties, and if used for direct marketing, such use will be made only after notice to and in coordination with the Administrator.  (k) Provide for modification of the Information Transfer Agreement.  (5) If the Administrator and a gas utility company cannot agree on the terms and conditions of an Information Transfer Agreement, the Commission may set the terms and conditions based upon input from the Administrator and the gas utility company.  (6) If the Administrator or the gas utility notifies the other that the proprietary customer information supplied by the other is insufficient, incomplete, not usable, or is not being used in compliance with this rule, the Administrator and gas utility company will attempt to resolve the issue and, if necessary, modify the Information Transfer Agreement. If the Administrator and gas utility company cannot resolve the issue, either party may seek Commission resolution of the dispute.  (7) Each gas utility must send a notice to its customers prior to the Administrator’s receipt of their proprietary customer information:  (a) Informing them of the requirements of this rule;  (b) Explaining that the purpose of transferring customer data to the Administrator is to ensure that the Administrator is better prepared to assist a customer who is interested in participating in customer-funded energy efficiency and renewable energy programs; and  (c) Asking customers if they wish to be on a “do not contact” list, in which case they will receive no unsolicited contact from the Administrator, or its contractors.  (8) If a gas utility company receives an unsolicited request from a customer to not provide their proprietary customer information to the Administrator, and the customer has not agreed otherwise with the Administrator, the gas utility must honor that request unless the gas utility subsequently receives written consent from its customer to transfer their proprietary customer information to the Administrator. An unsolicited request includes a customer’s response to a notice from the gas utility explaining the customer’s rights.  (9) When a gas utility has provided proprietary customer information to the Administrator under this rule, the gas utility may not be charged with at-fault complaints filed with Commission's Consumer Services Division for the Administrator’s or the Administrator’s sub-contractors’ access to, use or mishandling of proprietary customer information.  (10) The Administrator must:  (a) Develop and adopt in an open process a policy or policies ensuring that the confidentiality of the proprietary customer information it receives from gas utilities is protected in a manner that meets the requirements of all federal, state and local laws regarding protection for this type of information;  (b) Agree to require its employees and contractors to commit to specific non-disclosure requirements in order to gain access to proprietary customer information which, at a minimum, require that the proprietary customer information:  (A) Be used only for the purposes of particular programs, projects or contracts;  (B) Be shared with a subcontractor only under similar conditions and requirements and only upon approval of the Administrator; and  (C) Be returned to the Administrator or destroyed at the completion of the project or termination of the contract; and  (c) Establish a process by which customers may require the Administrator not to use the proprietary customer information to make unsolicited contact with the customer. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 183, 756 & 757 
+ 
+ 
+ Statutes/Other Implemented:  ORS 756.040 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 6-2012, f. & cert. ef. 8-24-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

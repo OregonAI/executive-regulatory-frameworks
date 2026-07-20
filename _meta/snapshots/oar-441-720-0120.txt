@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Finance and Securities Regulation - Chapter 441 
+ 
+ 
+ 
+ 
+ Division 720 CREDIT UNIONS 
+ 441-720-0120 
+ Risk Weights and Risk Categories 
+ 
+ The following risk weights and risk categories are established for purposes of OAR chapter 441, division 720:  (1) Category One. Zero Percent Risk Weight.  (a) Coin and currency on hand or physically in transit;  (b) Balances due from and claims on Federal Reserve Banks;  (c) Claims on and portions of claims that are unconditionally guaranteed by the United States Government or its agencies;  (d) Claims Collateralized by cash or eligible deposits;  (e) CLF subscriptions, including U.S. Central CLF Certificates, and CLF Pass-Through Loans from the CLF through U.S. Central to the corporate central credit union;  (f) Asset Accounts related to Member Reverse Repurchase Agreements without indemnity obligation;  (g) Claims on or unconditionally guaranteed by sovereign central governments of “AAA” rated countries; and  (h) Accrued interest receivable on any of the above.  (2) Category Two. Twenty Percent Risk Weight:  (a) Items, other than coin and currency, in process of collection;  (b) Claims on or portions of claims guaranteed by United States Government-sponsored corporations and enterprises;  (c) Claims conditionally guaranteed by the United States Government or its agencies or by United States Government-sponsored corporations and enterprises;  (d) Claims or portions of claims (including Repurchase Agreements) collateralized by securities issued by the United States Government or its agencies or by United States Government-sponsored corporations and enterprises;  (e) General obligation claims on state and local governments located in the United States;  (f) Claims on United States depository institutions (including Federal Funds sold) or claims on depository institutions (including Federal Funds sold) chartered in countries rated AAA, other than the United States, provided the depository institution meets at least one of the following conditions:  (A) The institution has a short-term debt rating not lower than A-2 (or equivalent) by any firm recognized by the SEC as qualified to assign risk ratings to various instruments required to be registered with the SEC;  (B) The institution has a long-term debt rating not lower than A- (or equivalent) by any firm recognized by the SEC as qualified to assign risk ratings to various instruments required to be registered with the SEC; or  (C) The institution has an issuer rating not lower than B/C (or equivalent) by any firm recognized by the SEC as qualified to assign risk ratings to various instruments required to be registered with the SEC.  (g) Claims on a corporate central credit union;  (h) Asset accounts related to Member Reverse Repurchase Agreements with indemnity obligations;  (i) Delivery Versus Payment (DVP) Repurchase Transactions in which the corporate central credit union receives the securities collateralizing the transactions, and the corporate central credit union is authorized to invest in these securities;  (j) Tri-party repurchase transactions with broker-dealers having at least $100 million in capital which are collateralized by securities that the corporate central credit union is authorized to invest in;  (k) Asset-backed securities rated no lower than AAA with remaining weighted average lives of three years or less;  (l) All federally issued CMOs/REMICs and privately issued CMOs/REMICs as defined in Section 3(a)(41) of the Securities Exchange Act of 1934, excluding CMOs/REMICs collateralized by whole loan mortgages, that comply with the following limitations:  (A) An investment in a fixed-rate CMO/REMIC must have an expected average life not to exceed five years given an immediate and sustained increase of 300 basis points in mortgage loan commitment rates. This average life standard shall apply at the time of purchase and on any subsequent review date assuming market interest rates and prepayment speeds at the time that the test is applied. The corporate central credit union shall use the average of the prepayment estimates of several major securities broker-dealers as the prepayment assumption for the underlying mortgages. In computing the expected average life of a CMO/REMIC investment, it must be assumed that the anticipated rate of prepayment remains constant over the remaining life of the mortgage collateral. This limitation does not apply if principal payments of the investment are specifically matched to principal payments of the corresponding liability;  (B) If the CMO/REMIC has a variable interest rate with a cap, then the lesser of the highest interest rate cap or the final interest rate cap during the average life at the time of purchase must be at least 200 basis points above the rate of the corresponding liability that it is matched against. This limitation does not apply if principal payments of the investment are specifically matched to principal payments of the corresponding liability;  (C) Any CMO/REMIC security downgraded below AA-(or equivalent) by the same SEC-recognized rating agency used when the investment was purchased, if material in amount, shall be divested;  (D) Privately issued CMO/REMIC securities shall not exceed five percent of the corporate central credit union’s net assets for any single issuer.  (m) Secured loans to credit unions; and  (n) Accrued interest receivable on any of the above.  (3) Category Three. 50 Percent Risk Weight;  (a) Asset-backed securities rated no lower than AAA with remaining weighted average lives greater than three years;  (b) All CMOs/REMICs collateralized by whole loan mortgages that otherwise meet the requirements of paragraphs (2)(l)(A) through (D) of this rule;  (c) Accrued interest receivable on any of the above.  (4) Category Four. 100 percent Risk Weight which is hereby assigned to all other assets including, but not limited to:  (a) Loans to and investments in Credit Union Service Organizations;  (b) Unsecured loans to credit unions;  (c) All fixed assets, including land, buildings, furniture, fixtures, equipment, automobiles, and leasehold improvements;  (d) All Hold-in-Custody Repurchase Agreements;  (e) MCSD deposits in a corporate central credit union;  (f) Stripped Mortgage-Backed Securities;  (g) Residual Interests of CMOs/REMICs;  (h) Zero Coupon Securities with a maturity date more than five years from the purchase settlement date of the security;  (i) Claims, including commercial paper and corporate bonds, on United States chartered corporations and bank holding companies;  (j) Mutual Funds that do not qualify for a lower risk weighting;  (k) Prepaid Assets;  (l) Accounts Receivable and other receivables;  (m) NCUSIF Deposits;  (n) Mortgage servicing rights;  (o) Intangible assets; and  (p) Accrued interest receivable on any of the above. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 723.102, 723.156 & 723.730 
+ 
+ 
+ Statutes/Other Implemented:  ORS 723.730 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ FCS 5-1992, f. & cert. ef. 12-21-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

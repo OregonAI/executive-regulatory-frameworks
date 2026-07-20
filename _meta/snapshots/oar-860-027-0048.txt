@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Public Utility Commission 
+ Chapter 860 
+ 
+ 
+ 
+ 
+ 
+ Division 27 BUDGETS, FINANCE, ACCOUNTING AND ANNUAL REPORTS 
+ 860-027-0048 
+ Allocation of Costs by an Energy Utility 
+ 
+ (1) As used in this rule:  (a) "Affiliate" means a corporation or person who has an affiliated interest, as defined in ORS 757.015, with an energy utility;  (b) "Approved rates" means rates established by the Commission or FERC;  (c) "Asset" means any tangible or intangible property of an energy utility or other right, entitlement, business opportunity, or other thing of value to which an energy utility holds claim that is recorded or should be recorded as a capital expenditure in the energy utility’s financial statements. All energy utility tangible or intangible property, rights, entitlements, business opportunities, and things of value should be considered an asset, a service, or supplies;  (d) "Commission" means the Public Utility Commission of Oregon;  (e) "Cost" means fully distributed cost, including the energy utility’s authorized rate of return and all overheads;  (f) "Energy utility" is that defined in OAR 860-027-0001(1);  (g) "Fair market value" means the potential sales price that could be obtained by selling an asset in an arm’s-length transaction to a nonaffiliated entity, as determined by commonly accepted valuation principles;  (h) "FERC" means the Federal Energy Regulatory Commission;  (i) "Market rate" means the lowest price that is available from nonaffiliated suppliers for comparable services or supplies;  (j) "Net book value" means original cost less accumulated depreciation;  (k) "Nonregulated activity" means an activity that is not a regulated activity of the energy utility as defined in subsection (1)(l) of this rule;  (l) "Regulated activity" means a Commission regulated activity that is provided by an energy utility directly or indirectly relating to the general operations of the energy utility such as production, transmission, delivery, or furnishing of heat, light, or power unless the Commission has determined the activity to be exempt from regulation;  (m) "Services" means labor-related activities including, but not limited to advice, auditing, accounting, sponsoring, engineering, managing, operating, financing, and legal. All energy utility tangible or intangible property, rights, entitlements, business opportunities, and things of value should be considered an asset, a service, or supplies; and  (n) "Supplies" means any tangible or intangible property of an energy utility or other thing of value to which an energy utility holds claim that is recorded or should be recorded as an operating expense in the energy utility’s financial statements. All energy utility tangible or intangible property, rights, entitlements, business opportunities, and things of value should be considered an asset, a service, or supplies.  (2) Regulated and nonregulated activities of an energy utility shall be accounted for in accordance with OARs 860-027-0045, 860-027-0055, or 860-027-0065, as appropriate.  (3) The energy utility shall use the following cost allocation methods when transferring assets or supplies, or providing or receiving services between regulated and nonregulated activities:  (a) When an asset is transferred to regulated accounts from nonregulated accounts, the transfer shall be recorded in regulated accounts at the lower of net book value or fair market value.  (b) When an asset is transferred from regulated accounts to nonregulated accounts, the transfer shall be recorded in regulated accounts at the approved rate if an appropriate rate is on file with the Commission or with FERC. If no approved rate is applicable, proceeds from the transfer shall be recorded in regulated accounts at the higher of net book value or fair market value.  (c) When an asset is transferred from regulated accounts to nonregulated accounts at a fair market value that is greater than net book value, the difference shall be a gain to the regulated activity. The energy utility shall record the gain so the Commission can determine the proper disposition of the gain in a subsequent rate proceeding.  (d) When services or supplies are transferred or provided by a regulated activity to a nonregulated activity, transfers shall be recorded in regulated revenue accounts at the approved rate if an applicable rate is on file with the Commission or with FERC. If services or supplies are not transferred or provided pursuant to an approved rate, transfers shall be recorded in regulated accounts at the energy utility’s cost or the market rate, whichever is higher. Approved rates shall be established as appropriate.  (e) When services or supplies (except for generation) are transferred or provided to a regulated activity by a nonregulated activity, transfers shall be recorded in regulated accounts at the nonregulated activity’s cost or the market rate, whichever is lower. The nonregulated activity’s cost shall be calculated using the energy utility’s most recently authorized rate of return.  (f) For generation, when services or supplies are transferred or provided to a regulated activity by a nonregulated activity, transfers shall be recorded in regulated accounts at the market rate.  (g) Income taxes shall be calculated for the regulated activity on a standalone basis for both ratemaking purposes and regulatory reporting. When income taxes are determined on a consolidated basis, the regulated activity shall record income tax expense as if it were determined for the regulated activity separately for all time periods.  (4) The energy utility shall use the following cost allocation methods when transferring assets or supplies or providing or receiving services involving its affiliates:  (a) When an asset is transferred to an energy utility from an affiliate, the transfer shall be recorded in the energy utility’s accounts at the lower of net book value or fair market value.  (b) When an asset is transferred from an energy utility to an affiliate, the transfer shall be recorded in the energy utility’s accounts at the approved rate if an appropriate rate is on file with the Commission or with FERC. If no approved rate is applicable, proceeds from the transfer shall be recorded in the energy utility’s accounts at the higher of net book value or fair market value.  (c) When an asset is transferred from an energy utility’s accounts to an affiliate at a fair market value that is greater than net book value, the difference shall be a gain to the energy utility. The energy utility shall record the gain so the Commission can determine the proper disposition of the gain in a subsequent rate proceeding.  (d) When services or supplies are sold by an energy utility to an affiliate, sales shall be recorded in the energy utility’s revenue accounts at the approved rate if an applicable rate is on file with the Commission or with FERC. If services or supplies are not sold pursuant to an approved rate, sales shall be recorded in the energy utility’s accounts at the energy utility’s cost or the market rate, whichever is higher. Approved rates shall be established as appropriate.  (e) When services or supplies (except for generation) are sold to an energy utility by an affiliate, sales shall be recorded in the energy utility’s accounts at the approved rate if an applicable rate is on file with the Commission or with FERC. If services or supplies (except for generation) are not sold pursuant to an approved rate, sales shall be recorded in the energy utility’s accounts at the affiliate’s cost or the market rate, whichever is lower.  (f) For generation, when services or supplies are sold to an energy utility by an affiliate, sales shall be recorded in regulated accounts at the market rate.  (g) When services or supplies are sold to an energy utility by an affiliate under contract, the transfer price shall be based upon the tariff or terms of the contract approved by the Commission Order under ORS 757.495.  (h) Income taxes shall be calculated for the energy utility on a standalone basis for both ratemaking purposes and regulatory reporting. When income taxes are determined on a consolidated basis, the energy utility shall record income tax expense as if it were determined for the energy utility separately for all time periods.  (5) Each energy utility shall maintain a current cost allocation manual on file with the Commission. The cost allocation manual shall contain the following:  (a) A description of each of the energy utility’s nonregulated activities and affiliates (or a referral to such a description already on file with the Commission);  (b) A chart showing the energy utility’s nonregulated activities and affiliates (or a referral to such a chart already on file with the Commission); and  (c) A detailed description of the methods used by the energy utility to allocate costs to nonregulated activities and affiliates including the method used by the energy utility to calculate costs that are applied to sales or transfers with nonregulated activities and transactions with affiliates.  (6) The energy utility must file its initial cost allocation manual within 180 days of the effective date of this rule. The cost allocation manual shall also be filed annually as an appendix to the Affiliated Interest Report required under OAR 860-027-0100.  (7) When an energy utility proposes any change to cost allocation methods in the cost allocation manual previously filed with the Commission, the utility shall file the proposed change with the Commission no less than 45 days before the effective date of the change. The changes shall go into effect unless rejected by the Commission before the effective date of the change. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 183, 756 & 757 
+ 
+ 
+ Statutes/Other Implemented:  ORS 756.040, 757.490 & 757.495 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 25-2003, f. & cert. ef. 12-11-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

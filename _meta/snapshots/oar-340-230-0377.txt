@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 230 INCINERATOR REGULATIONS 
+ 340-230-0377 
+ Municipal Waste Combustors, Small Municipal Waste Combustion Unit: Operating Requirements 
+ 
+ (1) No person may operate the municipal waste combustor unit at loads greater than 110 percent of the maximum demonstrated load of the municipal waste combustion unit (4-hour block average).  (2) No person may operate the municipal waste combustion unit so that the temperature at the inlet of the particulate matter control device exceeds 17O C above the maximum demonstrated temperature of the particulate matter control device (4-hour block average).  (3) If the municipal waste combustion unit uses activated carbon to control dioxins/furans or mercury emissions, an 8-hour block average carbon feed rate must be maintained at or above the highest average level established during the most recent dioxins/furans or mercury test.  (4) If the municipal waste combustion unit uses activated carbon to control dioxins/furans or mercury emissions, the total carbon usage for each calendar quarter must be evaluated. The total amount of carbon purchased and delivered to the municipal waste combustion plant must be at or above the required quarterly usage of carbon. The owner or operator may choose to evaluate required quarterly carbon usage on a municipal waste combustion unit basis for each individual municipal waste combustion unit at the plant. The calculation of the required quarterly usage of carbon must be made using either equation 4 or 5 for plant basis or unit basis.  (a) Equation 4: Plant basis  n  C=_fi *  hi i=1  Where C = required quarterly carbon usage for the plant in kilograms (or pounds); fi = required carbon feed rate for the municipal waste combustion unit in kilograms (or pounds) per hour. That is the average carbon feed rate during the most recent mercury or dioxins/furans stack tests (whichever has a higher feed rate); hi = number of hours the municipal waste combustion unit was in operation during the calendar quarter (hours); n = number of municipal waste combustion units, i, located at the plant.  (b) Equation 5: Unit basis C = f * h  Where C = required quarterly carbon usage for the unit in kilograms (or pounds); f = required carbon feed rate for the municipal waste combustion unit in kilograms (or pounds) per hour. That is the average carbon feed rate during the most recent mercury or dioxins/furans stack tests (whichever has a higher feed rate); h = number of hours the municipal waste combustion unit was in operation during the calendar quarter (hours);  (5) The municipal waste combustion unit is exempt from limits on load level, temperature at the inlet of the particulate matter control device, and carbon feed rate during any of the following five situations:  (a) During the annual tests for dioxins/furans.  (b) During the annual mercury tests (for carbon feed rate requirements only).  (c) During the 2 weeks preceding the annual tests for dioxins/furans.  (d) During the 2 weeks preceding the annual mercury tests (for carbon feed rate requirements only).  (e) Whenever the Department permits any of the following five activities:  (A) Evaluate system performance;  (B) Test new technology or control technologies;  (C) Perform diagnostic testing;  (D) Perform other activities to improve the performance of the municipal waste combustion unit;  (E) Perform other activities to advance the state of the art for emission controls for the municipal waste combustion unit.  (6) Exception for periods of startup, shutdown, and malfunction.  (a) The operating requirements contained in this rule apply at all times except during periods of municipal waste combustion unit startup, shutdown, or malfunction.  (b) Each startup, shutdown, or malfunction must not last for longer than 3 hours. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468A.025 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 4-2003, f. & cert. ef. 2-06-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

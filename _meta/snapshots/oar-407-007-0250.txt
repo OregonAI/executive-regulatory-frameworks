@@ -1,0 +1,487 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Chapter 407 
+ 
+ 
+ 
+ 
+ 
+ Division 7 CRIMINAL HISTORY AND ABUSE CHECKS 
+ 407-007-0250 
+ Background Check Process
+ 
+ 
+ (1) In order to conduct a background check on an SI, BCU must receive authorization from the SI allowing the criminal records check and abuse check to proceed. If the SI refuses to provide authorization for the background check, BCU terminates the background check immediately and the QE may not allow the SI to work, volunteer, be employed, reside, or otherwise perform in positions covered by these rules. 
+
+ (2) BCU conducts a criminal records check on an SI through LEDS maintained by the Oregon State Police (OSP) and handles criminal offender information in accordance with ORS chapter 181A and the rules adopted thereto (see OAR chapter 125, division 007; and chapter 257, division 15). 
+
+ (3) If a national criminal records check is necessary, OSP provides BCU results of national criminal records checks conducted pursuant to ORS 181A.195, including fingerprint identification, through the FBI. 
+
+ (4) The criminal records check may include one or more types of criminal records checks as defined in OAR 407-007-0010. BCU considers the date of the last criminal records check completed before the final fitness determination as the date of the background check’s criminal records check. 
+
+ (5) BCU conducts abuse checks on an SI using available abuse investigation reports and associated documents. 
+
+ (6) For SIs subject to ORS 475A and OAR 333-333-4100: 
+
+ (a) Section (5) of this rule does not apply . 
+
+ (b)  None of the conditions listed in OAR 407-007-0290 are potentially disqualifying . 
+
+ (7) A QE and SI must use ORCHARDS to request a background check. In accordance with OAR 125-007-0220, the background check request includes the following information regarding an SI: 
+
+ (a) Legal name and aliases; 
+
+ (b) Date of birth; 
+
+ (c) Address and recent residency information; 
+
+ (d) Driver license or identification card information; 
+
+ (e) Position title and description of duties to be considered; 
+
+ (f) Indication of the SI’s direct contact with any of the following: 
+
+ (A) Children (for a child-caring agency governed by OAR chapter 419 division 400, children includes an individual who is under 21 years of age who is residing in or receiving care or services); 
+
+ (B) Adults; 
+
+ (C) Seniors (65 years and older); 
+
+ (D) Confidential information; 
+
+ (E) Secure Facilities; 
+
+ (F) Finances or financial records; or 
+
+ (G) Information Technology Systems. 
+
+ (g) Worksite location or locations where the SI will be working; 
+
+ (h) Disclosure of all potentially disqualifying criminal history pursuant to OAR 407-007-0281 and 407-007-0290: 
+
+ (A) While the SI may provide minimal information to meet this requirement, the Department finds that more details from the SI provides positive information for the weighing test in OAR 407-007-0300.  The SI may disclose details of potentially disqualifying arrests, charges, convictions, and any other conditions at a minimum, and may disclose all arrests, charges, and convictions regardless of outcome or when the arrests, charges, or convictions occurred. Disclosure includes any juvenile or adult record of custody, arrests, charges, or the outcome of custody, arrests, or charges against a juvenile or adult. 
+
+ (B) The disclosed crimes and the dates must reasonably match the SI’s criminal offender information and other criminal history information, as determined by BCU. 
+
+ (C) The SI is not required to disclose any criminal history which has been expunged or set aside by a court in any jurisdiction. However, if the SI does disclose expunged or set aside criminal history, the Department may not consider the criminal history as potentially disqualifying or in a weighing test if the Department has proof that the criminal history has been expunged or set aside by a court in any jurisdiction. 
+
+ (D) The Department may only consider criminal history as allowed in the weighing test, OAR 407-007-0300. 
+
+ (i) Disclosure of other information to be considered in the event of a weighing test. 
+
+ (A) The SI may provide mitigating information for BCU to review in a weighing test. 
+
+ (B) BCU may require the SI to provide other information as needed to conduct the weighing test. 
+
+ (j) For an SI who is a proctor foster parent: 
+
+ (A) The SI must provide a release of information allowing the Department to provide the QE with information regarding the open or pending abuse investigations or founded or substantiated allegations of abuse against the SI. 
+
+ (B) The SI must also disclose: 
+
+ (i) Any currently open or pending child or adult abuse investigations in which the SI is reported or alleged to be responsible for the abuse; 
+
+ (ii) Any child or adult abuse investigations with an outcome of founded or substantiated in which the SI is determined to have been responsible for the abuse; and 
+
+ (iii) Any restraining order or protective orders against the SI. 
+
+ (C) If the SI has any of the following, the Department must provide the QE notification: 
+
+ (i) Information regarding the open or pending abuse investigations in which the SI is a reported or alleged perpetrator. 
+
+ (ii) Information regarding substantiated allegations of abuse against the SI. 
+
+ (iii) Confirmation of the SI being certified or licensed by the Department as a child foster home parent. 
+
+ (8) The background check request must include the following notices to the SI: 
+
+ (a) A notice regarding disclosure of Social Security number indicating that: 
+
+ (A) The SI’s disclosure is voluntary; and 
+
+ (B) The Department requests the Social Security number for the purpose of positively identifying the SI during the criminal records check process. 
+
+ (b) A notice that the SI may be subject to fingerprinting as part of a criminal records check. 
+
+ (c) A notice that BCU conducts an abuse check on the SI. Unless required by rule, an SI is not required to disclose any history of potentially disqualifying abuse, but may provide BCU with mitigating or other information. 
+
+ (d)  A notice that the SI has the right to challenge criminal or abuse history through the local source of the information. 
+
+ (9) Using identifying information submitted in a background check request, BCU conducts an abuse check to determine if an SI has potentially disqualifying abuse.  If required by federal law or regulation, the abuse check must include an out of state child abuse check. 
+
+ (10) BCU conducts an Oregon criminal records check. Using information submitted on the background check request, BCU may obtain criminal offender information from LEDS and may request other criminal history information as needed. 
+
+ (11) BCU may conduct a fingerprint-based national criminal records check. 
+
+ (a) A fingerprint-based national criminal records check may be completed under any of the following circumstances: 
+
+ (A) The SI has been outside Oregon for 60 or more consecutive days during the previous five years. 
+
+ (B) The criminal offender information from the LEDS check, SI disclosures, or any other criminal history information obtained by BCU indicate there may be criminal records outside of Oregon. 
+
+ (C) The criminal offender information from the LEDS check, SI disclosures, or any other criminal history information obtained by BCU do not provide enough information to confirm that there are no criminal records outside of Oregon. 
+
+ (D) The SI has an out-of-state driver license or out-of-state identification card. 
+
+ (E) BCU or the QE has reason to question the identity of the SI or the information on the criminal record found in LEDS. 
+
+ (F) A fingerprint-based criminal records check is required by federal or state laws or regulations, other Department or Authority rules, or by contract with the Department or Authority. 
+
+ (G)  The SI is an employee of an agency which the Centers for Medicare and Medicaid Services has designated high risk pursuant to 42 CFR 424.518. 
+
+ (H) Any SI applying to be or renewing the position with regard to child adoption or children in foster care licensed by the Department or child-caring agencies. Renewing SIs do not need a fingerprint-based criminal records check if BCU has a record of a previous fingerprint-based criminal records checks that is within three years from the date of the current background check request. Applicable SI positions include: 
+
+ (i) A relative caregiver, foster parent, proctor foster parent, or adoptive parent in Oregon; 
+
+ (ii) An adult household member in an adoptive or child foster home 18 years of age and over; 
+
+ (iii) A household member in an adoptive or child foster home under 18 years of age if there is reason to believe that the household member may pose a risk to children placed in the home; or 
+
+ (iv) A respite care provider or alternate caregiver in an adoptive or child foster home. 
+
+ (I) BCU has reason to believe that fingerprints are needed to make a final fitness determination. 
+
+ (b)  If an SI is under the age of 18 years old, BCU must request a fingerprint capture in accordance with OAR 125-007-0220(3). 
+
+ (c) The SI must complete and submit a fingerprint capture when requested by BCU within the time frame indicated in a written notice. BCU sends the request to the QE and the QED must notify the SI. BCU may require new fingerprint capture and its submission if previous fingerprint captures result in a rejection by OSP or the FBI. 
+
+ (12) For SIs who are subject to the Adam Walsh Act of 2006, or SIs who are employees of qualified entities which are subject to the federal 2018 Family First Prevention Services Act and which receive title IV-E funds, a background check must include: 
+
+ (a) A fingerprint-based national criminal records check; 
+
+ (b) In any state where the SI has resided for 60 or more consecutive days during the previous five years, an abuse check of child abuse and neglect registries. 
+
+ (13) BCU requires that due diligence be exercised in complying with national criminal records check requirements including fingerprints.  However, if BCU determines that an SI is unable to submit fingerprints, BCU must document the circumstances that led to the decision to waive fingerprinting and proceed with obtaining other criminal history information from states based on SI’s residential history and disclosures in lieu of a fingerprint-based criminal records check as required in this rule.  A fingerprint-based national criminal records may be waived due to inability to submit fingerprints unless fingerprints are required by state or federal laws or regulations.  Reasons for inability to submit fingerprints include but are not limited to: 
+
+ (a) A physical condition in which all the SI’s fingerprints are illegible or missing, or which makes the capture of fingerprints impossible; 
+
+ (b) A mental or psychological condition which makes the capture of fingerprints impossible; 
+
+ (c) Undue safety risk to the SI or other individuals in capturing the fingerprints. 
+
+ (14) BCU may also research other criminal history information from other states instead of or in addition to a national criminal records check. Reasons for such research include but are not limited to: 
+
+ (a) When BCU has reason to believe that out-of-state criminal records may exist and a national criminal records check cannot be accomplished. 
+
+ (b) When BCU has been unable to complete a national criminal records check due to illegible fingerprints. 
+
+ (c) When the national criminal records check results show incomplete information about charges or criminal records without final disposition. 
+
+ (d) When there is indication of residency or criminal records in a state that does not submit all criminal records to the FBI. 
+
+ (e) When, based on available information, BCU has reason to believe that other criminal history information regarding the SI is present in another state. 
+
+ (15) The criminal records check may include one or both types of criminal records checks as defined in OAR 407-007-0010.  
+
+ (16) In order to complete a fitness determination, BCU may conduct further research regarding criminal history and abuse history through local jurisdiction courts, Department records, or other resources. 
+
+ (17) In order to complete a background check and fitness determination, BCU may require additional information from the SI including but not limited to additional criminal, judicial, other background information, or proof of identity. 
+
+ (18) If BCU determines that an SI has additional potentially disqualifying convictions or conditions which have occurred after receiving the background check request, BCU must provide the SI, if available, the opportunity to disclose any information required in section (6) of this rule before completion of the final fitness determination. 
+
+ (19) BCU may conduct a background check in situations of imminent danger on SIs who have been background checked under these rules and who are currently with the same QE. 
+
+ (a) If the Department or Authority determines there is indication of criminal or abusive behavior that could more likely than not pose an immediate risk to vulnerable individuals, BCU may conduct a new criminal records check on an SI without the completion of a new background check request if allowed by statute or law. 
+
+ (b) If BCU determines that a fitness determination based on the new background check would be adverse to the SI, BCU may provide the SI, if available, the opportunity to disclose any information required in section (7) of this rule before completion of the final fitness determination. 
+
+ (20) If the criminal records check process results in an incomplete fitness determination as described in OAR 407-007-0320(2)(d), BCU closes the criminal records check. When a criminal records check results in an incomplete fitness determination, the SI must not be allowed to work, volunteer, be employed, or otherwise perform in the position listed on the criminal records check request. An incomplete fitness determination results in immediate termination, dismissal, or removal of the SI. 
+
+ (21)  BCU must document criminal records checks conducted under this rule . 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 181A.200, 409.027 & 409.050 
+ 
+ 
+ Statutes/Other Implemented:  ORS 181A.200, ORS 181A.195, 409.010, 418.248 & 443.004 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHS 1-2023, amend filed 01/27/2023, effective 02/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHS 24-2021, amend filed 12/15/2021, effective 12/17/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHS 7-2021, temporary amend filed 06/25/2021, effective 06/25/2021 through 12/21/2021 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 2-2020, amend filed 02/10/2020, effective 02/10/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 18-2019, temporary amend filed 09/26/2019, effective 09/27/2019 through 03/24/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 31-2018, amend filed 11/28/2018, effective 12/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 27-2018, temporary amend filed 09/27/2018, effective 09/27/2018 through 12/27/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 26-2018, temporary amend filed 09/20/2018, effective 09/20/2018 through 12/27/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 10-2017, f. & cert. ef. 9-1-17 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ DHSD 6-2017, f. 6-30-17, cert. ef. 7-1-17 
+DHSD 3-2017(Temp), f. & cert. ef. 3-15-17 thru 9-10-17 
+DHSD 9-2016, f. & cert. ef. 12-1-16 
+DHSD 6-2016(Temp), f. & cert. ef. 7-1-16 thru 12-27-16 
+DHSD 5-2016, f. 6-10-16, cert. ef. 6-15-16 
+DHSD 1-2016(Temp), f. & cert. ef. 1-14-16 thru 7-11-16 
+DHSD 2-2014, f. & cert. ef. 12-1-14 
+DHSD 3-2013, f. & cert. ef. 8-1-13 
+DHSD 4-2012, f. & cert. ef. 8-1-12 
+DHSD 2-2012(Temp), f. & cert. ef. 2-27-12 thru 8-24-12 
+DHSD 8-2011, f. 10-28-11, cert. ef. 11-1-11 
+DHSD 7-2011(Temp), f. & cert. ef. 10-12-11 thru 11-1-11 
+DHSD 1-2011(Temp), f. & cert. ef. 4-15-11 thru 10-11-11 
+DHSD 10-2010, f. 10-29-10, cert. ef. 10-31-10 
+DHSD 10-2009, f. 12-31-09, cert. ef. 1-1-10 
+DHSD 7-2009, f. & cert. ef. 10-1-09 
+DHSD 2-2009, f. & cert. ef. 4-1-09 
+DHSD 10-2008, f. 12-26-08, cert. ef. 1-1-09 
+DHSD 8-2007, f. 8-31-07, cert. ef. 9-1-07, Renumbered from 410-007-0250 
+OMAP 22-2005, f. & cert. ef. 3-29-05 
+OMAP 8-2004, f. 2-26-04, cert. ef. 3-1-04 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

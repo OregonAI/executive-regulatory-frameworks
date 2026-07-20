@@ -1,0 +1,294 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Corrections 
+ Chapter 291 
+ 
+ 
+ 
+ 
+ 
+ Division 41 SEARCHES (INSTITUTIONS) 
+ 291-041-0010 
+ Definitions
+ 
+ 
+ (1) Adult in Custody (AIC): Any person under the supervision of the Department of Corrections who is not on parole, probation, or post-prison supervision status. 
+
+ (2) American National Standards Institute/Health Physics Society (ANSI/HPS): An accredited standards developer that provides guidelines to manufacturers and system users on non-medical radiation.  
+
+ (3) Authorized Legal Material: Pleadings (i.e., complaint, petition or answer), legal motions and memoranda, affidavits, court orders and judgments, correspondence, and other necessary documents (including discovery and exhibits), in or directly pertaining to an AICs own pending and active case(s), lawsuit(s) before the courts or paroling authorities. 
+
+ (4) Body Scanner: A whole-body security screening device which utilizes low dose x-ray scanning and millimeter waves to detect contraband, weapons, and similar items hidden on or inside a person’s body.  
+
+ (5) Body Scanner Operator: Any employee trained in the operation of the full-body scanner whose responsibilities include at least one of the following: initiating or stopping the scan, verifying the system is operating correctly, providing information and instructions to the screened individuals, and controlling access to the inspection zone.  
+
+ (6) Body Scanner Viewer: Any employee whose responsibilities are limited to viewing the image results produced by the full-body scanner and are solely responsible for interpreting scan images and reporting findings as required, without direct involvement in the operational aspects of the scanning process. 
+
+ (7) Confiscation: To take control of or possession of after the search. 
+
+ (8) Contraband: Any article or thing which an adult in custody is prohibited by statute, rule or order from obtaining, possessing, or which the AIC is not specifically authorized to obtain or possess or which the adult in custody alters without authorization. 
+
+ (9) Cross-Gender Body Scan: Use of the body scanner in which the operator or viewer and the adult in custody are not the same gender.  
+
+ (10) Department of Corrections Employee: Any person employed full-time, part-time, or under temporary appointment by the Department of Corrections. 
+
+ (11) Department of Corrections Facility: Any institution, facility, or staff office, including the grounds, operated by the Department of Corrections.  
+
+ (12) Emergency: Any condition or situation where life, health, or safety may be threatened or where time frame considerations necessitate an immediate response or remedial action. 
+
+ (13) Exigent Circumstances: Any set of temporary and unforeseen circumstances that require immediate action to address or mitigate a threat to facility or individual safety, security, health, and good order. 
+
+ (14) Functional Unit: Any organizational component within the Department of Corrections responsible for the delivery of services or coordination of programs. 
+
+ (15) Functional Unit Manager: Any person within the Department of Corrections who reports to the Director, Deputy Director, an Assistant Director, or administrator and has responsibility for delivery of program services or coordination of program operations. In a correctional setting the functional unit manager is the superintendent. 
+
+ (16) Inspection Device: Any device (i.e., metal detector, fluoroscope, cell phone detector, etc.) that is used to detect contraband in the form of metal or other foreign objects. 
+
+ (17) Inspection Zone: A clearly marked area (using tape, paint, rope barrier, etc.) surrounding the full-body scanner where access is restricted to during the operation of the device to prevent unauthorized entry and minimize unnecessary radiation exposure.  
+
+ (18) Non-Employee Service Providers (NSP): An individual who provides services or programs to the department or to adults in custody, including an individual who provides services or programs remotely, but not as a paid employee of the department. Examples of non-employee service providers m a y include contractors, volunteers, mentors, criminal justice partners, and government agency partners 
+
+ (19) Non-Intrusive Sensors: Electronic or mechanical devices which do not physically intrude nor permeate human body orifices, manufactured for the purpose of detecting materials or various types which may be considered contraband (i.e., narcotics, narcotic paraphernalia, weapons). (Examples: metal detectors, body scanners, heartbeat monitor equipment to detect the presence of persons.) 
+
+ (20) Officer-in-Charge: That person designated by the functional unit manager to supervise the institution and make operational decisions in accordance with policy, rule, or procedure during periods when the functional unit manager or the officer-of-the-day is not readily available. 
+
+ (21) Officer-of-the-Day: That person designated by the functional unit manager and approved by the Assistant Director for Operations or the Institutions Administrator to act on behalf of the functional unit manager during non-business hours and other periods in which the functional unit manager may be absent. 
+
+ (22) Oregon Corrections Enterprises: A semi-independent state agency that is a non­ Department of Corrections agency or division, which is under the authority of the Director of the Department of Corrections. For purposes of this rule only, Oregon Corrections Enterprises shall not be considered an external organization. 
+
+ (23) Oregon Corrections Enterprises (OCE) Employee: Any person employed full-time, part-time, or under temporary appointment by the Oregon Corrections Enterprises. For the purposes of this rule only, employee shall also include any person under contractual arrangement to provide services to the agency; any person employed by private or public-sector agencies who is serving under agency-sanctioned special assignment to provide services or support to agency programs. 
+
+ (24) Reasonable Suspicion: An apparent state of objective facts and rational inferences drawn there from that would permit a reasonable and experienced correctional staff person to conclude that an individual or set of circumstances poses a threat to the safety, security, health and good order of the facility, or the safety and security of adults in custody, staff, visitors, non­ employee service provider or the community, including, but not limited to, committing a crime or rule violation or conspiring or attempting the same. 
+
+ (25) Search: A close inspection, including touching in an impartial manner, of a person, a person's cell or other living unit, vehicle, possessions, or other property, or buildings or premises. For purposes of entering a correctional institution, searches often require the removal and separate inspection of shoes, belts, jackets, and other accessories during processing. Types of searches include the following: 
+
+ (a) Clothed: To search a person for something by running the hands over the clothed person, through the hair, inspecting pockets and cuffs, and other items in his/her possession. 
+
+ (b) Consent: Inspections of a person or their property conducted with prior permission of the person being searched or of a person who own or has in his/her possession that property which is searched. 
+
+ (c) Electronic Search: A non-invasive, technology-assisted search in which an adult in custody is scanned using an approved body scanner to detect contraband or unauthorized items concealed on or within the body.  
+
+ (d) Internal: Digital intrusion of body orifices and interiors of rectum or vagina in search for contraband. Also used to describe more than sight inspection of nostrils, ears, and mouth. 
+
+ (e) Unclothed: A search procedure wherein the person being searched removes all of his/her clothing and is visually examined and clothing removed is carefully inspected before return and redressing, for the purpose of detecting contraband. 
+
+ (26) Security Inspection: A distinction is made between search and security inspection. An inspection is accomplished by means of an inspection device (i.e., metal detector), without the element of a personal contact search, although accompanying property will be subject to a visual or hand examination. 
+
+ (27) Special Housing: Housing for adults in custody whose assignment is administrative housing, disciplinary segregation, Intensive Management Unit, Death Row, mental health special housing, or infirmary. 
+
+ (28) Visitor: Any person, not a DOC or OCE employee, volunteer or other agency liaison who is within the boundaries of Department of Corrections facility property. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 179.040, 423.020, 423.030 & 423.075 
+ 
+ 
+ Statutes/Other Implemented:  ORS 179.040, 423.020, 423.030 & 423.075 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 10-2026, amend filed 04/27/2026, effective 05/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 2-2026, temporary amend filed 01/23/2026, effective 01/23/2026 through 07/21/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 2-2020, amend filed 01/29/2020, effective 01/31/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 5-2016, f. & cert. ef. 3-24-16 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ DOC 2-2008, f. 2-1-08, cert. ef. 2-4-08
+DOC 13-2000, f. & cert. ef. 6-19-00
+DOC 25-1999(Temp), f. & cert. ef. 12-22-99 thru 6-19-99
+CD 4-1991, f. & cert. ef. 1-22-91
+CD 12-1989, f. & cert. ef. 6-30-89
+CD 46-1985, f. & cert. ef. 8-16-85
+CD 11-1984, f. & cert. ef. 4-11-84
+CD 36-1983(Temp), f. & cert. ef. 10-14-83
+CD 6-1982, f. & cert. ef. 1-29-82
+CD 52-1981(Temp), f. & cert. ef. 11-20-81
+CD 42-1981, f. & cert. ef. 10-30-81
+CD 10-1981(Temp), f. & cert. ef. 5-5-81
+CD 24-1980, f. & cert. ef. 7-3-80
+CD 3-1980(Temp), f. & cert. ef. 3-5-80
+CD 42-1978, f. 12-19-78, cert. ef. 12-20-78 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

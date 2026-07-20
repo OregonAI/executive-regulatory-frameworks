@@ -1,0 +1,391 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Agriculture 
+ Chapter 603 
+ 
+ 
+ 
+ 
+ 
+ Division 52 PEST AND DISEASE CONTROL 
+ 603-052-0051 
+ Quarantine: Grape Pests and Diseases
+ 
+ 
+ (1) Establishing Quarantine: A quarantine is established against harmful pests and diseases of grapes ( Vitis spp.). 
+
+ (2) Area Under Quarantine: All states, districts, and territories of the United States, and in Oregon, any property where a harmful pest or disease is found (see Section (4)). 
+
+ (3) Commodities Covered: Plants, vines, cuttings, seeds, any plant parts used for propagation, fruit, and all other plant parts of grape ( Vitis spp.). 
+
+ (4) Harmful Pests and Diseases: Grapevine fanleaf virus , Grapevine leaf roll-associated viruses, Grapevine virus A , Grapevine virus B , Grapevine red blotch virus , grapevine phylloxera ( Daktulosphaira vitifoliae , Viteus vitifoliae ), vine mealybug ( Planococcus ficus ), European grapevine moth ( Lobesia botrana ), Pierce’s Disease ( Xylella fastidiosa ), and Xiphinema index . 
+
+ (5) Restrictions: All covered commodities are prohibited entry into the State of Oregon unless they meet the requirements in (a) through (i) below: 
+
+ (a) Field soil in association with any covered commodity is prohibited. Rooted plants must be produced in sterile, soil-less media. Other commodities are permitted entry subject to the following: 
+
+ (A) Field-grown bare-root plants or cuttings from field-grown plants must be subject to one of the following treatments and stored so as to prevent re-infestation: [a] Washed so as to remove all soil or other growing media and immersed in hot water for not less than 3 nor more than 5 minutes at a temperature of not less than 125 degrees Fahrenheit (52 degrees Celsius) nor more than 130 degrees Fahrenheit (55 degrees Celsius) or [b] fumigated with methyl bromide at a rate of 2 lbs per 100 cubic feet (0.908 kg per 28 cubic meters) for 3 hours, at 65 to 70 degrees Fahrenheit (18.3 to 21.2 degrees Celsius) or [c] treated with another method approved by the Department. 
+
+ (B) Visual inspection and certification for freedom from field soil or certification that commodities were produced in sterile, soil-less media. 
+
+ (b) Vitis spp. plants and plant parts intended for propagation, including cuttings, bare-root plants, and rooted plants must be treated with an approved insecticide effective against vine mealybug or shall originate from an area known to be free of vine mealybug. If plants are rooted, treatment for any pests that may be present on the roots must also be applied prior to shipment. 
+
+ (c) Vitis spp. seeds for sowing shall originate from mother plants tested and found free of nepoviruses or shall originate from mother plants grown in an area known to be free of nepoviruses. 
+
+ (d) Vitis spp. plants and plant parts intended for propagation, including cuttings, bare-root plants, and rooted plants but not including fruit or seeds must be sampled, tested, and found free of Xylella fastidiosa . Testing is not required for covered commodities originating from an area that has been officially surveyed and found free from X. fastidiosa . 
+
+ (A) The X. fastidiosa sampling procedures are as follows: 
+
+ (i) Samples shall be taken from plants located in lots identified for shipment to Oregon and shall be done under the direct supervision of state regulatory officials. 
+
+ (ii) Sampling of each lot intended for shipment to Oregon must be done in a manner that provides 95% confidence that an infestation level of 1.0% or higher will be detected as described in the International Standards for Phytosanitary Measures ISPM No. 31, last modified August 2011. 
+
+ (iii) Samples of non-dormant (actively growing) plants must be taken within 60 days of the shipment of the plants to Oregon. Samples shall be composed of petiole and/or midrib tissue, with one sample comprised of three to five leaves from a single plant. If foliar symptoms are present, the symptomatic leaf tissue must be tested. 
+
+ (iv) Sampling of dormant plants shall be of xylem tissue from mature branches (such as woody cuttings). These samples must be taken within the 60 days prior to leaf drop during the previous growing season. Alternatively, sampling of these plants must be done on newly emerged leaves no less than 10 days after bud break. 
+
+ (B) Analysis procedures for X. fastidiosa are as follows: 
+
+ (i) Analysis of samples for X. fastidiosa shall be done using approved ELISA or PCR methods and performed by a laboratory operated by an official state or federal regulatory agency or by an approved cooperator. 
+
+ (ii) Samples from up to five individual plants may be combined (bulked) for analysis purposes. 
+
+ (e) Beginning January 1, 2023, all Vitis spp. plants and plant parts intended for propagation, including cuttings, bare-root plants, and rooted plants must originate from an official certification program approved by the department. The certification program must include inspection and testing and attest to the freedom of Vitis spp. plants and plant parts from harmful pests and diseases. 
+
+ (f) Beginning September 1, 2021, all Vitis spp. plants and plant parts intended for propagation, including cuttings, bare-root plants, and rooted plants, not derived from an official certification program, and entering Oregon must meet all other requirements of this quarantine and also must be derived from mother vines that have been tested and found free from Grapevine red blotch virus and Grapevine leafroll-associated virus 3 within the previous year. Testing must be done using a laboratory and methods approved by the Department. 
+
+ (g) Vitis spp. fruit may be imported under the following conditions: 
+
+ (A) Table grapes must be commercially packed in compliance with USDA recommendations for protecting perishable food products shipped interstate by truck (USDA-Agricultural Marketing Service-Transportation and Marketing Programs, In: Protecting Perishable Foods During Transport by Truck, Handbook No. 669 (2008), pp. 40-41). Table grapes shipped under these conditions may be shipped without an official phytosanitary certificate. 
+
+ (B) Shipments of wine grapes must be accompanied by documentation that establishes that the wine grapes have been: 
+
+ (i) Harvested from a county known to be free of vine mealybug or from a vineyard that has been officially inspected and found free of vine mealybug; or, 
+
+ (ii) The fruit has been hand harvested from a vineyard infested with vine mealybug and shipped in a covered container. Any pomace resulting from pressing of the wine grapes must be placed in piles located away from vineyard rows and securely covered with clear plastic for four (4) weeks or composted for four (4) weeks or any other appropriate method approved by the Department before spreading in vineyards rows. 
+
+ (h) Phytosanitary Certificate Required: All shipments of covered commodities entering Oregon must be accompanied by a phytosanitary certificate issued by an official of the state of origin certifying that shipment has been inspected and to the ­best of the knowledge of the inspecting official are free from harmful pests and diseases. In addition, the phytosanitary certificate must also certify that: 
+
+ (A) Rooted plants were grown in sterile soil-less media. 
+
+ (B) Covered commodities are free from field soil. 
+
+ (C) Field-grown bare-root plants or cuttings from field-grown plants have been treated using one of the methods described in (5)(a)(A). 
+
+ (D) Vitis spp. plants and plant parts intended for propagation, including cuttings, bare-root plants, and rooted plants have been treated as described in (5)(b) or originate from an area where vine mealybug is not known to occur. 
+
+ (E) For Vitis spp. plants and plant parts intended for propagation, including cuttings, bare-root plants, and rooted plants the phytosanitary certificate must include one of following additional declarations: 
+
+ (i) "Grape plants in this shipment originate from an area that has been officially surveyed and found free of Xylella fastidiosa ,"  OR 
+
+ (ii) "A representative sample of [fill in number tested] grape plants in this shipment has been tested and found free of Xylella fastidiosa ." 
+
+ (F) NOTE: Depending on origin, other State quarantines may apply (e.g. glassywinged sharpshooter, European brown garden snail, Japanese beetle) and may require other additional declarations on the phytosanitary certificate. 
+
+ (G) Beginning September 1, 2021, phytosanitary certificates for Vitis spp. plants and plant parts intended for propagation, including cuttings, bare-root plants, and rooted plants must include one of the following additional declarations: 
+
+ (i) “Grape plants in this shipment originated from an approved certification program”; or 
+
+ (ii) “Grape plants in this shipment were derived from mother vines that have been tested and found free from Grapevine red blotch virus and Grapevine leafroll-associated virus 3 within the previous year.” 
+
+ (H) Beginning January 1, 2023, phytosanitary certificates for Vitis spp. plants and plant parts intended for propagation, including cuttings, bare-root plants, and rooted plants must include the following additional declaration: 
+
+ (i) “Grape plants in this shipment originated from an approved certification program.” 
+
+ (ii) Notification of regulated commodity shipments of Vitis spp. plants, cuttings, or similar propagative material is required as described in OAR 603-054-0027, Notification of Imported Trees and Shrubs. The Department may require that shipments be held until inspected and released. If the recipient is not a licensed nursery, the Department may charge established rates for time and mileage to recover the cost of inspection. Notification shall be via mail, FAX or e-mail to: Nursery Program Manager, Plant Protection and Conservation Program Area, Oregon Department of Agriculture, 635 Capitol St. NE, Salem, OR 97301; FAX 503-986-4564; quarantine@oda.oregon.gov . Recipients shall notify the Department no later than two days after its arrival, the following shipment information: 
+
+ (A) the number of grapevines, rootstocks, seeds, or softwood cuttings; 
+
+ (B) shipper’s name and address; 
+
+ (C) the consignee’s name and address; 
+
+ (D) the approximate date of delivery; and 
+
+ (E) applicable copies of phytosanitary certificates and lab reports. 
+
+ (6) Control and eradication methods for harmful pests and diseases. Control and eradication methods used shall only be those approved by the Department and will be based on the best available science. These methods may include: 
+
+ (a) Destruction of infected plants or composting of infected fruit, including pomace; 
+
+ (b) A directive specifying implementation of Departmentally approved mitigation measures to prevent the spread of the harmful pest or disease; 
+
+ (c) A directive requiring the equipment, tools, and machinery used within an infested area be thoroughly cleaned of all dirt and debris by the use of steam under pressure. 
+
+ (7) Properties within Oregon. Properties where harmful pests and diseases are known to occur must implement mitigation methods as approved by the Department to prevent further spread of the harmful pest or disease as provided in subsection (6) of this rule. 
+
+ (8) Violation of Quarantine. All covered commodities determined to be in violation of this quarantine, shall be immediately returned by the recipient to the point of origin or, at their option and without expense or indemnity paid by the Department, or, consistent with the provisions in ORS 561.605 - 630, destroyed. Violation of this quarantine may result in a fine, if convicted, of not less than $500 nor more than $5,000 as provided by ORS 561.990(4). Violators may be subject to civil penalties of up to $10,000 as provided by 561.995 and 570.990 and 570.995. Nursery licenses of violators may also be suspended or revoked as provided by 571.125. The imposition of civil penalties is subject to ORS 183.745. 
+
+ (9) Exceptions. The Department, upon receipt of an application in writing, may issue a special permit allowing movement into this state, or movement within this state, of regulated commodities not otherwise eligible for movement under the provisions of this quarantine order. Movement of such commodities will be subject to any conditions or restrictions stipulated in the special permit, and these conditions and restrictions may vary depending upon the intended use of the commodity and the potential risk of escape or spread of a harmful pest or disease. 
+
+ (10) Review. The Department and other interested parties shall review the quarantine pest list and restrictions biennially for accuracy and effectiveness. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 561.190, 561.510 - 561.600, 570.305, 570.405 & 570.410 - 570.415 
+ 
+ 
+ Statutes/Other Implemented:  ORS 561.190, 561.510 - 561.600, 570.305, 570.405 & 570.410 - 570.415 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 11-2026, minor correction filed 01/29/2026, effective 01/29/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 9-2021, amend filed 03/30/2021, effective 04/01/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 8-2015, f. & cert. ef. 5-29-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 12-2014, f. & cert. ef. 7-29-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 5-2010, f. & cert. ef. 1-28-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 2-2005, f. & cert. ef. 2-14-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 14-2002, f. & cert. ef. 5-23-02 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ Reverted to AD 939(7-71), f. 8-18-71, ef. 9-1-71 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Suspended by DOA 19-2001(Temp), f. & cert. ef. 9-11-01 thru 2-22-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AD 939(7-71), f. 8-18-71, ef. 9-1-71 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AD 913(19-69), f. 12-26-69, ef. 1-25-70 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

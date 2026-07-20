@@ -1,0 +1,250 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 106 X-RAYS IN THE HEALING ARTS 
+ 333-106-0720 
+ Mammography Requirements: Quality Assurance Program 
+ 
+ (1) The registrant shall have a written, on-going equipment quality assurance program specific to mammographic imaging, covering all components of the diagnostic X-ray imaging system. The quality assurance program shall include the testing required in section (5) of this rule, as well as the evaluation of the test results and corrective actions necessary to ensure consistently high-quality images with minimum patient exposure. Responsibilities under this requirement are as follows:  (a) The registrant shall identify in policy/procedure, by name, a Lead Interpreting Physician meeting the requirements of OAR 333-106-0750(2), whose responsibilities at a minimum must include:  (A) Ensuring that the registrant's quality assurance program meets all associated rules and regulations;  (B) Ensuring that an effective quality assurance program exists;  (C) Providing frequent feedback to mammography technologists regarding film quality and quality control procedures;  (D) Reviewing the Quality Control Technologist's test data at least every three months, or more if consistency has not been shown or problems are evident;  (E) Reviewing the Medical Physicist's annual survey report or equipment evaluation results.  (b) The registrant shall identify in policy/procedure, by name, and have the services of, a Medical Physicist who meets the requirements of OAR 333-106-0750(3). The Medical Physicist shall assist in overseeing the equipment quality assurance practices of the registrant. At a minimum, the Medical Physicist shall be responsible for the annual surveys, mammography equipment evaluations, and associated reports meeting all the requirements of MQSA.  (c) The registrant shall identify in policy/procedure, by name, a single qualified Quality Control Technologist meeting the requirements of OAR 333-106-0750(1), who shall be responsible for:  (A) Equipment performance monitoring functions;  (B) Analyzing the monitoring results to determine if there are problems requiring correction;  (C) Carrying out or arranging for the necessary corrective actions when results of quality control tests including those specified in section (5) of this rule, indicate the need; and  (D) The Quality Control Technologist may be assigned other tasks associated with the quality assurance program that are not assigned to the Lead Interpreting Physician or Medical Physicist. These additional tasks must be documented in written policy/procedure.  (2) Annual Survey. At intervals not to exceed 12 to 14 months, the registrant shall have a Medical Physicist meeting the requirements of OAR 333-106-0750(3) conduct a survey to evaluate the mammography equipment, and the effectiveness of the quality assurance program required in section (1) of this rule. Records of annual surveys shall be maintained for a minimum of two years, and shall be available on-site for Authority review.  (3) Annual survey/or equipment evaluation corrective actions. Corrective action shall be completed within 30 working days of when the registrant received written or verbal notice of recommendations or failures on their annual survey/or equipment evaluation report, unless otherwise noted in these rules or a written request for extension has been submitted to and approved by the Authority.  (a) Correction of equipment related failures or recommendations shall be demonstrated by a repeat test using the same test methodology and documentation, or a test accepted as the equivalent by the Authority, that was used to initially identify the problem.  (b) When the results of a quality control test/s fail to meet applicable action limits defined in these rules, the appropriate action regarding the suspension or continuation of mammography as defined in these rules or in MQSA, shall be taken.  (4) Quality assurance records. The registrant shall ensure that:  (a) Records concerning employee qualifications to meet assigned quality assurance tasks, mammography technique and procedures, policies, previous inspection findings, and radiation protection are maintained until inspected by the Authority.  (b) Quality control monitoring data and records, problems detected by the analysis of that data, corrective actions, and records of the Lead Interpreting Physician's periodic reviews of the Quality Control Technologist's monitoring data taken must be maintained for a minimum of two years.  (5) Equipment quality control tests frequency. The registrant shall ensure that the following quality control tests are performed when applicable equipment or components are initially installed or replaced and performed thereafter at least as often as the frequency specified in Table 7. The referenced table is available on the Program's website: www.healthoregon.org/rps.  (6) Testing methods and action limits for quality control tests shall meet the most current requirements of MQSA, in addition to the following:  (a) Screen/film contact. Screen film contact tests shall be performed on all screens used clinically, using a 40-mesh test tool and four cm thick sheet of acrylic. Screens demonstrating one or more areas of poor contact that are greater than one cm in diameter, that are not eliminated by screen cleaning, and remain in the same location during subsequent tests, shall not be used for mammography. Screen/film contact shall be such that any areas of poor contact, regardless of size, shall not detract from image quality.  (b) Processor performance. A processor performance test shall be performed by sensitometric means and evaluated daily, after the solution temperature in the processor has reached proper temperature, and just prior to processing any clinical mammograms. The test shall be an assessment of the base plus fog, mid-density, density difference, and developer temperature.  (A) Sensitometers and densitometers used to evaluate processor performance shall be calibrated per the manufacturer's recommended calibration procedures for such devices. A record of the calibration shall be maintained until inspected by the Authority. Densitometers shall be checked against the instrument control strip at least monthly.  (B) The mid-density and density difference action limits must be within + 0.15 of the control operating level.  (C) The base plus fog (B+F) action limit must be within + 0.03 of the control operating level.  (D) If the mid-density or the density difference fall outside of the + 0.10 control limit but within the + 0.15 control limit for a period of three days (a trend), steps must be taken to determine the cause and correct the problem;  (E) If the mid-density or the density difference falls outside of the + 0.15 control limit, mammograms must not be processed through the processor until the cause of the problem is determined, corrected, and a repeat test is done demonstrating that the mid-density aor density difference are within the + 0.15 control limit;  (F) Processor quality control graphs must be in the format of the registrant's accrediting body or equivalent, and indicate test date/s, mid-density and density difference action limits, base plus fog action limit, film brand, type and emulsion number in use, the date when chemistry changes occurred and corrective action(s) taken when limits are exceeded;  (G) Cross over records and calculations must be maintained until reviewed by the Authority during the annual inspection. New mid-density or density difference operating levels must be charted on a new graph page.  (H) Re-establishment of operating levels must be done in accordance with the accrediting body's protocol regarding the appropriateness of this procedure or at the specific direction of the facility's medical physicist.  (I) While re-establishing operating levels (five day average), the facility must chart each day's results against its old operating control levels. At the end of the five days, a new chart must be established, indicating the new calculated operating limits. During the five day average, the facility cannot be cited for having exceeded the old processor operating levels; and  (J) When collecting data for the five day average, a phantom image test shall be conducted each day to verify the adequacy of image quality. Should the phantom image test exceed either the 0.20 background optical density limit or the + 0.05 density difference limit, mammography must be suspended until the cause of the problem is identified and corrected, and a repeat phantom image test is shown to be within limits.  (7) Primary/secondary barrier transmission evaluation must be conducted upon initial X-ray system installation and significant modification of the system or the facility.  (8) Image quality. The mammography system must be capable of producing an image of the phantom demonstrating the following:  (a) A minimum score of 4 fibers, 3 speck groups, and 3 masses (or the most current minimum score established by the accrediting body and accepted by the FDA);  (b) Background density action limits within ± 0.20 of the control level;  (c) Density difference action limits within ± 0.05 of the control level;  (d) Milliampere seconds (mAs) within ± 15 percent of the control level;  (e) Demonstrating a level of contrast sufficient enough to clearly help define fibril, speck, and mass edges;  (f) Without objectionable levels of image noise or quantum mottle that obscure the visualization of fibrils, specks, or masses;  (g) Demonstrating reasonably sharp fibril, and mass margins;  (h) With a minimum optical density (measured at the center of the phantom) of 1.20;  (i) Phantom image test records must be in the most current format of the registrant's accrediting body or the equivalent, and indicate the exposure mode, kVp, and photo-cell used for the test as well as remarks indicating the corrective action that was taken when limits were exceeded;  (j) When phantom image results do not meet the requirements defined in subsections (8)(a), (b), (c), (d), (e), (f), (g), or (h) of this rule, corrective action must occur, and a repeat phantom image test must be performed demonstrating compliance, before further mammography examinations are performed using the X-ray machine.  (11) Darkroom fog. Darkroom fog levels shall not exceed 0.05 in optical density difference when sensitized film is exposed to darkroom conditions with safelight on for two minutes. Film shall be sensitized by exposing it to sufficient light from an appropriate intensifying screen so that after processing, an optical density of at least 1.20 is achieved.  (a) If the darkroom fog optical density difference exceeds 0.05 but is less than 0.10, mammography may be continued until the problem is corrected.  (b) If the darkroom fog optical density difference exceeds 0.10, mammography must be curtailed until the problem is corrected and the density difference no longer exceeds 0.05.  (12) Repeat rate. Corrective actions shall be recorded and the results of these corrective actions shall be assessed if the reject rate exceeds five percent or changes by two percent from the previously measured rate. The reject rate shall be based on repeated clinical images.  [ED. NOTE: Tables referenced are available from the agency.] 
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 453.605 - 453.807 
+ 
+ 
+ Statutes/Other Implemented:  ORS 453.605 - 453.807 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 4-2013, f. & cert. ef. 1-29-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 14-2008, f. & cert. ef. 9-15-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 12-2006, f. & cert. ef. 6-16-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 5-2005, f. & cert. ef. 4-11-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 36-2004, f. & cert. ef. 12-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 31-2004(Temp), f. & cert. ef. 10-8-04 thru 4-5-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 3-2003, f. & cert. ef. 3-27-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 15-1994, f. & cert. ef. 5-6-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

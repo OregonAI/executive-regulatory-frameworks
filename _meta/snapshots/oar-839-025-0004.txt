@@ -1,0 +1,721 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Bureau of Labor and Industries 
+ Chapter 839 
+ 
+ 
+ 
+ 
+ 
+ Division 25 PREVAILING WAGE RATES ON PUBLIC WORKS 
+ 839-025-0004 
+ Definitions Generally
+ 
+ 
+ As used in OAR chapter 839, division 25, unless the context requires otherwise: 
+
+ (1) "Apprentice" means: 
+
+ (a) A person who is individually registered in a bona fide apprenticeship program registered with the U.S. Department of Labor, Office of Apprenticeship (OA), or with any state apprenticeship agency recognized by OA, and who is employed by a training agent and is working pursuant to the standards of the apprentice’s apprenticeship program; or 
+
+ (b) A person in probationary employment as an apprentice in such an apprenticeship program, but who is not individually registered in the program, but who has been certified by the OA or a state apprenticeship agency to be eligible for probationary employment as an apprentice, and who is employed by a training agent and is working pursuant to the standards of the apprentice’s apprenticeship program. 
+
+ (2) “Assembly” means the fitting together of various parts so as to make into an operative whole. 
+
+ (3) "The Basic Hourly Rate of Pay" or "Hourly Rate" means the rate of hourly wage, excluding fringe benefits, paid to the worker. 
+
+ (4)(a) “Bespoke” means work that is performed according to individualized specifications that are contained in a public works contract or related documents, including contract plans. 
+
+ (b) “Bespoke” does not include work that: 
+
+ (A) Is performed before the issuance of the public works solicitation; 
+
+ (B) Creates a manufactured dwelling as defined in ORS 446.003; 
+
+ (C) Creates volumetric modular housing that is based exclusively on standard designs or standard dimensions, without modification. As used in this paragraph, “volumetric modular housing” means dwellings built from prefabricated, three-dimensional modules constructed in a factory; 
+
+ (D) Creates mass timber products that are based exclusively on standard designs or standard dimensions, without modification; 
+
+ (E) Creates or applies concrete, asphalt, or aggregate material and the products derived from that material; 
+
+ (F) Creates or applies paint color; or 
+
+ (G) Creates applied art as described in OAR 839-025-0150(2). 
+
+ (5) "Bureau" means the Bureau of Labor and Industries. 
+
+ (6) “Collective bargaining agreement in effect” means a collective bargaining agreement that is recognized as being binding on all parties by the National Labor Relations Board, that is enforceable within the geographic area in which the public improvement is located, and the terms of which extend to workers who are working on the public improvement project. 
+
+ (7) "Commissioner" means the Commissioner of the Bureau of Labor and Industries, or designee. 
+
+ (8) "Construction" means the initial construction of buildings and other structures, or additions thereto, and of highways and roads. "Construction" does not include the transportation of material or supplies to or from the public works project by employees of a construction contractor or construction subcontractor. 
+
+ (9) “Contractor” or “subcontractor” includes any person who employs workers to perform work on a public works pursuant to a public works contract. 
+
+ (10) “Demolition” includes the dismantling, razing, destroying, wrecking or removal of buildings or other structures or any part thereof, and of highways and roads. 
+
+ (11) "Division" means the Wage and Hour Division of the Bureau of Labor and Industries. 
+
+ (12) "Employ" includes to suffer or permit to work. 
+
+ (13) “Fabrication” means to create or construct an item from diverse parts. 
+
+ (14) "Fringe benefits" means the amount of: 
+
+ (a) The rate of contribution irrevocably made on a “regular basis” and “not less often than quarterly,” as those terms are defined in OAR 839-025-0043, by a contractor or subcontractor to a trustee or to a third person pursuant to a plan, fund or program; and 
+
+ (b) The rate of costs to the contractor or subcontractor which may be reasonably anticipated in providing benefits to workers pursuant to an enforceable commitment to carry out a financially responsible plan or program which is committed in writing to the workers affected, for medical or hospital care, pensions on retirement or death, compensation for injuries or illness resulting from occupational activity, or insurance to provide any of the foregoing, for unemployment benefits, life insurance, disability and sickness insurance or accident insurance, for vacation and holiday pay, for defraying costs of apprenticeship or other similar programs or for other bona fide fringe benefits, but only where the contractor or subcontractor is not required by other federal, state or local law to provide any of such benefits. Other bona fide fringe benefits do not include reimbursement to workers for meals, lodging or other travel expenses, nor contributions to industry advancement funds (CIAF for example), drug testing or union dues. 
+
+ (15)(a) "Funds of a public agency" includes any funds of a public agency that are directly or indirectly used, as described below. 
+
+ (A) "Directly used funds of a public agency" means revenue, money, or that which can be valued in money collected for a public agency or derived from a public agency's immediate custody and control, and, except as provided in ORS 279C.810(1)(a)(H) and (J) and subsection (b) of this section, includes but is not limited to any money loaned by a public agency, including the loan of proceeds from the sale of conduit or pass-through revenue bonds for the specific purpose of financing a project, and public property or other assets used as payment for all or part of a project. 
+
+ (B) "Indirectly used funds of a public agency" means, except as provided in subsection (b) of this section, that a public agency ultimately bears the cost of all or part of the project, even if a public agency is not paying for the project directly or completing payment at the time it occurs or shortly thereafter. A public agency does not indirectly use funds of a public agency when it elects not to collect land rent that is due. Examples of when an agency "ultimately bears the cost" of all or part of a project include but are not limited to: 
+
+ (i) Amortizing the costs of construction over the life of a lease and paying these costs with funds of a public agency during the course of the lease; 
+
+ (ii) A public agency subsidizing the costs of construction that would normally be borne by the contractor; 
+
+ (iii) Using insurance proceeds that belong to a public agency to pay for construction. Insurance proceeds represent "money collected for the custody and control of a public agency" and therefore are funds of a public agency, whether the contractor obtains payment directly from the insurance company or the public agency; or 
+
+ (iv) Using or creating a private entity as a conduit for funding a project when the private entity is in fact an alter ego of the public agency. 
+
+ (b) "Funds of a public agency" does not include: 
+
+ (A) Funds provided in the form of a government grant to a nonprofit organization, unless the government grant is issued for the purpose of construction, reconstruction, major renovation or painting; 
+
+ (B) Building and development permit fees paid or waived by the public agency; 
+
+ (C) Tax credits or tax abatements; 
+
+ (D) Land that a public agency sells to a private entity at fair market value; 
+
+ (E) The difference between: 
+
+ (i) The value of land that a public agency sells to a private entity as determined at the time of the sale after taking into account any plan, requirement, covenant, condition, restriction or other limitation, exclusive of zoning or land use regulations, that the public agency imposes on the development or use of the land; and 
+
+ (ii) The fair market value of the land if the land is not subject to the limitations described in subparagraph (i) of this paragraph; 
+
+ (F) Staff resources of the public agency used to manage a project or to provide a principal source of supervision, coordination or oversight of a project; 
+
+ (G) Staff resources of the public agency used to design or inspect one or more components of a project; 
+
+ (H) Moneys derived from the sale of bonds that are loaned by a state agency to a private entity, unless the moneys will be used for a public improvement; 
+
+ (I) Value added to land as a consequence of a public agency's site preparation, demolition of real property or remediation or removal of environmental contamination, except for value added in excess of the expenses the public agency incurred in the site preparation, demolition or remediation or removal when the land is sold for use in a project otherwise subject to ORS 279C.800 to 279C.870; or 
+
+ (J) Bonds, or loans from the proceeds of bonds, issued in accordance with ORS Chapter 289 or 441.525 to 441.595, unless the bonds or loans will be used for a public improvement. 
+
+ (16) “Hazardous waste” has the meaning given in OAR 340-100-0010. 
+
+ (17) “Highest rate of wage among collective bargaining agreements” is the highest rate of wage when combining the hourly rate plus the fringe benefits. 
+
+ (18) "Housing" has the meaning given that term in ORS 456.055. 
+
+ (19) "Labor organization" means any organization certified as such by the National Labor Relations Board. 
+
+ (20)(a) “Locality” has the meaning given that term in ORS 279C.800. 
+
+ (b) For an “electrical worker” as defined in ORS 279C.815, geographic areas are determined in accordance with ORS 279C.815(2)(b). 
+
+ (21) "Major renovation" means the remodeling or alteration of buildings and other structures within the framework of an existing building or structure and the alteration of existing highways and roads, the contract price of which exceeds $50,000. 
+
+ (22) "Nonprofit organization," as used in section (15)(b)(A) of this rule, means an organization or group of organizations described in section 501(c)(3) of the Internal Revenue Code that is exempt from income tax under section 501(a) of the Internal Revenue Code. 
+
+ (23) "Normal business hours" means the hours during which the office of the contractor or subcontractor is normally open for business. In the absence of evidence to the contrary, the Division will consider the hours between 8:00 a.m. and 5:00 p.m., excluding the hours between 12:00 noon and 1:00 p.m., on weekdays as normal business hours. 
+
+ (24) "Overtime" means all hours worked: 
+
+ (a) On Saturdays; 
+
+ (b) On the following legal holidays: 
+
+ (A) Each Sunday; 
+
+ (B) New Year's Day on January 1; 
+
+ (C) Memorial Day on the last Monday in May; 
+
+ (D) Independence Day on July 4; 
+
+ (E) Labor Day on the first Monday in September; 
+
+ (F) Thanksgiving Day on the fourth Thursday in November; 
+
+ (G) Christmas Day on December 25. 
+
+ (c) Over 40 hours in a week; and either 
+
+ (d) Over eight (8) hours in a day; or 
+
+ (e) Over 10 hours in a day provided: 
+
+ (A) The employer has established a work schedule of four consecutive days (Monday through Thursday or Tuesday through Friday) pursuant to OAR 839-025-0034; and 
+
+ (B) The employer operates in accordance with this established work schedule. 
+
+ (25) "Overtime rate" means the basic hourly rate of pay multiplied by one and one-half. 
+
+ (26) "Overtime wages" means the overtime hours worked multiplied by the overtime rate. 
+
+ (27) "Person" includes a public or private corporation, a partnership, a sole proprietorship, a limited liability company, a government or governmental instrumentality. 
+
+ (28) "Prevailing wage rate claim" means a claim for wages filed by a worker with the Division. 
+
+ (29) "Public agency" means the State of Oregon or any political subdivision thereof or any county, city, district, authority, public corporation or entity and any instrumentality thereof organized and existing under law or charter. 
+
+ (30)(a) "Public work," "public works," or "public works project" includes but is not limited to: 
+
+ (A) Roads, highways, buildings, structures and improvements of all types for which a public agency contracts or carries on construction, reconstruction, major renovation, demolition, removal of hazardous waste or painting to serve the public interest; 
+
+ (B) A project for constructing, reconstructing, painting, demolishing, removing hazardous waste from, or performing a major renovation on a road, highway, building, structure or improvement of any type that uses $750,000 or more of funds of a public agency; 
+
+ (C) A project for the construction of a privately owned road, highway, building, structure or improvement of any type that uses funds of a private entity and in which 25 percent or more of the square footage of the completed project will be occupied or used by a public agency; 
+
+ (D) A device, structure, or mechanism, or a combination of devices, structures, or mechanisms that: 
+
+ (i) Uses solar radiation as a source for generating heat, cooling, or electrical energy; and 
+
+ (ii) Is constructed or installed, with or without using funds of a public agency, on land, premises, structures, or buildings that a public agency owns, regardless of the total project cost; 
+
+ (E) A project for the construction, reconstruction, painting, demolition, removal of hazardous waste from, or major renovation of, a road, highway, building, structure, or improvement of any type that occurs, with or without using funds of a public agency, on real property that a public university listed in ORS 352.002 owns; 
+
+ (F) Demolition of, or removal of hazardous waste from, a road, highway, building, structure or improvement of any type that uses $750,000 or more in funds of a public agency, or that occurs on real property that a state agency owns, but that does not involve constructing, reconstructing, renovating or painting a road, highway, building, structure, or improvement; 
+
+ (G) Fabrication, assembly, preconstruction or construction that is: 
+
+ (i) Bespoke; 
+
+ (ii) Performed offsite; 
+
+ (iii) Performed specifically for, and in accordance with the specifications of, a particular project of a type listed in subparagraphs (A) to (F) of this paragraph; and 
+
+ (iv) Performed on any of the following systems or components: 
+
+ (I) Mechanical systems such as heating, ventilation, air conditioning, refrigeration and other ducting or piping systems or components; 
+
+ (II) Plumbing systems or components; 
+
+ (III) Electrical systems or components of electrical systems that conform with the requirements of ORS 479.510 to 479.945 and the rules of the Electrical and Elevator Board; 
+
+ (IV) Boiler systems or components of boiler systems; 
+
+ (V) Ornamental and structural iron work; 
+
+ (VI) Masonry and plaster systems or components; 
+
+ (VII) Roofing, flashing and architectural panel systems or components other than glazing systems and components; or 
+
+ (VIII) Mechanical insulation; or 
+
+ (H) Pursuant to ORS 352.138(4)(b), a project resulting from an agreement under the terms of which a private entity constructs, reconstructs, renovates or paints an improvement of any type that occurs, with or without using funds of a public agency, on real property owned by a public university listed in ORS 352.002 or by a nonprofit organization or other entity that a public university listed in ORS 352.002 owns or controls exclusively. 
+
+ (b) "Public work,” “public works,” or “public works project” does not include reconstructing or renovating privately owned property that a public agency leases. 
+
+ (31) "Public works contract" or "contract" means any contract, agreement or understanding, written or oral, to perform work on a public work. 
+
+ (32) "Reconstruction" means highway and road resurfacing and rebuilding, the restoration of existing highways and roads, and the restoration of buildings and other structures. 
+
+ (33) "Reconstruction or renovation of privately owned property which is leased by a public agency" includes improvements of all types within the framework or footprint of an existing building or structure. 
+
+ (34)(a) "Residential construction project" means a public works project for the construction, reconstruction, major renovation or painting of a single family house or apartment building of not more than four (4) stories in height and all incidental items such as site work, parking areas, utilities, streets and sidewalks pursuant to the U.S. Department of Labor's "All Agency Memorandum No. 130" -- "Application Of The Standard of Comparison 'Projects Of a Character Similar' Under the Davis-Bacon and Related Acts" dated March 17, 1978, and “All Agency Memorandum No. 131” “Clarification of All Agency Memorandum No. 130” dated July 14, 1978. (See Appendix 6.) 
+
+ (b) Notwithstanding the provisions of subsection (a) of this section, where it is determined that a different definition of "residential construction" has been adopted by local ordinance or code, or that the prevailing practice of a particular trade or occupation regarding what is considered "residential construction" differs from the U.S. Department of Labor definition of residential construction, the commissioner may consider such information in determining a project to be a "residential construction project." 
+
+ (35) “Satellite location” means a site where work subject to section (30)(a)(G) of this rule is performed. 
+
+ (36) "Site of work" is defined as follows: 
+
+ (a) The site of work is limited to the physical place or places where the construction, reconstruction, major renovation or painting called for in the contract will remain when work on it has been completed, or the physical place or places where the demolition or hazardous waste removal called for in the contract will be performed, and other adjacent or nearby property used by the contractor or subcontractor for such work which can reasonably be said to be included in the site. 
+
+ (b) Except as provided in subsection (c) of this section, fabrication plants, mobile factories, batch plants, borrow pits, job headquarters, tool yards and similar facilities, are part of the site of work provided they are dedicated exclusively, or nearly so, to the performance of the contract or project, and are so located in proximity to the actual construction location that it would be reasonable to include them. Such facilities which are established by a supplier of materials for the project after the opening of bids are deemed to be dedicated exclusively to the performance of the contract or project. 
+
+ (c) Not included in the site of work are satellite locations, permanent home offices, branch plant establishments, fabrication plants, and tool yards of a contractor or subcontractor whose locations and continuance in operation are determined wholly without regard to a particular contract or project. In addition, fabrication plants, batch plants, borrow pits, job headquarters, tool yards, and similar facilities of a commercial supplier or materialman which are established by a supplier of materials for the project before opening of bids and not on the project site, are not included in the site of work. Such permanent, previously established facilities are not part of the site of the work, even where the operations for a period of time may be dedicated exclusively, or nearly so, to the performance of a contract or project. 
+
+ (37) "Special wage determination" means a wage determination made at the request of a public agency and which is applicable only to specific job classes. A special wage determination is issued in those cases where there is no current wage determination applicable to specific job classes and the use of such job classes is contemplated on a public works project. 
+
+ (38) "Staff resources of a public agency" means employees of the public agency who may manage, supervise or oversee a project or employees of the public agency used to design or inspect one or more components of a project, but not persons with whom a public agency contracts to perform such services. 
+
+ (39) "Trade" or "occupation" is defined in accordance with the prevailing practices of the construction industry in Oregon. 
+
+ (40) "Trainee" means a person registered and receiving on-the-job training in a construction occupation under a program which has been approved in advance by the U.S. Department of Labor, Office of Apprenticeship (OA), as meeting its standards for on-the-job training programs, and which has been so certified by that office, and who is employed by a training agent and is working pursuant to the standards of the trainee’s program. 
+
+ (41) “Training agent” means an employer that is registered with a local joint committee and the Apprenticeship and Training Division of the Bureau of Labor and Industries. 
+
+ (42) "Wage determination" includes the original decision and any subsequent amendments made by the commissioner in accordance with ORS 279C.815. 
+
+ (43) "Wages" or "Prevailing Wages" means the basic hourly rate of pay and fringe benefits as defined in this rule. 
+
+ (44) "Worker" means a person employed on a public works project and whose duties are manual or physical in nature (including those workers who use tools or who are performing the work of a trade), as distinguished from mental, professional or managerial. The term "worker" includes apprentices, trainees and any person employed or working on a public works project in a trade or occupation for which the commissioner has determined a prevailing rate of wage.  
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 651.060 & ORS 279C.808 
+ 
+ 
+ Statutes/Other Implemented:  ORS 279C.800 - 279C.870 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BLI 5-2026, amend filed 06/12/2026, effective 07/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BLI 2-2024, amend filed 01/04/2024, effective 01/04/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BLI 4-2022, amend filed 03/24/2022, effective 04/10/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BLI 16-2021, temporary amend filed 10/11/2021, effective 10/12/2021 through 04/09/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BLI 4-2018, amend filed 02/22/2018, effective 02/22/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BLI 2-2016, f. & cert. ef. 3-31-16 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BLI 9-2013, f. 12-18-13, cert. ef. 1-1-14 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BLI 9-2011, f. 10-27-11, cert. ef. 11-1-11 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BLI 23-2010, f. 12-30-10, cert. ef. 1-1-11 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ BLI 42-2007, f.12-28-07, cert. ef. 1-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BLI 20-2007(Temp), f. 7-30-07, cert. ef. 8-1-07 thru 1-27-08 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BLI 39-2006, f. 11-8-06, cert. ef. 11-10-06 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BLI 19-2006(Temp), f. 5-12-06, cert. ef. 5-15-06 thru 11-10-06 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ BLI 29-2005, f. 12-29-05, cert. ef. 1-1-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 839-016-0004, BLI 7-2005, f. 2-25-05, cert. ef. 3-1-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ BLI 5-2002, f. 2-14-02, cert. ef. 2-15-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ BLI 15-2001, f. & cert. ef. 11-14-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ BL 1-1998, f. & cert. ef. 1-5-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ BL 3-1997(Temp), f. 7-31-97, cert. ef. 8-1-97 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ BL 8-1996, f. 8-26-96, cert. ef. 9-1-96 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ BL 3-1996, f. & cert. ef. 1-26-96 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ BL 5-1990, f. 3-30-90, cert. ef. 4-1-90 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ BL 7-1989(Temp), f. 10-2-89, cert. ef. 10-3-89 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ BL 4-1984, f. & ef. 3-13-84 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ BL 14-1982, f. 10-19-82, ef. 10-20-82 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

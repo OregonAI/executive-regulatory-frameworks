@@ -1,0 +1,247 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 141 OREGON HEALTH PLAN 
+ 410-141-5185 
+ CAPITALIZATION: Restricted Reserve Account 
+ 
+ (1) A CCO shall establish a Restricted Reserve Account and maintain sufficient Restricted Reserve Funds in the Restricted Reserve Account to meet the Authority’s Primary Reserve and Secondary Reserve requirements. Restricted Reserve Funds shall be held for the purpose of: 
+
+ (a) Making payments to providers in the event of the CCO’s insolvency; and 
+
+ (b) Assuring the CCO’s performance in the event its CCO Contract is terminated. 
+
+ (2) A CCO’s Primary Reserve and Secondary Reserve balances shall be determined by calculating the CCO’s average monthly medical expense incurred, unless the Authority agrees upon an exception to the below calculations: 
+
+ (a) If a CCO has submitted quarterly financial statements for the current quarter and the prior three quarters, the average monthly medical expense incurred shall be derived by adding together the “total hospital and medical” expense (NAIC statement of revenue and expenses) for the prior four quarters and dividing by 12; 
+
+ (b) A newly formed CCO shall use an average of hospital and medical expense projected for the first four quarters of operation; 
+
+ (c) Each quarter, the average expense liability shall be recalculated using historical quarter data available; 
+
+ (d) The Authority may allow a CCO to adjust its calculation of its average monthly medical expenses by excluding any commercial line of business or any Medicare line of business from the “total hospital and medical” expense. 
+
+ (3) The amount a CCO must deposit and maintain in its Restricted Reserve Account shall be calculated as follows: 
+
+ (a) If a CCO’s average monthly medical expense incurred is less than or equal to $250,000, an amount equal to the average monthly medical expense incurred shall be deposited into, and maintained in, the Restricted Reserve Account. This amount shall be referred to as the CCO’s “Primary Reserve” and the CCO shall have no “Secondary Reserve” (hereinafter defined) until such time as the CCO’s average monthly medical expense exceeds $250,000; 
+
+ (b) If a CCO’s average monthly medical expense is greater than $250,000, an amount equal to fifty (50) percent of the difference between the average monthly medical expense and the Primary Reserve balance of $250,000 shall be deposited into, and maintained in, the Restricted Reserve Account. This additional amount is referred to as the CCO’s “Secondary Reserve;” 
+
+ (c) A CCO’s Primary Reserve and, if applicable, its Secondary Reserve shall be recalculated and the balance of the Restricted Reserve Account shall be adjusted accordingly each quarter based upon the CCO’s then current average monthly medical expense; 
+
+ (d) The Authority may allow a CCO to adjust its calculation of its Primary Reserve and Secondary Reserve, based on the CCO’s use of value-based payments. 
+
+ (4) A CCO shall establish its Restricted Reserve Account with a third-party financial institution for the purpose of holding the CCO’s Primary Reserve and Secondary Reserve. 
+
+ (5) The Authority’s Model Depository Agreement shall be used by the CCO to establish its Restricted Reserve Account. CCOs shall request the model depository agreement form from the Authority. CCOs shall submit the model depository agreement to the Authority at the time of the CCO’s application to the Authority under OAR 410-141-3700 and the model depository agreement shall remain in effect throughout the period of time that the CCO Contract is in effect. The model depository agreement cannot be changed without the Authority’s prior written approval. 
+
+ (6) The CCO shall not withdraw funds, change third party financial institutions, or change account numbers within the Restricted Reserve Account without the prior written consent of the Authority. 
+
+ (7) A CCO shall submit a copy of the model depository agreement at the time of application. If a CCO requests and receives written authorization from the Authority to make a change to its existing Restricted Reserve Account, the CCO shall submit a model depository agreement reflecting the changes to the Authority within fifteen (15) business days of the date of the change. 
+
+ (8) The following instruments are considered eligible deposits for the purposes of a CCO’s Primary Reserve and Secondary Reserve: 
+
+ (a) Cash; 
+
+ (b) Certificates of Deposit; 
+
+ (c) Amply secured obligations of the United States or a state; and 
+
+ (d) Amply secured obligations of a political subdivision as determined by the Authority to be acceptable. 
+
+ (9) If a CCO has multiple CCO Contracts or agreements with the Authority, separate Restricted Reserve Accounts shall be maintained for each CCO Contract and agreement, except as required in this subsection. Separate Restricted Reserve Accounts shall not be required for state-funded services and Oregon Health Plan contracts. However, the CCO shall be obligated to maintain actuarially sound and sufficient aggregate loss reserves for all its contractual liabilities, including both contractual liabilities that are supported by a Restricted Reserve Account and those which are not so supported. 
+
+ (10) CCOs that enter into Sub-Capitation Arrangements for any portion of the health care services covered by the CCO’s agreement with the Authority may require that the Capitated Subcontractor establish, fund and maintain a Restricted Reserve Account and Restricted Reserve Funds for the Capitated Subcontractor's portion of the risk assumed. Alternatively, the CCO may elect to establish, fund and maintain a single Restricted Reserve Account for all risk assumed under the agreement with the Authority (including the portion of those risks assumed by the Capitated Subcontractor). In either event, the CCO shall assure that the aggregate of the Restricted Reserve Account(s) and Restricted Reserve Funds comply with the requirements of this section. 
+
+ (11) All the requirements of this section in respect of a CCO’s Restricted Reserve Account shall respectively apply to a Restricted Reserve Account established, funded and maintained by a Capitated Subcontractor under subsection (10). 
+
+ (12) If a Restricted Reserve Fund of a CCO is held in a combined account or pool with other entities, the CCO and its subcontractors, as applicable, shall provide a statement from the pool or account manager or custodian confirming that the proceeds of the Restricted Reserve Fund shall be available for payment to the CCO and the Authority, on demand, and that no other payee has the contractual right to withdraw the proceeds of the Restricted Reserve Account under or pursuant to the agreement(s) governing administration of the Restricted Reserve Account. 
+
+ (13) If a CCO wishes to withdraw proceeds from its Restricted Reserve Account in order to cover services under its CCO Contract, the CCO shall provide advance notice to the Authority of the amount to be withdrawn, the reason for withdrawal, when and how the Restricted Reserve Fund shall be replenished, and measures to avoid the need for future withdrawals from the Restricted Reserve Account. A CCO shall notify the Authority no later than twenty (20) business days prior to withdrawing proceeds from its Restricted Reserve Account pursuant to subsection.  The Authority shall approve or disapprove such payment within twenty (20) business days. A CCO shall not withdraw such proceeds without the prior written approval of the Authority. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042, 414.572, 414.591 & 414.605 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.570-414.686 & 415.001-415.430 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 143-2024, amend filed 12/29/2024, effective 01/01/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 56-2021, amend filed 12/30/2021, effective 01/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 59-2019, adopt filed 12/18/2019, effective 01/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

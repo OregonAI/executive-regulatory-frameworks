@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Racing Commission 
+ Chapter 462 
+ 
+ 
+ 
+ 
+ 
+ Division 200 PARI-MUTUEL RULES AND REGULATIONS 
+ 462-200-0460 
+ General 
+ 
+ (1) All permitted pari-mutuel wagering pools shall be separately and independently calculated and distributed. Takeout shall be deducted from each gross pool as stipulated by law. The remainder of the monies in the pool shall constitute the net pool for distribution as payoff on winning wagers.  (2) For each wagering pool, the amount wagered on the winning betting interest or betting combinations is deducted from the net pool to determine the profit; the profit is then divided by the amount wagered on the winning betting interest or combinations, such quotient being the profit per dollar.  (3) Either the standard or net price calculation procedure may be used to calculate single commission pools, while the net price calculation procedure must be used to calculate multi-commission pools.  (a) Standard Price Calculation Procedure:  (A) SINGLE PRICE POOL (WIN POOL):  (i) Gross pool = sum of wagers on all betting interests - refunds;  (ii) Takeout = gross pool x percent takeout;  (iii) Net pool = gross pool - takeout;  (iv) Profit = net pool - gross amount bet on winner;  (v) Profit per dollar = profit / gross amount bet on winner;  (vi) $1 unbroken price = profit per dollar + $1;  (vii) $1 broken price = $1 unbroken price rounded down to the break point;  (viii) Total pay out = $1 broken price x gross amount bet on winner;  (ix) Total breakage = net pool - total pay out.  (B) PROFIT SPLIT (PLACE POOL):  (i) Profit is net pool less gross amount bet on all place finishers;  (ii) Finishers split profit 1/2 and 1/2 (place profit), then divide by gross amount bet on each place finisher for two unique prices.  (C) PROFIT SPLIT (SHOW POOL):  (i) Profit is net pool less gross amount bet on all show finishers;  (ii) Finishers split profit 1/3 and 1/3 and 1/3 (show profit), then divide by gross amount bet on each show finisher for three unique prices.  (b) Net Price Calculation Procedure:  (A) SINGLE PRICE POOL (WIN POOL):  (i) Gross pool = sum of wagers on all betting interests — refunds for each source;  (ii) Takeout = gross pool x percent takeout;  (iii) * for each source:  (I) Net pool = gross pool — takeout;  (II) Net bet on winner = gross amount bet on winner x (1 - percent takeout);  (iv) Total net pool = sum of all sources net pools;  (v) Total net bet on winner = sum of all sources net bet on winner;  (vi) Total profit = total net pool - total net bet on winner;  (vii) Profit per dollar = total profit / total net bet on winner;  (viii) $1 unbroken base price = profit per dollar + $1 for each source:  (ix) * for each source:  (I) $1 unbroken price = $1 unbroken base price x (1 - percent takeout);  (II) $1 broken price = $1 unbroken price rounded down to the break point;  (x) Total payout = $1 broken price x gross amount bet on winner;  (xi) Total breakage = net pool - total payout.  (B) PROFIT SPLIT (PLACE POOL):  (i) Total profit is the total net pool less the total net amount bet on all place finishers.  (ii) Finishers split total profit 1/2 and 1/2 (place profit), then divide by total net amount bet on each place finisher for two unique unbroken base prices.  (C) PROFIT SPLIT (SHOW POOL):  (i) Total profit is the total net pool less the total net amount bet on all show finishers.  (ii) Finishers split total profit 1/3 and 1/3 and 1/3 (show profit), then divide by total net amount bet on each show finisher for three unique unbroken base prices.  (4) If a profit split results in only one covered winning betting interest or combinations it shall be calculated the same as a single price pool.  (5) Minimum payoffs and the method used for calculating breakage shall be established by the commission.  (6) The individual pools outlined in these rules may be given alternative names by each race meet licensee, provided prior approval is obtained from the commission. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 462.270(3) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 462.270(3) 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ RC 3-2000, f. 3-27-00, cert. ef. 5-1-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

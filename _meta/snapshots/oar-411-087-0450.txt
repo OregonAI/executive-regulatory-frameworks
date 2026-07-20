@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Aging and People with Disabilities and Developmental Disabilities - Chapter 411 
+ 
+ 
+ 
+ 
+ Division 87 NURSING FACILITIES/LICENSING —  PHYSICAL ENVIRONMENT 
+ 411-087-0450 
+ Heating and Ventilating Systems 
+ 
+ (1) Energy Conservation. Special design considerations should be given to energy conservation in accordance with Section 53 of the Oregon Structural Specialty Code.  (2) Temperature:  (a) Design. For all areas occupied by residents, the indoor winter design temperature shall be 75 degrees Fahrenheit (24 degrees Celsius). For all other occupied areas, the indoor winter design temperature shall be 72 degrees Fahrenheit (22 degrees Celsius).  NOTE: This does not preclude operation at lower temperatures where appropriate and resident safety is not affected.  (b) Function. For all areas occupied by residents, the indoor temperature shall be maintained at not less than 70 degrees Fahrenheit (21 degrees Celsius).  (3) Ventilation Design. In the interest of energy conservation, the facility is encouraged to utilize recognized procedures such as variable air volume and load shedding systems in areas not listed in Table 2 and where direct care is not affected such as administrative and public areas, general storage, etc. Consideration may be given to special design innovations of Table 2 provided that pressure relationships as an indication of direction of air flow and total number of air changes as listed is maintained. All such proposed design innovations are subject to review and approval by the Division.  (4) Ventilation System Details. All air-supply and air-exhaust systems shall be mechanically operated. All fans serving exhaust systems shall be located at the discharge end of the system and have motor life ratings suitable for continuous use (20,000 hours minimum). The ventilation rates shown in Table 2 shall be considered as minimum acceptable rates and shall not be construed as precluding the use of higher ventilation rates when needed for temperature control or control of odors:  (a) Outdoor air intakes shall be located as far as practical but not less than 25 feet (7.62 m) from exhaust outlets of ventilating systems, combustion equipment stacks, vacuum systems, plumbing vent stacks, or from areas which may collect vehicular exhaust and other noxious fumes (plumbing and vacuum vents that terminate above the level of the top of the air intakes may be located as close as ten feet (3.05 m)). The bottom of outdoor air intakes serving central systems shall be located as high as practical but not less than six feet (1.83 m) above ground level, or if installed above the roof, three feet (91 cm) above roof level;  (b) The ventilation systems shall be designed and balanced to provide the air exchange rate and pressure relationship shown in Table 2;  (c) The bottoms of ventilation openings shall be not less than three inches (7.6 cm) above the floor of any room;  (d) Corridors shall not be used to supply air or exhaust air from any occupiable room. Pressurization of corridors for odor control will be allowed within limits established by the agency having jurisdiction for enforcement of the Oregon Mechanical Specialty Code;  (e) All central ventilation or air conditioning systems shall be equipped with filters having efficiencies no less than those specified in Table 3. The filter bed shall be located upstream of the air conditioning equipment unless a pre-filter is employed. In this case, the pre-filter shall be upstream of the equipment and the main filter bed shall be located further downstream. Electronic filter systems meeting required efficiency ratings may be proposed as an acceptable alternative when installed and maintained in accord with recommendations of the manufacturer. Manufacturer’s specifications and recommendations for installation shall be submitted for approval by the Division. If electronic filters are used, the facility shall comply with the manufacturer’s specifications and recommendations for maintenance and cleaning. This information, including a copy of the manufacturer’s specifications and recommendations, shall be documented and available in the facility;  (f) All filter(s) efficiencies shall be average atmospheric dust spot efficiencies tested in accordance with ASHRAE Standard 52-76. Filter frames shall be durable and carefully dimensioned and shall provide an airtight fit with the enclosing duct work. All joints between filter segments and the enclosed duct work shall have gaskets or seals to prevent air leakage. A manometer shall be installed across each filter bed serving central air systems;  (g) Air handling duct systems shall meet the requirements of NFPA Standard 90A;  (h) Fire and smoke dampers shall be constructed, located, and installed in accordance with the requirements of NFPA Standard 90A except that all systems, regardless of size, serving more than one smoke or fire zone shall be equipped with smoke detectors to shut down fans automatically as delineated in Paragraph 4-3.2 of the Standard. Access for maintenance shall be provided at all dampers. Switching for restart of fans may be conveniently located for fire department use to assist in evacuation of smoke after the fire is controlled, provided provisions are made to avoid possible damage to the system because of closed dampers.  (5) Testing Required. Prior to facility licensure, all mechanical systems shall be tested, balanced, and operated to demonstrate to the design engineer or his/her representative that installation and performance of these systems conform to the design intent. Test results shall be made available on request to representatives of the Division.  (6) Exceptions. Facilities continuously licensed since January 1, 1992 shall not be required to meet sections (1), (3), (4) and (5) of this rule unless required to conform pursuant to OAR 411-087-0010.  [ED. NOTE: Tables referenced are available from the agency.]  [Publications: Publications referenced are available from the agency.] 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 410.070 & 441.055 
+ 
+ 
+ Statutes/Other Implemented:  ORS 441.055 & 441.615 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSD 22-1991, f. 12-31-91, cert. ef. 1-1-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

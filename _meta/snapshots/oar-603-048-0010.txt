@@ -1,0 +1,528 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Agriculture 
+ Chapter 603 
+ 
+ 
+ 
+ 
+ 
+ Division 48 INDUSTRIAL HEMP 
+ 603-048-0010 
+ Definitions
+ 
+ 
+ The following definitions apply to OAR 603-048-0010 through 603-048-2500 unless the context requires otherwise. 
+(1) “Adult use cannabis item” has the meaning given that term in ORS 475C.009. 
+(2) “Agricultural hemp seed” 
+(a) means Cannabis seed: 
+(A) That is sold to or intended to be sold to licensed growers for planting; or 
+(B) That remains in an unprocessed or partially processed condition that is capable of germination. (b) does not mean Cannabis seed produced from a marijuana plant. 
+(b) Does not mean Cannabis seed produced from a marijuana plant. 
+(3) “Agricultural hemp seed producer” means a person who produces agricultural hemp seed or processes industrial hemp into agricultural hemp seed. 
+(4) “Barrier” may include but is not limited to a man-made or natural feature, such as a row of trees or hedges, creek, or ditch which encloses, separates, or demarcates a space. 
+(5) “Cannabis” means the plant species Cannabis sativa and in these rules refers to all forms of the plant regardless of THC content. 
+(6) “Cannabis Tracking System” or “CTS” means the OLCC’s system for tracking the transfer of marijuana items. 
+(7) “CBD” means cannabidiol, Chemical Abstracts Service Number 13956-29-1. 
+(8) “Consumption” means ingestion, inhalation or topical application to the skin or hair. 
+(9) “Contiguous” for purposes of describing a production area means a single, uninterrupted geographical area   where all parts of the production area are adjacent and connected to each other without any land, structure, or barrier separating any part of the production area.  Up to eight feet of open tractor road is allowed within the production area. 
+(10) “Conviction” or “convicted” means any plea of guilty or nolo contendere, or any finding of guilt, except when the finding of guilt is subsequently overturned on appeal, pardoned, or expunged. A conviction is expunged when the conviction is removed from the individual’s criminal history record and there are no legal disabilities or restrictions associated with the expunged conviction, other than the fact that the conviction may be used for sentencing purposes for subsequent convictions. In addition, where an individual is allowed to withdraw an original plea of guilty or nolo contendere and enter a plea of guilty and the case is subsequently dismissed, the individual is no longer considered to have a conviction. 
+(11) “Crop” means industrial hemp grown under a single license. 
+(12) “Cut microgreen” means microgreens that have been cut such that the root is fully removed from the remainder of the plant. The remainder of the plant is the cut microgreen. 
+(13) “Days” means calendar days unless otherwise specified in rule. 
+(14) “Department” means the Oregon Department of Agriculture. 
+(15) “Grower” means a person, joint venture or cooperative that produces industrial hemp and includes a person growing for research purposes. 
+(16) “Grow site” means one contiguous lot, parcel, or tract of land used to produce or intended to produce industrial hemp. 
+(17) “Flowering” means a hemp plant that has formed a mass of pistils measuring greater than two centimeters wide at its widest point. 
+(18) “Handler” means a person, joint venture or cooperative that: 
+(a) receives industrial hemp for processing into industrial hemp commodities, products, or agricultural hemp seed; 
+(b) processes industrial hemp commodities or products into hemp items; or 
+(c) trims industrial hemp; or 
+(d) packages hemp items. 
+(19) “Handling site” means one contiguous lot, parcel, or tract of land used to process or intended to process industrial hemp. 
+(20) “Harvest” includes cutting of the cannabis plant such that the plant is no longer growing or removing part or all of the plant from the growing medium for the purpose of processing, storing, transfer or sale. Harvest does not include sampling for purposes of testing under OAR 603-048-0600, removal of all or part of the cannabis plant due to mold, pest, disease, or minimal pruning or removal of cannabis plants in the course of normal agricultural practices such as removing male plants. 
+(21) “Harvest Lot”: 
+(a) Means a quantity of Cannabis of the same variety or strain harvested in a distinct timeframe that is: 
+(A) Grown in one production area within a grow site; or 
+(B) Grown in  one production area or within a portion of one production area within a grow site. 
+(b) Does not include a quantity of cannabis grown in noncontiguous areas. 
+(22) “Harvest Lot Identifier” means a unique numerical identifier that begins with the name of the grow site, then the year of harvest, and then a unique number to identify the harvest lot. If a harvest lot is subsequently split into one or more lots for purposes of testing in OAR 603-048-2300 to 603-048-2480 or for purposes of retesting in accordance with OAR 603-048-0630(3), a unique letter shall be added to the end of the original harvest lot identifier to identify the split lots. 
+(23) “Hemp” means industrial hemp and these terms are used interchangeably. 
+(24) “Hemp Item” has the meaning provided in OAR 603-048-2310. 
+(25) “Immature hemp plant” means a hemp plant that is not flowering. 
+(26) “Immature plant lot” means a quantity of immature hemp plants tested, transferred or sold as one unit. 
+(27) “Immature plant lot identifier” means a unique numerical identifier that begins with the name of the grow site, then the year of production, and then a unique number to identify the immature plant lot. If an immature plant lot is subsequently split into one or more lots for purposes of testing, a unique letter shall be added to the end of the original immature plant lot identifier to identify the split lots. 
+(28) “Industrial hemp”: 
+(a) Means the plant species Cannabis sativa, and any part of that plant whether growing or not including the seeds thereof, that contain an average total tetrahydrocannabinol concentration that does not exceed 0.3 percent on a dry weight basis. 
+(b) Includes, but is not limited to: 
+(A) Industrial hemp that has been minimally preserved, for purposes of transfer or storage including chopping, separating, or drying; 
+(B) Microgreens; and 
+(C) Agricultural hemp seed. 
+(c) Does not mean: 
+(A) Industrial hemp commodities or products; or 
+(B) Marijuana, as that is defined in ORS 475C.009 including but not limited to Cannabis seed produced by a marijuana plant. 
+(29) Industrial Hemp Commodity or Product: 
+(a) Means an item processed containing any industrial hemp or containing any chemical compounds derived from industrial hemp, including CBD derived from industrial hemp. 
+(b) Includes: 
+(A) Hemp concentrates or extracts as defined in OAR 603-048-2310; 
+(B) Hemp edible as defined in OAR 603-048-2310; 
+(C) Hemp tincture as defined in OAR 603-048-2310; 
+(D) Hemp topical as defined in OAR 603-048-2310; 
+(E) Hemp transdermal patch as defined in OAR 603-048-2310; 
+(F) Industrial hemp processed through retting or other processing such that it is suitable fiber for textiles, rope, paper, hempcrete, or other building or fiber materials; 
+(G) Industrial hemp seed processed such that it is incapable of germination and processed such that is suitable for human consumption; 
+(H) Industrial hemp seed pressed or otherwise processed into oil; 
+(I) Cut microgreens 
+(c) Does not include: 
+(A) Industrial hemp that has not been processed in any form; 
+(B) Industrial hemp that has been minimally prepared for purposes of transfer or storage including chopping, separating, or drying; 
+(C) Agricultural hemp seed or any Cannabis seed produced by a marijuana plant. 
+(30) “Industrial hemp for human consumption” has the meaning in OAR 603-048-2310. 
+(31) “Kief” means the resinous trichomes of hemp that accumulate or fall off when hemp flowers are sifted through a mesh screen or sieve. 
+(32) “Key participant” means any person listed on an application for a license and: 
+(a) If an applicant or key participant is a limited partnership, each general partner in the limited partnership; 
+(b) If an applicant or key participant is a general partnership, each general partner in the general partnership; 
+(c) If an applicant or key participant is a manager-managed limited liability company, each manager of the limited liability company as those terms are defined in ORS 63.001; 
+(d) If an applicant or key participant is a corporation, each person with executive managerial control in a corporation. A person with executive managerial control includes, but is not limited to, any officer of the corporation; 
+(e) Any individual or legal entity with an ownership interest in the applicant or a key participant; 
+(f) If an applicant or key participant is a member-managed limited liability company, any individual or legal entity who holds or controls a direct or indirect interest of 20 percent or more in the applicant. 
+(g) Any principal investigator of an applicant for a research grower license. 
+(33) “Laboratory” means a laboratory that is licensed by the OLCC under ORS 475C.548 and accredited by the Oregon Health Authority under ORS 475C.560. 
+(34) “Land Use Compatibility Statement (LUCS) is a document that is submitted to a city or county official to confirm whether a proposed activity or permit is consistent with local government land use regulations. 
+(35) “License” means a license issued by the Department under ORS 571.281 and these rules. 
+(36) “Licensed research grower” means a person licensed to produce hemp for research purposes only pursuant to OAR 603-048-0126. 
+(37) “Licensee” means a grower, handler, agricultural hemp seed producer, research grower, vendor or other person licensed under ORS 571.281 or these rules. 
+(38) "Mature hemp plant” means a hemp plant that is flowering. 
+(39) “Microgreens” means seedling or small shoots of industrial hemp that have grown less than three inches in height from where the plant emerges from the soil or other growing medium to the tip of the plant greenery. 
+(40) “OLCC” means the Oregon Liquor and Cannabis Commission. 
+(41) “Ownership interest”: 
+(a) Includes any person or legal entity that exercises control over, or is entitled to exercise control over, the business. Control over the business includes but is not limited to the authority to enter a contract or similar obligations on behalf of the business. 
+(b) Includes any individual or legal entity owning the real or personal property of the proposed licensed site unless the owner of the property has given control over the property to another party via a lease or rental agreement or similar agreement. 
+(c) Does not include an employee acting under the direction of the owner or other non- executive employees such as farm, field, or shift managers that do not make financial planning decisions and that do not vote or exercise control of the business. 
+(42) “Planting” or the action “plants” means placing a seed, cutting, or plant in the ground or other media for the purpose of growing, or being in possession of any such seed, cutting, or plant. 
+(43) “Principal investigator” means an individual, retained by the applicant or licensee, who is primarily responsible for a hemp research project implemented or intended to be implemented under a research grower license. 
+(44) “Process” means the processing, compounding, or conversion of industrial hemp into industrial hemp commodities or products or agricultural hemp seed. It also means further processing, compounding or conversion of industrial hemp commodities or products into hemp items. Process includes the basic preparation of commodities or products, the alteration of a commodity or product into another, and preservation and packaging techniques. Processing does not include minimal preparation of hemp for purposes of transfer or storage including chopping, separating, or drying. 
+(45) “Process lot identifier” means a unique numerical identifier that begins with the last seven numbers of the handler’s license number or the name of the handler, then the year of processing, and then a unique number to identify the process lot. 
+(46) “Process lot” means: 
+(a) Any amount of hemp concentrate or extract of the same type and processed at the same time using the same extraction methods, standard operating procedures and batches from the same or different harvest lots; or 
+(b) Any amount of hemp cannabinoid products of the same type and processed at the same time using the same ingredients, standard operating procedures and batches from the same or different harvest lots or process lots of cannabinoid concentrate or extract. 
+(47) “Produce” means the planting, cultivation, growing, or harvesting of industrial hemp. 
+(48) “Production area” means a contiguous area at a grow site or proposed grow site where industrial hemp is produced or is intended to be produced and may include a field, greenhouse, raised bed, or other structure. 
+(49) “Retest” or “Retesting” means the laboratory process of retesting a retained file sample for THC content after the sample failed initial testing for THC content under OAR 603-048-0600. A retest does not include or permit taking a new sample from the harvest lot. 
+(50) “Seed lot” means a quantity of cannabis seeds tested, transferred, or sold as one unit. 
+(51) “Seed lot identifier” means a unique numerical identifier that begins with the name of the grow site, then the year of production, and then a unique number to identify the seed lot identifier. If a seed lot is subsequently split into one or more lots for purposes of testing, a unique letter shall be added to the end of the original seed lot identifier to identify the split lots. 
+(52) “Structure” means any wall, door, building (including but not limited to greenhouses or hoop houses), fencing, or barrier which encloses, separates, or demarcates a space. 
+(53) “Tetrahydrocannabinol” or "THC" means tetrahydrocannabinol and has the same meaning as delta-9 THC unless otherwise specified in the rule. 
+(54) “These rules” means OAR 603-048-0010 to 603-048-2500. 
+(55) "THCA" means (6aR,10aR)-1-hydroxy-6,6,9-trimethyl-3-pentyl-6a,7,8,10a-tetrahydro-6H-benzo[c]chromene-2-carboxylic acid, Chemical Abstracts Service Number 23978-85-. 
+(56) “Total THC” means the sum of the concentration or mass of delta-9-THCA multiplied by 0.877 plus the concentration or mass of delta-9-THC. 
+(57) “Trim” or “trimming” means the preparation or manicure of industrial hemp into usable hemp for retail sale. 
+(58) “Unit of sale” means an amount of a hemp item commonly packaged for transfer or sale to a consumer or capable of being packaged for transfer or sale to a consumer. 
+(59) “Vendor” means a person, including a retailer or wholesaler, that stores, transfers, or sells industrial hemp or hemp items for sale to another person, including to other vendors, wholesalers or consumers. 
+(60) “Vendor site” means a location or online domain where a vendor stores, transfers, offers for sale, or sells industrial hemp or hemp items. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 561.90 & ORS 571.260-571.348 
+ 
+ 
+ Statutes/Other Implemented:  ORS 571.260-571.348 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 5-2026, amend filed 01/26/2026, effective 01/26/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 13-2024, amend filed 06/05/2024, effective 06/05/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 49-2023, amend filed 12/14/2023, effective 12/14/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 26-2022, amend filed 10/31/2022, effective 10/31/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 29-2021, amend filed 12/29/2021, effective 01/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 26-2021, amend filed 11/09/2021, effective 11/09/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 22-2021, temporary amend filed 07/28/2021, effective 07/28/2021 through 01/23/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 12-2019, amend filed 05/15/2019, effective 05/15/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 7-2019, temporary amend filed 03/01/2019, effective 03/01/2019 through 08/27/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 27-2018, amend filed 11/29/2018, effective 12/03/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 14-2018, amend filed 04/03/2018, effective 04/03/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 22-2017, temporary amend filed 12/19/2017, effective 12/19/2017 through 04/03/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 18-2017, temporary amend filed 11/09/2017, effective 11/09/2017 through 04/03/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 15-2017, temporary amend filed 10/06/2017, effective 10/06/2017 through 04/03/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 13-2017, f. & cert. ef. 8-30-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 7-2017(Temp), f. 3-14-17, cert. ef. 3-15-17 thru 9-10-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 19-2016, f. & cert. ef. 10-28-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 11-2016(Temp), f. & cert. ef. 5-3-16 thru 10-29-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 3-2015, f. & cert. ef. 1-29-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

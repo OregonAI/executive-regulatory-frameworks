@@ -1,0 +1,400 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Housing and Community Services Department 
+ Chapter 813 
+ 
+ 
+ 
+ 
+ 
+ Division 5 GENERAL RULES 
+ 813-005-0005 
+ General Definitions
+ 
+ 
+ The following definitions, along with those in ORS 456 and 458, apply to OAR 813 unless the context indicates, or the term is otherwise defined in a subsequent division. 
+
+ (1) "Accessible unit" means a dwelling unit meeting the definition of this term within the 2025 Oregon Structural Specialty Code ICC A117.1. 
+
+ (2) "Acquisition loan" means a loan for the purpose of financing the purchase of an existing project. 
+
+ (3) “Administrative costs” means all costs incurred throughout the administration of a program or project that are not directly related to the delivery of the program or projects. 
+
+ (4) "Approved lender" means any person authorized to engage in the business of making loans of the general character of program loans, who meets the qualifications for an approved lender set forth in the applicable program rules and who contracts with the department to make program loans. 
+
+ (5) "Approved servicer" means any person authorized to engage in the business of servicing loans of the general character of program loans, who meets the qualifications for an approved servicer set forth in the applicable program rules and who contracts with the department to service program loans. 
+
+ (6) "Borrower" means a person who has received a loan from the department. 
+
+ (7) "Break-even occupancy" means the point at which a project's monthly rental income matches its monthly operating expenses and debt service. 
+
+ (8) "Commitment" means the department's written conditional obligation to make, purchase, service, or sell a loan or other funding award. 
+
+ (9) “Community Action Agency” or “CAA” means a private, nonprofit corporation organized under ORS chapter 65, or an office, division, or agency of a political subdivision designated as a community action agency pursuant to the Economic Opportunity Act of 1964 by the U.S. Department of Health and Human Services, which meets the requirements outlined in ORS 458.505. 
+
+ (10) "Community service programs" means activities of the department involving the regulation, support, or direct or indirect operation of temporary or permanent placement of individuals into housing; or housing stabilization. 
+
+ (11) “Conditional” means subject to relevant conditions and documents required for the reservation or award of the department funding. 
+
+ (12) “Construction” has the meaning provided in ORS 456.515. 
+
+ (13) “Contingency escrow Account" means a savings account, time certificate of deposit, or irrevocable letter of credit assigned to the department, that is established by a sponsor. Contingency escrow accounts are generally valued at less than 3% of the applicable loan. 
+
+ (14) "Cooperative" is a consumer housing entity formed according to the provisions of ORS Chapter 62. 
+
+ (15) "Custodian" has the meaning provided in ORS 192.311. 
+
+ (16) “Department”  means the department of the state of Oregon established pursuant to ORS 456.555. 
+
+ (17) "Elderly household" has the meaning provided within ORS 456.515. 
+
+ (18) "Eligible borrower" means a person who satisfies the criteria to receive a department loan as set forth in the applicable program rules, statutes, or department orders. 
+
+ (19) "Escrow payments" means the payments made by a sponsor or borrower to an escrow account reserved for the payment of property taxes, insurance premiums, and replacements, and other identified costs as required by the department in accordance with a department loan. 
+
+ (20) “Funding documents” means any and all documents required by OHCS to document a housing grant, loan or other funding award or reservation commitment including, but not limited to loan agreements, regulatory agreements, guarantees, operating agreements, and reservation letters. 
+
+ (21) “Homebuyer” means an individual who is in the process of buying a home. 
+
+ (22) “Homeowner” means an individual who owns their principal residence. 
+
+ (23) "Housing Stability Council" or “Council” or “HSC” means the Oregon Housing Stability Council as provided in ORS 456.515, established in ORS 456.567, and described in ORS 456.555 and 456.571. 
+
+ (24) "Housing programs" means activities of the department involving the financing, regulation, maintenance, or support of housing or home ownership. 
+
+ (25) "Lending department" means a commercial bank, savings and loan association, savings bank, mortgage banker, Federal Housing Administration, Farmers Home Administration, or other department that provides permanent or construction mortgage loans. 
+
+ (26) "Loan agreement" means a written agreement, typically executed at loan closing, between the department and a sponsor, that establishes the terms of a department loan. 
+
+ (27) "Loan closing" means the final stage of a department loan transaction, in which loan documents are signed, loan proceeds are disbursed, and ownership of the property is transferred. 
+
+ (28) "Loan documents" means the written agreements between a sponsor and the department, typically executed at loan closing, relating to a department loan. Loan documents include, but are not limited to, a promissory note, loan agreement, trust deed, regulatory agreement, operating agreement, and management agreement. 
+
+ (29) "Manufactured dwelling park" has the meaning provided in ORS 446.003. 
+
+ (30) “Notice of Funding Availability” or “NOFA” means a department-issued solicitation for applications for funding. 
+
+ (31) "Operating agreement and declaration of restrictive covenants and equitable servitudes" or "operating agreement" means a written agreement typically executed at loan closing between the department and a sponsor, related to the department's pass-through revenue bond program. The operating agreement regulates the use of revenues and operation of a project, particularly with respect to tenant income and unit rent compliance by a sponsor. 
+
+ (32) “Oregon Housing and Community Services” or "Department" or "department" or “OHCS” means the department of the state of Oregon established pursuant to ORS 456.555 and described in ORS 456.559. 
+
+ (33) “Organization” has the meaning provided in ORS 458.610. 
+
+ (34) "Person" means any natural or legal person. 
+
+ (35) “Program requirements” means the requirements with respect to any OHCS funding program including, but not limited to, as contained in or arising from applicable administrative rules; solicitation documents; funding documents; OHCS directives; federal, state and local statutes, codes, regulations or determinations; and other applicable law.  
+
+ (36) “Qualified housing sponsor” has the meaning provided in ORS 456.548.  
+
+ (37) "Qualified insurer" means the Federal Housing Administration, the Veterans' Administration, or any other person who is authorized to insure or guarantee payment of loans and who is approved by OHCS. 
+
+ (38) "Regulatory agreement and declaration of restrictive covenants and equitable servitudes" or "regulatory agreement" means a written agreement typically executed at loan closing between the department and a sponsor. The regulatory agreement regulates the use of revenues and operation of a project for which a department loan is issued, particularly with respect to a sponsor’s compliance with maintaining the status of any involved bond issue. 
+
+ (39) “Regulatory agreement as to project management” or “management agreement” means a written agreement typically executed at or after loan closing between the department, a project sponsor, and, if applicable, a management agent engaged by a sponsor that regulates certain aspects of project management to ensure, inter alia, accomplishment of project or program requirements.  
+
+ (40) "Rent-up reserve account" means an account set up by a project sponsor and under the control of the department to guarantee sufficient funds are available to pay operating expenses and debt service of a project before break-even occupancy. 
+
+ (41) “Rental housing” has the meaning provided in ORS 456.508. 
+
+ (42) "Replacement cost reserve account" means an account established to aid in payment for extraordinary maintenance or repair of a project or for replacement of capital items of a project as allowed by the department. 
+
+ (43) “Service area” means the specific geographic area or region within which a grantee or subgrantee provides program services directly or by contract. 
+
+ (44) "Single-family residence" means a housing unit and the property on which it is located that is used for occupancy by one household. A single-family residence is real property located in Oregon. A single-family residence may include a condominium unit; a dwelling in a planned unit development; or a mobile or manufactured home which has a minimum of 400 square feet of living space, a minimum width in excess of 102 inches, and is of a kind customarily used at a fixed location. 
+
+ (45) "Sponsor" means a person meeting the legal, financial, credit, and other qualifications to be a borrower of a department loan as set forth in the applicable program rules, statutes, and department orders. 
+
+ (46) "Targeted area" means an area in Oregon designated by the department in compliance with the requirements of Section 143(j) of the Internal Revenue Code of 1986, as amended, and approved by the United States Departments of Treasury and Housing and Urban Development. 
+
+ (47) "Trustee" means the State of Oregon treasurer or, with the approval of the department, a private financial institution in Oregon acting pursuant to an indenture of trust or other appropriate instrument. 
+
+ (48) "Veteran" has the meaning given in ORS 408.225 and also includes a person who served in the military that has been discharged or released from that service and has been determined by the United States Department of Veteran's Affairs to be eligible to receive any benefit from that department. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 456.515 - 456.725, 458.505 - 458.610 & 456.555 
+ 
+ 
+ Statutes/Other Implemented:  12 CFR 541.25, 24 CFR 5.609, ORS 86.205, 197.015, 315.163, ORS 456.515 - 456.725, 458.505 - 458.610 & 456.555 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHCS 15-2026, amend filed 07/02/2026, effective 07/06/2026 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHCS 32-2024, amend filed 08/29/2024, effective 09/02/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHCS 34-2023, amend filed 12/29/2023, effective 01/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHCS 12-2021, amend filed 12/03/2021, effective 12/03/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHCS 16-2020, amend filed 07/30/2020, effective 07/30/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHCS 30-2019, amend filed 10/28/2019, effective 10/28/2019 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHCS 21-2017, amend filed 12/26/2017, effective 01/08/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHCS 20-2017, temporary amend filed 11/17/2017, effective 11/17/2017 through 01/31/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHCS 15-2016, f. & cert. ef. 12-14-16 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ OHCS 6-2016(Temp), f. & cert. ef. 6-29-16 thru 12-25-16 
+OHCS 34-2014, f. & cert. ef. 10-9-14 
+OHCS 25-2014(Temp), f. & cert. ef. 4-17-14 thru 10-14-14 
+OHCS 18-2013, f. & cert. ef. 12-18-13 
+OHCS 14-2013(Temp), f. & cert. ef. 6-21-13 thru 12-18-13 
+OHCS 3-2006, f. & cert. ef. 1-31-06 
+OHCS 1-2005(Temp), f. & cert. ef. 8-4-05 thru 1-31-06 
+HSG 8-1991, f. & cert. ef. 12-23-91 
+HSG 2-1991(Temp), f. & cert. ef. 8-7-91 
+HSG 5-1989, f. & cert. ef. 11-3-89 
+HSG 3-1989(Temp), f. & cert. ef. 6-8-89, Renumbered from 813-001-0006 
+HSG 5-1987, f. & cert. ef. 3-10-87 
+HSG 1-1987(Temp), f. & cert. ef. 2-5-87 
+1HD 7-1984, f. & cert. ef. 9-4-84 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

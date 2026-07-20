@@ -1,0 +1,173 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 308 ASSESSMENT OF PROPERTY FOR TAXATION 
+ 150-308-0290 
+ Effective Tax Rate 
+ 
+ (1) Definitions for this rule:  (a) “Changed property ratio” (CPR) is the ratio, not greater than 1.00, of the average maximum assessed value over the average real market value for the assessment year in the same area and property class.  (b) “Nominal tax rate” is the tentative consolidated ad valorem property tax rate by code area described in ORS 310.147(2). When applicable, the nominal tax rate can be adjusted to reflect a reduction of tax to meet the limitations identified under Section 11b, Article XI of the Oregon Constitution  (c) “Effective tax rate” for any given property is the nominal tax rate, as described in subsection (1)(b), multiplied by the appropriate CPR, described in subsection (1)(a).  (2) The effective tax rate can be determined by the following methodology:  (a) Select the nominal tax rate known on the assessment date. For example, the assessment date of January 1, 2008 requires the nominal tax rate calculated for the prior tax year, 2007–08.  (b) Multiply the nominal rate by the CPR applicable to the assessment date, considering the subject property classification and location. The result is the effective tax rate.  Example 1: An apartment complex is being valued for assessment purposes, in an area with a changed property ratio of 65% or 0.65 and a nominal tax rate of $19.8615 per thousand of assessed value (1.98615%) or .0198615; the effective tax rate is calculated as follows: Changed Property Ratio (CPR) x Nominal Tax Rate (NTR) = Effective Tax Rate (ETR) 0.65 (CPR) x .0198615 (NTR) = 0.01291 (ETR) or 1.3% 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100, 308.205 & 308.724 
+ 
+ 
+ Statutes/Other Implemented:  ORS 308.205 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 150-308.205-(G), REV 57-2016, f. 8-13-16, cert. ef. 9-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 7-2008, f. 8-29-08, cert. ef. 8-31-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

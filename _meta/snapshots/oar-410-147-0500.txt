@@ -1,0 +1,400 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 147 FQHC AND RHC SERVICES 
+ 410-147-0500 
+ Total Encounters for Cost Reports
+ 
+ 
+ (1) Federally Qualified Health Centers and Rural Health Clinics (FQHC/RHCs) are required to report the total number of encounters for furnishing services outlined in 42 USC 1396d(a)(2)(C) and 1396d(a)(2)(B), respectively. 
+
+ (2) In general, the Division of Medical Assistance Programs (DMAP) calculates a FQHC or RHC's Prospective Payment System (PPS) encounter rate by dividing the total costs incurred by a clinic for furnishing services as defined in 42 USC 1396d(a)(2)(B) or (C) by the total number of all clinic visits, or "encounters." The intent of PPS is to calculate the average cost of an encounter, and not the average cost of a Medicaid billable encounter. 
+
+ (3) This rule provides guidance for cost reporting of all encounters. It is the responsibility of the FQHC and RHC to report all encounters, except when expressly directed not to elsewhere in this rule. FQHCs and RHCs are required to include ALL: 
+
+ (a) Encounters for all clients regardless of payor; 
+
+ (b) Encounters for FQHC or RHC services that are not covered by Medicaid, Medicare, Third Party Payor or other party, but otherwise have an associated cost for providing the service whether billed to the client (e.g. uninsured, signed waiver on file) or absorbed by the clinic; and; 
+
+ (c) Encounters regardless of line placement on the Health Evidence Review Commission's (HERC) Prioritized List of Health Services. For the purpose of reporting encounters according to this rule, encounters are not subject to the HERC Prioritized List, or service limitations and benefit reductions implemented by the Division of Medical Assistance Programs (DMAP). 
+
+ (4) FQHCs and RHCs must report all encounters furnished to all client populations irrespective of coverage or payor source. Examples of client populations include, but are not limited to: 
+
+ (a) Oregon Health Plan (OHP) clients (includes both fee-for-service and prepaid health plan (PHP) clients). Refer to OAR 410-147-0120 for more information regarding OHP encounters; 
+
+ (b) Citizenship Waived Medical (CWM) clients. Refer also to OAR 410-120-1210(3)(f). 
+
+ (c) Family Planning Expansion Program (FPEP) Title X, clients; 
+
+ (d) Uninsured and/or self-pay clients; 
+
+ (e) Medicare clients; 
+
+ (f) Third party or private pay insurance clients; 
+
+ (g) County- and/or clinic-pay clients (services paid or funded by the county or clinic); and 
+
+ (h) Clients funded by federal, state, local or other grants. 
+
+ (5) FQHCs and RHCs must exclude from the total number of reported encounters: 
+
+ (a) Encounters attributed to non-allowable costs: 
+
+ (A) Services performed under the auspices of a Women, Infant and Children (WIC) program or a WIC contract; 
+
+ (B) Services performed and reimbursed under separate enrollment (e.g., Targeted Case Management); 
+
+ (C) Services provided by patient advocates/ombudsmen and Outstationed Outreach Workers, employed by or under contract with the FQHC or RHC, for the primary purpose of providing outreach and/or group education sessions; 
+
+ (D) Provider participation in a community meeting or group session that is not designed to provide clinical services. This includes, and is not limited to, information sessions for prospective Medicaid beneficiaries, and information presentations about available health services at the FQHC or RHC; and 
+
+ (E) Health services provided as part of a large-scale "free to the public" or "nominal fee" effort, such as a mass immunization program, screening program, or community-wide service program (e.g., a health fair); 
+
+ (b) Encounters for specific services outlined in 42 USC 1396d(a)(2)(B) and (C), that do not meet the criteria of a valid encounter when furnished as a stand-alone service. Costs for furnishing these services is an allowed administrative program cost and should be reported on a clinic's cost statement for calculating a clinic's PPS encounter rate. Refer to OAR 410-147-0480, Costs Statement (DMAP 3027) Instructions. Examples include, but are not limited to: 
+
+ (A) Case management services for coordinating health care for a client; 
+
+ (B) Enabling services, including but not limited to, sign language and oral interpreter services; 
+
+ (C) Supportive, rehabilitation services including, but not limited to, environmental intervention, and supported housing and employment; skills training and activity therapy to promote community integration and job readiness; 
+
+ (D) Laboratory and radiology services, including venipuncture and tuberculosis (TB) tests (the initial visit for the TB test administered to the epidermis); 
+
+ (E) Prescription refills; and 
+
+ (F) Services provided without the client present, except for telephone contacts as specified in this rule section (6)(c). 
+
+ (6) FQHCs and RHCs are required to include encounters for services furnished by practitioners recognized by DMAP in OAR 410-147-0120(6). Examples of encounters that may be overlooked but should be included are: 
+
+ (a) Encounters below the funding line on the Health Services Commission's Prioritized List of Health Services. All encounters are to be reported regardless of line placement; 
+
+ (b) Encounters outside of the clinic by primary care practitioners (e.g. services furnished in a hospital or residential treatment setting); 
+
+ (c) Telephone contacts as provided for in the Tobacco Cessation, OAR 410-130-0190; and Maternity Case Management (MCM), 410-130-0595, programs. See also 410-120-1200(2)(y); 
+
+ (d) Medication management-only encounters by a behavioral health practitioner; 
+
+ (e) Encounters by Registered and Licensed Practical Nurses: 
+
+ (A) Home encounters in an area in which the Secretary of the Health Resources and Services Administration, Health and Human Services, has determined that there is a shortage of home health agencies (OAR 410-147-0120(10)); 
+
+ (B) Administration of immunizations/vaccinations encounters; 
+
+ (C) "99211" encounters; and 
+
+ (D) Maternity Case Management (MCM) encounters. 
+
+ (7) Global procedures require attention for accurate reporting of encounters: 
+
+ (a) Obstetrics procedures: Each antepartum, delivery and postpartum encounter included in a global procedure for maternity and delivery services should be reported as a separate encounter; 
+
+ (b) Dental procedures: Multiple contacts for global dental procedures should be reported as a single encounter. Refer to OAR 410-147-0040(5) ICD-10-CM Diagnosis and CPT/HCPCs Procedure Codes, for more information; 
+
+ (c) Surgical procedures: Refer to OAR 410-147-0040(5), ICD-10-CM Diagnosis and CPT/HCPCs Procedure Codes, for more information: 
+
+ (A) Services within a surgical package and "included" in a given CPT surgical code are reported as a single encounter. Refer to OAR 410-130-0380, Surgical Guidelines, for more information; and 
+
+ (B) The initial consultation or evaluation of the problem by the provider to determine the need for surgery, and separate from a preoperative appointment, is a separate encounter. 
+
+ (8) A surgical procedure furnished to an OHP client and provided by more than one surgeon employed by the FQHC or RHC does not count as multiple encounters. The exception to this rule is major surgery, including a cesarean delivery, furnished to a CWM client. Services provided by the primary surgeon and the assistant surgeon, when both are employed with the FQHC or RHC, may be eligible as multiple encounters if medically necessary. 
+
+ (9) When two or more services are provided on the same date of service: 
+
+ (a) With distinctly different diagnoses, a clinic should report multiple encounters when the criteria in OAR 410-147-0140, Multiple Encounters, is met; or 
+
+ (b) With similar diagnoses, a clinic must report one encounter. 
+
+ (10) Clinics must maintain, for no less than five years, all documentation relied upon by the clinic to calculate the number of encounters reported on the cost statement (DMAP 3027): 
+
+ (a) All documentation supporting the number of encounters reported on the cost statement must be sufficient to withstand an audit; and 
+
+ (b) The total number of encounters calculated from all sources of documentation must reconcile to the total number of encounters reported on the cost statement, and subtotaled encounters must reconcile to each documentation source relied upon. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042 & 414.065 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.065 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 15-2022, minor correction filed 02/16/2022, effective 02/16/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 51-2015, f. 9-22-15, cert. ef. 10-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 10-2007, f. 6-14-07, cert. ef. 7-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 27-2006, f. 6-14-06, cert. ef. 7-1-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 71-2003, f. 9-15-03, cert. ef. 10-1-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 62-2002, f. & cert. ef. 10-1-02, Renumbered from 410-128-0380 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 37-2001, f. 9-24-01, cert. ef. 10-1-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 20-2000, f. 9-28-00, cert. ef. 10-1-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 35-1999, f. & cert. ef. 10-1-99 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HR 7-1995, f. 3-31-95, cert. ef. 4-1-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HR 13-1993, f. & cert. ef. 7-1-93 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HR 4-1991, f. 1-15-91, cert. ef. 2-1-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

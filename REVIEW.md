@@ -54,7 +54,7 @@ The document prints a different date than its listing of record (known site typo
 - `agencies/department-of-administrative-services/accounting-manual/oam-15-60-25.md` — document's printed date differs from the listing of record (see Curator notes)
 - `agencies/department-of-administrative-services/accounting-manual/oam-45-20-00.md` — document's printed date differs from the listing of record (see Curator notes)
 
-## Unlinked rules/policies/procedures/standards — no graph edges (23)
+## Unlinked rules/policies/procedures/standards — no graph edges (260)
 
 `src/link_graph.py` found no authority citation (or, for procedures, no `_PR` naming match) connecting this document to anything else in the corpus. Itemized entries usually mean the source's authority text doesn't match the extractor's citation patterns — check the source and either fix the citation text or add a hand-authored relationship. Per-chapter aggregate entries are rules whose own cited authority is chapter-level or not in the corpus — correct non-links, nothing to fix.
 
@@ -73,14 +73,251 @@ The document prints a different date than its listing of record (known site typo
 - `agencies/department-of-administrative-services/policies/das-107-011-160.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/department-of-administrative-services/policies/das-107-011-341.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/department-of-administrative-services/policies/das-50-070-01.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/department-of-administrative-services/policies/das-60-000-03.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/department-of-administrative-services/policies/das-60-000-04.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/department-of-administrative-services/policies/das-60-000-15.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/department-of-administrative-services/policies/das-60-000-25.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/101/ (64 rules)` — correct non-links — 64 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/104/ (67 rules)` — correct non-links — 11 cite only chapter-level authority (no section to link to); 56 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/114/ (20 rules)` — correct non-links — 20 cite only chapter-level authority (no section to link to); per-rule detail in each file's legal_authority
+- `rules/115/ (23 rules)` — correct non-links — 23 cite only chapter-level authority (no section to link to); per-rule detail in each file's legal_authority
 - `rules/122/ (1 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); per-rule detail in each file's legal_authority
+- `rules/123/ (589 rules)` — correct non-links — 2 cite only chapter-level authority (no section to link to); 587 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/123/042/oar-123-042-0020.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/124/ (8 rules)` — correct non-links — 8 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/125/ (60 rules)` — correct non-links — 40 cite only chapter-level authority (no section to link to); 20 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/125/075/oar-125-075-0000.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/128/ (9 rules)` — correct non-links — 9 cite only chapter-level authority (no section to link to); per-rule detail in each file's legal_authority
+- `rules/137/ (254 rules)` — correct non-links — 56 cite only chapter-level authority (no section to link to); 198 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/137/025/oar-137-025-0189.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/137/025/oar-137-025-0400.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/137/045/oar-137-045-0070.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/137/080/oar-137-080-0020.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/141/ (718 rules)` — correct non-links — 258 cite only chapter-level authority (no section to link to); 460 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/142/ (21 rules)` — correct non-links — 21 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/150/ (910 rules)` — correct non-links — 910 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/150/308/oar-150-308-0540.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/160/ (149 rules)` — correct non-links — 10 cite only chapter-level authority (no section to link to); 139 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/161/ (63 rules)` — correct non-links — 63 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/162/ (42 rules)` — correct non-links — 26 cite only chapter-level authority (no section to link to); 16 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/165/ (82 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 81 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/165/014/oar-165-014-0090.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/165/020/oar-165-020-0125.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/166/ (31 rules)` — correct non-links — 16 cite only chapter-level authority (no section to link to); 15 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/166/020/oar-166-020-0045.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/167/ (7 rules)` — correct non-links — 3 cite only chapter-level authority (no section to link to); 4 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/170/ (15 rules)` — correct non-links — 15 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/170/040/oar-170-040-0030.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/170/040/oar-170-040-0040.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/170/040/oar-170-040-0050.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/170/040/oar-170-040-0060.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/170/040/oar-170-040-0070.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/170/040/oar-170-040-0080.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/171/ (3 rules)` — correct non-links — 3 cite only chapter-level authority (no section to link to); per-rule detail in each file's legal_authority
+- `rules/172/ (10 rules)` — correct non-links — 10 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/173/ (26 rules)` — correct non-links — 26 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/177/ (247 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 246 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/199/ (32 rules)` — correct non-links — 32 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/213/ (155 rules)` — correct non-links — 155 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/230/ (183 rules)` — correct non-links — 8 cite only chapter-level authority (no section to link to); 175 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/250/ (248 rules)` — correct non-links — 62 cite only chapter-level authority (no section to link to); 186 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/250/010/oar-250-010-0430.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/255/ (148 rules)` — correct non-links — 6 cite only chapter-level authority (no section to link to); 142 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/255/075/oar-255-075-0001.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/255/075/oar-255-075-0073.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/257/ (82 rules)` — correct non-links — 2 cite only chapter-level authority (no section to link to); 80 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/259/ (33 rules)` — correct non-links — 33 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/274/ (221 rules)` — correct non-links — 64 cite only chapter-level authority (no section to link to); 157 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/291/ (3 rules)` — correct non-links — 3 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/309/ (321 rules)` — correct non-links — 321 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/309/022/oar-309-022-0192.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/325/ (73 rules)` — correct non-links — 73 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/330/ (385 rules)` — correct non-links — 131 cite only chapter-level authority (no section to link to); 254 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/330/067/oar-330-067-0067.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/331/ (278 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 277 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/331/430/oar-331-430-0000.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/332/ (25 rules)` — correct non-links — 25 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/333/ (2266 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 2265 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/333/015/oar-333-015-0090.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/333/030/oar-333-030-0085.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/334/ (23 rules)` — correct non-links — 6 cite only chapter-level authority (no section to link to); 17 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/335/ (32 rules)` — correct non-links — 12 cite only chapter-level authority (no section to link to); 20 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/337/ (41 rules)` — correct non-links — 4 cite only chapter-level authority (no section to link to); 37 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/338/ (14 rules)` — correct non-links — 14 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/339/ (28 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 27 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/340/ (1819 rules)` — correct non-links — 281 cite only chapter-level authority (no section to link to); 1538 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/340/222/oar-340-222-0090.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/345/ (218 rules)` — correct non-links — 8 cite only chapter-level authority (no section to link to); 210 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/345/020/oar-345-020-0040.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/350/ (256 rules)` — correct non-links — 256 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/350/011/oar-350-011-0005.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/350/011/oar-350-011-0010.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/350/013/oar-350-013-0001.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/407/ (96 rules)` — correct non-links — 96 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/409/ (132 rules)` — correct non-links — 132 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/409/015/oar-409-015-0022.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/410/ (703 rules)` — correct non-links — 703 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/410/146/oar-410-146-0080.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/411/ (938 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 937 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/411/340/oar-411-340-0135.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/413/ (623 rules)` — correct non-links — 623 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/414/ (248 rules)` — correct non-links — 21 cite only chapter-level authority (no section to link to); 227 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/415/ (127 rules)` — correct non-links — 127 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/415/065/oar-415-065-0070.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/416/ (230 rules)` — correct non-links — 230 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/418/ (20 rules)` — correct non-links — 20 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/419/ (161 rules)` — correct non-links — 161 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/423/ (36 rules)` — correct non-links — 36 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/431/ (7 rules)` — correct non-links — 7 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/436/ (453 rules)` — correct non-links — 4 cite only chapter-level authority (no section to link to); 449 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/436/105/oar-436-105-0510.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/437/ (634 rules)` — correct non-links — 634 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/437/081/oar-437-081-0879.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/437/081/oar-437-081-0985.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/437/081/oar-437-081-2305.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/438/ (169 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 168 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/440/ (21 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 20 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/441/ (465 rules)` — correct non-links — 45 cite only chapter-level authority (no section to link to); 420 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/459/ (249 rules)` — correct non-links — 3 cite only chapter-level authority (no section to link to); 246 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/461/ (506 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 505 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/462/ (166 rules)` — correct non-links — 3 cite only chapter-level authority (no section to link to); 163 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/471/ (159 rules)` — correct non-links — 65 cite only chapter-level authority (no section to link to); 94 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/543/ (33 rules)` — correct non-links — 4 cite only chapter-level authority (no section to link to); 29 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/573/ (10 rules)` — correct non-links — 10 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/575/ (182 rules)` — correct non-links — 103 cite only chapter-level authority (no section to link to); 79 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/575/037/oar-575-037-0040.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/581/ (843 rules)` — correct non-links — 61 cite only chapter-level authority (no section to link to); 782 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/581/015/oar-581-015-2335.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/581/023/oar-581-023-0006.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/582/ (103 rules)` — correct non-links — 103 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/583/ (41 rules)` — correct non-links — 41 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/584/ (289 rules)` — correct non-links — 237 cite only chapter-level authority (no section to link to); 52 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/585/ (26 rules)` — correct non-links — 26 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/585/015/oar-585-015-0040.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/586/ (28 rules)` — correct non-links — 19 cite only chapter-level authority (no section to link to); 9 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/586/030/oar-586-030-0025.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/589/ (54 rules)` — correct non-links — 54 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/603/ (1133 rules)` — correct non-links — 337 cite only chapter-level authority (no section to link to); 796 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/603/011/oar-603-011-0345.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/603/011/oar-603-011-0540.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/604/ (8 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 7 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/605/ (10 rules)` — correct non-links — 10 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/607/ (9 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 8 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/609/ (5 rules)` — correct non-links — 5 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/611/ (9 rules)` — correct non-links — 6 cite only chapter-level authority (no section to link to); 3 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/617/ (13 rules)` — correct non-links — 7 cite only chapter-level authority (no section to link to); 6 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/619/ (6 rules)` — correct non-links — 6 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/623/ (7 rules)` — correct non-links — 3 cite only chapter-level authority (no section to link to); 4 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/624/ (11 rules)` — correct non-links — 4 cite only chapter-level authority (no section to link to); 7 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/628/ (10 rules)` — correct non-links — 10 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/629/ (475 rules)` — correct non-links — 79 cite only chapter-level authority (no section to link to); 396 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/629/001/oar-629-001-0030.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/629/065/oar-629-065-0210.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/629/620/oar-629-620-0200.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/632/ (217 rules)` — correct non-links — 136 cite only chapter-level authority (no section to link to); 81 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/635/ (1621 rules)` — correct non-links — 236 cite only chapter-level authority (no section to link to); 1385 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/635/004/oar-635-004-0420.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/635/007/oar-635-007-0960.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/635/007/oar-635-007-0965.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/635/007/oar-635-007-0970.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/635/007/oar-635-007-0975.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/635/007/oar-635-007-0980.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/635/007/oar-635-007-0990.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/635/007/oar-635-007-0995.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/642/ (8 rules)` — correct non-links — 3 cite only chapter-level authority (no section to link to); 5 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/643/ (9 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 8 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/644/ (15 rules)` — correct non-links — 11 cite only chapter-level authority (no section to link to); 4 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/645/ (11 rules)` — correct non-links — 3 cite only chapter-level authority (no section to link to); 8 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/646/ (6 rules)` — correct non-links — 3 cite only chapter-level authority (no section to link to); 3 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/647/ (8 rules)` — correct non-links — 5 cite only chapter-level authority (no section to link to); 3 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/656/ (9 rules)` — correct non-links — 5 cite only chapter-level authority (no section to link to); 4 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/657/ (7 rules)` — correct non-links — 2 cite only chapter-level authority (no section to link to); 5 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/658/ (15 rules)` — correct non-links — 11 cite only chapter-level authority (no section to link to); 4 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/660/ (439 rules)` — correct non-links — 126 cite only chapter-level authority (no section to link to); 313 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/660/001/oar-660-001-0105.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/660/012/oar-660-012-0016.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/660/025/oar-660-025-0230.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/661/ (25 rules)` — correct non-links — 2 cite only chapter-level authority (no section to link to); 23 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/664/ (8 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 7 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/668/ (9 rules)` — correct non-links — 4 cite only chapter-level authority (no section to link to); 5 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/669/ (11 rules)` — correct non-links — 3 cite only chapter-level authority (no section to link to); 8 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/670/ (9 rules)` — correct non-links — 4 cite only chapter-level authority (no section to link to); 5 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/678/ (14 rules)` — correct non-links — 12 cite only chapter-level authority (no section to link to); 2 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/690/ (1033 rules)` — correct non-links — 324 cite only chapter-level authority (no section to link to); 709 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/690/040/oar-690-040-0000.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/690/080/oar-690-080-0010.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/695/ (119 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 118 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/698/ (63 rules)` — correct non-links — 63 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/705/ (18 rules)` — correct non-links — 18 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/710/ (2 rules)` — correct non-links — 2 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/715/ (34 rules)` — correct non-links — 34 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/731/ (14 rules)` — correct non-links — 14 cite only chapter-level authority (no section to link to); per-rule detail in each file's legal_authority
+- `rules/733/ (36 rules)` — correct non-links — 36 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/734/ (86 rules)` — correct non-links — 67 cite only chapter-level authority (no section to link to); 19 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/735/ (95 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 94 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/735/080/oar-735-080-0040.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/736/ (416 rules)` — correct non-links — 32 cite only chapter-level authority (no section to link to); 384 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/736/040/oar-736-040-0030.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/736/040/oar-736-040-0040.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/738/ (155 rules)` — correct non-links — 48 cite only chapter-level authority (no section to link to); 107 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/740/ (69 rules)` — correct non-links — 20 cite only chapter-level authority (no section to link to); 49 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/741/ (13 rules)` — correct non-links — 11 cite only chapter-level authority (no section to link to); 2 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/801/ (56 rules)` — correct non-links — 56 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/804/ (42 rules)` — correct non-links — 4 cite only chapter-level authority (no section to link to); 38 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/804/010/oar-804-010-0020.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/806/ (27 rules)` — correct non-links — 27 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/808/ (157 rules)` — correct non-links — 15 cite only chapter-level authority (no section to link to); 142 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/808/001/oar-808-001-0035.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/808/005/oar-808-005-0010.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/809/ (51 rules)` — correct non-links — 8 cite only chapter-level authority (no section to link to); 43 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/811/ (48 rules)` — correct non-links — 41 cite only chapter-level authority (no section to link to); 7 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/812/ (288 rules)` — correct non-links — 288 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/813/ (543 rules)` — correct non-links — 543 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/813/005/oar-813-005-0020.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/813/005/oar-813-005-0025.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/813/005/oar-813-005-0030.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/817/ (65 rules)` — correct non-links — 3 cite only chapter-level authority (no section to link to); 62 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/818/ (102 rules)` — correct non-links — 91 cite only chapter-level authority (no section to link to); 11 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/819/ (20 rules)` — correct non-links — 20 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/820/ (82 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 81 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/824/ (11 rules)` — correct non-links — 11 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/830/ (35 rules)` — correct non-links — 35 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/833/ (66 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 65 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/834/ (8 rules)` — correct non-links — 8 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/836/ (989 rules)` — correct non-links — 163 cite only chapter-level authority (no section to link to); 826 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/836/010/oar-836-010-0014.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/836/052/oar-836-052-0225.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/836/052/oar-836-052-0230.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/836/054/oar-836-054-0020.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/837/ (318 rules)` — correct non-links — 91 cite only chapter-level authority (no section to link to); 227 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/839/ (585 rules)` — correct non-links — 115 cite only chapter-level authority (no section to link to); 470 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/845/ (397 rules)` — correct non-links — 397 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/847/ (170 rules)` — correct non-links — 7 cite only chapter-level authority (no section to link to); 163 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/847/010/oar-847-010-0078.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/848/ (51 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 50 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/850/ (43 rules)` — correct non-links — 14 cite only chapter-level authority (no section to link to); 29 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/851/ (159 rules)` — correct non-links — 159 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/852/ (16 rules)` — correct non-links — 15 cite only chapter-level authority (no section to link to); 1 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/853/ (18 rules)` — correct non-links — 18 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/855/ (339 rules)` — correct non-links — 15 cite only chapter-level authority (no section to link to); 324 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/856/ (39 rules)` — correct non-links — 22 cite only chapter-level authority (no section to link to); 17 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/858/ (44 rules)` — correct non-links — 44 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/858/010/oar-858-010-0037.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/859/ (198 rules)` — correct non-links — 28 cite only chapter-level authority (no section to link to); 170 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/859/400/oar-859-400-0025.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/860/ (769 rules)` — correct non-links — 546 cite only chapter-level authority (no section to link to); 223 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/863/ (185 rules)` — correct non-links — 8 cite only chapter-level authority (no section to link to); 177 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/875/ (37 rules)` — correct non-links — 37 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/877/ (55 rules)` — correct non-links — 2 cite only chapter-level authority (no section to link to); 53 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/918/ (637 rules)` — correct non-links — 637 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/918/674/oar-918-674-0025.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `rules/943/ (47 rules)` — correct non-links — 47 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/945/ (25 rules)` — correct non-links — 25 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/950/ (30 rules)` — correct non-links — 30 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/951/ (30 rules)` — correct non-links — 30 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/952/ (10 rules)` — correct non-links — 2 cite only chapter-level authority (no section to link to); 8 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/966/ (9 rules)` — correct non-links — 9 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/972/ (8 rules)` — correct non-links — 2 cite only chapter-level authority (no section to link to); 6 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/976/ (4 rules)` — correct non-links — 4 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 
 ## Catalog: sections with no sliceable body (22)
 
@@ -109,10 +346,29 @@ ORS catalog entries whose section text couldn't be found in the chapter HTML (li
 - `ORS 279C.010` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 292.990` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 
-## Catalog: renumbered / repealed rules (auto-resolved — verify mappings) (12)
+## Catalog: renumbered / repealed rules (auto-resolved — verify mappings) (533)
 
 OARD served a different rule number than requested; documents were filed under the served number and the mapping recorded. Spot-check that the mappings look right.
 
+- `OAR 123-021-0000` — renumbered: OARD serves 123-021-2100 for this number
+- `OAR 123-021-0010` — renumbered: OARD serves 123-021-2300 for this number
+- `OAR 123-021-0020` — renumbered: OARD serves 123-021-2400 for this number
+- `OAR 123-021-0040` — renumbered: OARD serves 123-021-2500 for this number
+- `OAR 123-021-0050` — renumbered: OARD serves 123-021-2600 for this number
+- `OAR 123-021-0060` — renumbered: OARD serves 123-021-2700 for this number
+- `OAR 123-021-0070` — renumbered: OARD serves 123-021-2800 for this number
+- `OAR 123-021-0080` — renumbered: OARD serves 123-021-2900 for this number
+- `OAR 123-021-0090` — renumbered: OARD serves 123-021-3000 for this number
+- `OAR 123-021-0100` — renumbered: OARD serves 123-021-3500 for this number
+- `OAR 123-021-0110` — renumbered: OARD serves 123-021-3600 for this number
+- `OAR 123-021-0120` — renumbered: OARD serves 123-021-3700 for this number
+- `OAR 123-021-0130` — renumbered: OARD serves 123-021-2200 for this number
+- `OAR 123-021-0140` — renumbered: OARD serves 123-021-3800 for this number
+- `OAR 123-042-0065` — renumbered: OARD serves 123-042-0042 for this number
+- `OAR 123-042-0076` — renumbered: OARD serves 123-042-0052 for this number
+- `OAR 123-042-0122` — renumbered: OARD serves 123-042-0062 for this number
+- `OAR 123-042-0132` — renumbered: OARD serves 123-042-0072 for this number
+- `OAR 123-042-0155` — renumbered: OARD serves 123-042-0082 for this number
 - `OAR 125-090-0010` — renumbered: OARD serves 125-090-0004 for this number
 - `OAR 125-090-0020` — renumbered: OARD serves 125-090-0035 for this number
 - `OAR 125-090-0090` — renumbered: OARD serves 125-090-0145 for this number
@@ -125,6 +381,508 @@ OARD served a different rule number than requested; documents were filed under t
 - `OAR 125-800-0005` — renumbered: OARD serves 128-030-0005 for this number
 - `OAR 125-800-0010` — renumbered: OARD serves 128-030-0010 for this number
 - `OAR 125-800-0020` — renumbered: OARD serves 128-030-0020 for this number
+- `OAR 137-105-0060` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 150-305-0070` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 199-001-0014` — renumbered: OARD serves 199-008-0014 for this number
+- `OAR 199-001-0015` — renumbered: OARD serves 199-008-0015 for this number
+- `OAR 199-001-0020` — renumbered: OARD serves 199-008-0020 for this number
+- `OAR 199-001-0035` — renumbered: OARD serves 199-008-0035 for this number
+- `OAR 199-005-0035` — renumbered: OARD serves 199-008-0005 for this number
+- `OAR 199-005-0080` — renumbered: OARD serves 199-008-0008 for this number
+- `OAR 309-019-0324` — renumbered: OARD serves 309-019-0162 for this number
+- `OAR 309-019-0326` — renumbered: OARD serves 309-019-0163 for this number
+- `OAR 309-231-0100` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 333-002-0000` — renumbered: OARD serves 950-050-0000 for this number
+- `OAR 333-002-0010` — renumbered: OARD serves 950-050-0010 for this number
+- `OAR 333-002-0020` — renumbered: OARD serves 950-050-0020 for this number
+- `OAR 333-002-0030` — renumbered: OARD serves 950-050-0030 for this number
+- `OAR 333-002-0040` — renumbered: OARD serves 950-050-0040 for this number
+- `OAR 333-002-0050` — renumbered: OARD serves 950-050-0050 for this number
+- `OAR 333-002-0060` — renumbered: OARD serves 950-050-0060 for this number
+- `OAR 333-002-0070` — renumbered: OARD serves 950-050-0070 for this number
+- `OAR 333-002-0080` — renumbered: OARD serves 950-050-0080 for this number
+- `OAR 333-002-0120` — renumbered: OARD serves 950-050-0090 for this number
+- `OAR 333-002-0140` — renumbered: OARD serves 950-050-0100 for this number
+- `OAR 333-002-0150` — renumbered: OARD serves 950-050-0110 for this number
+- `OAR 333-002-0170` — renumbered: OARD serves 950-050-0120 for this number
+- `OAR 333-002-0190` — renumbered: OARD serves 950-050-0130 for this number
+- `OAR 333-002-0210` — renumbered: OARD serves 950-050-0140 for this number
+- `OAR 333-002-0230` — renumbered: OARD serves 950-050-0150 for this number
+- `OAR 333-003-4000` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 333-015-0220` — renumbered: OARD serves 333-015-0272 for this number
+- `OAR 333-035-0045` — renumbered: OARD serves 333-035-0110 for this number
+- `OAR 333-035-0050` — renumbered: OARD serves 333-035-0120 for this number
+- `OAR 333-035-0055` — renumbered: OARD serves 333-035-0125 for this number
+- `OAR 333-035-0060` — renumbered: OARD serves 333-035-0210 for this number
+- `OAR 333-035-0065` — renumbered: OARD serves 333-035-0220 for this number
+- `OAR 333-035-0070` — renumbered: OARD serves 333-035-0230 for this number
+- `OAR 333-035-0075` — renumbered: OARD serves 333-035-0240 for this number
+- `OAR 333-035-0080` — renumbered: OARD serves 333-035-0250 for this number
+- `OAR 333-035-0085` — renumbered: OARD serves 333-035-0260 for this number
+- `OAR 333-035-0090` — renumbered: OARD serves 333-035-0270 for this number
+- `OAR 333-035-0095` — renumbered: OARD serves 333-035-0280 for this number
+- `OAR 333-035-0100` — renumbered: OARD serves 333-035-0290 for this number
+- `OAR 333-076-0450` — renumbered: OARD serves 333-077-0010 for this number
+- `OAR 333-076-0470` — renumbered: OARD serves 333-077-0015 for this number
+- `OAR 333-076-0510` — renumbered: OARD serves 333-077-0035 for this number
+- `OAR 333-076-0530` — renumbered: OARD serves 333-077-0030 for this number
+- `OAR 333-076-0550` — renumbered: OARD serves 333-077-0045 for this number
+- `OAR 333-076-0610` — renumbered: OARD serves 333-077-0055 for this number
+- `OAR 333-076-0630` — renumbered: OARD serves 333-077-0070 for this number
+- `OAR 333-076-0670` — renumbered: OARD serves 333-077-0090 for this number
+- `OAR 333-076-0690` — renumbered: OARD serves 333-077-0130 for this number
+- `OAR 333-076-0710` — renumbered: OARD serves 333-077-0220 for this number
+- `OAR 333-265-0010` — renumbered: OARD serves 333-264-0030 for this number
+- `OAR 333-265-0012` — renumbered: OARD serves 333-264-0040 for this number
+- `OAR 333-265-0014` — renumbered: OARD serves 333-264-0050 for this number
+- `OAR 333-265-0018` — renumbered: OARD serves 333-264-0100 for this number
+- `OAR 333-265-0020` — renumbered: OARD serves 333-264-0110 for this number
+- `OAR 333-265-0022` — renumbered: OARD serves 333-264-0120 for this number
+- `OAR 333-675-0000` — renumbered: OARD serves 333-675-0110 for this number
+- `OAR 333-675-0020` — renumbered: OARD serves 333-675-0200 for this number
+- `OAR 333-675-0030` — renumbered: OARD serves 333-675-0210 for this number
+- `OAR 333-675-0040` — renumbered: OARD serves 333-675-0220 for this number
+- `OAR 333-675-0050` — renumbered: OARD serves 333-675-0230 for this number
+- `OAR 340-242-0520` — renumbered: OARD serves 340-244-0247 for this number
+- `OAR 340-244-0239` — renumbered: OARD serves 340-244-0235 for this number
+- `OAR 340-244-0240` — renumbered: OARD serves 340-244-0245 for this number
+- `OAR 340-244-0244` — renumbered: OARD serves 340-244-0249 for this number
+- `OAR 407-045-0120` — renumbered: OARD serves 419-110-0000 for this number
+- `OAR 407-045-0130` — renumbered: OARD serves 419-110-0010 for this number
+- `OAR 407-045-0140` — renumbered: OARD serves 419-110-0020 for this number
+- `OAR 407-045-0150` — renumbered: OARD serves 419-110-0030 for this number
+- `OAR 407-045-0160` — renumbered: OARD serves 419-110-0040 for this number
+- `OAR 407-045-0170` — renumbered: OARD serves 419-110-0050 for this number
+- `OAR 407-045-0180` — renumbered: OARD serves 419-110-0060 for this number
+- `OAR 407-045-0190` — renumbered: OARD serves 419-110-0070 for this number
+- `OAR 407-045-0200` — renumbered: OARD serves 419-110-0080 for this number
+- `OAR 407-045-0210` — renumbered: OARD serves 419-110-0090 for this number
+- `OAR 407-045-0220` — renumbered: OARD serves 419-110-0100 for this number
+- `OAR 407-045-0230` — renumbered: OARD serves 419-110-0110 for this number
+- `OAR 407-045-0240` — renumbered: OARD serves 419-110-0120 for this number
+- `OAR 407-045-0250` — renumbered: OARD serves 419-100-0000 for this number
+- `OAR 407-045-0260` — renumbered: OARD serves 419-100-0010 for this number
+- `OAR 407-045-0280` — renumbered: OARD serves 419-100-0020 for this number
+- `OAR 407-045-0285` — renumbered: OARD serves 419-100-0030 for this number
+- `OAR 407-045-0291` — renumbered: OARD serves 419-100-0040 for this number
+- `OAR 407-045-0295` — renumbered: OARD serves 419-100-0050 for this number
+- `OAR 407-045-0298` — renumbered: OARD serves 419-100-0060 for this number
+- `OAR 407-045-0300` — renumbered: OARD serves 419-100-0070 for this number
+- `OAR 407-045-0320` — renumbered: OARD serves 419-100-0080 for this number
+- `OAR 407-045-0325` — renumbered: OARD serves 419-100-0090 for this number
+- `OAR 407-045-0330` — renumbered: OARD serves 419-100-0100 for this number
+- `OAR 407-045-0360` — renumbered: OARD serves 419-100-0110 for this number
+- `OAR 407-045-0370` — renumbered: OARD serves 419-100-0120 for this number
+- `OAR 407-045-0405` — renumbered: OARD serves 419-120-0000 for this number
+- `OAR 407-045-0415` — renumbered: OARD serves 419-120-0010 for this number
+- `OAR 407-045-0425` — renumbered: OARD serves 419-120-0020 for this number
+- `OAR 407-045-0435` — renumbered: OARD serves 419-120-0030 for this number
+- `OAR 407-045-0445` — renumbered: OARD serves 419-120-0040 for this number
+- `OAR 407-045-0455` — renumbered: OARD serves 419-120-0050 for this number
+- `OAR 407-045-0465` — renumbered: OARD serves 419-120-0060 for this number
+- `OAR 407-045-0475` — renumbered: OARD serves 419-120-0070 for this number
+- `OAR 407-045-0485` — renumbered: OARD serves 419-120-0080 for this number
+- `OAR 407-045-0495` — renumbered: OARD serves 419-120-0090 for this number
+- `OAR 407-045-0605` — renumbered: OARD serves 419-050-0000 for this number
+- `OAR 407-045-0615` — renumbered: OARD serves 419-050-0010 for this number
+- `OAR 407-045-0645` — renumbered: OARD serves 419-105-0000 for this number
+- `OAR 407-045-0800` — renumbered: OARD serves 419-210-0100 for this number
+- `OAR 407-045-0820` — renumbered: OARD serves 419-210-0110 for this number
+- `OAR 407-045-0825` — renumbered: OARD serves 419-210-0120 for this number
+- `OAR 407-045-0835` — renumbered: OARD serves 419-210-0130 for this number
+- `OAR 407-045-0855` — renumbered: OARD serves 419-210-0140 for this number
+- `OAR 407-045-0885` — renumbered: OARD serves 419-210-0150 for this number
+- `OAR 407-045-0886` — renumbered: OARD serves 419-210-0160 for this number
+- `OAR 407-045-0887` — renumbered: OARD serves 419-210-0170 for this number
+- `OAR 407-045-0890` — renumbered: OARD serves 419-210-0180 for this number
+- `OAR 407-045-0895` — renumbered: OARD serves 419-210-0190 for this number
+- `OAR 407-045-0905` — renumbered: OARD serves 407-046-0210 for this number
+- `OAR 407-045-0913` — renumbered: OARD serves 407-046-0220 for this number
+- `OAR 407-045-0955` — renumbered: OARD serves 419-210-0200 for this number
+- `OAR 407-045-1000` — renumbered: OARD serves 419-130-0000 for this number
+- `OAR 407-045-1010` — renumbered: OARD serves 419-130-0010 for this number
+- `OAR 407-045-1020` — renumbered: OARD serves 419-130-0020 for this number
+- `OAR 407-045-1030` — renumbered: OARD serves 419-130-0030 for this number
+- `OAR 407-045-1040` — renumbered: OARD serves 419-130-0040 for this number
+- `OAR 407-045-1050` — renumbered: OARD serves 419-130-0050 for this number
+- `OAR 407-045-1060` — renumbered: OARD serves 419-130-0060 for this number
+- `OAR 407-045-1070` — renumbered: OARD serves 419-130-0070 for this number
+- `OAR 407-045-1080` — renumbered: OARD serves 419-130-0080 for this number
+- `OAR 407-045-1090` — renumbered: OARD serves 419-130-0090 for this number
+- `OAR 407-045-1100` — renumbered: OARD serves 419-130-0100 for this number
+- `OAR 407-045-1110` — renumbered: OARD serves 419-130-0110 for this number
+- `OAR 407-047-0200` — renumbered: OARD serves 419-230-0100 for this number
+- `OAR 407-047-0205` — renumbered: OARD serves 419-230-0110 for this number
+- `OAR 407-047-0210` — renumbered: OARD serves 419-230-0120 for this number
+- `OAR 407-047-0220` — renumbered: OARD serves 419-230-0130 for this number
+- `OAR 407-047-0240` — renumbered: OARD serves 419-230-0140 for this number
+- `OAR 407-047-0250` — renumbered: OARD serves 419-230-0150 for this number
+- `OAR 407-047-0260` — renumbered: OARD serves 419-230-0160 for this number
+- `OAR 407-047-0270` — renumbered: OARD serves 419-230-0170 for this number
+- `OAR 407-047-0280` — renumbered: OARD serves 419-230-0180 for this number
+- `OAR 407-047-0290` — renumbered: OARD serves 419-230-0190 for this number
+- `OAR 407-047-0295` — renumbered: OARD serves 419-230-0200 for this number
+- `OAR 407-047-0400` — renumbered: OARD serves 419-220-0100 for this number
+- `OAR 407-047-0410` — renumbered: OARD serves 419-220-0110 for this number
+- `OAR 407-047-0420` — renumbered: OARD serves 419-220-0120 for this number
+- `OAR 407-047-0430` — renumbered: OARD serves 419-220-0130 for this number
+- `OAR 407-047-0440` — renumbered: OARD serves 419-220-0140 for this number
+- `OAR 407-047-0450` — renumbered: OARD serves 419-220-0150 for this number
+- `OAR 407-047-0460` — renumbered: OARD serves 419-220-0160 for this number
+- `OAR 407-047-0470` — renumbered: OARD serves 419-220-0170 for this number
+- `OAR 407-047-0480` — renumbered: OARD serves 419-220-0180 for this number
+- `OAR 407-047-0490` — renumbered: OARD serves 419-220-0190 for this number
+- `OAR 407-047-0500` — renumbered: OARD serves 419-220-0200 for this number
+- `OAR 407-047-0600` — renumbered: OARD serves 419-240-0100 for this number
+- `OAR 407-047-0610` — renumbered: OARD serves 419-240-0110 for this number
+- `OAR 407-047-0620` — renumbered: OARD serves 419-240-0120 for this number
+- `OAR 407-047-0630` — renumbered: OARD serves 419-240-0130 for this number
+- `OAR 407-047-0640` — renumbered: OARD serves 419-240-0135 for this number
+- `OAR 407-047-0650` — renumbered: OARD serves 419-240-0140 for this number
+- `OAR 407-047-0660` — renumbered: OARD serves 419-240-0150 for this number
+- `OAR 407-047-0670` — renumbered: OARD serves 419-240-0160 for this number
+- `OAR 407-047-0680` — renumbered: OARD serves 419-240-0170 for this number
+- `OAR 407-047-0690` — renumbered: OARD serves 419-240-0180 for this number
+- `OAR 407-047-0700` — renumbered: OARD serves 419-240-0190 for this number
+- `OAR 407-047-0710` — renumbered: OARD serves 419-240-0200 for this number
+- `OAR 410-180-0300` — renumbered: OARD serves 950-060-0000 for this number
+- `OAR 410-180-0305` — renumbered: OARD serves 950-060-0010 for this number
+- `OAR 410-180-0310` — renumbered: OARD serves 950-060-0020 for this number
+- `OAR 410-180-0312` — renumbered: OARD serves 950-060-0030 for this number
+- `OAR 410-180-0315` — renumbered: OARD serves 950-060-0040 for this number
+- `OAR 410-180-0320` — renumbered: OARD serves 950-060-0050 for this number
+- `OAR 410-180-0325` — renumbered: OARD serves 950-060-0060 for this number
+- `OAR 410-180-0326` — renumbered: OARD serves 950-060-0070 for this number
+- `OAR 410-180-0340` — renumbered: OARD serves 950-060-0080 for this number
+- `OAR 410-180-0345` — renumbered: OARD serves 950-060-0090 for this number
+- `OAR 410-180-0350` — renumbered: OARD serves 950-060-0100 for this number
+- `OAR 410-180-0355` — renumbered: OARD serves 950-060-0110 for this number
+- `OAR 410-180-0360` — renumbered: OARD serves 950-060-0120 for this number
+- `OAR 410-180-0365` — renumbered: OARD serves 950-060-0130 for this number
+- `OAR 410-180-0370` — renumbered: OARD serves 950-060-0140 for this number
+- `OAR 410-180-0375` — renumbered: OARD serves 950-060-0150 for this number
+- `OAR 410-180-0380` — renumbered: OARD serves 950-060-0160 for this number
+- `OAR 413-120-0400` — renumbered: OARD serves 413-208-0005 for this number
+- `OAR 413-120-0440` — renumbered: OARD serves 413-208-0010 for this number
+- `OAR 413-120-0450` — renumbered: OARD serves 413-208-0015 for this number
+- `OAR 413-120-0455` — renumbered: OARD serves 413-208-0020 for this number
+- `OAR 413-120-0457` — renumbered: OARD serves 413-208-0025 for this number
+- `OAR 413-120-0460` — renumbered: OARD serves 413-208-0030 for this number
+- `OAR 413-120-0475` — renumbered: OARD serves 413-208-0035 for this number
+- `OAR 413-215-0000` — renumbered: OARD serves 419-400-0005 for this number
+- `OAR 413-215-0001` — renumbered: OARD serves 419-400-0010 for this number
+- `OAR 413-215-0011` — renumbered: OARD serves 419-400-0020 for this number
+- `OAR 413-215-0016` — renumbered: OARD serves 419-400-0030 for this number
+- `OAR 413-215-0021` — renumbered: OARD serves 419-400-0040 for this number
+- `OAR 413-215-0026` — renumbered: OARD serves 419-400-0050 for this number
+- `OAR 413-215-0031` — renumbered: OARD serves 419-400-0060 for this number
+- `OAR 413-215-0036` — renumbered: OARD serves 419-400-0070 for this number
+- `OAR 413-215-0041` — renumbered: OARD serves 419-400-0080 for this number
+- `OAR 413-215-0046` — renumbered: OARD serves 419-400-0090 for this number
+- `OAR 413-215-0051` — renumbered: OARD serves 419-400-0100 for this number
+- `OAR 413-215-0056` — renumbered: OARD serves 419-400-0110 for this number
+- `OAR 413-215-0061` — renumbered: OARD serves 419-400-0120 for this number
+- `OAR 413-215-0066` — renumbered: OARD serves 419-400-0130 for this number
+- `OAR 413-215-0071` — renumbered: OARD serves 419-400-0140 for this number
+- `OAR 413-215-0079` — renumbered: OARD serves 419-400-0200 for this number
+- `OAR 413-215-0081` — renumbered: OARD serves 419-400-0210 for this number
+- `OAR 413-215-0086` — renumbered: OARD serves 419-400-0220 for this number
+- `OAR 413-215-0091` — renumbered: OARD serves 419-400-0230 for this number
+- `OAR 413-215-0101` — renumbered: OARD serves 419-400-0240 for this number
+- `OAR 413-215-0106` — renumbered: OARD serves 419-400-0250 for this number
+- `OAR 413-215-0111` — renumbered: OARD serves 419-400-0260 for this number
+- `OAR 413-215-0116` — renumbered: OARD serves 419-400-0270 for this number
+- `OAR 413-215-0121` — renumbered: OARD serves 419-400-0280 for this number
+- `OAR 413-215-0126` — renumbered: OARD serves 419-400-0290 for this number
+- `OAR 413-215-0131` — renumbered: OARD serves 419-400-0300 for this number
+- `OAR 413-215-0136` — renumbered: OARD serves 419-400-0310 for this number
+- `OAR 413-215-0201` — renumbered: OARD serves 419-410-0010 for this number
+- `OAR 413-215-0211` — renumbered: OARD serves 419-410-0020 for this number
+- `OAR 413-215-0216` — renumbered: OARD serves 419-410-0030 for this number
+- `OAR 413-215-0218` — renumbered: OARD serves 419-410-0040 for this number
+- `OAR 413-215-0221` — renumbered: OARD serves 419-410-0050 for this number
+- `OAR 413-215-0226` — renumbered: OARD serves 419-410-0060 for this number
+- `OAR 413-215-0231` — renumbered: OARD serves 419-410-0070 for this number
+- `OAR 413-215-0236` — renumbered: OARD serves 419-410-0080 for this number
+- `OAR 413-215-0241` — renumbered: OARD serves 419-410-0090 for this number
+- `OAR 413-215-0246` — renumbered: OARD serves 419-410-0100 for this number
+- `OAR 413-215-0251` — renumbered: OARD serves 419-410-0110 for this number
+- `OAR 413-215-0261` — renumbered: OARD serves 419-410-0120 for this number
+- `OAR 413-215-0266` — renumbered: OARD serves 419-410-0130 for this number
+- `OAR 413-215-0271` — renumbered: OARD serves 419-410-0140 for this number
+- `OAR 413-215-0276` — renumbered: OARD serves 419-410-0150 for this number
+- `OAR 413-215-0301` — renumbered: OARD serves 419-440-0010 for this number
+- `OAR 413-215-0311` — renumbered: OARD serves 419-440-0020 for this number
+- `OAR 413-215-0313` — renumbered: OARD serves 419-440-0030 for this number
+- `OAR 413-215-0316` — renumbered: OARD serves 419-440-0040 for this number
+- `OAR 413-215-0318` — renumbered: OARD serves 419-440-0050 for this number
+- `OAR 413-215-0321` — renumbered: OARD serves 419-440-0060 for this number
+- `OAR 413-215-0326` — renumbered: OARD serves 419-440-0070 for this number
+- `OAR 413-215-0331` — renumbered: OARD serves 419-440-0080 for this number
+- `OAR 413-215-0336` — renumbered: OARD serves 419-440-0090 for this number
+- `OAR 413-215-0341` — renumbered: OARD serves 419-440-0100 for this number
+- `OAR 413-215-0349` — renumbered: OARD serves 419-440-0110 for this number
+- `OAR 413-215-0351` — renumbered: OARD serves 419-440-0120 for this number
+- `OAR 413-215-0356` — renumbered: OARD serves 419-440-0130 for this number
+- `OAR 413-215-0361` — renumbered: OARD serves 419-440-0140 for this number
+- `OAR 413-215-0366` — renumbered: OARD serves 419-440-0150 for this number
+- `OAR 413-215-0371` — renumbered: OARD serves 419-440-0160 for this number
+- `OAR 413-215-0376` — renumbered: OARD serves 419-440-0170 for this number
+- `OAR 413-215-0381` — renumbered: OARD serves 419-440-0180 for this number
+- `OAR 413-215-0386` — renumbered: OARD serves 419-440-0190 for this number
+- `OAR 413-215-0391` — renumbered: OARD serves 419-440-0200 for this number
+- `OAR 413-215-0396` — renumbered: OARD serves 419-440-0210 for this number
+- `OAR 413-215-0401` — renumbered: OARD serves 419-420-0010 for this number
+- `OAR 413-215-0411` — renumbered: OARD serves 419-420-0020 for this number
+- `OAR 413-215-0416` — renumbered: OARD serves 419-420-0030 for this number
+- `OAR 413-215-0421` — renumbered: OARD serves 419-420-0040 for this number
+- `OAR 413-215-0426` — renumbered: OARD serves 419-420-0050 for this number
+- `OAR 413-215-0431` — renumbered: OARD serves 419-420-0060 for this number
+- `OAR 413-215-0436` — renumbered: OARD serves 419-420-0070 for this number
+- `OAR 413-215-0441` — renumbered: OARD serves 419-420-0080 for this number
+- `OAR 413-215-0446` — renumbered: OARD serves 419-420-0090 for this number
+- `OAR 413-215-0451` — renumbered: OARD serves 419-420-0100 for this number
+- `OAR 413-215-0456` — renumbered: OARD serves 419-420-0110 for this number
+- `OAR 413-215-0461` — renumbered: OARD serves 419-420-0120 for this number
+- `OAR 413-215-0466` — renumbered: OARD serves 419-420-0130 for this number
+- `OAR 413-215-0471` — renumbered: OARD serves 419-420-0140 for this number
+- `OAR 413-215-0476` — renumbered: OARD serves 419-420-0150 for this number
+- `OAR 413-215-0481` — renumbered: OARD serves 419-420-0160 for this number
+- `OAR 413-215-0501` — renumbered: OARD serves 419-470-0010 for this number
+- `OAR 413-215-0511` — renumbered: OARD serves 419-470-0020 for this number
+- `OAR 413-215-0516` — renumbered: OARD serves 419-470-0030 for this number
+- `OAR 413-215-0521` — renumbered: OARD serves 419-470-0040 for this number
+- `OAR 413-215-0526` — renumbered: OARD serves 419-470-0050 for this number
+- `OAR 413-215-0531` — renumbered: OARD serves 419-470-0060 for this number
+- `OAR 413-215-0536` — renumbered: OARD serves 419-470-0070 for this number
+- `OAR 413-215-0541` — renumbered: OARD serves 419-470-0080 for this number
+- `OAR 413-215-0546` — renumbered: OARD serves 419-470-0090 for this number
+- `OAR 413-215-0551` — renumbered: OARD serves 419-470-0100 for this number
+- `OAR 413-215-0554` — renumbered: OARD serves 419-470-0110 for this number
+- `OAR 413-215-0556` — renumbered: OARD serves 419-470-0120 for this number
+- `OAR 413-215-0561` — renumbered: OARD serves 419-470-0130 for this number
+- `OAR 413-215-0566` — renumbered: OARD serves 419-470-0140 for this number
+- `OAR 413-215-0571` — renumbered: OARD serves 419-470-0150 for this number
+- `OAR 413-215-0576` — renumbered: OARD serves 419-470-0160 for this number
+- `OAR 413-215-0581` — renumbered: OARD serves 419-470-0170 for this number
+- `OAR 413-215-0586` — renumbered: OARD serves 419-470-0180 for this number
+- `OAR 413-215-0601` — renumbered: OARD serves 419-490-0010 for this number
+- `OAR 413-215-0611` — renumbered: OARD serves 419-490-0020 for this number
+- `OAR 413-215-0616` — renumbered: OARD serves 419-490-0030 for this number
+- `OAR 413-215-0618` — renumbered: OARD serves 419-490-0040 for this number
+- `OAR 413-215-0621` — renumbered: OARD serves 419-490-0050 for this number
+- `OAR 413-215-0626` — renumbered: OARD serves 419-490-0060 for this number
+- `OAR 413-215-0631` — renumbered: OARD serves 419-490-0070 for this number
+- `OAR 413-215-0636` — renumbered: OARD serves 419-490-0080 for this number
+- `OAR 413-215-0641` — renumbered: OARD serves 419-490-0090 for this number
+- `OAR 413-215-0646` — renumbered: OARD serves 419-490-0100 for this number
+- `OAR 413-215-0651` — renumbered: OARD serves 419-490-0110 for this number
+- `OAR 413-215-0656` — renumbered: OARD serves 419-490-0120 for this number
+- `OAR 413-215-0661` — renumbered: OARD serves 419-490-0130 for this number
+- `OAR 413-215-0666` — renumbered: OARD serves 419-490-0140 for this number
+- `OAR 413-215-0671` — renumbered: OARD serves 419-490-0150 for this number
+- `OAR 413-215-0676` — renumbered: OARD serves 419-490-0160 for this number
+- `OAR 413-215-0681` — renumbered: OARD serves 419-490-0170 for this number
+- `OAR 413-215-0701` — renumbered: OARD serves 419-450-0010 for this number
+- `OAR 413-215-0716` — renumbered: OARD serves 419-450-0020 for this number
+- `OAR 413-215-0721` — renumbered: OARD serves 419-450-0030 for this number
+- `OAR 413-215-0726` — renumbered: OARD serves 419-450-0040 for this number
+- `OAR 413-215-0731` — renumbered: OARD serves 419-450-0050 for this number
+- `OAR 413-215-0736` — renumbered: OARD serves 419-450-0060 for this number
+- `OAR 413-215-0741` — renumbered: OARD serves 419-450-0070 for this number
+- `OAR 413-215-0746` — renumbered: OARD serves 419-450-0080 for this number
+- `OAR 413-215-0751` — renumbered: OARD serves 419-450-0090 for this number
+- `OAR 413-215-0756` — renumbered: OARD serves 419-450-0100 for this number
+- `OAR 413-215-0761` — renumbered: OARD serves 419-450-0110 for this number
+- `OAR 413-215-0766` — renumbered: OARD serves 419-450-0120 for this number
+- `OAR 413-215-0801` — renumbered: OARD serves 419-430-0010 for this number
+- `OAR 413-215-0811` — renumbered: OARD serves 419-430-0020 for this number
+- `OAR 413-215-0816` — renumbered: OARD serves 419-430-0030 for this number
+- `OAR 413-215-0821` — renumbered: OARD serves 419-430-0040 for this number
+- `OAR 413-215-0826` — renumbered: OARD serves 419-430-0050 for this number
+- `OAR 413-215-0831` — renumbered: OARD serves 419-430-0060 for this number
+- `OAR 413-215-0836` — renumbered: OARD serves 419-430-0070 for this number
+- `OAR 413-215-0841` — renumbered: OARD serves 419-430-0080 for this number
+- `OAR 413-215-0846` — renumbered: OARD serves 419-430-0090 for this number
+- `OAR 413-215-0851` — renumbered: OARD serves 419-430-0100 for this number
+- `OAR 413-215-0856` — renumbered: OARD serves 419-430-0110 for this number
+- `OAR 413-215-0901` — renumbered: OARD serves 419-460-0010 for this number
+- `OAR 413-215-0916` — renumbered: OARD serves 419-460-0020 for this number
+- `OAR 413-215-0918` — renumbered: OARD serves 419-460-0030 for this number
+- `OAR 413-215-0921` — renumbered: OARD serves 419-460-0040 for this number
+- `OAR 413-215-0926` — renumbered: OARD serves 419-460-0050 for this number
+- `OAR 413-215-0931` — renumbered: OARD serves 419-460-0060 for this number
+- `OAR 413-215-0936` — renumbered: OARD serves 419-460-0070 for this number
+- `OAR 413-215-0941` — renumbered: OARD serves 419-460-0080 for this number
+- `OAR 413-215-0946` — renumbered: OARD serves 419-460-0090 for this number
+- `OAR 413-215-0956` — renumbered: OARD serves 419-460-0100 for this number
+- `OAR 413-215-0961` — renumbered: OARD serves 419-460-0110 for this number
+- `OAR 413-215-0966` — renumbered: OARD serves 419-460-0120 for this number
+- `OAR 413-215-0971` — renumbered: OARD serves 419-460-0130 for this number
+- `OAR 413-215-0976` — renumbered: OARD serves 419-460-0140 for this number
+- `OAR 413-215-0981` — renumbered: OARD serves 419-460-0150 for this number
+- `OAR 413-215-0986` — renumbered: OARD serves 419-460-0160 for this number
+- `OAR 413-215-0991` — renumbered: OARD serves 419-460-0170 for this number
+- `OAR 413-215-0992` — renumbered: OARD serves 419-460-0180 for this number
+- `OAR 413-215-0996` — renumbered: OARD serves 419-460-0190 for this number
+- `OAR 413-215-1001` — renumbered: OARD serves 419-460-0200 for this number
+- `OAR 413-215-1006` — renumbered: OARD serves 419-460-0210 for this number
+- `OAR 413-215-1011` — renumbered: OARD serves 419-460-0220 for this number
+- `OAR 413-215-1016` — renumbered: OARD serves 419-460-0230 for this number
+- `OAR 413-215-1021` — renumbered: OARD serves 419-460-0240 for this number
+- `OAR 413-215-1026` — renumbered: OARD serves 419-460-0250 for this number
+- `OAR 413-215-1031` — renumbered: OARD serves 419-460-0260 for this number
+- `OAR 415-050-0000` — renumbered: OARD serves 415-050-0100 for this number
+- `OAR 415-050-0005` — renumbered: OARD serves 415-050-0105 for this number
+- `OAR 415-050-0010` — renumbered: OARD serves 415-050-0110 for this number
+- `OAR 415-050-0020` — renumbered: OARD serves 415-050-0120 for this number
+- `OAR 415-050-0025` — renumbered: OARD serves 415-050-0140 for this number
+- `OAR 415-050-0035` — renumbered: OARD serves 415-050-0150 for this number
+- `OAR 415-050-0045` — renumbered: OARD serves 415-050-0155 for this number
+- `OAR 415-050-0070` — renumbered: OARD serves 415-050-0170 for this number
+- `OAR 415-050-0075` — renumbered: OARD serves 415-050-0175 for this number
+- `OAR 415-050-0080` — renumbered: OARD serves 415-050-0180 for this number
+- `OAR 415-050-0085` — renumbered: OARD serves 415-050-0185 for this number
+- `OAR 415-050-0090` — renumbered: OARD serves 415-050-0190 for this number
+- `OAR 415-050-0095` — renumbered: OARD serves 415-050-0195 for this number
+- `OAR 461-135-0498` — renumbered: OARD serves 461-135-1511 for this number
+- `OAR 471-030-0090` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 543-010-0035` — renumbered: OARD serves 543-080-0020 for this number
+- `OAR 543-010-0036` — renumbered: OARD serves 543-080-0030 for this number
+- `OAR 543-060-0060` — renumbered: OARD serves 543-080-0040 for this number
+- `OAR 584-021-0117` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 584-070-0007` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 584-200-0120` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 584-210-0025` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 584-230-0015` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 584-235-0015` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 584-235-0200` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 584-235-0210` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 584-235-0220` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 584-235-0230` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 584-420-0060` — renumbered: OARD serves 584-430-0100 for this number
+- `OAR 584-420-0070` — renumbered: OARD serves 584-430-0200 for this number
+- `OAR 603-011-0212` — renumbered: OARD serves 603-011-0214 for this number
+- `OAR 603-011-0250` — renumbered: OARD serves 603-011-1000 for this number
+- `OAR 603-011-0255` — renumbered: OARD serves 603-011-1100 for this number
+- `OAR 603-011-0256` — renumbered: OARD serves 603-011-1245 for this number
+- `OAR 603-011-0263` — renumbered: OARD serves 603-011-1110 for this number
+- `OAR 603-011-0264` — renumbered: OARD serves 603-011-1111 for this number
+- `OAR 603-011-0265` — renumbered: OARD serves 603-011-1240 for this number
+- `OAR 603-011-0270` — renumbered: OARD serves 603-011-1215 for this number
+- `OAR 603-011-0305` — renumbered: OARD serves 603-011-1220 for this number
+- `OAR 603-011-0310` — renumbered: OARD serves 603-011-1320 for this number
+- `OAR 603-011-0340` — renumbered: OARD serves 603-011-1235 for this number
+- `OAR 603-011-0370` — renumbered: OARD serves 603-011-1225 for this number
+- `OAR 603-011-0375` — renumbered: OARD serves 603-011-1230 for this number
+- `OAR 603-011-0381` — renumbered: OARD serves 603-011-1315 for this number
+- `OAR 603-011-0382` — renumbered: OARD serves 603-011-1310 for this number
+- `OAR 603-011-0388` — renumbered: OARD serves 603-011-1450 for this number
+- `OAR 603-011-0398` — renumbered: OARD serves 603-011-1730 for this number
+- `OAR 603-011-0402` — renumbered: OARD serves 603-011-1505 for this number
+- `OAR 603-011-0420` — renumbered: OARD serves 603-011-1325 for this number
+- `OAR 603-011-0515` — renumbered: OARD serves 603-011-1720 for this number
+- `OAR 603-011-0525` — renumbered: OARD serves 603-011-1610 for this number
+- `OAR 603-011-0535` — renumbered: OARD serves 603-011-1735 for this number
+- `OAR 603-011-0565` — renumbered: OARD serves 603-011-1510 for this number
+- `OAR 603-011-0570` — renumbered: OARD serves 603-011-1500 for this number
+- `OAR 603-011-0606` — renumbered: OARD serves 603-011-1725 for this number
+- `OAR 603-011-0615` — renumbered: OARD serves 603-011-1210 for this number
+- `OAR 603-011-0620` — renumbered: OARD serves 603-011-1715 for this number
+- `OAR 603-011-0680` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 603-011-0700` — renumbered: OARD serves 603-015-0500 for this number
+- `OAR 603-011-0701` — renumbered: OARD serves 603-015-0505 for this number
+- `OAR 603-011-0705` — renumbered: OARD serves 603-015-0510 for this number
+- `OAR 603-011-0706` — renumbered: OARD serves 603-015-0515 for this number
+- `OAR 603-011-0710` — renumbered: OARD serves 603-015-0520 for this number
+- `OAR 603-011-0715` — renumbered: OARD serves 603-015-0525 for this number
+- `OAR 603-011-0720` — renumbered: OARD serves 603-015-0530 for this number
+- `OAR 603-011-0725` — renumbered: OARD serves 603-015-0535 for this number
+- `OAR 603-025-0425` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 603-048-9002` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 603-052-1390` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 635-043-0140` — renumbered: OARD serves 635-800-0700 for this number
+- `OAR 635-043-0150` — renumbered: OARD serves 635-800-0015 for this number
+- `OAR 635-418-0005` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 635-418-0015` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 635-418-0025` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 731-007-0270` — renumbered: OARD serves 734-010-0500 for this number
+- `OAR 731-007-0280` — renumbered: OARD serves 734-010-0420 for this number
+- `OAR 731-007-0290` — renumbered: OARD serves 734-010-0430 for this number
+- `OAR 731-007-0300` — renumbered: OARD serves 734-010-0440 for this number
+- `OAR 731-007-0310` — renumbered: OARD serves 734-010-0450 for this number
+- `OAR 731-007-0320` — renumbered: OARD serves 734-010-0460 for this number
+- `OAR 731-007-0330` — renumbered: OARD serves 734-010-0470 for this number
+- `OAR 735-018-0170` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 813-201-0003` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 813-201-0007` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 813-201-0012` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 813-201-0015` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 813-201-0022` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 813-201-0032` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 813-201-0042` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 813-201-0052` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 813-201-0062` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 813-201-0072` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 813-201-0082` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 813-201-0092` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 813-330-0070` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 848-045-0030` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 860-024-0060` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 860-024-0070` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 860-024-0080` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 860-024-0090` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 860-024-0100` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 860-024-0110` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 860-024-0120` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 860-024-0130` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 860-024-0140` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 860-024-0150` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 860-024-0160` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 918-440-1001` — not_served: OARD page contains no rule number (rule likely repealed)
+- `OAR 918-674-0000` — renumbered: OARD serves 918-674-0500 for this number
+- `OAR 918-674-0005` — renumbered: OARD serves 918-674-0510 for this number
+- `OAR 918-674-0013` — renumbered: OARD serves 918-674-0520 for this number
+- `OAR 918-674-0015` — renumbered: OARD serves 918-674-0530 for this number
+- `OAR 918-674-0023` — renumbered: OARD serves 918-674-0550 for this number
+- `OAR 918-674-0043` — renumbered: OARD serves 918-674-0560 for this number
+- `OAR 918-674-0055` — renumbered: OARD serves 918-674-0570 for this number
+- `OAR 918-674-0060` — renumbered: OARD serves 918-674-0580 for this number
+- `OAR 918-674-0065` — renumbered: OARD serves 918-674-0590 for this number
+- `OAR 918-674-0075` — renumbered: OARD serves 918-674-0600 for this number
+- `OAR 918-674-0085` — renumbered: OARD serves 918-674-0610 for this number
+- `OAR 918-674-0090` — renumbered: OARD serves 918-674-0620 for this number
+- `OAR 918-674-0095` — renumbered: OARD serves 918-674-0630 for this number
+- `OAR 918-674-0105` — renumbered: OARD serves 918-674-0640 for this number
+- `OAR 918-674-0115` — renumbered: OARD serves 918-674-0650 for this number
+- `OAR 918-674-0125` — renumbered: OARD serves 918-674-0660 for this number
+- `OAR 918-674-0130` — renumbered: OARD serves 918-674-0670 for this number
+- `OAR 918-674-0135` — renumbered: OARD serves 918-674-0680 for this number
+- `OAR 918-674-0145` — renumbered: OARD serves 918-674-0690 for this number
+- `OAR 918-674-0150` — renumbered: OARD serves 918-674-0720 for this number
+- `OAR 918-674-0155` — renumbered: OARD serves 918-674-0740 for this number
+- `OAR 918-674-0200` — renumbered: OARD serves 918-674-0800 for this number
+- `OAR 918-674-0210` — renumbered: OARD serves 918-674-0810 for this number
+- `OAR 918-674-0220` — renumbered: OARD serves 918-674-0820 for this number
+- `OAR 918-674-0230` — renumbered: OARD serves 918-674-0830 for this number
+- `OAR 918-674-0240` — renumbered: OARD serves 918-674-0840 for this number
+- `OAR 918-674-0250` — renumbered: OARD serves 918-674-0850 for this number
+- `OAR 918-674-0260` — renumbered: OARD serves 918-674-0870 for this number
+- `OAR 918-674-0270` — renumbered: OARD serves 918-674-0880 for this number
+- `OAR 918-674-0280` — renumbered: OARD serves 918-674-0890 for this number
+- `OAR 918-674-0290` — renumbered: OARD serves 918-674-0900 for this number
+- `OAR 918-674-0300` — renumbered: OARD serves 918-674-0910 for this number
+- `OAR 943-070-0000` — renumbered: OARD serves 950-030-0000 for this number
+- `OAR 943-070-0010` — renumbered: OARD serves 950-030-0010 for this number
+- `OAR 943-070-0020` — renumbered: OARD serves 950-030-0020 for this number
+- `OAR 943-070-0030` — renumbered: OARD serves 950-030-0030 for this number
+- `OAR 943-070-0040` — renumbered: OARD serves 950-030-0040 for this number
+- `OAR 943-070-0050` — renumbered: OARD serves 950-030-0050 for this number
+- `OAR 943-070-0060` — renumbered: OARD serves 950-030-0200 for this number
+- `OAR 943-070-0070` — renumbered: OARD serves 950-038-0010 for this number
+- `OAR 943-090-0000` — renumbered: OARD serves 950-040-0000 for this number
+- `OAR 943-090-0010` — renumbered: OARD serves 950-040-0010 for this number
+- `OAR 943-090-0020` — renumbered: OARD serves 950-040-0020 for this number
 
 ## Known enumeration gaps (0)
 
@@ -144,11 +902,176 @@ Oddities in the /gov/eo listing of record recorded by `src/ingest_eo.py` (duplic
 - `eo-21-05` — two listing rows with different bytes (/gov/eo/eo-21-05.pdf vs /gov/eo/eo_21-05.pdf) — confirm which file is the order of record
 - `eo-21-20` — listing says 2021 No. 29; filename (trusted) says 2021 No. 20 — the description matches the filename
 
-## Agency profiles needing curation (0)
+## Agency profiles needing curation (166)
 
 These agencies have in-repo content but their profile (`_meta/agency-profiles.yml`) still carries stub values — the model gets their data without its context until a human fills governance (with a citation) and publication status.
 
-_(none)_
+- `_meta/agency-profiles.yml (appraiser-certification-and-licensure-board)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (board-of-chiropractic-examiners)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (board-of-examiners-for-engineering-and-land-surveying)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (board-of-examiners-for-speech-language-pathology-and-audiology)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (board-of-geologist-examiners)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (board-of-licensed-social-workers)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (board-of-massage-therapists)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (board-of-medical-imaging)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (board-of-nursing)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (board-of-optometry)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (board-of-parole-and-post-prison-supervision)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (board-of-pharmacy)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (bureau-of-labor-and-industries)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (chief-education-office)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (citizens-initiative-review-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (columbia-river-gorge-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (commission-for-the-blind)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (construction-contractors-board)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture-oregon-albacore-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture-oregon-alfalfa-seed-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture-oregon-beef-council)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture-oregon-blueberry-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture-oregon-clover-seed-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture-oregon-dairy-products-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture-oregon-dungeness-crab-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture-oregon-fine-fescue-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture-oregon-hazelnut-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture-oregon-hop-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture-oregon-invasive-species-council)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture-oregon-mint-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture-oregon-potato-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture-oregon-processed-vegetable-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture-oregon-raspberry-and-blackberry-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture-oregon-ryegrass-growers-seed-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture-oregon-salmon-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture-oregon-sheep-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture-oregon-strawberry-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture-oregon-sweet-cherry-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture-oregon-tall-fescue-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture-oregon-trawl-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-agriculture-oregon-wheat-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-consumer-and-business-services-building-codes-division)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-consumer-and-business-services-director-s-office)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-consumer-and-business-services-finance-and-securities-regulation)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-consumer-and-business-services-health-insurance-marketplace)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-consumer-and-business-services-insurance-regulation)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-consumer-and-business-services-oregon-occupational-safety-and-health-division)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-consumer-and-business-services-workers-compensation-board)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-consumer-and-business-services-workers-compensation-division)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-corrections)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-energy)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-energy-energy-facility-siting-council)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-environmental-quality)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-fish-and-wildlife)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-forestry)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-geology-and-mineral-industries)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-human-services)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-human-services-aging-and-people-with-disabilities-and-developmental-disabilities)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-human-services-child-welfare-programs)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-human-services-home-care-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-human-services-self-sufficiency-programs)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-human-services-vocational-rehabilitation-services)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-justice)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-public-safety-standards-and-training)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-revenue)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-state-lands)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-state-lands-south-slough-national-estuarine-research-reserve)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-state-police)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-state-police-office-of-state-fire-marshal)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-state-police-oregon-state-athletic-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-transportation)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-transportation-driver-and-motor-vehicle-services-division)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-transportation-highway-division)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-transportation-motor-carrier-transportation-division)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-transportation-public-transit-division)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-transportation-rail-division)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-transportation-transportation-safety-division)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-veterans-affairs)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (eastern-oregon-border-economic-development-board)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (economic-recovery-review-council)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (employment-department)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (employment-relations-board)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (higher-education-coordinating-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (higher-education-coordinating-commission-office-of-community-colleges-and-workforce-development)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (higher-education-coordinating-commission-office-of-degree-authorization)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (higher-education-coordinating-commission-office-of-student-access-and-completion)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (judicial-department)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (land-conservation-and-development-department)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (land-use-board-of-appeals)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (landscape-architect-board)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (landscape-contractors-board)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (legislative-administration-committee)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (long-term-care-ombudsman)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (mental-health-regulatory-agency-oregon-board-of-licensed-professional-counselors-and-therapists)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (mental-health-regulatory-agency-oregon-board-of-psychology)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (mortuary-and-cemetery-board)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (occupational-therapy-licensing-board)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (office-of-training-investigations-and-safety)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-529-savings-board)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-board-of-accountancy)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-board-of-dentistry)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-board-of-naturopathic-medicine)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-board-of-physical-therapy)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-business-development-department)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-criminal-justice-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-department-of-aviation)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-department-of-education)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-department-of-education-early-learning-division)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-department-of-education-fair-dismissal-appeals-board)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-department-of-education-youth-development-division)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-facilities-authority)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-film-and-video-office)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-forest-resources-institute)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-government-ethics-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-health-authority)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-health-authority-equity-and-inclusion-division)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-health-authority-health-licensing-office)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-health-authority-health-licensing-office-behavior-analysis-regulatory-board)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-health-authority-health-licensing-office-board-of-certified-advanced-estheticians)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-health-authority-health-licensing-office-board-of-cosmetology)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-health-authority-health-licensing-office-board-of-direct-entry-midwifery)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-health-authority-health-licensing-office-board-of-licensed-dietitians)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-health-authority-health-licensing-office-environmental-health-registration-board)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-health-authority-health-licensing-office-long-term-care-administrators-board)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-health-authority-health-policy-and-analytics)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-health-authority-health-systems-division-addiction-services)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-health-authority-health-systems-division-behavioral-health-services)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-health-authority-health-systems-division-medical-assistance-programs)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-health-authority-oregon-prescription-drug-program)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-health-authority-public-employees-benefit-board)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-health-authority-public-health-division)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-housing-and-community-services-department)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-investment-council)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-liquor-control-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-medical-board)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-military-department-office-of-emergency-management)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-patient-safety-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-public-employees-retirement-system)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-racing-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-state-library)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-state-lottery)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-state-marine-board)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-state-treasury)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-tourism-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-utility-notification-center)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-watershed-enhancement-board)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-watershed-enhancement-board-oregon-agricultural-heritage-program)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-wine-board)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-youth-authority)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (parks-and-recreation-department)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (psychiatric-security-review-board)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (public-utility-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (public-utility-commission-oregon-board-of-maritime-pilots)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (real-estate-agency)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (secretary-of-state-archives-division)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (secretary-of-state-audits-division)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (secretary-of-state-business-services-division)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (secretary-of-state-corporation-division)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (secretary-of-state-elections-division)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (southern-oregon-university)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (state-board-of-architect-examiners)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (teacher-standards-and-practices-commission)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (travel-information-council)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (veterinary-medical-examining-board)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (water-resources-department)` — governance unclassified (needs a class + citation basis); policies_published unknown (where does this agency publish?)
 
 ## Standing item: human verification stamps
 
@@ -164,10 +1087,48 @@ the attestation the review gates call for. Corpus size by directory:
 - `agencies/department-of-administrative-services/standards/eis-css-it-control-standards/`: 18 documents
 - `executive-orders/`: 526 documents
 - `external-references/`: 1 documents
+- `rules/101/001/`: 3 documents
+- `rules/101/002/`: 2 documents
+- `rules/101/005/`: 15 documents
+- `rules/101/010/`: 1 documents
+- `rules/101/015/`: 10 documents
+- `rules/101/020/`: 19 documents
+- `rules/101/030/`: 9 documents
+- `rules/101/050/`: 4 documents
+- `rules/101/060/`: 3 documents
+- `rules/101/070/`: 2 documents
+- `rules/101/080/`: 2 documents
+- `rules/104/001/`: 2 documents
+- `rules/104/010/`: 1 documents
+- `rules/104/020/`: 5 documents
+- `rules/104/030/`: 9 documents
+- `rules/104/040/`: 3 documents
+- `rules/104/045/`: 10 documents
+- `rules/104/050/`: 12 documents
+- `rules/104/055/`: 11 documents
+- `rules/104/080/`: 16 documents
 - `rules/105/001/`: 2 documents
 - `rules/105/020/`: 2 documents
 - `rules/105/040/`: 1 documents
 - `rules/105/050/`: 4 documents
+- `rules/114/001/`: 3 documents
+- `rules/114/002/`: 2 documents
+- `rules/114/003/`: 2 documents
+- `rules/114/004/`: 7 documents
+- `rules/114/005/`: 5 documents
+- `rules/114/006/`: 1 documents
+- `rules/115/001/`: 2 documents
+- `rules/115/010/`: 27 documents
+- `rules/115/020/`: 1 documents
+- `rules/115/025/`: 27 documents
+- `rules/115/030/`: 1 documents
+- `rules/115/035/`: 13 documents
+- `rules/115/040/`: 15 documents
+- `rules/115/045/`: 9 documents
+- `rules/115/050/`: 4 documents
+- `rules/115/060/`: 13 documents
+- `rules/115/065/`: 1 documents
+- `rules/115/070/`: 12 documents
 - `rules/122/001/`: 2 documents
 - `rules/122/040/`: 3 documents
 - `rules/122/050/`: 6 documents
@@ -175,6 +1136,66 @@ the attestation the review gates call for. Corpus size by directory:
 - `rules/122/070/`: 7 documents
 - `rules/122/075/`: 5 documents
 - `rules/122/085/`: 8 documents
+- `rules/123/001/`: 9 documents
+- `rules/123/005/`: 4 documents
+- `rules/123/006/`: 7 documents
+- `rules/123/008/`: 8 documents
+- `rules/123/009/`: 6 documents
+- `rules/123/011/`: 11 documents
+- `rules/123/015/`: 5 documents
+- `rules/123/016/`: 7 documents
+- `rules/123/017/`: 11 documents
+- `rules/123/018/`: 23 documents
+- `rules/123/019/`: 11 documents
+- `rules/123/020/`: 8 documents
+- `rules/123/021/`: 15 documents
+- `rules/123/022/`: 6 documents
+- `rules/123/024/`: 5 documents
+- `rules/123/025/`: 10 documents
+- `rules/123/027/`: 11 documents
+- `rules/123/030/`: 7 documents
+- `rules/123/042/`: 17 documents
+- `rules/123/043/`: 13 documents
+- `rules/123/046/`: 15 documents
+- `rules/123/049/`: 8 documents
+- `rules/123/051/`: 13 documents
+- `rules/123/052/`: 15 documents
+- `rules/123/056/`: 5 documents
+- `rules/123/057/`: 4 documents
+- `rules/123/061/`: 7 documents
+- `rules/123/070/`: 8 documents
+- `rules/123/080/`: 5 documents
+- `rules/123/087/`: 4 documents
+- `rules/123/088/`: 6 documents
+- `rules/123/089/`: 8 documents
+- `rules/123/090/`: 7 documents
+- `rules/123/091/`: 6 documents
+- `rules/123/092/`: 9 documents
+- `rules/123/093/`: 10 documents
+- `rules/123/095/`: 5 documents
+- `rules/123/097/`: 9 documents
+- `rules/123/098/`: 7 documents
+- `rules/123/135/`: 12 documents
+- `rules/123/140/`: 5 documents
+- `rules/123/165/`: 6 documents
+- `rules/123/200/`: 17 documents
+- `rules/123/450/`: 2 documents
+- `rules/123/475/`: 17 documents
+- `rules/123/500/`: 19 documents
+- `rules/123/600/`: 9 documents
+- `rules/123/623/`: 23 documents
+- `rules/123/630/`: 12 documents
+- `rules/123/635/`: 10 documents
+- `rules/123/650/`: 22 documents
+- `rules/123/656/`: 9 documents
+- `rules/123/662/`: 6 documents
+- `rules/123/668/`: 15 documents
+- `rules/123/674/`: 59 documents
+- `rules/123/680/`: 5 documents
+- `rules/123/690/`: 19 documents
+- `rules/124/001/`: 2 documents
+- `rules/124/005/`: 1 documents
+- `rules/124/010/`: 5 documents
 - `rules/125/001/`: 2 documents
 - `rules/125/007/`: 9 documents
 - `rules/125/010/`: 1 documents
@@ -213,4 +1234,2695 @@ the attestation the review gates call for. Corpus size by directory:
 - `rules/128/030/`: 3 documents
 - `rules/128/040/`: 1 documents
 - `rules/128/050/`: 1 documents
+- `rules/137/001/`: 15 documents
+- `rules/137/002/`: 7 documents
+- `rules/137/003/`: 69 documents
+- `rules/137/004/`: 8 documents
+- `rules/137/005/`: 10 documents
+- `rules/137/007/`: 13 documents
+- `rules/137/008/`: 7 documents
+- `rules/137/009/`: 10 documents
+- `rules/137/010/`: 16 documents
+- `rules/137/015/`: 2 documents
+- `rules/137/020/`: 36 documents
+- `rules/137/025/`: 61 documents
+- `rules/137/045/`: 12 documents
+- `rules/137/046/`: 22 documents
+- `rules/137/047/`: 50 documents
+- `rules/137/048/`: 15 documents
+- `rules/137/049/`: 61 documents
+- `rules/137/050/`: 13 documents
+- `rules/137/055/`: 121 documents
+- `rules/137/060/`: 27 documents
+- `rules/137/065/`: 1 documents
+- `rules/137/076/`: 21 documents
+- `rules/137/078/`: 13 documents
+- `rules/137/079/`: 11 documents
+- `rules/137/080/`: 6 documents
+- `rules/137/082/`: 9 documents
+- `rules/137/083/`: 6 documents
+- `rules/137/084/`: 6 documents
+- `rules/137/085/`: 4 documents
+- `rules/137/086/`: 6 documents
+- `rules/137/087/`: 21 documents
+- `rules/137/090/`: 24 documents
+- `rules/137/095/`: 3 documents
+- `rules/137/100/`: 5 documents
+- `rules/137/105/`: 7 documents
+- `rules/137/110/`: 16 documents
+- `rules/137/120/`: 1 documents
+- `rules/137/130/`: 5 documents
+- `rules/137/140/`: 7 documents
+- `rules/141/001/`: 4 documents
+- `rules/141/005/`: 8 documents
+- `rules/141/010/`: 21 documents
+- `rules/141/014/`: 22 documents
+- `rules/141/015/`: 7 documents
+- `rules/141/016/`: 9 documents
+- `rules/141/030/`: 10 documents
+- `rules/141/035/`: 21 documents
+- `rules/141/040/`: 11 documents
+- `rules/141/045/`: 24 documents
+- `rules/141/050/`: 33 documents
+- `rules/141/060/`: 9 documents
+- `rules/141/067/`: 20 documents
+- `rules/141/070/`: 18 documents
+- `rules/141/071/`: 51 documents
+- `rules/141/073/`: 8 documents
+- `rules/141/080/`: 1 documents
+- `rules/141/081/`: 1 documents
+- `rules/141/082/`: 23 documents
+- `rules/141/083/`: 8 documents
+- `rules/141/085/`: 45 documents
+- `rules/141/086/`: 36 documents
+- `rules/141/087/`: 8 documents
+- `rules/141/088/`: 34 documents
+- `rules/141/089/`: 47 documents
+- `rules/141/090/`: 12 documents
+- `rules/141/091/`: 4 documents
+- `rules/141/092/`: 5 documents
+- `rules/141/093/`: 48 documents
+- `rules/141/095/`: 3 documents
+- `rules/141/100/`: 13 documents
+- `rules/141/102/`: 5 documents
+- `rules/141/110/`: 15 documents
+- `rules/141/120/`: 24 documents
+- `rules/141/121/`: 5 documents
+- `rules/141/122/`: 14 documents
+- `rules/141/123/`: 13 documents
+- `rules/141/125/`: 15 documents
+- `rules/141/130/`: 4 documents
+- `rules/141/140/`: 17 documents
+- `rules/141/141/`: 9 documents
+- `rules/141/142/`: 18 documents
+- `rules/141/145/`: 19 documents
+- `rules/142/001/`: 2 documents
+- `rules/142/005/`: 2 documents
+- `rules/142/010/`: 13 documents
+- `rules/142/015/`: 6 documents
+- `rules/150/018/`: 4 documents
+- `rules/150/090/`: 2 documents
+- `rules/150/118/`: 20 documents
+- `rules/150/137/`: 1 documents
+- `rules/150/180/`: 1 documents
+- `rules/150/181/`: 4 documents
+- `rules/150/183/`: 3 documents
+- `rules/150/192/`: 2 documents
+- `rules/150/198/`: 1 documents
+- `rules/150/222/`: 2 documents
+- `rules/150/267/`: 5 documents
+- `rules/150/276/`: 1 documents
+- `rules/150/280/`: 2 documents
+- `rules/150/285/`: 5 documents
+- `rules/150/291/`: 1 documents
+- `rules/150/293/`: 3 documents
+- `rules/150/294/`: 40 documents
+- `rules/150/305/`: 82 documents
+- `rules/150/306/`: 11 documents
+- `rules/150/307/`: 60 documents
+- `rules/150/308/`: 98 documents
+- `rules/150/309/`: 26 documents
+- `rules/150/310/`: 6 documents
+- `rules/150/311/`: 44 documents
+- `rules/150/312/`: 4 documents
+- `rules/150/314/`: 140 documents
+- `rules/150/315/`: 25 documents
+- `rules/150/316/`: 141 documents
+- `rules/150/317/`: 96 documents
+- `rules/150/318/`: 5 documents
+- `rules/150/320/`: 12 documents
+- `rules/150/321/`: 44 documents
+- `rules/150/324/`: 6 documents
+- `rules/150/358/`: 1 documents
+- `rules/150/403/`: 1 documents
+- `rules/150/418/`: 1 documents
+- `rules/150/457/`: 7 documents
+- `rules/150/465/`: 9 documents
+- `rules/150/468/`: 1 documents
+- `rules/150/475/`: 10 documents
+- `rules/150/670/`: 1 documents
+- `rules/156/010/`: 1 documents
+- `rules/160/001/`: 2 documents
+- `rules/160/005/`: 4 documents
+- `rules/160/010/`: 26 documents
+- `rules/160/040/`: 40 documents
+- `rules/160/050/`: 17 documents
+- `rules/160/070/`: 7 documents
+- `rules/160/100/`: 57 documents
+- `rules/161/001/`: 3 documents
+- `rules/161/002/`: 1 documents
+- `rules/161/003/`: 1 documents
+- `rules/161/006/`: 9 documents
+- `rules/161/008/`: 5 documents
+- `rules/161/010/`: 8 documents
+- `rules/161/015/`: 8 documents
+- `rules/161/020/`: 14 documents
+- `rules/161/025/`: 8 documents
+- `rules/161/030/`: 1 documents
+- `rules/161/040/`: 1 documents
+- `rules/161/050/`: 5 documents
+- `rules/161/500/`: 1 documents
+- `rules/161/520/`: 10 documents
+- `rules/161/530/`: 4 documents
+- `rules/161/540/`: 1 documents
+- `rules/161/550/`: 2 documents
+- `rules/161/560/`: 2 documents
+- `rules/161/570/`: 8 documents
+- `rules/162/001/`: 2 documents
+- `rules/162/010/`: 24 documents
+- `rules/162/040/`: 14 documents
+- `rules/162/050/`: 2 documents
+- `rules/165/001/`: 17 documents
+- `rules/165/002/`: 4 documents
+- `rules/165/004/`: 2 documents
+- `rules/165/005/`: 11 documents
+- `rules/165/007/`: 11 documents
+- `rules/165/008/`: 7 documents
+- `rules/165/010/`: 5 documents
+- `rules/165/012/`: 10 documents
+- `rules/165/013/`: 3 documents
+- `rules/165/014/`: 10 documents
+- `rules/165/016/`: 2 documents
+- `rules/165/020/`: 9 documents
+- `rules/165/022/`: 8 documents
+- `rules/166/001/`: 2 documents
+- `rules/166/005/`: 3 documents
+- `rules/166/010/`: 6 documents
+- `rules/166/017/`: 12 documents
+- `rules/166/020/`: 5 documents
+- `rules/166/025/`: 9 documents
+- `rules/166/030/`: 9 documents
+- `rules/166/150/`: 43 documents
+- `rules/166/200/`: 42 documents
+- `rules/166/300/`: 8 documents
+- `rules/166/350/`: 2 documents
+- `rules/166/400/`: 12 documents
+- `rules/166/450/`: 26 documents
+- `rules/166/475/`: 22 documents
+- `rules/166/500/`: 9 documents
+- `rules/167/001/`: 15 documents
+- `rules/167/050/`: 13 documents
+- `rules/167/055/`: 1 documents
+- `rules/167/060/`: 4 documents
+- `rules/170/001/`: 2 documents
+- `rules/170/002/`: 21 documents
+- `rules/170/040/`: 10 documents
+- `rules/170/050/`: 1 documents
+- `rules/170/055/`: 1 documents
+- `rules/170/060/`: 3 documents
+- `rules/170/061/`: 7 documents
+- `rules/170/062/`: 1 documents
+- `rules/170/063/`: 1 documents
+- `rules/170/080/`: 22 documents
+- `rules/171/001/`: 2 documents
+- `rules/171/002/`: 1 documents
+- `rules/172/001/`: 1 documents
+- `rules/172/005/`: 10 documents
+- `rules/173/001/`: 5 documents
+- `rules/173/005/`: 2 documents
+- `rules/173/006/`: 2 documents
+- `rules/173/007/`: 2 documents
+- `rules/173/008/`: 3 documents
+- `rules/173/009/`: 4 documents
+- `rules/173/010/`: 2 documents
+- `rules/173/011/`: 1 documents
+- `rules/173/012/`: 2 documents
+- `rules/173/014/`: 3 documents
+- `rules/173/015/`: 1 documents
+- `rules/173/016/`: 1 documents
+- `rules/177/010/`: 16 documents
+- `rules/177/037/`: 8 documents
+- `rules/177/038/`: 27 documents
+- `rules/177/040/`: 29 documents
+- `rules/177/045/`: 5 documents
+- `rules/177/046/`: 20 documents
+- `rules/177/050/`: 8 documents
+- `rules/177/051/`: 7 documents
+- `rules/177/052/`: 8 documents
+- `rules/177/069/`: 6 documents
+- `rules/177/070/`: 5 documents
+- `rules/177/075/`: 9 documents
+- `rules/177/081/`: 8 documents
+- `rules/177/083/`: 8 documents
+- `rules/177/085/`: 13 documents
+- `rules/177/090/`: 12 documents
+- `rules/177/092/`: 12 documents
+- `rules/177/098/`: 13 documents
+- `rules/177/099/`: 13 documents
+- `rules/177/100/`: 9 documents
+- `rules/177/200/`: 15 documents
+- `rules/198/001/`: 3 documents
+- `rules/199/001/`: 6 documents
+- `rules/199/005/`: 9 documents
+- `rules/199/008/`: 6 documents
+- `rules/199/010/`: 12 documents
+- `rules/199/020/`: 3 documents
+- `rules/199/040/`: 5 documents
+- `rules/213/001/`: 3 documents
+- `rules/213/002/`: 1 documents
+- `rules/213/003/`: 1 documents
+- `rules/213/004/`: 12 documents
+- `rules/213/005/`: 17 documents
+- `rules/213/007/`: 5 documents
+- `rules/213/008/`: 6 documents
+- `rules/213/009/`: 3 documents
+- `rules/213/010/`: 2 documents
+- `rules/213/011/`: 4 documents
+- `rules/213/012/`: 4 documents
+- `rules/213/013/`: 3 documents
+- `rules/213/017/`: 12 documents
+- `rules/213/018/`: 32 documents
+- `rules/213/019/`: 11 documents
+- `rules/213/020/`: 1 documents
+- `rules/213/021/`: 10 documents
+- `rules/213/050/`: 8 documents
+- `rules/213/060/`: 10 documents
+- `rules/213/071/`: 3 documents
+- `rules/213/080/`: 8 documents
+- `rules/230/001/`: 3 documents
+- `rules/230/010/`: 2 documents
+- `rules/230/020/`: 21 documents
+- `rules/230/030/`: 23 documents
+- `rules/230/040/`: 11 documents
+- `rules/230/060/`: 3 documents
+- `rules/230/070/`: 9 documents
+- `rules/230/080/`: 29 documents
+- `rules/230/090/`: 5 documents
+- `rules/230/100/`: 4 documents
+- `rules/230/120/`: 32 documents
+- `rules/230/130/`: 29 documents
+- `rules/230/140/`: 24 documents
+- `rules/230/150/`: 14 documents
+- `rules/250/001/`: 9 documents
+- `rules/250/010/`: 64 documents
+- `rules/250/011/`: 21 documents
+- `rules/250/014/`: 9 documents
+- `rules/250/015/`: 12 documents
+- `rules/250/016/`: 22 documents
+- `rules/250/017/`: 5 documents
+- `rules/250/018/`: 12 documents
+- `rules/250/020/`: 67 documents
+- `rules/250/021/`: 6 documents
+- `rules/250/022/`: 6 documents
+- `rules/250/026/`: 11 documents
+- `rules/250/030/`: 9 documents
+- `rules/255/001/`: 5 documents
+- `rules/255/005/`: 1 documents
+- `rules/255/010/`: 2 documents
+- `rules/255/015/`: 4 documents
+- `rules/255/020/`: 4 documents
+- `rules/255/025/`: 4 documents
+- `rules/255/030/`: 14 documents
+- `rules/255/032/`: 14 documents
+- `rules/255/035/`: 11 documents
+- `rules/255/036/`: 6 documents
+- `rules/255/037/`: 6 documents
+- `rules/255/040/`: 9 documents
+- `rules/255/050/`: 7 documents
+- `rules/255/060/`: 10 documents
+- `rules/255/062/`: 6 documents
+- `rules/255/065/`: 3 documents
+- `rules/255/070/`: 3 documents
+- `rules/255/075/`: 33 documents
+- `rules/255/080/`: 7 documents
+- `rules/255/085/`: 6 documents
+- `rules/255/087/`: 10 documents
+- `rules/255/094/`: 5 documents
+- `rules/257/001/`: 5 documents
+- `rules/257/010/`: 10 documents
+- `rules/257/015/`: 11 documents
+- `rules/257/020/`: 1 documents
+- `rules/257/025/`: 6 documents
+- `rules/257/030/`: 15 documents
+- `rules/257/035/`: 1 documents
+- `rules/257/040/`: 4 documents
+- `rules/257/045/`: 5 documents
+- `rules/257/050/`: 20 documents
+- `rules/257/055/`: 1 documents
+- `rules/257/060/`: 3 documents
+- `rules/257/070/`: 8 documents
+- `rules/257/080/`: 12 documents
+- `rules/257/090/`: 1 documents
+- `rules/257/095/`: 10 documents
+- `rules/257/100/`: 16 documents
+- `rules/259/001/`: 2 documents
+- `rules/259/003/`: 1 documents
+- `rules/259/005/`: 1 documents
+- `rules/259/006/`: 3 documents
+- `rules/259/007/`: 1 documents
+- `rules/259/008/`: 35 documents
+- `rules/259/009/`: 20 documents
+- `rules/259/012/`: 4 documents
+- `rules/259/013/`: 12 documents
+- `rules/259/020/`: 13 documents
+- `rules/259/025/`: 1 documents
+- `rules/259/060/`: 25 documents
+- `rules/259/061/`: 18 documents
+- `rules/259/070/`: 4 documents
+- `rules/259/080/`: 1 documents
+- `rules/274/001/`: 2 documents
+- `rules/274/005/`: 6 documents
+- `rules/274/006/`: 12 documents
+- `rules/274/007/`: 2 documents
+- `rules/274/010/`: 13 documents
+- `rules/274/012/`: 9 documents
+- `rules/274/013/`: 8 documents
+- `rules/274/015/`: 2 documents
+- `rules/274/020/`: 48 documents
+- `rules/274/021/`: 4 documents
+- `rules/274/022/`: 1 documents
+- `rules/274/028/`: 9 documents
+- `rules/274/030/`: 13 documents
+- `rules/274/031/`: 9 documents
+- `rules/274/032/`: 5 documents
+- `rules/274/035/`: 1 documents
+- `rules/274/036/`: 8 documents
+- `rules/274/037/`: 10 documents
+- `rules/274/038/`: 10 documents
+- `rules/274/040/`: 7 documents
+- `rules/274/045/`: 46 documents
+- `rules/291/001/`: 6 documents
+- `rules/291/005/`: 9 documents
+- `rules/291/006/`: 9 documents
+- `rules/291/009/`: 3 documents
+- `rules/291/011/`: 12 documents
+- `rules/291/013/`: 20 documents
+- `rules/291/014/`: 4 documents
+- `rules/291/015/`: 9 documents
+- `rules/291/016/`: 13 documents
+- `rules/291/019/`: 7 documents
+- `rules/291/022/`: 13 documents
+- `rules/291/024/`: 11 documents
+- `rules/291/026/`: 9 documents
+- `rules/291/027/`: 9 documents
+- `rules/291/028/`: 4 documents
+- `rules/291/031/`: 32 documents
+- `rules/291/032/`: 10 documents
+- `rules/291/034/`: 6 documents
+- `rules/291/035/`: 7 documents
+- `rules/291/037/`: 5 documents
+- `rules/291/038/`: 6 documents
+- `rules/291/039/`: 5 documents
+- `rules/291/041/`: 9 documents
+- `rules/291/042/`: 6 documents
+- `rules/291/046/`: 19 documents
+- `rules/291/047/`: 20 documents
+- `rules/291/048/`: 14 documents
+- `rules/291/052/`: 8 documents
+- `rules/291/055/`: 10 documents
+- `rules/291/058/`: 13 documents
+- `rules/291/061/`: 34 documents
+- `rules/291/062/`: 9 documents
+- `rules/291/063/`: 12 documents
+- `rules/291/064/`: 14 documents
+- `rules/291/065/`: 3 documents
+- `rules/291/066/`: 18 documents
+- `rules/291/069/`: 9 documents
+- `rules/291/070/`: 8 documents
+- `rules/291/071/`: 8 documents
+- `rules/291/072/`: 3 documents
+- `rules/291/073/`: 6 documents
+- `rules/291/075/`: 3 documents
+- `rules/291/076/`: 4 documents
+- `rules/291/077/`: 6 documents
+- `rules/291/078/`: 6 documents
+- `rules/291/079/`: 1 documents
+- `rules/291/081/`: 8 documents
+- `rules/291/082/`: 10 documents
+- `rules/291/083/`: 3 documents
+- `rules/291/086/`: 9 documents
+- `rules/291/093/`: 7 documents
+- `rules/291/097/`: 23 documents
+- `rules/291/104/`: 6 documents
+- `rules/291/105/`: 21 documents
+- `rules/291/107/`: 3 documents
+- `rules/291/109/`: 12 documents
+- `rules/291/111/`: 4 documents
+- `rules/291/113/`: 6 documents
+- `rules/291/117/`: 10 documents
+- `rules/291/119/`: 6 documents
+- `rules/291/121/`: 11 documents
+- `rules/291/123/`: 3 documents
+- `rules/291/124/`: 23 documents
+- `rules/291/127/`: 24 documents
+- `rules/291/130/`: 11 documents
+- `rules/291/131/`: 11 documents
+- `rules/291/133/`: 5 documents
+- `rules/291/139/`: 10 documents
+- `rules/291/141/`: 7 documents
+- `rules/291/143/`: 13 documents
+- `rules/291/145/`: 5 documents
+- `rules/291/149/`: 13 documents
+- `rules/291/153/`: 3 documents
+- `rules/291/156/`: 4 documents
+- `rules/291/157/`: 5 documents
+- `rules/291/158/`: 11 documents
+- `rules/291/163/`: 9 documents
+- `rules/291/164/`: 8 documents
+- `rules/291/167/`: 3 documents
+- `rules/291/171/`: 10 documents
+- `rules/291/180/`: 6 documents
+- `rules/291/200/`: 7 documents
+- `rules/291/201/`: 5 documents
+- `rules/291/202/`: 8 documents
+- `rules/291/203/`: 10 documents
+- `rules/291/204/`: 8 documents
+- `rules/291/205/`: 15 documents
+- `rules/291/206/`: 6 documents
+- `rules/291/207/`: 7 documents
+- `rules/291/208/`: 5 documents
+- `rules/291/209/`: 5 documents
+- `rules/291/210/`: 5 documents
+- `rules/309/001/`: 1 documents
+- `rules/309/008/`: 18 documents
+- `rules/309/009/`: 7 documents
+- `rules/309/011/`: 20 documents
+- `rules/309/012/`: 13 documents
+- `rules/309/013/`: 24 documents
+- `rules/309/014/`: 19 documents
+- `rules/309/015/`: 16 documents
+- `rules/309/018/`: 22 documents
+- `rules/309/019/`: 48 documents
+- `rules/309/022/`: 28 documents
+- `rules/309/023/`: 9 documents
+- `rules/309/027/`: 6 documents
+- `rules/309/031/`: 1 documents
+- `rules/309/032/`: 10 documents
+- `rules/309/033/`: 59 documents
+- `rules/309/035/`: 26 documents
+- `rules/309/036/`: 8 documents
+- `rules/309/039/`: 8 documents
+- `rules/309/040/`: 35 documents
+- `rules/309/060/`: 15 documents
+- `rules/309/088/`: 4 documents
+- `rules/309/090/`: 14 documents
+- `rules/309/091/`: 10 documents
+- `rules/309/102/`: 6 documents
+- `rules/309/104/`: 5 documents
+- `rules/309/106/`: 5 documents
+- `rules/309/108/`: 5 documents
+- `rules/309/112/`: 10 documents
+- `rules/309/114/`: 8 documents
+- `rules/309/116/`: 1 documents
+- `rules/309/118/`: 11 documents
+- `rules/309/120/`: 23 documents
+- `rules/325/001/`: 3 documents
+- `rules/325/005/`: 1 documents
+- `rules/325/010/`: 14 documents
+- `rules/325/015/`: 13 documents
+- `rules/325/020/`: 13 documents
+- `rules/325/025/`: 13 documents
+- `rules/325/030/`: 13 documents
+- `rules/325/035/`: 10 documents
+- `rules/330/001/`: 3 documents
+- `rules/330/007/`: 5 documents
+- `rules/330/010/`: 6 documents
+- `rules/330/020/`: 11 documents
+- `rules/330/025/`: 7 documents
+- `rules/330/030/`: 6 documents
+- `rules/330/040/`: 5 documents
+- `rules/330/050/`: 3 documents
+- `rules/330/060/`: 10 documents
+- `rules/330/062/`: 9 documents
+- `rules/330/063/`: 7 documents
+- `rules/330/065/`: 6 documents
+- `rules/330/066/`: 10 documents
+- `rules/330/067/`: 17 documents
+- `rules/330/068/`: 18 documents
+- `rules/330/069/`: 18 documents
+- `rules/330/070/`: 27 documents
+- `rules/330/075/`: 7 documents
+- `rules/330/080/`: 6 documents
+- `rules/330/090/`: 11 documents
+- `rules/330/091/`: 9 documents
+- `rules/330/092/`: 12 documents
+- `rules/330/100/`: 2 documents
+- `rules/330/105/`: 10 documents
+- `rules/330/110/`: 16 documents
+- `rules/330/112/`: 11 documents
+- `rules/330/118/`: 12 documents
+- `rules/330/125/`: 9 documents
+- `rules/330/130/`: 12 documents
+- `rules/330/135/`: 18 documents
+- `rules/330/140/`: 14 documents
+- `rules/330/160/`: 14 documents
+- `rules/330/170/`: 7 documents
+- `rules/330/180/`: 7 documents
+- `rules/330/200/`: 11 documents
+- `rules/330/210/`: 14 documents
+- `rules/330/220/`: 11 documents
+- `rules/330/225/`: 11 documents
+- `rules/330/230/`: 12 documents
+- `rules/330/240/`: 16 documents
+- `rules/331/001/`: 3 documents
+- `rules/331/010/`: 11 documents
+- `rules/331/020/`: 9 documents
+- `rules/331/030/`: 7 documents
+- `rules/331/105/`: 1 documents
+- `rules/331/130/`: 4 documents
+- `rules/331/140/`: 1 documents
+- `rules/331/150/`: 3 documents
+- `rules/331/160/`: 2 documents
+- `rules/331/180/`: 1 documents
+- `rules/331/300/`: 2 documents
+- `rules/331/310/`: 3 documents
+- `rules/331/320/`: 2 documents
+- `rules/331/330/`: 1 documents
+- `rules/331/340/`: 1 documents
+- `rules/331/375/`: 2 documents
+- `rules/331/380/`: 5 documents
+- `rules/331/385/`: 2 documents
+- `rules/331/390/`: 1 documents
+- `rules/331/395/`: 1 documents
+- `rules/331/405/`: 1 documents
+- `rules/331/407/`: 1 documents
+- `rules/331/410/`: 13 documents
+- `rules/331/415/`: 2 documents
+- `rules/331/420/`: 2 documents
+- `rules/331/430/`: 2 documents
+- `rules/331/440/`: 1 documents
+- `rules/331/475/`: 2 documents
+- `rules/331/480/`: 4 documents
+- `rules/331/485/`: 2 documents
+- `rules/331/490/`: 1 documents
+- `rules/331/495/`: 1 documents
+- `rules/331/630/`: 1 documents
+- `rules/331/640/`: 1 documents
+- `rules/331/650/`: 12 documents
+- `rules/331/655/`: 1 documents
+- `rules/331/660/`: 2 documents
+- `rules/331/670/`: 4 documents
+- `rules/331/680/`: 1 documents
+- `rules/331/705/`: 5 documents
+- `rules/331/710/`: 14 documents
+- `rules/331/712/`: 2 documents
+- `rules/331/715/`: 2 documents
+- `rules/331/718/`: 3 documents
+- `rules/331/720/`: 3 documents
+- `rules/331/735/`: 2 documents
+- `rules/331/800/`: 2 documents
+- `rules/331/810/`: 13 documents
+- `rules/331/820/`: 2 documents
+- `rules/331/830/`: 2 documents
+- `rules/331/840/`: 5 documents
+- `rules/331/850/`: 1 documents
+- `rules/331/900/`: 31 documents
+- `rules/331/905/`: 23 documents
+- `rules/331/910/`: 18 documents
+- `rules/331/915/`: 18 documents
+- `rules/331/920/`: 2 documents
+- `rules/331/925/`: 12 documents
+- `rules/331/940/`: 1 documents
+- `rules/331/950/`: 7 documents
+- `rules/332/010/`: 3 documents
+- `rules/332/015/`: 6 documents
+- `rules/332/020/`: 3 documents
+- `rules/332/025/`: 8 documents
+- `rules/332/026/`: 4 documents
+- `rules/332/040/`: 1 documents
+- `rules/333/002/`: 1 documents
+- `rules/333/003/`: 33 documents
+- `rules/333/006/`: 18 documents
+- `rules/333/007/`: 23 documents
+- `rules/333/008/`: 106 documents
+- `rules/333/009/`: 4 documents
+- `rules/333/010/`: 79 documents
+- `rules/333/011/`: 33 documents
+- `rules/333/012/`: 10 documents
+- `rules/333/013/`: 1 documents
+- `rules/333/014/`: 9 documents
+- `rules/333/015/`: 53 documents
+- `rules/333/016/`: 62 documents
+- `rules/333/017/`: 2 documents
+- `rules/333/018/`: 22 documents
+- `rules/333/019/`: 18 documents
+- `rules/333/020/`: 9 documents
+- `rules/333/021/`: 2 documents
+- `rules/333/022/`: 40 documents
+- `rules/333/023/`: 7 documents
+- `rules/333/024/`: 52 documents
+- `rules/333/025/`: 14 documents
+- `rules/333/026/`: 1 documents
+- `rules/333/027/`: 32 documents
+- `rules/333/028/`: 17 documents
+- `rules/333/029/`: 23 documents
+- `rules/333/030/`: 27 documents
+- `rules/333/031/`: 26 documents
+- `rules/333/035/`: 13 documents
+- `rules/333/039/`: 11 documents
+- `rules/333/040/`: 19 documents
+- `rules/333/046/`: 13 documents
+- `rules/333/047/`: 6 documents
+- `rules/333/048/`: 3 documents
+- `rules/333/049/`: 13 documents
+- `rules/333/050/`: 15 documents
+- `rules/333/052/`: 15 documents
+- `rules/333/054/`: 15 documents
+- `rules/333/055/`: 6 documents
+- `rules/333/056/`: 6 documents
+- `rules/333/060/`: 56 documents
+- `rules/333/061/`: 69 documents
+- `rules/333/062/`: 40 documents
+- `rules/333/064/`: 17 documents
+- `rules/333/068/`: 1 documents
+- `rules/333/069/`: 3 documents
+- `rules/333/070/`: 5 documents
+- `rules/333/071/`: 45 documents
+- `rules/333/072/`: 6 documents
+- `rules/333/076/`: 74 documents
+- `rules/333/077/`: 10 documents
+- `rules/333/080/`: 2 documents
+- `rules/333/081/`: 19 documents
+- `rules/333/095/`: 4 documents
+- `rules/333/100/`: 17 documents
+- `rules/333/101/`: 29 documents
+- `rules/333/102/`: 54 documents
+- `rules/333/103/`: 10 documents
+- `rules/333/105/`: 40 documents
+- `rules/333/106/`: 53 documents
+- `rules/333/109/`: 11 documents
+- `rules/333/110/`: 6 documents
+- `rules/333/111/`: 8 documents
+- `rules/333/112/`: 9 documents
+- `rules/333/113/`: 30 documents
+- `rules/333/114/`: 4 documents
+- `rules/333/116/`: 108 documents
+- `rules/333/117/`: 21 documents
+- `rules/333/118/`: 25 documents
+- `rules/333/119/`: 17 documents
+- `rules/333/120/`: 57 documents
+- `rules/333/121/`: 30 documents
+- `rules/333/122/`: 41 documents
+- `rules/333/123/`: 32 documents
+- `rules/333/124/`: 2 documents
+- `rules/333/125/`: 40 documents
+- `rules/333/150/`: 1 documents
+- `rules/333/157/`: 12 documents
+- `rules/333/158/`: 4 documents
+- `rules/333/160/`: 1 documents
+- `rules/333/162/`: 12 documents
+- `rules/333/170/`: 14 documents
+- `rules/333/175/`: 12 documents
+- `rules/333/200/`: 19 documents
+- `rules/333/205/`: 5 documents
+- `rules/333/250/`: 28 documents
+- `rules/333/255/`: 22 documents
+- `rules/333/260/`: 8 documents
+- `rules/333/264/`: 6 documents
+- `rules/333/265/`: 25 documents
+- `rules/333/270/`: 7 documents
+- `rules/333/275/`: 21 documents
+- `rules/333/500/`: 17 documents
+- `rules/333/501/`: 12 documents
+- `rules/333/505/`: 16 documents
+- `rules/333/510/`: 17 documents
+- `rules/333/515/`: 5 documents
+- `rules/333/520/`: 10 documents
+- `rules/333/525/`: 1 documents
+- `rules/333/535/`: 4 documents
+- `rules/333/536/`: 30 documents
+- `rules/333/540/`: 18 documents
+- `rules/333/550/`: 2 documents
+- `rules/333/555/`: 4 documents
+- `rules/333/560/`: 9 documents
+- `rules/333/565/`: 2 documents
+- `rules/333/570/`: 8 documents
+- `rules/333/575/`: 2 documents
+- `rules/333/580/`: 11 documents
+- `rules/333/585/`: 1 documents
+- `rules/333/590/`: 7 documents
+- `rules/333/600/`: 4 documents
+- `rules/333/610/`: 10 documents
+- `rules/333/615/`: 6 documents
+- `rules/333/645/`: 4 documents
+- `rules/333/670/`: 2 documents
+- `rules/333/675/`: 5 documents
+- `rules/333/700/`: 36 documents
+- `rules/334/001/`: 11 documents
+- `rules/334/010/`: 17 documents
+- `rules/334/020/`: 4 documents
+- `rules/334/030/`: 2 documents
+- `rules/334/040/`: 2 documents
+- `rules/335/001/`: 7 documents
+- `rules/335/005/`: 8 documents
+- `rules/335/010/`: 4 documents
+- `rules/335/040/`: 1 documents
+- `rules/335/060/`: 8 documents
+- `rules/335/080/`: 4 documents
+- `rules/335/085/`: 1 documents
+- `rules/335/090/`: 1 documents
+- `rules/335/095/`: 6 documents
+- `rules/337/001/`: 3 documents
+- `rules/337/010/`: 21 documents
+- `rules/337/020/`: 2 documents
+- `rules/337/021/`: 11 documents
+- `rules/337/030/`: 7 documents
+- `rules/338/005/`: 2 documents
+- `rules/338/010/`: 10 documents
+- `rules/338/020/`: 2 documents
+- `rules/339/001/`: 6 documents
+- `rules/339/005/`: 1 documents
+- `rules/339/010/`: 19 documents
+- `rules/339/020/`: 8 documents
+- `rules/340/011/`: 38 documents
+- `rules/340/012/`: 33 documents
+- `rules/340/013/`: 7 documents
+- `rules/340/014/`: 14 documents
+- `rules/340/016/`: 25 documents
+- `rules/340/017/`: 10 documents
+- `rules/340/018/`: 11 documents
+- `rules/340/035/`: 10 documents
+- `rules/340/039/`: 11 documents
+- `rules/340/040/`: 26 documents
+- `rules/340/041/`: 84 documents
+- `rules/340/042/`: 7 documents
+- `rules/340/043/`: 20 documents
+- `rules/340/044/`: 13 documents
+- `rules/340/045/`: 23 documents
+- `rules/340/046/`: 7 documents
+- `rules/340/048/`: 11 documents
+- `rules/340/049/`: 18 documents
+- `rules/340/050/`: 15 documents
+- `rules/340/051/`: 14 documents
+- `rules/340/053/`: 7 documents
+- `rules/340/054/`: 14 documents
+- `rules/340/055/`: 11 documents
+- `rules/340/056/`: 7 documents
+- `rules/340/064/`: 30 documents
+- `rules/340/071/`: 52 documents
+- `rules/340/073/`: 16 documents
+- `rules/340/081/`: 12 documents
+- `rules/340/082/`: 11 documents
+- `rules/340/083/`: 13 documents
+- `rules/340/090/`: 36 documents
+- `rules/340/091/`: 9 documents
+- `rules/340/093/`: 29 documents
+- `rules/340/094/`: 14 documents
+- `rules/340/095/`: 12 documents
+- `rules/340/096/`: 20 documents
+- `rules/340/097/`: 3 documents
+- `rules/340/098/`: 9 documents
+- `rules/340/100/`: 9 documents
+- `rules/340/101/`: 7 documents
+- `rules/340/102/`: 10 documents
+- `rules/340/103/`: 4 documents
+- `rules/340/104/`: 24 documents
+- `rules/340/105/`: 21 documents
+- `rules/340/106/`: 7 documents
+- `rules/340/109/`: 3 documents
+- `rules/340/110/`: 11 documents
+- `rules/340/111/`: 11 documents
+- `rules/340/113/`: 8 documents
+- `rules/340/120/`: 6 documents
+- `rules/340/122/`: 57 documents
+- `rules/340/124/`: 10 documents
+- `rules/340/130/`: 8 documents
+- `rules/340/135/`: 10 documents
+- `rules/340/140/`: 9 documents
+- `rules/340/141/`: 23 documents
+- `rules/340/142/`: 12 documents
+- `rules/340/143/`: 8 documents
+- `rules/340/150/`: 52 documents
+- `rules/340/151/`: 5 documents
+- `rules/340/160/`: 9 documents
+- `rules/340/163/`: 10 documents
+- `rules/340/170/`: 8 documents
+- `rules/340/172/`: 17 documents
+- `rules/340/174/`: 12 documents
+- `rules/340/175/`: 12 documents
+- `rules/340/176/`: 8 documents
+- `rules/340/177/`: 6 documents
+- `rules/340/178/`: 9 documents
+- `rules/340/180/`: 13 documents
+- `rules/340/200/`: 10 documents
+- `rules/340/202/`: 14 documents
+- `rules/340/204/`: 12 documents
+- `rules/340/206/`: 11 documents
+- `rules/340/208/`: 15 documents
+- `rules/340/209/`: 8 documents
+- `rules/340/210/`: 11 documents
+- `rules/340/214/`: 17 documents
+- `rules/340/215/`: 15 documents
+- `rules/340/216/`: 22 documents
+- `rules/340/218/`: 24 documents
+- `rules/340/220/`: 19 documents
+- `rules/340/222/`: 14 documents
+- `rules/340/223/`: 8 documents
+- `rules/340/224/`: 23 documents
+- `rules/340/225/`: 8 documents
+- `rules/340/226/`: 13 documents
+- `rules/340/228/`: 18 documents
+- `rules/340/230/`: 35 documents
+- `rules/340/232/`: 24 documents
+- `rules/340/234/`: 15 documents
+- `rules/340/236/`: 12 documents
+- `rules/340/238/`: 9 documents
+- `rules/340/240/`: 39 documents
+- `rules/340/242/`: 48 documents
+- `rules/340/244/`: 22 documents
+- `rules/340/245/`: 36 documents
+- `rules/340/246/`: 12 documents
+- `rules/340/248/`: 21 documents
+- `rules/340/250/`: 11 documents
+- `rules/340/252/`: 5 documents
+- `rules/340/253/`: 34 documents
+- `rules/340/254/`: 8 documents
+- `rules/340/255/`: 7 documents
+- `rules/340/256/`: 28 documents
+- `rules/340/258/`: 24 documents
+- `rules/340/259/`: 13 documents
+- `rules/340/260/`: 4 documents
+- `rules/340/262/`: 8 documents
+- `rules/340/264/`: 20 documents
+- `rules/340/266/`: 16 documents
+- `rules/340/268/`: 3 documents
+- `rules/340/270/`: 13 documents
+- `rules/340/272/`: 26 documents
+- `rules/345/001/`: 13 documents
+- `rules/345/011/`: 14 documents
+- `rules/345/015/`: 40 documents
+- `rules/345/020/`: 5 documents
+- `rules/345/021/`: 8 documents
+- `rules/345/022/`: 14 documents
+- `rules/345/023/`: 4 documents
+- `rules/345/024/`: 19 documents
+- `rules/345/025/`: 3 documents
+- `rules/345/026/`: 14 documents
+- `rules/345/027/`: 25 documents
+- `rules/345/029/`: 21 documents
+- `rules/345/030/`: 2 documents
+- `rules/345/050/`: 19 documents
+- `rules/345/060/`: 13 documents
+- `rules/345/070/`: 6 documents
+- `rules/345/076/`: 4 documents
+- `rules/345/092/`: 8 documents
+- `rules/345/095/`: 16 documents
+- `rules/350/010/`: 6 documents
+- `rules/350/011/`: 10 documents
+- `rules/350/012/`: 6 documents
+- `rules/350/013/`: 1 documents
+- `rules/350/014/`: 7 documents
+- `rules/350/015/`: 1 documents
+- `rules/350/016/`: 22 documents
+- `rules/350/030/`: 13 documents
+- `rules/350/040/`: 12 documents
+- `rules/350/050/`: 14 documents
+- `rules/350/060/`: 30 documents
+- `rules/350/070/`: 29 documents
+- `rules/350/081/`: 103 documents
+- `rules/350/120/`: 5 documents
+- `rules/407/001/`: 3 documents
+- `rules/407/003/`: 2 documents
+- `rules/407/005/`: 12 documents
+- `rules/407/007/`: 45 documents
+- `rules/407/010/`: 1 documents
+- `rules/407/012/`: 5 documents
+- `rules/407/014/`: 16 documents
+- `rules/407/025/`: 13 documents
+- `rules/407/030/`: 4 documents
+- `rules/407/043/`: 2 documents
+- `rules/407/046/`: 2 documents
+- `rules/407/047/`: 6 documents
+- `rules/407/050/`: 3 documents
+- `rules/407/070/`: 1 documents
+- `rules/407/120/`: 28 documents
+- `rules/409/001/`: 1 documents
+- `rules/409/015/`: 7 documents
+- `rules/409/021/`: 7 documents
+- `rules/409/022/`: 6 documents
+- `rules/409/023/`: 4 documents
+- `rules/409/024/`: 4 documents
+- `rules/409/025/`: 11 documents
+- `rules/409/026/`: 5 documents
+- `rules/409/027/`: 3 documents
+- `rules/409/028/`: 3 documents
+- `rules/409/030/`: 16 documents
+- `rules/409/035/`: 7 documents
+- `rules/409/036/`: 16 documents
+- `rules/409/045/`: 16 documents
+- `rules/409/050/`: 4 documents
+- `rules/409/055/`: 11 documents
+- `rules/409/060/`: 6 documents
+- `rules/409/065/`: 7 documents
+- `rules/410/001/`: 3 documents
+- `rules/410/050/`: 19 documents
+- `rules/410/110/`: 5 documents
+- `rules/410/120/`: 49 documents
+- `rules/410/121/`: 29 documents
+- `rules/410/122/`: 59 documents
+- `rules/410/123/`: 17 documents
+- `rules/410/124/`: 16 documents
+- `rules/410/125/`: 62 documents
+- `rules/410/127/`: 7 documents
+- `rules/410/129/`: 14 documents
+- `rules/410/130/`: 25 documents
+- `rules/410/131/`: 4 documents
+- `rules/410/132/`: 9 documents
+- `rules/410/133/`: 17 documents
+- `rules/410/136/`: 21 documents
+- `rules/410/138/`: 10 documents
+- `rules/410/140/`: 12 documents
+- `rules/410/141/`: 152 documents
+- `rules/410/142/`: 19 documents
+- `rules/410/145/`: 9 documents
+- `rules/410/146/`: 18 documents
+- `rules/410/147/`: 29 documents
+- `rules/410/148/`: 14 documents
+- `rules/410/149/`: 6 documents
+- `rules/410/150/`: 5 documents
+- `rules/410/160/`: 2 documents
+- `rules/410/165/`: 8 documents
+- `rules/410/170/`: 13 documents
+- `rules/410/172/`: 27 documents
+- `rules/410/200/`: 36 documents
+- `rules/411/001/`: 8 documents
+- `rules/411/002/`: 11 documents
+- `rules/411/004/`: 5 documents
+- `rules/411/005/`: 5 documents
+- `rules/411/011/`: 4 documents
+- `rules/411/015/`: 9 documents
+- `rules/411/018/`: 3 documents
+- `rules/411/019/`: 4 documents
+- `rules/411/020/`: 20 documents
+- `rules/411/025/`: 1 documents
+- `rules/411/026/`: 8 documents
+- `rules/411/027/`: 7 documents
+- `rules/411/028/`: 6 documents
+- `rules/411/030/`: 12 documents
+- `rules/411/031/`: 4 documents
+- `rules/411/032/`: 8 documents
+- `rules/411/033/`: 4 documents
+- `rules/411/034/`: 10 documents
+- `rules/411/035/`: 19 documents
+- `rules/411/037/`: 5 documents
+- `rules/411/040/`: 10 documents
+- `rules/411/044/`: 5 documents
+- `rules/411/045/`: 15 documents
+- `rules/411/046/`: 13 documents
+- `rules/411/048/`: 11 documents
+- `rules/411/049/`: 13 documents
+- `rules/411/050/`: 12 documents
+- `rules/411/051/`: 6 documents
+- `rules/411/052/`: 9 documents
+- `rules/411/054/`: 38 documents
+- `rules/411/055/`: 14 documents
+- `rules/411/057/`: 11 documents
+- `rules/411/058/`: 11 documents
+- `rules/411/059/`: 6 documents
+- `rules/411/060/`: 8 documents
+- `rules/411/061/`: 1 documents
+- `rules/411/065/`: 14 documents
+- `rules/411/066/`: 5 documents
+- `rules/411/067/`: 13 documents
+- `rules/411/068/`: 19 documents
+- `rules/411/069/`: 18 documents
+- `rules/411/070/`: 60 documents
+- `rules/411/071/`: 25 documents
+- `rules/411/073/`: 16 documents
+- `rules/411/085/`: 22 documents
+- `rules/411/086/`: 27 documents
+- `rules/411/087/`: 33 documents
+- `rules/411/088/`: 11 documents
+- `rules/411/089/`: 12 documents
+- `rules/411/090/`: 13 documents
+- `rules/411/100/`: 8 documents
+- `rules/411/200/`: 5 documents
+- `rules/411/300/`: 6 documents
+- `rules/411/304/`: 11 documents
+- `rules/411/305/`: 9 documents
+- `rules/411/310/`: 7 documents
+- `rules/411/317/`: 1 documents
+- `rules/411/318/`: 7 documents
+- `rules/411/320/`: 14 documents
+- `rules/411/323/`: 11 documents
+- `rules/411/325/`: 40 documents
+- `rules/411/328/`: 18 documents
+- `rules/411/340/`: 15 documents
+- `rules/411/345/`: 16 documents
+- `rules/411/346/`: 18 documents
+- `rules/411/348/`: 39 documents
+- `rules/411/360/`: 32 documents
+- `rules/411/370/`: 4 documents
+- `rules/411/375/`: 10 documents
+- `rules/411/380/`: 10 documents
+- `rules/411/390/`: 7 documents
+- `rules/411/415/`: 13 documents
+- `rules/411/425/`: 6 documents
+- `rules/411/435/`: 8 documents
+- `rules/411/450/`: 9 documents
+- `rules/411/455/`: 7 documents
+- `rules/413/001/`: 1 documents
+- `rules/413/002/`: 1 documents
+- `rules/413/005/`: 1 documents
+- `rules/413/010/`: 60 documents
+- `rules/413/015/`: 57 documents
+- `rules/413/017/`: 6 documents
+- `rules/413/020/`: 33 documents
+- `rules/413/030/`: 24 documents
+- `rules/413/040/`: 35 documents
+- `rules/413/050/`: 23 documents
+- `rules/413/053/`: 8 documents
+- `rules/413/055/`: 9 documents
+- `rules/413/060/`: 9 documents
+- `rules/413/070/`: 88 documents
+- `rules/413/080/`: 11 documents
+- `rules/413/090/`: 29 documents
+- `rules/413/095/`: 9 documents
+- `rules/413/100/`: 37 documents
+- `rules/413/105/`: 10 documents
+- `rules/413/110/`: 25 documents
+- `rules/413/115/`: 17 documents
+- `rules/413/120/`: 55 documents
+- `rules/413/130/`: 26 documents
+- `rules/413/200/`: 38 documents
+- `rules/413/208/`: 7 documents
+- `rules/413/215/`: 1 documents
+- `rules/413/310/`: 24 documents
+- `rules/413/330/`: 12 documents
+- `rules/413/350/`: 5 documents
+- `rules/414/002/`: 2 documents
+- `rules/414/050/`: 3 documents
+- `rules/414/061/`: 17 documents
+- `rules/414/100/`: 5 documents
+- `rules/414/150/`: 11 documents
+- `rules/414/180/`: 12 documents
+- `rules/414/205/`: 19 documents
+- `rules/414/300/`: 47 documents
+- `rules/414/350/`: 33 documents
+- `rules/414/400/`: 11 documents
+- `rules/414/425/`: 6 documents
+- `rules/414/450/`: 6 documents
+- `rules/414/460/`: 10 documents
+- `rules/414/470/`: 15 documents
+- `rules/414/500/`: 8 documents
+- `rules/414/525/`: 3 documents
+- `rules/414/575/`: 8 documents
+- `rules/414/600/`: 15 documents
+- `rules/414/700/`: 4 documents
+- `rules/414/800/`: 12 documents
+- `rules/414/900/`: 4 documents
+- `rules/415/001/`: 1 documents
+- `rules/415/012/`: 19 documents
+- `rules/415/020/`: 20 documents
+- `rules/415/050/`: 20 documents
+- `rules/415/052/`: 3 documents
+- `rules/415/054/`: 31 documents
+- `rules/415/056/`: 5 documents
+- `rules/415/057/`: 16 documents
+- `rules/415/065/`: 13 documents
+- `rules/416/001/`: 4 documents
+- `rules/416/020/`: 6 documents
+- `rules/416/040/`: 4 documents
+- `rules/416/050/`: 2 documents
+- `rules/416/060/`: 8 documents
+- `rules/416/070/`: 6 documents
+- `rules/416/100/`: 8 documents
+- `rules/416/105/`: 4 documents
+- `rules/416/115/`: 4 documents
+- `rules/416/130/`: 4 documents
+- `rules/416/150/`: 5 documents
+- `rules/416/170/`: 5 documents
+- `rules/416/180/`: 7 documents
+- `rules/416/250/`: 10 documents
+- `rules/416/255/`: 3 documents
+- `rules/416/260/`: 8 documents
+- `rules/416/300/`: 9 documents
+- `rules/416/315/`: 4 documents
+- `rules/416/320/`: 4 documents
+- `rules/416/330/`: 4 documents
+- `rules/416/335/`: 8 documents
+- `rules/416/340/`: 8 documents
+- `rules/416/345/`: 4 documents
+- `rules/416/410/`: 6 documents
+- `rules/416/415/`: 9 documents
+- `rules/416/420/`: 4 documents
+- `rules/416/425/`: 3 documents
+- `rules/416/430/`: 6 documents
+- `rules/416/435/`: 5 documents
+- `rules/416/440/`: 4 documents
+- `rules/416/470/`: 6 documents
+- `rules/416/480/`: 9 documents
+- `rules/416/490/`: 10 documents
+- `rules/416/500/`: 6 documents
+- `rules/416/530/`: 20 documents
+- `rules/416/550/`: 9 documents
+- `rules/416/700/`: 1 documents
+- `rules/416/800/`: 13 documents
+- `rules/418/010/`: 4 documents
+- `rules/418/020/`: 7 documents
+- `rules/418/030/`: 3 documents
+- `rules/418/040/`: 10 documents
+- `rules/419/050/`: 2 documents
+- `rules/419/100/`: 13 documents
+- `rules/419/105/`: 1 documents
+- `rules/419/110/`: 13 documents
+- `rules/419/120/`: 10 documents
+- `rules/419/130/`: 12 documents
+- `rules/419/210/`: 11 documents
+- `rules/419/220/`: 11 documents
+- `rules/419/230/`: 11 documents
+- `rules/419/240/`: 12 documents
+- `rules/419/400/`: 27 documents
+- `rules/419/410/`: 15 documents
+- `rules/419/420/`: 16 documents
+- `rules/419/430/`: 11 documents
+- `rules/419/440/`: 21 documents
+- `rules/419/450/`: 12 documents
+- `rules/419/460/`: 26 documents
+- `rules/419/470/`: 18 documents
+- `rules/419/490/`: 17 documents
+- `rules/423/001/`: 1 documents
+- `rules/423/100/`: 1 documents
+- `rules/423/110/`: 10 documents
+- `rules/423/125/`: 10 documents
+- `rules/423/150/`: 3 documents
+- `rules/423/155/`: 5 documents
+- `rules/423/160/`: 7 documents
+- `rules/431/121/`: 7 documents
+- `rules/436/001/`: 25 documents
+- `rules/436/008/`: 9 documents
+- `rules/436/009/`: 18 documents
+- `rules/436/010/`: 19 documents
+- `rules/436/015/`: 19 documents
+- `rules/436/030/`: 24 documents
+- `rules/436/035/`: 60 documents
+- `rules/436/040/`: 15 documents
+- `rules/436/045/`: 10 documents
+- `rules/436/050/`: 31 documents
+- `rules/436/055/`: 7 documents
+- `rules/436/060/`: 38 documents
+- `rules/436/070/`: 9 documents
+- `rules/436/075/`: 12 documents
+- `rules/436/080/`: 8 documents
+- `rules/436/085/`: 8 documents
+- `rules/436/100/`: 10 documents
+- `rules/436/105/`: 14 documents
+- `rules/436/110/`: 22 documents
+- `rules/436/120/`: 34 documents
+- `rules/436/140/`: 18 documents
+- `rules/436/150/`: 10 documents
+- `rules/436/160/`: 12 documents
+- `rules/436/162/`: 14 documents
+- `rules/436/170/`: 4 documents
+- `rules/436/180/`: 12 documents
+- `rules/437/001/`: 105 documents
+- `rules/437/002/`: 186 documents
+- `rules/437/003/`: 53 documents
+- `rules/437/004/`: 129 documents
+- `rules/437/005/`: 3 documents
+- `rules/437/007/`: 160 documents
+- `rules/437/081/`: 3 documents
+- `rules/438/005/`: 16 documents
+- `rules/438/006/`: 20 documents
+- `rules/438/007/`: 16 documents
+- `rules/438/009/`: 11 documents
+- `rules/438/010/`: 1 documents
+- `rules/438/011/`: 13 documents
+- `rules/438/012/`: 19 documents
+- `rules/438/015/`: 29 documents
+- `rules/438/016/`: 5 documents
+- `rules/438/019/`: 7 documents
+- `rules/438/020/`: 5 documents
+- `rules/438/021/`: 4 documents
+- `rules/438/022/`: 2 documents
+- `rules/438/082/`: 12 documents
+- `rules/438/085/`: 60 documents
+- `rules/440/001/`: 3 documents
+- `rules/440/005/`: 6 documents
+- `rules/440/015/`: 4 documents
+- `rules/440/020/`: 2 documents
+- `rules/440/045/`: 5 documents
+- `rules/440/055/`: 2 documents
+- `rules/440/100/`: 1 documents
+- `rules/440/150/`: 1 documents
+- `rules/441/001/`: 6 documents
+- `rules/441/005/`: 1 documents
+- `rules/441/011/`: 3 documents
+- `rules/441/025/`: 13 documents
+- `rules/441/035/`: 26 documents
+- `rules/441/045/`: 1 documents
+- `rules/441/049/`: 7 documents
+- `rules/441/065/`: 30 documents
+- `rules/441/075/`: 2 documents
+- `rules/441/085/`: 2 documents
+- `rules/441/095/`: 1 documents
+- `rules/441/135/`: 1 documents
+- `rules/441/175/`: 26 documents
+- `rules/441/195/`: 7 documents
+- `rules/441/205/`: 22 documents
+- `rules/441/225/`: 3 documents
+- `rules/441/300/`: 2 documents
+- `rules/441/325/`: 5 documents
+- `rules/441/446/`: 7 documents
+- `rules/441/500/`: 2 documents
+- `rules/441/505/`: 24 documents
+- `rules/441/646/`: 4 documents
+- `rules/441/710/`: 26 documents
+- `rules/441/720/`: 30 documents
+- `rules/441/730/`: 33 documents
+- `rules/441/740/`: 10 documents
+- `rules/441/745/`: 6 documents
+- `rules/441/755/`: 15 documents
+- `rules/441/810/`: 23 documents
+- `rules/441/820/`: 18 documents
+- `rules/441/850/`: 6 documents
+- `rules/441/855/`: 1 documents
+- `rules/441/860/`: 16 documents
+- `rules/441/865/`: 9 documents
+- `rules/441/870/`: 10 documents
+- `rules/441/875/`: 3 documents
+- `rules/441/880/`: 14 documents
+- `rules/441/885/`: 1 documents
+- `rules/441/890/`: 15 documents
+- `rules/441/910/`: 16 documents
+- `rules/441/930/`: 25 documents
+- `rules/459/001/`: 10 documents
+- `rules/459/005/`: 43 documents
+- `rules/459/007/`: 37 documents
+- `rules/459/009/`: 16 documents
+- `rules/459/010/`: 18 documents
+- `rules/459/011/`: 7 documents
+- `rules/459/013/`: 8 documents
+- `rules/459/014/`: 3 documents
+- `rules/459/015/`: 12 documents
+- `rules/459/016/`: 1 documents
+- `rules/459/017/`: 1 documents
+- `rules/459/020/`: 3 documents
+- `rules/459/030/`: 5 documents
+- `rules/459/035/`: 13 documents
+- `rules/459/040/`: 9 documents
+- `rules/459/045/`: 14 documents
+- `rules/459/050/`: 28 documents
+- `rules/459/060/`: 7 documents
+- `rules/459/070/`: 4 documents
+- `rules/459/075/`: 10 documents
+- `rules/459/076/`: 8 documents
+- `rules/459/080/`: 14 documents
+- `rules/461/001/`: 8 documents
+- `rules/461/025/`: 13 documents
+- `rules/461/101/`: 1 documents
+- `rules/461/105/`: 13 documents
+- `rules/461/110/`: 10 documents
+- `rules/461/115/`: 21 documents
+- `rules/461/120/`: 16 documents
+- `rules/461/125/`: 8 documents
+- `rules/461/130/`: 7 documents
+- `rules/461/135/`: 95 documents
+- `rules/461/140/`: 14 documents
+- `rules/461/145/`: 101 documents
+- `rules/461/150/`: 9 documents
+- `rules/461/155/`: 36 documents
+- `rules/461/160/`: 33 documents
+- `rules/461/165/`: 26 documents
+- `rules/461/170/`: 10 documents
+- `rules/461/175/`: 21 documents
+- `rules/461/180/`: 24 documents
+- `rules/461/185/`: 4 documents
+- `rules/461/190/`: 20 documents
+- `rules/461/191/`: 8 documents
+- `rules/461/192/`: 4 documents
+- `rules/461/195/`: 17 documents
+- `rules/462/001/`: 5 documents
+- `rules/462/110/`: 1 documents
+- `rules/462/120/`: 12 documents
+- `rules/462/130/`: 7 documents
+- `rules/462/140/`: 39 documents
+- `rules/462/150/`: 11 documents
+- `rules/462/160/`: 5 documents
+- `rules/462/200/`: 70 documents
+- `rules/462/210/`: 4 documents
+- `rules/462/220/`: 11 documents
+- `rules/462/230/`: 2 documents
+- `rules/471/007/`: 5 documents
+- `rules/471/008/`: 1 documents
+- `rules/471/010/`: 20 documents
+- `rules/471/012/`: 4 documents
+- `rules/471/015/`: 4 documents
+- `rules/471/020/`: 6 documents
+- `rules/471/030/`: 58 documents
+- `rules/471/031/`: 48 documents
+- `rules/471/040/`: 14 documents
+- `rules/471/041/`: 11 documents
+- `rules/471/060/`: 1 documents
+- `rules/543/001/`: 3 documents
+- `rules/543/010/`: 9 documents
+- `rules/543/020/`: 5 documents
+- `rules/543/040/`: 9 documents
+- `rules/543/060/`: 6 documents
+- `rules/543/070/`: 1 documents
+- `rules/543/080/`: 3 documents
+- `rules/573/050/`: 10 documents
+- `rules/575/001/`: 6 documents
+- `rules/575/030/`: 1 documents
+- `rules/575/031/`: 14 documents
+- `rules/575/035/`: 12 documents
+- `rules/575/037/`: 4 documents
+- `rules/575/038/`: 5 documents
+- `rules/575/039/`: 13 documents
+- `rules/575/045/`: 1 documents
+- `rules/575/050/`: 11 documents
+- `rules/575/060/`: 11 documents
+- `rules/575/063/`: 4 documents
+- `rules/575/065/`: 7 documents
+- `rules/575/066/`: 4 documents
+- `rules/575/067/`: 5 documents
+- `rules/575/070/`: 11 documents
+- `rules/575/071/`: 9 documents
+- `rules/575/072/`: 10 documents
+- `rules/575/073/`: 8 documents
+- `rules/575/074/`: 7 documents
+- `rules/575/075/`: 15 documents
+- `rules/575/076/`: 5 documents
+- `rules/575/080/`: 7 documents
+- `rules/575/085/`: 7 documents
+- `rules/575/090/`: 5 documents
+- `rules/575/095/`: 9 documents
+- `rules/581/001/`: 10 documents
+- `rules/581/002/`: 19 documents
+- `rules/581/010/`: 1 documents
+- `rules/581/011/`: 17 documents
+- `rules/581/012/`: 11 documents
+- `rules/581/013/`: 7 documents
+- `rules/581/014/`: 4 documents
+- `rules/581/015/`: 177 documents
+- `rules/581/016/`: 26 documents
+- `rules/581/017/`: 125 documents
+- `rules/581/018/`: 81 documents
+- `rules/581/020/`: 47 documents
+- `rules/581/021/`: 82 documents
+- `rules/581/022/`: 59 documents
+- `rules/581/023/`: 23 documents
+- `rules/581/024/`: 29 documents
+- `rules/581/025/`: 4 documents
+- `rules/581/026/`: 24 documents
+- `rules/581/027/`: 11 documents
+- `rules/581/028/`: 3 documents
+- `rules/581/029/`: 1 documents
+- `rules/581/037/`: 4 documents
+- `rules/581/044/`: 6 documents
+- `rules/581/045/`: 3 documents
+- `rules/581/051/`: 22 documents
+- `rules/581/053/`: 47 documents
+- `rules/581/054/`: 6 documents
+- `rules/581/055/`: 6 documents
+- `rules/582/001/`: 1 documents
+- `rules/582/010/`: 8 documents
+- `rules/582/020/`: 19 documents
+- `rules/582/030/`: 9 documents
+- `rules/582/050/`: 6 documents
+- `rules/582/060/`: 2 documents
+- `rules/582/070/`: 9 documents
+- `rules/582/072/`: 10 documents
+- `rules/582/075/`: 4 documents
+- `rules/582/080/`: 5 documents
+- `rules/582/085/`: 2 documents
+- `rules/582/090/`: 3 documents
+- `rules/582/100/`: 6 documents
+- `rules/582/115/`: 9 documents
+- `rules/582/150/`: 11 documents
+- `rules/582/190/`: 1 documents
+- `rules/583/001/`: 3 documents
+- `rules/583/030/`: 27 documents
+- `rules/583/050/`: 9 documents
+- `rules/583/070/`: 4 documents
+- `rules/584/001/`: 5 documents
+- `rules/584/005/`: 1 documents
+- `rules/584/010/`: 5 documents
+- `rules/584/017/`: 8 documents
+- `rules/584/018/`: 10 documents
+- `rules/584/019/`: 6 documents
+- `rules/584/020/`: 11 documents
+- `rules/584/021/`: 25 documents
+- `rules/584/023/`: 3 documents
+- `rules/584/044/`: 9 documents
+- `rules/584/046/`: 8 documents
+- `rules/584/050/`: 18 documents
+- `rules/584/070/`: 20 documents
+- `rules/584/080/`: 12 documents
+- `rules/584/200/`: 12 documents
+- `rules/584/210/`: 19 documents
+- `rules/584/220/`: 42 documents
+- `rules/584/225/`: 10 documents
+- `rules/584/230/`: 11 documents
+- `rules/584/235/`: 6 documents
+- `rules/584/255/`: 3 documents
+- `rules/584/400/`: 18 documents
+- `rules/584/410/`: 5 documents
+- `rules/584/420/`: 26 documents
+- `rules/584/430/`: 2 documents
+- `rules/585/001/`: 7 documents
+- `rules/585/005/`: 12 documents
+- `rules/585/010/`: 4 documents
+- `rules/585/015/`: 12 documents
+- `rules/585/020/`: 10 documents
+- `rules/585/030/`: 11 documents
+- `rules/586/001/`: 2 documents
+- `rules/586/010/`: 14 documents
+- `rules/586/030/`: 15 documents
+- `rules/589/001/`: 4 documents
+- `rules/589/002/`: 11 documents
+- `rules/589/003/`: 1 documents
+- `rules/589/004/`: 14 documents
+- `rules/589/005/`: 5 documents
+- `rules/589/007/`: 15 documents
+- `rules/589/008/`: 2 documents
+- `rules/589/009/`: 1 documents
+- `rules/589/020/`: 4 documents
+- `rules/603/001/`: 16 documents
+- `rules/603/005/`: 1 documents
+- `rules/603/009/`: 8 documents
+- `rules/603/010/`: 7 documents
+- `rules/603/011/`: 52 documents
+- `rules/603/012/`: 21 documents
+- `rules/603/013/`: 16 documents
+- `rules/603/014/`: 17 documents
+- `rules/603/015/`: 25 documents
+- `rules/603/017/`: 11 documents
+- `rules/603/018/`: 6 documents
+- `rules/603/019/`: 9 documents
+- `rules/603/020/`: 7 documents
+- `rules/603/021/`: 27 documents
+- `rules/603/022/`: 34 documents
+- `rules/603/024/`: 67 documents
+- `rules/603/025/`: 36 documents
+- `rules/603/027/`: 30 documents
+- `rules/603/028/`: 30 documents
+- `rules/603/032/`: 15 documents
+- `rules/603/042/`: 11 documents
+- `rules/603/043/`: 5 documents
+- `rules/603/047/`: 6 documents
+- `rules/603/048/`: 32 documents
+- `rules/603/050/`: 8 documents
+- `rules/603/051/`: 122 documents
+- `rules/603/052/`: 92 documents
+- `rules/603/053/`: 9 documents
+- `rules/603/054/`: 19 documents
+- `rules/603/055/`: 2 documents
+- `rules/603/056/`: 29 documents
+- `rules/603/057/`: 62 documents
+- `rules/603/058/`: 20 documents
+- `rules/603/059/`: 10 documents
+- `rules/603/060/`: 9 documents
+- `rules/603/070/`: 4 documents
+- `rules/603/071/`: 6 documents
+- `rules/603/072/`: 5 documents
+- `rules/603/073/`: 14 documents
+- `rules/603/074/`: 13 documents
+- `rules/603/075/`: 10 documents
+- `rules/603/076/`: 6 documents
+- `rules/603/077/`: 26 documents
+- `rules/603/080/`: 7 documents
+- `rules/603/082/`: 10 documents
+- `rules/603/090/`: 13 documents
+- `rules/603/095/`: 172 documents
+- `rules/603/100/`: 11 documents
+- `rules/603/110/`: 11 documents
+- `rules/603/111/`: 4 documents
+- `rules/604/001/`: 1 documents
+- `rules/604/010/`: 3 documents
+- `rules/604/030/`: 4 documents
+- `rules/604/040/`: 6 documents
+- `rules/605/001/`: 2 documents
+- `rules/605/010/`: 5 documents
+- `rules/605/020/`: 3 documents
+- `rules/605/030/`: 4 documents
+- `rules/607/001/`: 1 documents
+- `rules/607/010/`: 4 documents
+- `rules/607/030/`: 4 documents
+- `rules/607/040/`: 6 documents
+- `rules/609/010/`: 5 documents
+- `rules/611/001/`: 1 documents
+- `rules/611/010/`: 5 documents
+- `rules/611/020/`: 6 documents
+- `rules/611/030/`: 4 documents
+- `rules/611/040/`: 3 documents
+- `rules/617/001/`: 1 documents
+- `rules/617/010/`: 7 documents
+- `rules/617/020/`: 1 documents
+- `rules/617/030/`: 4 documents
+- `rules/617/040/`: 3 documents
+- `rules/619/001/`: 6 documents
+- `rules/623/001/`: 1 documents
+- `rules/623/010/`: 3 documents
+- `rules/623/020/`: 6 documents
+- `rules/623/030/`: 3 documents
+- `rules/623/040/`: 3 documents
+- `rules/624/001/`: 1 documents
+- `rules/624/010/`: 7 documents
+- `rules/624/030/`: 4 documents
+- `rules/624/040/`: 3 documents
+- `rules/628/001/`: 2 documents
+- `rules/628/010/`: 7 documents
+- `rules/628/020/`: 3 documents
+- `rules/629/001/`: 14 documents
+- `rules/629/010/`: 14 documents
+- `rules/629/020/`: 9 documents
+- `rules/629/021/`: 11 documents
+- `rules/629/022/`: 30 documents
+- `rules/629/023/`: 9 documents
+- `rules/629/025/`: 17 documents
+- `rules/629/028/`: 8 documents
+- `rules/629/029/`: 29 documents
+- `rules/629/031/`: 9 documents
+- `rules/629/032/`: 5 documents
+- `rules/629/033/`: 12 documents
+- `rules/629/034/`: 3 documents
+- `rules/629/035/`: 15 documents
+- `rules/629/041/`: 21 documents
+- `rules/629/042/`: 2 documents
+- `rules/629/043/`: 14 documents
+- `rules/629/044/`: 30 documents
+- `rules/629/045/`: 10 documents
+- `rules/629/046/`: 6 documents
+- `rules/629/047/`: 26 documents
+- `rules/629/048/`: 26 documents
+- `rules/629/051/`: 3 documents
+- `rules/629/065/`: 6 documents
+- `rules/629/160/`: 2 documents
+- `rules/629/165/`: 11 documents
+- `rules/629/170/`: 9 documents
+- `rules/629/600/`: 2 documents
+- `rules/629/605/`: 18 documents
+- `rules/629/610/`: 11 documents
+- `rules/629/611/`: 3 documents
+- `rules/629/620/`: 9 documents
+- `rules/629/623/`: 12 documents
+- `rules/629/625/`: 17 documents
+- `rules/629/630/`: 10 documents
+- `rules/629/635/`: 9 documents
+- `rules/629/642/`: 11 documents
+- `rules/629/645/`: 6 documents
+- `rules/629/650/`: 6 documents
+- `rules/629/655/`: 1 documents
+- `rules/629/660/`: 3 documents
+- `rules/629/665/`: 9 documents
+- `rules/629/670/`: 20 documents
+- `rules/629/672/`: 5 documents
+- `rules/629/674/`: 2 documents
+- `rules/629/676/`: 3 documents
+- `rules/629/680/`: 14 documents
+- `rules/632/001/`: 8 documents
+- `rules/632/005/`: 10 documents
+- `rules/632/007/`: 4 documents
+- `rules/632/010/`: 58 documents
+- `rules/632/015/`: 12 documents
+- `rules/632/020/`: 41 documents
+- `rules/632/030/`: 25 documents
+- `rules/632/033/`: 11 documents
+- `rules/632/035/`: 14 documents
+- `rules/632/037/`: 32 documents
+- `rules/632/038/`: 8 documents
+- `rules/635/001/`: 31 documents
+- `rules/635/002/`: 12 documents
+- `rules/635/003/`: 6 documents
+- `rules/635/004/`: 98 documents
+- `rules/635/005/`: 152 documents
+- `rules/635/006/`: 61 documents
+- `rules/635/007/`: 54 documents
+- `rules/635/008/`: 52 documents
+- `rules/635/009/`: 35 documents
+- `rules/635/010/`: 36 documents
+- `rules/635/011/`: 8 documents
+- `rules/635/012/`: 15 documents
+- `rules/635/013/`: 5 documents
+- `rules/635/014/`: 2 documents
+- `rules/635/017/`: 3 documents
+- `rules/635/018/`: 2 documents
+- `rules/635/019/`: 2 documents
+- `rules/635/021/`: 2 documents
+- `rules/635/023/`: 9 documents
+- `rules/635/039/`: 3 documents
+- `rules/635/040/`: 18 documents
+- `rules/635/041/`: 29 documents
+- `rules/635/042/`: 25 documents
+- `rules/635/043/`: 24 documents
+- `rules/635/044/`: 21 documents
+- `rules/635/045/`: 2 documents
+- `rules/635/046/`: 5 documents
+- `rules/635/047/`: 11 documents
+- `rules/635/048/`: 10 documents
+- `rules/635/049/`: 39 documents
+- `rules/635/050/`: 22 documents
+- `rules/635/051/`: 20 documents
+- `rules/635/052/`: 4 documents
+- `rules/635/053/`: 11 documents
+- `rules/635/054/`: 7 documents
+- `rules/635/055/`: 16 documents
+- `rules/635/056/`: 17 documents
+- `rules/635/057/`: 1 documents
+- `rules/635/058/`: 3 documents
+- `rules/635/059/`: 3 documents
+- `rules/635/060/`: 11 documents
+- `rules/635/062/`: 13 documents
+- `rules/635/064/`: 2 documents
+- `rules/635/065/`: 28 documents
+- `rules/635/066/`: 5 documents
+- `rules/635/067/`: 18 documents
+- `rules/635/068/`: 6 documents
+- `rules/635/069/`: 3 documents
+- `rules/635/070/`: 6 documents
+- `rules/635/071/`: 6 documents
+- `rules/635/072/`: 2 documents
+- `rules/635/073/`: 18 documents
+- `rules/635/074/`: 6 documents
+- `rules/635/075/`: 17 documents
+- `rules/635/078/`: 4 documents
+- `rules/635/079/`: 3 documents
+- `rules/635/080/`: 68 documents
+- `rules/635/090/`: 18 documents
+- `rules/635/098/`: 7 documents
+- `rules/635/100/`: 30 documents
+- `rules/635/105/`: 5 documents
+- `rules/635/110/`: 5 documents
+- `rules/635/120/`: 4 documents
+- `rules/635/130/`: 6 documents
+- `rules/635/135/`: 1 documents
+- `rules/635/140/`: 6 documents
+- `rules/635/160/`: 3 documents
+- `rules/635/170/`: 4 documents
+- `rules/635/180/`: 1 documents
+- `rules/635/190/`: 3 documents
+- `rules/635/195/`: 1 documents
+- `rules/635/200/`: 15 documents
+- `rules/635/300/`: 4 documents
+- `rules/635/400/`: 10 documents
+- `rules/635/405/`: 10 documents
+- `rules/635/410/`: 8 documents
+- `rules/635/412/`: 8 documents
+- `rules/635/415/`: 6 documents
+- `rules/635/420/`: 13 documents
+- `rules/635/425/`: 11 documents
+- `rules/635/430/`: 27 documents
+- `rules/635/435/`: 11 documents
+- `rules/635/440/`: 8 documents
+- `rules/635/500/`: 354 documents
+- `rules/635/600/`: 11 documents
+- `rules/635/800/`: 2 documents
+- `rules/635/900/`: 9 documents
+- `rules/642/001/`: 1 documents
+- `rules/642/010/`: 5 documents
+- `rules/642/020/`: 3 documents
+- `rules/642/030/`: 3 documents
+- `rules/642/040/`: 6 documents
+- `rules/643/001/`: 2 documents
+- `rules/643/010/`: 5 documents
+- `rules/643/030/`: 4 documents
+- `rules/644/001/`: 1 documents
+- `rules/644/005/`: 6 documents
+- `rules/644/010/`: 5 documents
+- `rules/644/030/`: 4 documents
+- `rules/644/040/`: 3 documents
+- `rules/645/001/`: 1 documents
+- `rules/645/010/`: 5 documents
+- `rules/645/020/`: 6 documents
+- `rules/645/030/`: 4 documents
+- `rules/645/040/`: 3 documents
+- `rules/646/001/`: 1 documents
+- `rules/646/010/`: 6 documents
+- `rules/646/020/`: 6 documents
+- `rules/646/040/`: 3 documents
+- `rules/647/001/`: 1 documents
+- `rules/647/010/`: 5 documents
+- `rules/647/015/`: 3 documents
+- `rules/647/020/`: 6 documents
+- `rules/647/040/`: 3 documents
+- `rules/656/001/`: 1 documents
+- `rules/656/010/`: 5 documents
+- `rules/656/020/`: 6 documents
+- `rules/656/030/`: 4 documents
+- `rules/656/040/`: 3 documents
+- `rules/657/001/`: 1 documents
+- `rules/657/010/`: 4 documents
+- `rules/657/020/`: 3 documents
+- `rules/657/030/`: 3 documents
+- `rules/657/040/`: 6 documents
+- `rules/658/001/`: 1 documents
+- `rules/658/010/`: 5 documents
+- `rules/658/020/`: 6 documents
+- `rules/658/030/`: 3 documents
+- `rules/658/040/`: 3 documents
+- `rules/658/050/`: 6 documents
+- `rules/660/001/`: 10 documents
+- `rules/660/002/`: 4 documents
+- `rules/660/003/`: 8 documents
+- `rules/660/004/`: 13 documents
+- `rules/660/006/`: 18 documents
+- `rules/660/008/`: 15 documents
+- `rules/660/009/`: 7 documents
+- `rules/660/011/`: 13 documents
+- `rules/660/012/`: 16 documents
+- `rules/660/013/`: 12 documents
+- `rules/660/014/`: 6 documents
+- `rules/660/015/`: 3 documents
+- `rules/660/016/`: 6 documents
+- `rules/660/017/`: 7 documents
+- `rules/660/018/`: 14 documents
+- `rules/660/020/`: 2 documents
+- `rules/660/021/`: 9 documents
+- `rules/660/022/`: 8 documents
+- `rules/660/023/`: 26 documents
+- `rules/660/024/`: 12 documents
+- `rules/660/025/`: 25 documents
+- `rules/660/027/`: 9 documents
+- `rules/660/028/`: 3 documents
+- `rules/660/029/`: 13 documents
+- `rules/660/030/`: 13 documents
+- `rules/660/031/`: 9 documents
+- `rules/660/032/`: 5 documents
+- `rules/660/033/`: 14 documents
+- `rules/660/034/`: 8 documents
+- `rules/660/035/`: 9 documents
+- `rules/660/036/`: 6 documents
+- `rules/660/037/`: 9 documents
+- `rules/660/038/`: 22 documents
+- `rules/660/039/`: 11 documents
+- `rules/660/040/`: 1 documents
+- `rules/660/041/`: 22 documents
+- `rules/660/043/`: 1 documents
+- `rules/660/044/`: 11 documents
+- `rules/660/045/`: 19 documents
+- `rules/660/046/`: 29 documents
+- `rules/661/001/`: 2 documents
+- `rules/661/010/`: 23 documents
+- `rules/664/001/`: 1 documents
+- `rules/664/010/`: 5 documents
+- `rules/664/015/`: 3 documents
+- `rules/664/020/`: 3 documents
+- `rules/664/030/`: 6 documents
+- `rules/668/001/`: 1 documents
+- `rules/668/010/`: 5 documents
+- `rules/668/020/`: 6 documents
+- `rules/668/030/`: 4 documents
+- `rules/668/040/`: 3 documents
+- `rules/669/001/`: 1 documents
+- `rules/669/010/`: 6 documents
+- `rules/669/030/`: 7 documents
+- `rules/670/001/`: 1 documents
+- `rules/670/010/`: 6 documents
+- `rules/670/020/`: 3 documents
+- `rules/670/030/`: 3 documents
+- `rules/670/040/`: 6 documents
+- `rules/678/001/`: 1 documents
+- `rules/678/005/`: 6 documents
+- `rules/678/010/`: 5 documents
+- `rules/678/020/`: 6 documents
+- `rules/678/030/`: 6 documents
+- `rules/690/001/`: 2 documents
+- `rules/690/002/`: 11 documents
+- `rules/690/003/`: 8 documents
+- `rules/690/004/`: 3 documents
+- `rules/690/005/`: 11 documents
+- `rules/690/008/`: 1 documents
+- `rules/690/009/`: 5 documents
+- `rules/690/010/`: 5 documents
+- `rules/690/012/`: 5 documents
+- `rules/690/013/`: 13 documents
+- `rules/690/014/`: 11 documents
+- `rules/690/017/`: 11 documents
+- `rules/690/018/`: 10 documents
+- `rules/690/019/`: 15 documents
+- `rules/690/020/`: 34 documents
+- `rules/690/022/`: 3 documents
+- `rules/690/025/`: 3 documents
+- `rules/690/028/`: 17 documents
+- `rules/690/029/`: 3 documents
+- `rules/690/030/`: 18 documents
+- `rules/690/033/`: 13 documents
+- `rules/690/040/`: 1 documents
+- `rules/690/051/`: 35 documents
+- `rules/690/052/`: 17 documents
+- `rules/690/053/`: 11 documents
+- `rules/690/076/`: 8 documents
+- `rules/690/077/`: 30 documents
+- `rules/690/078/`: 12 documents
+- `rules/690/079/`: 17 documents
+- `rules/690/080/`: 1 documents
+- `rules/690/082/`: 8 documents
+- `rules/690/085/`: 6 documents
+- `rules/690/086/`: 31 documents
+- `rules/690/090/`: 18 documents
+- `rules/690/093/`: 19 documents
+- `rules/690/095/`: 20 documents
+- `rules/690/190/`: 4 documents
+- `rules/690/200/`: 15 documents
+- `rules/690/205/`: 19 documents
+- `rules/690/210/`: 38 documents
+- `rules/690/215/`: 19 documents
+- `rules/690/217/`: 11 documents
+- `rules/690/220/`: 15 documents
+- `rules/690/225/`: 7 documents
+- `rules/690/230/`: 18 documents
+- `rules/690/235/`: 2 documents
+- `rules/690/240/`: 58 documents
+- `rules/690/250/`: 17 documents
+- `rules/690/260/`: 13 documents
+- `rules/690/300/`: 1 documents
+- `rules/690/310/`: 31 documents
+- `rules/690/315/`: 10 documents
+- `rules/690/320/`: 7 documents
+- `rules/690/325/`: 11 documents
+- `rules/690/330/`: 4 documents
+- `rules/690/340/`: 5 documents
+- `rules/690/350/`: 6 documents
+- `rules/690/380/`: 52 documents
+- `rules/690/382/`: 14 documents
+- `rules/690/385/`: 45 documents
+- `rules/690/400/`: 2 documents
+- `rules/690/410/`: 8 documents
+- `rules/690/500/`: 2 documents
+- `rules/690/501/`: 4 documents
+- `rules/690/502/`: 25 documents
+- `rules/690/503/`: 6 documents
+- `rules/690/504/`: 10 documents
+- `rules/690/505/`: 15 documents
+- `rules/690/506/`: 8 documents
+- `rules/690/507/`: 34 documents
+- `rules/690/508/`: 9 documents
+- `rules/690/509/`: 10 documents
+- `rules/690/510/`: 4 documents
+- `rules/690/511/`: 4 documents
+- `rules/690/512/`: 4 documents
+- `rules/690/513/`: 6 documents
+- `rules/690/515/`: 7 documents
+- `rules/690/516/`: 4 documents
+- `rules/690/517/`: 5 documents
+- `rules/690/518/`: 5 documents
+- `rules/690/519/`: 6 documents
+- `rules/690/520/`: 1 documents
+- `rules/690/521/`: 6 documents
+- `rules/690/522/`: 7 documents
+- `rules/690/600/`: 8 documents
+- `rules/695/001/`: 2 documents
+- `rules/695/003/`: 4 documents
+- `rules/695/004/`: 3 documents
+- `rules/695/005/`: 8 documents
+- `rules/695/010/`: 11 documents
+- `rules/695/015/`: 10 documents
+- `rules/695/025/`: 9 documents
+- `rules/695/035/`: 9 documents
+- `rules/695/040/`: 10 documents
+- `rules/695/045/`: 14 documents
+- `rules/695/046/`: 16 documents
+- `rules/695/047/`: 14 documents
+- `rules/695/050/`: 9 documents
+- `rules/698/005/`: 10 documents
+- `rules/698/010/`: 15 documents
+- `rules/698/015/`: 18 documents
+- `rules/698/020/`: 9 documents
+- `rules/698/025/`: 11 documents
+- `rules/705/001/`: 3 documents
+- `rules/705/010/`: 16 documents
+- `rules/705/050/`: 1 documents
+- `rules/710/001/`: 2 documents
+- `rules/710/005/`: 1 documents
+- `rules/710/010/`: 1 documents
+- `rules/710/015/`: 1 documents
+- `rules/715/001/`: 2 documents
+- `rules/715/010/`: 3 documents
+- `rules/715/011/`: 18 documents
+- `rules/715/013/`: 9 documents
+- `rules/715/015/`: 1 documents
+- `rules/715/017/`: 2 documents
+- `rules/715/020/`: 1 documents
+- `rules/715/100/`: 1 documents
+- `rules/731/001/`: 7 documents
+- `rules/731/003/`: 1 documents
+- `rules/731/005/`: 38 documents
+- `rules/731/007/`: 22 documents
+- `rules/731/012/`: 14 documents
+- `rules/731/015/`: 15 documents
+- `rules/731/017/`: 11 documents
+- `rules/731/020/`: 2 documents
+- `rules/731/030/`: 13 documents
+- `rules/731/035/`: 9 documents
+- `rules/731/036/`: 12 documents
+- `rules/731/040/`: 14 documents
+- `rules/731/050/`: 2 documents
+- `rules/731/060/`: 8 documents
+- `rules/731/070/`: 31 documents
+- `rules/731/090/`: 10 documents
+- `rules/731/146/`: 15 documents
+- `rules/731/147/`: 3 documents
+- `rules/731/148/`: 13 documents
+- `rules/731/149/`: 1 documents
+- `rules/732/005/`: 18 documents
+- `rules/732/010/`: 8 documents
+- `rules/732/020/`: 8 documents
+- `rules/732/030/`: 7 documents
+- `rules/732/035/`: 8 documents
+- `rules/732/040/`: 12 documents
+- `rules/732/042/`: 9 documents
+- `rules/732/044/`: 11 documents
+- `rules/733/001/`: 7 documents
+- `rules/733/030/`: 32 documents
+- `rules/734/001/`: 2 documents
+- `rules/734/005/`: 3 documents
+- `rules/734/010/`: 17 documents
+- `rules/734/017/`: 6 documents
+- `rules/734/020/`: 45 documents
+- `rules/734/024/`: 5 documents
+- `rules/734/026/`: 5 documents
+- `rules/734/029/`: 6 documents
+- `rules/734/030/`: 7 documents
+- `rules/734/031/`: 7 documents
+- `rules/734/032/`: 8 documents
+- `rules/734/035/`: 17 documents
+- `rules/734/040/`: 6 documents
+- `rules/734/050/`: 1 documents
+- `rules/734/051/`: 48 documents
+- `rules/734/055/`: 16 documents
+- `rules/734/056/`: 5 documents
+- `rules/734/057/`: 2 documents
+- `rules/734/058/`: 8 documents
+- `rules/734/059/`: 9 documents
+- `rules/734/060/`: 13 documents
+- `rules/734/062/`: 14 documents
+- `rules/734/063/`: 2 documents
+- `rules/734/064/`: 8 documents
+- `rules/734/065/`: 8 documents
+- `rules/734/070/`: 12 documents
+- `rules/734/071/`: 7 documents
+- `rules/734/072/`: 10 documents
+- `rules/734/073/`: 15 documents
+- `rules/734/074/`: 18 documents
+- `rules/734/075/`: 21 documents
+- `rules/734/076/`: 15 documents
+- `rules/734/077/`: 9 documents
+- `rules/734/078/`: 10 documents
+- `rules/734/079/`: 3 documents
+- `rules/734/080/`: 1 documents
+- `rules/734/082/`: 29 documents
+- `rules/735/001/`: 5 documents
+- `rules/735/010/`: 26 documents
+- `rules/735/012/`: 1 documents
+- `rules/735/014/`: 1 documents
+- `rules/735/016/`: 7 documents
+- `rules/735/018/`: 17 documents
+- `rules/735/020/`: 14 documents
+- `rules/735/022/`: 14 documents
+- `rules/735/024/`: 15 documents
+- `rules/735/026/`: 2 documents
+- `rules/735/028/`: 16 documents
+- `rules/735/030/`: 14 documents
+- `rules/735/032/`: 6 documents
+- `rules/735/034/`: 6 documents
+- `rules/735/040/`: 17 documents
+- `rules/735/042/`: 7 documents
+- `rules/735/046/`: 7 documents
+- `rules/735/048/`: 8 documents
+- `rules/735/050/`: 13 documents
+- `rules/735/060/`: 17 documents
+- `rules/735/061/`: 8 documents
+- `rules/735/062/`: 53 documents
+- `rules/735/063/`: 23 documents
+- `rules/735/064/`: 12 documents
+- `rules/735/070/`: 20 documents
+- `rules/735/072/`: 7 documents
+- `rules/735/074/`: 16 documents
+- `rules/735/076/`: 13 documents
+- `rules/735/080/`: 8 documents
+- `rules/735/090/`: 11 documents
+- `rules/735/100/`: 3 documents
+- `rules/735/102/`: 3 documents
+- `rules/735/104/`: 1 documents
+- `rules/735/106/`: 1 documents
+- `rules/735/108/`: 19 documents
+- `rules/735/110/`: 6 documents
+- `rules/735/112/`: 1 documents
+- `rules/735/114/`: 3 documents
+- `rules/735/116/`: 1 documents
+- `rules/735/120/`: 2 documents
+- `rules/735/122/`: 1 documents
+- `rules/735/124/`: 21 documents
+- `rules/735/126/`: 3 documents
+- `rules/735/128/`: 6 documents
+- `rules/735/130/`: 1 documents
+- `rules/735/150/`: 35 documents
+- `rules/735/152/`: 15 documents
+- `rules/735/154/`: 6 documents
+- `rules/735/158/`: 3 documents
+- `rules/735/160/`: 18 documents
+- `rules/735/162/`: 8 documents
+- `rules/735/164/`: 3 documents
+- `rules/735/170/`: 16 documents
+- `rules/735/174/`: 7 documents
+- `rules/735/176/`: 12 documents
+- `rules/736/001/`: 3 documents
+- `rules/736/002/`: 14 documents
+- `rules/736/003/`: 1 documents
+- `rules/736/004/`: 22 documents
+- `rules/736/005/`: 4 documents
+- `rules/736/006/`: 9 documents
+- `rules/736/007/`: 9 documents
+- `rules/736/008/`: 9 documents
+- `rules/736/009/`: 6 documents
+- `rules/736/010/`: 16 documents
+- `rules/736/015/`: 9 documents
+- `rules/736/017/`: 10 documents
+- `rules/736/018/`: 26 documents
+- `rules/736/019/`: 8 documents
+- `rules/736/020/`: 19 documents
+- `rules/736/021/`: 16 documents
+- `rules/736/022/`: 2 documents
+- `rules/736/023/`: 4 documents
+- `rules/736/024/`: 9 documents
+- `rules/736/025/`: 1 documents
+- `rules/736/026/`: 3 documents
+- `rules/736/027/`: 9 documents
+- `rules/736/028/`: 7 documents
+- `rules/736/029/`: 4 documents
+- `rules/736/030/`: 13 documents
+- `rules/736/040/`: 42 documents
+- `rules/736/045/`: 34 documents
+- `rules/736/050/`: 15 documents
+- `rules/736/051/`: 10 documents
+- `rules/736/052/`: 6 documents
+- `rules/736/053/`: 22 documents
+- `rules/736/054/`: 15 documents
+- `rules/736/055/`: 3 documents
+- `rules/736/056/`: 9 documents
+- `rules/736/057/`: 17 documents
+- `rules/736/060/`: 7 documents
+- `rules/736/070/`: 8 documents
+- `rules/736/080/`: 8 documents
+- `rules/736/100/`: 9 documents
+- `rules/736/146/`: 14 documents
+- `rules/736/147/`: 6 documents
+- `rules/736/148/`: 2 documents
+- `rules/736/149/`: 1 documents
+- `rules/737/010/`: 4 documents
+- `rules/737/015/`: 16 documents
+- `rules/737/020/`: 9 documents
+- `rules/737/025/`: 15 documents
+- `rules/737/100/`: 3 documents
+- `rules/738/001/`: 3 documents
+- `rules/738/005/`: 1 documents
+- `rules/738/010/`: 10 documents
+- `rules/738/014/`: 7 documents
+- `rules/738/015/`: 20 documents
+- `rules/738/020/`: 7 documents
+- `rules/738/025/`: 2 documents
+- `rules/738/035/`: 15 documents
+- `rules/738/040/`: 7 documents
+- `rules/738/050/`: 9 documents
+- `rules/738/060/`: 6 documents
+- `rules/738/070/`: 25 documents
+- `rules/738/080/`: 6 documents
+- `rules/738/090/`: 5 documents
+- `rules/738/100/`: 4 documents
+- `rules/738/124/`: 13 documents
+- `rules/738/125/`: 10 documents
+- `rules/738/130/`: 13 documents
+- `rules/738/140/`: 8 documents
+- `rules/740/010/`: 2 documents
+- `rules/740/015/`: 11 documents
+- `rules/740/020/`: 2 documents
+- `rules/740/030/`: 4 documents
+- `rules/740/035/`: 18 documents
+- `rules/740/040/`: 7 documents
+- `rules/740/045/`: 15 documents
+- `rules/740/050/`: 22 documents
+- `rules/740/055/`: 22 documents
+- `rules/740/060/`: 13 documents
+- `rules/740/065/`: 11 documents
+- `rules/740/100/`: 21 documents
+- `rules/740/105/`: 19 documents
+- `rules/740/110/`: 7 documents
+- `rules/740/200/`: 5 documents
+- `rules/740/300/`: 15 documents
+- `rules/741/020/`: 9 documents
+- `rules/741/025/`: 9 documents
+- `rules/741/030/`: 11 documents
+- `rules/741/040/`: 7 documents
+- `rules/741/060/`: 19 documents
+- `rules/741/100/`: 5 documents
+- `rules/741/115/`: 8 documents
+- `rules/741/120/`: 6 documents
+- `rules/741/125/`: 1 documents
+- `rules/741/200/`: 9 documents
+- `rules/741/300/`: 6 documents
+- `rules/741/305/`: 2 documents
+- `rules/741/310/`: 5 documents
+- `rules/741/315/`: 1 documents
+- `rules/741/320/`: 16 documents
+- `rules/741/325/`: 1 documents
+- `rules/741/330/`: 4 documents
+- `rules/741/335/`: 17 documents
+- `rules/741/400/`: 1 documents
+- `rules/741/510/`: 8 documents
+- `rules/741/520/`: 1 documents
+- `rules/741/600/`: 5 documents
+- `rules/741/700/`: 3 documents
+- `rules/741/710/`: 4 documents
+- `rules/801/001/`: 10 documents
+- `rules/801/005/`: 1 documents
+- `rules/801/010/`: 19 documents
+- `rules/801/020/`: 4 documents
+- `rules/801/030/`: 6 documents
+- `rules/801/040/`: 10 documents
+- `rules/801/050/`: 10 documents
+- `rules/804/001/`: 6 documents
+- `rules/804/003/`: 1 documents
+- `rules/804/010/`: 3 documents
+- `rules/804/020/`: 9 documents
+- `rules/804/022/`: 8 documents
+- `rules/804/025/`: 6 documents
+- `rules/804/027/`: 2 documents
+- `rules/804/030/`: 5 documents
+- `rules/804/035/`: 6 documents
+- `rules/804/040/`: 1 documents
+- `rules/804/050/`: 3 documents
+- `rules/806/001/`: 3 documents
+- `rules/806/010/`: 22 documents
+- `rules/806/020/`: 6 documents
+- `rules/808/001/`: 10 documents
+- `rules/808/002/`: 68 documents
+- `rules/808/003/`: 73 documents
+- `rules/808/004/`: 24 documents
+- `rules/808/005/`: 3 documents
+- `rules/808/008/`: 34 documents
+- `rules/808/009/`: 25 documents
+- `rules/808/030/`: 8 documents
+- `rules/808/040/`: 9 documents
+- `rules/809/001/`: 5 documents
+- `rules/809/003/`: 1 documents
+- `rules/809/005/`: 2 documents
+- `rules/809/010/`: 2 documents
+- `rules/809/015/`: 4 documents
+- `rules/809/020/`: 5 documents
+- `rules/809/025/`: 9 documents
+- `rules/809/030/`: 7 documents
+- `rules/809/040/`: 16 documents
+- `rules/809/050/`: 5 documents
+- `rules/809/055/`: 3 documents
+- `rules/809/060/`: 3 documents
+- `rules/811/001/`: 6 documents
+- `rules/811/010/`: 21 documents
+- `rules/811/015/`: 11 documents
+- `rules/811/020/`: 2 documents
+- `rules/811/021/`: 1 documents
+- `rules/811/030/`: 3 documents
+- `rules/811/035/`: 7 documents
+- `rules/812/001/`: 14 documents
+- `rules/812/002/`: 64 documents
+- `rules/812/003/`: 42 documents
+- `rules/812/004/`: 30 documents
+- `rules/812/005/`: 16 documents
+- `rules/812/006/`: 14 documents
+- `rules/812/007/`: 27 documents
+- `rules/812/008/`: 30 documents
+- `rules/812/009/`: 9 documents
+- `rules/812/011/`: 5 documents
+- `rules/812/012/`: 7 documents
+- `rules/812/020/`: 12 documents
+- `rules/812/022/`: 14 documents
+- `rules/812/025/`: 11 documents
+- `rules/812/030/`: 14 documents
+- `rules/812/032/`: 10 documents
+- `rules/813/001/`: 6 documents
+- `rules/813/003/`: 8 documents
+- `rules/813/004/`: 14 documents
+- `rules/813/005/`: 12 documents
+- `rules/813/006/`: 7 documents
+- `rules/813/007/`: 13 documents
+- `rules/813/009/`: 6 documents
+- `rules/813/010/`: 16 documents
+- `rules/813/012/`: 18 documents
+- `rules/813/015/`: 11 documents
+- `rules/813/020/`: 16 documents
+- `rules/813/025/`: 3 documents
+- `rules/813/027/`: 10 documents
+- `rules/813/028/`: 10 documents
+- `rules/813/030/`: 19 documents
+- `rules/813/035/`: 13 documents
+- `rules/813/037/`: 8 documents
+- `rules/813/038/`: 8 documents
+- `rules/813/039/`: 7 documents
+- `rules/813/040/`: 10 documents
+- `rules/813/041/`: 7 documents
+- `rules/813/042/`: 12 documents
+- `rules/813/043/`: 7 documents
+- `rules/813/044/`: 7 documents
+- `rules/813/045/`: 7 documents
+- `rules/813/046/`: 11 documents
+- `rules/813/047/`: 7 documents
+- `rules/813/048/`: 6 documents
+- `rules/813/051/`: 11 documents
+- `rules/813/053/`: 11 documents
+- `rules/813/055/`: 8 documents
+- `rules/813/060/`: 19 documents
+- `rules/813/065/`: 11 documents
+- `rules/813/066/`: 6 documents
+- `rules/813/070/`: 14 documents
+- `rules/813/080/`: 12 documents
+- `rules/813/090/`: 11 documents
+- `rules/813/110/`: 16 documents
+- `rules/813/112/`: 4 documents
+- `rules/813/115/`: 7 documents
+- `rules/813/130/`: 14 documents
+- `rules/813/135/`: 6 documents
+- `rules/813/140/`: 14 documents
+- `rules/813/145/`: 11 documents
+- `rules/813/200/`: 12 documents
+- `rules/813/202/`: 12 documents
+- `rules/813/205/`: 9 documents
+- `rules/813/206/`: 7 documents
+- `rules/813/207/`: 11 documents
+- `rules/813/210/`: 11 documents
+- `rules/813/230/`: 5 documents
+- `rules/813/240/`: 11 documents
+- `rules/813/300/`: 18 documents
+- `rules/813/310/`: 22 documents
+- `rules/813/330/`: 7 documents
+- `rules/813/350/`: 8 documents
+- `rules/813/360/`: 6 documents
+- `rules/813/365/`: 9 documents
+- `rules/817/005/`: 4 documents
+- `rules/817/007/`: 15 documents
+- `rules/817/008/`: 1 documents
+- `rules/817/010/`: 17 documents
+- `rules/817/015/`: 5 documents
+- `rules/817/040/`: 1 documents
+- `rules/817/060/`: 4 documents
+- `rules/817/090/`: 15 documents
+- `rules/817/100/`: 2 documents
+- `rules/817/120/`: 1 documents
+- `rules/818/001/`: 10 documents
+- `rules/818/005/`: 3 documents
+- `rules/818/012/`: 16 documents
+- `rules/818/013/`: 8 documents
+- `rules/818/015/`: 2 documents
+- `rules/818/021/`: 25 documents
+- `rules/818/026/`: 15 documents
+- `rules/818/035/`: 9 documents
+- `rules/818/042/`: 20 documents
+- `rules/819/005/`: 4 documents
+- `rules/819/020/`: 5 documents
+- `rules/819/025/`: 4 documents
+- `rules/819/030/`: 4 documents
+- `rules/819/040/`: 1 documents
+- `rules/819/050/`: 2 documents
+- `rules/820/001/`: 10 documents
+- `rules/820/005/`: 20 documents
+- `rules/820/010/`: 25 documents
+- `rules/820/015/`: 5 documents
+- `rules/820/020/`: 10 documents
+- `rules/820/030/`: 4 documents
+- `rules/820/040/`: 5 documents
+- `rules/820/050/`: 2 documents
+- `rules/820/080/`: 3 documents
+- `rules/824/010/`: 1 documents
+- `rules/824/020/`: 1 documents
+- `rules/824/030/`: 3 documents
+- `rules/824/036/`: 1 documents
+- `rules/824/040/`: 1 documents
+- `rules/824/050/`: 1 documents
+- `rules/824/060/`: 1 documents
+- `rules/824/070/`: 2 documents
+- `rules/830/001/`: 1 documents
+- `rules/830/011/`: 8 documents
+- `rules/830/020/`: 7 documents
+- `rules/830/030/`: 12 documents
+- `rules/830/040/`: 12 documents
+- `rules/830/050/`: 2 documents
+- `rules/830/060/`: 2 documents
+- `rules/833/001/`: 5 documents
+- `rules/833/010/`: 1 documents
+- `rules/833/020/`: 8 documents
+- `rules/833/030/`: 4 documents
+- `rules/833/040/`: 4 documents
+- `rules/833/050/`: 14 documents
+- `rules/833/070/`: 3 documents
+- `rules/833/075/`: 9 documents
+- `rules/833/080/`: 6 documents
+- `rules/833/100/`: 3 documents
+- `rules/833/110/`: 4 documents
+- `rules/833/120/`: 3 documents
+- `rules/833/130/`: 6 documents
+- `rules/834/020/`: 1 documents
+- `rules/834/030/`: 2 documents
+- `rules/834/040/`: 1 documents
+- `rules/834/050/`: 2 documents
+- `rules/834/060/`: 2 documents
+- `rules/836/001/`: 2 documents
+- `rules/836/005/`: 5 documents
+- `rules/836/006/`: 2 documents
+- `rules/836/007/`: 1 documents
+- `rules/836/009/`: 5 documents
+- `rules/836/010/`: 12 documents
+- `rules/836/011/`: 56 documents
+- `rules/836/012/`: 18 documents
+- `rules/836/013/`: 3 documents
+- `rules/836/014/`: 32 documents
+- `rules/836/020/`: 30 documents
+- `rules/836/024/`: 40 documents
+- `rules/836/027/`: 29 documents
+- `rules/836/028/`: 9 documents
+- `rules/836/029/`: 25 documents
+- `rules/836/031/`: 33 documents
+- `rules/836/033/`: 4 documents
+- `rules/836/042/`: 52 documents
+- `rules/836/043/`: 53 documents
+- `rules/836/050/`: 24 documents
+- `rules/836/051/`: 57 documents
+- `rules/836/052/`: 75 documents
+- `rules/836/053/`: 113 documents
+- `rules/836/054/`: 8 documents
+- `rules/836/058/`: 2 documents
+- `rules/836/060/`: 14 documents
+- `rules/836/062/`: 3 documents
+- `rules/836/071/`: 81 documents
+- `rules/836/072/`: 10 documents
+- `rules/836/074/`: 13 documents
+- `rules/836/075/`: 9 documents
+- `rules/836/080/`: 106 documents
+- `rules/836/082/`: 2 documents
+- `rules/836/085/`: 18 documents
+- `rules/836/100/`: 5 documents
+- `rules/836/150/`: 6 documents
+- `rules/836/200/`: 44 documents
+- `rules/837/001/`: 4 documents
+- `rules/837/012/`: 112 documents
+- `rules/837/020/`: 18 documents
+- `rules/837/030/`: 20 documents
+- `rules/837/035/`: 18 documents
+- `rules/837/039/`: 14 documents
+- `rules/837/040/`: 5 documents
+- `rules/837/041/`: 1 documents
+- `rules/837/042/`: 3 documents
+- `rules/837/046/`: 10 documents
+- `rules/837/047/`: 9 documents
+- `rules/837/061/`: 3 documents
+- `rules/837/085/`: 41 documents
+- `rules/837/090/`: 11 documents
+- `rules/837/095/`: 5 documents
+- `rules/837/110/`: 18 documents
+- `rules/837/120/`: 29 documents
+- `rules/837/130/`: 3 documents
+- `rules/839/001/`: 45 documents
+- `rules/839/002/`: 17 documents
+- `rules/839/003/`: 29 documents
+- `rules/839/004/`: 4 documents
+- `rules/839/005/`: 39 documents
+- `rules/839/006/`: 47 documents
+- `rules/839/007/`: 19 documents
+- `rules/839/008/`: 8 documents
+- `rules/839/009/`: 34 documents
+- `rules/839/010/`: 14 documents
+- `rules/839/011/`: 60 documents
+- `rules/839/012/`: 8 documents
+- `rules/839/014/`: 39 documents
+- `rules/839/015/`: 54 documents
+- `rules/839/017/`: 43 documents
+- `rules/839/019/`: 7 documents
+- `rules/839/020/`: 57 documents
+- `rules/839/021/`: 48 documents
+- `rules/839/025/`: 48 documents
+- `rules/839/026/`: 11 documents
+- `rules/839/030/`: 3 documents
+- `rules/839/050/`: 45 documents
+- `rules/839/051/`: 2 documents
+- `rules/845/001/`: 4 documents
+- `rules/845/002/`: 14 documents
+- `rules/845/003/`: 9 documents
+- `rules/845/004/`: 13 documents
+- `rules/845/005/`: 41 documents
+- `rules/845/006/`: 55 documents
+- `rules/845/007/`: 5 documents
+- `rules/845/008/`: 5 documents
+- `rules/845/009/`: 18 documents
+- `rules/845/010/`: 18 documents
+- `rules/845/013/`: 13 documents
+- `rules/845/015/`: 32 documents
+- `rules/845/016/`: 17 documents
+- `rules/845/020/`: 11 documents
+- `rules/845/025/`: 159 documents
+- `rules/847/001/`: 13 documents
+- `rules/847/002/`: 1 documents
+- `rules/847/003/`: 2 documents
+- `rules/847/005/`: 2 documents
+- `rules/847/006/`: 1 documents
+- `rules/847/008/`: 26 documents
+- `rules/847/010/`: 19 documents
+- `rules/847/012/`: 1 documents
+- `rules/847/015/`: 8 documents
+- `rules/847/020/`: 15 documents
+- `rules/847/023/`: 4 documents
+- `rules/847/025/`: 7 documents
+- `rules/847/026/`: 5 documents
+- `rules/847/028/`: 5 documents
+- `rules/847/031/`: 5 documents
+- `rules/847/035/`: 7 documents
+- `rules/847/050/`: 22 documents
+- `rules/847/065/`: 14 documents
+- `rules/847/070/`: 19 documents
+- `rules/847/080/`: 12 documents
+- `rules/848/001/`: 4 documents
+- `rules/848/005/`: 5 documents
+- `rules/848/010/`: 9 documents
+- `rules/848/015/`: 3 documents
+- `rules/848/020/`: 6 documents
+- `rules/848/035/`: 5 documents
+- `rules/848/040/`: 19 documents
+- `rules/848/045/`: 2 documents
+- `rules/848/055/`: 1 documents
+- `rules/850/001/`: 4 documents
+- `rules/850/005/`: 2 documents
+- `rules/850/010/`: 7 documents
+- `rules/850/020/`: 5 documents
+- `rules/850/030/`: 11 documents
+- `rules/850/035/`: 1 documents
+- `rules/850/040/`: 3 documents
+- `rules/850/050/`: 7 documents
+- `rules/850/060/`: 5 documents
+- `rules/851/001/`: 15 documents
+- `rules/851/002/`: 8 documents
+- `rules/851/006/`: 1 documents
+- `rules/851/010/`: 5 documents
+- `rules/851/021/`: 17 documents
+- `rules/851/031/`: 14 documents
+- `rules/851/045/`: 7 documents
+- `rules/851/047/`: 4 documents
+- `rules/851/048/`: 2 documents
+- `rules/851/050/`: 11 documents
+- `rules/851/052/`: 8 documents
+- `rules/851/054/`: 10 documents
+- `rules/851/056/`: 13 documents
+- `rules/851/061/`: 14 documents
+- `rules/851/062/`: 18 documents
+- `rules/851/063/`: 6 documents
+- `rules/851/070/`: 14 documents
+- `rules/852/001/`: 2 documents
+- `rules/852/005/`: 5 documents
+- `rules/852/010/`: 10 documents
+- `rules/852/020/`: 7 documents
+- `rules/852/050/`: 11 documents
+- `rules/852/060/`: 8 documents
+- `rules/852/070/`: 12 documents
+- `rules/852/080/`: 4 documents
+- `rules/853/020/`: 1 documents
+- `rules/853/030/`: 9 documents
+- `rules/853/035/`: 3 documents
+- `rules/853/040/`: 1 documents
+- `rules/853/050/`: 3 documents
+- `rules/853/060/`: 1 documents
+- `rules/855/001/`: 7 documents
+- `rules/855/006/`: 3 documents
+- `rules/855/007/`: 12 documents
+- `rules/855/010/`: 10 documents
+- `rules/855/011/`: 5 documents
+- `rules/855/019/`: 35 documents
+- `rules/855/020/`: 5 documents
+- `rules/855/021/`: 8 documents
+- `rules/855/025/`: 12 documents
+- `rules/855/031/`: 8 documents
+- `rules/855/035/`: 8 documents
+- `rules/855/041/`: 116 documents
+- `rules/855/042/`: 4 documents
+- `rules/855/043/`: 44 documents
+- `rules/855/044/`: 12 documents
+- `rules/855/045/`: 5 documents
+- `rules/855/050/`: 3 documents
+- `rules/855/060/`: 11 documents
+- `rules/855/062/`: 6 documents
+- `rules/855/065/`: 8 documents
+- `rules/855/070/`: 3 documents
+- `rules/855/080/`: 19 documents
+- `rules/855/110/`: 5 documents
+- `rules/856/001/`: 3 documents
+- `rules/856/010/`: 3 documents
+- `rules/856/015/`: 18 documents
+- `rules/856/016/`: 2 documents
+- `rules/856/019/`: 8 documents
+- `rules/856/025/`: 8 documents
+- `rules/856/030/`: 12 documents
+- `rules/858/010/`: 29 documents
+- `rules/858/020/`: 10 documents
+- `rules/858/030/`: 1 documents
+- `rules/858/040/`: 8 documents
+- `rules/859/001/`: 2 documents
+- `rules/859/010/`: 1 documents
+- `rules/859/020/`: 3 documents
+- `rules/859/030/`: 2 documents
+- `rules/859/040/`: 5 documents
+- `rules/859/045/`: 2 documents
+- `rules/859/050/`: 24 documents
+- `rules/859/060/`: 10 documents
+- `rules/859/070/`: 7 documents
+- `rules/859/080/`: 3 documents
+- `rules/859/090/`: 3 documents
+- `rules/859/100/`: 6 documents
+- `rules/859/110/`: 1 documents
+- `rules/859/200/`: 41 documents
+- `rules/859/300/`: 24 documents
+- `rules/859/400/`: 29 documents
+- `rules/859/501/`: 2 documents
+- `rules/859/510/`: 1 documents
+- `rules/859/520/`: 3 documents
+- `rules/859/530/`: 1 documents
+- `rules/859/540/`: 5 documents
+- `rules/859/550/`: 20 documents
+- `rules/859/560/`: 5 documents
+- `rules/859/580/`: 3 documents
+- `rules/859/590/`: 1 documents
+- `rules/859/600/`: 3 documents
+- `rules/860/001/`: 60 documents
+- `rules/860/002/`: 10 documents
+- `rules/860/011/`: 1 documents
+- `rules/860/016/`: 10 documents
+- `rules/860/021/`: 53 documents
+- `rules/860/022/`: 23 documents
+- `rules/860/023/`: 22 documents
+- `rules/860/024/`: 14 documents
+- `rules/860/025/`: 13 documents
+- `rules/860/026/`: 11 documents
+- `rules/860/027/`: 31 documents
+- `rules/860/028/`: 23 documents
+- `rules/860/029/`: 16 documents
+- `rules/860/030/`: 18 documents
+- `rules/860/031/`: 9 documents
+- `rules/860/032/`: 34 documents
+- `rules/860/033/`: 19 documents
+- `rules/860/034/`: 75 documents
+- `rules/860/036/`: 89 documents
+- `rules/860/037/`: 74 documents
+- `rules/860/038/`: 40 documents
+- `rules/860/039/`: 16 documents
+- `rules/860/082/`: 17 documents
+- `rules/860/083/`: 9 documents
+- `rules/860/084/`: 38 documents
+- `rules/860/085/`: 12 documents
+- `rules/860/086/`: 5 documents
+- `rules/860/087/`: 5 documents
+- `rules/860/088/`: 20 documents
+- `rules/860/089/`: 11 documents
+- `rules/860/150/`: 9 documents
+- `rules/860/250/`: 8 documents
+- `rules/863/001/`: 6 documents
+- `rules/863/003/`: 11 documents
+- `rules/863/005/`: 11 documents
+- `rules/863/010/`: 7 documents
+- `rules/863/014/`: 28 documents
+- `rules/863/015/`: 25 documents
+- `rules/863/020/`: 15 documents
+- `rules/863/022/`: 15 documents
+- `rules/863/024/`: 24 documents
+- `rules/863/025/`: 20 documents
+- `rules/863/027/`: 4 documents
+- `rules/863/030/`: 5 documents
+- `rules/863/040/`: 2 documents
+- `rules/863/049/`: 12 documents
+- `rules/863/050/`: 16 documents
+- `rules/863/060/`: 2 documents
+- `rules/875/001/`: 4 documents
+- `rules/875/005/`: 3 documents
+- `rules/875/010/`: 11 documents
+- `rules/875/011/`: 4 documents
+- `rules/875/015/`: 6 documents
+- `rules/875/030/`: 8 documents
+- `rules/875/040/`: 2 documents
+- `rules/877/001/`: 8 documents
+- `rules/877/005/`: 1 documents
+- `rules/877/010/`: 9 documents
+- `rules/877/020/`: 16 documents
+- `rules/877/022/`: 1 documents
+- `rules/877/025/`: 4 documents
+- `rules/877/030/`: 8 documents
+- `rules/877/040/`: 8 documents
+- `rules/918/001/`: 20 documents
+- `rules/918/008/`: 15 documents
+- `rules/918/010/`: 5 documents
+- `rules/918/020/`: 28 documents
+- `rules/918/030/`: 27 documents
+- `rules/918/035/`: 11 documents
+- `rules/918/040/`: 4 documents
+- `rules/918/050/`: 15 documents
+- `rules/918/090/`: 15 documents
+- `rules/918/098/`: 41 documents
+- `rules/918/100/`: 14 documents
+- `rules/918/200/`: 13 documents
+- `rules/918/225/`: 46 documents
+- `rules/918/251/`: 1 documents
+- `rules/918/261/`: 12 documents
+- `rules/918/271/`: 7 documents
+- `rules/918/281/`: 6 documents
+- `rules/918/282/`: 35 documents
+- `rules/918/305/`: 21 documents
+- `rules/918/306/`: 13 documents
+- `rules/918/308/`: 35 documents
+- `rules/918/309/`: 19 documents
+- `rules/918/311/`: 10 documents
+- `rules/918/400/`: 44 documents
+- `rules/918/440/`: 9 documents
+- `rules/918/450/`: 1 documents
+- `rules/918/460/`: 11 documents
+- `rules/918/465/`: 3 documents
+- `rules/918/470/`: 10 documents
+- `rules/918/480/`: 9 documents
+- `rules/918/500/`: 29 documents
+- `rules/918/515/`: 23 documents
+- `rules/918/550/`: 10 documents
+- `rules/918/600/`: 4 documents
+- `rules/918/650/`: 16 documents
+- `rules/918/674/`: 37 documents
+- `rules/918/690/`: 6 documents
+- `rules/918/695/`: 15 documents
+- `rules/918/750/`: 3 documents
+- `rules/918/770/`: 16 documents
+- `rules/918/780/`: 11 documents
+- `rules/943/001/`: 7 documents
+- `rules/943/003/`: 2 documents
+- `rules/943/005/`: 11 documents
+- `rules/943/007/`: 2 documents
+- `rules/943/012/`: 5 documents
+- `rules/943/014/`: 27 documents
+- `rules/943/045/`: 26 documents
+- `rules/943/060/`: 13 documents
+- `rules/943/120/`: 22 documents
+- `rules/945/001/`: 2 documents
+- `rules/945/020/`: 5 documents
+- `rules/945/030/`: 5 documents
+- `rules/945/040/`: 5 documents
+- `rules/945/060/`: 9 documents
+- `rules/950/030/`: 7 documents
+- `rules/950/038/`: 1 documents
+- `rules/950/040/`: 3 documents
+- `rules/950/050/`: 16 documents
+- `rules/950/060/`: 17 documents
+- `rules/951/001/`: 2 documents
+- `rules/951/002/`: 5 documents
+- `rules/951/003/`: 5 documents
+- `rules/951/004/`: 5 documents
+- `rules/951/005/`: 3 documents
+- `rules/951/006/`: 5 documents
+- `rules/951/007/`: 5 documents
+- `rules/952/001/`: 12 documents
+- `rules/966/100/`: 9 documents
+- `rules/972/001/`: 1 documents
+- `rules/972/010/`: 4 documents
+- `rules/972/020/`: 6 documents
+- `rules/972/030/`: 4 documents
+- `rules/972/040/`: 3 documents
+- `rules/976/001/`: 2 documents
+- `rules/976/002/`: 4 documents
 - `statutes/`: 1633 documents

@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Building Codes Division - Chapter 918 
+ 
+ 
+ 
+ 
+ Division 305 ELECTRICAL CODES AND STANDARDS 
+ 918-305-0460 
+ Grounding 
+ 
+ (1) System substations shall be installed with a grounding grid to limit touch and step potentials to safe levels as recommended by IEEE 80, “Guide for Safety in Substation Grounding.” AC and low-voltage equipment shall be bonded or grounded to this grid, except as otherwise provided for the utility neutral or ground. Calculations and ground resistance test reports for every substation shall be furnished to the division prior to final inspection and maintained by the operating entity.  (2) The service neutral conductor is not required to be bonded to the substation grounding grid, provided that:  (a) A warning sign is posted on the service equipment to provide notice of potential hazards to technical persons who may have access to the service equipment. The notice shall clearly indicate that the neutral is isolated and not grounded;  (b) An isolation barrier is installed over the neutral termination within the service equipment; and  (c) The ground grid is installed in a manner that will demonstrate a ground resistance of 5 ohms or less when tested in accordance with IEEE 81, “Guide for Testing Grounding Systems.”  (3) Free-standing signal system cabinets, bungalows or buildings shall be separately grounded by means of a driven ground electrode or electrodes to obtain ground resistance of 25 ohms or less when tested in accordance with IEEE 81.  (4) 60 Hz, 120-volt AC systems for accessory power or lighting located within station platforms or substations shall meet the requirements of the Electrical Specialty Code.  (5) All service equipment receiving service voltage from the utility shall be posted with warning signs to provide notice of potential hazards to technical persons who may have access to the panel. The notice shall clearly indicate that the neutral is isolated and not grounded.  (6) All fencing located within 10 feet of a metallic railway substation, building, ground grid, bungalow or other structure shall be constructed of nonmetallic material.  [Publications: Publications referenced are available from the agency.] 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 479.950 
+ 
+ 
+ Statutes/Other Implemented:  ORS 479.950 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ BCD 7-2000, f. 3-15-00, cert. ef. 4-1-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

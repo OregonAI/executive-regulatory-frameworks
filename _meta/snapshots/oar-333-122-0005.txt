@@ -1,0 +1,240 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 122 RADIATION SAFETY REQUIREMENTS FOR INDUSTRIAL X-RAY MACHINE OPERATIONS 
+ 333-122-0005 
+ Definitions
+ 
+ 
+ As used in OAR chapter 333, division 122, the following definitions apply: 
+
+ (1) "Analytical X-ray equipment" means equipment that generates (by electronic means) and uses ionizing radiation for the purpose of examining the microstructure of materials, diffraction, and spectroscopy (including fluorescence). 
+
+ (2) "Annual refresher safety training" means a review conducted or provided by the registrant for its employees on radiation safety aspects of RGD X-ray. The review must include, at a minimum, a review of radiation safety aspects of the RGD X-ray machine, any results of internal audits, Authority inspections, new procedures or equipment, new or revised regulations, and accidents or errors that have occurred. The review must also provide opportunities for employees to ask safety questions. 
+
+ (3) "ANSI" means the American National Standards Institute. 
+
+ (4) "Cabinet radiography" means industrial radiography conducted in an enclosure or cabinet so shielded that every location on the exterior meets the dose limits for individual members of the public as specified in OAR 333-120-0180. 
+
+ (5) "Cabinet X-ray system" means an X-ray system with the X-ray tube installed in an enclosure, hereinafter termed a cabinet that is independent of existing architectural structures except the floor. The cabinet X-ray system is intended to contain at least that portion of a material being irradiated, provide radiation attenuation and exclude personnel from its interior during generation of radiation. This definition includes X-ray systems designed primarily for the inspection of carry-on baggage at airline, railroad and bus terminals and in similar facilities, and all X-ray systems designed primarily for the inspection of letters, periodicals and packages in mailrooms. An X-ray tube used within a shielded part of a building, or X-ray equipment that may temporarily or occasionally incorporate portable shielding, is not considered a cabinet X-ray system. 
+
+ (6) "Certifiable cabinet X-ray system" means an existing uncertified X-ray system that has been modified to meet the certification requirements specified in 21 CFR 1020.40. 
+
+ (7) "Certified cabinet X-ray system" means an X-ray system that has been certified in accordance with 21 CFR 1010.2 as being manufactured and assembled pursuant to the provisions of 21 CFR 1020.40. 
+
+ (8) "Fail-safe characteristics" means design features which cause beam port shutters to close, or otherwise prevent emergence of the primary beam, upon the failure of a safety or warning device. 
+
+ (9) "Hands-on experience" means experience in all areas considered to be directly involved in the X-ray process, and includes taking radiographs, calibration of survey instruments, operational and performance testing of survey instruments and devices, film development, posting of radiation areas, set-up of X-ray equipment, and radiation surveys, as applicable. Trainees undergoing the "hands-on experience" must do so under the direct supervision of a qualified RGD X-ray machine operator. 
+
+ (10) "Hybrid Gauge" means a gauging device utilizing both X-ray and radioactive material sources. 
+
+ (11) "Industrial X-ray" means a nondestructive examination of the structure of materials using an X-ray machine to make radiographic images. 
+
+ (12) "Local components" means part of an RGD X-ray system with areas being struck by X-rays such as the radiation source housings, port and shutter assemblies, collimators, sample holders, cameras, goniometers, detectors and shielding. This does not include the power supplies, transformers, amplifiers, readout devices and control panels. 
+
+ (13) "Normal operating procedures" means step-by-step instructions necessary to accomplish the analysis. The instructions will outline procedures that include sample insertion and manipulation, equipment alignment, routine maintenance by the registrant or licensee and data recording procedures which are related to radiation safety. 
+
+ (14) "Open-beam configuration" means an RGD X-ray system in which an individual could accidentally place a part of their body in the primary beam path during normal operation. 
+
+ (15) "Permanent X-ray radiography installation" means an enclosed shielded room, cell, or vault in which RGD X-ray is performed. 
+
+ (16) "Practical examination" means a demonstration through application of the safety rules and principles in RGD X-ray to include the use of all procedures and equipment to be used by RGD X-ray personnel. 
+
+ (17) "Primary beam" means ionizing radiation which passes through the aperture of the source housing by a direct path from the X-ray tube or a radioactive source located in the radiation source housing. 
+
+ (18) "RGD" means radiation generating devices that produce X-rays used in the non-healing arts environments. 
+
+ (19) "RGD X-ray operations" means all activities performed with an RGD X-ray machine. Activities include using, setting up equipment, and any activity inside the restricted area boundaries. 
+
+ (20) "RGD operator" means any individual who handles, adjusts technique factors, activates the exposure switch or button on an RGD X-ray machine and is qualified under OAR 333-122-0160. 
+
+ (21) "RGD X-ray personnel" means any X-ray operator, X-ray instructor or X-ray trainee. 
+
+ (22) "Radiation safety officer for RGD X-ray" means an individual with the responsibility for the overall radiation safety program on behalf of the registrant as outlined in OAR 333-122-0010. 
+
+ (23) "Shielded room X-ray using X-ray machines" means an enclosed room or vault in which RGD X-ray is performed within the interior and is not occupied during X-ray operations. The room must be shielded so that every location surrounding the exterior meets conditions for an unrestricted area as specified in OAR 333-120-0180, and the only access is through openings that are interlocked so that the X-ray machine will not operate unless all openings are securely closed. 
+
+ (24) "Supervision" means the supervising individual routinely reviews and monitors the work being performed. See OAR 333-106-0005 for definition of general, direct and personal supervision. (25) "X-ray gauge" means an X-ray producing device designed and manufactured for the purpose of detecting, measuring, gauging or controlling thickness, density, or interface location. 
+
+ (25) "X-ray operator's assistant" means any individual who, under the direct supervision of an RGD X-ray operator, uses radiographic X-ray machines, related handling tools or radiation survey instruments in RGD X-ray. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 453.605 – 453.807 
+ 
+ 
+ Statutes/Other Implemented:  ORS 453.605 – 453.807 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 16-2021, amend filed 04/21/2021, effective 04/21/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 32-2014, f. 12-22-14, cert. ef. 1-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 12-2006, f. & cert. ef. 6-16-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

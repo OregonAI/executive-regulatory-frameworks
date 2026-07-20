@@ -1,0 +1,441 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Chapter 407 
+ 
+ 
+ 
+ 
+ 
+ Division 7 CRIMINAL HISTORY AND ABUSE CHECKS 
+ 407-007-0010 
+ Definitions
+ 
+ 
+ In addition to the definitions in OAR 125-007-0210, the following definitions apply to OAR 407-007-0000 to 407-007-0640 unless otherwise noted:    
+
+ (1) “Abuse” has the meaning defined in the statutes ORS 124.005(1), 418.257(1), 419B.005(1), and 430.735(1), and in the rules promulgated to enact these statutes, corresponding to the setting in which the abuse was alleged or investigated and the vulnerable individuals associated with this abuse.    
+
+ (2) “Abuse check” means obtaining and reviewing abuse allegations, abuse investigation reports, and associated exhibits and documents for the purpose of determining whether an SI has potentially disqualifying abuse.       
+
+ (3) “Abuse investigation report” means a written report completed after an investigation into suspected abuse and retained by the Department or the Authority pursuant to ORS 124.085, 418.259, 419B.030, or 430.757, or a similar report filed in another state agency or by another state.    
+
+ (4) “Appeal process” means the process of contesting a final fitness determination of denied or approved with restrictions.   
+
+ ( 5 ) “Approved” means that a subject individual, following a final fitness determination, is fit to work, volunteer, be employed, or otherwise perform in the position listed in the criminal records check request.    
+
+ ( 6 ) “Approved with restrictions” or restricted approval means an approval in which some restriction is made to the position listed in the criminal records check request including but not limited to the SI, the SI’s environment, the type or number of clients for whom the SI may provide care, or the information to which the SI has access.    
+
+ ( 7 ) “Authority” means the Oregon Health Authority.    
+
+ ( 8 ) “Authorized designee (AD)” means an individual whom the Department designates and authorizes to receive and process criminal records and abuse check requests from SIs ; criminal records information, abuse investigation reports, and any other information gathered during the background check process; and to make fitness determinations.    
+
+ ( 9 ) “Background check” means a criminal records check and an abuse check.    
+
+ (10) “ Background check submission date ” means the date when the Background Check Unit receives a request for a criminal records check or abuse check as required by Oregon statute or administrative rule, including the subject individual’s authorization for the checks.   
+
+ ( 11 ) “Background Check Unit” means the Background Check Unit (BCU), a Shared Services unit which conducts criminal records checks , abuse checks and fitness determinations for the Department and the Authority.    
+
+ ( 12 ) “Care” means the provision of care, treatment, education, training, instruction, supervision, placement services, recreation, or support to children, the elderly, or individuals with disabilities (see ORS 181A.200).    
+
+ ( 13 ) “Client” means any individual who receives services, care, or funding for care through the Department or the Authority.    
+
+ ( 14 ) “Criminal Justice Information” (CJI) means all of the Federal Bureau of Investigation (FBI) Criminal Justice Information Systems (CJIS) provided data necessary for law enforcement and civil agencies to perform their missions including but not limited to biometric, identity history, biographic, property, and case/incident history data. CJI also includes data stored in the Oregon Law Enforcement Data System (LEDS), the National Criminal Information Center (NCIC), and other criminal justice information systems files. See FBI CJIS Security Policy, version 5.9.4  (12/20/2023 ) or current version.    
+
+ ( 15 ) “Criminal records check” means obtaining and reviewing criminal records and includes either or both of the following:    
+
+ (a) An Oregon criminal records check where criminal offender information is obtained from Oregon State Police (OSP) using LEDS.    
+
+ (b) A national criminal records check where criminal records are obtained from the FBI through the use of fingerprint cards sent to OSP and other identifying information. A national criminal records check also includes criminal records obtained from the FBI exclusively through the use of id entifying information if the FBI has determined that the SI’s fingerprints are illegible.    
+
+ ( 16 ) “Denied” means that a subject individual, following a fitness determination including a weighing test, is not fit to work, volunteer, be employed, or otherwise perform in the position listed in the criminal records check request.    
+
+ ( 17 ) “Department” means the Department of Human Services.    
+
+ ( 18 ) “Employee” in OAR 407-007-0000 to 407-007- 0100 , and 407-007-0400 to 407-007-0460, means an individual working in the Department or the Authority in any position including a new hire, promotion, demotion, direct appointment, re-employment, limited duration, job rotation, developmental assignment, transfer, an individual impacted by the Department’s or the Authority’s lay-off process, or temporary hire.    
+
+ ( 19 ) “Federal Tax Information” (FTI) tax return or return information received directly from the Internal Revenue Service (IRS) or obtained through an authorized secondary source, such as Social Security Administration (SSA), Federal Office of Child Support Enforcement (OCSE), Bureau of the Fiscal Service (BFS), or Centers for Medicare and Medicaid Services (CMS), or another entity acting on behalf of the IRS pursuant to an Internal Revenue Code (IRC) 6103(p)(2)(B) Agreement.    
+
+ ( 20 ) “Fingerprint capture” means taking the SI’s fingerprints for a national criminal records check in a manner that meets current Oregon statutes and the OSP’s capacity for receiving fingerprints.    
+
+ ( 21 ) “Fitness determination” means , regarding a criminal records check and abuse check when either or both are considered , the evaluation of whether an SI is fit to hold a position, provide care, or be granted licensure, certifications, registrations or permit to provide care. Fitness determination includes:    
+
+ (a) The decision regarding SI disclosures, an Oregon criminal records check, and preliminary review (a preliminary fitness determination); or    
+
+ (b) The decision regarding SI disclosures, completed criminal and abuse records check when either or both are considered including the gathering of other information as necessary, and a final review by an AD (a final fitness determination).    
+
+ ( 22 ) “Founded or substantiated” has the meaning given these terms in the Department or Authority’s administrative rules corresponding to the setting in which the abuse was investigated.    
+
+ ( 23 ) “Good cause” means a valid and sufficient reason for not complying with time frames set during the criminal records check process , abuse check process, or appeal process, including but not limited to an explanation of circumstances beyond an SI’s reasonable control.    
+
+ ( 24 ) “Hearing representative” means a Department employee representing the Department in a contested case hearing.    
+
+ ( 25 ) “Human Resources” in OAR 407-007-0000 to 407-007- 0100 , and 407-007-0400 to 407-007-0460, means either the Department’s Office of Human Resources or the Authority’s Office of Human Resources.    
+
+ ( 26 ) “Office of Training, Investigations, and Safety (OTIS)” means the Office of Training, Investigations, and Safety, formerly the Office of Adult Abuse Prevention and Investigations, a shared service of the Department and Authority which is responsible for coordinating and conducting abuse investigations and providing protective services regarding reports of abuse and neglect of vulnerable individuals.   
+
+ (27) “Oregon Criminal History and Abuse Records Data System (ORCHARDS)” means the electronic and online records system used to process and maintain background checks in compliance with OAR 407-007-0000 to 407-007-0640. 
+
+ ( 28 ) “Other criminal history information” means any information obtained and allowed for a fitness determination that is not criminal offender information from OSP. Other criminal history information includes but is not limited to police investigations and records, information from local or regional criminal records information systems, justice records, court records, information from the Oregon Judicial Case Information Network, sexual offender registration records, warrants, Oregon Department of Corrections records, Oregon Department of Transportation’s Driver and Motor Vehicle Services Division information, disclosures by an SI, and any other information from any jurisdiction obtained by or provided to the Department for the purpose of conducting a fitness determination during the current background check or from any previous background checks completed by the Department .    
+
+ (29 ) “Position” means the job or placement listed on the criminal records check request or background check request for the SI t o initiate an abuse check, criminal records check, or background check . Covered positions include any type of employment, volunteer placement, contract placement , or a living or visiting situation at a facility where such a background check is required .    
+
+ ( 30 ) “Subject individual (SI)” in OAR 407-007-0000 to 407-007- 0100 , and 407-007-0400 to 407-007-0460, means an individual on whom the Department may conduct a criminal records check and from whom the Department may require fingerprints for the purpose of conducting a national criminal records check. An SI includes any of the following:    
+
+ (a) A Department employee.    
+
+ (b) An individual who has been offered employment by the Department.    
+
+ (c) An individual secured by the Department through the services of a temporary employment agency, staffing agency, or personnel services agency who is providing any of the duties or having access as described in section ( 30 )(e) of this rule .    
+
+ (d) A Department client who is placed in the Work Experience or JOBS Plus program at a Department site.    
+
+ (e) An individual who provides or seeks to provide services to the Department at Department facilities, sites, or offices as a contractor, subcontractor, vendor, volunteer under Department direction and control, or student under Department direction and control who:    
+
+ (A) May have contact with clients;    
+
+ (B) Has access to personal information about employees of the Department, clients, or members of the public, including but not limited to Social Security numbers, dates of birth, driver license numbers, medical information, personal financial information, or criminal background information;    
+
+ (C) Has access to information the disclosure of which is prohibited by state or federal laws, rules, or regulations or information that is defined as confidential under state or federal laws, rules, or regulations;    
+
+ (D) Has access to property held in trust or to private property in the temporary custody of the state;    
+
+ (E) Has payroll or fiscal functions or responsibility for:    
+
+ ( i ) Receiving, receipting or depositing money or negotiable instruments;    
+
+ (ii) Billing, collections, setting up financial accounts, or other financial transactions; or    
+
+ (iii) Purchasing or selling property;    
+
+ (F) Provides security, design or construction services for government buildings, grounds, or facilities;    
+
+ (G) Has access to critical infrastructure or secure facilities information; or    
+
+ (H) Is providing information technology services and has control over or access to information technology systems.    
+
+ (f) Any individual applying for employment or a volunteer placement or any employee, volunteer, contractor, or employee of any contractor in any of the following:    
+
+ (A) A State-operated or Authority-contracted secure residential treatment facility;    
+
+ (B) A State-operated group home within the Department’s Stabilization and Crisis Unit;    
+
+ (C) Oregon State Hospital (OSH) .    
+
+ ( 31 ) “Weighing test” means a process carried out by the Department in which available information is considered to make a fitness determination.   
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 181A.195, 181A.200 & 409.050 
+ 
+ 
+ Statutes/Other Implemented:  ORS 181A.195, 181A.200 & 409.010 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHS 8-2024, amend filed 03/26/2024, effective 03/27/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHS 33-2022, minor correction filed 12/06/2022, effective 12/06/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHS 24-2021, amend filed 12/15/2021, effective 12/17/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHS 7-2021, temporary amend filed 06/25/2021, effective 06/25/2021 through 12/21/2021 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 2-2020, amend filed 02/10/2020, effective 02/10/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 18-2019, temporary amend filed 09/26/2019, effective 09/27/2019 through 03/24/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 32-2018, amend filed 11/28/2018, effective 12/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 12-2018, temporary amend filed 06/29/2018, effective 07/01/2018 through 12/27/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 4-2016, f. 6-9-16, cert. ef. 6-15-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 2-2016(Temp), f. & cert. ef.1-14-16 thru 7-11-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 9-2009, f. 12-31-09, cert. ef. 1-1-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 7-2008, f. 8-29-08, cert. ef. 9-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 2-2008(Temp), f. & cert. ef. 3-31-08 thru 9-26-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

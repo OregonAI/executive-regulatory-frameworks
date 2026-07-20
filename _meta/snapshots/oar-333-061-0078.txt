@@ -1,0 +1,230 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 61 DRINKING WATER 
+ 333-061-0078 
+ Coliform Investigations
+ 
+ 
+ (1) A coliform investigation, as defined in OAR 333-061-0020(22), is an evaluation to identify the possible presence of sanitary defects, defects in distribution system coliform monitoring practices, and the likely reason that the coliform investigation was triggered at the public water system. Coliform investigations are separated into two levels as described in this section. 
+
+ (a) A level 1 coliform investigation is conducted by the water supplier or a representative thereof. Minimum elements of the investigation include review and identification of atypical events that could affect distributed water quality or indicate that distributed water quality was impaired; changes in distribution system maintenance and operation that could affect distributed water quality (including water storage); source and treatment considerations that bear on distributed water quality, where appropriate (for example, whether a ground water system is disinfected); existing water quality monitoring data; and inadequacies in sample sites, sampling protocol, and sample processing. 
+
+ (b) A level 2 coliform investigation is conducted by the Authority or a party approved by the Authority and is a more detailed and comprehensive examination of a water system (including the system’s monitoring and operational practices) than a level 1 investigation. Minimum elements include those that are part of a level 1 investigation and additional review of available information, internal and external resources, and other relevant practices. Water suppliers must comply with any expedited actions or additional actions required by the Authority in the case of an exceedance of the MCL for E. coli . 
+
+ (2) Coliform investigations must be conducted according to section (3) of this rule after a coliform investigation trigger identified in this section is exceeded at a water system. 
+
+ (a) Level 1 coliform investigation triggers include, but are not limited to: 
+
+ (A) Exceeding 5.0 percent total coliform-positive samples for the month at water systems where 40 or more samples per month are collected; 
+
+ (B) Having two or more total coliform-positive samples in the same month at water systems where fewer than 40 samples per month are collected; or 
+
+ (C) Failing to collect every required repeat sample after any single total coliform-positive sample. 
+
+ (b) Level 2 coliform investigation triggers include, but are not limited to: 
+
+ (A) An exceedance of the MCL for E. coli as specified in OAR 333-061-0030(4); or 
+
+ (B) A second level 1 trigger as specified in subsection (2)(a) of this rule within a rolling 12-month period, unless the Authority has determined a likely cause for the total coliform-positive samples responsible for the first level 1 investigation trigger and established that the water supplier corrected the problem. 
+
+ (c) The results of all routine and repeat samples collected according to OAR 333-061-0036(6)(b) through (g) not invalidated by the Authority must be used to determine whether a coliform investigation trigger as specified in this section has been exceeded. 
+
+ (d) Special purpose samples, such as those collected to determine whether disinfection practices are sufficient following pipe placement, replacement, or repair, may not be used to determine whether a coliform investigation trigger has been exceeded. 
+
+ (3) Water suppliers must ensure that coliform investigations are conducted in order to identify the possible presence of sanitary defects and defects in distribution system coliform monitoring practices. 
+
+ (a) Water suppliers must ensure that investigators evaluate at least the minimum elements as specified in subsection (1)(a) or (1)(b) of this rule and must conduct the investigation consistent with any Authority directives that tailor specific investigation elements with respect to the size and type of the system and the size, type, and characteristics of the distribution system. 
+
+ (b) Water suppliers must conduct level 1 coliform investigations consistent with Authority requirements if any of the investigation triggers specified in subsection (2)(a) of this rule are exceeded. 
+
+ (A) The coliform investigation must be completed as soon as practical after exceeding the trigger, and must include a report summarizing the investigation. 
+
+ (B) In the completed investigation report, water suppliers must describe sanitary defects detected, corrective actions completed, and a proposed timetable for any corrective actions not already completed. The investigation report may also note that no sanitary defects were identified. 
+
+ (C) If the Authority reviews the completed coliform investigation report and determines that the investigation is not sufficient (including any proposed timetable for any corrective actions not already completed), the Authority will consult with the water supplier. If the Authority requires revisions after consultation, the water supplier must submit a revised investigation report to the Authority on an agreed-upon schedule not to exceed 30 days from the date of the consultation. 
+
+ (c) Water suppliers must submit to and ensure a level 2 coliform investigation is conducted as soon as practical after a coliform investigation trigger specified in subsection (2)(b) of this rule is exceeded. Water suppliers must ensure a completed investigation report is submitted to the Authority as specified in OAR 333-061-0040(1)(l). 
+
+ (A) Water suppliers must communicate with the Authority to ensure the investigation is completed within 30 days after learning that a coliform investigation trigger was exceeded. 
+
+ (B) Completed investigation reports must describe sanitary defects detected, corrective actions completed, and a proposed timetable for any corrective actions not already completed. The investigation report may also note that no sanitary defects were identified. 
+
+ (C) Water suppliers must comply with any expedited actions or additional actions required by the Authority in the case of an exceedance of the MCL for E. coli . 
+
+ (D) If the Authority reviews a completed level 2 coliform investigation report and determines that the investigation is not sufficient (including any proposed timetable for any corrective actions not already completed), the Authority will consult with the water supplier. If the Authority requires revisions after consultation, the water supplier must ensure a revised investigation report is submitted to the Authority on an agreed-upon schedule not to exceed 30 days. 
+
+ (d) Upon completion and submission of a level 1 or level 2 coliform investigation report, the Authority must determine if a likely cause for the level 1 trigger or level 2 trigger was identified and determine whether the water supplier corrected the problem, or agreed to a schedule acceptable to the Authority for correcting the problem. 
+
+ (4) Water suppliers must correct sanitary defects discovered during level 1 or level 2 coliform investigations as soon as practical. For corrections not completed by the time an investigation report is submitted to the Authority, the water supplier must complete the corrective action(s) in compliance with a timetable approved by the Authority in consultation with the water supplier. The water supplier must notify the Authority when each scheduled corrective action is completed. At any time during the investigation or corrective action phase, either the water supplier or the Authority may request a consultation with the other party to determine the appropriate actions to be taken. The water supplier may consult with the Authority regarding all relevant information that may impact its ability to comply with a requirement of this rule, including the method of accomplishment, an appropriate timeframe, and other relevant information. 
+
+ (5) Failing to conduct the required coliform investigation after a trigger is exceeded or failure to complete corrective actions according to an Authority approved timetable is a violation of this rule. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 448.131 
+ 
+ 
+ Statutes/Other Implemented:  ORS 448.131, 448.150 & 448.273 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 2-2018, amend filed 01/10/2018, effective 01/10/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 5-2016, f. 2-10-16, cert. ef. 4-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

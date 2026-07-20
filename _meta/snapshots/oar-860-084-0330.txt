@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Public Utility Commission 
+ Chapter 860 
+ 
+ 
+ 
+ 
+ 
+ Division 84 SOLAR PHOTOVOLTAIC PROGRAMS 
+ 860-084-0330 
+ Level 3 System Interconnection Review 
+ 
+ (1) The electric company must apply the Level 3 review procedure for an application to interconnect an eligible system that meets the following criteria:  (a) The facility has a capacity of 500 kilowatts or less; and  (b) The facility does not qualify or failed to meet Level 2 interconnection review procedures.  (2) Following receipt of a Level 3 application and within three business days of a request from the applicant, the electric company must provide pertinent information to the applicant, such as the available fault current at the proposed interconnection location, the existing peak loading on the lines in the general vicinity of the eligible system, and the configuration of the distribution lines at the proposed point of common coupling.  (3) Within seven business days after receiving a complete application for Level 3 interconnection review, the electric company must conduct an impact study which will include a non-binding, good faith cost estimate. The impact study must be conducted in accordance with good utility practice and must:  (a) Detail the impacts to the electric distribution system that would result if the eligible system were interconnected without modifications to either the eligible system or to the electric distribution system;  (b) Identify any modifications to the electric company's electric distribution system that would be necessary to accommodate the proposed interconnection; and  (c) Focus on power flows and utility protective devices, including control requirements; and  (d) Include the following elements, as applicable:  (A) A load flow study;  (B) A short-circuit study;  (C) A circuit protection and coordination study;  (D) The impact on the operation of the electric distribution system;  (E) A stability study, along with the conditions that would justify including this element in the impact study;  (F) A voltage collapse study, along with the conditions that would justify including this element in the impact study.  (4) The electric company must complete the impact study and must notify the applicant within 30 calendar days of one of the following results:  (a) Only minor modifications to the electric company's electric distribution system are necessary to accommodate interconnection. In such a case, the electric company will send the applicant an interconnection agreement that details the scope of the necessary modifications and a non-binding, good faith estimate of its cost; or  (b) Substantial modifications to the electric company’s electric distribution system are necessary to accommodate the proposed interconnection. In such a case, the electric company must provide a non-binding, good faith estimate of the cost of the modifications, which must be accurate to within plus or minus 25 percent. In addition, the electric company must offer to conduct, at the applicant’s expense, an interconnection facilities study that must identify the types and cost of equipment needed to safely interconnect the applicant's eligible system.  (5) If the proposed interconnection may affect electric transmission or delivery systems other than those controlled by the electric company, operators of those other systems may require additional studies to determine the potential impact of the interconnection on those systems. If such additional studies are required, the electric company must coordinate the studies but is not responsible for their timing.  (6) If an applicant requests a facilities study under subsection (4)(b), the electric company must provide an interconnection facilities study agreement. The interconnection facilities study agreement must describe the work to be undertaken in the interconnection facilities study and must include a non-binding, good faith estimate of the cost to the applicant for completion of the study. Upon the execution by the applicant of the interconnection facilities study agreement, the electric company will conduct an interconnection facilities study to identify the facilities necessary to safely interconnect the eligible system with the electric company’s electric distribution system, and to propose a non-binding, good faith estimate of the cost of those facilities and the time required to build and install those facilities.  (7) Upon completion of an interconnection facilities study, the electric company must provide the applicant with the results of the study and an executable interconnection agreement. The agreement must list the conditions and facilities necessary for the eligible system to safely interconnect with the electric company’s electric distribution system, and must include a non-binding, good faith estimate of the cost of those facilities and the estimated time required to build and install those facilities.  (8) If the applicant wishes to interconnect, it must execute the interconnection agreement and return it to the electric company at least 10 business days prior to starting operation of the eligible system (unless the electric company does not so require), pay a deposit of not more than 50 percent of the estimated cost of the facilities identified in the interconnection facilities study, complete installation of the eligible system, and agree to pay the public utility the actual installed cost of the facilities needed to interconnect as identified in the interconnection facilities study.  (9) Within 15 business days after notice from the applicant that the eligible system has been installed, the electric company must inspect the eligible system and must arrange to witness any commissioning tests required under IEEE standards. The electric company and the applicant must select a date by mutual agreement for the electric company to witness commissioning tests.  (10) If the eligible system satisfactorily passes required commissioning tests, if any, the electric company must notify the applicant in writing, within three business days after the tests, of one of the following:  (a) The interconnection is approved and the eligible system may begin operation; or  (b) The interconnection facilities study identified necessary construction that has not been completed, the date upon which the construction must be completed, and the date when the eligible system may begin operation.  (11) If the commissioning tests are not satisfactory, the applicant must repair or replace the unsatisfactory equipment to reschedule a commissioning test. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 757.360 - 757.380 
+ 
+ 
+ Statutes/Other Implemented:  ORS 757.360 - 757.380 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 2-2010, f. & cert. ef. 6-1-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,199 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Corrections 
+ Chapter 291 
+ 
+ 
+ 
+ 
+ 
+ Division 5 NETWORK INFORMATION SYSTEM ACCESS AND SECURITY 
+ 291-005-0075 
+ Physical Security Guidelines
+ 
+ 
+ (1) Computer equipment shall be protected from unnecessary risk of access, damage, or theft. 
+
+ (2) Facility access must be controlled using physical access control devices such as keys, locks, combinations, radio-frequency identification (RFID) card readers, etc. 
+
+ (a) All facilities must have at least one physical security control protecting it from unauthorized access, damage, or interference; 
+
+ (b) Facilities that process or store information classified at Level 3 (Restricted) or higher must employ multiple layers of physical security controls; and 
+
+ (c) For areas used to process or store information classified at Level 3 (Restricted) or higher, access logs for controlled entry points must be maintained. 
+
+ (3) An annual evaluation of physical security for information systems used by staff shall be conducted by the Department of Corrections ISO or their designee. The findings of this evaluation shall be used to enhance the physical security of the agency systems as needed. 
+
+ (4) Physical security guidelines for information systems shall be developed by ITS and reviewed and approved by the Department of Corrections ISO. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 179.040, 423.020, 423.030 & 423.075 
+ 
+ 
+ Statutes/Other Implemented:  ORS 179.040, 423.020, 423.030 & 423.075 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 5-2024, amend filed 04/29/2024, effective 04/29/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 16-1999, f. 9-24-99, cert. ef. 10-1-99 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ CD 10-1997, f. & cert. ef. 6-20-97 
+CD-24-1992, f. 11-24-92, cert. ef. 12-1-92 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,238 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 50 LAND APPLICATION OF DOMESTIC WASTEWATER TREATMENT FACILITY BIOSOLIDS, BIOSOLIDS DERIVED PRODUCTS, AND DOMESTIC SEPTAGE 
+ 340-050-0010 
+ Definitions
+ 
+ 
+ Unless otherwise indicated in this Division, definitions appearing under federal regulations 40 CFR §503.11, and §503.31 shall apply. In addition, as used in these rules, unless differently required by context, the following definitions apply: 
+
+ (1) “Agronomic Application Rate” means a rate of biosolids or domestic septage application which matches nutrient requirements for specific crop on an annual basis. 
+
+ (2) “Beneficial Use Site” means any Department approved site for application of a regulated amount of biosolids or domestic septage used for crop or livestock production, soil reclamation and stabilization, or soil improvement. Application rates and site management practices shall assure continued agricultural, horticultural or silvicultural production and shall not lead to a temporary or long-term reduction in site productivity. 
+
+ (3) “Biosolids” means solids derived from primary, secondary, or advanced treatment of domestic wastewater which have been treated through one or more controlled processes that significantly reduce pathogens and reduce volatile solids or chemically stabilize solids to the extent that they do not attract vectors. This term refers to domestic wastewater treatment facility solids that have undergone adequate treatment to permit their land application. This term has the same meaning as the term “sludge” in ORS 468B.095, and the term “sewage sludge” found elsewhere in OAR 340. 
+
+ (4) “Biosolids Derived Products” means materials derived from composting domestic wastewater treatment facility solids or other processes, such as thermal drying, which result in a material which meets pollutant concentrations in 40 CFR §503.13(b)(3), the Class A pathogen requirements in 40 CFR §503.33(b)(1) to §503.33(b)(8). Biosolids derived products also include any soil amendments which, in part, contain biosolids meeting these criteria. Biosolids derived products are acceptable for distribution to the general public for immediate use. 
+
+ (5) “Chemical Treatment” means the process of mixing lime or other chemicals with domestic wastewater solids or domestic septage to reduce the number of pathogens or amount of putrescible matter. 
+
+ (6) “Composting” means a process by which domestic wastewater treatment facility solids, biosolids, or septage are mixed with carbonaceous material and aerated with controlled elevated temperatures to promote rapid decomposition and ultimate stabilization as well as pathogen reduction. 
+
+ (7) “Controlled Access” means that public entry or traffic is unlikely, for example agricultural land that is privately owned. Parks or other public land may require fencing to ensure controlled access. 
+
+ (8) “Domestic Wastewater Treatment Facility Solids” means the accumulated suspended and settleable solids of domestic wastewater, deposited in tanks or basins mixed with water to form a semi-liquid mass. Grit and screenings removed from domestic wastewater during preliminary treatment are not considered solids under this definition. 
+
+ (9) “Department” means the Oregon Department of Environmental Quality (DEQ). 
+
+ (10) “Dewatered Solids” means domestic wastewater treatment facility solids or biosolids with a solids concentration between 10 and 50 percent. 
+
+ (11) “Domestic Septage” means liquid or solid material removed from a septic tank, cesspool, portable toilet, Type III marine sanitation device, holding tanks, or similar treatment works that receive only domestic wastewater. Domestic septage does not include liquid or solid material removed from a septic tank, cesspool, or similar treatment works that receive either commercial wastewater or industrial wastewater and does not include grease removed from a grease trap at a restaurant. 
+
+ (12) “Domestic Wastewater” means the water-carried human wastes from residences, buildings, industrial establishments or other places, together with such groundwater infiltration and surface water as may be present that flow to wastewater treatment facilities. 
+
+ (13) “Dried Solids” means domestic wastewater treatment facility solids or biosolids with a solids concentration of greater than fifty percent accomplished by mechanical means or air drying. 
+
+ (14) “Exceptional Quality Biosolids” means domestic wastewater treatment facility solids containing trace pollutant concentrations which are below federal alternative pollutant limits recognized under 40 CFR §503.13(b)(3) that have been treated by a Class A pathogen reduction process recognized under 40 CFR §503.32(a) and one of the vector attraction reduction procedures established under 40 CFR §503.33(b)(1)–(8). These solids are recognized as soil amendments which are acceptable for distribution and marketing to the public. 
+
+ (15) “Federal Regulations” means Part 503 Standards for the Use or Disposal of Sewage Sludge, Subchapter O in Chapter I of Title 40 of the Code of Federal Regulations (§503). 
+
+ (16) “Liquid Biosolids” means domestic wastewater treatment facility biosolids with a solids concentration of less than ten percent. 
+
+ (17) “Non-Digested Solids” means raw domestic primary, secondary, or advanced wastewater treatment facility solids, or solids that have accumulated in a digester which is either not operating efficiently or has not provided adequate time or temperature for digestion to occur; a lagoon where settled solids have not decomposed to the extent that they comply with 40 CFR §503.32 pathogen or 40 CFR §503.33 vector attraction reduction requirements; or a septic tank process whose function is confinement and/or separation of liquids and solids. 
+
+ (18) “NPDES Permit” means a waste discharge permit issued in accordance with requirements and procedures of the National Pollutant Discharge Elimination System authorized by the Federal Clean Water Act and of OAR 340, division 45. 
+
+ (19) “Person” means the United States and agencies thereof, any state, any individual, public or private corporation, political subdivision, governmental agency, municipality, co-partnership, association, firm, trust, estate or any other legal entity whatever. 
+
+ (20) “Site Authorization Letter” means a Department issued document which establishes minimum site management conditions for applying biosolids to a specific land application site. 
+
+ (21) “Raw Sewage Sludge” means non-decomposed or non-oxidized sewage sludge. 
+
+ (21) “Sludge” or “Sewage Sludge” — See Biosolids. 
+
+ (22) “Treatment” means the alteration of the quality of domestic wastewater, wastewater derived solids, or septage by physical, chemical or biological means or a combination thereof, such that the tendency of said liquids or solids to cause any degradation in water quality or other environmental conditions is reduced. 
+
+ (23) “WPCF Permit” means a Water Pollution Control Facility permit issued by the Department in accordance with the procedures of OAR 340, division 14 or OAR 340, division 71 and which is not an NPDES Permit. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468 & 468B 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 51-2018, minor correction filed 04/03/2018, effective 04/03/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 18-1995, f. & cert. ef. 7-20-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 15-1984, f. & ef. 8-21-84 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

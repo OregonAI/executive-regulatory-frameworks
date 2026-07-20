@@ -1,0 +1,221 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Geology and Mineral Industries 
+ Chapter 632 
+ 
+ 
+ 
+ 
+ 
+ Division 20 GEOTHERMAL REGULATIONS 
+ 632-020-0175 
+ Blowout Prevention for Geothermal Wells and Prospect Wells 2,000 Feet or More in Depth 
+ 
+ (1) Cementing of Casing. All casing strings must be cemented with a quantity of cement sufficient to fill the annular space back to the surface.  (a) The intermediate casing string must be cemented to fill the annular space back to the surface unless otherwise approved by the department.  (b) Casing must be:  (A) Cemented with a high temperature resistant cement, unless waived by the department and must be cemented in a manner necessary to exclude, isolate, or segregate overlying formation fluids from the geothermal resources zone and to prevent the movement of fluids into possible fresh water zones; and  (B) Cemented back to the surface or to the top of the inner casing. A temperature or cement bond log may be required by the department after setting and cementing the production casing and after all primary cementing operations if an unsatisfactory cementing job is indicated.  (c) Proposed well cementing techniques differing from the requirements of this paragraph will be considered by the department on an individual well basis.  (2) Pressure Testing.  (a) All blowout preventers and related equipment that may be exposed to well pressure must be tested first to a low pressure and then to a high pressure:  (A) A pressure decline of 10 percent or less in 30 minutes is for the low pressure test considered satisfactory prior to initiating the high-pressure test;  (B) When performing the low-pressure test, it is not acceptable to apply a higher pressure and bleed down to the low test pressure;  (C) The high-pressure test must be to the rated working pressure of the ram type blowout prevention equipment and related equipment, or to the rated working pressure of the wellhead on which the stack is installed, whichever is lower. A pressure decline of 10 percent or less in 30 minutes is considered satisfactory;  (D) Annular blowout prevention equipment must be high-pressure tested to 50 percent of the rated working pressure;  (E) Manual adjustable chokes not designed for complete shut off (CSO) must be pressure tested only to the extent of determining the integrity of the internal seating components to maintain back pressure; and  (F) Hydraulic chokes designed for CSO must be pressure tested to 50 percent of the rated working pressure.  (b) All casing below the conductor pipe must be pressure tested to 0.22 psi per foot or 1,500 psi, whichever is greater, but not to exceed 70 percent of the minimum internal yield strength of the casing. Higher pressures, using a test plug in the casing head, may be required by the department on a case-by-case basis.  (c) During blowout prevention equipment pressure testing, the casing must be isolated with a test plug set in the wellhead and the appropriate valve opened below the test plug to detect any leakage that may occur due to failure of the test plug.  (d) The choke and kill line valves, choke manifold valves, upper and lower kelly cocks, drill pipe safety valves, and inside blowout prevention equipment must be tested with pressure applied from the wellbore side. All valves, including check valves, located downstream of the valve being pressure tested, will be in the open position.  (e) Manually operated valves and chokes on the blowout prevention equipment, choke and kill lines, or choke manifold must be equipped with a handle provided by the manufacturer, or a functionally equivalent fabricated handle, and be lubricated and maintained to permit operation of the valves without the use of additional wrenches or levers.  (f) All operational components of the blowout prevention equipment must be function tested at least once a week to verify the components' intended operations.  (g) The blowout prevention equipment must be pressure tested: when installed, prior to drilling out casing shoes, and following repairs or reassembly of the preventers that require disconnecting a pressure seal in the assembly.  (h) During drilling operations, blowout prevention equipment must be actuated to test proper functioning once each trip or once each week, whichever is more frequent.  (i) All flange bolts must be inspected at least weekly and retightened as necessary during drilling operations. The auxiliary control systems must be maintained in working order and inspected daily to check the mechanical condition and effectiveness and to insure personnel acquaintance with their operation. A blowout prevention practice drill must be conducted weekly for each drilling crew and be recorded on the driller's log.  (j) The results of all blowout prevention equipment pressure tests and function tests must be recorded on the tour sheet and include the type of test, testing sequence, low and high pressures, duration of each test, and results of each test.  (k) All tool pushers, drilling superintendents, and permittees' representatives (when the permittee is in control of the drilling) are required to have completed an API, IADC, or similar governing body sanction well control certification program and furnish the certification of satisfactory of completion to the department prior to the start of any drilling operations. The certification must be renewed every two years.  (l) The department may require that any blowout prevention equipment test results submitted to the department have a signed affidavit stating that the testing procedures of the blowout prevention equipment and the passing results are accurate and complies with OAR 632-010-0014.  (m) The department may require that all blowout prevention equipment tests be conducted and witnessed by an independent third party that will report all test results to the department for review and approval prior to commencement of drilling operations.  (n) In the event of casing failure during the test, the casing must be repaired or recemented until a satisfactory test is obtained. A pressure decline of 10 percent or less in 30 minutes is considered satisfactory. The department may require an affidavit signed by the operator or contractor conducting the pressure test certifying that a satisfactory pressure test has been obtained.  (o) Casing test results must be recorded in the driller's log and reported to the department within 60 days after completion. The casing and lap test reports must give a detailed description of the test including mud and cement volumes, lapse of time between running and cementing casing and testing, method of testing, and test results.  (3) Blowout Prevention Equipment and Procedures. The operator must use all necessary precautions to keep all wells under control and use trained and competent personnel and properly maintained equipment and materials at all times. Blowout preventers and related well control equipment must be installed, tested immediately after installation using water, and maintained ready for use until drilling operations are completed. Certain components, such as packing elements and ram rubbers, must be of high-temperature resistant material as necessary. All kill lines, blowdown lines, manifolds, and fittings must be steel and have a temperature derated minimum working pressure rating equivalent to the maximum anticipated wellhead surface pressure. Subject to subsections (a) and (b) of this section, blowout prevention equipment must have hydraulic actuating systems and accumulators of sufficient capacity to close all of the hydraulically operated equipment and have a minimum pressure of 1,000 psi remaining on the accumulator. The department may approve manually operated blowout preventers. Dual control stations must be installed with a high-pressure backup system. One control panel must be located on the ground at least 50 feet away from the wellhead or rotary table. Air or other gaseous fluid drilling systems must have blowout prevention assemblies. Such assemblies may include, but are not limited to, a rotating head, a double ram blowout preventer or equivalent, a banjo-box or an approved substitute thereof and a blind ram blowout preventer or gate valve, below the banjo-box. Exceptions to the requirements of this paragraph will be considered by the department on a case-by-case basis. Approved exceptions may include certain geologic and well conditions, such as stable surface areas with known low subsurface formation pressures and temperatures.  (a) Conductor Casing. In certain instances, a remotely controlled hydraulically operated expansion type preventer or an acceptable alternative, approved by the department, including a drilling spool with side outlets or equivalent may be required by the department in areas where shallow thermal zones are indicated.  (b) Surface, Intermediate, and Production Casing. Before drilling below any of these strings, the blowout prevention equipment must include a minimum of the following, unless otherwise approved by the department:  (A) The blowout prevention equipment schematic diagram must indicate the minimum size and pressure rating of all components of the wellhead and blowout preventer assembly;  (B) Install all blowout preventers, choke lines, and choke manifolds above ground level. Casing heads and optional spools may be installed below ground level, provided they are visible and accessible;  (C) Blowout preventer equipment and related casing heads and spools must have a vertical bore no smaller than the inside diameter of the casing to which they are attached;  (D) All ram blowout prevention equipment must be equipped with hydraulic locking devices and manual locking devices with hand wheels extending outside of the rig’s substructure;  (E) Blowout prevention equipment installed on the well must have a rated working pressure equal to or higher than, the working pressure;  (F) Wells drilled while using tapered drill strings must be equipped with either a variable bore pipe ram preventer or additional ram type blowout preventers to provide a minimum of one set of pipe rams for each size of drill pipe in use, and one set of blind rams;  (G) Blowout prevention equipment must consist of at least one expansion-type preventer and a rotating head. Additional blowout prevention equipment may be required by the department based on site-specific well safety needs. Ram blowout prevention equipment or a drilling spool must have side outlets with a minimum inside diameter of two inches on the kill side, and three inches on the choke side to accommodate choke and kill lines. Outlets on the casing head may not be used to attach the choke or kill lines;  (H) Additional blowout prevention equipment must include, but is not limited to, one upper kelly cock, and one drill pipe safety valve with subs to fit all drill string connections in use;  (I) Choke manifold and related equipment must consist of one kill line valve, one check valve, two choke line valves, choke line, two manual adjustable chokes each with one valve located upstream of the choke, one bleed line valve and one mud service pressure gauge with a valve upstream of the gauge;  (J) All choke manifold valves, choke and kill line valves and the choke line must be full bore. Choke line valves, choke line and bleed line valves must have an inside diameter equal to or greater than the minimum requirement for the blowout prevention equipment or drilling spool outlet;  (K) The choke line should be as straight as possible, and any required turns must be made with flow targets at all bends and on block tees. All connections exposed to well bore pressure must be welded, flanged or clamped. Choke hoses with flanged connections designed for that purpose will be accepted in lieu of a steel choke line. The choke line must be securely anchored;  (L) The accumulator must have sufficient capacity to operate the blowout prevention equipment, as outlined in this section, and have two independently powered pump systems connected to start automatically after a 200 psi drop in accumulator pressure, or one independently powered pump system connected to start automatically after a 200 psi drop in accumulator pressure and an emergency nitrogen back-up system connected to the accumulator manifold. Blowout prevention equipment controls may be located at the accumulator or on the rig floor; and  (M) The drilling fluids containment system must have a functional mud pit horn.  (c) Testing and Maintenance.  (A) Ram type blowout preventers and auxiliary equipment must be tested to a minimum of 1,000 psi, 1.5 psi per foot of casing, or to the working pressure of the casing or assembly, whichever is the lesser. Expansion type blowout preventers must be tested to 70 percent of the above pressure testing requirements. The blowout prevention equipment must be pressure tested:  (i) When installed;  (ii) Prior to drilling out plugs or casing shoes or both; and  (iii) Following repairs that require disconnecting a pressure seal in the assembly.  (B) During drilling operations, blowout prevention equipment must be actuated to test proper functioning as follows: once each trip for blind and pipe rams but not less than once each day for pipe rams; and at least once each week on the drill pipe for expansion type preventers.  (C) All flange bolts must be inspected at least weekly and retightened as necessary during drilling operations. The auxiliary control systems must be inspected daily to check the mechanical condition and effectiveness and to ensure personnel’s acquaintance with the method of operation. Blowout prevention and auxiliary control equipment must be cleaned, inspected, and repaired, if necessary, prior to installation to ensure proper functioning. Blowout prevention controls must be plainly labeled, and all crewmembers must be instructed on the function and operation of the equipment. A blowout prevention drill must be conducted weekly for each drilling crew. All blowout prevention tests and crew drills must be recorded on the driller's log.  (4) Related Well Control Equipment. A full opening drill string safety valve in the open position must be maintained on the rig floor at all times while drilling operations are being conducted. A kelly cock must be installed between the kelly and the swivel.  (5) Drilling Fluid. The properties, use, and testing of drilling fluids and the conduct of related drilling procedures must be sufficient to prevent the blowout of any well. Sufficient drilling fluid materials to ensure well control must be maintained on site and readily accessible for use at all times.  (6) Drilling Fluid Control. Before pulling drill pipe, the drilling fluid must be properly conditioned or displaced. The hole must be kept reasonably full at all times; however, in no event will the annular mud level be deeper than 100 feet from the rotary table when coming out of the hole with drill pipe. Mud cooling techniques must be utilized when necessary to maintain mud characteristics for proper well control and hole conditioning. The department may require the use of mud cooling equipment.  (7) Drilling Fluid Testing:  (a) Mud testing and treatment consistent with good operating practice must be performed daily or more frequently as conditions warrant. Mud testing equipment must be maintained on the drilling rig at all times; and  (b) The following mud drilling fluid system monitoring or recording devices must be installed and operated continuously during drilling operations occurring below the shoe of the conductor casing. No exceptions to these requirements will be allowed without the specific prior approval of the department:  (A) High-low level mud pit indicator including a visual and audio-warning device;  (B) Degassers, desilters, and desanders;  (C) A mechanical, electrical, or manual surface drilling fluid temperature monitoring device. The temperature of the drilling fluid going into and coming out of the hole must be monitored, read, and recorded on the driller's or mud log for a minimum of every 30 feet of hole drilled below the conductor casing; and  (D) A hydrogen sulfide indicator and alarm must be installed in areas suspected or known to contain hydrogen sulfide gas that may reach levels considered dangerous to the health and safety of personnel in the area.  (8) Well-head Equipment and Testing:  (a) Completions. All wellhead connections must be fluid pressure tested to the API or ASA working pressure rating. Cold water is required as the testing fluid, unless otherwise approved by the department at the time of permitting. Welding of wellhead connections must be performed by a certified welder using materials in conformance with ASTM specifications; and  (b) Well-head Equipment. All completed wells must be equipped with a minimum of one casinghead with side outlets, one master valve, and one production valve, unless otherwise approved by the department. All casingheads, Christmas trees, fittings, and connections must have a temperature derated working pressure equal to or greater than the surface shut-in pressure of the well at reservoir temperature. Packing, sealing mediums and lubricants must consist of materials or substances that function effectively at, and are resistant to, high temperatures. Wellhead equipment, valves, flanges, and fittings must meet minimum ASA standards or minimum API Standard 6A specifications. Casinghead connections must be made such that fluid can be pumped between casing strings.  (9) Supervision. From the time drilling operations are initiated and until the well is completed or decommissioned, a member of the drilling crew or the toolpusher must monitor the rig floor at all times for surveillance purposes, unless the well is secured with blowout preventers or cement plugs. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 522 
+ 
+ 
+ Statutes/Other Implemented:  ORS 522.155 & 522.305 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ DGMI 3-2013, f. & cert. ef. 3-21-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DGMI 1-2010, f. & cert. ef. 6-22-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DGMI 2-1999, f. & cert. ef. 8-30-99 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ GMI 2-1995, f. & cert. ef. 3-10-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ GMI 4-1980, f. & ef. 10-2-80 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ GMI 8, f. & ef. 11-17-76 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

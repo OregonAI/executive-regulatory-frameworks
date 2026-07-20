@@ -1,0 +1,209 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 308 ASSESSMENT OF PROPERTY FOR TAXATION 
+ 150-308-0200 
+ Rezoned Property — Calculating Maximum Assessed Value (MAV) 
+ 
+ (1) For the purposes of determining MAV under ORS 308.142 to 308.166 and this rule, the following definitions apply:  (a) “Primary use” means an activity or combination of activities of chief importance on the site and is one of the main purposes for which the land or structures are intended, designed, or ordinarily used. A site may have more than one primary use, such as mixed use buildings with commercial use on the ground floor and residential use on upper floors.  (b) “Accessory use” means a use or activity that is incidental and subordinate to the primary use of the property. A use designated as “accessory “or “auxiliary” by an applicable zoning code is presumed to be accessory unless that designation is clearly inconsistent with the ordinary legal meaning of “accessory,” as determined by relevant criteria such as the relative size of the area used and the impact of the use on the surrounding neighborhood. Accessory uses may include, but are not limited to:  (A) In residential zones, recreational activities, hobbies, home businesses, or pet raising;  (B) In commercial office zones, cafeterias, health facilities, or other amenities primarily for employees;  (C) In commercial retail zones, offices or storage of goods;  (D) In industrial zones, storage, rail spurs, lead lines, or docks;  (E) Parking in any zone, unless commercial parking is designated or allowed as a primary use, such as for parking structures; and  (F) Accessory structures such as accessory dwelling units limited in size, garages, car ports, decks, fences, and storage sheds.  (c) “Type of use” means one of the uses defined in OAR 150-308-0310.  (d) “Floor area ratio” means the relationship of the total allowed area of above ground floors of a building to the total area of the parcel of land on which it is sited.  (e) “Site coverage ratio” means the relationship of the total area covered by the footprint of a building to the total area of the parcel of land on which it is sited.  (f) "Rezoned" means on or after July 1, 1995, the governmental body that regulates zoning:  (A) Made any change in the zone designation, including but not limited to an overlay, plan district, or floating zone designation, of the property;  (B) Made a change in one or more of the permitted primary types of use of the property; or  (C) Made a change in:  (i) The number of dwelling units, other than accessory dwelling units, allowed per acre, or other legal limitation on the number of dwelling units, other than accessory dwelling units, in a given area;  (ii) The allowed floor area ratio; or  (iii) The allowed site coverage ratio.  Example 1: The zone designation on a zoning map is changed from light industrial to commercial. Property has been rezoned.  Example 2: Prior to July 1, 1995, a city’s zoning ordinances allowed a small degree of office space, ordinarily a commercial use, in an industrial zone as accessory to industrial uses. No other commercial uses were permitted in that zone. The city later amends the zoning ordinances to allow office space as a primary use of property in those industrial zones. Because the zone now permits both commercial and industrial uses as primary uses, the permitted primary types of use of the property have changed. Property has been rezoned.  Example 3: Any amendment is made to the zoning ordinances increasing the number of dwelling units, other than accessory dwelling units, allowed per acre. Property has been rezoned.  (D) "Rezoned" does not include:  (i) Changes in the authorized uses of the property that were imposed before July 1, 1995, by the governmental body that regulates zoning of the property;  (ii) Satisfaction of conditions or restrictions on the authorized uses of the property that were imposed before July 1, 1995, by the governmental body that regulates zoning of the property;  (iii) Changes in the authorized types of use of the property imposed by a governmental body other than the governmental body that regulates zoning of the property; or  (iv) Changes in allowed accessory uses.  Example 4: The ordinances governing single-family residential zones are amended to allow a single accessory structure, designated as an “accessory dwelling unit.” The accessory dwelling unit is limited in size either to a maximum square footage or in proportion to the primary dwelling. The zoning amendment changes the allowed accessory uses of property. Property has not been rezoned.  Example 5: The ordinances governing single-family residential zones are amended to allow the operation of a home business in a residential zone. The amendment designates the home business as an “accessory use” and imposes limitations on the business to preserve the residential character of the zone in which it is conducted, such as limitations on the type of business conducted or the number of employees allowed. The business activity is incidental to the primary use of the home. Property has not been rezoned.  Example 6: An amendment is made to the zoning ordinance to allow high-technology manufacturing in a light industrial zone. The zone designation has not changed. Light industrial use and the new use of high-technology manufacturing are both within the same type of use, which is industrial. Property has not been rezoned.  Example 7: An amendment is made to the zoning ordinance to allow a beauty school in a commercial office zone. The zone designation has not changed. Commercial office use and the new use of a beauty school are both within the same type of use, which is commercial. Property has not been rezoned.  (g) “Used consistently with the rezoning” means the property is put to a newly permitted use under the rezoning. It does not include a use that was permitted under the prior zoning. It often includes, but does not require, a physical change to the property.  Example 8: Single-family dwellings are a permitted use under multi-family zoning. If a vacant parcel is rezoned from single- to multi-family, and a new single-family house is later constructed, the new use is not consistent with the rezoning because the use was allowed prior to the rezoning. The exception for property rezoned and used consistently with the rezoning has not occurred.  Example 9: A house in a residential zone is used as a commercial office. The residential zone is changed to a commercial zone in a later year. The property is used consistently with the rezoning because the commercial use was previously a nonconforming use, and is now a newly permitted use under the rezoning. The exception for property rezoned and used consistently with the rezoning has occurred.  Example 10: A city decides to revise their zoning code, and the zone designation for a commercial zone on a map is changed from “C5” to “GC.” However, there is no change to the permitted uses. Although property has been rezoned, no property will be “used consistently with the new zoning” because all of the uses were permitted under the prior zoning.  (2) For the purposes of calculating maximum assessed value when a property is rezoned and used consistently with the rezoning, the portion of the property that is “affected” includes:  (a) Improvements that are converted to the newly allowed use; and  (b) All land that supports a newly allowed use, including, but not limited to:  (A) Land under newly constructed or converted improvements put to the newly allowed use;  (B) Ingress and egress related to the newly allowed use;  (C) Access to utilities;  (D) Landscaping;  (E) Yard areas; and  (F) Parking.  Example 11: A house in a neighborhood recently rezoned from residential to commercial is converted into a commercial office. The house is used consistently with the new zone and is affected property. All of the land is affected property, unless a portion is clearly distinguishable as “excess” land: land unrelated to the new commercial use.  (3) The assessor will calculate the MAV for the property tax account for the current assessment year under this subsection, if:  (a) The entire property has been rezoned;  (b) The entire property is used consistently with the rezoning; and  (c) Either (a) or (b), or both, took place after January 1 of the preceding assessment year and on or before January 1 of the current assessment year.  Example 12: In 1998, the zoning ordinance was amended to permit additional primary types of use in the zone. The designation on the zoning map did not change. Last year, the entire property was developed for one of the primary types of use first permitted under the 1998 amendment.  Prior Year Values: Real Market Value (RMV) = $250,000; MAV = $97,088; Assessed Value (AV) = $97,088.  Current year RMV of the affected portion = $750,000.  Current year changed property ratio (CPR) for this property type = .800.  Because the rezone affects the entire property, multiply the current year RMV of the entire property by the CPR. This is the MAV for the entire property.  $750,000 x .800 = $600,000 (Current year MAV for the entire property.)  (4) The assessor will calculate the MAV for the property tax account for the current assessment year under this subsection, if:  (a) The property or a portion of the property has been rezoned;  (b) A portion of the property is used consistently with the rezoning; and  (c) Either (a) or (b), or both, took place after January 1 of the preceding assessment year and on or before January 1 of the current assessment year. Use the following steps to determine the MAV for the property.  Example 13: Property was rezoned from residential to commercial two years ago. A one and a half acre lot has been developed into a bicycle sales and service shop. The shop, including all parking and landscaping, occupies half of an acre. The rest of the land remains undeveloped.  Prior year values: RMV = $150,000; MAV $97,088; AV = $97,088.  Prior year RMV of unaffected portion = $100,000.  Current year RMV of affected portion = $700,000.  Current year CPR for this property type = .800.  Step 1: Calculate the current year MAV as if the account had not changed.  Multiply the prior year AV by 1.03. Compare the result to the prior year MAV to determine the larger amount. This becomes the current year MAV as if the account had not changed.  Larger of: Prior year AV x 1.03 compared to prior year MAV = current year MAV of unchanged account.  Prior year AV x 1.03 = 97,088 x 1.03 = $100,000  Prior year MAV = $97,088  Current year MAV of the unchanged account = $100,000  Step 2: Calculate the percentage of the unaffected portion.  Determine the prior year's RMV for the unaffected portion of the property. Divide that value by the prior year RMV for the whole account. This is the percentage of the account that is unaffected by the change to the property.  Prior year RMV (unaffected portion) divided by prior year RMV (total account) = percentage of the property that is unaffected.  $100,000 = prior year RMV for the unaffected portion.  $150,000 = prior year RMV for the total account.  $100,000 / $150,000 = 66.7% (Percentage of the account that is unaffected.)  Step 3: Calculate the current year MAV for the unaffected portion.  Multiply the current year MAV (Step 1) by the percentage of the unaffected portion (Step 2). This is the current year MAV for the unaffected portion.  $100,000 x 66.7% = $66,700 (Current year MAV for the unaffected portion.)  Step 4: Calculate the MAV for the affected portion.  Multiply the current RMV of the affected portion by the CPR. This is the MAV for the affected portion.  $700,000 x .800 = $560,000 (Current year MAV for the affected portion.)  Step 5: Calculate the MAV for the account.  Add the MAV for the unaffected portion (step 3) and the MAV for the affected portion (step 4) to get the MAV for the account.  $66,700 + $560,000 = $626,700 (Current MAV for the account.) 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 & 308.156 
+ 
+ 
+ Statutes/Other Implemented:  ORS 308.156 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 150-308.156-(B), REV 58-2016, f. 8-13-16, cert. ef. 9-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 150-308.156(5)-(B), REV 6-2016, f. 7-28-16, cert. ef. 8-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 6-2003, f. & cert. ef. 12-31-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 8-2000, f. & cert. ef. 8-3-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 4-1998, f. & cert. ef. 6-30-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

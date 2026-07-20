@@ -1,0 +1,173 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Public Utility Commission 
+ Chapter 860 
+ 
+ 
+ 
+ 
+ 
+ Division 38 DIRECT ACCESS REGULATION 
+ 860-038-0445 
+ Coordination of Supplier Changes and Billing 
+ 
+ (1) This rule applies to electricity service suppliers and to electric companies providing service options to nonresidential consumers. For purposes of this rule, "supplier" means an electricity service supplier or electric company.  (2) An ESS may not provide service to a consumer without a written contract or electronic authorization between the customer and the ESS and the submission by the ESS of a Direct Access Service Request (DASR) to the electric company to switch such customer from its then-current supplier to the ESS. The DASR must contain all information required by the electric company’s direct access tariff to effect the switching of such customer’s supplier.  (3) An ESS or electric company shall not submit a DASR unless it possesses written or electronic authorization from the consumer.  (4) The ESS must maintain records sufficient to demonstrate compliance with this rule including a copy of the contract authorizing the change in supplier for a period of one year from the date the customer authorized a change in electric service to such supplier. Upon request, the supplier must make such records available to the electric company or the Commission.  (5) An acceptable DASR must conform to industry electronic data interchange protocols.  (6) The written contract or electronic authorization must contain, at a minimum, the following information:  (a) The consumer’s name, current account number, and an electric company’s unique location identifier, if available;  (b) The service address and the consumer’s mailing address;  (c) The type of service being purchased;  (d) The name of the new supplier that will be supplying the service;  (e) The effective date and time of change of supplier;  (f) The consumer’s billing preference (electric company only, electricity service supplier only, or both);  (g) Identification and explanation of any nonrecurring charges associated with the change of supplier;  (h) A statement to the effect that the consumer is authorized to make the change and authorizes the change to the new supplier; and  (i) The consumer’s signature or electronic authorization and title.  (7) Any change of supplier without an acceptable DASR conforming to the requirements of section (5) of this rule and a written contract or electronic authorization conforming to the requirements of section (6) of this rule shall constitute a violation of this rule.  (8) An ESS must obtain acceptance of its DASR at least 10 business days prior to the effective date of the change.  (9) An electric company must accept or reject a DASR and provide notification to the ESS, within three business days of submission. Upon acceptance of a DASR, the electric company must notify the current supplier of the change within three business days.  (10) If the change date of suppliers does not coincide with the serving electric company’s established meter reading schedule, the new supplier will pay the applicable tariffed charges to the electric company necessary to accommodate an off-cycle meter reading.  (11) Each supplier must supply, upon request from a consumer, a copy of the service description and rates applicable to the type or types of service furnished to the consumer.  (12) A consumer will receive a consolidated bill from the electric company unless the consumer chooses one of the following:  (a) A separate bill from every individual supplier that provides products or services to the consumer; or  (b) A consolidated bill from an ESS.  (13) An electric company and the ESS must cooperate to ensure the exchange of information in a timely manner necessary for billing purposes. The electric company or the ESS may request the Commission’s assistance in resolving a dispute within the Commission’s jurisdiction by contacting the Commission’s Consumer Services Division. The Commission will notify the appropriate company upon receipt of such a request. The appropriate company must answer the registered dispute within 15 calendar days of service of the complaint.  (14) If the consumer receives a consolidated billing from an electric company, the ESS must provide the information to the electric company required in OAR 860-038-0300, and the electric company must provide that information on the bill.  (15) If the consumer chooses a consolidated billing by the ESS, the electric company must provide the information to the ESS required in OAR 860-038-0300 and the ESS must provide that information on the bill.  (16) An electric company and ESS must cooperate to resolve any consumer complaint.  (17) An electric company and the ESS must exchange all necessary information to facilitate the billing of consumers and the exchange of funds using industry electronic data interchange protocols. If there is a dispute regarding the information exchange, the ESS or the electric company may appeal to the Commission for assistance in resolving the dispute.  (18) The party contracting with the electric company for the delivery of services shall be obligated to pay the electric company’s transmission and distribution charges in accordance with the electric company’s applicable tariffs. When the ESS is the contracting party, the direct access customer’s failure to pay the ESS the full amount of ESS charges shall not relieve the ESS of its obligation to the electric company for delivery services in accordance with the electric company’s direct access tariff. The electric company shall have access to the security posted by the ESS in accordance with the terms of the electric company’s direct access tariff in the event the ESS defaults in the payment of electric company charges to the ESS.  (19) Absent a contract with the electric company described in section (18) of this rule, when payment, including amounts for regulated charges, is made directly to an electricity service supplier or electric company, the payment must be allocated as follows:  (a) As directed by the nonresidential consumer; or  (b) Absent specific direction from the nonresidential consumer, in the following sequence:  (A) Past due regulated;  (B) Current regulated;  (C) Past due unregulated charges in proportion to the outstanding balance; and  (D) Current unregulated charges in proportion to the outstanding balance; and  (c) If a contractual agreement between an ESS customer and an electricity service supplier dictates payment allocations other than those identified in section (b) of this rule, the electricity service supplier will provide notification with the bill that failure to pay the regulated charges can result in disconnection of service.  (20) Services subject to the jurisdiction of the Commission may not be discontinued, disconnected, or placed in jeopardy because of nonpayment of unregulated charges. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 183, 756 & 757 
+ 
+ 
+ Statutes/Other Implemented:  ORS 756.040 & 757.600 - 757.667 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 11-2003, f. & cert. ef. 7-3-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 17-2000, f. & cert. ef. 9-29-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

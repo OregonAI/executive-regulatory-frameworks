@@ -1,0 +1,280 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 125 MATERIALS SAFETY AND SECURITY 
+ 333-125-0001 
+ Nationally Tracked Sources
+ 
+ 
+ (1) Purpose and Scope. This rule outlines the reporting requirements for any licensees that possess an aggregated category 1 or category 2 quantity of radioactive material listed in Appendix A to 10 CFR Part 37 to report to the National Source Tracking System (NSTS). The mission of the NSTS is to track category 1 and category 2 radioactive materials from manufacturing through their disposal, decay, or exportation. 
+
+ (2) Reports of Transactions. Each licensee who manufactures, transfers, receives, disassembles, or disposes of a nationally tracked source shall complete and submit a National Source Tracking Transaction Report as specified in subsections (2)(a) through (2)(e) of this rule for each type of transaction. 
+
+ (a) Each licensee who manufactures a nationally tracked source shall complete and submit a National Source Tracking Transaction report. The report must include the following information: 
+
+ (A) The name, address, and license number of the reporting licensee; 
+
+ (B) The name of the individual preparing the report; 
+
+ (C) The manufacturer, model, and serial number of the source; 
+
+ (D) The radioactive material in the source; 
+
+ (E) The initial source strength in becquerels (curies) at the time of manufacture; and 
+
+ (F) The manufacture date of the source. 
+
+ (b) Each licensee that transfers a nationally tracked source to another person shall complete and submit a National Source Tracking Transaction report. The report must include the following information: 
+
+ (A) The name, address, and license number of the reporting licensee; 
+
+ (B) The name of the individual preparing the report; 
+
+ (C) The name and license number of the recipient facility and the shipping address; 
+
+ (D) The manufacturer, model, and serial number of the source or, if not available, other information to uniquely identify the sources; 
+
+ (E) The radioactive material in the source; 
+
+ (F) The initial or current source strength in becquerels (curies); 
+
+ (G) The date for which the source strength is reported; 
+
+ (H) The shipping date; 
+
+ (I) The estimated time of arrival date; and 
+
+ (J) For nationally tracked sources transferred as waste under a Uniform Low-Level Radioactive Waste Manifest, the waste manifest number and the container identification with the nationally tracked sources. 
+
+ (c) Each licensee that receives a nationally tracked source shall complete and submit a National Source Tracking Transaction Report. The report must include the following information: 
+
+ (A) The name, address, and license number of the reporting licensee; 
+
+ (B) The name of the individual preparing the report; 
+
+ (C) The name, address, and license number of the person that provided the source: 
+
+ (D) The manufacturer, model, and serial number of the source or, if not available, other information to uniquely identify the source; 
+
+ (E) The radioactive material in the source; 
+
+ (F) The initial or current source strength in becquerels (curies); 
+
+ (G) The date for which the source strength is reported; 
+
+ (H) The date of receipt; and 
+
+ (I) For material received under a Uniform Low-Level radioactive Waste Manifest, the waste manifest number and the container identification with the nationally tracked source. 
+
+ (d) Each licensee that disassembles a nationally tracked source shall complete and submit a National Source Tracking Transaction Report. The report must include the following information: 
+
+ (A) The name, address, and license number of the reporting licensee; 
+
+ (B) The name of the individual preparing the report; 
+
+ (C) The manufacturer, model, and serial number of the source or, if not available, other information to uniquely identify the source; 
+
+ (D) The radioactive material in the source; 
+
+ (E) The initial or current source strength in becquerels (curies); 
+
+ (F) The date for which the source strength is reported; and 
+
+ (G) The disassemble date of the source. 
+
+ (e) Each licensee who disposes of a nationally tracked source shall complete and submit a National Source Tracking Transaction Report. The report must include the following information: 
+
+ (A) The name, address, and license number of the reporting licensee; 
+
+ (B) The name of the individual preparing the report; 
+
+ (C) The waste manifest number; 
+
+ (D) The container identification with the nationally tracked source; 
+
+ (E) The date of disposal; and 
+
+ (F) The method of disposal. 
+
+ (f) The reports discussed in subsections (2)(a) through (2)(e) of this rule must be submitted by the close of the next business day after the transactions. The report must be submitted to the National Source Tracking System by using: 
+
+ (A) The online National Source Tracking System; 
+
+ (B) Electronically using a computer readable format; 
+
+ (C) By facsimile; 
+
+ (D) By mail to the address on the National Source Tracking Transaction Report Form (NRC Form 748); or 
+
+ (E) By telephone with follow up by facsimile or mail. 
+
+ (g) Each licensee shall correct any error in previously filed reports or file a new report for any missed transaction within five business days of the discovery of the error or missed transaction. Such errors may be detected by a variety of methods such as administrative reviews or by physical inventories required by regulation. In addition, each licensee shall reconcile the inventory of nationally tracked sources possessed by the licensee against that licensee’s data in the National Source Tracking System. The reconciliation must be conducted during the month of January in each year. The reconciliation process must include resolving any discrepancies between the National Source Tracking System and the actual inventory by filing the reports identified by subsections (2)(a) through (2)(e) of this rule. By January 31 of each year, each licensee must submit to the National Source Tracking System confirmation that the data in the National Source Tracking System is correct. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 453.635 
+ 
+ 
+ Statutes/Other Implemented:  ORS 453.635 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 75-2024, amend filed 10/11/2024, effective 10/29/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 19-2015, f. 9-30-15, cert. ef. 10-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

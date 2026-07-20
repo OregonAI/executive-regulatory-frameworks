@@ -1,0 +1,266 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 230 INCINERATOR REGULATIONS 
+ 340-230-0120 
+ Solid and Infectious Waste Incinerators: Design and Operation
+ 
+ 
+ (1) Temperature and Residence Time. Each incinerator must be designed and operated to maintain combustion gases at a minimum temperature of 1,800° F. for at least one second residence time. For a multi-chamber incinerator, these parameters must be met after the primary combustion chamber, which must be maintained at no less than 1,000° F. 
+
+ (2) Auxiliary Burners. Each incinerator must be designed and operated with automatically controlled auxiliary burners capable of maintaining the combustion chamber temperatures specified in section (1) of this rule, and must have sufficient auxiliary fuel capacity to maintain said temperatures. 
+
+ (3) Interlocks. Each incinerator must be designed and operated with an interlock system that: 
+
+ (a) Prevents charging until the final combustion chamber reaches 1,800° F.; 
+
+ (b) For batch-fed incinerators, prevents recharging until each combustion cycle is complete; 
+
+ (c) Ceases charging if the incinerator temperature falls below either 1,800° F. for any continuous 15-minute period; and 
+
+ (d) Ceases charging if carbon monoxide levels exceed 150 ppm, corrected to seven percent O2 over a continuous 15-minute period. Existing incinerators may request from the Department, and the Department may grant, an exemption for installing an interlock system, if it can be shown to the satisfaction of the Department that such a system would not allow sufficient flexibility in operation, or that significant technical or economic constraints would prevent retrofitting. 
+
+ (4) Air Locks. All infectious waste facilities with mechanically fed incinerators must be designed and operated with an air lock control system to prevent opening the incinerator to the room environment. The volume of the loading system must be designed so as to prevent overcharging to assure complete combustion of the waste. 
+
+ (5) Flue Gas Outlet Temperature. Each incinerator must be designed and operated such that the flue gas temperature at the outlet from the primary control device does not exceed 350° F., unless it can be demonstrated that a greater collection of condensible matter can be achieved at a higher outlet temperature. 
+
+ (6) Combustion efficiency. Except during periods of startup and shutdown, all waste incinerators must achieve a combustion efficiency of 99.9 percent based on a running eight-hour average, computed as follows: [Table not included. See ED. NOTE.] 
+
+ (7) Stack Height. All incinerator stacks must be designed in accordance with Good Engineering Practice (GEP) as defined in 40 CFR 51.100(ii) and 51.118, in order to assure compliance with applicable air standards, and to avoid the flow of stack pollutants into any building ventilation intake plenum. 
+
+ (8) Operator Training and Certification. Each incinerator must be operated at all times under the direction of one or more individuals who have received training necessary for proper operation. A description of the training program must be submitted to the Department for approval. A satisfactory training program consists of any of the following: 
+
+ (a) Certification by the American Society of Mechanical Engineers (ASME) for solid waste incinerator operation; or 
+
+ (b) For infectious waste incineration, successful completion of EPA’s Medical Waste Incinerator Operator training course; or 
+
+ (c) Other certification or training by a qualified organization as to proper operating practices and procedures, which has been pre-approved by the Department before enrollment. In addition, the owner or operator of an incinerator facility must develop and submit a manual for proper operation and maintenance, to be reviewed with employees responsible for incinerator operation on an annual basis. 
+
+ (9) In cases where incinerator operation may cause odors that unreasonably interfere with the use and enjoyment of property, the Department may require by permit the use of good practices and procedures to prevent or eliminate those odors. 
+
+ [NOTE: View a PDF of Section (6) formula by clicking on "Tables" link below.] 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 183, 468 & 468A 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468A.025 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 13-2019, amend filed 05/16/2019, effective 05/16/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 135-2018, minor correction filed 04/11/2018, effective 04/11/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 4-2003, f. & cert. ef. 2-06-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-025-0870 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 4-1993, f. & cert. ef. 3-10-93 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 9-1990, f. & cert. ef. 3-13-90 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

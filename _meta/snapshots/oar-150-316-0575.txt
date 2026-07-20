@@ -1,0 +1,226 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 316 PERSONAL INCOME TAX GENERAL PROVISIONS 
+ 150-316-0575 
+ Amount Specially Taxed Under Federal Law to Be Included in Computation of State Taxable Income: Accumulation Distributions
+ 
+ 
+ (1) Oregon law contains no alternate method of calculating tax in the manner provided by the Internal Revenue Code for the federal tax treatment of accumulation distributions. Therefore, income from an accumulation distribution must be added to Oregon taxable income. 
+
+ (2) Distribution of a trust’s income accumulation must be included in the income of the Oregon resident beneficiary for the taxable year that such income is distributed by the trust. The distributions are included in Oregon income in the same manner and to the same extent that the trust’s income accumulations are includable in the taxable income of the beneficiary under federal law. The change in the Oregon fiduciary adjustment will also be distributed to the beneficiary. 
+
+ Example 1: In 1987, the ABC trust had $27,596 of gross income. Of this amount, $15,496 was included in distributable net income (DNI). The other $12,100 was capital gain income, which was not included in DNI. The trust made a distribution of $9,460 to the beneficiary, leaving $6,036 in undistributed net income (UNI). After the $9,460 distribution deduction and the $100 exemption, the trust’s federal taxable income was $18,036 ($12,000 capital gain plus $6,036 UNI). 
+
+ On the Oregon return, the total fiduciary adjustment was ($10,862), of which the beneficiary’s share was ($6,626), leaving ($4,236) as the fiduciary’s share. The fiduciary’s Oregon taxable income was $13,800 ($18,036 minus $4,236), and the Oregon tax was $1,102. 
+
+ In 1993, the trust distributed more DNI to the beneficiary than the current year’s DNI amount, resulting in a distribution of the 1987 accumulated income. The addition to Oregon income is the taxable accumulation distribution as defined in the Internal Revenue Code, Sections 665–668. The beneficiary is also allowed an additional fiduciary adjustment amount, based on the additional 1987 DNI distributed in 1993. This additional amount is calculated as follows: [Formula not included. See ED. NOTE.] 
+
+ (3) See OAR 150-316-0410 for the limitations imposed on the portion of the fiduciary subtraction allowed to the beneficiaries. 
+
+ (4) The change in fiduciary adjustment will be distributed to the beneficiaries in the same allocable portions as the income was distributed, according to the provisions in the trust instrument. 
+
+ Example 2: If there’s only one beneficiary, they will receive the entire $2,064 subtraction calculated in the previous example. If there are two beneficiaries who each get one-half of the income, they will each get one-half of the additional fiduciary adjustment. 
+
+ (5) Income accumulation distributions of a trust must be included in the income of a nonresident beneficiary for the taxable year that distribution is actually made by the trust. The distributions are included in the adjusted gross income of a nonresident in accordance with the provisions of ORS 316.127. The nonresident will also be allowed the change in fiduciary adjustment to the extent this change is applicable to Oregon source income. 
+
+ (6) A copy of the Schedule J of federal Form 1041, “Allocation of Accumulation Distribution,” shall be attached to the Oregon fiduciary return for the taxable year of distribution, and a copy of federal Form 4970, “Tax on Accumulation Distribution of Trust,” shall be attached to the Oregon return of the beneficiary. 
+
+ (7) For information about calculating the accumulation distribution credit for Oregon taxes paid by a trust during income accumulation years, see OAR 150-316-0415. 
+
+ [Publications: The publication(s) referred to or incorporated by reference in this rule is available from the Department of Revenue pursuant to ORS 183.360(2) and ORS 183.355(6).] 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 
+ 
+ 
+ Statutes/Other Implemented:  ORS 316.737 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 54-2017, f. & cert. ef. 8-3-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 150-316.737, REV 66-2016, f. 8-15-16, cert. ef. 9-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RD 5-1994, f. 12-15-94, cert. ef. 12-31-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RD 9-1992, f. 12-29-92, cert. ef. 12-31-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

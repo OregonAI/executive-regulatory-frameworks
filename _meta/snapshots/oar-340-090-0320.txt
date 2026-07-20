@@ -1,0 +1,185 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 90 RECYCLING AND WASTE REDUCTION 
+ 340-090-0320 
+ Definitions 
+ 
+ As used in OAR 340-090-0310 through 430 and in OAR 340-012-0042 unless otherwise specified:  (1) "Container manufacturer" means the producer or generator of a rigid plastic container for a packaged product that is sold or offered for sale in Oregon. A "container manufacturer" is the same as a "package manufacturer" as defined in ORS 459A.650(2).  (2) "Container Manufacturer's Certificate of Compliance" means the certificate provided by the container manufacturer to a product manufacturer which describes the records which the container manufacturer has available to document that a rigid plastic container or containers comply with OAR 340-090-0350(1)(a), (1)(b)(A), or (1)(b)(B).  (3) "Container/product ratio" means the ratio of the weight of a rigid plastic container to the units of product in the container.  (4) "DEQ" means the Department of Environmental Quality.  (5) "Drug" has the meaning given by the federal Food, Drug, and Cosmetic Act (21 U.S.C. 321) and pertinent regulations.  (6) "FDA" means federal Food and Drug Administration.  (7) "FD&C Act" means federal Food, Drug and Cosmetic Act (21 U.S.C. 321).  (8) "Infant formula" has the meaning given by the federal Food, Drug and Cosmetic Act (21 U.S.C. 321(f)), and is food which purports to be for special dietary use solely as food for infants because it simulates human milk or is suitable as a complete or partial substitute for human milk.  (9) "Medical device" means an instrument, apparatus, implement, machine, contrivance, implant, in vitro reagent, or other similar or related article, including a component, part or accessory, which is:  (a) Recognized in the National Formulary, United States Pharmacopoeia, USP 39-NF 34 (2016) or any existing supplement thereto, and intended:  (A) For use in the diagnosis, cure, mitigation, treatment, or prevention of disease in man or other animals; or  (B) To affect the structure or any function of the body of man or other animals which does not achieve its primary intended purpose through chemical action within or on the body of man or other animals; and is  (b) Not dependent upon being metabolized for the achievement of any of its principal intended purposes.  (10) "Medical food" has the meaning given by the federal Food, Drug, and Cosmetic Act (21 U.S.C. 321) and pertinent regulations and includes the following:  (a) A product formulated to be consumed or administered internally under the supervision of a physician; and  (b) A product intended for specific dietary management of a disease or condition for which distinctive nutritional requirements, based on recognized scientific principles, are established by medical evaluation. For purposes of these rules, medical food is food that is consumed or directly placed in the stomach or intestine through a tube, or other food which is used to manage a disease or medical condition, or food labeled "may be used as the sole source of nutrition" or "may be used as the sole item of the diet". Food for which popular dietary claims are made, such as "low fat" or "low sodium," is not medical food.  (11) "Post-consumer rigid plastic container" means a rigid plastic container that would otherwise be destined for solid waste disposal, having completed its intended end-use and product lifecycle. Rigid plastic containers which held obsolete or unsold products must be considered post-consumer rigid plastic containers when used as a feedstock for new products other than fuel or energy.  (12) "Product-associated container" means a brand-specific rigid plastic container line, which may have one or more sizes, shapes or designs and which is used in conjunction with a particular, generic product line. A "product-associated container" is the same as a "product-associated package" as defined in ORS 459A.650(3).  (13) "Product manufacturer" means the producer or generator of a packaged product that is offered for sale in Oregon in a rigid plastic container:  (a) For purposes of these rules "product manufacturer" includes all subsidiaries and affiliates;  (b) Identification of the product manufacturer, for purposes of these rules, must be determined by the following hierarchy:  (A) When the name of the entity that manufactured the product held by the container is stated on the container label, then that entity must be considered the product manufacturer;  (B) When the container label does not state the entity that manufactured the product held by the container, but the container label does state the distributor of the container, then the distributor must be considered the product manufacturer;  (C) When the container label does not state either the entity that manufactured the product held by the container or the distributor of the container, but the container label states the importer of the container, then the importer must be considered the product manufacturer;  (D) When the container does not have a label or the label does not state the entity that manufactured the product held by the container, or the distributor of the container, or the importer of the container, or the container is filled at the point of sale and no other manufacturer distributor or importer is identified on the label, then the store that sells the product held by the container must be considered the product manufacturer.  (14) "Product manufacturer's Report of Compliance" means the report a product manufacturer provides to DEQ that documents compliance of a rigid plastic container or containers with requirements of OAR 340-090-0350 or exemption from those requirements as set out in OAR 340-090-0330.  (15) "Recycled content" means that portion of a package's weight that is composed of recycled material, as determined by a material balance approach that calculates total recycled material input as a percentage of total material input in the manufacture of the package.  (16) "Recycled in Oregon" means generated in Oregon as plastic from post-consumer rigid plastic containers and collected, processed and eventually manufactured into another product, other than fuel or energy, either in Oregon or outside the state.  (17) "Recycled material" means a material that would otherwise be destined for solid waste disposal, having completed its intended end use or product life cycle. Recycled material does not include materials and by-products generated from, and commonly reused within, an original manufacturing and fabrication process.  (18) "Recycling rate" means the level, stated as a percentage, at which post-consumer rigid plastic containers are recycled in Oregon. The rigid plastic container recycling rate is determined by dividing the weight of plastic from post-consumer rigid plastic containers recycled in Oregon by the combined weight of plastic from both post-consumer rigid plastic containers recycled and those disposed of in Oregon.  (19) "Reduced container" means a rigid plastic container which has a container/product ratio which is at least ten percent less than the container/product ratio for the same product by the same product manufacturer five years earlier, as provided in OAR 340-090-0330(5).  (20) "Replacement product" means a product which is used to refill a rigid plastic container. Replacement product must be the same as or similar to the original product in the container.  (21) "Reused container" means either a refillable or reusable container which is refilled by the product manufacturer or reused by the consumer and is used at least five times with the same or a similar product.  (22) "Rigid plastic bottle" means a container that has a mouth narrower than its base. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 459A.025 & 468.020 
+ 
+ 
+ Statutes/Other Implemented:  ORS 459A.650 & 459A.660 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 3-2017, f. & cert. ef. 1-19-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 9-1996, f. & cert. ef. 7-10-96 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 26-1994, f. & cert. ef. 11-2-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

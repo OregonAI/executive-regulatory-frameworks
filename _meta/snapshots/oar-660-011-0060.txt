@@ -1,0 +1,339 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Land Conservation and Development Department 
+ Chapter 660 
+ 
+ 
+ 
+ 
+ 
+ Division 11 PUBLIC FACILITIES PLANNING 
+ 660-011-0060 
+ Sewer Service to Rural Lands
+ 
+ 
+ (1) As used in this rule, unless the context requires otherwise: 
+
+ (a) "Establishment of a sewer system" means the creation of a new sewage system, including systems provided by public or private entities; 
+
+ (b) "Extension of a Sewer System" means the extension of a pipe, conduit, pipeline, main, or other physical component from or to an existing sewer system in order to provide service to a use, regardless of whether the use is inside the service boundaries of the public or private service provider. The sewer service authorized in section (8) of this rule is not an extension of a sewer; 
+
+ (c) "No practicable alternative to a sewer system" means a determination by the Department of Environmental Quality (DEQ) or the Oregon Health Division, pursuant to criteria in OAR chapter 340, division 71, and other applicable rules and laws, that an existing public health hazard cannot be adequately abated by the repair or maintenance of existing sewer systems or on-site systems or by the installation of new on-site systems as defined in OAR 340-071-0100; 
+
+ (d) "Public health hazard" means a condition whereby it is probable that the public is exposed to disease-caused physical suffering or illness due to the presence of inadequately treated sewage; 
+
+ (e) "Sewage" means the water-carried human, animal, vegetable, or industrial waste from residences, buildings, industrial establishments or other places, together with such ground water infiltration and surface water as may be present; 
+
+ (f) "Sewer system" means a system that serves more than one lot or parcel, or more than one condominium unit or more than one unit within a planned unit development, and includes pipelines or conduits, pump stations, force mains, and all other structures, devices, appurtenances and facilities used for treating or disposing of sewage or for collecting or conducting sewage to an ultimate point for treatment and disposal. The following are not considered a "sewer system" for purposes of this rule: 
+
+ (A) A system provided solely for the collection, transfer and/or disposal of storm water runoff; 
+
+ (B) A system provided solely for the collection, transfer and/or disposal of animal waste from a farm use as defined in ORS 215.303. 
+
+ (2) Except as provided in sections (3), (4), (8), and (9) of this rule, and consistent with Goal 11, a local government shall not allow: 
+
+ (a) The establishment of new sewer systems outside urban growth boundaries or unincorporated community boundaries; 
+
+ (b) The extension of sewer lines from within urban growth boundaries or unincorporated community boundaries in order to serve uses on land outside those boundaries; 
+
+ (c) The extension of sewer systems that currently serve land outside urban growth boundaries and unincorporated community boundaries in order to serve uses that are outside such boundaries and are not served by the system on July 28, 1998. 
+
+ (3) Components of a sewer system that serve lands inside an urban growth boundary (UGB) may be placed on lands outside the boundary provided that the conditions in subsections (a) and (b) of this section are met, as follows: 
+
+ (a) Such placement is necessary to: 
+
+ (A) Serve lands inside the UGB more efficiently by traversing lands outside the boundary; 
+
+ (B) Serve lands inside a nearby UGB or unincorporated community; 
+
+ (C) Serve lands subject to a Goal 14 exception approved pursuant to OAR 660-014-0090; 
+
+ (D) Connect to components of the sewer system lawfully located on rural lands, such as outfall or treatment facilities; or 
+
+ (E) Transport leachate from a landfill on rural land to a sewer system inside a UGB; 
+
+ (b) The local government: 
+
+ (A) Adopts land use regulations to ensure the sewer system shall not serve land outside urban growth boundaries or unincorporated community boundaries, except as authorized under section (4) of this rule; and 
+
+ (B) Determines that the system satisfies ORS 215.296(1) or (2) to protect farm and forest practices, except for systems located in the subsurface of public roads and highways along the public right of way. 
+
+ (4) A local government may allow the establishment of a new sewer system, or the extension of an existing sewer system, to serve land outside urban growth boundaries and unincorporated community boundaries in order to mitigate a public health hazard, provided that the conditions in subsections (a) and (b) of this section are met, as follows: 
+
+ (a) The DEQ or the Oregon Health Division initially: 
+
+ (A) Determines that a public health hazard exists in the area; 
+
+ (B) Determines that the health hazard is caused by sewage from development that existed in the area on July 28, 1998; 
+
+ (C) Describes the physical location of the identified sources of the sewage contributing to the health hazard; and 
+
+ (D) Determines that there is no practicable alternative to a sewer system in order to abate the public health hazard; and 
+
+ (b) The local government, in response to the determination in subsection (a) of this section, and based on recommendations by DEQ and the Oregon Health Division where appropriate: 
+
+ (A) Determines the type of sewer system and service to be provided, pursuant to section (5) of this rule; 
+
+ (B) Determines the boundaries of the sewer system service area, pursuant to section (6) of this rule; 
+
+ (C) Adopts land use regulations that ensure the sewer system is designed and constructed so that its capacity does not exceed the minimum necessary to serve the area within the boundaries described under paragraph (B) of this subsection, except for urban reserve areas as provided under OAR 660-021-0040(6); 
+
+ (D) Adopts land use regulations to prohibit the sewer system from serving any uses other than those existing or allowed in the identified service area on the date the sewer system is approved; 
+
+ (E) Adopts plan and zone amendments to ensure that only rural land uses are allowed on rural lands in the area to be served by the sewer system, consistent with Goal 14 and OAR 660-004-0018, unless a Goal 14 exception has been acknowledged; 
+
+ (F) Ensures that land use regulations do not authorize a higher density of residential development than would be authorized without the presence of the sewer system; and 
+
+ (G) Determines that the system satisfies ORS 215.296(1) or (2) to protect farm and forest practices, except for systems located in the subsurface of public roads and highways along the public right of way. 
+
+ (5) Where the DEQ determines that there is no practicable alternative to a sewer system, the local government, based on recommendations from DEQ, shall determine the most practicable sewer system to abate the health hazard considering the following: 
+
+ (a) The system must be sufficient to abate the public health hazard pursuant to DEQ requirements applicable to such systems; and 
+
+ (b) New or expanded sewer systems serving only the health hazard area shall be generally preferred over the extension of a sewer system from an urban growth boundary. However, if the health hazard area is within the service area of a sanitary authority or district, the sewer system operated by the authority or district, if available and sufficient, shall be preferred over other sewer system options. 
+
+ (6) The local government, based on recommendations from DEQ and, where appropriate, the Oregon Health Division, shall determine the area to be served by a sewer system necessary to abate a health hazard. The area shall include only the following: 
+
+ (a) Lots and parcels that contain the identified sources of the sewage contributing to the health hazard; 
+
+ (b) Lots and parcels that are surrounded by or abut the parcels described in subsection (a) of this section, provided the local government demonstrates that, due to soils, insufficient lot size, or other conditions, there is a reasonably clear probability that onsite systems installed to serve uses on such lots or parcels will fail and further contribute to the health hazard. 
+
+ (7) The local government or agency responsible for the determinations pursuant to sections (4) through (6) of this rule shall provide notice to all affected local governments and special districts regarding opportunities to participate in such determinations. 
+
+ (8) A local government may allow a residential use to connect to an existing sewer line provided the conditions in subsections (a) through (h) of this section are met: 
+
+ (a) The sewer service is to a residential use located on a parcel as defined by ORS 215.010(1), or a lot created by subdivision of land as defined in ORS 92.010; 
+
+ (b) The parcel or lot is within a special district or sanitary authority sewer service boundary that existed on January 1, 2005, or the parcel is partially within such boundary and the sewer service provider is willing or obligated to provide service to the portion of the parcel or lot located outside that service boundary; 
+
+ (c) The sewer service is to connect to a residential use located within a rural residential area, as described in OAR 660-004-0040, which existed on January 1, 2005; 
+
+ (d) The nearest connection point from the residential parcel or lot to be served is within 300 feet of a sewer line that existed at that location on January 1, 2005; 
+
+ (e) It is determined by the local government to be practical to connect the sewer service to the residential use considering geographic features or other natural or man-made constraints; 
+
+ (f) The sewer service authorized by this section shall be available to only those parcels and lots specified in this section, unless service to other parcels or lots is authorized under sections (4) or (9) of this rule; 
+
+ (g) The existing sewer line, from where the nearest connection point is determined under subsection (8)(d) of this rule, is not located within an urban growth boundary or unincorporated community boundary; and 
+
+ (h) The connection of the sewer service shall not be relied upon to authorize a higher density of residential development than would be authorized without the presence of the sewer service, and shall not be used as a basis for an exception to Goal 14 as required by OAR 660-004-0040(6). 
+
+ (9) A local government may allow the establishment of new sewer systems or the extension of sewer lines not otherwise provided for in section (4) of this rule, or allow a use to connect to an existing sewer line not otherwise provided for in section (8) of this rule, provided the standards for an exception to Goal 11 have been met, and provided the local government adopts land use regulations that prohibit the sewer system from serving any uses or areas other than those justified in the exception. Appropriate reasons and facts for an exception to Goal 11 include but are not limited to the following: 
+
+ (a) The new system, or extension of an existing system, is necessary to avoid an imminent and significant public health hazard that would otherwise result if the sewer service is not provided; and, there is no practicable alternative to the sewer system in order to avoid the imminent public health hazard, or 
+
+ (b) The extension of an existing sewer system will serve land that, by operation of federal law, is not subject to statewide planning Goal 11 and, if necessary, Goal 14. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 197.040 
+ 
+ 
+ Statutes/Other Implemented:  ORS 197.712 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LCDD 5-2021, amend filed 09/24/2021, effective 09/25/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LCDD 15-2020, temporary amend filed 11/10/2020, effective 11/10/2020 through 05/08/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ LCDD 3-2008, f. & cert. ef. 4-18-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ LCDD 1-2008, f. & cert. ef. 2-13-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ LCDD 1-2005, f. 2-11-05, cert. ef. 2-14-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ LCDD 4-1998, f. & cert. ef. 7-28-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

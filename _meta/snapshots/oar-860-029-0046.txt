@@ -1,0 +1,246 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Public Utility Commission 
+ Chapter 860 
+ 
+ 
+ 
+ 
+ 
+ Division 29 REGULATIONS RELATED TO AGREEMENTS BETWEEN ELECTRIC UTILITIES AND ELECTRIC COGENERATION AND SMALL POWER PRODUCTION FACILITIES 
+ 860-029-0046 
+ Process for Procuring Standard Power Purchase Agreement 
+ 
+ (1) Each public utility must file with the Commission a schedule outlining the process for acquiring a standard power purchase agreement that is consistent with the provisions of OAR 860 division 029 and Commission policy and that satisfies the requirements of this section. 
+
+ (2) Upon request, each public utility must provide a draft standard power purchase agreement to an eligible qualifying facility after the qualifying facility has provided the public utility, in written form: 
+
+ (a) An executed standard form of interconnection study agreement and evidence that all related interconnection study application fees have been paid, or evidence that no study is required; and 
+
+ (b) Documentary evidence that the qualifying facility has taken meaningful steps to seek site control of the proposed location of the qualifying facility including, but not limited to, documentation demonstrating: 
+
+ (A) An ownership of, a leasehold interest in, or a right to develop, a site of sufficient size to construct and operate the qualifying facility; 
+
+ (B) An option to purchase or acquire a leasehold interest in a site of sufficient size to construct and operate the qualifying facility; or 
+
+ (C) Another document that clearly demonstrates the commitment of the grantor to convey sufficient rights to the developer to occupy a site of sufficient size to construct and operate the qualifying facility, such as an executed agreement to negotiate an option to lease or purchase the site. 
+
+ (c) The following information regarding the proposed qualifying facility: 
+
+ (A) Demonstration of ability to obtain certified qualifying facility status prior to commercial operation; for qualifying facilities larger than 1 MW, a Form 556 self-certification of the proposed qualifying facility or a FERC order granting an application for certification of the proposed qualifying facility is required; 
+
+ (B) Demonstration of eligibility for standard power purchase agreement and pricing under OAR 860-029-0045; 
+
+ (C) Design capacity (MW); 
+
+ (D) Estimate of station service requirements and net amount of power to be delivered to the purchasing public utility's electric System; 
+
+ (E) Generation technology and other related technology applicable to the site; 
+
+ (F) Non-binding estimate of 12 x 24 delivery schedule and 8760 generation profile when practicable; estimates of the net amount of power to be delivered to the public utility's electric system and the 12 x 24 delivery schedule are subject to revision until the date the qualifying facility commences commercial operation; 
+
+ (G) Motive force or fuel plan; 
+
+ (H) Proposed scheduled commercial operation date; 
+
+ (I) Proposed contract term; 
+
+ (J) Proposed pricing provisions; 
+
+ (K) Point of Delivery as well as Point of Interconnection or multiple Points of Interconnection under consideration; 
+
+ (L) Latitude and longitude of proposed facility and site layout; 
+
+ (M) For a qualifying facility with battery storage system, description of the storage design capacity, description of technology used by battery storage system, storage system duration, and net power output; 
+
+ (N) For a qualifying facility selecting a scheduled commercial operation date between three and five years after the Effective Date of the standard power purchase agreement pursuant to OAR 860-029-0120(5)(b), a copy of the interconnection study supporting the scheduled commercial operation date if one exists; and 
+
+ (O) Other information specified in the utility's avoided cost rates schedule or standard power purchase agreement approved by the Commission. 
+
+ (3) Once a qualifying facility has asked for a draft standard power purchase agreement and provided the information required under section (2), the public utility has 15 business days to provide the qualifying facility a draft standard power purchase agreement including current standard avoided cost prices and/or other optional pricing mechanisms as approved by the Commission. 
+
+ (4) After receipt of a draft standard power purchase agreement, the qualifying facility may submit comments to the public utility regarding the draft agreement or request that the public utility prepare a final executable power purchase agreement.  
+
+ (5) If the qualifying facility submits comments to the public utility or asks for revisions to the draft standard power purchase agreement, in writing, the public utility has 10 business days to: 
+
+ (a) Notify the qualifying facility it cannot make the requested changes; 
+
+ (b) Notify the qualifying facility it does not understand the requested changes or requires additional information; or 
+
+ (c) Provide a revised draft power purchase agreement. However, the public utility will have 15 business days to respond or provide a revised draft standard power purchase agreement when the qualifying facility requests a change to the Point of Delivery. 
+
+ (6) The process outlined in sections (4) and (5) of this rule will continue until both the qualifying facility and public utility agree to the terms of the draft standard power purchase agreement, i.e., neither the qualifying facility nor the purchasing public utility have outstanding issues, corrections, or comments regarding the draft power purchase agreement. 
+
+ (7) After the parties concur on the terms of the draft standard power purchase agreement, the qualifying facility can submit a written request to the public utility for a final executable version of the purchase agreement. The public utility has 10 business days from the receipt of the written request to provide a final executable form of the purchase agreement to the qualifying facility. 
+
+ (8) Upon receipt of the final executable form of the purchase agreement executed by the qualifying facility, the purchasing public utility has five business days in which to sign the final executable agreement. 
+
+ (9) A legally enforceable obligation will be considered established on the date on which the qualifying facility executes the final executable form of the power purchase agreement or such earlier date that the Commission may order. 
+
+ (10) Both QF parties and purchasing utilities acting pursuant to this rule are obligated to act in good faith when dealing with counterparties.  
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 183, ORS 756, ORS 757 & ORS 758 
+ 
+ 
+ Statutes/Other Implemented:  ORS 756.040 & ORS 758.505-758.555 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 8-2023, amend filed 07/25/2023, effective 07/26/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 8-2018, adopt filed 11/02/2018, effective 11/02/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

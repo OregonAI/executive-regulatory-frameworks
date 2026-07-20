@@ -1,0 +1,336 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 165 OREGON MEDICAID ELECTRONIC HEALTH RECORD (EHR) INCENTIVE PROGRAM 
+ 410-165-0000 
+ Basis and Purpose
+ 
+ 
+ (1) These rules (OAR chapter 410, division 165) govern the Oregon Health Authority (Authority), Health Systems Division (Division), Medicaid Electronic Health Record (EHR) Incentive Program. The Medicaid EHR Incentive Program provides incentive payments consistent with federal law concerning such payments to eligible providers participating in the Medicaid program who adopt, implement, upgrade, or successfully demonstrate meaningful use of certified EHR technology and who are qualified by the program. 
+
+ (2) The Medicaid EHR Incentive Program is implemented pursuant to: 
+
+ (a) The American Reinvestment and Recovery Act of 2009, Pub. L. No. 111-5, section 4201; 
+
+ (b) The Centers for Medicare and Medicaid Services (CMS) federal regulation 42 CFR Part 495 (2010, 2012, 2014, and 2015) pursuant to the Social Security Act sections 1903(a)(3)(F) and 1903(t); 
+
+ (c) The Division’s General Rules program, OAR chapter 410, division 120; 
+
+ (d) The Authority’s Provider Rules, OAR chapter 943, division 120. 
+
+ (3) The following retroactive effective dates apply to these rules: 
+
+ (a) For all sections in these rules that refer to pediatric optometrists, the effective date is July 1, 2016; 
+
+ (b) For rule 410-165-0080 that refers to: 
+
+ (A) CMS federal regulation 42 CFR Part 495 (2016), the effective date is January 1, 2017; 
+
+ (B) CMS federal regulation 42 CFR Part 495 (2017), the effective date is October 1, 2017; 
+
+ (C) CMS federal regulation 42 CFR Part 495 (2018), in the FY 2019 Hospital Inpatient PPS Final Rule, sections 495.4, 495.24, 495.40, and 495.100, the effective date is October 1, 2018; 
+
+ (D) CMS federal regulation 42 CFR Part 495 (2018) in the CY 2019 Medicare Physician Fee Schedule Final Rule, sections 495.4 and 495.24, the effective date is January 1, 2019. 
+
+ (c) For all sections in these rules that refer to naturopathic physicians, the effective date is May 2, 2017; 
+
+ (d) For eligible hospitals, except for sections and references in these rules applicable under section (3)(a) or (b) above, the effective date is October 1, 2013, which is also the start date for program year 2014; 
+
+ (e) For eligible professionals, except for sections and references in these rules applicable under section (3)(a) or (b) above, the effective date is January 1, 2014, which is also the start date for program year 2014; 
+
+ (f) For rule 410-165-0060 that refers to the grace period for program year 2017, the effective date is February 5, 2018. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042 
+ 
+ 
+ Statutes/Other Implemented:  ORS 413.042 & 414.033 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 4-2019, amend filed 03/08/2019, effective 03/08/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 13-2018, amend filed 03/08/2018, effective 04/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 46-2017, temporary amend filed 11/02/2017, effective 11/02/2017 through 04/30/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 18-2017, f. 5-31-17, cert. ef. 6-2-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 3-2017(Temp), f. & cert. ef. 2-2-17 thru 7-31-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 47-2016, f. 7-18-16, cert. ef. 8-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 21-2016(Temp), f. 5-11-16, cert. ef. 5-13-16 thru 11-8-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 20-2015, f. & cert. ef. 4-8-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 2-2015(Temp), f. 1-30-15, cert. ef. 2-3-15 thru 8-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 56-2013, f. & cert. ef. 10-22-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 20-2013(Temp), f. & cert. ef. 4-26-13 thru 10-23-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 13-2011, f. 6-29-11, cert. ef. 7-1-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,945 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+   Temporary rule language in effect until 10/04/2026. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Workers' Compensation Division - Chapter 436 
+ 
+ 
+ 
+ 
+ Division 9 OREGON MEDICAL FEE AND PAYMENT 
+ 436-009-0040 
+ Fee Schedule 
+ 
+ (1) Fee Schedule Table. 
+
+ (a) Unless otherwise provided by contract or fee discount agreement allowed by these rules, insurers must pay according to the following table: [See attached table.] 
+
+ (b) The global period is listed in the column ‘Global Days’ of Appendix B. 
+
+ (2) Anesthesia. 
+
+ (a) When using the American Society of Anesthesiologists Relative Value Guide, a basic unit value is determined by reference to the appropriate anesthesia code. The total anesthesia value is made up of a basic unit value and, when applicable, time and modifying units. 
+
+ (b) Physicians or certified nurse anesthetists may use basic unit values only when they personally administer the general anesthesia and remain in constant attendance during the procedure for the sole purpose of providing the general anesthesia. 
+
+ (c) Attending surgeons may not add time units to the basic unit value when administering local or regional block for anesthesia during a procedure. The modifier ‘NT’ (no time) must be on the bill. 
+
+ (d) Local infiltration, digital block, or topical anesthesia administered by the operating surgeon is included in the payment for the surgical procedure. 
+
+ (e) In calculating the units of time, use 15 minutes per unit. If a medical provider bills for a portion of 15 minutes, round the time up to the next 15 minutes and pay one unit for the portion of time. 
+
+ (f) The maximum allowable payment amount for anesthesia codes is determined by multiplying the anesthesia value by a conversion factor of $60.93. Unless otherwise provided by contract or fee discount agreement permitted by these rules, the insurer must pay the lesser of: 
+
+ (A) The maximum allowable payment amount for anesthesia codes; or 
+
+ (B) The provider’s usual fee. 
+
+ (g) When the anesthesia code is designated by IC (individual consideration), unless otherwise provided by a contract or fee discount agreement, the insurer must pay 80 percent of the provider's usual fee. 
+
+ (h) Payment for services billed with modifiers QY, QK, or QX is at 50 percent of the applicable fee schedule amount. 
+
+ (3) Surgery. Unless otherwise provided by contract or fee discount agreement permitted by these rules, insurers must pay multiple surgical procedures performed in the same session according to the following: 
+
+ (a) One surgeon [See attached table.] 
+
+ (b) Two or more surgeons [See attached table.] 
+
+ (c) Assistant surgeons [See attached table.] 
+
+ (d) Nurse practitioners or physician associates [See attached table.] 
+
+ (e) Self-employed surgical assistants who work under the direct control and supervision of a physician [See attached table.] 
+
+ (f) When a surgeon performs surgery following severe trauma, and the surgeon does not think the fees should be reduced under the multiple surgery rule, the surgeon may request special consideration by the insurer. The surgeon must provide written documentation and justification. Based on the documentation, the insurer may pay for each procedure at 100 percent. 
+
+ (g) If the surgery is nonelective, the physician is entitled to payment for the initial evaluation of the patient in addition to the global fee for the surgical procedure(s) performed. However, the pre-operative visit for elective surgery is included in the listed global value of the surgical procedure, even if the pre-operative visit is more than one day before surgery. 
+
+ (4) Radiology Services. 
+
+ (a) Insurers only have to pay for X-ray films of diagnostic quality that include a report of the findings. Insurers will not pay for 14" x 36" lateral views. 
+
+ (b) When multiple contiguous areas are examined by computerized axial tomography ( CAT ) scan, computerized tomography angiography ( CTA ), magnetic resonance angiography ( MRA ), or magnetic resonance imaging ( MRI ), then the technical component must be paid 100 percent for the first area examined and 75 percent for all subsequent areas. These reductions do not apply to the professional component. The reductions apply to multiple studies done within two days, unless the ordering provider provides a reasonable explanation of why the studies needed to be done on separate days. 
+
+ (5) Pathology and Laboratory Services. 
+
+ (a) The payment amounts in Appendix B apply only when there is direct physician involvement. 
+
+ (b) Laboratory fees must be billed in accordance with ORS 676.310. If a physician submits a bill for laboratory services that were performed in an independent laboratory, the bill must show the amount charged by the laboratory and any service fee that the physician charges. 
+
+ (6) Physical Medicine and Rehabilitation Services. 
+
+ (a) Time-based CPT® codes must be billed and paid per code according to this table: [See attached table.] 
+
+ (b) Except for CPT® codes 97161, 97162, 97163, 97164, 97165, 97166, 97167, or 97168, payment for modalities and therapeutic procedures is limited to a total of three separate CPT®-coded services per day for each provider, identified by their federal tax ID number. An additional unit of time for the same CPT® code does not count as a separate code. When a provider bills for more than three separate CPT®-coded services per day, the insurer is required to pay the codes that result in the highest payment to the provider. 
+
+ (c) For all time-based modalities and therapeutic procedures that require constant attendance, the chart notes must clearly indicate the time each modality or procedure begins and the time each modality or procedure ends or the amount of time spent providing each modality or procedure. 
+
+ (d) CPT® codes 97010 through 97028 are not payable unless they are performed in conjunction with other procedures or modalities that require constant attendance or knowledge and skill of the licensed medical provider. 
+
+ (e) When multiple treatments are provided simultaneously by one machine, device, or table there must be a notation on the bill that treatments were provided simultaneously by one machine, device, or table and there must be only one charge. 
+
+ (7) Reports. 
+
+ (a) Except as otherwise provided in OAR 436-009-0060, when another medical provider, or an insurer or its representative asks a medical provider to prepare a report, or review records or reports, the medical provider should bill the insurer for their report or review of the records using CPT® codes such as 99080. The bill should include documentation of time spent reviewing the records or reports. 
+
+ (b) If the insurer asks the medical service provider to review the IME report and respond, the medical service provider must bill for the time spent reviewing and responding using OSC D0019. The bill should include documentation of time spent. 
+
+ (8) Nurse Practitioners and Physician Associates. Services provided by nurse practitioners or physician associates must be paid at 85 percent of the amount calculated in section (1) of this rule. 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 656.726(4) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 656.248 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 3-2026, temporary amend filed 04/08/2026, effective 04/08/2026 through 10/04/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 2-2026, amend filed 03/25/2026, effective 04/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 6-2025, temporary amend filed 12/24/2025, effective 01/01/2026 through 03/31/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 1-2025, amend filed 03/10/2025, effective 04/01/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 27-2024, temporary amend filed 12/09/2024, effective 01/01/2025 through 06/06/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 4-2024, minor correction filed 06/06/2024, effective 06/06/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 1-2024, amend filed 03/05/2024, effective 04/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 6-2023, temporary amend filed 12/26/2023, effective 01/01/2024 through 03/31/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 5-2023, temporary amend filed 12/26/2023, effective 01/01/2024 through 03/31/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 1-2023, amend filed 03/09/2023, effective 04/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 12-2022, temporary amend filed 12/19/2022, effective 01/01/2023 through 06/29/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 2-2022, amend filed 03/02/2022, effective 04/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 19-2021, temporary amend filed 12/14/2021, effective 01/01/2022 through 06/29/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 17-2021, minor correction filed 12/08/2021, effective 12/08/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 2-2021, amend filed 03/03/2021, effective 04/01/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 21-2020, temporary amend filed 12/15/2020, effective 01/01/2021 through 06/29/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 14-2020, amend filed 08/31/2020, effective 09/21/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 13-2020, temporary amend filed 07/10/2020, effective 07/13/2020 through 09/20/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 9-2020, temporary amend filed 04/01/2020, effective 04/01/2020 through 09/20/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 8-2020, temporary amend filed 03/25/2020, effective 03/25/2020 through 03/31/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 4-2020, amend filed 03/04/2020, effective 04/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 9-2019, temporary amend filed 12/16/2019, effective 01/01/2020 through 06/28/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 2-2019, amend filed 03/11/2019, effective 04/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 22-2018, temporary amend filed 12/18/2018, effective 01/01/2019 through 06/29/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 5-2018, amend filed 03/15/2018, effective 04/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 8-2017, temporary amend filed 12/21/2017, effective 01/01/2018 through 06/29/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 1-2017, f. 3-6-17, cert. ef. 4-1-17 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 7-2016(Temp), f. 12-16-16, cert. ef. 1-1-17 thru 6-29-17 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 1-2016, f. 3-7-16, cert. ef. 4-1-16 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 3-2015, f. 3-12-15, cert. ef. 4-1-15 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 3-2014, f. 3-12-14, cert. ef. 4-1-14 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 2-2013, f. 3-11-13, cert. ef. 4-1-13 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 1-2012, f. 2-16-12, cert. ef. 4-1-12 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 1-2011, f. 3-1-11, cert. ef. 4-1-11 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 3-2010, f. 5-28-10, cert. ef. 7-1-10 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 1-2009, f. 5-22-09, cert. ef. 7-1-09 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 5-2008, f. 12-15-08, cert. ef. 1-1-09 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 3-2008(Temp), f. & cert. ef. 7-7-08 thru 1-2-09 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 1-2008, f. 6-13-08, cert. ef. 7-1-08 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 10-2007, f. 11-1-07, cert. ef. 1-1-08 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 2-2007, f. 5-23-07, cert. ef. 7-1-07 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 3-2006, f. 3-14-06, cert. ef. 4-1-06 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 2-2005, f. 3-24-05, cert. ef. 4-1-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 3-2004, f. 3-5-04 cert. ef. 4-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 6-2003, f. 5-28-03, cert. ef. 7-1-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 3-2002, f. 2-25-02 cert. ef. 4-1-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 2-2001, f. 3-8-01, cert. ef. 4-1-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 2-2000, f. 3-15-00, cert. ef. 4-1-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 9-1999, f. 5-27-99, cert. ef. 7-1-99 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

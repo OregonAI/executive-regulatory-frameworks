@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 123 THERAPEUTIC RADIATION MACHINES 
+ 333-123-0075 
+ Timer 
+ 
+ An irradiation control device timer shall be provided to terminate the irradiation after a pre-set time interval or integrated charge on a dosimeter-based monitor.  (1) A timer shall be provided at the treatment control panel. The timer shall indicate planned setting and the time elapsed or remaining;  (2) A timer shall not permit an exposure if set at zero;  (3) A timer shall be a cumulative device that activates with an indication of "BEAM-ON" and retains its reading after irradiation is interrupted or terminated. After irradiation is terminated and before irradiation can be reinitiated, it shall be necessary to reset the elapsed time indicator;  (4) A timer shall terminate irradiation when a pre-selected time has elapsed, if any dose monitoring system has not previously terminated irradiation;  (5) A timer shall permit setting of exposure times as short as 0.1 second;  (6) A timer shall be accurate to within one percent of the selected value or 0.1 second, whichever is greater; and  (7) A redundant treatment monitoring system (backup timer) shall be present at the treatment console to use as the treatment stop criterion in case the primary treatment control device timer malfunctions. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 453.605 - 453.807 
+ 
+ 
+ Statutes/Other Implemented:  ORS 453.605 - 453.807 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 4-2013, f. & cert. ef. 1-29-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

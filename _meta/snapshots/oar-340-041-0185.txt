@@ -1,0 +1,267 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 41 WATER QUALITY STANDARDS: BENEFICIAL USES, POLICIES, AND CRITERIA FOR OREGON 
+ 340-041-0185 
+ Basin-Specific Criteria (Klamath): Water Quality Standards and Policies for this Basin
+ 
+ 
+ (1) pH (hydrogen ion concentration). pH values may not fall outside the following ranges: 
+
+ (a) Fresh waters except Cascade lakes: pH values may not fall outside the range of 6.5-9.0. When greater than 25 percent of ambient measurements taken between June and September are greater than pH 8.7, and as resources are available according to priorities set by the Department, the Department will determine whether the values higher than 8.7 are anthropogenic or natural in origin; 
+
+ (b) Cascade lakes above 5,000 feet altitude: pH values may not fall outside the range of 6.0 to 8.5. 
+
+ (2) Temperature. From June 1 to September 30, no NPDES point source that discharges to the portion of the Klamath River designated for cool water species may cause the temperature of the water body to increase more than 0.3°C above the natural background after mixing with 25% of the stream flow. Natural background for the Klamath River means the temperature of the Klamath River at the outflow from Upper Klamath Lake plus any natural warming or cooling that occurs downstream. This criterion supersedes OAR 340-041-0028(9)(a) during the specified time period for NPDES permitted point sources. 
+
+ (3) Total Dissolved Solids. Guide concentrations listed below may not be exceeded unless otherwise specifically authorized by DEQ upon such conditions as it may deem necessary to carry out the general intent of this plan and to protect the beneficial uses set forth in OAR 340-041-0180: main stem Klamath River from Klamath Lake to the Oregon-California Border (river miles 255 to 208.5): The specific conductance may not exceed 400 micro-ohms at 77°F when measured at the Oregon-California Border (river mile 208.5). 
+
+ (4) Minimum Design Criteria for Treatment and Control of Sewage Wastes: 
+
+ (a) During periods of low streams flows (approximately May 1 to October 31): Treatment resulting in monthly average effluent concentrations not to exceed 20 mg/l of BOD and 20 of suspended solids or equivalent control; 
+
+ (b) During the period of high stream flows (approximately November 1 to April 30): A minimum of secondary treatment or equivalent control and unless otherwise specifically authorized by the Department, operation of all waste treatment and control facilities to maximum practicable efficient and effectiveness so as to minimize waste discharge to public waters. 
+
+ (5) Time Schedule for Dam Removal. 
+
+ (a) DEQ may issue a 401 Water Quality Certification for the federal license or permit authorizing the removal of J.C. Boyle Dam on the Klamath River that includes a time schedule for compliance with water quality standards, if DEQ makes the following findings: 
+
+ (A) The dam removal and its associated water quality impacts will be of limited duration; 
+
+ (B) The dam removal and related restoration activities will provide a net ecological benefit; 
+
+ (C) The dam removal will be performed in a manner minimizing, to the maximum extent practicable, adverse impacts to water quality, threatened and endangered species, and beneficial uses of the Klamath River; and 
+
+ (D) The dam removal, by the end of a specified time schedule, is not expected to cause an exceedance of a water quality standard set forth in this Division. 
+
+ (b) Any 401 Water Quality Certification issued by DEQ for removal of J.C. Boyle Dam must: 
+
+ (A) Be based on an application, evaluation, and public participation complying with OAR chapter 340 division 48; and 
+
+ (B) Contain conditions ensuring that the dam removal: 
+
+ (i) Will be performed in accordance with interim milestones and a time schedule specified in the certification; 
+
+ (ii) Will be performed in a manner that, to the maximum practicable extent, minimizes adverse impacts to water quality, threatened and endangered species, and beneficial uses of the Klamath River (including the use of best practices and interim and post-removal protection, mitigation, and monitoring measures); and 
+
+ (iii) Will not cause an exceedance of a water quality standard set forth in this Division by the end of the maximum period for meeting standards specified in the certification. 
+
+ (6) Outstanding Resource Waters of Oregon (ORWs): Crater Lake. The current high water quality and exceptional ecological and recreation values of Crater Lake shall be maintained and protected, except as altered by natural processes or as authorized under (6)(a)-(b), below. 
+
+ (a) No new NPDES discharge or increase of an existing NPDES discharge to Crater Lake shall be allowed, except a construction stormwater permit may be authorized for projects that will not have more than a short-term water quality impact. 
+
+ (b) Any other new discharge to Crater Lake is prohibited if such discharge would degrade the water quality or ecological or recreation values of Crater Lake, except in the following circumstances: 
+
+ (A) As needed to respond to a public health or safety emergency, including but not limited to wildfire response. The water quality impacts of such responses shall be short term and will be mitigated or rehabilitated to the extent practicable. 
+
+ (B) As needed in connection with ecological restoration or water quality improvement activities where short term water quality impacts are necessary to obtain long-term restoration or water quality improvements. 
+
+ (c) The Environmental Quality Commission acknowledges the mandate of Crater Lake National Park to also manage the park for the purpose of providing public access and enjoyment, as directed by the National Park Service Organic Act (16U.S.C. 1 et seq.). 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, 468B.030, 468B.035 & 468B.048 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468B.030, 468B.035 & 468B.048 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 5-2021, amend filed 02/09/2021, effective 02/09/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 4-2021, amend filed 01/25/2021, effective 01/25/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 2-2012, f. & cert .ef. 5-21-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 1-2007, f. & cert. ef. 3-14-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 17-2003, f. & cert. ef. 12-9-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 125 MATERIALS SAFETY AND SECURITY 
+ 333-125-0135 
+ Physical Protection Requirements During Use: Monitoring, Detection, and Assessment 
+ 
+ (1) Licensees shall establish and maintain the capability to continuously monitor and detect without delay all unauthorized entries into its security zones. Licensees shall provide the means to maintain continuous monitoring and detection capability in the event of a loss of the primary power source, or provide for an alarm and response in the event of a loss of this capability to continuously monitor and detect unauthorized entries.  (2) Monitoring and detection must be performed by:  (a) A monitored intrusion detection system that is linked to an onsite or offsite central monitoring facility; or  (b) Electronic devices for intrusion detection alarms that will alert nearby facility personnel; or  (c) A monitored video surveillance system; or  (d) Direct visual surveillance by approved individuals located within the security zone; or  (e) Direct visual surveillance by a licensee designated individual located outside the security zone.  (f) A licensee subject to OAR 333-125-0100 through 333-125-0155 shall also have a means to detect unauthorized removal of the radioactive material from the security zone. This detection capability must provide:  (A) For category 1 quantities of radioactive material, immediate detection of any attempted unauthorized removal of the radioactive material from the security zone. Such immediate detection capability must be provided by:  (i) Electronic sensors linked to an alarm; or  (ii) Continuous monitored video surveillance; or  (iii) Direct visual surveillance.  (g) For category 2 quantities of radioactive material, weekly verification through physical checks, tamper indicating devices, use, or other means to ensure that the radioactive material is present.  (3) Assessment. Licensees shall immediately assess each actual or attempted unauthorized entry into the security zone to determine whether the unauthorized access was an actual or attempted theft, sabotage, or diversion.  (4) Personnel communications and data transmission. For personnel and automated or electronic systems supporting the licensee’s monitoring, detection, and assessment systems, licensees shall:  (a) Maintain continuous capability for personnel communication and electronic data transmission and processing among site security systems; and  (b) Provide an alternative communication capability for personnel, and an alternative data transmission and processing capability, in the event of a loss of the primary means of communication or data transmission and processing. Alternative communications and data transmission systems may not be subject to the same failure modes as the primary systems.  (5) Response. Licensees shall immediately respond to any actual or attempted unauthorized access to the security zones, or actual or attempted theft, sabotage, or diversion of category 1 or category 2 quantities of radioactive material at licensee facilities or temporary job sites. For any unauthorized access involving an actual or attempted theft, sabotage, or diversion of category 1 or category 2 quantities of radioactive material, the licensee’s response shall include requesting, without delay, an armed response from the LLEA. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 453.635 
+ 
+ 
+ Statutes/Other Implemented:  ORS 453.635 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 19-2015, f. 9-30-15, cert. ef. 10-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

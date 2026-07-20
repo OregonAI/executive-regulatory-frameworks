@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Secretary of State 
+ Archives Division - Chapter 166 
+ 
+ 
+ 
+ 
+ Division 17 ELECTRONIC RECORDS 
+ 166-017-0035 
+ Digitization Standards 
+ 
+ Agency electronic records systems that maintain official copies of public records must meet the following minimum requirements for digitization of paper or microfilm records into the system (as stated in OAR 166, Division 25):  (1) Documents containing fonts ten-point or larger, and containing no signatures, must be scanned at a minimum density of 200 DPI (dots per inch), when converting paper or microfilm records to electronic records.  (2) Documents containing fonts smaller than ten-point, signatures, architectural and engineering drawings, maps and line art must be scanned at a minimum density of 300 DPI.  (3) Cancelled checks must be scanned at a minimum density of 240 DPI grayscale and meet the requirements of ANSI X9.100-140 — Specifications for an Image Replacement Document.  (4) Digitized documents must be verified for accuracy and completeness after digitization and prior to the destruction of the paper or microfilm original.  (5) Scanners must be monitored for quality control. Documentation describing each inspection must be maintained for each digital imaging system and must include the date of inspection, name of inspector(s), group of documents inspected, and sample size (if applicable). Policies and procedures must conform to ANSI/AIIM MS44-R1993, Recommended Practice for Quality Control of Image Scanners and ANSI/AIIM TR25-1995 — The Use of Optical Disks for Public Records which are incorporated by reference and are available from the Association for Information and Image Management, 1100 Wayne Avenue, Suite 1100, Silver Spring, MD 20910.  (6) Targeting for converting microforms to electronic images must be done in accordance with ANSI/AIIM MS44-R1993. Technical targets used must be the IEE Std 167A-1987, Facsimile Test Chart, AIIM Scanner Test Chart #2, and for color images, the Process Ink Gamut Chart. These Charts are available from the Association of Information and Image Management, 1100 Wayne Avenue, Suite 1100, Silver Spring, MD 20910 or from the Archives Division.  (7) A hybrid micrographic system (system combining a micrographic/microfilm analog system with electronic technology) that conforms to OAR 166-025-0021 may be used. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 192.050, 192.060 & 192.105 
+ 
+ 
+ Statutes/Other Implemented:  357.825(2), 357.855 & 357.895 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSA 1-2016, f. & cert. ef. 5-5-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

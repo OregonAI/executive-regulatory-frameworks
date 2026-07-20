@@ -1,0 +1,370 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 141 OREGON HEALTH PLAN 
+ 410-141-3885 
+ Grievances & Appeals: Notice of Action/Adverse Benefit Determination 
+ 
+ (1) When a Managed Care Entity (MCE) has made an adverse benefit determination, the MCE shall give the requesting provider, the Member and the member’s representative a written Notice of Adverse Benefit Determination (NOABD). The notice shall: 
+
+ (a) Comply with the Authority’s formatting and readability standards in OAR 410-141-3585 and 42 CFR § 438.10 and be written in plain language sufficiently clear that a layperson could understand the notice and make an informed decision about appealing and following the process for requesting an appeal; 
+
+ (b) For timing of notices, follow timelines required for the specific service authorization or type via oral and written mechanisms for any service request of the member or the member’s provider outlined in OAR 410-141-3835 MCE Service Authorization or otherwise specified in this rule. 
+
+ (2) The following are notice requirements for preservice denials: 
+
+ (a) Meet the content notice requirements specified in 42 CFR § 438.404 and in the MCE contract, including the following information: 
+
+ (A) MCE contact information and subcontractor contact information including name, address, and telephone number, if applicable, included in the ABD notice excluding any cover pages; 
+
+ (B) Date of the notice; 
+
+ (C) For notices not pertaining to non-emergency medical transportation (NEMT) services, the name of the member’s Primary Care Practitioner (PCP), Primary Care Dentist (PCD), or Behavioral Health (BH) professional if the member has an assigned practitioner or the most specific information available if a member is not assigned to a practitioner due to the clinic/facility model. If the member has not been assigned a practitioner because they enrolled in the MCE within the last ninety (90) days, the NOABD shall state PCP, PCD, BH provider assignment has not occurred; 
+
+ (D) Member’s name, date of birth, address, and OHP member ID number; 
+
+ (E) Service requested and the adverse benefit determination the MCE intends to make, including whether the MCE is denying, (in whole or part) terminating, suspending, or reducing a service; 
+
+ (F) Date service was requested by the provider or member; 
+
+ (G) Name of the provider who requested the service; 
+
+ (H) Effective date of the adverse benefit determination if different from the date of the notice; 
+
+ (I) Diagnosis and procedure codes submitted with the authorization request including a description of all codes in plain language. For services that do not include a procedure code a description of the requested service; 
+
+ (J) Whether the MCE considered other conditions such as co-morbidity factors if the condition was below the funding line on the Prioritized List of Health Services pursuant to OAR 410-141-3820 and 410-141-3830; 
+
+ (K) Clear and thorough explanation of the specific reasons for the adverse benefit determination. If the service has been denied as the provider did not submit the supporting documentation include a statement in the NOABD that before denying the requested service attempts by the MCE have been made to obtain the documentation from the provider; 
+
+ (L) A reference to the specific statutes and administrative rules to the highest level of specificity for each reason and specific circumstance identified in the NOABD; 
+
+ (M) The Member, member representative or, the provider with the member’s written consent as required under OAR 410-141-3890(1), may file a written or oral appeal of the MCE’s adverse benefit determination with the MCE within sixty (60) days from the date of the NOABD, including information on exhausting the MCE’s one level of appeal, and the procedures to exercise that right; 
+
+ (N) The Member, member representative or the provider with the member’s written consent has the right to request a contested case hearing either orally or in writing with the Authority 120 days from the date of the MCE’s Notice of Appeal Resolution or where the MCE failed to meet appeal timelines (standard appeal sixteen (16) days to review and resolve appeal from date of receipt with a possible fourteen (14) day extension OAR 410-141-3890, expedited appeal 72 hours to review and resolve appeal from date of receipt with a possible fourteen (14) day extension OAR 410-141-3895), and the procedures to exercise that right; 
+
+ (O) The circumstances under which an appeal process or contested case hearing can be expedited and how the Member, member representative or the member’s provider may request it. If the MCE denies a request for an expedited appeal, it shall be transferred to the standard appeal resolution timeframes; 
+
+ (P) The member’s right to have benefits continue pending resolution of the appeal or contested case hearing and that continued benefits can be requested by the Member or member’s representative. The timeframes to request that benefits be continued and the circumstances under which the member may be required to pay the cost of these services as described in OAR 410-141-3910 ; 
+
+ (Q) The member’s right to be provided upon request and free of charge, reasonable access to and copies of all documents, records, and other information relevant to the member’s adverse benefit determination including any processes, strategies, or evidentiary standards used by the MCE in setting coverage limits or making the adverse benefit determination; 
+
+ (R) Information on requesting help and who to contact; 
+
+ (S) To support their appeal, the member’s right to give information and testimony in person or in writing, and make legal and factual arguments in person or in writing within the appeal timelines; and 
+
+ (T) Inclusion of the names of providers, clinics or member’s representative copied on the notice; 
+
+ (b) Use an Authority approved NOABD notice form unless the member is a dually eligible member of affiliated Medicare and Medicaid plans, in which case the CMS Integrated Denial Notice may be used as long as it incorporates required information fields in the NOABD. 
+
+ (3) The following are notice requirements for post service denials: 
+
+ (a) Meet the content notice requirements specified in 42 CFR § 438.404 and in the MCE contract, including the following information: 
+
+ (A) MCE contact information including name, address, and telephone number and subcontractor contact information, if applicable, included in the NOABD excluding any cover pages; 
+
+ (B) Date of the notice; 
+
+ (C) For notices not pertaining to non-emergency medical transportation (NEMT) services, the name of the member’s Primary Care Practitioner (PCP), Primary Care Dentist (PCD), or Behavioral Health (BH) professional if the member has an assigned practitioner or the most specific information available if a member is not assigned to a practitioner due to the clinic/facility model. If the member has not been assigned a practitioner because they enrolled in the MCE within the last ninety (90) days, the NOABD shall state PCP, PCD, BH provider assignment has not occurred; 
+
+ (D) Member’s name, D.O.B, address, and OHP member ID number; 
+
+ (E) Service previously provided in plain language and the adverse benefit determination the MCE made; 
+
+ (F) Date the service was provided; 
+
+ (G) Name of the provider who provided the service; 
+
+ (H) Effective date (date claim denied) of the adverse benefit determination if different from the date of the notice; 
+
+ (I) Diagnosis and procedure codes submitted on the claim including a description of all codes in plain language. For services that do not include a procedure code a description of the service provided in plain language; 
+
+ (J) Whether the MCE considered other conditions such as co-morbidity factors if the condition was below the funding line on the Prioritized List of Health Services and other services pursuant to OAR 410-141-3820 and 410-141-3830. NOABD shall clearly indicate whether a medical review was performed and if not that the provider can resubmit claim with chart notes for review of comorbidity; 
+
+ (K) Clear and thorough explanation of the specific reasons for the adverse benefit determination. If the service has been denied as the provider did not submit the supporting documentation include a statement in the NOABD that before denying the requested service attempts by the MCE have been made to obtain the documentation from the provider; 
+
+ (L) A reference to the specific statutes and administrative rules to the highest level of specificity for each reason and specific circumstance identified in the ABD notice; 
+
+ (M) The Member, member representative or, the provider with the member’s written consent as required under OAR 410-141-3890(1), may file a written or oral appeal of the MCE’s adverse benefit determination with the MCE within 60 days from the date of the NOABD, including information on exhausting the MCE’s one level of appeal, and the procedures to exercise that right; 
+
+ (N) The Member, member representative or the provider with the member’s written consent has the right to request a contested case hearing either orally or in writing with the Authority 120 days from the date of the MCE’s Notice of Appeal Resolution or where the MCE failed to meet appeal timelines (standard appeal 16 days to review and resolve appeal from date of receipt with a possible fourteen (14) day extension 410-141-3890, expedited appeal seventy two (72) hours to review and resolve appeal from date of receipt with a possible 14 day extension 410-141-3895) and the procedures to exercise that right; 
+
+ (O) An explanation to the member that there are circumstances under which an appeal process or contested case hearing can be expedited and how the Member, member representative or the member’s provider may request it, but that an expedited appeal and hearing shall not be granted for post-service denials as the service has already been provided; 
+
+ (P) The member’s right to have benefits continue pending resolution of the appeal or contested case hearing and that continued benefits can be requested by the Member or member’s representative. The timeframes to request that benefits be continued and the circumstances under which the member may be required to pay the cost of these services as described in OAR 410-141-3910 ; 
+
+ (Q) The member’s right to be provided upon request and free of charge, reasonable access to and copies of all documents, records, and other information relevant to the member’s adverse benefit determination including any processes, strategies, or evidentiary standards used by the MCE in setting coverage limits or making the adverse benefit determination; and 
+
+ (R) A statement that the provider cannot bill the member for a service rendered unless the member signed an OHP Agreement to Pay form (OHP 3165 or 3166); 
+
+ (S) To support their appeal, the member’s right to give information and testimony in person or in writing, and make legal and factual arguments in person or in writing within the appeal timelines; 
+
+ (T) Information on requesting help and who to contact; and 
+
+ (U) Inclusion of the names of providers, clinics or member’s representative copied on the notice. 
+
+ (b) Use an Authority approved form unless the member is a dually eligible member of affiliated Medicare and Medicaid plans, in which case the CMS Integrated Denial Notice may be used as long as it incorporates required information fields in the NOABD. 
+
+ (4) The MCE shall provide a copy of the Request to Review a Health Care Decision Appeal and Hearing Request form (OHP 3302) or approved facsimile when an NOABD is issued. 
+
+ (5) The MCE may provide a copy of the Non-Discrimination Policy when an NOABD is issued. 
+
+ (6) For requirements of NOABD that affect services previously authorized, the MCE shall mail the notice at least ten (10) days before the date the adverse benefit determination reduction, termination, or suspension takes effect, as referenced in 42 CFR 431.211. 
+
+ (7) In 42 CFR §§ 431.213 and 431.214, exceptions related to advance notice include the following: 
+
+ (a) The MCE may mail the notice no later than the date of adverse benefit determination if: 
+
+ (A) The MCE has factual information confirming the death of the member; 
+
+ (B) The MCE receives a signed, written notice from the member that the services previously requested are no longer desired and clearly indicates the member understands that the services previously requested shall be terminated or reduced as a result of the notice; 
+
+ (C) The MCE may verify that the member has been admitted to an institution where the member is no longer eligible for OHP services from the MCE; 
+
+ (D) The MCE is unaware of the member’s location and the MCE receives returned mail directed to the member from the post office indicating no forwarding address and the Authority or Department has no other address; 
+
+ (E) The MCE verifies another state, territory, or commonwealth accepted the member for Medicaid services; or 
+
+ (F) The member’s PCP, PCD, or behavioral health professional prescribed a change in the level of health services. 
+
+ (b) The MCE must mail the notice five days before the adverse benefit determination when the MCE has: 
+
+ (A) Facts indicating that an adverse benefit determination may be taken because of probable fraud on part of the member; and 
+
+ (B) Verified those facts, whenever possible, through secondary resources. 
+
+ (c) For denial of payment, the adverse benefit determination shall be mailed at the time of any adverse benefit determination that affects the claim. 
+
+ (8) Within sixty (60) days from the date on the notice: The member or provider may file an appeal; the member may request a Contested Case Hearing with the Authority after receiving notice that the MCE’s adverse benefit determination is upheld; or if the MCE fails to adhere to the notice and timing requirements in 42 CFR 438.408, the Authority may consider the MCE appeals process exhausted. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042 & 414.065 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.065 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 94-2025, amend filed 12/22/2025, effective 01/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 143-2024, amend filed 12/29/2024, effective 01/01/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 98-2023, amend filed 12/28/2023, effective 01/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 89-2022, amend filed 12/16/2022, effective 01/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 28-2021, amend filed 06/28/2021, effective 07/01/2021 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 57-2019, adopt filed 12/17/2019, effective 01/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

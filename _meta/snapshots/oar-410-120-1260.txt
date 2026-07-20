@@ -1,0 +1,588 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 120 MEDICAL ASSISTANCE PROGRAMS 
+ 410-120-1260 
+ Provider Enrollment
+ 
+ 
+ (1) This rule applies to providers requesting enrollment, currently enrolled, and previously enrolled  with the Oregon Health Authority (Authority), Health Systems Division (Division). 
+
+ (2) Providers signing the Provider Enrollment Agreement constitute agreement to comply with all applicable Authority provider rules , Oregon Department of Human Services (ODHS) provider rules, and federal and state laws and regulations applicable to Medicaid payments. 
+
+ (3) Authority review of a provider application for enrollment, material change in a provider’s enrollment information, and any documentation received in response to an Authority re-validation request is based on a categorical risk level of limited, moderate, or high. If a provider falls within more than one risk level described in 42 CFR 455.450, the highest level of review is conducted by Authority. Authority will assign a risk level which meets or exceeds federal requirement and reserves the right to adjust provider risk level at any time when: 
+
+ (a) Authority imposes a payment suspension, in accordance with OAR 410-120-1400, on a provider based on credible allegation of fraud, waste or abuse; 
+
+ (b) The provider has an existing Medicaid overpayment which, including all outstanding depts and interest, is $1,500 or greater and all of the following: 
+
+ (A) Is more than 30 calendar days old; 
+
+ (B) Has not been repaid at the time the application for enrollment is filed; 
+
+ (C) Is not currently being appealed; and 
+
+ (D) Is not part of an Authority approved extended repayment schedule for the entire outstanding overpayment. 
+
+ (c) The provider has been excluded by the Office of Inspector General (OIG) or another state's Medicaid program within the previous 10 years; or 
+
+ (d) Authority or CMS in the previous six (6) months lifted a temporary moratorium for the particular provider type, in compliance with 42 CFR 455.470 and 42 CFR 424.570, and a provider that was prevented from enrolling based on the moratorium applies for enrollment as a provider at any time within six (6) months from the date the moratorium was lifted. 
+
+ (4) Authority, CMS, its agents, or its designated contractors may, in accordance with 42 CFR 455.432, conduct pre- and post-enrollment on-site visits and unannounced inspections of any and all provider locations at any time, for all provider types. 
+
+ (5) Providers enrolled by the Authority include: 
+
+ (a) A non-billing provider, meaning a provider who is issued a provider number for purposes of screening, data collection or non-claims-use such as, but not limited to: 
+
+ (A) Ordering or referring providers , required by 42 CFR 455.410,  whose only relationship with the Authority is to order, refer, or prescribe services for Authority members; 
+
+ (B) A billing agent or billing service submitting claims or providing other business services on behalf of a provider but not receiving payment in the name of or on behalf of the provider; 
+
+ (C) An encounter only provider contracted with and credentialed by a MCE, as required by OAR 410-141-3510. 
+
+ (b) A payable provider, meaning a provider who is issued a provider number for submitting health care claims for reimbursement from the Authority. A payable provider may be: 
+
+ (A) The rendering provider; 
+
+ (B) An individual, agent, business, corporation, clinic, group, institution, or other entity that in connection with the submission of claims or encounters receives or directs the payment on behalf of a rendering provider. 
+
+ (6) When a payable provider is receiving or directing payment on behalf of the rendering provider, the payable provider must: 
+
+ (a) Meet one of the following standards: 
+
+ (A) Have a relationship with the rendering provider described in 42 CFR 447.10(g) and have the authority to submit the rendering provider enrollment application and supporting documentation on behalf of the rendering provider; and 
+
+ (B) Is a contracted billing agent or billing service enrolled with the Oregon Health Authority to provide services with the submission of claims and to receive or direct payment in the name of the rendering provider pursuant to 42 CFR 447.10(f). 
+
+ (b) Maintain and provide to the Authority upon request records indicating the billing provider's relationship with the rendering provider. This includes: 
+
+ (A) Identifying all rendering providers for whom they bill or receive or direct payments at the time of enrollment; 
+
+ (B) Notifying the Authority within 30 days using Authority forms of a change to the rendering provider’s enrollment record such as name, date of birth, address, Authority assigned provider numbers, National Provider Identification Numbers ( NPI), Social Security Number (SSN), or the Employer Identification Number (EIN); and 
+
+ (C) The authorization to direct payment, signed by the rendering provider. 
+
+ (c) Prior to submission of any claims or receipt or direction of any payment from the Authority , obtain signed confirmation from the rendering provider that the billing entity or provider is authorized by the rendering provider to submit claims or receive or direct payment on behalf of the rendering provider. This authorization, and any limitations or termination of such authorization, must be signed by the rendering provider and maintained in the provider's files for at least  seven (7) years following the submission of claims or receipt or direction of funds from the Authority. 
+
+ (7) To facilitate timely claims and encounter processing and payment consistent with applicable privacy and security requirements for providers: 
+
+ (a) The Authority requires all non-billing and payable providers to be enrolled consistent with the provider enrollment process described in this rule; 
+
+ (b) If the provider uses electronic media to conduct transactions with the Authority or authorizes a non-billing provider, e.g. billing service or billing agent, to conduct such electronic transactions, the rendering provider must comply with the Authority Electronic Data Interchange (EDI) rules, OAR 943-120-0100 through 943-120-0200. Enrollment as a payable or non-billing provider is a necessary requirement for submitting electronic claims, but the provider must also register as an EDI trading partner and identify the EDI submitter in order to submit electronic claims; and 
+
+ (c) The claims and encounters submitted to the Authority must include an NPI for each provider subject to the NPI requirements in 45 CFR Part 162 Subpart D. Rendering and referring providers may not have the same NPI listed on the claim or encounter. Billing and rendering providers may not have the same NPI listed on the claim or encounter. 
+
+ (8) To be enrolled and able to bill and receive payment as a provider, an individual or organization must: 
+
+ (a) Meet applicable licensing and regulatory requirements set forth by federal and state statutes, regulations, and rules. The provider’s license must be active. Authority may deny enrollment, re-enrollment or revalidation when a provider’s licensing body has placed limitations on the provider’s license or an action that created a limitation on the provider’s license impacts the quality or safety of services provided to OHP members. The Authority may request additional documentation from the provider or the licensing body or require additional screening. 
+
+ (b) Comply with all Oregon statutes and regulations for provision of Medicaid and CHIP services . This includes meeting all applicable national and state licensure and certification requirements for all employees, subcontractors, vendors or other third parties providing services to Medicaid members for which the enrolled provider is receiving reimbursement from Authority ; 
+
+ (c) If providing services within Oregon, have a valid Oregon business license if such a license is a requirement of the state, federal, county, or city government to operate a business or to provide services; and 
+
+ (d) Comply with all requests from Oregon Department of Justice (DOJ) Medicaid Fraud Control Unit (MFCU) for records and information when MFCU determines it is necessary to carry out its responsibilities. The records and information must be provided without charge and in the form requested by MFCU. A provider must comply with a request from MFCU for access to any records and information kept by providers to which OHA, ODHS, MCEs and MFCUs are authorized access by 42 CFR s431.107, including, but not limited to, any records necessary to disclose the extent of services provided to beneficiaries and any information regarding payments claimed by the provider for furnishing said services. The records and information must be provided without charge and in the form requested by MFCU. When a MFCU request for access is made in person such access must be granted immediately. A provider must make available to MFCU, copies of all procedural and policy statements, directives, and proposed or adopted regulations concerning the Medicaid program, and any other information relevant to the work of MFCU. Providers shall disclose protected health care information to the MFCU for oversight activities as authorized by 45 CFR s164.512(d). 
+
+ (9) An Indian Health Service facility meeting enrollment requirements shall be enrolled on the same basis as any other qualified provider. However, when state licensure is normally required, the facility need not obtain a license but must meet all applicable standards for licensure. 
+
+ (10) A provider that is currently subject to sanction by the Authority or the provider, a person with ownership or control of the provider, or a provider’s managing employee is excluded, sanctioned or suspended by the federal government or another state from Medicare or Medicaid participation the provider is not eligible for enrollment, consistent with OAR 410-120-1400, except when the Agency determines good cause exists, in accordance with 42 CFR 455.23 ; 
+
+ (11) All providers listed in section (5) of this rule must provide the following information before the Authority may enroll and issue or revalidate an Authority assigned provider number. Information disclosed by the provider is subject to verification by Authority and all providers must provide documentation at any time upon written request by the Authority: 
+
+ (a) The provider must disclose to the Authority the name, federal Tax Identification Number (TIN), date of birth, primary business address, every business location and P.O Box address of the provider and, as applicable, for the following : 
+
+ (A) Each person who has a direct or indirect ownership or control interest in the provider, is an agent or is a managing employee of the provider , regardless of whether that person is an individual or corporate entity; 
+
+ (B) Each person who has a direct or indirect ownership or control interest in the provider, is an agent or is a managing employee of the provider who has been convicted of a criminal offense related to that person’s involvement in any program under Medicare, Medicaid, or the CHIP program in the last ten years; 
+
+ (C) Any subcontractor in which the provider has a direct or indirect ownership interest of five (5) percent or more. 
+
+ (D) For the purpose of this rule, a person with direct or indirect ownership or control interest is defined in 42 CFR 455.101 and Authority calculates ownership and control percentage as required by 42 CFR 455.102.  
+
+ (E) When disclosing tax identification numbers: 
+
+ (i) For corporations, use the federal TIN; 
+
+ (ii) For individuals use the Social Security Number (SSN); 
+
+ (iii) All other providers use the EIN; 
+
+ (iv) The SSN or EIN of the rendering provider may not be the same as the Tax Identification Number of the billing provider; 
+
+ (v) Pursuant to 42 CFR 433.37, including federal tax laws at 26 USC 6041, SSN and EIN provided are used for the administration of federal, state, and local tax laws and the administration of this program for internal verification and administrative purposes including but not limited to identifying the provider for payment and collection activities. 
+
+ (F) Whether any of the persons so named with an ownership or control interest in the provider requesting enrollment : 
+
+ (i) Is related to another person with ownership or controlling interest in the provider requesting enrollment as a spouse, parent, child, sibling, or other family members by marriage or otherwise; and 
+
+ (ii) The name of any other current or former Medicaid providers in which an owner of the provider requesting enrollment has an ownership or control interest. 
+
+ (G) A provider shall submit, within 35 calendar days of the date of a request by the Authority full and complete information about: 
+
+ (i) the ownership of any subcontractor with whom the provider has had business transactions totaling more than $25,000 during the 12-month period ending on the date of the request; and 
+
+ (ii) any significant business transactions between the provider and any wholly owned supplier, or between the provider and any subcontractor, during the five-year period ending on the date of the request. 
+
+ (H) Failure to disclose or submit required information: Authority may not reimburse a provider for services furnished in the period beginning the day following the date the information was due to the Authority and ending on the day before the date on which the information was supplied. Authority will suspend or terminate the provider’s enrollment and Authority assigned provider number, in accordance with 42 CFR 455.104. 
+
+ (b) The provider must submit required information to the Authority: 
+
+ (A) Provider enrollment application based on the type of provider, Provider Enrollment Agreement, Provider Disclosure Statement, and all Attachments. Authority only accepts current versions of enrollment forms. All required forms are available at all times on OHA’s Provider Enrollment website ; 
+
+ (B) Application fee if required under 42 CFR 455.460; 
+
+ (C) Consent to criminal background check to complete Authority established screening process and comply with 42 CFR § 455.410 and § 455.450 requirements for provider categories which pose increased financial risk of fraud, waste or abuse to the Medicaid program, 42 CFR § 455.434 when required; 
+
+ (D) The Authority may use Medicare provider enrollment data to satisfy the requirement of (11)(b)(C), in this rule; and 
+
+ (E) Copy of provider’s license,  certification, or both. 
+
+ (12) Authority may screen providers and validate information disclosed by providers as required under 42 CFR 455.436. Authority reserves the right to conduct and review providers requesting enrollment or revalidation in a more stringent manner than Medicare or other state Medicaid programs, conduct additional screening, or impose additional requirements on providers, or all three, for a provider or a group of providers identified by the Authority as at increased risk for fraud, waste or abuse. 
+
+ (13) Authority may at its sole discretion require providers to enroll as a Medicare provider prior to enrolling in Oregon’s Medicaid program. 
+
+ (14) Authority may implement 180-day moratoriums on the enrollment of providers in a specific service category, on a statewide basis, or within a specific Oregon geographic area, when the Authority determines the action is necessary to safeguard public funds or to maintain the fiscal integrity of the Oregon Medicaid program. 
+
+ (15) Provider enrollment and the signed Provider Enrollment Agreement expires five (5) years from the date of enrollment. Authority will revalidate all enrolled providers at least every five (5) years, compliant with 42 CFR § 455.414. Authority reserves the right to revalidate more frequently, at its discretion. Failure of a provider to respond to Authority notice or failure to return requested information for revalidation will result in termination of the provider enrollment agreement and Authority assigned provider number. 
+
+ (16) Enrolled providers shall notify the Authority in writing using Authority forms within 35  calendar days of a material change in any status or condition that relates to their qualifications or eligibility to provide medical assistance services including, but not limited to, those listed in this subsection: 
+
+ (a) Changes in federal TIN, SSN or EIN. Failure to notify the Authority of a change of Federal TIN for entities or a SSN, or EIN for individual providers may result in the imposition of a $50 fine per incident: 
+
+ (b) Changes in business service location, affiliation, ownership, NPI, ownership and control information, or criminal convictions.   The provider must notify the Authority using Agency provided forms; 
+
+ (c) Providers who have more than one (1) NPI or receive a new NPI after enrolling with the Authority must complete a separate enrollment with the Authority for each NPI prior rendering services or listing the NPI on claims or encounters submitted to Authority. 
+
+ (d) Bankruptcy proceedings, the provider shall immediately notify the Authority Provider Enrollment Unit in writing; 
+
+ (e) Claims submitted by or payments made to providers who have not furnished the notification required by this rule or to a provider that fails to submit a new application as required by the Division under this rule may be denied or recovered. 
+
+ (17) If Authority notifies the provider of an error in the federal TIN, the provider must supply the appropriate valid federal TIN within 35 calendar days of the date of Authority’s notice. Failure to comply with this requirement may result in Authority imposing a fine of $50 for each such notice. Federal TIN requirements described in this rule refer to any such requirements established by the Internal Revenue Service. 
+
+ (18) Providers upon request may be enrolled by Authority up to 12 months prior to the date application for enrollment is received by the Authority only if: 
+
+ (a) The provider is appropriately licensed, certified, and otherwise meets all federal and Authority requirements for providers at the time services are provided; 
+
+ (b) The MCE submits to the Authority all required documentation to enroll the provider as an encounter only provider and that provider has an executed contract with and has successfully completed a credentialing process with the MCE; 
+
+ (c) Upon request, the provider or MCE must submit to Authority a clear written statement as to why retro-enrollment is necessary to increase access to care and advance the triple aim. 
+
+ (19) The Authority requires two types of provider numbers: 
+
+ (a) The Authority issued Oregon Medicaid provider number which establishes an individual or organization’s enrollment as an Oregon Medicaid provider: 
+
+ (A) The Provider Enrollment Agreement and the provider’s enrollment as an Oregon Medicaid provider is specific to the provider type and specialty type listed on the application for enrollment and constitutes a contractual relationship with the Authority. This Authority assigned number designates the specific categories of services covered by the Authority Provider Enrollment Agreement. For example, a pharmacy provider number applies to pharmacy services and cannot be used by the provider provide or bill for durable medical equipment. 
+
+ (B) A provider seeking to render services or bill as more than one provider type shall complete a separate provider application and establish a separate Oregon Medicaid provider number; 
+
+ (C) For providers not subject to NPI requirements, this Authority issued number is the provider identifier for billing the Authority. 
+
+ (b) The Authority requires a National Provider Identification (NPI) in compliance with 45 CFR Part 162 Subpart D, for providers subject to NPI and Taxonomy requirements, as enumerated by the National Plan and Provider Enumeration System (NPPES). A provider must obtain an NPI and Taxonomy code prior to requesting enrollment and include these numbers in the application to request enrollment. The NPPES NPI information and provider applications are available at all times online: https://nppes.cms.hhs.gov/#/ . For providers subject to NPI requirements: 
+
+ (A) The NPI is the provider identifier for billing the Authority. The Provider Enrollment Agreement and the provider’s enrollment as an Oregon Medicaid provider is specific to the NPI listed on the application for enrollment and constitutes a contractual relationship with the Authority ; 
+
+ (B) Providers currently enrolled that obtain a new or additional NPI shall complete a new application for provider enrollment with the Division's Provider Enrollment Unit and the application must be approved by the Authority prior to the provider rendering or billing for services associated with that NPI ; 
+
+ (20) Enrolled providers are required to check the Prescription Drug Monitoring Program (PDMP) as defined in ORS 431A,655 before prescribing a schedule II-controlled substance pursuant to 42 U.S.C 1396w-3a. 
+
+ (a) The PDMP check does not apply to clients in exempt populations: 
+
+ (A) Individuals receiving hospice; 
+
+ (B) Individuals receiving palliative care; 
+
+ (C) Individuals receiving cancer treatment; 
+
+ (D) Individuals with sickle cell disease; and 
+
+ (E) Residents of a long-term care facility, of a facility described in 42 U.S.C. 1396d, or of another facility for which frequently abused drugs are dispensed for residents through a contract with a single pharmacy in accordance with 42 U.S.C. 1396w–3a(h)(2)(B); and 
+
+ (F) Individuals admitted to an inpatient hospital facility. This exemption shall only apply to schedule II controlled substances provided or administered to the individual admitted to the inpatient hospital facility. 
+
+ (b) PDMP requirements are in accordance with OAR 333-023-0800 to 333-023-0830. 
+
+ (21) Providers of services outside of Oregon shall be enrolled as a provider if they comply with the requirements in OAR 410-120-1260 and under the following conditions: 
+
+ (a) The provider is appropriately licensed or certified in the state in which the provider is located and meets standards for participation in the Medicaid program. Disenrollment or sanction from other states’ Medicaid programs or exclusion from any other federal or state health care program is a basis for disenrollment, termination, or suspension from participation as a provider in Oregon’s medical assistance programs; 
+
+ (b) The provider bills only for services provided within the provider's scope of licensure or certification; 
+
+ (c) For noncontiguous out-of-state providers, the services provided must be authorized in the manner required under OAR Ch 410 and Ch 309 rules specific to the service, OAR 410-120-1180 and these rule for out-of-state services: 
+
+ (A) The services provided are for a specific Oregon Medicaid member who is temporarily outside Oregon or the contiguous area of Oregon; 
+
+ (B) Services provided are for foster care or subsidized adoption children placed out of state; or 
+
+ (C) The provider is seeking Medicare deductible or coinsurance coverage for Oregon Qualified Medicare Beneficiaries (QMB) members; or 
+
+ (D) The services for which the provider bills are covered services under the Oregon Health Plan (OHP) and follow Authority requirements for prior authorization, when applicable . 
+
+ (d) Facilities including but not restricted to hospitals, rehabilitative facilities, institutions for care of individuals with mental retardation, psychiatric hospitals, and residential care facilities shall be enrolled as providers only if the facility is enrolled as a Medicaid provider in the state in which the facility is located or is licensed as a facility provider of services by Oregon; 
+
+ (e) Out-of-state providers may provide contracted services per OAR 410-120-1880; and 
+
+ (f) Out-of-state entities seeking to enroll, or enrolled, as a billing provider shall register with the Secretary of State and the Department of Revenue to transact business in Oregon pursuant to ORS 63.701 and OAR 410-120-1260. 
+
+ (g) The Authority shall enroll an out-of-state noncontiguous pharmacy as a provider only when enrollment is necessary to meet a need that cannot be met by an in-state pharmacy. The pharmacy is required to be licensed in the state where the member filled the prescription (i.e. state where medication is dispensed) and must be enrolled with the Authority as a Medicaid provider in order to submit claims or encounters to Authority. Identified needs include but are not limited to the following: 
+
+ (A) Enrollment is necessary to reimburse an out-of-state pharmacy for services rendered to a member that travels out of Oregon and is unable to use a pharmacy licensed in Oregon. The out-of-state pharmacy must be licensed in the state where the services are rendered; 
+
+ (B) Enrollment is necessary to ensure the Authority is the payer of last resort, OAR 410-120-1280, such as when a member’s TPL payer requires use of an out-of-state mail order pharmacy; 
+
+ (C) Enrollment is necessary to ensure access to covered pharmacy services that are not otherwise generally available either through the Authority’s contracted mail order pharmacy or through enrolled in-state pharmacies; or 
+
+ (D) Enrollment is necessary to ensure access to covered pharmacy services provided to members residing in a licensed in-state facility, such as a long-term care facility. The out-of-state pharmacy and the enrollment is limited to services provided to residents of the in-state facility. 
+
+ (22) Termination of provider enrollment and the Authority assigned provider number: 
+
+ (a) The provider may terminate enrollment at any time. The request shall be in writing and signed by the provider. The notice shall specify the Authority assigned provider number to be terminated and the effective date of termination. Termination or deactivation of the provider enrollment does not terminate any obligations of the provider for dates of services during which the enrollment was in effect; 
+
+ (b) The Authority may deny enrollment, revalidation, or re-enrollment, or sanction and suspend or terminate a provider at any time including but not limited to any of the reasons listed in OAR410-120-1400; and 
+
+ (c) Authority will send written notice to the provider when a provider’s application for enrollment, revalidation or re-enrollment is denied, enrollment is terminated or suspended, or a sanction is imposed by Authority under OAR 410-120-1400, regardless of whether the provider is continuously enrolled, or the provider number is active at the time notice is issued. Authority notice will state the effective date of the Action. 
+
+ (23) A provider may appeal a termination, suspension or other sanction. If a provider’s enrollment, revalidation, or re-enrollment is denied, enrollment is suspended, terminated or any sanction is imposed by the Authority under this rule, the provider may request a contested case hearing pursuant to OAR 410-120-1400, 410-120-1460, 410-120-1600 and 410-120-1860. 
+
+ (24) If a provider’s enrollment is suspended or terminated, the Authority may notify board of registration or licensure, federal or other state Medicaid agencies, MCEs and the National Practitioner Data Base of the finding(s) and the sanction(s) imposed. 
+
+ (25) If a provider’s enrollment has been deactivated, terminated or suspended for any reason the provider must complete a new application for enrollment, including all required documentation, and submit it to the Authority. To re-enroll the provider, Authority review is contingent upon the risk-based screening in section (3) of this rule. A re-enrollment by Authority has the same requirements and process as a new enrollment. 
+
+ (26) Authority may deny enrollment, revalidation or re-enrollment request (for encounter purposes) to an encounter only provider, or sanction and suspend or terminate an enrolled encounter only provider, for any of the reasons in OAR 410-120-1400: 
+
+ (a) Authority will notify the encounter only provider and the MCE. Authority notice will state the effective date of the Action; 
+
+ (b) Authority may recoup any overpayments in accordance with OAR Ch 410, Div. 120, CH 410 Div. 141, and the contract between the MCE and the Authority; and 
+
+ (c) The MCE must adjust encounter claims in accordance with OAR 410-141-3570 and recoup overpayments from the provider in accordance with OAR 410-141-3510. 
+
+ (27) The provision of health care services or items to Authority members is a voluntary action on the part of the provider. Providers are not required to serve all Authority members seeking service. 
+
+ (28) Providers seeking to enroll in the Authority must be a provider type established in the State Plan as approved for Medicaid reimbursement. 
+
+ [NOTE: Publications referenced are available from the agency.] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042, 414.615, 414.625, 414.635 & 414.651 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.610 - 414.685 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 34-2024, minor correction filed 01/18/2024, effective 01/18/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 85-2023, minor correction filed 12/05/2023, effective 12/05/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 84-2023, amend filed 11/30/2023, effective 12/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 21-2023, minor correction filed 03/31/2023, effective 03/31/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 34-2022, amend filed 02/17/2022, effective 02/17/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 40-2021, temporary amend filed 09/15/2021, effective 10/01/2021 through 03/13/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 39-2021, temporary suspends temporary DMAP 38-2021, filed 09/15/2021, effective 10/01/2021 through 03/13/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 38-2021, temporary amend filed 09/15/2021, effective 09/15/2021 through 03/13/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 78-2018, amend filed 06/27/2018, effective 07/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 57-2014, f. 9-26-14, cert. ef. 10-1-14 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ DMAP 28-2012, f. 6-21-12, cert. ef. 7-1-12 
+DMAP 34-2008, f. 11-26-08, cert. ef. 12-1-08 
+OMAP 15-2006, f. 6-12-06, cert. ef. 7-1-06 
+OMAP 39-2005, f. 9-2-05, cert. ef. 10-1-05 
+OMAP 10-2005, f. 3-9-05, cert. ef. 4-1-05 
+OMAP 67-2004, f. 9-14-04, cert. ef. 10-1-04 
+OMAP 62-2003, f. 9-8-03, cert. ef. 10-1-03 
+OMAP 42-2002, f. & cert. ef. 10-1-02 
+OMAP 9-2001, f. 3-30-01, cert. ef. 4-1-01 
+OMAP 10-1999, f. & cert. ef. 4-1-99 
+OMAP 20-1998, f. & cert ef. 7-1-98 
+HR 5-1997, f. 1-31-97, cert. ef. 2-1-97 
+HR 31-1994, f. & cert. ef. 11-1-94 
+HR 32-1993, f. & cert. ef. 11-1-93, Renumbered from 410-120-0020, 410-120-0040 & 410-120-0060 
+HR 5-1992, f. & cert. ef. 1-16-92 
+HR 51-1991(Temp), f. 11-29-91, cert. ef. 12-1-91 
+HR 41-1991, f. & cert. ef. 10-1-91 
+HR 19-1990, f. & cert. ef. 7-9-90 
+HR 2-1990, f. 2-12-90, cert. ef. 3-1-90, Renumbered from 461-013-0063, 461-013-0075 & 461-013-0180 
+AFS 73-1989, f. & cert. ef. 12-7-89 
+AFS 38-1986, f. 4-29-86, cert. ef. 6-1-86 
+AFS 42-1983, f. 9-2-83, cert. ef. 10-1-83 
+AFS 117-1982, f. 12-30-82, cert. ef. 1-1-83 
+AFS 57-1982, f. 6-28-82, cert. ef. 7-1-82 
+AFS 52-1982, f. 5-28-82, cert. ef. 6-30-82 
+AFS 47-1982, f. 4-30-82, cert. ef. 5-1-82 
+AFS 33-1981, f. 6-23-81, cert. ef. 7-1-81 
+AFS 5-1981, f. 1-23-81, cert. ef. 3-1-81, Renumbered from 461-013-0060 
+PWC 812, f. & cert. ef. 10-1-76 
+PWC 803(Temp), f. & cert. ef. 7-1-76 
+PWC 683, f. 7-19-74, cert. ef. 8-11-74 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,409 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 122 HAZARDOUS SUBSTANCE REMEDIAL ACTION RULES 
+ 340-122-0115 
+ Definitions
+ 
+ 
+ Terms not defined in this rule have the meanings set forth in ORS 465.200. Additional terms are defined as follows unless the context requires otherwise: 
+
+ (1) "Acceptable risk level" with respect to the toxicity of hazardous substances has the meaning set forth in ORS 465.315 (1)(b)(A) and (B) and is comprised of the acceptable risk level definitions provided for carcinogenic exposures, noncarcinogenic exposures, and ecological receptors in sections (2) through (6) of this rule. 
+
+ (2) "Acceptable risk level for human exposure to individual carcinogens" means: 
+
+ (a) For deterministic risk assessments, a lifetime excess cancer risk of less than or equal to one per one million for an individual at an upper-bound exposure; or 
+
+ (b) For probabilistic risk assessments, a lifetime excess cancer risk for each carcinogen of less than or equal to one per one million at the 90th percentile, and less than or equal to one per one hundred thousand at the 95th percentile, each based upon the same distribution of lifetime excess cancer risks for an exposed individual. 
+
+ (3) "Acceptable risk level for human exposure to multiple carcinogens" means the acceptable risk level for human exposure to individual carcinogens and: 
+
+ (a) For deterministic risk assessments, a cumulative lifetime excess cancer risk for multiple carcinogens and multiple exposure pathways of less than or equal to one per one hundred thousand at an upper-bound exposure; or 
+
+ (b) For probabilistic risk assessments, a cumulative lifetime excess cancer risk for multiple carcinogens and multiple exposure pathways of less than or equal to one per one hundred thousand at the 90th percentile and less than or equal to one per ten thousand at the 95th percentile, each based upon the same distribution of cumulative lifetime excess cancer risks for an exposed individual. 
+
+ (4) "Acceptable risk level for human exposure to noncarcinogens" means: 
+
+ (a) For deterministic risk assessments, a hazard index less than or equal to one for an individual at an upper-bound exposure; or 
+
+ (b) For probabilistic risk assessments, a hazard index less than or equal to one at the 90th percentile, and less than or equal to ten at the 95th percentile, each based upon the same distribution of hazard index numbers for an exposed individual. 
+
+ (5) "Acceptable risk level for individual ecological receptors" applies only to species listed as threatened or endangered pursuant to 16 USC 1531 et seq. or ORS 465.172, and means: 
+
+ (a) For deterministic risk assessments, a toxicity index less than or equal to one for an individual ecological receptor at an upper-bound exposure, where the toxicity index is the sum of the toxicity quotients attributable to systemic toxicants with similar endpoints for similarly-responding species and the toxicity quotient is the ratio of the exposure point value to the ecological benchmark value; or 
+
+ (b) For probabilistic risk assessments, a toxicity index less than or equal to one at the 90th percentile and less than or equal to 10 at the 95th percentile, each based on the same distribution of toxicity index numbers for an exposed individual ecological receptor; or 
+
+ (c) The probability of important changes in such factors as growth, survival, fecundity, or reproduction related to the health and viability of an individual ecological receptor that are reasonably likely to occur as a consequence of exposure to hazardous substances is de minimis. 
+
+ (6) "Acceptable risk level for populations of ecological receptors" means a 10 percent chance, or less, that more than 20 percent of the total local population will be exposed to an exposure point value greater than the ecological benchmark value for each contaminant of concern and no other observed significant adverse effects on the health or viability of the local population. 
+
+ (7) "Assessment endpoint" means an explicit expression of a specific ecological receptor and an associated function or quality that is to be maintained or protected. Assessment endpoints represent ecological receptors directly or as their surrogates for the purposes of an ecological risk assessment. 
+
+ (8) "Background level" means the concentration of hazardous substance, if any, existing in the environment in the location of the facility before the occurrence of any past or present release or releases. 
+
+ (9) "Beneficial uses of water" means any current or reasonably likely future beneficial uses of groundwater or surface water by humans or ecological receptors. 
+
+ (10) "Carcinogen" means any substance or agent that produces or tends to produce cancer in humans. 
+
+ (11) "Cleanup level”, means the residual concentration of a hazardous substance in a medium that is determined to be protective of public health, safety and welfare, and the environment under specified exposure conditions. 
+
+ (12) "Commission" means the Environmental Quality Commission. 
+
+ (13) "Confirmed release" means a release of a hazardous substance into the environment that has been confirmed by the Department in accordance with OAR 340-122-0073. 
+
+ (14) "Confirmed release list" means a list of facilities for which the Director has confirmed a release of a hazardous substance. 
+
+ (15) "Contaminant of concern" means a hazardous substance that is present in such concentrations that the contaminant poses a threat or a potentially unacceptable risk to public health, safety or welfare, or the environment considering: 
+
+ (a) The toxicological characteristics of the hazardous substance that influence its ability to affect adversely human health, ecological receptors or the environment relative to the concentration of the hazardous substance at the facility; 
+
+ (b) The chemical and physical characteristics of the hazardous substance that govern its tendency to persist in the environment, move through environmental media, or accumulate through food webs; 
+
+ (c) The background level of the hazardous substances; 
+
+ (d) The thoroughness of the testing for the hazardous substance at the facility; 
+
+ (e) The frequency that the hazardous substance has been detected at the facility; and 
+
+ (f) Degradation by-products of the hazardous substances. 
+
+ (16) "Critical endpoint" or "Critical effect" means the adverse health effect used as the basis for the derivation of the reference dose (RfD). Exposure to a given chemical may result in a variety of toxic effects (e.g., liver defects, kidney defects, or blood defects). The critical endpoint is selected from the different adverse health effects produced by a given chemical, and is the adverse health effect with the lowest dose level that produced toxicity. 
+
+ (17) "Department" means the Oregon Department of Environmental Quality. 
+
+ (18) "Deterministic risk assessment" means a risk assessment that produces a point value estimate of risk for a specific set of exposure assumptions. 
+
+ (19) "De minimis release" means a release of a hazardous substance that, because of the quantity or characteristics of the hazardous substance released and the potential for migration and exposure of human or environmental receptors, can reasonably be considered to pose no significant threat to public health, safety or welfare, or the environment. 
+
+ (20) "Director" means the Director of the Department of Environmental Quality or the Director's authorized representative. 
+
+ (21) "Ecological benchmark value" means the highest no-observed-adverse-effect-level (NOAEL) for individual ecological receptors considering effects on reproductive success or the median lethal dose or concentration (LD50 or LC50) for populations of ecological receptors. If a NOAEL, LD50 or LC50, as applicable, is not available for ecological receptors considered in the risk assessment, the ecological benchmark value may be derived from other toxicological endpoints for those receptors or appropriate surrogates for those receptors, adjusted with uncertainty factors to equate to a NOAEL, LD50 or LC50. The ecological benchmark value shall be based, to the extent practicable, on studies whose routes of exposure and duration of exposure were commensurate with the expected routes and duration of exposure for ecological receptors considered in the risk assessment, or appropriate surrogates for those receptors. 
+
+ (22) "Ecological receptor" means a population of plants or animals (excluding domestic animals and cultivated plants) or an individual member of any species listed as threatened or endangered pursuant to 16 U.S.C. 1532 et seq. or ORS 496.172. 
+
+ (23) "Engineering control" means a remedial method used to prevent or minimize exposure to hazardous substances, including technologies that reduce the mobility or migration of hazardous substances. Engineering controls may include, but are not limited to, capping, horizontal or vertical barriers, hydraulic controls, and alternative water supplies. 
+
+ (24) "Environment" includes ecological receptors, the waters of the state, any drinking water supply, any land surface and subsurface strata, sediments, saturated soils, subsurface gas, or ambient air or atmosphere. 
+
+ (25) "Exposure point value" means the concentration or dose of a hazardous substance occurring at a location of potential contact between a human receptor and the hazardous substance, or between an ecological receptor and the hazardous substance. 
+
+ (26) "Facility" or "Site" means any building, structure, installation, equipment, pipe or pipeline including any pipe into a sewer or publicly owned treatment works, well, pit, pond, lagoon, impoundment, ditch, landfill, storage container, above ground tank, underground storage tank, motor vehicle, rolling stock, aircraft, or any site or area where a hazardous substance has been deposited, stored, disposed of, or placed, or otherwise come to be located and where a release has occurred or where there is a threat of a release, but does not include any consumer product in consumer use or any vessel. 
+
+ (27) "Groundwater" means any water, except capillary moisture, beneath the land surface or beneath the bed of any stream, lake, reservoir or other body of surface water within the boundaries of the state, whatever may be the geological formation or structure in which such water stands, flows, percolates or otherwise moves. 
+
+ (28) "Hazard index" means a number equal to the sum of the hazard quotients attributable to systemic toxicants with similar toxic endpoints. 
+
+ (29) "Hazard quotient" means the ratio of the exposure point value to the reference dose, where the reference dose is typically the highest dose causing no adverse effects on survival, growth or reproduction in human populations. 
+
+ (30) "Hazardous substance" means: 
+
+ (a) Hazardous waste as defined in ORS 466.005; 
+
+ (b) Any substance defined as a hazardous substance pursuant to section 101(14) of the federal Comprehensive Environmental Response, Compensation and Liability Act, P.L. 96-510, as amended, and P.L. 99-499; 
+
+ (c) Oil as defined in ORS 465.200(18); 
+
+ (d) Methane generated at a historic solid waste landfill; 
+
+ (e) The following per- and poly-fluoroalkyl substances, including all salts and structural isomers: 
+
+ (A) Perfluorooctanoic acid or PFOA; 
+
+ (B) Perfluorooctane sulfonic acid or PFOS; 
+
+ (C) Perfluorohexane sulfonic acid or PFHxS; 
+
+ (D) Perfluorononanoic acid or PFNA; 
+
+ (E) Hexafluoropropylene oxide dimer acid, commonly known as GenX chemicals or HFPO-DA; 
+
+ (F) Perfluorobutane sulfonic acid or PFBS; and 
+
+ (f) Any substance designated by the commission under ORS 465.400. 
+
+ (31) "Historic solid waste landfill" means: 
+
+ (a) A solid waste landfill that was never permitted for disposal of solid waste, including landfills that received solid waste prior to adoption of permit requirements under ORS 459.205; 
+
+ (b) A solid waste landfill that was previously permitted for disposal of solid waste pursuant to ORS 459.205, if operational and post-closure permits for management of the facility have expired, or have been terminated or revoked by the Department; and 
+
+ (c) A permitted solid waste landfill, if the Department determines that permit requirements for management of methane will not be implemented by the permittee including determinations by the Department that the permittee is financially unable to implement applicable permit requirements. 
+
+ (32) "Hot spots of contamination" means: 
+
+ (a) For groundwater or surface water, hazardous substances having a significant adverse effect on beneficial uses of water or waters to which the hazardous substances would be reasonably likely to migrate and for which treatment is reasonably likely to restore or protect such beneficial uses within a reasonable time, as determined in the feasibility study; and 
+
+ (b) For media other than groundwater or surface water, (e.g., contaminated soil, debris, sediments, and sludges; drummed wastes; "pools" of dense, non-aqueous phase liquids submerged beneath groundwater or in fractured bedrock; and non-aqueous phase liquids floating on groundwater), if hazardous substances present a risk to human health or the environment exceeding the acceptable risk level, the extent to which the hazardous substances: 
+
+ (A) Are present in concentrations exceeding risk-based concentrations corresponding to: 
+
+ (i) 100 times the acceptable risk level for human exposure to each individual carcinogen; 
+
+ (ii) 10 times the acceptable risk level for human exposure to each individual noncarcinogen; or 
+
+ (iii) 10 times the acceptable risk level for exposure of individual ecological receptors or populations of ecological receptors to each individual hazardous substance. 
+
+ (B) Are reasonably likely to migrate to such an extent that the conditions specified in subsection (a) or paragraphs (b)(A) or (b)(C) would be created; or 
+
+ (C) Are not reliably containable, as determined in the feasibility study. 
+
+ (33) "Institutional control" means a legal or administrative tool or action taken to reduce the potential for exposure to hazardous substances. Institutional controls may include, but are not limited to, use restrictions, environmental monitoring requirements, and site access and security measures. 
+
+ (34) "Inventory" means a list of facilities for which the Director has confirmed a release of a hazardous substance and, based on a preliminary assessment or equivalent information, has determined that additional investigation, removal, remedial action, or long term engineering or institutional controls related to removal or remedial action are required to assure protection of the present and future public health, safety and welfare, and the environment. 
+
+ (35) "Locality of the facility" means any point where a human or an ecological receptor contacts, or is reasonably likely to come into contact with, facility-related hazardous substances, considering: 
+
+ (a) The chemical and physical characteristics of the hazardous substances; 
+
+ (b) Physical, meteorological, hydrogeological, and ecological characteristics that govern the tendency for hazardous substances to migrate through environmental media or to move and accumulate through food webs; 
+
+ (c) Any human activities and biological processes that govern the tendency for hazardous substances to move into and through environmental media or to move and accumulate through food webs; and 
+
+ (d) The time required for contaminant migration to occur based on the factors described in subsections (35)(34)(a) through (c) of this rule. 
+
+ (36) "Measurement endpoints for ecological receptors" are quantitative expressions of an observed or measured response in ecological receptors exposed to hazardous substances. 
+
+ (37) "Noncarcinogen" means hazardous substances with adverse health effects on humans other than cancer. 
+
+ (38) "Onsite", for purposes of ORS 465.315(3), means the areal extent of contamination and all suitable areas in close proximity to the contamination necessary for implementation of a removal or remedial action. 
+
+ (39) "Permitted or authorized release" means a release that is from an active facility and that is subject to and in substantial compliance with a current and legally enforceable permit issued by an authorized public agency. 
+
+ (40) "Population" and "Local population", for purposes of evaluating ecological receptors, means a group of individual plants, animals, or other organisms of the same species that live together and interbreed within a given habitat, including any portion of a population of a transient or migratory species that uses habitat in the locality of the facility for only a portion of the year or for a portion of their lifecycle. 
+
+ (41) "Practical quantification limit" or "PQL" means the lowest concentration that can be reliably measured within specified limits of precision, accuracy, representativeness, completeness, and comparability when testing field samples under routine laboratory operating conditions using Department-approved methods. 
+
+ (42) "Preliminary assessment" means an investigation conducted in accordance with OAR 340-122-0072 for the purpose of determining whether additional investigation, removal, remedial action, or related engineering or institutional controls are needed to assure protection of public health, safety and welfare, and the environment. 
+
+ (43) "Probabilistic risk assessment" means a risk assessment that produces a credible range or distribution of possible risk estimates by taking into consideration the variability and uncertainty in the exposure and toxicity data used to make the assessment. 
+
+ (44) "Release" means any spilling, leaking, pumping, pouring, emitting, emptying, discharging, injecting, escaping, leaching, dumping or disposing into the environment including the abandonment or discarding of barrels, containers and other closed receptacles containing any hazardous substance, or any threat thereof, but excludes: 
+
+ (a) Any release which results in exposure to a person solely within a workplace, with respect to a claim that the person may assert against the person's employer under ORS chapter 656; 
+
+ (b) Emissions from the engine exhaust of a motor vehicle, rolling stock, aircraft, vessel or pipeline pumping station engine; 
+
+ (c) Any release of source, by product or special nuclear material from a nuclear incident, as those terms are defined in the Atomic Energy Act of 1954, as amended, if such release is subject to the requirements with respect to financial protection established by the Nuclear Regulatory Commission under Section 170 of the Atomic Energy Act of 1954, as amended, or, for the purposes of ORS 465.260 or any other removal or remedial action, any release of source by product special nuclear material from any processing site designated under Section 102(a)(1) or 302(a) of the Uranium Mill Tailings Radiation Control Act of 1978; and 
+
+ (d) The normal application of fertilizer. 
+
+ (45) "Remedial action" and "Removal" have the meanings set forth in ORS 465.200(22) and (24), respectively, and, for purposes of these rules, may include investigations, treatment, excavation and offsite disposal, engineering controls, institutional controls, any combination thereof. 
+
+ (46) "Remediated" means implementation of a removal or remedial action. 
+
+ (47) "Residual risk assessment" means both: 
+
+ (a) A quantitative assessment of the risk resulting from concentrations of untreated waste or treatment residuals remaining at the conclusion of any treatment and offsite disposal taking into consideration current and reasonably likely future land and water use scenarios and the exposure assumptions used in the baseline risk assessment; and 
+
+ (b) A qualitative or quantitative assessment of the adequacy and reliability of any institutional or engineering controls to be used for management of treatment residuals and untreated hazardous substances. 
+
+ (48) "Risk" means the probability that a hazardous substance, when released into the environment, will cause adverse effects in exposed humans or ecological receptors. 
+
+ (49) "Risk assessment" means the process used to determine the probability of an adverse effect due to the presence of hazardous substances. A risk assessment includes identification of the hazardous substances present in the environmental media; assessment of exposure and exposure pathways; assessment of the toxicity of the hazardous substances; characterization of human health risks; and characterization of the impacts or risks to the environment. 
+
+ (50) "Sensitive environment", for purposes of OAR 340-122-0045, means an area of particular environmental value where a hazardous substance could pose a greater threat than in other non-sensitive areas. Sensitive environments include but are not limited to: Critical habitat for federally endangered or threatened species; National Park, Monument, National Marine Sanctuary, National Recreational Area, National Wildlife Refuge, National Forest Campgrounds, recreational areas, game management areas, wildlife management areas; designated federal Wilderness Areas; wetlands (freshwater, estuarine, or coastal); wild and scenic rivers; state parks; state wildlife refuges; habitat designated for state endangered species; fishery resources; state designated natural areas; county or municipal parks; and other significant open spaces and natural resources protected under Goal 5 of Oregon's Statewide Planning Goals. 
+
+ (51) "Significant adverse effect on beneficial uses of water" means current or reasonably likely future exceedance of: 
+
+ (a) Applicable or relevant federal, state or local water quality standards, criteria, or guidance; 
+
+ (b) In the absence of applicable or relevant water quality standards, criteria, or guidance, the acceptable risk level; or 
+
+ (c) If subsections (a) and (b) of this section do not apply, the concentration of a hazardous substance indicated by available published peer-reviewed scientific information to have a significant adverse effect on a current or reasonably likely future beneficial use of water. 
+
+ (52) "Soil" means a mixture of organic and inorganic solids, air, water, and biota which exists on the earth surface above bedrock, including materials of anthropogenic sources such as slag and sludge. 
+
+ (53) "Solid waste" means all useless or discarded putrescible and nonputrescible materials, including but not limited to garbage, rubbish, refuse, ashes, paper and cardboard, sewage sludge, septic tank and cesspool pumpings or other sludge, useless or discarded commercial, industrial, demolition and construction materials, discarded or abandoned vehicles or parts thereof, discarded home and industrial appliances, manure, vegetable or animal solid and semisolid materials, dead animals and infectious waste as defined in ORS 459.386. "Solid waste" does not include: 
+
+ (a) Hazardous waste as defined in ORS 466.005. 
+
+ (b) Materials used for fertilizer or for other productive purposes or which are salvageable as such materials are used on land in agricultural operations and the growing or harvesting of crops and the raising of animals. 
+
+ (54) "Solid waste landfill" means a facility for the disposal of solid waste involving the placement of solid waste on or beneath the land surface. 
+
+ (55) "Surface water" means lakes, bays, ponds, impounding reservoirs, springs, wells, rivers, streams, creeks, estuaries, wetlands, inlets, canals, the Pacific Ocean within the territorial limits of the State of Oregon, and all other bodies, natural or artificial, inland or coastal, fresh or salt, public or private (except those private waters which do not combine or effect a junction with natural surface waters), which are wholly or partially within or bordering the state or within its jurisdiction. 
+
+ (56) "Total excess cancer risk" means the upper bound on the estimated excess cancer risk associated with exposure to multiple hazardous substances and multiple exposure pathways. 
+
+ (57) "Treatment" means to permanently and substantially eliminate or reduce the toxicity, mobility or volume of hazardous substances with the use of either in-situ or ex-situ remedial technologies. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 465.315 & 465.400 
+ 
+ 
+ Statutes/Other Implemented:  ORS 465.200-455, 465.900, 466.706-835 & 466.895 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 28-2025, amend filed 09/12/2025, effective 09/12/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 3-2006, f. & cert. ef. 3-17-06 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ DEQ 9-2002, f. & cert. ef. 8-22-02 
+DEQ 3-2002(Temp), f. & cert. ef. 2-21-02 thru 8-20-02 
+DEQ 11-1999(Temp), f. & cert. ef. 7-6-99 thru 1-2-2000 
+DEQ 2-1997, f. & cert. ef. 2-7-97 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

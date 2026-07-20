@@ -1,0 +1,325 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Policy and Analytics - Chapter 409 
+ 
+ 
+ 
+ 
+ Division 36 HEALTH CARE PROVIDER INCENTIVE PROGRAM 
+ 409-036-0010 
+ Definitions 
+ 
+ The following definitions apply to OAR 409-036-0000 to OAR 409-036-0150: 
+(1) “Authority” means the Oregon Health Authority. 
+(2) “Board” means the Oregon Health Policy Board. 
+(3) “Carrier” means a medical professional liability insurer holding a valid certificate of authority from the Director of the Department of Consumer and Business Services (DCBS) that authorizes the transaction of insurance as defined in ORS 731.066 and 731.072 and does not include DCBS-listed insurers pursuant to ORS 735.300 to 735.365 and 735.400 to 735.495. 
+(4) “Certified Alcohol and Drug Counselor” means a behavioral health professional that practices substance use disorder counseling pursuant to OAR 309-019-0125. 
+(5) “Certified registered nurse anesthetist” means an individual licensed by the Oregon State Board of Nursing as a certified registered nurse anesthetist under ORS Chapter 678. 
+(6) “Clinical Psychologist” means an individual licensed to practice psychology pursuant to ORS 675.010 to 675.090. 
+(7) “Clinical Social Worker” means an individual licensed to practice clinical social work pursuant to ORS 675.510 to 675.600. 
+(8) “Contract” means an eligible provider’s agreement with the Authority governing the distribution of incentives under these rules.  
+(9) "DCBS” means the Department of Consumer and Business Services. 
+(10) “Dentist” means any individual licensed to practice dentistry under ORS Chapter 679. 
+(11) “Dental Assistant” means a person who, under the supervision of a dentist, renders assistance to a dentist, dental hygienist, dental therapist or another dental assistant or renders assistance under the supervision of a dental hygienist providing dental hygiene services under OAR Chapter 818 Division 42. 
+(12) “Dental Therapist” means a person licensed to practice dental therapy under ORS 679.603. 
+(13) “Dental Therapy” means the provision of preventive dental care, restorative dental treatment and other educational, clinical and therapeutic patient services as part of a dental care team, including the services described under ORS 679.621. 
+(14) “Eligible provider” means a practitioner licensed, certified, or credentialed to deliver health care services to patients in Oregon that meets the eligibility requirements for incentives listed under these rules.  
+(15) “Eligible student” means a student currently participating in an approved health care professional Training Program.  
+(16) “Essential health care services” means medical, dental or behavioral health services that have been determined to be necessary to support the health of the population of the community. 
+(17) “Expanded Practice Dental Hygienist” means an individual licensed to practice dental hygiene with an expanded practice dental hygienist permit issued under ORS 680.200. 
+(18) “Licensed Professional Counselor” means an individual licensed under ORS 675.715. 
+(19) “Long Term Care” means: 
+(a) A licensed skilled nursing facility as defined under ORS 442.015; 
+(b) An intermediate care facility as defined under ORS 442.015; 
+(c) An adult foster care home, as defined under ORS 443.705, with all residents over 60 years of age;  
+(d) A residential care facility as defined in ORS 443.400. 
+(20) “Marriage and Family Therapist” means an individual licensed under ORS 675.715. 
+(21) “Medical assistance” has the meaning given that term in ORS 414.025. 
+(22) “Medicare” means medical coverage provided under Title XVIII of the Social Security Act. 
+(23) “National Health Services Corps” or “NHSC” means that program pursuant under 42 CFR Part 23. 
+(24) “Naturopathic Physician” means an individual licensed pursuant to ORS Chapter 685. 
+(25) "Nurse Practitioner" means any individual licensed by the Oregon State Board of nursing pursuant to ORS 678.375 to 678.390. 
+(26) “Office” means the Office of Rural Health. 
+(27) “Office Website” means https://www.ohsu.edu/oregon-office-of-rural-health. 
+(28) “Oregon Area Health Education Centers (AHEC) Scholars Program” means the program developed to recruit, train and retain health care professionals committed to underserved populations, supported by the Health Resource and Services Administration (HRSA) of the US Department of Health and Human Services (HHS) under U77HP03052 Model State Area Health Education Centers. 
+(29) “Overpayment” means a payment made by the Authority to an eligible provider participating in the Program in excess of the correct payment amount specified under the terms of the contract. 
+(30) “Patient-Centered Primary Care Home Program” or “PCPCH” means the program described ORS 413.259.  
+(31) “Pharmacist” means an individual licensed under ORS Chapter 689. 
+(32) "Physician" means an individual licensed under ORS Chapter 677. 
+(33) "Physician Associate" means any individual licensed under ORS 677.495 to 677.535. 
+(34) "Practice full-time" means working at a minimum of 32 hours per week spent providing direct patient care, averaged over the month for a minimum of 45 weeks per service year.  
+(35) “Practice part-time” means working a minimum of 16 hours per week spent providing direct patient care, averaged over the month for a minimum of 45 weeks per service year.  
+(36) “Priority Populations” has the meaning given that term in ORS 413.256. 
+(37) “Program” means the Health Care Provider Incentive Program. 
+(38) “Program Website” means https://www.oregon.gov/oha/hpa/hp-pco/pages/hc-provider-incentive.aspx.  
+(39) “Psychiatric Mental Health Nurse Practitioner” means any individual licensed under ORS Chapter 678. 
+(40) “Psychiatrist” means a physician licensed by the Oregon Medical Board pursuant to ORS 677.010 through 677.450. 
+(41) "Qualified Mental Health Associate" means a mental health professional delivering services under the direct supervision of a QMHP that meets the minimum qualifications of OAR 309-019-0125. 
+(42) "Qualified Mental Health Professional" or “QMHP” means a licensed medical practitioner or any other person who meets the minimum qualifications of OAR 309-036-0105.  
+(43) “Qualifying loan” means one or more government, or commercial loans received solely to cover the cost of health professional training, or undergraduate or other educational training. This does not include credit card loans, lines of credit, and personal loans. 
+(44) “Qualified Practice Site” has the meaning given that term in OAR 409-036-0015. 
+(45) “Rural” has the meaning given that term in ORS 431.122. 
+(46) “Site Application” means the Site Eligibility Application for All State Incentive Programs issued by the Office to determine whether a site is a Qualified Practice Site.  
+(47) “Telehealth” means the provision of health services as defined by OAR 410-141-3566. 
+(48) “These rules” means the rules set forth in OAR 409-036-0000 through OAR 409-036-0150. 
+(49) “Training Program” means a course of study that results in certification, licensure or other credential related to the health care workforce; or other programs as determined by the Authority. 
+(50) "Trauma informed approach” has the meaning given that term in OAR 410-141-3500. 
+(51) “Trauma informed services” has the meaning given that term in OAR 410-141-3500. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 676.454 
+ 
+ 
+ Statutes/Other Implemented:  ORS 676.454 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 2-2026, amend filed 05/28/2026, effective 07/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 2-2024, minor correction filed 06/06/2024, effective 06/06/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 7-2022, amend filed 08/31/2022, effective 08/31/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 4-2022, temporary amend filed 06/16/2022, effective 06/16/2022 through 09/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 2-2022, temporary amend filed 03/04/2022, effective 03/06/2022 through 09/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 1-2021, amend filed 03/29/2021, effective 03/29/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 5-2019, minor correction filed 07/25/2019, effective 07/25/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 4-2017, adopt filed 12/23/2017, effective 01/02/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

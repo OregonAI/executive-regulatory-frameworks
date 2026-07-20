@@ -1,0 +1,696 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Self-Sufficiency Programs - Chapter 461 
+ 
+ 
+ 
+ 
+ Division 140 GENERAL FINANCIAL ELIGIBILITY 
+ 461-140-0296 
+ Length of Disqualification Due to an Asset Transfer; Nursing Facility Services or Home and Community-Based Care
+ 
+ 
+ (1) This rule applies to individuals applying for or receiving Department-paid nursing facility services or home and community-based care (see OAR 461-001-0030). 
+
+ (2) An individual who completes a disqualifying transfer of an asset in accordance with OARs 461-140-0210, 461-140-0220, 461-140-0242, and 461-140-0250 is disqualified from receiving Department-paid nursing facility services or home and community-based care . The length of a disqualification period resulting from the transfer is the number of months equal to the uncompensated value (see OAR 461-140-0250) for the transfer divided by the following dollar amount: 
+
+ (a) If the initial month (see OAR 461-001-0000) is prior to October 1, 1998–$2,595. 
+
+ (b) If the initial month is on or after October 1, 1998 and prior to October 1, 2000–$3,320. 
+
+ (c) If the initial month is on or after October 1, 2000 and prior to October 1, 2002–$3,750. 
+
+ (d) If the initial month is on or after October 1, 2002 and prior to October 1, 2004–$4,300. 
+
+ (e) If the initial month is on or after October 1, 2004 and prior to October 1, 2006–$4,700. 
+
+ (f) If the initial month is on or after October 1, 2006 and prior to October 1, 2008–$5,360. 
+
+ (g) If the initial month is on or after October 1, 2008 and prior to October 1, 2010–$6,494. 
+
+ (h) If the initial month is on or after October 1, 2010 and prior to October 1, 2016–$7,663. 
+
+ (i) If the initial month is on or after October 1, 2016 and prior to October 1, 2018 -–$8,425. 
+
+ (j) If the initial month is on or after October 1, 2018 and prior to October 1, 2020 ---$8,784. 
+
+ (k) If the initial month is on or after October 1, 2020 and prior to October 1, 2022---$9,551. 
+
+ (l) If the initial month is on or after October 1, 2022 and prior to October 1, 2024--- $10,342. 
+
+ (m) If the initial month is on or after October 1, 2024--- $14,585. 
+
+ (3) For transfers by an individual and the spouse (see OAR 461-001-0000) of an individual: 
+
+ (a) If there are multiple transfers by the individual and the spouse of the individual, including any transfer less than the applicable dollar amount identified in subsections (2)(a) to (2)(m) of this rule, the value of all transfers are added together before dividing by the applicable dollar amount identified in subsections (2)(a) to (2)(m) of this rule. 
+
+ (b) The quotient resulting from the calculation in section (2) of this rule is not rounded. The whole number of the quotient is the number of full months the financial group is disqualified. This number might be zero full months. The remaining decimal or fraction of the quotient is used to calculate a partial month disqualification, which may be in addition to one or more full months. This remaining decimal or fraction is converted to a number of days by multiplying the decimal or fraction by the number of days in the month following the last full month of the disqualification period, if any. If this calculation results in a fraction of a day, the fraction of a day is rounded down. 
+
+ (c) The date the disqualification begins is: 
+
+ (A) For an individual who either transfers an asset while they are already receiving Department-paid nursing facility services or home and community-based care , or transfers an asset on or after the date that is 60 months prior to the date of request  (see OAR 461-115-0030) but fails to report the transfer at initial application, the first of the month following the date the Department learns the asset was transferred and the timely continuing benefit decision notice period ends   (see OAR 461-175-0050), except that if disqualification periods calculated in accordance with this rule overlap, the periods are applied sequentially so that no two penalty periods overlap. 
+
+ (B) For an individual who transfers an asset prior to submitting an application for services and being determined eligible who reports the transfer at application, the date of request  for   nursing facility services or home and community-based care as long as the applicant or individual would otherwise be eligible but for this disqualification period. If the applicant or individual is not otherwise eligible on the date of request , the disqualification begins the first date following the date of request that the applicant or individual would be otherwise eligible but for the disqualification period. 
+
+ (d) If both spouses of a couple are applying for or receiving Department-paid nursing facility services or home and community-based care , part of the disqualification is apportioned to each of them. If one member of the couple is serving a disqualification when the other member of the couple applies for or starts receiving Department-paid nursing facility services or home and community-based care , any remaining disqualification is apportioned equally to each member of the couple. If one spouse is unable to serve the resulting disqualification period for any reason, the remaining disqualification applicable to both spouses must be served by the remaining spouse. 
+
+ (4) If an asset is owned by more than one person, by joint tenancy, tenancy in common, or similar arrangement, the share of the asset owned by the individual is considered transferred when any action is taken either by the individual or any other person that reduces or eliminates the individual's control or ownership in the individual's share of the asset. 
+
+ (5) For an annuity that is a disqualifying transfer under section (11) of OAR 461-145-0022, the disqualification period is calculated based on the uncompensated value as calculated under OAR 461-140-0250, unless the only requirement that is not met is that the annuity pays beyond the actuarial life expectancy of the annuitant. If the annuity pays beyond the actuarial life expectancy of the annuitant, the disqualification is calculated according to section (6) of this rule. 
+
+ (6) If there is a potential disqualifying transfer under section (11) of OAR 461-145-0022, and the only requirement that is not met is that the annuity pays benefits beyond the actuarial life expectancy of the annuitant, as determined by the Period Life Table of the Office of the Chief Actuary of the Social Security Administration, a disqualification period is assessed for the value of the annuity beyond the actuarial life expectancy of the annuitant. 
+
+ (7) Effective January 1, 2023, the Department ends the disqualifications previously established under this rule based on an income cap trust. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.085, 414.685, ORS 409.050, 411.060, 411.704 & 411.706 
+ 
+ 
+ Statutes/Other Implemented:  42 USC 1396p, ORS 409.010, 411.060, 411.704 & 411.706 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 30-2026, amend filed 07/06/2026, effective 07/06/2026 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 16-2025, minor correction filed 07/29/2025, effective 07/29/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 55-2024, amend filed 09/30/2024, effective 10/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 41-2024, amend filed 06/20/2024, effective 07/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 30-2024, amend filed 03/26/2024, effective 04/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 51-2023, temporary amend filed 12/11/2023, effective 12/11/2023 through 06/07/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 21-2023, amend filed 06/22/2023, effective 07/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 13-2023, temporary amend filed 04/01/2023, effective 04/01/2023 through 09/27/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 11-2023, amend filed 03/22/2023, effective 04/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 52-2022, temporary amend filed 11/01/2022, effective 11/01/2022 through 04/28/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 45-2020, amend filed 12/22/2020, effective 01/01/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 33-2020, amend filed 09/21/2020, effective 10/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 27-2020, temporary amend filed 08/07/2020, effective 08/07/2020 through 02/02/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 21-2020, amend filed 07/08/2020, effective 07/08/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 34-2018, amend filed 12/04/2018, effective 01/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 29-2018, temporary amend filed 09/17/2018, effective 10/01/2018 through 03/29/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 44-2016, f. 12-7-16, cert. ef. 1-1-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 36-2016(Temp), f. 9-30-16, cert. ef. 10-1-16 thru 3-29-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 31-2016, f. & cert. ef. 9-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 25-2016(Temp), f. 6-30-16, cert. ef. 7-1-16 thru 12-27-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 26-2013, f. & cert. ef. 10-1-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 17-2013(Temp), f. & cert. ef. 7-1-13 thru 12-28-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 32-2010, f. & cert. ef. 10-1-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 23-2008, f. & cert. ef. 10-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 7-2007, f. 6-29-07, cert. ef. 7-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 4-2007, f. 3-30-07, cert. ef. 4-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 15-2006, f. 12-29-06, cert. ef. 1-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 14-2006, f. 9-29-06, cert. ef. 10-1-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 10-2006, f. 6-30-06, cert. ef. 7-1-06 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 19-2005, f. 12-30-05, cert. ef. 1-1-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 22-2004, f. & cert. ef. 10-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 23-2003, f. & cert. ef. 10-1-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 13-2002, f. & cert. ef. 10-1-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 6-2001, f. 3-30-01, cert. ef. 4-1-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 26-2000, f. & cert. ef 10-4-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 10-2000, f. 3-31-00, cert. ef. 4-1-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 17-1998, f. & cert. ef. 10-1-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

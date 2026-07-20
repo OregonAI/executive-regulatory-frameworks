@@ -1,0 +1,396 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 253 OREGON CLEAN FUELS PROGRAM 
+ 340-253-0500 
+ Registration
+ 
+ 
+ (1) Registering as a regulated party, credit generator, aggregator, or an out-of-state producer voluntarily registering under 340-253-0100(1)(c). 
+
+ (a) To register as a regulated party, credit generator, aggregator, or an out-of-state producer voluntarily registering under 340-253-0100(1)(c), the following information must be included in a registration application and approved by DEQ: 
+
+ (A) Company identification, including physical and mailing addresses, phone numbers, e-mail addresses, contact names, EPA RFS identification numbers where applicable, and the Oregon Secretary of State Corporations Division business registry number where applicable; 
+
+ (B) The status of the registrant as a producer, importer of blendstocks, small importer of finished fuels, large importer of finished fuels, credit generator, or aggregator; 
+
+ (C) The category of each fuel that the company or organization will be producing, importing, or dispensing for use in Oregon; 
+
+ (D) A list of all related entities for the registrant, and any registered parties that share common ownership or control; 
+
+ (E) For registrants dispensing natural gas, propane, or hydrogen, using FSE, the number of dispensing facilities located in Oregon and their locations; 
+
+ (F) For registrants charging electric vehicles using FSE, the number of chargers located in Oregon and their locations; 
+
+ (G) For registrants that are also electric utilities, whether they want to: 
+
+ (i) Aggregate the residential electric credits in their service territory under OAR 340-253-0330(2) or (3); or 
+
+ (ii) Obtain a utility-specific carbon intensity under OAR 340-253-0470; 
+
+ (H) Any other information requested by DEQ related to registration. 
+
+ (b) After DEQ approves the registration application, the regulated party, credit generator, or aggregator must establish an account in the OFRS and fill out an Account Administrator Designation form. 
+
+ (c) Modifications to the registration. 
+
+ (A) The registrant must submit an amended registration to DEQ within 30 days of any change occurring to information described in section (1). 
+
+ (B) DEQ may require a registrant to submit an amended registration based on new information DEQ receives. 
+
+ (C) If a registrant amends its registration under this section, the registrant must also update the registrant’s account in the OFRS to accurately reflect the amended information, as appropriate. 
+
+ (d) Cancellation of the registration. 
+
+ (A) A regulated party, credit generator, or aggregator must cancel its registration if it is: 
+
+ (i) A regulated party that no longer meets the applicability of the program under OAR 340-253-0100(1); or 
+
+ (ii) A credit generator or aggregator that is registered and reporting to the CFP and decides to voluntarily opt-out of the CFP. The credit generator or aggregator must provide a 90-day notice of intent to opt out of the CFP by letter and a proposed effective date for the completion of the opt-out process. 
+
+ (B) A regulated party, credit generator, or aggregator that is canceling its registration under this section must submit any outstanding quarterly and annual reports and be in full compliance with the program’s standards. Any party canceling its registration will not be allowed to do so until they comply with any outstanding deficits on their account. 
+
+ (C) Any credits that remain in an account of a regulated party, credit generator or aggregator that is cancelling its registrations under this section shall be forfeited and the account in the OFRS shall be closed. 
+
+ (D) Once DEQ determines that the actions described in paragraphs (A) through (C) are complete, DEQ will notify the registrant in writing of the cancellation of its registration. 
+
+ (e) Registered parties must submit to DEQ an updated version of the related entity form required in paragraph (1)(a)(D) within 30 days of any event that necessitates a change or update to that form, or on 30 April of each year. 
+
+ (2) Registering as a fuel producer. 
+
+ (a) To register as a fuel producer in the OFRS, the following information must be included in the AFP Account Administrator Designation application and approved by DEQ: 
+
+ (A) Company identification, including physical and mailing addresses, phone numbers, e-mail addresses, contact names, and EPA RFS identification numbers; 
+
+ (B) Any other information requested by DEQ related to registration. 
+
+ (b) DEQ will review the registration application for completeness and validity. 
+
+ (c) Upon registration approval by DEQ, the fuel producer must establish an account in the AFP portion of the OFRS and comply with the requirements of this division and any conditions placed upon the fuel pathway codes that it holds. 
+
+ (3) Registering FSE and certain vehicles. Credit generators and aggregators reporting on behalf of credit generators for use of electricity, hydrogen, alternative jet fuel, and fossil and bio-based or renewable LPG, CNG, and LNG, must register their fuel supply equipment (FSE), certain vehicles, or both, to report fuel volumes used, as provided in section (5). An FSE registration is not valid until approved by DEQ. 
+
+ (4) DEQ will not review or approve FSE and vehicle registrations submitted in the second 45 days of a calendar quarter until the following quarter. 
+
+ (5) Fuel Supply Equipment. Registered parties may register their active and operational FSE, vehicles, or both to report fueling of vehicles with electricity, natural gas, renewable natural gas, propane, renewable propane, or hydrogen as follows: 
+
+ (a) To register FSE and vehicles the following must be provided in OFRS: 
+
+ (A) The entity registering the FSE and vehicles and, if they have been designated as an aggregator, the entity that designated them; 
+
+ (B) The location of the FSE, including the name of the facility, the address, and latitude and longitude; 
+
+ (C) For CNG fueling equipment, the utility meter number for a CNG station and an invoice from utility demonstrating fuel delivery to the site or FSE; 
+
+ (D) For LNG fueling equipment, the fueling station identification number and the owner of the station, as well as the type of station and an invoice demonstrating fuel delivery to the site or FSE; 
+
+ (E) For propane fueling equipment, the fueling station identification number and the fueling station owner, and an invoice or other documentation demonstrating service to the site or FSE; 
+
+ (F) For hydrogen fueling equipment, the fueling station identification number, and an invoice or other documentation demonstrating service to the site or FSE; and; 
+
+ (G) For electrical fuel equipment, the type of charger, the serial number of the fueling equipment, the manufacturer of the fueling equipment, and documentation that the electrical fueling equipment being registered is active and operational; 
+
+ (b) To register off-road electrical and hydrogen vehicles or their fueling equipment, the registered party must provide the following information: 
+
+ (A) The quarter and year of the registration; 
+
+ (B) The address where the vehicle or FSE is based; 
+
+ (C) The category of FSE; 
+
+ (D) The type of equipment or vehicle; 
+
+ (E) The name of the equipment manufacturer; 
+
+ (F) The unique serial number assigned to by the manufacturer; 
+
+ (G) The model year; 
+
+ (H) The vehicle identification number, if applicable; 
+
+ (I) The date that the information being submitted was collected or last updated; and 
+
+ (J) Any other information that DEQ requests in order to reduce the likelihood of multiple entities registering the same equipment or reporting the same quantity of fuel, or to ensure that the correct fuel application and energy economy ratio is being used when credits or deficits are being calculated. Information must be provided to DEQ within 14 calendar days of such a request, or the registration will be rejected; 
+
+ (c) DEQ may request additional documentation or evidence prior to approving a registration of FSE, and DEQ may deny the registration if the applicant fails to provide the requested documentation or evidence within 7 calendar days or another deadline set by DEQ; 
+
+ (d) For electric vehicle chargers on a single dedicated circuit or panel, a single meter for that circuit or panel may be registered and used as the FSE so long as the registered party can prove that no other electrical equipment is or will be connected to that circuit, so the meter is only recording EV charging. The chargers on that circuit must also be registered with the program to prevent potential double-counting; and 
+
+ (e) Registrations will only be processed for active and operational FSE or vehicles. Registered parties must inform DEQ if registered FSE or vehicles are replaced or retired, or if they have a maintenance outage that last for more than 90 days. Registered parties must note any maintenance outages in the FSE transaction description of each quarterly report. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, 468A.266, 468A.268 & 468A.277 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468.020 & ORS 468A.265 - 468A.277 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 2-2025, amend filed 01/09/2025, effective 01/09/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 17-2022, amend filed 09/23/2022, effective 01/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 14-2020, amend filed 05/07/2020, effective 05/07/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 199-2018, amend filed 11/16/2018, effective 01/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 27-2017, amend filed 11/17/2017, effective 11/17/2017 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 13-2015, f. 12-10-15, cert. ef. 1-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 3-2015, f. 1-8-15, cert. ef. 2-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 8-2014, f. & cert. ef. 6-26-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 15-2013(Temp), f. 12-20-13, cert. ef. 1-1-14 thru 6-30-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 8-2012, f. & cert. ef. 12-11-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

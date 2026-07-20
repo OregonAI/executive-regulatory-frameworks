@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Energy 
+ Energy Facility Siting Council - Chapter 345 
+ 
+ 
+ 
+ 
+ Division 50 RADIOACTIVE WASTE MATERIALS 
+ 345-050-0038 
+ Water Pathway Exemption Interpretive Rule 
+ 
+ (1) In determining compliance with OAR 345-050-0035 when considering release of effluents to water, the Council or the Department of Energy must find that the disposal in Oregon of waste materials containing naturally occurring radioactive materials (NORM) cannot result in effluents with annual average concentrations exceeding the values in Table 3 of this division. If effluent concentrations could exceed this limit, the Council or the Department shall find that the waste material is radioactive and require disposal in a licensed radioactive waste disposal site. To find the waste materials exempt, the Council or the Department must also find that the waste materials meet air and gamma (including radon release) pathway exemptions in OAR 345-050-0035. To determine compliance with the water pathway exemption in 345-050-0035, the following conditions apply:  (a) “Waste material” means the annual solid waste stream leaving a site for landfill disposal.  (b) At least four representative samples of the waste stream being evaluated must be tested using EPA Method 1312, “Synthetic precipitation leaching procedure” (SPLP). The resultant extractant must be analyzed for the radioactive constituents in the waste by a procedure of suitable accuracy and specificity that is approved by the Department.  (c) The results of the analysis of the extractant samples shall be compared to the values for concentrations in water above natural background shown in Table 3 of this division.  (2) The statistical results of the analyses of the SPLP extractants shall be reported to the Department.  (a) If the mean of the analytical results from the first sample set multiplied by a factor of 20 is greater than 50 percent of the value for the most restrictive isotope in Table 3 and the coefficient of variation (the standard deviation of the sample divided by the mean of the sample set) is greater than 0.25, an additional set of samples must be analyzed to better characterize the waste stream. This statistical evaluation and, if indicated, reanalysis must be made after each set of analyses. No more than 20 analyses are required to characterize the waste stream, but it must be shown that a good faith effort was made to analyze representative samples.  (b) If the mean of the analytical results from the first sample set multiplied by a factor of 20 is less than 50 percent of the value for the most restrictive isotope in Table 3, no further analyses are required.  (3) If the mean value from the analyses of the SPLP extractants for a single isotope multiplied by a factor of 20 exceeds the value in Table 3, the waste material is radioactive waste under Oregon law. If more than one radioactive isotope is present and the sum of the ratios of the individual concentrations of those isotopes multiplied by a factor of 20 to the values in Table 3 for those isotopes is greater than 1, the waste material is radioactive waste under Oregon law. See Note 1 in Table 3.  [ED. NOTE: Tables referenced are available from the agency.] 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 469.470 
+ 
+ 
+ Statutes/Other Implemented:  ORS 469.525 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 1-2007, f. & cert. ef. 5-15-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

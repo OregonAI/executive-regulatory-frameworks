@@ -1,0 +1,379 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 141 OREGON HEALTH PLAN 
+ 410-141-3565 
+ Managed Care Entity Billing 
+ 
+ (1) Providers shall submit all claims for MCE members in the following timeframes: 
+
+ (a) Submit initial claims within no more than 120 days of the date of service for all cases, except as provided for in section (1)(b) of this rule. MCEs may negotiate terms within this timeframe agreeable to both parties; 
+
+ (b) Submit initial claims within 365 days of the date of service in the following cases: 
+
+ (A) Pregnancy; 
+
+ (B) Eligibility issues such as retroactive deletions or retroactive enrollments; 
+
+ (C) Medicare is the primary payer, except where the MCE is responsible for the Medicare reimbursement; 
+
+ (D) Other cases that delay the initial claim to the MCE, not including failure of the provider to verify the member's eligibility; or 
+
+ (E) Third Party Liability (TPL). Pursuant to 42 CFR 136.61, subpart G: Indian Health Services and the amended Public Law 93-638 under the Memorandum of Agreement that Indian Health Service and 638 Tribal Facilities are the payers of last resort and are not considered an alternative liability or TPL. 
+
+ (c) For initial claims submitted timely that need correction, have prompted a provider appeal as outlined in OAR 410-120-1560, or for a reason not included in (1)(b) of this rule that otherwise require a re-submission, MCEs shall establish a time-frame in their policies and procedures which allow a billing provider to make such re-submissions or appeals for a minimum of 180 days after the initial adjudication date. 
+
+ (2) Providers shall be enrolled with the Authority to be eligible for fee-for-service (FFS) payments. Mental health providers, except Federally Qualified Health Centers (FQHC), shall be approved by the Local Mental Health Authority (LMHA) and the Authority before enrollment with the Authority or to be eligible for MCE payment for services. FFS providers may be retroactively enrolled in accordance with OAR 410-120-1260 Provider Enrollment. 
+
+ (3) Providers, including mental health providers, shall be enrolled with the Authority as a Medicaid FFS provider or an MCE encounter-only provider prior to submission of encounter claims to ensure the encounter claim is accepted. 
+
+ (4) Providers shall verify before providing services that the client is: 
+
+ (a) Eligible for Authority programs and; 
+
+ (b) Assigned to an MCE on the date of service. 
+
+ (5) Providers shall use the Authority’s and MCE’s tools to determine if the service to be provided is covered under the member’s OHP benefit package. Providers shall also identify the party responsible for covering the intended service and seek Prior Authorizations from the appropriate payer before providing services. Before providing a non-covered service, the provider shall complete an OHP 3165 “OHP Client Agreement to Pay for Health Services”, or OHP “3166 OHP Client Agreement to Pay for Pharmacy Services” or facsimile signed by the client as described in OAR 410-120-1280. 
+
+ (6) If a member has other insurance coverage available for payment of covered services, the insurance must be exhausted prior to payment for the covered services. Member cost-sharing incurred as part of other coverage shall be paid to the insurer by the MCE. 
+
+ (7) MCEs shall pay for all covered services. These services shall be billed directly to the MCE, unless the MCE or the Authority specifies otherwise. No contracting provider or agent, trustee or assignee of the contracting provider shall bill a member, send a member’s bill to a Collection Agency, or maintain a civil action against a member to collect any amounts owed by the CCO for which the member is not liable to the contracting provider in this rule and under OAR 410-120-1280: 
+
+ (a) A client may not be billed for missed appointments. A missed appointment is not considered to be a distinct Medicaid service by the federal government and as such is not billable to the client or the Division; 
+
+ (b) A client may not be billed for services or treatments that have been denied due to provider error (e.g., required documentation not submitted, Prior Authorization not obtained, etc.). 
+
+ (8) Payment by the MCE to participating providers for capitated or coordinated care services is a matter between the MCE and the participating provider: 
+
+ (a) MCEs shall have written policies and procedures for processing claims submitted from any source. The policies and procedures shall specify timeframes for: 
+
+ (A) Date stamping claims when received; 
+
+ (B) Determining within a specific number of days from receipt whether a claim is valid or non-valid; 
+
+ (C) The specific number of days allowed for follow-up on pended claims to obtain additional information; 
+
+ (D) Sending written notice of the decision with appeal rights to the member when the determination is a denial, in whole or in part, of payment for a service rendered as outlined in OAR 410-141-3875 and 410-141-3885. 
+
+ (b) MCEs shall pay or deny at least 90 percent of valid claims within 30 days of receipt and at least 99 percent of valid claims within 90 days of receipt. MCEs shall make an initial determination on 99 percent of all claims submitted within 60 days of receipt; 
+
+ (c) MCEs shall provide written notification of MCE determinations when the determinations result in a denial of payment for services as outlined in OAR 410-141-3885; 
+
+ (d) MCEs may not require providers to delay claims submission to the MCE; 
+
+ (e) MCEs may not require Medicare be billed as the primary insurer for services or items not covered by Medicare or require non-Medicare approved providers to bill Medicare; 
+
+ (f) MCEs may not deny payment of valid claims when the potential TPR is based only on a diagnosis, and no potential TPR has been documented in the member's clinical record; 
+
+ (g) MCEs may not delay or deny payments because a co-payment was not collected at the time of service; 
+
+ (h) School-based Health Services (SBHS) must not apply toward a member’s health services allowances limited by an MCE’s utilization management policy. These services are supplemental to other health plan covered therapy services and are not considered duplicative services. This includes, but is not limited to, occupational therapy, physical therapy, speech and language therapy, cognitive rehabilitation, and dental services when a child is receiving such services as SBHS through an Individualized Education Program (IEP), an Individualized Family Service Plan (IFSP), a Section 504 Accommodation Plan, or any other individualized plan of care established for services provided by education agencies in support of the child or young adult’s education; 
+
+ (i) MCEs may not deny a claim for behavioral health services on the basis that such services were delivered in the member’s home unless the MCE would deny a claim for comparable physical health services performed at the same site of service. 
+
+ (9) MCEs shall pay for Medicare coinsurances and deductibles consistent with Oregon’s State Plan methodology up to the Medicare or MCE’s allowable for all Medicare Part A and Part B covered services the member receives from a Medicare enrolled provider after adjudication with Medicare or a Medicare Advantage plan: 
+
+ (a) Providers must be enrolled in Oregon Medicaid to receive cost-sharing payments and non-enrolled providers should be given information on how to enroll to receive cost-sharing. Pursuant to OAR 410-120-1280, FFS Medicare providers should be encouraged to submit the Medicaid information necessary to enable electronic crossover to the MCE with their Medicare claims; 
+
+ (b) MCEs and affiliated Medicare Advantage plan shall provide a process for automatic Medicare to Medicaid crossover payments to ensure cost-sharing and reduce duplicate provider submission of claims; 
+
+ (c) Federal law bars Medicare providers and suppliers from billing an individual enrolled in the Qualified Medicare Beneficiary (QMB) program for Medicare Part A and Part B cost-sharing under any circumstances (see Sections 1902(n)(3)(B), 1902(n)(3)(C), 1905(p)(3), 1866(a)(1)(A), and 1848(g)(3)(A) of the Social Security Act [the Act]). The QMB program is a State Medicaid benefit that assists low-income Medicare beneficiaries with Medicare Part A and Part B premiums and cost-sharing, including deductibles, coinsurance, and copays; 
+
+ (d) MCEs must inform providers of rules that prohibit balance billing and ensure providers serving and accepting plan payment for Qualified Medicare Beneficiaries that members cannot be balance-billed per Sections 1902(n)(3)(C) and 1905(p)(3) of the Social Security Act. 
+
+ (10) MCEs shall pay transportation, meals, and lodging costs for the member and any required attendant for services that the MCE has arranged and authorized when those services are not available within the state, unless otherwise approved by the Authority. 
+
+ (11) MCEs shall pay for ancillary covered services provided by a non-participating provider under the following conditions: 
+
+ (a) MCEs shall pay for ancillary covered services provided by a non-participating provider that are not prior authorized if all of the following conditions exist: 
+
+ (A) It can be verified that a participating provider ordered or directed the covered services to be delivered by a non-participating provider; 
+
+ (B) The ancillary covered service was delivered in good faith without the Prior Authorization; 
+
+ (C) The ancillary covered service would have been prior authorized with a participating provider if the MCE’s referral procedures had been followed. 
+
+ (b) The MCE shall pay non-participating providers (providers enrolled with the Authority that do not have a contract with the MCE) for ancillary covered services that are subject to reimbursement from the MCE in the amount specified in OAR 410-120-1295. This rule does not apply to providers that are Type A or Type B hospitals, as they are paid in accordance with OAR 410-141-3565 (12-14); 
+
+ (c) Except as specified in OAR 410-141-3840 Emergency and Urgent Care Services, MCEs shall not be required to pay for covered treatment services provided by a non-participating provider, unless: 
+
+ (A) The MCE does not have a participating provider that will meet the member’s medical need; and 
+
+ (B) The MCE has authorized care to a non-participating provider. 
+
+ (d) Notwithstanding OAR 410-120-1280, non-participating providers may not attempt to bill the member for services rendered; 
+
+ (e) MCEs shall reimburse hospitals for services provided on or after January 1, 2012, using Medicare Severity DRG for inpatient services and Ambulatory Payment Classification (APC) for outpatient services or other alternative payment methods that incorporate the most recent Medicare payment methodologies for both inpatient and outpatient services established by CMS for hospital services and alternative payment methodologies including but not limited to pay-for-performance, bundled payments, and capitation. An alternative payment methodology does not include reimbursement payment based on percentage of billed charges. This requirement does not apply to Type A or Type B hospitals. MCEs shall attest annually to the Authority in a manner to be prescribed to MCE’s compliance with these requirements. MCEs shall pay hospitals any applicable Qualified Directed Payments pursuant to OAR 410-125-0230. 
+
+ (12) For Type A or Type B hospitals transitioning from Cost-Based Reimbursement (CBR) to an Alternative Payment Methodology (APM): 
+
+ (a) Sections (12) and (14) only apply to services provided by Type A or Type B hospitals to members that are enrolled in an MCE; 
+
+ (b) The Authority may upon evaluation by an actuary retained by the Authority, on a case-by-case basis, require MCEs to continue to reimburse fully a rural Type A or Type B hospital determined to be at financial risk for the cost of covered services based on a cost-to-charge ratio; 
+
+ (c) For those Type A or Type B hospitals that transitioned from CBR to an APM, the Authority shall require hospitals and MCEs to enter into good faith negotiations for contracts. Dispute resolution during the contracting process shall be subject to OAR 410-141-3555 and 410-141-3560; 
+
+ (d) For monitoring purposes, MCEs shall submit to the Authority no later than November 30 of each year a list of those hospitals with which they have contracted for these purposes. 
+
+ (13) Determination of which Type A or Type B hospitals shall stay on CBR or transition from CBR: 
+
+ (a) No later than June 30 of the odd numbered years, the Authority shall update the algorithm for calculation of the CBR determination methodology with the most recent data available; 
+
+ (b) After determination for each Type A and Type B hospital, any changes in a hospital’s status from CBR to APM or from APM to CBR shall be effective January 1 of the following (even numbered) year; 
+
+ (c) Type A and Type B hospitals located in a county that is designated as “Frontier” are not subject to determination via the algorithm and shall remain on CBR. 
+
+ (14) Non-contracted Type A or Type B hospital rates for those transitioning or transitioned from CBR: 
+
+ (a) Reimbursement rates under this section shall be based on discounted hospital charges for both inpatient and outpatient services; 
+
+ (b) Reimbursement rates effective for the initial year of a hospital transitioning from CBR shall be based on that hospital’s most recently filed Medicare cost report adjusted to reflect the hospital’s OHP mix of services; 
+
+ (c) Subsequent year reimbursement rates for hospitals transitioned from CBR shall be calculated by the Authority based on the individual hospital’s annual price increase and the Authority’s global budget rate increase as defined by the CMS 1115 waiver using the following formula: Current Reimbursement Rate x (1+Global Budget Increase) / (1+Hospital Price Increase); 
+
+ (d) On an annual basis, each Type A or Type B hospital that has transitioned from CBR shall complete a template provided by the Authority that calculates the hospital’s change in prices for their MCE population; 
+
+ (e) Inpatient and outpatient reimbursement rates shall be calculated separately; 
+
+ (f) Non-contracted Type A or Type B hospital reimbursement rates can be found in the Rate Table on the Authority’s website. 
+
+ (15) Members may receive certain services on a Fee-for-Service (FFS) basis: 
+
+ (a) Certain services shall be authorized by the MCE or the Community Mental Health Program (CMHP) for some mental health services, even though the services are then paid by the Authority on a FFS basis. Before providing services, providers shall verify a member’s eligibility and MCE assignment as provided for in this rule; 
+
+ (b) Services authorized by the MCE or CMHP are subject to the Authority’s administrative rules and supplemental information including rates and billing instructions; 
+
+ (c) Providers shall bill the Authority directly for FFS services in accordance with billing instructions contained in the Authority administrative rules and supplemental information; 
+
+ (d) The Authority shall pay at the Medicaid FFS rate in effect on the date the service is provided subject to the Authority’s administrative rules, contracts, and billing instructions; 
+
+ (e) The Authority may not pay a provider for providing services for which an MCE has received an MCE payment unless otherwise provided for in rule; 
+
+ (f) When an item or service is included in the rate paid to a medical institution, a residential facility, or foster home, provision of that item or service is not the responsibility of the Authority or an MCE except as provided in Authority administrative rules and supplemental information (e.g., coordinated care and capitated services that are not included in the nursing facility all-inclusive rate); 
+
+ (g) MCEs that contract with FQHCs and RHCs shall negotiate a rate of reimbursement that is not less than the level and amount of payment that the MCE would pay for the same service furnished by a provider who is not an FQHC nor RHC, consistent with the requirements of Section 4712(b)(2) of the Balanced Budget Act of 1997. 
+
+ (16) MCEs shall maintain a Coordination of Benefits Agreement that allows participation in the automated claims crossover process with Medicare for those members dually eligible for Medicaid and Medicare services. 
+
+ (17) MCEs shall ensure providers under the MCE contract are notified of billing processes for crossover claims processing, as described in OAR 410-120-1280. 
+
+ (18) Coverage of services through the OHP benefit package of covered services is limited by OAR 410-141-3825 Excluded Services and Limitations for OHP Clients. 
+
+ (19) MCEs shall engage in collaborative efforts with the Authority to achieve the requirements of the CCO Value-based Purchasing Roadmap. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042, 414.065, 414.615, 414.625, 414.635 & 414.651 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.065 & 414.610 - 414.685 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 143-2024, amend filed 12/29/2024, effective 01/01/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 62-2022, temporary amend filed 06/26/2022, effective 06/30/2022 through 12/26/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 56-2021, amend filed 12/30/2021, effective 01/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 62-2020, amend filed 12/16/2020, effective 01/01/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 55-2019, adopt filed 12/17/2019, effective 01/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,366 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 358 HISTORIC PROPERTY ASSESSMENT 
+ 150-358-0500 
+ Determining Value of Historic Property Qualified for Special Assessment
+ 
+ 
+ (1) For purposes of this rule, 
+
+ (a) “Assessed Value” (AV) is defined in ORS 308.146. 
+
+ (b) “Maximum Assessed Value” (MAV) is defined in ORS 308.146 without application of ORS 308.146(4). 
+
+ (c) “Changed Property Ratio” (CPR) is the ratio described in OAR 150-308-0170 
+
+ (d) “Internal ratio” (IR) is the quotient of MAV/RMV for an individual property in the year prior to the first year of special assessment, as if the property was not specially assessed. The ratio cannot be more than 1.0. 
+
+ (e) “Maximum Specially Assessed Value” (MSAV) means maximum assessed value for property subject to special assessment. 
+
+ (f) “Real Market Value” (RMV) is defined in ORS 308.205(1). 
+
+ (2) This rule applies to initial and second qualifying periods beginning on or after July 1, 2023, with application being made on or after June 3, 2022. 
+
+ (3) When a property is subject to historic property special assessment, the county assessor must: 
+
+ (a) Include a “Historic property — potential additional tax” notation on the tax roll. 
+
+ (b) Maintain the RMV and a MAV as if the property were not specially assessed. The RMV and MAV as if the property were not specially assessed must be adjusted to include any changes in value as addressed in ORS 308.146, 308.149, 308.153, 308.156, and 308.159 (commonly referred to as exception value). 
+
+ (c) Calculate MSAV of the property annually while the property remains in the program. 
+
+ (4) Calculate first period values for SAV, MSAV and AV. 
+
+ (a) Step 1: Calculate the property’s SAV to be used throughout the entire first 10-year period of historic property special assessment.  The SAV equals the RMV of the property on the tax roll at the time the application is submitted pursuant to ORS 358.487. 
+
+ (b) Step 2: Calculate MSAV for the first year of special assessment by multiplying the SAV by the IR. The MSAV is recalculated in the second and subsequent years and equals the greater of: 
+
+ (A) The AV for the prior year multiplied by 103 percent; or 
+
+ (B) The MSAV for the prior year 
+
+ (c) Step 3: Calculate the AV, which is the lesser of the: 
+
+ (A) SAV calculated in step 1; 
+
+ (B) MSAV calculated in step 2; or 
+
+ (C) The RMV. 
+
+ 
+ Example 1: The State Historic Preservation Officer (SHPO), in January 2023, notifies the assessor that the owner of an old warehouse applied for historic property special assessment in October 2022 and qualified for that special assessment. The value of the warehouse as reflected on the 2022-23 tax roll is: RMV $400,000; MAV $302,380; AV $302,380. The warehouse is not exempt or specially assessed for the 2022-23 tax year.The first year of special assessment is 2023-24. The RMV for 2023-24 is $416,000. 
+
+ (a) Step 1: Calculate the SAV. SAV = RMV in the tax year the application is submitted = $400,000 
+
+ (b) Step 2: Calculate MSAV for first year of special assessment. 
+
+ (A) IR = 2022-23 MAV / 2022-23 RMV, $302,380 / $400,000 = 0.756 
+
+ (B) MSAV = SAV x IR, $400,000 x 0.756 = $302,400 
+
+ (c) Step 3: Calculate the AV for the first year of special assessment. It is the lesser of SAV ($400,000), MSAV ($302,400) or RMV for the 2023-24 tax year ($416,000). AV = $302,400. 
+
+ Example 2: SHPO, in January 2023, notifies the assessor that the owner of an old mansion no longer used by the Elks as a clubhouse that will be first disqualified from exemption for 2023-24 applied for historic property special assessment in October 2022 and that the property is qualified for special assessment for 2023-24. The CPR for this classification of property, had it been taxable in 2022-23, was 0.656, and the property’s RMV for 2022-23 was $300,000. The first year of special assessment is 2023-24. The RMV for 2023-24 is calculated at $295,000. Other than the disqualification from exemption and the qualification for historic special assessment, there have been no changes to the property for 2023-24. 
+
+ (a) Step 1: Calculate MAV for 2022-23 pursuant to ORS 308.156 as if it were subject to disqualification from exemption that year. 
+
+ (A) 2022-23 MAV = RMV x CPR, $300,000 x 0.656 = $196,800 
+
+ (b) Step 2: Calculate SAV 
+
+ (A) SAV = RMV from the tax year of application = $300,000 
+
+ (c) Step 3: Calculate MSAV for first year of special assessment 
+
+ (A) MSAV = SAV x IR, $300,000 x ($196,800 / $300,000) = $196,800 
+
+ (d) Step 4: Calculate AV 
+
+ (A) AV = lesser of SAV (step 2) or MSAV (step 3) or RMV for 2023-24. AV = $196,800. 
+ 
+
+ (5) Calculate Second period values for SAV, MSAV and AV. 
+
+ (a) Step 1: Calculate SAV for the first year of a second qualifying period. 
+
+ (A) The SAV equals the RMV of the property for the assessment year in which the application is made. 
+
+ (B) The SAV will remain constant throughout the second ten-year period of special assessment. 
+
+ (b) Step 2: Calculate the MSAV for the first year of the second qualifying period of special assessment by multiplying the SAV by the internal ratio. The MSAV is recalculated in the second and subsequent years and equals the greater of: 
+
+ (A) The AV for the prior year multiplied by 103 percent; or 
+
+ (B) The MSAV for the prior year 
+
+ (c) Step 3: Calculate the AV, which is the lesser of the: 
+
+ (A) SAV calculated in step 1; 
+
+ (B) MSAV calculated in step 2; or 
+
+ (C) The RMV. 
+
+ 
+ Example 3: SHPO approves an application filed in March 2023 and qualifies a renovated chateau for a second 10-year period of special assessment beginning with the 2023-24 tax year. The first historic property special assessment period ended in the 2022-23 tax year. For 2022-23, the RMV was $825,000, and MAV if the property had been disqualified from special assessment for the 2022-23 tax year would be $509,850. For 2023-24 the RMV is $850,000. 
+
+ (a) Step 1: Calculate SAV. SAV = RMV for assessment year in which application made. SAV = $850,000 
+
+ (b) Step 2: Calculate MSAV for the first year of special assessment. MSAV = SAV x IR, $850,000 x ($509,850 / $825,000) = $525,300 
+
+ (c) AV = lesser of SAV (step 1), MSAV (step 2), or RMV. AV = $525,300. 
+ 
+
+ (6) When a building that is certified for historic property special assessment is divided into condominium units: 
+
+ (a) The original account is deleted and each condominium becomes a new account. 
+
+ (b) Each new account is appraised to establish a new RMV and calculate a new MAV. 
+
+ (c) SAV and MSAV of the original account are apportioned between the new accounts but the total SAV and MSAV does not change as a result of the conversion to condominiums. 
+
+ (d) The initial sale of each condominium unit by the developer disqualifies that unit from special assessment. 
+
+ (e) Upon disqualification, the condominium unit is immediately requalified without further application for the remaining term of the original building’s current 10-year period of historic property special assessment. 
+
+ (f) Upon requalification, the SAV of the condominium unit equals its RMV for the tax year in which the sale of the unit occurred. 
+
+ (g) The MSAV for the condominium unit for the first year after initial sale = SAV x IR, using the MAV and RMV of the unit to determine the IR. 
+
+ (h) The AV for the condominium unit for the first year after initial sale is calculated based on the lower of the SAV, MSAV, or RMV of the unit for that year. 
+
+ 
+ Example 4: An account with an old warehouse building is qualified by SHPO for historic property special assessment. Its RMV, MAV, MSAV, SAV, and AV have been calculated as described in previous examples. The building is then converted to condominium units. When the condominium conversion is complete and all approvals are in place, each condominium unit becomes a separate account. New RMV and MAV are calculated for each account. Existing SAV and MSAV of the original warehouse account are apportioned between the new accounts. Total SAV and MSAV do not change as a result of the condominium conversion. 
+
+ Account (tax lot) 00100, old warehouse building, is in its fourth year of its historic property special assessment. Its most recent tax roll values are as follows: RMV = $400,000; MAV if not specially assessed = $300,000, SAV = $225,000; MSAV = $179,020; AV = $179,020. CPR for this class of property is 0.750. The warehouse has now met all requirements for condominium and the 25 units worth $1,000,000 each are certified and eligible for sale. Account 00100 is deleted and replaced with account (tax lot) 90001 through account (tax lot) 90025. All units are identical in this building and each account has an RMV of $1,000,000. Total RMV of the building is now $25,000,000 and MAV is $18,750,000. Each account has a SAV of $9,000 and a MSAV of $7,160 until the initial sale of the unit in that account. 
+
+ Total value of the building and site as condominiums (account 00100 deleted): 
+
+ RMV = unit value x number of units, $1,000,000 x 25 = $25,000,000 
+
+ MAV = RMV x CPR, $25,000,000 x 0.750 = $18,750,000 
+
+ Value of each unit (each new account, 90001 through 90025): 
+
+ RMV = $1,000,000 
+
+ MAV = RMV x CPR, $1,000,000 x 0.750 = $750,000 
+
+ SAV = total building SAV apportioned by unit value, $225,000 / ($25,000,000 / $1,000,000) = $9,000 
+
+ MSAV = total building MSAV apportioned by unit value, $179,020 / ($25,000,000 / $1,000,000) = $7,160 
+
+ AV = $7,160 
+
+ Example 5: The facts are the same as Example 4, except that the warehouse began its initial 10-year period of special assessment with the tax year that began July 1, 2023, and units were converted to condominiums eligible for sale as of January 1, 2024. A condominium unit in the building is sold by the developer for $1,000,000 on July 20, 2024. The unit is disqualified from the historic property special assessment due to the sale and then immediately requalified for the remaining term. For the 2024-25 tax year, the building was in its 2nd year of its 10-year historic property special assessment term. For the 2024-25 tax year, the SAV, MSAV, and AV of the unit are described in Example 4. Because the sale occurred on or after July 1, 2024, an SAV, MSAV, and AV for the unit must be recalculated for the 2025-26 tax year. As of January 1, 2024 the individual unit had an RMV of $1,000,000 and an MAV of $750,000. The 2025-26 historic property special assessed values for the unit are an SAV of $1,000,000 and an MSAV of $750,000. 
+
+ Unit values: 
+
+ RMV = $1,000,000 
+
+ MAV = RMV x CPR, $1,000,000 x 0.750 = $750,000 
+
+ SAV = RMV = $1,000,000 
+
+ MSAV = SAV x IR, $1,000,000 x ($750,000 / $1,000,000) = $750,000 
+
+ AV = $750,000 
+
+ The new SAV for the condominium unit will remain the same, $1,000,000, for the remaining years of the building special assessment or until the building is otherwise disqualified. 
+
+ The remaining accounts in the building are not affected by this sale. 
+ 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 & 358.505 
+ 
+ 
+ Statutes/Other Implemented:  ORS 358.505 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 15-2022, amend filed 09/29/2022, effective 10/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 150-358.505, REV 37-2016, f. 8-12-16, cert. ef. 9-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 4-2015, f. 12-23-15, cert. ef. 1-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 11-2009, f. 12-21-09, cert. ef. 1-1-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

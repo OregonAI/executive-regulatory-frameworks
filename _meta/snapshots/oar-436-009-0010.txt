@@ -1,0 +1,1100 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+   Temporary rule language in effect until 10/04/2026. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Workers' Compensation Division - Chapter 436 
+ 
+ 
+ 
+ 
+ Division 9 OREGON MEDICAL FEE AND PAYMENT 
+ 436-009-0010 
+ Medical Billing and Payment 
+ 
+ 
+ (1) General. 
+
+ (a) Only treatment that falls within the scope and field of the medical provider’s license to practice will be paid under a workers’ compensation claim. Except for emergency services or as otherwise provided for by statute or these rules, treatments and medical services are only payable if approved by the worker’s attending physician. Fees for services by more than one physician at the same time are payable only when the services are sufficiently different that separate medical skills are needed for proper care. 
+
+ (b) All billings must include the patient’s full name, date of injury, and the employer’s name. If available, billings must also include the insurer’s claim number and the provider’s NPI. If the provider does not have an NPI, then the provider must provide its license number and the billing provider’s FEIN. For provider types not licensed by the state, “99999” must be used in place of the state license number. Bills must not contain a combination of ICD-9 and ICD-10 codes. 
+
+ (c) The medical provider must bill their usual fee charged to the general public. The submission of the bill by the medical provider is a warrant that the fee submitted is the usual fee of the medical provider for the services rendered. The director may require documentation from the medical provider establishing that the fee under question is the medical provider’s usual fee charged to the general public. For purposes of this rule, “general public” means any person who receives medical services, except those persons who receive medical services subject to specific billing arrangements allowed under the law that require providers to bill other than their usual fee. 
+
+ (d) Medical providers must not submit false or fraudulent billings, including billing for services not provided. As used in this section, “false or fraudulent” means an intentional deception or misrepresentation with the knowledge that the deception could result in unauthorized benefit to the provider or some other person. A request for pre-payment for a deposition is not considered false or fraudulent. 
+
+ (e) When a provider treats a patient with two or more compensable claims, the provider must bill individual medical services for each claim separately. 
+
+ (f) When rebilling, medical providers must indicate that the charges have been previously billed. 
+
+ (g) If a patient requests copies of medical bills in writing, medical providers must provide copies within 30 days of the request, and provide any copies of future bills during the regular billing cycle. 
+
+ (2) Billing Timelines. (For payment timelines see OAR 436-009-0030.) 
+
+ (a) Medical providers must bill within: 
+
+ (A) 60 days of the date of service; 
+
+ (B) 60 days after the medical provider has received notice or knowledge of the responsible workers’ compensation insurer or processing agent; or 
+
+ (C) 60 days after any litigation affecting the compensability of the service is final, if the provider receives written notice of the final litigation from the insurer. 
+
+ (b) If the provider bills past the timelines outlined in subsection (a) of this section, the provider may be subject to civil penalties as provided in ORS 656.254 and OAR 436-010-0340. 
+
+ (c) When submitting a bill later than outlined in subsection (a) of this section, a medical provider must establish good cause. 
+
+ (d) When a provider submits a bill within 12 months of the date of service, the insurer may not reduce payment due to late billing. 
+
+ (e) When a provider submits a bill more than 12 months after the date of service, the bill is not payable, except when a provision of subsection (2)(a) is the reason the billing was submitted after 12 months. 
+
+ (3) Billing Forms. 
+
+ (a) All medical providers must submit bills to the insurer unless a contract directs the provider to bill the managed care organization (MCO). 
+
+ (b) Medical providers must submit bills on a completed current UB-04 (CMS 1450) or CMS 1500 except for: 
+
+ (A) Dental billings, which must be submitted on American Dental Association dental claim forms; 
+
+ (B) Pharmacy billings, which must be submitted on a current National Council for Prescription Drug Programs (NCPDP) form; or 
+
+ (C) Electronic billing transmissions of medical bills (see OAR 436-008). 
+
+ (c) Notwithstanding subsection (3)(b) of this rule, a medical service provider doing an IME may submit a bill in the form or format agreed to by the insurer and medical service provider. 
+
+ (d) Medical providers may use computer-generated reproductions of the appropriate forms. 
+
+ (e) Unless different instructions are provided in the table below, the provider should use the instructions provided in the National Uniform Claim Committee 1500 Claim Form Reference Instruction Manual. [See attached table.] 
+
+ (4) Billing Codes. 
+
+ (a) When billing for medical services, a medical provider must use codes listed in CPT® 2026, or Oregon specific codes (OSC) listed in OAR 436-009-0060 that accurately describe the service. If there is no specific CPT® code or OSC, a medical provider must use the appropriate HCPCS or dental code, if available, to identify the medical supply or service. If there is no specific code for the medical service, the medical provider must use the unlisted code at the end of each medical service section of  CPT® 2026, or the appropriate unlisted HCPCS code, and provide a description of the service provided. A medical provider must include the National Drug Code (NDC) to identify the drug or biological when billing for pharmaceuticals. 
+
+ (b) Only one office visit code may be used for each visit except for those code numbers relating specifically to additional time. 
+
+ (5) Modifiers. 
+
+ (a) When billing, unless otherwise provided by these rules, medical providers must use the appropriate modifiers found in  CPT® 2026, HCPCS’ level II national modifiers, or anesthesia modifiers, when applicable. 
+
+ (b) Modifier 22 identifies a service provided by a medical service provider that requires significantly greater effort than typically required. Modifier 22 may only be reported with surgical procedure codes with a global period of 0, 10, or 90 days as listed in Appendix B. The bill must include documentation describing the additional work. It is not sufficient to simply document the extent of the patient’s comorbid condition that caused the additional work. When a medical service provider appropriately bills for an eligible procedure with modifier 22, the payment rate is 125% of the fee published in Appendix B, or the fee billed, whichever is less. For all services identified by modifier 22, two or more of the following factors must be present: 
+
+ (A) Unusually lengthy procedure; 
+
+ (B) Excessive blood loss during the procedure; 
+
+ (C) Presence of an excessively large surgical specimen (especially in abdominal surgery); 
+
+ (D) Trauma extensive enough to complicate the procedure and not billed as separate procedure codes; 
+
+ (E) Other pathologies, tumors, malformations (genetic, traumatic, or surgical) that directly interfere with the procedure but are not billed as separate procedure codes; or 
+
+ (F) The services rendered are significantly more complex than described for the submitted CPT®. 
+
+ (6) Physician Associates and Nurse Practitioners. Physician associates and nurse practitioners must document in the chart notes that they provided the medical service. If physician associates or nurse practitioners provide services as surgical assistants during surgery, they must bill using modifier “81.” 
+
+ (7) Chart Notes. 
+
+ (a) All original medical provider billings must be accompanied by legible chart notes. The chart notes must document the services that have been billed and identify the person performing the service. 
+
+ (b) Chart notes must not be kept in a coded or semi-coded manner unless a legend is provided with each set of records. 
+
+ (c) When processing electronic bills, the insurer may waive the requirement that bills be accompanied by chart notes. The insurer remains responsible for payment of only compensable medical services. Medical providers may submit their chart notes separately or at regular intervals as agreed with the insurer. 
+
+ (8) Challenging the Provider’s Bill. For services where the fee schedule does not establish a fixed dollar amount, an insurer may challenge the reasonableness of a provider’s bill on a case by case basis by asking the director to review the bill under OAR 436-009-0008. If the director determines the amount billed is unreasonable, the director may establish a different fee to be paid to the provider based on at least one of, but not limited to, the following: reasonableness, the usual fees of similar providers, fees for similar services in similar geographic regions, or any extenuating circumstances. 
+
+ (9) Billing the Patient and Patient Liability. 
+
+ (a) A patient is not liable to pay for any medical service related to an accepted compensable injury or illness or any amount reduced by the insurer according to OAR chapter 436, and a medical provider must not attempt to collect payment for any medical service from a patient, except as follows: 
+
+ (A) If the patient seeks treatment for conditions not related to the accepted compensable injury or illness; 
+
+ (B) If the patient seeks treatment for a service that has not been prescribed by the attending physician, or a specialist physician upon referral of the attending physician. This would include, but is not limited to, ongoing treatment by nonattending physicians in excess of the 30-day/12-visit period, as set forth in ORS 656.245; 
+
+ (C) If the insurer notifies the patient that they are medically stationary and the patient seeks palliative care that is not authorized by the insurer or the director under OAR 436-010-0290; 
+
+ (D) If an MCO-enrolled patient seeks treatment from the provider outside the provisions of a governing MCO contract; or 
+
+ (E) If the patient seeks treatment listed in section (12) of this rule after the patient has been notified that such treatment is unscientific, unproven, outmoded, or experimental. 
+
+ (b) If the director issues an order declaring an already rendered medical service or treatment inappropriate, or otherwise in violation of the statute or administrative rules, the worker is not liable for such services. 
+
+ (c) A provider may bill a patient for a missed appointment under section (13) of this rule. 
+
+ (10) Disputed Claim Settlement (DCS). The insurer must pay a medical provider for any bill related to the claimed condition received by the insurer on or before the date the terms of a DCS were agreed on, but was either not listed in the approved DCS or was not paid to the medical provider as set forth in the approved DCS. Payment must be made by the insurer as prescribed by ORS 656.313(4)(d) and OAR 438-009-0010(2)(g) as if the bill had been listed in the approved settlement or as set forth in the approved DCS, except, if the DCS payments have already been made, the payment must not be deducted from the settlement proceeds. Payment must be made within 45 days of the insurer’s knowledge of the outstanding bill. 
+
+ (11) Payment Limitations. 
+
+ (a) Insurers do not have to pay providers for the following: 
+
+ (A) Completing form 827; 
+
+ (B) Providing chart notes with the original bill; 
+
+ (C) Preparing a written treatment plan; 
+
+ (D) Supplying progress notes that document the services billed; 
+
+ (E) Completing a work release form or completion of a PCE form, when no tests are performed; 
+
+ (F) A missed appointment “no show” (see exceptions below under section (13) Missed Appointment “No Show”); or 
+
+ (G) More than three mechanical muscle testing sessions per treatment program or when not prescribed and approved by the attending physician. 
+
+ (b) Mechanical muscle testing includes a copy of the computer printout from the machine, written interpretation of the results, and documentation of time spent with the patient. Additional mechanical muscle testing may be paid for only when authorized in writing by the insurer prior to the testing. 
+
+ (c) Dietary supplements including, but not limited to, minerals, vitamins, and amino acids are not reimbursable unless a specific compensable dietary deficiency has been clinically established in the patient. 
+
+ (d) Vitamin B-12 injections are not reimbursable unless necessary for a specific dietary deficiency of malabsorption resulting from a compensable gastrointestinal condition. 
+
+ (12) Excluded Treatment. The following medical treatments (or treatment of side effects) are not compensable and insurers do not have to pay for: 
+
+ (a) Dimethyl sulfoxide (DMSO), except for treatment of compensable interstitial cystitis; 
+
+ (b) Intradiscal electrothermal therapy (IDET); 
+
+ (c) Surface electromyography (EMG) tests; 
+
+ (d) Rolfing; 
+
+ (e) Prolotherapy; 
+
+ (f) Thermography; 
+
+ (g) Lumbar artificial disc replacement, unless it is a single level replacement with an unconstrained or semi-constrained metal on polymer device and: 
+
+ (A) The single level artificial disc replacement is between L3 and S1; 
+
+ (B) The patient is 16 to 60 years old; 
+
+ (C) The patient underwent a minimum of six months unsuccessful exercise based rehabilitation; and 
+
+ (D) The procedure is not found inappropriate under OAR 436-010-0230; 
+
+ (h) Cervical artificial disc replacement, unless the procedure is a single level or a two level contiguous cervical artificial disc replacement with a device that has Food and Drug Administration (FDA) approval for the procedure; and 
+
+ (i) Platelet rich plasma (PRP) injections, unless they are for non-operative: 
+
+ (A) Knee: Osteoarthritis pain, chondral surface injury and partial thickness meniscal tears after failure of three months of conservative care, which may include a standard course of physical therapy; 
+
+ (B) Elbow: Lateral and medial epicondylitis after failure of three months of conservative care, which may include a standard course of physical therapy; or 
+
+ (C) Shoulder: Tendon, bursa, and muscle injuries, including partial tears and small tears, and adhesive capsulitis after failure of three months of conservative care, which may include a standard course of physical therapy. 
+
+ (13) Missed Appointment (No Show). 
+
+ (a) In general, the insurer does not have to pay for “no show” appointments. However, insurers must pay for “no show” appointments for arbiter exams, director required medical exams, independent medical exams, worker requested medical exams, and closing exams. If the patient does not give 48 hours notice, the insurer must pay the provider 50 percent of the exam or testing fee and 100 percent for any review of the file that was completed prior to cancellation or missed appointment. 
+
+ (b) Other than missed appointments for arbiter exams, director required medical exams, independent medical exams, worker requested medical exams, and closing exams, a provider may bill a patient for a missed appointment if: 
+
+ (A) The provider has a written missed-appointment policy that applies not only to workers’ compensation patients, but to all patients; 
+
+ (B) The provider routinely notifies all patients of the missed-appointment policy; 
+
+ (C) The provider’s written missed-appointment policy shows the cost to the patient; and 
+
+ (D) The patient has signed the missed-appointment policy. 
+
+ (c) The implementation and enforcement of subsection (b) of this section is a matter between the provider and the patient. The division is not responsible for the implementation or enforcement of the provider’s policy. 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 656.245, ORS 656.248, ORS 656.252, ORS 656.254 & ORS 656.726(4) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 656.245, ORS 656.248, ORS 656.252 & ORS 656.254 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 3-2026, temporary amend filed 04/08/2026, effective 04/08/2026 through 10/04/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 2-2026, amend filed 03/25/2026, effective 04/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 6-2025, temporary amend filed 12/24/2025, effective 01/01/2026 through 03/31/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 1-2025, amend filed 03/10/2025, effective 04/01/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 27-2024, temporary amend filed 12/09/2024, effective 01/01/2025 through 06/06/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 3-2024, minor correction filed 06/06/2024, effective 06/06/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 1-2024, amend filed 03/05/2024, effective 04/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 6-2023, temporary amend filed 12/26/2023, effective 01/01/2024 through 03/31/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 5-2023, temporary amend filed 12/26/2023, effective 01/01/2024 through 03/31/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 1-2023, amend filed 03/09/2023, effective 04/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 12-2022, temporary amend filed 12/19/2022, effective 01/01/2023 through 06/29/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 4-2022, amend filed 06/13/2022, effective 07/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 2-2022, amend filed 03/02/2022, effective 04/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 19-2021, temporary amend filed 12/14/2021, effective 01/01/2022 through 06/29/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 2-2021, amend filed 03/03/2021, effective 04/01/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 21-2020, temporary amend filed 12/15/2020, effective 01/01/2021 through 06/29/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 14-2020, amend filed 08/31/2020, effective 09/21/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 13-2020, temporary amend filed 07/10/2020, effective 07/13/2020 through 09/20/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 4-2020, amend filed 03/04/2020, effective 04/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 9-2019, temporary amend filed 12/16/2019, effective 01/01/2020 through 06/28/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 2-2019, amend filed 03/11/2019, effective 04/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 22-2018, temporary amend filed 12/18/2018, effective 01/01/2019 through 06/29/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 5-2018, amend filed 03/15/2018, effective 04/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 8-2017, temporary amend filed 12/21/2017, effective 01/01/2018 through 06/29/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 1-2017, f. 3-6-17, cert. ef. 4-1-17 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 7-2016(Temp), f. 12-16-16, cert. ef. 1-1-17 thru 6-29-17 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 1-2016, f. 3-7-16, cert. ef. 4-1-16 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 8-2015(Temp), f. 12-8-15, cert. ef. 1-1-16 thru 6-28-16 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 3-2015, f. 3-12-15, cert. ef. 4-1-15 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 6-2014, f. 6-13-14, cert. ef. 7-1-14 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 4-2014(Temp), f. & cert. ef. 4-15-14 thru 10-11-14 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 3-2014, f. 3-12-14, cert. ef. 4-1-14 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 2-2013, f. 3-11-13, cert. ef. 4-1-13 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 1-2012, f. 2-16-12, cert. ef. 4-1-12 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 1-2011, f. 3-1-11, cert. ef. 4-1-11 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 3-2010, f. 5-28-10, cert. ef. 7-1-10 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 3-2009, f. 12-1-09, cert. ef. 1-1-10 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 1-2009, f. 5-22-09, cert. ef. 7-1-09 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 1-2008, f. 6-13-08, cert. ef. 7-1-08 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 10-2007, f. 11-1-07, cert. ef. 1-1-08 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 2-2007, f. 5-23-07, cert. ef. 7-1-07 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 3-2006, f. 3-14-06, cert. ef. 4-1-06 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 2-2005, f. 3-24-05, cert. ef. 4-1-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 3-2004, f. 3-5-04 cert. ef. 4-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 6-2003, f. 5-28-03, cert. ef. 7-1-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 3-2002, f. 2-25-02 cert. ef. 4-1-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 8-2001, f. 9-13-01, cert. ef. 9-17-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 2-2001, f. 3-8-01, cert. ef. 4-1-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 2-2000, f. 3-15-00, cert. ef. 4-1-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 9-1999, f. 5-27-99, cert. ef. 7-1-99 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 5-1998, f. 4-3-98, cert. ef. 7-1-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 20-1996, f. 10-2-96, cert. ef. 1-1-97 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 12-1996, f. 5-6-96, cert. ef. 6-1-96 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

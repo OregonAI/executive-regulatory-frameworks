@@ -1,0 +1,362 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Public Utility Commission 
+ Chapter 860 
+ 
+ 
+ 
+ 
+ 
+ Division 24 SAFETY STANDARDS 
+ 860-024-0050 
+ Incident Reports
+ 
+ 
+ (1) As used in this rule: 
+
+ (a) "Self-propagating fire" means a fire that is self-fueling and will not extinguish without intervention. 
+
+ (b) “Serious injury to person” means, in the case of an employee, an injury which results in hospitalization. In the case of a non-employee, “serious injury” means any contact with an energized high-voltage line, or any incident which results in hospitalization. Treatment in an emergency room is not hospitalization. 
+
+ (c) “Serious injury to property” means: 
+
+ (A) Damage to operator and non-operator property exceeding $100,000; or 
+
+ (B) In the case of a gas operator, damage to property exceeding $5,000; or 
+
+ (C) In the case of an electricity service supplier (ESS) as defined in OAR 860-038-0005, damage to ESS and non-ESS property exceeding $100,000 or failure of ESS facilities that causes or contributes to a loss of energy to consumers; or 
+
+ (D) Damage to property which causes a loss of service to over 500 customers (50 customers in the case of a gas operator) for over two hours (five hours for an electric operator serving less than 15,000 customers) except for electric service loss that is restricted to a single feeder line and results in an outage of less than four hours. 
+
+ (2) Except as provided in section (6) of this rule, every reporting operator must give immediate notice by telephone, by facsimile, by electronic mail, or personally to the Commission, of incidents attended by loss of life or limb, or serious injury to person or property, occurring in Oregon upon the premises of or directly or indirectly arising from or connected with the maintenance or operation of a facility. 
+
+ (3) As soon as practicable following knowledge of the occurrence, all investor-owned electric utilities must report by telephone, by facsimile, by electronic mail, or personally to  the Commission fire-related incidents: 
+
+ (a) that are the subject of significant public attention or media coverage involving the utility's facilities or is in the utility's right-or-way; or 
+
+ (b) where the utility's facilities are associated with the following conditions: 
+
+ (A) a self-propagating fire of material other than electrical and/or communication facilities; and 
+
+ (B) the resulting fire traveled greater than one linear meter from the ignition point. 
+
+ (4) Except as provided in section (6) of this rule, every reporting operator must, in addition to the notice given in sections (2) and (3) of this rule for an incident described in sections (2) and (3), report in writing to the Commission within 20 days of knowledge of the occurrence using Form 221 (FM221) available on the Commission's website. In the case of injuries to employees, a copy of the incident report form that is submitted to Oregon OSHA, Department of Consumer and Business Services, for reporting incident injuries, will normally suffice for a written report. In the case of a gas operator, copies of incident or leak reports submitted under 49 CFR Part 191 will normally suffice. 
+
+ (5) An incident report filed by a public or telecommunications utility in accordance with ORS 654.715 cannot be used as evidence in any action for damages in any suit or action arising out of any matter mentioned in the report. 
+
+ (6) A Peoples Utility District (PUD) is exempt from this rule if the PUD agrees, by signing an agreement, to comply voluntarily with the filing requirements set forth in sections (2) and (4). 
+
+ (7) Gas operators have additional incident and condition reporting requirements set forth in OARs 860-024-0020 and 860-024-0021. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 183, ORS 654, ORS 756, ORS 757 & ORS 759 
+ 
+ 
+ Statutes/Other Implemented:  ORS 654.715, ORS 756.040, ORS 756.105, ORS 757.035, ORS 757.039, ORS 757.649, ORS 759.030, ORS 759.040 & ORS 759.045 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 5-2023, minor correction filed 05/10/2023, effective 05/10/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 6-2022, amend filed 09/22/2022, effective 09/22/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 5-2021, temporary amend filed 05/28/2021, effective 05/28/2021 through 11/23/2021 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 9-2006, f. & cert. ef. 9-28-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 23-2001, f. & cert. ef. 10-11-01, Renumbered from 860-028-0005 & 860-034-0570 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 3-1999, f. & ef. 8-10-99 (Order No. 99-468) 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 12-1998, f. & cert. ef. 5-7-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 1-1998, f. & ef. 1-12-98 (Order No. 98-016) 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 6-1993, f. & cert. ef. 2-19-93 (Order No. 93-185) 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 4-1992, f. & ef. 2-14-92 (Order No. 92-234) 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 12-1989, f. & cert. ef. 8-11-89 (Order No. 89-946) 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 21-1985, f. & ef. 11-25-85 (Order No. 85-1130) 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 3-1981, f. & ef. 6-4-81 (Order No. 81-361) 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 164, f. 4-18-74, ef. 5-11-74 (Order No. 74-307) 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

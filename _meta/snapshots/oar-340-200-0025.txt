@@ -1,0 +1,496 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 200 GENERAL AIR POLLUTION PROCEDURES AND DEFINITIONS 
+ 340-200-0025 
+ Abbreviations and Acronyms
+ 
+ 
+ (1) “AAQS” means ambient air quality standard. 
+
+ (2) "ACDP" means Air Contaminant Discharge Permit. 
+
+ (3) "ACT" means Federal Clean Air Act. 
+
+ (4) "AE" means Actual Emissions. 
+
+ (5) "AICPA" means Association of Independent Certified Public Accountants. 
+
+ (6) "AQCR" means Air Quality Control Region. 
+
+ (7) “AQRV” means Air Quality Related Value 
+
+ (8) "AQMA" means Air Quality Maintenance Area. 
+
+ (9) "ASME" means American Society of Mechanical Engineers. 
+
+ (10) "ASTM" means American Society for Testing & Materials. 
+
+ (11) "ATETP" means Automotive Technician Emission Training Program. 
+
+ (12) "AWD" means all wheel drive. 
+
+ (13) "BACT" means Best Available Control Technology. 
+
+ (14) “BART” means Best Available Retrofit Technology. 
+
+ (15) "BLS" means black liquor solids. 
+
+ (16) "CAA" means Clean Air Act 
+
+ (17) "CAR" means control area responsible party. 
+
+ (18) "CBD" means central business district. 
+
+ (19) "CCTMP" means Central City Transportation Management Plan. 
+
+ (20) "CEM" means continuous emissions monitoring. 
+
+ (21) "CEMS" means continuous emission monitoring system. 
+
+ (22) "CERCLA" means Comprehensive Environmental Response Compensation and Liability Act. 
+
+ (23) "CFRMS" means continuous flow rate monitoring system. 
+
+ (24) "CFR" or “C.F.R.” means Code of Federal Regulations. 
+
+ (25) "CMS" means continuous monitoring system. 
+
+ (26) "CO" means carbon monoxide. 
+
+ (27) “CO2e” means carbon dioxide equivalent. 
+
+ (28) "COMS" means continuous opacity monitoring system. 
+
+ (29) "CPMS" means continuous parameter monitoring system. 
+
+ (30) "DEQ" means Department of Environmental Quality. 
+
+ (31) "DOD" means Department of Defense. 
+
+ (32) "EA" means environmental assessment. 
+
+ (33) "ECO" means employee commute options. 
+
+ (34) "EEAF" means emissions estimate adjustment factor. 
+
+ (35) "EF" means emission factor. 
+
+ (36) "EGR" means exhaust gas re-circulation. 
+
+ (37) "EIS" means Environmental Impact Statement. 
+
+ (38) "EPA" means Environmental Protection Agency. 
+
+ (39) "EQC" means Environmental Quality Commission. 
+
+ (40) "ESP" means electrostatic precipitator. 
+
+ (41) "FCAA" means Federal Clean Air Act. 
+
+ (42) "FHWA" means Federal Highway Administration. 
+
+ (43) "FONSI" means finding of no significant impact. 
+
+ (44) "FTA" means Federal Transit Administration. 
+
+ (45) "GFA" means gross floor area. 
+
+ (46) “GHG” means greenhouse gases. 
+
+ (47) "GLA" means gross leasable area. 
+
+ (48) "GPM" means grams per mile. 
+
+ (49) "gr/dscf" means grains per dry standard cubic foot. 
+
+ (50) "GTBA" means grade tertiary butyl alcohol. 
+
+ (51) "GVWR" means gross vehicle weight rating. 
+
+ (52) "HAP" means hazardous air pollutant. 
+
+ (53) "HEPA" means high efficiency particulate air. 
+
+ (54) "HMIWI" means hospital medical infectious waste incinerator. 
+
+ (55) "I/M" means inspection and maintenance program. 
+
+ (56) "IG" means inspection grade. 
+
+ (57) "IRS" means Internal Revenue Service. 
+
+ (58) "ISECP" means indirect source emission control program. 
+
+ (59) "ISTEA" means Intermodal Surface Transportation Efficiency Act. 
+
+ (60) "LAER" means Lowest Achievable Emission Rate. 
+
+ (61) "LDT2" means light duty truck 2. 
+
+ (62) "LIDAR" means laser radar; light detection and ranging. 
+
+ (63) "LPG" means liquefied petroleum gas. 
+
+ (64) "LRAPA" means Lane Regional Air Protection Agency. 
+
+ (65) "LUCS" means Land Use Compatibility Statement. 
+
+ (66) "MACT" means Maximum Achievable Control Technology. 
+
+ (67) "MPO" means Metropolitan Planning Organization. 
+
+ (68) "MTBE" means methyl tertiary butyl ether. 
+
+ (69) "MWC" means municipal waste combustor. 
+
+ (70) "NAAQS" means National Ambient Air Quality Standards. 
+
+ (71) “NAICS” means North American Industrial Classification System. 
+
+ (72) "NEPA" means National Environmental Policy Act. 
+
+ (73) "NESHAP" means National Emissions Standard for Hazardous Air Pollutants. 
+
+ (74) "NIOSH" means National Institute of Occupational Safety & Health. 
+
+ (75) "NOx" means nitrogen oxides. 
+
+ (76) "NSPS" means New Source Performance Standards. 
+
+ (77) "NSR" means New Source Review. 
+
+ (78) "NSSC" means neutral sulfite semi-chemical. 
+
+ (79) "O3" means ozone. 
+
+ (80) "OAR" means Oregon Administrative Rules. 
+
+ (81) "ODOT" means Oregon Department of Transportation. 
+
+ (82) "ORS" means Oregon Revised Statutes. 
+
+ (83) "OSAC" means orifice spark advance control. 
+
+ (84) "OSHA" means Occupational Safety & Health Administration. 
+
+ (85) "PCDCE" means pollution control device collection efficiency. 
+
+ (86) "PEMS" means predictive emission monitoring system. 
+
+ (87) "PM" means particulate matter. 
+
+ (88) "PM10" means particulate matter less than 10 microns. 
+
+ (89) “PM2.5” means particulate matter less than 2.5 microns. 
+
+ (90) "POTW" means Publicly Owned Treatment Works. 
+
+ (91) "POV" means privately owned vehicle. 
+
+ (92) “ppm” means parts per million. 
+
+ (93) "PSD" means Prevention of Significant Deterioration. 
+
+ (94) "PSEL" means Plant Site Emission Limit. 
+
+ (95) "QIP" means quality improvement plan. 
+
+ (96) "RACT" means Reasonably Available Control Technology. 
+
+ (97) “ROI” means range of influence. 
+
+ (98) "RVCOG" means Rogue Valley Council of Governments. 
+
+ (99) "RWOC" means running weighted oxygen content. 
+
+ (100) "scf" means standard cubic feet. 
+
+ (101) "SCS" means speed control switch. 
+
+ (102) "SD" means standard deviation. 
+
+ (103) “SER” means significant emission rate. 
+
+ (104) “SERP” means source emission reduction plan. 
+
+ (105) “SIC” means Standard Industrial Classification from the Standard Industrial Classification Manual (U.S. Office of Management and Budget, 1987). 
+
+ (106) "SIP" means State Implementation Plan. 
+
+ (107) "SKATS" means Salem-Keizer Area Transportation Study. 
+
+ (108) “SLAMS” means State or Local Air Monitoring Stations. 
+
+ (109) "SO2" means sulfur dioxide. 
+
+ (110) "SOCMI" means synthetic organic chemical manufacturing industry. 
+
+ (111) "SOS" means Secretary of State. 
+
+ (112) “SPMs” means Special Purpose Monitors. 
+
+ (113) "TAC" means thermostatic air cleaner. 
+
+ (114) "TACT" means Typically Achievable Control Technology. 
+
+ (115) "TCM" means transportation control measures. 
+
+ (116) "TCS" means throttle control solenoid. 
+
+ (117) "TIP" means Transportation Improvement Program. 
+
+ (118) “tpy” means tons per year. 
+
+ (119) "TRS" means total reduced sulfur. 
+
+ (120) "TSP" means total suspended particulate matter. 
+
+ (121) "UGA" means urban growth area. 
+
+ (122) "UGB" means urban growth boundary. 
+
+ (123) “USC” means United States Code. 
+
+ (124) "US DOT" means United States Department of Transportation. 
+
+ (125) "UST" means underground storage tanks. 
+
+ (126) "UTM" means universal transverse mercator. 
+
+ (127) "VIN" means vehicle identification number. 
+
+ (128) "VMT" means vehicle miles traveled. 
+
+ (129) "VOC" means volatile organic compounds. 
+
+ [NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020 & 468A 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468A 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 19-2022, amend filed 11/18/2022, effective 03/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 7-2015, f. & cert. ef. 4-16-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 5-2011, f. 4-29-11, cert. ef. 5-1-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 5-2010, f. & cert. ef. 5-21-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 8-2007, f. & cert. ef. 11-8-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 3-2007, f. & cert. ef. 4-12-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

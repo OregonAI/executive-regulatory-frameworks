@@ -1,0 +1,505 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Child Welfare Programs - Chapter 413 
+ 
+ 
+ 
+ 
+ Division 15 INTRODUCTION TO CPS RULES 
+ 413-015-0470 
+ Notifications at Conclusion of CPS Assessment
+ 
+ 
+ (1) Requirements for providing notifications. The CPS worker must: 
+
+ (a) Unless Child Welfare determines that disclosure is not permitted under ORS 419B.035, notify the reporter, if the reporter provided Child Welfare with contact information, whether contact was made, whether Child Welfare determined abuse occurred, and whether services will be provided. 
+
+ (b) Provide verbal notification to the alleged victim's parents, including a non-custodial legal parent , and caregivers of all CPS assessment dispositions (unfounded or unsubstantiated, unable to determine or inconclusive, or founded or substantiated) and whether Child Welfare will provide services as a result of the CPS assessment . If the verbal notification of the CPS assessment disposition and service provision may make a child or adult unsafe , a CPS supervisor may authorize an exception to the requirement to provide the notification based on documentation supporting that conclusion. When the child's parent is the perpetrator, the notice under subsection (c) of this section must be provided. 
+
+ (c) Provide written notification to perpetrators of founded or substantiated dispositions and the disposition review process as outlined in OAR 413-010-0700 to 413-010-0750. 
+
+ (A) If the notification could make an adult unsafe, a CPS worker must consult with a CPS supervisor and discuss ways to partner with the impacted person to promote their safety. 
+
+ (B) If the notification could make a child unsafe, the CPS worker must consult with a CPS supervisor to discuss ways to partner with the child ’s legal parent ,  guardian, Indian custodian, or attorney to ensure the child ’s safety. 
+
+ (C) The Child Safety Program manager or their designee may approve an exception to delivery of written notification, as provided in OAR 413-010-0715. 
+
+ (d) If Child Welfare has reason to know the perpetrator has an attorney, the local Child Welfare office must provide a copy of the written notification described in (c) to the perpetrator’s attorney, if applicable, unless the Child Safety Program Manager or their designee has approved an exception to delivery, as provided in OAR 413-010-0715. 
+
+ (e) Provide the Teacher Standards and Practices Commission (TSPC) notification of the completed CPS assessment when a teacher or school administrator , as defined in OAR 413-015-0115, is identified as an alleged perpetrator in a report . Regardless of the disposition, a copy of the completed CPS assessment must be sent to TSPC after information related to the reporter's identity and other confidential information is removed. 
+
+ (f) Provide the Office of Developmental Disabilities Services (ODDS) notification of the completed CPS assessment when a CPS assessment involves a home certified by ODDS. Regardless of the disposition, a copy of the completed CPS assessment must be sent to ODDS after information related to the reporter's identity and other confidential information is removed. 
+
+ (g) Provide Oregon Youth Authority (OYA) notification of the completed CPS assessment when a CPS assessment involves a home certified by OYA. Regardless of the disposition, a copy of the completed CPS assessment must be sent to OYA after information related to the reporter's identity and other confidential information is removed. 
+
+ (h) Provide Disability Rights Oregon notification of the completed CPS assessment when a report of abuse was alleged to have occurred at a school or in an educational setting and the report involves a child with a disability. Regardless of the disposition, a copy of the completed CPS assessment must be sent to Disability Rights Oregon after information related to the reporter's identity and other confidential information is removed. 
+
+ (2) Documentation of notifications. The CPS worker must document the notifications as described in this rule in the Child Welfare electronic information system and the documentation must include: 
+
+ (a) Who made the notification. 
+
+ (b) To whom the notification was made. 
+
+ (c) The date the notification was made. 
+
+ (d) That the notifications have been attempted or made within the following timelines: 
+
+ (A) Prior to completing the CPS assessment for a notification provided under subsection (1)(a) of this rule. 
+
+ (B) Within five business days of supervisory approval of the CPS assessment for a notification provided under subsection (1)(b) through (1)(d) of this rule. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 418.005 & ORS 409.050 
+ 
+ 
+ Statutes/Other Implemented:  ORS 418.205 - 418.327, ORS 419B.035, ORS 418.005, ORS 409.185, ORS 418.015 & ORS 419B.005 - 419B.050 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 59-2026, amend filed 06/01/2026, effective 06/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 38-2026, temporary amend filed 02/25/2026, effective 03/01/2026 through 08/27/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 2-2024, amend filed 01/29/2024, effective 02/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 85-2023, amend filed 10/24/2023, effective 11/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 34-2023, minor correction filed 05/16/2023, effective 05/16/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 1-2021, amend filed 01/04/2021, effective 01/04/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 113-2020, minor correction filed 02/18/2020, effective 02/18/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 108-2018, amend filed 09/17/2018, effective 09/17/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 105-2018, temporary amend filed 09/11/2018, effective 09/11/2018 through 02/28/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 104-2018, amend filed 09/10/2018, effective 09/10/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 52-2018, temporary amend filed 06/29/2018, effective 06/29/2018 through 12/25/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 44-2018, amend filed 05/30/2018, effective 05/30/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 12-2018, temporary amend filed 01/29/2018, effective 01/29/2018 through 05/30/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 26-2017, temporary amend filed 12/29/2017, effective 01/01/2018 through 01/28/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 10-2017(Temp), f. & cert. ef. 8-8-17 thru 1-28-18 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 17-2016, f. & cert. ef. 9-29-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 11-2016(Temp), f. 6-30-16, cert. ef. 7-1-16 thru 12-27-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 27-2015, f. 12-28-15, cert. ef. 1-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 10-2014, f. 5-20-14, cert. ef. 5-27-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 5-2012, f. & cert. ef. 9-7-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 1-2012(Temp), f. & cert. ef. 3-12-12 thru 9-8-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 8-2009, f. 7-29-09, cert. ef. 8-3-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 3-2007, f. & cert. ef. 3-20-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

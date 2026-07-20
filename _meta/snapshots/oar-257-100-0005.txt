@@ -1,0 +1,312 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of State Police 
+ Chapter 257 
+ 
+ 
+ 
+ 
+ 
+ Division 100 IGNITION INTERLOCK DEVICE PROGRAM 
+ 257-100-0005 
+ Definitions 
+ 
+ As used in OAR 257-100-0005 to 257-100-0080, in addition to the terms defined in ORS 813.599, the following terms apply: 
+
+ (1) “Alcohol” means ethanol or ethyl alcohol. 
+
+ (2) “Alcohol set point” means a breath alcohol concentration of 0.020%. 
+
+ (3) “Breath Alcohol Concentration (BrAC)” means the amount of alcohol in the blood of the individual as shown by chemical analysis of the breath.   
+
+ (4) “Breath sample” means normal expired human breath primarily containing alveolar air and provided in such a manner to be acceptable for analysis by the interlock device. 
+
+ (5) “Calibration” means the process of testing and adjusting a device to ensure accuracy by using dry gas standard that is approved to be listed on the NHTSA Conforming Products List of Calibrating Units for Breath Alcohol Testers. 
+
+ (6) “Circumvention” means to bypass the correct operation of a device by starting or operating the vehicle, by any means, without first providing a breath test. 
+
+ (7) “Critical Disqualifying Factor” means a mandatory minimum requirement for program qualification required by Oregon Administrative Rule Chapter 257, Division 100 or Oregon Revised Statute, which if not met, may result in serious risk of harm or injury to the public’s health or safety. 
+
+ (8) “Demonstration” or “Demo” Device means a readily accessible powered device, programmed to mandatory minimum requirement for program qualification, allowing an individual customer or OSP to use prior to a device installation.  
+
+ (9) “Disqualifying Factor” means a mandatory minimum requirement for program qualification required by Oregon Administrative Rule Chapter 257, Division 100 or Oregon Revised Statute, which is not a “critical disqualifying factor.” 
+
+ (10) “DMV” means the Oregon Driver and Motor Vehicles Services. 
+
+ (11) “Early Recall” means response of the device due to an action of the individual, which requires calibration of the device and downloading of the data memory. 
+
+ (12) “Follow-up test” means a breath sample required by the device after a test result that is above the alcohol set point. 
+
+ (13) “Ignition Interlock Device” or “IID” or “device” means a device that is designed to allow a driver to start or operate a vehicle if the driver's BrAC is at or below the alcohol set point and to prevent the driver from starting or operating the vehicle if the driver's BrAC is above the alcohol set point. The associated camera is considered part of the device. 
+
+ (14) “Indigence Standards” means a determination of indigence based on household income adopted by the United States Department of Agriculture for the SNAP (Supplemental Nutrition Assistance Program). 
+
+ (15) “Individual” or ‘Individual Customer” means a single person required to have a device installed due to an Oregon Driving Under the Influence of Intoxicants conviction or diversion agreement. 
+
+ (16) “Initial Test” means a breath test provided before the vehicle is started. 
+
+ (17) “Lockout” means a condition when the device will not accept a breath test until the device is serviced or unlocked as permitted in OAR 257-100-0055. 
+
+ (18) “Manufacturer” means an organization responsible for the design, construction, production and repair of a device. 
+
+ (19) “Manufacturer’s Representative” means the only company or corporation registered as a business with the Oregon Secretary of State that is designated by a manufacturer to sell, rent, or lease a specific device model in the State of Oregon and provide statewide device service through the operation of a network of service centers. 
+
+ (20) “Manufacturer’s Representative Liaison” means any person who is employed by the manufacturer or manufacturer’s representative who facilitates communications, provides information, and reports customer activities to the Oregon Department of State Police. 
+
+ (21) “Mobile Service” or “Mobile Service Center” means a vehicle operated by a certified service center allowing their ignition interlock technician to service approved ignition interlock devices at a location other than the fixed site service center. 
+
+ (22) “NHTSA” means the National Highway Traffic Safety Administration. 
+
+ (23) “ODOT” means the Oregon Department of Transportation 
+
+ (24) “Operational” means an interlock device that is installed in a vehicle, ready for use, and is not currently in lockout. 
+
+ (25) “OSP” means the Oregon Department of State Police. 
+
+ (26) Oregon Device Configuration or “ODC” Test means the testing procedure used by OSP to ensure a device meets the mandatory minimum requirements for program qualification as described in Oregon Administrative Rule Chapter 257, Division 100 and Oregon Revised Statute. 
+
+ (27) “Proper Record Maintenance” means the manufacturer’s representative complete records on each individual for a period of five years after the date of the device removal including, but not limited to, all data retrieved from the data storage system of a device. 
+
+ (28) “Purge” means any action by which a device cleanses or removes a previous breath sample from the device and specifically removes residual alcohol. 
+
+ (29) “Restart” means the ability to start the vehicle’s engine again within two minutes after the vehicle engine is turned off (including stalling) without the delivery of another breath sample that is at or below the alcohol set point. 
+
+ (30) “Retest” means a breath sample required by the device after the initial vehicle engine start-up breath sample and while the vehicle is being operated. 
+
+ (31) “Service” means installing, inspecting, downloading, data transferring, calibrating, or removing the device. 
+
+ (32) “Supplemental Nutrition Assistance Program” or “SNAP” means the program operated by United States Department of Agriculture to provide low-income individuals and families with nutrition assistance. 
+
+ (33) “Tampering” means an attempt to disable, circumvent, adjust, or otherwise alter the proper operation of a device or camera. “Tampering” does not include disconnecting the handset once the vehicle is turned off. 
+
+ (34) “Vehicle” means any device in, upon or by which any person or property is or may be transported or drawn upon a public highway or premises open to the public and includes vehicles that are propelled or powered by any means. Under ORS 801.365 and ORS 801.133, motorcycles and autocycles are considered vehicles. 
+
+ (35) “Weblog” means a program or web site that consists of a series of entries arranged in chronological order, often updated frequently with new information about the individual or individual’s ignition interlock device use. 
+
+ [Publications: Publications referenced are available from OSP.] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 813.600 & ORS 813.660 
+ 
+ 
+ Statutes/Other Implemented:  ORS 813.599 – 813.680 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSP 3-2022, amend filed 05/20/2022, effective 05/20/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSP 25-2019, amend filed 12/27/2019, effective 12/31/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSP 24-2019, temporary amend filed 07/03/2019, effective 07/03/2019 through 12/29/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TSD 3-2019, renumbered from 737-005-0105, filed 05/30/2019, effective 07/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TSD 2-2019, adopt filed 01/17/2019, effective 01/17/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TSD 3-2018, temporary adopt filed 09/24/2018, effective 09/24/2018 through 03/22/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

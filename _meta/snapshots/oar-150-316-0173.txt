@@ -1,0 +1,175 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 316 PERSONAL INCOME TAX GENERAL PROVISIONS 
+ 150-316-0173 
+ Gross Income of Nonresidents; Federal Laws Affecting Nonresident Employees of Motor, Rail, Air and Water Carriers 
+ 
+ (1) General: Various federal laws affect the application of Oregon tax laws to nonresident employees of motor carriers, rail carriers, and air carriers. Specific requirements for motor carriers, rail carriers, and air carriers are discussed separately below. For purposes of this rule the following definitions apply to motor carriers, rail carriers, and air carriers:  (a) "Person" means a corporation, company, association, firm, partnership, or individual.  (b) "Common carrier" means:  (A) Any person who transports persons or property for hire or who publicly purports to be willing to transport persons or property for hire; or  (B) Any person who leases, rents or otherwise provides a motor vehicle to the public and who in connection therewith in the regular course of business provides, procures or arranges for, directly, indirectly or by course of dealing, a driver or operator therefor.  (c) "Regularly assigned duties in more than one state" means duties that are performed on a regular basis in more than one state, e.g., daily, weekly, or monthly assignment. Duties that are performed on an "on-call" or "as-needed" basis, or duties that are performed on a sporadic or intermittent basis during the year, are not considered to be "regularly assigned duties."  (d) "Property" means the cargo or load being transported.  (e) "Exempt" means that the Amtrak Act prohibits the imposition of Oregon income tax.  (2) Motor carrier employees. Federal Public Law (P.L.) 101-322, the Amtrak Reauthorization and Improvement Act of 1990, and Public Law 104-88, the ICC Termination Act of 1995, provide that no part of the compensation paid by a motor carrier or a motor private carrier to a nonresident employee who performs regularly assigned duties in more than one state is subject to Oregon tax (49 USC §14503). For purposes of this subsection, the following definitions apply:  (a) "Employee" means an individual who:  (A) Directly affects commercial motor vehicle safety in the course of employment; and  (B) Is not an employee of the United States Government, a State, or a political subdivision of a State acting in the course of the employment by the Government, State, or political subdivision of a State; and  (C) Is subject to the jurisdiction of the U.S. Secretary of Transportation; and  (D) Is not covered under the overtime requirements of the Fair Labor Standards Act (if the employee is properly listed as "non-exempt" in personnel and payroll records. This means that the employee is covered under the rules of the Fair Labor Standards Act and thus is not subject to the jurisdiction of the Secretary of Transportation); and  (E) Is one of the following:  (i) An operator of a commercial motor vehicle (including an independent contractor) who, if working for a motor carrier, transports property or passengers, and if working for a motor private carrier, transports property; or  (ii) A mechanic; or  (iii) A freight handler; or  (iv) An individual not an employer.  (b) "Employer" means a person engaged in a business affecting interstate commerce that owns or leases a commercial motor vehicle in connection with that business, or assigns an employee to operate it.  (c) "Motor carrier" means a person providing motor vehicle transportation of passengers or property for another for compensation. Motor carriers are required to be licensed as such with the Secretary of Transportation.  (d) "Motor private carrier" means a person, other than a motor carrier, transporting property by commercial motor vehicle when:  (A) The transportation is between two states;  (B) The person is the owner, lessee, or bailee of the property being transported; and  (C) The property is being transported for sale, lease, rent, or bailment, or to further a commercial enterprise, and  (D) The person is required to be licensed as such with the Secretary of Transportation.  (e) "Commercial motor vehicle" means a self-propelled or towed vehicle used on the highways in interstate commerce to transport passengers or property if the vehicle:  (A) Has a gross vehicle weight rating of 10,001 or more pounds;  (B) Is designed or used to transport passengers for compensation, but excluding vehicles providing taxicab service that:  (i) Have a capacity of not more than 8 passengers; and  (ii) Are not operated on a regular route or between specified places;  (C) Is designed or used to transport more than 15 passengers, including the driver, and is not used to transport passengers for compensation; or  (D) Is used in transporting material found to be hazardous under Title 49 USC 5103 in a quantity requiring placarding under regulations prescribed under Title 49 USC 5103.  (f) "Directly affects" means that the employee is required by his or her regularly assigned routine and duties to work directly with a commercial motor vehicle or its contents. The duties must be of a direct, hands-on nature that requires the employee to physically move, touch or affect the vehicle or its contents. Supervisory, managerial, consulting, or other duties, which indirectly affect the safety of a motor vehicle, do not meet the definition of "directly affects."  (g) "Driver leasing company" means an employer that employs drivers and leases them to motor carriers or motor private carriers. A driver leasing company is not an employer subject to the jurisdiction of the Secretary of Transportation.  (3) The following examples illustrate the application of sections (1) and (2) of this rule.  Example 1 Subsection 1(c), Regularly Assigned Duties: Adam, a nonresident, works for an Oregon based interstate trucking carrier as a driver. He has a regular route from Idaho to Oregon and picks up or delivers products in Oregon. Adam's compensation is exempt from Oregon taxation.  Example 2 Subsection 1(c), Regularly Assigned Duties: Brenda, a nonresident, works for an interstate trucking carrier as a driver. She has a regular route from Portland to Vancouver, Washington. It is a daily or weekly route. However, the Portland-Vancouver route only takes about 2 to 3 hours. Brenda has a regular route from Portland to Salem for the remaining time. Brenda is considered to be performing "regularly assigned duties in more than one state" since the Portland-Vancouver assignment is on a regular basis. Therefore, her compensation is exempt from Oregon taxation.  Example 3 Subsection 1(c), Regularly Assigned Duties: Carl, a nonresident, works for an Oregon based interstate trucking carrier as a driver. The company's customers are mostly lumber mills located in Oregon and Washington. Carl picks up his truck every morning in Washington and receives delivery assignments for the day. Depending on where the lumber needs to be delivered, Carl may not have to come to Oregon on a daily basis. He may pick up and deliver lumber products all within Washington or may do so all within Oregon. However, Carl does drive to Oregon at least once a month due to the company's customer base. Due to the nature of the business, the company may not be able to assign regular duties to Carl. The company itself does not even know what the delivery route will be until the customers notify the trucking company. Although Carl may not have a regular route in Washington and Oregon, he does drive to Oregon at least once a month. Carl is considered to have "regularly assigned duties in more than one state" as long as all the routes (including interstate routes) are assigned indiscriminately among all drivers on a regular basis. Carl's compensation is exempt from Oregon taxation.  Example 4 Subsection 1(c), Regularly Assigned Duties: Dave, a nonresident, works for an interstate trucking carrier as a driver. All of his routes are within Oregon, mainly from Portland to Pendleton. However, the company requires that Dave drive to Washington before reaching the destination in Oregon (Pendleton in this case). The company has no business reason for this requirement. There is no product waiting for pick-up or delivery in Washington. Dave's compensation is taxable by Oregon. He does not have "regularly assigned duties in more than one state." Dave may drive to Washington every day, but there is no business reason to drive to Washington.  Example 5 Subsection 1(c), Regularly Assigned Duties: Frieda, a nonresident, works for an Oregon retail store as a freight handler. Her regularly assigned duties are to load and unload freight. Occasionally, Frieda is asked to fill in as a driver and, over the course of a year, may drive several routes in and out of Oregon. Frieda does not have "regularly assigned duties in more than one state" and her Oregon-sourced compensation is taxable by Oregon.  Example 6 Subsection 1(c), Regularly Assigned Duties: George, a nonresident, works as a mechanic for an interstate trucking firm. He is assigned to the Portland terminal and performs the majority of his work there. His job duties require that he be available to perform minor repair work away from the terminal on an "as-needed" basis. Several times during a given year, he may be required to travel to Washington to repair a flat tire, do minor engine work, etc. George does not have "regularly assigned duties in more than one state" and his Oregon-sourced compensation is taxable by Oregon.  Example 7 Subsection 2(a), Driver, Mechanic, Freight Handler: Edward, a nonresident, works for an Oregon trucking carrier as a clerk. The company has one terminal in Oregon and one terminal in Washington. Edward regularly works in both terminals, i.e. works in two states. Edward is not considered an employee for purposes of P.L. 101-322. He is not a driver, a mechanic, or a freight handler. His duties do not directly affect the safety of the vehicle. Therefore, the Oregon source income is taxable by Oregon.  Example 8 Subsections 2(a) and 2(b), Employer: Mary Lou, a nonresident, is a supervisor who regularly assigns drivers as an interstate trucking firm's Portland and Vancouver terminals. She tracks the hours each driver works to ensure compliance with the Secretary of Transportation's safety regulations regarding maximum hours worked. Though Mary Lou works in two different states and does have an impact on safety, she is considered an employer, not an employee, and must pay Oregon tax on that portion of work performed at the Portland terminal.  Example 9 Subsections 2(a)(A) and 2(f), Directly Affects Safety: Harold, a nonresident, is employed by an interstate trucking firm. Harold's duties include: authorizing and ordering drug testing for employees; road testing a driver's abilities; investigating accidents involving company vehicles; ordering repairs to motor vehicles; removing vehicles from service; and approving and implementing safety programs and policies. While Harold may be responsible for vehicles, and his work may have a significant impact upon safety, that impact is not direct, but is implemented through others. He does not meet the requirement that he "directly affect" the safety of a commercial motor vehicle and his Oregon-sourced compensation is taxable by Oregon.  Example 10 Subsections 2(a)(A) and 2(f), Directly Affects Safety: Garrett, a nonresident, works as a freight handler in the Portland terminal of a trucking company. His duties also require him to attend daylong staff meetings at the company's headquarters in Vancouver, Washington each month. Although Garrett has "regularly assigned duties in more than one state," only the duties he performs at the Portland terminal directly affect the safety of a commercial motor vehicle. Garrett does not have "regularly assigned duties in more than one state" that "directly affect" the safety of a commercial motor vehicle. His compensation related to services performed in Oregon is taxable by Oregon.  Example 11 Subsections 1(d) and 2(d), Property and Motor Private Carrier: Roberto, a nonresident, works for a small furniture manufacturing company located in Oregon. Roberto drives a commercial motor vehicle, and his employer is licensed with the Secretary of Transportation. His job requires him to drive to various states to buy hardwood for use in building the furniture. Roberto is exempt from Oregon taxation on his wages because he transports a product between states to further a commercial business, and his employer meets the other requirements of a motor private carrier.  Example 12: Subsections 1(d) and 2(d), Property and Motor Private Carrier: Barbara, a nonresident, works as a refrigeration mechanic for a dairy. She drives a large repair vehicle to service her employer's refrigerators at all company locations, including those out of state. Even though Barbara drives outside Oregon to repair equipment, she does not transport property to further a commercial business, and is therefore not exempt from Oregon taxation.  Example 13 Subsection 2(e), Commercial Motor Vehicle: Ken, a nonresident, works as a line repairman for a utility company. He uses a company truck with a gross vehicle weight rating in excess of 10,000 pounds when making service calls in both Oregon and Washington. Ken is not exempt from Oregon taxation because he does not drive a "commercial motor vehicle" (i.e., a motor vehicle used to transport passengers or property).  Example 14 Subsection (2)(e), Commercial Motor Vehicle: Julie, a nonresident, works as a truck driver for a furniture store. She drives a truck with a gross vehicle weight rating in excess of 10,000 pounds to deliver furniture on a regular basis to residents and nonresident customers who make purchases at her employer's stores. Julie is exempt from Oregon taxation because she directly affects the safety of a commercial motor vehicle and works for a motor private carrier transporting property in interstate commerce.  Example 15 Subsections 2(a)(C) and 2(a)(D), Subject to Jurisdiction of the Secretary of Transportation: Connie Sue, a nonresident, works for an interstate motor carrier on a regular basis at her company's Oregon and Washington yards. She has a variety of duties, including helping with the loading of trucks. Her employer pays her overtime because she is properly listed as "non-exempt" (covered) under the provisions of the Fair Labor Standards Act and thus subject to its requirements. Because she is covered under the Fair Labor Standards Act rather than being subject to the jurisdiction of the Secretary of Transportation, Connie Sue does not meet the requirements for the Amtrak exclusion.  Example 16 Subsection 2(g), Driver Leasing Companies: Larry, a nonresident, is employed by JobProviders, a temporary employment agency. Larry has a commercial driver's license, drives a commercial motor vehicle between states on a regular basis, and is leased by his company exclusively to WeMoveU, a motor carrier properly licensed with the Secretary of Transportation. Larry is under the direction and control of WeMoveU at all times, though he receives his paycheck from JobProviders. Larry is exempt from Oregon taxation. Though he may be considered an employee of JobProviders for other federal tax purposes, he is considered an employee of WeMoveU, a motor carrier, for Amtrak Act purposes.  Example 17 Subsection 2(g), Driver Leasing Companies: Randy, a nonresident, is employed by MechanicalGenius, an Oregon employer, as a truck mechanic. MechanicalGenius leases his services exclusively to OnTheRoad, an interstate motor carrier. Twice per month, Randy must travel to Washington to perform inspections and repairs of OnTheRoad's trucks. Randy is under the direction and control of his supervisor at MechanicalGenius. Even though Randy travels on a regular basis between two states, only repairs on OnTheRoad's trucks, and has a direct effect on the safety of OnTheRoad's commercial motor vehicles, he is subject to Oregon taxation. Randy is considered an employee of MechanicalGenius, which is not a motor carrier, motor private carrier, or other employer subject to the jurisdiction of the Secretary of Transportation.  (4) Changes in exempt status. The determination of whether an employee is exempt under these provisions is generally made for each portion of the year an employee performs a given set of specific job duties.  (a) If an employee does not change job duties during the year and meets the requirements of this section for the taxable year, the individual's compensation is exempt from Oregon taxation for the entire tax year.  (b) If an employee changes job duties during the taxable year, each change in job duties must be considered separately to determine whether the compensation received for that particular set of job duties is exempt from Oregon taxation.  Example 18: Rob, a nonresident, worked through June 30, as a mechanic for an Oregon trucking firm. All of his job duties were performed at the company's Portland terminal. On July 1, Rob began a new job for the same company as a commercial interstate truck driver. Rob's compensation as a mechanic is not exempt from Oregon taxation, because he did not have regularly assigned duties in two states. For that portion of the year when Rob's duties were performed as a commercial interstate truck driver, his compensation as a truck driver is exempt from Oregon taxation if he meets all other requirements.  Example 19: Ivan, a nonresident, works as a driver for an interstate trucking company. From January 1 through June 30, his regular route is entirely within Oregon. On July 1, Ivan is assigned to a route from Seattle to Spokane that will last for two years. Neither his job duties during the first part of the year nor the last part of the year required him to drive between states. Because Ivan drove only intra-state during each portion of the year, his compensation earned on the Oregon route is not exempt from Oregon taxation. His compensation earned on the Washington route is not taxable by Oregon because it was earned by a nonresident employee for services provided outside Oregon.  (5) Rail carrier employees. Federal Public Law (P.L.) 101-322, the Amtrak Reauthorization and Improvement Act of 1990, and Public Law 104-88, the ICC Termination Act of 1995, provide that no part of the compensation paid by a rail carrier to a nonresident who performs regularly assigned duties on a railroad in more than one state is subject to Oregon income tax (see 49 USC §11502). For purposes of this subsection, the following definitions apply:  (a) "Rail carrier" means a person providing a common carrier railroad transportation for compensation.  (b) "Railroad" includes:  (A) A bridge, car float, lighter, and ferry used by or in connection with a railroad;  (B) The road used by a rail carrier and owned by it or operated under an agreement; and  (C) A switch, spur, track, terminal, terminal facility, and a freight depot, yard, and ground, used or necessary for transportation.  (6) Air carrier employees: Federal law provides that the pay of a nonresident employee of an air carrier having regularly assigned duties on aircraft in more than one state is subject to Oregon income tax only if the employee earns more than 50 percent of that pay in Oregon (see 49 USC §40116). The employee is deemed to earn 50 percent or more of the pay in Oregon if, for the calendar year, the employee's scheduled flight time in Oregon is more than 50 percent of the employee's total scheduled flight time. For purposes of this subsection, the following definitions apply:  (a) "Air carrier" means a citizen of the United States, as defined in 49 USC §40102, undertaking by any means, directly or indirectly, to provide air transportation.  (b) "Air transportation" means the interstate or foreign transportation of passengers or property by aircraft as a common carrier for compensation, or the interstate or foreign transportation of mail by aircraft.  Example 20: Jean, a nonresident, works as a pilot for an Oregon-based corporation. Jean transports the corporation's executives to various job locations in the United States. Jean is not exempt from Oregon tax, as she is not employed by an "air carrier" that provides "air transportation." Her wages are subject to Oregon tax to the extent services are performed in Oregon.  Example 21: James, a nonresident, is employed by an air carrier as an office manager. Each calendar year, he works as a substitute pilot outside of Oregon in order to log the minimum amount of flight time required to retain his license. James does not qualify as exempt from Oregon income tax because his "regularly assigned duties" are not on an aircraft, but as a manager in an office.  (7) Substantiation. To claim exemption from income under Federal Public Law (P.L.) 101-322, the Amtrak Reauthorization and Improvement Act of 1990, or Public Law 104-88, the ICC Termination Act of 1995, (49 USC §14503), a taxpayer must maintain records that adequately establish that the taxpayer qualifies for the income exemption.  Example 22: Jason, a nonresident, works for a motor carrier as a Vice President. His typical duties are to travel behind the company’s truck drivers to ensure that the drivers follow Department of Transportation (DOT) laws, federal and state safety laws, and company policy. He does random checks of the trucks as the drivers take breaks to ensure the trucks are safe and the drivers are following all applicable federal and state laws. Occasionally, he is required to deliver a truckload himself when the company is short of drivers. He claims the Amtrak deduction on his Oregon nonresident return. He kept no record of his duties that show he has regularly assigned duties in more than one state or that his duties directly affect the safety of a motor vehicle. Because he cannot provide any documentation that he qualifies for the income exemption, his deduction is not allowed.  Example 23: Assume the same facts as in Example 22 except that Jason provides a copy of his Commercial Driver’s license, his Department of Transportation (DOT) log books, and verification from the destination that he is in more than one state performing duties. He provides his job description that shows he is required to spot-check whether trucks are safely on the road. He also provides copies of reports that show he has written up employees for failure to comply with safety standards. He has adequately established that he directly affects the safety of commercial motor vehicles. Thus, the exemption from income is allowed.  Example 24: Peter, a nonresident, works for a motor private carrier as a long-haul truck driver. He claims the Amtrak deduction on his Oregon nonresident return. He does not provide any driving logs or documentation to establish that he drives a commercial vehicle in more than one state. Because he does not provide any documentation to establish that he qualifies for the Amtrak deduction, the deduction he claimed is not allowed.  Example 25: Same facts as Example 24 except that Peter provides copies of his Department of Transportation log books, a copy of his bid shift from his employer, as well as receipts that show he is in more than one state at various truck stops while he is on the road. Peter provides enough information to establish he qualifies for income exemption, thus the exemption from income is allowed. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 & 314.815 
+ 
+ 
+ Statutes/Other Implemented:  ORS 316.127 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 150-316.127-(E), REV 62-2016, f. 8-15-16, cert. ef. 9-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ REV 11-2007, f. 12-28-07, cert. ef. 1-1-08 
+REV 8-2001, f. & cert. ef. 12-31-01 
+REV 5-2000, f. & cert. ef. 8-3-00 
+REV 7-1998, f. 11-13-98, cert. ef. 12-31-98 
+RD 6-1996, f. 12-23-96, cert. ef. 12-31-96 
+12-31-93
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Public Utility Commission 
+ Chapter 860 
+ 
+ 
+ 
+ 
+ 
+ Division 88 COMMUNITY SOLAR PROGRAM RULES 
+ 860-088-0170 
+ Bill Crediting 
+ 
+ (1) For purposes of this rule:  (a) “Bill credit rate” is an amount used to calculate a participant’s monthly bill credit. Unless otherwise determined by Commission order, the bill credit rate for a project will be based on the resource value of solar applicable to that project at the time of pre-certification and will apply for a term no less than the term of any power purchase agreement entered into pursuant to OAR 860-088-0140(1)(a).  (b) “Carry-over generation” means the kilowatt-hours of a participant’s proportional share of project generation in a monthly billing period that exceeds the participant’s energy usage during that monthly billing period.  (c) “Differential credit” means the difference between the retail rate multiplied by the participant’s eligible generation, and the bill credit rate multiplied by the payable generation. (Retail rate x participant’s eligible generation) – (bill credit rate x participant’s eligible generation).  (d) “Eligible generation” means the kilowatt-hours of project generation for which a participant may receive a monthly bill credit. In a monthly billing period, this eligible generation is the portion of the participant’s proportional share of project generation that is equal to or less than the participant’s energy usage during the period in which the generation occurred.  (e) “Energy usage” means a participant’s volumetric energy consumption as reflected on the participant’s electricity bill.  (f) “Excess generation” means the portion of a participant’s proportional share of project generation that exceeds the participant’s energy usage in a monthly billing period.  (2) A participant’s monthly bill credit is calculated by:  (a) Multiplying the participant’s eligible generation for the monthly billing period by the bill credit rate; and  (b) Adjusting this amount to account for:  (A) Eligible carry-over generation, which is the portion of the participant’s accrued carry-over generation that when added to participant’s eligible generation does not exceed the participant’s energy usage for the monthly billing period; and  (B) Accrued differential credit, which is value that accrues to the participant when the bill credit rate exceeds the volumetric retail rate.  (3) The monthly bill credit provided to a participant may not exceed the participant’s total volumetric charges for the monthly billing period. The portion of a participant’s differential credit that exceeds the participant’s total monthly volumetric charges may be accrued and used to adjust the participant’s monthly bill credit in future billing periods.  (4) A participant’s excess generation at the end of the annual billing cycle must be donated to the low-income programs of the electric company serving the participant. Unless the electric company and the Project Manager agree otherwise, the annual billing cycle begins on the first day of the April billing month and ends at the close of the March billing month. If the electric company and the Project Manager agree to an alternative billing cycle, the electric company must inform the Program Administrator in writing of the alternative billing cycle within 30 calendar days of the participant’s execution of a contract with the Project Manager. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  OL 2016, ch. 28 & sec. 22 
+ 
+ 
+ Statutes/Other Implemented:  OL 2016, ch. 28 & sec. 22 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 6-2017, f & cert. ef. 6-30-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,264 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 49 WASTEWATER SYSTEM OPERATOR CERTIFICATION 
+ 340-049-0010 
+ Definitions
+ 
+ 
+ As used in these regulations unless otherwise required by context: 
+
+ (1) "Average Dry Weather Flow" (ADWF) means the design average dry weather flow capacity of the wastewater treatment system in gallons per day or Million Gallons per Day (MGD), as approved by the Department. 
+
+ (2) "Certified" means an individual holds a valid operator certificate for wastewater treatment system or wastewater collection system operation issued by the State of Oregon, Department of Environmental Quality. 
+
+ (3) "Commission" means the Environmental Quality Commission. 
+
+ (4) "Continuing Education Unit (CEU)" means a nationally recognized unit of measurement for assigning credit for accredited education or training that provides the participant with advanced or post high school learning. One CEU equals 10 contact hours of participation in an organized continuing education experience under responsible sponsorship, capable direction and qualified instruction. 
+
+ (5) "Contract Operations" means the wastewater system owner has a written contract with another wastewater system owner, an operations services company, or a certified operator for supervising the operation of its wastewater treatment system or wastewater collection system. 
+
+ (6) "Department" means the Department of Environmental Quality. 
+
+ (7) "Director" means the Director of the Department of Environmental Quality or any official designee of the Director. 
+
+ (8) “Full-time” in regards to the Designated Supervisory Operator requirement (340-049-0015(1) and (3) means at least 30 hours per week if employed by system owner or city, and if under contract supervision, it will be determined by the contract signers (Designated  Supervisory Operator(s) and owner/authorized representative). 
+
+ (9) "Industrial Waste" means liquid wastes from an industrial or commercial process discharged into a wastewater system for conveyance and treatment. 
+
+ (10) "NPDES Permit" means a waste discharge permit issued in accordance with requirements and procedures of the National Pollutant Discharge Elimination System authorized by Section 402 of the Federal Clean Water Act and OAR 340, division 45. 
+
+ (11) "Operating Experience" means the routine performance of duties, tasks and responsibilities at a wastewater treatment system or wastewater collection system, or in a related field as allowed under OAR 340-049-0030(5), that affect wastewater system performance or effluent quality. 
+
+ (12) "Operator" or "Wastewater System Operator" means any person engaged in the routine on site performance of duties, tasks and responsibilities in the operation of a wastewater treatment system or a wastewater collection system. This term does not include officials, managers, and engineers, directors of public works or equivalent whose duties do not include the actual "hands-on" operation or supervision on site of wastewater system facilities or operators. 
+
+ (13) “Oral Examination” means an examination administered by the Department where the applicant provides verbal answers to the written examination for the type and grade of certification the applicant is seeking. 
+
+ (14) “Part-time” in regards to the Designated Supervisory Operator requirement ( 340-049-0015 (1) and (3) means less than 30 hours per week if employed by system owner or city, and if under contract supervision, it will be determined by the contract signers (Designated  Supervisory Operator(s) and owner/authorized representative). 
+
+ (15) "Population" means the design population of the wastewater system represented as the number of people or the population equivalent the system is designed to serve. Equivalent population ordinarily is determined based on 70 gallons per person per day average dry weather flow (ADWF) or 0.17 lbs. BOD5 per person per day, whichever is greater. 
+
+ (16) "Provisional Certificate" means a temporary and conditional certificate issued by the Department to a person meeting the requirements in OAR 340-049-0030(2)(a) or (3)(a). 
+
+ (17) "Post High School Education" means relevant continuing professional, technical or academic education acquired through accredited programs such as short schools, correspondence or distance learning courses, armed services training, trade schools, community colleges, colleges, universities, formalized workshops, or seminars for which a CEU, community college or college credit, or the equivalent is earned and acceptable to the Department. Each year of relevant post high school education is equal to 45 CEUs, or 30 semester or 45 quarter hours of community college, college or university credit. 
+
+ (18) "Shift Supervisor" means the operator delegated authority by the system owner for executing the specific practice and procedures for operating the wastewater treatment system or wastewater collection system when the system is operated on more than one daily shift. 
+
+ (19) "Supervise" means to have full and active responsibility for the daily on site technical operation of a wastewater treatment system or wastewater collection system. 
+
+ (20) "Supervisor" means the operator delegated authority by the system owner for establishing and executing the specific practice and procedures for operating the wastewater treatment system or wastewater collection system in accordance with the policies of the owner of the system and any permit requirements. 
+
+ (21) "Wastewater" or "sewage" means the water-carried human or animal waste from residences, buildings, industrial establishments or other places, together with such groundwater infiltration and surface water as may be present. The admixture of domestic and industrial waste or other by-products, such as sludge, is also considered wastewater or sewage. 
+
+ (22) "Wastewater Treatment System" or "Sewage Treatment System" means any structure, equipment or process for treating and disposing of, or recycling or reusing wastewater and sludge (including industrial waste) that is discharged to the wastewater system. 
+
+ (23) "Wastewater Collection System" or "Sewage Collection System" means the trunks, arterials, pumps, pump/lift stations, piping and other appurtenances necessary to collect and carry away wastewater or other liquid waste treatable in a community or private wastewater treatment facility. 
+
+ (24) "Wastewater System" means "Sewage Treatment Works" defined in ORS 448.405 as any structure, equipment or process required to collect, carry away and treat domestic waste and dispose of sewage as defined in ORS 454.010. Typically, components of a wastewater system include a wastewater collection system and a wastewater treatment system. 
+
+ (25) "WPCF Permit" means a Water Pollution Control Facilities permit to construct and operate a collection, treatment and/or disposal system with no discharge to navigable waters. A WPCF permit is issued by the Department in accordance with the procedures of OAR 340, divisions 45 and 71. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 448.410, 468.020 & 468B.030 
+ 
+ 
+ Statutes/Other Implemented:  ORS 448.405 - 448.430, 448.992, 468B.010 - 468B.020 & 468B.030 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 19-2024, amend filed 11/22/2024, effective 01/01/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 2-2013, f. 1-28-13, cert. ef. 3-1-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 15-2002, f. & cert. ef. 10-16-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 23-1988, f. & cert. ef. 9-15-88 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 4-1988(Temp), f. & cert. ef. 1-29-88 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

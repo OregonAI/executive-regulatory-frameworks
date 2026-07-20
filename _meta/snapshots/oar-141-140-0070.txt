@@ -1,0 +1,212 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of State Lands 
+ Chapter 141 
+ 
+ 
+ 
+ 
+ 
+ Division 140 RULES GOVERNING THE PLACEMENT OF OCEAN ENERGY CONVERSION DEVICES ON, IN OR OVER STATE-OWNED LAND WITHIN THE TERRITORIAL SEA 
+ 141-140-0070 
+ Compensation
+ 
+ 
+ (1) The holder of a temporary use authorization to conduct a research project or demonstration project shall annually remit to the Department a payment in the greater amount of $500 or $5.00 per acre of land within the authorized area. This annual payment shall be due to the Department until such time that the: 
+
+ (a) Research project or demonstration project is completed and the ocean renewable energy facility is removed from the authorized area pursuant to the terms and conditions of the temporary use authorization and these rules; 
+
+ (b) The temporary use authorization expires or is terminated by either the holder of the authorization or the Department and the ocean renewable energy facility is removed pursuant to the terms and conditions of the temporary use authorization and these rules; or 
+
+ (c) Placement of an ocean renewable energy facility for commercial operation is authorized by an ocean renewable energy facility lease issued by the Department. 
+
+ (2) The amount of annual compensation owed to the Department for an ocean renewable energy facility lease shall be the greater amount of $500 or the sum of:   
+
+ (a) $3.00 per acre of land within the authorized area per year, and; 
+
+ (b) Operating fees as calculated in subsection (3). 
+
+ (3) The operating fees are determined by the following formula: 
+
+ F = M * H * c * P * r, where: 
+
+ (a) F is the dollar amount of the annual operating fee; 
+
+ (b) M is the nameplate capacity expressed in megawatts; 
+
+ (c) H is the number of hours in a year, equal to 8,760, used to calculate an annual payment; 
+
+ (d) c is the “capacity factor” representing the anticipated efficiency of the facility’s operation expressed as a decimal between zero and one; 
+
+ (e) P is a measure of the annual average wholesale electric power price expressed in dollars per megawatt hour, as discussed below; and 
+
+ (f) r is the operating fee rate expressed as a decimal between zero and one.  Unless the Director specifies otherwise, the operating fee rate (r) is 0.02. The Director may use discretion to set a different operating fee rate. For example, a reduced rate may be established for new, smaller project. Conversely, an increased rate may be established for a larger, mature project. 
+
+ (4) Compensation is not owed to the Department for electricity generated when an ocean renewable energy facility is connected to the regional power grid for testing purposes during a demonstration project if the holder of the temporary use authorization does not receive any revenue from the sale of that electricity. However, if the holder of the temporary use authorization does receive revenue from the sale of that electricity, the electricity produced shall be subject to payment of compensation at a rate to be determined by the Director. 
+
+ (5) Data concerning the amount of generation will be recorded and reported by the holder to the Department on a basis to be determined by the Department. 
+
+   
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 183, ORS 274.870-879, ORS 273 & ORS 274 
+ 
+ 
+ Statutes/Other Implemented:  ORS 274.870-879 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DSL 5-2017, amend filed 12/28/2017, effective 01/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DSL 5-2007, f. 10-12-07, cert. ef. 12-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

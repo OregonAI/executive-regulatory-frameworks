@@ -1,0 +1,334 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Workers' Compensation Division - Chapter 436 
+ 
+ 
+ 
+ 
+ Division 50 EMPLOYER/INSURER COVERAGE RESPONSIBILITY 
+ 436-050-0180 
+ Determination of Amount of Self-Insured Employer’s Deposit; Effective Date of Order to Increase Deposit
+ 
+ 
+ (1) Minimum security deposit. Except for self-insured cities, counties, school districts, or qualified self-insured employer groups that are exempt under ORS 656.407(3) and OAR 436-050-0185, each self-insured employer is required to maintain a security deposit with the director in an amount determined by the director, subject to the following: 
+
+ (a) The deposit will not be less than the greater of: 
+
+ (A) $100,000; 
+
+ (B) Future claim liability, including losses incurred but not reported (IBNR), a claims processing administrative cost, and the anticipated assessments payable to the director for the employer’s next fiscal year; or 
+
+ (C) The annual incurred losses for the self-insured employer’s last fiscal year, including IBNR, a claims processing administrative cost, and anticipated assessments payable to the director for the employer’s next fiscal year; 
+
+ (b) If the employer is applying for self-insurance, the amount of the initial deposit will not be less than the greater of: 
+
+ (A) The anticipated assessments payable to the director for the employer’s next fiscal year, plus an amount equal to 65 percent of the annual premium the employer would pay if carrier-insured using the applicable occupational base rate premium, as such rate is applied to the anticipated payroll of the employer’s Oregon operations for the employer’s next fiscal year; 
+
+ (B) $300,000 plus $30,000 additional for each $100,000 the employer’s net worth is below $2 million; or 
+
+ (C) The amount of the approved self-insured retention level for the employer’s excess workers’ compensation insurance; 
+
+ (c) Assessments payable to the director referred to in this section include moneys and assessments due under ORS 656.506, 656.612, and 656.614; 
+
+ (d) Claims processing administrative costs will be determined by developing a percentage rate to be applied against the employer’s unpaid losses; 
+
+ (A) The rate will be based on the information contained in Schedule P, Part ID (Workers’ Compensation) of the Annual Statement for the previous calendar year as reported to the Insurance Commissioner by SAIF Corporation and the 20 private insurers who had the highest earned premium reported for the preceding calendar year; and 
+
+ (B) The rate will be computed annually to be effective for the subsequent fiscal year. The rate will be 105 percent of the median of ratios determined as follows for each of these insurers: 
+
+ (i) “ Loss expenses unpaid” for losses incurred in the latest eight years, divided by 
+
+ (ii) “Losses unpaid” for losses incurred in the latest eight years; and 
+
+ (e) Under this section, “Incurred but not reported” (IBNR) will be calculated by applying a loss development factor determined by the director against the employer’s incurred losses. 
+
+ (2) Financial strength adjustment. If the self-insured employer received a financial strength rating equal to “moderate” under OAR 436-050-0150(5) or OAR 436-050-0260(12), the amount of the deposit determined under section (1) will be increased by the following percentage factors: 
+
+ (a) 12 total combined points = no change in calculated deposit; 
+
+ (b) 11 total combined points = no change in calculated deposit; 
+
+ (c) 10 total combined points = 5%; 
+
+ (d) 9 total combined points = 10%; 
+
+ (e) 8 total combined points = 15%; or 
+
+ (f) 7 total combined points = 20%. 
+
+ (3) Certified actuarial study. A self-insured employer may request for its security deposit amount to be determined based on a recommended loss reserve level established by a certified actuarial study in place of the calculations under sections (1) and (2) of this rule. The director may base a self-insured employer’s security deposit amount on a certified actuarial study under the following conditions: 
+
+ (a) The actuarial study must be certified by an actuary who is a member in good standing of the American Academy of Actuaries; 
+
+ (b) The actuarial study must be submitted to the director within seven days after the date of the director’s notice establishing the security deposit amount calculated under sections (1) and (2) of this rule; 
+
+ (c) The actuarial study must include an estimate or range of estimates of future claim liability and state what provisions for adverse claim development are included in these estimates; 
+
+ (d) The actuarial study must identify the confidence levels associated with the recommended loss reserve level or loss reserve range; 
+
+ (e) The actuarial study must include a statement of future claim liability, including the employer’s incurred but not reported (IBNR) losses; 
+
+ (f) Subject to the minimum requirements of ORS 656.407 and this rule, upon the director’s review and acceptance of the study, the amount of the security deposit will be based on: 
+
+ (A) The actuarially sound recommended loss reserve level if a single estimate is provided; or 
+
+ (B) The 75% confidence level estimate, if an actuarially sound loss reserve range is provided; and 
+
+ (g) If there is probable cause to believe the recommended loss reserve level or range is not actuarially sound, the director will determine the security deposit based on the calculations under sections (1) and (2) of this rule. Probable cause includes, but is not limited to: 
+
+ (A) The actuarial study not containing a statement by the actuary that the recommended loss reserve level or range is actuarially sound; 
+
+ (B) The actuarial study containing a disclaimer regarding the actuary’s qualifications or ability to determine the adequacy of the loss reserve level for current or future liabilities; or 
+
+ (C) The recommended loss reserve level or entire recommended loss reserve range being less than the 75 percent confidence level estimate established in the actuarial study. 
+
+ (4) Additional factors for security deposit amount. In determining the amount of the self-insured employer’s security deposit based on the calculations under sections (1) and (2) of this rule, or a certified actuarial study under section (3) of this rule, the director will take the following factors into consideration: 
+
+ (a) The financial ability of the employer to pay compensation and other payments due; 
+
+ (b) The employer’s probable continuity of operation; 
+
+ (c) The employer’s financial viability, as determined by the director under OAR 436-050-0150 or 436-050-0260; 
+
+ (d) Retention and limitation levels of the employer’s excess insurance in relation to the employer’s financial status; 
+
+ (e) Changes in the employer’s business including, but not limited to, mergers or acquisitions, changes in employment level, nature of employment, incurred claims costs, or material growth in self-insured exposure; 
+
+ (f) The balance of the Self-Insured Employer Adjustment Reserve or the Self-Insured Employer Group Adjustment Reserve; and 
+
+ (g) The employer’s credit rating issued by a nationally recognized statistical ratings organization; 
+
+ (5) Time frame for compliance. A self-insured employer must comply with an order of the director to the self-insured employer to increase the amount of its deposit within 30 days of the order. Failure to comply with this rule may result in the assessment of civil penalties, revocation of the employer’s self-insurance certification, or both. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 656.407 & ORS 656.726(4) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 656.407 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 4-2025, amend filed 11/13/2025, effective 01/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 7-2022, amend filed 11/07/2022, effective 01/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 18-2021, amend filed 12/13/2021, effective 01/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 7-2017, amend filed 12/14/2017, effective 01/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 8-2016, f. 12-22-16, cert. ef. 1-1-17 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ WCD 5-2016, f. 11-28-16, cert. ef. 1-1-17 
+WCD 10-2014, f. 8-15-14, cert. ef. 9-15-14 
+WCD 6-2012, f. 10-4-12, cert. ef. 1-1-13 
+WCD 12-2003, f. 12-4-03, cert. ef. 1-1-04 
+WCD 5-2001, f. 6-22-01, cert. ef. 7-1-01 
+WCD 9-1987, f. 12-18-87, cert. ef. 1-1-88 
+WCD 9-1985, f. 12-12-85, cert. ef. 1-1-86 
+WCD 5-1985, f. 12-10-85, cert. ef. 1-1-86, Renumbered from 436-051-0320 
+WCD 7-1983, f. 12-22-83, cert. ef. 12-27-83 
+WCD 4-1982, f. 2-10-82, cert. ef. 2-15-82 
+WCD 3-1980, f. & cert. ef. 4-2-80 
+WCB 3-1976, f. & cert. ef. 6-15-76 
+WCB 2-1976(Temp), f. & cert. ef. 4-12-76 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,443 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Insurance Regulation - Chapter 836 
+ 
+ 
+ 
+ 
+ Division 53 HEALTH BENEFIT PLANS 
+ 836-053-0473 
+ Required Materials for Rate Filing for Individual or Small Employer Health Benefit Plans
+ 
+ 
+ (1) Every insurer that offers a health benefit plan for small employers or an individual health benefit plan must file the information specified in section (2) of this rule when the insurer files with the director a schedule or table of premium rates for approval. 
+
+ (2) A schedule or table of base premium rates filed under section (1) of this rule must include sufficient information and data to allow the director to consider the factors set forth in ORS 743.018(4) and (5). The filing must include all of the following separately set forth and labeled as indicated: 
+
+ (a) A filing description labeled “Filing Description.” The filing description must: 
+
+ (A) Be submitted in the form of a cover letter; 
+
+ (B) Provide a summary of the reasons an insurer is requesting a rate change and the minimum and maximum rate impact to all groups or members affected by the rate change, including the anticipated change in number of enrollees if the proposed premium rate is approved; 
+
+ (C) Explain the rate change in a manner understandable to the average consumer; and 
+
+ (D) Include a description of any significant changes the insurer is making to the following: 
+
+ (i) Rating factor changes; and 
+
+ (ii) Benefit or administration changes. 
+
+ (b) Rate tables and factors labeled “Rate Tables and Factors.” The rate tables and factors must: 
+
+ (A) Include base and geographic average rate tables; 
+
+ (B) Identify factors used by the insurer in developing the rates; 
+
+ (C) Explain how the information is used in the development of rates; 
+
+ (D) Include a table of rating factors reflecting ages of employees and dependents and geographic area. 
+
+ (E) Include rate tier tables if base rates are not provided by rating tier; 
+
+ (F) Indicate whether the rate increases are the same for all policies; 
+
+ (G) Explain how the rate increases apply to different policies; 
+
+ (H) Provide the entire distribution of rate changes and the average of the highest and lowest rates resulting from the application of other rating factors; 
+
+ (I) Within the geographic average rate table, include family type, geographic area and the average of the highest and lowest rates resulting from the application of other rating factors; 
+
+ (J) Within the base rate table, include the base rates for each available plan and sufficient information for determination of rates for each health benefit plan, including but not limited to: 
+
+ (i) Each age bracket; 
+
+ (ii) Each geographic area; 
+
+ (iii) Each rate tier; 
+
+ (iv) Any other variable used to determine rates; and 
+
+ (v) If the rates vary more frequently than annually, separate rates for each effective date of change or sufficient information to permit the determination of the rates and the justification for the variation in the rates. 
+
+ (K) For a grandfathered small group health benefit plan, include the following factors if applied by the insurer: 
+
+ (i) Contribution; 
+
+ (ii) Level of participation; 
+
+ (iii)Family composition; 
+
+ (iv) The level at which enrollees or dependents engage in health promotion, disease prevention or wellness programs; 
+
+ (v) Duration of coverage in force; 
+
+ (vi) Any adjustment to reflect expected claims experience; and 
+
+ (vii) Age. 
+
+ (L) For a grandfathered individual health benefit plan, include the following factors to the extent applied by the insurer: 
+
+ (i) Family composition; and 
+
+ (ii) Age. 
+
+ (M) For a nongrandfathered health benefit plan, include the following factors if applied by the insurer: 
+
+ (i) Tobacco usage; and 
+
+ (ii) The level at which enrollees or dependents engage in health promotion, disease prevention, or wellness programs. 
+
+ (c) An actuarial memorandum consistent with the requirements of both state and federal law labeled “Actuarial Memorandum.” The actuarial memorandum must include all of the following: 
+
+ (A) A description of the benefit plan and a quantification of any changes to the benefit plan as set forth in subsection (e) of this section; 
+
+ (B) A discussion of assumptions, factors, calculations, rate tables and any other information pertinent to the proposed rate, including an explanation of the impact of risk corridors, risk adjustment and state and federal reinsurance on the proposed rate; 
+
+ (C) A description of any changes in rating methodology supported by sufficient detail to permit the department to evaluate the effect on rates and the rationale for the change; 
+
+ (D) The range of rate impact to groups or members including the distribution of the impact on members; 
+
+ (E) A cross-reference of all supporting documentation in the filing in the form of an index and citations; 
+
+ (F) The dated signature of the qualified actuary or actuaries who reviewed and authorized the rate filing; and 
+
+ (G) The contact information of the filer. 
+
+ (d) A description of the development of the proposed rate change or base rate that is included as an exhibit to the filing and labeled “Exhibit 1: Development of Rate Change.” The development of rate change is the core of the rate filing and must: 
+
+ (A) Explain how the proposed rate or rate change was calculated using generally accepted actuarial rating principles for rating blocks of business; 
+
+ (B) Include actual or expected membership information; 
+
+ (C) Identify a proposed loss ratio for the rating period; 
+
+ (D) Include a rate renewal calculation that: 
+
+ (i) Begins with an assumed experience period of at least one year and ends within the immediately preceding year; or 
+
+ (ii) If more recent data is available, uses the one-year period that ends with the most recent period for which data is available. 
+
+ (E) Show adjustments to total premium earned during the experience period to yield premium adjusted to current rates; 
+
+ (F) Include a projection of premiums and claims for the period during which the proposed rates are to be effective; and 
+
+ (G) Provide a renewal projection using claims underlying the projection that reflect an assumed medical trend rate and other expected changes in claims cost, including but not limited to, the impact of benefit changes or provider reimbursement. 
+
+ (e) A description of changes to covered benefits or health benefit plan design that is included as an exhibit to the rate filing and labeled “Exhibit 2: Covered Benefit or Plan Design Changes.” The covered benefit or plan design changes must: 
+
+ (A) Explain all applicable benefit and administrative changes with a rating impact, including but not limited to: 
+
+ (i) Covered benefit level changes; 
+
+ (ii) Member cost-sharing changes; 
+
+ (iii) Elimination of plans; 
+
+ (iv) Implementation of new plan designs; 
+
+ (v) Provider network changes; 
+
+ (vi) New utilization or prior authorization programs; 
+
+ (vii) Changes to eligibility requirements; and 
+
+ (viii) Changes to exclusions. 
+
+ (B) Show any change in the plan offerings that impacts costs or coverage provided not otherwise provided pursuant to subsection (e)(A) of this section. 
+
+ (f) The average annual rate change included as an exhibit to the filing and labeled “Exhibit 3: Average Annual Rate Change.” The average annual rate change must: 
+
+ (A) Provide the average, maximum and minimum annual rate changes for each effective date in the filing; 
+
+ (B) Include a meaningful distribution of rate changes; and 
+
+ (C) Provide an estimate of contributing factors to the annual rate change. 
+
+ (g) Trend information and projection included as an exhibit to the filing and labeled “Exhibit 4: Trend Information and Projection.” The trend information and projection must: 
+
+ (A) Describe how the assumed future growth of medical claims (the medical trends rate) was developed based on generally accepted actuarial principles; and 
+
+ (B) At a minimum, include historical monthly average claim costs for the two years immediately preceding the period for which the proposed rate is to apply. If the carrier’s structure does not include claims cost, the carrier must submit this information based on allocated costs. 
+
+ (h) A statement of administrative expenses and premium retention included as an exhibit to the filing and labeled “Exhibit 5: Statement of Administrative Expenses and Premium Retention.” The statement of administrative expenses and premium retention must: 
+
+ (A) Include a completed chart displaying the five-year trend of administrative costs and enumerating the insurer’s administrative expenses detailed as follows: 
+
+ (i) Salaries; 
+
+ (ii) Rent; 
+
+ (iii) Advertising; 
+
+ (iv) General office expenses; 
+
+ (v) Third party administration expenses; 
+
+ (vi) Legal and other professional fees; and 
+
+ (vii) Travel and other administrative costs not accounted for under a category in subsections (h)(B)(i)–(vi) of this section. 
+
+ (B) Explain how the insurer allocates administrative expenses for the filed line of business; 
+
+ (C) Include a description of the amount retained by the insurer to cover all of the insurer’s non-claim costs including expected profit or contribution to surplus for a nonprofit entity reported on a percentage of premium and per member per month basis; and 
+
+ (D) Demonstrate the total premium retention for the filing, including total administrative expenses reported under subsection (h)(B) of this section, commissions, taxes, assessments and margin. 
+
+ (i) Plan relativities included as an exhibit to the filing and labeled “Exhibit 6: Plan Relativities.” Plan relativities must: 
+
+ (A) Explain the presentation of rates for each benefit plan; 
+
+ (B) Explain the methodology of how the benefit plan relativities were developed; and 
+
+ (C) Demonstrate the comparison and reasonableness of benefits and costs between plans. 
+
+ (j) Information about the insurer’s financial position included as an appendix to the filing and labeled “Appendix I: Insurer’s Financial Position.” The insurer’s financial position may reference documents filed with the department and available to the public, including the insurer’s annual statement. The insurer’s financial position must include: 
+
+ (A) Information about the insurer’s financial position including but not limited to the insurer’s: 
+
+ (i) Profitability; 
+
+ (ii) Surplus; 
+
+ (iii) Reserves; and 
+
+ (iv) Investment earnings. 
+
+ (B) An analysis, explanation and determination of whether the proposed change in the premium rate is necessary to maintain the insurer’s solvency or to maintain rate stability and prevent excessive rate increases in the future. 
+
+ (k) Changes in the insurer’s health care cost containment and quality improvement efforts included as an appendix to the filing and labeled “Appendix II: Cost Containment and Quality Improvement Efforts. The cost containment and quality improvement efforts must: 
+
+ (A) Explain any changes the insurer has made in its health care cost containment efforts and quality improvement efforts since the insurer’s last rate filing for the same category of health benefit plan; 
+
+ (B) Describe significant new health care cost containment initiatives and quality improvement efforts; 
+
+ (C) Include an estimate of the potential savings from the initiatives and efforts described in subsection (2)(g)(B) of this section together with an estimate of the cost or savings for the projection period; and 
+
+ (D) Include information about whether the cost containment initiatives reduce costs by eliminating waste, improving efficiency, by improving health outcomes through incentives, by elimination or reduction of covered services or reduction in the fees paid to providers for services. 
+
+ (l) Certification of compliance labeled “Certification of Compliance.” The certification of compliance must: 
+
+ (A) Comply with OAR 836-010-0011; and 
+
+ (B) Certify that the filing complies with all applicable Oregon statutes, rules, product standards and filing requirements. 
+
+ (m) Third party filer’s letter of authorization labeled “Third Party Authorization.” If the filing is submitted by a person other than the insurer to which the filing applies, the filing must include a letter from the insurer that authorizes the third party to: 
+
+ (A) Submit the filing to the department; 
+
+ (B) Correspond with the department on matters pertaining to the rate filing; and 
+
+ (C) Act on the insurer’s behalf regarding all matters related to the filing. 
+
+ (3) Insurers offering individual and small group health benefit plans that spend less than 12 percent of total medical expenditures on payments for primary care must include with each health benefit plan rate filing a plan to increase spending on payments for primary care by at least one percentage point each year. Once an insurer has met the 12 percent benchmark for primary care spending, that fact must be disclosed with each health benefit plan rate filing including a disclosure of the current percentage of total medical expenditures on primary care. Insurers shall use the methodology outlined in the annual Primary Care Spending in Oregon report to calculate the percentage of primary care spending. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 743.018, 743.019 & 743.020 
+ 
+ 
+ Statutes/Other Implemented:  ORS 743.018, 743.020, 742.003, 742.005, 742.007, 743.730 & 743.767 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ID 3-2024, amend filed 04/29/2024, effective 05/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ID 2-2019, amend filed 02/26/2019, effective 03/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ID 8-2018, amend filed 04/24/2018, effective 04/24/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ID 1-2018, amend filed 01/30/2018, effective 02/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ID 12-2013, f. 12-31-13, cert. ef. 1-1-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

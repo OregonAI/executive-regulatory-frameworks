@@ -1,0 +1,462 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Justice 
+ Chapter 137 
+ 
+ 
+ 
+ 
+ 
+ Division 55 OREGON CHILD SUPPORT PROGRAM 
+ 137-055-6220 
+ Recovery of Overpayments and Collection of Receivable Accounts
+ 
+ 
+ (1) In addition to the definitions in OAR 137-055-6010, for the purpose of collecting overpayments pursuant to ORS 25.125, the following definitions apply:                
+
+ (a) “Advanced payment” means arrears owed to a person who receives support that were reassigned to the state as reimbursement for funds paid to that person before March 1, 2019, but which they were not entitled to keep. 
+
+ (b) “Receivable” means a non–child support debt owed to the State of Oregon. 
+
+ (c) “Recoupment” means collecting a receivable owed to the State of Oregon by retaining all or a portion of future child support payments. 
+
+ (2) A receivable account is created when: 
+
+ (a) The Department received a payment from an obligor, withholder, or other issuer on behalf of the obligor, transmitted the appropriate amount from that payment to the payee, and that payment is subsequently dishonored; or 
+
+ (b) The Department transmitted an amount to a person or entity authorized to receive child support payments or to an obligor, and that amount: 
+
+ (A) Was transmitted in error; 
+
+ (B) Was attributable in whole or in part to a tax refund offset collection, all or part of which was reclaimed by the Internal Revenue Service or the Oregon Department of Revenue; 
+
+ (C) Was an advanced payment in the Child Support Enforcement Automated System that was converted to the Origin child support system and transferred to the family’s unassigned arrears and created a receivable of equal value; 
+
+ (D) Was previously owed to a person or entity but was redistributed as support owed to the state as the result of an accounting adjustment creating an overpayment in favor of the state; or 
+
+ (E) Was the result of a banking error or a check that was paid twice. 
+
+ (3) For receivable accounts described in subsection (2)(b) of this rule, sections (4) through (12) of this rule apply. For receivable accounts described in subsection (2)(a), sections (13) through (17) of this rule apply. 
+
+ (4) The Department will determine a threshold amount for attempts to recover the receivable account. In determining the threshold, the Department will consider the cost of: 
+
+ (a) Staff time in processing the collection of the receivable account; and 
+
+ (b) An administrative hearing and the average number of cases requesting a hearing. 
+
+ (5)(a) When a notice is first issued under ORS 25.125 to a person or entity described in subsection (2)(b) of this rule, the Department will include a statement that: 
+
+ (A) A recipient who does not agree with the notice may submit a written request for an administrative review, which must be received within 30 days from the date of the notice; and 
+
+ (B)  If repayment does not begin within 90 days of the first notice, the debt may be referred for collection as provided in ORS 293.231. 
+
+ (b) When the person described in (2)(b) is a person who receives support, the notice will include a statement that the debt may be collected through recoupment if the person fails to respond. 
+
+ (6) Recoupment may be used only if authorized as follows:  
+
+ (a) By agreement between the Department and the person who owes the debt for the state to retain a fixed percentage of future child support payments; or 
+
+ (b) By default resulting from the person who owes the debt failing to respond to three notices requesting payment and offering recoupment as a repayment option. Unless a prior recoupment agreement is already in place, the recoupment rate for default is 20% of future child support payments. 
+
+ (c) If a recoupment agreement or default percentage is already in place when a new receivable account is created for the same person, who subsequently fails to respond to three notices requesting payment, the established percentage on the prior receivable account will be used for the new receivable until all receivables are paid or a new agreement is made. 
+
+ (d) A person who owes more than one receivable account may only have one recoupment plan in place at a time. The amount recouped will be applied pro-rata to all of the person’s receivable accounts.    
+
+ (7) If a request for administrative review is submitted after the time allowed, the Department may consider the late request for administrative review if it is apparent that the original decision was incorrect, or the person or entity has good cause for the failure to make the request timely. 
+
+ (8) If the person or entity described in subsection (2)(b) requests an administrative review, the Department will conduct the administrative review within 30 days after receiving the request and notify the requestor of the results of the review. 
+
+ (9) Notice of the results of the administrative review will include a statement that the person or entity described in subsection (2)(b) may object and request an administrative hearing. To be considered timely, a request for administrative hearing must be received in writing by the Department within 30 days of the date the Department mails the Administrative Review Decision for Overpayment. 
+
+ (10) If the person or entity described in subsection (2)(b) files a timely objection and request for hearing, an administrative law judge shall then hear the objection. 
+
+ (a) An order by an administrative law judge is final. 
+
+ (b) The person or entity described in subsection (2)(b) may appeal the decision of an administrative law judge to the circuit court for a hearing de novo. The appeal shall be by a petition for review filed within 60 days after the final hearing order is filed in court. 
+
+ (11) A late request for hearing will be forwarded to the Office of Administrative Hearings for consideration, pursuant to OAR 137-055-2160, only if the receivable has not been referred for collection as provided in ORS 293.231. 
+
+ (12) If a person or entity described in subsection (2)(b) fails to file a written request for administrative review, objection or request for hearing, or if an order setting the overpayment amount is received from an administrative law judge, and the person or entity fails to make payment, the Department may refer the overpayment for collection as provided in ORS 293.231. 
+
+ (13) When a notice is issued under ORS 25.125(5) to an obligor, withholder, or other issuer described in subsection (2)(a), the Department will include a statement that the obligor or withholder must respond within 30 days of the date of the notice and request an administrative review. 
+
+ (14) If the obligor, withholder, or other issuer described in subsection (2)(a) requests an administrative review, the Department will conduct the administrative review within 30 days after receiving the request and notify the obligor or withholder of the results of the review. 
+
+ (15) The obligor, withholder, or other issuer described in subsection (2)(a) may appeal the result of the administrative review as provided in ORS 183.484. 
+
+ (16) If the obligor, withholder, or other issuer described in subsection (2)(a) fails to request an administrative review or if the result of an administrative review is that an overpayment occurred, the Department may refer the overpayment for collection from the obligor or withholder as provided in ORS 293.231. 
+
+ (17) The Department will initially assign all receivable accounts for dishonored payments to the obligor on the case where the payment was made. The receivable account may be reassigned to the person or entity who issued the payment, if appropriate, but may be reassigned back to the obligor at the discretion of the Department. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 25.125, 180.345 & ORS Ch. 293 
+ 
+ 
+ Statutes/Other Implemented:  ORS 25.020 & 25.125 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 12-2021, amend filed 10/07/2021, effective 10/08/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 8-2021, temporary amend filed 04/13/2021, effective 04/15/2021 through 10/11/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 19-2018, amend filed 09/04/2018, effective 09/05/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 15-2015, f. 12-22-15, cert. ef. 1-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 13-2011, f. 12-30-11, cert. ef. 1-3-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 6-2006, f. & cert. ef. 10-2-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 1-2006, f & cert. ef. 1-3-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 9-2005, f. & cert. ef. 10-3-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 16-2004, f. 12-30-04, cert. ef. 1-3-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 10-2004, f. & cert. ef. 7-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 10-2003, f. 9-29-03, cert. ef. 10-1-03, Renumbered from 461-200-6220 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 6-2003(Temp), f. 6-25-03, cert. ef. 7-1-03 thru 12-28-03, Renumbered from 461-200-6220 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 32-2000, f. 11-29-00, cert. ef. 12-1-00, Renumbered from 461-195-0265 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 13-1999, f. 10-29-99, cert. ef. 11-1-99 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 16-1997, f. 9-2-97, cert. ef. 10-1-97 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 3-1992, f. 1-31-92, cert. ef. 2-1-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 66-1989, f. 11-28-89, cert. ef. 12-1-89, Renumbered from 461-035-0045 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 53-1983, f. 10-28-83, ef. 11-1-83 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 23-1983(Temp), f. & ef. 5-18-83 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

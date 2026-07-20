@@ -1,0 +1,297 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 253 OREGON CLEAN FUELS PROGRAM 
+ 340-253-2000 
+ Emergency Deferrals
+ 
+ 
+ (1) Emergency deferral due to a fuel shortage. DEQ will issue an order declaring an emergency deferral: 
+
+ (a) No later than 15 calendar days after the date that DEQ determines that there is a known shortage of fuel or low carbon fuel that is needed for regulated parties to comply with the clean fuel standard and that the magnitude of the shortage of that fuel is greater than the equivalent of five percent of the amount of the fuel forecasted to be available during the effective compliance period. To determine the magnitude of the shortage and that the fuel of which there is a shortage is needed for regulated parties to comply with that year’s standard, DEQ will consider the following: 
+
+ (A) The volume and carbon intensity of the fuel determined to be not available under subsection (1)(a); 
+
+ (B) The estimated duration of the shortage; and 
+
+ (C) Whether there are any options that could mitigate the shortage including but not limited to: 
+
+ (i) The same fuel from other sources; 
+
+ (ii) Substitutes for the affected fuel and the carbon intensities of those substitutes are available; or 
+
+ (iii) Banked clean fuel credits are available. 
+
+ (b) Immediately upon the issuance by the Governor of a proclamation, executive order or directive pursuant to ORS 176.750 to 176.815 declaring an energy emergency due to a shortage of gasoline or diesel. 
+
+ (2) Emergency deferral due to a credit market disruption. Prior to December 31, 2018, DEQ may issue an order declaring an emergency deferral no later than 15 calendar days after the date that DEQ determines that there is a disruption in the credit market. In determining the magnitude of the disruption and its effects, DEQ will consider the following: 
+
+ (a) The root cause and the likely duration of the disruption; 
+
+ (b) The effect of the disruption on retail fuel prices; and 
+
+ (c) The effect to the program of issuing the emergency deferral. 
+
+ (3) Emergency deferral due to abnormal credit market behavior. Beginning January 1, 2019, DEQ may issue an order declaring an emergency deferral no later than two months after DEQ determines through a root cause analysis that there is abnormal behavior in the credit market. DEQ must conduct this analysis if: 
+
+ (a) The volume-weighted moving average price of credits for a consecutive three-month period increased by 100 percent or more over the volume-weighted moving average price of credits for the previous consecutive three-month period; or 
+
+ (b) It otherwise determines that abnormal market behavior exists. 
+
+ (4) In determining the root cause for the increase in credit prices under (3)(a) or the abnormal market behavior under (3)(b) and its effects on the program and regulated parties, DEQ will consider the following: 
+
+ (a) Trends in credit prices for other low carbon fuel standard programs and the US Renewable Fuel Standard; 
+
+ (b) Information on the supply of clean fuels; 
+
+ (c) Information on the demand for clean and regulated fuels in Oregon; 
+
+ (d) The most recent quarterly data on credit and deficit generation in the program; 
+
+ (e) Information submitted through credit transfers, the parties transferring credits, and any information requested by the agency under OAR 340-253-0600 of registered parties conducting transfers; and 
+
+ (f) Any other information on the credit market the agency determines is needed to complete its root cause determination. 
+
+ (5) Registered Parties may continue to generate credits during emergency deferrals. 
+
+ (6) If DEQ determines it should issue an emergency deferral under sections (1) through (3) above in order to implement a remedy necessary to address market stability, the order must include: 
+
+ (a) The duration of the emergency deferral, which may not be less than: 
+
+ (A) One calendar quarter for a method described in (6)(c)(A); or 
+
+ (B) 30 calendar days for a method described in (6)(c)(B), (C) or (D); but 
+
+ (C) An emergency deferral may not continue past the end of the compliance period during which the emergency deferral is issued; 
+
+ (b) The types of fuel to which the emergency deferral applies; and 
+
+ (c) Which of the following methods DEQ has selected for deferring compliance with the clean fuel standard during the emergency deferral: 
+
+ (A) Temporarily adjusting the scheduled applicable clean fuel standard to a standard identified that better reflects the forecast availability of credits during the forecast compliance period and requiring regulated parties to comply with the temporary standard; 
+
+ (B) Allowing for the carryover of deficits accrued during the emergency deferral into one or more future compliance periods without penalty; 
+
+ (C) Suspending deficit accrual during the emergency deferral period or 
+
+ (D) Any other action if DEQ determines that none of the methods described in paragraphs (A) through (C) provide a sufficient mechanism for containing the cost of compliance with the clean fuel standards during the emergency deferral. In making such a determination, DEQ also shall: 
+
+ (i) Include in such order DEQ’s determination and the action to be taken; and 
+
+ (ii) Provide written notification and justification of the determination and the action to: 
+
+ (I) The Governor; 
+
+ (II) The President of the Senate; 
+
+ (III) The Speaker of the House of Representatives; 
+
+ (IV) The majority and minority leaders of the Senate; and 
+
+ (V) The majority and minority leaders of the House of Representatives. 
+
+ (7) Terminating an emergency deferral. 
+
+ (a) The EQC may terminate, by order, an emergency deferral before the expiration date of the forecast deferral if: 
+
+ (A) New information becomes available indicating that the shortage for which the emergency deferral was issued has ended; or 
+
+ (B) The underlying conditions that led to the abnormal market behavior has ended. 
+
+ (b) An EQC order terminating an emergency deferral is effective 15 calendar days after the date that the order declaring the termination is approved by the EQC. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, 468A.266, 468A.268 & 468A.277 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468.020 & ORS 468A.265 through 468A.277 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 199-2018, amend filed 11/16/2018, effective 01/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 27-2017, amend filed 11/17/2017, effective 11/17/2017 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 13-2015, f. 12-10-15, cert. ef. 1-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 3-2015, f. 1-8-15, cert. ef. 2-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

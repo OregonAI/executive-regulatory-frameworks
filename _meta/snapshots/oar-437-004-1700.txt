@@ -1,0 +1,173 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Oregon Occupational Safety and Health Division - Chapter 437 
+ 
+ 
+ 
+ 
+ Division 4 AGRICULTURE 
+ 437-004-1700 
+ Forklifts and Other Powered Industrial Trucks 
+ 
+ (1) General requirements.  (a) This section has safety requirements for the maintenance and use of fork trucks, forklifts, platform lift trucks, motorized hand trucks, and other specialized industrial trucks used in agriculture. These are considered vehicles and additional standards are found in Division 4/U. This does not apply to compressed air or non-flammable compressed gas-operated industrial trucks, nor to agricultural vehicles defined elsewhere in this standard, nor to vehicles intended primarily for earth moving or over-the-road hauling.  (b) Modifications and additions that affect capacity and safe operation must have the manufacturer’s prior written approval. Change the capacity, operation and maintenance instruction plates, tags or decals to reflect any changes to the vehicle.  (c) If the truck has front-end attachments not installed by the factory, the truck markings must identify the attachments and show the approximate weight of the truck and attachment combination at maximum elevation with the load laterally centered.  (d) Keep nameplates and markings in place and legible.  (2) Safety guards.  (a) Overhead guards.  (A) If a lift truck operator could be struck by falling, or stacked objects, the truck must have an overhead guard. The guard must be strong enough to support impact load tests in Table 1:  (B) Guards that pass the test must have a metal tag permanently attached to the canopy where reading it from the ground is easy. This tag must show the impact test load, in foot-pounds to which similar guards have been tested.  NOTE: Guards required by (2)(a)(A) through (C), or by the following rules, do not have to withstand the impact of a capacity load falling from any height.  (C) Untested guards must be made of material in Table 2 or material of equivalent strength or stronger.  (D) The construction of canopy guards built to comply with (C) above presumes four upright members. Guards with less than four upright members must be equally strong.  (i) Canopy type overhead guard frames must have structural rigidity.  (ii) All guard mountings or attaching brackets must provide adequate support to the upright members of the canopy type overhead guard.  (iii) Cantilever overhead guards must be of equivalent strength.  (E) Guards must not interfere with good visibility. Openings in the top must not be more than 6 inches in one of their two dimensions. Guards must be large enough to extend over the operator under all normal circumstances of operation, including forward tilt.  (i) If the mast-tilting mechanism fails, the overhead guard must not injure the operator.  (ii) There must be at least 39 inches of clear vertical space between the operator’s seat when depressed and the underside of the guard. There must be at least 74 inches of clear vertical space between the platform for standing operators and the underside of the guard.  NOTE: Where overall height of truck with forks in lowered position is limited by head room conditions and there is insufficient space for vertical clearance or for the operator to assume a normal driving position, normal overhead guard heights may be reduced, or the overhead guard may be omitted. The height and stability of stacks of piled material, the weight of individual units handled, and the operating space available must provide reasonable safety for the operator if removing the overhead guard is necessary.  (b) Back rest. Lift trucks that handle small objects or loose units must have a vertical load back rest.  (A) It must be strong enough to prevent the load or any part of it from falling toward the operator.  (B) It must not interfere with good visibility.  (C) Size of openings must not be more than 6 inches in one dimension.  (c) Shear point guards. Shear points on forklift loaders and similar type vehicles must have guards.  (3) Fuel handling and storage.  (a) Store and handle liquid fuels according to 4/H, OAR 437-004-0720.  (b) Store and handle liquefied petroleum gas fuel according to 4/H, OAR 437-004-0780.  (4) Changing and charging storage batteries.  (a) Battery chargers must be in areas that are safe for that purpose.  (b) There must be facilities for flushing and neutralizing spilled electrolyte, for fire protection, for protecting charging apparatus from damage and for adequate ventilation.  (c) Use a conveyor, overhead hoist or equivalent material handling equipment to handle large batteries that power electric forklifts.  (d) Use only a carboy tilter or siphon to handle electrolyte.  (e) Pour acid into water not water into acid when servicing batteries.  (f) Set truck brakes before changing or charging batteries.  (g) Vent caps must function and the battery compartment cover(s) must be open to dissipate heat.  (h) There must be no smoking in the charging area.  (i) Prevent open flames, sparks, or electric arcs in battery charging areas.  (j) Keep tools and other metallic objects away from the top of uncovered batteries.  (5) Lighting for operating areas. Where general lighting is too dim, the vehicle must have its own directional lighting.  (6) Dockboards (bridge plates). See 4/D, OAR 437-004-0390(1).  (7) Trucks.  (a) Set the brakes on trucks or chock the rear wheels to prevent them from rolling while they are boarded with powered industrial trucks.  (b) Use nose jacks when necessary to support a semitrailer and prevent a nose dive during the loading or unloading.  (8) Operator training.  (a) Develop and use a training program for operators of powered industrial trucks. The employer or an outside training entity may give the training. It must contain at least the following:  (A) A study and test portion covering at least the rules in this standard, the information provided by the manufacturer for operation of the equipment and any special information dictated by the operating environment.  (B) A behind-the-wheel driving portion, supervised by a person competent in the operation of the particular equipment and familiar with the area and circumstances of its use.  (C) Tailor both parts to the specific type of equipment, the material being handled and the location of its use.  (b) Only fully trained workers may operate powered industrial trucks, except those under direct supervision as part of the behind-the-wheel training program.  (c) Conduct refresher training for drivers annually or when their driving record indicates the need for additional training, whichever is more frequent.  (d) Employers may not consider a new worker trained and qualified based on experience from a previous employer unless the previous experience was on the same type of equipment under substantially the same operating circumstances and the worker had a safe operating record acceptable to the new employer.  (9) Truck operations.  (a) Do not drive a powered industrial truck up to anyone standing in front of a fixed object.  (b) Do not stand or pass under the elevated part of a powered industrial truck.  (c) Only the operator may ride on a powered industrial truck unless it has a second seat or area intended for another rider.  (d) Do not put any part of the body between or reach through the uprights of the mast or outside the running lines of the truck.  (A) Fully lower the forks or platform on an unattended powered industrial truck. Also, neutralize the controls, turn off the power, and set the brakes. Block the wheels if it is on an incline.  (B) Unattended is when the operator is 25 feet or more away but vehicle remains in view or anytime the vehicle is not in view.  (C) When the operator gets off the truck but is within 25 feet and can still see it, the forks or platform must be down, the controls in neutral and the brakes set, unless loading or unloading items to or from the forks or platform.  (f) Keep a safe distance from the edge of ramps or platforms while on an elevated dock, platform or freight car.  (g) Whenever a truck has vertical only, or vertical and horizontal controls that elevate with the lifting carriage or forks for lifting personnel, do the following:  (A) Use a safety platform secured to the lifting carriage and/or forks.  (B) Have a way for people on the platform to shut off power to the truck.  (C) Provide protection from falling objects as necessary by the operating conditions.  (h) When using a forklift to lift people, take the following precautions:  (A) Use a platform with standard guardrails secured to the lifting carriage or forks.  (B) The hydraulic system must not be able to drop faster than 135 feet per minute if any part of the system fails.  (C) Someone must be in the operator’s station while workers are on the platform.  (D) Someone must be in the normal operating position while raising or lowering the platform.  (E) Other than very slow inching, do not move the truck from point-to-point with the platform raised more than 4 feet while workers are on it.  (F) There must be a guard on the area between the platform and the mast to prevent contact with chains or other shear points.  (10) Traveling.  (a) Climb or descend grades slowly.  (A) Drive loaded trucks with the load upgrade if the incline is steep enough to spill the load.  (B) Tilt the load back and raise the forks or platform only as far as necessary to clear the road surface.  (b) Drive only as fast as conditions permit, leaving enough time to stop.  (c) Slow down on wet and slippery surfaces.  (d) Do not run over loose objects.  (11) Loading.  (a) Do not handle loads heavier than the rated capacity of the truck.  (b) Treat trucks with attachments as partially loaded trucks when not handling a load.  (c) The forks or platform must be under the load as far as possible and the mast tilted backward to stabilize the load.  (d) Do not tilt forward with forks or platform elevated except to pick up a load. Do not tilt an elevated load forward except when it is in a deposit position over a rack, chute or stack. When stacking or tiering, use only enough backward tilt to stabilize the load.  (12) Maintenance of powered industrial trucks.  (a) If a powered industrial truck needs repair, take it out of service until repairs are done.  (b) Do not add fuel while the engine is running.  (c) Clean up spilled oil or fuel or allow it to completely evaporate before restarting the engine. Do not use the vehicle without the fuel filler cap in place.  (d) Do not use a flame to check the electrolyte level in batteries or the level in fuel tanks.  (e) Only authorized persons may repair powered industrial trucks.  (f) Disconnect the battery before working on the electrical system.  (g) Use only replacement parts that assure equivalent safety as the originals.  (h) Do not change the relative positions of parts from what they were when the vehicle was made. Do not remove parts except as in (l) below. Do not add counter weighting to fork trucks without approval by the manufacturer.  (i) Check powered industrial trucks daily before using them. Do not use them if any condition is found that adversely affects the vehicle’s safety.  (j) Remove from service any vehicle that gives off hazardous sparks or flames.  (k) Keep powered industrial trucks clean, free of lint, excess oil, and grease. Clean the trucks with noncombustible cleaners. Do not use low flash point (below 100 degrees F.) solvents. Follow the directions on the cleaner’s label.  (l) You may convert powered industrial trucks from gasoline to liquefied petroleum gas fuel if the converted truck complies with the specifications for LP or LPG trucks. Use only approved conversion equipment.  (13) Control of gases and fumes. Take effective measures to keep the concentration levels of carbon monoxide gas created by powered industrial trucks below the levels in 4/Z, OAR 437-004-9000.  (14) ROPS requirements. Rollover protective structures are covered in 4/U, OAR 437-004-3650.  [ED. NOTE: Tables referenced are available from the agency.] 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 654.025(2) & 656.726(4) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 654.001 - 654.295 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSHA 9-2006, f. & cert. ef. 9-22-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OSHA 4-1998, f. 8-28-98, cert. ef. 10-1-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

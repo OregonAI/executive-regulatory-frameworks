@@ -1,0 +1,397 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 61 DRINKING WATER 
+ 333-061-0045 
+ Variances 
+ 
+ (1) Variances from the maximum contaminant levels may be granted by the Authority to public water systems under the following circumstances where:  (a) An evaluation satisfactory to the Authority indicates that alternative sources of water are not reasonably available to the system;  (b) There will be no unreasonable risk to health;  (c) The water supplier has provided sufficient evidence to confirm that the best available treatment techniques which are generally available are unable to treat the water in question so that it meets maximum contaminant levels;  (d) The water supplier agrees to notify the water users at least once every three months, or more frequently if determined by the Authority, that the water system is not in compliance;  (e) A compliance schedule is submitted which outlines how the water supplier intends to achieve compliance, and the water supplier agrees to review this schedule once every three years to determine whether changes have occurred in the conditions which formed the basis for the schedule; and  (f) A plan is submitted which outlines interim control measures including application of the best technology treatment technique to be implemented during the period that the variance is in effect.  (2) The Authority shall document all findings of its determinations and if the Authority prescribes a schedule requiring compliance with a contaminant level for which the variance is granted later than five years from the date of issuance of the variance the Authority shall:  (a) Document the rationale for the extended compliance schedule;  (b) Discuss the rationale for the extended compliance schedule in the required public notice and opportunity for public hearing; and  (c) Provide the shortest practicable time schedule feasible under the circumstances.  (3) Before denying a request for a variance, the Authority shall advise the water supplier of the reasons for the denial and shall give the supplier an opportunity to present additional information. If the additional information is not sufficient to justify granting the variance, the variance shall be denied.  (4) If the Authority determines that the variance should be granted, it shall announce its intention to either hold a public hearing in the affected area prior to granting the variance; or serve notice of intent to grant the variance either personally, or by registered or certified mail to all customers connected to the water system, or by publication in a newspaper in general circulation in the area. If no hearing is requested within 10 days of the date that notice is given, the Authority may grant the variance.  (5) When a variance has been granted, and a water supplier fails to meet the compliance schedule, or fails to implement the interim control measures, or fails to undertake the monitoring required under the conditions of the variance, the Authority may initiate enforcement action authorized by these rules.  (6) Variances from the maximum contaminant levels for volatile organic chemicals, organic chemicals and inorganic chemicals shall be issued by the Authority as follows:  (a) The Authority shall require Community water systems and Non-Transient Non-Community water systems to install or use any treatment method identified in OAR 333-061-0050(4)(b)(B), (E) and (F) as a condition for granting a variance except as provided in subsection (6)(b) of this rule. If, after the system's installation of the treatment method, the system cannot meet the MCL, that system shall be eligible for a variance.  (b) If a system can demonstrate through comprehensive engineering assessments, which may include pilot plant studies, that the treatment methods identified in OAR 333-061-0050(4)(b)(B), (E) and (F) would only achieve an insignificant reduction in contaminants, the Authority may issue a schedule of compliance that requires the system being granted the variance to examine other treatment methods as a condition of obtaining the variance.  (c) If the Authority determines that a treatment method identified in subsection (6)(b) of this rule is technically feasible, the Authority may require the system to install or use that treatment method in connection with a compliance schedule. The Authority's determination shall be based upon studies by the system and other relevant information.  (d) The Authority may require a public water system to use bottled water, point-of-use devices, point-of-entry devices or other means as a condition of granting a variance to avoid an unreasonable risk to health.  (7) The variances from the maximum contaminant level for fluoride shall be granted by the Authority as follows:  (a) The Authority shall require a Community water system to install or use any treatment method identified in OAR 333-061-0050(4)(b)(C) as a condition for granting a variance unless the Authority determines that such treatment method is not available and effective for fluoride control for the system. A treatment method shall not be considered to be "available and effective" for an individual system if the treatment method would not be technically appropriate and technically feasible for that system. If, upon application by a system for a variance, the Authority determines that none of the treatment methods identified in OAR 333-061-0050(4)(b)(C) are available and effective for the system, that system shall be entitled to a variance. The Authority's determination as to the availability and effectiveness of such treatment methods shall be based upon studies by the system and other relevant information. If a system submits information to demonstrate that a treatment method is not available and effective for fluoride control for that system, the Authority shall make a finding whether this information supports a decision that such treatment method is not available and effective for that system before requiring installation or use of such treatment method.  (b) The Authority shall issue a schedule of compliance that may require the system being granted the variance to examine the following treatment methods to determine the probability that any of the following methods will significantly reduce the level of fluoride for that system, and if such probability exists, to determine whether any of these methods are technically feasible and economically reasonable, and that the fluoride reductions obtained will be commensurate with the costs incurred with the installation and use of such treatment methods for that system: Modification of lime softening; Alum coagulation; Electrodialysis; Anion exchange resins; Well field management; Alternate source; or Regionalization.  (c) If the Authority determines that a treatment method identified in subsection (6)(b) of this rule or any other treatment method is technically feasible, economically reasonable, and will achieve fluoride reductions commensurate with the costs incurred with the installation or use of such treatment method for the system, the Authority shall require the system to install or use that treatment method in connection with a compliance schedule. The Authority's determination shall be based upon studies by the system and other relevant information.  (8) Public water systems that use bottled water as a condition for receiving a variance must meet the following requirements.  (a) The public water system must develop and put in place a monitoring program approved by the Authority that provides reasonable assurances that the bottled water meets all MCLs. The public water system must monitor a representative sample of the bottled water for all applicable contaminants under OAR 333-061-0036 the first quarter that it supplies the bottled water to the public, and annually thereafter. Results of the monitoring program shall be provided to the Authority annually.  (b) As an alternative to subsection (7)(a) of this rule, the public water system must receive a certification from the bottled water company that the bottled water supplied has been taken from an "approved source" as defined in 21 CFR 129.3(a); the bottled water company has conducted monitoring in accordance with 21 CFR 129.80(g)(1) through (3); and the bottled water does not exceed any MCLs or quality limits as set out in 21 CFR 103.35, 110, and 129. The public water system shall provide the certification to the Authority the first quarter after it supplies bottled water and annually thereafter.  (c) The public water system is fully responsible for the provision of sufficient quantities of bottled water to every person supplied by the public water system, via door-to-door bottled water delivery.  (9) Public water systems that use point-of-use devices as a condition for obtaining a variance must meet the following requirements:  (a) It is the responsibility of the public water system to operate and maintain the point-of-use treatment system.  (b) The public water system must develop a monitoring plan and obtain Authority approval for the plan before point-of-use devices are installed for compliance. This monitoring plan must provide health protection equivalent to a monitoring plan for central water treatment.  (c) Effective technology must be properly applied under a plan approved by the Authority and the microbiological safety of the water must be maintained.  (d) The water system must submit adequate certification of performance, field testing and, if not included in the certification process, a rigorous engineering design review to the Authority for approval prior to installation.  (e) The design and application of the point-of-use devices must consider the tendency for increase in heterotrophic bacteria concentrations in water treated with activated carbon. It may be necessary to use frequent backwashing, post-contractor disinfection, and Heterotrophic Plate Count monitoring to ensure that the microbiological safety of the water is not compromised.  (f) All consumers shall be protected. Every building connected to the system must have a point-of-use device installed, maintained, and adequately monitored. The Authority must be assured that every building is subject to treatment and monitoring, and that the rights and responsibilities of the public water system customer convey with title upon sale of property.  (10) Public water systems shall not use bottled water to achieve compliance with an MCL. Bottled water or point-of-use devices may be used on a temporary basis to avoid an unreasonable risk to health.  (11) The Authority will not grant a variance or exemption to the requirements of OAR 333-061-0030(3), OAR 333-061-0030(4) or OAR 333-061-0034. Variances to OAR 333-061-0032 will only be granted as provided by section (12) of this rule. The Authority will not grant any variances to the requirements of OAR 333-061-0036 pertaining to the treatment of surface water and groundwater under the direct influence of surface water. No permits will be granted for OAR 333-061-0030(4), 333-061-0032(3)(c) or 333-061-0032(5)(b).  (12) The Authority may grant variances from the standards specified in OAR 333-061-0032(3)(e) through (g) requiring the use of a specified water treatment technique if the Authority determines that the use of a specified water treatment technique is not necessary to protect public health based on the nature of the raw water source for a public water system. A variance granted under this section shall be conditioned on such monitoring and other requirements as the Administrator of the U.S. Environmental Protection Agency or the Director of the Oregon Health Authority may prescribe. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 448.131 
+ 
+ 
+ Statutes/Other Implemented:  ORS 448.115 & 448.135 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 5-2016, f. 2-10-16, cert. ef. 4-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 3-2013, f. & cert. ef. 1-25-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 7-2010, f. & cert. ef. 4-19-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 4-2009, f. & cert. ef. 5-18-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 2-2008, f. & cert. ef. 2-15-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 12-2003, f. & cert. ef. 8-15-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHD 17-2002, f. & cert. ef. 10-25-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 1-1996, f. 1-2-96, cert. ef. 1-5-96 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 3-1994, f. & cert. ef. 1-14-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 12-1992, f. & cert. ef. 12-7-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 1-1992, f. & cert. ef. 3-5-92 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ Reverted to HD 26-1990, f. 12-26-90, cert. ef. 12-29-90 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 9-1991(Temp), f. & cert. ef. 6-24-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 26-1990, f. 12-26-90, cert. ef. 12-29-90 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 9-1989, f. & cert. ef. 11-13-89 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 30-1985, f. & ef. 12-4-85 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 11-1985, f. & ef. 7-2-85 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 333-042-0213, HD 2-1983, f. & ef. 2-23-83 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 4-1982, f. & ef. 2-26-82 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 17-1981(Temp), f. & ef. 8-28-81 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 9-1981(Temp), f. & ef. 6-30-81 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,402 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 116 USE OF RADIONUCLIDES IN THE HEALING ARTS 
+ 333-116-0680 
+ Training for Use of Unsealed Byproduct Material for Which a Written Directive is Required
+ 
+ 
+ Except as provided in OAR 333-116-0740, the licensee must require an authorized user of unsealed byproduct material for the uses authorized under OAR 333-116-0360 to be a physician who: 
+
+ (1) Is certified by a medical specialty board whose certification process has been recognized by the U.S. Nuclear Regulatory Commission or an Agreement State and who meets the requirements in paragraph (2)(b)(F) of this rule. The names of board certifications that have been recognized by the U.S. Nuclear Regulatory Commission or Agreement State are posted on the U.S. Nuclear Regulatory Commission’s Medical Uses License Toolkit webpage at https://www.nrc.gov/materials/miau/med-use-toolkit.html. To be recognized, a specialty board shall require all candidates for certification to: 
+
+ (a) Successfully complete residency training in a radiation therapy or nuclear medicine training program or a program in a related medical specialty. These residency training programs must include 700 hours of training and experience as described in subsection (2)(a) through paragraph (2)(b)(E) of this rule. Eligible training programs must be approved by the Residency Review Committee of the Accreditation Council for Graduate Medical Education, the Royal College of Physicians and Surgeons of Canada, or the Council on Postdoctoral Training of the American Osteopathic Association; and 
+
+ (b) Pass an examination, administered by diplomats of the specialty board, which tests knowledge and competence in radiation safety, radionuclide handling, quality assurance, and clinical use of unsealed byproduct material for which a written directive is required; or 
+
+ (2) Has completed 700 hours of training and experience, including a minimum of 200 hours of classroom and laboratory training in basic radionuclide handling techniques applicable to the medical use of unsealed byproduct material requiring a written directive. The training and experience must include: 
+
+ (a) Classroom and laboratory training in the following areas: 
+
+ (A) Radiation physics and instrumentation; 
+
+ (B) Radiation protection; 
+
+ (C) Mathematics pertaining to the use and measurement of radioactivity; 
+
+ (D) Chemistry of byproduct material for medical use; and 
+
+ (E) Radiation biology; and 
+
+ (b) Work experience, under the supervision of an authorized user who meets the requirements in OAR 333-116-0680, 333-116-0740, or U.S. Nuclear Regulatory Commission or equivalent Agreement State requirements. A supervising authorized user, who meets the requirements in section (2) of this rule, must also have experience in administering dosages in the same dosage category or categories as given in OAR 333-116-0680(2)(b)(F) as the individual requesting authorized user status. The work experience must involve: 
+
+ (A) Ordering, receiving, and unpacking radioactive materials safely and performing the related radiation surveys; 
+
+ (B) Performing quality control procedures on instruments used to determine the activity of dosages, and performing checks for proper operation of survey instruments; 
+
+ (C) Calculating, measuring and safely preparing patient or human research subject dosages; 
+
+ (D) Using administrative controls to prevent a medical event involving the use of unsealed byproduct material; 
+
+ (E) Using procedures to contain spilled byproduct material safely and using proper decontamination procedures; and 
+
+ (F) Administering dosages of radiopharmaceutical drugs to patients or human research subjects in subparagraphs (2)(b)(F)(i) through (iii) within this rule. Radiopharmaceuticals containing radionuclides not listed in subparagraphs (2)(b)(F)(i) through (iii) are regulated under OAR 333-116-0485. This work experience must involve a minimum of three cases in subparagraphs (2)(b)(F)(i) through (iii) within this rule for which the individual is requesting authorized user status. 
+
+ (i) Oral administration of less than or equal to 1.22 Gigabecquerels (33 millicuries) of sodium iodide I-131, for which a written directive is required; 
+
+ (ii) Oral administration of greater than 1.22 Gigabecquerels (33 millicuries) of sodium iodide I-131; 
+
+ 
+ NOTE: Experience with at least three cases in subparagraph (ii) also satisfies the requirement in subparagraph (i). 
+ 
+
+ (iii) Parenteral administration of any of any radiopharmaceutical that contains a radionuclide that is primarily used for its electron emission, beta radiation characteristics, alpha radiation characteristics, or photon energy of less than 150 keV, for which a written directive is required; and 
+
+ (c) Has obtained written attestation that the individual has satisfactorily completed the requirements in section (2) of this rule and is able to independently fulfill the radiation safety related duties as an authorized user for the medical uses authorized by OAR 333-116-0360 for which the individual is requesting authorized user status. The attestation must be obtained from either: 
+
+ (A) A preceptor authorized user who meets the requirements in OAR 333-116-0680, 333-116-0740, or equivalent U.S. Nuclear Regulatory Commission, or Agreement State requirements and has experience in administering dosages in the same dosage category or categories as the individual requesting authorized user status; or 
+
+ (B) A residency program director who affirms in writing that the attestation represents the consensus of the residency program faculty where at least one faculty member is an authorized user who meets the requirements in OAR 333-116-0680, 333-116-0740, equivalent U.S. Nuclear Regulatory Commission, or Agreement State requirements; has experience in administering dosages in the same dosage category or categories as the individual requesting authorized user status, and concurs with the attestation provided by the residency program director. The residency training program must be approved by the Residency Review Committee of the Accreditation Council for Graduate Medical Education or the Royal College of Physicians and Surgeons of Canada or the Council on Postdoctoral Training of the American Osteopathic Association and must include training and experience specified in subsections (2)(a) and (2)(b) of this rule. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 453.635 
+ 
+ 
+ Statutes/Other Implemented:  ORS 453.605 - 453.807 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 3-2023, amend filed 01/17/2023, effective 01/18/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 81-2021, amend filed 11/19/2021, effective 11/23/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 66-2018, minor correction filed 02/01/2018, effective 02/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 19-2015, f. 9-30-15, cert. ef. 10-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 24-2014, f. & cert. ef. 8-15-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 14-2013, f. 12-26-13, cert. ef. 1-1-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 4-2013, f. & cert. ef. 1-29-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 10-2011, f. 9-30-11, cert. ef. 10-1-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 14-2008, f. & cert. ef. 9-15-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 4-2007, f. & cert. ef. 3-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 12-2006, f. & cert. ef. 6-16-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 5-2005, f. & cert. ef. 4-11-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 36-2004, f. & cert. ef. 12-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 31-2004(Temp), f. & cert. ef. 10-8-04 thru 4-5-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 3-2003, f. & cert. ef. 3-27-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 1-1991, f. & cert. ef. 1-8-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

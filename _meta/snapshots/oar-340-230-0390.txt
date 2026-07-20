@@ -1,0 +1,369 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 230 INCINERATOR REGULATIONS 
+ 340-230-0390 
+ Municipal Waste Combustors, Small Municipal Waste Combustion Unit: Recordkeeping
+ 
+ 
+ (1) The owner or operator must keep records of the following: 
+
+ (a) Operator training and certification; 
+
+ (b) Stack tests; 
+
+ (c) Continuously monitored pollutants and parameters; 
+
+ (d) Carbon feed rate. 
+
+ (2) Records retention. The owner or operator must retain the required records as follows: 
+
+ (a) All records must be onsite in paper copy or electronic format unless the Department approves another format; 
+
+ (b) Retain all records on each municipal waste combustion unit for at least 5 years; 
+
+ (c) Make all records available for submittal to the Department, or for onsite review by an inspector. 
+
+ (3) Operator training/certification records. The owner or operator must retain the following records: 
+
+ (a) Records of provisional certifications. Include three items: 
+
+ (A) For the municipal waste combustion plant, names of the chief facility operator, shift supervisors, and control room operators who are provisionally certified by the American Society of Mechanical Engineers or an equivalent State-approved certification program. 
+
+ (B) Dates of the initial provisional certifications. 
+
+ (C) Documentation showing current provisional certifications. 
+
+ (b) Records of full certifications. Include three items: 
+
+ (A) For the municipal waste combustion plant, names of the chief facility operator, shift supervisors, and control room operators who are fully certified by the American Society of Mechanical Engineers or an equivalent State-approved certification program. 
+
+ (B) Dates of initial and renewal full certifications. 
+
+ (C) Documentation showing current full certifications. 
+
+ (c) Records showing completion of the operator training course. Include three items: 
+
+ (A) For the municipal waste combustion plant, names of the chief facility operator, shift supervisors, and control room operators who have completed the EPA or State municipal waste combustion operator training course. 
+
+ (B) Dates of completion of the operator training course. 
+
+ (C) Documentation showing completion of operator training course. 
+
+ (d) Records of reviews for plant-specific operating manuals. Include three items: 
+
+ (A) Names of persons who have reviewed the operating manual. 
+
+ (B) Date of the initial review. 
+
+ (C) Dates of subsequent annual reviews. 
+
+ (e) Records of when a certified operator is temporarily offsite. Include two main items: 
+
+ (A) If the certified chief facility operator and certified shift supervisor are offsite for more than 12 hours, but for 2 weeks or less, and no other certified operator is onsite, record the dates that the certified chief facility operator and certified shift supervisor were offsite. 
+
+ (B) When all certified chief facility operators and certified shift supervisors are offsite for more than 2 weeks and no other certified operator is onsite, keep records of four items: 
+
+ (i) The notice that all certified persons are offsite. 
+
+ (ii) The conditions that cause those people to be offsite. 
+
+ (iii) The corrective actions being taken to ensure a certified chief facility operator or certified shift supervisor is onsite. 
+
+ (iv) Copies of the written reports submitted every 4 weeks that summarize the actions taken to ensure that a certified chief facility operator or certified shift supervisor was onsite. 
+
+ (v) Records of calendar dates. Include the calendar date on each record. 
+
+ (4) Stack test records. The owner or operator must keep stack test records as follows: 
+
+ (a) The results of the stack tests for eight pollutants or parameters recorded in the appropriate units of measure specified in OAR 340-230-0380(1) and (2): Dioxins/furans, cadmium, lead, mercury, opacity, particulate matter, hydrogen chloride, and fugitive ash. 
+
+ (b) Test reports, including supporting calculations that document the results of all stack tests. 
+
+ (c) The maximum demonstrated load of the municipal waste combustion units and maximum temperature at the inlet of the particulate matter control device during all stack tests for dioxins/furans emissions. 
+
+ (d) The calendar date of each record. 
+
+ (5) Continuous Emissions Monitoring System Records Keep records of eight items: 
+
+ (a) Records of monitoring data. The owner or operator must document six parameters measured using continuous monitoring systems as follows: 
+
+ (A) All 6-minute average levels of opacity. 
+
+ (B) All 1-hour average concentrations of sulfur dioxide emissions. 
+
+ (C) For Class I municipal waste combustion units only, all 1-hour average concentrations of nitrogen oxides emissions. 
+
+ (D) All 1-hour average concentrations of carbon monoxide emissions. 
+
+ (E) All 1-hour average load levels of the municipal waste combustion unit. 
+
+ (F) All 1-hour average flue gas temperatures at the inlet of the particulate matter control device. 
+
+ (b) Records of average concentrations and percent reductions. The owner or operator must document five parameters: 
+
+ (A) All 24-hour daily block geometric average concentrations of sulfur dioxide emissions or average percent reductions of sulfur dioxide emissions. 
+
+ (B) For Class I municipal waste combustion units only, all 24-hour daily arithmetic average concentrations of nitrogen oxides emissions. 
+
+ (C) All 4-hour block or 24-hour daily block arithmetic average concentrations of carbon monoxide emissions. 
+
+ (D) All 4-hour block arithmetic average load levels of the municipal waste combustion unit. 
+
+ (E) All 4-hour block arithmetic average flue gas temperatures at the inlet of the particulate matter control device. 
+
+ (c) Records of exceedances. The owner or operator must document three items as follows: 
+
+ (A) Calendar dates whenever any of the five pollutant or parameter levels recorded in subsection (b) of this section or the opacity level recorded in (a)(1) of this section did not meet the emission limits or operating levels specified in this rule. 
+
+ (B) Reasons the applicable emission limits or operating levels were exceeded. 
+
+ (C) Corrective actions undertaken, or are taking, to meet the emission limits or operating levels. 
+
+ (d) Records of minimum data. The owner or operator must document three items as follows: 
+
+ (A) Calendar dates for which the owner or operator did not collect the minimum amount of data required under OAR 340-230-0383(7) and 340-230-0387(5). Record those dates for five types of pollutants and parameters: 
+
+ (i) Sulfur dioxide emissions. 
+
+ (ii) For Class I municipal waste combustion units only, nitrogen oxides emissions. 
+
+ (iii) Carbon monoxide emissions. 
+
+ (iv) Load levels of the municipal waste combustion unit. 
+
+ (v) Temperatures of the flue gases at the inlet of the particulate matter control device. 
+
+ (B) Reasons the minimum data was not collected. 
+
+ (C) Corrective actions the owner or operator took or is taking to obtain the required amount of data. 
+
+ (e) Records of exclusions. The owner or operator must document each time there is excluded data from the calculation of averages for any of the following five pollutants or parameters and the reasons the data were excluded: 
+
+ (A) Sulfur dioxide emissions. 
+
+ (B) For Class I municipal waste combustion units only, nitrogen oxides emissions. 
+
+ (C) Carbon monoxide emissions. 
+
+ (D) Load levels of the municipal waste combustion unit. 
+
+ (E) Temperatures of the flue gases at the inlet of the particulate matter control device. 
+
+ (f) Records of drift and accuracy. The owner or operator must document the results of the daily drift tests and quarterly accuracy determinations according to Procedure 1 of appendix F of 40 CFR Part 60. Keep those records for the sulfur dioxide, nitrogen oxides (Class I municipal waste combustion units only), and carbon monoxide continuous emissions monitoring systems. 
+
+ (g) Records of the relationship between oxygen and carbon dioxide. If the owner or operator chooses to monitor carbon dioxide instead of oxygen as a diluent gas, document the relationship between oxygen and carbon dioxide, as specified in OAR 340-230-0383(6). 
+
+ (h) Records of calendar dates. The owner or operator must include the calendar date on each record. 
+
+ (6) Activated carbon records 
+
+ For municipal waste combustion units that use activated carbon to control dioxins/furans or mercury emissions, the owner or operator must keep records of the following five items: 
+
+ (a) Records of average carbon feed rate as follows. 
+
+ (A) Average carbon feed rate in kilograms (or pounds) per hour during all stack tests for dioxins/furans and mercury emissions. Include supporting calculations in the records. 
+
+ (B) For the operating parameter chosen to monitor carbon feed rate, average operating level during all stack tests for dioxins/furans and mercury emissions. Include supporting data that document the relationship between the operating parameter and the carbon feed rate. 
+
+ (C) All 8-hour block average carbon feed rates in kilograms (or pounds) per hour calculated from the monitored operating parameter. 
+
+ (D) Total carbon purchased and delivered to the municipal waste combustion plant for each calendar quarter. If the owner or operator chooses to evaluate total carbon purchased and delivered on a municipal waste combustion unit basis, record the total carbon purchased and delivered for each individual municipal waste combustion unit at the plant. Include supporting documentation. 
+
+ (E) Required quarterly usage of carbon for the municipal waste combustion plant, calculated using equation 4 or 5 in OAR 340-230-0377(4)(a) and (b). If the owner or operator chooses to evaluate required quarterly usage for carbon on a municipal waste combustion unit basis, record the required quarterly usage for each municipal waste combustion unit at the plant. Include supporting calculations. 
+
+ (b) Records of low carbon feed rates as follows: 
+
+ (A) The calendar dates when the average carbon feed rate over an 8- hour block was less than the average carbon feed rates determined during the most recent stack test for dioxins/furans or mercury emissions (whichever has a higher feed rate). 
+
+ (B) Reasons for the low carbon feed rates. 
+
+ (C) Corrective actions undertaken or are taking to meet the 8-hour average carbon feed rate requirement. 
+
+ (c) Records of minimum carbon feed rate data as follows: 
+
+ (A) Calendar dates for which the owner or operator did not collect the minimum amount of carbon feed rate data required under OAR 340-230-0387(5). 
+
+ (B) Reasons the owner or operator did not collect the minimum data. 
+
+ (C) Corrective actions the owner or operator took or are taking to get the required amount of data. 
+
+ (d) Records of exclusions. Document each time data from the calculation of average carbon feed rates was excluded and the reasons the data were excluded. 
+
+ (e) Records of calendar dates. Include the calendar date on each record. 
+
+ [NOTE: View a PDF of EPA Procedures by clicking on "Tables" link below.] 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468A.025 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 13-2019, amend filed 05/16/2019, effective 05/16/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 4-2003, f. & cert. ef. 2-06-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

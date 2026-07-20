@@ -1,0 +1,343 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 90 RECYCLING AND WASTE REDUCTION 
+ 340-090-0010 
+ Definitions
+ 
+ 
+ The definitions in this rule apply to OAR 340-090-0005 to 0510, and OAR Chapter 340 Division 91. Unless otherwise specified: 
+
+ (1) "Affected person" means a person or entity involved in the solid waste collection service process including but not limited to a recycling collection service, disposal site permittee or owner, city, county and metropolitan service district. For the purposes of these rules "affected person" also means a person involved in operation of a place to which persons not residing on or occupying the property may deliver source separated recyclable material. 
+
+ (2) "Collection service" means a service that provides for collection of solid waste or recyclable material or both, but does not include that part of a business operated under a certificate issued under ORS 822.110. "Collection service" of recyclable materials does not include a place to which persons not residing on or occupying the property may deliver source separated recyclable material. 
+
+ (3) “Collection service customers” includes: residential and commercial customers of a collection service as defined in ORS 459.005, and also, as of July 1, 2026, the multi-family residential and commercial tenants of landlords or property managers that are customers of a collection service for the benefit of their tenants. 
+
+ (4) "Collector" means the person who provides collection service. 
+
+ (5) "Commercial" means stores, offices including but not limited to manufacturing and industry offices, restaurants, warehouses, schools, colleges, universities, hospitals, prisons, and other institutions and non-manufacturing entities. “Commercial” does not include manufacturing activities or business, manufacturing, or processing activities in residential dwellings. 
+
+ (6) “Commingled materials” means materials that: 
+
+ (a) Are collected as part of the rules under 459A.005 and 459A.007 and from receptacles located at residential and/or non-residential sources (generators) that are designated and promoted for the acceptance of commingled materials including at least the materials described in the Recycling Acceptance Lists rules found in either: 
+
+ (i) OAR 340-090-0630(2)(a) through (c) and (e) through (i), or 
+
+ (ii) OAR 340-090-0630(2)(j) through (l); or 
+
+ (b) Contain at least two or more of the materials on the Uniform Statewide Collection List that are mixed together; and 
+
+ (c) Are intended to be properly processed by a commingled recycling processing facility that meets the requirements contained in ORS 459A.905(2)(a). 
+
+ (7) "Composting" means the managed process of controlled biological decomposition of organic or mixed solid waste. It does not include composting for the purposes of soil remediation. Compost is the product resulting from the composting process. “Composting” includes both aerobic composting and anaerobic digestion. 
+
+ (8) "Consumer of newsprint" means a person who uses newsprint in a commercial or government printing or publishing operation. 
+
+ (9) “DEQ” means the Department of Environmental Quality. 
+
+ (10) "Depot" means a place for receiving source separated recyclable material. 
+
+ (11) "Director" means the Director of the Department of Environmental Quality. 
+
+ (12) "Disposal site" means land and facilities used for the disposal, handling or transfer of or energy recovery, material recovery, and recycling from solid wastes, including but not limited to dumps, landfills, sludge lagoons, sludge treatment facilities, disposal sites for septic tank pumping or cesspool cleaning service, transfer stations, energy recovery facilities, incinerators for solid waste delivered by the public or by a collection service, composting plants and land and facilities previously used for solid waste disposal at a land disposal site ; but the term does not include a facility authorized by a permit issued under ORS 466.005 to 466.385 to store, treat or dispose of both a hazardous waste and solid waste; a facility subject to the permit requirements of ORS 468B.050; a site which is used by the owner or person in control of the premises to dispose of soil, rock, concrete or other similar nondecomposable material, unless the site is used by the public either directly or through a collection service; or a site operated by a wrecker issued a certificate under ORS 822.110. 
+
+ (13) “Energy intensive materials” means metals, paper, plastic, and food, including products that are primarily made of metals, paper, or plastic, such as some furniture, small and large appliances, and consumer electronics. 
+
+ (14) "Energy recovery" means recovery in which all or a part of the solid waste materials are processed to use the heat content, or other forms of energy, of or from the material. 
+
+ (15) "EQC" means the Environmental Quality Commission. 
+
+ (16) “Food rescue” means the practice of safely retrieving wholesome food still fit for human consumption that would otherwise be left unharvested or go to animal feed or a composting facility, anaerobic digestion facility, energy recovery facility, or other disposal site and redistributing that food through a food assistance program. 
+
+ (17) “Food waste” means waste from fruits, vegetables, meats, dairy products, fish, shellfish, nuts, seeds, grains, and similar materials that results from the storage, preparation, cooking, handling, selling or serving of food for human consumption. “Food waste” includes but is not limited to excess, spoiled or unusable food and includes inedible parts commonly associated with food preparation such as pits, shells, bones, and peels. “Food waste” does not include dead animals not intended for human consumption or animal excrement. 
+
+ (18) "Franchise" includes a franchise, certificate, contract or license issued by a local government unit authorizing a person to provide solid waste management services. 
+
+ (19) "Generator" means a person who last uses a material and makes it available for disposal or recycling. 
+
+ (20) "Glass container manufacturer" means a person that manufactures new glass containers in Oregon or that manufactures new glass containers outside Oregon sold by the manufacturer to packagers located in Oregon. 
+
+ (21) "Industrial waste" means solid waste generated by manufacturing or industrial processes that is not a hazardous waste regulated under ORS Chapters 465 and 466. Such waste may include, but is not limited to, waste resulting from the following processes: Electric power generation; fertilizer/agricultural chemicals; food and related products/by-products; inorganic chemicals; iron and steel manufacturing; leather and leather products; nonferrous metals manufacturing/foundries; organic chemicals; plastics and resins manufacturing; pulp and paper industry; rubber and miscellaneous plastic products; stone, glass, clay and concrete products; textile manufacturing; transportation equipment; water treatment; and timber products manufacturing. This term does not include construction/demolition waste; or municipal solid waste from manufacturing or industrial facilities such as office or "lunch room" waste, or packaging material for products delivered to the generator. 
+
+ (22) “Infrastructure support” means in-kind contributions in support of reuse, repair, leasing or sharing of efforts to reduce waste, such as: local government staff time; franchisee staff time; space at facilities owned, permitted, or franchised by a local government; space for meetings, storage, or display of materials; equipment; access to land; and access to vehicles. 
+
+ (23) "Land disposal site" means a disposal site in which the method of disposing of solid waste is by landfill, dump, pit, pond, lagoon or land application. 
+
+ (24) “Local government” means a political subdivision that regulates either solid waste collection, disposal, or both, including but not limited to incorporated cities, municipalities, townships, counties, parishes, regional associations of cities and counties, tribal reservations, and metropolitan service districts, but not including sewer districts, fire districts, or other political subdivisions that do not regulate solid waste. 
+
+ (25) "Local government unit" means the territory of a political subdivision that regulates either solid waste collection, disposal, or both, including but not limited to incorporated cities, municipalities, townships, counties, parishes, regional associations of cities and counties, tribal reservations, and metropolitan service districts, but not including sewer districts, fire districts, or other political subdivisions that do not regulate solid waste. If a county regulates solid waste collection within unincorporated areas of the county but not within one or more incorporated cities or municipalities, then the county local government unit must be considered as only those areas where the county directly regulates solid waste collection. 
+
+ (26) "Material recovery" means any process of obtaining from solid waste, by presegregation or otherwise, materials that still have useful physical or chemical properties and can be reused, recycled or composted for some purpose. 
+
+ (27) "Metropolitan service district" means a district organized under ORS Chapter 268 and exercising solid waste authority granted to such district under ORS Chapters 268, 459, and 459A. 
+
+ (28) "Multi-family" means dwellings of five or more units. 
+
+ (29) "Newsprint" means paper meeting the specifications for Standard Newsprint Paper and Roto Newsprint Paper as set forth in the 2023 HTSA Supplement edition of the Harmonized Tariff Schedule of the United States for such products. (See Figure 1.) 
+
+ (30) "On-route collection" means pick up of source separated recyclable material from the generator at the place of generation. 
+
+ (31) "On-site collection" has the same meaning as on-route collection. 
+
+ (32) "Opportunity to recycle" means those activities described in OAR 340-090-0020, 340-090-0030, 340-090-0040, 340-090-0041, 340-090-0042, 340-090-0050 and 340-090-0080. 
+
+ (33) "Permit" means a document issued by DEQ bearing the signature of the director or the director’s authorized representative and that by its conditions may authorize the permittee to construct, install, modify, operate or close a disposal site in accordance with specified limitations. 
+
+ (34) "Person" means the United States, the state or a public or private corporation, local government unit, public agency, individual, partnership, association, firm, trust, estate or other legal entity. 
+
+ (35) "Post-consumer waste" means a finished material that would normally be disposed of as solid waste, having completed its life cycle as a consumer item. Post-consumer waste does not include manufacturing waste. 
+
+ (36) "Recyclable material" means any material identified for recycling collection under ORS 459A.914 or any other material or group of materials that can be collected and sold for recycling at a net cost equal to or less than the cost of collection and disposal of the same material. 
+
+ (37) "Recycled-content newsprint" means newsprint that includes post-consumer waste paper. 
+
+ (38) "Recycling" means any process by which solid waste materials are transformed into new products in such a manner that the original products may lose their identity. 
+
+ (39) "Residential" means single family dwellings and multi-family dwellings having four or fewer units. 
+
+ (40) "Reuse" means the return of a commodity into the economic stream for use in the same kind of application as before without change in its identity. 
+
+ (41) "Solid waste" means all useless or discarded putrescible and nonputrescible materials, including but not limited to garbage, rubbish, refuse, ashes, paper and cardboard, sewage sludge, septic tank and cesspool pumpings or other sludge, useless or discarded commercial, industrial, demolition and construction materials; discarded or abandoned vehicles or parts thereof; discarded home and industrial appliances; manure, vegetable or animal solid and semisolid materials, dead animals and infectious waste as defined in ORS 459.386. "Solid waste" does not include: 
+
+ (a) Hazardous wastes as defined in ORS 466.005; 
+
+ (b) Materials used for fertilizer, soil conditioning, humus restoration, or for other productive purposes or which are salvageable for these purposes and are used on land in agricultural operations and growing or harvesting crops and raising fowls or animals, provided the materials are used at or below agronomic application rates, or 
+
+ (c) Woody biomass that is combusted as a fuel by a facility that has obtained a permit described in ORS 468A.040. 
+
+ (42) "Solid waste management" means: preventing or reducing solid waste; managing the storage, collection, transportation, treatment, utilization, processing and final disposal of solid waste, recycling, reuse and material or energy recovery from solid waste; and facilities necessary or convenient to such activities. 
+
+ (43) "Source separate" means that the person who last uses recyclable material separates the recyclable material from other solid waste. 
+
+ (44) “Technical assistance” means assistance in support of reuse, repair, leasing or sharing provided to businesses or non-profit staff or programs, such as: program design and implementation; publicizing and promoting opportunities through channels such as directories of reuse and repair operations; research to support technical assistance efforts; and expending funds to hire specialists or contractors who provide information and advice in topics such as business planning, operations, facility design, market research, and marketing. 
+
+ (45) “Toxic materials” means products or other materials that contain chemicals or groups of chemicals on DEQ’s Toxics Focus List or that DEQ otherwise designates as “toxic.” 
+
+ (46) "Urbanized area" means, for jurisdictions within the State of Oregon, the territory within the urban growth boundary of each city of 4,000 or more population, or within the urban growth boundary established by a metropolitan service district. For jurisdictions outside the State of Oregon, "urbanized area" means a geographic area with substantially the same character, with respect to minimum population density and commercial and industrial density, as urbanized areas within the State of Oregon. 
+
+ (47) "Waste prevention" means reducing the amount of solid waste generated or resources used, without increasing toxicity, in the design, manufacture, purchase or use of products or packaging. "Waste prevention" does not include reuse, recycling or composting. 
+
+ (48) “Waste prevention campaign” means an organized effort intended to change one or more specific behaviors or practices that reduces the amount of solid waste generated or resource used without increasing toxicity in the design, manufacture, purchase, or use of products or packaging. A food rescue program is not a waste prevention campaign for the purpose of complying with sections OAR 340-090-0042(3) or (4). 
+
+ (49) "Wasteshed" means the areas of the state of Oregon as defined in ORS 459.005 and listed in ORS 459A.010 and OAR 340-090-0050. 
+
+ (50) "Yard debris" means vegetative and woody material generated from residential property or from commercial landscaping activities. This includes grass clippings, leaves, hedge trimmings and similar vegetative waste but does not include stumps or similar bulky wood materials. 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 459.045, 459A.100 - 459A.120 & 468.020 
+ 
+ 
+ Statutes/Other Implemented:  ORS 459A.005 & 459A 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 20-2024, amend filed 11/24/2024, effective 11/24/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 18-2023, amend filed 11/17/2023, effective 11/17/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 48-2017, minor correction filed 12/14/2017, effective 12/14/2017 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 3-2017, f. & cert. ef. 1-19-17 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ DEQ 27-1998, f. & cert. ef. 11-13-98 
+DEQ 10-1994, f. & cert. ef. 5-4-94 
+DEQ 31-1992, f. & cert. ef. 12-18-92, Renumbered from 340-060-0010 
+DEQ 1-1989, f. & cert. ef. 1-27-89 
+DEQ 5-1988, f. & cert. ef. 2-2-88 
+DEQ 7-1987, f. & cert. ef. 3-18-87 
+DEQ 26-1984, f. & cert. ef. 12-26-84 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

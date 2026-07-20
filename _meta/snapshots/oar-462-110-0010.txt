@@ -1,0 +1,494 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Racing Commission 
+ Chapter 462 
+ 
+ 
+ 
+ 
+ 
+ Division 110 DEFINITIONS 
+ 462-110-0010 
+ Racing Definitions
+ 
+ 
+ The following definitions and interpretations shall apply in these rules unless otherwise indicated or text otherwise requires (Words of the masculine gender include the feminine and neuter. Words in the singular include the plural and vice versa.): 
+
+ (1) "Added Money": Cash, exclusive of trophy or other award, added by the race meet licensee to stake fees paid by subscribers to form the total purse for a stakes race. 
+
+ (2) "Age": The age of a horse is calculated as beginning on the first of January in the year in which the horse is foaled. 
+
+ (3) "Allowance": Weights and other conditions of a race. 
+
+ (4) "Allowance Race": A race where there are both allowances and penalties, according to the conditions of the race, on monies or races won. 
+
+ (5) "Appropriate Horse Registry": For Thoroughbreds, the registry office of the Jockey Club (Lexington, Kentucky); for Quarter Horses, the American Quarter Horse Association (Amarillo, Texas); for Appaloosa horses, the Appaloosa Horse Club, Inc. (Moscow, Idaho); for Paint horses, the American Paint Horse Association (Fort Worth, Texas); for Arabians, the Arabian Horse Registry of America (Denver, Colorado); and for mules, the American Donkey and Mule Society (Lewisville, TX). 
+
+ (6) "Authorized User": A person authorized by the Oregon Racing Commission to receive, to decode and to use for legal purposes the encrypted signal of racing events in Oregon. 
+
+ (7) "Bleeder": Any horse known to have externally bled from its respiratory tract during a workout or race, and so designated by the commission veterinarian or any horse that has internal bleeding that is observed or verified by the commission veterinarian through endoscopic examination. 
+
+ (8) "Bleeder List": A tabulation of bleeders to be maintained by the commission. 
+
+ (9) "Blocked": Where there is no feeling in an injured area. 
+
+ (10) "Breakage": The odd cents by which the amount payable on each dollar wagered in a pari-mutuel pool exceeds a multiple to ten cents or to five cents in accordance with ORS 462.140. 
+
+ (11) "Breeder": The owner of the dam of a horse at the time the horse was foaled. A horse is "bred" at the place of its foaling. 
+
+ (12) "Carded": Scheduled and placed on the daily racing program. 
+
+ (13) "Claim Certificate" (Open Claim Certificate): A written document issued by the commission which permits a person to enter a claim for a horse without having a foal certificate in the race office. 
+
+ (14) "Claiming Race": A race in which all horses may be claimed and purchased for the amount specified in the conditions for that race by any person meeting the requirements of OAR 462-150-0030(2). 
+
+ (15) "Combined Pari-Mutuel Pools", "Combined Pools": The pari-mutuel wagers at one or more off-track wagering facilities being contributed into the pari-mutuel pools of an Oregon host race meet licensee. 
+
+ (16) "Commission": Oregon Racing Commission. Commissioner is a member of the commission. 
+
+ (17) "Complaint": A written allegation of a violation of these rules or ORS Chapter 462. 
+
+ (18) "Day" "Race Day" and "Simulcast Day": Any 24 hour period beginning at 12:01 a.m. and ending at midnight. "Racing Day" is a day on which live races are conducted at a race track in Oregon. "Calendar Days" are those consecutive days counted irrespective of number of racing days. "Simulcast Day" is a day that races from an out-of-state track are being simulcast into a track in Oregon on a day that there are no live races being run at the Oregon track. Simulcast days may only occur on days that fall within the period of time for which a race meet license has been granted by the commission. Unless otherwise specified, use of the word "day" shall mean a calendar day. In calculating the average daily handle for race meets, any race day in which some of the day's races are canceled due to natural occurrences, as determined by the commission, will be counted as a partial race day in the same proportion as the number of races actually run by the number of races carded to be run in the day's racing program. 
+
+ (19) "Decoder": A device and/or means to convert encrypted audiovisual signals and/or data into a form recognizable as the original content of the signals. 
+
+ (20) "Derby": A race exclusively for 3-year-olds, except for Arabians which is for 4-year-olds. 
+
+ (21) "Designated Races": Stake and handicap races so designated by the stewards prior to the first day of the race meet. 
+
+ (22) "Disqualification": An order of the stewards or commission revising the order of finish of a race. 
+
+ (23) "Divided Race": A race in which there are so many entries that it is made into two separate races. A race becomes a divided race when it is announced by the racing secretary that he/she is dividing the race. 
+
+ (24) "Drug": As defined in ORS 462.010(5). 
+
+ (25) "Eligible": A horse which meets the conditions of the race. 
+
+ (26) "Encryption", "Encrypted", "Encoded": The scrambling or other manipulation of the audiovisual signals to mask the original video content of the signal and so cause such signals to be indecipherable and unrecognizable to any person receiving such signal without using a decoder. 
+
+ (27) "Engagement": The obligation of a jockey or horse to participate in a race. 
+
+ (28) "Equipment": As applied to a horse, it includes the whip, blinkers, tongue restraint, muzzle, hood, nose band, bit, shadow role, martingale, breast plate, bandages in excess of six inches in length, boots, tail tie, plates and other items as approved by the Oregon Racing Commission. 
+
+ (29) "Exotic Wager": Any single wager where three or more separate wagering interests are required to be selected. 
+
+ (30) "Foal Certificate" or "Registration Papers": A document issued by the appropriate horse registry used for the identification and proof of ownership of the horse. 
+
+ (31) "Forfeit Money": Money due by a licensee because of error, fault, neglect of duty, or penalty imposed by order of the stewards. 
+
+ (32) "Free Handicap": A race in which no liability for entrance money is incurred. 
+
+ (33) "Futurity": A race for 2-year-olds, except Arabians which is for 3-year-olds, in which nominations are made a considerable time before the running of the race, often before the entered horse is born. 
+
+ (34) "Handicap": A race in which the weights to be carried by the horses are assigned by the racing secretary or handicapper for the purpose of equalizing the chances of winning for all horses entered. 
+
+ (35) "Horse": Any horse (including and designated as a mare, filly, stallion, colt, ridgling, or gelding) registered for racing under the jurisdiction of the commission and which requires a jockey to race. 
+
+ (36) "Host", "Host Association", "Host Track": The race track licensee conducting a licensed race meet when it is authorized by the Oregon Racing Commission to simulcast racing programs. 
+
+ (37) “Hub”: A multi-jurisdictional simulcasting and interactive wagering totalizator hub is a business that, through a qualified subscriber based service, conducts pari-mutuel wagering on the races that it simulcasts and other races that it carries in its wagering menu. 
+
+ (38) "Ineligible": A horse or person not qualified under these rules or the conditions of a race to participate in a specified racing activity. 
+
+ (39) "In Today Horse": Any horse which has an opportunity to run in a race and enters again on the next day that entries are taken. 
+
+ (40) "Inquiry": 
+
+ (a) Action initiated by the board of stewards involving determination as to whether or not a foul has occurred during the running of a race. 
+
+ (b) Investigation by the board of stewards of a violation or as a result of objection, to determine if a violation occurred. 
+
+ (41) "Intrastate Wagering": Pari-mutuel wagering at an off-track wagering facility on Oregon racing events being run at an Oregon host race meet licensee. 
+
+ (42) "Invitational Handicap": A handicap race for which the racing secretary has selected the contestants and assigned the weights. 
+
+ (43) "Licensee": Any person or entity holding a currently valid Oregon Racing Commission license to engage in racing or related regulated activities. 
+
+ (44) "Lessee": A person who holds a contract for the racing of a horse in the person's (lessee's) name. 
+
+ (45) "Lessor": A person who owns a horse and who leases part or all of it to another person. 
+
+ (46) "Maiden": A horse which at the time of starting has never won a race on the flat in any country on a recognized track. A maiden which has been disqualified after finishing first is still a maiden. 
+
+ (47) "Match Race": A private sweepstakes between two or more horses which are the property of different owners. If prior to the running of the race any of the horses entered in the match dies or if any owner dies, the match is void. It remains a match even if money or another award is added to the stakes. 
+
+ (48) "Maturity": A stakes race for four-year-olds, or four years old or older, except Arabians which is for five-year-olds, or five years old or older. 
+
+ (49) "Month": A calendar month. 
+
+ (50) “Mule”: The offspring of a male donkey and a female horse. Mules shall race under the same rules as horses, unless otherwise directed by the Board of Stewards. 
+
+ (51) "Nerve": To cut or remove a portion of a nerve, usually in a horse's leg, to decrease sensation. 
+
+ (a) "Digital Neurectomy (Heel Nerve)": An operation performed on the digital nerve between the fetlock and the foot. 
+
+ (b) "Volar Neurectomy (High Nerved)": An operation performed on the volar nerve that lies between the bottom of the knee and the fetlock joint. 
+
+ (52) "Nomination": The naming of a horse for a stakes race in advance of the race. 
+
+ (53) "Nominator": The person or persons who nominate a horse. 
+
+ (54) "Non-starter": A horse that was not in the starting gate when the stall doors open when the starter dispatches the horses, or in the opinion of the stewards, was prevented from receiving a fair start. The stewards may determine any horse to be a non-starter if in their opinion to do so would protect the best interest of racing. 
+
+ (55) "Objection": 
+
+ (a) Action initiated by the owner, trainer, or jockey of a horse, claiming foul against another horse or jockey in a race. 
+
+ (b) Action, initiated by licensee, to the stewards challenging the eligibility of an entered horse, or interpretation of a rule or policy. 
+
+ (56) "Off-Track Enclosure", "Enclosure-Public": All areas of the off-track wagering facility. 
+
+ (57) "Off-Track Wagering": Pari-mutuel wagering conducted on a race at a location other than the racecourse where the race is actually held. 
+
+ (58) "Off-Track Wagering Facility", "Intrastate Wagering Facility", "Extended Wagering Facility": The physical premises, including parking areas, structures and equipment utilized by a race meet licensee for the conduct of pari-mutuel wagering on racing events being run elsewhere. (59) "Oregon Bred": A horse which was foaled in Oregon. 
+
+ (59) “Original Post Time”: For the purposes of medication administration, the “original” post time shall be the advertised post time provided to a commission veterinarian by the association and posted by a commission veterinarian or designee in the race office. 
+
+ (60) "Out-of-State Wagering": Acceptance of wagers by a race meet licensee authorized by ORS 462.062 or 462.067 on a race or races run outside of the State of Oregon. 
+
+ (61) "Overnight Race": A race for which entries close 96 hours or less before the time set for the first race of the day on which the race is to be run, and to which no fees are contributed by horsemen. 
+
+ (62) “Paddock”: The paddock is the confined area where horses are assembled for saddling prior to a race. 
+
+ (63) "Penalty": Depending upon the context: 
+
+ (a) The excess of weight a horse must carry in a race because of the race's conditions; or 
+
+ (b) The fining or suspension of a licensee by the stewards or the governing body having jurisdiction over the race meet. 
+
+ (64) "Person": Unless the context clearly shows otherwise, person as used in these rules includes individuals, partnerships, corporations, political subdivisions and municipal corporations. 
+
+ (65) "Post": The starting point of a race. 
+
+ (66) "Post Position": The starting position assigned to a horse at the time the race is drawn. 
+
+ (67) "Prize": The combined total of any cash, premium, trophy, and object of value awarded to the owners of horses according to the order of finish in a race. 
+
+ (68) "Produce Race": A race made of the progeny of certain nominated stallions. 
+
+ (69) "Purse": The gross cash portion of the prize for which a race is run. 
+
+ (70) "Purse Race": A race for money or any other prize to which the owners of the horses entered do not contribute. 
+
+ (71) "Race": An official contest among racing animals for purse or other prize at any recognized race meet and in the presence of the officials of the track as defined by ORS 462.010(10). 
+
+ (72) "Race Meet Licensee": A person, partnership, corporation, or any other body conducting a licensed race meeting in Oregon. 
+
+ (73) "Racecourse": The entire area licensed to the race meet licensee, as defined in ORS 462.010(11). 
+
+ (74) "Racing Officials": 
+
+ (a) Commission officials include the presiding state steward, deputy state steward, commission veterinarians, photofinish operator, commission chief investigator, commission investigators, supervisor of licensing and pari-mutuels, commission auditors and any other commission employee designated by the commission or the executive director. 
+
+ (b) Race meet licensee officials include the race meet general manager, assistant general manager, association steward, director of racing, racing secretary, paddock judge, patrol judge, jockey room supervisor, placing judges, identifier, starter, clocker, clerk of scales, stall superintendent, track superintendent, paymaster of purses, mutuel manager, assistant mutuel manager, odds maker, outriders, plate inspector, chief of security, TRPB agent and any other person designated by the commission or the executive director. 
+
+ (75) "Recognized Race Meet": Any race meet which is under the jurisdiction of an official racing commission or other official racing body. 
+
+ (76) "Recognized Track": A track on which official results are published in the Daily Racing Form, Equibase or other racing publication approved by the commission. 
+
+ (77) "Restricted Area": Includes, but is not limited to, the office of the racing secretary, stable area enclosure, paddock area, the room occupied by the stewards, photofinish operator, video camera and control system, announcer, the pari-mutuel work areas, totalizator computer room, jockey room and weighing area, test barn area, and any other area designated as "RESTRICTED" by the commission. 
+
+ (78) “Revocation”: The withdrawal of license privileges for all licenses held unless stated otherwise within the order. Revocations also include denial of access to all areas of the racecourse and all off-track wagering sites in Oregon and all other areas under the jurisdiction of the commission unless otherwise stated in the order. An individual who has had his/her license privileges revoked will remain revoked until such time the commission takes official action to reinstate the license. 
+
+ (79) "Ruled Off": The act of barring a person or horse from the grounds of a race meet licensee and denying all racing and other privileges. 
+
+ (80) "Rundown": A bandage on a horse's leg not exceeding six inches in height. 
+
+ (81) "Runner": As used in many places; designates a horse. 
+
+ (82) "Scratch": The act of withdrawing an entered horse from a race. 
+
+ (83) "Scratch Time": The time established and posted by the racing secretary after which no horses may be scratched, except by the stewards, or, when authorized, by the commission veterinarian or the starter. 
+
+ (84) "Sending Track": The race track from which a simulcast emanates for interstate wagering. 
+
+ (85) "Simulcast", "Simulcasting": 
+
+ (a) Live audiovisual electronic signals emanating from a licensed race meeting and transmitted simultaneously with the running of the racing events at that meeting, and includes the transmission of pari-mutuel wagering odds, amounts wagered and payoff on such events, and other racing programming relating to the race animals or participants, or 
+
+ (b) Such other form of electronic signals of animal racing as is approved by the commission. 
+
+ (86) "Simulcast Operator": A person with a contract with the host race meet licensee, and authorized by the Oregon Racing Commission to operate a simulcast wagering system. 
+
+ (87) "Simulcast Service Supplier": A person engaged in providing service, supplies or equipment necessary to the operation of intrastate or out-of-state simulcast wagering for use by the host race meet licensee, authorized user, including pari-mutuel wagering terminals, television receivers and related equipment. 
+
+ (88) "Stable": A place to house horses. 
+
+ (a) "Trainer Stable": One or more stalls assigned to a trainer. 
+
+ (b) "Stable Name": An assumed name licensed to one or more owners. 
+
+ (c) "Trainers Stable Name": Used for trainers advertising. 
+
+ (89) "Stakes Race": A race to which nominators of the entries contribute to a purse, to which money or any other award may be added. No overnight race shall be deemed a stakes race. 
+
+ (90) "Starter": A horse which is in the starting gate when the stall doors open in front of it at the time the starter dispatches the horses. The stewards may, in their discretion, determine a horse to be a nonstarter. 
+
+ (91) "Starter Allowance Race": An allowance race that includes the condition that a horse must have previously started for a specified claiming price. If a horse has been claimed, it is not eligible to enter a starter allowance race for the price at which it was claimed until it has started in a claiming race in which the claiming price does not exceed the price at which it was claimed. 
+
+ (92) "Starter Race": A race based upon a horse having previously started for a specified claiming price. 
+
+ (93) "Stewards": The persons employed or approved by the commission who are responsible for the proper conduct of a race meet. The terms stewards and board of stewards are used interchangeably. 
+
+ (94) "Subscription": The act of nominating a horse to a stakes race. 
+
+ (95) "Substitute Race": A race which replaces a race already carded, but abandoned because of insufficient entries or too many scratches. 
+
+ (96) "Suspension": The withdrawal of license privileges for a period of time. Suspensions also include denial of access to all areas of the racecourse and all off-track wagering sites in Oregon and all other areas under the jurisdiction of the commission unless otherwise stated in the order. 
+
+ (97) "Sweepstakes": Same as "stakes race". 
+
+ (98) Tattoo - are an additional means of identification of a racehorse. They are used along with the horse's markings, color, age and sex.  
+
+ (a) Lip tattoos can be a series of numbers and/or letters tattooed on the inside top lip of horses, involved in pari-mutuel racing. 
+
+ (b) Digital Tattoo – Thoroughbreds foaled from 2018 onward are required to have a unique 15 character microchip number, that is registered with the Jockey Club, that directly links to identification information on the horse. 
+
+ (A) Microchip – An ISO 11784/11785 compliant chip, International Committee of Animal Recording (ICAR) approved, that contains the “Digital Tattoo” (unique microchip number). 
+
+ (B) Microchip Reader – ISO 11785 and can detect ISO compliant 11784 134.2 KHz radio frequency devices. 
+
+ (99) "Unauthorized Area": Includes the stewards' stand, test barn, jockeys' room, scale room, and mutuel work areas. 
+
+ (100) “Wagering Interest”: A single horse, or more than one horse joined as a “mutuel entry” or joined in the “mutuel field”, on which a single pari-mutuel wager may be placed. 
+
+ (101) "Weigh In": The presentation of a jockey to the clerk of scales for weighing after a race. 
+
+ (102) "Weigh Out": The presentation of a jockey to the clerk of scales for weighing prior to a race. 
+
+ (103) "Workout": A training exercise of a horse where the horse is asked for speed over a specific distance. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 462.270(3) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 462.270 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ RC 3-2020, amend filed 05/12/2020, effective 05/12/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RC 2-2011, f. 9-23-11, cert. ef. 10-1-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RC 1-2010, f. 9-23-10, cert. ef. 10-1-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RC 2-2009, f. 8-24-09, cert. ef. 10-1-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RC 2-2008, f. & cert. ef. 9-30-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RC 2-2003, f. & cert. ef. 4-23-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RC 5-2002, f. 12-6-02, cert. ef. 1-1-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RC 3-2000, f. 3-27-00, cert. ef. 5-1-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

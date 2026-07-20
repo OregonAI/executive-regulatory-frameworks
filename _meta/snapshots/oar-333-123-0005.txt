@@ -1,0 +1,380 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 123 THERAPEUTIC RADIATION MACHINES 
+ 333-123-0005 
+ Definitions
+ 
+ 
+ (1) "Absorbed dose (D)" means the mean energy imparted by ionizing radiation to matter. Absorbed dose is determined as the quotient of DE by DM, where DE is the mean energy imparted by ionizing radiation to matter of mass DM. The SI unit of absorbed dose is joule/kg and the special name of the unit of absorbed dose is the gray (Gy). The previously used special unit of absorbed dose (rad) is being replaced by the gray. 
+
+ (2) "Absorbed dose rate" means absorbed dose per unit time, for machines with timers, or dose monitor unit per unit time for linear accelerators. 
+
+ (3) "Accessible surface" means surface of equipment or of an equipment part that can be easily or accidentally touched by persons without the use of a tool. 
+
+ (4) "Added filtration" means any filtration which is in addition to the inherent filtration that is in the primary beam. 
+
+ (5) "Air kerma (K)" means the kinetic energy released in air by ionizing radiation. Kerma is determined as the quotient of DE/DM, where DE is the sum of the initial kinetic energies of all the charged ionizing particles liberated by uncharged ionizing particles in air of mass DM. The SI unit of air kerma is joule/kg. 
+
+ (6) "Authorized user" means: 
+
+ (a) An individual authorized to order treatment with external beam radiation therapy who meets the requirements in OAR 333-123-0015. 
+
+ (b) An individual authorized to order treatment with superficial electronic brachytherapy who meets the requirements of OAR 333-123-0125. 
+
+ (7) "Barrier" has the same meaning as "protective barrier". 
+
+ (8) "Beam axis" means the axis of rotation of the beam-limiting device. 
+
+ (9) "Beam-limiting device" means a field defining collimator, integral to the therapeutic radiation machine, which provides a means to restrict the dimensions of the useful beam. 
+
+ (10) "Beam monitoring system" means the system designed and installed in the radiation head to detect and appropriately measure the radiation present in the useful radiation beam. 
+
+ (11) "Beam scattering foil" means a thin piece of material (usually metallic) placed in the beam to scatter a beam of electrons in order to provide a more uniform electron distribution in the useful beam. 
+
+ (12) "Bent beam linear accelerator" means a linear accelerator geometry in which the accelerated electron beam must change direction by passing through a bending magnet. 
+
+ (13) "Changeable filters" means any filter, exclusive of inherent filtration, that can be removed from the useful beam through any electronic, mechanical, or physical process. 
+
+ (14) "Contact therapy system" means a therapeutic radiation machine with a short target to skin distance (TSD), usually less than 5 cm. 
+
+ (15) "Conventional Simulator" means any X-ray system designed to reproduce the geometric conditions of the radiation therapy equipment. 
+
+ (16) "CT Simulator" means a computed tomography (CT) unit used in conjunction with relevant software which recreates the treatment machine, and that allows import, manipulation, display and storage of images from CT and other imaging modalities. 
+
+ (17) "Dermatologist" means a physician licensed by the Oregon Medical Board and is certified with the American Board of Dermatology or the American Osteopathic Board of Dermatology. 
+
+ (18) "Detector" has the same meaning as "radiation detector". 
+
+ (19) "Dose monitor unit (DMU)" means a unit response from the beam monitoring system from which the absorbed dose can be calculated. 
+
+ (20) "Electronic brachytherapy" means a method of radiation therapy where an electrically generated source of ionizing radiation is placed in or near the tumor or target tissue to deliver therapeutic radiation dosage. 
+
+ (21) "Electronic brachytherapy device" means the system used to produce and deliver therapeutic radiation including the X-ray tube, the control mechanism, the cooling system, and the power source. 
+
+ (22) "Electronic brachytherapy source" means the X-ray tube component used in an electronic brachytherapy device. 
+
+ (23) "External beam radiation therapy" means therapeutic irradiation in which the source of radiation is at a specified distance from the body. 
+
+ (24) "Field-flattening filter" means a filter used to homogenize the absorbed dose rate over the radiation field. 
+
+ (25) "Filter" means material placed in the useful beam to change beam quality in therapeutic radiation machines subject to OAR 333-123-0025(2) and (3). 
+
+ (26) "Gantry" means that part of a radiation therapy system supporting and allowing movements of the radiation head about a center of rotation. 
+
+ (27) "Gray (Gy)" means the SI unit of absorbed dose, kerma, and specific energy imparted equal to 1 joule/kg. The previous unit of absorbed dose (rad) is being replaced by the gray. (1 Gy = 100 rad; 1 cGy = 1 rad). 
+
+ (28) "Half-value layer (HVL)" means the thickness of a specified material which attenuates incident ionizing radiation to an extent such that the air kerma rate, exposure rate or absorbed dose rate is reduced to one-half of the value measured without the material at the same point. 
+
+ (29) "Intensity Modulated Radiation Therapy (IMRT)" means radiation therapy that uses non-uniform radiation beam intensities, which have been determined by various computer-based optimization techniques. 
+
+ (30) "Interlock" means a device preventing the start or continued operation of equipment unless certain predetermined conditions prevail. 
+
+ (31) "Interruption of irradiation" means the stopping of irradiation with the possibility of continuing irradiation without resetting of operating conditions at the control panel. 
+
+ (32) "Irradiation" means the exposure of a living tissue or matter to ionizing radiation. 
+
+ (33) "Isocenter" means the center of the sphere through which the useful beam axis passes while the gantry, collimator and couch move through the full range of motions. 
+
+ (34) "Kilovolt (kV) (kilo electron volt (keV))" means the energy equal to that acquired by a particle with one electron charge in passing through a potential difference of one thousand volts in a vacuum. 
+
+ 
+ Note: Current convention is to use kV for photons and keV for electrons. 
+ 
+
+ (35) "Lead equivalent" means the thickness of the material in question affording the same attenuation, under specified conditions, as lead. 
+
+ (36) "Leakage radiation" means radiation emanating from the radiation therapy system except for the useful beam. 
+
+ (37) "Light field" means the area illuminated by light, simulating the radiation field. 
+
+ (38) "mA" means milliamperes. 
+
+ (39) "Medical Treatment Event" means an event that meets the criteria in OAR 333-123-0020(1). 
+
+ (40) "Megavolt (MV) (mega electron volt (MeV))" means the energy equal to that acquired by a particle with one electron charge in passing through a potential difference of one million volts in a vacuum. 
+
+ 
+ Note: Current convention is to use MV for photons and MeV for electrons. 
+ 
+
+ (41) "Monitor unit (MU)" has the same meaning as "dose monitor unit". 
+
+ (42) "Moving beam radiation therapy" means radiation therapy with any planned displacement of radiation field or patient relative to each other, or with any planned change of absorbed dose distribution. It includes, but is not limited to arc, conformal, intensity modulation and rotational therapy. 
+
+ (43) "Nominal treatment distance" means: 
+
+ (a) For electron irradiation, the distance from the scattering foil, virtual source, or exit port of the electron beam to the entrance surface of the irradiated object along the central axis of the useful beam. 
+
+ (b) For X-ray irradiation, the distance from the virtual source or target to isocenter distance along the central axis of the useful beam. For non-isocentric equipment, this distance must be that specified by the manufacturer. 
+
+ (44) "Patient" means an individual subjected to machine produced external beam radiation for the purposes of medical therapy. 
+
+ (45) "Peak tube potential" means the maximum value of the potential difference across the X-ray tube during an exposure. 
+
+ (46) "Periodic quality assurance check" means a procedure, which is performed at regular intervals to ensure that previously determined machine characteristics continue to be valid. 
+
+ (47) "Phantom" means an object responding in essentially the same manner as tissue, with respect to absorption or scattering of the incident ionizing radiation in question. 
+
+ (48) "Practical range of electrons" corresponds to classical electron range where the only remaining contribution to dose is from Bremsstrahlung X-rays. 
+
+ (49) "Prescribed dose" means the total dose and dose per fraction as documented in the physician's written directive. The prescribed dose is an estimation from measured data from a specified therapeutic machine using assumptions that are clinically acceptable for that treatment technique and historically consistent with the clinical calculations previously used for patients treated with the same clinical technique. 
+
+ (50) "Primary dose monitoring system" means a system which can monitor the useful beam during irradiation and which can terminate irradiation when a pre-selected number of dose monitor units have been delivered. 
+
+ (51) "Primary protective barrier" has the meaning given that term in section (52) of this rule, “protective barrier”. 
+
+ (52) "Protective barrier" means a barrier of radiation absorbing material(s) used to reduce radiation exposure. The types of protective barriers are as follows: 
+
+ (a) Primary protective barrier means the material, excluding filters, placed in the useful beam. 
+
+ (b) Secondary protective barrier means the material, which attenuates stray radiation. 
+
+ (53) "Qualified expert" means an individual qualified in accordance with OAR 333-100-0005. 
+
+ (54) "Qualified medical physicist" means an individual qualified in accordance with OAR 333-123-0015(2)(b). 
+
+ (55) "Qualified radiation therapy physician" means an individual qualified in accordance with OAR 333-123-0015(1). 
+
+ (56) "Radiation detector" means a device, which, in the presence of radiation provides, by either direct or indirect means, a signal or other indication suitable for use in measuring one or more quantities of incident radiation. 
+
+ (57) "Radiation field" has the same meaning as "useful beam". 
+
+ (58) "Radiation head" means the structure from which the useful beam emerges. 
+
+ (59) "Redundant beam monitoring system" means a combination of two dose monitoring systems in which each system is designed to terminate irradiation in accordance with a pre-selected number of dose monitor units. 
+
+ (60) "Scattered primary radiation" means that scattered radiation which has been deviated in direction only by materials irradiated by the useful beam. 
+
+ (61) "Scattered radiation" means ionizing radiation emitted by interaction of ionizing radiation with matter, the interaction being accompanied by a change in direction of the radiation. 
+
+ (62) "Secondary dose monitoring system" means a system, which will terminate irradiation in the event of failure of the primary dose monitoring system. 
+
+ (63) "Secondary protective barrier" has the meaning given that term in section (52) of this rule, "protective barrier". 
+
+ (64) "Service Engineer" means an individual who is qualified to service the radiation therapy equipment per manufacturer's standards. 
+
+ (65) "Shadow tray" means a device attached to the radiation head to support auxiliary beam blocking material. 
+
+ (66) "Shutter" means a device attached to the tube housing assembly which can totally intercept the useful beam and which has a lead equivalency not less than that of the tube housing assembly. 
+
+ (67) "Sievert (Sv)" means the SI unit of dose equivalence. The unit of dose equivalence is the joule/kg. The previous unit of dose equivalence (rem) is being replaced by the Sievert. [1 Sv=100 rem]. 
+
+ (68) "Simulator (radiation therapy simulation system)" means any X-ray system intended for localizing the tissue volume to be exposed during radiation therapy and establishing the position and size of the therapeutic irradiation field. See Conventional Simulator and Virtual Simulator. 
+
+ (69) "Source" means the focal point or material from which the radiation emanates. 
+
+ (70) "Source-skin distance (SSD)" has the same meaning as "target-skin distance". 
+
+ (71) "Stationary beam radiation therapy" means radiation therapy without displacement of one or more mechanical axes relative to the patient during irradiation. 
+
+ (72) "Stray radiation" means the sum of leakage and scattered radiation. 
+
+ (73) "Superficial electronic brachytherapy device" which includes superficial radiotherapy  (which includes superficial radiotherapy) m eans a device that uses a lower energy X-ray that operates between 10 and 100kV to treat various benign or malignant skin conditions. 
+
+ (74) " Superficial electronic brachytherapy operator" means an individual who, under the supervision of a qualified radiation therapy physician or authorized user, sets the exposure parameters, positions the equipment and the patient for treatment and applies the radiation for therapeutic purposes. 
+
+ (75) "Target" means that part of an X-ray tube or accelerator onto which a beam of accelerated particles is directed to produce ionizing radiation or other particles. 
+
+ (76) "Target-skin distance (TSD)" means the distance measured along the beam axis from the center of the front surface of the X-ray target or electron virtual source to the surface of the irradiated object or patient. 
+
+ (77) "Tenth-value layer (TVL)" means the thickness of a specified material which attenuates X-radiation or gamma radiation to an extent such that the air kerma rate, exposure rate, or absorbed dose rate is reduced to one-tenth of the value measured without the material at the same point. 
+
+ (78) "Termination of irradiation" means the stopping of irradiation in a fashion, which cannot permit continuance of irradiation without the resetting of operating conditions at the control panel. 
+
+ (79) "Therapeutic radiation machine" is a complex system designed and used for external beam radiation therapy. This system includes some or all of the following: equipment producing ionizing radiation (including, but not limited to X-rays, electrons, protons and neutrons), beam shaping devices, computer control unit, verify and record system, electronic portal imaging, treatment planning computer and other ancillary systems. 
+
+ (80) "Tube" means an X-ray tube, unless otherwise specified. 
+
+ (81) "Tube housing assembly" means the tube housing with tube installed. It includes high-voltage and filament transformers and other appropriate elements when such are contained within the tube housing. 
+
+ (82) "Useful beam" means the radiation emanating from the tube housing port or the radiation head and passing through the aperture of the beam-limiting device when the exposure controls are in a mode to cause the therapeutic radiation machine to produce radiation. 
+
+ (83) "Virtual source" means a point from which radiation appears to originate. 
+
+ (84) "Wedge filter" means a filter which effects continuous change in transmission over all or a part of the useful beam. 
+
+ (85) "Written directive" means an order, written or electronic, for the administration of radiation to a specific patient as specified in OAR 333-123-0045(2). 
+
+ (86) "X-ray tube" means any electron tube, which is designed to be used primarily for the production of X-rays. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 453.605 – 453.807 
+ 
+ 
+ Statutes/Other Implemented:  ORS 453.605 – 453.807 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 72-2020, amend filed 10/09/2020, effective 10/09/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 4-2013, f. & cert. ef. 1-29-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 23-2006, f. & cert. ef. 10-19-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

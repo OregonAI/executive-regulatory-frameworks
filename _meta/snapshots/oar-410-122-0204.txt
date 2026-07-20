@@ -1,0 +1,428 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 122 DURABLE MEDICAL EQUIPMENT, PROSTHETIC ORTHOTICS AND SUPPLIES (DMEPOS) 
+ 410-122-0204 
+ Nebulizer
+ 
+ 
+ (1) Indications and limitations of coverage and medical appropriateness: 
+
+ (a) Equipment: 
+
+ (A) Small volume nebulizer: 
+
+ (i) A small volume nebulizer (A7003, A7004, A7005) and related compressor (E0570) may be covered to administer inhalation drugs based on evidence-based clinical practice guidelines; 
+
+ (ii) The practitioner shall have considered use of a metered dose inhaler (MDI) with and without a reservoir or spacer device and decided that, for medical reasons, the MDI was not sufficient for the administration of needed inhalation drugs. 
+
+ (B) Large volume nebulizer: 
+
+ (i) A large volume nebulizer (A7007, A7017), related compressor (E0565 or E0572), and water or saline (A4217 or A7018) may be covered when it is medically appropriate to deliver humidity to a client with thick, tenacious secretions, who has cystic fibrosis, bronchiectasis, a tracheostomy, or a tracheobronchial stent; 
+
+ (ii) Combination code E0585 shall be covered for the same indications as in (1)(a)(B)(i); 
+
+ (iii) An E0565 or E0572 compressor and filtered nebulizer (A7006) may be covered when it is medically necessary and appropriate to administer pentamidine to a client with HIV, pneumocystosis, or complications of organ transplants; 
+
+ (C) Small volume ultrasonic nebulizer: 
+
+ (i) A small volume ultrasonic nebulizer (E0574) and related accessories may be covered when it is medically necessary and appropriate to administer treprostinil inhalation solution (J7686) to a client with pulmonary hypertension only; 
+
+ (D) Controlled dose inhalation drug delivery system: 
+
+ (i) A controlled dose inhalation drug delivery system (K0730) may be covered when it is medically necessary and appropriate to administer iloprost (Q4074) to clients with pulmonary hypertension only; 
+
+ (E) Large volume ultrasonic nebulizer: 
+
+ (i) A large volume ultrasonic nebulizer (E0575) offers no proven clinical advantage over a pneumatic compressor and nebulizer and will be reviewed on a case-by-case basis to determine if medically necessary and appropriate for use; 
+
+ (F) The Division shall consider other uses of compressors/generators individually on a case-by-case basis to determine their medical appropriateness; 
+
+ (b) Accessories: 
+
+ (A) A large volume pneumatic nebulizer (E0580) and water or saline (A4217 or A7018) are not separately payable and may not be separately billed when used for clients with rented home oxygen equipment; 
+
+ (B) The Division does not cover use of a large volume nebulizer, related compressor/generator, and water or saline when used predominately to provide room humidification; 
+
+ (C) A prefilled disposable large volume nebulizer (A7008) is considered a convenience item. A non-disposable unfilled nebulizer (A7007, A7017, or E0585) filled with water or saline (A4217 or A7018) by the client or caregiver is an acceptable alternative to the large volume nebulizer when used as indicated in (1)(a)(B)(i) of this rule; 
+
+ (D) Kits and concentrates for use in cleaning respiratory equipment are not covered; 
+
+ (E) Accessories used in conjunction with ultrasonic nebulizers coded E0574 shall be billed on separate claim lines. The dome and mouthpiece shall be billed with code A7016. Other accessories shall be billed with code A9999. When code A9999 is used, the claim must clearly describe the type and quantity of accessories provided; 
+
+ (F) Accessories are separately payable if the related aerosol compressor and the individual accessories are medically appropriate. The following table lists each covered compressor/generator and its covered accessories. Other compressor/generator/accessory combinations are not covered; 
+
+ (G) Compressor/Generator (Related Accessories): E0565 (A4619, A7006, A7010,  A7012, A7013, A7014, A7015, A7017, A7525, E1372); E0570 (A7003, A7004, A7005, A7006, A7013, A7015, A7525);  E0572 (A7006, A7007, A7014, A7017); E0574 (A7013, A7014, A7016); E0585 (A4619, A7006, A7010,  A7012, A7013, A7014, A7015, A7525); K0730 (A7005); 
+
+ (H) This array of accessories represents all possible combinations, but it may not be appropriate to bill any or all of them for one device; 
+
+ (I) Table 122-0204-1 lists the usual maximum frequency of replacement for accessories. The Division shall not cover claims for more than the usual maximum replacement amount unless the request has been prior approved by the Division before dispensing. The provider shall submit requests for more than the usual maximum replacement amount to the Division for review. 
+
+ (2) Coding guidelines: 
+
+ (a) Accessories: 
+
+ (A) Codes A7003, A7005, and A7006 include the lid, jar, baffles, tubing, T-piece, and mouthpiece. In addition, code A7006 includes a filter; 
+
+ (B) Code A7004 includes only the lid, jar, and baffles; 
+
+ (C) Code A7012 describes a device to collect water condensation, which is placed in line with the corrugated tubing, used with a large volume nebulizer; 
+
+ (D) Code A7016 describes the dome and mouthpiece containing the aerosolization mechanism for an ultrasonic/electronic nebulizer system; 
+
+ (E) Code E0585 is used when a heavy-duty aerosol compressor (E0565), durable bottle type large volume nebulizer (A7017), and immersion heater (E1372) are provided at the same time. If all three items are not provided initially, the separate codes for the components would be used for billing; 
+
+ (F) Code A7007 or A7017 is billed for a durable, bottle type nebulizer when it is used with an E0572 compressor or a separately billed E0565 compressor; 
+
+ (G) Code A7007 or A7017 may not be separately billed when an E0585 system is also being billed. Code E0580 (Nebulizer, durable, glass or autoclavable plastic, bottle type, for use with regulator or flow meter) describes the same piece of equipment as A7017 but shall only be billed when this type of nebulizer is used with a client-owned oxygen system. 
+
+ (b) Equipment: 
+
+ (A) In this policy,  nebulization of inhalation solutions is accomplished by two types of devices. Pneumatic compressor nebulizers achieve nebulization of liquid by means of air flow. Ultrasonic or electronic nebulizers produce nebulization of liquid by means of a vibrating mechanism; 
+
+ (B) Code E0565 describes an aerosol compressor, which can be set for pressures above 30 psi at a flow of 6-8 L/m and is capable of continuous operation; 
+
+ (C) A nebulizer with compressor (E0570) is an aerosol compressor, which delivers a fixed, low pressure and is used with a small volume nebulizer. It may be AC powered; DC powered or both; 
+
+ (D) A light duty adjustable pressure compressor (E0572) is a pneumatic aerosol compressor that can be set for pressures above 30 psi at a flow of 6-8 L/m but is capable only of intermittent operation; 
+
+ (E) Code E0574 describes an ultrasonic/electronic generator used with a small volume chamber for medication delivery. Aerosolization of the inhalation solution occurs in a nebulization chamber by means of a vibrating mechanism such as (not all inclusive) a vibrating disk, pizo-electric device, or vibrating mesh; 
+
+ (F) Code E0575 describes a large volume ultrasonic nebulizer system that is used for medication and humidification delivery, and which is capable of continuous operation; 
+
+ (G) Code K0730 describes a controlled dose inhalation drug delivery system. Aerosol is delivered in pulses during the inspiration. The duration of each pulse is adapted according to the breathing pattern. 
+
+ (3) Documentation requirements: 
+
+ (a) When billing for an item in Table 122-0204, medical records shall corroborate that all criteria in this rule are met; 
+
+ (b) When billing for quantities of supplies greater than those described in Table 122-0204-1 as the usual maximum amounts, there shall be clear documentation in the client’s medical records corroborating the medical appropriateness of the current use; 
+
+ (c) When a  compressor/generator is dispensed for other uses, supporting documentation that justifies the medical appropriateness shall be on file with the durable medical equipment, prosthetics, orthotics, and supplies (DMEPOS) provider; 
+
+ (d) The DMEPOS provider shall maintain these medical records and make them available to the Division upon request. 
+
+ (4) Table 122-0204-1. 
+
+ (5) Table 122-0204-2. 
+
+ [ED. NOTE: Table referenced is available from the agency.] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042 & 414.065 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.065 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 39-2024, minor correction filed 01/25/2024, effective 01/25/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 4-2024, minor correction filed 01/04/2024, effective 01/04/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 101-2023, amend filed 12/29/2023, effective 01/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 11-2016, f. 2-24-16, cert. ef. 3-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 37-2008, f. 12-11-08, cert. ef. 1-1-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 12-2007, f. 6-29-07, cert. ef. 7-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 47-2006, f. 12-15-06, cert. ef. 1-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 25-2006, f. 6-14-06, cert. ef. 7-1-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 11-2005, f. 3-9-05, cert. ef. 4-1-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 94-2004, f. 12-30-04, cert. ef. 1-1-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 44-2004, f. & cert. ef. 7-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 32-2001, f. 9-24-01, cert. ef. 10-1-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 4-2001, f. 3-30-01, cert. ef. 4-1-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 37-2000, f. 9-29-00, cert. ef. 10-1-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

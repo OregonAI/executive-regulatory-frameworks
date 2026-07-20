@@ -1,0 +1,185 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Public Utility Commission 
+ Chapter 860 
+ 
+ 
+ 
+ 
+ 
+ Division 37 WASTEWATER SERVICE REGULATION FOR JOINT WATER/WASTEWATER UTILITIES 
+ 860-037-0010 
+ Definitions 
+ 
+ As used in this division:  (1) "Actual cost" means the direct cost of parts, materials, and labor of a specific item or project separated from indirect costs.  (2) "Applicant" means a person that:  (a) Applies for service with a wastewater utility; or  (b) Reapplies for service at a new or existing location after service has been discontinued.  (3) "Association" means an incorporated or unincorporated association of individuals or a homeowner association providing wastewater service, as defined in ORS 757.005.  (4) "Co-customer" means a person who meets the definition of "customer" and is jointly responsible with another person for payments for wastewater utility service on an account with the wastewater utility. If only one of the co-customers discontinues service in his/her name, the remaining co-customer shall retain customer status only if he/she reapplies for service in his/her own name within 20 days of such discontinuance, provided the wastewater utility contacts the co-customer or mails a written request for an application to the remaining co-customer within one business day of the discontinuance.  (5) "Commission" means the Public Utility Commission of Oregon.  (6) "Construction" includes installation of a new wastewater system or part thereof, or the alteration, repair, or extension of an existing wastewater system. The grading, excavation, and earth-moving work connected with installation, alteration, or repair of a system, or part thereof, is considered to be a part of the wastewater system construction.  (7) "Contributions in aid of construction" means any money, service, or property received by a wastewater utility for capital expenditures at no cost to the utility and with no obligation to repay the benefactor.  (8) "Cooperative" means a cooperative corporation as defined in ORS Chapter 62.  (9) "Cost-based" means the direct and indirect costs of a specific item or project, including overhead and a reasonable return on investment.  (10) "Customer" means any person, partnership, association, corporation, or governmental agency who has applied for, been accepted, and is currently receiving service unless otherwise noted. Notwithstanding section (2) of this rule, a customer who voluntarily terminates service and subsequently requests service with the same wastewater utility at a new or existing location within 20 days after disconnection retains customer status.  (11) "Customer service line" means that portion of the sewer pipe extending from the end of the utility service connection to the structure or premises to be served. The customer service line is purchased, installed, maintained, repaired, and replaced as necessary by the customer and at the customer’s expense.  (12) "DEQ" means the Oregon Department of Environmental Quality.  (13) "Domestic wastewater" means the water-carried human waste, together with such groundwater infiltration and surface water that may be present that flow to wastewater treatment facilities from residences, buildings, industrial establishments, or other places.  (14) "District" means a corporation as defined under ORS Chapter 553.  (15) "Emergency repair" means repair of a failing wastewater system when immediate action is necessary to relieve a situation in which sewage is backing up into a dwelling or building, or repair of a broken sewer pipe. It does not include the construction of new or additional installation, expansion, alteration, or repair of a system, or part thereof that does not constitute a public health hazard.  (16) "Failing system" means a failing wastewater system or any wastewater system that discharges untreated or incompletely treated sewage or septic tank effluent, directly or indirectly, onto the ground surface, public waters, dwellings, or buildings.  (17) "Formal complaint" means a written complaint filed with the Commission’s Administrative Hearings Division.  (18) "Industrial/commercial wastewater" means any liquid, gaseous, radioactive, or solid waste substance or a combination thereof resulting from any process of industry, manufacturing trade, business, or from the development or recovery of any natural resource.  (19) "Legal availability" means a wastewater system will be legally available for service if the system is not under a DEQ connection permit moratorium.  (20) "Lift or pump station" means any pump, structure, equipment, or device, used to lift sewage or effluent to a higher elevation. Lift stations are considered a part of the wastewater collection system.  (21) "Main line extension" means the extension of a main line to an area not previously served. If the main line extension is required at the request of a potential customer in order to receive service, the cost of such extension will comply with the wastewater utility's main line extension policy.  (22) "Pressure transport piping" means piping that conveys sewage or effluent under pressure into a common sewage system by means of a pump, siphon, or gravity.  (23) "Public health hazard" means a condition whereby there are sufficient types and amounts of biological, chemical, or physical agents, including radiological, relating to sewage that are likely to cause human illness, disorder, or disability, or it is probable that the public is exposed to disease-caused physical suffering or illness due to the presence of inadequately treated sewage. These include, but are not limited to, pathogens, viruses, bacteria, parasites, toxic chemicals, and radioisotopes.  (24) "Public utility" has the meaning given the term in ORS 757.005 and 757.061. The term does not include People’s Utility Districts (PUDs), municipalities, or cooperatives.  (25) "Registered dispute" means an unresolved issue between a customer or applicant and a wastewater utility that is under investigation by the Commission’s Consumer Services Section or Utility Division staff, but is not the subject of a formal complaint.  (26) "Service connection" means the physical connection of the utility service line and the customer service line and that portion of the sewer pipe extending from the sewer main line to the boundary line of the customer's property, easement, public road, or street under which the sewer main line is located.  (27) "System development charge (SDC) or fee" is the infrastructure charge to all potential customers by a wastewater utility prior to service being initiated. The SDC encompasses the total cost of the wastewater system proportionately allocated to all potential customers.  (28) "Utility" means any wastewater utility, except when a more limited scope is explicitly stated.  (29) "Utility service line" means that portion of the sewer pipe between the sewer main line and the customer's property line. The utility service line is purchased, installed, maintained, repaired, and replaced as necessary by the utility and at the utility's expense.  (30) "Wastewater" means sewage or the water-carried human or animal waste from residences, buildings, industrial establishments, or other places, together with such groundwater infiltration and surface water that may be present. The admixture of domestic and industrial waste or other by-products, such as sludge, is considered sewage.  (31) "Wastewater collection system" means all components including pipes, manholes, pumps, lift or pumping stations, and other components necessary to collect and transport domestic and/or industrial liquid waste from a community, individual, corporation, or entity that produces wastewater, sewage, or other waste treatable in a community or private wastewater treatment facility.  (32) "Wastewater service" means the collection, transportation, treatment, and disposal of wastewater for the public or any other beneficial or necessary purpose. Wastewater service does not include septic pumping.  (33) "Wastewater system" means any structure, equipment, or process required to collect, carry away, and treat sewage, including pipe or conduits, lift or pump stations, main lines, and other structures, devices, appurtenances, and facilities used for collecting, treating, or disposing of wastewater, or for collecting or conveying sewage to an ultimate point for treatment and disposal.  (34) "Wastewater treatment facilities" includes all pipes, pumps, canals, lagoons, plant, structures, and appliances, and other real estate, fixtures, and personal property owned, operated, and controlled or managed in connection with or to facilitate the collection, transport, treatment, and disposal of wastewater for the public, or any other beneficial or necessary purpose.  (35) "Wastewater treatment system" means any sewage treatment system. It includes all structures, facilities, equipment, or processes for treating, neutralizing, stabilizing, and/or disposing of domestic waste and sludge, including industrial waste discharged to sewage treatment works.  (36) "Wastewater utility" means all public water utilities as defined ORS 757.005 and 757.061 that also provide wastewater service inside the boundaries of a city, either directly or through an affiliate, regardless of the number of customers receiving water or wastewater service. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 183, 756 & 757 
+ 
+ 
+ Statutes/Other Implemented:  ORS 756.040, 756.105, 757.005 & 757.061 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 5-2004, f. & cert. ef. 1-29-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 6-2000, f. 4-18-00, cert. ef. 4-20-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 9-1999(Temp), f. 10-22-99, cert. ef. 10-23-99 thru 4-19-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

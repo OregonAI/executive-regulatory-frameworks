@@ -1,0 +1,244 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Secretary of State 
+ Elections Division - Chapter 165 
+ 
+ 
+ 
+ 
+ Division 7 CONDUCT OF ELECTIONS 
+ 165-007-0350 
+ Oregon Voting System Certification
+ 
+ 
+ (1) For purposes of this rule, “voting system” means either: 
+
+ (a) A “vote tally system,” as that term is defined in ORS 246.012(10); or 
+
+ (b) A “voting machine,” as that term is defined in ORS 246.012(11). 
+
+ (2) The Secretary of State shall certify a voting system for use in Oregon pursuant to ORS 246.550 through either of the following pathways: 
+
+ (a) Certification by the U.S. Election Assistance Commission (EAC) as meeting the Voluntary Voting System Guidelines (VVSG); or 
+
+ (b) Certification based on examination and testing by a federally accredited Voting System Testing Laboratory (VSTL). 
+
+ (3) A person or company applying for certification of a voting system in Oregon shall submit a complete Oregon Voting System Certification Application to the Secretary of State.  
+
+ (4) A complete Oregon Voting System Certification Application includes: 
+
+ (a) A Form SEL 675, initiating the certification process. 
+
+ (b) A VSTL Test Report prepared by a federally accredited VSTL, which must: 
+
+ (A) Clearly identify the VVSG version under which the voting system was tested; 
+
+ (B) Demonstrate that the scope of testing is consistent with and sufficient to evaluate compliance with the applicable VVSG version for that voting system, including all requirements relevant to the system’s architecture and functionality; and 
+
+ (C) Document, at a minimum, testing equivalent in scope to the applicable VVSG requirements. 
+
+ (c) For certification under paragraph 2(b) only, a completed Oregon Voting System Requirements Matrix, developed and maintained by the Secretary of State in consultation with the Oregon Association of County Clerks Equipment Certification Committee, which: 
+
+ (A) Identifies applicable Oregon-specific statutory, administrative, operational, security, accessibility, and usability requirements; 
+
+ (B) Indicates whether the voting system meets each requirement; and 
+
+ (C) For any requirement not met or identified by the vendor as not applicable to Oregon, provides a detailed explanation sufficient to allow meaningful evaluation. 
+
+ (5) The Secretary of State, in consultation with the Oregon Association of County Clerks Equipment Certification Committee, shall review the Oregon Voting System Certification Application to determine whether the voting system satisfies the applicable requirements in ORS 246.560 and is otherwise suitable for certification in Oregon. 
+
+ (6) Based on the materials submitted and the review conducted under this rule, the Secretary of State may: 
+
+ (a) Certify the voting system; 
+
+ (b) Certify the voting system with conditions or limitations; or 
+
+ (c) Deny certification. 
+
+ (7) If the Secretary of State certifies the voting system, with or without conditions or limitations, the Secretary shall issue a report that satisfies the requirements in ORS 256.550(3).  If the Secretary of State denies certification, the Secretary shall state the reasons for denial. 
+
+ (8) Certification of the voting system by the Secretary of State may occur only after a complete Oregon Voting System Certification Application has been received and the contents reviewed and assessed. The Secretary of State may require the submission of additional information to complete the review and assessment of the voting system. 
+
+ (9) All costs associated with VSTL testing, preparation of the Oregon Voting System Requirements Matrix, and any additional testing or documentation required by the Secretary of State shall be paid by the person or company presenting the voting system for certification. 
+
+ (10) The Oregon Voting System Certification Application, any additional information requested by the Secretary of State to complete the review and assessment of the voting system, and any documentation of the Secretary of State’s certification or denial will be posted publicly on the Secretary of State's website. 
+
+ (11) Any change or modification to a certified voting system must be reported in writing to the Secretary of State and may require additional examination, testing, or recertification. 
+
+ (12) This rule applies to applications for certification submitted on or after the effective date of this rule. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 246.150 
+ 
+ 
+ Statutes/Other Implemented:  ORS 246.550 & ORS 246.560 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ELECT 13-2026, amend filed 06/04/2026, effective 06/05/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ELECT 7-2015, f. & cert. ef. 10-29-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ELECT 6-2015, f. & cert. ef. 8-7-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

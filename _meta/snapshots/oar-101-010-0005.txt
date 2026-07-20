@@ -1,0 +1,547 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Employees' Benefit Board - Chapter 101 
+ 
+ 
+ 
+ 
+ Division 10 DEFINITIONS 
+ 101-010-0005 
+ Definitions
+ 
+ 
+ Unless the context indicates otherwise, as used in OAR chapter 101, divisions 1 through 60, the following definitions will apply: 
+(1) “ACA” means the Patient Protection and Affordable Care Act and regulations promulgated under the Act by any federal agencies as of the effective date of the amended rule, including but not limited to Shared Responsibility for Employers Regarding Health Coverage, 79 Fed. Reg. 8544 (Feb. 12, 2014). 
+(2) “Actively at work” for medical and dental insurance coverage means an active eligible employee at work, in paid status and scheduled for work during the month. Optional plan policies or plan certificates contain “actively at work” criteria specific to the individual plan. 
+(3) “Active Participation” in reference to a Flexible Spending Account (FSA) means an eligible employee currently enrolled in the plan and who each month deposits the required dollar contribution in the account. 
+(4) “Administrative Period” means ACA period of no longer than 90 days beginning immediately following the end of a Standard Measurement Period and no longer than 90 days beginning immediately following the end of an Initial Measurement Period and ending immediately before the start of the associated Stability Period. During this time period the employer completes administrative tasks, for example but not limited to, calculating measurement period hours, eligibility determination, providing the employee with enrollment materials. 
+(5) “Affidavit of Dependency” means a notarized document that attests a dependent child meets the criteria for a dependent child under OAR 101-015-0011. 
+(6) “Affidavit of Domestic Partnership” means a notarized document that attests the eligible employee and one other individual meet the criteria in OAR 101-015-0026(2). 
+(7) “Agency” means a PEBB participating organization such as an individual state of Oregon public agency, semi-independent agency, and individual OUS University. 
+(8) “Benefit amount” means the amount of money paid by a PEBB participating organization for the purchase of core benefit plans on behalf of active eligible employees. PEBB does not determine the benefit amount. 
+(9) “Benefit eligible” means an employee who has met the eligibility requirements of (18) of this rule and is eligible to enroll in PEBB core benefits and optional plans. 
+(10) “CBIW” means Continuation of Benefits for Injured Workers. 
+(11) “Certificate of Registered Domestic Partnership” means the certificate issued by an Oregon county clerk to two individuals of the same sex after they file a Declaration of Domestic Partnership with the county clerk. 
+(12) “COBRA” means the federal Consolidated Omnibus Reconciliation Act of 1985. 
+(13) “Core Benefits” means specific benefit plans that a PEBB employer may contribute a benefit amount towards the cost of the premiums for active eligible employees (e.g., medical, dental, vision, and employee basic term life coverage). 
+(14) “Commuter Accounts” means either a Transportation or Parking account as permitted under Commuter Benefits 26 CFR 1.132-9. This benefit allows benefit enrolled employees to contribute to one or both accounts on a pretax basis to pay for work-related commuting expenses. 
+(15) “Court Ordered” means it is an official proclamation by a judge (or panel of judges) that defines the legal relationship between the parties to a hearing, a trial, an appeal or other court proceedings. 
+(16) “Dependent Care Flexible Spending Account” or “Dependent Care FSA” means the Dependent Care Assistance Program (DCAP) that PEBB has adopted in accordance with section 129 of the Internal Revenue Code. 
+(17) “Dependent child” means a child that satisfies the conditions of OAR 101-015-0011, as applicable. 
+(18) “Domestic partner” means an eligible employee’s partner in a registered domestic partnership under Chapter 99 Oregon Laws 2007 or unmarried partner of the same or opposite sex that meets the requirements as outlined in OAR 101-015-0026(2). 
+(19) “Eligible employee” means an individual eligible to enroll in PEBB plan benefits by reason of his or her employment with a PEBB-participating employer, and includes: 
+(a) “Active eligible employee” means an employee of a PEBB participating employer, including a state official, in an exempt, unclassified, classified, or management service position who works at least half-time or in a position classified as job share and is expected to work at least 90 days. The term active eligible employee can apply to an employee in an initial or standard measurement period, or in a stability period, and includes: 
+(A) A permanent employee who is appointed to a permanent position (as defined by OAR 105-010-0000(40)) that is a benefit eligible position, including but not limited to a full time, half-time, job share, or seasonal position; or 
+(B) A temporary or impermanent worker who is not appointed to a permanent position, but by following the ACA regulations and policy for full time employees, becomes benefit eligible on a specific date after appointment due to work expectations or becomes benefit eligible following an initial measurement period. 
+(b) “Retired eligible employee” means a previously active eligible employee, who meets retiree eligibility as defined in OAR 101-050-0005. A retired eligible employee can enroll in PEBB retiree benefit plans as established in Division 50 of this chapter, and must self-pay the premiums. 
+(c) “Other eligible employee” means an individual of a specific self-pay group as established by ORS 243.140 and 243.200. These groups are eligible only for medical or dental benefits as approved by PEBB. 
+(20) “Family member” means a spouse, domestic partner, or a qualifying child. 
+(21) “FMLA” means the federal Family Medical Leave Act. 
+(22) “FTE” means full time equivalent job position. 
+(23) “Grandchild Affidavit” means a notarized document that attests a grandchild of an eligible employee, spouse, or domestic partner meets the eligibility criteria for PEBB grandchild coverage as defined in OAR 101-015-0011(1)(C). 
+(24) “Half-time” means an eligible employee who works less than full time but at least: 
+(a) Eighty paid regular hours per month; or 
+(b) 0.5 FTE for unclassified OUS employees; or 
+(c) Eighty paid hours per month and is employed at a minimum of .5 FTE, for Oregon Judicial Department employees; or 
+(d) As defined by collective bargaining. 
+(25) “Health Flexible Spending Account” or “Health FSA” means the health flexible spending arrangement that PEBB has adopted in accordance with the Internal Revenue Code. 
+(26) “Imputed value” means a dollar amount established yearly for an insurance premium at fair market value. The IRS or the Oregon Department of Revenue may view the imputed value as taxable income. The imputed value dollar amount is added to the eligible employee’s taxable wages. 
+(27) “Ineligible individual” means an individual who does not meet the definition of an eligible employee, spouse, domestic partner, or dependent child as defined in PEBB administrative rules. 
+(28) “Job share” means two eligible employees sharing one full time equivalent position. Each eligible employee’s percentage of the total position determines the benefit amount the employee receives. The monthly benefit percentage amount remains the same regardless of each individual’s hours worked per month. Job share employees may not donate their portion of the benefit amount to the job share co-worker. 
+"Example: John and Jill share one full time equivalent position. When they were hired into the position in July, John's percentage of the total position was 40 percent. Jill's percentage was 60 percent. John worked 70 percent of the available hours in September. John's benefit amount percentage for September remains at 40 percent. Jill's benefit amount percentage remains at 60 percent." 
+ (29) “Local Government” means cities, counties and special districts in Oregon. 
+ (30) “Measurement Period” means the required ACA look-back period during which hours are calculated to determine if an employee has averaged at least 30 hours per week. There are two types of measurement periods: 
+(a) “Standard Measurement Period” means the twelve (12) consecutive month period starting November 1 and ending October 31. 
+(b) “Initial Measurement Period” means the twelve (12) consecutive month period starting with the first day of the employee’s employment. 
+(31) “Members” means and includes the following: 
+ (a) “Eligible employee as defined by OAR 101-010-0005 (19) 
+(b) “Dependent child” as defined by OAR 101-010-0005 (17) 
+(c) “Domestic partner” as defined by OAR 101-010-0005 (18) 
+(d) “Spouse” as defined by OAR 101-010-0005 (46) 
+ (32) “Midyear plan change event” means an event that provides an eligible employee an exception to the general plan year irrevocability rule that applies to PEBB benefit plan elections. Not all events allow changes to all plans, only enrollment changes that are consistent with the event are allowed. Permissible midyear events fall into three broad groups with allowable subgroups. The broad groups are: 
+(a) Change in status, 
+(b) Cost or coverage changes; or 
+(c) Other laws or court orders. 
+(33) “OFLA” means the Oregon Family Leave Act. 
+(34) “OSPS” means the Oregon State Payroll System. 
+(35) “OUS” means the Oregon University System. 
+(36) “Open enrollment period” means an annual period chosen by PEBB when both active and other eligible employees and COBRA participants can make benefit plan changes or elections for the next plan year. 
+(37) “Optional plans” means, but is not limited to: 
+(a) Dependent life insurance; 
+(b) Employee, spouse, or domestic partner optional life insurance; 
+(c) Accidental Death & Dismemberment (AD&D) insurance; 
+(d) Short Term Disability insurance; 
+(e) Long Term Disability insurance; 
+(f) Flexible Spending Accounts (Health and Dependent Care); 
+(g) Long Term Care insurance; and 
+(h) Commuter Accounts (Transportation and Parking) 
+(38) “Paid regular status” means in current payroll status, and receiving payment for work time. Paid regular status includes the use of vacation, sick, holiday, personal leave accruals, compensatory time, or other employer approved status such as furlough. 
+(39) “PEBB benefits” means the electronic benefit management system sponsored by PEBB. The system allows electronic enrollment and termination of an eligible individual’s benefit plans, personal information updates, and the transmittal of data to plans, payroll centers, and third party administrators. 
+(40) “PEBB participating organization” means a state agency, board, commission, university, or other entity that receives approval to participate in PEBB benefit plans. 
+(41) “Plan change period” means a period chosen by PEBB when retirees can make limited benefit plan changes. 
+(42) “Plan year” means a period of twelve consecutive months. PEBB’s plan year is a calendar year. 
+(43) “Qualified status change” (QSC) means a midyear change event generally associated with a family change or a work status change that affects plan eligibility. Plan changes are allowed when consistent with the event. 
+(44) “Rescission” means a cancellation or discontinuance of coverage that has a retroactive effect. A cancellation or discontinuation of coverage that is prospective only, or one that is effective retroactively but is attributable to nonpayment of premiums or contributions, is not a rescission. 
+(45) “Reinstate” means to reactivate previous benefits and enrollments, if available, to an eligible employee returning to eligible status within a specific time frame. Reinstated enrollment does not include FSAs, Long Term Care or Commuter plans. 
+(46) “Spouse” means an individual who is legally married. A marriage or a relationship recognized as a legal marriage between two individuals in Oregon, or another state or foreign country, will be recognized in Oregon even though such a relationship would not be a marriage if the same facts had been relied upon to create the marriage in Oregon. The definition of spouse does not include a former spouse and a former spouse does not qualify as a dependent. 
+(47) “Stability Period” means the twelve (12) consecutive month period that immediately follows a Standard Measurement Period or an Initial Measurement Period, and, the Administrative Period associated with that Standard Measurement Period or Initial Measurement Period. An employee remains benefit eligible for the duration of a given stability period if the employee had an average of 30 hours of service per week, or 130 hours per month, for the duration of the measurement period immediately preceding the stability period. 
+(a) The stability period following a standard measurement period begins on January 1 of the year after the standard measurement period ends, and ends on December 31 of that year. 
+(b) The stability period following an initial measurement period begins on the first day of the second full calendar month after the date on which the initial measurement period ends. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 243.061 - 243.302 
+ 
+ 
+ Statutes/Other Implemented:  ORS 243.125 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PEBB 3-2019, amend filed 07/10/2019, effective 07/10/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PEBB 1-2019, temporary amend filed 01/16/2019, effective 01/16/2019 through 07/14/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PEBB 5-2018, amend filed 08/15/2018, effective 08/15/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PEBB 2-2018, temporary amend filed 02/16/2018, effective 02/16/2018 through 08/14/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PEBB 2-2017, f. & cert. ef. 8-17-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PEBB 1-2015, f. & cert. ef. 5-12-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PEBB 3-2014(Temp), f. & cert. ef. 11-12-14 thru 5-10-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PEBB 2-2014(Temp), f. & cert. ef. 6-9-14 thru 12-5-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PEBB 1-2013, f. & cert. ef. 9-24-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PEBB 7-2010, f. 12-10-10, cert. ef. 1-1-11 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ Reverted to PEBB 3-2009, f. 9-29-09 cert. ef. 10-1-09 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PEBB 1-2010(Temp), f. & cert. ef. 6-1-10 thru 11-28-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PEBB 3-2009, f. 9-29-09 cert. ef. 10-1-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PEBB 2-2008, f. & cert. ef. 8-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PEBB 1-2008(Temp), f. & cert. ef. 2-4-08 thru 8-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PEBB 2-2007, f. 9-28-07, cert. ef. 10-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PEBB 1-2007(Temp), f. & cert. ef. 6-11-07 thru 12-8-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PEBB 2-2006(Temp), f. & cert. ef. 12-14-06 thru 6-12-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PEBB 3-2005, f. 8-31-05, cert. ef. 9-1-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PEBB 3-2004, f. & cert. ef. 10-7-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PEBB 1-2004, f. & cert. ef. 7-2-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PEBB 1-2003, f. & cert. ef. 12-4-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PEBB 1-2002, f. 7-30-02, cert. ef. 8-1-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PEBB 1-2001, f. & cert. ef. 9-6-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PEBB 1-2000, f. 11-15-00, cert. ef. 1-1-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PEBB 1-1999, f. 12-8-99, cert. ef. 1-1-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

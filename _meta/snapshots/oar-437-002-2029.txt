@@ -1,0 +1,236 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Oregon Occupational Safety and Health Division - Chapter 437 
+ 
+ 
+ 
+ 
+ Division 2 GENERAL OCCUPATIONAL SAFETY AND HEALTH RULES 
+ 437-002-2029 
+ Methods of Compliance
+ 
+ 
+ This rule describes the engineering and work practice controls you must use. 
+
+ (1) Establish and implement a written exposure control plan that contains at least the following elements: 
+
+ (a) A list of operations and job titles reasonably expected to involve airborne exposure to or dermal contact with beryllium; 
+
+ (b) A list of operations and job titles reasonably expected to involve airborne exposure at or above the action level; 
+
+ (c) A list of operations and job titles reasonably expected to involve airborne exposure above the TWA PEL or STEL; 
+
+ (d) Procedures for minimizing cross-contamination; 
+
+ (e) A list of engineering controls, work practices, and respiratory protection required by this subdivision; 
+
+ (f) A list of personal protective clothing and equipment required by 437-002-2045 of this subdivision; and 
+
+ (g) Procedures for removing, laundering, storing, cleaning, repairing, and disposing of beryllium-contaminated personal protective clothing and equipment, including respirators. 
+
+ (2) On fixed sites, the exposure control plan must also include: 
+
+ (a) Procedures for keeping surfaces as free as practicable of beryllium; 
+
+ (b) Procedures for preventing the transfer of beryllium between surfaces, equipment, clothing, materials, and articles within beryllium work areas; and 
+
+ (c) Procedures for minimizing the migration of beryllium from beryllium work areas to other locations within or outside the workplace. 
+
+ (3) Review and evaluate the effectiveness of each written exposure control plan at least annually and update it, as necessary, when: 
+
+ (a) Any change in production processes, materials, equipment, personnel, work practices, or control methods results, or can reasonably be expected to result, in new or additional airborne exposure to beryllium; 
+
+ (b) You are notified that an employee is eligible for medical removal in accordance with OAR 437-002-2035, referred for evaluation at a CBD diagnostic center, or shows signs or symptoms associated with airborne exposure to or dermal contact with beryllium; or 
+
+ (c) You have any reason to believe that new or additional airborne exposure is occurring or will occur. 
+
+ (4) Make a copy of the written exposure control plan accessible to each employee who is, or can reasonably be expected to be, exposed to airborne beryllium in accordance with Oregon OSHA's Access to Employee Exposure and Medical Records (Records Access) rule ( § 1910.1020(e)). 
+
+ (5) Engineering and work practice controls. 
+
+ (a) For each operation in a beryllium work area that releases airborne beryllium, and where exposures are, or can reasonably be expected to be, at or above the action level, ensure that at least one of the following is in place to reduce airborne exposure: 
+
+ (A) Material and/or process substitution; 
+
+ (B) Isolation, such as ventilated partial or full enclosures; 
+
+ (C) Local exhaust ventilation, such as at the points of operation, material handling, and transfer; or 
+
+ (D) Process control, such as wet methods and automation. 
+
+ (b) You are exempt from using the controls listed above to the extent that: 
+
+ (A) You can establish that such controls are not feasible; or 
+
+ (B) You can demonstrate that airborne exposure is below the action level, using no fewer than two representative personal breathing zone samples taken at least 7 days apart, for each affected operation. 
+
+ (c) If airborne exposure exceeds the PEL or STEL after implementing the control(s) required by paragraph (5)(a) of this rule, implement additional or enhanced engineering and work practice controls to reduce airborne exposure to or below the exposure limit(s) exceeded. 
+
+ (d) When you demonstrate that it is not feasible to reduce airborne exposure to or below the PELs by the engineering and work practice controls required by this rule, implement and maintain engineering and work practice controls to reduce airborne exposure to the lowest levels feasible and supplement these controls by using respiratory protection in accordance with OAR 437-002-2030. 
+
+ (6) Prohibition of rotation. Do not rotate employees to different jobs to achieve compliance with the PELs. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 654.025(2) & 656.726(4) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 654.001 – 654.295 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSHA 1-2018, amend filed 03/12/2018, effective 03/12/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OSHA 3-2017, f. 7-7-17, cert. ef. 3-12-18 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

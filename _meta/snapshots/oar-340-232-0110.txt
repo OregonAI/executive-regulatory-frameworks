@@ -1,0 +1,254 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 232 EMISSION STANDARDS FOR VOC POINT SOURCES 
+ 340-232-0110 
+ Loading Gasoline and Volatile Organic Liquids onto Marine Tank Vessels
+ 
+ 
+ (1) Applicability. This rule applies to loading events at any location within the Portland ozone air quality maintenance area when a liquid product identified in subsection (a) or (b), as applicable, is placed into a marine tank vessel cargo tank; or where any liquid is placed into a marine tank vessel cargo tank that had previously held a liquid product identified in subsection (a) or (b), as applicable. The owner or operator of each marine terminal and marine tank vessel is responsible for and must comply with this rule. 
+
+ (a) Prior to July 1, 2018, liquid product means gasoline; 
+
+ (b) On and after July 1, 2018, liquid product means all of the following: 
+
+ (A) Gasoline; 
+
+ (B) Any other volatile organic liquid with a Reid vapor pressure of 27.6 kPa (4.0 psi) or more; and 
+
+ (C) Any other organic liquid if the liquid is purposely heated, the liquid temperature is 110 degrees Fahrenheit or more at the time of loading, and the liquid has a Reid vapor pressure of 20.7 kPa (3.0 psi) or more. 
+
+ (2) Exemptions. The following activities are exempt from the marine vapor control emission limits of this rule: 
+
+ (a) Marine vessel bunkering; 
+
+ (b) Lightering when neither vessel is berthed at a marine terminal dock, 
+
+ (c) Loading when both of the following conditions are met: 
+
+ (A) The vessel has been gas freed (regardless of the prior cargo), and 
+
+ (B) When loading any products other than a liquid product identified in subsection (1)(a) or (1)(b), as applicable; and 
+
+ (d) Loading organic liquids that are stored in pressurized tanks, such as but not limited to liquefied natural gas, liquefied petroleum gas, butane and propane. 
+
+ (3) Vapor Collection System. The owner or operator of a marine terminal subject to this rule must equip each loading berth with a vapor collection system that is designed to collect all displaced VOC vapors during the loading of marine tank vessels. The owner or operator of a marine tank vessel subject to this rule must equip each marine tank vessel with a vapor collection system that is designed to collect all displaced VOC vapors during the loading of marine tank vessels. The collection system must be designed such that all displaced VOC vapors collected during any loading event are vented only to the control device. 
+
+ (4) Marine Vapor Control Emission Limits. Vapors that are displaced and collected during marine tank vessel loading events must be reduced from the uncontrolled condition by at least 95 percent by weight, as determined by EPA Method 25 or other methods approved under OAR 340-212-0140, or limited to 5.7 grams per cubic meter (2 pounds per 1000 barrels) of liquid loaded. 
+
+ (5) Operating Practice and Maintenance. 
+
+ (a) All hatches, pressure relief valves, connections, gauging ports and vents associated with the loading of liquid product identified in subsection (1)(a) or (1)(b), as applicable, into marine tank vessels must be maintained to be leak free and vapor tight. 
+
+ (b) The owner or operator of any marine tank vessel must certify to DEQ that the vessel is leak free, vapor tight, and in good working order based on an annual inspection using EPA Method 21 or other method approved under OAR 340-212-0140. 
+
+ (c) Gaseous leaks must be detected using EPA Method 21 or other methods approved under OAR 340-212-0140. 
+
+ (d) Loading must cease anytime gas or liquid leaks are detected. Loading may continue only after leaks are repaired or if documentation is provided to DEQ that the repair of leaking components is technically infeasible without dry-docking the vessel or cannot otherwise be undertaken safely. Subsequent loading events involving the leaking components are prohibited until the leak is repaired. Any liquid or gaseous leak detected by DEQ staff is a violation of this rule. 
+
+ (6) Monitoring and recordkeeping. Marine terminal operators must maintain operating records for at least five years of each loading event at their terminal. Marine tank vessel owners and operators are responsible for maintaining operating records for at least five years for all loading events involving each of their vessels. Records must be made available to DEQ upon request. These records must include but are not limited to: 
+
+ (a) The location of each loading event. 
+
+ (b) The date of arrival and departure of the vessel. 
+
+ (c) The name, registry and legal owner of each marine tank vessel participating in the loading event. 
+
+ (d) The type and amount of liquid product loaded into the marine tank vessel. 
+
+ (e) The prior cargo carried by the marine tank vessel. If the marine tank vessel has been gas freed, then the prior cargo can be recorded as gas freed. 
+
+ (f) The description of any gaseous or liquid leak, date and time of leak detection, leak repair action taken and screening level after completion of the leak repair. 
+
+ (7) Lightering exempted from controls by subsection (2)(b) must be curtailed from 2:00 a.m. until 2:00 p.m. when DEQ declares a Clean Air Action day. If DEQ declares a second clean air action day before 2:00 p.m. of the first curtailment period, then such uncontrolled lightering must be curtailed for an additional 24 hours until 2:00 p.m. on the second day. If a third clean air action day in a row is declared, then uncontrolled lightering is permissible for a 12-hour period starting at 2 p.m. on the second clean air action day and ending at 2 a.m. on the third clean air action day. Uncontrolled lightering must be curtailed from 2 a.m. until 2 p.m. on the third clean air action day. If DEQ continues to declare clean air action days consecutively after the third day, the curtailment and loading pattern used for the third clean air action day will apply. 
+
+ (8) Safety/Emergency Operations. Nothing in this rule is intended to: 
+
+ (a) Require any act or omission that would be in violation of any regulation or other requirement of the United States Coast Guard; or 
+
+ (b) Prevent any act that is necessary to secure the safety of a vessel or the safety of passengers or crew. 
+
+ [NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.] 
+
+ [NOTE: View a PDF of  referenced EPA Methods by clicking on “Tables” link below OAR 340-232-8010.] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  468.020, 468A.025, 468A.035 & 468A.070 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468A.025 & 468A.070 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 13-2019, amend filed 05/16/2019, effective 05/16/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 7-2015, f. & cert. ef. 4-16-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 2-2000, f. 2-17-00, cert. ef. 6-1-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

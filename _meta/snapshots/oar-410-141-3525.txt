@@ -1,0 +1,286 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 141 OREGON HEALTH PLAN 
+ 410-141-3525 
+ Outcome and Quality Measures 
+ 
+ (1) Managed Care Entities (MCEs) shall report to the Authority its health promotion and disease prevention activities, national accreditation organization results, and Healthcare Effectiveness Data and Information Set (HEDIS) measures as required by DCBS in OAR 836-053-1000. A copy of the reports may be provided to the Authority's Performance Improvement Coordinator concurrent with any submission to DCBS. 
+
+ (2) The MCE shall inform the Authority if it has been accredited by a private independent accrediting entity. If the MCE has been so accredited, the MCE shall authorize the private independent accrediting entity to provide the Authority a copy of its most recent accreditation review in accordance with CFR 42 CFR §438.332. 
+
+ (3) As required by health system transformation, MCEs shall be accountable for performance on outcomes, quality, and efficiency measures incorporated into the MCE's contract with the Authority. Measures are selected by the Authority with the incentive measures specifically adopted by the Metrics and Scoring Committee using a public process. Information can be requested from the Authority or viewed online at the Metrics and Scoring Committee website located at https://www.oregon.gov/oha/HPA/ANALYTICS/Pages/CCO-Metrics.aspx. 
+
+ (4) MCEs shall address objective outcomes, quality measures, and benchmarks for ambulatory care, inpatient care, behavioral health care, dental services, HRSN Services and all other health services provided by or under the responsibility of the MCE as specified in the MCE's contract with the Authority and federal external quality review requirements in CFR 42 §438.350, §438.358, and §438.364. 
+
+ (5) MCEs shall implement an ongoing comprehensive quality assessment and performance improvement program (QAPI) for monitoring, evaluating, and improving the access, quality, and appropriateness of services provided to members consistent with the needs and priorities identified in the MCE's community health assessment, community health improvement plan, and the standards in the MCE's contract. This process shall include an internal Quality Improvement (QI) program with written criteria based on written policies, evidenced-based practice guidelines, standards and procedures that are in accordance with the requirements set forth in 42 CFR §438.330, relevant law and the community standards for care, or in accordance with accepted medical practice, whichever is applicable, and with accepted professional standards. MCEs shall have in effect mechanisms to: 
+
+ (a) Detect both underutilization and overutilization of services; 
+
+ (b) Evaluate performance and customer satisfaction consistent with MCE contractual requirements, relevant Oregon Administrative Rules, and provide documentation of implementation of interventions to achieve improvement in the access to and quality of care to the Authority and the Authority contracted External Quality Review Organization (EQRO); 
+
+ (c) Evaluate grievance, appeals, and contested case hearings consistent with OAR 410-141-3890 through 410-141-3915; 
+
+ (d) Assess the quality and appropriateness of coordinated care services provided to all members with identified special health care needs including those who are aged, blind, or disabled or who have high health care needs, multiple chronic conditions, behavioral health disorders; who receive Medicaid funded long-term care or long-term services and supports benefits; or who are children receiving Child Welfare services or OYA services; and 
+
+ (e) Report on the diversity and capacity of the workforce in their service area including capacity to provide services in a culturally responsive and trauma informed manner, appropriately relying on workforce data provided by the Authority; 
+
+ (f) Undertake performance improvement projects that are designed to improve the access, quality and utilization of services. Projects must be designed to achieve significant improvement in health outcomes and member satisfaction. 
+
+ (6) MCEs shall implement policies and procedures that assure the timely collection of data including health disparities and other data required by rule or contract (or both) that allows the MCE to conduct and report on its outcome and quality measures and report its performance. MCEs shall submit to the Authority the MCE's annual written evaluation of outcome and quality measures established for the MCE or other reports as the Authority may require in response to the measures adopted by the Metrics and Scoring Committee; including but not limited to output from Electronic Health Records, Chart Reviews, Claim validation reports and other materials required for final assessment of relevant measures and within established deadlines. 
+
+ (7) MCEs shall adopt practice guidelines consistent with 42 CFR § 438.236 and the MCE contract that addresses assigned contractual responsibilities for physical health care, behavioral health care, and/or dental services ; goals to increase care coordination with other MCEs, the state, or other providers as outlined in OAR 410-141-0160 and 410-141-3860; and concerns identified by members or their representatives and to implement changes that have a favorable impact on health outcomes and member satisfaction in consultation with its community advisory council or clinical review panel. 
+
+ (8) MCEs shall be accountable for both core and transformational measures of quality and outcomes: 
+
+ (a) Core measures shall be triple-aim oriented measures that gauge MCE performance against key expectations for care coordination, consumer satisfaction, quality, and outcomes. The measures shall be uniform across MCEs and shall encompass the range of services included in MCE global budgets (e.g., behavioral health, hospital care, women's health). Core measures may be defined as typical standardized medical-centric measures such as The National Committee of for Quality Assurance's (NCQAs) Electronic Clinical Quality Measures (eCQM) and Healthcare Effectiveness Data and Information Set (HEDIS) that have state or national normative statistics; 
+
+ (b) Transformational metrics shall assess MCE progress toward the broad goals of health system transformation. This subset may include newer kinds of indicators (for which MCEs have less measurement experience) or indicators that entail collaboration with other care partners, such as social service agencies or other community support services. Additional areas of transformational measures may include culturally informed care, health equity or Flexible Services (per OAR 410-141-3845) not typically associated with medical care. Transformational metrics shall also require cooperation from MCEs for pilot or demonstration activities as these newly formed measures are developed over time. Development of different evaluation criteria for acceptance by the metrics selection committees for use by MCEs may also be necessary for transformational metrics. 
+
+ (9) MCEs shall provide the required data to the All Payer All Claims data system established in ORS 442.372 and 442.373 and the MCE agreement in the manner authorized by OAR 409-025-0130. 
+
+ (10) The positions of Medical or Dental Director and the QI Coordinator shall have the qualifications, responsibility, experience, authority, and accountability necessary to assure compliance with this rule. MCEs shall designate a QI Coordinator who shall develop and coordinate systems to facilitate the work of the QI Committee. The QI Coordinator is generally responsible for the operations of the QI program and must have the management authority to implement changes to the QI program as directed by the QI Committee. The QI Coordinator shall be qualified to assess the care of Authority members including those who are eligible for intensive care coordination (ICC) services under OAR 410-141-3870 or shall be able to retain consultation from individuals who are qualified. 
+
+ (11) MCEs shall establish a QI Committee that shall meet at least every two months. The Committee shall retain authority and accountability to the Board of Directors for the assurance of quality of care. Committee membership shall include, but is not limited to, the Medical or Dental Director, the QI Coordinator, and other health professionals who are representative of the scope of the services delivered. If any QI functions are delegated, the QI Committee shall maintain oversight and accountability for those delegated functions. The QI Committee shall: 
+
+ (a) Approve the MCE annual quality strategy and retain oversight and accountability of quality efforts and activities performed by other MCE committees including the following: implementation of the annual quality strategy, a work plan that incorporates implementation of system improvements, and an internal utilization review oversight committee that monitors utilization against practice guidelines and Treatment Planning protocols and policies; 
+
+ (b) Record and produce dated minutes of Committee deliberations. Document recommendations regarding corrective actions to address issues identified through the QI Committee review process, and review of results, progress, and effectiveness of corrective actions recommended at previous meetings. These records and minutes shall be made available to relevant Authority quality staff, upon request; 
+
+ (c) MCEs shall conduct and submit to the Authority an annual written evaluation of the QI Program and of member care as measured against the written procedures and protocols of member care. The evaluation of the QAPI program and member care is to include an assessment of annual activities conducted which includes background and rationale, a plan of ongoing improvement activities to address gaps which shall ensure quality of care for MCE members and overall effectiveness of the QI program. MCEs shall submit their evaluations to the Authority contracted External Quality Review Organization (EQRO). The MCEs shall follow the Transformation and Quality Strategy as outlined in the MCE contract for the QAPI and transformational care annual evaluation criteria; 
+
+ (d) Conduct a quarterly review and analysis of all complaints and appeals received including a focused review of any persistent and significant member complaints and appeals as required in OAR 410-141-3915; 
+
+ (e) Review written procedures, protocols and criteria for member care no less than every two (2) years, or more frequently as needed to maintain currency with clinical guidelines and administrative principles. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042, 414.572, 414.591 & 414.605 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.570 - 414.686 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 94-2025, amend filed 12/22/2025, effective 01/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 35-2024, amend filed 01/22/2024, effective 01/22/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 98-2023, amend filed 12/28/2023, effective 01/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 89-2022, amend filed 12/16/2022, effective 01/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 62-2020, amend filed 12/16/2020, effective 01/01/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 55-2019, adopt filed 12/17/2019, effective 01/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

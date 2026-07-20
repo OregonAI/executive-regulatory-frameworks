@@ -1,0 +1,359 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Insurance Regulation - Chapter 836 
+ 
+ 
+ 
+ 
+ Division 12 CREDIT FOR REINSURANCE 
+ 836-012-0046 
+ Credit for Reinsurance – Certified Reinsurers 
+ 
+ (1) Pursuant to ORS 731.511, the director shall allow credit for reinsurance ceded by a domestic insurer to an assuming insurer that has been certified as a reinsurer in this state at all times for which statutory financial statement credit for reinsurance is claimed under this rule. The credit allowed shall be based upon the security held by or on behalf of the ceding insurer in accordance with a rating assigned to the certified reinsurer by the director. The security shall be in a form consistent with ORS 731.510 and 731.511 and OAR 836-012-0070, 836-012-0080, or 836-012-0090. The amount of security required in order for full credit to be allowed shall correspond with the following requirements: 
+
+ (a) Ratings Security Required 
+
+ 
+ Secure – 1            0% 
+
+ Secure – 2          10% 
+
+ Secure – 3          20% 
+
+ Secure – 4          50% 
+
+ Secure – 5          75% 
+
+ Vulnerable – 6   100% 
+ 
+
+ (b) Affiliated reinsurance transactions shall receive the same opportunity for reduced security requirements as all other reinsurance transactions. 
+
+ (c) The director shall require the certified reinsurer to post 100 percent, for the benefit of the ceding insurer or its estate, security upon the entry of an order of rehabilitation, liquidation or conservation against the ceding insurer. 
+
+ (d) In order to facilitate the prompt payment of claims, a certified reinsurer shall not be required to post security for catastrophe recoverables for a period of one year from the date of the first instance of a liability reserve entry by the ceding company as a result of a loss from a catastrophic occurrence as recognized by the director. The one year deferral period is contingent upon the certified reinsurer continuing to pay claims in a timely manner. Reinsurance recoverables for only the following lines of business as reported on the NAIC annual financial statement related specifically to the catastrophic occurrence will be included in the deferral: 
+
+ (A) Line 1: Fire 
+
+ (B) Line 2: Allied Lines 
+
+ (C) Line 3: Farmowners multiple peril 
+
+ (D) Line 4: Homeowners multiple peril 
+
+ (E) Line 5: Commercial multiple peril 
+
+ (F) Line 9: Inland Marine 
+
+ (G) Line 12: Earthquake 
+
+ (H) Line 21: Auto physical damage 
+
+ (e) Credit for reinsurance under this rule shall apply only to reinsurance contracts entered into or renewed on or after the effective date of the certification of the assuming insurer. Any reinsurance contract entered into prior to the effective date of the certification of the assuming insurer that is subsequently amended after the effective date of the certification of the assuming insurer, or a new reinsurance contract, covering any risk for which collateral was provided previously, shall only be subject to this rule with respect to losses incurred and reserves reported from and after the effective date of the amendment or new contract. 
+
+ (f) Nothing in this rule shall prohibit the parties to a reinsurance agreement from agreeing to provisions establishing security requirements that exceed the minimum security requirements established for certified reinsurers under this rule. 
+
+ (2) Certification Procedure. 
+
+ (a) The director shall post notice on the Division of Financial Regulation's website promptly upon receipt of any application for certification, including instructions on how members of the public may respond to the application. The director may not take final action on the application until at least 30 days after posting the notice required by this subsection. 
+
+ (b) The director shall issue written notice to an assuming insurer that has made application and been approved as a certified reinsurer. Included in such notice shall be the rating assigned the certified reinsurer in accordance with section (1) of this rule. The director shall publish a list of all certified reinsurers and their ratings. 
+
+ (c) In order to be eligible for certification, the assuming insurer shall meet the following requirements: 
+
+ (A) The assuming insurer must be domiciled and licensed to transact insurance or reinsurance in a qualified jurisdiction, as determined by the director pursuant to section (3) of this rule; 
+
+ (B) The assuming insurer must maintain capital and surplus, or its equivalent, of no less than $250,000,000 calculated in accordance with paragraph (d)(H) of this section. This requirement may also be satisfied by an association including incorporated and individual unincorporated underwriters having minimum capital and surplus equivalents (net of liabilities) of at least $250,000,000 and a central fund containing a balance of at least $250,000,000; and 
+
+ (C) The assuming insurer must maintain financial strength ratings from two or more rating agencies deemed acceptable by the director. These ratings shall be based on interactive communication between the rating agency and the assuming insurer and shall not be based solely on publicly available information. These financial strength ratings will be one factor used by the director in determining the rating that is assigned to the assuming insurer. Acceptable rating agencies include the following: 
+
+ (i) Standard & Poor’s; 
+
+ (ii) Moody’s Investors Service; 
+
+ (iii) Fitch Ratings; 
+
+ (iv) A.M. Best Company; or 
+
+ (v) Any other nationally recognized statistical rating organization. 
+
+ (D) The certified reinsurer must comply with any other requirements reasonably imposed by the director. 
+
+ (d) Each certified reinsurer shall be rated on a legal entity basis, with due consideration being given to the group rating where appropriate, except that an association including incorporated and individual unincorporated underwriters that has been approved to do business as a single certified reinsurer may be evaluated on the basis of its group rating. Factors that may be considered as part of the evaluation process include, but are not limited, to the following: 
+
+ (A) The certified reinsurer’s financial strength rating from an acceptable rating agency. The maximum rating that a certified reinsurer may be assigned will correspond to its financial strength rating as outlined in the table below. The director shall use the lowest financial strength rating received from an approved rating agency in establishing the maximum rating of a certified reinsurer. A failure to obtain or maintain at least two financial strength ratings from acceptable rating agencies will result in loss of eligibility for certification; 
+
+ 
+ Table 1 
+ 
+
+ (B) The business practices of the certified reinsurer in dealing with its ceding insurers, including its record of compliance with reinsurance contractual terms and obligations; 
+
+ (C) For certified reinsurers domiciled in the United States, a review of the most recent applicable NAIC Annual Statement Blank, either Schedule F (for property/casualty reinsurers) or Schedule S (for life and health reinsurers); 
+
+ (D) For certified reinsurers not domiciled in the United States, a review annually of Form CR-F for property/casualty reinsurers (Exhibit 3, OAR 836-012-0000) or Form CR-S for life/health reinsurers (Exhibit 4, OAR 836-012-0000); 
+
+ (E) The reputation of the certified reinsurer for prompt payment of claims under reinsurance agreements, based on an analysis of ceding insurers’ Schedule F reporting of overdue reinsurance recoverables, including the proportion of obligations that are more than 90 days past due or are in dispute, with specific attention given to obligations payable to companies that are in administrative supervision or receivership; 
+
+ (F) Regulatory actions against the certified reinsurer; 
+
+ (G) The report of the independent auditor on the financial statements of the insurance enterprise, on the basis described in paragraph (H) below; 
+
+ (H) For certified reinsurers not domiciled in the United States, audited financial statements, regulatory filings, and actuarial opinion (as filed with the non-U.S. jurisdiction supervisor, with a translation into English). Upon the initial application for certification, the director will consider audited financial statements for the last two years filed with its non-U.S. jurisdiction supervisor; 
+
+ (I) The liquidation priority of obligations to a ceding insurer in the certified reinsurer’s domiciliary jurisdiction in the context of an insolvency proceeding; 
+
+ (J) A certified reinsurer’s participation in any solvent scheme of arrangement, or similar procedure, which involves U.S. ceding insurers. The director shall receive prior notice from a certified reinsurer that proposes participation by the certified reinsurer in a solvent scheme of arrangement; and 
+
+ (K) Any other information deemed relevant by the director. 
+
+ (e) Based on the analysis conducted under paragraph (d)(E) of a certified reinsurer’s reputation for prompt payment of claims, the director may make appropriate adjustments in the security the certified reinsurer is required to post to protect its liabilities to U.S. ceding insurers, provided that the director shall, at a minimum, increase the security the certified reinsurer is required to post by one rating level under paragraph (d)(A) if the director finds that: 
+
+ (A) More than 15 percent of the certified reinsurer’s ceding insurance clients have overdue reinsurance recoverables on paid losses of 90 days or more which are not in dispute and which exceed $100,000 for each cedent; or 
+
+ (B) The aggregate amount of reinsurance recoverables on paid losses which are not in dispute that are overdue by 90 days or more exceeds $50,000,000. 
+
+ (f) The assuming insurer must submit a properly executed Form ACR-1 (Exhibit 2, OAR 836-012-0000) as evidence of its submission to the jurisdiction of this state, appointment of the director as an agent for service of process in this state, and agreement to provide security for 100 percent of the assuming insurer’s liabilities attributable to reinsurance ceded by U.S. ceding insurers if it resists enforcement of a final U.S. judgment. The director shall not certify any assuming insurer that is domiciled in a jurisdiction that the director has determined does not adequately and promptly enforce final U.S. judgments or arbitration awards. 
+
+ (g) The certified reinsurer must agree to meet applicable information filing requirements as determined by the director, both with respect to an initial application for certification and on an ongoing basis. All information submitted by certified reinsurers which are not otherwise public information subject to disclosure shall be exempted from disclosure under ORS chapter 192 and shall be withheld from public disclosure. The applicable information filing requirements are, as follows: 
+
+ (A) Notification within 10 days of any regulatory actions taken against the certified reinsurer, any change in the provisions of its domiciliary license or any change in rating by an approved rating agency, including a statement describing such changes and the reasons therefore; 
+
+ (B) Annually, Form CR-F or CR-S, as applicable; 
+
+ (C) Annually, the report of the independent auditor on the financial statements of the insurance enterprise, on the basis described in paragraph (D) below; 
+
+ (D) Annually, the most recent audited financial statements, regulatory filings, and actuarial opinion (as filed with the certified reinsurer’s supervisor, with a translation into English). Upon the initial certification, audited financial statements for the last two years filed with the certified reinsurer’s supervisor; 
+
+ (E) At least annually, an updated list of all disputed and overdue reinsurance claims regarding reinsurance assumed from U.S. domestic ceding insurers; 
+
+ (F) A certification from the certified reinsurer’s domestic regulator that the certified reinsurer is in good standing and maintains capital in excess of the jurisdiction’s highest regulatory action level; and 
+
+ (G) Any other information that the director may require. 
+
+ (h) Change in Rating or Revocation of Certification. 
+
+ (A) In the case of a downgrade by a rating agency or other disqualifying circumstance, the director shall upon written notice assign a new rating to the certified reinsurer in accordance with the requirements of paragraph (d)(A). 
+
+ (B) The director shall have the authority to suspend, revoke, or otherwise modify a certified reinsurer’s certification at any time if the certified reinsurer fails to meet its obligations or security requirements under this section, or if other financial or operating results of the certified reinsurer, or documented significant delays in payment by the certified reinsurer, lead the director to reconsider the certified reinsurer’s ability or willingness to meet its contractual obligations. 
+
+ (C) If the rating of a certified reinsurer is upgraded by the director, the certified reinsurer may meet the security requirements applicable to its new rating on a prospective basis, but the director shall require the certified reinsurer to post security under the previously applicable security requirements as to all contracts in force on or before the effective date of the upgraded rating. If the rating of a certified reinsurer is downgraded by the director, the director shall require the certified reinsurer to meet the security requirements applicable to its new rating for all business it has assumed as a certified reinsurer. 
+
+ (D) Upon revocation of the certification of a certified reinsurer by the director, the assuming insurer shall be required to post security in accordance with OAR 836-012-0060 in order for the ceding insurer to continue to take credit for reinsurance ceded to the assuming insurer. If funds continue to be held in trust in accordance with OAR 836-012-0041, the director may allow additional credit equal to the ceding insurer’s pro rata share of such funds, discounted to reflect the risk of uncollectibility and anticipated expenses of trust administration. Notwithstanding the change of a certified reinsurer’s rating or revocation of its certification, a domestic insurer that has ceded reinsurance to that certified reinsurer may not be denied credit for reinsurance for a period of three months for all reinsurance ceded to that certified reinsurer, unless the reinsurance is found by the director to be at high risk of uncollectibility. 
+
+ (3) Qualified Jurisdictions. 
+
+ (a) If, upon conducting an evaluation under this rule with respect to the reinsurance supervisory system of any non-U.S. assuming insurer, the director determines that the jurisdiction qualifies to be recognized as a qualified jurisdiction, the director shall publish notice and evidence of such recognition in an appropriate manner. The director may establish a procedure to withdraw recognition of those jurisdictions that are no longer qualified. 
+
+ (b) In order to determine whether the domiciliary jurisdiction of a non-U.S. assuming insurer is eligible to be recognized as a qualified jurisdiction, the director shall evaluate the reinsurance supervisory system of the non-U.S. jurisdiction, both initially and on an ongoing basis, and consider the rights, benefits and the extent of reciprocal recognition afforded by the non-U.S. jurisdiction to reinsurers licensed and domiciled in the United States. The director shall determine the appropriate approach for evaluating the qualifications of such jurisdictions, and create and publish a list of jurisdictions whose reinsurers may be approved by the director as eligible for certification. A qualified jurisdiction must agree to share information and cooperate with the commissioner with respect to all certified reinsurers domiciled within that jurisdiction. Additional factors to be considered in determining whether to recognize a qualified jurisdiction, in the discretion of the director, include but are not limited to the following: 
+
+ (A) The framework under which the assuming insurer is regulated; 
+
+ (B) The structure and authority of the domiciliary regulator with regard to solvency regulation requirements and financial surveillance; 
+
+ (C) The substance of financial and operating standards for assuming insurers in the domiciliary jurisdiction; 
+
+ (D) The form and substance of financial reports required to be filed or made publicly available by reinsurers in the domiciliary jurisdiction and the accounting principles used; 
+
+ (E) The domiciliary regulator’s willingness to cooperate with U.S. regulators in general and the director in particular; 
+
+ (F) The history of performance by assuming insurers in the domiciliary jurisdiction; 
+
+ (G) Any documented evidence of substantial problems with the enforcement of final U.S. judgments in the domiciliary jurisdiction. A jurisdiction will not be considered to be a qualified jurisdiction if the director has determined that it does not adequately and promptly enforce final U.S. judgments or arbitration awards; 
+
+ (H) Any relevant international standards or guidance with respect to mutual recognition of reinsurance supervision adopted by the International Association of Insurance Supervisors or successor organization; and 
+
+ (I) Any other matters deemed relevant by the director. 
+
+ (c) The director shall consider the list of qualified jurisdictions published through the NAIC committee process in determining qualified jurisdictions. If the director approves a jurisdiction as qualified that does not appear on the list of qualified jurisdictions, the director shall provide thoroughly documented justification with respect to the criteria provided under paragraphs (b)(A) to (I) of this section. 
+
+ (d) U.S. jurisdictions that meet the requirements for accreditation under the NAIC financial standards and accreditation program shall be recognized as qualified jurisdictions. 
+
+ (e) If a certified reinsurer’s domiciliary jurisdiction ceases to be a qualified jurisdiction, the director has the discretion to suspend the reinsurer’s certification indefinitely, in lieu of revocation, subject to ORS chapter 183. 
+
+ (4) Recognition of Certification Issued by an NAIC Accredited Jurisdiction. 
+
+ (a) If an applicant for certification has been certified as a reinsurer in an NAIC accredited jurisdiction, the director has the discretion to defer to that jurisdiction’s certification, and to defer to the rating assigned by that jurisdiction, if the assuming insurer submits a properly executed Form ACR-1 and such additional information as the director requires. The assuming insurer shall be considered to be a certified reinsurer in this state. 
+
+ (b) Any change in the certified reinsurer’s status or rating in the other jurisdiction shall apply automatically in this state as of the date it takes effect in the other jurisdiction. The certified reinsurer shall notify the commissioner of any change in its status or rating within 10 days after receiving notice of the change. 
+
+ (c) The director may withdraw recognition of the other jurisdiction’s rating at any time and assign a new rating in accordance with section (2)(h). 
+
+ (d) The director may withdraw recognition of the other jurisdiction’s certification at any time, with written notice to the certified reinsurer. Unless the director suspends or revokes the certified reinsurer’s certification in accordance with section (2)(h), the certified reinsurer’s certification shall remain in good standing in this state for a period of three months, which shall be extended if additional time is necessary to consider the assuming insurer’s application for certification in this state. 
+
+ (5) In addition to the clauses required under OAR 836-012-0110, reinsurance contracts entered into or renewed under this rule shall include a proper funding clause, which requires the certified reinsurer to provide and maintain security in an amount sufficient to avoid the imposition of any financial statement penalty on the ceding insurer under this section for reinsurance ceded to the certified reinsurer. 
+
+ (6) The director shall comply with all reporting and notification requirements that may be established by the NAIC with respect to certified reinsurers and qualified jurisdictions. 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 731.244, ORS 731.508 - 731.514 & Or Laws 2021, ch 204, sec 2 
+ 
+ 
+ Statutes/Other Implemented:  ORS 731.508 - 731.514 & Or Laws 2021, ch 204, sec 2 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ID 11-2021, amend filed 12/15/2021, effective 01/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ID 13-2019, adopt filed 12/19/2019, effective 01/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

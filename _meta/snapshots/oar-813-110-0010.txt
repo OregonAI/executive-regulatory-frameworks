@@ -1,0 +1,282 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Housing and Community Services Department 
+ Chapter 813 
+ 
+ 
+ 
+ 
+ 
+ Division 110 OREGON AFFORDABLE HOUSING TAX CREDITS: AFFORDABLE HOUSING PROJECT CERTIFICATION 
+ 813-110-0010 
+ Definitions
+ 
+ 
+ Terms used throughout OAR chapter 813, division 110 may be defined in Oregon Revised Statute (ORS or statute), or in the Affordable Rental Housing Division Definitions (OAR 813-002-0010), or in the OHCS General Definitions (OAR 813-005-0005). Terms used within this division observe those definitions except as defined below. All words and terms used in OAR chapter 813, division 110 are as provided in statute, OAR 813-005-0005, or herein. As used in these rules: 
+
+ (1) “Certification” means the written verification by OHCS to a lender that a project is a qualified project for which the lending institution may claim a OAHTC program tax credit under the provisions of the statute. 
+
+ (2) “Firm commitment of financing” means an agreement by a lending institution or their intermediary to make a permanent loan to a specific borrower on a specific property and which will contain all the terms and conditions that the borrower must satisfy before said loan can be funded. Payment of a commitment charge by the borrower to the lending institution may be required as a condition precedent to issuance of such an agreement. 
+
+ (3) "Limited Equity Cooperative (LEC)" is defined in ORS 317.097(1)(e) 
+
+ (4) "Housing Payment Reduction" means the amount an eligible household's housing payment is reduced from housing payments charged at the market interest rate because of the OAHTC subsidy. 
+
+ (5) “Oregon Affordable Housing Tax Credit Program Manual” or “OAHTC Manual” or “Manual” means the program manual for the Oregon Affordable Housing Tax Credit Program dated April 2026, as described in OAR 813-110-0011. The manual may be accessed online at OHCS’s website. 
+
+ (6) “Project” means one or more units of affordable housing, that has been or will be acquired, constructed, developed, or rehabilitated, including refinanced housing, which will be rented to or owned by households whose incomes are less than 80 percent of area median income. 
+
+ (7) “Rent Pass-through” or “pass-through” means the savings realized through the OAHTC loan rate discount that is used by the project owner to reduce tenant housing payments except in the case of projects falling under OAR 813-110-0013 (2, (3), (4), and (5) which do not have a pass-through requirement. 
+
+ (8) “Rent reduction” means the amount rents are reduced from the rents charged at the market interest rate because of the OAHTC subsidy. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 317.097 & ORS 456.555 
+ 
+ 
+ Statutes/Other Implemented:  ORS 317.097 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHCS 8-2026, amend filed 04/03/2026, effective 04/05/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHCS 45-2025, temporary amend filed 10/09/2025, effective 10/09/2025 through 04/06/2026 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHCS 27-2024, amend filed 08/27/2024, effective 09/02/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHCS 20-2024, temporary amend filed 05/31/2024, effective 05/31/2024 through 11/26/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHCS 21-2022, amend filed 08/30/2022, effective 09/09/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHCS 12-2016, f. & cert. ef. 10-13-16 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ OHCS 4-2016(Temp), f. & cert. ef. 5-5-16 thru 10-31-16 
+OHCS 6-2015, f. & cert. ef. 7-9-15 
+OHCS 3-2015(Temp), f. & cert. ef. 3-18-15 thru 9-13-15 
+OHCS 22-2013, f. & cert. ef. 12-18-13 
+OHCS 9-2013(Temp), f. & cert. ef. 6-21-13 thru 12-18-13 
+OHCS 2-2009, f. & cert. ef. 8-5-09 
+OHCS 1-2009(Temp), f. & cert. ef. 2-9-09 thru 8-7-09 
+OHCS 5-2008, f. & cert. ef. 4-11-08 
+OHCS 14-2007(Temp), f. & cert. ef. 10-16-07 thru 4-12-08 
+OHCS 9-2007, f. & cert. ef. 1-11-07 
+OHCS 11-2006(Temp), f. & cert. ef. 8-4-06 thru 1-30-07 
+OHCS 7-2006, f. & cert. ef. 5-17-06 
+HSG 2-1995, f. & cert. ef. 9-25-95 
+HSG 7-1994, f. & cert. ef. 9-9-94 
+HSG 2-1994(Temp), f. & cert. ef. 3-25-94 
+HSG 3-1992, f. & cert. ef. 2-4-92 
+HSG 6-1991(Temp), f. & cert. ef. 11-5-91 
+HSG 2-1991(Temp), f. & cert. ef. 8-7-91 
+HSG 9-1990, f. & cert. ef. 5-11-90 
+HSG 3-1990(Temp), f. & cert. ef. 3-1-90 
+HSG 1-1990(Temp), f. & cert. ef. 1-5-90 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

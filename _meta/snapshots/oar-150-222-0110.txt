@@ -1,0 +1,232 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 222 CITY BOUNDARY CHANGES; MERGERS; CONSOLIDATION; WITHDRAWALS 
+ 150-222-0110 
+ Calculating Phase-in City Tax Rates
+ 
+ 
+ (1) Only the tax rate of the city will be affected by this rule. 
+
+ (2) This calculation shall be done for each category of levy of the city when the assessor is notified by the city that an annexed area is to have its rate phased-in over a number of years under the authority of ORS 222.111. The assessor shall use these steps to calculate the city tax rate(s): 
+
+ (a) Step 1: Establish the annexed area(s) as a separate code area(s). 
+
+ (b) Step 2: Determine the current year rate computation value of the city without the annexed area(s) for which tax rates are being phased in. 
+
+ (c) Step 3: Determine the current year rate computation value of the annexed area(s) for which tax rates are being phased-in. 
+
+ (A) If the city certifies only a rate, determine the maximum billing rate. Any tax offset rate is subtracted from the certified rate based on the value of the nonphased-in areas of the city. Multiply the phase-in ratio percentage by the billing rate for each phase-in area established as a separate code area. The result of this calculation will be the city billing rate for that phase-in area. 
+
+ (B) If the city only certifies a rate, it is not necessary to complete the rest of the steps. The remaining steps only apply in the case where the city has certified a levy in dollars and cents. 
+
+ (d) Step 4: Multiply the current year taxable assessed value of the annexed area(s) for which tax rates are being phased-in, by the ratio that the tax rate of the annexed area will be to the maximum rate within the area(s) of the city which will pay the maximum tax rate of the city. 
+
+ (e) Step 5: Add the result(s) of Step 4 of this rule to the value determined in Step 2. 
+
+ (f) Step 6: Divide the net category of levy for the city by the value calculated in Step 5 and truncate the rate as provided in OAR 150-310-0050. This is the maximum tax rate of the city. 
+
+ (g) Step 7: Multiply the result of Step 6 by the ratio the rate in the annexed area will be and round to 7 decimal places. The result is the maximum rate of the city for the category of levy in the annexed area for the fiscal year. 
+
+ (h) Step 8: Multiply the result of Step 7, the rate in the annexed area, by the current year rate computation value of the annexed area. This is the amount to be raised for this category of levy of the city, before any compression due to the limits of Section 11b, Article XI of the Oregon Constitution, in the annexed area. 
+
+ (i) Step 9: Multiply the result of Step 6 (the maximum city rate) by the current year rate computation value of the city without annexed area(s) which will have a ratio of the city tax rate (the value determined in Step 2). This is the amount of tax to be raised for this category of levy of the city, before any compression due to the limits of Section 11b, Article XI of the Oregon Constitution, in the city portion which is paying the maximum rate. 
+
+ (j) Step 10: Verify the result by adding the results of Step 8 and 9. This amount should equal the city’s category of levy, except for any loss due to the truncation of tax rates. 
+
+ (3) Example: City has certified under their permanent rate limit general gov ernment category: 4.90 per thousand.  City has certified under the exempt category: $900,000 for debt service.  The city’s phase-in ratio percentage is: Annex 1 - 45.00% and Annex 2 - 70.00%. 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 
+ 
+ 
+ Statutes/Other Implemented:  ORS 222.111 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 63-2017, f. & cert. ef. 8-11-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 150-222.111(3), REV 15-2016, f. 8-10-16, cert. ef. 9-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 13-1999, f. 12-30-99, cert. ef. 12-31-99 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RD 3-1991, f. 12-30-91, cert. ef. 12-31-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

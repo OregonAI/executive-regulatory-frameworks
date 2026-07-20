@@ -1,0 +1,197 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Chapter 943 
+ 
+ 
+ 
+ 
+ 
+ Division 120 PROVIDER RULES 
+ 943-120-0170 
+ Security 
+ 
+ (1) Individually Identifiable Health Information. All providers, CCOs, PHPs, and allied agencies are responsible for ensuring the security of individually identifiable health information, consistent with the requirements of the privacy statutes and regulations, and shall take reasonable action to prevent any unauthorized disclosure of confidential information by a provider, CCO, PHP, allied agency, or other agent. A provider, web portal submitter, trading partner, EDI submitter, or other agent must comply with any and all applicable privacy statutes and regulations relating to confidential information.  (2) General Requirements for Electronic Submitters. A provider (web portal submitter), trading partner (EDI submitter), or other agent must maintain adequate security procedures to prevent unauthorized access to data, data transmissions, security access codes, or the Authority's information system, and must immediately notify the Authority of all unauthorized attempts by any individual or entity to obtain access to or otherwise tamper with the data, data transmissions, security access codes, or the Authority's information system.  (3) Notice of Unauthorized Disclosures. All providers, CCOs, PHPs, and allied agencies must promptly notify the Authority of all unlawful or unauthorized disclosures of confidential information that come to its agents' attention pursuant to the Authority’s ISPO policy: http://www.dhs.state.or.us/policy/admin/security/090_005.pdf, and shall cooperate with the Authority if corrective action is required by the Authority. The Authority shall promptly notify a provider, CCO, PHP, or allied agency of all unlawful or unauthorized disclosures of confidential information in relation to a provider, CCO, PHP, or allied agency that come to the Authority's or its agents' attention, and will cooperate with a provider, PHP, or allied agency if corrective action is required.  (4) Wrongful use of the web portal, EDI systems, or the Authority's network and information system, or wrongful use or disclosure of confidential information by a provider, CCO, PHP, allied agency, electronic submitters, or their agents may result in the immediate suspension or revocation of any access granted under these rules or other Authority rules, at the sole discretion of the Authority.  (5) A provider, allied agency, CCO, PHP, or electronic submitter must report to the Authority's Information Security Office at dhsinfo.security@state.or.us and to the Authority program contact individual, any privacy or security incidents that compromise, damage, or cause a loss of protection to confidential information, information assets, or the Authority's network and security system. Reports must be made in the following manner:  (a) No later than five business days from the date on which a provider, allied agency, CCO, PHP, or electronic submitter becomes aware of the incident; and  (b) Provide the results of the incident assessment findings and resolution strategies no later than 30 business days after the report is due under section (4)(a).  (6) A provider, allied agency, CCO, PHP, or electronic submitter must comply with the Authority's requests for corrective action concerning a privacy or security incident and with applicable laws requiring mitigation of harm caused by the unauthorized use or disclosure of confidential information. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042 & 414.065 
+ 
+ 
+ Statutes/Other Implemented:  ORS 413.042 & 414.065 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHA 7-2012, f. 10-9-12, cert. ef. 10-10-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHA 4-2012(Temp), f. & cert. ef. 7-12-12 thru 1-6-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHA 26-2011, f. 10-31-11, cert. ef. 11-1-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHA 13-2011(Temp), f. & cert. ef. 7-1-11 thru 12-27-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

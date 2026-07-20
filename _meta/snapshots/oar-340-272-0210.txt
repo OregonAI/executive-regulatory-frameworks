@@ -1,0 +1,262 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 272 THIRD PARTY VERIFICATION 
+ 340-272-0210 
+ Applications and Criteria for DEQ Approval of Verification Bodies and Verifiers 
+ 
+ (1) Application for approval. A business entity or person seeking DEQ approval or renewal of DEQ approval to perform verification under this division as a verification body or verifier must submit an application to DEQ, on a form approved by DEQ, that includes the following information: 
+
+ (a) For verifier applications, a statement about whether the application is for approval as a verifier, a lead verifier, or a sector specific verifier; 
+
+ (b) A statement about which specific types of emissions data reports submitted under OAR chapter 340, division 215, fuel pathway applications or specific types of CFP reports submitted under OAR chapter 340, division 253, or any combination therein, for which the applicant is seeking approval to perform verification; 
+
+ (c) Documentation demonstrating that the person or business entity holds the accreditation requirements described in section (2); 
+
+ (d) Additional information as required by sections (2) through (7), as applicable; 
+
+ (e) A certification that the person or business entity agrees to comply with and be subject to the requirements of this division in relation to all verification work for responsible entities; and 
+
+ (f) Any other information requested by DEQ that DEQ determines is relevant to determine whether to approve the applicant. 
+
+ (2) Application information and accreditation criteria for approval. Any person or business entity that wants to perform verification under this division must provide documentation that the person has met all the following criteria for approval, as applicable for the type of verification approval the applicant seeks: 
+
+ (a) The person or business entity holds an active accreditation under at least one of the following programs: 
+
+ (A) California ARB’s Low Carbon Fuel Standard program (LCFS); 
+
+ (B) California ARB's Mandatory Reporting of Greenhouse Gas Emissions program (MRR); 
+
+ (C) American National Standards Institute for Greenhouse Gas Validation/Verification Bodies (ANSI); or 
+
+ (D) A substantially equivalent program to one of the programs described in paragraphs (A), (B), or (C), and approved by DEQ; 
+
+ (b) To provide verification services for CFP reports or fuel pathway applications submitted under OAR chapter 340, division 253, the person or business entity must hold accreditation under California ARB’s LCFS, or a substantially equivalent program approved by DEQ; 
+
+ (c) To provide verification services for emissions data reports submitted under OAR chapter 340, division 215, the person or business entity must hold accreditation under California ARB’s MRR, ANSI, or a substantially equivalent program approved by DEQ; and 
+
+ (d) All applicants must submit additional information in the application with details of accreditation and verification experience, including but not limited to, recognition or designation as a lead verifier or sector specific verifier, and sector specific accreditations by California ARB or organization-level sector accreditations by ANSI, as applicable, to demonstrate qualifications to provide verification services for specific types of emissions data reports submitted under OAR chapter 340, division 215, fuel pathway applications or specific types of CFP reports submitted under OAR chapter 340, division 253, or any combination therein. 
+
+ (3) Application information and criteria for approval for a verification body. To be approved as a verification body, the applicant must also submit the following information to DEQ in the application: 
+
+ (a) A list of all verification staff and subcontractors and a description of their duties and qualifications, including DEQ-approved verifiers on staff. The applicant must demonstrate staff qualifications by listing each individual’s education, experience, professional licenses, accreditations, status as verifier, lead verifier, or sector specific verifier, and other relevant information. A verification body must employ or retain at least two lead verifiers, which may include retention as subcontractors. Any subcontractor used to meet minimum lead verifier requirements must be approved as a lead verifier by DEQ. 
+
+ (b) A list of any judicial proceedings, enforcement actions, or administrative actions filed against the verification body within the previous five years, with an explanation as to the nature of the proceedings; 
+
+ (c) Documentation that demonstrates that the body maintains a minimum of four million U.S. dollars of professional liability insurance; 
+
+ (d) Identification of services provided by the verification body, the industries that the body serves, and the locations where those services are provided; 
+
+ (e) A detailed organizational chart that includes the verification body, its management structure, and any related entities; and 
+
+ (f) The verification body’s internal conflict of interest policy that identifies activities and limits to monetary or non-monetary gifts that apply to all employees and procedures to monitor potential conflicts of interest. 
+
+ (4) Application information and criteria for approval as a verifier. To be approved as a verifier, the applicant must also submit the following information to DEQ in the application: 
+
+ (a) Applicants must indicate their employer or affiliated verification body on the application; and 
+
+ (b) Applicants must demonstrate verification qualifications by providing information on education, experience, professional licenses, accreditations, status as verifier, lead verifier, or sector specific verifier, and other relevant information or other personal development activities that demonstrate communication, technical, and analytical skills necessary to perform verification. Evidence demonstrating necessary skills may include, but is not limited to: 
+
+ (A) A bachelor’s level college degree or equivalent in engineering, science, technology, business, statistics, mathematics, environmental policy, economics, or financial auditing; or 
+
+ (B) Work experience in a professional role involved in emissions data management, emissions technology, emissions inventories, environmental auditing, financial auditing, life cycle analysis, transportation fuel production, or other technical skills necessary to perform verification. 
+
+ (5) Application information and criteria for approval as a lead verifier for the GHG Reporting Program. To be approved as a lead verifier for verification of emissions data reports submitted under OAR chapter 340, division 215, in addition to submitting information as required by section (4), the applicant must also submit documentation to DEQ in the application indicating that at least one of the following qualifications are met: 
+
+ (a) The verifier is accredited as a lead verifier by California ARB for the Mandatory Reporting of Greenhouse Gas Emissions program; 
+
+ (b) The verifier is designated as a lead verifier by the ANSI-accredited verification body with which it is employed or affiliated; or 
+
+ (c) The verifier is designated as a lead verifier by a substantially equivalent program to one of the programs described in subsection (a) or (b), and that is approved by DEQ. 
+
+ (6) Application information and criteria for approval as a lead verifier for the CFP. To be approved as a lead verifier for verification of CFP reports or fuel pathway applications submitted under OAR chapter 340, division 253, in addition to submitting information as required by section (4), the applicant must also submit the following documentation to DEQ in the application: 
+
+ (a) Indication that the applicant is accredited as a lead verifier by California ARB for the Low Carbon Fuel Standard program, or is designated as a lead verifier by a substantially equivalent program approved by DEQ; 
+
+ (b) To be approved as a lead verifier for verification of CFP fuel pathway applications or annual fuel pathway reports, the applicant must also submit documentation to DEQ in the application that demonstrates experience in alternative fuel production technology and process engineering; and 
+
+ (c) To be approved as a lead verifier for verification of CFP project reports and quarterly reports submitted by producers and importers of gasoline or diesel, the applicant must submit documentation to DEQ in the application that demonstrates experience with oil and gas systems. This evidence may include accreditation as an oil and gas systems sector specific verifier. 
+
+ (7) Application information and criteria for approval as a sector specific verifier. To be approved as a sector specific verifier, in addition to submitting information as required by section (4), the applicant must also submit documentation to DEQ in the application demonstrating at least two years of professional experience related to the sector in which the individual is seeking approval. 
+
+ (8) Verification training and exam requirements. 
+
+ (a) To be approved by DEQ, applicants must take DEQ-approved general verification training, sector specific verification training, CFP specific verification training, and GHG Reporting Program specific verification training, as made available and deemed applicable by DEQ based on the application submitted to DEQ and for the type of approval the applicant has requested. 
+
+ (b) Applicants must receive a passing score of greater than an unweighted 70 percent on an exit examination. 
+
+ (A) If the applicant does not pass the exam after the training, the applicant may retake the exam a second time. 
+
+ (B) Only one retake of the examination is allowed before the applicant must retake the applicable training. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, 468A.050, 468A.266, 468A.271, 468A.277 & 468A.280 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468A.010, 468A.015, 468A.050, 468A.265 through 468A.277 & 468A.280 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 17-2023, amend filed 11/16/2023, effective 11/16/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 14-2020, adopt filed 05/07/2020, effective 05/07/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

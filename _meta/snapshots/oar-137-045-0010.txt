@@ -1,0 +1,342 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Justice 
+ Chapter 137 
+ 
+ 
+ 
+ 
+ 
+ Division 45 REVIEW OF PUBLIC CONTRACTS 
+ 137-045-0010 
+ Definitions
+ 
+ 
+ The following definitions apply to OAR chapter 137, division 045: 
+
+ (1) "Agency" means " State agency" as defined in ORS 291.045. 
+
+ (2) "Agency Contract Administration" means an action undertaken by an Agency in accordance with the terms of a Public Contract that does not amend the terms of a Public Contract other than as set forth in subsections (b) or (c) below. Agency Contract Administration does not include an assignment of rights or delegation of duties under a Public Contract to a third party. Examples of Agency Contract Administration include, but are not limited to, actions that result in: 
+
+ (a) A notice to proceed, the exercise of an option, or any other exercise of a contractual right, whereby the Agency causes a Public Contract to be implemented in accordance with its terms; 
+
+ (b) Changes only to named individuals and their contact information, such as authorized representatives, project managers or key persons even if those names and contact information are contained in the Public Contract; or 
+
+ (c) Changes to correct typographical or other unintentional mistakes made in the drafting of a contract, or changes to correct the identifying information of the Public Contract used by the agency for administrative purposes, such as the agency’s contract number. 
+
+ (3) "Architectural and Engineering Services Contract" means a Public Contract for architectural, engineering, photogrammetric mapping, transportation planning or land surveying services as defined in ORS 279C.100(2) or related services as defined in 279C.100(8). 
+
+ (4) "Assistant Attorney General" means a person appointed by the Attorney General under ORS Chapter 180 as an Assistant Attorney General or as a Special Assistant Attorney General and who is authorized in writing by the Chief Counsel, General Counsel Division, to review and approve Public Contracts for legal sufficiency. Such authorization may be limited by the Public Contract type and amount. 
+
+ (5) "Attorney in Charge of the Business Transactions Section" means the Assistant Attorney General the Attorney General appoints as Attorney in Charge of the Business Transactions Section, General Counsel Division, Department of Justice or an alternate designated by the Chief Counsel of the General Counsel Division. 
+
+ (6) "Attorney General" means the Attorney General of the State of Oregon. 
+
+ (7) "Chief Counsel of the General Counsel Division" means the Assistant Attorney General the Attorney General appoints as Chief Counsel of the General Counsel Division, Department of Justice or an alternate designated by the Attorney General. 
+
+ (8) “Cloud Service” means Internet-based computer services, including but not limited to, computer hosting, processing resources, application services, and data storage and access. 
+
+ (9) "Emergency" means circumstances that could not have been reasonably foreseen and that create a substantial risk of loss, damage to property, interruption of services or threat to public health or safety and require prompt execution of a Public Contract to deal with the risk. 
+
+ ( 10) "Federal Cooperative Agreement" means a Public Contract under which an Agency receives money or property from a federal agency for the purpose of supporting or stimulating an Agency program or activity and substantial involvement is expected between the federal agency and the Agency when carrying out the program or activity contemplated in the agreement. A Federal Cooperative Agreement does not include a procurement contract under 31 U.S.C. section 6303. 
+
+ (11) "Grant" means: 
+
+ (a) A Public Contract under which an Agency receives money, property or other value from a grantor for the purpose of supporting or stimulating an Agency program or activity, and in which no substantial involvement by grantor is anticipated in the contemplated program or activity other than activities associated with monitoring compliance with Grant conditions; or 
+
+ (b) A Public Contract under which an Agency provides money, property or other value to a recipient for the purpose of supporting or stimulating a program or activity of the recipient, and in which no substantial involvement by Agency is anticipated in the contemplated program or activity other than activities associated with monitoring compliance with Grant conditions. 
+
+ (12) "Information Technology " means goods or services, including a Cloud Service, that include but are not limited to all present and future forms of hardware, software, and services for data processing, office automation, and telecommunications, and maintenance and support for any of the foregoing. 
+
+ (13) "Interagency Agreement" means any agreement solely between state officers, boards, commissions, departments, institutions, branches, or Agencies of this state. 
+
+ (14) "Intergovernmental Agreement" means any agreement between an Agency and a unit of local government of this state, a public university listed in ORS 352.002, the United States, a United States governmental agency, an American Indian tribe or an agency of an American Indian tribe and includes Interstate Agreements and International Agreements. 
+
+ (15) "International Agreement" means any agreement between an Agency and a nation or a public agency in any nation other than the United States. 
+
+ (16) "Interstate Agreement" means any agreement between an Agency and a unit of local government or state agency of another state. 
+
+ (17) "Last Reviewed Contract" means a Public Contract that has been approved for legal sufficiency and includes all amendments that were effective prior to an amendment that has been approved for legal sufficiency. 
+
+ (18) "Non-Negotiable Public Contract" means a Public Contract that a) offers terms and conditions to an Agency without a commercially reasonable opportunity to negotiate, b) is attached to or included with goods or services available to the general public, and c) immediately becomes legally binding upon an Agency’s use of the goods or services. A Non-Negotiable Public Contract may include, but is not limited to, Information Technology license agreements attached to or included with packaged or electronic copies of computer software. 
+
+ (19) "Personal Services Contract" means a contract whose primary purpose is to acquire specialized skills, knowledge and resources in the application of technical or scientific expertise, or the exercise of professional, artistic or management discretion or judgment, including, without limitation, a contract for the services of an accountant, physician or dentist, educator, consultant (including a provider under an Architectural and Engineering Services Contract), broadcaster, or artist (including a photographer, filmmaker, painter, weaver or sculptor). 
+
+ (20) "Price Agreement" means an agreement, which may or may not be a binding contract, for the procurement of goods or services at a set price or prices, or at a price or prices established using a method prescribed by the agreement, which: 
+
+ (a) May or may not provide a guarantee of a minimum or maximum purchase; or 
+
+ (b) May provide for an initial order or minimum purchase combined with a continuing obligation to provide goods or services with no guarantee of a minimum or maximum additional purchase. Price Agreements are sometimes referred to as flexible services agreements, agreements to agree, master agreements, or retainer agreements. 
+
+ (21) "Procurement Documents" means documents issued by an Agency defining the procurement process or soliciting offers from prospective contractors to enter into a Public Contract or a Price Agreement. “Procurement Documents” includes an invitation to bid, request for proposals, request for quotes, including request for quotes issued to one or more vendors who are parties to existing Price Agreements for the desired goods or services, or other similar document, including any associated exhibits, attachments, addenda, and the anticipated Public Contract. Special procurements for which public notice is required under ORS 279B.085(5) are Procurement Documents. The following are not Procurement Documents unless they invite offers from prospective contractors: a request for information, a request for qualifications, a prequalification of bidders, or a request for product prequalification. 
+
+ (22) “Public Contract” means any contract, including any amendments, entered into by an Agency for the acquisition, disposition, purchase, exchange, lease, sale or transfer of rights of real or personal property, public improvements, or services, including any contract for repair or maintenance. An Intergovernmental Agreement entered into for any of the foregoing actions is a Public Contract. A Grant is a Public Contract. An Interagency Agreement is not a Public Contract. Agency Contract Administration is not a Public Contract. 
+
+ (23) “Public Improvement Contract” means any Public Contract for construction, reconstruction, or major renovation on real property by or for an Agency. 
+
+ (24) “Public Works” has the meaning set forth in ORS 279C.800(6). 
+
+ (25) "Statement of Work" means all provisions of a Public Contract that expressly describe the services or activities to be performed or the goods to be delivered under the Public Contract, including any related Technical Specifications, deadlines, milestones, deliverables and delivery dates. 
+
+ (26) "Technical Specifications" with respect to equipment, materials and goods, means descriptions of dimensions, composition and manufacturer and quantities and units of measurement that describe quality, performance, and acceptance requirements. With respect to services, "Technical Specifications" means quantities and units of measurement that describe quality, performance and acceptance requirements. 
+
+ (27) "Telecommunications" means hardware, software and services for transmitting voice, data, video and images over a distance. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 291.047(3) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 291.045, 291.047 & 291.049 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 28-2023, amend filed 12/29/2023, effective 01/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 14-2009, f. 12-1-09, cert. ef. 1-1-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 18-2007, f. 12-28-07, cert. ef. 1-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 19-2005, f. 12-27-05, cert. ef. 1-1-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 17-2003, f. & cert. ef. 12-9-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 2-2001, f. & cert. ef. 1-18-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 3-1998, f. & cert. ef. 4-1-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Temporary repealed by DOJ 3-1998, f. & cert. ef. 4-1-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ JD 5-1997(Temp), f. & cert. ef. 10-17-97 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ JD 4-1997(Temp), f. & cert. ef. 10-3-97 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

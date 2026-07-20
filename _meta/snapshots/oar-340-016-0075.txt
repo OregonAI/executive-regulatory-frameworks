@@ -1,0 +1,279 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 16 POLLUTION CONTROL TAX CREDITS 
+ 340-016-0075 
+ Determination of Portion of Facility Cost Allocable to Pollution Control
+ 
+ 
+ The applicant shall provide the information necessary for the Commission and the Department to determine the portion of the facility cost allocable to pollution control as set forth in ORS 468.190 and this rule. The portion of the facility cost properly allocable to pollution control shall be from zero to 100 percent in increments of one percent. If the portion is zero percent, the Commission shall issue an order denying the certification. The facility cost for this rule shall be the cost as set forth in OAR 340-016-0070(1) after the reduction of the salvage value. 
+
+ (1) Facility Cost Does Not Exceed $50,000. The Commission shall only consider the percentage of time the facility is used for pollution control as opposed to any other purpose when determining the percentage of the facility cost allocable to pollution control for facilities with costs that do not exceed $50,000. The remaining sections in this rule shall not be applicable to these facilities. 
+
+ (2) Facility Cost Exceeds $50,000. The Commission shall consider the five factors in this section when establishing the portion of the facility costs properly allocable to pollution control for facilities qualifying for certification under ORS 468.170. These five factors shall be considered only when the facility cost exceeds $50,000 under sections (3), (4) and (5) of this rule. In considering the five factors and their applicability to these rules, the Commission may determine in its findings that one or more factors are more important than others and may assign different weights to the factors when determining the portion of costs properly allocable to pollution control: 
+
+ (a) The extent to which the facility is used to recover and convert waste products into a salable or usable commodity; 
+
+ (b) The estimated annual percent return on the investment in the facility; 
+
+ (c) The alternative methods, equipment and costs for achieving the same pollution control objective; 
+
+ (d) Related savings or increases in costs which occur or may occur as a result of the installation of the facility; or 
+
+ (e) Other factors which are relevant in establishing the portion of the actual cost of the facility properly allocable to the prevention, control or reduction of air, water or noise pollution, solid or hazardous waste or to recycling or properly disposing of used oil. 
+
+ (3) Non-Integral Facilities. The Department shall determine the percentage of the facility cost allocable to pollution control as set forth in this section if the facility is not “integral to the operation of the applicant’s business” as set forth in subsection (4)(a) of this rule. The applicant shall: 
+
+ (a) Determine the Average Annual Cash Flow from the facility. The average annual cash flow is calculated by summing the five annual cash flows in this subsection as calculated through paragraph (3)(a)(C) and dividing the sum by five. Where the useful life of the facility is less than five years, sum the annual cash flows for the useful life of the facility and divide the sum by the useful life. The applicant shall: 
+
+ (A) Estimate gross annual revenue for each of the first five full years of operation. Revenue includes the estimated total annual income directly related to the operation of the facility. Revenue includes income derived from sale or reuse of recovered materials or energy or any other means including savings that may occur as a result of the facility. The Department may require additional information or documentation regarding gross annual revenue estimates for evaluation purposes; 
+
+ (B) Estimate the annual operating expenses for each of the first five full years of operation. Operating expenses shall be the estimated annual cost of operating the facility. Operating expenses may include labor, utilities, property taxes, insurance, and other cash expenses, less any savings in expenses attributable to installation of the facility. Operating expenses shall not include depreciation, interest expenses, and state and federal taxes; and 
+
+ (C) Subtract the estimated annual operating expenses set forth in paragraph (3)(a)(B) from the estimated gross annual revenues set forth in paragraph (3)(a)(A) for each of the first five full years of operation. 
+
+ (b) Determine the Return on Investment Factor (ROI Factor) by dividing the facility cost by the average annual cash flow as set forth in subsection (3)(a) of this rule. 
+
+ (c) Determine the Facility Return on Investment (Facility ROI) by using the Facility ROI — Table 1 provided with the application. At the top of Table 1, find the number equal to the number of years of the useful life of the facility. In the column under the useful life, find the number closest to the ROI Factor as set forth in subsection (3)(b) of this rule. Follow this row to the leftmost column to find the Facility ROI. Table 1 shall be developed utilizing the following equation: [Table not included. See NOTE.] 
+
+ (d) Determine the National Return on Investment (National ROI) from the National ROI — Table 2 provided with the application. Select the National ROI that corresponds with the year construction was completed on the facility. The National ROI Table 2 shall be developed by averaging the prior five years’ rates of return before taxes on total assets for all United States manufacturing corporations as found in the Quarterly Financial Report for Manufacturing, Mining and Trade Corporations, published by the U.S. Department of Commerce, Bureau of the Census. [Table not included. See NOTE.] 
+
+ (e) Determine the Portion of Actual Costs Properly Allocable to Pollution Control. If the Facility ROI as set forth in subsection (3)(c) is: 
+
+ (A) Greater than or equal to the National ROI as set forth in subsection (3)(d) then the percentage of the facility cost properly allocable to pollution control shall be zero percent. 
+
+ (B) Less than the National ROI as set forth in subsection (3)(d) then the percentage of the facility cost properly allocable to pollution control shall be determined by the equation: [Equation not included. See NOTE.] 
+
+ (4) Facilities Integral to the Operation of the Applicant’s Business. This section applies only to facilities costing over $50,000, to applications received by the Department on or after February 1, 1993, and to any facility that the Commission determines to be “integral to the operation of the applicant’s business” as set forth in this section. The Department shall use the steps in this section to determine the portion of the facility cost that is allocable to pollution control for facilities determined to be “integral to the operation of the applicant’s business.” 
+
+ (a) Determine if the Facility is Integral to the Operation of the Applicant’s Business. A facility is integral to the operation of the applicant’s business when the business is unable to operate or is only able to operate at reduced income levels, without the claimed pollution control facility as determined by the Commission. Such instances include, but are not limited to, commercial solid waste and hazardous waste landfills, solid and hazardous waste recycling businesses, and environmental service providers. A pollution control facility integral to the operation of the applicant’s business does not include a facility that meets the principal purpose requirement as set forth in OAR 340-016-0060(3)(a) unless the pollution control facility meets one or more of the factors included in this definition. Factors that the Department may use to determine whether a pollution control facility is integral to the operation of the business include: 
+
+ (A) The facility represent in excess of 25 percent of the total assets of the business; or 
+
+ (B) The facility was erected, constructed, or installed in response to market demand for such pollution control facilities. This may occur as the result of requirements imposed by the Department, the Federal Environmental Protection Agency or regional air pollution authority, on parties unaffiliated with the applicant; or 
+
+ (C) Erection, construction, or installation of the facility and any previously certified pollution control facilities, allows the applicant to generate gross revenues at least 50 percent greater than would have been generated in the absence of the claimed facility and any previously certified pollution control facilities; or 
+
+ (D) The applicant’s operating expenses related to operation of the facility and any previously certified pollution control facilities are at least 50 percent of the operating expenses of the applicant’s business. 
+
+ (b) Determine the National Return on Investment (National ROI) from National ROI Table 2 provided with the application. Select the National ROI that corresponds with the year construction was completed on the facility. Table 2 shall be developed as set forth in subsection (3)(d) of this rule. 
+
+ (c) Determine the Industry Average Profit (Industry AP) by summing the “industry median profit before taxes as a percent of total assets” for the five years prior to the year the facility was completed as found in Robert Morris Associates, Annual Statement Studies under the applicant’s primary four digit Standard Industrial Classification (SIC) and dividing the sum obtained by five. Where five years are not available, sum the number of years that are available and divide by the number of years available. If the Annual Statement Studies do not list the “industry median profit before taxes as a percent of total assets” for the applicant’s SIC, the applicant and the Department shall determine whether an alternate SIC is appropriate for the applicant’s business. If no alternate SIC is appropriate for the applicant’s business or if an applicant is dissatisfied with the percent allocable determination made using the procedures in this section, the percent allocable shall be determined using the procedures set forth in section (5) of this rule; 
+
+ (d) Determine the Portion of Actual Costs Properly Allocable to Pollution Control. If the Industry AP as set forth in paragraph (4)(c) is: 
+
+ (A) Greater than or equal to the National ROI as set forth in subsection (4)(b), the percentage of the facility cost allocable to pollution control shall be zero percent; 
+
+ (B) Less than the National ROI as set forth in paragraph (4)(b), the percentage of the facility cost allocable to pollution control shall be determined by the equation: [Equation not included. See NOTE.] 
+
+ (5) Alternate for Facilities Integral to Applicant’s Business. If the applicant and the Department determine that no alternate Standard Industrial Classification (SIC) is appropriate for the applicant’s business as set forth in subsection (4)(c) of this rule, the percent allocable to pollution control shall be determined using the procedures set forth in this section. 
+
+ (a) Definitions. The following definitions shall be used in this section: 
+
+ (A) “Annual Incremental Cash Flow” means the estimated annual cash flow for each year of the useful life of the claimed pollution control facility that is integral to the operation of applicant’s business calculated as follows: 
+
+ (i) Calculate the applicant’s annual cash flow including the claimed facility by subtracting the annual operating expenses for the applicant’s business from the gross annual income for the applicant’s business for each year of the useful life of the claimed facility; and 
+
+ (ii) Calculate the applicant’s annual cash flow assuming that the claimed facility was not erected, constructed, or installed by subtracting the annual operating expenses for the applicant’s business using this assumption from the gross annual income for the applicant’s business using this assumption for each year of the useful life of the claimed facility; and 
+
+ (iii) Subtract the applicant’s annual cash flow assuming that the claimed facility was not erected, constructed, or installed from the annual cash flow with the claimed facility for each year of the useful life of the claimed facility. 
+
+ (B) “Annual Operating Expenses” means the estimated costs of operating the applicant’s business including labor, utilities, property taxes, insurance, and other cash expenses, less any savings in expenses. Depreciation, interest expenses, and state and federal taxes are not included; 
+
+ (C) “Gross Annual Income” means the estimated total annual income from the applicant’s business including savings that may occur; 
+
+ (D) “Internal Rate of Return” means the rate of return that will equate the present value of the annual incremental cash flows over the useful life of the claimed facility with the present value of the claimed facility cost. 
+
+ (b) The applicant shall furnish the following information to the Department: 
+
+ (A) An income statement, balance sheet, statement of cash flows, and federal and state tax returns (if applicable) for the applicant’s business for the applicant’s three fiscal years prior to the date of submission of the application. If three years of such statements are not available, the applicant shall submit information for the years that are available; 
+
+ (B) Revenue and expense projections, and cash flow projections for the applicant’s business beginning with the year the application is submitted and continuing for the entire useful life of the pollution control facility. The level of detail of these projections shall be substantially equivalent to the level of detail of information submitted in paragraph (A) of this subsection. The Department may elect to provide the applicant with a worksheet for this purpose; 
+
+ (C) Revenue and expense projections, and cash flow projections for the applicant’s business for the entire useful life of the claimed facility assuming that the claimed pollution control facility was not erected, constructed or installed; 
+
+ (D) A projection of the applicant’s future capital expenditures for the pollution control facility; 
+
+ (E) A letter signed by the applicant authorizing the Department to contract with an independent certified public accountant to review the financial information provided by the applicant. The applicant shall agree to reimburse the Department for the cost of this review; 
+
+ (F) Using the information submitted in paragraphs (A)–(D) of this subsection, the Department shall calculate an Internal Rate of Return for the claimed facility by considering the claimed facility cost and annual incremental cash flow. The Internal Rate of Return shall be compared to the National ROI from Table 2 as set forth in subsection (4)(b) of this rule; 
+
+ (G) If the applicant’s Internal Rate of Return is greater than the reference rate, the percent allocable shall be zero percent; 
+
+ (H) If the applicant’s Internal Rate of Return is less than the reference rate, the percent allocable shall be determined by the following formula: 
+
+ [NOTE: Tables referenced are available from the agency.] 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.150 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468.150 - 468.190 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 13-2019, amend filed 05/16/2019, effective 05/16/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 5-1998, f. 4-24-98, cert. ef. 5-1-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

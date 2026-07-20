@@ -1,0 +1,239 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Workers' Compensation Division - Chapter 436 
+ 
+ 
+ 
+ 
+ Division 160 ELECTRONIC DATA INTERCHANGE; MEDICAL BILL DATA 
+ 436-160-0420 
+ Medical Bill Acknowledgement 
+ 
+ (1)(a) The sender is expected to retrieve both TA1 and 999 interchange and functional acknowledgements (as defined by ASC X12) for each medical bill file submitted, unless technical errors in the file prevent 999 processing. In addition, the sender is expected to retrieve the 824 detailed acknowledgement, as defined by IAIABC Release 2.0 (Feb.1, 2014) for each medical bill file submitted, if at least one transaction has successfully passed the 999 edits.  (b) The detailed acknowledgement will indicate either an item accepted (IA) or an item rejected (IR) acknowledgement for each individual transaction.  (2) A TA1, 999 or 824 acknowledgement will be available for all transactions the division is unable to process, including but not limited to:  (a) An omitted mandatory data element;  (b) An improperly populated data element field, e.g., numeric data element field is populated with alpha or alphanumeric data, or is not a valid value according to the standards adopted in 436-160-0004;  (c) Transactions or electronic records within the transaction that require matching, and cannot be matched to the division's database, e.g., cancellation of an original bill that does not match the Unique Bill ID;  (d) Illogical data in mandatory or required conditional field, e.g., payment date is after reporting date;  (e) Duplicate transmission or duplicate transaction within the transmission;  (f) Invalid bill submission reason code; or  (g) Illogical event sequence relationship between transactions, e.g., cancellation transaction submitted before an original bill is accepted.  (3) A transaction accepted acknowledgement will be available for all transactions that are in a format capable of being processed by the division's information processing system and that are not rejected under section (2) of this rule.  (4) An insurer’s obligation to report medical bill data for the purposes of this rule is not satisfied unless the division acknowledges acceptance of the transaction. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 656.726(4) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 656.264 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 8-2014, f. 7-10-14, cert. ef. 10-1-14 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 5-2014(Temp), f. 6-5-14, cert. ef. 7-1-14 thru 12-27-14 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 6-2013, f. 10-10-13, cert. ef. 7-1-14 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 7-2010, f. 10-1-10, cert. ef. 1-1-11 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 2-2009, f. 10-5-09 cert. ef. 1-1-10 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 10-2007, f. 11-1-07, cert. ef. 1-1-08 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

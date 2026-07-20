@@ -1,0 +1,366 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of the State Fire Marshal 
+ Chapter 837 
+ 
+ 
+ 
+ 
+ 
+ Division 85 COMMUNITY RIGHT-TO-KNOW SURVEY AND COMPLIANCE PROGRAMS 
+ 837-085-0090 
+ Hazardous Substance Information — Reporting Requirements
+ 
+ 
+ (1) A covered employer, owner, and or operator must report hazardous substance information as required by these rules using methods provided and approved by the State Fire Marshal. 
+
+ (2) A covered employer, owner, and or operator who possessed a reportable hazardous substance during the previous calendar year shall submit a Hazardous Substance Report by March 1 of the following year. 
+
+ (3) Each substation must have identification posted at it that identifies the site by a company unique number or name and the Facility ID number issued by the State Fire Marshal. 
+
+ (a) The identification must be readable from a distance of 50 feet. 
+
+ (b) Substations that are completely underground and can only be accessed through a manhole or excavation are exempt from this posting requirement. 
+
+ (4) A covered employer, owner, or operator required to report under these rules must provide the following information: 
+
+ (a) The facility’s reporting status, including: 
+
+ (A) Whether hazardous substances were present at the site in reportable quantities; 
+
+ (B) Whether Extremely Hazardous Substances were present that met or exceeded the threshold planning quantity of 40 CFR 355, Appendix A and B. If the facility has Extremely Hazardous Substances present that exceed the threshold planning quantity, provide the name, email address, phone number, and 24-hour phone number of the facility emergency coordinator as required under EPCRA section 303(d)(1); 
+
+ (C) Whether the facility is subject to the reporting requirements of Section 112(r) of the Clean Air Act. If the facility is subject to the chemical accident prevention provisions codified in 40 CFR part 68, also known as the Risk Management Program (RMP), provide the RMP facility identification number assigned by EPA; 
+
+ (D) If your facility is subject to the Toxic Release Inventory (TRI) program under section 313 of EPCRA, provide the identification number assigned by EPA; 
+
+ (E) Whether the facility is subject to the Process Safety Management (PSM) requirements of the Occupational Safety and Health Administration (OSHA); 
+
+ (b) Demographic information including: 
+
+ (A) All applicable North American Industry Classification System codes for the facility; 
+
+ (B) A description of the type of business conducted at the site; 
+
+ (C) The Dun and Bradstreet Number, if applicable; 
+
+ (D) The owner’s or operator’s full name and email address; 
+
+ (E) The business name which the entity operates under; 
+
+ (F) The department or division, if applicable; 
+
+ (G) The physical site address including the street, city, county, and zip code; or a grid location acceptable to the responding fire department if no address exists; 
+
+ (H) The latitude and longitude of the facility; 
+
+ (I) The facility phone number for the site; 
+
+ (J) The email address of the business or contact person, if available; 
+
+ (K) The mailing address, if different from the site address; 
+
+ (L) The potential maximum number of occupants including visitors at the site; 
+
+ (M) The name, day and night phone number and email address of the person that can act as a referral if emergency responders need assistance in responding to a chemical accident at the facility; 
+
+ (N) The name of the responding fire department by local jurisdiction; 
+
+ (O) A brief summary of any procedures established by the covered employer, owner or operator for the control of hazardous substances in the event of an emergency; 
+
+ (P) Whether the hazardous substance storage location for each reportable hazardous substance is placarded according to National Fire Protection Association (NFPA) Standard 704; 
+
+ (Q) Whether the facility is occupied or unoccupied; and 
+
+ (R) The Federal Employer Identification Number (FEIN), or for sole proprietors their Social Security number. 
+
+ (c) The name and signature of the person completing the Hazardous Substance Report and the date it was completed. 
+
+ (d) Information about each reportable hazardous substance meeting the reportable quantity thresholds including, but not limited to: 
+
+ (A) The chemical, mixture, or product name; 
+
+ (B) The chemical name of the hazardous ingredient present in the highest concentration; 
+
+ (C) Whether the substance reported contains an extremely hazardous substance as listed in 40 CFR 355; 
+
+ (D) Whether the substance meets the threshold planning quantity as defined by 40 CFR 355; 
+
+ (E) If the chemical contains an Extremely Hazardous Substances, enter the name and CAS number of the Extremely Hazardous Substances in the mixture; 
+
+ (F) Whether the substance reported contains a Clean Air Act, Section 112(r) listed chemical; 
+
+ (G) Whether the substance reported contains a Process Safety Management listed chemical; 
+
+ (H) Information regarding whether the substance is pure or a mixture; 
+
+ (I) The physical state of the hazardous substance as it is released into the environment at Standard Temperature and Pressure (STP) relating whether it is a solid, liquid or a gas; 
+
+ (J) The unit of measure used to report the quantity range of the hazardous substance, relating whether it is reported in pounds, gallons, cubic feet or millicuries; 
+
+ (K) The average amount; 
+
+ (L) The maximum amount; 
+
+ (M) The maximum amount of each reported hazardous substance for each location reported; 
+
+ (N) The total amount transported to the facility; 
+
+ (O) The total amount transported from the facility; 
+
+ (P) The total estimated number of days the hazardous substance was on-site; 
+
+ (Q) The type of container the substance is stored in; 
+
+ (R) The pressure and temperature at which the substance is stored; 
+
+ (S) All applicable hazard classifications for each reportable hazardous substance; 
+
+ (T) The Chemical Abstract Service (CAS) number, if known; 
+
+ (U) The four-digit United Nations (UN) or North American (NA) number, if known; 
+
+ (V) The EPA Pesticide Registration number if applicable; and 
+
+ (W) The storage location. 
+
+ (e) Upon request of the State Fire Marshal, a covered employer, owner, or operator must provide Safety Data Sheets (SDS); 
+
+ (f) Other information that may be requested by the State Fire Marshal in order to meet the intent of The Community Right-to-Know and Protection Act. 
+
+ [Publications: Publications referenced are available from the agency.] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 453.367 
+ 
+ 
+ Statutes/Other Implemented:  ORS 453.317(1) & 453.317(2) 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSFM 1-2019, amend filed 01/02/2019, effective 01/02/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OSFM 1-2014, f. & cert. ef. 1-9-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OSFM 1-2010, f. 1-27-10, cert. ef. 2-1-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OSFM 5-2005, f. 3-31-05, cert. ef. 4-1-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OSFM 9-2002, f. 11-14-02, cert. ef. 11-17-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OSFM 1-1999, f. 2-2-99, cert. ef. 2-3-99 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ FM 4-1994, f. 12-14-94, cert. ef. 12-15-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ FM 1-1994, f. & cert. ef. 1-14-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

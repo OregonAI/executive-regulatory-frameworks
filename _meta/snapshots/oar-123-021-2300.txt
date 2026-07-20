@@ -1,0 +1,514 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Business Development Department 
+ Chapter 123 
+ 
+ 
+ 
+ 
+ 
+ Division 21 OPERATION OF OREGON CREDIT ENHANCEMENT FUND 
+ 123-021-2300 
+ Definitions
+ 
+ 
+ For the purposes of these rules, additional definitions may be found in OAR chapter 123, division 1. The following terms shall have the following definitions, unless the context clearly indicates otherwise: 
+
+ (1) "Authorized loan amount" means the amount of a loan authorized by the Department to be under the CEF Program pursuant to a loan insurance authorization issued by the Department to the financial institution making the loan. 
+
+ (2) "CEF Program" means the Credit Enhancement Fund Insurance Program established under ORS 285B.200 to 285B.218. 
+
+ (3) The "Deficiency" of a loan means the amount of principal outstanding upon default, accrued interest and the financial institution's reasonable costs of collection, exclusive of costs attributable to environmental problems, remaining unpaid after liquidation of collateral and collection of guarantees. 
+
+ (4) "Financial institution" has the meaning set forth in ORS 706.008. 
+
+ (5) "Fund" means the Credit Enhancement Fund created by ORS 285B.215. 
+
+ (6) "Loan Insurance Authorization" means a letter from the director or deputy director or designee to a financial institution agreeing to insure a loan to a borrower on the terms and conditions and subject to the requirements stated therein. 
+
+ (7) "Lender Agreement" means the agreement between the financial institution and the Department required by OAR 123-021-3500. 
+
+ (8)  “Material Adverse Change” or “MAC” means the deterioration of the Borrower’s credit quality resulting in the violation of a covenant or condition as defined in the Financial Institution’s loan agreement or binding commitment letter with the Borrower. 
+
+ (9) "Principal" in regards to a borrower is defined as: 
+
+ (a) If a sole proprietorship, the proprietor; 
+
+ (b) If a partnership, each managing partner and each partner who is a natural person and holds a twenty percent (20%) or more ownership interest in the partnership; and, 
+
+ (c) If a corporation, limited liability company, association or a development company, each director, each of the five most highly compensated executives or officers of the entity, and each natural person who is a direct or indirect holder of twenty percent (20%) or more of the ownership stock or stock equivalent of the entity. 
+
+ (10) “ Qualified Business” or “Borrower” means and must be: 
+
+ (a) An existing or proposed business with operations in Oregon, which is engaged, directly or through an affiliated business, in the economic production of goods or services;  
+
+ (b) Current with its federal, state and local tax obligations or have, and be current with, a repayment plan with the respective taxing authority and/or authorities; 
+
+ (c) Compliant with all local, state and federal laws and regulations; and 
+
+ (d) If the Qualified Business is a real estate holding company, all tenants of the Qualified Business must be and remain compliant with all local, state and federal laws and regulations. 
+
+ (11) “Soft Cost” means an architecture, design, permitting, insurance, project management, tax or other intangible cost of construction that is not a direct or “hard” cost of construction such as land acquisition, labor or materials. 
+
+ (12) “Substantial Benefit” may include, but is not limited to: 
+
+ (a)  Job creation or retention. 
+
+ (b) Increased sales or profits. 
+
+ (c) Access to new markets for the Borrower’s product or service. 
+
+ (d) Diversification of the local or regional economy. 
+
+ (e) Revitalization of a neighborhood or community. 
+
+ (13)  “SSBCI Program” means the State Small Business Credit Initiative Program administered by the United States Department of the Treasury. Links to the SSBCI Capital Program Policy Guidelines and Frequently Asked Questions are published by the United States Department of the Treasury. 
+
+ (14)  "Working Capital Loan" means any loan, the proceeds of which are to be used for operating, maintenance and costs and expenses unrelated to acquiring real property, production equipment, or other capital assets. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 285A.075 
+ 
+ 
+ Statutes/Other Implemented:  ORS 285B.200 - 285B.218 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OBDD 2-2024, amend filed 03/06/2024, effective 03/08/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OBDD 28-2023, temporary amend filed 10/13/2023, effective 10/13/2023 through 04/05/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OBDD 27-2023, renumbered from 123-021-0200, filed 10/06/2023, effective 10/06/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OBDD 4-2023, temporary amend filed 01/25/2023, effective 01/25/2023 through 07/23/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OBDD 2-2023, renumbered from 123-021-0010, filed 01/18/2023, effective 01/18/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OBDD 7-2016, f. & cert. ef. 6-3-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OBDD 6-2016(Temp), f. & cert. ef. 4-11-16 thru 10-7-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OBDD 5-2015, f. & cert. ef. 8-3-15 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ Reverted to OBDD 3-2013, f. & cert. ef. 5-23-13 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OBDD 1-2015(Temp), f. & cert. ef. 1-26-15 thru 7-24-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OBDD 3-2013, f. & cert. ef. 5-23-13 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ Reverted to OBDD 7-2012, f. & cert. ef. 6-1-12 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OBDD 18-2012(Temp), f. & cert. ef. 11-20-12 thru 5-17-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OBDD 7-2012, f. & cert. ef. 6-1-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OBDD 8-2011(Temp), f. & cert. ef. 12-8-11 thru 6-5-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EDD 17-2009, f. 10-30-09, cert. ef. 11-1-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EDD 24-2008, f. 7-31-08, cert. ef. 8-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EDD 5-2008(Temp), f. & cert. ef. 2-26-08 thru 8-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ Reverted to EDD 8-1999, f. & cert. ef. 10-1-99 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EDD 4-2007(Temp), f & cert. ef. 8-28-07 thru 2-22-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EDD 8-1999, f. & cert. ef. 10-1-99 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EDD 11-1998, f. & cert. ef. 5-22-98 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ Reverted to EDD 11-1994, f. & cert. ef. 7-29-94 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EDD 12-1997(Temp), f. & cert. ef. 10-7-97 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EDD 11-1994, f. & cert. ef. 7-29-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EDD 5-1994(Temp), f. & cert. ef. 3-3-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

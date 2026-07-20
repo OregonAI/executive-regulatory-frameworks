@@ -1,0 +1,209 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 316 PERSONAL INCOME TAX GENERAL PROVISIONS 
+ 150-316-0507 
+ Modification of Federal Taxable Income: Interest and Dividends 
+ 
+ (1) The character of interest and dividends received by an intermediary entity which owns the underlying obligations shall flow through to a taxpayer receiving a distribution from the intermediary entity.  (2) Oregon law allows the character of the interest or dividends to flow through to the taxpayer as if the taxpayer had received the interest or dividends directly from the obligor. If federal or Oregon law allows the character of such interest or dividends to flow through to the taxpayer, then such laws shall determine whether the distributions are taxable or nontaxable for Oregon purposes.  (3) No modifications will be allowed on the taxpayer’s Oregon return if the intermediary entity is the guarantor of the taxpayer’s principle and interest. See Example 6.  Example 1: Bill and Fay invested in a mutual fund in 1987 that invests in federal Series E obligations. The mutual fund holds title to the obligations. The mutual fund qualifies under ORS 316.683 to pay state exempt-interest dividends from the fund. Because the state exempt-interest dividends are treated as an item of interest described in ORS 316.680(1)(a), Bill and Fay may subtract those dividends from federal taxable income.  Example 2: Frank is a shareholder in an S corporation (qualifying as such for Oregon purposes after 12/31/82) which purchased some federal Series E obligations. Frank’s share of income from the S corporation includes interest income from the Series E obligations. Federal law, IRC §1366, allows the character of the interest to flow through to Frank. Therefore, ORS 316.680(1)(a) allows Frank to subtract his share of the Series E interest from federal taxable income.  Example 3: Mary is a shareholder in a mutual fund. The mutual fund invests solely in obligations of this state. The mutual fund qualifies under IRC §852(b)(5) to pay exempt-interest dividends. Mary received a distribution of exempt-interest dividends from the fund. The exempt-interest dividends retain the character given to them by the underlying obligations owned by the fund. Therefore, since federal and Oregon law do not tax such income, Mary is not required to make a modification to her federal taxable income for such distributions.  Example 4: Susan is a shareholder in a mutual fund. The mutual fund invests solely in obligations of states (other than Oregon). The mutual fund qualifies under Internal Revenue Code Section 852(b)(5) to pay exempt-interest dividends. Susan received a distribution of the federally exempt-interest dividends from the fund. Since exempt-interest dividends retain the character given to them by the underlying obligations owned by the fund, and ORS 316.680(2) requires interest from other states’ obligations to be added to federal taxable income, Susan shall add the amount of the distribution from the fund to her federal taxable income.  Example 5: Barbara is a shareholder in a mutual fund. The mutual fund invests solely in obligations of territories and possessions of the United States. The mutual fund qualifies under IRC §852(b)(5) to pay exempt-interest dividends. Barbara received a distribution of the exempt-interest dividends from the fund. The exempt-interest dividends retain the character given to them by the underlying obligations owned by the fund. The dividends retain the exempt character and are not taxed by federal. Federal law also prohibits states or other authorities from taxing interest on such obligations. Barbara is not required to make any modification to her federal taxable income for the distribution.  Example 6: Leo invests $500 in an interest bearing obligation issued by an investment firm. The obligation issued by the firm is a certificate entitling Leo to $1,000 payable by the firm in 1995. Although the firm makes investments in various securities, including U.S. government obligations, none of the interest received by Leo will qualify for subtraction on the Oregon return. The investment firm is liable for making repayment of the principal and interest, not the U.S. government. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 
+ 
+ 
+ Statutes/Other Implemented:  ORS 316.680 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 150-316.680-(B), REV 64-2016, f. 8-15-16, cert. ef. 9-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RD 5-1994, f. 12-15-94, cert. ef. 12-31-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RD 7-1989, f. 12-18-89, cert. ef. 12-31-89 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RD 15-1987, f. 12-10-87, cert. ef. 12-31-87 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RD 12-1985, f. 12-16-85, cert. ef. 12-31-85 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

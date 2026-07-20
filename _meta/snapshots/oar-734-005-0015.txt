@@ -1,0 +1,370 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Transportation 
+ Delivery and Operations Division - Chapter 734 
+ 
+ 
+ 
+ 
+ Division 5 OREGON COORDINATE SYSTEMS 
+ 734-005-0015 
+ Coordinate System Parameters 
+ 
+ (1) Oregon State Plane Coordinate System Of 1927 
+
+ (a) North Zone: 
+
+ (b) South Zone: 
+
+ (2) Oregon State Plane Coordinate System Of 1983 
+
+ (a) North Zone; 
+
+ (b) South Zone: 
+
+ (3) Oregon Coordinate Reference System Zones. 
+
+ (a) OCRS1983 
+
+ (A) Baker Zone: 
+
+ (B) Bend-Burns Zone: (former name: Bend-Vale Zone): 
+
+ (C) Bend-Klamath Falls Zone: 
+
+ (D) Bend-Redmond-Prineville Zone: 
+
+ (E) Burns-Harper Zone: 
+
+ (F) Canyon City-Burns Zone: 
+
+ (G) Canyonville-Grants Pass Zone: 
+
+ (H) Coast Range North Zone: 
+
+ (I) Columbia River East Zone: 
+
+ (J) Columbia River West Zone: 
+
+ (K) Cottage Grove-Canyonville Zone: 
+
+ (L) Dayville-Prairie City Zone: 
+
+ (M) Denio-Burns Zone: 
+
+ (N) Dufur-Madras Zone: 
+
+ (O) Eugene Zone: 
+
+ (P) Grants Pass-Ashland Zone: 
+
+ (Q) Gresham-Warm Springs Zone: 
+
+ (R) Halfway Zone: 
+
+ (S) La Grande Zone: 
+
+ (T) Medford-Diamond Lake Zone: 
+
+ (U) Mitchell Zone: 
+
+ (V) North Central Zone: 
+
+ (W) Ochoco Summit Zone: 
+
+ (X) Ontario Zone: 
+
+ (Y) Oregon Coast Zone: 
+
+ (Z) Owyhee Zone: 
+
+ (AA) Pendleton Zone: 
+
+ (BB) Pendleton-La Grande Zone: 
+
+ (CC) Pilot Rock-Ukiah Zone: 
+
+ (DD) Portland Zone: 
+
+ (EE) Prairie City-Brogan Zone: 
+
+ (FF) Riley-Lakeview Zone: 
+
+ (GG) Salem Zone: 
+
+ (HH) Santiam Pass Zone (former name: Sweet Home-Sisters Zone): 
+
+ (II) Siskiyou Pass Zone: 
+
+ (JJ) Ukiah-Fox Zone: 
+
+ (KK) Wallowa Zone: 
+
+ (LL) Warner Highway Zone: 
+
+ (MM) Willamette Pass Zone: 
+
+ (NN) Oregon Lambert Zone 
+
+ (b) OCRS 2022 
+
+ (A) Statewide 2022 Zone: 
+
+ (B) Baker 2022 Zone: 
+
+ (C) Bend-Burns 2022 Zone: 
+
+ (D) Bend-Klamath Falls 2022 Zone: 
+
+ (E) Bend-Redmond-Prineville 2022 Zone: 
+
+ (F) Burns-Harper 2022 Zone: 
+
+ (G) Canyon City-Burns 2022 Zone: 
+
+ (H) Canyonville-Grants Pass 2022 Zone: 
+
+ (I) Coast Range North 2022 Zone: 
+
+ (J) Columbia River East 2022 Zone: 
+
+ (K) Columbia River West 2022 Zone: 
+
+ (L) Cottage Grove-Canyonville 2022 Zone: 
+
+ (M) Dayville-Prairie City 2022 Zone: 
+
+ (N) Denio-Burns 2022 Zone: 
+
+ (O) Dufur-Madras 2022 Zone: 
+
+ (P) Eugene 2022 Zone: 
+
+ (Q) Grants Pass-Ashland 2022 Zone: 
+
+ (R) Gresham-Warm Springs 2022 Zone: 
+
+ (S) Halfway 2022 Zone: 
+
+ (T) La Grande 2022 Zone: 
+
+ (U) Medford-Diamond Lake 2022 Zone: 
+
+ (V) Mitchell 2022 Zone: 
+
+ (W) North Central 2022 Zone: 
+
+ (X) Ochoco Summit 2022 Zone: 
+
+ (Y) Ontario 2022 Zone: 
+
+ (Z) Oregon Coast 2022 Zone: 
+
+ (AA) Owyhee 2022 Zone: 
+
+ (BB) Pendleton 2022 Zone: 
+
+ (CC) Pendleton-La Grande 2022 Zone: 
+
+ (DD) Pilot Rock-Ukiah 2022 Zone: 
+
+ (EE) Portland 2022 Zone: 
+
+ (FF) Prairie City-Brogan 2022 Zone: 
+
+ (GG) Riley-Lakeview 2022 Zone: 
+
+ (HH) Salem 2022 Zone: 
+
+ (II) Santiam Pass 2022 Zone: 
+
+ (JJ) Siskiyou Pass 2022 Zone: 
+
+ (KK) Ukiah-Fox 2022 Zone: 
+
+ (LL) Wallowa 2022 Zone: 
+
+ (MM) Warner Highway 2022 Zone: 
+
+ (NN) Willamette Pass 2022 Zone: 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 184.619 & Ch.179 OL 2011 
+ 
+ 
+ Statutes/Other Implemented:  ORS 209.130, 209.155, 209.250, 390.770 & Ch.179 OL 2011 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOD 6-2025, amend filed 12/11/2025, effective 01/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HWD 5-2016, f. & cert. ef. 12-16-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HWD 13-2011, f. 12-22-11, cert. ef. 1-1-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

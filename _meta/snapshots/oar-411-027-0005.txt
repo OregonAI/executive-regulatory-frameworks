@@ -1,0 +1,467 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Aging and People with Disabilities and Developmental Disabilities - Chapter 411 
+ 
+ 
+ 
+ 
+ Division 27 PAYMENT LIMITATIONS IN HOME AND COMMUNITY-BASED SERVICES 
+ 411-027-0005 
+ Definitions
+ 
+ 
+ (1) "AAA" means "Area Agency on Aging" as defined in this rule. 
+
+ (2) "Activities of Daily Living (ADL)" mean those personal, functional activities required by an individual for continued well-being, which are essential for health and safety. Activities include eating, dressing and grooming, bathing and personal hygiene, mobility, elimination, and cognition. 
+
+ (3) “Adult Foster Homes (AFH)” mean any facility licensed under OAR chapter 411, divisions 049, 050, 051, 052, OAR chapter 411, division 360 or OAR chapter 309, division 040. 
+
+ (4) "Aging and People with Disabilities (APD)" means the program area of Aging and People with Disabilities, within the Oregon Department of Human Services. 
+
+ (5) "Area Agency on Aging (AAA)" means the Department designated agency charged with the responsibility to provide a comprehensive and coordinated system of services to older adults and adults with disabilities in a planning and service area. The term Area Agency on Aging is inclusive of both Type A and Type B Area Agencies on Aging as defined in ORS 410.040 and described in ORS 410.210-300. 
+
+ (6) "Assessment" or "Reassessment" means an assessment as defined in OAR 411-015-0008. 
+
+ (7) ”Assisted Living Facility” means a building or complex as defined in OAR chapter 411, division 054 rules and licensed by the Oregon Department of Human Services. 
+
+ (8) "Assistive Devices" means any category of durable medical equipment, mechanical apparatus, electrical appliance, or instrument of technology, service animals, general household items, or furniture used to assist and enhance an individual's independence in performing any activity of daily living. 
+
+ (9) “Behavior Support Plan” means a plan written by a department approved Behavior Support Services professional to write plans detailing how the licensed provider should respond to an individual’s behavior(s) and/or how to prevent behaviors. 
+
+ (10) “Caregiver” means any person paid to provide services and supports related to Activities of Daily Living, Instrumental Activities of Daily Living and health related tasks. 
+
+ (11) "CA/PS" means the "Client Assessment and Planning System" as defined in this rule. 
+
+ (12) "Case Manager" means an employee of the Department or Area Agency on Aging, who assesses the service needs of an applicant, determines eligibility, and offers service choices to the eligible individual. The case manager authorizes and implements the service plan and monitors the services delivered. 
+
+ (13) "Central Office" means the unit within the Department responsible for program and policy development and oversight. 
+
+ (14) "Client Assessment and Planning System (CA/PS)": 
+
+ (a) Is the single entry data system used for -- 
+
+ (A) Completing a comprehensive and holistic assessment; 
+
+ (B) Surveying an individual's physical, mental, and social functioning; and 
+
+ (C) Identifying risk factors, individual choices and preferences, and the status of service needs. 
+
+ (b) The CA/PS documents the level of need and calculates the individual's service priority level in accordance with the rules in OAR chapter 411, division 015, calculates the service payment rates, and accommodates individual participation in service planning. 
+
+ (15) "Consumer Choice" means an individual has been informed of alternatives to nursing facility services and has been given the choice of institutional services, Medicaid home and community-based service options, or the Independent Choices Program. 
+
+ (16) "Contracted In-Home Care Agency” means an incorporated entity or equivalent, licensed in accordance with OAR chapter 333, division 536, that provides hourly contracted in-home services to individuals served by the Department or Area Agency on Aging. 
+
+ (17) "Cost Effective" means being responsible and accountable with Department resources. This is accomplished by offering less costly alternatives when providing choices that adequately meet an individual's service needs. Those choices consist of the available services under the Medicaid home and community-based service options, the utilization of assistive devices, natural supports, architectural modifications, and alternative service resources (defined in OAR 411-015-0005) not paid for by the Department. 
+
+ (18) "Department" means the Oregon Department of Human Services (ODHS). 
+
+ (19) "Distressed Provider Relief Fund" means the program described in OAR chapter 411, division 029 designed to provide additional compensation to providers who meet the criteria. 
+
+ (20) "Enhanced Wage Add-on Program" means the program described in OAR 411-027-0160 designed to provide additional compensation to providers who meet the criteria. 
+
+ (21) "Exception" means a Department approved payment, rate or authorized hours based on the Department’s determination that the individual’s service needs exceed those assumed in the rate methodologies including the minimum hours of care defined in the payment tiers or specific needs contract. 
+
+ (22) "Homecare Worker" means a provider, as described in OAR 411-031-0040, that is directly employed by a consumer to provide hourly services to the eligible consumer. 
+
+ (a) The term homecare worker includes consumer-employed providers in the Spousal Pay and Oregon Project Independence Programs. The term homecare worker also includes consumer-employed providers that provide state plan personal care services to older adults and adults with physical disabilities. Relatives providing Medicaid in-home services to an individual living in the relative's home are considered homecare workers. 
+
+ (b) The term homecare worker does not include Independent Choices Program providers or personal care attendants enrolled through the Office of Developmental Disability Services or the Addictions and Mental Health Division. 
+
+ (23) "Hourly Services" mean the in-home services, including activities of daily living and instrumental activities of daily living, that are provided at regularly scheduled times. 
+
+ (24) "Independent Choices Program (ICP)" means the self-directed in-home services program in which a participant is given a cash benefit to purchase goods and services identified in a service plan and prior approved by the Department or Area Agency on Aging. 
+
+ (25) "Individual" means the person applying for, or eligible for, services. The term "individual" is synonymous with "client", "participant", "consumer", and "consumer-employer." 
+
+ (26) "In-Home Services" mean those services that meet an individual's assessed need related to activities of daily living and instrumental activities of daily living provided in the individual’s home or family’s home. 
+
+ (27) "Instrumental Activities of Daily Living (IADL)" mean those activities, other than activities of daily living, required by an individual to continue independent living. The definitions and parameters for assessing needs in IADL are identified in OAR 411-015-0007. 
+
+ (28) "Natural Supports" or "Natural Support System" means resources and supports (e.g., relatives, friends, significant others, neighbors, roommates, or the community) who are willing to voluntarily provide services to an individual without the expectation of compensation. Natural supports are identified in collaboration with the individual and the potential "natural support". The natural support is required to have the skills, knowledge and ability to provide the needed services and supports. 
+
+ (29) "Rate Schedule" means the rate schedule maintained by the Department in OAR 411-027-0170 and posted at https://www.oregon.gov/odhs/providers-partners/seniors-disabilities/Documents/rate-schedule.pdf. 
+
+ (30) “Residential Care Facility (RCF)” means a building or complex as defined in OAR chapter 411, division 054 rules and licensed by the Oregon Department of Human Services. 
+
+ (31) "These Rules" mean the rules in OAR chapter 411, division 027. 
+
+ (32) “Tier” refers to the rate level assigned to an eligible individual in an Adult Foster Home or Residential Care Facility, based on their assessed need. Tiers are determined using a point system evaluating the individual’s ability to perform each component of Activities of Daily Living (ADLs), Instrumental Activities of Daily Living (IADLs) and health-related tasks as documented in the CA/PS assessment. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 410.070 
+ 
+ 
+ Statutes/Other Implemented:  ORS 410.070 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 12-2026, amend filed 06/18/2026, effective 06/24/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 23-2025, temporary amend filed 12/29/2025, effective 01/01/2026 through 06/29/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 2-2023, amend filed 02/08/2023, effective 02/10/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 41-2022, temporary amend filed 08/19/2022, effective 08/19/2022 through 02/14/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 5-2022, amend filed 03/01/2022, effective 03/03/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 31-2021, temporary amend filed 09/03/2021, effective 09/07/2021 through 03/05/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 41-2020, amend filed 10/09/2020, effective 10/15/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 27-2020, temporary amend filed 06/25/2020, effective 07/01/2020 through 10/30/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 18-2020, temporary amend filed 05/18/2020, effective 05/18/2020 through 10/30/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 9-2018, amend filed 03/28/2018, effective 03/29/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 20-2017, temporary amend filed 09/29/2017, effective 10/01/2017 through 03/29/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 3-2016, f. 3-4-16, cert. ef. 3-18-16 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 18-2015(Temp), f. & cert. ef. 9-21-15 thru 3-18-16 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 33-2014, f. & cert. ef. 9-2-14 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 4-2014(Temp), f. & cert. ef. 3-20-14 thru 9-16-14 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 7-2008, f. 5-29-08, cert. ef. 6-1-08 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

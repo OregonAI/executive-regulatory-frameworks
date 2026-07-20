@@ -1,0 +1,246 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 116 USE OF RADIONUCLIDES IN THE HEALING ARTS 
+ 333-116-0560 
+ Dosimetry Equipment
+ 
+ 
+ (1) Except for low dose-rate remote afterloader sources where the source output or activity is determined by the manufacturer, a licensee must have a calibrated dosimetry system available for use. To satisfy this requirement, one of the following two conditions must be met. 
+
+ (a) The system must have been calibrated using a system or source traceable to the National Institute of Standards and Technology (NIST) and published protocols accepted by nationally recognized bodies; or by a calibration laboratory accredited by the American Association of Physicists in Medicine (AAPM). The calibration must have been performed within the previous two years and after any servicing that may have affected system calibration; or 
+
+ (b) The system must have been calibrated within the previous four years; 18 to 30 months after that calibration, the system must have been intercompared at an intercomparison meeting with another dosimetry system that was calibrated within the past 24 months by the National Institute of Standards and Technology or by a calibration laboratory accredited by the AAPM. The intercomparison meeting must be sanctioned by a calibration laboratory or radiologic physics center accredited by the AAPM. The results of the intercomparison meeting must show that the calibration factor of the licensee's system had not changed by more than two percent. The licensee must not use the intercomparison result to change the calibration factor. When intercomparing dosimetry systems to be used for calibrating sealed sources for therapeutic units, the licensee must use a comparable unit with beam attenuators or collimators, as applicable, and sources of the same radionuclide as the source used at the licensee's facility. 
+
+ (2) The licensee must have available for use a dosimetry system for spot-check output measurements, if applicable. To meet this requirement, the system may be compared with a system that has been calibrated in accordance with section (1) of this rule. This comparison must have been performed within the previous year and after each servicing that may have affected system calibration. The spot-check system may be the same system used to meet the requirement in section (1) of this rule. 
+
+ (3) The licensee must retain a record of each calibration, intercomparison and comparison for the duration of the license. For each calibration, intercomparison or comparison, the record must include the date, the model numbers and serial numbers of the instruments that were calibrated, intercompared or compared as required by sections (1) and (2) of this rule, the correction factors that were deduced, the names and credentials of the individuals who performed the calibration, intercomparison or comparison, and evidence that the intercomparison meeting was sanctioned by a calibration laboratory or radiologic physics center accredited by AAPM. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 453.635 
+ 
+ 
+ Statutes/Other Implemented:  ORS 453.605 - 453.807 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 49-2018, minor correction filed 02/01/2018, effective 02/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 4-2007, f. & cert. ef. 3-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 12-2006, f. & cert. ef. 6-16-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 36-2004, f. & cert. ef. 12-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 31-2004(Temp), f. & cert. ef. 10-8-04 thru 4-5-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 3-2003, f. & cert. ef. 3-27-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 1-1991, f. & cert. ef. 1-8-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

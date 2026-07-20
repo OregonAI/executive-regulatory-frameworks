@@ -1,0 +1,390 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 147 FQHC AND RHC SERVICES 
+ 410-147-0120 
+ Division Encounter and Recognized Practitioners
+ 
+ 
+ (1) The Division of Medical Assistance Programs (Division) reimburses Federally Qualified Health Center (FQHC) and Rural Health Clinic (RHC) services according to the Prospective Payment System (PPS) as follows: 
+
+ (a) When the service(s) meet the criteria of a valid encounter as defined in Sections (2) through (4) of this rule; 
+
+ (b) Reimbursement is limited to the Division’s Medicaid-covered services according to a client’s Oregon Health Plan (OHP) benefit package. These services include ambulatory services included in the State Plan under Title XIX or Title XXI of the Social Security Act. Other services that are not defined in this rule or the State Plan under Title XIX or Title XXI of the Social Security Act are not reimbursed by the Division. 
+
+ (2) For the provision of services defined in Titles XIX and XXI and provided through an FQHC or RHC, an “encounter” is defined as a face-to-face or telephone contact between a health care professional and an eligible OHP client within a 24-hour period ending at midnight, as documented in the client's medical record. Section (4) of this rule outlines limitations for telephone contacts that qualify as encounters. For purposes of this rule, a face-to-face “encounter” includes services provided via a synchronous two-way audiovisual link between a patient and a provider per OAR 410-130-0610. 
+
+ (3) An encounter includes all services, items and supplies provided to a client during the course of an office visit (except as excluded in Sections (6) and (12) of this rule) and those services considered “incident-to.” These services are inclusive of the visit with the core provider meeting the criteria a valid encounter and reimbursed at the PPS all-inclusive encounter rate. These services include: 
+
+ (a) Drugs or medication treatments provided during a clinic visit are inclusive of the encounter, with the exception of contraception supplies and medications as costs for these items are excluded from the PPS encounter rate calculation (see OAR 410-147-0280 Drugs and OAR 410-147-0480 Cost Statement (DMAP 3027) Instructions); 
+
+ (b) Medical supplies, equipment, or other disposable products (e.g. gauze, band-aids, wrist brace) are inclusive of an office visit; 
+
+ (c) Laboratory and/or radiology services (even if performed on another day); 
+
+ (d) Venipuncture for lab tests. The Division does not deem a visit for lab test only to be a clinic encounter; 
+
+ (4) Telephone encounters qualify as a valid encounter for services provided in accordance with OAR 410-130-0595, Maternity Case Management (MCM) and 410-130-0190, Tobacco Cessation (see also OAR 410-120-1200). Except as set forth below, providers may not make telephone contacts at the exclusion of face-to-face visits. 
+
+ (a) Telephone encounters must include all the same components of the service as if provided face-to-face. 
+
+ (b) During a state of emergency of an epidemic outbreak of an infectious disease impacting the safety of public health, in accordance with the Health Evidence Review Commission’s Prioritized List, guideline notes, and OAR 410-130-0610 (for dates of service on or before December 31, 2020) and OAR 410-120-1990 (for dates of service on or after January 1, 2021), telephonic evaluation management services, assessment and management services, and psychotherapy are appropriate to ensure access to care while avoiding and preventing unnecessary potential infectious exposure, and may be made in place of a face-to-face visit. 
+
+ (5) Extended care services furnished under a contract between a county Community Mental Health Program (CMHP) of the FQHC and Addictions and Mental Health Division (AMH) are reimbursed outside of the PPS. Extended care services are those services provided under AMH’s licensure requirements and reimbursed under AMH’s terms and conditions. 
+
+ (6) Some Division Medicaid-covered services are not reimbursable when furnished according to Oregon Health Plan (OHP) client’s benefit package as a stand alone service. Although costs incurred for furnishing these services are inclusive of the PPS all-inclusive rate calculation, visits where these services were furnished as a stand-alone service were excluded from the denominator for the PPS rate calculation (see OAR 410-147-0480, Cost Statement (DMAP 3027) Instructions). The following services when furnished as a stand-alone service are not reimbursable: 
+
+ (a) Sign language and oral interpreter services; 
+
+ (b) Supportive rehabilitation services including, but not limited to, environmental intervention, supported housing and employment, or skills training and activity therapy to promote community integration and job. 
+
+ (7) FQHCs and RHCs may provide certain services, items and supplies that are prohibited from being billed under the health centers provider enrollment, and requires separate enrollment (see OAR 410-147-0320(1)(b) Federally Qualified Health Center (FQHC)/Rural Health Clinics (RHC) Enrollment). These services include: 
+
+ (a) Durable medical equipment, prosthetics, orthotics or medical supplies (DMEPOS) (e.g. diabetic supplies) not generally provided during the course of a clinic visit (refer to OAR chapter 410, division 122, DMEPOS); 
+
+ (b) Prescription pharmaceutical and/or biologicals not generally provided during the clinic visit must be billed to DMAP through the pharmacy program (refer to OAR chapter 410, division 121, Pharmaceutical Services); 
+
+ (c) Targeted case management (TCM) services (refer to OAR chapter 410, division 138). 
+
+ (8) Client contact with more than one health professional for the same diagnosis or multiple encounters with the same health professional that take place on the same day and at a single location constitute a single encounter. For exceptions to this rule, see OAR 410-147-0140 for reporting multiple encounters. 
+
+ (9) Providers are advised to include all services that can appropriately be reported using a procedure code on the claim and bill as instructed in the appropriate Division program rules and must use the appropriate HIPAA procedure code set such as CPT, HCPCS, ICD-10-CM, ADA CDT, NDC, established according to 45 CFR 162.1000 to 162.1011, which best describes the specific service or item provided. For claims that require the listing of a diagnosis or procedure code as a condition of payment, the code listed on the claim form must be the code that most accurately describes the client's condition and the service(s) provided. Providers must use the ICD-10-CM diagnosis coding system when a diagnosis is required unless otherwise specified in the appropriate individual provider rules (refer to OAR 410-120-1280 Billing and see OAR 410-147-0040 ICD-10-CM Diagnosis and CPT/HCPCs Procedure Codes). 
+
+ (10) FQHC and RHC services that may meet the criteria of a valid encounter are (refer to individual program administrative rules for service limitations.): 
+
+ (a) Medical (OAR chapter 410, division 130); 
+
+ (b) Diagnostic: The Division covers reasonable services for diagnosing conditions, including the initial diagnosis of a condition that is below the funding line on the Prioritized List of Health Services. Once a diagnosis is established for a service, treatment or item that falls below the funding line, the Division will not cover any other services related to the diagnosis; 
+
+ (c) Tobacco Cessation (OAR 410-130-0190); 
+
+ (d) Dental (see to OAR 410-147-0125, and refer to OAR chapter 410, division 123); 
+
+ (e) Vision (OAR chapter 410, division 140); 
+
+ (f) Physical Therapy (OAR chapter 410, division 131); 
+
+ (g) Occupational Therapy (OAR chapter 410, division 131); 
+
+ (h) Podiatry (OAR chapter 410, division 130); 
+
+ (i) Mental Health (Refer to the Division of Addiction and Mental Health (AMH) for appropriate OARs); 
+
+ (j) Alcohol, Chemical Dependency, and Addiction services (see also OAR 410-147-0320). Requires a letter or licensure of approval by AMH (refer to AMH for appropriate OARs); 
+
+ (k) Maternity Case Management (MCM) (OAR 410-147-0200); 
+
+ (L) Speech (OAR chapter 410, division 129); 
+
+ (m) Hearing (OAR chapter 410, division 129); 
+
+ (n) The Division considers a home visit for assessment, diagnosis, treatment or MCM as an encounter. The Division does not consider home visits for MCM as home health services; 
+
+ (o) Professional services provided in a hospital setting; and 
+
+ p) Other Title XIX or XXI services as allowed under Oregon's Medicaid and CHIP State Plan Amendments and the Division’s administrative rules. 
+
+ (11) The following practitioners are recognized by the Division: 
+
+ (a) Doctors of medicine, osteopathy and naturopathy; 
+
+ (b) Licensed Physician Associates; 
+
+ (c) Dentists; 
+
+ (d) Dental Hygienists who hold a Limited Access Permit (LAP) — may provide dental hygiene services without the supervision of a dentist in certain settings. For more information, refer to the section on Limited Access Permits, ORS 680.200 and the appropriate Oregon Board of Dentistry OARs; 
+
+ (e) Pharmacists; 
+
+ (f) Nurse Practitioners; 
+
+ (g) Nurse Midwives; 
+
+ (h) Other specialized nurse practitioners; 
+
+ (i) Registered nurses — may accept and implement orders within the scope of their license for client care and treatment under the supervision of a licensed health care professional recognized by the Division in this section and who is authorized to independently diagnose and treat according to appropriate State of Oregon’s Board of Nursing OARs; 
+
+ (j) Psychiatrists; 
+
+ (k) Licensed Clinical Social Workers; 
+
+ (L) Clinical psychologists; 
+
+ (m) Acupuncturists — Refer to OAR chapter 410, division 130 for service coverage and limitations; 
+
+ (n) Licensed professional counselor; 
+
+ (o) Licensed marriage and family therapist; or 
+
+ (p) Other health care professionals providing services within their scope of practice and working under the supervision requirements of: 
+
+ (A) Their individual provider’s certification or license; or 
+
+ (B) A clinic’s mental health certification or alcohol and other drug program approval or licensure by the Addictions and Mental Health Division (AMH) (see OAR 410-147-0320). 
+
+ (12) Encounters with a registered professional nurse or a licensed practical nurse and related medical supplies (other than drugs and biologicals) furnished on a part-time or intermittent basis to home-bound clients (limited to areas in which the Secretary has determined that there is a shortage of home health agencies — Code of Federal Regulations 42 ¦ 405.2417), and any other ambulatory services covered by the Division are also reimbursable as permitted within the clinic's scope of services (see OAR 410-147-0020). 
+
+ (13) FQHCs and RHCs may furnish services that are reimbursed outside of the PPS all-inclusive encounter rate and according to the physician fee schedule. These services include: 
+
+ (a) Administrative medical examinations and report services (refer to OAR chapter 410, division 150); 
+
+ (b) Death with Dignity services (refer to OAR 410-130-0670); 
+
+ (c) Services provided to Citizenship Waived Medical (CWM) clients (refer to OARs 410-120-1210, 461-135-1070 and 410-130-0240); 
+
+ (d) Services provided to Qualified Medicare Beneficiary (QMB) only clients (refer to OAR 410-120-1210, Medical Assistance Benefit Packages and Delivery System). Specific billing information is located in the FQHC and RHC Supplemental Information billing guide; and 
+
+ (e) Comprehensive environmental lead investigation (refer to OAR 410-130-0245, Early and Periodic Screening, Diagnostic and Treatment Program). 
+
+ (14) OHP benefit packages and delivery system are described in OAR 410-120-1210. Most OHP clients have prepaid health services, contracted for by the Authority through enrollment in a Prepaid Health Plan (PHP). Non-PHP-enrolled clients, receive services on an "open card" or "fee-for-service” (FFS) basis. 
+
+ (a) The Division is responsible for making payment for services provided to open card clients. The provider will bill the Division the clinic’s encounter rate for Medicaid-covered services provided to these clients according to their OHP benefit package (see OAR 410-147-0360, Encounter Rate Determination). 
+
+ (b) A PHP is responsible to provide, arrange and make reimbursement arrangements for covered services for their Division members (refer to OAR 410-120-0250, and OAR chapter 410, division 141, OHP administrative rules governing PHPs). The provider must bill the PHP directly for services provided to an enrolled client (See also OARs 410-147-0080, Prepaid Health Plans, and 410-147-0460, PHP Supplemental Payment). Clinics must not bill the Division for PHP-covered services provided to eligible OHP clients enrolled in PHPs. Exceptions include: 
+
+ (A) Family planning services provided to a PHP-enrolled client when the clinic does not have a contract with the PHP, and if the PHP denies payment (see OAR 410-147-0060); and 
+
+ (B) HIV/AIDS prevention provided to a PHP-enrolled client when the clinic does not have a contract with the PHP, and if the PHP denies payment (see OAR 410-147-0060). 
+
+ (15) Federal law requires that state Medicaid agencies take all reasonable measures to ensure that in most instances the Division will be the payer of last resort. Providers must make reasonable efforts to obtain payment first from other resources before billing the Division (refer to OAR 410-120-1140 Verification of Eligibility). 
+
+ (16) When a provider receives a payment from any source prior to the submission of a claim to the Division, the amount of the payment must be shown as a credit on the claim in the appropriate field (refer to OARs 410-120-1280 Billing and 410-120-1340 Payment). 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042 & ORS 414.065 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.065 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 20-2025, minor correction filed 01/09/2025, effective 01/09/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 17-2022, minor correction filed 02/16/2022, effective 02/16/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 46-2020, amend filed 09/11/2020, effective 09/15/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 11-2020, temporary amend filed 03/20/2020, effective 03/20/2020 through 09/15/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 51-2015, f. 9-22-15, cert. ef. 10-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ DMAP 38-2010, f. 12-15-10, cert. ef. 1-1-11 
+DMAP 47-2009, f. 12-15-09, cert. ef. 1-1-10 
+DMAP 22-2009, f. 6-12-09, cert. ef. 7-1-09 
+DMAP 34-2008, f. 11-26-08, cert. ef. 12-1-08 
+OMAP 44-2006, f. 12-15-06, cert. ef. 1-1-07 
+OMAP 27-2006, f. 6-14-06, cert. ef. 7-1-06 
+OMAP 49-2004, f. 7-28-04, cert. ef. 8-1-04 
+OMAP 71-2003, f. 9-15-03, cert. ef. 10-1-03 
+OMAP 3-2003, f. 1-31-03, cert. ef. 2-1-03 
+OMAP 63-2002, f. & cert. ef. 10-1-02, Renumbered from 410-135-0150 
+OMAP 62-2002, f. & cert. ef. 10-1-02, Renumbered from 410-128-0390 
+OMAP 37-2001, f. 9-24-01, cert. ef. 10-1-01 
+OMAP 21-2000, f. 9-28-00, cert. ef. 10-1-00 
+OMAP 20-2000, f. 9-28-00, cert. ef. 10-1-00 
+OMAP 35-1999, f. & cert. ef. 10-1-99 
+OMAP 19-1999, f. & cert. ef. 4-1-99 
+HR 7-1995, f. 3-31-95, cert. ef. 4-1-95 
+HR 13-1993, f. & cert. ef. 71-1-93 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

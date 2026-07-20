@@ -1,0 +1,221 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 25 GENETIC INFORMATION AND PRIVACY 
+ 333-025-0100 
+ Definitions 
+ 
+ As used in these rules:  (1) "Anonymous research" means scientific or medical genetic research conducted in such a manner that any DNA sample or genetic information used in the research is unidentified. "Anonymous research" does not include research conducted in such a manner that the identity of such an individual, or the identity of the individual's blood relatives, can be determined by use of a code, encryption key or other means of linking the information to a specific individual.  (2) "Biological sample" means any human biological specimen that may be used as a DNA sample.  (3) "Blanket informed consent" means that the individual has consented to the use of that individual's DNA sample or health information for any future research, but has not been provided with a description of or consented to the use of the sample in genetic research or any specific genetic research project.  (4) "Blood relative" means a person who is:  (a) Related by blood to an individual; and  (b) A parent, sibling, son, daughter, grandparent, grandchild, aunt, uncle, first cousin, niece or nephew of the individual.  (5) "Clinical" means relating to or obtained through the actual observation, diagnosis, or treatment of patients and not through research.  (6) "Coded" means identifiable only through the use of a system of encryption that links a DNA sample or genetic information to an individual or the individual's blood relative. A coded DNA sample or genetic information is supplied by a repository to an investigator with a system of encryption.  (7) "Covered entity," as applied to a health care provider, means a health care provider that transmits any health information in electronic form to carry out financial or administrative activities in connection with a transaction covered by ORS 192.518 to 192.524.  (8) "Deidentified" means lacking, or having had removed, the identifiers or system of encryption that would make it possible for a person to link a biological sample or health information to an individual or the individual's blood relative, and neither the investigator nor the repository can reconstruct the identity of the individual from whom the sample or information was obtained. DNA samples and genetic information will be considered deidentified only if they meet the following standards provided in the Federal Privacy Rule:  (a) A person with appropriate knowledge of and experience with generally accepted statistical and scientific principles and methods for rendering information not individually identifiable:  (A) Applying such principles and methods, determines that the risk is very small that the information could be used, alone or in combination with other reasonably available information, by an anticipated recipient to identify an individual who is a subject of the information; and  (B) Documents the methods and results of the analysis that justify such determination; or  (b) The following identifiers of the individual or of relatives, employers, or household members of the individual, are removed:  (A) Names;  (B) All geographic subdivisions smaller than a state, including street address, city, county, precinct, zip code, and their equivalent geocodes, except for the initial three digits of a zip code if, according to the current publicly available data from the Bureau of the Census:  (i) The geographic unit formed by combining all zip codes with the same three initial digits contains more than 20,000 people; and  (ii) The initial three digits of a zip code for all such geographic units containing 20,000 or fewer people is changed to 000.  (C) All elements of dates (except year) for dates directly related to an individual, including birth date, admission date, discharge date, date of death; and all ages over 89 and all elements of dates (including year) indicative of such age, except that such ages and elements may be aggregated into a single category of age 90 or older;  (D) Telephone numbers;  (E) Fax numbers;  (F) Electronic mail addresses;  (G) Social security numbers;  (H) Medical record numbers;  (I) Health plan beneficiary numbers;  (J) Account numbers;  (K) Certificate/license numbers;  (L) Vehicle identifiers and serial numbers, including license plate numbers;  (M) Device identifiers and serial numbers;  (N) Web Universal Resource Locators (URLs);  (O) Internet Protocol (IP) address numbers;  (P) Biometric identifiers, including finger and voice prints;  (Q) Full face photographic images and any comparable images; and  (R) Any other unique identifying number, characteristic, or code; and  (c) The investigator and repository do not have actual knowledge that the information could be used alone or in combination with other information to identify an individual who is a subject of the information.  (9) "Direct provider" means a health care provider that is not an indirect treatment provider.  (10) "Disclose" means to release, publish, or otherwise make known to a third party a biological sample or health information.  (11) "DNA" means deoxyribonucleic acid.  (12) "DNA sample" means any human biological specimen that is obtained or retained for the purpose of extracting and analyzing the individual's DNA to perform a genetic test. "DNA sample" includes DNA extracted from the specimen.  (13) "Federal Common Rule" means the Federal Policy for the Protection of Human Subjects, as adopted by the following federal agencies and as revised through November 13, 2001: 7 CFR Part 1c, Department of Agriculture; 10 CFR Part 745, Department of Energy; 14 CFR Part 1230, National Aeronautics and Space Administration; 15 CFR Part 27, Department of Commerce; 16 CFR Part 1028, Consumer Product Safety Commission; 21 CFR Parts 50 and 56, Food and Drug Administration; 22 CFR Part 225, International Development Cooperation Agency, Agency for International Development; 24 CFR Part 60, Department of Housing and Urban Development; 28 CFR Part 46, Department of Justice; 32 CFR Part 219, Department of Defense; 34 CFR Part 97, Department of Education; 38 CFR Part 16, Department of Veterans Affairs; 40 CFR Part 26, Environmental Protection Agency; 45 CFR Part 690, National Science Foundation; 45 CFR Part 46, Department of Health and Human Services; 49 CFR Part 11, Department of Transportation. In the case of research not subject to federal regulation under one of these provisions, "Federal Common Rule" means 45 CFR Part 46.  (14) "Federal Privacy Rule" means the federal regulations under the Health Insurance Portability and Accountability Act, 45 CFR parts 160 and 164.  (15) "Genetic characteristic" includes a gene, chromosome or alteration thereof that may be tested to determine the existence or risk of a disease, disorder, trait, propensity or syndrome or to identify an individual or a blood relative. "Genetic characteristic" does not include family history or a genetically transmitted characteristic whose existence or identity is determined other than through a genetic test.  (16) "Genetic information" means information about an individual or the individual's blood relatives obtained from a genetic test.  (17) "Genetic research" means research using human DNA samples, genetic testing or genetic information.  (18) "Genetic test" means a test for determining the presence or absence of genetic characteristics in a human individual or the individual's blood relatives, including tests of nucleic acids such as DNA, RNA, and mitochondrial DNA, chromosomes or proteins in order to diagnose or determine a genetic characteristic.  (19) "Health care facility" means a hospital, long term care facility, an ambulatory surgical center, a freestanding birthing center or an outpatient dialysis center. "Health care facility" does not mean:  (a) An establishment furnishing residential care or treatment not meeting federal intermediate care standards, not following a primarily medical model of treatment, prohibited from admitting persons requiring 24-hour nursing care and licensed or approved under the rules of Oregon Health Authority, Department of Human Services or the Department of Corrections; or  (b) An establishment furnishing primarily domiciliary care.  (20) "Health care provider" has the meaning given in ORS 192.519(5).  (21) "Health information" means any information in any form or medium that:  (a) Is created or received by a health care provider, a state health plan, a health insurer, a healthcare clearinghouse, a public health authority, an employer, a life insurer, a school, or a university; and  (b) Relates to:  (A) The past, present or future physical or mental health or condition of an individual;  (B) The provision of health care to an individual; or  (C) The past, present or future payment for the provision of health care to an individual.  (22) "Human biological specimen" means any material derived from human subjects, such as blood, urine, tissues, organs, hair, nail clippings, or any other cells or fluids, whether collected for research purposes or as residual specimens from diagnostic, therapeutic, or surgical procedures.  (23) "Identifiable" or "Individually identifiable" means capable of being linked to the individual or a blood relative of the individual from whom the biological sample or health information was obtained, including demographic information that identifies the individual, or for which there is a reasonable basis to believe the information can be used to identify an individual.  (24) "Identified" means having an identifier that links, or that could readily allow the recipient to link, a DNA sample or genetic information directly to the individual or a blood relative of the individual from whom the sample or information was obtained.  (25) "Identifier" means data elements that directly link a DNA sample or genetic information to the individual or a blood relative of the individual from whom the sample or information was obtained. Identifiers include, but are not limited to, names, telephone numbers, electronic mail addresses, Social Security numbers, driver license numbers and fingerprints.  (26) "Indirect provider" means a health care provider having a relationship with an individual in which:  (a) The health care provider delivers health care to the individual based on the orders of another health care provider; and  (b) The health care provider typically provides services or products, or reports the diagnosis or results associated with the health care, directly to another health care provider, who provides the services or products or reports to the individual.  (27) "Institutional Review Board" or "IRB" means an Institutional Review Board established in accord with and for the purposes expressed in the Federal Common Rule.  (28) "IRB approval" means the determination of the IRB that the research has been reviewed and may be conducted within the constraints set forth by the IRB and by other institutional and Federal and State requirements.  (29) "Limited data set" means protected health information that, in accordance with the Federal Privacy Rule, excludes the following direct identifiers of the individual or of relatives, employers, or household members of the individual:  (a) Names;  (b) Postal address information, other than town or city, state, and zip code;  (c) Telephone numbers;  (d) Fax numbers;  (e) Electronic mail addresses;  (f) Social security numbers;  (g) Medical record numbers;  (h) Health plan beneficiary numbers;  (i) Account numbers;  (j) Certificate/license numbers;  (k) Vehicle identifiers and serial numbers, including license plate numbers;  (l) Device identifiers and serial numbers;  (m) Web Universal Resource Locators (URLs);  (n) Internet Protocol (IP) address numbers;  (o) Biometric identifiers, including finger and voice prints; and  (p) Full face photographic images and any comparable images.  (30) "Obtain genetic information" means performing or getting the results of a genetic test.  (31) "Opt-out statement" means a written expression of an individual's desire to withhold his or her own biological specimen or clinical individually identifiable health information from use and disclosure for the purpose of anonymous research or coded research.  (32) "Person" includes but is not limited to any health care provider, health care facility, clinical laboratory, blood or sperm bank, insurer, insurance agent, insurance-support organization, as defined in ORS 746.600, government agency, employer, research organization or agent of any of them.  (33) "Personal representative" includes but is not limited to:  (a) A person appointed as a guardian under ORS 125.305, 419B.370, 419C.481 or 419C.555 with authority to make medical and health care decisions;  (b) A person appointed as a health care representative under ORS 127.505 to 127.660 or a representative under ORS 127.700 to 127.737 to make health care decisions or mental health treatment decisions; and  (c) A person appointed as a personal representative under ORS Chapter 113.  (34) "Recontact" means disclosure of genetic research findings to a research subject or the subject's physician through use of personal identifiers.  (35) "Research" means a systematic investigation, including research development, testing and evaluation, designed to develop or contribute to generalized knowledge.  (36) "Retain a DNA sample" means the act of storing the DNA sample.  (37) "Retain genetic information" means making a record of the genetic information.  (38) "Specific informed consent for genetic research" means the individual or the individual's representative has consented to the use of that individual's DNA sample or genetic information for genetic research or for a specified genetic research project.  (39) "Unidentified" means deidentified or not identifiable.  [Publications: Publications referenced are available from the agency.] 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 192.531 
+ 
+ 
+ Statutes/Other Implemented:  ORS 192.531 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 11-2011, f. & cert. ef. 10-27-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 5-2011(Temp), f. & cert. ef. 7-1-11 thru 12-27-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 21-2005, f. 12-30-05, cert. ef. 1-1-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 9-2004, f. & cert. ef. 3-23-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 16-2003(Temp), f. & cert. ef. 10-27-03 thru 4-16-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHD 14-2002, f. & cert. ef. 9-27-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

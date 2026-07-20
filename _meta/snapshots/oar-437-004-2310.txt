@@ -1,0 +1,178 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Oregon Occupational Safety and Health Division - Chapter 437 
+ 
+ 
+ 
+ 
+ Division 4 AGRICULTURE 
+ 437-004-2310 
+ General Requirements 
+ 
+ (1) Scope. This subdivision applies to agricultural welding, except the following types for which Subdivision 2/Q applies:  (a) Production type or amount of welding.  (b) Welding in confined spaces like tanks, vats, pits, or those defined in Subdivision 4/J, OAR 437-004-1250(1). This section (4/Q) covers some confined space welding topics. In those cases, follow this section in addition to the rules in Subdivision 2/Q.  (c) Welding with toxic or dangerous coatings or fluxes. This includes manganese, lead, zinc, cadmium, mercury, beryllium, or fluorine compounds.  (d) Welding or heating galvanized materials.  (2) Definition. Welder and welding operator is any operator of electric or gas welding and cutting equipment.  (3) Fire prevention and protection.  (a) Basic precautions. The basic precautions for fire prevention in welding or cutting work are:  (A) Fire hazards. Move either the object you are welding or cutting or any movable fire hazards in the area to a safe place.  (B) Guards. If you can move neither of the above, then use guards to confine the heat, sparks and slag to protect the immovable fire hazards.  (b) Special precautions. When the work falls within the scope of (3)(a)(B) above, additional precautions may be necessary:  (A) Combustible material. Wherever there are floor openings or cracks in the flooring, close them or take precautions so that sparks will not drop through to combustible materials on the floor below. Use the same precautions with cracks or holes in walls, open doorways and open or broken windows.  (B) Fire extinguishers. Keep appropriate fire extinguishing equipment ready for use.  (4) Before beginning. Before beginning, block portable equipment to prevent accidental movement.  (5) Welding or cutting containers.  (a) Clean first. Do not weld, use a torch or do abrasive cutting or other hot work on drums, barrels, tanks or other containers until they have been cleaned so that there are no flammable materials present or any substances that when subjected to heat, might produce flammable or toxic vapors. Disconnect and/or blank any pipe lines or connec- tions to the drum or vessel.  (b) Test often. Use testing equipment prior to and frequently during the welding, torch or abrasive cutting or other hot work to insure that the container is free and remains free of flammable or toxic vapors.  (c) Vent and purge. Vent all hollow spaces, cavities or containers to air or allow gases to escape before preheating, cutting or welding.  (6) Protection of personnel.  (a)(A) General.  (B) Cable. Put welding cable and other equipment so that it is clear of passageways, ladders and stairways.  (b) Eye protection.  (A) Selection.  (i) Use helmets or hand shields when arc welding or arc cutting, excluding submerged arc welding. Helpers or attendants must use proper eye protection.  (ii) Use goggles or other suitable eye protection when gas welding or oxygen cutting. Spectacles without side shields, with suitable filter lenses are acceptable for gas welding on light work, for torch brazing or for inspection.  (iii) All operators and attendants of resistance welding or resistance brazing equipment must use transparent face shields or goggles, depending on the particular job, to protect their faces or eyes.  (iv) Provide suitable goggles for brazing work not covered in (6)(b)(A)(i) through (6)(b)(A)(iii) above.  (B) Specifications for protectors.  (i) Helmets and hand shields must be an insulator for heat and electricity. Helmets, shields and goggles must not be flammable and must withstand sterilization.  (ii) Wear helmets and hand shields to protect the face, neck and ears from direct radiant energy from the arc.  (iii) “Lift front” welders’ helmets must have a stationary safety glass on the inside of the frame next to the eyes to protect the welder from flying particles when the front is up. Where lens containers do not permit the use of safety glass, wear safety goggles.  (iv) When not using the “lift front” helmet with three glasses or when using the flat type helmet, wear other spectacle-type safety goggles in addition to the filter lens and cover glass.  (v) Use vented goggles to prevent fogging of the lenses as much as practicable.  (vi) Lenses must be tempered glass, substantially free from scratches, air bubbles, waves and other flaws.  (vii) Lenses must have permanent distinctive markings to show the source and shade.  NOTE: The following is a guide for the selection of the proper shade numbers. These recommendations may vary to meet the individual’s needs.  Selection guide.  (viii) Filter lenses must meet the test for transmission of radiant energy prescribed by any of the consensus standards listed below:  (I) ANSI Z87.1-2003, “American National Standard Practice for Occupational and Educational Eye and Face Protection;”  (II) ANSI Z87.1-1989 (R-1998), “American National Standard Practice for Occupational and Educational Eye and Face Protection;” or  (III) ANSI Z87.1-1989, “American National Standard Practice for Occupational and Educational Eye and Face Protection.”  NOTE: The Oregon OSHA Resource Center has copies for public review at 350 Winter Street NE, Salem OR 97309-0405.  (c)(A) Protective clothing. Protect employees exposed to the hazards created by welding, cutting or brazing with personal protective equipment according to 4/I, OAR 437-004-1005.  (B) Material. Do not wear clothing that is easily ignited or highly flammable, like that made from synthetic materials.  (d) Work in confined spaces.  (A) General. Where a welder must enter a confined space, follow the rules for confined space work elsewhere in this Subdivision, 4/Q, and in 4/J, 437-004-1250.  (B) Ventilation. Ventilation is a prerequisite to work in confined spaces. For ventilation requirements see OAR 437-004-2310(7).  (C) Securing cylinders and machinery. When welding or cutting is done in any confined space, the gas cylinders and welding machines must be left on the outside. Before starting, block heavy portable equipment wheels to prevent accidental movement.  (D) Electrode removal. When you stop arc welding for a period of time, like lunch or overnight, remove all electrodes from the holders and turn the machine off.  (E) Gas cylinder shutoff. When you stop gas welding or cutting for a period of time, like lunch or overnight, close the torch valves and shut off the gas supply to the torch at a point outside the confined area.  (7) Health protection and ventilation.  (a) General. Use general ventilation or a local exhaust system to keep the amount of toxic fumes, gases, or dusts below the limits in 4/Z, 437-004-9000.  (b)(A) Ventilation for general welding and cutting.  (B) General. Use mechanical ventilation when welding or cutting on metals not covered in (7)(e) through (7)(h) below. (For specific materials, see the ventilation requirements of (7)(e) through (7)(h) below.)  (i) In a space of less than 10,000 cubic feet (284 m3) per welder.  (ii) In a room having a ceiling height of less than 16 feet (5 m).  (iii) In confined spaces or where the welding space contains partitions, balconies or other structural barriers to the extent that they significantly obstruct cross ventilation.  (c)(A) Local exhaust hoods and booths. Mechanical local exhaust ventilation may be by means of either of the following:  (B) Hoods. Place movable hoods as close as practical to the work and with enough airflow for a velocity in the direction of the hood of 100 linear feet (30 m) per minute in the welding zone. The rates of ventilation to get this control velocity using a 3-inch (7.6 cm) wide flanged suction opening are in the following table: [Tables not included. See ED. Note.]  (d) Ventilation in confined spaces.  (A) Air replacement. Ventilate all welding and cutting in confined spaces to prevent the build-up of toxic materials or possible oxygen deficiency. This applies not only to the welder but also to helpers and other people in the area. Air replacing the withdrawn air must be clean and respirable.  (B) Airline respirators. Where it is impossible to provide such ventilation, use air-line respirators or hose masks approved by the Mine Safety and Health Administration and the National Institute for Occupational Safety and Health.  (C) Self-contained units. In areas immediately dangerous to life or health (IDLH), use self-contained breathing equipment. Use breathing equipment approved by the National Institute for Occupational Safety and Health.  (D) Outside helper. When welding in confined spaces and where welders and helpers use hose masks, hose masks with blowers or self-contained breathing equipment approved by the Mine Safety and Health Administration and the National Institute for Occupational Safety and Health, a worker must be on the outside of the confined space to insure the safety of those working within.  (E) Oxygen for ventilation. Never use oxygen for ventilation.  (e) Cleaning compounds.  (A) Manufacturer’s instructions. In the use of cleaning materials, because of their possible toxicity or flammability, follow appropriate precautions such as manufacturer’s instructions.  (B) Degreasing. Degreasing and other cleaning involving chlorinated hydrocarbons must be where no vapors will reach or be drawn into the atmosphere surrounding any welding operation. In addition, keep trichloroethylene and perchlorethalene out of atmospheres penetrated by the ultraviolet radiation of gas-shielded welding operations.  (f) Preservative coatings.  (A) Test first. Before welding, cutting or heating on any surface covered by a preservative coating whose flammability is unknown, a competent person must test to determine its flammability.  (B) Strip if needed. Prevent ignition of highly flammable hardened preservative coatings. When coatings are known to be highly flammable, strip them from the area to be heated to prevent ignition.  (g) Toxic preservative coatings.  (A) Enclosed spaces. In enclosed spaces, strip all surfaces covered with toxic preservatives of all toxic coatings for a distance of at least 4 inches from the area of heat application or the employees must use a respirator that protects them from toxic vapors.  (B) Strip if needed. Remove the preservative coatings a sufficient distance from the area to be heated to ensure that the temperature of the unstripped metal will not increase appreciably. Artificial cooling of the metal surrounding the heated area is acceptable to limit the size of the area you must clean.  (h) Cutting of stainless steels. Oxygen cutting, using either a chemical flux or iron powder or gas-shielded arc cutting of stainless steel, must include mechanical ventilation adequate to remove the fumes.  [ED. NOTE: Tables referenced are available from the agency.]  [Publications: Publications referenced are available from the agency.] 
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 654.025(2) & 656.726(4) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 654.001 - 654.295 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSHA 2-2010, f. & cert. ef. 2-25-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OSHA 4-1998, f. 8-28-98, cert. ef. 10-1-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

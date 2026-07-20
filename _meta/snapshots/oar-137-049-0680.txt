@@ -1,0 +1,388 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Justice 
+ Chapter 137 
+ 
+ 
+ 
+ 
+ 
+ Division 49 MODEL RULES GENERAL PROVISIONS RELATED TO PUBLIC CONTRACTS FOR CONSTRUCTION SERVICES 
+ 137-049-0680 
+ Energy Savings Performance Contracts (ESPC)
+ 
+ 
+ (1) Generally. These OAR 137-049-0600 to 137-049-0690 rules include a limited, efficient method for Contracting Agencies to enter into EPCs for public improvements outside the competitive bidding requirements of ORS 279C.335 for existing buildings or structures, but not for new construction. See ORS 279C.335(1)(f). If a Contracting Agency chooses not to utilize the EPC Procurement methods provided for by these OAR 137-049-0600 to 137-049-0690 rules, the Contracting Agency may still enter into an EPC by complying with the competitive bidding exemption process set forth in ORS 279C.335, or by otherwise complying with the Procurement requirements applicable to any Contracting Agency not subject to all the requirements of ORS 279C.335. 
+
+ (2) EPC Contracting Method. The EPC form of contracting for public improvements, as defined at OAR 137-049-0610(6), has unique technical complexities associated with the determination of what ECMs are feasible for the Contracting Agency, as well as the additional technical complexities associated with an Energy Performance Contract, which includes various project phases requiring a combination of Personal Services and construction Work. Contracting Agencies shall only utilize the EPC contracting method with the assistance of knowledgeable staff or consultants who are experienced in its use. In order to utilize the EPC contracting process, the Contracting Agency must be able to reasonably anticipate one or more of the following types of benefits: 
+
+ (a) Obtaining, through an ESCO, the following types of integrated Personal Services and Work: facility profiling, energy baseline studies, ECMs, Investment Grade Audits, project development planning, engineering design, plan preparation, cost estimating, life cycle costing, construction administration, project management, construction, fabrication, assembly or installation, quality control, operations and maintenance staff training, commissioning services, M & V services and required documentation as a fully integrated function; 
+
+ (b) Obtaining, through an ESCO guaranteed energy savings or performance; reduced energy consumption, greenhouse gas emissions, waste generation or water consumption; reduced costs related to energy usage and storage, water supply or waste disposal; reduced labor costs and materials costs necessary to repair, replace or maintain energy supply and storage systems, water supply systems or plumbing or waste disposal systems; or increased renewable energy generation and storage, including renewable energy from thermal energy sources; 
+
+ (c) Integrating the Investment Grade Audit phase and the Project Development Plan phase into the ECM Design and Implementation phase on the project; 
+
+ (d) Reducing the risk of design flaws, misunderstandings and conflicts inherent in the construction process, through the integration of EPC Personal Services and Work; 
+
+ (e) Obtaining innovative design solutions through the collaboration of the members of the ESCO integrated EPC team; 
+
+ (f) Preliminary design, development and, implementation of ECMs into an existing building or structure through an EPC, as a distinct part of a major remodel of that building or structure that is being performed under a separate remodeling Contract; or 
+
+ (g) Satisfying local energy efficiency design criteria or requirements. 
+
+ (3) Authority. Contracting Agencies desiring to pursue an exception from the competitive bidding requirements of ORS 279C.335 (and, if applicable, ORS 351.086), shall utilize the EPC form of contracting only in accordance with the requirements of these OAR 137-049-0600 to 137-049-0690 rules. 
+
+ (4) Findings. A Contracting Agency is only required to comply with the EPC contracting procedures set forth in these OAR 137-049-0600 to 137-049-0690 rules in order for the EPC to be excepted from the competitive bidding processes of ORS 279C.335. No Findings are required for an EPC to be excepted from the competitive bidding process for Public Improvement Contracts pursuant to ORS 279C.335(1)(f). Should a Contracting Agency subject to the requirements of ORS 279C.335 choose to not comply with the EPC contracting procedures set forth in these OAR 137-049-0600 to 137-049-0690 rules, the Contracting Agency may still enter into an EPC for a public improvement by complying with the competitive bidding exemption process set forth in ORS 279C.335(2). In such case, findings will be required. 
+
+ (5) Competitive Bidding Exception Procurement Process. If a Contracting Agency desires the EPC procurement process to be excepted from the competitive bidding requirements of ORS 279C.335, the Contracting Agency shall utilize the EPC Request for Proposal procedure, or, if the Contracting Agency is an Authorized State Agency, as defined under ORS 276.905(2), the Authorized State Agency may also utilize the Non-Competitive Selection procedure, as further specified in OAR 137-049-0680(6) and OAR 137-049-0680(7), respectively. 
+
+ (6) EPC Request for Proposals Procedure. 
+
+ (a) Solicitation Documents. In addition to the Solicitation Document requirements of OAR 137-049-0200, EPC RFP Solicitation Documents shall conform to the following standards: 
+
+ (A) Selection Criteria. The Contracting Agency shall set forth the selection criteria in the Solicitation Document. The Contracting Agency shall evaluate Proposals only in accordance with the criteria set forth in the RFP and applicable law. Because the value of construction Work predominates in the EPC method of contracting, the qualifications-based selection (QBS) process mandated by ORS 279C.110 for State Contracting Agencies in obtaining certain consultant services is not applicable for competitive procurements for EPCs. The Contracting Agency shall evaluate Proposals to determine the Responsible Proposer or Proposers submitting the best Responsive Proposal or Proposals. 
+
+ (B) Evaluation Factors. The Contracting Agency shall set forth the evaluation factors in the Solicitation Document. Evaluation factors need not be precise predictors of future costs and performance, but to the extent possible such factors shall be reasonable estimates based on information available to the Contracting Agency, treat all Proposals equitably, and recognize that public policy requires that Public Improvements be constructed at the least overall cost to the Contracting Agency. See ORS 279C.305. Proposal evaluation shall be as objective as possible. The Contracting Agency may provide in the RFP that qualifications-based evaluation factors will outweigh the Contracting Agency's consideration of price-related factors, due to the fact that prices for the major components of the Work to be performed during the EPC process contemplated by the RFP will likely not be determinable at the time of Proposal evaluation. In addition to price, evaluation factors may include the following for EPC Procurements: 
+
+ (i) firm and personnel experience on similar projects, adequacy of equipment and physical plant, sources of supply, availability of key personnel, financial capacity, past performance, safety records, project understanding, proposed methods of construction, proposed milestone dates, references, service, and related matters that could affect the cost or quality of the Work; 
+
+ (ii) the ability to respond to the technical complexity or unique character of the project, analyze and propose solutions or approaches to complex project problems, analyze and propose value engineering options, analyze and propose energy efficiency measures or alternative energy options, coordinate multiple disciplines on the project, effectively utilize the time available to commence and complete the improvement, and related matters that could affect the cost or quality of the Work; 
+
+ (iii) design professional qualifications, specialized experience, preliminary design submittals, technical merit, design-builder team experience and related matters that could affect the cost or quality of the Work; 
+
+ (iv) sample Investment Grade Audits from similar projects, sample M & V reports, financial statements and related information of the ESCO for a time period established in the RFP; 
+
+ (v) financial statements and related information of joint venturers comprising the ESCO; 
+
+ (vi) the ESCO's capabilities and experience in performing energy baseline studies for facilities (independently or in cooperation with an independent third-party energy baseline consultant); 
+
+ (vii) past performance of the ESCO in meeting guaranteed energy savings or performance through an ECM, the ESCO's management plan for the project, information on the specific methods, techniques and equipment that the ESCO will use in the performance of the Work under the EPC; 
+
+ (viii) the ESCO's team members and consultants to be assigned to the project, the ESCO's experience in the Energy Performance Contracting field, the ESCO's experience acting as the prime contractor on previous EPC projects (as opposed to a sub-contractor or consultant to a prime ESCO), the ESCO's vendor and product neutrality related to the development of ECMs, the ESCO's project history related to removal from an EPC project or the inability or unwillingness of the ESCO to complete an EPC project; 
+
+ (ix) the ESCO's M & V capabilities and experience (independently or in cooperation with an independent third-party M & V consultant); 
+
+ (x) the ESCO's ability to explain the unique risks associated with EPC projects and the assignment of risk in the particular project between the Contracting Agency and the ESCO; or 
+
+ (xi) the ESCO's equipment performance guarantee policies and procedures, if any, the ESCO's energy savings and cost savings guarantee policies and procedures, if any, the ESCO's project cost guarantee policies and procedures, if any, the ESCO's pricing methodologies, the price that the ESCO will charge for the Investment Grade Audit phase of the project and the ESCO's fee structure for all phases of the EPC. 
+
+ (C) Discussion and Negotiation with Proposers prior to award. Subject to ORS 279C.410(4), the Solicitation Document may provide for discussions and negotiations with Proposers to be conducted for the purpose of Proposal evaluation prior to award. When the Contracting Agency is willing to allow submission of revised Proposals following discussions, in the Solicitation Document, the Contracting Agency shall identify the specific terms and conditions or provisions of the Solicitation Document that are subject to discussion and negotiation and authorize Proposers to propose certain alternative terms and conditions in lieu of the terms and conditions the Contracting Agency has identified. The Contracting Agency shall describe the evaluation, discussion and negotiation processes, including how the Contracting Agency will establish the Competitive Range, if any, in the Solicitation Document. 
+
+ (D) Competitive Range. The anticipated size of any Competitive Range must be stated in the Solicitation Document, but may be decreased if the number of Proposers that submit responsive Proposals is less than the specified number, or may be increased as provided in OAR 137-049-0680(6)(c)(A); 
+
+ (E) Number of Contract Awards. When the Contracting Agency intends to Award Contracts to more than one Proposer, the Contracting Agency shall identify in the Solicitation Document the manner in which it will determine the number of Contracts it will Award. The Contracting Agency shall also include the criteria it will use to determine how the Contracting Agency will endeavor to achieve optimal value, utility and substantial fairness when selecting a particular Contractor to provide Personal Services or Work from those Contractors Awarded Contracts. 
+
+ (F) Clarifications. In evaluating Proposals, a Contracting Agency may seek information from a Proposer to clarify the Proposer's Proposal. A Proposer shall submit Written and Signed clarifications and such clarifications shall become part of the Proposer's Proposal. 
+
+ (b) RFP Cancellation. Nothing in this rule shall restrict or prohibit the Contracting Agency from canceling the solicitation at any time. 
+
+ (c) RFP Competitive Range; Protest. 
+
+ (A) If the Contracting Agency does not cancel the solicitation, after the Opening the Contracting Agency will evaluate all Proposals in accordance with the evaluation criteria set forth in the RFP. After evaluation of all Proposals in accordance with the criteria set forth in the RFP, the Contracting Agency will rank the Proposers based on the Contracting Agency’s scoring and determine the Competitive Range. 
+
+ (B) The Contracting Agency may increase the number of Proposers in the Competitive Range if the Contracting Agency's evaluation of Proposals establishes a natural break in the scores of Proposers indicating a number of Proposers greater than the initial Competitive Range are closely competitive, or have a reasonable chance of being determined the best Proposer after the Contracting Agency's evaluation of revised Proposals submitted in accordance with the process described in this rule. 
+
+ (C) Protesting Competitive Range. The Contracting Agency shall provide Written notice to all Proposers identifying Proposers in the Competitive Range. A Proposer that is not within the Competitive Range may protest the Contracting Agency's evaluation and determination of the Competitive Range in accordance with OAR 137-049-0450. 
+
+ (d) Intent to Award; Discuss or Negotiate. After the protest period provided in accordance with these rules expires, or after the Contracting Agency has provided a final response to any protest, whichever date is later, the Contracting Agency may either: 
+
+ (A) Provide Written notice to all Proposers in the Competitive Range of its intent to Award the Contract to the highest-ranked Proposer in the Competitive Range. 
+
+ (i) An unsuccessful Proposer may protest the Contracting Agency's intent to Award in accordance with OAR 137-049-0450. 
+
+ (ii) After the protest period provided in accordance with OAR 137-049-0450 expires, or after the Contracting Agency has provided a final response to any protest, whichever date is later, the Contracting Agency shall commence final Contract negotiations with the highest-ranked Proposer in the Competitive Range; or 
+
+ (B) Engage in discussions with Proposers in the Competitive Range and accept revised Proposals from them, and, following such discussions and receipt and evaluation of revised Proposals, conduct negotiations with the Proposers in the Competitive Range. 
+
+ (e) Discussions; Revised Proposals. If the Contracting Agency chooses to enter into discussions with and receive revised Proposals from the Proposers in the Competitive Range, the Contracting Agency shall proceed as follows: 
+
+ (A) Initiating Discussions. The Contracting Agency shall initiate oral or Written discussions with all of the Proposers in the Competitive Range regarding their Proposals with respect to the provisions of the RFP that the Contracting Agency identified in the RFP as the subject of discussions. The Contracting Agency may conduct discussions for the following purposes: 
+
+ (i) Informing Proposers of deficiencies in their initial Proposals; 
+
+ (ii) Notifying Proposers of parts of their Proposals for which the Contracting Agency would like additional information; or 
+
+ (iii) Otherwise allowing Proposers to develop revised Proposals that will allow the Contracting Agency to obtain the best Proposal based on the requirements and evaluation criteria set forth in the RFP. 
+
+ (B) Conducting Discussions. The Contracting Agency may conduct discussions with each Proposer in the Competitive Range necessary to fulfill the purposes of this section, but need not conduct the same amount of discussions with each Proposer. The Contracting Agency may terminate discussions with any Proposer in the Competitive Range at any time. However, the Contracting Agency shall offer all Proposers in the Competitive Range the opportunity to discuss their Proposals with Contracting Agency before the Contracting Agency notifies Proposers of the date and time pursuant to this section that revised Proposals will be due. 
+
+ (i) In conducting discussions, the Contracting Agency: shall treat all Proposers fairly and shall not favor any Proposer over another; shall not discuss other Proposers' Proposals; shall not suggest specific revisions that a Proposer should make to its Proposal; and shall not otherwise direct the Proposer to make any specific revisions to its Proposal. 
+
+ (ii) At any time during the time allowed for discussions, the Contracting Agency may: Continue discussions with a particular Proposer; terminate discussions with a particular Proposer and continue discussions with other Proposers in the Competitive Range; or conclude discussions with all remaining Proposers in the Competitive Range and provide notice to the Proposers in the Competitive Range to submit revised Proposals. 
+
+ (C) Revised Proposals. If the Contracting Agency does not cancel the solicitation at the conclusion of the Contracting Agency's discussions with all remaining Proposers in the Competitive Range, the Contracting Agency shall give all remaining Proposers in the Competitive Range notice of the date and time by which they must submit revised Proposals. This notice constitutes the Contracting Agency's termination of discussions, and Proposers must submit revised Proposals by the date and time set forth in the Contracting Agency's notice. 
+
+ (i) Upon receipt of the revised Proposals, the Contracting Agency shall evaluate the revised Proposals based upon the evaluation criteria set forth in the RFP, and rank the revised Proposals based on the Contracting Agency's scoring. 
+
+ (ii) The Contracting Agency may conduct discussions with and accept only one revised Proposal from each Proposer in the Competitive Range unless otherwise set forth in the RFP. 
+
+ (f) Intent to Award; Protest. The Contracting Agency shall provide Written notice to all Proposers in the Competitive Range of the Contracting Agency's intent to Award the Contract. An unsuccessful Proposer may protest the Contracting Agency's intent to Award in accordance with OAR 137-049-0450. After the protest period provided in accordance with that rule expires, or after the Contracting Agency has provided a final response to any protest, whichever date is later, the Contracting Agency shall commence final Contract negotiations. 
+
+ (g) Negotiations. 
+
+ (A) Initiating Negotiations. The Contracting Agency may determine to commence negotiations with the highest-ranked Proposer in the Competitive Range following the: 
+
+ (i) Initial determination of the Competitive Range; or 
+
+ (ii) Conclusion of discussions with all Proposers in the Competitive Range and evaluation of revised Proposals. 
+
+ (B) Conducting Negotiations. Scope. The Contracting Agency may negotiate: 
+
+ (i) The statement of work for each stage of the project; 
+
+ (ii) Contract performance, methods of construction or fabrication, assembly or installation, timing, assignment of risk in specified areas, fee, and other matters that could affect the cost or quality of the Work, as well as the scope of preliminary identification and assessment of ECMs to be evaluated by the parties during the Investment Grade Audit phase of the Work, the scope of Personal Services and Work to be performed by the ESCO during the Project Development Plan phase of the Work, and scope of Work, methodologies and compensation terms and conditions during the ECM Design and Implementation and M & V phases of the project. 
+
+ (iii) The Contract Price as it is affected by negotiating the statement of work; and 
+
+ (iv) Any other terms and conditions reasonably related to those expressly authorized for negotiation in the RFP. Accordingly, Proposers shall not submit, and the Contracting Agency shall not accept, for negotiation any alternative terms and conditions that are not reasonably related to those expressly authorized for negotiation in the RFP. 
+
+ (C) Continuing Negotiations. If the Contracting Agency terminates negotiations with a Proposer, the Contracting Agency may then commence negotiations with the next highest scoring Proposer in the Competitive Range, and continue the process described in this rule until the Contracting Agency has: 
+
+ (i) Determined to Award the Contract to the Proposer with whom it is currently negotiating; or 
+
+ (ii) Completed one round of negotiations with all Proposers in the Competitive Range, unless the Contracting Agency provided for more than one round of discussions or negotiations in the RFP, in which case the Contracting Agency may proceed with any authorized further rounds of discussions or negotiations. 
+
+ (D) Terminating Discussions or Negotiations. At any time during discussions or negotiations conducted in accordance with this rule, the Contracting Agency may terminate discussions or negotiations with the Proposer with whom it is currently conducting discussions or negotiations if the Contracting Agency reasonably believes that: 
+
+ (i) The Proposer is not discussing or negotiating in good faith; or 
+
+ (ii) Further discussions or negotiations with the Proposer will not result in the parties agreeing to the terms and conditions of a final Contract in a timely manner. 
+
+ (7) Non-Competitive Selection Procedure for Authorized State Agency 
+
+ (a) General. If the Contracting Agency is an Authorized State Agency, as defined in ORS 276.905(2), the Authorized State Agency may enter into an Energy Performance Contract for a public improvement with an ESCO prequalified and listed as an approved contractor by the Oregon Department of Energy pursuant to ORS 276.915(3)(g) without conducting a competitive procurement under OAR 137-049-0680(6) if: 
+
+ (A) the Authorized State Agency enters such contract in accordance with these OAR 137-049-0600 to 137-049-0690 rules; and 
+
+ (B) the Authorized State Agency and prequalified ESCO negotiate and include, as a component of the EPC, a performance guarantee for the benefits that the EPC will provide to the Authorized State Agency. 
+
+ (b) Performance Guarantee. The form of the performance guarantee may include a personal or corporate guarantee, or a third-party guarantee in the form of a bond. Other forms may be considered on an individual basis at the discretion of the Contracting Agency. The performance guarantee must include: 
+
+ (A) the ESCO’s performance obligations and responsibilities for achieving the purposes of the EPC; 
+
+ (B)the conditions under which the ESCO will guarantee savings, reductions, benefits, or other purposes of the EPC; 
+
+ (C) the term during which the performance guarantee will remain; and 
+
+ (D) remedies available to the Authorized State Agency, including damages and appropriate equitable relief, if an ECM designed and constructed, including fabrication, assembly or install, by the ESCO under the EPC fails to achieve the savings, reductions, benefits or other purposes specified in the EPC. 
+
+ (c) Contract Negotiation. In addition the performance guarantee, contract terms that may be negotiated include the details of Contract performance, methods of construction or fabrication, assembly or installation, timing, assignment of risk in specified areas, fee, and other matters that could affect the cost or quality of the Work, as well as scope of preliminary identification and assessment of ECMs to be evaluated by the parties during the Investment Grade Audit phase of the Work, the scope of Personal Services and Work to be performed by the ESCO during the Project Development Plan phase of the Work, and scope of Work, methodologies and compensation terms and conditions during the ECM Design and Implementation and M & V phases of the project. 
+
+ (8) Contracting Requirements. Contracting Agencies shall conform their EPC contracting practices to the following requirements: 
+
+ (a) General. An EPC involves a multi-phase project, which includes the following contractual elements: 
+
+ (A) A description of the four phases of the EPC project, which include the following: (i) The Investment Grade phase; (ii) The Project Development Plan phase; (iii) The ECM Design and Implementation phase; and (iv) The M&V services phase. 
+
+ (B) Comprehensive contract provisions that not only describe and govern the relationship of the parties, but also include the contractual terms governing the Investment Grade Audit phase , the contractual terms governing the Project Development Plan phase, the contractual terms governing the ECM Design and Implementation phase, , the contractual terms governing the performance of the M & V services phase, and the detailed provisions of the ESCO's Performance Guarantee for the project if the EPC is entered into pursuant to OAR 137-049-0680(7). 
+
+ (C) Design-Build Contracting Requirements for EPCs. Parties agree that upon authorization of the ECM Design and Implementation phase, the EPC constitutes a Design-Build contract, which must include the following: 
+
+ (i) Design Services. The level or type of design services required during the ECM Design and Implementation phase must be clearly defined within the Contract, along with a description of the level or type of design services previously performed for the project. The Personal Services and Work to be performed shall be clearly delineated as either design Specifications or performance standards, and performance measurements must be identified. 
+
+ (ii) Professional Liability. The EPC shall clearly identify the liability of design professionals with respect to the ESCO and the Contracting Agency, as well as requirements for professional liability insurance. 
+
+ (iii) Risk Allocation. The EPC shall clearly identify the extent to which the Contracting Agency requires an express indemnification from the ESCO for any failure to perform, including professional errors and omissions, design warranties, construction operations and faulty Work claims. 
+
+ (iv) Warranties. The EPC shall clearly identify any express warranties made to the Contracting Agency regarding characteristics or capabilities of the completed project (regardless of whether errors occur as the result of improper design, construction, or both), including any warranty that a design will be produced that meets the stated project performance and budget guidelines. 
+
+ (v) Performance Security. The ESCO must provide a performance bond and a payment bond, each for 100% of the full Contract Price, including the construction, assembly or installation Work and design and related specified in the EPC, pursuant to ORS 279C.380(1)(a). Design and related services include conventional design services, commissioning services, training services for the Contracting Agency's operations and maintenance staff, and any similar Personal Services provided by the ESCO in the ECM Design and Implementation phase under the EPC prior to final completion of construction, assembly, or installation. M & V services, and any Personal Services or Work associated with the ESCO's Performance Guarantee, if required under the EPC, are not included in these 279C.380(1)(a) design and related services. Nevertheless, a Contracting Agency may require that the ESCO provide performance security for M & V services and any Personal Services or Work associated with the ESCO's Performance Guarantee, if the Contracting Agency so provides in the RFP or negotiations with the ESCO. 
+
+ (b) Pricing Alternatives. The Contracting Agency may utilize one of the following pricing alternatives in an EPC: 
+
+ (A) A fixed price for each phase to be provided by the ESCO; 
+
+ (B) A cost reimbursement pricing mechanism, with a maximum not-to-exceed price or a GMP; or 
+
+ (C) A combination of a fixed fee for certain components of the Personal Services to be performed, a cost reimbursement pricing mechanism for the construction Work, including assembly or installation, to be performed with a GMP, a single or annual fixed fee for M & V services to be performed for an identified time period after final completion of the construction, assembly or installation Work, and a single or annual Performance Guarantee fee payable per the terms of the performance guarantee if the EPC is entered into pursuant to OAR 137-049-0680(7) 
+
+ (c) Permitted EPC Scope of Work. The scope of Work under the EPC is restricted to identifying and assessing a need or requirement in a public improvement for: providing guaranteed energy savings or performance through an energy conservation measure; reducing energy consumption, greenhouse gas emissions, waste generation or water consumption; reducing costs related to energy usage and storage, water supply or waste disposal; reducing labor and materials costs necessary to repair, replace or maintain energy supply and storage systems, water supply systems or plumbing or waste disposal systems; or increasing renewable energy generation and storage, including renewable energy from thermal energy sources; and implementation, including design, construction, fabrication, and assembly or installation of ECMs, as well as other Work on building systems or building components that are directly related to the ECMs. The permitted scope of Work for ESPCs resulting from a solicitation under these 137-049-0600 to 137-049-0690 rules does not include maintenance services for the project facility. 
+
+ (d) Licensing. If the ESCO is not an Oregon licensed design professional, the Contracting Agency shall require that the ESCO disclose in the EPC that it is not an Oregon licensed design professional, and identify the Oregon licensed design professional(s) who will provide design services. See ORS 671.030(5) regarding the offer of architectural services, and 672.060(11) regarding the offer of engineering services that are appurtenant to construction Work. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 279C.335 & 279A.065 
+ 
+ 
+ Statutes/Other Implemented:  ORS 279C.335, 279A.065, 279C.110 & 351.086 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 1-2026, amend filed 01/21/2026, effective 01/21/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 15-2009, f. 12-1-09, cert. ef. 1-1-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 20-2005, f. 12-27-05, cert. ef. 1-1-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 11-2004, f. 9-1-04, cert. ef. 3-1-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

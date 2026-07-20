@@ -1,0 +1,317 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 102 LICENSING OF RADIOACTIVE MATERIAL 
+ 333-102-0203 
+ General Licenses — Radioactive Material Other than Source Material: Definitions 
+ 
+ The following definitions apply for Radioactive Material Licenses issued pursuant to this division and divisions 105, 113, 115, 117, and 121 of this chapter:  NOTE: Unless otherwise specified in this rule, the licenses described in this rule are limited by conditions of the radioactive materials license issued pursuant to OAR 333-102-0200, and other applicable rules in this chapter.  (1) "Analytical Leak Test" means a facility-specific license issued pursuant to OAR 333-103-0010(2)(a), authorizing possession of environmental samples, sealed source leak-test, contamination wipe and samples for radioanalytical measurements. This license does not authorize collection of samples, or decommissioning or decontamination activities.  (2) "Assets" means anything of material value or usefulness. In the context of a materials license, assets include all existing capital, effects, possessions, and belongings and all probable future economic benefits obtained or controlled by a particular entity.  (3) "Basic License" means a facility-specific license issued pursuant to OAR 333-103-0010(2)(b) authorizing the receipt, possession, use, transfer, and disposal of sources of radiation or radioactive materials incident to gauge service, teletherapy service, medical afterloader service, and other licensed service activities; pre-packaged waste pickup (not packaging), storage of materials prior to license termination, instrument quality control servicing or calibration (excluding activities authorized by 333-103-0010(2)(m)), or other minor activities not otherwise specified in these rules, such as authorization for "systems," as defined in these rules, pursuant to that definition.  (4) "Beneficiating" means subjecting a product to any process that can increase or concentrate any component (including the radioactive materials) to benefit the product.  (5) "Brachytherapy" means a Healing Arts facility-specific license issued pursuant to OAR 333-103-0010(2)(c) authorizing the use of brachytherapy sources for in vivo application of radiation in accordance with 333-116-0420. Brachytherapy includes radioactive material sealed sources in seeds, needles, plaques, or other localized medical devices, but excludes remote afterloaders.  (6) "Broad Scope A" means a facility-specific license issued pursuant to OAR 333-103-0010(2)(d), authorizing activities in 333-102-0900(1)(a), under the authority of a Radiation Safety Committee.  (7) "Broad Scope B" means a facility-specific license issued pursuant to OAR 333-103-0010(2)(e) authorizing activities described in 333-102-0900(1)(b), under the authority of a Radiation Safety Officer.  (8) "Broad Scope C" means a facility-specific license issued pursuant to OAR 333-103-0010(2)(f) authorizing activities described in 333-102-0900(1)(c), under the authority of an authorized user.  (9) "Commencement of construction" means taking any action defined as "construction" or any other activity at the site of a facility subject to the regulations in this division that has a reasonable nexus to radiological health and safety.  (10) "Construction" means the installation of foundations, or in-place assembly, erection, fabrication, or testing for any structure, system, or component of a facility or activity subject to the regulations in this division that are related to radiological safety or security. The term "construction" does not include:  (a) Changes for temporary use of the land for public recreational purposes;  (b) Site exploration, including necessary borings to determine foundation conditions or other preconstruction monitoring to establish background information related to the suitability of the site, the environmental impacts of construction or operation, or the protection of environmental values;  (c) Preparation of the site for construction of the facility, including clearing of the site, grading, installation of drainage, erosion and other environmental mitigation measures, and construction of temporary roads and borrow areas;  (d) Erection of fences and other access control measures that are not related to the safe use of, or security of, radiological materials subject to this division;  (e) Excavation;  (f) Erection of support buildings (for example, construction equipment storage sheds, warehouse and shop facilities, utilities, concrete mixing plants, docking and unloading facilities, and office buildings) for use in connection with the construction of the facility;  (g) Building of service facilities (for example, paved roads, parking lots, railroad spurs, exterior utility and lighting systems, potable water systems, sanitary sewerage treatment facilities, and transmission lines);  (h) Procurement or fabrication of components or portions of the proposed facility occurring at other than the final, in-place location at the facility; or  (i) Taking any other action that has no reasonable nexus to radiological health and safety.  (11) "Current assets" means cash or other assets or resources commonly identified as those which are reasonably expected to be realized in cash or sold or consumed during the normal operating cycle of the business.  (12) "Decontamination and Decommissioning" means:  (a) A facility specific license issued pursuant to OAR 333-103-0010(2)(w) authorizing activities that result in returning a site to its original pre-license condition prior to termination of licensed activities; and  (b) Activities performed pursuant to OAR 333-102-0335 on any portion of a site prior to license termination.  (13) "Diagnosis" means examination, determination, identification, study, or analysis of a medical condition.  (14) "Distribution" means a facility-specific license issued pursuant to OAR 333-103-0010(2)(g), authorizing transfer or distribution (sale) of general or specific license radioactive material to persons granted a general license or issued a specific license, or, in the case of NARM, to persons exempt from the rules in this chapter.  (15) "Exempt Source" means radioactive material, exempt from the rules in this chapter.  (16) "Facility" means location of licensed activities under the direct control of licensee management. If a "facility," as used in this division, includes multiple separate addresses, the Authority may determine how the scope of licensed activities, pursuant to OAR 333-102-0190, 333-102-0300, 333-102-0305, 333-102-0315, 333-102-0320, or 333-102-0325, is authorized.  (17) "Fixed Gauge" means a source-specific license for measuring, gauging, or controlling devices pursuant to OAR 333-103-0010(2)(h). The fixed gauge license also includes X-ray & Hybrid Gauges pursuant to division 115 of this chapter that contain either an X-ray source or a radioactive sealed source.  (18) "General License" means a granted license, as opposed to an issued license, effective under these rules, to acquire, own, possess, use, or transfer radioactive material or a device that contains radioactive material.  (19) "General License Depleted Uranium" means the general license granted subject to receipt of the registration application pursuant to OAR 333-101-0007, and fee, pursuant to 333-103-0015, for depleted uranium used for shielding or counter weights and issued pursuant to 333-102-0106.  (20) "General License Device" means the general license for in vitro materials granted subject to receipt of the registration application pursuant to OAR 333-101-0007, and fee, pursuant to 333-103-0015, for measuring, gauging.  (21) "General License In Vitro Laboratory" means the general license granted by OAR 333-102-0130, subject to receipt of the registration application pursuant to 333-101-0007, and fee, pursuant to 333-103-0015, for in vitro materials granted a general license by 333-102-0130.  (22) "General License Source Material" means the general license granted for use and possession of source material pursuant to OAR 333-102-0101.  (23) "General License for Certain Devices and Equipment" means the general license granted for use and possession of devices consisting of not more than 500 microcuries of polonium-210 or not more than 50 millicuries of tritium (H-3) per device, pursuant to 10 CFR 31.3.  (24) "General License for Luminous Devices for Aircraft" means the general license granted for use and possession of devices containing not more than ten curies of tritium or not more than 300 millicuries of promethium-147.  (25) "General License for Ownership of Radioactive Material and Limits of Possession" means the general license granted to own material that is not necessarily possessed; conversely, material that is possessed is, by grant of general license, not necessarily owned, pursuant to the general license in OAR 333-102-0120.  (26) "General License for Calibration and Reference Sources" means the general license granted to possess not more than five microcuries (185 kBq) of americium-241, plutonium-238, plutonium-239, or radium-226, pursuant to the general license in OAR 333-102-0125.  (27) "General License for Ice Detection Devices" means the general license granted to possess not more than 50 microcuries (1.85 MBq) of strontium-90, pursuant to the general license in OAR 333-102-0135.  (28) "Generators and Kits" means "Imaging and Localization."  (29) "Healing Arts Specific License" means a specific license authorizing activities in division 116 of this chapter.  (30) "High Doserate Remote Afterloader" means a source-specific license issued pursuant to OAR 333-103-0010(2)(i) authorizing the use of sources in accordance with 333-116-0475, which may be either mobile or stationary, and which deliver a doserate in excess of two Gray (200 rad) per hour at the point or surface where the dose is prescribed. A device may be designated as being high, medium, or pulsed dose remote afterloader or mobile high, medium, or pulsed doserate remote afterloader.  (31) "Hybrid Gauge" means a fixed gauging device that contains both a sealed source and an X-ray source, pursuant to division 115 of this chapter.  (32) "In Vitro Laboratory" means a Healing Arts facility-specific license, under management of a physician or Healing Arts specialist, issued pursuant to OAR 333-103-0010(2)(k) authorizing the use of prepackaged radioactive materials in quantities greater than those authorized by the General License granted by 333-102-0130(2).  (33) Imaging and Localization means a Healing Arts facility-specific license issued pursuant to OAR 333-103-0010(2)(j) authorizing the use of generators and kits for nuclear medicine imaging and localization in accordance with 333-116-0320 or positron emission tomography studies in accordance with 333-116-0800 through 333-116-0880.  (34) "Industrial Radiography" means a facility-specific license issued pursuant to OAR 333-103-0010(2)(l) authorizing activities in division 105 of this chapter.  (35) "Instrument Calibration" means a source-specific radioactive materials license issued pursuant to OAR 333-103-0010(2)(m) for sources of radiation used to calibrate instruments.  (36) "Investigational New Drug" means a Healing Arts facility-specific license issued pursuant to OAR 333-103-0010(2)(n) authorizing the use of any investigational product or device approved by the US Food and Drug Administration (FDA) for human use research, diagnosis, or therapy, in accordance with the rules in this chapter.  (37) "Irradiator-Other" means an irradiator with greater than 10,000 curies (370 TBq) licensed pursuant to OAR 333-103-0010(2)(w) and 333-103-0010(7), designed to produce extremely high dose rates as authorized by division 121 of this chapter.  (38) "Irradiator Self-shielded or Other — Less than 10,000 Curies" means a source-specific license issued pursuant to OAR 333-103-0010(2)(o) authorizing self-shielded irradiators, including blood irradiators, panoramic irradiators, and converted teletherapy units, with less than 10,000 Ci (370 TBq) activity.  (39) "Liabilities" means probable future sacrifices of economic benefits arising from present obligations to transfer assets or provide services to other entities in the future as a result of past transactions or events.  (40) "Lot Tolerance Percent Defective" means, expressed in percent defective, the poorest quality in an individual inspection lot that can be accepted.  (41) "Low Doserate Remote Afterloader Device" means a Healing Arts source-specific license issued pursuant to OAR 333-103-0010(2)(b) authorizing devices 333-116-0475, which remotely deliver a doserate of less than two Gray (200 rad) per hour at the point or surface where the dose is prescribed.  (42) "Manufacturing or Compounding" means a facility-specific radioactive materials license issued pursuant to OAR 333-103-0010(2)(p) authorizing manufacture, fabrication, assembly, construction, combining, processing, concentrating, beneficiating, or processing items or products using or containing radioactive materials into a finished product containing radioactive material in accordance with applicable requirements in division 102 of this chapter.  (43) "Manufacturing or Compounding and Distribution" means activities performed as defined in sections (14) and (42) of this rule and require separate specific licenses for each activity.  (44) "Mobile Nuclear Medicine Service" means a facility-specific Healing Arts license issued pursuant to OAR 333-116-0120 authorizing the medical use of radioactive material at specified temporary locations.  (45) "Nationally Tracked Source" means a sealed source containing a quantity equal to or greater than Category 1 or 2 levels of any radioactive material listed in 10 CFR 20 Appendix E.  (46) "Naturally occurring radioactive material (NORM)" means radioactive material in the uranium or thorium decay series existing in nature in concentrations less than 0.05 percent source material.  (47) "Net working capital" means current assets minus current liabilities.  (48) "Net worth" means total assets minus total liabilities and is equivalent to owner's equity.  (49) "Neutron Howitzer" means a device that contains a sealed source containing Special Nuclear Material (see definition in OAR 333-100-0005) that generates neutrons that are used for analytical, teaching, or research purposes.  (50) "Neutron Production" denotes a process in which neutrons are produced, either by natural or artificial means.  (51) "NORM (no processing)" means a facility-specific license pursuant to OAR 333-103-0010(2)(r) authorizing possession, use, and transfer of NORM in accordance with division 117 of this chapter.  NOTE: NORM licenses authorize licensable quantities of radioactive material in the uranium or thorium decay series. Licensable quantities of NORM are derived from disposal limits in OAR chapter 345, division 50. Any material that contains NORM requires a specific license unless exempted in OAR chapter 345, division 50. Zircon sand is used as the NORM model for licensing purposes. Quantities of zircon sand in excess of 20,000 pounds in a year constitute a licensable quantity of NORM. NORM materials that are not zircon are based on the  zircon model.  (52) "Nuclear Laundry" means a laundry facility designed specifically to clean or launder clothing contaminated with licensed radioactive materials. Nuclear Laundry facilities must have process and waste management control procedures to prevent reconcentrating of licensed materials in sewers, drains, premises, and the environment. Nuclear Laundry activities are authorized pursuant to OAR 333-103-0010(2)(w), "Radioactive Material Not Otherwise Specified Facility," see 333-102-0203(61).  (53) "Nuclear Pharmacy" means a facility-specific license issued pursuant to OAR 333-103-0010(2)(s) for activities authorized by 333-102-0285 and the Oregon Board of Pharmacy rules, to compound Radiopharmaceutical and distribute (sell or transfer) to persons specifically licensed to receive such compounds or products.  NOTE: Nuclear Pharmacies, pursuant to policy provisions of chapter 345 division 50 may collect syringes containing residual licensed material from spent patient doses, since the syringe is considered to be a transport device under the administrative control of the pharmacy rather than the licensed material transferred as the dose. Residual licensed material may be considered either to be exempt pursuant to Table 1 of division 50 or under the authority of a division license if the receding licensee stores syringes for decay. In either case, the division license specifies which disposal method is being used by the pharmacy and licensee to avoid compatibility conflicts with division 50 requirements.  (54) "Other Measuring Device" means a source-specific license issued pursuant to OAR 333-103-0010(2)(t), authorizing analytical instruments, gas chromatograph electron capture detectors, and other non-portable analytical instruments, including those devices that contain multiple sources but are configured and used as a "system," in accordance with the definition in this rule.  NOTE: General license gas chromatograph detectors that formerly were granted a general license by OAR 333-102-0115, but which required a registration fee pursuant 333-103-0015(2)(b), now are subject to the specific license in 333-103-0010(2)(t).  (55) "Pool-type Irradiator" means an irradiator with greater than 10,000 curies (370 TBq) in which water provides the radiation shielding, authorized in accordance with division 121 of this chapter.  (56) "Portable Gauge" means a source-specific license issued pursuant to OAR 333-103-0010(2)(u) for sources used in devices that can be transported and used at temporary job sites.  NOTE: Any device that meets the definition of "portable gauge" and is transported or used at temporary job sites within the state of Oregon, requires an application for and issuance of an Oregon specific license subject to OAR 333-103-0010(2)(u).  (57) "Positron Emission Tomography" (PET) means a licensed healing arts activity authorized by OAR 333-116-0800 and included in the facility specific license issued pursuant to 333-103-0010(2)(j). PET nuclides, which are NARM, are subject to all Oregon rules.  (58) "Possession or Storage of Industrial Wastes Containing Radioactive Material" means activities subject to division 110 of this chapter for the production or storage of wastes that are exempt from division 50 of chapter 345 facility siting requirements, and were generated under a current NRC, Agreement State, or Licensing State specific radioactive materials license.  (59) "Possession or Storage of Uranium Tailings" means activities incident to uranium processing or milling operations resulting in the production of tailings.  (60) "Principal Activities" means activities authorized by the license that are essential to achieving the purpose(s) for which the license was issued or amended. Storage during which no licensed material is accessed for use or disposal and activities incidental to decontamination or decommissioning are not principal activities.  (61) "Processing" means chemically or physically changing a licensed material from one physical form to another form or specie (for example, breaking an ore down into its components resulting in "tailings"; milling a raw licensed material and combining to form another product or material. See "Beneficiating"; "Manufacturing or Compounding").  (62) "Radiation Source" means source of radiation (see definition of "Source of radiation" in OAR 333-100-0005).  (63) "Radioactive Material Not Otherwise Specified Facility" means a license issued pursuant to OAR 333-103-0010(2)(w) authorizing activities that includes, but are not limited to, complex licensable activities such as facility decontamination and decommissioning, nuclear laundry activities, uranium mill tailings storage, storage of industrial wastes containing radioactive materials, large irradiator management, and other complex activities not otherwise specified in these rules.  (64) "Radioactive Materials License" means the document, pursuant to OAR 333-102-0300, issued after an application, pursuant to 333-102-0190, has been accepted as adequate, that specifies radioactive materials, use authorizations, safety procedures, and use locations.  (65) "Radiopharmaceutical Therapy" means a Healing Arts facility-specific license issued pursuant to OAR 333-103-0010(2)(v) authorizing the use of Radiopharmaceutical for therapy in accordance with 333-116-0360.  (66) "Remote Afterloader" means a medical device that moves a sealed source to an interstitial (in vivo) location without exposing the practitioner to the radiation dose. Remote afterloader sources may be manipulated using computer software and engineering techniques.  (67) "Research & Development" means a facility-specific license issued pursuant to OAR 333-103-0010(2)(x) authorizing research and development activities, as defined in 333-100-0005, but does not authorize additional specific sources of radiation, which must be licensed separately pursuant to 333-103-0010 and 333-103-0015.  (68) "Responsible Representative" means  (a) The person designated as having responsibility for general license device or general license material;  (b) The person management has selected to certify general license inventory; and  (c) The individual responsible to the Authority and to management to ensure that all regulatory elements are adequate.  (69) "Sealed Source/Device Evaluation" means the review of a licensee's prototype source or device prior to registration by the Nuclear Regulatory Commission in the Sealed Source and Device Catalog.  NOTE: The Authority no longer has authority to review sources or devices. All source or device reviews must be forwarded to the NRC for review. Authority to conduct device or source evaluations was rescinded by the NRC in 1998.  (70) "Site Area Emergency" means events may occur, are in progress, or have occurred that could lead to a significant release of radioactive material and that could require a response by offsite response organizations to protect persons offsite.  (71) "Sealed Sources for Diagnosis" means a Healing Arts source-specific license issued pursuant to OAR 333-103-0010(2)(y) authorizing the use of sealed sources for diagnosis in accordance with 333-116-0400.  (72) "Special Nuclear Material" means:  (a) Plutonium, uranium 233, uranium enriched in the isotope 233 or in the isotope 235, and any other material which the NRC, pursuant to the provisions of section 51 of the act, determines to be special nuclear material, but does not include source material; or  (b) Any material artificially enriched by any of the foregoing but does not include source material.  (73) "Specific License Radioactive Material" means radioactive material that requires authorization in a specific license document pursuant to OAR 333-102-0075(2) where materials must be annotated on the specific license, and validated with a specific license fee pursuant to 333-103-0010(2)(a) through 333-103-0010(2)(hh) (see "Radioactive Materials License").  (74) "System," as used in this division, means multiple separate (individual) sources of radiation (sealed radioactive sources), which together, rather than independently, achieve a desired functionality. Such "system" is subject to one specific license fee or general license registration fee, as the case may be.  (75) "Tangible Net Worth" means the tangible assets that remain after deducting liabilities; such assets may not include intangibles such as goodwill and rights to patents or royalties.  (76) "Teletherapy" means a Healing Arts source-specific license issued pursuant to OAR 333-103-0010(2)(cc) authorizing teletherapy procedures in accordance with OAR 333-116-0480. This license also includes other high dose rate external beam therapy devices such as the "gamma knife."  (77) "Temporary Job Site" means any location, where specific license material is used that is either:  (a) Not the specific location of the licensee if an in-state licensee; or  (b) Any location in the state if an out-of-state specific licensee pursuant to a specific radioactive materials license.  NOTE: Persons authorized for temporary jobsites in Oregon must have a specific license for such activities.  (78) "Therapy" means a process that is meant to be restorative, promotes healing, or is beneficial to a patient in a healing arts context.  (79) "Unique" means a specific license issued pursuant to OAR 333-103-0010(2)(dd) to agencies in the Oregon Health Authority.  (80) "Uptake and Dilution" means a Healing Arts facility-specific license issued pursuant to OAR 333-103-0010(2)(ee) authorizing activities in 333-116-0300 for uptake, dilution, and excretion studies.  (81) "Use and Possession of Source Material " means a facility-specific radioactive materials license issued pursuant to OAR 333-103-0010(2)(z) to possess, use, process, or transfer source material, as defined in OAR 333-100-0005, in quantities greater than general license quantities or in concentrations greater than 0.05 percent source material.  NOTE: This definition was amended to avoid confusion between the definition of "source material" in division 100 of this chapter and the specific license (billable object) in division 103 of this chapter.  (82) "Use of Xenon Gas" means a Healing Arts facility-specific license issued pursuant to OAR 333-103-0010(2)(ff) authorizing the use of Xe-133 for diagnosis pursuant to 333-116-0280.  (83) "Waste Packaging" means a facility-specific license issued pursuant to OAR 333-103-0010(2)(gg), authorizing packaging, collection, storage, and transfer of radioactive waste. This specific license does not authorize storage of radioactive wastes, but does authorize temporary job sites.  (84) "Well Logging" means a license issued pursuant to OAR 333-103-0010(2)(hh) authorizing the possession, use, transfer, or disposal of sources of radiation used for well logging activities authorized by division 113 of this chapter.  NOTE: Unless specifically authorized in this rule or in a radioactive materials license that authorizes temporary job sites, specific licenses must be used only at one authorized site.  [ED. NOTE: Appendices referenced are available from the agency.] 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 453.635 & 453.665 
+ 
+ 
+ Statutes/Other Implemented:  ORS 453.605 - 453.807 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 19-2015, f. 9-30-15, cert. ef. 10-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 32-2014, f. 12-22-14, cert. ef. 1-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 4-2013, f. & cert. ef. 1-29-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 11-2011, f. & cert. ef. 10-27-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 5-2011(Temp), f. & cert. ef. 7-1-11 thru 12-27-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 14-2008, f. & cert. ef. 9-15-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 4-2007, f. & cert. ef. 3-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 12-2006, f. & cert. ef. 6-16-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 36-2004, f. & cert. ef. 12-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 31-2004(Temp), f. & cert. ef. 10-8-04 thru 4-5-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 3-2003, f. & cert. ef. 3-27-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 4-1995, f. & cert. ef. 9-8-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 2-1995(Temp), f. & cert. ef. 7-11-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 1-1995, f. & cert. ef. 4-26-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

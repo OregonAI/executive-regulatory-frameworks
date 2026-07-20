@@ -1,0 +1,628 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Fish and Wildlife 
+ Chapter 635 
+ 
+ 
+ 
+ 
+ 
+ Division 4 COMMERCIAL FISHERIES OTHER THAN SALMON OR SHELLFISH 
+ 635-004-0215 
+ Definitions 
+ 
+ As used in Division 004 regulations: 
+
+ (1) “Animals living intertidally on the bottom” means any benthic animal with a natural range that includes intertidal areas, regardless of where harvest occurs, and includes but is not limited to, starfish, sea urchins, sea cucumbers, snails, bivalves, worms, coelenterates, and crabs except Dungeness crab. 
+
+ (2) “Board” means the Commercial Fishery Permit Board. 
+
+ (3) “Buy” includes offer to buy, barter, exchange or trade. 
+
+ (4) “Coastal Pelagic Species” means all species of ocean food fish and shellfish defined as Coastal Pelagic Species in the Fishery Management Plan for U.S. West Coast Fisheries for Coastal Pelagic Species and in the Federal Coastal Pelagic Species Regulations, Title 50, Part 660, and include: 
+
+ (a) Jack mackerel (Trachurus symmetricus); 
+
+ (b) Jack smelt (Atherinopsis californiensis); 
+
+ (c) Krill (all species in order Euphausiacea); 
+
+ (d) Market squid (Loligo opalescens); 
+
+ (e) Northern anchovy (Engraulis mordax); 
+
+ (f) Pacific herring (Clupea harengus pallasi); 
+
+ (g) Pacific mackerel (Scomber japonicus); and 
+
+ (h) Pacific sardine (Sardinops sagax). 
+
+ (5) “Commercial harvest cap” means the total fishery-related mortality for a given species, or species group, that may occur in a single calendar year in Oregon commercial fisheries. 
+
+ (6) “Commercial landing cap” means the total landed catch of a given species, or species group, that may be taken in a single calendar year in Oregon commercial fisheries. 
+
+ (7) “Commercial purposes” means taking food fish with any gear unlawful for angling, or taking or possessing food fish in excess of the limits permitted for personal use, or taking, fishing for, handling, processing, or otherwise disposing of or dealing in food fish with the intent of disposing of such food fish or parts thereof for profit, or by sale, barter or trade, in commercial channels, as specified in ORS 506.006. 
+
+ (8) “Commission” means the State Fish and Wildlife Commission created by ORS 496.090. 
+
+ (9) “Department” means the State Department of Fish and Wildlife. 
+
+ (10) “Director” means the Director of the Oregon Department of Fish and Wildlife appointed pursuant to ORS 496.112. 
+
+ (11) “Dive gear” means gear used while a fisher is submerged underwater in order to take food fish and includes, but is not limited to, one or more of the following pieces of equipment: SCUBA or other surface supplied air source (hookah gear), dive mask, snorkel, air cylinders, weight belt, wetsuit and fins. 
+
+ (12) “Exclusive Economic Zone” means the zone between 3-200 nautical miles offshore of the United States. 
+
+ (13) “Fishing gear” means, as specified in ORS 506.006, any appliance or device intended for or capable of being used to take food fish for commercial purposes, and includes: 
+
+ (a) “Fixed gear” means longline, trap or pot, set net, and stationary hook-and-line (including vertical hook-and-line) gears; 
+
+ (b) “Gillnet” has the meaning as set forth in OAR 635-042-0010; 
+
+ (c) “Hook-and-line” means one or more hooks attached to one or more lines; 
+
+ (d) “Lampara net” means a surrounding or seine net with the sections of netting made and joined to create bagging, and is hauled with purse rings; 
+
+ (e) “Longline” means a stationary buoyed, and anchored groundline with hooks attached; 
+
+ (f) “Mesh size” means the opening between opposing knots. Minimum mesh size means the smallest distance allowed between the inside of one knot to the inside of the opposing knot regardless of twine size; 
+
+ (g) “Pot or trap” means a portable, enclosed device with one or more gates or entrances and one or more lines attached to surface floats; 
+
+ (h) “Purse seine” means a floated and weighted encircling net that is closed by means of a purse line threaded through rings attached to the bottom of the net. Purse seine gear includes, but is not limited to, ring net, drum purse seine, and lampara nets; 
+
+ (i) “Seine” means any non-fixed net other than a trawl net or gillnet and includes all types of purse seines; 
+
+ (j) “Setline” means a bottom longline used in rivers and estuaries for targeting white sturgeon; 
+
+ (k) “Set net” means a stationary, buoyed and anchored gillnet or trammel net which takes fish commonly by gilling and is not free to move or drift with the current or tide; 
+
+ (l) “Spear” means a sharp, pointed, or barbed instrument on a shaft; 
+
+ (m) “Trammel net” means a gillnet made with two or more walls joined to a common float line; 
+
+ (n) “Trawl gear” means a cone or funnel-shaped net which is towed or drawn through the water by one or two vessels, and includes but is not limited to beam trawl, bobbin or roller trawl, bottom trawl, pelagic trawl and Danish and Scottish seine gear; 
+
+ (o) “Troll” means fishing gear that consists of one or more lines that drag hooks with bait or lures behind a moving fishing vessel, and which lines are affixed to the vessel and are not disengaged from the vessel at any time during the fishing operation; and 
+
+ (p) “Vertical hook and line” means a line attached to the vessel or to a surface buoy vertically suspended to the bottom by a weight or anchor, with hooks attached between its surface and bottom end. 
+
+ (14) “Fishing trip” means a period of time between landings when fishing is conducted. 
+
+ (15) “Food Fish” means any animal over which the State Fish and Wildlife Commission has jurisdiction, pursuant to ORS 506.036. 
+
+ (16) “Groundfish” means all species of ocean food fish defined as groundfish in the Pacific Coast Groundfish Fishery Management Plan and in the Federal Groundfish Regulations, Title 50, Part 660 and includes: 
+
+ (a) All species of rockfish, thornyheads, and scorpionfish that occur off Washington, Oregon, or California (genera Sebastes, Scorpaena, Scorpaenodes, and Sebastolobus); 
+
+ (b) All species of grenadiers in the family Macrouridae that occur off Washington, Oregon, or California, including but not limited to Giant grenadier, (Albatrossia pectoralis) and Pacific grenadier (Coryphaenoides acrolepis); 
+
+ (c) All species of skates in the family Arhynchobatidae that occur off Washington, Oregon, or California, including but not limted to Aleutian skate (Bathyraja aleutica), Bering/sandpaper skate (B. interrupta), big skate (Raja binoculata), California skate (R. inornata), longnose skate (R. rhina), and roughtail/black skate (B. trachura); 
+
+ (d) Arrowtooth flounder (Atheresthes stomias); 
+
+ (e) Butter sole (Isopsetta isolepis); 
+
+ (f) Cabezon (Scorpaenichthys marmoratus); 
+
+ (g) Curlfin sole (Pleuronichthys decurrens); 
+
+ (h) Dover sole (Microstomus pacificus); 
+
+ (i) English sole (Parophrys vetulus); 
+
+ (j) Finescale codling (Antimora microlepis); 
+
+ (k) Flathead sole (Hippoglossoides elassodon); 
+
+ (l) Kelp greenling (Hexagrammos decagrammus); 
+
+ (m) Leopard shark (Triakis semifasciata); 
+
+ (n) Lingcod (Ophiodon elongatus); 
+
+ (o) Pacific cod (Gadus macrocephalus); 
+
+ (p) Pacific sanddab (Citharichthys sordidus); 
+
+ (q) Pacific whiting (Merluccius productus); 
+
+ (r) Petrale sole (Eopsetta jordani); 
+
+ (s) Ratfish (Hydrolagus colliei); 
+
+ (t) Rex sole (Glyptocephalus zachirus); 
+
+ (u) Rock sole (Lepidopsetta bilineata); 
+
+ (v) Sablefish (Anoplopoma fimbria); 
+
+ (w) Sand sole (Psettichthys melanostictus); 
+
+ (x) Soupfin shark (Galeorhinus zyopterus); 
+
+ (y) Spiny dogfish (Squalus acanthias); and 
+
+ (z) Starry flounder (Platichthys stellatus). 
+
+ (17) “Harvest guideline” means a specified numerical harvest objective that is not a quota. Attainment of a harvest guideline does not automatically close a fishery. 
+
+ (18) “Highly Migratory Species” means all species of ocean food fish defined as highly migratory species in the Fishery Management Plan for U.S. West Coast Fisheries for Highly Migratory Species and in the Federal Highly Migratory Species Regulations, Title 50, Part 660, and includes: 
+
+ (a) Bigeye thresher shark (Alopias superciliosus); 
+
+ (b) Bigeye tuna (Thunnus obesus); 
+
+ (c) Blue shark (Prionace glauca); 
+
+ (d) Common thresher shark (Alopias vulpinus); 
+
+ (e) Common Mola (Mola mola); 
+
+ (f) Dorado (Coryphaena hippurus); 
+
+ (g) Escolar (Lepidocybium flavobrunneum); 
+
+ (h) Lancetfishes (Alepisauridae species); 
+
+ (i) Louvar (Luvarus imperialis); 
+
+ (j) North Pacific albacore tuna (Thunnus alalunga); 
+
+ (k) Northern bluefin tuna (Thunnus thynnus); 
+
+ (l) Pacific swordfish (Xiphias gladius); 
+
+ (m) Pelagic sting ray (Dasyetis violacea); 
+
+ (n) Pelagic thresher shark (Alopias pelagicus); 
+
+ (o) Shortfin mako shark (Isurus oxyrinchus); 
+
+ (p) Skipjack tuna (Katsuwonus pelamis); 
+
+ (q) Striped marlin (Tetrapturus audax); 
+
+ (r) Wahoo (Acathocybium solandri); and 
+
+ (s) Yellowfin tuna (Thunnus albacares). 
+
+ (19) “Inland waters” means all waters of the state except the Pacific Ocean. 
+
+ (20) “Intertidal” means the area in Oregon coastal bays, estuaries, and beaches between mean extreme low water and mean extreme high water boundaries. 
+
+ (21) “Land, landed, or landing” means either of the following: 
+
+ (a) For fisheries where food fish were taken by use of a vessel, “land, landed or landing” means to begin transfer of food fish from a vessel. Once transfer begins, all food fish aboard the vessel are counted as part of that landing, except: 
+
+ (A) Anchovies being held live on a vessel for the purpose of using for bait in that vessel’s commercial fishing operation; and 
+
+ (B) For vessels participating in the federal trawl rationalization program, the portion of catch that is intended to be delivered to Washington or California is not considered part of that landing. 
+
+ (b) For fisheries where food fish were taken without use of any vessel, “land, landed or landing” means to begin transfer of food fish from a harvester to a wholesale fish dealer, wholesale fish bait dealer, or food fish canner, under which the following provisions apply: 
+
+ (A) When the harvester and the wholesale fish dealer, wholesale fish bait dealer, or food fish canner are the same person or entity, transfer occurs when the food fish arrive at the licensed premises of the wholesale fish dealer, wholesale fish bait dealer, or food fish canner; and 
+
+ (B) Once transfer begins, all food fish from the harvest area are counted as part of that landing. 
+
+ (22) “Length” or “Length Overall” of a vessel means the manufacturer’s specification of overall length, United States Coast Guard or Marine Board registered length documentation stating overall length or overall length as surveyed by a certified marine surveyor. In determining overall length, marine surveyors shall measure in a straight line parallel to the keel from the foremost part of the vessel to the aftermost part, excluding sheer and excluding bow sprits, boomkins, rudders aft of the transom, outboard motor brackets, or transom extensions such as a dive step or platform. 
+
+ (23) “Length, total” of a fish is measured from the tip of the snout (mouth closed) to the tip of the tail (pinched together) without mutilation of the fish or the use of additional force to extend the length. 
+
+ (24) “Nearshore species” includes (See ORS 506.011): 
+
+ (a) Black and yellow rockfish (Sebastes chrysolmelas); 
+
+ (b) Brown Irish lord (Hemilepidotus spinosus); 
+
+ (c) Brown rockfish (Sebastes auriculatus); 
+
+ (d) Buffalo sculpin (Enophrys bison); 
+
+ (e) Cabezon (Scorpaenichthys marmoratus); 
+
+ (f) Calico rockfish (Sebastes dalli); 
+
+ (g) China rockfish (S. nebulosus); 
+
+ (h) Copper rockfish (S. caurinus); 
+
+ (i) Gopher rockfish (S. carnatus); 
+
+ (j) Grass rockfish (S. rastrelliger); 
+
+ (k) Kelp greenling (Hexagrammos decagrammus); 
+
+ (l) Kelp rockfish (Sebastes atrovirens); 
+
+ (m) Olive rockfish (S. serranoides); 
+
+ (n) Painted greenling (Oxylebius pictus); 
+
+ (o) Quillback rockfish (Sebastes maliger); 
+
+ (p) Red Irish lord (Hemilepidotus hemilepidotus); 
+
+ (q) Rock greenling (Hexagrammos lagocephalus); 
+
+ (r) Tiger rockfish (Sebastes nigrocinctus); 
+
+ (s) Treefish (S. serriceps); 
+
+ (t) Vermillion rockfish (S. miniatus); and 
+
+ (u) White spotted greenling (Hexagrammos stelleri). 
+
+ (25) “Ocean food fish” means all saltwater species of food fish except salmon, halibut, and shellfish whether found in fresh or salt water. 
+
+ (26) “Other nearshore rockfish” includes: 
+
+ (a) Black and yellow rockfish (Sebastes chrysolmelas); 
+
+ (b) Brown rockfish (S. auriculatus); 
+
+ (c) Calico rockfish (S. dalli); 
+
+ (d) China rockfish (S. nebulosus); 
+
+ (e) Copper rockfish (S. caurinus); 
+
+ (f) Gopher rockfish (S. carnatus); 
+
+ (g) Grass rockfish (S. rastrelliger); 
+
+ (h) Kelp rockfish (S. atrovirens); 
+
+ (i) Olive rockfish (S. serranoides); 
+
+ (j) Quillback rockfish (S. maliger); and 
+
+ (k) Treefish (S. serriceps). 
+
+ (27) “Pacific Ocean” means all water seaward of the end of the jetty or jetties of any river, bay, or tidal area, except the Columbia River boundary with the Pacific Ocean is as specified in OAR 635-003-0005, or all water seaward of the extension of the shoreline high watermark across the river, bay, or tidal area where no jetties exist. 
+
+ (28) “Permit holder” means a person or entity that owns an individual permit or owns the vessel to which a vessel permit is attached. A lessee of a permit is not a permit holder. 
+
+ (29) “Possession” means holding any food fish, shellfish or parts thereof in a person’s custody or control. 
+
+ (30) “Process or Processing” means fresh packaging requiring freezing of food fish, or any part thereof, or any type of smoking, reducing, loining, steaking, pickling or filleting. 
+
+ (31) “Resident” means an actual bona fide resident of this state for at least one year, as specified in ORS 508.285. 
+
+ (32) “Rockfish” includes all species in the following genera: 
+
+ (a) Sebastes; and 
+
+ (b) Sebastolobus. 
+
+ (33) “Salmon” means all anadromous species of salmon, including but not limited to: 
+
+ (a) Oncorhynchus gorbuscha, commonly known as humpback, humpies or pink salmon. 
+
+ (b) Oncorhynchus keta, commonly known as chum or dog salmon. 
+
+ (c) Oncorhynchus kisutch, commonly known as coho or silver salmon. 
+
+ (d) Oncorhynchus nerka, commonly known as sockeye, red or blueback salmon. 
+
+ (e) Oncorhynchus tshawytscha, commonly known as Chinook salmon. 
+
+ (34) “Shared Ecosystem Component Species” means those ecosystem component species shared between all of the Pacific Fishery Management Council’s Fishery Management Plans which occur in the Pacific Ocean off Oregon and include: 
+
+ (a) Mesopelagic fishes of the families Myctophidae, Bathylagidae, Paralepididae, and Gonostomatidae; 
+
+ (b) Pacific sand lance (Ammodytes personatus, previously Ammodytes hexapterus); 
+
+ (c) Pacific saury (Cololabis saira); 
+
+ (d) Silversides of the family Atherinopsidae; 
+
+ (e) Smelts of the family Osmeridae; and 
+
+ (f) Pelagic squids of the families Cranchiidae, Gonatidae, Histioteuthidae, Octopoteuthidae, Ommastrephidae except Humboldt squid (Dosidicus gigas), Onychoteuthidae, and Thysanoteuthidae. 
+
+ (35) “Security interest” means an interest in a vessel or permit granted by the owner of the vessel or permit to a third party under a security agreement, pursuant to ORS chapter 79, another state’s laws enacted to implement Article 9 of the Uniform Commercial Code or equivalent federal statutory provisions for federally documented vessels. 
+
+ (36) “Seine skiff” means an open vessel which travels with a larger fishing vessel at all times and is used solely at the direction of the operator of the larger fishing vessel to assist that larger fishing vessel in the deployment and retrieval of seine nets to take fish. 
+
+ (37) “Sell” includes to offer or possess for sale, barter, exchange or trade. 
+
+ (38) “Smelt” means all species in the family Osmeridae. 
+
+ (39) “Take” means fish for, hunt, pursue, catch, capture or kill or attempt to fish for, hunt, pursue, catch, capture or kill. 
+
+ (40) “Transport” means transport by any means and includes offer or receive for transportation. 
+
+ (41) “Trip limit” means the total amount of fish that may be taken and retained, possessed, or landed per vessel from a single fishing trip or cumulatively per unit of time. A vessel which has landed its cumulative or daily limit may continue to fish on the limit for the next legal period as long as the fish are not landed until the next period. Trip limits may be: 
+
+ (a) “Bi-monthly cumulative trip limit” means the maximum amount of fish that may be taken and retained, possessed or landed per vessel in specified bi-monthly periods. There is no limit on the number of landings or trips in each period, and periods apply to calendar months. The specified periods are as follows: 
+
+ (A) Period 1: January through February; 
+
+ (B) Period 2: March through April; 
+
+ (C) Period 3: May through June; 
+
+ (D) Period 4: July through August; 
+
+ (E) Period 5: September through October; and 
+
+ (F) Period 6: November through December. 
+
+ (b) “Daily trip limit” means the maximum amount of fish that may be taken and retained, possessed or landed per vessel in 24 consecutive hours, starting at 00:01 hours local time. Only one landing of groundfish may be made in that 24-hour period; 
+
+ (c) “Monthly trip limit” means the maximum amount of fish that may be taken and retained, possessed or landed per vessel during the first day through the last day of any calendar month. 
+
+ (d) “Weekly trip limit” means the maximum amount of fish that may be taken and retained, possessed or landed per vessel in seven (7) consecutive days, starting at 00:01 hours local time on Sunday and ending at 24:00 hours local time on Saturday. Weekly trip limits may not be accumulated during multiple week trips. If a calendar week falls within two different months or two different cumulative limit periods, a vessel is not entitled to two separate weekly limits during that week. 
+
+ (42) “Undue hardship” means death, serious illness requiring extended care by a physician, permanent disability, or other circumstances beyond the individual’s control. 
+
+ (43) “Unlawful to buy” means that it is unlawful to buy, knowing or having reasonable cause to believe that the fish have been illegally taken or transported within this state, or unlawfully imported or otherwise unlawfully brought into this state. 
+
+ (44) “Vessel” means any floating craft, powered, towed, rowed or otherwise propelled which is used for landing or taking food fish for commercial purposes, and has the same meaning as ‘boat’ as specified in ORS 506.006. 
+
+ (45) “Vessel operator” means the person onboard a fishing vessel who is responsible for leading a fishing vessel in fishing or transit operations, and who signs the corresponding electronic fish ticket or dock receipt from that fishing trip. A vessel operator may be a vessel owner or permit holder or both, individual hired to operate a vessel, or lessee of a vessel, permit or both. Although more than one person may physically operate a vessel during a fishing trip or transit, there may only be one person identified as a vessel operator (commonly referred to as a captain or skipper) on a fishing vessel during any one fishing trip or transit. 
+
+ (46) “Vessel owner” means any ownership interest in a vessel, including interests arising from partnerships, corporations, limited liability corporations, or limited liability partnerships. A vessel owner does not include a leasehold interest. 
+
+ (47) “Waters of this state” means all waters over which the State of Oregon has jurisdiction, or joint or other jurisdiction with any other state or government, including waters of the Pacific Ocean and all bays, inlets, lakes, rivers and streams within or forming the boundaries of this state. 
+
+ (48) “Week” means the period beginning at 00:01 hours local time on Sunday and ending at 24:00 hours local time on the following Saturday. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 506.119 & ORS 506.129 
+ 
+ 
+ Statutes/Other Implemented:  ORS 506.109 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DFW 147-2025, amend filed 12/31/2025, effective 01/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DFW 56-2023, amend filed 06/28/2023, effective 06/28/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DFW 22-2023, amend filed 03/17/2023, effective 03/18/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DFW 39-2021, amend filed 04/08/2021, effective 04/09/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DFW 147-2019, amend filed 09/30/2019, effective 01/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DFW 149-2016, f. 12-7-16, cert. ef. 1-1-17 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ DFW 3-2016, f. & cert. ef. 1-19-16 
+DFW 4-2015, f. 1-13-15, cert. ef. 1-15-15 
+DFW 136-2013, f. 12-19-13, cert. ef. 1-1-14 
+DFW 32-2013, f. & cert. ef. 5-14-13 
+DFW 75-2012, f. 6-28-12, Renumbered from 635-004-0020 
+DFW 156-2009, f. 12-29-09, cert. ef. 1-1-10 
+DFW 142-2008, f. & cert. ef. 11-21-08 
+DFW 70-2005, f. & cert. ef. 7-8-05 
+DFW 32-2005(Temp), f. 4-29-05, cert. ef. 5-1-05 thru 10-27-05 
+DFW 117-2004, f. 12-13-04, cert. ef. 1-1-05 
+FWC 71-1996, f. 12-31-96, cert. ef. 1-1-97 
+FWC 45-1995, f. & cert. ef. 6-1-95 
+FWC 95-1994, f. 12-28-94, cert. ef. 1-1-95 
+FWC 6-1993, f. 1-28-93, cert. ef. 2-1-93 
+FWC 36-1992, f. 5-26-92, cert. ef. 5-27-92 
+FWC 21-1992(Temp), f. 4-7-92, cert. ef. 5-1-92 
+FWC 141-1991, f. 12-31-91, cert. ef. 1-1-92 
+FWC 67-1991, f. 6-25-91, cert. ef. 7-1-91 
+FWC 130-1990, f. 12-31-90, cert. ef. 1-1-91 
+FWC 28-1989(Temp), f. 4-25-89, cert. ef. 4-26-89 
+FWC 103-1988, f. 12-29-88, cert. ef. 1-1-89 
+FWC 17-1987(Temp), f. & cert. ef. 5-7-87 
+FWC 5-1985, f. & cert. ef. 2-19-85 
+FWC 1-1985(Temp), f. & ef. 1-4-85 
+FWC 10-1983, f. & ef. 3-1-83 
+FWC 49-1979, f. & ef. 11-1-79, Renumbered from 635-036-0270 
+FWC 37-1976, f. & ef. 1-23-76, Renumbered from 625-010-0545 
+FC 246-1972, f. 5-5-72, cert. ef. 5-15-72 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

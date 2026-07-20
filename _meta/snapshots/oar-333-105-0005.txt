@@ -1,0 +1,245 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 105 RADIATION SAFETY REQUIREMENTS FOR INDUSTRIAL RADIOGRAPHIC OPERATIONS 
+ 333-105-0005 
+ Definitions 
+ 
+ As used in this division, the following definitions apply:  (1) "Annual refresher safety training" means a review conducted or provided by the licensee for its employees on radiation safety aspects of industrial radiography. The review must include, as a minimum, a review of radiation safety aspects of industrial radiography, any results of internal audits, Authority inspections, new procedures or equipment, new or revised regulations, and accidents or errors that have been observed. The review must also provide opportunities for employees to ask safety questions.  (2) "ANSI" means the American National Standards Institute.  (3) "Associated equipment" means equipment that is used in conjunction with a radiographic exposure device to make radiographic exposures that drives, guides, or comes in contact with the source, (e.g., guide tube, control tube, control (drive) cable, removable source stop, "J" tube and collimator when it is used as an exposure head.  (4) "Camera" see "Radiographic exposure device".  (5) "Certifying entity" means an independent certifying organization meeting the requirements in Appendix A of division 105 or an Agreement State regulatory program meeting the requirements in Appendix A, Sections II and III.  (6) "Collimator" means a radiation shield that is placed on the end of the guide tube or directly onto a radiographic exposure device to restrict the size, shape, and direction of the radiation beam when the sealed source is cranked into position to make a radiographic exposure.  (7) "Control drive cable" means the cable that is connected to the source assembly and used to drive the source to and from the exposure location.  (8) "Control drive mechanism" means a device that enables the source assembly to be moved into and out of the exposure device.  (9) "Control tube" means a protective sheath for guiding the control cable. The control tube connects the control drive mechanism to the radiographic exposure device.  (10) "Drive cable" see "Control cable".  (11) "Exposure head" means a device that locates the gamma radiography sealed source in the selected working position. An exposure head also is known as a source stop or end cap.  (12) "Field station" means a facility from which sources of radiation may be stored or used and from which equipment is dispatched.  (13) "Guide tube" (projection sheath) means a flexible or rigid tube, or "J" tube, for guiding the source assembly and the attached control cable from the exposure device to the exposure head. The guide tube may also include the connections necessary for attachment to the exposure device and to the exposure head.  (14) "Hands-on experience" means experience in all of those areas considered to be directly involved in the radiography process, and includes taking radiographs, calibration of survey instruments, operational and performance testing of survey instruments and devices, film development, posting of radiation areas, preparing radiographic sources for transport, set-up of radiography equipment, posting of records and radiation area surveillance, etc., as applicable. In addition the Radiation Safety Officer experience must include source exchange and source retrieval. Excessive time spent in only one or two of these areas, such as film development or radiation area surveillance, should not be counted toward the 2000 hours of hands-on experience required for a radiation safety officer in 333-105-0520 or the hands-on experience for a radiographer as required by 333-105-0530.  (15) "Independent certifying organization" means an independent organization that meets all of the criteria of Appendix A of this part.  (16) "Industrial radiography" means a nondestructive examination of the structure of materials using ionizing radiation to make radiographic images.  (17) "Lay-barge radiography" means industrial radiography performed on any water vessel used for laying pipe.  (18) "Lixiscope" means a portable light-intensified imaging device using a sealed source.  (19) "Offshore platform radiography" means industrial radiography conducted from a platform over a body of water.  (20) "Permanent radiographic installation" means an enclosed shielded room, cell, or vault, not located at a temporary jobsite, in which radiography is performed.  (21) "Personal supervision" means supervision in which the radiographer is physically present at the site where sources of radiation and associated equipment are being used, watching the performance of the radiographer's assistant and in such proximity that immediate assistance can be given if required.  (22) "Pigtail" see "Source assembly".  (23) "Pill" see "Sealed source".  (24) "Practical examination" means a demonstration through application of the safety rules and principles in industrial radiography including use of all procedures and equipment to be used by radiographic personnel.  (25) "Projection sheath" see "Guide tube".  (26) "Projector" see "Radiographic exposure device".  (27) "Radiation safety officer for industrial radiography" means an individual with the responsibility for the overall radiation safety program on behalf of the licensee and who meets the requirements of 333-105-0520.  (28) "Radiographer" means any individual who performs or who, in attendance at the site where sources of radiation are being used, personally supervises industrial radiographic operations and who is responsible to the licensee for assuring compliance with the requirements of these rules and the conditions of the license or registration.  (29) "Radiographer certification" means written approval received from a certifying entity stating that an individual has satisfactorily met the radiation safety, testing, and experience criteria in 333-105-0530.  (30) "Radiographer's assistant" means any individual who, under the direct supervision of a radiographer, uses radiographic exposure devices, sources of radiation, related handling tools or radiation survey instruments in industrial radiography.  (31) "Radiographer instructor" means any radiographer who has been authorized by the Authority to provide on-the-job training to radiographer trainees in accordance with OAR 333-105-0530(3).  (32) "Radiographer trainee" means any individual who, under the direct supervision of a radiographer instructor, uses sources of radiation, related handling tools or radiation survey instruments during the course of his instruction.  (33) "Radiographic exposure device" (also called a camera or a projector) means any instrument containing a sealed source fastened or contained therein, in which the sealed source or shielding thereof may be moved or otherwise changed from a shielded to unshielded position for purposes of making a radiographic exposure.  (34) "Radiographic operations" means all activities performed with a radiographic exposure device. Activities include using, transporting (except when being transported by common or contract carriers), storing at a temporary job site, performing surveys to confirm the adequacy of boundaries, setting up equipment, and any activity inside restricted area boundaries. Transporting a radiation machine is not considered a radiographic operation.  (35) "Radiographic personnel" means any radiographer, radiographer's assistant, radiographer instructor or radiographer trainee.  (36) "Radiography" see "Industrial radiography".  (37) "Residential location" means any area where structures in which people lodge or live are located and the grounds on which such structures are located including, but not limited to, houses, apartments, condominiums and garages.  (38) "S-tube" means a tube through which the radioactive source travels when inside a radiographic exposure device.  (39) "Sealed source" means any radioactive material that is encased in a capsule designed to prevent leakage or escape of the radioactive material.  (40) "Shielded position" means the location within the radiographic exposure device, source changer, or storage container that, by manufacturer's design, is the proper location for storage of the sealed source.  (41) "Source assembly" means an assembly that consists of the sealed source and a connector that attaches the source to the control cable. The source assembly may also include a stop ball used to secure the source in the shielded position.  (42) "Source changer" means a device designed and used for replacement of sealed sources in radiographic exposure devices. They also may be used for transporting and storing sealed sources.  (43) "Storage area" means any location, facility or vehicle that is used to store and secure a radiographic exposure device, a radiation machine, or a storage container when it is not used for radiographic operations. Storage areas are locked or have a physical barrier to prevent accidental exposure, tampering with or unauthorized removal of the device, container, source, or machine.  (44) "Storage container" means a device in which sealed sources are secured and stored.  (45) "Temporary jobsite" means any location where radiographic operations are performed and where sources of radiation may be stored other than those location(s) of use authorized on the license or registration.  (46) "Transport container" means a package that is designed to provide radiation safety and security when sealed sources are transported and which meets all applicable requirements of the U.S. Department of Transportation.  (47) "Underwater radiography" means radiographic operations performed when the radiographic exposure device or radiation machine and/or related equipment are beneath the surface of the water.  [ED. NOTE: Appendices referenced are available from the agency.] 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 453.635 
+ 
+ 
+ Statutes/Other Implemented:  ORS 453.605 - 453.807 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 4-2007, f. & cert. ef. 3-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 12-2006, f. & cert. ef. 6-16-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 36-2004, f. & cert. ef. 12-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 31-2004(Temp), f. & cert. ef. 10-8-04 thru 4-5-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 3-2003, f. & cert. ef. 3-27-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 1-1995, f. & cert. ef. 4-26-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 1-1991, f. & cert. ef. 1-8-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 4-1985, f. & ef. 3-20-85 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

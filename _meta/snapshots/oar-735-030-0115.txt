@@ -1,0 +1,187 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Transportation 
+ Driver and Motor Vehicle Services Division - Chapter 735 
+ 
+ 
+ 
+ 
+ Division 30 GENERAL REGISTRATION PROVISIONS 
+ 735-030-0115 
+ Determining Combined MPG Ratings for Title and Registration Issuance 
+ 
+ (1) This rule describes DMV’s method of determining the combined MPG rating for the titling and registration of vehicles in accordance with ORS 803.091 and 803.422, respectively. 
+
+ (2) The following definitions apply to terms in this rule: 
+
+ (a) “Combined MPG rating” means a whole number representing the average miles a vehicle can travel on a gallon of fuel for combined city and highway driving. 
+
+ (b) “EPA” means the United States Environmental Protection Agency, United States Department of Energy and Office of Energy Efficiency and Renewable Energy. 
+
+ (c) “MPG” means miles per gallon. 
+
+ (3) DMV determines the combined MPG rating for a vehicle by assigning the combined MPG rating reported by the EPA for that vehicle.  
+
+ (4) DMV acquires the combined MPG rating reported by the EPA using any one of the following methods: 
+
+ (a) DMV decodes the vehicle identification number (VIN) using VIN decoder software provided by a vendor contracted with DMV; 
+
+ (b) A certified dealer, as defined in OAR 735-150-0010, or an EVR integrator, as defined in OAR 735-020-0000, enters the combined MPG rating when processing a title, title and registration or registration renewal transaction using DMV’s electronic vehicle registration program; 
+
+ (c) An employee of the Oregon Department of Transportation’s road usage charge program enters the combined MPG rating for the vehicle when the person applies for entry into the road usage charge program. 
+
+ (5) When DMV cannot establish the combined MPG rating for a vehicle using the methods described in section (4) of this rule, DMV will calculate the additional title fee prescribed in ORS 803.091 or the additional registration fee prescribed in ORS 803.422 using the fee listed in the appropriate statute for vehicles that have a combined MPG rating of 0-19 MPG or non-motorized vehicles. 
+
+ (6) Notwithstanding section (5) of this rule, if DMV cannot establish the combined MPG rating using a method described in section (4), DMV may establish the combined MPG rating by using the vehicle information to locate the combined MPG rating on the EPA’s website that provides accurate fuel economy information to consumers. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 184.619, 802.010, 803.091 & 803.422 
+ 
+ 
+ Statutes/Other Implemented:  ORS 803.091 & 803.422 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMV 30-2019, adopt filed 12/17/2019, effective 01/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

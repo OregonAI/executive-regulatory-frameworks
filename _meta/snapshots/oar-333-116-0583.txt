@@ -1,0 +1,282 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 116 USE OF RADIONUCLIDES IN THE HEALING ARTS 
+ 333-116-0583 
+ Periodic Spot-checks for Remote Afterloader Units
+ 
+ 
+ (1) A licensee authorized to use a remote afterloader unit for medical use must perform spot-checks of each remote afterloader facility and on each unit: 
+
+ (a) Before the first use of a high dose-rate, medium dose-rate, or pulsed dose-rate remote afterloader unit on a given day; 
+
+ (b) Before each patient treatment with a low dose-rate remote afterloader unit; and 
+
+ (c) After each source installation. 
+
+ (2) A licensee must perform the measurements required by section (1) of this rule in accordance with written procedures established by the authorized medical physicist. That individual need not actually perform the spot check measurements. 
+
+ (3) A licensee must have the authorized medical physicist review the results of each spot-check within 15 days. The authorized medical physicist must notify the licensee as soon as possible in writing of the results of each spot-check. 
+
+ (4) To satisfy the requirements of section (1) of this rule, spot-checks must, at a minimum, assure proper operation of: 
+
+ (a) Electrical interlocks at each remote afterloader unit room entrance; 
+
+ (b) Source exposure indicator lights on the remote afterloader unit, on the control console, and in the facility; 
+
+ (c) Viewing and intercom systems in each high dose-rate, medium dose-rate, and pulsed dose-rate remote afterloader facility; 
+
+ (d) Emergency response equipment; 
+
+ (e) Radiation monitors used to indicate the source position; 
+
+ (f) Timer accuracy; 
+
+ (g) Clock (date and time) in the unit's computer; and 
+
+ (h) Decayed source(s) activity in the unit's computer. 
+
+ (5) If the results of the checks required in section (4) of this rule indicate the malfunction of any system, a licensee must lock the control console in the off position and not use the unit except as may be necessary to repair, replace, or check the malfunctioning system. 
+
+ (6) A licensee must retain a record of each check required by section (4) of this rule in accordance with OAR 333-100-0057. The record must include, as applicable: 
+
+ (a) The date of the spot-check; 
+
+ (b) The manufacturers name, model number for the remote afterloader and source; 
+
+ (c) An assessment of timer accuracy; 
+
+ (d) Notations indicating the operability of each entrance door electrical interlock, radiation monitors, source exposure indicator lights, viewing and intercom systems, and clock and decayed source activity in the unit's computer; and 
+
+ (e) The name of the individual who performed the periodic spot-check and the signature of the authorized medical physicist who reviewed the record of the spot-check. 
+
+ (7) A licensee must retain a copy of the procedures required by section (4) of this rule until the licensee no longer possesses the remote afterloader unit. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 453.635 
+ 
+ 
+ Statutes/Other Implemented:  ORS 453.605 - 453.807 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 54-2018, minor correction filed 02/01/2018, effective 02/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 14-2008, f. & cert. ef. 9-15-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 4-2007, f. & cert. ef. 3-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 12-2006, f. & cert. ef. 6-16-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 36-2004, f. & cert. ef. 12-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 31-2004(Temp), f. & cert. ef. 10-8-04 thru 4-5-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 3-2003, f. & cert. ef. 3-27-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

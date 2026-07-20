@@ -1,0 +1,185 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Secretary of State 
+ Corporation Division - Chapter 160 
+ 
+ 
+ 
+ 
+ Division 40 UNIFORM COMMERCIAL CODE — ARTICLE 9 
+ 160-040-0301 
+ Primary Data Elements 
+ 
+ The primary data elements used in the UCC information management system are the following.  (1) Identification numbers.  (a) Initial financing statements. Each initial financing statement is identified by its file number. Identification of the initial financing statement is stamped on written UCC records or otherwise permanently associated with the record maintained for UCC records in the UCC information management system. A record is created in the UCC information management system for each initial financing statement and all information comprising such record is maintained in such system. Such record is identified by the same information assigned to the initial financing statement.  (b) Other UCC records. A UCC record other than an initial financing statement is identified by a unique file number assigned by the filing officer. In the UCC information management system, records of all UCC records other than initial financing statements are linked to the record of their related initial financing statement.  (2) Type of record. The type of UCC record from which data is transferred is identified in the UCC information management system from information supplied by the remitter.  (3) Filing date and filing time. The filing date and filing time of UCC records are stored in the UCC information management system. Calculation of the lapse date of an initial financing statement is based upon the filing date.  (4) Identification of parties. The names and addresses of debtors and secured parties are transferred from UCC records to the UCC information management.  (5) Status of financing statement. In the UCC information management system, each financing statement has a status of active or inactive.  (6) Page count. The total number of pages in a UCC record is maintained in the UCC information management system.  (7) Lapse indicator. An indicator is maintained by which the UCC information management system identifies whether or not a financing statement will lapse and, if it does, when it will lapse. The lapse date is determined as provided in rules 160-040-0306(3); 160-040-0307; and 160-040-0308(1).  (8) Indexes of names. The filing office maintains in the UCC information management system a searchable index of organization debtor names, and a searchable index of individual debtor names. The filing office may also maintain a searchable index of names of secured parties of record. Such an index need not be a separate database but may by comprised of records in the UCC information management system indentified to be included in such searchable index. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 79.0526 
+ 
+ 
+ Statutes/Other Implemented:  ORS 79.0519 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ CORP 1-2013, f. 7-31-13, cert. ef. 8-1-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CORP 4-2008, f. 7-15-08, cert. ef. 8-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CORP 2-2001, f. 7-9-01, cert. ef. 8-1-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

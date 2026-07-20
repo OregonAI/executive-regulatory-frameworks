@@ -1,0 +1,373 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Self-Sufficiency Programs - Chapter 461 
+ 
+ 
+ 
+ 
+ Division 160 DETERMINING FINANCIAL ELIGIBILITY AND CALCULATING BENEFIT LEVEL 
+ 461-160-0100 
+ How Income Affects Eligibility and Benefits; REF, SFPSS, TANF
+ 
+ 
+ (1) In the REF and TANF programs, countable (see OAR 461-001-0000) income and adjusted income (see OAR 461-001-0000 and 461-160-0160) are compared to the standards in OAR 461-155-0030 to determine eligibility (see OAR 461-001-0000) and benefit amount. 
+
+ (2) This section applies to filing groups that do not include an ineligible noncitizen with income. For filing groups that include an ineligible noncitizen with income, see section (3) of this rule. 
+
+ (a) For individuals not eligible for the Exit Limit Increase (ELI) Standards in OAR 461-155-0030(3), compare the countable income of the financial group (see OAR 461-110-0530) to the applicable Countable Income Limit Standard for the need group (see OAR 461-110-0630) in OAR 461-155-0030(2). 
+
+ (A) If countable income equals or exceeds the applicable standard, the need group is not eligible. 
+
+ (B) If countable income is less than the applicable standard, compare the adjusted income of the financial group to the Adjusted Income Limit Standard for the need group in OAR 461-155-0030(4): 
+
+ (i) If the adjusted income equals or exceeds the applicable standard, the filing group is not eligible. 
+
+ (ii) If the adjusted income is less than the applicable standard, determine the benefit amount as provided in subsection (c) of this section. 
+
+ (b) For individuals eligible for the ELI in OAR 461-155-0030(3), compare the countable income of the financial group to the ELI for the need group in OAR 461-155-0030(3). 
+
+ (A) If countable income equals or exceeds the applicable ELI standard, the need group is not eligible. 
+
+ (B) If countable income is less than the applicable ELI standard, determine the benefit amount as provided in subsection (c) of this section. 
+
+ (c) Subtract adjusted income from the applicable Payment Standard for the benefit group (see OAR 461-110-0750) in OAR 461-155-0030(5). The remainder is the benefit amount except as provided in OAR 461-165-0060. 
+
+ (3) Income of an ineligible noncitizen in a financial group is prorated as provided in subsection (d) of this section. Income received by all other members of the financial group who meet the citizenship requirements in OAR 461-120-0110 is not prorated. The combined countable income is treated as provided in this section: 
+
+ (a) For individuals not eligible for the ELI in OAR 461-155-0030(3), compare the countable income of the financial group to the applicable Countable Income Limit Standard for the need group in OAR 461-155-0030(2). 
+
+ (A) If countable income equals or exceeds the applicable standard, the filing group is not eligible. 
+
+ (B) If countable income is less than the applicable standard, compare the adjusted income of the financial group to the applicable Adjusted Income Limit Standard for the need group in OAR 461-155-0030(4): 
+
+ (i) If adjusted income equals or exceeds the applicable standard, the filing group is not eligible. 
+
+ (ii) If adjusted income is less than the applicable standard, determine the benefit amount as provided in subsection (c) of this section. 
+
+ (b) For individuals eligible for the ELI in OAR 461-155-0030(3), compare the countable income of the financial group to the ELI for the need group in OAR 461-155-0030(3). 
+
+ (A) If countable income equals or exceeds the ELI, the need group is not eligible. 
+
+ (B) If countable income is less than the ELI, determine the benefit amount as provided in subsection (c) of this section. 
+
+ (c) Subtract the total of the prorated income (see subsection (d) of this section) of all ineligible noncitizens and adjusted income of all other members of the filing group from the applicable Payment Standard in OAR 461-155-0030(5) for the benefit group. The remainder is the benefit amount except as provided in OAR 461-165-0060. 
+
+ (d) Prorate adjusted income used in subsection (c) of this section that belongs to an ineligible noncitizen by dividing it by the number in the need group and multiplying it by the number in the benefit group. 
+
+ (4) In the REFM program: 
+
+ (a) ”Adjusted income” is defined as countable income minus the earned income deduction and all medical-related expenses incurred during the month of application. 
+
+ (b) Only the “adjusted income” in subsection (a) of this section is compared to the standards in OAR 461-155-0225 to determine eligibility (see OAR 461-001-0000). 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 411.060, 411.070, 411.404, 411.816, 412.006, 412.009, 412.014 & 412.049 
+ 
+ 
+ Statutes/Other Implemented:  ORS 411.060, 411.070, 411.404, 411.816, 412.006, 412.009, 412.014 & 412.049 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 55-2022, minor correction filed 11/07/2022, effective 11/07/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 10-2017, f. 3-24-17, cert. ef. 4-1-17 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 15-2016, f. & cert. ef. 4-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 38-2013, f. 12-31-13, cert. ef. 1-1-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 30-2013(Temp), f. & cert. ef. 10-1-13 thru 3-30-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 26-2008, f. 12-31-08, cert. ef. 1-1-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 6-2001, f. 3-30-01, cert. ef. 4-1-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 9-1997, f. & cert. ef. 7-1-97 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 13-1995, f. 6-29-95, cert. ef. 7-1-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 23-1994, f. 9-29-94, cert. ef. 10-1-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 16-1993, f. & cert. ef. 9-1-93 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 20-1992, f. 7-31-92, cert. ef. 8-1-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 13-1991, f. & cert. ef. 7-1-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 80-1989, f. 12-21-89, cert. ef. 2-1-90 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

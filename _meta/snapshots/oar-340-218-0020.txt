@@ -1,0 +1,372 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 218 OREGON TITLE V OPERATING PERMITS 
+ 340-218-0020 
+ Applicability
+ 
+ 
+ (1) Except as provided in section (4), this division applies to the following sources: 
+
+ (a) Any major source; 
+
+ (b) Any source, including an area source, subject to a standard, limitation, or other requirement under section 111 of the FCAA; 
+
+ (c) Any source, including an area source, subject to a standard or other requirement under section 112 of the FCAA, except that a source is not required to obtain a permit solely because it is subject to regulations or requirements under section 112(r) of the FCAA; 
+
+ (d) Any affected source under Title IV; and 
+
+ (e) Any source in a source category designated by the EQC under this rule. 
+
+ (2) The owner or operator of a source with an Oregon Title V Operating Permit whose potential to emit later falls below the emission level that causes it to be a major source, and which is not otherwise required to have an Oregon Title V Operating Permit, may submit a request for revocation of the Oregon Title V Operating Permit. Granting of the request for revocation does not relieve the source from compliance with all applicable requirements or ACDP requirements. 
+
+ (3) Synthetic minor sources. 
+
+ (a) A source which would otherwise be a major source subject to this division may choose to become a synthetic minor source by limiting its emissions below the emission level that causes it to be a major source through limits contained in an ACDP issued by DEQ under 340 division 216. 
+
+ (b) The reporting and monitoring requirements of the emission limiting conditions contained in the ACDPs of synthetic minor sources issued by DEQ under OAR 340-216 must meet the requirements of OAR 340-212-0010 through 340-212-0150 and division 214. 
+
+ (c) Synthetic minor sources who request to increase their potential to emit above the major source emission rate thresholds will become subject to this division and must submit a permit application under OAR 340-218-0040 and obtain an Oregon Title V Operating Permit before increasing emissions above the major source emission rate thresholds. 
+
+ (d) Synthetic minor sources that exceed the limitations on potential to emit are in violation of OAR 340-218-0020(1)(a). 
+
+ (4) Source category exemptions. 
+
+ (a) All sources listed in OAR 340-218-0020(1) that are not major sources, affected sources, or solid waste incineration units required to obtain a permit under section 129(e) of the FCAA are not required to obtain a Title V permit, unless the source is a non-major source subject to a standard under section 111 or section 112 of the FCAA that specifically requires the source to obtain a Title V permit. 
+
+ (b) The following source categories are exempted from the obligation to obtain an Oregon Title V Operating Permit: 
+
+ (A) All sources and source categories that would be required to obtain a permit solely because they are subject to 40 C.F.R. part 60, subpart AAA — Standards of Performance for New Residential Wood Heaters; and 
+
+ (B) All sources and source categories that would be required to obtain a permit solely because they are subject to 40 C.F.R. part 61, subpart M — National Emission Standard for Hazardous Air Pollutants for Asbestos, section 61.145, Standard for Demolition and Renovation. 
+
+ (c) Any source listed in OAR 340-218-0020(1) exempt from the requirement to obtain a permit under this rule may opt to apply for an Oregon Title V Operating Permit. 
+
+ (5) Sources subject to this division may also be subject to OAR 340-245-0005 through 340-245-8010. 
+
+ (6) Emissions units and Oregon Title V Operating Permit program sources. DEQ will include in the permit all applicable requirements for all relevant emissions units in the Oregon Title V Operating Permit source, including any equipment used to support the major industrial group at the site. 
+
+ (7) Fugitive emissions. Fugitive emissions from an Oregon Title V Operating Permit program source must be included in the permit application and the permit in the same manner as stack emissions, regardless of whether the source category in question is included in the list of sources contained in the definition of major source. 
+
+ (8) Insignificant activity emissions. All emissions from insignificant activities, including categorically insignificant activities and aggregate insignificant emissions, must be included in the determination of the applicability of any requirement. 
+
+ (9) Oregon Title V Operating Permit program sources that are required to obtain an ACDP, OAR chapter 340, division 216, or a Notice of Approval, OAR 340-210-0205 through 340-210-0250, because of a Title I modification, must operate in compliance with the Oregon Title V Operating Permit until the Oregon Title V Operating Permit is revised to incorporate the ACDP or the Notice of Approval for the Title I modification. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, 468A.025, 468A.040 & 468A.310 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468A 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 19-2022, amend filed 11/18/2022, effective 03/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 18-2021, amend filed 11/17/2021, effective 11/17/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 197-2018, amend filed 11/16/2018, effective 11/16/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 7-2015, f. & cert. ef. 4-16-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 8-2007, f. & cert. ef. 11-8-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-2110 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 10-1999, f. & cert. ef. 7-1-99 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 14-1998, f. & cert. ef. 9-14-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 1-1997, f. & cert. ef. 1-21-97 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 24-1995, f. & cert. ef. 10-11-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 22-1995, f. & cert. ef. 10-6-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 24-1994, f. & ef. 10-28-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 12-1993, f. & cert. ef. 9-24-93 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

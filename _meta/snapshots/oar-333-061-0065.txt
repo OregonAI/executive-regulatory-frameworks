@@ -1,0 +1,512 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 61 DRINKING WATER 
+ 333-061-0065 
+ Operation and Maintenance
+ 
+ 
+ (1) Public water systems shall be operated and maintained in a manner that assures continuous production and delivery of potable water by: 
+
+ (a) Operating all phases and components of the system effectively in the manner for which they were designed; 
+
+ (b) Assuring that all leaks are promptly repaired and, broken or malfunctioning equipment is promptly repaired or replaced; 
+
+ (c) Making readily available and in good condition the proper equipment, tools and parts to make repairs to the system. When possible, notice shall be given to the water users of impending repairs that will affect the quality of the water or the continuity of the water service. All repairs must meet the construction standards of these rules and comply with disinfection requirements of OAR 333-061-0050 prior to reestablishing use of the repaired portion of the system; 
+
+ (d) Implementing actions to assure safe drinking water during emergencies. Water suppliers seeking a state certified wellhead protection program for their water system shall comply with the contingency planning requirements as prescribed in OAR 333-061-0057(5). 
+
+ (2) Personnel: 
+
+ (a) Personnel responsible for maintenance and operation of public water systems shall be competent, knowledgeable of all the functions of that particular facility and shall have the training and experience necessary to assure continuous delivery of water which does not exceed the maximum contaminant levels (MCLs); 
+
+ (b) Certification as prescribed by OAR 333-061-0210 through 333-061-0272 is required for personnel in direct responsible charge of operations for all community and non-transient non-community (NTNC) water systems. 
+
+ (c) Personnel responsible for operating water treatment plants at transient non-community (TNC) water systems using water sources classified as surface water or groundwater under the direct influence of surface water (GWUDI) must attend the Oregon Health Authority’s (Authority's) "Essentials of Surface Water Treatment" training course or an equivalent training. 
+
+ (3) Ownership and representation requirements. 
+
+ (a) The identity of ownership of a water system shall be filed with the Authority. Notification of changes in ownership shall be filed immediately with the Authority upon completion of the transaction. 
+
+ (b) Every water supplier must identify a person to serve as the point of contact for the public water system, and provide information including but not limited to the following: the individual’s name, the water supplier’s legal name, a valid mailing address, a current telephone number and current electronic mail address (if one exists). Water system representatives must maintain the telephone number so that they can be contacted during regular business hours. 
+
+ (4) All public water systems must maintain a current water system operations manual. 
+
+ (a) The water system operations manual shall be completed according to the requirements of the capacity assessment or sanitary survey and shall be reviewed and updated at least every five years. If a public water system applying for funds from the Safe Drinking Water Revolving Loan Fund Program is required to develop a water system operations manual as a part of a capacity assessment, then the water system operations manual is required to be completed before final payout of the loan. 
+
+ (b) As evidence of completion, public water systems shall submit a statement to the Authority certifying that the water system operations manual has been completed according to the requirements in this rule, and that staff have been instructed in the use of the water system operations manual. 
+
+ (c) The water system operations manual shall include, but is not limited to, the following elements if they are applicable: 
+
+ (A) Source operation and maintenance; 
+
+ (B) Water treatment operation and maintenance; 
+
+ (C) Reservoir operation and maintenance; 
+
+ (D) Distribution system operation and maintenance; and 
+
+ (E) Written protocols for on-site operators describing the operational decisions the operator is allowed to make under OAR 333-061-0225. 
+
+ (d) Water system staff shall be instructed and trained in the use of the water system operations manual. 
+
+ (5) Documents and records. The following documents and records shall be retained by the water supplier at community water systems and shall be available when the system is inspected or upon request by the Authority: 
+
+ (a) Complete and current as-built plans and specifications of the entire system and such other documents as are necessary for the maintenance and operation of the system; 
+
+ (b) Current operating manuals covering the general operation of each phase of the water system; 
+
+ (c) A current master plan and revisions thereof; 
+
+ (d) Data showing production capabilities of each water source and system component; 
+
+ (e) Current records of the number, type and location of service connections; 
+
+ (f) Current records of raw water quality, both chemical and microbiological; 
+
+ (g) Current records of all chemicals and dosage rates used in the treatment of water; 
+
+ (h) Reports on maintenance work performed on water treatment and delivery facilities; 
+
+ (i) Records relating to the sampling and analysis undertaken to assure compliance with the maximum contaminant levels; 
+
+ (j) Record of residual disinfectant measurements, where applicable; 
+
+ (k) Records of cross connection control and backflow prevention device testing, where applicable; 
+
+ (l) Records of customer complaints pertaining to water quality and follow-up action undertaken; 
+
+ (m) Fluoridation records, where applicable; 
+
+ (n) Other records as may be required by these rules. 
+
+ (6) Water Treatment Operations: 
+
+ (a) Chlorinators and other equipment used to apply chemicals at a public water system shall be operated and maintained in accordance with the manufacturers' specifications and recommendations for efficient operation and safety. 
+
+ (b) When chlorine is used as the disinfectant, the procedures shall be as follows: 
+
+ (A) Chlorine shall be applied in proportion to the flow; 
+
+ (B) For reasons other than the treatment of surface water sources or groundwater sources under the direct influence of surface water, the rate of application shall be sufficient to result in a free chlorine residual of at least 0.2 mg/l after a 30-minute contact time and throughout the distribution system; 
+
+ (c) When ammonia is added to the water with the chlorine to form a chloramine as the disinfectant, for reasons other than the treatment of surface water sources or groundwater sources under the direct influences of surface water, the rate of application shall result in a combined chlorine residual of at least 2.0 mg/l after a three-hour contact time; 
+
+ (d) When corrosion control chemicals are applied to achieve compliance with the action levels for lead and copper, the point of application shall be after all other treatment processes, unless determined otherwise by the Authority. 
+
+ (e) At water systems where cartridge filters are used, the filters must be changed according to the manufacturer's recommended pressure differential. 
+
+ (7) When an emergency arises within a water system which affects the quality of water produced by the system, the water supplier shall notify the Authority immediately. 
+
+ (8) Water suppliers must complete an Authority approved start-up procedure prior to serving water to the public at all seasonal water systems as defined in OAR 333-061-0020(118). The start-up procedure may include a requirement to conduct additional monitoring at the discretion of the Authority. A water supplier may be exempted from some or all of the requirements related to start-up of a seasonal water system if the entire distribution system remains pressurized during the entire period that the water system is not operating. Failing to complete an Authority-approved start-up procedure at a seasonal water system prior to serving water to the public is a violation of treatment technique requirements and of this rule. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 448.131 
+ 
+ 
+ Statutes/Other Implemented:  ORS 448.273, 448.131, 448.150 & 448.450 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 118-2024, amend filed 12/13/2024, effective 01/01/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 4-2020, minor correction filed 01/06/2020, effective 01/06/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 2-2018, amend filed 01/10/2018, effective 01/10/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 5-2016, f. 2-10-16, cert. ef. 4-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 14-2014, f. & cert. ef. 5-8-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 3-2013, f. & cert. ef. 1-25-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 7-2010, f. & cert. ef. 4-19-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 4-2009, f. & cert. ef. 5-18-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 20-2004, f. & cert. ef. 6-18-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 16-2004(Temp), f. & cert. ef. 4-9-04 thru 10-5-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHD 17-2002, f. & cert. ef. 10-25-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 1-1996, f. 1-2-96, cert. ef. 1-5-96 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 7-1992, f. & cert. ef. 6-9-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 26-1990, f. 12-26-90, cert. ef. 12-29-90 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 9-1989, f. & cert. ef. 11-13-89 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 1-1988, f. & cert. ef. 1-6-88 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 20-1983, f. 10-20-83, ef. 11-1-83 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 333-042-0225, HD 2-1983, f. & ef. 2-23-83 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 4-1982, f. & ef. 2-26-82 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ Reverted to HD 106, f. & ef. 2-6-76 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 17-1981(Temp), f. & ef. 8-28-81 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 106, f. & ef. 2-6-76 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

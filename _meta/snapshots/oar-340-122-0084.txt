@@ -1,0 +1,364 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 122 HAZARDOUS SUBSTANCE REMEDIAL ACTION RULES 
+ 340-122-0084 
+ Risk Assessment
+ 
+ 
+ This rule establishes a risk protocol for performance of human health and ecological risk assessments, including: General requirements for risk assessments and specific requirements for baseline human health risk assessments, baseline ecological risk assessments, residual risk assessments, and probabilistic risk assessments. 
+
+ (1) General requirements for risk assessments include: 
+
+ (a) Risks assessments shall consider existing and reasonably likely future human exposures and significant adverse effects to ecological receptors in the locality of the facility. 
+
+ (b) Risk assessments may be conducted using either deterministic or probabilistic risk assessment methodologies at the discretion of the party conducting the risk assessment, provided the risk assessment requirements of this rule are met. 
+
+ (c) Sources of toxicity information to be used in a risk assessment may include the following information to the extent it is available and acceptable to the Department at the time a human health or ecological risk assessment is prepared: 
+
+ (A) For human health risk assessments: 
+
+ (i) U.S. EPA IRIS Data Base; 
+
+ (ii) U.S. EPA HEAST Data Base; 
+
+ (iii) HEAST alternative method; 
+
+ (iv) U.S. EPA-NCEA Superfund Health Risk Technical Support Center; 
+
+ (v) Other U.S. EPA documents or databases; 
+
+ (vi) ATSDR Toxicological Profiles; or 
+
+ (vii) Other refereed technical publications. 
+
+ (B) For ecological risk assessments: 
+
+ (i) U.S. EPA AQUIRE Data Base; 
+
+ (ii) U.S. EPA IRIS Data Base; 
+
+ (iii) U.S. EPA HEAST Data Base; 
+
+ (iv) U.S. EPA ASTER Data Base; 
+
+ (v) U.S. EPA PHYTOTOX Data Base; 
+
+ (vi) U.S. EPA Terrestrial Toxicity Data Base (TERRATOX); 
+
+ (vii) U.S. Fish and Wildlife Service Technical Reports; 
+
+ (viii) Oak Ridge National Laboratory Toxicological Benchmark Technical Reports; 
+
+ (ix) Other U.S. EPA documents or databases; 
+
+ (x) ATSDR Toxicological Profiles; or 
+
+ (xi) Other refereed technical publications. 
+
+ (C) In the absence of toxicity information that is available and acceptable to the Department under paragraph (A) or (B), the Department may require the development of acceptable site-specific toxicity information. 
+
+ (d) Risk assessments may include use of transport and fate models, subject to Department approval of the model and the data to be used for the parameters specified in the model. The Department shall ensure than any transport and fate model approved for use is capable of simulating all site conditions and contaminant properties that might have a significant impact on site-specific contaminant transport or fate. 
+
+ (e) The Department shall require appropriate sampling approaches and data quality requirements to support the risk assessment and remedy selection processes. 
+
+ (f) A plausible upper-bound or high-end exposure for both human health and ecological risk assessments is the 90th percentile upper confidence limit on the arithmetic mean of concentrations of hazardous substances that would be contacted by an exposed receptor and reasonable maximum estimates of the exposure factors used in the risk calculations, unless a greater or lesser best estimate is acceptable to the Department. 
+
+ (g) The central tendency exposure for both human health and ecological risk assessments is the arithmetic mean of concentrations that would be contacted by an exposed receptor and mean estimates of the exposure factors used in the risk calculations. Risk assessments utilizing only deterministic methods shall provide both central tendency and upper-bound estimates of exposure and risk. 
+
+ (h) The use of population risk estimates in addition to individual risk estimates is provided for as follows: 
+
+ (A) For human health risk assessments, risk estimates shall be made only at the level of the individual; 
+
+ (B) For ecological risk assessments, risk estimates shall be made: 
+
+ (i) At the level of the individual for species present in the locality of the facility if the species is listed as threatened or endangered species pursuant to 16 U.S.C. 1531 et seq. or ORS 496.172; or 
+
+ (ii) At the level of the population for all other plants or animals in the locality of the facility. 
+
+ (i) Cumulative risk from multiple hazardous substances will be assessed by assuming additivity of the risk posed separately by individual non-carcinogenic and carcinogenic hazardous substances in the locality of the facility, unless the Department determines that an assumption of synergism, antagonism, or other toxic response is appropriate or it is demonstrated to the satisfaction of the Department that an assumption other than additivity is appropriate. 
+
+ (j) Appropriate sources of exposure factor information may include, but are not limited to, the following information, to the extent it is available and acceptable to the Department at the time human health and ecological risk assessments are prepared: 
+
+ (A) U.S. EPA Risk Assessment Guidance for Superfund. Volume 1. Human Health Evaluation Manual, Part A, 1989; 
+
+ (B) U.S. EPA Risk Assessment Guidance for Superfund Volume 2. Environmental Evaluation Manual, 1989; 
+
+ (C) U.S. EPA Risk Assessment Guidance for Superfund. Volume 1. Human Health Evaluation Manual, Supplemental Guidance — Standard Default Exposure Factors, 1991; 
+
+ (D) U.S. EPA Wildlife Exposure Factors Handbook. Volumes 1 and 2, 1993; and 
+
+ (E) U.S. EPA Exposure Factors Handbook, 1990. 
+
+ (2) Baseline human health risk assessments shall include, but are not limited to, the following information: 
+
+ (a) A conceptual site model describing contaminant sources, release mechanisms, transport routes and media, potential human receptor populations, and relevant exposure scenarios based on current and reasonably likely future land and water uses; 
+
+ (b) Data quality objectives for the human health risk assessment based on the conceptual site model; 
+
+ (c) Exposure analysis including identification and selection of contaminants of concern, a detailed description of potentially exposed populations and exposure routes, and a quantitative estimate of exposure for both current and reasonably likely future land and water use scenarios; 
+
+ (d) Toxicity analysis including a summary of current information regarding the carcinogenic effects, noncarcinogenic effects, bioconcentration potential, bioaccumulation potential, biomagnification potential, and persistence of the identified contaminants of concern as well as current slope factors and reference doses; 
+
+ (e) Risk characterization presenting the quantitative human health risks potentially associated with the facility, a discussion of any available facility-specific human health studies, an explicit discussion of risks associated with the bioconcentration potential, bioaccumulation potential, biomagnification potential, and persistence of each contaminant, and consideration of any other available, published, and peer-reviewed scientific information on other sources of stress as appropriate; and 
+
+ (f) Quantitative and qualitative uncertainty analysis as appropriate for each element of the risk assessment. 
+
+ (3) Baseline ecological risk assessments shall include, but are not limited to, the following information: 
+
+ (a) Problem formulation to include identification of contaminants of ecological interest, potential ecological effects, ecological receptors, relevant exposure pathways, initial definition of assessment and measurement endpoints, all with respect to current and reasonably likely future land and water uses, and described in a conceptual site model; 
+
+ (b) Data quality objectives for the ecological risk assessment based on the conceptual site model, with emphasis on analytical detection limits appropriate for ecological receptors; 
+
+ (c) Exposure analysis to include identification and selection of potential contaminants of ecological concern, identification and selection of target ecological receptors, an exposure pathway model relating target receptors, exposure routes and measurement endpoints, and a quantitative estimate of exposure for both current and reasonably likely future land and water use scenarios; 
+
+ (d) Ecological response analysis including a summary of current information regarding the toxicological effects, ecological effects, bioconcentration potential, bioaccumulation potential, biomagnification potential, and persistence of the identified contaminants of ecological concern, as well as ecological benchmark values; 
+
+ (e) Risk characterization presenting the quantitative ecological risks potentially associated with the facility, identification of contaminants of ecological concern, a discussion of any available facility-specific ecological studies, an explicit discussion of risks associated with the bioconcentration potential, bioaccumulation potential, biomagnification potential, and persistence of each contaminant, and consideration of any other available, published and peer-reviewed scientific information on other sources of stress as appropriate; 
+
+ (f) As appropriate, the potential for significant adverse effects on the health or viability of individual ecological receptors or local populations may be evaluated with a weight-of-evidence analysis or population viability analysis, respectively. These analyses may utilize field studies, laboratory investigations, appropriate population models, or any combination of these or other methods acceptable to the Department; and 
+
+ (g) Quantitative and qualitative uncertainty analysis as appropriate for each element of the risk assessment. 
+
+ (4) Residual risk assessments shall be conducted prior to selection or approval of the remedial action, and shall include: 
+
+ (a) A quantitative assessment of the risk resulting from concentrations of untreated waste or treatment residuals remaining at the facility at the conclusion of any treatment or excavation and offsite disposal activities taking into consideration current and reasonably likely future land and water use scenarios and the exposure assumptions used in the baseline risk assessment; and 
+
+ (b) A qualitative or quantitative assessment of the adequacy and reliability of any institutional or engineering controls to be used for management of treatment residuals and untreated hazardous substances remaining at the facility. 
+
+ (c) The combination of (a) and (b) constitute a residual risk assessment that must demonstrate to the Department that acceptable levels of risk as defined by OAR 340-122-0115 would be attained in the locality of the facility. 
+
+ (5) Probabilistic techniques may be applied to human health and ecological risk assessments. The purpose of this rule is to establish a minimum level of technical performance for probabilistic risk assessments submitted to the Department. 
+
+ (a) Before the commencement of a probabilistic risk assessment, the following issues shall be addressed: 
+
+ (A) Current and reasonably likely future land and water uses in the locality of the facility; 
+
+ (B) A site-specific preliminary conceptual site model that relates potential receptors, hazardous substances, and exposure pathways; 
+
+ (C) Preliminary assessment endpoints for any ecological risk assessment; and 
+
+ (D) Sources and characteristics of the distributions proposed for use in the assessment. 
+
+ (b) Based on consideration of the items specified in subsection (5)(a) of this rule, a probabilistic risk assessment may be performed in accordance with a work plan approved by the Department. 
+
+ (c) The Department is not obligated to accept the results of a probabilistic risk assessment, unless the information requirements set forth in subsection (5)(d) of this rule or otherwise specified by the Department have been addressed in a manner acceptable to the Department. 
+
+ (d) The probabilistic risk assessment shall include, but not be limited to, information regarding: 
+
+ (A) All formulae used to estimate exposure point values, toxicity (cancer slope factor, reference dose) values, ecological benchmark values, hazard indices, and incremental lifetime cancer risks; 
+
+ (B) The probabilistic risk assessment’s use of input parameters expressed as either point estimates or distributions. For each input parameter expressed as a distribution, the following information shall be provided: 
+
+ (i) The shape of the full distribution; 
+
+ (ii) To the extent practicable, the mean, standard deviation, minimum, 5th percentile, 10th percentile, median, 90th percentile, 95th percentile, and maximum of the specified distribution; 
+
+ (iii) Justification for the use of each distribution explaining the rationale for its use and the rejection of other relevant distributions. Justification shall be based on one or more of the following: 
+
+ (I) Distributions presented in a refereed or peer-reviewed publication; 
+
+ (II) Distributions available from the U.S. Environmental Protection Agency or other state or federal government agency, the American Society for Testing and Materials (ASTM), or any distributions designated by the Department as default distributions; 
+
+ (III) Expert or professional judgment; or 
+
+ (IV) Parametric distributions of input variables fit quantitatively to measured data. For such distributions, the following information shall be provided: parametric fits and the data on the same axes; appropriate goodness-of-fit statistics; implications of any important differences between the parametric fits and the data; and influence of the statistical process or underlying mechanism creating the random variable on the selection of the distribution used. 
+
+ (iv) The extent to which input distributions and their parameters capture and separately represent both stochastic variability and knowledge uncertainty. This information shall comprise a portion of, but not be a replacement for, a comprehensive discussion in the body of the baseline risk assessment of the qualitative and quantitative sources of uncertainty. 
+
+ (C) Any correlations between or among input variables that are known or expected to have the practical effect of significantly affecting the risk assessment; 
+
+ (D) For each output distribution resulting from the probabilistic risk assessment, the following information: 
+
+ (i) The shape of the full distribution and location of the acceptable risk level; and 
+
+ (ii) To the extent practicable, the mean, standard deviation, minimum, 5th percentile, 10th percentile, median, 90th percentile, 95th percentile, and maximum of the specified distribution. 
+
+ (E) A probabilistic sensitivity analysis for all key input distributions conducted so as to distinguish, to the extent possible, the effects of variability from the effects of uncertainty in the input variables; and 
+
+ (F) Justification for the selection of any point estimate value incorporated into the probabilistic assessment explaining the rationale for its selection and for the rejection of other relevant point estimate values. Such justification for use shall be based on one or more of the sources specified in subparagraph (5)(d)(B)(iii) of this rule. 
+
+ (e) Probabilistic methods may be applied to: 
+
+ (A) Environmental media contaminant concentration data; 
+
+ (B) Transport and fate modeling; 
+
+ (C) Exposure estimation; 
+
+ (D) Human toxicity estimation; 
+
+ (E) Ecological response estimation; or 
+
+ (F) Risk characterization. 
+
+ [NOTE: Referenced documents are available from the agency.] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 465.315 & 465.400 
+ 
+ 
+ Statutes/Other Implemented:  ORS 465.200-455, 465.900, 466.706-835 & 466.895 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 13-2019, amend filed 05/16/2019, effective 05/16/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 2-1997, f. & cert. ef. 2-7-97 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,277 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Policy and Analytics - Chapter 409 
+ 
+ 
+ 
+ 
+ Division 25 ALL PAYER ALL CLAIMS DATA REPORTING PROGRAM 
+ 409-025-0150 
+ Compliance and Enforcement
+ 
+ 
+ (1) Unless approved by a waiver or extension, failure to comply with general reporting requirements includes but is not limited to: 
+(a) Failure to submit data files for a required line of business; or 
+(b) Submitting health information for an excluded line of business. 
+(2) Unless approved by a waiver or exemption, failure to comply with data file requirements includes but is not limited to: 
+(a) Submitting a data file in an unapproved layout; 
+(b) Submitting a data element in an unapproved format; 
+(c) Submitting a data element with unapproved coding; 
+(d) Failure to submit a required data element; or 
+(e) Failure to comply with validation and quality control efforts, including resubmitting or correcting data as requested by the Authority. 
+(3) Unless approved by a waiver or extension, failure to comply with data submission requirements includes but is not limited to: 
+(a) Failure to maintain an active user in the data vendor reporting portal; 
+(b) Failure to submit test files as specified by the data vendor; 
+(c) Submitting data files later than five days after the submission due date as detailed in Data Submission Schedule; 
+(d) Rejection of a data file by the data vendor that is not resubmitted or corrected by the submitter within 14 calendar days from notification of error; or 
+(e) Transmitting data files using an unapproved process. 
+(4) The Authority shall provide mandatory reporters written notification of each failure to comply prior to imposing a civil penalty under this rule. Mandatory reporters will have 30 calendar days to come into compliance. 
+(5) The Authority may impose civil penalties against mandatory reporters for each failure to comply that is not resolved within 30 calendar days of written notification. If a mandatory reporter does not come into compliance within 30 days of written notification, penalties will be assessed starting from the date the mandatory reporter was notified of non-compliance. Pursuant to ORS 442.993, the Authority adopts the following schedule of civil penalties: 
+(a) Up to $400.00 per day for violations of OAR 409-025-0150(1); 
+(b) Up to $300.00 per day for violations of OAR 409-025-0150(2) or OAR 409-025-0140(2)(a); and 
+(c) Up to $200.00 per day for violations of OAR 409-025-0150(3). 
+(6) If a mandatory reporter was issued a final order imposing civil penalties within 24 months from the date the Authority issues a notice of intent to impose a civil penalty, the Authority may impose an additional $100.00 per day for each of the category of violations listed in section (5) of this rule. 
+(7) If a mandatory reporter has made documented efforts to comply with these rules, the Authority may consider this a mitigating factor before imposing civil penalties against the mandatory reporter. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 442.466 & 442.993 
+ 
+ 
+ Statutes/Other Implemented:  ORS 442.464, 442.993 & 442.466 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 8-2022, amend filed 12/01/2022, effective 12/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 2-2019, amend filed 05/30/2019, effective 01/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 7-2018, amend filed 06/29/2018, effective 01/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 2-2017, f. 6-23-17, cert. ef. 1-1-18 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 13-2016, f. & cert. ef. 9-13-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 10-2016, f. 6-22-16, cert. ef. 1-1-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 1-2016, f. & cert. ef. 1-5-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 1-2010, f. 2-26-10, cert. ef. 3-1-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

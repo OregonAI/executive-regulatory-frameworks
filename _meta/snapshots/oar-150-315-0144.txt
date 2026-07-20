@@ -1,0 +1,220 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 315 PERSONAL INCOME TAX CREDITS 
+ 150-315-0144 
+ Pollution Control Facilities: Computation of Credit
+ 
+ 
+ (1) Definitions. For purposes of ORS 315.304 and this rule: 
+
+ (a) “Certified cost” means that portion of total costs that the Environment Quality Commission (EQC) determines is allocable to a pollution control facility. 
+
+ (b) “Facility” refers to one or more facilities certified under one certificate, with one serial number and with the same allowable percentages used in determining the certified costs and the maximum allowable credit. 
+
+ (c) “Applicable percentage” means the percentage indicated on the certification issued by the EQC for that facility. 
+
+ (d) “Useful life” is the remaining years of expected useful life at the time the facility is certified, but not more than 10 years. 
+
+ (e) “Tax liability” is the amount of tax that is due after any offsets or other tax credits are taken, such as those permitted under ORS 316.082, 316.087, 316.102, 315.104, 315.354, and 315.324. 
+
+ (2) The credit is equal to the lesser of: 
+
+ (a) The applicable percentage multiplied by the certified cost and divided by the useful life of the property; or 
+
+ (b) The taxpayer’s tax liability after other credits. 
+
+ (3) If additional costs are incurred after a pollution control certificate is issued and a revised certificate including those additional costs is issued, the credit for the additional costs may not be claimed prior to the year in which the revised certificate is issued. The credit for those additional costs must be spread equally over the remaining years on the original certificate. 
+
+ (4) A pollution control facility’s useful life is determined as of the date it is certified and may not be changed unless additional certified costs have been incurred. If a facility becomes obsolete and is abandoned before the end of its expected useful life, no remaining unused credit is allowable. If the life of a pollution control facility is extended by repair, which is not eligible for additional tax credit, the taxpayer continues to claim the original credit over the original useful life. If an error in the actual amount spent prior to certification by the EQC is later discovered and the EQC issues a revised certificate, the taxpayer must amortize the correct certified cost over the original useful life, and amend returns for those years for which credits have been claimed that are still open. Any cost incurred and certified after the original certification may be amortized over the new remaining useful life to the extent that the total life of the facility over which credits are claimed does not exceed ten years. The additional credit may be claimed beginning in the year in which certification for the additional cost was obtained. 
+
+ (5) If a pollution control facility’s certification is revoked by the EQC pursuant to ORS 468.185(1)(b), the allowable credit for the tax year must be prorated. The amount for the portion of the tax year before the certification is revoked is allowed. If no appeal is made, the certificate is considered revoked on the date the revocation is issued. 
+
+ Example 1: A calendar year taxpayer has a pollution control facility certified January 1, 1996. The credit otherwise allowable for 2000 is $500. On June 30, 2000, the facility’s certification was revoked by the EQC. The credit allowable for 2000 is computed as follows: [See PDF link below.] 
+
+ (6) When a certification is reinstated by the EQC under ORS 468.185(5) because the facility has been brought into compliance with the EQC’s guidelines, the certificate is reinstated for the remaining period of certification, less the period of revocation. The period of revocation is from the date the revocation is issued to the date of reinstatement. The credit for the period of revocation is lost. 
+
+ Example 2: Assume the same facts as in Example 1, except that the facility’s certification was reinstated September 30, 2000. The credit allowable for 2000 is computed as follows: [See PDF link below.] 
+
+ (7) If a pollution control facility’s certificate is revoked by the EQC pursuant to ORS 468.185(1)(a), because the certification was obtained by fraud or misrepresentation, all tax relief allowed in prior years is forfeited. The credit forfeited will be added to any other excise or income tax due from the taxpayer who had claimed the credit, for the tax year in which the certification is revoked. 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 
+ 
+ 
+ Statutes/Other Implemented:  ORS 315.304 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 39-2017, f. & cert. ef. 8-1-17 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ Renumbered from 150-315.304(2), REV 44-2016, f. 8-12-16, cert. ef. 9-1-16 
+REV 11-2004, f. 12-29-04, cert. ef. 12-31-04 
+REV 8-2001, f. & cert. ef. 12-31-01 
+RD 3-1995, f. 12-29-95, cert. ef. 12-31-95 
+RD 5-1994, f. 12-15-94, cert. ef. 12-31-94 
+12-31-93 
+12-31-89, Renumbered from 150-316.097(2) 
+12-31-88 
+12-31-87 
+12-31-84 
+12-31-83 
+12-31-81 
+12-31-77 
+1-77
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

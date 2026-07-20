@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 123 THERAPEUTIC RADIATION MACHINES 
+ 333-123-0035 
+ Calibration, Acceptance Testing and Commissioning of Therapeutic Radiation Machines 
+ 
+ (1) Full calibration, acceptance testing and commissioning of a therapeutic radiation machine subject to 333-123-0025 of this rule must be performed by, or under the direct supervision of a Qualified Medical Physicist.  (2) Acceptance testing and commissioning shall be performed in accordance with industry standards of practice and the manufacturer’s contractual specifications. Acceptance testing and commissioning shall be conducted before the first medical use following installation or re-installation of the therapeutic radiation machine.  (3) Full calibration must include all applicable parameters in accordance with industry standards of practice, carried out to determine that all parameters of the radiation therapy machine are within acceptable limits:  (a) Before the first medical use after installation or reinstallation; and  (b) Whenever quality assurance check measurements indicate that the radiation output differs by more than 5 percent from the value obtained at the last full calibration and the difference cannot be reconciled. Therapeutic radiation machines with multi-energy and/or multi-mode capabilities must only require measurements for those modes and/or energies that are not within their acceptable range; and  (c) Following any component replacement, major repair, or modification of components that could significantly affect the characteristics of the radiation beam. If the repair, replacement or modification does not affect all modes and/or energies, measurements must be performed on the effected mode/energy that is in most frequent clinical use at the facility. The remaining energies/modes may be validated with periodic quality assurance check procedures against the criteria in 333-123-0040; and  (d) At intervals not exceeding 1 year, although it shall not be necessary to complete all elements of a full calibration at the same time, all applicable parameters (for all energies) shall be completed at intervals not exceeding 12 calendar months.  (4) The registrant must maintain a record of each full calibration for the duration of the registration. The record must include:  (a) The date of the calibration;  (b) The manufacturer's name, model number, and serial number for both the therapeutic radiation machine and the x-ray tube;  (c) The model numbers and serial numbers of the instruments used to calibrate the therapeutic radiation machine; and  (d) The signature of the Qualified Medical Physicist responsible for performing the calibration.  (5) The calibration record must be maintained in an auditable form for the duration of the registration. The record must include:  (a) The date of the calibration;  (b) The manufacturer's name, model number and serial number for the therapeutic radiation machine;  (c) The model numbers and serial numbers of the instruments used to calibrate the therapeutic radiation machine; and  (d) The signature of the Qualified Medical Physicist responsible for performing the calibration. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 453.605 – 453.807 
+ 
+ 
+ Statutes/Other Implemented:  ORS 453.605 – 453.807 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 23-2006, f. & cert. ef. 10-19-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

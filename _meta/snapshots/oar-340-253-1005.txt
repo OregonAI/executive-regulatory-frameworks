@@ -1,0 +1,343 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 253 OREGON CLEAN FUELS PROGRAM 
+ 340-253-1005 
+ Transacting Credits
+ 
+ 
+ (1) General. 
+
+ (a) Registered parties may: 
+
+ (A) Retain credits without expiration within the CFP in compliance with this division; and 
+
+ (B) Acquire or transfer credits from or to other registered parties. 
+
+ (b) Registered parties may not: 
+
+ (A) Retire or transfer credits that have not been generated in compliance with this division; or 
+
+ (B) Retire or transfer anticipated credits from future projected or planned carbon intensity reductions, other than advance credits awarded under OAR 340-253-1100. 
+
+ (2) Credit transfers between registered parties. 
+
+ (a) A credit seller and a credit buyer may enter into an agreement to transfer credits; and 
+
+ (b) A credit seller may only transfer credits up to the number of credits in the credit seller’s OFRS account on the date of the transfer. 
+
+ (c) All registered parties must maintain an active registration and have reported fuel transactions in at least one quarter prior to initiating or receiving any credit transfers. 
+
+ (3) Credit seller requirements. When registered parties wish to transfer credits, the credit seller must initiate an online “Credit Transfer Form” provided in the OFRS and must include the following: 
+
+ (a) The date on which the credit buyer and credit seller reached their agreement; 
+
+ (b) The names and FEINs of the credit seller and credit buyer; 
+
+ (c) The first and last names and contact information of the persons who performed the transaction on behalf of the credit seller and credit buyer; 
+
+ (d) The number of credits proposed to be transferred; and 
+
+ (e) The price or equivalent value of the consideration (in U.S. dollars) to be paid per credit proposed for transfer, excluding any fees. If no clear dollar value can be easily arrived at for the transfer, a price of zero must be entered and the seller must include: 
+
+ (A) A copy of the contract that includes the terms of the trade; or 
+
+ (B) A qualitative description of the transaction’s valuation. If the seller provides a qualitative description, the seller must also provide additional specific information as required by DEQ on the credit transfer form and any additional information that describes the contract upon written request by DEQ. 
+
+ (4) Credit buyer requirements. Within 10 calendar days of receiving the “Credit Transfer Form” from the credit seller in the OFRS, the credit buyer must confirm the accuracy of the information therein and may accept the credit transfer by signing and dating the form using the OFRS. 
+
+ (5) If the credit buyer and credit seller have not fulfilled the requirements of sections (3) and (4) within 10 calendar days of the seller initiating the credit transfer in the OFRS, the transaction will be voided. If a transaction has been voided, the credit buyer and credit seller may initiate a new credit transfer in the OFRS. 
+
+ (6) Aggregator requirements. An aggregator may only act as a credit seller or credit buyer if that aggregator: 
+
+ (a) Has an approved and active registration under OAR 340-253-0500; 
+
+ (b) Has an account in the OFRS; and 
+
+ (c) Has an approved Aggregator Designation Form from a regulated party or credit generator for whom the aggregator is acting in any given transaction. 
+
+ (7) Illegitimate credits. 
+
+ (a) A registered party must report accurately when it submits information into the OFRS. If inaccurate information is submitted that results in the generation of one or more credits when such an assertion is inconsistent with the requirements of this division, or a party’s submission otherwise causes credits to be generated in violation of the rules of this division, those credits are illegitimate and invalid. If DEQ determines that one or more credits that a party has generated are illegitimate credits, then: 
+
+ (A) If the registered party that generated the illegitimate credits still holds them in its account, DEQ will cancel those credits; 
+
+ (B) If the registered party that generated the illegitimate credits has retired those credits to meet its own compliance requirement or if it has transferred them to another party, the party that generated the illegitimate credits must retire a legitimate credit to replace each illegitimate credit; and 
+
+ (C) The party that generated the illegitimate credits is also subject to enforcement for the violation, as deemed appropriate in DEQ’s discretion. 
+
+ (b) A registered party that has acquired one or more illegitimate credits, but was not the party that generated the illegitimate credits: 
+
+ (A) When the initial generator of the illegitimate credits has not retired legitimate credits in place of the illegitimate credits and DEQ determines that that initial generator is unlikely to do so, then the party that has acquired such credits may have those credits canceled by DEQ if the party still holds the credits in its account, or if the party has used such illegitimate credits to meet its own compliance requirement, then DEQ may require the party to retire a legitimate credit to replace each such illegitimate credit that it retired to meet its compliance obligation; and 
+
+ (B) May be subject to enforcement at DEQ’s discretion, unless DEQ determines that the party from whom the credits were acquired engaged in false, fraudulent, or deceptive trading practices. 
+
+ (8) Prohibited credit transfers. A credit transfer involving, related to, in service of, or associated with any of the following is prohibited: 
+
+ (a) Fraud, or an attempt to defraud or deceive using any device, scheme or artifice; 
+
+ (b) Either party employed any unconscionable tactic in connection with the transfer; 
+
+ (c) Any false report, record, or untrue statement of material fact or omission of a material fact related to the transfer or conditions that would relate to the price of the credits being transferred. A fact is material if it is reasonably likely to influence a decision by another party or by the agency; 
+
+ (d) Where the intended effect of the activity is to lessen competition or tend to create a monopoly, or to injure, destroy or prevent competition; 
+
+ (e) A conspiracy in restraint of trade or commerce; or 
+
+ (f) An attempt to monopolize or combine or conspire with any other person or persons to monopolize. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, 468A.266, 468A.268 & 468A.277 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468.020 & ORS 468A.265 - 468A.277 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 2-2025, amend filed 01/09/2025, effective 01/09/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 17-2022, amend filed 09/23/2022, effective 01/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 14-2020, amend filed 05/07/2020, effective 05/07/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 199-2018, amend filed 11/16/2018, effective 01/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 27-2017, amend filed 11/17/2017, effective 11/17/2017 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 17-2017, renumbered from 340-253-1050, filed 11/06/2017, effective 11/06/2017 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 13-2015, f. 12-10-15, cert. ef. 1-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 3-2015, f. 1-8-15, cert. ef. 2-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

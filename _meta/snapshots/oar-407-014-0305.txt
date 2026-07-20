@@ -1,0 +1,185 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Chapter 407 
+ 
+ 
+ 
+ 
+ 
+ Division 14 PRIVACY AND CONFIDENTIALITY 
+ 407-014-0305 
+ Definitions 
+ 
+ For purpose of these rules, the following terms have definitions set forth below. All other terms not defined in this section shall have the meaning used in the Health Insurance Portability and Accountability Act (HIPAA) security rules found at 45 CFR § 164.304:  (1) “Access” means the ability or the means necessary to read, communicate, or otherwise use any Department information asset.  (2) “Access control process” means Department forms and processes used to authorize a user, identify their job assignment, and determine the required access.  (3) “Client records” means any client, applicant, or participant information regardless of the media or source, provided by the Department to the user, or exchanged between the Department and the user.  (4) “Department” means the Department of Human Services.  (5) “Incident” means the attempted or successful unauthorized access, use, disclosure, modification, or destruction of any network and information system or Department information asset including but not limited to unauthorized disclosure of information, failure to protect user’s identification (ID) provided by the Department, or theft of computer equipment that uses or stores any Department information asset.  (6) “Information asset” means any information, also known as data, provided through the Department, regardless of the source or media, which requires measures for security and privacy of the information.  (7) “Network and information system” means the State of Oregon’s computer infrastructure which provides personal communications, client records and other sensitive information assets, regional, wide area and local area networks, and the internetworking of various types of networks on behalf of the Department.  (8) “Organization” means any entity authorized by the Department to access a network and information system or information asset.  (9) “User” means any individual authorized by the Department to access a network and information system or information asset. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 409.050 
+ 
+ 
+ Statutes/Other Implemented:  ORS 182.122 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 1-2012, f. & cert. ef. 2-1-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 6-2011(Temp), f. & cert. ef. 8-9-11 thru 2-2-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 14-2007, f. 12-31-07, cert. ef. 1-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

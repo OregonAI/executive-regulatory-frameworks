@@ -1,0 +1,288 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Public Employees Retirement System 
+ Chapter 459 
+ 
+ 
+ 
+ 
+ 
+ Division 30 LOCAL PUBLIC EMPLOYER RETIREMENT PLANS FOR POLICE OFFICERS AND FIRE FIGHTERS 
+ 459-030-0025 
+ Standards for Review of Police Officers and Firefighters Retirement Plans
+ 
+ 
+ (1) For purposes of this rule: 
+
+ (a) “Assumed rate” has the same meaning as provided in OAR 459-007-0001. 
+
+ (b) “Valuation date” means the date set by the Board as of which the retirement benefits under the public employer’s retirement plan and the retirement benefits under the PERS Plan shall be compared. 
+
+ (2) A determination whether a public employer provides retirement benefits to its police officers and firefighters that are equal to or better than the benefits that would be provided to them by PERS will be made as of the valuation date. 
+
+ (3) The Board will consider the aggregate total actuarial present value, as of the valuation date, of all retirement benefits accrued up to the valuation date and projected to be accrued thereafter to the date of projected retirement by the group of police officers and firefighters employed on the valuation date by the public employer. The Board will compare the retirement benefits provided under the public employer’s retirement plan for each of the following classes of employees to the retirement benefits provided to the equivalent class of employees participating in the PERS Plan: 
+
+ (a) Police officers or firefighters who would have established membership in the system before January 1, 1996, as described in ORS 238.430(2), and would have been entitled to receive benefits under the PERS Plan; 
+
+ (b) Police officers or firefighters who would have established membership in the system on or after January 1, 1996, as described in ORS 238.430, and before August 29, 2003, as described in 238A.025, and would have been entitled to receive benefits under the PERS Plan; and 
+
+ (c) Police officers or firefighters who would have established membership in the system on or after August 29, 2003, and would have been entitled to benefits under the PERS Plan. 
+
+ (4) For each class of employees described in section (3) of this rule: 
+
+ (a) The aggregate total actuarial present value as of the valuation date of the projected full-career retirement benefits provided by the public employer must be equal to or better than those provided by PERS to the equivalent class of employees. 
+
+ (b) The actuarial present value of projected retirement benefits for each individual employee need not be equal to or better than the present value that employee would have received as a member of that employee’s equivalent class in PERS. 
+
+ (c) The public employer’s retirement plan or plans must provide at least eighty percent (80%) of the actuarial present value of projected retirement benefits in each of the major categories of retirement benefits available under PERS, namely: a service retirement benefit, including post retirement health care and a disability retirement benefit, also including post retirement health care. 
+
+ (5) In adopting the following methods and assumptions, to be used in conducting an actuarial review of a public employer’s retirement plan, preference has been given to the simplest, least expensive methodology consistent with ORS 237.610 to 237.620 and applicable actuarial standards: 
+
+ (a) Only employer funded benefits shall be used as the basis for the test comparison. Any contribution deemed as an employee contribution will be treated as an employee contribution for testing purposes, even if paid for by the employer unless the employer’s plan specifies that the employer is responsible to make the contribution on the employee’s behalf and that responsibility is nonelective. 
+
+ (b) The Full Formula, Money Match, Formula Plus Annuity, and OPSRP Pension benefit formulas shall be used as the basis for valuing PERS benefits. 
+
+ (c) Prior service benefits that depend on earnings shall be valued using the assumed rate, taking into consideration guaranteed plan returns. 
+
+ (d) Future service benefits that depend on earnings shall be valued using the assumed rate, taking into consideration guaranteed plan returns. 
+
+ (e) Benefits will be assumed to be paid in the typical and customary distribution form given the structure of the underlying plan. For example, PERS benefits will be paid using the most recent distribution assumption as of the valuation date, and benefits from a defined contribution program will be assumed to be paid as a lump sum at the date of projected retirement. 
+
+ (f) Lump sum/annuity conversions, if needed, shall be calculated using the assumed rate. 
+
+ (g) The assumed rate will be used to discount projected future benefits back to the valuation date. 
+
+ (h) Benefit comparisons shall use a hypothetical PERS member data standard for each demographic group. 
+
+ (6) In conducting an actuarial review of the public employer’s retirement plan, the actuary retained by the Board will use its current actuarial assumptions for police officers and firefighters of public employers participating in PERS for those employees, subject to any exceptions noted above. 
+
+ (7) The Board will consider the estimated cost of the benefits to be provided, the estimated value of projected benefits to the employee, and the proportion of the cost being paid by the public employer and the participating police officers and firefighters. Whether the benefits are provided by contract, trust, insurance, or a combination thereof shall have no effect on the Board’s determination. 
+
+ (8) In considering a public employer’s retirement plan provisions, the Board may not value portability of pension credits, tax advantages, Social Security benefits or participation, any worker’s compensation component of a public employer’s retirement plan as determined by the employer or any portion of a benefit funded by the member. 
+
+ (9) The Board may not consider benefits provided by the PERS Plan under ORS 238.362–238.368 or benefits provided by the employer’s retirement plan under ORS 237.635–237.637. The employer must identify benefits paid to comply with ORS 237.635–237.637. 
+
+ (10) Additional actuarial assumptions needed to evaluate the public employer’s retirement plan may be considered by the Board’s actuary to be consistent with assumptions specified in these rules. Any disputes as to the appropriateness of additional actuarial assumptions may be resolved by the Board in its sole discretion. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 238.650 
+ 
+ 
+ Statutes/Other Implemented:  ORS 237.620 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PERS 11-2020, minor correction filed 06/24/2020, effective 06/24/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PERS 8-2010, f. & cert. ef. 8-2-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PERS 2-2009, f. & cert. ef. 2-12-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PERS 9-2005, f. & cert. ef. 2-22-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PERS 1-1989, f. & cert. ef. 12-4-89 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PER 15-1981, f. & ef. 11-23-81 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PER 4-1978, f. & ef. 11-2-78 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

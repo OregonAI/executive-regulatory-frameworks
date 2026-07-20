@@ -1,0 +1,316 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 116 USE OF RADIONUCLIDES IN THE HEALING ARTS 
+ 333-116-0587 
+ Periodic Spot-checks for Gamma Stereotactic Radiosurgery Units
+ 
+ 
+ (1) A licensee authorized to use a gamma stereotactic radiosurgery unit for medical use must perform spot-checks of each gamma stereotactic radiosurgery facility and on each unit: 
+
+ (a) Monthly; 
+
+ (b) Before the first use of the unit on a given day; and 
+
+ (c) After each source installation. 
+
+ (2) A licensee must: 
+
+ (a) Perform the measurements required by section (1) of this rule in accordance with written procedures established by the authorized medical physicist. That individual need not actually perform the spot check measurements. 
+
+ (b) Have the authorized medical physicist review the results of each spot-check within 15 days. The authorized medical physicist must notify the licensee as soon as possible in writing of the results of each spot-check. 
+
+ (3) To satisfy the requirements of subsection (1)(a) of this rule, spot-checks must, at a minimum: 
+
+ (a) Assure proper operation of: 
+
+ (A) Treatment table retraction mechanism, using backup battery power or hydraulic backups with the unit off; 
+
+ (B) Helmet microswitches; 
+
+ (C) Emergency timing circuits; and 
+
+ (D) Stereotactic frames and localizing devices (trunnions). 
+
+ (b) Determine: 
+
+ (A) The output for one typical set of operating conditions measured with the dosimetry system described in OAR 333-116-0560; 
+
+ (B) The difference between the measurement made in paragraph (3)(b)(A) of this rule and the anticipated output, expressed as a percentage of the anticipated output (i.e., the value obtained at last full calibration corrected mathematically for physical decay); 
+
+ (C) Source output against computer calculation; 
+
+ (D) Timer accuracy and linearity over the range of use; 
+
+ (E) On-off error; and 
+
+ (F) Trunnion centricity. 
+
+ (4) To satisfy the requirements of subsections (1)(b) and (1)(c) of this rule, spot-checks must assure proper operation of: 
+
+ (a) Electrical interlocks at each gamma stereotactic radiosurgery room entrance; 
+
+ (b) Source exposure indicator lights on the gamma stereotactic radiosurgery unit, on the control console, and in the facility; 
+
+ (c) Viewing and intercom systems; 
+
+ (d) Timer termination; 
+
+ (e) Radiation monitors used to indicate room exposures; and 
+
+ (f) Emergency off buttons. 
+
+ (5) A licensee must arrange for the repair of any system identified in section (3) of this rule that is not operating properly as soon as possible. 
+
+ (6) If the results of the checks required in section (4) of this rule indicate the malfunction of any system, a licensee must lock the control console in the off position and not use the unit except as may be necessary to repair, replace, or check the malfunctioning system. 
+
+ (7) A licensee must retain a record of each check required by sections (3) and (4) of this rule in accordance with OAR 333-100-0057. The record must include: 
+
+ (a) The date of the spot-check; 
+
+ (b) The manufacturer's name, model number, and serial number for the gamma stereotactic radiosurgery unit and the instrument used to measure the output of the unit; 
+
+ (c) An assessment of timer linearity and accuracy; 
+
+ (d) The calculated on-off error; 
+
+ (e) A determination of trunnion centricity; 
+
+ (f) The difference between the anticipated output and the measured output; 
+
+ (g) An assessment of source output against computer calculations; 
+
+ (h) Notations indicating the operability of radiation monitors, helmet microswitches, emergency timing circuits, emergency off buttons, electrical interlocks, source exposure indicator lights, viewing and intercom systems, timer termination, treatment table retraction mechanism, and stereotactic frames and localizing devices (trunnions); and 
+
+ (i) The name of the individual who performed the periodic spot-check and the signature of the authorized medical physicist who reviewed the record of the spot-check. 
+
+ (8) A licensee must retain a copy of the procedures required by section (2) until the licensee no longer possesses the gamma stereotactic radiosurgery unit. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 453.635 
+ 
+ 
+ Statutes/Other Implemented:  ORS 453.605 - 453.807 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 56-2018, minor correction filed 02/01/2018, effective 02/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 14-2008, f. & cert. ef. 9-15-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 4-2007, f. & cert. ef. 3-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 12-2006, f. & cert. ef. 6-16-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 36-2004, f. & cert. ef. 12-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 31-2004(Temp), f. & cert. ef. 10-8-04 thru 4-5-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 3-2003, f. & cert. ef. 3-27-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

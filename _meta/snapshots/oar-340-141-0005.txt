@@ -1,0 +1,378 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 141 OIL SPILL CONTINGENCY PLANNING AND FEES 
+ 340-141-0005 
+ Definitions as used in this Division
+ 
+ 
+ (1) "Average Most Probable" spill, release or discharge means the probable volume of oil that may spill as defined in a plan considering the history of spills from similar facilities or vessels of the same class operating on the west coast of the United States. It may also be defined as the lesser of one percent of the worst case spill, release or discharge, or 50 barrels, when used as a planning volume. 
+
+ (2) "Best Achievable Protection" means the highest level of protection that can be achieved through the use of the best achievable technology and those staffing levels, training procedures and operational methods that provide the greatest degree of protection available considering: 
+
+ (a) The additional protection provided by the measures; 
+
+ (b) The technological feasibility of the measures; and 
+
+ (c) The cost of the measures. 
+
+ (3) "Best Achievable Technology" means the technology that provides the greatest degree of protection, taking into consideration processes that are currently in use, processes that have been developed or processes that could feasibly be developed with reasonable expenditures on research and development. In determining what is best achievable technology, the Director will consider the effectiveness, engineering feasibility and commercial availability of the technology. 
+
+ (4) "Bulk" means material that is stored or transported in a loose, unpackaged liquid, powder or granular form capable of being conveyed by a pipe, bucket, chute or belt system. 
+
+ (5) "Cargo vessel" means a self-propelled ship in commerce, other than a tank vessel of 300 or more gross tons. "Cargo vessel" does not include a vessel used solely for commercial fish harvesting. 
+
+ (6) "Columbia River" means the length of the Columbia River from where it enters the State of Oregon from the State of Washington to the point where it leaves the state at river mile zero at the Pacific Ocean. 
+
+ (7) "Commercial Fish Harvesting" means taking food fish with any gear unlawful for angling under ORS 506.006, taking food fish in excess of the limits permitted for personal use, or taking food fish with the intent of disposing of such food fish or parts thereof for profit, or by sale, barter or trade, in commercial channels. 
+
+ (8) "Commission" means the Environmental Quality Commission. 
+
+ (9) "Contingency Plan" or "Plan" means an oil spill prevention and emergency response plan required under ORS 468B.345. 
+
+ (10) "Contract or other approved means" in a response or a plan means: 
+
+ (a) A written contract between a covered vessel or facility owner or operator and an oil spill removal organization that identifies and ensures the availability of specified personnel and equipment within stipulated response times in specified oil spill response Zones; 
+
+ (b) Certification by the vessel or facility owner or operator that specified personnel and equipment are owned, operated or under the direct control of the vessel or facility owner or operator and are available within stipulated response times in specified oil spill response Zones; 
+
+ (c) Active membership in a local or regional oil spill removal organization that has identified specified personnel and equipment that are available to respond to an oil spill within stipulated response times in specified oil spill response Zones; or 
+
+ (d) A written document that: 
+
+ (A) Identifies personnel, equipment and services capable of being provided by the oil spill removal organization within stipulated response times in specified oil spill response Zones; 
+
+ (B) Acknowledges that the oil spill removal organization intends to commit the identified resources in the event of an oil spill; 
+
+ (C) Permits the commission to verify the availability of the identified oil spill removal resources through tests, inspections and exercises; and 
+
+ (D) Is referenced in an oil spill contingency plan for the vessel or facility. 
+
+ (11) "Covered vessel" means a tank vessel, self-propelled tank vessel, cargo vessel or passenger vessel. 
+
+ (12) "Dedicated response vessel" means a vessel that limits service exclusively to recovering and transporting spilled oil, tanker escorting, deploying oil spill response equipment, supplies and personnel, spill response-related training, testing, exercises and research or other oil spill removal and related activities. 
+
+ (13) "DEQ" means the Department of Environmental Quality. 
+
+ (14) "Director" means the Director of the Department of Environmental Quality. 
+
+ (15) "Discharge" means any emission other than natural seepage of oil, whether intentional or unintentional. "Discharge" includes but is not limited to spilling, leaking, pumping, pouring, emitting, emptying or dumping oil. 
+
+ (16) "Drill" means the simulated performance of a spill response or task predicted in a plan. 
+
+ (17) "Effective Daily Recovery Capacity" or "EDRC" means the factor used to estimate limitations on equipment efficiency from variables such as sea state, current velocity or visibility. 
+
+ (18) "Field Document" means a simplified response plan for onsite use in the event of a spill, summarizing key notification and action elements. 
+
+ (19) "Facility" means a pipeline or any structure, group of structures, equipment or device, other than a vessel located on or near navigable waters of a state, that is used for producing, storing, handling, transferring, processing or transporting oil in bulk and that is capable of storing or transporting 10,000 or more gallons of oil per day. "Facility" does not include: 
+
+ (a) A railroad car, motor vehicle or other rolling stock while transporting oil over the highways or rail lines of this state; 
+
+ (b) An underground storage tank regulated by DEQ or a local government under ORS 466.706–466.882 and 466.994; or 
+
+ (c) Any structure, group of structures, equipment or device, other than a vessel located on or near navigable waters of a state, that is used for producing, storing, handling, transferring, processing or transporting 10,000 gallons or more of oil per day but does not receive oil from tank vessels, barges or pipelines. 
+
+ (20) “High Hazard Train Route” means a section of rail lines in this state: 
+
+ (a) That abuts or travels over navigable waters, a drinking source, or an inland location, that is one quarter mile or less from waters of the state; and 
+
+ (b) Over which trains operate that, in a single train transport: 
+
+ (A) 20 or more tank railcars in a continuous block that are loaded with oil; or 
+
+ (B) 35 or more railroad cars loaded with oil that are spread throughout the entirety of the rolling stock, not including the locomotive, that make up the train. 
+
+ (21) "Initial assessment" is a task assigned to first responders who are participating with DEQ in a Unified Command or Incident Command System, and includes the following tasks: 
+
+ (a) Verifying the spill location; 
+
+ (b) Establishing the type of incident based on products and conditions; 
+
+ (c) Confirming or correcting the reported quantity released or area extent of the contamination; 
+
+ (d) Reporting the efficacy of the initial containment; 
+
+ (e) Projecting immediate resource needs to control the release; and 
+
+ (f) Reporting local knowledge about the probable impacts of the release. 
+
+ (22) "Interim Storage Site" means a site used to temporarily store recovered oil or oily waste until the recovered oil or oily waste is disposed of at a permanent disposal site. Interim storage sites include trucks, barges and other vehicles used to store recovered oil or oily waste until transport begins. 
+
+ (23) "Maritime Association" means an association or cooperative of marine terminals, facilities, vessel owners, vessel operators, vessel agents or other maritime industry groups that provides oil spill response planning and spill related communications services within the state. 
+
+ (24) "Maximum Extent Practicable" means the highest level of effectiveness that can be achieved through staffing levels, training procedures and best achievable technology considering the effectiveness, engineering feasibility, commercial availability, safety and cost of the measures. 
+
+ (25) “ National Contingency Plan” means the plan prepared and published under section 105 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, 42 U.S.C. 9605, as amended by the Superfund Amendments and Reauthorization Act of 1986 (SARA), Pub. L. 99–499, (hereinafter CERCLA), and by section 311(d) of the Clean Water Act (CWA), 33 U.S.C. 1321(d), as amended by the Oil Pollution Act of 1990 (OPA). 
+
+ (26) “National Incident Management System” or “NIMS”, as established by the Homeland Security Presidential Directive 5 of February 28, 2003 is a consistent nationwide template to enable Federal, State, local and tribal governments and private-sector and nongovernmental organizations to work together effectively and efficiently to prepare for, prevent, respond to and recover from domestic incidents, regardless of cause, size or complexity, including acts of catastrophic terrorism. 
+
+ (27) "Navigable Waters" means the Columbia River, the Willamette River up to Willamette Falls, the Pacific Ocean and estuaries to the head of tide water. 
+
+ (28) “ Non-Floating Oil” means asphalt, heavy fuel oil, diluted bitumen, synthetic bitumen, any group V oil or any oil with the physical and chemical properties which may weather or accumulate sediment and become neutrally buoyant or sink in freshwater or saltwater. 
+
+ (29) "Non-Persistent Oil" means those petroleum products with physical characteristics less dense than persistent oils, also referred to as Group I petroleum products. 
+
+ (30) "Northwest Area Contingency Plan" means the regional emergency response plan developed in accordance with federal requirements and adopted as an annex to the State of Oregon all hazard plan as required by ORS 466.620. 
+
+ (31) "Offshore Facility" means any facility located in, on or under any of the navigable waters of the state. 
+
+ (32) "Oil" or "Oils" means: 
+
+ (a) Oil, including gasoline, crude oil, bitumen, synthetic crude oil, natural gas well condensate, fuel oil, diesel oil, lubricating oil, oil sludge, oil refuse, and any other petroleum-related product; and 
+
+ (b) Liquefied natural gas. 
+
+ (33) "Oil Spill Contingency Response Planning Standards" means DEQ's standards for reviewing oil spill contingency plans. The planning standards represent DEQ's best general estimate of types and quantities of personnel and equipment required to ensure adequate response to any location. 
+
+ (34) "Oil Spill Response Planning Zones" are geographic areas of the State for which DEQ has established minimum planning standards. The Oil Spill Planning Zones are as follows: 
+
+ (a) "Columbia River Zone" includes the Columbia River from where it enters the State of Oregon from the State of Washington to the point where it leaves the state at river mile zero at the Pacific Ocean, and extending 25 miles inland adjacent to the waterway. It is divided into four sub-Zones: 
+
+ (A) "Columbia River, Upper River sub-Zone" means the Columbia River from the point where it enters Oregon from the State of Washington to the Bonneville Dam; 
+
+ (B) "Columbia River, Portland sub-Zone" means the Willamette River below Willamette Falls, and the Columbia River between the Bonneville Dam and river mile 85 at St. Helens; 
+
+ (C) "Columbia River, Rainier sub-Zone" means the Columbia River between river mile 85 at St. Helens and river mile 40 at Bugby Hole; and 
+
+ (D) "Columbia River, Astoria sub-Zone" means the Columbia River between river mile 40 at Bugby Hole and river mile zero at the Pacific Ocean. 
+
+ (b) "Coastal Bays Zone" means all ports on the Oregon coast where covered vessels make calls and extending inland 25 miles; 
+
+ (c) "Open Ocean Zone" is the Pacific Ocean from the mark of average high tide out to the three mile limit of Oregon's authority; and 
+
+ (d) "Inland Zone" means areas of Oregon where oil spill risks can be reduced through planning and contingency strategies, and not included in another listed Planning Zone. 
+
+ (35) "Oily Waste" means oil contaminated waste resulting from an oil spill or oil spill response operations. 
+
+ (36) "Onshore Facility" means any facility, located in, on or under any land of the state, other than submerged land, that, because of its location, could reasonably be expected to cause substantial harm to the environment by discharging oil into or on the navigable waters of the state or adjoining shorelines. 
+
+ (37) "Owner or Operator" means: 
+
+ (a) In the case of an onshore or offshore facility, any person owning or operating the facility. 
+
+ (b) In the case of a vessel, any person owning, operating or chartering by demise, the vessel. 
+
+ (c) In the case of an abandoned onshore or offshore facility, or vessel, the person who owned or operated the facility or vessel immediately before its abandonment. 
+
+ (38) "Passenger vessel" means a ship of 300 or more gross tons carrying passengers for compensation. 
+
+ (39) "Persistent Oil" means those petroleum products with environmental degradation resistance or viscosity characteristics equal to and greater than fuel oil having a specific gravity of more than 0.8, also referred to as Group II and higher petroleum products. 
+
+ (40) "Person" includes individuals, corporations, associations, firms, partnerships, joint stock companies, public and municipal corporations, political subdivisions, trusts, joint venture, consortium, association, state, municipality, commission, political subdivision of a state or any interstate body, any commercial entity and the state and any agencies thereof, and the federal government and any agencies thereof. 
+
+ (41) "Person Having Control Over Oil" includes, but is not limited to, any person using, storing or transporting oil immediately prior to entry of such oil into the navigable waters of the state, and specifically includes carriers and bailees of such oil. 
+
+ (42) "Pipeline" means a facility, including piping, compressors, pump stations and storage tanks used to transport oil between facilities or between facilities and tank vessels. 
+
+ (43) "Primary Response Contractor" means a response contractor that is identified in a required plan and is committed to the plan holder by contract or other approved means. 
+
+ (44) "Region of Operation" with respect to the holder of a contingency plan means the area where the operations that require a contingency plan are located. 
+
+ (45) "Resident" means that the resource is kept ready for use at an address within the planning Zone (or sub-Zone if planning standards specify) in which the facility or vessel is located. 
+
+ (46) "Response Contractor" means an individual, organization, association, or cooperative that provides or intends to provide equipment, personnel for oil spill containment, cleanup or removal activities. 
+
+ (47) "Self-propelled tank vessel" means a tank vessel that is capable of moving under its own power. 
+
+ (48) "Ship" means any boat, ship, vessel, barge or other floating craft of any kind. 
+
+ (49) "Spill or release" means the discharge, deposit, injection, dumping, spilling, emitting, releasing, leaking or placing of any oil or hazardous material into the air or into or on any land or waters of the state, as defined in ORS 468B.005, except as authorized by a permit issued under ORS Chapter 454, 459, 459A, 468, 468A, 468B or 469, 466.005 to 466.385, 466.990(1) and (2) or 466.992 or federal law or while being stored or used for its intended purpose. 
+
+ (50) "Tank vessel" means a ship that is constructed or adapted to carry, or that carries, oil in bulk as cargo or cargo residue. "Tank vessel" does not include: 
+
+ (a) A vessel carrying oil in drums, barrels or other packages; 
+
+ (b) A vessel carrying oil as fuel or stores for that vessel; or 
+
+ (c) An oil spill response barge or vessel. 
+
+ (51) "Trip" means travel to the appointed destination and return travel to the point of origin within the navigable waters of the State of Oregon. 
+
+ (52) "Waters of the State" includes lakes, bays, ponds, impounding reservoirs, springs, wells, rivers, streams, creeks, estuaries, marshes, inlets, canals, the Pacific Ocean within the territorial limits of the State of Oregon and all other bodies of surface or underground waters, natural or artificial, inland or coastal, fresh or salt, public or private (except those private waters which do not combine or effect a junction with natural surface or underground waters), which are wholly or partially within or bordering the state or within its jurisdiction. 
+
+ (53) "Worst case spill" means: 
+
+ (a) In the case of a vessel, a spill of the entire cargo and fuel of the tank vessel complicated by adverse weather conditions. 
+
+ (b) In the case of an onshore or offshore facility, the largest foreseeable spill in adverse weather conditions. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020 & 468B.345 - 468B.405 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468B.300 - 468B.500 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 8-2021, amend filed 05/20/2021, effective 05/20/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 8-2005, f. & cert. ef. 7-14-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 2-2003, f. & cert. ef. 1-31-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

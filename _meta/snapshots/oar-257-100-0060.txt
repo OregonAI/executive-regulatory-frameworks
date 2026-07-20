@@ -1,0 +1,306 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of State Police 
+ Chapter 257 
+ 
+ 
+ 
+ 
+ 
+ Division 100 IGNITION INTERLOCK DEVICE PROGRAM 
+ 257-100-0060 
+ Reporting Requirements of Manufacturers, Manufacturer’s Representatives, and Service Centers 
+ 
+ (1) Manufacturer’s representatives or service centers must ask if the individual customer if they are currently subject to a qualifying court approved Driving Under the Influence of Intoxicants Diversion Agreement or if the individual customer was convicted of Driving Under the Influence of Intoxicants. The individual customer must update the service center or manufacturer’s representative if the individual’s diversion or conviction status was incorrectly stated or has changed. Manufacturer’s representatives must report any negative report, tampering, device lockout, install, removal, or test violations downloaded by the manufacturer’s representative under ORS Chapter 813.630 and 813.635. 
+
+ (a) Manufacturer or manufacturer’s representative must conduct a thorough review of all reports generated under ORS 813.630, 813.635, and 813.645 prior to issuance. 
+
+ (b) Manufacturer or manufacturer’s representative must notify OSP within three business days if an individual customer’s device settings change from the Oregon performance standards and settings outlined in OAR Chapter 257, Division 100. 
+
+  (2) OSP recognizes and considers manufacturer’s representatives to be subject matter experts in the operation of their own device. Manufacturer’s representatives may use discretion, within the guidelines of OSP Form 257-0012 to determine the validity of the violations. 
+
+ (3) Only one customer may be designated to a device. Multiple drivers subjected to requirements under ORS 813.602 order or agreements, shall not share a single device or user account. 
+
+ (4) Prior to installation of a device a manufacturer’s representative or service center must verify, by government issued photo identification, that the customer’s full name and date of birth matches any ignition interlock related paperwork used to establish an account and obtain device installation. 
+
+ (5) At the time of device installation, manufacturer’s representatives or service centers must obtain a clear, unobstructed, photograph of only the required driver in the driver’s seat using the camera installed with the device. The photograph shall be used as the reference photograph in the individual’s weblogs. 
+
+ (6) For an individual customer subject to a diversion agreement, the manufacturer’s representative must notify: 
+
+ (a) The District Attorney or City Prosecutor, court or the court’s designee, when there is any negative report, lockout, tampering, or any installation and removal of a device;  
+
+ (b) OSP when there is any negative report, lockout, tampering, or any installation and removal of a device; 
+
+ (c) The individual customer when there is a 6-month “no negative certificate”, or a 90-day “no negative certificate.” 
+
+ (d) OSP when there is a 6-month “no negative certificate”, or a 90-day “no negative certificate.” 
+
+ (7) For an individual convicted of the offense Driving Under the Influence of Intoxicants, the manufacturer, manufacturer’s representative, or service center shall notify: 
+
+ (a) OSP when there is any negative report, lockout, tampering, or any installation and removal of a device; 
+
+ (b) The individual customer when there is a 90 day “no negative certificate.” 
+
+ (c) DMV when there is tampering, or any installation and removal of a device. 
+
+ (d) OSP when there is a 90-day “no negative certificate.” 
+
+ (8) Upon eligibility of a 6-month “no negative certificate”, or a 90-day “no negative certificate”, the manufacturer or manufacturer’s representative shall provide the applicable “no negative certificate” to the individual customer within seven business days of the request from the individual customer. 
+
+ (9) If a device is not re-activated within 120 calendar days of a lockout, the device will be considered as removed and the manufacturer or manufacturer’s representative shall report the removal as described in subsections (6) and (7). 
+
+ (10) The manufacturer or manufacturer’s representative must provide OSP with access to each individual customer’s weblog. All data uploaded to the manufacturer or manufacturer’s representative’s server or network must be accessible to OSP within 48 hours of the device download. The manufacturer or manufacturer’s representative must keep accurate record data of the client and the results of each event. When requested by OSP, the manufacturer’s representative must provide, at no cost to OSP, an individual customer’s weblog in a format acceptable to OSP. 
+
+ (11) Manufacturer’s representatives must report the following to OSP no later than the 7th day of each calendar month: 
+
+ (a) The total number of newly installed interlock devices (TIN) for the previous calendar month for individuals required to have an interlock installed pursuant to ORS 813.602. The TIN reporting must include each individual customer’s name, date of birth and Oregon license/identification number. 
+
+ (b) The total number of installed interlock devices (AIN) for individuals required to have an interlock installed pursuant to ORS 813.602. The AIN reporting must include each individual customer’s name, date of birth and Oregon license/identification number, where available. 
+
+ (c) A list of all individual customers who had an interlock device removed during the previous calendar month. This list must include each individual customer’s name, date of birth and Oregon license/identification number and be in a format acceptable to OSP. 
+
+ (A) The AIN and TIN shall not include interlock devices installed on a voluntary basis; or 
+
+ (B) Individual customers not subject to a Driving Under the Influence of Intoxicants Diversion Agreement or conviction of Driving Under the Influence of Intoxicants under ORS 813.602; or 
+
+ (C) When the Individual did not possess an operational device for at least one calendar day of the month. 
+
+ (12) If the manufacturer’s representative’s web browser provides TIN, AIN and removal information viewable by OSP, reporting by the manufacturer’s representative outlined in section 10 of this rule is not required. 
+
+ (a) TIN, AIN, and removal information on the manufacturer’s representative’s web browser must include a list of all individual customers with a device installation, removal or active account for the calendar month; and 
+
+ (b) Be in a format which allows search and filter by date; and 
+
+ (c) Shall not include interlocks installed on a voluntary basis; or 
+
+ (d) Individual customers not subject to a Driving Under the Influence of Intoxicants Diversion Agreement or conviction of Driving Under the Influence of Intoxicants under ORS 813.602; or 
+
+ (e) When the Individual did not possess an operational device for at least one calendar day of the month. 
+
+ (13) Upon request by OSP, the manufacturer’s representative must provide, at no cost, additional reports in a format acceptable to OSP. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 813.600, ORS 813.660, ORS 813.630 & ORS 813.635 
+ 
+ 
+ Statutes/Other Implemented:  ORS 813.599 – 813.680 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSP 3-2022, amend filed 05/20/2022, effective 05/20/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSP 25-2019, amend filed 12/27/2019, effective 12/31/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSP 24-2019, temporary amend filed 07/03/2019, effective 07/03/2019 through 12/29/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TSD 3-2019, renumbered from 737-005-0160, filed 05/30/2019, effective 07/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TSD 2-2019, adopt filed 01/17/2019, effective 01/17/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TSD 3-2018, temporary adopt filed 09/24/2018, effective 09/24/2018 through 03/22/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

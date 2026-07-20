@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Oregon Occupational Safety and Health Division - Chapter 437 
+ 
+ 
+ 
+ 
+ Division 2 GENERAL OCCUPATIONAL SAFETY AND HEALTH RULES 
+ 437-002-2315 
+ Mechanical Equipment 
+ 
+ (1) General requirements.  Note to 437-002-2315: For employers engaged in construction activities, mechanical equipment must be operated in accordance with applicable requirements in Division 3, including subdivisions N, O, and CC of Division 3, except that 1926.600(a)(6) does not apply to operations performed by qualified employees.  (a) The critical safety components of mechanical elevating and rotating equipment must receive a thorough visual inspection before use on each shift.  Note to paragraph (1)(a): Critical safety components of mechanical elevating and rotating equipment are components for which failure would result in free fall or free rotation of the boom.  (b) No motor vehicle or earthmoving or compacting equipment having an obstructed view to the rear may be operated on off-highway jobsites where any employee is exposed to the hazards created by the moving vehicle, unless:  (A) The vehicle has a reverse signal alarm audible above the surrounding noise level, or  (B) The vehicle is backed up only when a designated employee signals that it is safe to do so.  (c) Rubber-tired self-propelled scrapers, rubber-tired front-end loaders, rubber-tired dozers, wheel-type agricultural and industrial tractors, crawler-type tractors, crawler-type loaders, and motor graders, with or without attachments, must have rollover protective structures that meet the requirements of Division 3/W.  (d) The operator of an electric line truck may not leave their position at the controls while a load is suspended, unless the employer can demonstrate that no employee (including the operator) is endangered.  (2) Outriggers.  (a) Mobile equipment, if provided with outriggers, must be operated with the outriggers extended and firmly set, except as provided in paragraph (2)(c) of this rule.  (b) Outriggers may not be extended or retracted outside of the clear view of the operator unless all employees are outside the range of possible equipment motion.  (c) If the work area or the terrain precludes the use of outriggers, the equipment may be operated only within its maximum load ratings specified by the equipment manufacturer for the particular configuration of the equipment without outriggers.  (3) Applied loads. Mechanical equipment used to lift or move lines or other material must be used within its maximum load rating and other design limitations for the conditions under which the mechanical equipment is being used.  (4) Operations near energized lines or equipment.  (a) Mechanical equipment must be operated so that the minimum approach distances from exposed energized lines and equipment, established by the employer under paragraph (3)(a) of 437-002-2311, are maintained. However, the insulated portion of an aerial lift operated by a qualified employee in the lift is exempt from this requirement if the applicable minimum approach distance is maintained between the uninsulated portions of the aerial lift and exposed objects having a different electrical potential.  (b) A designated employee other than the equipment operator must observe the approach distance to exposed lines and equipment and provide timely warnings before the minimum approach distance required by paragraph (4)(a) of this rule is reached, unless the employer can demonstrate that the operator can accurately maintain the minimum approach distance.  (c) Aerial lifts must have dual controls (lower and upper) as follows:  (A) The upper controls must be within easy reach of the employee in the bucket. On a two-bucket-type lift, access to the controls must be within easy reach of both buckets.  (B) The lower set of controls must be near the base of the boom and must be designed so that they can override operation of the equipment at any time.  (C) Controls must be placed and guarded so that the equipment cannot be activated by inadvertent contact by the operator, tools, equipment, lines, or foreign objects.  (d) If, during operation of the mechanical equipment, that equipment could become energized, the operation also must comply with at least one of paragraphs (4)(d)(A) through (4)(d)(C) of this rule.  (A) The energized lines or equipment exposed to contact must be covered with insulating protective material that will withstand the type of contact that could be made during the operation.  (B) The mechanical equipment must be insulated for the voltage involved. The mechanical equipment must be positioned so that its uninsulated portions cannot approach the energized lines or equipment any closer than the minimum approach distances, established by the employer under paragraph (3)(a) of 437-002-2311.  (C) Each employee must be protected from hazards that could arise from mechanical equipment contact with energized lines or equipment. The measures used must ensure that employees will not be exposed to hazardous differences in electric potential. Unless the employer can demonstrate that the methods in use protect each employee from the hazards that could arise if the mechanical equipment contacts the energized line or equipment, the measures used must include all of the following techniques:  (i) Using the best available ground to minimize the time the lines or electric equipment remain energized,  (ii) Bonding mechanical equipment together to minimize potential differences,  (iii) Providing ground mats to extend areas of equipotential, and  (iv) Employing insulating protective equipment or barricades to guard against any remaining hazardous electrical potential differences.  NOTE to paragraph (4)(d)(C): Appendix C to Division 2/RR contains information on hazardous step and touch potentials and on methods of protecting employees from hazards resulting from such potentials. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 654.025(2) & 656.726(4) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 654.001 - 654.295 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSHA 3-2015, f. 10-9-15, cert. ef. 1-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,394 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Energy 
+ Chapter 330 
+ 
+ 
+ 
+ 
+ 
+ Division 70 TAX CREDIT ELIGIBILITY CRITERIA FOR RESIDENTIAL ALTERNATIVE ENERGY DEVICES 
+ 330-070-0022 
+ Amount of Tax Credit 
+ 
+ (1) The amount of the AED tax credit is based on the first-year energy savings of an eligible AED. The department has determined first-year energy savings estimates for eligible AEDs and associated tax credit amounts, which are listed in the RETC Rate Chart. The energy savings basis for a solar tax credit may be adjusted by the department to account for less than optimal solar access.  (2) The amount of the AED tax credit may not exceed the lesser of:  (a) For AEDs used for space heating, cooling, electrical energy or domestic water heating, other than an AED using solar radiation for domestic water heating or electric heat pump water heater, $1,500 or the first-year energy savings of the AED in kWh multiplied by 60 cents. The amount of the credit may not exceed 50 percent of the cost of the AED and materials directly associated with the installation or construction of the AED.  (b) For electric heat pump water heaters rated as a Northern Climate Specification Product Tier 1, $1,500 or the first-year energy savings of the AED in kWh multiplied by 28 cents. The amount of the credit may not exceed 50 percent of the cost of the AED and materials directly associated with the installation or construction of the AED.  (c) For electric heat pump water heaters rated as a Northern Climate Specification Product Tier 2 or greater, $1,500 or the first-year energy savings of the AED in kWh multiplied by 38 cents. The amount of the credit may not exceed 50 percent of the cost of the AED and materials directly associated with the installation or construction of the AED.  (d) For AEDs that use solar radiation for domestic water heating:  (A) The incentive rate is based on when the system is certified as operational as of the date of the final inspection:  (i) Before September 1, 2015, $1,500 or the first-year energy savings of the AED in kWh multiplied by 60 cents. The amount of the credit may not exceed 100 percent of the cost of the system components and their installation.  (ii) On or after September 1, 2015 and for tax years beginning on or after January 1, 2015, the first-year energy savings of the AED in kWh multiplied by $2.00, or 50 percent of the cost of the system components and their installation, not to exceed $6,000. The maximum credit claimed per year may not exceed $1,500.  (B) The tax credit is calculated:  (i) Prior to September 1, 2015, by multiplying the Solar Rating and Certification Corporation (SRCC) savings estimate for the appropriate zone, times the Total Solar Resource Fraction (TSRF), times the incentive rate.  (ii) On or after September 1, 2015, by multiplying the Solar Rating and Certification Corporation (SRCC) savings estimate for the appropriate zone times the incentive rate.  (e) For AEDs used for swimming pool, spa or hot tub heating, other than an AED using solar radiation for swimming pool heating, the first-year energy savings of the AED in kWh multiplied by 15 cents, up to 50 percent of the eligible cost of the AED, including the cost of materials directly associated with the installation or construction of the AED and their installation, or $1,500.  (f) For AEDs using solar radiation for swimming pool heating:  (A) The incentive rate is based on when the system is certified as operational as of the operational date reported on the RETC application form:  (i) Before September 1, 2015, the first-year energy savings of the AED in kWh multiplied by 15 cents, up to 50 percent of the eligible cost of the system components and their installation, or $1,500.  (ii) On or after September 1, 2015 and for tax years beginning on or after January 1, 2015, the first-year energy savings of the AED in kWh multiplied by $0.20, or 50 percent of the cost of the system components and their installation, not to exceed $2,500. The maximum credit claimed per year may not exceed $1,500.  (B) The tax credit is calculated by multiplying the collector area in square feet, times the number of collectors, times the solar output by zone, times the incentive rate.  (C) The solar output by zone is:  (i) 30 kWh/ft2 for systems located in Zone 1 which is areas not in Zone 4 of the following counties: Benton, Clackamas, Clatsop, Columbia, Lane, Lincoln, Linn, Marion, Multnomah, Polk, Tillamook, Washington and Yamhill.  (ii) 30 kWh/ft2 for systems located in Zone 2 which is areas not in Zone 4 of the following counties: Coos, Curry, Douglas, Jackson and Josephine.  (iii) 35 kWh/ft2 for systems located in Zone 3 which is the following counties: Baker, Crook, Deschutes, Gilliam, Grant, Harney, Hood River, Jefferson, Klamath, Lake, Malheur, Morrow, Sherman, Umatilla, Union, Wallowa, Wasco and Wheeler.  (iv) 20 kWh/ft2 for systems located in Zone 4 which is areas within 10 miles of the coast.  (g) For each alternative fuel device, 50 percent of the eligible cost of the alternative fuel device or $750.  (h) For fuel cell systems, $3.00 per watt of the installed capacity or $6,000, and not to exceed 50 percent of the cost of the system components and their installation. One tax credit may be issued per year, per residence, and the maximum credit claimed per year may not exceed $1,500.  (i) For wind AEDs, the first-year energy savings of the AED in kWh multiplied by $2.00, not to exceed the lesser of $6,000 or 50 percent of the cost of the system components and their installation. One tax credit may be issued per year, per residence, and the maximum credit claimed per year may not exceed $1,500, over a four year period.  (j) For premium efficiency biomass combustion devices, the average heating need times the stove efficiency improvement times 60 cents, up to $1,500. The amount of the credit may not exceed 50 percent of the cost of the AED and materials directly associated with the installation or construction of the AED. The department will use the EPA default efficiency as of January 1, 2016 when calculating the stove efficiency improvement for:  (A) Wood or pellet stoves without full efficiency testing listed on the EPA list of EPA Certified Wood Heaters,  (B) Wood or pellet stoves without full efficiency testing with the testing data submitted and approved by EPA, or  (C) Pellet stoves on the List of EPA Exempt Wood Heating Appliances that submitted testing certificates to the department.  (k) For sealed duct system devices, $1,500 or the first-year energy savings of the AED in kWh multiplied by 60 cents. The amount of the credit may not exceed 50 percent of the cost of the AED, materials directly associated with the installation or construction of the AED and their installation.  (3) For photovoltaic systems:  (a) On or after January 1, 2012 and before January 1, 2014, the credit allowed under this section is equal to $2.10 per watt of the installed capacity measured in watts of direct current at industry standard test conditions; the tax credit is claimed according to OAR 330-070-0024.  (b) On or after January 1, 2014 and before January 1, 2015, the credit allowed under this section is equal to $1.90 per watt of the installed capacity measured in watts of direct current at industry standard test conditions; the tax credit is claimed according to OAR 330-070-0024.  (c) On or after January 1, 2015, and before January 1, 2016, the credit allowed under this section is equal to $1.70 per watt of the installed capacity measured in watts of direct current at industry standard test conditions; the tax credit is claimed according to OAR 330-070-0024.  (d) On or after January 1, 2016, and before January 1, 2017 the credit allowed under this section is equal to $1.50 per watt of the installed capacity measured in watts of direct current at industry standard test conditions; the tax credit is claimed according to OAR 330-070-0024.  (e) On or after January 1, 2017, the credit allowed under this section is equal to $1.30 per watt of the installed capacity measured in watts of direct current at industry standard test conditions; the tax credit is claimed according to OAR 330-070-0024.  (f) A maximum of one credit valued at $6,000 is allowed per residence, per AED. The maximum amount of credit allowed per year, beginning in the year in which the AED was installed, is $1,500 per year over a four-year period. The total credit may not exceed 50 percent of the cost of the system components and their installation.  (4) The sum of any tax credits, rebates or cash payments, including public purpose organization or federal grants or credits and the residential energy tax credit may not exceed system costs, including installation costs to the extent those costs are not already included in the system cost under OAR 330-070-0022(7).  (5) Each of the following device types installed at a dwelling within in a 5-year period will be considered a single device:  (a) Photovoltaic,  (b) Solar radiation for domestic water heating, or  (c) Solar radiation for swimming pool heating.  (6) For purposes of the tax credit, the cost of the AED must:  (a) Comply with OAR 330-070-0059 through 330-070-0097, as those rules apply;  (b) Be the system cost of acquiring the system.  (A) AEDs using an alternative energy source for only a part of their energy output or savings will have system cost prorated. System cost must be based on that part of the AED's energy output or savings that is due to the alternative source;  (B) The department may find an AED to be too large for a dwelling. In such case the system cost must be prorated. System cost must be based on the largest useful size of an AED for the dwelling. The department will determine largest useful size based on the energy needs of the building; and  (C) The amount of credit for the original system and any addition may not exceed $1,500 per year.  (7) For purposes of the tax credit, the eligible system cost of the AED is only those costs necessary for the system to yield energy savings or produce renewable energy such as:  (a) The cost to purchase the AED.  (b) The cost of materials directly associated with installation or construction of the AED.  (c) For solar thermal systems, the cost of solar collectors; thermal storage devices; monitors, meters and controls; photovoltaic devices used to supply electricity to parts of the system; installation charges; fees paid for design or building; and ductwork, piping, fans, pumps and controls that move heat from solar collectors to storage and to heat buildings.  (d) For solar photovoltaic systems, solar labor costs and solar material costs including photovoltaic modules; inverters; storage systems and regulators; monitors, meters, and controls; wiring and framing materials; trackers; mounting or racking structures only, no structures beyond those needed for mounting or racking purposes; shipping; and for owner-built system inspections by a tax-credit technician, up to $400; permits and fees.  (e) For wind systems, the cost of wind turbine generators; DC/AC converters, inverters and synchronous inverters; energy storage (batteries or other methods); tower, foundation and guys; electric transformers and lines and supports; safety equipment; up to $500 of wind permitting cost; windmills; pumps, linkage, pump heads, and vacuum chambers; and obtaining a project site specific computer model wind speed estimate from a nationally recognized service as approved by the department, not to exceed $100.  (8) Eligible system costs do not include:  (a) Unpaid labor (including the applicant's labor);  (b) Operating and maintenance costs;  (c) Land costs;  (d) Legal and court costs;  (e) Patent search fees;  (f) Fees for use permits or variances;  (g) Loan interest;  (h) Vendor rebates, discounts and refunds;  (i) Service contracts;  (j) Cost of moving a used AED from one site to another;  (k) Cost of repair or resale of a system;  (L) Any part of the purchase price which is optional, such as an extended warranty;  (m) Support structures beyond the mounting or racking hardware necessary for securing equipment; or  (n) Labor for installation, except for solar photovoltaic, fuel cell, wind, solar radiation and sealed duct systems.  [ED. NOTE: Tables referenced are not included in rule text.]  [Tables: Tables referenced are available from the agency.] 
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 469.040; 469B.103; 316.116 
+ 
+ 
+ Statutes/Other Implemented:  ORS 469B.100–469B.118 & 316.116 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 8-2016, f. 12-29-16, cert. ef. 1-1-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 3-2016, f. & cert. ef. 6-2-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 6-2015, f. 11-9-15, cert. ef. 1-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 4-2015, f. & cert. ef. 10-5-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 8-2014, f. 11-18-14, cert. ef. 1-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 8-2013, f. 12-27-13, cert. ef. 1-1-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 14-2012, f. 12-26-12, cert. ef. 1-1-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 11-2011, f. 12-16-11, cert. ef. 1-1-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 16-2010, f. & cert. ef. 12-22-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 7-2010(Temp), f. & cert. ef. 7-1-10 thru 12-28-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 4-2007, f. 11-30-07, cert. ef. 12-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 2-2005, f. 12-30-05, cert. ef. 1-1-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 1-2004, f. & cert. ef. 1-21-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 2-2001, f. 10-5-01, cert. ef. 10-8-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 1-1999, f. 12-21-99, cert. ef. 1-1-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 1-1997, f. 12-15-97, cert. ef. 1-1-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 1-1996, f. & cert. ef. 4-1-96 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 2-1989, f. 12-28-89, cert. ef. 1-1-90 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 4-1987, f. 12-18-87, ef. 1-1-88 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 1-1986, f. & ef. 2-7-86 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

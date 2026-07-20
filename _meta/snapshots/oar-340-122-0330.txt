@@ -1,0 +1,277 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 122 HAZARDOUS SUBSTANCE REMEDIAL ACTION RULES 
+ 340-122-0330 
+ Cleanup Rules for Leaking Petroleum UST Systems: Evaluation Parameters
+ 
+ 
+ The site-specific parameters are to be scored as specified in this section. If any of the parameters in sections (1)–(5) of this rule is unknown, that parameter must be given a score of ten: 
+
+ (1) Depth to Groundwater: This is the vertical distance (rounded to the nearest foot) from the surface of the ground to the highest seasonal elevation of the saturated zone. The score for this parameter is: 
+
+ (a) > 100 feet, 1; 
+
+ (b) 51-100 feet, 4; 
+
+ (c) 25-50 feet, 7; 
+
+ (d) < 25 feet, 10. 
+
+ (2) Mean Annual Precipitation: This measurement may be obtained from the nearest appropriate weather station. The score for this parameter is: 
+
+ (a) < 20 inches, 1; 
+
+ (b) 20-45 inches, 4; 
+
+ (c) > 45 inches, 10. 
+
+ (3) Native Soil or Rock Type: The score for this parameter is: 
+
+ (a) Low permeability materials such as clays, silty clays, compact tills, shales, and unfractured metamorphic and igneous rocks, 1; 
+
+ (b) Moderate permeability materials such as fine and silty sands, sandy loams, loamy sands, and clay loams; moderately permeable limestones, dolomites and sandstones; and moderately fractured igneous and metamorphic rocks, 5; 
+
+ (c) High permeability materials such as sands and gravels, highly fractured igneous and metamorphic rocks, permeable basalts and lavas, and karst limestones and dolomites, 10. 
+
+ (4) Sensitivity of the Uppermost Aquifer: Due to the uncertainties involved in the Matrix evaluation process, this factor is included to add an extra margin of safety in situations where critical aquifers have the potential to be affected. The score for this parameter is: 
+
+ (a) Unusable aquifer, either due to water quality conditions such as salinity, etc.; or due to hydrologic conditions such as extremely low yield, 1; 
+
+ (b) Potable aquifer not currently used for drinking water, but the quality is such that it could be used for drinking water, 4; 
+
+ (c) Potable aquifer currently used for drinking water; alternate unthreatened sources of water readily available, 7; 
+
+ (d) Sole source aquifer currently used for drinking water; there are no alternate unthreatened sources of water readily available, 10. 
+
+ (5) Potential Receptors: The score for potential receptors is based on both the distance to the nearest well and also the number of people at risk. Each of these two components is to be evaluated using the descriptors defined in this section: 
+
+ (a) The distance to the nearest well is measured from the area of contamination to the nearest well that draws water from the aquifer of concern. If a closer well exists which is known to draw water from a deeper aquifer, but there is no evidence that the deeper aquifer is completely isolated from the contaminated aquifer, then the distance must be measured to the closer, deeper well. The distance descriptors are: 
+
+ (A) Near, < 1/2 mile; 
+
+ (B) Medium, 1/2-2 miles; 
+
+ (C) Far, > 2 miles. 
+
+ (b) The number of people at risk is to include all people served by drinking water wells which are located within two miles of the contaminated area. For public wells, count the number of users listed with the Oregon Health Division, Drinking Water Systems Section. For private wells, assume three residents per well. In lieu of a door-to-door survey of private wells, it may be assumed that there is one well per residence. The number descriptors are: 
+
+ (A) Many, > 3000; 
+
+ (B) Medium, 100-3000; 
+
+ (C) Few, < 100. 
+
+ (c) The score for this parameter is taken from the combination of the two descriptors using the following grid: [NOTE: View a PDF of the Grid by clicking on "Tables" link below.] 
+
+ (6) The Matrix Score for a site is the sum of the five parameter scores in sections (1)–(5) of this rule. 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 465.400 & 466.746 
+ 
+ 
+ Statutes/Other Implemented:  ORS 465.200 - 465.455 & 466.706 - 466.835 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 13-2019, amend filed 05/16/2019, effective 05/16/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 3-2008, f. 2-29-08, cert. ef. 3-10-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 23-1998, f. & cert. ef. 11-2-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 46-1990, f. 12-26-90, cert. ef. 3-1-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 15-1989, f. & cert. ef. 7-28-89 (and corrected 8-3-89) 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

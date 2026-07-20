@@ -1,0 +1,227 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Secretary of State 
+ Corporation Division - Chapter 160 
+ 
+ 
+ 
+ 
+ Division 100 NOTARIES PUBLIC 
+ 160-100-0805 
+ Credential Analysis and Authentication for Remote Online Notarization 
+ 
+ (1) The requirement for at least two different types of identity proofing under ORS 194.240 is satisfied if the notary public identifies a remotely located individual in accordance with the requirements of this section. 
+
+ (2) Credential analysis must be provided by a reputable third-party remote online notarization vendor or software tool that can demonstrate proven credential analysis processes and shall employ technology that provides the following: 
+
+ (a) The signer’s identity must be linked to the signer following successful knowledge-based authentication; and 
+
+ (b) Remote online notarization shall provide for human visual comparison between the signer and the signer's identification presented to the notary. 
+
+ (3) Remote online notarization providers shall use an automated software process to aid the notary in verifying each signer's identity. 
+
+ (a) The identification shall pass an authenticity test that: 
+
+ (A) Uses appropriate technologies to confirm the integrity of visual, physical or cryptographic security features; 
+
+ (B) Uses appropriate technologies to confirm that the identification is not fraudulent or inappropriately modified; 
+
+ (C) Uses information held or published by the issuing source or authoritative source, as available, to confirm the validity of the identification details; and, 
+
+ (D) Provides the result of the authenticity test to the notary. 
+
+ (b) The credential analysis procedure shall enable the notary to visually compare the following for consistency: 
+
+ (A) The information and photo on the identification image presented; and 
+
+ (B) The signer as viewed by the notary in real time through the audio/video system. 
+
+ (c) If the notary public is unable to validate the identification of the signer, or to match the signer's physical features with the credential, the notary public shall not complete the notarial act.  
+
+ (d) The identification shall meet the requirements of ORS 194.240 
+
+ (e) All identification images necessary to perform visual inspection and credential analysis shall be captured and the notary shall confirm that: 
+
+ (A) The signer is in possession of the identification at the time of the notarial act; 
+
+ (B) The identification images submitted for credential analysis have not been manipulated; and 
+
+ (C) The identification images match the identification in the signer's possession. 
+
+ (f) The following general principles shall be considered in the context of image resolution: 
+
+ (A) Image resolution shall be sufficient for the issuing source or authoritative source to perform credential analysis per the requirements above; and 
+
+ (B) Image resolution shall be sufficient to enable visual inspection by the notary, including legible text and clarity of photographs, barcodes, and other identification features; and 
+
+ (4) Knowledge-based authentication procedure must meet the following requirements: 
+
+ (a) Each signer must answer questions and achieve a passing score. The procedure must include: 
+
+ (A) Five multiple choice questions, drawn from public or private data sources. 
+
+ (B) A minimum of five possible answer choices per question. 
+
+ (C) Require that 80% of the questions are correctly answered within two minutes by the signer. 
+
+ (b) Each signer is to be provided a reasonable number of attempts per signing session. 
+
+ (A) If a signer fails their first quiz, they may attempt up to two additional quizzes within 48 hours from the first failure. 
+
+ (B) During any quiz retake, a minimum of 40% (2) of the prior questions shall be replaced. 
+
+ (c) If biometric sensing technologies are used for remote online notarization in the areas of authentication, credential analysis, and identity proofing verification may include facial, voice, and fingerprint recognition. 
+
+ (5) If a signer exits the notarial act during the notarial act, they shall restart the credential analysis and knowledge-based authentication workflow from the beginning. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 194.360 
+ 
+ 
+ Statutes/Other Implemented:  HB 4212 (2020) 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CORP 1-2021, adopt filed 02/18/2021, effective 02/18/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

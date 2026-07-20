@@ -1,0 +1,191 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Building Codes Division - Chapter 918 
+ 
+ 
+ 
+ 
+ Division 251 ELECTRICAL AND ELEVATOR ADMINISTRATION AND DEFINITIONS 
+ 918-251-0090 
+ Board-Created Definitions 
+ 
+ For purposes of OAR chapter 918, divisions 251 through 311, unless otherwise specified, the following apply:  (1) "Appliance" as applied to the limited maintenance specialty contractor license established by ORS 479.630, means any built-in or permanently-connected electrical utilization equipment, not including lighting fixtures, other than industrial, that is installed or connected as a unit to perform one or more functions such as clothes washing, air conditioning, food mixing, deep frying, etc.  (2) "Approved" when referring to electrical product certification means approved in Oregon or for Oregon by the Electrical and Elevator Board.  (3) "Balance of system" as it relates to renewable electrical energy systems are those products, equipment, and systems for the conversion, control and storage of electrical energy.  (4) "Board" means Electrical and Elevator Board.  (5) "Building" means a structure that stands alone or that is isolated from adjoining structures by area separation walls as identified in Chapter 7 of the Oregon Structural Specialty Code adopted in OAR chapter 918, division 460, with all openings therein protected by approved fire doors as required.  (6) "Certification Mark" is identification on an electrical product indicating that the product has been certified under ORS 479.760.  (7) "Certified Electrical Product" is an electrical product certified under ORS 479.760 to which a label or other identifying mark.  (8) "Continuously Employ" means a person, including a person leased from a worker leasing company licensed under ORS 656.850, during time periods when electrical work for which they are responsible is performed, devotes their entire time of employment to tasks of supervising, designing, laying out, planning, controlling, and making electrical installations for the electrical contractor for which the supervisor is registered as signing supervisor.  (9) "Custom Made" means electrical products that are designed for a specific purpose and location.  (10) "Document" means prepare records itemizing what was checked, why it was checked, when it was done, how it was checked, what was determined, and who did the work.  (11) "Electrical Specialty Code" means the National Electrical Code with Oregon amendments.  (12) "Electrical Specialty Code Inspector," formerly referred to as "A-Level Electrical Inspector," is a person certified to inspect under the Oregon Electrical Specialty Code.  (13) "Energy generation," as it relates to renewable electrical energy generation equipment, are those products, equipment, and systems in renewable electrical energy systems that produce or convert electrical energy.  (14) "Engineer" is an individual who has completed a minimum four-year degree program in electrical engineering or electrical technology with power specialty, from an accredited college or university and has received a Bachelor of Science degree.  (15) "Field Evaluation" means the evaluation of electrical products by an approved field evaluation firm.  (16) "Indorsement" is a designation within the restricted energy electrical area showing qualifications and training regarding a product area. It determines the scope of restricted energy electrical activity authorized under a restricted energy electrical license.  (17) "Industrial Electronic Equipment" means a device, appliance, motor, or machine regulated, operated, or controlled through fiber optics or by a combination of electron tubes, capacitors, resistors, impedance transformer, and relays; the control circuit, and/or the power circuits having electrons flowing through a vacuum, metallic vapor, gas tubes, or transistors as used in an industrial plant.  (18) "Industrial Plant", for purposes of licensing and electrical master permit inspection program, means an establishment engaged in industrial production, or service, or a school, hospital, sewer plant, water plant, commercial office building, building occupied by the state or a local government entity, or an institution. For purposes of the elevator program, "industrial plant" does not include a school, hospital, commercial office building, building occupied by the state or a local government entity, or an institution where the elevators are accessible to and used by persons other than the employees of that building.  (19) "Installation" includes external and field wiring, service contracts or warranties by the seller or manufacturer concerning the longevity of the equipment or parts after the original installation. It does not include "start-up" activities where new equipment is placed in service, and that type of work related to delivering and setting in place a piece of machinery.  (20) "Inverter", as it relates to renewable electrical energy generation equipment, is a product, equipment or system that converts direct current into alternating current.  (21) "Jurisdictional Inspector" is a state or municipal inspector having inspection responsibility within their jurisdiction over electrical products or their installation, or both.  (22) "Labeled" means a label, symbol or other identifying mark of a Nationally Recognized Testing Laboratory (NRTL), field evaluation firm or the division that is attached to an electrical product indicating the product is manufactured according to approved standards and tested or evaluated for specific end uses or both.  (23) "Lighting Fixture" is a complete lighting unit consisting of a lamp or lamps together with the parts designed to distribute the light, to position and protect the lamps, and to connect the lamp to the power supply.  (24) "Limited Energy System" means those systems that include Class 1, Class 2 or Class 3 systems as defined by Section 725.2 of NFPA 70 (National Electrical Code) and audio systems, communication systems and power-limited fire alarm systems, covered in the Oregon Electrical Specialty Code.  (25) "Listed Product" means a product was examined and accepted by a Nationally Recognized Testing Laboratory (NRTL) to meet a particular product standard and]is maintained on a list of the listing laboratory.  (26) "Maintain" means to preserve electrical equipment in a good sound condition.  (27) "Maintenance" Compare with repair, replacement, and maintain for definition.  (28) "Minimum Electrical Installation Safety Code" means the adopted Oregon Electrical Specialty Code.  (29) "Nationally Recognized Testing Laboratory (NRTL)" means a laboratory recognized by the Federal Occupational Safety and Health Administration (OSHA) under 29 CFR 1910.7.  (30) "NEMA" means the National Electrical Manufacturers Association.  (31) "Off grid system" is a stand-alone system, connected to a structure, whose electrical systems are not connected to a utility-supplied electrical production and distribution network.  (32) "On grid system" is an electrical power system connected to a structure whose electrical systems are also connected to a utility-supplied electrical production and distribution network.  (33) "Plug-in Replacement" is a part, component or assembly designed to be inserted directly into a mating receptacle or socket such as printed circuit boards, control relays, control harnesses or other equipment connected by a cord or cable and plug assembly. A plug-in replacement does not have any field wiring that is connected to the plug-in part or assembly.  (34) "Power Circuitry" means that portion of the system, other than control, that provides electrical power to utilization equipment.  (35) "Registered Professional Electrical Engineer" is an individual licensed by the State of Oregon Board of Engineering Examiners as a professional electrical engineer under OAR chapter 820, division 10.  (36) "Renewable Electrical Energy System" as it relates to electrical energy generation, is the total components and subsystems that, in combination, convert wind energy, solar energy, micro-hydroelectricity, photovoltaic energy or fuel cell energy into electrical energy suitable for connection to a utilization load.  (37) "Repair" means to restore worn or damaged parts to a good, sound condition by means other than replacement.  (38) "Replacement" means substitution of complete units of damaged or worn equipment with similar new or used equipment of a size and rating that does not exceed the design capacity of the existing product.  (39) "Signing Supervising Electrician" or "Signing Supervisor" is a licensed supervising electrician who has been authorized by the electrical contractor to sign permits.  (40) "Similar Equipment," as applied to the limited maintenance specialty contractor license established by ORS 479.630(12), means components of light fixtures other than ballasts.  (41) "Special Deputy" means a person certified by the board or Chief Electrical Inspector to perform special deputy inspections allowed under ORS 479.760.  (42) "Stand-alone system" is a renewable electrical energy system that supplies power independently of an electrical production and distribution network.  (43) "Up to the load side of the inverter", as it relates to electrical energy generation equipment, is the renewable electrical energy system equipment up to the alternating current connection terminals of the inverter.  [Publications: Publications referenced are available from the agency.] 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 479.630 
+ 
+ 
+ Statutes/Other Implemented:  ORS 479.730 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BCD 12-2014, f. 9-30-14, cert. ef. 10-1-14 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ BCD 21-2011, f. 7-26-11, cert. ef. 10-1-11 
+BCD 4-2011, f. & cert. ef. 3-11-11 
+BCD 5-2010, f. 5-14-10, cert. ef. 7-1-10 
+BCD 3-2007, f. 3-30-07, cert. ef. 4-1-07 
+BCD 4-2004, f. 3-31-04, cert. ef. 4-1-04 
+BCD 15-2003, f. & cert. ef. 10-1-03 
+BCD 12-2003(Temp), f. & cert. ef. 6-24-03 thru 10-31-03 
+BCD 34-2002, f. 12-20-02, cert. ef. 1-1-03 
+BCD 23-2002, f. 9-13-02 cert. ef. 10-1-02 
+BCD 21-2002(Temp), f. 8-30-02, cert. ef. 9-1-02 thru 2-27-03 
+BCD 9-2002, f. 3-29-02, cert. ef. 4-1-02 
+BCD 23-2001(Temp), f. 12-28-01, cert. ef. 1-1-02 thru 6-29-02 
+BCD 5-2001, f. 6-7-01, cert. ef. 7-1-01 
+BCD 23-2000, f. 9-29-00, cert. ef. 10-1-2000 
+BCD 4-1999, f. & cert. ef. 4-1-99 
+BCD 19-1996, f. 9-17-96, cert. ef. 10-1-96, Renumbered from 918-260-0005 
+BCA 44-1991, f. & cert. ef. 12-26-91 
+DC 10-1982, f. & cert. ef. 3-1-82, Renumbered from 814-022-0105 
+DC 12-1981, f. 9-29-81, cert. ef. 10-1-81 
+DC 10-1972, f. 4-13-72, cert. ef. 5-1-72 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

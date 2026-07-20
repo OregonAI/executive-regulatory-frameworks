@@ -1,0 +1,173 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Oregon Occupational Safety and Health Division - Chapter 437 
+ 
+ 
+ 
+ 
+ Division 2 GENERAL OCCUPATIONAL SAFETY AND HEALTH RULES 
+ 437-002-2102 
+ Acetylene 
+ 
+ (1) Cylinders.  (a) Employers must ensure that the manufacturing, in-plant transfer, transportation, handling, storage, and use of acetylene in cylinders comply with this rule and the provisions of Compressed Gas Association (CGA) Pamphlet G-1-2009 (“Acetylene”) (Compressed Gas Association, Inc., 12th ed., 2009).  (b) Definitions.  (A) Confined space: A space that meets all of the following:  (i) Large enough and configured so that an employee can fully enter the space and perform work.  (ii) Has limited or restricted means for entry and/or exit.  (iii) Is not designed for continuous human occupancy.  (B) Enclosed space — Spaces that are surrounded by something, and the only openings are access openings, for example, drawers, closets, unventilated cabinets, automobile trunks, unventilated cylinder compartments, or toolboxes.  (C) Handling – Moving, connecting, or disconnecting a compressed gas container under normal conditions.  (D) PSIG (Gauge Pressure) — Pressure above or below local atmospheric pressure displayed as pounds per square inch.  (E) Secure — Arrange to prevent movement (including lashing and chaining), or a minimum of three points of contact with other cylinders or walls.  (F) Use — Withdrawing and using the gas in a non-recoverable manner for applications other than manufacturing or repackaging of compressed gasses.  (c) Acetylene Cylinders General Requirements.  (A) You must:  (i) Store and use cylinders valve end up.  NOTE: Gas suppliers and distributors may store secured containers in a horizontal position.  (ii) Secure cylinder(s) to prevent falling or movement.  (iii) Use a cylinder cart or cylinder pallet to move acetylene cylinders.  NOTE: This rule does not apply to acetylene fill plants, handling, distribution, and maintenance processes where cylinders are tilted and rolled on their bottom edge only the minimal distance necessary to get them on and off carts or pallets.  (iv) Attach the cylinder to a pressure reducing regulator or blow back manifold before opening the cylinder valve.  (v) Remove pressure regulators before moving cylinders unless they are secured in an upright position on a cylinder cart.  (vi) Back out regulator adjusting screws before opening cylinder valves.  (vii) Protect cylinders from contact with welding spatters and cutting or burning slag.  (viii) Install reverse flow check valves and flashback arresters according to manufacturer recommendation.  (B) You must not:  (i) Drop cylinders.  (ii) Drag cylinders.  (iii) Apply a torch to the side of a cylinder.  (iv) Hoist cylinders using lifting magnets, slings, ropes, chains, or any other device where the cylinders form a part of the carrier.  (v) Handle cylinders so that the bottom fusible metal pressure relief device can strike an object.  (vi) Expose any part of your body to the line of discharge of a fusible metal pressure relief device.  (vii) Use acetylene at a pressure exceeding 15 psig.  (viii) Exceed an acetylene withdrawal rate of one-seventh of the cylinder capacity per hour for welding, cutting, and allied processes.  (d) Transporting Acetylene Cylinders (additional requirements).  (A) You must protect cylinders and attached regulators:  (i) From damage when being transported by any vehicle.  (ii) From abnormal mechanical shock that is likely to damage the cylinder, valve, or fusible metal pressure relief device.  (B) You must not transport cylinders in enclosed spaces.  (C) You must ensure that cylinders are leak checked prior to each placement into the vehicle. Cylinders left in vehicles overnight must be leak checked at the end of the day and again prior to transporting.  (e) Acetylene Cylinder Storage.  (A) You must store cylinders:  (i) In assigned locations.  (ii) In areas posted with signs prohibiting smoking and open flame.  (iii) In well-ventilated locations.  (iv) Away from heat sources.  (v) Where they are protected from corrosion.  NOTE: Cylinders with or without regulators, kept in or on vehicles due to their frequency of use will not be considered as stored when a leak test is performed at the end of the day. When cylinders are used during multiple shifts, they must be leak tested at the end of each shift.  (B) You must not store cylinders:  (i) Where they contact electrical welding equipment or electrical circuits.  NOTE: All high and low pressure cylinders in contact with or secured to a conductive table or column without being isolated from electrical current can become part of an electrical circuit.  (ii) Where they can be struck by heavy objects.  (iii) In enclosed spaces.  (iv) In confined spaces.  (v) Within 20 feet of oxygen unless they are separated by a noncombustible partition. Partitions must:  (I) vertically extend at least 18 inches above the tallest container and not less than 5 feet.  (II) laterally extend at least 18 inches beyond the sides of the containers.  (III) have a fire resistance rating of at least one-half hour.  NOTE 1: (paragraph (1)(e)(B)(v)): Single cylinders of acetylene and oxygen can be stored secured on a cart or used adjacent to each other without a partition.  NOTE 2: (paragraph (1)(e)(B)(v)): Single cylinders of acetylene and oxygen secured at a work station without attached pressure reducing regulators are considered to be in use.  (vi) With full and empty cylinders grouped together.  NOTE: (paragraph (1)(e)(B)(vi)): This does not apply to the cylinder distribution process.  (f) Connecting and Disconnecting Acetylene Cylinders for Use.  (A) You must:  (i) Return cylinders with contaminated valves (mud, oil, grease, and similar material) to the supplier.  (ii) Secure the cylinder(s) where it can not contact any electrical circuit or electrical welding equipment.  NOTE: All high and low pressure cylinders in contact with or secured to a conductive table column without being isolated from electrical current can become part of an electrical circuit.  (iii) Inspect hoses before each shift.  (iv) Remove damaged hoses from service.  (v) Check pressurized cylinder valves, fuse plugs and all connections for leaks prior to use.  (vi) Use industry approved leak detection solution or oil free soapy water.  (vii) Notify the gas supplier of any leaking cylinder and follow the supplier’s instruction for returning the cylinder.  (viii) Back out the regulator adjusting screws before opening cylinder valves.  (ix) Close the system valves and release all gas from the regulators before removing the regulator from a cylinder.  (x) Keep the cylinder key used for opening the cylinder valve on the valve spindle when the cylinder is in use.  (B) You must not attempt to repair or alter cylinders or valves.  (2) Piped Systems.  (a) Employers must comply with Chapter 9 (“Acetylene Piping”) of NFPA 51A-2006 (“Standard for Acetylene Charging Plants”) (National Fire Protection Association, 2006 ed., 2006).  (b) When employers can demonstrate that the facilities, equipment, structures, or installations used to generate acetylene or to charge (fill) acetylene cylinders were installed prior to February 16, 2006, these employers may comply with the provisions of Chapter 7 (“Acetylene Piping”) of NFPA 51A-2001 (“Standard for Acetylene Charging Plants”) (National Fire Protection Association, 2001ed., 2001).  (c) The provisions of 437-002-2102(2)(b) also apply when the facilities, equipment, structures, or installation used to generate acetylene or to charge (fill) acetylene cylinders were approved for construction or installation prior to February 16, 2006, but constructed and installed on or after that date.  (d) For additional information on acetylene piping systems, see CGA G-1.2-2006, Part 3 (“Acetylene piping”) (Compressed Gas Association, Inc., 3rd ed., 2006).  (3) Generators and filling cylinders.  (a) Employer must ensure that facilities, equipment, structures, or installations used to generate acetylene or to charge (fill) acetylene cylinders comply with the provisions of NFPA 51A-2006 (“Standard for Acetylene Charging plants”) (National Fire Protection Association, 2006 ed., 2006).  (b) When employers can demonstrate that the facilities, equipment, structures, or installations used to generate acetylene or to charge (fill) of acetylene cylinders were constructed or installed prior to February 16, 2006, these employers may comply with the provisions of NFPA 51A-2001 (“Standard for Acetylene Charging Plants”) (National Fire Protection Association, 2001 ed., 2001).  (c) The provisions of 437-002-2102(3)(b) also apply when the facilities, equipment, structures, or installation were approved for construction or installation prior to February 16, 2006, but constructed and installed on or after that date. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 654.025(2) & 656.726(4) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 654.001 - 654.295 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSHA 6-2014, f. 10-28-14, cert. ef. 5-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OSHA 1-2010, f. & cert. ef. 2-19-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

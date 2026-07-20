@@ -1,0 +1,434 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 256 MOTOR VEHICLES 
+ 340-256-0380 
+ Emission Control System Inspection: Light Duty Motor Vehicle Emission Control Test Criteria for Basic Program 
+ 
+ This rule documents the Basic Test criteria for light duty motor vehicles. 
+
+ (1) A vehicle emission control test is not valid if the vehicle exhaust system leaks in such a manner as to dilute the exhaust gas being sampled by the gas analytical system. For the purpose of the emission control tests conducted at state facilities, except for diesel motor vehicles, tests are invalid if the exhaust gas is diluted to such an extent that the sum of the CO and CO2 concentrations recorded for the idle speed reading from an exhaust outlet is six percent or less, and, on 1975 and newer model year vehicles with air injection systems, seven percent or less. 
+
+ (2) A vehicle emission control test is not valid if the engine idle speed exceeds the manufacturer's idle speed specifications by over 200 RPM. 
+
+ (3)(a) A vehicle emission control test for a 1975 or newer model year vehicle is not valid if the gas cap or catalyst has been disconnected, plugged, or otherwise made inoperative in violation of ORS 815.305(1), except as noted in ORS 815.305(2) or as provided for by 40 CFR 85.1701–1709 (published July 1, 2003). 
+
+ (b) DEQ may provide alternative criteria for those required under subsection (a) of this section if it determines that the component or an acceptable alternative is unavailable. 
+
+ (c) The use of a non-original equipment aftermarket part (including a rebuilt part) as a replacement part is not a violation of ORS 815.305 if DEQ determines that such use will not adversely affect emission control efficiency. 
+
+ (d) The use of a non-original equipment aftermarket part or system as an add-on, auxiliary, augmenting, or secondary part of system, is not a violation of ORS 815.305 if such part or system has an Executive Order granted by the California Air Resources Board, is on the U.S. Environmental Protection Agency’s list of "Certified to EPA Standards," and DEQ has determined after reviewing testing data that there is no decrease in the efficiency or effectiveness in the control of air pollution; 
+
+ (e) Adjustments or alterations of particular part or system parameter, if done for purposes of maintenance or repair according to the vehicle or engine manufacturer's instructions, are not violations of ORS 815.305. 
+
+ (4) A 1981 or newer model year vehicle that has been converted to operate on gaseous fuels is not in violation of ORS 815.305 when elements of the factory-installed motor vehicle air pollution control system are disconnected for the purpose of conversion to gaseous fuel as authorized by ORS 815.305. 
+
+ (5) For a 1975 through 1980 model year vehicle in which the original engine has been replaced, if either the vehicle body or chassis original engine (per registration or title) or replacement engine (as manufactured) had a catalytic converter system, it must be present, intact, and operational before DEQ may issue a Certificate of Compliance. 
+
+ (6) For a 1981 or newer model year vehicle in which the original engine has been replaced, the emission test standards and applicable emissions control equipment for the year, make, and model of the vehicle body or chassis (per registration or title) or replacement engine, whichever is newer, apply. For those diesel powered vehicles that have been converted to operate on gasoline or gasoline equivalent fuel(s), the emission test standards and applicable emission control equipment for the year, make, and model of the gasoline equivalent powered engine as originally manufactured, for the vehicle body or chassis (per the registration) or replacement engine, whichever is newer, apply. 
+
+ (7) For those vehicles registered or titled as a 1981 or newer model year that were assembled by other than a licensed motor vehicle manufacturer, such as an Assembled, Reconstructed, or Replica Vehicle, DEQ personnel must determine the applicable emission test standards based upon the vintage of the vehicle engine. The year of the engine is presumed to be that stated by the vehicle owner, unless DEQ personnel determine, after physical inspection, that the year of the engine is other than that stated by the owner. 
+
+ (8) An imported nonconforming motor vehicle that has been imported under a certificate of conformity or modification/test procedure under 40 CFR Part 85, Subpart P, or has been granted an exemption under 40 CFR § 85.1511, must comply with the emission control equipment requirements of such certificate or procedure. 
+
+ [NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468A.360 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468A.350 - 468A.385 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 21-2020, amend filed 11/19/2020, effective 11/19/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 166-2018, minor correction filed 04/12/2018, effective 04/12/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 7-2005, f. & cert. ef. 7-12-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-024-0320 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 25-1996, f. & cert. ef. 11-26-96 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 15-1994, f. 6-8-94, cert. ef. 7-1-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 16-1993, f. & cert. ef. 11-4-93 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 4-1993, f. & cert. ef. 3-10-93 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 21-1988, f. & cert. ef. 9-12-88 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 12-1985, f. & ef. 9-30-85 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 6-1985, f. & ef. 5-1-85 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 19-1983, f. 11-29-83, ef. 12-31-83 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 12-1982, f. & ef. 7-21-82 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 18-1980, f. & ef. 6-25-80 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 6-1980, f. & ef. 1-29-80 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 22-1979, f. & ef. 7-5-79 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 9-1978, f. & ef. 7-7-78 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 139, f. 6-30-77, ef. 7-1-77 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 121, f. & ef. 9-3-76 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 116(Temp), f. & ef. 7-27-76 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 89, f. 4-22-75, ef. 5-25-75 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

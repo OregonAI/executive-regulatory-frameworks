@@ -1,0 +1,173 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 150 UNDERGROUND STORAGE TANK RULES 
+ 340-150-0410 
+ Release Detection Requirements and Methods for Underground Piping 
+ 
+ (1) For underground piping that routinely contains a regulated substances, an owner and permittee of a petroleum UST system must provide release detection which meets the requirements of this rule.  (2) Pressurized piping. For underground piping that conveys regulated substances under pressure, an owner and permittee must insure that the piping is equipped with an automatic line leak detector that alerts an owner and permittee to the presence of a leak by restricting or shutting off the flow of regulated substances through underground piping or by triggering an audible or visual alarm. Interstitial monitoring sensor systems or stand alone "sump" sensors are not an acceptable alternative for a line leak detector. In addition,  (a) The line leak detector must be approved by a national organization (e.g., the National Work Group on Leak Detection);  (b) The line leak detector must be capable of detecting a leak of three gallons per hour at ten pounds per square inch line pressure within one hour; and  (c) An annual test of the operation of the line leak detector must be conducted in accordance with the manufacturer's requirements.  (3) In addition to the requirements of section (2) of this rule, an owner and permittee with pressurized piping must conduct an annual line tightness test that can detect a 0.1 gallon per hour leak rate at one and one-half times the operating pressure. Interstitial monitoring sensors may replace the annual line tightness test if:  (a) The equipment is designed, constructed and installed to monitor all portions of the underground piping that routinely contains a regulated substance; and  (b) The requirements for interstitial monitoring (OAR 340-150-0465) are met.  (4) Suction piping. For underground piping that conveys a regulated substance under suction (i.e., piping that operates at less than atmospheric pressure), an owner and permittee must check the piping for the presence of air in the pipeline in accordance with the National Fire Protection Association standard NFPA, 329 "Recommended Practices for Handling Releases of Flammable and Combustible Liquids and Gases" Chapter 5, Release Detection of Tanks and Piping, subsection 5-2.3.2(b), if any of the following indicator conditions are observed by any person dispensing a regulated substance:  (a) If there are indications of air in the pipeline or other unusual operating conditions are observed (refer to National Fire Protection Association standard NFPA, 329 subsection 5-2.3.2(a) for specific indicators), the pipeline check valve should be inspected to determine if it is seated tightly. The check valve must be repaired, replaced or sealed off as appropriate depending on the results of the inspection; and  (b) The requirements of OAR 340-150-0350 through 340-150-0354 must be met for any repair, modification or replacement actions taken to correct a problem.  (5) In addition to the requirements of section (4) of this rule, an owner and permittee of suction piping must conduct a line tightness test at least once every three years in accordance with manufacturers requirements.  (6) Release detection is not required for suction piping that is designed and constructed to meet the following standards:  (a) The below grade underground piping operates at less than atmospheric pressure;  (b) The below grade underground piping is sloped so that the contents of the pipe will drain back into the UST if the suction is released;  (c) Only one check valve is present in each suction line;  (d) The check valve is located directly below and as close as practical to the suction pump; and  (e) A method is provided that allows the department to readily determine compliance with this section of the rule.  (7) In lieu of conducting line tightness tests on either pressurized or suction piping, an owner and permittee may conduct monthly monitoring by one of the applicable release detection methods described in OAR 340-150-0450 through 340-150-0470, if the method is designed to detect a release from any portion of the underground piping that routinely contains a regulated substance.  (8) An owner and permittee must retain at a minimum the last completed line test, line leak detector test or the most current 12 consecutive months of release detection records for piping.  (9) An owner and permittee must report to the department any leak test results or other observations or results indicating the possibility of a release within 24 hours as a suspected release (OAR 340-150-0500) and immediately begin investigation in accordance with 340-150-0510.  [Publications: Publications referenced are available from the agency.] 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 466.706 - 466.835, 466.994 & 466.995 
+ 
+ 
+ Statutes/Other Implemented:  ORS 466.746 & 466.765 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 3-2008, f. 2-29-08, cert. ef. 3-10-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 6-2003, f. & cert. ef. 2-14-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

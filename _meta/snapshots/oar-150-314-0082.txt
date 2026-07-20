@@ -1,0 +1,223 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 314 INCOME TAXATION GENERALLY  GENERAL PROVISIONS 
+ 150-314-0082 
+ Modified Factors for Companies Engaged in Sea Transportation Service
+ 
+ 
+ (1) Sea transportation services within this rule include the activities of steamship companies substantially engaged in interstate or international commerce which derive income within and partly from sources without the state. They do not include the activities of water transportation carriers operating mainly on the Columbia and Willamette Rivers or water transportation carriers operating primarily within Oregon waters. 
+
+ (2) The Oregon income of a taxpayer carrying on the business of sea transportation services must be determined pursuant to ORS 314.610 to 314.665 except as modified by this rule. Apportionable income is apportioned to this state by use of the formula provided in ORS 314.650 as it applies to the tax year involved. For tax years beginning on or after July 1, 2005, ORS 314.650 provides for apportionment using only the sales factor. 
+
+ (a) Property factor. The property factor is a fraction, the denominator of which includes the value of all real and tangible personal property, including ships owned, rented or leased by the taxpayer and used in the business. The numerator of this factor includes all real and personal property owned, rented, or leased by the taxpayer and used in the business, except ships, to the extent such assets are located in the state, and so much of the value of ships used in the business as is determined by applying the ratio that the voyage time which the ship was within this state during the tax period bears to the total voyage time of the ship during the tax period. 
+
+ (A) The value of ships used in the business but not owned by the user, such as bareboat chartered vessels, is the same as their value for insurance purposes. There are generally three types of charters. 
+
+ (i) “Bareboat” charters. The owner-charterer places the tanker at the complete use and control of the user. All operating costs are borne by the user, and the charter fee is purely for the use of the vessel. Bareboat charters are included in the property factor. 
+
+ (ii) “Time and Demise” (long-term) charters. The owner-charterer provides, in addition to the vessel, all operational costs at the instruction of the user. Time and demise charter fees include a component for operating costs borne by the owner-charterer, such as insurance, port and docking fees, crew and master wages, fuel, and repairs. Time and demise charters are considered the purchase of transportation and are not included in the property factor. 
+
+ (iii) “Single Voyage” charters. These are actually purchased transportation services that take the form of a charter. The owner-charterer has complete use and control of the vessel and merely contracts to deliver product between one or more ports of loading and discharge. Single voyages may be arranged on a consecutive voyage basis. Single voyage charters are not included in the property factor. 
+
+ (B) Other rented or leased property is valued in the manner set out in ORS 314.655 and OAR 150-314-0400. 
+
+ (C) The term “voyage time” means the time that a ship is in operation for the purpose of transporting cargo, freight, mail, passengers, etc. The time that a ship is in operation includes all sailing time, even though a ship is returning empty or is en route to a port of call to load passengers or cargo, all time in port while loading and unloading, all time awaiting cargo, and all time that the ship is laid up for ordinary repairs, refueling, or provisioning. A ship is not in operation when out of service or during the time that it is laid up for extensive repairs, overhaul, modification, or is in dry dock. 
+
+ (D) The voyage time spent traveling on the Columbia River below mile post 309 is divided equally between Oregon and Washington. For purposes of this rule a vessel is not considered traveling on the Columbia River while remaining at a port even though the vessel moves from one terminal or dock to another within that port. 
+
+ Example: Taxpayer A uses minutes to measure voyage time. The following table shows the vessel’s actions and the time attributable to Oregon between actions. [See PDF link below.] 
+
+ (b) Payroll factor. The denominator of the payroll factor is the total compensation paid everywhere by the taxpayer during the tax period for the production of apportionable income (ORS 314.660 and OAR 150-314-0415). The numerator of the payroll factor is the total amount paid in this state during the tax period by the taxpayer for compensation. With respect to all personnel except ocean going personnel, compensation paid to such employees is included in the numerator as provided in ORS 314.660 and OAR 150-314-0417. The numerator contains so much of the compensation of oceangoing personnel as is determined by applying a fraction, the numerator being the voyage time the ship spent within this state during the tax period and the denominator being the total voyage time of the ship during the tax period. 
+
+ (c) Sales factor. The sales factor is a fraction, the denominator of which includes all sales derived from carrying cargo, i.e., passengers, freight, mail, etc., and the sales incidental thereto. In calculating the numerator of the factor, such sales are assigned to this state in the proportion that the voyage time the ship spent within this state during the tax period bears to the total voyage time of the ship during the tax period. Sales from activities incidental to the transportation service, such as income from restaurants, locker rentals, etc., are assigned to the state or country in which the activity is carried on. 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 & 314.280 
+ 
+ 
+ Statutes/Other Implemented:  ORS 314.280 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 68-2017, amend filed 12/22/2017, effective 01/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 21-2017, f. & cert. ef. 6-28-17 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ Renumbered from 150-314.280-(K), REV 33-2016, f. 8-12-16, cert. ef. 9-1-16 
+REV 10-2007, f. 12-28-07, cert. ef. 1-1-08 
+RD 9-1992, f. 12-29-92, cert. ef. 12-31-92 
+RD 3-1992, f. 5-28-92, cert. ef. 6-1-92 
+12-31-87 
+12-31-84, Renumbered from 150-314.280(H) 
+12-70 
+1-65
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,306 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Aging and People with Disabilities and Developmental Disabilities - Chapter 411 
+ 
+ 
+ 
+ 
+ Division 33 IN-HOME CARE AGENCIES PROVIDING MEDICAID IN-HOME SERVICES 
+ 411-033-0010 
+ Definitions
+ 
+ 
+ Unless the context indicates otherwise, the following definitions apply to the rules in OAR chapter 411, division 033: 
+
+ (1) "AAA" means "Area Agency on Aging" as defined in this rule. 
+
+ (2) "Activities of Daily Living (ADL)" mean those personal, functional activities required by an individual for continued well-being, which are essential for health and safety. Activities include eating, dressing, grooming, bathing, personal hygiene, mobility (ambulation and transfer), elimination (toileting, bowel, and bladder management), cognition, and behavior as defined in OAR 411-015-0006. 
+
+ (3) "ADL" means "activities of daily living" as defined in this rule. 
+
+ (4) "Aging and People with Disabilities" means the program area of Aging and People with Disabilities, within the Oregon Department of Human Services. 
+
+ (5) "APD" means "Aging and People with Disabilities". 
+
+ (6) "Area Agency on Aging (AAA)" means the Department designated agency charged with the responsibility to provide a comprehensive and coordinated system of services to individuals in a planning and service area. The term Area Agency on Aging is inclusive of both Type A and Type B Area Agencies on Aging as defined in ORS 410.040 and described in ORS 410.210 to 410.300. 
+
+ (7) "Assessment" means an assessment as defined in OAR 411-015-0008. 
+
+ (8) "Background Check" means a criminal background check and an abuse check under OAR chapter 407, division 007. 
+
+ (9) "Business Days" means Monday through Friday and excludes Saturdays, Sundays, and state or federal holidays. 
+
+ (10) "CA/PS" means the "Client Assessment and Planning System" as defined in OAR 411-030-0020. 
+
+ (11) "Case Manager" or "CM" means a Department employee or an employee of the Department's designee that meets the minimum qualifications in OAR 411-028-0040 who is responsible for service eligibility, assessment of need, offering service choices to eligible individuals, person-centered service planning, service authorization and implementation, and evaluation of the effectiveness of Medicaid home and community-based services. 
+
+ (12) "Comprehensive" means a licensing classification that describes an agency that provides personal care services, which may include medication reminding, medication assistance, medication administration, and nursing services (see OAR 333-536-0007). 
+
+ (13) "Consumer" means an individual eligible for in-home services. 
+
+ (14) "Cost Effective" means being responsible and accountable with Department resources. This is accomplished by offering less costly alternatives when providing choices that adequately meet an individual’s service needs. Those choices consist of all available services under the Medicaid home and community-based service options, the utilization of assistive devices, natural supports, architectural modifications, and alternative service resources (see OAR 411-015-0005). Less costly alternatives may include resources not paid for by the Department. 
+
+ (15) "Department" means the Oregon Department of Human Services (ODHS). 
+
+ (16) "Enrolled In-Home Care Agency" means an incorporated entity or equivalent, licensed in accordance with OAR chapter 333, division 536 that provides hourly enrolled in-home services to individuals receiving services through the Department or the Area Agency on Aging. 
+
+ (17) “Electronic Visit Verification” or “EVV” means that with respect to personal care services, a system under which visits conducted as part of such services are electronically verified at the time of service with respect to: 
+
+ (a) The type of service performed. 
+
+ (b) The individual receiving services. 
+
+ (c) The date of the service. 
+
+ (d) The location of service delivery. 
+
+ (e) The individual providing the service. 
+
+ (f) The time the service begins and ends. 
+
+ (18) "Exception" means an approval for payment of a service plan that is granted to a specific individual that exceeds the assessed maximum hours of service as described in OAR 411-030-0070, for individuals residing in his or her own home. 
+
+ (19) "Exceptional Rate" or "Exceptional Payment" means the amount paid to a provider based on the approval of an exception. The approval of an exception is based on the service needs of the individual and is contingent upon the individual's service plan meeting the requirements in OAR 411-027-0020, OAR 411-027-0025, and OAR 411-027-0050. 
+
+ (20) "Homecare Worker" means a provider, as described in OAR 411-031-0040, that is directly employed by an individual to provide hourly services to the eligible individual. The term homecare worker does not include an employee of an in-home care agency who is providing in-home services. 
+
+ (21) "Hourly Services" means the in-home services, including activities of daily living and instrumental activities of daily living, that are provided at regularly scheduled times, not including live-in services. 
+
+ (22) "IADL" means "instrumental activities of daily living" as defined in this rule. 
+
+ (23) "ICP" means "Independent Choices Program" as defined in this rule. 
+
+ (24) "Independent Choices Program" means a self-directed in-home services program in which a participant is given a cash benefit to purchase goods and services identified in the participant's service plan and prior approved by the Department or the Area Agency on Aging. 
+
+ (25) "Individual" means a person age 65 or older, or an adult with a physical disability, applying for or eligible for services. 
+
+ (26) "In-Home Care Agency" or "IHCA" means an agency as defined in OAR 333-536-0005 that is primarily engaged in providing in-home care services for compensation to an individual in that individual's place of residence. "In-home care agency" does not include a home health agency or portion of an agency providing home health services. 
+
+ (27) "In-Home Services" as defined in OAR 411-030-0002 mean the activities of daily living and instrumental activities of daily living that assist an individual to stay in his or her own home or the home of a relative. 
+
+ (28) "In-Home Care Services" as defined in OAR 333-536-0005, means personal care services furnished by an in-home care agency, or an individual under an arrangement or contract with an in-home care agency, that are necessary to assist an individual in meeting the individual's daily needs, but do not include curative or rehabilitative services. 
+
+ (29) "Initial Screening" means a screening required by the in-home care agency licensing rules in OAR 333-536-0055 that is conducted to evaluate a prospective client's service requests and needs prior to accepting the individual for service. The extent of the screening shall be sufficient to determine the ability of the agency to meet those requests and needs based on the agency's overall service capability. 
+
+ (30) "Instrumental Activities of Daily Living (IADL)" mean those activities, other than activities of daily living, required by an individual to continue independent living. The definitions and parameters for assessing needs in IADL are identified in OAR 411-015-0007. 
+
+ (31) "Liability" means the dollar amount an individual with excess income contributes to the cost of service pursuant to OAR 461-160-0610 and OAR 461-160-0620. 
+
+ (32) "Licensed" means an in-home care agency as defined in OAR 333-536-0005 that is currently licensed, certified, or registered by the proper authority within the State of Oregon. 
+
+ (33) "Mandatory Reporter" means all employees of an in-home health service, are required by statute (ORS 124.050 - 124.095) to report suspected abuse or neglect of a child, an older adult, a person with a physical disability or the resident of a licensed care facility, to the Department or to a law enforcement agency as required by OAR 411-020-0002. 
+
+ (34) "Medicaid OHP Plus Benefit Package" means only the Medicaid benefit packages provided under OAR 410-120-1210(4) (a) and (b). This excludes individuals receiving Title XXI benefits. 
+
+ (35) "Medicaid Performing Provider Number" means the numeric identifier assigned to an entity or person by the Department, following enrollment to deliver Medicaid funded services as described in these rules. The Medicaid Performing Provider Number is used by the rendering provider for identification and billing purposes associated with service authorizations and payments. 
+
+ (36) "Natural Supports" or "Natural Support System" means resources and supports (e.g., relatives, friends, neighbors, significant others, roommates, or the community) who are willing to voluntarily provide services to an individual without the expectation of compensation. Natural supports are identified in collaboration with the individual and the potential "natural support". The natural support is required to have the skills, knowledge, and ability to provide the needed services and supports. 
+
+ (37) "Nursing Services" means the provision of services that are defined in OAR 333-536-0005, that are deemed to be the practice of nursing as defined by ORS 678.010. These services include but are not limited to the delegation of specific tasks of nursing care to unlicensed persons in accordance with the Oregon State Board of Nursing rules in OAR chapter 851, division 047. Nursing services are not rehabilitative or curative but are maintenance in nature. 
+
+ (38) "OHA" means the Oregon Health Authority. 
+
+ (39) "Person-Centered Service Plan" means the details of the supports, desired outcomes, activities, and resources required for an individual to achieve and maintain personal goals, health, and safety, as described in OAR 411-004-0030. The case manager completes the person-centered service plan. The person-centered service plan is the Medicaid Plan of Care. 
+
+ (40) "Personal Care Aid" means a person employed by an in-home care agency who provides assistance with activities of daily living or assistance with personal care tasks, household and supportive services, or medication services as authorized by OAR chapter 333 division 536. 
+
+ (41)"Provider Enrollment Application and Agreement" refers to the conditions and agreements for being enrolled as a provider with the Oregon Department of Human Services, Aging and People with Disabilities (APD) or Office of Developmental Disability Services (ODDS), and to receive a provider number. 
+
+ (42) "Rate Schedule" means the Medicaid reimbursement rate schedule maintained by the Department in OAR 411-027-0170. 
+
+ (43) "Relative" means a person, excluding an individual's spouse, who is related to the individual by blood, marriage, domestic partnership, or adoption. 
+
+ (44) "Representative" means a person either appointed by an individual to participate in service planning on the individual's behalf or an individual's natural support with longstanding involvement in assuring the individual's health, safety, and welfare. A representative may not be a paid employee or the in-home care agency. 
+
+ (45) "Service Need" means the assistance an individual requires from another person for those functions or activities identified in OAR 411-015-0006 and OAR 411-015-0007. 
+
+ (46) "Service Plan" means a written, individualized plan for the delivery of services by the IHCA, developed by the IHCA in conjunction with the individual or the individual's legal representative, the DHS or AAA case manager reflecting the individual's capabilities, choices, and if applicable, measurable goals, and managed risk issues. The service plan defines the division of responsibility in the implementation of the services. The service plan must incorporate all elements identified in the person-centered service plan for which the IHCA is responsible to deliver. 
+
+ (47) "Spouse" means a person who is legally married to an individual as defined in OAR 461-001-0000. 
+
+ (48) "These Rules" mean the rules in OAR chapter 411, division 033. 
+
+ (49) "Work week" is defined as 12:00 a.m. on Sunday through 11:59 p.m. on Saturday. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 409.050, 410.070, 410.090 & 413.085 
+ 
+ 
+ Statutes/Other Implemented:  ORS 410.010, 410.020, 410.070 & 413.085 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 9-2024, amend filed 03/25/2024, effective 03/28/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 17-2023, temporary amend filed 10/11/2023, effective 11/01/2023 through 04/28/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 12-2017, f. & cert. ef. 5-30-17 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

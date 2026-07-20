@@ -1,0 +1,323 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 61 DRINKING WATER 
+ 333-061-0071 
+ Backflow Prevention Assembly Installation and Operation Standards
+ 
+ 
+ (1) Any approved backflow prevention assembly required by OAR 333-061-0070 must be installed in a manner that: 
+
+ (a) Facilitates its proper operation, maintenance, inspection, and in-line testing using standard installation procedures approved by the Oregon Health Authority (Authority), such as, but not limited to, University of Southern California, Manual of Cross-Connection Control, 10th Edition, the Pacific Northwest Section American Water Works Association, Cross Connection Control Manual, 7th Edition, ASSE 5000-2015, or the local administrative authority having jurisdiction; 
+
+ (b) Precludes the possibility of continuous submersion of an approved backflow prevention assembly, and precludes the possibility of any submersion of the relief valve on a reduced pressure principle backflow prevention assembly (RP); and 
+
+ (c) Maintains compliance with all applicable safety regulations and the Oregon Plumbing Specialty Code. 
+
+ (2) For premises isolation installation: 
+
+ (a) The approved backflow prevention assembly must be installed at a location adjacent to the service connection or point of delivery (POD); or 
+
+ (b) Any alternate location must be with the advance approval of the water supplier and must meet the water supplier's cross connection control requirements; and 
+
+ (c) The premises owner must ensure no cross connections exist between the POD from the public water system and the approved backflow prevention assembly. 
+
+ (3) Bypass piping installed around any approved backflow prevention assembly must be equipped with an approved backflow prevention assembly to: 
+
+ (a) Afford at least the same level of protection as the approved backflow prevention assembly being bypassed; and 
+
+ (b) Comply with all requirements of these rules. 
+
+ (4) All Oregon Plumbing Specialty Code approved residential multi-purpose fire suppression systems constructed of potable water piping and materials do not require a backflow prevention assembly. 
+
+ (5) Stand-alone fire suppression systems, being a piping system within a premises intended to only serve as a fire protection system separated from the potable water system, must be protected commensurate with the degree of hazard, as defined in OAR 333-061-0070, Table 47 (Backflow Prevention Methods). 
+
+ (6) Stand-alone irrigation systems must be protected commensurate with the degree of hazard, as defined in OAR 333-061-0070, Table 47 (Backflow Prevention Methods). 
+
+ (7) A RP or reduced pressure principle-detector backflow prevention assembly (RPDA): 
+
+ (a) Must conform to bottom and side clearances when the assembly is installed inside a building. Access doors may be provided on the top or sides of an above-ground vault; 
+
+ (b) Must always be installed horizontally, never vertically, unless they are specifically approved for vertical installation; 
+
+ (c) Must always be installed above the 100-year (1 percent) flood level unless approved by the appropriate local administrative authority having jurisdiction; 
+
+ (d) Must never have extended or plugged relief valves; 
+
+ (e) Must be protected from freezing when necessary; 
+
+ (f) Must be provided with an approved air gap drain; 
+
+ (g) Must not be installed in an enclosed vault or box unless a bore-sighted drain to daylight is provided where there is an unrestricted straight-line opening in the enclosure that vents to grade, and is sized and constructed to adequately drain the full flow discharge from the reduced pressure principle backflow prevention assembly thus preventing any potential for submersion of the assembly; 
+
+ (h) May be installed with reduced clearances if the pipes are two inches in diameter or smaller, are accessible for testing and repairing, and approved by the appropriate local administrative authority having jurisdiction; 
+
+ (i) Must not be installed at a height greater than five feet unless there is a permanently installed platform meeting Oregon Occupational Safety and Health Administration (OR-OSHA) standards to facilitate servicing the assembly; and 
+
+ (j) Be used to protect against a non-health hazard or health hazard for backsiphonage or backpressure conditions. 
+
+ (8) A double check valve backflow prevention assembly (DC) or double check-detector backflow prevention assembly (DCDA): 
+
+ (a) Must conform to bottom and side clearances when the assembly is installed inside a building; 
+
+ (b) May be installed vertically as well as horizontally provided the assembly is specifically listed for that orientation in the Authority's Approved Backflow Prevention Assembly List. 
+
+ (c) May be installed below grade in a vault, provided that water-tight fitted plugs or caps are installed in the test cocks, and the assembly must not be subject to continuous immersion; 
+
+ (d) Must not be installed at a height greater than five feet unless there is a permanently installed platform meeting Oregon Occupational Safety and Health Administration (OR-OSHA) standards to facilitate servicing the assembly; 
+
+ (e) May be installed with reduced clearances if the pipes are two inches in diameter or smaller, provided that they are accessible for testing and repairing, and approved by the appropriate local administrative authority having jurisdiction; 
+
+ (f) Must have adequate drainage provided except that the drain must not be directly connected to a sanitary or storm water drain. Installers must check with the water supplier and appropriate local administrative authority having jurisdiction for additional requirements; 
+
+ (g) Must be protected from freezing when necessary; and 
+
+ (h) Be used to protect against non-health hazards under backsiphonage and backpressure conditions. 
+
+ (9) A pressure vacuum breaker backsiphonage prevention assembly (PVB) or spill resistant pressure vacuum breaker backsiphonage prevention assembly (SVB) must: 
+
+ (a) Be installed where occasional water discharge from the assembly caused by pressure fluctuations will not be objectionable; 
+
+ (b) Have adequate spacing available for maintenance and testing; 
+
+ (c) Not be subject to flooding; 
+
+ (d) Be installed a minimum of 12 inches above the highest downstream piping and outlets; 
+
+ (e) Have absolutely no means of imposing backpressure by a pump or other means. The downstream side of the PVB or SVB may be maintained under pressure by a valve; and 
+
+ (f) Be used to protect against non-health and health hazards and backsiphonage only, not backpressure. 
+
+ (10) An atmospheric vacuum breaker (AVB) must: 
+
+ (a) Be installed in an upright position, and have an outlet open to atmosphere; 
+
+ (b) Not be installed in dusty or corrosive atmospheres; 
+
+ (c) Not be installed where subject to flooding; 
+
+ (d) Be installed a minimum of six inches above the highest downstream piping and outlets; 
+
+ (e) Be used intermittently; 
+
+ (f) Have product and material approval under the Oregon Plumbing Specialty Code for non-testable devices. 
+
+ (g) Not be pressurized for more than 12 hours in any 24-hour period; and 
+
+ (h) Be used to protect against non-health or health hazards and backsiphonage only, not backpressure. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 448.131 
+ 
+ 
+ Statutes/Other Implemented:  448.131, 448.150, 448.273 & 448.279 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 118-2024, amend filed 12/13/2024, effective 01/01/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 7-2023, amend filed 01/31/2023, effective 02/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 2-2018, amend filed 01/10/2018, effective 01/10/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 5-2016, f. 2-10-16, cert. ef. 4-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ PH 3-2013, f. & cert. ef. 1-25-13 
+PH 7-2010, f. & cert. ef. 4-19-10 
+PH 4-2009, f. & cert. ef. 5-18-09 
+PH 2-2006, f. & cert. ef. 1-31-06 
+PH 34-2004, f. & cert. ef. 11-2-04 
+OHD 4-1999, f. 7-14-99, cert. ef. 7-15-99 
+HD 14-1997, f. & cert. ef. 10-31-97 
+HD 1-1996, f. 1-2-96, cer.t. ef. 1-5-96 
+HD 1-1994, f. & cert. ef. 1-7-94, Renumbered from 333-061-0099 
+HD 9-1989, f. & cert. ef. 11-13-89 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

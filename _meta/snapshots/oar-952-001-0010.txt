@@ -1,0 +1,319 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Utility Notification Center 
+ Chapter 952 
+ 
+ 
+ 
+ 
+ 
+ Division 1 Oregon Utility Notification Center 
+ 952-001-0010 
+ Definitions
+ 
+ 
+ As used in 952-001-0010 through 952-001-0100: 
+
+ (1) “Abandoned Facility” means an underground facility that is no longer in service and is physically disconnected from the operating facility that is in service. 
+
+ (2) “Business day” means any 24-hour day other than a Saturday, Sunday, or federal or state legal holiday as provided in ORS 757.542. A business day begins at 12:00 a.m. and ends at 11:59 p.m. 
+
+ (3) “Damage” means harm to, or destruction of underground facilities including, but not limited to, the weakening of structural, lateral, or subjacent support; the penetration, impairment or destruction of any coating, housing or other protective device; or the denting of, penetration into or severance of underground facilities. 
+
+ (4) “Designer” means any person who prepares a drawing for construction or other project which requires excavation or demolition. 
+
+ (5) “Designated Agent” means a person or entity specifically appointed to act for or serve as a representative for another person or entity. 
+
+ (6) “Easement” means a nonpossessory interest in the land of another which entitles the holders of an interest in the easement to a private right of way embodying the right to pass across another’s land. 
+
+ (7) “Emergency” means an occurrence involving an immediate danger, demanding prompt action to prevent loss of life, or to mitigate damage to property, or to prevent interruption of essential public services (as determined by an emergency response agency or the facility operator) or to prevent a customer service outage (as determined by the facility operator). 
+
+ (8) “Excavation” means any operation in which earth, rock or other material on or below the ground is moved or otherwise displaced by any means, except sidewalk, road and ditch maintenance less than 12 inches in depth that does not lower the original grade or original ditch flow line. "Excavation" does not include the tilling of soil for agricultural purposes conducted on private property that is not within the boundaries of a recorded right-of-way or easement for underground facilities. 
+
+ (9) “Excavator” means any person who engages in excavation. 
+
+ (10) “Large area” means a proposed excavation requiring more work or time to locate utility facilities than can reasonably be completed within the parameters of section (1) of OAR 952-001-0050. 
+
+ (11) “Locatable underground facilities” means underground facilities which can be marked with reasonable accuracy. 
+
+ (12) “Mark" or "marking” means an indication, from the use of stakes, paint or other clearly identifiable material, to show the field location or absence of underground facilities at a proposed work site. A "mark" or "marking" also includes permanent marking devices, such as disks, posts or signs, placed to show the location of underground facilities. 
+
+ (13) “Non invasive methods” means using a practice to expose an underground facility that does not damage any part of the facility, including the use of hand digging, air cutting, vacuum excavation or hydro vacuum excavation. 
+
+ (14) “Notify” means to make known by any reasonable and legal means of communication. 
+
+ (15) "Operator" means any person, municipal corporation, political subdivision of the state with control over underground facilities. Operator includes any person, as defined in ORS 756.010, having the right to bury underground facilities in any public right-of-way, or in any utility easement. 
+
+ (16) “Operation” as used in ORS 757.542 (3) means the use of any tools, equipment or explosives. The term includes, but is not limited to, the use of powered and mechanized equipment, hand digging with tools, explosives, grading, trenching, digging, blasting, drilling, backfilling, dragging, augering, hammering, pile driving, plowing-in or pulling-in, test boring, tunneling, scraping, reclamation processes, and milling. 
+
+ (17) “Oregon Utility Notification Center” (Center) means the state agency that administers a statewide system through which a person can notify operators of underground facilities of proposed excavations and can request that the underground facilities be marked. 
+
+ (18) “Out-of-service facility” means an underground facility that has not been declared permanently abandoned and may still be connected to a portion of an operating facility that is in service. 
+
+ (19) “Private property” as used in ORS 757.542(3) means the ownership of property by non-governmental legal entities and public land leased or rented and controlled by private entities for agricultural purposes. 
+
+ (20) “Project plans” mean any drawings, specifications or any other documents prepared in anticipation of work involving excavation. 
+
+ (21) “Response” means action taken by operators of underground facilities to: 
+
+ (a) Mark or identify by other means the location of its locatable underground facilities in the area of the proposed excavation; 
+
+ (b) Notify the excavator that there are unlocatable underground facilities in the area of the proposed excavation; or 
+
+ (c) Notify the excavator that there are no underground facilities in the area of the proposed excavation. 
+
+ (22) “Sidewalk, road and ditch maintenance” includes, but is not limited to, ditching, grinding, paving, shoulder maintenance, surveying, or grading. Unless otherwise classified on roadway plans, parallel or lateral ditches constructed as an integral part of the graded roadbed having a continuous slope from the outer limit of the shoulder to the bottom of the ditch to include ditch back slope within right of way will be considered to be within the roadway grading limits and will be part of the work covered by road and ditch maintenance that does not lower the original road grade or the original ditch flow line. For purposes of this definition, the phrase “original road grade” refers to the original elevation of the road before gravel, rock, asphalt, cement, or other materials were applied on the ground to construct or finish a road. For purposes of this definition, the phrase, “original ditch flow line” means the documented or calculated grade between the outlet elevation of a culvert, drainage structure, water source, or place of origin to the inlet elevation of a culvert, drainage structure, water source or place of destination. Also for purposes of this definition, “sidewalk maintenance” includes but is not limited to removal and replacement of a sidewalk that is performed less than 12 inches in depth and does not lower the original grade of the sidewalk. 
+
+ (23) "Ticket life" means the 30 calendar day period after an excavator provides notice to the Oregon Utility Notification Center under OAR 952-001-0050(1) and the Center opens a ticket for a locate request based on this notice. 
+
+ (24) "Tilling" means preparing land for the raising of crops to a depth that does not exceed 18 inches. 
+
+ (25) "Tolerance zone" means the area within 24 inches surrounding the outside dimensions of all sides of an underground facility. (See Tolerance Zone illustration below.) 
+
+ (26) “Underground facilities” means items partially or entirely below the surface of the ground for use in connection with the storage or conveyance of electrical energy, water, sewage, petroleum products, gas, gaseous vapors or hazardous liquids, or the transmission of electronic, telephonic, telegraphic or cable communications. Such items include, but are not limited to, pipes, sewers, conduits, cables, valves, lines, wires, manholes, attachments and those parts of poles or anchors that are underground. 
+
+ (27) “Unlocatable underground facilities” mean underground facilities that cannot be marked with reasonable accuracy, including nonconductive sewers and nonmetallic underground facilities that have no trace wires. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 183.757 
+ 
+ 
+ Statutes/Other Implemented:  ORS 757.542 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OUNC 6-2025, amend filed 12/29/2025, effective 01/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OUNC 4-2025, amend filed 09/30/2025, effective 09/30/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OUNC 1-2025, temporary amend filed 08/29/2025, effective 09/02/2025 through 02/28/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OUNC 1-2018, amend filed 12/26/2018, effective 01/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OUNC 1-2014, f. & cert. ef. 3-7-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OUNC 1-2006, f. & cert. ef. 10-13-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OUNC 1-2000, f. & cert. ef. 8-28-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OUNC 1-1997, f. & cert. ef. 4-17-97 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

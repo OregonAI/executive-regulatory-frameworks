@@ -1,0 +1,630 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 18 DISEASE REPORTING 
+ 333-018-0015 
+ What Is to Be Reported and When
+ 
+ 
+ (1) Health care providers shall report all human cases or suspected human cases of the diseases, infections, microorganisms, intoxications, and conditions specified below. The timing of health care provider reports is specified to reflect the severity of the illness or condition and the potential value of rapid intervention by public health agencies. 
+
+ (2) Licensed laboratories shall report all test results indicative of and specific for the diseases, infections, microorganisms, intoxications, and conditions specified below for humans. Such tests include but are not limited to: microbiological culture, isolation, or identification; assays for specific antibodies; and identification of specific antigens, toxins, or nucleic acid sequences. 
+
+ (3) Human reportable diseases, infections, microorganisms, intoxications, and conditions, and the time frames within which they must be reported are as follows: 
+
+ (a) Immediately, day or night: 
+
+ (A) The following select biological agents and toxins: 
+
+ (i) United States Department of Health and Human Services (DHHS) select agents and toxins: Abrin; Bacillus cereus biovar anthracis; Botulinum neurotoxins; Botulinum neurotoxin-producing species of Clostridium; Conotoxins; Coxiella burnetii (Q fever); Crimean-Congo hemorrhagic fever virus; Diacetoxyscirpenol; Eastern Equine Encephalitis virus; Ebolavirus; Francisella tularensis (tularemia); Lassa fever virus; Lujo virus; Marburg virus; Mpox (Clade I); Reconstructed replication-competent forms of the 1918 pandemic influenza virus containing any portion of the coding regions of all eight gene segments (Reconstructed 1918 Influenza virus); Ricin; Rickettsia prowazekii (louse-borne typhus); Severe Acute Respiratory Syndrome (SARS) and infection by SARS coronavirus; SARS-COV chimeric; Saxitoxin [paralytic shellfish poisoning]; South American Hemorrhagic Fever viruses (Chapare, Guanarito, Junin, Machupo, Sabia); Staphylococcal enterotoxins A,B,C,D,E subtypes; T-2 toxin; Tetrodotoxin [puffer fish poisoning]; Tick-borne encephalitis complex (flavi) viruses (Far Eastern subtype, Siberian subtype); Kyasanur Forest disease virus; Omsk hemorrhagic fever virus; Variola major virus (Smallpox virus); Variola minor virus (Alastrim); Yersinia pestis (plague); 
+
+ (ii) DHHS and United States Department of Agriculture (USDA) overlap select agents and toxins: Bacillus anthracis (anthrax); Bacillus anthracis Pasteur strain; Burkholderia mallei (glanders); Burkholderia pseudomallei (melioidosis); Hendra virus; Nipah virus; Rift Valley fever virus; Venezuelan equine encephalitis virus; and 
+
+ (iii) USDA select agents and toxins: Avian influenza virus; Newcastle disease virus. 
+
+ (B) The following other infections, microorganisms, and conditions: Brucella (brucellosis causing species); Corynebacterium diphtheriae (diphtheria, known toxigenic strains only); novel influenza; poliomyelitis; rabies (human); measles (rubeola); rubella; Vibrio cholerae O1, O139, or toxigenic (cholera); yellow fever; intoxication caused by marine microorganisms or their byproducts (including but not limited to, domoic acid intoxication, ciguatera, scombroid); 
+
+ (C) Any known or suspected disease outbreak, including any outbreak associated with health care, regardless of whether the disease, infection, microorganism, or condition is specified in this rule; and 
+
+ (D) Any uncommon illness of potential public health significance. 
+
+ (b) Within 24 hours (including weekends and holidays): Haemophilus influenzae (any invasive disease; for laboratories, any isolation or identification from a normally sterile site); multisystem inflammatory syndrome in children (MIS-C); Neisseria meningitidis (any invasive disease; for laboratories, any isolation or identification from a normally sterile site); and pesticide poisoning. 
+
+ (c) Within one local public health authority working day: 
+
+ (A) The following infections, microorganisms, and conditions: Acinetobacter species found to be resistant to any carbapenem antibiotic; amebic infection of the central nervous system (for example, by Naegleria or Balamuthia); any organism known to be carbapenemase-producing; any infection or condition that is typically arthropod vector-borne (including but not limited to: mosquito-borne: California encephalitis, chikungunya, dengue, Plasmodium [malaria], St. Louis encephalitis, West Nile fever, Western equine encephalitis, Zika; tick-borne: anaplasmosis, babesiosis, Borrelia [relapsing fever, Lyme disease], ehrlichiosis, Colorado tick fever, Heartland virus infection, Rickettsia [prowazekii, report immediately, see paragraph (3)(a)(A) above, tick paralysis]; or other arthropod vector-borne: trypanosomiasis [Chagas disease], leishmaniasis, and any of the typhus fevers); blood lead level at or above the blood lead reference value; Bordetella pertussis (pertussis); cadmium demonstrated by laboratory testing of urine; Campylobacter (campylobacteriosis); Candida auris; Chlamydia psittaci (psittacosis); Chlamydia trachomatis (chlamydiosis; lymphogranuloma venereum); Clostridium tetani (tetanus); Coccidioides (coccidioidomycosis); Corynebacterium diphtheriae (diphtheria, if toxigenicity or strain is unknown, report immediately if known to be toxigenic); Creutzfeldt-Jakob disease and other transmissible spongiform encephalopathies; Cronobacter sakazakii in an infant less than one year of age; Cryptococcus (cryptococcosis); Cryptosporidium (cryptosporidiosis); Cyclospora cayetanensis (cyclosporosis); bacteria of the Enterobacterales order found to be resistant to any carbapenem antibiotic; Escherichia coli (enterotoxigenic or Shiga-toxigenic, including E. coli O157 and other serogroups, or evidence of enterotoxigenic or Shiga-toxigenic organism, for example, from nucleic-acid or antigen testing); Giardia (giardiasis); Grimontia; Haemophilus ducreyi (chancroid); hantavirus; hepatitis A; hepatitis B; hepatitis C; hepatitis D (delta); hepatitis E; HIV infection (except do not report anonymous testing) and AIDS; Legionella (legionellosis); Leptospira (leptospirosis); Listeria monocytogenes (listeriosis); mumps; Mycobacterium tuberculosis and M. bovis (tuberculosis); nonrespiratory infection with nontuberculous mycobacteria (excluding Mycobacterium gordonae, M. paragordonae); Neisseria gonorrhoeae (gonococcal infections); orthopox viruses other than variola (including but not limited to borealpox [formerly Alaskapox], camelpox, cowpox, and mpox (excluding Clade I); Salmonella (salmonellosis, including typhoid); Shiga toxin or its nucleic acid sequence identified in a patient specimen; Shigella (shigellosis); Taenia solium (including cysticercosis and undifferentiated Taenia infections); Treponema pallidum (syphilis); Trichinella (trichinosis); Vibrio (other than Vibrio cholerae O1, O139, or toxigenic; vibriosis); Yersinia (other than pestis; yersiniosis); a human bitten by any other mammal; hemolytic uremic syndrome; and rabies post-exposure prophylaxis. 
+
+ (B) The death of any person less than 18 years of age with laboratory-confirmed influenza, respiratory syncytial virus (RSV), or SARS-CoV-2 infection. 
+
+ (d) Within seven calendar days: Any blood lead level tests including the result. 
+
+ (4) Licensed laboratories shall report, within seven calendar days, the results of all tests of CD4+ T-lymphocyte absolute counts and the percent of total lymphocytes that are CD4 positive, and HIV nucleic acid (viral load) tests. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042, 433.004 & 433.006 
+ 
+ 
+ Statutes/Other Implemented:  ORS 433.004 & 433.329 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 18-2026, amend filed 03/30/2026, effective 04/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 51-2023, amend filed 10/26/2023, effective 10/26/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 205-2022, temporary amend filed 12/01/2022, effective 12/01/2022 through 05/29/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 177-2022, minor correction filed 08/11/2022, effective 08/11/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 14-2021, amend filed 03/23/2021, effective 03/23/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 17-2020, amend filed 03/26/2020, effective 04/06/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 20-2019, temporary amend filed 10/09/2019, effective 10/09/2019 through 04/05/2020 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 1-2018, minor correction filed 01/08/2018, effective 01/08/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 21-2017, amend filed 12/21/2017, effective 01/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 24-2016, f. 8-8-16, cert. ef. 8-16-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 6-2016(Temp), f. & cert. ef. 2-18-16 thru 8-15-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 10-2015, f. 7-2-15, cert. ef. 7-3-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 16-2013, f. 12-26-13, cert. ef. 1-1-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 7-2011, f. & cert. ef. 8-19-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 5-2010, f. & cert. ef. 3-11-10 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ Reverted to PH 13-2007, f. & cert. ef. 11-7-07 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 8-2009(Temp), f. & cert. ef. 9-1-09 thru 2-26-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 13-2007, f. & cert. ef. 11-7-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 11-2007(Temp), f. & cert. ef. 8-22-07 thru 2-18-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 19-2006, f. & cert. ef. 9-13-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 13-2006(Temp), f. 6-27-06, cert. ef. 7-1-06 thru 12-27-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 7-2006, f. & cert. ef. 4-17-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 11-2005, f. 6-30-05, cert. ef. 7-5-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHD 3-2002, f. & cert. ef. 3-4-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHD 22-2001, f. & cert. ef. 10-19-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 29-1994, f. & cert. ef. 12-2-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 9-1992, f. & cert. ef. 8-14-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 10-1991, f. & cert. ef. 7-23-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 5-1991, f. 3-29-91, cert. ef. 4-1-91 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ Reverted to HD 15-1988, f. 7-11-88, cert. ef. 9-1-88 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 13-1990(Temp), f. 5-25-90, cert. ef. 8-1-90 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 15-1988, f. 7-11-88, cert. ef. 9-1-88 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 4-1987, f. 6-12-87, ef. 6-19-87 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ Reverted to HD 15-1981, f. 8-13-81, ef. 8-15-81 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 20-1985(Temp), f. & ef. 9-30-85 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 15-1981, f. 8-13-81, ef. 8-15-81 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

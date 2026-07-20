@@ -1,0 +1,348 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Secretary of State 
+ Elections Division - Chapter 165 
+ 
+ 
+ 
+ 
+ Division 7 CONDUCT OF ELECTIONS 
+ 165-007-0290 
+ Hand Count of Ballots 
+ 
+ 
+ (1) This rule is adopted to implement hand counts of ballots counted by the vote tally system in the county at every primary, general, or special election as required by ORS 254.529. 
+
+ (2) At every election (whether primary, general, or special), a county elections official shall determine whether to conduct: 
+
+ (a) A hand count, as described in ORS 254.529, which shall only be required in an election where a state contest may be held regarding candidates or measures; or 
+
+ (b) A risk limiting audit in the manner described in ORS 254.532. 
+
+ (3) The hand count must be compared to the tally of votes produced by a vote tally system for the same ballots. 
+
+ (a)The number of ballots that must be hand counted is dependent on the margin of victory between the two candidates in the same race receiving the largest number of votes in the county. 
+
+ (b) The margin of victory will be determined using the unofficial results posted to the Secretary of State’s electronic reporting system for unofficial results, as of 5 p.m. the fourteenth day after the date of the election. 
+
+ (c) Depending on the margin of victory, either 10%, 5% or 3% of all precincts or of ballots in ballot count batches will be hand counted. 
+
+ (4) For purposes of implementing ORS 254.529 and this rule: 
+
+ (a) “Margin of victory” means the percentage difference between the first and second place candidates in a given contest. For a contest for state measure the “margin of victory” is the difference between the “yes” and “no” votes. 
+
+ (b) “Precinct” means any precinct with registered voters. 
+
+ (c) “Ballot count batch” means a subset of ballots which can be associated with a subtotal in the vote tally system. 
+
+ (5) Not later than 5 p.m. on the 15th business day after the date of the election the Secretary shall randomly select the election contests for which the county elections official is to conduct the hand count. The Secretary shall randomly draw for each county to select: 
+
+ (a) An office to be voted on in the state at large and state measure contests, if available, for which ballots are to be hand counted; and 
+
+ (b) The precincts or ballot count batches in which ballots are to be hand counted. The same precincts or ballot count batches will be used to conduct the hand counts on all three election contests to be hand counted. 
+
+ (c) If the randomly selected office to be voted on in the state at large is the same contest in the county receiving the largest number of votes between two candidates, another office to be voted on in the state at large will be randomly selected. 
+
+ (6) Once the Secretary has randomly selected the election contests and the precincts or ballot count batches in which ballots are to be hand counted, the Secretary of State will notify county elections officials. In addition to identifying the precincts or ballot batches to be hand counted, the notification will include the office to be voted on in the state at large, the state measure and the contest between the two candidates receiving the largest number of votes in the county. 
+
+ (7) Not later than the 2nd business day after the date the sample is generated the Secretary of State will notify all affected candidates for selected election contests, chief petitioners or legislative sponsor of the state measure selected and any registered opponent of the measure. Notification shall be by email, or first-class mail, if an email address is unavailable. 
+
+ (8) Members of the public may observe the hand count. The County Elections Official shall permit only so many observers as will not interfere with an orderly procedure. 
+
+ (9) A county elections official may only begin the hand count after certification of the official results to the Secretary of State, but not later than the 27th day after the election. All hand counts for a measure must be completed no later than the 30th day after the election. Hand counts for candidate contests must be completed no later than the 35th day after the election. 
+
+ (10) If a comparison of the tally of votes produced by a vote tally system with the tally of votes produced by the hand count shows that the tally of votes produced by the vote tally system differs by no more than one-half of one percent of the total votes cast in the contest, from the tally of votes produced by the hand count, the hand count is complete and the county elections official reports the results as provided in subsection (12). If the difference exceeds one-half of one percent of the total votes cast in the contest, a second hand count is conducted as provided in subsection (13). 
+
+ (11) Valid votes that have been marked by the voter outside the vote targets or using a marking device that cannot be read by the vote tally system shall not be included in making the determination whether the voting system has met the standard of acceptable performance for any precinct or ballot batch under ORS 254.529(7)(a) through (c). 
+
+ (12) Upon completion of the hand count, but not later than the 30th day after the election for a measure, or the 37th day after the election for candidate contests, the county elections official must submit to the Secretary of State form SEL 798 detailing any difference and providing an explanation of the difference between the hand count and the tally of votes produced by the vote tally system in the county. Over votes and under votes are excluded from the totals on the SEL 798. Valid votes referenced in (11) of this rule, are to be listed as exceptions on the SEL 798. 
+
+ (13) If after the first hand count, a second hand count is required to be conducted, the county elections official must again upon completion, but not later than the 30th day after the election for a measure, or the 37th day after the election for candidate contests, submit to the Secretary of State form SEL 798 detailing any difference and providing an explanation of the difference between the hand count and the tally of votes produced by the vote tally system in the county. 
+
+ (14) If the county elections official is required under ORS 254.529(7)(d) to conduct a hand count of all ballots counted by the vote tally system, the county elections official not later than the 37th day after the election must certify to the Secretary of State and any other appropriate elections official an amended abstract of votes. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 246.150, ORS 254.529 & SB 166 (2023) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 254.529 & SB 166 (2023) 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ELECT 19-2023, amend filed 12/28/2023, effective 01/02/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ELECT 35-2022, amend filed 11/07/2022, effective 11/07/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ELECT 8-2022, minor correction filed 01/31/2022, effective 01/31/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ELECT 10-2021, amend filed 12/01/2021, effective 12/02/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ELECT 7-2021, temporary amend filed 09/10/2021, effective 09/10/2021 through 03/08/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ELECT 23-2018, amend filed 10/01/2018, effective 10/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ELECT 16-2018, amend filed 08/08/2018, effective 08/08/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ Reverted to ELECT 23-2009, f. & cert. ef. 12-31-09 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ELECT 5-2016(Temp), f. & cert. ef. 11-7-16 thru 12-9-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ELECT 23-2009, f. & cert. ef. 12-31-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ELECT 9-2008, f. & cert. ef. 10-23-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,380 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 122 DURABLE MEDICAL EQUIPMENT, PROSTHETIC ORTHOTICS AND SUPPLIES (DMEPOS) 
+ 410-122-0010 
+ Definitions
+ 
+ 
+ In addition to the definitions in OAR 410-120-0000, the following definitions in these rules apply:  
+
+ (1) “Activities of Daily Living (ADL's)” means activities related to personal care including, but not limited to, tasks such as eating, toileting, grooming, dressing, and bathing that are necessary to maintain or improve the client's health.  
+
+ (2) “Acquisition Cost” has the meaning given to the term in OAR Chapter 410 Division 120.   
+
+ (3) "Buy-up" means a situation in which a client wants to upgrade to a higher level of service than he or she is eligible for; e.g., a heavy-duty walker instead of a standard walker.  
+
+ (4) “Complex Rehabilitation Technology” has the meaning given in 2025 Oregon Laws Chapter 258, Section 2.   
+
+ (5) “Consecutive Months” means any period of continuous use where no more than a 60-day break occurs.  
+
+ (6) “Division” means the Health Systems Division within the Authority. The Division is responsible for coordinating the medical assistance programs within the State of Oregon including the Oregon Health Plan (OHP) Medicaid demonstration, the State Children's Health Insurance Program (SCHIP-Title XXI), and several other programs.  
+
+ (7) “DMEPOS” is an acronym for durable medical equipment, prosthetics, orthotics, and supplies.   
+
+ (8) “Durable Medical Equipment” means equipment and appliances that are primarily and customarily used to serve a medical purpose, generally are not useful to an individual in the absence of a disability, illness or injury, can withstand repeated use, can be reusable or removable, and is appropriate for use in any non-institutional setting in which normal life activities take place. Some examples include wheelchairs, crutches, and hospital beds.  
+
+ (9) "EPSDT" means the Early and Periodic Screening, Diagnostic and Treatment program which provides comprehensive and preventive health care services to OHP clients in accordance with federal regulations and as defined in OAR Chapter 410 Division 151.  
+
+ (10) “EPSDT Beneficiary” has the meaning given that term in OAR Chapter 410 Division 120 and OAR Chapter 410 Division 151.  
+
+ (11) “Healthcare Professionals” has the meaning given that term in OAR Chapter 410 Division 120.  
+
+ (12) “Home” for purposes of purchase, rental, and repair of durable medical equipment (DME) means a place of permanent residence such as an assisted living facility, 24-hour residential care facility, adult foster home, child foster home, or a private home. This does not include hospitals, nursing facilities, intermediate care facilities for individuals with intellectual disabilities, any setting that exists primarily for the purpose of providing medical/nursing care, or any setting in which payment is or could be made under Medicaid for inpatient services that include room and board. Separate payment may not be made to DME providers for equipment and medical supplies provided to a client when the cost of such items is already included in the capitated (per diem) rate paid to a facility or organization.  
+
+ (13) “Instrumental activities of daily living (IADLs)” means activities related to living independently in the community, including but not limited to, meal planning and preparation, managing finances, shopping for food, clothing, and other essential items, performing essential household chores, communicating by phone or other media, and traveling around and participating in the community.  
+
+ (14) “Licensed Practitioner of the Healing Arts (LPHA)” means a physician or other practitioner licensed in the State of Oregon who is authorized within the scope of the LPHA’s practice, as defined under state law, to diagnose and treat individuals with physical or mental disabilities or psychosocial, emotional, and behavioral disorders.  
+
+ (15) “Lifetime Need” means 99 months or more.  
+
+ (16) “Manufacturer Part Number (MPN)” means:  
+
+ (a) Each manufacturer provides an MPN to identify that manufacturer's part. It is a specification used by the manufacturer to store a part in an illustrated part catalog (graphics and text).  
+
+ (b) An MPN uniquely identifies a part when used together with manufacturer code (external manufacturer), which is the own name used by the manufacturer and not the manufacturer name provided by other.  
+
+ (17) “Medical Records” means the practitioner’s office records, hospital records, nursing facility records, home health agency records, records from other healthcare professionals, and diagnostic and test reports. This documentation must be made available to the Health Systems Division (Division) upon request.  
+
+ (18) “Medical Supplies” means health care related items that are consumable or disposable or cannot withstand repeated use by more than one individual, that are required to address an individual medical disability, illness, or injury. Examples of medical supplies include diapers, syringes, gauze bandages, and tubing.  
+
+ (19) “Medically Appropriate” has the meaning given that term in OAR Chapter 410 Division 120 for adult beneficiaries and OAR Chapter 410 Division 151 for EPSDT beneficiaries.  
+
+ (20) “Medically Necessary” has the meaning given that term in OAR Chapter 410 Division 120 for adult beneficiaries and OAR Chapter 410 Division 151 for EPSDT beneficiaries.  
+
+ (21) “Mobility-related Activities of Daily Living (MRADL's)” means personal care activities including, but not limited to, tasks such as toileting, feeding, dressing, grooming, and bathing in customary locations. 
+
+ (22) “Morbidity” means a diseased state, often used in the context of a "morbidity rate" (i.e., the rate of disease or proportion of diseased people in a population). In common clinical usage, any disease state including diagnosis and complications is referred to as morbidity.  
+
+ (23) “Morbidity Rate” means the rate of illness in a population. The number of people ill during a time period is divided by the number of people in the total population.  
+
+ (24) “Practitioner” means an individual licensed pursuant to federal and state law to engage in the provision of health care services within the scope of the practitioner's license and certification.  For ordering and provision of durable medical equipment, prosthetics, orthotics and medical suppliers this includes both physicians and non-physician practitioners (i.e., physician associate, nurse practitioners, and certified nurse specialists) as defined in section 1861 of the Social Security Act).  
+
+ (25) “Prosthetic and Orthotic Devices” means devices that replace all or part of an internal body organ, including ostomy bags and supplies directly related to ostomy care and replacement of such devices and supplies. Prosthetic and orthotic devices also include leg, arm, back, and neck braces, and artificial legs, arms, and eyes, including replacements if required because of a change in the client's physical condition.  
+
+ (26) “Purchase price” means:  
+
+ (a) Delivery;  
+
+ (b) Assembly;  
+
+ (c) Adjustments, if needed; and  
+
+ (d) Training in the use of the equipment or supply.  
+
+ (27) “Rental fees” means:  
+
+ (a) Delivery;  
+
+ (b) Training in the use of the equipment;  
+
+ (c) Pick-up;  
+
+ (d) Routine service, maintenance, and repair; and  
+
+ (e) Moving equipment to a new residence, if coverage is to continue.  
+
+ (28) “Technician” means a DMEPOS provider staff professionally trained through product or vendor-based training, technical school training (e.g., electronics), or through apprenticeship programs with on-the-job training.  
+
+ (29) “The Division Maximum Allowable Rate” means the maximum amount paid by the Division for a service.  
+
+ (30) “Young Adults with Special Health Care Needs (YSHCN)” has the meaning given that term in OAR Chapter 410 Division 120 and OAR Chapter 410 Division 200.   
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042 & 414.065 
+ 
+ 
+ Statutes/Other Implemented:  414.065 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 87-2025, amend filed 12/09/2025, effective 12/09/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 5-2025, minor correction filed 01/09/2025, effective 01/09/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 32-2024, minor correction filed 01/04/2024, effective 01/04/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 101-2023, amend filed 12/29/2023, effective 01/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 12-2018, amend filed 03/07/2018, effective 03/08/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 36-2017(Temp), f. 9-14-17, cert. ef. 9-15-17 thru 3-13-18 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 13-2010, f. 6-10-10, cert. ef. 7-1-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 25-2006, f. 6-14-06, cert. ef. 7-1-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 11-2005, f. 3-9-05, cert. ef. 4-1-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 54-2004, f. 9-10-04, cert. ef. 10-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 44-2004, f. & cert. ef. 7-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Insurance Regulation - Chapter 836 
+ 
+ 
+ 
+ 
+ Division 31 ACCOUNTING AND INVESTMENTS (ORS CHAPTER 733); REHABILITATION AND LIQUIDATION OF INSURERS (ORS CHAPTER 734) 
+ 836-031-0250 
+ Contract Reserves 
+ 
+ (1) The following provisions apply to contract reserves generally:  (a) Unless otherwise specified in subsection (b) of this section (1), an insurer must maintain contract reserves for:  (A) All individual and group contracts with which level premiums are used; or  (B) All individual and group contracts with respect to which, owing to the gross premium pricing structure at issue, the value of the future benefits at any time exceeds the value of future valuation net premiums at that time.The values specified in this paragraph (B) of this subsection shall be determined on the basis specified in section (2) of this rule.  (b) Contracts that cannot be continued after one year from issue do not require a contract reserve;  (c) The contract reserve is in addition to claim reserves and premium reserves;  (d) The methods and procedures for contract reserves must be consistent with those for claim reserves for any contract, or else appropriate adjustment must be made when necessary to assure provision for the aggregate liability. The definition of the date of incurral must be the same in both determinations.  (2) The following are minimum standards for contract reserves:  (a) Morbidity or other contingency. Minimum standards with respect to morbidity are those set forth in OAR 836-031-0270. Valuation net premiums used under each contract must have a structure consistent with the gross premium structure at issue of the contract as this relates to advancing age of insured, contract duration and period for which gross premiums have been calculated. Contracts for which tabular morbidity standards are not specified in 836-031-0270 shall be valued using tables established for reserve purposes by a qualified actuary and acceptable to the Director;  (b) Interest. The maximum interest rate is specified in OAR 836-031-0280;  (c) Termination rates. Termination rates used in the computation of reserves shall be on the basis of a mortality table as specified in OAR 836-031-0290, except provided in this subsection. When a morbidity standard specified in 836-031-0270 is on an aggregate basis, the morbidity standard may be adjusted to reflect the effect of insurer underwriting by policy duration. The adjustments must be appropriate to the underwriting and are subject to prior approval by the Director. Total termination rates that exceed the specified mortality table rates may be used for the following benefits, but the total termination rates used may still not exceed the lesser of 80 percent of the total termination rate used in the calculation of the gross premiums or eight percent. The specified benefits are as follows:  (A) Contracts for which premium rates are not guaranteed;  (B) For return of premium; or  (C) Other deferred cash benefits.  (d) Reserve method:  (A) For insurance, excepting long-term care insurance and return of premium or other deferred cash benefits, the minimum reserve is the reserve calculated on the two-year full preliminary term reserve method; that is, under which the terminal reserve is zero at the first and also the second contract anniversary;  (B) For long-term care insurance, the minimum reserve is the reserve calculated on the one-year full preliminary term reserve method; and  (C) For return of premium or other deferred cash benefits, the minimum reserve is the reserve calculated as follows:  (i) On the one year preliminary term reserve method if such benefits are provided at any time before the 20th anniversary;  (ii) On the two year preliminary term reserve method if such benefits are provided only on or after the 20th anniversary;  (iii) The preliminary term reserve method may be applied only in relation to the date of issue of a contract. Reserve adjustments introduced later, as a result of rate increases, revisions in assumptions (e.g., projected inflation rates) or for other reasons, are to be applied immediately as of the effective date of adoption of the adjusted basis.  (e) Negative reserves. Negative reserves on any benefit may be offset against positive reserves for other benefits in the same contract, but the total contract reserve with respect to all benefits combined may not be less than zero.  (3) The following provisions apply with regard to alternative valuation methods and assumptions generally:  (a) If the contract reserve on all contracts to which an alternative method or basis is applied is not less in the aggregate than the amount determined according to the applicable standards specified in sections (1) and (2) of this rule, an insurer may use any reasonable assumptions as to interest rates, termination and mortality rates, and rates of morbidity or other contingency; and  (b) Subject to subsection (a) of this section, an insurer may employ methods other than the methods stated in sections (1) and (2) of this rule in determining a sound value of its liabilities under such contracts. The methods may include but are not limited to the following:  (A) The net level premium method;  (B) The one-year full preliminary term reserve method;  (C) Prospective valuation on the basis of actual gross premiums with reasonable allowance for future expenses;  (D) The use of approximations such as those involving age groupings, groupings of several years of issue, average amounts of indemnity, grouping of similar contract forms;  (E) The computation of the reserve for one contract benefit as a percentage of, or by other relation to, the aggregate contract reserves exclusive of the benefit or benefits so valued; and  (F) The use of a composite annual claim cost for all or any combination of the benefits included in the contracts valued.  (4) The following apply with regard to tests for adequacy and reasonableness of contract reserves:  (a) Annually, an insurer shall make an appropriate review of the prospective contract liabilities of the insurer on contracts valued by tabular reserves to determine the continuing adequacy and reasonableness of the tabular reserves, giving consideration to future gross premiums. Subject to the minimum standards of section (2) of this rule, the insurer shall make appropriate increments to such tabular reserves if such tests indicate that the basis of such reserves is no longer adequate.  (b) In the event an insurer has a contract or a group of related similar contracts for which future gross premiums will be restricted by contract, insurance department regulations or for other reasons, such that the future gross premiums reduced by expenses for administration, commissions, and taxes will be insufficient to cover future claims, the insurer shall establish contract reserves for such shortfall in the aggregate. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 731.244 & 733.080 
+ 
+ 
+ Statutes/Other Implemented:  ORS 733.080 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ ID 7-1995, f. & cert. ef. 11-15-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,335 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Public Employees Retirement System 
+ Chapter 459 
+ 
+ 
+ 
+ 
+ 
+ Division 50 DEFERRED COMPENSATION 
+ 459-050-0300 
+ Required Minimum Distribution Requirements
+ 
+ 
+ (1) Definitions. The following definitions apply for the purposes of this rule: 
+
+ (a) “Designated Beneficiary” means: 
+
+ (A) A natural person designated as a beneficiary by the participant as provided in OAR 459-050-0060; who is not an eligible designated beneficiary; or 
+
+ (B) If a trust is designated as a beneficiary, the individual beneficiaries of the trust will be treated as designated beneficiaries if the trust satisfies the requirements in section (2) of this rule. 
+
+ (C) If the beneficiary is not a person or a trust satisfying these requirements, the participant, alternate payee, or surviving beneficiary will be deemed to have no designated beneficiary only for purposes of required minimum distributions under IRC 409(a)(9), and distribution shall be made in accordance with section (10) of this rule. 
+
+ (b) “Eligible Designated Beneficiary” means a natural person designated as beneficiary by the participant as provided in OAR 459-050-0060 who is determined on the date of the plan participant’s death as: 
+
+ (A) The surviving spouse; 
+
+ (B) A child of the plan participant who has not reached majority; 
+
+ (C) Disabled (within the meaning of section IRC 72(m)(7)); 
+
+ (D) A chronically ill individual within the meaning of section IRC 7702B(c)(2); or 
+
+ (E) Any other individual who is not more than 10 years younger than the plan participant. 
+
+ (c) “Life Expectancy” means the length of time a person of a given age is expected to live as set forth in Treasury Regulation Section 1.72-9. Required minimum distributions shall be calculated so as to satisfy the requirements of Section 401(a)(9) using the life expectancy tables provided in Treasury regulations. Life expectancies may not be recalculated after the initial determination, except as otherwise required under Oregon or federal law. 
+
+ (d) “Required Beginning Date” means April 1 of the calendar year following the later of: 
+
+ (A) The calendar year in which the participant reaches: 
+
+ (i) 70½ years of age in 2019 or earlier; 
+
+ (ii) 72 years of age in calendar years 2020 through 2022; 
+
+ (iii) 73 years of age in calendar years 2023 through 2032; and 
+
+ (iv) 75 years of age beginning in 2033 and later; or 
+
+ (B) The calendar year in which the participant retires. 
+
+ (e) “Required Commencement Date” means the date that the deferred compensation plan must begin to distribute all or part of an account to a surviving beneficiary. 
+
+ (2) A trust as beneficiary. If a trust is designated as a beneficiary, the individual beneficiaries of the trust will be treated as designated beneficiaries as defined in subsection (1)(a) of this rule if by December 31 of the calendar year following the death of a person who designated a trust as beneficiary, the trust satisfies the following conditions: 
+
+ (a) The trust must be irrevocable, or become irrevocable by its terms at the time of the person’s death; 
+
+ (b) The trust’s beneficiaries must be natural persons who are identifiable from the trust instrument; and 
+
+ (c) One of the following must be provided to the Deferred Compensation Program: 
+
+ (A) A list of all beneficiaries of the trust, including contingent beneficiaries, along with a description of the portion to which they are entitled and any conditions on their entitlement, all corrected certifications of trust amendments, and a copy of the trust instrument if requested by the Deferred Compensation Program; or 
+
+ (B) A copy of the trust instrument and copies of any amendments after they are adopted. 
+
+ (3) Applicable law. Distributions under the Deferred Compensation Program shall be made in accordance with Internal Revenue Code (IRC) Section 401(a)(9), Treasury regulations, Internal Revenue Service rulings and other interpretations issued, including Proposed Treasury Regulation Section 1.401(a)(9)-2. IRC Section 401(a)(9) overrides the provisions of this rule and any other statute or rule pertaining to the required minimum distribution requirements and any manners of distributions, if they are found to be inconsistent with IRC Section 401(a)(9). 
+
+ (a) If a participant, alternate payee, or surviving beneficiary has not begun distribution or elected a minimum distribution by the beginning date or commencement date required in this rule and IRC Section 401(a)(9), the Deferred Compensation Program shall begin distribution of the minimum amount required as provided under OAR 459-050-0080(2)(e) or, if required, the entire account. Distribution under this subsection is subject to the provisions of OAR 459-050-0120(5). 
+
+ (b) The required minimum distribution amount may never exceed the entire account balance on the date of distribution. 
+
+ (4) Minimum distribution requirements for participants. Distributions must begin no later than the participant’s required beginning date. 
+
+ (a) The participant’s entire account balance shall be distributed over the participant’s life expectancy or over a period not extending beyond the participant’s life expectancy without regard to the designated beneficiary’s age unless the designated beneficiary is a spouse who is more than 10 years younger than the participant. 
+
+ (b) If the designated beneficiary is a spouse and is more than 10 years younger than the participant, the entire account balance shall be distributed over the joint lives of the participant and the designated beneficiary. 
+
+ (c) The participant’s entire account(s) balance in the Deferred Compensation Program shall be distributed first from the Deferred Compensation Account unless the participant indicates otherwise. 
+
+ (5) Minimum distribution requirements for alternate payees. The minimum distribution requirements applicable to an alternate payee are determined by whether a Qualified Domestic Relations Order (QDRO) allocates a separate account to the alternate payee or provides that a portion of a participant’s benefit is to be paid to the alternate payee. 
+
+ (a) If a separate account is established in the name of the alternate payee under OAR 459-050-0210, required minimum distributions to the alternate payee must begin no later than the participant’s required beginning date. The alternate payee’s entire account balance shall be distributed over the alternate payee’s life expectancy or over a period not extending beyond the alternate payee’s life expectancy. 
+
+ (b) If no separate account is established in the name of the alternate payee and the alternate payee is paid a portion of a participant’s benefit, the alternate payee’s portion of the benefit shall be aggregated with the amount distributed to the participant and will be treated, for purposes of meeting the minimum distribution requirement, as if it had been distributed to the participant. 
+
+ (6) Manners of distribution available to surviving designated beneficiaries. A surviving designated beneficiary may choose a manner of distribution and apply for a distribution as provided for in OAR 459-050-0080. If the distribution to a participant has begun in accordance with section 401(a)(9)(A)(ii) and the participant dies before the entire account has been distributed or after distributions are required to begin under section (4) of this rule, distributions to the surviving eligible designated beneficiary must be made at least as rapidly as under the manner of distribution used before the participant’s death, and distribution to the surviving designated beneficiary must be completed by December 31 of the calendar year containing the 10th anniversary of the participant’s death. 
+
+ (7)(a) Distributions treated as having begun. Distributions from an individual account are not treated as having begun to a participant in accordance with section 401(a)(9)(A)(ii) until the participant’s required minimum distribution beginning date, without regard to whether distributions from an individual account have been made before the required beginning date. 
+
+ (b) If distribution has been made before the required beginning date in the form of an irrevocable annuity, the distributions are treated as having begun if a participant dies after the annuity starting date but before the required beginning date. The annuity starting date will be deemed the required minimum distribution beginning date. 
+
+ (8) Required commencement date for a surviving designated beneficiary. If a participant dies before distributions are required to begin or are treated as having begun, the entire account balance must be distributed to a designated beneficiary or eligible designated beneficiary by December 31 of the calendar year containing the 10th anniversary of the participant’s death.   
+
+ (9)(a) Required commencement date for a surviving spouse’s beneficiary. If the surviving spouse dies after the participant’s death but before distributions to the spouse have begun, any death benefits payable to the surviving spouse’s beneficiary will be applied as if the surviving spouse were the participant. The date of death of the surviving spouse will be substituted for the date of death of the participant. 
+
+ (b) A death benefit payable to the surviving spouse of the deceased participant’s surviving spouse shall be distributed as provided in section (8) of this rule. 
+
+ (10)(a) Required commencement date if no designated beneficiary or eligible designated beneficiary: If a participant dies before the required beginning date with no designated beneficiary or eligible designated beneficiary as defined in section (1) of this rule the total account balance must be distributed by December 31 of the calendar year containing the fifth anniversary of the participant’s death. 
+
+ (b) If a participant dies after the required beginning date with no designated or eligible designated beneficiary as defined in section (1) of this rule, the applicable distribution period must not be longer than the participant’s life expectancy. 
+
+ (11) Notwithstanding any other sections of this rule and pursuant to the Coronavirus Aid, Relief, and Economic Security Act of 2020, required minimum distribution under IRC 401(a)(9) is waived for calendar year 2020, including 2019 required minimum distribution that would be made between January 1 and April 1, 2020. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 243.470 
+ 
+ 
+ Statutes/Other Implemented:  ORS 243.401 - 243.507 & Pub. L. No. 116-136 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PERS 9-2023, amend filed 07/28/2023, effective 07/28/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PERS 7-2023, amend filed 04/04/2023, effective 04/04/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PERS 13-2020, amend filed 07/31/2020, effective 07/31/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PERS 7-2020, temporary amend filed 05/29/2020, effective 05/29/2020 through 11/24/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PERS 10-2012, f. & cert. ef. 5-24-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PERS 6-2011, f. & cert. ef. 8-4-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PERS 6-2002, f. & cert. ef. 5-24-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

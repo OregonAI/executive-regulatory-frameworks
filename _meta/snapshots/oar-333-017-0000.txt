@@ -1,0 +1,570 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 17 DISEASE CONTROL (DEFINITIONS AND REFERENCES) 
+ 333-017-0000 
+ Definitions
+ 
+ 
+ For purposes of OAR chapter 333, divisions 17, 18 and 19, unless the context requires otherwise or a rule contains a more specific definition, the following definitions shall apply. 
+
+ (1) "AIDS": AIDS is an acronym for acquired immunodeficiency syndrome. An individual is considered to have AIDS when their illness meets criteria published in Morbidity and Mortality Weekly Report, Volume 41, Number RR-17, pages 1–4, December 18, 1992. 
+
+ (2) "Animal suspected of having rabies": An animal is suspected of having rabies when: 
+
+ (a) It is a dog, cat, or ferret not known to be satisfactorily vaccinated against rabies (as defined in OAR 333-019-0017), or it is any other mammal; and 
+
+ (b) It exhibits one or more of the following aberrant behaviors or clinical signs: unprovoked biting of persons or other animals, paralysis or partial paralysis of limbs, marked excitation, muscle spasms, difficulty swallowing, apprehensiveness, delirium, or convulsions; and it has no other diagnosed illness that could explain the neurological signs. 
+
+ (3) "Approved fecal specimen" means a specimen of feces from a person who has not taken any antibiotic orally or parenterally for at least 48 hours prior to the collection of the specimen. Improper storage or transportation of a specimen, or inadequate growth of the culture suggestive of recent antibiotic usage can, at the discretion of public health microbiologists, result in specimen rejection. 
+
+ (4) "Authority" means the Oregon Health Authority. 
+
+ (5) "Bite, biting, bitten": The words bite, biting, and bitten refer to breaking of the skin by the teeth of an animal, or mouthing a fresh abrasion of the skin by an animal. 
+
+ (6) “Blood lead level at or above the blood lead reference value” means a lead level, in at least one venous blood sample or in two capillary blood samples drawn within 12 weeks of each other, of at least 3.5 micrograms per deciliter. 
+
+ (7) “Carbapenemase-producing” means the ability to produce an enzyme that can inactivate carbapenem antibiotics, as evidenced by any of the following laboratory results for any specimen: 
+
+ (a) A phenotypic test (for example, Carba NP) positive for carbapenemase production; or 
+
+ (b) A nucleic acid assay indicating the presence of a carbapenemase gene. 
+
+ (8) "Case" means a person who has been diagnosed by a health care provider as having a particular disease, infection, or condition, or whose illness meets defining criteria published in the Oregon Health Authority's Investigative Guidelines, available at www.healthoregon.org/iguides. 
+
+ (9) "Children’s facility" means: 
+
+ (a) A certified child care facility as described in ORS 329A.030 and 329A.250 to 329A.450, except an "exempted children’s facility" as defined in OAR 333-050-0010; 
+
+ (b) A program operated by, or sharing the premises with, a certified child care facility, school or post-secondary institution where care is provided to children, six weeks of age to kindergarten entry, except an "exempted children’s facility" as defined in OAR 333-050-0010; or 
+
+ (c) A program providing child care or educational services to children, six weeks of age to kindergarten entry, in a residential or nonresidential setting, except an "exempted children’s facility" as defined in OAR 333-050-0010. 
+
+ (10) "Control" has the meaning given that term in ORS 433.001. 
+
+ (11) "COVID-19" means a disease caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). 
+
+ (12) "Disease outbreak" has the meaning given that term in ORS 431A.005. 
+
+ (13) ”Enterobacterales order” means the order of bacteria that includes but is not limited to the following genera: 
+
+ (a) Citrobacter; 
+
+ (b) Enterobacter; 
+
+ (c) Escherichia; 
+
+ (d) Hafnia; 
+
+ (e) Klebsiella; 
+
+ (f) Kluyvera; 
+
+ (g) Morganella; 
+
+ (h) Proteus; 
+
+ (i) Providencia; 
+
+ (j) Raoultella; 
+
+ (k) Serratia. 
+
+ (14) "Fever" means a body temperature measured at ≥38.0°C (100.4°F), or report of subjective fever, for at least 24 hours. 
+
+ (15) "Food handler" means any business owner or employee who handles food utensils or who prepares, processes, handles or serves food for people other than members of their immediate household, for example restaurant, delicatessen, and cafeteria workers, caterers, and concession stand operators. 
+
+ (16) "Food service facility" means a facility that is required to be licensed under ORS chapter 624. 
+
+ (17) "Health care facility" has the meaning given that term in ORS 442.015. 
+
+ (18) "Health care provider" has the meaning given that term in ORS 433.443. 
+
+ (19) "HIV" means the human immunodeficiency virus, the causative agent of AIDS. 
+
+ (20) "HIV test" means a Food and Drug Administration (FDA)-approved test for the presence of HIV (including RNA testing), or for antibodies or antigens that result from HIV infection, or for any other substance specifically associated with HIV infection and not with other diseases or conditions. 
+
+ (21) "HIV positive test" means a positive result on the most definitive HIV test procedure used to test a particular individual. In the absence of the recommended confirmation tests, this means the results of the initial test done. 
+
+ (22) "Laboratory evidence of inflammation" means one or more of the following: elevated serum C-reactive protein (CRP), fibrinogen, procalcitonin, D-dimer, ferritin, or lactic acid dehydrogenase (LDH); elevated erythrocyte sedimentation rate (ESR) or neutrophil count; low serum albumin; or reduced absolute lymphocyte count. 
+
+ (23) "Licensed laboratory" means a medical diagnostic laboratory that is inspected and licensed by the Authority or otherwise licensed according to the provisions of the federal Clinical Laboratory Improvement Amendments of 1988 (42 U.S.C. § 263a). 
+
+ (24) "Licensed physician" means any physician who is licensed by the Oregon Medical Board or the Board of Naturopathic Medicine. 
+
+ (25) "Licensed veterinarian" means a veterinarian licensed by the Oregon Veterinary Medical Examining Board. 
+
+ (26) "Local Public Health Administrator" has the meaning given that term in ORS 431.260. 
+
+ (27) "Local Public Health Authority" has the meaning given that term in ORS 431.260. 
+
+ (28) "Multi-System Inflammatory Syndrome in Children (MIS-C)" means an individual under the age of 21: 
+
+ (a) Hospitalized with fever, laboratory evidence of inflammation, and involvement of at least two of the following organ systems: cardiac, renal, respiratory, hematologic, gastrointestinal, dermatologic or neurologic; and 
+
+ (b) With no alternative more likely diagnosis; and 
+
+ (c) With evidence for current or recent SARS-CoV-2 infection by nucleic acid amplification test (NAAT), serology, or antigen testing; or COVID-19 exposure within the 60 days prior to the onset of symptoms. 
+
+ (29) "Novel influenza" means influenza A virus that cannot be subtyped by commercially distributed assays. 
+
+ (30) "Onset": Unless otherwise qualified, onset refers to the earliest time of appearance of signs or symptoms of an illness. 
+
+ (31) "Pesticide poisoning" means illness in a human that is caused by acute or chronic exposure to: 
+
+ (a) Any substance or mixture of substances intended for preventing, destroying, repelling, or mitigating any pest; or 
+
+ (b) Any substance or mixture of substances intended for use as a plant regulator, defoliant, or desiccant as defined in ORS 634.006. 
+
+ (32) "Public Health Division (Division)" means the Public Health Division within the Oregon Health Authority. 
+
+ (33) "Rabies post-exposure prophylaxis" means initial administration of rabies vaccine or rabies immune globulin in response to an encounter with an animal, whether or not the animal involved meets the definition of an "animal suspected of having rabies" as described in OAR 333-017-0000(2). 
+
+ (34) "Resistant to any carbapenem antibiotic" means 
+
+ (a) Carbapenemase-producing; or 
+
+ (b) Resistant to any carbapenem antibiotic as evidenced by elevated minimum inhibitory concentration (MIC) as follows: 
+
+ (A) For Acinetobacter species bacteria: 
+
+ (i) MIC for imipenem greater than or equal to 8 mcg/mL; or 
+
+ (ii) MIC for meropenem greater than or equal to 8 mcg/mL; 
+
+ (B) For all other bacteria: 
+
+ (i) MIC for imipenem greater than or equal to 4 mcg/mL; or 
+
+ (ii) MIC for meropenem greater than or equal to 4 mcg/mL; or 
+
+ (iii) MIC for ertapenem greater than or equal to 2 mcg/mL. 
+
+ (35) "School" means a public, private, parochial, charter or alternative educational program offering kindergarten through grade 12 or any part thereof. 
+
+ (36) "School administrator" means the principal or other person having general control and supervision of a school or children’s facility and has the same meaning as "administrator" in ORS 433.235. 
+
+ (37) "Specimen source site" means the source from which the specimen was obtained. 
+
+ (a) For environmental samples, "specimen source site" means the location of the source of the specimen. 
+
+ (b) For biological samples, "specimen source site" means the anatomical site from which the specimen was collected. 
+
+ (38) "Specimen type" means the description of the source material of the specimen. 
+
+ (39) "Suspected case" means a person whose illness is thought by a health care provider to have a significant likelihood of being due to a reportable disease, infection, or condition, based on facts such as but not limited to the patient's signs and symptoms, possible exposure to a reportable disease, laboratory findings, or the presence or absence of an alternate explanation for the illness. 
+
+ (40) "Uncommon illness of potential public health significance": These illnesses include: 
+
+ (a) Any infectious disease with potentially life-threatening consequences that is exotic to or uncommon in Oregon, for example, variola (smallpox) or viral hemorrhagic disease; 
+
+ (b) Any illness related to a contaminated medical device or product; or 
+
+ (c) Any acute illness suspected to be related to environmental exposure to any infectious or toxic agent or to any household product. 
+
+ (41) "Veterinary laboratory" means a laboratory whose primary function is handling and testing diagnostic specimens of animal origin. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042, 433.004, 616.745, 624.080 & 433.329 
+ 
+ 
+ Statutes/Other Implemented:  ORS 433.004, 433.360, 616.745, 624.380 & 433.332 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 51-2023, amend filed 10/26/2023, effective 10/26/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 60-2020, amend filed 09/04/2020, effective 09/04/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 17-2020, amend filed 03/26/2020, effective 04/06/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 20-2019, temporary amend filed 10/09/2019, effective 10/09/2019 through 04/05/2020 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 21-2017, amend filed 12/21/2017, effective 01/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 24-2016, f. 8-8-16, cert. ef. 8-16-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 10-2015, f. 7-2-15, cert. ef. 7-3-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 16-2013, f. 12-26-13, cert. ef. 1-1-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 7-2011, f. & cert. ef. 8-19-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 5-2010, f. & cert. ef. 3-11-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 11-2005, f. 6-30-05, cert. ef. 7-5-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHD 2-2002, f. & cert. ef. 3-4-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 29-1994, f. & cert. ef. 12-2-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 9-1992, f. & cert. ef. 8-14-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 10-1991, f. & cert. ef. 7-23-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 5-1991, f. 5-29-91, cert. ef. 4-1-91 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ Reverted to HD 4-1987, f. 6-12-87, ef. 6-19-87 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 13-1990(Temp), f. 3-25-90, cert. ef. 8-1-90 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 4-1987, f. 6-12-87, ef. 6-19-87 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 12-1983, f. & ef. 8-1-83 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 15-1981, f. 8-13-81, ef. 8-15-81 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

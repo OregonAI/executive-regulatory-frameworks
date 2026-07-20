@@ -1,0 +1,285 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Insurance Regulation - Chapter 836 
+ 
+ 
+ 
+ 
+ Division 53 HEALTH BENEFIT PLANS 
+ 836-053-1070 
+ Reporting of Grievances and Prior Authorization; Format and Contents
+ 
+ 
+ (1)(a) To comply with the requirements in ORS 743B.250, on or before June 30 of each calendar year, an insurer must submit information pertaining to grievances and appeals in the previous calendar year ending December 31. 
+
+ (b) To comply with the requirements in Oregon Laws 2025, chapter 388, on or before January 31 of each calendar year, an insurer must submit information pertaining to prior authorizations in the previous calendar year ending December 31. 
+
+ (c) The data must be reported in the format prescribed by the director of the Department of Consumer and Business Services as set forth on the website of the Division of Financial Regulation of the Department of Consumer and Business Services at dfr.oregon.gov. Filing and reporting requirements in this rule apply to: 
+
+ (A) A domestic insurer; and 
+
+ (B) A foreign insurer transacting $2 million or more in health benefit plan premium in Oregon during the calendar year immediately preceding the due date of a required report. 
+
+ (2) For purposes of this rule, a grievance is “closed” if: 
+
+ (a) The grievance has been appealed through all available grievance appeal levels; or 
+
+ (b) The insurer determines that the complainant is no longer pursuing the grievance. 
+
+ (3) The grievance data to be included in the annual summary required by section 1 of this rule are as follows: 
+
+ (a) The total number of grievances closed in the reporting year; 
+
+ (b) The number of grievances closed in each of the categories listed in section 4 of this rule; 
+
+ (c) The number and percentage of grievances in each of the categories listed in section 4 of this rule in which the insurer’s initial decision is upheld and the number and percentage in which the initial decision is reversed at closure of the grievance; 
+
+ (d) The number and percentage of all grievances that are closed at the conclusion of the first level of appeal; 
+
+ (e) The number and percentage of all grievances that are closed at the conclusion of the second level of appeal; 
+
+ (f) The number and percentage of all grievances that result in applications for external review; and 
+
+ (g) For each level of appeal listed in subsections d and e of this section, the average length of time between the date an enrollee files the appeal and the date an insurer sends written notice of the insurer’s determination for that appeal to the enrollee, or person filing the appeal on behalf of the enrollee. 
+
+ (4) An insurer must report each grievance according to the nature of the grievance. The nature of the grievance shall be determined according to the categories listed in this section. The insurer must report each grievance in one category only and must have a system that allows the insurer to report accurately in the specified categories. If a grievance could fit in more than one category, an insurer shall report the grievance in the category established in this section that the insurer determines to be most appropriate for the grievance. The categories of grievances are as follows: 
+
+ (a) Adverse benefit determinations based on medical necessity under ORS 743.857; 
+
+ (b) Adverse benefit determinations based on an insurer’s determination that a plan or course of treatment is experimental or investigational under ORS 743.857; 
+
+ (c) Continuity of care as defined in ORS 743.854; 
+
+ (d) Access and referral problems including timelines and availability of a provider and quality of clinical care; 
+
+ (e) Whether a course or plan of treatment is delivered in an appropriate health care setting and with the appropriate level of care; 
+
+ (f) Adverse benefit determinations of otherwise covered benefits due to imposition of a source-of-injury exclusion, out-of-network or out-of-plan exclusion, annual benefit limits or other limitations of otherwise covered benefits, or imposition of a preexisting condition exclusion in a grandfathered health plan; 
+
+ (g) Adverse benefit determinations based on general exclusions, not a covered benefit or other coverage issues not listed in this section; 
+
+ (h) Eligibility for, or termination of enrollment, rescission or cancelation of a policy or certificate; 
+
+ (i) Quality of plan services, not including the quality of clinical care as provided in subsection d of this section; 
+
+ (j) Emergency services; and 
+
+ (k) Administrative issues and issues other than those otherwise listed in this section. 
+
+ (5) Nothing in this rule prohibits an insurer from creating or using its own system to categorize the nature of grievances in order to collect data if the system allows the insurer to report grievances accurately according to the categories in section 4 of this rule and if the system enables the director to track the grievances accurately. 
+
+ (6) For the purposes of this rule, the definitions for “standard” and “expedited” prior authorizations are: 
+
+ (a) “Standard prior authorization” means a prior authorization request that is not an expedited prior authorization request. 
+
+ (b) “Expedited prior authorization” means a prior authorization that must be expedited in order to avoid jeopardizing the enrollee’s life, health or ability to maintain or regain maximum function. 
+
+ (7) The prior authorization data to be included in the annual summary required by section 1 of this rule are as follows: 
+
+ (a) The percentage and number of standard prior authorization requests that were approved; 
+
+ (b) The percentage and number of standard prior authorization requests that were denied; 
+
+ (c) The percentage and number of standard prior authorization requests that were approved after appeal; 
+
+ (d) The percentage and number of all prior authorization requests for which the time frame for review was extended and the request was approved; 
+
+ (e) The percentage and number of expedited prior authorization requests that were approved; 
+
+ (f) The percentage and number of expedited prior authorization requests that were denied; 
+
+ (g) The average and median times that elapsed between the submission of a request and a determination by the insurer for standard prior authorization; and 
+
+ (h) The average and median times that elapsed between the submission of a request and a decision by the insurer for expedited prior authorization. 
+
+   
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 743B.250, ORS 743B.420, ORS 743B.422, ORS 743B.423, ORS 746.233 & Or Laws 2025, ch 388 
+ 
+ 
+ Statutes/Other Implemented:  ORS 743B.250, ORS 743B.420, ORS 743B.422, ORS 743B.423, ORS 746.233 & Or Laws 2025, ch 388 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ID 10-2025, amend filed 11/18/2025, effective 01/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ID 10-2021, amend filed 12/14/2021, effective 01/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ID 12-2013, f. 12-31-13, cert. ef. 1-1-14 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ ID 23-2011, f. & cert. ef. 12-19-11 
+ID 15-2010, f. & cert. ef. 8-19-10 
+ID 1-1998, f. & cert. ef. 1-15-98 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

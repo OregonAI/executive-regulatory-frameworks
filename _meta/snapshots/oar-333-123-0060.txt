@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 123 THERAPEUTIC RADIATION MACHINES 
+ 333-123-0060 
+ Facility Design Requirements for Electronic Brachytherapy Devices 
+ 
+ (1) In addition to shielding adequate to meet the requirements of division 120 of this chapter, a treatment room where an electronic brachytherapy device is used shall:  (a) Prevent simultaneous operation of more than one therapeutic radiation machine in a treatment room if applicable;  (b) Have a door at any entrance; and  (c) Permit communication with and visual observation of the patient from the treatment control panel during the irradiation from an electronic brachytherapy device.  (2) For electronic brachytherapy devices capable of operating at or below 50 kV, radiation shielding for the staff in the treatment room shall be available, either as a portable shield or as localized shielded material around the treatment site.  (3) For electronic brachytherapy devices capable of operating at greater than 150 kV:  (a) The control panel shall be located outside the treatment room; and  (b) Electrical interlocks shall be provided for all doors providing entrance into the treatment room that can:  (A) Prevent the operator from initiating the treatment cycle if a door remains open;  (B) Cause the source to be shielded when an entrance door is opened; and  (C) Prevent the source from being exposed following an interlock interruption until all treatment room entrance doors are closed and the source on-off control is reset at the console. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 453.605 - 453.807 
+ 
+ 
+ Statutes/Other Implemented:  ORS 453.605 - 453.807 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 4-2013, f. & cert. ef. 1-29-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

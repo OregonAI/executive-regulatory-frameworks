@@ -1,0 +1,329 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Transportation 
+ Rail Division - Chapter 741 
+ 
+ 
+ 
+ 
+ Division 510 OREGON RAILROAD HAZARDOUS MATERIALS TRANSPORTATION RULES 
+ 741-510-0010 
+ General Provisions and Definitions 
+ 
+ (1) OAR 741-510-0010 through 741-510-0050 and 741-520-0010 through 741-520-0020, which shall be known as the Oregon Railroad Hazardous Materials Transportation Rules, are adopted under authority of ORS 824.080 through 824.092.  (2) “Emergency Response Agency” means county or local jurisdictions, and tribal, state and federal agencies, with a responsibility to conduct first response or support emergency operations and clean-up.  (3) “Hazard Class” means the category of hazard assigned to a hazardous material under the definitional criteria in 49 CFR Part 173 and as listed in the hazardous material table in 49 CFR 172.101, in effect on the date this rule is filed with the Secretary of State (anticipated June 18, 2015).  (4) “Hazardous Material” means any hazardous material or hazardous substance defined in Title 49 CFR 171.8, as adopted in OAR 741-510-0015 pursuant to ORS 824.086(1) in effect on the date this rule is filed with the Secretary of State (anticipated June 18, 2015).  (5) “Incident” means any situation where a release of a Hazardous Material occurs, involving fire, breakage, spillage, or derailment.  (6) “Line Segment” means a length of rail line over which a Hazardous Material is transported between two or more stations within the state that are identified on a current railroad timetable. A Line Segment will terminate at the nearest station where an alternate route exists.  (7) “Rail Division” means the Rail and Public Transit Division of the Oregon Department of Transportation.  (8) “Railroad Emergency Response Telephone Number” means a telephone number that is answered at all times by a person who is able to provide detailed information regarding specific Incidents involving Hazardous Materials on the railroad, or has immediate access to a person who possesses such knowledge and information. A telephone number that requires a call back (such as an answering service, answering machine, or beeper devise) does not meet the requirements of this definition.  (9) “Timetable” means a publication containing instructions relating to the movement of trains or equipment and other essential information for purposes of railroad operations.  (10) “UN or NA Identification Number” means the 4-digit number assigned to the proper shipping name of a Hazardous Material as referenced in 49 CFR 172.101. “UN” numbers are assigned by the United Nations and are preceded by “UN”. “NA” (North American) numbers are identical to UN numbers, except that some substances without a UN number may have an NA number. These identification numbers provide a common reference for hazard information and general emergency response procedures for Hazardous Materials in transportation. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 184.616, 184.619, 823.011, 823.061 & 824.086 
+ 
+ 
+ Statutes/Other Implemented:  ORS 824.080 - 824.092 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ RD 2-2015, f. & cert. ef. 9-14-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RD 1-2015, f. & cert. ef. 9-3-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RS 1-1997, f. & cert. ef. 6-27-97 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RS 3-1996, f. 3-20-96, cert. ef. 4-1-96 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RS 2-1996, f. & cert. ef. 3-14-96, Renumbered from 860-046-0500 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 6-1995, f. & cert. ef. 7-13-95, Order No. 95-562 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 6-1994, f. & cert. ef. 3-28-94, Order No. 94-525 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 10-1993, f. & cert. ef. 6-3-93, Order No. 93-693 & 93-761 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 6-1992, f. & cert. ef. 2-26-92, Order No. 92-292 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 1-1991, f. & cert. ef. 1-11-91, Order No. 91-20 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 4-1989, f. & cert. ef. 4-11-89, Order No. 89-444 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 20-1986, f. & ef. 12-30-86, Order No. 86-1330 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 6-1985, f. & ef. 6-5-85, Order No. 85-496 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 5-1984, f. & ef. 3-6-84, Order No. 84-164 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 1-1979, f. & ef. 3-5-79, Order No. 79-145 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

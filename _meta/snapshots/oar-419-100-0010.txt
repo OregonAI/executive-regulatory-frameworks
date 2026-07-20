@@ -1,0 +1,564 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Office of Training, Investigations and Safety 
+ Chapter 419 
+ 
+ 
+ 
+ 
+ 
+ Division 100 ADULT ABUSE INVESTIGATIONS IN DEVELOPMENTAL DISABILITIES SERVICES 
+ 419-100-0010 
+ Definitions
+ 
+ 
+ In addition to the definitions in ORS 430.735, the following terms are defined as used in OAR chapter 419, division 100. 
+
+ (1) “Abuse” means as defined in ORS 430.735. 
+
+ (2) “Abuse Investigation and Protective Services Report” means a written report completed under these rules. 
+
+ (3) “Accused Person” or “Accused Provider” (AP, formerly known as alleged perpetrator) means: 
+
+ (a) A person, caregiver, facility or service provider who is the respondent in an abuse investigation under these rules, alleged or determined to have committed abuse of an adult. 
+
+ (b)  "Accused person" does not include: 
+
+ (A) Minors, who are persons under the age of 18 years old and not considered emancipated. 
+
+ (B) A person who also qualifies as:¶ 
+
+ (i) An "adult" with a developmental disability as defined under ORS 430.735 (2)(a); or 
+
+ (ii) Another individual who is receiving residential services from the same facility as the alleged victim. 
+
+ (c) The exceptions of (b) (B) above do not apply if such accused person is a paid caregiver or service provider for the adult alleged or determined to have been abused. 
+
+ (4)  “Administrative closure” means an assigned abuse allegation that is approved to be closed without further investigation due to being opened in error. 
+
+ (5) “Adult” as defined in ORS 430.735 and used in OAR chapter 419, division 100 means an individual who is 18 years of age or older with a developmental disability who is: 
+
+ (a) Currently receiving services from a community program or facility; or 
+
+ (b) Was previously determined eligible for services as an adult by a community program or facility; and 
+
+ (c) Is the reported or alleged victim of abuse. 
+
+ (6) “Adult protective services” means as defined in ORS 430.735 the necessary actions taken to prevent abuse or exploitation of an adult, to prevent self-destructive acts and to safeguard the adult’s person, property and funds, including petitioning for a protective order as defined in ORS 125.005. Any actions taken to protect an adult shall be undertaken in a manner that is least intrusive to the adult and provides for the greatest degree of independence. 
+
+ (7) “Brokerage” or “Support service brokerage” means an entity or distinct operating unit within an existing entity that performs the functions associated with planning and implementation of services for an individual with intellectual or developmental disabilities. 
+
+ (8) “Caregiver” means as defined in ORS 430.735 an individual, whether paid or unpaid, or facility that has assumed responsibility for all or a portion of the care of an adult as a result of a contract or agreement. 
+
+ (9) “Closed without abuse determination” means after diligent efforts have been made, the investigator is unable to locate the AP, the alleged victim or another individual who might have information critical to the outcome of the investigation; or relevant records or documents are unavailable, so the investigation cannot be completed. 
+
+ (10) “Community program” as defined in ORS 430.735 includes: 
+
+ (a) A community mental health program or a community developmental disabilities program as established in ORS 430.610 to 430.695; or 
+
+ (b) A provider that is paid directly or indirectly by the Oregon Health Authority to provide mental health treatment in the community. 
+
+ (11) “Designee” means the community mental health or developmental disabilities program. A community developmental disability program is considered a designee of the Department for the purposes of these rules and ORS 430.731 and 430.735 to 430.765. 
+
+ (12) “Department” means the Oregon Department of Human Services (ODHS). 
+
+ (13) “Educational provider” means an education provider, as defined in ORS 339.370. 
+
+ (14) “Educational provider’s licensed administrator” also known as “chief administrator" means the person designated by the educational provider’s policies adopted under ORS 339.372 as amended by Section 3 of 2019 SB 155 to receive complaints involving their school employees, contractors, agents, or volunteers. and includes an alternate licensed administrator, if the designee is the accused person. 
+
+ (15) “Exception for religious practice” means an adult who in good faith is voluntarily under treatment solely by spiritual means through prayer in accordance with the tenets and practices of a recognized church or religious denomination by a duly accredited practitioner thereof shall for this reason alone not be considered subjected to abuse under ORS 430.735 to 430.765. 
+
+ (16) “Facility” means as defined in ORS 430.735 a residential treatment home or facility, residential care facility, adult foster home, residential training home or facility or crisis respite facility. 
+
+ (17) “Good cause” for an extension means: 
+
+ (a) When law enforcement is conducting an investigation or in process of prosecution; 
+
+ (b) A material party or witness is temporarily unavailable; or 
+
+ (c) New evidence is discovered that leads to additional alleged abuses being investigated (allegations). 
+
+ (18) “Investigator” means an OTIS employee or CDDP designee who is authorized and receives OTIS approved training to screen reports or complaints of abuse, assess protective services and investigate alleged abuse (allegations) of adults with developmental disabilities under these rules. 
+
+ (19) “Law enforcement agency” or LEA means: 
+
+ (a) Any city or municipal police department, 
+
+ (b) A police department established by a university under ORS 352.121 or 353.125, 
+
+ (c) Any county sheriff’s office, 
+
+ (d) The Oregon State Police, or 
+
+ (e) Any district attorney. 
+
+ (20) “Not substantiated” means there is less than a preponderance of evidence to show that abuse occurred. 
+
+ (21) “Office of Training, Investigations and Safety” or OTIS means the unit within the Department’s Shared Services. 
+
+ (22) “Provider agency” means an entity licensed, certified or authorized by the Department to provide developmental disability services or which is responsible for the management of developmental disability services. 
+
+ (23) “Redacted” means information deemed confidential under state or federal laws that are excluded from public record release. 
+
+ (24) “Self-defense” as defined in ORS 430.768 and used in OAR 419-100-0080 (6) means the use of physical force upon another person in self-defense or to defend a third person. 
+
+ (25) “Services” as defined in ORS 430.735 includes but is not limited to the provision of food, clothing, medicine, housing, medical services, assistance with bathing or personal hygiene or any other service essential to the well-being of an adult. 
+
+ (26) “State Hospital" as described in ORS 426.010 means the Oregon State Hospital campuses in Salem and in Junction City for persons with mental illness for care and treatment. 
+
+ (27) “Substantiated” means that the preponderance of evidence establishes the abuse occurred. 
+
+ (28) “Unbiased investigation” means an investigation conducted by an investigator that does not have an actual or potential conflict of interest with the outcome. 
+
+ (29) “Wrongful restraint” does not include physical emergency restraint to prevent immediate injury to an adult who is in danger of physically harming himself or herself or others, provided only that the degree of force reasonably necessary for protection is used for the least amount of time necessary. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 409.050, 409.010 & 430.731 
+ 
+ 
+ Statutes/Other Implemented:  ORS 430.735 - 430.765, 443.400 - 443.465, 443.705 - 443.825, 443.875, 430.731, 430.662, 430.768 & 410.600 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OTIS 5-2026, amend filed 07/08/2026, effective 07/08/2026 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OTIS 59-2024, minor correction filed 12/04/2024, effective 12/04/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OTIS 80-2023, minor correction filed 12/01/2023, effective 12/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHS 7-2023, renumbered from 407-045-0260, filed 12/01/2023, effective 12/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHS 25-2022, minor correction filed 05/02/2022, effective 05/02/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 22-2020, minor correction filed 10/07/2020, effective 10/07/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 21-2020, amend filed 09/29/2020, effective 10/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 33-2019, amend filed 12/30/2019, effective 01/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 30-2019, minor correction filed 12/06/2019, effective 12/06/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 11-2019, amend filed 08/01/2019, effective 08/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 4-2019, temporary amend filed 03/01/2019, effective 03/01/2019 through 08/27/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 25-2018, amend filed 08/27/2018, effective 08/27/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 3-2018, temporary amend filed 02/27/2018, effective 03/01/2018 through 08/27/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 3-2016, f. & cert. ef. 2-3-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 9-2011, f. 12-1-11, cert. ef. 12-5-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 11-2010, f. 12-30-10, cert. ef. 1-1-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 7-2010(Temp), f. & cert. ef. 8-5-10 thru 1-31-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 4-2010, f. & cert. ef. 6-29-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 12-2009(Temp), f. 12-31-09, cert. ef. 1-1-10 thru 6-29-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 3-2009, f. & cert. ef. 5-1-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 410-009-0060, DHSD 5-2007, f. 6-29-07, cert. ef. 7-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 309-040-0210, OMAP 87-2004, f. 11-10-04, cert. ef. 12-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ MHD 5-1994, f. 8-22-94 & cert. ef. 9-1-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

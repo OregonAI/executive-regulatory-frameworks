@@ -1,0 +1,223 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Department of Emergency Management 
+ Chapter 104 
+ 
+ 
+ 
+ 
+ 
+ Division 80 9-1-1 EMERGENCY COMMUNICATIONS  SYSTEM PROGRAM 
+ 104-080-0110 
+ Requirements of the Department
+ 
+ 
+ (1) Upon written notice to the 9-1-1 jurisdiction and the primary PSAP, the Department may audit the 9-1-1 jurisdiction or the primary PSAP for compliance with the 9-1-1 jurisdiction plan, ORS 403.100 to 403.165 and ORS 403.235 to 403.250, and OAR chapter 104, division 080. 
+
+ (2) The Department shall collect and maintain a list of contact information for each primary and secondary PSAP and make the list available on the Department’s website, including: 
+
+ (a) PSAP name; 
+
+ (b) Physical or mailing address; 
+
+ (c) 10-digit 24-hour emergency number; 
+
+ (d) 10-digit 24-hour non-emergency number; and 
+
+ (e) Name(s) and title of primary point of contact. 
+
+ (3) The Department shall collect and maintain an itemized list of the CPE necessary to receive emergency calls through the 9-1-1 emergency communications system, including the equipment lifespan described by the manufacturer, and the equipment’s update and maintenance schedule. 
+
+ (4) The Department shall approve or reject all ESNs requested by a primary PSAP for use in the 9-1-1 GIS, MSAG and ALI databases. The Department will make a reasonable attempt to prevent duplication of these ESNs, validate that the number aligns with the designated block of ESN numbers, and ensure compatibility with the Oregon ALI Format[1]. The Department may, as required, assign or direct reassignment of ESNs to prevent unnecessary duplication, confusion or misrouting of emergency calls. 
+
+ (5) The Department shall coordinate and oversee the implementation of 9-1-1 GIS in Oregon, which may include the following activities: 
+
+ (a) Identify and adopt technical standards and requirements; 
+
+ (b) Identify and establish procedures for 9-1-1 GIS data maintenance; 
+
+ (c) Identify and establish development of critical GIS data layers for use in current and future mapping systems and 9-1-1 functional elements; and 
+
+ (d) Define and establish a standard GIS data model[2] to be used for the development, transfer, and storage of critical GIS data layers. 
+
+ [Publications [1]: Publications referred to or incorporated by reference in this rule are available from the Department and are also available at https://www.oregon.gov/OEM/Documents/oregonali_aliaqor.pdf] 
+
+ [Publications [2]: Publications referred to or incorporated by reference in this rule are available from the Department and are also available at https://cdn.ymaws.com/www.nena.org/resource/resmgr/standards/nena-sta-006_ng9-1-1_gis_dat.pdf 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 403.120; 2015 HB 2426 
+ 
+ 
+ Statutes/Other Implemented:  ORS 403 & 2015 HB 2426 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OEM 19-2023, minor correction filed 04/07/2023, effective 04/07/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OEM 2-2018, amend filed 11/02/2018, effective 11/02/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OEM 3-2015, f. & cert. ef. 12-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,525 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Board of Accountancy 
+ Chapter 801 
+ 
+ 
+ 
+ 
+ 
+ Division 5 DEFINITIONS 
+ 801-005-0010 
+ Definitions
+ 
+ 
+ As used in OAR Chapter 801, the following terms or abbreviations have the following meanings, unless otherwise defined therein: 
+
+ (1) Accounting Standards Codification (ASC) is published by the Financial Accounting Standards Board (FASB) and is adopted as if fully set forth herein as published on December 1, 2025, except for any individual ASC standard that conflicts with or is outside the authority of the Board’s statutes. The ASC can be found on the FASB’s website and a copy of it is on file at the Board’s office. 
+
+ (2) Active means a current license issued by the Oregon Board of Accountancy or other jurisdiction to an individual who has met the requirements to hold a CPA or PA license, has been properly renewed and is in good standing. 
+
+ (3) AICPA means American Institute of Certified Public Accountants. 
+
+ (4) AICPA Code of Professional Conduct issued by the AICPA and is adopted as if fully set forth herein as published on December 1, 2025 except for any individual AICPA Code of Professional Conduct standard that conflicts with or is outside the authority of the Board’s statutes. The AICPA Code of Professional conduct can be found on the AICPA’s website and a copy of it is on file at the Board’s office. 
+
+ (5) Applicant means a person applying for a license to practice public accountancy. 
+
+ (6) Attestation Services means the following professional services required to be performed under the following standards: 
+
+ (a) Any audit or other engagement for which performance standards are included in the Statements on Auditing Standards (SAS), International Standards on Auditing (ISA), or other internationally recognized auditing standards; 
+
+ (b) Any review of a financial statement for which performance standards are included in the Statement on Standards for Accounting and Review Services (SSARS); 
+
+ (c) Any examination of prospective financial information for which performance standards are included in the Standards for Attest Engagements (SSAE); 
+
+ (d) Any examination, review or agreed upon procedures engagement other than an examination described in paragraph (c) of this subsection for which performance standards are included in the Statements on Standards for Attestation Engagements (SSAE); and 
+
+ (e) Any engagement for which performance standards are included in the Auditing Standards of the Public Company Accounting Oversight Board in the United States (PCAOB). 
+
+ (f) The statements on standards specified in subsections (a) through (d) of this definition are those developed by the AICPA. 
+
+ (7) Auditing Standards (AS) issued by the Public Company Accounting Oversight Board (PCAOB) and adopted as if fully set forth herein as published on December 1, 2025, except for any individual AS that conflicts with or is outside the authority of the Board’s statutes. The AS can be found on the PCAOB’s website and a copy of it is on file at the Board’s office. 
+
+ (8) Business Organization means any form of business organization authorized by law, including but not limited to a proprietorship, partnership, corporation, limited liability company, limited liability partnership or professional corporation. 
+
+ (9) CPA or Certified Public Accountant means a person who holds an active certified public accountant license for the practice of public accountancy. 
+
+ (10) CPA Exam means the Uniform Certified Public Accountant Examination. 
+
+ (11) CPE means continuing professional education. 
+
+ (12) Candidate means a person applying for the CPA Exam. 
+
+ (13) Censure means an official written expression of reprimand, by Board action, to a licensee for specified conduct. 
+
+ (14) Certificate means a certificate of certified public accountant. 
+
+ (15) Circular No. 230 is the Treasury Department Regulations Governing Practice before the Internal Revenue Service, Rev. 6-2014 and is adopted as if fully set forth herein except for any individual Circular No. 230 regulation that conflicts with or is outside the authority of the Board’s statutes. Circular No. 230 Rev. 6-14 can be found on the Internal Revenue Service’s website and a copy of it is on file at the Board’s office. 
+
+ (16) Client means a person or entity who receives professional services or a person who agrees to receive professional services. 
+
+ (17) Commission means a fee calculated as a percentage of the total value of the sale of a product or service that is paid or received in the form of money or other valuable consideration. 
+
+ (18) Compilation Services means a professional service required to be performed in accordance with the Statement on Standards for Accounting and Review Services (SSARS) in which the person performing the services presents a financial statement that: 
+
+ (a) Is based on the responsibility of the owner or management of the company for which the statement is presented; and 
+
+ (b) Does not include assurances by the person that the representations in the financial statement conform to the applicable reporting framework. 
+
+ (19) Confidential Client Information is information that is obtained from a source or developed by the licensee in the course of performing professional services for the client, excluding information available to the public. 
+
+ (20) Contingent Fee means a fee established for the performance of any professional service and directly or indirectly paid to a licensee pursuant to an arrangement in which no fee will be charged unless a specified finding or result is attained, or in which the amount of the fee is otherwise dependent upon the finding or result of such service. A fee is not contingent if the fee: 
+
+ (a) Is fixed by courts or other public authorities; or 
+
+ (b) In tax matters, is determined based on the results of judicial proceedings or the findings of governmental agencies. 
+
+ (21) Direct Supervision is regular and meaningful interaction between the supervisor licensee and the person being supervised in terms of planning, coordinating, guiding, inspecting, controlling, and evaluating activities, and having authority over the employee being supervised. A licensee acting as a consulting or independent contractor to the applicant’s employer will not meet the requirement of direct supervision. 
+
+ (22) Enterprise means any person or entity, whether organized for profit or not, for which a licensee provides public accounting services. 
+
+ (23) Ethics Exam means the AICPA professional ethics exam or the California Professional Ethics Exam (PETH). 
+
+ (24) Expired means a license that has not been renewed after six years from the close of the last license period for which the license was active, inactive or retired. 
+
+ (25) Fees include commissions, contingent fees and referral fees. 
+
+ (26) Financial Statements means the presentation of financial data, including accompanying notes, that is derived from accounting records and intended to communicate an entity's economic resources or obligations or the changes therein, at a specific point in time, and/or the results of operations for a specific period of time, presented in accordance with generally accepted accounting principles or a applicable reporting framework other than generally accepted accounting principles. Financial presentations included in tax returns are not financial statements. Incidental financial data included in management advisory services reports to support recommendations to a client are not financial statements. The method of preparation (for example, manual or computer preparation) is not relevant to the definition of a financial statement. 
+
+ (27) Firm means a business organization as defined in ORS 673.010 that is engaged in the practice of public accountancy and is required to be registered with the Board. 
+
+ (28) First Time Candidate means a candidate for the CPA exam who is sitting for the exam for the first time in Oregon. 
+
+ (29) Generally Accepted Accounting Principles (GAAP) means accounting principles or standards generally accepted in the United States, including but not limited to Statements of Financial Accounting Standards (SFAS) and interpretations thereof, as published by the Financial Accounting Standards Board (FASB), and Statements of Governmental Accounting Standards (SGAS) and interpretations thereof, as published by the Government Accounting Standards Board (GASB) and the International Financial Reporting Standards (IFRS) as issued by the International Accounting Standards Board (IASB) and is adopted as if fully set forth herein as published on December 1, 2025, except for any individual GAAP standard that conflicts with or is outside the authority of the Board’s statutes. The GAAP can be found on the FASB and GASB websites and a copy of it is on file at the Board’s office. 
+
+ (30) Generally Accepted Auditing Standards (GAAS) means the Generally Accepted Auditing Standards including but not limited to those standards adopted by the American Institute of Certified Public Accountants, together with interpretations thereof, as set forth in Statements on Auditing Standards issued by the AICPA, and for federal audits, the Single Audit Act and related U.S. Office of Management and Budget Circulars published by the Government Accountability Office, and International Standards on Auditing (ISAs) issued by International Federation of Accountants (IFAC) through the International Auditing and Assurance Standards Board (IAASB) and is adopted as if fully set forth herein as published on December 1, 2025, except for any individual GAAS standard that conflicts with or is outside the authority of the Board’s statutes. The GAAS can be found on the FASB and GASB websites and a copy of it is on file at the Board’s office. 
+
+ (31) Holding out as a CPA or PA means to assume or use by oral or written communication the titles or designations "certified public accountant" or "public accountant" or the abbreviations "CPA" or "PA", or any number or other title, sign, card, device or use of any internet domain or e-mail name, tending to indicate that the person holds a valid certificate or license under the authority of ORS 673 as a certified public accountant or a public accountant. 
+
+ (32) Inactive status means a license status granted by the Board to a licensee who has met and agreed to all conditions and requirements set out in OAR 801-010-0120 relating to inactive status licensure. 
+
+ (33) In good standing means the status of a holder of a license or firm registration issued by any jurisdiction that is not suspended, revoked, expired, resigned, lapsed or on probation. The good standing status of a licensee or registered firm will not be affected by the lapse of a license issued in another jurisdiction provided that the licensee holds an active, inactive or retired license to practice public accountancy in the State of Oregon. 
+
+ (34) International Financial Reporting Standards (IFRS) as issued by the International Accounting Standards Board (IASB) and is adopted as if fully set forth herein as published on December 1, 2025, except for any individual IFRS standard that conflicts with or is outside the authority of the Board’s statutes. The IFRS can be found on the IASB website and a copy of it is on file at the Board’s office. 
+
+ (35) International Standards on Auditing (ISA) issued by International Federation of Accountants (IFAC) through the International Auditing and Assurance Standards Board (IAASB) and is adopted as if fully set forth herein as published on December 1, 2025, except for any individual ISA standard that conflicts with or is outside the authority of the Board’s statutes. The ISA can be found on the IAASB website and a copy of it is on file at the Board’s office. 
+
+ (36) Jurisdiction means the licensing authority for the practice of public accountancy in any state, U.S. Territory or foreign country. 
+
+ (37) Lapsed means a license status that is not renewed within 60 days of the close of a license period. 
+
+ (a) Lapsed licensees are not permitted practice public accounting as defined in OAR 801-005-0010(48). 
+
+ (b) A person in lapsed status must not hold out in any form or manner that they are a CPA or PA. 
+
+ (c) A lapsed license may be reinstated to active, inactive or retired status only prior to becoming expired. 
+
+ (38) License means a certificate, permit, registration, or a license issued by the Board or by another state, enabling the holder thereof to practice public accountancy. 
+
+ (39) Licensee means the holder of a license as defined in these rules. 
+
+ (40) Material Participation means participation that is regular, continuous and substantial. 
+
+ (41) Manager means a manager of a limited liability company. 
+
+ (42) Member means a member of a limited liability company. 
+
+ (43) NASBA means National Association of State Boards of Accountancy. 
+
+ (44) Non-licensee Owner means a person who does not hold a certificate, license or permit as a certified public accountant or public accountant in Oregon or in any other jurisdiction. 
+
+ (45) Oregon licensee means the holder of a license issued by the Board. 
+
+ (46) PA or Public Accountant means a person who is the holder of a license issued under ORS 673.100. 
+
+ (47) Peer Review means a study, appraisal or review of one or more aspects of the public accountancy work of a holder of a license or of a registered business organization that performs attestation services or compilation services that is conducted by a CPA who holds an active license issued by any state or a public accountant licensed under 673.100 who was required to pass the audit section of the Uniform CPA Exam as a requirement for licensing. The peer reviewer must also be independent of the license holder or registered business organization being reviewed. 
+
+ (48) Permit means a license to practice public accountancy. 
+
+ (49) Practice of Public Accountancy means performance of or any offer to perform one or more services for a client or potential client, including the performance of such services while in the employ of another person by a licensee, professional services of accounting, tax, personal financial planning, litigation support services, and those professional services for which standards are promulgated. These standards include Financial Accounting Standards Board (FASB) Accounting Standards Codification (ASC), Statements of Financial Accounting Standards, Statements on Auditing Standards, Statements on Standards for Accounting and Review Services, Statements on Standards for Consulting Services, Statements of Governmental Accounting Standards, International Financial Reporting Standards, International Accounting Standards, International Standards on Auditing, Statements on Standards for Attestation Engagements, and Statements on Standards for Valuation Services. 
+
+ (50) Preparation of Financial Statements means providing a service of any preparation of financial statements engagement to be performed in accordance with the Statements on Standards for Accounting and Review Services (SSARS). 
+
+ (51) Principal Place of Business   means the location of the principal office where a person practices public accounting. 
+
+ (52) Professional   means arising out of or related to the specialized knowledge or skills associated with certified public accountants and public accountants including but not limited to attestation, compilation, audit, management advisory, financial advisory, tax or consulting services or issuance of reports on financial statements. 
+
+ (53) Professional Services means any services performed or offered to be performed by a licensee for a client or potential client in the course of the practice of public accountancy. 
+
+ (54) Regional Accreditation means the college or university is accredited by one of the six regional accrediting associations or by another accrediting body that is recognized by the Board. 
+
+ (55) Referral Fee means a referral fee that includes, but is not limited to, a rebate, preference, discount or any item of value, whether in the form of money or otherwise, given or received by a certified public accountant, public accountant or firm, to or from any third party, directly or indirectly, in exchange for the purchase of any product or service, unless made in the ordinary course of business. 
+
+ (56) Registration means the authority issued under ORS 673.160 to a business organization to practice public accountancy in this state. 
+
+ (57) Report . "Report", when used with reference to attestation services or compilation services means an opinion or other form of language that states or implies assurance as to the reliability of the attested information or compiled financial statements and that also includes or is accompanied by any statement or implication that the person or firm issuing it has special knowledge or competence in accounting or auditing. Such a statement or implication of special knowledge or competence may arise from use by the issuer of the report of names or titles indicating that the person or firm is an accountant or auditor or may arise from the language of the report itself. 
+
+ (a) Any form of language that: 
+
+ (A) Disclaims an opinion when the form of language implies any positive assurance as to the reliability of the attested information or the compiled financial statements referred to or of the special knowledge or competence on the part of the person of firm issuing the language; 
+
+ (B) Implies any positive assurance as to the reliability of the attested information or compiled financial statements referred to or of the special knowledge or competence on the part of the person or firm issuing the language; or 
+
+ (C) Relates to the affairs of a person and that is conventionally used by licensees in reports or financial statements. 
+
+ (b) Language Not Constituting a Report: The following statement, signed by a person who does not hold a license, shall not constitute a report under ORS 673.320 so long as the statement is not accompanied by any wording indicating the person is an accountant or auditor or other language prohibited by ORS 673.020, 673.030, 673.310 or 673.320: "The accompanying balance sheet (or . . .) of XYZ Company as of (date) and the related statements of income (or retained earnings or cash flows) for the year then ended have been prepared by me (us). The information presented in these financial statements is the responsibility of management (owners)." 
+
+ (58) Retired   status   means a license status conferred by the Board upon a licensee who has met the requirements in OAR 801-010-0119 . 
+
+ (59) Returning Candidate means a person who has received grades for any section of the Uniform CPA exam who applies to sit for any part of the CPA exam in Oregon. 
+
+ (60) Single Audit Act means the Single Audit Act with the Single Audit Act Amendments of 1996, as published by the United States Government Accountability Office, Office of Management and Budget and related U.S. Office of Management and Budget (OMB) Circulars, and is adopted as if fully set forth herein as published on October 1, 2024, except for any individual standard that conflicts with or is outside the authority of the Board’s statutes. The current OMB Circulars can be found on the Federal Register website and a copy is on file at the Board’s office. Past circulars are archived on the White House’s OMB website. All related OMB guidance can also be found in Title 2 of the Code of Federal Regulations. 
+
+ (61) Sole Practitioner/Sole Proprietor means a CPA or PA who practices independently and may include unlicensed support personnel, but does not include any other licensed CPA’s or PA’s. 
+
+ (62) Standards for Performing and Reporting on Peer Reviews (SPRPR) issued by the AICPA is adopted as if fully set forth herein as published on December 1, 2025, except for any individual SPRPR standard that conflicts with or is outside the authority of the Board’s statutes. The SPRPR can be found on the AICPA’s website and a copy of it is on file at the Board’s office. 
+
+ (63) Statements of Governmental Accounting Standards and interpretations thereof (SGAS) is published by the Government Accounting Standards Board (GASB) and is adopted as if fully set forth herein as published on December 1, 2025, except for any individual SGAS standard that conflicts with or is outside the authority of the Board’s statutes. The SGAS can be found on the GASB website and a copy of it is on file at the Board’s office. 
+
+ (64) Statements of Financial Accounting Standards and interpretations thereof (SFAS) is published by the Financial Accounting Standards Board (FASB) and is adopted as if fully set forth herein as published on December 2, 2025, except for any individual SFAS standard that conflicts with or is outside the authority of the Board’s statutes. The SFAS can be found on the FASB’s website and a copy of it is on file at the Board’s office. 
+
+ (65) Statements on Auditing Standards (SAS) and interpretations thereof as issued by the AICPA is adopted as if fully set forth herein as published on December 1, 2025, except for any individual SAS standard that conflicts with or is outside the authority of the Board’s statutes. The SAS can be found on the AICPA’s website and a copy of it is on file at the Board’s office. 
+
+ (66) Statements on Standards for Consulting Services (SCS) issued by the AICPA is adopted as if fully set forth herein as published on October 20, 2023, except for any individual SCS statement that conflicts with or is outside the authority of the Board’s statutes. The SCS can be found on the AICPA’s website and a copy of it is on file at the Board’s office. 
+
+ (67) Statements on Standards for Accounting and Review Services (SSARS) issued by the AICPA is adopted as if fully set forth herein as published on December 1, 2025, except for any individual SSARS standard that conflicts with or is outside the authority of the Board’s statutes. The SSARS can be found on the AICPA’s website and a copy of it is on file at the Board’s office. 
+
+ (68) Statements on Standards for Attestation Engagements (SSAE) means the statements by that name issued by the AICPA is adopted as if fully set forth herein as published on December 1, 2025, except for any individual SSAE standard that conflicts with or is outside the authority of the Board’s statutes. The SSAE can be found on the AICPA’s website and a copy of it is on file at the Board’s office. 
+
+ (69) Statements on Standards for Valuation Services (SSVS) as issued by the AICPA is adopted as if fully set forth herein as published on October 20, 2023, except for any individual SSVS standard that conflicts with or is outside the authority of the Board’s statutes. The SSVS can be found on the AICPA’s website and a copy of it is on file at the Board’s office. 
+
+ (70) State   includes any state of the United States, the District of Columbia, Puerto Rico, the United States Virgin Islands, American Samoa, Guam and the Commonwealth of the Northern Mariana Islands. 
+
+ (71) Substantial Equivalency  means an individual that holds a valid license as a certified public accountant from another state that requires an individual, as a condition of licensure as a certified public accountant to achieve a passing grade on the Uniform Certified Public Accountant Examination and: 
+
+ (a) Complete at least 150 semester hours of college education, obtain a baccalaureate or higher degree conferred by a college or university and possess at least one year of experience, verified by a licensee, providing any type of service or advice involving the use of accounting, attestation, compilation, management advisory, financial advisory, tax or related consulting skills, obtained through public practice or government, industry or academic work; or 
+
+ (b) Obtain a baccalaureate degree and possess at least two years or of experience verified by a license holder in providing any type of service involving the use of accounting, attestation, compilation, management advisory, financial advisory, tax or related consulting skills obtained through public practice or government, industry or academic work; 
+
+ (c) Obtain a master’s degree and possess at least one year or more of experience verified by a license holder in providing any type of service involving the use of accounting, attestation, compilation, management advisory, financial advisory, tax or related consulting skills obtained through public practice or government, industry or academic work; 
+
+ (d) Meet requirements otherwise prescribed by the Board; or 
+
+ (e) An individual licensee who holds a valid license from another state but that state does not have the qualifications specified in (a), (b), (c), or (d) but can provide evidence that they have met the requirements of (a), (b), (c) or (d) will be deemed substantially equivalent. 
+
+ (72) Supervisor Licensee is a licensee who provides direct supervision to an applicant and provides verification of any experience requirement. Supervisor licensee must have held a valid license during the period of supervision. 
+
+ (73) Suspended means a licensee who is not permitted to practice public accountancy for a period of time. 
+
+ (74) Uniform Accountancy Act (UAA) is a model bill and set of regulations designed by the AICPA and NASBA to provide a uniform approach to regulation of the accounting profession, provisions of which may or may not be adopted by state boards of accountancy. 
+
+ (75) Working papers: include but are not limited to all statements, records, schedules, general ledgers, journals, trial balances and depreciation schedules made by the licensee incident to or in the course of rendering services to a client or former client. Working papers are and shall remain the property of the licensee in the absence of an express agreement to the contrary between the licensee and client. In addition to the requirements specified in paragraph above, attest documentation shall include, but not be limited to, the following: 
+
+ (a) The objectives, scope and methodology, including any sampling criteria used; 
+
+ (b) Documentation of the work performed to support significant conclusions and judgments, including descriptions of transactions and records examined that would enable a reviewer with relevant knowledge and experience, having no previous connection with the attest engagement, to examine the same transactions and records; and 
+
+ (c) Evidence of any supervisory review of the work performed. 
+
+ (76) Valid means a certified public accountant or a public accountant license, municipal roster authority, firm registration or chartered accountant certificate that is in active status and in good standing with the appropriate licensing authority. A license in active status is one that is not revoked, suspended, subject to probation, lapsed, inactive, retired or expired. 
+
+ [Publications: Publications referenced are available from the agency.] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 673.410 
+ 
+ 
+ Statutes/Other Implemented:  ORS 673.410 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BOA 1-2026, amend filed 01/29/2026, effective 02/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BOA 5-2023, amend filed 12/29/2023, effective 01/04/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BOA 4-2023, temporary amend filed 09/29/2023, effective 10/01/2023 through 01/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BOA 2-2023, amend filed 06/30/2023, effective 07/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BOA 1-2023, temporary amend filed 02/13/2023, effective 02/13/2023 through 08/11/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BOA 3-2020, minor correction filed 04/10/2020, effective 04/10/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BOA 1-2020, minor correction filed 02/19/2020, effective 02/19/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BOA 1-2019, amend filed 12/19/2019, effective 01/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ BOA 1-2017, f. & cert. ef. 1-4-17 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ BOA 1-2015, f. 9-30-15, cert. ef. 10-1-15 
+BOA 2-2014, f. 12-15-14, cert. ef. 1-8-15 
+BOA 2-2011, f. 12-28-11, cert. ef. 1-1-12 
+BOA 2-2010, f. 12-15-10, cert. ef. 1-1-11 
+BOA 2-2009, f. 12-15-09, cert. ef. 1-1-10 
+BOA 5-2006, f. 12-22-06, cert. ef. 1-1-07 
+BOA 6-2005, f. 11-22-05, cert. ef. 1-1-06 
+BOA 3-2005, f. 2-24-05 cert. ef. 3-1-05 
+BOA 3-2003, f. 12-23-03 cert. ef. 1-1-04 
+BOA 2-2002, f. 12-27-02, cert. ef. 1-1-03 
+BOA 3-2001, f. 12-28-01, cert. ef. 1-1-02 
+BOA 6-1999, f. 12-21-99, cert. ef. 1-1-00 
+BOA 6-1998, f. & cert. ef. 7-29-98 
+BOA 1-1998, f. & cert. ef. 1-26-98 
+AB 2-1997, f. & cert. ef. 3-10-97 
+AB 2-1996, f. & cert. ef. 9-25-96 
+AB 1-1996, f. & cert. ef. 1-29-96 
+AB 4-1995, f. & cert. ef. 8-8-95 
+AB 3-1995, f. & cert. ef. 5-19-95 
+AB 2-1995, f. & cert. ef. 3-22-95 
+AB 5-1994, f. & cert. ef. 11-10-94 
+AB 4-1994, f. & cert. ef. 9-27-94 
+AB 1-1994, f. & cert. ef. 1-21-94 
+AB 6-1993(Temp), f. 11-2-93, cert. ef. 11-4-93 
+AB 1-1993, f. 1-14-93, cert. ef. 1-15-93 
+AB 1-1992, f. & cert. ef. 2-18-92 
+AB 2-1990, f. & cert ef. 4-9-90 
+AB 1-1989, f. & cert. ef. 1-25-89 
+1AB 2-1982, f. & cert. ef. 10-15-86 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

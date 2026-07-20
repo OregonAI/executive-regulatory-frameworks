@@ -1,0 +1,241 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 98 MATERIALS MANAGEMENT: PRODUCT STEWARDSHIP PROGRAMS 
+ 340-098-0150 
+ Registration Fees Until and Including 2025 
+ 
+ Section (1) describes generally how DEQ determines registration fees until and including December 31, 2025, and sections (2) through (4) provide the specific process for determining registration fees until and including December 31, 2025. 
+
+ (1) Overview. Each year manufacturer registration fees total the revenue need for that year. DEQ assigns manufacturers to registration fee Tiers 1-7 based on their market share. All manufacturers within a tier pay the same registration fee in any given year. Manufacturers in Tier 6 pay a fee of $200. Manufacturers in Tier 7, with the smallest market share, pay $40. Fees for manufacturers in Tiers 1-5 are calculated each year to total the revenue need remaining after subtracting the revenue expected from Tiers 6 and 7. To determine the manufacturer fee for each of Tiers 1-5, the total market share for all manufacturers in a tier is multiplied by the remaining revenue need. That revenue share for the tier is then divided by the number of manufacturers in the tier to determine the fee for those manufacturers. DEQ then adjusts the fees for Tiers 1-5 so that no fee is more than $35,000 or less than $200. If the fee for any tier is over $35,000, DEQ caps the fee at $35,000, and distributes the amount of unallocated revenue from that tier to lower tiers in proportion with their market share (excluding Tiers 6 and 7). If the resulting fee for any tier is below $200, DEQ raises the fee to $200 for that tier and recalculates the fees for the higher tiers as described above for Tiers 1-5. 
+
+ (2) Total registration fees. Each year the total registration fees of manufacturers required to pay a registration fee under ORS 459A.315 and OAR 340-098-0000 through 340-098-0200 will equal the revenue need for the fiscal year beginning July 1 of that year. 
+
+ (3) Registration fees. For each year after 2012, each manufacturer will pay a registration fee described in this section: 
+
+ (a) Registration fees will be based on the following fee tiers: 
+
+ (A) Tier 1 includes all manufacturers with a market share greater than or equal to 5%; 
+
+ (B) Tier 2 includes all manufacturers with a market share greater than or equal to 1% but less than 5%; 
+
+ (C) Tier 3 includes all manufacturers with a market share greater than or equal to 0.1% but less than 1%; 
+
+ (D) Tier 4 includes all manufacturers with a market share greater than or equal to 0.03% but less than 0.1%; 
+
+ (E) Tier 5 includes all manufacturers with a market share greater than or equal to 0.01% but less than 0.03%; 
+
+ (F) Tier 6 includes all manufacturers with a market share less than 0.01% that equates to 50 or more units. 
+
+ (G) Tier 7 includes all manufacturers with a market share that equates to less than 50 units. 
+
+ (b) The registration fee for each manufacturer in Tier 6 will be $200. The registration fee for each manufacturer in Tier 7 will be $40. 
+
+ (c) The registrations fees for manufacturers in Tiers 1-5 will equal the revenue need remaining after subtracting the revenue expected from Tier 6 and 7 fees. 
+
+ (d) For Tiers 1-5, except as adjusted by subsections (3)(f) through (3)(i), the total registration fees for each tier will be a percentage of the remaining revenue need that is equal to the total market share of the manufacturers in that tier. 
+
+ (e) For Tiers 1-5, except as adjusted by subsections (3)(f) through (3)(i), the registration fee of each manufacturer in a given tier will be the amount of the remaining revenue need that the manufacturer’s tier is responsible for, as stated subsection (3)(d), divided by the number of manufacturers in that tier. 
+
+ (f) For Tiers 1-5, the registration fee for manufacturers in any tier will not be more than $35,000. The registration fee for manufacturers in a tier in which the registration fee is calculated to be more than $35,000 will be adjusted to $35,000. 
+
+ (g) For Tiers 1-5, after the registration fee adjustments described in subsection(3)(f), the registration fees of each manufacturer in a tier with registration fees below $35,000 will also be adjusted so that total registration fees still equal the remaining revenue need, as follows: 
+
+ (A) Fee adjustment = (W × (X ÷ Y)) ÷ Z. 
+
+ (B) “W” is the net amount of registration fees above $35,000. 
+
+ (C) “X” is the total market share of all the manufacturers in the manufacturer’s tier. 
+
+ (D) “Y” is the total market share for all manufacturers in tiers 1-5 with registration fees below $35,000, excluding manufacturers whose fees have been adjusted to $200 in accordance with subsection (3)(i). 
+
+ (E) “Z” is the total number of manufacturer’s in the manufacturer’s tier. 
+
+ (h) If any manufacturer in Tiers 1-5 would pay a registration fee greater than $35,000 after the process described in subsection (3)(g), the process described in subsections (3)(f) and (3)(g) will be repeated until no manufacturer pays a registration fee greater than $35,000. 
+
+ (i) After the process described in subsections (3)(f) through (3)(h) has been completed, the registration fee for any manufacturer in Tiers 1-5 in which the registration fee is calculated to be less than $200 will be adjusted to $200. The total revenue from all fees in tiers for which fees are raised to $200 will be subtracted from the remaining revenue need and the fees for all higher tiers will be recalculated to meet that adjusted revenue need as described in subsections (3)(d) through (3)(i). The process described in subsections (3)(d) through (3)(i) will be repeated until no manufacturer pays a registration fee less than $200. 
+
+ (4) 2012 fees. Manufacturers will pay registration fees in ORS 459A.315(2)(b) for calendar year 2012, except: 
+
+ (a) If the total revenue to be collected under the method described in ORS 459A.315(2)(b) is less than the revenue need for 2012, DEQ will calculate each manufacturer’s registration fee according to OAR 340-098-0150(3); 
+
+ (b) The registration fees of manufacturers whose registration fees would be at least $250 higher calculated under OAR 340-098-0150(3) than under ORS 459A.315(2)(b) will be adjusted so that the total registration fees for 2012 equal revenue need; and 
+
+ (c) Each manufacturer described in subsection (4)(b) will pay the following registration fee adjustment: Fee adjustment = (A × (B ÷ C)) ÷ D where: 
+
+ (A) “A” is the difference between the revenue need and the amount to be collected under the method described in ORS 459A.315(2)(b); 
+
+ (B) “B” is the total market share of all manufacturers in the manufacturer’s tier; 
+
+ (C) “C” is the total market share of all manufacturers described in subsection (4)(b); and 
+
+ (D) “D” is the total number of manufacturers in the same tier as the manufacturer. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, 468.065 & 459A.345 
+ 
+ 
+ Statutes/Other Implemented:  ORS 459A.315 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 1-2025, amend filed 01/09/2025, effective 01/09/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 4-2012, f. & cert. ef. 6-26-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

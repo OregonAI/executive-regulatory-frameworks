@@ -1,0 +1,173 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 121 LICENSING AND RADIATION SAFETY REQUIREMENTS FOR IRRADIATORS 
+ 333-121-0190 
+ Design Requirements 
+ 
+ Irradiators whose construction begins after September 1, 2002, must meet the design requirements of this rule.  (1) Shielding. For panoramic irradiators, the licensee must design shielding walls to meet generally accepted building code requirements for reinforced concrete and design the walls, wall penetrations, and entranceways to meet the radiation shielding requirements of OAR 333-121-0120. If the irradiator will use more than 2 x 1017 becquerels (5 million Ci) of activity, the licensee must evaluate the effects of heating of the shielding walls by the irradiator sources.  (2) Foundations. For panoramic irradiators, the licensee must design the foundation, with consideration given to soil characteristics, to ensure it is adequate to support the weight of the facility shield walls.  (3) Pool integrity. For pool irradiators, the licensee must design the pool to assure that it is leak resistant, that it is strong enough to bear the weight of the pool water and shipping casks, that a dropped cask would not fall on sealed sources, that all outlets or pipes meet the requirements of OAR 333-121-0160(2) and that metal components are metallurgically compatible with other components in the pool.  (4) Water handling system. For pool irradiators, the licensee must verify that the design of the water purification system is adequate to meet the requirements of OAR 333-121-0160(5). The system must be designed so that water leaking from the system does not drain to unrestricted areas without being monitored.  (5) Radiation monitors. For all irradiators, the licensee must evaluate the location and sensitivity of the monitor to detect sources carried by the product conveyor system as required by OAR 333-121-0140(1). The licensee must verify that the product conveyor is designed to stop before a source on the product conveyor would cause a radiation overexposure to any person. For pool irradiators, if the licensee uses radiation monitors to detect contamination under OAR 333-121-0340(2), the licensee must verify that the design of radiation monitoring systems to detect pool contamination includes sensitive detectors located close to where contamination is likely to concentrate.  (6) Source rack. For pool irradiators, the licensee must verify that there are no crevices on the source or between the source and source holder that would promote corrosion on a critical area of the source. For panoramic irradiators, the licensee must determine that source rack drops due to loss of power will not damage the source rack and that source rack drops due to failure of cables, or alternate means of support, will not cause loss of integrity of sealed sources. For panoramic irradiators, the licensee must review the design of the mechanism that moves the sources to assure that the likelihood of a stuck source is low and that, if the rack sticks, a means exists to free it with minimal risk to personnel.  (7) Access control. For panoramic irradiators, the licensee must verify from the design and logic diagram that the access control system will meet the requirements of OAR 333-121-0110.  (8) Fire protection. For panoramic irradiators, the licensee must verify that the number, locations, and spacing of the smoke and heat detectors are appropriate to detect fires and that the detectors are protected from mechanical and radiation damage. The licensee must verify that the design of the fire extinguishing system provides the necessary discharge patterns, densities, and flow characteristics for complete coverage of the radiation room and that the system is protected from mechanical and radiation damage.  (9) Source return. For panoramic irradiators, the licensee must verify that the source rack will automatically return to the fully shielded position if power is lost for more than ten seconds.  (10) Seismic. For panoramic irradiators to be built in seismic areas, the licensee must design the reinforced concrete radiation shields to retain their integrity in the event of an earthquake by designing to the seismic requirements of an appropriate source such as the American Concrete Institute Standard ACI 318-89, "Building Code Requirements for Reinforced Concrete," Chapter 21, "Special Provisions for Seismic Design," or local building codes, if current.  (11) Wiring. For panoramic irradiators, the licensee must verify that electrical wiring and electrical equipment in the radiation room are selected to minimize failures due to prolonged exposure to radiation. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 453.605 – 453.807 
+ 
+ 
+ Statutes/Other Implemented:  ORS 453.605 – 453.807 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 12-2006, f. & cert. ef. 6-16-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 5-2005, f. & cert. ef. 4-11-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

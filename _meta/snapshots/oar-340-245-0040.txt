@@ -1,0 +1,246 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 245 CLEANER AIR OREGON 
+ 340-245-0040 
+ Emissions Inventory 
+ 
+ (1) Individual emissions inventories for risk assessment of sources. New sources must submit an emissions inventory as part of the permit application. DEQ may also require the owner or operator of any existing permitted or unpermitted source to submit an emissions inventory for the purpose of assessing risk. These emissions inventories must include all toxic air contaminants emitted by the source listed in OAR 340-247-8010 Table 1. The owner or operator must assess risk from the toxic air contaminants in OAR 340-247-8010 Table 2. For existing sources, the owner or operator must submit the emissions inventory electronically to DEQ no later than 90 days after the DEQ notice date unless DEQ allows additional time under OAR 340-245-0030. 
+
+ (2) Periodic state-wide emissions inventory. 
+
+ (a) DEQ may require the owners and operators of all permitted and unpermitted sources to submit an updated toxic air contaminant emissions inventory of all toxic air contaminants emitted by the source listed in OAR 340-247-8010 Table 1. The reporting year will generally correspond with EPA’s National Emissions Inventory reporting year (2020, 2023, 2026, etc.); 
+
+ (b) The owner or operator must submit its updated emissions inventory electronically to DEQ no later than 60 days after the date that DEQ sends a written request by electronic mail or regular U.S. mail, to the owner or operator, unless DEQ allows additional time under OAR 340-245-0030; and 
+
+ (3) Emissions inventory revision. 
+
+ DEQ may also require the owner or operator of a source that has previously submitted a toxic air contaminant emissions inventory under section (1) or (2) to submit an updated emissions inventory if DEQ discovers additional information that indicates that the source’s emissions have changed since it completed its most recent emissions inventory. 
+
+ (4) Emissions inventory requirements. 
+
+ (a) When required to submit an emissions inventory, the owner or operator must submit: 
+
+ (A) A list of TEUs that emit toxic air contaminants. The owner or operator must include exempt TEUs but does not have to calculate toxic air contaminant emissions from the exempt TEUs. The list of TEUs that emit toxic air contaminants should not be limited to what is listed in a source’s operating permit but should include all operations at the source that emit toxic air contaminants; 
+
+ (B) A list of all activities used to calculate toxic air contaminant emissions, such as production rates, fuel consumption, and material usage, for each TEU for the following: 
+
+ (i) For an emissions inventory required under section (1), production activities and usage, as applicable, based on the following: 
+
+ (I) For existing sources, actual annual and maximum daily production activities and usage, as applicable, in the calendar year preceding the year DEQ’s written request is made; 
+
+ (II) For all sources, potential annual and maximum daily production activities and usage, as applicable, that are used to calculate the Source Risk Limit if the owner or operator chooses to be permitted based on a requested PTE or risk limit; or 
+
+ (III) For all sources, potential annual and maximum daily production activities and usage, as applicable, based on capacity that is used to prove the source is de minimis if the owner or operator chooses to be permitted as a de minimis source; 
+
+ (ii) For an emissions inventory required under section (2), the actual production activities and usage, as applicable, in the calendar year preceding the year DEQ’s written request is made, or for new or reconstructed sources, the reasonably anticipated actual production and usage, as applicable. 
+
+ (C) Material balance information using Safety Data Sheets (formerly Material Safety Data Sheets) and Technical Data Sheets, as applicable, for materials used in any process; and 
+
+ (D) Operating schedule (hours/day, days/year, seasonal variability) for the source, including schedules for each TEU, if different, for the calendar year preceding the year DEQ’s written request is made and the year based on a requested PTE or risk limit; 
+
+ (b) Owners or operators of sources with Title V, Standard and Simple Air Contaminant Discharge Permits, and unpermitted sources when DEQ so requires, must also submit: 
+
+ (A) A list of all toxic air contaminants emitted by the source; 
+
+ (B) The amount of each toxic air contaminant listed in OAR 340-247-8010 Table 1 emitted from each TEU, reported as both maximum mass emitted per day and per year, with the emission factors used or material balance information, as appropriate, for the following: 
+
+ (i) For an emissions inventory required under section (1), emissions based on the following, and including startup and shutdown emissions for sources required to do so under OAR 340-214-0310: 
+
+ (I) For an existing source, actual emissions used to calculate the Source Risk Limit if the owner or operator chooses to be permitted based on actual emissions; 
+
+ (II) For all sources, requested PTE or risk limit used to calculate the Source Risk Limit if the owner or operator chooses to be permitted based on a requested PTE or risk limit; or 
+
+ (III) For all sources, capacity that is used to prove the source is de minimis if the owner or operator chooses to be permitted as a de minimis source; 
+
+ (ii) For an emissions inventory required under section (1), maximum daily production. The owner or operator must use knowledge of process to calculate the maximum daily emissions; and 
+
+ (iii) For an emissions inventory required under section (2), the actual emissions for the calendar year preceding the year DEQ’s written request is made, or for new or reconstructed sources, emissions based on the reasonably anticipated actual production or usage; and 
+
+ (C) All supplementary materials required to verify the calculated emissions as submitted in an emissions inventory under this rule, including but not limited to: 
+
+ (i) Detailed process flow diagrams for all emissions producing activities, including expected points of all fugitive and non-fugitive emissions and air pollution control devices; 
+
+ (ii) The name of each resource used to obtain toxic air contaminant emission factors (e.g., AP-42, WebFIRE, California Air Toxic Emission Factors, or source test data); 
+
+ (iii) Methodologies used to calculate emissions, including all formulas and assumptions along with the supporting technical documentation (e.g., environmental data sheets, safety data sheets, or engineering estimates); 
+
+ (iv) Continuous emissions monitoring data that meets data sufficiency requirements as required under the Continuous Monitoring Manual in OAR 340-200-0035; 
+
+ (v) Technical documentation related to air pollution control device operation and efficiency (e.g., manufacturer or source test data); and 
+
+ (vi) Source test data sufficient to verify emission factors (e.g., source test reports). 
+
+ (5) Review of toxic air contaminant emissions inventory reports. DEQ shall use the procedures in OAR 340-245-0030 to review any emissions inventory in determining its completeness, consider extensions requests, and request additional information, if needed. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, 468.065, 468A.025, 468A.040, 468A.050, 468A.070, 468A.155, 468A.135 & 468A.337 
+ 
+ 
+ Statutes/Other Implemented:  468.065, 468A.025, 468A.040, 468A.050, 468A.070, 468A.155, 468A.010, 468A.015, 468A.035, 468A.337 & 468A.335 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 18-2021, amend filed 11/17/2021, effective 11/17/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 197-2018, adopt filed 11/16/2018, effective 11/16/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

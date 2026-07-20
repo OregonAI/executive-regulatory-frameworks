@@ -1,0 +1,269 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Geology and Mineral Industries 
+ Chapter 632 
+ 
+ 
+ 
+ 
+ 
+ Division 10 OIL AND GAS RULES 
+ 632-010-0008 
+ Definitions 
+ 
+ The definitions in ORS 520.005 apply to this rule division. In addition, the following definitions apply:  (1) "Allowable Quantity" means the amount of natural gas or oil allowed by order of the board to be produced within a stated period.  (2) "Atmospheric Pressure" means the pressure of air at sea level, equivalent to about 14.73 pounds per square inch absolute.  (3) "Barrel" means 42 U.S. gallons of oil at a temperature of 15.55 degrees Centigrade (60 degrees Fahrenheit), with deductions for the full percent of basic sediment, water, and other impurities present, ascertained by centrifugal or other recognized and customary tests.  (4) "Blowout" means an uncontrolled escape of oil, natural gas, or water as a flow from a well.  (5) "Blowout Preventer" means a heavy casing-head control of special gates or rams that will seal the annular space between drill pipe or tubing and casing or completely close off the top of the inner casing string.  (6) "Board" means the Governing Board of the State Department of Geology and Mineral Industries.  (7) "Bottom Hole Pressure" means the pressure in pounds per square inch at or near the bottom of an oil or gas well determined at the face of the producing horizon by means of a pressure recording instrument, adopted and recognized by the oil and gas industry, and corrected to the sea level elevation.  (8) "Casing Pressure" means the pressure in the annular space between the tubing and casing measured at the wellhead.  (9) "Completion" means a well is in such condition that it is capable of producing oil or gas, or both.  (10) "Contaminate" means any chemical, ion radionuclide, synthetic organic compound, microorganism, waste or other substance that does not occur naturally in groundwater or that occurs naturally but at a lower concentration.  (11) “Contamination” means introduction of contaminate.  (12) "Decommission" means the condition of a well when it has been lawfully and permanently plugged and the well pad, access road and other related disturbance reclaimed to a secondary beneficial use that is compatible with the land use designation according to these rules with the approval of the department.  (13) “Department” means the State Department of Geology and Mineral Industries.  (14) "Development" means any work performed to bring about production of oil or gas, or both.  (15) "Developed Area or Developed Unit" means a unit as defined in ORS 520.005(12) having a well completed thereon capable of producing oil or gas in paying quantities. However, in the event the board finds that a part of any unit is nonproductive, then the developed area of the unit includes only the productive part.  (16) "Differential Pressure" means:  (a) In the case of wellhead measurement, the difference between the tubing pressure and the casing pressure; or  (b) In the case of an orifice meter, the pressure difference between the upstream and the downstream sides of the orifice, a pressure difference measured with a differential gauge or with a manometer (U tube).  (17) "Disposal Well" means any well used for the purpose of disposal of produced saltwater and produced oil field waste.  (18) "Drilling Unit" means the acreage dedicated to a well before field limits and spacing rules are established by the board.  (19) "Edge Water" means water that holds the oil or gas, or both, in a higher structural position usually encroaching on a pool as the oil or gas is recovered.  (20) "Fair Share" means that part of recoverable oil or gas, or both, in a developed area of a pool proportional by area to the recoverable oil or gas, or both, in the entire developed area of the pool, insofar as these amounts can be practically ascertained.  (21) "Gas Allowable" means the amount of natural gas authorized to be produced by order of the board.  (22) "Gas-Oil Ratio" means the relation of the gas in cubic feet to the production of oil in barrels as accepted by pipelines.  (23) "Gas Repressuring" means the introduction of gaseous substances into a pool by artificial means in order to replenish, replace, or increase the reservoir energy.  (24) "Gas Well" means:  (a) A well that produces natural gas only;  (b) That part of a well where the gas producing stratum has been successfully cased off from the oil so that the gas and oil are produced through separate casing or tubing;  (c) Any well capable of producing gas in commercial quantities; or  (d) A well producing from a reservoir containing no commercially significant liquid hydrocarbons.  (25) "Idle Well" means an inactive well that has not been completed, suspended, or decommissioned with approval of the department.  (26) "Illegal Gas" means gas that has been produced within the state from any well or wells in excess of the amount allowed by any rule, regulation, or order of the board.  (27) "Illegal Oil" means oil that has been produced within the state from any well in excess of the amount allowed by any rule, or order of the board.  (28) "Illegal Product" means any product of oil or gas, any part of which was processed or derived, in whole or in part from illegal oil or illegal gas, or from any product thereof.  (29) "Indices of Productive Value" means the factors to be considered in ascertaining the productivity of all property in a pool for the purpose of fixing the allowable production. These indices may include, at the discretion of the board, potential acreage, gas-oil ratios, static reservoir pressures, flowing pressures, fluid level drawdowns, the well or wells, or any other pertinent factors.  (30) "Lease" means the exclusive right to explore for, drill for, and produce petroleum, natural gas, and associated hydrocarbons.  (31) "Lessee" means a person who becomes a mineral rights owner by leasing mineral rights from a mineral rights owner.  (32) "Mineral Rights Owner" means the person who has the exclusive right to lease or grant rights for mineral exploration and includes owners of unleased mineral rights and lessees of mineral rights.  (33) "Mud-Laden Fluid" means any approved mixture of fluid and clay or other material that will effectively seal the formation to which it is applied.  (34) "Net Drainage" means the drainage or migration of oil or gas within the reservoir not equalized by counter-drainage.  (35) "Oil Allowable" means the amount of oil authorized to be produced by order of the board.  (36) "Oil Well" means any well that is not a gas well and is capable of producing oil or condensate in paying quantities.  (37) "Operator" means any person who is in charge of the development of a lease or the construction, development or operation of a well subject to the division.  (38) "Overage, Overproduction" means the oil or gas produced in excess of the allowable quantity fixed by the board.  (39) "Period Allowable" means the period as designated by the department, in which an allowable quantity may be produced.  (40) “Pool” means an underground reservoir containing a common accumulation of oil and natural gas. A zone of a structure that is completely separated from any other zone in the same structure is a pool.  (41) "Potential" means the computed daily ability of a well to produce oil and/or natural gas as determined by a test made in conformity with rules prescribed by the board.  (42) “Permittee" means any person who has the right to drill a well and has received a permit or is an operator.  (43) "Pressure Maintenance" means:  (a) The re-introduction, in the early stages of field development, of gas or fluid produced from an oil or gas well to maintain the pressure of the reservoir; or  (b) The introduction of gas or fluid for the same purpose, but obtained from an outside source.  (44) "Producer" means the owner of one or more wells capable of producing oil or gas or both.  (45) "Proved Oil or Gas Area" means the area that has been shown by development or geological information to be such that additional wells drilled thereon are reasonably certain to be commercially productive of oil or gas, or both.  (46) "Purchaser" means any person who directly or indirectly purchases, transports, takes, or otherwise removes production from a well, wells, or pool.  (47) "Run" means oil or gas piped from one place to another.  (48) "Separator" means an apparatus for separating fluid, as it is produced.  (49) "Service Well" means any well drilled to be used for the purpose of underground natural gas storage or to monitor such underground storage.  (50) "Shortage or Underage" means the amount of production less than the allowable.  (51) "Spacing Unit" means the acreage dedicated by the board to a well after field limits and rules are established.  () (52) "Storage" means produced oil, gas, or both confined in tanks, reservoirs, or containers.  (53) "Suspension" means the status of a well that is not in a plugged or completed condition when it has been safely left unattended, with the written approval of the department, for a period of 30 days or more.  (54) "Unlawful Abandonment" means the condition of:  (a) An idle well from which drilling equipment has been removed;  (b) An idle well with drilling equipment present but no activity for 30 consecutive days; or  (c) Any suspended well whose period of approved suspension has expired and an additional 30 days has elapsed.  (55) "Wellhead" means equipment consisting of valves installed at the surface of the well.  (56) "Well Log" means the written record progressively describing the strata, water, and oil or gas encountered in drilling a well with such additional information as to give volumes, pressure, rate of fill-up, water depths, caving strata, casing record, etc., as is recorded in the normal procedure of drilling. It also includes all electrical and mechanical surveys performed in the well bore.  (57) "Wildcat Well" means a drilling or producing well located in an area that is not a “Proved Oil or Gas Area”.  NOTE: Additional definitions may be found in ORS 520.005 and 520.015. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  520 
+ 
+ 
+ Statutes/Other Implemented:  ORS 520.095 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ DGMI 1-2013, f. & cert. ef 3-21-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ GMI 3-1997, f. & cert. ef. 12-3-97 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ GMI 2-1995, f. & cert. ef. 3-10-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ GMI 6-1990, f. & cert. ef. 12-5-90 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ GMI 4-1985, f. & ef. 11-20-85 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ GMI 1-1985(Temp), f. & ef. 6-7-85 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ GMI 1-1982, f. & ef. 6-25-82 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ GMI 1-1979, f. & ef. 1-25-79 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ GMI 2, f. 6-20-55 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ GMI 1, f. 1-27-54 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

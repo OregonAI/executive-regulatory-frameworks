@@ -1,0 +1,173 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 228 REQUIREMENTS FOR FUEL BURNING EQUIPMENT AND FUEL SULFUR CONTENT 
+ 340-228-0609 
+ Utility Mercury Rule, Monitoring Requirements: General Requirements 
+ 
+ The owners and operators of a coal-fired electric utility steam generating unit must comply with the monitoring requirements as provided in this rule, 40 CFR part 63 subpart UUUUU, and OAR 340-228-0639 (if applicable).  (1) Requirements for installation, certification, and data accounting. The owner or operator of each coal-fired electric utility steam generating unit must:  (a) Install all applicable monitoring systems required under this rule, 40 CFR part 63 subpart UUUUU, and OAR 340-228-0639 for monitoring Hg mass emissions, inlet Hg (if applicable), and individual unit heat input.  (b) Successfully complete all certification tests required under 40 CFR part 63 subpart UUUUU and meet all other requirements of this rule, 40 CFR part 63 subpart UUUUU, and OAR 340-228-0639 applicable to the monitoring systems under subsection (1)(a) of this rule.  (c) Record, report, and quality-assure the data from the monitoring systems under subsection (1)(a) of this rule.  (2) Compliance deadlines. The owner or operator must meet the monitoring system certification and other requirements of section (1) of this rule on or before the following dates. The owner or operator must record, report, and quality-assure the data from the monitoring systems under subsection (1)(a) of this rule on and after the following dates.  (a) Outlet Hg.  (A) For the owner or operator of a coal-fired electric utility steam generating unit that commences commercial operation before July 1, 2008, by January 1, 2009.  (B) For the owner or operator of a coal-fired electric utility steam generating unit that commences commercial operation on or after July 1, 2008, by the later of the following dates:  (i) January 1, 2009; or  (ii) 90 unit operating days or 180 calendar days, whichever occurs first, after the date on which the unit commences commercial operation.  (C) For the owner or operator of a coal-fired electric utility steam generating unit for which construction of a new stack or flue or installation of add-on Hg emission controls, a flue gas desulfurization system, a selective catalytic reduction system, or a compact hybrid particulate collector system is completed after the applicable deadline under paragraph (2)(a)(A) or (B) of this rule, by 90 unit operating days or 180 calendar days, whichever occurs first, after the date on which emissions first exit to the atmosphere through the new stack or flue, add-on Hg emissions controls, flue gas desulfurization system, selective catalytic reduction system, or compact hybrid particulate collector system.  (b) Heat input. For monitoring systems used to monitor heat input in accordance with OAR 340-228-0606(4)(a), if applicable, by the later of the following dates:  (A) July 1, 2012 or the date established under OAR 340-228-0606(3); or  (B) The date on which the unit commences commercial operation.  (c) Inlet Hg. If required to perform coal sampling and analysis in accordance with OAR 340-228-0606(4)(b)(A)(i) or measure Hg emission prior to any control device(s) in accordance with 340-228-0606(4)(b)(A)(ii), if applicable, by the later of the following dates:  (A) July 1, 2012 or the date established under OAR 340-228-0606(3); or  (B) The date on which the unit commences commercial operation.  (3) Reporting data.  (a) Except as provided in subsection (3)(b) of this rule, the owner or operator of a coal-fired electric utility steam generating unit that does not meet the applicable compliance date set forth in section (2) of this rule for any monitoring system under subsection (1)(a) of this rule must, for each monitoring system, determine, record, and report maximum potential (or, as appropriate, minimum potential) values for Hg concentration, stack gas flow rate, stack gas moisture content, and any other parameters required to determine Hg mass emissions and heat input in accordance with OAR 340-228-0637(5).  (b) The owner or operator of a coal-fired electric utility steam generating unit that does not meet the applicable compliance date set forth in paragraph (2)(a)(C) of this rule for any monitoring system under subsection (1)(a) must, for each such monitoring system, determine, record, and report substitute data using the applicable missing data procedures in 40 CFR part 75 subpart D, in lieu of the maximum potential (or, as appropriate, minimum potential) values, for a parameter if the owner or operator demonstrates that there is continuity between the data streams for that parameter before and after the construction or installation under subsection (2)(a)(C) of this rule. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020 & 468A.310 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468A.025 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 4-2013, f. & cert. ef. 3-27-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 15-2008, f. & cert. ef 12-31-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

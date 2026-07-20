@@ -1,0 +1,324 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Public Utility Commission 
+ Chapter 860 
+ 
+ 
+ 
+ 
+ 
+ Division 29 REGULATIONS RELATED TO AGREEMENTS BETWEEN ELECTRIC UTILITIES AND ELECTRIC COGENERATION AND SMALL POWER PRODUCTION FACILITIES 
+ 860-029-0120 
+ Standard Power Purchase Agreements 
+ 
+ (1) Each public utility must offer standard power purchase agreements to eligible qualifying facilities. Each public utility must submit all forms of standard power purchase agreements to the Commission for approval.  
+
+ (2) Qualifying facilities have the unilateral right to select a purchase period of up to 20 years for a standard power purchase agreement. Qualifying facilities electing to sell firm output at fixed prices have the unilateral right to a fixed-price term of up to 15 years, subject to the reduction specified in section (6) for a development period that exceeds three years. In addition, the fixed-price term continues to run during the cure period should the qualifying facility fail to meet the scheduled commercial operation date. Qualifying facilities may also select a nonfixed-price term of up to five years to run at the conclusion of the fixed-price term.  
+
+ (3) The development period of a standard power purchase agreement begins on the Effective Date, unless the start of the development period is delayed by the initiation of the Network Upgrade cost allocation process in OAR 860-029-0044. The development period ends at 24:00 in the time zone in which the qualifying facility is located on the day before the scheduled commercial operation date specified in the standard power purchase agreement or such earlier date on which the qualifying facility achieves the commercial operation date in compliance with these rules.  
+
+ (4) The purchase period of a standard power purchase agreement begins on the earlier of the commercial operation date or the scheduled commercial operation date. The scheduled commercial operation date may be delayed by Force Majeure, extended by agreement of the purchasing public utility and the qualifying facility or modified under subsection (5)(b) or section (6) of this rule. In these cases, the purchase period and fixed price term commence on the earlier of the commercial operation date or the delayed or extended scheduled operation date.  
+
+ (5) A qualifying facility may specify a scheduled commercial operation date for a standard power purchase agreement subject to the following requirements: 
+
+ (a) Anytime within three years from the date of agreement execution; 
+
+ (b) Anytime within five years from the date of agreement execution. If the qualifying facility can, utilizing the process specified in section (6), provide an interconnection study by the purchasing utility showing that the time it will take the purchasing utility to complete the interconnection to the qualifying facility necessitates a commercial operation date longer than three years from the Effective Date, then the additional time necessitated by the interconnection up to an additional two years will not be taken off the period of the fixed-price term. Under other circumstances, the additional time will be taken off the period of the fixed-price term; or 
+
+ (c) In any standard power purchase agreement with a scheduled commercial operation date more than three years after the Effective Date, except as specified otherwise in these rules, the fixed-price term will be reduced one day for every day of the development period after three-year anniversary of the Effective date, with the reduction taken from the end of the fixed-price term. Example: A standard power purchase agreement with a development period of three years and six months will have a fixed-price term of 14 years and 6 months. The fixed-price term will begin on the scheduled commercial operation date and will end after 14 years and 6 months.  
+
+ (6) Modification of Scheduled Commercial Operation Date or Termination 
+
+ (a) Anytime within six months after the Effective Date of a standard power purchase agreement, the qualifying facility may terminate the standard power purchase agreement or modify the scheduled commercial operation date in the standard power purchase agreement if the qualifying facility receives an interconnection study report that is completed after the Effective Date that: 
+
+ (A) Includes an estimate of time to interconnect that is longer than the development period in the executed standard power purchase agreement; or 
+
+ (B) Includes an estimate of costs to interconnect that render the project uneconomic in the qualifying facility's opinion. 
+
+ (b) A qualifying facility that chooses to modify the scheduled commercial operation date under subsection (a) of this section (6) may not select a new scheduled commercial operation date more than five years from the date the standard power purchase agreement was executed except as specified otherwise in these rules; 
+
+ (c) If a qualifying facility terminates the standard power purchase agreement under subsection (a) of this section (6), it is liable for damages incurred by the public utility up until the date of termination, which may be taken from the Project Development Security posted by the qualifying facility; 
+
+ (d) In the event the qualifying facility is delayed in reaching commercial operation because of an event of Force Majeure or the public utility's default under the standard power purchase agreement or any other agreement related to the interconnection of the qualifying facility to the purchasing utility's system, including interconnection study agreements and interconnection agreements, the scheduled commercial operation date in the standard power purchase agreement will be extended commensurately with the delay caused by the event of Force Majeure or the public utility's default, except for periods of delay that could have been prevented had the qualifying facility taken mitigating actions using commercially reasonable efforts. An extension of the scheduled commercial operation date under this subsection is not subject to the fixed-price term reduction in subsection (5)(c) or the five-year limitation in subsection (5)(b).  
+
+ (7) Unless otherwise excused under the standard power purchase agreement, the utility is authorized to issue a Notice of Default if the qualifying facility does not meet the scheduled commercial operation date in the standard power purchase agreement. If a Notice of Default is issued for failure to meet the scheduled commercial operation date in the standard power purchase agreement, the qualifying facility has one year in which to cure the default for failure to meet the scheduled commercial operation date, during which the public utility may collect damages for failure to deliver. 
+
+ (a) Unless otherwise excused under the standard power purchase agreement, damages for failure to meet the scheduled commercial operation date in a standard power purchase agreement are equal to the positive difference between the utility's replacement power costs less the prices in the standard power purchase agreement during the period of default, determined on a daily basis with positive differences aggregated and invoiced as a monthly sum, plus costs reasonably incurred by the utility to purchase replacement power and additional transmission charges, if any, incurred by the utility to deliver replacement energy to the point of delivery. 
+
+ (b) If the qualifying facility would have been required by the standard power purchase agreement to transfer Renewable Energy Credits to the public utility during the period when the qualifying facility is in default under this subsection, damages owed to the public utility will include the public utility's cost to acquire replacement Renewable Energy Credits. 
+
+ (c) Notwithstanding subsections (a) and (b), damages incurred under this section may not exceed an amount equal to what the qualifying facility would have received under the standard power purchase contract for energy delivered during the default period. 
+
+ (8) Subject to the one-year cure period in section (7) above, a utility may terminate a standard power purchase agreement for failure to meet the scheduled commercial operation date in the power purchase agreement, if such failure is not otherwise excused under the agreement. 
+
+ (9) Point of Delivery. An off-system qualifying facility may propose the Point of Delivery for a standard power purchase agreement. The purchasing public utility must agree to the Point of Delivery before it is included in the standard power purchase agreement. The purchasing public utility may not unreasonably withhold agreement. 
+
+ (10) The standard power purchase agreement must include a mechanical availability guarantee (MAG) for wind, hydroelectric, and solar qualifying facilities as follows: 
+
+ (a) A 90 percent overall guarantee, measured per turbine for wind resources and system-wide for other resources, starting three years after the commercial operation date for qualifying facilities with new contracts or one year after the commercial operation date for qualifying facilities that renew a contract or enter into a superseding contract, subject to an allowance for 200 hours of planned maintenance per turbine per year that does not count toward calculation of the overall guarantee. 
+
+ (b) A qualifying facility may be subject to damages for its failure to meet the MAG calculated by  
+
+ (A) Determining the amount of the "shortfall" for the year, which is the difference between the projected average on-and off-peak Net Output from the project that would have been delivered had the project been available at the guaranteed availability for the contract year and the actual Net Output provided by the qualifying facility for the contract year; 
+
+ (B) Multiplying the "shortfall" by the positive difference, if any, obtained by subtracting the Contract Price from the price at which the utility purchased replacement power; and 
+
+ (C) Additional ancillary service and transmission costs to deliver replacement power to the point of delivery and the cost of replacement renewable energy certificates, if any. 
+
+ (c) The 90 percent availability guarantee will be reduced on a pro rata basis for any portion of the annual period the qualifying facility was prevented from being available for reasons of Force Majeure or a default by the purchasing public utility under the power purchase agreement or interconnection agreement. 
+
+ (d) Notwithstanding subsection (b), the total amount of damages owed to the purchasing public utility by a qualifying facility for failure to meet the MAG will not exceed what the qualifying facility would have been paid under the standard power purchase agreement had it delivered sufficient output to meet the MAG. 
+
+ (11) A public utility may issue a Notice of Default, and subsequently terminate a standard power purchase agreement pursuant to its terms and limitations, for failure to meet the MAG if the qualifying facility does not meet the MAG for two consecutive years if such failure is not otherwise excused by the power purchase agreement.  
+
+ (12)(a) The standard purchase agreement will include an annual minimum delivery guarantee (MDG) for geothermal and biomass qualifying facilities equal to 90 percent of the qualifying facility's expected energy for the year. 
+
+ (b) The qualifying facility may be subject to damages for failure to meet the MDG calculated by: 
+
+ (A) Determining the amount of the "shortfall" for the year, which is the difference between 90 percent of the qualifying facility's expected energy for the year and the actual Net Output delivered by the qualifying facility to the purchasing public utility in the year; 
+
+ (B) Multiplying the "shortfall" by the positive difference, if any, obtained by subtracting the Contract Price from the price at which the utility procured replacement power; and 
+
+ (C) Additional ancillary service and transmission costs to deliver replacement power to the point of delivery and the cost of replacement renewable energy certificates, if any. 
+
+ (c) Notwithstanding subsection (b), the total amount of damages owed to the purchasing public utility by a qualifying facility for failure to meet the MDG will not exceed what the qualifying facility would have been paid under the standard power purchase agreement for energy it would have delivered had it met the MDG. 
+
+ (d) The 90 percent MDG will be reduced on a pro rata basis for any portion of the annual period the qualifying facility was prevented from generating or delivering electricity for reasons of Force Majeure, a default by the purchasing public utility under the power purchase agreement or interconnection agreement, or any interconnection and transmission curtailment initiated by the purchasing utility or the transmitting utility. 
+
+ (13) A purchasing utility may issue a Notice of Default, and subsequently terminate a standard power purchase agreement pursuant to its terms and limitations, for failure to meet the MDG if the qualifying facility does not meet the MDG for three consecutive years if such failure is not otherwise excused by the standard power purchase agreement. 
+
+ (14) Incremental Facility Upgrades. 
+
+ (a) During the development period, the qualifying facility may make reasonable modification to the design and components of its facility from the design and components contained in the power purchase agreement. The qualifying facility is obligated to provide the purchasing public utility an as-built supplement describing the Facility within 90 days after the commercial operation date. Except with the purchasing utility's written consent or as described in subsection (b) of this rule, the Facility as reflected in the as-built supplement may not: 
+
+ (A) Have a Nameplate Capacity Rating that exceeds the Nameplate Capacity Rating in the power purchase agreement at the time it was executed; or 
+
+ (B) Result in an expected annual net output that is greater than 10 percent above that specified in the power purchase agreement at the time it was executed. 
+
+ (b) In the event that the qualifying facility seeks to upgrade the facility during the development period or the term of the power purchase agreement in a manner that does not increase the Nameplate Capacity Rating of the facility in the power purchase agreement, but which is reasonably likely to cause the expected annual net output to exceed that listed in the power purchase agreement by more than 10 percent, such upgrades may be made without the utility's prior approval subject to the following requirements: 
+
+ (A) The proposed upgrades may not cause the qualifying facility to fail to meet the current eligibility requirements for either the standard power purchase agreement or standard prices, to breach its generation interconnection agreement, or necessitate network upgrades in order to maintain designated network status. 
+
+ (B) At least six months in advance of the scheduled installation date for the proposed upgrades, the qualifying facility must send written notice to the purchasing utility containing a detailed description of the proposed upgrades and their impact on expected net output and revised 12 x 24 delivery schedule and requesting indicative pricing for the incremental additional net output expected to be generated as a result of the upgrades. 
+
+ (C) Within 30 days after receiving such a request, the purchasing utility must respond with indicative pricing for the expected incremental additional Net Output to be generated as a result of the upgrades and which exceeds 10 percent of the expected annual Net Output specified in the power purchase agreement. 
+
+ (D) Within 30 days after receiving indicative pricing, the qualifying facility may request a draft amendment to the power purchase agreement to reflect revised pricing for the remaining term of the power purchase agreement, effective upon completion of the upgrades. If it is not reasonably feasible to separately meter the incremental additional Net Output resulting from the proposed upgrades, the purchasing utility may create a blended rate based on the proportion the expected incremental additional net output bears to the expected total Net Output following the installation of the upgrades. 
+
+ (c) Within 90 days after the date on which upgrades are installed under subsections (a) or (b) of this section, the qualifying facility is obligated to provide the purchasing utility an as-built supplement describing in detail the upgraded facility. 
+
+ (d) A qualifying facility that wishes to install upgrades that would cause the Facility to increase its Nameplate Capacity Rating must terminate its existing power purchase agreement and may choose to enter a new standard or new non-standard power purchase agreement based on the then current avoided cost. In calculating damages resulting from the early termination of the original standard power purchase agreement, if any, the cost to cover will be calculated based on the pricing set forth in the new non-standard pricing agreement notwithstanding any other provision in these rules to the contrary. A qualifying facility that chooses to negotiate a new power purchase agreement under this subsection will not be liable for damages for any default caused by its failure to maintain eligibility for a standard power purchase agreement. 
+
+ (15) Project Development Security. A new qualifying facility that has executed a standard power purchase agreement that does not meet the creditworthiness requirements in this rule must post Project Development Security for the purchasing public utility's benefit within 120 days of the Effective Date of the standard power purchase agreement. The amount of required Default Security will be $150/kWh. The obligation to maintain the Project Development Security will expire once the qualifying facility commences commercial operation. The qualifying facility may use either of the following options to post Project Development Security: 
+
+ (a) Cash Escrow Security. The qualifying facility shall deposit in an escrow account established by the purchasing utility in a banking institution acceptable to both the qualifying facility and purchasing utility, Project Development Security. Such sum shall earn interest at the rate applicable to money market deposits at such banking institutions from time to time. To the extent the purchasing utility receives payment from the Project Development Security for damages in the event of default, the qualifying facility will, within 15 days, restore the Project Development Security as if no such deduction had occurred. 
+
+ (b) Letter of Credit Security. The qualifying facility shall post and maintain in an amount equal to the Project Development Security either a guaranty from a party that satisfies the creditworthiness requirements under Section (18) of this rule, or a Letter of Credit in favor of the purchasing public utility. To the extent the public utility receives payment from the Project Development Security for damages in the event of default, the qualifying facility will, within 15 days, restore the Project Development Security as if no such deduction had occurred. 
+
+ (16) Default Security. A qualifying facility that has executed a standard power purchase agreement that does not meet the public utility's creditworthiness requirements must post Default Security upon commencing commercial operation. The amount of required Default Security will be $50/kWh. The qualifying facility may use one of the following options to post Default Security: 
+
+ (a) Cash Escrow Security. The qualifying facility shall deposit the Default Security in an escrow account established by the purchasing utility in a banking institution acceptable to both the qualifying facility and purchasing utility. Such sum shall earn interest at the rate applicable to money market deposits at such banking institutions from time to time. To the extent the purchasing utility receives payment from the Default Security for damages in the event of default, the qualifying facility will, within 15 days, restore the Default Security as if no such deduction had occurred; 
+
+ (b) Letter of Credit Security. The qualifying facility shall post and maintain in an amount equal to the Default Security either a guaranty from a party that satisfies the creditworthiness requirements under section (18) of this rule, or a Letter of Credit in favor of the purchasing public utility. To the extent the public utility receives payment from the Default Security for damages in the event of default, the qualifying facility will, within 15 days, restore the Default Security as if no such deduction had occurred. 
+
+ (c) Step-in Rights and Senior Liens. Default security can be satisfied through grant of step-in rights or a senior lien to the purchasing utility in a form acceptable to the purchasing public utility in its reasonable-exercised discretion. 
+
+ (17) Insurance requirements. The standard power purchase agreement must specify that a qualifying facility with a Nameplate Capacity Rating greater than 200 kW must secure and maintain general liability insurance coverage that complies with the following: 
+
+ (a) The insurance provider must have a rating no lower than "A-" by A.M. Best Company;  
+
+ (b) Insurance coverage will include: 
+
+ (A) general commercial liability insurance covering bodily injury and property damage in the amount of $1,000,000 each occurrence combined single limit, or greater if desired by the qualifying facility; and 
+
+ (B) Umbrella insurance in the amount of $5,000,000, or greater if desired by the qualifying facility. 
+
+ (18) Creditworthiness requirements under subsections (15) and (16) of this rule may be satisfied by: 
+
+ (a) A senior, unsecured long term debt rating (or corporate rating if such debt rating is unavailable) of: 
+
+ (A) 'BBB+' or greater from S&P Global Ratings; or 
+
+ (B) 'Baal' or greater form Moody's Investor Services; provided that if such ratings are split, the lower of the two ratings must be at least 'BBB+' or 'Baal' from S&P Global Ratings or Moody's Investor Services. 
+
+ (b) If a rating from S&P Global Ratings or Moody's Investor Services is not available, the qualifying must provide financial documentation that supports an equivalent rating as determined by the purchasing utility through a reasonable internal process review and utilizing a credit scoring model. In such case, the purchasing utility will request audited financial statements for the most recent two full years (including balance sheet, income statement, statement of cash flows, and accompanying footnotes), which information is evaluated considering: 
+
+ (A) the type of generation resource; 
+
+ (B) the size of the resource; 
+
+ (C) the expected energy delivery start date; and 
+
+ (D) the term of the power purchase agreement.  
+
+ (c) The internal review process will evaluate, at minimum, certain profitability, cash flow, liquidity, and financial leverage metrics. 
+
+ (d) If the qualifying facility is required to post a letter of credit, the letter of credit must be issued by an institution, not subject to bail-in regulation, with a credit rating on its long-term senior unsecured debt of at least 'A' from S&P Global Ratings and 'A2' from Moody's Investor Services. 
+
+ (19) Except as explicitly provided in these rules, any qualifying facility that has entered into a standard power purchase agreement with a public utility under PURPA will not make any changes in its ownership, control or management that would cause the qualifying facility to fail to satisfy the eligibility requirements for entering into the standard power purchase agreement or receipt of standard pricing reflected in the agreement. No more than once every 24 months, at the request of the public utility, the qualifying facility will provide documentation and information reasonably requested by the public utility to establish the qualifying facility's continued compliance with eligibility requirements for the standard power purchase agreement executed by the qualifying facility and public utility. The public utility shall take reasonable steps to maintain the confidentiality of any such documentation and information the qualifying facility identifies as confidential, provided that the public utility may provide all such information to the Commission in a proceeding before the Commission.  
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 183, ORS 756, ORS 757 & ORS 758 
+ 
+ 
+ Statutes/Other Implemented:  ORS 756.040 & ORS 758.505-758.555 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 8-2023, amend filed 07/25/2023, effective 07/26/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 8-2018, adopt filed 11/02/2018, effective 11/02/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

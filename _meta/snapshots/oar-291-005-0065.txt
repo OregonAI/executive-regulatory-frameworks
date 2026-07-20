@@ -1,0 +1,228 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Corrections 
+ Chapter 291 
+ 
+ 
+ 
+ 
+ 
+ Division 5 NETWORK INFORMATION SYSTEM ACCESS AND SECURITY 
+ 291-005-0065 
+ Information Technology Services (ITS) Responsibilities for User Identification 
+ 
+ To implement user accountability, the following rules shall be strictly enforced by ITS: 
+
+ (1) Separation of Duties: 
+
+ (a) Separate personnel duties to minimize the potential for abuse of authorized privileges and risk of malevolent activity without collusion. Developers must not have unmonitored access to production environments; 
+
+ (b) Document separation of duties, including roles and permissions; and 
+
+ (c) Define system access authorization in support of separation of duties. 
+
+ (2) Employ the principle of least privilege allowing only authorized access for users, or processes acting on behalf of users, which are necessary to accomplish assigned tasks in accordance with organizational missions and business functions. 
+
+ (a) Authorize Access to Security Functions: 
+
+ (A) Explicitly authorize access to administrative privileges, including security functions and security relevant information; and 
+
+ (B) Establish procedures to maintain documentation of privileged access, including any elevated privileges, and privileges that provide administrative access to network devices, operating systems, software application capabilities, or scripting tools. 
+
+ (b) Use of Non-privileged Access for Non-privileged Functions: Require that users of system accounts or roles, even those with access to privileged or administrative functions, use non-privileged accounts or roles when accessing systems for non-privileged or non-security functions. 
+
+ (c) Privileged Accounts: Restrict privileged accounts to authorized individuals with a need for elevated privileges. 
+
+ (d) Review of User Privileges: 
+
+ (A) Ensure that privileges assigned to users are reviewed to validate the need for such privileges: 
+
+ (i) Initially upon hire; 
+
+ (ii) Any time assigned job duties change; 
+
+ (iii) Any time there is a change in job position; 
+
+ (iv) Annually thereafter. 
+
+ (B) Reassign or remove privileges as necessary, to correctly reflect organizational mission and business needs. 
+
+ (e) Audit the Execution and Use of Privileged Functions. 
+
+ (f) Prohibit Non-privileged Users from Executing Privileged Functions: Prevent non-privileged users from executing privileged functions including disabling, circumventing, or altering implemented security safeguards and countermeasures. 
+
+ (3) Shared or Group Account Credentials: Shared or group account credentials must be changed when members leave the group. 
+
+ (4) Open user accounts are not allowed. An open user account is a log-on username for which there is no password, or for which the password is publicly known. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 179.040, 423.020, 423.030 & 423.075 
+ 
+ 
+ Statutes/Other Implemented:  ORS 179.040, 423.020, 423.030 & 423.075 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 5-2024, amend filed 04/29/2024, effective 04/29/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 16-1999, f. 9-24-99, cert. ef. 10-1-99 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ CD 10-1997, f. & cert. ef. 6-20-97 
+CD-24-1992, f. 11-24-92, cert. ef. 12-1-92 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

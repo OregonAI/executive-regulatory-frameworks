@@ -1,0 +1,442 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 252 TRANSPORTATION CONFORMITY 
+ 340-252-0060 
+ Consultation
+ 
+ 
+ (1) General: 
+
+ (a) This section provides procedures for interagency consultation (Federal, State, and local) and resolution of conflicts. Consultation shall be undertaken by MPOs, the Oregon Department of Transportation, affected local jurisdictions, and United States Department of Transportation before making conformity determinations and in developing regional transportation plans and transportation improvement programs. Consultation shall be undertaken by a lead planning agency, the Department of Environmental Quality, the Lane Regional Air Protection Agency (for actions in Lane County which are subject to this division), or any other regional air authority, and United States Environmental Protection Agency in developing applicable implementation plans. 
+
+ (b) The lead planning agency, the Department of Environmental Quality, the Lane Regional Air Protection Agency for Lane County, or any other regional air authority, shall be the lead agency responsible for preparing the final document or decision and for assuring the adequacy of the interagency consultation process with respect to the development, amendment or revision (except administrative amendments or revisions) of an applicable implementation plan including, the motor vehicle emissions budget. The MPO, Oregon Department of Transportation, or any other party responsible for making conformity determinations pursuant to this rule, shall be the lead agency responsible for preparing the final document or decision and for assuring the adequacy of the interagency consultation process with respect to the development of the transportation plan, the TIP, and any determinations of conformity under this rule. The project sponsor shall be responsible for assuring the conformity of FHWA/FTA projects and regionally significant projects approved or adopted by a recipient of funds under title 23. 
+
+ (c) In addition to the lead agencies identified in subsection (b), other agencies entitled to participate in any interagency consultation process under OAR 340-252-0060 include the Oregon Department of Transportation, both headquarters and each affected regional or district office, each affected MPO, the Federal Highway Administration regional office in Portland and State division office in Salem, the Federal Transit Administration regional office, the Department of Environmental Quality, both headquarters and each affected regional office, any affected regional air authority, the United States Environmental Protection Agency, both headquarters and each affected regional or district office, and any other organization within the State responsible under State law for developing, submitting or implementing transportation-related provisions of an implementation plan, any local transit agency, and any city or county transportation or air quality agency. 
+
+ (d) Specific roles and responsibilities of various participants in the interagency consultation process shall be as follows: 
+
+ (A) The lead planning agency, the Department of Environmental Quality, the Lane Regional Air Protection Agency, or any other regional air authority, shall be responsible for developing: 
+
+ (i) Emissions inventories; 
+
+ (ii) Emissions budgets; 
+
+ (iii) Attainment and maintenance demonstrations; 
+
+ (iv) Control strategy implementation plan revisions; and 
+
+ (v) Updated motor vehicle emissions factors. 
+
+ (B) Unless otherwise agreed to in a Memorandum of Understanding between the affected jurisdictions and the Department of Environmental Quality, the Department of Environmental Quality shall be responsible for developing the transportation control measures to be included in SIPs in nonattainment or maintenance areas, except Lane County. 
+
+ (C) The Lane Regional Air Protection Agency shall be responsible for developing transportation control measures for PM10 in Lane County. 
+
+ (D) The MPO shall be responsible for: 
+
+ (i) Developing transportation plans and TIPs, and making corresponding conformity determinations; 
+
+ (ii) Making conformity determinations for the entire nonattainment or maintenance area including areas beyond the boundaries of the MPO where no agreement is in effect as required by 23 CFR § 450.310(f); 
+
+ (iii) Monitoring regionally significant projects; 
+
+ (iv) Developing and evaluating TCMs in nonattainment and/or maintenance areas; 
+
+ (v) Providing technical and policy input on emissions budgets; 
+
+ (vi) Performing transportation modeling, regional emissions analyses and documenting timely implementation of TCMs as required for determining conformity; 
+
+ (vii) Distributing draft and final project environmental documents which have been prepared by the MPO to other agencies. 
+
+ (E) The Oregon Department of Transportation shall be responsible for: 
+
+ (i) Providing technical input on proposed revisions to motor vehicle emissions factors; 
+
+ (ii) Distributing draft and final project environmental documents prepared by ODOT to other agencies; 
+
+ (iii) Convening air quality technical review meetings on specific projects when requested by other agencies or, as needed; 
+
+ (iv) Convening interagency consultation meetings required for purposes of making conformity determinations in non-metropolitan nonattainment or maintenance areas; 
+
+ (v) Making conformity determinations in non-metropolitan nonattainment or maintenance area. 
+
+ (F) The project sponsor shall be responsible for; 
+
+ (i) Assuring project level conformity including, where required by this rule, localized air quality analysis; 
+
+ (ii) Distributing draft and final project environmental documents prepared by the project sponsor to other agencies. 
+
+ (G) The Federal Highway Administration and Federal Transit Administration shall be responsible for assuring timely action on final findings of conformity, after consultation with other agencies as provided in this section and 40 CFR § 93.105. 
+
+ (H) United State Environmental Protection Agency shall be responsible for: 
+
+ (i) Reviewing and approving updated motor vehicle emissions factors; and 
+
+ (ii) Providing guidance on conformity criteria and procedures to agencies in interagency consultation. 
+
+ (I) Any agency, by mutual agreement with another agency, may take on a role or responsibility assigned to that other agency under this rule. 
+
+ (J) In metropolitan areas, any state or local transportation agency, or transit agency shall disclose regionally significant projects to the MPO standing committee established under OAR 340-252-0060(2)(b) in a timely manner. 
+
+ (i) Such disclosure shall be made not later than the first occasion on which any of the following actions is sought: adoption or amendment of a local jurisdiction's transportation system plan to include a proposed project, the issuance of administrative permits for the facility or for construction of the facility, the execution of a contract for final design or construction of the facility, the execution of any indebtedness for the facility, any final action of a board, commission or administrator authorizing or directing employees to proceed with final design, permitting or construction of the project, or any approval needed for any facility that is dependent on the completion of the regionally significant project. 
+
+ (ii) To help assure timely disclosure, the sponsor of any potentially regionally significant project shall disclose to the MPO annually on or before July 1. 
+
+ (iii) In the case of any regionally significant project that has not been disclosed to the MPO and other interested agencies participating in the consultation process in a timely manner, such regionally significant project shall be deemed not to be included in the regional emissions analysis supporting the currently conforming TIP's conformity determination and not to be consistent with the motor vehicle emissions budget in the applicable implementation plan, for the purposes of 40 CFR §93.121. 
+
+ (K) In non-metropolitan areas, any state or local transportation agency, or transit agency shall disclose regionally significant projects to Oregon Department of Transportation in a timely manner. 
+
+ (i) Such disclosure shall be made no later than the first occasion on which any of the following actions is sought: adoption or amendment of a local jurisdiction's transportation system plan to include a proposed project, the issuance of administrative permits for the facility or for construction of the facility, the execution of a contract for final design or construction of the facility, the execution of any indebtedness for the facility, any final action of a board, commission or administrator authorizing or directing employees to proceed with final design, permitting or construction of the project, or any approval needed for any facility that is dependent on the completion of the regionally significant project. 
+
+ (ii) To help assure timely disclosure, the sponsor of any potentially regionally significant project shall disclose to Oregon Department of Transportation as requested. Requests for disclosure shall be made in writing to any affected state or local transportation or transit agency. 
+
+ (2) Interagency consultation: specific processes. 
+
+ (a) State Implementation Plan development. 
+
+ (A) It shall be the affirmative responsibility of the Department of Environmental Quality, the Lane Regional Air Protection Agency, or any other regional air authority with the responsibility for preparing or revising a State Implementation Plan, except for administrative amendments or revisions, to initiate the consultation process by notifying other participants and convening a working group made up of representatives of each affected agency in the consultation process including representatives of the public, as appropriate. Such working group shall be chaired by a representative of the convening agency, unless the group by consensus selects another chair. The working group shall make decisions by majority vote. Such working group shall begin consultation meetings early in the process of decision on the final SIP, and shall review drafts of the final SIP, the emissions budget, and major supporting documents, or appoint the representatives or agencies that will review such drafts. Such working group shall be made up of policy level officials, and shall be assisted by such technical committees or technical engineering, planning, public works, air quality, and administrative staff from the member agencies as the working group deems appropriate. The chair, or his/her designee, shall set the agenda for meetings and assure that all relevant documents and information are supplied to all participants in the consultation process in a timely manner. 
+
+ (B) Regular consultation on development or amendment of an implementation plan shall include meetings of the working group at regularly scheduled intervals, no less frequently than quarterly. In addition, technical meetings shall be convened as necessary. 
+
+ (C) Each lead agency with the responsibility for preparing the SIP subject to the interagency consultation process, shall confer through the working group process with all other agencies identified under subsection (1)(c) of this rule with an interest in the document to be developed, provide all appropriate information to those agencies needed for meaningful input, and, consider the views of each such agency and respond to substantive comments in a timely, substantive written manner prior to making a recommendation to the Environmental Quality Commission for a final decision on such document. Such views and written response shall be made part of the record of any decision or action. 
+
+ (D) The working group may appoint subcommittees to address specific issues pertaining to SIP development. Any recommendations of a subcommittee shall be considered by the working group. 
+
+ (E) Meetings of the working group shall be open to the public. The agency with the responsibility of preparing the SIP shall provide timely written notification of working group meetings to those members of the public who have requested such notification. In addition, reasonable efforts shall be made to identify and provide timely written notification to interested parties. 
+
+ (b) Metropolitan Areas. There shall be a standing committee for purposes of consultation required under this rule by an MPO. The standing committee shall advise the MPO. The committee shall include representatives from state and regional air quality planning agencies and State and local transportation and transit agencies. The standing committee shall consult with the United States Environmental Protection Agency and the United States Department of Transportation. If not designated by committee bylaws, the standing committee shall select its chair by majority vote. 
+
+ (A) For MPOs designated prior to the effective date of this rule, the following standing committees are designated for purposes of interagency consultation required by this rule: 
+
+ (i) Lane Council of Governments: Transportation Planning Committee; 
+
+ (ii) Salem-Keizer Area Transportation Study: Technical Advisory Committee; 
+
+ (iii) Metro: Transportation Policy Alternatives Committee; 
+
+ (iv) Rogue Valley Council of Governments: Technical Advisory Committee. 
+
+ (B) Any MPO designated an air quality nonattainment or maintenance area subsequent to the effective date of this rule shall establish a standing committee to meet the requirements of this rule. 
+
+ (C) The standing committee shall hold meetings at least quarterly. The standing committee shall make decisions by majority vote. 
+
+ (D) The standing committee shall be responsible for consultation on: 
+
+ (i) Determining which minor arterials and other transportation projects should be considered "regionally significant" for the purposes of regional emissions analysis, in addition to those functionally classified as principal arterial or higher or fixed guideway systems or extensions that offer an alternative to regional highway travel; 
+
+ (ii) Determining whether a project's design concept and scope have changed significantly since the plan and TIP conformity determination; 
+
+ (iii) Evaluating whether projects otherwise exempted from meeting the requirements of this rule should be treated as non-exempt in cases where potential adverse emissions impacts may exist for any reason; 
+
+ (iv) Making a determination, as required by 40 CFR § 93.113 whether past obstacles to implementation of TCMs which are behind the schedule established in the applicable implementation plan have been identified and are being overcome, and whether State and local agencies with influence over approvals or funding for TCMs are giving maximum priority to approval or funding for TCMs; this consultation process shall also consider whether delays in TCM implementation necessitate revisions to the applicable implementation plan to remove TCMs or substitute TCMs or other emission reduction measures; 
+
+ (v) Identifying, as required by 40 CFR § 93.123, projects located at sites in PM10 or PM2.5 nonattainment or maintenance areas which have vehicle and roadway emission and dispersion characteristics which are essentially identical to those at sites which have violations verified by monitoring, and therefore require quantitative PM10 or PM2.5 hot-spot analysis; 
+
+ (vi) Forecasting vehicle miles traveled, and any amendments thereto; 
+
+ (vii) Making a determination, as required by 40 CFR § 93.121, whether the project is included in the regional emissions analysis supporting the currently conforming TIP's conformity determination, even if the project is not strictly "included" in the TIP for the purposes of MPO project selection or endorsement, and whether the project's design concept and scope have not changed significantly from those which were included in the regional emissions analysis, or in a manner which would significantly impact use of the facility; 
+
+ (viii) Determining whether the project sponsor or MPO has demonstrated that the requirements of 40 CFR § 93.116, 40 CFR § 93.118, and 40 CFR § 93.119 are satisfied without a particular mitigation or control measure, as provided in 40 CFR § 93.125; 
+
+ (ix) Evaluating events which will trigger new conformity determinations in addition to those triggering events established in 40 CFR § 93.104; 
+
+ (x) Consulting on emissions analysis for transportation activities which cross the borders of MPOs or nonattainment or maintenance areas or air basins; 
+
+ (xi) Assuring that plans for construction of regionally significant projects which are not FHWA/FTA projects, including projects for which alternative locations, design concept and scope, or the no-build option are still being considered, are disclosed to the MPO on a regular basis, and assuring that any changes to those plans are immediately disclosed; 
+
+ (xii) The design, schedule, and funding of research and data collection efforts and regional transportation model development by the MPO (e.g., household/travel transportation surveys); 
+
+ (xiii) Development of transportation improvement programs; 
+
+ (xiv) Development of regional transportation plans; 
+
+ (xv) Establishing appropriate public participation opportunities for project-level conformity determinations required by this division, in the manner specified by 23 CFR Part 450; and 
+
+ (xvi) Notification of transportation plan or TIP revisions or amendments which merely add or delete exempt projects listed in 40 CFR § 93.126 and 40 CFR § 93.127. 
+
+ (E) The chair of each standing committee, or his/her designee, shall set the agenda for all meetings. The chair of each standing committee shall assure that all agendas, and relevant documents and information are supplied to all participants in the consultation process in a timely manner prior to standing committee meetings which address any issues described in paragraph (2)(b)(D) of this rule. 
+
+ (F) Such standing committees shall begin consultation meetings early in the process of decision on the final document, and shall review all drafts of the final document and major supporting documents. The standing committee shall consult with EPA and USDOT. 
+
+ (G) The MPO shall confer with the standing committee and shall consult with all other agencies identified under subsection (1)(c) of this rule with an interest in the document to be developed, shall provide all appropriate information to those agencies needed for meaningful input, and consider the views of each such agency. The MPO shall provide draft conformity determinations to standing committee members and shall allow a minimum of 30 days for standing committee members to comment. The 30-day comment period for standing committee members may occur concurrently with the public comment period. The MPO shall respond to substantive comments raised by a standing committee member in a timely, substantive written manner at least 7 days prior to any final decision by the MPO on such document. Such views and written response shall be made part of the record of any decision or action. 
+
+ (H) The standing committee may, where appropriate, appoint a subcommittee to develop recommendations for consideration by the full committee. 
+
+ (I) Meetings of the standing committee shall be open to the public. The MPO shall provide timely written notification of standing committee meetings to those members of the public who have requested such notification. In addition, reasonable efforts shall be made to identify and provide timely written notification to interested parties. 
+
+ (c) An MPO, or any other party responsible for developing Transportation Control Measures, shall consult with affected parties listed in subsection (1)(c) in developing TCMs for inclusion in an applicable implementation plan. 
+
+ (d) Non-metropolitan areas. 
+
+ (A) In non-metropolitan areas the following interagency consultation procedures shall apply, unless otherwise agreed to by the affected parties in a Memorandum of Understanding, or specified in an applicable implementation plan: 
+
+ (B) In each non-metropolitan nonattainment or maintenance area the Oregon Department of Transportation shall facilitate a meeting of the affected agencies listed in subsection (1)(c) of this rule prior to making conformity determinations to: 
+
+ (i) Determine which minor arterials or other transportation projects shall be considered "regionally significant"; 
+
+ (ii) Determine which projects have undergone significant changes in design concept and scope since the regional emissions analysis was performed; 
+
+ (iii) Evaluate whether projects otherwise exempted from meeting the requirements of this rule should be treated as non-exempt in cases where potential adverse emissions impacts may exist for any reason; 
+
+ (iv) Make a determination, as required by 40 CFR § 93.113, whether past obstacles to implementation of TCMs which are behind the schedule established in the applicable implementation plan have been identified and are being overcome, and whether State and local agencies with influence over approvals or funding for TCMs are giving maximum priority to approval or funding for TCMs; this consultation process shall also consider whether delays in TCM implementation necessitate revisions to the applicable implementation plan to remove TCMs or substitute TCMs or other emission reduction measures; 
+
+ (v) Identify, as required by 40 CFR § 93.123 projects located at sites in PM10 or PM2.5 nonattainment or maintenance areas which have vehicle and roadway emission and dispersion characteristics which are essentially identical to those at sites which have violations verified by monitoring, and therefore require quantitative PM10 or PM2.5 hot-spot analysis; 
+
+ (vi) Confer on the forecast of vehicle miles traveled, and any amendments thereto; 
+
+ (vii) Determine whether the project sponsor has demonstrated that the requirements of 40 CFR § 93.116, 40 CFR § 93.118, and 40 CFR § 93.119 are satisfied without a particular mitigation or control measure, as provided in; 
+
+ (viii) Evaluate events which will trigger new conformity determinations in addition to those triggering events established in 40 CFR § 93.104; 
+
+ (ix) Assure that plans for construction of regionally significant projects which are not Federal Highway Administration/Federal Transit Administration projects, including projects for which alternative locations, design concept and scope, or the no-build option are still being considered, are disclosed on a regular basis, and assuring that any changes to those plans are immediately disclosed. 
+
+ (x) Confer on the design, schedule, and funding of research and data collection efforts and transportation model development (e.g., household/travel transportation surveys). 
+
+ (xi) Establish appropriate public participation opportunities for project-level conformity determinations required by this rule in the manner specified by 23 CFR Part 450; 
+
+ (xii) Provide notification of transportation plan or TIP revisions or amendments which merely add or delete exempt projects listed in 40 CFR § 93.126 and 40 CFR § 93.127; and 
+
+ (xiii) Choose conformity tests and methodologies for non-metropolitan nonattainment and maintenance areas, as required by 40 CFR § 93.109. 
+
+ (C) The Oregon Department of Transportation shall consult with all other agencies identified under subsection (1)(c) of this rule with an interest in the document to be developed, shall provide all appropriate information to those agencies needed for meaningful input, and consider the views of each such agency. All draft regional conformity determinations as well as, supporting documentation shall be made available to agencies with an interest in the document and those agencies shall be given at least 30 days to submit comments on the draft document. Oregon Department of Transportation shall respond to substantive comments received from other agencies in a timely, substantive written manner at least 7 days prior to any final decision on such document. Such views and written response shall be made part of the record of any decision or action. 
+
+ (D) Meetings hereby required shall be open to the public. Timely written notification of any meetings relating to conformity shall be provided to those members of the public who have requested such notification. In addition, reasonable efforts shall be made to identify and provide timely written notification to interested parties. 
+
+ (E) If no transportation projects are proposed for the upcoming fiscal year, there is no obligation to facilitate the annual meeting required by paragraphs (2)(d)(B) & (C) of this rule. 
+
+ (F) The meetings required by paragraphs (2)(d)(B) & (C) of this rule may take place using telecommunications equipment, where appropriate. 
+
+ (e) An MPO or Oregon Department of Transportation shall facilitate an annual statewide meeting, unless otherwise agreed upon by Oregon Department of Transportation, Oregon Department of Environmental Quality and the MPOs, of the affected agencies listed in subsection (1)(c) to review procedures for regional emissions and hot-spot modeling. 
+
+ (A) The members of each agency shall annually jointly review the procedures used by affected MPOs and agencies to determine that the requirements of 40 CFR § 93.122 are being met by the appropriate agency. 
+
+ (B) An MPO or Oregon Department of Transportation shall facilitate a statewide meeting of parties listed in subsection (1)(c) of this rule to receive comment on the United States Environmental Protection Agency guidelines on hot-spot modeling, to determine the adequacy of the guidelines, and to make recommendations for improved hot-spot modeling to the United States Environmental Protection Agency Regional Administrator. Oregon Department of Environmental Quality, Lane Regional Air Protection Agency, or any other regional air authority, may make recommendations for improved hot-spot modeling guidelines to the United States Environmental Protection Agency Regional Administrator with the concurrence of Oregon Department of Transportation. Oregon Department of Transportation may make recommendations for improved hot-spot modeling guidelines to the United States Environmental Protection Agency Regional Administrator with the concurrence of the affected air quality agency (e.g., Oregon Department of Environmental Quality, Lane Regional Air Protection Agency or any other regional air authority). 
+
+ (C) The MPO or Oregon Department of Transportation shall determine whether the transportation modeling procedures are in compliance with the modeling requirements of40 CFR § 93.122. The Oregon Department of Environmental Quality or Lane Regional Air Protection Agency (in Lane County), or any other regional air authority, shall determine whether the modeling procedures are in compliance with the air quality emissions modeling requirements of 40 CFR § 93.122. 
+
+ (D) The affected agencies shall evaluate and choose a model (or models) and associated methods and assumptions to be used in Hot-Spot Analyses and regional emissions analyses. 
+
+ (f) The Federal Highway Administration and Federal Transit Administration will, for any proposed or anticipated transportation improvement program (TIP) or transportation plan conformity determination, provide a draft conformity determination to the Environmental Protection Agency for review and comment. The Federal Highway Administration and Federal Transit Administration shall allow a minimum of 14 days for EPA to respond. The United States Department of Transportation shall respond in writing to any significant comments raised by the Environmental Protection Agency before making a final decision. In addition, where the Federal Highway Administration and Federal Transit Administration request any new or revised information to support a TIP or transportation plan conformity determination, The Federal Highway Administration and Federal Transit Administration shall either return the conformity determination for additional consultation under subsections (2)(b) or (2)(d) of this rule, or the Federal Highway Administration and Federal Transit Administration shall provide the new information to the agencies listed in subsection (1)(c) of this rule for review and comment. Where the Federal Highway Administration and Federal Transit Administration choose to provide the new or additional information to the affected agencies listed in subsection (1)(c), the Federal Highway Administration and Federal Transit Administration shall allow for a minimum of 14 days to respond to any new or revised supporting information; the United States Department of Transportation shall respond in writing to any significant comments raised by the agencies consulted on the new or revised supporting information before making a final decision. 
+
+ (g) Each agency subject to an interagency consultation process under this rule (including any Federal agency) shall provide each final document that is the product of such consultation process, together with all supporting information that has not been the subject of any previous consultation required by this rule, to each other agency that has participated in the consultation process within 14 days of adopting or approving such document or making such determination. Any such agency may supply a checklist of available supporting information, which such other participating agencies may use to request all or part of such supporting information, in lieu of generally distributing all supporting information. 
+
+ (h) It shall be the affirmative responsibility of the agency with the responsibility for preparing a transportation plan or TIP revision which merely adds or deletes exempt projects listed in OAR 40 CFR § 93.126 to initiate the process by notifying other participants early in the process of decision on the final document and assure that all relevant documents and information are supplied to all participants in the consultation process in a timely manner. 
+
+ (i) A meeting that is scheduled or required for another purpose may be used for the purposes of consultation required by this rule if the conformity consultation purpose is identified in the public notice for the meeting. 
+
+ (j) It shall be the affirmative responsibility of a project sponsor to consult with the affected transportation and air quality agencies prior to making a project level conformity determination required by this rule. 
+
+ (3) Resolving conflicts. 
+
+ (a) Any conflict among State agencies or between State agencies and an MPO shall be escalated to the Governor if the conflict cannot be resolved by the heads of the involved agencies. In the first instance, such agencies shall make every effort to resolve any differences, including personal meetings between the heads of such agencies or their policy-level representatives, to the extent possible. 
+
+ (b) A State agency, regional air authority, or MPO has 14 calendar days to appeal a determination of conformity, SIP submittal, or other decision under this division, to the Governor after the State agency, regional air authority, or MPO has been notified of the resolution of all comments on such proposed determination of conformity, SIP submittal, or decision. If an appeal is made to the Governor, the final conformity determination, SIP submittal, or policy decision must have the concurrence of the Governor. The appealing agency must provide notice of any appeal under this subsection to the lead agency. If an action is not appealed to the Governor within 14 days, the lead agency may proceed. 
+
+ (c) The Governor may delegate the role of hearing any such appeal under this section and of deciding whether to concur in the conformity determination to another official or agency within the State, but not to the head or staff of the State air quality agency or any local air quality agency, the State department of transportation, a State transportation commission or board, the Environmental Quality Commission, any agency that has responsibility for only one of these functions, or an MPO. 
+
+ (4) Public consultation procedures. Affected agencies making conformity determinations on transportation plans, programs, and projects shall establish a proactive public involvement process which provides opportunity for public review and comment by, at a minimum, providing reasonable public access to technical and policy information considered by the agency at the beginning of the public comment period and prior to taking formal action on a conformity determination for all transportation plans and TIPs, consistent with these requirements and those or 23 CFR 450.316(a). Any charges imposed for public inspection and copying should be consistent with the fee schedule contained in 49 CFR 7.43. In addition, these agencies must specifically address in writing all public comments that known plans for a regionally significant project which is not receiving FHWA or FTA funding or approval have not been properly reflected in the emissions analysis supporting a proposed conformity finding for a transportation plan or TIP. These agencies shall also provide opportunity for public involvement in conformity determinations for projects where otherwise required by law. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468A.035 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 159-2018, minor correction filed 04/12/2018, effective 04/12/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 2-2010, f. & cert. ef. 3-5-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-020-0760 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 17-1998, f. & cert. ef. 9-23-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 7-1995, f. & cert. ef. 3-29-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

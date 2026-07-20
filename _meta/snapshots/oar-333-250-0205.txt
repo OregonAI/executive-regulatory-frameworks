@@ -1,0 +1,392 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 250 AMBULANCE SERVICE LICENSING 
+ 333-250-0205 
+ Definitions
+ 
+ 
+ (1) "Advertise" means to communicate information to the public, or to any person concerned, by any oral, written, or graphic means including, but not limited to, pamphlets, newspapers, television, billboards, radio, Internet and telephone directories. 
+
+ (2) "Agent" has the same meaning given that term in OAR 847-035-0001. 
+
+ (3) "Ambulance" or "ambulance vehicle" means any privately or publicly owned motor vehicle, aircraft, or watercraft that is regularly provided or offered to be provided for the emergency transportation of persons who are ill or injured or who have disabilities. 
+
+ (4) "Ambulance-based clinician": 
+
+ (a) Means a registered nurse, physician, or physician associate who: 
+
+ (A) Has an active license in Oregon and is in good standing with the Oregon Board of Nursing or the Oregon Medical Board; and 
+
+ (B) Staffs an ambulance for a licensed ambulance service. 
+
+ (b) Includes an EMS medical director or agent that staffs an ambulance. 
+
+ (5) "Ambulance service" means a person, governmental unit, or other entity that operates ambulance(s) and that holds itself out as providing prehospital care or medical transportation to persons who are ill or injured or who have disabilities. 
+
+ (6) "Ambulance service administrator" means an individual responsible for the professional, supervisory and administrative work in the operation of the ambulance service and its staff. 
+
+ (7) "Ambulance service area (ASA)" means a geographic area served by one ambulance service provider, and may include all or portion of a county, or all or portions of two or more contiguous counties. 
+
+ (8) "Ambulance service license" means the documents issued by the Authority to the ambulance service licensee when the service is found to be in compliance with ORS chapter 682; OAR chapter 333, division 255 and these rules. 
+
+ (9) "Ambulance service licensee" means the person or owner as defined under this rule, to whom the ambulance service license is issued. 
+
+ (10) "Ambulance service plan" has the meaning given that term in OAR 333-260-0010. 
+
+ (11) "Ambulance service plan administrator" means an individual responsible for overseeing the development, implementation, and maintenance of an ambulance service plan. 
+
+ (12) "Ambulance service provider" means an ambulance service licensed under these rules that responds to 9-1-1 dispatched calls or provides prearranged non-emergency transfers or emergency or non-emergency interfacility transfers. 
+
+ (13) "Authority" means the Emergency Medical Services Program, within the Oregon Health Authority. 
+
+ (14) "Business day" means Monday through Friday when the Authority is open for business, excluding holidays. 
+
+ (15) "County governing body" means a Board of County Commissioners or a county court. 
+
+ (16) "Electronic patient care report (ePCR)" means an Authority-approved electronic field data format that is completed by an EMS provider or ambulance-based clinician for all patients receiving prehospital assessment, care or transportation to a medical facility. 
+
+ (17) "Emergency care" means the performance of acts or procedures under emergency conditions in the observation, care and counsel of persons who are ill or injured or who have disabilities; in the administration of care or medications as prescribed by a licensed physician or naturopathic physician, insofar as any of these acts is based upon knowledge and application of the principles of biological, physical and social science as required by a completed course utilizing an approved curriculum in prehospital emergency care. "Emergency care" does not include acts of medical diagnosis or prescription of therapeutic or corrective measures. 
+
+ (18) "EMS" means emergency medical services. 
+
+ (19) "EMS medical director" has the same meaning as "supervising physician" in ORS 682.025. 
+
+ (20) "Emergency medical services provider (EMS provider)" has the meaning given that term in ORS 682.025. 
+
+ (21) "Employee" means any full-time paid or part-time paid person acting within the scope of their duties and for or on behalf of an ambulance service. 
+
+ (22) "Fraud or deception" means the intentional misrepresentation or misstatement of a material fact, concealment of or failure to make known any material fact or any other means by which misinformation or false impression is knowingly given. 
+
+ (23) "Governmental unit" means the state or any county, municipality or other political subdivision or any department, board or other agency of any of them. 
+
+ (24) "National Emergency Medical Services Information System (NEMSIS)" means the national system used to collect, store and share emergency medical services data from the United States and Territories. 
+
+ (25) "Non-emergency care" means the performance of acts or procedures on a patient who is not expected to die, become permanently disabled or suffer permanent harm within the next 24-hours, including but not limited to observation, care and counsel of a patient and the administration of medications prescribed by a physician licensed under ORS chapter 677 or naturopathic physician licensed under ORS chapter 685, insofar as any of those acts are based upon knowledge and application of the principles of biological, physical and social science and are performed in accordance with scope of practice rules adopted by the Oregon Medical Board or Oregon Board of Naturopathic Medicine in the course of providing prehospital care as defined in this rule. 
+
+ (26) "Non-transporting emergency medical services (EMS) agency" means any individual, partnership, corporation, association, governmental agency or unit or other entity that uses licensed EMS providers to provide emergency care or non-emergency care in the out-of-hospital environment to persons who are ill or injured, but does not transport patients. 
+
+ (27) "Outcome data" means the data collected by an Oregon trauma center on a trauma patient and identified in Appendix 2 of OAR 333-250-0315. 
+
+ (28) "Oregon Emergency Medical Services Information System (OREMSIS)" means the prehospital emergency medical services data collection and analysis system operated by the Oregon Health Authority. 
+
+ (29) "Oregon Trauma Registry (OTR)" means the data collection and analysis system for trauma patient care operated by the Oregon Health Authority. 
+
+ (30) "Owner" means the person or governmental unit having all the incidents of ownership in an ambulance service or an ambulance or where the incidents of ownership are in different persons, the person, other than a security interest holder or lessor, entitled to the possession of an ambulance vehicle or operation of an ambulance service under a security agreement or a lease for a term of 10 or more successive days. 
+
+ (31) "Paramedic" means a person who is licensed by the Authority as a Paramedic. 
+
+ (32) "Patient" means a person who is ill or injured or who has a disability and who receives emergency or nonemergency care from an EMS provider. 
+
+ (33) "Patient encounter data" means the prehospital data collected by an EMS provider responding to a scene where patient contact is initiated and identified in Appendix 1 of OAR 333-250-0315. 
+
+ (34) "Person" has the meaning given that term in ORS 174.100. 
+
+ (35) "Physician" means a person licensed under ORS chapter 677, actively registered and in good standing with the Oregon Medical Board as a Medical Doctor (MD) or Doctor of Osteopathic Medicine (DO). 
+
+ (36) "Physician Associate (PA)" means a person licensed under ORS chapter 677, actively registered and in good standing with the Oregon Medical Board. 
+
+ (37) "Prehospital care" means care rendered by EMS providers as an incident of the operation of an ambulance and care rendered by EMS providers as incidents of other public or private safety duties, and includes, but is not limited to "emergency care" as defined in this rule. 
+
+ (38) "Primary ambulance service area (ASA) provider" means the ambulance service provider that has been chosen to serve one geographic area. 
+
+ (39) "Procedure" means a written, dated and signed course of action to carry out a directive. A procedure must be able to answer the questions; who, what, why, when and where. 
+
+ (40) "Qualified driver" means someone who is not licensed by the Authority and who meets Authority requirements to operate a ground ambulance. 
+
+ (41) "Standing orders" means the written detailed procedures for medical or trauma emergencies and nonemergency care to be performed by an EMS provider issued by an EMS medical director in conformance with the scope of practice and level of licensure of the EMS provider. 
+
+ (42) "Transitional Paramedic" means a person who is licensed by the Authority as a Transitional Paramedic. 
+
+ (43) "These rules" means OAR 333-250-0200 through OAR 333-250-0410. 
+
+ (44) "Volunteer" means a person who is not compensated for their time to staff an ambulance or EMS agency, but who may receive reimbursement for personal expenses incurred. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 682.017 
+ 
+ 
+ Statutes/Other Implemented:  ORS 682.017 - 682.117 & 682.991 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 19-2025, amend filed 09/24/2025, effective 01/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 52-2023, amend filed 11/07/2023, effective 12/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 51-2021, minor correction filed 10/04/2021, effective 10/04/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 27-2020, amend filed 04/27/2020, effective 07/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 24-2017, amend filed 12/21/2017, effective 01/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 333-250-0010, PH 7-2017, f. & cert. ef. 3-21-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 1-2013, f. & cert. ef. 1-25-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 11-2010, f. 6-30-10, cert. ef. 7-1-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 2-2007, f. & cert. ef. 2-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHD 7-2001, f. & cert. ef. 4-24-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 18-1994, f. 6-30-94, cert. ef. 7-1-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

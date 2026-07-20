@@ -1,0 +1,173 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Water Resources Department 
+ Chapter 690 
+ 
+ 
+ 
+ 
+ 
+ Division 230 STANDARDS AND PROCEDURES FOR LOW-TEMPERATURE GEOTHERMAL PRODUCTION  AND INJECTION WELLS AND EFFLUENT  DISPOSAL SYSTEMS 
+ 690-230-0085 
+ Pump Testing of Low-Temperature Geothermal Injection Wells with an Anticipated Injection Rate Exceeding 15,000 Gallons Per Day 
+ 
+ (1) Low-temperature geothermal injection wells (other than flowing artesian wells) with an anticipated injection rate of greater than 15,000 gallons per day, shall be pump tested for a period of at least four hours. The pump test shall occur after the owner's pump test plan is approved by the Director, and prior to injecting into the well. The results of this test do not need to appear on the water well report. This test shall be in addition to the minimum one-hour test requirement under OAR 690-210-0370. Requirements for conducting the minimum four-hour pump test as discussed in this section (this type of test) are as follows:  (a) Prior to testing, the well shall be idle for a period of at least four hours;  (b) The static water level in the well shall be measured at least three times, no less than twenty minutes apart, during the hour prior to pumping the well;  (c) The water shall be pumped into or from the well at a measured and steady rate. The rate shall approximate the maximum anticipated injection rate;  (d) The pump discharge shall be controlled as much as possible to maintain a constant rate during the test. The discharge rate shall be as close as reasonably possible to the anticipated injection rate during normal use of the well. Discharge rate shall be recorded at the beginning of the test and once every hour thereafter;  (e) Water levels in the well shall be physically measured by a standard and acceptable method. Visual estimation of water level is not acceptable. Acceptable methods include:  (A) An electric water level measuring tape;  (B) An air line dedicated to the well;  (C) An acoustic sounder;  (D) An electronic pressure transducer; or  (E) Other water level measuring methods approved in advance by the Director.  (f) The water level measurements shall occur at least at the minimum frequency outlined below: Time period — Water level measurement schedule  (i) First 10 minutes — No more than 2 minutes apart.  (ii) 10 to 30 minutes — No more than 5 minutes apart.  (iii) 30 to 100 minutes — No more than 15 minutes apart.  (iv) 100 to 240 minutes — No more than 30 minutes apart.  (g) After pumping stops, water level measurements shall be collected for a time equal to that of the pumping period, or until the well reaches 90 percent recovery from the maximum drawdown, whichever occurs first. Recovery water level measurements shall be collected on the same time schedule as described in subsection (1)(f) of this rule;  (h) The pump discharge shall be physically measured by a standard and acceptable method. Visual estimation of flow rate is not acceptable. Acceptable methods include:  (A) A properly installed flow meter, designed for geothermal use, which is functional and calibrated within reasonable limits for the type of meter;  (B) A properly installed weir or flume;  (C) A properly installed and calibrated orifice plate and manometer;  (D) Known volume/time calculations (including calibrated bucket and stopwatch up to 60 gallons per minute);  (E) Properly installed and used ultrasonic flow measuring devices; or  (F) Other discharge methods approved in advance by the Director.  (2) The owner may consult with the Department before selecting representative nearby wells for monitoring during the pump test. If monitoring wells are selected in absence of specific instructions from the Department, the measurement of water levels in each well shall adhere to the schedule established in subsection (1)(f) of this rule.  (3) The Director may require the owner of the well to have a pump test performed that is more detailed than the test requirements described in sections (1) and (2) of this rule. This more detailed test could include, but is not limited to, increased frequency of water level measurements, increased test duration and increased monitoring of observation wells. Such modifications will be required when possible impacts resulting from the proposed injection include, but are not limited to, thermal or hydrologic interference with existing water rights, water quality degradation or physical or mechanical failure of the well structure.  (4) For flowing artesian wells, pump test specifications shall be prescribed by the Department on a case-by-case basis. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 537 
+ 
+ 
+ Statutes/Other Implemented:  ORS 537 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ WRD 7-2001, f. & cert. ef. 11-15-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WRD 18-1990, f. & cert. ef. 12-14-90 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

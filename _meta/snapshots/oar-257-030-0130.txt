@@ -1,0 +1,173 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of State Police 
+ Chapter 257 
+ 
+ 
+ 
+ 
+ 
+ Division 30 ALCOHOL BREATH TESTING 
+ 257-030-0130 
+ Approved Methods for Operating the Intoxilyzer 8000 
+ 
+ The following method of performing Chemical Analysis of a subject’s breath is approved for the Intoxilyzer 8000:  (1) Test Identification: A check list containing an outline of the approved procedures shall be used and completed by all operators of this instrument. Failure to record information specified in this section does not invalidate the test result obtained if the testing procedures were otherwise followed.  (2) Pre-Test Requirement:  (a) The operator is certain that the subject has not taken anything by mouth (drinking, smoking, eating, taking medication, etc.), vomited, or regurgitated liquid from the stomach into mouth, for at least fifteen minutes before taking the test;  (b) There is no requirement that the operator be the person who makes observation of the subject. The person performing the Pre-Test Requirement (observation period) need not possess a permit for the testing of alcoholic content of blood;  (c) The Pre-Test Requirement (observation period) does not require that the subject rinse the mouth or remove dentures prior to providing a breath sample;  (d) The use of a mouthpiece by the subject during the testing sequence does not constitute a violation of the Pre-Test Requirement.  (3) Test Procedure: The operator shall administer the test (consisting of two valid breath samples, provided within a single testing sequence and culminating in a printed report with a completed test result) as follows:  (a) Ensure that the instrument display indicates “Ready to Start”;  (b) Push “Start Test” button to initiate the test sequence;  (c) Once the operator initiates the testing sequence by pressing the “Start Test” button, the testing sequence shall be conducted without interruption until:  (A) The instrument completes the test sequence and the operator obtains a completed test report; or  (B) The operator depresses the “Start Test” button or the “R” key on the keyboard to indicate that the subject refused the test; or  (C) The operator or the instrument aborts the testing sequence.  (d) Using the instrument’s bar code scanner and/or keyboard, the operator shall enter sufficient information to:  (A) Identify the operator conducting the test; and  (B) Establish that the operator possesses a valid operator permit and PIN combination. The operator should also enter sufficient information to link the test report to the test subject. The instrument will start the testing sequence when the operator’s permit has been validated and the data entry process is complete;  (e) After instructing the subject on how to give a proper breath sample, have the subject provide a breath sample through the mouthpiece when “Please blow into mouthpiece to activate tone” appears on the display;  (f) Continued Observation Period: The operator shall continue to observe the subject and remain certain that the subject does not take anything by mouth (drink, smoke, eat, take medication(s), etc.), vomit, or regurgitate liquid from the stomach into mouth until the second breath sample request period is completed. The use of a mouthpiece by the subject during the testing sequence does not constitute a violation of the observation period.  (g) When “Please blow into mouthpiece to activate tone” again appears on the display, have the subject provide a second breath sample;  (h) Once the instrument accepts the second breath sample, it will automatically perform an analysis of a gaseous sample containing a known alcohol vapor concentration (“control sample”) to test the accuracy and proper working order of the instrument. The operator does not need to take any action with the instrument at this time other than to monitor the progression of the instrument through the remainder of the test sequence. If all parameters are met, the instrument will proceed to the next step;  (i) When the instrument has successfully completed the test sequence, the operator will be afforded an opportunity to enter into and review comments added to the test report. The test report will then be printed with the test result.  (k) If at any time the operator has questions concerning the breath testing procedures or sequence, the operator should consult the Intoxilyzer 8000 Operator’s Guide located near the instrument.  (4) Testing Sequence: The instrument will conduct the test as follows:  (a) Test Authorization: The operator shall enter into the instrument a permit and Personal Identification Number (PIN) information through the bar code scanner and/or keyboard for the purpose of: (1) identifying the operator conducting the test, and (2) establishing that the operator possesses a valid operator permit and PIN combination. Only operators who possess both a valid permit and PIN will be authorized to conduct a test sequence. If all parameters are met, the instrument will proceed to the next step;  (b) Data Entry: The operator should enter information into the instrument through the bar code scanner and/or keyboard for the purposes of linking a breath test document to the test subject. The instrument will proceed to the next step when the data entry process is complete;  (c) Air Blank: The instrument will draw in outside air to purge the unit of any alcohol or other material which may be present in the sample cell. It is also looking at the operational environment and analyzing for any possible contaminant which may be present in the room air. If all parameters are met, the instrument will proceed to the next step;  (d) Diagnostics: The instrument will perform a complete diagnostic check on its components and operational standards. If all the operational components and standards are within proper parameters, the instrument will proceed to the next step;  (e) Air Blank: The instrument will draw in outside air to purge the unit of any alcohol or other material which may be present in the sample cell. It is also looking at the operational environment and analyzing for any possible contaminant which may be present in the room air. If all parameters are met, the instrument will proceed to the next step;  (f) Breath Sample: At this time the instrument will display “Please blow into mouthpiece to activate tone.” The subject is instructed on how to give a proper breath sample. The subject has approximately three minutes to comply with this request. The breath sample collection phase has been completed and will proceed to the next step when:  (A) The instrument accepts the breath sample; or  (B) The operator depresses the “Start Test” button or the “R” key on the keyboard to indicate that the subject has refused the test; or  (C) The three minute request period lapses; or  (D) The operator or the instrument aborts the testing sequence.  (g) Air Blank: This air blank is to purge the instrument of the collected sample and once again check the operational environment for any possible contaminants. If all parameters are met, the instrument will proceed to the next step;  (h) Air Blank: In preparation for the next breath sample, the instrument will delay for approximately ninety (90) seconds and then will draw in outside air to purge the unit of any alcohol or other material which may be present in the sample cell. It is also looking at the operational environment and analyzing for any possible contaminant which may be present in the room air. If all parameters are met, the instrument will proceed to the next step;  (i) Breath Sample: At this time, the instrument will again display “Please blow into mouthpiece to activate tone.” The subject has approximately three minutes to comply with this request. The breath sample collection phase is complete and the instrument will proceed to the next step when:  (A) The instrument accepts the breath sample; or  (B) The operator depresses the “Start Test” button or the “R” key on the keyboard to indicate that the subject refused the test; or  (C) The three minute request period lapses; or  (D) The operator or the instrument aborts the testing sequence.  (j) Air Blank: The instrument will draw in outside air to purge the unit of any alcohol or other material which may be present in the sample cell. It is also looking at the operational environment and analyzing for any possible contaminant which may be present in the room air. If all parameters are met, the instrument will proceed to the next step;  (k) Control Sample: The instrument will perform an analysis of a gaseous sample containing a known alcohol vapor concentration, the result of which must be within a range of 0.010 high to 0.020 low of the expected value, to test the accuracy and proper working order of the instrument. If all parameters are met, the instrument will proceed to the next step;  (l) Air Blank: This air blank is to purge the instrument of the collected sample and once again check the operational environment for any possible contaminants. If all parameters are met, the instrument will proceed to the next step;  (m) Comments: The instrument will display three (3) prompts for the operator to enter any observations made during the test sequence. This information will be printed on the test report by the instrument. Entry of comment information is not required and does not preclude the operator from placing handwritten comments on the test report. The instrument will proceed to the next step when the comment entry process is complete.  (n) Test Report: The final phase of the testing sequence is the printing of the test report. If all parameters and every operational aspect of the instrument were proper, a completed test report is produced by the instrument. The test report will be titled “Breath Test Report” with the result of the chemical test printed in the “Test Result” box. If at any time there was a malfunction, event, or condition that would affect the validity of the test, or any section of the instrument was not in correct working order, the instrument would have aborted the test sequence and not produced a completed test report.  (5) Completed Test Report: A “Completed” test report is one which indicates a numeric test result, a refusal, or the presence of an interfering substance:  (a) A test report obtained using the “Reprint” option contains the identical information as would be printed on the original report and may be used in addition to or in place of the original test report. A “Reprint” may be performed either locally at the instrument location or remotely by the Oregon State Police;  (b) If during either of the breath sample collection periods, the subject refuses, through some willful act, to follow the instructions to provide an adequate breath sample, the operator may depress the “Start Test” button or the “R” key on the instrument keyboard to terminate the breath testing sequence. The instrument will indicate “Refused” on the display and a test result of “Refused” will be produced. A printed test report, as described in this subsection, is not required to document the operator’s decision to terminate the breath test request phase as refused.  (c) If the instrument detects the presence of acetone or other substances which could interfere with the instrument’s ability to accurately measure the amount of ethyl alcohol in the breath, it will display the message “Interfering Substance Detected” and abort the testing sequence. The printout on the test report will indicate “Interfering Substance” and “*Invalid Test — Interfering Substance Detected”. This is a completed test and the operator should not restart the testing sequence.  (6) Incomplete Test Report: The following conditions will result in an incomplete test report:  (a) If the subject did not provide a breath sample or blow with sufficient force to activate the minimum breath flow requirements of the instrument at any time within either of the three minute breath sample collection periods, the instrument will indicate “No Sample Given” and print “*Invalid Test — No Sample Given”. If the test report indicates “No Sample Given”, the operator should restart the testing sequence and proceed until a completed test report is obtained;  (b) If the operator receives an exception message and printout from the instrument, such as “*Invalid Sample — Residual Alcohol Present”, or “*Invalid Test —” (not to include “*Invalid Test — Interfering Substance Detected”), etc., the operator should consult the “Suggested Corrective Action” outlined near the bottom of the test report, take appropriate action, and restart the testing sequence. Nothing in this subsection precludes an operator from terminating the breath testing sequence as “Refused” if the subject refuses, through a willful act, to follow the instructions of the operator. A printed test report, as described in section (5)(b), is not required to document the operator’s decision to terminate the breath test sequence as “Refused”.  (7) Failure to record information specified in section (1) and subsection (4)(b) of this rule does not invalidate the test result obtained if the testing procedures were otherwise followed.  [Publications: Publications referenced are available from the agency.] 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 183.335 & 813.160 
+ 
+ 
+ Statutes/Other Implemented:  ORS 813.160 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSP 3-2006, f. & cert. ef. 11-22-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OSP 2-2006(Temp), f. 6-30-06, cert. ef. 7-5-06 thru 12-31-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

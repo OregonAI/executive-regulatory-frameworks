@@ -1,0 +1,296 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Secretary of State 
+ Archives Division - Chapter 166 
+ 
+ 
+ 
+ 
+ Division 17 ELECTRONIC RECORDS 
+ 166-017-0045 
+ Electronic Record as Official Copy of a Public Record
+ 
+ 
+ Electronic records (including digitized records) may serve as the official copy of a public record under the following conditions: 
+
+ (1) Public records with a scheduled retention period of less than 100 years may be maintained exclusively in electronic format provided that the standards and requirements specified in OAR chapter 166 Division 17 are met. 
+
+ (2) Public records with a scheduled retention period of 100 years or more and those whose retention period is reasonably expected to exceed 100 years (such as records related to physical infrastructure and other series where retention is tied to the life span of a person or structure/object) may be retained exclusively in electronic format provided that they are maintained in file formats listed in section (4) of this rule, and stored within systems which comply with the Secretary of State Archives Division’s “Electronic Recordkeeping System Requirements.” Additionally, such records must comply with all other standards and requirements specified in OAR chapter 166 Division 17. 
+
+ (3) If agencies are unable to meet the requirements in section (2) and section (4) of this rule they must additionally retain the records in hard copy or on microfilm for the entire scheduled retention period, and in compliance with OAR chapter 166. This includes born-digital records which meet the description in section (2) of this rule. 
+
+ (4) Born-digital records may be created and utilized in a wide variety of file formats, however records described in section (2) of this rule must be converted to and retained in one of the following file formats upon becoming inactive as determined by the agency, or after 10 years, whichever comes first: 
+
+ (a) Textual data 
+
+ (A) Extensible Markup Language (XML) 
+
+ (B) OpenDocument Text Format (ODT) 
+
+ (C) Plain Text (TXT) 
+
+ (D) Portable Document Format (PDF) and its variants 
+
+ (E) Rich Text Format (RTF) 
+
+ (b) Still images 
+
+ (A) JPEG File Interchange Format (JPEG or JFIF) 
+
+ (B) Portable Network Graphics (PNG) 
+
+ (C) Tagged Image File Format (TIFF) 
+
+ (c) Moving images 
+
+ (A) MPEG-2 Video (MP2) 
+
+ (B) MPEG-4 (MP4) 
+
+ (d) Audio recordings 
+
+ (A) MPEG Audio Layer III (MP3) 
+
+ (B) Waveform Audio File Format (WAVE) 
+
+ (e) Email messages 
+
+ (A) Extensible Markup Format (XML) 
+
+ (B) Internet Message Format (EML) 
+
+ (C) MBOX Email Format (MBOX) 
+
+ (D) Microsoft Outlook Item Message Format (MSG) 
+
+ (E) Portable Document Format (PDF) and its variants 
+
+ (f) Structured data 
+
+ (A) Comma Separated Value (CSV) 
+
+ (B) OpenDocument Format Spreadsheet (ODS) 
+
+ (C) Extensible Markup Language (XML) 
+
+ (g) Web and social media records 
+
+ (A) Portable Document Format (PDF) and its variants 
+
+ (B) JavaScript Object Notation (JSON) 
+
+ (C) Web ARChive Format (WARC) 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 192.005–192.170 & ORS 357.805–357.895 
+ 
+ 
+ Statutes/Other Implemented:  ORS 192.005–192.170 & ORS 357.805–357.895 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSA 2-2026, minor correction filed 01/06/2026, effective 01/06/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSA 1-2026, amend filed 01/06/2026, effective 01/06/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSA 6-2025, temporary amend filed 09/15/2025, effective 09/21/2025 through 03/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSA 1-2025, temporary amend filed 03/25/2025, effective 03/25/2025 through 09/20/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OSA 1-2016, f. & cert. ef. 5-5-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

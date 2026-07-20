@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Oregon Occupational Safety and Health Division - Chapter 437 
+ 
+ 
+ 
+ 
+ Division 4 AGRICULTURE 
+ 437-004-1275 
+ The Control of Hazardous Energy (Lockout/Tagout) 
+ 
+ (1) Scope. This standard covers work on machines, vehicles and equipment when the unexpected energizing or starting of them, or release of stored energy could injure employees.  (2) Application.  (a) This standard applies to the control of energy during servicing and/or maintenance of machines and equipment.  (b) It does not cover normal production operations. It covers servicing and/or maintenance that takes place during normal production operations only if:  (A) An employee must remove or bypass a guard or other safety device; or  (B) An employee must place any part of the body where they do work on the material being processed (point of operation) or where a danger zone exists.  (c) It does not cover routine, repetitive minor tool changes, adjustments and other minor servicing activities, done during normal operations, if they are necessary to the use of the equipment and if the workers use alternative methods that provide effective protection.  (d) This standard does not apply to work on electric powered equipment, when unplugging it would control the hazard and the employee doing the work controls the plug totally. It also does not apply to work on vehicles when the person doing the work has the ignition key under their exclusive control and there are no other sources of hazardous energy that could be released without the key.  (3) Program requirement. Employers must establish an energy control program and use its procedures for putting appropriate lockout or tagout devices on energy isolating devices. They must disable machines or equipment to prevent injury to employees.  (4) Definitions.  (a) Affected employee. One who operates a machine or equipment during service or maintenance under lockout or tagout. Also, those who work near where covered servicing or maintenance is done.  (b) Authorized person. One who locks out or tags out machines or equipment to service or maintain them. An affected employee becomes an authorized person when they do service or maintenance covered here.  (c) Energized. Connected to an energy source or containing residual or stored energy.  (d) Energy isolating device. A mechanical device that physically prevents the transmission or release of energy. Examples: A manual circuit breaker; a switch; a manual switch that disconnects the conductors of a circuit from all ungrounded supply conductors and where employees can operate no pole independently; a line valve; a block; and any similar device used to block or isolate energy. Push buttons, selector switches and other control circuit type devices are not energy isolating devices.  (e) Energy source. Any source of electrical, mechanical, hydraulic, pneumatic, chemical, thermal, gravity or other energy.  (f) Lockable. An energy isolating device with its own lock or with a hasp or other way to attach a lock. Other energy isolating devices are lockable if they can be locked without being dismantled, rebuilt or replaced or permanently altering their energy control capability.  (g) Lockout. The use of a lockout device on an energy isolating device, according to an established procedure to ensure that the controlled equipment is not operable until an authorized person removes the lockout device.  (h) Lockout device. Something that uses a positive means such as a lock, to hold an energy isolating device in a safe position. Included are blank flanges and bolted slip blinds.  (i) Normal operations. A machine or equipment doing its intended function.  (j) Servicing and/or maintenance. Constructing, installing, setting up, adjusting, inspecting, modifying, and maintaining and/or servicing machines or equipment. This includes removing jams, lubrication or cleaning of machines or equipment and making adjustments or tool changes, where the process may expose the employee to the unexpected energizing or starting of the equipment or release of hazardous energy.  (k) Setting up. Any work done to prepare a machine or equipment for operation.  (l) Tagout. The placement of a tagout device on an energy isolating device, according to an established procedure, warning employees not to operate the energy isolating device and the equipment being controlled until an authorized person removes the tagout device.  (m) Tagout device. A prominent warning device, such as a tag and a secure, sturdy means of attachment to an energy isolating device according an established procedure. The tag must warn employees not to operate the energy isolating device and the equipment being controlled until an authorized person removes the tagout device.  (5) General.  (a) Energy control program. Before doing any servicing or maintenance the employer must have a written energy control program with specific procedures, employee training and periodic reviews. It must ensure isolation of the equipment from the energy source and make it inoperative in a way to prevent injury.  (b) Lockout/tagout.  (A) If an energy isolating device is not lockable, the energy control program must use a tagout system that provides as much employee protection as is possible.  (B) If the energy isolating device is lockable, the energy control program must use lockout.  (C) Major repair, renovation or modification of a machine or equipment or installation of new machines or equipment requires new energy isolating device(s) to be lockable.  (c) Employee protection.  (A) When using a tagout device on a lockable energy isolating device, attach the tagout device where you would have put the lockout device.  (B) Full compliance with all parts of this standard related to tagout is necessary to assure the highest safety levels. Additional steps that help provide high employee protection include the removal of an isolating circuit element, blocking of a controlling switch, opening of an extra disconnecting device or the removal of a valve handle.  (d) Energy control procedure.  (A) Develop, document and use procedures for the control of potentially hazardous energy when employees are doing work covered by this section.  NOTE: Documenting the required procedure for a particular machine or equipment is not necessary when all of the following are true:  (1) The machine or equipment has no potential for stored or residual dangerous energy or accumulation of stored dangerous energy after shut down;  (2) The machine or equipment has an easily identified and isolated single energy source;  (3) The isolation and locking out of that energy source will eliminate all energy-related hazards;  (4) The machine or equipment is isolated from that energy source and locked out during servicing or maintenance;  (5) A single lockout device will achieve a locked-out condition;  (6) The lockout device is under the exclusive control of the authorized person doing the servicing or maintenance;  (7) The servicing or maintenance does not create hazards for other employees; and  (8) No accidents have happened that involve the unexpected activation or energizing of the machine or equipment during servicing or maintenance done under this exception.  (B) The procedures must specifically outline the scope, purpose, authorization, rules and methods that are mandatory for the control of hazardous energy. They must also include a way to enforce compliance including, but not limited to, the following:  (i) A specific statement of the intended use of the procedure;  (ii) Specific procedural steps for shutting down, isolating, blocking and securing machines or equipment to control hazardous energy;  (iii) Specific procedural steps for the placement, removal and transfer of lockout or tagout devices and the responsibility for them; and  (iv) Specific requirements for testing a machine or equipment to verify the effectiveness of lockout devices, tagout devices and other energy control measures.  (e) Protective materials and hardware.  (A) Each employee’s lock must have either a key or combination that is unique to that device.  (B) The employer must provide the necessary locks and/or hardware to do all required lockout/tagout functions.  (C) Individually identify each lockout and tagout device. They must be the only devices used for controlling energy. Do not use devices meant for the lockout program for other purposes. They must meet the following requirements:  (i) Durable.  (I) Lockout and tagout devices must withstand their environment.  (II) Make tagout devices so that exposure to weather conditions or wet and damp locations will not cause them to deteriorate or the message on them to become illegible.  (III) Tags must not deteriorate in corrosive environments such as where you handle or store acid and alkali chemicals.  (ii) Standardized. Use lockout and tagout devices whose appearance is uniform within the facility and easily recognized.  (iii) Substantial.  (I) Lockout devices. Lockout devices must be sturdy enough to prevent removal without the use of excessive force or unusual methods or tools.  (II) Tagout devices. Tagout devices and their means of attachment, must be sturdy enough to prevent inadvertent or accidental removal. The attachment means must be single use and self-locking.  (iv) Identifiable. Lockout and tagout devices must show the identity of the employee who applied them.  (D) On energized machines or equipment, tagout devices must warn against hazardous conditions and must include a phrase like: Do Not Start, Do Not Open, Do Not Close, Do Not Energize, Do Not Operate.  (f) Annual Review.  (A) Do a review of the energy control program at least annually to ensure that it meets the requirements of this standard and employees are following it.  (i) An authorized person must do the review.  (ii) Correct problems found during the review.  (iii) For a lockout program, the review must include a personal review, between the inspector and each authorized person, of that employee’s responsibilities under the program.  (iv) For a tagout program, the review must include a personal review, between the inspector and each authorized and affected employee, of that employee’s responsibilities under the program.  (B) Document these reviews in writing with the identity of the machine or equipment covered by the program, the date of the review, the employees included in the review, and the person doing it.  (g) Training and communication.  (A) Provide general training that includes the following:  (i) Train authorized persons in the recognition of sources of hazardous energy, the type and amount of energy found in their workplace and the methods of energy isolation and control.  (ii) Instruct affected employees in the purpose and use of the energy control program.  (iii) Instruct other employees who work or may work where there may be energy control procedures, about those procedures and about the prohibition against attempts to restart or energize locked out or tagged out machines or equipment.  (B) For tagout systems, provide the following additional training:  (i) Locks are physical restraints while tags are only warning devices that provide less protection than locks.  (ii) Do not remove a tag attached to an energy isolating means, without authorization of the authorized person responsible for it. Never bypass, ignore or otherwise defeat a tagout device.  (iii) Tags must be legible and understandable by all employees whose work operations are or may be in the area.  (iv) Tags may cause a false sense of security. Understanding their meaning must be part of the overall energy control program.  (v) Securely attach tags to energy isolating devices so that they cannot be inadvertently or accidentally detached.  (C) Employee retraining.  (i) Retrain employees when a change in their job assignment, a change in machines, equipment or processes present a new hazard or when the program changes.  (ii) Retrain employees when a review shows or the employer has reason to believe, that there are problems in the employees’ knowledge or use of the program.  (D) Document the employee training in writing with each employee’s name and date(s) of training.  (h) Energy isolation. Authorized persons doing the servicing or maintenance must do the lockout or tagout.  (i) Notification of employees. Notify affected employees of the application and removal of lockout or tagout devices before applying the controls and after removing them from the machine or equipment.  (6) Application of control. The established procedures for the application of energy control (the lockout or tagout program) must cover the following points in the following sequence:  (a) Preparation for shutdown. Before an authorized or affected employee turns off a machine or equipment, they must know the type and amount of the involved energy, the hazards of the energy and the method to control it.  (b) Machine or equipment shutdown. Turn off the machine or equipment using the procedures established for it. Do an orderly shutdown to avoid new or increased hazards because of the equipment stoppage.  (c) Machine or equipment isolation. All energy isolating devices must be physically placed and used in ways that isolate the machine or equipment from the energy source(s).  (d) Lockout or tagout device application.  (A) Only authorized persons are to connect lockout or tagout devices to each energy isolating device.  (B) Connect lockout devices in a way that will hold the energy isolating devices in a “safe” or “off” position.  (C) Connect tagout devices in a way that will positively prevent operation or movement of energy isolating devices from the “safe” or “off” position. Directly connect the tag to the energy isolating device, otherwise it must be as close to the device as safely possible and obvious to anyone attempting to operate the device.  (e) Stored energy.  (A) After the application of lockout or tagout devices, relieve or make safe all potentially hazardous stored or residual energy.  (B) If stored energy can again reach a hazardous level, continuously verify its isolation until the servicing or maintenance is done or until the possibility is gone.  (f) Verification of isolation. Before starting work on locked out or tagged out machines or equipment, the authorized person must verify that isolation and de-energizing of the machine or equipment has been done.  (7) Release from lockout or tagout. The authorized person(s) must follow procedures and take actions to guarantee the following before removing lockout or tagout devices and restoring energy to the machine or equipment:  (a) The machine or equipment. Remove non-essential items from the work area and confirm the return of the machine or equipment to pre-lockout or normal running condition.  (b) Employees.  (A) Check the work area to ensure that all employees are safe or removed from the area.  (B) Notify affected employees after removing the lockout or tagout devices but before starting the machine or equipment.  (c) Lockout or tagout devices removal. Only the employee who applies it can remove a lockout or tagout device. However, when that employee is not available, the employer may direct its removal if specific procedures and training for such removal are a part of the employer’s energy control program. The employer must show that the specific procedure is as safe as removal by the authorized person who applied it. The specific procedure must include at least the following:  (A) Verification by the employer that the authorized person who applied the device is not at the facility;  (B) Attempting to contact the authorized person to inform him or her about the removal of their lockout or tagout device; and  (C) Ensuring that the authorized person has this knowledge before he or she resumes work at that facility.  (8) Additional requirements.  (a) Testing or positioning of machines, equipment or components thereof. Follow this sequence of actions when it is necessary temporarily to remove lockout or tagout devices and energize the machine or equipment. This must only be done for testing or positioning the machine, equipment or component of it.  (A) Clear the machine or equipment of tools and materials;  (B) Remove employees from the machine or equipment area;  (C) Remove the lockout or tagout devices;  (D) Energize and go on with testing or positioning;  (E) Remove energy from all systems and reapply original energy control measures to continue the servicing and/or maintenance.  (b) Outside personnel (contractors, etc.).  (A) If outside servicing personnel are doing things covered by this standard, the on-site employer and the outside employer must coordinate their respective lockout or tagout procedures.  (B) The on-site employer must be certain that its employees understand and comply with the provisions of the outside employer’s energy control program.  (c) Group lockout or tagout.  (A) When a crew, craft, department or other group does service or maintenance, they must use a procedure that gives employees a level of protection equal to that provided by using a personal lockout or tagout device.  (B) Use group lockout or tagout devices according to OAR 437-004-1275(4)(d) including, but not limited to, these requirements:  (i) Primary responsibility is with an authorized person for a set number of employees working under the protection of a group lockout or tagout device (such as an operations lock);  (ii) The authorized person must know the exposure status of individual group members with regard to the lockout or tagout of the machine or equipment and  (iii) When work involves more than one crew, craft, department, etc., assignment of overall job-associated lockout or tagout control responsibility to an authorized person designated to coordinate affected work forces and ensure continuity of protection; and  (iv) Each authorized person must put a personal lockout or tagout device on the group lockout device, group lockbox, or comparable mechanism when they begin work, and must remove those devices when they stop working on the machine or equipment.  (d) Shift or personnel changes. Have specific procedures for shift or personnel changes to ensure the continuity of lockout or tagout protection. These must include the orderly transfer of lockout or tagout device protection between leaving and arriving employees. The procedure must minimize exposure to hazards related to the ongoing process.  NOTE: The following Appendix is a non-mandatory guideline to help employers and employees comply with the requirements.  [ED. NOTE: Appendices referenced are available from the agency.] 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 654.025(2) & 656.726(3) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 654.001 - 654.295 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSHA 4-1998, f. 8-28-98, cert. ef. 10-1-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

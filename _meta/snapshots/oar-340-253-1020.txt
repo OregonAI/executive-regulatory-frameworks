@@ -1,0 +1,351 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 253 OREGON CLEAN FUELS PROGRAM 
+ 340-253-1020 
+ Calculating Credits and Deficits
+ 
+ 
+ (1) Except as provided in sections (2) and (3), credit and deficit generation must be calculated for all fuels included in OAR 340-253-1010: 
+
+ (a) Using credit and deficit basics as directed in OAR 340-253-1000; 
+
+ (b) Calculating energy in megajoules by multiplying the amount of fuel by the energy density of the fuel in Table 6 under OAR 340-253-8010; 
+
+ (c) Calculating the adjusted energy in megajoules by multiplying the energy in megajoules from section (2) by the energy economy ratio of the fuel listed in Table 7 under OAR 340-253-8010 or as approved by DEQ under OAR 340-253-0460, as applicable; 
+
+ (d) Calculating the carbon intensity difference by subtracting the fuel’s carbon intensity as approved under OAR 340-253-0400 through -0470, adjusted for the fuel application’s energy economy ratio as listed in Table 7 under OAR 340-253-8010 or as approved under OAR 340-253-0460 as applicable, from the clean fuel standard for gasoline or gasoline substitutes listed in Table 1 under OAR 340-253-8010 or diesel fuel and diesel substitutes listed in Table 2 under OAR 340-253-8010, or alternative jet fuel listed in table 3 under OAR 340-253-8010, as applicable; 
+
+ (e) Calculating the grams of carbon dioxide equivalent by multiplying the adjusted energy in megajoules in section (3) by the carbon intensity difference in section (4); 
+
+ (f) Calculating the metric tons of carbon dioxide equivalent by dividing the grams of carbon dioxide equivalent calculated in section (5) by 1,000,000; and 
+
+ (g) Determining under OAR 340-253-1000(5) whether credits or deficits are generated. 
+
+ (2) Calculating credits for electricity used to power fixed guideway vehicles on track placed in service prior to 2012 and forklifts from model year 2015 and earlier. Credit generation must be calculated by: 
+
+ (a) Using credit and deficit basics as directed in OAR 340-253-1000; 
+
+ (b) Calculating energy in megajoules by multiplying the amount of fuel by the energy density of the fuel in Table 6 under OAR 340-253-8010; 
+
+ (c) Calculating the carbon intensity difference by subtracting the fuel’s carbon intensity as approved under OAR 340-253-0400 through -0470, adjusted for the fuel application’s energy economy ratio listed in Table 7 under OAR 340-253-8010 as applicable, from the clean fuel standard for gasoline or gasoline substitutes listed in Table 1 under OAR 340-253-8010 or diesel fuel and diesel substitutes listed in Table 2 under OAR 340-253-8010, as applicable; 
+
+ (d) Calculating the grams of carbon dioxide equivalent by multiplying the adjusted energy in megajoules in section (3) by the carbon intensity difference in section (4); 
+
+ (e) Calculating the metric tons of carbon dioxide equivalent by dividing the grams of carbon dioxide equivalent calculated in section (5) by 1,000,000; and 
+
+ (f) Determining under OAR 340-253-1000(5) whether credits or deficits are generated. 
+
+ (3) Calculating credits for electricity used in residential charging of electric vehicles. credit calculations must be based on the total electricity dispensed (in kilowatt hours) to vehicles, measured by: 
+
+ (a) The use of direct metering (either sub-metering or separate metering) to measure the electricity directly dispensed to all vehicles at each residence; or 
+
+ (b) For residences where direct metering has not been installed, DEQ will calculate the total electricity dispensed as a transportation fuel based on analysis of the total number of BEVs and PHEVs in a utility’s service territory based on Oregon Department of Motor Vehicles records. DEQ will perform this analysis at least twice a year and issue credits based on it. DEQ will select one of the following methods for estimating the amount of electricity charged based on its analysis of which is more accurate and feasible at the time it is performing the analysis: 
+
+ (A) An average amount of electricity consumed by BEVs and PHEVs at residential chargers, based on regional or national data; or 
+
+ (B) An analysis of the average electric vehicles miles traveled by vehicle type or make and model, which compares the total amount of estimated charging for those electric vehicle miles travelled with the total reported charging in those territories in order to determine the amount of unreported charging that can be attributed to residential charging. The analysis may be done on a utility territory specific or statewide basis. 
+
+ (c) If DEQ determines after the issuance of residential electric vehicle credits that the estimate under (b) contained a significant error that led to one or more credits being incorrectly generated, the error will be corrected by withholding an equal number of credits to the erroneous amount from the next generation of residential electric vehicle credits. 
+
+ (d) A credit generator or aggregator may propose an alternative method, subject to the approval of DEQ upon its determination that the alternative method is more accurate than either of the methods described in subsection (b). 
+
+ (e) Credits generated under this subsection will be calculated by DEQ under section 1 of this rule using the estimated amount of electricity under subsection (3)(b) and issued at least twice per year into the OFRS account of the utility or the backstop aggregator within three months of the close of that year. 
+
+ (4) Calculating Incremental Credits. In calculating incremental credits for actions that lower the carbon intensity of electricity, the credit calculations must be performed based on section (1) of this rule, except that the carbon intensity difference is calculated based on the carbon intensity of the renewable power and the carbon intensity used to calculate the base credits for that electric vehicle or charging equipment, and consistent with following requirements, as applicable: 
+
+ (a) Incremental credits for non-residential charging are generated upon the retirement of RECs that qualify under OAR 340-253-0470(5) by the credit generator, its aggregator, or the incremental aggregator, or by another entity on their behalf. For credit generators and their aggregators, RECs must be retired prior to or at the same time as the submittal as the quarterly report where the charging is being reported and REC retirement records must be submitted with the quarterly report as supplemental documentation. RECs may be retired by another entity on behalf of the credit generator or aggregator for their electric vehicle charging so long as it is clearly documented, and that documentation is submitted with the quarterly report. 
+
+ (b) For incremental credits generated using a Utility Renewable Electricity Product or Power Purchase Agreement, evidence that the chargers were covered by such a product must be submitted at least annually along with a quarterly report. Upon request by DEQ, any entity using a Power Purchase Agreement or a Utility Renewable Electricity Product must produce evidence that the charging equipment was covered by that agreement or product for all time periods when the entity was claiming incremental credits. 
+
+ (c) For the incremental aggregator, incremental credits are generated when it retires RECs on behalf of non-residential electric vehicle charging. 
+
+ (d) Incremental credits for residential charging are generated by a utility or its aggregator when RECs are retired on behalf of that charging, or when a utility demonstrates to DEQ that EVs are being charged by customers enrolled in its Utility Renewable Electricity Products. 
+
+ (5) Additional credits. 
+
+ (a) Except as provided in subsection (b), starting in 2023, fuel pathway holders that are registered parties may request additional credits from the prior year if their fuel facility has: 
+
+ (A) Completed verification under OAR 340-253-0700 and OAR chapter 340, division 272; and 
+
+ (B) The verified operational carbon intensity value for a given fuel pathway is more than 1gCO2e/MJ lower than the certified carbon intensity value for that year. 
+
+ (b) Subsection (a) does not apply to lookup table, temporary, or provisional carbon intensities. 
+
+ (c) DEQ will determine the number of additional credits to award in response to a request under subsection (a) by: 
+
+ (A) Calculating the difference between the certified and verified operational carbon intensities; 
+
+ (B) Multiplying the difference calculated under paragraph (A) by the total obligated volume for the year; and 
+
+ (C) DEQ may adjust the obligated volume for a given year for this calculation if it is aware that a volume of the fuel under a given fuel pathway code was imported or produced in the fourth quarter of a year and exported or otherwise removed from the obligated fuel pool in the first quarter of the following year. 
+
+ (d) DEQ will deposit the additional credits determined under subsection (c) into the fuel pathway holder’s account. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, 468A.266, 468A.268 & 468A.277 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468.020 & ORS 468A.265 through 468A.277 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 18-2024, amend filed 11/22/2024, effective 11/22/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 17-2022, amend filed 09/23/2022, effective 01/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 7-2021, amend filed 03/26/2021, effective 03/26/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 14-2020, amend filed 05/07/2020, effective 05/07/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 199-2018, amend filed 11/16/2018, effective 01/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 27-2017, amend filed 11/17/2017, effective 11/17/2017 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 13-2015, f. 12-10-15, cert. ef. 1-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 3-2015, f. 1-8-15, cert. ef. 2-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 8-2012, f. & cert. ef. 12-11-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

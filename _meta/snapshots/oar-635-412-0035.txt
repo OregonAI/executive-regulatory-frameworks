@@ -1,0 +1,650 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Fish and Wildlife 
+ Chapter 635 
+ 
+ 
+ 
+ 
+ 
+ Division 412 FISH PASSAGE 
+ 635-412-0035 
+ Fish Passage Criteria
+ 
+ 
+ (1) General requirements for fish passage are: 
+
+ (a) Unless the owner or operator of an artificial obstruction chooses to provide year-round fish passage for all native migratory fish and life history stages, the Department shall determine: 
+
+ (A) The native migratory fish that are currently or were historically present at the site that must be provided fish passage; 
+
+ (B) The life history stages the required fish passage must accommodate; and 
+
+ (C) The periods of the year and any conditions relevant to when fish passage shall be provided for such life history stages and native migratory fish . 
+
+ (b) The person submitting the fish passage plan to the Department for approval shall submit all information necessary for the Department to efficiently evaluate whether the design will meet fish passage criteria including a description of how climate change impacts have been incorporated into the final design; 
+
+ (c) If site-specific circumstances indicate that the fish passage criteria are not adequate to provide fish passage at the artificial obstruction, the Department may require in writing that additional fish passage criteria be met; 
+
+ (d) If the Department determines that the existing or historically present native migratory species or site-specific circumstances warrant an exception to any specific fish passage criterion then the Department may approve such an exception in writing as long as it finds that fish passage will likely still be provided at the artificial obstruction ; 
+
+ (e) All fish passage structures shall be designed considering their upstream and downstream connection and prevent undesirable impacts to fish passage, including but not limited to scour and headcuts; 
+
+ (f) If federal approval of a fish passage plan is required , the Department shall take into account federal requirements during its review and determination; 
+
+ (g) The Department may require monitoring and reporting to determine if a fish passage structure meets applicable criteria and is providing fish passage as intended and designed ; and 
+
+ (h) The owner or operator of an artificial obstruction shall maintain the fish passage structure in such repair and operation as to provide fish passage of native migratory fish at all times required by the Department. 
+
+ (2) Requirements for fish passage at dams and other artificial obstructions which create a discontinuity between upstream and downstream water surface or streambed elevations are: 
+
+ (a) Fishways shall provide fish passage at all flows within the design streamflow range and should be analyzed using estimates for the projected life expectancy of the structure; 
+
+ (b) The fishway entrance shall be located and adequate attraction flow shall be provided at one or more points where fish can easily locate and enter the fishway; 
+
+ (c) Fishway water velocities shall: 
+
+ (A) Range between 1 and 2 feet per second in transport channels; 
+
+ (B) Average no greater than 5 feet per second in baffled-chute fishways, including but not limited to Alaska steeppasses and denils; and 
+
+ (C) Not exceed 8 feet per second in discrete fishway transitions between the fishway entrance, pools, and exit through which fish must swim to move upstream, including but not limited to slots, orifices, or weir crests. 
+
+ (d) At any point entering, within, or exiting the fishway where fish are required to jump to move upstream, the maximum difference between the upstream and downstream water surface elevations shall be 6 inches, except it shall be 12 inches if only adult salmon or steelhead require fish passage; 
+
+ (e) In fishway locations through which fish must swim, water depths shall be a minimum of 6 inches where only juveniles require passage and 12 inches where adults require passage, except: 
+
+ (A) Baffled-chute fishways, including but not limited to Alaska steeppasses and denils, shall have a minimum flow depth of 2 feet throughout the length of the fishway; and 
+
+ (B) Water depths shall be a minimum of 2 feet within jump pools which shall be located downstream of any point entering, within, or exiting the fishway where fish are required to jump to move upstream. 
+
+ (f) All fishway locations through which fish must swim shall be at least 12 inches wide , except vertical slot weir width may be 6 inches where the Department has determined the artificial obstruction is required to provide fish passage only for juvenile native migratory fish ; 
+
+ (g) Fishway pools shall: 
+
+ (A) Be sized according to the applicable native migratory fish and life history stages and to avoid over-crowding; 
+
+ (B) Have V ≥ wQH/4 at all flows within the design streamflow range, where: 
+
+ (i) "V" is the water volume in cubic feet; 
+
+ (ii) "w" is 62.4, the unit weight of water, in pounds per cubic foot; 
+
+ (iii) "Q" is the fish ladder flow in cubic feet per second; 
+
+ (iv) "H" is the energy head of pool-to-pool flow in feet; and 
+
+ (v) 4 has a unit of foot-pounds per second per cubic foot. 
+
+ (C) Where the fishway changes direction 90 degrees or more, have turning pools with a flowpath centerline double the length of non-turning pools; and 
+
+ (D) Be placed at least every 25 feet of horizontal distance in baffled-chute fishways, including but not limited to Alaska steeppasses and denils; 
+
+ (h) The fishway exit should be located to minimize the risk of fish unintentionally falling downstream of the artificial obstruction , or into a water diversion ; 
+
+ (i) Fishway trash racks shall: 
+
+ (A) Allow for easy maintenance and debris removal; 
+
+ (B) Be maintained and cleaned as necessary to provide fish passage; 
+
+ (C) Have a minimum clear space between vertical members of 10 inches, except at least 4 inches shall be provided if only juveniles are present; and 
+
+ (D) Have a minimum clear space between horizontal members of 24 inches; 
+
+ (j) The fishway shall: 
+
+ (A) Have water temperatures which are within 1 degree Fahrenheit of the water entering the fishway; 
+
+ (B) Be designed to assure that fish do not leap out of the fishway; 
+
+ (C) Have all surfaces, edges and fasteners which fish may contact ground smooth or chamfered; 
+
+ (D) Not have protrusions that extend into the flow path of the fishway; 
+
+ (E) Not expose fish to any moving parts; 
+
+ (F) Be designed to avoid turbulence and hydraulic transition flow conditions as much as possible; 
+
+ (G) Have as much ambient lighting as possible and avoid lighting transitions; 
+
+ (H) Have fishway components which are not detailed in OAR 635-412-0035(2), including but not limited to auxiliary water systems, designed considering the most recent National Marine Fisheries Service or U.S. Fish and Wildlife Service fish passage criteria and guidelines; 
+
+ (I) Meet the species-specific requirements in OAR 635-412-0035(7) if any of those native migratory fish require fish passage; 
+
+ (k) Requirements for specific types of fishways include: 
+
+ (A) Baffled-chute fishways, including but not limited to Alaska steeppasses and denils, shall not be used in areas where downstream passage will occur through the baffled-chute fishway; and 
+
+ (B) All fishways of a specific type with accepted configurations shall comply with those configurations. 
+
+ (l) Requirements for fishways which encompass the entire channel include: 
+
+ (A) Roughened channels or nature-like fishway designs shall: 
+
+ (i) Meet the requirements of OAR 635-412-0035(3)(a)(A) (ii), (iv), (v)(II through VII), or OAR 635-412-0035(3)(b) ; 
+
+ (ii) Not have a slope that exceeds 6 percent, unless the average natural stream slope exceeds 6 percent; and 
+
+ (iii) Contain partially buried over-sized boulder or boulder clusters to provide structural integrity and localized areas of lower water velocity. 
+
+ (B) Stream channel-spanning weirs shall: 
+
+ (i) Rise toward each bank from a low flow section centered along the thalweg of the channel; 
+
+ (ii) Have a downstream jump pool with a minimum depth of 2 feet; 
+
+ (iii) Have a maximum difference in elevation of 6 inches between the lowest point on the weir and the downstream pool's water surface control point; 
+
+ (iv) Be sealed if fish passage during low flows is required; 
+
+ (v) Be spaced at least 1.5 active channel widths apart if there are multiple weirs and recommend consideration of wider spacing when appropriate; and 
+
+ (vi) Extend into the streambank a sufficient distance to protect against flanking; 
+
+ (C) All fishway entrances or flow outlets shall be designed to provide passage or be designed to only be used during a period(s) defined by the Department. 
+
+ (D) Fish passage plans for hybrid fishways that may combine features of several established fishway types shall have criteria established by the Department on a case-by-case basis and shall clearly demonstrate how water depths, water velocities, water surface jump height differentials or energy dissipation provides hydraulic conditions that achieves fish passage; 
+
+ (m) For downstream fish passage: 
+
+ (A) Fish passage structures shall have an open water surface, except a submerged or enclosed conduit or orifice may be used if: 
+
+ (i) Acceptable guidance or collection mechanisms are used and kept free from debris; 
+
+ (ii) Water depth is greater than 4 inches during all flows; 
+
+ (iii) Water velocity is greater than 2 feet per second during all flows; 
+
+ (iv) Water is not pumped; 
+
+ (v) Conduits have smooth surfaces and avoid rapid changes in direction to preclude fish impact and injury; and 
+
+ (vi) Conduits are at least 10 inches wide. 
+
+ (B) Plunging flow moving past an artificial obstruction via spillways, outlet pipes, or some other means which may contain fish shall: 
+
+ (i) At all flows, fall into a receiving pool of sufficient depth, depending on impact velocity and quantity of flow, to ensure that fish shall not impact the stream bottom or other solid features; and 
+
+ (ii) Have a maximum impact velocity into a receiving pool, including vertical and horizontal velocity components, less than 25 feet per second; and 
+
+ (C) Water depth over spillways or other artificial obstructions shall be greater than 4 inches during all flows. 
+
+ (D) Fish screening and bypass devices installed to protect downstream migrating fish should be constructed to Department specifications and must meet Department criteria when installation is required. 
+
+ (3) Requirements for fish passage at road-stream crossing structures such as bridges and culverts are: 
+
+ (a) Stream Simulation Option (preferred design alternative) where : 
+
+ (A) Open-bottomed and closed-bottom road-stream crossing structures shall have beds under or within the structure that: 
+
+ (i) Are equal to or greater than the active channel width multiplied by 1.2 plus 2 feet, as measured at sufficient locations outside the influence of any artificial or unique channel constrictions or tributaries both upstream and downstream of the site; 
+
+ (ii) Are equal to the slope of, and at elevations continuous with, the surrounding long-channel streambed profile, unless the Department approves maintaining a pre-existing road-impounded wetland; 
+
+ (iii) Have, for open-bottomed road-stream crossing structures, a minimum of 3 feet vertical clearance from the active channel width elevation to the inside top of the structure; 
+
+ (iv) Maintain average water depth and velocities that simulate those in the surrounding stream channel; and 
+
+ (v) Are composed of material that: 
+
+ (I) Assures the bed under or within the road-stream crossing structure is maintained through time; 
+
+ (II) Is either natural (similar size and composition as the surrounding stream) or supplemented to address site-specific needs including, but not limited to, bed retention and hydraulic shadow; 
+
+ (III) Contains partially-buried, over-sized rock; 
+
+ (IV) Is mechanically placed during structure installation rather than allowed to naturally accumulate, unless the surrounding streambed is primarily bedrock; 
+
+ (V) Excluding partially-buried over-sized rock, is, for closed-bottom road-stream crossing structures, at a minimum depth of 20 percent of the structure height; 
+
+ (VI) Considers bed scour and stability of the bed material due to the confined flow through the crossing structure. Major structural components within the crossing should be designed for structural stability at the 100 year flood flow; and 
+
+ (VII) Contains a low flow thalweg. 
+
+ (B) Trash racks shall: 
+
+ (i) Allow for easy maintenance and debris removal; 
+
+ (ii) Be maintained, monitored, and cleaned as necessary to provide fish passage; 
+
+ (iii) Not extend below the active channel width elevation; 
+
+ (iv) Have a minimum of 10 inches clear spacing between vertical members; and 
+
+ (v) Have a minimum clear space between horizontal members of 12 inches. 
+
+ (C) Beaver exclusion culvert protection devices shall: 
+
+ (i) Allow for easy maintenance and debris removal; 
+
+ (ii) Be maintained, monitored, and cleaned as necessary to provide fish passage; 
+
+ (iii) Have a minimum clear space between vertical and horizontal members of 6 inches when only resident trout, Entosphenus and Lampetra species (lamprey) species are present; 
+
+ (iv) Be approved on a case by case basis in areas with salmon, steelhead, bull trout, or other large bodied species. 
+
+ (D) Unvented and vented ford crossings shall meet the requirements of OAR 635-412-0035(2) and 635-412-0035(3)(b); and 
+
+ (i) Be located outside of all known or suspected fish spawning areas such as pool tail-outs; 
+
+ (ii) Be constructed perpendicular to the stream flow; 
+
+ (iii) Minimize the width (perpendicular to streamflow); 
+
+ (iv) Maintain similar water depths and flow velocities as surrounding stream during the design stream flows; and 
+
+ (v) Have a low flow channel constructed within the crossing. 
+
+ (E) Unvented ford crossings shall meet design criteria in OAR 635-412-0035(3)(a) and be constructed using materials approved by the Department that shall: 
+
+ (i) Not be comprised of broken concrete, pavement or other debris; 
+
+ (ii) Be comprised of clean washed gravel and rock; 
+
+ (iii) Be countersunk and vertically align with the existing stream channel profile and gradient; 
+
+ (iv) Be designed to allow natural bedload transportation; 
+
+ (v) Be designed to withstand overtopping flood events; 
+
+ (vi) Be used during periods of no or low stream flow; and 
+
+ (vii) Be regularly inspected and maintained to provide fish passage. 
+
+ (F) The Department may authorize construction of new fords in limited situations when it is the least impacting water crossing option. The following are examples of situations where the Department may authorize an unvented ford: 
+
+ (i) The stream has extreme seasonal flow variations and low flows during anticipated ford use; 
+
+ (ii) The channel has low bank height and low gradient approaches; 
+
+ (iii) The stream has dynamic flood plains, such as alluvial fans; or 
+
+ (iv) The stream is subject to mass wasting events, debris transport, or extreme peak flows. 
+
+ (b) Alternative Option: the Department may approve road-stream crossing structures for which clear justification, based on fish performance, fish behavior data, and proposed post treatment hydraulic conditions (e.g., water depths, water velocities, and gate time open) is provided that demonstrates that the alternative design provides fish passage. 
+
+ (4) Requirements for fish passage at artificial obstructions in estuaries, and above which a stream is present, are: 
+
+ (a) Fish passage shall be provided at all current and historic channels; 
+
+ (b) Fish passage structures shall meet the criteria of OAR 635-412-0035(2) or (3), except fish passage structures shall be sized according to the cumulative flows or active channel widths, respectively, of all streams entering the estuary above the artificial obstruction; and 
+
+ (c) Tide gates and associated fish passage structures shall: 
+
+ (A) Be a minimum of 4 feet wide unless the natural channel conditions are less than 4 feet wide; 
+
+ (B) Consist of an aluminum tide gate door or other equivalent light weight material; 
+
+ (C) Be a side hinged door configuration; 
+
+ (D) Meet the requirements of OAR 635-412-0035(2) or 635-412-0035(3)(b) within the design streamflow range and for an average of at least 51 percent of tidal cycles, excluding periods when the channel is not passable under natural conditions; 
+
+ (i) Design streamflow range shall include tidal exchange, freshwater stream discharge and water storage volumes draining to the tide gate: 
+
+ (ii) Design streamflow range should consider sub-surface flows if appropriate at the project location; 
+
+ (E) Design invert elevation of tide gate and associated structure to be placed at 1 foot below Mean Lower Low Water elevation or as otherwise appropriate for the site to prevent perched low flow fish passage conditions and allow proper tide gate function; 
+
+ (F) Consider the use of pet doors, mitigators, self-managed and self-regulating tide gate devices to maximize fish passage, time of tide gate door openness, water exchange, and tidal inundation if the tide gate is associated with high priority restoration habitat; and 
+
+ (G) Submit a water management plan for projects implementing self-managed or self-regulating devices. 
+
+ 
+ NOTE: Alternative self-regulating design features that meet the design criteria of this section will be considered for fish passage. 
+ 
+
+ (5) Requirements for fish passage at artificial obstructions in estuaries, floodplains, and wetlands, and above which no stream is present, are: 
+
+ (a) Downstream Fish Passage shall be provided: 
+
+ (A) After any inflow which contains native migratory fish; 
+
+ (B) Until water has drained from the estuary, floodplain, or wetland, or through the period determined by the Department that shall be based on one, or more of, the following: 
+
+ (i) A specific date; 
+
+ (ii) Water temperature, as measured at a location or locations determined by the Department; 
+
+ (iii) Ground surface elevation; 
+
+ (iv) Water surface elevation; or 
+
+ (v) Some other reasonable measure; and 
+
+ (C) Egress delays may be approved by the Department based on expected inflow frequency and suitable habitat exists and as long as passage is provided by the time the conditions in OAR 635-412-0035(5)(a)(B) occur; 
+
+ (D) A minimum egress flow of 0.25 cubic feet per second (cfs) at one point of egress shall be provided; 
+
+ (E) Egress flow of 0.5 cfs per 10 surface acres, for at least the first 100 surface acres of impounded water, shall be provided; 
+
+ (F) All plunging egress flows shall meet the requirements of OAR 635-412-0035(2)(l)(B); 
+
+ (G) If egress flow is provided by a pump, it shall be appropriately screened; 
+
+ (H) The water depth and width through or across the point of egress shall be at least 4 inches; 
+
+ (I) The ground surface above the artificial obstruction shall be sloped toward the point(s) of egress to eliminate isolated pools and topographic conditions that may entrain native migratory fish ; and 
+
+ (J) An uninterrupted, open connection with a minimum water depth of 4 inches shall be present from the point of egress to the downstream waters of this state, unless another connection is provided as per OAR 635-412-0035(2)(l)(A). 
+
+ (b) Upstream Fish Passage shall be provided: 
+
+ (A) If the Department determines there is current or historic native migratory fish spawning or rearing habitat within the estuary, floodplain, or wetland area impounded by the artificial obstruction; and 
+
+ (B) During the period determined by the Department. 
+
+ (6) Requirements for fish passage by trap collection and transport include: 
+
+ (a) A permit issued by the Department is required to take fish when operating traps; 
+
+ (b) Traps shall be constructed and operated to prevent physical or physiological injury to native migratory fish; 
+
+ (c) Traps shall meet all requirements of OAR 635-412-0035(2)(g); 
+
+ (d) Traps located within a fishway (i.e., "in-ladder" traps) shall not inhibit native migratory fish from entering the fishway or trap and shall be removed if the Department determines that fish are not entering the trap; 
+
+ (e) Traps should be constructed and operated so native migratory fish proceed through traps with minimal delay and are removed from traps as frequently as necessary to avoid over-crowding; 
+
+ (f) All native migratory fish, excluding those which have approved take authorization from the Department and that do not require fish passage as per OAR 635-412-0035(1)(a), shall be returned to the stream by one of the following methods: 
+
+ (A) Movement from the trap to immediately-adjacent water which has fish passage; or 
+
+ (B) Transport within a watered container, including but not limited to lifts, hoppers, locks, and trucks, from the trap to a location approved by the Department; and 
+
+ (g) Traps shall be utilized where the feasibility of other fish passage structures or other site-specific considerations warrant use of trap collection and transport, or otherwise, the Department determines, using its professional judgment, trap collection and transport will result in an effective means of ensuring access to habitat above or below the artificial obstruction by native migratory species. 
+
+ (7) Additional requirements for specific native migratory fish are: 
+
+ (a) Acipenser species (sturgeon): 
+
+ (A) The fish passage structure shall not require fish to jump when entering, within, or exiting the structure; 
+
+ (B) The fish passage structure, including trash racks, shall be sized to accommodate the largest individual expected to require fish passage; 
+
+ (C) Non-volitional transport within a watered container may only be allowed with Department approval; and 
+
+ (D) Turning pools within the fish passage structure must be designed to allow for fish passage of a native migratory species at least 2 body lengths of the largest individual native migratory species currently or historically in the waters affected by the artificial obstruction. 
+
+ (b) Catostomus , Chasmistes , and Deltistes species (suckers): 
+
+ (A) The fish passage structure shall not require fish to jump when entering, within, or exiting the structure; 
+
+ (B) Fishways shall: 
+
+ (i) Have a maximum water velocity of 4 feet per second; 
+
+ (ii) Have a minimum water depth of 12 inches; 
+
+ (iii) Maximize downstream flow between pools to avoid back eddies; 
+
+ (iv) Have curved walls within turning pools; and 
+
+ (v) Have a slope less than 4 percent. 
+
+ (c) Entosphenus and Lampetra species (lamprey): 
+
+ (A) Fishways and associated structures (e.g., dams and spillways) shall have 4 to 6 inch smooth rounded radii edge surfaces (floors, aprons, walls, and weir crests) over which Entosphenus and Lampetra species may pass; 
+
+ (B) Fishways shall not have water surface to water surface jumps or overhanging surfaces unless fishway surfaces have a 4 to 6 inch smooth rounded radii (floors, walls and weir crests) over which Entosphenus and Lampetra species may pass; 
+
+ (C) Fishways shall, in locations with water velocities greater than 2 feet per second, have a passage route that: 
+
+ (i) Has a smooth, continuous, impermeable, uninterrupted surface or a simulated streambed; 
+
+ (ii) Has water velocities over the structure's surface less than 8 feet per second; and 
+
+ (iii) Is wetted; 
+
+ (D) Denil fishways shall not be used unless an alternative passage route is provided; 
+
+ (E) Traps, picketed leads, picket weirs, auxiliary water supply grating or any other fishway grating shall have a spacing of less than 0.7 inches to preclude lamprey passage, or greater than 1.0 inch to allow lamprey to pass through; 
+
+ (F) Fishway wall diffusers for auxiliary water supply shall be located at least 6 inches above finish floor of fishway pool; 
+
+ (G) Auxiliary water floor diffusers shall be avoided if possible, but if necessary shall be located to provide at least 12 inches width of continuous smooth floor passage route along fishway floor; 
+
+ (H) Fishway designs shall consider orifice flow if Entosphenus or Lampetra species are present. 
+
+ (I) Orifices shall be positioned flush with the fishway floor and flush along one fishway wall; and 
+
+ (J) Lamprey Passage Structures (Lamprey Ramps) shall be considered when retrofitting existing artificial obstructions to improve conditions for upstream migration of Entosphenus and Lampetra species. 
+
+ (d) Oncorhynchus species (trout and salmon): fish passage structures for Oncorhynchus keta (chum) shall not require fish to jump when entering, within, or exiting the structure. 
+
+ (e) Ptychocheilus species (pikeminnow): fish passage structures shall meet the requirements of OAR 635-412-0035(7)(a). 
+
+ (f) If more than one native migratory fish species requires passage at a site and the requirements for the different species are mutually exclusive, the Department shall determine the required passage criteria. 
+
+ (8) Requirements for artificial obstruction removal are: 
+
+ (a) Artificial obstruction removals shall follow the requirements of OAR 635-412-0035(10); 
+
+ (b) If not completely removed, no parts of the remaining artificial obstruction shall: 
+
+ (A) Constrict the stream channel; or 
+
+ (B) Cause low flow depths less than the surrounding stream channel. 
+
+ (c) After an artificial obstruction is removed the stream channel shall be restored; and 
+
+ (d) The stream channel restoration shall address impacts to stream habitat caused by the artificial obstruction while in place and by its removal, including but not limited to upstream and downstream channel degradation, and provisions shall be made to address unexpected fish passage issues resulting from removal. 
+
+ (9) Requirements for exclusion barriers are: 
+
+ (a) When fish passage is not required or is provided by other means, exclusion barriers shall only be placed in the following situations: 
+
+ (A) To guide fish to an approved fish passage structure or trap; 
+
+ (B) To prevent fish from leaving waters of this state and entering human-made water supply conduits; 
+
+ (C) To prevent fish from entering waters of this state associated with operations of another artificial obstruction that could lead to fish injury; or 
+
+ (D) To achieve other fish management objectives approved in writing by the Department; and 
+
+ (b) Exclusion barriers shall comply with National Marine Fisheries Service or U.S. Fish and Wildlife Service criteria. 
+
+ (10) Requirements for fish passage during construction of fish passage structures and periods when temporary artificial obstructions are in place are: 
+
+ (a) All fish passage structures shall be constructed and temporary artificial obstructions shall be in place only during the Department approved site-specific in-water work period; 
+
+ (b) At times indicated by the Department as per OAR 635-412-0035(1)(a), downstream fish passage shall be provided and: 
+
+ (A) The outfall of a stream flow bypass system shall be placed to provide safe reentry of fish into the stream channel; and 
+
+ (B) If downstream fish passage during construction is not required and stream flow is pumped around the site, the site shall meet Department screening or bypass requirements. 
+
+ (c) At times indicated by the Department as per OAR 635-412-0035(1)(a), upstream fish passage shall be provided and shall be based on the wetted-width or flows of the stream during the period of construction or temporary obstruction; 
+
+ (d) In-stream construction sites shall be isolated from stream flow and fish; 
+
+ (e) Prior to in-stream construction activities, all fish shall be safely collected, removed from the construction site or de-watered reach, and placed in the flowing stream outside of the areas of project impacts by an authorized person with an ODFW Fish Rescue Salvage Authorization issued by and following the guidance of the Department; and 
+
+ (f) After construction, the construction site shall be re-watered slowly and in a controlled manner to prevent loss of downstream surface water as the construction site's streambed absorbs water. 
+
+ (11) Requirements for experimental fish passage structures are: 
+
+ (a) Experimental fish passage structures shall only be allowed in waters of this state after: 
+
+ (A) Laboratory testing with native migratory fish or similar species indicates that the structure provides fish passage; 
+
+ (B) Field testing with a prototype structure, at a location where existing fish passage will not be compromised and where fish passage does not need to be addressed under OAR 635-412-0020(2) and (3), indicates that the structure will provide fish passage; and 
+
+ (C) In addition to information needed to evaluate the structure's design for the specific location, the following are submitted to and approved by the Department : 
+
+ (i) A written summary of the laboratory and field testing and how the results indicate that fish passage shall be provided; 
+
+ (ii) A monitoring and reporting plan to determine if the installed experimental fish passage structure meets applicable design objectives and is providing fish passage; and 
+
+ (iii) A modification plan for the experimental fish passage structure if monitoring indicates that fish passage is not being provided, including standard thresholds that once met will require owner or operator to initiate these modifications. 
+
+ (b) If at any time an experimental fish passage structure is deemed by the Department in writing to not provide fish passage, the owner or operator, in consultation with the Department, shall make such modifications to the structure or operation as are necessary to provide fish passage, and, after a reasonable period, if modifications are deemed by the Department in writing to not provide fish passage, a fish passage structure that meets the standard criteria of OAR 635-412-0035 shall be installed as soon as practicable but no later than the end of the next complete in-water work period after notification by the Department, unless the Department determines additional time is necessary ; 
+
+ (c) The owner or operator of an experimental fish passage structure shall allow the Department to inspect experimental fish passage structures at reasonable times; 
+
+ (d) Five years after the experimental fish passage structure is installed and fish are present to attempt passage a final monitoring report shall be submitted to the Department and the Department shall determine if the experimental fish passage structure provides fish passage; and 
+
+ (e) The Department may consider a fish passage structure to no longer constitute an experimental fish passage structure after the Department finds three such structures of the same design concept placed in waters of this state effectively provide fish passage. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 496.138 & ORS 509.585 
+ 
+ 
+ Statutes/Other Implemented:  ORS 496.012 & ORS 509.585 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DFW 154-2022, amend filed 12/19/2022, effective 01/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DFW 2-2006, f. & cert. ef. 1-9-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

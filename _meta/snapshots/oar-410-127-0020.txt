@@ -1,0 +1,487 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 127 HOME HEALTH CARE SERVICES 
+ 410-127-0020 
+ Definitions
+ 
+ 
+ (1) “Acquisition Cost” means the net invoice price of the item, supply, or equipment plus shipping or postage for the item. 
+
+ (2) “Assessment” means procedures by which a client’s health strengths, weaknesses, problems, and needs are identified. 
+
+ (3) “Custodial Care” means provision of services and supplies that can safely be provided by non-medical or unlicensed personnel. 
+
+ (4) “Division ” means the Health Systems Division within the Oregon Health Authority (Authority). The Division is responsible for coordinating medical assistance programs within the State of Oregon including the Oregon Health Plan (OHP), the State Children’s Health Insurance Program (SCHIP-Title XXI), and several other programs. 
+
+ (5) “Electronic Visit Verification (EVV)” means a technological solution used to electronically verify home health providers delivered or rendered home health services. EVV data to be collected in real time for each visit includes: 
+
+ (a) Provider number of agency; 
+
+ (b) Individual name of provider rendering the service; 
+
+ (c) Client prime number; 
+
+ (d) Service date; 
+
+ (e) Start and end time (to the minute); 
+
+ (f) Location (geo location) of service delivery; 
+
+ (g) Type of service performed. 
+
+ (6) “Evaluation” means a systematic objective assessment of the client for the purpose of forming a plan of treatment and a judgment of the effectiveness of care and measurement of treatment progress. The evaluation of direct care and effectiveness of care plans and interventions is an ongoing activity. 
+
+ (7) “Home” as it relates to home health services, means a place of temporary or permanent residence used as an individual’s home including assisted living facilities, residential care facilities and foster homes. This does not include a hospital, nursing facility, intermediate care facility for individuals with intellectual disabilities, any setting that exists primarily for the purpose of providing medical/nursing care, or any setting in which payment is or could be made under Medicaid for inpatient services that include room and board. 
+
+ (8) “Home Health Agency” means a public or private agency or organization that meets requirements for participation in Medicare, including the capitalization requirements under 42 CFR 489.28, and is licensed by the Authority as a home health agency in Oregon. Home health agency does not include: 
+
+ (a) Any visiting nurse service or home health service conducted by and for those who rely upon spiritual means through prayer alone for healing in accordance with tenets and practices of a recognized church or religious denomination; 
+
+ (b) Health services offered by county health departments that are not formally designated and funded as home health agencies within the individual departments; 
+
+ (c) Personal care services that do not pertain to the curative, rehabilitative, or preventive aspect of nursing. 
+
+ (9) “Home Health Aide” means an individual who meets all requirements for home health aide as defined in the Medicare Conditions of Participation at 42 CFR 484.80 and who is certified as a nursing assistant by the Oregon State Board of Nursing in accordance with OAR chapter 851, division 062. 
+
+ (10) “Home Health Aide Services” means services provided by a home health aide on a part-time or intermittent basis, under the direction and supervision of a registered nurse or licensed therapist familiar with the client, the client’s plan of care, and the written care instructions. The focus of care shall be to provide personal care services or other services under the home health services plan of care needed to maintain the client’s health or to facilitate treatment of the client’s illness or injury. These services must not duplicate other Medicaid-paid personal care services. 
+
+ (11) “Home Health Services” means the following items and services furnished to a client who is under the care of a physician, by a home health agency, under a plan established and periodically reviewed by a physician, on a visiting basis: 
+
+ (a) Part-time or intermittent nursing care provided by or under the supervision of a registered nurse; 
+
+ (b) Physical, occupational, or speech-language pathology services; 
+
+ (c) Part-time or intermittent home health aide services provided by a home health aide who has successfully completed the required training and certification; and 
+
+ (d) Medical supplies and durable medical equipment. 
+
+ (12) “Medicaid Home Health Provider” means a home health agency licensed by Health Services, Health Care Licensure and Certification certified for Medicare and enrolled with the Division as a Medicaid provider. 
+
+ (13) “Medical Supplies” means supplies prescribed by a physician as a necessary part of the plan of care being provided by the home health agency. 
+
+ (14) “Outcome and Assessment Information Set (OASIS)” means a client specific comprehensive assessment that identifies the client's need for home health services that meet the client's medical, nursing, rehabilitative, social, and discharge planning needs. 
+
+ (15) “Occupational Therapy Services” means services provided by a registered occupational therapist or certified occupational therapy assistant supervised by a registered occupational therapist, due to the complexity of the service and client's condition. The focus of these services shall be curative, rehabilitative, or preventive and must be considered specific and effective treatments for a client's condition under accepted standards of medical practice. Teaching the client, family, and caregiver task-oriented therapeutic activities designed to restore function and independence in the activities of daily living is included in this skilled service. Occupational Therapy Licensing Board ORS 675.210-675.340 and the Uniform Terminology for Occupational Therapy established by the American Occupational Therapy Association, Inc. govern the practice of occupational therapy. 
+
+ (16) “Physical Therapy Services” means services provided by a licensed physical therapist or licensed physical therapy assistant under the supervision of a licensed physical therapist, due to the inherent complexity of the service and the client's condition. The focus of these services shall be curative, rehabilitative, or preventive and must be considered specific and effective treatments for a patient's condition under accepted standards of medical practice. Teaching the client, family, and caregiver the necessary techniques, exercises, or precautions for treatment and prevention of illness or injury is included in this skilled service. Physical Therapy Licensing Board ORS 688.010 to 688.235 and Standards for Physical Therapy as well as the Standards of Ethical Conduct for the Physical Therapy Assistant established by the American Physical Therapy Association govern the practice of physical therapy. Physical therapy shall not include radiology or electrosurgery. 
+
+ (17) “Plan of Care” means written instructions describing how care is to be provided. The plan is initiated by the admitting registered nurse, physical therapist, occupational therapist, or speech therapist and certified by the prescribing physician. The plan of care must include the client’s condition, rationale for the care plan including justification for the skill level of care, and the summary of care for additional certification periods. This includes but is not limited to: 
+
+ (a) All pertinent diagnoses; 
+
+ (b) Mental, psychosocial, and cognitive status; 
+
+ (c) Types of services; 
+
+ (d) Specific therapy services; 
+
+ (e) Frequency and duration of visits to be made; 
+
+ (f) Supplies and equipment needed; 
+
+ (g) Prognosis; 
+
+ (h) Rehabilitation potential; 
+
+ (i) Functional limitations; 
+
+ (j) Activities permitted; 
+
+ (k) Nutritional requirements; 
+
+ (L) All medications and treatments; 
+
+ (m) Safety measures to protect against injury; 
+
+ (n) Discharge plans including patient and caregiver education and training to facilitate timely discharge; 
+
+ (o) Patient-specific measurable outcomes/goals; 
+
+ (p) If home health services are initiated following a hospital discharge, an assessment of client’s level of risk for hospital emergency department visits or hospital readmission; 
+
+ (q) Additional interventions/orders the home health agency or physician chooses to include. 
+
+ (18) “Practitioner” means an individual licensed pursuant to federal and state law to engage in the provision of health care services within the scope of the practitioner’s license and certification. 
+
+ (19) “Responsible Unit” means the agency responsible for approving or denying payment authorization. 
+
+ (20) “Skilled Nursing Services” means the client care services pertaining to the curative, restorative, or preventive aspects of nursing performed by a registered nurse or under the supervision of a registered nurse, pursuant to the plan of care established by the prescribing physician in consultation with the home health agency staff. Skilled nursing emphasizes a high level of nursing direction, observation, and skill. The focus of these services shall be the use of the nursing process to diagnose and treat human responses to actual or potential health care problems, health teaching, and health counseling. Skilled nursing services include the provision of direct client care and the teaching, delegation, and supervision of others who provide tasks of nursing care to clients, as well as phlebotomy services. Such services shall comply with the Nurse Practice Act and administrative rules of the Oregon State Board of Nursing and Health Division, chapter 410 division 127, Home Health Agencies. 
+
+ (21) “Speech-Language Pathology Services” means services provided by a licensed speech-language pathologist due to the inherent complexity of the service and the patient's condition. The focus of these services shall be curative, rehabilitative, or preventive and must be considered specific and effective treatment for a patient's condition under accepted standards of medical practice. Teaching the client, family, and caregiver task-oriented therapeutic activities designed to restore function and compensatory techniques to improve the level of functional communication ability is included in this skilled service. Speech-Language Pathology and Audiologist Licensing Board ORS 681.205 to 681.991 and the Standards of Ethics established by the American Speech and Hearing Association govern the practice of speech-language pathology. 
+
+ (22) “Title XVIII (Medicare)” means Title XVIII of the Social Security Act. 
+
+ (23) “Title XIX (Medicaid)” means Title XIX of the Social Security Act. 
+
+ [Note: Publications referenced are available from the agency.] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.065 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 91-2023, amend filed 12/21/2023, effective 01/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 4-2020, amend filed 02/24/2020, effective 02/25/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 32-2019, temporary amend filed 08/13/2019, effective 08/19/2019 through 02/14/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 2-2018, amend filed 01/10/2018, effective 01/10/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 29-2017(Temp), f. 7-14-17, cert. ef. 7-15-17 thru 1-10-18 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 29-2013, f. & cert. ef. 6-27-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 33-2010, f. 12-15-10, cert. ef. 1-1-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 1-2003, f. 1-31-03, cert. ef. 2-1-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 36-2001, f. 9-24-01, cert. ef. 10-1-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 19-2000, f. 9-28-00, cert. ef. 10-1-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 24-1998, f. & cert. ef. 7-15-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 4-1998(Temp), f. & cert. ef. 2-5-98 thru 7-15-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HR 15-1995, f. & cert. ef. 8-1-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HR 14-1992, f. & cert. ef. 6-1-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HR 12-1991, f. & cert. ef. 3-1-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HR 28-1990, f. 8-31-90, cert. ef. 9-1-90, Renumbered from 411-075-0001 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSD 10-1990, f. 3-30-90, cert. ef. 4-1-90 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSD 4-1983, f. 5-4-83, ef. 5-5-83 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

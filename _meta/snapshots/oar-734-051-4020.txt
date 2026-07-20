@@ -1,0 +1,202 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Transportation 
+ Delivery and Operations Division - Chapter 734 
+ 
+ 
+ 
+ 
+ Division 51 HIGHWAY APPROACHES, ACCESS CONTROL, SPACING STANDARDS AND MEDIANS 
+ 734-051-4020 
+ Standards and Criteria for Approval of Private Approaches 
+ 
+ (1) Applicability. This rule describes standards and criteria that the department applies to the review of an Application for State Highway Approach that has been deemed complete as set forth in OAR 734-051-3030. Applications submitted for change of use of an approach may be reviewed under the standards and criteria set forth in OAR 734-051-3020 in lieu of this rule.  (2) General Approval Criteria. Except for applications where the department identifies safety or operations concerns set forth in section (3), and except for applications that are subject to alternate access considerations as set forth in sections (5) through (7), the Region Manager shall approve an Application for State Highway Approach that meets the general approval criteria (a)-(c) in this section. Additional criteria set forth in section (9) apply to interchange areas.  (a) Approach Spacing Standards. Section (8) of this rule sets forth the approach spacing standards, except that the spacing standards applicable to interchanges and interchange areas are set forth in section (9).  (b) Channelization Standards. An application meets the channelization standards of this rule if none of the conditions in (A) through (C), below, exist; where a condition in (A) through (C) exists, an application may meet the channelization standards if the existing or proposed lane configuration on the highway conforms to the design requirements of the ODOT Highway Design Manual in effect at the time the application is filed.  (A) Average daily trips for the existing or proposed development exceed four hundred (400) for an application on a two-lane highway with annual average daily traffic of five thousand (5,000) or more motor vehicles; or  (B) Average daily trips for the existing or proposed development exceed four hundred (400) for an application on a four-lane highway with annual average daily traffic of ten thousand (10,000) or more motor vehicles; or  (C) Average daily trips for the existing or proposed development multiplied by the annual average daily traffic on the highway is equal to or greater than the products listed in the Table 1.  (c) Sight Distance Standards. Table 2 sets forth the sight distance standards for approaches. An Application for State Highway Approach meets the sight distance standard of this rule if the intersection sight distance at the intersection of the proposed approach and highway is equal to or greater than shown in Table 2. Intersection sight distance shall never be less than stopping sight distance, as calculated in accordance with 2011 AASHTO Policy on Geometric Design of Highways and Streets. Sight distance must be unobstructed within the sight triangle based on the following positions of measurement:  (A) Driver’s eye height equal to 3.5 feet above the road surface of the proposed approach at a location 15 feet from the edge of the travel lane; and  (B) Object height equal to 3.5 feet above the road surface at the near edge of the travel lane to the left and at the far edge of the travel lane to the right of the approach. [Table not included. See ED. NOTE.]  (3) Safety and Operations Concerns. The department has the burden of proving safety and highway operations concerns that it relies upon in requiring mitigation or in denying an application based on those concerns. The department may deny an application where the applicant is unable to provide adequate improvements to mitigate documented safety or highway operations concerns; safety and highway operations concerns that the department may consider are limited to (a) through (f), below:  (a) Regular queuing on the highway that impedes turning movements associated with the proposed approach. Regular queuing will be evaluated based on the ninety-fifth (95th) percentile queue on the highway during the highway peak hour, as determined by field observation or traffic analysis in accordance with ODOT’s Analysis Procedures Manual; or  (b) Overlapping left turn movements or competing use of a center turn lane from a connection located on the opposite side of the highway; or  (c) Location of the proposed approach within a highway segment with a crash rate that is twenty (20) percent or higher than the statewide average for similar highways; or  (d) Location of the proposed approach within a highway segment listed in the top five percent of locations identified by the Safety Priority Index System developed by the department; or  (e) The proposed approach is on a district or regional highway with a posted speed of 50 miles per hour or higher and the distance to the nearest public approach is less than the stopping sight distance on the highway, calculated in accordance with the 2011 AASHTO Policy on Geometric Design of Highways and Streets; or  (f) Insufficient distance for weave movements made by vehicles exiting the proposed approach across multiple lanes in the vicinity of:  (A) Signalized intersections; or  (B) Roads classified as collectors or arterials in an acknowledged transportation system plan or comprehensive plan, or classified as such by the Federal Highway Administration; or  (C) On-ramps or off-ramps.  (4) Applications that Do Not Meet Approval Standards and Criteria — Deviations. The department may approve an application that does not meet the approval standards and criteria of this rule for approach spacing, sight distance, and/or channelization if a deviation from the standards is approved as set forth in OAR 734-051-3050.  (5) Applications for Properties with No Alternate Access. For an application for an approach to property with a right of access and no alternate access, the department may waive the standards and criteria of this rule for access spacing, sight distance and channelization if the department and the applicant agree on an approach location and mitigation measures that optimize safety, highway operations and site design. Approval of an application under this section does not require approval of a deviation. If agreement cannot be reached the department shall apply OAR 734-051-4020(2)–(4) to the application to approve, deny, or approve with mitigation the application, consistent with the procedures in 734-051-3040. In applying 734-051-4020(2)–(4), the department may include any matters of agreement or other results from discussion with the applicant pursuant to this section. The department’s decision to deny or approve with mitigation applications under 734-051-4020(2)–(4) is subject to post-decision review under 734-051-3080.  (6) Applications Where the Department Shall Consider Alternate Access. The region manager shall consider alternate access to a property only for an application for an approach to a highway designated as an expressway as described in subsection (a) of this section, or for a second or subsequent approach to a property in a rural area as described in subsection (b) of this section.  (a) Expressways. The region manager may approve an application to an expressway for a property that has alternate access when the criteria in (A) through (C) below are met:  (A) The department determines that either:  (i) The alternate access to the property cannot be made reasonable based on findings under section (7) of this rule; or  (ii) The approach provides an immediate and long-term benefit to the state highway system as set forth in OAR 734-051-4030, in addition to mitigating any safety or operations concerns; and  (B) The application meets the applicable standards and criteria of this rule or a deviation is approved as set forth in OAR 734-051-3050; and  (C) The approach does not cause any of the safety or operations concerns set forth in section (3) of this rule, or those concerns can be adequately mitigated.  (b) A Second or Subsequent Approach in a Rural Area. The region manager may approve an application for a second or subsequent approach to a property in a rural area that has alternate access when the criteria in paragraphs (A) through (C) are met:  (A) The department determines that either:  (i) The alternate access to the property cannot be made reasonable based on findings under section (7) of this rule; or  (ii) The approach will serve rural infill or redevelopment and approval of the approach will result in a net reduction of connections to the highway or the net result improves safety for any remaining approaches; and  (B) The application meets the applicable standards and criteria of this rule or a deviation is approved as set forth in OAR 734-051-3050; and  (C) The approach does not cause any of the safety or operations concerns set forth in section (3) of this rule, or those concerns can be adequately mitigated.  (7) Reasonable Alternate Access Criteria. In determining whether alternate access is or can be made reasonable pursuant to section (6) of this rule, the department shall consider all of the following provisions in subsections (a) through (e) below:  (a) Authorized Uses. Alternate access to the property is adequate to allow the authorized uses for the property identified in the acknowledged local jurisdiction comprehensive plan and local land use regulations, taking into account the economic development needs of the property;  (b) Type, Number, Size and Location of Alternate Access. The type, number, size and location of alternate access are adequate to serve the volume and type of traffic reasonably anticipated to enter and exit the property, based on the planned uses for the property and taking into account the economic development needs of the property;  (c) Constraints to Alternate Access. The presence of constraints that limit the development of alternate access including:  (A) Legal restrictions;  (B) Geographic restrictions;  (C) Historical or cultural resources; and  (D) Physical considerations such as planned streets, roadway width, and weight and size restrictions;  (d) Availability of Mitigation Measures. The availability of mitigation measures set forth in OAR 734-051-3070 that the applicant could make on the property or along the roadway frontage of the property, including situations in which the applicant or the local jurisdiction commits proportional shares toward the cost of removal or mitigation of geographic, safety, or physical restrictions on the property or local street network. Neither the lack of commitment by a local government to share the cost of mitigation nor the cost of mitigation alone is conclusive in evaluating whether a vehicle access is or could be made reasonable; and  (e) Phasing. In circumstances where a significant difference exists between the existing and the planned local road network the department may consider a phased method to establishing reasonable alternative access as follows:  (A) Where a planned public street or road network cannot be provided at the time of development, an application for an approach may be approved with conditions requiring a connection to the planned local street or road network when it becomes available;  (B) The approach permit to the state highway may be revoked and the approach removed, or the approach permit may be modified and additional mitigation required when the planned street or road network becomes available; and  (C) ODOT and the local government enter into an agreement regarding the timing, cost and responsibility for the development of the planned street or road network.  (8) Access Management Spacing Standards. Tables 3 through 10 set forth the access management spacing standards. Tables 7, 8, 9, and 10, including Figures 1, 2, 3 and 4, are the spacing standards for interchanges and approaches in interchange areas. Tables 3 and 6 are the standards for unclassified highways such as service roads and frontage roads. An application meets the spacing standards set forth in Tables 3 through 10 if the spacing of a proposed approach is equal to or greater than the distance shown in the applicable table. The spacing standards in Tables 3 through 6 are subject to the method of measurement and exceptions in subsections (a) through (c) below:  (a) The spacing standards in Tables 3 through 6 apply to the distance measured along the highway from the center of an existing or proposed private approach to the center of the nearest existing private connection, proposed approach, or public approach on the same side of the highway in both directions;  (b) The following exceptions in paragraphs (A) through (E) apply to the spacing standards in Tables 3 through 6:  (A) On one-way highways or highways with a non-traversable median, where turning movements to and from the highway are limited to either right in/right out or left in/left out turns only, the applicable approach spacing standards equal one-half the spacing standards in Tables 4 through 6.  (B) Tables 4 through 6 apply to highways designated as expressways regardless of average daily traffic.  (C) The spacing standards included in special transportation area management plans, and facility plans that are adopted by the Commission, take precedence over the spacing standards described in Tables 3 through 6.  (D) For special transportation areas where no management plan has been adopted, the minimum access management spacing for public road approaches is the existing city block spacing or the city block spacing as identified in the local comprehensive plan. Public road connections are preferred over private approaches and in special transportation areas, private approaches are discouraged; however where private approaches are allowed and where land use patterns permit, the minimum access management spacing for private approaches is 175 feet or mid-block if the current city block spacing is less than 350 feet.  (E) For a signalized private approach, the signal spacing standards in OAR 734-020-0400 through 734-020-0500 supersede the access management spacing standards in Tables 3 through 6; and  (c) The spacing standards in Tables 3 through 6 do not apply to approaches in existence prior to January 1, 2012, except when:  (A) A new approach or change of use of an approach is required under ORS 374.312;  (B) Where infill development or infill redevelopment occurs and spacing or safety will be improved by moving in the direction of the spacing standards in Tables 3 through 6; or  (C) Where a highway or interchange project occurs and spacing or safety will be improved by moving in the direction of the applicable spacing standards in Tables 3 through 6.  (9) Spacing Criteria for Applications in an Interchange Area. In addition to the spacing standards in Tables 7 through 10, the following criteria in subsections (a) and (b) below apply to approval of an application for a proposed approach located in an interchange area:  (a) The approach must be consistent with adopted facility plans; and  (b) Location of proposed traffic signals within an interchange area as illustrated in Figures 1, 2, 3 and 4 must meet the criteria of OAR 734-020-0400 through 734-020-0500. 
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  [ED. NOTE: Tables referenced are available from the agency.] ORS 184.616, 184.619, 374.310–374.314, 374.345 & 374.355 
+ 
+ 
+ Statutes/Other Implemented:  ORS 374.300–374.360, §27, ch. 330 & OL 2011 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ HWD 7-2014, f. & cert. ef. 7-9-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HWD 2-2014, f. 6-25-14, cert. ef. 6-30-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HWD 8-2012, f. 6-27-12, cert. ef. 6-29-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HWD 16-2011(Temp), f. 12-22-11, cert. ef. 1-1-12 thru 6-29-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Finance and Securities Regulation - Chapter 441 
+ 
+ 
+ 
+ 
+ Division 205 DENIAL, SUSPENSION, OR REVOCATION OF LICENSE 
+ 441-205-0110 
+ Hypothecation of Customer’s Securities 
+ 
+ (1) General Provisions. The term “Fraudulent, Deceptive, or Manipulative Act or Practice,” as used in these rules, is hereby defined to include the direct or indirect hypothecation by a broker-dealer, or his arranging for or permitting, directly or indirectly, the continued hypothecation of any securities carried for the account of any customer under circumstances:  (a) That will permit the commingling of securities carried for the account of any such customer with securities carried for the account of any other customer, without first obtaining the written consent of each such customer to such hypothecation;  (b) That will permit such securities to be commingled with securities carried for the account of any person other than a bona fide customer of such broker-dealer under a lien for a loan made to such broker-dealer; or  (c) That will permit securities carried for the account of customers to be hypothecated, or subjected to any lien or liens or claims of the pledgee or pledgees, for a sum which exceeds the aggregate indebtedness of all customers in respect of securities carried for their accounts; except that this clause shall not be deemed to be violated by reason of an excess arising on any day through the reduction of the aggregate indebtedness of customers on such day; provided that funds or securities in an amount sufficient to eliminate such excess are paid or placed in transfer to pledgee for the purpose of reducing the sum of the liens or claims to which securities carried for the account of customers are subject as promptly as practicable after such reduction occurs, but before the lapse of one-half hour after the commencement of banking hours on the next banking day at the place where the largest principal amount of loans of such broker-dealer are payable and, in any event, before such broker-dealer on such day has obtained or increased any bank loan collateralized by securities carried for the account of customers.  (2) Definitions. For the purposes of this rule:  (a) The term “Customer” shall not be deemed to include any general or special partner or any director or officer of such broker-dealer, or any participant, as such, in any joint, group, or syndicate account with such broker-dealer or with any partner, officer, or director thereof;  (b) The term “securities carried for the account of any customer” shall be deemed to mean:  (A) Securities received by or on behalf of such broker-dealer for the account of any customer;  (B) Securities sold and appropriated by such broker-dealer to a customer, except that, if such securities were subject to a lien when appropriated to a customer, they shall not be deemed to be “Securities Carried for the Account of Any Customer” pending their release from such lien as promptly as practicable;  (C) Securities sold, but not appropriated, by such broker-dealer to a customer who has made any payment therefor, to the extent that such broker-dealer owns and has received delivery of securities of like kind, except that, if such securities were subject to a lien when such payment was made, they shall not be deemed to be “Securities Carried for the Account of Any Customer” pending their release from such lien as promptly as practicable.  (c) “Aggregate Indebtedness” shall not be deemed to be reduced by reason of uncollected items. In computing aggregate indebtedness, related guaranteed and guarantor accounts shall be treated as a single account and considered on a consolidated basis, and balances in accounts carrying both long and short positions shall be adjusted by treating the market value of the securities required to cover such short positions as though such market value were a debit; and  (d) In computing the sum of the liens or claims to which securities carried for the account of customers of a broker-dealer are subject, any rehypothecation of such securities by another broker-dealer who is subject to this rule shall be disregarded.  (3) Exemption for Cash Accounts. The provisions of subsection (1)(a) of this rule shall not apply to any hypothecation of securities carried for the account of a customer in a special cash account within the meaning of section 4(c) of Regulation T of the Board of Governors of the Federal Reserve System; provided that, at or before the completion of the transaction of purchase of such securities for, or of sale of such securities to such customer, written notice is given or sent to such customer disclosing that such securities are or may be hypothecated under circumstances which will permit the commingling thereof with securities carried for the account of other customers.  (4) Exemption for Clearing Liens. The provisions of subsections (1)(b) and (c), and section (6) of this rule shall not apply to any lien or claim of the clearing corporation, or similar department or association, of a national securities exchange or a registered national securities association, for a loan made and to be repaid on the same calendar day, which is incidental to the clearing of transactions in securities or loans through such corporation, department, or association; provided, however, that for the purpose of subsection (1)(c) of this rule, “Aggregate Indebtedness of All Customers in Respect of Securities Carried for Their Accounts” shall not include indebtedness in respect of any securities subject to any lien or claim exempted by this paragraph.  (5) Exemption for Certain Liens on Securities of Noncustomers. The provisions of subsection (1)(b) of this rule shall not be deemed to prevent such broker-dealer from permitting securities not carried for the account of a customer to be subjected:  (a) To a lien for a loan made against securities carried for the account of customers; or  (b) To a lien for a loan made and to be repaid on the same calendar day. For the purpose of this exemption, a loan shall be deemed to be “made against securities carried for the account of customers” if only securities carried for the account of customers are used to obtain or to increase such loan or as substitutes for other securities carried for the account of customers.  (6) Notice and Certification Requirements. No person subject to this rule shall hypothecate any security carried for the account of a customer unless, at or prior to the time of each such hypothecation, he gives written notice to the pledgee that the security pledged is carried for the account of a customer and that such hypothecation does not contravene any provision of this rule, except that, in the case of an omnibus account, the broker-dealer for whom such account is carried may furnish a signed statement to the person carrying such account that all securities carried therein by such broker-dealer will be securities carried for the account of his customers and that the hypothecation thereof by such broker-dealer will not contravene any provision of this rule. The provisions of this clause shall not apply to any hypothecation of securities under any lien or claim of a pledgee securing a loan made and to be repaid on the same calendar day.  (7) The fact that securities carried for the accounts of customers and securities carried for the accounts of others are represented by one or more certificates in the custody of a clearing corporation or other subsidiary organization of either a national securities exchange or of a registered national securities association, or of a custodian bank, in accordance with a system for the central handling of securities established by a national securities exchange or a registered national securities association, pursuant to which system the hypothecation of such securities is effected by bookkeeping entries without physical delivery of such securities, shall not, in and of itself, result in a commingling of securities prohibited by subsection (1)(a) or (b) of this rule, whenever a participating broker-dealer hypothecates securities in accordance with such system; provided, however, that:  (a) Any such custodian of any securities held by or for such system shall agree that it will not for any reason, including the assertion of any claim, right, or lien of any kind, refuse or refrain from promptly delivering any such securities (other than securities then hypothecated in accordance with such system) to such clearing corporation or other subsidiary organization or as directed by it, except that nothing in such agreement shall be deemed to require the custodian to deliver any securities in contravention of any notice of levy, seizure, or similar notice or order, or judgment, issued or directed by a governmental agency or court or officer thereof, having jurisdiction over such custodian, which on its face affects such securities;  (b) Such systems shall have safeguards in the handling, transfer, and delivery of securities and provisions for fidelity bond coverage of the employees and agents of the clearing corporation or other subsidiary organization and for periodic examinations by independent public accountants; and  (c) The provisions of section (7) of this rule shall not be effective with respect to any particular system unless the agreement required by subsection (a) of this section and the safeguards and provisions required by subsection (b) of this section shall have been deemed adequate by the Director or the Securities and Exchange Commission for the protection of investors, and unless any subsequent amendments to such agreements, safeguards, or provisions shall have been deemed adequate by the Director or the Securities and Exchange Commission for the protection of investors. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 59 
+ 
+ 
+ Statutes/Other Implemented:  ORS 59.205(2) 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ CC 12-1973, f. 7-12-73, ef. 9-1-73, Renumbered from 815-030-0205, 815-030-0165 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

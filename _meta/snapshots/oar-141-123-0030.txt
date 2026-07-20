@@ -1,0 +1,216 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of State Lands 
+ Chapter 141 
+ 
+ 
+ 
+ 
+ 
+ Division 123 RULES FOR GRANTING EASEMENTS ON NON-TRUST LANDS 
+ 141-123-0030 
+ Definitions 
+ 
+ (1) “Applicant” is any person applying for an easement. 
+(2) “Appraised Value” means an estimate of current market value of the property (not including improvements) as of a specific date, prepared by a qualified independent appraiser in accordance with the Uniform Standards of Professional Appraisal Practice (USPAP) standards. 
+(3) “Authorized Area” is the area of state-owned land defined in the easement for which a use is authorized. 
+(4) "Cable" means a conductor of electricity or light with insulation, or a combination of conductors insulated from one another within a single jacket or sheath.  
+(5) "Circuit" means a system of conductors through which an electric current is intended to flow. A single pole or transmission tower may support one or more circuits, each of which may consist of up to four separate conductors.  
+(6) "City" means a city incorporated under ORS 221.020 through 221.100.  
+(7) "City Limits" refers to the boundaries of a city incorporated under ORS 221.020 through 221.100.  
+(8) "Communication Line" is any cable including fiber optic cable which transmits electronic information, telephone or television signals or other data.  
+(9) "Comparative Compensatory Payment" is the amount of money paid to owners of parcels that are similar to the state-owned land requested by an applicant for a use that is the same as, or similar to that requested by an applicant. When the applicant’s requested use is in, on or over Trust Land, the comparative compensatory payment is the maximum amount of money private landowners receive for the same or similar uses in, on or over parcels that they own that are similar to the Trust Land requested by the applicant.  
+(10) "Compensation” or “Compensatory Payment" is the amount of money paid or something of equal value provided for an easement to the Department for the use of Department managed land. 
+(11)"Conduit" is a pipe that protects cables from damage. It may be buried or used in above-ground applications such as bridge crossings. Innerducts may be installed within a conduit to facilitate individual cable installation. 
+(12) “Deflector” is a structural barrier such as a groin or jetty projecting into a waterway to divert flow away from and prevent eroding sections of the banks of a waterway. 
+(13) “Department” means the Department of State Lands. 
+(14) "Development" is any structure or physical facility (for example, each cable, innerduct, innerduct and cable, conduit, conduit and cable, pipeline, electrical line, communication line, bridge, road, fence, ditch, reservoir, or easement-associated building) on state-owned land subject to or authorized by an easement granted by the Department.  
+(15) "Director" means the Director of the Department of State Lands or designee.  
+(16) “Domestic Use” means the use of water for human consumption and household purposes that is necessary for the sustenance of an individual, family unit or household. Domestic use may also include water used by an individual family unit or household for heating or cooling purposes. 
+(17) "Easement" is an authorization granted by the Department that gives a person the use of a specifically designated parcel of state-owned land for a specific purpose and length of time. An easement does not convey any proprietary or other rights of use to the Holder other than those specifically granted in the easement authorization. 
+(18) “Easement for Conservation Purposes” is a type of easement granted by the Department that limits uses to protect the property for conservation values, such as fish and wildlife habitat or other ecosystem processes.  The easement for conservation purposes is conveyed by the Department when the applicant is not eligible to hold a Conservation Easement or otherwise does not conform to ORS 271.715 to 271.775.  
+(19) "Encroachment" is an unauthorized development or use, such as, but not limited to a structure, fill, or pile of aggregate, that overlaps on, or otherwise occupies or restricts the full use of state-owned land. An encroachment may be a pipe, conduit, or other structure that has been abandoned in place.  An encroachment may also occur when the Holder of an easement granted by the Department extends their use outside of the area authorized by that easement or adds a use or development not authorized.  
+(20) “Erosion Control Structures” mean revetments, attenuators, deflectors, retaining walls, riprap and other structures placed adjacent to, or on Non-Trust Land.  
+(21) "Fiber Optic Cable" means an insulated and often armored cable used to transmit telecommunications through glass fibers using pulses of light.  
+(22) “Gas Lines and Associated Fixtures” are the pipelines and required compressor and gate stations, valves, meters, regulators, relief stacks, marker posts, rectifiers, and all other related fixtures and equipment necessary to deliver natural gas from the point of origin to the user. 
+(23) "Governmental Body" means an agency of the Federal Government, the State of Oregon, and every political subdivision thereof as defined in ORS 271.005.  
+(24) “Holder” means any person who holds a current authorization from the Department for the use of state-owned lands.   
+(25) "Individual Use" or "Individual Development" is each separate use of, or development placed on state-owned land. 
+(26) "Innerduct" is tubing that not only protects fiber optic and other types of cables, but also facilitates their installation. It is often placed inside a conduit or may be buried directly into the ground. 
+(27) “Intake” is a location or structure through which something is taken in, e.g. water in a channel or pipe from a body of water.  
+(28) “Irrigation” or “Irrigation Use” means the artificial application of water to crops or plants by controlled means to promote growth or to nourish crops or plants. Examples of irrigation uses include, but are not limited to, watering of an agricultural crop, commercial garden, tree farm, orchard, park, golf course play field or vineyard. 
+(29) “Market Value" Means the most probable price, as of a specified date, in cash, or in terms equivalent to cash for which the specified property rights should sell after reasonable exposure in a competitive market under all conditions requisite to a fair sale, with the buyer and seller acting prudently, knowledgeably, and assuming neither is under undue duress. 
+(30) “Maximum Value Per Square Foot” means the highest price per square foot that the Department may use in determining compensation for easements. 
+(31) “Multiple-Use Easement” means an authorization issued for a single conduit, through which additional uses may be embedded. 
+(32) "Non-Trust Land" is land managed by the Department other than Trust Land. Examples of Non-Trust Land include state-owned Swamp Land Act Land, and submerged and submersible land [(land below ordinary high water)] under navigable and tidally influenced waterways.  
+(33) “Outfall” is the point of a drain where it discharges to an area of land or body of water. 
+(34) “Owner” means a person or legal entity that has a property interest in a structure or land 
+(35) "Permanent Easement" is a type of easement that is issued in perpetuity.  
+(36) "Person" includes individuals, corporations, associations, firms, partnerships, limited liability companies and joint stock companies as well as any state or other governmental or political subdivision or agency, public corporation, public authority, or Indian Tribe. 
+(37) “Public Trust Use(s)”  means those uses embodied in the Public Trust Doctrine under federal and state law including, but not limited to navigation, recreation, commerce and fisheries, and other uses that support, protect, and enhance those uses.  Examples of Public Trust uses include, but are not limited to, short term moorage, camping, bank fishing, picnicking, and boating. 
+(38) ““Real Estate Asset Management Plan” is the plan adopted by the State Land Board that provides the policy direction and management principles to guide both the short and long-term management by the Department of the Common School Fund’s real estate assets.  
+(39) “Real Market Value” for land means the current market value of the property (not including improvements) assigned to the land within the tax lot, adjacent riparian tax lot, or comparable tax lot by the county tax assessor. 
+(40) “Right of Way” is the legal right, established by grant, to pass along a specific route through grounds or property belonging to another.  
+(41) "Right to Use Water" is a water right permit, water right certificate, or a proposed or final order approving a water right permit granted by the Oregon Water Resources Department, or court decree evidencing a water right, authorizing a person to take and use a specific quantity of water for a specific use or uses from a specific location under specific terms and conditions. 
+(42) “Roadway” means a road, driveway, or any other development for the use vehicles or other traffic. 
+(43) “Rip-Rap” means crushed rock or concrete placed on the bank of a waterway or lake to prevent or reduce erosion of the bank.  
+(44) “Single-Use Easement” means an authorization for a crossing with an individual use. 
+(45) "State Land" or "State-Owned Land" is land owned by the State and managed by the Department or its agents and includes Trust Land and Non-Trust Land.  
+(46) “State Land Board” means the constitutionally created body consisting of the Governor, Secretary of State, and State Treasurer that is responsible for managing the assets of the Common School Fund as well as for additional functions placed under its jurisdiction by law. 
+(47) “Structure or Facility Necessary for the Use of Water” means the pipelines and required stands, pumps, wiring, fish screens, and similar equipment necessary to convey water from the point of diversion to the place of use.  
+(48) "Submerged Land" means land lying below the line of ordinary low water of all title navigable and tidally influenced water within the boundaries of the State of Oregon.  
+(49) "Submersible Land" means land lying above the line of ordinary low water and below the line of ordinary high water of all title navigable and tidally influenced water within the boundaries of the State of Oregon.  
+(50) "Trust Land" is land granted to the state upon its admission into the Union or obtained by the state as the result of an exchange of Trust Land, or obtained in lieu of originally granted Trust Land, or purchased with trust funds, or obtained through foreclosure of loans using trust funds. 
+(51) "Use" means an activity on state-owned lands that requires an easement under these rules. 
+(52) “Utility” means water, waste water, gas, electric, or communication service lines, fixtures and other related facilities. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 273.045 
+ 
+ 
+ Statutes/Other Implemented:  ORS 273.761, 274.040, 274.720, 376.620, 530.050, 530.490 & 758.010 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DSL 1-2019, adopt filed 01/08/2019, effective 01/08/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

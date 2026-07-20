@@ -1,0 +1,325 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Agriculture 
+ Chapter 603 
+ 
+ 
+ 
+ 
+ 
+ Division 27 SALE BY WEIGHT OR MEASURE 
+ 603-027-0430 
+ Classification and Method of Sale of Petroleum Products
+ 
+ 
+ (1) General Considerations: 
+(a) Documentation. 
+(A) On each occasion when any person transfers custody or title to any motor vehicle fuel, other than when fuel is sold or dispensed to the ultimate end user at a retail dealer or non-retail dealer, the transferor must provide the transferee product transfer documents (PTDs) that comply with the requirements of 40 CFR Part 1090.1100, 16 CFR Part 306 and; 
+(i) for diesel fuel, includes the word “winter” or “winterized” or similar certifying that the fuel complies with the winter diesel fuel requirements in 603-027-0420(6) if it will be identified as winter or winterized diesel fuel per 603-027-0430(4); and 
+(ii) for diesel fuel, includes the word “premium” or similar certifying that the fuel complies with the premium diesel fuel requirements in 603-027-0420(7) if it will be identified as premium diesel fuel per 603-027-0430(5); and 
+(iii) for diesel fuel, the volume percent biodiesel and biomass-based diesel used to meet requirements in 603-027-0420(12); 
+(B) Each operator of a bulk facility and each person who imports motor vehicle fuels into this state to be sold, delivered, or transferred in this state shall keep, for at least one year at the person's registered place of business, complete and accurate records of motor vehicle fuels sold, delivered, or transferred in this state. 
+(C) Each biodiesel producer, each operator of a biodiesel bulk facility and each person who imports biodiesel into this state to be sold, transferred, or delivered in this state shall keep, on a monthly basis at the person’s registered place of business for at least one year, the certificate of analysis and the visual appearance records that are performed upon first receipt at a wholesale facility prior to commingling with existing product for each batch or production lot of biodiesel sold, transferred, or delivered into this state. 
+(D) All retail dealers, non-retail dealers, and wholesale dealers in Oregon are required to provide, upon request of the Department, evidence of a certificate of analysis for the biodiesel received. 
+(E) Retail dealers and non-retail dealers shall maintain at their facilities the product transfer documents and automotive fuel rating certifications per 16 CFR Part 306 for the three most recent motor vehicle fuel deliveries to the facility for each type and grade of fuel sold or offered for sale.  These documents shall be made available for inspection by ODA staff members upon request. 
+(b) Retail and Non-retail Gasoline Dispenser Labeling. All retail and non-retail motor vehicle fuel dispensing devices must identify conspicuously on each face of the dispenser(s), 
+(A) the type or identification of the product (except gasoline), and 
+(B) the grade of the product; The sale of any product under any posted grade name that indicates to the purchaser that it is of a certain automotive fuel rating or ASTM grade indicated in the posted grade name must be consistent with the applicable standard specified in OAR 603-027-0420 "Standard Fuel Specifications" unless otherwise specified in this rule, and 
+(C) the automotive fuel rating as defined in 16 CFR Part 306 if applicable. 
+(2) Automotive Gasoline and Automotive Gasoline-Oxygenate Blends: 
+(a) Posting of grade; Gasoline grades may be identified by octane or using industry standard grade names including “Unleaded”, “Mid-Grade”, and “Premium” subject to the following limitations: It is prohibited to describe a gasoline grade as; 
+(A) premium, super, supreme and high test or similar term suggesting superior performance unless it has an octane rating of at least 91, or 
+(B) midgrade or mid-grade or similar term unless it has an octane rating of at least 89, or  
+(C) regular, unleaded, or similar term unless it has an octane rating of at least 87. 
+(b) Posting of Antiknock Index Required. All automotive gasoline dispensers shall be labeled with the antiknock index in accordance with 16 CFR Part 306 in a clear and unambiguous manner.  The antiknock index or octane rating is the automotive fuel rating for gasoline as required in 16 CFR Part 306. 
+(c) Posting of Oxygenate Required;  Oxygenate label(s) shall be located on each face in the upper 50 percent of the dispenser front panels in a position clear and conspicuous from the normal customer position while fueling.  Unless otherwise specified the lettering must be in type at least 12.7 millimeters (1/2 inch) in height, 1.5 millimeter (1/16 inch) stroke (width of type). 
+(A) If the gasoline offered for sale is E10 then; 
+(i) the gasoline dispenser must be labeled with an oxygenate label stating, “CONTAINS 10% ETHANOL”, or other similar unambiguous language, and 
+(ii) the label shall not say, “Contains Up To 10% Ethanol”, “May Contain Ethanol”, or any other similar language suggesting that the gasoline offered for sale contains lessor quantities of ethanol, and 
+(iii) if a gasoline dispenser offers additional gasoline products other than E10 then the label placement must make it clear which start buttons correspond to E10 gasolines. 
+(B) If the gasoline offered for sale is E15 then an oxygenate label must be placed on the dispenser meeting all of the requirements of 40 CFR Part 1090.1510.  If a gasoline dispenser offers additional gasoline products other than E15 then the label placement must make is clear which start buttons correspond to E15 gasolines. 
+(C) If the gasoline offered for sale at retail contains at least 1.5 mass percent oxygen other than E10 (reference 603-027-0430(2)(b)(A)) or E15 (reference 603-027-0430(2)(b)(B)) then it shall be identified as “with” or “containing” (or similar wording) the predominant oxygenate present.  The oxygenate contributing the largest mass percent oxygen to the blend shall be considered the predominant oxygenate. 
+(D) If the gasoline offered for sale at retail contains more than 0.15 mass percent oxygen from methanol then it shall be identified as “with” or “containing” methanol in addition to any other applicable oxygenate labeling requirements in this section. 
+(d) If non-ethanol blended gasoline (E0), other than gasoline rated at 91 octane or higher, is offered for sale then the dispensers shall be labeled, (“NON-ETHANOL BLENDED GASOLINE FOR EXEMPTED USE ONLY (ORS 646.913)” in capital letters and type at least 12.7 millimeters (1/2 inch) in height, 1.5 millimeter (1/16 inch) stroke (width of type) located on each face and on the upper 50 percent of the dispenser front panels in a position so that it is clear and conspicuous from the normal customer position while fueling. 
+(e) Posting of Exceptions for Non-Ethanol Blended Gasoline. The exceptions for non-ethanol blended gasoline, other than 91 octane or above, shall be posted at a business, but not necessarily on the dispenser, that sells or offers for sale non-ethanol blended gasoline. The exceptions shall be posted; 
+(A) in capital letters and type at least 6.4 millimeters (1/4 inch) in height, 1 millimeter (1/32 inch) stroke (width of type), followed by, 
+
+ “NON-ETHANOL BLENDED GASOLINE FOR USE IN THE FOLLOWING APPLICATIONS ONLY;” 
+
+ (B) and in capital letters and type at least 3 millimeters (1/8 inch) in height, 0.4 millimeter (1/64 inch) stroke (width of type). 
+
+ “AIRCRAFT WITH A SUPPLEMENTAL TYPE CERTIFICATE APPROVED BY THE FEDERAL AVIATION ADMINISTRATION THAT ALLOWS THE AIRCRAFT TO USE GASOLINE THAT IS INTENDED FOR USE IN MOTOR VEHICLES; 
+AIRCRAFT ISSUED A TYPE CERTIFICATE BY AN AIRCRAFT ENGINE MANUFACTURER THAT ALLOWS THE AIRCRAFT TO USE GASOLINE THAT IS INTENDED FOR USE IN MOTOR VEHICLES; 
+
+ AN AIRCRAFT THAT HAS BEEN ISSUED AN EXPERIMENTAL CERTIFICATE, DESCRIBED IN 14 C.F.R. 21.191, BY THE FEDERAL AVIATION ADMINISTRATION AND THAT IS REQUIRED BY THE 
+MANUFACTURER’S SPECIFICATIONS TO USE GASOLINE THAT IS INTENDED FOR USE IN MOTOR VEHICLES; 
+A LIGHT-SPORT AIRCRAFT, AS DEFINED IN 14 C.F.R. 1.1, THAT IS REQUIRED BY THE MANUFACTURER’S SPECIFICATIONS TO USE GASOLINE THAT IS INTENDED FOR USE IN MOTOR VEHICLES; 
+A VINTAGE AIRCRAFT, AS DEFINED BY THE OREGON DEPARTMENT OF AVIATION BY RULE, THAT IS REQUIRED BY THE MANUFACTURER’S SPECIFICATIONS TO USE GASOLINE THAT IS INTENDED FOR USE IN MOTOR VEHICLES; 
+AN ANTIQUE VEHICLE, AS DEFINED IN ORS 801.125; 
+A CLASS I ALL-TERRAIN VEHICLE, AS DEFINED IN ORS 801.190; 
+A CLASS III ALL-TERRAIN VEHICLE, AS DEFINED IN ORS 801.194; 
+A RACING ACTIVITY VEHICLE, AS DEFINED IN ORS 801.404; 
+A SNOWMOBILE, AS DEFINED IN ORS 801.490; 
+TOOLS, INCLUDING BUT NOT LIMITED TO LAWN MOWERS, LEAF BLOWERS, AND CHAIN SAWS; OR  
+A WATERCRAFT  
+(Reference ORS 646.913)”  
+
+ (f) Use of Lead Substitute Must Be Disclosed. If lead substitute gasoline is offered for sale then the dispensing device shall display the grade name followed by "With a Lead Substitute" or similar unambiguous language (e.g. "Unleaded With Lead Substitute"). The lettering of the lead substitute declaration shall not be less than 12.7 millimeters (1/2 in) in height and 1.5 centimeters (1/16 in) stroke (width of type). The color of the lettering shall be in definite contrast to the background color to which it is applied. 
+(3) Diesel Fuel (including blends of biodiesel containing no more than 20 volume percent biodiesel and blends of biomass-based diesel): 
+(a) Diesel fuel is identified as "Diesel" (however the fuel may be identified as “Biodiesel Blend”, “Biomass-Based Diesel Blend”, or “Renewable Diesel Blend” if the identification is accurate); 
+(A) grades of diesel; 
+(i) are those identified in ASTM D975, "Standard Specification for Diesel Fuel Oils." (e.g. No. 1-D or No. 2-D) when the fuel contains no more than 5 volume percent biodiesel.  Optionally the fuel grade may be identified as “B5”. 
+(ii) the biodiesel blend (e.g. B5, B10, B20) or the blend range (e.g. B5-B20, B6-B20) if the fuel contains no more than 20 volume percent biodiesel. 
+(b) FTC Label Requirements; 
+(A) If the diesel fuel contains more than 5 volume percent biodiesel then the dispenser must also be labeled as required in 16 CFR Part 306. 
+(B) If the diesel fuel contains more than 5 volume percent biomass-based diesel then the dispenser must also be labeled as required in 16 CFR Part 306. 
+(c) Position of Labels.  Labels shall be located on each face and on the upper 50 percent of the dispenser front panels in a position clear and conspicuous from the normal customer position while fueling, in a type at least 12.7 millimeter (1/2 in) in height, 1.5 millimeter (1/16 in) stroke (width of type) unless otherwise specified. 
+(4) Winter or Winterized Diesel Fuel: In addition to the requirements of 603-027-0430(3) the fuel may be identified as “Winter Diesel” or “Winterized Diesel” provided it meets the winter diesel specification of 603-027-0420(6) and is certified as such on the product transfer documents.  The labels may be a pump topper or similar sign clearly associated with the dispenser where winterized diesel is sold. 
+(5) Premium Diesel Fuel: In addition to the requirements of 603-027-0430(3) the fuel may be identified as “Premium Diesel” or similar term suggesting superior quality provided it meets the premium diesel specification of 603-027-0420(7) and is certified as such on the product transfer documents.  The label may be a pump topper or similar sign clearly associated with the dispenser where premium diesel is sold. 
+(6) Biodiesel Blends greater than 20 volume percent:  Biodiesel Blends containing more than 20 volume percent biodiesel shall be identified as “Biodiesel Blend” or with the letter “B” followed by the volume percent biodiesel in the blend (i.e. “B99”).  Grade labeling does not apply to this fuel.  Additional Label Requirements for biodiesel blends; 
+(A) The dispenser must be labeled as required in 16 CFR Part 306 in a position clear and conspicuous from the normal customer position while fueling, and 
+(B) “Consult Vehicle Manufacturer Fuel Recommendations”, posted on the dispenser front panels in a position clear and conspicuous from the normal customer’s position in block letter type at least 6 mm (1/4 inch) in height by 0.8 mm (1/32) stroke (width of type) and the color must be in definite contrast to the background color to which it is applied 
+(7) Biomass-Based Diesel Blends:  Biomass-Based Diesel Blends are identified as “Biomass-Based Diesel Blend” or “Renewable Diesel Blend”, or “Diesel”.  Dispensers of biomass-based diesel blends are labeled as required in 603-027-0430(3). 
+(8) Aviation Gasoline shall be identified by grades as recognized in EI Standard 1542 “Identification markings for dedicated aviation fuel manufacturing and distribution facilities, airport storage and mobile fueling equipment” (July, 2012), or the appropriate ASTM standards in 603-027-0420(13). 
+(9) Ethanol Flex Fuel shall be identified as Ethanol Flex Fuel or EXX Flex Fuel, or EXX and ethanol flex fuel dispensers shall be labeled as required in 16 CFR 306 in a position clear and conspicuous from the normal customer position while fueling. 
+
+ 
+ NOTE: for E15 labeling requirements see 603-027-0430(2). 
+ 
+
+ (10) Fuel Methanol shall be identified as M85, and fuel methanol dispensers: 
+(a) shall be labeled as required by 16 CFR 306 in a in a position clear and conspicuous from the normal customer position while fueling, and 
+(b) shall be labeled “For Use in Vehicles Capable of Using M85 Only.” in a position clear and conspicuous from the normal customer position while fueling posted in the upper 50% of the dispenser front panel in a type of at least 12.7mm (1/2 in) in height, 1.5 mm (1/16 in) stroke (width of type). 
+(11) Liquefied Natural Gas (LNG) shall be identified by the term “Liquefied Natural Gas” or “LNG.”.   
+(a) FTC labeling; LNG shall be labeled as required by 16 CFR Part 306.   
+(b) Method of Sale; liquified natural gas may be sold either by  
+(A) weight, or  
+(B) by a diesel gallon equivalent (DGE) where 1 DGE is equivalent to 6.059 lb of liquified natural gas 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 561.190, ORS 646.905 - 646.990 & ORS 646.945- 646.963 
+ 
+ 
+ Statutes/Other Implemented:  ORS 561.190, ORS 646.905 - 646.990 & ORS 183 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 27-2021, amend filed 11/30/2021, effective 01/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 21-2018, amend filed 07/16/2018, effective 07/16/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 20-2018, amend filed 06/21/2018, effective 06/21/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 1-2018, temporary amend filed 01/18/2018, effective 01/18/2018 through 07/16/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 17-2016, f. & cert. ef. 8-4-16 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ DOA 24-2011, f. & cert. ef. 12-14-11 
+DOA 15-2011, f. & cert. ef. 9-9-11 
+DOA 19-2010, f. & cert. ef. 9-14-10 
+DOA 16-2009, f. 12-23-09, cert. ef. 1-1-10 
+DOA 11-2009(Temp), f. & cert. ef. 7-24-09 thru 1-17-10 
+DOA 21-2008, f. & cert. ef. 9-11-08 
+DOA 12-2008(Temp), f. 3-14-08, cert. ef. 3-17-08 thru 9-12-08 
+DOA 8-2008, f. & cert. ef. 2-15-08 
+DOA 20-2007(Temp), f. & cert. ef. 11-29-07 thru 4-11-08 
+DOA 15-2007(Temp), f. & cert. ef. 10-15-07 thru 4-11-08 
+DOA 17-2006, f. & cert. ef. 9-26-06 
+DOA 5-2002, f. & cert. ef. 1-28-02 
+AD 19-1997, f. 12-9-97, cert. ef. 1-1-98 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

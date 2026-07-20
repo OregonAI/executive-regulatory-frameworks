@@ -1,0 +1,197 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Public Utility Commission 
+ Chapter 860 
+ 
+ 
+ 
+ 
+ 
+ Division 150 Renewable Natural Gas 
+ 860-150-0200 
+ Incremental Costs 
+ 
+ (1) For the purposes of ORS 757.396, a large natural gas utility must calculate its total incremental annual cost as follows: 
+
+ (a) A large natural gas utility must apply a cost-effectiveness calculation to all RNG that the utility acquires for its retail natural gas customers. The cost-effectiveness calculation must be consistent with the methodology used to evaluate RNG resources in the utility’s most recently acknowledged integrated resource plan, or integrated resource plan update, or as the utility may otherwise be directed by order of the Commission; 
+
+ (b) For each purchase of RNG from a third party that is not cost effective according to the calculation in subsection (1)(a) of this rule, the dollar value of the difference between the levelized cost of the purchased RNG and the levelized cost of a cost-effective purchase of a comparable quantity of geologic natural gas of the same vintage and contract duration represents the incremental cost of that purchased RNG. During each year, the incremental cost of all RNG purchases will be summed to calculate their contribution toward the utility’s total annual incremental cost; 
+
+ (c) For each purchase of RNG from a third party that is cost effective according to the calculation in subsection (1)(a) of this rule, the dollar value of the difference between the levelized cost of the purchased RNG and the levelized cost of a comparable quantity of geologic natural gas of the same vintage and contract duration represents the cost savings of that purchased RNG. During each year, the cost savings of all RNG purchases will be summed and subtracted from the incremental cost of RNG purchases described in subsection (1)(c); 
+
+ (d) For each qualified investment that is not cost effective according to the calculation in subsection (1)(a) of this rule, the dollar value of the difference between the cost of the qualified investment plus operating costs associated with that investment and a cost-effective proxy resource represents the incremental cost of that qualified investment; 
+
+ (e) For each qualified investment that is cost effective according to the calculation in subsection (1)(a) of this rule, the dollar value of the difference between the cost of the qualified investment plus operating costs associated with that investment and a proxy resource represents the cost savings of that qualified investment; 
+
+ (f) During each year, the levelized incremental costs associated with   each qualified investment described in subsections (1)(d) and (1)(e) must be summed to calculate a gross total annual incremental levelized cost; and 
+
+ (g) To calculate a net total annual incremental levelized cost, a large natural gas utility must sum the value calculated according to subsection (1)(b) and the gross total annual incremental levelized cost according to subsection (1)(f), then subtract from this total any value received during that year by a large natural gas utility upon any resale of RNG to an entity other than a retail utility customer, including any associated RTCs. 
+
+ (2) The resultant net cost described in subsection (1)(d) will serve as a large natural gas utility’s total incremental annual levelized cost for the purposes of ORS 757.396 and these rules. 
+
+ (3) If a large natural gas utility’s total incremental annual levelized cost exceeds five percent of the large natural gas utility’s total revenue requirement from the utility’s normalized results of operations report that was most recently filed with the Commission, the large natural gas utility may not make another qualified investment during that year unless: 
+
+ (a)The large natural gas utility immediately files a petition with the Commission to exceed its revenue requirement cap, stating that it has exceeded or expects to exceed the five percent of total revenue requirement cap; 
+
+ (b) In its filing, the large natural gas utility shows good cause why it should continue to make qualified investments that year to meet the applicable annual RNG target volume set forth in ORS 757.396; 
+
+ (c) In its filing, the large natural gas utility identifies the number of, and associated costs for, all qualified investments made during that year as of the date of the filing; 
+
+ (d) In its filing, the large natural gas utility identifies all the qualified investments that it intends to make before the end of the year and the total anticipated costs associated with those additional investments; 
+
+ (e) In its filing, the large natural gas utility requests the Commission’s approval to continue making qualified investments during that year; and 
+
+ (f) The Commission approves the utility’s request to continue making qualified investments during that year.                                  
+
+ (4) After a large natural gas utility makes a filing pursuant to section (3), the Commission generally will consider whether to approve or deny the utility’s petition, or to conduct further investigation, within thirty days of the filing. The Commission may consider comments on the petition from interested persons that are filed within fifteen days of the utility’s petition. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 756, 757 
+ 
+ 
+ Statutes/Other Implemented:  ORS 757.396 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 5-2020, adopt filed 07/17/2020, effective 07/17/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

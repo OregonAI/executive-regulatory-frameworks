@@ -1,0 +1,188 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 316 PERSONAL INCOME TAX GENERAL PROVISIONS 
+ 150-316-0165 
+ Gross Income of Nonresidents; Personal Services 
+ 
+ (1) Personal service.  (a) Except as provided in section (2) of this rule, the gross income of a nonresident (who is not engaged in the conduct of the nonresident's own trade or business, but receives compensation for services as an employee) includes compensation for personal services only to the extent that the services were performed in this state.  (b) Compensation for personal services performed by a nonresident employee wholly outside this state and in no way connected with the management or conduct of a business in this state is excluded from gross income. This compensation is excluded even if payment is made from a point within this state or the employer is a resident individual, partnership, or corporation.  (c) Compensation for personal services performed by a nonresident wholly within this state is included in gross income although payment is received at a point outside this state or from a nonresident individual, partnership, or corporation.  (2) Exception: Various federal laws affecting certain nonresidents are explained separately. See OAR 150-316-0173 or 150-316-0185.  (3) Allocation of personal services.  (a) Where compensation is received for personal services that are performed partly within and partly without this state, that part of the income allocable to this state is included in gross income. In general, income is allocable to this state to the extent the employee is physically present in this state at the time the service is performed. Physical presence is determined by the actual physical location of the employee performing the services and not by the location of the employer or the location where compensation is paid. Employees who work in Oregon and at an alternate work site located outside of Oregon may allocate their compensation under the provisions of this rule.  Example 1: Dick, a nonresident, works as a medical transcriptionist for an Oregon employer. During the year, Dick spends about 80 percent of his time working from his home in Washington. Dick spends the remainder of his work time in the Portland office. Only the time Dick spends at the Portland office is considered time worked in Oregon.  (A) The gross income from commissions earned by a nonresident for services performed or sales made, (whose compensation is a specified commission on each sale made or services performed), includes the specific commissions earned on sales made or services performed in this state. Allowable deductions must be computed on the same basis.  (B) If nonresident employees work within and without this state, the portion of total compensation for personal services allocable to Oregon is the total number of actual working days employed within the state divided by the total number of working days both within and without the state.  (C) If nonresident employees work part of a day in Oregon and part of a day outside Oregon, the portion of total compensation for personal services allocable to Oregon is the number of hours worked in Oregon divided by the total number of hours worked within and without the state.  Example 2: Rod is a nonresident of Oregon. He works for ACE Cell Tower, Inc and is paid to work 40 hours each week. Some days he works both in Oregon and Idaho. Rod earned $64,000 in 2012. Rod’s employer requires him to keep a detailed log of his travel. At the end of 2012 he had worked a total of 1,850 hours and his log and information from his employer shows that 962 of those hours were worked in Oregon. His compensation taxable to Oregon is computed as follows:  Hours worked in Oregon -- divided by -- Total hours worked x Total compensation = Oregon compensation  0.520 (962 hours divided by 1,850 hours) x $64,000 = $33,280  Rod’s compensation subject to Oregon tax is $33,280.  (D) If the employees are paid on a mileage basis, the gross income from sources within this state includes that portion of the total compensation for personal services which the number of miles traveled in Oregon bears to the total number of miles traveled within and without the state.  (E) If the employees are paid on some other basis, the total compensation for personal services must be apportioned between this state and other states and foreign countries in such a manner as to allocate to Oregon that portion of the total compensation which is reasonably attributable to personal services performed in this state.  (b) The gross income of all other nonresident employees, including corporate officers, includes that portion of the total compensation for services which the total number of actual working days employed within this state bears to the total number of actual working days employed both within and without this state during the taxable period.  Example 3: Jan is a nonresident of Oregon. She works for A Corp. Jan manages offices in Oregon and Washington. A Corp. pays her a salary of $30,000 for the management of both offices. She worked in Oregon 132 days. She would figure her compensation subject to Oregon tax as follows:  Days worked in Oregon — divided by — Total days worked x Total compensation = Oregon compensation  0.600 (132 days divided by 220 days) x $30,000 = $18,000  Jan's compensation subject to Oregon tax is $18,000.  An exception to this general rule is made when the compensation is received for performance of services that, by their nature, have an objective or an effect that takes place within this state. In the case of corporate officers and executives who spend only a portion of their time within this state, but whose compensation paid by a corporation operating in Oregon is exclusively for managerial services performed by such officers and executives, the entire amount of compensation so earned is taxable without apportionment.  Example 4: Cade is a nonresident of Oregon. He works for Best Engineering. Cade manages Best Engineering's only office, which is located in Oregon. Best Engineering pays him a salary exclusively for managerial services in the total amount of $58,000. Even though Cade may perform some administrative duties from his home, the compensation he receives is for managing the Oregon office. The entire $58,000 is taxable to Oregon.  (c) Total compensation for personal services includes sick leave pay, holiday pay, and vacation pay. Sick leave days, holidays, and vacation days are not considered actual working days either in or out of this state and are to be excluded from the calculation of the portion of total compensation for personal services taxable to this state.  Example 5: Joan is a nonresident of Oregon. She actually worked a total of 220 days during the year and was paid for 40 non-working days (holidays, sick days and vacation days). She worked 110 days in Oregon. Her compensation (including compensation for holidays, sick leave and vacations) was $26,000. She would figure her compensation subject to Oregon tax as follows:  Days worked in Oregon — divided by — Total days worked x Total compensation = Oregon compensation  0.500 (110 days divided by 220 days) x $26,000 = $13,000  Joan’s compensation subject to Oregon tax is $13,000.  (d) Payment in forms other than money. Total compensation for personal services includes amounts paid in a form other than money. To the extent the payments are recognized as compensation income for federal income tax purposes, the payments will be recognized as compensation income for Oregon tax purposes and must be apportioned as provided in section (3) of this rule. Examples include but are not limited to, non-statutory stock options, taxable fringe benefits such as personal use of a business asset, and employer-paid membership fees.  (A) Non-statutory stock options with a readily ascertainable fair market value. Compensation income will be allocated to Oregon in the year an option is required to be reported on the federal return if a nonresident taxpayer performed services in connection with the grant of such option in Oregon during the year in which the option was granted and:  (i) Is required to report under IRC section 83(a) as compensation income the value of a non-statutory stock option granted in connection with the performance of services that has a "readily ascertainable fair market value," as described in Treasury Regulation 1.83-7(b), as of the date the option was granted; or  (ii) Elects under IRC 83(b) to report the value of such an option as of the date the option was granted. If a nonresident taxpayer performed personal services partly within and partly without Oregon in the year in which the option was granted, the taxpayer must use the allocation applied to the taxpayer's other compensation under section (3) of this rule for the tax year in which the option was granted and apply that ratio to the compensation income required to be reported on the federal return. For example, if the taxpayer allocates his income under subsection (3)(a) of this rule and worked 25 percent of his time in Oregon during the year the option was granted, he must include in Oregon income 25 percent of the compensation income related to the option included in federal taxable income. Generally, Oregon will not tax the subsequent gain or loss on the sale of the stock unless the stock has acquired a business situs in Oregon. See OAR 150-316-0171.  (B) Non-statutory stock options without a readily ascertainable fair market value that are taxable at exercise, or in a pre-exercise disposition. If a non-statutory stock option granted in connection with performance of services that does not have a readily ascertainable fair market value at the date of the grant is recognized as compensation income for federal tax purposes and the taxpayer worked in Oregon during the year the option was granted, the taxpayer must allocate the compensation related to the option to Oregon in the same year it is taxable for federal purposes. The income that is recognized for federal purposes must be allocated to Oregon if the taxpayer worked in Oregon during the tax year the option was granted. Compute the amount of compensation includable in Oregon source income using the following formula:  Total days worked in Oregon from date of grant to date of federal recognition — divided by — Total days worked everywhere from date of grant to date of federal recognition x Compensation related to option exercise = Amount taxable by Oregon  Any further appreciation or depreciation in the value of the stock after the date of exercise represents investment income or loss and is not includable in the Oregon source income of a nonresident unless the stock acquired a business situs in Oregon (see OAR 150-316-0171).  (C) Treatment of taxable fringe benefits. Income recognized for federal purposes must be allocated to Oregon if the nonresident worked in Oregon during the tax year the benefit was received. The nonresident must use the same allocation rules applicable to the taxpayer's other compensation under section (3) of this rule to the taxable fringe benefits. For example, if the taxpayer allocates his income under subsection (3)(a) of this rule and worked 55 percent of his time in Oregon, 55 percent of the amount of the taxable fringe benefit that is included in federal taxable income is included in Oregon taxable income.  (e) Unemployment compensation. Total compensation includes unemployment compensation benefits to the extent the benefits pertain to the individual's employment in Oregon. If unemployment compensation benefits are received by a nonresident for employment in Oregon and in one or more other states, the unemployment compensation benefits must be apportioned to Oregon using any method that reasonably reflects the services performed in Oregon.  Example 6: Gary, a nonresident, worked in Oregon and Washington for the last 5 years. On January 1, 2014, he was laid off by his employer and received unemployment compensation of $2,000. Gary may use the Oregon wages as a percentage of total wages reported on his nonresident tax return for the prior year (2013) to determine the percentage of unemployment benefits to be included in Oregon income for 2014. In 2013, Gary earned a total of $40,000 of which $26,000 was earned in Oregon. The unemployment compensation taxable to Oregon is $1,300, computed as follows:  Oregon prior year wages — divided by — Total prior year wages x Total current year unemployment compensation = Oregon unemployment compensation 0.650 ($26,000 divided by $40,000) x $2,000 = $1,300. Oregon will tax $1,300 of Gary's unemployment compensation even though he received it in a tax year when he did not work in Oregon because the unemployment compensation is based on Oregon employment. He may not allocate the unemployment based on time worked in Oregon in 2014 because it does not reasonably reflect services performed in Oregon.  (f) Severance pay. Compensation includes severance pay to the extent the pay is attributable to services performed in Oregon. For purposes of this rule, "severance pay" means compensation payable on voluntary termination or involuntary termination of employment based on length of service, a percentage of final salary, a contract between the employer and the employee, a lump sum payment based on accumulated paid leave, or some other method but does not include "retirement income" as defined in ORS 316.127(9). If severance pay is received for employment within and without Oregon, the severance pay is allocated to Oregon using any method that reasonably reflects the services performed in Oregon. For lump sum payments based on accumulated leave, leave allocated to Oregon will be calculated using a first-in-first-out (FIFO) method, unless documentation establishes that another method of allocation more reasonably reflects the services performed in Oregon. Severance pay and other similar distributions are taxable to Oregon even though a taxpayer received it in a tax year when the taxpayer did not work in Oregon if the severance pay is based on Oregon employment.  Example 7: JT, a nonresident, worked for Plumbing Inc. for twenty years: eight years in Idaho and twelve years in Oregon. At the end of his 20th year, Plumbing Inc. reorganized and eliminated JT’s position. Because of JT’s loyalty to the company for his twenty years of service, the company gave JT a lump-sum payment of $36,000. This lump-sum was based on 3 percent of his final annual salary ($60,000 x 3% = $1,800) multiplied by his number of years of service (20). The lump-sum payment was made because of prior services, thus it is allocable to Oregon to the extent the services were performed in Oregon. JT will include $36,000 in federal taxable income and $21,600 in Oregon taxable income, computed as follows:  Years worked in Oregon for company — divided by — Total years worked for company x Total compensation = Oregon compensation 0.600 (12 years divided by 20 years) x $36,000 = $21,600  Example 8: Shawn, a nonresident, worked in Oregon for XYZ Foods, Inc. for six years before resigning from the company. XYZ Foods, Inc. and Shawn entered into a termination agreement that provided $25,000 for Shawn to release a specific claim he may have against the company for wrongful termination or other potential claims. The termination agreement also provided $10,000 to require that Shawn not work for any other food chain within a 100 mile radius of XYZ Foods, Inc. for a period of 36 months. No employment agreement, benefit plan, or any facts or circumstances indicate that Shawn is entitled to a payment for services he performed prior to resigning from the company. The payment that Shawn receives pursuant to the termination agreement is in exchange for the release of the wrongful termination claim and the covenant not to compete and is not allocable to Oregon because it is not based on services performed in Oregon.  Example 9: Assume the same facts in Example 8 except that the termination agreement also provided for a lump-sum payment of one month's salary per year worked ($30,000) in addition to a $25,000 payment for release of a wrongful termination claim and $10,000 payment for the covenant not to compete. No employment agreement, benefit plan, or other agreement indicates that Shawn is entitled to a payment for services he performed prior to resigning from the company. The $25,000 payment for the release of the wrongful termination claim and the $10,000 payment for the covenant not to compete are not allocable to Oregon because neither is based on services performed in Oregon. The $30,000 lump-sum cash payment based on Shawn's salary and years of service associates the payment with the employer-employee relationship. It is 100 percent allocable to Oregon because Shawn worked in Oregon and the facts and circumstances indicate that it is paid because of prior performance of services and no other reason.  Example 10: Natalie, a nonresident, worked for Chocolate Inc. for 14 years: 12 years and 8 months in Idaho and in Oregon for the last 16 months of her employment with the company. Upon her resignation, her hourly wage was $20 and she had 400 hours of paid vacation leave available. Natalie received 8 hours of paid vacation leave per month, her 400 hours of leave represents 50 months of work (400/8=50). Chocolate Inc paid a lump sum payment for her accumulated and accrued vacation leave balance of 400 hours- totaling $8,000. Using the first-in-first-out method of allocation, the 400 hours in her leave balance when she terminated will be treated as having been earned in her most recent 50 months of employment; 34 months in Idaho (68%) and 16 months in Oregon (32%). Natalie will include in the Oregon column of her Oregon nonresident return all of her wages from Chocolate Inc for the year and $2,560 ($8,000 x 32%) of the lump sum payment. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 
+ 
+ 
+ Statutes/Other Implemented:  ORS 316.127 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 150-316.127-(A), REV 62-2016, f. 8-15-16, cert. ef. 9-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ REV 1-2014, f. & cert. ef. 7-31-14 
+REV 4-2009, f. & cert. ef. 7-31-09 
+REV 1-2006, f. & cert. ef. 1-20-06 
+REV 12-2000, f. 12-29-00, cert. ef. 12-31-00 
+REV 7-1998, f. 11-13-98 cert. ef. 12-31-98 
+RD 3-1995, f. 12-29-95, cert. ef. 12-31-95 
+RD 5-1994, f. 12-15-94, cert. ef. 12-31-94 
+RD 9-1992, f. 12-29-92, cert. ef. 12-31-92 
+RD 7-1991, f. 12-30-91, cert. ef. 12-31-91 
+RD 12-1990, f. 12-20-90, cert. ef. 12-31-90 
+RD 7-1989, f. 12-18-89, cert. ef. 12-31-89 
+12-31-87, Renumbered from 150-316.127 to 150-316.127-(A) 
+12-31-85 
+12-31-84, Renumbered from 150-316.127(1) to 150-316.127 
+12-31-81 
+1-1-77 
+12-19-75 
+11-73 
+1-69
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

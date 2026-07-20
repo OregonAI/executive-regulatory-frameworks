@@ -1,0 +1,610 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 141 OREGON HEALTH PLAN 
+ 410-141-3515 
+ Network Adequacy 
+ 
+ (1) CCOs shall maintain and monitor a network of participating providers that is sufficient in number, provider type, and geographic distribution to ensure adequate service capacity and availability to provide available and timely access to medically appropriate and culturally responsive covered services to both current members and those the CCO anticipate shall become enrolled as members. 
+
+ (2) The CCO shall develop a provider network that enables members to access services within the standards defined in this rule. 
+
+ (3) The CCO shall meet access-to-care standards that allow for appropriate choice for members. Services and supports shall be as close as possible to where members reside and, to the extent necessary, offered in nontraditional settings that are accessible to families, diverse communities, and underserved populations. 
+
+ (4) CCOs shall meet quantitative network access standards defined in rule and contract. 
+
+ (5) CCOs shall ensure access to integrated and coordinated care as outlined in OAR 410-141-3860, which includes access to a primary care provider or primary care team that is responsible for coordination of care and transitions. 
+
+ (6) In developing its provider network, the CCOs shall anticipate access needs so that the members receive the right care at the right time and place, using a patient-centered, trauma informed approach. The provider network shall support members, especially those with behavioral health conditions, in the most appropriate and independent setting, including in their own home or independent supported living. 
+
+ (7) In assessing the capacity and adequacy of its provider network, CCOs shall consider, in conjunction with the quantitative standards set forth in this rule, the variety of provider and facility types with the demonstrated ability and expertise to render specific medically or dentally appropriate covered services within the scope of applicable licensing and credentialling. This includes, but is not limited to, the prescribing of Medication-Assisted Treatment and more specialized oral health care services. 
+
+ (8) All CCOs shall ensure 95 percent of members can access the following provider and facility types, further defined by the Authority in guidance made available on the CCO Contracts Forms webpage https://www.oregon.gov/oha/HSD/OHP/Pages/CCO-Contract-Forms.aspx, within acceptable travel time or distance standards set forth this rule: 
+
+ (a) Tier one: 
+
+ (A) Primary care providers serving adults and those serving pediatrics; 
+
+ (B) Primary care dentists serving adults and those serving pediatrics; 
+
+ (C) Mental health providers serving adults and those serving pediatrics; 
+
+ (D) Substance use disorder providers serving adults and those serving pediatrics; 
+
+ (E) Pharmacy; 
+
+ (F) Additional provider types when it promotes the objectives of the Authority or as required by legislation. 
+
+ (b) Tier two: 
+
+ (A) Obstetric and gynecological service providers; 
+
+ (B) The following specialty providers, serving adults and those serving pediatrics; 
+
+ (i) Cardiology; 
+
+ (ii) Neurology; 
+
+ (iii) Occupational Therapy; 
+
+ (iv) Medical Oncology; 
+
+ (v) Radiation Oncology; 
+
+ (vi) Ophthalmology; 
+
+ (vii) Optometry; 
+
+ (viii) Physical Therapy; 
+
+ (ix) Podiatry; 
+
+ (x) Psychiatry; 
+
+ (xi) Speech Language Pathology. 
+
+ (C) Hospital; 
+
+ (D) Durable medical equipment; 
+
+ (E) Methadone Clinic; 
+
+ (F) Additional provider types when it promotes the objectives of the Authority or as required by legislation. 
+
+ (c) Tier three: 
+
+ (A) The following specialty providers, serving adults and those serving pediatrics; 
+
+ (i) Allergy & Immunology; 
+
+ (ii) Dermatology; 
+
+ (iii) Endocrinology; 
+
+ (iv) Gastroenterology; 
+
+ (v) Hematology; 
+
+ (vi) Nephrology; 
+
+ (vii) Otolaryngology; 
+
+ (viii) Pulmonology; 
+
+ (ix) Rheumatology; 
+
+ (x) Urology. 
+
+ (B) Post-hospital skilled nursing facilities; 
+
+ (C) Additional provider types when it promotes the objectives of the Authority or as required by legislation. 
+
+ (9) All CCO acceptable travel time and distance monitoring must assess the geographic distribution of providers relative to members and calculate driving time and distance from the member’s physical address to the provider’s location through the use of geocoding software or other mapping applications. The Authority shall provide tools and additional guidance specific to time and distance monitoring on the CCO Contracts Forms webpage https://www.oregon.gov/oha/HSD/OHP/Pages/CCO-Contract-Forms.aspx. 
+
+ (a) A CCO service area may contain multiple geographic designations. When calculating travel time and distance, geographic designations must not overlap and the following definitions of geographic designations shall apply: 
+
+ (A) Large urban area: Conjoined urban areas with a total population of at least 1 million people or with a population density greater than 1,000 people per square mile. 
+
+ (B) Urban area: An area with greater than 40,000 people within a 10 mile radius of a city center. 
+
+ (C) Rural area: An area greater than 10 miles from the center of an urban area. 
+
+ (D) County with extreme access considerations: County with a population density of 10 or fewer people per square mile. 
+
+ (b) When calculating travel time and distance, CCOs shall use the following standards: 
+
+ (A) Large Urban Area: 
+
+ (i) Tier one: 10 minutes or 5 miles; 
+
+ (ii) Tier two: 20 minutes or 10 miles; 
+
+ (iii) Tier three: 30 minutes or 15 miles. 
+
+ (B) Urban Area: 
+
+ (i) Tier one: 25 minutes or 15 miles; 
+
+ (ii) Tier two: 30 minutes or 20 miles; 
+
+ (iii) Tier three: 45 minutes or 30 miles. 
+
+ (C) Rural Area: 
+
+ (i) Tier one: 30 minutes or 20 miles; 
+
+ (ii) Tier two: 75 minutes or 60 miles; 
+
+ (iii) Tier three: 110 minutes or 90 miles. 
+
+ (D) County with Extreme Access Considerations: 
+
+ (i) Tier one: 40 minutes or 30 miles; 
+
+ (ii) Tier two: 95 minutes or 85 miles; 
+
+ (iii) Tier three: 140 minutes or 125 miles. 
+
+ (10) CCOs may request an exception to a standard set in (8) and (9) of this rule. CCOs may request multiple exceptions. 
+
+ (a) Exception requests must be submitted in a format provided by the Authority and made available on the CCO Contract Forms webpage https://www.oregon.gov/oha/HSD/OHP/Pages/CCO-Contract-Forms.aspx. 
+
+ (b) The Authority shall review and approve or deny exception requests based on criteria made available on the CCO Contracts Forms webpage. Approved exceptions must be reviewed at least annually. 
+
+ (11) OHA may grant exceptions to the standards set in (8) and (9) of this rule when enrollment capacity is increased. 
+
+ (12) CCOs shall have an access plan that establishes a protocol for monitoring and ensuring access, outlines how provider capacity is determined, and establishes procedures for monthly monitoring of capacity and access and for improving access and managing access in times of reduced participating provider capacity. The access plan and associated monitoring protocol shall address the following: 
+
+ (a) Expected utilization of services based on anticipated member enrollment and health care needs of the member population; 
+
+ (b) The number and types of providers required to furnish the contracted services based on the expected utilization of services referenced above and the number and types of providers actively providing services within the CCO’s current provider network; 
+
+ (c) How the CCO shall meet the accommodation and language needs of individuals with LEP as defined in OAR 410-141-3500 and people with disabilities in their service area in compliance with state and federal rules including but not limited to ORS 659A, Title VI of the Civil Rights Act of 1964, Section 1557 of the Affordable Care Act, the Americans with Disabilities Act, and Section 504 of the Rehabilitation Act of 1973; 
+
+ (d) The availability of telemedicine within the CCO’s contracted provider network. 
+
+ (13) CCOs shall make the services it provides (including primary care, specialists, pharmacy, hospital, vision, ancillary, and behavioral health services or other services as necessary to achieve compliance with the requirements of 42 CFR 438, subpart K) as accessible to members for timeliness, amount, duration, and scope as those services are to other patients within the same service area. If the CCO is unable to provide those services through the use of participating providers qualified and specialized to treat a member’s condition, it must arrange for the member to access care from non-participating providers as geographically close to the member as possible, including providers outside the service area. 
+
+ (14) CCOs shall have policies and procedures and a monitoring system to ensure that members who are aged, blind, or disabled, or who have complex or high health care needs, multiple chronic conditions, or have behavioral health conditions, or who are children receiving Department or Oregon Youth Authority (OYA) services have access to primary care, oral care (when the CCO is responsible for oral care), behavioral health providers, and referral, and involve those members in accessing and managing appropriate preventive, health, remedial, and supportive care and services. CCOs shall monitor and have policies and procedures to ensure: 
+
+ (a) Access to providers of pharmacy, hospital, vision, ancillary, and behavioral health services; 
+
+ (b) Priority access for pregnant women and children ages birth through five (5) years to health services, developmental services, early intervention, targeted supportive services, oral and behavioral health treatment. 
+
+ (15) CCOs shall have policies and procedures that ensure scheduling and rescheduling of member appointments are appropriate to the reasons for and urgency of the visit. The member shall be seen, treated, or referred within the following timeframes: 
+
+ (a) Physical health: 
+
+ (A) Emergency care: Immediately or referred to an emergency department depending on the member’s condition; 
+
+ (B) Urgent care: Within 72 hours or as indicated in initial screening and in accordance with OAR 410-141-3840; 
+
+ (C) Well care: Within four (4) weeks, or as otherwise required by applicable care coordination rules, including OAR 410-141-3860 through 410-141-3870. 
+
+ (b) Oral and Dental care for children and non-pregnant individuals: 
+
+ (A) Dental Emergency services as defined in OAR 410-120-0000: Seen or treated within 24 hours; 
+
+ (B) Urgent dental l care: Within two (2) weeks; 
+
+ (C) Routine oral care: Within eight (8) weeks, unless there is a documented special clinical reason that makes a period of longer than eight (8) weeks appropriate. 
+
+ (c) Oral and Dental care for pregnant individuals: 
+
+ (A) Dental Emergency services. Seen or treated within 24 hours; 
+
+ (B) Urgent dental care, within one (1) week; 
+
+ (C) Routine oral care: Within four (4) weeks, unless there is a documented special clinical reason that must make access longer than four (4) weeks appropriate. 
+
+ (d) Behavioral health: 
+
+ (A) Urgent behavioral health care for all populations: Within 24 hours; 
+
+ (B) Specialty behavioral health care for priority populations: 
+
+ (i) In accordance with the timeframes listed in this rule for assessment and entry, terms are defined in OAR 309-019-0105, with access prioritized per OAR 309-019-0135. If a timeframe cannot be met due to lack of capacity, the member must be placed on a waitlist and provided interim services within 72 hours of being put on a waitlist. Interim services must be comparable to the original services requested based on the level of care and may include referrals, methadone maintenance, HIV/AIDS testing, outpatient services for substance use disorder, risk reduction, residential services for substance use disorder, withdrawal management, and assessments or other services described in OAR 309-019-0135; 
+
+ (ii) Pregnant women, veterans and their families, women with children, unpaid caregivers, families, and children ages birth through five years, individuals with HIV/AIDS or tuberculosis, individuals at the risk of first episode psychosis and the I/DD population: Immediate assessment and entry. If interim services are necessary due to capacity restrictions, treatment at appropriate level of care must commence within 120 days from placement on a waitlist; 
+
+ (iii) IV drug users including heroin: Immediate assessment and entry. Admission for treatment in a residential level of care is required within fourteen (14) days of request, or, if interim series are necessary due to capacity restrictions, admission must commence within 120 days from placement on a waitlist; 
+
+ (iv) Opioid use disorder: Assessment and entry within 72 hours; 
+
+ (v) Medication assisted treatment: As quickly as possible, not to exceed 72 hours for assessment and entry; 
+
+ (vi) Children with serious emotional disturbance as defined in OAR 410-141-3500: Any limits that the Authority may specify in the contract or in sub regulatory guidance. 
+
+ (C) Routine behavioral health care for non-priority populations: Assessment within seven days of the request, with a second appointment occurring as clinically appropriate. 
+
+ (16) CCOs shall implement procedures for communicating with and providing care to members who have difficulty communicating due to a medical condition, who need accommodation due to a disability, or, as detailed in OAR chapter 950, division 050 for those who have Limited English Proficiency, prefer to communicate in a language other than English or who communicates in signed language. 
+
+ (a) The policies and procedures shall ensure the provision of Oregon certified or Oregon qualified interpreter services by phone or in person anywhere the member is attempting to access care or communicate with the CCO or its representatives; 
+
+ (b) CCOs shall ensure the provision of certified or qualified interpreter services for all covered services to interpret for members with hearing impairment or in the primary language of non-English-speaking members; 
+
+ (c) All interpreters must be linguistically appropriate and capable of communicating in both English and the member’s primary language and be able to translate clinical information effectively. Interpreter services must enable the provider to understand the member’s complaint, make a diagnosis, respond to the member’s questions and concerns, and communicate instructions to the member; 
+
+ (d) CCOs shall ensure the provision of services that are culturally appropriate as described in National CLAS Standards, demonstrating both awareness for and sensitivity to cultural differences and similarities and the effect on the member’s care. CCOs shall ensure the provision of Oregon certified or Oregon qualified interpreters. 
+
+ (e) CCOs shall comply with requirements of the Americans with Disabilities Act of 1990, as amended via the ADA Amendments Act of 2008, in providing access to covered services for all members and shall arrange for services to be provided by non-participating providers when necessary; 
+
+ (f) CCOs shall collect and actively monitor data on language accessibility to ensure compliance with these language access requirements; 
+
+ (g) CCOs shall report to the Authority such language access data and other language access related analyses in the form and manner set forth in this rule and as may otherwise be required in the CCO contract. The Authority shall provide supplemental instructions about the use of any required forms: 
+
+ (A) Using the interpreter services self-assessment reporting template provided by the Authority, CCOs shall conduct an annual language access self-assessment and submit the completed language access self-assessment to the Authority on or before the third Monday of each January; 
+
+ (B) CCOs shall collect and report language access and interpreter services to the Authority using the report form provided by the Authority. The due dates for the report are April 1 and October 1 in each calendar year. Each report shall include data for the twelve (12) months ending one quarter before the due date. 
+
+ (C) CCOs shall complete and submit to the Authority any other language access reporting that may be required in the CCO contract. 
+
+ (17) CCOs shall collect and actively monitor data on provider-to-enrollee ratios, interpretation utilization by the CCO and the CCO’s provider network, travel time and distance to providers, percentage of contracted providers accepting new members, wait times to appointment (including specific data for behavioral health wait times), and hours of operation. CCOs shall also collect and actively monitor data on call center performance and accessibility for both member services and NEMT brokerage services call centers. 
+
+ (18) CCOs must submit a Delivery System Network (DSN) report annually to the Authority that includes access data and other access-related analyses in the form and manner required by the Authority, including but not limited to capacity reports on: 
+
+ (a) Behavioral health access; 
+
+ (b) Interpreter utilization by the CCO’s provider network; 
+
+ (c) Behavioral health provider network. 
+
+ (19) CCOs shall report the methodology for monitoring network adequacy to the Authority and the Authority-contracted External Quality Review Organization (EQRO). 
+
+ (20) CCOs shall implement and require its providers to adhere to the following appointment and wait time requirements: 
+
+ (a) A member may request to reschedule an appointment if the wait time for a scheduled appointment exceeds 30 minutes. If the member requests to reschedule, they must not be penalized for failing to keep the appointment; 
+
+ (b) CCOs shall implement written procedures and a monitoring system for timely follow-up with members when a participating provider has notified the CCO that the member failed to keep scheduled appointments. The procedures shall address: 
+
+ (A) Timely rescheduling of missed appointments, as deemed medically appropriate; 
+
+ (B) Documentation in the clinical record or non-clinical record of missed appointments; 
+
+ (C) Recall or notification efforts; and 
+
+ (D) Method of member follow-up. 
+
+ (c) If failure to keep a scheduled appointment is a symptom of the member’s diagnosis or disability or is due to lack of transportation to the CCO’s participating provider office or clinic, or lack of interpreter services, CCOs shall provide outreach services and offer Care Coordination as medically appropriate to make a plan with the member to resolve barriers; 
+
+ (d) Recognition of whether NEMT services were the cause of the member’s missed appointment. 
+
+ (21) CCOs shall assess the needs of their membership and make available supported employment and Assertive Community Treatment services when members are referred and eligible: 
+
+ (a) CCOs shall report the number of individuals who receive supported employment and assertive community treatment services, at a frequency to be determined by the Authority. When no appropriate provider is available, the CCO shall consult with the Authority and develop an approved plan to make supported employment and Assertive Community Treatment (ACT) services available; 
+
+ (b) If ten (10) or more members in a CCO region have been referred, are eligible, and are appropriate for assertive community treatment, and have been on a waitlist to receive ACT for more than thirty (30) days, CCOs shall notify the Authority and take action to reduce the waitlist and serve those individuals by: 
+
+ (A) Increasing team capacity to a size that is still consistent with fidelity standards; or 
+
+ (B) Adding additional Assertive Community Treatment teams; or 
+
+ (C) When no appropriate ACT provider is available, the CCO shall consult with the Authority and develop an approved plan to increase capacity and add additional teams. 
+
+ (22) HRSN Service Provider Minimum Network Requirements. 
+
+ (a) A CCO must offer HRSN Services in all service areas in which the CCO operates. 
+
+ (b) The CCO must ensure that HRSN Services are delivered to Members within the timelines outlined in OAR 410-120-2020. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042, 414.572, 414.591 & 414.605 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.570 - 414.686 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 28-2026, amend filed 06/30/2026, effective 07/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 101-2025, temporary amend filed 12/30/2025, effective 01/02/2026 through 06/30/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 40-2025, amend filed 04/25/2025, effective 05/01/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 143-2024, amend filed 12/29/2024, effective 01/01/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 130-2024, amend filed 10/24/2024, effective 11/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 35-2024, amend filed 01/22/2024, effective 01/22/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 86-2023, amend filed 12/13/2023, effective 01/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 89-2022, amend filed 12/16/2022, effective 01/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 60-2022, amend filed 06/24/2022, effective 07/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 56-2021, amend filed 12/30/2021, effective 01/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 62-2020, amend filed 12/16/2020, effective 01/01/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 55-2019, adopt filed 12/17/2019, effective 01/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

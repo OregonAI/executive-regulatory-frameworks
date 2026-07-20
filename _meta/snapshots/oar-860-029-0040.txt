@@ -1,0 +1,320 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Public Utility Commission 
+ Chapter 860 
+ 
+ 
+ 
+ 
+ 
+ Division 29 REGULATIONS RELATED TO AGREEMENTS BETWEEN ELECTRIC UTILITIES AND ELECTRIC COGENERATION AND SMALL POWER PRODUCTION FACILITIES 
+ 860-029-0040 
+ Rates for Purchases
+ 
+ 
+ (1) Rates for purchases by public utilities must: 
+
+ (a) Be just and reasonable to the public utility’s customers and in the public interest; and 
+
+ (b) Be in accordance with this rule, regardless of whether the public utility making such purchases is simultaneously making sales to the qualifying facility. 
+
+ (2) Establishing rates: 
+
+ (a) Except for qualifying facilities in existence before November 8, 1978, and except when a public utility fails to make a good faith effort to comply with the request from a qualifying facility to wheel, a purchase rate satisfies the requirements of section (1) of this rule if the rate equals the avoided costs after consideration of the factors set forth in section (5) of this rule. 
+
+ (b) If a public utility fails to make a good faith effort to comply with the request from a qualifying facility to wheel, the public utility must purchase at a rate which is the public utility’s avoided cost or the index rate, whichever is higher. A good faith effort will be demonstrated by the public utility’s publication of a generally applicable reasonable policy of the public utility to use the public utility’s transmission facilities on a cost-related basis. 
+
+ (c) When the purchase rates are based upon estimates of avoided costs over a specific term of the contract or other legally enforceable obligation, the rates do not violate these rules if any payment under the obligation differs from avoided costs. 
+
+ (d) Nothing in these rules will be construed as requiring payment of avoided-cost prices to qualifying facilities in existence before November 1978, provided, however, that prices for such purchases shall be sufficient to encourage continued power production. 
+
+ (3) Rates for purchases — time of calculation: Each qualifying facility has the option to: 
+
+ (a) Provide nonfirm energy as the qualifying facility determines such energy to be available for such purchases, in which case the rates for such purchases must be based on the purchasing public utility’s nonfirm energy avoided cost or if subsection (2)(b) of this rule is applicable, in effect when the energy is delivered; or 
+
+ (b) Provide firm energy and/or capacity pursuant to a legally enforceable obligation for the delivery of energy and/or capacity over a specified term, in which case the rates for purchases must be based on: 
+
+ (A) The avoided costs calculated at the time of delivery, or, if subsection (2)(b) of this rule is applicable, the index rate in effect at the time of delivery; or 
+
+ (B) At the election of the qualifying facility, exercised at the time the obligation is incurred, the avoided costs, or the index rate then in effect if subsection (2)(b) of this rule is applicable, projected over the life of the obligation and calculated at the time the obligation is incurred. 
+
+ (4) Standard rates for purchases shall be implemented as follows: 
+
+ (a) In the same manner as rates are published for electricity sales, each public utility shall file with the Commission, within 30 days of Commission acknowledgement of its integrated resource plan, standard rates for purchases from eligible qualifying facilities to become effective 30 days after filing. The publication shall contain all the terms and conditions of the purchase. 
+
+ (b) If a public utility fails to make a good faith effort to comply with the request from a qualifying facility to wheel, the public utility shall purchase at a rate which is the public utility’s standard rate or the index standard rate, whichever is higher. A good faith effort shall be demonstrated by the public utility’s publication of its generally accepted reasonable policy to use the public utility’s transmission facilities on a cost-related basis. 
+
+ (c) The public utility’s standard rate may differentiate among qualifying facilities using various technologies on the basis of the supply characteristics of the different technologies. 
+
+ (5) Factors affecting rates for purchases: In determining avoided costs and for determining the index rate the following factors will, to the extent practicable, be taken into account: 
+
+ (a) The data provided pursuant to OAR 860-029-0080(3) and the Commission’s evaluation of the data; and 
+
+ (b) The availability of energy or capacity from a qualifying facility during the system daily and seasonal peak periods, including: 
+
+ (A) The ability of the public utility to dispatch output of the qualifying facility; 
+
+ (B) The expected or demonstrated reliability of the qualifying facility; 
+
+ (C) The terms of any contract or other legally enforceable obligation; 
+
+ (D) The extent to which scheduled outages of the qualifying facility can be usefully coordinated with scheduled outages of the public utility’s facilities; 
+
+ (E) The usefulness of energy and/or capacity supplied from a qualifying facility during system emergencies, including its ability to separate its load from its generation; 
+
+ (F) The individual and aggregate value of energy and capacity from qualifying facilities on the public utility’s system; and 
+
+ (G) The smaller capacity increments and the shorter lead times available, if any, with additions of capacity from qualifying facilities. 
+
+ (c) The relationship of the availability of energy and/or capacity from the qualifying facility as derived in subsection (5)(b) of this rule, to the ability of the public utility to avoid costs, including the deferral of capacity additions and the reduction of fossil fuel use; and 
+
+ (d) The costs or savings resulting from variations in line losses from those that would have existed in the absence of purchases from a qualifying facility if the purchasing public utility generated an equivalent amount of energy itself or purchased an equivalent amount of energy and/or capacity. 
+
+ (6) Each public utility that is currently complying with Oregon's renewable portfolio standard must offer renewable and non-renewable avoided cost rates to eligible qualifying facilities. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 183, 756, 757, 758 
+ 
+ 
+ Statutes/Other Implemented:  ORS 756.040, 758.505 - 758.555 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 8-2018, amend filed 11/02/2018, effective 11/02/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 1-1998, f. & cert. ef. 1-12-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 2-1993, f. & cert. ef. 1-8-93 (Order No. 92-1793 & 93-035) 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 11-1991, f. & cert. ef. 12-5-91 (Order No. 91-1605) 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 14-1987, f. & ef. 11-19-87 (Order No. 87-1154) 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 5-1986, f. & ef. 5-15-86 (Order No. 86-488) 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 21-1984, f. & ef. 9-25-84 (Order No. 84-742) 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 7-1982, f. & ef. 7-21-82 (Order No. 82-514) 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 9-1981, f. & ef. 10-29-81 (Order No. 81-755) 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

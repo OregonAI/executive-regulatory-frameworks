@@ -1,0 +1,485 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Self-Sufficiency Programs - Chapter 461 
+ 
+ 
+ 
+ 
+ Division 150 RETROSPECTIVE/PROSPECTIVE ELIGIBILITY AND BUDGETING 
+ 461-150-0060 
+ Prospective or Retrospective Eligibility and Budgeting; REF, REFM, SNAP, TANF
+ 
+ 
+ In the REF, REFM, SNAP, and TANF programs, the Department determines how and when to use prospective or retrospective eligibility (see OAR 461-001-0000) and budgeting (see OAR 461-001-0000) as follows: 
+
+ (1) For the initial month (see OAR 461-001-0000): 
+
+ (a) For a SNAP case in the Change Reporting System (CRS), the Department uses "actual income" (see subsection (g) of this section) in the initial month . 
+
+ (b) For a SNAP program case in the Simplified Reporting System (SRS), "actual income" is used in the initial month if that income is not reflective of ongoing monthly income due to a new or terminated source or a significant change in ongoing income. All other income is processed under section (3) of this rule. 
+
+ (c) In the REF and TANF programs, ongoing income, processed under section (2) of this rule, is used in the i nitial month , except when the source of income is a new or terminated source. When there is a new or terminated source of income, "actual income" is used in the initial month . 
+
+ (d) In the REFM program, the Department uses only the initial month for eligibility and budgeting . 
+
+ (e) The Department uses prospective eligibility and budgeting under OAR 461-150-0020 for cases not covered under subsections (a) to (d) of this section, including for an individual who leaves a filing group (see OAR 461-110-0310) because of domestic violence (see OAR 461-001-0000) and enters a domestic violence shelter (see OAR 461-001-0000) or safe home (see OAR 461-001-0000). 
+
+ (f) No supplement is issued based on incorrectly anticipated information. 
+
+ (g) "Actual income" means income already received in the initial mont h plus all the income that reasonably may be expected to be received within the initial month . 
+
+ (2) Income is budgeted so that the anticipated amount is the same for each month. The type of income is determined and calculated as follows: 
+
+ (a) Income that must be annualized is calculated under OAR 461-150-0090 to arrive at a monthly figure. 
+
+ (b) Educational income (see OAR 461-145-0150) is assigned to the months it is intended to cover, regardless of when it is received. The income is prorated over these months. 
+
+ (c) Ongoing stable income (see OAR 461-001-0000) is anticipated under OAR 461-150-0070. 
+
+ (d) Ongoing variable income (see OAR 461-001-0000) is anticipated under OAR 461-150-0080. 
+
+ (e) Periodic income (see OAR 461-001-0000) is anticipated under OAR 461-140-0110. 
+
+ (f) Lump-sum income (see OAR 461-001-0000) is anticipated under OAR 461-140-0120. 
+
+ (3) For an ongoing month (see OAR 461-001-0000): 
+
+ (a) For a benefit group (see OAR 461-110-0750), the Department uses prospective eligibility and budgeting . The type of income is determined and calculated under section (2) of this rule. 
+
+ (b) If the budgeting method changes from prospective to retrospective, the Department treats income from a terminated source that was counted prospectively as follows: 
+
+ (A) If the actual amount received was less than or equal to the anticipated amount, the income is excluded. 
+
+ (B) If the actual amount received was greater than the anticipated amount, the Department counts the difference between actual and anticipated amounts. 
+
+ (4) When an individual is added to an ongoing filing group, income is budgeted in accordance with sections (2) and (3) of this rule to determine eligibility and benefit level. 
+
+ (5) In the SNAP program during the Periodic Report Process, the Department follows the budgeting provisions of sections (2) through (4) of this rule to determine eligibility and benefit level using all of the following: 
+
+ (a) Income recently verified and currently budgeted for the case that does not meet the provisions of or conflict with income in subsections (b) or (c) . 
+
+ (b) Income from computer matches. 
+
+ (c) Total income reported on the Periodic Report form under OAR 461-170-0011 and 461-170-0102 – 
+
+ (A) Whose verification is provided with the Periodic Report. 
+
+ (B) That, in comparison to the total countable (see OAR 461-001-0000) earned income already budgeted for the financial group (see OAR 461-110-0530) has changed by more than $125. 
+
+ (C) That, in comparison to the total countable unearned income already budgeted for the financial group, has changed by more than $125. 
+
+ (D) That exceeds the SNAP Countable Income Limit set at 130 percent of the federal poverty level under OAR 461-155-0180, for a financial group whose eligibility was based on total countable income at or below 130 percent. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 409.050, 411.060, 411.070, 411.404, 411.816 & 412.049 
+ 
+ 
+ Statutes/Other Implemented:  ORS 409.050, 411.060, 411.070, 411.404, 411.816, 412.049, ORS 409.010 & 409.610 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 20-2023, amend filed 06/22/2023, effective 07/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 47-2022, amend filed 09/20/2022, effective 09/27/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 33-2022, temporary amend filed 03/31/2022, effective 04/01/2022 through 09/27/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 23-2015, f. 9-28-15, cert. ef. 10-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 37-2013, f. 12-31-13, cert. ef. 1-1-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 28-2013(Temp), f. & cert. ef. 10-1-13 thru 1-28-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 19-2013(Temp), f. 7-31-13, cert. ef. 8-1-13 thru 1-28-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 13-2013, f. & cert. ef. 7-1-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 5-2010, f. & cert. ef. 4-1-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 13-2009, f. & cert. ef. 7-1-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 10-2007, f. & cert. ef. 10-1-07 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 6-2001, f. 3-30-01, cert. ef. 4-1-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 3-2000, f. 1-31-00, cert. ef. 2-1-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 9-1997, f. & cert. ef. 7-1-97 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 3-1997, f. 3-31-97, cert. ef. 4-1-97 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 10-1995, f. 3-30-95, cert. ef. 4-1-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 13-1994, f. & cert. ef. 7-1-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 6-1994, f. & cert. ef. 4-1-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 19-1993, f. & cert. ef. 10-1-93 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 30-1990, f. 12-31-90, cert. ef. 1-1-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 20-1990, f. 8-17-90, cert. ef. 9-1-90 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 80-1989, f. 12-21-89, cert. ef. 2-1-90 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

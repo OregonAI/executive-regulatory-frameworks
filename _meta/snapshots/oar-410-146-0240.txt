@@ -1,0 +1,352 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 146 AMERICAN INDIAN/ALASKA NATIVE 
+ 410-146-0240 
+ Transportation
+ 
+ 
+ (1) The Division may reimburse IHCP for medically appropriate sedan car or wheelchair van transportation services provided to OHP AI/AN clients who receive medical services through an IHCP. (Refer to OAR 410 Division 136, Medical Transportation.) 
+
+ (2) Federal regulations in 42 CFR 431.53 require the state to ensure necessary transportation for Medicaid recipients to and from providers. The IHCP must ensure that: 
+
+ (a) The service to be provided is the most cost-effective method that meets the medical needs of the client; and 
+
+ (b) The service to be provided at the point of origin and destination is a Division Medicaid-covered service according to a client’s OHP benefit package; 
+
+ (c) In addition, AI/AN OHP clients may be transported to the nearest Tribal Health facility and are not restricted to the nearest (non-tribal) facility able to meet the client’s medical needs. 
+
+ (3) For the purpose of this rule, the most “cost effective” method is a transportation service that cannot, in the judgment of the Division, be provided through a less expensive alternative while meeting the medical needs of the client. Reimbursement by the Division to an IHCP may not exceed the most cost-effective method and is the lesser of: 
+
+ (a) The providers costs for furnishing transportation services; or 
+
+ (b) The amount reimbursed by the Division to non-emergency transportation providers under OAR 410 Division 136 Medical Transportation Program. 
+
+ (4) The Division shall reimburse transportation services fee-for-service, and outside of the IHS encounter rate, when the IHCP meets the following conditions: 
+
+ (a) The IHCP owns or leases the sedan car or wheelchair van; and 
+
+ (b) The individual providing the service is an employee of the IHCP. 
+
+ (5) IHCPs do not need to enroll separately as a transportation provider if they furnish either sedan car or wheelchair van transportation. As used in this rule, transportation services by IHCPs are defined as follows: 
+
+ (a) Transportation provided by a 4-door sedan or mini-van motor vehicle having a seating capacity of not less than four  and not more than seven passengers; 
+
+ (b) Transportation provided by a wheelchair lift equipped vehicle for a client who uses a wheelchair. Transportation is generally a "door to door" service. At times, an individual being transported must be picked up inside their residence and taken inside their destination (escort by the driver). 
+
+ (6) Under the following conditions, an IHCP is required to separately enroll with the Division as a provider of medical transportation services: 
+
+ (a) The IHCP serves all clients as a whole and does not limit services to the AI/AN community (e.g., Native American clients); 
+
+ (b) The IHCP owns and operates a taxi service; or 
+
+ (c) The IHCP owns and operates an ambulance service. 
+
+ (7) Non-emergency ambulance, air ambulance, commercial air, bus, or train are not reimbursed under this rule to IHCPs and requires advance arrangement and prior authorization (PA) through the local Aging and People with Disabilities Division (APD) or Self Sufficiency Programs branch office. 
+
+ (8) For all claims submitted to the Division, the provider records must contain completed documentation (pertinent to the service provided) that includes but is not limited to: 
+
+ (a) Trip information including: 
+
+ (A) Date of service; 
+
+ (B) If one way, round trip, or three-way and if transportation needs are ongoing; 
+
+ (C) Physical address of the point of origin, e.g., client address, nursing home name and address, etc.; 
+
+ (D) Number of actual patient miles traveled; and 
+
+ (E) Physical address and name of the destination point, e.g., hospital name, doctor name, address, etc. 
+
+ (b) Client information including: 
+
+ (A) Client name; 
+
+ (B) ID number; and 
+
+ (C) Medical assistance needs (e.g., requires wheelchair, walker, cane, needs assistance, requires portable oxygen, etc.); and 
+
+ (c) Justification for extra attendant beyond one if wheelchair van. 
+
+ (9) All required documentation must be retained in the provider files for the period of time specified in the General Rules (OAR 410 Division 120). 
+
+ (10) Medical transportation services must be billed in the professional claim format using the billing instructions and procedure codes in this rule and in conjunction with OAR 410 division 136 Medical Transportation Program. 
+
+ (11) If two or more Medicaid clients are transported by the same mode (e.g., wheelchair van) at the same time, the Division shall reimburse at the full base rate for the first client and one-half the appropriate base rate for each additional client. If two or more Division clients are transported by mixed mode (e.g., wheelchair van and ambulatory) at the same time, the Division shall reimburse at the full base rate for the highest mode for the first client and one-half the base rate of the appropriate mode for each additional client. Reimbursement may not be made for duplicated miles traveled. If more than one client is transported from a single pickup point to different destinations or from different pickup points to the final destination, the total mileage may be billed. The first ten miles is included in the base rate and should be included in the total number of miles on the CMS-1500 (OAR 410-136-0080, Additional Client Transport). 
+
+ (12) Tribal facility owned/leased sedan car: 
+
+ (a) S0215 -- Non-emergency transportation; mileage, per mile; 
+
+ (b) Not eligible for base rate or extra attendant reimbursement. 
+
+ (13) Tribal facility owned/leased wheelchair car/van. The Division's reimbursement of the first ten miles of a transport is included in the payment for the base rate. A service from point of origin to point of destination (one-way) is considered a "transport." 
+
+ (14) Tribal facility owned/leased wheelchair van: 
+
+ (a) If a client is able to transfer from wheelchair to car/van, the Division may not make payment for wheelchair services for transportation of ambulatory (capable of walking) clients (e.g., base rate, extra attendant); 
+
+ (b) Wheelchair van -- Bill using the following procedure codes: 
+
+ (A) A0130 -- Non-emergency transportation, wheelchair car/van base rate; 
+
+ (B) S0209 -- Wheelchair van, ground mileage, per statute mile; 
+
+ (C) T2001 -- Extra attendant (each). 
+
+ (15) When billing transportation services, use the appropriate place of service (POS) codes and modifiers as listed in the Medical Transportation Services Supplemental Information guidebook to indicate the type of transportation service and point of origin and destination. 
+
+ (16) The Division may recoup such payments if, on subsequent review, it is found that the provider did not comply with the Division’s administrative rules. Non-compliance includes, but is not limited to, failure to adequately document the service and the need for the service. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042 & ORS 414.065 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.065 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 42-2017, amend filed 10/03/2017, effective 10/03/2017 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 46-2009, f. 12-15-09, cert. ef. 1-1-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 19-2007, f. 12-5-07, cert. ef. 1-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 59-2002, f. & cert. ef. 10-1-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 14-2002, f. & cert. ef. 4-1-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 45-2001, f. 9-24-01, cert. ef. 10-1-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 6-2001, f. 3-30-01, cert. ef. 4-1-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 25-2000, f. 9-28-00, cert. ef. 10-1-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 2-1999, f. & cert. ef. 2-1-99 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

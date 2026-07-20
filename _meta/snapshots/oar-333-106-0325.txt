@@ -1,0 +1,523 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 106 X-RAYS IN THE HEALING ARTS 
+ 333-106-0325 
+ Additional Requirements for Radiographic Machines: Intraoral Dental Radiographic Systems
+ 
+ 
+ In addition to the provisions of OAR 333-106-0010 through 333-106-0101, the requirements of this rule apply to X-ray equipment and facilities where intraoral dental radiography is conducted. Requirements for extraoral dental radiographic systems are covered in OAR 333-106-0301 through 333-106-0320. Intraoral dental radiographic systems must meet the following requirements: 
+
+ (1) Source-to-Skin Distance (SSD). X-ray systems designed for use with an intraoral image receptor shall be provided with means to limit source-to-skin distance, to not less than 18 centimeters. 
+
+ (2) Beam Limitation. Radiographic systems designed for use with an intraoral image receptor shall be provided with means to limit the X-ray beam such that: 
+
+ (a) If the minimum source-to-skin distance (SSD) is 18 centimeters or more, the X-ray field, at the minimum SSD, shall be containable in a circle or rectangular cone having a diameter of no more than seven centimeters; or 
+
+ (b) If the minimum SSD is less than 18 centimeters, the X-ray field, at the minimum SSD, shall be containable in a circle or rectangular cone having a diameter of no more than six centimeters. 
+
+ (A) A positioning indicating device (PID) must be used for all exposures when using a rectangular collimator. 
+
+ (B) All rectangular collimators must be installed by an Oregon Health Authority licensed vendor. 
+
+ (3) Radiation Exposure Control (Timers). Means shall be provided to control the radiation exposure through the adjustment of exposure time in seconds, milliseconds (ms), or number of pulses, or current/milliamps (mA), or the product of current and exposure time (mAs) or adjustment of kVp. In addition: 
+
+ (a) Exposure Initiation. Means shall be provided to initiate the radiation exposure by a deliberate action on the part of the operator, such as the depression of a switch. Radiation exposure shall not be initiated without such an action; and 
+
+ (b) It shall not be possible to make an exposure when the timer is set to a "0" or "off" position if either position is provided; 
+
+ (c) Exposure Indication. Means shall be provided for visual indication, observable at or from the operator's protected position, whenever X-rays are produced. In addition, a signal audible to the operator shall indicate that the exposure has terminated. 
+
+ (d) Timer Reproducibility. With a timer setting of 0.5 second or less, the average exposure time (T) shall be greater than or equal to five times the minimum exposure time (Tmax) minus the minimum exposure time (Tmin) when four timer tests are performed: (T) >5 (Tmax - Tmin). 
+
+ (A) Means shall be provided to terminate the exposure at a preset, time interval, mAs, number of pulses, or radiation to the image receptor. 
+
+ (B) An X-ray exposure control shall be incorporated into each system such that an exposure can be terminated by the operator at any time, except for exposures of 0.5 second or less. 
+
+ (C) Termination of an exposure shall cause automatic resetting of the timer to its initial setting or to "0". 
+
+ (4) Radiation Exposure Control Location and Operator Protection. Each X-ray control must be located in such a way as to meet the following requirements: 
+
+ (a) The exposure switch shall be able to be operated in a protected area, as defined in OAR 333-106-0005(78), and the operator shall remain in that protected area during the entire exposure; and 
+
+ (b) The operator's protected area shall provide visual indication of the patient during the X-ray procedure. 
+
+ (c) Mobile and portable X-ray systems which are: 
+
+ (A) Used for greater than one week in the same location, such as a room or suite, shall meet the requirements of subsections (4)(a) and (4)(b) of this rule. 
+
+ (B) Used for less than one week at the same location, such as a room or suite, shall be provided with: 
+
+ (i) Either a protective barrier of at least 6.5 feet (2 meters) high for operator protection; or 
+
+ (ii) A means to allow the operator to be at least nine feet (2.7 meters) from the tube housing assembly while making exposures. 
+
+ (5) Exposure Reproducibility. The coefficient of variation shall not exceed 0.05 when all technique factors are held constant. This requirement shall be deemed to have been met if, when four exposures are made at identical technique factors, the value of the average exposure (E) is greater than or equal to five times the maximum exposure (Emax) minus the minimum exposure (Emin): E >5 (Emax - Emin) 
+
+ (6) Accuracy. 
+
+ (a) Deviation of technique factors from the indicated values for kVp and exposure time (if time is independently selectable) shall not exceed the limits specified for that system by its manufacturer. 
+
+ (b) kVp Limitations. Dental X-ray machines with a nominal fixed kVp of less than 55 kVp shall not be used to make diagnostic dental radiographs on humans. 
+
+ (7) Administrative Controls. 
+
+ (a) Patient and film holding devices shall be used when the techniques permit; 
+
+ (b) The tube housing and the PID shall not be hand-held during an exposure; 
+
+ (c) The X-ray system shall be operated in such a manner that the useful beam at the patient's skin does not exceed the requirements of section (2) of this rule or its updated version; 
+
+ (d) All pediatric patients shall wear a 0.25 millimeter lead equivalent thyroid collar to protect the thyroid during intraoral X-ray exposures. Registrants who meet the requirements in paragraphs (2)(b)(A) and (B) of this rule are not required to apply the thyroid collar to a pediatric patient. 
+
+ (e) Dental fluoroscopy without image intensification shall not be used; and 
+
+ (f) Pointed cones shall not be utilized unless specific authorization has been granted by the Oregon Health Authority (Authority). 
+
+ (8) Hand-held X-ray systems. 
+
+ (a) Registrants must provide for security and safe storage while not in use. A report must be filed with the Authority within 72 hours if the hand-held unit is lost or stolen. 
+
+ (b) The image receptor used with hand-held dental X-ray systems must either be: 
+
+ (A) A speed class of intra-oral film designated as "E/F", "F" or faster; or 
+
+ (B) A digitally acquired image (CR or DR). 
+
+ (c) The hand-held X-ray system must be equipped with a permanently attached backscatter shield of 0.25 millimeter lead equivalent. 
+
+ (d) The backscatter shield must be designed to appropriately protect the operator during an exposure. The manufacturer of the hand-held unit must provide documentation to the Authority of the design specifications of the backscatter shield's protection to the operator prior to sale and distribution in the State of Oregon. 
+
+ (e) The hand-held unit must be capable of a minimum of 60 kVp and 2.0 mA. 
+
+ (f) Hand-held units not meeting the requirements of subsections (8)(c), (8)(d) and (8)(e) of this rule may not be sold, distributed or used in the State of Oregon. 
+
+ (9) Hand-held dental X-ray administrative controls. 
+
+ (a) The hand-held unit shall not be used for patient examinations in hallways and waiting rooms. 
+
+ (b) The unit can only be operated in an enclosed room when possible. All individuals except the X-ray operator and the patient must leave the room and stand behind a protective barrier or be at least six feet from the X-ray source if a protective barrier is not available during radiographic exposures. 
+
+ (c) Operators must complete machine specific applications training as described in OAR 333-106-0055(9) before using a hand-held unit. Training on the safe use of the unit shall be documented and include at a minimum: 
+
+ (A) Proper positioning of the unit to ensure an adequate protected position; 
+
+ (B) Limitations on the use of position indicating devices that require longer distances to the patient’s face; 
+
+ (C) Diagrams such as drawings, illustrations, or schematics of protected position and location in relationship to the unit; 
+
+ (D) Diagrams such as drawings, illustrations, or schematics of the effect of improper distance or removal of shielding device; and 
+
+ (E) Diagrams such as drawings, illustrations, schematics of common examples of improper positioning of the unit and or location of the operator. 
+
+ (d) An appropriate receptor holder must be used during the X-ray exposure. 
+
+ (e) A PID must be used during the X-ray exposure. 
+
+ (f) A hand-held unit shall be held without any motion during a patient examination. A tube stand may be utilized to immobilize the hand-held unit during a patient examination. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 453.605 - 453.807 
+ 
+ 
+ Statutes/Other Implemented:  ORS 453.605 - 453.807 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 28-2026, amend filed 07/02/2026, effective 07/02/2026 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 55-2023, amend filed 12/14/2023, effective 12/20/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 92-2021, amend filed 12/29/2021, effective 01/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 81-2021, amend filed 11/19/2021, effective 11/23/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 4-2017, f. 1-26-17, cert. ef. 2-1-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 25-2016, f. 8-26-16, cert. ef. 9-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 19-2015, f. 9-30-15, cert. ef. 10-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 32-2014, f. 12-22-14, cert. ef. 1-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 24-2014, f. & cert. ef. 8-15-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 4-2013, f. & cert. ef. 1-29-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 10-2011, f. 9-30-11, cert. ef. 10-1-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 20-2010, f. & cert. ef. 9-1-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 14-2008, f. & cert. ef. 9-15-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 12-2006, f. & cert. ef. 6-16-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 36-2004, f. & cert. ef. 12-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 31-2004(Temp), f. & cert. ef. 10-8-04 thru 4-5-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 3-2003, f. & cert. ef. 3-27-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 1-1995, f. & cert. ef. 4-26-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 15-1994, f. & cert. ef. 5-6-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 1-1991, f. & cert. ef. 1-8-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 4-1985, f. & ef. 3-20-85 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

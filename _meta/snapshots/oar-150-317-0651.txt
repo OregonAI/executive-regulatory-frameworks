@@ -1,0 +1,192 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 317 CORPORATION EXCISE TAX ACT OF 1929: RULES AND GENERAL PROVISIONS 
+ 150-317-0651 
+ Repatriation Tax Credit 
+ 
+ (1)(a) For tax years beginning on or after January 1, 2017, and before January 1, 2018 (the 2017 tax year), a repatriation tax credit is allowed under ORS chapter 317 or 318 for Oregon tax attributable to income reported under section 965 of the Internal Revenue Code as post-1986 deferred foreign income. The amount of the credit equals the lesser of the amount of Oregon tax for the 2017 tax year attributable to the section 965 mandatory repatriation or the total amount of Oregon tax for the 2014, 2015, and 2016 tax years attributable to the addition required under ORS 317.716, if any. 
+
+ (b) No tax credit is available unless an addition under ORS 317.716 was required for at least one of tax years 2014, 2015, or 2016. 
+
+ (c) The method for determining the amount of Oregon tax attributable to the section 965 mandatory repatriation is set forth in section (2) below. The method for determining the total amount of Oregon tax attributable to the addition required by ORS 317.716 for tax years 2014, 2015, and 2016 is set forth in section (3) below. 
+
+ (2)(a) The amount of Oregon tax for the 2017 tax year attributable to the mandatory repatriation under section 965 equals the excess of the Oregon tax for tax year 2017 determined with the section 965 mandatory repatriation, over the Oregon tax for tax year 2017 determined without the section 965 mandatory repatriation. 
+
+ (b) The Oregon tax for the 2017 tax year determined with the section 965 mandatory repatriation is calculated by including in taxable income under ORS 317.010(10) income reported under section 965(a) as post-1986 deferred foreign income, modifying taxable income with respect to the repatriation income as provided in ORS 317.267(1) and (2), and computing Oregon tax before the allowance of any Oregon tax credit. The resulting tax amount before the allowance of any Oregon tax credit is the Oregon tax for tax year 2017 determined with the section 965 mandatory repatriation. 
+
+ (c) The Oregon tax for tax year 2017 determined without the section 965 mandatory repatriation is calculated as if IRC section 965 did not apply, by excluding from taxable income the amount of the section 965 mandatory repatriation from income, applying ORS 317.267(1) and (2) without regard to the mandatory repatriation, and computing Oregon tax before the allowance of any Oregon tax credit. The resulting tax amount before the allowance of any Oregon tax credit is the Oregon tax for tax year 2017 determined without the section 965 mandatory repatriation. 
+
+ (3)(a) The total amount of Oregon tax attributable to the addition required under ORS 317.716 for all tax years beginning on or after January 1, 2014, and before January 1, 2017 (the listed jurisdiction addition for tax years 2014, 2015, and 2016) equals the excess of the total Oregon tax for tax years 2014, 2015, and 2016 determined with the listed jurisdiction addition for those three years, over the total Oregon tax for tax years 2014, 2015, and 2016 determined without the listed jurisdiction addition for those three years. 
+
+ (b) The total Oregon tax for tax years 2014, 2015, and 2016 determined with the listed jurisdiction addition is the sum of the Oregon tax for each tax year in which an addition under ORS 317.716 was required (an applicable year) and included on a taxpayer’s return as filed or adjusted. The amount of tax for each applicable year is computed by including taxable income or taxable loss of any corporation in a listed jurisdiction that was part of the same unitary group as the taxpayer (within the meaning of ORS 317.705(2)) in the applicable year and computing Oregon tax before the allowance of any Oregon tax credit. The resulting tax amount before the allowance of any Oregon tax credit is the Oregon tax for the applicable year determined with the addition required under ORS 317.716. This calculation is based on a taxpayer’s 2014, 2015 and 2016 returns as filed or adjusted. 
+
+ (c) The total Oregon tax for tax years 2014, 2015, and 2016 determined without the listed jurisdiction addition is the sum of the Oregon tax for each applicable year described in subsection (b). The amount of tax for each applicable year is computed by excluding taxable income or loss of any corporation in a listed jurisdiction otherwise required to be added under ORS 317.716 and included on a taxpayer’s return as filed or adjusted. Any receipts of a corporation in a listed jurisdiction included in the sales factor for purposes of subsection (b) must be removed from the sales factor for purposes of computing the total Oregon tax determined without the listed jurisdiction addition. The resulting tax amount before the allowance of any Oregon tax credit is the Oregon tax for the applicable year determined without the addition under ORS 317.716. 
+
+ (d) The total amount of Oregon tax attributable for tax years 2014, 2015, and 2016 under (3)(a) equals the sum total of tax computed under (3)(b) minus the sum total of tax computed under (3)(c). 
+
+ [See PDF link below.] 
+
+ [ Publications: Contact the Oregon Department of Revenue for information about how to obtain a copy of the publication referred to or incorporated by reference in this rule pursuant to ORS 183.360(2) and ORS 183.355(1)(b).] 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 
+ 
+ 
+ Statutes/Other Implemented:  2018 Oregon Laws, chapter 101 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 14-2018, adopt filed 06/26/2018, effective 07/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

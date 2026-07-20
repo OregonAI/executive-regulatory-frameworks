@@ -1,0 +1,304 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Board of Dentistry 
+ Chapter 818 
+ 
+ 
+ 
+ 
+ 
+ Division 1 PROCEDURES 
+ 818-001-0002 
+ Definitions
+ 
+ 
+ As used in OAR chapter 818: 
+(1) "Board" means the Oregon Board of Dentistry, the members of the Board, its employees, its agents, and its consultants. 
+(2) "Dental Practice Act" means ORS Chapter 679 and 680.010 to 680.170 and the rules adopted pursuant thereto. 
+(3) "Dentist" means a person licensed pursuant to ORS Chapter 679 to practice dentistry. 
+(4) "Dental Hygienist" means a person licensed pursuant to ORS 680.010 to 680.210 to practice dental hygiene. 
+(5) “Dental Therapist” means a person licensed to practice dental therapy under ORS 679.603. 
+(6) “Dental Therapy” means the provision of preventative dental care, restorative dental treatment and other educational, clinical and therapeutic patient services as part of a dental care team, including the services described under ORS 679.621. 
+(7) "Direct Supervision" means supervision requiring that a dentist diagnose the condition to be treated, that a dentist authorize the procedure to be performed, and that a dentist remain in the dental treatment room while the procedures are performed. 
+(8) "General Supervision" means supervision requiring that a dentist authorize the procedures, but not requiring that a dentist be present when the authorized procedures are performed. The authorized procedures may also be performed at a place other than the usual place of practice of the dentist. 
+(9) "Indirect Supervision" means supervision requiring that a dentist authorize the procedures and that a dentist be on the premises while the procedures are performed. 
+(10) "Informed Consent" means the consent obtained following a thorough and easily understood explanation to the patient, or patient's guardian, of the proposed procedures, any available alternative procedures and any risks associated with the procedures. Following the explanation, the licensee shall ask the patient, or the patient's guardian, if there are any questions. The licensee shall provide thorough and easily understood answers to all questions asked. 
+(11) "Licensee" means a dentist, hygienist or dental therapist. 
+(12) “Volunteer Licensee” is a dentist, hygienist or dental therapist licensed according to rule to provide dental health care without receiving or expecting to receive compensation. 
+(13) "Limited Access Patient" means a patient who, due to age, infirmity, or handicap is unable to receive regular dental hygiene treatment in a dental office. 
+(14) "Specialty." The specialty definitions are added to more clearly define the scope of the practice as it pertains to the specialty areas of dentistry. 
+(a) “Dental Anesthesiology” is the specialty of dentistry that deals with the management of pain through the use of advanced local and general anesthesia techniques. 
+(b) "Dental Public Health" is the science and art of preventing and controlling dental diseases and promoting dental health through organized community efforts. It is that form of dental practice which serves the community as a patient rather than the individual. It is concerned with the dental health education of the public, with applied dental research, and with the administration of group dental care programs as well as the prevention and control of dental diseases on a community basis. 
+(c) "Endodontics" is the specialty of dentistry which is concerned with the morphology, physiology and pathology of the human dental pulp and periradicular tissues. Its study and practice encompass the basic and clinical sciences including biology of the normal pulp, the etiology, diagnosis, prevention and treatment of diseases and injuries of the pulp and associated periradicular conditions. 
+(d) "Oral and Maxillofacial Pathology" is the specialty of dentistry and discipline of pathology that deals with the nature, identification, and management of diseases affecting the oral and maxillofacial regions. It is a science that investigates the causes, processes, and effects of these diseases. The practice of oral pathology includes research and diagnosis of diseases using clinical, radiographic, microscopic, biochemical, or other examinations. 
+(e) “Oral and Maxillofacial Radiology” is the specialty of dentistry and discipline of radiology concerned with the production and interpretation of images and data produced by all modalities of radiant energy that are used for the diagnosis and management of diseases, disorders and conditions of the oral and maxillofacial region. 
+(f) "Oral and Maxillofacial Surgery" is the specialty of dentistry which includes the diagnosis, surgical and adjunctive treatment of diseases, injuries and defects involving both the functional and esthetic aspects of the hard and soft tissues of the oral and maxillofacial region. 
+(g) "Oral Medicine" is the specialty of dentistry responsible for the oral health care of medically complex patients and for the diagnosis and management of medically-related diseases, disorders and conditions affecting the oral and maxillofacial region. 
+(h) "Orofacial Pain" Orofacial Pain is the specialty of dentistry that encompasses the diagnosis, management and treatment of pain disorders of the jaw, mouth, face, head and neck. The specialty of Orofacial Pain is dedicated to the evidenced-based understanding of the underlying pathophysiology, etiology, prevention, and treatment of these disorders and improving access to interdisciplinary patient care. 
+(i) "Orthodontics and Dentofacial Orthopedics" is the specialty of dentistry concerned with the supervision, guidance and correction of the growing or mature dentofacial structures, including those conditions that require movement of teeth or correction of malrelationships and malformations of their related structures and the adjustment of relationships between and among teeth and facial bones by the application of forces and/or the stimulation and redirection of functional forces within the craniofacial complex. Major responsibilities of orthodontic practice include the diagnosis, prevention, interception and treatment of all forms of malocclusion of the teeth and associated alterations in their surrounding structures; the design, application and control of functional and corrective appliances; and the guidance of the dentition and itssupporting structures to attain and maintain optimum occlusal relations in physiologic and esthetic harmony among facial and cranial structures. 
+(j) "Pediatric Dentistry" is an age defined specialty that provides both primary and comprehensive preventive and therapeutic oral health care for infants and children through adolescence, including those with special health care needs. 
+(k) "Periodontics" is the specialty of dentistry which encompasses the prevention, diagnosis and treatment of diseases of the supporting and surrounding tissues of the teeth or their substitutes and the maintenance of the health, function and esthetics of these structures and tissues. 
+(l) "Prosthodontics" is the specialty of dentistry pertaining to the restoration and maintenance of oral functions, comfort, appearance and health of the patient by the restoration of natural teeth and/or the replacement of missing teeth and contiguous oral and maxillofacial tissues with artificial substitutes. 
+(15) “Full-time” as used in ORS 679.025 and 680.020 is defined by the Board as any student who is enrolled in an institution accredited by the Commission on Dental Accreditation of the American Dental Association or its successor agency in a course of study for dentistry, dental hygiene or dental therapy. 
+(16) For purposes of ORS 679.020(4)(h) the term “dentist of record” means a dentist that either authorized treatment for, supervised treatment of or provided treatment for the patient in clinical settings of the institution described in 679.020(3). 
+(17) “Dental Study Group” as used in ORS 679.050, OAR 818-021-0060 and OAR 818-021-0070 is defined as a group of licensees who come together for clinical and non-clinical educational study for the purpose of maintaining or increasing their competence. This is not meant to be a replacement for residency requirements. 
+(18) “Physical Harm” as used in OAR 818-001-0083(2) is defined as any physical injury that caused, partial or total physical disability, incapacity or disfigurement. In no event shall physical harm include mental pain, anguish, or suffering, or fear of injury. 
+(19) “Teledentistry” is defined as the use of information technology and telecommunications to facilitate the providing of dental primary care, consultation, education, and public awareness in the same manner as telehealth and telemedicine. 
+(20) “BLS for Healthcare Providers or its Equivalent” the BLS certification standard is the American Heart Association’s BLS Healthcare Providers Course or its equivalent, as determined by the Board.This initial BLS course must be a hands-on course; online BLS courses 
+will not be approved by the Board for initial BLS certification. After the initial BLS certification, the Board will accept a Board-approved BLS for Healthcare Providers or its equivalent Online Renewal course for license renewal. A BLS certification card with an expiration date must be received from the BLS provider as documentation of BLS certification.The Board considers the BLS expiration date to be the last day of the month that the BLS instructor indicates that the certification expires. 
+(21)  "Study Model" means a replica of a patient's teeth and surrounding structures, typically made from either a physical impression or a scanned impression of the patient's mouth. It is used primarily for diagnostic and treatment planning purposes, allowing the dentist to study the patient's teeth and jaw alignment and plan procedures such as orthodontic treatment, restorative dentistry or prosthetic treatment. A study model is distinguished from a "working model," which is fabricated in a similar fashion as a study model and may be a more precise and accurate replica of the patient's teeth and jaw (where applicable). A working model would be used for the fabrication of dental appliances, including without limitation orthodontic aligners, retainers, crowns and bridges or removable dentures. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 679 & 680 
+ 
+ 
+ Statutes/Other Implemented:  ORS 679.010 & 680.010 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OBD 2-2024, amend filed 10/28/2024, effective 01/01/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OBD 1-2023, amend filed 06/20/2023, effective 07/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OBD 1-2022, amend filed 06/21/2022, effective 07/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OBD 1-2021, amend filed 11/08/2021, effective 01/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OBD 2-2019, amend filed 10/29/2019, effective 01/01/2020 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OBD 2-2018, amend filed 10/04/2018, effective 01/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OBD 3-2015, f. 9-8-15, cert. ef. 10-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ OBD 1-2013, f. 5-15-13, cert. ef. 7-1-13 
+OBD 4-2011, f. & cert, ef. 11-15-11 
+OBD 1-2008, f. 11-10-08, cert. ef. 12-1-08 
+OBD 1-2006, f. 3-17-06, cert. ef. 4-1-06 
+OBD 2-2005, f. 1-31-05, cert. ef. 2-1-05 
+OBD 7-2001, f. & cert. ef. 1-8-01 
+DE 3-1997, f. & cert. ef. 8-27-97 
+DE 1-1989, f. 1-27-89, cert. ef. 2-1-89, Renumbered from 818-001-0001 
+DE 1-1988, f. 12-28-88, cert. ef. 2-1-89 
+DE 11-1984, f. & cert. ef. 5-17-84 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

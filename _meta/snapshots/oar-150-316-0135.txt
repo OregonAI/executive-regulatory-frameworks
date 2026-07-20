@@ -1,0 +1,265 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 316 PERSONAL INCOME TAX GENERAL PROVISIONS 
+ 150-316-0135 
+ Proration of Income and Deductions for Nonresidents and Part-Year Residents
+ 
+ 
+ (1) As used in this rule, “fraction” means the Oregon percentage. The Oregon percentage is the fraction established for proration under ORS 316.117. 
+
+ (2) For tax years beginning on or after January 1, 1983, the numerator of the fraction is the taxpayer’s federal adjusted gross income from Oregon sources, with the Oregon modifications to that income, which relate to adjusted gross income. 
+
+ (3) The denominator of the fraction is the taxpayer’s federal adjusted gross income, from all sources, with the Oregon modifications to that income, which relate to adjusted gross income. 
+
+ (4) For the fiduciary returns of estates and trusts, the numerator of the fraction is the federal taxable income of the fiduciary from Oregon sources, with the Oregon modifications to that income. The denominator of the fraction is the federal taxable income of the fiduciary, from all sources, with Oregon modifications to that income. 
+
+ (5) Oregon modifications related to adjusted gross income are the Oregon additions, subtractions, and modifications that affect: 
+
+ (a) Amounts included in or excluded from adjusted gross income; or 
+
+ (b) Deductions allowed in arriving at adjusted gross income. 
+
+ (6) Under no circumstances may the percentage exceed 100 percent. 
+
+ (7) If the taxpayer has positive modified Oregon income and negative or zero modified federal adjusted gross income, the allowable percentage is 100 percent. If the taxpayer’s modified federal adjusted gross income from Oregon sources and modified federal adjusted gross income are both losses, the allowable percentage will be computed as follows: 
+
+ (a) If the Oregon loss is smaller than the federal loss, 100 percent. 
+
+ (b) If the Oregon loss is greater than the federal loss, divide the federal loss by the Oregon loss. 
+
+ 
+ Example 1: A taxpayer has modified federal adjusted gross income from Oregon sources of ($100) and modified federal adjusted gross income of ($1,000). Since the Oregon loss is less than the federal loss, the percentage is 100 percent. 
+
+ Example 2: A taxpayer has federal adjusted gross income from Oregon sources of ($1,000) and federal adjusted gross income of ($100). The percentage is 10 percent. 
+ 
+
+ (8) If the taxpayer has negative or zero modified Oregon income and positive modified federal adjusted gross income, the allowable percentage is zero. 
+
+ (9) Nonresident taxpayers shall prorate the following deductions and modifications not relating to adjusted gross income using the fraction provided in this rule: 
+
+ (a) The greater of: 
+
+ (A) Net Oregon itemized; or 
+
+ (B) The standard deduction. 
+
+ (b) Federal tax liability. 
+
+ (c) Additional federal tax paid from a prior year. 
+
+ (d) Gambling losses (itemized). 
+
+ (e) Federal income tax refunds from amended or audited returns. 
+
+ (f) Car loan interest. 
+
+ (g) Charitable contributions not included in itemized deductions. 
+
+ (10) Nonresident taxpayers shall not prorate the following deductions and modifications not relating to adjusted gross income. 
+
+ (a) Art object donation; 
+
+ (b) Fiduciary adjustment; 
+
+ (c) Tips (see OAR 150-316-0136); and 
+
+ (d) Overtime compensation (See OAR 150-316-0136). 
+
+ (11) Under no circumstances may the percentage used in computing the allowable portion of the deductions exceed 100 percent. 
+
+ (12) For part-year residents Oregon source income is: 
+
+ (a) For the portion of the year the taxpayer is a resident see OAR 150-316-0060. 
+
+ (b) For the portion of the year the taxpayer is a nonresident see ORS 316.127 and the rules pertaining thereto. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 
+ 
+ 
+ Statutes/Other Implemented:  ORS 316.117 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 12-2025, amend filed 12/23/2025, effective 01/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 46-2017, f. & cert. ef. 8-2-17 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ Renumbered from 150-316.117-(A), REV 62-2016, f. 8-15-16, cert. ef. 9-1-16 
+RD 7-1993, f. 12-30-93, cert. ef. 12-31-93 
+RD 7-1991, f. 12-30-91, cert. ef. 12-31-91 
+RD 7-1989, f. 12-18-89, cert. ef. 12-31-89 
+12-31-87 
+12-31-86, Renumbered from 150-316.117 
+12-31-85 
+12-31-84 
+12-31-83 
+12-31-78 
+12-19-75 
+11-73 
+12-70
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

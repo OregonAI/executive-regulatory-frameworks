@@ -1,0 +1,488 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 141 OREGON HEALTH PLAN 
+ 410-141-3805 
+ Mandatory MCE Enrollment Exceptions 
+ 
+ (1) In addition to the definitions in OAR 410-120-0000, the following definitions apply: 
+
+ (a) “Eligibility Determination” means an approval or denial of eligibility and a renewal or termination of eligibility as set forth in OAR 410-200-0015; 
+
+ (b) “Newly Eligible” means recently determined through the eligibility determination process as having the right to obtain state health benefits, satisfying the appropriate conditions; 
+
+ (c) “Renewal” means a regularly scheduled periodic review of eligibility resulting in a renewal or change of program benefits, including the assignment of a new renewal date or a change in eligibility status; 
+
+ (d) “Healthier Oregon” and “Healthier Oregon Cover All Kids” means the benefit packages described in OAR 410-134-0003; 
+
+ (e) Compact of Free Association (COFA) Dental Program means the benefit package described in OAR 410-120-1210;(f) Veteran Dental Program means the benefit package described in OAR 410-120-1210. 
+
+ (f) “Citizenship Waived Medical (CWM) Benefits Package” means the benefit package described in OAR 410-134-0005(2), which ended on June 30, 2023; 
+
+ (g) “Citizenship Waived Medical Plus (CWM) Benefit Package” means the benefit package described in OAR 410-134-0005(2), which was previously referred to as CWX and ended on June 30, 2023. 
+
+ (2) CCO enrollment is mandatory in all areas served by a CCO. A client eligible for or receiving health services shall enroll in a CCO as required by ORS 414.631, except as provided in ORS 414.631(2), (3), (4) and (5), and this rule. 
+
+ (3) MCE enrollment is mandatory in service areas with adequate access and capacity to provide health care services through an MCE. If upon application or redetermination a client does not select an MCE, the Authority shall auto-assign the client and the client’s household to an MCE that has adequate access and capacity. Enrollment may vary depending on which options are available in the member’s service area at the time of enrollment: 
+
+ (a) The member shall be enrolled with a CCO that offers bundled physical health, behavioral health, and dental services, which is the CCOA plan type; 
+
+ (b) The member shall be enrolled with a CCO for physical health and behavioral health services and shall remain fee-for-service (FFS) for dental services, which is the CCOB plan type; 
+
+ (c) The member shall be enrolled with a CCO for behavioral health and dental services and shall remain FFS for physical health services, which is the CCOG plan type; 
+
+ (d) The member shall be enrolled with a CCO for behavioral health services and shall remain FFS for physical health services and dental services, which is the CCOE plan type; 
+
+ (e) The member shall be enrolled with a CCO for dental services and remain FFS for physical health and behavioral health services, which is the CCOF plan type; 
+
+ (f) The member shall remain FFS for health care services if no MCE is available; or 
+
+ (g) Members eligible for the Compact of Free Association (COFA) Dental Program or the Veteran Dental Program benefit packages shall be enrolled in a CCO for dental services. Pharmacy services covered under these benefit packages are Carve-Out Services paid by the Authority through the Oregon Prescription Drug Program. 
+
+ (4) MCE enrollment is voluntary in service areas without adequate access and capacity to provide health care services through an MCE. 
+
+ (5) If a service area changes from mandatory enrollment to voluntary enrollment while a member is enrolled with an MCE, the member shall remain enrolled with the MCE for the remainder of their eligibility period or until the Authority or Department redetermines their eligibility, whichever comes first, unless the member is otherwise eligible to disenroll pursuant to OAR 410-141-3810. 
+
+ (6) Members who are exempt from physical health services shall receive behavioral health services and dental services through an MCE. The member shall: 
+
+ (a) Be enrolled with a CCO that offers behavioral health and dental services; 
+
+ (b) Be enrolled with a CCO for dental services and shall remain FFS for behavioral health services; or 
+
+ (c) Remain FFS for both behavioral health and dental services if a CCO is not available. 
+
+ (7) If the member qualifies for enrollment into an MCE, the following pertains to the effective date of the enrollment: 
+
+ (a) The Authority shall enroll within three (3) days following eligibility, redetermination, or upon review by the Authority. If the member does not submit an MCE preference they will be enrolled within five (5) days. 
+
+ (b) Newly eligible members that qualify for MCE enrollment shall receive health care services on a fee-for-service (FFS) basis until they are enrolled into an MCE. 
+
+ (8) Coordinated care services shall begin as of the effective date of enrollment with the MCE except for: 
+
+ (a) A newborn’s enrollment shall begin on the date of birth if the mother was a member of a CCO and the newborn is OHP eligible at the time of birth; 
+
+ (b) For adopted children or children placed in an adoptive placement, the date of enrollment shall be the date specified by the Authority. 
+
+ (9) The following populations may not be enrolled into an MCE, as indicated below in this rule, for any type of health care coverage or for the type of coverage specified: 
+
+ (a) Individuals eligible for OHP through the Healthier Oregon or Healthier Oregon Cover All Kids benefit package described in OAR 410-134-0003, but for whom the Authority has not provided capitation or other payment rates in the applicable CCO contract; 
+
+ (b) Clients with Medicare receiving premium assistance through the Specified Low-Income Medicare Beneficiary, Qualified Individuals, Qualified Disabled Working Individuals and Qualified Medicare Beneficiary programs without another Medicaid; 
+
+ (c) Individuals who are dually eligible for Medicare and Medicaid and enrolled in a program of all-inclusive care for the elderly (PACE); 
+
+ (d) Before June 30, 2023, individuals eligible for CWM or CWX (CWX began being referred to as CWM Plus effective July 1, 2023) benefit packages described in OAR 410-134-0005(2). 
+
+ (10) Individuals currently enrolled with an Indian Managed Care Entity (IMCE) consistent with OAR 410-146-5000 may not also be enrolled in the CCOA or CCOB plan type. 
+
+ (11) If enrollment action coincides with an individual’s Continuous Inpatient Stay as defined in OAR 410-141-3500, the following enrollment rules apply: 
+
+ (a) A newly eligible OHP client who became eligible while admitted as an inpatient is exempt from all levels of CCO enrollment, except for newborn enrollments in accordance with OAR 410-141-3805(8)(a). The newly eligible OHP client shall receive health care services on a Fee-For-Service (FFS) basis until the individual is discharged from the continuous inpatient stay; 
+
+ (b) In settings where the CCO is fully responsible for covered services, such as an acute care hospital, acute care psychiatric hospital, skilled nursing facility specific to the Post-Hospital Extended Care (PHEC) benefit, Psychiatric Residential Treatment Facility (PRTF), or a residential Behavioral Health or Substance Use Disorder treatment facility that is not considered a Home and Community-Based Services (HCBS) setting as described in OAR 410-173-0035: 
+
+ (A) The CCO is responsible for covered services if the individual is enrolled as of the date they are admitted to the inpatient setting. No enrollment changes shall be made until the member is discharged from their continuous inpatient stay to ensure continuity of care and care coordination, and to mitigate billing confusion; 
+
+ (B) If the individual is enrolled in a CCO after the first day of admission to the inpatient setting, the enrollment shall be cancelled as never effective and the date of enrollment shall be the next available enrollment date following discharge from the continuous inpatient stay to ensure continuity of care and care coordination, and to mitigate billing confusion; 
+
+ (C) When a justice-involved individual, meeting the definition for Inmate stated within OAR 410-200-0015, is admitted to an inpatient setting with an expected stay of at least 24 hours, the individual temporarily resumes OHP eligibility and the inpatient stay is covered by FFS; CCO enrollment shall be the next available enrollment date following release from the penal facility as consistent with OAR 410-200-0140, OAR 461-135-0950, and OAR 410-141-3810, and based on the service area of the member’s current permanent residence. 
+
+ (c) In settings where the CCO is responsible for care coordination but not health services, including, but not limited to Medicaid-Funded Long Term Services and Supports (LTSS) or Behavioral Health Carve-Out Services: 
+
+ (A) Contractor is responsible for care coordination if the individual is enrolled as of the date they are admitted to the inpatient setting. No enrollment changes shall be made (CCO-to-FFS, CCO-to-CCO, or FFS-to-CCO) until the member is discharged from their continuous inpatient stay to ensure continuity of care coordination; 
+
+ (B) If the individual is enrolled in a CCO after the first day of admission to the inpatient setting, the enrollment shall be cancelled as never effective, and the date of enrollment shall be the next available enrollment date following discharge from the continuous inpatient stay to ensure continuity of care coordination; 
+
+ (C) When a resident of a public institution, as defined in OAR 461-135-0950, is voluntarily or involuntarily admitted to the Oregon State Hospital, OHP eligibility is suspended and any associated CCO enrollment is ended with an effective date of the inpatient admission; however, the CCO is responsible for care coordination. 
+
+ (d) If an individual is currently experiencing an extended but temporary hold within an Emergency Department due to unavailability of inpatient placement or delay in secure transportation to a facility that can evaluate appropriate psychiatric referrals, no enrollment changes shall be made (CCO-to-FFS or CCO-to-CCO) until the individual is no longer in the Emergency Department or, if subsequent action is admission to an inpatient setting, until the individual is discharged from their continuous inpatient stay. 
+
+ (12) A client may not be enrolled with a CCO in the CCOA, CCOB, CCOE, or CCOG plan type if the client is covered under a major medical insurance policy, Third Party Liability (TPL), or other Third-Party Resource (TPR) that covers the cost of services to be provided by a CCO as specified in ORS 414.631 and except as provided for children in Child Welfare through the Behavior Rehabilitation Services (BRS) and Psychiatric Residential Treatment Services (PRTS) programs outlined in OAR 410-141-3800: 
+
+ (a) A client shall be enrolled with a CCO in the CCOF plan type for dental services even if they have a dental TPR; 
+
+ (b) At the Authority’s discretion, a client shall be enrolled with the highest level of CCO coverage, including physical health, behavioral health, and dental services, if coverage through the TPR poses a safety risk to the member, specific to Good Cause determination as described in OAR 461-120-0350(1) and OAR 410-200-0220(6). In these situations: 
+
+ (A) Recovery of third-party insurance shall not be pursued; and 
+
+ (B) Explanation of Benefits (EOB) shall be suppressed. 
+
+ (13) Individuals who are American Indian and Alaskan Native (AI/AN) beneficiaries per OAR 410-141-3500(41) are exempt from mandatory enrollment into an MCE, except for IMCE enrollment per OAR 410-146-5000. 
+
+ (14) A child in the legal custody of the Department or where the child is expected to be in a substitute care placement for less than 30 calendar days is exempt from mandatory enrollment for physical health services from a CCO but is subject to mandatory enrollment into both behavioral and dental services as available in the member’s service area unless: 
+
+ (a) Access to health care on an FFS basis is not available; or 
+
+ (b) Enrollment preserves continuity of care. In these cases, the member may be manually enrolled into a physical health plan or remain enrolled as deemed appropriate by the Authority. 
+
+ (15) Clients who are dually eligible for Medicare and full Medicaid but not enrolled in a program of all-inclusive care for the elderly (PACE) may be automatically enrolled into an MCE. The following apply to automated duals enrollment: 
+
+ (a) The dually eligible Medicare and Medicaid client shall receive choice counseling on Medicare-Medicaid options at their request from a local APD/AAA office or other Department or Authority designated entity, as well as information on the benefits for clients in aligning Medicare and Medicaid; 
+
+ (b) If a client is already enrolled in a Medicare Advantage or Dual Special Needs Plan (D-SNP), the member shall be enrolled into an affiliated CCO if one exists. Otherwise, the client shall be enrolled in a CCO available to the member based on the member’s residential address or home geographic region; 
+
+ (c) A full Medicare and Medicaid dually eligible member may request to opt out of enrollment for physical health services from a CCO but is subject to mandatory enrollment into both behavioral and dental services as available in the member’s service area. Disenrollment requests are subject to review or delay as deemed appropriate by the Authority when: 
+
+ (A) Access to health care on an FFS basis is not available; or 
+
+ (B) Enrollment preserves continuity of care. In these cases, the member has a condition, treatment, or specialized consideration that requires individual care transition, members may not be disenrolled without review and approval by the Authority. The Authority shall consider the following in its review; 
+
+ (i) The development of a prior-authorized treatment plan; 
+
+ (ii) Care management requirements based on the beneficiary's medical condition; 
+
+ (iii) Transitional care planning including but not limited to hospital admissions/discharges, palliative and hospice care, long-term care and services; and 
+
+ (iv) Need for individual case conferences to ensure a "warm hand-off." 
+
+ (d) The following choices of plans shall be extended to dually eligible Medicare-Medicaid clients or members with full Medicaid as follows: 
+
+ (A) The option to enroll in a CCO regardless of whether they are enrolled in an affiliated Medicare Advantage, enrolled in Medicare Advantage with another entity, or if the member remains in FFS Medicare; 
+
+ (B) The option to enroll in a CCO when enrolled in Medicare Advantage, whether or not they pay their own premium, even if the MCE does not have a corresponding Medicare Advantage plan; 
+
+ (C) The option to enroll with a CCO even if the client withdrew from the CCO’s Medicare Advantage plan. 
+
+ (e) The CCO shall accept the client’s enrollment if the CCO has adequate health access and capacity; 
+
+ (f) CCO care coordination and communication requirements to reduce duplication of care planning activities in OAR 410-141-3860 and OAR 410-141-3870 are required regardless of the member’s choices in Medicare and Medicaid enrollments. 
+
+ (16) The Authority may temporarily exempt clients for other just causes as determined by the Authority through medical review. The Authority may set an exemption period on a case-by-case basis for those as follows: 
+
+ (a) Children under 19 years of age who are medically fragile and who have special health care needs. The Authority may enroll these children in CCOs on a case-by-case basis. Children not enrolled in a CCO shall continue to receive services on a FFS basis; 
+
+ (b) The following apply to clients and exemptions relating to organ transplants: 
+
+ (A) Newly eligible clients are exempt from enrollment with a CCO if the client is newly diagnosed and under the treatment protocol for an organ transplant; 
+
+ (B) Newly eligible clients with existing transplants are not exempt from enrollment unless the Authority determines there are other just causes to preserve the continuity of care. 
+
+ (17) MCE enrollment standards: 
+
+ (a) MCEs shall remain open for enrollment unless the Authority has closed enrollment. Reasons for closing enrollment may include: 
+
+ (A) The MCE has exceeded its enrollment limit or does not have sufficient capacity to provide access to services, as mutually agreed upon by the Authority and the MCE; 
+
+ (B) Closed enrollment as a sanction for MCE misconduct. 
+
+ (b) MCEs shall accept all eligible potential members, regardless of health status at the time of enrollment, subject to the stipulations in contracts/agreements with the Authority to provide covered services; 
+
+ (c) MCEs may confirm the enrollment status of a client by one of the following: 
+
+ (A) The individual's name appears on the monthly or daily enrollment list produced by the Authority; 
+
+ (B) The individual presents a valid medical care identification that shows they are enrolled with the MCE; 
+
+ (C) The Automated Voice Response (AVR) verifies that the individual is currently eligible and enrolled with the MCE; 
+
+ (D) An appropriately authorized staff member of the Authority states that the individual is currently eligible and enrolled with the MCE. 
+
+ (d) MCEs shall have open enrollment for thirty (30) continuous calendar days during each 12-month period of January through December, regardless of the MCE’s enrollment limit. The open enrollment periods for consecutive years may not be more than fourteen (14) months apart; 
+
+ (e) OHA may increase a CCO’s enrollment capacity as needed in response to unforeseen events or legislative changes impacting the number of eligible members in one or more plan regions; 
+
+ (f) MCEs may request increases to their maximum enrollment capacity for one or more regions when member enrollment meets or exceeds 95 percent of contract maximum, subject to OHA approval. 
+
+ (18) If the Authority permits an MCE to assign its contract to another MCE, members shall be automatically enrolled in the MCE that has assumed the contract: 
+
+ (a) Each member shall have thirty (30) calendar days from the date of notice of enrollment to request disenrollment from the MCE that has assumed the contract; 
+
+ (b) If the MCE that has assumed the contract is a Medicare Advantage plan, those members who are Medicare beneficiaries shall not be automatically enrolled but shall be offered enrollment in the succeeding MCE. 
+
+ (19) If an MCE engages in an activity such as the termination of a participating provider or participating provider group that has significant impact on access in that service area such that the MCE cannot meet the access to care requirements set forth in OAR 410-141-3515 and which necessitates either transferring members to other providers or the MCE withdrawing from part or all of a service area, the MCE shall provide the Authority at least ninety (90) calendar days written notice before the planned effective date of such activity: 
+
+ (a) An MCE may provide less than the required ninety (90) calendar-day notice to the Authority upon approval by the Authority when the MCE must terminate a participating provider or participating provider group due to problems that could compromise member care, or when such a participating provider or participating provider group terminates its contract with the MCE and refuses to provide the required ninety (90) calendar-day notice; 
+
+ (b) The MCE shall provide members with at least a thirty (30) calendar-day notice of such changes. In the event the MCE is not available to provide members with notice of a change in participating providers or MCE, the Authority shall instead notify members of a change in participating providers or MCEs. In such instances the MCE shall provide the Authority with the name, prime number, and address label of the members affected by such changes at least thirty (30) calendar days before the planned effective date of such activity. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042 & 414.065 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.065 & 414.727 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 35-2025, amend filed 03/28/2025, effective 04/01/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 143-2024, amend filed 12/29/2024, effective 01/01/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 124-2024, amend filed 09/27/2024, effective 10/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 90-2023, amend filed 12/21/2023, effective 01/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 89-2022, amend filed 12/16/2022, effective 01/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 65-2022, amend filed 06/30/2022, effective 07/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 19-2022, minor correction filed 02/16/2022, effective 02/16/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 56-2021, amend filed 12/30/2021, effective 01/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 28-2021, amend filed 06/28/2021, effective 07/01/2021 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 56-2019, adopt filed 12/17/2019, effective 01/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

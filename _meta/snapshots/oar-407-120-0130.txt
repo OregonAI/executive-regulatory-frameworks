@@ -1,0 +1,197 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Chapter 407 
+ 
+ 
+ 
+ 
+ 
+ Division 120 PROVIDER RULES 
+ 407-120-0130 
+ Trading Partner as EDI Submitter – EDI Transactions 
+ 
+ (1) A trading partner may be an EDI submitter. Registered trading partners that also qualify as an EDI submitter may submit their own EDI transactions directly to the Department. A trading partner will be referred to as an EDI submitter when functioning in that capacity and will be required to comply with applicable EDI submitter rules, except as provided in section (3) of this rule.  (2) Authorization and Registration Designating Trading Partner as EDI Submitter. Before acting as an EDI submitter, a trading partner must designate in the application for application that they are an EDI submitter who is authorized to send and receive data transmissions in the performance of EDI transactions. A trading partner must complete the “Trading Partner Application for Authorization to Submit EDI Transactions” and the “EDI Submitter Information” required in the application. A trading partner must also submit the EDI registration form identifying them as an EDI submitter. A trading partner must notify the Department of any material changes in the information no less than ten days prior to the effective date of the change.  (3) EDI Submitter Certification Conditions. Where a trading partner is acting as its own EDI submitter, the trading partner is not required to submit the EDI submitter certification conditions in the application for authorization applicable to agents. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 409.050 & 414.065 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.065 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 410-001-0130, DHSD 1-2008, f. & cert. ef. 2-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 30-2007(Temp), f. 12-31-07, cert. ef. 1-1-08 thru 6-28-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 55-2003, f. & cert. ef. 8-22-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 25-2003(Temp), f. & cert. ef. 3-21-03 thru 9-8-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

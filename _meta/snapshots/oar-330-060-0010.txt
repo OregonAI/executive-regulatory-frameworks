@@ -1,0 +1,281 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Energy 
+ Chapter 330 
+ 
+ 
+ 
+ 
+ 
+ Division 60 ENERGY CONSERVATION SERVICES 
+ 330-060-0010 
+ Definitions 
+ 
+ As used in OAR 330-060-0005 through 330-060-0095, unless the context requires otherwise:  (1) "Annual Rate": The yearly interest rate specified on the note. This is not the annual percentage rate, if any, disclosed to the applicant under the federal Truth in Lending Act.  (2) "ASHRAE": American Society of Heating, Refrigeration, and Air Conditioning Engineers.  (3) "Auditor": The person who gathers information at the dwelling to complete a report recommending energy conservation measures consistent with the standards set in these rules and the energy conservation measures specifications.  (4) "Buffer Space": An enclosed but unheated space such as a garage, porch, unheated basement, crawl space or attic, which abuts a heated space.  (5) "Commercial Energy Auditor": A person who through training or experience has a general knowledge of heat transfer principles, construction practices, energy efficient operations and maintenance procedures, boiler and furnace efficiency improvements, infiltration controls, envelope weatherization, heating, ventilating and air conditioning systems, electric control systems, lighting systems, and solar and energy conservation measures.  (6) "Commercial Energy Audit": The service provided by a commercial energy auditor to the owner of an apartment building which is centrally heated. It includes on-site data gathering, energy use analysis, and a report to the owner recommending energy conservation measures.  (7) "Cost-Effective": The present value of energy saved over the life of an energy conservation measure is worth more than the measure's cost. However, the energy savings of a measure shall receive a 10 percent "bonus".  (8) "Customer": A residential customer or dwelling owner.  (9) "Dealer": Fuel oil dealer or any person or organization which supplies fuel oil at retail for the heating of dwellings.  (10) “Director”: The Director of the Oregon Department of Energy.  (11) "Dwelling": Real or personal property in Oregon which is the principal residence of the owner or a tenant. "Dwelling" includes a mobile home as defined in ORS 446.003, a floating home as defined in ORS 488.705 and a single unit in an apartment building. "Dwelling" does not include a recreational vehicle as defined in ORS 446.003.  (12) "Dwelling Owner": The person who has legal title to a dwelling, including the mortgagor under a mortgage, the trustor under a deed of trust, or a purchaser under a contract.  (13) "Energy Audit" means a written report completed to recommend energy conservation measures consistent with the standards set in these rules and the energy conservation measures specifications.  (14) "Energy Conservation Measures": Items that are primarily designed to improve the energy efficiency of a dwelling:  (a) In the case of dwellings not receiving a commercial energy audit, these measures are limited to:  (A) Caulking, weatherstripping and other prescriptive actions to seal the heated space and ducts in a dwelling;  (B) Insulation of ceilings or attics to R-38 if achievable in areas with R-19 or less, including insulation installed on flat roofs (but excluding any fire or weatherproofing or roofing materials installed over the insulation) and associated ventilation;  (C) Fill the wall cavity with insulation. If area has unfinished walls adjacent to unheated areas, fill the wall cavity to R-21, if achievable. In areas that have finished walls with no insulation that are adjacent to unheated areas, fill to R-13, if achievable.  (D) Insulation of floors over unheated spaces to fill framing cavity or achieve R-30 if achievable in areas where no insulation is present, and materials to support the insulation and needed ground cover and ventilation;  (E) Insulation of supply and return air ducts in unheated spaces to at least R-8 if achievable and no insulation is present and the ducts are in unheated areas;  (F) Insulation of water heaters, water pipes, or steam pipes in unheated spaces and for at least ten feet from the water heater in unheated areas to at least R-3 if achievable and no insulation is present;  (G) Double glazed windows (including sliding doors) with a U-value of at least 0.35 or lower replacing less energy efficient windows.  (H) Storm doors covering uninsulated exterior doors;  (J) Storm windows over single pane glass windows on an exception basis when double glazed windows are not a practical option;  (K) Insulated exterior doors with an U-value no higher than 0.20.  (L) Replacement fuel oil burners, including electrical controls and combustion chamber improvements when needed, which increase combustion efficiency of oil furnaces or boilers. A replacement burner must have a tested steady state efficiency of at least 80 percent and be replacing a burner that is more than 10 years old or is in a heating systems with a tested steady state efficiency of 70 percent or less;  (M) Fuel oil furnaces or boilers with tested steady state efficiency of at least 81 percent replacing a fuel oil heating system that is more than 20 years old or has a steady-state efficiency of 70 percent or less or as otherwise authorized by the Oregon Department of Energy;  (N) Installation of above-ground oil tanks to replace use of underground oil tanks and associated fuel lines shall qualify, but only if associated with the replacement of the oil furnace qualifying for a rebate. Any costs associated with the decommissioning, removal, or environmental cleanup of an underground fuel tank are excluded;  (O) Programmable thermostats;  (P) Blower door tests and blower door assisted whole house air sealing performed by a technician certified by the Oregon Department of Energy's Residential Energy Tax Credit duct sealing technician certification program;  (Q) Duct leakage tests and duct sealing performed by a technician certified by the Oregon Department of Energy’s Residential Energy Tax Credit technician certification program in accordance with the Oregon Department of Energy’s premium efficiency duct system standards in effect at the time the work is completed.  (R) Vapor barrier material, exhaust fans and venting to provide spot ventilation in kitchens, bathrooms, utility rooms, or other areas where as the result of installing recommended energy conservation measures moisture problems could be created or worsened.  (b) In the case of centrally-heated apartment buildings receiving a commercial energy audit, measures shall be primarily designed to reduce fuel oil use. In addition to measures listed in subsection (a) of this section, the measures may include but not be limited to:  (A) Automatic energy control systems;  (B) Equipment, associated with such control systems, which is needed to run variable steam, hydraulic and ventilating systems;  (C) Furnace or boiler plant and distribution system modifications. This includes devices for modifying flue openings which will increase the efficiency of the heating system; or  (D) Lighting system improvements.  (15) "Energy Conservation Measures Specifications": All energy conservation measures shall meet the installation provisions of the Oregon Department of Energy's Energy Conservation Measure Specifications. All heating system improvements shall meet the steady state efficiency requirements of these rules. All blower door assisted whole house air sealing and duct sealing measures shall meet the specifications of the Oregon Department of Energy's Residential Energy Tax Credit technician certification program.  (16) "Finance Charge ": The total of all interest, loan fees, and other charges related to the cost of obtaining credit. This includes any interest on any loan fees financed by the lender.  (17) "Fuel Oil": Any petroleum product sold by a petroleum supplier for use as a residential heating fuel, including heating oil, propane, butane and kerosene.  (18) "Landlord": A dwelling owner who rents his or her dwelling to a tenant.  (19) "Lender": Any bank, mortgage company, trust company, savings and loan, or credit union having an office in Oregon.  (20) "Lighting system improvements": Measures which will reduce energy use in the lighting system by at least 25 percent if recommended in the commercial energy audit.  (21) “Oregon Department of Energy”: State of Oregon agency  (22) "Residential Customer": A dwelling owner or tenant who is billed by a dealer for fuel oil received at the dwelling.  (23) "Space-Heating": The heating of living space within a dwelling.  (24) "State Incentive": The energy conservation measure rebate or any other state incentive which gives a customer a cash payment for an energy conservation measure.  (25) "Tenant": A tenant as defined in ORS 91.100 or any other tenant.  (26) "Trade Ally": means a contractor licensed in the State of Oregon to install energy conservation measures.  (27) "Unheated Space": An area in a dwelling which is not connected to a heating system fueled by fuel oil or wood.  (28) "Wood Heating Resident": A person whose primary space heating fuel is any form of wood, including sawdust:  (a) In the case of a dwelling which has an installed central electric or gas heating system the customer is eligible for rebate and loan financing under this program if not eligible for such financial assistance from the utility; or  (b) In the case of a dwelling which has baseboard or portable space heaters, the customer is eligible for rebate and loan financing under this program if not eligible for such financial assistance from the utility.  (c) In the case of a dwelling that has no installed heating system other than wood, the customer is eligible for rebate and loan financing under this program. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 469 
+ 
+ 
+ Statutes/Other Implemented:  ORS 469.673 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 2-2007, f. 8-29-07, cert. ef. 9-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 5-2004, f. 10-14-04, cert. ef. 11-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 2-2003, f. 9-24-03, cert. ef. 10-1-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 1-2000, f. 3-30-00, cert. ef. 4-1-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 3-1987, f. & ef. 12-18-87 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 4-1983, f. & ef. 10-10-83 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 7-1981, f. & ef. 12-18-81 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 13-1980, f. 12-15-80, ef. 1-1-81 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 8-1979, f. & ef. 11-27-79 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 1-1978, f. & ef. 1-16-78 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 10(Temp), f. & ef. 9-16-77 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

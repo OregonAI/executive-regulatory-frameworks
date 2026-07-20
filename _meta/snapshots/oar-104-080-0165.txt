@@ -1,0 +1,248 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Department of Emergency Management 
+ Chapter 104 
+ 
+ 
+ 
+ 
+ 
+ Division 80 9-1-1 EMERGENCY COMMUNICATIONS  SYSTEM PROGRAM 
+ 104-080-0165 
+ Requirements of the Emergency Communications System 
+ 
+ The emergency communications system must include: 
+
+ (1) Basic 9-1-1, including: 
+
+ (a) A primary PSAP that is automatically accessible anywhere in the 9-1-1 jurisdiction service area by calling 9-1-1; 
+
+ (b) Dispatch of public and private safety services in the 9-1-1 service area or relay or transfer of emergency calls to an appropriate public or private safety agency; and 
+
+ (c) Two 9-1-1 circuits from each central office to each primary PSAP. 
+
+ (2) Enhanced 9-1-1: In addition to the requirements for Basic 9-1-1 set forth in OAR 104-080-0165 (1), Enhanced 9-1-1 emergency communications system must provide at a minimum: 
+
+ (a) Two workstations and staffing for at least one of the stations at all times; 
+
+ (b) Automatic display of the incoming telephone number and address in the designated primary PSAP at the time of receiving an incoming emergency call; 
+
+ (c) A network developed to transport address and telephone number information to the designated primary PSAP automatically when an emergency call is placed to 9-1-1; and 
+
+ (d) Emergency telephone service that provides a P.01 grade of service or better. A primary PSAP may not have fewer than two 9-1-1 circuits. 
+
+ (3) In addition to the requirements for Basic 9-1-1 and Enhanced 9-1-1, the emergency communications system must include all of the following: 
+
+ (a) Building security for the primary PSAP building to restrict intentional disruption of operations. All emergency communications system equipment must be accessible only to authorized personnel. 
+
+ (b) Protected and internal markings for all emergency communications system components and CPE rooms at the primary PSAP to prevent damage or tampering. For this section, "protected" includes maintaining the ambient room temperature in accordance with the CPE manufacturers' requirements. 
+
+ (c) Telecommunicators trained through the Basic Telecommunications Academy at the Department of Public Safety Standards and Training. A 9-1-1 jurisdiction may provide additional training to its telecommunicators but the 9-1-1 jurisdiction is not eligible for funding from the 9-1-1 Subaccount for such additional training. 
+
+ (d) A battery powered Uninterruptible Power Supply (UPS) or holdover battery supply that must be capable of powering essential CPE at the primary PSAP for a period sufficiently long to enable the motor back-up power equipment . No calls may be lost during the transition to the motor back-up power equipment. 
+
+ (e) A TTY to provide access to the emergency communications system. In addition to a TTY, a primary PSAP may provide access to the emergency communications through other devices capable of receiving an emergency call from individuals with hearing or speech impairments pursuant to OAR 104-080-0165 (4) below. Any other device used by the PSAP must comply with Americans with Disabilities Act (ADA) TITLE II, 28 CFR, Part 35, Subpart E, Section 35.161, 35.162. 
+
+ (f) Workstations. A primary PSAP telecommunicator workstation must be approved by the Department and must be equipped with the following: 
+
+ (A) Emergency call answering device; 
+
+ (B) ANI display; 
+
+ (C) ALI display; 
+
+ (D) Mapping display; and 
+
+ (E) Interface for ANI and ALI. Must be capable of seamlessly interfacing to standard radio, logging recorder, CAD dispatch and GIS systems. 
+
+ (4) If a primary PSAP provides text-to-9-1-1 service in addition to TTY, text-to-9-1-1 service must be provided as follows: 
+
+ (a) A primary PSAP that provides text-to-9-1-1 service must be capable of receiving Short Message Service (SMS) emergency messages. 
+
+ (b) A Text Control Center (TCC) must provide ANI and ALI in a uniform data stream along with the text-to-9-1-1 emergency call to the primary PSAP serving the 9-1-1 jurisdiction. 
+
+ (c) The 9-1-1 jurisdiction shall ensure that each text-to-9-1-1 emergency call is handled according to the requirements set forth on ORS Chapter 403. 
+
+ (d) When a primary PSAP receives a text-to-9-1-1 emergency call originating outside its jurisdictional boundaries, the telecommunicator shall attempt to determine the appropriate responding agency and complete the disposition of the emergency call. 
+
+ (e) The primary PSAP must complete testing of the text-to-9-1-1 service to ensure that equipment and services function properly. 
+
+ Publications: Publications referenced in this rule are available from the Department. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 403.120; 2015 HB 2426 
+ 
+ 
+ Statutes/Other Implemented:  ORS 403 & 2015 HB 2426 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OEM 24-2023, minor correction filed 04/10/2023, effective 04/10/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OEM 2-2018, amend filed 11/02/2018, effective 11/02/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OEM 3-2015, f. & cert. ef. 12-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

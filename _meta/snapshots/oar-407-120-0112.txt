@@ -1,0 +1,197 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Chapter 407 
+ 
+ 
+ 
+ 
+ 
+ Division 120 PROVIDER RULES 
+ 407-120-0112 
+ Scope and Sequence of Electronic Data Transmission Rules 
+ 
+ (1) The Department communicates with and receives communications from its providers, PHPs, and allied agencies using a variety of methods appropriate to the services being provided, the nature of the entity providing the services, and constantly changing technology. These rules describe some of the basic ways that the Department will exchange data electronically. Additional details may be provided in the Department's access control rules, provider-specific rules, or the applicable contract documents.  (2) Access to eligibility information about covered individuals may occur using one or more of the following methods:  (a) Automated voice response, via a telephone;  (b) Web portal access;  (c) EDI submitter access; or  (d) Point of sale (POS) for pharmacy providers.  (3) Claims for which the Department is responsible for payment or encounter submissions made to the Department may occur using one or more of the following methods:  (a) Paper, using the form specified in the provider specific rules and supplemental billing guidance. Providers may submit paper claims, except that pharmacy providers are required to use the POS process for claims submission and PHPs are required to use the 837 electronic formats;  (b) Web portal access;  (c) EDI submitter access; or  (d) POS for pharmacy providers.  (4) Department informational updates, provider record updates, depository for PHP reports, or EDT as specified by the Department for contract compliance.  (5) Other Department network and information system access is governed by specific program requirements, which may include but is not limited to IUP access. Affected providers, PHPs, and allied agencies will be separately instructed about the access and requirements. Incidents are subject to these rules.  (6) Providers and allied agencies that continue to use only paper formats for claims transactions are only subject to the confidentiality and security rule, OAR 407-120-0170. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 409.050 & 414.065 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.065 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 13-2011, f. & cert. ef. 12-27-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 5-2011(Temp), f. & cert. ef. 7-1-11 thru 12-27-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 1-2008, f. & cert. ef. 2-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 13-2007(Temp), f. 12-31-07, cert. ef. 1-1-08 thru 6-28-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

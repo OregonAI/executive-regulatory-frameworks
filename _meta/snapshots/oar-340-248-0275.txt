@@ -1,0 +1,287 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 248 ASBESTOS REQUIREMENTS 
+ 340-248-0275 
+ Emission Standards and Procedural Requirements: Asbestos Standards for Air Cleaning, Spraying, Molded Insulation, and Fabricating
+ 
+ 
+ The following methods must be employed for air cleaning, fabricating, and sprayed-on and molded insulation applications: 
+
+ (1) Options for Air Cleaning. Rather than meet the no visible emissions requirements of OAR 340-248-0210(1) and (3), owners and operators may elect to use methods specified in Section (2). 
+
+ (2) Air Cleaning. All persons electing to use air cleaning methods rather than comply with the no visible emission requirements must comply with (a), (b), and (c) of this section: 
+
+ (a) All persons electing to use air cleaning methods must meet one of the provisions in this subsection: 
+
+ (A) Fabric filter collection devices must be used, except as provided in subsections (b) and (c) of this section. Such devices must be operated at a pressure drop of no more than four inches (10.16 cm) water gauge as measured across the filter fabric. The air flow permeability, as determined by ASTM Method D737-75, must not exceed 30 ft.3/min./ft.2 (9 m3/min./m2) for woven fabrics or 35 ft.3/min./ft.2 (11 m3/min./m2) for felted fabrics with the exception that airflow permeability of 40 ft.3/min./ft.2 (12 m3/min./m2) for woven and 45 ft.3/min./ft.2 (14 m3/min./m2) for felted fabrics must be allowed for filtering air emissions from asbestos ore dryers. Each square yard of felted fabric must weigh at least 14 ounces (475 grams per square meter) and be at least 1/16 inch (1.6 mm) thick throughout. Synthetic fabrics used must not contain fill yarn other than that which is spun; 
+
+ (B) If using fabric filters creates a fire or explosion hazard, DEQ may authorize the use of wet collectors designed to operate with a unit contacting energy of at least 40 inches (101.6 cm) of water gauge pressure; 
+
+ (C) If High Efficiency Particulate Air (HEPA) filters are used to control emissions the certified efficiency must be at least 99.97 percent for particles 0.3 microns or greater; or 
+
+ (D) DEQ may authorize using filtering equipment other than that described in this section if such filtering equipment is satisfactorily demonstrated to provide filtering of asbestos material equivalent to that of the described equipment. 
+
+ (b) All air cleaning devices this section authorizes must be properly installed, operated, and maintained. Devices to bypass the air cleaning equipment may be used only during upset and emergency conditions, and then only for such time as is necessary to shut down the operation generating the particulate asbestos material. 
+
+ (c) Fabric filters collection devices installed after January 10, 1989 must be easily inspected for faulty bags. 
+
+ (3) Spraying: 
+
+ (a) No person may cause or allow to be discharged into the atmosphere visible emissions from a spray-on application of material containing more than one percent asbestos on a dry weight basis used to insulate or fireproof equipment or machinery, except as provided in section (2) of this rule. Spray-on materials used to insulate or fireproof buildings, structures, pipes, and conduits must contain less than one-percent asbestos on a dry weight basis. If a city or area of local jurisdiction has ordinances or regulations for spray application materials more stringent than those in this section, the provisions of such ordinances or regulations apply; 
+
+ (b) A person intending to spray asbestos materials to insulate or fireproof buildings, structures, pipes, conduits, equipment, or machinery must notify DEQ in writing 20 days before the spraying operation begins. The notification must contain the following: 
+
+ (A) Name and address of person intending to conduct the spraying operation; 
+
+ (B) Address or location of the spraying operation; 
+
+ (C) The name and address of the owner of the facility being sprayed. 
+
+ (c) The spray-on application of materials in which the asbestos fibers are encapsulated with a bituminous or resinous binder during spraying and which are not friable after drying is exempted from the requirements of subsections (a) and (b) of this section. 
+
+ (4) Fabricating. Except as provided in section (2) of this rule no person may cause or allow to be discharged into the atmosphere visible emissions, including fugitive emissions, from fabricating operations including the following: 
+
+ (a) Applicability. This section applies to the following fabricating operations using commercial asbestos: 
+
+ (A) Fabricating cement building products; 
+
+ (B) Fabricating friction products, except those operations that primarily install asbestos friction materials on motor vehicles; and 
+
+ (C) Fabricating cement or silicate board for ventilation hoods; ovens; electrical panels; laboratory furniture; bulkheads, partitions, and ceilings for marine construction; and flow control devices for the molten metal industry. 
+
+ (b) The owner or operator of a fabricating operation must monitor each potential source of asbestos emissions from any part of the fabricating facility, including air cleaning devices and process equipment for material processing and handling, at least once each day, during daylight hours, for visible emissions to the outside air during periods of operation. The monitoring must be by visual observation of at least 15 seconds duration per source of emissions. 
+
+ (c) The owner or operator of a fabricating operation must inspect each air cleaning device at least once each week for proper operation and for changes that signal the potential for malfunctions, including to the maximum extent possible without dismantling other than opening the device, the presence of tears, holes, and abrasions in filter bags and for dust deposits on the clean side of bags. For air cleaning devices that cannot be inspected on a weekly basis according to this subsection, submit to the department, revise as necessary, and implement a written maintenance plan to include, at a minimum, a maintenance schedule and recordkeeping plan. 
+
+ (d) The owner or operator of a fabricating operation must maintain records of the results of visible emission monitoring and air cleaning device inspections using a format approved by DEQ that includes the following information: 
+
+ (A) Date and time of each inspection; 
+
+ (B) Presence or absence of visible emissions; 
+
+ (C) Condition of fabric filters, including presence of tears, holes, and abrasions; 
+
+ (D) Presence of dust deposits on clean side of fabric filters; 
+
+ (E) Brief description of corrective actions taken, including date and time; and 
+
+ (F) Daily hours of operation for each air cleaning device. 
+
+ (e) The owner or operator of a fabricating operation must furnish to DEQ upon request and make available at the affected facility during normal business hours for inspection by DEQ, all records required under this section. 
+
+ (f) The owner or operator of a fabricating operation must retain a copy of all monitoring and inspection records for at least two years. 
+
+ (g) The owner or operator of a fabricating operation must submit a copy of the visible emission monitoring records to DEQ quarterly. The quarterly report must be postmarked by the 30th day following the end of the calendar quarter. 
+
+ (5) Insulation. No owner or operator of a facility may install or reinstall on a facility component any insulating materials that contain commercial asbestos if the materials are either molded and friable or wet-applied and friable after drying. The provisions of this section do not apply to insulating materials regulated under section (3) of this rule. 
+
+ [NOTE: Publications referenced are available from the agency.] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, 468A.025, 468A.135 & 468A.745 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468A.700 - 468A.760 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 13-2019, amend filed 05/16/2019, effective 05/16/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 195-2018, amend filed 11/15/2018, effective 11/15/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 9-2003, f. 5-21-03, cert. ef. 6-21-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 19-2002(Temp), f. & cert. ef. 12-23-02 thru 6-21-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 1-2002, f. & cert. ef. 2-4-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

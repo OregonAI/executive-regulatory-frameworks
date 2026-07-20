@@ -1,0 +1,1680 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Oregon Occupational Safety and Health Division - Chapter 437 
+ 
+ 
+ 
+ 
+ Division 2 GENERAL OCCUPATIONAL SAFETY AND HEALTH RULES 
+ 437-002-2253 
+ Oxygen-fuel Gas Welding and Cutting
+ 
+ 
+ (1) Scope and Application. 
+
+ These rules apply to safe practices for users of oxy-fuel gas for welding, cutting, soldering, brazing, flame coating (thermal spraying), related materials and equipment, in general industry and construction. This rule does not apply to agriculture, forest activities, or maritime industries. 
+
+ (2) Definitions. 
+
+ (a) Apparatus — Includes regulators, hoses, connections (fittings), torches, manifolds and safety devices. 
+
+ (b) Approved — Means listed or approved by a nationally recognized testing laboratory. Refer to 1910.7 for definitions and requirements for a nationally recognized testing laboratory. 
+
+ (c) Attended — When a trained employee or qualified person is within sight of and can maintain control of the torch. 
+
+ (d) Brazing — Is a metal joining process where filler metal is heated to join two or more close-fitting metal parts. It is similar to soldering but the temperatures used to melt the filler metal at or above 800oF. 
+
+ (e) Burners — A type of torch system usually designed for stationary use at the bench or lathe. The material being worked, such as glass, is moved into and around the flame. Flame size is determined by valves that adjust the flow and mix of fuel gas and oxygen. 
+
+ (f) Check valve (reverse flow check valve) — A device designed to prevent the unintentional backflow of gases. 
+
+ NOTE: Reverse flow check valves alone will not stop a flashback in the system. 
+
+ (g) Compartment (inside) — Is within an enclosed vehicle and opens to the inside. 
+
+ (h) Compartment (outside) — Is recessed or built into an enclosed vehicle but opens to the outside of the enclosed vehicle. This compartment seals the compressed gases from entering the vehicle compartment and is vented to the outside of the vehicle. 
+
+ (i) Competent person — one who is capable of identifying existing and predictable hazards in the surroundings or working conditions which are unsanitary, hazardous, or dangerous to employees, and who has authorization to take prompt corrective measures to eliminate them. 
+
+ (j) Confined space — A space that meets all of the following: 
+
+ (A) Large enough and so configured that an employee can fully enter the space and perform work. 
+
+ (B) Has limited or restricted means for entry or exit. 
+
+ (C) Is not designed for continuous human occupancy. 
+
+ (k) Containers (compressed, liquefied and dissolved gas) — Cylinders, portable tanks, non-refillable cylinders, or stationary tanks, consisting of various shapes and sizes that are designed and constructed to meet ASME, TC or DOT specification. 
+
+ (l) Crack (Cracking) — Opening a cylinder valve slightly and immediately closing it prior to attaching a pressure reducing regulator. This is an approved process that applies only to oxygen cylinders. 
+
+ (m) Cutting (oxy-fuel cutting) — A process where a cutting torch is used to heat metal to kindling temperature. A stream of oxygen is then trained on the metal, and metal burns in that oxygen and then flows out of the cut. 
+
+ (n) Cylinder(s) — An approved DOT portable container used for transportation and storage of compressed gas. Generally a cylinder is a compressed gas container having a maximum water capacity of 454 kg (1000 lbs). 
+
+ (o) Drop Test — A method using compressed gas cylinder (container) pressure to test connected regulators, hoses, torch and connections for leaks. 
+
+ (p) Enclosed space — Spaces that are surrounded by something and the only openings are access openings, for example, drawers, closets, unventilated cabinets, automobile trunks, unventilated cylinder compartments or toolboxes. 
+
+ (q) Enclosed vehicle — Includes but is not limited to the interior of automobiles, automobile trunks, vans, or in any enclosed truck or trailer. 
+
+ (r) Flame coating (thermal spraying) — The use of oxygen and fuel gases to apply fine metallic or nonmetallic materials in a molten or semi-molten condition to form a coating. The coating material may be in the form of powder, ceramic-rod, wire, or molten materials. 
+
+ (s) Flashback (flame) arrestor — A device that prevents the propagation of a flame upstream. 
+
+ (t) Fuel Gas — A flammable product or mixture of products used in welding, cutting and heating processes. Commonly used fuel gases are available in compressed gases, liquefied and liquefied mixtures, acetylene dissolved, and gasoline. 
+
+ (u) Handling — Moving, connecting, or disconnecting oxygen and fuel gas containers under normal conditions. 
+
+ (v) Leak test — The application of a liquid solution, or the use of other methods, to verify that oxygen and fuel gas cylinders and apparatus do not leak. Solutions must be compatible with the gas being used. 
+
+ (w) Manifold — An apparatus designed to connect two or more cylinders for use. In construction this may mean that two cylinders or more are connected by pigtails to form a manifold. 
+
+ (x) Moving cylinders — The movement of a cylinder(s) from one location to another at the worksite or place of business. 
+
+ (y) Periodic Inspection — An inspection that is made at least once per quarter. 
+
+ (z) Portable Cylinder banks — Multiple cylinders manifolded together on a portable frame. 
+
+ (aa) PSIG (Gauge Pressure) — Pressure above or below local atmospheric pressure displayed as pounds per square inch. 
+
+ (bb) Secure — Arrange to prevent movement (including lashing and chaining), or a minimum of three points of contact with other cylinders or walls. 
+
+ (cc) Special truck — A vehicle or cart that is designed for the specific purpose of moving compressed, dissolved and liquefied gas cylinders in a stable manner. 
+
+ (dd) Stored — Cylinders without attached regulators, cylinders not secured to a workstation, or cylinders that have not been used for 24 hours or more will be considered stored. This does not include cylinders secured on a cart. 
+
+ NOTE 1: No more than one additional set of cylinders may be secured to a workstation. 
+
+ NOTE 2: Cylinders, with or without regulators, kept in or on vehicles due to their frequency of use will not be considered as stored when a leak test is performed at the end of the day. When cylinders are used during multiple shifts, they must be leak tested at the end of each shift. 
+
+ (ee) Soldering — Is a metal joining process where filler metal is heated to join two or more close-fitting metal parts. It is similar to brazing but the temperatures used to melt the filler metal are below 800oF. 
+
+ (ff) Supervisory personnel (supervisor) — An agent of the employer such as a manager, superintendent, foreperson, or person in charge of all or part of the place of employment who directs the work activities of one or more employees. 
+
+ (gg) Torches: 
+
+ (A) (Pre-mix) — Oxygen and fuel gases are mixed in a chamber within the torch body. 
+
+ (B) (Surface-mix) — Oxygen and fuel gases are mixed at the torch tip. 
+
+ (hh) Transporting cylinders — Any cylinder movement by a vehicle to a worksite or place of business. 
+
+ NOTE 1: A cylinder(s) loaded into a vehicle for movement to a worksite or place of business is not in storage. 
+
+ NOTE 2: Requirements for the separation of oxidizers and fuel gases do not apply when cylinders are being transported to a work site or place of business. 
+
+ (ii) Use — Withdrawing and using the gas in a non-recoverable manner for applications other than manufacturing or repackaging of compressed gasses. 
+
+ (jj) Valve end up — The tops of all acetylene cylinders are elevated so that the cylinders are inclined at an angle of not less than 30 degrees from horizontal (to protect against loss of acetone). 
+
+ (kk) Welder and welding operator — One who operates electric or gas welding and cutting equipment. 
+
+ (ll) Welding (oxy-fuel welding) — A process using fuel gases and oxygen to weld metals. Welded metal occurs when two pieces are heated to a temperature that produces a shared pool of molten metal. The molten pool is generally supplied with additional metal called filler. Filler material depends upon the metals to be welded. 
+
+ (3) Training and Evaluation. 
+
+ (a) You must provide training by a competent person that covers: 
+
+ (A) Procedures, practices and requirements for representative tasks employees are expected to perform. 
+
+ (B) Instructions for safe use, operation and maintenance of tools, equipment and machinery. 
+
+ (C) Manufacturer’s operating and maintenance instructions, warnings and precautions. 
+
+ (D) Work performance expectations in a language or manner that employees are able to understand. 
+
+ (E) Hazards associated with expected tasks. 
+
+ (F) Ways to prevent or control identified hazards. 
+
+ NOTE: A new employee does not need to be retrained in all of (3)(a)(A)–(F) if you are able to determine through discussion and observations that they received adequate training prior to employment with you. Retraining is required if the employee fails to demonstrate the knowledge and experience to safely perform the expected tasks. 
+
+ (b) You must evaluate employee’s ability to adequately perform the expected tasks prior to allowing them to work independently. 
+
+ (4) General Requirements. 
+
+ (a) You must: 
+
+ (A) Guard against mixtures of fuel gases and air or oxygen that may be explosive. 
+
+ (i) Use approved apparatus such as torches, regulators, or pressure reducing valves, hoses and connections, protective equipment, acetylene generators, and manifolds. 
+
+ (ii) Install and use reverse flow check valves and flashback arrestors according to torch manufacturers’ recommendations unless they are not required by the manufacturer. 
+
+ (B) Use cylinders that meet the Department of Transportation requirements published in 49 CFR Part 178. 
+
+ (C) Use portable cylinders for the storage and shipment of compressed gases that are constructed and maintained in accordance with the U.S. Department of Transportation regulations, 49 CFR Parts 171-179. 
+
+ (D) Use compressed gas cylinders equipped with connections complying with Compressed Gas Association (CGA) Pamphlet V-1 1994, 7th Edition, Standard for Compressed Gas Cylinder Valve Outlet and Inlet Connections. 
+
+ (E) Use compressed gas cylinders whose contents are legibly marked with: 
+
+ (i) The chemical or trade name of the gas in conformance with Compressed Gas Association (CGA) Pamphlet C-7 2011, 9th Edition, Guide to Preparation of Precautionary Labeling and Marking of Compressed Gas Containers, and 
+
+ (ii) Stenciling, stamping, or labeling that is not readily removable. 
+
+ (F) Protect against oil and grease hazards. 
+
+ (i) Keep cylinders, cylinder valves, couplings, regulators, hose, and apparatus free from oily or greasy substances. 
+
+ (ii) Keep oxygen cylinders away from contacting oil and grease. 
+
+ (G) Follow the requirements of OAR 437-002-2253(13) Service Piping, OAR 437-002-2253 (14) Acetylene Generators, OAR 437-002-2253 (15) Calcium Carbide Storage when generating acetylene for immediate use at the work location. 
+
+ (H) Make readily available the rules and instructions covering the operation and maintenance of oxygen or fuel-gas supply equipment including generators, and oxygen or fuel-gas distribution piping systems. 
+
+ (b) You must not: 
+
+ (A) Remove any product or shipping hazard labels. 
+
+ (B) Deface any product or shipping hazard labels. 
+
+ (C) Use liquid acetylene. 
+
+ (D) Generate acetylene at a pressure in excess of 15 psig (30 psia). 
+
+ (E) Pipe or use acetylene at a pressure in excess of 15 psig unless it is in an approved manifold. 
+
+ NOTE 1: This requirement does not apply to storage of acetylene dissolved in a suitable solvent in cylinders manufactured and maintained according to U.S. Department of Transportation requirements, or to acetylene for chemical use. 
+
+ NOTE 2: Due to the instability of acetylene, the 15 psig (30 psia) limit is intended to prevent unsafe use of acetylene in pressurized chambers such as caissons, underground excavations, or tunnel construction. 
+
+ (F) Use any device or attachment facilitating or permitting mixtures of air or oxygen with flammable gases prior to consumption, except at the burner or in a standard torch, unless approved for the purpose. 
+
+ (G) Attempt to mix gases in a cylinder unless you are a gas supplier. 
+
+ (H) Refill a cylinder unless you are: 
+
+ (i) The owner of the cylinder, or 
+
+ (ii) Authorized by the owner of the cylinder. 
+
+ (I) Use a cylinder’s contents for purposes other than those intended by the supplier. 
+
+ (J) Use a damaged cylinder. 
+
+ (K) Repair or alter cylinders or valves. 
+
+ (L) Tamper with the numbers and markings stamped into cylinders. 
+
+ (M) Handle oxygen cylinders, cylinder caps and valves, couplings, regulators, hoses, and apparatus with oily hands or gloves. 
+
+ (N) Permit a jet of oxygen to: 
+
+ (i) Strike an oily surface. 
+
+ (ii) Strike greasy clothes. 
+
+ (iii) Enter a fuel oil or other storage tank. 
+
+ (O) Blow off clothing with oxygen. 
+
+ (P) Use oxygen in pneumatic tools, in oil preheating burners, to start internal-combustion engines, to blow out pipelines, to create pressure, or for ventilation. 
+
+ (5) Transportation of Compressed, Liquefied and Dissolved Gas Cylinders. 
+
+ (a) When transporting cylinders in vehicles you must: 
+
+ (A) Secure cylinders from moving. 
+
+ (B) Keep valve protection caps in place on cylinders when regulators are not attached. 
+
+ NOTE: This applies to cylinders designed to accept valve caps. 
+
+ (C) Protect cylinder valves and regulators when regulators are attached. 
+
+ (D) Keep acetylene gas cylinders with valve(s) end up. 
+
+ (E) Keep liquid cylinder valve(s) vertical. 
+
+ (F) Keep oil residue from contacting oxygen cylinders. 
+
+ (b) When transporting cylinders in enclosed vehicle(s) you must: 
+
+ NOTE: This rule does not apply to cylinders transported in an unoccupied enclosed truck or trailer compartment with a shippers’ certificate meeting the code for Hazardous Materials Regulations CFR 49 part 172.204. 
+
+ (A) Ensure that cylinders are leak checked prior to each placement into the vehicle. Cylinders left in vehicles overnight must be leak checked at the end of the day and again prior to transporting. 
+
+ (B) Cap cylinders. 
+
+ (C) Secure cylinders from movement. 
+
+ (D) Isolate fuel gas cylinders from sources of ignition. 
+
+ (E) Maintain vehicle temperatures below 125 degrees. 
+
+ NOTE: Temperatures in vehicles can exceed 125 F during sunny or warm weather. This may affect your decision to leave cylinders in vehicles for periods of time when temperatures may climb. 
+
+ (F) Remove cylinders from the “inside vehicle compartment” to the outside of the vehicle prior to use. 
+
+ (G) Open “outside vehicle compartment” doors when withdrawing product from cylinders. 
+
+ (H) Ensure that all outside cylinder compartment(s) are sealed to prevent leakage to the inside of the vehicle. Outside compartment doors must open to the outside of the vehicle. 
+
+ (I) Ensure the interior of any cylinder compartment containing oxidizers does not contain petroleum products or materials that have contacted petroleum products. 
+
+ (c) When transporting cylinders in vehicles you must not put them in the trunks of passenger vehicles. 
+
+ (6) Storage of Oxygen and Fuel Gas Cylinders. 
+
+ (a) You must store oxygen and fuel gas cylinders in locations: 
+
+ (A) Specifically assigned. 
+
+ (B) Well ventilated. 
+
+ (C) That avoids prolonged exposure to damp environments. 
+
+ (D) Away from heat sources. 
+
+ (E) Posted with signs prohibiting smoking and open flame within 20 feet. 
+
+ (F) Where the temperature does not exceed 125°F (52°C). 
+
+ (G) Where sparks, hot slag, or flame will not reach them. 
+
+ (H) Where they will not contact electrical welding equipment or electrical circuits. 
+
+ NOTE: All high and low pressure cylinders in contact with or secured to a conductive table or column without being isolated from electrical current can become part of an electrical circuit. 
+
+ (I) Where they are protected from corrosion. 
+
+ (J) Where they cannot be knocked over. 
+
+ (K) Where they cannot be damaged by passing or falling objects. 
+
+ (L) Where they will not be tampered with by unauthorized persons. 
+
+ (M) Where they will not be struck by heavy objects. 
+
+ (N) Away from inside or outside exit routes or other areas normally used or intended for safe travel of personnel. 
+
+ (O) Where they will not be subject to unventilated enclosed spaces. 
+
+ (P) That are not identified as confined spaces. 
+
+ (Q) With prominent signs posted identifying the names of the gasses stored. 
+
+ (b) You must store cylinders in the following manner: 
+
+ (A) With valve caps in place. 
+
+ NOTE: This applies to cylinders designed to accept valve caps. 
+
+ (B) Valve end up and secured from movement. 
+
+ (C) Liquefied gas cylinders and acetylene cylinders with valve end up. 
+
+ NOTE: Liquefied petroleum gas cylinders used on forklifts may be stored either horizontally or vertically. 
+
+ (D) Refrigerated liquid cylinders in a vertical position. 
+
+ (E) With all individual oxygen and flammable gas cylinder valves on portable cylinder banks closed. 
+
+ (c) You must separate oxygen cylinders from fuel-gas cylinders or combustible materials (especially oil or grease) and any other substance likely to cause or accelerate fire by: 
+
+ (A) A minimum distance of 20 feet, or 
+
+ (B) A noncombustible barrier that: 
+
+ (i) Vertically extends 18 inches above the tallest cylinder(s) and is at least 5 feet high. 
+
+ (ii) Laterally extends 18 inches beyond the sides of the cylinders. 
+
+ (iii) Has a fire-resistance rating of at least one-half hour. 
+
+ NOTE 1: If you have a preexisting noncombustible barrier used to separate oxygen from combustible materials or fuel gases other than acetylene, the barrier must be a minimum of 5 feet high and have a minimum fire resistance rating of one-half hour. Noncombustible barriers built after May 1, 2015, must comply with the 18 inch dimensions found in 437-002-2253(6)(c)(B)(i) and (ii). 
+
+ NOTE 2: 437-002-2102 Acetylene, requires noncombustible partitions used for oxygen and acetylene separation to extend 18 inches horizontally and vertically. 
+
+ (d) You must separate oxygen and fuel gas cylinders secured on a cart from assigned cylinder storage areas by a minimum of 20 feet or a non combustible barrier. 
+
+ NOTE 1: Single cylinders of oxygen and fuel gas can be secured on a cart or used adjacent to each other without being separated by a partition. 
+
+ NOTE 2: An additional set of cylinders secured at a workstation without attached pressure reducing regulators will be considered in use and not in storage. 
+
+ (e) You must limit cylinders, except those in actual use or attached ready for use, stored inside buildings to a total gas capacity of 2,000 cubic feet or 300 pounds of liquefied petroleum gas. 
+
+ (f) Store cylinders of fuel gases in excess of 2,000 cubic feet total gas capacity or 300 pounds of liquefied petroleum gas (LPG), or any LPG mixture where LPG is the primary gas, (this does not apply to cylinders in actual use or attached ready for use) in the following manner: 
+
+ (A) Outside, or 
+
+ (B) In a separate room, compartment or special building with interior walls, partitions, floors, and ceilings that: 
+
+ (i) Are constructed with noncombustible material having a fire-resistance floor to ceiling 
+
+ (ii) Are securely anchored 
+
+ (iii) Have at least one wall of the room that is an exterior wall 
+
+ (C) The room must have a swinging type, self-closing fire door for a Class B opening and have a rating of at least 1 hour if there are openings to other parts of the building. 
+
+ (D) The room must have wired glass windows mounted with approved metal frames and fixed sashes where windows are used. They must be installed in accordance with the Standard for the Installation of Fire Doors and Windows, NFPA 80-1970. 
+
+ (g) You must comply with the provisions of the Compressed Gases and Cryogenic Fluid Code, NFPA No. 55-2010 when a liquid oxygen system is to be used to supply gaseous oxygen that has a storage capacity of more than 20,000 cubic feet of oxygen (measured at 14.7 psia (101 kPa) and 70° F (21.1° C)), connected in service or ready for service, or unconnected reserves on site. 
+
+ (h) The handling, storage, and utilization of all compressed gases in cylinders, portable tanks, rail tank cars, or motor vehicle cargo tanks must be in accordance with Compressed Gas Association (CGA) Pamphlet P-1 2008, 11th Edition, Safe Handling of Compressed Gases in Containers. 
+
+ (7) Handling of Oxygen and Fuel Gas Cylinders. 
+
+ (a) When handling or moving cylinders you must: 
+
+ (A) Provide adequate access for cylinder handling. 
+
+ (B) Remove regulators and ensure any required valve protection is in place before moving unsecured cylinders. 
+
+ (C) Move cylinders using a special truck, a cylinder hand truck, a cart or cylinder pallet. 
+
+ NOTE: This rule does not apply to acetylene manufacturers, cylinder fill plants and distributors of compressed gases and acetylene. (7)(a)(C) does not apply to the movement of individual fuel gas cylinders of 40 cubic feet (b-tank) or less. 
+
+ (D) Leave the valve protection cap and valve seal outlet in place until the cylinder has been secured in place and is ready to be connected to a regulator or manifold. 
+
+ NOTE: This does not apply to manufacturers and distributors of compressed gases and acetylene plants where cylinders are connected and disconnected to cylinder manifolds. 
+
+ (E) Use warm, not boiling, water to thaw frozen cylinders loose from the ground or if otherwise fixed. 
+
+ (b) When moving cylinders by a crane or derrick you must: 
+
+ (A) Use a cradle, boat, or suitable platform that secures cylinders. 
+
+ (B) Install valve-protection caps on cylinders, including those cylinders with a water weight capacity of over 30 lbs., designed to accept a cap. 
+
+ (C) Not use slings or electric magnets for this purpose. 
+
+ (c) Before moving a portable bank or cylinder cradles you must: 
+
+ (A) Close all individual oxygen and flammable gas cylinder valves on portable cylinder banks when in storage. 
+
+ (B) Restrict manual movement of portable cylinder banks to clean, smooth, level stationary surfaces. 
+
+ (C) Stay out of the portable-bank’s travel path when moving manually. 
+
+ (d) When moving a portable bank or cylinder cradles with a forklift you must secure them to the forklift. 
+
+ (e) When moving a portable bank or cylinder cradles with a crane you must use the lifting hook attached to the cradles or other appropriate moving equipment. 
+
+ (f) When lifting liquid cylinders you must: 
+
+ (A) Lift by using the cylinder lift eyes. 
+
+ (B) Use a lifting device designed for the lift and rated for the weight. 
+
+ (g) Before moving cylinders to storage you must: 
+
+ (A) Close the cylinder valve. 
+
+ (B) Replace and secure any valve outlet seals. 
+
+ (C) Properly install the cylinder cap. 
+
+ (h) When handling or moving cylinders you must not: 
+
+ (A) Repair or alter cylinders or valves. 
+
+ (B) Place bars under valves or valve protection caps to pry cylinders loose when frozen to the ground or otherwise fixed. 
+
+ (C) Use valve protection caps for lifting or lowering cylinders manually or with a crane from one position or location to another. 
+
+ (D) Drag or slide cylinders. 
+
+ (E) Lift liquid cylinders by the cylinder grab ring. 
+
+ (F) Drop cylinders or permit them to strike each other violently. 
+
+ (G) Subject any cylinder to mechanical shocks that may damage the valve. 
+
+ (H) Use cylinders as rollers for moving material or other equipment. 
+
+ (I) Permit oil, grease or other combustible substances to contact cylinders, valves, or other apparatus. 
+
+ (J) Attempt to catch a falling cylinder. 
+
+ (K) Place cylinders where they can become part of an electrical circuit. 
+
+ NOTE: All pressurized cylinders in contact with or secured to a conductive table or column without being isolated from electrical current can become part of an electrical circuit. 
+
+ (i) When connecting cylinders for use you must: 
+
+ (A) Use a pressure-reducing regulator or separate control valve to discharge gas from a cylinder. 
+
+ (B) Use regulators approved for the specific gas. 
+
+ (C) Loosen the valve outlet seal slowly when preparing to connect a cylinder. 
+
+ (D) Back out the regulator adjusting screws before opening cylinder valves. 
+
+ (E) Open oxygen cylinder valves slowly and slightly (called cracking) for an instant and then close before attaching a regulator. Stand with the cylinder valve between you and the valve outlet connection so the outlet connection is facing away from your body when cracking an oxygen cylinder. 
+
+ NOTE: Cracking is an approved process that applies only to oxygen cylinders. 
+
+ (F) Open acetylene cylinder valves no more than one and one half turns. 
+
+ NOTE: It is preferable to open the acetylene valve no more than three-fourths of a turn. 
+
+ (G) Return cylinders with contaminated valves (mud, oil, grease, and similar material) to the supplier. 
+
+ (H) Use acetylene tank keys or wrenches designed to open acetylene stem type valves. 
+
+ (I) Notify the supplier if cylinder valves cannot be opened by hand. 
+
+ (J) Stand with the cylinder valve between you and the regulator so your body, the cylinder valve, and regulator form a straight line when opening the cylinder valve. 
+
+ (K) Open cylinder valves slowly and carefully after the cylinder has been connected to the process. 
+
+ (L) Ensure that cylinder valves, pressure-reducing regulators, hoses, torches and all connections do not leak. 
+
+ (i) Perform a drop test 
+
+ (I) Ensure that both the oxygen and fuel control valves on the torch handle are closed. 
+
+ (II) With the oxygen cylinder valve open, adjust the oxygen regulator to deliver a minimum of 20 PSIG (10kPa). 
+
+ (III) With the fuel cylinder valve open, adjust the fuel regulator to deliver a minimum of 10 PSIG (70kPa). 
+
+ (IV) Close both the oxygen and fuel cylinder valves. 
+
+ (V) Turn the adjusting screws counterclockwise to relieve regulator pressure. 
+
+ (VI) Observe the gauges on both regulators for a minimum of five minutes. If the gauge readings do not change, then the system is leak tight. If there is a leak, use an approved leak detection method to locate it. 
+
+ (ii) If the pressure drops during the drop test, perform a leak test to identify all leaks. 
+
+ (iii) Use industry approved oil free leak detection solution. 
+
+ (iv) Perform a leak test on cylinder pressure relief and safety devices, valves and regulator connections after the cylinder valve is open and connected to the pressure reducing regulator. 
+
+ (v) Remove from service any cylinder that leaks at the valve, safety device or fittings that cannot be stopped by closing the valve. Isolate the cylinder away from ignition sources. 
+
+ NOTE: Remove leaking cylinders to a safe outside location whenever possible. A warning should be placed near cylinders with leaking fuse plugs or other leaking safety devices not to approach them with a lighted cigarette or other source of ignition. 
+
+ (vi) Promptly notify the supplier of any leaking cylinder or trouble with any cylinder valve and follow their instructions. 
+
+ (vii) Tag cylinders having leaking fuse plugs or other leaking safety devices. 
+
+ (M) Keep the cylinder key used for opening stem type cylinder valves on the valve spindle. 
+
+ (N) Allow each gas to flow through its respective hose for a few seconds to purge the hose of any mixture of gases: 
+
+ (i) After connecting welding, cutting or heating apparatus to oxygen and fuel-gas cylinders. 
+
+ (ii) When starting to reuse the apparatus after an interval of a half hour or more. 
+
+ (j) When connecting cylinders you must not: 
+
+ (A) Open cylinder valves (other than cracking oxygen) until a regulator has been attached. 
+
+ (B) Stand or have any body part in front or behind the pressure reducing regulator when opening cylinder valves. 
+
+ (C) Use a hammer or wrench to open hand wheel cylinder valves. 
+
+ (k) When removing regulators from cylinders you must: 
+
+ (A) Ensure that oxygen and fuel gas cylinder valves are closed. 
+
+ (B) Visually check the low pressure delivery gauges and high pressure supply gauge to ensure there is no pressure remaining in the system. 
+
+ (C) Use the appropriate wrench to disconnect the regulator. 
+
+ (D) Place disconnected regulators, hoses, and torches where they will not come into contact with dust and oily or greasy substances. 
+
+ (8) Use of Oxygen and Fuel Gas Cylinders. 
+
+ (a) When using cylinders you must: 
+
+ (A) Secure from movement with valve end up. 
+
+ (B) Perform a drop test as defined in (7)(i)(L)(i) at the beginning of each shift to verify no leaks exist. 
+
+ (C) Close cylinder or manifold valves: 
+
+ (i) Before moving cylinders. 
+
+ (ii) At the end of the shift or when work is finished. 
+
+ (iii) When cylinders are empty. 
+
+ (D) Place cylinders far enough away from the actual welding or cutting operation to: 
+
+ (i) Ensure sparks, hot slag, or flame will not reach them, or 
+
+ (ii) Protect them with fire resistant shields. 
+
+ (E) Keep cylinders away from radiators, piping systems, layout tables, etc., that may be used for grounding electric circuits such as for arc welding machines. 
+
+ (F) Keep keys, handles or nonadjustable wrenches on valve stems of cylinders not having fixed hand wheel while these cylinders are in service. 
+
+ (G) Keep one key or handle on valve stems for each in service manifold in multiple cylinder installations. 
+
+ (H) Allow each gas to flow through its respective hose for a few seconds to purge the hose of any mixture of gases before using a torch assembly that has been shutdown for an interval of one half hour or more. 
+
+ (I) Follow the apparatus manufacturer’s operating sequence when lighting, adjusting, and extinguishing torch flames. 
+
+ (J) Close the torch handle valves on oxygen and/or fuel gas when the welding and cutting equipment is unattended for only a few minutes. 
+
+ NOTE: This does not apply to jeweler’s torches or other torches similar in size when placed in proper holders. 
+
+ (K) Completely shut down a torch system (refer to (8)(a)(C)) in the following order: 
+
+ (i) Close and drain the oxygen system before the closing and draining of the fuel gas system. 
+
+ (ii) Open the torch valves momentarily after closing the cylinder valves to release all gas pressure from the hoses and regulators; then close the torch valves. 
+
+ (iii) Turn the regulator pressure adjusting screws counter clockwise to release all spring pressure. 
+
+ (iv) Visually check the low pressure delivery gauge and high pressure supply gauge to ensure there is no pressure remaining in the system. 
+
+ (b) When using cylinders you must not: 
+
+ (A) Place a cylinder where it might become part of an electric circuit. 
+
+ (B) Tap an electrode against a cylinder to strike an arc. 
+
+ (C) Use a cylinder as a roller or support. 
+
+ (D) Attempt to mix gases in a cylinder unless you are the gas supplier. 
+
+ (E) Refill a cylinder unless you are the owner of the cylinder or a person authorized by the owner. 
+
+ (F) Use a cylinder’s contents for purposes other than those intended by the supplier. 
+
+ (G) Tamper with safety devices on cylinders or valves. 
+
+ (H) Drop or handle cylinders roughly. 
+
+ (I) Put down a lighted torch unless the torch or torch assembly is placed in a holder and secured from unintended movement. 
+
+ (J) Use the regulator adjusting screw as a shut-off mechanism. 
+
+ (K) Place anything on top of any cylinder when in use which may damage the safety device or interfere with the quick closing of the valve. 
+
+ (L) Take cylinders containing oxygen or acetylene or other fuel gas into confined spaces. 
+
+ (9) Pressure Reducing Regulators. 
+
+ (a) When using pressure reducing regulators you must: 
+
+ (A) Use them with cylinder and piping outlets to ensure suitable working pressure for fuel gas and oxygen-fuel gas applications. 
+
+ (B) Use them for the gas and pressures for which they are intended. 
+
+ (C) Ensure that regulator inlet connections are marked with an identifying Compressed Gas Association (CGA) number. 
+
+ NOTE: The CGA numbers identify the cylinder valve and gas service for which an inlet connection is designed. 
+
+ (D) Ensure that inlet connections of regulators intended for attachment to gas storage cylinders comply with the requirements of Compressed Gas Association (CGA) Pamphlet V-1 1994, 7th Edition, Standard for Compressed Gas Cylinder Valve Outlet and Inlet Connections and Compressed Gas Association (CGA) Pamphlet V-7 2009, 5th Edition, Standard Method of Determining Cylinder Valve Outlet Connections for Industrial Gas Mixtures. 
+
+ (E) Ensure that regulators or parts of regulators, including gauges, are repaired only by skilled mechanics who have been properly instructed. 
+
+ (F) Use oxygen regulators that are marked with “USE NO OIL.” 
+
+ (G) Use acetylene regulator with a delivery pressure gauge that graphically indicates the maximum 15 psig working pressure. 
+
+ (H) Inspect regulator union nuts and connections to detect faulty seats before the regulators are attached to the cylinder valves. 
+
+ (I) Fully turn the regulator pressure-adjusting screw counter clockwise before slowly opening the cylinder valve. 
+
+ (J) Keep pressure-reducing regulators in good repair. 
+
+ (K) Replace cracked, broken or otherwise defective parts (including gauge glasses). 
+
+ (b) When using pressure reducing regulators you must not: 
+
+ (A) Use the regulator adjusting screw as a “shut-off” mechanism. 
+
+ (B) Use oxygen and/or fuel gases from cylinders, piping, or manifolds through torches or other devices equipped with shutoff valves without using a pressure reducing regulator. 
+
+ (10) Hose and Hose Connections 
+
+ (a) When using fuel gas and oxygen hoses you must: 
+
+ (A) Use hoses that comply with the Compressed Gas Association (CGA) Pamphlet E-1 2009, 6th Edition, Standard for Rubber Welding Hose and Hose Connections for Gas Welding, Cutting, and Allied Processes and Association for Rubber Products Manufacturers (ARPM) Publication IP-7 2011, 10th Edition. 
+
+ NOTE: This standard does not apply to liquefied petroleum gas hose covered under NFPA 58, Liquefied Petroleum Gas Code applicable to the propane industry. 
+
+ (B) Use fuel gas and oxygen hoses that are easily distinguishable from each other. 
+
+ NOTE: The contrast may be made by different colors or by surface characteristics readily distinguishable by the sense of touch. Use red for fuel gases, green for oxygen, and black for inert gas. 
+
+ (C) Use “Grade T” hose for most fuel gases to include acetylene. 
+
+ NOTE: Grade R or RM hose may only be used with acetylene. Do not use with any other fuel gas. 
+
+ (D) Use oil free air or an oil free inert gas to test hoses. 
+
+ (E) Keep hoses and couplings (connectors) free from oily or greasy substances. 
+
+ (F) Visually inspect each hose for leaks, burns, worn places, bulges, cracks, crimps, multiple splices, cuts, oil and grease, damaged or worn fittings, and other defects rendering it unfit for service: 
+
+ (i) At the beginning of each task, the portion of hose intended for use, or 
+
+ (ii) At the end of each working shift, the portion of hose used before storing it on a cart or hose reel. 
+
+ (G) Perform inspections on hoses and hose connections following any failed drop test to determine the cause of the failure. 
+
+ (H) Test hose to twice the normal pressure it will be subjected to but in no case less than 300 psi. when it: 
+
+ (i) Has been subject to flashback, or 
+
+ (ii) Shows evidence of severe wear or damage. 
+
+ (I) Repair or replace hoses that have defects rendering them unfit for service. 
+
+ (J) Protect hoses from damage by physical hazards, hot objects, or kinking. 
+
+ (K) Keep hoses, cables, and other equipment clear of passageways, ladders and stairs. 
+
+ (L) Use manifold hose connections, including both ends of the supply hose that lead to the manifold, with hose that cannot be interchanged between fuel gas and oxygen manifolds and supply header connections. You must not use adapters to permit the interchange of hose. 
+
+ (M) Cap manifold and header hose connections when not in use. 
+
+ (N) Store gas hoses in ventilated boxes. 
+
+ (b) When using fuel gas and oxygen hoses you must not: 
+
+ (A) Route in such a manner that severely bends the hose at the hose coupling (connector). 
+
+ (B) Pull or drag welding equipment with the hose assembly. 
+
+ (C) Drag or rest hoses on materials that are not fully cooled. 
+
+ (D) Drag hoses across potential puncture or abrading points. 
+
+ (E) Handle oxygen hoses with oily hands or oily gloves. 
+
+ (F) Tape together more than 4 inches out of 12 inches of parallel sections of oxygen and fuel gas hose. 
+
+ (G) Use a single hose having more than one gas passage. 
+
+ (H) Repair damaged hoses with tape. 
+
+ (I) Use a defective hose. 
+
+ (c) Hose connections must: 
+
+ (A) Comply with Compressed Gas Association (CGA) Pamphlet E-1 2009, 6th Edition, Standard for Rubber Welding Hose and Hose Connections for Gas Welding, Cutting, and Allied Processes, (3) Connections. 
+
+ (B) Clamp or securely fasten in a manner that will withstand twice the pressure to which they are normally subjected, and in no case less than a pressure of 300 psi, for one (1) minute, without leakage. 
+
+ (C) Use oxygen and fuel gas connection fittings that are different in size and prevent the intermixing of connections, or 
+
+ (D) Be marked in a manner to identify the oxygen and fuel gas hose. 
+
+ (E) Use hose couplings that cannot be unlocked or disconnected by means of a straight pull without rotary motion. 
+
+ (d) When using hose connections you must not use adaptors that permit the interchange of manifold hose connections. 
+
+ (11) Torches used with Oxygen and Fuel Gas. 
+
+ (a) When using oxygen and fuel gas torches you must: 
+
+ (A) Follow the manufacturer’s recommendation for the use of torch handles with internal check valves and flashback arrestors. 
+
+ (B) Keep torches free from oily or greasy substances. 
+
+ (C) Clean clogged torch tip openings with suitable: 
+
+ (i) Cleaning wires. 
+
+ (ii) Drills. 
+
+ (iii) Devices designed for such purposes. 
+
+ (D) Inspect torches following any failed drop test to determine the cause of the failure prior to using. Check: 
+
+ (i) Shut-off valves. 
+
+ (ii) Hose couplings. 
+
+ (iii) Tip connections. 
+
+ (E) Only light torches with friction lighters, stationary pilot flames or other approved devices. 
+
+ (b) You must not: 
+
+ (A) Use defective torches. 
+
+ (B) Light a torch: 
+
+ (i) With matches. 
+
+ (ii) From hot work. 
+
+ (iii) With other hand held open flame. 
+
+ (12) Manifolds with Oxygen and Fuel Gas. 
+
+ (a) When working with oxygen and fuel gas manifolds you must: 
+
+ (A) Label each manifold with the name of the product they contain in letters at least 1-inch high: 
+
+ (i) Use permanent signage, or 
+
+ (ii) Use painted letters. 
+
+ (B) Place oxygen and fuel gas manifolds in safe, well ventilated and accessible locations. 
+
+ (C) Use manifolds that are either approved separately for each component part or as an approved assembled unit. 
+
+ (D) Limit the total capacity of fuel-gas cylinders connected to one manifold inside a building. The total capacity must not exceed 300 pounds (135.9 kg) of liquefied petroleum gas or 3,000 cubic feet (m3) of other fuel-gas, except as provided for in paragraph (a)(F). 
+
+ (E) Separate more than one manifold connected to cylinders located in the same room by: 
+
+ (i) At least 50 feet, or 
+
+ (ii) A noncombustible partition that: 
+
+ (I) Extends at least 18 inches above the tallest container and is not less than 5 feet high. 
+
+ (II) Extends laterally at least 18 inches beyond the sides of the containers. 
+
+ NOTE 1: If you have a preexisting noncombustible barrier used to separate oxygen from combustible materials or fuel gases other than acetylene, the barrier must be a minimum of 5 feet high and have a minimum fire resistance rating of one-half hour. Noncombustible barriers built after May 1, 2015, must comply with the 18 inch dimensions found in 437-002-2253(12)(a)(E)(ii)(I) and (II). 
+
+ NOTE 2: 437-002-2102 Acetylene, requires noncombustible partitions used for oxygen and acetylene separation to extend 18 inches horizontally and vertically. 
+
+ (III) Has a fire-resistance rating of at least one-half hour. 
+
+ (F) Locate fuel-gas cylinders connected to one manifold having an aggregate capacity exceeding 300 pounds of liquefied petroleum gas or 3,000 cubic feet of other fuel-gas: 
+
+ (i) Outdoors, or 
+
+ (ii) In a separate building or room constructed in accordance with the rules on acetylene generators (14)(d)(H)(i), (d)(H)(ii), and (d)(H)(iii) and (14)(d)(I)(i), (d)(I)(ii), and (d)(I)(iii). 
+
+ (G) Ensure that separate manifold buildings or rooms used for storage of calcium carbide and cylinders containing fuel gases: 
+
+ (i) Are well-ventilated. 
+
+ (ii) Do not have open flames for heat or lighting. 
+
+ (iii) Are in compliance with Storage (6)(f)(B) when cylinders exceed 2000 cubic feet or 300 pounds of liquefied petroleum gas. 
+
+ (H) Use approved pressure regulating devices on high-pressure fuel-gas manifolds. 
+
+ (I) Use manifold hose connections that are not interchangeable on all ends of the supply hose that leads to the manifold. 
+
+ (J) Keep hose connections free of grease and oil. 
+
+ (K) Cap manifold and header hose connections when not in use. 
+
+ (b) When working with oxygen and fuel gas manifolds you must not: 
+
+ (A) Locate oxygen and fuel gas manifolds in enclosed or confined spaces. 
+
+ (B) Use adaptors that permit the interchange of manifold hose connections. 
+
+ (C) Place anything on top of a manifold when in use which will: 
+
+ (i) Damage the manifold 
+
+ (ii) Interfere with the quick closing of the manifold valve(s). 
+
+ (c) When using high-pressure oxygen manifolds (for use with cylinders having a Department of Transportation service pressure above 200 psig (1.36 MPa)) you must: 
+
+ (A) Use manifolds that are either approved separately for each component part or approved as an assembled unit. 
+
+ (B) Separate oxygen manifolds from fuel-gas cylinders or combustible materials (especially oil or grease) by a: 
+
+ (i) Minimum distance of 20 feet, or 
+
+ (ii) Noncombustible partition that complies with Compressed Gas Association (CGA) Pamphlet P-1 2008, 11th Edition, Safe Handling of Compressed Gases in Containers: 
+
+ (I) Extends at least 18 inches above the tallest container and is not less than 5 feet high. 
+
+ (II) Extends laterally at least 18 inches beyond the sides of the containers. 
+
+ NOTE 1: If you have a preexisting noncombustible barrier used to separate oxygen from combustible materials or fuel gases other than acetylene, the barrier must be a minimum of 5 feet high and have a minimum fire resistance rating of one-half hour. Noncombustible barriers built after May 1, 2015, must comply with the 18 inch dimensions found in 437-002-2253(12)(c)(B)(ii)(I) and (II). 
+
+ NOTE 2: 437-002-2102 Acetylene, requires noncombustible partitions used for oxygen and acetylene separation to extend 18 inches horizontally and vertically. 
+
+ (III) Has a fire-resistance rating of at least one-half hour. 
+
+ (C) Limit oxygen cylinders connected to one manifold to a total gas capacity of 6,000 cubic feet except as provided in paragraph (c)(E). 
+
+ (D) Separate manifolds by: 
+
+ (i) At least 50 feet, or 
+
+ (ii) A noncombustible partition that complies with Compressed Gas Association (CGA) Pamphlet P-1 2008, 11th Edition, Safe Handling of Compressed Gases in Containers: 
+
+ (I) Extends at least 18 inches above the tallest container and not less than 5 feet high. 
+
+ (II) Extends laterally at least 18 inches beyond the sides of the containers. 
+
+ NOTE 1: If you have a preexisting noncombustible barrier used to separate oxygen from combustible materials or fuel gases other than acetylene, the barrier must be a minimum of 5 feet high and have a minimum fire resistance rating of one-half hour. Noncombustible barriers built after May 1, 2015, must comply with the 18 inch dimensions found in 437-002-2253(12)(c)(D)(ii)(I) and (II). 
+
+ NOTE 2: 437-002-2102 Acetylene, requires noncombustible partitions used for oxygen and acetylene separation to extend 18 inches horizontally and vertically. 
+
+ (III) Has a fire-resistance rating of at least one-half hour. 
+
+ (E) Locate an oxygen manifold inside a building having other occupancy, with an aggregate cylinder capacity of more than 6,000 cubic feet of oxygen, in a separate room that is: 
+
+ (i) Of noncombustible construction having a fire-resistance rating of at least one-half hour, or 
+
+ (ii) A noncombustible partition that complies with Compressed Gas Association (CGA) Pamphlet P-1 2008, 11th Edition, Safe Handling of Compressed Gases in Containers: 
+
+ (I) Extends at least 18 inches above the tallest container and is not less than 5 feet high. 
+
+ (II) Extends laterally at least 18 inches beyond the sides of the containers. 
+
+ NOTE 1: If you have a preexisting noncombustible barrier used to separate oxygen from combustible materials or fuel gases other than acetylene, the barrier must be a minimum of 5 feet high and have a minimum fire resistance rating of one-half hour. Noncombustible barriers built after May 1, 2015, must comply with the 18 inch dimensions found in 437-002-2253(12)(c)(E)(ii)(I) and (II). 
+
+ NOTE 2: 437-002-2102 Acetylene, requires noncombustible partitions used for oxygen and acetylene separation to extend 18 inches horizontally and vertically. 
+
+ (III) Has a fire-resistance rating of at least one-half hour. 
+
+ (F) Comply with NFPA 55, 2010 Edition, Compressed Gases and Cryogenic Fluid Code, when an oxygen manifold or oxygen bulk supply system has more than 20,000 cubic feet of oxygen (measured at 14.7 psia (101 kPa) and 700 F (21.1oC)), connected in service, ready for service, or unconnected reserves on hand at the site. 
+
+ (G) Use approved pressure regulating devices on high-pressure oxygen manifolds. 
+
+ (d) When using high pressure oxygen manifolds you must not locate them in an acetylene generator room. 
+
+ (e) When using low-pressure oxygen manifolds with cylinders having a Department of Transportation service pressure not exceeding 200 psig (1.36 Mpa) you must: 
+
+ (A) Use manifolds that: 
+
+ (i) Are constructed for use with oxygen at a pressure of 250 psig. 
+
+ (ii) Have a minimum bursting pressure of 1,000 psig. 
+
+ (iii) Are protected by a safety relief device that will relieve at a maximum pressure of 500 psig. 
+
+ NOTE: DOT-4L200 cylinders safety device relieve at a maximum pressure of 250 psig, or 235 psig if vacuum insulation is used. 
+
+ (B) Use hose and hose connections subject to cylinder pressure that have a bursting pressure of 1,000 psig. 
+
+ (C) Test and prove manifolds are gas-tight at a pressure of 300 psig. 
+
+ (D) Use oil-free non-combustible fluid for testing oxygen manifolds. 
+
+ (E) Locate manifolds to comply with paragraphs (c)(B), (C), (D), (E), and (F) and all their parts. 
+
+ (F) Post the following sign at each manifold: 
+
+ Low-Pressure Manifold 
+
+ Do Not Connect High-Pressure Cylinders 
+
+ Maximum Pressure — 250 psig 
+
+ (f) When using portable outlet headers you must: 
+
+ (A) Equip each outlet on the service piping from which oxygen or fuel-gas is withdrawn, to supply a portable outlet header, with a readily accessible shutoff valve. 
+
+ (B) Use hose and hose connections that comply with paragraph (a)(I) of this section when connecting the portable outlet header to the service piping. 
+
+ (C) Provide master shutoff valves for both oxygen and fuel-gas at the entry end of the portable outlet header. 
+
+ (D) Provide a hydraulic back-pressure valve, installed at the inlet and preceding the service outlets, on portable fuel-gas service outlet headers unless one of the following is installed at each outlet and approved for use: 
+
+ (i) Pressure-reducing regulator, 
+
+ (ii) Back-flow check valve, or 
+
+ (iii) Hydraulic back-pressure valve. 
+
+ (E) Provide oxygen service header outlets with pressure reducing regulators or direct hose connections. 
+
+ (F) Provide each valve assembly with a detachable outlet seal cap, chained or otherwise attached to the body of the valve on the portable header service outlet. 
+
+ (G) Use materials and fabrication procedures for portable outlet headers that comply with the rule on Service Piping Systems paragraphs (13)(a)(A)–(L), (13)(b)(A)–(E), and (13)(f)(A)–(C). 
+
+ (H) Provide frames for portable outlet headers that will: 
+
+ (i) Secure the equipment in the correct operating position. 
+
+ (ii) Protect them from damage during handling and operation. 
+
+ (g) When using portable outlet headers you must not use them indoors except for temporary service when a direct supply outlet located on the service piping system cannot be accessed. 
+
+ (h) To comply with manifold operation procedures you must: 
+
+ (A) Ensure that cylinder manifolds are installed under the supervision of someone familiar with the proper practices with reference to their construction and use. 
+
+ (B) Ensure all manifolds and parts used in methods of manifolding are used only for the gas or gases for which they are approved. 
+
+ (C) Install approved flash arresters between each acetylene cylinder and the coupler block. 
+
+ NOTE: For outdoor use only, and when the number of cylinders coupled does not exceed three, one flash arrester installed between the coupler block and regulator is acceptable. 
+
+ (D) Install manifold acetylene and liquefied fuel-gas cylinders in a vertical position. 
+
+ (E) Maintain approximately equal pressure in the gas cylinders connected to and discharged simultaneously through a common manifold. 
+
+ (i) To comply with manifold operation procedures you must not connect more than 3,000 cubic feet of aggregate capacity of fuel-gas cylinders to a portable manifold inside a building. 
+
+ (13) Service piping systems materials and designs. 
+
+ (a) Service piping systems must use: 
+
+ (A) Piping and fittings that comply with section 2, Industrial Gas and Air Piping Systems, of the American National Standard Code for Power Piping ASME B31.1 2010. 
+
+ (B) At least Schedule 40 pipe and use fittings that are at least standard weight in sizes up to and including 6-inch nominal. 
+
+ (C) Copper tubing that is Type K or L and complies with the Standard Specification for Seamless Copper Water Tube, ASTM B88-66a. 
+
+ (D) Steel, wrought iron, brass or copper pipe, or seamless copper, brass or stainless steel tubing, except when stated otherwise. 
+
+ (E) Stainless steel or copper alloys for oxygen piping and fittings when pressures exceed 700 psi. 
+
+ (F) Hose connections and hose to connect the outlet of a manifold pressure regulator to piping, provided that the working pressure of the piping is 250 psi or less and they comply with the rules for hose and hose connections found in paragraphs (10) (a)(A), (10) (a)(K), (10) (b)(G), (10)(c)(A), and (10)(c)(B). 
+
+ (G) Hose(s) that do not exceed 5 feet in length to connect manifold pressure regulators to piping. 
+
+ (H) Hose that has a minimum bursting pressure of 1,000 psig (6.8 MPa). 
+
+ (I) A piping system with a minimum design pressure of 250 psig when oxygen is supplied from a low-pressure oxygen manifold without an intervening pressure regulating device. 
+
+ (J) Pressure regulating devices at each station outlet when the connected equipment is for use at pressures less than 250 psig (1.7 MPa). 
+
+ (K) Steel or wrought iron piping for acetylene or acetylenic compounds. 
+
+ (L) Unalloyed copper for acetylene or acetylenic compounds only with equipment listed as appropriate for its use. 
+
+ (b) Piping joints must be treated as follows. You must: 
+
+ (A) Weld, thread or flange joints in steel or wrought iron piping. 
+
+ NOTE: Fittings, such as ells, tees, couplings, and unions, may be rolled, forged or cast steel, malleable iron or nodular iron. 
+
+ (B) Weld, braze, thread, or flange brass or copper pipe joints. 
+
+ (C) Braze socket type joints with silver-brazing alloy or similar high melting point (not less than 800° F (427° C)) filler metal. 
+
+ (D) Braze joints or use approved gas tubing fittings in seamless copper, brass, or stainless steel tubing. 
+
+ (E) Prohibit the use of gray or white cast iron fittings on piping joints. 
+
+ (c) When installing piping systems you must: 
+
+ (A) Internally examine and remove scale and dirt from fittings and lengths of pipe before assembly. 
+
+ (B) Wash out oxygen pipe and fittings with a suitable solution which will effectively remove grease and dirt but will not react with oxygen. 
+
+ NOTE: Hot water solutions of caustic soda or trisodium phosphate are effective cleaning agents for this purpose. Rinse and dry piping thoroughly after cleaning. 
+
+ (C) Install and maintain distribution lines in a safe operating condition. 
+
+ (D) Run all piping as directly as practicable. 
+
+ (E) Protect piping against physical damage. 
+
+ (F) Make allowances for piping expansion, contraction, jarring and vibration. 
+
+ (G) Locate pipe laid underground below the frost line. 
+
+ (H) Protect against corrosion. 
+
+ (I) Weld or braze piping that is installed in tunnels, trenches or ducts. 
+
+ (J) Install shutoff valves outside of tunnels, trenches or ducts. 
+
+ (K) Provide good natural or forced ventilation when oxygen piping is installed in the same tunnel, trench or duct with fuel-gas pipelines. 
+
+ (L) Drain low points in piping that carries moist gas into drip pots, constructed to permit pumping or draining out the condensate, at necessary intervals. 
+
+ (M) Install drain valves having outlets normally closed with screw caps or plugs for draining low points in piping systems. 
+
+ (N) Case or jacket pipes leading to the surface of the ground where necessary to prevent loosening or breaking. 
+
+ (O) Install gas cocks or valves for all buildings at points where they will be readily accessible for shutting off the gas supply to these buildings in an emergency. 
+
+ (P) Install a shutoff valve in the discharge line from the generator, gas holder, manifold or other source of supply. 
+
+ (Q) Thoroughly blow out assembled piping with air, nitrogen or carbon dioxide to remove foreign materials. 
+
+ (R) Blowout oxygen piping using oil-free air, oil-free nitrogen, or oil-free carbon dioxide: 
+
+ NOTE: Air or inert gas may be used with other piping. 
+
+ (S) Purge oxygen lines, using oil-free air, oil-free nitrogen, or oil-free carbon dioxide. 
+
+ (T) Use pressure relief devices set to function at not more than the design pressure of the systems and that discharge upwards to a safe location. 
+
+ (d) When installing piping systems you must not: 
+
+ (A) Install shutoff valves in safety relief lines in such a manner that the safety relief device can be rendered ineffective. 
+
+ (B) Have uncapped openings of flammable gas lines or other parts of equipment being purged of air or gas near open lights or other sources of ignition. 
+
+ (C) Use open end valves or petcocks except when drips are located outdoors, underground, and not readily accessible. 
+
+ (D) Use valves outdoors, underground or in areas not readily accessible unless they are equipped with a means to secure them in the closed position. 
+
+ (E) Weld or cut an acetylene or oxygen pipeline, including the attachment of hangers or supports, until the line has been purged. 
+
+ (e) When painting and marking piping systems you must ensure that: 
+
+ (A) Underground pipe and tubing and outdoor ferrous pipe and tubing is covered or painted with a suitable material for protection against corrosion. 
+
+ (B) Aboveground piping systems are marked in accordance with the American National Standard Scheme for the Identification of Piping Systems, ASME A13.1 2007. 
+
+ (C) Station outlets are marked with the name of the gas. 
+
+ (f) When testing piping systems you must: 
+
+ (A) Test and prove they are gas-tight at 1-1/2 times their maximum operating pressure. 
+
+ (B) Thoroughly purge them of air before placing them in service. 
+
+ (C) Use oil free and noncombustible material to test oxygen lines. 
+
+ (g) When testing piping systems you must not: 
+
+ (A) Use flames to detect leaks. 
+
+ (B) Purge flammable gas lines or other parts of equipment of air or gas when uncapped openings are near sources of ignition. 
+
+ (h) When installing protective equipment, hose and regulators in service piping systems you must: 
+
+ (A) Install and use equipment in the service for which it was approved and as recommended by the manufacturer. 
+
+ (B) Install the protective equipment shown in Figures Q-1, Q-2, and Q-3 in portable outlet headers and fuel-gas and oxygen piping systems to prevent: 
+
+ NOTE: When only a portion of a fuel-gas system is to be used with oxygen, only that portion need comply with paragraph (h)(A). Figures Q-1, Q-2, Q-3 
+
+ (i) Backflow of oxygen into the fuel-gas supply system. 
+
+ (ii) Passage of a flash back into the fuel-gas supply system. 
+
+ (iii) Excessive back pressure of oxygen in the fuel-gas supply system. 
+
+ NOTE: The three functions of the protective equipment may be combined in one device or may be provided by separate devices. 
+
+ (C) Locate protective equipment: 
+
+ (i) As in Figure Q-1 in the main supply line, Figure Q-1, or 
+
+ (ii) As in Figure Q-2 at the head of each branch line, or 
+
+ (iii) As in Figure Q-3 at each location where fuel-gas is withdrawn. 
+
+ (iv) As in Figure Q-2 or Figure Q-3 where branch lines are of 2 inch pipe size or larger or of substantial length. 
+
+ (D) Install flash-back protection that will prevent flame from passing into the fuel-gas system. 
+
+ (E) Provide an approved back-pressure relief device set at a pressure not greater than the pressure rating of the backflow or the flashback protection device, whichever is lower. 
+
+ (F) Locate pressure-relief devices on the downstream side of backflow and flashback protection devices. 
+
+ (G) Install pressure-relief device vents that are at least as large as the relief device inlet. 
+
+ (H) Install pressure-relief vents without low points that may collect moisture. 
+
+ (I) Install drip pots with drains closed with screw plugs or caps at the low points if low points are unavoidable. 
+
+ (J) Install the vent end so it: 
+
+ (i) Does not endanger personnel or property through gas discharge. 
+
+ (ii) Is located away from ignition sources. 
+
+ (iii) Terminates in a hood or bend. 
+
+ (K) Maintain liquid levels when using a liquid in the pipeline protective equipment. 
+
+ NOTE: Suitable antifreeze may be used to prevent freezing. 
+
+ (L) Withdraw fuel-gas for use with equipment not requiring oxygen upstream of the piping protective devices. 
+
+ (i) Station outlet protective equipment must: 
+
+ (A) Have a check valve, pressure regulator, hydraulic seal, or combination of these devices at each station outlet, including those on portable headers. 
+
+ (B) Have these devices as shown in Figures Q-1, Q-2, and Q-3 and designated as SF and SO. 
+
+ (C) Use approved pipeline protective equipment (designated PF) located at the station outlet as in Figure Q-3, or an additional check valve, pressure regulator, or hydraulic seal is required. 
+
+ (D) Have a shutoff valve (designated VF and VO) installed at each station outlet. 
+
+ (E) Have a shutoff valve located on the upstream side of other station outlet equipment. 
+
+ (F) Terminate the station outlet in a union connection that complies with the Compressed Gas Association (CGA) Pamphlet E-1 2009, 6th Edition, Standard for Rubber Welding Hose and Hose Connections for Gas Welding, Cutting, and Allied Processes and Compressed Gas Association (CGA) Pamphlet E-4 2010, 6th Edition, Standard for Gas Pressure Regulators if the outlet is equipped with a detachable regulator. 
+
+ (G) Terminate in a union connection complying with the Compressed Gas Association (CGA) Pamphlet E-1 2009, 6th Edition, Standard for Rubber Welding Hose and Hose Connections for Gas Welding, Cutting, and Allied Processes if it is connected directly to a hose. 
+
+ (H) Terminate in pipe threads to which permanent connections are to be made, such as to a machine. 
+
+ (I) Have station outlets equipped with a detachable outlet seal cap secured in place. 
+
+ (J) Use this cap to seal the outlet except when a hose, a regulator, or piping is attached. 
+
+ (K) Be equipped with station outlets with approved backflow and flash-back protective devices when four or less torches are supplied from one station outlet through rigid piping provided: 
+
+ (i) Each outlet from this piping is equipped with a shutoff valve, and 
+
+ (ii) The fuel-gas capacity of any one torch does not exceed 15 cubic feet (0.42m3) per hour. 
+
+ (14) Acetylene generators. 
+
+ (a) When using acetylene generators you must: 
+
+ (A) Use those that are of approved construction. 
+
+ (B) Ensure they are plainly marked with: 
+
+ (i) Maximum weight and size of carbide necessary for a single charge. 
+
+ (ii) Manufacturer’s name and address. 
+
+ (iii) Name or number of the type of generator. 
+
+ (iv) Size of the carbide to be used on the generator nameplate. 
+
+ (v) Rating and pressure limitations. 
+
+ (C) Limit the total hourly output rate for which it is approved and marked. Unless specifically approved for higher ratings, carbide-feed generators must be rated at 1 cubic foot (0.028 m3) per hour per pound of carbide required for a single complete charge. 
+
+ (D) Require regular operating of relief valves. 
+
+ (E) Set relief valves to open at a pressure not in excess of 15 psig. 
+
+ (F) Set hydraulic back pressure valves to open at a pressure not in excess of 20 psig. 
+
+ (G) Locate the generator where the operator can maintain ample free, unobstructed operation and maintenance space around the generator to permit ready adjustment and charging. 
+
+ (H) Ensure that all non-automatic generator water overflows are visible. 
+
+ (I) Ensure that non-automatic generators are not used to generate acetylene at pressures exceeding 1 psig. 
+
+ (b) When using stationary acetylene generators (automatic and non-automatic) you must: 
+
+ (A) Place on a foundation where: 
+
+ (i) The generator(s) is level. 
+
+ (ii) No excessive strain will be placed on the generator or its connections. 
+
+ (B) Ensure the generator(s) is grounded. 
+
+ (C) Place generators where water will not freeze. 
+
+ (D) Ensure there are no prohibited sources of ignition in outside generator houses or inside generator rooms unless the generators are prepared in accordance with paragraph (h)(H)(i) through (iv) of this section: 
+
+ (E) Ensure that when a non-continuous connection to the water supply is used the supply line must terminate at a point not less than 2 inches above the regularly provided opening for filling so that the water can be observed as it enters the generator. 
+
+ (F) Discharge generators through an open connection into a suitably vented outdoor receptacle or residue pit. 
+
+ NOTE: An open connection for the sludge draw off is desirable to enable the generator operator to observe leakage of generator water from the drain valve or sludge cock. 
+
+ (G) Provide a vent pipe for each generator. 
+
+ (H) Rigidly install the escape or relief pipe: 
+
+ (i) Without traps. 
+
+ (ii) So condensation will drain back to the generator. 
+
+ (I) Carry the full size escape or relief pipe to a suitable point outside the building. 
+
+ (J) Terminate the escape or relief pipe in a hood or bend located at least 12 feet (3.7m) above the ground. 
+
+ NOTE: It is preferable to terminate the escape or relief pipe above the roof, and as far away as practicable from windows or other openings into buildings and as far away as practicable from sources of ignition such as flues or chimneys and tracks used by locomotives. 
+
+ (K) Route the generating chamber relief pipes separately to the outside so they are unobstructed by rain, snow, ice, insects, or birds. 
+
+ (L) Locate the end of the relief pipes at least 3 feet (0.9 m) from combustible construction. 
+
+ (M) Use gas holders constructed on the gasometer principle that has the bell suitably guided. 
+
+ (N) Ensure the gas bell moves freely without tendency to bind and it has at least 2 inches (5 cm) clearance from the shell. 
+
+ (O) Provide a compressor or booster cutoff at a point 12 inches (0.3 m) or more above the landing point of the bell. 
+
+ (P) Ventilate the room in accordance with paragraph (d)(J) of this section when the gas holder is located indoors. 
+
+ (Q) Heat and light the room in accordance with paragraphs (d)(K) and (d)(L), (M), (N), (O), and (R) of this section when the gas holder is located indoors. 
+
+ (R) Protect gas holder seals against freezing when the gas holder is not located within a heated building. 
+
+ (S) Provide means to stop the generator-feeding mechanism before the gas holder reaches the upper limit of its travel. 
+
+ (T) Ensure that the gas capacity of the gas holder is not less than one-third of the hourly rating of the generator when the holder is connected to only one generator. 
+
+ (U) Ensure if acetylene is used from the gas holder without increase in pressure at some points, but with increase in pressure by a compressor or booster pump at other points, then you must: 
+
+ (i) Install approved piping protective devices in each supply line. 
+
+ (ii) Locate a low-pressure protective device between the gas holder and the shop piping. 
+
+ (iii) Locate the medium-pressure protective device between the compressor or booster pump and the shop piping (see Figure 1). 
+
+ NOTE 1: Approved protective equipment (designated PF) is used to prevent backflow of oxygen into the fuel-gas supply system, passage of a flashback into the fuel-gas supply system; and excessive back pressure of oxygen in the fuel-gas supply system. 
+
+ NOTE 2: The three functions of the protective equipment may be combined in one device or may be provided by separate devices. Figure 1. 
+
+ (V) Use approved compressor or booster systems only. 
+
+ (W) Ensure that wiring and electrical equipment in compressor or booster pump rooms or enclosures conform to the provisions of Subdivision S, Electrical, Class I, Division 2. 
+
+ (X) Locate compressors and booster pump equipment: 
+
+ (i) In well-ventilated areas and 
+
+ (ii) Away from ignition sources including, but not limited to, open flames, electrical or mechanical sparks. 
+
+ (Y) Provide compressor or booster pumps with pressure relief valves which will relieve pressure exceeding 15 psig: 
+
+ (i) To a safe outdoor location as provided in paragraph (b)(G), (H), (I), (J), (K), and (L) of this section, or 
+
+ (ii) By returning the gas to the inlet side or to the gas supply source. 
+
+ (Z) Provide compressor or booster pump discharge outlets with approved protective equipment. (See Service Piping Systems (h) and (i)). 
+
+ (c) When using stationary acetylene generators (automatic and non-automatic) you must not: 
+
+ (A) Use common salt (sodium chloride) or other corrosive chemicals for protection against freezing. 
+
+ (B) Supply water through a continuous connection to the generator unless the generator is provided with an: 
+
+ (i) Adequate open overflow, or 
+
+ (ii) Automatic water shutoff which will effectively prevent overfilling the generator. 
+
+ (C) Fit generators with continuous drain connections leading to sewers unless otherwise specifically approved. 
+
+ (D) Interconnect generating chamber relief pipes. 
+
+ (d) When outside generator houses and inside generator rooms for stationary acetylene generators are used, you must: 
+
+ (A) Ensure that the walls, floors, and roofs of outside generator houses are of noncombustible construction. 
+
+ (B) Separate the storage or manifolding of oxygen cylinders from the generator or carbide storage section by partition walls continuous from floor to roof or ceiling, of the type of construction stated in paragraph (d)(H)(i) thru (iii) of this section. 
+
+ (C) Ensure that separation walls are: 
+
+ (i) Without openings. 
+
+ (ii) Joined to the floor, other walls and ceiling or roof in a manner to create a permanent gastight joint. 
+
+ (D) Locate exit doors so they are readily accessible in case of emergency. 
+
+ (E) Provide explosion venting: 
+
+ (i) For outside generator houses and inside generator rooms in exterior walls or roofs. 
+
+ (ii) In areas equal to not less than 1 square foot (0.09 m2) per 50 cubic feet (1.4 m3) of room volume. 
+
+ (iii) That consists of one or any combination of the following: 
+
+ (I) Walls of light, noncombustible material preferably single-thickness, 
+
+ (II) Single-strength glass; 
+
+ (III) Lightly fastened hatch covers; 
+
+ (IV) Lightly fastened swinging doors in exterior walls opening outward; 
+
+ (V) Lightly fastened walls or roof designed to relieve at a maximum pressure of 25 pounds per square foot (0.001 MPa). 
+
+ (F) Restrict the installation of acetylene generators inside buildings to buildings not exceeding one story in height. 
+
+ NOTE: This does not prohibit such installation on the roof or top floor of a building exceeding such height. 
+
+ (G) Enclose generators installed inside a building in a separate room. 
+
+ (H) Ensure that the walls, partitions, floors, and ceilings of inside generator rooms: 
+
+ (i) Are constructed from noncombustible materials having a fire-resistance rating of at least 1 hour floor to ceiling. 
+
+ (ii) Are securely anchored. 
+
+ (iii) Have at least one wall of the room be an exterior wall. 
+
+ (I) Protect openings from an inside generator room to other parts of the building: 
+
+ (i) By a swinging type, self-closing fire door for a Class B opening and having a rating of at least 1 hour. 
+
+ (ii) With wired glass windows in partitions that are in approved metal frames with fixed sash. 
+
+ (iii) By completing Installation in accordance with the Standard for the Installation of Fire Doors and Windows, NFPA 80-1970. 
+
+ NOTE: Inside generator rooms built after July 1, 2014 must comply with NFPA 80-2013. 
+
+ (J) Ventilate inside generator rooms or outside generator houses with vents located at floor and ceiling levels. 
+
+ (K) Heat by steam, hot water, enclosed electrically heated elements or other indirect means. 
+
+ (L) Ensure that generator houses or rooms have natural light during daylight hours. 
+
+ (M) Restrict installation of electric lamps to fixed position where artificial lighting is necessary. 
+
+ (N) Provide lamps with enclosures of glass or other noncombustible material so designed and constructed to prevent gas vapors from reaching the lamp or socket and to resist breakage. 
+
+ (O) Use rigid conduit with threaded connections. 
+
+ (P) Install lamps outside of wired-glass panels in gas-tight frames in the exterior walls or roof of the generator house or room. 
+
+ (Q) Locate electric switches, telephones, and all other electrical apparatus which may cause a spark, outside the generator house or in a room or space separated from the generator room by a gas-tight partition, except: 
+
+ (i) If they are specifically approved for use inside acetylene generator room. 
+
+ (ii) Where the generator system is designed so that no carbide fill opening or other part of the generator is open to the generator house or room during the operation of the generator, and 
+
+ (iii) When residue is carried in closed piping from the residue discharge valve to a point outside the generator house or room, and 
+
+ (iv) Where electrical equipment in the generator house or room must conform to the provisions of Subpart S for Class I, Division 2 locations. 
+
+ (R) Ensure that unauthorized persons do not enter outside generator houses or inside generator rooms. 
+
+ (e) When outside generator houses and inside generator rooms for stationary acetylene generators are used, you must not: 
+
+ (A) Locate openings in any outside generator house within 5 feet (1.5m) of any opening in another building. 
+
+ (B) Use flames or fire to heat outside generator houses or inside generator rooms, or in any enclosure communicating with them. 
+
+ (f) When using portable acetylene generators you must: 
+
+ (A) Use those that are approved for portable use. 
+
+ (B) Use them further than 10 feet (3m) from combustible materials other than the floor. 
+
+ (C) Protect them against freezing. 
+
+ (D) Clean and recharge them and blow off the air mixture outside of buildings. 
+
+ (E) Anchor them to the vehicles they are to be transported and used on. 
+
+ (F) Turn off the vehicle motor during charging, cleaning, and generating processes. 
+
+ (G) Locate portable generators at a safe distance from the welding position so they will not be exposed to sparks, slag, and misdirection of the torch flame or over heating from hot materials or processes. 
+
+ (g) When using portable acetylene generators you must not: 
+
+ (A) Use them in rooms with: 
+
+ (i) A total volume less than the total gas-generating capacity per charge of all generators in the room (to obtain the gas-generating capacity in cubic feet per charge, multiply the pounds of carbide per charge by 4.5). 
+
+ (ii) A ceiling height less than 10 feet (3 m). 
+
+ (B) Use salt or other corrosive chemical to prevent freezing. 
+
+ (C) Move those charged with carbide by crane or derrick. 
+
+ (D) Store those not in use in rooms where open flames are used unless the: 
+
+ (i) Generator contains no carbide. 
+
+ (ii) Generator has been thoroughly purged of acetylene. 
+
+ (iii) Rooms are well ventilated. 
+
+ (h) When providing maintenance and operating acetylene generators you must: 
+
+ (A) Post operating instructions in a conspicuous place near the generator or keep those in a suitable place available for ready reference. 
+
+ (B) Follow the order of operations specified in the manufacturer instructions when recharging generators. 
+
+ (C) Flush out batch-type generators with water: 
+
+ (i) When the charge of carbide is exhausted. 
+
+ (ii) Before additional carbide is added to the generating chamber, and 
+
+ (D) Renew the water supply according to instruction card furnished by the manufacturer. 
+
+ (E) Add enough carbide each time the generator is recharged to refill the space provided for carbide without ramming the charge. 
+
+ (F) Keep the generator water chambers filled to the proper level at all times except while draining during the recharging operation. 
+
+ (G) Fill the water chamber to the proper level whenever: 
+
+ (i) Repairs are to be made. 
+
+ (ii) The generator is to be charged. 
+
+ (iii) Carbide is to be removed. 
+
+ (H) Do the following before making repairs involving welding, soldering, or other hot work or other operations which produce a source of ignition: 
+
+ (i) Completely remove the carbide charge and feed mechanism. 
+
+ (ii) Expel all acetylene by completely flooding the generator shell with water. 
+
+ (iii) Disconnect the generator from the piping system. 
+
+ (iv) Keep the generator filled with water, if possible, or positioned to hold as much water as possible. 
+
+ (i) When maintaining or operating acetylene generators you must not: 
+
+ (A) Discharge water-carbide residue from the generator: 
+
+ (i) Into sewer pipes, or 
+
+ (ii) Store in areas near open flames. 
+
+ NOTE: Clear water from residue settling pits may be discharged into sewer pipes. 
+
+ (B) Use steel or ferrous tools while distributing the charge. 
+
+ (C) Make hot repairs in a room where there are other generators unless all the generators and piping have been purged of acetylene. 
+
+ (15) Storing of calcium carbide. 
+
+ (a) Packaging of calcium carbide must: 
+
+ (A) Be in containers that are: 
+
+ (i) Constructed from metal having sufficient strength to prevent rupture. 
+
+ (ii) Equipped with a screw top or equivalent. 
+
+ (iii) Constructed to be water-and-air-tight. 
+
+ (iv) Soldered in a manner that the package will not fail if exposed to fire. 
+
+ (B) Ensure that the packages are conspicuously marked “Calcium Carbide — Dangerous If Not Kept Dry” or with equivalent warning. 
+
+ (C) Make known this caution: “Metal tools, even the so-called spark resistant type may cause ignition of an acetylene and air mixture when opening carbide containers”. 
+
+ (b) When storing calcium carbide indoors you must: 
+
+ (A) Store in dry, waterproof, well-ventilated locations when quantities of 600 pounds or less are being stored. 
+
+ (B) Keep packages of calcium carbide sealed, except one of each size may be open. 
+
+ (C) Store calcium carbide exceeding 600 pounds (272.2 kg) but not exceeding 5,000 pounds (2,268 kg): 
+
+ (i) In accordance with paragraph (b)(D)(i), (ii), (I) through (III) of this section; 
+
+ (ii) In an inside generator room or outside generator house; or 
+
+ (iii) In a separate room in a one-story building which may contain other occupancies, but without cellar or basement beneath the carbide storage section. Such rooms must be constructed in accordance with paragraphs (d)(H)(i) through (iii) and (d)(I)(i) and (ii) of this section and ventilated in accordance with paragraph (d)(J) of this section. These rooms must be used for no other purpose. 
+
+ (D) Store calcium carbide in excess of 5,000 pounds (2,268 kg) in: 
+
+ (i) An outside generator houses, or 
+
+ (ii) A one story building without cellar or basement and used for no other purpose: 
+
+ (I) If the storage building is of noncombustible construction, it may adjoin other one-story buildings if they are separated by unpierced firewalls. 
+
+ (II) If the storage building is detached and less than 10 feet (3 m) from a building or buildings, there must not be an opening in any of the mutually exposing sides of such buildings within 10 feet (3 m). 
+
+ (III) If the storage building is of combustible construction, it must be at least 30 feet (9.1 m) from any other building exceeding two stories. 
+
+ (c) When storing calcium carbide indoors you must not: 
+
+ (A) Store more than 600 pounds of calcium carbide in the same room with fuel-gas cylinders. 
+
+ (B) Break the seals when there is carbide in excess of 1 pound (0.5 kg) in any other unsealed package of the same size of carbide in the room. 
+
+ (C) Store in rooms with sprinkler systems. 
+
+ (d) When storing calcium carbide outdoors you must: 
+
+ (A) Examine carbide containers to make sure they are in good condition. 
+
+ (B) Place the bottom tier of each row on wooden planking or equivalent so containers will not contact the ground or ground water. 
+
+ (C) Periodically re-examine carbide containers for rusting or other damage that might affect its water or air tightness. 
+
+ (D) Ensure the carbide containers that are stored the longest are used first. 
+
+ (E) Only store in unopened air and water tight metal containers. 
+
+ (F) Store only those containers that are unopened. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 654.025(2) & 656.726(4) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 654.001 - 654.295 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSHA 7-2017, minor correction filed 10/18/2017, effective 10/18/2017 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OSHA 6-2014, f. 10-28-14, cert. ef. 5-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,247 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 244 OREGON FEDERAL HAZARDOUS AIR POLLUTANT PROGRAM 
+ 340-244-0234 
+ Gasoline Dispensing Facilities: Affected Equipment and Sources 
+ 
+ (1) The emission sources to which the Gasoline Dispensing Facilities rules under OAR 340-244-0231 through 340-244-0252 apply are gasoline storage tanks and all associated equipment components in vapor or liquid gasoline service at a GDF. 
+
+ (2) The affected source to which the emission standards apply is each GDF. The affected source includes each gasoline cargo tank during the delivery of gasoline to a GDF, each gasoline storage tank, pressure/vacuum vents on gasoline storage tanks and the equipment necessary to unload product from cargo tanks into the storage tanks at a GDF. 
+
+ (3) The emissions standards in OAR 340-244-0231 through 340-244-0252 do not apply to agricultural operations as defined in ORS 468A.020. Agricultural operations are however required to comply with the Gasoline Dispensing NESHAP, if applicable (40 C.F.R. part 63 subpart CCCCCC). 
+
+ (4) Each GDF will fall into one or more of the categories listed in this subsection. Where multiple categories apply to one GDF, the requirements of each applicable category apply to that GDF. Each GDF category is followed by a number which is used to indicate which rules in this division apply to that GDF: 
+
+ (a) A GDF located anywhere in the state that has only gasoline storage tanks with capacity of less than 250 gallons, hereafter referred to as GDF 1. 
+
+ (b) A GDF located anywhere in the state with a gasoline storage tank that has a capacity of 250 gallons or more, hereafter referred to as GDF 2. 
+
+ (c) A GDF located anywhere in the state with 120,000 gallons or more of annual gasoline throughput, hereafter referred to as GDF 3. 
+
+ (d) A GDF located anywhere in the state with 600,000 gallons or more of annual gasoline throughput, hereafter referred to as GDF 4. 
+
+ (e) A GDF located anywhere in the state with 1,000,000 gallons or more of annual gasoline throughput, hereafter referred to as GDF 5. 
+
+ (5) The owner or operator of a GDF is not required to obtain an Oregon Title V Operating Permit as a result of being subject to OAR 340-244-0231 through 340-244-0252 However, the owner or operator of a GDF must still apply for and obtain an Oregon Title V Operating Permit if meeting one or more of the applicability criteria found in 340-218-0020. 
+
+ (6) The loading of aviation gasoline storage tanks at airports, and the subsequent transfer of aviation gasoline within the airport, is not subject to OAR 340-244-0231 through 340-244-0252, except in Clackamas, Multnomah, and Washington Counties, Medford-Ashland AQMA and the Salem-Keizer SKATS. In these geographic areas, aviation gasoline is subject to 340-244-0231 through 340-244-0252. 
+
+ (7) The dispensing of gasoline from a fixed gasoline storage tank at a GDF into a portable gasoline tank for the on-site delivery and subsequent dispensing of the gasoline into the fuel tank of a motor vehicle or other gasoline-fueled engine or equipment used within the area source is only subject to OAR 340-244-0245(1). 
+
+ (8) If the affected source ever exceeds an applicable threshold, throughput or otherwise, the affected source will remain subject to the requirements for sources above the threshold, even if the affected source later falls below the applicable threshold. 
+
+ (9) For a source that becomes subject to a requirement to install a Stage I vapor balance system, Enhanced Vapor Recovery system, or complete any other equipment change because of an increase in throughput, the owner or operator must have completed the equipment changes no later than 24 months after the affected source becomes subject to the additional or changed requirement, unless otherwise specified within this division. 
+
+ (10) A split compartment gasoline storage tank (i.e., one storage tank that is internally divided to hold two or more different types of liquid) will have each compartment of the tank treated as a separate storage tank for purposes of compliance with OAR 340-244-0231 through -0252. 
+
+ (11) The owner or operator of a new GDF, a reconstructed GDF that has ever had annual throughput of 1,000,000 gallons of gasoline or more, or any new or replaced storage tank(s) at a GDF that has ever had annual throughput of 1,000,000 gallons of gasoline or more must comply with OAR 340-244-0248(1). 
+
+ (12) All equipment installed at a GDF that is in gasoline liquid or vapor service must be compatible with gasoline according to the equipment manufacturer’s instructions or documentation. 
+
+ [NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040 only for affected sources in the Portland-Vancouver, Medford-Ashland, and Salem-Keizer Area Transportation Study air quality management areas and all of Clackamas, Multnomah, and Washington counties.] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020 & 468A.025 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468A.025 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 4-2024, amend filed 03/25/2024, effective 03/25/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 7-2015, f. & cert. ef. 4-16-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 4-2013, f. & cert. ef. 3-27-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 1-2011, f. & cert. ef. 2-24-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 15-2008, f. & cert. ef 12-31-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

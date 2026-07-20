@@ -1,0 +1,228 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 215 OREGON GREENHOUSE GAS REPORTING PROGRAM 
+ 340-215-0034 
+ Changes in Ownership and Cessation of Reporting Requirements 
+ 
+ (1) Cessation of reporting for reduced emissions. 
+
+ (a) A regulated entity is no longer required to report if the regulated entity retains records as required in subsection (b), makes the report required in subsection (c), and if any of the following are applicable: 
+
+ (A) Direct total reported emissions for stationary sources required to register and report under OAR 340-215-0030(2) are less than 2,500 MT CO2e per year for a consecutive three year period. If total reported emissions for a stationary source meets or exceeds 2,500 MT CO2e in any year after the reporting cessation requirements have been met, persons that own or operate the stationary source must resume reporting as required under this division; 
+
+ (B) Fuel suppliers, including natural gas suppliers, and in-state producers that cease to supply fuel in Oregon after submitting an emissions data report for the year in which they ceased to supply fuel in Oregon, provided that: 
+
+ (i) Fuel suppliers and in-state producers that cease to have a reporting obligation due to a change in ownership or that cease to do business in Oregon must report emissions from the reportable fuel transactions that occurred up to the date of the change in ownership or up to the date the business ceases to operate in the state; and 
+
+ (ii) If a fuel supplier or in-state producer supplies fuel in Oregon in any year after the reporting cessation requirements have been met, the fuel supplier must resume reporting as required under this division; 
+
+ (C) Electricity suppliers that cease to supply electricity in Oregon, after submitting an emissions data report for the year in which they ceased to supply electricity in Oregon. If an electricity supplier provides electricity in Oregon in any year after the reporting cessation requirements have been met, the electricity supplier must resume reporting as required under this division. 
+
+ (b) Persons that cease reporting under this section and are no longer subject to reporting under this division must retain the records required under OAR 340-215-0042 for a period of five years following the last year that they were subject to reporting, including all production information, fuel use records, emission calculations and other records used to document greenhouse gas emissions. Persons meeting cessation requirements specified in paragraph (1)(a)(A) must retain records for each of the three consecutive years that the person does not meet or exceed the emission threshold for a period of five years following the last year they met the cessation requirements; and 
+
+ (c) Persons that meet the applicable cessation of reporting requirements of this section must notify DEQ in writing of their reason(s) for ceasing to report no later than the applicable reporting deadline for the year. 
+
+ (2) Cessation of reporting when a stationary source is permanently shut down. If the operations of a stationary source are changed such that all applicable greenhouse gas emitting processes and operations permanently cease to operate or are shut down, then: 
+
+ (a) The person that owns or operates the stationary source must submit an emissions data report for the year in which the source’s greenhouse gas emitting processes and operations ceased to operate; 
+
+ (b) The person that owns or operates the stationary source must submit a written notification to DEQ that announces the cessation of reporting and certifies to the cessation of all greenhouse gas emitting processes and operations no later than the reporting deadline of the year following the cessation of operations or permanent shutdown; and 
+
+ (c) This section does not apply to seasonal operational cessations, other temporary cessation of operations, or solid waste disposal facilities that are required to report under 40 C.F.R. part 98. 
+
+ (3) Changes in ownership or operational control. If a regulated entity undergoes a change of ownership or operational control, the following requirements apply regarding reporting and providing notice to DEQ: 
+
+ (a) The new person that owns or operates the regulated entity must notify DEQ in writing of the ownership or operational control change within 30 calendar days of the ownership or operation control change, including providing the following information: 
+
+ (A) The name of the previous owner or operator; 
+
+ (B) The name of the new owner or operator; 
+
+ (C) The date of ownership or operator change; 
+
+ (D) The name of a new designated representative; 
+
+ (E) The name of persons managing data and records required to be reported by this division; and 
+
+ (F) Any changes to information reported in compliance with OAR 340-215-0040(6). 
+
+ (b) Reporting responsibilities. The person that owns or operates the regulated entity at the time of a reporting deadline specified in this division has the responsibility for complying with the requirements of this division, and: 
+
+ (A) Except as specified in paragraph (B), if an ownership change takes place during the year, reported data must not be split or subdivided for the year, based on ownership. A single annual emissions data report must be submitted by the person that owns or operates the regulated entity at the time of the applicable reporting deadline; and 
+
+ (B) If an ownership change to a fuel supplier or in-state producer takes place during the year, reported data may be subdivided for the year in compliance with OAR 340-215-0034(1)(a)(B)(i) provided that the person that owns or operates the regulated entity at the time of the applicable reporting deadline ensures that all the requirements of this division are met by the prior owner or operator.  
+
+ (4) Any person specified in OAR 340-215-0030 that has ceased reporting under this rule must resume reporting for any future year during which any of the greenhouse gas emitting processes or operations resume operation and are subject to reporting as required by this division. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468A.050 & 468A.280 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468 & 468A 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 17-2023, amend filed 11/16/2023, effective 11/16/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 14-2020, adopt filed 05/07/2020, effective 05/07/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

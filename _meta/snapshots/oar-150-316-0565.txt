@@ -1,0 +1,224 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 316 PERSONAL INCOME TAX GENERAL PROVISIONS 
+ 150-316-0565 
+ Basis of Depreciable Assets Moved into Oregon
+ 
+ 
+ (1) For purposes of this rule taxpayer means an individual, S corporation, or partnership. 
+
+ (2) Taxpayers not subject to the apportionment provision of ORS 314.280 or 314.605 to 314.675. 
+
+ (a) For Assets First Brought into Oregon’s Taxing Jurisdiction in Tax Years Beginning After 1982 and Prior to Tax Years Beginning January 1, 1985. 
+
+ (A) If a taxpayer first brings a depreciable asset into Oregon’s taxing jurisdiction in tax years beginning after December 31, 1982 and prior to tax years beginning January 1, 1985, the asset shall be treated as if it is being converted from personal use to business use. The asset’s Oregon basis shall be the lower of the federal unadjusted basis or fair market value. However, in no instance shall the asset’s Oregon basis be greater than the lower of: 
+
+ (i) The federal unadjusted basis less Oregon depreciation previously allowed for Oregon tax purposes; or 
+
+ (ii) The fair market value less Oregon depreciation previously allowed for Oregon tax purposes. 
+
+ (B) The federal unadjusted basis of an asset is its original basis prior to any adjustments (including, but not limited to, reductions for investment tax credits, depreciation, depletion, amortization, or amounts properly expensed under IRC Section 179). The asset’s fair market value and its expected useful life shall be determined as of the time the asset was brought into Oregon’s taxing jurisdiction. The taxpayer shall depreciate the asset using a method consistent with federal tax law as of December 31, 1980. 
+
+ Example 1: A nonresident taxpayer has a business in California. The taxpayer has a light truck that is used only for business purposes. The truck was purchased on June 1, 1981 at a cost of $10,000. The truck was depreciated in California over a life of three years. The taxpayer moved to Oregon on September 1, 1983. The fair market value of the truck was $6,000 on this date. The expected useful life of the truck on September 1, 1983 was four years. The taxpayer elected to depreciate the truck using the straight-line method for Oregon purposes over four years. The amount of depreciation the taxpayer can claim in 1983 for Oregon purposes is $500 (4⁄12 x 1⁄4 x 6,000). 
+
+ Example 2: Assume the same facts as in Example 1 above. The taxpayer sold the asset for $11,000 on January 1, 1985. The taxpayer shall recognize a total Oregon gain of $7,000. The type and amount of gain the taxpayer shall recognize for Oregon purposes is computed as follows: [Formula not included. See ED. NOTE.] 
+
+ (b) For Assets First Brought into Oregon’s Taxing Jurisdiction in Tax Years Beginning After 1984. Assets first brought into Oregon’s taxing jurisdiction in tax years beginning after December 31, 1984, shall be allowed to use the Accelerated Cost Recovery System (ACRS) method of depreciation as defined and allowed in IRC Section 168 for Oregon purposes, if such assets were first placed in service in tax years beginning after December 31, 1984 pursuant to the conditions set forth in OAR 150-316-0567. The basis of all assets first brought into Oregon’s taxing jurisdiction beginning after December 31, 1984, shall be computed as if the asset is being converted from personal use to business use. The asset’s Oregon basis shall be the lower of the federal unadjusted basis or fair market value. However, in no instance shall the asset’s Oregon basis be greater than the lower of: 
+
+ (A) The federal unadjusted basis less Oregon depreciation previously allowed for Oregon tax purposes; or 
+
+ (B) The fair market value less Oregon depreciation previously allowed for Oregon tax purposes. The allowable depreciation method for Oregon purposes shall be determined as of the time the asset was first placed in service as defined in OAR 150-316-0567. 
+
+ Example 3: Mike is a California resident. He has owned a beanery business in Yreka since 1984. Mike purchased an office building for $100,000 and placed it in service on April 1, 1984. For federal purposes, the building qualifies as 18-year real property and is being depreciated using the applicable percentages allowed under ACRS. On January 1, 1988, Mike purchased his only other asset, a light truck, for $10,000. For federal purposes, the truck qualifies as a 5-year property and is being depreciated using the applicable percentages allowed under MACRS. On January 1, 1990, Mike moved to Ashland, Oregon and continued his California business in Yreka. Since Mike has moved into Oregon’s taxing jurisdiction, Mike must determine his Oregon adjusted basis in the building and the truck in order to depreciate the assets for Oregon. The Oregon adjusted basis is computed as follows: [Formula not included. See ED. NOTE.] 
+
+ The Oregon basis for depreciation of the building is the lesser of the net basis of $100,000 or fair market value of $115,000. The basis for Oregon depreciation is $100,000. Since Oregon did not adopt ACRS for assets first placed in service in tax years beginning before January 1, 1985, Mike must use an allowable depreciation method available for such assets using the federal laws in effect as of December 31, 1980. Mike elects for Oregon purposes to depreciate the building using the straight-line method over a useful life of 14 years. 
+
+ Truck: The Oregon basis for depreciation of the truck is the lesser of the net basis of $10,000 or fair market value of $6,000. The basis for Oregon depreciation is $6,000. Since Oregon adopted ACRS for assets first placed in service in tax years beginning after December 31, 1984, and subsequently MACRS for assets placed in service in tax years beginning after December 31, 1986, Mike will use MACRS for his Oregon and federal depreciation deduction. 
+
+ (3) For taxpayers subject to the apportionment provisions of ORS 314.280 or 314.605 to 314.675. The basis for depreciation on a previously acquired asset shall be computed as if the taxpayer had always been subject to Oregon tax. The original unadjusted basis shall be reduced by the depreciation allowable in previous years, using a method acceptable for Oregon tax purposes in the year the asset is placed in service. The remaining basis of the asset shall be depreciated over the remainder of its original useful life, using the same allowable method. 
+
+ Example 4: Alpha, Ltd. is a partnership that started operation in Washington. On January 1, 1984, the partnership purchased a building in Seattle for $100,000. For federal purposes, the partnership is depreciating the building under ACRS as 15-year property. The partnership expanded and began doing business in Oregon on July 1, 1986. In 1984 Oregon did not allow the ACRS depreciation method. For Oregon purposes, the partnership elected to depreciate the building under the straight-line method over a 20-year life. Since the partnership is subject to the apportionment rules, the basis of the building for Oregon will be as if the building was depreciated for Oregon tax purposes using the straight-line method from the date of purchase.[See PDF link below.] For purposes of determining Oregon taxable income, the partnership will depreciate the building using an Oregon basis of $87,500 and the straight-line method over the remaining life. For purposes of determining federal taxable income, the partnership will continue to depreciate the building under ACRS. 
+
+ (4) Bringing assets into Oregon’s taxing jurisdiction. A taxpayer may bring assets into Oregon’s taxing jurisdiction in several different manners. First, a nonresident may become an Oregon resident and physically bring business assets into Oregon. Second, a nonresident taxpayer may become an Oregon resident and leave the assets in the other state. Third, a nonresident may open a business operation in Oregon and transfer business assets from a different state to the Oregon business. 
+
+ (5) Applicable dates. Section (2) of this rule applies to tax years beginning after December 31, 1982. 
+
+ (6) Five year provision. If for any period of five consecutive calendar years beginning on or after January 1, 1985, the Oregon and federal depreciation methods are identical, the Oregon basis for depreciation may be the same as the federal basis at the option of the taxpayer. This election applies only to assets first brought into Oregon’s taxing jurisdiction upon the expiration of the five-year period. 
+
+ [Publications: The publication(s) referred to or incorporated by reference in this rule is available from the Department of Revenue pursuant to ORS 183.360(2) and 183.355(6).] 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 
+ 
+ 
+ Statutes/Other Implemented:  ORS 316.707 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 58-2017, f. & cert. ef. 8-8-17 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ Renumbered from 150-316.707(1)-(A), REV 64-2016, f. 8-15-16, cert. ef. 9-1-16 
+RD 5-1994, f. 12-15-94, cert. ef. 12-31-94 
+RD 9-1992, f. 12-29-92, cert. ef. 12-31-92 
+RD 7-1991, f. 12-30-91, cert. ef. 12-31-91 
+RD 10-1986, f. & cert. ef. 12-31-86 
+RD 2-1984, f. & cert. ef. 2-21-84, Renumbered from 150-316.707 
+12-31-83(Temp) 
+12-20-83
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

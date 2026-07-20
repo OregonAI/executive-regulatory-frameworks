@@ -1,0 +1,336 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Energy 
+ Chapter 330 
+ 
+ 
+ 
+ 
+ 
+ Division 92 MINIMUM ENERGY EFFICIENCY STANDARDS FOR STATE-REGULATED APPLIANCES AND EQUIPMENT 
+ 330-092-0020 
+ Minimum Energy Efficiency Standards and Test Methods
+ 
+ 
+ (1) Bottle-type water dispensers: Beginning on the effective date shown in OAR 330-092-0015(1), bottle-type water dispensers or water coolers that are included in the scope of the Environmental Protection Agency "ENERGY STAR® Program Product Specification for Water Coolers, Version 2.0," must have an “on mode with no water draw” energy consumption less than or equal to the following values as measured in accordance with the test requirements of that program: 
+
+ (a) 0.16 kilowatt-hours per day for cold-only units and cook and cold units; 
+
+ (b) 0.87 kilowatt-hours per day for storage type hot and cold units; and 
+
+ (c) 0.18 kilowatt-hours per day for on demand hot and cold units. 
+
+ (2) Commercial hot food holding cabinets: Beginning on the effective date shown in OAR 330-092-0015(2), commercial hot food holding cabinets shall meet the requirements of ORS 469.233(2). 
+
+ (3) Compact audio products: Beginning on the effective date shown in OAR 330-092-0015(3), compact audio products shall meet the requirements of ORS 469.233(3). 
+
+ (4) Digital versatile disc players and digital versatile disc recorders: Beginning on the effective date shown in OAR 330-092-0015(4), digital versatile disc players and digital versatile disc recorders shall meet the requirements of ORS 469.233(4). 
+
+ (5) Portable electric spas: Beginning on the effective date shown in OAR 330-092-0015(5), portable electric spas must meet the requirements of the American National Standard for portable electric spa energy efficiency (ANSI/APSP/ICC-14 2019) and must be tested in accordance with the method specified in the American National Standard for portable electric spa energy efficiency (ANSI/APSP/ICC-14 2019). 
+
+ (6) Televisions: Beginning on the effective date shown in OAR 330-092-0015(6), televisions must meet the energy efficiency standards in ORS 469.233(6) as measured in accordance with the federal test procedure described in 10 CFR Section 430.23(h) (Appendix H to Subpart B of Part 430) (2013). Alternatively, until April 23, 2014, television efficiency may be measured in accordance with: 
+
+ (a) For standby passive mode, the test methods contained in International Electrotechnical Commission (IEC) 62301:2005, Edition 1.0 “Household Electrical Appliances – Measurement of Standby Power”; and 
+
+ (b) For on mode and power factor test, the test methods contained in IEC 62087:20008(E), Edition 2.0 — “Methods of Measurement for the Power Consumption of Audio, Video and Related Equipment”, Section 11.6.1 — “On mode (average testing with dynamic broadcast-content video signal” and the specifications contained in the California Code of Regulations, Title 20, Division 2, Chapter 4, Article 4, Section 1604(v)(3), effective January 1, 2011. 
+
+ (7) Battery charger systems: Beginning on the effective date shown in OAR 330-092-0015(7), battery charger systems must meet the energy efficiency standards in ORS 469.233(7) as measured in accordance with: 
+
+ (a) For small battery charger systems that are not: federally regulated battery chargers, uninterruptible power supplies, or battery backups, the test methods contained in 10 CFR Section 430.23(aa) (Appendix Y to Subpart B of Part 430) (Jan. 1, 2017). 
+
+ (A) Multi-port battery charger systems shall be tested for 24-hour efficiency and maintenance mode with a battery in each port. 
+
+ (B) For single port small battery charger systems, the highest 24-hour charge and maintenance energy, maintenance mode, and no battery mode results of the test procedure shall be used for purposes of reporting and determining compliance with ORS 469.233(7)(b). 
+
+ (C) For purposes of computing the small battery charger system standard, the number of ports included in a multi-port charger system shall be equal to the number ports that are separately controlled. For example, a multi-port charger system that charges eight batteries by using two charge controllers that charge four batteries in parallel would use two for “N” as described in ORS 469.233(7)(b). 
+
+ (D) Small battery charger systems that are not sold at retail may use the battery manufacturer’s recommended end of discharge voltage in place of values in 10 CFR section 420.23(aa) (Appendix Y to subpart B of part 430) (Jan.1, 2017), Table 3.3.2, where the table’s values are not applicable. 
+
+ (b) For battery backups and non-federally regulated uninterruptible power supplies, the test methods contained in 10 CFR Section 430.23(aa) (Appendix Y to Subpart B of Part 430) (Jan. 1, 2016). 
+
+ (c) For large battery charger systems that are not federally regulated battery chargers or federally regulated uninterruptible power supplies, the test methods contained in Energy Efficiency Battery Charger System Test Procedure Version 2.2 dated November 12, 2008, and published by ECOS and EPRI Solutions, with the following modifications. 
+
+ (A) The test procedure shall be conducted for 100, 80, and 40 percent discharge rates for only one charge profile, battery capacity, and battery voltage. The manufacturer shall test one battery and one charge profile using the following criteria: 
+
+ (i) the charge profile with the largest charge return factor; 
+
+ (ii) the smallest rated battery capacity; and 
+
+ (iii) the lowest voltage battery available at that rated capacity. 
+
+ (B) The battery manufacturer’s recommended end of discharge voltage may be used in place of values in the test method part 1, section III.F, Table D where the table’s values are not applicable. 
+
+ (8) High light output double-ended quartz halogen lamps: Beginning on the effective date shown in OAR 330-092- 0015(8), high light output double-ended quartz halogen lamps must meet the energy efficiency standards in ORS 469.233(8), as measured in accordance with the IESNA LM-45: Approved Method for Electrical and Photometric Measurements of General Service Incandescent Filament Lamps published by the Illuminating Engineering Society of North America. 
+
+ (9) High CRI fluorescent lamps: Beginning on the effective date shown in OAR 330-092-0015(9), high CRI fluorescent lamps shall meet the minimum efficacy requirements contained in Section 430.32(n)(4) of Title 10 of the Code of Federal Regulations as in effect on January 1, 2020, as measured in accordance with Appendix R to Subpart B of Part 430 of Title 10 of the Code of Federal Regulations—“Uniform Test Method for Measuring Average Lamp Efficacy (LE), Color Rendering Index (CRI), and Correlated Color Temperature (CCT) of Electric Lamps”—as in effect on January 1, 2020. 
+
+ (10) Computers and computer monitors: Beginning on the effective date shown in OAR 330-092-0015(10), computers and computer monitors must meet the requirements in the California Code of Regulations, Title 20, section 1605.3(v) in effect as of December 9, 2021, as measured in accordance with test methods prescribed in section 1604(v) of those regulations. 
+
+ (11) Plumbing Fittings: Beginning on the effective date shown in OAR 330-092-0015(11), the following plumbing fittings must meet the requirements in the California Code of Regulations, Title 20, section 1605.3 as in effect on January 1, 2020, as measured in accordance with the test methods prescribed in the California Code of Regulations, Title 20, section 1604 as in effect on January 1, 2020. 
+
+ (a) Lavatory faucets and lavatory replacement aerators 
+
+ (b) Kitchen faucets and kitchen replacement aerators 
+
+ (c) Public lavatory faucets 
+
+ (d) Showerheads. 
+
+ (12) Commercial fryers: Beginning on the effective date shown in OAR 330-092-0015(12), commercial fryers that are included in the scope of the Environmental Protection Agency "ENERGY STAR® Program Product Specification for Commercial Fryers, Version 2.0," must meet the qualification criteria, requirements, and testing requirements for that specification. 
+
+ (13) Commercial dishwashers: Beginning on the effective date shown in OAR 330-092-0015(13), commercial dishwashers that are included in the scope of the Environmental Protection Agency "ENERGY STAR® Program Product Specification for Commercial Dishwashers, Version 2.0," must meet the qualification criteria, requirements, and testing requirements of that specification. 
+
+ (14) Commercial steam cookers: Beginning on the effective date shown in OAR 330-092-0015(14), commercial steam cookers that are included in the scope of the Environmental Protection Agency "ENERGY STAR® Program Product Specification for Commercial Steam Cookers" must meet the qualification criteria, requirements, and testing requirements of the "ENERGY STAR® Program Product Specification for Commercial Steam Cookers, version 1.2." 
+
+ (15) Residential ventilating fans: Beginning on the effective date shown in OAR 330-092-0015(15), residential ventilating fans that are included in the scope of the Environmental Protection Agency "ENERGY STAR® Program Product Specification for Residential Ventilating Fans" shall meet the qualification criteria of the "ENERGY STAR® Program Requirements Product Specification for Residential Ventilating Fans, version 3.2." 
+
+ (16) Electric storage water heaters: 
+
+ (a) Beginning on the effective date shown in OAR 330-092-0015(16), electric storage water heaters must have a modular demand response communications port compliant with: 
+
+ (A) The March 2018 version of the ANSI/CTA–2045-A communication interface standard, or a standard determined by the department to be equivalent; and 
+
+ (B) The March 2018 version of the ANSI/CTA-2045-A application layer requirements. 
+
+ (b) Upon written request and submittal of information by a manufacturer, the department will determine whether an alternative communications port and communication interface standard are equivalent for the purposes of subsection (a) of this section. The department encourages manufacturers to also make such a request to other states that have a similar standard. The department may coordinate review of the submittal with other states, and when making its determination may consider if similar requests have been made to other states and any responses from those states in order to encourage consistency between Oregon standards and standards in other states. 
+
+ (A) Any requested alternative must use a standard that is open and widely available and must provide the demand response functions provided using the standards identified in subsection (a) of this section. 
+
+ (B) A request for designation of a standard must provide technical documentation demonstrating that the standard satisfies the requirements in (A) of this subsection and must describe any industry or stakeholder process used in developing the standard. The department will provide reasonable opportunity for input by utilities, manufacturers, technical experts and other interested stakeholders prior to determining whether the proposed standard is equivalent. The department will make available on a publicly accessible website any standard that it determines to be equivalent. 
+
+ (17) Spray Sprinkler Bodies: Beginning on the effective date shown in OAR 330-092-0015(17), spray sprinkler bodies that are included in the scope of the Environmental Protection Agency "WaterSense Specification for Spray Sprinkler Bodies, Version 1.0," must include an integral pressure regulator and meet the water efficiency and performance criteria and other requirements of that specification. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 469.040, ORS 469.255 & ORS 469.261 
+ 
+ 
+ Statutes/Other Implemented:  ORS 469.229–469.261 & OL 2022, chapter 4 (House Bill 4057) 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 5-2022, amend filed 12/02/2022, effective 01/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 2-2021, amend filed 11/23/2021, effective 01/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 2-2020, amend filed 08/28/2020, effective 09/01/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 2-2018, amend filed 12/10/2018, effective 12/10/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 8-2017, amend filed 12/20/2017, effective 12/20/2017 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 6-2013, f. 12-23-13, cert. ef. 1-1-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 2-2008, f. 2-28-08, cert. ef. 3-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

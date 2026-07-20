@@ -1,0 +1,307 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Transportation 
+ Chapter 731 
+ 
+ 
+ 
+ 
+ 
+ Division 90 ROAD USAGE CHARGE PROGRAM 
+ 731-090-0000 
+ Definitions
+ 
+ 
+ (1) “Account Manager” means a Certified Service Provider under ORS 319.915. It is either the Department or a Commercial Account Manager.  Should the Department outsource the agency’s account management function for Road Usage Charging to an ODOT Account Manager, “Account Manager” shall include the ODOT Account Manager. 
+
+ (2) “Anonymized Information” means information that does not identify or describe a person. 
+
+ (3) “Anonymized Aggregated information” means aggregated information accumulated in a way that preserves the anonymity of the persons participating in the Road Usage Charge Program, and does not identify or describe a person or create travel pattern data. 
+
+ (4) “Certified Service Provider” means an entity that has entered into an agreement with the Department of Transportation under ORS 367.806 for reporting metered use by a subject vehicle or for administrative services related to the collection of per-mile road usage charges and authorized employees of the entity. For these rules, Account Manager will be used in lieu of Certified Service Provider. 
+
+ (5) “Combined rating” means the weighted average of city and highway miles per gallon values calculated by weighting the city value at 55% and the highway value at 45%, as determined by the United States Environmental Protection Agency. 
+
+ (6) “Commercial Account Manager” means an entity, operating within a commercial market, which has entered into an agreement with the Department under ORS 367.806 for reporting metered use by a subject vehicle or for administrative services related to the collection of Road Usage Charges and authorized employees of the entity. 
+
+ (7) “Consent” means voluntary agreement given to retain location and daily metered use beyond the period required by ORS 319.915(4) (a). 
+
+ (a) A RUC Payer must provide consent to an Account Manager in a manner separate and apart from a general approval of terms and conditions.  A written request by the RUC Payer to an Account Manager constitutes consent. 
+
+ (b) The consent may not be presented as, or serve as a condition to, a Road Usage Charge service agreement between the ODOT Account Manager and the RUC Payer. 
+
+ (c) For consent to be valid under this rule, an Account Manager must notify the RUC Payer of the Account Manager’s request to consent to retain the records, including a specific description of the information to be retained and the retention timeframe. 
+
+ (8) “Delinquency” means failure to report or pay by the due date. 
+
+ (9) “Electric Vehicle” is a passenger vehicle, that is capable of attaining a speed of 55 miles per hour or more, and is powered: 
+
+ (a) Primarily by an electric battery and may or may not use a flywheel energy storage device or a capacitor that stores energy to assist in vehicle operation; or 
+
+ (b) By polymer electrolyte membrane fuel cells or proton exchange membrane fuel cells that use hydrogen fuel and oxygen from the air to produce electricity; or 
+
+ (c) Primarily by a zero-emission energy storage device that provides enough power for the vehicle to travel 75 miles or more using only electricity and may or may not use a backup alternative power unit that does not operate until the energy storage device is fully depleted. 
+
+ (10) “Eligible vehicle” means an electric vehicle or a vehicle with a combined rating of at least 20 miles per gallon and has the ability to support the reporting of mileage and other data to the Account Manager. 
+
+ (11) “Express Approval” means active approval, either electronic or on paper, by a RUC Payer that identifies the entity with which Personally Identifiable Information will be shared. 
+
+ (a) The RUC Payer must give express approval in a manner separate and apart from a general approval of terms and conditions with the Account Manager. 
+
+ (b) For express approval of an entity to receive Personally Identifiable Information to be valid, an Account Manager must notify the RUC Payer of the request to disclose PII, including a specific description of the information to be disclosed. 
+
+ (12) “Good cause,” for the purposes of Division 90 rules, means circumstances outside the reasonable control of an Account Manager that make it impossible for the Account Manager to deliver, deposit, or transmit its Official Tax Reports or payments to the Department in compliance with this section, or that make it impossible for the Account Manager to do so without incurring exceptional additional expense. 
+
+ (a) These circumstances include catastrophic events, suspension of the operations of financial institutions or communications carriers on which an Account Manager depends, and serious and unforeseen failures or the disablement of an Account Manager’s information management, accounting, or transmission systems, that make the timely submission of the reports or payments unachievable. 
+
+ (b) “Good cause” does not include circumstances that an Account Manager could anticipate, like system service interruptions for maintenance or upgrades of an Account Manager’s operational systems. 
+
+ (c) The Account Manager shall have the burden of presenting ODOT with reliable evidence that the circumstances of any untimeliness in the Account Manager’s submission of reports or payments satisfy this standard of good cause. 
+
+ (13) “Lessee” means a person that leases a motor vehicle that is required to be registered in Oregon. 
+
+ (14) “Metered Use Report” means an Account Manager’s periodic report of its RUC Payer’s metered use of Oregon’s public roads for submittal to the Department. 
+
+ (15) “Metered Use Reporting Period” means the period of time for which metered use, or the miles driven, are reported by the RUC Payer to the Account Manager and by the Account Manager to the Department. The frequency of the metered use reports is determined by contract between the Department and the Account Manager. 
+
+ (16) “Mileage Reporting Option” is the manner in which the RUC Payer will report miles and other data to the Account Manager. All mileage reporting options must be approved and certified by the Department for use in the Road Usage Charge Program. 
+
+ (17) “Net Road Usage Charges” means Road Usage Charges attributable to taxable miles reported less Oregon fuels tax credit, applicable to the same reported miles. 
+
+ (18) “Non-compliance” includes, but is not limited to, failure to report regularly, failure to pay an invoice, tampering or fraud, non-responsiveness to Account Manager requests for information, and not following terms and conditions as agreed to in the Volunteer Agreement. 
+
+ (19) “Non-compliance Investigation” means an investigation by the Department to determine if, and to what extent, any person, including but not limited to a RUC Payer, is in compliance with the statutory provisions of the Road Usage Charge Program and associated Oregon Administrative Rules in Chapter 731, Division 90. Such investigations may include informal inquiries or a formal review of the relevant records and the mileage reporting option of the RUC Payer or Account Manager to ascertain the extent of non-compliance, if any 
+
+ (20) “Null Mileage Day” means any 24 hour period from 12:00 AM to 11:59 PM Pacific Time where no miles are reported by the subject vehicle and there is an indication of reporting error for the subject vehicle for that day. 
+
+ (21) “ODOT” or “Department” means the Oregon Department of Transportation. 
+
+ (22) “ODOT Account Manager” means an entity, operating in the capacity of ODOT, which has entered into an agreement with the Department under ORS 367.806 for reporting metered use by a subject vehicle or for administrative services related to the collection of Road Usage Charges and authorized employees of the entity. 
+
+ (23)  “Official Tax Report” means an Account Manager’s periodic report of its RUC Payer’s metered use and the associated Road Usage Charge for submittal to the Department. 
+
+ (24)  “Official Tax Reporting Period” means a calendar quarter during which an Account Manager must file the Official Tax Report of its RUC Payer’s metered use and remit the associated tax to the Department in accordance with its contractual obligation. 
+
+ (25)  “Personally identifiable Information” or “PII” means any information that identifies or describes a person that is obtained or developed in the course of reporting metered use by a subject vehicle or for providing administrative services related to the collection of Road Usage Charges. 
+
+ (a) PII includes, but is not limited to, the person’s travel pattern data, per-mile road usage charge account number, address, telephone number, electronic mail address, driver license or identification card number, registration plate number, photograph, recorded images, bank account information and credit card number. 
+
+ (b) PII does not include anonymized information or anonymized aggregated information. 
+
+ (26) “Registered Owner” means a person or a business, other than a vehicle dealer, that holds a certificate issued under ORS 822.020, which is required to register a motor vehicle in Oregon. 
+
+ (27) “Reasonably Reliable Information available” means any data or information that can be used to determine tax due including calculated projections or averages based on prior reports or data from other sources as determined by the Department. 
+
+ (28) “Road Usage Charge” or “RUC” means a fee charged at the statutory rate per mile driven on Oregon public roads. 
+
+ (29) “Plug-in hybrid electric motor vehicle” means a passenger, hybrid electric motor vehicle that is capable of attaining a speed of 55 miles per or hour or more, and that: 
+
+ (a) Has zero evaporative emissions from its fuel system; 
+
+ (b) Has an onboard electrical energy storage device with useful capacity of 10 or more miles of urban dynamometer driving schedule range, as described by the United States Environmental Protection Agency, on electricity alone; 
+
+ (c) Is equipped with an onboard charger; 
+
+ (d) Is rechargeable from an external connection to an off-board electrical source; and 
+
+ (e) Meets the super ultra-low emission vehicle standards for exhaust emissions, as defined by the United States Environmental Protection Agency by rule. 
+
+ (30) “Road Usage Charge Program” or “Program” means the voluntary program established by ORS 319.883 to 319.945 for paying the Road Usage Charge in lieu of the fuel tax. 
+
+ (31) “RUC Payer” refers to the registered owner or lessee of a subject vehicle that voluntarily participates in the Road Usage Charge Program. 
+
+ (32) “Subject Vehicle” means a motor vehicle that is the subject of an application approved pursuant to ORS 319.890. 
+
+ (33) “Tax Remittance Report” means a ledger of taxes owed by and due to RUC Payers who are enrolled with the ODOT Account Manager. It is submitted by the ODOT Account Manager to the Department quarterly. 
+
+ (34) “Travel Pattern Data” means location and daily metered use of a subject vehicle and data that describes a person’s travel habits in sufficient detail that the person becomes identifiable either through the data itself or by combining publicly available information with the data. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 184.619 & 319.883 - 319.990 
+ 
+ 
+ Statutes/Other Implemented:  ORS 319.883 - 319.990 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOT 2-2019, amend filed 10/22/2019, effective 01/01/2020 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOT 4-2017, amend filed 11/17/2017, effective 01/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOT 3-2016, f. & cert. ef. 9-26-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOT 1-2015, f. 4-21-15, cert. ef. 7-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Oregon Occupational Safety and Health Division - Chapter 437 
+ 
+ 
+ 
+ 
+ Division 3 CONSTRUCTION 
+ 437-003-0404 
+ Branch Circuits 
+ 
+ (1) General. Use ground fault circuit interrupters specified in (2) below or an assured equipment grounding conductor program as in (3) below. These requirements are in addition to any other requirements for equipment grounding conductors.  (2) All 125-volt, single-phase, 15-, 20-, and 30-ampere receptacles on construction sites, that are for temporary power and are available for use by employees, must have approved ground-fault circuit interrupters. GFI protection must be at the outlet end of the circuit. Extension cords or other devices with listed ground-fault circuit interrupter protection for personnel identified for portable are acceptable.  (3) Assured equipment grounding conductor program: Receptacles more than 125-volt, single-phase, 30-amperes must have protection that complies with (2) above, or an assured equipment grounding conductor program that complies with the following:  (a) A written description of the program, including the employer's specific procedures. The program must be at the job site for inspection and copying by the Administrator and any affected employee.  (b) The employer must designate one or more competent persons (defined in §1926.32(f)) to implement the program.  (c) Before each day's use, visually inspect each extension cord, or other device, and any equipment connected by cord and plug, for external defects, such as deformed or missing pins or insulation damage, and for signs of possible internal damage. Extension cords, devices and receptacles not exposed to damage are exempt from this inspection. Do not use damaged or defective equipment.  (d) Do these tests on all extension cords, other devices and receptacles that are not part of the permanent wiring of the building or structure, and cord- and plug-connected equipment required to be grounded:  (A) Test all equipment grounding conductors for continuity.  (B) Test each receptacle or plug to assure the equipment grounding conductor is connected to its proper terminal.  (e) Do all required tests:  (A) Before first use;  (B) Before first use after repair;  (C) Before use after any incident that reasonably could cause damage (for example, when a cord set is run over); and  (D) At intervals not longer than 3 months. Inspect fixed extension cords, other devices and receptacles not exposed to damage at least every 6 months.  (f) Record all tests required in this paragraph. This test record must identify each receptacle, cord set, and cord- and plug-connected equipment that passed the test and indicate the last date of testing or the test interval. Keep this record by means of logs, color coding, or other effective means. Keep the record until replaced by a newer record. The record must be available on the job site for inspection by the Administrator and any affected employee. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 654.025(2) & 656.726(4). 
+ 
+ 
+ Statutes/Other Implemented:  ORS 654.001 - 654.295. 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSHA 5-2002, f. 6-28-02 cert. ef. 10-1-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

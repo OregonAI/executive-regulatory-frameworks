@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 230 INCINERATOR REGULATIONS 
+ 340-230-0380 
+ Municipal Waste Combustors, Small Municipal Waste Combustion Unit: Emission Limits 
+ 
+ No person may cause, allow, or permit the operation of any affected municipal waste combustion unit in a manner that violates the following emission limits and requirements.  (1) Class I units:  (a) Organics:  (A) Dioxins/Furans (total mass basis). The dioxins/furans emissions must not exceed 30 nanograms per dry standards cubic meter corrected to 7 percent oxygen for municipal waste combustion units that do not employ an electrostatic precipitator-based emission control system or must not exceed 60 nanograms per dry standard cubic meter corrected to 7 percent oxygen for municipal waste combustion units that employ an electrostatic precipitator-based emission control system. A 3-run average (minimum run is 4 hours) must be used. Compliance must be determined by a stack test.  (b) Metals:  (A) Cadmium. The cadmium emissions must not exceed 0.040 milligrams per dry standard cubic meter corrected to 7 percent oxygen, using a 3-run average (run duration specified in test method). Compliance must be determined by a stack test.  (B) Lead. The lead emissions must not exceed 0.490 milligrams per dry standard cubic meter corrected to 7 percent oxygen, using a 3-run average (run duration specified in test method). Compliance must be determined by a stack test.  (C) Mercury. The mercury emissions must not exceed 0.080 milligrams per dry standard cubic meter or an 85 percent reduction of potential mercury emissions, corrected to 7 percent oxygen and using a 3-run average (run duration specified in test method). Compliance must be determined by a stack test.  (D) Opacity. The opacity emissions must not exceed 10 percent opacity, using thirty 6-minute averages. Compliance must be determined by a stack test.  (E) Particulate Matter. The particulate matter emissions must not exceed 27 milligrams per dry standard cubic meter corrected to 7 percent oxygen, using a 3-run average (run duration specified in test method). Compliance must be determined by a stack test.  (c) Acid Gases:  (A) Hydrogen Chloride. The hydrogen chloride emissions must not exceed 31 parts per million by dry volume or 95 percent reduction of potential hydrogen chloride emissions, corrected to 7 percent oxygen, using a 3-run average (minimum run duration is 1 hour). Compliance must be determined by a stack test.  (B) Sulfur Dioxide. The sulfur dioxide emissions must not exceed 31 parts per million by dry volume or 75 percent reduction of potential sulfur dioxide emissions, corrected to 7 percent oxygen, using 24-hour daily block geometric average concentration percent reduction. Compliance must be determined by a continuous emission monitoring system.  (d) Other:  (A) Fugitive Ash. No owner or operator may cause or allow visible emissions in excess of 5 percent of the hourly observation period, using three 1-hour observation periods. Compliance must be determined by visible emission test.  (B) Nitrogen Oxide. The nitrogen oxide emissions must not exceed 380 parts per million by dry volume corrected to 7 percent oxygen, with a 24-hour daily block arithmetic average concentration. Compliance is determined by continuous emission monitoring systems.  (C) Carbon Monoxide. The carbon monoxide emissions must not exceed 50 parts per million by dry volume corrected to 7 percent oxygen, with a 4-hour averaging time. Compliance must be determined by continuous emission monitoring system.  (2) Class II units:  (a) Organics: Dioxins/Furans (total mass basis). The dioxins/furans emissions must not exceed 125 nanograms per dry standards cubic meter corrected to 7 percent oxygen. A 3-run average (minimum run is 4 hours) must be used. Compliance must be determined by a stack test.  (b) Metals:  (A) Cadmium. The cadmium emissions must not exceed 0.10 milligrams per dry standard cubic meter corrected to 7 percent oxygen, using a 3-run average (run duration specified in test method). Compliance must be determined by a stack test.  (B) Lead. The lead emissions must not exceed 1.6 milligrams per dry standard cubic meter corrected to 7 percent oxygen, using a 3-run average (run duration specified in test method). Compliance must be determined by a stack test.  (C) Mercury. The mercury emissions must not exceed 0.080 milligrams per dry standard cubic meter or an 85 percent reduction of potential mercury emissions, corrected to 7 percent oxygen and using a 3-run average (run duration specified in test method). Compliance must be determined by a stack test.  (D) Opacity. The opacity emissions must not exceed 10 percent opacity, using thirty 6-minute averages. Compliance must be determined by a stack test.  (E) Particulate Matter. The particulate matter emissions must not exceed 70 milligrams per dry standard cubic meter corrected to 7 percent oxygen, using a 3-run average (run duration specified in test method). Compliance must be determined by a stack test.  (c) Acid Gases:  (A) Hydrogen Chloride. The hydrogen chloride emissions must not exceed 250 parts per million by volume or 50 percent reduction of potential hydrogen chloride emissions, corrected to 7 percent oxygen, using a 3-run average (minimum run duration is 1 hour). Compliance must be determined by a stack test.  (B) Sulfur Dioxide. The sulfur dioxide emissions must not exceed 77 parts per million by dry volume or 50 percent reduction of potential sulfur dioxide emissions, corrected to 7 percent oxygen, using 24-hour daily block geometric average concentration percent reduction. Compliance must be determined by a continuous emission monitoring system.  (d) Other:  (A) Fugitive Ash. No owner or operator may cause or allow visible emissions in excess of 5 percent of the hourly observation period, using three 1-hour observation periods. Compliance must be determined by visible emission test.  (B) Carbon Monoxide. The carbon monoxide emissions must not exceed 50 parts per million by dry volume corrected to 7 percent oxygen, with a 4-hour averaging time. Compliance must be determined by continuous emission monitoring system.  (3) Class I unit compliance dates. If the Class I municipal waste combustion unit began construction, reconstruction, or modification after June 26, 1987, then the owner or operator must comply with the applicable dioxins/furans and mercury emission limits specified in OAR 340-230-0380(1) by December 31, 2003. Final compliance with the dioxins/furans limits must be achieved no later than December 6, 2005, even if the date one year after the issuance of a revised construction or operation permit is later than December 6, 2005.  (4) Startup, shutdown, and malfunction:  (a) The emission limits apply at all times except during periods of municipal waste combustion unit startup, shutdown, or malfunction.  (b) Each startup, shutdown, or malfunction must not last for longer than 3 hours.  (c) A maximum of 3 hours of test data may be dismissed from compliance calculations during periods of startup, shutdown, or malfunction.  (d) During startup, shutdown, or malfunction periods longer than 3 hours, emissions data cannot be discarded from compliance calculations and all provisions under 40 CFR Part 60.11(d) apply. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468A.025 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 4-2003, f. & cert. ef. 2-06-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,209 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 314 INCOME TAXATION GENERALLY  GENERAL PROVISIONS 
+ 150-314-0110 
+ Allocation of Oregon Modifications to Passive Activity Losses 
+ 
+ (1) Oregon Passive Activity Loss. The Oregon passive activity loss shall be equal to the federal passive activity loss (defined in IRC Section 469(d)) as modified by the additions, subtractions, modifications or adjustments provided in ORS Chapters 314, 316, 317, and 318 as they relate to passive activities (defined in IRC Section 469(c)).  (2)(a) Modifications to Federal Passive Activity Losses. Modifications that may apply to passive activities of individuals include but are not limited to the following:  (A) The addition provided in ORS 316.680(2)(a) for interest or dividends on obligations of another state, provided the interest or dividends are derived in the ordinary course of the passive activity.  (B) The addition or subtraction provided in ORS 316.707 for differences in depreciation of assets used in the passive activity.  (C) The addition or subtraction provided in ORS 316.716 due to a difference in basis, upon the taxable sale, exchange or disposition by the taxpayer of an asset used in the passive activity.  (D) The addition provided in ORS 316.723 for public utility stock dividends and the subtraction for gain or loss on the sale of public utility stock where dividends were reinvested, provided the dividends and gain or loss are derived in the ordinary course of the passive activity.  (E) The addition provided by ORS 316.680(2)(d) for depletion in excess of the adjusted basis of property if the property is used in the passive activity.  (F) The subtraction provided in ORS 316.680(1)(a) for interest or dividends on obligations of the U.S. government if the interest or dividends are derived in the ordinary course of the passive activity.  (G) The subtraction for wage expense paid or accrued with respect to the passive activity but not deducted in arriving at federal taxable income because the federal targeted jobs credit under IRC Section 51 was claimed.  (H) The subtraction provided by ORS 314.210 for the elimination of excess profits on government contracts if such profits were derived in the ordinary course of the passive activity.  (I) The addition or subtraction provided in ORS 316.872 for deferral of gain on the sale of small business securities if the securities were held or sold in the ordinary course of the passive activity.  (J) The addition or subtraction provided in ORS 316.873 for deferral of gain on the sale of capital assets, if the assets were held or sold in the ordinary course of the passive activity.  (K) The subtraction provided in ORS 316.744 for energy conservation payments if the energy conservation measure was undertaken with respect to the passive activity.  (L) The addition provided in ORS 316.680(2)(e) for deferred gain on involuntary conversions or exchanges of Oregon property, the proceeds of which are reinvested in property outside Oregon. This modification applies if the property disposed of was used in the passive activity.  (M) The subtraction provided in ORS 316.056 for interest or dividends on obligations of Oregon political subdivisions, provided the interest or dividends are derived in the ordinary course of the passive activity.  Example: Mary has a post-1987 nonrental passive activity loss for federal purposes of $13,500. She shows an addition for depreciation for Oregon of $1,000 and a subtraction for a jobs credit of $600. The computation of Mary’s passive loss for Oregon is shown below:  Federal loss — ($13,500)  Oregon addition for depreciation — 1,000  Oregon subtraction for jobs credit — (600)  Passive loss for Oregon — $13,100  (b) Modifications that may apply to passive activities of a closely held corporation or personal service corporation include but are not limited to the following:  (A) The addition or subtraction provided in ORS 317.368 for differences in depreciation of assets used in the passive activity.  (B) The addition or subtraction provided in ORS 317.374 for differences in depletion if the property is used in the passive activity.  (C) The addition or subtraction provided in ORS 317.356 due to a difference in basis, upon the taxable sale, exchange or disposition by the taxpayer of an asset used in the passive activity.  (D) The addition or subtraction provided in ORS 317.319 for payments to or withdrawals from a capital construction fund if it is established in the ordinary course of the passive activity.  (E) The addition provided in ORS 317.326 for deferred gain from the exchange or involuntary conversion of Oregon property, the proceeds of which are reinvested in property outside Oregon. This modification applies if the property disposed of was used in the passive activity.  (F) The addition provided in ORS 317.309 for interest and dividends received from states and political subdivisions of states derived in the ordinary course of the passive activity.  (G) The dividend-received deduction provided in ORS 317.267 if the securities were held in the ordinary course of the passive activity.  (3)(a) Modifications of Passive Losses by a Nonresident: In the case of a nonresident, losses resulting from passive activities derived from or connected with Oregon sources as defined in ORS 316.127 are deductible for Oregon purposes, subject to the provisions of IRC Section 469. The loss is modified by the modifications, additions and subtractions provided for in ORS Chapters 314 and 316 allocable to the passive activity. Sections (2) and (4) of this rule shall be followed regarding which additions, subtractions and modifications are allocable and how the transition rules and passive activity credits are applied. Section (7) of this rule shall be followed regarding the computation of the Oregon passive activity loss.  Example: John is a nonresident of Oregon and has rental property in both Oregon and California. His loss from all rentals is $50,000 and from his Oregon rental $10,000. Federal law allows a deduction of up to $25,000 for rentals. John would show $25,000 loss in the federal column of Form 40N and $10,000 loss in the Oregon column of Form 40N. John claims the $10,000 loss for Oregon because the loss for a nonresident from Oregon sources is treated in the same manner as a passive loss for a full-year resident.  In the case of a nonresident, losses resulting from passive activities derived from or connected with sources outside Oregon are not deductible for Oregon purposes, regardless of a later change in the taxpayer’s residency.  Example: Tony is currently a full-year resident of Oregon. He moved to Oregon from California on December 15th of the prior year. In his last year in California, Tony incurred a passive loss from a California based investment. He was unable to claim the loss in the year incurred due to the passive loss limitations. Tony may not carry his loss forward to his Oregon return, because he was not a resident of Oregon in the year the loss was incurred and nonresidents can only carry forward passive losses from Oregon sources.  (b) Modification of Passive Losses by a Part-year Resident: In the case of a part-year resident, losses resulting from passive activities carried on during the period the taxpayer is a resident plus those derived from or connected with Oregon sources as defined in ORS 316.127 during the period the taxpayer is a nonresident are deductible for Oregon subject to the provisions of IRC Section 469. The loss is modified by additions, subtractions and modifications provided for in ORS Chapters 314 and 316 allocable to the passive activity. Sections (2) and (4) of this rule shall be followed regarding which additions, subtractions and modifications are allocable and how passive activity credits are applied. Section (7) of this rule shall be followed regarding the computation of the Oregon passive activity loss.  Example: Steve moved to Oregon on July 1 and is a part-year resident of Oregon. He has rentals in both Oregon and California. His loss from the California rental is $24,000 incurred ratably throughout the year ($2,000 per month). His loss from the Oregon rental is $10,000.  Steve would show the maximum $25,000 loss for rentals in the federal column of Form 40P. He would show $22,000 loss in the Oregon column of Form 40P. The Oregon loss consists of $10,000 loss for the Oregon rental and $12,000 loss ($2,000 x 6) for the California rental incurred from July 1 to December 31, the period in which Steve was a resident.  (4) Passive Activity Credits: Taxpayers may offset in full the tax credits provided in ORS Chapters 315, 316, 317, and 318 related to a passive activity against Oregon tax liability for the taxable year.  (5) Active Participants in Rental Real Estate Activities: The $25,000 offset for rental real estate activities provided in IRC Section 469(i) is not reduced by deduction equivalents (defined in IRC Section 469(j)(5)).  (6) Special Rules for Taxpayers in Real Property Business: Taxpayers who qualify under IRC 469(d)(7)(B) to treat any rental real estate activity as a non-passive activity for federal tax purposes shall use the same treatment for Oregon tax purposes.  (7) Computation of the Oregon Passive Activity Loss: Modify the federal passive activity loss by the additions, subtractions and modifications applicable to the passive activity. Apply the passive activity loss limitations specified in IRC Section 469 to the recomputed Oregon passive activity loss. Modify the Oregon return for the difference between the federal passive activity loss deducted and the allowable Oregon passive activity loss. Any amount of the Oregon passive activity loss not allowed in the tax year as a result of the application of the federal loss limitations may be carried forward to the following tax year.  Example 1: Tom has an adjusted gross income of under $100,000. He has a $26,000 passive activity loss from rental property acquired in 1987. The passive loss limitations in IRC Section 469 will allow Tom to use $25,000 of this loss to offset current year income from other sources. The remaining $1,000 will be carried forward for federal purposes.  Tom has $2,000 less depreciation for Oregon than for federal on the rental property. His Oregon passive activity loss is reduced to $24,000 (26,000 – 2,000). An addition of $1,000 is required on the Oregon return. This represents the difference between the allowable federal deduction of $25,000 and the allowable Oregon deduction of $24,000. The $1,000 addition is shown as an “Other addition … Oregon passive loss” on the Oregon return. Tom does not show an addition for depreciation. He will not carry forward any of the loss for Oregon purposes.  Example 2: Larry has an adjusted gross income of under $100,000. He has a $40,000 passive activity loss from rental property acquired in 1987. For federal purposes, Larry may use $25,000 of the loss to offset income from other sources. He carries forward the $15,000 balance.  Larry has $3,000 less depreciation for Oregon than for federal on the rental property. His Oregon passive activity loss is reduced to $37,000 (40,000 – 3,000). Larry then applies the federal passive loss limitations of section 469 of the Internal Revenue Code, and shows the maximum $25,000 loss on his Oregon return. Because this is the same passive loss shown on the federal return, no modification is needed. Larry may carry forward the $12,000 balance of the loss (37,000 – 25,000). Larry does not show an addition for depreciation on the return.  [Publications: Publications referenced are available from the agency.] 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 
+ 
+ 
+ Statutes/Other Implemented:  ORS 314.300 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 150-314.300, REV 32-2016, f. 8-12-16, cert. ef. 9-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RD 6-1996, f. 12-23-96, cert. ef. 12-31-96 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RD 9-1992, f. 12-29-92, cert. ef. 12-31-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RD 11-1988, f. 12-19-88, cert. ef. 12-31-88 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RD 15-1987, f. 12-10-87, cert. ef. 12-31-87 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

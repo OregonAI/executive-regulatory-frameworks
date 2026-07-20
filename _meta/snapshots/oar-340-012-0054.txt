@@ -1,0 +1,765 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 12 ENFORCEMENT PROCEDURE AND CIVIL PENALTIES 
+ 340-012-0054 
+ Air Quality Classification of Violations
+ 
+ 
+ (1) Class I : 
+
+ (a) Constructing a new source or modifying an existing source without first obtaining a required New Source Review/Prevention of Significant Deterioration (NSR/PSD) permit; 
+
+ (b) Constructing a new source, as defined in OAR 340-245-0020, without first obtaining a required Air Contaminant Discharge Permit that includes permit conditions required under OAR 340-245-0005 through 340-245-8050 or without complying with Cleaner Air Oregon rules under OAR 340-245-0005 through 340-245-8050; 
+
+ (c) Failing to conduct a source risk assessment, as required under OAR 340-245-0050; 
+
+ (d) Modifying a source in such a way as to require a permit modification under OAR 340-245-0005 through 340-245-8050, that would increase risk above permitted levels under OAR 340-245-0005 through 340-245-8050 without first obtaining such approval from DEQ; 
+
+ (e) Operating a major source, as defined in OAR 340-200-0020, without first obtaining the required permit; 
+
+ (f) Operating an existing source, as defined in OAR 340-245-0020, after a submittal deadline under OAR 340-245-0030 without having submitted a complete application for a Toxic Air Contaminant Permit Addendum required under OAR 340-245-0005 through 340-245-8050; 
+
+ (g) Exceeding a Plant Site Emission Limit (PSEL); 
+
+ (h) Exceeding a risk limit, including a Source Risk Limit, applicable to a source under OAR 340-245-0100; 
+
+ (i) Failing to install control equipment or meet emission limits, operating limits, work practice requirements, or performance standards as required by New Source Performance Standards under OAR 340 division 238 or National Emission Standards for Hazardous Air Pollutant Standards under OAR 340 division 244; 
+
+ (j) Exceeding a hazardous air pollutant emission limitation; 
+
+ (k) Failing to comply with an Emergency Action Plan; 
+
+ (l) Exceeding an opacity or emission limit (including a grain loading standard) or violating an operational or process standard, that was established under New Source Review/Prevention of Significant Deterioration (NSR/PSD); 
+
+ (m) Exceeding an emission limit or violating an operational or process standard that was established to limit emissions to avoid classification as a major source, as defined in OAR 340-200-0020; 
+
+ (n) Exceeding an emission limit or violating an operational limit, process limit, or work practice requirement that was established to limit risk or emissions to avoid exceeding an applicable Risk Action Level or other requirement under OAR 340-245-0005 through 340-245-8050; 
+
+ (o) Exceeding an emission limit, including a grain loading standard, by a major source, as defined in OAR 340-200-0020, when the violation was detected during a reference method stack test; 
+
+ (p) Failing to perform testing or monitoring, required by a permit, permit attachment, rule or order, that results in failure to show compliance with a Plant Site Emission Limit or with an emission limitation or a performance standard established under New Source Review/Prevention of Significant Deterioration, National Emission Standards for Hazardous Air Pollutants, New Source Performance Standards, Reasonably Available Control Technology, Best Available Control Technology, Maximum Achievable Control Technology, Typically Achievable Control Technology, Lowest Achievable Emission Rate, Toxics Best Available Control Technology, Toxics Lowest Achievable Emission Rate, or adopted under section 111(d) of the Federal Clean Air Act; 
+
+ (q) Causing emissions that are a hazard to public safety; 
+
+ (r) Violating a work practice requirement for asbestos abatement projects; 
+
+ (s) Improperly storing or openly accumulating friable asbestos material or asbestos-containing waste material; 
+
+ (t) Conducting an asbestos abatement project, by a person not licensed as an asbestos abatement contractor; 
+
+ (u) Violating an OAR 340 division 248 disposal requirement for asbestos-containing waste material; 
+
+ (v) Failing to hire a licensed contractor to conduct an asbestos abatement project; 
+
+ (w) Openly burning materials which are prohibited from being open burned anywhere in the state by OAR 340-264-0060(3), or burning materials in a solid fuel burning device, fireplace, trash burner or other device as prohibited by OAR 340-262-0900(1); 
+
+ (x) Failing to install certified vapor recovery equipment; 
+
+ (y) Delivering for sale a noncompliant vehicle by a vehicle manufacturer in violation of Oregon Low Emission and Zero Emission Vehicle rules set forth in OAR 340 division 257; 
+
+ (z) Exceeding an Oregon Low Emission Vehicle average emission limit set forth in OAR 340 division 257; 
+
+ (aa) Failing to comply with Zero Emission Vehicle (ZEV) sales requirements, or to meet credit retirement and/or deficit requirements, under OAR 340 division 257; 
+
+ (bb) Failing to obtain a Motor Vehicle Indirect Source Permit as required in OAR 340 division 257; 
+
+ (cc) Selling, leasing, or renting a noncompliant vehicle by an automobile dealer or rental car agency in violation of Oregon Low Emission Vehicle rules set forth in OAR 340 division 257; 
+
+ (dd) Violating any of the clean fuel standards set forth in OAR 340-253-0100(6) and in Tables 1 and 2 of OAR 340-253-8010; 
+
+ (ee) Committing any action related to a credit transfer that is prohibited in OAR 340-253-1005(8); 
+
+ (ff) Inaccurate reporting that causes illegitimate credits to be generated in the Oregon Clean Fuels Program, OAR chapter 340, division 253, or that understates a registered party’s true compliance obligation in deficits under such program; 
+
+ (gg) Misstating material information or providing false information when submitting an application for a carbon intensity score under OAR 340-253-0450, OAR 340-253-0460, or OAR 340-253-0470, or when submitting an application for advance credits under OAR 340-253-1100; 
+
+ (hh) Failing to timely submit a complete and accurate annual compliance report under OAR 340-253-0650; 
+
+ (ii) Failing to timely submit a complete and accurate emissions data report under OAR 340-215-0044 and OAR 340-215-0046; 
+
+ (jj) Submitting a verification statement to DEQ prepared by a person not approved by DEQ under OAR 340-272-0220 to perform verification services; 
+
+ (kk) Failing to timely submit a verification statement that meets the verification requirements under OAR 340-272-0100 and OAR 340-272-0495; 
+
+ (ll) Failing to submit a revised application or report to DEQ according to OAR 340-272-0435; 
+
+ (mm) Failing to complete re-verification according to OAR 340-272-0350(2); 
+
+ (nn) Failing to timely submit a Methane Generation Rate Report or Instantaneous Surface Monitoring Report according to OAR 340-239-0100; 
+
+ (oo) Failing to timely submit a Design Plan or Amended Design Plan in accordance with OAR 340-239-0110(1); 
+
+ (pp) Failing to timely install and operate a landfill gas collection and control system according to OAR 340-239-0110(1); 
+
+ (qq) Failing to operate a landfill gas collection and control system or conduct performance testing of a landfill gas control device according to the requirements in OAR 340-239-0110(2); 
+
+ (rr) Failing to conduct landfill wellhead sampling under OAR 340-239-0110(3); 
+
+ (ss) Failing to comply with a landfill compliance standard in OAR 340-239-0200; 
+
+ (tt) Failing to conduct monitoring or remonitoring in accordance with OAR 340-239-0600 that results in a failure to demonstrate compliance with a landfill compliance standard in OAR 340-239-0200 or the 200 ppmv threshold in OAR 340-239-0100(6)(b) or OAR 340-239-0400(2)(c); 
+
+ (uu) Failure to take corrective actions in accordance with OAR 340-239-0600(1); 
+
+ (vv) Failing to comply with a landfill gas collection and control system permanent shutdown and removal requirement in OAR 340-239-0400(1); 
+
+ (ww) Delivering for sale a new noncompliant on highway heavy duty engine, truck or trailer in violation of rules set forth under OAR 340 division 261; 
+
+ (xx) Failing to notify DEQ of changes in ownership or operational control or changes to related entities under OAR 340-273-0120; 
+
+ (yy) Owning or operating a covered entity, identified in OAR 340-273-0110, after a submittal deadline under OAR 340-273-0150(1)(a) or OAR 340-273-0150(2)(a) without having submitted a complete application for a Climate Protection Program permit required under OAR 340-273-0150; 
+
+ (zz) Failing to comply with a condition in a Climate Protection Program permit, issued according to OAR 340-273-0150; 
+
+ (aaa) Failing to demonstrate compliance according to OAR 340-273-0450; 
+
+ (bbb) Failing to comply with the requirements for trading of compliance instruments under OAR 340-273-0500 or 340-273-0510; 
+
+ (ccc) Submitting false or inaccurate information on any application or submittal required under OAR chapter 340, division 273; 
+
+ (ddd) Failing to register as a regulated party in the Oregon Clean Fuels Program under OAR 340-253-0100(1) and (4); or 
+
+ (eee) Failing by a fuel producer to inform DEQ if its operational carbon intensity exceeds its certified carbon intensity as described in OAR 340-253-0450(9)(e)(D) when credits generated from those certified carbon intensity values generated illegitimate credits as described in OAR 340-253-1005(7). . 
+
+ (2) Class II : 
+
+ (a) Constructing or operating a source required to have an Air Contaminant Discharge Permit (ACDP), ACDP attachment, or registration without first obtaining such permit or registration, unless otherwise classified; 
+
+ (b) Violating the terms or conditions of a permit, permit attachment or license, unless otherwise classified; 
+
+ (c) Modifying a source in such a way as to require a permit or permit attachment modification from DEQ without first obtaining such approval from DEQ, unless otherwise classified; 
+
+ (d) Exceeding an opacity limit, unless otherwise classified; 
+
+ (e) Exceeding a Volatile Organic Compound (VOC) emission standard, operational requirement, control requirement or VOC content limitation established by OAR 340 division 232; 
+
+ (f) Failing to timely submit a complete ACDP annual report or permit attachment annual report; 
+
+ (g) Failing to timely submit a certification, report, or plan as required by rule, permit or permit attachment, unless otherwise classified; 
+
+ (h) Failing to timely submit a complete permit application, ACDP attachment application, or permit renewal application; 
+
+ (i) Failing to submit a timely and complete toxic air contaminant emissions inventory as required under OAR 340-245-0005 through 340-245-8050; 
+
+ (j) Failing to comply with the open burning requirements for commercial, construction, demolition, or industrial wastes in violation of OAR 340-264-0080 through 0180; 
+
+ (k) Failing to comply with open burning requirements in violation of any provision of OAR 340 division 264, unless otherwise classified; or burning materials in a solid fuel burning device, fireplace, trash burner or other device as prohibited by OAR 340-262-0900(2). 
+
+ (l) Failing to replace, repair, or modify any worn or ineffective component or design element to ensure the vapor tight integrity and efficiency of a stage I or stage II vapor collection system; 
+
+ (m) Failing to provide timely, accurate or complete notification of an asbestos abatement project; 
+
+ (n) Failing to perform a final air clearance test or submit an asbestos abatement project air clearance report for an asbestos abatement project; 
+
+ (o) Violating on road motor vehicle refinishing rules contained in OAR 340-242-0620; 
+
+ (p) Failing to comply with an Oregon Low Emission Vehicle reporting, notification, or warranty requirement set forth in OAR division 257; 
+
+ (q) Failing to receive Green-e certification for Renewable Energy Certificates used to generate incremental credits when required by OAR 340-253-0470; 
+
+ (r) Failing to register as an aggregator or submit an aggregator designation form under OAR 340-253-0100(3) and (4)(c); 
+
+ (s) Failing to keep complete and accurate records under OAR 340-253-0600; 
+
+ (t) Failing to ensure that a registered party has the exclusive right to the environmental attributes that it has claimed for biomethane, biogas, or renewable electricity either directly as a fuel or indirectly as a feedstock under OAR chapter 340, division 253 by either the registered party, the fuel producer, and/or fuel pathway holder; 
+
+ (u) Failing to timely submit a complete and accurate quarterly report under OAR 340-253-0630; 
+
+ (v) Violating any requirement under OAR chapter 340, division 272, unless otherwise classified; 
+
+ (w) Violating any requirement under OAR chapter 340, division 239, unless otherwise classified; 
+
+ (x) Failing to comply with the reporting notification or warranty requirements for new engines, trucks, and trailers set forth in OAR chapter 340, division 261; 
+
+ (y) Violating any requirement under the Climate Protection Program, OAR chapter 340, division 273, unless otherwise classified; 
+
+ (z) Failing to notify DEQ of a change of ownership or control of a registered party under OAR chapter 340, division 253; or 
+
+ (3) Class III : 
+
+ (a) Failing to perform testing or monitoring required by a permit, rule or order where missing data can be reconstructed to show compliance with standards, emission limitations or underlying requirements; 
+
+ (b) Constructing or operating a source required to have a Basic Air Contaminant Discharge Permit without first obtaining the permit; 
+
+ (c) Modifying a source in such a way as to require construction approval from DEQ without first obtaining such approval from DEQ, unless otherwise classified; 
+
+ (d) Failing to revise a notification of an asbestos abatement project, when necessary, unless otherwise classified; 
+
+ (e) Submitting a late air clearance report that demonstrates compliance with the standards for an asbestos abatement project; 
+
+ (f) Licensing a noncompliant vehicle by an automobile dealer or rental car agency in violation of Oregon Low Emission Vehicle rules set forth in OAR Chapter 340, division 257; 
+
+ (g) Making changes to a submitted quarterly or annual report under OAR Chapter 340, division 253 without DEQ approval under OAR 340-253-0650(4); or 
+
+ (h) Failing to upload transactions to a quarterly report by the 45-day deadline under OAR 340-253-0630. 
+
+ [Note: Tables and Publications referenced are available from the agency.] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, 468A.025 & 468A.045 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468.020 & 468A.025 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 18-2024, amend filed 11/22/2024, effective 11/22/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 17-2023, amend filed 11/16/2023, effective 11/16/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 16-2022, amend filed 09/23/2022, effective 09/23/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 11-2022, minor correction filed 08/09/2022, effective 08/09/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 27-2021, amend filed 12/16/2021, effective 12/16/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 17-2021, amend filed 11/17/2021, effective 11/17/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 16-2021, amend filed 10/04/2021, effective 10/04/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 14-2020, amend filed 05/07/2020, effective 05/07/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 199-2018, amend filed 11/16/2018, effective 01/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 197-2018, amend filed 11/16/2018, effective 11/16/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 13-2015, f. 12-10-15, cert. ef. 1-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 1-2014, f. & cert. ef. 1-6-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 2-2011, f. 3-10-11, cert. ef. 3-15-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 6-2006, f. & cert. ef. 6-29-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 4-2006, f. 3-29-06, cert. ef. 3-31-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 340-012-0050, DEQ 4-2005, f. 5-13-05, cert. ef. 6-1-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 19-1998, f. & cert. ef. 10-12-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 22-1996, f. & cert. ef. 10-22-96 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 21-1994, f. & cert. ef. 10-14-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 13-1994, f. & cert. ef. 5-19-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 4-1994, f. & cert. ef. 3-14-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 20-1993(Temp), f. & cert. ef. 11-4-93 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 19-1993, f. & cert. ef. 11-4-93 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 21-1992, f. & cert. ef. 8-11-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 2-1992, f. & cert. ef. 1-30-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 31-1990, f. & cert. ef. 8-15-90 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 15-1990, f. & cert. ef. 3-30-90 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 4-1989, f. & cert. ef. 3-14-89 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 22-1988, f. & cert. ef. 9-14-88 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 22-1984, f. & ef. 11-8-84 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 5-1980, f. & ef. 1-28-80 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 78, f. 9-6-74, ef. 9-25-74 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,482 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+   Temporary rule language in effect until 12/01/2026. 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Chapter 407 
+ 
+ 
+ 
+ 
+ 
+ Division 7 CRIMINAL HISTORY AND ABUSE CHECKS 
+ 407-007-0210 
+ Definitions
+ 
+ 
+ OAR 125-007-0210 and 407-007-0010 include definitions for words and terms used in OAR chapter 407, division 007. The following definitions apply specifically to OAR 407-007-0200 to 407-007-0370: 
+
+ (1)  “Appointing authority” means an individual designated by the qualified entity (QE) who is responsible for appointing QE designees (QEDs). Examples include but are not limited to human resources staff with the authority to offer and terminate employment, a business owner, a member of the board of directors, a director, or a program administrator. 
+
+ (2) “Credible evidence” means available facts, when viewed objectively with the surrounding circumstances, would cause a reasonable person to believe that an event has occurred. 
+
+ (3) “Good Standing” means the SI is in an approved status on the registry  (see OAR 407-007-0600 to 407-007-0640)  and may continue to work without active supervision (see OAR 407-007-0315(7)) in an approved status in all any current positions listed for the SI. 
+
+ (4) “Ineligible” means BCU has determined that an SI has one or more convictions that prohibit the SI from holding the position listed in the background check request. Ineligibility is due to either the SI being subject to: 
+
+ (a) ORS 443.004 and either OAR 407-007-0275 or 407-007-0277; or 
+
+ (b) A federal law or regulation that includes mandatory exclusions. 
+
+ (5) “Mandatory exclusion” a conviction or condition from a federal law, regulation or directive that would prohibit the SI from holding the position listed in the background check request. 
+
+ (6) “Portability” means the ability of an SI to use one approved background check for a defined period of time for immediate hirability for a position offered by a QE within a group as determined by the Department. See OAR 407-007-0600 to 407-007-0640. 
+
+ (7) “Potentially disqualifying abuse” means abuse that is considered potentially disqualifying in a background check pursuant to OAR 407-007-0290(11). If formal review or appeal rights are offered to the alleged perpetrator (SI), BCU may consider the abuse as potentially disqualifying after these rights are completed or timed out.   
+
+ (8) “Proctor foster parent” means an individual who is an applicant for certification or recertification of a proctor foster home by a child-caring agency pursuant to OAR 419-440-0010 to 419-440-0210 . 
+
+ (9) “Qualified entity (QE)” means a community mental health or developmental disability program, local health department, or an individual, business, or organization, whether public, private, for-profit, nonprofit, or voluntary, that provides care, including a business or organization that licenses, certifies, or registers others to provide care (see ORS 181A.200). 
+
+ (10) “QE designee (QED)” means an approved SI appointed by the QE’s appointing authority to handle background checks on behalf of the QE. 
+
+ (11) “QE Initiator (QEI)” means an approved SI to whom BCU has granted access to BCU’ online background check system for one QE for the purpose of entering background check request data. 
+
+ (12) “Subject individual (SI)” means an individual on whom BCU may conduct a criminal records check or an abuse check or both, and from whom BCU may require fingerprints for the purpose of conducting a national criminal records check. 
+
+ (a) An SI includes any of the following: 
+
+ (A) An individual who is licensed, certified, registered, or otherwise regulated or authorized for payment by the Department or Authority and who provides care. 
+
+ (B)  An employee, contractor, temporary worker, or volunteer who provides care or has direct contact with clients, client information, or client funds within or on behalf of any entity or agency licensed, certified, registered, or otherwise regulated by the Department or Authority. 
+
+ (C) Any individual who is paid directly or indirectly with public funds who has or will have direct contact with recipients of: 
+
+ (i) Services within an adult foster home (defined in ORS 443.705); or 
+
+ (ii) Services within a residential facility (defined in ORS 443.400). 
+
+ (D) Any individual secured by any residential care or assisted living facility licensed by the Department in accordance with OAR chapter 411 division 54 through the services of a personnel services or staffing agency who works and provides care or has direct contact with clients, client information, or client funds. 
+
+ (E) Any individual secured by any residential care or assisted living facility licensed by the Department in accordance with OAR chapter 411 division 85 through the services of a personnel services or staffing agency who works and provides care or has direct contact with clients, client information, or client funds. 
+
+ (F) Except as excluded in section (12)(b)(C) and (D) of this rule, an individual who lives in a facility that is licensed, certified, registered, or otherwise regulated by the Department to provide care. The position of this SI includes but is not limited to resident manager, household member, boarder, or tenant. 
+
+ (G)  Any referral agent, and any employee of a referral agent of a long term care referral entity pursuant to OAR 411-058-0000 to 411-058-0100 who comes into direct contact with clients. 
+
+ (H) For child foster homes licensed by the Department’s Developmental Disabilities ( DD) programs, or child foster or adoptive homes governed by OAR chapter 419, division 400: 
+
+ (i) A foster parent or proctor foster parent; 
+
+ (ii) An adoptive parent applicant or an approved adoptive parent; 
+
+ (iii) A household member in an adoptive or foster home 18 years of age and over; 
+
+ (iv) A household member in an adoptive or foster home under 18 years of age if there is reason to believe that the household member may pose a risk to children placed in the home; and 
+
+ (v) A respite care provider or alternate caregiver. 
+
+ (I) An individual with contact with clients, client information, or client funds, who is an employee, contractor, or volunteer for a child-caring agency governed by OAR chapter 419 division 400; an In-Home Safety and Reunification Services (ISRS) program; a Strengthening, Preserving and Reunifying Families (SPRF) provider; or a system of care contractor providing child welfare services pursuant to ORS chapter 418. 
+
+ (J) A homecare worker as defined in ORS 410.600, a personal support worker as defined in ORS 410.600, a personal care services provider, or an independent provider employed by a Department or Authority client who provides care to the client if the Department or Authority helps pay for the services. 
+
+ (K) An individual subject to ORS 475 and OAR 333-333-4100, including: 
+
+ (i) Any person identified as an applicant on a worker permit or license application under OAR chapter 333, division 333; or 
+
+ (ii) Any licensee or work permit holder who is applying for a renewal under OAR chapter 333, division 333. 
+
+ (L) An appointing authority, QED, or QEI associated with any entity or agency licensed, certified, registered, otherwise regulated by the Department, or subject to these rules. 
+
+ (M) An individual providing on the job certified nursing assistant classes to staff within a long term care facility. 
+
+ (N) A student enrolled in a Board of Nursing approved nursing assistant training program in which the instruction and training occurs solely in a nursing facility. 
+
+ (O) Except for those excluded under section (12)(b)(B), a student or intern who provides care or has direct contact with clients, client information, or client funds within or on behalf of a QE. 
+
+ (P) Any individual associated with a room and board facility pursuant to OAR chapter 411, division 68, including: 
+
+ (i) Any registered operator or registration applicant; or 
+
+ (ii) All persons intending to work in, or currently working in a room and board facility, including, but not limited to, tenant managers, including trainees, and licensed healthcare workers when employed by or contracted with the registrant or the room and board facility . 
+
+ (Q) An employee providing care to clients of the Department’s Aging and People with Disabilities (APD) programs who works for an in-home care agency as defined by ORS 443.305 which has enrolled to deliver Medicaid funded services as described in OAR 411-033-0000 to 411-033 to 0030 for Department clients. 
+
+ (R) Any individual who is required to complete a background check pursuant to Department or Authority program rules, if the requirement is within the Department or Authority’s statutory authority. Specific statutory authority or reference to these rules and who is subject to a background check must be specified in the program rules.  Whether hiring on a preliminary basis, restricted approval, or how often a recheck is needed may also be specified in the program rules. The exceptions in section (12)(b) do not apply to these SIs. 
+
+ (S) Any individual who is required to complete a background check pursuant to a contract with the Department or Authority to provide care to vulnerable individuals, if the requirement is within the Department or Authority’s statutory authority. Specific statutory authority or reference to these rules and the positions under the contract subject to a background check must be specified in the contract. Whether hiring on a preliminary basis, restricted approval, or how often a recheck is needed may also be specified in the contract. The exceptions in section (12)(b) do not apply to these SIs. 
+
+ (b) An SI does not include: 
+
+ (A) Any individual under 16 years of age. 
+
+ (B) A student or intern in a clinical placement at a clinical training setting subject to administrative rules implemented under ORS 413.435 and OAR 409-030-0100 to 409-030-0250. 
+
+ (C) Department, Authority, or QE clients. The only circumstance in which BCU allows a check to be performed on a client pursuant to this paragraph is if the client falls within the definition of “subject individual” as listed in sections (12)(a)(A)-(E) and (12)(a)(G)-(S) of this rule, or if the facility is dually licensed for different populations of vulnerable individuals. 
+
+ (D) Individuals required to complete a background check through the Central Background Registry under  the Office of Child Care of the Oregon Department of Education  (known as the Department of Education, Early Learning Division effective 7/1/2023) . 
+
+ (E) Volunteers providing any care or services for a QE’s special event lasting no more than 2 weeks whose access to clients is no more than three days within the two-week period. These volunteers must always be actively supervised in accordance with OAR 407-007-0315 and have no unsupervised contact with clients. 
+
+ (F) Individuals employed by a private business that provides services to clients and the general public and is not regulated by the Department or Authority. 
+
+ (G) Individuals employed by a business that provides appliance or structural repair for clients and the general public and who are temporarily providing these services in a licensed or certified QE. The QE must ensure active supervision of these individuals while on QE property and the QE may not allow unsupervised contact with QE clients or residents. This exclusion does not apply to a business that receives funds from the Department or Authority for care provided by an employee of the business. 
+
+ (H) Individuals employed by a private business in which a client of the Department or Authority is working as part of a Department- or Authority-sponsored employment service program. This exclusion does not apply to an employee of a business that receives funds from the Department or Authority for care provided by the employee. 
+
+ (I) Employees, contractors, students, interns, and volunteers working in hospitals, ambulatory surgical centers, outpatient renal dialysis facilities, extended stay centers, and freestanding birthing centers, as defined in ORS 442.015, and special inpatient care facilities as defined by the Authority in administrative rule. 
+
+ (J) Employees, contractors, students, interns, and volunteers working in home health agencies, in-home care agencies, or hospice programs as defined by the Authority in administrative rule. 
+
+ (K) Volunteers, who are not under the direction and control of a licensed, certified, registered, or otherwise regulated QE. 
+
+ (L) Individuals employed or volunteering in a Medicare-certified health care business which is not subject to licensure or certification by the State of Oregon. 
+
+ (M) Individuals working in restaurants or at public swimming pools. 
+
+ (N) Hemodialysis technicians. 
+
+ (O) Employees, contractors, temporary workers, or volunteers who provide care, or have direct contact with clients, client information, or client funds of an alcohol and drug program that is certified, licensed, or approved by the Authority’s Health Systems Division to provide prevention, evaluation, or treatment services. This exclusion does not apply to programs specifically required by other Authority program rules to conduct criminal records checks in accordance with these rules. 
+
+ (P) Individuals working for a transit service provider which conducts background checks pursuant to ORS 267.237. 
+
+ (Q) Emergency medical technicians and first responders certified by the Authority’s Emergency Medical Services and Trauma Systems program. 
+
+ (R) Employees, contractors, temporary workers, or volunteers of continuing care retirement communities registered under OAR chapter 411, division 67. 
+
+ (S) Individuals hired by or on behalf of a resident in a QE to provide care privately to the resident. 
+
+ (T) An employee, contractor, temporary worker, or volunteer who provides care or has direct contact with specific clients, client information, or client funds within or on behalf of any entity or agency licensed, certified, registered, or otherwise regulated by the Department or Authority, where the clients served permanently reside in another state. 
+
+ (U)  An employee, volunteer or contractor subject to OAR 407-007-0000 to 407-007-0100, including individuals working or placed in a residential facility owned or operated by the Department or the Authority. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 181A.200, 409.027, 409.050, ORS 475A.486 & Or. Law 2026 ch. 59 (2026 HB 4115) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 181A.200, 409.027, ORS 181A.195, 443.004, ORS 418.248, ORS 475A.486 & Or. Law 2026 ch. 59 (2026 HB 4115) 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHS 1-2026, temporary amend filed 05/29/2026, effective 06/05/2026 through 12/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHS 1-2023, amend filed 01/27/2023, effective 02/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHS 31-2022, temporary amend filed 09/09/2022, effective 09/09/2022 through 02/27/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHS 30-2022, temporary amend filed 08/31/2022, effective 09/01/2022 through 02/27/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHS 24-2021, amend filed 12/15/2021, effective 12/17/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHS 7-2021, temporary amend filed 06/25/2021, effective 06/25/2021 through 12/21/2021 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 2-2020, amend filed 02/10/2020, effective 02/10/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 18-2019, temporary amend filed 09/26/2019, effective 09/27/2019 through 03/24/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 31-2018, amend filed 11/28/2018, effective 12/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 13-2018, temporary amend filed 06/29/2018, effective 07/01/2018 through 12/27/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 10-2017, f. & cert. ef. 9-1-17 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ DHSD 6-2017, f. 6-30-17, cert. ef. 7-1-17 
+DHSD 3-2017(Temp), f. & cert. ef. 3-15-17 thru 9-10-17 
+DHSD 9-2016, f. & cert. ef. 12-1-16 
+DHSD 6-2016(Temp), f. & cert. ef. 7-1-16 thru 12-27-16 
+DHSD 5-2016, f. 6-10-16, cert. ef. 6-15-16 
+DHSD 1-2016(Temp), f. & cert. ef. 1-14-16 thru 7-11-16 
+DHSD 2-2014, f. & cert. ef. 12-1-14 
+DHSD 3-2013, f. & cert. ef. 8-1-13 
+DHSD 1-2013(Temp), f. & cert. ef. 2-5-13 thru 8-2-13 
+DHSD 4-2012, f. & cert. ef. 8-1-12 
+DHSD 2-2012(Temp), f. & cert. ef. 2-27-12 thru 8-24-12 
+DHSD 8-2011, f. 10-28-11, cert. ef. 11-1-11 
+DHSD 7-2011(Temp), f. & cert. ef. 10-12-11 thru 11-1-11 
+DHSD 1-2011(Temp), f. & cert. ef. 4-15-11 thru 10-11-11 
+DHSD 10-2010, f. 10-29-10, cert. ef. 10-31-10 
+DHSD 8-2010(Temp), f. & cert. ef. 8-12-10 thru 2-7-11 
+DHSD 10-2009, f. 12-31-09, cert. ef. 1-1-10 
+DHSD 7-2009, f. & cert. ef. 10-1-09 
+DHSD 2-2009, f. & cert. ef. 4-1-09 
+DHSD 10-2008, f. 12-26-08, cert. ef. 1-1-09 
+DHSD 7-2008, f. 8-29-08, cert. ef. 9-1-08 
+DHSD 2-2008(Temp), f. & cert. ef. 3-31-08 thru 9-26-08 
+DHSD 8-2007, f. 8-31-07, cert. ef. 9-1-07, Renumbered from 410-007-0210 
+OMAP 22-2005, f. & cert. ef. 3-29-05 
+OMAP 77-2004(Temp), f. & cert. ef. 10-1-04 thru 3-29-05 
+OMAP 8-2004, f. 2-26-04, cert. ef. 3-1-04 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

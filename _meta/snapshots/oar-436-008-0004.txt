@@ -1,0 +1,169 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Workers' Compensation Division - Chapter 436 
+ 
+ 
+ 
+ 
+ Division 8 ELECTRONIC MEDICAL BILLING 
+ 436-008-0004 
+ Adoption of Standards 
+ 
+ (1) The director adopts, by reference, the following electronic medical bill processing standards:  (a) Professional Billing:  (A) The Accredited Standards Committee X12 (ASC X12) Standards for Electronic Data Interchange (EDI) Type 3 Technical Reports (TR3);  (B) Health Care Claim: Professional (837), May 2006, ASC X12, 005010X222; and  (C) Type 3 Errata to Health Care Claim: Professional (837), June 2010, ASC X12, 005010X222A1.  (b) Institutional/Hospital Billing:  (A) The ASC X12 Standards for EDI TR3;  (B) Health Care Claim: Institutional (837), May 2006, ASC X12, 005010X223;  (C) Type 1 Errata to Health Care Claim: Institutional (837);  (D) ASC X12 Standards for EDI TR3, October 2007, ASC X12, 005010X223A1; and  (E) Type 3 Errata to Health Care Claim: Institutional (837), June 2010, ASC X12, 005010X223A2.  (c) Dental Billing:  (A) The ASC X12 Standards for EDI TR3;  (B) Health Care Claim: Dental (837), May 2006, ASC X12, 005010X224;  (C) Type 1 Errata to Health Care Claim: Dental (837);  (D) ASC X12 Standards for EDI Technical Report Type 3, October 2007, ASC X12, 005010X224A1; and  (E) Type 3 Errata to Health Care Claim: Dental (837), June 2010, ASC X12, 005010X224A2.  (d) Retail Pharmacy Billing:  (A) The Telecommunication Standard Implementation Guide, Version D, Release 0 (Version D.0), August 2007, National Council for Prescription Drug Programs (NCPDP); and  (B) The Batch Standard Batch Implementation Guide, Version 1, Release 2 (Version 1.2), January 2006, NCPDP.  (e) Remittance:  (A) The ASC X12 Standards for EDI TR3, Health Care Claim Payment/Advice (835), April 2006, ASC X12, 005010X221; and  (B) Type 3 Errata to Health Care Claim Payment/Advice (835), June 2010, ASC X12, 005010X221A1.  (2) The director adopts, by reference, the following electronic standards for medical bill acknowledgments:  (a) The ASC X12 Standards for EDI TA1 Interchange Acknowledgment contained in the standards adopted under section (1) of this rule;  (b) The ASC X12 Standards for EDI TR3, Implementation Acknowledgment for Health Care Insurance (999), June 2010, ASC X12, 005010X231A1;  (c) The ASC X12 Standards for EDI TR3, Health Care Claim Acknowledgment (277CA), January 2007, ASC X12, 005010X214; and  (d) Electronic responses to NCPDP transactions, and the response contained in the standards adopted under subsection (1)(d).  (3) The director adopts, by reference, the ASC X12N 275 — Additional Information to Support a Health Claim or Encounter, Version 005010, February 2008, 005010X210, for attachments to medical bills.  (4) The director adopts, by reference, the ASC X12N/2013-57, effective Dec. 2013, Code Value Usage in Health Care Claim Payments and Subsequent Claims Technical Report Type 2.  (5) ASC X12N and the ASC X12 standards for EDI may be purchased from the ASC X12, 7600 Leesburg Pike, Suite 430, Falls Church, VA 22043; telephone 703-970-4480; and fax 703-970-4488. They are also available for purchase through the internet at http://www.X12.org.  (6) Retail pharmacy standards may be purchased from the NCPDP, 9240 East Raintree Drive, Scottsdale, AZ 85260, telephone 480-477-1000; fax 480- 767-1042. They are also available, for purchase, through the Internet at http://www.ncpdp.org.  (7) The director adopts the Oregon Workers’ Compensation Division Electronic Billing and Payment Companion Guide Release 1.0, Jan. 1, 2015. A copy of the guide is available at the following website: http://wed.oregon.gov/insurer/edi/Pages/ebilling.aspx.  (8) Copies of the standards referenced in this rule are available for review during regular business hours at the Workers’ Compensation Division, 350 Winter Street NE, Salem OR 97301, 503-947-7717. 
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 656.252, 656.254 & 656.726(4) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 656.252 & 656.254 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 9-2014, f. 7-14-14, cert. ef. 1-1-15 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

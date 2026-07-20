@@ -1,0 +1,218 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Public Utility Commission 
+ Chapter 860 
+ 
+ 
+ 
+ 
+ 
+ Division 82 SMALL GENERATOR INTERCONNECTION RULES 
+ 860-082-0070 
+ Metering and Monitoring
+ 
+ 
+ (1) The public utility must install, maintain, test, repair, operate, and replace any metering and data acquisition equipment necessary under the terms of the public utility’s interconnection agreement, power purchase agreement, or power service agreement with an applicant or interconnection customer. The applicant or interconnection customer is responsible for all reasonable costs associated with the metering and data acquisition equipment. The public utility and the applicant or interconnection customer must have unrestricted access to such equipment as necessary to conduct routine business or respond to an emergency. 
+
+ (2) Except as provided in subsection 3(b), a public utility may not require an applicant or interconnection customer with a small generator facility with a nameplate rating of less than three megawatts to provide or pay for the data acquisition or telemetry equipment necessary to allow the public utility to remotely monitor the small generator facility’s electric output. 
+
+ (3) At its discretion, a public utility may require an applicant or interconnection customer to pay for the purchase, installation, operation, and maintenance of the data acquisition or telemetry equipment necessary to allow the public utility to remotely monitor the small generator facility’s electric output if: 
+
+ (a) The small generator facility has a nameplate rating greater than or equal to 3 megawatts; or 
+
+ (b) The small generator facility meets the criteria in OAR 860-082-0055(1) for Tier 3 interconnection review and the aggregated nameplate rating on the circuit exceeds 50 percent of the line section annual peak load. 
+
+ (4) A public utility and an applicant or interconnection customer may agree to waive or modify the telemetry requirements in this rule. 
+
+ (5) Telemetry Requirements. 
+
+ (a) The communication must take place via a private network link using a frame relay, fractional T-1 line, or other suitable device. Dedicated remote terminal units from the interconnected small generator facility to a public utility’s substation and energy management system are not required. 
+
+ (b) A single communication circuit from the small generator facility to the public utility is sufficient. 
+
+ (c) Communications protocol must be DNP 3.0 or another reasonable standard used by the public utility. 
+
+ (d) The small generator facility must be capable of sending telemetric monitoring data to the public utility at a minimum rate of every two seconds from the output of the small generator facility’s telemetry equipment to the public utility’s energy management system. 
+
+ (e) A small generator facility must provide the following minimum data to the public utility: 
+
+ (A) Net real power flowing out or into the small generator facility (analog); 
+
+ (B) Net reactive power flowing out or into the small generator facility (analog); 
+
+ (C) Bus bar voltage at the point of common coupling (analog); 
+
+ (D) Data processing gateway heartbeat (used to certify the telemetric signal quality); and 
+
+ (E) On-line or off-line status (digital). 
+
+ (f) If an applicant or interconnection customer operates the equipment associated with the high voltage switchyard interconnecting the small generator facility to the transmission or distribution system and is required to provide monitoring and telemetry, then the interconnection customer must provide the following data to the public utility in addition to the data in section (e): 
+
+ (A) Switchyard line and transformer megawatt and mega volt ampere reactive values; 
+
+ (B) Switchyard bus voltage; and 
+
+ (C) Switching device status. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 183, ORS 756 & ORS 757 
+ 
+ 
+ Statutes/Other Implemented:  ORS 756.040 & ORS 756.060 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 4-2024, amend filed 04/09/2024, effective 04/09/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 10-2009, f. & cert. ef. 8-26-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

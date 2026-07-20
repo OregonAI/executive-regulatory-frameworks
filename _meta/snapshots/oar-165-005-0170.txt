@@ -1,0 +1,493 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Secretary of State 
+ Elections Division - Chapter 165 
+ 
+ 
+ 
+ 
+ Division 5 VOTER REGISTRATION 
+ 165-005-0170 
+ Oregon Motor Voter Program 
+ 
+ (1) Oregon Motor Voter (OMV) Registration During Covered Transactions at the Driver and Motor Vehicle Services Division (DMV) 
+
+ (a) Qualified Individuals Included in OMV Registration at the DMV 
+
+ (A) Must be a United States (U.S.) citizen. 
+
+ (i) Only an individual with a record of providing documentation to the DMV establishing that the individual is a U.S. citizen in compliance with ORS 807.040 and OAR 735-062-0020, and/or with ORS 807.455 and OAR 735-062-0022, will be registered through the OMV process. 
+
+ (ii) To support these efforts, the DMV shall ensure that all employees who conduct covered transactions receive comprehensive training on voter-eligibility criteria, the consequences for non-qualified individuals who are registered, and on the classification of documentation into the following three categories related to citizenship verification: 
+
+ (I) Evidence that conclusively establishes U.S. citizenship. 
+
+ (II) Evidence that conclusively disproves U.S. citizenship. 
+
+ (III) Evidence that is indeterminate with respect to U.S. citizenship status. 
+
+ (iii) The training required in section 1(a)(A)(ii) must include specific guidance regarding identity documents issued by United States Territories, including how such documents inform determinations of citizenship and voter eligibility. 
+
+ (iv) The training required in section 1(a)(A)(ii) shall be mandatory, shall occur prior to independently conducting covered transactions, and shall be logged and documented by the DMV. 
+
+ (v) The training curriculum shall include reference materials supporting the categories identified in section 1(a)(A)(ii), and both the curriculum and reference materials shall be reviewed, evaluated, and formally approved by the DMV for continued use at least once every twelve (12) months. 
+
+ (vi) Upon completing of its annual review, the DMV shall provide the training curriculum and the reference materials supporting the categories identified in section 1(a)(A)(ii) to the Secretary of State (SoS). 
+
+ (vii)The business logic and automated system process used to route records based on the documentation provided by customers, including how each category of evidence affects whether data is included or excluded from OMV process, shall be included in the interagency agreement between the DMV and the SoS. 
+
+ (B) Must be at least 16 years old, pursuant to ORS 247.016; and 
+
+ (C) Must be an Oregon resident. 
+
+ (b) Individuals Excluded from OMV Registration at the DMV 
+
+ (A) Individuals who present documents that conclusively disprove U.S. citizenship. 
+
+ (B) Individuals who present documents identified as indeterminate with respect to U.S. citizenship status. 
+
+ (C) Participants in the Oregon Department of Justice Address Confidentiality Program pursuant to ORS 192.822. 
+
+ (D) Individuals or their family members who have a current safety exemption from the DMV pursuant to ORS 192.368. 
+
+ (E) Law enforcement officials participating in a covered transaction pursuant to OAR 735-062-0290. 
+
+ (F) Public employees or their family members who do not submit a residence address to the DMV pursuant to ORS 802.250. 
+
+ (G) Anyone categorized by the DMV as a “continuous traveler” pursuant to OAR 735-062-0030. 
+
+ (H) Individuals who do not provide their own electronic signature to the DMV. 
+
+ (2) Covered OMV Registration Interactions at the DMV 
+
+ (a) A qualified individual applies for an original driver license, permit, or identification (ID) card pursuant to either ORS 807.040 or ORS 807.455. 
+
+ (b) A qualified individual renews a driver license, permit, or ID card pursuant to either ORS 807.040 or ORS 807.455. 
+
+ (c) A qualified individual applies for a replacement driver license, permit, or ID card pursuant to either ORS 807.040 or ORS 807.455. 
+
+ (3) OMV Registration Process for Qualified Individuals at the DMV 
+
+ (a) During a covered transaction, DMV employees shall provide verbal or written notice (the Voter Registration Notification) to all apparently qualified individuals that their information will be used to register them to vote and that at the conclusion of the transaction, they will receive important voter information, including eligibility requirements, the consequences of registering when not qualified, and instructions on how to opt out through their county elections office. 
+
+ (b) When delivering the Voter Registration Notification, DMV employees shall ensure that each apparently qualified individual receives the notice in that individual’s preferred language. 
+
+ (c) At the conclusion of a covered transaction, DMV employees shall provide apparently qualified individuals with an OMV Explainer document, which shall include the items referenced above. 
+
+ (d) When delivering the OMV Explainer, DMV employees shall ensure that each apparently qualified individual receives the document in that individuals preferred language. 
+
+ (e) The SoS shall review, update, and provide the DMV with an electronic copy of the Voter Registration Notification and OMV Explainer at least once every twelve (12) months, and shall facilitate their translation into each language required under Oregon law, in accordance with ORS 251.167 
+
+ (f) If a covered transaction occurs within 30 days of a standard statewide voter registration deadline, DMV employees shall advise apparently qualified individuals of the pending voter registration deadline and offer them the opportunity to register to vote through the Electronic DMV Voter Registration (EDVR) process in ORS 247.019. 
+
+ (A) Standard statewide voter registration deadlines include those for the May Primary election held in an even-numbered year, the May Special District election held in an odd-numbered year, and the November General election held in an even-numbered year. 
+
+ (B) Not later than August 31 of each year, the SoS will provide the DMV with a document that identifies voter registration EDVR deadlines. 
+
+ (C) The requirement in section 3(f) is effective immediately, and the SoS will immediately provide the DMV with a document that identifies voter registration EDVR deadlines for 2026. 
+
+ (4) Signature Collection During Covered Transactions at the DMV 
+
+ (a) DMV employees collecting customer signatures shall advise individuals that the signature they provide may be used for other official purposes. 
+
+ (b) DMV shall post the following notice on each pin pad used for OMV signature collection: “If you are eligible to vote, please be aware that this signature may be used to verify the signature on your ballot envelope.” 
+
+ (c) Pin pads used for the collection of voter registration signatures must meet or exceed the following standards: 
+
+ (A) Dimensions: 500 x 175 
+
+ (B) Width: 500 pixels 
+
+ (C) Height: 175 pixels 
+
+ (D) Resolution: 96 dpi 
+
+ (d) Within two (2) business days of the SoS requesting a signature file, the DMV shall make available the most recent signature obtained during a covered transaction. 
+
+ (e) The DMV shall collect a new signature from qualified individuals who change their name during a covered transaction. 
+
+ (5) Voter Registration at the DMV for Those Whose Qualifications Are Unknown 
+
+ (a) When an individual presents identifying forms of evidence that are indeterminate with respect to U.S. citizenship status, the DMV employee shall offer the individual the opportunity to register to vote through the EDVR process in ORS 247.019. 
+
+ (b) Consistent with the National Voter Registration Act of 1993, 52 U.S.C. §§ 20501–20511, an individual shall be registered to vote through the EDVR process if they attest under penalty of perjury that they meet all eligibility requirements, including U.S. citizenship, and do not decline to be registered to vote. 
+
+ (6) Voter Registration When Updating an Address Through DMV Programs 
+
+ (a) The DMV shall create and maintain an Address Change Transaction Report that identifies, for each address change transmitted to the SoS, sufficient detail for county election officials to determine the source of the transaction information. 
+
+ (b) The DMV, SoS, and representatives of the Oregon Association of County Clerks’ Executive Board shall jointly review the Address Change Transaction Report at least once every twelve (12) months to ensure a shared understanding of how and where address change data is collected and is being transmitted for voter registration purposes. 
+
+ (c) The DMV shall revise all forms used by the DMV or its affiliates to collect address information that is transmitted to the SoS, with revisions made as part of the DMV’s normal course of business. As revised, each form must include a notice, placed in a manner that reasonably ensures the customer will see it, stating that the address provided may be used for other official purposes, including voter registration. 
+
+ (d) The DMV shall include the transaction source detail, described in this section in the address files transmitted to the SoS. 
+
+ (e) The SoS shall include the transaction source detail when making the data available to county election officials. 
+
+ (7) Transferring Data Between the DMV and the SoS 
+
+ (a) Within three (3) business days of a covered transaction, the DMV shall make available to the SoS, voter registration information for qualified individuals. 
+
+ (b) Electronic records provided by the DMV for OMV are classified as Level 4 Restricted, pursuant to SoS agency policy. 
+
+ (c) The DMV and the SoS shall enter into an Interagency Agreement, which covers: 
+
+ (A) File notifications, including failure notifications. 
+
+ (B) Daily control file policies. 
+
+ (C) Non-OMV data exchanges, including but not limited to: 
+
+ (i) HAVA file. 
+
+ (ii) Online Voter Registration Data. 
+
+ (iii) Electronic DMV Voter Registration (EDVR). 
+
+ (iv) Change of address. 
+
+ (d) The OMV data file prepared by the DMV shall include: 
+
+ (A) Full name. 
+
+ (B) Date of birth. 
+
+ (C) Residence address. 
+
+ (D) Mailing address (if any). 
+
+ (E) Date of the DMV covered transaction. 
+
+ (F) Legal presence indicator. 
+
+ (e) The DMV and SoS shall ensure that any information regarding citizenship and immigration status contained in OMV files remains confidential in compliance with ORS 180.805 to ORS 180.810 and any applicable policies. 
+
+ (8) SoS OMV File Processing 
+
+ (a) Upon receipt of OMV data files from the DMV, the SoS shall compare the qualified individuals listed in the DMV files to individuals who have registration records in Oregon’s centralized voter registration system (OCVR). 
+
+ (b) Qualified individuals who previously opted out of OMV are included in the matching process. 
+
+ (c) If a qualified individual who previously opted out has a voter registration record, their OMV data will be processed. 
+
+ (d) If a qualified individual who previously opted out does not have a voter registration record, they will be excluded from the OMV process. 
+
+ (e) Current records in the OCVR system marked as confidential will be included in the OMV matching process. 
+
+ (f) At the conclusion of the matching process, and immediately after receipt of the electronic signature, the SoS shall make OMV data available to county election officials, pursuant to ORS 247.017. 
+
+ (9) OMV Notification 
+
+ (a) The SoS shall notify each new OMV participant of the process to: 
+
+ (A) Decline being registered as an elector; and 
+
+ (B) Adopt a political party. 
+
+ (b) The SoS shall provide a print vendor with a file to generate the OMV notification no later than three (3) business days after receipt of the file from the DMV. 
+
+ (c) The 21-day notification period begins the day after the print vendor receives the data from the SoS, pursuant to ORS 247.017. 
+
+ (d) The notification shall be sent by forwardable mail, with a postage-paid, pre-addressed return envelope. 
+
+ (e) The SoS shall facilitate the delivery of returned notices to county election officials. 
+
+ (f) An OMV notification returned undeliverable will be processed as a declination. 
+
+ (g) In addition to the requirements in OAR 165-005-0170(9)(a), the OMV notification shall include: 
+
+ (A) Registration qualifications. 
+
+ (B) Penalties for registering when not qualified. 
+
+ (C) Alternative options to register to vote. 
+
+ (D) An opportunity to register to vote within the 21-day period. 
+
+ (E) A space for the OMV participant’s contact information. 
+
+ (10) County OMV File Processing 
+
+ (a) Upon receipt of OMV file data from the SoS, county election officials shall create a “Pending” OMV voter registration record for each record in the file. 
+
+ (b) All records in OMV Pending status are exempt from public disclosure under ORS 247.940 or ORS 247.945, as OMV individuals are not considered added to the registration list until at least 21 calendar days after the OMV notification is provided pursuant to ORS 247.017(4). 
+
+ (c) If an OMV elector returns a voter registration form within the 21-day notification period, the county shall process it following the standard voter registration application process. 
+
+ (d) County election officials shall process returned OMV declinations as follows: 
+
+ (A) Declination on or before the 21st day: 
+
+ (i) Change status from Pending to Not Registered. 
+
+ (ii) Records in a Not Registered status are exempt from public disclosure under ORS 247.940 or ORS 247.945. 
+
+ (B) Declination on or after the 22nd day: change status to Cancelled. 
+
+ (C) If the County receives an incomplete or ambiguous OMV declination, the County shall contact the voter, by the voter’s preferred contact method if provided, to obtain clarifying information. 
+
+ (e) Upon the OMV maturation deadline, OMV electors shall be added to the registration list. 
+
+ (f) The SoS shall provide OMV processing instructions to county election officials. 
+
+ (11) OMV List Maintenance, Audits, and Escalation Methods 
+
+ (a) The DMV and SoS shall enter into an Interagency Agreement, which covers items referenced elsewhere in this rule and: 
+
+ (A) SoS-initiated monthly audit, including a random sampling of OMV records. 
+
+ (B) Defined escalation path for discrepancies with nightly file counts. 
+
+ (C) Defined escalation path for SoS to notify DMV of errors with OMV records. 
+
+ (D) Defined escalation path for DMV to notify SoS of errors with OMV records. 
+
+ (E) SoS-initiated list maintenance procedures. 
+
+ (b) The DMV and SoS shall ensure that any information regarding citizenship and immigration status contained in OMV files remains confidential in compliance with ORS 180.805 to ORS 180.810 and any applicable policies. 
+
+ (12) Effective Dates 
+
+ (a) Except as otherwise provided in section 3(f), the provisions of this OAR 165-005-0170 shall become effective on January 1, 2027. 
+
+ (b) Section 3(f) shall immediately supersede any contrary provisions of the Oregon Motor Voter Registration Manual. 
+
+ (c) On January 1, 2027, the provisions of this OAR 165-005-0170 shall supersede the Oregon Motor Voter Registration Manual in full. 
+
+   
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 246.150 & ORS 247.017 
+ 
+ 
+ Statutes/Other Implemented:  ORS 247.012, ORS 247.002, ORS 247.016, ORS 247.171, ORS 247.292, ORS 247.302, ORS 247.208, ORS 247.125, OAR 165-007-0030 & OAR 165-005-0055 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ELECT 2-2026, amend filed 02/02/2026, effective 02/02/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ELECT 10-2023, amend filed 07/21/2023, effective 07/22/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ELECT 7-2019, temporary suspends temporary ELECT 4-2019, filed 10/10/2019, effective 10/10/2019 through 02/08/2020 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ELECT 4-2019, temporary amend filed 08/13/2019, effective 08/13/2019 through 02/08/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ELECT 6-2017, amend filed 09/25/2017, effective 09/25/2017 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ELECT 1-2016, f. & cert. ef. 5-13-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ELECT 9-2015, f. 12-18-15, cert. ef. 1-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

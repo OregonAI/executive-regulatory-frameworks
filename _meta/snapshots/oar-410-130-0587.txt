@@ -1,0 +1,221 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 130 MEDICAL-SURGICAL SERVICES 
+ 410-130-0587 
+ Family Planning Clinic Services 
+ 
+ (1) This rule pertains only to Family Planning Clinics.  (2) To enroll with the Division of Medical Assistance Programs (Division) as a family planning clinic, a provider must also be enrolled with the Office of Family Health as an Oregon Contraceptive Care (CCare) provider.  (3) Family planning clinics must follow all applicable CCare and the Division rules.  (4) The Division will reimburse family planning clinics an encounter rate only when the primary purpose of the visit is for family planning.  (5) Bill HCPCS code T1015 “Clinic visit/encounter, all-inclusive; family planning” for all encounters where the primary purpose of the visit is contraceptive in nature:  (a) This encounter code includes the visit and any procedure or service performed during that visit including:  (A) Annual family planning exams;  (B) Family planning counseling;  (C) Insertions and removals of implants and IUDs;  (D) Diaphragm fittings;  (E) Dispensing of contraceptive supplies and contraceptive medications;  (F) Contraceptive injections.  (b) Do not bill procedures, such as IUD insertions, diaphragm fittings or injections, with CPT or HCPCS codes;  (c) Bill only one encounter per date of service;  (d) Reimbursement for educational materials is included in T1015. Educational materials are not billable separately.  (6) Reimbursement for T1015 does not include payment for family planning (FP) supplies and medications:  (a) Bill contraceptive supplies and contraceptive medications separately using HCPCS codes. Where there are no specific HCPCS codes, use an appropriate unspecified HCPCS code:  (A) Bill spermicide code A4269 per tube;  (B) Bill contraceptive pills code S4993 per monthly packet;  (C) Bill emergency contraception with code S4993 and bill per packet.  (b) Bill all contraceptive supplies and contraceptive medications at acquisition cost;  (c) Add modifier -FP after all codes for contraceptive services, supplies and medications;  (d) Non-contraceptive medications are not billable under this program.  (7) Reimbursement for T1015 does not include payment for laboratory tests:  (a) Clinics and providers who perform lab tests in their clinics and are CLIA certified to perform those tests may bill CPT and HCPCS lab codes in addition to T1015;  (b) Add modifier -FP after lab codes to indicate that the lab was performed during an FP encounter;  (c) Labs sent to outside laboratories, such as PAP smears, can be billed only by the performing laboratory.  (8) Encounters where the primary purpose of the visit is not contraceptive in nature, use appropriate CPT codes and do not add modifier -FP.  (9) When billing providers who are not participants in a Prepaid Health Plan (PHP) for services provided to clients enrolled in a PHP, add modifier -FP to the billed code.  [ED. NOTE: Forms referenced are available from the agency.] 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.025, 414.065 & 414.152 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 34-2010, f. 12-15-10, cert. ef. 1-1-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 26-2006, f. 6-14-06, cert. ef. 7-1-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 45-2005, f. 9-9-05, cert. ef. 10-1-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 8-2005, f. 3-9-05, cert. ef. 4-1-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 13-2004, f. 3-11-04, cert. ef. 4-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 78-2003, f. & cert. ef. 10-1-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

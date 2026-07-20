@@ -1,0 +1,312 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Transportation 
+ Delivery and Operations Division - Chapter 734 
+ 
+ 
+ 
+ 
+ Division 20 TRAFFIC CONTROL 
+ 734-020-0014 
+ Speed Zone Definitions
+ 
+ 
+ The following definitions apply to OAR 734-020-0013 through 734-020-0018. 
+
+ (1) “Average crash rate” means the average of the crash rates for a group of similar highway segments within the same functional class and the same geographical area (either countywide or statewide). 
+
+ (2) “Average daily traffic” means the total number of vehicles to operate over a designated segment of highway during a given time period greater than one day and less than one year, divided by the number of whole days in that time period. 
+
+ (3) “Business district” has the meaning defined in ORS 801.170. 
+
+ (4) “City limits” means the limits of an incorporated city. 
+
+ (5) “Computed eighty-fifth percentile speed” means the eighty-fifth percentile speed minus the difference between the crash rate and the average crash rate (if the crash rate is above the average crash rate for the same functional classification highways within the road authority’s jurisdiction), with maximum possible deduction of 5mph. If there is no average crash rate available for the highway, then the computed eighty-fifth percentile speed is the eighty-fifth percentile speed. 
+
+ (6) “Context” means the roadway characteristics and land uses accessible by parking or driveway along the highway segment, determined based on the existing land use types, building density, set back of buildings and numbers and types of users of the transportation system accessible along the roadway segment. In descending order of density, the four urban contexts are: 
+
+ (a) “Urban Core,” which generally includes downtown areas with the highest development densities and building heights in the urban area, minimal setbacks (building in back of sidewalk), parking on the street within a well-connected roadway system and typically smaller consistent block sizes. 
+
+ (b) “Urban Mix,” which generally includes mixed -use (commercial, retail, restaurant, office and residential) high density areas on small lots with buildings typically adjacent to the sidewalk and parking on the streets, where buildings are typically not as tall as urban core and may have parking in front or behind the buildings within a well-connected roadway system and typically small to medium block sizes. 
+
+ (c) “Suburban Commercial or Residential,” which generally includes areas of land uses that have residential, offices, restaurants or retail spaces with setbacks from the roadway usually meant to be more accessible by car and may include large parking lots, or which may be characterized by big box stores, commercial strip centers, auto dealers, office parks or gas stations, or which may be large residential neighborhoods along the corridor or that have their access from widely spaced roadway connections with few driveways to the roadway 
+
+ (d) “Suburban Fringe,” which generally includes transition areas between urban and rural areas where there may be few homes and structures, sparsely developed land, lower density of businesses and fewer driveways, intermittent commercial or industrial uses and typically have fewer street connections and larger lot sizes. 
+
+ (7) “Crash rate” means the number of crashes per million vehicle-miles (MVM) traveled on a segment of road. 
+
+ (8) “Department” means the Oregon Department of Transportation. 
+
+ (9) “Designated speed” means the speed that is designated under ORS 810.180 as the maximum permissible speed for a highway. The designated speed is established through a speed zone order or rule. Designated speeds shall be in multiples of 5 mph. The designated speed supersedes the statutory speed that would be in effect if no designated speed was established except for school speed zones. 
+
+ (10) “Eighty-fifth percentile speed” means the speed at or below which 85 percent of the motorists drive on a segment of road for which speeds were measured. 
+
+ (11) “Engineering study” means a written engineering and traffic investigation with an analysis and evaluation of pertinent information, for the purpose of deciding upon a designated speed that is reasonable and safe under the conditions found to exist. An engineering study shall be performed by an engineer, or by an individual working under the supervision of an engineer, through the application of procedures and criteria established by the applicable OAR 734-020-0013 through 734-020-0018 . 
+
+ (12) “Fiftieth percentile speed” means the speed at or below which 50 percent of the motorists drive on a segment of road for which speeds were measured. 
+
+ (13)“Free flowing” means the circumstances under which drivers tend to drive at their chosen speed unrestricted by conditions such as congestion, inclement weather, road work, law enforcement activity or traffic control such as traffic signals, stop or yield signs or by road geometry such as infrequent curves or hills. 
+
+ (14) “Functional class” means a type or class of highway as defined by the Federal Highway Administration (FHWA) in 23 CFR 470.105 and the FHWA Functional Classification Guidelines. The Functional Class of all highways in Oregon are shown on maps maintained by the Department. The five types of functional class used in these rules are: 
+
+ (a) “Arterial” which includes “Other Principal Arterials” and “Minor Arterials” 
+
+ (b) “Collector” which includes “Major Collectors” and “Minor Collector” 
+
+ (c) “Interstate” 
+
+ (d) “Local” 
+
+ (e) “Other Freeways and Expressways” 
+
+ (15) “Highway” means every public way, road, street, thoroughfare and place as described in ORS 801.305. 
+
+ (16) “Interested jurisdiction” means any governing agencies, other than the Road Authority, which may have interest in the speed on a highway by virtue of being within the city limits, or having responsibility for maintaining the highway. 
+
+ (17) “Low volume road” means any road, street or thoroughfare which has an average daily traffic of less than 400 vehicles, and is open to travel by the public. State highways are not considered low volume roads, regardless of average daily traffic. 
+
+ (18) “Minor adjustment study” means the engineering study of pertinent elements, as determined by the engineer, to assess the proper location and engineering application of a 500 foot speed zone extension or reduction or to add a transition speed zone to an adjacent designated or statutory speed zone. 
+
+ (19) “Mph” means miles per hour. 
+
+ (20) “Order” means the official document prepared and issued by the Department or the Road Authority as per ORS 810.180 that delineates the highway segment(s) and designates the speed in a speed zone or speed zones established. This is commonly known as a speed zone order. 
+
+ (21) “Pace limits” means the ten mph range containing the largest number of sample vehicles observed in a spot speed check. 
+
+ (22) “Paved road” means a regularly maintained solidified hard surfaced road typically solid bituminous (asphalt concrete), oil mat or Portland cement concrete. 
+
+ (23) “Recommended speed” is the speed (in a multiple of 5 miles per hour) that has been determined from an engineering study. 
+
+ (24) “Rescission” means a cancellation or repeal of a previously valid order. 
+
+ (25) “Residence district” has the meaning defined in ORS 801.430. 
+
+ (26) “Road authority” means the governing agency which has the jurisdiction to place, maintain and operate traffic control devices as defined in ORS 810.010. 
+
+ (27) “Roadway character” means the characteristics of the roadway such as road and shoulder width, number of lanes, alignment, parking, curbs and sidewalks, and other physical characteristics of the roadway. 
+
+ (28) “Rural community” means an area outside city limits with a concentration of land uses such as residential, businesses, industrial or other public uses. The segment is: 
+
+ (a) Contiguous to a business district or residence district; or 
+
+ (b) An unincorporated community that includes a permanent residential dwelling but also has at least two other land uses in separate buildings that provide commercial, industrial or public services for the community, surrounding area or persons traveling through the area. 
+
+ (29) “School zone exception” means a specific segment of highway where a statutory school speed limit (20 mph) is posted as specified in ORS 811.111. 
+
+ (30) “Speed zone” means a specific segment of highway where a designated speed is posted under ORS 810.180. 
+
+ (31) “Speed Zone Review Panel” means the hearings panel created in OAR 734-020-0015. 
+
+ (32) “State Traffic-Roadway Engineer” means the position so designated by the Chief Engineer. 
+
+ (33) “Statutory speed” means the speed that is established in statute, under ORS 811.111 or 811.105. 
+
+ (34) “Transition speed zone” means a speed zone(s) established to make the change in legal speeds less abrupt for drivers. As an example, instead of going directly from a 55 mph segment to a 25 mph segment, it may be desirable to establish one or more transition speed zones in between, such as 45 mph and 35 mph. 
+
+ (35) “Unpaved road” means a road which has a surface that does not meet the definition of a paved road. The road surface may be dirt, rock, gravel, or other non-solidified material and may have a dust palliative applied. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 184.619, 810.010 & 810.180 
+ 
+ 
+ Statutes/Other Implemented:  ORS 810.180 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ HWD 1-2022, amend filed 03/10/2022, effective 03/10/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ HWD 3-2020, amend filed 04/03/2020, effective 05/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ HWD 2-2017, amend filed 09/26/2017, effective 09/26/2017 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HWD 3-2011, f. & cert. ef. 5-27-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HWD 3-2007, f. & cert. ef. 6-25-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

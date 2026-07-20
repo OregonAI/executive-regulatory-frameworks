@@ -1,0 +1,209 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Public Employees Retirement System 
+ Chapter 459 
+ 
+ 
+ 
+ 
+ 
+ Division 7 EARNINGS AND INTEREST DISTRIBUTION 
+ 459-007-0025 
+ Crediting Earnings to a Member Lump Sum Payment 
+ 
+ (1) Definition.  (a) “Member lump sum payment” means any payment received by PERS that:  (A) Is not regularly scheduled;  (B) Is not paid as a statutorily fixed percentage of salary; and  (C) Is paid voluntarily by the member or payer.  (b) Member lump sum payments include, but are not limited to:  (A) Retirement credit purchases.  (B) Voluntary redeposits, as provided under ORS 238.105.  (C) Account balances transferred to PERS pursuant to an integration under ORS 238.680.  (2) No earnings may be credited to a member lump sum payment that:  (a) Is paid within 90 days before of after the member’s effective retirement date; or  (b) May be paid only within 90 days before or after the member’s effective retirement date.  (3) Earnings from the date of payment to December 31 of the calendar year of the date of payment or the member’s effective retirement date, whichever occurs first, must be credited to the member’s lump sum payment based on the rate derived from the formula:  (Y - X)(R/T) + (Z - Y), where:  R = The number of days from the date of payment through the last day of the month the payment is received;  T = The total number of days in the month the payment is received;  X = The year-to-date calculation applicable to the member’s regular account as of the first of the month of the date of payment;  Y = The year-to-date calculation as of the first of the month following the date of payment; and  Z = The year-to-date calculation as of the member’s effective retirement date if such date occurs during the calendar year the payment is received, or, in all other cases, the annual rate applicable to the member’s regular account as of December 31 of the year the payment is received.   Example: A member lump sum payment is received by PERS on May 12, 2002, from a Tier One member whose effective retirement date is August 1, 2003. The Tier One regular account year-to-date calculation as of May 1, 2002, is 1.0263, the Tier One year-to-date calculation as of June 1, 2002, is 1.0330, and the Tier One regular account annual rate for 2002 is 1.0800. Therefore, R = 20, T = 31, X = 1.0263, Y = 1.0330, Z = 1.0800 and the earnings crediting rate is:  (1.0330 - 1.0263)(20/31) + (1.0800 – 1.0330)  = (0.0067)(0.6452) + .0470  = 0.0043 + .0470  = 0.0513  (4) If the member’s effective retirement date does not occur in the same calendar year as the date of payment, and the payment is not subject to the provisions of section (2) of this rule, the member lump sum payment must be made a part of the member’s regular account as of January 1 of the year following the date of payment. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 238.650 
+ 
+ 
+ Statutes/Other Implemented:  ORS 238 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ PERS 3-2009, f. & cert. ef. 4-6-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PERS 1-2007, f. & cert. ef. 1-23-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PERS 13-2003, f. & cert. ef. 11-14-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PERS 4-2003(Temp), f. 6-13-03, cert. ef. 7-1-03 thru 12-26-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PERS 9-2000, f. 12-15-00 cert. ef. 1-1-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

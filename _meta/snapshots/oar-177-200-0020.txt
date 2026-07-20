@@ -1,0 +1,482 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon State Lottery 
+ Chapter 177 
+ 
+ 
+ 
+ 
+ 
+ Division 200 GENERAL VIDEO LOTTERYSM GAME RULES 
+ 177-200-0020 
+ Payment of Video Lottery Game Cash Slips
+ 
+ 
+ (1) Original Cash Slip: Except as set forth in sections (7) and (8) of this rule, an original cash slip is the only valid receipt for claiming prizes or for redeeming credits remaining on a terminal. A copy of a cash slip has no pecuniary or prize value and does not constitute evidence of a cash slip. 
+
+ (2) Retailer Validation Requirements: A retailer shall pay a cash slip only if: 
+
+ (a) The cash slip is presented for payment at the retailer location that issued the cash slip. 
+
+ (b) The player to whom the cash slip is payable is 21 years of age or older and authorized to play under these rules and Oregon statutes. 
+
+ (c) The cash slip is presented to the retailer within 28 days of the date it was properly issued. 
+
+ (d) It is intact and legible and meets all the Lottery’s security requirements. 
+
+ (e) It is not counterfeit, fraudulent, lacking the correct captions, altered, tampered with in any manner, or obtained from the Lottery or Lottery retailer by any fraudulent means. 
+
+ (f) The information appearing on the cash slip corresponds with the computer record of the cash slip data recorded in the Lottery’s central computer system. 
+
+ (g) It has not been previously paid. 
+
+ (h) It is not a prize that must be validated and paid by the Lottery, such as a Jackpot Prize. 
+
+ (3) Retailer Validation Exception: If a cash slip is not intact or legible, the prize or credits that would have otherwise appeared on the cash slip may nevertheless be paid by the retailer as follows: 
+
+ (a) Software Validation: Upon notification by a player that a Video Lottery game terminal issued a cash slip that is not intact or legible, the retailer shall obtain a validation number from the terminal. If the retailer is able to obtain a validation number from the terminal that corresponds to the time and amount of the credits claimed by the player, then the retailer shall validate the prize or credits that would otherwise have appeared on the cash slip through the validation terminal and pay the player. 
+
+ (A) Software Validation Report: If the retailer pays the player pursuant to section (3)(a) of this rule, the retailer must complete a Retailer Software Validation Report signed by the player and the retailer. The retailer must retain the report for one month. The retailer must make them available for audit by the Lottery immediately upon request. The retailer must retain and attach the damaged or illegible cash slips to the reports. 
+
+ (B) Validation Number Unavailable: If the retailer is unable to obtain a validation number from the terminal that corresponds to the time and amount of the credits claimed by the player as required by subsection (3)(a), the player may request payment of the cash slip from the Lottery as provided in section (8) of this rule. 
+
+ (b) Jackpot Prize Cash Slip Not Issued, Intact, or Legible: If a cash slip for a Jackpot Prize is not intact or legible, the player and the retailer must complete a Video Problem Report form, attach the cash slip or all available portions of the cash slip to the form if available, and must submit the form and the cash slip to the Lottery for investigation. The Jackpot Prize may be paid as set forth in section (7) and (8) of this rule. 
+
+ (4) Limitation on Retailer Validation and Payment of Cash Slip: A retailer must not attempt to validate, and may not pay, a cash slip for any Jackpot Prize. A retailer shall only validate and pay non-Jackpot Prize cash slips issued by Video Lottery game terminals located on its premises. 
+
+ (5) Retailer Payment of Cash Slip: Upon validation of a cash slip as set forth in sections (2) and (3) of this rule, a retailer may pay the amount due. A retailer must not pay a cash slip in tokens, chips, or merchandise, or charge a fee for paying a cash slip or for issuing payment. 
+
+ (a) Dishonored Retailer Check: If a retailer’s check is dishonored, the player may seek payment from the Lottery by presenting a copy of the dishonored check using the methods provided in OAR 177-046-0110(2). 
+
+ (b) Possible Contract Termination: A retailer that pays a cash slip with a check that is dishonored may be subject to termination of the Lottery Retailer Contract. 
+
+ (6) Lottery Validation and Payment of Cash Slips: 
+
+ (a) Submitting a Claim: The owner of a winning cash slip may submit the cash slip to the Lottery in accordance with the methods described in OAR 177-046-0110(3) for winning tickets or shares. A cash slip may be claimed jointly as described in OAR 177-046-0110(5). The claimant of a prize bears all risk associated with the choice of method to submit a claim, the timeliness of the claim submission and, in the case of submission by mail, delivery service, private express carrier, or secure drop box, failure of the claim to be received by the Lottery. 
+
+ (b) Timing and Deadline for Submitting a Claim: The cash slip must be received by the Lottery within one year from the date the cash slip was issued. 
+
+ (c) Validation and Payment: A cash slip must meet all of the requirements of this rule and the validation requirements in OAR 177-046-0090 before Lottery will pay the prize claimed. Upon validation of a cash slip, the Lottery will pay the amount due. A retailer may pay a cash slip of $1250 or less. Lottery will pay prizes for cash slips as set forth in OAR 177-046-0110 for tickets and shares. The general provisions in OAR 177-046-0110(1) and (4) for tickets and shares apply to cash slips. 
+
+ (7) Lack of Cash Slip or Validation Number: If a player does not have a cash slip, or a retailer was unable to obtain a validation number, the Lottery will conduct an investigation of a claim presented for payment to the Lottery. The investigation will determine the reasons or causes for the failure of the terminal to produce a cash slip or to print an intact and legible cash slip, and why the retailer was unable to obtain a validation number. 
+
+ (a) Payment: The Lottery may pay the claim if the Lottery can determine from its investigation that the credit was on the terminal identified by the player at the time claimed, and that no cash slip has been paid on the claim. 
+
+ (b) Signed Statement: The Lottery will not pay any such claim without a signed statement by a player. The player’s statement must contain game play information that can be compared to data in the Lottery’s central computer system that substantiates that the player won a prize in the amount and at the time claimed, and information from which the Lottery reasonably can determine that the claim has not been paid. 
+
+ (c) Jackpot Prize: The Lottery will not pay the claim for a Jackpot Prize without receipt of a Video Problem Report form as described in section (3)(b) of this rule. 
+
+ (8) Lottery Validation Exceptions: If a cash slip cannot be validated because the cash slip data is not recorded on the Lottery’s central computer system, the Director may still authorize payment if: 
+
+ (a) The Lottery conducts an investigation of the claim, and 
+
+ (b) The Director concludes that the claimant was an authorized player and that the absence of a record of the cash slip data in the Lottery’s central computer system was the result of either a technical problem in the Video Lottery game terminal or a communications problem that prevented the recording of the credits in the Lottery’s central computer system. 
+
+ (9) Subsequent Claims: If a cash slip improperly paid by a retailer is later submitted for payment to the Lottery, the Lottery may collect the amount of the cash slip from the retailer’s EFT account. The Lottery may conduct an investigation to determine if the Lottery properly paid the claim. 
+
+ (10) Withholding of Payment: The Lottery may withhold payment of any cash slip claim presented to it until the expiration of the 28-day prize claim period at the retailer’s location for prizes payable by the retailer or until the completion of any investigation by the Lottery to determine if payment is proper. 
+
+ (11) Power of Attorney: The owner of a cash slip may designate in a written power of attorney an agent to act on the owner’s behalf to redeem a cash slip in accordance with the provisions of OAR 177-046-0110(7) for tickets and shares, except that the form of power of attorney to redeem a cash slip must at a minimum: (i) be in written form, (ii) specify the name, address and telephone number of the owner of the ticket or share; (iii) be dated with a date that is later than the date of the cash slip, (iv) specifically identify the cash slip being redeemed, (v) specify the name, address and telephone number of the agent who is authorized to claim the prize for the owner; and (vi) clearly state that the agent may complete a claim form and sign the cash slip, claim form or other documents required to redeem the cash slip in the name of the owner and receive payment of the prize for the owner. The Director, in his or her discretion, may also accept a general power of attorney form for a disabled or incompetent player if the Director determines that the general power of attorney is valid under Oregon law and that payment to the agent of a Lottery prize is within the authority conferred upon the agent under the general power of attorney. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  Or Const, Art XV, § 4(4)(a), ORS 461.120, 461.210, 461.215, 461.220, 461.230, 461.240, 461.250, 461.715, 461.719 & Or Laws 2025, ch. 46 
+ 
+ 
+ Statutes/Other Implemented:  Or Const, Art XV, § 4(4), ORS 316.127, 316.194, 461.560, ORS 461.120, 461.210, 461.215, 461.220, 461.230, 461.240, 461.250, 461.715, 461.719 & Or Laws 2025, ch. 46 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LOTT 5-2025, amend filed 09/26/2025, effective 09/27/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LOTT 1-2024, amend filed 12/20/2024, effective 03/01/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LOTT 1-2021, amend filed 02/26/2021, effective 03/01/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LOTT 2-2018, amend filed 03/29/2018, effective 04/02/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LOTT 5-2017, temporary amend filed 10/09/2017, effective 10/09/2017 through 04/03/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ LOTT 3-2015, f. 9-25-15, cert. ef. 10-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ LOTT 8-2011, f. 11-21-11, cert. ef. 12-1-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ LOTT 6-2011(Temp), f. 9-15-11, cert. ef. 9-18-11 thru 3-5-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ LOTT 9-2010, f. 8-30-10, cert. ef. 9-5-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ LOTT 4-2010(Temp), f. 3-10-10, cert. ef. 3-15-10 thru 9-4-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ LOTT 2-2010, f. 1-29-10, cert. ef. 2-1-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ LOTT 18-2005, f. 12-21-05, cert. ef. 12-31-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ LOTT 10-2005(Temp), f. & cert. ef. 11-2-05 thru 4-28-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ LOTT 15-2003, f. & cert. ef. 9-29-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ LOTT 7-2003(Temp), f. & cert. ef. 6-5-03 thru 11-28-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ LC 4-1997, f. & cert. ef. 4-25-97 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ LC 6-1996, f. 5-30-96, cert. ef. 6-1-96 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ LC 1-1995, f. 1-25-95, cert. ef. 3-1-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ LC 9-1994, f. 8-19-94, cert. ef. 9-1-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ LC 9-1993, f. 11-18-93, cert. ef. 12-1-93 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ LC 8-1991, f. & cert. ef. 11-25-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

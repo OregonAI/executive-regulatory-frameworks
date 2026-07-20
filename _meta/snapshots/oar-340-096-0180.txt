@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 96 SOLID WASTE: PERMITS SPECIAL RULES FOR SELECTED SOLID WASTE DISPOSAL SITES, WASTE TIRE STORAGE SITES AND WASTE TIRE CARRIERS 
+ 340-096-0180 
+ Special Rules Relating to Conversion Technology: Operations Plan Approval 
+ 
+ (1) Conversion technology facilities subject to this rule must prepare a conversion technology facility Operations Plan for review and approval by the department that describes how the conversion technology facility will be designed and operated to meet the performance standards in OAR 340-096-0170. The Operations Plan Approval fee required by OAR 340-097-0120(4) must be submitted to the department with the proposed plan.  (2) Except as provided in OAR 340-096-0160(9), a conversion technology facility subject to this rule may not begin or continue operation until the department approves the facility Operations Plan. All conversion technology facilities subject to this rule must operate in compliance with the Operations Plan approved by the department. Any significant changes in the Operations Plan must be approved by the department.  (3) If the department determines that an approved Operations Plan is incomplete, inadequate, or otherwise fails to provide the necessary information and assurances that the conversion technology facility will comply with the performance standards of OAR 340-096-0170 or with section (5) of this rule, the department may require the conversion technology facility to revise the Operations Plan.  (4) All Operations Plans subject to this rule must address each element of this section.  (a) Feedstocks and products. The Operations Plan must describe the types and volumes of feedstocks the facility will accept, the manner in which feedstocks will be accepted and stored, the conversion technology process to be used to produce products, the manner in which products will be stored, the proposed uses of products, any wastes that will be produced, how those wastes are, or will be, characterized according to hazardous waste rules and the manner in which those wastes will be disposed.  (b) Protection of surface water. The Operations Plan must describe how the facility will be designed and operated to comply with OAR 340-096-0170(1) and (2) by describing the operational procedures and any structures the facility will use to manage any process water, leachate or stormwater generated at the facility. Any facility that manages process water, leachate or stormwater in an engineered structure must submit detailed plans and specifications for any such structures and comply with the same leachate and stormwater collection requirements that apply to compost facilities under OAR 340-096-0130.  (c) Protection of groundwater. The Operations Plan must describe how the facility will be designed and operated to comply with OAR 340-096-0170(3). Any facility that manages process water, leachate or stormwater through infiltration into soil must comply with the same groundwater protection requirements that apply to compost facilities under OAR 340-096-0120.  (d) Odor control. The Operations Plan must describe the methods and procedures the facility will use to comply with OAR 340-096-0170(4).  (e) Vector attraction. The Operations Plan must describe methods the facility will use to comply with OAR 340-096-0170(5) to minimize the attraction of vectors such as rats, birds and flies.  (f) Closure. The Operations Plan must include a Closure Plan that addresses:  (A) Removal of equipment and materials used to operate and maintain the facility;  (B) Disposal of unused feedstocks, partially processed residues, finished products that cannot be marketed or used for beneficial purposes and wastes; and  (C) Abandonment of the facility, including ponds and lagoons, buildings, emission controls, waste treatment or other pollution control facilities and removal of residues, including a preliminary evaluation of potential impacts to soil and groundwater.  (g) Post Closure. When required by the department, the Operations Plan must include a Post-Closure Plan to address potential or actual contamination to groundwater and surface water or impacts to soil or any corrective action needed to address environmental issues after the facility is closed.  (h) Recordkeeping. The Operations Plan must describe the methods the facility will use for keeping records of:  (A) Weight and volumes of incoming feedstocks;  (B) Testing, if any, of feedstocks received at the facility and materials and wastes produced by the facility;  (C) Complaints and actions taken to address complaints;  (D) Spill response;  (E) Any upsets or violations of the Operations Plan or any department rules;  (F) The quantities of materials and wastes produced by the facilities, and the disposition of those materials and wastes; and  (G) Staff training records related to facility operations.  (i) Screening and Training requirements. If the proper operation of the facility requires the identification and removal of materials that could threaten human health or the environment, or that could interfere with the conversion technology process or increase the toxicity of materials produced by the facility, then the Operations Plan must specify the methods that will be used to exclude potentially harmful material from entering and being processed by the conversion technology, and must also specify the training that will be provided so that facility staff can properly identify and remove prohibited or potentially damaging materials.  (5) As part of the Operations Plan approval process, the department will review with the conversion technology facility the matters listed in this section. The department may require, either in its initial Operations Plan review or under section (3) of this rule, that an Operations Plan include any of the additional matters listed below if the department determines that such measures are necessary for the facility to meet the performance standards requirements of OAR 340-096-0170, to comply with any other laws or regulations, or to correct other unacceptable conditions at a facility.  (a) Process controls.  (A) Describe how the facility will monitor and record processing parameters including but not limited to temperature, contamination levels, storage and retention time for products, and product quality.  (B) Include a mass balance calculation showing all feedstocks and all products produced. The mass balance calculation must be detailed and use a standard unit of measurement throughout.  (C) Include any other information the department may deem necessary to determine whether the proposed facility and the operation thereof will comply with performance standards and all applicable rules of the department.  (b) Removal of finished products.  (A) Provide for removal of finished products from the facility as frequently as possible, but not later than six months after processing has begun, unless the facility demonstrates a need to store finished product for a longer period of time and the department approves the longer period of time; and  (B) Describe how the facility will manage and dispose of products that due to concentrations of contaminants cannot be marketed or used for beneficial purposes.  (c) Processing and management of feedstocks. Provide a feedstock management plan that includes a feedstock acceptance process to prevent acceptance of unauthorized, contaminated, incompatible or otherwise unusable feedstocks and a schedule for processing of feedstocks to prevent accumulation of unprocessed material.  (d) Storage of feedstocks.  (A) Identify designated areas where all feedstocks deposited at the site will be confined;  (B) Provide that accumulation of feedstocks does not create odor or vector problems, or create other nuisance conditions;  (C) Provide that undisposed residues are kept to minimum practical quantities; and  (D) Provide for facilities and procedures for handling, recycling or disposing of feedstocks that are unauthorized, contaminated, not compatible with the conversion technology process or otherwise unusable.  (e) Salvage. Describe procedures for recovery of materials such as metal, paper and glass so that recovery does not interfere with conversion technology operations, or create unsightly conditions or vector harborage.  (f) Access Roads.  (A) Provide for all-weather roads from the public highway or roads to, and within, the facility that are designed and maintained to prevent traffic congestion, traffic hazards and dust; and  (B) Provide for effective barriers to unauthorized entry and dumping, such as fences, gates and locks.  (g) Fire Protection. Provide for fire protection in compliance with applicable state and local fire regulations.  (h) Dust and litter. Provide for effective methods to reduce or avoid dust, and litter, and to prevent tracking of mud or other materials off the facility;  (i) Containers. Describe how the facility will clean and manage all containers at the facility.  (j) Vehicles. Describe how all vehicles and devices operated by facility will be maintained and operated to prevent leaking or spilling of feedstocks or finished products while in transit.  (k) Truck Covers. Describe how the facility will notify all incoming feedstock haulers that trucks must be covered or suitably cross-tied to prevent any load loss during shipment. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 459.045, 459A.025 & 468.020 
+ 
+ 
+ Statutes/Other Implemented:  ORS 459.005, 459.015 & 459.205 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 7-2013, f. & cert. ef. 8-29-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

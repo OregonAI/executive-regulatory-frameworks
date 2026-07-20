@@ -1,0 +1,302 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 244 OREGON FEDERAL HAZARDOUS AIR POLLUTANT PROGRAM 
+ 340-244-0249 
+ Gasoline Dispensing Facilities: Testing and Monitoring Requirements 
+ 
+ (1) Effective March 23, 2024, the testing listed in this rule must be conducted and passed for each Stage I vapor balance system, Enhanced Vapor Recovery system, and Stage II vapor recovery system, as applicable. Initial tests must be completed no later than July 1, 2025. For owners or operators assigned to or issued an Air Contaminant Discharge Permit which requires testing, the testing requirements of both the Air Contaminant Discharge Permit and this rule must be met for the initial and subsequent tests. 
+
+ (2) All subsequent tests must be conducted at the frequency required by this rule and no later than the end of the calendar month during which the initial test was conducted. 
+
+ (3) Stage I Vapor Balance and Stage II vapor recovery . The following test requirements apply to Stage I vapor balance and Stage II vapor recovery systems: 
+
+ (a) An owner or operator of a GDF installing a complete Stage I vapor balance or Stage II vapor recovery system must conduct and pass a “Pressure test”, “PV Vent Valve test”, and “Leak Rate of Drop Tube test” under section (6) prior to placing the equipment into gasoline service. If necessary for testing purposes, enough gasoline to conduct the performance test may be loaded into the gasoline storage tank(s) at the GDF; 
+
+ (b) A GDF that has only conducted initial testing upon installation of the Stage I vapor balance system for “Pressure test” and “PV Vent Valve test”, as listed under section (6), must conduct and pass a test for both of these and a “Leak Rate of Drop Tube test” before July 1, 2025; 
+
+ (c) A GDF with a Stage I vapor balance system must conduct and pass a “Pressure test” and “PV Vent Valve test” under section (6) at least once every 24 months. 
+
+ (4) Enhanced Vapor Recovery. The following test requirements apply to Enhanced Vapor Recovery systems: 
+
+ (a) An owner or operator of a GDF installing an Enhanced Vapor Recovery system must conducted and pass the following tests, as listed under section (6) prior to placing the equipment into gasoline service. If necessary for testing purposes, enough gasoline to conduct the performance test may be loaded into the gasoline storage tank(s) at the GDF: 
+
+ (A) “Pressure test”; 
+
+ (B) “PV Vent Valve test”; 
+
+ (C) “Static Torque test” if the EVR system has rotatable adapters; and 
+
+ (D)  “Leak Rate of Drop Tube test”. 
+
+ (b) An owner or operator of a GDF that is equipped with an Enhanced Vapor Recovery system must conduct the tests listed in paragraph (4)(a)(A) through (D) at least once every 24 months. 
+
+ (5) A failed test completed timely and a passing test completed after the required frequency is not compliant with this rule. Frequency requirements established in section (6) of this rule pertain to test results which demonstrate the vapor control equipment is functioning properly according to the applicable test method.  
+
+ (6) Compliance tests for gasoline vapor control equipment are as follows: 
+
+ (a) Stage I vapor balance and Stage I EVR systems must: 
+
+ (A) Conduct a Pressure test every 24 months. A pressure test is either CARB Vapor Recovery Test Procedure 201.3 (TP-201.3) ‘Determination of 2-Inch WC Static Pressure Performance of Vapor Recovery Systems of Dispensing Facilities’ or Bay Area Air Quality Management District Source Test Procedure ST-30 ‘Static Pressure Integrity Test — Underground Storage Tanks’. 
+
+ (B) Conduct a Leak Rate of Drop Tube test every 24 months. A Leak Rate of Drop Tube test is either Test Procedure 201.1C (TP-201.1C) ‘Leak Rate of Drop Tube/Drain Valve Assembly’ or Test Procedure 201.1D (TP-201.1D) ‘Leak Rate of Drop Tube Overfill Prevention Devices and Spill Container Drain Valves’ depending on the system configuration. 
+
+ (C) Conduct a PV Vent Valve test every 24 months. A PV Vent Valve test is either CARB Vapor Recovery Test Procedure 201.1E (TP-201.1E) ‘Leak Rate and Cracking Pressure of Pressure/Vacuum Vent Valves’ or CARB Vapor Recovery Test Procedure 201.1E (TP-201.1E) Alternate version (August 5, 2005). 
+
+ (b) Stage I EVR systems with rotatable adapters must conduct a Static Torque test every 24 months. A static torque test is CARB test procedure 201.1B (TP-201.1B) ‘Static Torque of Rotatable Phase I Adaptors’. 
+
+ (7) Each owner or operator of a GDF choosing to use a Stage I vapor balance system other than that described in this division, must comply with the procedures specified in the provisions of 40 C.F.R. 63.6(g) before placing the alternative system into gasoline service. 
+
+ (a) The owner or operator must retain documentation of EPA’s approval of the alternative for as long as the alternative system is in use at the site; and 
+
+ (b) The owner or operator must comply with all conditions and stipulations included with the alternative approval from EPA. 
+
+ (8) Conduct of performance tests. All performance tests must be conducted under conditions based on representative performance, i.e., performance based on normal operating conditions, of the affected source. Upon request by DEQ, the owner or operator of a GDF must make available such records as may be necessary to determine the conditions of performance tests and representative performance. 
+
+ (9) Owners and operators of gasoline cargo tanks subject to the provisions of OAR 340-244-0248(3) must conduct annual certification testing according to the vapor tightness testing requirements found in 40 C.F.R. 63.11092(f). EPA Method 27 as in effect on July 1, 2023 is hereby incorporated by reference. 40 C.F.R. part 60 Appendix A-8 .  
+
+ (10) Owners or operators of a gasoline storage tank that has a drop tube replaced not in association with the installation of a Stage I Vapor Balance system or Enhanced Vapor Recovery system must conduct and pass a ‘Pressure Test’ as described in section (6) within 45 days of the date a drop tube was installed. 
+
+ [NOTE: This rule, excluding section (7), is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040 only for affected sources in the Portland-Vancouver, Medford-Ashland, and Salem-Keizer Area Transportation Study air quality management areas and all of Clackamas, Multnomah, and Washington counties.] 
+
+ [NOTE: View a PDF of referenced documents by clicking on ‘Tables” link below.] 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, 468A.025 & 468A.070 
+ 
+ 
+ Statutes/Other Implemented:  468A.070 & ORS 468A.025 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 5-2024, renumbered from 340-244-0244, filed 03/25/2024, effective 03/25/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 4-2024, amend filed 03/25/2024, effective 03/25/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 13-2019, amend filed 05/16/2019, effective 05/16/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 7-2015, f. & cert. ef. 4-16-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 4-2013, f. & cert. ef. 3-27-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 1-2011, f. & cert. ef. 2-24-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 15-2008, f. & cert. ef 12-31-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

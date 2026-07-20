@@ -1,0 +1,228 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Land Conservation and Development Department 
+ Chapter 660 
+ 
+ 
+ 
+ 
+ 
+ Division 46 Middle Housing in Medium and Large Cities 
+ 660-046-0350 
+ Application Submittal Timeline and Requirements 
+ 
+ (1) Local governments requesting a time extension must file IBTER applications with the department as follows: 
+
+ (a) By December 31, 2020 for local governments subject to ORS 197.758(3). 
+
+ (b) By June 30, 2021 for local governments subject to ORS 197.758(2). 
+
+ (2) Completeness review. Upon receipt of an IBTER application, the department will conduct a preliminary completeness review within 30 calendar days of receipt and notify the local government of any additional materials from section (3) that are required to make a complete application. Within one week of receiving notification of an incomplete application, the local government shall notify the department if it will provide all, some, or none of the requested additional information. If no additional information will be provided by the local government, the review period specified in OAR 660-046-0360(2) will begin upon receipt of the notification from the local government. If additional information is to be provided, the review period specified in OAR 660-046-0360(2) will begin on the date of receipt of the additional information. The local government must submit all requested materials within 60 calendar days of receipt of a request for additional materials. If the local government does not submit some or all of the requested completeness materials within the 60-day period, the review period specified in OAR 660-046-0360(2) will begin on the 61st day from the notification of incompleteness, and the department will evaluate the application based on the information that the local government has submitted by the end of the 60-day period. 
+
+ (3) Required materials. A complete IBTER application from a local government shall include the information described in subsections (a) through (g): 
+
+ (a) A narrative, graphics, tabular data, and other information as necessary to provide a general description of the significant infrastructure deficiency, including: 
+
+ (A) A description of the infrastructure and the current system capacity. Relevant information from adopted utility master plans, special area utility plans, capital improvement plans, or similar documents and studies. Also, an identification of the service level that will not be met, including identification of the adopted utility master plan or other authority which establishes the service level. 
+
+ (B) A description of the significant infrastructure deficiency. The application shall clarify if capacity is exceeded currently, or is anticipated by December 31, 2023, based on current development trends; or if the infrastructure is only expected to exceed capacity based on additional impacts from middle housing development pursuant to OAR 660-046-0330(4). 
+
+ (C) If the local government finds significant infrastructure deficiency would be caused only by additional middle housing development in the area and plans to continue issuing permits for other types of development within the area, a detailed analysis of how and why existing infrastructure can continue to meet the needs of other types of development, but not middle housing. 
+
+ (D) A description of assumptions used to calculate or estimate system capacity. This includes analysis of current impacts on the infrastructure system; impacts from additional development anticipated to occur based on current zoning; and impacts anticipated from the allowance for middle housing in the areas where it is not currently allowed, as more fully described in OAR 660-046-0330(4). 
+
+ (E) Documentation of the significant infrastructure deficiency sufficient to allow the department to verify that the deficiency exists, including (but not necessarily limited to) items such as; maintenance and complaint records, photographs, modeling results (if available), crash data, a deficiency documented in an adopted utility master plan, or other evidence of deficiency. 
+
+ (b) The name of the service provider if the Infrastructure is owned or operated by another provider, along with a description of any agreements between the local government and service provider for infrastructure improvements. 
+
+ (c) A vicinity map showing the boundary of the impacted areas for which the IBTER is requested. If the local government identifies more than one significant infrastructure deficiency (sewer and transportation, for example), the map should show the boundary of each deficiency separately and any areas of overlap. 
+
+ (d) A regional map, if applicable, showing the significant infrastructure deficiency that otherwise provides service to the area where an IBTER is being requested. 
+
+ (e) If the local government is subject to ORS 197.758(2), a description of the local government’s plan for middle housing implementation in the impacted area, including identification of areas intended for duplex-only provisions, and, as applicable, standards to be applied in goal-protected and constrained areas, and areas intended to accommodate triplexes, quadplexes, townhomes, and cottage cluster developments. 
+
+ (f) A remediation plan that describes the proposed infrastructure improvement(s) intended to remedy the significant infrastructure deficiency so that the local government may implement middle housing provisions. For each infrastructure improvement project, the description should include, at a minimum: 
+
+ (A) The proposed period of time needed to address the significant infrastructure deficiency, including phasing and contingencies, if applicable. 
+
+ (B) A discussion of the options initially considered for addressing the significant infrastructure deficiency, along with an explanation of how the proposed approach is the most expeditiously feasible approach available to address the deficiency. 
+
+ (C) Explanation of how the improvement project will provide acceptable service levels to anticipated middle housing. 
+
+ (D) Potential funding source(s), including funding commitments from other governmental agencies or private parties, and schedule for project completion. 
+
+ (E) Depiction of the area that will be remedied by the project. 
+
+ (F) Proposed timeline and associated mapping to demonstrate any phasing of the remediation plan where there are several improvement projects identified. 
+
+ (G) A map of all other areas within the local government where middle housing will be implemented during the extension period. 
+
+ (H) If a local government proposes a bond measure or similar financial mechanism that requires voter approval as a means to fund an infrastructure improvement project, a local government may also propose a contingency plan for funding the infrastructure improvement. 
+
+ (g) A narrative detailing how the application is in compliance with the Review Criteria in OAR 660-046-0360(5). In response to criterion in OAR 660-046-0360(5)(d), the local government shall provide a map of the local government’s jurisdictional area, depicting US Census tract scores based on the Oregon Housing and Community Services Department’s Notice of Funding Availability Scoring Criteria Map:   (https://geo.maps.arcgis.com/apps/webappviewer/index.html?id=2cb211dbdd3d4cf497d8190283f1402f).  The map identifies census tracts within communities that score low, medium, or high in relation to access to opportunity. Those tracts identified as high opportunity areas have a relatively low poverty rate, high labor market engagement index, and a low unemployment rate. Low opportunity areas have a relatively high poverty rate, low labor market engagement index, and a high unemployment rate. The narrative addressing criterion in OAR 660-046-0360(5)(d) must refer to the mapped areas in relation to the review criterion. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 197.040 & OR Laws 2019, chapter 639, section 4(6) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 197.758 & OR Laws 2019, chapter 639, sections 3 and 4 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LCDD 1-2021, minor correction filed 01/29/2021, effective 01/29/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LCDD 14-2020, adopt filed 08/07/2020, effective 08/07/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

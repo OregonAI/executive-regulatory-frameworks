@@ -1,0 +1,178 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Oregon Occupational Safety and Health Division - Chapter 437 
+ 
+ 
+ 
+ 
+ Division 4 AGRICULTURE 
+ 437-004-0720 
+ Flammable and Combustible Liquids 
+ 
+ (1) Definitions:  (a) Approved — See Universal Definitions in 4/B, OAR 437-004-0100.  (b) Closed container — A container sealed with a lid or other device that prevents the loss of liquid or vapor at ordinary temperatures.  (c) Combustible — A substance or material that is able or likely to catch fire and burn.  (d) Combustible liquids — See definition of “Flammable liquids” below.  NOTE: When Oregon OSHA revised the Hazard Communication Standard to align with the Globally Harmonized System (GHS) of classification and labeling of chemicals, the term “combustible liquid” was eliminated. However, the term is still used by the National Fire Protection Association (NFPA) and by the Oregon State Fire Marshal. The NFPA system classifies some chemicals as “combustible liquids” that OSHA classifies as “flammable liquids.”  (e) Explosive — something capable of causing damage to the surroundings by chemical reaction. Also, see Universal Definition in 4/B, OAR 437-004-0100.  (f) Flammable — something capable of being easily ignited, burning intensely, or having a rapid rate of flame spread. Also, see Universal Definitions in 4/B, OAR 437-004-0100.  (g) Flammable liquids — are liquids having a flash point at or below 199.4 degrees F. (93 degrees C.) As defined in the globally harmonized system of classification and labeling (GHS) adopted in OSHA’s Hazard Communication Standard, flammable liquids are divided into four categories as follows:  (A) Category 1 includes liquids that have a flashpoint below 73.4 degrees F. (23 degrees C.) and have a boiling point at or below 95 degrees F. (35 degrees C.)  (B) Category 2 includes liquids that have a flashpoint below 73.4 degrees F. (23 degrees C.) and have a boiling point above 95 degrees F. (35 degrees C.)  (C) Category 3 includes liquids that have a flashpoint in a temperature range from at or above 73.4 degrees F. (23 degrees C.) to at or below 140 degrees F. (60 degrees C.)  (D) Category 4 includes liquids that have a flashpoint in a temperature range from above 140 degrees F. (60 degrees C.) to at or below 199.4 degrees F. (93 degrees C.)  NOTES: See Appendix A to OAR 437-004-0720 Flammable Liquids for a comparison of the GHS/Hazard Communication classification system with the NFPA classification system. Examples of flammable liquids include: Category 1: Diethyl ether (solvent used in some starting fluids) Category 2: Gasoline, Benzene Category 3: Kerosene, Stoddard Solvent  Category 4: Diesel fuel  (h) Portable tank — A closed container with a liquid capacity more than 60 U.S. gallons (230 liters) and not intended for fixed installation.  (i) Safety can — An approved closed container, of not more than 5 gallons (20 liters) capacity, with a spring-closing lid and spout cover, and designed so that it will safely relieve internal pressure when subjected to fire.  (2) Storage and transporting.  (a) The storage of flammable liquids in containers with a capacity of 60 gallons (230 liters) or more must be in fixed or portable tanks. Such tanks must meet the material and design requirements in NFPA 30, Flammable and Combustible Liquids Code, 1996 edition.  NOTE: Tanks meeting the requirements of a more recent edition of the NFPA 30 code will also be considered to be in compliance with this rule.  (b) Storage of flammable liquids in containers of less than 60 gallons (230 liters) capacity must be in one of the following listed in Table H-1: [Table not included. See ED. NOTE.]  (c) Store flammable liquids in a manner that will not obstruct, impede, or limit use of exits, stairways, or areas normally used for safe exit routes.  (d) Flammable liquids transported in passenger-type vehicles (cars, trucks, buses, carry-alls, crew transporters, etc.) must be in safety cans, or approved containers used for petroleum fuels. Carry these containers outside the passenger compartment, secured in a ventilated area that prevents the accumulation of flammable or explosive vapors, and that protects against rupture in a collision.  (3) Tanks and containers.  (a) Clearly mark tanks and containers as required in the Hazard Communication Standard, OAR 437-004-9800(5) Labels and other Forms of Warning. Mark fill-risers and pumps or discharge devices with the name of the product they contain.  NOTE: Division 4/L, 437-004-1440 requires employers to post signs reading, “No Smoking or Open Flame” (or “FLAMMABLE — KEEP FIRE AWAY”) in areas used for fueling, and where flammable liquids are received, dispensed, used, or stored.  (b) Protect pumps, containers, tanks, and supports for tanks used for flammable liquids against collision damage.  (c) Mount aboveground tanks on supports that are strong and stable enough to safely support the load. Provide enough clearance to permit inspection and maintenance as well as clearance from the ground.  (4) Tanks elevated for gravity discharge.  (a) The gravity discharge outlet must have an approved hose with a self-closing valve at the discharge end.  (b) The bottom opening for gravity discharge must have a shut-off valve adjacent to the tank shell that can be closed manually. Underground tanks from which fuel flows under gravity must have a manual shut-off valve between the tank and the hose.  (5) Tanks with top openings only.  (a) Tanks with all openings in the top must have a firmly attached, approved pumping device and an approved hose.  (b) Do not use siphons and discharge devices requiring pressure in the container.  (c) There must be an effective anti-siphoning device in the pump discharge; tank plumbing must not permit fuel to siphon or flow from the tank when the pump is not operating, even though discharge nozzle valves or line valves are open.  (6) Dispensing and fueling.  (a) Maintain pumping devices or faucets used to dispense flammable liquids so they do not leak enough material to puddle or cause a fire hazard.  (b) Fuel tanks and pumps from which flammable liquids are dispensed must have an approved hose long enough to fill containers.  (A) Hoses must have a metal nozzle at the discharge end.  (B) Hoses must incorporate an effective electrical interconnect between the nozzle and the supply tank.  (c) Do not dispense flammable liquids into or from portable or stationary metal tanks or drums unless there is an effective electrical interconnect (bond) between the source and the receiving containers.  NOTES: The electrical interconnect may be made by assuring that the metal nozzle of the approved hose is in contact with the metal fill neck or bung of the receiving container during filling. Both portable metal and portable plastic containers should be placed on a grounded surface when filling.  (d) Shut off internal combustion engines, except diesel engines, while refueling.  (7) Handling and use of flammable liquids.  (a) Control leakage or the escape of flammable liquids and use measures to prevent accidental spills. If a spill occurs, promptly clean any soaked or contaminated areas.  NOTE: If you have a release or spill of any hazardous substance at your workplace and you expect your employees to help clean it up, other rules may apply: Division 4/Z, 437-004-9800, Hazard Communication Standard for Agricultural Employers. Division 4/H, 437-004-0950 Hazardous Waste Operations and Emergency Response.  (b) Use flammable liquids, including gasoline, only where there is no open flame or other source of ignition within 50 feet of the operation, or within the possible path of vapor travel.  NOTES: This rule does not prohibit the refueling of orchard heaters used outdoors while adjacent heaters are burning; or the field (outdoor) refueling of portable tools while other tools are in operation. Division 4/L, 437-004-1430 requires employers to forbid smoking, open flames, the use of spark-producing devices or tools, and other sources of fire or ignition in fueling areas; where fuel systems for internal combustion engines are serviced; and where flammable liquids are received, dispensed, used, or stored.  (c) Do not use flammable liquids, including gasoline, indoors as a solvent or for cleaning purposes unless there is adequate ventilation to keep the concentration of vapors in the atmosphere below 20 percent of its lower explosive limit (LEL).  NOTE: In addition to the hazards of fire and explosion, the potential health hazards from exposure to flammable liquids through skin contact or breathing the vapors should also be avoided.  (d) Keep flammable liquids, including gasoline, in closed containers when not in use.  (8) Heating devices that use flammable liquids.  NOTE: The Oregon State Mechanical Specialty Code and the Oregon Fire Code have standards for space-heating devices and associated equipment.  (a) Set heaters, when in use, on a stable, level base; or mount them as specified by the manufacturer.  (b) Heaters not suitable for use on wood floors must rest on heat insulating material of at least 1-inch concrete, or equivalent. The insulating material must extend beyond the heater 2 feet or more in all directions.  (c) Locate heaters used near combustible tarpaulins, canvas, or similar coverings at least 10 feet from the coverings and securely fasten them to prevent ignition or upsetting of the heater due to wind action on the covering or other material.  (d) Liquid-fired heaters must have a primary safety control to stop the flow of fuel in the event of flame failure.  NOTE: Barometric or gravity oil feed is not a primary safety control.  (e) Do not use heating devices without built-in means to effectively control the fuel supply and the flame in occupied buildings.  (f) Vent heating devices (that use flammable fuels inside occupied buildings) to the outside atmosphere except when:  (A) The heating device has an “approval label” issued by the American Gas Association or a nationally recognized testing laboratory indicating it is approved for use as an unvented heater in occupied buildings; or,  (B) Prior to entry, test the atmosphere inside buildings where unvented heating devices are in use to assure it is free of hazardous levels of carbon monoxide.  (g) Fuel-burning devices must have means that prevent the emission of sparks or other sources of ignition.  (9) Design, construction, and capacity of storage cabinets.  (a) Maximum capacity. Do not store more than 60 gallons of Category 1, 2, or 3 flammable liquids, or more than 120 gallons of Category 4 flammable liquids in a storage cabinet.  (b) Fire resistance. Storage cabinets must meet NFPA 30, 1996 edition standards. Label storage cabinets with “No Smoking or Open Flame.”  NOTES: Storage cabinets meeting the requirements of a more recent edition of the NFPA 30 code will also be considered to be in compliance with this rule. Storage cabinets labeled “FLAMMABLE — KEEP FIRE AWAY” are also in compliance with this rule.  (10) Design and construction of inside storage rooms.  (a) Construction.  (A) Construct inside storage rooms to meet the required fire-resistive rating in NFPA 30, 1996 edition.  (B) Such construction must comply with the test specifications in Standard Methods of Fire Tests of Building Construction and Materials, NFPA 251, 1969 edition.  (C) Where there is an automatic sprinkler system, design and install the system according to accepted engineering practices.  (D) Openings to other rooms or buildings must have noncombustible, liquid-tight, raised sills or ramps at least 4 inches high, or the floor in the storage area must be at least 4 inches below the surrounding floors. A permissible alternate to the sill or ramp is an open-grated trench inside the room that drains to a safe location.  (E) Openings must have approved self-closing fire doors. The room must be liquid-tight where the walls join the floor.  (F) Where other parts of the building or other properties are exposed, protect windows as required in the Standard for Fire Doors and Windows, NFPA 80, 1968 edition, for Class E or F openings.  (G) Wood at least 1-inch nominal thickness is acceptable for shelving, racks, dunnage, scuffboards, floor overlay, and similar installations.  NOTES: The following will also be considered to be in compliance with this rule:Inside storage rooms meeting the requirements of a more recent edition of the NFPA 30 code. Construction materials meeting the specifications in a more recent edition of NFPA 251 code. Windows and openings protected as required by a more recent edition of the NFPA 80 code.  (b) Rating and capacity. Storage in inside storage rooms must comply with Table H-2, below. [Table not included. See ED. NOTE.]  NOTES: Division 4/L, 437-004-1430 Sources of Fire requires that electric lights, equipment, and wiring used where there may be flammable or explosive gases or vapors must comply with the State Electrical Specialty Code. Division 4/S, 437-004-3075 Agricultural Buildings with Special Hazards has additional electrical requirements.  [ED. NOTE: Tables referenced are available from the agency.]  [Publications: Publications referenced are available from the agency.] 
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 654.025(2) & 656.726(4) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 654.001 - 654.295 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSHA 3-2014, f. & cert. ef. 8-8-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OSHA 4-1998, f. 8-28-98, cert. ef. 10-1-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

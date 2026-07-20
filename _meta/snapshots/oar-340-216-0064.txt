@@ -1,0 +1,369 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 216 AIR CONTAMINANT DISCHARGE PERMITS 
+ 340-216-0064 
+ Simple ACDP
+ 
+ 
+ (1) Application Requirements. Any person requesting a new, modified, or renewed Simple ACDP must submit an application according to OAR 340-216-0040. 
+
+ (2) DEQ may determine that a source is ineligible for a Simple ACDP based upon the considerations in OAR 340-216-0025(7). 
+
+ (3) Fees. Applicants for a new or modified Simple ACDP must pay the fees in OAR 340-216-8020. Applicants for a new Simple ACDP must initially pay the High Annual Fee. Once the initial permit is issued, annual fees for Simple ACDPs will be assessed based on the following: 
+
+ (a) Low Fee — A source may qualify for the low fee if: 
+
+ (A) The source is, or will be, permitted under only one of the following categories in OAR 340-216-8010 Part B: 
+
+ (i) Category 7. Asphalt felt and coatings; 
+
+ (ii) Category 13. Boilers and other fuel burning equipment (can be combined with category 27. Electric power generation); 
+
+ (iii) Category 27. Electric power generation; 
+
+ (iv) Category 33. Galvanizing & pipe coating; 
+
+ (v) Category 39. Gray iron and steel foundries, malleable iron foundries, steel investment foundries, steel foundries 100 or more tons/yr. metal charged (not elsewhere identified); 
+
+ (vi) Category 40. Gypsum products; 
+
+ (vii) Category 45. Liquid storage tanks subject to OAR chapter 340, division 232; 
+
+ (viii) Category 56. Non-ferrous metal foundries 100 or more tons/year of metal charged; 
+
+ (ix) Category 57. Organic or inorganic industrial chemical manufacturing; 
+
+ (x) Category 62. Perchloroethylene dry cleaning; 
+
+ (xi) Category 73. Secondary smelting and/or refining of ferrous and non-ferrous metals; or 
+
+ (xii) Category 85. All other sources not listed in OAR 340-216-8010 (can be combined with category 27. Electric Power Generation); 
+
+ (xiii) Category 22: Clay ceramics manufacturing subject to an area source NESHAP under OAR chapter 340, division 244; and 
+
+ (B) The actual emissions from the calendar year immediately preceding the invoice date are less than five tons/year of PM10 in a PM10 nonattainment or maintenance area or PM2.5 in a PM2.5 nonattainment or maintenance area, and less than 10 tons/year for each criteria pollutant; and 
+
+ (C) The source is not creating a nuisance under OAR 340-208-0310 or 340-208-0450. 
+
+ (b) High Fee — Any source required to have a Simple ACDP (OAR 340-216-8010 Part B) that does not qualify for the low fee under subsection (2)(a) will be assessed the high fee. 
+
+ (c) If DEQ determines that a source was invoiced for the low annual fee but does not meet the low fee criteria outlined above, the source will be required to pay the difference between the low and high fees, plus applicable late fees in OAR 340-216-8020 Part 5. In the case of late fees, DEQ will issue a new invoice specifying applicable fees. 
+
+ (4) Permit Content. Each Simple ACDP must include the following: 
+
+ (a) All relevant applicable requirements for source operation, including general ACDP conditions for incorporating generally applicable requirements, but excluding any federal requirements not adopted by the EQC; 
+
+ (b) PSELs at less than the SER for all regulated pollutants emitted at more than the de minimis emission level under OAR chapter 340, division 222; 
+
+ (c) To ensure the source’s emission will not cause or contribute to a new exceedance of a National Ambient Air Quality Standard adopted under OAR chapter 340, division 202: 
+
+ (A) Any physical or operational limitation, including any combination of the use of control devices, restrictions on hours of operation, or restrictions on the type or amount of materials combusted, stored, or processed, will be included as permit conditions to limit short term emissions for all devices and activities that require controls or limitations; or 
+
+ (B) A requirement to conduct ambient monitoring to confirm a new exceedance of a National Ambient Air Quality Standard. Ambient monitoring and meteorological monitoring must be conducted in accordance with a DEQ approved monitoring plan for a period of not less than 12 months. There must be at least 12 months of valid data with greater than 75 percent data completeness per quarter. 
+
+ (d) Testing, monitoring, recordkeeping, and reporting requirements sufficient to determine compliance with the PSEL and other emission limits and standards, as necessary; and 
+
+ (e) A permit duration not to exceed 10 years. 
+
+ (5) Permit issuance public notice procedures: 
+
+ (a) Issuance of a new or renewed Simple ACDP requires public notice as a Category III permit according to OAR chapter 340, division 209. 
+
+ (b) Issuance of a modification to a Simple ACDP requires one of the following procedures, as applicable: 
+
+ (A) Public notice as a Category I permit action for non-technical and basic and simple technical modifications according to OAR chapter 340, division 209; or 
+
+ (B) Public notice as a Category III permit action for moderate and complex technical modifications according to OAR chapter 340, division 209. 
+
+ 
+ NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan as adopted by the EQC under OAR 340-200-0040. 
+ 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, 468.065, 468A.025, 468A.040, 468A.310 & 468A.315 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468 & 468A 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 7-2026, amend filed 06/24/2026, effective 06/24/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 19-2022, amend filed 11/18/2022, effective 03/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 7-2015, f. & cert. ef. 4-16-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 9-2014, f. & cert. ef. 6-26-14 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ Reverted to DEQ 4-2013, f. & cert. ef. 3-27-13 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 9-2013(Temp), f. & cert. ef. 10-24-13 thru 4-22-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 4-2013, f. & cert. ef. 3-27-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 5-2011, f. 4-29-11, cert. ef. 5-1-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 1-2011, f. & cert. ef. 2-24-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 8-2009, f. & cert. ef. 12-16-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 4-2002, f. & cert. ef. 3-14-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

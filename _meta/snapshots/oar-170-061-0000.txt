@@ -1,0 +1,411 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon State Treasury 
+ Chapter 170 
+ 
+ 
+ 
+ 
+ 
+ Division 61 ISSUANCE OF BONDS 
+ 170-061-0000 
+ Notice and Reporting Requirements by Public Bodies When Issuing Bonds
+ 
+ 
+ (1) Terms used in OAR 170-061 shall have the meanings given in ORS Chapters 286A and 287A unless otherwise specifically defined herein. 
+
+ (2) Definitions. 
+
+ (a) “MDAC” means the Oregon Municipal Debt Advisory Commission, including OST when acting as staff for the MDAC pursuant to 287A.632(3). 
+
+ (b) “OST” means the Office of the State Treasurer. 
+
+ (c) "Bond marketing date" is the date the public body and underwriter or placement agent agree on the market terms of the bonds. For competitive bid bonds this is the date bids are opened and the bonds are awarded to public bidders pursuant to a published notice of bond sale. For negotiated sales or private placements this means the date the public body gives the verbal award to the underwriter or placement agent. 
+
+ (d) "Called bonds" are bonds for which the public body has exercised the option or requirement to redeem before the stated maturity date. The call date is the date the bond may be redeemed. 
+
+ (e) "Closing" means the date the bonds are delivered to the initial bond purchaser and the public body receives payment for the bonds. 
+
+ (f) "Delivery date" means the date shown by the United States Postal Service or other delivery services' cancellation mark or, if provided electronically, the delivery date is the date shown as electronically received by the OST. 
+
+ (g) “Governing body” means the person, board, commission, council, officer or other body authorized to direct the issuance of bonds. 
+
+ (h) “Issuer” means a public body or the State Treasurer. 
+
+ (i) "Official statement" means the document published by a state agency or public body that discloses material information on the issue of bonds including the purposes of the issue, repayment methods, and the financial, economic and social characteristics of the issuing government. A final official statement is printed after the final terms of the bonds are available. 
+
+ (j) “Paying officer” means the public officer, other than a fiscal or paying agent, to who bonds may be presented for payment. 
+
+ (k) “Public body” means those entities described in ORS 287A.001 and an intergovernmental entity formed pursuant to ORS 238.695. 
+
+ (l) “State agency” means a related agency defined in ORS 286A.001(8). 
+
+ (m) "True Interest Cost" (TIC) means the annual discount rate that, when used to discount all debt service payments on the issue to the date of initial delivery of the issue, using a compounding interval equal to the interest payment periods for the issue, results in the aggregate present value of such debt service payments being equal to the original purchase price (including accrued interest) of the issue. 
+
+ (n) “Independent SEC-registered advisor” has the meaning given inORS 238.697(4). 
+
+ (o) “Pension Obligation Bonds” means revenue bonds authorized under ORS 238.694 and ORS chapter 287A for the purpose of obtaining funds to pay the pension liability of a public body. 
+
+ (p) “Public Offering” means a sale for which an issuer publicizes the upcoming bond issue, provides the timeframe and platform for which bids will be accepted, and provides any additional guidelines or details related to the bond issue and for which the winning bidder(s) generally is the bidder who has offered the lowest total interest costs, including all costs of issuance and underwriter fees. 
+
+ (q) “Private Placement” means a sale in which funds are provided through direct negotiation with one or more private or governmental entities, effectively providing a loan that must be repaid over time. Private placements do not require many of the disclosure requirements found in public offerings and are not publicly issued or publicly traded. 
+
+ (r) “Limited Offering” means a sale in which the bonds are offered and sold to a limited number of investors that meet certain established standards for qualifying as a purchaser of the bonds and the offering is exempt from the provisions of Securities and Exchange Commission Rule 15c2-12 because the bonds are sold in authorized denominations of $100,000 to no more than 35 persons each of whom the underwriter reasonably believes:  
+
+ (A) has such knowledge and experience in financial and business matters that it is capable of evaluating the merits and risks of the investment; and 
+
+ (B) is not purchasing for more than one account or with a view to distributing the securities. 
+
+ (s) “Pension Bond Assessment” means the statistically based assessment from an independent economic or financial consulting firm required under ORS 238.697(1)(a). 
+
+ (t) “MDAC Form 1” means the report of a public body filed as set forth in OAR 170-055-0001(4) providing notice of publicly offered and limited offering bond sales, which shall include the information set forth in section (3) of this rule.  
+
+ (u) “MDAC Form 2” means the report of a public body filed as set forth in OAR 170-055-0001(4) providing notice of the results of the sale of publicly offered and limited offering bond sales, which shall include the information set forth in section (8) of this rule.  
+
+ (v) “MDAC Form PB 1” means the report of a public body filed as set forth in OAR 170-055-0001(4), which shall include the information set forth in section (5) of this rule. 
+
+ (w) “MDAC Form PB 2” means the annual report filed by a public body that has issued Pension Obligation Bonds as required by section (9)(a) of this rule. 
+
+ (3) Notice of bond sales. The MDAC Form 1 must include preliminary bond sale information such as: the issuing entity, type of bond, anticipated bond marketing date, bond par amount, project or purpose of the bond issue, source of revenues used to repay the bonds, anticipated closing date, bond counsel, financial advisor and other summary information identified on MDAC Form 1. 
+
+ (4) MDAC Form 1 Timing. The MDAC Form 1 must be filed: 
+
+ (a) at least 30 days prior to the bond marketing date for any public body that is issuing Pension Obligation Bonds, whether by public offering, limited offering or private placement; 
+
+ (b) at least 10 days prior to the bond marketing date for all other bond sales. 
+
+ (5)   MDAC Form PB1. At least 30 days before issuing Pension Obligation Bonds, the public body issuing such bonds shall file the MDAC Form PB1 as set forth in OAR 170-055-0001(4). The MDAC Form PB1 shall include the following information: 
+
+ (a) the Pension Bond Assessment that is required by ORS 238.697(2) to be transmitted to the State Treasurer; and 
+
+ (b) confirmation of compliance with ORS 238.697(1)(b)(A) and (B) 
+
+ (6) Confirmation of notice. After receipt of the notice required under section 3 and 5 of this rule, the MDAC shall provide a confirmation letter that includes a statement that the filing of the MDAC Form 1 and, if applicable, the MDAC Form PB1 complies with OAR 170-061-0000 and is conclusive evidence of such compliance. Compliance letters are sent to bond counsel. Noncompliance letters state the reason for non-compliance and are sent to the public body and its bond counsel. 
+
+ (7) Postponement. For postponed or changed bond sales the public body complies with notice requirements when, on a best efforts basis, it submits an updated MDAC Form 1 or MDAC Form PB1, as applicable, to the MDAC as set forth in OAR 170-055-0001(4). 
+
+ (8) Reporting results. Any public body issuing bonds shall report bond sale results by submitting MDAC Form 2, and a public body preparing an official statement shall provide a final copy of such official statement, to the MDAC within seven business days after the bond marketing date. Sale results must include all of the information identified on MDAC Form 2. The public body and its bond counsel will receive written notice of non-compliance if sale results are not reported. 
+
+ (9) Annual Pension Obligation Bond Reporting.  
+
+ (a)(A) To assist the State Treasurer in complying with its annual reporting obligation under ORS 238.697(3), the OST Debt Management Division will send a letter by October 1 of each year to any public body that has issued Pension Obligation Bonds on or after June 11, 2019, and which has bonds that remain outstanding, requesting that the public body file the MDAC Form PB2 as set forth in OAR 170-055-0000(4) by December 1 of each year. 
+
+ (B) The MDAC Form PB2 shall include the following information: 
+
+ (i) The actual interest rate owed over the term of the Pension Obligation Bonds; 
+
+ (ii) The projected rate of return on the Pension Obligation Bond proceeds, as determined by the Pension Bond Assessment; and 
+
+ (iii) The actual rate of return on Pension Obligation Bond proceeds in the previous fiscal year and the cumulative rate of return on the Pension Obligation Bond proceed. 
+
+ (b) In satisfying the requirement to provide the information described under subsection (a)(ii)(3) of this rule, a public body that participates in the Public Employees Retirement System (“PERS”) may request this information from PERS for submission to the State Treasurer on the MDAC Form PB2. 
+
+ (c) In connection with providing the information described under section (a)(ii)(3) of this rule, a public body that does not participate in PERS may direct its independent investment manager, if any, to provide this information for submission to the State Treasurer of the MDAC Form PB2. 
+
+ (10) Exceptions. The MDAC, through a vote of the commissioners, may waive any or all provisions of this rule. 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 287A.634 & 287A.640 
+ 
+ 
+ Statutes/Other Implemented:  ORS 287A.634 & 287A.640 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OST 1-2021, amend filed 06/28/2021, effective 07/20/2021 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OST 5-2019, amend filed 12/16/2019, effective 12/20/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OST 2-2019, temporary amend filed 07/24/2019, effective 08/01/2019 through 01/27/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OST 3-2010, f. & cert. ef. 2-2-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OST 7-2008, f. & cert. ef. 12-29-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ TD 2-1995, f. & cert. ef. 12-26-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ TD 1-1995, f. 6-29-95, cert. ef. 7-3-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ TD 2-1994, f. & cert. ef. 9-9-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ TD 1-1985, f. & ef. 1-24-85 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ TD 4-1982, f. & ef. 7-7-82 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ TD 2-1982(Temp), f. & ef. 1-27-82 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ TD 1-1982(Temp), f. & ef. 1-11-82 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ TD 2-1981(Temp), f. & ef. 12-23-81 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

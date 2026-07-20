@@ -1,0 +1,382 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Justice 
+ Chapter 137 
+ 
+ 
+ 
+ 
+ 
+ Division 55 OREGON CHILD SUPPORT PROGRAM 
+ 137-055-1090 
+ Good Cause
+ 
+ 
+ (1) For the purposes of OAR chapter 137, division 055, good cause means the Oregon Child Support Program is exempt from providing services as defined in ORS 25.080. Specifically excluded from this definition are good cause for not withholding as defined in ORS 25.396 and OAR 137-055-4060 and good cause found for not disbursing support to a child attending school under ORS 107.108 and OAR 137-055-5110. 
+
+ (2) If an obligee believes that physical or emotional harm to the family may result if services under ORS 25.080 are provided, the obligee may request, either verbally or in writing, that the administrator discontinue all activity against the obligor. Upon such a request by an obligee, the administrator will: 
+
+ (a) On an open TANF or Medicaid case, immediately suspend all activity on the case, notify Oregon Department of Human Services (ODHS) or Oregon Health Authority (OHA) to add good cause coding, and send a safety packet to the obligee requesting a response be sent to ODHS; or 
+
+ (b) On any other case, immediately suspend all activity on the case, add good cause case coding pending a final determination, and send a Client Safety Packet on Good Cause to the obligee requesting a response within 30 days. 
+
+ (3) Good cause must be determined by: 
+
+ (a) The Oregon Department of Human Services, pursuant to OAR 413-100-0830, 461-120-0350, or 461-135-1200, if TANF or Title IV-E benefits are being provided; 
+
+ (b) The Oregon Health Authority , pursuant to OAR 461-120-0350 and 410-200-0220, if Medicaid benefits are being pr ovided; 
+
+ (c) The Director of the Oregon Child Support Program when the provisions of OAR 137-055-3080 apply; or 
+
+ (d) The administrator when the provisions of subsections (a) through (c) of this section do not apply. 
+
+ (4) When the provisions of subsection (3)(d) apply and the obligee makes a written claim that the provision of services may result in emotional or physical harm to the child or obligee or completes and returns the good cause form, the administrator will: 
+
+ (a) Make a finding and determination that it is in the best interests of the child not to provide services; 
+
+ (b) Proceed with case closure pursuant to OAR 137-055-1120; and 
+
+ (c) File credit all arrears. 
+
+ (5) In determining whether providing services is in the best interest of the child under section (3)(c), the Oregon Child Support Program Director will consider: 
+
+ (a) The likelihood that provision of services will result in physical or emotional harm to the child or obligee, taking into consideration: 
+
+ (A) Information received from the obligee; or 
+
+ (B) Records or corroborative statements of past physical or emotional harm to the child or obligee, if any. 
+
+ (b) The likelihood that failure to provide services will result in physical or emotional harm to the child or obligee; 
+
+ (c) The degree of cooperation needed to complete the service; 
+
+ (d) The availability and viability of other protections, such as a finding of risk and order for non-disclosure pursuant to OAR 137-055-1160; and 
+
+ (e) The extent of involvement of the child in the services sought. 
+
+ (6) A finding and determination by the Oregon Child Support Program Director that good cause does not apply may be appealed as provided in ORS 183.484. 
+
+ (7) A finding and determination of good cause applies to any case which involves the same obligee and child, or any case in which a child is no longer in the physical custody of the obligee, but there is a support order for the child in favor of the obligee. 
+
+ (8) When an application for services is received from an obligee and TANF, Title IV-E, or Medicaid benefits are not being provided,  and there has been a previous finding and determination of good cause, the administrator will: 
+
+ (a) Notify the obligee of the previous finding and determination of good cause and provide a Client Safety Packet; 
+
+ (b) Allow the obligee 30 days to retract the application for services or return appropriate documents from the Client Safety Packet; and 
+
+ (c) If no objection to proceeding or good cause form is received from the obligee, document in the Origin automated child support system , remove the good cause designation and, if the case has been closed, reopen the case. 
+
+ (9) When an application for services is received from a physical custodian of a child, the physical custodian is not the obligee who originally claimed good cause and TANF, Title IV-E, or Medicaid benefits are not being provided, and there is no previous support award, the administrator will open a new case without good cause coding with the physical custodian as the obligee. 
+
+ (10)(a) When an application for services is received from a physical custodian of a child, the physical custodian is not the obligee who originally claimed good cause and TANF, Title IV-E, or Medicaid benefits are not being provided, and the case in which there has been a finding and determination of good cause has a support award in favor of the obligee who originally claimed good cause, the administrator will: 
+
+ (A) Notify the obligee who originally claimed good cause that an application has been received and provide a Client Safety Packet; and 
+
+ (B) Advise the obligee who originally claimed good cause that the previous good cause finding and determination will be treated as a claim of risk as provided in OAR 137-055-1160; and 
+
+ (C) Allow the obligee 30 days to provide a contact address as provided in OAR 137-055-1160. 
+
+ (b) If an objection or good cause form is received from the obligee who originally claimed good cause, or if the location of the obligee who originally claimed good cause is unknown, the administrator will forward the objection, form or case to the Director of the Oregon Child Support Program for a determination of whether to proceed; 
+
+ (c) If no objection or good cause form is received from the obligee who originally claimed good cause, the administrator will document in the Origin automated child support system , make a finding of risk and order for non-disclosure pursuant to OAR 137-055-1160 for that obligee, remove the good cause designation, and, if the case has been closed, reopen the case. 
+
+ (11)(a) If a request for services under ORS Chapter 110 is received from another jurisdiction and TANF, Title IV-E, or Medicaid benefits are not being provided by the State of Oregon, and there has been a finding and determination of good cause, the administrator will: 
+
+ (A) Notify the referring jurisdiction of the finding and determination of good cause and request that the jurisdiction consult with the obligee to determine whether good cause should still apply; and 
+
+ (B) If the location of the obligee is known, notify the obligee that the referral has been received, provide a Client Safety Packet and ask the obligee to contact both the referring agency and the administrator if there is an objection to proceeding; and 
+
+ (C) Advise the obligee who originally claimed good cause that the previous good cause finding and determination will be treated as a claim of risk as provided in OAR 137-055-1160; and 
+
+ (D) Allow the obligee 30 days to provide a contact address as provided in OAR 137-055-1160. 
+
+ (b) If an objection or good cause form is received from the obligee, the administrator will forward the objection, form or case to the Director of the Oregon Child Support Program for a determination of whether to proceed. 
+
+ (c) If there is no objection or good cause form received from the obligee, or if the obligees address is unknown, and the referring jurisdiction advises that the finding and determination of good cause no longer applies, the administrator will document in the Origin automated child support system , remove the good cause designation and, if the case has been closed, reopen the case. 
+
+ (12) If a referral for services under ORS 25.080 is received because TANF, Title IV-E, or Medicaid benefits are being provided, and there has been a good cause determination, the administrator will notify the state agency currently providing services of the previous good cause determination. The administrator will not provide services unless the program currently providing services determines good cause no longer applies and requests the administrator remove the coding. 
+
+ (13) Notwithstanding any other provision of this rule, when a case has not previously had a good cause finding and determination and TANF, Title IV-E, or Medicaid benefits are being provided, and ODHS or OHA makes a current good cause finding and determination on a related case, the administrator will not provide services on the case or related cases unless and until good cause coding is removed by ODHS or OHA. 
+
+ (14) In any case in which a good cause finding and determination has been made and subsequently removed, past support under ORS 25.515 and OAR 137-055-3220 may not be sought for any periods prior to the determination that good cause no longer applies. 
+
+ (15) In any case in which a good cause finding and determination has been made, and a child attending school as defined in ORS 107.108 and OAR 137-055-5110 is a party to the case, the child attending school may file an application for services pursuant to OAR 137-055-1060, OAR 137-055-1070 and OAR 137-055-5110. 
+
+ (16) If a participant in the Address Confidentiality Program obtains a confidential name change, and the administrator is unable to provide services without impairing the health or safety of a participant or a child, the administrator may close for good cause any case for the participant. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 180.345 
+ 
+ 
+ Statutes/Other Implemented:  ORS 25.080 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 18-2021, amend filed 12/29/2021, effective 01/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 4-2020, minor correction filed 02/05/2020, effective 02/05/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 7-2018, amend filed 05/30/2018, effective 06/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 1-2015, f. & cert. ef. 1-5-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 4-2011, f. & cert. ef. 7-1-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 3-2011(Temp), f. & cert. ef. 3-31-11 thru 9-26-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 1-2010, f. & cert. ef. 1-4-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 12-2009, f. & cert. ef. 10-1-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 6-2006, f. & cert. ef. 10-2-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 1-2006, f & cert. ef. 1-3-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 4-2005, f. & cert. ef. 4-1-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

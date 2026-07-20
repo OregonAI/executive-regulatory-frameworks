@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 222 STATIONARY SOURCE PLANT SITE EMISSION LIMITS 
+ 340-222-0048 
+ Baseline Period and Baseline Emission Rate 
+ 
+ (1) The baseline period used to calculate the baseline emission rate is either:  (a) For any regulated pollutant other than greenhouse gases and PM2.5, any consecutive 12 calendar month period during the calendar years 1977 or 1978. DEQ may allow the use of a prior time period upon a determination that it is more representative of normal source operation.  (b) For greenhouse gases, any consecutive 12 calendar month period during the calendar years 2000 through 2010.  (c) For a pollutant that becomes a regulated pollutant subject to OAR 340 division 224 after May 1, 2011, any consecutive 12 calendar month period within the 24 months immediately preceding the pollutant’s designation as a regulated pollutant if a baseline period has not been defined for the regulated pollutant.  (2) A baseline emission rate will be established only for those regulated pollutants subject to OAR 340 division 224.  (3) A baseline emission rate will not be established for PM2.5.  (4) The baseline emission rate for greenhouse gases, on a CO2e basis, will be established with the first permitting action issued after July 1, 2011, provided the permitting action involved a public notice period that began after July 1, 2011.  (5) For a pollutant that becomes a regulated pollutant subject to OAR 340 division 224 after May 1, 2011, the initial baseline emission rate is the actual emissions of that regulated pollutant during the baseline period.  (6) The baseline emission rate will be recalculated only under the following circumstances:  (a) For greenhouse gases, if actual emissions are reset in accordance with OAR 340-222-0051(3);  (b) If a material mistake or an inaccurate statement was made in establishing the production basis for the baseline emission rate;  (c) If a more accurate or reliable emission factor is available; or  (d) If emissions units that were previously not included in baseline emission rate must be included as a result of rule changes.  (7) The baseline emission rate is not affected if emission reductions are required by rule, order, or permit condition.  NOTE: This rule was moved verbatim from OAR 340-200-0020(13) and (14) and amended on 04-16-15. Previous rule history for OAR 340-200-0020: [DEQ 15-1978, f. & ef. 10-13-78; DEQ 4-1993, f. & cert. ef. 3-10-93; DEQ 47, f. 8-31-72, ef. 9-15-72; DEQ 63, f. 12-20-73, ef. 1-11-74; DEQ 107, f. & ef. 1-6-76; Renumbered from 340-020-0033.04; DEQ 25-1981, f. & ef. 9-8-81; DEQ 5-1983, f. & ef. 4-18-83; DEQ 18-1984, f. & ef. 10-16-84; DEQ 8-1988, f. & cert. ef. 5-19-88 (and corrected 5-31-88); DEQ 14-1989, f. & cert. ef. 6-26-89; DEQ 42-1990, f. 12-13-90, cert. ef. 1-2-91; DEQ 2-1992, f. & cert. ef. 1-30-92; DEQ 7-1992, f. & cert. ef. 3-30-92; DEQ 27-1992, f. & cert. ef. 11-12-92; DEQ 4-1993, f. & cert. ef. 3-10-93; DEQ 12-1993, f. & cert. ef. 9-24-93, Renumbered from 340-020-0145, 340-020-0225, 340-020-0305, 340-020-0355, 340-020-0460 & 340-020-0520; DEQ 19-1993, f. & cert. ef. 11-4-93; DEQ 20-1993(Temp), f. & cert. ef. 11-4-93; DEQ 13-1994, f. & cert. ef. 5-19-94; DEQ 21-1994, f. & cert. ef. 10-14-94; DEQ 24-1994, f. & cert. ef. 10-28-94; DEQ 10-1995, f. & cert. ef. 5-1-95; DEQ 12-1995, f. & cert. ef. 5-23-95; DEQ 22-1995, f. & cert. ef. 10-6-95; DEQ 19-1996, f. & cert. ef. 9-24-96; DEQ 22-1996, f. & cert. ef. 10-22-96; DEQ 9-1997, f. & cert. ef. 5-9-97; DEQ 14-1998, f. & cert. ef. 9-14-98; DEQ 16-1998, f. & cert. ef. 9-23-98; DEQ 21-1998, f. & cert. ef. 10-14-98; DEQ 1-1999, f. & cert. ef. 1-25-99; DEQ 6-1999, f. & cert. ef. 5-21-99]; DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-020-0205, 340-028-0110; DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01; DEQ 2-2005, f. & cert. ef. 2-10-05; DEQ 2-2006, f. & cert. ef. 3-14-06; DEQ 6-2007(Temp), f. & cert. ef. 8-17-07 thru 2-12-08; DEQ 8-2007, f. & cert. ef. 11-8-07; DEQ 10-2008, f. & cert. ef. 8-25-08; DEQ 5-2010, f. & cert. ef. 5-21-10; DEQ 10-2010(Temp), f. 8-31-10, cert. ef. 9-1-10 thru 2-28-11; Administrative correction 3-29-11; DEQ 5-2011, f. 4-29-11, cert. ef. 5-1-11; DEQ 7-2011(Temp), f. & cert. ef. 6-24-11 thru 12-19-11; Administrative correction, 2-6-12; DEQ 1-2012, f. & cert. ef. 5-17-12; DEQ 4-2013, f. & cert. ef. 3-27-13; DEQ 11-2013, f. & cert. ef. 11-7-13  NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, 468A.025, 468A.040 & 468A.310 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468A 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 7-2015, f. & cert. ef. 4-16-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

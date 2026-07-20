@@ -1,0 +1,404 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 253 OREGON CLEAN FUELS PROGRAM 
+ 340-253-0100 
+ Oregon Clean Fuels Program Applicability and Requirements
+ 
+ 
+ (1) Regulated parties. 
+
+ (a) All persons that produce in Oregon, or import into Oregon, any regulated fuel, other than fuels that become regulated fuels under OAR 340-253-0200(2)(g), must comply with the rules in this division; 
+
+ (b) For any fuel that becomes a regulated fuel under OAR 340-253-0200(2)(g): 
+
+ (A)  The owner of the compressor or fueling equipment at the facility where the fuel is dispensed for use in a motor vehicle must comply with the rules in this division; and 
+
+ (B) For fossil LPG dispensed for use in a forklift, the forklift fleet owner or operator must comply with the rules in this division; 
+
+ (c) The regulated parties for regulated fuels are designated under OAR 340-253-0310 and must comply with sections (4) through (8) below; 
+
+ (d) An out-of-state producer of ethanol, biodiesel, renewable diesel, alternative jet fuel, renewable natural gas, or renewable propane that is not an importer is not required to participate in the program. Any out-of-state producer that is not an importer who chooses voluntarily to participate in the program in order to initially generate credits from the volumes of their fuel that is imported into Oregon must comply with sections (4), (5), (7), (8), and (9) below; 
+
+ (e) Small importers of finished fuels are exempt from sections (6) and (7) below; and 
+
+ (f) Regulated parties must comply with OAR chapter 340, division 215. 
+
+ (2) Credit generators. 
+
+ (a) The following rules designate persons eligible to generate credits for each of the following fuel types: 
+
+ (A) OAR 340-253-0320 for compressed natural gas, liquefied natural gas, liquefied compressed natural gas, and liquefied petroleum gas, as provided in that rule; 
+
+ (B) OAR 340-253-0330 for electricity; 
+
+ (C) OAR 340-253-0340 for hydrogen fuel or a hydrogen blend; and 
+
+ (D) OAR 340-253-0350 for alternative jet fuel. 
+
+ (b) Any person eligible to be a credit generator, and that is not a regulated party, is not required to participate in the program. Any person who chooses voluntarily to participate in the program in order to generate credits must comply with sections (4), (5), (7), (8), and (9) below. 
+
+ (3) Aggregators. 
+
+ (a) Aggregators must comply with this section and sections (4), (5), (7), and (8) below. 
+
+ (b) A registered party may designate an aggregator to act on its behalf to facilitate credit generation and trade credits by submitting an Aggregator Designation Form. Aggregators may only register for the CFP once they have a complete and valid Aggregator Designation Form. Aggregators may only submit their own registration form to the CFP after a registered party has designated them as their aggregator through a complete and valid Aggregator Designation Form. When designated, the aggregator takes on the privileges and requirements of this division for the credit generator that has designated them. 
+
+ (c) This section does not apply to the Backstop Aggregator or Incremental Aggregators designated under OAR 340-253-0330(7). A registered party may also serve as an aggregator for others. When serving as an aggregator for another party, the aggregator and the designating party are both responsible for notifying DEQ when the aggregator’s authorization to act on behalf of a credit generator or regulated party has been withdrawn. Aggregator designations may only take effect at the start of the next full calendar quarter after DEQ receives such notice. Aggregator withdrawals may only take effect at the end of the currently open reporting period when DEQ receives such notice. 
+
+ (4) Registration. 
+
+ (a) A regulated party must update their organization’s registration in OFRS for each fuel type on or before the date upon which that party begins producing the fuel in Oregon or importing the fuel into Oregon. If they are not registered, they must submit their program registration under OAR 340-253-0500 prior to producing the fuel in Oregon or importing the fuel into Oregon. 
+
+ (b) A credit generator must submit a complete registration application to DEQ under OAR 340-253-0500 for each fuel type before it may generate credits for fuel produced, imported, or dispensed for use in Oregon. DEQ will not recognize credits allegedly generated by any person that does not have an approved, accurate and current registration. 
+
+ (c) An aggregator must submit a complete registration application to DEQ under OAR 340-253-0500 and an Aggregator Designation Form each time it enters into a new contract with a regulated party, a credit generator, or another aggregator to facilitate credit generation or trade credits. Any violations by the aggregator may result in enforcement against both the aggregator and the party it was designated to act on behalf of. 
+
+ (5) Records. Registered parties must develop and retain all records required by this division. 
+
+ (6) Clean fuel standards. Each registered party must comply with the following standards for all transportation fuel it produces in Oregon or imports into Oregon in each compliance period. Each registered party may demonstrate compliance in each compliance period either by producing or importing fuel that in the aggregate meets the standard or by obtaining sufficient credits to offset the deficits it has incurred for such fuel produced or imported into Oregon. 
+
+ (a) Table 1 under OAR 340-253-8010 establishes the Oregon Clean Fuel Standard for Gasoline and Gasoline Substitutes; and 
+
+ (b) Table 2 under OAR 340-253-8010 establishes the Oregon Clean Fuel Standard for Diesel and Diesel Substitutes. 
+
+ (7) Quarterly report. Each registered party must submit quarterly reports under OAR 340-253-0630, unless they are exempt under OAR 340-253-0250 (1)(b) or they are a credit generator solely registered for residential charging of electric vehicles. 
+
+ (8) Annual report. Each registered party must submit an annual report under OAR 340-253-0650. 
+
+ (9) Voluntary participation. The voluntary participation in the program by any person shall conclusively establish that person’s consent to be subject to the jurisdiction of the State of Oregon, its courts, and the administrative authority of DEQ to implement this program. If a person does not consent to such jurisdiction, then the person may not participate in the program. 
+
+ (10) Change of Ownership or Control. If a registered party undergoes a change of ownership or operational control, the following requirements apply: 
+
+ (a) Notification by previous owner. The previous owner or operator must notify DEQ in writing within 30 days of the ownership or operational control change and provide the following information: 
+
+ (A) Name of the previous owner or operator; 
+
+ (B) Name of the new owner or operator; 
+
+ (C) Date of the ownership or operational control change; 
+
+ (D) Name of previous account representatives pursuant to OAR 340-253-0500 for the affected entity’s account in OFRS; and 
+
+ (E) What the planned disposition of net credits in the previous owner’s OFRS account and/or the certified fuel pathways associated with the previous owner’s AFP account will be; 
+
+ (b) Notification by new owner. The new owner or operator must notify DEQ in writing within 30 days of the ownership or operational control change, including the following information: 
+
+ (A) Name of the previous owner or operator; 
+
+ (B) Name of the new owner or operator; 
+
+ (C) Date of ownership or operator change; and 
+
+ (D) Name of new account representatives pursuant to OAR 340-253-0500 for the affected entity’s account in OFRS; 
+
+ (c) The previous owner or operator remains the owner or operator of record until complete notices under both subsections (a) and (b) have been submitted; 
+
+ (d) Responsibilities for reporting. A single report must be submitted for an entire reporting period. Reported data must not be split or subdivided for a reporting period, based on ownership. Both the owner or operator of record at the time of a deadline specified in this division and the actual owner or operator at such time are responsible for complying with the reporting requirements of this division, if a required report is not submitted; and 
+
+ (e) Responsibility for net deficits. The new owner or operator is responsible for demonstrating compliance when filing the annual report under OAR 340-253-0650. 
+
+ (11) Withdrawal from the program or company dissolution. If a registered party no longer wants to participate in the program or is dissolved, the following requirements apply: 
+
+ (a) The registered party must submit a letter detailing the company name(s) and any CFP ID numbers associated with the company or companies; 
+
+ (b) If the registered party is registered as a large importer of finished fuels, it must: 
+
+ (A) Show through one full calendar year of reporting that it imported into Oregon 500,000 gallons or less of finished fuels; and 
+
+ (B) File an annual report for the last year of its registration. If the company will not be reporting to either the CFP or GHG Reporting Program going forward, it will be deactivated in the OFRS once the appropriate letter and filing has been submitted; 
+
+ (c) Responsibility of Credits. If a party dissolves or otherwise ceases to exist without notifying DEQ pursuant to this rule, then DEQ will assign to the Incremental Aggregator any net credits in the party’s account; 
+
+ (d) Responsibility of Deficits. Prior to dissolution or deregistration, a registered party is responsible for retiring credits equal to any net deficits in its OFRS account and fulfill account closure requirements; and 
+
+ (e) A registered party leaving the program must complete and file all required quarterly reports and an annual report for the year in which it leaves the program. 
+
+ (13) Bankruptcy. Deficits constitute regulatory obligations under Oregon law. 
+
+ (14) Inactivity. If a registered party does not have any fuel transactions reported in a calendar year, the party will: 
+
+ (a) Be deregistered from the program; 
+
+ (b) Have its account in OFRS deactivated within 30 days of deregistering; 
+
+ (c) Be able to re-register and have its account reactivated after having qualifying fuel transactions in Oregon; and 
+
+ (d) Give up any credits remaining in its OFRS account to the Incremental Aggregator. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, 468A.266, 468A.268 & 468A.277 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468.020 & ORS 468A.265 through 468A.277 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 17-2022, amend filed 09/23/2022, effective 01/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 7-2021, amend filed 03/26/2021, effective 03/26/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 14-2020, amend filed 05/07/2020, effective 05/07/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 199-2018, amend filed 11/16/2018, effective 01/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 27-2017, amend filed 11/17/2017, effective 11/17/2017 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 13-2015, f. 12-10-15, cert. ef. 1-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 3-2015, f. 1-8-15, cert. ef. 2-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 8-2014, f. & cert. ef. 6-26-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 15-2013(Temp), f. 12-20-13, cert. ef. 1-1-14 thru 6-30-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 8-2012, f. & cert. ef. 12-11-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

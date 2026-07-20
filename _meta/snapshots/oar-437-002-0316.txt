@@ -1,0 +1,197 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Oregon Occupational Safety and Health Division - Chapter 437 
+ 
+ 
+ 
+ 
+ Division 2 GENERAL OCCUPATIONAL SAFETY AND HEALTH RULES 
+ 437-002-0316 
+ Oregon Rules for Telecommunications 
+ 
+ (1) Application. This division sets forth safety and health standards that apply to the work conditions, practices, means, methods, operations, installations, and processes performed at telephone, TV cable, and other signaling equipment centers and installations, and at field installations used to transmit or control communication or other signals of the service supplier and may be located outdoors or in building spaces used for such field installations. “Center” work includes the installation, operation, maintenance, rearrangement, and removal of communications equipment and other associated equipment in telecommunications switching centers. “Field” work includes the installation, operation, maintenance, rearrangement, and removal of conductors and other equipment used for signal or communication service, and of their supporting or containing structures, overhead or underground on public or private rights of way, including buildings or other structures.  (2) Employee protection in public work areas.  (a) Before work is begun in the vicinity of vehicular or pedestrian traffic which may endanger employees, pedestrian and traffic control devices shall be provided for all operations on or adjacent to streets, alleys and walkways. The traffic control shall conform to the American National Standards Institute (ANSI) D6.1e-1989 Manual on Uniform Traffic Control Devices for Streets and Highways and the Oregon Department of Transportation’s Short Term Work Zones Manual. Where further protection is needed, barriers shall be utilized. At night, warning lights shall be prominently displayed, and excavated areas shall be enclosed with protective barricades.  (b) Once a work area has been established, it shall be the employer’s responsibility to provide adequate supervision and periodic surveillance to assure that the above requirements are met.  (3) Before work is performed on overhead lines, underground (such as in manholes), or in buried plants, the employer or designated representative shall make a complete evaluation of the work location to determine if a hazard exists or could be created in the performance of the work. The employer or designated representative shall determine from this evaluation, a safe procedure for performing the work and those means or methods shall be implemented before the work proceeds. Examples of possible worksite conditions that may be hazardous include, but are not limited to:  (a) Manhole, pit, and pole locations, street intersections, alleys and isolated areas;  (b) Weather and road conditions (such as ice, snow, and rain);  (c) Visibility;  (d) Time of day;  (e) Manhole atmosphere conditions (such as explosive gases, exhaust fumes, and oxygen deficiency);  (f) Jointly occupied manholes with foreign utilities; and  (g) Power hazards.  (4) All equipment, tools, and safety devices shall be installed, used and operated in accordance with the manufacturer’s recommendations and operating instructions and its listing or labeling.  (5) Rubber insulating equipment.  (a) Rubber insulating equipment designed for the voltage levels to be encountered shall be provided and the employer shall ensure that they are used by employees as required by OAR 437, Division 2/R, 1910.268, Telecommunications.  (b) Rubber insulating equipment shall meet the electrical and physical requirements contained in ASTM Standard D-120-87, “Standard Specifications for Rubber Insulating Gloves,” and ASTM Standard D 1048-88(a), “Standard Specifications for Rubber Insulating Blankets,” with the exception that:  (A) The maximum proof test current for a 14-inch Class I glove shall be no more than 14 mA; and with the further exception that:  (B) Existing 14-inch Class I rubber gloves that meet a maximum proof test current of 16 mA and a minimum breakdown voltage of 17,000 volts (RMS) acquired prior to July 1, 1975 may be used as long as these gloves comply with the retest requirements of paragraph (f)(5) of 1910.268.  (c) Patching rubber goods is prohibited; rubber protective equipment shall not be vulcanized or patched.  (d) Rubber gloves for workers. A pair of approved rubber gloves and bag shall be assigned to each worker when workers are required to work on or be exposed to energized parts.  (6) Equipment.  (a) Ladder hooks. When ladder hooks are engaged the safety straps shall be lashed around the top rung and strand or otherwise secured to the strand.  (b) Chain saw usage.  (A) Chain saws shall be inspected prior to use and kept in good repair at all times. Saws with defective parts shall not be used.  (B) Chain saw engines shall be shut off while being fueled.  (C) Chain saws shall be equipped with an automatic throttle control which will return the engine to idling speed upon release of the throttle.  (D) All employees using chain saws shall wear flexible ballistic nylon pads or other equivalent protection sewn or otherwise fastened to the trousers, which will protect the legs from the thigh to below the knee, except when working from an aerial lift device.  (E) Chain saws shall not be brought into a bucket or work platform of an aerial lift device. Saws shall be carried on the outside of the aerial lift device. Chain saws shall be started and used only outside of the aerial lift device.  (7) Training. The employer shall see that employees who operate derricks and cranes are properly trained as required in OAR 437, Division 2/N, OAR 437-002-0229(2), Crane Operator Training Requirements.  (8) Handling poles near energized power conductors.  (a) Insulating gloves shall be worn when handling the pole with either hands or tools, when there exists a possibility that the pole may contact a power conductor. Where the voltage to the ground of the power conductor exceeds 15kV to ground, Class II gloves (as defined in ASTM D1048-88a shall be used. For voltages not exceeding 15kV to ground, insulating gloves shall have a breakdown voltage of at least 17kV.  (b) The guard or insulating material used to protect the pole shall meet the appropriate 3 minute proof test voltage requirements contained in ASTM D 1048-88a.  (9) Fiber optic/lightwave transmission.  (a) Only qualified employees shall install, service, maintain or use lightwave test equipment.  (b) Employees shall avoid eye exposure to emissions from unterminated energized optical connectors.  (c) Employees shall not look into vacant regenerator slots with an optical instrument.  (d) Employees should not examine or look into broken, severed, or disconnected fiber optic cables.  (e) Lightwave emissions may only be viewed with an indirect image converting device.  (f) Microscopes, magnifying glasses and eye loupes shall not be used to examine energized fiber optic cables.  (g) Lightguide terminals must be tagged “Do Not Energize” when splicing technicians are restoring a damaged system.  (10) Reserved.  (11) Additional definitions in Oregon.  (a) “Clearance:"  (A) For working on, means the certification by the property authority that a specified line or piece of equipment is deenergized; that the proper precautionary measures have been taken and that the line or equipment is being turned over to the workers.  (B) From hazard, means adequate separation or protection by the use of protective devices to prevent accidental contact by persons or objects on approach to a point of danger.  (b) “Climbing space” — The vertical space reserved along the side of poles or structures to permit ready access for linemen to equipment and conductors located on poles or structures.  (c) “Communication plant” — The conductors and their associated equipment required to provide public or private signals or communicative service.  (d) “Competent or qualified person” — A person who is familiar with the construction of, or operation of, such lines and/or equipment that concerns his or her position and who is fully aware of the hazards connected therewith or one who has passed a journeyman’s examination for the particular branch of the trades with which he or she may be connected.  (e) “Emergency” — When an unusual condition exists that endangers life and/or property.  (f) “Foreman or Person-in-charge” — That person directly in charge of workers doing the work regardless of title.  (g) “Grounding” — The act of placing shorts and grounds on conductors and equipment for the purpose of protecting workers from dangerous voltages while working on such lines or equipment.  (h) “Guard or guarded” — Covered, shielded, fenced, enclosed, or otherwise protected by means of suitable covers, casings, barriers, rails, screens, mats, platforms, or warning signs or devices which are suitable to remove the possibility of dangerous contact on approach by other persons or objects to a point of danger.  (i) “Manlift equipment” — Such types of portable truck-mounted equipment as mechanical, electric or hydraulic ladders and boom-mounted buckets or cages.  (j) “Protection from hazardous voltage” — The isolation from or deenergizing of equipment to prevent accidental contact by persons or objects on approach to point of danger.  (k) “Protective devices” — Those devices such as rubber gloves, rubber blankets, line hose, rubber hoods or other insulating devices, which are specially designed for the protection of workers.  (l) “Public highway” — Land, road, street, boulevard, and every way or place in the state open as matter of right to public vehicular travel, both inside and outside the limit of cities and towns.  (m) “Sheath” — As applied to sharp tools, a case that effectively covers the tool.  (n) “Voltage communications” — Voltage used for electronic communications equipment to which workers or protective equipment may be subjected.  (A) “High” — Over 600 volts to ground — RMS AC or DC or over 1,000 volts RMS across bare parts.  (B) “Medium high” — 151 to 600 volts to ground — RMS AC or DC or 301 to 1,000 volts RMS AC across any bare parts.  (o) “Voltage electric supply” — The maximum effective line voltage to which the workers or protective equipment may be subjected.  (A) “Low” — Includes voltages from 100 to 600 volts.  (B) “High” — Those voltages in excess of 600 volts. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 654.025(2) & 656.726(3) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 654.001 - 654.295 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSHA 3-1999, f. & cert. ef. 4-30-99 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OSHA 2-1999, f. & cert. ef. 4-30-99 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OSHA 1-1996, f. & cert. ef. 2-16-96 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OSHA 11-1993, f. 8-4-93, cert. ef. 10-1-93 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

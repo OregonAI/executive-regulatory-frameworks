@@ -1,0 +1,405 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Workers' Compensation Division - Chapter 436 
+ 
+ 
+ 
+ 
+ Division 50 EMPLOYER/INSURER COVERAGE RESPONSIBILITY 
+ 436-050-0210 
+ Notice of Self-Insurer’s or Service Company's Place of Business in State; Records Self-Insured Must Maintain
+ 
+ 
+ (1) Oregon claims processing location required. Except as described in section (4) of this rule and OAR 436-050-0230, every self-insured employer must establish and maintain at least one designated Oregon claims processing location as required by ORS 656.455, subject to the following: 
+
+ (a) The self-insured employer must conduct all claims processing activities necessary to meet the requirements of ORS chapter 656 and OAR chapter 436 from its designated claims processing locations, including, but not limited to: 
+
+ (A) Processing claims; 
+
+ (B) Making available all records required under OAR 436-050-0220; and 
+
+ (C) Responding to specific claims processing inquiries; 
+
+ (b) At the director’s request, the self-insured employer must: 
+
+ (A) Make claims processing locations accessible during regular business hours or other reasonable times to accommodate periodic audits and examination of records; or 
+
+ (B) Provide the director electronic access to the records to be audited or examined. 
+
+ (c) The self-insured employer may process claims subject to ORS chapter 656 remotely. As used in this subsection, to “process claims remotely” means to process claims outside of a self-insured employer’s Oregon claims processing location, including at the place of residence of an employee of the employer, as directed from the Oregon claims processing location. 
+
+ (A) The self-insured employer may not process claims at places of business outside of Oregon that are maintained or operated by the employer or a service company, except as follows: 
+
+ (i) The self-insured employer may receive claims reports at locations outside of the state if claims are forwarded to an Oregon claims processing location for processing; 
+
+ (ii) Payments may be made from outside of Oregon as directed from the Oregon claims processing location; and 
+
+ (iii) The self-insured employer may, with prior approval of the director, have one location, in or out of state, for maintaining payroll records pertaining to premium assessments and other assessments and contributions. 
+
+ (B) The director may suspend a self-insured employer’s authority to process claims remotely from its designated claims processing locations, subject to the following: 
+
+ (i) The director may suspend a self-insured employer’s authority to process claims remotely when: 
+
+ (I) The director finds the self-insured employer has repeatedly violated ORS chapter 656 or OAR chapter 436; and 
+
+ (II) The director has reason to believe that the violations are related to the self-insured employer’s practice of processing claims remotely. 
+
+ (ii) The director will not suspend a self-insured employer’s authority to process claims remotely until the employer has been given notice and the opportunity to be heard through a show-cause hearing with the director. During the show-cause hearing, the employer will be provided an opportunity to: 
+
+ (I) Present evidence regarding the proposed order to suspend the self-insured employer’s authority to process claims remotely; and 
+
+ (II) Give reason why the employer should be permitted to continue processing claims remotely. 
+
+ (iii) If the director suspends a self-insured employer’s authority to process claims remotely, the employer may not process claims remotely for a specified period of time, up to two years. 
+
+ (iv) The self-insured employer may request the director restore its authorization by submitting a plan demonstrating its ability and commitment to comply with ORS chapter 656 and OAR chapter 436. 
+
+ (v) A proposed and final order of suspension issued under this rule is a preliminary order subject to revision by the director, and may be appealed under OAR 436-050-0008. 
+
+ (2) Notice of self-insured employer’s claims processing location. The self-insured employer must give the director notice of its designated claims processing locations, subject to the following: 
+
+ (a) The notice must be provided upon application for certification as a self-insured employer; and 
+
+ (b) The notice must identify: 
+
+ (A) The self-insured employer’s principal place of business, including its street and mailing addresses, telephone number, and a general email address that is monitored on a regular basis, where the director can direct general inquiries; 
+
+ (B) Contact information for a designated person or position within the company who will assure payment of penalties and resolution of collections issues; 
+
+ (C) If the self-insured employer uses more than one claims processing location, or locations operated by service companies as described in section (4) of this rule: 
+
+ (i) The name of each service company, if applicable; 
+
+ (ii) The street and mailing addresses of each claims processing location; and 
+
+ (iii) The name, title, phone number, and email address of a contact person at each claims processing location; and 
+
+ (D) Any other information requested by the director; and 
+
+ (c) The information provided under this section must reasonably lead an inquirer to an Oregon certified claims examiner who can respond to inquiries regarding workers’ compensation policies, claim filing, claims processing, and claims processing location information within 48 hours, not including weekends or legal holidays. 
+
+ (3) Changes in place of business. The self-insured employer must notify the director of a change in any of the information required under section (2) of this rule, subject to the following: 
+
+ (a) The notice must be filed at least 30 days before the effective date of the change; and 
+
+ (b) The self-insured employer may use Form 5188, “Insurer Contact Update,” to satisfy the requirements of this section. 
+
+ (4) Service companies. In lieu of, or in addition to, establishing its own claims processing locations in this state, the self-insured employer may use Oregon claims processing locations operated by service companies to satisfy the requirements of section (1) of this rule. If an employer elects to use claims processing locations operated by one or more service companies with respect to all or any portion of its business: 
+
+ (a) Each service company must be incorporated in or authorized to do business in Oregon; 
+
+ (b) The self-insured employer must provide the director with a copy of the service agreement between the employer and each service company for approval. The director must approve the service agreement before the service company begins processing the employer’s Oregon claims, regardless of the agreement’s effective date. To be approved, the service agreement must: 
+
+ (A) Be an agreement for claims processing services between the self-insured employer and a service company, and must not be between any other third parties; 
+
+ (B) Identify the self-insured employer by name, and specify the employer’s legal or assumed business name as registered with the Oregon Secretary of State; 
+
+ (C) Identify the service company by name; 
+
+ (D) Describe the claims processing services to be provided; 
+
+ (E) Identify the effective date of the agreement; 
+
+ (F) Identify the termination date of the agreement, if any; 
+
+ (G) Grant the service company a power of attorney to act for the self-insured employer in workers’ compensation coverage and claims proceedings under ORS chapter 656, subject to the following: 
+
+ (i) The power of attorney must be effective the same date of the service agreement; 
+
+ (ii) The power of attorney must not be revocable before all claims processing services provided under the service agreement have concluded; 
+
+ (iii) The power of attorney must be applicable to all claims processed under the agreement, and may not have unspecified limitations; and 
+
+ (iv) The service agreement must use language that clearly grants power of attorney to the service company, such as the words “power of attorney” or “attorney-in-fact”; and 
+
+ (H) Contain only those provisions for workers’ compensation activities that are allowed in Oregon; subject to the following: 
+
+ (i) The director may approve an agreement that contains provisions for activities not allowed in Oregon if the agreement or an addendum provides that any services or provisions not allowed under Oregon workers’ compensation law will not be applied when processing Oregon claims; and 
+
+ (ii) The director may require existing agreements that contain provisions for activities not allowed in Oregon to be amended accordingly; 
+
+ (c) Each service company must notify the division of its business in Oregon, subject to the following: 
+
+ (A) The notice must include the service company’s location, mailing address, telephone number, email address, and any other contact information requested by the director; 
+
+ (B) The notice must be filed before the self-insured employer begins using a place of business operated by the service company as a claims processing location; and 
+
+ (C) The service company may use Form 4929, “Service Company’s Notification of Business in Oregon,” to satisfy the requirements of this subsection; and 
+
+ (d) The self-insured employer or service company must notify the director of a change in any of the information required under (4)(c) of this rule, subject to the following: 
+
+ (A) The notice must be filed at least 30 days before the effective date of the change; and 
+
+ (B) The self-insured employer or service company may use Form 5215, “Service Company Contact Update,” to satisfy the requirements of this subsection. 
+
+ (5) Limit on claims processing locations. The self-insured employer may not have more than three claims processing locations at any time. For the purposes of this section: 
+
+ (a) Each of the following is considered to be one claims processing location: 
+
+ (A) Each physical location where the self-insured employer processes claims or maintains records; and 
+
+ (B) Each physical location where a service company processes the self-insured employer’s claims or maintains records; and 
+
+ (b) If more than one entity, including the self-insured employer or a service company, processes claims at the same physical location, each entity must be counted as a separate claims processing location. 
+
+ (6) Change in claims processing locations. If a self-insured employer intends to change the location where claims are processed or records of claims are stored, the self-insured employer must, at least 10 days before the change is effective: 
+
+ (a) Provide notice of the change to any worker, the estate of any deceased worker, or any worker’s beneficiary with an open or active claim that will be processed at the new location, subject to the following: 
+
+ (A) The notice must include contact information for the new claims processing location, including the name and title of a contact person, telephone number, email address, and mailing address; and 
+
+ (B) The self-insured employer must send a copy of the notice to the worker’s attorney, if the worker is represented, and to the worker’s attending physician. 
+
+ (b) Provide notice of the change to the director, subject to the following: 
+
+ (A) The notice must include: 
+
+ (i) Contact information for the current claims processing location, including the name of the claims processor, the name and title of a contact person, mailing address, telephone number, and email address; 
+
+ (ii) Contact information for the new claims processing location, including the name of the claims processor, the name and title of a contact person, street and mailing address, if different, telephone number, and email address; 
+
+ (iii) The effective date of the transfer; and 
+
+ (iv) Any other information requested by the director; and 
+
+ (B) The notice must specify if all or a portion of the self-insured employer’s claims will be transferred, and if closed and denied claims will be included. If only a portion of the employer’s claims will be transferred, the notice must include a listing of the claims being transferred that identifies, for each claim: 
+
+ (i) The claimant’s name; 
+
+ (ii) The date of injury; and 
+
+ (iii) The sending processor’s claim number; and 
+
+ (c) The self-insured employer may use Form 5042, “Claim Move Notice,” to satisfy the requirements of this section. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 656.455 & ORS 656.726(4) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 656.455 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 4-2025, amend filed 11/13/2025, effective 01/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 7-2022, amend filed 11/07/2022, effective 01/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 18-2021, amend filed 12/13/2021, effective 01/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 20-2018, amend filed 11/15/2018, effective 01/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 5-2016, f. 11-28-16, cert. ef. 1-1-17 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ WCD 6-2012, f. 10-4-12, cert. ef. 1-1-13 
+WCD 1-2008, f. 6-13-08, cert. ef. 7-1-08 
+WCD 12-2003, f. 12-4-03, cert. ef. 1-1-04 
+WCD 5-2001, f. 6-22-01, cert. ef. 7-1-01 
+WCD 9-1996, f. 3-11-96, cert. ef. 4-1-96 
+WCD 7-1989, f. 12-22-89, cert. ef. 1-1-90 
+WCD 9-1987, f. 12-18-87, cert. ef. 1-1-88 
+WCD 9-1985, f. 12-12-85, cert. ef. 1-1-86 
+WCD 5-1985, f. 12-10-85, cert. ef. 1-1-86, Renumbered from 436-051-0330 
+WCD 7-1983, f. 12-22-83, cert. ef. 12-27-83 
+WCD 4-1982, f. 2-10-82, cert. ef. 2-15-82 
+WCD 3-1980, f. & cert. ef. 4-2-80 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

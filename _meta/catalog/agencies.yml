@@ -6,7 +6,7 @@ note: 'Canonical registry of Oregon agencies and their sub-units, keyed on the O
   and dropped after review (2026-07-18/19). validate_frontmatter.py requires every content file''s agency:
   field to resolve to ''statewide'', ''external'', or a slug here.'
 source_url: https://oregon.public.law/rules
-retrieved: '2026-07-19'
+retrieved: '2026-07-20'
 organizations:
 - slug: appraiser-certification-and-licensure-board
   name: Appraiser Certification and Licensure Board
@@ -736,6 +736,16 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_339
   parent_slug: null
   parent_chapter: null
+- slug: office-of-training-investigations-and-safety
+  name: Office of Training, Investigations and Safety
+  oar_chapter: '419'
+  parent_chapter: null
+  parent_slug: null
+  raw_index_name: null
+  source_url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=419-110-0000
+  manual: true
+  note: Chapter absent from oregon.public.law's index (mirror gap); name verbatim from the OARD rule-page
+    header. Discovered via renumbering redirects during the 2026-07 mass OAR import.
 - slug: oregon-529-savings-board
   name: Oregon 529 Savings Board
   oar_chapter: '173'
@@ -855,6 +865,17 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_943
   parent_slug: null
   parent_chapter: null
+- slug: oregon-health-authority-equity-and-inclusion-division
+  name: Oregon Health Authority Equity and Inclusion Division
+  oar_chapter: '950'
+  parent_chapter: '943'
+  parent_slug: oregon-health-authority
+  raw_index_name: null
+  source_url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=950-030-0000
+  manual: true
+  note: Chapter absent from oregon.public.law's index (mirror gap); name verbatim from the OARD rule-page
+    header (name's own prefix ties it to OHA, parent per that prefix). Discovered via renumbering redirects
+    during the 2026-07 mass OAR import.
 - slug: oregon-health-authority-health-licensing-office
   name: Oregon Health Authority, Health Licensing Office
   oar_chapter: '331'

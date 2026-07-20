@@ -1,0 +1,235 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 317 CORPORATION EXCISE TAX ACT OF 1929: RULES AND GENERAL PROVISIONS 
+ 150-317-0600 
+ Limitations on Deduction of Group Losses
+ 
+ 
+ (1) Oregon has adopted the provisions of IRC Section 1503(f) that apply to corporations filing consolidated returns and limit the use of group losses to offset income of a subsidiary paying dividends on preferred stock. 
+
+ (2) The new limitations apply in tax years ending after November 17, 1989. 
+
+ (3) Only the income or losses of those corporations included in the Oregon consolidated return will be included in the computation of the “group losses” and “separately computed taxable income.” 
+
+ (4) Oregon modifications that apply should be made prior to computing “group losses,” and “separately computed taxable income.” 
+
+ (5) The following examples demonstrate the application of the limitation for Oregon: 
+
+ 
+ Example 1: An affiliated group filing a consolidated federal return consists of Corporation P (the parent corporation) and Corporations R and S (subsidiaries of P). All three corporations are unitary and the consolidated Oregon apportionment percentage is 50 percent. Corporation S issues IRC Section 1504(a)(4) preferred stock. In 1991, Corporation P has federal income of $900 and an Oregon addition modification of $100. Corporation R has a federal loss of $1,500 with no Oregon modifications. Corporation S has federal “separately computed taxable income” of $1,000, no Oregon modifications, and pays a dividend of $900 on the preferred stock. For both federal and Oregon purposes, R’s loss is a group loss. It can be offset against P’s Oregon net income of $1,000 leaving a balance of $500. The $500 balance of R’s loss can be offset against S’s net income to the extent it was not distributed to preferred stockholders ($100). The remaining $400 cannot be deducted in 1991. Therefore, the Oregon consolidated taxable income of the group is computed as follows: [See PDF link below.] 
+
+ Example 2: Assume the same facts as in Example 1, except that corporations R and S are unitary but P is not. Without corporation P in the consolidated Oregon return, the Oregon apportionment percentage increases to 75 percent. In this case, R’s loss cannot be offset against P’s income since they are not unitary. Corporation R’s loss can only be offset against S’s net income to the extent it was not distributed to preferred stockholders ($100). Therefore, $1,400 of the loss cannot be deducted in 1991 and the Oregon consolidated taxable income of the group would be computed as follows: [See PDF link below.] 
+ 
+
+ [Publications: The publication(s) referred to or incorporated by reference in this rule is available from the Department of Revenue pursuant to ORS 183.360(2) and ORS 183.355(6).] 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 
+ 
+ 
+ Statutes/Other Implemented:  ORS 317.713 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 82-2017, minor correction filed 12/28/2017, effective 12/28/2017 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 55-2017, f. & cert. ef. 8-3-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 150-317.713, REV 69-2016, f. 8-15-16, cert. ef. 9-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RD 9-1992, f. 12-29-92, cert. ef. 12-31-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RD 7-1991, f. 12-30-91, cert. ef. 12-31-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

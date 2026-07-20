@@ -1,0 +1,445 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Water Resources Department 
+ Chapter 690 
+ 
+ 
+ 
+ 
+ 
+ Division 200 WATER SUPPLY WELL CONSTRUCTION STANDARDS: INTRODUCTION, GENERAL STANDARDS, AND DEFINITIONS 
+ 690-200-0050 
+ Definitions
+ 
+ 
+ The Water Resources Commission uses the definitions of the words listed below in the administration and enforcement of Oregon's Ground Water Law and the Rules and Regulations for the Construction and Alteration of Wells. No other definitions of these same words apply:  
+
+ (1) "Abandonment, Permanent" means to remove a well from service by completely filling it in such a manner that vertical movement of water within the well bore and within the annular space surrounding the well casing, is effectively and permanently prevented. If a portion of a well is to be abandoned in order to prevent commingling, waste, or loss of artesian pressure, the abandonment shall conform with the requirements of OAR chapter 690, division 220 for water supply wells. This term is synonymous with "decommission."  
+
+ (2) "Abandonment, Temporary" means to remove a drilling machine from a well site after completing or altering a well provided the well is not immediately put into service, or to remove a well from service with the intent of using it in the future.  
+
+ (3) "Access Port" means a minimum 1/2-inch tapped hole and plug, a 1/2-inch capped pipe welded onto the casing in the upper portion of a water supply well, or a dedicated measuring tube to permit unobstructed entry to determine the water level in the well at any time.  
+
+ (4) "Air Gap" means a complete physical break between the outlet end of the discharge pipe or other conduit and the discharged substance. The break shall be at least twice the inside diameter of the pipe or conduit. (Back-siphon prevention)  
+
+ (5) "Airline" means a water level measuring device consisting of a pressure gauge attached to an airtight line or pipe of known length, within the water supply well bore, extending from land surface to below the pumping level. The device will allow the water level to be computed by measuring the stable air pressure remaining in the line after completely purging water from within the line.  
+
+ (6) "Air/Vacuum Relief Valve" means a device to automatically relieve or break vacuum. (Back-siphon prevention).  
+
+ (7) "Altering a Well" means the deepening, hydrofracturing, re-casing, perforating, re-perforating, installation of packers or seals, and any other material change in the design or construction of a well. Material changes include but are not limited to casing installation or modification including casing extensions, installation or modification of liner pipe, reaming or under reaming of the borehole, pitless unit installation or re-sealing except for re-sealing performed during pitless adapter installation.  
+
+ (8) "Annular Space" means the space between the drillhole wall and the outer well casing.  
+
+ (9) "Aquifer" means a geologic formation, group of formations, or part of a formation that contains saturated and permeable material capable of transmitting water in sufficient quantity to supply wells or springs and that contains water that is similar throughout in characteristics such as potentiometric head, chemistry, and temperature (see Figure 200-2).  
+
+ (10) "Artesian Aquifer" means a confined aquifer in which groundwater is under sufficient head to rise above the level at which it was first encountered, whether or not the water flows at land surface. If the water level stands above land surface, the well is a flowing artesian well (see Figure 200-2).  
+
+ (11) "Artesian Water Supply Well" means a water supply well in which groundwater is under sufficient pressure to rise above the level at which it was first encountered, whether or not the water flows at land surface. If the water level stands above land surface the well is a flowing artesian water supply well.  
+
+ (12) "Automatic Low-Pressure Drain" means a self-activating device designed and constructed to intercept incidental leakage and drain that portion of an irrigation pipeline or any other method of conveyance whose contents could potentially enter the water supply when operation of the irrigation system pumping plant fails or is shut down. (Back-siphon prevention).  
+
+ (13) "Back-Siphon Prevention Device" means a safety device used to prevent water pollution or contamination by preventing flow of a mixture of water and/or chemicals in the opposite direction of that intended. (Back-siphon prevention)  
+
+ (14) "Bored Well" means a well constructed with the use of earth augers turned either by hand or by power equipment.  
+
+ (15) "Buried Slab Type Well" means a dug well in which well casing is used to case the upper hole. A slab, sealed with cement grout, is placed between the upper hole and lower drillhole, and the remainder of the annulus is filled with concrete.  
+
+ (16) "Casing" means the outer tubing, pipe, or conduit, welded or thread coupled, and installed in the borehole during or after drilling to support the sides of the well and prevent caving. Casing can be used, in conjunction with proper seal placement, to shut off water, gas, or contaminated fluids from entering the hole, and to prevent waste of groundwater.  
+
+ (17) "Casing Seal" means the water tight seal established in the well bore between the well casing and the drillhole wall to prevent the inflow and movement of surface water or shallow groundwater in the well annulus, or to prevent the outflow or movement of water under artesian or hydrostatic pressures. This term is synonymous with “annular seal” or “surface seal”  
+
+ (18) "Check Valve" means a certified device designed and constructed to close a water supply pipeline, chemical injection line, or other conduit in a chemigation system to prevent reverse flow in that line. (Back-siphon prevention).  
+
+ (19) "Chemigation" means the method of applying agricultural chemicals and fertilizer through an irrigation system.  
+
+ (20) "Clay" means a fine-grained, inorganic material having plastic properties and with a predominant grain size of less than 0.002 mm.  
+
+ (21) "Commission" means the Oregon Water Resources Commission.  
+
+ (22) "Committee" means the Oregon Ground Water Advisory Committee created by ORS 536.090.  
+
+ (23) "Community Well" means a water supply well, whether publicly or privately owned, which serves or is intended to serve more than three connections for residences or other connections for the purpose of supplying water for drinking, culinary, or household uses.  
+
+ (24) "Confined Animal Feeding or Holding Area" means the concentrated confined feeding or holding of animals or poultry, including but not limited to horse, cattle, sheep, swine, and dairy confinement areas, slaughterhouse or shipping terminal holding pens where the animal waste is allowed to build up on the ground. Pastures and areas adjacent to buildings where animals and animal waste is confined by a physical barrier such as concrete are exempt.  
+
+ (25) "Confining Interval "means a low permeability material such as clay or solid, unfractured, consolidated rock immediately overlying an artesian (confined) aquifer (see Figure 200-2).  
+
+ (26) "Consolidated Formation" means materials that have become firm through natural rock-forming processes. It includes, but is not limited to, such materials as basalt, sandstone, shale, hard claystone, and granite.  
+
+ (27) "Contamination" means an impairment of water quality by chemicals, radionuclides, biologic organisms or other extraneous matter whether or not it affects the potential or intended beneficial use of water.  
+
+ (28) "Continuing Education" means that education required as a condition of licensure under ORS 537.747, to maintain the skills necessary for the protection of groundwater, the health and general welfare of the citizens of Oregon and the competent practice of the construction, alteration, abandonment, conversion, and maintenance of water supply wells, monitoring wells, and geotechnical holes.  
+
+ (29) "Continuing Education Committee" means the Well Constructor Continuing Education Committee authorized under Chapter 496, Oregon Laws 2001 (ORS 537.765).  
+
+ (30) "Continuing Education Course" means a formal offering of instruction or information to licensee’s that provides continuing education credits.  
+
+ (31) "Continuing Education Credit" (CEC) means a minimum of 50 minutes of instruction or information approved by the Continuing Education Committee.  
+
+ (32) "Converting" a well means changing the use of an existing well or hole not previously used to either withdraw or monitor water such that the well or hole can be used to either withdraw or monitor water.  
+
+ (33) "Deepening a well" means extending the well bore of an existing well through previously undisturbed native material. Deepening is a type of alteration.  
+
+ (34) "Department" means the Oregon Water Resources Department.  
+
+ (35) "Director" means the Director of the Department or the Director's authorized representatives.  
+
+ (36) "Documentation of Completion" means written evidence or documentation demonstrating attendance and completion of a continuing education course, including but not limited to: a certificate of completion, diploma, transcript, certified class roster, or other documentation as approved by the Continuing Education Committee.  
+
+ (37) "Domestic Well" means a water supply well used to serve no more than three residences for the purpose of supplying water for drinking, culinary, or household uses, and which is not used as a public water supply.  
+
+ (38) "Drawdown" means the difference in vertical distance between the pumping level and the static water level in a well.  
+
+ (39) "Drive Point Well" means a well constructed by driving into the ground a well-point fitted to the end of a pipe section or series of pipe sections.  
+
+ (40) "Dug Well" means a well in which the excavation is made by the use of digging equipment such as backhoes, clam shell buckets, or sand buckets. (See Hand dug well).  
+
+ (41) "Excavation" means a free-standing cavity with greater width than depth constructed in the earth's surface which has a primary purpose other than seeking water or water quality monitoring.  
+
+ (42) "Figure", when used herein, refers to an illustration and is made a part of the primary article and section by reference.  
+
+ (43) "Filter Pack Well" means a well in which the area immediately surrounding the well screen or perforated pipe within the water-producing zone is filled with graded granular material.  
+
+ (44) "Geologic Formation" means an igneous, sedimentary, or metamorphic material that is relatively homogeneous and is sufficiently recognized as to be distinguished from the adjacent material. The term is synonymous with "formation."  
+
+ (45) "Geologist" means an individual registered by the State of Oregon to practice geology.  
+
+ (46) "Geotechnical hole" means a hole constructed to collect or evaluate subsurface data or information, monitor movement of landslide features, or to stabilize or dewater landslide features. Geotechnical holes are not monitoring wells or water supply wells as defined below. Various classes and examples of geotechnical holes are listed in OAR 690-240-0035(6)-(9).  
+
+ (47) "Grout" means approved cement, concrete, or bentonite sealing material used to fill an annular space of a well or to abandon a well.  
+
+ (48) "Grout Pipe" means a pipe which is used to place grout at the bottom of the sealing interval of a well.  
+
+ (49) "Hand dug well" means a well in which the excavation is only made by the use of picks, shovels, spades, or other similar hand operated implements. (See Dug Well).  
+
+ (50) "Hazardous Materials Training" means training as defined by OAR 437-002-0100 Adoption by Reference Subdivision H Hazardous Materials 1910.120 Hazardous Waste Operations and Emergency Response.  
+
+ (51) "Hazardous Waste" means a substance as defined by ORS 466.005.  
+
+ (52) "Hazardous Waste Disposal Site" means a geographical site in which or upon which hazardous waste is disposed.  
+
+ (53) "Hazardous Waste Storage Site" means the geographical site upon which hazardous waste is stored.  
+
+ (54) "Hazardous Waste Treatment Site" means the geographical site upon which or a facility in which hazardous waste is treated.  
+
+ (55) "Health Hazard" means a condition where there are sufficient concentrations of biological, chemical, or physical, including radiological, contaminants in the water that are likely to cause human illness, disorders, or disability. These include but are not limited to, naturally occurring substances, pathogenic viruses, bacteria, parasites, toxic chemicals, and radioactive isotopes. Sufficient concentrations of a contaminant include but are not limited to contaminant levels set by the Oregon Department of Environmental Quality and Oregon Health Division.  
+
+ (56) "Health Threat" means a condition where there is an impending health hazard. The threat may be posed by, but not limited to: a conduit for contamination, or a well affecting migration of a contaminant plume, or the use of contaminated water. A well in which the construction is not verified by a water supply well report or geophysical techniques may be considered a conduit for contamination in certain circumstances. Those circumstances include, but are not limited to: an unused and neglected well or a well for which no surface seal was required. A well in which the casing seal, sanitary seal, or watertight cap has failed, or was inadequately installed may be considered a conduit for contamination.  
+
+ (57) "Horizontal Well" means a well that intentionally deviates more than 20 degrees from true vertical at any point.  
+
+ (58) "Hydrofracturing" means the use of high pressure liquid, sand, packers or other material to open or widen fractures in consolidated formations for the purpose of increasing well yield.  
+
+ (59) "Hydrologic Cycle" is the general pattern of water movement by evaporation from sea to atmosphere, by precipitation onto land, and by return to sea under influence of gravity.  
+
+ (60) "Inspection Port" means an orifice or other viewing device from which the low-pressure drain and check valve may be observed.  
+
+ (61) "Jetted Well" means a well in which the drillhole excavation is made by the use of a high velocity jet of water.  
+
+ (62) "Leakage" means movement of surface and/ or subsurface water around the well casing or seal.  
+
+ (63) "Liner Pipe" means the inner tubing, pipe, or conduit installed inside the well casing or lower well bore. The liner pipe is used to protect against caving formations and is not permanently affixed to the drillhole wall or casing.  
+
+ (64) "Lower Drillhole" means that part of the well bore extending below the casing seal interval in a well.  
+
+ (65) "Mineralized Water" means any naturally occurring groundwater containing an amount of dissolved chemical constituents limiting the beneficial uses to which the water may be applied.  
+
+ (66) "Monitoring Well" means a well designed and constructed to determine the physical (including water level), chemical, biological, or radiological properties of groundwater.  
+
+ (67) "Monitoring Well Constructor" means any person who has a current monitoring well constructor’s license.  
+
+ (68) "Monitoring Well Constructor's License" means a Water Well Constructor's License with a monitoring well endorsement issued in accordance with ORS 537.747(3) or with a monitoring well temporary authorization endorsement issued in accordance with ORS 537.747 (3), ORS 670.400, and ORS 670.403. 
+
+ (69) "Municipal or Quasi-Municipal Well" means a water supply well owned by a municipality or nonprofit corporation that may be used as a community or public water supply.  
+
+ (70) "Order" means any action satisfying the definition given in ORS Chapter 183 or any other action so designated in ORS 537.505 to 537.795.  
+
+ (71) "Other Hole" means a hole other than a water supply well, a monitoring well, or geotechnical hole, however constructed, in naturally occurring or artificially emplaced earth materials, through which groundwater can become contaminated. Holes constructed under ORS Chapters 517, 520, and 522 are not subject to these rules. Other holes are regulated under OAR 690-240. Examples of other holes are listed in 690-240-0030.  
+
+ (72) "Perched Groundwater" means groundwater held above the regional or main water table by a less permeable underlying earth or rock material (see Figure 200-2).  
+
+ (73) "Permeability" means the ability of material to transmit fluid, usually described in units of gallons per day per square foot of cross-section area. It is related to the effectiveness with which pore spaces transmit fluids.  
+
+ (74) "Person" includes individuals, corporations, associations, firms, partnerships, joint stock companies, public and municipal corporations, political subdivisions, the state and any agencies thereof, and the Federal Government and any agencies thereof.  
+
+ (75) "Petcock Valve" is a valve used to contain pressure which when opened will drain the line or pipe.  
+
+ (76) "Petroleum" means gasoline, crude oil, fuel oil, diesel oil, lubricating oil, oil sludge, oil refuse, and crude oil fractions and refined petroleum fractions, including gasoline, kerosene, heating oils, diesel fuels, and any other petroleum-related product or waste or fraction thereof that is liquid at a temperature of 60 degrees Fahrenheit and a pressure of 14.7 pounds per square inch absolute. "Petroleum" does not include any substance identified as a hazardous waste under 40 CFR Part 261.  
+
+ (77) "Piezometer" means a type of monitoring well designed solely to obtain groundwater levels. Piezometers are prohibited in areas of known or reasonably suspected contamination. This term is synonymous with "observation well"(See OAR 690-240).  
+
+ (78) "Pitless Adapter" means a commercially manufactured device designed for attachment to one or more openings through a well casing, which will permit water service pipes to pass through the wall of a well casing or extension thereof and prevent entrance of contaminants into the well or groundwater. (Note: Unhydrated bentonite shall be installed at least one and one-half inches thick around the casing in any disturbed seal interval during pitless adapter installation).  
+
+ (79) "Pitless Unit" means a commercially manufactured assembly which extends the upper end of the well casing to above grade, constructed and installed so as to prevent the entrance of contaminants into the well and to protect the groundwater supply, conduct water from the well, and provide full access to the well and water system parts therein. (Note: Unhydrated bentonite shall be installed at least one and one-half inches thick around the casing in any disturbed seal interval during pitless unit installation).  
+
+ (80) "Porosity" means the ratio of the volume of voids in the geologic formation being drilled to the overall volume of the material without regard to size, shape, interconnection, or arrangement of openings.  
+
+ (81) "Potable Water" means water which is sufficiently free from biological, chemical, physical, or radiological impurities so that users thereof will not be exposed to or threatened with exposure to disease or harmful physiological effects.  
+
+ (82) "Potentiometric Surface" means the level to which water will rise in tightly cased artesian wells (see Figure 200-2).  
+
+ (83) "Pressure Grouting" means a process by which grout is confined within the drillhole or casing by the use of retaining plugs or packers and by which sufficient pressure is applied to drive the grout slurry into the annular space or zone to be grouted.  
+
+ (84) "Professional" means any person licensed or registered by the State of Oregon to construct monitoring wells, water supply wells, or practice geology or civil engineering.  
+
+ (85) "Public-at-Large" means a person not actively engaged in the well industry.  
+
+ (86) "Public Water System" means a system for the provision to the public of piped water for human consumption, if such system has more than three service connections or supplies water to a public or commercial establishment that operates a total of at least 60 days per year, and that is used by ten or more individuals per day. Public water system also means a system for the provision to the public of water through constructed conveyances other than pipes to at least 15 service connections or regularly serves at least 25 individuals daily at least 60 days of the year. A public water system is either a "Community Water System," a "Transient Non-Community Water System," a "Non-Transient Non-Community Water System" or a "State Regulated Water System.”  
+
+ (87) "Public Well" means a water supply well, whether publicly or privately owned, other than a municipal well, where water is provided for or is available through the single user for public consumption. This includes, but is not limited to, a school, a farm labor camp, an industrial establishment, a recreational facility, a restaurant, a motel, or a group care home.  
+
+ (88) "Pumping Level" means the level of the water surface in a well while it is being pumped or bailed.  
+
+ (89) "Pump Test" means the procedure involving pumping water for a specified period of time to determine the yield characteristics of an aquifer.  
+
+ (90) "Refusal to Renew" means a provision in an order, or as allowed by ORS 537.747, that prohibits renewal of a well constructor's license, for a specified term not to exceed one year from the expiration date of the current license.  
+
+ (91) "Remediation Well" means a well used for extracting contaminates and/or contaminated groundwater from an aquifer. This term is synonymous with "extraction well" and "recovery well."  
+
+ (92) "Respondent" means the person against whom an enforcement action is taken.  
+
+ (93) "Responsible Party" means the person or agency that is in charge of construction or maintenance and is either in violation as specified in a notice of violation or who may benefit from that violation.  
+
+ (94) "Rough Drilling Log" means a record kept on the well site of the information needed to complete the well report for the well being constructed.  
+
+ (95) "Revoke" means termination of a well constructor's license.  
+
+ (96) "Sand" means a material having a prevalent grain size ranging from 2 millimeters to 0.06 millimeters.  
+
+ (97) "Sanitary Seal" means a tight fitting properly sized threaded, welded, or gasketed cap placed on the top of the permanent well casing to prevent entry of water and foreign material.  
+
+ (98) "Sealant": See Grout.  
+
+ (99) "Silt" means an unconsolidated sediment composed predominantly of particles between 0.06 mm and 0.002mm in diameter.  
+
+ (100) "Slope Stability Geotechnical Hole" means a geotechnical hole excavated, drilled or bored for studying and/or monitoring movement of landslide features, including water levels, or other mass-wasting features to detect zones of movement and establish whether movement is constant, accelerating, or responding to remedial measures. Hole(s) excavated, drilled or bored for the purpose of slope remediation or stabilization shall be considered a slope stability geotechnical hole. Slope stability geotechnical holes are not monitoring wells, piezometers, or water supply wells.  
+
+ (101) "Sponsor" means an institution, professional organization, individual, or business that offers continuing education courses to licensees. This term is synonymous with provider.  
+
+ (102) "Static Water Level" means the stabilized level or elevation of water surface in a well not being pumped.  
+
+ (103) "Sump" means a hole dug to a depth of ten feet or less with a diameter greater than ten feet in which groundwater is sought or encountered.  
+
+ (104) "Suspension" means the temporary removal of the privilege to construct wells under an existing license for a period of time not to exceed one year.  
+
+ (105) "System Interlock" means an interlocking mechanism used to link irrigation pumps and chemical injection units, other pumps, or supply tanks so designed that in the event of irrigation pump malfunction or failure, shutdown of the chemical injection units will occur. (Back-siphon prevention).  
+
+ (106) "Unconsolidated Formation" means naturally occurring, loosely cemented, or poorly indurated materials including clay, sand, silt, and gravel.  
+
+ (107) "Underground Injection" means the emplacement or discharge of fluids to the subsurface.  
+
+ (108) "Underground Injection System" means a well, improved sump, sewage drain hole, subsurface fluid distribution system, or other system or groundwater point source used for the emplacement or discharge of fluids.  
+
+ (109) "Upper Oversize Drillhole" means that part of the well bore extending from land surface to the bottom of the surface seal interval.  
+
+ (110) "Violation" means an infraction of any statute, rule, standard, order, license, compliance schedule, or any part thereof and includes both acts and omissions.  
+
+ (111) "Water Supply Well" means a well, other than a monitoring well, that is used to beneficially withdraw or beneficially inject ground or surface water. Water supply wells include, but are not limited to, community, dewatering, domestic, irrigation, industrial, municipal, and aquifer storage and recovery wells.  
+
+ (112) "Water Supply Well Constructor" means any person who has a current water supply well constructor's license.  
+
+ (113) "Water Supply Well Constructor's License" means a Water Well Constructor's License with a water supply well endorsement issued in accordance with ORS 537.747(3) or with a water supply well temporary authorization endorsement issued in accordance with ORS 537.747 (3), ORS 670.400, and ORS 670.403. 
+
+ (114) "Water Supply Well Drilling Machine" means any power-driven driving, jetting, percussion, rotary, boring, digging, augering machine, or other equipment used in the construction or alteration of water supply wells.  
+
+ (115) "Water Table" means the upper surface of an unconfined water body, the surface of which is at atmospheric pressure and fluctuates seasonally. The water table is defined by the levels at which water stands in wells that penetrate the water body (see Figure 200-2).  
+
+ (116) "Water Well Constructor's License" means a license to construct, alter, deepen, abandon or convert wells issued in accordance with ORS 537.747(3). Endorsements are issued to the license and are specific to the type of well a constructor is qualified to construct, alter, deepen, abandon or convert.  
+
+ (117) "Well" means any artificial opening or artificially altered natural opening, however made, by which groundwater is sought or through which groundwater flows under natural pressure, or is artificially withdrawn or injected. This definition shall not include a natural spring, or wells drilled for the purpose of exploration or production of oil or gas. Prospecting or exploration for geothermal resources as defined in ORS 522.005 or production of geothermal resources derived from a depth greater than 2,000 feet as defined in 522.055 is regulated by the Department of Geology and Mineral Industries.  
+
+ (118) “Wet Soil Monitoring Hole” means a shallow geotechnical hole set vertically in the ground and constructed to a depth of three and one-half feet or less for studying and/or monitoring the upper portion of the shallowest water-bearing unit within and immediately below the surface soil horizon. 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 536.027, ORS 536.090, ORS 537.505 - 537.795, ORS 670.400 & ORS 670.403 
+ 
+ 
+ Statutes/Other Implemented:  ORS 536.090, ORS 537.505 - 537.795, ORS 670.400 & ORS 670.403 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WRD 5-2023, amend filed 06/22/2023, effective 07/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WRD 5-2016, f. & cert. ef. 9-6-16 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ WRD 5-2015, f. & cert. ef. 7-1-15 
+WRD 3-2008, f. 12-22-08, cert. ef. 1-2-09 
+WRD 2-2008, f. 6-18-08, cert. ef. 7-1-08 
+WRD 2-2006, f. & cert. ef. 6-20-06 
+WRD 4-2004, f. & cert. ef. 6-15-04 
+WRD 1-2003, f. & cert. ef. 3-14-03 
+WRD 7-2001, f. & cert. ef. 11-15-01 
+WRD 2-1995, f. 5-17-95, cert. ef. 7-1-95 
+WRD 8-1993, f. 12-14-93, cert. ef. 1-1-94 
+WRD 1-1991, f. & cert. ef. 2-8-91 
+WRD 21-1990, f. & cert. ef. 12-14-90 
+WRD 7-1988, f. & cert. ef. 6-29-88 
+WRD 13-1986, f. 10-7-86, cert. ef. 11-1-86, Renumbered from 690-060-0050 & 690-064-0000 
+WRD 12-1982, f. & cert. ef. 12-14-82 
+WRD 9-1978, f. 12-12-78, cert. ef. 1-1-79 
+WRD 9, f. & cert. ef. 12-9-77 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

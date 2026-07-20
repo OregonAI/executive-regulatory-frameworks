@@ -1,0 +1,253 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 16 HAZARDOUS SUBSTANCES 
+ 333-016-3030 
+ Hazard Assessment for Substitute Chemicals 
+ 
+ (1) A manufacturer must conduct a Hazard Assessment (HA) of the substitute chemical that includes: 
+
+ (a) A report: 
+
+ (A) By a Licensed GreenScreen Profiler using GreenScreen® for Safer Chemicals Hazard Assessment Guidance (GreenScreen methodology) that assesses the hazard level of the substitute chemical or chemicals; or 
+
+ (B) Using an Authority approved methodology as described in section (4) of this rule. 
+
+ (b) Information about each product model containing the HPCCCH and each final product model containing the substitute chemical that will enable the Authority to determine if the final children’s product is inherently less hazardous than before. The information provided shall include but is not limited to: 
+
+ (A) A high-resolution image of the product model in JPEG or PDF form. 
+
+ (B) Identification of products on which a HA is conducted by manufacturers as specified in OAR 333-016-3010 (3)(a) through (c). 
+
+ (C) A complete list of the product model’s components containing a HPCCCH at or above de minimis levels. For each component, the amount of HPCCCH in the component should be expressed as parts per million. The substitute chemical in each component of final product model should be expressed as parts per million. The HPCCCH and substitute chemical(s) shall be listed with their Chemical Abstract Numbers. 
+
+ (2) The Authority will not approve a HA for a substitute chemical that has a hazard level score of 'high' or greater as determined by the GreenScreen methodology or Authority approved methodology for any of the following human health endpoints: 
+
+ (a) Reproductive toxicity; 
+
+ (b) Developmental toxicity; 
+
+ (c) Endocrine activity; or 
+
+ (d) Skin sensitization. 
+
+ (3) For a HA submitted with an assessment from a Licensed GreenScreen Profiler: 
+
+ (a) A HPCCCH is considered by the Authority to be comparable to a chemical that has a GreenScreen Benchmark score of 1. 
+
+ (b) A substitute chemical is considered to be inherently less hazardous if it is assigned a GreenScreen Benchmark score of 2, 3 or 4, and is in compliance with section (2) of this rule. 
+
+ (4) A manufacturer may request that the Authority approve an alternative methodology for conducting a HA that exists in the public domain, is hazard-focused, considers the Globally Harmonized System of Classification and Labeling of Chemicals (GHS) categorization method of health hazard, and is comparable to the GreenScreen Guidance methodology of this rule, including having an equivalent or stricter health hazard criteria for the human health endpoints described below: 
+
+ (a) Carcinogenicity; 
+
+ (b) Genotoxicity and mutagenicity; 
+
+ (c) Reproductive toxicity; 
+
+ (d) Developmental toxicity; 
+
+ (e) Endocrine activity; 
+
+ (f) Acute toxicity; 
+
+ (g) Systemic toxicity; 
+
+ (h) Neurotoxicity; 
+
+ (i) Skin sensitization; 
+
+ (j) Respiratory sensitization; 
+
+ (k) Skin irritation; or 
+
+ (l) Eye irritation. 
+
+ (5) Prior to conducting a HA using a methodology other than the GreenScreen methodology a manufacturer must submit detailed information about the methodology it proposes to use and a detailed analysis comparing the methodology to the GreenScreen Guidance methodology. 
+
+ (a) Requests to use a HA methodology other than the GreenScreen methodology must be made at least 90 business days before the date the manufacturer submits the Hazard Assessment. 
+
+ (b) The Authority will review the request and within 60 business days respond in writing to the manufacturer either approving or denying the request. 
+
+ (6) The Authority will accept a HA that demonstrates with scientifically supported objective data that the children’s product and any substituted chemical is inherently less hazardous than before the substitution was made. 
+
+ (7) For purposes of this rule and OAR 333-016-3060, the Authority: 
+
+ (a) Finds that the GreenScreen methodology is scientifically supported by objective data; 
+
+ (b) Finds that an assessment by a licensed GreenScreen Profiler contains sufficient protocols and safeguards to ensure that the assessment is reliable; and 
+
+ (c) Will consider an assessment conducted by a licensed GreenScreen Profiler using the GreenScreen methodology that shows a children’s product and any substitute chemical is inherently less hazardous than before the substitution was made, to be sufficient to approve a HA, assuming all other provisions of this rule and OAR 333-016-3030 have been met. 
+
+ (8) A HA approved by the Authority may be used to apply to a new product if the composition of the new product is substantially similar to that specified in an approved HA and differs only in ways that do not affect the HPCCCH's behavior in the product. Differences may include, but are not limited to, packaging, size/volume, product name, and other minor aesthetic differences, and if all of the following are demonstrated for the new product: 
+
+ (a) The chemical composition of the new product is substantially similar to those in an approved HA; 
+
+ (b) There are not any HPCCCHs at or above de minimis levels in addition to those in a product that has an approved HA; and 
+
+ (c) Neither the concentration of the HPCCCH nor its mobility from the new product has increased from those in the referenced product. 
+
+ (9) To substantiate a claim that an HA approved by the Authority applies to a new product, manufacturers shall submit all of the following: 
+
+ (a) A copy of the reference HA approved by the Authority; 
+
+ (b) Documentation demonstrating compliance with section (8) of this rule, which must include the signature, on an application form provided by the Authority, of an authorized representative of the manufacturer bringing products into Oregon, with knowledge and authority to attest to the veracity of the information submitted under section (8) of this rule; and 
+
+ (c) Identification of new affected products as specified in subsection (1)(b) of this rule. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042, ORS 431A.263 & ORS 431A.265 
+ 
+ 
+ Statutes/Other Implemented:  ORS 431A.263 & ORS 431A.265 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 9-2021, adopt filed 02/28/2021, effective 03/01/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

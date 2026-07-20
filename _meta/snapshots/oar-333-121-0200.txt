@@ -1,0 +1,173 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 121 LICENSING AND RADIATION SAFETY REQUIREMENTS FOR IRRADIATORS 
+ 333-121-0200 
+ Construction Monitoring and Acceptance Testing 
+ 
+ The requirements of this section must be met for irradiators whose construction begins after September 1, 2002. The requirements must be met prior to loading sources.  (1) Shielding. For panoramic irradiators, the licensee must monitor the construction of the shielding to verify that its construction meets design specifications and generally accepted building code requirements for reinforced concrete.  (2) Foundations. For panoramic irradiators, the licensee must monitor the construction of the foundations to verify that their construction meets design specifications.  (3) Pool integrity. For pool irradiators, the licensee must verify that the pool meets design specifications and must test the integrity of the pool. The licensee must verify that outlets and pipes meet the requirements of OAR 333-121-0160(2).  (4) Water handling system. For pool irradiators, the licensee must verify that the water purification system, the conductivity meter, and the water level indicators operate properly.  (5) Radiation monitors. For all irradiators, the licensee must verify the proper operation of the monitor to detect sources carried on the product conveyor system and the related alarms and interlocks required by OAR 333-121-0140(1). For pool irradiators, the licensee must verify the proper operation of the radiation monitors and the related alarm if used to meet 333-121-0340(2). For underwater irradiators, the licensee must verify the proper operation of the over-the-pool monitor, alarms, and interlocks required by 333-121-0140(2).  (6) Source rack. For panoramic irradiators, the licensee must test the movement of the source racks for proper operation prior to source loading; testing must include source rack lowering due to simulated loss of power. For all irradiators with product conveyor systems, the licensee must observe and test the operation of the conveyor system to assure that the requirements in OAR 333-121-0170 are met for protection of the source rack and the mechanism that moves the rack; testing must include tests of any limit switches and interlocks used to protect the source rack and mechanism that moves that rack from moving product carriers.  (7) Access control. For panoramic irradiators, the licensee must test the completed access control system to assure that it functions as designed and that all alarms, controls, and interlocks work properly.  (8) Fire protection. For panoramic irradiators, the licensee must test the ability of the heat and smoke detectors to detect a fire, to activate alarms, and to cause the source rack to automatically become fully shielded. The licensee must test the operability of the fire extinguishing system.  (9) Source return. For panoramic irradiators, the licensee must demonstrate that the source racks can be returned to their fully shielded positions without power.  (10) Computer systems. For panoramic irradiators that use a computer system to control the access control system, the licensee must verify that the access control system will operate properly if power is lost and must verify that the computer has security features that prevent an irradiator operator from commanding the computer to override the access control system when the system is required to be operable.  (11) Wiring. For panoramic irradiators, the licensee must verify that the electrical wiring and electrical equipment that were installed meet the design specifications. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 453.605 – 453.807 
+ 
+ 
+ Statutes/Other Implemented:  ORS 453.605 – 453.807 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 12-2006, f. & cert. ef. 6-16-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 5-2005, f. & cert. ef. 4-11-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

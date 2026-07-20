@@ -1,0 +1,197 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Chapter 943 
+ 
+ 
+ 
+ 
+ 
+ Division 120 PROVIDER RULES 
+ 943-120-0120 
+ Registration Process — EDI Transactions 
+ 
+ (1) The EDI transaction process is preferred by providers, CCOs, PHPs, and allied agencies for conducting batch or real time transactions, rather than the individual data entry process used for DDE. EDI registration is an administrative process governed by these rules. The EDI registration process begins with the submission of a TPA by a provider, CCO, PHP, clinic, or allied agency, including all requirements and documentation required by these rules.  (2) Trading partners must be Authority providers, CCOs, PHPs, clinics, or allied agencies with a current Authority contract. The Authority will not accept a TPA from individuals or entities who do not have a current contract with the Authority; however, the Authority shall accept a TPA from entities that have been provisionally certified to become CCOs in order to facilitate testing, pending contract signing.  (a) The Authority may receive and hold the TPA for individuals or entities that have submitted a provider enrollment agreement or other pending contract, subject to the satisfactory execution of the pending document.  (b) Termination, revocation, suspension, or expiration of the contract will result in the concurrent termination, revocation, suspension, or expiration of the TPA without any additional notice; except that the TPA will remain in effect to the extent necessary for a trading partner or the Authority to complete obligations involving EDI under the contract for dates of service when the contract was in effect. Contracts that are periodically renewed or extended do not require renewal or extension of the TPA unless there is a lapse of time between contracts.  (c) Failure to identify a current Authority contract during the registration process shall result in a rejection of the TPA. The Authority shall verify that the contract numbers identified by a provider, CCO, PHP, clinic, or allied agency are current contracts.  (d) If contract number or contract status changes, the trading partner must provide the Authority with updated information within five business days of the change in contract status. If the Authority determines that a valid contract no longer exists, the Authority shall discontinue EDI transactions applicable for any time period in which the contract no longer exists; except that the TPA will remain in effect to the extent necessary for the trading partner or the Authority to complete obligations involving EDI under the contract for dates of service when the contract was in effect.  (3) To register as a trading partner with the Authority, a provider, CCO, PHP, clinic, or allied agency must submit a signed TPA to the Authority.  (4) In addition to the requirements of section (3) of this rule, a trading partner must submit an application for authorization to the Authority. The application provides specific identification and legal authorization from the trading partner for an EDI submitter to conduct EDI transactions on behalf of a trading partner.  (5) A trading partner may use agents to facilitate the electronic transmission of data. If a trading partner will be using an agent as an EDI submitter, the application for authorization required under section (4) of this rule must identify and authorize an EDI submitter and must include the EDI certification signed by an EDI submitter before the Authority may accept electronic submission from or send electronic transmission to an EDI submitter.  (6) In addition to the requirements of section (3) of this rule, a trading partner must also submit its EDI registration form. This form requires the trading partner or its authorized EDI submitter to register an EDI submitter and the name and type of EDI transaction they are prepared to conduct. Signature of the trading partner or authorized EDI submitter is required on the EDI registration form. The registration form will also permit the trading partner to identify the individuals or EDI submitters who are authorized to submit or receive EDI registered transactions.  (7) The Authority shall review the documentation provided to determine compliance with sections (1) through (6) of this rule. The Authority may verify the documentation. When the Authority determines that the information complies with these rules, the Authority shall notify the trading partner and EDI submitter by email about any testing or other requirements applicable to place the registered transaction into a production environment. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042 & 414.065 
+ 
+ 
+ Statutes/Other Implemented:  ORS 413.042 & 414.065 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHA 7-2012, f. 10-9-12, cert. ef. 10-10-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHA 4-2012(Temp), f. & cert. ef. 7-12-12 thru 1-6-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHA 26-2011, f. 10-31-11, cert. ef. 11-1-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHA 13-2011(Temp), f. & cert. ef. 7-1-11 thru 12-27-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

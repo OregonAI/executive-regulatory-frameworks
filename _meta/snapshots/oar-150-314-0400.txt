@@ -1,0 +1,238 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 314 INCOME TAXATION GENERALLY  GENERAL PROVISIONS 
+ 150-314-0400 
+ Property Factor; Valuation of Rented Property
+ 
+ 
+ (1) This rule adopts a model regulation recommended by the Multistate Tax Commission to promote uniform treatment of this item by the states. 
+
+ (2) Property rented by the taxpayer is valued at eight times its net annual rental rate. The net annual rental rate for any item of rented property is the annual rental rate paid by the taxpayer for such property, less the aggregate annual subrental rates paid by subtenants of the taxpayer. 
+
+ (3) Subrents are not deducted when the subrents constitute apportionable income because the property that produces the subrents is used in the regular course of a trade or business of the taxpayer when it is producing such income. Accordingly there is no reduction in its value. 
+
+ Example 1: The taxpayer receives subrents from a bakery concession in a food market operated by the taxpayer. Since the subrents are apportionable income they are not deducted from rent paid by the taxpayer for the food market. 
+
+ Example 2: The taxpayer rents a five-story office building primarily for use in its multistate business, uses three floors for its offices, and subleases two floors to various other businesses on a short-term basis because it anticipates it will need those two floors for future expansion of its multistate business. The rental of all five floors is integral to the operation of the taxpayer’s trade or business. Since the subrents are apportionable income, they are not deducted from the rent paid by the taxpayer. 
+
+ Example 3: The taxpayer rents a 20-story office building and uses the lower two stories for its general corporation headquarters. The remaining 18 floors are subleased to others. The rental of the 18 floors is not integral to but rather is separate from the operation of the taxpayer’s trade or business. Since the subrents are nonapportioable income they are to be deducted from the rent paid by the taxpayer. 
+
+ (4)(a) If the subrents taken into account in determining the net annual rental rate produce a negative or clearly inaccurate value for any item of property, another method that will properly reflect the value of rented property may be required by the department or requested by the taxpayer. 
+
+ (b) In no case however may such value be less than an amount that bears the same ratio to the annual rental rate paid by the taxpayer for such property as the fair market value of that portion of the property used by the taxpayer bears to the total fair market value of the rented property. 
+
+ Example 4: The taxpayer rents a 10-story building at an annual rental rate of $1,000,000. Taxpayer occupies two stories and sublets eight stories for $1,000,000 a year. The net annual rental rate of the taxpayer must not be less than two-tenths of the taxpayer’s annual rental rate for the entire year, or $200,000. 
+
+ (c) If property owned by others is used by the taxpayer at no charge or rented by the taxpayer for a nominal rate, the net annual rental rate for such property must be determined on the basis of a reasonable market rental rate for such property. 
+
+ (5) “Annual rental rate” is the amount paid as rental for the property for a 12-month period (i.e., the amount of the annual rent). Where property is rented for less than a 12-month period, the rent paid for the actual period of rental is the “annual rental rate” for the tax period. However, where a taxpayer has rented property for a term of 12 or more months and the current tax period covers a period of less than 12 months (due, for example, to a reorganization or change of accounting period), the rent paid for the short period must be annualized. If the rental term is for less than 12 months, the rent may not be annualized beyond its term. Rent may not be annualized because of the uncertain duration when the rental term is on a month-to-month basis. 
+
+ Example 5: Taxpayer A, that ordinarily files its returns based on a calendar year, is merged into Taxpayer B on April 30. The net rent paid under a lease with five years remaining is $2,500 a month. The rent for the tax period January 1 to April 30 is $10,000. After the rent is annualized the net rent is $30,000 ($2,500 x 12). 
+
+ Example 6: Same facts as in Example (5) except that the lease would have terminated on August 31. In this case the annualized net rent is $20,000 ($2,500 x 8). 
+
+ (6) “Annual rent” is the actual sum of money or other consideration payable, directly or indirectly, by the taxpayer or for its benefit for the use of the property and includes: 
+
+ (a) Any amount payable for the use of real or tangible personal property, or any part thereof, whether designated as a fixed sum of money or as a percentage of sales, profits, or otherwise. 
+
+ Example 7: A taxpayer, pursuant to the terms of a lease, pays a lessor $1,000 per month as a base rental and at the end of the year pays the lessor one percent of its gross sales of $400,000. The annual rent is $16,000 ($12,000 plus one percent of $400,000 or $4,000). 
+
+ (b) Any amount payable as additional rent or in lieu of rents, such as interest, taxes, insurance, repairs, or any other items that are required to be paid by the terms of the lease or other arrangement, not including amounts paid as service charges, such as utilities, janitor services, etc. If a payment includes rent and other charges unsegregated, the amount of rent must be determined by consideration of the relative values of the rent and the other items. 
+
+ Example 8: A taxpayer, pursuant to the terms of a lease, pays the lessor $12,000 a year rent plus taxes in the amount of $2,000 and interest on a mortgage in the amount of $1,000. The annual rent is $15,000. 
+
+ Example 9: A taxpayer stores part of its inventory in a public warehouse. The total charge for the year was $1,000 of which $700 was for the use of storage space and $300 for inventory insurance, handling and shipping charges, and C.O.D. collections. The annual rent is $700. 
+
+ (7) “Annual rent” does not include: 
+
+ (a) Incidental day-to-day expenses such as hotel or motel accommodations, daily rental of automobiles, etc.; and 
+
+ (b) Royalties based on extraction of natural resources, whether represented by delivery or purchase. For this purpose, a royalty includes any consideration conveyed or credited to a holder of an interest in property that constitutes a sharing of current or future production of natural resources from such property, irrespective of the method of payment or how such consideration may be characterized, whether as a royalty, advance royalty, rental or otherwise. 
+
+ (8) Payments for lease bonus and delay rental expensed in the current tax year must be treated as rental property and valued at eight times the amount paid. 
+
+ (9) Leasehold improvements must, for the purposes of the property factor, be treated as property owned by the taxpayer regardless of whether the taxpayer is entitled to remove the improvements or the improvements revert to the lessor upon expiration of the lease. Hence, the original cost of leasehold improvements must be included in the factor. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100, 305.653 & 314.605 - 314.667 
+ 
+ 
+ Statutes/Other Implemented:  ORS 314.655 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 68-2017, amend filed 12/22/2017, effective 01/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 150-314.655(2)-(B), REV 35-2016, f. 8-12-16, cert. ef. 9-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ REV 4-2003, f. & cert. ef. 12-31-03 
+RD 5-1994, f. 12-15-94, cert. ef. 12-31-94 
+RD 11-1988, f. 12-19-88, cert. ef. 12-31-88 
+RD 12-1985, f. 12-16-85, cert. ef. 12-31-85 
+8-73 
+12-70
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

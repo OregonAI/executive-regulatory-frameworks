@@ -1,0 +1,473 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Energy 
+ Chapter 330 
+ 
+ 
+ 
+ 
+ 
+ Division 70 TAX CREDIT ELIGIBILITY CRITERIA FOR RESIDENTIAL ALTERNATIVE ENERGY DEVICES 
+ 330-070-0060 
+ Solar Domestic Water Heating AEDs 
+ 
+ (1) Installations of solar domestic water heating systems must comply with all applicable state, county or local codes and regulations and be verified by a tax-credit technician.  (2) Consumers who purchase a solar domestic water heating system must receive written operating and maintenance instructions. These instructions must at a minimum include:  (a) Clear instructions on how to determine if the system is functioning properly; and  (b) How to protect the system from overheating due to stagnation during periods when the system is not in use.  (3) System designs and installations must comply with the following additional requirements:  (a) Collectors and piping must be securely mounted to withstand local wind loads.  (b) Piping and pump sizing must consider collector area, total flow rates, pressure drop across collectors, length of run from collectors to pump, and maximum allowable pressure drop for the system.  (c) Pipe insulation must be installed on all solar pipe runs and protected against damage from exposure in outdoor conditions and be rated for design condition temperatures.  (d) Any building insulation disturbed due to the system installation must be restored to previous condition.  (e) For systems using pressurized anti-freeze fluids, a pressure gauge must be installed to indicate pressure in the system.  (f) Piping containing pressurized water in attics 24 hours a day must be of the appropriate material allowed by applicable Oregon plumbing codes.  (4) Systems using tanks, piping, pumps and other components containing water in unheated spaces must be adequately protected from freezing.  (5) Drain-down or manual drain systems are not acceptable freeze protection methods for solar domestic water heating systems.  (6) A method to show that the system is operating correctly must be provided.  (a) For passive systems this must be a thermometer in line between solar storage and backup tank.  (b) For an active system this must be a flow meter in the supply line to the collectors and a thermometer on the outlet port of the solar storage tank.  (7) Annual energy savings will be based on the annual performance simulations provided by the Solar Rating and Certification Corporation (SRCC).  (a) The SRCC annual energy savings must be adjusted for site specific conditions as documented by a Solar Site Assessment.  (b) The system must have a minimum Total Solar Resource Fraction (TSRF) of 75 percent.  (8) All systems must meet the standards established by the SRCC Standard-300 system certification in effect at the time the rules are adopted, or equivalent requirements as determined by the Director.  [Publications: Publications referenced are available from the agency.] 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 469.040 & 469B.103 
+ 
+ 
+ Statutes/Other Implemented:  ORS 469B.100-469B.118 & 316.116 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 8-2016, f. 12-29-16, cert. ef. 1-1-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 6-2015, f. 11-9-15, cert. ef. 1-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 8-2014, f. 11-18-14, cert. ef. 1-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 14-2012, f. 12-26-12, cert. ef. 1-1-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 11-2011, f. 12-16-11, cert. ef. 1-1-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 16-2010, f. & cert. ef. 12-22-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 4-2007, f. 11-30-07, cert. ef. 12-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 4-2006, f. 12-29-06, cert. ef. 1-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 2-2005, f. 12-30-05, cert. ef. 1-1-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 1-2004, f. & cert. ef. 1-21-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 2-2001, f. 10-5-01, cert. ef. 10-8-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 2-2000, f. 12-29-00, cert. ef. 1-1-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 1-1999, f. 12-21-99, cert. ef. 1-1-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 1-1997, f. 12-15-97, cert. ef. 1-1-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 1-1996, f. & cert. ef. 4-1-96 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 1-1995, f. & cert. ef. 1-17-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 2-1989, f. 12-28-89, cert. ef. 1-1-90 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 1-1989, f. & cert. ef. 6-15-89 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 4-1987, f. 12-18-87, ef. 1-1-88 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 1-1986, f. & ef. 2-7-86 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 7-1984, f. & ef. 12-19-84 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 6-1983, f. 12-16-83, ef. 1-1-84 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 1-1982, f. 1-12-82, ef. 2-1-82 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 6-1979, f. & ef. 11-13-79 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 5-1978, f. & ef. 9-27-78 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 3-1978, f. & ef. 3-7-78 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 12(Temp), f. & ef. 10-14-77 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

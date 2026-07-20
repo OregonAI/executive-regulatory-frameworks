@@ -1,0 +1,320 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 232 EMISSION STANDARDS FOR VOC POINT SOURCES 
+ 340-232-0140 
+ Petroleum Refinery Leaks
+ 
+ 
+ (1) All persons operating petroleum refineries must comply with this section concerning leaks: 
+
+ (a) The owner or operator of a petroleum refinery complex, upon detection of a leaking component, which has a VOC concentration exceeding 10,000 ppm when tested in the manner described below must: 
+
+ (A) Include the leaking component on a written list of scheduled repairs; and 
+
+ (B) Repair and retest the component within 15 days. 
+
+ (b) Except for safety pressure relief valves, no owner or operator of a petroleum refinery may install or operate a valve at the end of a pipe or line containing VOCs unless the pipe or line is sealed with a second valve, a blind flange, a plug, or a cap. The sealing device may be removed only when a sample is being taken during maintenance operations; 
+
+ (c) Pipeline valves and pressure relief valves in gaseous VOC service must be marked in some manner that will be readily obvious to both refinery personnel performing monitoring and DEQ. 
+
+ (2) Testing Procedures: Testing and calibration procedures to determine compliance with this rule must be done in accordance with EPA Method 21. 
+
+ (3) Monitoring, Recordkeeping, Reporting: 
+
+ (a) The owner or operator of a petroleum refinery must maintain, as a minimum, records of all testing conducted under this rule; plus records of all monitoring conducted under subsections (b) and (c); 
+
+ (b) The owner or operator of a petroleum refinery subject to this rule must: 
+
+ (A) Monitor yearly by the methods referenced in section (2) all: 
+
+ (i) Pump seals; 
+
+ (ii) Pipeline valves in liquid service; and 
+
+ (iii) Process drains. 
+
+ (B) Monitor quarterly by the methods referenced in section (2) all: 
+
+ (i) Compressor seals; 
+
+ (ii) Pipeline valves in gaseous service; and 
+
+ (iii) Pressure relief valves in gaseous service. 
+
+ (C) Monitor weekly by visual methods all pump seals; 
+
+ (D) Monitor immediately any pump seal from which liquids are observed dripping; 
+
+ (E) Monitor any relief valve within 24 hours after it has vented to the atmosphere; and 
+
+ (F) Monitor immediately after repair of any component that was found leaking. 
+
+ (c) Pressure relief devices which are connected to an operating flare header, vapor recovery device, inaccessible valves, storage tank valves, or valves that are not externally regulated are exempt from the monitoring requirements in subsection (b); 
+
+ (d) The owner or operator of a petroleum refinery, upon the detection of a leaking component, must affix a weatherproof and readily visible tag bearing an identification number and the date the leak is located to the leaking component. This tag must remain in place until the leaking component is repaired; 
+
+ (e) The owner or operator of a petroleum refinery, upon the completion of each yearly and/or quarterly monitoring procedure, must: 
+
+ (A) Submit a report to DEQ on the 15th day of January, April, July, and September, listing the leaking components that were located but not repaired within the required time limit in subsection (1)(a); 
+
+ (B) Submit a signed statement attesting to the fact that, with the exception of those leaking components listed in paragraph (A), all monitoring and repairs were performed as stipulated. 
+
+ (f) The owner or operator of a petroleum refinery must maintain a leaking component monitoring log that contains, at a minimum, the following data: 
+
+ (A) The name of the process unit where the component is located; 
+
+ (B) The type of component, e.g., valve, seal; 
+
+ (C) The tag number of the component; 
+
+ (D) The date on which a leaking component is discovered; 
+
+ (E) The date on which a leaking component is repaired; 
+
+ (F) The date and instrument reading of the recheck procedure after a leaking component is repaired; 
+
+ (G) A record of the calibration of the monitoring instrument; 
+
+ (H) Those leaks that cannot be repaired until turnaround, exceptions to the 15-day requirement of paragraph (1)(a)(B); and 
+
+ (I) The total number of components checked and the total number of components found leaking. 
+
+ (g) Copies of all records and reports required by this section must be retained by the owner or operator for a minimum of five years after the date on which the record was made or the report submitted; 
+
+ (h) Copies of all records and reports required by this section must immediately be made available to DEQ upon verbal or written request at any reasonable time; 
+
+ (i) DEQ may, upon written notice, modify the monitoring, recordkeeping and reporting requirements. 
+
+ [NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.] 
+
+ [NOTE: View a PDF of  referenced EPA Methods by clicking on “Tables” link below OAR 340-232-8010.] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, 468A.025, 468A.050 & 468A.070 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468A.025, 468A.050 & 468A.070 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 13-2019, amend filed 05/16/2019, effective 05/16/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 7-2015, f. & cert. ef. 4-16-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-022-0153 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 4-1993, f. & cert. ef. 3-10-93 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 8-1991, f. & cert. ef. 5-16-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 3-1986, f. & ef. 2-12-86 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 23-1980, f. & ef. 9-26-80 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

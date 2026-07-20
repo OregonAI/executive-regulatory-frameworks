@@ -1,0 +1,222 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Insurance Regulation - Chapter 836 
+ 
+ 
+ 
+ 
+ Division 31 ACCOUNTING AND INVESTMENTS (ORS CHAPTER 733); REHABILITATION AND LIQUIDATION OF INSURERS (ORS CHAPTER 734) 
+ 836-031-0815 
+ Conditions
+ 
+ 
+ (1) For each plan of insurance with separate rates for preferred and standard nonsmoker lives, an insurer may use the super preferred nonsmoker, preferred nonsmoker, and residual standard nonsmoker tables to substitute for the nonsmoker mortality table found in the 2001 CSO Mortality Table to determine minimum reserves. At the time of election and annually thereafter, except for business valued under the residual standard nonsmoker table, the appointed actuary shall certify that: 
+
+ (a) The present value of death benefits over the next ten years after the valuation date, using the anticipated mortality experience without recognition of mortality improvement beyond the valuation date for each class, is less than the present value of death benefits using the valuation basic table corresponding to the valuation table being used for that class; 
+
+ (b) The present value of death benefits over the future life of the contracts, using anticipated mortality experience without recognition of mortality improvement beyond the valuation date for each class, is less than the present value of death benefits using the valuation basic table corresponding to the valuation table being used for that class. 
+
+ (2) For each plan of insurance with separate rates for preferred and standard smoker lives, an insurer may use the preferred smoker and residual standard smoker tables to substitute for the smoker mortality table found in the 2001 CSO Mortality Table to determine minimum reserves. At the time of election and annually thereafter, for business valued under the preferred smoker table, the appointed actuary shall certify that: 
+
+ (a) The present value of death benefits over the next ten years after the valuation date, using the anticipated mortality experience without recognition of mortality improvement beyond the valuation date for each class, is less than the present value of death benefits using the preferred smoker valuation basic table corresponding to the valuation table being used for that class; 
+
+ (b) The present value of death benefits over the future life of the contracts, using anticipated mortality experience without recognition of mortality improvement beyond the valuation date for each class, is less than the present value of death benefits using the preferred smoker valuation basic table. 
+
+ (3) Unless exempted by the director, each authorized insurer using the 2001 CSO Preferred Class structure Table shall annually file with the director, with the NAIC or with a statistical agent designated by the NAIC and acceptable to the director, statistical reports showing mortality an such other information ask the director may deem necessary or expedient for the administration of the provisions of OAR 836-031-0800 to 836-031-0815. The form of the reports shall be established by the director or the director may require the use of a form established by the NAIC or by a statistical agent designated by the NAIC and acceptable to the director. 
+
+ (4)(a) The use of the 2001 CSO Preferred Class Structure Table for the valuation of policies issued prior to January 1, 2007 is not permitted in any statutory financial statement in which a company reports, with respect to any policy or portion of a policy coinsured, either of the following: 
+
+ (A) In cases where the mode of payment of the reinsurance premium is less frequent than the mode of payment of the policy premium, a reserve credit that exceeds, by more than the amount specified in the paragraph as Y, the gross reserve calculated before reinsurance. Y is the amount of the gross reinsurance premium that: 
+
+ (i) Provides coverage for the period from the next policy premium due date to the earlier of the end of the policy year and the next reinsurance premium due date; and 
+
+ (ii) Would be refunded to the ceding entity upon the termination of the policy. 
+
+ (B) In cases where the mode of payment of the reinsurance premium is more frequent than the mode of payment of the policy premium, a reserve credit that is less than the gross reserve, calculated before reinsurance, by an amount that is less than the amount specified in this paragraph as Z. Z is the amount of the gross reinsurance premium that the ceding entity would need to pay the assuming company to provide reinsurance coverage from the period of the next reinsurance premium due date to the next policy premium due date minus any liability established for the proportionate amount not remitted to the reinsurer. 
+
+ (b) A company may estimate and adjust its accounting on an aggregate basis in order to meet the conditions to use the 2001 CSO Preferred Class Structure Table. For purposes of this condition, but the reserve credit and the gross reserve before reinsurance: 
+
+ (A) For the mean reserve method defined as the mean reserve minus the deferred premium asset; and 
+
+ (B) For the mid-terminal reserve method which includes the unearned premium reserve. 
+
+ (5) Tables referenced in this rule are available from the Division of Financial Regulation of the Department of Consumer and Business Services. 
+
+ [ED. NOTE: Tables referenced are available from the agency.] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 731.244 & 733.306 
+ 
+ 
+ Statutes/Other Implemented:  ORS 733.306 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ID 17-2024, minor correction filed 08/06/2024, effective 08/06/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ID 17-2011, f. & cert. ef. 10-31-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ID 2-2007, f. & cert. ef. 2-12-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

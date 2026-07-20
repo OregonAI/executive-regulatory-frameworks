@@ -1,0 +1,357 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Workers' Compensation Division - Chapter 436 
+ 
+ 
+ 
+ 
+ Division 35 DISABILITY RATING STANDARDS 
+ 436-035-0250 
+ Hearing Loss
+ 
+ 
+ (1) The following information is provided by the attending physician or reviewed and commented on by the attending physician, under OAR 436-035-0007(5) and (6), to value work-related hearing loss: 
+
+ (a) A written record, history, examination, diagnosis, opinion, interpretation and a statement noting if further material improvement would reasonably be expected from medical treatment or the passage of time by a medical provider with specialty training or experience in evaluating hearing loss. 
+
+ (b) The complete audiometric testing. 
+
+ (2) A worker is eligible for an award for impairment for any loss of normal hearing that results from the compensable injury. Any hearing loss that existed before the compensable injury and that does not result from a compensable pre-existing condition must be offset against hearing loss in the claim if the hearing loss that existed before the compensable injury is adequately documented by a baseline audiogram that was obtained within 180 days of assignment to a high noise environment. 
+
+ (a) The offset will be done at the monaural percentage of impairment level. 
+
+ (b) Determine the monaural percentage of impairment for the baseline audiogram under section (4) of this rule. 
+
+ (c) Subtract the baseline audiogram impairment from the current audiogram impairment to obtain the impairment value. 
+
+ (3) Hearing loss is based on audiograms which must report on air conduction frequencies at 500, 1,000, 2,000, 3,000, 4,000 and 6,000 Hz. 
+
+ (a) Audiograms should be based on American National Standards Institute S3.6 (1989) standards. 
+
+ (b) Test results will be accepted only if they come from a test conducted at least 14 consecutive hours after the worker has been removed from significant exposure to noise. 
+
+ (4) Impairment of hearing is calculated from the number of decibels by which the worker’s hearing exceeds 150 decibels (hearing impairment threshold). Compensation for monaural hearing loss is calculated as follows: 
+
+ (a) Add the audiogram findings at 500, 1,000, 2,000, 3,000, 4,000 and 6,000 Hz. Decibel readings in excess of 100 will be entered into the computations as 100 dB. 
+
+ (b) Consult the Monaural Hearing Loss Table below, using the sum of the audiogram findings from subsection (a) of this section. This table will give you the percent of monaural hearing loss to be compensated. [See attached table.] 
+
+ (c) No value is allowed for db totals of 150 or less. The value for db totals of 550 or more is 100%. 
+
+ (5) Binaural hearing loss is calculated as follows: 
+
+ (a) Find the percent of monaural hearing loss for each ear by using the method listed in section (4) of this rule. 
+
+ (b) Multiply the percent of loss in the better ear by seven. 
+
+ (c) Add to that result the percent of loss in the other ear. 
+
+ (d) Divide this sum by eight. This is the percent of binaural hearing loss to be compensated. 
+
+ (e) This method is expressed by the formula: 
+
+ 
+ 7(A) + B 
+       8 
+
+ "A" is the percent of hearing loss in the better ear. 
+
+ "B" is the percent of hearing loss in the other ear. 
+ 
+
+ (6) Use the method (monaural or binaural) which results in the greater impairment. 
+
+ (7) Tinnitus and other auditory losses may be determined as losses under OAR 436-035-0390. 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 656.726 
+ 
+ 
+ Statutes/Other Implemented:  ORS 656.726, ORS 656.005, ORS 656.214 & ORS 656.268 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 8-2022, amend filed 11/08/2022, effective 12/04/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 1-2015, f. 1-29-15, cert. ef. 3-1-15 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 9-2004, f. 10-26-04, cert. ef. 1-1-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 2-2003, f. 1-15-03, cert. ef. 2-1-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 6-1998, f. 5-13-98, cert. ef. 7-1-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 1-1997, f. & cert. ef. 2-15-97 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 6-1992, f. 2-14-92, cert. ef. 3-13-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 2-1991, f. 3-26-91, cert. ef. 4-1-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 7-1988, f. 12-21-88, cert. ef. 1-1-89, Renumbered from 436-030-0360 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 2-1988, f. 6-3-88, cert. ef. 7-1-88 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 5-1981, f. 12-30-81, ef. 1-1-82, Renumbered from 436-065-0536 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 4-1980, f. 3-20-80, ef. 4-1-80 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

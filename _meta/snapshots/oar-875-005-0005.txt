@@ -1,0 +1,592 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Veterinary Medical Examining Board 
+ Chapter 875 
+ 
+ 
+ 
+ 
+ 
+ Division 5 GENERAL 
+ 875-005-0005 
+ Definitions
+ 
+ 
+ (1) “Agency”: Any animal control department, humane society, or facility which contracts with a public agency or arranges to provide animal sheltering services and is registered by the Oregon State Board of Pharmacy. 
+
+ (2) “Board”: The Oregon State Veterinary Medical Examining Board (OVMEB). 
+
+ (3) “Board of Pharmacy”: The Oregon State Board of Pharmacy (BOP). 
+
+ (4) “Certified Euthanasia Technician (CET): A person who is employed by, or a volunteer at, a humane society or animal control agency and is certified by the Board pursuant to ORS 475.190(4).  
+
+ (5) “Client”: An entity, person, group, or corporation, that has entered into an agreement with a veterinarian for the purpose of obtaining veterinary medical services. 
+
+ (6) “Comprehensive”: Pertaining to all animal species. 
+
+ (7) “Conviction of Cruelty to Animals”: For purposes of ORS 686.130(11), is defined to include but not limited to animal abuse in the first or second degree, aggravated animal abuse in the first degree, and animal neglect in the first degree. 
+
+ (8) “Designated Agent”: A CET who is responsible for the withdrawal and return of sodium pentobarbital from the drug storage cabinet. 
+
+ (9) “Diagnostics”: Imaging, testing, and samples collected used to provide information for patient care. 
+
+ (10) “Facility Owner”: Any person, corporation, partnership, or other similar organization, private, or not-for-profit, holding title to a facility where licensed veterinarian(s) practice or where the practice of veterinary medicine occurs. 
+
+ (11) “Facility Registration”: A registration issued by the Board to operate a veterinary medical facility when the premises meet minimum standards established by the Board. Premises includes, but is not limited to, any building, structure, unit, office, land, vehicle, motor or mobile home, utilized in the practice of veterinary medicine or where the practice of veterinary medicine occurs. 
+
+ (12) “Good Standing and Repute”: As used in ORS 686.045(1), means: 
+
+ (a) A university accredited by the American Veterinary Medical Association (AVMA); or 
+
+ (b) A foreign school listed by the AVMA whose graduates are eligible to apply for a certificate through the Educational Commission for Foreign Veterinary Graduates (ECFVG) committee of the AVMA, or other programs approved by the Board. 
+
+ (13) “Herd or Flock Animal”: Animals, (four or more, of the same species), managed as a group, including, but not limited to, breeding, sale, show, food production, or racing. The veterinarian shall have the discretion to determine 'herd or flock' status for provision of veterinary medical care and recordkeeping. 
+
+ (14) “Licensee Portal”: Licensee access point for maintaining personal and facility information and for processing registrations and renewals. Located on the Oregon Veterinary Medical Examining Board website. 
+
+ (15) “Managing Veterinarian”: An Oregon veterinarian, licensed in good standing, who has been designated by the facility owner to be accountable to the Board for the facility’s compliance with the laws and rules governing the practice of veterinary medicine in this state. Designation of a Managing Veterinarian shall be according to the procedures in OAR 875-010-0031(3). 
+
+ (16) “Medical Records”: Systematic documentation of a single patient or patients’ medical history, physical examination, diagnosis, treatment, notes, and care across time, pursuant to OAR 875-015-0030. 
+
+ (17) “Principal”: A person who has controlling authority over the licensed facility, including but not limited to: 
+
+ (a) Managers or other persons who have decision-making authority and whose primary duties include control over the operation of the licensed facility; 
+
+ (b) Officers or directors who have some degree of responsibility for the operation of the licensed facility; 
+
+ (c) General Partners, limited and joint ventures; 
+
+ (d) Sole proprietors; 
+
+ (e) Stockholders holding a majority of outstanding shares of stock; and 
+
+ (f) Members of a Limited Liability Company. 
+
+ (18) “Satellite Unit” A mobile or house call facility operated under the license of a registered fixed location facility. Satellite Units do not require individual facility registration. A mobile satellite unit must maintain sufficient capacity to address medical emergencies. 
+
+ (19) Surgery Procedure 
+
+ (a) “Aseptic Surgery”: Aseptic surgical technique exists when everything that comes in contact with the surgical field is sterile and precautions are taken to ensure sterility during the procedure. 
+
+ (b) “Antiseptic Surgery”: Antiseptic surgical technique exists when care is taken to avoid bacterial contamination. 
+
+ (20) “Supervision” means that each act shall be performed by any employee or volunteer in the practice only after receiving specific directions from a licensed veterinarian. 
+
+ (a) “Direct” supervision under this provision means both the certified veterinary technician and the licensed veterinarian are on the premises at the same time; 
+
+ (b) “Immediate” supervision under this provision means that the supervising veterinarian is in the immediate vicinity of where the work is being performed and is actively engaged in supervising this work throughout the entire period it is being performed; 
+
+ (c) “Indirect” supervision under this provision means that a CVT may, after receiving specific direction from an Oregon-licensed veterinarian, perform duties permitted under OAR 875-030-0040 at a client’s home or other location where the animal is kept. A valid VCPR must exist in order for a CVT to perform duties under indirect supervision. 
+
+ (21) “Veterinary Client Patient Relationship (VCPR)”: Except where the patient is a wild or feral animal or its owner is unknown; a VCPR shall exist when the following conditions exist: The veterinarian must have sufficient knowledge of the animal to initiate at least a general or preliminary diagnosis of the medical condition of the animal. This means that the veterinarian has seen the animal within the last year and is personally acquainted with the care of the animal by virtue of a physical examination of the animal or by medically appropriate and timely visits to the premises where the animal is kept. The VCPR, once established, extends to other veterinarians licensed by the Board who are practicing within the same registered facility, and who have access to, and have reviewed, the medical history and records of the animal. 
+
+ (22) “Veterinary Medical Facility”: Any premises, unit, structure, or vehicle where veterinary medicine is practiced, except when used for the practice of veterinary medicine pursuant to an exemption under ORS 686.040. 
+
+ (a) “Fixed Location Facility”: A veterinary medical facility including but not limited to a building, unit or structure, at a fixed location, where animals are received and/or confined, and where the practice of veterinary medicine is practiced, 
+
+ (b) “Mobile Facility”: A veterinary medical facility including but not limited to any vehicle, trailer, camper, motor, or mobile home, used in the practice of veterinary medicine. Mobile facilities must maintain sufficient capacity to address medical emergencies. 
+
+ (c) “House Call Facility”: A veterinary medical facility at a non-fixed location where veterinarian(s) practice. It must include a designated location for drug and record storage.. 
+
+ (23) “Veterinary Technician”: a person licensed by the Board as a Certified Veterinary Technician. 
+
+ (24) For purposes of meeting work experience eligibility requirements for intern, veterinarian and certified veterinary technician licensure, a year is defined as at least 2,000 hours in any 52-week period. 
+
+ (25) “Pregnancy evaluation”: As used in ORS 686.030, an examination and judgment concerning whether an animal is or is not gestating. This includes but is not limited to the use of ultrasound, radiography, and hormone testing to determine if the animal is gestating.  
+
+ (26) “Sterility evaluation”: As used in ORS 686.030, an examination and judgment concerning whether a male or female animal is capable or incapable of producing offspring. This includes but is not limited to:  
+
+ (a) An examination to evaluate abnormalities in the reproductive organs, body condition and overall health;  
+
+ (b) Testing and evaluation of the reproductive tract; and  
+
+ (c) Semen analysis to evaluate semen quality.  
+
+ (27) “Fertility evaluation”: As used in ORS 686.030, an examination and judgment regarding the animal’s likelihood to conceive or give birth to offspring. This includes but is not limited to:  
+
+ (a) An examination to check for and evaluate abnormalities in the reproductive organs, body condition, and overall health;  
+
+ (b) Any testing to evaluate hormone levels that assess reproductive cycle function;  
+
+ (c) Any testing to determine the number of eggs available for fertilization;  
+
+ (d) Cytology to evaluate cell samples from the reproductive tract to look for infections or abnormalities or determine the best time for breeding; and  
+
+ (e) Any direct visualization or imaging to evaluate the reproductive organs. 
+
+ (28) "Practitioner of allied health methods": As used in ORS 686.040(4), is a person actively licensed by an Oregon 
+Health Practitioner Board listed in ORS 676.150. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 686.210, ORS 475.190, 609.405, 686.130, 686.255 & 686.510 
+ 
+ 
+ Statutes/Other Implemented:  ORS 475.190, 609.405, 686.130, 686.255 & 686.510 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VMEB 8-2025, amend filed 12/31/2025, effective 12/31/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VMEB 7-2025, amend filed 11/10/2025, effective 11/10/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VMEB 3-2025, temporary amend filed 09/10/2025, effective 09/10/2025 through 03/08/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VMEB 2-2025, amend filed 07/24/2025, effective 07/24/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VMEB 1-2025, amend filed 04/11/2025, effective 04/11/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VMEB 8-2024, amend filed 10/24/2024, effective 10/24/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VMEB 6-2024, amend filed 09/03/2024, effective 09/03/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VMEB 3-2021, amend filed 08/24/2021, effective 09/01/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VMEB 2-2020, amend filed 02/10/2020, effective 02/10/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VMEB 6-2018, amend filed 07/31/2018, effective 07/31/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VMEB 3-2018, minor correction filed 02/14/2018, effective 02/14/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VMEB 8-2017, amend filed 11/07/2017, effective 11/08/2017 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VMEB 1-2015, f. & cert. ef. 11-13-15 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VMEB 1-2014, f. & cert. ef. 1-17-14 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VMEB 3-2012, f. & cert. ef. 8-28-12 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VMEB 1-2012, f. & cert. ef. 6-25-12 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ Reverted to VMEB 7-2008, f. & cert. ef. 7-22-08 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VMEB 5-2011(Temp), f. & cert. ef. 12-12-11 thru 6-9-12 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VMEB 7-2008, f. & cert. ef. 7-22-08 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VMEB 6-2008, f. & cert. ef. 5-21-08 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VMEB 1-2008, f. & cert. ef. 2-11-08 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VMEB 2-2006, f. & cert. ef. 5-11-06 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VMEB 1-2006, f. & cert. ef. 2-8-06 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

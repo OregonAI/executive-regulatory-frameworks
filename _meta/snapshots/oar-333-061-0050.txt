@@ -1,0 +1,852 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 61 DRINKING WATER 
+ 333-061-0050 
+ Construction Standards
+ 
+ 
+ (1) General: 
+
+ (a) These standards shall apply to the construction of new public water systems and to major additions or modifications to existing public water systems and are intended to assure that the system facilities, when constructed, will be free of public health hazards and will be capable of producing water which consistently complies with the MCLs; 
+
+ (b) Facilities at public water systems must comply with the construction standards in place at the time the facility was constructed or installed for use at a public water system. A public water system shall not be required to undertake alterations to existing facilities, unless the standard is listed as a significant deficiency as prescribed in OAR 333-061-0076(4) or if MCLs are being exceeded. 
+
+ (c) Non-public and Oregon very small water systems that are converted to community, NTNC or TNC public water systems must be modified as necessary to conform to the requirements of this rule. 
+
+ (d) Facilities at public water systems shall be designed and constructed in a manner such that contamination will be effectively excluded, and the structures and piping will be capable of safely withstanding external and internal forces acting upon them; 
+
+ (e) Only materials designed for potable water service and meeting NSF Standard 61: Drinking Water System Components - Health Effects or equivalent shall be used in those elements of the water system which are in contact with potable water; 
+
+ (f) New tanks, pumps, equipment, pipe valves and fittings shall be used in the construction of new public water systems, major additions or modifications to existing water systems. The Authority may permit the use of used items when it can be demonstrated that they have been renovated and are suitable for use in public water systems; 
+
+ (g) Prior to construction of new facilities, the water supplier shall submit plans to the Authority for approval as specified in OAR 333-061-0060(1)(a). 
+
+ (h) Construction may deviate from the requirements of this section provided that documentation is submitted, to the satisfaction of the Authority, that the deviation is equal to or superior to the requirements of this section as specified in OAR 333-061-0055 (variances from construction standards). 
+
+ (i) A public water system or other Responsible Management Authority using groundwater, or groundwater under the direct influence of surface water, derived from springs, confined or unconfined wells that wish to have a state certified wellhead protection program shall comply with the requirements as specified in OAR 333-061-0057, 0060, and 0065, as well as OAR 340-040-0140 through 0200. Additional technical information is available in the Oregon Wellhead Protection Guidance Manual. 
+
+ (j) As used in this rule, the following definitions apply: 
+
+ (A) "Confined well" means a well that is constructed to draw water from a confined aquifer. More specifically, it is a well which produces water from a formation that is overlain by a low permeability material such as clay or unfractured consolidated rock such that the water-level in the well rises above the top of the aquifer. This well shall be constructed according to OAR chapter 690, division 200 "Water Supply Well Construction Standards." 
+
+ (B) "Impermeable material" means a material that limits the passage of water. 
+
+ (C) "Impounding reservoir" means an uncovered body of water formed behind a dam across a river or stream, and in which water is stored. 
+
+ (D) "Pilot study" means the construction and operation of a scaled down treatment system during a given period of time to determine the feasibility of a full-scale treatment facility. 
+
+ (E) "Sensitivity" means the intrinsic characteristics of a drinking water source such as depth to the aquifer for groundwater or highly erodible soils in a watershed that increase the potential for contamination to take place if a contaminant source is present. 
+
+ (F) "Unconfined well" means a well that is constructed to draw water from an unconfined aquifer. More specifically, it is a well which produces water from a formation that is not overlain by a low permeability material such that the water-level in the well does not rise above the top of the aquifer. This well shall be constructed according to OAR chapter 690, division 200 "Water Supply Well Construction Standards." 
+
+ (k) All new groundwater sources, whether additional or modified wells or springs, are subject to consideration for potential direct influence of surface water as prescribed in OAR 333-061-0032(7). 
+
+ (2) Groundwater: 
+
+ (a) Wells: 
+
+ (A) For the purpose of this rule, wells are defined as holes or other excavations that are drilled, dug or otherwise constructed for the purpose of capturing groundwater or groundwater in hydraulic connection where part of the water supplied by the collection system is derived, either naturally or induced, from a surface water source as a source of public drinking water. 
+
+ (B) The area within 100 feet of the well shall be owned by the water supplier, or a perpetual restrictive easement shall be obtained by the water supplier for all land (with the exception of public rights-of-way) within 100 feet of the well. The easement shall be recorded with the county in which the well is located and with the recorded deed to the property. A certified true copy shall be filed with the Authority. 
+
+ (C) For wells located on land owned by a public entity, (Federal, State, County, Municipality) where the entity is not the water supplier, a permit may be issued by the public entity to the water supplier in lieu of an easement. Said permit shall state that no existing or potential public health hazard shall be permitted within a minimum of 100 feet of a well site; 
+
+ (D) Public or private roadways may be allowed within 100 feet of a confined well, provided the well is protected against contamination from surface runoff or hazardous liquids which may be spilled on the roadway and is protected from unauthorized access; 
+
+ (E) The following sanitary hazards are not allowed within 100 feet of a well which serves a public water system unless waived by the Authority: any existing or proposed pit privy, subsurface sewage disposal drain field; cesspool; solid waste disposal site; pressure sewer line; buried fuel storage tank; animal yard, feedlot or animal waste storage; untreated storm water or gray water disposal; chemical (including solvents, pesticides and fertilizers) storage, usage or application; fuel transfer or storage; mineral resource extraction, vehicle or machinery maintenance or long term storage; junk/auto/scrap yard; cemetery; unapproved well; well that has not been properly abandoned or of unknown or suspect construction; source of pathogenic organisms or any other similar public health hazards. No gravity sewer line or septic tank shall be permitted within 50 feet of a well which serves a public water system. Clearances greater than indicated above shall be provided when it is determined by the Authority that the aquifer sensitivity and degree of hazard require a greater degree of protection. Above-ground fuel storage tanks provided for emergency water pumping equipment may be exempted from this requirement by the Authority provided that a secondary containment system is in place that will accommodate 110 percent of the fuel tank storage. 
+
+ (F) Wells shall not be located at sites which are prone to flooding. In cases where the site is subject to flooding, the area around the well shall be mounded, and the top of the well casing shall be extended at least two feet above the anticipated 100-year (1 percent) flood level; 
+
+ (G) Except as otherwise provided herein, wells shall be constructed in accordance with the general standards for the construction and maintenance of water wells in Oregon as prescribed in OAR chapter 690, divisions 200 through 220; 
+
+ (H) Wells as defined in paragraph (2)(a)(A) of this rule that are less than 12 feet in depth must be constructed so as to be cased and sealed from the surface to a minimum of three feet above the bottom of the well. The casing may consist of concrete or metal culvert pipe or other pre-approved materials. The seal shall be watertight, be a minimum of four inches in thickness and may consist of cement, bentonite or concrete (see concrete requirements prescribed in OAR 690-210-315). The construction and placement of these wells must comply with all requirements of this rule. 
+
+ (I) Before a well is placed into operation as the source of supply at a public water system, laboratory reports as required by OAR 333-061-0036 shall be submitted by the water supplier; 
+
+ (J) Water obtained from wells which exceed the MCLs shall be treated as outlined in section (4) of this rule; 
+
+ (K) The pump installation, piping arrangements, other appurtenances, and well house details at wells which serve as the source of supply for a public water system, shall meet the following requirements: 
+
+ (i) The line shaft bearings of turbine pumps shall be water-lubricated, except that bearings lubricated with non-toxic approved food-grade lubricants may be permitted in wells where water-lubricated bearings are not feasible due to depth to the water; 
+
+ (ii) Where turbine pumps are installed, the top of the casing shall be sealed into the pump motor. Where submersible pumps are installed, the top of the casing shall be provided with a watertight sanitary seal; 
+
+ (iii) A casing vent shall be provided and shall be fitted with a screened return bend; 
+
+ (iv) Provisions shall be made for determining the depth to water surface in the well under pumping and static conditions; 
+
+ (v) A sampling tap shall be provided on the pump discharge line; 
+
+ (vi) Piping arrangements shall include provisions for pumping the total flow from the well to waste; 
+
+ (vii) A method of determining the total output of each well shall be provided. This requirement may be waived by the Authority at confined wells which serve as the source of supply for TNCs; 
+
+ (viii) A reinforced concrete slab shall be poured around the well casing at ground surface. The slab shall be sloped to drain away from the casing; 
+
+ (ix) The ground surface around the well slab shall be graded so that drainage is away from the well; 
+
+ (x) The top of the well casing shall extend at least 12 inches above the concrete slab; 
+
+ (xi) Provisions shall be made for protecting pump controls and other above-ground appurtenances at the well head. Where a wellhouse is installed for this purpose, it shall meet applicable building codes and shall be insulated, heated and provided with lights, except that where the wellhouse consists of a small removable box-like structure the requirement for lights may be waived by the Authority; 
+
+ (xii) The wellhouse shall be constructed so that the well pump can be removed. 
+
+ (xiii) Wells equipped with pitless adaptors or units are not required to meet the requirements of subparagraphs (2)(a)(K)(iii) and (viii) of this rule. 
+
+ (L) The area in the vicinity of a well, particularly the area uphill or upstream, shall be surveyed by the water supplier to determine the location and nature of any existing or potential public health hazards; 
+
+ (M) The requirements with respect to land ownership, clearances from public health hazards, and protection against flooding for wells in an unconfined aquifer shall be the same or more restrictive than those prescribed for wells in confined aquifers, as determined by the Authority. 
+
+ (N) Before a well is placed into operation as the source of supply for a public water system, the following documents shall be submitted by the water supplier: 
+
+ (i) Reports on pumping tests for yield and drawdown for unconfined wells; 
+
+ (ii) Reports of laboratory analyses on contaminants in the water as required by OAR 333-061-0036; 
+
+ (iii) Performance data on the pumps and other equipment; 
+
+ (iv) Proposals for disinfection as required by section (5) of this rule, if applicable. 
+
+ (v) Reports on determination of potential direct influence by surface water into groundwater source as prescribed in section (3) of this rule. 
+
+ (b) Springs: 
+
+ (A) In addition to those requirements under subsection (2)(a) of this rule, construction of spring supplies shall meet the following requirements: 
+
+ (i) An intercepting ditch shall be provided above the spring to effectively divert surface water; 
+
+ (ii) A fence shall be installed around the spring area unless other provisions are made to effectively prevent access by animals and unauthorized persons; 
+
+ (iii) The springbox shall be constructed of concrete or other impervious durable material and shall be installed so that surface water is excluded; 
+
+ (iv) The springbox shall be provided with a screened overflow which discharges to daylight, an outlet pipe provided with a shutoff valve, a bottom drain, an access manhole with a tightly fitting cover, and a curb around the manhole. 
+
+ (v) Spring collection facilities that meet the definition of a well in paragraph (2)(a)(A) of this rule must comply with construction requirements specified in paragraph (2)(a)(H) of this rule. 
+
+ (B) Reports on flow tests shall be provided to establish the yield of springs. 
+
+ (3) Surface water and groundwater under direct surface water influence source facilities: 
+
+ (a) In selecting a site for an infiltration gallery, or for a direct intake from a stream, lake, or impounding reservoir, consideration shall be given to land use in the watershed. A sanitary survey of the watershed shall be made by the water supplier to evaluate natural and man-made factors which may affect water quality and investigations shall also be made of seasonal variations in water quality and quantity. A report giving the results of this survey shall be submitted for review and approval by the Authority. 
+
+ (b) A determination shall be made as to the status of water rights, and this information shall be submitted to the Authority for review. 
+
+ (c) Impounding reservoirs shall be designed and constructed so that they include the following features: 
+
+ (A) The capacity shall be sufficient to meet projected demands during drought conditions; 
+
+ (B) Outlet piping shall be arranged so that water can be withdrawn from various depths; 
+
+ (C) Facilities shall be provided for releasing undesirable water. 
+
+ (d) Direct intake structures shall be designed and constructed so that they include the following features: 
+
+ (A) Screens shall be provided to prevent fish, leaves and debris from entering the system; 
+
+ (B) Provisions shall be made for cleaning the screens, or self-cleaning screens shall be installed; 
+
+ (C) Motors and electrical controls shall be located above flood level; 
+
+ (D) Provisions shall be made to restrict swimming and boating in the vicinity of the intake; 
+
+ (E) Valves or sluice gates shall be installed at the intake to provide for the exclusion of undesirable water when required. 
+
+ (4) Water treatment facilities (other than disinfection). 
+
+ (a) General. 
+
+ (A) Water treatment facilities shall be capable of producing water which consistently does not exceed MCLs. The type of treatment shall depend on the raw water quality. The Authority shall make determinations of treatment capabilities based upon recommendations in the US EPA Guidance Manual for Compliance with the Filtration and Disinfection Requirements for Public Water Systems Using Surface Water Sources. 
+
+ (B) Investigations shall be undertaken by the water supplier prior to the selection or installation of treatment facilities to determine the physical, chemical and microbiological characteristics of the raw water as appropriate. These investigations shall include a determination of the seasonal variations in water quality, as well as a survey to identify potential sources of contamination which may affect the quality of the raw water. 
+
+ (C) Water obtained from wells constructed in conformance with the requirements of these rules and which is found not to exceed the MCLs, may be used without treatment at public water systems. 
+
+ (D) Laboratory equipment shall be provided so that the water supplier can perform analyses necessary to monitor and control the treatment processes. 
+
+ (E) Sampling taps shall be provided before and following the treatment process and before the first user when any form of water treatment is used at a public water system. 
+
+ (F) Piping that bypasses required treatment facilities must have a physical gap between pipes that carry treated and untreated water. 
+
+ (b) Best Available Technology: 
+
+ (A) Pilot studies or other supporting data shall be used to demonstrate the effectiveness of any treatment method other than that defined as a BAT. Pilot study protocol shall be approved beforehand by the Authority. When point-of-use (POU) or point-of-entry (POE) devices are used for compliance, programs to ensure proper long-term operation, maintenance, and monitoring shall be provided by the water system to ensure adequate performance. 
+
+ (B) The Authority identifies the following as the BAT, treatment techniques, or other means available for achieving compliance with the MCLs for volatile organic chemicals: 
+
+ (i) Central treatment using packed tower aeration for all these chemicals. 
+
+ (ii) Central treatment using GAC for all these chemicals except vinyl chloride. 
+
+ (C) The Authority identifies the following as the BAT, treatment techniques or other means generally available for achieving compliance with the MCL for fluoride. 
+
+ (i) Activated alumina absorption, centrally applied. 
+
+ (ii) Reverse osmosis, centrally applied. 
+
+ (D) The Authority identifies the following as the BAT, treatment techniques, or other means available for achieving compliance with the MCL for E. coli as specified in OAR 333-061-0030(4). 
+
+ (i) Protection of wells from fecal contamination by appropriate placement and construction. 
+
+ (ii) Maintenance of a disinfectant residual throughout the distribution system. 
+
+ (iii) Proper maintenance of the distribution system including appropriate pipe replacement and repair procedures, main flushing programs, proper operation and maintenance of storage tanks and reservoirs, cross connection control and maintaining a minimum pressure of 20 psi at all service connections. 
+
+ (iv) Filtration treatment or disinfection of surface water or GWUDI or disinfection of groundwater using strong oxidants such as chlorine, chlorine dioxide, or ozone. 
+
+ (v) For systems using only groundwater, compliance with the requirements of an Authority approved wellhead protection program. 
+
+ (E) The Authority identifies the following as the BAT, treatment techniques, or other means available for achieving compliance with the MCLs for organic chemicals. 
+
+ (i) Central treatment using packed tower aeration for dibromochloropropane, ethylene dibromide, hexachlorocyclopentadiene and di(2-ethylhexyl)adipate. 
+
+ (ii) Central treatment using GAC for all these chemicals except trihalomethanes and glyphosate. 
+
+ (iii) Central treatment using oxidation (chlorination or ozonation) for glyphosate. 
+
+ (F) The Authority identifies the following as the BAT, treatment techniques, or other means available for achieving compliance with the MCLs for inorganic chemicals. Preoxidation may be required to convert Arsenic III to Arsenic V. 
+
+ (i) Central treatment using coagulation/filtration for systems with 500 or more service connections for antimony, arsenic V (for systems with populations 501-10,000), asbestos, beryllium, cadmium, chromium, mercury (influent concentration ≥ 10ug/L), and selenium (selenium IV only). 
+
+ (ii) Central treatment using direct and diatomite filtration for asbestos. 
+
+ (iii) Central treatment using GAC for mercury. 
+
+ (iv) Central treatment using activated alumina for arsenic V (for systems with populations l0,000 or less), beryllium, selenium and thallium. 
+
+ (v) Central treatment using ion exchange for arsenic V (for systems with populations 10,000 or less), barium, beryllium, cadmium, chromium, cyanide, nickel, nitrate, nitrite and thallium. 
+
+ (vi) Central treatment using lime softening for systems with 500 or more service connections for arsenic V (for systems with populations of 501-10,000), barium, beryllium, cadmium, chromium (chromium III only), mercury (influent concentration ≥ 10ug/L), nickel and selenium. 
+
+ (vii) Central treatment using reverse osmosis for antimony, arsenic V (for systems with populations of 501-10,000), barium, beryllium, cadmium, chromium, cyanide, mercury (influent concentration ≥ 10ug/L), nickel, nitrate, nitrite, and selenium. 
+
+ (viii) Central treatment using corrosion control for asbestos or lead and copper. 
+
+ (ix) Central treatment using electrodialysis for arsenic V (for systems with populations of 501-10,000), barium, nitrate, and selenium. 
+
+ (x) Central treatment using alkaline chlorination (pH≥8.5) for cyanide. 
+
+ (xi) Central treatment using coagulation-assisted microfiltration for arsenic V (for systems with populations 501-10,000). 
+
+ (xii) Central treatment using oxidation/filtration for arsenic V (to obtain high removals, iron to arsenic ratio must be at least 20:1). 
+
+ (xiii) Point-of-use treatment using activated alumina for arsenic V (for systems with populations 10,000 or less). 
+
+ (xiv) Point-of-use treatment using reverse osmosis for arsenic V (for systems with populations 10,000 or less). 
+
+ (G) The Authority identifies the following as the best technology, treatment techniques, or other means available for achieving compliance with the MCLs for disinfection byproducts: 
+
+ (i) For bromate concentrations: control of ozone treatment process to reduce production of bromate. 
+
+ (ii) For chlorite concentrations: control of treatment processes to reduce disinfectant demand and control of disinfection treatment processes to reduce disinfectant levels. 
+
+ (iii) For TTHM and HAA5, for water systems that disinfect their source water and monitor in accordance with OAR 333-061-0036(4)(c) or (d): enhanced coagulation or enhanced softening plus GAC in filter beds with an empty-bed contact time of 10 minutes based on average daily flow and a carbon reactivation frequency of every 180 days, except that the reactivation frequency for GAC for compliance with OAR 333-061-0030(2)(b) shall be 120 days; or nanofiltration with a molecular weight cutoff less than or equal to 1000 Daltons; or GAC in filter beds with an empty-bed contact time of 20 minutes based on average daily flow and a carbon reactivation frequency of every 240 days. 
+
+ (iv) For TTHMs and HAA5, for purchasing water systems with populations greater than or equal to 10,000 and that monitor in accordance with OAR 333-061-0036(4)(c) or (d) improved distribution system and storage tank management to reduce residence time, plus the use of chloramines for disinfectant residual maintenance. This applies only to the disinfected water that purchasing water systems receive from a wholesale system. 
+
+ (v) For TTHMs and HAA5, for purchasing water systems with populations less than 10,000 and that monitor in accordance with OAR 333-061-0036(4)(c) or (d): improved distribution system and storage tank management to reduce residence time. This applies only to the disinfected water that purchasing water systems receive from a wholesale system. 
+
+ (H) The Authority identifies the following as the best technology, treatment techniques, or other means available for achieving compliance with the MRDLs: Control of treatment processes to reduce disinfectant demand and control of disinfection treatment processes to reduce disinfectant levels. 
+
+ (I) The Authority identifies the following as the BAT, treatment techniques, or other means available for achieving compliance with the MCLs for radionuclides. 
+
+ (i) Central treatment using ion exchange for combined radium-226/228, beta particle/photon activity and uranium. 
+
+ (ii) Central treatment using reverse osmosis for combined radium-226/228, gross alpha particle activity, beta particle/photon activity, and uranium (for systems with populations 501-10,000). 
+
+ (iii) Central treatment using lime softening for combined radium-226/228, and uranium (for systems with populations 501-10,000). 
+
+ (iv) Central treatment using enhanced coagulation/filtration for uranium. 
+
+ (v) Central treatment using activated alumina for uranium (for systems with populations of 10,000 or less). 
+
+ (vi) Central treatment using greensand filtration for combined radium-226/228. 
+
+ (vii) Central treatment using electrodialysis for combined radium-226/228. 
+
+ (viii) Central treatment using pre-formed hydrous manganese oxide filtration for combined radium-226/228. 
+
+ (ix) Central treatment using co-precipitation with barium for combined radium-226/228. 
+
+ (x) Point-of-use treatment using ion exchange for combined radium-226/228, beta particle/photon activity, and uranium. 
+
+ (xi) Point-of use treatment using reverse osmosis for combined radium-226/228, gross alpha particle activity, beta particle/ photon activity, and uranium (for systems with populations of 10,000 or less). 
+
+ (c) Filtration of surface water sources and groundwater sources under the direct influence of surface water. 
+
+ (A) All water systems using surface water or groundwater sources under the direct influence of surface water that fail to meet the criteria for avoiding filtration prescribed in OAR 33-061-0032(2) and (3) must meet all requirements of this subsection for installing filtration treatment. 
+
+ (B) There are four standard filtration methods: conventional filtration, direct filtration, slow sand, and diatomaceous earth. Other filtration technologies are only acceptable if their efficiency at removing target organisms and contaminants can be demonstrated to be equal to or more efficient than these. The assumed log removals credited to filtration of Giardia lamblia and viruses will be based on recommendations in the US EPA Guidance Manual for Compliance with the Filtration and Disinfection Requirements for Public Water Systems Using Surface Water Sources. In all cases, filtration processes must be designed and operated to achieve at least 2.0 log removal of Giardia lamblia . For membrane filtration, removal credits shall be verified by a challenge study according to paragraphs (4)(c)(H) and (I) of this rule. Bag and cartridge Filtration must have removal credits demonstrated in a challenge study according to paragraph (4)(c)(J) of this rule. The combination of filtration and disinfection must meet the inactivation levels prescribed in OAR 333-061-0032(1). Any water system wishing to challenge the assumed log removal credits must conduct demonstration studies based on the recommendations in the USEPA SWTR Guidance Manual and have the study protocol approved by the Authority. 
+
+ (C) Pilot studies shall be conducted by the water supplier to demonstrate the effectiveness of any filtration method other than conventional filtration. Pilot study protocol shall be approved in advance by the Authority. Results of the pilot study shall be submitted to the Authority for review and approval. 
+
+ (D) Regardless of the filtration method used, the water system must achieve a minimum of 0.5-log reduction of Giardia lamblia and a 1.0-log reduction of viruses from disinfection alone after filtration treatment. 
+
+ (E) All filtration systems shall be designed and operated so as to meet the requirements prescribed in OAR 333-061-0032(4) and (5). Design of the filtration system must be in keeping with accepted standard engineering references acknowledged by the Authority such as the Great Lakes Upper Mississippi River "Recommended Standards for Water Works" technical reports by the International Reference Center for Community Water Supply and Sanitation, or publications from the World Health Organization. A list of additional references is available from the Authority upon request. 
+
+ (F) Requirements for water systems using conventional or direct filtration. 
+
+ (i) Systems that employ multiple filters shall be designed such that turbidity measurements are monitored for each filter independently of the other filter(s). Each filter shall have a provision to discharge effluent water as waste. 
+
+ (ii) All water treatment plants shall have an auto-dial call out alarm or an automatic shut-off for high turbidity. 
+
+ (G) Additional requirements for membrane filtration. Each membrane filter system must have a turbidimeter installed after each filter unit for continuous indirect integrity monitoring. Once operating, direct and indirect integrity testing must be conducted on each unit as described in OAR 333-061-0036(5)(d). The operation and maintenance manual must include a diagnosis and repair plan such that the ability to remove pathogens is not compromised. 
+
+ (H) Challenge Study criteria for Membrane Filtration. Water systems receive Cryptosporidium treatment credit for membrane filtration, as defined in OAR 333-061-0020(59)(f), that meets the criteria of this paragraph. The level of treatment credit a water system receives is equal to the lower of the values determined in this paragraph. 
+
+ (i) The removal efficiency demonstrated during challenge testing conducted under the conditions in accordance with paragraph (4)(c)(I) of this rule. 
+
+ (ii) The maximum removal efficiency that can be verified through direct integrity testing of the membrane filtration process under the conditions prescribed by OAR 333-061-0036(5)(d)(B). 
+
+ (I) Challenge Testing. The membrane filter used by the water system must undergo challenge testing to evaluate removal efficiency, and results of the challenge testing must be reported to the Authority. Challenge testing must be conducted according to the criteria specified in this paragraph. Water systems may use data from challenge testing conducted prior to June 1, 2009 if the prior testing was consistent with the criteria specified in this paragraph. 
+
+ (i) Challenge testing must be conducted on a full-scale membrane module, identical in material and construction to the membrane modules used in the water system's treatment facility, or a smaller-scale membrane module, identical in material and similar in construction to the full-scale module. A module is defined as the smallest component of a membrane unit in which a specific membrane surface area is housed in a device with a filtrate outlet structure. 
+
+ (ii) Challenge testing must be conducted using Cryptosporidium oocysts or a surrogate that is removed no more efficiently than Cryptosporidium oocysts. Cryptosporidium or the surrogate used during challenge testing is referred to as the challenge particulate. The concentration of the challenge particulate, in both the feed and filtrate water, must be determined using a method capable of discretely quantifying the specific challenge particulate used in the test; gross measurements such as turbidity may not be used. 
+
+ (iii) The maximum feed water concentration that can be used during a challenge test is based on the detection limit of the challenge particulate in the filtrate and must be determined according to the following equation: 
+
+ 
+ Maximum Feed Concentration = 3.16 x 106 x (Filtrate Detection Limit). 
+ 
+
+ (iv) Challenge testing must be conducted according to representative hydraulic conditions at the maximum design flux and maximum design process recovery specified by the manufacturer for the membrane module. Flux is defined as the throughput of a pressure driven membrane process expressed as flow per unit of membrane area. Recovery is defined as the volumetric percent of feed water that is converted to filtrate over the course of an operating cycle uninterrupted by events such as chemical cleaning or a solids removal process (that is, backwashing). 
+
+ (v) Removal efficiency of a membrane module must be calculated from the challenge test results and expressed as a log removal value according to the following equation: 
+
+ 
+ LRV = LOG10(Cf) - LOG10(Cp) 
+
+ Where: 
+
+ LRV = log removal value demonstrated during the challenge test; 
+
+ Cf = the feed concentration measured during the challenge test; and 
+
+ Cp = the filtrate concentration measured during the challenge test. Equivalent units must be used for the feed and filtrate concentrations. If the challenge particulate is not detected in the filtrate, the term Cp is set equal to the detection limit for the purpose of calculating the LRV. An LRV must be calculated for each membrane module evaluated during the challenge test. 
+ 
+
+ (vi) The removal efficiency of a membrane filtration process demonstrated during challenge testing must be expressed as a log removal value (LRVC-Test). If fewer than 20 modules are tested, then LRVC-Test is equal to the lowest of the representative LRVs among the modules tested. If 20 or more modules are tested, then LRVC-Test is equal to the 10th percentile of the representative LRVs among the modules tested. The percentile is defined by (i/(n+1)) where i is the rank of n individual data points ordered lowest to highest. If necessary, the 10th percentile may be calculated using linear interpolation. 
+
+ (vii) The challenge test must establish a quality control release value (QCRV) for a non-destructive performance test that demonstrates the Cryptosporidium removal capability of the membrane filtration module. This performance test must be applied to each production membrane module used by the system that was not directly challenge tested in order to verify Cryptosporidium removal capability. Production modules that do not meet the established QCRV are not eligible for the treatment credit demonstrated during the challenge test. 
+
+ (viii) If a previously tested membrane is modified in a manner that could change the removal efficiency of the membrane or the applicability of the non-destructive performance test and associated QCRV, additional challenge testing to demonstrate the removal efficiency of, and determine a new QCRV for, the modified membrane must be conducted and submitted to the Authority. 
+
+ (J) Challenge Study requirements for Bag and Cartridge Filtration. 
+
+ (i) The Cryptosporidium treatment credit awarded to bag or cartridge filters must be based on the removal efficiency demonstrated during challenge testing that is conducted according to the criteria specified in this paragraph. A factor of safety equal to 1-log for individual bag or cartridge filters and 0.5-log for bag or cartridge filters in series must be applied to challenge testing results to determine removal credit. Water systems may use results from challenge testing conducted prior to June 1, 2009 if the prior testing was consistent with the criteria specified in this paragraph. 
+
+ (ii) Challenge testing must be performed on full-scale bag or cartridge filters and the associated filter housing or pressure vessel, that are identical in material and construction to the filters and housings the water system will use for removal of Cryptosporidium . Bag or cartridge filters must be challenge tested in the same configuration that the system will use, either as individual filters or as a series configuration of filters. 
+
+ (iii) Challenge testing must be conducted using Cryptosporidium or a surrogate that is removed no more efficiently than Cryptosporidium . The microorganism or surrogate used during challenge testing is referred to as the challenge particulate. The concentration of the challenge particulate must be determined using a method capable of discreetly quantifying the specific microorganism or surrogate used in the test; gross measurements such as turbidity may not be used. 
+
+ (iv) The maximum feed water concentration that can be used during a challenge test must be based on the detection limit of the challenge particulate in the filtrate (that is, filtrate detection limit) and must be calculated using the following equation: 
+
+ 
+ Maximum Feed Concentration = 1 x 104 x (Filtrate Detection Limit). 
+ 
+
+ (v) Challenge testing must be conducted at the maximum design flow rate for the filter as specified by the manufacturer. 
+
+ (vi) Each filter evaluated must be tested for a duration sufficient to reach 100 percent of the terminal pressure drop, which establishes the maximum pressure drop under which the filter may be used to comply with the requirements of this paragraph. 
+
+ (vii) Removal efficiency of a filter must be determined from the results of the challenge test and expressed in terms of log removal values using the following equation: 
+
+ 
+ LRV = LOG10(Cf)-LOG10(Cp). 
+
+ Where: 
+
+ LRV = log removal value demonstrated during challenge testing; 
+
+ Cf = the feed concentration measured during the challenge test; and 
+
+ Cp = the filtrate concentration measured during the challenge test. In applying this equation, the same units must be used for the feed and filtrate concentrations. If the challenge particulate is not detected in the filtrate, then the term Cp must be set equal to the detection limit. 
+ 
+
+ (viii) Each filter tested must be challenged with the challenge particulate during three periods over the filtration cycle: within two hours of start-up of a new filter; when the pressure drop is between 45 and 55 percent of the terminal pressure drop; and at the end of the cycle after the pressure drop has reached 100 percent of the terminal pressure drop. An LRV must be calculated for each of these challenge periods for each filter tested. The LRV for the filter (LRVfilter) must be assigned the value of the minimum LRV observed during the three challenge periods for that filter. 
+
+ (ix) If fewer than 20 filters are tested, the overall removal efficiency for the filter product line must be set equal to the lowest LRVfilter among the filters tested. If 20 or more filters are tested, the overall removal efficiency for the filter product line must be set equal to the 10th percentile of the set of LRVfilter values for the various filters tested. The percentile is defined by (i/(n+1)) where i is the rank of n individual data points ordered lowest to highest. If necessary, the 10th percentile may be calculated using linear interpolation. 
+
+ (x) If a previously tested filter is modified in a manner that could change the removal efficiency of the filter product line, challenge testing to demonstrate the removal efficiency of the modified filter must be conducted and submitted to the Authority. 
+
+ (K) Water systems using cartridge filtration must have pressure gauges installed before and after each cartridge filter. 
+
+ (L) Water systems using diatomaceous earth filtration must add the body feed with the influent flow. 
+
+ (d) Criteria and procedures for public water systems using point-of-entry (POE) or point-of-use (POU) devices. 
+
+ (A) Public water systems may use POE or POU devices to comply with MCLs, where specified in subsection (4)(b) of this rule, only if they meet the requirements of this subsection. 
+
+ (B) It is the responsibility of the public water system to operate and maintain the POE or POU treatment system. 
+
+ (C) The public water system must develop and obtain Authority approval for a monitoring plan before POE or POU devices are installed for compliance. Under the plan approved by the Authority, POE or POU devices must provide health protection equivalent to central water treatment. "Equivalent" means that the water would meet all MCLs as prescribed in OAR 333-061-0030 and would be of acceptable quality similar to water distributed by a well-operated central treatment plant. Monitoring must include contaminant removal efficacy, physical measurements and observations such as total flow treated and mechanical condition of the treatment equipment. 
+
+ (D) Effective technology must be properly applied under a plan approved by the Authority and the microbiological safety of the water must be maintained. 
+
+ (i) The water supplier must submit adequate certification of performance, field testing, and, if not included in the certification process, a rigorous engineering design review of the POE or POU devices to the Authority for approval prior to installation. 
+
+ (ii) The design and application of the POE or POU devices must consider the tendency for increase in heterotrophic bacteria concentrations in water treated with activated carbon. It may be necessary to use frequent backwashing, post-contractor disinfection, and Heterotrophic Plate Count monitoring to ensure that the microbiological safety of the water is not compromised. 
+
+ (iii) The POE or POU device must be evaluated to assure that the device will not cause increased corrosion of lead and copper bearing materials located between the device and the tap that could increase contaminant levels of lead and copper at the tap. 
+
+ (E) All consumers shall be protected. Every building connected to the system must have a POE or POU device installed, maintained, and adequately monitored. The Authority must be assured that every building is subject to treatment and monitoring, and that the rights and responsibilities of the public water system customer convey with title upon sale of property. 
+
+ (5) Facilities for disinfection and disinfectant residual maintenance: 
+
+ (a) Water obtained from surface sources or groundwater sources under the direct influence of surface water shall, as a minimum, be provided with disinfection for pathogen inactivation before such water may be used as a source of supply for a public water system. Water obtained from wells constructed in conformance with the requirements of these rules and which is found not to exceed microbiological MCLs, may be used without treatment at public water systems; 
+
+ (b) Water obtained from wells and springs shall be considered groundwater unless determined otherwise by the Authority. Wells and springs may be utilized without disinfection if the construction requirements of section (2) of this rule are met and analyses indicate that the water consistently meets microbiological standards. A well or spring that is inadequately constructed must be upgraded to meet current construction standards or disconnected from the water system before disinfection treatment may be utilized when E. coli contamination was confirmed according to OAR 333-061-0032(7) or OAR 333-061-0036(6)(j) and where the Authority determines that reconstruction will add a significant measure of public health protection. 
+
+ (c) In public water systems where disinfection for pathogen inactivation is required as the sole form of treatment or as one component of more extensive treatment to meet the requirements prescribed in OAR 333-061-0032(1), the facilities shall be designed so that: 
+
+ (A) The disinfectant applied shall be capable of effectively destroying pathogenic organisms; 
+
+ (B) The disinfectant is applied in proportion to water flow; and 
+
+ (C) Disinfectants, other than ultraviolet light (UV) and ozone, shall be capable of leaving a residual in the water which can be readily measured and which continues to serve as an active disinfectant. The disinfectant shall be applied at every entry point so a residual is present throughout the distribution system; and 
+
+ (D) Sufficient contact time shall be provided to achieve "CT" values capable of the inactivation required by OAR 333-061-0032(1). For UV disinfection treatment, sufficient irradiance expressed in milliwatts per square centimeter (mWs/cm2) and exposure time expressed in seconds shall be provided to achieve UV dose levels expressed as (mWs/cm2) or millijoules per square centimeter (mJ/cm2) capable of the inactivation required by OAR 333-061-0032(1). 
+
+ (d) When disinfection for pathogen inactivation, other than UV disinfection, is required for reasons other than the treatment of surface water sources or groundwater sources under the direct influence of surface water, in addition to the requirements of paragraphs (5)(c)(A) through (C) of this rule, the facilities shall be designed so that: 
+
+ (A) The primary disinfection treatment is sufficient to ensure at least 99.99 percent (4-log) inactivation or removal of viruses as determined by the Authority, or; 
+
+ (B) There is sufficient contact time provided to achieve disinfection under all flow conditions between the point of disinfectant application and the point of first water use: 
+
+ (i) When chlorine is used as the primary disinfectant, the system shall be constructed to achieve a free chlorine residual of 0.2 mg/l after 30 minutes contact time under all flow conditions before first water use; 
+
+ (ii) When ammonia is added to the water with the chlorine to form a chloramine as the disinfectant, the system shall be constructed to achieve a combined chlorine residual of at least 2.0 mg/l after three hours contact time under all flow conditions before first water use; 
+
+ (e) Provisions shall be made to alert the water supplier before the chlorine supply is exhausted. Water systems serving more than 3,300 people shall have an auto-dial call out alarm or an automatic shut-off for low chlorine residual when chlorine is used as a disinfectant. 
+
+ (f) Sample taps shall be provided before and after disinfectant application as specified in subsection (4)(a)(E) of this rule; 
+
+ (g) Testing equipment shall be provided to determine the chlorine residual; 
+
+ (h) Chlorinator piping shall be designed to prevent the contamination of the potable water system by backflow of untreated water or water having excessive concentrations of chlorine; 
+
+ (i) The disinfectant must be applied in proportion to water flow; 
+
+ (j) Chlorine gas feeders and chlorine gas storage areas shall: 
+
+ (A) Be enclosed and separated from other operating areas; 
+
+ (B) Chlorine cylinders shall be restrained in position to prevent upset by chaining 100 and 150 pound cylinders two-thirds of their height up from the floor and by double chocking one ton cylinders; 
+
+ (C) The room housing the feeders and cylinders shall be above ground surface, shall have doors which open outward and to the outside and shall be ventilated by mechanical means at floor level and shall have an air intake located higher than the exhaust ventilation; 
+
+ (D) Be located so that chlorine gas, if released, will not flow into the building ventilation systems; 
+
+ (E) Have corrosion resistant lighting and ventilation switches located outside the enclosure, adjacent to the door; 
+
+ (F) Be provided with a platform or hydraulic scale for measuring the weight of the chlorine cylinders; 
+
+ (G) Be provided with a gas mask or self-contained breathing apparatus approved by the National Institute of Occupational Safety and Health (NIOSH) for protection against chlorine gas and kept in good working condition. Storage of such equipment shall be in an area adjoining the chlorine room and shall be readily available. (Also see the Oregon Occupational Health and Safety regulations contained in OAR chapter 437.) 
+
+ (k) When disinfection for pathogen inactivation is provided through UV disinfection, the facilities shall be designed to meet the requirements of this subsection: 
+
+ (A) The UV unit must achieve the dosage indicated in OAR 333-061-0036, Table 32 for the required pathogen inactivation. 
+
+ (B) Ultraviolet lamps are insulated from direct contact with the influent water and are removable from the lamp housing; 
+
+ (C) The treatment unit must have an upstream valve or device that prevents flows from exceeding the manufacturer's maximum rated flow rate, a UV sensor that monitors light intensity through the water during operation, and a visual and audible alarm; 
+
+ (D) There must be a visual means to verify operation of all ultraviolet lamps; 
+
+ (E) The lamps, lamp sleeves, housings and other equipment must be able to withstand the working pressures applied through the unit; 
+
+ (F) The treatment facility must be sheltered from the weather and accessible for routine maintenance as well as routine cleaning and replacement of the lamp sleeves and cleaning of the sensor windows/lenses; 
+
+ (G) The lamps must be changed as per the manufacturer's recommendation; and 
+
+ (H) The treatment unit must have shut-off valves at both the inlet side and the outlet side of the treatment unit. There shall be no bypass piping around the treatment unit. 
+
+ (I) Reactor validation testing. All water systems, except those specified in paragraph (5)(l) of this rule, must use UV reactors that have undergone validation testing to determine the operating conditions under which the reactor delivers the UV dose required in OAR 333-061-0036(5)(c) (that is, validated operating conditions). These operating conditions must include flow rate, UV intensity as measured by a UV sensor, UV Transmittance based on reactor validation, and UV lamp status. 
+
+ (i) When determining validated operating conditions, water systems must account for the following factors: UV absorbance by the water; lamp fouling and aging; measurement uncertainty of on-line sensors; UV dose distributions arising from the velocity profiles through the reactor; failure of UV lamps or other critical system components; and inlet and outlet piping or channel configurations of the UV reactor. 
+
+ (ii) Validation testing must include the following: full scale testing of a reactor that conforms uniformly to the UV reactors used by the water system and inactivation of a test microorganism whose dose response characteristics have been quantified with a low pressure mercury vapor lamp. 
+
+ (iii) The Authority may approve an alternative approach to validation testing. 
+
+ (l) At non-Community water systems using only groundwater sources and having minimal distribution systems as determined by the Authority, water suppliers may use UV as the only disinfectant when total coliforms but no E. coli have been detected in the source water. UV units must meet the specifications of a Class A UV system according to NSF Standard 55. 
+
+ (6) Finished water storage: 
+
+ (a) Distribution reservoirs and treatment plant storage facilities for finished water shall be constructed to meet the following requirements: 
+
+ (A) They shall be constructed of concrete, steel, wood or other durable material capable of withstanding external and internal forces which may act upon the structure; 
+
+ (B) Ground-level reservoirs shall be constructed on undisturbed soil, bedrock or other stable foundation material capable of supporting the structure when full; 
+
+ (C) Steel reservoirs, standpipes and elevated tanks shall be constructed in conformance with the AWWA Standards D100 and D103; 
+
+ (D) Concrete reservoirs shall be provided with sufficient reinforcing to prevent the formation of cracks, and waterstops and dowels shall be placed at construction joints. Poured-in-place wall castings shall be provided where pipes pass through the concrete; 
+
+ (E) Wooden reservoirs shall be redwood or other equally durable wood and shall be installed on a reinforced concrete base. Where redwood reservoirs are used, separate inlet and outlet pipes are required and the water entering the reservoir must have a disinfectant continuously applied so as to result in a detectable residual in the water leaving the reservoir; 
+
+ (F) Start-up procedures for new redwood tanks shall consist of filling the tank with a solution of water containing a minimum of two pounds of sodium carbonate per 1,000 gallons of water and retaining this solution in the tank a minimum of seven days before flushing; 
+
+ (G) Where ground-level reservoirs are located partially below ground, the bottom shall be above the ground water table and footing drains discharging to daylight shall be provided to carry away ground water which may accumulate around the perimeter of the structure; 
+
+ (H) The finished water storage capacity shall be increased to accommodate fire flows when fire hydrants are provided; 
+
+ (I) Finished water storage facilities shall have watertight roofs; 
+
+ (J) An access manhole shall be provided to permit entry to the interior for cleaning and maintenance. When the access manhole is on the roof of the reservoir there shall be a curbing around the opening and a lockable watertight cover that overlaps the curbing; 
+
+ (K) Internal ladders of durable material, shall be provided where the only access manhole is located on the roof; 
+
+ (L) Screened vents shall be provided above the highest water level to permit circulation of air above the water in finished water storage facilities; 
+
+ (M) A drain shall be provided at the lowest point in the bottom of the storage facility and an overflow of sufficient diameter to handle the maximum flow into the tank shall be provided at or near the top of the sidewall. The outlet ends of the drain and overflow shall be fitted with angle-flap valves or equivalent protection and shall discharge to a watercourse or storm drain capable of accommodating the flow with a vertical separation between the bottom of the pipe and top of the receiving body or structure; 
+
+ (N) A silt stop shall be provided at the outlet pipe; 
+
+ (O) Where a single inlet/outlet pipe is installed and the reservoir floats on the system, provisions shall be made to insure an adequate exchange of water and to prevent degradation of the water quality and to assure the disinfection levels required in paragraph (5)(c)(D) of this rule; 
+
+ (P) A fence or other method of vandal deterrence shall be provided around distribution reservoirs; 
+
+ (Q) When interior surfaces of finished water storage tanks are provided with a protective coating, the coating shall meet the requirements of NSF Standard 61: Drinking Water System Components - Health Effects or equivalent. 
+
+ (R) Reservoirs and clearwells that are to be used for disinfection contact time to treat surface water shall use a tracer study to determine the actual contact time. The Authority must approve procedures and protocols for the tracer study prior to the initiation of the study. The Authority recommends the US EPA Guidance Manual for Compliance with the Filtration and Disinfection Requirements for Public Water Systems Using Surface Water Sources for a tracer study procedure and protocol. 
+
+ (S) Reservoirs and clearwells that are to be used for disinfection contact time to treat surface water shall have a means to adequately determine the flow rate on the effluent line. 
+
+ (b) Pressure tanks for finished water shall meet the following requirements: 
+
+ (A) Pressure tanks shall be installed above normal ground surface; 
+
+ (B) Bypass piping around the pressure tank shall be provided to permit operation of the system while the tank is being maintained or repaired; 
+
+ (C) Pressure tanks greater than 1,000 gallons shall be provided with an access manhole and a water sight-glass. 
+
+ (D) All pressure tanks shall be provided with a drain, a pressure gauge, an air blow-off valve, means for adding air and pressure switches for controlling the operation of the pump(s); 
+
+ (E) Pressure tanks shall be constructed of steel or an alternative material provided the tank is NSF 61 certified and shall be designed for pressure at least 50 percent greater than the maximum system pressure anticipated. 
+
+ (7) Pumping facilities: 
+
+ (a) Wherever possible, booster pumps shall take suction from tanks and reservoirs to avoid the potential for negative pressures on the suction line which result when the pump suction is directly connected to a distribution main; 
+
+ (b) Pumps which take suction from distribution mains for the purpose of serving areas of higher elevation shall be provided with a low pressure cut-off switch on the suction side set at no less than 20 psi; 
+
+ (c) Suction lift at pumping stations shall be avoided as far as possible, and pumps shall be installed so that the suction line is under a positive head. If suction lift cannot be avoided, provision shall be made for priming with water which does not exceed MCLs; 
+
+ (d) Pumping stations shall be located above maximum anticipated 100-year (1 percent) flood level, and the area around the pumping station shall be graded so that surface drainage is away from the station; 
+
+ (e) Pumping stations shall be of durable construction so as to protect the equipment from the elements. The door to the pumping station shall be lockable, and facilities for heating and lighting shall be provided. The floor of the pumping station shall be sloped to provide adequate drainage. 
+
+ (8) Distribution systems: 
+
+ (a) Wherever possible, distribution pipelines shall be located on public property. Where pipelines are required to pass through private property, easements shall be obtained from the property owner and shall be recorded with the county clerk; 
+
+ (b) Pipe, pipe fittings, valves and other appurtenances utilized at Community water systems shall be manufactured, installed and tested in conformance with the latest standards of the American Water Works Association, NSF International or other equivalent standards acceptable to the Authority; 
+
+ (c) In Community water systems, distribution mains located in public roadways or easements, and the portion of the service connections from the distribution main to the customer's property line or service meter where provided are subject to the requirements of these rules. The piping from the customer's property line, or the meter where provided, to the point of water use (the building supply line) is subject to the requirements of the State Plumbing Code; 
+
+ (d) In all Public Water Systems where the system facilities and the premises being served are both on the same parcel of property, requirements relating to pipe materials and pipe installation shall comply with the State Plumbing Code; 
+
+ (e) Distribution piping shall be designed and installed so that the pressure measured at the property line in the case of Community water systems, or at the furthest point of water use, in the case of a TNC of the type described in subsection (d) of this section, shall not be reduced below 20 psi; 
+
+ (f) Distribution piping shall be carefully bedded and fully supported in material free from rocks and shall be provided with a cover of at least 30 inches. Select backfill material shall be tamped in layers around and over the pipe to support and protect it. Large rocks or boulders shall not be used as backfill over the pipe; 
+
+ (g) Provision shall be made at all bends, tees, plugs, and hydrants to prevent movement of the pipe or fitting; 
+
+ (h) Wherever possible, dead ends shall be minimized by looping. Where dead ends are installed, or low points exist, blow-offs of adequate size shall be provided for flushing; 
+
+ (i) Air-relief valves shall be installed at high points where air can accumulate. The breather tube on air-relief valves shall be extended above ground surface and provided with a screened, downward facing elbow; 
+
+ (j) Yarn, oakum, lead or other material which may impair water quality shall not be used where it will be in contact with potable water; 
+
+ (k) Nonconductive water pipe (plastic or other material) that is not encased in conductive pipe or casing must have an electrically conductive wire or other approved conductor for locating the pipe when the pipeline is underground. The wire shall be No. 18 AWG (minimum) solid copper with blue colored insulation. Ends of wire shall be accessible in water meter boxes, valve boxes or casings, or outside the foundation of buildings where the pipeline enters the building. The distance between tracer lead access locations shall not be more than 1,000 feet. Joints or splices in wire shall be waterproof. 
+
+ (l) Piping that is to be used for disinfection contact time shall be verified by plug flow calculations under maximum flow conditions. Plug flow, in this context, means the movement of water in a pipe such that particles pass through the pipe and are discharged in the same sequence in which they entered. 
+
+ (9) Crossings-Sanitary sewers and water lines: 
+
+ (a) All reference to sewers in this section shall mean sanitary sewers; 
+
+ (b) In situations involving a water line parallel to a sewer main or sewer lateral, the separation between the two shall be as indicated in Figure 1; 
+
+ (c) In situations where a water line and a sewer main or sewer lateral cross, the separation between the two shall be as follows: 
+
+ (A) Wherever possible, the bottom of the water line shall be 1.5 feet or more above the top of the sewer line and one full length of the water line shall be centered at the crossing; 
+
+ (B) Where the water line crosses over the sewer line but with a clearance of less than 1.5 feet, the sewer line shall be exposed to the sewer line joints on both sides of the crossing to permit examination of the sewer pipe. If the sewer pipe is in good condition and there is no evidence of leakage from the sewer line, the 1.5-foot separation may be reduced. However, in this situation, the water supplier must center one length of the water line at the crossing and must prepare a written report of the findings and indicating the reasons for reducing the separation. If the water supplier determines that the conditions are not favorable or finds evidence of leakage from the sewer line, the sewer line shall be replaced with a full length of pipe centered at the crossing point, of PVC pressure pipe (ASTM D-2241, SDR 32.5), high-density PE pipe (Drisco pipe 1000), ductile-iron Class 50 (AWWA C-51), or other acceptable pipe; or the sewer shall be encased in a reinforced concrete jacket for a distance of 10 feet on both sides of the crossing. 
+
+ (C) Where the water line crosses under the sewer line, the water supplier shall expose the sewer line and examine it as indicated in paragraph (9)(c)(B) of this rule. If conditions are favorable and there is no evidence of leakage from the sewer line, the sewer line may be left in place, but special precautions must be taken to assure that the backfill material over the water line in the vicinity of the crossing is thoroughly tamped in order to prevent settlement which could result in the leakage of sewage. In this situation, the water supplier must center one length of the water line at the crossing and must prepare a written report recording the manner in which the sewer line was supported at the crossing and the material and methods used in backfilling and tamping to prevent settlement of the sewer. If the water supplier determines that conditions are not favorable or finds evidence of leakage from the sewer line, the provisions of paragraph (9)(c)(B) of this rule apply. 
+
+ (d) When a water main is installed under a stream or other watercourse, a minimum cover of 30 inches shall be provided over the pipe. Where the watercourse is more than 15 feet wide, the pipe shall be of special construction with flexible watertight joints, valves shall be provided on both sides of the crossing so that the section can be isolated for testing or repair, and test cocks shall be provided at the valves. 
+
+ (10) Disinfection of facilities: 
+
+ (a) Following construction or installation of new facilities and repairs to existing facilities, those portions of the facilities which will be in contact with water delivered to users must be cleaned and flushed with potable water and disinfected according to AWWA Standards C651 through C654 before they are placed into service. Disinfection must be by chlorine unless another disinfectant can be demonstrated to be equally effective. 
+
+ (b) For construction of new distribution pipelines (with any associated service connections and other appurtenances installed at the time of construction), disinfection by chlorination must be conducted as specified in paragraphs (A) through (C) of this subsection unless another method from AWWA Standard C651 is used. 
+
+ (A) A solution with a free chlorine residual of at least 25 mg/l must be introduced to the pipe such that the solution will contact all surfaces and trapped air will be eliminated. The solution must remain in place for at least 24 hours. 
+
+ (B) After 24 hours, if the free chlorine residual is 10 mg/l or greater, the chlorine solution must be drained and the pipe flushed with potable water. If the free chlorine residual is less than 10 mg/l after 24-hours, the pipe must be flushed and rechlorinated until a free chlorine residual of 10 mg/l or more is present after a 24 hour period. 
+
+ (C) After the pipe is disinfected, flushed and filled with potable water, bacteriological samples must be collected to determine the procedures’ effectiveness. At least two samples must be collected from the new pipe at least 16 hours apart and analyzed for coliform bacteria. If the pipe has held potable water for at least 16 hours before sample collection, two samples may be collected at least 15 minutes apart while the sample tap is left running. If the results of both analyses indicate the water is free of coliform bacteria, the pipe may be put into service. If either sample indicates the presence of coliform bacteria, the pipe may be re-flushed, filled with potable water and re-sampled. If this second set of samples is free of coliform bacteria, the pipe may be put into service, otherwise the disinfection and flushing process must be repeated until samples are free of coliform. 
+
+ (c) For repaired pipelines that were depressurized and wholly or partly dewatered during repair or that likely experienced contamination during repair, the affected pipes must be disinfected, flushed and refilled with potable water, and bacteriological samples must be collected downstream of the repair site. If the direction of flow is unknown, samples must be collected on each side of the repair site. 
+
+ (d) A water line may be returned to service, following repairs or routine maintenance, prior to receiving a report on the bacteriological analysis if the following procedures have been completed: 
+
+ (A) Customer meters were shut off prior to placing the water line out of service; 
+
+ (B) The area below the water line to be repaired was excavated and dewatered; 
+
+ (C) The exposed pipe was treated with a hypochlorite solution; 
+
+ (D) The water line was flushed thoroughly, and a concentration of residual chlorine has been re-established that is comparable to the level normally maintained by the water system, if applicable; and 
+
+ (E) Bacteriological analysis was conducted to verify repair effectiveness according to this section and samples were collected downstream of the repair site or on each side of the repair site if the direction of flow is unknown. 
+
+ (e) For reservoirs and tanks, disinfection by chlorination shall be accomplished according to AWWA Standard C652 which includes, but is not limited to, the following methods: 
+
+ (A) Filling the reservoir or tank and maintaining a free chlorine residual of not less than 10 mg/l for the appropriate 6 or 24 hour retention period; or 
+
+ (B) Filling the reservoir or tank with a 50 mg/l chlorine solution and leaving for six hours; or 
+
+ (C) Directly applying by spraying or brushing a 200 mg/l solution to all surfaces of the storage facility in contact with water if the facility were full to the overflow elevation. 
+
+ (f) When the procedures described in paragraphs (10)(e)(A) and (B) of this rule are followed, the reservoir or tank shall be drained after the prescribed contact period and refilled with potable water, and a sample taken for microbiological analysis. If the results of the analysis indicate that the water is free of coliform organisms, the facility may be put into service. If not, the procedure shall be repeated until a sample free of coliform organisms is obtained; 
+
+ (g) When the procedure described in paragraph (10)(e)(C) of this rule is followed, the reservoir or tank shall be filled with potable water and a sample taken for microbiological analysis. It will not be necessary to flush the reservoir or tank after the chlorine solution is applied by spraying or brushing. Microbiological analysis shall indicate that the water is free of coliform organisms before the facility can be put into service; 
+
+ (h) When a reservoir is chlorinated following routine maintenance, inspection, or repair, it may be put back into service prior to receiving the report on the microbiological analysis provided the water leaving the reservoir has a free chlorine residual of at least 0.4 mg/l or a combined chlorine residual of at least 2.0 mg/l. 
+
+ (i) Underwater divers used for routine maintenance, inspection, or repair of reservoirs shall use a full body dry suit with hardhat scuba and an external air supply. The diver shall be disinfected by spraying a 200 mg/l solution of chlorine on all surfaces that will come into contact with drinking water. 
+
+   
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 448.131 
+ 
+ 
+ Statutes/Other Implemented:  ORS 448.131, 448.150, 448.273 & 448.279 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 7-2023, amend filed 01/31/2023, effective 02/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 3-2020, minor correction filed 01/06/2020, effective 01/06/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 275-2018, minor correction filed 11/28/2018, effective 11/28/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 2-2018, amend filed 01/10/2018, effective 01/10/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 5-2016, f. 2-10-16, cert. ef. 4-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ HD 106, f. & ef. 2-6-76; HD 12-1979, f. & ef. 9-11-79; HD 10-1981, f. & ef. 6-30-81; HD 17-1981(Temp), f. & ef. 8-28-81; HD 4-1982, f. & ef. 2-26-82; Renumbered from 333-042-0215, HD 2-1983, f. & ef. 2-23-83; HD 21-1983, f. 10-20-83, ef. 11-1-83; HD 11-1985, f. & ef. 7-2-85; HD 30-1985, f. & ef. 12-4-85 HD 3-1987, f. & ef. 2-17-87; HD 9-1989, f. & cert. ef. 11-13-89; HD 26-1990, f. 12-26-90, cert. ef. 12-29-90; HD 7-1992, f. & cert. ef. 6-9-92; HD 12-1992, f. & cert. ef. 12-7-92; HD 3-1994, f. & cert. ef. 1-14-94; HD 11-1994, f. & cert. ef. 4-11-94; HD 1-1996, f. 1-2-96, cert. ef. 1-5-96; HD 14-1997, f. & cert. ef. 10-31-97; OHD 4-1999, f. 7-14-99, cert. ef. 7-15-99; OHD 7-2000, f. 7-11-00, cert. ef. 7-15-00; OHD 17-2002, f. & cert. ef. 10-25-02; PH 12-2003, f. & cert. ef. 8-15-03; PH 33-2004, f. & cert. ef. 10-21-04; PH 2-2008, f. & cert. ef. 2-15-08; PH 4-2009, f. & cert. ef. 5-18-09; PH 7-2010, f. & cert. ef. 4-19-10; PH 3-2013, f. & cert. ef. 1-25-13 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,173 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 457 URBAN RENEWAL 
+ 150-457-0440 
+ Calculation of Urban Renewal with City Rate Phase-in 
+ 
+ (1) Applicability: This rule must be used in conjunction with OAR 150-457-0420 when an urban renewal agency sponsored by a city has certified a request for tax increment financing to the assessor under ORS 457.440 and the city has adopted an annexation ordinance under ORS 222.111 with a rate phase-in provision that is applicable to the city’s taxes for the tax year.  (2) When the conditions described in section (1) are present, the assessor must modify the calculations under OAR 150-457-0420 as follows, or by using a method allowed under section (3):  (a) The division of tax rate derived from the city’s taxes must be calculated separately for the area of the city that is subject to rate phase-in and for the area of the city not subject to rate phase-in. This is relevant for determining proper division of tax rates to use by code area under OAR 150-457-0420 subsection (1)(c) and sections (9), (10), (11), and (12).  (A) Calculate the division of tax rate applicable to the shared property that is not subject to rate phase-in by dividing the total division of tax amount from city taxes by the sum of:  (i) The taxable assessed value of the shared property that is not in the phase-in area, and  (ii) The product of the taxable assessed value of the shared property that is in the phase-in area multiplied by the phase-in percentage.  (B) Calculate the division of tax rate applicable to the shared property that is subject to rate phase-in by multiplying the phase-in percentage by the division of tax rate from paragraph (A) of subsection (2)(a).  (b) Division of tax rates derived from taxes of taxing districts other than the city with rate phase-in remain calculated in accordance with OAR 150-457-0420 and without modification due to the city tax phase-in.  (3) A county may use a different calculation method if approved by the Department of Revenue, it provides an equivalent phase-in of the division of tax rate derived from the city taxes, and the taxes to be raised for the urban renewal agency and city remain comparable to the calculations under section (2). 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 & 457.470 
+ 
+ 
+ Statutes/Other Implemented:  ORS 457.440 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 150-457.440(9)-(B), REV 39-2016, f. 8-12-16, cert. ef. 9-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 7-2014, f. 12-23-14, cert. ef. 1-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

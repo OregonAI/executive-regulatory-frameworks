@@ -1,0 +1,347 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Secretary of State 
+ Elections Division - Chapter 165 
+ 
+ 
+ 
+ 
+ Division 14 INITIATIVE, REFERENDUM AND RECALL 
+ 165-014-0110 
+ Statistical Sampling Procedures for Other than State Initiative or Referendum Petitions
+ 
+ 
+ (1) This rule is adopted to implement ORS 248.008, 249.008, 249.875, 250.215, 250.315 and 255.175. 
+
+ (2) For this rule, the term: 
+
+ (a) Filing Officer refers to the person with whom the petition is filed for pre-processing. A minor political party formation petition and a recall petition against a State Public Officer are filed with the Elections Division. County petitions are filed with the county elections official, city petitions are filed with the city recorder and district petitions are filed with the county elections official of the county in which the administrative office of the district is located. 
+
+ (b) Elections Official(s) refers to the person who verifies the sampling of petition signature lines against the voter’s registration record. For a minor political party formation petition or a recall petition against a State Public Officer the Elections Division may choose to verify sampled signatures or distribute to county elections officials for verification. The county elections official verifies signatures for all county, city and district petitions subject to this rule. 
+
+ (3) The handwriting characteristics and factors set forth in the Vote by Mail Procedures Manual adopted under OAR 165-007-0030 will be used by Elections Officials to evaluate and determine whether the signature on any sampled signature line matches signatures contained in the voter’s registration record. 
+
+ (a) Only a signature possessing obvious and predominantly matching characteristics with signatures contained in the voter's registration record may be determined to be a match. 
+
+ (b) A signature possessing more non-matching than matching characteristics with signatures contained in the voter's registration record shall be reviewed by at least two different elections officials before it is rejected as a non-matching signature. 
+
+ (4) A random sample for any petition submittal, will only be selected if the Filing Officer determines the petition signature sheets accepted for inclusion in the sample contain a number of unverified signatures equal to or greater than the required number of signatures necessary to accept the petition. 
+
+ (5) Once chief petitioners or sponsors submit the required number of signatures and affirm the petition is complete, the process outlined in (6) through (16) is utilized to determine if the petition contains enough valid signatures to qualify for the ballot. 
+
+ (6) Two signature samples may be selected in order to determine if the petition contains the required number of valid signatures. The statistical formula referred to in this rule is contained in Appendix 4, which is incorporated into this rule by reference. 
+
+ (7) Prior to verification, each petition cover and signature sheet is reviewed by the Filing Officer, and removed if: 
+
+ (a) The cover and signature sheet submitted is not a version that was approved for circulation. 
+
+ (b) The circulator certification is insufficient as defined by OAR 165-014-0270. 
+
+ (c) All information included in the optional information fields about the petition signers, such as their printed name, address and date signed, does not comply with OAR 165-014-0275. 
+
+  (8) The signature lines on each petition signature sheet accepted for inclusion in the sample will be reviewed and not accepted for sampling if: 
+
+ (a) The signature line is not certified by the circulator’s certification date. 
+
+ (b) The signature line does not comply with OAR 165-014-0275. 
+
+ (c) The signature line is crossed out or blank. 
+
+ (9) The size of the first sample of signatures will be 10% of the total number of signatures accepted for verification. The size of the second sample of signatures will be the same number used in the first sample, plus at least one additional signature. 
+
+ (10) The Elections Official separates the petition signature sheets containing signature lines selected in the first and second random samples from the signature sheets that are not selected in the samples. 
+
+ (11) The first random sampling of petition signature lines is verified. If the sampled signature line is a blank or crossed out line, the next available line below will be verified. If there are no lines below, the line above will be verified. When the Filing Officer and Elections Official are not the same individual these changes must be noted on the signature sheet. 
+
+ (12) The Elections Official will consolidate and tabulate the verification data generated from OCVR, for the first sample. 
+
+ (13) The statistical formula will be applied to the consolidated data from the first sample. After determining the result of the first sample the Elections Official will notify the following individuals that the petition has either qualified to the ballot or that the second larger sample will be verified: 
+
+ (a) The Filing Officer; or 
+
+ (b) The chief petitioners or sponsors of the petition if the Filing Officer and Elections are the same individual. 
+
+ (14) The second random sampling of petition signature lines is verified.. If the sampled signature line is a blank or crossed out line, the next available line below will be verified. If there are no lines below, the line above will be verified. When the Filing Officer and Elections Official are not the same individual these changes must be noted on the signature sheet. 
+
+ (15) The verification data for the second sample will be added to the first sample data and the statistical formula applied to the combined results. If the petition is accepted after verification of the combined sample the Elections Division will notify: 
+
+ (a) The Filing Officer; or 
+
+ (b) The chief petitioners or sponsors of the petition if the Filing Officer and Elections are the same person. 
+
+ (16) If after verification of the combined first and second samples the Filing Officer determines the petition does not contain the required number of valid signatures, chief petitioners may submit additional signature sheets as long as the filing deadline has not passed. Any additional submittals will be verified using the following process: 
+
+ (a) The verification procedures applied to the first submittal will be applied to any additional submittal of signatures. 
+
+ (b) The Elections Official has the option to either verify all additional signatures or to continue to use the sampling process described in this rule. 
+
+ (c) A single sample that is the larger of 100 or a number of signatures that is directly proportional to the first submittal of signatures will be selected from the additional signatures accepted for inclusion in the sample. 
+
+ (d) If fewer than 100 signatures are submitted then all signatures are verified. 
+
+ (e) To determine acceptance or rejection of the petition, the verification data from additional submittals will be added to the verification data of the first submittal and the statistical formula applied to the combined results. 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 246.150, 250.105, 250.215, 250.315 & 255.175 
+ 
+ 
+ Statutes/Other Implemented:  ORS 249.875, 250.105, 250.215, 250.315 & 255.175 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ELECT 5-2018, amend filed 01/05/2018, effective 01/05/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ELECT 6-2013, f. & cert. ef. 11-8-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ELECT 19-2011, f. & cert. ef. 9-26-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ELECT 18-2007, f. & cert. ef. 12-31-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ELECT 10-2005, f. & cert. ef. 12-14-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ELECT 3-2005, f. & cert. ef. 3-22-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ELECT 3-2004, f. & cert. ef. 4-15-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ELECT 7-2000, f. & cert. ef. 4-5-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ELECT 13-1993, f. & cert. ef. 4-16-93 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ELECT 19-1991(Temp), f. & cert. ef. 12-20-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

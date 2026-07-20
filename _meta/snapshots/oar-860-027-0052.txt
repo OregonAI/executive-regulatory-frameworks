@@ -1,0 +1,233 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Public Utility Commission 
+ Chapter 860 
+ 
+ 
+ 
+ 
+ 
+ Division 27 BUDGETS, FINANCE, ACCOUNTING AND ANNUAL REPORTS 
+ 860-027-0052 
+ Allocation of Costs by a Large Telecommunications Utility 
+ 
+ (1) As used in this rule:  (a) "Affiliate Transaction" means a transfer of assets, a sale of supplies, or a sale of services between accounts for regulated activities of a large telecommunications utility and accounts for nonregulated activities of a separate entity that is either an affiliated interest or another company in which the large telecommunications utility owns a controlling interest. The term also means a transfer of assets, a sale of supplies, or a sale of services between accounts for the regulated and nonregulated activities of a single large telecommunications utility;  (b) "Asset" means any tangible or intangible property of a large telecommunications utility or other right, entitlement, business opportunity, or other thing of value to which a large telecommunications utility holds claim;  (c) "Cost" means fully distributed cost, including the large telecommunications utility’s authorized rate of return and all overheads;  (d) "Fair Market Value" means the potential sales price that could be obtained by selling an asset in an arm’s-length transaction to a nonaffiliated entity, as determined by commonly accepted valuation principles;  (e) "Market Rate" means the lowest price that is available from nonaffiliated suppliers for comparable services or supplies;  (f) "Net Book Value" means original cost less accumulated depreciation; and  (g) "Nonregulated Service" means a service that is not a telecommunications service as defined by ORS 759.005(2)(g), or a service that the Commission has determined to be exempt from regulation.  (2) A large telecommunications utility that provides both regulated and nonregulated intrastate service shall:  (a) Allocate intrastate investments, expenses, and revenues between regulated activities and nonregulated activities according to principles, procedures, and accounting requirements, which the Federal Communications Commission (FCC) adopted December 23, 1986, and amended on reconsideration September 17, 1987, in CC Docket No. 86-111, except as otherwise provided in this rule;  (b) Part 64, Subpart I, Allocation of Costs, adopted by the Federal Communications Commission on October 11, 2001, is hereby adopted and prescribed.  (3) A large telecommunications utility, which is subject to price caps under ORS 759.405, may account for its regulated and nonregulated intrastate activities in accordance with FCC Part 32, Section 32.27. For all other large telecommunications utilities, Section 32.27 is replaced as follows for intrastate purposes:  (a) When an asset is transferred to regulated accounts from nonregulated accounts:  (A) If the asset has an original cost of more than $100,000, the transfer shall be recorded in regulated accounts at the lower of net book value or fair market value.  (B) If the asset has an original cost of $100,000 or less, the transfer shall be recorded in compliance with Section 32.27.  (b) When an asset is transferred from regulated accounts to nonregulated accounts:  (A) If the asset has an original cost of more than $100,000, the transfer shall be recorded in regulated accounts at the tariff or price-listed rate if an appropriate tariff or price list is on file with the Commission. If no tariff or price list is applicable, proceeds from the transfer shall be recorded in regulated accounts at the higher of net book value or fair market value.  (B) If the asset has an original cost of $100,000 or less, the transfer shall be recorded in compliance with Section 32.27.  (c) When an asset is transferred from a regulated account to a nonregulated account at a fair market value that is greater than net book value, the difference shall be considered a gain to the regulated activity. The large telecommunications utility shall record the gain so the Commission can determine the proper disposition of the gain in a subsequent rate proceeding.  (d) When services or supplies are sold by a regulated activity to a nonregulated activity:  (A) If the annual value exceeds $100,000, sales shall be recorded in regulated revenue accounts at tariffed or price-listed rates if an applicable tariff or price list is on file with the Commission. Tariffed or price-listed rates shall be established whenever possible. If services or supplies are not sold pursuant to a tariff or price list, sales shall be recorded in regulated revenue accounts at the large telecommunications utility’s cost.  (B) If the annual value is $100,000 or less, the sales shall be recorded in compliance with Section 32.27.  (e) When services or supplies are sold to a regulated activity by a nonregulated activity:  (A) If the annual value exceeds $100,000, sales shall be recorded in regulated accounts at the nonregulated activity’s cost or the market rate, whichever is lower. The nonregulated activity’s cost shall be calculated using the large telecommunications utility’s most recently authorized rate of return.  (B) If the annual value is $100,000 or less, the sales shall be recorded in compliance with Section 32.27.  (f) Income taxes shall be allocated among the regulated activities of the large telecommunications utility, its nonregulated divisions, and members of an affiliated group. When income taxes are determined on a consolidated basis, the large telecommunications utility shall record income tax expense as if it were determined for the large telecommunications utility separately for all time periods.  (4) If a large telecommunications utility:  (a) Is subject to ORS 759.100 through 759.115 and provides both regulated and nonregulated intrastate service, the utility shall maintain a current intrastate cost allocation manual on file with the Commission. If the FCC requires the large telecommunications utility to file an interstate cost allocation manual, the utility shall also maintain a current copy of its interstate manual with the Commission.  (b) Is subject to price caps under ORS 759.405, the large telecommunications utility is not required to file an intrastate cost allocation manual with the Commission. A large telecommunications utility that is subject to price caps must file a copy of its annual 254(k) compliance filing and make information available to the Commission as needed to review the utility’s intrastate cost allocations to ensure that services included in the definition of universal service bear no more than a reasonable share of the joint and common costs of facilities used to provide those services.  (5) An intrastate cost allocation manual, if required under subsection (4) of this rule, shall contain the following:  (a) A description of each of the large telecommunications utility’s nonregulated intrastate activities;  (b) A list of all intrastate activities to which the large telecommunications utility now accords incidental accounting treatment, and the justification for treating each as incidental;  (c) A chart showing the large telecommunications utility’s affiliates;  (d) A statement identifying affiliates that engage in or will engage in transactions with the large telecommunications utility for the purpose of providing nonregulated intrastate service and describing the nature, terms, and frequency of such transactions; and  (e) A detailed specification of the cost categories to which amounts in each account and subaccount of Part 32 will be assigned, and a detailed specification of the basis on which each cost category will be apportioned between regulated and nonregulated activities.  (6) Unless specifically allowed by the Commission, a cost allocation manual cannot be used to satisfy any other reporting requirement established by the Commission.  (7) The initial cost allocation manual filed by a large telecommunications utility pursuant to this rule must be filed with the Commission no less than 90 days before the manual’s effective date. The manual shall go into effect unless rejected by the Commission before the manual’s effective date.  (8) When a large telecommunications utility proposes any change to a cost allocation manual previously filed with the Commission, the utility shall file the proposed change with the Commission no less than 45 days before the effective date of the change. The changes shall go into effect unless rejected by the Commission before the effective date of the change.  (9) After the Commission has issued an order to exempt from regulation a telecommunications service provided by a large telecommunications utility that is subject to ORS 759.100 through 759.115, the affected utility shall file with the Commission either an initial cost allocation manual or a change to its previously filed manual.  (10) A large telecommunications utility that is required to file annual independent cost allocation audits with the FCC shall at the same time file copies of the annual audits with the Commission.  [Publications: Publications referenced are available from the Agency.] 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 183, 756 & 759 
+ 
+ 
+ Statutes/Other Implemented:  ORS 756.105, 759.120, 759.125 & 759.130 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 24-2002, f. & cert. ef. 12-20-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 16-2001, f. & cert. ef. 6-21-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 10-2000, f. & cert. ef. 5-26-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 9-1998, f. & cert. ef. 4-28-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 8-1995, f. & cert. ef. 8-30-95 (Order No. 95-858) 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 15-1988, f. & cert. ef. 9-7-88 (Order No. 88-954) 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 24-1985, f. & ef. 12-12-85 (Order No. 85-1172) 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

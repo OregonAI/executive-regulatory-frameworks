@@ -1,0 +1,263 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Secretary of State 
+ Archives Division - Chapter 166 
+ 
+ 
+ 
+ 
+ Division 300 STATE AGENCY GENERAL RECORDS RETENTION SCHEDULE 
+ 166-300-0030 
+ Information Systems Records
+ 
+ 
+ (1) Cybersecurity Records : Series documents the security of an agency’s information systems and network infrastructure. Records may include employee access requests, access authorizations, system access logs, documentation of security incidents and response, and related documentation. SEE ALSO: the Risk Management Records section; Policy and Procedure Guidelines and Manuals Records; and Data Breach Records. Retention: (a) Retain system access logs 3 years, or longer if required by separate statute or regulation, destroy; (b) Retain cybersecurity incident records related to data breach as per Data Breach series; (c) Retain cybersecurity incident records not related to a data breach 5 years after incident resolved, destroy; (d) Retain all other cybersecurity records 3 years after superseded or authorization expired, destroy. 
+
+ (2) Data Breach Records : Series documents the investigation, assessment, and disclosure notification of breaches in agency computer systems. Records document the response to an unauthorized access to computerized data possibly compromising the security, confidentiality, or integrity of personal information, as required by ORS 646A.600 to 646A.628. Records may include documentation of the unauthorized access of the information security system, potentially affected personal information or data elements, incident reports, investigation reports, consultation reports, and disclosure notifications. SEE ALSO: Cybersecurity Records. Retention: (a) Retain records of incidents which require notification 10 years after completion of investigation, destroy; (b) Retain records of incidents not requiring notification 5 years after completion of investigation, destroy. 
+
+ (3) Dataset Inventory Records : Series documents the location, structure, and use of agency datasets. Retention: (a) Retain biennial inventory until confirmed received by State Chief Data Officer, destroy; (b) Retain ongoing inventory and supporting documents until superseded or obsolete, destroy. 
+
+ (4) Information System Application Documentation Records : Series documents the addition, modification, and removal of operating systems, in-house build applications, and other software from agency information systems. Records may include system overviews, operations logs, job listings, instruction manuals, system development logs, system specifications and changes, conversion notes, dataset logs, dataset record layouts, programming logs, program specifications and changes, control program table documentation, and program listings. SEE ALSO: Information System Maintenance Records; Information System Planning and Development Records; and Software Management Records. Retention: (a) Retain migration plans until superseded or obsolete, destroy; (b) Retain routine system-generated metadata and operational logs until no longer needed, destroy; (c) Retain all other records 1 year after life of system, destroy. 
+
+ (5) Information System Architecture Records : Series documents the structural design of agency information systems, including interrelationships between data in different systems throughout the agency. Records may include plans, diagrams, and related documentation. SEE ALSO: Dataset Inventory Records; and Information System Planning and Development Records. Retention: Retain 1 year after superseded or obsolete, destroy. 
+
+ (6) Information System Maintenance Records : Series documents the maintenance of an agency’s computer systems and are used to ensure compliance with warranties and service contracts, schedule regular maintenance, diagnose system or component problems, document system backup procedures, and migrate information from a former system to a new system. Records may include computer equipment inventories, hardware performance reports, component maintenance records (warranties, maintenance logs, maintenance reports, and related records), system backup reports and procedures, backup tape inventories, and related documentation. Retention: (a) Retain records related to system or component repair or service 1 year after life of system or component, destroy; (b) Retain records documenting system backup procedures 1 year after superseded or obsolete, destroy. 
+
+ (7) Information System Planning and Development Records : Series documents the planning and development of agency information systems. Records may include information technology plans, feasibility studies and cost-benefit analyses, agency studies and surveys, system specifications and revisions, software evaluations, component proposals, technical literature, vendor literature and proposals, and related documentation. Note: For records related to administration of a project see Project Management Records. Retention: (a) Retain implemented systems for life of system, destroy; (b) Retain unimplemented systems 3 years, destroy. 
+
+ (8) Information System Wiring Records : Series documents the wiring of an agency’s information system network. Records may include blueprints or diagrams of information system wiring, cables, and computer equipment connections, and related documentation. Retention: Retain until superseded or obsolete, destroy. 
+
+ (9) Microfilm and Imaging Quality Control Records : Series documents that microfilm or digital images produced by or for state agencies conforms to the specifications required by OAR 166-025. Records may include microfilmed and digitally imaged records lists, microfilm reel indexes, service bureau transmittals, film inspection reports, methylene blue certifications, camera/processor/duplicator inspection reports, equipment and operator logs, and related documentation. Retention: (a) Retain microfilm quality control records for life of documented film, destroy; (b) Retain digital imaging quality control records until images pass initial quality checks, destroy. 
+
+ (10) Software Management Records : Series documents the use of software in agency information systems to ensure that agency software packages are compatible, license and copyright provisions are complied with, and upgrades are obtained in a timely manner. Records may include software inventories, software licenses, site licenses, and related documentation. SEE ALSO: Work Order Records. Retention: Retain 1 year after software disposed of or upgraded, destroy. 
+
+ (11) Telecommunications System Management Records : Series documents the creation, modification, and disposition of agency telecommunications systems. Records may include equipment records, Federal Communications Commission records, system planning records, telecommunications maintenance contracts, telecommunications service and repair orders, and related documentation. SEE ALSO: Work Order Records. Retention: Retain 1 year after life of system, destroy. 
+
+ (12) User Support Records : Series documents troubleshooting and problem-solving assistance provided by the agency’s information systems personnel to users of computers, telecommunications, and other systems. Records may include assistance requests, resolution records, and related documentation. Retention: (a) Retain routine assistance records until problem resolved, destroy; (b) Retain records with ongoing reference value until superseded or obsolete, destroy. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 192.005–192.170 & ORS 357.805–357.895 
+ 
+ 
+ Statutes/Other Implemented:  ORS 192.005–192.170 & ORS 357.805–357.895 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSA 4-2025, minor correction filed 08/15/2025, effective 08/15/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSA 2-2025, amend filed 05/29/2025, effective 05/29/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OSA 5-2002, f. & cert. ef. 10-14-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OSA 1-1999, f. & cert. ef. 2-4-99, Renumbered from 166-306-0010 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OSA 9-1998, f. & cert. ef. 12-30-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OSA 3-1996, f. 4-9-96, cert. ef. 4-15-96 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OSA 2-1995, f. & cert. ef. 5-25-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

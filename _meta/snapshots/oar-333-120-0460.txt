@@ -1,0 +1,221 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 120 STANDARDS FOR PROTECTION AGAINST RADIATION 
+ 333-120-0460 
+ Precautionary Procedures: Testing for Leakage or Contamination of Sealed Sources 
+ 
+ (1) The licensee in possession of any sealed source must assure that:  (a) Each sealed source, except as specified in section (2) of this rule is tested for leakage or contamination and the test results are received before the sealed source is put into use unless the licensee has a certificate from the transferor indicating that the sealed source was tested within six months before transfer to the licensee; and  (b) Each sealed source that is not designed to emit alpha particles is tested for leakage or contamination at intervals not to exceed six months or at alternative intervals approved by the Authority, an Agreement State, a Licensing State, or the U.S. Nuclear Regulatory Commission; and  (c) Each sealed source that is designed to emit alpha particles is tested for leakage or contamination at intervals not to exceed three months or at alternative intervals approved by the Authority, an Agreement State, a Licensing State, or the U.S. Nuclear Regulatory Commission; and  (d) For each sealed source that is required to be tested for leakage or contamination, at any other time there is reason to suspect that the sealed source might have been damaged or might be leaking, the licensee must assure that the sealed source is tested for leakage or contamination before further use; and  (e) Tests for leakage for all sealed sources, except brachytherapy sources manufactured to contain radium-226, must be capable of detecting the presence of 185 Bq (0.005 uCi) of radioactive material on a test sample. Test samples must be taken from the sealed source or from the surfaces of the container in which the sealed source is stored or mounted on which one might expect contamination to accumulate. For a sealed source contained in a device, test samples are obtained when the source is in the "off" position; and  (f) The test for leakage for brachytherapy sources manufactured to contain radium-226 must be capable of detecting an absolute leakage rate of 37 Bq (0.001 uCi) of radon-222 in a 24 hour period when the collection efficiency for radon-222 and its daughters has been determined with respect to collection method, volume and time; and  (g) Tests for contamination from radium-226 daughters must be taken on the interior surface of brachytherapy source storage containers and must be capable of detecting the presence of 185 Bq (0.005 uCi) of a radium daughter which has a half-life greater than four days.  (2) A licensee need not perform test for leakage or contamination on the following sealed sources:  (a) Sealed sources containing only radioactive material with a half-life of less than 30 days; or  (b) Sealed sources containing only radioactive material as a gas; or  (c) Sealed sources containing 3.7 MBq (100 uCi) or less of beta or photon-emitting material or 370 kBq (10 uCi) or less of alpha-emitting material; or  (d) Sealed sources containing only hydrogen-3; or  (e) Seeds of iridium-192 encased in nylon ribbon; or  (f) Sealed sources, except teletherapy and brachytherapy sources, which are stored, not being used, and identified as in storage. The licensee must, however, test each such sealed source for leakage or contamination and receive the test results before any use or transfer unless it has been tested for leakage or contamination within six months before the date of use or transfer.  (3) Tests for leakage or contamination from sealed sources must be performed by persons specifically authorized by the Authority, an Agreement State, a Licensing State, or the U.S. Nuclear Regulatory Commission to perform such services.  (4) Test results must be kept in units of becquerel or microcurie and maintained for inspection by the Authority.  (5) The following must be considered evidence that a sealed source is leaking:  (a) The presence of 185 Bq (0.005 uCi) or more of removable contamination on any test sample; or  (b) Leakage of 37 Bq (0.001 uCi) of radon-222 per 24 hours for brachytherapy sources manufactured to contain radium-226; or  (c) The presence of removable contamination resulting from the decay of 185 Bq (0.005 uCi) or more of radium-226.  (6) The licensee must immediately withdraw a leaking sealed source from use and must take action to prevent the spread of contamination. The leaking sealed source must be repaired or disposed of in accordance with this division.  (7) Reports of test results for leaking or contaminated sealed sources must be made pursuant to OAR 333-120-0720(1)(e). 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 453.635 
+ 
+ 
+ Statutes/Other Implemented:  ORS 453.605 - 453.807 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 4-2007, f. & cert. ef. 3-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 12-2006, f. & cert. ef. 6-16-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 36-2004, f. & cert. ef. 12-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 31-2004(Temp), f. & cert. ef. 10-8-04 thru 4-5-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 3-2003, f. & cert. ef. 3-27-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 15-1994, f. & cert. ef. 5-6-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

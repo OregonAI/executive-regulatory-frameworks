@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Secretary of State 
+ Archives Division - Chapter 166 
+ 
+ 
+ 
+ 
+ Division 17 ELECTRONIC RECORDS 
+ 166-017-0075 
+ Maintenance and Backup Standards 
+ 
+ Agency electronic records systems must meet the following minimum requirements to ensure the ongoing maintenance of electronic records:  (1) Electronic storage media must be maintained in an environment with a constant temperature from 65 to 75 Degrees Fahrenheit not to fluctuate more than +/- 5 Degrees and relative humidity not to exceed 50% (ANSI/AIIM TR 25-1995).  (2) Electronic records stored on magnetic media must not be stored closer than 2 inches from sources of magnetic fields, including generators, elevators, transformers, loudspeakers, microphones, headphones, magnetic cabinet latches and magnetized tools. They must not be stored in metal containers unless the metal is non-magnetic.  (3) Storage containers must be resistant to impact, dust intrusion and moisture.  (4) Official copies of electronic records must be maintained by personnel properly trained in the handling of records and associated equipment.  (5) Written policies and procedures must be established and adopted by the agency for external labeling of the contents of disks, tapes, flash or hard drives or other storage media so that all authorized users can identify and retrieve the stored information.  (6) Storage media must be converted, as necessary, to provide compatibility with the agency's current hardware and software, ensuring that information is not lost due to changing technology or deterioration of storage media. Before conversion of information to different media, agencies must determine that authorized disposition of the electronic records can be implemented after conversion.  (7) Electronic records systems must be backed up on a regularly scheduled basis according to written agency policies and procedures to safeguard against the loss of information due to equipment malfunctions or human error.  (8) Backups must be stored and maintained in off-site storage areas meeting the requirements of 166-020-0015, 166-020-0045 and 166-017-0075(1), and must be located in buildings separate from the location of the records that have been copied. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 192.050, 192.060 & 192.105 
+ 
+ 
+ Statutes/Other Implemented:  357.825(2), 357.855 & 357.895 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSA 1-2016, f. & cert. ef. 5-5-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

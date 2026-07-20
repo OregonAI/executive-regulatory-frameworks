@@ -1,0 +1,221 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 106 X-RAYS IN THE HEALING ARTS 
+ 333-106-0301 
+ Additional Requirements for Radiographic Machines: Beam Limitation for Radiographic Systems Other Than Fluoroscopic, Dental Intraoral, Veterinary Systems, or Computed Tomography(CT) 
+ 
+ (1) The useful beam shall be limited to the area of clinical interest.  (2) General Purpose Stationary and Mobile X-ray Systems:  (a) There shall be provided a means for stepless adjustment of the size of the X-ray field, where the adjustment of each dimension of the field is independent of the other;  (b) A method shall be provided for visually defining the perimeter of the X-ray field. The total misalignment of the edges of the visually defined field with the respective edges of the X-ray field along either the length or width of the visually defined field shall not exceed two percent of the distance from the source to the center of the visually defined field when the surface upon which it appears is perpendicular to the axis of the X-ray beam;  (c) Evidence of compliance with subsections (2)(a) and (b) of this rule shall be shown on each radiograph taken, either by imaging part of the collimator on the radiograph or by imaging collimator nubs or pointers;  (d) Beam-defining lights used for visually defining perimeters of the X-ray field shall have an illumination great enough to be visualized by the operator under ambient light conditions;  (e) The Authority may grant an exemption on noncertified X-ray systems to subsections (2)(a) and (b) of this rule provided the registrant makes a written application for such exemption and in that application:  (A) Demonstrates it is impractical to comply with subsections (2)(a) and (b) of this rule; and  (B) The purpose of subsections (2)(a) and (b) of this rule will be met by other methods.  (3) In addition to the requirements of section (2) of this rule, all stationary general purpose X-ray systems shall meet the following requirements:  (a) A method shall be provided to indicate when the axis of the X-ray beam is perpendicular to the plane of the image receptor, to align the center of the X-ray field with respect to the center of the image receptor to within two percent of the SID, and to indicate the SID to within two percent;  (b) The beam-limiting device shall indicate numerically the field size in the plane of the image receptor to which it is adjusted; and  (c) Indication of field size dimensions and SID's shall be specified in inches or centimeters, and shall be such that aperture adjustments result in X-ray field dimensions in the plane of the image receptor which correspond to those indicated by the beam-limiting device to within two percent of the SID when the beam axis is indicated to be perpendicular to the plane of the image receptor.  (4) Radiographic equipment designed for only one image receptor size at a fixed SID shall be provided with means to limit the field at the plane of the image receptor to dimensions no greater than those of the image receptor, and to align the center of the X-ray field with the center of the image receptor to within two percent of the SID, or shall be provided with means to both size and align the X-ray field such that the X-ray field at the plane of the image receptor does not extend beyond any edge of the image receptor.  (5) Special Purpose X-ray Systems:  (a) Means shall be provided to limit the X-ray field in the plane of the image receptor so that such field does not exceed each dimension of the image receptor by more than two percent of the SID when the axis of the X-ray beam is perpendicular to the plane of the image receptor;  (b) Means shall be provided to align the center of the X-ray field with the center of the image receptor to within two percent of the SID, or means shall be provided to both size and align the X-ray field such that the X-ray field at the plane of the image receptor does not extend beyond any edge of the image receptor. Compliance shall be determined with the axis of the X-ray beam perpendicular to the plane of the image receptor;  (c) Subsections (5)(a) and (b) of this rule may be met with a system that meets the requirements for a general purpose X-ray system as specified in section (2) of this rule or, when alignment means are also provided, may be met with either:  (A) An assortment of removable, fixed-aperture, beam-limiting devices sufficient to meet the requirement for each combination of image receptor size and SID for which the unit is designed with each such device having clear and permanent markings to indicate the image receptor size and SID for which it is designed; or  (B) A beam-limiting device having multiple fixed apertures sufficient to meet the requirement for each combination of image receptor size and SID for which the unit is designed. Permanent, clearly legible markings shall indicate the image receptor size and SID for which each aperture is designed and shall indicate which aperture is in position for use. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 453.605 - 453.807 
+ 
+ 
+ Statutes/Other Implemented:  ORS 453.605 - 453.807 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 32-2014, f. 12-22-14, cert. ef. 1-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 14-2008, f. & cert. ef. 9-15-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 12-2006, f. & cert. ef. 6-16-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 15-1994, f. & cert. ef. 5-6-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 1-1991, f. & cert. ef. 1-8-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 4-1985, f. & ef. 3-20-85 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

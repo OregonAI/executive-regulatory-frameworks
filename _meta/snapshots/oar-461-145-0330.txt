@@ -1,0 +1,601 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Self-Sufficiency Programs - Chapter 461 
+ 
+ 
+ 
+ 
+ Division 145 TREATMENTS OF SPECIFIC ASSETS 
+ 461-145-0330 
+ Loans and Interest on Loans
+ 
+ 
+ (1) This rule covers proceeds of loans, loan repayments, and interest earned by a lender. If the proceeds of a loan are used to purchase an asset, the asset is evaluated under the other rules in this division of rules. 
+
+ (2) For purposes of this rule: 
+
+ (a) In the Oregon Supplemental Income Program Medical (OSIPM), and Qualified Medicare Beneficiaries (QMB) programs: 
+
+ (A) "Bona fide loan agreement" means an agreement that: 
+
+ (i) Is enforceable under state law; 
+
+ (ii) Is in effect at the time the cash proceeds are provided to the borrower; and 
+
+ (iii) Includes an obligation to repay and a feasible repayment plan. 
+
+ (B) "Negotiable loan agreement" means a loan agreement in which the instrument ownership and the whole amount of money expressed on its face can be transferred from one person to another (i.e., sold) at prevailing market rates. 
+
+ (b) In all programs: 
+
+ (A) "Reverse-annuity mortgage" means a contract with a financial institution (see OAR 461-001-0000) under which the financial institution provides payments against the equity in the home that must be repaid when the homeowner dies, sells the home, or moves. 
+
+ (B) The proceeds of a home equity loan or reverse-annuity mortgage (see paragraph (A) of this subsection) are considered loans. 
+
+ (3) In all programs, in order to treat payments as a loan that a member of the financial group (see OAR 461-110-0530) receives as a borrower, there must be an oral or written loan agreement. This agreement must state when repayment of the loan is due to the lender. 
+
+ (4) Payments for a purported loan that do not meet the requirements of section (3) of this rule are counted as unearned income. 
+
+ (5) When a member of a financial group receives cash proceeds as a borrower from a loan that meets the requirements of section (3) of this rule: 
+
+ (a) In all programs, educational loans are treated according to OAR 461-145-0150. 
+
+ (b) In the Refugee Assistance (REF), Refugee Assistance Medical (REFM), Supplemental Nutrition Assistance Program (SNAP), and Temporary Assistance for Needy Families (TANF) programs, the loan is excluded. If retained after the month of receipt, the loan proceeds are treated in accordance with OAR 461-140-0070. 
+
+ (c) In the OSIPM and Qualified Medicare Beneficiaries-Disabled Worker (QMB-DW) programs: 
+
+ (A) If the loan is a bona fide loan agreement (see paragraph (2)(a)(A) of this rule), the money provided by the lender is not income but is counted as the borrower's resource if retained in the month following the month of receipt (notwithstanding OAR 461-140-0070). 
+
+ (B) If the loan is not a bona fide loan agreement , the money provided by the lender is counted as income in the month received and is counted as a resource if retained in the month following the month it was received. 
+
+ (d) In the Qualified Medicare Beneficiaries-Basic (QMB-BAS), Qualified Medicare Beneficiares-Specified Low Income Medicare Beneficiary (QMB-SMB), and QMB-SMF programs: 
+
+ (A) If the loan is a bona fide loan agreement , the money provided by the lender is not considered income. 
+
+ (B) If the loan is not a bona fide loan agreement , the money provided by the lender is counted as income in the month received. 
+
+ (C) All money provided by the lender is excluded as a resource. 
+
+ (6) In the OSIPM (except OSIPM-Employed Persons with Disabilities) program, for individuals in a nonstandard living arrangement  (see OAR 461-001-0000), if an individual or a community   spouse (see OAR 461-001-0030) of an individual uses funds to purchase a mortgage or to purchase or lend money for a promissory note or loan: 
+
+ (a) In a transaction occurring on or after July 1, 2006: 
+
+ (A) The balance of the payments owing to the individual or spouse of the individual is a transfer of assets for less than fair market value (see OAR 461-001-0000), unless all of the following requirements are met: 
+
+ (i) The total value of the transaction is being repaid to the individual or spouse of the individual within three months of the life expectancy per the actuarial life expectancy of that individual as established by the Period Life Table of the Office of the Chief Actuary of the Social Security Administration. If the loan, promissory note, or mortgage are jointly owned by the individual and their spouse , the requirements of this section are met if the transaction is repaid according to the life expectancy of either the individual or their spouse . 
+
+ (ii) Payments are made in equal amounts over the term of the transaction without any deferrals or balloon payments. 
+
+ (iii) The contract is not cancelled upon the death of the individual receiving the payments under this transaction. 
+
+ (iv) No one other than the estate of the lender is designated as remainder beneficiary. 
+
+ (B) If any of the requirements in paragraph (a)(A) of this section are not met, payments against the principal and interest are treated as unearned income. The outstanding principal balance of the loan is excluded as a resource. 
+
+ (b) In a transaction occurring before July 1, 2006, or for a transaction occurring on or after July 1, 2006, that meets all of the requirements of subsection (a) of this section, the loan is treated as follows: 
+
+ (A) Interest income is treated as unearned income. 
+
+ (B) If the loan is both a negotiable loan agreement (see paragraph (2)(a)(B) of this rule) and a bona fide loan agreement , the loan is counted as a resource valued at the outstanding principal balance. Payments against the principal are excluded as income. 
+
+ (C) If the loan does not qualify under paragraph (B) of this subsection, payments against the principal are counted as unearned income. The outstanding principal balance of the loan is excluded as a resource. 
+
+ (7) In the OSIPM program, for individuals in a standard living arrangement  (see OAR 461-001-0000), OSIPM-EPD, and QMB-DW programs, if an individual uses funds to purchase a mortgage or to purchase or lend money for a promissory note or loan: 
+
+ (a) Interest income is treated as unearned income. 
+
+ (b) If the loan is both a negotiable loan agreement and a bona fide loan agreement , the loan is counted as a resource of the lender valued at the outstanding principal balance. Payments against the principal are excluded as income. 
+
+ (c) If the loan does not qualify under subsection (b) of this section, the balance of the loan is excluded as a resource. The payments against the principal are counted as income to the lender. 
+
+ (8) In the QMB-BAS, QMB-SMB, and QMB-SMF programs, if an individual uses funds to purchase a mortgage or to purchase or lend money for a promissory note or loan: 
+
+ (a) Interest income is counted as unearned income. 
+
+ (b) Payments against the principal of all loans are excluded as income. 
+
+ (9) In all programs other than the OSIP, OSIPM, and QMB programs: 
+
+ (a) The interest payment is counted as unearned income. 
+
+ (b) The payment of principal is excluded. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 409.050, 411.060, 411.070, 411.404, 411.816, 412.014, 412.049, 413.085 & 414.619 
+ 
+ 
+ Statutes/Other Implemented:  ORS 409.050, 411.060, 411.070, 411.404, 411.816, 412.014, 412.049, 413.085, 414.619, ORS 409.010 & 414.117 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 55-2024, amend filed 09/30/2024, effective 10/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 17-2023, amend filed 06/14/2023, effective 07/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 35-2022, amend filed 04/28/2022, effective 05/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 75-2021, temporary amend filed 12/16/2021, effective 12/16/2021 through 06/13/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 28-2018, amend filed 09/06/2018, effective 10/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 23-2017, f. 9-11-17, cert. ef. 10-1-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 31-2016, f. & cert. ef. 9-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 25-2016(Temp), f. 6-30-16, cert. ef. 7-1-16 thru 12-27-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 35-2015, f. 12-23-15, cert. ef. 1-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 38-2013, f. 12-31-13, cert. ef. 1-1-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 30-2013(Temp), f. & cert. ef. 10-1-13 thru 3-30-14 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ Reverted to SSP 23-2008, f. & cert. ef. 10-1-08 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Suspended by SSP 26-2009(Temp), f. & cert. ef. 9-1-09 thru 1-25-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 20-2009(Temp), f. & cert. ef. 7-29-09 thru 1-25-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 23-2008, f. & cert. ef. 10-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 7-2007, f. 6-29-07, cert. ef. 7-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 15-2006, f. 12-29-06, cert. ef. 1-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 14-2006, f. 9-29-06, cert. ef. 10-1-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 10-2006, f. 6-30-06, cert. ef. 7-1-06 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 19-2005, f. 12-30-05, cert. ef. 1-1-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 14-2005, f. 9-30-05, cert. ef. 10-1-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 4-2005, f. & cert. ef. 4-1-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 24-2004, f. 12-30-04, cert. ef. 1-1-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 23-2003, f. & cert. ef. 10-1-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 6-2001, f. 3-30-01, cert. ef. 4-1-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 9-1997, f. & cert. ef. 7-1-97 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 28-1992, f. & cert. ef. 10-1-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 13-1991, f. & cert. ef. 7-1-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 80-1989, f. 12-21-89, cert. ef. 2-1-90 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

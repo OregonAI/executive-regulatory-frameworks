@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 23 PRESCRIPTION DRUG MONITORING PROGRAM 
+ 333-023-0830 
+ Approval of Health Information Technology Systems 
+ 
+ (1) An eligible entity may apply to the Authority to allow its Health Information Technology System access to the Prescription Drug Monitoring Program data. To apply for approval, an eligible entity must complete and provide the following to the Prescription Drug Monitoring Program:  (a) An application provided by the Authority that includes contact information for the eligible entity’s Chief Information Officer, his or her designee, or equivalent, and the Compliance Officer, his or her designee, or equivalent that oversees the Health Information Technology System;  (b) An attestation that:  (A) The eligible entity’s Health Information Technology System complies with state and federal privacy and security regulations;  (B) The eligible entity provides users training on the Health Information Technology System related to the limits of access and allowable use of Prescription Drug Monitoring Program data;  (C) The eligible entity agrees to periodic participation in audit activities with the Authority; and  (D) The eligible entity agrees to terms and conditions of use of the system that defines the limits of access, allowable use of patient information, and penalties for misuse of the system;  (2) The Authority shall review the application and accompanying materials and notify the applicant whether the application has been approved.  (3) The Authority may deny an application if an eligible entity does not meet criteria. Prior to issuing a denial the Authority will work with the eligible entity to resolve any eligibility issues.  (4) An approved entity may not retain patient prescription monitoring information in the Health Information Technology System or other places except for the purpose of audits and the maintenance of patient records.  (a) For the purpose of audits, patient prescription monitoring information retrieved by the Health Information Technology System may be retained in static form only, and not retained in formats that may be accessible for future inquiry unrelated to audit purposes.  (b) For the maintenance of patient records, authorized Prescription Drug Monitoring Program users accessing patient prescription records through Health Information Technology Systems may capture and record patient prescription monitoring information in the patient record.  (5) The Authority will ensure that Health Information Technology Systems that connect with the Prescription Drug Monitoring Program meet privacy and security requirements by requiring approved entities provide an annual attestation that:  (a) Their Health Information Technology System and users meet the Health Insurance Portability and Accountability Act of 1996 and other state and federal privacy and security laws.  (b) Periodic privacy and security training is provided to users of Health Information Technology Systems that connect with the Prescription Drug Monitoring Program.  (6) Only individuals authorized by rule and who hold active Prescription Drug Monitoring Program accounts are authorized to receive results from the Prescription Drug Monitoring Program using a Health Information Technology System.  (7) The Authority may suspend or revoke approval of an approved entity that does not adhere to the Authority’s terms and conditions, including the security and privacy requirements set forth by the Authority. The Authority will notify the approved entity of a suspension or revocation of approval. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 431A.855 
+ 
+ 
+ Statutes/Other Implemented:  ORS 431A.855 – 431A.900 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 2-2017, f. & cert. ef. 1-10-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

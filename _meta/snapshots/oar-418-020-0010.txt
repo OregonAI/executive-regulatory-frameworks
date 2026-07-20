@@ -1,0 +1,345 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Home Care Commission - Chapter 418 
+ 
+ 
+ 
+ 
+ Division 20 OREGON HOME CARE COMMISSION FUNCTIONS 
+ 418-020-0010 
+ Definitions
+ 
+ 
+ (1) "Active" means an active homecare, personal support worker, or personal care attendant who has: 
+
+ (a) A current provider number; 
+
+ (b) Worked and been paid with public funds in any of the past 12 months as a homecare or personal support worker or personal care attendant; 
+
+ (c) A current credential; and 
+
+ (d) Met the orientation and core training requirements of the program for which the provider is enrolled. 
+
+ (2) "Area Agency on Aging (AAA)" means the Department designated agency charged with the responsibility to provide a comprehensive and coordinated system of services to older adults and adults with disabilities in a planning and service area. The term is inclusive of both Type A and Type B Area Agencies on Aging as defined in ORS 410.040 and described in ORS 410.210 to 410.300. 
+
+ (3) "Assessment" means a tool used to evaluate a provider’s knowledge of information learned during trainings required for Oregon Home Care Commission certifications as described in OAR 418-020-0030(3)(b) through (f). 
+
+ (4) "Background Check" means a criminal records check and abuse check under OAR chapter 407, division 7. 
+
+ (5) "Case Management Entity" has the meaning as defined in OAR 411-317-0000. 
+
+ (6) "Case Manager" means an employee of a service delivery office who is responsible for determining service eligibility, offering service choices to eligible individuals, developing a plan of authorized services, and monitoring the effectiveness of services and supports. This term includes service coordinators and personal agents, as described in OAR chapter 411, division 317. 
+
+ (7) "CMS' Core Competencies" means the set of 12 core competencies developed by the Center for Medicare and Medicaid Services (CMS) for the direct care workforce. The 12 competencies are found in Appendix E of the "The Roadmap of Core Competencies for the Direct Services Workforce" published at: https://www.medicaid.gov/sites/default/files/2019-12/dsw-core-competencies-final-set-2014.pdf. 
+
+ (8) "Collective Bargaining Agreement" or "CBA" means the ratified Collective Bargaining Agreement between the Oregon Home Care Commission and the Service Employees International Union, Local 503. The Collective Bargaining Agreement is maintained on the Commission’s website at: https://www.oregon.gov/odhs/providers-partners/homecare-workforce/Pages/default.aspx. 
+
+ (9) "Commission" means the Oregon Home Care Commission established and operated pursuant to Article XV, Section 11, of the Oregon Constitution, and ORS 410.595 to 410.625. 
+
+ (10) "Commissioner" means one of the nine members of the Home Care Commission appointed by the Governor and confirmed by the Senate as provided in ORS 171.562 and 171.565. Five members are either older adults or individuals with disabilities who are receiving or who have received homecare services. One member is appointed to represent each of the following entities, or a successor entity, for as long as a comparable entity exists: 
+
+ (a) Governor's Commission on Senior Services. 
+
+ (b) Oregon Department of Human Services. 
+
+ (c) Oregon Disabilities Commission. 
+
+ (d) Oregon Association of Area Agencies on Aging and Disabilities. 
+
+ (11) "Common Law Employer" means the employer of record responsible for the duties described in OAR 411-375-0055. 
+
+ (12) "Community Health Worker" means an individual, as defined in ORS 414.025, who assists members of the community to improve their health and increase the capacity of the community to achieve wellness and meet the health care needs of its residents. 
+
+ (13) "Competency Evaluation" means a tool to measure a provider’s mastery of the information learned during orientation and mandatory trainings. 
+
+ (14) "Consumer" or "Consumer-Employer" means an individual eligible for in-home and community-based services. 
+
+ (15) "Consumer-Employer Training Services" means activities described in OAR 411-035-0090 that empower and inform consumer-employers, authorized representatives of consumer-employers, or a consumer's common law employer regarding their rights, roles, and responsibilities as employers of homecare or personal support workers or personal care attendants. The consumer-employer training services program is known as Employer Resource Connection. 
+
+ (16) "Consumer Authorized Representative" means an individual assigned by a consumer, or designated by a consumer's legal representative, to act as the consumer's decision-maker in matters pertaining to planning and implementing an in-home service plan or individual support plan. 
+
+ (17) "Continuing Education" means Commission approved training mandated on an ongoing basis. Continuing education is separate from orientation or core training. 
+
+ (18) "Core Training" means the mandated training, or series of trainings, required for providers. 
+
+ (19) "Credential" means time-limited approval by ODHS or OHA for an individual to provide services as a provider, which includes a start date, designated by a service delivery office, no earlier than the individual's most recent background check and signed provider enrollment agreement, and an end date no later than 24 months from the provider’s most recent background check. This is also referred to as an approved to work credential. 
+
+ (20) "Cultural Competency" is a set of congruent behaviors, attitudes, and policies that come together in a system, agency, or among professionals to enable effective work in cross-cultural situations. 
+
+ (21) "Department" or "ODHS" means the Oregon Department of Human Services. 
+
+ (22) "Enrolled" means an individual has met the initial enrollment requirements to become a Medicaid approved homecare or personal support worker or personal care attendant and has been issued a provider number. 
+
+ (23) "Enrollment Agreement" means the program-specific document a person must complete to be approved to provide services as a provider. 
+
+ (24) "Enhanced Homecare Worker" means a homecare worker, as defined in these rules, who is certified by the Commission to provide medically-driven services and supports, as defined in OAR 411-031-0020 to consumers who have been assessed by a case manager as needing the services and supports. 
+
+ (25) "Enhanced Personal Support Worker" means a personal support worker, as defined in these rules, who is certified by the Commission to provide services to consumers who require advanced medically-driven services and supports as defined in OAR 411-375-0010 or behaviorally-driven services and supports as defined in OAR 411-375-0010 and identified through a functional needs assessment. 
+
+ (26) "Exceptional Homecare Worker" means a homecare worker, as defined in these rules, who is certified by the Commission to provide services for consumer-employers whose service plan indicates the need for awake staff at least 16 hours a day and who have exceptional behavioral needs as defined in OAR 411-031-0020(27), as assessed by a case manager as needing the services and supports. 
+
+ (27) "Exceptional Personal Support Worker" means a personal support worker, as defined in these rules, who is certified by the Commission to provide services for consumers who require staff to be awake more than 20 hours in a 24-hour period and who require extensive medically-driven services and supports as defined in OAR 411-375-0010 or behaviorally-driven services and supports as defined in OAR 411-375-0010, beyond the enhanced services provided by an enhanced personal support worker, as assessed by a functional needs assessment. 
+
+ (28) "Functional Needs Assessment" means the comprehensive assessment tool defined in OAR 411-317-0000. 
+
+ (29) "Grievance" means a formal allegation of acts, omissions, applications, or interpretations that are believed to be violations of the terms or conditions of the Collective Bargaining Agreement. 
+
+ (30) "Homecare Worker" means a provider, as defined and described in OAR chapter 411, division 31, who is directly employed by a consumer or a consumer's authorized representative, to provide hourly services to the consumer. 
+
+ (31) "Incumbent Worker" means a person who enrolled as a provider prior to September 1, 2021. 
+
+ (32) "Independent Choices Program" means the program described in OAR chapter 411, division 30, which is a self-directed in-home services program where a participant is given a cash benefit to purchase goods and services that are identified in the participant's service plan and prior approved by Aging and People with Disabilities (APD) or an AAA. 
+
+ (33) "Individual" means an older adult, an adult with a disability, or a child with a disability applying for or eligible for services. The term "individual" is synonymous with "client" and "consumer". 
+
+ (34) "Individual Support Plan" or "ISP" means the plan defined in OAR 411-317-0000. 
+
+ (35) "Mastery" means a provider has achieved the specific learning objectives of a training. 
+
+ (36) "OHA" means the Oregon Health Authority. 
+
+ (37) "Oregon Intervention System Certification" or "OIS" certification means a system of training to people who work with designated individuals to provide elements of positive behavioral support and non-aversive behavioral intervention. 
+
+ (38) "Orientation" means a mandatory Commission-approved presentation for providers that provides essential information required to provide safe and person-centered services and supports and comply with applicable program rules. 
+
+ (39) “Personal Care Attendant” means a provider enrolled by OHA who is hired to provide personal care services to an individual with a behavioral health condition or disability who resides in their own home. 
+
+ (40) "Personal Support Worker" means, for the purpose of these rules, a provider enrolled by ODHS who is hired or selected by an individual with a developmental disability, their designated common law employer, or proxy to provide services in the individual’s home and community. 
+
+ (41) "Program" means a program governed by Oregon Administrative Rules and administered by ODHS or OHA that authorizes services provided through public funding in an individual's home or in the community. 
+
+ (42) "Provider" means a homecare or personal support worker or personal care attendant who is eligible to be hired by a consumer-employer, a consumer's authorized representative, or the consumer's common law employer, to provide services authorized in the consumer's service plan in the individual's home or in the community. 
+
+ (43) "Provider Number" means an identifying number issued to each homecare and personal support worker or personal care attendant who is enrolled as a provider through ODHS or OHA. 
+
+ (44) "Refresher training" means a 12-hour course for incumbent workers that educates providers on the core competencies. 
+
+ (45) "Registry" means an online tool approved by the Commission and used exclusively to match qualified Medicaid enrolled providers available for work with individuals receiving in-home services through APD, ODDS, or OHA-HSD who are seeking to hire providers. 
+
+ (46) "Respite Worker" means a paid provider who provides services in place of a family caregiver or other member of a consumer's natural support system who typically provides unpaid services. 
+
+ (47) "Restricted Provider Number" means a number assigned by ODHS or OHA to a provider who has restrictions placed on the worker's provider enrollment. 
+
+ (48) "Service Delivery Office" means an APD or AAA office, case management entity, or Community Mental Health Program office that is responsible for case management and authorization of publicly funded services provided by providers. 
+
+ (49) "Service Plan" means a written plan of authorized services provided in an individual's home or in the community, developed in accordance with ODHS or OHA rules and policies, or an Individual Support Plan. 
+
+ (50) "State Plan Personal Care Services" means the assistance with personal care and supportive services provided for an individual by a provider. 
+
+ (51) "Stipend" means an amount of money granted to a provider in accordance with Commission requirements described in OAR 418-020-0030(1)(b). 
+
+ (52) "Substitute Worker" means a provider who provides services in place of a provider who is unavailable. 
+
+ (53) "These Rules" mean the rules in OAR chapter 418, division 20. 
+
+ (54) "Worker" means a "Homecare Worker," "Personal Support Worker," or “Personal Care Attendant.” 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 410.602 
+ 
+ 
+ Statutes/Other Implemented:  ORS 410.600, 410.603, 410.605, 410.606, 410.608 & 410.612 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ HCC 1-2024, amend filed 01/24/2024, effective 02/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ HCC 2-2022, amend filed 10/12/2022, effective 10/14/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ HCC 1-2020, amend filed 12/18/2020, effective 01/01/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ HCC 1-2019, amend filed 06/21/2019, effective 07/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HCC 1-2014, f. 11-26-14, cert. ef. 12-1-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

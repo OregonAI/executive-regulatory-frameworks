@@ -1,0 +1,234 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 245 CLEANER AIR OREGON 
+ 340-245-0110 
+ Source Risk Limits 
+ 
+ (1) The purpose of a Source Risk Limit is to limit the chronic and acute risk from a source that emits toxic air contaminants. DEQ will establish Source Risk Limits based on the results of the risk assessment performed under OAR 340-245-0050. DEQ will establish Source Risk Limits separately for each of the following risk categories: chronic excess cancer risk, chronic noncancer risk and acute noncancer risk. 
+
+ (a) Source Risk Limits that are based on chronic risk apply on a rolling 12 consecutive month basis and limit the source's chronic risk or annual PTE, as applicable; 
+
+ (b) Source Risk Limits that are based on acute risk apply on a daily basis and limit the source's acute risk or daily PTE, as applicable; and 
+
+ (c) DEQ may establish multiple chronic or acute noncancer Source Risk Limits for an individual source on a case-by-case basis to account for risk to different target organs or organ systems. 
+
+ (2) Establishing Source Risk Limits. For new, reconstructed, and existing sources whose risk is greater than the Source Permit Level, DEQ may set Source Risk Limits based on either: 
+
+ (a) The level modeled in the risk assessment required under OAR 340-245-0050 using the emissions inventory submitted under OAR 340-245-0040(1); or 
+
+ (b) For existing sources, a level other than the modeled level that reflects a reasonable estimate of risk from the source taking into account projected operations and other factors, including but not limited to: 
+
+ (A) Applicable State and Federal limitations; 
+
+ (B) Established PTE; 
+
+ (C) Past operations; and 
+
+ (D) Recent trends in emission rates. 
+
+ (3) An owner or operator may propose the type of risk limit that will be included in the source’s Toxic Air Contaminant Permit Addendum or operating permit, such as a limit on emissions or source operation, or a limit on risk. 
+
+ (a) Source Risk Limits will generally be based on conditions imposed on emissions, operational parameters, production activities, fuel or raw material usage, as necessary, to maintain risk below the Source Risk Limits; or 
+
+ (b) Source Risk Limits may be expressed in terms of risk, such as X per million for excess cancer risk or Hazard Index of Y, where X and Y indicate a numerical value. 
+
+ (4) If a compliance schedule to reduce risk is included in the Toxic Air Contaminant Permit Addendum or operating permit for an existing source, the owner or operator must comply with all the requirements in the compliance schedule and maintain proposed risk below the Immediate Curtailment Level, if applicable. 
+
+ (5) Determining Compliance with Source Risk Limits. 
+
+ (a) Frequency. The owner or operator must maintain compliance with the Source Risk Limit on the frequency specified in the Toxic Air Contaminant Permit Addendum or operating permit as follows: 
+
+ (A) For excess cancer risk, using the annual actual toxic air contaminant emission rates emitted by the source that have cancer RBCs determined on a 12-rolling month basis, compliance must be maintained monthly, unless less frequent compliance requirements are specified in a source’s Toxic Air Contaminant Permit Addendum or operating permit; 
+
+ (B) For chronic noncancer risk, total or separated for each target organ or organ system, using the annual actual toxic air contaminant emission rates emitted by the source that contribute to each chronic noncancer risk determined on a 12-rolling month basis, compliance must be maintained monthly, unless less frequent compliance requirements are specified in a source’s Toxic Air Contaminant Permit Addendum or operating permit; and 
+
+ (C) For acute noncancer risk, total or separated for each target organ or organ system, using the maximum daily actual toxic air contaminant emission rates emitted by the source that contribute to each acute noncancer risk determined for the preceding day, compliance must be maintained daily, unless less frequent compliance requirements are specified in a source’s Toxic Air Contaminant Permit Addendum or operating permit; 
+
+ (b) Compliance records maintenance method. 
+
+ (A) If the Source Risk Limit is based on emissions, production activities, or other limits on source operation, the owner or operator must monitor emissions, production activities, or other limits on source operation, using one or more of the following methods: 
+
+ (i) Continuous emissions monitors; 
+
+ (ii) Material balance calculations; 
+
+ (iii) Emissions calculations using approved emission factors and process information; 
+
+ (iv) Production activity or process parameter monitoring; and 
+
+ (v) Other methods approved by DEQ; 
+
+ (B) If the Source Risk Limit is based on risk, the owner or operator must calculate ongoing risk in a manner specified in the source’s Toxic Air Contaminant Permit Addendum or operating permit. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, 468.065, 468A.025, 468A.040, 468A.050, 468A.070, 468A.155, 468A.135 & 468A.337 
+ 
+ 
+ Statutes/Other Implemented:  468.065, 468A.025, 468A.040, 468A.050, 468A.070, 468A.155, 468A.010, 468A.015, 468A.035, 468A.337 & 468A.335 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 18-2021, amend filed 11/17/2021, effective 11/17/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 197-2018, adopt filed 11/16/2018, effective 11/16/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

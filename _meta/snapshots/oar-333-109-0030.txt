@@ -1,0 +1,173 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 109 RADIATION SAFETY REQUIREMENTS FOR INDUSTRIAL AND MANUFACTURING USE OF PARTICLE ACCELERATORS 
+ 333-109-0030 
+ Particle Accelerator Controls and Interlock Systems 
+ 
+ (1) Instrumentation, readouts and controls on the particle accelerator control console must be clearly identified and easily discernible.  (2) Each entrance into a target room or other high radiation area must be provided with a safety interlock that shuts down the machine under conditions of barrier penetration.  (3) Each safety interlock must be on a circuit which must allow it to operate independently of all other safety interlocks.  (4) All safety interlocks must be designed so that any defect or component failure in the safety interlock system prevents operation of the accelerator.  (5) When a safety interlock system has been tripped, it must only be possible to resume operation of the accelerator by manually resetting controls at the position where the safety interlock has been tripped and, lastly, at the main control console.  (6) A scram button or other emergency power cutoff switch must be located and easily identifiable in all high radiation areas. Such a cutoff switch must include a manual reset so that the accelerator cannot be restarted from the accelerator control console without resetting the cutoff switch.  (7) All safety interlocks must not be dependent upon the operation of a single circuit; i.e., they must be of redundant or fail-safe design. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 453.605 – 453.807 
+ 
+ 
+ Statutes/Other Implemented:  ORS 453.605 – 453.807 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 12-2006, f. & cert. ef. 6-16-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 1-1991, f. & cert. ef. 1-8-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

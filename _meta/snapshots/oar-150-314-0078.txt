@@ -1,0 +1,242 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 314 INCOME TAXATION GENERALLY  GENERAL PROVISIONS 
+ 150-314-0078 
+ Modified Factors for Carriers of Freight or Passengers: Special Rules — Airlines
+ 
+ 
+ (1) In General. Where an airline has income from sources both within and without this state, the amount of apportionable income from sources within this state is determined pursuant to ORS 314.610 to 314.665 except as modified by this rule. 
+
+ (2) Apportionment of Apportionable Income. Apportionable income is apportioned to this state by use of the formula provided in ORS 314.650 as it applies to the tax year involved. For tax years beginning on or after July 1, 2005, ORS 314.650 provides for apportionment using only the sales factor. 
+
+ (a) General Definitions. The following definitions are applicable to the terms used in the apportionment factor descriptions. 
+
+ (A) “Value” of owned real and tangible personal property means its original cost. (ORS 314.655 and OAR 150-314-0398) 
+
+ (B) “Cost of aircraft by type” means the average original cost or value of aircraft by type which are ready for flight. 
+
+ (C) “Original cost” means the initial federal tax basis of the property plus the value of capital improvements to such property, except that, for this purpose, it is assumed that Safe Harbor Leases are not true leases and do not affect the original initial federal tax basis of the property. 
+
+ (D) “Average value” of property means the amount determined by averaging the values at the beginning and ending of the income year, but the department may require the averaging of monthly values during the income year if such averaging is necessary to properly reflect the average value of the airline’s property. (ORS 314.655 and OAR 150-314-0406) 
+
+ (E) The “value” of rented real and tangible personal property means the product of eight (8) times the net annual rental rate. (ORS 314.655 and OAR 150-314-0400) 
+
+ (F) “Net annual rental rate” means the annual rental rate paid by the taxpayer. 
+
+ (G) “Property used during the income year” includes property which is available for use in the taxpayer’s trade or business during the income year. 
+
+ (H) “Aircraft ready for flight” means aircraft owned or acquired through rental or lease (but not interchange) which are in the possession of the taxpayer and are available for service on the taxpayer routes. 
+
+ (I) “Revenue service” means the use of aircraft ready for flight for the production of revenue. 
+
+ (J) “Transportation sales” means sales from transporting passengers, freight, and mail as well as liquor sales, pet crate rentals, etc. 
+
+ (K) “Departures” for purposes of these regulations means all takeoffs, whether they be regularly scheduled or charter flights, that occur during revenue service. 
+
+ (b) Property Factor. 
+
+ (A) Property valuation. Owned aircraft must be valued at its original cost and rented aircraft must be valued at eight (8) times the net annual rental rate in accordance with ORS 314.655 and OAR 150-314-0400. The use of the taxpayer’s owned or rented aircraft in an interchange program with another air carrier does not constitute a rental of such aircraft by the airline to the other participating airline. Such aircraft are accounted for in the property factor of the owner. Parts and other expendables, including parts for use in contract overhaul work, are valued at cost. 
+
+ (B) The denominator and numerator of the property factor. The denominator of the property factor is the average value of all of the taxpayer’s real and tangible personal property owned or rented and used during the income year. The numerator of the property factor is the average value of the tangible personal property owned or rented and used in this state during the income year. In determining the numerator of the property factor, all property except aircraft ready for flight are included in the numerator of the property factor in accordance with ORS 314.655 and OAR 150-314-0396. Aircraft ready for flight are included in the numerator of the property factor in the ratio calculated as follows: Departures of aircraft from locations in this state weighted as to the cost and value of aircraft by type compared to total departures similarly weighted. 
+
+ (c) Payroll Factor. The denominator of the payroll factor is the total compensation paid everywhere by the taxpayer during the income year (ORS 314.660 and OAR 150-314-0415). The numerator of the payroll factor is the total amount paid in this state during the income year by the taxpayer for compensation. With respect to non-flight personnel, compensation paid to such employees is included in the numerator as provided in ORS 314.660 and OAR 150-314-0417. With respect to flight personnel (the air crew aboard an aircraft assisting in the operations of the aircraft or the welfare of passengers while in the air), compensation paid to such employees is included in the ratio that departures of aircraft from locations in this state, weighted as to the cost and value of aircraft by type, compared to total departures similarly weighted, multiplied by the total flight personnel compensation. 
+
+ (d) Sales (Transportation Sales) Factor. The transportation sales derived from transactions and activities in the regular course of the trade or business of the taxpayer and miscellaneous sales of merchandise, etc., are included in the denominator of the sales factor (ORS 314.665 and OAR 150-314-0425). Passive income items such as interest, rental income, dividends, etc., are not included in either the numerator or the denominator nor are the proceeds or net gains or losses from the sale of aircraft included. The numerator of the sales factor is the total sales of the taxpayer in this state during the income year. The total sales of the taxpayer in this state during the income year is the result of the following calculation: The ratio of departures of aircraft in this state weighted as to the cost and value of aircraft by type, as compared to total departures similarly weighted, multiplied by the total transportation revenue. The product of this calculation is to be added to any nonflight sales directly attributable to this state. 
+
+ [See PDF link below.] 
+
+ (3) Records. The taxpayer must maintain the records necessary to arrive at departures by type of aircraft as used in these rules. Such records are to be subject to review by the state of Oregon or their agents. 
+
+ [Publications: Contact the Oregon Department of Revenue to learn how to obtain a copy of the publication referred to or incorporated by reference in this rule pursuant to ORS 183.360(2) and 183.355(1)(b).] 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 & 314.280 
+ 
+ 
+ Statutes/Other Implemented:  ORS 314.280 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 68-2017, amend filed 12/22/2017, effective 01/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 36-2017, f. & cert. ef. 8-1-17 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ Renumbered from 150-314.280-(I), REV 33-2016, f. 8-12-16, cert. ef. 9-1-16 
+REV 10-2007, f. 12-28-07, cert. ef. 1-1-08 
+RD 4-1997, f. 12-12-97, cert. ef. 12-31-97 
+Renumbered from 150-314.280-(I), 12/31/87 
+12/31/83 
+12/31/82 
+12/19/75 
+12/70 
+1/65
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

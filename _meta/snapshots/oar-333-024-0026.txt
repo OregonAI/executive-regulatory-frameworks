@@ -1,0 +1,274 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 24 CLINICAL LABORATORIES 
+ 333-024-0026 
+ Equipment and Facilities
+ 
+ 
+ (1) All equipment shall be maintained in good working order, checked routinely, and precisely calibrated according to manufacturer’s requirements or a minimum of every six months. 
+
+ (2) Work bench space shall be ample, clean, well-organized, well-lighted, and convenient to sink, water and electrical outlets. 
+
+ (3) The laboratory shall be ventilated to protect the health of the personnel and patients against accidental release of hazardous vapors or aerosols. 
+
+ (4) Laboratory procedure manuals and policies shall be available for the use of the personnel in the laboratory and shall be reviewed by the director initially and when there is a change in methods or policy. 
+
+ (5) The premises shall be free from unnecessary physical, chemical, and biological hazards. All materials containing pathogenic organisms shall be: 
+
+ (a) Autoclaved at 121degrees Celsius for 30 minutes to ensure nonviability prior to being discarded; or 
+
+ (b) Incinerated in a state-approved incinerator; or 
+
+ (c) Disposed using another Public Health Division approved method. 
+
+ (6) Safety precautions must be posted and observed. 
+
+ (7) Glassware shall be free from excessive scratches and cloudiness and graduations must be legible. “To contain” and “to deliver” pipettes are to be kept separated. Cleanliness of glassware must be adequate for the purpose for which it is used. 
+
+ (8) Blood-letting lancets, needles, and syringes, if not sterile and disposable, shall be sterilized prior to each use by standard and accepted methods. Each sterilizing cycle shall contain a satisfactory indicating device to assure proper sterilization. 
+
+ (9) Electrical equipment shall be maintained in a safe condition with regards to shock and fire hazards. All electrical equipment, except battery operated, shall be grounded. Protective fuses shall not be bypassed. 
+
+ (10) Caustic, explosive, and flammable materials shall carry labels to indicate their nature and shall be placed in containers and stored in locations which are suitable to ensure stability, purity, and safety as is necessary regarding the material involved. 
+
+ (11) The laboratory shall define, establish and document a function check and maintenance protocol that ensures equipment, instrument, and test system performance necessary for accurate and reliable test results and result reporting. 
+
+ (12) Requirements for calibration and calibration verification for laboratories performing unmodified moderate complexity test procedures that are performed using instruments, kits, or test systems that have been cleared by the U.S. Food and Drug Administration (FDA) through the 510(k) or Premarket Approval (PMA) process must meet the requirements in OAR 333-024-0026(13). 
+
+ (13) Requirements for calibration and calibration verification for laboratories performing high complexity testing procedures, tests not cleared by the FDA through the 510(k) or PMA process, modified moderate complexity testing: 
+
+ (a) The laboratory must: 
+
+ (A) Establish the number, type, and concentration of calibration materials required to assure accurate and reliable test results; 
+
+ (B) Establish the frequency and acceptable limits for calibration and calibration verification, if not provided by the manufacturer; and 
+
+ (C) Use calibration materials appropriate for the methodology, and if possible, traceable to a reference method or reference material of known value. 
+
+ (b) The laboratory must perform and document calibration: 
+
+ (A) At the frequency required by the manufacturer; 
+
+ (B) In accordance with criteria established by the laboratory, if more frequent than manufacturer’s requirements; and 
+
+ (C) When calibration verification fails to meet the laboratory’s acceptable limits for calibration verification. 
+
+ (c) The laboratory must perform calibration verification to verify the laboratory’s established reportable range for patient test values using calibration or control materials, including at least a minimal value (zero), a mid-point value, and a maximum value at the upper limit of that range: 
+
+ (A) When a complete change of reagents is introduced; 
+
+ (B) When there is a major preventative maintenance or replacement of critical parts that may influence test performance; 
+
+ (C) When controls reflect an unusual trend or shift or are outside the laboratory’s acceptable limits and other means of assessing and correcting unacceptable control values have failed to identify and correct the problem; and 
+
+ (D) At least once every six months, unless the laboratory’s established schedule for verifying the reportable range for patient test results requires more frequent calibration verification. 
+
+ (d) Calibration and calibration verification must meet the laboratory’s acceptable ranges prior to patient test reporting; and 
+
+ (e) Calibration and calibration verification documentation must be maintained for a minimum of two years. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 438.040 
+ 
+ 
+ Statutes/Other Implemented:  ORS 438.040 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 21-2026, amend filed 05/20/2026, effective 05/21/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 6-1995, f. & cert. ef. 9-13-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 20-1994, f. & cert. ef. 7-20-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 28-1988, f. & cert. ef. 12-7-88, Renumbered from 333-024-0025 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HB 248, f. 6-30-70, ef. 7-25-70 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

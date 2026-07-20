@@ -1,0 +1,228 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 308 ASSESSMENT OF PROPERTY FOR TAXATION 
+ 150-308-0150 
+ Net Capitalized Additions
+ 
+ 
+ (1) Definitions: 
+
+ (a) For purposes of centrally-assessed property, the term “improvements” means changes in the value of property (as defined in 1997 OR Law Ch. 541, Sect. (7)(1)(b)) as the result of new construction, reconstruction, major additions, remodeling, renovation, rehabilitation or acquisition of property except on-going maintenance and repair. “Improvements” are measured by changes in Oregon net capitalized additions as defined below. 
+
+ (b) The term “capitalized” refers to company expenditures for certain assets with a useful life typically extending beyond one year. These assets are aggregated in fixed asset accounts subject to annual depreciation charges, rather than repair and maintenance expense accounts. Examples include acquisitions of or changes to buildings, equipment, and personal property such as furniture and fixtures. 
+
+ (c) The term “net additions” means the difference between the aggregate costs of Oregon assets in the prior and current years. For the 1997–98 implementation year, additions include the change from the 1995–96 base year. In all subsequent years, additions include the change from the prior year. 
+
+ (d) The term “net capitalized additions” means “net additions” as calculated using capitalized costs in the company’s annual reports. 
+
+ Examples: 
+
+ (A) For the current year, a new transformer is added for $100,000 and there are no retirements. The net addition is $100,000. 
+
+ (B) A seven-year old transformer with a ten-year life expectancy (net book value of $30,000) is retired from service and replaced by a new transformer (cost $100,000). The net addition is $70,000, reflecting the additional 7 years’ life expectancy. (The remaining $30,000 is considered maintenance). 
+
+ (C) Same as (B) above, except that the new transformer is added to the existing number of transformers. No other transformers are retired; however, $30,000 of other capitalized equipment is retired. The net addition is still $70,000. 
+
+ Typical fixed asset accounting procedures provide for annual removal of retired assets. Using successive years’ account totals to determine maximum assessed value will result in a netting of retirements against true improvements. 
+
+ (D) Same as (B) above, except that no new transformer is added. The net capitalized addition is $0, since there have been no improvements. 
+
+ (E) If the change in Oregon assets can only be determined by an allocation of system additions, then these changes shall be allocated to Oregon in the same manner as other company property. 
+
+ (F) In the case of mobile property, additions shall also include the change in presence in the state as measured by the change in allocation factors. 
+
+ (e) The term “ongoing maintenance and repair” means expenditures which the company has elected to record as an expense in repair and maintenance accounts rather than aggregate in a fixed asset account as described (1)(b). Items may be expensed because the useful life of the expenditures does not extend over one year, or because their associated dollar amounts are too small to qualify as a capital asset under company capitalization threshold guidelines. Typical examples include spare parts and maintenance supplies. 
+
+ Example: A private car company maintains a capitalization threshold for its equipment accounts of $2000. The company frequently makes purchases of spare parts for its repair shops. One of these was a bulk purchase of miscellaneous car bearings for $1000, and the company expensed this item. The company also decided to upgrade half of its fleet with a $20,000 investment in specialized bearings which would allow the cars to travel at significantly higher speeds. This investment was capitalized. The expenditure of $1000 would be considered “ongoing maintenance and repair.” The expenditure of $20,000 would be considered an “improvement.” The fact that each expenditure is for bearings is not controlling. 
+
+ (2) Application of Definitions: 
+
+ (a) In the case of companies which do not keep fixed asset accounts, the department may make a reasonable analysis of reported assets using capitalization practices under accepted accounting principles. 
+
+ (b) In cases where the Department of Revenue annual company reporting is based on aggregate account balances, the department will not undertake an item-by-item analysis of the amount and purpose of each expenditure within statutory appraisal timelines. Expensed items shall be considered “ongoing maintenance and repair” and net capitalized additions shall be considered “improvements.” The department may undertake an item-by-item analysis when the appraisal is challenged by the taxpayer in litigation or otherwise. 
+
+ (c) Typical accounting policies include a “capitalization threshold” of a certain dollar amount for different types of expenditures. The department recognizes that certain assets which qualify as improvements under the law may be expensed as a matter of company policy. In these cases, the department shall presume that the minor construction thresholds defined in ORS 308.149 are addressed by this accounting convention. The department may make a reasonable adjustment when the application of this approach results in a material error. 
+
+ (3) For purposes of computing maximum assessed value for centrally-assessed property, the aggregate Oregon net capitalized additions shall be adjusted to reflect their real market value as a result of wear, aging, and the impact of market conditions since placement in service. The net capitalized additions shall then be multiplied by the statewide maximum assessed value to real market value ratio for centrally-assessed property (always 1.00 or less). The maximum assessed value shall be compared to the real market value, and the lesser of the two shall be placed on the roll as the company’s assessed value. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 
+ 
+ 
+ Statutes/Other Implemented:  ORS 308.149 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 16-2023, minor correction filed 10/16/2023, effective 10/16/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 150-308.149(5), REV 58-2016, f. 8-13-16, cert. ef. 9-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RD 9-1997, f. & cert. ef. 12-31-97 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

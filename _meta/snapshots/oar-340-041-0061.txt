@@ -1,0 +1,327 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 41 WATER QUALITY STANDARDS: BENEFICIAL USES, POLICIES, AND CRITERIA FOR OREGON 
+ 340-041-0061 
+ Other Implementation of Water Quality Criteria
+ 
+ 
+ (1) A waste treatment and disposal facility may not be constructed or operated and wastes may not be discharged to public waters without a permit from the department in accordance with ORS 468B.050. 
+
+ (2) Plans for all sewage and industrial waste treatment, control, and disposal facilities must be submitted to the department for review and approval prior to construction as required by ORS 468B.055. 
+
+ (3) Minimum design criteria for waste treatment and control facilities prescribed under this plan and other waste treatment and controls deemed necessary to ensure compliance with the water quality standards contained in this plan must be provided in accordance with specific permit conditions for those sources or activities for which permits are required and the following implementation program. 
+
+ (a) For new or expanded waste loads or activities, fully approved treatment or control facilities, or both, must be provided prior to discharge of any wastes from the new or expanded facilities or conduct of the new or expanded activity. 
+
+ (b) For existing waste loads or activities, additional treatment or control facilities necessary to correct specific unacceptable water quality conditions must be provided in accordance with a specific program and timetable incorporated into the waste discharge permit for the individual discharger or activity. In developing treatment requirements and implementation schedules for existing installations or activities, consideration will be given to the impact upon the overall environmental quality, including air, water, land use, and aesthetics. 
+
+ (c) Wherever minimum design criteria for waste treatment and control facilities set forth in this plan are more stringent than applicable federal standards and treatment levels currently being provided, upgrading to the more stringent requirements will be deferred until it is necessary to expand or otherwise modify or replace the existing treatment facilities. Such deferral will be acknowledged in the permit for the source. 
+
+ (d) Where planning, design, or construction of new or modified waste treatment and controls to meet prior applicable state or federal requirements is underway at the time this plan is adopted, such plans, design, or construction may be completed under the requirements in effect when the project was initiated. Upgrading to meet more stringent future requirements will be timed in accordance with section (3) of this rule. 
+
+ (4) Confined animal feeding operations (CAFOs) are regulated under OAR 340-051-0005 through 340-051-0080 to minimize potential adverse effect on water quality (see also OAR 603-074-0005 through 603-074-0070). 
+
+ (5) Programs for control of pollution from nonpoint sources when developed by the department or by other agencies pursuant to section 208 of the federal Clean Water Act and approved by the department will be incorporated into this plan by amendment via the same process used to adopt the plan unless other procedures are established by law. 
+
+ (6) Where minimum requirements of federal law or enforceable regulations are more stringent than specific provisions of this plan, the federal requirements will prevail. 
+
+ (7) Within the framework of statewide priorities and available resources, the department will monitor water quality within the basin for the purposes of evaluating conformance with the plan and developing information for additions or updates. 
+
+ (8) The commission recognizes that the potential exists for conflicts between water quality management plans and the land use plans and resource management plans that local governments and other agencies are required to develop. If conflicts develop, the department will meet with the local governments or responsible agencies to resolve the conflicts. Revisions will be presented for adoption via the same process used to adopt the plan unless other specific procedures are established by law. 
+
+ (9) The department will calculate and include effluent limits specified in pounds per day, which will be the mass load limits for biochemical oxygen demand or carbonaceous biochemical oxygen demand and total suspended solids in National Pollutant Discharge Elimination System permits issued to all sewage treatment facilities. These limits must be calculated as follows. 
+
+ (a) Except as noted in paragraph (H) of this subsection, the following requirements apply to existing facilities and to facilities receiving departmental approval for engineering plans and specifications for new treatment facilities or treatment facilities expanding the average dry weather treatment capacity before June 30, 1992: 
+
+ (A) During periods of low stream flows (approximately May 1 through October 31), the monthly average mass load expressed as pounds per day may not exceed the applicable monthly concentration effluent limit times the design average dry weather flow expressed in million gallons per day times 8.34. The weekly average mass load expressed as pounds per day may not exceed the monthly average mass load times 1.5. The daily mass load expressed in pounds per day may not exceed the monthly average mass load times 2.0. 
+
+ (B) During the period of high stream flows (approximately November 1 through April 30), the monthly average mass load expressed as pounds per day may not exceed the monthly concentration effluent limit times the design average wet weather flow expressed in million gallons per day times 8.34. The weekly average mass load expressed as pounds per day may not exceed the monthly average mass load times 1.5. The daily mass load expressed in pounds per day may not exceed the monthly average mass load times 2.0. 
+
+ (C) On any day that the daily flow to a sewage treatment facility exceeds the lesser hydraulic capacity of the secondary treatment portion of the facility or twice the design average dry weather flow, the daily mass load limit does not apply. The permittee must operate the treatment facility at highest and best practicable treatment and control. 
+
+ (D) The design average wet weather flow used in calculating mass loads must be approved by the department in accordance with prudent engineering practice and must be based on a facility plan approved by the department, engineering plans and specifications approved by the department, or an engineering evaluation. The permittee must submit documentation describing and supporting the design average wet weather flow with the permit application, application for permit renewal, or modification request or upon request by the department. The design average wet weather flow is defined as the average flow between November 1 and April 30 when the sewage treatment facility is projected to be at design capacity for that portion of the year. 
+
+ (E) Mass loads assigned as described in paragraphs (B) and (C) of this subsection will not be subject to OAR 340-041-0004(9); 
+
+ (F) Mass loads as described in this rule will be included in permits upon renewal or upon a request for permit modification. 
+
+ (G) Within 180 days after permit renewal or modification, a permittee receiving higher mass loads under this rule and having a separate sanitary sewer system must submit to the department for review and approval a proposed program and time schedule for identifying and reducing inflow. The program must include the following: 
+
+ (i) Identification of all overflow points and verification that sewer system overflows are not occurring up to a 24-hour, five-year storm event or equivalent; 
+
+ (ii) Monitoring of all pump station overflow points; 
+
+ (iii) A program for identifying and removing all inflow sources into the permit holder's sewer system over which the permit holder has legal control; and 
+
+ (iv) For those permit holders not having the necessary legal authority for all portions of the sewer system discharging into the permit holder's sewer system or treatment facility, a program and schedule for gaining legal authority to require inflow reduction and a program and schedule for removing inflow sources. 
+
+ (H) Within one year after the department's approval of the program, the permit holder must begin implementation of the program. 
+
+ (I) Paragraphs (A) through (G) of this subsection do not apply to the cities of Athena, Elgin, Adair Village, Halsey, Harrisburg, Independence, Carlton, and Sweet Home. Mass load limits have been individually assigned to these facilities. 
+
+ (b) For new sewage treatment facilities or treatment facilities expanding the average dry weather treatment capacity and receiving engineering plans and specifications approval from the department after June 30, 1992, the mass load limits must be calculated by the department based on the proposed treatment facility capabilities and the highest and best practicable treatment to minimize the discharge of pollutants. 
+
+ (c) Mass load limits as defined in this rule may be replaced by more stringent limits if required by waste load allocations established in accordance with a TMDL for treatment facilities discharging to water quality limited streams or if required to prevent or eliminate violations of water quality standards. 
+
+ (d) If the design average wet weather flow or the hydraulic secondary treatment capacity is not known or has not been approved by the department at the time of permit issuance, the permit must include as interim mass load limits the mass load limits in the previous permit issued to the permit holder for the treatment facility. The permit must also include a requirement that the permit holder submit to the department the design average wet weather flow and hydraulic secondary treatment capacity within 12 months after permit issuance. Upon review and approval of the design flow information, the department will modify the permit and include mass load limits as described in subsection (a) of this section. 
+
+ (e) Each permit holder with existing sewage treatment facilities otherwise subject to subsection (a) of this section may choose mass load limits calculated as follows: 
+
+ (A) The monthly average mass load expressed as pounds per day may not exceed the applicable monthly concentration effluent limit times the design average dry weather flow expressed in million gallons per day times 8.34 pounds per gallon. 
+
+ (B) The weekly average mass load expressed as pounds per day may not exceed the monthly average mass load times 1.5. 
+
+ (C) The daily mass load expressed in pounds per day may not exceed the monthly average mass load times 2.0. If existing mass load limits are retained by the permit holder, the terms and requirements of subsection (a) of this section do not apply. 
+
+ (f) The commission may grant exceptions to subsection (a) of this section. In allowing increased discharged loads, the commission must make the findings specified in OAR 340-041-0004(9)(a) for waste loads and the following findings: 
+
+ (A) Mass loads calculated in subsection (a) of this section cannot be achieved with the existing treatment facilities operated at maximum efficiency at projected design flows; and 
+
+ (B) There are no practicable alternatives to achieving the mass loads as calculated in subsection (a) of this section. 
+
+ (10) Testing methods. The analytical testing methods for determining compliance with the water quality standards in this rule must comply with 40 CFR Part 136 or, if Part 136 does not prescribe a method, with the most recent edition of Standard Methods for the Examination of Water and Waste Water published jointly by the American Public Health Association, American Water Works Association, and Water Pollution Control Federation; if the department has published an applicable superseding method, testing must comply with the superseding method. Testing in accordance with an alternative method must comply with this rule if the department has published the method or has approved the method in writing. 
+
+ (11) Reservoirs or managed lakes are deemed in compliance with water quality criteria for temperature, pH, or dissolved oxygen (DO) if all of the following circumstances exist. 
+
+ (a) The water body has thermally stratified naturally or due to the presence of an impoundment. 
+
+ (b) The water body has three observable layers, defined as the epilimnion, metalimnion, and hypolimnion. 
+
+ (c) A layer exists in the reservoir or managed lake in which temperature, pH, and DO criteria are all met, and the layer is sufficient to support beneficial uses. 
+
+ (d) All practicable measures have been taken by the entities responsible for management of the reservoir or managed lake to maximize the layers meeting the temperature, pH, and DO criteria. 
+
+ (e) One of the following conditions is met: 
+
+ (A) The streams or river segments immediately downstream of the water body meet applicable criteria for temperature, pH, and DO. 
+
+ (B) All practicable measures have been taken to maximize downstream water quality potential and fish passage. 
+
+ (C) If the applicable criteria are not met in the stream or river segment immediately upstream of the water body, then no further measurable downstream degradation of water quality has taken place due to stratification of the reservoir or managed lake. 
+
+ [NOTE: On February 20, 2009, the Environmental Protection Agency disapproved rule section OAR 340-041-0061(11). Consequently, section (11) is not effective as a water quality criterion for purposes of CWA Section 303(c) and it cannot be used for issuing certifications under CWA Section 401, permits under CWA Section 402, or total maximum daily loads under CWA section 303(d).] 
+
+ (12) Compliance schedules. In a permit issued under OAR 340, division 045 or in a water quality certification under OAR 340, division 48, the department may include compliance schedules for the implementation of effluent limits derived from water quality criteria in this division. A compliance schedule in an NPDES permit is allowed only for water quality based effluent limits that are newly applicable to the permit and must comply with provisions in 40 CFR §122.47 (including the requirement that water quality criteria must be achieved as soon as possible). 
+
+ [NOTE: Referenced publications are available from the agency.] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, 468B.048, 468B.030 & 468B.035 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468B.030, 468B.035 & 468B.048 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 6-2023, minor correction filed 05/25/2023, effective 05/25/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 13-2019, amend filed 05/16/2019, effective 05/16/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 5-2013, f. & cert. ef. 6-21-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 10-2011, f. & cert. ef. 7-13-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 3-2004, f. & cert. ef. 5-28-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 17-2003, f. & cert. ef. 12-9-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

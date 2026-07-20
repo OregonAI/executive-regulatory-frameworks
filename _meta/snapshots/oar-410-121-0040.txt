@@ -1,0 +1,1187 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 121 PHARMACEUTICAL SERVICES 
+ 410-121-0040 
+ Prior Authorization Required for Drugs and Products
+ 
+ 
+ (1) Prescribing practitioners shall obtain prior authorization (PA) for the drugs and categories of drugs requiring PA in this rule, using the procedures set forth in OAR 410-121-0060. 
+
+ (2) Except as provided in section (3) of this rule, all drugs and categories of drugs including, but not limited to, those drugs and categories of drugs that require PA shall meet the following requirements for coverage: 
+
+ (a) Each drug shall be prescribed for conditions funded by the Oregon Health Plan (OHP) in a manner consistent with the Health Evidence Review Commission (HERC) Prioritized List of Health Services (OAR 410-141-3820 through 410-141-3825). If the medication is for a non-covered diagnosis, the medication may not be covered unless there is a co-morbid condition for which coverage would be allowed. The use of the medication shall meet corresponding treatment guidelines and be included within the client’s benefit package of covered services and not otherwise excluded or limited; 
+
+ (b) Each drug shall also meet other criteria applicable to the drug or category of drug in these pharmacy provider rules, including PA requirements imposed in this rule. 
+
+ (3) The Division shall grant exceptions to section (2) of this rule when coverage is required through Early and Periodic Screening, Diagnostic and Treatment (EPSDT) as set forth in chapter 410 division 151. 
+
+ (4) The Authority may require PA for individual drugs and categories of drugs to ensure that the drugs prescribed are indicated for conditions funded by OHP and consistent with the Prioritized List of Health Services and its corresponding treatment guidelines (see OAR 410-141-3820). The drugs and categories of drugs that the Authority requires PA for this purpose are found in the Oregon Medicaid Fee-for-Service Prior Authorization Approval Criteria (PA Criteria guide) July 1, 2026 adopted and incorporated by reference and found at https://www.oregon.gov/oha/HSD/OHP/Pages/Policy-Pharmacy.aspx 
+
+ (5) The Authority may require PA for individual drugs and categories of drugs to ensure medically appropriate use or to address potential client safety risk associated with the particular drug or category of drug, as recommended by the Pharmacy & Therapeutics Committee (P&T) and adopted by the Authority in this rule. The drugs and categories of drugs for which the Authority requires PA for this purpose are found in the Pharmacy PA Criteria Guide. 
+
+ (6) New drugs shall be evaluated when added to the weekly upload of the First Databank drug file: 
+
+ (a) If the new drug is in a class where current PA criteria apply, all associated PA criteria shall be required at the time of the drug file load; 
+
+ (b) If the new drug is indicated for a condition below the funding line on the Prioritized List of Health Services, PA shall be required to ensure that the drug is prescribed for a condition funded by OHP; 
+
+ (c) PA criteria for all new drugs shall be reviewed by the DUR/P&T Committee. 
+
+ (7) PA shall be obtained for brand name drugs that have two or more generically equivalent products available and that are not determined Narrow Therapeutic Index drugs by the DUR/P&T Committee: 
+
+ (a) Immunosuppressant drugs used in connection with an organ transplant shall be evaluated for narrow therapeutic index within 180 days after United States patent expiration; 
+
+ (b) Manufacturers of immunosuppressant drugs used in connection with an organ transplant shall notify the Authority of patent expiration within 30 days of patent expiration for section (5)(a) of this rule to apply; 
+
+ (c) Criteria for approval are: 
+
+ (A) If criteria established in section (4) or (5) of this rule applies, follow that criteria; 
+
+ (B) If section (7)(a) of this rule does not apply, the prescribing practitioner shall document that the use of the generically equivalent drug is medically contraindicated and provide evidence that either the drug has been used and has failed or that its use is contraindicated based on evidence-based peer reviewed literature that is appropriate to the client’s medical condition. 
+
+ (8) PA shall be obtained for non-preferred Preferred Drug List (PDL) products in a class evaluated for the PDL except in the following cases: 
+
+ (a) The drug is a mental health drug as defined in OAR 410-121-0000; 
+
+ (b) The original prescription is written prior to 1/1/10; 
+
+ (c) The prescription is a refill for the treatment of seizures, cancer, HIV, or AIDS; or 
+
+ (d) The prescription is a refill of an immunosuppressant. 
+
+ (9) PA may not be required: 
+
+ (a) When the prescription ingredient cost plus the dispensing fee is less than the PA processing fees as determined by the Authority; 
+
+ (b) For over-the-counter (OTC) covered drugs when prescribed for conditions covered under OHP; or 
+
+ (c) If a drug is in a class not evaluated from the Practitioner-Managed Prescription Drug Plan under ORS 414.334. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.032, 413.042, 414.065, 414.330 - 414.414, 414.312, 414.316 & 414.325 
+ 
+ 
+ Statutes/Other Implemented:  414.065, 414.334, 414.361, 414.371, 414.353, 414.354, 414.325 & 414.369 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 27-2026, amend filed 06/29/2026, effective 07/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 18-2026, amend filed 05/27/2026, effective 06/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 8-2026, amend filed 02/26/2026, effective 03/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 89-2025, amend filed 12/15/2025, effective 01/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 75-2025, amend filed 09/30/2025, effective 10/01/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 58-2025, amend filed 07/28/2025, effective 08/01/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 45-2025, amend filed 05/21/2025, effective 05/21/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 153-2024, amend filed 12/30/2024, effective 01/01/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 119-2024, temporary amend filed 08/28/2024, effective 09/01/2024 through 02/27/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 109-2024, amend filed 07/01/2024, effective 07/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 87-2024, amend filed 05/01/2024, effective 05/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 84-2024, amend filed 04/04/2024, effective 04/04/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 96-2023, amend filed 12/22/2023, effective 01/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 83-2023, amend filed 10/31/2023, effective 11/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 74-2023, amend filed 08/27/2023, effective 09/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 54-2023, amend filed 06/30/2023, effective 07/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 39-2023, amend filed 04/28/2023, effective 05/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 10-2023, amend filed 03/28/2023, effective 04/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 95-2022, temporary amend filed 12/27/2022, effective 01/01/2023 through 06/24/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 87-2022, amend filed 12/13/2022, effective 12/20/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 75-2022, temporary amend filed 09/29/2022, effective 10/01/2022 through 12/27/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 64-2022, temporary amend filed 06/29/2022, effective 07/01/2022 through 12/27/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 61-2022, amend filed 06/26/2022, effective 06/27/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 50-2022, temporary amend filed 04/27/2022, effective 04/27/2022 through 06/25/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 45-2022, temporary amend filed 04/01/2022, effective 04/01/2022 through 06/25/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 54-2021, temporary amend filed 12/29/2021, effective 01/01/2022 through 06/25/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 53-2021, amend filed 12/28/2021, effective 12/28/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 27-2021, temporary amend filed 06/28/2021, effective 07/01/2021 through 12/27/2021 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 25-2021, amend filed 06/24/2021, effective 06/29/2021 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 16-2021, temporary amend filed 04/23/2021, effective 05/01/2021 through 06/29/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 8-2021, temporary amend filed 02/26/2021, effective 03/01/2021 through 06/29/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 69-2020, temporary amend filed 12/28/2020, effective 01/01/2021 through 06/29/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 65-2020, amend filed 12/21/2020, effective 12/27/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 57-2020, temporary amend filed 10/26/2020, effective 11/01/2020 through 12/27/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 41-2020, temporary amend filed 08/25/2020, effective 09/01/2020 through 12/27/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 32-2020, temporary amend filed 06/26/2020, effective 07/01/2020 through 12/27/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 29-2020, amend filed 06/24/2020, effective 06/28/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 6-2020, temporary amend filed 02/25/2020, effective 03/01/2020 through 06/28/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 67-2019, temporary amend filed 12/27/2019, effective 01/01/2020 through 06/28/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 54-2019, amend filed 12/12/2019, effective 12/27/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 42-2019, temporary amend filed 10/23/2019, effective 11/01/2019 through 12/27/2019 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 40-2019, temporary amend filed 10/01/2019, effective 10/01/2019 through 12/27/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 31-2019, temporary amend filed 08/13/2019, effective 08/19/2019 through 12/27/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 19-2019, temporary amend filed 06/19/2019, effective 07/01/2019 through 12/27/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 11-2019, amend filed 05/21/2019, effective 06/13/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 9-2019, temporary amend filed 04/09/2019, effective 05/01/2019 through 06/29/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 3-2019, temporary amend filed 03/07/2019, effective 03/07/2019 through 06/29/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 113-2018, temporary amend filed 12/21/2018, effective 01/01/2019 through 06/29/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 112-2018, amend filed 12/21/2018, effective 12/22/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 95-2018, temporary amend filed 10/25/2018, effective 11/01/2018 through 12/27/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 92-2018, temporary amend filed 09/18/2018, effective 10/01/2018 through 12/27/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 85-2018, temporary amend filed 08/15/2018, effective 08/15/2018 through 12/27/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 76-2018, temporary amend filed 06/27/2018, effective 07/01/2018 through 12/27/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 75-2018, amend filed 06/22/2018, effective 06/29/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 26-2018, temporary amend filed 05/02/2018, effective 05/02/2018 through 06/29/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 8-2018, temporary amend filed 02/08/2018, effective 02/08/2018 through 06/29/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 61-2017, temporary amend filed 12/27/2017, effective 01/01/2018 through 06/29/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 52-2017, amend filed 12/26/2017, effective 12/27/2017 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 45-2017, temporary amend filed 11/02/2017, effective 11/02/2017 through 12/27/2017 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 32-2017(Temp), f. & cert. ef. 8-24-17 thru 12-27-17 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ DMAP 28-2017(Temp), f. 6-30-17, cert. ef. 7-1-17 thru 12-27-17 
+DMAP 22-2017, f. & cert. ef. 6-29-17 
+DMAP 11-2017(Temp), f. 3-31-17, cert. ef. 6-1-17 thru 6-29-17 
+DMAP 10-2017(Temp), f. 3-31-17, cert. ef. 4-1-17 thru 6-29-17 
+DMAP 5-2017(Temp), f. & cert. ef. 2-21-17 thru 6-29-17 
+DMAP 79-2016(Temp), f. 12-29-16, cert. ef. 1-1-17 thru 6-29-17 
+DMAP 68-2016, f. & cert. ef. 12-1-16 
+DMAP 62-2016(Temp), f. & cert. ef. 10-13-16 thru 12-27-16 
+DMAP 54-2016(Temp), f. & cert. ef. 8-26-16 thru 12-27-16 
+DMAP 35-2016(Temp), f. 6-30-16, cert. ef. 7-1-16 thru 12-27-16 
+DMAP 26-2016, f. 6-24-16, cert. ef. 6-28-16 
+DMAP 19-2016(Temp), f. 4-28-16, cert. ef. 5-1-16 thru 6-28-16 
+DMAP 6-2016(Temp), f. 2-11-16, cert. ef. 2-12-16 thru 6-28-16 
+DMAP 83-2015(Temp), f. 12-23-15, cert. ef. 1-1-16 thru 6-28-16 
+DMAP 80-2015, f. 12-23-15, cert. ef. 12-27-15 
+DMAP 58-2015(Temp), f. & cert. ef. 10-9-15 thru 12-27-15 
+DMAP 44-2015(Temp), f. 8-21-15, cert. ef. 8-25-15 thru 12-27-15 
+DMAP 41-2015(Temp), f. & cert. ef. 8-7-15 thru 2-2-16 
+DMAP 36-2015(Temp), f. 6-26-15, cert. ef. 7-1-15 thru 12-27-15 
+DMAP 34-2015, f. 6-25-15, cert. ef 6-26-15 
+DMAP 25-2015(Temp), f. 4-17-15, cert. ef. 4-18-15 thru 6-26-15 
+DMAP 4-2015(Temp), f. & cert. ef. 2-3-15 thru 6-26-15 
+DMAP 89-2014(Temp), f. 12-31-14, cert. ef. 1-1-15 thru 6-26-15 
+DMAP 76-2014(Temp), f. & cert. ef. 12-12-14 thru 6-7-15 
+DMAP 75-2014, f. & cert. ef. 12-12-14 
+DMAP 62-2014(Temp), f. 10-13-14, cert. ef. 10-14-14 thru 1-11-15 
+DMAP 49-2014(Temp), f. & cert. ef. 8-13-14 thru 1-11-15 
+DMAP 46-2014(Temp), f. & cert. ef. 7-15-14 thru 1-11-15 
+DMAP 38-2014, f. & cert. ef. 6-30-14 
+DMAP 27-2014(Temp), f. & cert. ef. 5-2-14 thru 6-30-14 
+DMAP 14-2014(Temp), f. & cert. ef. 3-21-14 thru 9-17-14 
+DMAP 76-2013(Temp), f. 12-31-13, cert. ef. 1-1-14 thru 6-30-14 
+DMAP 43-2013, f. & cert. ef. 8-16-13 
+DMAP 23-2013(Temp), f. 4-30-13, cert. ef. 5-1-13 thru 8-19-13 
+DMAP 6-2013(Temp), f. & cert. ef. 2-21-13 thru 8-19-13 
+DMAP 61-2012, f. 12-27-12, cert. ef. 1-1-13 
+DMAP 44-2012(Temp), f. & cert. ef. 9-26-12 thru 1-18-13 
+DMAP 40-2012(Temp), f. & cert. ef. 8-20-12 thru 1-18-13 
+DMAP 33-2012(Temp), f. 7-18-12, cert. ef. 7-23-12 thru 1-18-13 
+DMAP 29-2012, f. & cert. ef. 6-21-12 
+DMAP 27-2012(Temp), f. & cert. ef. 5-14-12 thru 10-15-12 
+DMAP 23-2012(Temp), f. & cert. ef. 4-20-12 thru 10-15-12 
+DMAP 18-2012, f. 3-30-12, cert. ef. 4-9-12 
+DMAP 12-2012(Temp), f. & cert. ef. 3-16-12 thru 9-11-12 
+DMAP 44-2011, f. 12-21-11, cert. ef. 1-1-12 
+DMAP 27-2011(Temp), f. & cert. ef. 9-30-11 thru 3-15-12 
+DMAP 40-2010, f. 12-28-10, cert. ef. 1-1-11 
+DMAP 17-2010, f. 6-15-10, cert. ef. 7-1-10 
+DMAP 39-2009, f. 12-15-09, cert. ef. 1-1-10 
+DMAP 14-2009, f. 6-12-09, cert. ef. 7-1-09 
+DMAP 34-2008, f. 11-26-08, cert. ef. 12-1-08 
+DMAP 16-2008, f. 6-13-08, cert. ef. 7-1-08 
+DMAP 9-2008, f. 3-31-08, cert. ef. 4-1-08 
+DMAP 26-2007, f. 12-11-07, cert. ef. 1-1-08 
+DMAP 4-2007, f. 6-14-07, cert. ef. 7-1-07 
+OMAP 41-2006, f. 12-15-06, cert. ef. 1-1-07 
+OMAP 32-2006, f. 8-31-06, cert. ef. 9-1-06 
+OMAP 4-2006(Temp), f. & cert. ef. 3-15-06 thru 9-7-06 
+OMAP 89-2004, f. 11-24-04, cert. ef. 12-1-04 
+OMAP 74-2004, f. 9-23-04, cert. ef. 10-1-04 
+OMAP 71-2004, f. 9-15-04, cert. ef. 10-1-04 
+OMAP 9-2004, f. 2-27-04, cert. ef. 3-1-04 
+OMAP 87-2003(Temp), f. & cert. ef. 12-15-03 thru 5-15-04 
+OMAP 84-2003, f. 11-25-03, cert. ef. 12-1-03 
+OMAP 49-2003, f. 7-31-03, cert. ef. 8-1-03 
+OMAP 43-2003(Temp), f. 6-10-03, cert. ef. 7-1-03 thru 12-15-03 
+OMAP 40-2003, f. 5-27-03, cert. ef. 6-1-03 
+OMAP 29-2003, f. 3-31-03, cert. ef. 4-1-03 
+OMAP 66-2002, f. 10-31-02, cert. ef. 11-1-02 
+OMAP 44-2002, f. & cert. ef. 10-1-02 
+OMAP 31-2001, f. 9-24-01, cert. ef. 10-1-01 
+OMAP 29-2000, f. 9-29-00, cert. ef. 10-1-00 
+OMAP 1-1999, f. & cert. ef. 2-1-99 
+HR 8-1997, f. 3-13-97, cert. ef. 3-15-97 
+HR 18-1996(Temp), f. & cert. ef. 10-1-96 
+HR 6-1995, f. 3-31-95, cert. ef. 4-1-95 
+HR 25-1994, f. & cert. ef. 7-1-94 
+HR 14-1993, f. & cert. ef. 7-2-93 
+HR 10-1991, f. & cert. ef. 2-19-91 
+HR 29-1990, f. 8-31-90, cert. ef. 9-1-90, Renumbered from 461-016-0170 
+AFS 2-1990, f. & cert. ef. 1-16-90 
+AFS 56-1989, f. 9-28-89, cert. ef. 10-1-89 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

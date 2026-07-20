@@ -1,0 +1,206 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 83 SOLID WASTE PLANNING AND RECYCLING GRANT RULES 
+ 340-083-0520 
+ Tonnage Calculation
+ 
+ 
+ (1) As used in this rule and OAR 340-083-0530, “solid waste disposed” means the total weight of solid waste received for final disposal or destruction other than the following: 
+
+ (a) Sewage sludge or septic tank and cesspool pumpings; 
+
+ (b) Waste disposed of at an industrial waste disposal site; 
+
+ (c) Industrial waste, ash, rock, dirt, plaster, asphalt and similar material if delivered to a municipal solid waste disposal site or demolition disposal site; 
+
+ (d) Waste received at an ash monofill from an energy recovery facility; 
+
+ (e) Solid waste not generated within this state; and 
+
+ (f) Solid waste not subject to the fee established in ORS 459A.110(1). 
+
+ (2) For Umatilla County, the “tonnage disposed” for the county is equal to the solid waste disposed in the previous calendar year that was generated in either the Umatilla or the Milton Freewater wastesheds. 
+
+ (3) For all other counties, the “tonnage disposed” for each county is calculated by multiplying the solid waste disposed in the previous calendar year that was generated within the wasteshed that contains the majority of the county population, multiplied by the ratio of the county population to the wasteshed population. 
+
+ (4) The “economically distressed tonnage disposed” is equal to the sum of “tonnage disposed” for the nine most economically-distressed counties as identified in OAR 340-083-0510. 
+
+ (5) The “Oregon tonnage disposed” is the sum of the tonnage disposed as calculated in sections (2) and (3) for all Oregon counties combined. 
+
+ (6) The “tonnage adjustment factor” is calculated as follows: 
+
+ (a) If the “economically-distressed tonnage disposed” is less than or equal to ten percent of the “Oregon tonnage disposed,” then the “tonnage adjustment factor” is equal to 1. 
+
+ (b) If the “economically-distressed tonnage disposed” is greater than ten percent of the “Oregon tonnage disposed,” then the “tonnage adjustment factor” is equal to ten percent of the “Oregon tonnage disposed” divided by the “economically-distressed tonnage disposed.” 
+
+ (7) For each county, the “adjusted tonnage disposed” for each year is equal to the “tonnage disposed” for that county multiplied by the “tonnage adjustment factor.” 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  Sec. 6a, Ch. 662 & OL 2015 
+ 
+ 
+ Statutes/Other Implemented:  Sec. 6a, Ch. 662 & OL 2015 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 73-2018, minor correction filed 04/09/2018, effective 04/09/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 2-2016, f. & cert. ef. 2-4-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

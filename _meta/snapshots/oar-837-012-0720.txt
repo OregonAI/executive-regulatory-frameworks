@@ -1,0 +1,403 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of the State Fire Marshal 
+ Chapter 837 
+ 
+ 
+ 
+ 
+ 
+ Division 12 PUBLIC DISPLAY OF FIREWORKS IN OREGON 
+ 837-012-0720 
+ Definitions
+ 
+ 
+ For the purpose of these rules, the following definitions apply to OAR 837-012-0700 through 837-012-0970: 
+
+ (1) "Aerial fireworks" means fireworks that function in the air. 
+
+ (2) "Aerial shell" means a cylindrical or spherical cartridge containing pyrotechnic compositions, a lead fuse or electric match wires, and a black powder lift charge. 
+
+ (3) "Approved applicant" means any individual that meets the requirements of OAR chapter 837, division 12. 
+
+ (4) "Assistant" means an individual as set forth by OAR 837-012-0780 who works under the direction of an operator to put on a fireworks display. 
+
+ (5) "Barge" means a floating vessel or a floating platform. 
+
+ (6) "Barrage" means a rapid-fire sequence of aerial fireworks. Mortars are loaded prior to the display and the aerial shells are chain fused to fire in rapid sequence. 
+
+ (7) "Black match" means fuse made from string impregnated with black powder and used for igniting fireworks devices. 
+
+ (8) "Break" means an individual burst from an aerial shell, generally either producing a visual effect (stars) or noise (salute). Aerial shells can be either single-break (having only one burst) or multi- break (having two or more bursts). 
+
+ (9) "Burst" means break. 
+
+ (10) "Burst charge" means the composition in an aerial shell that, when ignited by the time fuse, ruptures the shell casing, ignites the shell contents and disperses the shell contents into the sky. 
+
+ (11) "Cake device" means multi-shot device. 
+
+ (12) "Chain fusing" means a series of two or more aerial shells or pyrotechnic devices used to fire in sequence from a single ignition. Finales and barrages typically are chain fused. 
+
+ (13) "Comet" means a firework consisting of a large pellet of pyrotechnic composition that is ignited and propelled from a mortar tube by a black powder charge. 
+
+ (14) "Designated agent" means the individual designated by the permit holder to pick up the fireworks authorized by the permit from an Oregon licensed wholesaler when the permit holder is unable to pick up the fireworks. The designated agent must have the permit authorized by the State Fire Marshal in their possession at the time the fireworks are picked up from the wholesaler. 
+
+ (15) "Discharge site" means the area immediately surrounding the area where fireworks are ignited for an outdoor display. 
+
+ (16) "Display" means an outdoor general or limited fireworks display or an indoor or outdoor fireworks display using special effects fireworks. 
+
+ (17) "Display fireworks" has the meaning provided in ORS 480.111(4). 
+
+ (18) "Display permit application" means the form and accompanying documentation required to be completed and submitted to the Department of the State Fire Marshal for approval prior to the issuance of a limited, general, or special effects display permit. 
+
+ (19) "Display site" means the immediate area where a fireworks display is conducted and includes the discharge site, the fallout area, and the required separation distance from fireworks discharge site to spectator viewing areas. The display site does not include spectator viewing areas or vehicle parking areas. 
+
+ (20) "Dud" means a firework that leaves the mortar and returns to earth without producing the intended break or effect. 
+
+ (21) "Electric match" means a device consisting of wires terminating at a relatively high resistance element surrounded with a small quantity of heat-sensitive fireworks composition. When a sufficient electric current is passed through the wire circuit, the heat that is generated ignites the fireworks composition, producing a small burst of flame. 
+
+ (22) "Electrical firing unit" means the source of electrical current used to ignite electric matches. Generally, the firing unit will have switches to control the firing order and have test circuits and warning indicator, etc. 
+
+ (23) "Electrical ignition" means a technique used to discharge fireworks in which an electric match and source of electric current are used to ignite fuses or lift charges. 
+
+ (24) "Exempt fireworks" has the meaning provided in ORS 480.111(5). 
+
+ (25) "Fall-out area" means the area over which aerial shells are fired. The shells burst over this area, and unsafe debris and malfunctioning aerial shells fall into this area. The fall-out area is the location where a typical aerial shell dud will fall to the ground considering wind and the angle of mortar placement. At a minimum, the fall out area must be the required separation distance based on table of distances listed in OAR 837-012-0840. 
+
+ (26) "Finale" means a rapid-fire sequence (barrage) of aerial fireworks, typically fired at the end of a display. The mortars are loaded prior to the display, and the aerial fireworks are chain fused to fire in rapid sequence. 
+
+ (27) “Fire protection district” means any district created under the laws of Oregon or the United States, including rural fire protection districts and any federal, state or private forest patrol areas. 
+
+ (28) "Fireworks" has the meaning provided in ORS 480.111(7). 
+
+ (29) "Fireworks detonation" means the entire contents of the aerial shell and the lift charge are consumed in one simultaneous explosion at or near the bottom of the mortar. 
+
+ (30) “Fireworks display” has the meaning provided in ORS 480.111(8). 
+
+ (31) "Flash powder" means explosive composition intended for use in firecrackers and salutes. Flash powder produces an audible report and a flash of light when ignited. Typical flash powder composition contains potassium chlorate or potassium perchlorate, sulfur or antimony sulfide, and powdered aluminum. 
+
+ (32) "Flower pot" means an aerial shell that bursts before it leaves the mortar, projecting its contents out of the mortar similar to a mine. The force of the aerial shell bursting usually does not rupture the mortar. 
+
+ (33) "Fusee" means a highway distress flare, sometimes used to ignite fireworks at outdoor displays. 
+
+ (34) "General display operator" means an individual who has been issued a general display operator certificate who meets the requirements of OAR 837-012-0700 through 837-012-0970 and is qualified to be an operator on a general or limited display. 
+
+ (35) "General display permit" means a permit to hold an outdoor display using 1.3g fireworks. General displays may also include 1.4g fireworks or special effects fireworks. 
+
+ (36) "General fireworks display" means a display held outdoors, utilizing 1.3g fireworks and may include 1.4g fireworks and special effects fireworks and may only be conducted by a general display operator. 
+
+ (37) "General operator certificate" means a document issued by the Department of the State Fire Marshal authorizing the holder of the certificate to be an operator at a general fireworks display. 
+
+ (38) "Ground display piece" means a firework that functions on the ground (as opposed to an aerial shell that functions in the air). Typical ground fireworks display pieces include fountains, wheels, and "set pieces". 
+
+ (39) "Individual" means a single human being. 
+
+ (40) "Individual member of the general public" means any person who has not been issued a wholesale permit, a display permit, a retail permit or a pest control fireworks permit by the Department of the State Fire Marshal. 
+
+ (41) "Instructor" means the individual who delivers the training required under OAR 837-012-0780. 
+
+ (42) "Lance" means a thin cardboard tube packed with a color producing pyrotechnic composition and used to construct ground display pieces. 
+
+ (43) "Law enforcement authority" means any law enforcement official having jurisdiction over the fireworks display site. 
+
+ (44) "Lead fuse" means a fireworks fuse made of quick match that transfers fire from an ignition source to the lift charge of an aerial shell or other fireworks. 
+
+ (45) "Lift charge" means composition in an aerial shell that propels the aerial fireworks into the air when ignited. 
+
+ (46) "Limited fireworks display" means a display held outdoors limited to 1.4G fireworks labeled UN0336. Fireworks authorized by the limited permit are subject to limitation by the local fire authority and the Department of the State Fire Marshal. 
+
+ (47) "Limited display operator" means an individual who has been issued a limited display operator certificate who meets the requirements of OAR 837-012-0700 through 837-012-0970 and is qualified to be an operator on a limited display. 
+
+ (48) "Limited display permit" means a permit to hold a display using 1.4g fireworks labeled UN0336. 
+
+ (49) "Limited operator certificate" means a document issued by the Department of the State Fire Marshal authorizing the holder of the certificate to be an operator at a limited fireworks display. 
+
+ (50) "Local fire authority" means the local fire official having jurisdiction over the display site or the site where fireworks may be stored prior to the date and time of the display. 
+
+ (51) “Local government” has the meaning provided in ORS 480.111(12). 
+
+ (52) "Low break" means an aerial shell that functions significantly lower than its prescribed height. 
+
+ (53) "Manual firing" means using a handheld ignition source such as a fusee or portfire to ignite fireworks. 
+
+ (54) “Manufacture” has the meaning provided in ORS 480.111(13). 
+
+ (55) “May” means a regulation of conduct and implies probability or permission. 
+
+ (56) “May not” means a prohibition of conduct. 
+
+ (57) "Mine" means a device designed to project stars or other effects, such as whistles and firecrackers into the air from a mortar charged by black powder that ignites the contents of the mine. 
+
+ (58) "Misfire" means a firework fails to function after an ignition source is applied to the ignition point. 
+
+ (59) "Monitor" means an individual designated by the sponsors of the display to keep the audience in the intended viewing area and out of the display site, discharge site and fallout area. 
+
+ (60) "Mortar" means a tube, closed at one end, from which aerial fireworks are fired into the air. 
+
+ (61) "Mortar rack" means a frame containing mortars and are most often used for barrages and finales and in electrically ignited general fireworks displays. 
+
+ (62) "Mortar trough" means an aboveground structure filled with sand or similar materials in which mortars are positioned for use in general fireworks displays. 
+
+ (63) "Multi-break shell" means a cylindrical aerial shell with more than one main compartment connected with internal fusing and performs with successive breaks. An aerial shell with more than one distinctive type of effect contained within one main compartment is not a multi-break shell. 
+
+ (64) "Multi-shot device" means a firework consisting of more than one tube each containing a firework item. It is ignited once with each of its tubes chain fused together to fire in succession until all tubes have been fired. Multi-shot devices are also referred to as cake devices. 
+
+ (65) “Must” means a mandatory requirement. 
+
+ (66) "Muzzle break" means an aerial shell that bursts immediately as it leaves the mortar. 
+
+ (67) "NFPA" means the National Fire Protection Association.  
+
+ (68) “NFPA 1123” means the National Fire Protection Association 1123 Code for Fireworks Display (2018 Edition) unless otherwise specified. 
+
+ (69) “NFPA 1124” means National Fire Protection Association 1124 Code for the Manufacture, Transportation, and Storage of Fireworks (2013 Edition) unless otherwise specified. 
+
+ (70) "Operator" means the individual qualified as set forth in OAR 837-012-0780 to conduct the display. 
+
+ (71) "Operator certificate application" means the form and accompanying documentation required to be completed and submitted to the Department of the State Fire Marshal for approval prior to the issuance of a limited operator certificate or a general operator certificate. 
+
+ (72) “Oregon Fire Code (OFC)” means the Oregon Fire Code 2022 edition as adopted by the Oregon State Fire Marshal, unless otherwise specified. 
+
+ (73) “Oregon Structural Specialty Code (OSSC)” means the Oregon Structural Specialty Code 2022 edition as adopted by the Oregon Building Codes Division unless others wise specified. 
+
+ (74) "Peanut shell" means two or more aerial shells in a common wrapper propelled by the same lift charge with separate external time fuses. 
+
+ (75) "Permit" means the official written document issued by the Department of the State Fire Marshal authorizing a display allowing the permit holder to purchase fireworks for the display as detailed on the permit when otherwise in conformance with OAR chapter 837 division 12. 
+
+ (76) "Permit holder" means the person as listed on the display permit as the person to whom the permit is issued. 
+
+ (77) "Person" means one or more individuals, legal representatives, partnerships, joint ventures, associations, corporations (whether or not organized for profit), business trusts, or any organized group or persons and includes the state, state agencies, counties, municipal corporations, school districts and other public corporations. 
+
+ (78) “Pest control fireworks” has the meaning given in OAR 837-012-0315. 
+
+ (79) "Portfire" means a tube containing slow burning pyrotechnic composition sometimes used to ignite fireworks at a limited or general fireworks display. 
+
+ (80) “Pyrotechnic articles,” also referred to as “articles, pyrotechnic” has the meaning provided in ORS 480.111(14). 
+
+ (81) “Pyrotechnic composition” has the meaning provided in ORS 480.111(15). 
+
+ (82) “Pyrotechnic device” has the meaning provided in ORS 480.111(16). 
+
+ (83) "Quick match" means a black match encased in a loose fitting sheath and is used in fuses for aerial fireworks and for rapid sequential ignition of fireworks such as lances in a ground display piece or barrage. 
+
+ (84) "Ready box" means a container used for the storage of fireworks during a fireworks display. 
+
+ (85) "Retail fireworks" means those items described in ORS 480.111(2) as consumer fireworks, specifically combination items, cone fountains, cylindrical fountains, flitter sparklers, ground spinners, illuminating torches, and wheels. The term does include a firework designed with the means to roll or move while remaining on the ground, that travels 12' or less horizontally on smooth surfaces. 
+
+ (86) "Roman candle" means a cardboard tube containing pyrotechnic devices which, when lit, are expelled into the air at timed intervals. 
+
+ (87) "Safety cap" means a paper tube, closed at one end, which is placed over the end of a fireworks fuse to protect the fuse from damage or accidental ignition. 
+
+ (88) "Salute" means a special firework that is designed to produce a loud report. 
+
+ (89) "Set piece" means a ground display piece usually consisting of lances and quick match arranged on a frame. 
+
+ (90) "Sell" means to transfer possession of property from one person to another person for consideration. 
+
+ (91) "Special effects display" means a display held either indoors or outdoors limited to special effects fireworks authorized by the special effects permit. 
+
+ (92) "Special effects fireworks" has the meaning provided in ORS 480.111(17). 
+
+ (93) "Special effects permit" means a permit issued by the State Fire Marshal to hold a display using special effects fireworks. 
+
+ (94) "Sponsor" means the person that has applied for and been issued a display permit. 
+
+ (95) "Sticky match" means the trademarked name for a type of match that uses a continuous black powder trail inside a wrapper that is prepared with exposed adhesive along its length. The adhesive is used to attach sticky match to fireworks devices. 
+
+ (96) "Supervision" means displays must be under the supervision of the law enforcement authority, local fire authority, or the Department of the State Fire Marshal. 
+
+ (97) "Training course" means the course required under OAR 837-012-0780. 
+
+ (98) "Wholesaler" means any person who sells or provides by any other means, or intends to sell or provide by any other means fireworks, retail fireworks, display fireworks, or pest control fireworks. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 480.150 
+ 
+ 
+ Statutes/Other Implemented:  ORS 480.110 - 480.165 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSFM 2-2025, amend filed 07/15/2025, effective 07/15/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSFM 98-2023, minor correction filed 07/03/2023, effective 07/03/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OSFM 2-2015, f. 12-22-15, cert. ef. 1-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ OSFM 3-2014, f. & cert. ef. 7-1-14 
+OSFM 3-2004, f. & cert. ef. 1-14-04 
+OSFM 3-2003, f. & cert. ef. 2-10-03 
+OSFM 7-2002, f. & cert. ef. 6-20-02 
+OSFM 4-2002(Temp), f. & cert. ef. 2-25-02 thru 8-19-02 
+FM 6-1993, f. & cert. ef. 12-10-93 
+FM 2-1992, f. & cert. ef. 3-10-92 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,270 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Oregon Occupational Safety and Health Division - Chapter 437 
+ 
+ 
+ 
+ 
+ Division 4 AGRICULTURE 
+ 437-004-0100 
+ Universal Definitions
+ 
+ 
+ (1) These definitions apply throughout Division 4, Agriculture, except that the definitions in Subdivision 4/W, adopted from 40 CFR 170, Worker Protection Standard, apply to the rules within that Subdivision. 
+(a) Accepted — Something is accepted if: 
+(A) A nationally recognized testing laboratory has inspected it and found it to conform to specified plans or to procedures of applicable codes; or 
+(B) It is verified by design, evaluation, or inspection by a registered professional engineer; or 
+(C) It is acknowledged by the authority having jurisdiction, the agency, office, or organization that is responsible for approving specific equipment, materials, installations, or procedures. (Examples of such authorities include the U.S. Department of Transportation, the U.S. Coast Guard, the Oregon Building Codes Division, and the Office of the State Fire Marshal.) 
+(b) Agricultural employer — means any person, corporation, association, or other legal entity who meets the definition of an employer in ORS 654.005(5) and who: 
+(A) Owns or operates an agricultural establishment; or 
+(B) Recruits and supervises employees who work for an agricultural establishment; or 
+(C) Is responsible for the management or condition of, or exercises direction and control over the production on, an agricultural establishment. 
+(c) Agricultural establishment — means a farm, ranch, nursery, greenhouse, or production facility that is a place of employment and is engaged in the activities described in Division 4/A, 437-004-0002 Scope. 
+(d) Approved — means acceptable for the purposes of rule compliance, under the following criteria: 
+(A) It is accepted, or certified, or listed, or labeled or otherwise determined to be safe by a nationally recognized testing laboratory; or 
+(B) If an installation or equipment is of a kind which no nationally recognized testing laboratory accepts, certifies, lists, labels, or determines to be safe, it has been inspected or tested by another authority having jurisdiction and found to be in compliance with the provisions of the applicable code; or 
+(C) Custom-made equipment or related installations that are designed and fabricated for a certain intended use by its manufacturer. The employer must keep and make available the test data that is used as the basis of this approval, for inspection.) 
+(e) Boiling point — The temperature at which the liquid form of a substance changes into a vapor, at a standard atmospheric pressure. The initial boiling point of a substance is determined according to test methods specified in Appendix B to Division 2/Z, 1910.1200, Hazard Communication Standard. 
+(f) CAS — is the Chemical Abstracts Service Registry Number, a unique numerical identifier assigned by the Chemical Abstracts Service to every chemical described in the open scientific literature. 
+(g) Capacity — is the maximum load or severity of service (determined by the manufacturer or a qualified engineer) that a tool, machine, equipment, structure, or material is expected to withstand without failure, deformation, separation or fracture. 
+(h) Certified — is something that: 
+(A) Was tested and found by a nationally recognized testing laboratory to meet recognized standards or to be safe for use in a specified manner, or 
+(B) Is of a kind whose production is periodically inspected by a nationally recognized testing laboratory, and 
+(C) Shows a label, tag, or other record of certification. 
+(i) Combustible — A substance or material that is able or likely to catch fire and burn. 
+(j) Combustible liquid — The “combustible liquid” classification is no longer used in Division 4 rules because it was eliminated by the globally harmonized classification and labeling system (GHS) adopted in OSHA’s Hazard Communication Standard. Any liquid with a flash point of 199.4°F (93 degrees C.) or less is considered to be one of the four categories of flammable liquids. (See “Flammable liquids,” below.) 
+
+ 
+ Note: The term “combustible liquid” is still used by the National Fire Protection Association (NFPA) system of classification and by the Oregon State Fire Marshal to classify liquids that will burn but do not ignite as easily as flammable liquids. The NFPA system defines some chemicals as “combustible liquids” that would be included as a category of “flammable liquid” in the OSHA/GHS classification system. (See Appendix A to Subdivision 4/H, 437-004-0720 Flammable Liquids, for a comparison of the GHS and NFPA systems of classification of flammable/combustible liquids.) 
+ 
+
+ (k) Competent person – is a person who, because of training and experience, can identify existing and predictable hazards in equipment, material, conditions or practices; and, who has the knowledge and authority to take corrective steps. 
+(l) Explosive — something capable of causing damage to the surroundings by chemical reaction. Explosives are defined in Appendix B to 1910.1200 – Physical Hazard Criteria at B.1 EXPLOSIVES. 
+(m) Farming — Is the production of agricultural field crops, tree crops; horticultural specialties, greenhouse crops; and the production of livestock and animal specialties. Farming includes farm labor and management services; agricultural services and support activities (such as soil preparation; crop cultivation, protection, and harvesting;) and, the basic preparation of the crop or commodity for market. The farming production process is typically completed at the “farm gate” – that is, at the point of first sale or price determination. 
+
+ 
+ Note: Throughout this division, the term “farming,” “agriculture,” “production agriculture,” and “agricultural operations” are synonymous. 
+ 
+
+ (n) Flammable — Capable of being easily ignited, burning intensely, or having a rapid rate of flame spread. Flammable substances are defined in Appendix B to 1910.1200 — Physical Hazard Criteria at B.2 FLAMMABLE GASES, B.3 FLAMMABLE AEROSOLS AND CHEMICALS UNDER PRESSURE, B.6 FLAMMABLE LIQUIDS, and B.7 FLAMMABLE SOLIDS. 
+(o) Flammable liquids — are liquids having a flash point at or below 199.4 degrees F. (93 degrees C.) As defined in the globally harmonized system of classification and labeling (GHS) adopted in OSHA’s Hazard Communication Standard, flammable liquids are divided into four categories as follows: 
+(A) Category 1 includes liquids that have a flashpoint below 73.4 degrees F. (23 degrees C.) and have a boiling point at or below 95 degrees F. (35 degrees C.) 
+(B) Category 2 includes liquids that have a flashpoint below 73.4 degrees F. (23 degrees C.) and have a boiling point above 95 degrees F. (35 degrees C.) 
+(C) Category 3 includes liquids that have a flashpoint in a temperature range from at or above 73.4 degrees F. (23 degrees C.) to at or below 140 degrees F. (60 degrees C.) 
+(D) Category 4 includes liquids that have a flashpoint in a temperature range from above 140 degrees F. (60 degrees C.) to at or below 199.4 degrees F. (93 degrees C.) 
+
+ 
+ Note: Examples of some common flammable liquids are: 
+Category 1: Diethyl ether (solvent sometimes used in starting fluid). 
+Category 2: Gasoline (Benzene, Ethanol). 
+Category 3: Kerosene, Stoddard Solvent. 
+Category 4: Diesel fuel, Naphthalene. 
+ 
+
+ (p) Flashpoint — is the minimum temperature at which a liquid gives off vapor within a test vessel in sufficient concentration to form an ignitable mixture with air near the surface of the liquid, as determined by specific testing methods. These test methods are specified in Appendix B to Division 2/Z, 1910.1200, Hazard Communication Standard. 
+(q) Hazardous Chemical — is any chemical which is classified, under the requirements of the Hazard Communication Standard, as a physical hazard or a health hazard, a simple asphyxiant, combustible dust, pyrophoric gas, or hazard not otherwise classified. 
+
+ 
+ Note: See Division 2/Z, 1910.1200 Hazard Communication Standard, for more information. 
+ 
+
+ (r) Ignition source — the origin of something that results in a fire or an explosion. Examples include open flames; smoking; cutting and welding; hot surfaces and radiant heat; frictional heat; static, electrical, and mechanical sparks; chemical and physical-chemical reactions; spontaneous ignition; and lightning. 
+(s) Labeled — Something is labeled if: 
+(A) It has an attached label, symbol, or other identifying mark of a nationally recognized testing laboratory that makes periodic inspections of the production of such equipment; or 
+(B) The attached information indicates compliance with nationally recognized standards or tests to determine safe use in a specified manner. 
+(t) Listed — is something mentioned in a list that: 
+(A) Is published by a nationally recognized laboratory that makes periodic inspection of the production of such equipment, and 
+(B) States such equipment meets nationally recognized standards or was tested and found safe for use in a specified manner. 
+(u) Nationally Recognized Testing Laboratory — (NRTL) is defined in 1910.7 Definition and Requirements for a Nationally Recognized Testing Laboratory and OAR 437-002-0007 Oregon Rule on Testing and Certification Program. (Examples of organizations in this category are Factory Mutual Engineering Corporation, and Underwriters’ Laboratories.) 
+(v) Place of employment — is every place (fixed, movable or moving) where an employee works or is intended to work. It includes every place where (either temporarily or permanently) there is any activity related to an employer's business, including a labor camp. 
+
+ 
+ Note: “Place of employment” does not include a place where the only employment involves nonsubject workers employed in or about a private home; or a farm where only the farm’s family members are employed. 
+ 
+
+ (w) Qualified person — is a person who has a recognized degree, certification, professional standing, knowledge, training or experience; and has successfully demonstrated the ability to perform the work, or solve or resolve problems relating to the work, subject matter, or project. 
+(x) Reasonable means — is what a prudent person, familiar with the circumstances of the industry would do to work in a safe and healthful manner. 
+(y) Safeguard — is any form of safety device or equipment; personal protective equipment; guard or barricade; warning device, sign, or method; or a process prescribed or adopted for the protection of an employee. 
+(z) Substantial — means constructed with sufficient strength or installed to provide ample support to withstand loads to which the structure or device may be subjected. 
+(aa) Worker — is identical in every respect to “employee” as defined in ORS 654.005(4) including: 
+(A) Any individual, including a minor, whether lawfully or unlawfully employed, who engages to furnish services for a remuneration, financial or otherwise, subject to the direction and control of an employer; and 
+(B) Any individual who is provided with workers’ compensation coverage as a subject worker pursuant to ORS chapter 656, whether by operation of law or by election. 
+(bb) Workplace — See “Place of Employment,” above. 
+(2) Reserved. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 654.025(2) & 656.726(4) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 654.001 - 654.295 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSHA 1-2026, amend filed 05/29/2026, effective 07/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OSHA 3-2014, f. & cert. ef. 8-8-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OSHA 4-1998, f. 8-28-98, cert. ef. 10-1-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

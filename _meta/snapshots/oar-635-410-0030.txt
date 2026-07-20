@@ -1,0 +1,173 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Fish and Wildlife 
+ Chapter 635 
+ 
+ 
+ 
+ 
+ 
+ Division 410 NATURAL RESOURCE LOSSES 
+ 635-410-0030 
+ Calculation of Numbers and Monetary Value of Fish and Wildlife, and Cost of Restoring Productivity Pursuant to ORS 468B.060 
+ 
+ In calculating the number and monetary value of fish and wildlife injured or killed, as well as the cost of restoring productivity pursuant to ORS 468B.060, the Department shall use the following formula:  (1) Fish Kills: Number of Fish.  (a) If non-adult fish were injured or killed, the survival rate to the adult life stage, or catchable size in the case of game or food fish, for any given non-adult life stage shall be multiplied by the number of that life stage killed or injured to estimate adult equivalents.  (A) Survival rates specific to the population affected shall be used if information is available.  (B) Standard survival rates shall be assumed if no survival rates specific to the affected population are available.  (C) Standard survival rates (to catchable size) by life stage to be used for Pacific salmon, steelhead and resident trout species are provided as follows:  (i) Chinook — Redd Size Eggs 4,500; Eggs 0.01; 0 Fry 60 mm 0.05; 1+ 0.20; 2+ 1.00;  (ii) Steelhead — Redd Size Eggs 3,300; Eggs 0.01; 0 Fry 60 mm 0.06; 1+ 0.25; 2+ 1.00;  (iii) Coho — Redd Size Eggs 2,800; Eggs 0.01; 0 Fry 60 mm 0.06; 1+ 0.25; 2+ 1.00;  (iv) Searun Cutthroat — Redd Size Eggs 1,750; Eggs 0.01; 0 Fry 60 mm 0.08; 1+ 0.30; 2+ 1.00;  (v) Resident Trout 10-15 inches — Redd Size Eggs 1,400; Eggs 0.02; 0 Fry 60 mm 0.09; 1+ 0.35; 2+ 1.00;  (vi) Resident Trout 5-10 inches — Redd Size Eggs 250; Eggs 0.03; 0 Fry 60 mm 0.20; 1+ 0.70; 2+ 1.00.  (D) Standard survival rates (to catchable size) by life stage to be used for common warmwater game fish species are provided as follows:  (i) Bass — Eggs (nest size assumed to be 5,000 eggs) 0.005; 0 Fry (Hatched) 0.020; 0+ Fry (Autumn) 0.15; 1+ 0.50; 2+ 1.00; 3+ 1.00;  (ii) Other — Eggs (nest size assumed to be 5,000 eggs) 0.002; 0 Fry (Hatched) 0.008; 0+ Fry (Autumn) 0.08; 1+ 0.25; 2+ 0.50; 3+ 1.00.  (E) If the number of fish injured or killed in a juvenile life stage cannot be estimated effectively because of difficulty in observing or collecting dead and injured fish, the adult equivalent of that life stage shall be estimated as the greater of the number of harvestable (legal-sized) fish killed or injured, or the adult equivalent population of that life stage estimated for a comparable freshwater area.  (b) If the fish loss or associated habitat damage may reduce production of future generations, the loss of adults in subsequent generations prior to full restoration or recovery of adult production through artificial or natural means shall be estimated.  (c) The adult loss for each species shall be determined as the sum of actual adult losses, plus adult equivalents of non-adult life stages, plus loss of adults in subsequent generations.  (2) Fish Kills: Value of Fish. After calculating numbers lost as provided in 635-410-0030(1), the Department shall determine for each species the greatest value, after comparing values calculated by using each of the following methods (if applicable):  (a) Multiply the monetary value provided for any species identified in ORS 496.705(2)(a) through (k), by the adult loss.  (b) Multiply the monetary value provided for any food fish species identified in ORS 506.720 by the adult loss.  (c) Multiply the adult loss for any species otherwise protected by the wildlife laws (and not specifically provided for in ORS 496.705 or 506.720 or the laws of the United States) by $25.  (d) Determine the replacement cost for fish or wildlife species not specifically identified in ORS 496.705 or 506.720 by using appropriate scientific, governmental or commercial information on costs of fish and wildlife propagation (e.g., the values from American Fisheries Society Monetary Values of Fish or vendor price lists). This cost shall be adjusted for inflation from the date of publication or documentation of the information used. The replacement cost shall include all administrative costs of the Department in direct support of the replacement or restocking effort.  (e) If hatchery replacement of an affected species is inappropriate pursuant to any applicable statute or rule, estimate all expected costs to the Department of obtaining, transporting and successfully introducing replacement wild stock. This estimate shall include administrative costs in direct support of the replacement effort.  (f) Estimate the reduction in net economic value associated with the affected fish and wildlife species from appropriate published or documented sources (e.g., agency reports or scientific publications), taking into account commercial, recreational, nonuse and other values associated with the resource. This estimate shall be adjusted for inflation from the date of publication or documentation of the information used. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468B.060, 496.138, 496.146, 496.750, 506.119 & 506.720 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468B.060, 496.705 & 506.720 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ DFW 10-1998, f. & cert. ef. 2-5-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ FWC 126-1991, f. 10-23-91, cert. ef. 11-1-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

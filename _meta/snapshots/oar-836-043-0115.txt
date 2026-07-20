@@ -1,0 +1,185 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Insurance Regulation - Chapter 836 
+ 
+ 
+ 
+ 
+ Division 43 WORKERS’ COMPENSATION INSURANCE RATING SYSTEM AND AUDIT PROCEDURES 
+ 836-043-0115 
+ Insurer Audit Procedure Guide 
+ 
+ Each insurer shall develop audit procedures that include all of the features described in this rule or, in place thereof, more comprehensive alternative procedures that will consistently achieve minimum standards as measured by the Oregon Test Audit Program under OAR 836-043-0125. The features are as follows:  (1) The auditor shall perform a pre-audit review to ensure that the insurer provided or made available to the auditor all relevant information and materials, as listed in this section.  (a) The bureau Basic Manual;  (b) Bureau bulletins, "Scopes Manual" on classifications or similar classifications and committee minutes pertinent to classifications and auditing procedures;  (c) Policy information that provides a description of operations and a summary of payrolls by classification;  (d) Bureau Inspection & Classification Reports that provide a description of operations and summary of employees by classification;  (e) Bureau Experience Rating Modification Worksheets that provide payroll classifications and claims allocation history;  (f) Claims data in sufficient detail to verify classification assignments;  (g) Pertinent correspondence;  (h) Prior year's audit file if renewed, or copies of interim payroll reports, if on an interim reporting basis.  (2) The auditor must contact a principal or designated representative of the insured who is familiar with the insured's operation, in order to ensure that the insured is properly classified under Basic Manual rules.  (3) Audit practices require the following:  (a) Examining payrolls from the most complete and accurate records;  (b) Determining proper payroll classifications, substantiated by a written description of the insured's operations;  (c) Making sufficient test checks to establish the audit’s accuracy and compliance with Basic Manual rules when using summary type records as the payroll source;  (d) Reconciling the total payroll with records not used in the original tabulation; and  (e) Providing guidance on recordkeeping practices to aid in future audits, including, but not limited to, maintenance of verifiable payroll records.  (4) An insurer shall give particular attention to the following factors and circumstances:  (a) Type of entity. With respect to the type of entity being insured, the insurer shall include factors and circumstances as follows:  (A) If the entity is a corporation, limited liability company, limited liability partnership, partnership, or other entity described in ORS 656.027, the name, title, classification assignment and total remuneration for each executive officer, member, or partner must be shown separately. All other officers of the corporation, members of the limited liability company, or partners must also be listed. The insurer shall designate whether each officer, member, or partner is a subject employee under ORS Chapter 656;  (B) Listings of covered corporate officers, limited liability company members, partners, and proprietors must include a brief description of each person’s duties. The auditor must verify the stipulated maximum and minimum remuneration with respect to non-subject corporate officers who have elected coverage or are covered as provided under ORS 656.027, and assumed wage for non-subject sole proprietors, partners, and limited liability company members who have elected coverage or are covered as provided under 656.027.  (b) Sources and reconciliation. The insurer shall indicate the source record used to conduct the audit and the record used for reconciliation purposes. The most commonly used records include, but are not limited to, time records, payroll journal, individual earnings records, prepared summary, check book, cash book, petty cash book, general ledger, confidential ledger, bank statements, job cost records and tax returns (Federal, Social Security/State Unemployment). The auditor must be able to reconcile the audit product with the source record and be certain that appropriate records have been examined to verify the inclusion of all payroll. When summary type records are used as the audit source, sufficient sampling of the original payroll records must be made to ensure the inclusion of all payroll. The insurer must be sure that the auditor is able to check and list the dates (and amounts if readily available) of the opening and closing payroll period or periods (e.g., weekly and semi-monthly) in order to establish proper continuity from prior audits and for subsequent audits. This is also necessary for the purpose of proper audit review.  (c) Remuneration. The insurer shall investigate all possible sources of earnings, including those for uninsured contract employment.  (d) Overtime. The insurer shall indicate whether overtime was paid and, if so, whether the records are maintained in such manner as to permit the exclusion of overtime remuneration from total payroll, as allowed by Basic Manual rules. If overtime was paid but not properly recorded in the insured's records, the auditor shall provide the insured with guidance for maintaining overtime remuneration records to allow for credit on subsequent audits. This action shall be documented on the auditor's worksheet.  (e) Out of state operation. The insurer shall determine if the insured uses Oregon subject workers to perform work outside Oregon. Payroll for Oregon subject workers performing work outside Oregon must be included in the premium, based on protection provided through the extra-territorial provisions of Oregon law.  (f) Clerical employees, salesmen and drivers. The insurer shall:  (A) Verify the proper use of Classifications 8810 — Clerical Office Employees NOC, 8742 — Salespersons or Collectors — Outside, and 7380 — Drivers, Chauffeurs, Messengers, and Their Helpers NOC — Commercial;  (B) Show clerical, outside sales and drivers payroll analysis on work sheets, either for the entire audit period or for a sample period.  (g) Classifications. The insurer shall determine the proper classifications. The insurer shall explain if the classifications assigned to the insured at audit differ from those shown on the insured’s policy information page or bureau Inspection Report. Final premium charges are subject to ORS 737.310. The insurer shall obtain a detailed description of the insured’s operations from the person or persons in the insured's organization best able to answer inquiries regarding the following:  (A) The service or product;  (B) The raw materials used;  (C) The process involved; and  (D) How the product is marketed.  (h) Additional classification information. The insurer shall examine the insured’s first reports of occupational injury or illness as an additional source of classification information when classification issues require additional inquiry. The insurer’s review may include electronic or paper documentation.  (i) Location. The insurer shall document any changes in the insured’s locations. The insurer shall review payroll to assure that all locations have been included in the audit.  (j) Rate splits. The insurer shall determine if rate changes or normal anniversary rating dates require payrolls to be split;  (k) New construction or alteration. The insurer shall determine if structural alterations or new construction work on the insured's premises has been conducted by employees of the insured during the audit period. Payroll for these activities must be separately rated.  (l) New operations. The insurer shall identify any new operations, acquisitions or changes in operations.  (m) Longshore and Harbor Workers’ Compensation Act operations. The insurer shall determine if the insured is engaged in operations subject to the Longshore and Harbor Workers' Compensation Act and if such operations are covered under the policy as evidenced by endorsement.  (n) Division of payroll. The insurer shall determine if the insured’s records support a division of payroll between different classifications due to an interchange of labor, as provided for by OAR 836-042-0050 to 836-042-0060.  (5) If the director meets with the insurer under OAR 836-043-0155 to obtain a detailed explanation of remedial measures undertaken by the insurer, the director may request a copy of the insurer's audit review program. If the director determines that the insurer's program is inadequate, the director may prescribe an audit review program for use by the insurer during the period in which the insurer must take remedial measures.  [Publications: Publications referenced are available from the agency.] 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 731.244, 737.310 & 737.318 
+ 
+ 
+ Statutes/Other Implemented:  ORS 737.318 & 656.027 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ ID 13-2012, f. 7-16-12, cert. ef. 1-1-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ID 12-1998, f. & cert. ef. 9-14-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ID 1-1988, f. & cert. ef. 1-20-88 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

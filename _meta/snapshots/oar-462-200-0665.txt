@@ -1,0 +1,475 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Racing Commission 
+ Chapter 462 
+ 
+ 
+ 
+ 
+ 
+ Division 200 PARI-MUTUEL RULES AND REGULATIONS 
+ 462-200-0665 
+ Pick (n) Position (x) Pools
+ 
+ 
+ (1) The Pick (n) Position (x) Pool requires selection of the first (x) finishers, in their exact positions, in each of a designated number of (n) contests. For example, in a Four Position Pool (x = 4), the bettor chooses four finishers in each contest. If the bettor has chosen "1, 2, 3 and 4", and the actual finishers are “4, 2, 3 and 1”, the bettor has correctly chosen 2 positions [the second and third place finishers.] 
+
+ (2) The licensee must obtain written approval from the Commission concerning the scheduling of Pick (n) Position (x) contests, the designation of one of the methods prescribed in subsection 3 and 6, the percentages of the net pool apportioned between the major share of the Position (x) Pool and the minor share(s) of the Position (x) Pool, and the amount of any cap to be set on the carryover. Any changes to the approved Pick (n) Position (x) format require prior approval from the Commission. 
+
+ (3) Unless otherwise stated, the major share of the net Pick (n) Position (x) Pool [hereafter, “Position (x) Pool”] shall be distributed as a single price pool to those who selected all (x) finishers, in exact position, in a minimum specified number of positions in the (n) contests (considered as a whole) that comprise the Position (x) Pool, based upon the official order of finish. The minimum specified number of positions may be all (x) positions in all (n) contests (for instance, four positions in each of six contests, for a total of 24 positions) or a lesser specified number (for instance, 22 or more accurate positions within the six contests taken as a whole.) 
+
+ (4) The Pick (n) Position (x) Pool shall be apportioned under one of the following methods: 
+
+ (a) Method 1, Position (x) With No Minor Pool and No Carryover 
+
+ (A) The net Position (x) Pool shall be distributed in accordance with the method for distributing the major share as described in subsection 2, above. 
+
+ (B) If there are no wagers qualifying for the major share, the net Position (x) Pool shall be distributed as a single price pool to those who correctly selected finishers, in exact position, in the greatest number of positions in Position (x) contests. 
+
+ (C) If there are no winning wagers, the entire pool shall be refunded on Position (x) wagers for those contests. 
+
+ (b) Method 2, Position (x) With No Minor Pool and Carryover Instead of a Refund 
+
+ (A) The net Position (x) Pool shall be distributed in accordance with the method for distributing the major share as described in subsection 2, above. 
+
+ (B) If there are no wagers qualifying for the major share, the net Position (x) Pool and the carryover shall be distributed as a single price pool to those who correctly selected finishers, in exact position, in the greatest number of positions in Position (x) contests. 
+
+ (C) If there are no winning wagers, the net Position (x) Pool shall be added to the carryover. 
+
+ (c) Method 3, Position (x) With No Minor Pool and Carryover 
+
+ (A) The net Position (x) Pool shall be distributed in accordance with the method for distributing the major share as described in subsection 2, above. 
+
+ (B) If there are no wagers qualifying for the major share, the net Position (x) Pool shall be added to the carryover. 
+
+ (d) Method 4, Position (x) With Minor Pool and No Carryover 
+
+ (A) The major share of the net Position (x) Pool shall be distributed in accordance with the method for distributing the major share as described in subsection 2, above. 
+
+ (B) The minor share of the net Position (x) Pool shall be distributed as a single price pool to those who correctly selected finishers, in exact position, in the greatest number of positions in Position (x) contests (but less than the number of positions qualifying for the major share), based upon the official order of finish. 
+
+ (C) If there are no wagers qualifying for the major share, the major share of the net Position (x) Pool shall be combined with the minor share for distribution as a single price pool to those who correctly selected finishers, in exact position, in the greatest number of positions in Position (x) contests. 
+
+ (D) If there are no wagers correctly selecting any finishers, in exact position, in Position (x) contests, other than winners of the major share of the net Position (x) Pool, the minor share of the net Position (x) Pool shall be combined with the major share for distribution as a single price pool to those who qualified for the major share. 
+
+ (E) If there are no winning wagers, the pool shall be refunded on Position (x) wagers for those contests. 
+
+ (e) Method 5, Position (x) With Minor Pool and Carryover 
+
+ (A) The major share of the net Position (x) Pool shall be distributed in accordance with the method for distributing the major share as described in subsection 2, above. 
+
+ (B) The minor share of the net Position (x) Pool shall be distributed as a single price pool to those who correctly selected finishers, in exact position, in the greatest number of positions in Position (x) contests (but less than the number of positions qualifying for the major share), based upon the official order of finish. 
+
+ (C) If there are no wagers qualifying for the major share, the minor share of the net Position (x) Pool shall be distributed as a single price pool to those who correctly selected finishers, in exact position, in the greatest number of positions in Position (x) contests, and the major share shall be added to the carryover. 
+
+ (D) If there are no wagers correctly selecting any finishers, in exact position, other than winners of the major share of the net Position (x) Pool, the minor share of the net Position (x) Pool shall be combined with the major share for distribution as a single price pool to those who qualified for the major share, or if there are no such winning wagers, added to the carryover. 
+
+ (f) Method 6, Position (x) With Minor Pool(s) and Carryover 
+
+ (A) The major share of the net Position (x) Pool shall be distributed in accordance with the method for distributing the major share as described in subsection 2, above. 
+
+ (B) A principal minor share of the net Position (x) Pool may be designated, and distributed as a single price pool, to those who correctly selected finishers, in exact position, in the greatest number of positions in Position (x) contests (but less than the number of positions qualifying for the major share), based upon the official order of finish. 
+
+ (C) Additional minor shares of the net Position (x) Pool may be designated, and distributed as single price pools, to those who correctly selected the designated number, or range, of finishers, in exact position, in Position (x) contests (but less than the number of positions qualifying for the major share), based upon the official order of finish. 
+
+ (D) Those qualifying for the principal minor share may also qualify for one of the additional minor shares. When this occurs, the two unbroken prices shall be summed before surcharging or rounding the prices for breakage. For example: 
+
+ (i) Suppose there are $5 of wagers correctly selecting 12 positions, $3 of wagers selecting 13 positions, and $2 of wagers selecting 14 positions, and 14 is the greatest number of positions correctly selected. 
+
+ (ii) Suppose that the principal minor share of the net pool is $20,000.16. Further, one of the other minor shares is designated for a range of 12 to 15 positions, and this share of the net pool is $10,000.80. (These amounts are chosen only to illustrate the following steps.) 
+
+ (iii) Then the principal minor share is divided among those selecting 14 positions, and the other minor share is divided among all the wagers selecting 12, 13, and 14 positions, so the 14-position winners receive the sum of two winning prices. 
+
+ (iv) The principal minor share $20,000.16 divided among the $2 of 14 position winners yields an unbroken price of $10,000.08 per dollar, and the other minor share $10,000.80 divided among the $10 of 12, 13, and 14-position winners yields an unbroken price of $1,000.08 per dollar. 
+
+ (v) The sum $10,000.08 + $1,000.08 = $11,000.16 is the combined unbroken price for choosing 14 finishers. 
+
+ (vi) If the rounding for breakage is to the next lower $0.10, the final broken prices are $11,000.10 for 14 finishers, and $1,000.00 for 12 or 13 finishers. 
+
+ (E) The Commission shall approve the number of minor shares, and the designated number, or range, of finishers, in exact position, in Position (x) contests qualifying as the winning selection in any such minor share. 
+
+ (F) If there are no wagers qualifying for the major share, the major share shall be added to the carryover. If there are no wagers qualifying for a designated minor share, the minor share of the net Position (x) Pool shall be combined with the major share for distribution as a single price pool to those who qualified for the major share, or if there are no such winning wagers, added to the carryover. 
+
+ (g) Method 7, Position (x) With Minor Pool(s) Based Upon Any One Contest, and No Carryover 
+
+ (A) The major share of the net Position (x) Pool shall be distributed as a single price pool to those who selected all (x) finishers, in exact position, in each (or a specified minimum number) of the Position (x) contests, based upon the official order of finish. 
+
+ (B) The minor shares of the net Position (x) Pool shall be distributed as single price pools to those (including recipients of the major share of the net Position (n) Pool) who selected all (x) finishers, in exact position, in at least one of the Position (x) contests, based upon the official order of finish, as follows: 
+
+ (C) There may be separate minor pools for those who selected all (x) finishers, in exact positions of finish, in the most Position (x) contests, those who selected all (x) finishers, in exact positions of finish, in the second most position (x) contests, and so forth down to those who selected all (x) finishers, in exact positions of finish, in one position (x) contest. Not all such minor shares need to be designated for the wager. 
+
+ (D) If there are no wagers qualifying for the major share, the major share of the net Position (x) Pool shall be combined with the highest level minor share for distribution as a single price pool. If there are no wagers qualifying for a designated minor share of the net Position (x) Pool, that minor share shall be combined with the next (lower) minor share for distribution as a single price pool. 
+
+ (E) If there are no winning wagers, the pool is refunded. 
+
+ (h) Method 8, Position (x) With Minor Pool(s) Based Upon Any One Contest, and Carryover 
+
+ (A) The major share of the net Position (x) Pool and the carryover, if any, shall be distributed as a single price pool to those who selected all (x) finishers, in exact position, in each (or a specified minimum number) of the Position (x) contests, based upon the official order of finish. 
+
+ (B) The minor shares of the net Position (x) Pool shall be distributed as single price pools to those (including recipients of the major share of the net Position (x) Pool) who selected all (x) finishers, in exact position, in at least one of the Position (x) contests, based upon the official order of finish, as follows: 
+
+ (C) There may be separate minor pools for those who selected all (x) finishers, in exact positions of finish, in the most Position (x) contests, those who selected all (n) finishers, in exact positions of finish, in the second most Position (x) contests, and so forth down to those who selected all (x) finishers, in exact positions of finish, in one Position (x) contest. Not all such minor shares need to be designated for the wager. 
+
+ (D) If there are no wagers qualifying for the major share, the major share shall be added to the carryover. 
+
+ (E) If there are no wagers selecting all finishers, in exact position, in a number of the Position (x) contests that qualify for a designated minor share, that minor share of the net Position (n) Pool shall also be added to the carryover. 
+
+ (i) Method 9, Position (x) With Minor Pool(s) Based Upon Any One Contest, and Carryover 
+
+ (A) The major share of the net Position (x) Pool and the carryover, if any, shall be distributed as a single price pool to those who selected all (x) finishers, in exact position, in each (or a specified minimum number) of the Position (x) contests, based upon the official order of finish. 
+
+ (B) The minor shares of the net Position (x) Pool shall be distributed as single price pools to those (including recipients of the major share of the net Position (x) Pool) who selected all (x) finishers, in exact position, in at least one of the Position (x) contests, based upon the official order of finish, as follows: 
+
+ (C) There may be separate minor pools for those who selected all (x) finishers, in exact positions of finish, in the most Position (x) contests, those who selected all (x) finishers, in exact positions of finish, in the second most Position (x) contests, and so forth down to those who selected all (x) finishers, in exact positions of finish, in one Position (x) contest. Not all such minor shares need to be designated for the wager. 
+
+ (D) If there are no wagers qualifying for the major share, the major share shall be added to the carryover. 
+
+ (E) If there are no wagers selecting all finishers, in exact position, in a number of the Position (x) contests that qualify for a designated minor share, that minor share of the Position (x) Pool shall be added to the next (lower) minor share of the Position (x) Pool. If there is no lower designated minor share of the Position (x) Pool, the minor share shall also be added to the carryover. 
+
+ (j) Method 10, Position (x) With Minor Pool Based Upon Any One Contest, and Carryover; 100% Carryover if no Winning Wagers 
+
+ (A) The major share of the net Position (x) Pool and the carryover, if any, shall be distributed as a single price pool to those who selected all (x) finishers, in exact position, in each (or a specified minimum number) of the Position (x) contests, based upon the official order of finish. 
+
+ (B) The minor share of the net Position (x) Pool shall be distributed as a single price pool based upon the sum of the dollar value of wagers, for each of the Position (x) contests considered separately, in which all (x) finishers, in exact position, were correctly selected, based upon the official order of finish. The minor share of the net Position (x) Pool shall be distributed as a single price pool to those (including recipients of the major share of the net Position (x) Pool) who selected all (x) finishers, in exact position, in one or more of the Position (x) contests. Each recipient of a minor share shall receive an amount equal to the single price times the number of Position (x) contests in which the recipient correctly selected the winning combination. 
+
+ (C) If there are no wagers qualifying for the major share, the major share shall be added to the carryover. If there are no winning wagers, the minor share shall also be added to the carryover. 
+
+ Method 11, Position X with Minor Pools and Carryover 
+
+ (A) The net position (x) pool and the carryover, if any, shall be distributed to any player who correctly selects (x) finishers in specified positions in each of (n) contests, based upon the official order of finish. 
+
+ (B) Minor shares shall be designated, and distributed as single price pools, to those who correctly select the designated position(s) of finishers, in position (x) contests, based upon the official order of finish, and any remainder shall be added to the carryover. 
+
+ (C) The Commission shall approve the number of minor shares, and the designated position(s) of finishers, in exact position, in Position (x) contests qualifying as the winning selection(s) in any such minor share. 
+
+ (D) If there are no wagers qualifying for the major share, the major share shall be added to the carryover. If there are no winning wagers, the minor share shall also be added to the carryover. 
+
+ (5) Apportionment of Net Position (x) Pool Between Major and Minor Pool(s) The commission shall approve the method of apportioning the net Position (x) Pool between winners of the Major share of the Position (x) Pool and winners of the Minor share(s) of the Position (x) Pool. Example (utilizing Method 8): A Four Position Pool (x = 4) consisting of 5 contests (n = 5.) The major share goes to those who correctly choose all 20 positions. Assume the Commission has approved three minor shares: The highest minor share goes to those who have picked all positions, in exact order, in 4 of the contests. The next minor share goes to those who have picked all positions, in exact order, in 3 of the contests. The final minor share goes to those who have picked all positions, in exact order, in 1 or 2 of the contests. One apportionment of payouts could be 40% of the net Position (x) pool for the major share, and 20% of the net Position (x) Pool for each of the three minor shares. Another apportionment of payouts could be 50% of the net Position (x) Pool for the major share, 25% for the highest minor share, 15% to the next minor share, and 10% to the final minor share. 
+
+ (6) Dead Heats. In the event of a dead heat in any of the Position (x) contests, based upon the official order of finish: 
+
+ (a) For purposes of determining whether a wager correctly selected the finishers, in exact position, contestants in a dead heat are deemed to jointly occupy both (or all) positions in the dead heat. For example, if 5 and 6 finish in a dead heat for first, then a selection of 5 for either first or second is correct, and a selection of 6 for either first or second is also correct. 
+
+ (b) Each share of the net Position (x) Pool shall be distributed as a single price pool regardless of dead heats. 
+
+ (7) Scratches 
+
+ (a) If, due to a late scratch, the number of betting interests in a contest of the Position (x) Pool is reduced to fewer than (x), for purposes of the Position (x) Pool only, such contest shall be declared “no contest” and the Position (x) Pool shall be subject to the rules set forth in the “Cancelled Contests” section (subsection 7) of these rules. 
+
+ (b) Should a betting interest in any contest of the Position (x) Pool be scratched or excused from the contest, no more wagers shall be accepted selecting that scratched contestant. 
+
+ (c) Existing wagers that select a scratched betting interest shall be handled under one of the following methods. The Commission shall make its determination of which of these alternatives shall apply at the time of approving the wagering pool, which alternative shall remain in effect until and unless changed by the Commission. 
+
+ (A) Method 1, Substitute a higher contestant number: 
+
+ (i) The next higher live contestant number that is not already part of the wager shall be substituted for the scratched contestant number. If no higher contestant number is eligible, the search shall then proceed upward from contestant number 1. 
+
+ (ii) If a wager selects more than one scratched contestant for a contest, the substitutions shall begin with the lowest scratched contestant number in the wager and proceed in order to the highest. 
+
+ (iii) Substitution shall be performed on the basis of single wagers, regardless of whether a wager was placed as part of any type of multiple wager format such as “box” or “wheel”. 
+
+ (iv) The totalizator shall produce reports showing each of the wagering combinations with substituted contestants that became winners as a result of the substitution, in addition to the normal winning combination. 
+
+ (B) Method 2, Substitute favorite contestant number: 
+
+ (i) The actual favorite, as evidenced by total amounts wagered in the Win pool at the close of wagering on that contest, shall be substituted for the scratched contestant for all purposes, including pool calculations. 
+
+ (ii) If the Win pool total for two or more favorites is identical, the substitute selection shall be the contestant with the lowest contestant number not already selected in the wager as part of the contest. 
+
+ (iii) If such favorite has already been selected in the wager as part of the contest, the next favorite(s) shall be used, as evidenced by the total amounts wagered in the Win pool, ordered from the highest amount to the lowest. 
+
+ (iv) If a wager selects more than one scratched contestant for a contest, the substitutions shall begin with the lowest scratched contestant number in the wager and proceed in order to the highest. 
+
+ (v) Substitution shall be performed on the basis of single wagers, regardless of whether a wager was placed as part of any type of multiple wager format such as “box” or “wheel”. 
+
+ (vi) The totalizator shall produce reports showing each of the wagering combinations with substituted contestants that became winners as a result of the substitution, in addition to the normal winning combination. 
+
+ (C) Method 3, Scratched contestant wins 
+
+ (i) The scratched contestant is deemed to be a correct selection of a winning finisher, for purposes of the Position (x) Pool only. 
+
+ (ii) The totalizator shall produce reports showing each of the wagering combinations that became winners as a result of the scratched contestants, in addition to the normal winning combination. 
+
+ (D) Method 4, Scratched contestant loses: 
+
+ (i) The scratched contestant is deemed to be a loser, for purposes of the Position (x) Pool only. 
+
+ (ii) Other correctly selected finishers in a wager shall continue to count toward winning, as usual. 
+
+ (8) Cancelled Contests 
+
+ (a) If any of the Position (x) contests are cancelled or declared ”no contest” prior to the first Position (x) contest being declared official, the entire Position (x) Pool shall be refunded on Position (x) wagers for those contests. 
+
+ (b) If all remaining Position (x) contests are cancelled or declared ”no contest” after the first Position (x) contest is declared official, the entire net Position (x) Pool, but not the Position (x) carryover, shall be distributed as a single price pool to wagers selecting the winning combination in the first Position (x) contest. However, if there are no wagers selecting the winning combination in the first Position (x) contest, the entire Position (x) Pool shall be refunded on Position (x) wagers for those contests. 
+
+ (c) If any of the remaining Position (x) contests are cancelled or declared ”no contest” after the first Position (x) contest is declared official, the net Position (x) pool shall be distributed in accordance with rules governing distribution of the minor share(s) where there is no winner of the major share. If there is more than one minor share, the entire net Position (x) pool, but not the Position (x) carryover, shall be divided amongst the minor share(s), in accordance with the Apportionment section (subsection 3) of these rules, in proportion to the designated percentages, or by some other method approved by the Commission. 
+
+ (d) If any of the remaining Position (x) contests are cancelled or declared ”no contest” after the first Position (x) contest is declared official, and the net Position (x) pool has been designated for distribution in accordance with the Mandatory Distribution section (subsection 10) of these rules, the rules governing mandatory distribution shall apply. 
+
+ (9) Carryover Cap. The Position (x) carryover may be capped at a designated level approved by the Commission so that if, at the close of any performance, the amount in the Position (x) carryover equals or exceeds the designated cap, the Position (x) carryover will be frozen until it is won or distributed under other provisions of these Position (x) rules. After the Position (x) carryover is frozen, the part of the net pool that ordinarily would be added to the Position (x) carryover shall be distributed to those whose selection finished in the highest level of the minor share(s) of the Position (x) Pool for that performance. 
+
+ (10) Mandatory Distribution 
+
+ (a) A written request for permission to distribute the Position (x) carryover on a specific performance may be submitted to the Commission. The request shall contain justification for the mandatory distribution, an explanation of the benefit to be derived, and the intended date and performance for the distribution. The licensee must notify the Commission at least 10 days prior to implementation. If the Position (x) Pool cannot be distributed during a designated performance, the mandatory distribution shall resume on the next approved mandatory distribution performance. 
+
+ (b) If the Position (x) carryover is designated for distribution on a specified date and performance, and if there are no wagers qualifying for the major share, then the following precedence shall be followed in determining winning wagers for the net Position (x) Pool and the carryover pool: 
+
+ (A) If the method chosen in subsection 3 is method 7, 8, 9, or 10, then: 
+
+ (B) The major share and the Position (x) carryover shall be distributed as a single price pool to those who selected all (x) finishers, in exact position, in the most individual Position (x) contests, based upon the official order of finish. Designated minor shares may still be awarded. 
+
+ (C) If the method chosen in subsection 3 is 1, 2, 3, 4, 5, or 6, then: 
+
+ (D) The major share and the Position (x) carryover shall be distributed as a single price pool to those who correctly selected the most finishers, in their exact positions, in the Position (x) contests, based upon the official order of finish. Designated minor shares may still be awarded. 
+
+ (E) If there are no wagers that qualified for distribution of the major share, then all Position (x) tickets shall become winners and share 100% of that performance’s net Position (x) Pool and the Position (x) carryover pool as a single price pool. 
+
+ (c) The Position (x) carryover shall be designated for distribution on a specified date and performance only under the following circumstances: 
+
+ (A) Upon written approval from the Commission (as provided in subsection 10a) of the Position (x) rules. 
+
+ (B) Upon written approval from the Commission when there is a change in the carryover cap or when the Position (x) wager is discontinued. 
+
+ (C) On the closing performance of the meet. 
+
+ (d) If, for any reason, the Position (x) carryover must be held over to the corresponding Position (x) Pool of a subsequent meet, the carryover shall be deposited in an interest-bearing account approved by the Commission. The Position (x) carryover plus accrued interest shall then be added to the net Position (x) Pool of the following meet on a date and performance so designated by the Commission. 
+
+ (11) Coupled entries and mutuel fields 
+
+ (a) Coupled entries and mutuel fields may be permitted in Position (x) contests with the written approval of the Commission. 
+
+ (b) Contestants coupled in wagering as a coupled entry or mutuel field shall be considered part of a single betting interest for the purpose of price calculations and distribution of Position (x) Pools. Should any contestant in a coupled entry or mutuel field be officially withdrawn or scratched, the remaining contestants in that coupled entry or mutuel field shall remain valid betting interests and no refunds will be granted. If all contestants within a coupled entry or mutuel field are scratched, then the Scratches section (subsection 6) of these rules shall apply. 
+
+ (c) For the purpose of Position (x) price calculations only, coupled entries and mutuel fields shall be calculated as a single finishing contestant, using the finishing position of the leading contestant in that coupled entry or mutuel field to determine order of placing. This rule shall apply to all circumstances, including situations involving a dead heat. For example, if the actual order of finish in a contest is 1/2/1A/3/4, then the finishers used for that contest of the Position (x) would be 1/2/3/4. 
+
+ (12) With the written approval of the Commission, the licensee may contribute to the Position (x) carryover, or to the major or minor share(s) of the Position (x) Pool, a sum of money up to the amount of any designated cap. 
+
+ (13) The Team Wager Pool 
+
+ (a) The Team Wager Pool requires selection of a designated “team” in each of a designated number of contests. Winning bets shall be determined based upon the official order of finish in each contest and the standing of each team with respect to the official order of finish. For purposes of the Team Wager, finishers from the same team shall be bracketed together to determine a single betting interest, as set forth in Part 3. 
+
+ (b) Prior to the start of the contests that comprise the Team Wager, all participants in each of the contests shall be divided by the association between or among each of the Team Wager teams, and the roster of each team made public, as well as the number of points to be awarded to the team whose member is the first finisher in a designated contest, the second finisher, and so forth until no more points are awarded in that contest. 
+
+ (c) At the conclusion of all contests that comprise the Team Wager, the number of points for each team shall be compiled, and the team with the most points shall be declared the “winning team.” 
+
+ (d) The Team Wager pool shall be apportioned under either of the following methods: 
+
+ (A) Winning Margins Team Wager 
+
+ (i) In the “Winning Margins Team Wager”, the total number of points awarded in the Team Wager shall be divided by the association into a series of brackets comprised of a series of point ranges (“winning margin”) by which one team (Team A) might defeat the other team (Team B); a series of point ranges by which Team B might defeat Team A; and a tie between the teams. Each bracket shall constitute a separate betting interest in the Winning Margins Team Wager. 
+
+ (ii) The net Winning Margins Team Wager pool shall be distributed as a single price pool to those who selected the correct bracket. If there are no wagers selecting the correct bracket, the entire pool shall be refunded. 
+
+ (iii) Example: Points are assigned to each of the first four finishers in each contest [four points for the first finisher down to one point for the fourth finisher, for a total of 10 points awarded in each contest], based upon the official order of finish, with a total of six contests in the Team Wager, resulting in a total of 60 points in all. The brackets could be designated as: The Association of Racing Commissioners International Model Rules of Racing Page 113 Version 9.1, August 2019 
+
+ ( 1 ) Team A’s winning margin is 1-10 points 11-20 points 21-30 points 31-40 points 41-50 points 51-60 points 
+
+ ( 2 ) Team B’s winning margin is 1-10 points 11-20 points 21-30 points 31-40 points 41-50 points 51-60 points 
+
+ ( 3 ) The two teams tie, and the margin is 0 Points 
+
+ (4) In this example, there are 13 separate betting interests. 
+
+ ( 5 ) If, in this example, finishers representing Team A come in 1st and 3rd in one contest, and finishers representing Team B come in 2nd and 4th in that contest, Team A would have 4+2=6 points and Team B would have 3+1=4 points. The current winning margin (after this first contest) would be Team A by 2 points.) 
+
+ (B) Team Double Wager 
+
+ (i) In the “Team Double Wager”, the commission shall approve two different methods of determining the winning tickets qualifying for a share of the net pool. 
+
+ (ii) The commission shall also approve the manner of apportioning the net Team Double Wager pool, and the conditions under which the pool shall be refunded or otherwise apportioned if there are no winning wagers. 
+
+ (iii) Example: A “daily-double”-style pool consisting of having to correctly select the bracket of the winning margin, as above, as well as a bracket based upon and including the total points achieved by the winning team. 
+
+ (e) Brackets 
+
+ (A) The brackets may be comprised of the margins by which the winning team defeats the team that finishes second; the total number of points achieved by the winning team; or other method of determining the brackets, as approved by the commission. 
+
+ (B) Such factors as the number of teams in the Team Wager; the method by which teams are designated; the number of points to be awarded in each contest; the number of contests comprising the Team Wager; and the method by which the “brackets” constituting each betting interest in the Team Wager are designated, shall all be subject to approval of the commission. 
+
+ (f) Coupled Entries; Fields. With approval of the commission, coupled entries may be permitted in contests comprising the Team Wager, but may only participate as part of the same Team. With approval of the commission, fields may be permitted in contests comprising the Team Wager, but may only participate as part of the same Team. 
+
+ (g) Dead Heat. If there is a dead heat including any finisher(s) for which points are awarded in the Team Wager, the total amount of points in the dead heat positions shall be combined and divided equally amongst the betting interests that have finished in the dead heat. 
+
+ (h) Scratches. The Association of Racing Commissioners International Model Rules of Racing Page 114 Version 9.1, August 2019 
+
+ (A) Should an entry in any contest of the Team Wager be scratched or excused from the contest, all money wagered on combinations including this entry shall remain in the Team Wager pool and the ticket holder may still collect the monetary value of any distribution evidenced by the ticket containing the scratched betting interest. 
+
+ (B) If, due to a scratch or excused entry, the number of entries assigned to a team in a contest of the Team Wager is reduced to fewer than the number of positions in the final order of finish for which the team is eligible to receive points, for purposes of the Team Wager pool such contest shall be declared “no contest” and wagers involving any betting interests that are no longer capable of being achieved shall be refunded. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 462.270(3) & 462.147(2) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 462.147, 462.072 & 462.073 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ RC 2-2020, minor correction filed 04/29/2020, effective 04/29/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ RC 1-2020, amend filed 01/17/2020, effective 01/17/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RC 1-2017, f. & cert. ef. 1-23-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

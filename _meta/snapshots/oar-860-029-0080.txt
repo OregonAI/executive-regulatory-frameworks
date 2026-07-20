@@ -1,0 +1,260 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Public Utility Commission 
+ Chapter 860 
+ 
+ 
+ 
+ 
+ 
+ Division 29 REGULATIONS RELATED TO AGREEMENTS BETWEEN ELECTRIC UTILITIES AND ELECTRIC COGENERATION AND SMALL POWER PRODUCTION FACILITIES 
+ 860-029-0080 
+ Electric Utility System Cost Data
+ 
+ 
+ (1) Each public utility must provide sufficient data concerning its avoided costs and costs of interconnection to allow the owner or operator of a qualifying facility to estimate, with reasonable accuracy, the payment it could receive from the utility if the qualifying facility went into operation under any of the purchase agreements provided for in these rules. 
+
+ (2) By January 1 of each odd-numbered year, each nonregulated utility must prepare and file with the Commission a schedule of avoided costs equaling the nonregulated utility’s forecasted incremental cost of resources over at least the next 20 years. 
+
+ (3) Each public utility must file with the Commission draft avoided-cost information at the time it files its integrated resource plan and file final avoided-cost information within 30 days of a Commission decision of acknowledgement of the integrated resource plan to be effective 30 days after filing. The information submitted will be maintained for public inspection and include the following data for calculating avoided costs: 
+
+ (a) The estimated avoided costs on its system, solely with respect to the energy component, for expected levels of purchases from qualifying facilities. The levels of purchases will be stated in blocks of not more than 100 megawatts for systems with peak demand of 1,000 megawatts or more and in blocks equivalent to not more than 10 percent of the system peak demand for systems of less than 1,000 megawatts. The avoided costs will be stated on a cents-per-kWh basis, during peak and off-peak periods, by year, for the current calendar year and each of the next five years; and 
+
+ (b) The public utility’s estimated capacity costs at completion of the planned capacity additions and planned capacity firm purchases, on the basis of dollars per kW, and the associated energy costs of each addition or purchase, expressed in cents per kWh. These costs will be expressed in terms of individual generating resources and of individual, planned firm purchases. 
+
+ (4) Each public utility contracting to purchase nonfirm energy from a qualifying facility under OAR 860-029-0040(3)(a) must file with the Commission each quarter its nonfirm energy avoided cost. 
+
+ (5) Nothing in these rules shall preclude the determination of avoided costs: 
+
+ (a) As the average avoided costs over an appropriate period of time; or 
+
+ (b) To reflect variations in avoided costs due to changes in stream flows, generating unit availability, loads, seasons, or other conditions. 
+
+ (6) State review: Any data submitted by a public utility under this rule shall be subject to review and approval by the Commission. In any such review, the public utility has the burden of supporting and justifying its data. 
+
+ (7)(a) On May 1 of each year, a public utility must file with the Commission updates to the avoided cost information filed under section (2) of this rule to be effective within 60 days of filing to reflect: 
+
+ (A) Updated natural gas prices; 
+
+ (B) On- and off-peak forward-looking electricity market prices; 
+
+ (C) Changes to the status of Production Tax Credit; and 
+
+ (D) Any other action or change including changes to the capital costs of a proxy resource in an acknowledged IRP update that is relevant to the calculation of avoided costs. 
+
+ (b) In the event a utility's integrated resource plan is acknowledged within 60 days of May 1 in a particular year, the utility may seek a waiver of either the May 1 update or the post IRP-acknowledgement filing. 
+
+ (8) A public utility may propose or the Commission may require a public utility to file the data described in OAR 860-029-0080(3) anytime during the two-year period between filing integrated resource plans to reflect significant changes in circumstances, including, but not limited to, the acquisition of a major block of resources or the completion of a competitive bid. Such a revision will become effective 90 days after filing. 
+
+ (9) At least every two years, the public utility must file with the Commission the data described in OAR 860-029-0040(4) and 860-029-0080(3). 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 183, 756, 757, 758 
+ 
+ 
+ Statutes/Other Implemented:  ORS 756.040, 758.505 - 758.555 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 8-2018, amend filed 11/02/2018, effective 11/02/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 1-1998, f. & cert. ef. 1-12-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 2-1993, f. & cert. ef. 1-8-93 (Order No. 92-1793 & 93-035) 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 21-1984, f. & ef. 9-25-84 (Order No. 84-742) 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 7-1982, f. & ef. 7-21-82 (Order No. 82-514) 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 9-1981, f. & ef. 10-29-81 (Order No. 81-755) 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

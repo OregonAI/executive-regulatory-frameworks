@@ -1,0 +1,294 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Water Resources Department 
+ Chapter 690 
+ 
+ 
+ 
+ 
+ 
+ Division 8 STATUTORY GROUNDWATER TERMS 
+ 690-008-0001 
+ Definition and Policy Statements
+ 
+ 
+ A number of terms are used in the statutes, ORS 537.505–537.795, prescribing the management of groundwater in Oregon. These rules define terms to qualify and clarify the statutes. In all statutes and rules employed in the management of groundwater by the Water Resources Department and Commission, the following definitions shall apply, unless the context requires otherwise:  
+
+ (1) “Annual High Water Level” means the highest elevation (shallowest depth) static groundwater level that exists in a groundwater reservoir or part thereof in a year.   
+
+ (2) “Aquifer” means a water-bearing body of naturally occurring earth materials that is sufficiently permeable to yield useable quantities of water to wells and/or springs.  
+
+ (3) “Critical Ground Water Area Boundary” means a line established in a critical ground water area order on a map that surrounds an area in which one or more of the statutory criteria for critical area declaration are met and which is located either:  
+
+ (a) Physically by coincidence with natural features such as groundwater reservoir boundaries, hydrologic barriers, or recharge or discharge boundaries; or  
+
+ (b) Administratively by surrounding an affected area when that area does not coincide with an area bounded by natural features.  
+
+ (4) “Customary Quantity” means the rate or annual amount of appropriation or diversion of water ordinarily used by an appropriator within the terms of that appropriator’s water right.  
+
+ (5) “Declined Excessively” means any cumulative lowering of the water levels in a groundwater reservoir or a part thereof which:  
+
+ (a) Precludes, or could preclude, the perpetual use of the reservoir; or  
+
+ (b) Exceeds the economic pumping level; or  
+
+ (c) Constitutes a decline determined to be interfering with:  
+
+ (A) A surface water diversion having a priority date senior to the priority dates of the causative groundwater appropriations; or  
+
+ (B) A surface water body that has been administratively withdrawn with an effective date senior to the priority dates of the causative groundwater appropriations unless the causative groundwater appropriations are for uses that are exceptions to the withdrawals; or  
+
+ (C) An adopted minimum stream flow or instream water right, or closure having an effective date senior to the priority dates of the causative groundwater appropriations; or  
+
+ (D) A surface water body which has a classification that is senior to the priority date of the causative groundwater appropriation(s) and the use or uses to which the groundwater is being put are not included in the classification.  
+
+ (d) Constitutes a lowering of the annual high water level within a groundwater reservoir, or part thereof, greater than 50 feet below the highest known water level; or  
+
+ (e) Results in groundwater pollution; or  
+
+ (f) Constitutes a lowering of the annual high water level greater than 15% of the greatest known saturated thickness of the groundwater reservoir. the saturated thickness shall be calculated using pre-development water levels and the bottom of the groundwater reservoir, or the economic pumping level, whichever is shallower.  
+
+ (6) “Economic Pumping Level” means the level below land surface at which the per-acre cost of pumping equals 70 percent of the net increase in annual per-acre value derived by irrigating. (The value is to be calculated on a five year running average of the per-acre value of the three, if there are that many, prevalent irrigated crops in the region minus the five year running average of the per-acre value of the three, if there are that many, prevalent regional non-irrigated crops.)  
+
+ (7) “Excessively Declining Water Levels” (Note: “Excessively” as used in ORS 537.730(1)(a) is taken to modify both “are declining” and “have declined”) means any ongoing lowering of the water level in a groundwater reservoir or part thereof which:  
+
+ (a) Precludes, or could preclude, the perpetual us of the reservoir; or  
+
+ (b) Represents an average downward trend of three or more feet per year for at least 10 years; or  
+
+ (c) Represents, over a five year period, an average annual lowering of the water level by 1% or more of the initial saturated thickness as determined by observation or investigation in the affected area; or  
+
+ (d) Results in water quality deterioration.  
+
+ (8) “Overdraw” means to artificially produce water, in any one-year period, from a groundwater reservoir, or part thereof, at an annual rate that:  
+
+ (a) Exceeds the average annual recharge to that groundwater supply over the period of record; or,  
+
+ (b) Reduces surface water availability resulting in:  
+
+ (A) One or more senior appropriators being unable to use either their permitted or customary quantity of surface water, whichever is less; or  
+
+ (B) Failure to satisfy an adopted minimum streamflow or instream water right with an effective date senior to the causative groundwater appropriation(s).  
+
+ (c) Reduces the availability of surface waters that have been:  
+
+ (A) Withdrawn with an effective date senior to the priority dates of the causative groundwater appropriations; or  
+
+ (B) Restrictively classified with an effective date senior to the priority date(s) of the causative groundwater appropriations.  
+
+ (9) “Reasonably Stable Groundwater Levels” means that Annual High Water Levels, based on observed trends over time, remain within a range consistent with sustaining the function and character of a groundwater reservoir indefinitely, and:  
+
+ (a) The Annual High Water Levels as measured at one or more representative wells in a groundwater reservoir or part thereof:  
+
+ (A) indicate no decline or an average rate of decline of less than 0.6 feet per year over any immediately preceding averaging period with duration between 5 and 20 years. Four Annual High Water Levels are required to calculate the rate of change; one must have been measured in the year to which the evaluation of reasonably stable applies, and at least one must have been measured between 5 and 20 years prior; and  
+
+ (B) have not declined by more than 25 feet from a reference level to the level in the year to which the evaluation of reasonably stable applies. The reference level shall be the highest known water level unless Annual High Water Levels have been measurably increased by human activity, in which case the Department may set a different reference level using best available information.   
+
+ (b) If water level data are insufficient to perform either test in (a) for a given year, then the Department will presume that groundwater levels are not reasonably stable unless:  
+
+ (A) the most recent evaluation of reasonably stable applies to a year within 5 years of the given year, in which case the Department may presume that the recent evaluation still applies; or   
+
+ (B) groundwater has not yet been extracted or authorized for extraction from the groundwater reservoir, in which case the Department may presume that groundwater levels are reasonably stable.  
+
+ (c) The Department may evaluate Reasonably Stable Groundwater Levels for the year of the priority date of a groundwater right application or for a later year if more recent data are available.   
+
+ (d) The quantitative tests in part (a) of this definition may be superseded by a basin program rule adopted by the Water Resources Commission pursuant to the Commission’s authority in ORS 536.300 and 536.310. Any proposed superseding basin program rule definition must comply with ORS 537.505 to 537.795, 537.992, OAR 690-410-0010 and 690-410-0070.   
+
+ (e) This definition does not apply to Critical Groundwater Areas designated under OAR 690-010.  
+
+ (10) “Substantial or Undue Interference” means the spreading of the cone of depression of a well to intersect a surface water body or another well, or the reduction of the groundwater gradient and flow as a result of pumping, which contributes to:  
+
+ (a) A reduction in surface water availability to an extent that:  
+
+ (A) One or more senior surface water appropriators are unable to use either their permitted or customary quantity of water, whichever is less; or  
+
+ (B) An adopted minimum streamflow or instream water right with an effective date senior to the causative groundwater appropriation(s) cannot be satisfied.  
+
+ (b) The groundwater level being drawn down to the Economic Pumping Level of the senior appropriator(s); or  
+
+ (c) One or more of the senior groundwater appropriators being unable to obtain either the permitted or the customary quantity of groundwater, whichever is less, from a reasonably efficient well that fully penetrates the aquifer where the aquifer is relatively uniformly permeable. However, in aquifers where flow is predominantly through fractures, full penetration may not be required as a condition of substantial or undue interference.  
+
+ (11) “Substantial Thermal Alteration” means any change in water temperature of a groundwater reservoir, or a part thereof, which:  
+
+ (a) Precludes, or could preclude, the perpetual heating or cooling use of the groundwater reservoir; or  
+
+ (b) Constitutes a change in the mean annual temperature within a groundwater reservoir, or part thereof, greater than 25 percent of the highest recorded naturally occurring Celsius (C) temperature.  
+
+ (12) “Substantial Thermal Interference” means the spreading of the radius of thermal impact of a low-temperature geothermal production well or low-temperature geothermal injection well to intersect a surface water body or another well, or the reduction of temperature or heat flow as a result of pumping or injection, which contributes to change in groundwater or surface water temperature to an extent that one or more senior appropriators of the low-temperature resource are unable to use water for the purpose(s) designated in the associated water right.  
+
+ (13) “Wasteful Use (of groundwater)” means any artificial discharge or withdrawn of groundwater from an aquifer that is not put to a beneficial use described in a permit or water right, including leakage from one aquifer to another aquifer within a well bore.  
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 537, ORS 536.027, ORS 536.300 & ORS 536.310 
+ 
+ 
+ Statutes/Other Implemented:  ORS 537 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WRD 5-2024, amend filed 09/17/2024, effective 09/17/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WRD 18-1990, f. & cert. ef. 12-14-90 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WRD 21-1988, f. & cert. ef. 12-14-88 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

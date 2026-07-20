@@ -1,0 +1,230 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 272 THIRD PARTY VERIFICATION 
+ 340-272-0450 
+ Material Misstatement Assessments for CFP Fuel Pathways and Quarterly Fuel Transactions Submitted under OAR Chapter 340, Division 253 
+ 
+ (1) The verification team must conduct separate assessments of material misstatement on each calculated operational CI value and each quarterly fuel transaction quantity for each fuel pathway code (expressed in units from the applicable sections of OAR chapter 340 division 253). Material misstatement assessments are not conducted for quarterly review. 
+
+ (2) Assessments of material misstatement of carbon intensity must meet all the requirements of this section. 
+
+ (a) Each fuel pathway CI is subject to data checks under OAR 340-272-0430 and must be assessed separately for material misstatement of its carbon intensity. The inputs and annual operational carbon intensity for fuel pathway codes that are not a recertification of a California Fuel Pathway Code(s) but have an active California Fuel Pathway Code(s) must be assessed. 
+
+ (b) Material misstatement of carbon intensity includes any discrepancy as described in paragraph (A) of this subsection, omission as described in paragraph (B) of this subsection, or misreporting as described in paragraph (C) of this subsection, or aggregation of the three, identified in the course of verification services that leads a verification team to believe that the reported operational CI (grams of carbon dioxide equivalent per megajoule or gCO2e/MJ) in a CFP fuel pathway application or report contains one or more errors that, individually or collectively, result in an overstatement or understatement more than five percent of the reported operational CI, or 2 gCO2e/MJ, whichever absolute value expressed in gCO2e/MJ is greater. 
+
+ (A) Discrepancies include any differences between the reported site-specific CI inputs and the verifier’s calculated site-specific CI inputs subject to data checks under OAR 340-272-0430. 
+
+ (B) Omissions include any site-specific CI inputs or associated source data the verifier concludes must be part of a fuel pathway application or report but were not included. 
+
+ (C) Misreporting includes duplicate, incomplete, or other CI input data the verifier concludes should or should not be part of a fuel pathway application or report. 
+
+ (c) One or more material misstatements of carbon intensity will result in a finding of material misstatement for the fuel pathway application or report. 
+
+ (d) A controlled version of the Simplified CI Calculator for Tier 1 pathways, a DEQ-approved OR-GREET for Tier 2 pathways, or another substantially equivalent model approved by DEQ for the specific fuel pathway application under OAR 340-253-0400(1), as applicable, must be populated to assess whether a fuel pathway application or report contains a material misstatement of carbon intensity. 
+
+ (e) The following equations for percent error, relative error threshold, and absolute error threshold must be used to determine whether any reported operational CI value contains a material misstatement of carbon intensity and must be included in the final verification report according to OAR 340-272-0495. 
+
+ 
+ Percent error (CI) = (∑ | Difference in CI | ÷ | Reported Operational CI |) × 100% 
+
+ Relative error threshold (CI) = | Difference in CI | ≥ 0.05 × |Reported Operational CI Value| 
+
+ Absolute error threshold (CI) = | Difference in CI | ≥ 2 g CO2e/MJ 
+ 
+
+ (3) Assessments of material misstatement of quarterly fuel quantity for each fuel pathway code must meet all the requirements of this section. 
+
+ (a) Each aggregated quarterly fuel quantity for each fuel pathway code is subject to data checks under OAR 340-272-0430 and must be assessed separately for material misstatement of quarterly fuel quantity. 
+
+ (b) Material misstatement of quarterly fuel quantity includes any discrepancy as described in paragraph (A) of this subsection, omission as described in paragraph (B) of this subsection, or misreporting as described in paragraph (C) of this subsection, or aggregation of the three, identified in the course of verification services that leads a verification team to believe that the reported fuel quantity for each fuel pathway code per quarter in a CFP quarterly report contains one or more errors that, individually or collectively, result in an overstatement or understatement greater than five percent. 
+
+ (A) Discrepancies include any differences between the fuel quantity for the fuel pathway code reported and the verifier’s review of calculation of fuel quantity subject to data checks under OAR 340-272-0430. 
+
+ (B) Omissions include any fuel quantity the verifier concludes must be part of a quarterly report but was not included. 
+
+ (C) Misreporting includes duplicate, incomplete, or other fuel quantity data the verifier concludes should or should not be part of a quarterly report. 
+
+ (c) One or more material misstatements of quarterly fuel quantity will result in a finding of material misstatement for the annual verification of the quarterly fuel quantity for each fuel pathway code. 
+
+ (d) The following equation for percent error must be used to determine whether any quarterly fuel quantity for each fuel pathway code contains a material misstatement of quarterly fuel quantity and must be included in the final verification report according to OAR 340-272-0495. 
+
+ 
+ Percent error (fuel quantity) = 
+
+ (∑(Discrepancies + Omissions + Misreporting) ÷ Reported quarterly fuel transaction quantity for fuel pathway code) × 100% 
+ 
+
+ (e) When evaluating material misstatement of quarterly fuel quantity, correctly substituted missing data must be deemed to be accurate, regardless of the amount of missing data. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, 468A.266, 468A.271 & 468A.277 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468A.010, 468A.015 & 468A.265 through 468A.277 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 17-2023, amend filed 11/16/2023, effective 11/16/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 14-2020, adopt filed 05/07/2020, effective 05/07/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,197 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 122 HAZARDOUS SUBSTANCE REMEDIAL ACTION RULES 
+ 340-122-0250 
+ Cleanup Rules for Leaking Petroleum UST Systems: Corrective Action Plan 
+ 
+ (1) Subject to section (12) of this rule, a responsible person proposing to remediate a site to risk-based remediation levels must submit a corrective action plan for responding to contaminated soil and groundwater.  (2) A remediation level must be proposed for each contaminant of concern in soil and groundwater based on:  (a) Site-specific risk-based concentrations calculated according to OAR 340-122-0244, or generic risk-based concentrations developed under OAR 340-122-0252;  (b) Current or future reasonably likely significant adverse effects to beneficial uses of groundwater or surface water not addressed by risk-based concentrations under subsection (a) of this section; and  (c) Proposed institutional and engineering controls, if any.  (3) The corrective action plan must be submitted to the Department within 45 days of completing field work necessary for its development, or within a longer period of time approved by the Department, and must contain sufficient information to support the proposed remedial measures including, at a minimum:  (a) The site history and a summary of all previous actions taken in response to the release;  (b) A summary and analysis of all sampling data, including site maps, drawn to scale, showing the magnitude and extent of contamination;  (c) The conceptual site model and an explanation for each remediation level proposed under section (2) of this rule;  (d) Land and water use information necessary to support the conceptual site model, including current uses, and comprehensive plan and zoning designations for adjacent properties, and all properties potentially affected by the release; and  (e) A discussion of all remedial measures including institutional and engineering controls, addressing any contamination exceeding acceptable risk levels and non-risk impacts.  (4) A corrective action plan which contains a proposal for groundwater monitoring or remediation must include:  (a) A recommendation for which monitoring well or wells will serve as compliance points for the site based on the following minimum requirements:  (A) Compliance monitoring points must define an area surrounding the source of contamination, outside of which remediation levels must be attained and maintained.  (B) The compliance monitoring points shall establish a vertical boundary extending from the uppermost level of the saturated zone to the lowest depth which could potentially be affected by the release;  (C) Compliance monitoring points must be located close enough to the source of contamination so that they reasonably detect contamination, if present; and  (D) Compliance monitoring points may not be located beyond the source property boundary except as approved by the Department.  (b) At least one monitoring point which measures contaminant concentrations in the source area.  (c) A discussion of all actions being proposed to monitor or remediate the groundwater contamination. These actions might not require sampling from all wells or monitoring for all contaminants detected during the investigation, provided:  (A) Hydrogeological and contamination data, as well as compliance point requirements, support the wells proposed for monitoring;  (B) Appropriate indicator compounds are analyzed at regular intervals during remediation and monitoring;  (C) Analytical parameters are consistent with remediation levels; and  (D) All contaminants of concern detected during the investigation are sampled and analyzed to confirm preliminary and final compliance.  (5) The Department shall approve the corrective action plan only after ensuring that implementation of the plan, including any applicable remediation levels, will adequately protect human health, safety, and welfare and the environment, and after providing any public notice consistent with the requirements of OAR 340-122-0260.  (6) Upon approval of the corrective action plan by the Department, a responsible person must implement the plan, including any modifications to the plan made by the Department. The responsible person must monitor, evaluate, and report the results of implementing the plan in accordance with a schedule and in a format established by the Department.  (7) For remediation of groundwater contamination:  (a) Preliminary compliance is attained when the first sampling event following the installation of all required monitoring wells shows that all samples collected from all compliance monitoring points and out to the edge of the contaminant plume meet the remediation levels for all contaminants of concern. When preliminary compliance has been attained, the responsible person may suspend groundwater treatment system operation at any time. The Department may require that a suspended groundwater treatment system be reactivated if any of the water samples collected at or beyond the compliance monitoring points during the required period of monitoring are found to contain any contaminant concentrations in excess of remediation levels. If the treatment system is reactivated, treatment must be continued until preliminary compliance is again attained.  (b) Final compliance is attained when:  (A) A minimum of four consecutive quarterly groundwater monitoring events has been completed following shutdown of the treatment system, and all samples collected from all compliance monitoring points and out to the edge of the contaminant plume meet the remediation levels for all contaminants of concern. The four consecutive sampling events may include the sampling event at which preliminary compliance is achieved, provided that all contaminants of concern are included in the sampling and analysis;  (B) Site-specific hydrogeologic and contaminant level data are presented in a written report to the Department demonstrating that any remaining contaminants will not migrate beyond the compliance monitoring points at levels exceeding remediation levels; and  (C) A final report containing a summary of all groundwater data collected at the site, an analysis of the data demonstrating that the final compliance requirements have been met, and any other relevant information deemed necessary by the Department to demonstrate that all of the requirements of this rule have been met is submitted to and approved by the Department.  (c) Notwithstanding final compliance, the Department may require continued monitoring of groundwater in situations where site-specific conditions warrant such measures.  (8) The responsible person must submit additional information or develop and submit a modified correction action plan at the Department’s request if the Department determines that remedial activities must be modified or that treatment system performance (e.g., rate of cleanup) is not achieving results as projected in the approved corrective action plan.  (9) When all requirements of an approved corrective action plan have been met to the Department’s satisfaction, the Department shall issue a no further action letter to the responsible person.  (10) In the event that contamination exceeding risk-based concentrations remains, the Department may require the implementation of institutional or engineering controls necessary to ensure protection of public health, safety, and welfare and the environment.  (11) A responsible person may, in the interest of minimizing environmental contamination and promoting more effective remediation, begin remediation of soil and groundwater before the corrective action plan is approved provided that the responsible person:  (a) Notifies the Department of its intention to begin remediation;  (b) Complies with any conditions imposed by the Department including halting remediation or mitigating adverse consequences from remedial activities; and  (c) Incorporates the self-initiated remedial measures in the corrective action plan that is submitted to the Department for approval.  (12) The requirement that a corrective action plan be used does not apply to low-impact site closures, or to generic remedies unless specified by the Department in generic remedy guidance. However, the Department may require that a corrective action plan be developed and implemented for sites being considered for remediation under the soil matrix cleanup options (OAR 340-122-0320), as low-impact sites (340-122-0243), or under generic remedies (340-122-0252) if, upon review of available information, the Department determines that conditions at the site are not appropriate for the initial proposed remedial option or the proposal does not provide adequate protection to human health, safety, and welfare and the environment. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 465.400 & 466.746 
+ 
+ 
+ Statutes/Other Implemented:  ORS 465.200 - 465.455 & 466.706 - 466.835 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 23-1998, f. & cert. ef. 11-2-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 13-1992, f. 6-9-92, cert. ef. 10-1-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 15-1989, f. & cert. ef. 7-28-89 (and corrected 8-3-89) 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 29-1988, f. & cert. ef. 11-9-88 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

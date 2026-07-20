@@ -1,0 +1,209 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 105 RADIATION SAFETY REQUIREMENTS FOR INDUSTRIAL RADIOGRAPHIC OPERATIONS 
+ 333-105-0460 
+ Equipment Control: Leak Testing and Replacement of Sealed Sources 
+ 
+ (1) The replacement of any sealed source fastened to or contained in a radiographic exposure device and leak testing of any sealed source must be performed by persons authorized to do so by the Authority, the Nuclear Regulatory Commission, or another Agreement State.  (2) The opening, repair, or modification of any sealed source must be performed by persons specifically authorized to do so by the Authority, the Nuclear Regulatory Commission, or another Agreement State.  (3) Testing and recordkeeping requirements.  (a) Each licensee who uses a sealed source must have the source tested for leakage at intervals not to exceed six months. The leak testing of the source must be performed using a method approved by the Authority, the Nuclear Regulatory Commission, or by another Agreement State. The wipe sample should be taken from the nearest accessible point to the sealed source where contamination might accumulate. The wipe sample must be analyzed for radioactive contamination. The analysis must be capable of detecting the presence of 185 becquerel (0.005 microCurie) of radioactive material on the test sample and must be performed by a person specifically authorized by the Authority, the Nuclear Regulatory Commission, or another Agreement State to perform the analysis.  (b) The licensee must maintain records of the leak tests in accordance with 333-105-0630.  (c) Unless a sealed source is accompanied by a certificate from the transferor that shows that it has been leak tested within six months before the transfer, it may not be used by the licensee until tested for leakage. Sealed sources that are in storage and not in use do not require leak testing, but must be tested before use or transfer to another person if the interval of storage exceeds six months. Leak test results must be received prior to use or transfer.  (4) Any test conducted pursuant to section (2) and (3) of this rule that reveals the presence of 185 Becquerel (0.005 microCurie) or more of removable radioactive material must be considered evidence that the sealed source is leaking. The licensee must immediately withdraw the equipment involved from use and must have it decontaminated and repaired or disposed of in accordance with Authority rules. A report must be filed with the Authority within five days of any test with results that exceed the threshold in this paragraph, describing the equipment involved, the test results, and the corrective action taken.  (5) Each exposure device using depleted uranium (DU) shielding and an "S" tube configuration must be tested for DU contamination at intervals not to exceed 12 months. The analysis must be capable of detecting the presence of 185 becquerel (0.005 microCurie) of radioactive material on the test sample and must be performed by a person specifically authorized by the Authority, the Nuclear Regulatory Commission, or another Agreement State to perform the analysis. Should such testing reveal the presence of DU contamination, the exposure device must be removed from use until an evaluation of the wear of the S-tube has been made. Should the evaluation reveal that the S-tube is worn through, the device may not be used again. DU shielded devices do not have to be tested for DU contamination while not in use and in storage. Before using or transferring such a device, however, the device must be tested for DU contamination, if the interval of storage exceeds 12 months. A record of the DU leak-test must be made in accordance with 333-105-0630. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 453.635 
+ 
+ 
+ Statutes/Other Implemented:  ORS 453.605 - 453.807 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 4-2007, f. & cert. ef. 3-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 12-2006, f. & cert. ef. 6-16-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 36-2004, f. & cert. ef. 12-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 31-2004(Temp), f. & cert. ef. 10-8-04 thru 4-5-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 3-2003, f. & cert. ef. 3-27-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

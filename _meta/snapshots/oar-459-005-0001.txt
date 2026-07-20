@@ -1,0 +1,511 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Public Employees Retirement System 
+ Chapter 459 
+ 
+ 
+ 
+ 
+ 
+ Division 5 ADMINISTRATION 
+ 459-005-0001 
+ Definitions, Generally
+ 
+ 
+ The words and phrases used in OAR Chapter 459 have the same meaning given them in ORS Chapters 237, 238, 238A, and 243 unless otherwise indicated. Specific and additional terms used in OAR Chapter 459 generally are defined as follows unless context requires otherwise: 
+
+ (1) “Ad hoc” means one-time for a specific purpose, case, or situation without consideration of a broader application. 
+
+ (2) “After-tax” contributions means: 
+
+ (a) Member contributions required or permitted by ORS 238.200 or 238.515, which a participating employer has not elected to “pick up,” assume or pay in accordance with ORS 238.205 and 238.515(b). “After-tax” contributions are included in the member’s taxable income for purposes of state or federal income taxation at the time paid to PERS. “After-tax” contributions are included in computing FAS and in computing the employer’s contributions paid to PERS. 
+
+ (b) Payments made by a member to PERS for the purchase of additional benefits. 
+
+ (3) “Before-tax” contributions means member contributions required or permitted by ORS 238.200 or 238.515, which a participating employer has elected to “pick up,” assume or pay in accordance with ORS 238.205 and 238.515(b). “Before-tax” contributions are not included in the member’s taxable income for purposes of state or federal income taxation at the time paid to PERS. “Before-tax” contributions are included in: 
+
+ (a) Computing final average salary; and 
+
+ (b) Computing the employer’s contributions paid to PERS if the employer has elected to “pick up” the member contributions. 
+
+ (4) “Business day” means a day Monday through Friday when PERS is open for business. 
+
+ (5) “Calendar month” means a full month beginning with the first calendar day of a month and ending on the last calendar day of that month. 
+
+ (6) “Calendar year” means 12 consecutive calendar months beginning on January 1 and ending on December 31. 
+
+ (7) “Casual worker” means an individual engaged for incidental, occasional, irregular, or unscheduled intervals or for a period of less than six consecutive calendar months. 
+
+ (8) “Contributions” means any contributions required or permitted pursuant to ORS 238.200 or 238.515. 
+
+ (9) “Differential wage payment” means a payment made on or after January 1, 2009: 
+
+ (a) By an employer to a member with respect to any period during which the member is performing service in the uniformed services, as defined in USERRA, while on active duty for a period of more than 30 consecutive days; and 
+
+ (b) That represents all or a portion of the wages the member would have received from the employer if the member were performing service for the employer. 
+
+ (10) “Effective date of withdrawal” means the later of: 
+
+ (a) The first day of the calendar month in which PERS receives a completed application from a member who requested a withdrawal; or 
+
+ (b) The first day of the second calendar month following the calendar month in which the member terminated employment with all participating employers and all employers in a controlled group with a participating employer. 
+
+ (11) “Effective retirement date” means: 
+
+ (a) For Tier One and Tier Two service retirements, the date described in OAR 459-013-0260. 
+
+ (b) For Tier One and Tier Two disability retirements, the date described in OAR 459-015-0001. 
+
+ (c) For OPSRP Pension Program service retirements, the date described in OAR 459-075-0175. 
+
+ (12) “Elected official” means an individual who is a public official holding an elective office or an appointive office with a fixed term for the state or for a political subdivision of the state who has elected to participate in PERS pursuant to ORS 238.015(5). 
+
+ (13) “Emergency worker” means an individual engaged in case of emergency, including fire, storm, earthquake, or flood. 
+
+ (14) “Employee” has the same meaning as provided in ORS 238.005 and shall be determined in accordance with OAR 459-005-0020. 
+
+ (a) For the purposes of ORS 238.005 to 238.750 the term “employee” includes public officers whether elected or appointed for a fixed term. 
+
+ (b) The term “employee” does not include: 
+
+ (A) A member of the governing board of a political subdivision unless the individual qualifies for membership under ORS 238.015. 
+
+ (B) An individual who performs services for a public employer as a contractor in an independently established business or as an employee of that contractor as determined in accordance with OAR 459-005-0020. 
+
+ (C) An individual providing volunteer service to a public employer without compensation for hours of service as a volunteer, except for volunteer firefighters who establish membership in accordance with ORS 238.015(6). 
+
+ (15) “Employee Pension Stability Account” and “EPSA” mean the account established in ORS 238A.353. 
+
+ (16) “Employer contribution account” means a record of employer contributions to the Fund, as required by ORS 238.225(1), and investment earnings attributable to those contributions, that the Board has credited to the account after deducting amounts required or permitted by ORS Chapter 238. 
+
+ (17) “Employment” is compensated service to a participating employer as an employee whose: 
+
+ (a) Period or periods of employment includes only the actual hours of compensated service with a participating employer as an employee; and 
+
+ (b) Compensated service includes, but is not limited to, paid vacation, paid sick leave, or other paid leave. 
+
+ (18) “EPSA excess” means any amount remaining after a member’s EPSA has been applied by the board to pay the costs of the pension or other retirement benefits payable to the member or the member’s beneficiary under ORS chapters 238 and 238A that accrue on or after July 1, 2020. In the event of an account withdrawal or when there is no eligible benefit against which to apply the EPSA, the entire account is considered EPSA excess. 
+
+ (19) “Estimate” means a projection of benefits prepared by staff of a service or disability retirement allowance, a death or a refund payment. An estimate is not a guarantee or promise of actual benefits that eventually may become due and payable, and PERS is not bound by any estimates it provides. 
+
+ (20) “FAS” and “final average salary” have the same meaning as provided in: 
+
+ (a) ORS 238.005 for all PERS Tier One members; 
+
+ (b) ORS 238.435(2) for all PERS Tier Two members who are not employed by a local government as defined in ORS 174.116; 
+
+ (c) ORS 238.435(4) for all PERS Tier Two members who are employed by a local government as defined in ORS 174.116; or 
+
+ (d) ORS 238.535(2) for judge members of PERS for service as a judge. 
+
+ (21) “General service member” means membership in PERS as other than a judge member, a police officer, a firefighter, or a legislator. 
+
+ (22) “Good cause” means a cause beyond the reasonable control of an individual. “Good cause” exists when it is established by satisfactory evidence that factors or circumstances are beyond the reasonable control of a rational and prudent individual of normal sensitivity, exercising ordinary common sense. 
+
+ (23) “Independent contractor” means an individual or business entity that is not subject to the direction and control of the employing entity as determined in accordance with OAR 459-005-0020. 
+
+ (24) “Judge member” has the same meaning as provided in ORS 238.500(3). For purposes of this chapter, active, inactive, and retired membership of a judge member shall have the same meaning as provided in ORS 238.005. 
+
+ (25) “Legislator” means an individual elected or appointed to the Oregon Legislative Assembly who has elected to participate in PERS for their legislative service. 
+
+ (26) “Member cost” means after-tax member contributions and payments made by or on behalf of a member to purchase additional benefits. 
+
+ (27) “Participating employer” means a public employer who has one or more employees who are active members of PERS. 
+
+ (28) “PERS” and “system” have the same meaning as the Public Employees Retirement System in ORS 238.600. 
+
+ (29) “Public university” means a public university with a governing board as listed in ORS 352.002. 
+
+ (30) “Qualifying position” has the same meaning as provided in ORS 238.005 and OAR 459-010-0003. 
+
+ (31) “Regular account” means the account established under ORS 238.250 for each active and inactive member who has made contributions to the Fund or the account of an alternate payee of such a member. 
+
+ (32) “Salary” has the same meaning as provided in ORS 238.005. 
+
+ (a) “Salary” includes a differential wage payment, as defined in this rule. 
+
+ (b) For a Tier One member, a lump sum payment for accrued vacation pay is considered salary: 
+
+ (A) In determining employee and employer contributions. 
+
+ (B) In determining final average salary for the purpose of calculating PERS benefits. 
+
+ (c) For a Tier Two member, a lump sum payment for accrued vacation pay: 
+
+ (A) Is considered salary in determining employee and employer contributions. 
+
+ (B) Is not considered salary in determining final average salary for the purpose of calculating PERS benefits. 
+
+ (33) “Seasonal worker” means an individual whose engagement is characterized as recurring for defined periods that are natural divisions of the employer’s business cycle or services. 
+
+ (34) “Staff” means the employees of the Public Employees Retirement System as provided for in ORS 238.645. 
+
+ (35) “Tier One member” means a member who established membership in the system before January 1, 1996, as defined in ORS 238.430(2). 
+
+ (36) “Tier Two member” means a member who established membership in the system on or after January 1, 1996, in accordance with ORS 238.430. 
+
+ (37) “USERRA” means the federal Uniformed Services Employment and Reemployment Rights Act of 1994, 38 U.S.C. 4301-4334, as in effect on the effective date of this rule. 
+
+ (38) “Vacation pay” means a lump sum payment for accrued leave in a Vacation Leave Program provided by a public employer which grants a period of exemption from work for rest and relaxation with pay, and does not include: 
+
+ (a) Sick leave programs; 
+
+ (b) Programs allowing the accumulation of compensatory time, holiday pay or other special leaves unless the public employer’s governing body indicates by resolution, ordinance, or other legislative process, that such leave is intended to serve as additional vacation leave; and 
+
+ (c) Other programs, such as a Personal Time Off (PTO) plan, which are a combination of vacation, sick, bereavement, personal and other leaves of pay as defined and described by a public employer unless the employer has a written policy that clearly indicates the percentage of the plan that represents vacation leave. If the employer’s PTO has a cash option, the employer must report to PERS the amount of any lump sum pay-off for the percentage that represents vacation leave. 
+
+ (39) “Variable account” and “member variable account” mean the account in the Variable Annuity Account established under ORS 238.260(2) for each active and inactive member who has elected to have amounts paid or transferred into the Variable Annuity Account. 
+
+ (40) “Variable Annuity Account” means the account established in ORS 238.260(2). 
+
+ (41) “Volunteer” means an individual who performs a service for a public employer, and who receives no compensation for the service performed. The term “volunteer” does not include an individual whose compensation received from the same public employer for similar service within the same calendar year exceeds the reasonable market value for such service. 
+
+ (42) “Working day” means a day that the employer is open for business. Unless the employer communicates this information to PERS, PERS will presume an employer’s “working day” is the same as a “business day,” as defined in section (4) of this rule. 
+
+ (43) “Year” means any period of 12 consecutive calendar months. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 238.650 
+ 
+ 
+ Statutes/Other Implemented:  ORS 237, ORS 238, ORS 238A & ORS 243 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PERS 3-2023, minor correction filed 02/06/2023, effective 02/06/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PERS 5-2021, amend filed 07/23/2021, effective 07/23/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PERS 3-2016, f. & cert. ef. 5-27-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PERS 12-2015, f. & cert. ef. 11-20-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PERS 13-2014, f. & cert. ef. 9-29-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PERS 1-2012, f. & cert. ef. 2-1-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PERS 3-2010, f. & cert. ef. 5-28-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PERS 1-2009, f. & cert. ef. 2-12-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PERS 4-2006, f. & cert. ef. 4-5-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PERS 19-2005, f. 11-1-05, cert. ef. 1-1-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PERS 15-2004, f. & cert. ef. 6-15-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PERS 9-2004(Temp), f. 4-15-04 cert. ef. 5-21-04 thru 7-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PERS 15-2003, f. & cert. ef. 12-15-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PERS 14-2003, f. & cert. ef. 11-20-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PERS 12-2003, f. & cert. ef. 11-14-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PERS 3-2003(Temp), f. 6-13-03, cert. ef. 7-1-03 thru 12-26-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PERS 2-1998, f. & cert. ef. 3-16-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

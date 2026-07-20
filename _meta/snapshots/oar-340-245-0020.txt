@@ -1,0 +1,383 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 245 CLEANER AIR OREGON 
+ 340-245-0020 
+ Definitions 
+ 
+ The definitions in OAR 340-200-0020, 340-204-0010, 340-246-0030, 340-247-0020 and this rule apply to this division. If the same term is defined in more than one of these rules, then the definitions in this division take precedence, followed by the definitions in OAR 340-200-0020, followed by the definitions in OAR 340-247-0020, followed by the definitions in OAR 340-246-0030, and finally the definitions in OAR 340-204-0010. 
+
+ (1) “ABEL” means a computer model developed by EPA that evaluates a corporation's or partnership's ability to afford compliance costs, cleanup costs or civil penalties. ABEL is available upon request from DEQ. 
+
+ (2) “Actual toxic air contaminant emission rate” means: 
+
+ (a) For an existing source, the toxic air contaminant emissions rate from the source’s actual production; or 
+
+ (b) For a new or reconstructed source, the toxic air contaminant emissions rate from the reasonably anticipated actual production by the new or reconstructed source. 
+
+ (3) “Acute” means evaluated over a 24-hour period or day. 
+
+ (4) “Acute exposure location” means an exposure location outside the boundary of a source being modeled for the maximum daily average concentrations of a toxic air contaminant, and that is: 
+
+ (a) A chronic exposure location; or 
+
+ (b) A location where people may spend several hours of one day. 
+
+ (5) “AERMOD” is the EPA approved steady-state air dispersion model, specified in 40 CFR part 51, Appendix W, "Guidelines on Air Quality Models (Revised)," that is the primary model used for the analysis of ambient concentrations for regulatory compliance. AERMOD uses a fully developed set of meteorological and terrain data. AERMOD stands for American Meteorological Society/Environmental Protection Agency Regulatory Model. AERMOD is available upon request from DEQ. 
+
+ (6) “AERSCREEN” is the EPA approved screening dispersion model, specified in 40 CFR part 51, Appendix W, "Guidelines on Air Quality Models (Revised)," based on AERMOD. The model uses conservative screening meteorology to produce estimates of "worst-case" concentration estimates that are equal to or greater than the estimates produced by AERMOD. AERSCREEN stands for American Meteorological Society/Environmental Protection Agency Regulatory Screening Model. AERSCREEN is available upon request from DEQ. 
+
+ (7) “Aggregate TEU Level” means the risk action levels, as identified under that name in OAR 340-245- 8010 Table 1, that aggregated TEUs may not exceed, based on a calculation of the cumulative risk of all aggregated TEUs. 
+
+ (8) “Aggregated TEUs” means all of a source’s TEUs that are identified by an owner or operator with total cumulative risk less than the Aggregate TEU Level. A TEU that is identified as one of the aggregated TEUs is referred to in the singular as an aggregated TEU. 
+
+ (9) “Area of impact” means the geographic area where risk is determined to be above the applicable Risk Action Level, and is determined by AERMOD or other comparable model approved by DEQ. 
+
+ (10) “Chronic” means evaluated over a one-year period or longer. 
+
+ (11) “Chronic exposure location” means an exposure location outside the boundary of a source being modeled for annual average concentrations of a toxic air contaminant, and can be either: 
+
+ (a) A residential exposure location; or 
+
+ (b) A nonresidential exposure location. 
+
+ (12) “Community Engagement Level” means the risk action levels, as identified under that name in OAR 340-245-8010 Table 1, at which DEQ will conduct community engagement. 
+
+ (13) “Construction permit” means a Construction Air Contaminant Discharge Permit issued under OAR chapter 340, division 216, or a Standard Air Contaminant Discharge Permit used for approval of Type 3 or 4 changes under OAR chapter 340, division 210. 
+
+ (14) “De minimis source” means a source whose excess cancer risk, chronic noncancer risk and acute noncancer risk estimates are each less than or equal to the Source Permit Level in OAR 340-245-8010 Table 1 when calculated based on the source’s capacity, as determined under OAR 340-245-0050(7). 
+
+ (15) “DEQ notice date” means the date that DEQ sends a notice to an owner or operator that a risk assessment is required. 
+
+ (16) “Environmental Justice” means equal protection from environmental and health hazards, and meaningful public participation in decisions that affect the environment in which people live, work, learn, practice spirituality, and play. Environmental Justice communities include minority and low-income communities, tribal communities, and other communities traditionally underrepresented in the public process. 
+
+ (17) “Excess cancer risk” means the probability of developing cancer resulting from exposure to toxic air contaminant emissions from a TEU or an entire source under an applicable exposure scenario, over and above the background rate of cancer. Excess cancer risk is expressed in terms of “X” in a million, and means that approximately “X” number of additional cases of cancer would be expected in a population of one million people subject to the applicable exposure scenario. 
+
+ (18) “Exempt source” means a source at which all TEUs are exempt TEUs or a source that has no TEUs that emit toxic air contaminants, as determined under OAR 340-245-0050(6). 
+
+ (19) “Exempt TEU” means a TEU that DEQ has determined is exempt under OAR 340-245-0060(3). An exempt TEU is not required to comply with any other requirements of this division, other than those applicable to qualify as an exempt TEU and OAR 340-245-0060(4)(c)(A). 
+
+ (20) “Existing source” means a source that: 
+
+ (a) Commenced construction before November 16, 2018; or 
+
+ (b) Submitted all necessary applications to DEQ under OAR 340 divisions 210 or 216 before November 16, 2018, and all such applications were deemed complete by DEQ. 
+
+ (21) “Existing TEU” means a TEU that is not a new or modified TEU. 
+
+ (22) “Exposure location” means a location where people, including sensitive populations, actually live or normally congregate and will be exposed to a toxic air contaminant present in the air, and thus be the location of an air quality modeling receptor at which toxic air contaminant concentrations and risk are evaluated. Exposure locations are associated with exposure scenarios and identified based on allowed land use zoning, except as allowed under OAR 340-245-0210(1)(a)(F) or when DEQ has sufficient information to determine that an area is being used in a manner contrary to its land use zoning. 
+
+ (23) “Exposure scenario” means a set of assumptions about how a population is exposed to toxic air contaminants. Included in the assumptions are the type of people exposed (e.g., children or adults), and the frequency and duration of exposure associated with the scenario (e.g., residential or occupational use). Exposure scenarios are associated with exposure locations (e.g., nonresidential child). 
+
+ (24) “Fixed capital cost” means the capital needed to purchase and construct all the depreciable components of a source. 
+
+ (25) “Hazard Index number” or “Hazard Index,” as defined in Oregon Laws 2018, chapter 102, section 2, means a number equal to the sum of the hazard quotients attributable to toxic air contaminants that have noncancer effects on the same target organs or organ systems. 
+
+ (26) “Hazard quotient,” as defined in Oregon Laws 2018, chapter 102, section 2, means a calculated numerical value that is used to evaluate noncancer health risk from exposure to a single toxic air contaminant. The calculated numerical value is the ratio of the air concentration of a toxic air contaminant to the noncancer Risk-Based Concentration at which no serious adverse human health effects are expected to occur. 
+
+ (27) “Immediate Curtailment Level” means the risk action levels, as identified under that name in OAR 340-245-8010 Table 1, at which DEQ will require immediate risk reduction as provided in OAR 340-245-0130(7). 
+
+ (28) “INDIPAY” means a computer model developed by EPA that evaluates an individual's ability to afford compliance costs, cleanup costs or civil penalties. INDIPAY is available upon request from DEQ. 
+
+ (29) “Inhalation Unit Risk” means the upper-bound lifetime excess cancer risk estimated to result from continuous exposure to a toxic air contaminant at a concentration of 1 µg/m³ in air. The interpretation of inhalation unit risk would be as follows: if unit risk = 2 × 10⁻⁶ per µg/m³, then two excess cancer cases (upper bound estimate) are expected to develop per one million people if exposed daily for 70 years to one microgram of the toxic air contaminant per cubic meter of air. 
+
+ (30) “Multipathway” means consideration of exposure pathways in addition to inhalation of chemicals in air, such as incidental ingestion and dermal contact with toxic air contaminants migrating to soil and water. 
+
+ (31) “MUNIPAY” means a computer model developed by EPA that evaluates a municipality's or regional utility's ability to afford compliance costs, cleanup costs or civil penalties. MUNIPAY is available upon request from DEQ. 
+
+ (32) “New or modified TEU” means: 
+
+ (a) A TEU at an existing source where one of the following criteria is met: 
+
+ (A) Approval to construct or operate under OAR 340-210-0205 through 340-210-0250 was not required for the TEU, and construction commenced on or after November 16, 2018; 
+
+ (B) Approval to construct or operate under OAR 340-210-0205 through 340-210-0250 is or was required for the TEU, and the owner or operator submitted the application on or after November 16, 2018; or 
+
+ (C) Approval to construct or operate under OAR 340-210-0205 through 340-210-0250 was required for the TEU, but the owner or operator did not obtain the approval as required, and construction commenced on or after the following, as applicable: 
+
+ (i) For Type 1 changes under OAR 340-210-0225, 10 days before November 16, 2018; 
+
+ (ii) For Type 2 changes under OAR 340-210-0225, 60 days before November 16, 2018; 
+
+ (iii) For Type 3 changes under OAR 340-210-0225, 120 days before November 16, 2018; and 
+
+ (iv) For Type 4 changes under OAR 340-210-0225, 240 days before November 16, 2018; 
+
+ (b) With respect to a modification to a TEU, approval to construct or operate refers to approval to construct or operate the modification. 
+
+ (33) “New source” means a source that: 
+
+ (a) Is not an existing source; or 
+
+ (b) Was an existing source that has moved to a new location that is not contiguous or adjacent to its original facility location on or after November 17, 2021, excluding existing sources permitted as portable sources. 
+
+ (34) “Noncancer risk” means the chance of noncancer harmful effects to human health resulting from exposure to toxic air contaminant emissions from a TEU or an entire source under an applicable exposure scenario. There are two types of noncancer risk, chronic and acute. Noncancer risk is expressed numerically using the Hazard Index. Below a Hazard Index of 1, adverse noncancer health effects are unlikely, and above a Hazard Index of 1, adverse noncancer health effects become more likely. 
+
+ (35) “Nonresident” means people who regularly spend time at a location but do not reside there. This includes, but is not limited to, children attending schools and daycare facilities and adults at workplaces. 
+
+ (36) “Nonresidential exposure location” means an exposure location outside the boundary of a source where people may reasonably be present for a few hours several days per week, possibly over a period of several years, and that is zoned for uses that do not allow residential use. A nonresidential exposure location includes nonresidential worker exposure locations and nonresidential child exposure locations. 
+
+ (37) “Notification area” means the area of impact or the area within a distance of 1.5 kilometers of a source, whichever is greater. 
+
+ (38) “Operating permit” means a General, Basic, Simple or Standard Air Contaminant Discharge Permit under OAR chapter 340, division 216 or an Oregon Title V Operating Permit under OAR chapter 340, division 218. 
+
+ (39) “Owner or operator” means any person who owns, leases, operates, controls, or supervises a stationary source. 
+
+ (40) “Permit Denial Level” means the risk action levels, as identified under that name in OAR 340-245- 8010 Table 1, at which DEQ will not approve an operating permit for a new or reconstructed source, as provided in OAR 340-245-0100(5). 
+
+ (41) “Pollution Prevention” means any practice that reduces, eliminates, or prevents pollution at its source, as described in OAR 340-245-0140. 
+
+ (42) “Reconstructed,” as defined in ORS 468A.335(5), means an individual project is constructed at an air contamination source that, once constructed, increases the hourly capacity of any changed equipment to emit, and where the fixed capital cost of new components exceeds 50 percent of the fixed capital cost that would have been required to construct a comparable new source. 
+
+ (43) “Residential exposure location” means an exposure location outside the boundary of a source where people may reasonably be present for most hours of each day over a period of many years, including individual houses and areas that are zoned to allow residential use either exclusively or in conjunction with other uses. 
+
+ (44) “Risk” means the chance of harmful effects to human health resulting from exposure to a toxic air contaminant emitted from a TEU or an entire source under an applicable exposure scenario. For the purpose of these rules, risk includes three types of risk: excess cancer risk, chronic noncancer risk, and acute noncancer risk. 
+
+ (45) “Risk Action Level” as identified under OAR 340-245-8010 Table 1, means the levels of risk posed by a source or a TEU at which particular requirements of these rules will apply, or the owner or operator will be required to take specific action, depending on the risk posed to the area of impact as described in these rules. 
+
+ (46) “Risk assessment” means a procedure that identifies toxic air contaminant emissions from a source or a TEU and calculates the risk from those emissions. This term specifically refers to the procedures under OAR 340-245-0050(8) through (11) and may include the results of air monitoring as allowed under OAR 340-245-0050(1)(c)(B). The procedures are designated Level 1 through Level 4, respectively, with complexity of a risk assessment increasing as the level numeration increases, (i.e., a Level 1 Risk Assessment is the simplest and a Level 4 Risk Assessment is the most complex). 
+
+ (47) “Risk Determination Ratio” means the calculated value used to determine compliance with noncancer Risk Action Levels for existing sources as determined under OAR 340-245-0200. 
+
+ (48) “Risk limit” means a condition or requirement in a permit or permit addendum that serves to limit the risk from a source or part of a source. Such conditions or requirements may include, but are not restricted to, limits on risk from the source or part of a source, limits on emissions of one or more toxic air contaminants, limits on emissions from one or more TEUs, or limits on source operation. 
+
+ (49) “Risk-Based Concentration” or “RBC” means the concentration of a toxic air contaminant listed in OAR 340-245-8010 Table 2 that, for the designated exposure scenario, results in an excess cancer risk of one in one million, or a noncancer hazard quotient of one for either chronic exposure or acute daily exposure. 
+
+ (50) “Risk Reduction Level” means the risk action levels, as identified under that name in OAR 340-245- 8010 Table 1, at which the owner or operator of an existing source will be required to have an approved Risk Reduction Plan under OAR 340-245-0130. 
+
+ (51) “Sensitive Population” means people with biological traits that may magnify the harmful effects of toxic air contaminant exposures that include individuals undergoing rapid rates of physiological change, such as children, pregnant women and their fetuses, and individuals with impaired physiological conditions, such as elderly people with existing diseases such as heart disease or asthma. Other sensitive populations include those with lower levels of protective biological mechanisms due to genetic factors and those with increased exposure rates. 
+
+ (52) “Significant TEU” means a TEU that is not an exempt TEU and is not an aggregated TEU. 
+
+ (53) “Source Permit Level” means the risk action levels, as identified under that name in OAR 340-245- 8010 Table 1. 
+
+ (54) “Source risk” means the cumulative risk from all toxic air contaminants emitted by all significant and aggregated TEUs at a source. 
+
+ (55) “TBACT Level” means the risk action levels, as identified under that name in OAR 340-245-8010 Table 1, below which an existing source will be considered to be in compliance with these rules without having to further reduce its risk, and above which will require the owner or operator of the existing source either to demonstrate that its significant TEUs meet TBACT or to further reduce risk from the source, under OAR 340-245-0050(1)(c). 
+
+ (56) “TLAER Level” means the risk action levels, as identified under that name in OAR 340-245-8010 Table 1, below which a new or reconstructed source will be considered to be in compliance with these rules, and above which will require the owner or operator of the new or reconstructed source to demonstrate that its significant TEUs meet TLAER, under OAR 340-245-0050(2)(b). 
+
+ (57) “Toxic Air Contaminant Permit Addendum” means written authorization that incorporates the requirements under this division into a permit by amending an Air Contaminant Discharge Permit or a Title V Operating Permit, or in the case of a source assigned to a General Air Contaminant Discharge Permit, means written authorization imposing requirements under this division as additional source- specific permit conditions. 
+
+ (58) “Toxics Best Available Control Technology” or “TBACT” means a toxic air contaminant emission limitation or emission control measure or measures based on the maximum degree of reduction of toxic air contaminants that is feasible, determined using the procedures in OAR 340-245-0220. 
+
+ (59) “Toxics emissions unit” or “TEU” means an emissions unit, or one or more individual emissions producing activities, that emit or have the potential to emit any toxic air contaminant, as designated under OAR 340-245-0060. 
+
+ (60) “Toxics Lowest Achievable Emission Rate” or “TLAER” means that rate of emissions which reflects the most stringent emission limitation which is achieved in practice by a source in the same class or category of sources as the proposed source, determined using the procedures in OAR 340-245-0220. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, ORS 468.065, 468A.025, 468A.040, 468A.050, 468A.070, 468A.155, Or Laws 2018, ch. 102, § 7, 468A.135, 468A.337 & 468A.345 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468.065, 468A.025, 468A.040, 468A.050, 468A.070, 468A.155, 468A.010, 468A.015, 468A.035, Or Laws 2018, ch. 102, § 7, 468A.337, 468A.345, 468A.335 & 468A.343 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 23-2021, amend filed 11/18/2021, effective 11/18/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 18-2021, amend filed 11/17/2021, effective 11/17/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 11-2020, amend filed 04/29/2020, effective 04/29/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 8-2020, amend filed 04/24/2020, effective 04/24/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 197-2018, adopt filed 11/16/2018, effective 11/16/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

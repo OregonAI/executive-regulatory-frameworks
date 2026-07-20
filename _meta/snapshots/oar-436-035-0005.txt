@@ -1,0 +1,508 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+   Temporary rule language in effect until 10/04/2026. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Workers' Compensation Division - Chapter 436 
+ 
+ 
+ 
+ 
+ Division 35 DISABILITY RATING STANDARDS 
+ 436-035-0005 
+ Definitions
+ 
+ 
+ As used in OAR 436-035-0001 through 436-035-0500, unless the context requires otherwise: 
+
+ (1) “Activities of daily living (ADL)” include, but are not limited to, the following personal activities required by an individual for continued well-being: eating/nutrition; self-care and personal hygiene; communication and cognitive functions; and physical activity, e.g., standing, walking, kneeling, hand functions, etc. 
+
+ (2) “Ankylosis” means a bony fusion, fibrous union, or arthrodesis of a joint. Ankylosis does not include pseudarthrosis or articular arthropathies. 
+
+ (3) “Date of issuance” means the mailing date of a notice of closure or Order on Reconsideration under ORS 656.268 and ORS 656.283(6). 
+
+ (4) “Dictionary of Occupational Titles” or (DOT) means the publication of the same name by the U.S. Department of Labor, Fourth Edition Revised 1991. 
+
+ (5) “Direct medical sequela” means a condition that is clearly established medically and originates or stems from an accepted condition. For example: The accepted condition is low back strain with herniated disc at L4-5. The worker develops permanent weakness in the leg and foot due to the accepted condition. The weakness is considered a “direct medical sequela”. 
+
+ (6) “Earning capacity” means impairment as modified by age, education, and adaptability. 
+
+ (7) “Irreversible findings” for the purposes of these rules are: 
+
+ (a) Arm: 
+
+ (A) Arm angulation; 
+
+ (B) Radial head resection; 
+
+ (C) Shortening; 
+
+ (b) Eye: 
+
+ (A) Enucleation; 
+
+ (B) Lens implant; 
+
+ (C) Lensectomy. 
+
+ (c) Gonadal: Loss of gonads resulting in absence of, or an abnormally high, hormone level. 
+
+ (d) Hand: 
+
+ (A) Carpal bone fusion; 
+
+ (B) Carpal bone removal. 
+
+ (e) Kidney: Nephrectomy; 
+
+ (f) Leg: 
+
+ (A) Knee angulation; 
+
+ (B) Length discrepancy; 
+
+ (C) Meniscectomy; 
+
+ (D) Patellectomy. 
+
+ (g) Lung: Lobectomy; 
+
+ (h) Shoulder: 
+
+ (A) Acromionectomy; 
+
+ (B) Clavicle resection. 
+
+ (i) Spine; 
+
+ (A) Compression, spinous process, pedicle, laminae, articular process, odontoid process, and transverse process fractures; 
+
+ (B) Diskectomy; 
+
+ (C) Laminectomy. 
+
+ (j) Spleen: Splenectomy; 
+
+ (k) Urinary tract diversion: 
+
+ (A) Cutaneous ureterostomy without intubation; 
+
+ (B) Nephrostomy or intubated uresterostomy; 
+
+ (C) Uretero-Intestinal. 
+
+ (l) Other: 
+
+ (A) Amputations/resections; 
+
+ (B) Ankylosed/fused joints; 
+
+ (C) Displaced pelvic fracture (“healed” with displacement); 
+
+ (D) Loss of opposition; 
+
+ (E) Organ transplants (heart, lung, liver, kidney); 
+
+ (F) Prosthetic joint replacements. 
+
+ (8) “Medical arbiter” means a provider qualified to be an attending physician under ORS 656.005(12)(b)(A) appointed by the director under OAR 436-010-0330. 
+
+ (9) “Offset” means to reduce a current permanent partial disability award, or portions of the award, by a prior Oregon workers’ compensation permanent partial disability award from a different claim. 
+
+ (10) “Physician’s release” means written notification, provided by the attending physician to the worker and the worker’s employer or insurer, releasing the worker to work and describing any limitations the worker has. 
+
+ (11) “Pre-existing condition” 
+
+ (a) Injury claims. For all industrial injury claims with a date of injury on or after Jan. 1, 2002, “pre-existing condition” means a condition that: 
+
+ (A) Is arthritis or an arthritic condition; or 
+
+ (B) Was treated or diagnosed before: 
+
+ (i) The initial injury in a claim for an initial injury or omitted condition; 
+
+ (ii) The onset of the new medical condition in a claim for a new medical condition; or 
+
+ (iii) The onset of the worsened condition in a claim for an aggravation under ORS 656.273 or 656.278. 
+
+ (b) Occupational disease claims. For all occupational disease claims with a date of injury on or after Jan. 1, 2002, “pre-existing condition” means a condition that precedes the onset of the claimed occupational disease, or precedes a claim for worsening under ORS 656.273 or 656.278. 
+
+ (12) “Preponderance of medical evidence” or “opinion” does not necessarily mean the opinion supported by the greater number of documents or greater number of concurrences; rather it means the more probative and more reliable medical opinion based upon factors including, but not limited to, one or more of the following: 
+
+ (a) The most accurate history, 
+
+ (b) The most objective findings, 
+
+ (c) Sound medical principles, or 
+
+ (d) Clear and concise reasoning. 
+
+ (13) “Redetermination” means a re-evaluation of disability under ORS 656.267, 656.268(10), 656.273, and 656.325. 
+
+ (14) “Regular work” means the job the worker held at the time of injury. 
+
+ (15) “Scheduled disability” means a compensable permanent loss of use or function that results from injuries to those body parts listed in ORS 656.214(3)(a) through (5). 
+
+ (16) “Social-vocational factors” means age, education, and adaptability factors under ORS 656.726(4)(f). 
+
+ (17) “Superimposed condition” means a condition that arises after the compensable injury or disease that contributes to the worker’s overall disability or need for treatment but is not the result of the original injury or disease. Disability from a superimposed condition is not rated. For example: The compensable injury results in a low back strain. Two months after the injury, the worker becomes pregnant (non-work related). The pregnancy is considered a “superimposed condition.” 
+
+ (18) “Unscheduled disability” means permanent loss of earning capacity as a result of a compensable injury, as described in these rules and arising from those losses under OAR 436-035-0330 through 436-035-0450. 
+
+ (19) “Work disability,” for the purposes of determining permanent disability, means impairment as modified by age, education, and adaptability to perform the job at which the worker was injured. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 656.726 
+ 
+ 
+ Statutes/Other Implemented:  ORS 656.005, 656.214, 656.267, 656.268, 656.273, 656.325 & 656.726 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 3-2026, temporary amend filed 04/08/2026, effective 04/08/2026 through 10/04/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 1-2015, f. 1-29-15, cert. ef. 3-1-15 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 8-2012, f. 11-26-12, cert. ef. 1-1-13 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 2-2010, f. 5-5-10, cert. ef. 6-1-10 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 10-2007, f. 11-1-07, cert. ef. 1-1-08 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 8-2005, f. 12-6-05, cert. ef. 1-1-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 9-2004, f. 10-26-04, cert. ef. 1-1-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 2-2003, f. 1-15-03 cert. ef. 2-1-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 6-1998, f. 5-13-98, cert. ef. 7-1-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 1-1997, f. 1-9-97, cert. ef. 2-15-97 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 3-1996, f. 1-29-96, cert. ef. 2-17-96 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 6-1992, f. 2-14-92, cert. ef. 3-13-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 2-1991, f. 3-26-91, cert. ef. 4-1-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 20-1990(Temp), f. & cert. ef. 11-20-90 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 18-1990(Temp), f. 9-14-90, cert. ef. 10-1-90 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 7-1988, f. 12-21-88, cert. ef. 1-1-89 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 2-1988, f. 6-3-88, cert. ef. 7-1-88 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

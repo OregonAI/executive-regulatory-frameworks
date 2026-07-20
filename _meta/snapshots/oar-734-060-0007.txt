@@ -1,0 +1,267 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Transportation 
+ Delivery and Operations Division - Chapter 734 
+ 
+ 
+ 
+ 
+ Division 60 SIGNS 
+ 734-060-0007 
+ Digital OAS Procedures 
+ 
+ (1) This rule describes the process for applying for a permit for a digital billboard. 
+
+ (2) Definitions for the purposes of this rule: 
+
+ (a) “Sign” means the sign structure, the display surfaces of the sign, and all other component parts of the sign. 
+
+ (b) “Retire” means to use a relocation credit such that it no longer exists or to remove an existing sign to become a relocation permit or credit for use. 
+
+ (c) “Digital Billboard” or “digital OAS” means an outdoor advertising sign (OAS) that is static and changes messages by any electronic process or remote control, provided that the change from one message to another message is no more frequent than once every eight seconds and the actual change process is accomplished in two seconds or less. 
+
+ (3) Qualifications for receiving a digital OAS permit: 
+
+ (a) The proposed site and digital billboard must meet all requirements of the OMIA including, but not limited to, the following: 
+
+ (A) The digital OAS is not illuminated by a flashing or varying intensity light. 
+
+ (B) The display surface of the digital OAS does not create the appearance of movement. 
+
+ (C) The digital OAS must operate at an intensity level of not more than 0.3 foot-candles over ambient light as measured by the distance to the sign depending upon its size. 
+
+ (D) The distance measurement for ambient light is: 150 feet if the display surface of the sign is 12 feet by 25 feet, 200 feet if the display surface is 10.5 by 36 feet, and 250 feet if the display surface is 14 by 48 feet. 
+
+ (b) Applicant must submit a completed application for a digital sign permit using the approved form that may be obtained by one of the following methods: 
+
+ (A) Requesting from Sign Program Staff; 
+
+ (B) Email: OutdoorAdvertising@odot.oregon.gov; 
+
+ (C) Website: https://www.oregon.gov/odot/row/pages/outdoor-advertising-sign.aspx. 
+
+ (c) The Department shall confirm that any existing permitted Outdoor Advertising Sign or relocation credit being retired for the purpose of receiving a new digital OAS permit has been removed within the 180 days allowed to construct the new permitted sign. The Department will not charge a Banking Permit Fee for the cancellation of state sign permits retired for the purpose of receiving a new digital billboard permit. 
+
+ (4) If an outdoor advertising sign being relocated is relocated as a digital OAS or if an outdoor advertising sign being reconstructed is reconstructed as a digital OAS, an applicant for a digital sign permit under ORS 377.725 shall either remove one existing outdoor advertising sign and retire the permit for that sign or retire one relocation credit for each digital sign face. The permit or relocation credit retired must be for signs with a display surface of at least 250 square feet. 
+
+ (a) All permits and relocation credits submitted under these procedures will be permanently cancelled (retired) and are not eligible for renewal. 
+
+ (b) Any state sign permits submitted for retirement must include the written statement notifying the Department that the “lease has been lost or cancelled.” 
+
+ (5) Two digital OAS permits are required for any back to back or V-type digital sign. A separate application is required for each digital sign face. 
+
+ (6) The first time a digital OAS is permitted it is not subject to the 100-mile rule in ORS 377.767(4). The site of the newly permitted billboard will become the established location for future reference. 
+
+ (7) Relocation of permitted digital OAS. The Department will issue one digital relocation credit for each permitted digital sign that is removed. The digital relocation credit issued will be for the same square footage as the permitted digital sign that was removed. A digital relocation credit can only be used to relocate a digital billboard. A permitted digital sign can only be reconstructed as a digital billboard. 
+
+ (8) Use of renewable energy resource. The applicant must provide a statement with the application that clarifies what, if any, renewable energy resources are available at the site and are being utilized. If none, then a notarized statement to that effect must be included with the application. 
+
+ (9) All permitted digital billboards must have the capacity to either freeze in a static position or display a black screen in the event of a malfunction. 
+
+ (a) The applicant must provide emergency contact information that has the ability and authority to make modifications to the display and lighting levels in the event of emergencies or a malfunction. 
+
+ (b) The Department will notify the sign owner of a malfunction that has been confirmed by ODOT in the following instances: 
+
+ (A) The light impairs the vision of a driver of any motor vehicle; or 
+
+ (B) The message is in violation of ORS 377.710(6) or 377.720(3)(d). 
+
+ (10) All digital billboard signs must comply with the light intensity and sensor requirements of ORS 377.720(3)(d). 
+
+ (a) The Department will take measurements of the permitted digital billboard when notified that the sign has been constructed and the permit plate has been installed. 
+
+ (b) The Department will use an approved luminance meter designed for use in measuring the amount of light emitted from digital billboards using the industry standard for size and distance as follows: 
+
+ (A) 150 feet for 12’x 25.’ 
+
+ (B) 200 feet for 10.5’x 36’. 
+
+ (C) 250 feet for 14’x 48’. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 184.617, 184.619, 377.715, 377.725 & 377.831 
+ 
+ 
+ Statutes/Other Implemented:  ORS 377.705, 377.720, 377.725, 377.750, 377.767 & 377.831 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOD 5-2025, amend filed 12/11/2025, effective 01/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HWD 11-2014, f. & cert. ef. 12-19-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HWD 6-2012, f. & cert. ef. 3-26-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HWD 9-2011(Temp), f. 8-24-11, cert. ef. 9-29-11 thru 3-26-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

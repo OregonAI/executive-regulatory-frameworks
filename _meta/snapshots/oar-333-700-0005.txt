@@ -1,0 +1,344 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 700 LICENSING STANDARDS FOR OUTPATIENT RENAL DIALYSIS FACILITIES 
+ 333-700-0005 
+ Definitions
+ 
+ 
+ As used in OAR chapter 333, division 700, unless the context requires otherwise, the following definitions apply: 
+
+ (1) "Administrator" means a person designated by the governing body to have overall management of the facility. The administrator enforces the rules and regulations relative to the health care and safety of patients. The administrator plans, organizes, and directs those responsibilities delegated to the administrator by the governing body. 
+
+ (2) "Agreement", as used in these rules, means a written document executed between a dialysis facility and another facility in which the other facility agrees to assume responsibility for furnishing specified services to patients and for obtaining reimbursement for those services. 
+
+ (3) "Arrangement", as used in these rules, means a written document executed between a dialysis facility and another facility in which the other facility agrees to furnish specified services to patients but the dialysis facility retains responsibility for those services and for obtaining reimbursement for them. 
+
+ (4) “Assessment” means a complete assessment done by a physician, registered nurse, social worker, or dietitian that is appropriate for the scope of practice for that discipline. Assessment includes: 
+
+ (a) Systematic and ongoing collection of information to determine an individual's health status and need for intervention; 
+
+ (b) Comparison with past information; and 
+
+ (c) Judgment, evaluation, or conclusion that occurs as a result of subsections (a) and (b) of this section. 
+
+ (5) "Authentication" means verification that an entry in the patient medical record is genuine. 
+
+ (6) “Authority” means the Oregon Health Authority. 
+
+ (7) "Certified Hemodialysis Technician" (CHDT) has the meaning given that term in ORS 688.625. 
+
+ (8) "CMS" means the Center for Medicare and Medicaid Services. 
+
+ (9) “Conditions for Coverage” (CfC) means the minimum health and safety standards that providers and suppliers must meet in order to be Medicare and Medicaid certified. 
+
+ (10) "Dialysis" means a process by which dissolved substances are removed from a patient's body by diffusion from one fluid compartment to another across a semi-permeable membrane. The two types of dialysis that are currently in common use are hemodialysis and peritoneal dialysis. 
+
+ (11) "Discharge", as used in these rules, means the process whereby a patient who was receiving services in a facility is either sent home, transferred to another facility or has died. 
+
+ (12) “Division” means the Public Health Division of the Oregon Health Authority. 
+
+ (13) "End-Stage Renal Disease (ESRD)" means that stage of renal impairment that appears irreversible and permanent, and requires a regular course of dialysis or kidney transplantation to maintain life. 
+
+ (14) "ESRD service" means the type of care or services furnished to a dialysis patient. 
+
+ (15) "Facility", as used in these rules, means an outpatient renal dialysis facility. 
+
+ (16) "Furnishes directly" means the facility provides the service through its own staff and employees, or through individuals who are under direct contract to furnish such services personally for the facility (i.e., not through Agreements" or "arrangements"). 
+
+ (17) "Furnishes on the premises" means the facility furnishes services on its main premises; or on its other premises that are contiguous with or in immediate proximity to the main premises, and under the direction of the same professional staff and governing body as the main premises. 
+
+ (18) "Governing body" means the body or person legally responsible for the direction and control of the operation of the facility. 
+
+ (19) "Governmental unit" means the state, or any county, municipality, or other political subdivision, or any related department, division, board or other agency. 
+
+ (20) "Health care facility" (HCF) has the meaning given that term in ORS 442.015. 
+
+ (21) "Health Care Facility Licensing Law" means ORS 441.005 through 441.990 and implementing rules. 
+
+ (22) "Histocompatibility testing" means laboratory test procedures which determine compatibility between a potential organ donor and a potential organ transplant recipient. 
+
+ (23) “Hospital” has the meaning given that term in ORS 442.015. 
+
+ (24) "Licensed" means that the person to whom the term is applied is currently licensed, certified or registered by the proper authority to follow his or her profession or vocation within the State of Oregon, and when applied to a health care facility means that the facility is currently licensed by the Authority. 
+
+ (25) "Licensed nurse" means a nurse licensed under ORS Chapter 678 to practice registered or practical nursing. 
+
+ (26) "Licensed Practical Nurse" (LPN) means a person licensed under ORS Chapter 678 to practice practical nursing. 
+
+ (27) “Major alteration” means any structural change to the foundation, roof, floor, or exterior or load bearing walls of a building, or the extension of an existing building to increase its floor area. Major alteration also means the extensive alteration of an existing building such as to change its function and purpose, even if the alteration does not include any structural change to the building. 
+
+ (28) "Network" means Northwest Renal Network (Network 16). The Network is a Quality Improvement Organization under contract to the federal Centers for Medicare and Medicaid Services. 
+
+ (29) "New Construction" means a new building or an addition to an existing building. 
+
+ (30) "NFPA" means National Fire Protection Association. 
+
+ (31) "Outpatient dialysis" means dialysis furnished by a licensed outpatient renal dialysis facility. Outpatient dialysis includes: 
+
+ (a) Staff-assisted dialysis. Dialysis performed by the staff of the facility; 
+
+ (b) Self-dialysis. Dialysis performed, with little or no professional assistance, by a dialysis patient who has completed an appropriate course of training; 
+
+ (c) "Home dialysis" means dialysis performed by an appropriately trained patient or helper at home; 
+
+ (d) "Self-dialysis and home dialysis training" means a program that trains dialysis patients to perform self-dialysis or home dialysis with little or no professional assistance, and trains other individuals to assist patients in performing self-dialysis or home dialysis. 
+
+ (32) “Outpatient Mobile dialysis” means hemodialysis treatments provided by qualified personnel in a patient's home, whether that is a private residence or care facility. 
+
+ (33) "Organ procurement", as used in these rules, means the process of acquiring donor kidneys. 
+
+ (34) "Oregon Sanitary Code" means the Food Sanitation Rules in OAR 333-150. 
+
+ (35) "Patient audit" means review of the medical record and physical inspection and interview of a patient. 
+
+ (36) "Patient care staff" as used in these rules means registered nurses, licensed practical nurses, certified hemodialysis technicians, social workers, and dieticians. 
+
+ (37) "Person" has the meaning given that term in ORS 442.015. 
+
+ (38) "Physician" means a person licensed under ORS Chapter 677 to practice medicine by the Oregon Medical Board. 
+
+ (39) "Physician associate" has the meaning given that term in ORS 677.495. 
+
+ (40) "Qualified instructor" means a person who is qualified in the field of instruction by education and experience. 
+
+ (41) "Qualified personnel" means personnel who meet the requirements specified in this section. 
+
+ (a) "Dietitian" means a person who is a licensed dietitian as specified in ORS 691.435. 
+
+ (b) "Nurse responsible for nursing service" means a person who is licensed as a registered nurse by the state in which practicing, and 
+
+ (A) Has at least 12 months of experience in clinical nursing, and an additional 6 months of experience in nursing care of the patient with permanent kidney failure or who is undergoing kidney transplantation including training in and experience with the dialysis process; or 
+
+ (B) Has 18 months of experience in nursing care of the patient on maintenance dialysis, or in nursing care of the patient with a kidney transplant including training in and experience with the dialysis process. 
+
+ (c) "Physician-director" or medical director means a physician who: 
+
+ (A) Is Board-certified in internal medicine or pediatrics by a professional board, and has had at least 12 months of experience or training in the care of patients at dialysis facilities; or 
+
+ (B) As of April 1, 2012 served for at least 12 months as director of a dialysis or transplantation program. 
+
+ (d) "Social worker" means a person who: 
+
+ (A) Has completed a course of study with specialization in clinical practice at, and holds a masters degree from, a graduate school of social work accredited by the Council on Social Work Education; or 
+
+ (B) Has served for at least two years as a social worker, one year of which was in a dialysis unit or transplantation program prior to September 1, 1976, and has established a consultative relationship with a social worker who qualifies under paragraph (d)(A) of this definition. 
+
+ (e) "Transplantation surgeon" means a physician who: 
+
+ (A) Is board-eligible or board-certified in general surgery or urology by a professional board; and 
+
+ (B) Has at least 12 months training or experience in the performance of renal transplantation and the care of patients with renal transplants. 
+
+ (42) "Records" are defined as case histories, clinical records, X-rays, treatment charts, progress reports and other similar written accounts of the patients of any provider. 
+
+ (43) "Registered Nurse" (RN) means a person licensed under ORS Chapter 678 to practice registered nursing. 
+
+ (44) “Statement of deficiencies” means a document issued by the Division that describes a facility’s deficiencies in complying with health care facility licensing laws or conditions for coverage. 
+
+ (45) “Survey” means an inspection of a facility to determine the extent to which a facility is in compliance with health facility licensing laws and conditions for coverage. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 441.015 & 441.025 
+ 
+ 
+ Statutes/Other Implemented:  ORS 441.025 & 442.015 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 60-2024, minor correction filed 06/06/2024, effective 06/06/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 4-2012, f. 3-30-12, cert. ef. 4-1-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 11-2011, f. & cert. ef. 10-27-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 5-2011(Temp), f. & cert. ef. 7-1-11 thru 12-27-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 7-2003, f. & cert. ef. 6-6-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

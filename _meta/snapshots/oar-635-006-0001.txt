@@ -1,0 +1,498 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Fish and Wildlife 
+ Chapter 635 
+ 
+ 
+ 
+ 
+ 
+ Division 6 COMMERCIAL FISHERIES: GEAR, LICENSES, POUNDAGE FEES, RECORDS AND REPORTS 
+ 635-006-0001 
+ Definitions 
+ 
+ 
+ As used in Division 006 regulations: 
+
+ (1) “Board” means the Commercial Fishery Permit Board. 
+
+ (2) “Boat” means any vessel, any floating craft, powered, towed, rowed or otherwise propelled which is used for landing or taking food fish, as specified in ORS 506.006. 
+
+ (3) “Buy” includes offer to buy, barter, exchange or trade. 
+
+ (4) “Commercial fishing license” means the commercial fishing licenses required by ORS 508.235. 
+
+ (5) “Commercial purposes” means taking food fish with any gear unlawful for angling, or taking or possessing food fish in excess of the limits permitted for personal use, or taking, fishing for, handling, processing, or otherwise disposing of or dealing in food fish with the intent of disposing of such food fish or parts thereof for profit, or by sale, barter or trade, in commercial channels, as specified in ORS 506.006. 
+
+ (6) “Commission” means the State Fish and Wildlife Commission created by ORS 496.090. 
+
+ (7) “Department” means the State Department of Fish and Wildlife, as specified in ORS 506.006. 
+
+ (8) “Director” means the Director of the Oregon Department of Fish and Wildlife appointed pursuant to ORS 496.112. 
+
+ (9) “Dock receipt” means a document that is used to record all of the required landing information at the time of landing when an electronic fish ticket cannot be prepared and submitted until a later date. 
+
+ (10) “Electronic fish ticket” means a fish receiving ticket that is entered and submitted through the Pacific States Marine Fisheries Commission West Coast E-Ticket system, or a printed copy thereof for the purposes of keeping records required by OAR 635-006-0200 and obtaining signatures. 
+
+ (11) “Fair market value” shall be established as provided in OAR 635-006-0232. 
+
+ (12) “Fish buyer” means an individual employed by a wholesale fish dealer or food fish canner to purchase or receive food fish or shellfish from commercial fishers at locations other than the licensed premises of the wholesale fish dealer or food fish canner. 
+
+ (13) “Fish-buying station” means a location other than the licensed premises of a wholesale fish dealer or food fish canner at which such wholesale fish dealer or food fish canner purchases or receives food fish or shellfish from commercial fishers. 
+
+ (14) “Fishing” means catching, taking or harvesting food fish that results in or can be reasonably expected to result in the sale, barter, trade or other disposition of fish for other than personal use or consumption. 
+
+ (15) “Fishing gear” means, as specified in ORS 506.006, any appliance or device intended for or capable of being used to take food fish for commercial purposes, and includes: 
+
+ (a) “Fixed gear” means longline, trap or pot, setnet, and stationary hook-and-line (including vertical hook-and-line) gears; 
+
+ (b) “Gillnet” has the meaning as set forth in OAR 635-042-0010; 
+
+ (c) “Hook-and-line” means one or more hooks attached to one or more lines; 
+
+ (d) “Lampara net” means a surrounding net with the sections of netting made and joined to create bagging. It is hauled with purse rings and is generally much smaller in size than a purse seine net; 
+
+ (e) “Longline” means a stationary buoyed, and anchored groundline with hooks attached; 
+
+ (f) “Mesh size” means the opening between opposing knots. Minimum mesh size means the smallest distance allowed between the inside of one knot to the inside of the opposing knot regardless of twine size; 
+
+ (g) “Pot or trap” means a portable, enclosed device with one or more gates or entrances and one or more lines attached to surface floats; 
+
+ (h) “Purse seine” means an encircling net that may be closed by a purse line threaded through the bottom of the net. Purse seine gear includes ring net, drum purse seine, and lampara nets; 
+
+ (i) “Seine” means any non-fixed net other than a trawl or gillnet; 
+
+ (j) “Setline” means a bottom longline used in rivers and estuaries for targeting white sturgeon; 
+
+ (k) “Set net” means a stationary, buoyed and anchored gillnet or trammel net which takes fish commonly by gilling and is not free to move or drift with the current or tide; 
+
+ (l) “Spear” means a sharp, pointed, or barbed instrument on a shaft; 
+
+ (m) “Trammel net” means a gillnet made with two or more walls joined to a common float line; 
+
+ (n) “Trawl gear” means a cone or funnel-shaped net which is towed or drawn through the water by one or two vessels; 
+
+ (o) “Troll” means fishing gear that consists of 1 or more lines that drag hooks with bait or lures behind a moving fishing vessel, and which lines are affixed to the vessel and are not disengaged from the vessel at any time during the fishing operation; and 
+
+ (p) “Vertical hook and line” means a line attached to the vessel or to a surface buoy vertically suspended to the bottom by a weight or anchor, with hooks attached between its surface and bottom end. 
+
+ (16) “Fishing trip” means a period of time between landings when fishing is conducted. 
+
+ (17) “Food Fish” means any animal over which the State Fish and Wildlife Commission has jurisdiction, as specified in ORS 506.036. 
+
+ (18) “Food fish canner” means a wholesale fish dealer who cans food fish including shellfish in hermetically sealed containers whereby no further preservation, artificial or otherwise, is required. 
+
+ (19) “Groundfish” means all species of ocean food fish defined as groundfish in the Pacific Coast Groundfish Fishery Management Plan and in the Federal Groundfish Regulations, Title 50, Part 660 (See OAR 635-004-0240). 
+
+ (20) “Harvester” means any person legally authorized to take food fish for commercial purposes. 
+
+ (21) “Import” means to transport into Oregon from outside the State of Oregon. 
+
+ (22) “Inland waters” means all waters of the state except the Pacific Ocean. 
+
+ (23) “Land, Landed or Landing” means either of the following: 
+
+ (a) For fisheries where food fish were taken by use of a vessel, “land, landed or landing” means to begin transfer of food fish from a vessel. Once transfer begins, all food fish on board the vessel are counted as part of that landing, except: 
+
+ (A) Anchovies being held live on a vessel for the purpose of using for bait in that vessel’s commercial fishing operation; and 
+
+ (B) For vessels participating in the federal trawl rationalization program, the portion of catch that is intended to be delivered to Washington or California is not considered part of that landing. 
+
+ (b) For fisheries where food fish were taken without use of any vessel, “land, landed or landing” means to begin transfer of food fish from a harvester to a wholesale fish dealer, wholesale fish bait dealer, or food fish canner, under which the following provisions apply: 
+
+ (A) When the harvester and the wholesale fish dealer, wholesale fish bait dealer, or food fish canner are the same person or entity, transfer occurs when the food fish arrive at the licensed premises of the wholesale fish dealer, wholesale fish bait dealer, or food fish canner; and 
+
+ (B) Once transfer begins, all food fish from the harvest area are counted as part of that landing. 
+
+ (24) “Landing fees” means all fees due to the Department based on the pounds of fish or value of fish landed. 
+
+ (25) “Length” or “Length Overall” of a vessel means the manufacturer’s specification of overall length, United States Coast Guard or Marine Board registered length documentation stating overall length or overall length as surveyed by a certified marine surveyor. In determining overall length, marine surveyors shall measure in a straight line parallel to the keel from the foremost part of the vessel to the aftermost part, excluding sheer and excluding bow sprits, boomkins, rudders aft of the transom, outboard motor brackets, or transom extensions as in a dive step or platform. 
+
+ (26) “Limited fish seller” means any person who holds a valid Oregon commercial fishing license and who has obtained an annual Limited Fish Seller Permit which enables the fisher to sell any species of food fish taken in lawful activity directly from his or her boat, as specified in ORS 508.550. 
+
+ (27) “Non-reporting fish dealer” means a wholesale fish dealer or fish bait dealer who buys food fish exclusively from other wholesale fish dealers or bait dealers. 
+
+ (2 8 ) “Overage” means any landing or portion of a landing that exceeds groundfish trip limits. Groundfish trip limits are approved by Pacific Fisheries Management Council and implemented by the National Marine Fisheries Service. 
+
+ (2 9 ) “Owner” means any ownership interest in a vessel, including interests arising from partnerships, corporations, limited liability corporations, or limited liability partnerships. Owner does not include a leasehold interest. 
+
+ (30) “Pacific Ocean” means all water seaward of the end of the jetty or jetties of any river, bay, or tidal area, except the Columbia River boundary with the Pacific Ocean is as specified in OAR 635-003-0005, or all water seaward of the extension of the shoreline high watermark across the river, bay, or tidal area where no jetties exist. 
+
+ ( 31 ) “Possession” means holding any food fish, shellfish or parts thereof in a person’s custody or control. 
+
+ (32) “Process or Processing” means fresh packaging requiring freezing of food fish, or any part thereof, or any type of smoking, reducing, loining, steaking, pickling or filleting. Cooking crab is not considered processing. 
+
+ (33) “Processor” means a person who buys fresh food fish from a licensed commercial fisher or a wholesale fish dealer and processes food fish for sale through retail outlets or for sale to the ultimate consumer. 
+
+ (34) “Purchase” means to obtain by paying money or its equivalent, trade, or barter. 
+
+ (35) “Receive” or "Receiving" means to take or come into possession of. 
+
+ (36) “Replacement vessel” means a vessel purchased to replace a permitted vessel which had been lost due to fire, capsizing, sinking or other event. 
+
+ (37) “Resident” means an actual bona fide resident of this state for at least one year immediately prior to application. 
+
+ (38 ) “Retail fish bait dealer” means a person who buys fresh food fish or shellfish from a wholesale fish dealer or wholesale fish bait dealer and sells to the ultimate consumer for use as bait. 
+
+ (39) “Retail fish dealer” means a person who buys fresh food fish or shellfish from wholesale fish dealers, undertakes limited processing activity (limited to loining of tuna, filleting, smoking, steaking, or pickling food fish or shellfish), and sells only to the ultimate consumer. 
+
+ (40) “Retain” means to keep in possession or use. 
+
+ ( 41 ) “Security interest” means an interest in a vessel or permit granted by the owner of the vessel or permit to a third party under a security agreement, pursuant to ORS Chapter 79, another state’s laws enacted to implement Article 9 of the Uniform Commercial Code or equivalent federal statutory provisions for federally documented vessels. 
+
+ (42) “Sell” includes to offer or possess for sale, barter, exchange or trade. 
+
+ (43) “Shellfish canner” means a wholesale fish dealer who cans only shellfish in hermetically sealed containers whereby no further preservation, artificial or otherwise, is required. 
+
+ (44) “Take” means fish for, hunt, pursue, catch, capture or kill or attempt to fish for, hunt, pursue, catch, capture or kill. 
+
+ (45) “Take home” means food fish that are sold commercially to a licensed wholesale fish dealer, reported on an electronic fish ticket and then purchased back for the purpose of private use by the harvester. 
+
+ (46) “Transport" means, for the purposes of OAR 635-006-0165, to move the food fish after landing. 
+
+ (47) “Trip limit” means the total amount of fish that may be taken and retained, possessed, or landed per vessel from a single fishing trip or cumulatively per unit of time. A vessel which has landed its cumulative or daily limit may continue to fish on the limit for the next legal period as long as the fish are not landed until the next period. Trip limits may be: 
+
+ (a) “Bi-monthly cumulative trip limit” means the maximum amount of fish that may be taken and retained, possessed or landed per vessel in specified bi-monthly periods. There is no limit on the number of landings or trips in each period, and periods apply to calendar months. The specified periods are as follows: 
+
+ (A) Period 1: January through February; 
+
+ (B) Period 2: March through April; 
+
+ (C) Period 3: May through June; 
+
+ (D) Period 4: July through August; 
+
+ (E) Period 5: September through October; and 
+
+ (F) Period 6: November through December. 
+
+ (b) “Daily trip limit” means the maximum amount of fish that may be taken and retained, possessed or landed per vessel in 24 consecutive hours, starting at 00:01 hours local time. Only one landing of groundfish may be made in that 24-hour period; 
+
+ (c) “Monthly trip limit” means the maximum amount of fish that may be taken and retained, possessed or landed per vessel during the first day through the last day of any calendar month. 
+
+ (d) “Weekly trip limit” means the maximum amount of fish that may be taken and retained, possessed or landed per vessel in 7 consecutive days, starting at 00:01 hours local time on Sunday and ending at 24:00 hours local time on Saturday. Weekly trip limits may not be accumulated during multiple week trips. If a calendar week falls within two different months or two different cumulative limit periods, a vessel is not entitled to two separate weekly limits during that week. 
+
+ (48) “Ultimate consumer” means the party that utilizes the product as food, including restaurants. 
+
+ (49) “Value” means the monetary value of the food fish, or parts thereof, including eggs and other by-products, at the point of landing as usually determined by the first exchange between the harvester and the first purchaser. In addition: 
+
+ (a) Value is typically the amount of money which the first purchaser pays at the time and place that the fish are off-loaded from a vessel, or brought to shore if there is no vessel involved in harvesting, before any reductions or deductions in the amount of money as a result of the dealer furnishing ice, fuel, food or other commodities; and 
+
+ (b) Value includes bonuses and other payments based directly on the quantity or quality of food fish exchanged, regardless of the time of payment of such bonuses or other payments; and 
+
+ (c) Value includes any payments based on the proportion or percentage of processed products recovered from the food fish landed in the round or other form; and 
+
+ (d) Value for food fish not sold by the harvester is the value received for comparable fish sold to a wholesale fish dealer at the same time and place that the fish are landed; and 
+
+ (e) Value for food fish purchased from a harvester, by the harvester when acting as a wholesale fish dealer, is the price that is or would be paid to any other harvester for the same fish; and 
+
+ (f) Value for food fish sold by a limited fish seller is the retail price received by the harvester from the first purchaser; and 
+
+ (g) Value for food fish imported from out of state but not previously taxed out of state is the price paid for the fish by the first Oregon purchaser. 
+
+ (50) “Vessel operator” means the person onboard a fishing vessel who is responsible for leading a fishing vessel in fishing or transit operations, and who signs the corresponding electronic fish ticket or dock receipt from that fishing trip. A vessel operator may be a vessel or permit owner or both, individual hired to operate a vessel, or lessee of a vessel, permit or both. Although more than one person may physically operate a vessel during a fishing trip or transit, there may only be one person identified as a vessel operator (commonly referred to as a captain or skipper) on a fishing vessel during any one fishing trip or transit. 
+
+ ( 51 ) “Waters of this state” means all waters over which the State of Oregon has jurisdiction, or joint or other jurisdiction with any other state or government, including waters of the Pacific Ocean and all bays, inlets, lakes, rivers and streams within or forming the boundaries of this state. 
+
+ (52) “Weighbacks” means fish or shellfish with no commercial value. 
+
+ (53) “Wholesale fish bait dealer” means a person who buys food fish or shellfish, or parts thereof, from a licensed commercial fisher, licensed commercial bait fisher, or licensed angler, and sells or uses such food fish or shellfish for bait, scientific or educational purposes, or live public display. 
+
+ (54) “Wholesale fish dealer” means a person who: 
+
+ (a) Buys food fish or shellfish from a commercial fisher; or 
+
+ (b) Processes food fish or shellfish or any part thereof; or 
+
+ (c) Sells food fish or shellfish to retail dealers or other wholesale fish dealers. 
+
+ (55 ) “Working day” means Monday through Friday, excluding Oregon legal holidays. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 506.119 & ORS 506.129 
+ 
+ 
+ Statutes/Other Implemented:  ORS 506.109, ORS 508.025, ORS 508.040 & ORS 508.550 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DFW 152-2025, amend filed 12/31/2025, effective 01/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DFW 20-2024, amend filed 03/18/2024, effective 03/18/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DFW 147-2019, amend filed 09/30/2019, effective 01/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DFW 32-2013, f. & cert. ef. 5-14-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DFW 151-2012, f. 12-27-12, cert. ef. 1-1-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DFW 77-2012, f. 6-28-12, cert. ef. 7-1-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DFW 145-2009, f. 12-9-09, cert. ef. 1-1-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DFW 91-2009, f. & cert. ef. 8-10-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DFW 142-2008, f. & cert. ef. 11-21-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DFW 63-2003, f. & cert. ef. 7-17-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DFW 38-1999, f. & cert. ef. 5-24-99 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ FWC 142-1991, f. 12-31-91, cert. ef. 1-1-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

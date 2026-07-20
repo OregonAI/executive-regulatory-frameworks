@@ -1,0 +1,463 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 253 OREGON CLEAN FUELS PROGRAM 
+ 340-253-0600 
+ Records
+ 
+ 
+ (1) Records Retention. Registered parties must retain the following records for at least seven years: 
+
+ (a) Product transfer documents as described in section (2); 
+
+ (b) Records related to obtaining a carbon intensity or other value described in OAR 340-253-0450, OAR 340-253-0460, and OAR 340-253-0470; 
+
+ (c) Copies of all data and reports submitted to DEQ; 
+
+ (d) Records related to each fuel transaction; 
+
+ (e) Records used for compliance or credit calculations; 
+
+ (f) Records used to establish that feedstocks are specified source feedstocks; and 
+
+ (g) Records related to third-party verification, if required under OAR 340-253-0700. 
+
+ (2) Documenting Fuel Transactions. 
+
+ (a) Except as provided in subsection (b), fuel transactions must be documented through a product transfer document and include the information specified below: 
+
+ (A) Transferor company name, address, and contact information; 
+
+ (B) Recipient company name, address, and contact information; 
+
+ (C) Transaction date; 
+
+ (D) Fuel pathway code; 
+
+ (E) Carbon intensity; 
+
+ (F) Volume/amount; 
+
+ (G) A statement identifying whether the transferor or the recipient has the compliance obligation; 
+
+ (H) The EPA fuel production company identification number and facility identification number as registered with the RFS program; and 
+
+ (I) The state where the fuel will be delivered, if known at the time of sale. If unknown, then the PTD must state the destination as unknown. 
+
+ (b) For transactions of clear and blended gasoline and diesel below the rack where the fuel is not destined for export, only the records described in paragraphs (2)(a)(A), (B), (C), (F), and (G) are required to be retained. 
+
+ (3) Documenting Credit Transactions. Registered parties must retain the following records related to all credit transactions for at least seven years: 
+
+ (a) The contract under which the credits were transferred; 
+
+ (b) Documentation on any other commodity trades or contracts between the two parties conducting the transfer that are related to the credit transfer in any way; and 
+
+ (c) Any other records relating to the credit transaction, including the records of all related financial transactions. 
+
+ (4) Review by DEQ. All data, records, and calculations used by a registered party, a fuel producer, or fuel pathway holder registered under OAR 340-253-0500(2) to comply with OAR chapter 340, division 253 are subject to inspection and verification by DEQ. Registered parties, fuel producers, and fuel pathway holders must provide records retained under this rule within 30 calendar days after the date DEQ requests a review of the records, unless DEQ specifies otherwise. 
+
+ (5) Information exempt from disclosure. Pursuant to the provisions of the Oregon public records law, ORS 192.410 to 192.505, all information submitted to DEQ is subject to inspection upon request by any person unless such information is determined to be exempt from disclosure under the Oregon public records law or other applicable Oregon law. 
+
+ (6) Attestations regarding environmental attributes used for book and claim for renewable electricity, biomethane, or biogas. 
+
+ (a) A registered party reporting any fuel claimed in the CFP using a book and claim accounting method must retire RTCs or RECs that embody the full environmental attributes of that fuel in an electronic tracking system approved by DEQ. The quantity of energy covered by the RTC or the REC must match or exceed the volume of fuel claimed in the CFP. The environmental attributes embodied by that RTC or REC must not have been used or claimed in any other program or jurisdiction with the exception of the federal RFS, any reporting required under OAR chapter 340, division 215, and the program under OAR chapter 340, division 273. To be validly used in compliance with this division, any such claims under the federal RFS or OAR chapter 340, divisions 215 and 273, must be made for the same use and volume of biomethane or its derivatives as it is being claimed for in the CFP. 
+
+ (b) A fuel pathway holder using directly delivered renewable electricity, biogas or biomethane as a process energy or feedstock must obtain and keep attestations from each upstream party collectively demonstrating that such holder has exclusive right to use those environmental attributes. The attestation must include documentation that shows: 
+
+ (A) The entity claiming the environmental attributes for renewable electricity, biogas or biomethane in the CFP must have the exclusive right to claim the environmental attributes associated with the use of that fuel; and 
+
+ (B) The environmental attributes have not been used or claimed in any other program or jurisdictions with the exception of the federal RFS and any reporting required under OAR chapter 340, divisions 215 and 273. To be validly used in compliance with this division, any such claims under the federal RFS or OAR chapter 340, divisions 215 and 273 must be made for the same use and volume of biomethane or its derivatives as it is being claimed for in the CFP. 
+
+ (c) Any attestation or retirement records for biogas, biomethane, and renewable electricity must be provided to DEQ within seven calendar days of receiving a request for such attestation by DEQ. Failure to provide such attestations is grounds for credit invalidation under OAR 340-253-0670. 
+
+ (7) Monitoring plan for registered parties who are required to obtain third-party verification services under OAR 340-253-0700. Each registered party responsible for obtaining third-party verification of their data under OAR chapter 340, division 272 must complete and retain a written monitoring plan for review by a verifier or DEQ. If a fuel production facility is required to complete and maintain a monitoring plan by CARB, the same monitoring plan may be used to meet the requirements of this rule unless there are substantive differences between the two programs’ treatment of the fuel production process. A monitoring plan must include the following, as applicable: 
+
+ (a) All of the following general items are required for all monitoring plans: 
+
+ (A) Information to allow DEQ and the verification team to develop a general understanding of boundaries and operations relevant to the entity, facility, or project, including participation in other markets and other third-party audit programs; 
+
+ (B) Reference to management policies or practices applicable to reporting pursuant to this division, including recordkeeping; 
+
+ (C) Explanation of the processes and methods used to collect necessary data for reporting pursuant to this division, including identification of changes made after January 1, 2020; 
+
+ (D) Explanations and queries of source data to compile summary reports of intermediate and final data necessary for reporting pursuant to this division; 
+
+ (E) Reference to one or more simplified block diagrams that provide a clear visual representation of the relative locations and positions of measurement devices and sampling locations, as applicable, required for calculating reported data (e.g., temperature, total pressure, LHV or HHV, fuel consumption); the diagram(s) must include storage tanks for raw material, intermediate products, and finished products, fuel sources, combustion units, and production processes, as applicable; 
+
+ (F) Clear identification of all measurement devices supplying data necessary for reporting pursuant to this division, including identification of low flow cutoffs as applicable, with descriptions of how data from measurement devices are incorporated into the submitted report; 
+
+ (G) Descriptions of measurement devices used to report CFP data and how acceptable accuracy is demonstrated, e.g., installation, maintenance, and calibration method and frequency for internal meters and financial transaction meters; this provision does not apply to data reported in the Oregon Fuels Reporting System for generating credits for EV charging; 
+
+ (H) Description of the procedures and methods that are used for quality assurance, maintenance, and repair of all continuous monitoring systems, flow meters, and other instrumentation used to provide data for CFP reports; 
+
+ (I) Original equipment manufacturer (OEM) documentation or other documentation that identifies instrument accuracy and required maintenance and calibration requirements for all measurement devices used to collect necessary data for reporting pursuant to this division; 
+
+ (J) The dates of measurement device calibration or inspection, and the dates of the next required calibration or inspection; 
+
+ (K) Requests for postponement of calibrations or inspections of internal meters and subsequent approvals by DEQ. The entity must demonstrate that the accuracy of the measured data will be maintained pursuant to the measurement accuracy requirements of OAR 340-253-0450(13); 
+
+ (L) A listing of the equation(s) used to calculate flows in mass, volume, or energy units of measurement, and equations from which any non-measured parameters are obtained, including meter software, and a description of the calculation of weighted average transport distance; 
+
+ (M) Identification of job titles and training practices for key personnel involved in CFP data acquisition, monitoring, reporting, and report attestation, including reference to documented training procedures and training materials; 
+
+ (N) Records of corrective and subsequent preventative actions taken to address verifier and DEQ findings of past nonconformance and material misstatements; 
+
+ (O) Log of modifications to a fuel pathway report conducted after attestation in response to review by third-party verifier or DEQ staff; 
+
+ (P) Written description of an internal audit program that includes data report review and documents ongoing efforts to improve the entity’s CFP reporting practices and procedures, if such an internal audit program exists; and 
+
+ (Q) Methodology used to allocate the produced fuel quantity to each fuel pathway code; 
+
+ (b) Any monitoring plan related to a fuel pathway carbon intensity or reporting quantities of fuels must also include the following elements specific to fuel pathway carbon intensity calculations and produced quantities of fuels per fuel pathway code: 
+
+ (A) Explanation of the processes and methods used to collect necessary data for fuel pathway application and annual fuel pathway reports and all site-specific OR-GREET 3.0 inputs, as well as references to source data; 
+
+ (B) Description of steps taken, and calculations made to aggregate data into reporting categories, for example aggregation of quarterly fuel transactions per fuel pathway code; 
+
+ (C) Methodology for assigning fuel volumes by fuel pathway code, if not using a method prescribed by DEQ. If using a DEQ prescribed methodology, the methodology should be referenced; 
+
+ (D) Methodologies for testing conformance to specifications for feedstocks and produced fuels, particularly describing physical testing standards and processes; 
+
+ (E) Description of procedure taken to ensure measurement devices are performing in accordance with the measurement accuracy requirements of OAR 340-253-0450(12); 
+
+ (F) Methodology for monitoring and calculating weighted average feedstock transport distance and modes, including the specific documentation records that will be collected and retained on an ongoing basis; 
+
+ (G) Methodology for monitoring and calculating fuel transport distance and modes, including the specific documentation records that will be collected and retained on an ongoing basis; 
+
+ (H) References to contracts and accounting records that confirm fuel quantities were delivered into Oregon for use in carbon intensity determination, and confirm feedstock and finished fuel transportation distance; and 
+
+ (I) All documentation required pursuant to OAR 340-253-0600(8) for specified source feedstocks, defined in OAR 340-253-0400(6); and 
+
+ (c) The monitoring plan must also include documentation that can be used to justify transaction types reported for fuel in the Oregon Fuels Reporting System, including the production amount, sale/purchase agreements and final fuel dispensing records. Such documentation must be specific to quarterly fuel transactions reports for importers of blendstocks, importers of finished fuels, Oregon producers, credit generators, aggregators, and out-of-state producers. 
+
+ (8) Feedstock Transfer Documents. A feedstock transfer document for specified source feedstocks must prominently state the following information: 
+
+ (a) Transferor company name, address and contact information; 
+
+ (b) Recipient company name, address and contact information; 
+
+ (c) Type and amount of feedstock, including units; and 
+
+ (d) Transaction date. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, 468A.266, 468A.268 & 468A.277 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468.020 & ORS 468A.265 - 468A.277 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 6-2025, minor correction filed 02/21/2025, effective 02/21/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 2-2025, amend filed 01/09/2025, effective 01/09/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 18-2024, amend filed 11/22/2024, effective 11/22/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 17-2022, amend filed 09/23/2022, effective 01/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 7-2021, amend filed 03/26/2021, effective 03/26/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 14-2020, amend filed 05/07/2020, effective 05/07/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 199-2018, amend filed 11/16/2018, effective 01/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 27-2017, amend filed 11/17/2017, effective 11/17/2017 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 13-2015, f. 12-10-15, cert. ef. 1-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 3-2015, f. 1-8-15, cert. ef. 2-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 8-2014, f. & cert. ef. 6-26-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 15-2013(Temp), f. 12-20-13, cert. ef. 1-1-14 thru 6-30-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 8-2012, f. & cert. ef. 12-11-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

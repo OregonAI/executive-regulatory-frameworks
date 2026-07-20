@@ -1,0 +1,195 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 123 THERAPEUTIC RADIATION MACHINES 
+ 333-123-0145 
+ Superficial Electronic Brachytherapy: Calibration, Acceptance Testing and Commissioning 
+ 
+ (1) Full calibration, acceptance testing and commissioning must be performed by, or under the direct supervision of a qualified medical physicist. 
+
+ (2) Acceptance testing and commissioning shall be performed in accordance with industry standards of practice and the manufacturer’s specifications. Acceptance testing and commissioning shall be conducted before the first patient treatment following installation or re-installation of the superficial electronic brachytherapy device. 
+
+ (3) Full calibration must include all applicable parameters in accordance with industry standards of practice and implement all of the manufacturer’s specifications to determine that all parameters of the superficial brachytherapy device are within acceptable limits. Full calibration must be completed: 
+
+ (a) Before the first medical use after installation or reinstallation; 
+
+ (b) Whenever quality assurance check measurements indicate that the radiation output differs by more than five percent from the value obtained at the last full calibration and the difference cannot be reconciled. Superficial brachytherapy device with multi-energy or multi-mode capabilities must only require measurements for those modes or energies that are not within their acceptable range; 
+
+ (c) Following any component replacement, major repair, or modification of components that could significantly affect the characteristics of the radiation beam. If the repair, replacement or modification does not affect all modes and energies, measurements must be performed on the effected mode and energy that is in most frequent clinical use at the facility; (d) At intervals not exceeding 12 months, although it shall not be necessary to complete all elements of a full calibration at the same time, all applicable parameters (for all energies) shall be completed. 
+
+ (4) The registrant must maintain a record of each full calibration for the duration of the registration. The record must include: 
+
+ (a) The date of the calibration; 
+
+ (b) The manufacturer's name, model number, and serial number for both the therapeutic radiation machine and the X-ray tube; 
+
+ (c) The model numbers and serial numbers of the instruments used to calibrate the therapeutic radiation machine; and 
+
+ (d) The signature of the qualified medical physicist responsible for performing the calibration. 
+
+ (5) Calibration records must be maintained in accordance with OAR 333-100-0057 for the duration of the registration. The record must include: 
+
+ (a) The date of the calibration; 
+
+ (b) The manufacturer's name, model number and serial number for the superficial brachytherapy device; 
+
+ (c) The model numbers and serial numbers of the instruments used to calibrate the superficial brachytherapy device; and 
+
+ (d) The signature of the qualified medical physicist responsible for performing or overseeing the calibration. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 453.605 – 453.807 
+ 
+ 
+ Statutes/Other Implemented:  ORS 453.605 – 453.807 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 72-2020, adopt filed 10/09/2020, effective 10/09/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Oregon Occupational Safety and Health Division - Chapter 437 
+ 
+ 
+ 
+ 
+ Division 2 GENERAL OCCUPATIONAL SAFETY AND HEALTH RULES 
+ 437-002-2308 
+ Hand and Portable Power Equipment 
+ 
+ (1) General. Paragraph (2) of this rule applies to electric equipment connected by cord and plug. Paragraph (3) of this rule applies to portable and vehicle-mounted generators used to supply cord- and plug-connected equipment. Paragraph (4) of this rule applies to hydraulic and pneumatic tools.  (2) Cord- and plug-connected equipment. For general industry activities, cord- and plug-connected equipment not covered by Division 2/S must comply with one of the following instead of 1910.243(a)(5); and for construction activities, cord- and plug-connected equipment not covered by Division 3/K must comply with one of the following instead of 1926.302(a)(1):  (a) The equipment must be equipped with a cord containing an equipment grounding conductor connected to the equipment frame and to a means for grounding the other end of the conductor (however, this option may not be used where the introduction of the ground into the work environment increases the hazard to an employee); or  (b) The equipment must be of the double-insulated type conforming to Division 2/S or Division 3/K; or  (c) The equipment must be connected to the power supply through an isolating transformer with an ungrounded secondary of not more than 50 volts.  (3) Portable and vehicle-mounted generators. Portable and vehicle-mounted generators used to supply cord- and plug-connected equipment covered by paragraph (2) of this section must meet the following requirements:  (a) The generator may only supply equipment located on the generator or the vehicle and cord- and plug-connected equipment through receptacles mounted on the generator or the vehicle.  (b) The non-current-carrying metal parts of equipment and the equipment grounding conductor terminals of the receptacles must be bonded to the generator frame.  (c) For vehicle-mounted generators, the frame of the generator must be bonded to the vehicle frame.  (d) Any neutral conductor must be bonded to the generator frame.  (4) Hydraulic and pneumatic tools.  NOTE: Hydraulic fluid in insulating tools. Paragraph (d)(1) of 1926.302 does not apply to hydraulic fluid used in insulating sections of hydraulic tools.  (a) Safe operating pressures for hydraulic and pneumatic tools, hoses, valves, pipes, filters, and fittings may not be exceeded.  NOTE to paragraph (4)(a) of this rule: If any hazardous defects are present, no operating pressure is safe, and the hydraulic or pneumatic equipment involved may not be used. In the absence of defects, the maximum rated operating pressure is the maximum safe pressure.  (b) A hydraulic or pneumatic tool used where it may contact exposed energized parts must be designed and maintained for such use.  (c) The hydraulic system supplying a hydraulic tool used where it may contact exposed live parts must provide protection against loss of insulating value, for the voltage involved, due to the formation of a partial vacuum in the hydraulic line.  Note to paragraph (4)(c) of this rule: Use of hydraulic lines that do not have check valves and that have a separation of more than 10.7 meters (35 feet) between the oil reservoir and the upper end of the hydraulic system promotes the formation of a partial vacuum.  (d) A pneumatic tool used on energized electric lines or equipment, or used where it may contact exposed live parts, must provide protection against the accumulation of moisture in the air supply.  (e) Pressure must be released before connections are broken, unless quick acting, self-closing connectors are used.  (f) Employers must ensure that employees do not use any part of their bodies to locate, or attempt to stop, a hydraulic leak.  (g) Hoses may not be kinked. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 654.025(2) & 656.726(4) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 654.001 - 654.295 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSHA 3-2015, f. 10-9-15, cert. ef. 1-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,173 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Chapter 943 
+ 
+ 
+ 
+ 
+ 
+ Division 120 PROVIDER RULES 
+ 943-120-0150 
+ Testing — EDI Transactions 
+ 
+ (1) When a trading partner or authorized EDI submitter registers an EDI transaction with the Authority, the Authority may require testing before authorizing the transaction. Testing may include third party and business-to-business testing. An EDI submitter must be able to demonstrate its capacity to send and receive each transaction type for which it has registered. The Authority will reject any EDI transaction if an EDI submitter either refuses or fails to comply with the Authority testing requirements.  (2) The Authority may require EDI submitters to complete compliance testing at an EDI submitter's expense for each transaction type if either the Authority or an EDI submitter has experienced a change to hardware or software applications by entering into business-to-business testing.  (3) When third party and/or business-to-business testing is completed to the Authority's satisfaction, the Authority will notify an EDI submitter that it will register and accept the transactions in the production environment. This notification authorizes an EDI submitter to submit the registered EDI transactions to the Authority for processing and response, as applicable. If there are any changes in the trading partner or EDI submitter authorization, profile data or EDI registration information on file with the Authority, updated information must be submitted to the Authority as required in OAR 943-120-0190.  (4) Testing will be conducted using secure electronic media communications methods.  (5) An EDI submitter may be required to re-test with the Authority if the Authority format changes or if the EDI submitter format changes. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042 & 414.065 
+ 
+ 
+ Statutes/Other Implemented:  ORS 413.042 & 414.065 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHA 26-2011, f. 10-31-11, cert. ef. 11-1-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHA 13-2011(Temp), f. & cert. ef. 7-1-11 thru 12-27-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,292 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 305 GENERAL ADMINISTRATION OF REVENUE LAWS 
+ 150-305-0480 
+ Returns Not Filed for Three Consecutive Years; 100 Percent Penalty
+ 
+ 
+ (1) General requirements. The 100 percent penalty under ORS 305.992 may be imposed if: 
+
+ (a) The taxpayer was required to file returns for each tax year of three or more consecutive years including returns for tax periods of less than 12 months; and 
+
+ (b) All returns due during the three-year period are not filed by the due date (including extensions) of the return required for the third consecutive year. Assessments under ORS 305.265(10) are not returns for the purpose of the penalty under ORS 305.992. 
+
+ Example 1: On July 1, 2017, Mary filed her Oregon individual income tax returns for 2013, 2014, and 2016. In 2015, Mary was a nonresident and had no Oregon source income. Mary was not required to file an Oregon return for each of three or more consecutive taxable years because she had no Oregon source income in 2015. The 100 percent penalty will not be imposed on the 2013, 2014, or 2016 returns. 
+
+ Example 2: Assume the same facts as Example 1 except that Mary had income from Oregon sources in 2015 and was required to file a return for 2015 but did not. The requirement that tax returns for three consecutive years were not filed by the due date of the third consecutive year was met and the 100 percent penalty will be imposed on the 2013, 2014, 2015, and 2016 returns. 
+
+ (2) Under authority granted in ORS 305.229, the department will not impose the 100 percent penalty under ORS 305.992 for returns filed or a Notice of Assessment that have been assessed a lower failure-to-file penalty. 
+
+ Example 3: Laurie did not file returns for tax years 2014, 2015, or 2016. In 2016, the department issued Notices of Assessment for tax years 2014 and 2015. The 2014 and 2015 Notices of Assessment reflect a 50 percent failure-to-file penalty under ORS 314.400. In 2017, the department issues a Notice of Assessment for tax year 2016. The 2016 Notice of Assessment reflects the 100 percent failure-to-file penalty under ORS 305.992. The department will not assess a 100 percent penalty for the Notices of Assessment issued for tax years 2014 and 2015 because a penalty was previously assessed. Thus, the penalty would remain at 50 percent for tax years 2014 and 2015. 
+
+ Example 4: In November 2016, Hilda filed her 2012 and 2013 tax returns. The department asserted a 25 percent failure-to-file penalty on both the 2012 and 2013 returns. In January 2017, she filed her 2014 and 2015 tax returns. The department asserted the 100 percent failure-to-file penalty on both the 2014 and 2015 returns because the 2012, 2013, and 2014 returns were all filed after the due date for the 2014 return and the 2013, 2014, and 2015 returns were all filed after the due date for the 2015 return. Even though the 2012 and 2013 returns were subject to the 100 percent penalty, the department will not increase the penalty to 100 percent because a lower penalty was previously assessed. Thus, the penalty would remain at 25 percent for tax years 2012 and 2013. 
+
+ (3) Net tax liability. The penalty is 100 percent of the net tax liability determined for each taxable year. The net tax liability is the tax remaining after subtracting credits, withholding, and other prepayments from the tax required to be shown on the return. A net tax liability may be determined by the taxpayer, an assessment under ORS 305.265(10), an examination, or audit of a return by the department. 
+
+ Example 5: On September 27, 2016, Jack filed Oregon income tax returns for 2014 and 2015. The 2015 return showed Oregon tax of $450, state withholding of $700 and a refund of $250. The 2014 return has a net tax liability of $325. Jack was required to file a return for 2013 but did not file a return. Because Jack did not file all returns due during the three-year period by the due date of the 2015 return, the penalty may be assessed on 100 percent of the net tax liability for 2014. 
+
+ Example 6: Assume the same facts as in Example 5 except that upon examination, the department adjusted the refund claim for 2015 and asserted a deficiency. The penalty may be assessed on 100 percent of the net tax liability for taxable years 2014 and 2015. 
+
+ Example 7: Assume the same facts as in Example 5 except that the department assessed a tax under ORS 305.265(10) for 2013. The penalty may be imposed on 100 percent of the net tax liability for each taxable year: 2013, 2014, and 2015. 
+
+ Example 8: Assume the same facts as in Example 5 except that the department asserted a deficiency one year later for tax year 2015 as the result of an audit. The auditor recomputed Oregon tax to be $1,017. After application of withholding and refunds already received, the taxpayer owed an additional $567 of tax. The 100 percent penalty may be assessed on the net tax liability of $317 for tax year 2015 (the corrected tax of $1,017 less the $700 of withholding) and on the net tax liability of $325 for tax year 2014. 
+
+ Example 9: Assume the same facts as in Example 5 except that Jack was granted a federal extension to file the 2015 return until October 15, 2016. The 100 percent penalty does not apply. The returns for 2014 and 2015 were filed before the due date of the return required for the third year (October 15, 2016). 
+
+ (4) Timber tax returns. Timber tax returns are those required to be filed under ORS 321.045 and 321.733 (2003). A timber tax return is required to be filed if a taxpayer: 
+
+ (a) Harvested timber; or 
+
+ (b) Obtained a Notification of Operations (permit) indicating the taxpayer would harvest. Obtaining a permit will cause the department to generate returns. There does not need to be a harvest to meet the filing qualification because non-harvests require a "NO HARVEST" filing. 
+
+ Example 10: A taxpayer was required to file returns for 2013, 2014 and 2015 after harvesting timber in each of those years. If all three returns are not filed by January 31, 2016, the 100 percent penalty may be applied to any net tax liability for each of the three years. 
+
+ Example 11: In 2013 and 2014 a taxpayer obtained permits to harvest; no harvest occurred for either year and the taxpayer did not file returns. In 2015 the taxpayer did not obtain a permit, but harvested timber. If a return is not filed by January 31, 2016, the 100 percent penalty may be applied to the 2015 net tax liability. 
+
+ (5) Oregon income tax withholding and statewide transit tax payment due dates are determined by the corresponding federal due dates. Generally, income tax withholding and statewide transit tax reports are filed for four quarters per year. The 100 percent penalty will apply if the taxpayer failed to file 12 consecutive quarters representing three consecutive years. 
+
+ Example 12: After February 1, 2016, an employer filed income tax withholding reports for first through fourth quarter 2015, first through fourth quarter 2014 and first through fourth quarter 2013. The taxpayer is subject to the 100 percent penalty on all of the late reports. 
+
+ Example 13: On May 30, 2017, an employer files income tax withholding reports for first quarter 2017, fourth quarter 2016, and second quarter 2015. All other quarters have been filed timely. The 100 percent penalty is not assessed because the taxpayer was not delinquent for 12 consecutive quarters (three years). 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 
+ 
+ 
+ Statutes/Other Implemented:  ORS 305.992 & 320.555 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 78-2017, amend filed 12/28/2017, effective 01/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 150-305.992, REV 49-2016, f. 8-13-16, cert. ef. 9-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 11-2007, f. 12-28-07, cert. ef. 1-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 3-2005, f. 12-30-05, cert. ef. 1-1-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RD 6-1996, f. 12-23-96, cert. ef. 12-31-96 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RD 12-1990, f. 12-20-90, cert. ef. 12-31-90 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RD 7-1989, f. 12-18-89, cert. ef. 12-31-89 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RD 11-1988, f. 12-19-88, cert. ef. 12-31-88 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

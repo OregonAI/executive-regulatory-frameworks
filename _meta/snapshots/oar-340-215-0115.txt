@@ -1,0 +1,232 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 215 OREGON GREENHOUSE GAS REPORTING PROGRAM 
+ 340-215-0115 
+ Requirements for Natural Gas Suppliers and In-State Producers 
+ 
+ Natural gas suppliers and in-state producers required to register and report under OAR 340-215-0030(4) must: 
+
+ (1) Report the information required including the volume (Mscf), energy (MMBtu), type of natural gas, biomethane or hydrogen and associated emissions for all gas imported, sold, produced or distributed for use in the state for the previous year, and: 
+
+ (a) If the regulated entity has developed reporter-specific emission factors or high heating values, then report the following: 
+
+ (A) Information used to develop the reporter-specific emission factor(s) and/or higher heating value(s); 
+
+ (B) The developed emission factor(s); and 
+
+ (C) The developed higher heating value(s); 
+
+ (b) For the purposes of this section large natural gas end users are end users receiving greater than or equal to 460,000 Mscf of natural gas during the year; 
+
+ (c) Report biomethane contractually delivered to Oregon as specified under OAR 340-215-0044(5); and 
+
+ (d) Natural gas suppliers contractually delivering hydrogen to end users in Oregon must also report information as specified under OAR 340-215-0044(5); 
+
+ (2) For local distribution companies, calculate and report greenhouse gas emissions using quantification methodologies and report data and information described in 40 C.F.R part 98 subpart NN for suppliers of natural gas and natural gas liquids, as applicable, unless otherwise specified in this rule including the following: 
+
+ (a) In addition to submitting all information needed to meet the requirements of 40 C.F.R. 98.406(b)(1) through (b)(7), report the annual MMBtu of natural gas associated with the volumes reported; 
+
+ (b) Report the amount of natural gas delivered to each large natural gas end user separately in the state including customer information required in 40 C.F.R. 98.406(b)(12), and source identification number if available; and 
+
+ (c) Report identifying information for each natural gas marketer contracting use of the distribution system during the year including company name and address; 
+
+ (3) For interstate pipeline owners and operators, report the total amount of natural gas delivered to end users in the state for use in the state, excluding gas delivered to an Oregon local distribution company, and: 
+
+ (a) Report the annual amount of natural gas delivered to each large natural gas end user separately in the state including customer information required in 40 C.F.R. 98.406(b)(12), and source identification number(s) if available. In instances where multiple end users are downstream of a delivery point that registers at least 460,000 Mscf annually report the total gas delivered and identifying information for each user downstream of the delivery point; and 
+
+ (b) Report identifying information for each natural gas marketer contracting use of the distribution system during the year including company name, and address; 
+
+ (4) Importers of natural gas, by any means other than a pipeline distribution system or interstate pipeline, and in-state producers of natural gas or biomethane must separately report: 
+
+ (a) The total amount of natural gas, compressed natural gas, liquefied natural gas and biomethane imported or produced and delivered or sold for use in the state, excluding volumes delivered to an Oregon local distribution company or injected into an interstate pipeline; and 
+
+ (b) The total amount of natural gas, compressed natural gas, liquefied natural, or biomethane delivered to each large natural gas end user in the state including customer information required in 40 C.F.R. 98.406(b)(12), and source identification number if available; and 
+
+ (5) For all natural gas suppliers, calculate and report the CO2, biogenic CO2 from any reported biomass-derived fuel, CH4, N2O, and CO2e emissions in metric tons that would result from the complete combustion or oxidation of the annual quantity of natural gas imported, sold, or distributed for use in this state. Calculate and report greenhouse gas emissions for the previous year utilizing emission quantification methodology prescribed in 40 C.F.R. part 98 and as follows: 
+
+ (a) Calculate greenhouse gas emissions separately for natural gas, compressed natural gas liquefied natural gas and biomethane; 
+
+ (b) Calculate and report CO2 emissions as follows: 
+
+ (A) Local distribution companies must utilize quantification methodologies and report all data elements as required by 40 C.F.R. 98 subpart NN - Suppliers of Natural Gas and Natural Gas liquids for the total volume of gas supplied in the state; and 
+
+ (B) All other natural gas suppliers including interstate pipeline owners or operators, importers of natural gas, in-state producers must calculate and report using calculation methodology 1 as specified in 40 C.F.R. 98.403(a)(1); 
+
+ (c) Calculate and report CH4 and N2O emissions from natural gas imported, sold, or distributed for use in this state using equation C-8 and table C-2 as required in 40 C.F.R. 98.33(c)(1) for all fuels subject to reporting; 
+
+ (d) CO2 emissions from biomass-derived fuel are based on the fuel the natural gas supplier contractually delivered. Emissions from biomethane are calculated using the methods for natural gas required by this section, including the use of the emission factor for natural gas in 40 C.F.R. 98.408, table NN-1. Natural gas suppliers who report emissions from biomethane must report information required by OAR 340-215-0044(5) and retain supporting documentation as required under OAR 340-215-0042; and 
+
+ (e) Not report data or emissions for exported products. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468A.050 & 468A.280 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468 & 468A 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 17-2023, amend filed 11/16/2023, effective 11/16/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 14-2020, adopt filed 05/07/2020, effective 05/07/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

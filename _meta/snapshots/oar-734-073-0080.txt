@@ -1,0 +1,229 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Transportation 
+ Delivery and Operations Division - Chapter 734 
+ 
+ 
+ 
+ 
+ Division 73 102"-WIDE COMMERCIAL VEHICLES — COMBINATIONS NOT SUBJECT TO OVERALL LENGTH RESTRICTIONS 
+ 734-073-0080 
+ Maximum Weight Limit on Interstate Highways 
+ 
+ (1) The following provisions apply to maximum weights allowed on interstate highways without a permit: 
+
+ (a) The provisions of Title 23 Code of Federal Regulations, Part 658 are applicable to the National System of Interstate and Defense Highways, and reasonable access thereto. 
+
+ (b) The maximum gross vehicle weight shall be 80,000 pounds except where lower gross vehicle weight is dictated by Permit Weight Table 1, revised January 2023. Permit Weight Table 1 is by reference made part of Division 73 rules, and is available from the CCD Over-Dimension Permit Unit. 
+
+ (c) The maximum gross weight upon any one axle, including any one axle of a group of axles of a vehicle is 20,000 pounds. 
+
+ (d) The maximum gross weight on tandem axles is 34,000 pounds. 
+
+ (e) The maximum gross weight on two or more consecutive axles may not exceed the limitations specified in Permit Weight Table 1, revised January 2023. This table of weights was developed using the following formula, referred to as the Bridge Gross Weight Formula: 
+
+ 
+ LN 
+
+ W = 500 (N - 1 + 12N + 36) 
+
+ where L is the distance between two or more axles, N is the number of axles of a group of axles and W is the weight in pounds, except that two consecutive sets of tandem axles may carry a gross load of 34,000 pounds each if the overall distance between the first and last axle is 36 feet or more. 
+ 
+
+ (2) Permits may be issued without regard to section (1) through (5) of this rule for vehicles and loads which cannot be dismantled or divided (non-divisible loads) without incurring substantial costs or delay. 
+
+ (3) Permits may be issued for vehicles or combinations of vehicles authorized by ORS Chapter 818 and OAR 734, Division 74. 
+
+ (4) The provisions of this rule do not apply to single, or tandem axle weights, or gross weights legally authorized under Oregon law on July 1, 1956. The group of axles requirements established in this section shall not apply to vehicles legally grandfathered under Oregon group of axle weight tables or formulas on January 4, 1975. 
+
+ (5) Permits may be issued for two consecutive tandem axles having a loaded weight of 34,000 pounds each, provided the distance between the first and last axles of the two tandem axles is 30 feet or more. 
+
+ (6) Permits may be issued for a group of four axles consisting of a set of tandem axles and two axles spaced nine feet or more apart that have a loaded weight of 70,000 pounds provided the distance between the first and last axles of the group is 35 feet or more. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 810, 184.619 & 818 
+ 
+ 
+ Statutes/Other Implemented:  ORS 818.200 & 818.220 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOD 1-2025, amend filed 03/13/2025, effective 03/13/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HWY 1-1995, f. & cert. ef. 9-18-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HWY 8-1993, f. 12-17-93, cert. ef. 1-1-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HWY 4-1993, f. & cert. ef. 7-16-93 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

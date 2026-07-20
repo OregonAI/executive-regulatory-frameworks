@@ -1,0 +1,197 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Chapter 407 
+ 
+ 
+ 
+ 
+ 
+ Division 120 PROVIDER RULES 
+ 407-120-0140 
+ Trading Partner Agents as EDI Submitters — EDI Transactions 
+ 
+ (1) Responsibility for Agents. If a trading partner uses the services of an agent, including but not limited to an EDI submitter in any capacity in order to receive, transmit, store, or otherwise process data or data transmissions or perform related activities, a trading partner shall be fully responsible to the Department for the agent’s acts.  (2) Notices Regarding EDI Submitter. Prior to the commencement of an EDI submitter’s services, a trading partner must designate in the application for authorization the specific EDI submitters that are authorized to send and receive data transmissions in the performance of EDI transactions of a trading partner. A trading partner must complete the “Trading partner Authorization of EDI Submitter” and the “EDI Submitter Information” required in the application. A trading partner must also submit the EDI registration form identifying and providing information about an EDI submitter. A trading partner or authorized EDI submitter must notify the Department of any material changes in the EDI submitter authorization or information no less than five days prior to the effective date of the changes.  (3) EDI Submitter Authority. A trading partner must authorize the actions that an EDI submitter may take on behalf of a trading partner. The application for authorization permits a trading partner to authorize which decisions may only be made by a trading partner and which decisions are authorized to be made by an EDI submitter. The EDI submitter information authorized in the application for authorization will be recorded by the Department in an EDI submitter profile. The Department may reject EDI transactions from an EDI submitter acting without authorization from a trading partner.  (4) EDI Submitter Certification Conditions. Each authorized EDI submitter acting as an agent of a trading partner must execute and comply with the EDI submitter certification conditions that are incorporated into the application for authorization. Failure to include the signed EDI submitter certification conditions with the application shall result in a denial of EDI submitter authorization by the Department. Failure of an EDI submitter to comply with the EDI submitter certification conditions may result in termination of EDI submitter registration for EDI transactions with the Department.  (5) EDI Submitters Responsibilities. In addition to the requirements of section (1) of this rule, a trading partner is responsible for ensuring that an EDI submitter makes no unauthorized changes in the data content of all data transmissions or the contents of an envelope, and that an EDI submitter will take all appropriate measures to maintain the timeliness, accuracy, truthfulness, confidentiality, security, and completeness of each data transmission. A trading partner is responsible for ensuring that its EDI submitters are specifically advised of, and will comply with, the terms of these rules and any TPA. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 409.050 & 414.065 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.065 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 410-001-0140, DHSD 1-2008, f. & cert. ef. 2-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 30-2007(Temp), f. 12-31-07, cert. ef. 1-1-08 thru 6-28-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 55-2003, f. & cert. ef. 8-22-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 25-2003(Temp), f. & cert. ef. 3-21-03 thru 9-8-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

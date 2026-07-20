@@ -1,0 +1,371 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Corrections 
+ Chapter 291 
+ 
+ 
+ 
+ 
+ 
+ Division 158 TRUST ACCOUNTS (AIC) 
+ 291-158-0010 
+ Definitions
+ 
+ 
+ (1) Administrative Trust Account: An account created and approved by Central Trust that is in the adult in custody financial banking system. This type of account may be used for club accounts, group activities or special interest groups, and is not associated with an individual state identification number (SID). 
+
+ (2) Adult in Custody (AIC): Any person under the supervision of the Department of Corrections who is not on parole, probation, or post-prison supervision status. 
+
+ (3) Adult in Custody Financial Banking System: A system for managing financial transactions for moneys held within Central Trust. 
+
+ (4) Adult in Custody Trust Account: An account the Department of Corrections establishes and maintains in trust on behalf of an adult in custody for the deposit and safeguarding of moneys that are the property of an adult in custody or associated with an adult in custody by their SID number. An adult in custody trust account may include sub-accounts that hold funds for specific purposes or with restrictions or conditions on the manner or timing in which an adult in custody may use or access funds in those sub-accounts. The types of sub-accounts the Department of Corrections may establish include: 
+
+ (a) General Spending Trust Account: The primary sub-account that holds funds that are not designated for any specific purpose. An adult in custody may use the funds in this account to make department-approved purchases. 
+
+ (b) Protected Spending Trust Account: A sub-account containing funds that are not designated for any specific purpose and are not subject to collection by the Department of Corrections under state or federal law, including ORS 423.105. An adult in custody may use the funds in this account to make department-approved purchases. 
+
+ (c) Reserve Account: A sub-account that holds funds that are not used for general spending or use by an adult in custody and may be subject to restriction or limitation on use by, for, or on behalf of an adult in custody. Types of reserve sub-accounts include, but are not limited to: 
+
+ (A) Miscellaneous Reserve Account: A sub-account that holds funds, typically on a temporary basis, while an adult in custody’s interest in those funds are determined (for example, to confirm the legitimacy or completion of deposited moneys, to hold funds pending resolution of creditor claims in judicial proceedings like writs of garnishment or execution, or to resolve and correct errors associated with deposits into or withdrawals from the trust account). 
+
+ (B) Protected Moneys Reserve Obligated Account: A sub-account containing funds that are designated and obligated to be used to pay for authorized specific goods, services, programs, or assistance including, but not limited to, dental, educational, medical, optical, religious purchases, and trips. 
+
+ (d) Savings Accounts: 
+
+ (A) General Release Savings Account: A sub-account that holds funds intended for release from Department of Corrections custody. Funds in this sub-account may be subject to the collection of any DOC debt as provided in these rules. Exceptions to use funds from this sub-account may be made with the approval of the Financial Services Administrator or designee. 
+
+ (B) Transitional Savings Account: A sub-account established and protected under ORS 423.105 that holds funds for an adult in custody to use upon release from Department of Corrections custody. 
+
+ (5) AIC Welfare Fund: An account established under ORS 421.068 and subject to OAR 291-156 of the department’s administrative rules. This account contains funds appropriated to the Department of Corrections for uses benefiting the general population of adults in custody, enhancing activities and programs including education programs and providing for offender reentry programs and support. 
+
+ (6) Assessment: The collection of, or imposition of, a charge or claim against funds belonging to an adult in custody, including any fine, court order, judgment, money award, levy, tax, or fee. 
+
+ (7) Central Trust: A unit within Financial Services in the Department of Corrections that is responsible for administering and managing adult in custody trust accounts. 
+
+ (8) Court-Ordered Financial Obligation (COFO): A financial obligation as defined in ORS 423.105, which includes specified fines, awards or fees in a criminal action, child support obligations, and specified civil judgments. 
+
+ (9) Department of Corrections Facility: Any institution, facility, or staff office, including the grounds, operated by the Department of Corrections. 
+
+ (10) Designated Funds: Funds that are designated and obligated to pay for a specific service or item authorized by the Functional Unit Manager. 
+
+ (11) DOC Debt: Any debt the Department of Corrections is authorized to place on the adult in custody’s trust account as debt owed to the Department of Corrections. 
+
+ (12) Eligible Deposits: Deposits made into an adult in custody’s general spending account that are subject to the department’s debt collection procedures in these rules, including discretionary monetary awards made by the department to adults in custody under the Performance Recognition and Award System (PRAS). 
+
+ (13) Financial Information: Trust account information that reflects the transactions associated with an adult in custody’s account listing transactions by type, dollar amount, and running balance. 
+
+ (14) Financial Services: A unit within the Chief Financial Office that provides administration and oversight of adult in custody banking (Central Trust), Business Services, and Statewide Financial Programs. 
+
+ (15) Functional Unit: Any organizational component within the Department of Corrections responsible for the delivery of program services or coordination of program operations. 
+
+ (16) Functional Unit Manager: Any person within the Department of Corrections who reports to either the Director, Deputy Director , an Assistant Director, or an administrator and has responsibility for the delivery of program services or coordination of program operations. In a correctional facility, the functional unit manager is the superintendent. 
+
+ (17) Garnishment: The procedure by which a creditor invokes the authority of a circuit court, justice court, or municipal court or, when authorized by law, its own statutory authority to acquire garnishable property of a debtor that is in the possession, control, or custody of a person other than the debtor. 
+
+ (18) Moneys: Cash, money orders, personal checks, warrants, certified checks, and other remittances. 
+
+ (19) Non-DOC Debt: Any debt incurred by an adult in custody that is not a “DOC Debt”. 
+
+ (20) Non-Eligible Deposit: Protected funds defined in ORS 423.105 and OAR 291-158. 
+
+ (21) Obligated Moneys: Moneys reserved for a specific purpose and that may have restrictions or conditions on the manner or authority for disbursing those moneys. 
+
+ (22) Photo Identification (Photo ID): Any government-issued photo identification that contains a current home address. 
+
+ (23) Protected Moneys: As provided in ORS 423.105, moneys deposited in an adult in custody trust account that are not subject to collection under state or federal law, including but not limited to: 
+
+ (a) Disability benefits for veterans; 
+
+ (b) Moneys received from a Native American tribe or tribal government; 
+
+ (c) Moneys obligated for medical, dental, religious, education, optical expenses or emergency trips; 
+
+ (d) Railroad retirement benefits; or 
+
+ (e) Moneys paid as compensation to an adult in custody in a prison work program established under the Prison Industries Enhancement Certification Program, or a successor program designated by the United States Director of the Bureau of Justice Assistance pursuant to 18 U.S.C. 1761. 
+
+ (24) Receipts: Official Department of Corrections documents used to record money received on behalf of or for the use of adults in custody. 
+
+ (25) SID Number: A unique state identification number (SID) assigned to each adult in custody and reported to the Oregon State Police Identification Services Section. 
+
+ (26) Trust Funds: Funds that are the property of an adult in custody or held on behalf of an a dult in custody that are deposited with the State Treasurer and administered by the Department of Corrections. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 30.643, 34.365, 34.370, 138.590, 144.335, 179.040, 179.510 - 179.530, 421.068, 421.125, 423.020, 423.030, 423.075 & 423.105 
+ 
+ 
+ Statutes/Other Implemented:  ORS 30.643, 34.365, 34.370, 138.590, 144.335, 179.040, 179.510 - 179.530, 421.068, 423.020, 423.030, 423.075 & 423.105 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 12-2026, amend filed 04/29/2026, effective 05/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 11-2019, amend filed 06/19/2019, effective 06/19/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 35-2018, temporary amend filed 12/24/2018, effective 12/25/2018 through 06/22/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 17-2018, temporary amend filed 06/27/2018, effective 06/29/2018 through 12/24/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 32-2008, f. 12-24-08, cert. ef. 12-26-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CD 1-1993, f. 1-25-93, cert. ef. 1-28-93 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CD 16-1992(Temp), f. 7-31-92, cert. ef. 8-3-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CD 9-1991, f. & cert. ef. 4-3-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CD 20-1990(Temp), f. 9-28-90, cert. ef. 10-12-90 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CD 63-1985, f. & ef. 8-16-85 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CD 6-1985(Temp), f. & ef. 6-17-85 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

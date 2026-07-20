@@ -1,0 +1,270 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 250 GENERAL CONFORMITY 
+ 340-250-0080 
+ Criteria for Determining Conformity of General Federal Actions
+ 
+ 
+ (1) An action required under OAR 340-250-0020 to have a conformity determination for a specific pollutant, will be determined to conform to the applicable SIP if, for each pollutant that exceeds the rates in 340-250-0020(3), or otherwise requires a conformity determination due to the total of direct and indirect emissions from the action, the action meets the requirements of section (3) of this rule, and meets any of the following requirements: 
+
+ (a) For any criteria pollutant, the total of direct and indirect emissions from the action are specifically identified and accounted for in the applicable SIP’s attainment or maintenance demonstration; 
+
+ (b) For ozone or nitrogen dioxide, the total of direct and indirect emissions from the action are fully offset within the same nonattainment area or maintenance area through a revision to the applicable SIP or a similarly enforceable measure that effects emission reductions so that there is no net increase in emissions of that pollutant; 
+
+ (c) For any criteria pollutant, except ozone and nitrogen dioxide, the total of direct and indirect emissions from the action meet the requirements: 
+
+ (A) Specified in section (2) of this rule, based on area-wide air quality modeling analysis and local air quality modeling analysis; or 
+
+ (B) Meet the requirements of subsection (e) of this section and, for local air quality modeling analysis, the requirements of section (2) of this rule. 
+
+ (d) For CO or PM10: 
+
+ (A) Where the Department or local air quality agency primarily responsible for the applicable SIP determines that an area-wide air quality modeling analysis is not needed, the total of direct and indirect emissions from the action meet the requirements specified in section (2) of this rule, based on local air quality modeling analysis; or 
+
+ (B) Where the Department or local air quality agency primarily responsible for the applicable SIP determines that an area-wide air quality modeling analysis is appropriate and that a local air quality modeling analysis is not needed, the total of direct and indirect emissions from the action meet the requirements specified in section (2) of this rule, based on area-wide modeling, or meet the requirements of subsection (e) of this section. 
+
+ (e) For ozone or nitrogen dioxide, and for purposes of subsections (c)(B) and (d)(B) of this section, each portion of the action or the action as a whole meets any of the following requirements: 
+
+ (A) Where EPA has approved a revision to an area’s attainment or maintenance demonstration after 1990 and the state makes a determination as provided in subparagraph (i) of this paragraph or where the state makes a commitment as provided in subparagraph (ii) of this paragraph: 
+
+ (i) The total of direct and indirect emissions from the action, or portion thereof, is determined and documented by the state agency primarily responsible for the applicable SIP to result in a level of emissions which, together with all other emissions in the nonattainment area or maintenance area, would not exceed the emissions budgets specified in the applicable SIP; 
+
+ (ii) The total of direct and indirect emissions from the action (or portion thereof) is determined and documented by the state agency primarily responsible for the applicable SIP to result in a level of emissions which, together with all other emissions in the nonattainment area or maintenance area, would not exceed the emissions budget specified in the applicable SIP and the State Governor or the Governor’s designee for SIP actions makes a written commitment to EPA which includes the following: 
+
+ (I) A specific schedule for adoption and submittal of a revision to the applicable SIP which would achieve the needed emission reductions prior to the time emissions from the federal action would occur; 
+
+ (II) Identification of specific measures for incorporation into the applicable SIP which would result in a level of emissions which, together with all other emissions in the nonattainment area or maintenance area, would not exceed any emissions budget specified in the applicable SIP; 
+
+ (III) A demonstration that all existing applicable SIP requirements are being implemented in the area for the pollutants affected by the federal action, and that local authority to implement additional requirements has been fully pursued; 
+
+ (IV) A determination that the responsible federal agencies have required all reasonable mitigation measures associated with their action; and 
+
+ (V) Written documentation including all air quality analyses supporting the conformity determination. 
+
+ (iii) Where a federal agency made a conformity determination based on a state commitment under subparagraph (ii) of this paragraph such a state commitment is automatically deemed a call for a SIP revision by EPA under Section 110(k)(5) of the Act, effective on the date of the federal conformity determination and requiring response within 18 months or any shorter time within which the state commits to revise the applicable SIP. 
+
+ (B) The action, or portion thereof, as determined by the MPO, is specifically included in a current transportation plan and transportation improvement program which have been found to conform to the applicable SIP under 40 CFR part 51, subpart T (July 1, 1994) or 40 CFR part 93, subpart A (July 1, 1994), and OAR 340 division 252. 
+
+ (C) The action, or portion thereof, fully offsets its emissions within the same nonattainment area or maintenance area through a revision to the applicable SIP or an equally enforceable measure that effects emission reductions equal to or greater than the total of direct and indirect emissions from the action so that there is no net increase in emissions of that pollutant; 
+
+ (D) Where EPA has not approved a revision to the relevant SIP attainment or maintenance demonstration since 1990, the total direct and indirect emissions from the action for the future years (described in OAR 340-250-0090(4)) do not increase emissions with respect to the baseline emissions: 
+
+ (i) The baseline emissions reflect the historical activity levels that occurred in the geographic area affected by the proposed federal action during: 
+
+ (I) Calendar year 1990; 
+
+ (II) The calendar year that is the basis for the classification, or, where the classification is based on multiple years, the most representative year, if a classification is promulgated in 40 CFR part 81 (July 1, 1994); or 
+
+ (III) The year of the baseline inventory in the PM10 applicable SIP. 
+
+ (ii) The baseline emissions are the total of direct and indirect emissions calculated for the future years (described in OAR 340-250-0090(4)) using the historic activity levels (described in subparagraph (i) of this paragraph) and appropriate emission factors for the future years; or 
+
+ (E) Where the action involves regional water or wastewater projects, such projects are sized to meet only the needs of population projections that are in the applicable SIP. 
+
+ (2) The area-wide air quality modeling analysis or local air quality modeling analysis must: 
+
+ (a) Meet the requirements in OAR 340-250-0090; and 
+
+ (b) Show that the action does not: 
+
+ (A) Cause or contribute to any new violation of any standard in any area; 
+
+ (B) Increase the frequency or severity of any existing violation of any standard in any area. 
+
+ (3) Notwithstanding any other requirements of this rule, an action subject to this division may not be determined to conform to the applicable SIP unless the total of direct and indirect emissions from the action is in compliance or consistent with all relevant requirements and milestones contained in the applicable SIP, such as elements identified as part of the reasonable further progress schedules, assumptions specified in the attainment or maintenance demonstration, prohibitions, numerical emission limits, and work practice requirements, and such action is otherwise in compliance with all relevant requirements of the applicable SIP. 
+
+ (4) Any analyses required under this rule must be completed, and any mitigation requirements necessary for a finding of conformity must be identified in compliance with OAR 340-250-0100, before the determination of conformity is made. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020 & 468A.035 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468A.035 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 158-2018, minor correction filed 04/12/2018, effective 04/12/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-020-1570 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 17-1998, f. & cert. ef. 9-23-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 9-1995, f. & cert. ef. 5-1-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Oregon Occupational Safety and Health Division - Chapter 437 
+ 
+ 
+ 
+ 
+ Division 2 GENERAL OCCUPATIONAL SAFETY AND HEALTH RULES 
+ 437-002-2027 
+ Rope Descent & Rope Access Systems 
+ 
+ (1) Scope and application. This rule establishes safety requirements for rope descent and rope access. Rope descent and rope access systems can provide a safe way for employees to reach hard-to-reach locations, either natural or man-made. The requirements of this rule include, but are not limited to, the cleaning of buildings or structures, the inspection of dams and spillways, access to interior or exterior structural and architectural components of buildings, highway/bridge inspection and maintenance, powerplant penstocks and other difficult access areas.  (2) Definitions. For the purposes of this rule the following definitions apply:  (a) Access is the means of reaching a workspace of a work area.  (b) Rope access means the use of rope access equipment where two ropes are used; one as the primary means of support and a second for fall arrest protection. The employee accesses the work area by ascending, descending, or traversing along both ropes by alternating connections and weight between the two ropes. Rope access may also be called industrial rope access but is not limited to industrial applications.  (c) Rope descent system means a suspension system that allows an employee to descend in a controlled manner and, as needed, stop at any point during the descent. A rope descent system usually consists of a roof anchorage, support rope, a descent device, carabiner(s) or shackle(s), and a chair (seatboard). A rope descent system also is called controlled descent equipment or apparatus. Rope descent systems do not include industrial rope access systems.  (3) Personal Protective Equipment. The employer must ensure personal protective equipment is in accordance with Division 2/I when rope descent systems or rope access methods are used.  (4) Anchorages for Rope Descent and Rope Access Systems.  (a) Permanent Anchorages on Buildings.  (A) Before any rope descent or rope access system is used, the building owner must inform the employer, in writing that the building owner has identified, tested, certified, and maintained each permanent anchorage so it is capable of supporting at least 5,000 pounds (22.24kN), in any direction, for each employee attached. The information must be based on an annual inspection by a qualified person and certification of each anchorage by a qualified person, as necessary, and at least every 10 years.  (B) The employer must ensure that no employee uses any permanent anchorage before the employer has obtained written information from the building owner that each anchorage meets the requirements of 437-002-2027(4)(a)(A). The employer must keep the information for the duration of the job.  (C) The requirements of 437-002-2027(4)(a)(A) and (B) must be implemented no later than December 1, 2018.  (b) Temporary Anchorages. Anchorages for rope descent or rope access systems on structure or natural surroundings other than buildings must be independent from each other (primary support rope and secondary fall arrest system) and must be:  (A) Capable of supporting at least 5000 pounds (22.24 kN) for each employee attached: or  (B) Designed, installed, and used, under the supervision of a qualified person, as part of a complete system that maintains a safety factor of at least two.  (5) Rope descent systems. The employer must ensure:  (a) No rope descent system is used for heights greater than 300 feet (91 m) above grade unless the employer demonstrates that it is not feasible to access such heights by any other means or that those means pose a greater hazard than using a rope descent system;  (b) The rope descent system is used in accordance with instructions, warnings, and design limitations set by the manufacturer or under the direction of a qualified person;  (c) Each employee who uses the rope descent system is trained in accordance with 1910.30;  (d) The rope descent system is inspected at the start of each workshift that it is to be used. The employer must ensure damaged or defective equipment is removed from service immediately and replaced;  (e) The rope descent system has proper rigging, including anchorages and tiebacks, with particular emphasis on providing tiebacks when counterweights, cornice hooks, or similar non-permanent anchorages are used;  (f) Each employee uses a separate, independent personal fall arrest system that meets the requirements of 1910.140 in Division 2, Subdivision I;  (g) All components of each rope descent system, except seat boards, are capable of sustaining a minimum rated load of 5,000 pounds (22.2 kN). Seat boards must be capable of supporting a live load of 300 pounds (136 kg);  Note to 437-002-2027(5)(g): Oregon OSHA based this rule on federal OSHA’s 1910.27(b)(2)(vii). Federal OSHA’s discussion on final rule 1910.27(b)(2)(vii), as published on page 82577 of the Federal Register on November 18, 2016, states the following: “OSHA notes that the final rule does not preclude the use of lines or ropes that have knots, swage, or eye splice, which could reduce the tensile strength of a rope or line. However, under final paragraph (b)(2)(vii), even if an employer uses a line or rope that has a knot, swage, or eye split, the rope or line still must be capable of supporting a minimum rated load of 5,000 pounds.”  (h) Prompt rescue of each employee is provided in the event of a fall, equipment malfunction or entanglement;  (i) The ropes of each rope descent system are effectively padded or otherwise protected, where they can contact edges of the building, anchorage, obstructions, or other surfaces, to prevent them from being cut or weakened;  (j) Stabilization is provided at the specific work location when descents are greater than 130 feet (39.6 m);  (k) No employee uses a rope descent system when hazardous weather conditions, such as storms or gusty or excessive wind, are present;  (l) Equipment, such as tools, squeegees, or buckets, is secured by a tool lanyard or similar method to prevent it from falling;  (m) The ropes of each rope descent system are protected from exposure to open flames, hot work, corrosive chemicals, and other destructive conditions;  (n) The ropes of each rope descent system are made from industrial synthetic fibers and classified as life-safety rope. Ropes made from natural fibers and polypropylene cannot be used for rope descent;  (o) Descent control devices include automatic locks that will engage and prevent an uncontrolled descent in case the employee lets go or loses control of the device;  (p) Anchorages for rope descent systems meet the requirements of 437-002-2027(4) of this rule; and  (q) A pre-work briefing is conducted with each employee involved in rope descent to include, but is not limited to:  (A) The objective(s) of the work to be performed.  (B) Site-specific hazards.  (C) Environmental conditions that could affect the safety of the employee using the system.  (D) Emergency procedures to be followed (e.g., employee rescue).  (6) Rope access systems.  (a) Exceptions. 437-002-2027(6) does not apply to:  (A) Emergency search and rescue operations.  (B) Entertainment performances and rehearsals. This exception does not apply to the set up, dismantling or operation of; stages, sound systems, lighting systems, pyrotechnics, associated supporting structures or props.  (C) Tree and shrub service activities covered by Division 2, Subdivision R.  (b) Written Rope Access Program. The employer must develop, implement and maintain a written Rope Access Program that includes, but not be limited to the following elements:  (A) Identification of a program administrator responsible for the overall rope access program.  (B) Methods of access and anchorage used by the employer.  (C) Listing of specific rope skills (i.e. ascending, descending, traversing, aid climbing, etc.) necessary to complete the work.  (D) Employee selection criteria.  (E) Equipment selection and inspection criteria.  (F) Roles and responsibilities of rope access team members.  (G) Communication systems.  (H) Employee training program.  (I) Rescue and emergency protocol.  (J) Identification of any unique site hazards that may affect the safety of employees using rope access equipment and methods.  (K) Pre-work briefings.  (c) Program Administration. The employer must ensure that the rope access program is administered by a program administrator knowledgeable in the elements of the written rope access program as required by subsection (6)(b) of this rule.  (d) Training and Evaluation. The employer must conduct training according to the requirements of 1910.30, and ensure:  (A) Employees who use rope access equipment and/or are engaged in rope access activities are trained and evaluated by persons with the qualifications and experience necessary to effectively instruct the employee in the proper fundamentals of rope access, equipment, and techniques described in subsection (6)(b) of this rule;  (B) Employees, prior to engaging in rope access activities, are trained in accordance with the written Rope Access Program, including applicable equipment, skills and rescue methods required of the work;  (C) Employees, prior to engaging in rope access activities, are evaluated by a hands-on demonstration by the employee of his/her skills;  (D) Employees, at a minimum, who perform rope access activities receive annual refresher training in accordance with 1910.30 and the written Rope Access Program;  (E) Employees, at a minimum, who perform rope access activities are annually re-evaluated (e.g., hands-on demonstration) of their ability to perform work in accordance with the written Rope Access Program;  (F) Employees who perform rope access are re-trained and re-evaluated before further engaging in rope access activities when the employer has reason to believe the employee does not have the understanding or skills required by 1910.30 and the written Rope Access Program. Additionally, when the employer has reason to believe the employee has violated a condition of the written Rope Access Program, the employee must be re-trained and re-evaluated. Re-training and re-evaluation under this subsection may be limited to the specific topics, concepts or skills which the employer believes, or the employee has demonstrated, are deficient;  (G) All training, re-training, evaluation and re-evaluation events are documented, and retained for three years; and  (H) Documentation of employee training, re-training, evaluation and re-evaluation include the following:  (i) Name of the employee;  (ii) Skills included in the training or evaluation;  (iii) Date(s) of the training or re-training;  (iv) Date(s) of the evaluation or re-evaluation;  (v) Identity of the person(s) performing the training or evaluation.  (e) Rope Access Use. When rope access is used, the employer must ensure:  (A) There are at least two rope access trained employees present at the physical location where rope access is being performed;  (B) No employee uses a rope access system when hazardous weather conditions, such as storms or excessive wind, are present;  (C) Anchorages for rope access systems meet the requirements of 437-002-2027(4) of this rule;  (D) Each employee using a rope access system 4 feet (1.2 m) or more above a lower level is protected from falling by a personal fall arrest system in compliance with 1910.140 in 2/I with the following exceptions to 1910.140:  (i) 1910.140(c)(1) does not apply when aluminum carabiners meet the strength requirements of 1910.140(c)(8).  (ii) 1910.140(c)(10)(i) does not apply when carabiners are connected directly to rope meeting the requirements of 437-002-2027(6)(e)(E)(i) and (ii).  (iii) 1910.140(c)(10)(ii) does not apply during temporary rope transfer operations when carabiners are connected to each other lasting only long enough to complete the transfer and not as a part of the rigging for normal use.  (iv) 1910.140(c)(10)(iii) does not apply during temporary rope transfer operations when multiple carabiners are connected to a single D-ring lasting only long enough to complete the transfer and not as a part of the rigging for normal use.  (E) Components used for rope access support, positioning, transfer and back-up (fall protection) must meet the following minimum requirements:  (i) Primary support ropes and secondary fall arrest ropes are made from industrial synthetic fibers and classified as life-safety rope. Ropes made from natural fibers or polypropylene cannot be used for rope access.  (ii) Primary support ropes and secondary fall arrest ropes have a minimum rated breaking strength before being knotted, swaged or eye-spliced of 6,000 pounds (26.69 kN) as established by the rope manufacturer.  (iii) Combination harnesses (designed and manufactured for rope access positioning and employee fall protection) are capable of sustaining a minimum rated load of 3,600 pounds (16.01 kN).  (iv) Seat boards must be capable of supporting a live load of 300 pounds (136 kg).  (v) Connectors must have an automatic locking feature and are capable of sustaining a minimum rated load of 5,000 pounds (22.24 kN).  (vi) Descent control devices include automatic locks that will engage and prevent an uncontrolled descent in case the employee lets go or loses control of the device and are capable of sustaining a minimum rated load of 3,000 pounds (13.35 kN).  (vii) Manufactured lanyards (cowstails) are capable of sustaining a minimum rated load of 5,000 pounds (22.24 kN) as established by the manufacturer.  (viii) Job-made lanyards (cowstails), when constructed of rope, meet the requirements of 437-002-2027(6)(e)(E)(i) and (ii).  (ix) Back-up devices (fall arrest) must be capable of sustaining a minimum rated load of 3,600 pounds (16.01 kN).  (x) Auxiliary equipment designed to allow an employee to move along a line (rope) such as rope clamps, rope grabs, chest ascenders, foot ascender and hand ascenders must be capable of sustaining a minimum rated load of 1,000 pounds (4.49 kN).  (F) Rope access system components are used in accordance with instructions, warnings, and design limitations set by the manufacturer or under the direction of a qualified person;  (G) Rope access system components are inspected at the start of each workshift that it is to be used. The employer must ensure damaged or defective equipment is removed from service immediately and replaced;  (H) Prompt rescue of each employee is provided in the event of a fall, equipment malfunction or entanglement, or assure employees are able to rescue themselves;  (I) The ropes of each rope access system are effectively padded or otherwise protected, where they can contact edges of the building, anchorage, obstructions, structure, or other surfaces, to prevent them from being cut or weakened;  (J) The ropes of each rope access system are protected from exposure to open flames, hot work, corrosive chemicals, and other destructive conditions;  (K) Equipment, such as tools are secured by a tool lanyard or similar method to prevent it from falling where employees below are exposed to falling objects;  (L) A pre-work briefing is conducted with each employee involved in rope access to include, but is not limited to:  (i) The objective(s) of the work to be performed.  (ii) Site-specific hazards.  (iii) Environmental conditions that could affect the safety of the employee using the system.  (iv) Emergency procedures to be followed (e.g., employee rescue). 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 654.025(2) & 656.726(4) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 654.001 - 654.295 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSHA 2-2017, f. 5-16-17, cert. ef. 11-1-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

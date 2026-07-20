@@ -1,0 +1,348 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 230 INCINERATOR REGULATIONS 
+ 340-230-0030 
+ Definitions
+ 
+ 
+ The definitions in OAR 340-200-0020, 340-238-0040 and this rule apply to this division, except for 340-230-0415 and 340-230-0500. If the same term is defined in this rule and 340-200-0020 or 340-238-0040, the definition in this rule applies to this division. 
+
+ (1) "Acid Gases" means any exhaust gas that includes hydrogen chloride and sulfur dioxide. 
+
+ (2) "Administrator" means the Administrator of the U.S. Environmental Protection Agency or his/her authorized representative or Administrator of a State Air Pollution Control Agency. 
+
+ (3) "CFR" means Code of Federal Regulations and, unless otherwise expressly identified, refers to the July 1, 2013 edition. 
+
+ (4) "Continuous Emission Monitoring (CEM)" means a monitoring system for continuously measuring the emissions of a pollutant from an affected incinerator. Continuous emission monitoring system (CEMS) also means the total equipment that may be required to meet the data acquisition and availability requirements, used to sample, condition (if applicable), analyze, and provide a record of emissions. Continuous monitoring equipment and operation must be certified in accordance with EPA performance specifications and quality assurance procedures outlined in 40 C.F.R. Part 60, Appendices B and F, and DEQ's Continuous Monitoring Manual. [NOTE: DEQ's manual is published with OAR 340-200-0035.] 
+
+ (5) "Crematory Incinerator" means an incinerator used solely for the cremation of human and animal bodies. 
+
+ (6) "Dry Standard Cubic Foot" means the amount of gas that would occupy a volume of one cubic foot, if the gas were free of uncombined water at standard conditions. When applied to combustion flue gases from waste or refuse burning, "Standard Cubic Foot (SCF)" implies adjustment of gas volume to that which would result at a concentration of seven percent oxygen or 50 percent excess air. 
+
+ (7) "Fluidized bed combustion unit" means a unit where municipal waste is combusted in a fluidized bed of material. The fluidized bed material may remain in the primary combustion zone or may be carried out of the primary combustion zone and returned through a recirculation loop. 
+
+ (8) "Incinerator" means any structure or furnace in which combustion takes place, the primary purpose of which is the reduction in volume and weight of unwanted material. 
+
+ (9) "Infectious Waste" means waste as defined in ORS Chapter 763, Oregon Laws 1989, that contains or may contain any disease producing microorganism or material, and includes, but is not limited to the following: 
+
+ (a) "Biological waste", which includes blood and blood products, and body fluids that cannot be directly discarded into a municipal sewer system, and waste materials saturated with blood or body fluids, but does not include soiled diapers; 
+
+ (b) "Cultures and stocks", which includes etiologic agents and associated biologicals; including specimen cultures and dishes, devices used to transfer, inoculate and mix cultures, wastes from production of biologicals, and serums and discarded live and attenuated vaccines. "Cultures" does not include throat and urine cultures; 
+
+ (c) "Pathological waste", which includes biopsy materials and all human tissues, anatomical parts that emanate from surgery, obstetrical procedures, autopsy and laboratory procedures and animal carcasses exposed to pathogens in research and the bedding and other waste from such animals. "Pathological wastes" does not include teeth or formaldehyde or other preservative agents; 
+
+ (d) "Sharps", which includes needles, IV tubing with needles attached, scalpel blades, lancets, glass tubes that could be broken during handling and syringes that have been removed from their original sterile containers. 
+
+ (10) "Infectious Waste Facility" or "Infectious Waste Incinerator" means an incinerator that is operated or utilized for the disposal or treatment of infectious waste, including combustion for the recovery of heat, and which utilizes high temperature thermal destruction technologies. 
+
+ (11) "Mass burn refractory municipal waste combustion unit" means a field-erected municipal waste combustion unit that combusts municipal solid waste in a refractory wall furnace. Unless otherwise specified, that includes municipal waste combustion units with a cylindrical rotary refractory wall furnace. 
+
+ (12) "Mass burn rotary waterwall municipal waste combustion unit" means a field-erected municipal waste combustion unit that combusts municipal solid waste in a cylindrical rotary waterwall furnace. 
+
+ (13) "Mass burn waterwall municipal waste combustion unit" means a field-erected municipal waste combustion unit that combusts municipal solid waste in a waterwall furnace. 
+
+ (14) "Modular excess-air municipal waste combustion unit" means a municipal waste combustion unit that combusts municipal solid waste, is not field-erected, and has multiple combustion chambers, all of which are designed to operate at conditions with combustion air amounts in excess of theoretical air requirements. 
+
+ (15) "Modular starved-air municipal waste combustion unit" means a municipal waste combustion unit that combusts municipal solid waste, is not field-erected, and has multiple combustion chambers in which the primary combustion chamber is designed to operate at substoichiometric conditions. 
+
+ (16) "Municipal waste combustor plant" means one or more municipal waste combustor units at the same location. 
+
+ (17) "Municipal waste combustor plant capacity" means the aggregate municipal waste combustor unit capacity of all municipal waste combustor units at a municipal waste combustor plant for which construction was commenced on or before September 20, 1994. 
+
+ (18) "Primary Combustion Chamber" means the discrete equipment, chamber or space in which drying of the waste, pyrolysis, and essentially the burning of the fixed carbon in the waste occurs. 
+
+ (19) "Pyrolysis" means the endothermic gasification of waste material using external energy. 
+
+ (20) "Refuse-derived fuel" means a type of municipal solid waste produced by processing municipal solid waste through shredding and size classification. That includes all classes of refuse-derived fuel including two fuels: 
+
+ (a) Low-density fluff refuse-derived fuel through densified refuse-derived fuel. 
+
+ (b) Pelletized refuse-derived fuel. 
+
+ (21) "Secondary" or "Final Combustion Chamber" means the discrete equipment, chamber, or space in which the products of pyrolysis are combusted in the presence of excess air such that essentially all carbon is burned to carbon dioxide. 
+
+ (22) "Solid waste" means refuse, more than 50 percent of which is waste consisting of a mixture of paper, wood, yard wastes, food wastes, plastics, leather, rubber, and other combustible materials, and noncombustible materials such as metal, glass, and rock. 
+
+ (23) "Solid waste facility" or "solid waste incinerator" means an incinerator that is operated or utilized for the disposal or treatment of solid waste including combustion for the recovery of heat, and that utilizes high temperature thermal destruction technologies. 
+
+ (24) "Spreader stoker, mixed fuel-fired (coal/refuse-derived fuel) combustion unit" means a municipal waste combustion unit that combusts coal and refuse-derived fuel simultaneously, in which coal is introduced to the combustion zone by a mechanism that throws the fuel onto a grate from above. Combustion takes place both in suspension and on the grate. 
+
+ (25) "Transmissometer" means a device that measures opacity and conforms to EPA Specification Number 1 in 40 CFR Part 60, Appendix B. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 183, 468 & 468A 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468A.025 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 13-2019, amend filed 05/16/2019, effective 05/16/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 8-2015, f. & cert. ef. 4-17-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 1-2011, f. & cert. ef. 2-24-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 8-2007, f. & cert. ef. 11-8-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 2-2005, f. & cert. ef. 2-10-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 4-2003, f. & cert. ef. 2-06-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-025-0750, 340-025-0855, 340-025-0950 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 27-1996, f. & cert. ef. 12-11-96 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 4-1993, f. & cert. ef. 3-10-93 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 9-1990, f. & cert. ef. 3-13-90 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 22-1998, f. & cert. ef. 10-21-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

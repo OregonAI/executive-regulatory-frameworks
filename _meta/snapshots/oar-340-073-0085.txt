@@ -1,0 +1,336 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 73 CONSTRUCTION STANDARDS 
+ 340-073-0085 
+ Non-water-Carried Waste Disposal Facilities, Materials, and Construction: Flexible Membrane Liners for Sand Filters Treating Septic Tank Effluent
+ 
+ 
+ (1) Unsupported polyvinyl chloride (PVC) must have the following properties (Property -- Test Method). 
+
+ (a) Thickness -- ASTM D1593, Para 9.1.3, 30 mil, minimum 
+
+ (b) Specific Gravity (minimum) -- ASTM D792, Method A 
+
+ (c) Minimum Tensile Properties (each direction) -- ASTM D882 
+
+ (A) Breaking Factor (pounds/inch width) -- Method A or B (1 inch wide), 69 
+
+ (B) Elongation at Break (percent) -- Method A or B, 300 
+
+ (C) Modulus (force) at 100% Elongation (pounds/inch width) -- Method A or B, 27 
+
+ (d) Tear Resistance (pounds, minimum) -- ASTM D1004, Die C, 8 
+
+ (e) Low Temperature -- ASTM D1790, -20° F 
+
+ (f) Dimensional Stability (each direction, percent change maximum) -- ASTM D1204, 212° F;, 15 min., ±5 
+
+ (g) Water Extraction -- ASTM D1239, 0.35% max 
+
+ (h) Volatile Loss -- ASTM D1203,Method A, 0.7% max 
+
+ (i) Resistance to Soil Burial (percent change maximum in original value) -- ASTM D3083: 
+
+ (A) Breaking Factor, - 5 
+
+ (B) Elongation at Break, - 20 
+
+ (C) Modulus at 100% Elongation, ±10. 
+
+ (j) Bonded Seam Strength (factory seam, breaking factor, ppi width) -- ASTM D3083, 55.2 
+
+ (k) Hydrostatic Resistance -- ASTM D751, Method A, 82. 
+
+ (2) Installation Standards. 
+
+ (a) Patches, repairs, and seams must have the same physical properties as the parent material. 
+
+ (b) Site considerations and preparation. 
+
+ (A) The supporting surface slopes and foundation to accept the liner must be stable and structurally sound with appropriate compaction. Particular attention must be paid to the potential of sink hole development and differential settlement. 
+
+ (B) Soil stabilizers such as cementations or chemical binding agents may not adversely affect the membrane; cementations and chemical binding agents may be potentially abrasive agents. 
+
+ (c) Only fully buried membrane liner installation may be considered to avoid weathering. 
+
+ (d) Unreinforced liners have high elongation and can conform to irregular surfaces and follow settlements within limits. Unreasonable strain reduces effective thickness and may reduce life expectancy by lessening the chemical resistance of the thinner (stretched) material. Every effort must be made to minimize the strain (or elongation) anywhere in the flexible membrane liner. 
+
+ (e) Construction and installation. 
+
+ (A) Surface condition. 
+
+ (i) Preparation of earth subgrade. The prepared subgrade must be of soil types no larger than Unified Soil Classification System (USCS sand (SP) to a minimum of 4 inches below the surface and free from loose earth, rock, fractured stone, debris, cobbles, rubbish and roots. The surface of the completed subgrade must be properly compacted, smooth, uniform, and free from sudden changes in grade. Importing suitable soil may be required. 
+
+ (ii) Maintenance of subgrade. The earth subgrade must be maintained in a smooth, uniform, and compacted condition during installation of the lining. 
+
+ (B) Climatic conditions. 
+
+ (i) Temperature. Placing liner outside the desirable temperature range must be avoided. The desirable temperature range for membrane installation is 42° F. to 78° F. Lower or higher temperatures may have an adverse effect on transportation, storage, field handling, and placement, seaming, and backfilling; and attaching boots and patches may be difficult. 
+
+ (ii) Wind. Placing the liner in high wind must be avoided. Wind may have an adverse effect on liner installation such as interfering with liner placement. Mechanical damage may result. Cleanliness of areas for boot connection and patching may not be possible. Alignment of seams and cleanliness may not be possible. 
+
+ (iii) Precipitation. Seaming, patching, and attaching "boots" must be done under dry conditions. When field seaming is adversely affected by moisture, portable protective structures and other methods must be used to maintain a dry sealing surface. Proper surface preparation for bonding boots and patches may not be possible. 
+
+ (C) Structures. Where penetrations are necessary, liners must be attached to pipes with a mechanical type seal supplemented by a chemically compatible caulking or adhesives to effect a liquid-tight seal. Maximum compaction must be provided in the area adjacent to pipes to compensate for any settlement. 
+
+ (D) Liner Placement. 
+
+ (i) Size. The final cut size of the liner must be carefully determined and ordered to generously fit the container geometry without field seaming or excess straining of the liner material. 
+
+ (ii) Transportation, handling, and storage. Transportation, handling, and storage procedures must be planned to prevent material damage. Material must be stored in a secured area and protected from adverse weather. 
+
+ (iii) Site inspection. A site inspection must be carried out by the agent and the installer before liner installation to verify surface conditions and other conditions important to installation. 
+
+ (iv) Deployment. Panels must be positioned to minimize handling. Seaming should not be necessary. Bridging or stressed conditions must be avoided with proper slack allowances for shrinkage. The liner must be secured to prevent movement and promptly backfilled. 
+
+ (v) Anchoring trenches. The liner edges must be secured frequently in a backfilled trench. 
+
+ (vi) Field seaming. Field seaming, if absolutely necessary, must be attempted only when weather conditions are favorable. The contact surfaces of the materials must be clean of dirt, dust, moisture, or other foreign materials. The contact surfaces must be aligned with sufficient overlap and bonded in accordance with the suppliers recommended procedures. Wrinkles must be smoothed out and seams must be inspected by nondestructive testing techniques to verify their integrity. As seaming occurs during installation, the field seams must be inspected continuously, and any faulty area repaired immediately. 
+
+ (vii) Field repairs. Traffic on the lined area must be minimized. Any necessary repairs to the liner must be patched using the same lining material and following the recommended procedure of the supplier. 
+
+ (viii) Final inspection and acceptance. Completed liner installations must be visually checked for punctures, rips, tears, and seam discontinuities before placement of any backfill. At this time the installer must also manually check all factory and field seams with an appropriate tool. In lieu of or in addition to manual checking seams, either of the following tests may be performed: 
+
+ (I) Wet Test. The lined basin must be flooded with water to the 1-foot level after inlets and outlets have been plugged. There may not be any loss of water in a 24 hour test period. 
+
+ (II) Air Lance Test. All bonded seams must be checked using a minimum 50 PSI (gauge) air supply directed through a 3/16 inch (typical) nozzle held not more than 2 inches from the seam edge and directed at the seam edge. Riffles indicate unbonded areas within the seam or other undesirable seam construction. 
+
+ 
+ [NOTE: Referenced publications are available from the agency.] 
+ 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 454.625 & 468.020 
+ 
+ 
+ Statutes/Other Implemented:  ORS 454.615 & 454.607 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 29-2025, amend filed 10/01/2025, effective 01/01/2026 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 13-2019, amend filed 05/16/2019, effective 05/16/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 71-2018, minor correction filed 04/09/2018, effective 04/09/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 11-2004, f. 12-22-04, cert. ef. 3-1-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 27-1994, f. 11-15-94, cert. ef. 4-1-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 15-1986, f. & ef. 8-6-86 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 5-1982, f. & ef. 3-9-82 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

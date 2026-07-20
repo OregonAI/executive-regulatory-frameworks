@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Oregon Occupational Safety and Health Division - Chapter 437 
+ 
+ 
+ 
+ 
+ Division 4 AGRICULTURE 
+ 437-004-2900 
+ Grounding and Bonding 
+ 
+ (1) The path from circuits, equipment, structures, and conduit enclosures to ground must be permanent and continuous with enough capacity to conduct safely the currents that might be imposed on it. The path must also have impedance low enough to limit the potential above ground and to result in the operation of the over current devices in the circuit.  (2) Driven rod electrodes must, where practicable, have a resistance to ground not to exceed 25 ohms. Where the resistance is not as low as 25 ohms, use two or more electrodes connected in parallel.  (3) Check grounding circuits to ensure that the circuit between the ground and the grounded power conductor has a resistance low enough to permit enough current to flow to cause the fuse or breaker to interrupt the circuit.  (4) Conductors used for bonding and grounding stationary and moveable equipment must be able to carry the anticipated current.  (5) Outside conductors, 600 volts, nominal or less. Paragraphs (a), (b), (c), and (d) below apply to branch circuit, feeder, and service conductors rated 600 volts, nominal, or less and run outdoors as open conductors. Paragraph (e) below applies to lamps installed under these conductors.  (a) Conductors on poles must provide a horizontal climbing space not less than the following:  (A) Power conductors below communication conductors — 30 inches.  (B) Power conductors alone or above communication conductors: 300 volts or less — 24 inches; more than 300 volts — 30 inches.  (b) Clearance from ground to open conductors must conform to the following minimum clearances:  (A) 10 feet above finished grade, sidewalks, or from any platform or projection from which they might be reached.  (B) 12 feet over areas subject to vehicle traffic other than truck traffic.  (C) 15 feet over areas other than those in paragraph (5)(b)(D) below, where there may be truck traffic.  (D) 18 feet over public streets, alleys, roads, and driveways.  (c) Conductors must have a clearance of at least 3 feet from windows, doors, porches, fire escapes, or similar locations. Conductors run above the top level of a window do not have to be 3 feet away.  (d) Conductors must have a clearance of not less than 8 feet from the highest point of roofs over which they pass, except that:  (A) Where the voltage between conductors is 300 volts or less and the roof has a slope of not less than 4 inches in 12, the clearance from roofs must be at least 3 feet; or  (B) Where the voltage between conductors is 300 volts or less and the conductors do not pass over more than 4 feet of the overhang portion of the roof and they terminate at a through-the-roof raceway or approved support, the clearance from roofs must be at least 18 inches.  (e) Lamps for outdoor lighting must be below all live conductors, transformers, or other electric equipment, unless the equipment has a disconnecting means that is lockable in the open position or unless there are adequate clearances or other safeguards for lamp replacement. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 654.025(2) & 656.726(3) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 654.001 - 654.295 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSHA 4-1998, f. 8-28-98, cert. ef. 10-1-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,202 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 317 CORPORATION EXCISE TAX ACT OF 1929: RULES AND GENERAL PROVISIONS 
+ 150-317-0652 
+ Modification for Listed Jurisdiction Amounts Previously Included in Income; Election in Lieu of Claiming the Repatriation Tax Credit 
+ 
+ (1) A taxpayer may elect to claim a modification under ORS 317.038 for tax year 2017, 2018, or, when applicable, both years, to subtract listed jurisdiction income amounts included in income due to the mandatory repatriation under IRC section 965, as amended by Section 14103 of H.R. 1 (2017) (an IRC 965 repatriation), to the extent those amounts were previously included in income for tax year 2014, 2015, or 2016 pursuant to ORS 317.715(2) (2013) or ORS 317.716 (2015). The election to claim the modification is made in lieu of claiming the repatriation tax credit under section 33 of SB 1529 (2018). The election may be claimed on an original or amended tax return. 
+
+ (2)(a) A taxpayer may elect to claim a modification under section (1) of this rule or a repatriation tax credit under section 33 of SB 1529 (2018), but not both. 
+
+ (b) A taxpayer who has an IRC 965 repatriation in tax years 2017 and 2018 must use the modification in both tax years if the taxpayer elected the modification described in section (1) in one tax year. The election by a taxpayer with an IRC 965 repatriation for tax years 2017 and 2018 to use the modification described in section (1) may not be changed on an amended tax return if the taxpayer’s return for either one of tax years 2017 or 2018 is closed to refund or adjustment. 
+
+ (3) The modification is claimed on Schedule OR-ASC-CORP using the subtraction code prescribed by department instructions for tax year 2017 or 2018. Use of the subtraction code prescribed by department instructions on Schedule OR-ASC-CORP signifies a taxpayer’s election and agreement to claim the modification in lieu of the repatriation tax credit. 
+
+ (4) The modification, if elected, affects the calculation of the amount of IRC 965 repatriation income eligible for subtraction under ORS 317.267(2) for tax years 2017 and 2018. When computing the subtraction under ORS 317.267(2) that is attributable to IRC 965 repatriation income, the repatriation income amount (upon which the dividend received subtraction percentage is applied) must be reduced by the amount of the modification. 
+
+ 
+ Example 1: Corporation XYZ reports an IRC 965 repatriation in tax year 2017 that includes $100 million of listed jurisdiction amounts that were previously included as an addition to income under ORS 317.716 for tax years 2015 and 2016. In lieu of claiming the tax credit under section 33 of SB 1529 (2018), Corporation XYZ elects to claim a modification on its 2017 return to subtract the $100 million of listed jurisdiction income that was previously included under ORS 317.716. The election is made by claiming a $100 million subtraction on Schedule OR-ASC-CORP using the subtraction code prescribed by department instructions. Use of the subtraction code prescribed by department instructions on Schedule OR-ASC-CORP signifies Corporation XYZ’s election and agreement to claim the modification in lieu of the repatriation tax credit. 
+
+ Example 2: Same facts as Example 1, except that after filing its original 2017 return Corporation XYZ files an amended 2017 return to change its election. The limitation period to claim a refund for tax year 2017 remains open at the time Corporation XYZ files its amended return. Corporation XYZ claims the repatriation tax credit on Schedule OR-ASC-CORP using the credit code prescribed by department instructions and removes the $100 million subtraction. Use of the credit code prescribed by department instructions on the amended Schedule OR-ASC-CORP signifies Corporation XYZ’s election and agreement to claim the repatriation tax credit in lieu of the modification. Because Corporation XYZ has elected to claim the repatriation tax credit on its 2017 return in lieu of the modification, Corporation XZY is prohibited from claiming a modification on its 2017 and 2018 returns. 
+
+ Example 3: Same facts as Example 2, except that Corporation XYZ was required to include $150 million of listed jurisdiction income as an addition under ORS 317.716 for tax years 2015 and 2016, and $50 million of that income is reported as an IRC 965 repatriation in tax year 2018. Because Corporation XYZ claimed the repatriation tax credit for tax year 2017 on its amended return, it may not claim a modification for tax year 2018. 
+
+ Example 4: Same facts as Example 3, except that Corporation XYZ claimed the repatriation tax credit on its original Oregon return for tax year 2017 instead of a modification. In addition, Corporation XYZ did not file an amended return, Corporation XYZ’s return for tax year 2017 is closed to refund or adjustment, and the return for tax year 2018 is open to refund or adjustment. Corporation XYZ may not claim a modification for tax year 2018 because Corporation XYZ claimed the repatriation tax credit on its 2017 return and the return for tax year 2017 is closed to refund or adjustment. 
+
+ Example 5: For tax year 2017, Corporation XYZ has $100 million in IRC 965 repatriation income from wholly owned foreign subsidiaries, $80 million of which was previously included in income as a listed jurisdiction addition in tax year 2016. Corporation XYZ has no other income taxable as a dividend or deemed dividend for tax year 2017. Corporation XYZ elects to claim the modification under section (1) of this rule. As a result of the modification, Corporation XYZ calculates its dividend received subtraction by first subtracting the amount of the modification from the IRC 965 repatriation income for 2017 ($100 million - $80 million). Accordingly, Corporation XYZ’s dividend received subtraction under ORS 317.267(2) is $16 million (80 percent of $20 million). 
+ 
+
+ [ Publications: C ontact the Oregon Department of Revenue for information about how to obtain a copy of the publication referred to or incorporated by reference in this rule pursuant to ORS 183.360(2) and ORS 183.355(1)(b).] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 
+ 
+ 
+ Statutes/Other Implemented:  ORS 317.038 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 24-2018, adopt filed 12/28/2018, effective 01/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 18-2018, temporary adopt filed 10/15/2018, effective 10/15/2018 through 04/12/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

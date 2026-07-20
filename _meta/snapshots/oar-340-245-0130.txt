@@ -1,0 +1,317 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 245 CLEANER AIR OREGON 
+ 340-245-0130 
+ Risk Reduction Requirements 
+ 
+ (1) A Risk Reduction Plan for an existing source must do the following within the specified period of time under OAR 340-245-0030, as applicable: 
+
+ (a) Reduce risk to less than or equal to the TBACT Level; 
+
+ (b) Require the owner or operator to meet TBACT on all significant TEUs; 
+
+ (c) Reduce risk to less than or equal to the Risk Reduction Level; or 
+
+ (d) Reduce risk to less than or equal to the Community Engagement Level if the owner or operator voluntarily agrees to do so. 
+
+ (2) Risk Reduction Plan Requirements. The owner or operator that is requesting approval of a Risk Reduction Plan must submit to DEQ the following: 
+
+ (a) Two air contaminant emissions inventories: 
+
+ (A) The emissions inventory for the source submitted under OAR 340-245-0040(1) before implementation of the proposed Risk Reduction Plan measures; and 
+
+ (B) A projected emissions inventory for the source submitted under OAR 340-245-0040(1) after implementation of the proposed Risk Reduction Plan measures; 
+
+ (b) The results of a risk assessment performed under OAR 340-245-0050(10) or (11) including the risk calculations before and after full implementation of the Risk Reduction Plan using the emissions inventories required in subsection (a); 
+
+ (c) An analysis of pollution prevention measures under OAR 340-245-0140, and a description of those measures that the owner or operator has undertaken and included as part of its Toxic Air Contaminant Permit Addendum application; 
+
+ (d) Identification of each TEU for which an action will be taken to reduce risk, how the risk will be reduced, and for TEUs that are required to meet TBACT: 
+
+ (A) A demonstration that all significant TEUs at the source meet TBACT under OAR 340-245-0220; or 
+
+ (B) The TBACT analysis under OAR 340-245-0220 that demonstrates that all significant TEUs at the source will meet TBACT when the plan is fully implemented; 
+
+ (e) A schedule for implementing the proposed Risk Reduction Plan measures within the time frames allowed under section (4), if not sooner. The schedule must specify: 
+
+ (A) The dates by which the source will implement the proposed Risk Reduction Plan measures; 
+
+ (B) The dates for submittal of periodic reports showing progress toward completion of the proposed Risk Reduction Plan measures. Progress reports should include achievement of significant milestones, including but not limited to dates of equipment delivery and construction progress; and 
+
+ (C) The dates for submittal of applications for permits to construct or modify, which must be no later than 90 days after DEQ approval of the Risk Reduction Plan, or other time period approved by DEQ; 
+
+ (f) The proposed Source Risk Limits. 
+
+ (3) The owner or operator may request a postponement of risk reduction for excess cancer and chronic noncancer risk under OAR 340-245-0150. 
+
+ (4) Risk Reduction Plan implementation deadlines. 
+
+ (a) Chronic risk. The owner or operator of a source that has either or both an excess cancer or chronic noncancer source risk that is greater than the TBACT Level must complete implementation of the Risk Reduction Plan within two years from the effective date of the Toxic Air Contaminant Permit Addendum or the operating permit with conditions in compliance with this division, or at an earlier time as required by DEQ in such addendum or operating permit; 
+
+ (A) Except as provided in paragraph (B), the owner or operator may apply for a permit modification as specified under OAR 340-245-0100(8) to request additional time to complete implementation of risk reductions measures. If the owner or operator, in such application, shows good cause for the modification based on unreasonable hardship to the source, then DEQ may allow the owner or operator not more than two additional years beyond the timeline established in subsection (4)(a). 
+
+ (B) DEQ may not grant a request under paragraph (A) to an owner or operator that has previously received approval for a postponement of risk reduction under OAR 340-245-0150; 
+
+ (b) Acute risk. The owner or operator of a source that has acute risk that is greater than the TBACT Level must complete implementation of the Risk Reduction Plan on the following timeline: 
+
+ (A) Within one month from the effective date of the Toxic Air Contaminant Permit Addendum or the operating permit with conditions in compliance with this division; or 
+
+ (B) If the owner or operator requests additional time in its Toxic Air Contaminant Permit Addendum application and shows good cause based on unreasonable hardship to the source and an evaluation of health factors, including but not limited to severity of acute health effect, degree of scientific certainty, and averaging time of the acute TRV used to develop the RBC, then DEQ may allow the owner or operator up to and not more than 12 months to complete implementation of the Risk Reduction Plan. 
+
+ (5) Reporting Requirements. 
+
+ (a) The owner or operator of a source that has been issued a Toxic Air Contaminant Permit Addendum or operating permit that includes a Risk Reduction Plan must submit twice-annual progress reports to DEQ describing the source’s progress in reducing toxic air contaminant emissions and risk by implementing the Risk Reduction Plan. The progress reports are due to DEQ on or before February 15 and July 31 of each year that the Risk Reduction Plan is in effect, or other dates specified in the Toxic Air Contaminant Permit Addendum or operating permit. The progress reports must include all information required by the Toxic Air Contaminant Permit Addendum or operating permit, including but not limited to: 
+
+ (A) The increments of progress achieved in implementing the risk reduction measures specified in the Risk Reduction Plan; 
+
+ (B) A schedule indicating dates for future increments of progress; 
+
+ (C) A description of any increases or decreases in emissions of toxic air contaminants that have occurred at the source since approval of the Risk Reduction Plan; and 
+
+ (D) An estimate of when all Risk Reduction Plan elements will be completed; 
+
+ (b) The owner or operator must submit a Risk Reduction Plan completion report to DEQ no later than 60 days after completing all Risk Reduction Plan requirements. The report must include: 
+
+ (A) The final increments of progress achieved in fully implementing the risk reduction measures specified in the Risk Reduction Plan and the date the final increments of progress were achieved; 
+
+ (B) A summary of the actions taken to implement the Risk Reduction Plan; 
+
+ (C) The results of the demonstration of the effectiveness of the Risk Reduction Plan measures, including verification of the modeling parameters for all of the TEUs for which risk was reduced; and 
+
+ (D) The remaining source risk after completion of all risk reduction measures. 
+
+ (6) Voluntary Risk Reductions. DEQ will not conduct community engagement public meetings, as described in OAR 340-245-0120(3), for the owner or operator of an existing source whose risk is less than or equal to the TBACT Level and that agrees to voluntarily reduce risk to below the Community Engagement Level in compliance with the following requirements: 
+
+ (a) Voluntary Risk Reduction Plan. An owner or operator must submit for DEQ approval a Voluntary Risk Reduction Plan that follows the requirements and procedures in this rule for submittal of a Risk Reduction Plan to reduce risk to below the Community Engagement Level; 
+
+ (b) The owner or operator must complete implementation of the Voluntary Risk Reduction Plan within the following timelines: 
+
+ (A) Chronic risk. 
+
+ (i) Two years from the effective date of the Toxic Air Contaminant Permit Addendum, or at an earlier time as required by DEQ for excess cancer and noncancer chronic risk; and 
+
+ (ii) If additional time is needed to implement the risk reduction measures, the owner or operator must apply for a permit modification as specified under OAR 340-245-0100(8). If the owner or operator shows good cause for the modification based on unreasonable hardship to the source then DEQ may allow the owner or operator not more than two additional years beyond the initial two years to complete implementation of the voluntary risk reduction measures. 
+
+ (B) Acute risk. 
+
+ (i) One month from the effective date of the Toxic Air Contaminant Permit Addendum for acute risk; and 
+
+ (ii) If additional time is needed to implement the risk reduction measures, the owner or operator must apply for a permit modification as specified under OAR 340-245-0100(8). If the owner or operator shows good cause based on unreasonable hardship to the source and an evaluation of health factors, including but not limited to severity of acute health effect, degree of scientific certainty, and averaging time of the acute TRV used to develop the RBC, then DEQ may allow the owner or operator up to and not more than 12 months to complete implementation of the voluntary risk reduction measures; and 
+
+ (c) If the owner or operator does not complete implementation of the Voluntary Risk Reduction Plan within the approved time, DEQ may initiate the community engagement requirements under OAR 340-245-0120. 
+
+ (7) Immediate Curtailment Risk Reduction Plan. If the results of the DEQ approved Level 3 or Level 4 Risk Assessment, submitted under OAR 340-245-0050, demonstrate source risk is greater than the Immediate Curtailment Level in OAR 340-245-8010 Table 1, the owner or operator must: 
+
+ (a) Submit to DEQ, by the deadline provided in OAR 340-245-0030(1)(e), an Immediate Curtailment Risk Reduction Plan that describes the actions the source will take to immediately reduce risk below the Immediate Curtailment Level. The Immediate Curtailment Risk Reduction Plan must include: 
+
+ (A) Specific actions to immediately reduce risk from Significant TEUs, which may include: 
+
+ (i) Production activity reductions or process modifications; 
+
+ (ii) Material substitution or product reformulation; 
+
+ (iii) Additional operations and maintenance; and 
+
+ (iv) Improvements to, or installation of, pollution control devices; 
+
+ (B) The amount of risk reduction anticipated from the actions included under paragraph (A) and all supporting estimation methods and calculations; and 
+
+ (C) Monitoring procedures to ensure the anticipated reduction amounts in paragraph (B) are achieved; 
+
+ (b) Fully implement the Immediate Curtailment Risk Reduction Plan within ten days of DEQ approval of the plan. 
+
+ (8) If the owner or operator submits an incomplete Immediate Curtailment Risk Reduction Plan or if DEQ determines that the Immediate Curtailment Risk Reduction Plan is inadequate, then in addition to any other remedies available to DEQ, including authority pursuant to ORS 468.115, if applicable, DEQ may modify the Immediate Curtailment Risk Reduction Plan and order the owner or operator to comply with such plan. The owner or operator must fully implement the modified Immediate Curtailment Risk Reduction Plan within 10 days of receipt. 
+
+ (9) The owner or operator must comply with the Immediate Curtailment Risk Reduction Plan until: 
+
+ (a) DEQ issues a Toxic Air Contaminant Permit Addendum under OAR 340-245-0100 with an approved Risk Reduction Plan; and 
+
+ (b) The owner or operator implements the approved Risk Reduction Plan. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, 468.065, 468A.025, 468A.040, 468A.050, 468A.070, 468A.155, 468A.135 & 468A.337 
+ 
+ 
+ Statutes/Other Implemented:  468.065, 468A.025, 468A.040, 468A.050, 468A.070, 468A.155, 468A.010, 468A.015, 468A.035, 468A.337 & 468A.335 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 26-2021, minor correction filed 12/09/2021, effective 12/09/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 18-2021, amend filed 11/17/2021, effective 11/17/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 197-2018, adopt filed 11/16/2018, effective 11/16/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

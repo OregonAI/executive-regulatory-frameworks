@@ -1,0 +1,185 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Behavioral Health Services - Chapter 309 
+ 
+ 
+ 
+ 
+ Division 32 COMMUNITY TREATMENT AND SUPPORT SERVICES 
+ 309-032-0860 
+ Definitions 
+ 
+ As used in these rules:  (1) “Adult” means an individual age 18 years or older.  (2) “Certificate” means the document issued by the Division that identifies and declares certification of a provider pursuant to OAR 309-008-0100 to 309-008-1600. A letter accompanying issuance of the certificate shall detail the certificate’s scope and approved service delivery locations.  (3) “Clinical Record” means a separate file established and maintained under these rules for each patient.  (4) “Community Mental Health Program” or “CMHP” means the organization of all services for individuals with mental or emotional disturbances, substance use problems, and developmental disabilities, operated by or contractually affiliated with a local mental health authority and operated in a specific geographic area of the state under an omnibus contract with the Division.  (5) “Council” means an organization of individuals with a mission statement and by-laws, comprised of representatives of the regional acute care psychiatric service, state hospital, community mental health programs served, consumers, and family members. The Council is advisory to the regional acute care facility for adults.  (6) “Diagnosis” means a DSM diagnosis determined through the mental health assessment and any examinations, laboratory, medical or psychological tests, procedures, or consultations suggested by the assessment.  (7) “Division” means the Health Systems Division of the Oregon Health Authority.  (8) “DSM” means the current edition of the “Diagnostic and Statistical Manual of Mental Disorders” published by the American Psychiatric Association.  (9) “Goal” means the broad aspirations or outcomes toward which the patient is striving and toward which all services are intended to assist the patient.  (10) “Guardian” means an individual appointed by a court of law to act as a guardian of a legally incapacitated person.  (11) “Independent Medical Practitioner” means a medically trained individual licensed to practice independently in the State of Oregon and has one of the following degrees: MD (Medical Doctor), DO (Doctor of Osteopathy), or NP (Nurse Practitioner).  (12) “Legally Incapacitated” means having been found by a court of law under ORS 126.103 or 426.295 to be unable, without assistance, to properly manage or take care of one’s personal affairs.  (13) “Linkage Agreement” means a written agreement between regional acute care psychiatric facilities and other entities involved in patient care that includes, but is not limited to, CCOs, CMHPs, and state hospitals that describes the roles and responsibilities each entity assumes in order to assure that the goals of the regional acute care psychiatric services are achieved.  (14) “Medical Director” means a board eligible psychiatrist who oversees the patient care program. The medical director shall have the final authority concerning inpatient medical care including admissions, continuing care, and discharges.  (15) “Medical History” means a review of the patient’s current and past state of health as reported by the patient or other reliable sources, including, but not limited to:  (a) History of any significant illnesses, injuries, allergies, or drug sensitivities; and  (b) History of any significant medical treatments, including hospitalizations and major medical procedures.  (16) “Mental Health Assessment” means a process in which the individual’s need for mental health services is determined through evaluation of the individual’s strengths, goals, needs, and current level of functioning.  (17) “Mental Status Examination” means an overall assessment of an individual’s mental functioning that includes descriptions of appearance, behavior, speech, and mood, and affect suicidal or homicidal ideation, thought processes and content, and perceptual difficulties including hallucinations and delusions. Cognitive abilities are also assessed and include orientation, memory, concentration, general knowledge, abstraction abilities, judgment, and insight.  (18) “Objective” means an interim level of progress or a component step the specification of which is necessary or helpful in moving toward a goal.  (19) “OPRCS” means the Oregon Patient/Resident Care System. OPRCS is a Division operated, on-line computerized information system that accepts, stores, and returns information about patients from state operated institutions and other designated inpatient services.  (20) “Patient” means an individual who is receiving care and treatment in a regional acute care psychiatric service.  (21) “Person Committed to the Division” means a patient committed under ORS 161.327 or 426.130.  (22) “Person with Serious and Persistent Mental Illness (SPMI)” means, for the purposes of a warm handoff, an individual age 18 or older who meets the current DSM diagnostic criteria for at least one of the following conditions as a primary diagnosis:  (a) Schizophrenia and other psychotic disorders;  (b) Major depressive disorder;  (c) Bipolar disorder;  (d) Anxiety disorders, limited to OCD and PTSD;  (e) Schizotypal personality disorder;  (f) Borderline personality disorder.  (g) The applicable ICD 9 & 10 codes for SPMI diagnoses can be found at https://www.oregon.gov/oha/HPA/CSI-BHP/Pages/Oregon-Performance-Plan.aspx.  (23) “Program Administrator” means an individual with appropriate professional qualifications and experience appointed by the governing body to manage the operation of the regional acute care psychiatric services.  (24) “Psychiatrist” means a physician licensed pursuant to ORS 677.010 to 677.492 by the Board of Medical Examiners for the State of Oregon and who has completed an approved residency training program in psychiatry.  (25) “Qualified Mental Health Professional” or “QMHP” means an individual who is one of the following:  (a) Psychiatrist or physician licensed to practice in the State of Oregon; an individual with a graduate degree in psychology, social work, or other mental health related field; a registered nurse with a graduate degree in psychiatric nursing licensed in the State of Oregon; an individual with registration as an occupational therapist; an individual with a graduate degree in recreational therapy; or  (b) Any other individual whose education, experience, and competence have been documented by the CMHP director or designee as able to identify precipitating events; gather histories of mental and physical disabilities, alcohol and drug use, past mental health services, and criminal justice contacts; assess family, social, and work relationships; conduct a mental status assessment; document a DSM diagnosis; write and supervise a rehabilitation plan; and provide individual, family, or group therapy.  (26) “Regional Acute Care Psychiatric Service” or “Service” means a Division funded service provided under contract with the Division or county and operated in cooperation with a regional or local council.  (27) “Supervisor” means an individual with two years of experience as a qualified mental health professional and who, in accordance with OAR 309-032-0870, reviews the services provided to patients by qualified individuals.  (28) “Telehealth” means a technological solution that provides two-way, video-like communication on a secure line.  (29) “Treatment Plan” means an individualized, written plan defining specific rehabilitation objectives and proposed service interventions derived from the patient’s mental health assessment.  (30) “Warm Handoff” means the process of transferring a patient from one provider to another prior to discharge from an acute care psychiatric hospital that involves face-to-face meetings with the patient, either in person or through the use of telehealth, and that coordinates the transfer of responsibility for the patient’s ongoing care and continuing treatment and services. A warm handoff shall be offered to individuals with SPMI, defined in OAR 309-032-0860(22), as part of the discharge planning process. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042 & 430.640 
+ 
+ 
+ Statutes/Other Implemented:  ORS 430.630 & 430.640 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ MHS 8-2017, f. & cert. ef. 6-23-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ MHS 22-2016, f. & cert. ef. 12-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ MHD 8-1994, f. & cert. ef. 11-28-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

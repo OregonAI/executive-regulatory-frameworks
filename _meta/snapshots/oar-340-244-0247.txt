@@ -1,0 +1,365 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 244 OREGON FEDERAL HAZARDOUS AIR POLLUTANT PROGRAM 
+ 340-244-0247 
+ Gasoline Dispensing Facilities: Stage II Vapor Recovery System
+ 
+ 
+ (1) The owner or operator of a GDF with a Stage II vapor recovery system referred to this rule must determine, by no later than July 1, 2024, whether the currently installed Stage II vapor recovery system is compatible or incompatible with motor vehicle Onboard Refueling Vapor Recovery systems (ORVR). A Stage II vapor recovery system is incompatible with ORVR, for example, if it actively draws gasoline vapor during dispensing and does not cease the vacuum draw when dispensing gasoline into an ORVR-equipped motor vehicle. 
+
+ (a) Owners or operators with ORVR compatible Stage II vapor recovery systems must comply with section (2) of this rule; and 
+
+ (b) Owners or operators with ORVR incompatible Stage II vapor recovery systems must comply with sections (3) or (4) of this rule. 
+
+ (2) The owner or operator of an ORVR-compatible Stage II vapor recovery system may remove the Stage II vapor recovery system if the following conditions are met: 
+
+ (a) The owner or operator complies with notice of construction requirements of division 210, as applicable; 
+
+ (b) The owner or operator installs a complete Enhanced Vapor Recovery system on each gasoline storage tank with 250 gallon capacity or greater under OAR 340-244-0246; 
+
+ (c) The owner or operator installs ECO nozzles on each gasoline dispensing hose under OAR 340-244-0246; 
+
+ (d) The Enhanced Vapor Recovery system and ECO nozzles must be installed no later than the same calendar day the complete Stage II vapor recovery system is uninstalled, capped, or otherwise decommissioned according to OAR 340-244-0247, except as provided in subsection (2)(e); 
+
+ (e) If the owner or operator is not dispensing any gasoline from or loading any gasoline into any gasoline storage tanks at the facility, the Enhanced Vapor Recovery system and ECO nozzles must instead be installed before any gasoline is dispensed from or loaded into any gasoline storage tank at the facility. 
+
+ (3) The owner or operator of an ORVR-incompatible Stage II vapor recovery system must remove, cap, or otherwise decommission the Stage II vapor recovery system no later than December 31, 2025 in accordance with OAR 340-244-0247(10) and: 
+
+ (a) Comply with the notice of construction requirements of division 210, as applicable; 
+
+ (b) Install a complete Enhanced Vapor Recovery system on each gasoline storage tank with 250 gallon capacity or greater under OAR 340-244-0246; 
+
+ (c) Install ECO nozzles on each gasoline dispensing hose under OAR 340-244-0246; 
+
+ (d) The Enhanced Vapor Recovery system and ECO nozzles must be installed no later than the same calendar day the complete Stage II vapor recovery system is uninstalled, capped, or otherwise decommissioned according to OAR 340-244-0247, except as provided in subsection (3)(e); 
+
+ (e) If the owner or operator is not dispensing any gasoline from or loading any gasoline into any gasoline storage tanks at the facility, the Enhanced Vapor Recovery system and ECO nozzles must instead be installed before any gasoline is dispensed from or loaded into any gasoline storage tank at the facility. 
+
+ (4) The owner or operator of an incompatible Stage II vapor recovery system must install a compatible Stage II vapor recovery system no later than December 31, 2025, and comply with the notice of construction requirements of division 210, as applicable. 
+
+ (5) No owner or operator of a GDF may transfer or allow the transfer of gasoline into a motor vehicle fuel tank using a Stage II vapor recovery system that is incompatible with motor vehicle ORVR systems after December 31, 2025. 
+
+ (6) An owner or operator of a GDF that wants to install an ORVR-compatible Stage II vapor recovery system when not otherwise required to do so by this division must submit a notice of construction under division 210 and receive written DEQ approval before installing the equipment. 
+
+ [NOTE: Underground piping requirements are described in OAR chapter 340 division 150 and 40 C.F.R. 280.20(d). Systems installed according to Petroleum Equipment Institute Publication RP100, “Recommended Practices for Installation of Underground Liquid Storage Systems”, RP300, “Installation and Testing of Vapor Recovery Systems”, or American Society of Mechanical Engineers Standard B31.4 “Pipeline Transportation Systems for Liquid Hydrocarbons and Other Liquids” or manufacturer specifications are considered approved systems.] 
+
+ (7) Owners and operators of gasoline-dispensing facilities with Stage II vapor recovery systems must: 
+
+ (a) Provide adequate training and written instructions to the operator of the affected gasoline-dispensing facility and the gasoline transport vehicle. Written instructions must be readily available to onsite staff, contractors, and similar individuals (electronic or hardcopy); 
+
+ (b) Inspect all components of the Stage II vapor recovery system, including but not limited to all hoses and nozzles, at least once every three months; 
+
+ (c) Replace, repair or modify any worn or ineffective component or design element to ensure the vapor-tight integrity and efficiency of the Stage II vapor recovery systems. T he affected component or design element must be replaced, repaired, or modified within 24 hours after the owner or operator knows or reasonably should know of the component or design element being worn on ineffective to ensure the vapor-tight integrity and efficiency of the Stage II vapor recovery system. If repair parts must be ordered, either a written or oral order for those parts must be initiated within two working days of detecting such a leak. Such repair parts must be installed within five working days after receipt; and 
+
+ (d) Connect and ensure proper operation of the Stage II vapor recovery systems whenever gasoline is being loaded, unloaded or dispensed. 
+
+ (8) Approval of a Stage II vapor recovery system by DEQ does not relieve the owner or operator of the responsibility to comply with other applicable codes and regulations, including, without limitation, those pertaining to fire prevention, weights and measures, and safety matters. 
+
+ (9) Regarding installation, removal, decommissioning and testing of piping for Stage II vapor recovery systems: 
+
+ (a) Piping must be installed, modified, decommissioned or removed in accordance with standards in OAR 340 division 150 as applicable; 
+
+ (b) Piping must be installed, modified, decommissioned or removed by a licensed service provider pursuant to OAR 340 division 160 as applicable; and 
+
+ (c) Piping must be tested prior to being placed into operation by an installation or tank tightness testing service provider licensed pursuant to OAR 340 division 160 as defined by the appropriate testing method. 
+
+ (10) Stage II vapor recovery system decommissioning. The owner or operator of a GDF that is removing, capping, or otherwise decommissioning a Stage II vapor recovery system must comply with the following during the decommissioning, as applicable: 
+
+ (a) Initiate all appropriate safety procedures; 
+
+ (b) Relieve pressure in tank ullage; 
+
+ (c) Drain liquid-collection points; 
+
+ (d) Disconnect all vapor pumping or processing units; 
+
+ (e) Disconnect all electrical components of the Stage II vapor recovery system so that no electrics hazards are created; 
+
+ (f) Reprogram the dispenser electronics to reflect that the Stage II vapor recovery system is no longer in service; 
+
+ (g) Securely seal off the below grade vapor piping at height below the level of the base of the dispenser and capped with compatible cap material; 
+
+ (h) Securely seal off the below grade vapor piping at the tank end if it is easily accessible and cap with compatible material; 
+
+ (i) Securely seal off the vapor piping inside the dispenser and cap with compatible material;   
+
+ (j) Replace Stage II vapor recovery system  hanging hardware with conventional hanging hardware or Enhanced Conventional Nozzles, as applicable; 
+
+ (k) Install appropriate Pressure Vacuum Vent valves; 
+
+ (l) Remove any instructions from the dispenser cabinet; 
+
+ (m) Conduct a pressure test for all gasoline storage tanks above 250 gallon capacity at the site according to OAR 340-244-0249(6)(a)(A); and 
+
+ (n) Verify visible components of storage tank are left in condition that will reliably prevent the release of vapors/liquids from any system component. 
+
+ [NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040 only for affected sources in the Portland-Vancouver, Medford-Ashland, and Salem-Keizer Area Transportation Study air quality management areas and all of Clackamas, Multnomah, and Washington counties.] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020 & 468A.025 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468A.025 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 5-2024, renumbered from 340-242-0520, filed 03/25/2024, effective 03/25/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 4-2024, amend filed 03/25/2024, effective 03/25/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 7-2015, f. & cert. ef. 4-16-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 15-2008, f. & cert. ef 12-31-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-022-0402 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 20-1998, f. & cert. ef. 10-12-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 16-1996, f. & cert. ef. 8-14-96 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 25-1994, f. & cert. ef. 11-22-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 4-1993, f. & cert. ef. 3-10-93 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 7-1991, f. & cert. ef. 5-7-91 (and corrected 6-7-91) 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

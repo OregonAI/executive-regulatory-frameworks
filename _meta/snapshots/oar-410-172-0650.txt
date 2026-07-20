@@ -1,0 +1,358 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 172 MEDICAID PAYMENT FOR BEHAVIORAL  HEALTH SERVICES 
+ 410-172-0650 
+ Prior Authorization
+ 
+ 
+ (1) Some services or items covered by the Division require authorization before the service may be provided. Services requiring prior authorization are published on the Medicaid Behavioral Health Services Fee Schedule. 
+
+ (2) The Division shall authorize payment for the type of service or level of care that meets the recipient’s medical need and that has been adequately documented. 
+
+ (3) The Division shall authorize only services that are medically appropriate and for which the required documentation has been supplied. The Division may request additional information from the provider to determine medical appropriateness. 
+
+ (4) Documentation submitted when requesting prior authorization shall support the medical justification for the service. The authorization request shall contain: 
+
+ (a) A cover sheet detailing relevant provider and recipient Medicaid numbers; 
+
+ (b) Requested dates of service; 
+
+ (c) HCPCS or CPT Procedure code requested; 
+
+ (d) Amount of service or units requested; and 
+
+ (e) A behavioral health assessment and service plan meeting the requirements described in OAR 309-019-0135 through 0140; or 
+
+ (f) Any additional clinical information supporting medical justification for the services requested; 
+
+ (g) For substance use disorder services (SUD), the Division uses the American Society of Addiction Medicine (ASAM) Patient Placement Criteria second edition-revised (PPC-2R) to determine the appropriate level of SUD treatment of care. Providers shall use the ASAM; 
+
+ (h) For Applied Behavior Analysis (ABA) services, the Division requires submission of the following: 
+
+ (A) ABA services for the treatment of autism spectrum disorder shall have an evaluation as described in OAR 410-172-0770(1)(a–j) and a referral for treatment as described in OAR 410-172-0760(1) from one of the licensed practitioners described in OAR 410-172-0760(1)(a–d) who are, in addition, experienced in the diagnosis of autism spectrum disorder; 
+
+ (B) ABA services for the treatment of stereotyped movement disorder with self-injurious behavior due to neurodevelopmental disorder shall have an evaluation as described in OAR 410-172-0770(2) and a referral for treatment as described in OAR 410-172-0760(2) from a licensed practitioner, practicing within the scope of their license who has experience or training in the diagnosis and treatment of stereotyped movement disorder with self-injurious behavior due to neurodevelopmental disorder; 
+
+ (C) A treatment plan, including a functional behavior assessment, as needed, from a licensed health care professional as defined in ORS 676.802(2)(a–h), or by a behavior analyst or assistant behavior analyst licensed by the Oregon Behavior Analysis Regulatory Board, or by an individual holding a declaration of practice through the Oregon Behavior Analysis Regulatory Board as described in OAR 824-010-0005(10). 
+
+ (i) For Intensive In-Home Behavioral Treatment Services (IIHBT), the Division requires submission of the following, in addition to the requirements described in 410-172-0650(4)(a-f), to the Division or the Division’s contractor: 
+
+ (A) Initial prior authorization request may not exceed sixty (60) days, and authorization for continued services may be approved in 30-day increments. Each request shall include: 
+
+ (i) Documentation by, at minimum, a Qualified Mental Health Professional, Licensed Medical Practitioner licensed in the state of Oregon, Licensed Clinical Practitioner, or psychologist licensed by the Oregon Board of Psychology, justifying IIBHT level of care; 
+
+ (ii) Sufficient information and documentation to justify the presence of two or more primary mental health diagnoses that meets the medically necessary reason for services; and 
+
+ (iii) Documentation displaying intensive behavioral health needs, that may include significant health and safety risks or concerns, impacting multiple life domains (school, home, community) as identified on a mental health assessment. 
+
+ (B) A 30-day authorization for transition out of IIBHT services may be requested to support transition management for the treatment team, youth, and their family, and shall include an updated service plan describing ongoing maintenance of services and supports necessary for transition planning. 
+
+ (j) Residential treatment services for children may require a letter of approval by a designated Quality Improvement Organization (QIO); 
+
+ (k) Some services require additional approval or authorization by a physician, the Division, or designee. Services requiring additional approval are listed on the Behavioral Health Fee Schedule or described in this rule. 
+
+ (5) The Division may not authorize services under the following circumstances: 
+
+ (a) The request received by the Division was not complete; 
+
+ (b) The provider did not hold the appropriate license, certificate, or credential at the time services were requested; 
+
+ (c) The recipient was not eligible for Medicaid at the time services were requested; 
+
+ (d) The provider cannot produce appropriate documentation to support medical appropriateness, or the appropriate documentation was not submitted to the Division; 
+
+ (e) The services requested are not in compliance with OAR 410-120-1260 through 1860; 
+
+ (f) The provider is not currently enrolled in the Medicaid program or has not met requirements of OAR 410-120-1260, provider is currently suspended from the Medicaid program, or provider’s Division-assigned provider number is deactivated for any reason. 
+
+ (6) Authorization for payment may be given for a past date of service if: 
+
+ (a) On the date of service, the recipient was made retroactively eligible or was retroactively dis-enrolled from a CCO or PHP; 
+
+ (b) The services provided meet all other criteria and Division administrative rules; and 
+
+ (c) The request for authorization is received within 90 days of the date of service. 
+
+ (7) Any requests for authorization after 90 days from date of service require documentation from the provider demonstrating the specific reason why authorization could not have been obtained within 90 days of the date of service. 
+
+ (8) Payment authorization is valid for the time-period specified on the authorization notice but may not exceed 12 months unless the recipient’s benefit package no longer covers the service, in which case the authorization shall terminate on the date coverage ends. 
+
+ (9) Prior authorization of services shall be subject to periodic utilization review and retrospective review to ensure services meet the definition of medical appropriateness. 
+
+ (10) Payments shall be made for the provision of active treatment services. If active treatment is not documented during any period in which the Division prior authorized the services, the Division may limit or cancel prior authorization or recoup the payments. 
+
+ (11) If providers fail to comply with requests for documents for purposes of verifying medical appropriateness within the specified time-frames, the Division may deem the records non-existent, cancel prior authorization and recoup payments. 
+
+ (12) In applying OAR 410-141-3061, OAR 410-172-0650 (5)(f), and OAR 410-172-0650(6), the Division may construe them as much as possible to be complementary. In the event that OAR 410-141-3061, OAR 410-172-0650(5)(f) and OAR 410-172-0650(6) may not be complementary, the Division shall apply the following order of precedence to guide its interpretation: OAR 410-120-0025, OAR 410-141-3061, OAR 410-172-0650(5)(f), and OAR 410-172-0650(6). 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042 & 430.640 
+ 
+ 
+ Statutes/Other Implemented:  ORS 413.042, 430.640, ORS 414.025, 414.065, 430.705 & 430.715 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 59-2022, amend filed 06/21/2022, effective 06/21/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 49-2021, temporary amend filed 12/23/2021, effective 12/23/2021 through 06/20/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 37-2020, amend filed 07/23/2020, effective 07/23/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 14-2019, amend filed 05/23/2019, effective 06/27/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 109-2018, temporary amend filed 12/20/2018, effective 01/01/2019 through 06/29/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 12-2017, f. & cert. ef. 4-4-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 60-2016(Temp), f. & cert. ef. 10-7-16 thru 4-4-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 32-2015, f. 6-24-15, cert. ef. 6-26-15 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 85-2014(Temp), f. 12-24-14, cert. ef. 1-1-15 thru 6-29-15 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

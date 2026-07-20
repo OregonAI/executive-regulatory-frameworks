@@ -1,0 +1,438 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Workers' Compensation Division - Chapter 436 
+ 
+ 
+ 
+ 
+ Division 35 DISABILITY RATING STANDARDS 
+ 436-035-0013 
+ Findings of Impairment
+ 
+ 
+ (1) Findings of impairment, generally. Findings of impairment are objective medical findings that measure the extent to which a worker has suffered permanent loss of use or function of a body part or system. 
+
+ (2) Findings of impairment when the worker is medically stationary. If the worker is medically stationary, findings of impairment are determined by performing the following steps: 
+
+ (a) In initial injury claims . 
+
+ (A) Identify each body part or system in which use or function is permanently lost as a result of an accepted condition or a direct medical sequela of an accepted condition. 
+
+ (B) For each body part or system identified in paragraph (A) of this subsection, establish the extent to which use or function of the body part or system is permanently lost; and 
+
+ (C) Establish the portion of the loss caused by: 
+
+ (i) Any accepted condition; 
+
+ (ii) Any direct medical sequela of an accepted condition; 
+
+ (iii) Any condition that existed before the initial injury incident but does not qualify as a pre-existing condition; 
+
+ (iv) Any pre-existing condition that is not otherwise compensable; 
+
+ (v) Any denied condition; and 
+
+ (vi) Any superimposed condition. 
+
+ 
+ Example: Accepted condition: Low back strain combined with pre-existing lumbar degenerative disc disease 
+
+ Denied condition: major contributing cause denial of the combined condition 
+
+ In the closing examination, the attending physician describes range of motion findings and states that 10% of the range of motion loss is due to the accepted condition and 90% of the loss is due to lumbar degenerative disc disease. The worker is eligible for an impairment award for the 10% of the range of motion loss that is due to the low back strain. Under these rules, the range of motion loss is valued at 10%. 10% x .10 equals 1% impairment. 
+ 
+
+ (b) In new or omitted condition claims. 
+
+ (A) Identify each body part or system in which use or function is permanently lost as a result of an accepted new or omitted condition or a direct medical sequela of an accepted new or omitted condition. 
+
+ (B) For each body part or system identified in paragraph (A) of this subsection, establish the extent to which use or function of the body part or system is permanently lost; and 
+
+ (C) Establish the portion of the loss caused by: 
+
+ (i) Any accepted new or omitted condition; 
+
+ (ii) Any direct medical sequela of an accepted new or omitted condition; 
+
+ (iii) In a new condition claim, any condition that existed before the onset of the accepted new medical condition but does not qualify as a pre-existing condition; 
+
+ (iv) In an omitted condition claim, any condition that existed before the initial injury incident but does not qualify as a pre-existing condition; 
+
+ (v) Any pre-existing condition that is not otherwise compensable; 
+
+ (vi) Any denied condition; and 
+
+ (vii) Any superimposed condition. 
+
+ (c) In aggravation claims. 
+
+ (A) Identify each body part or system in which use or function is permanently lost as a result of an accepted worsened condition or a direct medical sequela of an accepted worsened condition. 
+
+ (B) For each body part or system identified in paragraph (A) of this subsection, establish the extent to which use or function of the body part or system is permanently lost; and 
+
+ (C) Establish the portion of the loss caused by: 
+
+ (i) Any accepted worsened condition; 
+
+ (ii) Any direct medical sequela of an accepted worsened condition; 
+
+ (iii) Any condition that existed before the onset of the accepted worsened condition but does not qualify as a pre-existing condition; 
+
+ (iv) Any pre-existing condition that is not otherwise compensable; 
+
+ (v) Any denied condition; and 
+
+ (vi) Any superimposed condition. 
+
+ (d) In occupational disease claims. 
+
+ (A) Identify each body part or system in which use or function is permanently lost as a result of an accepted occupational disease or a direct medical sequela of an accepted occupational disease. 
+
+ (B) For each body part or system identified in paragraph (A) of this subsection, establish the extent to which use or function of the body part or system is permanently lost; and 
+
+ (C) Establish the portion of the loss caused by: 
+
+ (i) Any accepted occupational disease; 
+
+ (ii) Any direct medical sequela of an accepted occupational disease; 
+
+ (iii) Any pre-existing condition that is not otherwise compensable; 
+
+ (iv) Any denied condition; and 
+
+ (v) Any superimposed condition. 
+
+ (3) Findings of impairment when the worker is not medically stationary. Except for a claim closed under ORS 656.268(1)(c), if the worker is not medically stationary, findings of impairment are determined by performing the following steps: 
+
+ (a) In initial injury claims. 
+
+ (A) Identify each body part or system in which use or function is likely to be permanently lost as a result of an accepted condition or a direct medical sequela of an accepted condition at the time the worker is likely to become medically stationary; 
+
+ (B) For each body part or system identified in paragraph (A) of this subsection, estimate the extent to which the use or function of the body part or system is likely to be permanently lost at the time the worker is likely to become medically stationary; and 
+
+ (C) Estimate the portion of the loss that is likely to be caused by: 
+
+ (i) Any accepted condition; 
+
+ (ii) Any direct medical sequela of an accepted condition; 
+
+ (iii) Any condition that existed before the initial injury incident but does not qualify as a pre-existing condition; 
+
+ (iv) Any pre-existing condition that is not otherwise compensable; 
+
+ (v) Any denied condition; and 
+
+ (vi) Any superimposed condition. 
+
+ (b) In new or omitted condition claims. 
+
+ (A) Identify each body part or system in which use or function is likely to be permanently lost as a result of an accepted new or omitted condition or a direct medical sequela of an accepted new or omitted condition at the time the worker is likely to become medically stationary; 
+
+ (B) For each body part or system identified in paragraph (A) of this subsection, estimate the extent to which the use or function of the body part or system is likely to be permanently lost at the time the worker is likely to become medically stationary; and 
+
+ (C) Estimate the portion of the loss that is likely to be caused by: 
+
+ (i) Any accepted new or omitted condition; 
+
+ (ii) Any direct medical sequela of an accepted new or omitted condition; 
+
+ (iii) In a new condition claim, any condition that existed before the onset of the accepted new medical condition but does not qualify as a pre-existing condition; 
+
+ (iv) In an omitted condition claim, any condition that existed before the initial injury incident but does not qualify as a pre-existing condition; 
+
+ (v) Any pre-existing condition that is not otherwise compensable; 
+
+ (vi) Any denied condition; and 
+
+ (vii) Any superimposed condition. 
+
+ (c) In aggravation claims. 
+
+ (A) Identify each body part or system in which use or function is likely to be permanently lost as a result of an accepted worsened condition or a direct medical sequela of an accepted worsened condition at the time the worker is likely to become medically stationary; 
+
+ (B) For each body part or system identified in paragraph (A) of this subsection, estimate the extent to which the use or function of the body part or system is likely to be permanently lost at the time the worker is likely to become medically stationary; and 
+
+ (C) Estimate the portion of the loss that is likely to be caused by: 
+
+ (i) Any accepted worsened condition; 
+
+ (ii) Any direct medical sequela of an accepted worsened condition; 
+
+ (iii) Any condition that existed before the onset of the accepted worsened condition but does not qualify as a pre-existing condition; 
+
+ (iv) Any pre-existing condition that is not otherwise compensable; 
+
+ (v) Any denied condition; and 
+
+ (vi) Any superimposed condition. 
+
+ (d) In occupational disease claims. 
+
+ (A) Identify each body part or system in which use or function is likely to be permanently lost as a result of an accepted occupational disease or a direct medical sequela of an accepted occupational disease at the time the worker is likely to become medically stationary; 
+
+ (B) For each body part or system identified in paragraph (A) of this subsection, estimate the extent to which the use or function of the body part or system is likely to be permanently lost at the time the worker is likely to become medically stationary; and 
+
+ (C) Estimate the portion of the loss that is likely to be caused by: 
+
+ (i) Any accepted occupational disease; 
+
+ (ii) Any direct medical sequela of an accepted occupational disease; 
+
+ (iii) Any pre-existing condition that is not otherwise compensable; 
+
+ (iv) Any denied condition; and 
+
+ (v) Any superimposed condition. 
+
+ (4) Age and education. The social-vocational factors of age and education (including SVP) are not apportioned, but are determined as of the date of issuance. 
+
+ (5) Irreversible findings of impairment or surgical value. Workers with an irreversible finding of impairment or surgical value due to the compensable injury receive the full value awarded in these rules for the irreversible finding or surgical value, except in cases where the irreversible finding or surgical value is caused in part by a superimposed condition, a pre-existing condition that is part of a combined condition denial, or a combined condition denied in its entirety. A worker is not eligible for an award for the portion of loss for an irreversible finding or surgical value caused in part by a superimposed condition, a pre-existing condition that is part of a combined condition denial, or a combined condition denied in its entirety. 
+
+ 
+ Example: Accepted conditions: Low back strain with herniated disk at L5-S1 and diskectomy. 
+
+ Noncompensable condition: pregnancy (mid-term) 
+
+ The worker is released to regular work. In the closing examination, the attending physician describes range of motion findings and states that 60% of the range of motion loss is due to the accepted conditions and 40% of the range of motion loss is due to the pregnancy. Under these rules, the range of motion loss is valued at 10%. 10% x .60 equals 6%. 
+
+ Diskectomy at L5-S1 (irreversible finding) = 9% per these rules. 
+
+ Combine 9% with 6% for a value of 14% impairment for the compensable injury. 
+ 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 656.726 
+ 
+ 
+ Statutes/Other Implemented:  ORS 656.726, ORS 656.005, ORS 656.214 & ORS 656.268 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 8-2022, amend filed 11/08/2022, effective 12/04/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 3-2022, temporary amend filed 06/07/2022, effective 06/07/2022 through 12/03/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 3-2017, f. 9-7-17, cert. ef. 10-8-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 2-2017(Temp), f. 4-10-17, cert. ef. 4-11-17 thru 10-7-17 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 1-2015, f. 1-29-15, cert. ef. 3-1-15 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 2-2010, f. 5-5-10, cert. ef. 6-1-10 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 9-2004, f. 10-26-04, cert. ef. 1-1-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,240 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 224 NEW SOURCE REVIEW 
+ 340-224-0520 
+ Net Air Quality Benefit Emission Offsets: Requirements for Demonstrating Net Air Quality Benefit for Ozone Areas
+ 
+ 
+ When directed by the Major or State NSR rules, OAR 340-222-0042, or OAR 340-226-0400, the owner or operator must comply with this rule. 
+
+ (1) Offsets for VOC and NOx are required if the source will be located within an ozone designated area or closer to the nearest boundary of an ozone designated area than the ozone impact distance as defined in section (2). 
+
+ (2) Ozone impact distance is the distance in kilometers from the nearest boundary of an ozone designated area within which a source of VOC or NOx is considered to significantly affect that designated area. The determination of significance is made by either the formula method or the demonstration method. 
+
+ (a) The Formula Method. 
+
+ (A) For sources with complete permit applications submitted before Jan. 1, 2003: D = 30 km. 
+
+ (B) For sources with complete permit applications submitted on or after Jan. 1, 2003: D = (Q/40) x 30 km. 
+
+ (C) D is the ozone impact distance in kilometers. The value for D is 100 kilometers when D is calculated to exceed 100 kilometers. Q is the larger of the NOx or VOC emissions increase above the netting basis from the source being evaluated in tons per year. 
+
+ (D) If a source is located closer than D from the nearest ozone designated area boundary, the source must obtain offsets under sections (3) and (4). If the source is located at a distance equal to or greater than D from the nearest ozone designated area boundary then the source is not required to obtain offsets. 
+
+ (b) The Demonstration Method. An applicant may demonstrate to DEQ that the source or proposed source would not have a material effect on an ozone designated area other than attainment or unclassified areas. This demonstration may be based on an analysis of major topographic features, dispersion modeling, meteorological conditions, or other factors. If DEQ determines that the source or proposed source would not have a material effect on the designated area under high ozone conditions, the ozone impact distance is zero kilometers. 
+
+ (3) The required ratio of offsetting emissions reductions from other sources (offsets) to the emissions increase from the proposed source or modification (emissions) and the location of sources that may provide offsets is as follows: 
+
+ (a) For new or modified sources locating within an ozone nonattainment area, the offset ratio is 1.1:1 (offsets:emissions). These offsets must come from sources within either the same designated area as the new or modified source or from sources in another ozone nonattainment area with equal or higher nonattainment classification that contributes to a violation of the ozone ambient air quality standards in the same ozone designated area as the new or modified source. 
+
+ (b) For new or modified sources locating within an ozone maintenance area, the offset ratio is 1.1:1 (offsets:emissions). These offsets may come from sources within either the maintenance area or from a source that is closer to the nearest maintenance area boundary than that source’s ozone impact distance. 
+
+ (c) For new or modified sources locating outside the designated area not including attainment or unclassified areas, but closer than the ozone impact distance of the nearest boundary of the designated area, the offset ratio is 1:1 (offsets:emissions). These offsets may come from within either the designated area or from a source that is closer to the nearest maintenance area boundary than that source’s ozone impact distance. 
+
+ (4) The amount of required offsets and the amount of provided offsets from contributing sources varies based on whether the proposed source or modification and the sources contributing offsets are located outside the ozone designated area other than attainment or unclassified areas. The required offsets and the provided offsets are calculated using either the formula method or the demonstration method, as follows, except that sources located inside an ozone nonattainment area must use the formula method. 
+
+ (a) The Formula Method. 
+
+ (A) Required offsets (RO) for new or modified sources are determined as follows: 
+
+ (i) For sources with complete permit applications submitted before January 1, 2003: RO = SQ; and 
+
+ (ii) For sources with complete permit applications submitted on or after January 1, 2003: RO = (SQ minus (SD multiplied by 40/30)). 
+
+ (B) Contributing sources may provide offsets (PO) calculated as follows: PO = CQ minus (CD multiplied by 40/30). 
+
+ (C) Multiple sources may contribute to the required offsets of a new source. For the formula method to be satisfied, total provided offsets (PO) must equal or exceed required offsets (RO) by the ratio described in section (3). 
+
+ (D) Definitions of factors used in paragraphs (A) (B) and (C): 
+
+ (i) RO is the required offset of NOx or VOC in tons per year as a result of the source emissions increase. If RO is calculated to be negative, RO is set to zero. 
+
+ (ii) SQ (source quantity) is the source’s emissions increase of NOx or VOC in tons per year above the netting basis. 
+
+ (iii) SD is the source distance in kilometers to the nearest boundary of the designated area except attainment or unclassified areas. SD is zero for sources located within the designated area except attainment or unclassified areas. 
+
+ (iv) PO is the provided offset from a contributing source and must be equal to or greater than zero; 
+
+ (v) CQ (contributing quantity) is the contributing source’s emissions reduction in tons per year calculated as the contemporaneous pre-reduction actual emissions less the post-reduction allowable emissions from the contributing source (as provided in OAR 340-268-0030(1)(b)). 
+
+ (vi) CD is the contributing source’s distance in kilometers from the nearest boundary of the designated area except attainment or unclassified areas. For a contributing source located within the designated area except attainment or unclassified areas, CD equals zero. 
+
+ (b) The Demonstration Method. An applicant may demonstrate to DEQ using dispersion modeling or other analyses the level and location of offsets that would be sufficient to provide actual reductions in concentrations of VOC or NOx in the designated area during high ozone conditions as the ratio described in section (3). The modeled reductions of ambient VOC or NOx concentrations resulting from the emissions offset must be demonstrated over a greater area and over a greater period of time within the designated area as compared to the modeled ambient VOC or NOx concentrations resulting from the emissions increase from the source subject to this rule. If DEQ determines that the demonstration is acceptable, then DEQ will approve the offsets proposed by the applicant. 
+
+ (c) Offsets obtained for a previous PSEL increase that did not involve resetting the netting basis can be credited toward offsets currently required for a PSEL increase. 
+
+ (5) In lieu of obtaining offsets, the owner or operator may obtain an allocation at the rate of 1:1 from a growth allowance, if available, in an applicable maintenance plan. 
+
+ [NOTE: This rule was moved verbatim from OAR 340-225-0020(10) and (11) and OAR 340-225-0090(1) and amended on 04-16-15. Previous rule history for OAR 340-225-0020: DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01; DEQ 11-2002, f. & cert. ef. 10-8-02; DEQ 12-2002(Temp), f. & cert. ef. 10-8-02 thru 4-6-03; Administrative correction 11-10-03; DEQ 1-2004, f. & cert. ef. 4-14-04; DEQ 1-2005, f. & cert. ef. 1-4-05; DEQ 9-2005, f. & cert. ef. 9-9-05; DEQ 10-2010(Temp), f. 8-31-10, cert. ef. 9-1-10 thru 2-28-11; Administrative correction, 3-29-11; DEQ 5-2011, f. 4-29-11, cert. ef. 5-1-11. Previous rule history for OAR 340-225-0090: DEQ 25-1981, f. & ef. 9-8-81; DEQ 5-1983, f. & ef. 4-18-83; DEQ 8-1988, f. & cert. ef. 5-19-88 (and corrected 5-31-88); DEQ 22-1989, f. & cert. ef. 9-26-89; DEQ 27-1992, f. & cert. ef. 11-12-92; DEQ 4-1993, f. & cert. ef. 3-10-93; DEQ 12-1993, f. & cert. ef. 9-24-93, Renumbered from 340-020-0260; DEQ 19-1993, f. & cert. ef. 11-4-93; DEQ 4-1995, f. & cert. ef. 2-17-95; DEQ 26-1996, f. & cert. ef. 11-26-96; DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-1970; DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-030-0111; DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01, Renumbered from 340-224-0090 & 340-240-0260; DEQ 11-2002, f. & cert. ef. 10-8-02; DEQ 12-2002(Temp), f. & cert. ef. 10-8-02 thru 4-6-03; Administrative correction 11-10-03; DEQ 1-2004, f. & cert. ef. 4-14-04; DEQ 1-2005, f. & cert. ef. 1-4-05; DEQ 3-2007, f. & cert. ef. 4-12-07; DEQ 10-2010(Temp), f. 8-31-10, cert. ef. 9-1-10 thru 2-28-11; Administrative correction, 3-29-11; DEQ 5-2011, f. 4-29-11, cert. ef. 5-1-11; DEQ 10-2012, f. & cert. ef. 12-11-12] 
+
+ [NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-020-0040.] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, 468A.025, 468A.035, 468A.040, 468A.050, 468A.055 & 468A.070 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468A 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 19-2022, amend filed 11/18/2022, effective 03/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 7-2015, f. & cert. ef. 4-16-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

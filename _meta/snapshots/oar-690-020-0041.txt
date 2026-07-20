@@ -1,0 +1,221 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Water Resources Department 
+ Chapter 690 
+ 
+ 
+ 
+ 
+ 
+ Division 20 DAM SAFETY 
+ 690-020-0041 
+ Design Requirements for New Dams or to Increase Dam Height: Concrete Dam Structures
+ 
+ 
+ Designs to build a new Dam or to increase Dam Height for concrete mass Dams must be prepared by a structural Engineer and a geotechnical Engineer or engineering geologist. This rule does not apply to concrete flashboard Dams. Designs for all other concrete Dams shall include the following elements as applicable: 
+
+ (1) Concrete Dams shall be specified as gravity, arch, arch-gravity, or buttress. Gravity Dams can be of conventional mass concrete or roller compacted concrete; 
+
+ (2) Dams shall be designed to be stable during construction and under all conditions of reservoir operation; 
+
+ (a) Headwater and tailwater elevations pertinent to the design shall be described with respect to both static and dynamic loading; 
+
+ (b) Uplift pressure distributions assumed for design shall be provided; and 
+
+ (c) When Foundation drains are used to reduce uplift, the assumed drain efficiency shall be indicated and permanent access shall be provided at the project to inspect and maintain the drains; 
+
+ (3) Sliding stability shall be evaluated at lift joint surfaces, at the Dam Foundation interface, and at discontinuities in the Foundation materials beneath the Dam and Abutments; 
+
+ (a) Factors of safety shall be based on limit equilibrium methods; 
+
+ (b) For earthquake loadings, a permanent sliding displacement may be determined in lieu of a sliding factor of safety; and 
+
+ (c) Overturning of the Dam on its Foundation shall be evaluated for static and seismic loading; 
+
+ (4) Seismic stability analysis may be required for Concrete Dams and if required shall demonstrate the Dam can withstand the design earthquake without loss of life or damage to property or public infrastructure; 
+
+ (a) High Hazard Dams shall be designed for the maximum credible earthquake based on current information from the US Geological Survey or a site specific seismic evaluation. A dynamic stress analysis that considers the dynamic characteristics of the Dam and the ground motions of the design earthquake shall be provided for High Hazard Dams; and 
+
+ (b) Where the State Engineer requires seismic analysis on Significant Hazard Dams, they shall be designed for the 0.2 percent Annual Probability of Exceedance earthquake. The Department may require a dynamic stress analysis for Significant Hazard Dams; 
+
+ (5) When Foundation grouting is needed, the design for the grout curtain and consolidation grouting of the Foundation shall be described; 
+
+ (6) Any property essential for the structural design of the concrete shall be included in the design documents. These may include, but are not limited to, compressive strength (at 28 days and one year), modulus of elasticity, Poison’s ratio, shear strength, tensile strength, volume change during drying, thermal coefficient of expansion, specific heat, thermal conductivity, permeability and durability; 
+
+ (a) As a minimum for static loadings, the assumed compressive and shear strengths for the parent concrete, lift joint surfaces, and the Dam Foundation contact shall be provided; 
+
+ (b) In addition, tensile strength assumptions for the aforementioned regions for dynamic loadings (seismic) shall also be provided; and 
+
+ (c) Air entraining agents shall be provided in the concrete mix to provide freeze-thaw protection and to improve the workability of lean mass concrete mixes. The quantity of air entrained in mass concrete shall be in the order of five percent; 
+
+ (7) Mix design and construction methods used to minimize cracking due to temperature gradients between interior regions subject to heat of hydration effects and surfaces exposed to ambient temperatures shall be specified. Treatment of lift joint surfaces to achieve desired shear and tensile strengths shall be indicated. Treatment of contraction joints to prevent leakage or to transfer load between adjacent monoliths shall be described; 
+
+ (8) When reinforcing steel is used, the strength properties of the reinforcement shall be provided and contract drawings shall clearly indicate the size, location, spacing, and cover requirements; and 
+
+ (9) The minimum Crest width must be 15 feet unless otherwise approved. The Crest and appurtenant structures shall be accessible by equipment and vehicles for emergency operations and maintenance. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 536.027, 540.488 
+ 
+ 
+ Statutes/Other Implemented:  ORS 540.449, 540.488 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WRD 3-2020, amend filed 06/29/2020, effective 07/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WRD 2-2015, f. & cert. ef. 3-17-15 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

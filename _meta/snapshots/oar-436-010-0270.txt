@@ -1,0 +1,446 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+   Temporary rule language in effect until 10/04/2026. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Workers' Compensation Division - Chapter 436 
+ 
+ 
+ 
+ 
+ Division 10 MEDICAL SERVICES 
+ 436-010-0270 
+ Insurer’s Rights and Duties
+ 
+ 
+ (1) Notifications. 
+
+ (a) Immediately following receipt of notice or knowledge of a claim, the insurer must notify the worker in writing about how to receive medical services for compensable injuries. 
+
+ (b) Within 10 days of any change in the status of a claim, (e.g., acceptance or denial of a claim, or a new or omitted medical condition), the insurer must notify the attending physician, if known, and the MCO, if any. 
+
+ (c) In disabling and nondisabling claims, within seven days notice or knowledge that the worker is medically stationary, the insurer must notify the worker, the attending physician, and all actively treating ancillary care providers in writing which medical services remain compensable. This notice must list all benefits the worker is entitled to receive under ORS 656.245 (1)(c). For the purpose of this rule, actively treating ancillary care providers means ancillary care providers who have submitted a current treatment plan to the insurer as required by OAR 436-010-0230. 
+
+ (d) When the insurer establishes a medically stationary date that is not based on the findings of an attending physician, the insurer must notify all medical service providers of the worker’s medically stationary status. For all injuries occurring on or after October 23, 1999, the insurer must pay all medical service providers for services rendered until the insurer provides notice of the medically stationary date to the attending physician. 
+
+ (2) Medical Records Requests. 
+
+ (a) Insurers may request relevant medical records, using Form 2476, "Request for Release of Medical Records for Oregon Workers’ Compensation Claim," or a computer-generated equivalent of Form 2476, with "signature on file" printed on the worker’s signature line, provided the insurer maintains a worker-signed original of the release form. 
+
+ (b) Within 14 days of receiving a request, the insurer must forward all relevant medical information to return-to-work specialists, vocational rehabilitation organizations, or new attending physician. 
+
+ (3) Pre-authorization. Unless otherwise provided by an MCO, an insurer must respond in writing within 14 days of receiving a medical provider’s written request for preauthorization of diagnostic imaging studies, other than plain film X-rays. The response must include whether the service is pre-authorized or not pre-authorized. 
+
+ (4) Communication with Providers. 
+
+ (a) The insurer or its representative must respond to a medical provider’s inquiry about claim status, accepted conditions, or MCO enrollment within two days during regular Oregon business hours, excluding Saturdays, Sundays, and legal holidays listed in ORS 187.010 and 187.020. For the purpose of this rule, "regular Oregon business hours" means from 8:00 am to 5:00 pm Pacific Time. The insurer or its representative may not refer the medical provider to another entity to obtain an answer. 
+
+ (b) An insurer or its representative and a medical provider may agree to communicate about claim status, accepted conditions, or MCO enrollment by email or other electronic means. Electronic records sent are subject to the Oregon Consumer Information Protection Act under ORS 646A.600 to 646A.628 and federal law. 
+
+ (5) Insurer’s Duties under MCO Contracts. 
+
+ (a) Insurers who enter into an MCO contract under OAR 436-015, must notify the affected employers of the following: 
+
+ (A) The names and addresses of all MCO panel providers within the employer’s geographical service area(s); 
+
+ (B) How workers can receive compensable medical services within the MCO; 
+
+ (C) How workers can receive compensable medical services by non-panel providers; and 
+
+ (D) The geographical service area governed by the MCO. 
+
+ (b) Insurers under contract with an MCO must notify any newly insured employers as specified in subsection (4)(a) of this rule no later than the effective date of coverage. 
+
+ (c) When the insurer is enrolling a worker in an MCO, the insurer must provide the name, address, and telephone number of the worker and, if represented, the worker’s attorney’s name, mailing address, phone number, and, if known, fax number and email address to the MCO. 
+
+ (d) When the insurer is enrolling a worker in an MCO, the insurer must simultaneously provide written notice to the worker, the worker’s representative, all medical providers, and the MCO of enrollment. To be considered complete, the notice must: 
+
+ (A) Provide the worker a written list of the eligible attending physicians within the relevant MCO geographic service area or provide a Web address to access the list of eligible attending physicians. If the notice does not include a written list, then the notice must also: 
+
+ (i) Provide a telephone number the worker may call to ask for a written list; and 
+
+ (ii) Tell the worker that they have seven days from the mailing date of the notice to request the list; 
+
+ (B) Explain how the worker may obtain the names and addresses of the complete panel of MCO medical providers; 
+
+ (C) Advise the worker how to obtain medical services for compensable injuries within the MCO. This includes whether the worker: 
+
+ (i) Must change attending physician to an MCO panel provider, or 
+
+ (ii) May continue to treat with the worker’s current attending physician; 
+
+ (D) Explain how the worker can receive compensable medical treatment from a "come-along" provider; 
+
+ (E) Advise the worker of the right to choose the MCO when more than one MCO contract covers the worker’s employer, except when the employer provides a coordinated health care program. For the purpose of this rule, "coordinated health care program" means an employer program providing coordination of a separate policy of group health insurance coverage with the medical portion of workers’ compensation coverage, for some or all of the employer’s workers, which provides the workers with health care benefits even if a workers’ compensation claim is denied; and 
+
+ (F) Notify the worker of the worker’s right to appeal MCO decisions and provide the worker with the title, address, and telephone number of the contact person at the MCO responsible for ensuring the timely resolution of complaints or disputes. 
+
+ (e) When an insurer enrolls a worker in an MCO before claim acceptance, the insurer must inform the worker in writing that the insurer will pay for certain medical services even if the claim is denied. Necessary and reasonable medical services that are not otherwise covered by health insurance will be paid until the worker receives the notice of claim denial or until three days after the denial is mailed, whichever occurs first. 
+
+ (f) When a worker who is not yet medically stationary must change medical providers because an insurer enrolled the worker in an MCO, the insurer must notify the worker of the right to request review before the MCO if the worker believes the change would be medically detrimental. 
+
+ (g) The insurer may delegate to the MCO responsibility for issuing the enrollment notice required by ORS 656.245(4)(a) and these rules by express provision in the contract between those parties; however, the insurer remains liable for any deficiencies in the notice issued by the MCO. 
+
+ (h) If, at the time of MCO enrollment, the worker’s medical service providers are not members of the MCO and do not qualify as "come-along providers," the insurer must notify the worker and providers regarding provisions of care under the MCO contract, including continuity of care as provided by OAR 436-015-0037(3). 
+
+ (i) Within seven days of receiving a dispute regarding an issue that should be processed through the MCO dispute resolution process and a copy has not been sent to the MCO, the insurer must: 
+
+ (A) Send a copy of the dispute to the MCO; or 
+
+ (B) If the MCO does not have a dispute resolution process for that issue, notify the parties in writing to seek administrative review before the director. 
+
+ (j) The insurer must notify the MCO within seven days of receiving notification of the following: 
+
+ (A) When the worker obtains representation by an attorney, the attorney’s name, mailing address, phone number, and, if known, fax number and email address; 
+
+ (B) Any changes to the worker’s or worker’s attorney’s name, address, or telephone number; 
+
+ (C) Any requests for medical services from the worker or the worker’s medical provider; or 
+
+ (D) Any request by the worker to continue treating with a "come-along" provider. 
+
+ (k) When an MCO pre-certifies a surgical service as medically appropriate, the insurer must, within 45 days from the mailing date of the MCO decision, notify the worker, the worker’s representative, the provider, and the MCO whether the insurer approves the surgery. 
+
+ (A) If the insurer disapproves the surgery for reasons other than appropriateness or whether the surgery is excessive or ineffectual, the disapproval must include the following notice in bold text and be formatted as follows: 
+
+ 
+ Notice to worker, worker’s attorney, and medical provider: 
+
+ If you want to appeal this decision, you must do so within 90 days from the mailing date of this notice. To appeal you must: 
+
+           - Notify the Department of Consumer and Business Services (DCBS) in writing. 
+
+           - Send your written request for review of the insurer’s disapproval to: 
+
+                     DCBS Workers’ Compensation Division 
+
+                     Medical Resolution Team 
+
+                     350 Winter Street NE 
+
+                     PO Box 14480 
+
+                     Salem OR 97309-0405 
+
+ If you do not notify DCBS in writing within 90 days, you will lose all rights to appeal the insurer’s decision. 
+
+ For help, call the Workers’ Compensation Division’s toll-free hotline at 800-452-0288 and ask to speak with a benefit consultant. 
+ 
+
+ (B) If the insurer disagrees with the appropriateness decision of the MCO, the insurer must appeal the decision to the MCO under OAR 436-015-0110(4). 
+
+ (l) Insurers under contract with MCOs must maintain records including, but not limited to: 
+
+ (A) A listing of all employers covered by MCO contracts; 
+
+ (B) The employers’ WCD employer numbers; 
+
+ (C) The estimated number of employees governed by each MCO contract; 
+
+ (D) A list of all workers enrolled in the MCO; and 
+
+ (E) The effective dates of such enrollments. 
+
+ (m) When the insurer is disenrolling a worker from an MCO, the insurer must simultaneously provide written notice of the disenrollment to the worker, the worker’s representative, all medical service providers, and the MCO. The insurer must mail the notice no later than seven days before the date the worker is no longer subject to the contract. The notice must tell the worker how to obtain compensable medical services after disenrollment. 
+
+ (n) When an MCO contract expires or is terminated without renewal, the insurer must simultaneously provide written notice to the worker, the worker’s representative, all medical service providers, and the MCO that the worker is no longer subject to the MCO contract. The notice must be mailed no later than three days before the date the contract expires or terminates. The notice must tell the worker how to obtain compensable medical services after the worker is no longer subject to the MCO contract. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 656.726(4) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 656.252, ORS 656.325, ORS 656.245, ORS 656.248, ORS 656.260 & ORS 656.264 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 3-2026, temporary amend filed 04/08/2026, effective 04/08/2026 through 10/04/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 2-2026, amend filed 03/25/2026, effective 04/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 1-2025, amend filed 03/10/2025, effective 04/01/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 1-2024, amend filed 03/05/2024, effective 04/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 1-2023, amend filed 03/09/2023, effective 04/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 4-2022, amend filed 06/13/2022, effective 07/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 12-2020, minor correction filed 07/06/2020, effective 07/06/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 5-2018, amend filed 03/15/2018, effective 04/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 1-2016, f. 3-7-16, cert. ef. 4-1-16 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ WCD 5-2015, f. 8-20-15, cert. ef. 10-1-15 
+WCD 3-2014, f. 3-12-14, cert. ef. 4-1-14 
+WCD 8-2005, f. 12-6-05, cert. ef. 1-1-06 
+WCD 2-2005, f. 3-24-05, cert. ef. 4-1-05 
+WCD 3-2004, f. 3-5-04, cert. ef. 4-1-04 
+WCD 14-2003(Temp), f. 12-15-03, cert. ef. 1-1-04 thru 6-28-04 
+WCD 13-2001, f. 12-17-01, cert. ef. 1-1-02 
+WCD 3-2000, f. 4-3-00, cert. ef. 4-21-00 
+WCD 13-1999(Temp), f. & cert. ef. 10-25-99 thru 4-21-000 
+WCD 11-1998, f. 12-16-98, cert. ef. 1-1-99 
+WCD 12-1996, f. 5-6-96, cert. ef. 6-1-96, Renumbered from 436-010-0100 
+WCD 13-1994, f. 12-20-94, cert. ef. 2-1-95 
+WCD 11-1992, f. 6-11-92, cert. ef. 7-1-92 
+WCD 30-1990, f. 12-10-90, cert. ef. 12-26-90 
+WCD 12-1990(Temp), f. 6-20-90, cert. ef. 7-1-90 
+WCD 1-1990, f. 1-5-90, cert. ef. 2-1-90 
+WCD 6-1988, f. 9-6-88, cert. ef. 9-15-88 
+WCD 1-1988, f. 1-20-88, cert. ef. 2-1-88 
+WCD 6-1985, f. 12-10-85, cert. ef. 1-1-86 
+WCD 1-1984, f. & cert. ef. 1-16-84, Renumbered from 436-069-0801 
+WCD 5-1982, f. 2-23-82, cert. ef. 3-1-82 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

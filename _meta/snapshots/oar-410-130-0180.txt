@@ -1,0 +1,280 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 130 MEDICAL-SURGICAL SERVICES 
+ 410-130-0180 
+ Drugs
+ 
+ 
+ (1) The Division of Medical Assistance Programs’ (Division) Medical-Surgical Services Program reimburses practitioners for drugs only when administered by the practitioner in the office, clinic or home settings. The Division does not reimburse practitioners for drugs that are self-administered by the client, except for contraceptives such as birth control pills, spermicides and patches: 
+
+ (a) Use an appropriate Current Procedural Terminology (CPT) therapeutic injection code for administration of injectables; 
+
+ (b) Use an appropriate Healthcare Common Procedure Coding System (HCPCS) code for the specific drug. Do not bill for drugs under code 99070; The Division requires both the NDC number and HCPCS codes on all claim forms. 
+
+ (c) When there is no specific HCPCS code for a drug or biological, use an appropriate unlisted code from the list below and bill at acquisition cost (purchase price plus postage): 
+
+ (A) J3490; 
+
+ (B) J3590; 
+
+ (C) J7599; 
+
+ (D) J7699; 
+
+ (E) J7799; 
+
+ (F) J8499; 
+
+ (G) J8999; 
+
+ (H) J9999; 
+
+ (I) Include the name of the drug, National Drug Code (NDC) number and dosage. 
+
+ (2) Do not bill for local anesthetics; reimbursement is included in the payment for the tray and/or procedure. 
+
+ (3) For codes requiring prior authorization and codes that are Not Covered/Bundled, refer to OAR 410-130-0200 Table 130-0200-1 and OAR 410-130-0220 Table 130-0220-1. 
+
+ (4) Not covered services and supplies include: 
+
+ (a) Laetrile; 
+
+ (b) Home pregnancy kits and products designed to promote fertility; 
+
+ (c) Dimethyl sulfoxide (DMSO), except for instillation into the urinary bladder for symptomatic relief of interstitial cystitis; 
+
+ (d) Infertility drugs; 
+
+ (e) Sodium hyaluronate and Synvisc. 
+
+ (5) Follow criteria outlined in the following: 
+
+ (a) Billing Requirements — OAR 410-121-0150; 
+
+ (b) Brand Name Pharmaceuticals — OAR 410-121-0155; 
+
+ (c) Prior Authorization Procedures — OAR 410-121-0060; 
+
+ (d) Drugs and Products Requiring Prior Authorization — OAR 410-121-0040; 
+
+ (e) Drug Use Review — OAR 410-121-0100; 
+
+ (f) Participation in Medicaid’s Drug Rebate Program — OAR 410-121-0157. 
+
+ (A) The Division cannot reimburse providers for a drug unless the drug manufacturer has signed an agreement with the Centers for Medicare and Medicaid Services (CMS) to participate in the Medicaid Drug Rebate Program. 
+
+ (B) To verify that a drug manufacturer participates in the Medicaid Drug Rebate Program, visit the CMS website below to verify that the first five digits of the NDC number (labeler code) are listed as a participating drug company: https://www.medicaid.gov/medicaid/prescription-drugs/medicaid-drug-rebate-program/data/index.html . 
+
+ (6) Clozaril/Clozapine therapy: 
+
+ (a) Clozapine is covered only for the treatment of clients who have failed therapy with at least two anti-psychotic medications; 
+
+ (b) Clozapine supervision is the management and record keeping of clozapine dispensing as required by the manufacturer of clozapine. This is part of an evaluation and management service conducted by the appropriately licensed prescribing medical practitioner; 
+
+ (c) Pharmacies dispensing clozapine shall comply with OAR 410-121-0190. 
+
+ [ED. NOTE: Tables referenced are available from the agency.] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.025 & 414.065 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 49-2018, minor correction filed 05/25/2018, effective 05/25/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 27-2013, f. & cert. ef. 6-25-13 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ DMAP 58-2012(Temp), f. 12-27-12, cert. ef. 12-28-12 thru 6-25-13 
+DMAP 18-2009, f. 6-12-09, cert. ef. 7-1-09 
+DMAP 34-2008, f. 11-26-08, cert. ef. 12-1-08 
+DMAP 20-2008, f. 6-13-08, cert. ef. 7-1-08 
+DMAP 5-2007, f. 6-14-07, cert. ef. 7-1-07 
+OMAP 26-2006, f. 6-14-06, cert. ef. 7-1-06 
+OMAP 8-2005, f. 3-9-05, cert. ef. 4-1-05 
+OMAP 13-2004, f. 3-11-04, cert. ef. 4-1-04 
+OMAP 69-2003, f. 9-12-03, cert. ef. 10-1-03 
+OMAP 23-2003, f. 3-26-03, cert. ef. 4-1-03 
+OMAP 52-2002, f. & cert. ef. 10-1-02 
+OMAP 39-2002, f. 9-13-02, cert. ef. 9-15-02 
+OMAP 33-2002, f. & cert. ef. 8-1-02 
+OMAP 2-2002, f. 2-15-02, cert. ef. 4-1-02 
+OMAP 40-2001, f. 9-24-01, cert. ef. 10-1-01 
+OMAP 13-2001, f. 3-30-01, cert. ef. 4-1-01 
+OMAP 31-2000, f. 9-29-00, cert. ef. 10-1-00 
+OMAP 3-1998, f. 1-30-98, cert. ef. 2-1-98 
+HR 4-1997, f. 1-31-97, cert. ef. 2-1-97 
+HR 10-1996, f. 5-31-96, cert. ef. 6-1-96 
+HR 42-1994, f. 12-30-94, cert. ef. 1-1-95 
+HR 6-1994, f. & cert. ef. 2-1-94 
+HR 43-1991, f. & cert. ef. 10-1-91 
+HR 19-1991, f. 4-12-91, cert. ef. 5-1-91 
+HR 10-1990, f. 3-30-90, cert. ef. 4-1-90, Renumbered from 461-014-0620 
+AFS 48-1989, f. & cert. ef. 8-24-89 
+AFS 5-1989(Temp), f. 2-9-89, cert. ef. 3-1-89 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,276 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 180 UNDERGROUND STORAGE TANK LOAN GUARANTEE AND INTEREST RATE SUBSIDY PROGRAM 
+ 340-180-0020 
+ Distribution Priority of Funds for Loan Guarantee Expenses
+ 
+ 
+ (1) A portion of the funds in the Underground Storage Tank Compliance and Corrective Action Fund during each individual month shall be assigned by the Department to pay for the expenses of providing loan guarantees to commercial lending institutions for loans that fund soil remediation, UST upgrading, and UST replacement at facilities that contain an accumulation of motor fuel. Loan guarantees shall be approved giving first priority to earliest received complete application then giving priority in accordance with the numerical ranking system described in this section. 
+
+ (2) In order to determine the numerical ranking, the loan application must first be evaluated by: 
+
+ (a) Assigning a numerical score to each of the parameters in section (4) of this rule; and 
+
+ (b) Totaling the parameter scores to arrive at the Total Score. 
+
+ (3) The Total Score shall then be used to establish priority categories for providing funds to loan guarantee applications. Priority categories shall be established where a Total Score of 30 points or greater is an “A” category, a Total Score of 16 points but less than 30 points is a “B” category, and a Total Score less than 16 points is a “C” category. 
+
+ NOTE: A facility must retail motor fuel to receive points in some of the following numerical parameters. To be considered “retail,” a motor fuel facility must sell motor fuel to the general public. For the purposes of these rules a wholesale cardlock or keylock fueling facility is not considered a retail facility. 
+
+ (4) Numerical parameters are: 
+
+ (a) For construction work to upgrade or replace USTs containing motor fuel at a facility: 
+
+ (A) Assign ten points for total construction costs less than $40,000; 
+
+ (B) Assign eight points for total construction costs of $40,000 through $59,999; 
+
+ (C) Assign six points for total construction costs of $60,000 through $79,999; 
+
+ (D) Assign four points for total construction costs of $80,000 through $99,999; 
+
+ (E) Assign two points for total construction costs of $100,000 or more. 
+
+ (b) For a facility that retails motor fuel: 
+
+ (A) Assign ten points where no more than two other facilities that retail motor fuel are within 30 road miles; 
+
+ (B) Assign eight points where no more than two other facilities that retail motor fuel are within 25 road miles; 
+
+ (C) Assign six points where no more than two other facilities that retail motor fuel are within 20 road miles; 
+
+ (D) Assign four points where no more than two other facilities that retail motor fuel are within 15 road miles; 
+
+ (E) Assign two points where no more than two other facilities that retail motor fuel are within ten road miles. 
+
+ (c) For facilities that retail motor fuel within an incorporated city: 
+
+ (A) Assign ten points for a facility located within a city with a population under 2,000; 
+
+ (B) Assign eight points for a facility located within a city with a population of 2,000 through 4,999; 
+
+ (C) Assign six points for a facility located within a city with a population of 5,000 through 9,999; 
+
+ (D) Assign four points for a facility located within a city with a population of 10,000 through 19,999; 
+
+ (E) Assign two points for a facility located within a city with a population of 20,000 and greater. 
+
+ (d) For facilities that retail motor fuel located outside an incorporated city: 
+
+ (A) Assign ten points for a facility located outside of an incorporated city and east of the Cascade mountain range summit including all of Hood River and Klamath counties; 
+
+ (B) Assign eight points for a facility located outside of an incorporated city and west of the Coast mountain range summit including all of Columbia, Coos, Curry, and Tillamook counties; 
+
+ (C) Assign six points for a facility located outside of an incorporated city, east of the Coast mountain range summit, and west of the Cascade mountain range summit within Benton, Douglas, Jackson, Josephine, Lane, Linn, Marion, Polk, and Yamhill counties; 
+
+ (D) Assign four points for a facility located outside of an incorporated city, east of the Coast mountain range summit, west of the Cascade mountain range summit, and outside of the Portland Metropolitan Service District within Clackamas, Multnomah and Washington counties; 
+
+ (E) Assign two points for a facility located outside of an incorporated city and within the Portland Metropolitan Service District. 
+
+ (e) Annual motor fuel throughput at a facility in gallons: 
+
+ (A) Assign ten points where the throughput is less than 100,000 gallons; 
+
+ (B) Assign eight points where the throughput is 100,000 through 199,999 gallons; 
+
+ (C) Assign six points where the throughput is 200,000 through 299,999 gallons; 
+
+ (D) Assign four points where the throughput is 300,000 through 399,999 gallons; 
+
+ (E) Assign two points where the throughput is 400,000 gallons and greater. 
+
+ (f) For a retail motor fuel facility: 
+
+ (A) Assign ten points where the previous two-year average annual gross sales receipts are less than $250,000; 
+
+ (B) Assign eight points where the previous two-year average annual gross sales receipts are $250,000 through $499,999; 
+
+ (C) Assign six points where the previous two-year average annual gross sales receipts are $500,000 through $749,999; 
+
+ (D) Assign four points where the previous two-year average annual gross sales receipts are $750,000 through $999,999; 
+
+ (E) Assign two points where the previous two year average annual gross sales receipts are $1,000,000 or greater. 
+
+ NOTE: Provide documentation for the gross sales receipts from all income sources at the facility. If the facility is less than two years old or the business records are not available for the past two years, the applicant may provide other documentation to establish the two-year average annual gross sales receipts. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 466.706 - 466.995 
+ 
+ 
+ Statutes/Other Implemented:  OL 1989 & Ch. 1071 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 119-2018, minor correction filed 04/11/2018, effective 04/11/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 13-1990, f. & cert. ef. 3-13-90 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 25-1989(Temp), f. & cert. ef. 10-26-89 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

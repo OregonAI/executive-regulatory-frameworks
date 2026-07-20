@@ -1,0 +1,526 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 140 VISUAL SERVICES 
+ 410-140-0140 
+ Vision Coverage
+ 
+ 
+ (1) The Division covers: 
+
+ (a) Ocular prosthesis (e.g., artificial eye) and related services (OAR 410-122-0640). 
+
+ (b) Reasonable services for diagnosing conditions, including the initial diagnosis of a condition that is below the funding line on the Prioritized list. When a diagnosis is established for a service, treatment, or item that falls below the funding line, the Division may not cover any other services related to the diagnosis unless the member meets the comorbidity rules (OAR 410-141-3820(10) & (11)). 
+
+ (c) Orthoptic and pleoptic training or “vision therapy” under EPSDT (refer to Division 410, Chapter 151) as followed: 
+
+ (A) When therapy treatment pairs with a covered diagnosis on the Prioritized List; and 
+
+ (B) Limited to six (6) sessions per calendar year (no PA required): 
+
+ (i) The initial evaluation is included in the six (6) therapy sessions; 
+
+ (ii) Additional therapy sessions require PA (OAR 410-140-0420); 
+
+ (iii) Providers shall develop a therapy treatment plan and regimen that shall be taught to the member, family, foster parents, and caregiver during the therapy treatments. No extra treatments shall be authorized for teaching; 
+
+ (iv) Therapy that can be provided by the member, family, foster parents, and caregiver is not a reimbursable service; and 
+
+ (v) All vision therapy services including the initial evaluation shall be billed to the Division with the Current Procedural Terminology (CPT) code for orthoptic and pleoptic training. 
+
+ (2) Division members are enrolled for covered health services to be delivered through one of the following means: 
+
+ (a) Managed Care Entity (MCE) as defined in OAR 410-120-0000.  Payment for all vision services provided to MCE members by ophthalmologists, optometrists, and opticians is a matter between the provider and the MCE; 
+
+ (b) Fee-for-service (FFS): 
+
+ (A) FFS members are not enrolled in an MCE and may receive vision services from any Division-enrolled provider that accepts FFS members subject to limitations and restrictions in the visual services program rules; and 
+
+ (B) All claims must be billed directly to the Division. 
+
+ (3) When a member has both Medicare and coverage through the Division, optometrists and ophthalmologists shall bill Medicare first for Medicare covered services. 
+
+ (4) When a member has third party liability (TPL) and coverage through the Division, optometrists and ophthalmologists shall bill TPL first for TPL covered services. 
+
+ (5) When an OHP member receives services on a FFS basis under the Division’s rules and has Medicare or TPL coverage: 
+
+ (a) A provider may order visual materials from any visual materials supplier; and 
+
+ (b) The Division does not require PA for Medicare or TPL covered services. 
+
+ (6) Coverage for eligible adults (age 21 and older): 
+
+ (a) One complete examination and determination of refractive state is limited to once every 24 months for non-pregnant members; 
+
+ (b) One complete examination and determination of refractive state is limited to once (1) every 24 months for pregnant members and during the protected post-partum 12-month period (OAR 410-200-0135). 
+
+ (c) Diagnostic evaluations and medical examinations are not limited if documentation in the physician's or optometrist's clinical record justifies the medical need for diagnosis; 
+
+ (d) Ophthalmological intermediate and comprehensive exam services are not limited for allowable medical diagnosis; 
+
+ (e) Visual services for the purpose of prescribing glasses or contact lenses and fitting fees are as follows: 
+
+ (A) When determined necessary during a limited complete examination and determination of refractive state for pregnant members and during the protected post-partum 12-month period (OAR 410-200-0135). 
+
+ (B) Non-pregnant adults are not covered, except when the member: 
+
+ (i) Has a medical diagnosis of aphakia, pseudophakia, congenital aphakia, keratoconus; or 
+
+ (ii) Lacks the natural lenses of the eye due to surgical removal (e.g., cataract extraction) or congenital absence; or 
+
+ (iii) Has had a keratoplasty surgical procedure (e.g., corneal transplant) with limitations described in OAR 410-140-0160 (Contact Lens Services and Supplies). 
+
+ (7) OHP Plus Children (birth through age 20): 
+
+ (a) All ophthalmological examinations and vision services, including routine vision exams, fittings, repairs, and materials are covered when documentation in the clinical record justifies the medical need; 
+
+ (b) The standard of care and expectation is that all comprehensive eye exams for children be dilated. 
+
+ (c) With the diagnosis of Amblyopia, band-aid patches treatment shall be covered with a prescription.  Quantity limit is sixty (60) per thirty (30) days. 
+
+ (8) Refraction determination is not limited following a diagnosed medical condition (e.g., multiple sclerosis). 
+
+ (9) The Division reimburses all covered surgical procedures as global packages, except when the surgeon codes the surgical procedure with a modifier indicating surgical procedure only, excluding post-operative care. 
+
+ (10) The Division OHP vision benefit packages: 
+
+ (a) For non-pregnant adults (age 21 and older), visual services and materials to diagnose and correct disorders of refraction and accommodation are covered only when the member: 
+
+ (A) Has a covered medical diagnosis, following cataract surgery or a corneal lens transplant as described in OAR 410-140-0140; or 
+
+ (B) Is in their protected post-partum 12-month period (see OAR 410-200-0135); 
+
+ (b) For pregnant adult people (age 21 and older) other visual services are covered with limitations as described in these rules; 
+
+ (c) For children (birth through age 20): Visual services are covered as described in this rule and without limitation when documentation in the clinical record justifies the medical need. 
+
+ (11) Post-operative care includes all related follow-up visits and examinations provided within: 
+
+ (a) Ninety (90) days following the date of major surgery; or 
+
+ (b) Ten (10) days following the date of minor surgery; and 
+
+ (c) Claims for evaluation and management services and ophthalmological examinations billed within the follow-up period shall be denied. 
+
+ (12) Provider Error: Neither the contractor nor the Division shall be responsible for costs, expenses or for any required rework due to errors by any provider. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042 & 414.065 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.025, 414.065 & 414.075 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 127-2024, amend filed 10/08/2024, effective 10/08/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 79-2024, minor correction filed 03/22/2024, effective 03/22/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 50-2024, minor correction filed 02/21/2024, effective 02/21/2024 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 74-2022, amend filed 09/23/2022, effective 09/25/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 43-2022, temporary amend filed 03/29/2022, effective 04/01/2022 through 09/24/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 7-2016, f. 2-23-16, cert. ef. 3-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 26-2014, f. 4-29-14, cert. ef. 5-8-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 44-2009, f. 12-15-09, cert. ef. 1-1-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 20-2009, f. 6-12-09, cert. ef. 7-1-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 24-2000, f. 9-28-00, cert. ef. 10-1-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 20-1999, f. & cert. ef. 4-1-99 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HR 26-1996, f. 11-29-96, cert. ef. 12-1-96 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HR 15-1996(Temp), f. & cert. ef. 7-1-96 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HR 1-1996, f. 1-12-96, cert. ef. 1-15-96 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HR 37-1992, f. & cert. ef. 12-18-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HR 15-1992, f. & cert. ef. 6-1-92, Renumbered from 461-018-0220 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 75-1989, f. & cert. ef. 12-15-89, Renumbered from 461-018-0012 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 22-1987, f. 5-29-87, ef. 7-1-87 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 5-1985, f. & ef. 1-25-85 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 31-1984(Temp), f. 7-26-84, ef. 8-1-84 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 24-1984(Temp), f. & ef. 5-29-84 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 6-1984(Temp), f. 2-28-84, ef. 3-1-84 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,242 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Insurance Regulation - Chapter 836 
+ 
+ 
+ 
+ 
+ Division 12 CREDIT FOR REINSURANCE 
+ 836-012-0080 
+ Letters of Credit Qualified under OAR 836-012-0060
+ 
+ 
+ (1) A letter of credit for purposes of OAR 836-012-0060 must be clean, irrevocable, unconditional and issued or confirmed by a qualified U.S. financial institution as defined in ORS 731.510(2). The letter of credit shall contain an issue date and date of expiration and shall stipulate that the beneficiary need only draw a sight draft under the letter of credit and present it to obtain funds and that no other document need be presented. The letter of credit shall also indicate that it is not subject to any condition or qualifications outside of the letter of credit. In addition, the letter of credit itself shall not contain reference to any other agreements, documents or entities, except as provided in section (9)(a) of this rule. As used in this rule, "beneficiary" means the domestic insurer for whose benefit the letter of credit has been established and any successor of the beneficiary by operation of law. If a court of law appoints a successor in interest to the named beneficiary, then the named beneficiary includes and is limited to the court-appointed domiciliary receiver (including conservator, rehabilitator or liquidator). 
+
+ (2) The heading of the letter of credit may include a boxed section containing the name of the applicant and other appropriate notations to provide a reference for the letter of credit. The boxed section shall be clearly marked to indicate that such information is for internal identification purposes only. 
+
+ (3) The letter of credit shall contain a statement to the effect that the obligation of the qualified U.S. financial institution under the letter of credit is in no way contingent upon reimbursement with respect thereto. 
+
+ (4) The term of the letter of credit shall be for at least one year and shall contain an "evergreen clause" that prevents the expiration of the letter of credit without due notice from the issuer. The "evergreen clause" shall provide for a period of not less than 30 days' notice prior to expiration date or nonrenewal. 
+
+ (5) The letter of credit shall state whether it is subject to and governed by the laws of this state or the Uniform Customs and Practice for Documentary Credits of the International Chamber of Commerce (Publication 600) or International Standby Practices of the International Chamber of Commerce Publication 590 (ISP98), or any successor publication, and all drafts drawn thereunder shall be presentable at an office in the United States of a qualified U.S. financial institution. 
+
+ (6) If the letter of credit is made subject to the Uniform Customs and Practice for Documentary Credits of the International Chamber of Commerce (Publication 500), or any successor publication, the letter of credit shall specifically address and provide for an extension of time to draw against the letter of credit in the event that one or more of the occurrences specified in Article 17 of Publication 600, or any successor publication, occur. 
+
+ (7) If the letter of credit is issued by a financial institution authorized to issue letters of credit, other than a qualified U.S. financial institution as described in section (7) of this rule, the following additional requirements must be met: 
+
+ (a) The issuing financial institution shall formally designate the confirming qualified U.S. financial institution as its agent for the receipt and payment of the drafts; and 
+
+ (b) The "evergreen clause" shall provide for 30 days' notice prior to expiration date for nonrenewal. 
+
+ (8) The following apply to reinsurance agreement provisions: 
+
+ (a) The reinsurance agreement in conjunction with which the letter of credit is obtained may contain provisions described in this subsection. All of the provisions of this subsection must be applied without diminution because of insolvency on the part of the ceding insurer or assuming insurer. The provisions are as follows: 
+
+ (A) A provision requiring the assuming insurer to provide letters of credit to the ceding insurer and specify what they are to cover. 
+
+ (B) A provision stipulating that the assuming insurer and ceding insurer agree that the letter of credit provided by the assuming insurer pursuant to the provisions of the reinsurance agreement may be drawn upon at any time, notwithstanding any other provisions in the agreement, and must be used by the ceding insurer or its successors in interest only for one or more of the following reasons: 
+
+ (i) To pay or reimburse the ceding insurer for: 
+
+ (I) The assuming insurer's share under the specific reinsurance agreement of premiums returned, but not yet recovered from the assuming insurers, to the owners of policies reinsured under the reinsurance agreement on account of cancellations of such policies; 
+
+ (II) The assuming insurer's share, under the specific reinsurance agreement, of surrenders and benefits or losses paid by the ceding insurer, but not yet recovered from the assuming insurers, under the terms and provisions of the policies reinsured under the reinsurance agreement; and 
+
+ (III) Any other amounts necessary to secure the credit or reduction from liability for reinsurance taken by the ceding insurer. 
+
+ (ii) Where the letter of credit will expire without renewal or be reduced or replaced by a letter of credit for a reduced amount and where the assuming insurer’s entire obligations under the reinsurance agreement remain unliquidated and undischarged 10 days prior to the termination date, to withdraw amounts equal to the assuming insurer’s share of the liabilities, to the extent that the liabilities have not yet been funded by the assuming insurer and exceed the amount of any reduced or replacement letter of credit, and deposit those amount in a separate account in the name of the ceding insurer in a qualified U.S. financial institution apart from its general assets, in trust for such uses and purposes specified in subparagraph (H) of this paragraph as may remain after withdrawal and for any period after the termination date. 
+
+ (b) Nothing contained in subsection (a) of this section shall preclude the ceding insurer and assuming insurer from providing for: 
+
+ (A) An interest payment, at a rate not in excess of the prime rate of interest, on the amounts held pursuant to subsection (a)(B) of this section; or 
+
+ (B) The return of any amounts drawn down on the letters of credit in excess of the actual amounts required for the above or any amounts that are subsequently determined not to be due. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 731.508 - 731.511 & 731.244 
+ 
+ 
+ Statutes/Other Implemented:  ORS 731.508 - 731.511 & Or Laws 2019, ch 151 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ID 13-2019, amend filed 12/19/2019, effective 01/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ID 22-2002, f. & cert. ef. 11-27-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ID 15-1996, f. & cert. ef. 11-12-96 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ID 8-1993, f. & cert. ef. 9-23-93 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

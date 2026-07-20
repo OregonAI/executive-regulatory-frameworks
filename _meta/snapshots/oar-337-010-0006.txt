@@ -1,0 +1,425 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Board of Medical Imaging 
+ Chapter 337 
+ 
+ 
+ 
+ 
+ 
+ Division 10 LICENSURE 
+ 337-010-0006 
+ Definitions
+ 
+ 
+ For purposes of ORS 688.405 to 688.620; 688.915 and these rules: 
+
+ (1) The "Practice of Medical Imaging" shall be defined as but not limited to the use of ionizing radiation, ultrasound, radio waves or magnetic fields upon human anatomy for diagnostic or therapeutic purposes including the physical positioning of the patient, the determination of exposure parameters, the handling of the ionizing radiation equipment and workplace conduct. 
+
+ (2) “Advanced Practice Registered Nurse” means a person who is licensed in accordance with ORS 678.025 
+
+ (3) “Application” means documentation submitted to the Board for a license or permit, including the Board’s application form and any required documentation that is specified in the application instructions. An application is considered incomplete if the form or any of the required documentation or fees are not provided. An incomplete application is deemed to be voluntarily withdrawn six months from the date of receipt in the Board office. 
+
+ (4) “Approved school” means a school accredited in one of the medical imaging modalities or subspecialties by a national or regional post-secondary accreditation body and whose graduates are qualified to sit for a credentialing examination recognized by the Board of Medical Imaging in the graduate’s medical imaging modality or subspecialty. 
+
+ (5) “Board” means Board of Medical Imaging. 
+
+ (6) “Clinical instructor” means an individual assigned to supervise students in a clinical setting who is: 
+
+ (a) A licensed physician who routinely supervises the medical imaging modality being studied by a student; or 
+
+ (b) An individual who holds a current and valid license by the board and who is credentialed by a board approved credentialing organization in the medical imaging modality being studied by a student. 
+
+ (7) “Credential” means the recognition awarded to an individual who meets the requirements of a credentialing organization. 
+
+ (8) “Credentialing organization” means a nationally recognized organization that issues credentials through testing or evaluations that determine that a person meets defined standards for training and competence in a medical imaging modality. 
+
+ (9) “Diagnostic medical sonography” means the use of nonionizing high frequency sound waves with specialized equipment to direct the sound waves into areas of the human body to generate images for the assessment and diagnosis of various medical conditions. 
+
+ (10) "Direct supervision" means that the supervisor is physically present in the building and immediately available to furnish assistance as needed. 
+
+ ( 11 ) "Extremity Computed Tomography Machine" (ECT) means a machine that is specifically designed, with a maximum setting of 120kVp at 60 mAs, to perform computed tomography (CT) exams on extremities only. For the purpose of extremity computed tomography only, "extremity" includes the following body parts: 
+
+ (a) Lower extremities including: toe; foot; calcaneus; ankle; tibia; fibula; knee; patella; and distal femur. 
+
+ (b) Upper extremities including: finger; hand; wrist; forearm; elbow; and distal humerus. 
+
+ ( 12 ) “Fluoroscopy” means a technique for generating X-ray images and for presenting the X-ray images simultaneously and continuously as a visible image. 
+
+ (13) "General supervision" means that the supervisor is not required to be on-site, but must be available for direct communication, either in person, by telephone, or other electronic means. 
+
+ ( 14 ) “Graduate” means an individual who has completed the didactic and clinical education at an approved school, including documented clinical proficiency, but who has not met all requirements for credentialing by a credentialing organization. 
+
+ ( 15 ) “Hybrid imaging or radiation therapy equipment” means equipment that combines more than one medical imaging modality into a single device. 
+
+ ( 16 ) “Ionizing radiation” means alpha particles, beta particles, gamma rays, X-rays, neutrons, high-speed electrons, high-speed protons or other particles capable of producing ions. “Ionizing radiation” does not include radiation such as radiofrequency or microwaves, visible, infrared or ultraviolet light or ultrasound. 
+
+ ( 17 ) “License” means a license issued by the Board to practice one or more of the medical imaging modalities. 
+
+ ( 18 ) “Licensed nurse practitioner” means a nurse practitioner licensed in Oregon. 
+
+ ( 19 ) “Licensed physician” means a physician or surgeon licensed in Oregon as defined by the Oregon Medical Board. 
+
+ ( 20 ) “Licensed physician assistant” means a physician assistant licensed in Oregon. 
+
+ ( 21 ) “Licensed Advanced Practice Registered Nurse” means an advanced practice registered nurse licensed in Oregon. 
+
+ ( 22 ) “Limited X-ray machine operator” means a person other than a licensed physician who performs diagnostic X-ray procedures under the supervision of a licensed physician, a licensed nurse practitioner or a licensed physician assistant using equipment that emits external ionizing radiation resulting in diagnostic radiographic images that are limited to select human anatomical sites. 
+
+ ( 23 ) “Limited X-ray machine operator course of study” means a Board-approved set of didactic and clinical experience elements designed to prepare a person for gaining practical experience and for passing the limited X-ray machine operator examination. 
+
+ ( 24 ) “Magnetic resonance imaging” means the process by which certain nuclei, when placed in a magnetic field, absorb and release energy in the form of radio waves that are analyzed by a computer thereby producing an image of human anatomy and physiological information. 
+
+ ( 25 ) “Medical physicist” is a person who is certified in diagnostic radiological physics or radiological physics by the American Board of Radiology, or in diagnostic imaging physics by the American Board of Medical Physics, or in diagnostic radiology physics by the Canadian College of Physicists in Medicine. 
+
+ ( 26 ) “Medical imaging” means the use of specialized equipment to produce visual representations of human anatomy, tissues or organs for use in clinical diagnosis and treatment and includes but is not limited to X-ray, single photon emission, positron emission technology, ultrasound, magnetic fields, visible light and radio waves. 
+
+ ( 27 ) “Medical imaging licensee” means a person other than a licensed physician or a limited X-ray machine operator who holds a valid license and operates medical imaging equipment for diagnostic or therapeutic purposes under the supervision of a licensed physician. 
+
+ ( 28 ) “Medical imaging modality” means: 
+
+ (a) Diagnostic medical sonography and all its subspecialties; 
+
+ (b) Magnetic resonance imaging and all its subspecialties; 
+
+ (c) Nuclear medicine technology and all its subspecialties; 
+
+ (d) Radiation therapy and all its subspecialties; or 
+
+ (e) Radiography and all its subspecialties. 
+
+ ( 29 ) “Nuclear medicine technology” means the specialized equipment that measures radiation emitted by radionuclides, including counters and cameras that form medical images for interpretation by a physician, or assists in therapeutic use of radionuclides. 
+
+ (30) "Personal supervision" means that the supervisor is always physically present in the room during the performance of the procedure. 
+
+ ( 31 ) “Physician Assistant” means a person who is licensed in accordance with ORS 677.505 to 677.525. 
+
+ ( 32 ) “Radiographer” means a person other than a licensed physician who performs a comprehensive set of diagnostic radiographic procedures under the supervision of a licensed physician using external ionizing radiation to produce radiographic, fluoroscopic or digital images. 
+
+ ( 33 ) “Radiography” means the use of ionizing radiation to produce radiographic, fluoroscopic or digital images of human anatomy for diagnostic purposes. 
+
+ ( 34 ) “Radiologist” means a person licensed to practice medicine in the State of Oregon who is certified by or board eligible for certification by the American Board of Radiology, the American Osteopathic Association, the Royal College of Radiologists or the Royal College of Physicians and Surgeons of Canada. 
+
+ (35)  "RPS" means Oregon Health Authority, Public Health Division, Oregon Radiation Protection Services. 
+
+ ( 36 ) “Student” means an individual enrolled in: 
+
+ (a) An approved school, college or university academic training program in medical imaging; or 
+
+ (b) A limited X-ray machine operator course of study. 
+
+ ( 37 ) “Supervision” means the act of monitoring and reviewing the performance of medical imaging licensees or limited X-ray machine operators through regular inspections of work produced, regardless of whether the supervising individual is continuously physically present during the performance or use of medical imaging equipment or X-ray equipment. 
+
+ (38) "Positioning" is the act of placing the patient in the standard or appropriate position for a medical imaging examination or radiation therapy based on the medical condition of patient. 
+
+ (39) “Waiver” means that the Board may prescribe terms for a licensure waiver, including but not limited to: time duration of the waiver; supervisory requirements; and clinical experience requirements. The waiver may include deadlines for completing specified requirements included in the waiver. The Board may grant a preliminary waiver conditioned upon the waiver applicant’s completion of all Board-specified waiver requirements. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 183.310(7) & 688.555 
+ 
+ 
+ Statutes/Other Implemented:  ORS 688.415 - 688.605 & 688.915 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BMI 2-2024, amend filed 07/30/2024, effective 07/31/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BMI 1-2024, amend filed 02/02/2024, effective 02/02/2024 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BMI 8-2020, amend filed 10/29/2020, effective 10/30/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BMI 7-2020, amend filed 07/28/2020, effective 07/28/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BMI 1-2019, amend filed 01/31/2019, effective 02/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BMI 3-2018, amend filed 10/30/2018, effective 11/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ BMI 3-2015, f. 11-4-15, cert. ef. 1-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ BRT 1-2010, f. & cert. ef. 6-15-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ BRT 1-2003, f. 8-14-03, cert. ef. 8-15-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RT 1-1992, f. & cert. ef. 1-15-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RT 1-1990, f. & cert. ef. 2-2-90 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RT 1-1989, f. & cert. ef. 1-24-89 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RT 2-1986, f. 4-29-86, ef. 7-1-86 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

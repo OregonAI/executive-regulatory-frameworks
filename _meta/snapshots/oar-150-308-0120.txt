@@ -1,0 +1,240 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 308 ASSESSMENT OF PROPERTY FOR TAXATION 
+ 150-308-0120 
+ Reduction of Maximum Assessed Value (MAV) When a Building is Demolished or Removed
+ 
+ 
+ (1) As used in ORS 308.146(8)(a), “reduction in real market value” means the total real market value (RMV) after adjustment is less than it would otherwise have been, had the demolition or removal not occurred. 
+
+ (2) As used in section (3) of this rule, the “year” in which the RMV is reduced due to demolition or removal is either: 
+
+ (a) The assessment year, or 
+
+ (b) The tax year, if RMV is determined as of July 1 under ORS 308.146(6). 
+
+ (3) When a building is demolished or removed, use the following procedure to adjust the maximum assessed value (MAV) for the year in which the demolition or removal is reflected by a reduction in RMV. 
+
+ 
+ Example: An example is incorporated into the steps with the following assumptions: 
+
+ 2007-08 MAV = $87,379 
+
+ 2007-08 (1-1-07) total RMV = $100,000. 
+
+ 2007-08 AV = $87,379. 
+
+ There is no market trending in this area. 
+
+ On September 1, 2007 the house is demolished. The RMV of the house for 1-1-07 was $75,000. 
+
+ Step 1: Perform the 103% test as if the property had not changed. Multiply the prior year assessed value (AV) by 1.03. Compare the result to the prior year MAV to determine the larger amount. The larger amount becomes the current year MAV (unadjusted) as if the account had not changed. 
+
+ Larger of: Prior year AV x 1.03 or prior year MAV = current year MAV of unchanged account. 
+
+ Outcome of step 1: Larger of: $87,379 x 1.03 = $90,000 or $87,379. Current year MAV = $90,000. 
+
+ Step 2: Determine the prior year RMV for the affected portion. The affected portion is the building or buildings that were demolished or removed. The RMV of the loss is the RMV of the affected portion. 
+
+ Outcome of step 2: RMV of affected portion = $75,000. 
+
+ Step 3: Determine the prior year RMV for the unaffected portion. Subtract the RMV of the affected portion (from Step 2) from the prior year total RMV to determine the RMV of the unaffected portion. 
+
+ Prior year total RMV – RMV of the affected portion = RMV of the unaffected portion. 
+
+ Outcome of step 3: $100,000 - $75,000 = $25,000. 
+
+ Step 4: Determine the percentage of the unaffected property. Divide the RMV of the unaffected portion (from Step 3) by the total prior year RMV to determine the percentage of the unaffected property. 
+
+ RMV of the unaffected portion / total prior year RMV = percentage of the unaffected property. 
+
+ Outcome of step 4: $25,000 / $100,000 = 25% 
+
+ Step 5: Determine the MAV that has been adjusted to reflect the loss. Multiply the unadjusted MAV (from Step 1) by the percentage of the unaffected property (from Step 4) to determine an MAV that has been adjusted to reflect the loss from demolition or removal (MAV attributable to the unaffected portion only). 
+
+ Unadjusted MAV x percentage of unaffected property = MAV adjusted to reflect the loss from demolition or removal. 
+
+ Outcome of step 5: $90,000 x 25% = $22,500. 
+ 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 
+ 
+ 
+ Statutes/Other Implemented:  ORS 308.146 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 32-2018, amend filed 12/31/2018, effective 01/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 150-308.146(8), REV 58-2016, f. 8-13-16, cert. ef. 9-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 7-2008, f. 8-29-08, cert. ef. 8-31-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

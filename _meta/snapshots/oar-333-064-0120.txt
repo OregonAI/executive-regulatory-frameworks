@@ -1,0 +1,315 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 64 ACCREDITATION OF LABORATORIES 
+ 333-064-0120 
+ Proficiency Testing for Laboratories Accredited for Cannabis Testing 
+ 
+ The purpose of a proficiency testing (PT) study is to provide a means for the Oregon Environmental Laboratory Accreditation Program (ORELAP) to evaluate a laboratory’s performance, under specified conditions related to a given set of criteria in a specific area of accreditation, through analysis of PT samples provided by an external source. 
+
+ (1) A laboratory accredited to test marijuana items and industrial hemp-derived vapor items must at all times have two successful PT studies out of the most recent three attempts for each field of accreditation for which the laboratory holds accreditation. 
+
+ (a) The closing dates of consecutive PT studies for a particular field of accreditation can be no more than seven months apart. 
+
+ (b) The opening date of a PT study for a particular field of accreditation must be at least seven calendar days after the closing date of the previous PT study for the same field of accreditation. 
+
+ (2) For purposes of this rule: 
+
+ (a) A PT study is a scheduled PT study or a supplemental PT study. 
+
+ (b) The proficiency testing reporting limit (PTRL) is equal to required maximum laboratory limits of quantitation (LOQs) as established in OAR 333-064-0100(12). 
+
+ (3) When a laboratory submits its PT study results to the PT provider, the laboratory must: 
+
+ (a) Ensure that the information provided to the provider reflects accurate information about the laboratory that corresponds to the information in the laboratory’s accreditation or application for accreditation, including but not limited to: 
+
+ (A) The laboratory’s name and address; 
+
+ (B) The laboratory’s ORELAP ID number; and 
+
+ (C) The method and analyte codes. 
+
+ (b) Instruct the PT provider to send the PT results directly to ORELAP. 
+
+ (c) Report each quantitative field of accreditation as follows: 
+
+ (A) The obtained numeric analytical result when the result is greater than or equal to the PTRL. 
+
+ (B) If the PTRL is less than the laboratory’s LOQ as allowed in OAR 333-064-0110(6), the laboratory shall report the analytical result without qualifying the result. 
+
+ (C) One of the following when the obtained numeric analytical result is less than the PTRL: 
+
+ (i) <PTRL; or 
+
+ (ii) The obtained analytical result if greater than or equal to the laboratory’s LOQ; or 
+
+ (iii) <LOQ if the obtained analytical result is less than the laboratory’s LOQ. 
+
+ (D) For non-detect results, <PTRL. 
+
+ (d) Report each qualitative field of accreditation according to the PT provider’s instructions. Presence or absence determinations in the PT shall be made following the laboratory’s normal procedure. 
+
+ (4) Any of the following will be considered to be an unsuccessful PT study and if a study was done, may not be counted toward the laboratory’s PT history of the most recent three attempts: 
+
+ (a) If a PT study for a particular field of accreditation is not performed within seven months, the laboratory will be charged with a failed study for each analyte. 
+
+ (b) A PT study for a particular field of accreditation that has an opening date less than seven days from the closing date of the previous PT study for that same field of accreditation. 
+
+ (c) Information on study results received from the provider does not match any of the items in OAR 333-064-0120(3). 
+
+ (5) For pesticide, mycotoxin analysis on or after August 1, 2024, and potency analyses in usable marijuana, a laboratory must use PT samples made with a usable marijuana matrix. If a usable marijuana matrix is unavailable, then a PT sample made with usable hemp matrix may be used with written permission from ORELAP. If a PT sample made with a usable hemp matrix is used for accreditation of potency analysis, then the PT provider must prepare the sample in usable hemp material itself and may not provide a separate spiking solution with the sample. 
+
+ (6) In accordance with ORS chapter 183, the Oregon Health Authority may: 
+
+ (a) Suspend the affected field of accreditation if a laboratory fails to comply with this rule. 
+
+ (b) Revoke the affected field of accreditation if a laboratory fails three consecutive PT studies or fails to participate in a PT study as is required by these rules. 
+
+ (7) For purposes of this rule a successful PT study means the testing results have been reported according to these rules and evaluated by the PT provider and ORELAP as acceptable. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 475C.544 
+ 
+ 
+ Statutes/Other Implemented:  ORS 475C.544 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 68-2024, amend filed 07/09/2024, effective 07/23/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 46-2022, minor correction filed 04/26/2022, effective 04/26/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 95-2021, amend filed 12/29/2021, effective 01/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 89-2020, amend filed 12/30/2020, effective 01/01/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 65-2020, temporary amend filed 09/24/2020, effective 09/24/2020 through 03/22/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 45-2020, minor correction filed 05/07/2020, effective 05/07/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 282-2018, adopt filed 12/20/2018, effective 01/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

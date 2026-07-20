@@ -1,0 +1,239 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Business Development Department 
+ Chapter 123 
+ 
+ 
+ 
+ 
+ 
+ Division 650 ENTERPRISE ZONE CREATION AND AMENDMENT 
+ 123-650-1500 
+ Mapping and Defining Zone Boundary
+ 
+ 
+ Any enterprise zone designation, re-designation or boundary change shall demonstrate adherence to OAR 123-650-1000 or 123-650-1100 by including all of the following with the documentation submitted to the Department under ORS 285C.074 or 285C.117: 
+
+ (1) An estimate to the nearest 0.1 square miles of the entire zone area (after accounting for area added or removed due to any boundary change) in accordance with OAR 123-650-1000(3) and (4). 
+
+ (2) Map or set of maps drawn to scale with north directional arrow, legend/scale and title using the zone name, as well as clear representation of the zone boundary, including: 
+
+ (a) An overview map showing the entire zone on a single page; and 
+
+ (b) Inset, subsidiary or supplemental maps, as necessary or appropriate, in order to: 
+
+ (A) Provide detail for portions of the zone as referenced or linked to the overview map; and 
+
+ (B) Specify areas added or removed. 
+
+ (3) Narrative description of the overall enterprise zone boundary in a continuous fashion (incorporating any boundary change) that corresponds to the mapping in section (2) of this rule, but which would overrule the mapping in the event of any material discrepancy. The description shall rely on one of the following methods that exactly corresponds to the zone boundary, or a combination of them if fitting together clearly, comprehensively and without redundancy: 
+
+ (a) Professional metes and bounds surveying; 
+
+ (b) Permanent landmarks or natural margins such as a waterway, road, track or transmission line; 
+
+ (c) Official borders or demarcations such as city limit, urban growth boundary, county line or right of way based on specifically dated citations or documents (zone boundary does not change along with any subsequent change to the demarcation); 
+
+ (d) Whole cadastral sections, quarter sections and so forth; or 
+
+ (e) Listing of tax lots in relation to specified and dated county assessor maps with associated township, range and section numbering: 
+
+ (A) In a table with multiple other data for each tax lot that further identify it, such as street address, legal description, zoning, area, tax code, coordinates, or property tax account number; and 
+
+ (B) Preferably supplemented with copies of the respective assessor maps. 
+
+ (4) The following items, which are submitted electronically to the Department (even if other items in this rule need not be): 
+
+ (a) A single set of geo-coded data, for a geographic information systems (GIS) shape file, specific only to that entire zone (pursuant to any boundary change) and not in combination with any other enterprise zone; and 
+
+ (b) Image file corresponding to subsection (2)(a) of this rule (silently incorporating any boundary change). 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 285A.075 & 285C.060(1) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 285C.060, 285C.065, 285C.074, 285C.085, 285C.090, 285C.115, 285C.117, 285C.120 & 285C.250 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OBDD 28-2024, minor correction filed 10/17/2024, effective 10/17/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OBDD 14-2024, amend filed 06/10/2024, effective 06/10/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OBDD 15-2015, f. & cert. ef. 11-12-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OBDD 23-2010, f. & cert. ef. 6-14-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

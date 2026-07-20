@@ -1,0 +1,570 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 122 DURABLE MEDICAL EQUIPMENT, PROSTHETIC ORTHOTICS AND SUPPLIES (DMEPOS) 
+ 410-122-0520 
+ Glucose Monitors and Diabetic Supplies
+ 
+ 
+ (1) Indications and limitations of coverage and medical appropriateness: 
+
+ (a) The Division may cover home blood glucose monitors and related diabetic supplies for clients with diabetes who can self-monitor blood glucose (SMBG) or be monitored with assistance; 
+
+ (b) Coverage of home blood glucose monitors is limited to clients meeting all of the following conditions: 
+
+ (A) The client has diabetes that is being treated by a practitioner; and 
+
+ (B) The glucose monitor and related accessories and supplies have been ordered by a practitioner who is treating the client’s diabetes; and 
+
+ (C) The client or caregiver has successfully completed a structured education and feedback program for self-monitoring of blood glucose and is scheduled to begin training in the use of the monitor, test strips, and lancing devices; and 
+
+ (D) The client or caregiver is capable of using the test results to assure the client’s appropriate glycemic control; and 
+
+ (E) The device is designed for home use; 
+
+ (c) Home blood glucose monitors with special features (E2100 or E2101) may be covered for clients who meet the basic coverage criteria (1)(b)(A)–(E) of this rule and the following: 
+
+ (A) For code E2100, the treating practitioner certifies that the client has a severe visual impairment (i.e., best corrected visual acuity of 20/200 or worse) requiring use of this special monitoring system; or 
+
+ (B) For code E2101, the treating practitioner certifies that the client has an impairment of manual dexterity severe enough to require the use of this special monitoring system; 
+
+ (d) If a glucose monitor is covered, lancets, blood glucose test reagent strips, glucose control solutions, insulin syringes, and spring powered devices for lancets may also be covered. Coverage limitations for these supplies are as follows: 
+
+ (A) For A4258, only one spring powered device every six months; 
+
+ (B) For A4253 and A4259, the provider of the test strips and lancets shall maintain in their records the order from the treating practitioner. The provider shall verify that the client has nearly exhausted their supply, before dispensing more test strips and lancets. The amount of test strips and lancets covered is based on the needs of the client according to the following limitations: 
+
+ (i) For clients with type 2 diabetes not requiring multiple daily insulin injections, up to 50 test strips (1 unit) and 100 lancets (1 unit) at the time of diagnosis; 
+
+ (ii) For clients with type 2 diabetes who require diabetic medication that may result in hypoglycemia, up to 50 test strips and 100 lancets per 90 days. An additional 50 test strips may be covered with clinical documentation of an acute change in glycemic control or active diabetic medication adjustment; 
+
+ (iii) For clients with Type 1 diabetes and those with type 2 diabetes requiring multiple daily insulin injections, up to 100 test strips and 100 lancets per month; 
+
+ (iv) For clients with gestational diabetes, up to 150 test strips and 200 lancets per month no longer than 60 days beyond the duration of the pregnancy; 
+
+ (v) Quantities exceeding these utilization guidelines require prior authorization and may be covered when: 
+
+ (I) Basic coverage criteria in (1)(b)(A)-(E) for home glucose monitors and related accessories and supplies are met; and 
+
+ (II) The treating practitioner has seen the client and evaluated their diabetes control within six months prior to ordering quantities of test strips and lancets that exceed the utilization guidelines and has documented in the client’s medical record the specific reason for the additional supplies for that particular client; and 
+
+ (III) If refills of quantities of supplies that exceed utilization guidelines are dispensed, there shall be documentation in the practitioner’s records (e.g., a specific narrative statement that adequately specifies the frequency at which the client is actually testing or a copy of the client's log) that the client is actually testing at a frequency that corroborates the quantity of supplies that have been dispensed. If the client is regularly using quantities of supplies that exceed the utilization guidelines, new documentation shall be present at least every six months; 
+
+ (C) Home blood glucose monitors are subject to a limit of one monitor per two calendar years; 
+
+ (e) Diabetic supply providers may not dispense a quantity of supplies exceeding a client’s expected utilization. Providers shall stay attuned to atypical utilization patterns on behalf of their clients and verify with the ordering practitioner that the atypical utilization is, in fact, warranted. Regardless of utilization, a provider may not dispense more than a three-month quantity of glucose testing supplies (i.e., up to 300 test strips, 300 lancets, and 500 insulin syringes) at a time. Prior authorization (PA) shall be obtained prior to dispensing amounts in excess of these utilization limits; 
+
+ (f) Providers may contact the treating practitioner to renew an order; however, the request for renewal may only be made with the client’s continued monthly use of testing supplies and only with the client’s or caregiver’s request to the provider for order renewal; 
+
+ (g) An order refill does not have to be approved by the ordering practitioner; however, a client or their caregiver shall specifically request refills of glucose monitor supplies before they are dispensed. The provider may not automatically dispense a quantity of supplies on a predetermined regular basis, even if the client has "authorized" this in advance; 
+
+ (h) Purchase fee for a glucose monitor includes normal, low and high-calibrator solution/chips (A4256), a battery (A4233, A4234, A4235 or A4236), and a spring-powered lancet device (A4258); 
+
+ (i) The following services are not covered as they are not medically necessary or medically appropriate: 
+
+ (A) Peroxide (A4244), betadine, or phisoHex (A4246, A4247); 
+
+ (B) Alternate site blood glucose monitors; 
+
+ (C) Blood glucose monitors and related supplies prescribed on an "as needed" basis; 
+
+ (D) Blood glucose test or reagent strips that use a visual reading and are not used in a glucose monitor; 
+
+ (E) Disposable gloves; 
+
+ (F) Home blood glucose disposable monitors; 
+
+ (G) Jet injectors; 
+
+ (H) Insulin delivery devices and related supplies other than those identified in this rule and OAR 410-122-0525; 
+
+ (I) Reflectance colorimeter devices used for measuring blood glucose levels in clinical settings; 
+
+ (J) Urine test or reagent strips or tablets. 
+
+ (2) Guidelines: 
+
+ (a) Insulin-treated means that the client is receiving insulin injections to treat their diabetes. Insulin does not exist in an oral form and therefore clients taking oral medication to treat their diabetes are not insulin-treated; 
+
+ (b) A severe visual impairment is defined as a best corrected visual acuity of 20/200 or worse in both eyes; 
+
+ (c) An order renewal is the act of obtaining an order for an additional period of time beyond that previously ordered by the treating practitioner; 
+
+ (d) An order refill is the act of replenishing quantities of previously ordered items during the time period in which the current order is valid; 
+
+ (e) A4256 describes control solutions containing high, normal, and low concentrations of glucose that can be applied to test strips to check the integrity of the test strips. This code does not describe the strip or chip which is included in a vial of test strips and which calibrates the glucose monitor to that particular vial of test strips; 
+
+ (f) For glucose test strips (A4253), 1 unit of service = 50 strips. For lancets (A4259), 1 unit of service = 100 lancets. 
+
+ (3) Documentation requirements: 
+
+ (a) For supplies requiring prior authorization (PA), submit documentation that supports coverage criteria as specified in this rule are met; 
+
+ (b) The order for home blood glucose monitors and/or diabetic testing supplies shall include all of the following: 
+
+ (A) All item(s) to be dispensed; 
+
+ (B) The specific frequency of testing; 
+
+ (C) The treating practitioner’s signature; 
+
+ (D) The date of the treating practitioner's signature; 
+
+ (E) A start date of the order is only required if the start date is different than the signature date; 
+
+ (c) A new order shall be obtained when there is a change in the testing frequency; 
+
+ (d) For E2100 or E2101 in a client with impaired visual acuity, submit documentation that includes a narrative statement from the practitioner which indicates the client’s specific numerical visual acuity (e.g., 20/400) and that this result represents "best corrected" vision; 
+
+ (e) For E2101 clients with impaired manual dexterity, submit documentation that includes a narrative statement from the practitioner which indicates an explanation of the client’s medical condition necessitating the monitor with special features; 
+
+ (f) When requesting quantities of supplies that exceed utilization guidelines as specified in (1)(d)(B)(i)–(iv) (e.g., more than 100 blood glucose test strips per month for insulin-dependent diabetes mellitus), submit documentation supporting the medical appropriateness for the higher utilization as specified in (1)(d)(B)(v)(I)–(III) to the appropriate authorization authority for PA; 
+
+ (g) Documentation that supports condition of coverage requirements for codes billed in this rule shall be kept on file by the Durable Medical Equipment, Prosthetics, Orthotics, and Supplies (DMEPOS) provider and made available to the Division on request; 
+
+ (h) The appropriate diagnosis code describing the condition that necessitates glucose testing shall be included on each claim for the monitor, accessories, and supplies; 
+
+ (i) Diabetic supply providers are not prohibited from creating data collection forms in order to gather medically appropriate information; however, the Division shall not rely solely on those forms to prove the medical appropriateness of services provided; 
+
+ (j) A client’s medical records shall support the justification for supplies dispensed and billed to the Division. 
+
+ (4) Billing and Payment Guidelines: 
+
+ (a) Diabetic supplies shall be billed using a National Drug Code (NDC). DMEPOS provider types shall submit claims with appropriate NDC and HCPCS codes to the Division via the Web Portal or Point of Sale Systems via professional claim format. Pharmacy provider types shall submit claims with appropriate NDC to the Division via the Web Portal or Point of Sale Systems via pharmacy claim format. Claims submitted on these systems without NDC’s will not be processed. This NDC requirement applies to: 
+
+ (A) Home glucose monitors; and 
+
+ (B) Blood glucose test reagent strips; 
+
+ (C) Lancets; 
+
+ (D) Insulin syringes; 
+
+ (E) Spring powered lancet devices; 
+
+ (F) Calibrating solutions and chips; 
+
+ (b) For specialized glucose monitors and the respective testing supplies, such as those with special features for the visually impaired and those with manual dexterity problems, the provider shall obtain PA. After PA the provider can submit a professional claim to the Division; 
+
+ (c) Orders received from prescribing clinicians for blood glucose test reagent strips that exceed utilization guidelines outlined in section (1)(d)(B)(i)–(iv) shall require PA from the Division. Diabetic supply providers may initially dispense up to utilization limits (i.e., 300 test strips, 300 lancets, and 500 insulin syringes) prior to obtaining PA for orders that exceed utilization guidelines. After PA is issued the remaining amount may be dispensed for a three-month time period. 
+
+ (5) Procedure Codes: Table 122-0520 — Diabetic Supplies. 
+
+ [ED. NOTE: Tables referenced are available from the agency.] 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042 & 414.065 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.065 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 18-2024, minor correction filed 01/04/2024, effective 01/04/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 101-2023, amend filed 12/29/2023, effective 01/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 82-2014, f. 12-23-14, cert. ef. 1-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 42-2011, f. 12-21-11, cert. ef. 1-1-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 12-2011, f. 6-29-11, cert. ef. 7-1-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 15-2009, f. 6-12-09, cert. ef. 7-1-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 17-2008, f. 6-13-08, cert. ef. 7-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 12-2007, f. 6-29-07, cert. ef. 7-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 35-2006, f. 9-15-06, cert. ef. 10-1-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 44-2004, f. & cert. ef. 7-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 47-2002, f. & cert. ef. 10-1-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 8-2002, f. & cert. ef. 4-1-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 32-2001, f. 9-24-01, cert. ef. 10-1-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 37-2000, f. 9-29-00, cert. ef. 10-1-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 13-1999, f. & cert. ef. 4-1-99 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 11-1998, f. & cert. ef. 4-1-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HR 7-1997, f. 2-28-97, cert. ef. 3-1-97 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HR 17-1996, f. & cert. ef. 8-1-96 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HR 41-1994, f. 12-30-94, cert. ef. 1-1-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HR 10-1994, f. & cert. ef. 2-15-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HR 9-1993, f. & cert. ef. 4-1-93 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HR 13-1991, f. & cert. ef. 3-1-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,454 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 165 OREGON MEDICAID ELECTRONIC HEALTH RECORD (EHR) INCENTIVE PROGRAM 
+ 410-165-0020 
+ Definitions
+ 
+ 
+ The following definitions apply to OAR 410-165-0010 through 410-165-0140: 
+
+ (1) “Acceptance Documents” means written evidence supplied by a provider demonstrating that the provider met Medicaid EHR Incentive Program eligibility criteria or participation requirements according to standards specified by the Division. 
+
+ (2) “Acute Care Hospital” means a healthcare facility including, but not limited to, a critical access hospital with a Centers for Medicare and Medicaid Services’ (CMS) certification number (CCN) that ends in 0001-0879 or 1300-1399 and where the average length of patient stay is 25 days or fewer. 
+
+ (3) “Adopt, Implement, or Upgrade” means: 
+
+ (a) Acquire, purchase, or secure access to certified EHR technology capable of meeting meaningful use requirements; 
+
+ (b) Install or commence utilization of certified EHR technology capable of meeting meaningful use requirements; or 
+
+ (c) Expand the available functionality of certified EHR technology capable of meeting meaningful use requirements at the practice site, including staffing, maintenance, and training or upgrade from existing EHR technology to certified EHR technology. 
+
+ (4) “Attestation” means a statement that: 
+
+ (a) Is made by an eligible provider or preparer during the application process; 
+
+ (b) Represents that the eligible provider met the thresholds and requirements of the Medicaid EHR Incentive Program; and 
+
+ (c) Is made under penalty of prosecution for falsification or concealment of a material fact. 
+
+ (5) “Certified EHR Technology” has the meaning given that term in 42 CFR 495.302 (2010, 2012, and 2014), 42 CFR 495.4 (2010, 2012, and 2015), 42 CFR 495.6 (2014), 42 CFR 495.20 (2015), and 45 CFR 170.102 (2010, 2011, 2012, 2014, and 2015). 
+
+ (6) “Children’s Hospital” means a separately certified hospital, either freestanding or a hospital within a hospital that predominantly treats individuals under 21 years of age and that: 
+
+ (a) Has a CCN that ends in 3300–3399; or 
+
+ (b) Does not have a CCN but has been provided an alternative number by CMS for purposes of enrollment in the Medicaid EHR Incentive Program as a children’s hospital. 
+
+ (7) “Dentist” has the meaning given that term in OAR 410-120-0000 and 42 CFR 440.100. 
+
+ (8) “Eligible Hospital” means an acute care hospital with at least 10 percent Medicaid patient volume or a children’s hospital. 
+
+ (9) “Eligible Professional” means a professional who: 
+
+ (a) Is a physician, dentist, nurse practitioner, nurse-midwife nurse practitioner, pediatric optometrist, naturopathic physician, or physician associate practicing in a Federally Qualified Health Center (FQHC) or a Rural Health Clinic (RHC) that is so led by a physician associate; 
+
+ (b) Meets patient volume requirements described in OAR 410-165-0060; and 
+
+ (c) Is not a hospital-based professional. 
+
+ (10) “Eligible Provider” means an eligible hospital or eligible professional. 
+
+ (11) “Encounter” means: 
+
+ (a) For an eligible hospital: 
+
+ (A) Services rendered to an individual for inpatient discharge; or 
+
+ (B) Services rendered to an individual in an emergency department on any one day. 
+
+ (b) For an eligible professional, services rendered to an individual on any one day. 
+
+ (12) “Enrolled Provider” means a hospital or health care practitioner who is actively registered with the Authority pursuant to OAR 943-120-0320. 
+
+ (13) “Entity Promoting the Adoption of Certified EHR Technology” means an entity designated by the Authority that promotes the adoption of certified EHR technology by enabling: 
+
+ (a) Oversight of the business and operational and legal issues involved in the adoption and implementation of certified EHR technology; or 
+
+ (b) The exchange and use of electronic clinical and administrative data between participating providers in a secure manner including, but not limited to, maintaining the physical and organizational relationship integral to the adoption of certified EHR technology by eligible providers. 
+
+ (14) “Federal Fiscal Year (FFY)” means October 1 to September 30. 
+
+ (15) “Federally Qualified Health Center (FQHC)” has the meaning given that term in OAR 410-120-0000. 
+
+ (16) “Grace Period” means a period of time or specified date following the end of a program year when an eligible provider may submit an application to the Medicaid EHR Incentive Program for that program year. 
+
+ (17) “Hospital-based Professional” means a professional who furnishes 90 percent or more of Medicaid-covered services in a hospital emergency room (place of service code 23) or inpatient hospital (place of service code 21) in the calendar year (CY) preceding the program year, but does not include a professional practicing predominantly at a FQHC or RHC. 
+
+ (18) “Individuals Receiving Medicaid” means individuals served by an eligible provider where the services rendered would qualify under the Medicaid encounter definition. 
+
+ (19) “Meaningful EHR User” means an eligible provider that meets the criteria set forth in OAR 410-165-0080. 
+
+ (20) “Medicaid Encounter” means: 
+
+ (a) For an eligible hospital applying for program year 2011 or 2012: 
+
+ (A) Services rendered to an individual per inpatient discharge where Medicaid (or a Medicaid demonstration project approved under the Social Security Act section 1115) paid for part or all of the service; or Medicaid (or a Medicaid demonstration project approved under the Social Security Act section 1115) paid all or part of the individual’s premiums, copayments, or cost-sharing; or 
+
+ (B) Services rendered in an emergency department on any one day where Medicaid (or a Medicaid demonstration project approved under the Social Security Act section 1115) paid for part or all of the service; or Medicaid (or a Medicaid demonstration project approved under the Social Security Act section 1115) paid all or part of the individual’s premiums, copayments, and cost-sharing. 
+
+ (b) For an eligible hospital applying for program year 2013 or later, either: 
+
+ (A) Services rendered to an individual per inpatient discharge where the individual was enrolled in Medicaid (or a Medicaid demonstration project approved under the Social Security Act section 1115) or Children’s Health Insurance Program (CHIP) if part of a state’s Medicaid expansion (does not apply to Oregon’s as it is designated as a separate CHIP state) at the time the billable service was provided; or 
+
+ (B) Services rendered in an emergency department on any one day where the individual was enrolled in Medicaid (or a Medicaid demonstration project approved under the Social Security Act section 1115) or Children’s Health Insurance Program (CHIP) if part of a state’s Medicaid expansion (does not apply to Oregon’s as it is designated as a separate CHIP state) at the time the billable service was provided. 
+
+ (c) For an eligible professional applying for program year 2011 or 2012, either: 
+
+ (A) Services rendered to an individual on any one day where Medicaid (or a Medicaid demonstration project approved under the Social Security Act section 1115) paid for part or all of the service; or 
+
+ (B) Medicaid (or a Medicaid demonstration project approved under the Social Security Act section 1115) paid all or part of the individual’s premiums, copayments, and cost-sharing. 
+
+ (d) For an eligible professional applying for program year 2013 or later, services rendered to an individual on any one day where the individual was enrolled in a Medicaid program (or a Medicaid demonstration project approved under the Social Security Act section 1115) or Children’s Health Insurance Program (CHIP) if part of a state’s Medicaid expansion (does not apply to Oregon’s as it is designated as a separate CHIP state) at the time the billable service was provided. 
+
+ (21) “National Provider Identifier” has the meaning given that term in 45 CFR Part 160 and OAR 410-120-0000. 
+
+ (22) “Naturopathic Physician” has the meaning given that term in OAR 410-120-0000 and ORS Chapter 685. 
+
+ (23) “Needy Individual” means individuals served by an eligible professional where the services rendered qualify under the needy individual encounter definition. 
+
+ (24) “Needy Individual Encounter” means: 
+
+ (a) For an eligible professional applying for program year 2011 or 2012, services rendered to an individual on any one day where: 
+
+ (A) Medicaid or CHIP or a Medicaid or CHIP demonstration project approved under the Social Security Act section 1115 paid for part or all of the service; 
+
+ (B) Medicaid or CHIP or a Medicaid or CHIP demonstration project approved under the Social Security Act section 1115 paid all or part of the individual’s premiums, copayments, or cost-sharing; 
+
+ (C) The services were furnished at no cost and calculated consistent with 42 CFR 495.310(h) (2010); or 
+
+ (D) The services were paid for at a reduced cost based on a sliding scale determined by the individual’s ability to pay. 
+
+ (b) For an eligible professional applying for program year 2013 or later, services rendered to an individual on any one day where: 
+
+ (A) The services were rendered to an individual enrolled in a Medicaid program or a Medicaid demonstration project approved under the Social Security Act section 1115 or CHIP at the time the billable service was provided; 
+
+ (B) The services were furnished at no cost and calculated consistently with 42 CFR 495.310(h) (2010); or 
+
+ (C) The services were paid for at a reduced cost based on a sliding scale determined by the individual’s ability to pay. 
+
+ (25) “Nurse Practitioner” has the meaning given that term in OAR 410-120-0000 and 42 CFR 440.166. 
+
+ (26) “Optometrist” has the meaning given that term in OAR 410-120-0000 and ORS chapter 683. 
+
+ (27) “Panel” means a managed care panel, medical or health home program panel, or similar provider structure with capitation or case assignment that assigns patients to providers. 
+
+ (28) “Patient Volume” means: 
+
+ (a) For eligible hospitals, the proportion of Medicaid encounters to total encounters expressed as a percentage; 
+
+ (b) For eligible professionals who do not meet the definition of “practices predominantly,” the proportion of Medicaid encounters to total encounters expressed as a percentage; 
+
+ (c) For eligible professionals who meet the definition of “practices predominantly,” the proportion of needy individual encounters to total encounters expressed as a percentage. 
+
+ (29) “Pediatric Optometrist” means an optometrist who predominantly treats individuals under the age of 21. 
+
+ (30) “Pediatrician” means a physician who predominantly treats individuals under the age of 21. 
+
+ (31) “Physician” has the meaning given that term in OAR 410-120-0000 and 42 CFR 440.50. 
+
+ (32) “Physician Associate” has the meaning given that term in OAR 410-120-0000 and 42 CFR 440.60. 
+
+ (33) “Practices Predominantly” means an eligibility criterion to permit use of needy individual patient volume. An eligible professional practices predominantly if: 
+
+ (a) For program year 2011 or 2012, more than 50 percent of an eligible professional’s total patient encounters over a period of six months in the calendar year preceding the program year occur at an FQHC or RHC; 
+
+ (b) For program year 2013 and later, more than 50 percent of an eligible professional’s total patient encounters occur at an FQHC or RHC: 
+
+ (A) During a six-month period in the calendar year preceding the program year; or 
+
+ (B) During a six-month period in the most recent 12 months prior to attestation. 
+
+ (34) “Preparer” means an individual authorized by an eligible provider to act on behalf of the provider to complete an application for a Medicaid EHR incentive via an electronic media connection with the Authority. 
+
+ (35) “Program” means the Medicaid EHR Incentive Program. 
+
+ (36) “Program Year” means: 
+
+ (a) The CY for an eligible professional; 
+
+ (b) For an eligible hospital: 
+
+ (A) The federal fiscal year for program years 2011 through 2014 and for program 2015 if the attestation date is before December 15, 2015; 
+
+ (B) The CY for program year 2015 and later if the attestation date is on or after December 15, 2015. 
+
+ (37) “Provider Web Portal” means the Authority’s website that provides a secure gateway for eligible providers or preparers to apply for the Program. 
+
+ (38) “Qualify” means to meet the eligibility criteria and participation requirements to receive a payment for the program year. The Program makes the determination as to whether an eligible provider qualifies. 
+
+ (39) “Rural Health Clinic (RHC)” means a clinic located in a rural and medically underserved community designated as an RHC by CMS. Payment by Medicare and Medicaid to an RHC is on a cost-related basis for outpatient physician and certain non-physician services. 
+
+ (40) “So Led” means when an FQHC or RHC has a physician assistant who is: 
+
+ (a) The primary provider in the clinic; 
+
+ (b) A clinical or medical director at the clinical site of practice; or 
+
+ (c) An owner of the RHC. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042 
+ 
+ 
+ Statutes/Other Implemented:  ORS 413.042 & 414.033 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 21-2025, minor correction filed 01/09/2025, effective 01/09/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 18-2017, f. 5-31-17, cert. ef. 6-2-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 3-2017(Temp), f. & cert. ef. 2-2-17 thru 7-31-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 47-2016, f. 7-18-16, cert. ef. 8-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 21-2016(Temp), f. 5-11-16, cert. ef. 5-13-16 thru 11-8-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 20-2015, f. & cert. ef. 4-8-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 2-2015(Temp), f. 1-30-15, cert. ef. 2-3-15 thru 8-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 56-2013, f. & cert. ef. 10-22-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 20-2013(Temp), f. & cert. ef. 4-26-13 thru 10-23-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 13-2011, f. 6-29-11, cert. ef. 7-1-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

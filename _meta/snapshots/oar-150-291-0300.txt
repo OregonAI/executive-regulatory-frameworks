@@ -1,0 +1,197 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 291 PERSONAL INCOME TAX SURPLUS REFUND 
+ 150-291-0300 
+ Procedures for Handling State Personal Income Tax Surplus Credit 
+ 
+ (1) Surplus Credit Generally. This rule applies for biennia beginning on or after July 1, 2011, when personal income taxpayers are credited a surplus of tax revenues under ORS 291.349(4). Taxpayers claim the credit in odd-numbered tax years and calculate the credit based on the tax return information for the immediately preceding even-numbered tax year (base tax year).  (2) Surplus Credit Procedure. No later than October 15 following the end of the biennium for which a surplus is determined, the department will make publicly available to taxpayers the applicable surplus percentage amounts and information giving guidance on the calculation of the surplus credit.  (a) Personal income taxpayers calculate their surplus credit by multiplying the applicable surplus percentage amount by their total personal income tax liability for the base tax year.  (b) The total personal income tax liability is determined after allowing a credit for income taxes paid to another state (under ORS 316.082, 316.131, and 316.292) and before any other credit or offset against tax liability, allowed or allowable.  (c) If a surplus credit reduces tax liability to zero, the department will refund any unused surplus credit amount as an overpayment of tax. The department may offset an overpayment of tax due to any unused surplus credit amount to pay debts owing to the State of Oregon or other parties as indicated in ORS 314.415 and 293.250. The department will issue a notice when this occurs. The department will offset any unused surplus credit amount consistent with the priority set out in OAR 150-314-0248.  (3) Changes in filing status or spouse/registered domestic partner (RDP). A taxpayer who files returns using a different filing status in the base tax year and the immediately succeeding tax year, when claiming a surplus credit, or who files jointly with a different taxpayer in the base tax year and the immediately succeeding tax year, when claiming a surplus credit, must compute their surplus credit as follows:  (a) From another filing status to married/RDP filing jointly. The surplus credit allowed on the joint return is the combination of the surplus credits as calculated based on each taxpayer’s separate return from the base tax year.  Example 1: George and Robin each file their 20XX personal income tax returns, using the single filing status. George has a total personal income tax liability of $2,000. Robin has a total personal income tax liability of $3,000. In 20X1, George and Robin marry. After the end of the biennium in 20X1, a surplus credit is determined with an applicable percentage amount of 5%. George and Robin file their 20X1 personal income tax return jointly. They must each calculate their surplus credit separately and report the sum on their return. George’s surplus credit is $100 ($2,000 x 0.05) and Robin’s surplus credit is $150 ($3,000 x 0.05). They will claim a surplus credit of $250 on their 20X1 joint personal income tax return.  (b) From married/RDP filing jointly to another filing status. The surplus credits claimed by each taxpayer on their separate returns must bear the same proportion to the total surplus credit calculated according to ORS 291.349(5) as the federal adjusted gross income of each taxpayer bears to the federal adjusted gross income of both taxpayers on the joint return for the base tax year.  Example 2: Shawna and Nathan are married and file their 20XX personal income tax return, using the married filing jointly filing status. Their total federal adjusted gross income (AGI) is $65,000. Their total personal income tax liability is $5,000. Shawna’s portion of the total AGI is $45,500, or 70%. Nathan’s portion of the total AGI is $19,500, or 30%. In 20X1 Shawna and Nathan divorce and neither remarries during that year. After the end of the biennium in 20X1, a surplus credit is determined with an applicable percentage amount of 4%. When Shawna and Nathan file their separate 20X1 personal income tax returns, they will calculate separate surplus credits based on their 20XX AGI. Shawna will claim a surplus credit of $140 (5,000 x 0.04 x 0.70). Nathan will claim a surplus credit of $60 (5,000 x 0.04 x 0.30).  (c) From married/RDP filing jointly to married/RDP filing jointly with a different spouse/RDP. The provisions of this subsection apply to a taxpayer who files a joint return with one spouse/RDP for the base tax year and then divorces, marries a different spouse/RDP during the immediately succeeding tax year, and files a joint return with their new spouse/RDP for the immediately succeeding tax year. The surplus credit allowed on the joint return with the new spouse/RDP is the combination of the surplus credits as calculated based on each taxpayer’s separate return from the base tax year.  Example 3: Duane and Fern are married and file their 20XX personal income tax return, using the married filing jointly filing status. Their total AGI is $80,000. Their total personal income tax liability is $7,500. Duane’s portion of the total AGI is $48,000, or 60%. Fern’s portion of the total AGI is $32,000, or 40%. In 20X1, Duane and Fern finalize their divorce. Duane marries Leslie that same year. Leslie filed a 20XX personal income tax return, using the single filing status. Her total personal income tax liability was $2,000. After the end of the biennium in 20X1, a surplus credit is determined with an applicable percentage amount of 2%. When Duane and Leslie file their joint 20X1 personal income tax return, they must each calculate their surplus credits separately and report the sum on their return. Duane’s surplus credit is $90 ($7,500 x 0.02 x 0.60), calculated according to subsection (b) of this section. Leslie’s surplus credit is $40 ($2,000 x 0.02). They will then add their separate credits and claim a $130 surplus credit on their joint 20X1 personal income tax return. Fern will claim a surplus credit of $60 ($7,500 x 0.02 x 0.40) on her 20X1 personal income tax return.  (d) Death of a taxpayer. The provisions of this subsection apply when a taxpayer dies during the base or immediately succeeding tax year and personal income taxpayers are credited a surplus of tax revenues after the end of that biennium. The taxpayer’s representative may file a return on their behalf to claim the surplus credit. If one of the two taxpayers on a jointly filed return from the base tax year dies, the surviving taxpayer from the joint return may claim the full amount of the surplus credit.  (4) Surplus Credit and subsequent increase in tax liability. If a taxpayer claims a surplus credit and subsequently there is an increase in the tax liability for the base tax year, the taxpayer must recalculate and apply their surplus credit in the following manner:  (a) Determine the revised surplus credit under section (2) of this rule using the total personal income tax liability as determined in an audit or review or as self-assessed by the taxpayer if an amended return is filed with the department;  (b) If within the time allowed by law, adjust or amend the return for the odd-numbered tax year to include the revised surplus credit.  Example 4: Beth files her 20XX Oregon personal income tax return showing a total personal income tax liability of $5,000. A surplus credit of 10% of 20XX tax year personal income tax liabilities is determined for tax year 20X1. Beth files her 20X1 Oregon personal income tax return claiming a surplus credit of $500 ($5,000 x 0.10). Later, the department adjusts her 20XX personal income tax return increasing her tax liability before credits by $2,000. Beth’s revised 20XX total personal tax liability is $7,000 ($5,000 + $2,000). She will multiply this amount by 10% to calculate her revised surplus credit of $700 for tax year 20X1. Within the time allowed by law, Beth must correct her 20X1 personal income tax return to claim the additional $200 ($700 [allowed] - $500 [already claimed]) of surplus credit. The department may offset the additional $200 to any outstanding debt before refunding any portion to Beth.  (5) Surplus Credit and subsequent decrease in liability. If a taxpayer claims a surplus credit and subsequently there is a decrease in tax liability for the base tax year, the taxpayer must recalculate and apply their surplus credit in the following manner:  (a) Determine the revised surplus credit under section (2) of this rule using the total personal income tax liability as determined in an audit or review or as self-assessed by the taxpayer if an amended return is filed with the department;  (b) If within the time allowed by law, adjust or amend the return for the odd-numbered tax year to include the revised surplus credit.  Example 5: Use the same facts as example 4, except Beth files a 20XX amended personal income tax return reducing her total personal income tax liability from $5,000 to $3,000 and claiming a refund of $2,000. Beth’s revised surplus credit for tax year 20X1 is $300 ($3,000 x 0.10). Within the time allowed by law, Beth must correct her 20X1 personal income tax return to include the revised credit and determine the amount previously allowed that she must pay back. Beth’s original surplus credit was $500. This means she must pay back $200 ($500 [original surplus credit] - $300 [revised surplus credit]). In addition to any other allowable offsets, the department will offset the refund from Beth’s 20XX amended return to pay back the excess surplus credit she previously claimed, plus interest.  (6) Interest accrual.  (a) Interest accrues according to ORS 314.415 on a refund of any unused surplus credit amount under subsection (2)(c) of this rule.  (b) Interest accrues according to ORS 314.400(7) on the amount of any surplus credit that a taxpayer must pay back under section (5) of this rule.  (7) Tax determined by the department on behalf of a delinquent taxpayer. If a taxpayer fails to file a return, the department may determine the taxpayer’s tax liability under ORS 314.400. If the department determines a taxpayer’s tax liability for a tax year in which personal income taxpayers are credited a surplus of tax revenues under 291.349(4), the amount of surplus credit will not be included in the department’s calculation of tax liability until:  (a) The taxpayer files a return with the department for the base tax year;  (b) The taxpayer accepts the tax liability assessed by the department for the base tax year; or  (c) The taxpayer’s liability is determined by the court for the base tax year.  (8) Returns and the statute of limitations. The department will refund any unused surplus credit amount as an overpayment of tax only as the limitations under ORS 314.415 will allow.  (9) Claiming a surplus credit when a taxpayer otherwise has no requirement to file. The provisions of this section apply to taxpayers who are not otherwise required to file a return. If a taxpayer files a return and has, or the department determines the taxpayer has, a personal income tax liability for the base tax year, the taxpayer must file a return in the immediately succeeding tax year in order to claim a surplus credit and receive a refund.  (10) Joint return apportionment of refund. If two taxpayers together file a joint return claiming a surplus credit and either spouse requests the department make separate refunds under ORS 314.415(7), the department will apportion the total refund according to 314.415(7) and OAR 150-314-0254. The following is an example applying this section and subsection (3)(a) of this rule:  Example 6: John and Mary were not married and filed their 20XX personal income tax returns separately. John had a total personal income tax liability of $3,000. Mary had a total personal income tax liability of $1,000. In 20X1, they marry and later file their personal income tax return using the married filing jointly filing status. A surplus credit of 4% of 20XX tax year personal income tax liabilities is determined for tax year 20X1. John and Mary calculate their total surplus credit according to subsection (3)(a) of this rule. John calculates a separate surplus credit of $120 ($3,000 x 0.04) and Mary calculates a separate surplus credit of $40 ($1,000 x 0.04). They claim a total surplus credit of $160 on their 20X1 personal income tax return.  Mary is behind on her student loan payments and the department offsets Mary and John’s entire 20X1 refund to pay that debt. John requests that the department split the 20X1 refund, to avoid offsetting his portion of the refund to pay Mary’s loan. Their 20X1 joint return contains the following information:  AGI: $50,000; John’s AGI: $40,000 (80% of total AGI); Mary’s AGI: $10,000 (20% of total AGI); Total Refund $1,000.  The surplus credit calculation and the calculation for splitting refunds are independent of each other. The department splits the total refund according to ORS 314.415(7) and OAR 150-314-0254. John’s portion of the refund is $800 ($1,000 x 0.80) and the department sends it to him. Mary’s portion of the refund is $200 ($1,000 x 0.20) and the department offsets it to pay her student loan.  [Publications: Publications referenced are available from the agency.] 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 291.349 & 305.100 
+ 
+ 
+ Statutes/Other Implemented:  ORS 291.349 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 150-291.349, REV 20-2016, f. 8-10-16, cert. ef. 9-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 2-2013, f. & cert. ef. 3-28-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 9-2012, f. 12-18-12, cert. ef. 1-1-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 6-2008, f. 8-29-08, cert. ef. 8-31-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

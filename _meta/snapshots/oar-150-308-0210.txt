@@ -1,0 +1,190 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 308 ASSESSMENT OF PROPERTY FOR TAXATION 
+ 150-308-0210 
+ Omitted Property—Allocating Maximum Assessed Value (MAV) 
+ 
+ (1) When omitted property is added to the property tax account after January 1 preceding the current assessment year and before January 1 of the current assessment year, only the omitted property portion is considered affected. The existing property is the unaffected portion. The intent is to correct the tax roll for current and prior years as if the omitted property had been a regular part of those tax rolls.  (2) To correct the first year’s Assessed Value (AV) when the omitted property is added to the roll :  (a) Multiply the real market value (RMV) of the omitted property for the first year it should have been added to the roll by that year’s appropriate changed property ratio (CPR) to determine MAV for the omitted property.  (b) Add the RMV and MAV of the omitted portion to the existing RMV and MAV to get a corrected RMV and MAV for the account.  (c) The lesser of the corrected RMV or MAV is the AV that should have been on the roll had the property been discovered timely.  EXAMPLE 1: Property was built in 2003 and should have been added to the 2004-05 tax roll. The assessor discovers the property in December 2004 and adds it to the 2004-05 tax roll. [Table not included. See ED. NOTE.]  (3) To correct the AV for subsequent years that omitted property should be added to the roll:  (a) Add the omitted property’s trended or recalculated RMV to the property’s existing RMV to get a corrected RMV for the account.  (b) Multiply the prior year’s corrected AV by 1.03 and compare to the prior year’s corrected MAV. The greater of the two will be the corrected MAV for the account.  (c) The lesser of the corrected RMV or MAV is the account’s AV.  EXAMPLE 2: Property was built in 2003 and should have been added to the 2004-05 tax roll. The assessor discovers the property in December 2008, and adds it to the 2004-05 through 2008-09 tax rolls. RMV trending is 5 percent per year. [Table not included. See ED. NOTE.]  [ED. NOTE: Tables referenced are available from the agency.] 
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 
+ 
+ 
+ Statutes/Other Implemented:  ORS 308.156 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 150-308.156(5)-(C), REV 58-2016, f. 8-13-16, cert. ef. 9-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 5-2009, f. & cert. ef. 7-31-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 4-1998, f. & cert. ef. 6-30-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

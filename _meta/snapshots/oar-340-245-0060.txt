@@ -1,0 +1,359 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 245 CLEANER AIR OREGON 
+ 340-245-0060 
+ Toxics Emissions Units 
+ 
+ (1) TEU Designation. An owner or operator must designate TEUs in the same manner as the owner or operator designated emissions units listed in a source’s operating or construction permit, if they are designated, unless the owner or operator requests a different designation in writing and DEQ approves that request in writing. The request for a new or a different TEU designation must be compatible with the following: 
+
+ (a) TEUs may not be designated in such a way as to avoid the requirements of this division; 
+
+ (b) An individual emissions-producing activity that exhausts through multiple stacks or openings must be designated as an individual TEU; 
+
+ (c) Where multiple emissions-producing activities exhaust through a common opening, exhaust stack or emissions control device, all of these emissions producing activities may be considered a single TEU or may be considered separate TEUs; 
+
+ (d) The list of TEUs should not be limited to what is listed in a source’s operating or construction permit but should include all processes and activities that emit toxic air contaminants; and 
+
+ (e) DEQ may require the owner or operator to designate TEUs differently than as listed in the source’s operating or construction permit, if DEQ determines such listing is appropriate to meet the purposes of this division. 
+
+ (2) Aggregated TEUs. 
+
+ (a) An owner or operator must designate the same TEUs as aggregated TEUs for all of the different types of risk: excess cancer risk, chronic noncancer risk and acute noncancer risk. 
+
+ (b) An owner or operator may choose to assign risk from aggregated TEUs based on either: 
+
+ (A) The applicable Aggregate TEU Level in OAR 340-245-8010 Table 1; or 
+
+ (B) The modeled risk from the approved risk assessment. 
+
+ (c) An owner or operator must request approval to change any aggregated TEU designation after the source’s aggregated TEUs have been designated in a risk assessment approved by DEQ. 
+
+ (d) An owner or operator may request approval to construct a new aggregated TEU or modify an existing aggregated TEU, following the procedures in section (4) if the total risk from the aggregated TEUs, including the new or modified TEU, remains less than or equal to the applicable Aggregate TEU Level in OAR 340-245-8010 Table 1. 
+
+ (3) Exempt TEUs. A TEU is an exempt TEU if it meets the criteria in subsection (a) or (b): 
+
+ (a) The owner or operator of the TEU has demonstrated that the TEU is not likely to materially contribute risk and DEQ approves such demonstration. The demonstration may include any information the owner or operator considers relevant, including but not limited to: 
+
+ (A) The chemical make-up of the materials handled or processed in the TEU as provided by Environmental, Safety, or Product Data Sheets, or equivalent documents; and 
+
+ (B) Whether or not the handling or processing of materials in the TEU is likely to alter the chemical make-up of the materials and the chemical make-up or likely chemical make-up of the materials emitted by the TEU. 
+
+ (b) The TEU is one of the following regulated pollutant emitting activities, principally supporting the source or the major industrial group: 
+
+ (A) Evaporative and tailpipe emissions from on-site motor vehicle operation; 
+
+ (B) Distillate oil, kerosene, gasoline, natural gas or propane burning equipment, provided the aggregate expected actual emissions of the equipment identified does not exceed the de minimis level for any regulated pollutant, based on the expected maximum annual operation of the equipment. If a source’s expected emissions from all such equipment exceed the de minimis levels, then the source may identify a subgroup of such equipment as an exempt TEU with the remainder not designated as an exempt TEU. The following equipment may never be included as part of the exempt TEU: 
+
+ (i) Any individual distillate oil, kerosene or gasoline burning equipment with a rating greater than 0.4 million Btu/hour; and 
+
+ (ii) Any individual natural gas or propane burning equipment with a rating greater than 2.0 million Btu/hour. 
+
+ (C) Distillate oil, kerosene, gasoline, natural gas or propane burning equipment brought on site for six months or less for maintenance, construction or similar purposes, such as but not limited to generators, pumps, hot water pressure washers and space heaters, provided that any such equipment that performs the same function as the permanent equipment, must be operated within the source's existing PSEL; 
+
+ (D) Office activities; 
+
+ (E) Food service activities; 
+
+ (F) Janitorial activities; 
+
+ (G) Personal care activities; 
+
+ (H) Groundskeeping activities including, but not limited to, building painting and road and parking lot maintenance; 
+
+ (I) On-site laundry activities; 
+
+ (J) On-site recreation facilities; 
+
+ (K) Instrument calibration; 
+
+ (L) Automotive storage garages; 
+
+ (M) Refrigeration systems with less than 50 pounds of charge of ozone depleting substances regulated under Title VI, including pressure tanks used in refrigeration systems but excluding any combustion equipment associated with such systems; 
+
+ (N) Bench scale laboratory equipment and laboratory equipment used exclusively for chemical and physical analysis, including associated vacuum producing devices but excluding research and development facilities; 
+
+ (O) Temporary construction activities; 
+
+ (P) Warehouse activities; 
+
+ (Q) Accidental fires and fire suppression; 
+
+ (R) Air vents from air compressors; 
+
+ (S) Air purification systems; 
+
+ (T) Continuous emissions monitoring vent lines; 
+
+ (U) Demineralized water tanks; 
+
+ (V) Pre-treatment of municipal water, including use of deionized water purification systems; 
+
+ (W) Electrical charging stations; 
+
+ (X) Fire brigade training; 
+
+ (Y) Instrument air dryers and distribution; 
+
+ (Z) Fully enclosed process raw water filtration systems; 
+
+ (AA) Electric motors; 
+
+ (BB) Pressurized tanks containing gaseous compounds that do not contain toxic air contaminants; 
+
+ (CC) Vacuum sheet stacker vents; 
+
+ (DD) Emissions from wastewater discharges to publicly owned treatment works (POTW) provided the source is authorized to discharge to the POTW, not including on-site wastewater treatment and/or holding facilities; 
+
+ (EE) Log ponds; 
+
+ (FF) Stormwater settling basins; 
+
+ (GG) Paved roads and paved parking lots within an urban growth boundary; 
+
+ (HH) Hazardous air pollutant emissions in fugitive dust from paved and unpaved roads except for those sources that have processes or activities that contribute to the deposition and entrainment of hazardous air pollutants from surface soils; 
+
+ (II) Health, safety, and emergency response activities; 
+
+ (JJ) Non-diesel, compression ignition emergency generators and pumps used only during loss of primary equipment or utility service due to circumstances beyond the reasonable control of the owner or operator, or to address a power emergency, provided that the aggregate horsepower rating of all stationary emergency generator and pump engines is not more than 3,000 horsepower. If the aggregate horsepower rating of all stationary emergency generator and pump engines is more than 3,000 horsepower, then no emergency generators and pumps at the source may be considered categorically insignificant; 
+
+ (KK) Non-contact steam vents and leaks and safety and relief valves for boiler steam distribution systems; 
+
+ (LL) Non-contact steam condensate flash tanks; 
+
+ (MM) Non-contact steam vents on condensate receivers, deaerators and similar equipment; 
+
+ (NN) Boiler blowdown tanks; and 
+
+ (OO) Ash piles maintained in a wetted condition and associated handling systems and activities. 
+
+ (4) New or modified TEU requirements. 
+
+ (a) The owner or operator of a source that has not been notified in writing by DEQ that they are required to submit a risk assessment and that proposes to construct a new or modified TEU must comply with OAR 340-210-0205 through 340-210-0250 before beginning construction of the new or modified TEU; 
+
+ (b) The owner or operator of a source that has been notified in writing by DEQ that they are required to submit a risk assessment but has not yet been issued a Toxic Air Contaminant Permit Addendum or an operating permit in compliance with this division and that proposes to construct a new or modified TEU must do the following before beginning construction of the new or modified TEU: 
+
+ (A) Comply with OAR 340-210-0205 through 340-210-0250; and 
+
+ (B) Revise and update any materials submitted to date under OAR 340-245-0050 to include the new or modified TEU by a date certain. 
+
+ (c) The owner or operator of a source that previously has been issued a Toxic Air Contaminant Permit Addendum or an operating permit in compliance with this division and that proposes to construct a new or modified TEU must follow the applicable procedures in paragraphs (c)(A) through (C) and must pay to DEQ all applicable specific activity fees under OAR 340-216-8020 Table 2 Part 4 and OAR 340-216-8030 Table 3. 
+
+ (A) New or modified exempt TEUs. If the proposed new or modified exempt TEU is subject to National Emission Standards for Hazardous Air Pollutants or New Source Performance Standards requirements, then the owner or operator must request approval of a new or modified exempt TEU under this rule and under OAR 340-210-0205 through 340-210-0250; 
+
+ (B) New or modified aggregated TEUs. 
+
+ (i) The owner or operator must request approval of a new or modified TEU to be an aggregated TEU by demonstrating that the risk from the aggregated TEUs, including the new or modified TEU, will be less than or equal to the Aggregate TEU Level. The owner or operator may use any risk assessment procedure, Level 1 through Level 4, under OAR 340-245-0050(8) through (11). 
+
+ (ii) If the current aggregated TEUs are permitted at the modeled risk levels as specified in OAR 340-245-0060(2)(b)(B), the owner or operator may add the risk from the new or modified aggregated TEU to prior results from the latest risk assessment for the source rather than updating the entire risk assessment for the source. 
+
+ (iii) The owner or operator must request approval of a new or modified aggregated TEU by submitting an application to modify its Toxic Air Contaminant Permit Addendum or operating permit as required under OAR 340-245-0100(8). 
+
+ (iv) The owner or operator of a proposed new or modified aggregate TEU may not begin construction until DEQ has issued a Toxic Air Contaminant Permit Addendum or an operating permit that approves the TEU; 
+
+ (C) New or modified significant TEUs. 
+
+ (i) The owner or operator must request approval of a new or modified significant TEU by submitting an application to modify its Toxic Air Contaminant Permit Addendum or operating permit that includes the following: 
+
+ (I) Information necessary to assess the risk from the new or modified significant TEU using any risk assessment procedure, Level 1 through Level 4, under OAR 340-245-0050(8) through (11). The owner or operator may add the risk from the new or modified TEU to prior results from the latest risk assessment for the source rather than updating the entire risk assessment for the source; and 
+
+ (II) Information necessary to verify that the new or modified significant TEU meets TLAER, if the source risk is greater than the TLAER Level for a new or reconstructed source, or meets TBACT, if the source risk is greater than the TBACT Level for an existing source using procedures under OAR 340-245-0220; 
+
+ (ii) The owner or operator of a proposed new or modified significant TEU may not begin construction of the new or modified significant TEU until DEQ has issued a Toxic Air Contaminant Permit Addendum or an operating permit that approves the TEU; 
+
+ (iii) If a source that was previously determined to be an exempt source under OAR 340-245-0050(6) or a de minimis source under OAR 340-245-0050(7) will no longer be an exempt or a de minimis source after the new or modified significant TEU is constructed, the owner or operator must follow the procedures in this section and apply for a Toxic Air Contaminant Permit Addendum under OAR 340-245-0100. Such an owner or operator may not begin construction of the new or modified significant TEU until DEQ has issued a Toxic Air Contaminant Permit Addendum or an operating permit that approves the TEU; and 
+
+ (iv) In conjunction with seeking authorization for the construction of a new or modified significant TEU, if the owner or operator makes simultaneous changes to existing TEUs other than the new or modified significant TEU for the purpose of reducing source risk, then the owner or operator may not begin operation of the new or modified significant TEU until DEQ has issued a Toxic Air Contaminant Permit Addendum or operating permit that approves all such changes to the other TEUs; 
+
+ (d) DEQ will not approve an application for a Toxic Air Contaminant Permit Addendum required under this rule for a new or modified TEU if: 
+
+ (A) The TEU does not comply with this rule; or 
+
+ (B) The source does not comply with OAR 340-245-0050, if required. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, 468.065, 468A.025, 468A.040, 468A.050, 468A.070, 468A.155, 468A.135 & 468A.337 
+ 
+ 
+ Statutes/Other Implemented:  468.065, 468A.025, 468A.040, 468A.050, 468A.070, 468A.155, 468A.010, 468A.015, 468A.035, 468A.337 & 468A.335 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 19-2022, amend filed 11/18/2022, effective 03/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 18-2021, amend filed 11/17/2021, effective 11/17/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 197-2018, adopt filed 11/16/2018, effective 11/16/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

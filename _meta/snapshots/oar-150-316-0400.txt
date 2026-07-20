@@ -1,0 +1,173 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 316 PERSONAL INCOME TAX GENERAL PROVISIONS 
+ 150-316-0400 
+ Resident and Nonresident Estates and Trusts 
+ 
+ (1) For the purposes of the taxes imposed upon the income of estates and trusts and paid by the fiduciary thereof, estates and trusts are classified as either resident or nonresident.  (2) An estate is a resident if the fiduciary was appointed by an Oregon court or, where there is no appointment by an Oregon court, if the administration is carried on in Oregon. An estate of a decedent is but one taxable entity although there may be two or more fiduciaries appointed by courts of two or more states or countries. In such a case, the fiduciary appointed by the Oregon court (or administering the estate in Oregon) is required to file an Oregon state income tax return and is liable for any Oregon state income tax of the estate. The Oregon state income tax is determined by the status of the principal administration as to its resident or nonresident character, and shall be computed on an Oregon return required to be filed by the fiduciary of the principal administration. If the principal administration, considered without regard to other administrations, is an Oregon resident estate, all income of the estate, including that of nonresident fiduciaries, is taxable as that of an Oregon resident. If the principal administration, considered without regard to other administrations, is a nonresident of Oregon, the Oregon state income tax liability is to be computed as that of a nonresident.  (3) A trust is a resident if the fiduciary is a resident of Oregon or if it is administered in Oregon.  (4) A trust is a nonresident only if there is no Oregon resident trustee and the administration is not carried on in Oregon. See ORS 316.307 and the rules thereunder regarding treatment of nonresident trusts.  (5) If the trustee is a corporate fiduciary engaged in interstate trust administration, the trust is considered to be a resident of Oregon and the place of administration for that trust is considered to be Oregon if the trustee conducts the major part of its administration of the trust in Oregon. In this context, “administration” relates to fiduciary decision making of the trust and not to the incidental execution of such decisions. Incidental functions include, but are not limited to, preparing tax returns, executing investment trades as directed by account officers and portfolio managers, preparing and mailing trust accountings, and issuing disbursements from trust accounts as directed by account officers.  Example 1: X Trust Company, with its headquarters in Oregon, serves as trustee for trusts in Oregon and Washington. For its Washington trusts, account officers with offices in Washington: (a) serve as X’s primary contact with beneficiaries, (b) hire lawyers, accountants, and other professionals for the trust, and (c) make the majority of fiduciary decisions, which include when to make distributions and where to invest trust assets. Assets are invested in common trust funds or in mutual funds on the advice of either an affiliate of X located in Oregon or by unaffiliated investment companies located in Oregon or other states. A committee of X’s senior managers, including some stationed in Oregon, oversees the account officer’s activities. Various incidental functions for the Washington trusts are performed by X’s personnel in Oregon. Because the majority of the fiduciary decisions for the Washington trusts are made in Washington, those trusts are not administered in Oregon.  Example 2: Same facts as Example (1), except that the majority of fiduciary decisions for Washington trusts are made by account officers of X stationed in Oregon. Because the majority of fiduciary decisions are made in Oregon, the Washington trusts are administered in Oregon, and therefore are Oregon resident trusts.  Example 3: Same facts as Example (1), except that X and an Oregon resident serve as co-trustees of a Washington trust. Because the Washington trust has an Oregon resident trustee, that trust is an Oregon resident trust.  (6) The tax liability of a resident estate or trust is computed generally by utilizing the same principles as those governing individuals, except that in lieu of the modifications allowed to individuals by ORS 316.680 and 316.697 the estate or trust may be allowed a “fiduciary adjustment” as set forth in 316.287.  (7) For the purpose of determining whether income of an estate or trust which is deductible as a distribution deduction on its return is taxable on the Oregon return of a beneficiary, it is immaterial whether the estate or trust is a resident or nonresident. The income deductible as a distribution deduction on the return of an estate or trust is included in the net income of the beneficiary and is taxed in the same manner as if it had been received directly by the beneficiary without the intervention of the estate or trust. Its character is determined by the provisions of the Internal Revenue Code and not necessarily by the character or source of the money or property distributed.  (8) The amount of income to be reported by a beneficiary, including the allocation in case there is more than one beneficiary, is determined by:  (a) Residency status of the beneficiary;  (b) Allocation of the “fiduciary adjustment” as provided in ORS 3l6.287;  (c) Various provisions of local law; and  (d) The provisions of Subchapter J of Subtitle A of the Internal Revenue Code.  (9) For rules on accumulated income distributions from a trust to a resident or nonresident beneficiary, see OAR 150-316-0575 and 150-316-0415. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 
+ 
+ 
+ Statutes/Other Implemented:  ORS 316.282 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 150-316.282, REV 65-2016, f. 8-15-16, cert. ef. 9-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ RD 4-1997, f. 9-12-97, cert. ef. 12-31-97 
+RD 5-1994, f. 12-15-94, cert. ef. 12-31-94 
+RD 15-1987, f. 12-10-87, cert. ef. 12-31-87 
+12-19-75 
+11-71 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

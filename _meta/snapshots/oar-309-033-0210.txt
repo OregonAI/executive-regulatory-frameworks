@@ -1,0 +1,423 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Behavioral Health Services - Chapter 309 
+ 
+ 
+ 
+ 
+ Division 33 CIVIL COMMITMENT PROCEEDINGS 
+ 309-033-0210 
+ Definitions
+ 
+ 
+ (1) “Administrator” means the director or chief executive over behavioral health services in a community hospital or the person in charge of treatment and rehabilitation programs at nonhospital facilities. Whenever “administrator” appears it means the administrator or designee. 
+
+ (2) “Assignment” means “placement” as defined in OAR 309-033-0210. 
+
+ (3) “Attorney-in-fact” means a person, as appointed in a valid declaration for mental health treatment (DMHT), authorized to make mental health treatment decisions for the person who is subject of the DMHT. 
+
+ (4) “Authority” or “OHA” means the Oregon Health Authority. 
+
+ (5) “Capacity evaluator” means, in relation to a Declaration for Mental Health Treatment, a licensed independent practitioner (LIP) or a licensed psychologist who, with one other LIP or licensed psychologist, determines if a person is incapable or not incapable. 
+
+ (6) “Caregiver” means the person who is appointed by the court under ORS 426.125 to be allowed to care for a person who has a mental illness and is in need of treatment on conditional release. 
+
+ (7) “Certificate” means the document or documents issued by the Division, which identifies and declares certification of a provider pursuant to OAR 309-008-0100 to 309-008-1600. A letter accompanying issuance of the certificate will detail the scope and approved service delivery locations of the certificate. 
+
+ (8) “Clinical record” means the record required by OAR 309-014-0035 documenting the mental health services delivered to clients by a CMHP or subcontractor. 
+
+ (9) “Community-based civil commitment” means conditional releases pursuant to ORS 426.125, outpatient commitments pursuant to ORS 426.127, and trial visits pursuant to ORS 426.273. 
+
+ (10) “Community Mental Health Program (CMHP)” means the entity responsible for organization of various services for persons with a mental health diagnosis or addictive disorders, operated by, or contractually affiliated with, a local mental health authority and operated in a specific geographic area of the state under an agreement with the Division pursuant to OAR 309-014-0000. 
+
+ (11) “Community hospital” means any hospital that is not Oregon State Hospital. 
+
+ (12) “Conditions of placement” means the set of expectations and guidelines that a person shall adhere to, as described in OAR 309-033-0280 and 309-033-0282, in order to be placed and remain on a community-based civil commitment and avoid revocation. 
+
+ (13) “Council” means a regional acute care psychiatric facility organization with a mission statement and bylaws, comprised of facility representatives, consumers, and family members. The council is advisory to the facility. 
+
+ (14) “County governing body” means the county court or the board of county commissioners of one or more counties who operate a CMHP, or in the case of a Native American Reservation, the Tribal Council, or if the county declines to operate or contract for all or part of a CMHP, the board of directors of a public or private corporation selected by the county. 
+
+ (15) “County of commitment” means the county in which the person was initially placed under civil commitment, or the county to which the county of commitment was transferred as appropriate. 
+
+ (16) “County of custody” means the county in which the person was initially detained by either a peace officer pursuant to ORS 426.228 or a CMHP director pursuant to ORS 426.233. 
+
+ (17) “County of placement” means the county in which the person under civil commitment is residing for the purpose of treatment, care, and custody. 
+
+ (18) “County of residence” means the county where the person currently maintains a mailing address or, if the person has no current mailing address within the state, the county where the person was taken into custody or the county in which a person under civil commitment has been conditionally released as defined by ORS 426.241 to 426.255. 
+
+ (19) “Court” means the circuit court acting pursuant to ORS Chapter 426. 
+
+ (20) “Custody” means the physical detention of a person pursuant to ORS 426.070, 426.228, 426.231, 426.232, and 426.233. 
+
+ (21) “Declaration for Mental Health Treatment” or “DMHT” means the legal document as described in ORS 127.700 through 127.737 that describes a person’s preferences regarding mental health treatment and provides instructions to providers to meet the person’s care needs. 
+
+ (22) "Director" means the director of the community mental health program and includes the director's designee, who must be a QMHP, or peace officer authorized by the director to act on their behalf for purposes of this rule. 
+
+ (23) “Diversion from commitment” means the initial 14-day period of intensive treatment and, if offered and accepted, the 14-day extension of the initial diversion period, not exceeding 28 consecutive calendar days combined. 
+
+ (24) “Division” means the Behavioral Health Division of the Oregon Health Authority. 
+
+ (25) “Emergency” means, in the opinion of the treating licensed independent practitioner, immediate action is required to preserve the life or physical health of a person, or because the behavior(s) of that person creates a substantial likelihood of immediate physical harm to self or to others in the facility. The fact that a person is in custody under the provisions or ORS 426.072, 426.232 or 426.233 must not be the sole justification that an emergency exists. 
+
+ (26) “Fresh air” means the inflow of air from outside the facility where the person under civil commitment is receiving services. “Fresh air” may be accessed through an open window or similar method as well as through access to the outdoors. 
+
+ (27) “ Health care facility” means, in relation to the Declaration for Mental Health Treatment, an inpatient setting, a residential facility, an adult foster home or a hospice program. 
+
+ (28) “Healthcare supervisor” means the appointed licensed independent practitioner, master’s level registered nurse or registered nurse certified by the American Nursing Association who reviews and approves policies and procedures related to reporting medical concerns to a LIP and staff training on the administrative rules in OAR Chapter 33, Division 207. 
+
+ (29) “Hospital” or “hospital facility” means the community hospital, or regional acute care psychiatric facility certified for the use of seclusion or restraints to committed persons and persons in custody or on diversion. 
+
+ (30) “Hospital hold” means the notice of mental illness submitted to the court pursuant to ORS 426.232(1)(a) by one licensed independent practitioner at a hospital licensed by the Authority under ORS Chapter 441, and by which a person is physically detained in the community hospital. 
+
+ (31) “Incapable” means, for the purpose of the DMHT and as determined by two capacity evaluators or a court, unable to make informed mental health treatment decisions. 
+
+ (32) “Judicial day” means any day the court is open for business excluding Saturday, Sunday, and a legal holiday as described in ORS 187.010 and 187.020. 
+
+ (33) “Legally incapacitated person” means a person who has been found by the court to be unable to give informed consent to medical treatment, and the court has appointed a guardian to make such decisions on the person’s behalf pursuant to ORS 126.127. 
+
+ (34) “Licensed Independent Practitioner” or “LIP” means a physician, nurse practitioner, or naturopathic physician as defined in ORS 426.005. 
+
+ (35) “Material risk” means the risk may have a substantial adverse effect on the patient’s psychological and/or physical health. 
+
+ (36) “Mechanical restraint” means any device or equipment used to restrict a person’s freedom of movement. 
+
+ (37) “Monitoring” as used in OAR 309-033-0280 and 309-033-0282 means the set of activities and tasks completed by a CMHP employee who is designated to support an individual successfully adhere to the conditions of placement or to a treatment plan related to assisted outpatient treatment, a diversion from commitment, an outpatient commitment, or a trial visit. 
+
+ (38) “Next of kin” means one of the following people: a person’s spouse or domestic partner, adult child, parent, siblings, or any person related to the person. 
+
+ (39) “Notice of Mental Illness (NMI)” is the notification required, pursuant to ORS 426.070, to be submitted to the director by any two persons, a county health officer, or a magistrate, and thereafter submitted by the director to the court or, pursuant to ORS 426.234, to be submitted by the LIP or the director to the court. Pursuant to ORS 426.070 and 426.234, the court commences proceedings pursuant to ORS 426.070 to 426.130 upon receipt of the NMI. 
+
+ (40) “Nonhospital facility” means any facility, other than a hospital, that is certified by the Authority to provide adequate security, psychiatric, nursing, and other services to persons under ORS 426.232 or 426.233. 
+
+ (41) “Nonhospital hold” means the emergency detention of a person at a nonhospital facility, and the approval for emergency care and treatment, pursuant to the provisions of ORS 426.232. 
+
+ (42) “Nurse” means a registered nurse, or a psychiatric nurse practitioner licensed by the Oregon State Board of Nursing but does not include a licensed practical nurse or a certified nurse assistant. 
+
+ (43) “Outdoors” means an area with fresh air that is not completely enclosed overhead. “Outdoors” may include a courtyard or similar area. 
+
+ (44) “PAMI” means a person alleged to have a mental illness and who is in need of treatment, and refers to a person who is subject to a mental health investigation and pending a civil commitment hearing. 
+
+ (45) “PRN” (pro re nata) means that a medication or medical treatment has been ordered to be given as needed. 
+
+ (46) “Patient day” means the day of admission plus each additional day of stay, but not the day of discharge, unless it is also the day of admission. 
+
+ (47) “Peace officer” means a sheriff, constable, marshal, municipal police officer, member of the Oregon State Police or investigator of the Criminal Justice Division of the Department of Justice and such other persons as may be designated by law. 
+
+ (48) “Person with mental illness” means a person who has been found to have a mental disorder and, due to this mental disorder, is in need of treatment because the person is a danger to self, danger to others, unable to provide for basic personal needs, or has a chronic mental disorder. 
+
+ (49) “Physical harm” means physical injury, physical pain or other physiological impairment, other than an injury, pain or impairment that is trivial in terms of pain or bodily impact. 
+
+ (50) “Physician” means a person who holds a degree of Doctor of Medicine, Doctor of Osteopathy, or Doctor of Podiatric Medicine, if the context in which the term “physician” is used does not authorize or require the person to practice outside the scope of a license issued under ORS 677.805 through 677.840. 
+
+ (51) “Physician Associate” means a person who is licensed by the Oregon Medical Board per ORS 677.495 through ORS 677.755. 
+
+ (52) “Placement” means the assignment of persons alleged to have a mental illness and persons with mental illness to a facility, program, or provider, including the transfer of a person from one location where the person was in care, custody, or treatment to another location for the same purpose. Once placed, placement means the facility, program, or provider that provides care, custody, and treatment to a person alleged to have mental illness or a person with mental illness. 
+
+ (53) “Post-Acute Intermediate Treatment Services” or “PAITS” means a level of care that is a mix of rehabilitation services designed for adults who have received acute psychiatric care services in a community hospital or Oregon State Hospital, who may or may not have been approved for long term psychiatric care, whose symptoms have improved, sufficiently, such that they no longer require hospital level of care, yet still require intensive treatment services to continue psychiatric stabilization, prior to lower level placement, in another community setting. 
+
+ (54) “Prehearing period of detention” means the timeframe beginning when a person is taken into custody by a peace officer or director per ORS Chapter 426, or is detained by a LIP at a hospital or nonhospital facility who has held a person for up to 12 hours or who has filed a NMI with the court. The five judicial day period of time a person may be detained as referenced in ORS 426.095(2), 426.210, 426.232, 426.237(4)(a), and 426.275(2) encompasses the prehearing period of detention. 
+
+ (55) “Psychiatrist” means a physician licensed as provided pursuant to ORS 677.010 to 677.450 by the Board of Medical Examiners for the State of Oregon and who has completed an approved residency training program in psychiatry. 
+
+ (56) “Psychologist” means a psychologist licensed by the Oregon Board of Psychology. 
+
+ (57) “Qualified Mental Health Associate” (QMHA) means, as defined in OAR 309-019-0125, a mental health professional who works under the supervision of a qualified mental health professional and who is certified by an appropriate board. 
+
+ (58) “Qualified Mental Health Professional” (QMHP) means, as defined in OAR 309-019-0125, a mental health professional with a qualifying graduate degree or a bachelor’s degree in nursing, or is an occupational therapist, or is certified or licensed by an appropriate board. 
+
+ (59) “Recertification” means the certification of continued civil commitment provided for under ORS 426.301. Recertification does not always result in a recommitment, though it is required to initiate the process. 
+
+ (60) “Regional Acute Care Psychiatric Facility” means a facility certified by the Division to provide services for adults as described in OAR 309-032-0850 through 309-032-0890 and is operated in cooperation with a regional or local council. A regional acute care psychiatric facility must include 24 hour per day psychiatric, multi-disciplinary, inpatient, or residential stabilization, care and treatment, for adults aged 18 or older with severe psychiatric disabilities in a designated region of the state. For the purpose of these rules, a state hospital is not a regional acute care psychiatric facility. . 
+
+ (61) "Restraint" means any manual method, physical or mechanical device, material, or equipment that immobilizes or reduces the ability of a patient to move his or her arms, legs, body, or head freely. Restraint may be used only for the management of violent or self-destructive behavior that jeopardizes the immediate physical safety of the patient, a staff member, or others. 
+
+ (62) “Seclusion” is the involuntary confinement of a person alone in a room or area, from which the person is physically prevented from leaving. Seclusion may be used only for the management of violent or self-destructive behavior that jeopardizes the immediate physical safety of the person, patients, a staff member, or others. 
+
+ (63) “Secure transport provider” means a secure transport provider approved according to OAR 309-033-0432. 
+
+ (64) “Serious physical harm” means physical injury, physical pain or other physiological impairment that places a person at risk of or causes death, serious and irreversible deterioration of health, or serious and irreversible deterioration of any bodily organ. 
+
+ (65) “Significant procedure” means a diagnostic or treatment modality which poses a material risk of substantial pain or harm to the patient or resident such as, but not limited to, electro-convulsive therapy. 
+
+ (66) “State hospital” means any campus of the Oregon State Hospital system. 
+
+ (67) “Superintendent” means the chief executive officer of the state hospital or their designee. 
+
+ (68) “Warrant of detention” means a court ordering that a person be held in custody pending court proceedings or an investigation. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042, 426.005, 426.060, 426.110(2), 426.232, 426.236 & HB 2005 (2025) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 426.005 - 426.395 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BHS 20-2026, minor correction filed 07/09/2026, effective 07/09/2026 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BHS 17-2026, amend filed 06/26/2026, effective 06/26/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BHS 30-2025, temporary amend filed 12/29/2025, effective 01/01/2026 through 06/29/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BHS 7-2024, amend filed 04/30/2024, effective 05/28/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BHS 9-2023, amend filed 04/04/2023, effective 04/07/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BHS 17-2022, temporary amend filed 10/14/2022, effective 10/14/2022 through 04/11/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ MHS 28-2016, f. & cert. ef. 12-29-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ MHD 9-2000, f. & cert. ef. 7-21-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ MHD 2-2000(Temp), f. & cert. ef. 1-25-00 thru 7-22-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ MHD 6-1998, f. 6-26-98, cert. ef. 7-1-98, Renumbered from 309-200-0010 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,760 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Behavioral Health Services - Chapter 309 
+ 
+ 
+ 
+ 
+ Division 19 OUTPATIENT BEHAVIORAL HEALTH SERVICES 
+ 309-019-0105 
+ Definitions
+ 
+ 
+ (1) "Abuse of an Adult" means the circumstances defined in ORS 430.735, OAR Chapter 943, Division 45 and OAR Chapter 407, Division 45 for abuse of an adult with mental illness or who is receiving residential substance use disorder treatment or withdrawal management services. 
+
+ (2) “Abuse of a Child” means the circumstances defined in ORS 419B.005 and ORS 418.257. 
+
+ (3) “Active Supervision” means a designated supervisor is physically present who provides direct or indirect observation of the program staff, to determine if the service or task is being completed properly and providing intervention and consultation as needed. 
+
+ (4) “Activities of Daily Living (ADL) or Instrumental Activities of Daily Living (IADL)” means those personal functional activities required by an individual for continued well-being, which are essential for health and safety. Activities include eating, dressing, and grooming, bathing and personal hygiene, mobility, toileting, and cognition. 
+
+ (5) “Acute Care Psychiatric Hospital” means a hospital or facility that provides 24 hours-a-day psychiatric, multi-disciplinary, inpatient, or residential stabilization, care, and treatment. 
+
+ (6) “Adolescent” means an individual from 12 through 21 years of age or those individuals determined to be developmentally appropriate for such services. 
+
+ (7) "Adult" means an individual 18 years of age or older or an emancipated minor. An individual with Medicaid eligibility who needs services specific to children, adolescents, or young adults in transition shall be considered a child until age 21 for the purposes of these rules. Adults who are between the ages of 18 and 21 who are considered children for purposes of these rules shall have all rights afforded to adults as specified in these rules. 
+
+ (8) “ASAM” means The American Society of Addiction Medicine (ASAM). 
+
+ (9) "The ASAM Criteria" means the criteria in the Third Edition of The American Society of Addiction Medicine (ASAM) for the assessment, level of care placement and treatment of addictive, substance-related, and co-occurring conditions. The ASAM Criteria is a clinical guide to developing patient-centered service plans and making objective decisions about admission, continuing care, and transfer or discharge for individuals. The ASAM Criteria is incorporated by reference in these rules. 
+
+ (10) “ASAM Co-Occurring Capable” means an array of psychiatric and mental health services that meet the individuals’ needs are made available to individuals when indicated, by the program or coordinated by the program. 
+
+ (11) “ASAM Co-occurring Enhanced” means mental health services that include psychiatric evaluation, medication management and therapy are made available to the individuals, when indicated, by the program. Program staff are cross trained on substance use disorders and mental health treatment and can document the relationship between the disorders and the individual’s level of functioning. 
+
+ (12) “ASAM Dimensional Criteria” means the documented data demonstrates that the individual meets the criteria per ASAM dimension, as described in The ASAM Criteria, for the ASAM Level of Care assessed. 
+
+ (13) “ASAM Enhanced Service designation(s)” as described in The ASAM Criteria, Third Edition, includes service types per ASAM Level of Care that the program may choose to apply and be approved by the Division to render, to either adults or adolescents, when it corresponds to an ASAM Level of Care that is certified by the Division. 
+
+ (14) “ASAM Level of Care” means one of several discrete intensities of services and supports, as described within The ASAM Criteria, Third Edition, within a substance use disorders program that are delivered in a structured, programmatic fashion, by a Division certified outpatient or licensed residential provider. 
+
+ (a) “Early Intervention ASAM Level of Care 0.5 (ASAM Level 0.5)” means organized services designed to explore and address problems or risk factors that may be related to substance use and assist individuals in recognizing the harmful consequences of high-risk substance use and addictive behavior. ASAM Level 0.5 may be delivered as a Driving Under the Influence of Intoxicants (DUII) service where the length and number of contacts may be mandated, and completion of the program may be a prerequisite to the reinstatement of driving privileges. Individuals eligible for this ASAM level of care do not meet DSM-5-TR diagnostic criteria for a substance use disorder. 
+
+ (b) “Outpatient Substance Use Disorder Services ASAM Level of Care 1” means organized services delivered in a variety of settings and include a vast array of outpatient services and supports, which are tailored to the severity and function of the individual and typically are less than 9 contact hours per week. ASAM Level 1 programs enhance access to care and facilitate earlier engagement into treatment. Services and supports address major lifestyle, attitudinal and behavioral issues related to the substance use that detract from progress towards service plan goals. 
+
+ (c) “Intensive Outpatient Substance Use Disorder Services ASAM Level of Care 2.1” means structured services and supports, mostly comprised of counseling and education. Mental health services are either offered by the program or tightly coordinated with a community provided. When planning a transition to ASAM Level 1 services, a program may provide less than the minimum number of contact hours for up to two weeks: 9 for adults and 6 for children. 
+
+ (d) “Partial Hospitalization Services ASAM Level of Care 2.5” means clinically intensive programming of 20 contact hours or more per week, which is specified by the service plan. Needs identified in Dimensions 1, 2 and 3 warrant daily monitoring or management within an outpatient or combined in a residential setting. Programs staff interdisciplinary teams and offer intensive case management. Psychiatric and medical services are either offered by the program or coordinated. 
+
+ (15) “ASAM Risk Assessment Component” means the portions of a substance use disorders assessment that include an Immediate Need Profile and a rating of severity for each of the ASAM dimensions in a multidimensional assessment, which inform the Level of Care placement decision and the services and supports included in the service plan. 
+
+ (16) “ASAM Service Types” means the ASAM Levels of Care, Co-occurring Capable services, Co-occurring Enhanced services, and any other defined service that is described in The ASAM Criteria and when approved, included within the certificate. 
+
+ (17) “Assertive Community Treatment (ACT)” means an evidence-based practice designed to provide comprehensive treatment and support services to individuals with serious and persistent mental illness. ACT is intended to serve individuals who have severe functional impairments and who have not responded to traditional psychiatric outpatient treatment. ACT services are provided by a single multi-disciplinary team, which typically includes a psychiatrist, a nurse, and at least two case managers and are designed to meet the needs of each individual and to help keep the individual in the community and out of a structured service setting, such as residential or hospital care. ACT is characterized by the following: 
+
+ (a) Low client to staff ratios; 
+
+ (b) Providing services in the community rather than in the office; 
+
+ (c) Shared caseloads among team members; 
+
+ (d) Twenty-four-hour staff availability; 
+
+ (e) Direct provision of all services by the team (rather than referring individuals to other agencies); and 
+
+ (f) Time-unlimited services. 
+
+ (18) “Assessment” means the process of obtaining sufficient information through a face-to-face interview to determine a diagnosis and to plan individualized services and supports. For outpatient substance use disorders services, the assessment is multi-dimensional and consistent with The ASAM Criteria third edition. 
+
+ (19) “Authority” means the Oregon Health Authority. 
+
+ (20) “Baseline evaluation” means an identification of the current status that an individual expresses a desire to change in order to identify the starting point(s) for measuring progress by using pre-determined benchmarks, such as a Likert Scale. Progress can then be determined by using the same benchmarks to obtain additional ratings of the identified status and using the additional ratings to make comparisons between the starting rating and subsequent ratings, from which a measure of change can be assessed. 
+
+ (21) “Behavioral health clinician” means a practitioner of behavioral health services whose authorized scope 
+
+ of practice includes substance use and mental health diagnosis and treatment. 
+
+ (22) “Behavioral Health Treatment” means treatment for mental health, substance use disorders, and problem gambling. 
+
+ (23) "Behavior Support Plan" means the individualized proactive support strategies used to support positive behavior. 
+
+ (24) “Behavior Support Strategies” means proactive supports designed to replace challenging behavior with functional, positive behavior. The strategies address environmental, social, neuro-developmental, and physical factors that affect behavior. 
+
+ (25) “Best Practice Risk Assessment” has the meaning given that term in OAR 309-023-0110. 
+
+ (26) “Board Registered Associate or Board Registered Intern” means a post-graduate who is listed as active on the applicable Oregon Board registry with one of the following qualifications: 
+
+ (a) Psychologist Associate Residents as described in OAR 858-010-0037; 
+
+ (b) Licensed Psychologist Associate under continued supervision as described in OAR 858-010-0038; 
+
+ (c) Licensed Professional Counselor intern or Marriage and Family Therapist intern registered with the Oregon Board of Licensed Professional Counselors and Therapists as described in OAR 833-050-0011; 
+
+ (d) Certificate of Clinical Social Work Associate issued by the Oregon Board of Licensed Social Workers as described in OAR 877-020-0009; or 
+
+ (e) Registered Bachelor of Social Work issued by the Oregon Board of Licensed Social Workers as described in OAR 877-015-0105. 
+
+ (27) “Brief Intervention” means an early intervention for individuals using substances, by utilizing tribal-based, evidence-based, or culturally based practice designed to engage and motivate individuals at risk of substance use disorder and related health problems to seek services and/or support. Brief interventions can also be used to encourage those with more serious dependence or disorders to accept more intensive treatment. Brief interventions are intended to address problematic or risky substance use that presents with or without a previous diagnosis. 
+
+ (28) “Care Coordination” means a process-oriented activity to facilitate ongoing communication and collaboration to meet multiple needs. Care coordination includes facilitating communication between the person or family served, the family, natural supports, community resources, and involved providers and agencies; organizing, facilitating, and participating in team meetings; and providing for continuity of care by creating linkages to and managing transitions between levels of care and transitions for young adults in transition to adult services. 
+
+ (29) "Case Management" or “Targeted Case Management” means the services provided to assist individuals who reside in a community setting or are transitioning to a community setting in gaining access to desired medical, social, educational, entitlement, and other applicable services. 
+
+ (30) “Certificate of Approval” means the document issued by the Authority that identifies and declares certification of a provider pursuant to OAR chapter 309, division 008. 
+
+ (31) “Chief Officer” means the Chief Health Systems Officer of the Division or designee. 
+
+ (32) "Child" means an individual under the age of 18. An individual with Medicaid eligibility who needs services specific to children, adolescents, or young adults in transition shall be considered a child until age 21 for purposes of these rules. 
+
+ (33) "Clinical Supervision" means oversight by a qualified clinical supervisor of the rendering of physical health, substance use, problem gambling, and mental health services and supports, according to these rules, including ongoing evaluation and improvement of the effectiveness of those services and supports. 
+
+ (34) "Clinical Supervisor" means program staff qualified to oversee and evaluate the rendering of physical health, substance use, problem gambling, or mental health services and supports. 
+
+ (35) "Cognition" refers to how the individual is able to use information, make decisions, and ensure their daily needs are met. There are four components to cognition: self-preservation, decision-making, ability to make one’s self understood, and unsafe behaviors. 
+
+ (36) “Cognitive Ability” means a general mental capability involving reasoning, problem solving, planning, abstract thinking, complex idea comprehension and learning from experience. 
+
+ (37) “Cognitive Impairment” means a behavioral health condition or disability which impacts the individual’s cognitive abilities to perform Activities of Daily Living (ADL) or Instrumental Activities of Daily Living (IADL), regardless of whether the individual may be physically capable of performing ADLs or IADLs. For example, a cognitive impairment could prevent an individual from knowing when or how to carry out the task. 
+
+ (38) “Collaborative Educational Agreement” means an individualized written arrangement between an accredited college or university and a Division-certified provider pertaining to a student’s internship or field placement experience. 
+
+ (39) “Co-occurring Capable Substance Use Disorder Programs” means, consistent with The ASAM Criteria, arrangements are in place for coordination and collaboration between addiction and mental health services, internally and with external community partners. Program staff must be trained and qualified to address the interaction between mental health symptoms or conditions and the substance use disorder, and the interactional effect on readiness to change, the severity of risk and the subsequent planning of services and supports. 
+
+ (40) “Co-occurring Enhanced Substance Use Disorder Programs” means, consistent with The ASAM Criteria, Third edition, a setting where integrated services address concurrently unstable mental health and substance use disorder conditions. There is a focus on the integration of mental health and substance use disorders throughout the staffing, services, and program content, as well as the use of Motivational Enhancement therapies throughout services. 
+
+ (41) “Co-occurring Substance Use, Problem Gambling, and Mental Health Disorders (COD)” means the existence of a diagnosis for a substance use disorder, problem gambling disorder, and/or a mental health disorder. 
+
+ (42) “Community Health Worker (CHW)” means a person who meets qualification criteria adopted by the authority under ORS 414.665 and who is certified pursuant to the requirements in OAR 410-180-0310. 
+
+ (43) "Community Mental Health Program (CMHP)" an entity that is responsible for planning and delivery of safety net services for persons with mental or emotional disturbances, drug abuse problems, and alcoholism and alcohol abuse in a specific geographic area of the state under a contract with the Division or a local mental health authority and pursuant to OAR Chapter 309, Division 014. 
+
+ (44) "Conditional Release" means placement by a court or the Psychiatric Security Review Board (PSRB) of an individual found eligible under ORS 161.327 or 161.336 for supervision and treatment in a community setting. 
+
+ (45) “Consistent with ASAM Criteria” means a documented intervention containing information that demonstrates use of and adherence to the description of components contained within The ASAM Criteria, Third Edition. 
+
+ (46) “Coordinated Care Organization (CCO)” means a corporation, governmental agency, public corporation, or other legal entity that is certified as meeting the criteria adopted by the Authority under ORS 414.625 to be accountable for care management and to provide integrated and coordinated health care for each of the organization’s members. 
+
+ (47) "Court" means a criminal court, drug court, circuit court, juvenile court or last convicting or ruling court in this state with jurisdiction over the individual. 
+
+ (48) "Criminal Records Check" means documenting the criminal background check results for all employees, contracted staff, interns and volunteers considered to be program staff that render medical or behavioral health services and supports or have access to protected health information such as service records or billing information. 
+
+ (49) "Crisis" means either an actual or perceived urgent or emergent situation that occurs when an individual’s stability or functioning is disrupted, and there is an immediate need to resolve the situation to prevent a serious deterioration in the individual’s mental or physical health or to prevent referral to a significantly higher level of care or death. 
+
+ (50) “Crisis Intervention” has the meaning given that term in OAR 309-023-0110. 
+
+ (51) “Crisis Line Services” means phone-based services that establish immediate communication links and provide supportive interventions and information for individuals in an urgent or emergent situation. 
+
+ (52) “Crisis Plan” means an individualized document designed in collaboration with the individual served to help anticipate and prevent future crisis episodes and direct interventions in the instance of a crisis. 
+
+ (53) “Crisis Stabilization Services” means providing evaluation and treatment to individuals experiencing a crisis. Crisis Services may be provided prior to completion of an intake. These services are intended to stabilize the individual in crisis, prevent further deterioration, and provide immediate treatment and intervention in a location best suited to meet the needs of the individual and in the least restrictive environment available. 
+
+ (54) "Cultural Competence" means the process by which people and systems respond respectfully and effectively to people of all cultures, languages, classes, races, ethnic backgrounds, disabilities, religions, genders, sexual orientations, and other diversity factors in a manner that recognizes, affirms, and values the worth of individuals, families, and communities and protects and preserves the dignity of each. 
+
+ (55) “Culturally Responsive” means services that are respectful of and relevant to the beliefs, practices, culture and linguistic needs of diverse consumer/client populations and communities whose members identify as having particular cultural or linguistic affiliations. Cultural responsiveness describes the capacity to respond to the issues of diverse communities and requires knowledge and capacity at different levels of intervention: systemic, organizational, professional, and individual. 
+
+ (56) “Culturally Specific Program” means a program designed to meet the unique service needs of a specific culture and that provides services to a majority of individuals representing that culture. 
+
+ (57) "Declaration for Mental Health Treatment" means a written statement of an individual’s preferences concerning their mental health treatment. The declaration is made when the individual is able to understand and legally make decisions related to such treatment. It is honored, as clinically appropriate, in the event the individual becomes unable to make such decisions. 
+
+ (58) "Diagnosis" means the principal mental health, substance use, or problem gambling diagnosis listed in the Diagnostic and Statistical Manual of Mental Disorders, Fifth edition (DSM-5-TR). The diagnosis is determined through the assessment and any examinations, tests, or consultations suggested by the assessment and are medically necessary reason for services. 
+
+ (59) “Division” means the Health Systems Division of the Oregon Health Authority, or its designee. 
+
+ (60) “Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, (DSM-5-TR)” means the textbook used to diagnose and classify mental disorders that is published by the American Psychiatric Association. 
+
+ (61) “Driving Under the Influence of Intoxicants (DUII) Substance Use Disorders Rehabilitation Program” means a program of treatment and therapeutically oriented education services for an individual who is either: 
+
+ (a) A violator of ORS 813.010 (Driving Under the Influence of Intoxicants); or 
+
+ (b) A defendant participating in a diversion agreement under ORS 813.200. 
+
+ (62) “Emergent” means the onset of symptoms requiring attention within 24 hours to prevent serious deterioration in mental or physical health or threat to safety. 
+
+ (63) “Employment Support Services” means services approved by Division, determined to be necessary and provided to an individual to obtain and maintain employment in the community as they are transitioning from an inpatient or residential facility that provides substance use disorder treatment. 
+
+ (64) “Enhanced Care Services (ECS)” and “Enhanced Care Outreach Services (ECOS)” means intensive behavioral and rehabilitative mental health services to eligible individuals who reside in Aging and People with Disabilities (APD) licensed homes or facilities. 
+
+ (65) “Entry” means the act or process of acceptance and enrollment into services regulated by this rule. 
+
+ (66) “Face to Face” means a personal interaction where both words can be heard and facial expressions can be seen in person or through telehealth services where there is a live streaming audio and video, if clinically appropriate. 
+
+ (67) "Family" means the biological or legal parents, siblings, other relatives, foster parents, legal guardians, spouse, domestic partner, caregivers, and other primary relations to the individual whether by blood, adoption, or legal or social relationships. Family also means any natural, formal, or informal support persons identified as important by the individual. 
+
+ (68) "Family Support" means the provision of peer-delivered services to people defined as family to the individual. It includes support to caregivers at community meetings, assistance to families in system navigation and managing multiple appointments, supportive home visits, peer support, parent mentoring and coaching, advocacy, and furthering efforts to develop natural and informal community supports. 
+
+ (69) “Gender Identity” means an individual's self-identification of gender without regard to legal or biological identification including but not limited to individuals identifying themselves as male, female, transgender, gender transitioning and transitioned, non-binary, intersex, and gender diverse. 
+
+ (70) “Gender Expression” means the external characteristics and behaviors that are socially defined as masculine, feminine, or androgynous such as dress, mannerisms, speech patterns, and social interactions. 
+
+ (71) "Geographic Service Area" means the geographic area within the county boundaries in which the CMHP operates. 
+
+ (72) "Grievance" means a formal complaint submitted to a provider verbally or in writing by an individual or the individual’s representative. 
+
+ (73) "Guardian" means an individual appointed by a court of law to act as guardian of a minor or a legally incapacitated individual. Guardian may also mean legal representative. 
+
+ (74) “Health Insurance Portability and Accountability Act (HIPAA)” means the federal Health Insurance Portability and Accountability Act of 1996 and the regulations published in Title 45, parts 160 and 164, of the Code of Federal Regulations (CFR). 
+
+ (75) “Health Systems Services and Supports” means all services and supports including but not limited to Outpatient Community Mental Health Services and Supports for Children and Adults, Intensive Treatment Services for Children, Outpatient and Residential Substance Use Disorders Treatment Services, and Outpatient and Residential Problem Gambling Treatment Services.  
+
+ (76) “Housing Support Services” means services approved by Division, provided to an individual to obtain and reside in an independent community setting and are tailored to the goal of maintaining an individual’s personal health and welfare in a home and community-based setting as they are transitioning from an inpatient or residential facility that provides substance use disorder treatment. 
+
+ (77) “Immediate Need Profile” means the portion of an assessment that includes the identification of the most severe and destabilizing or life-threatening conditions, in order to inform the determination of the level of risk, the level of care placement and need for immediate intervention(s). 
+
+ (78) “Incident” means any event involving an individual or child of an individual receiving services occurring on the premises of the program or involving program staff or any individual occurring on the premises of the program, or during a Service Plan activity and including but not limited to death, injury, major illness, accident, act of physical aggression, medication error, suspected abuse or neglect, or any other type unusual or critical event that presents a risk to health and safety of any persons. Critical incidents are reported to the Division. 
+
+ (79) “Incident Report” means a written description of any incident. 
+
+ (80) “Institutions of Mental Disease (IMD)” means a hospital, nursing facility, or other institution of more than 16 beds that is primarily engaged in providing diagnosis, treatment, or care of persons with mental diseases, which includes substance use disorders (SUDs). 
+
+ (81) “Individual” means any individual being considered for or receiving services and supports regulated by these rules. 
+
+ (82) "Informed Consent for Services" means that the service options, risks and benefits have been explained to the individual and guardian, if applicable, in a manner that they comprehend, and the individual and guardian, if applicable, have consented to the services on, or prior to, the first date of service. 
+
+ (83) “Institution” means an establishment that furnishes (in single or multiple facilities) food, shelter, and some treatment or services to four or more persons unrelated to the proprietor. 
+
+ (84) “Intensive In-Home Behavioral Health Treatment (IIBHT) for Children” means an intensive, community-based level of care for youth ages 0-20 years with complex mental health needs who are at risk for an out of home placement or who are stepping down from a higher level of care. IIBHT includes access to an array of services including individual and family therapy, case management, psychiatric services, skills training, peer-delivered services, and proactive 24 hours 7 days a week crisis response. A Certificate of Approval from the Oregon Health Authority is required to render IIBHT services to eligible youth and families. For the purposes of IIBHT, “in home” means services delivered in the home, school, or other community setting, as specified by the individual and family. 
+
+ (85) “Intensive Outpatient Services and Supports (IOSS)” means a specialized set of comprehensive in-home and community-based supports and mental health treatment services for children that are developed by the child and family team and delivered in the most integrated setting in the community. 
+
+ (86) “Interdisciplinary Team (IDT)” means a group of program staff that have primary responsibility for the development of a Service Plan for an individual receiving services. 
+
+ (87) “Interim Referral and Information Services” means services provided by a substance use disorders treatment provider to individuals on a waiting list and whose services are funded by the Substance Use, Prevention, Treatment and Recovery (SUPTR) block grant to reduce the adverse health effects of substance use, promote the health of the individual, and reduce the risk of disease transmission. 
+
+ (88) “Juvenile Psychiatric Security Review Board (JPSRB)” means the entity described in ORS 161.385. 
+
+ (89) “Legal Representative” means a person who has been legally designated by court order to make financial or health care decisions for another individual. The legal representative only has authority to act within the scope and limits of the legal representative’s authority as designated by the court or other agreement. Legal representatives acting outside of the legal representative’s authority or scope shall meet the definition of authorized representative. 
+
+ (90) "Level of Care" means the type, frequency, and duration of medically necessary services provided from the most integrated setting to the most restrictive and intensive inpatient setting 
+
+ (91) "Licensed Health Care Professional" means a practitioner of the healing arts acting within the scope of their practice under State law who is licensed by a recognized governing board in Oregon. 
+
+ (92) "Licensed Medical Practitioner (LMP)” means a person who meets the following minimum qualifications as documented by the Local Mental Health Authority (LMHA) or designee: 
+
+ (a) Physician licensed to practice in the State of Oregon; 
+
+ (b) Nurse practitioner licensed to practice in the State of Oregon; or 
+
+ (c) Physician's assistant licensed to practice in the State of Oregon; 
+
+ (d) Whose training, experience, and competence demonstrate the ability to conduct a medical exam, a mental health assessment and provide medication management; and 
+
+ (e) For IOSS and ITS providers, a Board-Certified or Child and Adolescent Psychiatrist licensed to practice in the State of Oregon or a Psychiatric Nurse Practitioner under the consultation of a board-certified or board-eligible child and adolescent psychiatrist licensed to practice in the State of Oregon. 
+
+ (93) “Linkage agreement” has the meaning given that term in OAR 309-032-0860. 
+
+ (94) “Local Mental Health Authority (LMHA)” means one of the following entities: 
+
+ (a) The board of county commissioners of one or more counties that establishes or operates a CMHP; 
+
+ (b) The tribal council in the case of a federally recognized tribe of Native Americans that elects to enter into an agreement to provide mental health services; or 
+
+ (c) A regional local mental health authority composed of two or more boards of county commissioners. 
+
+ (95) "Mandatory Reporter" means anyone required by law, as defined in ORS 419B.005 or 430.735, who is required to report suspected abuse or neglect of a child, elderly person, or other adult as required by law in ORS 430.765, or ORS 419B.010, or ORS 124.060. 
+
+ (96) "Medicaid" means the federal grant-in-aid program to state governments to provide medical assistance to eligible individuals under Title XIX of the Social Security Act. 
+
+ (97) "Medical Director" means a physician licensed to practice medicine in the State of Oregon and is designated by a substance use disorders treatment program to be responsible for the program's medical services, either as an employee or through a contract. 
+
+ (98) “Medical Treatment Staff” means medical personnel directly responsible for the delivery or oversight of client care and treatment, and who are properly trained, educated, and credentialed to deliver withdrawal management and substance use disorders services. 
+
+ (99) “Medically Necessary” means health services and items that are required for an individual to address one or more of the following: 
+
+ (a) The prevention, diagnosis, or treatment of an individual’s condition or disorder that results in behavioral health impairments; or 
+
+ (b) The ability for a client or member to achieve age-appropriate growth and development; and 
+
+ (c) A medically necessary service must also be medically appropriate. 
+
+ (100) “Medication Assisted Treatment (MAT)” means the use of medication in combination with counseling and behavioral therapies for the treatment of substance use disorders. 
+
+ (101) “Mental Health Intern” means program staff who meet qualifications for QMHA and are currently enrolled in a graduate program approved by the Division-approved certification or licensing body but does not have the necessary graduate degree in psychology, social work, or related field of behavioral science, or have an equivalent degree as determined by the Division-approved certification or licensing body. The program staff shall: 
+
+ (a) Be enrolled in a graduate program that will result in a degree in psychology, social work, or related field of behavioral science, or an equivalent degree as evidenced by providing transcripts indicating applicable coursework meeting the required competencies and approved by the OHA-approved certification or licensing body; 
+
+ (b) Have a collaborative educational agreement between the Division-certified provider and the graduate program for the student; and 
+
+ (c) Work under the direct and active supervision of a qualified supervisor employed or contracted by the provider of services, within the scope of practice and competencies identified by the collaborative educational agreement, and within the policies and procedures for the credentialing of program staff as established by the provider. 
+
+ (102) "Mobile Crisis Services" means mental health services for individuals in crisis provided by mental health practitioners who respond to behavioral health crises onsite at the location in the community where the crisis arises and who provide a face-to-face therapeutic response. The goal of mobile crisis services is to help an individual resolve a psychiatric crisis in the most integrated setting possible and to avoid unnecessary hospitalization, inpatient psychiatric treatment, involuntary commitment, and arrest or incarceration. 
+
+ (103) "Mobile Crisis Response Time" means the time from the point when a professional decision is made that a face-to-face intervention is required to the time the actual face-to-face intervention takes place in the community. 
+
+ (104) “Mobility” means assisting the individual with mobility, transfers and repositioning including turning or adjusting padding for physical comfort or pressure relief and encouraging or assisting with range of motion exercises and the use of devises that assist with mobility. 
+
+ (105) “Motivational Enhancement Therapy” (MET) means a person-centered approach to therapy that focuses on improving an individual's motivation to change. 
+
+ (106) “Motivational Therapies” means evidence-based interventions for people experiencing substance use disorder, such as motivational interviewing, cognitive behavioral therapy, and motivational enhancement therapy. 
+
+ (107) “Non-Institutions of Mental Disease (non-IMD)” means a hospital, nursing facility, or other institution with less than 16 beds that is primarily engaged in providing diagnosis, treatment, or care of persons with mental diseases, which includes substance use disorders (SUDs). 
+
+ (108) “Non-Medicaid Service Data” means data collected through the mandated state data system regarding services paid for by any source other than Medicaid and includes, but is not limited to: 
+
+ (a) Diagnosis; 
+
+ (b) Date of service; 
+
+ (c) Place of service; 
+
+ (d) Procedure code; 
+
+ (e) Modifier; 
+
+ (f) Number of service units; and 
+
+ (g) Billed charges. 
+
+ (109) “Nursing Services” means services that are provided by a registered nurse (RN) or a licensed practical nurse (LPN) within the scope of practice as defined in OAR chapter 851 division 045. 
+
+ (110) “Outpatient Problem Gambling Treatment Services” means all outpatient treatment services and supports provided to individuals with gambling related problems and their families. 
+
+ (111) "Outreach" means the delivery of behavioral health services, referral services, and case management services in non-traditional settings including but not limited to the individual's residence, shelters, streets, jails, transitional housing sites, drop-in centers, single room occupancy hotels, child welfare settings, educational settings, or medical settings. It also means attempts made to engage or re-engage an individual in services by such means as letters or telephone calls. 
+
+ (112) “Partial Hospitalization or Day Treatment Substance Use Disorder (SUD) Services ASAM Level 2.5” means a planned, structured array of services and supports, consistent with The ASAM Criteria for Level of Care 2.5, that offer 20 or more therapeutic contact hours of high intensity treatment per week. Contact is in a less restrictive level of care than residential SUD treatment, 24-hour care is not required. 
+
+ (113) “Peer” means program staff supporting an individual or the individual's family member who has similar life experience, either as a current or former recipient of mental health or substance use, problem gambling, or mental health services, or as a family member of an individual who is a current or former recipient of substance use, problem gambling, or mental health services. 
+
+ (114) “Peer-Delivered Services” are community-based services and supports provided by peers, peer support specialists, and peer wellness specialists to individuals or family members with similar lived experience. These services are intended to support individuals and families to engage individuals in ongoing treatment and to live successfully in the community. 
+
+ (115) “Peer-Delivered Services Supervisor" means qualified program staff, with at least one year of experience as a PSS or PWS in behavioral health services, who is responsible for evaluating and guiding PSS and PWS program staff in the delivery of peer-delivered services and supports. 
+
+ (116) “Peer Support Specialist (PSS)” means a qualified program staff providing peer-delivered services to an individual or family member with similar life experience under the supervision of a qualified clinical supervisor and a qualified peer-delivered services supervisor as resources are made available. 
+
+ (117) “Peer Support and Peer Wellness Specialist Supervision" means supervision by a qualified clinical supervisor and a qualified peer-delivered services supervisor as resources are available. The supports provided include guidance in the unique discipline of peer-delivered services and the roles of peer support specialists and peer wellness specialists. 
+
+ (118) “Peer Wellness Specialist (PWS)” means s program staff who supports an individual in identifying behavioral health service and support needs through community outreach, assisting individuals with access to available services and resources, addressing barriers to services, and providing education and information about available resources and behavioral health issues in order to reduce stigma and discrimination toward consumers of behavioral health services and to provide direct services to assist individuals in creating and maintaining recovery, health, and wellness under the supervision of a qualified clinical supervisor and a qualified peer-delivered services supervisor as resources are made available. 
+
+ (119) “Pre-engagement Services” means services delivered prior to completion of an assessment, service plan, and/or commencement of formal treatment in order to engage high risk/high need individuals in ongoing treatment services and to avoid crisis events and higher levels of care. 
+
+ (120) “Problem Gambling Approved Certification Consultant” means individual who is a Certified Gambling Addiction Counselor, level II (CGACII) for a minimum of two years and has a minimum of 12 hours of clinical supervision education. The purpose of the position is to provide consultation for CGAC candidates on 1) Fundamentals of Problem Gambling Treatment case conceptualization 2) the process and requirements of earning certification as a CGAC. This is a Mental Health and Addiction Certification Board of Oregon (MHACBO) distinction. 
+
+ (121) “Problem Gambling Treatment Staff” means program staff certified or licensed by a Division recognized credentialing body to provide problem gambling treatment services that include assessment, development of a Service Plan, group and family counseling. 
+
+ (122) "Program" means an organized system of services and supports delivered by a provider designed to address the treatment needs of individuals and families. 
+
+ (123) "Program Administrator" or "Program Director" means program staff with appropriate professional qualifications and experience who is designated to manage the operation of a program. 
+
+ (124) "Program Staff" means personnel who renders a clinical service or support. Program staff could include, for example, be an employee, contractor, intern, or volunteer who is rendering or assisting with rendering clinical services or supports. 
+
+ (125) “Provider” means an organizational entity or qualified person that is certified or licensed by the Division for the direct delivery of substance use, problem gambling, or mental health services and supports. 
+
+ (126) "Psychiatric Security Review Board (PSRB)" means the entity described in ORS 161.295 through 161.400. 
+
+ (127) Psychiatrist" means a physician licensed by the Oregon Medical Board and who has completed an approved residency training program in psychiatry. 
+
+ (128) "Psychologist" means a person who is currently licensed to practice psychology by the Oregon Board of Psychology. 
+
+ (129) “Publicly Funded” means financial support, in part or in full, with revenue generated by a local, state, or federal government. 
+
+ (130) "Qualified Mental Health Associate (QMHA)” means mental health program staff delivering services under the direct supervision of a QMHP who meets the minimum qualifications as authorized by the LMHA or designee and specified in OAR 309-019-0125. 
+
+ (131) "Qualified Mental Health Professional (QMHP)" means mental health program staff LMP or any other program staff meeting the minimum qualifications as authorized by the LMHA or designee and specified in OAR 309-019-0125. 
+
+ (132) "Qualified Person" means program staff who is a QMHP or a QMHA and is identified by the PSRB and JPSRB in its Conditional Release Order. This individual is designated by the provider to deliver or arrange and monitor the provision of the reports and services required by the Conditional Release Order. 
+
+ (133) "Quality Assessment and Performance Improvement" means the structured, internal monitoring and evaluation of services to improve processes, service delivery, and service outcomes. 
+
+ (134) “Recovery” means a process of healing and transformation for an individual to achieve their full human potential and personhood in leading a meaningful life as they define it in communities of their choice. 
+
+ (135) "Representative" means someone who acts on behalf of an individual at the individual’s request with respect to a grievance including but not limited to a relative, friend, Division employee, attorney, or legal guardian. 
+
+ (136) “Resilience” means the universal capacity that an individual uses to prevent, minimize, or overcome the effects of adversity. Resilience reflects an individual’s strengths as protective factors and assets for positive development. 
+
+ (137) "Respite Care" means planned and emergency supports designed to provide temporary relief from care giving to maintain a stable and safe living environment. Respite care may be provided in or out of the home. Respite care includes supervision and behavior support consistent with the strategies specified in the service plan. 
+
+ (138) "Risk Assessment" means an evaluation of the level or severity of risk the individual is experiencing and how each interact, resulting in an overall risk assessment rating. 
+
+ (139) “Safety Plan” means a best practice, research-based, individualized and directive document developed through a collaborative process in which the provider assists the individual in listing actions to use when self-harm, harm to others or suicide ideation is elevated or following suicidal behavior. 
+
+ (140) "Screening" means the process to determine whether the individual needs further assessment to identify circumstances requiring referrals or additional services and supports. 
+
+ (141) “Screening Specialist” means a person who possesses valid certification issued by the Division to conduct DUII evaluations. 
+
+ (142) "Service Plan" means a comprehensive plan for services and supports provided to or coordinated for an individual and their family, as applicable, that is reflective of the assessment and the intended outcomes of service. 
+
+ (143) “Service Note” means the written record of services and supports provided, including documentation of progress toward intended outcomes consistent with the timelines stated in the service plan. 
+
+ (144) “Service Record” means the written or electronic documentation regarding an individual and resulting from entry into services, assessment, orientation, services and supports planning, services and supports provided, and transfer. 
+
+ (145) "Services" means those activities and treatments described in the service plan and rendered, that are intended to support the individual's transition to recovery from a substance use disorder, problem gambling disorder, or mental health condition and to promote resiliency and rehabilitative and functional individual and family’s desired outcomes. 
+
+ (146) “Signature” means any written or electronic means of entering the name, date of authentication, and credentials of the program staff providing a specific service or the individual authorizing services and supports. Signature also means any written or electronic means of entering the name and date of authentication of the individual, guardian, or any authorized representative of the individual receiving services. 
+
+ (147) "Skills Training" or “Skills Restoration" means providing information and training to individuals and families designed to assist with the development of skills in areas including but not limited to anger management, stress reduction, conflict resolution, self-esteem, parent-child interactions, personal relationships, drug and alcohol awareness, behavior support, symptom management, accessing community services, and daily living. 
+
+ (148) “Stabilization” means the application of medical and psychosocial services and supports and in a manner that results in the reduction of symptomology and increase in skill level to support and redirect patients to the most appropriate and least restrictive setting. Services are directed at restoring patient’s ability to maintain safety while enhancing their recovery, so they can successfully reintegrate into identified community settings. 
+
+ (149) “Status Data” means data collected through the mandated state data system and includes, but is not limited to: 
+
+ (a) Initial admission, diagnostic, and demographics data; 
+
+ (b) Updates and changes as needed through the individual’s enrollment in services; and 
+
+ (c) Discharge or other discontinuation of services. 
+
+ (150) “Student Intern” or “Intern” means a program staff who provides a paid or unpaid program service and does not qualify as a Mental Health Intern. 
+
+ (151) "Substance Use, Prevention, Treatment and Recovery Block Grant” or “SUPTR Block Grant” or “SUPTR” means the federal block grants for prevention and treatment of substance abuse under Public Law 102-321 (31 U.S.C. 7301-7305) and the regulations published in Title 45 Part 96 of the Code of Federal Regulations. 
+
+ (152) "Substance Use Disorders (SUDs)" as defined in DSM-5-TR, means disorders related to the taking of a drug of abuse including alcohol, the side effects of a medication, or a toxin exposure. The disorders include substance use disorders and substance-induced disorders, which include substance intoxication and withdrawal, and substance-related disorders such as delirium, neuro-cognitive disorders, and substance-induced psychotic disorder. 
+
+ (153) “Substance Use Disorders Treatment and Recovery Services” means outpatient, intensive outpatient, and residential services and supports for individuals with substance use disorders. 
+
+ (154) “Substance Use Disorders Treatment Staff” means one type of program staff certified by a Division-approved certification body to render substance use disorders treatment services. 
+
+ (155) “Subsyndromal symptomology” means the individual demonstrates or complains of symptoms, suggesting a particular disorder or condition, that do not meet the threshold of the defined criteria for that disorder or condition, and so a diagnosis of that disorder or condition cannot be assigned. 
+
+ (156) “Successful DUII Completion” means that the DUII program has documented in its records that for the period of service deemed necessary by the program, the individual has: 
+
+ (a) Met the completion criteria approved by the Division; 
+
+ (b) Met the terms of the fee agreement between the provider and the individual; and 
+
+ (c) Demonstrated 90 days of continuous abstinence prior to completion. 
+
+ (157) “Suicide Risk Assessment”  means a comprehensive evaluation, usually performed by a clinician, to evaluate suspected suicide risk in an individual, estimate the immediate danger, and decide on a course of treatment. May also be called Risk Assessment. 
+
+ (158) “Suicide Screening” means a procedure in which a validated tool,  or protocol is used to identify individuals who may be at risk for suicide. 
+
+ (159) “Supports” means activities, referrals, and supportive relationships designed to enhance the services delivered to individuals and families for the purpose of facilitating progress toward intended outcomes. 
+
+ (160) “Transfer” means the process of assisting an individual to transition from the current services to the next identified setting or ASAM level of care. 
+
+ (161) “Transitioning” means a 90-day period which begins when an individual is discharged from an inpatient or residential stay back to a community setting. 
+
+ (162) “Trauma Informed Services” means services that reflect the consideration and evaluation of the role that trauma plays in the lives of people seeking mental health, substance use, or problem gambling services, including recognition of the traumatic effect of misdiagnosis and coercive treatment. Services are responsive to the vulnerabilities of trauma survivors and are delivered in a way that avoids inadvertent re-traumatization and facilitates individual direction of services. 
+
+ (163) "Treatment" means the planned, individualized program of medical, psychological, and rehabilitative procedures, experiences, and activities designed to remediate symptoms of a DSM-5-TR diagnosis. 
+
+ (164) “Triage” means a classification process to determine priority needs. 
+
+ (165) "Urinalysis Test" means a sensitive, rapid, and inexpensive immunoassay screen that identifies the presence of a specific drug or metabolite in a urine specimen to eliminate "true negative" specimens from further consideration. 
+
+ (166) "Urgent" means the onset of symptoms requiring attention within 24 hours to prevent a serious deterioration in an individual's mental or physical health or threat to safety. 
+
+ (167) "Variance" means an exception from a provision of these rules granted in writing by the Division pursuant to the process regulated by OAR 309-008-1600 upon written application from the provider. Approval and duration of a variance is determined on a case-by-case basis. 
+
+ (168) "Volunteer" means a person who performs a service willingly and without pay. 
+
+ (169) “Warm Handoff” has the meaning given that term in OAR 309-032-0860. 
+
+ (170) “Wellness” means an approach to healthcare that emphasizes good physical and mental health, preventing illness, and prolonging life. 
+
+ (171) “Wraparound” means a high-fidelity model of team-based intensive care coordination for children and their families based on National Wraparound Initiative values and principles. 
+
+ (172) “Young Adult in Transition” means an individual who is developmentally transitioning into independence, sometime between the ages of 14 and 25. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 161.390, 413.042, 430.256 & 430.640 
+ 
+ 
+ Statutes/Other Implemented:  ORS 161.390 - 161.400, 428.205 - 270, 430.010, 430.205- 430.210, 430.254 - 430.640, 430.850 - 430.955, 743A.168 & 414.665 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BHS 12-2023, amend filed 05/16/2023, effective 05/16/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BHS 11-2023, amend filed 04/07/2023, effective 04/07/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BHS 27-2022, amend filed 12/20/2022, effective 12/20/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BHS 1-2022, amend filed 01/05/2022, effective 01/05/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BHS 11-2021, amend filed 06/16/2021, effective 06/16/2021 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MHS 4-2018, amend filed 02/27/2018, effective 03/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ MHS 10-2017(Temp), f. 9-15-17, cert. ef. 9-15-17 thru 3-13-18 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MHS 6-2017, f. & cert. ef. 6-23-17 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ MHS 26-2016(Temp), f. 12-27-16, cert. ef. 12-28-16 thru 6-23-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ MHS 18-2016, f. 11-28-16, cert. ef. 11-30-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ MHS 11-2016(Temp), f. 6-29-16, cert. ef. 7-1-16 thru 12-27-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ MHS 4-2014, f. & cert. ef. 2-3-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ MHS 6-2013(Temp), f. 8-8-13, cert. ef. 8-9-13 thru 2-5-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

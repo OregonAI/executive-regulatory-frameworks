@@ -1,0 +1,324 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 272 THIRD PARTY VERIFICATION 
+ 340-272-0500 
+ Requirements for Conflict of Interest Evaluation 
+ 
+ (1) Conflict of interest evaluation. Before verification services may begin, each responsible entity must coordinate with the verification body with which it has engaged to perform verification to conduct a conflict of interest evaluation between itself and any verification bodies, verifiers, lead verifiers, sector specific verifiers, independent reviewers, and subcontractors intending to perform verification under the requirements of this division. 
+
+ (2) High conflict of interest. The potential for a conflict of interest must be deemed to be high where: 
+
+ (a) The responsible entity and the verification body share any management staff or board of directors membership, or any of the senior management staff of the responsible entity have been employed by the verification body, or vice versa, within the previous five years; 
+
+ (b) Any employee of the verification body, or any employee of a related entity, or a subcontractor who is a member of the verification team has provided to the responsible entity any of the services in paragraph (A) (B), or (C) of this subsection, as applicable, within the previous five years: 
+
+ (A) High conflict of interest services provided to any responsible entity: 
+
+ (i) Designing or providing consultative engineering or technical services in the development and construction of a fuel production facility; or energy efficiency, renewable power, or other projects which explicitly identify greenhouse gas reductions as a benefit; 
+
+ (ii) Any service related to development of information systems, or consulting on the development of environmental management systems except for systems that will not be part of the verification process and except for accounting software systems; 
+
+ (iii) Verification services that are not provided in accordance with, or equivalent to, the requirements of this division, unless the systems and data reviewed during those services, as well as the result of those services, will not be part of the verification process; 
+
+ (iv) Reporting under OAR chapter 340, division 253 or OAR chapter 340, division 215, or uploading data for DEQ, on behalf of the responsible entity; 
+
+ (v) Bookkeeping and other non-attest services related to accounting records or financial statements, excluding services and results of those services that will not be part of the verification process; 
+
+ (vi) Directly managing any health, environment, or safety functions for the responsible entity; 
+
+ (vii) Appraisal services of carbon or greenhouse gas liabilities or assets; 
+
+ (viii) Brokering in, advising on, or assisting in any way in carbon or greenhouse gas-related markets; 
+
+ (ix) Appraisal and valuation services, both tangible and intangible; 
+
+ (x) Any actuarially oriented advisory service involving the determination of amounts recorded in financial statements and related accounts; 
+
+ (xi) Any internal audit service that has been outsourced by the responsible entity that relates to its internal accounting controls, financial systems, or financial statements, unless the result of those services will not be part of the verification process; 
+
+ (xii) Fairness opinions and contribution-in-kind reports in which the verification body has provided its opinion on the adequacy of consideration in a transaction, unless the resulting services will not be part of the verification process; 
+
+ (xiii) Acting as a broker-dealer (registered or unregistered), promoter or underwriter on behalf of the responsible entity; 
+
+ (xiv) Any legal services; or 
+
+ (xv) Expert services to the responsible entity, a trade or membership group to which the responsible entity belongs, or a legal representative for the purpose of advocating the responsible entity ’s interests in litigation or in a regulatory or administrative proceeding or investigation. 
+
+ (B) Additional high conflict of interest services provided to a responsible entity subject to OAR chapter 340, division 253: 
+
+ (i) Designing, developing, implementing, reviewing, or maintaining an information or data management system for data submitted under OAR chapter 340, division 253 or OAR chapter 340, division 215 unless the review was part of providing independent quality assurance audit services, attestation engagement services, providing verification services according to the U.S. EPA RFS or the EU RED, or third-party engineering reports according to the U.S. EPA RFS; 
+
+ (ii) Developing CI or fuel transaction data or other greenhouse gas related engineering analysis that includes facility-specific information; 
+
+ (iii) Designing, developing, implementing, conducting an internal audit, consulting, or maintaining a project to receive CFP project-based credits; 
+
+ (iv) Preparing or producing CFP fuel pathway application or CFP reporting manuals, handbooks, or procedures specifically for the responsible entity; 
+
+ (v) Owning, buying, selling, trading, or retiring CFP credits, RINs, or credits in any carbon market; or 
+
+ (vi) Dealing in or being a promoter of credits on behalf of the responsible entity. 
+
+ (C) Additional high conflict of interest services provided to a responsible entity subject to OAR chapter 340, division 215: 
+
+ (i) Designing, developing, implementing, reviewing, or maintaining an inventory or information or data management system for facility air emissions, or, where applicable, electricity or fuel transactions, unless the review was part of providing greenhouse gas verification services; 
+
+ (ii) Developing greenhouse gas emissions factors or other greenhouse gas-related engineering analysis, including developing or reviewing a greenhouse gas analysis for air quality permitting or land use review that includes facility specific information; or 
+
+ (iii) Preparing or producing greenhouse gas-related manuals, handbooks, or procedures specifically for the responsible entity. 
+
+ (c) Any member of the verification body or verification team has provided verification services for the responsible entity except within the time periods in which the responsible entity is allowed to use the same verification body or team members as specified under OAR 340-272-0100(5); or 
+
+ (d) Any member of the verification body provides any type of monetary or non-monetary incentive to a responsible entity to secure a verification contract, influence verification documentation, or influence verification findings. 
+
+ (3) Low conflict of interest. The potential for a conflict of interest will be deemed to be low where: 
+
+ (a) No potential for a high conflict of interest is found according to section (2); 
+
+ (b) No potential for a medium conflict of interest is found according to section (4); and 
+
+ (c) Verification services are provided within the allowable period under OAR 340-272-0100(5). 
+
+ (4) Medium conflict of interest. The potential for a conflict of interest will be deemed to be medium where: 
+
+ (a) There are any instances of personal or familial relationships between the members of the verification body and management or staff of the responsible entity; or 
+
+ (b) A member of the verification team provided insignificant services to the facility within the previous five years, but are not services that result in a potential for a high conflict of interest according to section (2). 
+
+ (5) Conflict of interest mitigation plan and submittal requirements for responsible entity. If a medium potential for conflict of interest is identified and the responsible entity intends to engage the verification body for verification, the responsible entity must coordinate with the verification body with which it has engaged to perform verification to submit a plan to DEQ to avoid, neutralize, or mitigate the potential conflict of interest situation, in addition to the evaluation submittal requirements specified under section (6). At a minimum, the conflict of interest mitigation plan must include: 
+
+ (a) A demonstration that any individuals with potential conflicts have been removed and insulated from working on or discussing the project; 
+
+ (b) An explanation of any changes to the organizational structure or verification body to remove the potential conflict of interest. A demonstration that any unit with potential conflicts has been divested or moved into an independent entity or any subcontractor with potential conflicts has been removed; and 
+
+ (c) Any other circumstance that specifically addresses other sources for potential conflict of interest. 
+
+ (6) Conflict of interest evaluation submittal requirements for responsible entities. A responsible entity must submit to DEQ a conflict of interest evaluation that includes the following: 
+
+ (a) Identification of whether the potential for conflict of interest is high, low, or medium based on factors specified under sections (2) through (4); 
+
+ (b) Identification of whether the verification body, related entities, or any member of the verification team has previously provided verification services for the responsible entity or related entities and, if so, include a description and years of service; 
+
+ (c) Identification of whether any member of the verification team, verification body, or related entity has engaged in services of any nature with the responsible entity or related entities either within or outside Oregon during the previous five years. If services other than DEQ verification under this division have previously been provided, the following information must also be submitted: 
+
+ (A) The nature and location of the work performed for the responsible entity or related entity and whether the work is similar to the type of work to be performed during verification, such as emissions inventory, auditing, energy efficiency, renewable energy, or other work with implications for the responsible entity’s greenhouse gas emissions; 
+
+ (B) The nature of past, present, or future relationships of any member of the verification team, verification body, or related entities with the responsible entity or related entities including: 
+
+ (i) Instances when any member of the verification team, verification body, or related entities has performed or intends to perform work for the responsible entity or related entities; 
+
+ (ii) Identification of whether work is currently being performed for the responsible entity or related entities, and if so, the nature of the work; 
+
+ (iii) How much work was performed for the responsible entity or related entities in the last five years, in dollars; 
+
+ (iv) Whether any member of the verification team, verification body, or related entities has contracts or other arrangements to perform work for the responsible entity or a related entity; and 
+
+ (v) How much work related to greenhouse gases the verification team has performed for the responsible entity or related entities in the last five years, in dollars; and 
+
+ (C) Explanation of how the amount and nature of work previously performed is such that any member of the verification team’s credibility and lack of bias should not be under question; 
+
+ (d) A list of names of the staff that would provide verification services for the responsible entity, and a description of any instances of personal or family relationships with management or employees of the responsible entity that potentially represent a conflict of interest; 
+
+ (e) Identification of any other circumstances known to the responsible entity or verification body that could result in a conflict of interest; and 
+
+ (f) A written attestation submitted to DEQ as follows: 
+
+ “I certify under penalty of perjury under the laws of the State of Oregon that to the best of my knowledge and belief, the information provided in this conflict of interest evaluation submittal is true, accurate, and complete.” 
+
+ (7) Conflict of interest determinations. 
+
+ (a) DEQ will review the conflict of interest evaluation and conflict of interest mitigation plan, if applicable, submitted by the responsible entity and will notify the responsible entity in writing whether the verification body is authorized to proceed with verification services. 
+
+ (b) If DEQ determines the verification body or any member of the verification team meets the criteria for a high conflict of interest, verification services may not proceed. DEQ may, at its discretion, determine that a high conflict of interest exists when a member of the verification team provided services within the previous five years, but the services were not services that result in a potential for a high conflict of interest according to section (2). If DEQ makes such a determination, it must explain in writing why it believes the work performed creates a high conflict of interest. 
+
+ (c) If DEQ determines that there is a low potential conflict of interest, verification services may proceed. 
+
+ (d) If DEQ determines that the verification body and verification team have a medium potential for a conflict of interest, DEQ will evaluate the conflict of interest mitigation plan submitted, and may request additional information from the applicant to complete the determination. In determining whether verification services may proceed, DEQ may consider factors including, but not limited to, the nature of previous work performed, the current and past relationships between the verification body, related entities, and its subcontractors with the responsible entity and related entities, and the cost of the verification services to be provided. If DEQ determines that these factors when considered in combination demonstrate an acceptable level of potential conflict of interest, DEQ will authorize the verification body to proceed with verification services. 
+
+ (8) Monitoring conflict of interest situations. 
+
+ (a) After commencement of verification services, both the verification body and the responsible entity must each: 
+
+ (A) Monitor and immediately make full disclosure in writing to DEQ regarding any potential for a conflict of interest situation that arises. This disclosure must include a description of actions that the verification body and the responsible entity have taken or propose to take to avoid, neutralize, or mitigate the potential for a conflict of interest; 
+
+ (B) Continue to monitor arrangements or relationships that may be present for a period of one year after the completion of verification services. During that period, within 30 days of the verification body or any verification team member entering into any contract with the responsible entity or related entity for which the body has provided verification services, the responsible entity must notify DEQ of the contract and the nature of the work to be performed. DEQ will determine whether the relationship constitutes a conflict and, if it does, whether the responsible entity must re-verify its reports or fuel pathway applications, and if modification, suspension, or revocation of DEQ approval of the verification body or any verification team member is warranted; and 
+
+ (C) Notify DEQ, within 30 days, of any conflicts of interest that arise after verification services begin and until one year after verification services are completed. When such notification is made: 
+
+ (i) If DEQ determines that a disclosed emerging potential conflict is medium risk and the responsible entity and verification body agree to mitigate this risk in a manner acceptable to DEQ, the verification body may continue to provide verification services to the responsible entity and will not be subject to suspension or revocation of DEQ approval; and 
+
+ (ii) If DEQ determines that a disclosed emerging potential conflict is medium or high risk and this risk cannot be mitigated, the verification body may not continue to provide verification services to the responsible entity, and may be subject to suspension or revocation of approval. 
+
+ (b) Each verification body must report to DEQ any changes in its organizational structure, including mergers, acquisitions, or divestitures, that occur within one year after completion of any verification services. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, 468A.050, 468A.266, 468A.271, 468A.277 & 468A.280 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468A.010, 468A.015, 468A.050, 468A.265 - 468A.277 & 468A.280 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 2-2025, amend filed 01/09/2025, effective 01/09/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 14-2020, adopt filed 05/07/2020, effective 05/07/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

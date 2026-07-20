@@ -1,0 +1,418 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Aging and People with Disabilities and Developmental Disabilities - Chapter 411 
+ 
+ 
+ 
+ 
+ Division 30 IN-HOME SERVICES 
+ 411-030-0020 
+ Definitions
+ 
+ 
+ Unless the context indicates otherwise, the following definitions apply to the rules in OAR chapter 411, division 030: 
+
+ (1) “Activities of Daily Living (ADL)” mean those personal, functional activities required by an individual for continued well-being, which are essential for health and safety. Activities include eating, dressing, and grooming, bathing and personal hygiene, mobility, elimination, and cognition as defined in OAR 411-015-0006. 
+
+ (2) “Adequately” means sufficient quantity to meet the minimum need as determined by the department. 
+
+ (3) “Aging and People with Disabilities (APD)" refers to the program within the Oregon Department of Human Services (ODHS) primarily responsible for serving seniors and people with disabilities as defined in OAR chapter 411, division 015. 
+
+ (4) "Architectural Modifications" means any service leading to the alteration of the structure of a dwelling to meet a specific service need of an eligible individual. 
+
+ (5) "Area Agency on Aging (AAA)" means the Department designated agency charged with the responsibility to provide a comprehensive and coordinated system of services to individuals in a planning and service area. The term Area Agency on Aging is inclusive of both Type A and Type B Area Agencies on Aging as defined in ORS 410.040 and described in ORS 410.210 to 410.300. 
+
+ (6) "Assessment" or "Reassessment" means an assessment as defined in OAR 411-015-0008. 
+
+ (7) "Assistive Devices" means any category of durable medical equipment, mechanical apparatus, electrical appliance, or instrument of technology used to assist and enhance an individual's independence in performing any activity of daily living. Assistive devices include the use of service animals, general household items, or furniture to assist the individual. 
+
+ (8) "Benefit Plan" means the specific authorization for in-home services authorized under the Consumer Employer Program, Independent Choices Program (ICP), or spousal pay services that is part of the Client Assessment and Planning System and includes set start and end dates for in-home individuals. The Benefit Plan authorization is developed with the individual. 
+
+ (9) "Business Days" means Monday through Friday and excludes Saturdays, Sundays, and state or federal holidays. 
+
+ (10) "Case Manager (CM)" means an employee of the Department or Area Agency on Aging who assesses the service needs of an individual applying for services, determines eligibility, and offers service choices to the eligible individual. The case manager authorizes and implements an individual's service plan and monitors the services delivered as described in OAR chapter 411, division 028. For the purposes of this rule, CM may also include Diversion/Transition Coordinators. 
+
+ (11) "Central Office (CO)" means the unit within the Department responsible for program and policy development and oversight. 
+
+ (12) "Client Assessment and Planning System (CA/PS)": 
+
+ (a) Is a single data system used for: 
+
+ (A) Completing a comprehensive and holistic assessment; 
+
+ (B) Surveying an individual's physical, mental, and social functioning; and 
+
+ (C) Identifying risk factors, individual choices and preferences, and the status of service needs. 
+
+ (b) The CA/PS documents the level of need and calculates an individual's service priority level in accordance with the rules in OAR chapter 411, division 015, calculates the allowed service hours, and accommodates individual participation in service planning. 
+
+ (13) "Consumer-Employed Provider Program" refers to the program described in OAR chapter 411, division 031 wherein a provider is directly employed by an individual or their representative to provide hourly in-home services. 
+
+ (14) "Consumer-Employer" means an individual eligible for in-home services receiving services through the Consumer-Employer Provider Program. 
+
+ (15) "Contingency Fund" means a monetary amount that continues month to month, if approved by a case manager, that is set aside in the Independent Choices Program service budget to purchase identified items that substitute for personal assistance. 
+
+ (16) "Contracted In-Home Care Agency" means an incorporated entity or equivalent, licensed in accordance with OAR chapter 333, division 536 that provides hourly contracted in-home services to individuals receiving services through the Department or Area Agency on Aging. 
+
+ (17) "Cost Effective" means being responsible and accountable with Department resources. This is accomplished by offering less costly alternatives when providing choices that adequately meet an individual’s service needs. Those choices consist of all available services under the Medicaid home and community-based service options, the utilization of assistive devices, natural supports, architectural modifications, and alternative service resources (defined in OAR 411-015-0005). Less costly alternatives may include resources not paid for by the Department. 
+
+ (18) "Debilitating Medical Condition" means the individual’s condition is severe, persistent, and interferes with the individual's ability to function and participate in most activities of daily living. 
+
+ (19) "Department" means the Oregon Department of Human Services (ODHS), APD. 
+
+ (20) "Discretionary Fund" means a monetary amount set aside in the Independent Choices Program service budget to purchase items not otherwise delineated in the monthly service budget or agreed to be savings for items not traditionally covered under Medicaid home and community-based services. Discretionary funds are expended as described in OAR 411-030-0100. 
+
+ (21) "Disenrollment" means either voluntary or involuntary termination of a participant from the Independent Choices Program. 
+
+ (22) "Employee Provider" means a worker who provides services to, and is a paid provider for, a participant in the Independent Choices Program. 
+
+ (23) “Electronic Visit Verification” means a service which requires hourly providers to clock-in at the beginning of their shift and clock-out at the end of their shift, so all hours worked are captured electronically and paid accordingly. 
+
+ (24) "Employment Relationship" means the relationship of employee and employer involving an employee provider and a participant. 
+
+ (25) "Exception" means a variance to APD service limits, granted or denied at DHS’ discretion, based on an individual’s documented service needs warranting a deviation from the typical services needed by the service population. This definition of exception applies to the following areas of exception which are granted or denied at the Department’s full discretion: 
+
+ (a) Maximum hours exceptions as described in OAR 411-027-0050 and OAR 411-030-0071; 
+
+ (b) Shift services hours over 16 hours per day as described in OAR 411-027-0050 and OAR 411-030-0068; 
+
+ (c) 40 and 50 hour cap as described in OAR 411-027-0050 and OAR 411-030-0072. 
+
+ (26) "FICA" is the acronym for the Social Security payroll taxes collected under authority of the Federal Insurance Contributions Act. 
+
+ (27) "Financial Accountability" refers to guidance and oversight which act as fiscal safeguards to identify budget problems on a timely basis and allow corrective action to be taken to protect the health and welfare of individuals. 
+
+ (28) "FUTA" is the acronym for Federal Unemployment Tax Assessment which is a United States payroll (or employment) tax imposed by the federal government on both employees and employers. 
+
+ (29) "Homecare Worker (HCW)" means a provider, as described in OAR 411-031-0040, directly employed by an individual to provide hourly in-home services to the eligible individual. 
+
+ (a) The term homecare worker includes: 
+
+ (A) A consumer-employed provider in the Spousal Pay and Oregon Project Independence Programs; 
+
+ (B) A consumer-employed provider that provides state plan personal care services to individuals; and 
+
+ (C) A relative providing paid Medicaid in-home services to an individual living in the relative’s home. 
+
+ (b) The term homecare worker does not include an Independent Choices Program provider, or a personal support worker enrolled through Developmental Disability Services or the Oregon Health Authority. 
+
+ (30) "Hourly Services" mean the in-home services, including activities of daily living and instrumental activities of daily living, that are provided at regularly scheduled times. 
+
+ (31) "Household" means a group of individuals that live together within the same dwelling. For homeless individuals, the household consists of the individuals who consider themselves living together. 
+
+ (32) "ICP Participation Agreement" means the form provided by the Department the individual signs indicating that they understand their roles and responsibilities in the ICP program. 
+
+ (33) "Independent Choices Program (ICP)" means a self-directed in-home services program in which a participant receives a cash benefit to purchase goods and services identified in the participant's service plan and prior approved by the Department or Area Agency on Aging. 
+
+ (34) "Individual" means a person age 65 or older, or an adult with a physical disability, applying for or eligible for services per OAR 411-015-0100. 
+
+ (35) "Individualized Back-Up Plan" means a plan incorporated into an Independent Choices Program service plan to address critical contingencies or incidents that pose a risk or harm to a participant's health and welfare. 
+
+ (36) "In-Home Services" mean those services that meet an individual's assessed need related to activities of daily living and instrumental activities of daily living when the individual resides in a living arrangement that meets the criteria described in OAR 411-030-0033. 
+
+ (37) "Instrumental Activities of Daily Living (IADL)" mean those activities, other than activities of daily living, required by an individual to continue independent living. The definitions and parameters for assessing needs in IADL are identified in OAR 411-015-0007. 
+
+ (38) "Liability" refers to the dollar amount an individual with excess income contributes to the cost of service pursuant to OAR 461-160-0610 and OAR 461-160-0620. 
+
+ (39) "Medicaid OHP Plus Benefit Package" means only the Medicaid benefit packages provided under OAR 410-120-1210(4)(a) and (b). This excludes individuals receiving Title XXI benefits. 
+
+ (40) “Misuse of ICP Funds” means using ICP funds for any purpose other than to pay for services to meet Activities of Daily Living (ADL), Instrumental Activities of Daily Living (IADL), approved discretionary fund expenditures or contingency fund expenditures. 
+
+ (41) "Natural Supports" or "Natural Support System" means resources and supports (e.g., relatives, friends, neighbors, significant others, roommates, or the community) who are willing to voluntarily provide services to an individual without the expectation of compensation. Natural supports are identified in collaboration with the individual and the potential "natural support". The natural support is required to have the skills, knowledge, and ability to provide the needed services and supports. 
+
+ (42) "Oregon Project Independence (OPI)" means the program of in-home services described in OAR chapter 411, division 032. 
+
+ (43) "OSIPM" means Oregon Supplemental Income Program-Medical as defined in OAR 461-101-0010. OSIPM is Oregon Medicaid insurance coverage for individuals who meet eligibility criteria as described in OAR chapter 461. 
+
+ (44) "Participant" means an individual eligible for and enrolled in the Independent Choices Program. 
+
+ (45) "Person-Centered Service Plan (Service Plan)" means, for Medicaid eligible individuals, the written details of the supports, desired outcomes, activities, and resources required for an individual to achieve and maintain personal goals, health, and safety. The plan is written by the case manager with input and approval from the individual. 
+
+ (46) "Provider" means the person who renders the services. 
+
+ (47) "Rate Schedule" means the rate schedule in OAR 411-027-0170 and maintained by the Department at http://www.dhs.state.or.us/spd/tools/program/osip/rateschedule.pdf. 
+
+ (48) "Relative" means a person, excluding an individual's spouse, who is related to the individual by blood, marriage, or adoption. 
+
+ (49) "Representative" is a person either appointed by an individual to participate in service planning or to assist in managing the duties of a consumer-employer on the individual's behalf or an individual's natural support with longstanding involvement in assuring the individual's health, safety, and welfare. There are additional responsibilities for an ICP representative as described in OAR 411-030-0100. An ICP representative may not be a paid employee provider regardless of relationship to a participant. 
+
+ (50) "Service Budget" means a participant’s plan for the distribution of authorized funds that are under the control and direction of the participant within the Independent Choices Program. A service budget is a required component of the participant's service plan. 
+
+ (51) "Service Need" means the assistance an individual requires from another person for those functions or activities identified in OAR 411-015-0006 and 411-015-0007. 
+
+ (52) "Service Period" means specific two consecutive workweeks, defined by the Department, for a total of 14 calendar days. 
+
+ (53) "Shift Services" are hourly services provided by awake homecare workers, Independent Choices Program employee providers, or a contracted in-home care agency provider to an individual who is authorized to receive 16 hours of services during a 24-hour work period. 
+
+ (54) "Spouse" means a person that is legally married to an individual as defined in OAR 461-001-0000. 
+
+ (55) "SUTA" is the acronym for State Unemployment Tax Assessment. State unemployment taxes are paid by employers to finance the unemployment benefit system that exists in each state. 
+
+ (56) "Tasks" means distinct parts of an activity of daily living. 
+
+ (57) "These Rules" mean the rules in OAR chapter 411, division 030. 
+
+ (58) "Workweek" is defined as 12:00 a.m. on Sunday through 11:59 p.m. on Saturday. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 409.050, 410.070 & 410.090 
+ 
+ 
+ Statutes/Other Implemented:  ORS 410.010, 410.020 & 410.070 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 10-2023, amend filed 06/29/2023, effective 07/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 32-2020, amend filed 07/23/2020, effective 08/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 3-2020, temporary amend filed 02/21/2020, effective 02/21/2020 through 08/18/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 40-2018, amend filed 11/15/2018, effective 11/18/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 11-2018, temporary amend filed 05/23/2018, effective 05/23/2018 through 11/18/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 3-2018, amend filed 01/27/2018, effective 01/28/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 21-2017, temporary amend filed 09/29/2017, effective 10/01/2017 through 01/27/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 18-2017(Temp), f. & cert. ef. 8-1-17 thru 1-27-18 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ SSD 5-1983, f. 6-7-83, ef. 7-1-83; SSD 3-1985, f. & ef. 4-1-85; SSD 5-1987, f. & ef. 7-1-87; SSD 4-1993, f. 4-30-93, cert. ef. 6-1-93; SSD 6-1994, f. & cert. ef. 11-15-94; SPD 14-2003, f. & cert. ef. 7-31-03; SPD 15-2003 f. & cert. ef. 9-30-03; SPD 18-2003(Temp), f. & cert. ef. 12-11-03 thru 6-7-04; SPD 15-2004, f. 5-28-04, cert. ef. 6-7-04; SPD 18-2005(Temp), f. 12-20-05, cert. ef. 12-21-05 thru 6-1-06; SPD 20-2006, f. 5-26-06, cert. ef. 6-1-06; SPD 3-2007(Temp), f. 4-11-07, cert. ef. 5-1-07 thru 10-28-07; SPD 17-2007, f. 10-26-07, cert. ef. 10-28-07; SPD 4-2008(Temp), f. & cert. ef. 4-1-08 thru 9-24-08; SPD 13-2008, f. & cert. ef. 9-24-08; SPD 15-2008, f. 12-26-08, cert. ef. 1-1-09; SPD 10-2013(Temp), f. & cert. ef. 5-23-13 thru 11-19-13; SPD 16-2013(Temp), f. & cert. ef. 7-1-13 thru 11-19-13; SPD 43-2013, f. 10-31-13, cert. ef. 11-1-13; APD 9-2014(Temp), f. 4-17-14, cert. ef. 4-21-14 thru 10-18-14; APD 35-2014, f. & cert. ef. 10-1-14; APD 19-2015(Temp), f. & cert. ef. 9-21-15 thru 3-18-16; APD 5-2016, f. 3-15-16, cert. ef. 3-18-16 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

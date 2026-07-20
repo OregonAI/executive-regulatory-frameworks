@@ -1,0 +1,372 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 64 ACCREDITATION OF LABORATORIES 
+ 333-064-0110 
+ Reporting Cannabis Test Results
+ 
+ 
+ (1) For purposes of this rule the definitions in OAR 333-007-0310 apply unless the context indicates otherwise. 
+
+ (2) A test report must clearly: 
+
+ (a) Identify for the licensee or registrant: 
+
+ (A) Whether a sample has exceeded an action limit for an analyte in OAR 333-007-0400, 333-007-0410, 333-007-0415, and 333-007-0425 Exhibit A, Tables 3, 4, 8, or 9, or has otherwise failed a test as described in OAR 333-007-0300 to 333-007-0500. 
+
+ (B) A "detected" pesticide result as required in section (6) of this rule. 
+
+ (C) The batch unique identification number required under OAR 333-007-0350 and the test batch number associated with the samples tested, as required by OAR 333-064-0100. 
+
+ (D) Identification of the test as a compliance test or a quality control or research and development test. If the test is not for compliance, the report shall indicate clearly on the first page the testing was for quality control or research and development. 
+
+ (E) If applicable, a statement that the test was done on a sample from a remediated marijuana item or industrial hemp-derived vapor item. 
+
+ (b) Include all information required in Volume 1 Module 2 section 5.10 of the 2016 TNI Standard with the following exceptions: 
+
+ (A) The address of the customer; and 
+
+ (B) The location of sampling, including any diagrams, sketches, or photographs. 
+
+ (3) Within 24 hours of completion of the laboratory’s data review and approval procedures a laboratory must report all failed tests for testing required under OAR 333-007-0300 to 333-007-0500 except for failed water activity, whether or not the laboratory is reanalyzing the sample under OAR 333-007-0450: 
+
+ (a) Into the Cannabis Tracking System (CTS) if performing testing for a licensee or a registrant who is subject to CTS tracking under OAR chapter 333, division 8; and 
+
+ (b) To the Oregon Health Authority (Authority) electronically at www.healthoregon.org/ommp if performing testing for a registrant, along with a copy of the test order information required in OAR 333-007-0315, regardless of whether the laboratory is also reporting into CTS on behalf of a registrant that is subject to CTS tracking under OAR chapter 333, division 8. 
+
+ (c) If the laboratory discovers that an error has occurred after reporting, an amended report shall be generated and communicated to the licensee or registrant, the Oregon Liquor and Cannabis Commission (Commission) for licensees, and the Authority for registrants. The laboratory shall ensure that results entered into the CTS are accurate and updated if necessary to reflect the amended report. The laboratory shall ensure that the amended report, communication, and updates to CTS as described in this rule are completed within 48 hours of learning of the error. 
+
+ (4) The laboratory must report all test results required under OAR 333-007-0300 to 333-007-0500 that have not been reported under section (3) of this rule into the Commission’s seed to sale tracking system if performing testing for a licensee or a registrant who is subject to CTS tracking under OAR chapter 333, division 8. 
+
+ (5) A laboratory must determine and include on each test report its limit of quantitation (LOQ) and action level for each analyte listed in OAR 333-007-0400 Table 3, 333-007-0410 Table 4, 333-007-0415 Table 8, and 333-007-0425 Table 9. 
+
+ (6) When reporting pesticide testing results the laboratory must include in the report any target compound that falls below the LOQ that has a signal to noise ratio of greater than 5:1 and meets identification criteria with a result of "detected." This additional reporting is not required if the laboratory’s LOQ is less than or equal to one half of the action level in OAR 333-007-0400 Table 3. 
+
+ (7) A laboratory must include in a test report the results of all associated batch quality control samples, with the date of analysis of the quality control samples and the acceptance limits used to determine acceptability. 
+
+ (a) Batch quality control samples are the method blank or negative control and laboratory control sample or positive control. 
+
+ (b) The report must clearly show the association to the client samples in the report by listing the batch identification numbers. 
+
+ (8) A laboratory that is reporting failed test results to the Commission or the Authority in accordance with section (3) of this rule must report the failed test at the same time or before reporting to the licensee or registrant. 
+
+ (9) If requested by the Authority, a laboratory must report sampling and testing information to the Authority, in a manner prescribed by the Authority. 
+
+ (10) If a laboratory’s calculated adult use cannabinoid or CBD result exceeds 100 percent and the difference between the result and 100 percent is within the laboratory’s calculated analytical uncertainty, the laboratory may report the result as 100 percent with a qualifying statement on the certificate of analysis or the laboratory may report the calculated result with or without a qualifying statement. If the difference between the result and 100 percent is outside the calculated analytical uncertainty, the calculated result shall be reported without correction. 
+
+ (a) The qualifying statement on the certificate of analysis shall clearly state the calculated value and the laboratory’s analytical uncertainty. 
+
+ (b) For the purposes of calculating relative percent difference (RPD) or relative standard deviation (RSD), a laboratory shall use the calculated result and not the adjusted result described in this rule. 
+
+ (11) A primary accredited laboratory may subcontract with accredited laboratories to perform required compliance testing. The primary accredited laboratory shall issue the final report. 
+
+ (a) Accredited, subcontracted laboratories shall validate the results of any sample analysis and report that analysis to their client laboratory within 24 hours of completing the analytical run if the analysis results in a failed compliance test. 
+
+ (b) The accredited laboratory that issues the final test report shall validate and report the results of any failed sample analysis as described in section (3) of this rule. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 475C.544 & ORS 475C.560 
+ 
+ 
+ Statutes/Other Implemented:  ORS 475C.544 & ORS 475C.560 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 68-2024, amend filed 07/09/2024, effective 07/23/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 24-2022, amend filed 03/15/2022, effective 03/31/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 95-2021, amend filed 12/29/2021, effective 01/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 89-2020, amend filed 12/30/2020, effective 01/01/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 44-2020, minor correction filed 05/07/2020, effective 05/07/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 282-2018, amend filed 12/20/2018, effective 01/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 29-2017, amend filed 12/22/2017, effective 01/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 9-2017, f. 5-26-17, cert. ef. 5-31-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 38-2016(Temp), f. 12-13-16, cert. ef. 12-15-16 thru 5-30-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 35-2016(Temp), f. & cert. ef. 12-2-16 thru 5-30-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 21-2016, f. 6-24-16, cert. ef. 6-28-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 22-2015(Temp), f. 11-13-15, cert. ef. 1-1-16 thru 6-28-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,246 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 130 MEDICAL-SURGICAL SERVICES 
+ 410-130-0160 
+ Codes
+ 
+ 
+ (1) ICD-10-CM Diagnosis Codes: 
+
+ (a) Always use the principal diagnosis code in the first position to the highest degree of specificity. List additional diagnosis codes if the claim includes charges for services that relate to the additional diagnoses. However, it is not necessary to include more than one diagnosis code per procedure code; 
+
+ (b) Diagnosis codes are required on all billings including those from independent laboratories and portable radiology including nuclear medicine and diagnostic ultrasound providers; 
+
+ (c) Always supply the ICD-10-CM diagnosis code to ancillary service providers when prescribing services, equipment, and supplies. 
+
+ (2) CPT and HCPCS Codes: 
+
+ (a) Use only codes from the current year for Current Procedural Terminology (CPT) and Healthcare Common Procedure Coding System (HCPCS) codes; 
+
+ (b) Effective January 1, 2005, HIPAA regulations prohibit the use of a grace period for codes deleted from CPT or HCPCS. In the past the grace period was from January 1 through March 31; 
+
+ (c) The division may consider reimbursement for CPT category III codes included under the following headings: Adaptive Behavior Assessments, Adaptive Behavior Treatment, and Exposure Adaptive Behavior Treatment With Protocol Modification. All CPT category II (codes with fifth character of “F”) and all other category III codes (codes with fifth character “T”) are not Division of Medical Assistance Programs’ (Division) covered services; 
+
+ (d) Use the most applicable CPT or HCPCS code. Do not fragment coding when services can be included in a single code (see the “Bundled Services” section of this rule). Do not use both CPT and HCPCS codes for the same procedure. This is considered duplicate billing. 
+
+ (3) The Medical-Surgical Service rules list the HCPCS/CPT codes that require authorization or have limitations. The Health Evidence Review Commission’s Prioritized List of Health Services (OAR 410-141-3830) determines covered services. 
+
+ (4) For determining the appropriate level of service code for Evaluation and Management services, read the definitions in the CPT and HCPCS codebook. Use the definitions to verify level of service, especially for office visits. Unless otherwise specified in the Medical-Surgical provider rule, use the guidelines from CPT and HCPCS. 
+
+ (5) Bundled Services: Reimbursements for some services are “bundled” into the payment for another service. The Division does not make separate payment for bundled services and clients may not be billed for bundled services. The Division’s Not Covered/Bundled Services rule, OAR 410-130-0220, provides more information regarding bundled services. 
+
+ [Publications: Publications referenced are available from the agency.] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.025 & 414.065 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 73-2023, minor correction filed 08/22/2023, effective 08/22/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 71-2023, minor correction filed 08/19/2023, effective 08/19/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 51-2015, f. 9-22-15, cert. ef. 10-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ DMAP 15-2015, f. 3-27-15, cert. ef. 4-1-15 
+DMAP 74-2014(Temp), f. 12-9-14, cert. ef. 1-1-15 thru 6-29-15 
+OMAP 8-2005, f. 3-9-05, cert. ef. 4-1-05 
+OMAP 58-2004, f. 9-10-04, cert. ef. 10-1-04 
+OMAP 69-2003, f. 9-12-03, cert. ef. 10-1-03 
+OMAP 23-2003, f. 3-26-03, cert. ef. 4-1-03 
+OMAP 2-2002, f. 2-15-02, cert. ef. 4-1-02 
+OMAP 31-2000, f. 9-29-00, cert. ef. 10-1-00 
+OMAP 17-1999, f. & cert. ef. 4-1-99 
+OMAP 3-1998, f. 1-30-98, cert. ef. 2-1-98 
+HR 4-1997, f. 1-31-97, cert. ef. 2-1-97 
+HR 10-1996, f. 5-31-96, cert. ef. 6-1-96 
+HR 42-1994, f. 12-30-94, cert. ef. 1-1-95 
+HR 6-1994, f. & cert. ef. 2-1-94 
+HR 40-1992, f. 12-31-92, cert. ef. 2-1-93 
+HR 23-1992, f. 7-31-92, cert. ef. 8-1-92 
+HR 8-1992, f. 2-28-92, cert. ef. 3-1-92 
+HR 2-1992, f. & cert. ef. 1-2-92 
+HR 19-1991, f. 4-12-91, cert. ef. 5-1-91 
+HR 10-1990, f. 3-30-90, cert. ef. 4-1-90, Renumbered from 461-014-0610 
+AFS 48-1989, f. & cert. ef. 8-24-89 
+AFS 5-1989(Temp), f. 2-9-89, cert. ef. 3-1-89 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,287 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 225 AIR QUALITY ANALYSIS REQUIREMENTS 
+ 340-225-0050 
+ Requirements for Analysis in PSD Class II and Class III Areas
+ 
+ 
+ Modeling: For determining compliance with the AAQS, PSD increments, and other requirements in PSD Class II and Class III areas, the following methods must be used: 
+
+ (1) For each regulated pollutant, a single source impact analysis is sufficient to show compliance with the AAQS and PSD increments if: 
+
+ (a) The modeled impacts from emission increases equal to or greater than a SER above the netting basis due to the proposed source or modification being evaluated are less than the Class II significant impact levels specified in OAR 340-200-0020; and 
+
+ (b) The owner or operator provides an assessment of factors that may impact the air quality conditions in the area to show that the SIL by itself ensures that the proposed source or modification will not cause or contribute to a new violation of an AAQS and PSD increment. The assessment must take into consideration but is not limited to the following factors: 
+
+ (A) The background ambient concentration relative to the AAQS; 
+
+ (B) The emission increases and decreases since the baseline concentration year from other sources that are expected to cause a significant concentration gradient in the vicinity of the source. Determination of significant concentration gradient may take into account factors including but not limited to ROI formula, spatial distribution of existing emission sources, topography, and meteorology. 
+
+ (2) If the requirement in section (1) is not satisfied, the owner or operator of a proposed source or modification being evaluated must complete a competing source analysis as follows: 
+
+ (a) For demonstrating compliance with the PSD Class II and III increments (as defined in OAR 340-202-0210), the owner or operator of the proposed source or modification must show that modeled impacts from the proposed increased emissions, above the modeled baseline concentration, plus competing PSD increment consuming source impacts above the modeled baseline concentration are less than the PSD increments for all averaging times; and 
+
+ (b) For demonstrating compliance with the AAQS, the owner or operator of the source must show that the total modeled impacts plus total competing source impacts plus general background concentrations are less than the AAQS for all averaging times. 
+
+ (3) The owner or operator of a source or modification must also provide an analysis of: 
+
+ (a) The impairment to visibility, soils and vegetation that would occur as a result of the proposed source or modification, and general commercial, residential, industrial and other growth associated with the source or modification. As a part of this analysis, deposition modeling analysis is required for sources emitting heavy metals above the SERs as defined in OAR 340-200-0020. Concentration and deposition modeling may also be required for sources emitting other compounds on a case-by-case basis; and 
+
+ (b) The air quality concentration projected for the area as a result of general commercial, residential, industrial and other growth associated with the source or modification. 
+
+ (4) Any analyses performed under this section must be done in compliance with OAR 340-225-0030 and 340-225-0040, as applicable. 
+
+ [NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-020-0040.] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020 & 468A.070 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468A 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 19-2022, amend filed 11/18/2022, effective 03/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 13-2019, amend filed 05/16/2019, effective 05/16/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 7-2015, f. & cert. ef. 4-16-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 5-2011, f. 4-29-11, cert. ef. 5-1-11 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ Reverted to DEQ 1-2004, f. & cert. ef. 4-14-04 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 10-2010(Temp), f. 8-31-10, cert. ef. 9-1-10 thru 2-28-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 1-2004, f. & cert. ef. 4-14-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 11-2002, f. & cert. ef. 10-8-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

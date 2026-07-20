@@ -1,0 +1,310 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Aging and People with Disabilities and Developmental Disabilities - Chapter 411 
+ 
+ 
+ 
+ 
+ Division 380 DIRECT NURSING SERVICES FOR ADULTS WITH INTELLECTUAL OR DEVELOPMENTAL DISABILITIES 
+ 411-380-0020 
+ Definitions and Acronyms 
+ 
+ In addition to the following definitions, OAR 411-317-0000 includes general definitions for words and terms frequently used in OAR chapter 411, division 380. If a word or term is defined differently in OAR 411-317-0000, the definition in this rule applies. 
+
+ (1) "Acuity Level" means the amount of the medically related support needs of an individual as measured by the Direct Nursing Services Criteria. 
+
+ (2) "Authorization” means the approval of a case management entity for the planning, provision, and payment of direct nursing services. 
+
+ (3) "Case Management Entity" means the Community Developmental Disabilities Program or Brokerage contracted to deliver the functions of case management. 
+
+ (4) "Complex Health Management Support Needs" mean those medical or nursing tasks, activities, or duties in response to a health condition or series of conditions that impacts all aspects of the care of an individual, requiring oversight by a nurse and physician. 
+
+ (5) "Direct Nursing Services" mean the services described in OAR 411-380-0050 determined medically necessary to support an individual with complex health management support needs in their home and community. Direct nursing services are provided on a shift staffing basis. 
+
+ (6) "Direct Nursing Services Agency" means an agency certified under OAR chapter 411, division 323 and endorsed to deliver direct nursing services under these rules. 
+
+ (7) "Direct Nursing Services Criteria" means the assessment to measure the acuity and support level of nursing tasks to determine eligibility for direct nursing services. 
+
+ (8) "Enrolled Medicaid Provider" means a provider that meets and completes all the requirements in these rules, OAR 407-120-0300 through 407-120-0400, and OAR chapter 410, division 120, as applicable. 
+
+ (9) "Home Health Agency" has the meaning given that term in ORS 443.014. 
+
+ (10) "HSD" means Health Systems Division, Medical Assistance Programs under OHA. 
+
+ (11) "Individual" means an adult, 21 years of age or older, eligible for direct nursing services according to OAR 411-380-0030. 
+
+ (12) "In-Home Care Agency" has the meaning given that term in ORS 443.305. 
+
+ (13) "ISP" means "Individual Support Plan". 
+
+ (14) "LPN" means a licensed practical nurse who holds a current license from the Oregon State Board of Nursing according to ORS chapter 678 and OAR chapter 851, division 045. An LPN providing direct nursing services under these rules is either one of the following: 
+
+ (a) An independent contractor who is an enrolled Medicaid provider. 
+
+ (b) An employee of an in-home care agency, home health agency, or direct nursing services agency. 
+
+ (15) "MMIS" means "Medicaid Management Information System". MMIS is the automated claims processing and information retrieval system for handling all Medicaid transactions. The objectives of the system include verifying provider enrollment and individual eligibility, managing health care provider claims and benefit package maintenance, and addressing a variety of Medicaid business needs. 
+
+ (16) "Medicaid Provider Enrollment Agreement" means an agreement between the Department and a provider for the provision of covered services to covered individuals for payment. 
+
+ (17) "National Provider Index Number" means a federally directed provider number mandated for use on Health Insurance Portability and Accountability Act (HIPAA) covered transactions by individuals, provider organizations, and subparts of provider organizations that meet the definition of health care provider (45 CFR 160.103) and who conduct HIPAA covered transactions electronically. 
+
+ (18) "Nurse" means an "LPN" or "RN". 
+
+ (19) "Nursing Intervention" means the actions deliberately designed, selected, and performed by a nurse to implement the Nursing Service Plan. 
+
+ (20) "Nursing Service Plan" means the written guidelines developed by an RN as described in OAR 411-380-0050 that identifies the specific needs of an individual and the intervention or regiment to assist the individual to achieve optimal health potential. Developing the Nursing Service Plan includes a comprehensive and focused nursing assessment of the health status of the individual as part of the standards outlined in OAR 851-045-0060(3), establishing individual and nursing goals, and determining nursing interventions to meet care objectives. 
+
+ (a) The Nursing Service Plan is specific to an individual and identifies the diagnoses and health needs of the individual and all direct nursing service needs. 
+
+ (b) The Nursing Service Plan is separate from the ISP as well as any service plans developed by other health professionals. 
+
+ (21) "OHA" means "Oregon Health Authority". 
+
+ (22) "OSIPM" means "Oregon Supplemental Income Program-Medical". 
+
+ (23) "Prior Authorization" means payment authorization for direct nursing services given by the Department or case management entity prior to the delivery of the service. A physician referral is not a prior authorization for services. 
+
+ (24) "Provider" means an enrolled Medicaid provider who is qualified to deliver direct nursing services according to OAR 411-380-0060 and is either one of the following: 
+
+ (a) A nurse. 
+
+ (b) An in-home care agency, home health agency, or direct nursing services agency. 
+
+ (25) "RN" means a registered nurse who holds a current license from the Oregon State Board of Nursing according to ORS chapter 678 and OAR chapter 851, division 045. An RN providing direct nursing services under these rules is either one of the following: 
+
+ (a) An independent contractor who is an enrolled Medicaid provider. 
+
+ (b) An employee of an in-home care agency, home health agency, or direct nursing services agency that is an enrolled Medicaid provider. 
+
+ (26) "These Rules" mean the rules in OAR chapter 411, division 380. 
+
+ (27) "Third Party Resources" means a medical or financial resource that, under law, is available and applicable to pay for medical services and items for an individual. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 409.050, 413.085 & 427.104 
+ 
+ 
+ Statutes/Other Implemented:  ORS 409.010, 413.085, 427.007 & 427.104 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 16-2021, amend filed 05/26/2021, effective 06/01/2021 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 21-2019, amend filed 06/28/2019, effective 07/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 3-2017, f. 2-21-17, cert. ef. 2-28-17 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 34-2016(Temp), f. 8-30-16, cert. ef. 9-1-16 thru 2-27-17 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 14-2016, f. 6-28-16, cert. ef. 6-29-16 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 28-2015(Temp), f. 12-31-15, cert. ef. 1-1-16 thru 6-28-16 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

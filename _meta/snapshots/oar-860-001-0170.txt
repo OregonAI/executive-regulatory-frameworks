@@ -1,0 +1,206 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Public Utility Commission 
+ Chapter 860 
+ 
+ 
+ 
+ 
+ 
+ Division 1 GENERAL 
+ 860-001-0170 
+ Filing Requirements in Contested Case and Declaratory Ruling Proceedings
+ 
+ 
+ (1) Every pleading or other document submitted to the Commission in contested case or declaratory ruling proceedings must be filed electronically with the Filing Center on or before the date due. All filings must be labeled with the applicable docket number, a description of the filing, and the date filed. Electronic copies of non-confidential documents must not be password protected, or have any PDF security features enabled. 
+
+ (a) Documents may be electronically filed by sending the filing as an attachment to an electronic mail message addressed to the Filing Center or by personally delivering or mailing a portable data storage device to the Filing Center. If a portable data storage device is delivered or mailed to the Filing Center, it must be received on or before the date due to be considered timely filed. 
+
+ (b) Electronic copies of documents must be in text-searchable format and provided in either Microsoft Word, Microsoft Excel, or .pdf (Adobe Acrobat) format, unless otherwise permitted by the ALJ. 
+
+ (c) An electronic mail message to the Filing Center and its attachments must be less than 20 megabytes in size. Filings larger than 20 megabytes may be divided into multiple electronic mail messages. Each message must be numbered sequentially, and the subject line of the message must include “E-mail x of y,” where x equals the message number and y equals the total number of messages. Filings larger than 20 megabytes may also be provided to the Filing Center on a portable data storage device. 
+
+ (d) The subject line of each electronic mail message to the Filing Center must include the docket number (if one is assigned), the party name or identifier, and the title or type of filing. For example, for a brief filed by the Citizens’ Utility Board of Oregon in UE XXX, the subject line is UE XXX CUB Brief; and for a new application from NW Natural for financing authorization, the subject line is NWN New UF Application. 
+
+ (e) If a document relates to multiple dockets that are officially consolidated, then the filer should file the document in the lead docket only. If a document relates to multiple dockets that are not officially consolidated, then the filer must file the document in each docket, even if all dockets are following the same procedural schedule. 
+
+ (f) When electronically filing a redacted version of a filing that contains confidential information, the filer must file the confidential version so that it is received by the Filing Center within 2 business days after the date the redacted version was electronically filed. 
+
+ (g) When filing a document that is entirely confidential, the filer must electronically file a cover letter. The filer must file the confidential version so that it is received by the Filing Center within 2 business days after the date that the cover letter was electronically filed. 
+
+ (2) Parties must supplement an electronic filing with physical copies of certain filings. For general rate revisions filed under OAR 860-022-0019, integrated resource plans filed under OAR 860-038-0080, the utility must provide 20 physical copies. For filings of more than 100 pages, parties must coordinate with the Filing Center to determine the number of physical copies to be filed. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 756.040 & 756.060 
+ 
+ 
+ Statutes/Other Implemented:  ORS 756.040 & 756.500 - 756.575 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 1-2018, minor correction filed 03/20/2018, effective 03/20/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 1-2015, f. & cert. ef. 3-3-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 5-2010, f. & cert. ef. 10-22-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

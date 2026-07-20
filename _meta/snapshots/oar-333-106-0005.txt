@@ -1,0 +1,722 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 106 X-RAYS IN THE HEALING ARTS 
+ 333-106-0005 
+ Definitions
+ 
+ 
+ As used in OAR chapter 333, division 106, the following definitions apply: 
+
+ (1) "Accessible surface" means the external surface of the enclosure or housing provided by the manufacturer. 
+
+ (2) "Added filtration" means any filtration that is in addition to the inherent filtration. 
+
+ (3) "Advanced practice registered nurse (APRN)" means a clinical nurse specialist, certified nurse anesthetist, or nurse practitioner licensed or state certified by the Oregon State Board of Nursing. 
+
+ (4) "Aluminum equivalent" means the thickness of type 1100 aluminum alloy affording the same attenuation, under specified conditions, as the material in question. 
+
+ 
+ NOTE: The nominal chemical composition of type 1100 aluminum alloy is 99.00 percent minimum aluminum, 0.12 percent copper. 
+ 
+
+ (5) "Applications training" means a vendor or manufacturer providing training for specific X-ray equipment. 
+
+ (6) "A.R.R.T." means the American Registry of Radiologic Technologists. 
+
+ (7) "Assembler" means any person engaged in the business of assembling, replacing, or installing one or more components into an X-ray system or subsystem. The term includes the owner of an X-ray system or his or her employee or agent who assembles components into an X-ray system that is subsequently used to provide professional or commercial services. 
+
+ (8) "Attenuation block" means a block or stack, having dimensions 20 centimeters (cm) by 20 cm by 3.8 cm, of type 1100 aluminum alloy or other materials having equivalent attenuation. 
+
+ (9) "Authority approved instructor" means an individual who has been evaluated and approved by the Oregon Health Authority to teach radiation safety. 
+
+ (10) "Authority approved training course" means a course of training that has been evaluated and approved by the Oregon Health Authority. 
+
+ (11) "Automatic exposure control (AEC)" means a device that automatically controls one or more technique factors in order to obtain at a pre-selected location(s) a required quantity of radiation. (See also "Photo timer".) 
+
+ (12) "Barrier" (see "Protective barrier"). 
+
+ (13) "Beam axis" means a line from the source through the centers of the X-ray fields. 
+
+ (14) "Beam-limiting device" means a device that provides a means to restrict the dimensions of the X-ray field. 
+
+ (15) "Beam monitoring system" means a system designed to detect and measure the radiation present in the useful beam. 
+
+ (16) "C-arm X-ray system" means an X-ray system in which the image receptor and X-ray tube housing are connected by a common mechanical support system in order to maintain a desired spatial relationship. This system is designed to allow a change in the projection of the beam through the patient without a change in the position of the patient. 
+
+ (17) "Cephalometric device" means a device intended for the radiographic visualization and measurement of the dimensions of the human head. 
+
+ (18) "Certified components" means components of X-ray systems that are subject to the X-ray Equipment Performance Standards promulgated under Public Law 90-602, the Radiation Control Agency for Health and Safety Act of 1968. 
+
+ (19) "Certified system" means any X-ray system that has one or more certified component(s). 
+
+ (20) "Changeable filters" means any filter, exclusive of inherent filtration, which can be removed from the useful beam through any electronic, mechanical or physical process. 
+
+ (21) "Coefficient of variation (C)" means the ratio of the standard deviation to the mean value of a set of observations. 
+
+ (22) "Computed tomography (CT)" means the production of a tomogram by the acquisition and computer processing of X-ray transmission data. 
+
+ (23) "Computed radiography (CR)" means creating an X-ray image using plates consisting of a photo stimulable phosphor (PSP) that when exposed to radiation and then processed by a scanner, provides the information to a computer for display and manipulation. 
+
+ (24) "Contact therapy system" means an X-ray system used for therapy with the tube port placed in contact with or within five centimeters of the surface being treated. 
+
+ (25) "Control panel" means that part of the X-ray control upon which are mounted the switches, knobs, pushbuttons and other hardware necessary for manually setting the technique factors. 
+
+ (26) "Cooling curve" means the graphical relationship between heat units stored and cooling time. 
+
+ (27) "Dead-man switch" means a switch so constructed that a circuit closing contact can be maintained only by continuous pressure on the switch by the operator. 
+
+ (28) "Dental therapist" means a person licensed to practice dental therapy under ORS 679.603. 
+
+ (29) "Detector" (see "Radiation detector"). 
+
+ (30) "Diagnostic X-ray imaging system" means an assemblage of components for the generation, emission, and reception of X-rays and the transformation, storage, and visual display of the resultant X-ray image. 
+
+ (31) "Diagnostic source assembly" means the tube housing assembly with a beam-limiting device attached. 
+
+ (32) "Diagnostic-type protective tube housing" means a tube housing so constructed that the leakage radiation measured at a distance of one meter from the source does not exceed 100 milliroentgens (mR) in one hour when the tube is operated at its leakage technique factors. 
+
+ (33) "Diagnostic X-ray system" means an X-ray system designed for irradiation of any part of the human body or animal body for the purpose of diagnosis or visualization. 
+
+ (34) "Direct digital radiography (DR)”" means creating an X-ray image by sending signals directly from a digital image receptor to a computer for display and manipulation. 
+
+ (35) "Direct scattered radiation" means that scattered radiation which has been deviated in direction only by materials irradiated by the useful beam (see "Scattered radiation"). 
+
+ (36) "Entrance exposure rate" means the exposure free in air per unit of time. 
+
+ (37) "Field emission equipment" means equipment which uses a tube in which electron emission from the cathode is due solely to the action of an electric field. 
+
+ (38) "Filter" means material placed in the useful beam to absorb preferentially selected radiations. 
+
+ (39) "Fluoroscopic benchmark" means a standard based upon the average cumulative fluoroscopic on-time normally found to be used for a specific fluoroscopic procedure at the site. 
+
+ (40) "Fluoroscopic imaging assembly" means a subsystem in which X-ray photons produce a visible image. It includes the image receptor(s) such as the image intensifier and spot-film device, electrical interlocks, if any, and structural material providing linkage between the image receptor and diagnostic source assembly. 
+
+ (41) "Fluoroscopic X-ray equipment operator" means any individual who, adjusts technique factors, activates the exposure switch or button of a fluoroscopic X-ray machine or physically positions patients or animals. Human holders, used solely for immobilization purposes (example being veterinarian human holders) are excluded from this rule. 
+
+ (42) "Focal spot" means the area projected on the anode of the tube by the electrons accelerated from the cathode and from which the useful beam originates. 
+
+ (43) "General purpose radiographic X-ray system" means any radiographic X-ray system which, by design, is not limited to radiographic examination of specific anatomical regions. 
+
+ (44) "Half-value layer (HVL)" means the thickness of specified material which attenuates the beam of radiation to an extent such that the exposure rate is reduced to one-half of its original value. In this definition, the contribution of all scattered radiation, other than any which might be present initially in the beam concerned, is deemed to be excluded. 
+
+ (45) "Healing arts screening" means the testing of human beings using X-ray machines for the detection or evaluation of health indications when such tests are not specifically and individually ordered by an Oregon licensed practitioner of the healing arts legally authorized to prescribe such X-ray tests for the purpose of diagnosis or treatment. 
+
+ (46) "Heat unit" means a unit of energy equal to the product of the peak kilovoltage, milliamperes and seconds, example being kVp x mA x second. 
+
+ (47) "HVL" (see "Half-value layer"). 
+
+ (48) "Image intensifier" means a device, installed in its housing, which instantaneously converts an X-ray pattern into a corresponding light image of higher energy density. 
+
+ (49) "Image receptor" means any device, such as a fluorescent screen or radiographic film, which transforms incident photons either into a visible image or into another form which can be made into a visible image by further transformations. 
+
+ (50) "Inherent filtration" means the filtration of the useful beam provided by the permanently installed components of the tube housing assembly. 
+
+ (51) "Interlock" means a device arranged or connected such that the occurrence of an event or condition is required before a second event or condition can occur or continue to occur. 
+
+ (52) "Irradiation" means the exposure of matter to ionizing radiation. 
+
+ (53) "Kilovolt-peak" (see "Peak tube potential"). 
+
+ (54) "kV" means kilovolts. 
+
+ (55) "kVp" (see "Peak tube potential"). 
+
+ (56) "kWs" means kilowatt second. 
+
+ (57) "Lead equivalent" means the thickness of lead affording the same attenuation, under specified conditions, as the material in question. 
+
+ (58) "Leakage radiation" means radiation emanating from the diagnostic or therapeutic source assembly except for: 
+
+ (a) The useful beam; and 
+
+ (b) Radiation produced when the exposure switch or timer is not activated. 
+
+ (59) "Leakage technique factors" means the technique factors associated with the diagnostic or therapeutic source assembly which are used in measuring leakage radiation. They are defined as follows: 
+
+ (a) For diagnostic source assemblies intended for capacitor energy storage equipment, the maximum rated peak tube potential and the maximum-rated number of exposures in an hour for operation at the maximum rated peak tube potential with the quantity of charge per exposure being 10 millicoulombs, example being 10 milliampere seconds (mAs), or the minimum obtainable from the unit, whichever is larger. 
+
+ (b) For diagnostic source assemblies intended for field emission equipment rated for pulsed operation, the maximum-rated peak tube potential and the maximum-rated number of X-ray pulses in an hour for operation at the maximum-rated peak tube potential. 
+
+ (c) For all other diagnostic or therapeutic source assemblies, the maximum-rated peak tube potential and the maximum-rated continuous tube current for the maximum-rated peak tube potential. 
+
+ (60) "Light field" means that area of the intersection of the light beam from the beam-limiting device and one of the set of planes parallel to and including the plane of the image receptor, whose perimeter is the locus of points at which the illumination is one-fourth of the maximum in the intersection. 
+
+ (61) "Line-voltage regulation" means the difference between the no-load and the load line potentials expressed as a percent of the load line potential. 
+
+ (62) "mA" means milliampere. 
+
+ (63) "mAs" means milliampere second. 
+
+ (64) "Maximum line current" means the root-mean-square current in the supply line of an X-ray machine operating at its maximum rating. 
+
+ (65) "Mobile equipment" (see "X-ray equipment"). 
+
+ (66) "Non-radiologist practitioner" means an individual who practices medicine as a medical doctor (M.D.), doctor of osteopathic medicine (D.O), doctor of chiropractic medicine (D.C.), doctor of podiatric medicine (D.P.M.) or doctor of veterinary medicine (D.V.M.); and 
+
+ (a) Are not specifically certified in diagnostic or therapeutic use of X-rays; and 
+
+ (b) Are currently licensed by their respective Oregon licensing board. 
+
+ (67) "Operator" means an individual who, under the supervision of a practitioner of the healing arts, handles ionizing radiation equipment, physically positions patients or animals, determines exposure parameters or applies the radiation for the diagnostic or therapeutic purposes intended. 
+
+ (68) "Patient" means an individual subjected to healing arts examination, diagnosis, or treatment. 
+
+ (69) "Peak tube potential" means the maximum value of the potential difference across the X-ray tube during an exposure. 
+
+ (70) "Phantom" means a volume of material behaving in a manner similar to tissue with respect to the attenuation and scattering of radiation. This requires that both the atomic number (Z) and the density of the material be similar to that of tissue. 
+
+ (71) "Photo timer" means a method for controlling radiation exposures to image receptors by measuring the amount of radiation which reaches a radiation monitoring device(s). The radiation monitoring device(s) is a part of an electronic circuit which controls the duration of time the tube is activated (see also "Automatic exposure control"). 
+
+ (72) "PID" (see "Position indicating device"). 
+
+ (73) "Portable equipment" (see "X-ray equipment"). 
+
+ (74) "Position indicating device" means a device on dental X-ray equipment used to indicate the beam position and to establish a definite source-surface (skin) distance. It may or may not incorporate or serve as a beam-limiting device. 
+
+ (75) "Primary dose monitoring system" means a system which will monitor useful beam during irradiation and which will terminate irradiation when a pre-selected number of dose monitor units have been acquired. 
+
+ (76) "Primary protective barrier" (see "Protective barrier"). 
+
+ (77) "Protective apron" means an apron made of radiation absorbing materials used to reduce radiation exposure. 
+
+ (78) "Protected area" means an area shielded with primary or secondary protective barriers or an area removed from the radiation source such that the exposure rate within the area due to normal operating procedures and workload does not exceed any of the following limits: 
+
+ (a) 2 milliroentgens (mR) in any one hour; or 
+
+ (b) 100 mR in any one year. 
+
+ (c) See OAR 333-120-0180 for additional information. 
+
+ (79) "Protective barrier" means a barrier of radiation absorbing material(s) used to reduce radiation exposure. The types of protective barriers are as follows: 
+
+ (a) "Primary protective barrier" means the material, excluding filters, placed in the useful beam, for protection purposes, to reduce the radiation exposure; 
+
+ (b) "Secondary protective barrier" means a barrier sufficient to attenuate the stray radiation to the required degree. 
+
+ (80) "Protective glove" means a glove made of radiation absorbing materials used to reduce radiation exposure. 
+
+ (81) "Qualified expert" means an individual, approved by the Authority, who has demonstrated, pursuant to these rules, that he/she possesses the knowledge, skills, and training to measure ionizing radiation, to evaluate radiation parameters, to evaluate safety techniques, and to advise regarding radiation protection needs. The individual shall: 
+
+ (a) Be certified in the appropriate field by the American Board of Radiology, the American Board of Health Physics, the American Board of Medical Physics or the American Board of Nuclear Medicine Science; or 
+
+ (b) Hold a master's or doctoral degree in physics, biophysics, radiological physics, health physics, or medical physics and have completed one year of documented, full time training in the appropriate field and also one year of documented, full time work experience under the general supervision of a qualified expert in the appropriate field. To meet this requirement, the individual shall have performed the tasks required of a qualified expert during the year of work experience; or 
+
+ (c) Receive approval from the Oregon Health Authority for specific activities. 
+
+ (82) "Quality control program" means a program directed at film processing and radiographic image quality whereby periodic monitoring of film processing is performed. Test films are compared against control film, either visually or by use of a densitometer, to determine if density or contrast have changed. Steps can then be taken to investigate such change and correct the problem. The X-ray machine itself can also be involved in the quality control program, as can other components of the imaging chain. 
+
+ (83) "Radiation detector" means a device which in the presence of radiation provides a signal or other indication suitable for use in measuring one or more quantities of incident radiation. 
+
+ (84) "Radiation therapy simulation system" means a radiographic or fluoroscopic system intended for localizing the volume to be exposed during radiation therapy and confirming the position and size of the therapeutic irradiation field. 
+
+ (85) "Radiograph" means an image receptor on which the image is created directly or indirectly by a pattern and results in a permanent record. 
+
+ (86) "Radiographic imaging system" means any system whereby a permanent or semipermanent image is recorded on an image receptor by the action of ionizing radiation. 
+
+ (87) "Radiological physicist" means an individual who: 
+
+ (a) Is certified by the American Board of Radiology in therapeutic radiological physics, radiological physics, or x- and gamma-ray physics; or 
+
+ (b) Has a bachelor's degree in one of the physical sciences or engineering and three years full-time experience working in therapeutic radiological physics under the direction of a physicist certified by the American Board of Radiology. The work duties must include duties involving the calibration and spot checks of a medical accelerator or a sealed source teletherapy unit; or 
+
+ (c) Has a master's or a doctoral degree in physics, biophysics, radiological physics, health physics, or engineering; has had one year's full-time training in therapeutic radiological physics; and has had one year's full-time work experience in a radiotherapy facility where the individual's duties involve calibration and spot checks of a medical accelerator or a sealed source teletherapy unit. 
+
+ (88) "Radiologist" or "oral radiologist" means a physician or dentist trained in the diagnostic use of X-rays and who is; 
+
+ (a) Currently licensed by their respective Oregon licensing board; and 
+
+ (b) Board certified by the American Board of Radiology (ABR) or American Osteopathic Board of Radiology (AOBR) or American Chiropractic Board of Radiology (DACBR) or Royal College of Physicians and Surgeons of Canada (RCPSC) or the American Board of Oral and Maxillo-Facial Radiology (ABOMFR) and currently licensed to practice medicine or dentistry in Oregon; or 
+
+ (c) ABR board eligible after successfully completing the Accreditation Council for Graduate Medical Education accredited diagnostic radiology residency program. 
+
+ (89) "Radiology physician's assistant" (R.P.A.)/ "registered radiology assistant" (R.R.A.). 
+
+ (a) An R.P.A. means an American Registry of Radiologic Technologists (A.R.R.T.) technologist who has successfully completed an advanced training program and is certified by the Certification Board for Radiology Practitioner Assistants (CBRPA). 
+
+ (b) An R.R.A means an A.R.R.T. technologist who has successfully completed an advanced training program and is certified by A.R.R.T. 
+
+ (90) "R.T." means a radiologic technologist certified in radiography and currently licensed by the Oregon Board of Medical Imaging. 
+
+ (91) "Rating" means the operating limits as specified by the component manufacturer. 
+
+ (92) "Recording" means producing a permanent form of an image resulting from X-ray photons. 
+
+ (93) "Registrant," as used in this division, means any person who owns or possesses and administratively controls an X-ray system which is used to deliberately expose humans, animals or materials to the useful beam of the system and is required by the provisions contained in divisions 100 and 101 of this chapter to register with the Authority. 
+
+ (94) "Response time" means the time required for an instrument system to reach 90 percent of its final reading when the radiation-sensitive volume of the instrument system is exposed to a step change in radiation flux from zero, sufficient to provide a steady state midscale reading. 
+
+ (95) "Scattered radiation" means radiation that, during passage through matter, has been deviated in direction (see "Direct scattered radiation"). 
+
+ (96) "Screening" means the use of a systematic approach to obtain cursory examinations of a person or group of persons without regard to specific clinical indications. 
+
+ (97) "Secondary dose monitoring system" means a system which will terminate irradiation in the event of failure of the primary system. 
+
+ (98) "Secondary protective barrier" (see "Protective barrier"). 
+
+ (99) "Shutter" means a device attached to the tube housing assembly which can totally intercept the useful beam and which has a lead equivalency not less than that of the tube housing assembly. 
+
+ (100) "SID" (see "Source-image receptor distance"). 
+
+ (101) "Source" means the focal spot of the X-ray tube. 
+
+ (102) "Source-image receptor distance" means the distance from the source to the center of the input surface of the image receptor. 
+
+ (103) "Spot check" means a procedure which is performed to ensure that a previous calibration continues to be valid. 
+
+ (104) "Spot film" means a radiograph which is made during a fluoroscopic examination to permanently record conditions which exist during that fluoroscopic procedure. 
+
+ (105) "Spot-film device" means a device intended to transport or position a radiographic image receptor between the X-ray source and fluoroscopic image receptor. It includes a device intended to hold a cassette over the input end of an image intensifier for the purpose of making a radiograph. 
+
+ (106) "SSD" means the distance between the source and the skin of the patient. 
+
+ (107) "Stationary equipment" (see "X-ray equipment"). 
+
+ (108) "Stray radiation" means the sum of leakage and scattered radiation. 
+
+ (109) "Supervision" means the supervising individual routinely reviews, directs and monitors the work being performed. There are three categories of supervision: 
+
+ (a) "General supervision" means that the supervisor is not required to be on-site, but must be available for direct communication, either in person, by telephone, or other electronic means. 
+
+ (b) "Direct supervision" means that the supervisor is physically present in the building and immediately available to furnish assistance as needed. 
+
+ (c) "Personal supervision" means that the supervisor is physically present in the room during the performance of the procedure at all times. 
+
+ (110) "Technique factors" means the conditions of operation. They are specified as follows: 
+
+ (a) For capacitor energy storage equipment, peak tube potential in kV and quantity of charge in mAs; 
+
+ (b) For field emission equipment rated for pulsed operation, peak tube potential in kV and number of X-ray pulses; 
+
+ (c) For all other equipment, peak tube potential in kV and either tube current in mA and exposure time in seconds, or the product of tube current and exposure time in mAs. 
+
+ (111) "Termination of irradiation" means the stopping of irradiation in a fashion which will not permit continuance of irradiation without the resetting of operating conditions at the control panel. 
+
+ (112) "Traceable to a national standard" means that a quantity or a measurement has been compared to a national standard directly or indirectly through one or more intermediate steps and that all comparisons have been documented. 
+
+ (113) "Tube" means an X-ray tube, unless otherwise specified. 
+
+ (114) "Tube housing assembly" means the tube housing with tube installed. It includes high-voltage and filament transformers and other appropriate elements when such are contained within the tube housing. 
+
+ (115) "Tube rating chart" means the set of curves which specify the rated limits of operation of the tube in terms of the technique factors. 
+
+ (116) "Unprotected area" means any area in which the exposure rate, due to the use of the radiation machine under normal operating procedures and workload, exceeds any of the following limits: 
+
+ (a) Two mR in any one hour; 
+
+ (b) 100 mR in any seven consecutive days; or 
+
+ (c) 500 mR in any one year. 
+
+ (117) "Useful beam" means the radiation emanating from the tube housing port or the radiation head and passing through the aperture of the beam limiting device when the exposure controls are in a mode to cause the system to produce radiation. 
+
+ (118) "Variable-aperture beam-limiting device" means a beam-limiting device which has capacity for stepless adjustment of the X-ray field size at a given SID. 
+
+ (119) "Visible area" means that portion of the input surface of the image receptor over which the incident X-ray photons are producing a visible image. 
+
+ (120) "Wedge filter" means an added filter effecting continuous progressive attenuation on all or part of the useful beam. 
+
+ (121) "X-ray control" means a device which controls input power to the X-ray high-voltage generator and the X-ray tube. It includes equipment such as exposure switches (control), timers, photo timers, automatic brightness stabilizers and similar devices, which control the technique factors of an X-ray exposure. 
+
+ (122) "X-ray equipment" means an X-ray system, subsystem, or component thereof. Types of equipment are as follows: 
+
+ (a) "Mobile equipment" means X-ray equipment mounted on a permanent base with wheels and casters for moving while completely assembled and intended to be taken from one geographical location to another or from one room to another; 
+
+ (b) "Portable equipment" means X-ray equipment designed to be hand-carried but not hand-held during operations; 
+
+ (c) "Stationary equipment" means X-ray equipment which is installed in a fixed location, such as bolted to the floor or wall; 
+
+ (d) "Transportable" means X-ray equipment installed in a vehicle or trailer; and 
+
+ (e) "Hand-held unit" means a self-contained X-ray machine designed so that it can be held in one or two hands to perform intra-oral radiography or other Authority approved radiography. 
+
+ (123) "X-ray equipment operator" means any individual who handles, adjusts technique factors, activates the exposure switch/ or button of an X-ray machine, or physically positions patients or animals for a radiograph (see "Operator"). 
+
+ (124) "X-ray field" means that area of the intersection of the useful beam and any one of the set of planes parallel to and including the plane of the image receptor, whose perimeter is the locus of points at which the exposure rate is one-fourth of the maximum in the intersection. 
+
+ (125) "X-ray high-voltage generator" means a device which transforms electrical energy from the potential supplied by the X-ray control to the tube operating potential. The device may also include means for transforming alternating current to direct current, filament transformers for the X-ray tube(s), high-voltage switches, electrical protective devices and other appropriate elements. 
+
+ (126) "X-ray system" means an assemblage of components for the controlled production of X-rays. It includes minimally an X-ray high-voltage generator, an X-ray control, a tube housing assembly, a beam-limiting device and the necessary supporting structures. Additional components which function with the system are considered integral parts of the system. 
+
+ (127) "X-ray subsystem" means any combination of two or more components of an X-ray system for which there are requirements specified in this division. 
+
+ (128) "X-ray tube" means any electron tube which is designed to be used primarily for the production of X-rays. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 453.605 - 453.807 
+ 
+ 
+ Statutes/Other Implemented:  ORS 453.605 - 453.807 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 28-2026, amend filed 07/02/2026, effective 07/02/2026 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 172-2022, amend filed 08/11/2022, effective 08/20/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 28-2019, amend filed 12/19/2019, effective 12/19/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 25-2016, f. 8-26-16, cert. ef. 9-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 32-2014, f. 12-22-14, cert. ef. 1-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 10-2011, f. 9-30-11, cert. ef. 10-1-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 5-2011(Temp), f. & cert. ef. 7-1-11 thru 12-27-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 20-2010, f. & cert. ef. 9-1-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 4-2010, f. & cert. ef. 2-16-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 14-2008, f. & cert. ef. 9-15-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 12-2006, f. & cert. ef. 6-16-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 5-2005, f. & cert. ef. 4-11-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 36-2004, f. & cert. ef. 12-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 31-2004(Temp), f. & cert. ef. 10-8-04 thru 4-5-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 3-2003, f. & cert. ef. 3-27-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 1-1995, f. & cert. ef. 4-26-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 15-1994, f. & cert. ef. 5-6-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 1-1991, f. & cert. ef. 1-8-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 4-1985, f. & ef. 3-20-85 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

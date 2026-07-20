@@ -1,0 +1,503 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 122 DURABLE MEDICAL EQUIPMENT, PROSTHETIC ORTHOTICS AND SUPPLIES (DMEPOS) 
+ 410-122-0205 
+ Respiratory Assist Devices
+ 
+ 
+ (1) Indications and limitations of coverage and medical appropriateness: The Division may cover the initial three (3) month trial period of a respiratory assist device (RAD) for clients who are diagnosed with one of the following clinical disorders: Restrictive Thoracic Disorders, Severe Chronic Obstructive Pulmonary Disease (COPD), Central Sleep Apnea (CSA), Complex Sleep Apnea (CompSA), or Hypoventilation Syndrome; and when the criteria for each specific clinical disorder and the following guidelines are met:  
+
+ (2) As referenced in this policy, non-invasive positive pressure respiratory assistance (NPPRA) is the administration of positive air pressure, using a nasal and/or oral mask interface which creates a seal, avoiding the use of more invasive airway access (e.g., tracheostomy).  
+
+ (3) Indications and Coverage — General:  
+
+ (a) The "treating practitioner" must be one who is qualified by virtue of experience and training in non-invasive respiratory assistance, to order and monitor the use of respiratory assist devices (RAD);  
+
+ (b) For the purpose of this policy, polysomnographic studies must be performed in a sleep study laboratory, and not in the home or in a mobile facility. The sleep study laboratory must comply with all applicable state and federal regulatory requirements;  
+
+ (c) For the purpose of this policy, arterial blood gas, sleep oximetry and polysomnographic studies may not be performed by a durable medical equipment, prosthetics, orthotics, and supplies (DMEPOS) provider. For purposes of this policy's coverage and payment guidelines, a DMEPOS provider is not considered a qualified provider or supplier of these tests;  
+
+ (4) Indications and Coverage — Coverage criteria for RAD devices per diagnosed condition:  
+
+ (a) Restrictive Thoracic Disorders:  
+
+ (A) A bilevel device without backup rate (E0470) or a respiratory assist device with a backup rate (E0471) is covered when criteria i-iii are met:  
+
+ (i) There is documentation in the client’s medical record of a neuromuscular disease (for example, amyotrophic lateral sclerosis (ALS), or a severe thoracic cage abnormality (for example, post thoracoplasty for TB);  
+
+ (ii) One of the following:  
+
+ (I) An arterial blood gas PaCO2, done while awake and breathing the client’s prescribed FIO2 is greater than or equal to 45 mm Hg, or   
+
+ (II) Sleep oximetry demonstrates oxygen saturation less than or equal to 88 percent for greater than or equal to five (5) minutes of nocturnal recording time (minimum recording time of two (2) hours), done while breathing the client’s prescribed recommended FIO2, or    
+
+ (III) For a neuromuscular disease (only), either maximal inspiratory pressure is less than 60 cm H@O or forced vital capacity is less than 50 percent predicted;  
+
+ (iii) Chronic obstructive pulmonary disease does not contribute significantly to the client’s pulmonary limitation.  
+
+ (B) If all of the above criteria are met, either an E0470 or an E0471 device will be covered for the first three months of therapy.  
+
+ (b) Severe COPD:  
+
+ (A) An E0470 device is covered if criteria i - iii are met:  
+
+ (i) An arterial blood gas PaCO2, done while awake and breathing the client’s prescribed FIO2, is greater than or equal to 52 mm Hg.  
+
+ (ii) Sleep oximetry demonstrates oxygen saturation less than or equal to 88 percent for greater than or equal to a cumulative five (5) minutes of nocturnal recording time (minimum recording time of two (2) hours), done while breathing oxygen at two (2) LPM or the client’s prescribed FIO2 (whichever is higher).  
+
+ (iii) Prior to initiating therapy, sleep apnea and treatment with a continuous positive airway pressure device (CPAP) has been considered and ruled out. (Note: Formal sleep testing is not required if there is sufficient information in the medical record to demonstrate that the beneficiary does not suffer from some form of sleep apnea (Obstructive Sleep Apnea (OSA), CSA and/or CompSA) as the predominant cause of awake hypercapnia or nocturnal arterial oxygen desaturation).  
+
+ (B) For severe COPD clients who qualified for an E0470 device, an E0471 started any time after a period of initial use of an E0470 device is covered if both criteria i and ii are met:  
+
+ (i) An arterial blood gas PaCO2, done while awake and breathing the client’s prescribed FIO2, shows that the client’s PaCO2 worsens greater than or equal to seven (7) mm Hg compared to the original result from criterion (A)(i), (above).  
+
+ (ii) A facility-based PSG demonstrates oxygen saturation less than or equal to 88 percent for greater than or equal to a cumulative five (5) minutes of nocturnal recording time (minimum recording time of two (2) hours) while using an E0470 device that is not caused by obstructive upper airway events – i.e., AHI less than five (5).   
+
+ (C) For severe COPD clients who qualified for an E0470 device, an E0471 device will be covered if, at a time no sooner than 61 days after initial issue of the E0470 device, both of the following criteria i and ii are met:  
+
+ (i) An arterial blood gas PaCO2 is done while awake and breathing the client’s prescribed FIO2, still remains greater than or equal to 52 mm Hg.  
+
+ (ii) Sleep oximetry while breathing with the E0470 device, demonstrates oxygen saturation less than or equal to 88 percent for greater than or equal to a cumulative five (5) minutes of nocturnal recording time (minimum recording time of two (2) hours), done while breathing oxygen at two (2) LPM or the client’s prescribed FIO2 [whichever is higher].  
+
+ (c) Central Sleep Apnea or Complex Sleep Apnea  
+
+ (A) An E0470 or E0471 device is covered when, prior to initiating therapy, a complete facility-based, attended PSG is performed documenting the following (i and ii):  
+
+ (i) Diagnosis of CSA or CompSA; and  
+
+ (ii) Significant improvement of the sleep-associated hypoventilation with the use of an E0470 or E0471 device on the settings that will be prescribed for initial use at home, while breathing the client’s prescribed FIO2.  
+
+ (B) If all of the above criteria are met, either an E0470 or an E0471 device will be covered for the first three (3) months of therapy.  
+
+ (d) Hypoventilation Syndrome  
+
+ (A) An E0470 device is covered if both criteria i and ii and either criteria iii or iv are met:  
+
+ (i) Initial arterial blood gas PaCO2, done while awake and breathing the client’s prescribed FIO2, is greater than or equal to 45 mm Hg;  
+
+ (ii) Spirometry shows an FEV1/FVC greater than or equal to 70 percent;  
+
+ (iii) Arterial blood gas PaCO2, done during sleep or immediately upon awakening, and breathing the client’s prescribed FIO2, shows the client's PaCO2 worsened greater than or equal to seven (7) mm Hg compared to the original result in criterion (A)(i) (above);  
+
+ (iv) Facility-based PSG or HST demonstrates oxygen saturation less than or equal to 88 percent for greater than or equal to five (5) minutes of nocturnal recording time (minimum recording time of two (2) hours) that is not caused by obstructive upper airway events – i.e., AHI less than five (5).   
+
+ (B) An E0471 device is covered for a client with hypoventilation syndrome if both criteria i, ii, and either criteria iii or iv are met:  
+
+ (i) A covered E0470 device is being used;  
+
+ (ii) Spirometry shows an FEV1/FVC greater than or equal to 70 percent;  
+
+ (iii) Arterial blood gas PaCO2, done while awake, and breathing the client’s prescribed FIO2, shows that the client’s PaCO2 worsens greater than or equal to seven (7) mm Hg compared to the arterial blood gas (ABG) result performed to qualify the client for the E0470 device;  
+
+ (iv) Facility-based PSG or HST demonstrates oxygen saturation less than or equal 88 percent for greater than or equal to five (5) minutes of nocturnal recording time (minimum recording time of two (2) hours) that is not caused by obstructive upper airway events – i.e., AHI less than five (5) while using an E0470 device.  
+
+ (5) Continued Coverage: Prior authorization (PA) is required for ongoing rental of a RAD device beyond the third (3rd) month and may be covered when the conditions for continued coverage in this rule are met. Submit the following documentation with request for authorization prior to the (4th) fourth month date of service:  
+
+ (a) Evaluation completed by the prescribing practitioner no sooner than sixty-one (61) days after initiating use of the RAD device, stating the client is compliantly using the RAD device an average of four (4) hours per twenty-four (24) hour period and the client is benefiting from its use; and  
+
+ (b) Objective evidence of adherence to use of the RAD device, including a summary of RAD compliance report through a direct download of usage.  
+
+ (6) Accessories:  
+
+ (a) Either a non-heated (E0561) or heated (E0562) humidifier is covered and reimbursed separately when ordered by the treating practitioner for use with a covered RAD device. No PA is required;  
+
+ (b) For replacement of accessories beyond initial issue:  
+
+ (A) Suppliers are required to verify the RAD device is still in use;   
+
+ (B) Regardless of utilization, a supplier must not dispense more than a three (3) month quantity of accessories;   
+
+ (C) Automatic shipments on a pre-determined basis, even if authorized by the client or designee, are not allowed. An order refill does not have to be approved by the ordering practitioner. However, a client or their caregiver must request specific ongoing PAP supplies and accessories, subject to rule limitations and requirements, before they are dispensed. The DMEPOS provider shall not automatically dispense a quantity of supplies and accessories on a predetermined regular basis, even if the client has "authorized" this in advance;  
+
+ (c) The following represents the usual maximum number of accessories expected to be medically appropriate:  
+
+ (A) A4604 — 1 per 3 months;  
+
+ (B) A7027 — 1 per 3 months;  
+
+ (C) A7028 — 2 per month;  
+
+ (D) A7029 — 2 per month;  
+
+ (E) A7030 — 1 per 3 months;  
+
+ (F) A7031 — 1 per month;  
+
+ (G) A7032 — 2 per month;  
+
+ (H) A7033 — 2 per month;  
+
+ (I) A7034 — 1 per 3 months;  
+
+ (J) A7035 — 1 per 6 months;  
+
+ (K) A7036 — 1 per 6 months;  
+
+ (L) A7037 — 1 per 3 months;  
+
+ (M) A7038 — 2 per month;  
+
+ (N) A7039 — 1 per 6 months;  
+
+ (O) A7046 — 1 per 6 months.  
+
+ (7) Reimbursement:  
+
+ (a) Rental charges apply toward purchase;  
+
+ (b) Capped rental period begins the date the equipment is dispensed and shall not extend beyond the thirteenth (13th) consecutive month;  
+
+ (c) Equipment is considered purchased upon completion of the capped rental period, after the Division fee schedule purchase price is met, or when the actual charge from the provider is met, whichever is less;  
+
+ (d) When the RAD is not being used as prescribed or client is non-compliant with its use, the DMEPOS provider shall stop billing for the continued rental of the equipment and the purchase of related accessories and supplies.  
+
+ (8) Documentation:  
+
+ (a) The following documentation must be submitted with the request for PA and the original kept on file with the DMEPOS provider:  
+
+ (A) An order for all equipment and accessories including the client's diagnosis, an ICD-10-CM code signed and dated by the treating practitioner;  
+
+ (B) Summary of events from the polysomnogram;  
+
+ (C) Arterial blood gas results, if required under the indications and coverage section;  
+
+ (D) Sleep oximetry results, if required under the indications and coverage section;  
+
+ (E) Treating practitioner statement regarding medical symptoms characteristic of sleep-associated hypoventilation, including, but not limited to daytime hypersomnolence, excessive fatigue, morning headache, cognitive dysfunction, and dyspnea;  
+
+ (F) Other treatments that have been tried and failed. To be submitted in addition to the above at the fourth (4th) month review;  
+
+ (b) Clients currently using BiPapS and BiPap ST are not subject to the new criteria.  
+
+ (9) Table 122-0205-1, Procedure Codes.  
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042 & 414.065 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.065 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 87-2025, amend filed 12/09/2025, effective 12/09/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 51-2015, f. 9-22-15, cert. ef. 10-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 13-2010, f. 6-10-10, cert. ef. 7-1-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 15-2009, f. 6-12-09, cert. ef. 7-1-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 47-2006, f. 12-15-06, cert. ef. 1-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 35-2006, f. 9-15-06, cert. ef. 10-1-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 44-2005, f. 9-9-05, cert. ef. 10-1-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 44-2004, f. & cert. ef. 7-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 25-2004, f. & cert. ef. 4-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 21-2003, f. 3-26-03, cert. ef. 4-1-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 47-2002, f. & cert. ef. 10-1-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 8-2002, f. & cert. ef. 4-1-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 32-2001, f. 9-24-01, cert. ef. 10-1-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 37-2000, f. 9-29-00, cert. ef. 10-1-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 1-2000, f. 3-31-00, cert. ef. 4-1-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,498 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 106 X-RAYS IN THE HEALING ARTS 
+ 333-106-0205 
+ Fluoroscopic X-ray Systems Requirements: Activation of the Fluoroscopic Tube
+ 
+ 
+ (1) X-ray production in the fluoroscopic mode shall be controlled by a device which requires continuous pressure by the fluoroscopist for the entire time of any exposure. When recording serial fluoroscopic images, the fluoroscopist shall be able to terminate the X-ray exposure(s) at any time, but means may be provided to permit completion of any single exposure of the series in process. 
+
+ (2) Proper training in the operation of fluoroscopic X-ray equipment is required for all operators and shall include but not be limited to the following: 
+
+ (a) Principles and operation of the fluoroscopic X-ray machine: 
+
+ (A) Generating X-rays; 
+
+ (B) kVp and mA; 
+
+ (C) Image intensification; 
+
+ (D) High level control versus standard operating mode; 
+
+ (E) Magnification (multi-field); 
+
+ (F) Automatic Brightness Control (ABC); 
+
+ (G) Pulsed versus continuous X-ray dose rates; 
+
+ (H) Image recording modes; 
+
+ (I) Imaging Systems (TV and Digital); and 
+
+ (J) Contrast, noise and resolution. 
+
+ (b) Radiation units: 
+
+ (A) Traditional units; 
+
+ (B) SI units; and 
+
+ (C) Dose Area Product. 
+
+ (c) Typical fluoroscopic outputs: 
+
+ (A) Patient skin entrance dose; 
+
+ (B) Standard Roentgen per minute (R/min) dose rates; and 
+
+ (C) High level/Boost enable Roentgen per minute (R/min) dose rates. 
+
+ (d) Dose reduction techniques for fluoroscopy: 
+
+ (A) Collimation; 
+
+ (B) X-ray tube and image intensifier placement; 
+
+ (C) Patient size versus technique selection; 
+
+ (D) Grid use; 
+
+ (E) Last image hold; 
+
+ (F) Additional beam filtration; 
+
+ (G) Gantry angles; 
+
+ (H) Use of spacer cone; and 
+
+ (I) Pulsed fluoroscopy. 
+
+ (e) Factors affecting personnel dose: 
+
+ (A) Patient dose; 
+
+ (B) Scatter radiation; 
+
+ (C) Tube and image intensifier placement; and 
+
+ (D) Time, distance and shielding. 
+
+ (f) Protective devices: 
+
+ (A) Lead aprons and gloves; 
+
+ (B) Thyroid collars; 
+
+ (C) Protective glasses; 
+
+ (D) Leaded drapes; 
+
+ (E) Bucky slot cover; and 
+
+ (F) Protective shields/barriers. 
+
+ (g) Radiation exposure monitoring: 
+
+ (A) Personnel monitors; 
+
+ (B) Placement of personnel monitors; and 
+
+ (C) Occupational and non-occupational dose limits. 
+
+ (h) Biological effects of X-ray radiation: 
+
+ (A) X-rays and particulate matter; 
+
+ (B) Absorption variables (field size, dose rate, as an example); 
+
+ (C) Scatter radiation; 
+
+ (D) Cell sensitivity; 
+
+ (E) Acute effects; and 
+
+ (F) Latent effects. 
+
+ (i) Applicable regulations: 
+
+ (A) Federal; and 
+
+ (B) Oregon Administrative Rules for the Control of Radiation to include, but not limited to, chapter 333, divisions 101, 103, 106, 111 and 120. 
+
+ (3) The following operators are considered to have met the training requirements in section (2) of this rule: 
+
+ (a) Radiologists currently licensed in Oregon; 
+
+ (b) Non-radiologist practitioners who have successfully completed a training program from an Oregon Health Authority (Authority) approved resource that meets section (2) of this rule, or have been operating fluoroscopic equipment prior to April 11, 2005; 
+
+ (c) Radiologic technologists who have a permanent or temporary license from the Oregon Board of Medical Imaging (OBMI) to practice radiography; 
+
+ (d) Physician associates who have a fluoroscopy permit from the OBMI; 
+
+ (e) Radiology physician's assistants (R.P.A.s) and registered radiology assistants (R.R.A.s) who are licensed by the OBMI; 
+
+ (f) When activating the tube for imaging veterinary patients only, a doctor of veterinary medicine licensed by the Oregon Veterinary Medical Examination Board or veterinary technicians certified by the Oregon Veterinary Medical Examination Board that: 
+
+ (A) Have successfully completed an Authority approved fluoroscopy course; and 
+
+ (B) Have completed the manufacturer’s application training as defined in OAR 333-106-0005; and 
+
+ (g) Students currently enrolled in an approved school of Radiologic Technology as defined in ORS 688.405. 
+
+ (4) Supervision requirements for operators of fluoroscopic equipment. The operation of fluoroscopic equipment by properly trained operators must comply with the following supervisory requirements: 
+
+ (a) Radiologists may operate fluoroscopic equipment with no supervision. 
+
+ (b) A non-radiologist practitioner that is physically present in the room during fluoroscopy use must have an Authority approved fluoroscopy training if: 
+
+ (A) Operating a fluoroscopy machine; or 
+
+ (B) Supervising a fluoroscopy operator. 
+
+ (c) Non-radiologist practitioners who have had proper training in the use and operation of fluoroscopic X-ray equipment may operate fluoroscopic equipment without supervision provided that the registrant arranges to have a radiologist or medical or health physicist assist in: 
+
+ (A) Developing fluoroscopic and radiation safety policies and procedures; 
+
+ (B) Conducting an on-site practical evaluation of the non-radiologist practitioner's knowledge of radiation safety practices and ability to operate the fluoroscopic equipment; and 
+
+ (C) At least annually, review the registrant's fluoroscopy program. The review includes an evaluation of the fluoroscopic on-times Quality Assurance reports, condition of fluoroscopic equipment and compliance with current rules. The registrant shall correct any deficiencies noted by the review. 
+
+ (d) Radiologic technologists who have a permanent or temporary license from the OBMI to practice radiography may operate fluoroscopic equipment under the personal or direct supervision of a radiologist or under the personal supervision of a non-radiologist practitioner who has met the training requirments in section (2) of this rule. 
+
+ (e) An advanced practice registered nurse (APRN) who has obtained an OBMI Limited Fluoroscopy Supervision Permit may provide personal supervision to radiologic technologists who have a permanent or temporary license issued from the OBMI to operate fluoroscopic equipment. 
+
+ (f) Physician associates with fluoroscopy permits may operate fluoroscopy equipment without supervision if they have entered into a collaborative agreement with a physician, podiatric physician or employer. 
+
+ (g) R.R.A.s or R.P.A.s may operate fluoroscopic equipment under the direct supervision of a radiologist. 
+
+ (h) Physician associates licensed with the Oregon Medical Board while completing specific clinical experience pre-requisites to become eligible to take the OBMI fluoroscopy permit examination, may operate fluoroscopy equipment under personal supervision of the physician associate’s supervising physician, licensed radiologist, licensed radiographer or medical physicist. 
+
+ (i) Students currently enrolled in an approved school of radiologic technology as defined in ORS 688.405, may operate fluoroscopic equipment under the personal supervision of a radiologist or a radiologic technologist (R.T.) while in the clinical phase of training. 
+
+ (5) The operation of fluoroscopic equipment is restricted to the healing arts exclusively for the purpose of localization and to assist physicians in obtaining images for diagnostic purposes. 
+
+ (6) Overhead fluoroscopy is not to be used as a positioning tool for radiographic examinations except for those fluoroscopic examinations specified in the registrant's written policies/procedures for fluoroscopy. 
+
+ (7) All images formed by the use of fluoroscopy shall be viewed, directly or indirectly, and interpreted by a radiologist, cardiologist, non-radiologist practitioner or other qualified specialist. R.R.A.s and R.P.A.s may issue a preliminary report; however, the final report must be issued by their supervising radiologist. 
+
+ (8) Written procedures for fluoroscopic X-ray equipment operators shall be available at the worksite and include: 
+
+ (a) A list of all individuals who are permitted to operate fluoroscopic X-ray equipment at the facility; 
+
+ (b) A list of the fluoroscopic X-ray equipment that each operator is qualified to operate; 
+
+ (c) Written procedures regarding the set up and operation of each fluoroscopic X-ray machine registered to the facility; 
+
+ (d) Written radiation safety procedures pertaining to the use and operation of fluoroscopy; and 
+
+ (e) The name and title of the individual who is responsible for overseeing the fluoroscopy program. 
+
+ (9) Facilities shall determine, or cause to be determined, the typical patient entrance exposure rate for their most common fluoroscopic examinations. The determination shall be made using an attenuation block as described in OAR 333-106-0005 using measurement protocol in compliance with OAR 333-106-0210 and expressed in Roentgens per minute (R/min.) or milliRoentgens per minute (mR/min.). In addition, these entrance exposure rates shall be posted in the room where fluoroscopic examinations are conducted so that they are readily available to administrators, X-ray operators, patients and practitioners. 
+
+ (10) Facilities that utilize fluoroscopy shall maintain a record of the cumulative fluoroscopic exposure time used for each examination. The record must indicate the patient's name, the type of examination, the date of the examination, the fluoroscopist's name, the fluoroscopic room in which the examination was done and the total cumulative fluoroscopic on-time for each fluoroscopic examination and: 
+
+ (a) Established cumulative fluoroscopic on-time benchmarks for at least two (if applicable) of the most common types of fluoroscopic examinations performed at the facility’s site in each of the following categories: 
+
+ (A) Routine procedures performed on adults; 
+
+ (B) Routine procedures performed on children; 
+
+ (C) Orthopedic procedures performed in surgery; 
+
+ (D) Urologic procedures performed in surgery; 
+
+ (E) Angiographic procedures performed; and 
+
+ (F) Interventional cardiac studies. 
+
+ (b) Develop and perform periodic (not to exceed 12 month intervals) quality assurance studies to determine the status of each individual fluoroscopist's cumulative on-time in relation to the fluoroscopic benchmarks established for individual fluoroscopic examinations; 
+
+ (c) Take appropriate action when the established benchmarks are consistently exceeded. The Radiation Safety Committee (RSC) must review the results of the cumulative fluoroscopic on-time Quality Assurance Study and take corrective action regarding those individuals who have exceeded the benchmarks established by the facility for a particular procedure more than 10 percent of the total times the individual performed the procedure during the study period. Documentation of the RSC review, as well as any corrective actions taken, must be available for Authority review. Corrective actions, at a minimum, include: 
+
+ (A) Notification of the individual; and 
+
+ (B) Recommendation that the individual undergo additional coaching and training in the safe use of fluoroscopic equipment in order to assist them in reducing their cumulative fluoroscopic on-times. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 453.605 - 453.807 
+ 
+ 
+ Statutes/Other Implemented:  ORS 453.605 - 453.807 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 28-2026, amend filed 07/02/2026, effective 07/02/2026 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 64-2024, minor correction filed 06/06/2024, effective 06/06/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 172-2022, amend filed 08/11/2022, effective 08/20/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 81-2021, amend filed 11/19/2021, effective 11/23/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 72-2020, amend filed 10/09/2020, effective 10/09/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 28-2019, amend filed 12/19/2019, effective 12/19/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 16-2019, amend filed 09/19/2019, effective 09/19/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 25-2016, f. 8-26-16, cert. ef. 9-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 32-2014, f. 12-22-14, cert. ef. 1-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 4-1985, f. & ef. 3-20-85 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

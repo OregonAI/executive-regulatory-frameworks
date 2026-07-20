@@ -1,0 +1,848 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Department of Education 
+ Chapter 581 
+ 
+ 
+ 
+ 
+ 
+ Division 15 SPECIAL EDUCATION 
+ 581-015-2000 
+ Definitions
+ 
+ 
+ The definitions below apply to OARs 581-015-2000–581-015-2999, unless the context indicates otherwise. 
+
+ (1) "Adult student" is a student for whom special education procedural safeguard rights have transferred as described in OAR 581-015-2325. 
+
+ (2) "Assistive technology device" means any item, piece of equipment, or product system, whether acquired commercially off the shelf, modified, or customized, that is used to increase, maintain, or improve the functional capabilities of a child with a disability. The term does not include a medical device that is surgically implanted, or the replacement of such device. 
+
+ (3) "Assistive technology service" means any service that directly assists a child with a disability in the selection, acquisition, or use of an assistive technology device. The term includes: 
+
+ (a) The evaluation of the needs of a child with a disability, including a functional evaluation of the child in the child's customary environment; 
+
+ (b) Purchasing, leasing, or otherwise providing for the acquisition of assistive technology devices by children with disabilities; 
+
+ (c) Selecting, designing, fitting, customizing, adapting, applying, maintaining, repairing, or replacing assistive technology devices; 
+
+ (d) Coordinating and using other therapies, interventions, or services with assistive technology devices, such as those associated with existing education and rehabilitation plans and programs; 
+
+ (e) Training or technical assistance for a child with a disability or, if appropriate, that child's family; and 
+
+ (f) Training or technical assistance for professionals (including individuals providing education or rehabilitation services), employers, or other individuals who provide services to, employ, or are otherwise substantially involved in the major life functions of that child. 
+
+ (4) “Audiological assessment” means an assessment given by an audiologist licensed under ORS chapter 681 or by the appropriate authority in another state. 
+
+ (5)(a) "Children with disabilities" or "students with disabilities" means children or students evaluated in accordance with OAR 581-015-2100 through 581-015-2180 as having autism spectrum disorder; speech or language impairment; deafblindness; developmental delay; emotional behavior disability; deaf or hard of hearing; intellectual disability; orthopedic impairment; other health impairment; specific learning disability; traumatic brain injury; or visual impairment, including blindness, and who, by reason thereof, need special education and related services. 
+
+ (A) If it is determined through an appropriate evaluation in accordance with OAR 581-015-2100 through 581-015-2180, that a child has one of the disabilities identified above, but only needs a related service and not special education, the student is not a student with a disability under this OAR. 
+
+ (B) If, consistent with OAR 581-015-2000, the related service required by the child is considered special education rather than a related service, the child would be determined to be a child with a disability under this OAR. 
+
+ (b) The terms used in the definition of a child with a disability are defined as follows: 
+
+ (A) “Autism Spectrum Disorder” means a developmental disability that includes persistent deficits in social communication and social interaction across multiple contexts; and restricted, repetitive patterns of behavior, interests, or activities. Characteristics are generally evident before age three but may not become fully evident until social demands exceed limited capacities, or may be masked by learned strategies. Characteristics cause educationally and developmentally significant impairment in social, occupational, or other important areas of current functioning. The term does not apply if a child's educational performance is adversely affected primarily because the child has an emotional behavior disability. However, a child who qualifies for special education under the category of autism spectrum disorder may also have an emotional behavior disability as a secondary disability if the child meets the criteria under emotional behavior disability. The term “Autism Spectrum Disorder” is equivalent to the term “autism” used in 34 CFR § 300.8. 
+
+ (B) "Deaf or Hard of Hearing" means an impairment in hearing, whether permanent or fluctuating, that is so severe that the child is impaired in processing linguistic information through hearing, with or without amplification. 
+
+ (i) For early intervention: This impairment in hearing must currently affect or have the potential to significantly affect an infant or toddler’s developmental progress. The infant or toddler's hearing level does not need to be presently affecting their development for the infant or toddler to be eligible for early intervention services. 
+
+ (ii) For early childhood and school age special education: This impairment in hearing must adversely affect the child's developmental progress (age 3 through 5) or educational performance (age 5 through 21). 
+
+ (C) "Deafblindness" means having both hearing and visual impairments, the combination of which causes such severe communication and other developmental and educational problems needs that the child cannot be accommodated in special education programs designed solely for students who are deaf or hard of hearing or have a visual impairment. 
+
+ (D) "Developmental Delay" means: 
+
+ (i) For early intervention, 2 standard deviations or more below the mean in one or more of the developmental areas, or 1.5 standard deviations below the mean in two or more of the developmental areas; 
+
+ (ii) For early childhood and school age special education, 1.5 standard deviations or more below the mean in two or more of the developmental areas; that 
+
+ (I) For age 3 to kindergarten, adversely affects the child's developmental progress; 
+
+ (II) For kindergarten through age 9, adversely affects the student's educational performance. 
+
+ (iii) For the purposes of this definition, the developmental areas are: cognitive development, physical development, communication development, social or emotional development, and adaptive development. 
+
+ (E) "Emotional Behavior Disability" means a condition exhibiting one or more of the following characteristics over a long period of time and to a marked degree that adversely affects a child's educational performance: 
+
+ (i) An inability to learn that cannot be explained by intellectual, sensory, or health factors; 
+
+ (ii) An inability to build or maintain satisfactory interpersonal relationships with peers and teachers; 
+
+ (iii) Inappropriate types of behavior or feelings under normal circumstances; 
+
+ (iv) A general pervasive mood of unhappiness or depression; or 
+
+ (v) A tendency to develop physical symptoms or fears associated with personal or school problems; 
+
+ (vi) The term includes schizophrenia but does not apply to children who are socially maladjusted, unless it is determined that they have an emotional behavior disability. 
+
+ (F) "Intellectual Disability" means significantly subaverage general intellectual functioning, and includes a student whose intelligence test score is two or more standard deviations below the norm on a standardized individual intelligence test, existing concurrently with deficits in adaptive behavior and manifested during the developmental period, and that adversely affects a child's educational performance. 
+
+ (G) "Orthopedic Impairment" means a motor disability that adversely affects the infant or toddler's development or a child’s educational performance. The term includes impairments caused by an anomaly, disease or other conditions (e.g., cerebral palsy, spina bifida, muscular dystrophy or traumatic injury). 
+
+ (H) "Other Health Impairment" means limited strength, vitality, or alertness, including a heightened alertness to environmental stimuli, that results in limited alertness with respect to the educational environment, that: 
+
+ (i) Is due to chronic or acute health problems (e.g., a heart condition, tuberculosis, rheumatic fever, nephritis, asthma, sickle cell anemia, hemophilia, epilepsy, lead poisoning, attention deficit disorder, attention deficit hyperactivity disorder, leukemia, Tourette's syndrome, or diabetes); and 
+
+ (ii) Adversely affects a child's educational performance. 
+
+ (I) "Specific Learning Disability" means a disorder in one or more of the basic psychological processes involved in understanding or in using language, spoken or written, that may manifest itself in the imperfect ability to listen, think, speak, read, write, spell, or to do mathematical calculations. Specific learning disability includes conditions such as perceptual disabilities, brain injury, minimal brain dysfunction, dyslexia, and developmental aphasia. The term does not include learning problems that are primarily the result of visual, hearing, or motor disabilities, intellectual disability, emotional behavior disability, or of environmental, cultural, or economic disadvantage. 
+
+ (J) "Speech or Language Impairment" means the impairment of speech articulation, voice, fluency, or the impairment or deviant development of language comprehension and/or expression, or the impairment of the use of a spoken or other symbol system that adversely affects educational performance. The language impairment may be manifested by one or more of the following components of language: morphology, syntax, semantics, phonology, and pragmatics. 
+
+ (K) "Traumatic Brain Injury" means an acquired injury to the brain caused by an external physical force resulting in total or partial functional disability or psychosocial impairment, or both. The term includes open or closed head injuries resulting in impairments in one or more areas, including cognition, language, memory, attention, reasoning, abstract thinking, judgment, problem-solving; sensory, perceptual, and motor abilities, psychosocial behavior, physical functions, information processing, and speech. Traumatic brain injury does not apply to brain injuries that are congenital or degenerative, or brain injuries induced by birth trauma. Students with brain injuries that are congenital or degenerative, or brain injuries induced by birth trauma, are not eligible under the category of traumatic brain injury but may be eligible under a different category. 
+
+ (i) For early intervention: The infant or toddler’s disability does not need to be presently affecting their development for the infant or toddler to be eligible for early intervention services. 
+
+ (ii) For early childhood and school age: The acquired injury to the brain caused by an external physical force, resulting in total or partial functional disability or psychosocial impairment, or both, that adversely affects a child's developmental progress (age 3 to 5) or educational performance (age 5 to 21). 
+
+ (L) "Visual Impairment" means an impairment in vision that, even with correction, adversely affects a child's educational performance. The term visual impairment includes low vision, total blindness, limited visual acuity after correction, restricted visual field, and progressive eye conditions. 
+
+ (6) "Consent" means that: 
+
+ (a) The parent or adult student has been fully informed of all information relevant to the activity for which consent is sought, in the parent's native language or other mode of communication; 
+
+ (b) The parent or adult student understands and agrees in writing to the carrying out of the activity for which consent is sought; and the consent describes that activity and lists any records that will be released and to whom; and 
+
+ (c) The parent or adult student understands that the granting of consent is voluntary and may be revoked at any time in accordance with OAR 581-015-2090(4) or 581-015-2735. 
+
+ (7) "Day" means calendar day unless otherwise indicated as: 
+
+ (a) "Business day," which means Mondays through Fridays, other than holidays; or as 
+
+ (b) "School day," which means any day, including partial days that children are in attendance at school for instructional purposes. The term "school day" has the same meaning for all children in school, including those with and without disabilities. 
+
+ (8) "Department" means the Oregon Department of Education. 
+
+ (9) “Developmental History” means gathering information regarding the following: the child’s prenatal and birth history, including prenatal exposure to alcohol, prescription and non-prescription medications, or other drugs; meeting of developmental milestones; socialization and behavioral patterns; health and physical/medical history; family and environmental factors; home and educational performance; trauma or significant stress experienced by the child; and the display of characteristics of any additional learning or behavioral problems. 
+
+ (10) "EI/ECSE" means early intervention/early childhood special education and refers to services or programs for infants, toddlers, and preschool children with disabilities. 
+
+ (11) "Elementary or secondary school or facility" means a school or facility with any combination of grades K through 12. 
+
+ (12) "Evaluation" means procedures used to determine whether the child has a disability, and the nature and extent of the special education and related services that the child needs. 
+
+ (13) "General education curriculum" means the same curriculum as for children without disabilities. For preschool children with disabilities, the term means age-appropriate activities. 
+
+ (14) "Homeless children" (or "homeless youth") has the same meaning as in section 725 of the McKinney-Vento Act, 42 USC § 11434a (2). 
+
+ (15) "Identification" means the process of determining a child's disability and eligibility for special education and related services. 
+
+ (16) "Individualized Education Program" (IEP) means a written statement of an educational program which is developed, reviewed, revised and implemented for a school-aged child with a disability. 
+
+ (17) "Individualized Family Service Plan" (IFSP) is defined in OAR 581-051-2700. 
+
+ (18) "Limited English proficient" has the same meaning as in the Elementary and Secondary Education Act, 20 USC § 9101(25). 
+
+ (19) "Mediation" means a voluntary process in which an impartial mediator assists and facilitates two or more parties to a controversy in reaching a mutually acceptable resolution of the controversy and includes all contacts between a mediator and any party or agent of a party, until such a time as a resolution is agreed to by the parties or the mediation process is terminated. 
+
+ (20) "Medical Examination" means an examination conducted by: 
+
+ (a) A physician licensed under ORS chapter 677 or by the appropriate authority in another state; 
+
+ (b) A naturopathic physician licensed under ORS chapter 685 or by the appropriate authority in another state; 
+
+ (c) A nurse practitioner licensed under ORS 678.375 to 678.390 or by the appropriate authority in another state; or 
+
+ (d) A physician associate licensed under ORS 677.505 to 677.525 or by the appropriate authority in another state. 
+
+ (21) "Native language", when used with respect to a person who is limited English proficient, means the language normally used by that person or, in the case of a child, the language normally used by the parent of the child. For an individual who is deaf or hard of hearing, with blindness, with deafblindness or with no written language, the term means the mode of communication normally used by the person (such as sign language, Braille, or oral communication). In direct contact with a child, the term means the language normally used by the child. 
+
+ (22) "Parent" means: 
+
+ (a) One or more of the following persons: 
+
+ (A) A biological or adoptive parent of the child; 
+
+ (B) A foster parent of the child; 
+
+ (C) A legal guardian, other than a state agency; 
+
+ (D) An individual acting in the place of a biological or adoptive parent (including a grandparent, stepparent, or other relative) with whom the child lives, or an individual who is legally responsible for the child's welfare; or 
+
+ (E) A surrogate parent who has been appointed in accordance with OAR 581-015-2320, for school-age children, or 581-015-2760 for preschool children. 
+
+ (b) Except as provided in subsection (c), if more than one party is qualified under subsection (a) to act as a parent and the biological or adoptive parent is attempting to act as the parent, the biological or adoptive parent is presumed to be the parent unless the biological or adoptive parent does not have legal authority to make educational decisions for the child. 
+
+ (c) If a judicial decree or order identifies a specific person under subsection (a) to act as the parent of a child or to make educational decisions on behalf of a child, then that person will be the parent for special education purposes. 
+
+ (23) "Participating agency" means a state or local agency, other than the school district responsible for a student's education that is financially and legally responsible for providing transition services to the student. 
+
+ (24) "Personally identifiable information" means information as defined in the Family Educational Rights and Privacy Act (FERPA), found at 34 CFR 99.3, which includes, but is not limited to: 
+
+ (a) The name of the child, the child's parent, or other family member; 
+
+ (b) The address of the child or the child’s family; 
+
+ (c) A personal identifier, such as the child's social security number or student number, or biometric record; and 
+
+ (d) Other indirect identifiers, such as the child’s date of birth, place of birth, and mother’s maiden name; 
+
+ (e) Other information that alone or in combination is linked or linkable to a specific child that would allow a reasonable person in the school community, who does not have personal knowledge of the relevant circumstances, to identify the child with reasonable certainty; or 
+
+ (f) Other information requested by a person who the educational agency or institution reasonably believes knows the identity of the student to whom the education record relates. 
+
+ (25) "Placement" means educational placement, not social service placement by a state agency. 
+
+ (26) "Preschool child" means "preschool child with a disability" as defined under OAR 581-015-2700. 
+
+ (27) "Private school" means an educational institution or agency not operated by a public agency. 
+
+ (28) "Public agency" means a school district, an education service district, a state agency or institution, EI/ECSE contractor or subcontractor, responsible for early intervention, early childhood special education or special education. 
+
+ (29) "Related services" includes transportation and such developmental, corrective and other supportive services as are required to assist a child with a disability to benefit from special education, and includes orientation and mobility services, speech-language pathology and audiology services, interpreting services, psychological services, physical and occupational therapy, recreation including therapeutic recreation, school health services and school nurse services, counseling services including rehabilitation counseling services, social work services in schools, parent counseling and training, school health services and medical services for diagnostic or evaluation purposes, and includes early identification and assessment of disabling conditions in children. This definition incorporates the exception for services for children with surgically implanted devices, including cochlear implants, in 34 CFR § 300.34(b) and the definitions for individual related services in 34 CFR § 300.34(c). 
+
+ (30) "School age child or children" means a child or children who have reached 5 years of age but have not reached 21 years of age on or before September 1 of the current school year. 
+
+ (31) “Scientifically Based Research” is defined in section 9101(37) of the Elementary and Secondary Education Act of 1965, as amended ESEA. 
+
+ (32) School district" means the public education agency (school district, ESD, or state agency) that is responsible by statute, rule or contract for providing education to children with disabilities. 
+
+ (33) "Services plan" is defined in OAR 581-015-2450. 
+
+ (34) “Sheltered Workshop” is a facility in which individuals with disabilities, including intellectual or developmental disabilities, are congregated for the purpose of receiving employment services and performing work tasks for pay at the facility. A Sheltered Workshop primarily employs these individuals with the exception of service support staff. A Sheltered Workshop is a fixed site that is owned, operated, or controlled by a provider, where an individual has few or no opportunities to interact with nondisabled individuals, except paid support staff. A Sheltered Workshop is not Small Group Employment in an Integrated Employment Setting as defined in Executive Order 15-01, and is not otherwise an Integrated Employment Setting as defined in Executive Order 15-01. 
+
+ (35) "Short term objectives" means measurable intermediate performance steps that will enable parents, students and educators to gage, at intermediate times during the year, how well the child is progressing toward the annual goals by either: 
+
+ (a) Breaking down the skills described in the goal into discrete components, or 
+
+ (b) Describing the amount of progress the child is expected to make within specified segments of the year. 
+
+ (36) "Special education" means specially designed instruction that is provided at no cost to parents to meet the unique needs of a child with a disability. “Special education” includes instruction that: 
+
+ (a) May be conducted in the classroom, the home, a hospital, an institution, a special school or another setting; and 
+
+ (b) May involve physical education services, speech-language services, transition services or other related services designated by rule to be services to meet the unique needs of a child with a disability. 
+
+ (37) "Specially designed instruction" means adapting, as appropriate to the needs of an eligible child under this part, the content, methodology, or delivery of instruction: 
+
+ (a) To address the unique needs of the child that result from the child's disability; and 
+
+ (b) To ensure access of the child to the general curriculum, so that the child can meet the educational standards within the jurisdiction of the public agency that apply to all children. 
+
+ (38) "Supplementary aids and services" means aids, services and other supports that are provided in regular education classes or other education-related settings and in extracurricular and nonacademic settings to enable children with disabilities to be educated with children without disabilities to the maximum extent appropriate. 
+
+ (39) "Superintendent" means the State Superintendent of Public Instruction or the designee of the State Superintendent of Public Instruction. 
+
+ (40) "Surrogate parent" means an individual appointed under OAR 581-015-2320 for school age children or 581-015-2760 for preschool children who acts in place of a biological or adoptive parent in safeguarding a child's rights in the special education decision-making process. 
+
+ (41) "Transition services" means a coordinated set of activities for a student with a disability that: 
+
+ (a) Is designed to be within a results-oriented process, that is focused on improving the academic and functional achievement of the student to facilitate the student's movement from school to post-school activities, including postsecondary education, vocational education, integrated employment (including supported employment), continuing and adult education, adult services, independent living, or community participation; 
+
+ (b) Is based on the individual student's needs, taking into account the student's preferences and interests; and 
+
+ (c) Includes: 
+
+ (A) Instruction; 
+
+ (B) Related services; 
+
+ (C) Community experiences; 
+
+ (D) The development of employment and other postschool adult living objectives; and 
+
+ (E) If appropriate, acquisition of daily living skills and functional vocational evaluation; and 
+
+ (d) May be special education, if provided as specially designed instruction, or related services, if required to assist a student with a disability to benefit from special education. 
+
+ (42) “Vision examination” means an examination conducted by; 
+
+ (a) A person licensed to practice optometry under ORS chapter 683 or by the appropriate authority in another state; or 
+
+ (b) A physician who specializes in ophthalmology and who is licensed under ORS chapter 677 or by the appropriate authority in another state. 
+
+ (43) "Ward of the state" means child who is in the temporary or permanent custody of, or committed to, the Department of Human Services or Oregon Youth Authority through the action of the juvenile court 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 343.041, 343.045, 343.155 & 343.223 
+ 
+ 
+ Statutes/Other Implemented:  ORS 343.045, 343.155, 343.223, 34 CFR 300.5, 300.6, 300.8, 300.11, 300.15, 300.19, 300.22, 300.27, 300.28, 300.29, 300.30, 300.34, 300.37, 300.39, 300.42, 300.43 & 300.45 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ODE 11-2025, minor correction filed 03/13/2025, effective 03/13/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ODE 24-2023, amend filed 12/08/2023, effective 12/08/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ODE 10-2023, amend filed 03/29/2023, effective 03/29/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ODE 118-2019, amend filed 09/09/2019, effective 09/09/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ODE 24-2019, temporary amend filed 07/01/2019, effective 07/01/2019 through 12/27/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ODE 14-2019, amend filed 05/17/2019, effective 05/17/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ODE 13-2019, amend filed 05/17/2019, effective 07/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ODE 10-2019, temporary amend filed 03/25/2019, effective 03/25/2019 through 05/16/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ODE 24-2018, amend filed 06/28/2018, effective 06/29/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ODE 9-2015, f. & cert. ef. 7-13-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ODE 47-2014, f. & cert. ef. 12-17-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ODE 41-2014(Temp), f. & cert. ef. 9-8-14 thru 3-7-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ODE 29-2013, f. & cert. ef. 12-18-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ODE 14-2012, f. 3-30-12, cert. ef. 4-2-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ODE 12-2011, f. & cert. ef. 10-31-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ODE 13-2009, f. & cert. ef. 12-10-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ODE 26-2008, f. 10-23-08, cert. ef. 10-24-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 581-015-0005, ODE 10-2007, f. & cert. ef. 4-25-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ODE 2-2003, f. & cert. ef. 3-10-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ODE 10-2000, f. & cert. ef. 5-3-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EB 22-1995, f. & cert. ef. 9-15-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EB 18-1994, f. & cert. ef. 12-15-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EB 9-1993, f. & cert. ef. 3-25-93 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EB 16-1992, f. & cert. ef. 5-13-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EB 25-1991(Temp), f. & cert. ef. 11-29-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EB 3-1990, f. & cert. ef. 1-26-90 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EB 28-1989(Temp), f. & cert. ef. 10-16-89 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EB 18-1989, f. & cert. ef. 5-15-89 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EB 39-1988(Temp), f. & cert. ef. 11-15-88 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 1EB 5-1985, f. 1-30-85, ef. 1-31-85 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ Reverted to 1EB 5-1980, f. 2-22-80, ef. 2-23-80 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 1EB 18-1983(Temp), f. & ef. 12-20-83 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 1EB 5-1980, f. 2-22-80, ef. 2-23-80 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 1EB 18-1979(Temp), f. & ef. 11-15-79 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 1EB 35-1978, f. & ef. 10-5-78 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 1EB 8-1978, f. & ef. 3-3-78 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

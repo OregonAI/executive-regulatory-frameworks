@@ -1,0 +1,248 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Building Codes Division - Chapter 918 
+ 
+ 
+ 
+ 
+ Division 200 AMUSEMENT RIDE AND DEVICE SPECIALTY CODE 
+ 918-200-0070 
+ General Standards and Requirements
+ 
+ 
+ (1) All codes, standards, and publications adopted by reference in these rules are adopted pursuant to OAR 918-008-0000. 
+(2) Except for devices and equipment subject to OAR 918-200-0065, amusement rides and devices subject to inspection and permit under these rules shall be manufactured, installed and maintained according to American Society for Testing and Materials (ASTM) Standards and by the additional standards adopted in these rules. 
+(3) Effective April 1, 2015 the Oregon Amusement Ride and Device Specialty Code consists of the following: 
+(a) ASTM F1159 — 2011, Standard Practice for Design and Manufacture of Patron Directed, Artificial Climbing Walls, Dry Slide, Coin Operated and Purposeful Water Immersion Amusement Rides and Devices and Air-Supported Structures. 
+(b) ASTM F1193 — 2014, Standard Practice for Quality, Manufacture, and Construction of Amusement Rides and Devices. 
+(c) ASTM F1957 — 1999 (2011), Standard Test Method for Composite Foam Hardness — Durometer Hardness. 
+(d) ASTM F2007 – 2012, Standard Practice for Design, Manufacture, and Operation of Concession Go-Karts and Facilities. 
+(e) ASTM Standard F2137 – 2013, Standard Practice for Measuring the Dynamic Characteristics of Amusement Rides and Devices. 
+(f) ASTM Standard F2291 – 2014, Standard Practice for Design of Amusement Rides and Devices. 
+(g) ASTM F2374 – 2010, Standard Practice for Design, Manufacture, Operation, and Maintenance of Inflatable Amusement Devices. 
+(h) ASTM F2375 – 2009, Standard Practice for Design, Manufacture, Installation and Testing of Climbing Nets and Netting/Mesh used in Amusement Rides, Devices, Play Areas and Attractions. 
+(i) ASTM F2460 – 2011, Standard Practice for Special Requirements for Bumper Boats. 
+(j) ASTM F2959 – 2012, Standard Practice for Special Requirements for Aerial Adventure Courses. 
+(4) Daily Operating Inspection: 
+(a) Each amusement ride shall be given a daily operating inspection by the ride operator before any passenger is permitted to ride. Results of these daily inspections shall be recorded and kept on file by the operator for at least two years, and made available upon request by the division; 
+(b) A ride or device not properly assembled or defective or unsafe in any of its parts, controls, or safety equipment shall not be operated. 
+(5) Control of Operation: 
+(a) Every ride operator shall be trained in the use and function of all normal operating controls, signal systems and safety devices applicable to the ride or device and of the proper use, function, capacity and speed of the particular ride or device being operated. A ride operator shall be at the operating controls during operation and shall have complete control of the ride or device at all times the ride is operated for public use. When the ride or device is shut down the controls shall be locked or incapacitated to avoid unauthorized operation; 
+(b) Except for amusement devices designed to be operated or controlled by a passenger, only trained ride operators shall handle the controls during normal operation. 
+(6) A ride or device shall not be loaded beyond its rated capacity or operated at an unsafe speed or at any speed greater than that prescribed by the design engineer or manufacturer. When this information is not available, the operator shall develop criteria for safe operating speeds and rated capacity to the satisfaction of the division. 
+(7) An operator shall report by telephone to the division as soon as practicable, any accident that occurs from the operation of an amusement ride or device, and that results in death, serious injury or property damage in excess of $5,000. A written report shall be filed with the division within five working days following the accident. If the accident is a result of equipment failure, the device shall not be operated until it is inspected by an inspector authorized by these rules to inspect the device. 
+(8) Public Protection: 
+(a) An amusement device shall not be operated while any person is in a position to be in danger of harm or injury. Areas of potential danger shall be fenced, barricaded or otherwise guarded; 
+(b) Amusement rides and devices shall not be assembled, disassembled, or operated in a location that at any time may be nearer to energized overhead power lines than: 
+(A) For lines rated 600 volts or less, minimum clearance between the lines and any part of a lifting crane, ride structure, concession booth, building or equipment shall be 15 feet; 
+(B) For lines rated over 600 volts, minimum clearance between the lines and the lifting crane, ride, structure, concession booth, building or equipment shall be 15 feet. 
+(c) Internal Combustion Power Sources: 
+(A) Internal combustion power sources shall be of adequate type, design and capacity to handle the design load; 
+(B) Fuel tanks should be of adequate capacity to permit uninterrupted operation during normal operating hours. Where it is impossible to provide tanks of proper capacity for a complete day, the ride or device shall be shut down and unloaded or evacuated during the refueling procedure. The fuel supply shall not be replenished while the engines are running; 
+(C) An enclosed area in which an internal combustion engine is operated shall be ventilated. Exhaust fumes shall be discharged outside the area. The equipment shall be properly grounded; 
+(D) Internal combustion power sources shall be located in a manner permitting proper maintenance and be protected by guards, fencing or enclosure to prevent exposure to hazard and to secure the equipment from the public; 
+(E) The operator shall provide and maintain portable fire extinguishers of the classification, capacity and number prescribed by the State Fire Marshal; 
+(F) Liquid petroleum gas employed either as fuel for internal combustion engines, for heat, or for illumination shall be stored in a manner approved by the State Fire Marshal; 
+(G) All flammable liquids shall be stored and handled according to State Fire Marshal standards. Bulk storage in quantities above 60 gallons shall not be in the area accessible to the public. 
+(d) Interior and exterior parts with which passengers may come in contact shall be smooth, rounded, free from sharp, rough or splintered edges or corners, and with no protruding screws or projections which might cause injury. Parts upon or against which passengers might be thrown by action of the ride shall be adequately padded to prevent or minimize the possibility of injury. 
+(9) Electrical Standards: 
+(a) Code. Permanent electrical conductors and equipment installed on or around permanent and temporary amusement parks, carnivals, amusement rides or devices shall conform to the Oregon Electrical Specialty Code. Temporary electrical conductors and equipment, and permanent conductors and equipment within permanent rides and devices shall conform to manufacturers’ specifications. Electrical equipment and wiring methods in or on rides, concessions or other units shall be provided with mechanical protection where such equipment or wiring methods are subject to physical damage; 
+(b) Portable Power Outlets and Terminal Boxes. Boxes shall be designed so that no live parts are exposed to accidental contact. Where installed outdoors, the box shall be of weatherproof construction and mounted so that the bottom of the enclosure is not less than six inches above the ground. Boxes shall be kept locked where located in an area accessible to the general public. Receptacles of the grounding type shall have overcurrent protection. Service power shall be connected to the box by receptacles mounted on the exterior walls with safety grounding. Receptacles of the grounding type shall have overcurrent protection within the box. The overcurrent protection shall not exceed the ampere rating of the receptacle, except as permitted for motors. Branch circuits shall include means for equipment grounding and shall connect to receptacles mounted on the box. Exterior openings shall be provided with protective covers, draining eaves or canvas. Conductors fed directly through an opening on the wall of the box shall be color-coded, properly sized, and provided with strain relief. Fuses or breakers shall be secured solidly and all connections within the boxes are to be made with threaded screws and lugs of the proper size. Busbars shall have an ampere rating not less than the overcurrent device supplying the box. Where conductors terminate directly on busbars, busbar connectors shall be provided; 
+(c) Wiring Methods. Flexible cords and cables shall be permitted for temporary installations provided they are listed for extra hard usage, wet location and be sunlight resistant. Flexible cords and cables supplying power to the disconnecting means of a ride or device shall not be smaller than #10 AWG (American Wire Gauge) and shall contain an equipment-grounding conductor. Metal enclosures of electric equipment and metal frames and metal parts of rides, concessions, trailers, trucks or other equipment that support or contain electrical equipment shall be grounded and bonded to the same source. Single conductor cable shall be permitted only in sizes #2 and larger. Open conductors are prohibited except as part of a listed assembly or for festoon lighting. Flexible cords and cables shall be continuous without splice or taps between boxes or fittings. A box or fitting shall be installed at each connection point, outlet, switchpoint or junction point. Flexible cords or cables run on the ground, where accessible to the public, shall be covered with nonconductive mats. Cables and mats shall be arranged so as not to present a tripping hazard. Cord connectors shall not be laid on the ground in areas traversed by the public. Flexible cords and cables shall be protected from overcurrent at their source of supply; 
+(d) Disconnecting Means. Each ride and concession shall be provided with a fused disconnect switch or circuit breaker located in an area readily accessible from the operator’s station. The disconnecting means shall be readily accessible to the operator, including when the ride is in operation. Where accessible to unqualified persons, the enclosure for the switch or circuit breaker shall be of the lockable type. A shunt trip device that opens the fused disconnect or circuit breaker when a switch located in the ride operator’s console is closed shall be a permissible method of opening the circuit. 
+(e) Power Sources. Electrical power sources shall be located to permit proper maintenance and protected by guards, fencing or enclosures to prevent exposure to the public; 
+(f) An amusement ride or device constructed before October 1, 1996, which has been issued an operating permit by the Division within the last three years, may be maintained using previously approved electrical materials and methods until the ride or device is rebuilt, subject to major electrical alteration. All other rides or devices without manufacturers’ information shall conform to the Oregon Electrical Specialty Code in effect on the date the ride or device was first approved for an operating permit in Oregon. 
+(10) Stairways, Landings and Ramps. 
+(a) Safe and adequate means of access to and from amusement rides and devices shall be provided. All passenger ways shall be free from debris, obstruction, projection and other hazards. All floor, ramp and step surfaces shall be constructed and maintained to prevent slipping and tripping. A safe clearance shall be maintained from all mechanical handling equipment; 
+(b) Adequate stairways or ramps and necessary landings and platforms shall be provided where persons enter or leave a device, ride or structure that is above or below grade or floor level at the entrance to and exit from such. Unless provided by a recognized manufacturer as a part of the amusement ride or device, the design and construction of stairways, ramps, railings and exits shall conform to the Oregon Structural Specialty Code in effect at the time of manufacture. All stairs with more than three risers shall have handrails or railings on both sides regardless of width; 
+(c) Stairways, landings and ramps shall be designed, constructed and maintained in accordance with the Oregon Structural Specialty Code in effect at the time the ride or device was first issued an operating permit, but so as to sustain safely a live load of at least 90 pounds per square foot; 
+(d) At least two exits remote from each other shall be provided from each level floor, tier, room or balcony. An entrance may serve as an exit for the purposes of compliance with this rule. All exits shall conform to the Oregon Structural Specialty Code in effect at the time the amusement ride or device was first issued an operating permit in Oregon, but in no case shall be less than 28 inches wide; 
+(e) Access to and exits from amusement rides and devices and associated structures shall be provided with illumination by natural or artificial means of at least five foot-candles measured at grade level. 
+(11) Housekeeping: 
+(a) Cleanliness. A suitable number of containers for refuse shall be provided in and around all amusement rides and devices and associated structures. Excessive accumulations of trash or rubbish shall be promptly removed. All parts of amusement rides or devices and associated structures used by the public shall be kept clean. The area shall be clear and kept free from trash and tripping hazards; 
+(b) Air Compressors and Equipment. Air compressors, air compressor tanks and related equipment shall be constructed, equipped and maintained to insure safe operation at all times. Air compressor tanks and other air receivers used with air compressors shall be operated and maintained in compliance with applicable provisions of ORS 480.510 through 480.665 and the rules adopted by the Oregon Board of Boiler Rules; 
+(c) Oil and Hydraulic Systems. Oil and hydraulic systems and other related equipment used in connection with amusement devices shall be free of leaks and shall be maintained to insure safe operation at all times; 
+(d) Machinery and Machine Guarding. Machinery used in or with an amusement device shall be enclosed, barricaded or otherwise effectively guarded against contact. Guards removed for maintenance shall be replaced before normal operation is resumed. One or more methods of machine guarding shall be provided to protect the public from injury. Guards shall be fixed to the machine where possible and secured elsewhere if attachment to the machine is not possible. The guard or barrier shall not offer an accident hazard in itself. Barriers shall be secured to prevent movement or tip over. The barriers shall be located to keep the public at a safe distance from the ride. All machinery designed for a fixed location shall be secured; 
+(e) Mechanical Power Transmission. All power transmission devices and associated moving parts shall be shielded, enclosed or barricaded to protect the public or shall be sufficiently distant to prevent hazard; 
+(f) Welding, Cutting and Brazing. Welding, cutting or brazing shall not be performed where the public can directly observe the process or be hit by sparks of flying materials. Any welding, cutting and brazing performed when the public is present shall be behind temporary solid barriers. 
+  
+
+ [Publications: Publications referenced are available from the agency.] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 460.355 
+ 
+ 
+ Statutes/Other Implemented:  ORS 460.355 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BCD 3-2024, amend filed 03/28/2024, effective 04/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BCD 15-2014, f. 12-31-14, cert. ef. 1-1-15 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ BCD 15-1998, f. 9-30-98, cert. ef. 1-1-99 
+BCD 10-1994, f. 4-25-94, cert. ef. 5-1-94 
+DC 13-1982, f. 4-21-82, cert. ef. 4-30-82, Renumbered from 814-060-0200 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

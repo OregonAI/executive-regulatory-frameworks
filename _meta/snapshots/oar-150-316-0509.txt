@@ -1,0 +1,270 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 316 PERSONAL INCOME TAX GENERAL PROVISIONS 
+ 150-316-0509 
+ U.S. Government Obligations
+ 
+ 
+ (1) Interest and dividend income on obligations of the federal government which are exempt from state income taxation but not from federal income taxation shall be subtracted from federal taxable income in arriving at Oregon taxable income. 
+
+ (2) Amounts that may not be subtracted include: 
+
+ (a) Timely payments of interest by the insurer of obligations backed by the U.S. government; 
+
+ (b) Interest received on federal tax refunds. 
+
+ Example: Paul and Margaret filed a joint income tax return and received a federal tax refund from the U.S. Treasury Department for $1,200. This amount included $1,000 tax and $200 interest. The $200 interest amount does not qualify for the subtraction for interest or dividend income on U.S. government obligations as provided under ORS 316.680(1)(a). 
+
+ (c) Interest received on obligations of territories and possessions of the United States. Interest on these obligations is not taxable for federal or state purposes and is not included in federal adjusted gross income so no subtraction is made on the Oregon return. Interest on the following obligations is not subtracted under ORS 316.680(1)(c): 
+
+ (A) Territory of Guam 
+
+ (B) Commonwealth of Puerto Rico 
+
+ (C) Territory of Puerto Rico 
+
+ (D) Territory of Samoa 
+
+ (E) Territory of Virgin Islands 
+
+ (d) Income received from repurchase agreements. These are agreements in which a seller other than the United States sells securities (which can be federal obligations), and agrees to repurchase the same or similar securities at a price that includes interest for the period of the sale. The seller, in this case, is the true owner; and, the buyer merely receives interest under a contract with the seller. It is not interest paid by the United States, but it is income (or the equivalent to interest) paid by the seller at the time of repurchase. 
+
+ (3) For interest received from organizations that invest in U.S. government securities refer to OAR 150-316-0507. 
+
+ (4) If expenses connected with U.S. government obligations are claimed as an itemized deduction, an adjustment is required. These expenses include interest on indebtedness incurred to carry the bonds or notes and expenses incurred in the production of income from the bonds or notes. Oregon doesn’t allow a deduction for these expenses, since the income from the bonds or notes is exempt from Oregon tax. The subtraction allowable under ORS 316.680(1)(a) shall be reduced by the amount of the expenses deducted in arriving at federal taxable income. 
+
+ Example: Charles reported $500 interest income from Series EE Bonds. He borrowed $6,000 to purchase the bonds. During the year he paid $200 interest on the amount he borrowed. He claimed the $200 interest expense as an itemized deduction. His allowable subtraction under ORS 316.680(1)(a) of $300 is computed as follows: [Formula not included. See ED. NOTE.] 
+
+ (5) Below is a list of obligations that may or may not qualify for the subtraction permitted under ORS 316.680(1)(a). [List not included. See ED. NOTE.] 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 
+ 
+ 
+ Statutes/Other Implemented:  ORS 316.680 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 30-2017, f. & cert. ef. 7-21-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 150-316.680(1)(a), REV 64-2016, f. 8-15-16, cert. ef. 9-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RD 5-1994, f. 12-15-94, cert. ef. 12-31-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RD 7-1991, f. 12-30-91, cert. ef. 12-31-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RD 7-1989, f. 12-18-89, cert. ef. 12-31-89 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RD 15-1987, f. 12-10-87, cert. ef. 12-31-87 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RD 10-1986, f. & cert. ef. 12-31-86 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

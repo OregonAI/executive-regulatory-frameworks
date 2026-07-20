@@ -1,0 +1,1017 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Forestry 
+ Chapter 629 
+ 
+ 
+ 
+ 
+ 
+ Division 600 DEFINITIONS 
+ 629-600-0100 
+ Definitions
+ 
+ 
+   As used in OAR chapter 629, divisions 603 through 669 and divisions 680 through 699, unless otherwise required by context: 
+
+ (1) "Abandoned resource site" means a resource site that the State Forester determines is not active. 
+
+ (2) "Abandoned roads" are defined as roads that were constructed prior to 1972 and do not meet the criteria of active, inactive, or vacated roads. This does not include skid trails. 
+
+ (3) "Active channel width" means the stream width between the ordinary high-water lines, or at the channel bankfull elevation if the ordinary high-water lines are indeterminate. 
+
+ (4) "Active resource site" means a resource site that the State Forester determines has been used in the recent past by a listed species. 'Recent past' shall be identified for each species in administrative rule. Resource sites that are lost or rendered not viable by natural causes are not considered active. 
+
+ (5) "Active roads" are roads currently being used or maintained for the purpose of removing commercial forest products. 
+
+ (6) "Adaptive management program committee" (AMPC) means the adaptive management program committee described in OAR 629-603-0300. 
+
+ (7) "Aquatic area" means the wetted area of streams, lakes, and wetlands up to the high water level. Oxbows and side channels are included if they are part of the flow channel or contain freshwater ponds. 
+
+ (8) "Aquatic resource" as defined in section 40(1), chapter 33, Oregon Laws 2022 means: 
+
+ (a) A species addressed in the Private Forest Accord Report dated February 2, 2022, and published by the State Forestry Department on February 7, 2022, and the resources on which the species relies; or 
+
+ (b) If a habitat conservation plan consistent with the Private Forest Accord Report has been approved, a species addressed in the habitat conservation plan and the resources on which the species relies. 
+
+ (9) "Area of inquiry" means an area along a Type N stream beginning at the confluence with a Type F or Type SSBT stream and extending: 
+
+ (a) During Phase 1, to the first 250 feet encountered without a flow feature. 
+
+ (b) After Phase 1, to the longer of the modeled end plus 250 feet, or beyond the modeled end to the end of the first 250 feet encountered without a flow feature. 
+
+ (10) "Artificial reforestation" means restocking a site by planting trees or through the manual or mechanical distribution of seeds. 
+
+ (11) "Bankfull elevation" means the point on a stream bank at which overflow into a floodplain begins. 
+
+ (12) "Basal area" means the area of the cross-section of a tree stem derived from DBH. 
+
+ (13) "Basal area credit" means the credit given towards meeting the live tree requirements within riparian management areas for placing material such as logs, rocks or rootwads in a stream, or conducting other enhancement activities such as side channel creation or grazing enclosures. 
+
+ (14) "Beaver" means a member of the species Castor canadensis . 
+
+ (15) "Best available science" means the standards developed pursuant to OAR 629-603-0400(4). 
+
+ (16) "Biological goals and objectives" means the biological goals and objectives as set by the department for a habitat conservation plan to meet requirements of section 11 (1) chapter 33, Oregon Laws 2022. 
+
+ (17) "Bog" means a wetland that is characterized by the formation of peat soils and that supports specialized plant communities. A bog is a hydrologically closed system without flowing water. It is usually saturated, relatively acidic, and dominated by ground mosses, especially sphagnum. A bog may be forested or non-forested and is distinguished from a swamp and a marsh by the dominance of mosses and the presence of extensive peat deposits. 
+
+ (18) "Bull Trout" means fish species Salvelinus confluentus . 
+
+ (19) " Certified steep slopes training " means the State Forester has certified that a trainee has completed training and demonstrated sufficient knowledge to determine the field delineation of the final boundaries for slope retention areas. 
+
+ (20) "Channel" is a distinct bed or banks scoured by water which serves to confine water and that periodically or continually contains flowing water. 
+
+ (21) "Channel migration zone" (CMZ) means the area where the active channel of a stream is prone to move and this results in a potential near-term loss of riparian function and associated habitat adjacent to the stream, except as modified by a permanent levee, dike, railroad lines, or any public transportation infrastructure. For this purpose, near term means the time scale required to grow a mature forest. 
+
+ (22) "Chemicals" means and includes all classes of pesticides, such as herbicides, insecticides, rodenticides, fungicides, plant defoliants, plant desiccants, and plant regulators, as defined in ORS 634.006(8); fertilizers, as defined in ORS 633.311; petroleum products used as carriers; and chemical application adjuvants, such as surfactants, drift control additives, anti-foam agents, wetting agents, and spreading agents. 
+
+ (23) "Commercial" means of or pertaining to the exchange or buying and selling of commodities or services. This includes any activity undertaken with the intent of generating income or profit; any activity in which a landowner, operator, or timber owner receives payment from a purchaser of forest products; any activity in which an operator or timber owner receives payment or barter from a landowner for services that require notification under OAR 629-605-0140; or any activity in which the landowner, operator, or timber owner barters or exchanges forest products for goods or services. This does not include firewood cutting or timber milling for personal use. 
+
+ (24) "Common ownership" means direct ownership by one or more individuals or ownership by a corporation, partnership, association, or other entity in which an individual owns a significant interest, as defined in section 16(1), chapter 33, Oregon Laws 2022. 
+
+ (25) "Completion of the operation" means harvest activities have been completed to the extent that the operation area will not be further disturbed by those activities. 
+
+ (26) "Conflict" means resource site abandonment or reduced resource site productivity that the State Forester determines is a result of forest practices. 
+
+ (27) "Covered species" means species for which incidental take under the federal Endangered Species Act is authorized in an incidental take permit and covered under a habitat conservation plan. 
+
+ (28) "Culvert with imminent risk of failure" is defined as a culvert in all waters of the state that: 
+
+ (a) Is actively diverting streams or ditchline runoff; 
+
+ (b) Is actively eroding the road prism or stream channel in a manner that has the potential to undermine the integrity of the culvert; 
+
+ (c) Is completely blocked, plugged, crushed, or buried; 
+
+ (d) Has partially or completely failed fill; or 
+
+ (e) Has high plugging potential as determined by the Stream Blocking Index or other comparable methodology, high magnitude of fill at risk, and high diversion potential in one or both directions. 
+
+ (29) "Culvert with minimal risks to public resources" is defined as a culvert in all waters of the state that: 
+
+ (a) Minimizes delivery of sediment to waters of the state; 
+
+ (b) Has not diverted streams or ditchline runoff and does not have the potential to divert streams or ditchline runoff; and 
+
+ (c) For Type F and Type SSBT streams: 
+
+ (A) Provides passage for all species of adult and juvenile fish; and 
+
+ (B) Provides passage of expected bed load and associated large woody material likely to be transported during flood events. 
+
+ (30) "Debris flow" means a rapidly moving slurry of rock, soil, wood, and water, which is most often initiated by a landslide that delivers to and travels through steep, confined stream channels. 
+
+ (31) " Debris flow traversal area sub-basins " means catchments within U.S. Geological Survey Hydrologic Unit Code 4th field basins that contain debris flow traversal areas that have a probability of traversal in the upper 20 percent. 
+
+ (32) "Debris torrent-prone streams" are designated by the State Forester to include channels and confining slopes that drain watersheds containing high landslide hazard locations that are of sufficient confinement and channel gradient to allow shallow, rapid landslide movement. 
+
+ (33) "Department" means the Oregon Department of Forestry. 
+
+ (34) "Department reporting and notification system" means a forest activity electronic reporting and notice system operated by the State Forestry Department, used for a notification of operation and a permit to use fire or power-driven machinery, also known as the “E-Notification system” or “FERNS.” 
+
+ (35) "Designated debris flow traversal areas" mean areas that the slopes model identifies as most likely to deliver debris flows to Type F or Type SSBT streams. These have a probability of traversal in the upper 50 percent, calculated consistent with the methods described in slopes model. The length of designated debris flow traversal area, as determined by the slopes model, is either: 
+
+ (a) The entire length of the designated debris flow traversal area that has a probability of traversal in the upper 20 percent; or 
+
+ (b) A maximum of 1,000 feet upstream of a Type F or Type SSBT stream confluence for a designated debris flow traversal area that has a probability of traversal between 20 percent and 50 percent alone or in combination with a designated debris flow traversal area that has a probability of traversal in the upper 20 percent. 
+
+ (36) " Designated sediment source areas " means areas that the slopes model identifies as most likely to experience landslides that initiate debris flows that will likely deliver to Type F or Type SSBT streams. These areas, as identified by the slopes model, may or may not contain trigger sources. The slopes model identifies the hillslope areas greater than one-quarter acre in size within debris flow traversal area sub-basins that provide the top 33 percent of the landslide-derived sediment to Type F or Type SSBT streams. 
+
+ (37) "Diameter breast height" (DBH) means the diameter of a tree inclusive of the bark measured four and one-half feet above the ground on the uphill side of the tree. 
+
+ (38) "Domestic water use" means the use of water for human consumption and other household human use. 
+
+ (39) "Dying or recently dead tree" means a tree with less than ten percent live crown or a standing tree which is dead, but has a sound root system and has not lost its small limbs. Needles or leaves may still be attached to the tree. 
+
+ (40) "Eastern Oregon" means the region east of the Cascade Crest as described in OAR 629-635-0220. 
+
+ (41) "ELZ" means an equipment limitation zone in which disturbance from equipment activity shall be minimized. 
+
+ (42) "Estuary" means a body of water semi-enclosed by land and connected with the open ocean within which saltwater is usually diluted by freshwater derived from the land. "Estuary" includes all estuarine waters, tidelands, tidal marshes, and submerged lands extending upstream to the head of tidewater. However, the Columbia River Estuary extends to the western edge of Puget Island. 
+
+ (43) "Exposure categories" are used to designate the likelihood of persons being present in structures or on public roads during periods when shallow, rapidly moving landslides may occur. 
+
+ (44) "Filling" means the deposit by artificial means of any materials, organic or inorganic. 
+
+ (45) "Fish use" means inhabited at any time of the year by anadromous or game fish species or fish that are listed as threatened or endangered species under the federal or state Endangered Species Act. 
+
+ (46) "Fledging tree" means a tree or trees close to the nest which the State Forester determines are regularly used by young birds to develop flying skills. 
+
+ (47) "Flow feature" means flowing water for 25 feet or more. 
+
+ (48) "Flowing water" means continuous visibly flowing surface water within a channel. 
+
+ (49) "Forage" means the plant species or other source of food that will be provided to substantially contribute, either directly or indirectly to nutrition of the target wildlife species or guild. 
+
+ (50) "Ford" means a type of stream crossing where the vehicle travels on the streambed or other installed structure with the wheels of the vehicle in the water if present. 
+
+ (51) "Forest conservation area" means the riparian forestland area that is not harvested that may be eligible for a forest conservation tax credit. The width of the eligible area is the difference between the outermost edge of the width of the riparian management area for the standard practice and the outermost edge of the width of the riparian management area for the small forestland owner minimum option. The length of the eligible area is the length of frontage that follows the same lengths as the standard practice. 
+
+ (52) "Forest conservation tax credit" means a tax credit available to small forestland owners who choose to follow the standard practice used by large forest landowners and claim a tax credit for some of the value committed to conservation. 
+
+ (53) "Forest practice" means any operation conducted on or pertaining to forestland, including but not limited to: 
+
+ (a) Reforestation of forestland; 
+
+ (b) Road construction and maintenance; 
+
+ (c) Harvesting of forest tree species; 
+
+ (d) Application of chemicals; 
+
+ (e) Disposal of slash; and 
+
+ (f) Removal of woody biomass. 
+
+ (54) "Forest Practices Technical Guidance" means advisory guidance, developed by the State Forester through a stakeholder process, to assist landowners and resource professionals to implement the Oregon Forest Practices Act and forest practice rules. 
+
+ (55) "Forest road inventory and assessment" (FRIA) means the road inventory, project planning, and reporting process required of forestland owners that do not qualify to manage forestlands under the small forestland owner minimum option. 
+
+ (56)  "Forest tree species" means any tree species capable of producing logs, fiber or other wood materials suitable for the production of lumber, sheeting, pulp, firewood or other commercial forest products except trees grown to be Christmas trees as defined in ORS 571.505 on land used solely for the production of Christmas trees. 
+
+ (57)  "Forestland" means land which is used for the growing and harvesting of forest tree species, regardless of how the land is zoned or taxed or how any state or local statutes, ordinances, rules or regulations are applied. 
+
+ (58)  "Free to grow" means the State Forester's determination that a tree or a stand of well distributed trees, of acceptable species and good form, has a high probability of remaining or becoming vigorous, healthy, and dominant over undesired competing vegetation. For the purpose of this definition, trees are considered well distributed if 80 percent or more of the portion of the operation area subject to the reforestation requirements of the rules contains at least the minimum per acre tree stocking required by the rules for the site and not more than ten percent contains less than one-half of the minimum per acre tree stocking required by the rules for the site. 
+
+ (59)  "Fully functioning culvert in Type F or Type SSBT streams" is defined as a culvert that is located in a Type F or Type SSBT stream, at the time of FRIA inspection, that meets the requirements of the forest practice rules as of January 1, 2022, and as described in the Forest Practices Technical Guidance for culverts existing prior to January 1, 2024. 
+
+ (60)  "Fully functioning culvert in Type N or D streams" is defined as a culvert that is located in a Type N or Type D stream, and that, at the time of FRIA inspection, meets all requirements of the forest practice rules as of January 1, 2022. 
+
+ (61)  "Further review area" means an area of land that may be subject to rapidly moving landslides as mapped by the State Department of Geology and Mineral Industries or as otherwise determined by the State Forester. 
+
+ (62)  "Geographic region" means large areas where similar combinations of climate, geomorphology, and potential natural vegetation occur, established for the purposes of implementing the water protection rules. 
+
+ (63) "Habitat conservation plan" (HCP) means the federal agencies’ planning document designed to accommodate economic development to the extent possible by authorizing the limited and unintentional take of listed species when it occurs incidental to otherwise lawful activities. The plan is designed not only to help landowners and communities but also to provide long-term benefits to species requirements as identified in the Endangered Species Act. 
+
+ (64)  "Harvest type 1" means an operation that requires reforestation but does not require wildlife leave trees. A harvest type 1 is an operation that leaves a combined stocking level of free to grow seedlings, saplings, poles and larger trees that is less than the stocking level established by rule of the board that represents adequate utilization of the productivity of the site. 
+
+ (65)  "Harvest type 2" means an operation that requires wildlife leave trees but does not require reforestation. A harvest type 2 does not require reforestation because it has an adequate combined stocking of free to grow seedlings, saplings, poles and larger trees, but leaves: 
+
+ (a) On Cubic Foot Site Class I, II or III, fewer than 50 11-inch DBH trees or less than an equivalent basal area in larger trees, per acre; 
+
+ (b) On Cubic Foot Site Class IV or V, fewer than 30 11-inch DBH trees or less than an equivalent basal area in larger trees, per acre; or 
+
+ (c) On Cubic Foot Site Class VI, fewer than 15 11-inch DBH trees or less than an equivalent basal area in larger trees, per acre. 
+
+ (66)  "Harvest type 3" means an operation that requires reforestation and requires wildlife leave trees. This represents a level of stocking below which the size of operations is limited under ORS 527.740 and 527.750. 
+
+ (67) "Harvest type 4" means an operation that commercially thins or spaces residual trees that does not require reforestation or retention of wildlife leave trees. 
+
+ (68) "Headwall" means steep, concave slopes that can concentrate subsurface water, which can lead to increased landslide susceptibility. Headwalls are typically located at the head of stream channels, draws, or swales. Headwalls have slope gradients of 65 percent or greater in the Tyee Core Area and 70 percent or greater in the rest of the state, as measured in the axis of the headwall. Landslides that occur in headwalls are more likely to initiate channelized debris flows that can travel down streams (also known as debris torrents) than landslides that occur in other areas of the slope. 
+
+ (69)  "High landslide hazard location" means a specific site that is subject to initiation of a shallow, rapidly moving landslide. The following criteria shall be used to identify high landslide hazard locations: 
+
+ (a) The presence, as measured on site, of any slope in Western Oregon (excluding competent rock outcrops) steeper than 80 percent, except in the Tyee Core Area, where it is any slope steeper than 75 percent; 
+
+ (b) The presence, as measured on site, of any headwall or draw in Western Oregon steeper than 70 percent, except in the Tyee Core Area, where it is any headwall or draw steeper than 65 percent; or 
+
+ (c) Notwithstanding the slopes specified in (a) or (b) above, field identification of atypical conditions by a geotechnical specialist may be used to develop site specific slope steepness thresholds for any part of the state where the hazard is equivalent to (a) or (b) above. The final determination of equivalent hazard shall be made by the State Forester. 
+
+ (70)  "High water level" means the stage reached during the average annual high flow. The "high water level" often corresponds with the edge of streamside terraces, a change in vegetation, or a change in soil or litter characteristics. 
+
+ (71)  "Hydrologic disconnection" means the removal of direct routes of drainage or overland flow of road runoff to waters of the state. 
+
+ (72)  "Hydrologic function" means soil, stream, wetland and riparian area properties related to the storage, timing, distribution, and circulation of water. 
+
+ (73)  "Important springs" are springs in arid parts of Eastern Oregon that have established wetland vegetation, flow year-round in most years, are used by a concentration of diverse animal species, and, by reason of sparse occurrence, have a major influence on the distribution and abundance of upland species. 
+
+ (74)  "Inactive roads" are roads used for forest management purposes exclusive of removing commercial forest products. 
+
+ (75) "Independent research and science team" (IRST) means the independent research and science team described in OAR 629-603-0400. 
+
+ (76) "IRST housing agency" means a public body that houses and supports the Independent Research and Science Team as described in OAR 629-603-0450. 
+
+ (77)  "Key components" means the attributes which are essential to maintain the use and productivity of a resource site over time. The key components vary by species and resource site. Examples include fledging trees or perching trees. 
+
+ (78) "Lake" means a body of year-round standing open water. 
+
+ (a) For the purposes of the forest practice rules, lakes include: 
+
+ (A) The water itself, including any vegetation, aquatic life, or habitats therein; and 
+
+ (B) Beds, banks or wetlands below the high water level which may contain water, whether or not water is actually present. 
+
+ (b) "Lakes" do not include water developments as defined in this rule. 
+
+ (79) "Lamprey" means a member of the fish genera Entosphenus or Lampetra. 
+
+ (80)  "Landowner" means any individual, combination of individuals, partnership, corporation, or association of whatever nature that holds an ownership interest in forestland, including the state and any political subdivision thereof. 
+
+ (81)  "Landslide mitigation" means actions taken to reduce potential landslide velocity or re-direct shallow, rapidly moving landslides near structures and roads so risk to persons is reduced. 
+
+ (82)  "Large lake" means a lake greater than eight acres in size. 
+
+ (83)  "Large wood key piece" means a portion of a bole of a tree, with or without the rootwad attached, that is wholly or partially within the stream, that meets the length and diameter standards appropriate to stream size and high water volumes established in the "Guide to Placement of Wood, Boulders and Gravel for Habitat Restoration," developed by the Oregon Department of Forestry, Oregon Department of Fish and Wildlife, Oregon Department of State Lands, and Oregon Watershed Enhancement Board, January 2010. 
+
+ (84)  "Lateral Type Np stream" means any Type Np stream that is not a Terminal Type Np stream. 
+
+ (85)  "Live tree" means a tree that has 10 percent or greater live crown. 
+
+ (86)  "Local population" means the number of birds that live within a geographical area that is identified by the State Forester. For example: the area may be defined by physical boundaries, such as a drainage or subbasin. 
+
+ (87)  "Main channel" means a channel that has flowing water when average flows occur. 
+
+ (88) "Modeled end" means the upper-most point of perenniality on a perennial stream shown on department maps and the department’s reporting and notification system as described OAR 629-635-0200(18). The modeled end may change over time in different phases or as updated by Oregon Department of Fish and Wildlife pursuant to the methods for field surveys as described in OAR 629-635-0200(11). 
+
+ (89)  "Natural barrier to fish use" is a natural feature such as a waterfall, increase in stream gradient, channel constriction, or other natural channel blockage that prevents upstream fish passage. 
+
+ (90)  "Natural reforestation" means restocking a site with self-grown trees resulting from self-seeding or vegetative means. 
+
+ (91)  "Nest tree" means the tree, snag, or other structure that contains a bird nest. 
+
+ (92)  "Nesting territory" means an area identified by the State Forester that contains, or historically contained, one or more nests of a mated pair of birds. 
+
+ (93)  "Operation" means any commercial activity relating to the establishment, management or harvest of forest tree species except as provided by the following: 
+
+ (a) The establishment, management or harvest of Christmas trees, as defined in ORS 571.505, on land used solely for the production of Christmas trees. 
+
+ (b) The establishment, management or harvest of hardwood timber, including but not limited to hybrid cottonwood that is: 
+
+ (A) Grown on land that has been prepared by intensive cultivation methods and that is cleared of competing vegetation for at least three years after tree planting; 
+
+ (B) Of a species marketable as fiber for inclusion in the furnish for manufacturing paper products; 
+
+ (C) Harvested on a rotation cycle that is 12 or fewer years after planting; and 
+
+ (D) Subject to intensive agricultural practices such as fertilization, cultivation, irrigation, insect control and disease control. 
+
+ (c) The establishment, management or harvest of trees actively farmed or cultured for the production of agricultural tree crops, including nuts, fruits, seeds and nursery stock. 
+
+ (d) The establishment, management or harvest of ornamental, street or park trees within an urbanized area, as that term is defined in ORS 221.010. 
+
+ (e) The management or harvest of juniper species conducted in a unit of less than 120 contiguous acres within a single ownership. 
+
+ (f) The establishment or management of trees intended to mitigate the effects of agricultural practices on the environment or fish and wildlife resources, such as trees that are established or managed for windbreaks, riparian filters or shade strips immediately adjacent to actively farmed lands. 
+
+ (g) The development of an approved land use change after timber harvest activities have been completed and land use conversion activities have commenced. 
+
+ (94) "Operator" means any person, including a landowner or timber owner, who conducts an operation. 
+
+ (95) "Ordinary high-water line" means the line on the bank or shore to which the high-water ordinarily rises annually in season, as defined in ORS 274.005. 
+
+ (96) "Other wetland" means a wetland that is not a significant wetland or stream-associated wetland. 
+
+ (97) "Parcel" means a contiguous single ownership recorded at the register of deeds within the county or counties where the property is located, including any parcel(s) touching along a boundary, but a railroad, road, stream, or utility-right-of-way may intersect the parcel. Single ownership is defined in ORS 527.620(14). 
+
+ (98)  "Perch tree" means a tree identified by the State Forester which is used by a bird for resting, marking its territory, or as an approach to its nest. 
+
+ (99)  "Plan for an Alternate Practice" means a document prepared by the landowner, operator or timber owner, submitted to the State Forester for written approval describing practices different than those prescribed in statute or administrative rule. 
+
+ (100)  "Pre-existing culvert" is defined as a culvert with minimal risks to public resources that is also: 
+
+ (a) A fully functioning culvert in a Type F or Type SSBT stream; or 
+
+ (b) A fully functioning culvert in a Type N or Type D stream. 
+
+ (101)  "Relief culvert" means a structure to relieve surface runoff from roadside ditches to prevent excessive buildup in volume and velocity. 
+
+ (102)  "R-ELZ" means an equipment limitation zone in which disturbance from equipment activity shall be minimized and all trees less than six inches DBH and shrub species are retained where possible. 
+
+ (103)  "Removal" means the taking or movement of any amount of rock, gravel, sand, silt, or other inorganic substances. 
+
+ (104) "Repeat Violator" means an operator, timber owner, or landowner for which a finding has been made by the State Forester under section 46(6), chapter 33, Oregon Laws 2022. 
+
+ (105)  "Replacement tree" means a tree or snag within the nesting territory of a bird that is identified by the State Forester as being suitable to replace the nest tree or perch tree when these trees become unusable. 
+
+ (106) "Research agenda" means the plan developed by the AMPC pursuant to OAR 629-603-0200(5)(a). 
+
+ (107)  "Resource site" is defined for the purposes of protection and for the purposes of requesting a hearing. 
+
+ (a) For the purposes of protection: 
+
+ (A) For threatened and endangered bird species, "resource site" is the nest tree and all identified key components. 
+
+ (B) For sensitive bird nesting, roosting and watering sites, "resource site" is the nest tree, roost tree or mineral watering place, and all identified key components. 
+
+ (C) For significant wetlands "resource site" is the wetland and the riparian management area as identified by the State Forester. 
+
+ (b) For the purposes of requesting a hearing under ORS 527.670(4) and 527.700(3), "resource site" is defined in OAR 629-680-0020. 
+
+ (108)  "RH Max" means the maximum distance described for any particular small Type Np stream. 
+
+ (109)  "Riparian area" means the ground along a water of the state where the vegetation and microclimate are influenced by year-round or seasonal water, associated high water tables, and soils which exhibit some wetness characteristics. 
+
+ (110)  "Riparian management area" means an area along each side of specified waters of the state within which vegetation retention and special management practices are required for the protection of water quality, hydrologic functions, and fish and wildlife habitat. 
+
+ (111)  "Road management blocks" means geographically distinct ownership blocks for which a landowner is encouraged to conduct a Forest Road Inventory and Assessment. 
+
+ (112)  "Road prism" means the area of the ground containing the road surface, cut slope, and fill slope. 
+
+ (113)  "Salmon" means any of the five salmon species that exist in Oregon. These species are: 
+
+ (a) Chinook salmon ( Oncorhynchus tshawwytscha ); 
+
+ (b) Coho salmon ( Oncorhynchus kisutch ); 
+
+ (c) Chum salmon ( Oncorhynchus keta ); 
+
+ (d) Sockeye salmon ( Oncorhynchus nerka ); and 
+
+ (e) Pink salmon ( Oncorhynchus gorbuscha ). 
+
+ (114)  "Saplings and poles" means live trees of acceptable species, of good form and vigor, with a DBH of one to 10 inches. 
+
+ (115)  "Seedlings" means live trees of acceptable species of good form and vigor less than one inch in DBH. 
+
+ (116)  "Seeps" means features similar to springs, except without a well-defined point or points of groundwater surface discharge and usually very low flow. 
+
+ (117)  "Shallow, rapidly moving landslide" means any detached mass of soil, rock, or debris that begins as a relatively small landslide on steep slopes and grows to a sufficient size to cause damage as it moves down a slope or a stream channel at a velocity difficult for people to outrun or escape. 
+
+ (118)  "Side channel" means a channel other than a main channel of a stream that only has flowing water when high water level occurs. 
+
+ (119)  "Significant violation" as defined in section 40(15), chapter 33, Oregon Laws 2022: 
+
+ (a) “Significant violation” means: 
+
+ (A) Violation of ORS 527.670(6) by engaging in an operation without filing the requisite notification; 
+
+ (B) Continued operation in contravention of an order issued by the State Forester under ORS 527.680(2)(a), (3), or (5); or 
+
+ (C) A violation resulting in major damage to a resource described in ORS 527.710(2) for which restoration is expected to take more than 10 years. 
+
+ (b) “Significant violation” does not include: 
+
+ (A) Unintentional operation in an area outside an operating area of an operation for which sufficient notification was filed pursuant to ORS 527.670(6); 
+
+ (B) Continued operation in contravention of an order issued by the State Forester under ORS 527.680 (2)(a), (3), or (5), where an operator demonstrates that it did not receive the order; or 
+
+ (C) Failure to timely notify the State Forester of an intent to continue an operation into the next calendar year. 
+
+ (120) "Significant wetlands" means those wetland types listed in OAR 629-680-0310, that require site specific protection, as follows: 
+
+ (a) Wetlands that are larger than eight acres; 
+
+ (b) Estuaries; 
+
+ (c) Bogs; and 
+
+ (d) Important springs in Eastern Oregon. 
+
+ (121) “Significantly disproportionately impacted” means a small forestland owner parcel that: 
+
+ (a) If it contains a dwelling, is 10 acres or more in size; 
+
+ (b) Has a total encumbrance from all small forestland minimum option riparian management areas, as described in OAR 629-643-0140, greater than 20% of the forested acreage of the parcel; and 
+
+ (c) Generates timber revenue that is relied upon to sustain management activities on forest properties, cover annual costs of ownership, provide regular contributions to income, or more than 5% of the revenue is contributed to a planned estate investment as demonstrated by a Forest Management Plan. 
+
+ (122) "Slope retention areas" means the 50 percent, at a minimum, of designated sediment source areas in each harvest unit that will be left unharvested. 
+
+ (123) " Slopes model " means the department’s computer-generated model to identify designated debris flow traversal areas, designated sediment source areas, and trigger sources. 
+
+ (124) "Small forestland" means forestland that has an owner that owns or holds common ownership interest in less than 5,000 acres of forestland in this state, regulated under section 5(1)(b), chapter 33, Oregon Laws 2022. 
+
+ (125) "Small forestland owner" pursuant to section (16), chapter 33, Oregon Laws 2022 and section 2, chapter 34, Oregon Laws 2022, means a landowner who: 
+
+ (a) Owns or holds in common ownership interest in less than 5,000 acres of forestland in this state; 
+
+ (b) Has harvested no more than an average yearly volume of two million board feet of merchantable forest products from the landowner’s forestlands in this state, when averaged over the three years prior to: 
+
+ (A) The date the department receives a harvest notification from the landowner; or 
+
+ (B) If applying for a Small Forestland Investment in Stream Habitat Program grant, the date the landowner submits a grant application; and 
+
+ (c) Affirms that they do not expect to exceed an average yearly volume of two million board feet of merchantable forest products to be harvested from the landowner’s forestlands in this state for 10 years after the department receives the harvest notification or grant application; or 
+
+ (d) Emergency exception: Any landowner who exceeds the two million board feet average harvest threshold from their land in the three years prior to submitting a harvest notification or grant application to the department, or who expects to exceed the threshold during any of the following 10 years, shall still be deemed a "small forestland owner" if the landowner establishes to the department’s reasonable satisfaction that the harvest limits were, or will be, exceeded to raise funds to pay estate taxes or for a compelling and unexpected obligation, such as for a court-ordered judgment or for extraordinary medical expenses. 
+
+ (126) "Small forestland owner minimum option" means the option to harvest timber allowed to a small forestland owner under rules adopted under the Oregon Forest Practices Act. 
+
+ (127)  "Snag" means a tree which is dead but still standing, and that has lost its leaves or needles and its small limbs. 
+
+ (128)  "Sound snag" means a snag that retains some intact bark or limb stubs. 
+
+ (129)  "Springs" means features where groundwater discharges to land surface or a surface water body at a well-defined point or points. Spring volumes range from small, intermittent trickles to millions of gallons per day, depending on the groundwater source and hydraulic head. 
+
+ (130)  "SSBT use" means a stream with salmon, steelhead, or bull trout present or otherwise used by salmon, steelhead, or bull trout at any time of the year as determined by the State Forester. 
+
+ (131)  "State Forester" means the State Forester or the duly authorized representative of the State Forester. 
+
+ (132)  "Steelhead" means the anadromous life history variant of Oncorhynchus mykiss . 
+
+ (133)  "Stream" means a channel, such as a river or creek, which carries flowing surface water during some portion of the year. 
+
+ (a) For the purposes of the forest practice rules, streams include: 
+
+ (A) The water itself, including any vegetation, aquatic life, or habitats therein; 
+
+ (B) Beds and banks below the high water level which may contain water, whether or not water is actually present; 
+
+ (C) The area between the high water level of connected side channels; 
+
+ (D) Beaver ponds, oxbows, and side channels if they are connected by surface flow to the stream during a portion of the year; and 
+
+ (E) Stream-associated wetlands. 
+
+ (b) "Streams" do not include: 
+
+ (A) Ephemeral overland flow (such flow does not have a channel); or 
+
+ (B) Road drainage systems or water developments as defined in this rule. 
+
+ (134)  "Stream adjacent failures" means all slopes greater than 70 percent immediately adjacent to Type F or Type SSBT streams that are either: 
+
+ (a) Actively failing and delivering sediment, where erodible material and exposed soils are present and prone to continued shallow-rapid slope instability, with active features such as tension cracks, scarps, ground surface shearing, and oversteepened toes; or 
+
+ (b) Unstable due to the toe interacting directly with erosive forces of a stream, such that there is likely a slope failure extending beyond the standard width of the riparian management area. 
+
+ (135)  "Stream-associated wetland" means a wetland that is not classified as significant and that is next to a stream. 
+
+ (136)  "Structural exception" means the State Forester determines that no actions are required to protect the resource site. The entire resource site may be eliminated. 
+
+ (137)  "Structural protection" means the State Forester determines that actions are required to protect the resource site. Examples include retaining the nest tree or perch tree. 
+
+ (138)  "Stumpage value" means the value of standing timber based on the value that would be received for the timber if harvested and delivered to a mill, minus the cost of harvest and delivery to the mill. 
+
+ (139)  "Target wildlife" means a wildlife species or wildlife guild expected to benefit from the installation of a wildlife food plot. 
+
+ (140)  "Temporal exception" means the State Forester determines that no actions are required to prevent disturbance to birds during the critical period of use. 
+
+ (141)  "Temporal protection" means the State Forester determines that actions are required to prevent disturbance to birds during the critical period of use. 
+
+ (142)  "Terminal Type Np stream" means the largest Type Np stream by basin size that is immediately upstream of the end of a Type F or Type SSBT stream. 
+
+ (143)  "Timber owner" means any individual, combination of individuals, partnership, corporation or association of whatever nature, other than a landowner, that holds an ownership interest in any forest tree species on forestland. 
+
+ (144)  "Tree leaning over the channel" means a tree within a riparian management area if a portion of its bole crosses the vertical projection of the high water level of a stream. 
+
+ (145) " Trigger sources " means areas within designated sediment source areas that the slopes model identifies as most likely to trigger a high-volume debris flow. These areas have the top 20 percent probability of triggering a top 33 percent high-volume debris flow. 
+
+ (146)  "Tyee Core Area" means a location with geologic conditions including thick sandstone beds with few fractures. These sandstones weather rapidly and concentrate water in shallow soils creating a higher shallow, rapidly moving landslide hazard. The Tyee Core Area is located within coastal watersheds from the Siuslaw watershed south to and including the Coquille watershed, and that portion of the Umpqua watershed north of Highway 42 and west of Interstate 5. Within these boundaries, locations where bedrock is highly fractured or not of sedimentary origin as determined in the field by a geotechnical specialist are not subject to the Tyee Core Area slope steepness thresholds. 
+
+ (147)  "Type D stream" means a stream that has domestic water use, but no fish use. 
+
+ (148)  "Type F stream" means a stream with fish use, or both fish use and domestic water use. 
+
+ (149)  "Type N stream" means a stream that meets the criteria of a Type Np or Ns stream. 
+
+ (150) "Type Np stream" means all perennial streams that are not Type SSBT or Type F. 
+
+ (151)  "Type Ns stream" means all seasonal stream reaches that are not Type SSBT, Type F or Type Np streams. 
+
+ (152) "Type SSBT stream" means a stream that is classified as a Type F stream and has SSBT use. 
+
+ (153)  "Unit" means an operation area submitted on a notification of operation that is identified on a map and that has a single continuous boundary. Unit is used to determine compliance with ORS 527.676 (down log, snag and green live tree retention), 527.740 and 527.750 (harvest type 3 size limitation), and other forest practice rules. 
+
+ (154)  "Vacated roads" are roads that have been made impassable and are no longer to be used for forest management purposes or commercial forest harvesting activities. 
+
+ (155) "Verified end" means the upper-most point of perenniality established pursuant to field verification as required by 629-635-0200(18)(c). 
+
+ (156)  "Water bar" means a diversion ditch or hump in a trail or road for the purpose of carrying surface water runoff into the vegetation and duff so that it does not gain the volume and velocity which causes soil movement or erosion. 
+
+ (157)  "Water development" means water bodies developed for human purposes that are not part of a stream such as waste treatment lagoons, reservoirs for industrial use, drainage ditches, irrigation ditches, farm ponds, stock ponds, settling ponds, gravel ponds, cooling ponds, log ponds, pump chances, or heli-ponds that are maintained for the intended use by human activity. 
+
+ (158)  "Waters of the state" include lakes, bays, ponds, impounding reservoirs, springs, wells, rivers, streams, creeks, estuaries, marshes, wetlands, inlets, canals, the Pacific Ocean within the territorial limits of the State of Oregon, and all other bodies of surface or underground waters, natural or artificial, inland or coastal, fresh or salt, public or private (except those private waters which do not combine or effect a junction with natural surface or underground waters), which are wholly or partially within or bordering the state or within its jurisdiction. 
+
+ (159)  "Western Oregon" means the region west of the Cascade Crest as described in OAR 629-635-0220. 
+
+ (160) "Wetland" means those areas that are inundated or saturated by surface or ground water at a frequency and duration sufficient to support, and that under normal circumstances do support, a prevalence of vegetation typically adapted for life in saturated soil conditions. Wetlands include marshes, swamps, bogs, and similar areas. Wetlands do not include water developments as defined in this rule. 
+
+ (161)  "Wildlife food plot" means a small forestland area that, instead of being used for growing and harvesting of a forest tree species, is planted in vegetation or has vegetation capable of substantially contributing to wildlife nutrition. 
+
+ (162)  "Wildlife guild" means a grouping of wildlife that has similar characteristics and fulfills similar ecological roles in the environment. 
+
+ (163)  "Wildlife leave trees" means trees or snags required to be retained as described in ORS 527.676(1). 
+
+ (164)  "Written plan" means a document prepared by an operator, timber owner or landowner that describes how the operation is planned to be conducted.   
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 527.710(1), 527.714, 527.630(3), 526.016(4), 527.678(3)(a) & section 2(1), chapter 33, Oregon Laws 2022 
+ 
+ 
+ Statutes/Other Implemented:  ORS 527.630(5), 527.674, 527.714, 527.678(3)(a), 527.620 & section 2(2), chapter 33, Oregon Laws 2022 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOF 1-2024, amend filed 01/03/2024, effective 01/03/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOF 14-2023, amend filed 07/01/2023, effective 07/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOF 7-2022, amend filed 11/21/2022, effective 01/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOF 1-2020, amend filed 08/12/2020, effective 09/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOF 3-2017, f. 8-14-17, cert. ef. 9-1-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOF 1-2017, f. 6-9-17, cert. ef. 7-1-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOF 2-2013, f. 7-11-13, cert. ef. 9-1-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOF 1-2007, f. & cert. ef. 1-8-07 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ Reverted to DOF 8-2005, f. 12-13-05, cert. ef. 1-1-06 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOF 7-2006(Temp), f.& cert. ef. 6-27-06 thru 12-23-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOF 8-2005, f. 12-13-05, cert. ef. 1-1-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOF 6-2005(Temp), f. & cert. ef. 8-2-05 thru 1-27-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOF 13-2002, f. 12-9-02 cert. ef. 1-1-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOF 6-2002, f. & cert. ef. 7-1-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ FB 9-1996, f. 12-2-96, cert. ef. 1-1-97, Renumbered from 629-024-0101 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ FB 5-1994, f. 12-23-94, cert. ef. 1-1-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ FB 3-1994, f. 6-15-94, cert. ef. 9-1-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ FB 7-1991, f. & cert. ef. 10-30-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ FB 1-1991, f. & cert. ef. 5-23-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ FB 4-1990, f. & cert. ef. 7-25-90 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ FB 4-1988, f. 7-27-88, cert. ef. 9-1-88 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ FB 2-1987, f. 5-4-87, ef. 8-1-87 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ Reverted to FB 1-1985, f. & ef. 3-12-85 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ FB 2-1985(Temp), f. & ef. 4-24-85 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ FB 1-1985, f. & ef. 3-12-85 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ FB 3-1983, f. & ef. 9-13-83 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ FB 5-1978, f. & ef. 6-7-78 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ FB 1-1978, f. & ef. 1-6-78 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ FB 39, f. 7-3-74, ef. 7-25-74 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ FB 31, f. 6-14-72, ef. 7-1-72 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

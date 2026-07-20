@@ -1,0 +1,384 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Policy and Analytics - Chapter 409 
+ 
+ 
+ 
+ 
+ Division 25 ALL PAYER ALL CLAIMS DATA REPORTING PROGRAM 
+ 409-025-0120 
+ Data File Layout, Format, and Coding Requirements
+ 
+ 
+ (1) All mandatory reporters shall submit claims-based data for all claims where the subscriber’s residence is in Oregon or the subscriber is enrolled in a plan for which the State of Oregon is the payer. 
+(2) Claims-based data files shall include: 
+(a) Enrollment; 
+(b) Medical claims; 
+(c) Pharmacy claims; 
+(d) Dental claims; 
+(e) Provider; 
+(f) Subscriber-billed premiums; and 
+(g) Control totals files. 
+(3) Mandatory reporters must include plan-specific identifiers for members, subscribers, providers and contracts in required files. Mandatory reporters authorized by the Centers for Medicare and Medicaid Services or contracted through an insurer must provide the member’s identifier for those organizations in addition to the mandatory reporters’ member specific identifier. All identifiers must be: 
+(a) Sufficient length to be unique within the mandatory reporters’ solution; 
+(b) Assigned to a single individual, entity or contract; 
+(c) Consistent across all files for the submission; and 
+(d) Persistent over time unless change in identifier is required due to change in coverage or contract. 
+(4) The enrollment file shall be submitted by all mandatory reporters using the approved layout, format, and coding described in Appendix A, Enrollment. 
+
+ (a) Mandatory reporters shall report race and ethnicity data as outlined in Appendix A, Enrollment. This layout aligns with the Office of Management and Budget’s (OMB) Federal Register Notice of October 30, 1997 (62 FR 58782-58790). 
+(b) Mandatory reporters shall report primary language in accordance with ANSI/NISO guidance using the three-character string outlined in Codes for the Representation of Languages for Information Interchange. 
+(c) Race, ethnicity and primary language data shall be collected in a manner that aligns with the following principles: 
+(A) To the greatest extent practicable, race, ethnicity, and preferred language shall be self-reported. 
+(i) Collectors of race, ethnicity and primary language data may not assume or judge ethnic and racial identity or preferred signed, written and spoken language, without asking the individual. 
+(ii) If an individual is unable to self-report and a family member, advocate, or authorized representative is unable to report on his or her behalf, the information shall be recorded as unknown. 
+(B) When an individual declines to identify race, ethnicity or preferred language, the information shall be reported as refused. 
+(5) The membership total and claims control files shall be submitted by all mandatory reporters using the approved layout, format, and coding described in Appendix G, Membership Total and Claims Control. 
+(6) The subscriber-billed premium file shall be submitted by all mandatory reporters except CCOs using the approved layout, format, and coding described in Appendix F, Subscriber-Billed Premium. 
+(7) The provider file shall be submitted by all mandatory reporters except PBMs using the approved layout, format, and coding described in Appendix E, Provider. 
+(8) The medical claims file shall be submitted by all mandatory reporters except PBMs and dental carriers using the approved layout, format, and coding described in Appendix B, Medical Claims. 
+(9) The pharmacy claims file shall be submitted by PBMs, carriers and third party administratorsusing the approved layout, format, and coding described in Appendix C, Pharmacy Claims. 
+(10) The dental claims file shall be submitted by all mandatory reporters other than PBMs who provide dental coverage using the approved layout, format, and coding described in Appendix D, Dental Claims. 
+(11) All data elements are required unless specified as optional or situational within the file layout. 
+(12) All data files shall be submitted as tab-delimited files which have been encrypted and zipped prior to submission. 
+(13) Numeric data are positive integers unless otherwise specified. 
+(a) Negative values are allowed for quantities, charges, payment, co-payment, co-insurance, deductible, and prepaid amount. 
+(b) Negative values shall be preceded by a minus sign. 
+(14) All data files shall pass edit checks and validations implemented by the Authority or the Authority’s data vendor. 
+(a) Data vendors may perform quality and edit checks on data file submissions. If data files do not pass data vendor edit checks or validation, mandatory reporters must make corrections and resubmit data. Mandatory reporters must submit corrected data that passes all quality and edit checks or receive an approved exemption within 14 calendar days of notification by the Authority or the Authority’s data vendor of the error. 
+(b) Mandatory reporters must participate in efforts to validate and check the quality of current and historic APAC data, as prescribed and requested by the Authority. 
+(A) The Authority may request from mandatory reporter’s information from their internal records that is reasonably necessary to validate and check the quality of APAC data. This information may include, but is not limited to, aggregated number of enrolled members, number of claims and claim lines, charges, allowed amounts, paid amounts, co-insurance, co-payments, premiums, number of visits to primary care, emergency department, inpatient, and other health care treatment settings, and number of prescriptions. 
+(B) Mandatory reporters shall provide the aggregated information within 30 days of the Authority’s request. 
+(C) If the Authority finds errors through edit checks or validation, mandatory reporters must make corrections and resubmit data or receive an approved extension or exemption within 30 days or at the next regularly scheduled submission due date. 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 442.373 
+ 
+ 
+ Statutes/Other Implemented:  ORS 442.373 & ORS 442.372 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 2-2025, amend filed 10/24/2025, effective 10/24/2025 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 4-2023, amend filed 12/01/2023, effective 12/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 8-2022, amend filed 12/01/2022, effective 12/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 3-2021, amend filed 09/02/2021, effective 09/02/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 4-2020, amend filed 12/20/2020, effective 12/21/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 3-2019, amend filed 05/30/2019, effective 01/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 7-2018, amend filed 06/29/2018, effective 01/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 2-2017, f. 6-23-17, cert. ef. 1-1-18 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 1-2017, f. & cert. ef. 5-3-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 13-2016, f. & cert. ef. 9-13-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 10-2016, f. 6-22-16, cert. ef. 1-1-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 1-2016, f. & cert. ef. 1-5-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 4-2012, f. 5-23-12, cert. ef. 6-1-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 1-2010, f. 2-26-10, cert. ef. 3-1-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,240 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 308 ASSESSMENT OF PROPERTY FOR TAXATION 
+ 150-308-0160 
+ Minor Construction
+ 
+ 
+ (1) Definition: "Minor construction" is an improvement to real property that results in an addition to real market value (RMV), but does not qualify as an addition to maximum assessed value (MAV) due to a value threshold. The value threshold causing an addition to MAV for an improvement or improvements is an RMV increase of more than $18,200 in any one assessment year or more than $45,000 for all cumulative additions made over five assessment years, as adjusted upward based on any increase in the Consumer Price Index (CPI) as described in section (2) of this rule. 
+
+ (2) For each assessment year beginning on or after January 1, 2025, the department shall adjust the threshold dollar amounts in section (1) of this rule as follows: 
+
+ (a) Divide the average CPI for All Urban Consumers, West Region, for the prior calendar year by the average CPI for All Urban Consumers, West Region, for 2024. 
+
+ (b) Recompute the RMV thresholds under section (1) of this rule by multiplying $18,200 and $45,000 by any positive increase in the CPI determined under subsection (a) of this section. 
+
+ (3) Minor construction does not include general ongoing maintenance and repairs. 
+
+ (4) When testing the threshold for all cumulative additions made over five assessment years, use the cumulative RMV of all minor construction and major additions over a period not to exceed five consecutive assessment years. 
+
+ (a) Minor construction and major addition values are not market trended. 
+
+ (b) Values for retirements are not considered in the threshold test. 
+
+ (c) Values for minor construction items that are removed or destroyed prior to being an adjustment to MAV are subtracted from the minor construction cumulative RMV. 
+
+ (5) Once the threshold for all cumulative additions made over five assessment years is met, use the following steps to calculate the MAV adjustment: 
+
+ (a) Use minor construction values that are not market trended. 
+
+ (b) Make adjustments for any retirements from the prior assessment year. The net value of additions and retirements may not go below zero. 
+
+ (c) Apply the changed property ratio (CPR) from the year the cumulative RMV becomes an addition to MAV. 
+
+ (d) Reset the cumulative RMV for minor construction to zero and restart the five-year period. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 
+ 
+ 
+ Statutes/Other Implemented:  ORS 308.149 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 5-2024, amend filed 01/31/2024, effective 02/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 150-308.149(6), REV 58-2016, f. 8-13-16, cert. ef. 9-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 7-2014, f. 12-23-14, cert. ef. 1-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 8-2000, f. & cert. ef. 8-3-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 8-1998, f. 11-13-98, cert. ef. 12-31-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

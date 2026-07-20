@@ -1,0 +1,350 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+   Temporary rule language in effect until 11/21/2026. 
+ 
+ 
+ 
+ 
+ 
+ Department of Corrections 
+ Chapter 291 
+ 
+ 
+ 
+ 
+ 
+ Division 104 CLASSIFICATION (AIC) 
+ 291-104-0111 
+ Definitions 
+ 
+ 
+ (1) Administrative Review: A review of classification scoring, classification level, or classification override requested by an inmate and completed by the designated institution committee, facility functional unit manager, or Classification Manager. 
+
+ (2) Arrest: For the purposes of these rules, arrest means placing a person under full custody (i.e. after being fully restrained or after being placed in a law enforcement vehicle for transport) for the purpose of charging that person with an offense. 
+
+ (3) Classification Action: Initiation of initial classification, classification review, or classification override to determine an inmate’s custody classification level. 
+
+ (4) Classification Manager: A Department of Corrections employee responsible for the development, implementation, training, auditing, oversight and management of the classification function within the department. 
+
+ (5) Classification Review: The process used by the department to re-evaluate an inmate's assigned custody classification level. The assigned custody classification level may be changed as a result of the review. 
+
+ (6) Corrections Information System (CIS): A computer system dedicated to tracking information critical to the management of inmates and offenders under the custody, supervision or both of the Department of Corrections. 
+
+ (7) Custody: As it relates to escape, a person is in custody if a peace officer has placed the person under arrest for the purpose of charging that person with an offense. 
+
+ (8) Custody Classification Guide (Attachment 1): Criteria and guidelines that assist in understanding an inmate’s assigned custody classification level utilizing scoring elements determined by the Department of Corrections. 
+
+ (9) Custody Classification Level: One of five levels of supervision assigned to an inmate through initial and classification review procedures. 
+
+ (a) Level 5: An inmate assigned at this custody classification level meets one of the following criteria: 
+
+ (A) Has demonstrated behaviors causing serious management concerns, or has demonstrated behaviors that in the judgment of the department present a threat sufficient to require special security housing on intensive management status. 
+
+ (B) Has a sentence of death or is pending retrial in a case in which a sentence of death may be re-imposed. 
+
+ (C) Has a pending trial for a case in which a sentence of death may be imposed. 
+
+ (D) Is under investigation for or has been charged with the in-custody murder of another inmate or staff. 
+
+ (b) Level 4: An inmate assigned at this custody classification level presents a serious risk of escape or institutional violence, or has time remaining of more than 120 months to life, with or without parole. 
+
+ (c) Level 3: An inmate assigned at this custody classification level presents a moderate risk of escape, has a Level 3 detainer, has demonstrated behavior causing moderate management concern, or has time remaining of 61 to 120 months. 
+
+ (d) Level 2: An inmate assigned at this custody classification level presents a limited risk of escape, or has demonstrated behavior causing limited management concern, and has time remaining of 60 months or less. 
+
+ (e) Level 1: An inmate assigned at this custody classification level presents a minimal risk of escape, meets the criteria for Detainer-Not Applicable, has demonstrated behavior causing minimal management concern and has time remaining of 60 months or less. 
+
+ (10) Department of Corrections (DOC) Facility: Any institution, facility or staff office, including the grounds, operated by the Department of Corrections. 
+
+ (11) Designators: Information, alerts or statutory designations important for sentence computation and crucial to determining work crew eligibility, unfenced housing assignment, and the management of inmates and offenders both in institutions and in the community. 
+
+ (12) Escape:  For purposes of these rules, escape : 
+
+ (a) Means an unlawful departure of a person from custody ; or escape, attempted escape, or conspiracy to escape from any correctional facility, including state, federal, county , or juvenile facilities; or departure and failure to return to any facility or housing in which a person was court ordered to reside ; and 
+
+ (b) Includes the unauthorized departure or absence from this state by a person who is under the jurisdiction of the Psychiatric Security Review Board, or under the jurisdiction of the Oregon Health Authority under ORS 161.315 to 161.351; abscond while on temporary release or transitional leave from a Department of Corrections facility; or escape, attempted escape , or conspiracy to escape from the custody of officials while in a legitimate criminal justice building for a court appearance or from full custody of law enforcement, correctional employee, or employee from any partner agency assigned to supervise a person in custody for any of the reasons a person may be in custody while in the community . 
+
+ (13) Initial Classification: The process used by the Department of Corrections to assign an inmate a custody level upon his/her admission to the physical custody of the Department. 
+
+ (14) Inmate: Any person under the supervision of the Department of Corrections who is not on parole, post-prison supervision, or probation status. 
+
+ (15) Office of Population Management: A functional unit of the department that oversees capacity and resource management, the inmate classification system, high risk inmate placement, Interstate Corrections Compact, treatment and program screening, Oregon Youth Authority/ghost caseloads, centralized Static 99R assessments, centralized transfer authority, and state and inmate conflict review. 
+
+ (16) Override: An option utilized when there is a documented issue(s) not addressed in the classification scoring elements, or a degree of seriousness in a classification factor that justifies a higher or lower custody classification level than indicated by the classification action. 
+
+ (17) Peace Officer: A civil officer appointed to preserve law and order, such as a sheriff, police officer, or parole officer. 
+
+ (18) Policy Elements: Areas of potential risk that determine the inmate’s custody classification level: escape history, sentence remaining, detainers, and institutional behavior. 
+
+ (19) Serious Management Concerns: Participation either individually, or in a group, in behavior which poses a significant threat to the safe and secure operation of the facility, including, but not limited to, 
+
+ (a) Threatening or inflicting bodily injury on another person; 
+
+ (b) Posing an immediate risk of escape; 
+
+ (c) Promoting or engaging in disruptive group behavior; 
+
+ (d) Promoting security threat group activities; or 
+
+ (e) Being involved in any other activity that could significantly threaten the safe and secure operation of the facility, and that such behavior poses a sufficient threat that, in the judgment of the department, can only be adequately controlled in appropriate special housing. 
+
+ (20) Special Population Management (SPM) Committee: A committee composed of at least three department administrative staff to include a representative from Institution Operations, Behavioral Health Services, and the Office of Population Management. 
+
+ (21) Violence Predictor Score (VPS): A score based on a mathematical equation used to determine an inmate’s potential risk for violence in an institutional setting during the first twelve months of incarceration. The equation includes calculations based on an inmate’s age, gender, prior incarcerations, type of crime, aggression, drug history, and certain personality disorders. 
+
+ [ED. NOTE: Attachments referenced are available from the agency.] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 179.040, 423.020, 423.030 & 423.075 
+ 
+ 
+ Statutes/Other Implemented:  ORS 179.040, 423.020, 423.030 & 423.075 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 15-2026, temporary amend filed 05/26/2026, effective 05/26/2026 through 11/21/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 5-2015, f. & cert. ef. 5-21-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 1-2015(Temp), f. & cert. ef. 1-6-15 thru 7-3-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 11-2014, f. & cert. ef. 5-1-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 6-2014(Temp), f. 2-6-14, cert. ef. 2-12-14 thru 8-11-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 9-2013(Temp), f. & cert. ef. 10-23-13 thru 4-21-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 4-2013, f. & cert. ef. 4-15-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 11-2012(Temp), f. & cert. ef. 11-5-12 thru 5-4-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 11-2008, f. 5-8-08, cert. ef. 5-13-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 4-2006, f. 5-31-06, cert. ef. 6-1-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

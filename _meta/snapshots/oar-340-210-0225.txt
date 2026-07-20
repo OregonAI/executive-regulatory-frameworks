@@ -1,0 +1,380 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 210 STATIONARY SOURCE NOTIFICATION REQUIREMENTS 
+ 340-210-0225 
+ Notice of Construction and Approval of Plans: Types of Construction/Modification Changes 
+ 
+ 
+ For the purpose of OAR 340-210-0205 through 340-210-0250, emission calculations for determining the type of change at a source must use the regulated air pollutant emission capacity, except for Type 1 changes under subsection (1)(b) and Type 4 changes. The notices of construction changes are divided into the following types: 
+
+ (1) Type 1 changes include construction or modification for which the owner or operator is not required to obtain a permit or permit modification under OAR chapter 340, division 216, and where the changes meet the criteria in either subsection (a) or (b): 
+
+ (a) The construction or modification would: 
+
+ (A) Have emissions from any new, modified, or replaced device or activity, or any combination of devices or activities, of less than or equal to the de minimis levels defined in OAR 340-200-0020; 
+
+ (B) Not result in an increase of emissions from the source above any PSEL; 
+
+ (C) Not result in an increase of emissions from the source above the netting basis by more than or equal to the SER; 
+
+ (D) Not be used to establish a federally enforceable limit on the potential to emit; and 
+
+ (E) Not require a TACT determination under OAR 340-226-0130 or a MACT determination under OAR 340-244-0200; or 
+
+ (b) The construction or modification is one of the following: 
+
+ (A) Stationary internal combustion engines having a rated capacity <60 horsepower output; 
+
+ (B) Emergency stationary internal combustion Tier 4 engines having a rated capacity <670 horsepower (500 kilowatts) output; 
+
+ (C) Hand-held sanding equipment; 
+
+ (D) Portable vacuum blasting equipment using steel shot and vented to a fabric filter; 
+
+ (E) Shot peening operations, provided that no surface material is removed; 
+
+ (F) Replacement of equipment that is used to control processes, such as temperature, air pressure, water pressure, electrical current, flow rate, etc.; 
+
+ (G) Equipment and instrumentation used for quality control/assurance or inspection purposes; 
+
+ (H) Vacuum pumps; 
+
+ (I) Equipment used for extrusion, compression molding, and injection molding of plastics, provided that the VOC content of all mold release products or lubricants is <1% by weight; 
+
+ (J) Injection or blow-molding equipment for rubber or plastics, provided that no blowing agent other than compressed air, water, or carbon dioxide is used; 
+
+ (K) Presses or molds used for curing, post-curing, or forming composite products and plastic products, provided that the blowing agent contains no VOC or chlorinated compounds; 
+
+ (L) Equipment used exclusively for the mixing and blending of materials at ambient temperature to make water-based adhesives; 
+
+ (M) Dredging wet spoils handling and placement; 
+
+ (N) Graphic label and/or box labeling operations where the inks are applied by hand stamping or hand rolling; 
+
+ (O) Ultraviolet disinfection processes; 
+
+ (P) The cleaning and/or deburring of metal products where all tumblers are used without abrasive blasting; 
+
+ (Q) Ozone generators and ozonation equipment; 
+
+ (R) Emissions from the storage and application of road salt (calcium chloride or sodium chloride); 
+
+ (S) Process emissions from sources which are located at private, public, or vocational education institutions, where the emissions are primarily the result of teaching and training exercises, and the institution is not engaged in the manufacture of products for commercial sale; 
+
+ (T) Degreasing units which exclusively use caustics (e.g., potassium hydroxide and sodium hydroxide); 
+
+ (U) Equipment used for hydraulic or hydrostatic testing with water-based hydraulic fluids; 
+
+ (V) Storage tanks, reservoirs, pumping and handling equipment, and control equipment used to exclusively vent such equipment of any size, limited to soaps, lubricants, hydraulic fluid, vegetable oil, grease, animal fat, aqueous salt solutions or other materials and processes using appropriate lids and covers where there is no generation of objectionable odor or airborne particulate matter or toxic air pollutants listed in OAR chapter 340, division 247; 
+
+ (W) Operation, loading and unloading storage of butane, propane, or liquefied petroleum gas with a vessel capacity less than 40,000 gallons where annual emissions are l ess than or equal to the de minimis levels ; 
+
+ (X) Tanks, vessels and pumping equipment, with lids or other appropriate closure for storage or dispensing of aqueous solutions of inorganic salts, bases and acids; 
+
+ (Y) Ultraviolet curing processes, to the extent that toxic air contaminants as defined in OAR chapter 340, division 247 are not emitted; 
+
+ (Z) Contaminant detectors, sampling devices and recorders; 
+
+ (AA) Environmental chambers and humidity chambers using only gases that are not toxic air contaminants listed in OAR chapter 340, division 247; 
+
+ (BB) Lithographic printing equipment which uses laser printing; 
+
+ (CC) Equipment used exclusively for conveying and storage of plastic pellets that don’t break down or degrade and are only used for indoor manufacturing; 
+
+ (DD) Gas cabinets using only gasses that are not regulated air pollutants; 
+
+ (EE) Salt baths using nonvolatile salts and not used in operations which result in air emissions; 
+
+ (FF) Paper shredding and carpet and paper shearing, fabric brushing and sueding as well as associated conveying systems, baling equipment, and control equipment venting such equipment. This exemption does not include carpet and fabric recycling operations; 
+
+ (GG) Hammermills used exclusively to process aluminum and/or tin cans, and control equipment exclusively venting such equipment; 
+
+ (HH) Drop hammers or hydraulic presses for forging or metal working; or 
+
+ (II) Concrete application, and installation. 
+
+ (2) Type 2 changes include construction or modification for which the owner or operator is not required to obtain a permit or permit modification under OAR chapter 340, division 216, and where the construction or modification would: 
+
+ (a) Have emissions from any new, modified, or replaced device or activity, or any combination of devices or activities, of less than the SER defined in OAR 340-200-0020 ; 
+
+ (b) Not result in an increase of emissions from the source above any PSEL; 
+
+ (c) Not result in an increase of emissions from the source above the netting basis by more than or equal to the SER; 
+
+ (d) Not be used to establish a federally enforceable limit on the potential to emit; 
+
+ (e) Be used to establish a state-only enforceable limit on the potential to emit; 
+
+ (f) Not require a TACT determination under OAR 340-226-0130 or a MACT determination under OAR 340-244-0200; and 
+
+ (g) Not cause or contribute to a new exceedance of a National A mbient A ir Quality Standard adopted under OAR chapter 340, division 202 for a new or replaced device or activity.   
+
+ (3) Type 3 changes include construction or modification where the construction or modification would: 
+
+ (a) Have emissions from any new, modified, or replaced device or activity, or any combination of devices or activities, of more than or equal to the SER defined in OAR 340-200-0020; 
+
+ (b) Result in an increase of emissions from the source above any PSEL before applying unassigned emissions or emissions reduction credits available to the source but less than the SER after applying unassigned emissions or emissions reduction credits available to the source; 
+
+ (c) Be used to establish a federally enforceable limit on the potential to emit; 
+
+ (d) Require a TACT determination under OAR 340-226-0130 or a MACT determination under 340-244-0200; or 
+
+ (e) Not cause or contribute to a new exceedance of a National A mbient A ir Quality Standard adopted under OAR chapter 340, division 202 for a new or replaced device or activity. 
+
+ (4) Type 4 changes include construction or modification subject to New Source Review under OAR chapter 340, division 224. 
+
+ [NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040 except for OAR 340-210-0225(2)(e).] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, 468A.025, 468A.040, 468A.050, ORS 468A.055, 468A.070 & 468A.310 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468A.025, 468A.035, 468A.040, 468A.050, 468A.055, 468A.070 & 468A.310 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 19-2022, amend filed 11/18/2022, effective 03/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 7-2015, f. & cert. ef. 4-16-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01, Renumbered from 340-210-0220 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-0820 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 19-1993, f. & cert. ef. 11-4-93 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 12-1993, f. & cert. ef. 9-24-93, Renumbered from 340-020-0030 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 4-1993, f. & cert. ef. 3-10-93 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 5-1989, f. 4-24-89, cert. ef. 5-1-89 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 15, f. 6-12-70, ef. 9-1-70 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,164 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Workers' Compensation Division - Chapter 436 
+ 
+ 
+ 
+ 
+ Division 8 ELECTRONIC MEDICAL BILLING 
+ 436-008-0005 
+ Definitions 
+ 
+ For the purpose of these rules and the Oregon Electronic Billing and Payment Companion Guide:  (1) “Clearinghouse” means an entity that is an authorized agent of the insurer or health care provider, including billing services, re-pricing companies, community health management information systems or community health information systems, and “value-added” networks and switches that does either of the following functions:  (a) Processes or facilitates the processing of health information received from another entity in a nonstandard format or containing nonstandard data content into standard data elements or a standard transaction.  (b) Receives a standard transaction from another entity and processes or facilitates the processing of health information into nonstandard format or nonstandard data content for the receiving entity.  (2) “Companion guide” means the Oregon Workers’ Compensation Division Electronic Billing and Payment Companion Guide adopted by the division in these rules that provides standards for workers’ compensation electronic billing transactions.  (3) “Complete electronic bill submission” means an electronic medical billing transaction that is populated with current and valid values defined in the applicable standard set forth in OAR 436-008-0004 that:  (a) Includes the correct billing format, with the correct billing code sets;  (b) Is transmitted in compliance with all necessary format requirements; and  (c) Contains, in legible text, all supporting documentation that is expressly required by law or can reasonably be expected by the payer or its agent under the jurisdiction’s law.  (4) “Days” means calendar days. For calendar days, the first day is not included. The last day is included unless it is a Saturday, Sunday, or legal holiday. In that case, the period runs until the end of the next day that is not a Saturday, Sunday, or legal holiday. Legal holidays are those listed in ORS 187.010 and 187.020.  (5) “Director” means the director of the Department of Consumer and Business Services.  (6) “Division” means the Workers’ Compensation Division of the Department of Consumer and Business Services.  (7) “Electronic” refers to a communication between computerized data exchange systems that complies with the standards set forth in these rules.  (8) “Explanation of benefits (EOB)” means an electronic remittance advice (ERA) or notification, sent or made available electronically by the insurer or an authorized agent of the insurer, to the health care provider, health care facility, or third-party biller or assignee regarding payment or denial of a bill, reduction of a bill, or refund.  (9) “Insurer” means:  (a) The State Accident Insurance Fund Corporation;  (b) An insurer authorized under ORS chapter 731 to transact workers’ compensation insurance in Oregon;  (c) An insurer-authorized agent or payer;  (d) An assigned claims agent selected by the director under ORS 656.054; or  (e) An employer or employer group that has been certified under ORS 656.430 meeting the qualifications of a self-insured employer under ORS 656.407.  (10) “Medical Bill” means a statement of charges for medical services.  (11) “Payer” means the insurer or an entity authorized to make payments on behalf of the insurer.  (12) “Supporting documentation” means those documents necessary for the insurer to process a bill, including but not limited to medical reports and records, evaluation reports, narrative reports, assessment reports, progress report/notes, chart notes, hospital records, and diagnostic test results.  (13) “Trading partner” means any entity that exchanges information electronically with another entity. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 656 252 & 656.726(4) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 656.726(4) 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 9-2014, f. 7-14-14, cert. ef. 1-1-15 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Transportation 
+ Commerce and Compliance Division - Chapter 740 
+ 
+ 
+ 
+ 
+ Division 65 ELECTRONIC TRUCK TRACKING REPORTS 
+ 740-065-0010 
+ General Provisions 
+ 
+ (1) Any motor carrier that has an EHUT vehicle equipped with an electronic distance recorder, as specified in sections (2) and (3), that is properly working and provides an accurate and reliable record relating to the identity, distance travelled by, and the location of the EHUT vehicle may file tax reports and transmit taxes for the Oregon Highway Use Tax using an electronic system. Mixed fleets containing both EHUT equipped vehicles and non-EHUT equipped vehicles may also file tax reports and transmit taxes for Oregon Highway Use Tax using an electronic system provider if at least 50 percent of the fleet are equipped with EHUT equipment and the provisions of section (1) are otherwise met. Electronic system providers must identify transmitted data originating from non-EHUT equipped vehicles.  (2) The EHUT vehicle must be fitted with an electronic distance recorder that:  (a) Is provided by an electronic system provider;  (b) Is fitted in accordance with these rules; and  (c) Accurately records the distance travelled by the EHUT vehicle at all times.  (3) A motor carrier is not eligible to file tax returns under these rules if the motor carrier:  (a) Operates the EHUT vehicle with an electronic distance recorder that has not been provided by an electronic system provider;  (b) Operates the EHUT vehicle with an electronic distance recorder not fitted to the motor vehicle in accordance with these rules;  (c) Operates the EHUT vehicle with an electronic distance recorder fitted to the vehicle that is not accurately recording the distance travelled by the motor vehicle;  (d) Wilfully alters, damages or tampers with an electronic distance recorder fitted to a EHUT vehicle, or any equipment that is required for the operation of the electronic distance recorder fitted to the vehicle, in a manner that affects, or is likely to affect, the accuracy of the electronic distance recorder;  (e) Operates the EHUT vehicle on a taxable road if the motor carrier knows, or should have known, that the electronic distance recorder fitted to the EHUT vehicle has been modified or repaired, except as authorized by these rules; or  (f) Modifies or attempts to modify or repair, any part of an electronic distance recorder fitted to the EHUT vehicle except as provided by these rules.  (4) Taxes for an EHUT vehicle are based on the declared combined weight of the EHUT vehicle in accordance with the weight group tax rates shown in the tables set forth in ORS 825.476. However, whenever a motor carrier operates an EHUT vehicle at a weight higher than its declared combined weight, the motor carrier must report and pay at the heaviest weight all miles operated in that configuration for the entire reporting period.  (5) The tax status of an EHUT vehicle operating under flat fees is determined by the weight of the vehicle, the commodity being transported, the purpose of the transportation and highways traveled. The tax status of the EHUT vehicle’s operation will be determined by the motor carrier pursuant to OAR 740-055-0035 and entered in the electronic system for that operation. Any changes in the tax status of the EHUT vehicle will also be determined by motor carrier pursuant to OAR 740-055-0035 and entered in the electronic system.  (6) If a motor carrier provides information that the motor carrier knows, or should have known, is incorrect regarding the declared weight or actual combined weight of an EHUT vehicle the motor carrier will be assessed taxes on the EHUT vehicle based on the higher combined weight, in addition to interest and penalties.  (7) Any motor carrier that operates an EHUT vehicle under these rules agrees that when the electronic system is properly working, the system’s records related to the identity, distance traveled by, and the location of the EHUT vehicle, may be used in calculating tax reports. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 184.616, 184.619 & 823.011 
+ 
+ 
+ Statutes/Other Implemented:  ORS 319.020, 319.530, 825.017, 825.474 & 825.480 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ MCTD 7-2014, f. & cert. ef. 9-22-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

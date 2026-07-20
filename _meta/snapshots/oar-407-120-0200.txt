@@ -1,0 +1,221 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Chapter 407 
+ 
+ 
+ 
+ 
+ 
+ Division 120 PROVIDER RULES 
+ 407-120-0200 
+ Department System Administration 
+ 
+ (1) No individual or entity shall be registered to conduct a web portal or an EDI transaction with the Department except as authorized under these the rules. Eligibility and continued participation as a provider, PHP, allied agency, or web portal submitter in the conduct of DDE transactions, or as a trading partner or EDI submitter in the conduct of registered transactions, is conditioned on the execution and delivery of the documents required in these rules, the continued accuracy of that information consistent with OAR 407-120-0190, and compliance with a requirements of these rules. Data, including confidential information, governed by these rules may be used for purposes related to treatment, payment, and health care operations and for the administration of programs or services by the Department.  (2) In addition to the requirements of section (1) of this rule, in order to qualify as a trading partner:  (a) An individual or entity must be a Department provider, PHP, clinic, or allied agency pursuant to a current valid contract; and  (b) A provider, PHP, clinic, or allied agency must have submitted an executed TPA and all related documentation, including the application for authorization, that identifies and authorizes an EDI submitter.  (3) In addition to the requirements of section (1) of this rule, in order to qualify as an EDI submitter:  (a) A trading partner must have identified the individual or entity as an authorized EDI submitter in the application for authorization;  (b) If a trading partner identifies itself as an EDI submitter, the application for authorization must include the information required in the "Trading Partner Authorization of EDI Submitter" and the "EDI Submitter Information"; and  (c) If a trading partner uses an agent as an EDI submitter, the application for authorization must include the information described in section (3)(b) and the signed EDI submitter certification.  (4) The EDI registration process described in these rules provides the Department with essential profile information that the Department may use to confirm that a trading partner or EDI submitter is not otherwise excluded or disqualified from submitting EDI transactions to the Department.  (5) Nothing in these rules or a TPA prevents the Department from requesting additional information from a trading partner or an EDI submitter to determine their qualifications or eligibility for registration as a trading partner or EDI submitter.  (6) The Department shall deny a request for registration as a trading partner or for authorization of an EDI submitter or an EDI registration if it finds any of the following:  (a) A trading partner or EDI submitter has substantially failed to comply with the applicable administrative rules or laws;  (b) A trading partner or EDI submitter has been convicted of (or entered a plea of nolo contendre) a felony or misdemeanor related to a crime or violation of federal or state public assistance laws or privacy statutes or regulations;  (c) A trading partner or EDI submitter is excluded from participation in the Medicare program, as determined by the DHHS secretary; or  (d) A trading partner or EDI submitter fails to meet the qualifications as a trading partner or EDI submitter.  (7) Failure to comply with these rules, trading partner agreement, or EDI submitter certification or failure to provide accurate information on an application or certification may also result in sanctions and payment recovery pursuant to applicable Department program contracts or rules.  (8) For providers using the DDE submission system by the Department web portal, failure to comply with the terms of these rules, a web portal registration form, or failure to provide accurate information on the registration form may result in sanctions or payment recovery pursuant to the applicable Department program contracts or rules. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 409.050 & 414.065 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.065 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 13-2011, f. & cert. ef. 12-27-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 5-2011(Temp), f. & cert. ef. 7-1-11 thru 12-27-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 410-001-0200, DHSD 1-2008, f. & cert. ef. 2-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 30-2007(Temp), f. 12-31-07, cert. ef. 1-1-08 thru 6-28-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 55-2003, f. & cert. ef. 8-22-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 25-2003(Temp), f. & cert. ef. 3-21-03 thru 9-8-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

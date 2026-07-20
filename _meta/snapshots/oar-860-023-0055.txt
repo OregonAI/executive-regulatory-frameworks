@@ -1,0 +1,257 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Public Utility Commission 
+ Chapter 860 
+ 
+ 
+ 
+ 
+ 
+ Division 23 SERVICE STANDARDS 
+ 860-023-0055 
+ Retail Telecommunications Service Standards for Large Telecommunications Utilities 
+ 
+ Every large telecommunications utility must adhere to the following standards:  (1) Definitions.  (a) "Access Line" — A facility engineered with dialing capability to provide retail telecommunications service that connects a customer's service location to the Public Switched Telephone Network;  (b) "Average Busy Season Busy Hour" — The hour that has the highest average traffic for the three highest months, not necessarily consecutive, in a 12-month period. The busy hour traffic averaged across the busy season is termed the average busy season busy hour traffic;  (c) "Average Speed of Answer" — The average time that elapses between the time the call is directed to a representative and the time it is answered;  (d) "Blocked Call" — A properly dialed call that fails to complete to its intended destination except for a normal busy (60 interruptions per minute);  (e) "Customer" — Any person, firm, partnership, corporation, municipality, cooperative, organization, governmental agency, or other legal entity that has applied for, been accepted, and is currently receiving local exchange telecommunications service;  (f) "Exchange" — Geographic area defined by maps filed with and approved by the Commission for the provision of local exchange telecommunications service;  (g) "Final Trunk Group" — A last-choice trunk group that receives overflow traffic and that may receive first-route traffic for which there is no alternative route;  (h) "Force Majeure" — Circumstances beyond the reasonable control of a large telecommunications utility, including but not limited to, delays caused by:  (A) A vendor in the delivery of equipment, where the large telecommunications utility has made a timely order of equipment;  (B) Local, state, federal, or tribal government authorities in approving easements or access to rights of way, where the large telecommunications utility has made a timely application for such approval;  (C) The customer, including but not limited to, the customer's construction project or lack of facilities, or failure to provide access to the customer's premises;  (D) Uncontrollable events, such as explosion, fire, floods, frozen ground, tornadoes, severe weather, epidemics, injunctions, wars, acts of terrorism, strikes or work stoppages, and negligent or willful misconduct by customers or third parties, including but not limited to, outages originating from introduction of a virus onto the provider's network;  (i) "Held Order for Lack of Facilities" — Request for access line service delayed beyond the initial commitment date due to lack of facilities. An access line service order includes an order for new service, transferred service, additional lines, or change of service;  (j) "Initial Commitment Date" — The initial date pledged by the large telecommunications utility to provide a service, facility, or repair action. This date is within the minimum time set forth in these rules or a date determined by good faith negotiations between the customer and the large telecommunications utility;  (k) "Network Interface" — The point of interconnection between the large telecommunications utility's communications facilities and customer terminal equipment, protective apparatus, or wiring at a customer's premises. The network interface must be located on the customer's side of the large telecommunications utility's protector;  (l) "Retail Telecommunications Service" — A telecommunications service provided for a fee to customers. Retail telecommunications service does not include a service provided by a large telecommunications utility to another telecommunications utility or competitive telecommunications provider, unless the telecommunications utility or competitive telecommunications provider receiving the service is the end user of the service;  (m) "Tariff" — A schedule showing rates, tolls, and charges that the large telecommunications utility has established for a retail service;  (n) "Trouble Report" — A report of a malfunction that affects the functionality and reliability of retail telecommunications service on existing access lines, switching equipment, circuits, or features made up to and including the network interface, to a large telecommunications utility by or on behalf of that large telecommunications utility's customer;  (o) "Wire Center" — A facility where local telephone subscribers' access lines converge and are connected to switching equipment that provides access to the Public Switched Telephone Network, including remote switching units and host switching units. A wire center does not include collocation arrangements in a connecting large telecommunications utility's wire center or broadband hubs that have no switching equipment.  (2) Measurement and Reporting Requirements. A large telecommunications utility must take the measurements required by this rule and report them to the Commission as specified. Reported measurements must be reported to the first significant digit (i.e., one number should be reported to the right of the decimal point). The service quality objective service levels set forth in sections 4 through 8 of this rule apply only to normal operating conditions and do not establish a level of performance to be achieved during force majeure events.  (3) Additional Reporting Requirements. The Commission may require a large telecommunications utility to submit additional reports on any item covered by this rule.  (4) Provisioning and Held Orders for Lack of Facilities. The representative of the large telecommunications utility must give a retail customer an initial commitment date of not more than six business days after a request for access line service, unless a later date is determined through good faith negotiations between the customer and the large telecommunications utility. The large telecommunications utility may change the initial commitment date only if requested by the customer. When establishing the initial commitment date, the large telecommunications utility may take into account the actual time required for the customer to meet prerequisites; e.g., line extension charges or trench and conduit requirements. If a request for service becomes a held order for lack of facilities, the serving large telecommunications utility must, within five business days, send or otherwise provide the customer a written commitment to fill the order.  (a) Measurement:  (A) Commitments Met — A large telecommunications utility must calculate the monthly percentage of commitments met for service, based on the initial commitment date, across its Oregon service territory. Commitments missed for reasons solely attributed to customers, another telecommunications utility or a competitive telecommunications provider may be excluded from the calculation of the "commitments met" results;  (B) Held Orders for Lack of Facilities — A large telecommunications utility must determine the total monthly number of held orders, due to lack of facilities, not completed by the initial commitment date during the reporting month and the number of primary (initial access line) held orders, due to lack of facilities, over 30 days past the initial commitment date.  (b) Objective Service Level:  (A) Commitments Met — Each large telecommunications utility must meet at least 90 percent of its commitments for service;  (B) Held Orders:  (i) The number of held orders for the lack of facilities for each large telecommunications utility must not exceed the larger of two per wire center per month averaged over the large telecommunications utility's Oregon service territory, or five held orders for lack of facilities per 1,000 inward orders;  (ii) The total number of primary held orders for lack of facilities in excess of 30 days past the initial commitment date must not exceed 10 percent of the total monthly held orders for lack of facilities within the large telecommunications utility's Oregon service territory.  (c) Reporting Requirement: Each large telecommunications utility must report monthly to the Commission the percentage of commitments met for service, total number of held orders for lack of facilities, and the total number of primary held orders for lack of facilities over 30 days past the initial commitment date.  (d) Retention Requirement: Each large telecommunications utility must maintain records about held orders for lack of facilities for one year. The record must explain why each order is held and the initial commitment date.  (5) Trouble Reports. Each large telecommunications utility must maintain an accurate record of all reports of malfunction made by its customers.  (a) Measurement: A large telecommunications utility must determine the number of customer trouble reports that were received during the month. The large telecommunications utility must relate the count to the total working access lines within a reporting wire center. A large telecommunications utility need not report those trouble reports that were caused by circumstances beyond its control. The approved trouble report exclusions are:  (A) Cable Cuts: A large telecommunications utility may take an exclusion if the "buried cable location" (locate) was either not requested or was requested and was accurate. If a large telecommunications utility or the utility's contractor caused the cut, the exclusion can only be used if the locate was accurate and all general industry practices were followed;  (B) Internet Service Provider (ISP) Blockage: If an ISP does not have enough access trunks to handle peak traffic;  (C) Modem Speed Complaints: An exclusion may be taken if the copper cable loop is tested at the subscriber location and the objective service levels in section 10 of this rule were met;  (D) No Trouble Found: Where no trouble is found, one exemption may be taken. If a repeat report of the same trouble is received within a 30-day period, the repeat report and subsequent reports must be counted;  (E) New Feature or Service: Trouble reports related to a customer's unfamiliarity with the use or operation of a new (within 30 days) feature or service;  (F) No Access: An exclusion may be taken if a repair appointment was kept and the copper based access line at the nearest accessible terminal met the objective service levels in section 10 of this rule. If a repeat trouble report is received within the following 30-day period, the repeat report and subsequent reports must be counted;  (G) Subsequent Tickets/Same Trouble/Same Access Line: Only one trouble report for a specific complaint for the same access line should be counted within a 48-hour period. All repeat trouble reports after the 48-hour period must be counted;  (H) Non-Regulated or Deregulated Equipment: Trouble associated with such equipment should not be counted;  (I) Trouble with Other Telecommunications Utilities or Competitive Telecommunications Providers: A trouble report caused solely by another telecommunications utility or competitive telecommunications provider;  (J) Lightning Strikes: Trouble reports received for damage caused by lightning strikes can be excluded if all accepted grounding, bonding, and shielding practices were followed by the large telecommunications utility at the damaged location; and  (K) Other exclusions: As approved by the Commission.  (b) Objective Service Level: A large telecommunications utility must maintain service so that the monthly trouble report rate, after approved trouble report exclusions, does not exceed:  (A) For wire centers with more than 1,000 access lines: two per 100 working access lines per wire center more than three times during a sliding 12-month period.  (B) For wire centers with 1,000 or less access lines: three per 100 working access lines per wire center more than three times during a sliding 12-month period.  (c) Reporting Requirement: Each large telecommunications utility must report monthly to the Commission:  (A) The trouble report rate by wire center;  (B) The reason(s) a wire center meeting the standard (did not exceed the trouble report rate threshold for more than three of the last 12 months) exceeded a trouble report rate of 3.0 per 100 working access lines during the reporting month;  (C) The reason(s) a wire center not meeting the standard, after the exclusion adjustment, exceeded the trouble report rate threshold per 100 access lines during the reporting month; and  (D) The access line count for each wire center.  (d) Retention Requirement: Each large telecommunications utility must maintain a record of reported trouble in such a manner that it can be forwarded to the Commission upon the Commission's request. The large telecommunications utility must keep all records for a period of one year. The record of reported trouble must contain as a minimum the:  (A) Telephone number;  (B) Date and time received;  (C) Time cleared;  (D) Type of trouble reported;  (E) Location of trouble; and  (F) Whether or not the present trouble was within 30 days of a previous trouble report.  (6) Repair Clearing Time. This standard establishes the clearing time for all trouble reports from the time the customer reports the trouble to the large telecommunications utility until the trouble is resolved. The large telecommunications utility must provide each customer making a network trouble report with a commitment time when the large telecommunications utility will repair or resolve the problem.  (a) Measurement: A large telecommunications utility must calculate the percentage of trouble reports cleared within 48 hours of receiving a report for each repair center. Alternatively, the large telecommunication utility may use the following weekend exception to calculate the percentage for trouble reports cleared for those reports that are received between 12 pm on Friday until 5 pm on Sunday.  (A) The trouble reports cleared must be calculated for reports received between 12 pm Friday and 5 pm Saturday and cleared by 5 pm the following Monday for each repair center.  (B) The trouble reports cleared must be calculated for reports received between 5 pm Saturday and 5 pm Sunday and cleared by 5 pm the following Tuesday for each repair center.  Alternate weekend repair calculations must be aggregated into the calculation for the percentage of trouble reports cleared within 48 hours.  (b) Objective Service Level: A large telecommunications utility must clear at least 90 percent of all trouble reports within 48 hours of receiving a report for each repair center. Alternatively, for those reports that are received between 12 pm on Friday and 5 pm on Sunday, the large telecommunication utility may use the following weekend exception to calculate the percentage for trouble reports cleared:  (A) The large telecommunications utility must clear 90 percent of all trouble reports received between 12 pm Friday and 5 pm Saturday by 5 pm the following Monday for each repair center.  (B) The large telecommunications utility must clear 90 percent of all trouble reports received between 5 pm Saturday and 5 pm Sunday by 5 pm the following Tuesday for each repair center.  (c) Reporting Requirement: Each large telecommunications utility must report monthly to the Commission the percentage of all trouble reports cleared within 48 hours of receiving the report by each repair center, with optional adjustments allowed for weekend repair exceptions described in (b). A large telecommunications utility must use its best efforts to complete out-of-service restorations for business customers. In addition, a large telecommunications utility must use its best efforts to complete out-of-service restorations for residential customers who have identified either a medical necessity or no access to an alternative means of voice or E-911 communications.  (d) A large telecommunications utility must indicate in its report if it opts to use the alternative weekend exception period reporting.  (e) Retention Requirement: None.  (7) Blocked Calls. A large telecommunications utility must engineer and maintain all intraoffice, interoffice, and access trunking and associated switching components to allow completion of calls made during the average busy season busy hour without encountering blockage or equipment irregularities in excess of levels listed in subsection (7)(b) of this rule.  (a) Measurement:  (A) A large telecommunications utility must collect traffic data; i.e., peg counts and usage data generated by individual components of equipment or by the wire center as a whole, and calculate blockage levels of the interoffice final trunk groups;  (B) System blockage is determined by special testing at the wire center. Commission Staff or a telecommunications utility technician will place test calls to a predetermined test number, and the total number of attempted calls and the number of completed calls will be counted. The percentage of calls completed must be calculated.  (b) Objective Service Level:  (A) A large telecommunications utility must maintain interoffice final trunk groups to allow 99 percent completion of calls during the average busy season busy hour without blockage (P.01 grade of service);  (B) A large telecommunications utility must maintain its switch operation so that 99 percent of the calls do not experience blockage during the normal busy hour.  (C) When a large telecommunications utility fails to maintain the interoffice final trunk group P.01 grade of service for four or more consecutive months, it will be considered out-of-standard until the condition is resolved. A single repeat blockage within two months of restoring the P.01 grade of service will be considered a continuation of the original blockage.  (c) Reporting Requirement: Each large telecommunications utility must report monthly to the Commission:  (A) Local and extended area service (EAS) final trunk groups that do not meet the objective service level for trunk group blockage, measured from each of its switches, regardless of the ownership of the terminating switch;  (B) Its tandem switch final trunk group blockages associated with EAS traffic;  (C) Any known cause for the blockage and actions to bring the trunks into standard; and  (D) Identity of the telecommunications utility or competitive telecommunications provider, if other than the reporting large telecommunications utility, responsible for maintaining those final trunk groups not meeting the standard.  (d) Retention Requirement: Each large telecommunications utility must maintain records for one year.  (8) Access to Large Telecommunications Utility Representatives. This rule sets the allowed time for large telecommunications utility business office or repair service center representatives to answer customer calls.  (a) Measurement:  (A) Direct Representative Answering: A large telecommunications utility must measure the answer time from the first ring at the large telecommunications utility business office or repair service center;  (B) Driven, Automated, or Interactive Answering System: The option of transferring to the large telecommunications utility representative must be included in the initial local service-screening message. The large telecommunications utility must measure the answering time from the point a call is directed to its representatives; e.g., when the call leaves the Voice Response Unit;  (C) Each large telecommunications utility must calculate:  (i) The monthly percentage of the total calls placed to the business office and repair service center and the number of calls answered by representatives within 20 seconds; or  (ii) The average speed of answer time for the total calls received by the business office and repair service center.  (b) Objective Service Level:  (A) No more than 1 percent of calls to the large telecommunications utility business office or repair service center may encounter a busy signal; and  (B) The large telecommunications utility representatives must answer at least 80 percent of calls within 20 seconds or have an average speed of answer time of 50 seconds or less.  (c) Reporting Requirement:  (A) Each large telecommunications utility must report monthly to the Commission an exception report if busy signals were encountered in excess of 1 percent for either the business office or repair service center; and  (B) Each large telecommunications utility must report monthly to the Commission the percentage of calls answered within 20 seconds or the average speed of answer time for both the business office and repair service center. Once a method of measurement is reported by the provider, that method can only be changed with permission of the Commission.  (d) Retention Requirement: None.  (9) Interruption of Service Notification. A large telecommunications utility must report significant outages that affect customer service. These interruptions could be caused by switch outage, electronic outage, cable cut, or construction.  (a) Measurement: A large telecommunications utility must notify the Commission when an interruption occurs that exceeds the following thresholds:  (A) Cable cuts, excluding service wires and wires placed in lieu of cable, or electronic outages lasting longer than 30 minutes and affecting 50 percent or more of in-service lines.  (B) Toll or Extended Area Service isolation lasting longer than 30 minutes and affecting 50 percent or more of in-service lines.  (C) Isolation of a central office (host or remote) from the E 9-1-1 emergency dialing code or isolation of a Public Safety Answering Position (PSAP).  (D) Isolation of a wire center for more than 15 minutes.  (E) Outage of the business office or repair center access system lasting longer than 15 minutes in those instances where the traffic cannot be re-routed to a different center.  (b) Objective Service Level: Not applicable.  (c) Reporting Requirement: A large telecommunications utility must report service interruptions to the Commission engineering staff by telephone, by facsimile, by electronic mail, or personally within two hours during normal work hours of the business day after the company becomes aware of such interruption of service. Interim reports will be given to the Commission as significant information changes (e.g., estimated time to restore, estimated impact to customers, cause of the interruption, etc.) until it is reported that the affected service is restored.  (d) Retention Requirement: None.  (10) Customer Access Line Testing. All customer access lines must be designed, installed, and maintained to meet the levels in subsection (b) of this section.  (a) Measurement: Each large telecommunications utility must make all loop parameter measurements at the network interface, or as close as access allows.  (b) Objective Service Level: Each access line must meet the following levels:  (A) Loop Current: The serving wire center loop current, when terminated into a 400-ohm load, must be at least 20 milliamperes;  (B) Loop Loss: The maximum loop loss, as measured with a 1004-hertz tone from the serving wire center, must not exceed 8.5 decibels (dB);  (C) Metallic Noise: The maximum metallic noise level, as measured on a quiet line from the serving wire center, must not exceed 20 decibels above referenced noise level — C message weighting (dBrnC);  (D) Power Influence: As a goal, power influence, as measured on a quiet line from the serving wire center, must not exceed 80 dBrnC.  (c) Reporting Requirement: A large telecommunications utility must report measurement readings as directed by the Commission.  (d) Retention Requirement: None.  (11) Customer Access Lines and Wire Center Switching Equipment. All combinations of access lines and wire center switching equipment must be capable of accepting and correctly processing at least the following network control signals from the customer premises equipment. The wire center must provide dial tone and maintain an actual measured loss between interoffice and access trunk groups.  (a) Measurement: Each large telecommunications utility must make measurements at or to the serving wire center.  (b) Objective Service Level:  (A) Dial Tone Speed. Ninety-eight percent of originating average busy hour call attempts must receive dial tone within three seconds;  (B) A large telecommunications utility must maintain all interoffice and access trunk groups so that the actual measured loss (AML) in no more than 30 percent of the trunks deviates from the expected measured loss (EML) by more than 0.7 dB and no more than 4.5 percent of the trunks deviates from EML by more than 1.7 dB.  (c) Reporting Requirement: None.  (d) Retention Requirement: None.  (12) Special Service Access Lines. All special service access lines must meet the performance requirements specified in applicable large telecommunications utility tariffs or contracts.  (13) Large Telecommunications Utility Interconnectivity. A large telecommunications utility connected to the facilities of another telecommunications utility or competitive telecommunications provider must operate its system in a manner that will not impede either company's ability to meet required standards of service. A large telecommunications utility must report interconnection operational problems promptly to the Commission.  (14) Remedies for Violation of This Standard.  (a) If a large telecommunications utility subject to this rule fails to meet a minimum service quality standard, the Commission must require the large telecommunications utility to submit a plan for improving performance as provided in ORS 759.450(5). If a large telecommunications utility does not meet the goals of its improvement plan within six months, or if the plan is disapproved by the Commission, the Commission may assess penalties in accordance with ORS 759.450(5) through (7).  (b) In addition to the remedy provided under ORS 759.450(5), if the Commission believes that a large telecommunications utility subject to this rule has violated one or more of its service standards, the Commission must give the large telecommunications utility notice and an opportunity to request a hearing. If the Commission finds a violation has occurred, the Commission may require the large telecommunications utility to provide the following relief to the affected customers:  (A) An alternative means of telecommunications service for violations of paragraph (4)(b)(B) of this rule;  (B) Customer billing credits equal to the associated non-recurring and recurring charges of the large telecommunications utility for the affected service for the period of the violation; and  (C) Other relief authorized by Oregon law.  (15)(a) If the Commission determines that effective competition exists in one or more exchange(s), it may exempt all telecommunications utilities and competitive telecommunications providers providing telecommunications services in the exchange(s) from the requirements of this rule, in whole or in part. In making this determination, the Commission will consider:  (A) The extent to which the service is available from alternative providers in the relevant exchange(s);  (B) The extent to which the services of alternative providers are functionally equivalent or substitutable at comparable rates, terms, and conditions;  (C) Existing barriers to market entry;  (D) Market share and concentration;  (E) Number of suppliers;  (F) Price to cost ratios;  (G) Demand side substitutability (e.g., customer perceptions of competitors as viable alternatives); and  (H) Any other factors deemed relevant by the Commission.  (b) When a large telecommunications utility petitions the Commission for exemption under this provision, the Commission must provide notice of the petition to all relevant telecommunications utilities and competitive telecommunications providers providing the applicable service(s) in the exchange(s) in question. The Commission will provide such notified telecommunications utilities and competitive telecommunications providers an opportunity to submit comments in response to the petition. The comments may include requests that, following the Commission's analysis outlined above in paragraphs (15)(a)(A) through (H), the commenting telecommunications utilities and competitive telecommunications providers be exempt from these rules for the applicable service(s) in the relevant exchange(s).  (c) The Commission may grant a large telecommunications utility's petition for an exemption from service quality reporting requirements if the large telecommunications utility meets all service quality objective service levels set forth in sections (4) through (8) of this rule for the 12 months prior to the month in which the petition is filed.  [Publications: Publications referenced are available from the agency] 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 183, 756 & 759 
+ 
+ 
+ Statutes/Other Implemented:  759.020, 759.035, 759.030, 759.050, 759.240 & 759.450 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 2-2014, f. & cert. ef. 1-22-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 6-2011, f. & cert. ef. 9-14-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 10-2005, f. & cert. ef. 12-27-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 7-2002, f. & cert. ef. 2-26-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 13-2001, f. & cert. ef. 5-25-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 13-2000, f. & cert. ef. 6-9-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 1-1997, f. & ef. 1-7-97 (Order No. 96-332) 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 23-1985, f. & ef. 12-11-85 (Order No. 85-1171) 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 164, f. 4-18-74, ef. 5-11-74 (Order No. 74-307) 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

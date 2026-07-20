@@ -1,0 +1,892 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Aging and People with Disabilities and Developmental Disabilities - Chapter 411 
+ 
+ 
+ 
+ 
+ Division 70 NURSING FACILITIES/MEDICAID GENERALLY AND REIMBURSEMENT 
+ 411-070-0465 
+ Uniform Chart of Accounts
+ 
+ 
+ The following account definitions will be used to classify the dollar amounts on the Nursing Facility Financial Statement (NFFS). The account balance is to be reported in whole dollars under the facility gross column on the NFFS and referenced by the providers' chart of accounts number. It is the provider's responsibility to ensure that the balances reported reconcile to their fiscal year statements and general ledger balances with any differences explained on Schedule A to Form SPD 35 or SPD 35A. The provider is responsible for making adjustments to these accounts for non-allowable items and amounts using the adjustment column to arrive at the net allowable balance. Each adjustment is to be explained on Schedule A to Form SPD 35 or SPD 35A. 
+
+ (1) CURRENT ASSETS -- The following accounts include cash and other assets reasonably expected to be realized in cash or sold, or consumed during the normal nursing facility operating cycle, or within one year when the operating cycle is less than one year. 
+
+ (a) 101 -- Cash on Hand -- This account balance represents the amount of cash on hand for petty cash funds. 
+
+ (b) 102 -- Cash in Bank -- This account balance represents the amount in a bank checking account. 
+
+ (c) 103 -- Cash in Savings -- This account balance represents the amount accumulated in a savings account. 
+
+ (d) 104 -- Resident Trust Account -- This account balance represents the amount of resident funds entrusted to the provider and held as cash on hand in the bank. 
+
+ (e) 109 -- Accounts Receivable -- This account balance represents the amounts due from or due on behalf of all residents at the end of the fiscal period being reported. 
+
+ (f) 110 -- Notes Receivable -- This account balance represents the current balance of amounts owed to the facility (payee) that are covered by a written promise to pay at a specified time, and is signed and dated by the maker. 
+
+ (g) 111 -- Allowance for Doubtful Accounts -- This account balance represents amounts owed to the facility and estimated to be uncollectible. 
+
+ (h) 115 -- Employee Advances -- This account balance represents amounts paid in advance to employees for salaries or wages that will be liquidated in the next payroll cycle following the closing date of the financial statement. 
+
+ (i) 120 -- Inventory -- This account balance represents the cost value of inventory on hand at the end of the reporting period. 
+
+ (j) 125 -- Prepaid Expenses -- This account balance represents the cost value of paid expenses not yet incurred covering regularly recurring costs of operation like rent, interest, and insurance. 
+
+ (k) 149 -- Other Current Assets -- This account balance comprises all current assets not identified above. Each item in this account, including short-term savings certificates, must be explained on Schedule A to Form SPD 35 or SPD 35A. 
+
+ (2) NON-CURRENT ASSETS -- The balances of the following accounts represent assets not recognized as current. 
+
+ (a) 151 -- Land -- This account balance represents the acquisition cost and other costs, like legal fees and excavation costs that are incurred to put the land in condition for its intended use. 
+
+ (b) 153 -- Building(s) -- This account balance represents the acquisition cost of permanent structures and property owned by the provider used to house residents. It includes the purchase or contract price of all permanent buildings and fixed equipment attached to and forming a permanent part of the building(s). 
+
+ (c) 154 -- Accumulated Depreciation -- This account balance represents the accumulation of provisions made to record the expiration in the building(s) life attributable to wear and tear through use, lapse of time, obsolescence, inadequacy or other physical or functional cause. The straight line method is the only recognized depreciation method for cost reimbursement. 
+
+ (d) 155 -- Land Improvements -- This account balance represents the acquisition cost of permanent improvements, other than buildings that add value to the land. It includes the purchase or contract price. 
+
+ (e) 156 -- Accumulated Depreciation -- This account is of the same nature and is used in the same manner as Account 154. 
+
+ (f) 157 -- Building Improvements -- This account balance represents the acquisition cost of additions or improvements that either add value to or increase the usefulness of the building(s). It includes the purchase or contract price. 
+
+ (g) 158 -- Accumulated Depreciation -- This account is of the same nature and is used in the same manner as Account 154. 
+
+ (h) 161 -- Equipment -- This account balance represents the acquisition cost of tangible property of a permanent nature, other than land, building(s) or improvements, used to carry on the nursing facility operations. It includes the purchase or contract price. 
+
+ (i) 162 -- Accumulated Depreciation -- This account is of the same nature and is used in the same manner as Account 154. 
+
+ (j) 165 -- Leasehold Improvements -- This account balance represents the acquisition cost of any long-lived improvements or additions to the property being leased that will belong to the owner (lessor) at the expiration of the lease. 
+
+ (k) 166 -- Accumulated Amortization -- This account is of the same nature and is used in the same manner as Account 154 except the cost of improvements or additions will be amortized over the lesser of the expected benefit life or the remaining life of the lease. 
+
+ (l) 181 -- Investments -- This account balance represents the value of assets unrelated to the nursing facility operation. The detail of this account must be explained on Schedule A to Form SPD 35 or SPD 35A. 
+
+ (m) 187 -- Goodwill -- This account balance represents the value of goodwill identified with the purchase of assets. 
+
+ (n) 199 -- Other -- Non-Current Assets -- This account balance comprises all non-current assets not identified above. Each item in this account, including long-term savings certificates, must be explained on Schedule A to Form SPD 35 or SPD 35A. 
+
+ (3) CURRENT LIABILITIES -- The balances of the following accounts are considered current liabilities. 
+
+ (a) 201 -- Accounts Payable -- This account balance represents the liabilities for goods and services received but unpaid at the end of the reporting period. 
+
+ (b) 202 -- Accounts Payable -- Resident Trust Account -- This account balance represents the amount owed to residents for the cash entrusted to the facility in Account 104. 
+
+ (c) 203 -- Notes Payable -- Other -- This account balance represents the current portion of the amount owed by the facility that is covered by a written promise to pay at a specified time and is signed and dated by the facility (maker). 
+
+ (d) 204 -- Notes Payable to Owner -- This account balance represents notes payable to the owner(s) and is of the same nature and is used in the same manner as Account 203. 
+
+ (e) 205 -- Accrued Interest Payable -- This account balance represents the liabilities for interest accrued at the end of the reporting period but not payable until a later date. 
+
+ (f) 207 -- Other Accrued Payable -- This account is of the same accrual nature and is used in the same manner as Account 205 and is to be explained in detail on Schedule A to Form SPD 35 or SPD 35A. 
+
+ (g) 208 -- Payroll Payable -- This account balance is the accrued payroll, less withheld payroll taxes and other deductions, payable to employees at the end of the reporting period. 
+
+ (h) 217 -- Payroll Tax Payable -- This account balance is the employer's share of accrued payroll taxes payable at the end of the reporting period. 
+
+ (i) 218 -- Payroll Deductions Payable -- This account balance is the employee's share of accrued payroll taxes withheld from the employer's gross pay payable at the end of the reporting period. 
+
+ (j) 219 -- Deferred Income -- This account balance represents the liability for revenue collected in advance. 
+
+ (k) 229 -- Other Current Liabilities -- This account balance comprises all current liabilities not identified above. The nature and purpose of amounts included in this account must be explained on Schedule A to Form SPD 35 or SPD 35A. 
+
+ (4) LONG-TERM LIABILITIES -- The balances of the following accounts are considered long-term liabilities. 
+
+ (a) 231 -- Long-Term Mortgage Payable -- This account balance represents the amount owed by the facility that is secured by a mortgage or other contractual agreement providing for conveyance of property at a future date. 
+
+ (b) 233 -- Long-Term Notes Payable -- This account is of the same nature and is used in the same manner as Account 203 except the liability extends beyond one year. 
+
+ (c) 234 -- Long-Term Notes Payable Owner -- This account is of the same nature and is used in the same manner as Account 204 except the liability extends beyond one year. 
+
+ (d) 249 -- Other Long-Term Liabilities -- This account comprises all long-term liabilities not identified above. The amount and nature of items in this account must be explained on Schedule A to Form SPD 35 or SPD 35A. 
+
+ (5) NET WORTH -- The balances of the following accounts represent the amount by which the facility's assets exceed its liabilities. 
+
+ (a) 251 -- Capital Stock -- This account balance represents the amount of cash or property received in exchange for the corporation's capital stock. 
+
+ (b) 255 -- Retained Earnings -- This account balance represents the amount of capital resulting from retention of corporate earnings. 
+
+ (c) 261 -- Capital Account -- This account balance represents the book value of the proprietor or partner(s) equity in the facility. 
+
+ (d) 265 -- Drawing Account -- This account balance represents the owners withdrawals of funds during the reporting period that were not paid as part of the payroll. 
+
+ (e) 290 -- Net Profit (Loss) -- This account balance is the facility's revenue minus expenses for the reporting period. 
+
+ (6) RESIDENT REVENUE -- These accounts include room and board revenue and related room and board contractual adjustments including revenue from bed hold days for routine service charges exclusive of ancillary charges. Routine service charges are to be reported in the following accounts: 
+
+ (a) 301 -- Private Resident -- Complex Medical Needs -- This account includes room and board revenue for complex medical needs routine private resident services including health maintenance organization (HMO) payer source for private residents. These are private pay residents whose medical needs correspond to the Medicaid complex medical needs criteria. 
+
+ (b) 303 -- Private Resident -- Basic Rate -- This account includes room and board revenue for basic rate routine private resident services including HMO payer source for private residents. These are private pay residents whose medical needs correspond to the Medicaid basic rate needs criteria. 
+
+ (c) 304 -- Private Resident -- Assisted Living Facilities/Residential Care Facilities -- This account includes room and board revenue for other than private complex medical needs and basic rate, non long-term residents and is to be explained on Schedule A to Form SPD 35 or SPD 35A. 
+
+ (d) 305 -- Private Resident -- Ventilator Assisted Program -- This account includes room and board revenue for Ventilator Assisted resident services including HMO payer source for private residents. These are private pay residents whose medical needs correspond to the Medicaid ventilator rate needs criteria. 
+
+ (e) 306 -- Private Resident -- Bariatric -- This account includes room and board revenue for bariatric resident services including HMO payer source for private residents. These are private pay residents whose medical needs correspond to the Medicaid bariatric rate needs criteria. 
+
+ (f) 309 -- Medicaid Resident -- Bariatric -- This account includes room and board revenue from all sources for Medicaid bariatric residents. 
+
+ (g) 310 -- Medicaid Resident -- Ventilator Assisted Program -- This account includes room and board revenue from all sources for Ventilator Assisted Program Medicaid residents. 
+
+ (h) 311 -- Medicaid Resident -- Complex Medical Needs -- This account includes room and board revenue from all sources for complex medical needs Medicaid residents. 
+
+ (i) 312 -- Medicaid Resident -- Pediatric -- This account includes room and board revenue from all sources for pediatric Medicaid residents. 
+
+ (j) 313 -- Medicaid Resident -- Basic Rate -- This account includes room and board revenue from all sources for basic rate Medicaid residents. 
+
+ (k) 314 -- Medicaid -- Assisted Living Facilities/Residential Care Facilities -- This account includes room and board revenue for Medicaid, non long-term resident services from all sources other than NF Payment Categories 1, basic rate, complex medical needs and pediatric and is to be explained on Schedule A to Form SPD 35 or SPD 35A. 
+
+ (l) 315 -- Medicaid -- HMO -- This account includes room and board revenue from all sources for Medicaid-HMO resident services. 
+
+ (m) 316 -- Medicaid -- Out of State -- This account includes room and board revenue from all sources for non-Oregon Medicaid resident services. 
+
+ (n) 318 -- Medicare Resident -- This account includes room and board revenue from all sources for Medicare resident services. 
+
+ (o) 319 -- Other Governmental Resident -- This account includes room and board revenue from all sources for Veteran Affairs and other governmental program resident services other than Medicaid or Medicare and is to be explained on Schedule A to Form SPD 35 or SPD 35A. 
+
+ (7) ANCILLARY REVENUE -- These accounts include revenue for professional and non-professional services and supplies not included in section (6) of this rule. Revenue other than that described above must be reported as gross revenue and related expenses to be reported in the appropriate expense accounts. Ancillary service charges and ancillary contractual adjustments are to be reported in the following accounts: 
+
+ (a) 321 -- Nursing Supplies -- This account includes revenue from the sale of nursing supplies or services. 
+
+ (b) 322 -- Oxygen -- This account includes revenue from the sale of oxygen (gas) and concentrator supplies. 
+
+ (c) 323 -- Prescription Drugs -- This account includes revenue from the sale of prescription drugs. 
+
+ (d) 324 -- Laboratory -- This account includes revenue from laboratory services provided. 
+
+ (e) 345 -- X-Ray -- This account includes revenue from X-Ray services. 
+
+ (f) 326 -- Equipment Rental -- This account includes revenue from equipment rental. 
+
+ (g) 330 -- Physical Therapy -- This account includes revenue from physical therapy services provided. 
+
+ (h) 331 -- Speech Therapy -- This account includes revenue from speech therapy services. 
+
+ (i) 332 -- Occupational Therapy -- This account includes revenue from occupational therapy services. 
+
+ (j) 341 -- Personal Purchases -- This account includes revenue from residents for personal purchases. 
+
+ (k) 342 -- Barber and Beauty -- This account includes revenue from residents for barber and beautician services. 
+
+ (l) 345 – Ancillary Revenue – Ventilator Respiratory Therapy – This account includes revenue from Respiratory Therapy services provided. 
+
+ (m) 349 -- Other Ancillary -- Items and amounts included in this account must be described on Schedule A to Form SPD 35 or SPD 35A. 
+
+ (n) 398 -- Contractual Adjustments -- This is a revenue offset account and includes all contractual adjustments to resident revenue and ancillary revenue. 
+
+ (8) OTHER REVENUE -- These accounts include other revenue, exclusive of resident and ancillary revenue. The intent is for revenue to be reported in gross and the related expenses reported in the appropriate expense accounts. Other revenues are classified as follows: 
+
+ (a) 901 -- Grants -- This account includes revenue amounts received in the reporting period from public and privately funded grants and awards. 
+
+ (b) 902 -- Donations -- This account includes donations in the form of cash or goods and services received during the reporting period. 
+
+ (c) 903 -- COVID Provider Relief Revenue -- This account includes all revenue amounts received that are COVID related. 
+
+ (d) 904 -- EHCC (Emergency Health Care Center) Revenue -- This account is for all EHCC Resident (COVID-19 tested positive patient (TPP)) Revenue- This account is for EHCC TPP revenue received for occupied bed days. 
+
+ (e) 905 -- Emergency Enhanced Care Center (EHCC) Bed Hold Revenue -- This account is for EHCC Bed Hold Revenues received. 
+
+ (f) 911 -- Interest -- This account includes revenue from any interest bearing note, bank account, or certificate. 
+
+ (g) 912 -- Staff & Guest Food Sales -- This account includes revenue from facility food sales to individuals other than residents of the facility. 
+
+ (h) 913 -- Vending Sales -- This account includes revenue from vending machines or for resale items not reported in Accounts 813 and 351. 
+
+ (i) 914 -- Television and Telephone Revenue -- This account includes revenue from television and telephone sales to residents of the facility. 
+
+ (j) 915 -- Independent Senior Housing -- This account includes revenue from any other apartment and continuing care retirement community housing. 
+
+ (k) 916 – Hospital Revenue – This account includes revenue from hospital operations not related to the nursing facility. 
+
+ (l) 918 – Nursing Aide Training – This account is for reporting all revenue associated with OAR 411-070-0470, Nursing Assistant Training and Competency. 
+
+ (m) 919 -- Miscellaneous Other Revenue -- Items and amounts, including revenues for Mental Health revenues received from local governments, and Workers Compensation refunds, included in this account are to be described on Schedule A to Form SPD 35 or SPD 35A. 
+
+ (9) PROPERTY EXPENSES -- These accounts are for reporting property expenses. 
+
+ (a) 452 -- Interest -- This account is for reporting all interest expense related to the acquisition of fixed assets, adjusted for historical cost limitations. 
+
+ (b) 453 -- Rent Building -- This account is for reporting all building rent or lease expenses. 
+
+ (c) 454 -- Leased Equipment -- This account is for reporting equipment rental and lease expense for all equipment used in the administrative and general and other operating expense categories. 
+
+ (d) 455 -- Depreciation -- Building -- This account is for reporting depreciation, for the reporting period, associated with assets capitalized in Account 153. 
+
+ (e) 456 -- Depreciation -- Land Improvement -- This account is for reporting depreciation, for the reporting period, associated with assets capitalized in Account 155. 
+
+ (f) 457 -- Depreciation -- Building Improvement -- This account is for reporting depreciation, for the reporting period, associated with assets capitalized in Account 157. 
+
+ (g) 458 -- Depreciation -- Equipment -- This account is for reporting depreciation, for the reporting period, associated with assets capitalized in Account 161. 
+
+ (h) 459 -- Amortization -- Leasehold Improvement -- This account is for reporting amortization, for the reporting period, associated with assets capitalized in Account 165 and Account 166. 
+
+ (i) 461 -- Miscellaneous -- Property -- This account is for reporting other property costs, such as amortization of organizational costs, and items of equipment less than $1,000 that are for general use, such as privacy curtains and blinds. 
+
+ (10) ADMINISTRATIVE AND GENERAL EXPENSES -- These accounts report expenses for administration of the facility and the business office, and items not readily associated with other departments. 
+
+ (a) 411 -- Compensation -- Administrator -- This account is for reporting all the compensation received by the licensed administrator of the facility. Compensation includes salary, bonuses, auto, moving, travel and all other allowances paid directly or indirectly by the facility. 
+
+ (b) 412 -- Compensation -- Assistant Administrator -- This account is to be used for reporting all compensation of the individual who is identified as, and has the specific duties of, Assistant Administrator. 
+
+ (c) 413 -- Compensation -- Bookkeeper -- This account is for reporting all the compensation received by the facility bookkeeper, controller and chief financial officer. 
+
+ (d) 415 -- Compensation -- Other Administrative -- This account is for reporting all of the compensation received by administrative, clerical, secretarial, accounting, central supply, in-service director and personnel. 
+
+ (e) 418 -- Purchased Services -- Administrative -- This account is for reporting all non-employee services required in the administrative operations of the facility. 
+
+ (f) 440 -- Payroll Taxes -- Administrative -- This account is for reporting all of the employer’s portion of payroll taxes, including Federal Insurance Contributions Act (FICA) tax, unemployment and other payroll taxes not withheld from the employee’s pay for administrative employees. 
+
+ (g) 441 -- Worker’s Compensation -- Administrative -- This account is for reporting the employer’s portion of worker’s compensation insurance not withheld from the employee’s pay for administrative employees. 
+
+ (h) 442 -- Employee Benefits -- Administrative -- This account is for reporting all employer paid employee benefits. These benefits include group insurance, facility picnics, prizes, gifts, and holiday dinners. Established child care benefits are to be included when they are accounted for separately and do not relate directly to a compensation account for administrative employees. 
+
+ (i) 443 -- Employee Paid Time Off -- Administrative -- This account is for reporting established vacation, holiday and sick pay programs for administrative employees. 
+
+ (j) 420 -- Vending Expense -- This account is for reporting expenses of non-medical, non-resident service items sold to the residents and non-residents including items sold through vending machines. 
+
+ (k) 423 -- Personal Purchase -- This account is for reporting all expenditures for personal items purchased for individual residents. 
+
+ (l) 425 -- Office Supplies -- This account is for reporting expenses of all office supplies except those chargeable to Account 863. Materials include stationery, postage, printing, bookkeeping supplies, and office supplies. 
+
+ (m) 426 -- Communications -- This account is for reporting all telephone, internet access, communication, and paging system charges. 
+
+ (n) 427 -- Travel -- This account is for reporting all transportation costs and mileage reimbursement associated with vehicles used for resident services or resident recreation, exclusive of insurance and depreciation and for reporting all other travel expenses such as lodging and meals for conferences, conventions, workshops, or training sessions. 
+
+ (o) 429 -- Advertising -- Help Wanted -- This account is for reporting all help wanted advertising expense. 
+
+ (p) 430 -- Advertising -- Promotional -- This account is for reporting all expenditures of the facility related to promotional advertising including yellow page advertising. 
+
+ (q) 431 -- Public Relations -- This account is for reporting all expenditures related to public relations. 
+
+ (r) 432 -- Licenses, Dues & Subscriptions -- This account is for reporting all fees for facility licenses; dues in professional associations; and costs of subscriptions for newspapers, magazines, and periodicals provided for resident and staff use. 
+
+ (s) 433 -- Accounting & Related Data Processing -- This account is for reporting all accounting, payroll, and other data and report processing expenses. 
+
+ (t) 435 -- Legal Fees -- This account is for reporting all legal fees and expenses. Legal fees must be reported in conformance with OAR 411-070-0359(1)(t). 
+
+ (u) 436 -- Management Fees -- This account is for reporting all management fees charged to the facility, including management salaries and benefits at the home office. 
+
+ (v) 437 -- Insurance -- Liability -- This account is for reporting all liability insurance expenses, including employee dishonesty, Board of Director, and umbrella coverage. 
+
+ (w) 439 -- Other Interest Expense -- This account is for reporting interest expense not attributable to the purchase of the facility and equipment. 
+
+ (x) 444 -- Bad Debts -- This account is for reporting the expense recorded from recognizing a certain portion of accounts receivable as uncollectible. 
+
+ (y) 445 -- Education & Training -- This account is for reporting registration, tuition, materials, and manual costs for training the staff included in the administrative and general expense category. 
+
+ (z) 446 -- Contributions -- This account is for reporting the expense of any gift or donation. 
+
+ (aa) 449 -- Miscellaneous -- This account is for reporting general administrative operating expenses not specifically included in other general administrative operating expense accounts. Entries must be explained in detail on Schedule A to Form SPD 35 or SPD 35A. 
+
+ (bb) 450 -- Long Term Care Facility Tax, effective 07/01/2003. 
+
+ (11) OTHER OPERATING SUPPORT EXPENSES -- The following accounts are included in this category. 
+
+ (a) 511 -- Compensation -- Other Operating Employees -- This account is for reporting all compensation received by employee(s) responsible for providing facility repair and maintenance, dietary, laundry and housekeeping services. 
+
+ (b) 540 -- Payroll Taxes -- Other Operating -- This account is for reporting all of the employer’s portion of payroll taxes, including FICA, unemployment and other payroll taxes not withheld from the employee’s pay for other operating employees. 
+
+ (c) 541 -- Worker’s Compensation -- Other Operating -- This account is for reporting the employer’s portion of worker’s compensation insurance not withheld from the employee’s pay for other operating employees. 
+
+ (d) 542 -- Employee Benefits -- Other Operating -- This account is for reporting all employer paid employee benefits. These benefits include group insurance, facility picnics, prizes, gifts, and holiday dinners. Established child care benefits are to be included when they are accounted for separately and do not relate directly to a compensation account for other operating employees. 
+
+ (e) 543 -- Employee Paid Time Off -- Other Operating -- This account is for reporting established vacation, holiday and sick pay programs for other operating employees. 
+
+ (f) 548 -- COVID Other Operating – This account is for the reporting of other operating costs incurred for COVID expenses. This account must be explained in detail on Schedule A. 
+
+ (g) 551 -- Purchased Services -- Maintenance -- This account is for reporting all non-employee services required in maintenance operations. 
+
+ (h) 552 -- Purchased Services -- Dietary -- This account is for reporting all non-employee services required in dietary operations including dietary consulting expenses. 
+
+ (i) 553 -- Purchased Services -- Laundry -- This account is for reporting all non-employee services in laundry operations. 
+
+ (j) 554 -- Purchased Services -- Housekeeping -- This account is for reporting all non-employee services required in housekeeping operations. 
+
+ (k) 510 -- Real Estate & Personal Property Taxes -- This account is for reporting real estate and personal property tax expenses for the facility. 
+
+ (l) 512 -- Insurance -- Property & Auto -- This account is for reporting all insurance expenses other than liability insurance reportable in Account 437, and employee insurance expenses. 
+
+ (m) 513 -- Cable Television -- This account is for reporting all cable and satellite television expenses. 
+
+ (n) 514 -- Heat & Electricity -- This account is for reporting all facility heating and lighting expenses. 
+
+ (o) 515 -- Water, Sewer & Garbage -- This account is for reporting all water, sewer and garbage expenses. 
+
+ (p) 516 -- Maintenance Supplies & Services -- This account is for reporting all expenses required for building and equipment maintenance and repairs including preventative maintenance and not capitalized. 
+
+ (q) 526 -- Dietary Supplies -- This account is for reporting the expense of all supplies, dishes and utensils, and non--capitalized equipment utilized within this department, exclusive of food. 
+
+ (r) 532 -- Linen and Bedding -- This account is for reporting the expense of all linen and bedding utilized within the facility. 
+
+ (s) 536 -- Laundry Supplies -- This account is for reporting the expense of all supplies utilized by the laundry. 
+
+ (t) 546 -- Housekeeping Supplies -- This account is for reporting the expense of all supplies utilized to provide housekeeping services. 
+
+ (u) 549 -- Miscellaneous -- Other Operating -- This account is for reporting other operating support expenses not specifically included in an identified account. Entries must be explained in detail on Schedule A to Form SPD 35 or SPD 35A. 
+
+ (12) FOOD -- 522 Food -- This account is for reporting all food products and supplements used in food preparations including dietary supplements. 
+
+ (13) DIRECT CARE COMPENSATION -- These accounts include compensation used in providing direct resident services. 
+
+ (a) 640 -- Payroll Taxes -- Direct Care -- This account is for reporting the employer’s entire portion of payroll taxes, including FICA, unemployment and other payroll taxes not withheld from the employee’s pay for direct care employees. 
+
+ (b) 641 -- Worker’s Compensation -- Direct Care -- This account is for reporting the employer’s portion of worker’s compensation insurance not withheld from the employee’s pay for direct care employees. 
+
+ (c) 642 -- Employee Benefits -- Direct Care -- This account is for reporting all employer paid employee benefits. These benefits include group insurance, facility picnics, prizes, gifts, and holiday dinners. Established child care benefits are to be included when they are accounted for separately and do not relate directly to a compensation account for direct care employees. 
+
+ (d) 643 -- Employee Paid Time Off -- Direct Care -- This account is for reporting established vacation, holiday and sick pay programs for direct care employees. 
+
+ (e) 644 -- COVID Employee Paid Time Off - Direct Care -- This account is for specific COVID 2.5% incentive payment related expense for increased paid time off for worker who become sick. 
+
+ (f) 645 -- COVID Enhanced Compensation Frontline -- This account is for specific COVID 2.5% incentive payment related expense for enhanced compensation for frontline caregivers who are at risk of exposure to COVID-19. 
+
+ (g) 651 Compensation -- Director of Nursing Services -- This account is for reporting all compensation received by employee(s) responsible for directing the nursing services of the facility. 
+
+ (h) 652 Compensation -- Registered Nurses -- This account is for reporting all compensation received by Registered Nurse employees of the facility who provide nursing services, other than the Director of Nursing Services, but including Resident Care Managers. If a Registered Nurse provides nursing services part of the time and carries out other duties the rest of the time, this employee's compensation will be allocated to the appropriate account based on time spent on each activity. 
+
+ (i) 653 Compensation -- Licensed Practical Nurses -- This account is for reporting all compensation received by Licensed Practical or Licensed Vocational Nurse employees of the facility who provide nursing services. If a Licensed Practical Nurse provides nursing services part of the time and carries out other duties the rest of the time, this employee's compensation will be allocated to the appropriate account based on time spent on each activity. 
+
+ (j) 654 -- Compensation -- Certified Medical Aides -- This account is for reporting all compensation received by certified medical aides. 
+
+ (k) 655 -- Compensation -- Certified Nursing Aides and Restorative Aides -- This account is for reporting all compensation received by certified nursing aides and restorative aides not part of the physical therapy department. 
+
+ (l) 656 Compensation -- Other Nursing Employees -- This account is for reporting all compensation received by non-licensed, non-professional employees who provide nursing services. If such employees provide nursing services part of the time and carry out other duties the rest of the time, these employees' compensation will be allocated to the appropriate account based on time spent on each activity. 
+
+ (m) 661 -- Compensation -- Activities Employees -- This account is for reporting all compensation of employees engaged in the planning and carrying out of resident recreational activities. 
+
+ (n) 662 -- Compensation -- Social Workers -- This account is for reporting all compensation of social workers and assistants employed to provide social service activities. 
+
+ (o) 663 -- Compensation -- Medical Records -- This account is for reporting all compensation of medical records employees. 
+
+ (p) 664 -- Compensation -- Rehabilitation Employees -- This account is for reporting all compensation of occupational and physical therapists, and technicians, and therapy aides employed to provide resident rehabilitation activities or services. This account will be subdivided in accordance with OAR 411-070-0359(3)(g) on Schedule A to Form SPD 35 or SPD 35A. 
+
+ (q) 671 -- Compensation -- Religious Employees -- This account is for reporting all compensation for individuals employed who provide religious services. 
+
+ (r) 672 -- Compensation -- Hospital Employees -- This account is for reporting the expense attributable to hospital employees not related to nursing facility long-term care. 
+
+ (s) 673 -- Compensation -- COVID Other -- This account is for all other Direct Care compensation related to COVID care. 
+
+ (t) 681 -- Compensation -- Other Employees -- This account is for reporting all compensation for dentists, barbers, beauticians, research, and other non-identified personnel employed by the facility and must be explained in detail on Schedule A to Form SPD 35 or SPD 35A. 
+
+ (u) 752 -- Purchased Services -- Registered Nurses -- This account is for reporting the expense attributable to employment agencies that provide part-time registered nurse employees on a fee and salary basis. 
+
+ (v) 753 -- Purchased Services - Licensed Practical Nurses -- This account is for reporting the expense attributable to employment agencies that provide part-time licensed practical nurse employees on a fee and salary basis. 
+
+ (w) 754 -- Purchased Services -- Certified Medical Assistants -- This account is for reporting the expense attributable to employment agencies that provide part time certified medical assistant employees on a fee and salary basis. 
+
+ (x) 755 -- Purchased Services -- Certified Nursing Assistants & Restorative Aides -- This account is for reporting the expense attributable to employment agencies that provide part-time certified nursing assistant and restorative aide employees on a fee and salary basis. 
+
+ (y) 756 -- Purchased Services -- Other Nursing -- This account is for reporting the expense attributable to employment agencies that provide part-time other nursing employees on a fee and salary basis, and must be explained in detail on Schedule A to Form SPD 35 or SPD 35A. 
+
+ (14) DIRECT CARE SUPPLIES -- These accounts include supplies and services used in providing direct resident services. 
+
+ (a) 811 -- Education & Training -- This account is for reporting registration, tuition, and book expense associated with education and training of direct care personnel. 
+
+ (b) 812 -- Nursing Assistant (Aide) Training and Competency Evaluation -- This account is for reporting all expenses associated with OAR 411-070-0470 (which excludes salaries of nurse aide trainees). 
+
+ (c) 816 -- Nursing Supplies -- This account is for reporting all medical supplies consumed by this department, exclusive of oxygen, used in providing direct care services. 
+
+ (d) 819 -- Physician Fees -- This account is for reporting all expenditures for physician treatment, services and evaluation of the resident. 
+
+ (e) 820 -- COVID Supplies -- This account is for the reporting of all related supplies incurred for COVID expenses. This account must be explained in detail on Schedule A. 
+
+ (f) 826 -- Oxygen Supplies -- This account is for reporting the expense of all oxygen (gas) and concentrator rentals. 
+
+ (g) 836 -- Pharmacy Supplies -- This account is for reporting the expense of all materials utilized in the facility pharmacy operation. 
+
+ (h) 837 -- Drugs and Pharmaceuticals -- Nursing Home -- This account is for reporting all expenditures meeting the criteria of 411-070-0085(2)(j). 
+
+ (i) 838 -- Drugs & Pharmaceuticals -- Prescriptions -- This account is for reporting all expenditures for legend drugs and biologicals prescribed by a licensed physician and not meeting the criteria of 411-070-0090. 
+
+ (j) 846 -- Laboratory Supplies & Fees -- This account is for reporting the expense of all materials utilized in the facility laboratory operation and fees paid for non-employee pathologist and laboratory technician services. 
+
+ (k) 856 -- X-Ray Supplies & Fees -- This account is for reporting the expense of all materials utilized in the facility X-Ray department and fees for non-employee radiologists and X-Ray technician services. 
+
+ (l) 859 -- Equipment Rental -- Chargeable -- This account is for reporting chargeable equipment rental costs for equipment used in direct care services cost categories. 
+
+ (m) 861 -- Barber & Beauty -- The cost of non-employee barber and beautician services will be reported in this account. 
+
+ (n) 863 -- Medical Records Supplies -- This account is restricted to materials and software used in resident charting, including data processing for medical records. 
+
+ (o) 866 -- Activities & Recreational Supplies -- This account is for reporting the expense of entertainers, and all materials used in providing resident recreational activities. Related transportation is to be reported in Account 427. 
+
+ (p) 876 -- Rehabilitation Supplies & Fees -- This account is for reporting the expense of all materials used in providing occupational and physical therapy including fees for non-employee related services. This account must be subdivided in accordance with OAR 411-070-0359(3)(I) on Schedule A to Form SPD 35 or SPD 35A. 
+
+ (q) 882 -- Utilization Review -- This account is for reporting the expenses of all non-employee fees associated with utilization review. 
+
+ (r) 889 -- Consultant Fees -- This account is for reporting all expenditures for consultant fees, including travel and lodging, exclusive of dietary and management consultants and must be explained in detail on Schedule A to Form SPD 35 or SPD 35A. 
+
+ (s) 899 -- Miscellaneous -- Expenses reported in this account must be explained in detail on Schedule A to Form SPD 35 or SPD 35A. 
+
+ (15) VENTILATOR ASSISTED PROGRAM EXPENSES -- These accounts include supplies and services used in the ventilator assisted program. 
+
+ (a) 950 -- Ventilator Unit Medical Director Compensation -- This account is for reporting all compensation received by the Ventilator Unit Director who provides services for the Ventilator Assisted Program residents. 
+
+ (b) 951 -- Nursing Compensation -- Ventilator Assisted Nurses - This account is for reporting all compensation received by nurse and nursing assistant employees of the facility who provide nursing services for Ventilator Assisted Program residents. 
+
+ (c) 952 -- Respiratory Therapist Compensation -- Ventilator Assisted - This account is for reporting all compensation received by Respiratory Therapist employees or contractors of the facility who provide therapy services in Ventilator Units. 
+
+ (d) 953 -- Contracted Nursing -- Ventilator Assisted - This account is for reporting the expense attributable to employment agencies that provide registered nurse employees on a fee and salary basis in a Ventilator Unit. 
+
+ (e) 954 -- Ventilator Rental -- This account is for reporting expense of a ventilator. 
+
+ (f) 955 -- Oxygen and Medication -- Ventilator Assisted - This account is for reporting the expense of all oxygen (gas) and concentrator rentals and is for reporting all expenditures meeting the criteria of 411-070-0085(2)(j) in a Ventilator Unit. 
+
+ (g) 956 -- Other Ventilator related Supplies -- This account is for the reporting of other related supplies incurred in a Ventilator Assisted Program. 
+
+ (h) 957 -- Other (Identify) -- Ventilator Assisted - This account is for all other expenses incurred in a Ventilator Assisted Program. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 410.070 
+ 
+ 
+ Statutes/Other Implemented:  ORS 410.070 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 46-2020, amend filed 11/18/2020, effective 12/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 28-2020, temporary amend filed 06/26/2020, effective 07/01/2020 through 12/27/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 25-2020, amend filed 06/23/2020, effective 07/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 9-2019, amend filed 01/31/2019, effective 02/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 2-2008, f. 2-29-08, cert. ef. 3-1-08 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 15-2007(Temp), f. & cert. ef. 9-10-07 thru 3-8-08 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 9-2006, f. 1-26-06, cert. ef. 2-1-06 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 36-2004, f. 12-23-04, cert. ef. 12-28-04 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ Reverted to SSD 1-1997, f. 6-30-97, cert. ef. 7-1-97 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 11-2004(Temp), f. & cert. ef. 5-28-04 thru 11-24-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSD 1-1997, f. 6-30-97, cert. ef. 7-1-97 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSD 6-1995, f. 6-30-95, cert. ef. 7-1-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSD 8-1994, f. & cert. ef. 12-1-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSD 6-1993, f. 6-30-93, cert. ef. 7-1-93 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSD 18-1991, f. 9-27-91, cert. ef. 10-1-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSD 14-1991(Temp), f. 6-28-91, cert. ef. 7-1-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSD 8-1991, f. & cert. ef. 4-1-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSD 20-1990, f. & cert. ef. 10-4-90 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSD 10-1989, f. 6-30-89, cert. ef. 7-1-89 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSD 11-1986, f. 8-29-86, ef. 9-1-86 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSD 10-1986, f. & ef. 7-1-86 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SS 2-1981, f. 12-31-81, ef. 1-1-82 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 461-017-0460, AFS 69-1981, f. 9-30-81, ef. 10-1-81 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 29-1978, f. 7-28-78, ef. 8-1-78 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 19-1978, f. & ef. 5-1-78 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

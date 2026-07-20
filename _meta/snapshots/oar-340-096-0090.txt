@@ -1,0 +1,173 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 96 SOLID WASTE: PERMITS SPECIAL RULES FOR SELECTED SOLID WASTE DISPOSAL SITES, WASTE TIRE STORAGE SITES AND WASTE TIRE CARRIERS 
+ 340-096-0090 
+ Special Rules Relating to Composting: Operations Plan Approval 
+ 
+ (1) All composting facilities subject to this rule must prepare a facility operations plan for review and approval by the department that describes how the facility will be designed and operated to meet the performance standards set out in OAR 340-096-0070. The Operations Plan Approval fee required by OAR 340-097-0120(4) and, if applicable, the Engineering review fee required by OAR 340-097-0120(5), must be submitted to the department with the proposed plan.  (2) Except as provided in OAR 340-096-0060(5), a composting facility subject to this rule may not begin or continue operation until the department approves the facility Operations Plan. All composting facilities subject to this rule must operate in compliance with the Operations Plan approved by the department. Any significant changes in the Operations Plan must be approved by the department.  (3) If the department determines that an approved Operations Plan is incomplete, inadequate, or otherwise fails to provide the necessary information and assurances that the composting facility will comply with OAR 340-096-0070: Performance Measures or with section (6) of this rule, the department may require the composting facility to revise the Operations Plan.  (4) After receiving a proposed Operations Plan, the department will provide the facility operator with an opportunity to meet with the department and discuss the composting facility, the proposed Operations Plan, and any department concerns or issues related to the facility and the plan. Upon final department approval of an Operations Plan, the composting facility must comply with OAR 340-096-0110: Composting Permit.  (5) All Operations Plans subject to this rule must address the elements set out in this section.  (a) Feedstocks and products. The Operations Plan must describe the types and volumes of feedstocks the facility will accept, the methods the facility will use to produce compost, and the proposed uses of the compost, biogas, digestate and other products and materials.  (b) Protection of Surface Water. The Operations Plan must describe how the facility will be designed and operated to comply with OAR 340-096-0070(1) and (2) by describing the operational procedures and any structures the facility will use to manage any leachate and any stormwater generated at the facility. Any facility that manages leachate or stormwater in an engineered structure must submit detailed plans and specifications for any such structures and comply with OAR 340-096-0130: Leachate and Stormwater Collection Design and Management Requirements.  (c) Protection of groundwater. The Operations Plan must describe how the facility will be designed and operated to comply with OAR 340-096-0070(3). Any facility that manages leachate or stormwater through infiltration into soil must comply with OAR 340-096-0120: Groundwater.  (d) Odor control. The Operations Plan must describe the methods and procedures the facility will use to comply with OAR 340-096-0070(4) and with 340-096-0150: Odors.  (e) Pathogen reduction. Unless the facility is exempt from pathogen reduction under OAR 340-096-0140(1), the Operations Plan must describe methods the facility will use to comply with OAR 340-096-0140: Pathogen Reduction, including:  (A) Methods the facility will use to comply with OAR 340-096-0070(5) to achieve the pathogen reduction standards set out in OAR 340-096-0140(2);  (B) Methods the facility will use for sampling and testing of composted material and digestate to assure that the required human pathogen reduction is being achieved; and  (C) Procedures the facility will use for handling composted material and digestate that does not meet pathogen reduction standards.  (f) Vector attraction. The Operations Plan must describe methods the composting operation will use to comply with OAR 340-096-0070(6) to minimize the attraction of vectors such as rats, birds, flies.  (g) Closure. The Operations Plan must include a Closure Plan that must address:  (A) Removal of equipment and materials used to operate and maintain the facility;  (B) Disposal of unused feedstocks, partially processed residues and finished compost, biogas, digestate, and other products and materials;  (C) Disposal of processed compost, biogas, digestate, and other products and materials that, due to concentrations of contaminants, cannot be marketed or used for beneficial purposes; and  (D) Abandonment of treatment facilities, including ponds and lagoons, and removal of residues, including a preliminary evaluation of potential impacts to soil and groundwater below ponds and treatment facilities.  (h) Post Closure. The Operations Plan must include a Post-Closure Plan to address groundwater and surface water issues after the facility is closed.  (i) Recordkeeping. The Operations Plan must describe the methods the facility will use for keeping records of:  (A) Weight and volumes of incoming feedstocks;  (B) Pathogen testing conducted under 5(e) of this rule;  (C) Complaints and actions taken to address complaints; and  (D) Any upsets or violations of the Operations Plan.  (6) As part of the Operations Plan approval process, the department will review with the composting facility the matters listed in this section. The department may require, either in its initial Operations Plan review or under section (3) of this rule, that an Operations Plan include any of the matters listed in this section if the department determines that such measures are necessary for the facility to meet the requirements of OAR 340-096-0070: Performance Standards, to comply with any other laws or regulations, or when required to correct other unacceptable conditions at a facility.  (a) Process controls. When required by the department, an Operations Plan must:  (A) Describe how the facility will monitor and record processing parameters including nutrient balance (C:N ratio), moisture content, aeration, pH, temperature and retention time;  (B) Include a mass balance calculation showing all feedstocks and amendments and all products produced, with the mass balance calculation being detailed and using a standard unit of measurement throughout; and  (C) Include any other information required by the department as necessary to understand process operations.  (b) Material management. When required by the department, an Operations Plan must:  (A) Describe how the facility will limit the receipt of non-compostable materials and screen incoming feedstocks to separate and remove non-compostable materials such as plastic packaging;  (B) Describe how the facility will handle feedstocks, composted material and digestate to prevent pathogen regrowth and cross contamination of piles; and  (C) Describe how the facility will manage and dispose of compost, biogas, digestate and other products and materials that cannot be marketed or used for beneficial purposes.  (c) Removal of compost, biogas, digestate and other products and materials. When required by the department, an Operations Plan must provide for removal of compost, biogas, digestate and other products and materials from the facility as frequently as possible, but not later than:  (A) Two years after processing is completed, for finished compost; and  (B) Six months after processing is completed, for all other products and materials, or longer if specified in a permit or by written approval of the department.  (d) Incorporation of feedstocks. When required by the department, the Operations Plan must include a schedule for incorporating feedstocks into active composting piles or the anaerobic digester.  (e) Storage of feedstocks and digestate. When required by the department, the Operations Plan must:  (A) Identify designated areas where all feedstocks deposited, and digestate generated at the site, will be confined;  (B) Provide that accumulation of feedstocks and digestate does not create odor or vector problems, or create other nuisance conditions;  (C) Provide that undisposed residues are kept to minimum practical quantities; and  (D) Provide for facilities and procedures for handling, recycling or disposing of materials contained in feedstocks or digestate that are non-biodegradable by composting.  (f) Salvage. When required by the department, the Operations Plan must provide procedures for recovery of materials such as metal, paper and glass so that recovery does not interfere with composting operations, or create unsightly conditions or vector harborage.  (g) Access Roads. When required by the department, the Operations Plan must:  (A) Provide for all-weather roads from the public highway or roads to and within the composting operation that are designed and maintained to prevent traffic congestion, traffic hazards and dust and noise pollution.  (B) Provide for effective barriers to unauthorized entry and dumping, such as fences, gates and locks.  (h) Fire Protection. When required by the department, the Operations Plan must provide for fire protection in compliance with applicable state and local fire regulations.  (i) Dust and litter. When required by the department, the plan must provide for effective methods to reduce or avoid dust, and litter, and to prevent tracking of mud or other materials off the facility;  (j) Containers. When required by the department, the operations plan must describe how the facility will clean and manage all containers at the facility.  (k) Vehicles. When required by the department, the Operations Plan must describe how all vehicles and devices operated by the facility will be maintained and operated to prevent leaking, or spilling of feedstocks or finished compost, biogas, digestate or other products or materials while in transit.  (l) Truck Covers. When required by the department, the Operations Plan must describe how the facility will notify all incoming feedstock haulers that trucks must be covered or suitably cross-tied to prevent any load loss during shipment.  (m) Tanks and piping. When required by the department, the Operations Plan for composting facilities using anaerobic digestion must describe how piping and tanks will be maintained and operated to prevent explosions, fire, leaks and spills. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 459.045, 459A.025 & 468.020 
+ 
+ 
+ Statutes/Other Implemented:  ORS 459.005, 459.015 & 459.205 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 7-2013, f. & cert. ef. 8-29-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 6-2009, f. & cert. ef. 9-14-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

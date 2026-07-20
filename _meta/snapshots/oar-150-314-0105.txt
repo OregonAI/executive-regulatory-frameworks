@@ -1,0 +1,254 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 314 INCOME TAXATION GENERALLY  GENERAL PROVISIONS 
+ 150-314-0105 
+ Farm Income Averaging
+ 
+ 
+ (1)(a) Overview. An individual engaged in a farming business may elect to compute his or her current year (election year) income tax liability under ORS Chapter 316 by averaging, over the prior three-year period (base years), all or a portion of the individual's current year electable farm income (as defined in section (4) of this rule). To average farm income, the individual: 
+
+ (A) Designates all or a portion of his or her elected farm income for the election year as elected farm income; and 
+
+ (B) Allocates one-third of the elected farm income to each of the three base years; and 
+
+ (C) Determines the election year tax under ORS Chapter 316 by determining the sum of: 
+
+ (i) The election year ORS Chapter 316 tax without regard to the elected farm income; plus 
+
+ (ii) For each base year, the increase in ORS Chapter 316 tax attributable to the elected farm income allocated to each year. 
+
+ (b) Individual engaged in a farming business. An individual engaged in a farming business includes a sole proprietor of a farming business, a partner in a partnership engaged in a farming business, and a shareholder of an S corporation engaged in a farming business. Estates and trusts may not use farm income averaging. An individual is not required to have been engaged in a farming business in any of the base years in order to make a farm income averaging election. 
+
+ (c) Making, changing, or revoking an election. A farm income averaging election is made by indicating the election on an individual's timely filed (including extensions) Oregon income tax return for the election year. 
+
+ (A) An individual who has an adjustment for an election year or any base year may make a late farm income averaging election, change the amount of elected farm income in a previous election, or revoke a previous election, if the period of limitation prescribed in ORS 314.415 has not expired for the election year. For purposes of this paragraph, an adjustment is any change in taxable income or tax liability that is permitted to be made by filing an amended Oregon income tax return or a change in taxable income or tax liability made as the result of an examination or a federal audit report received from the Internal Revenue Service. 
+
+ (B) If the individual does not have an adjustment as described in paragraph (A), the individual may not make a late farm income averaging election, change the amount of elected farm income in a previous election, or revoke a previous election, without the consent of the department. 
+
+ (2) Calculation of tax for the election year. Determine the tax for the election year by allocating elected farm income to the base years only after all other adjustments and determinations have been made. For example, any net operating loss (NOL) carryover or net capital loss carryover is applied to an election year before allocating elected farm income to the base year. Similarly, the determination of whether there is a net Section 1231 gain or loss in the election year and the determination of the character of the Section 1231 items are made before allocating elected farm income to the base years. The allocation of the elected farm income to the base years does not affect any determination with respect to the election year or the base years. For example, in calculating a deduction or tax credit for Oregon that is computed by using adjusted gross income or is limited by adjusted gross income, adjusted gross income for the election year includes any elected farm income allocated to the base years. Similarly, adjusted gross income for the base year is not recalculated to take into account the allocation of elected farm income. The calculation of tax on elected farm income allocated to a base year is made without any additional adjustments or determinations with respect to the base year. For example, if a base year had a partially used capital loss, the remaining capital loss may not be applied to reduce the elected farm income allocated of the base year. Similarly, if a base year had a partially used credit, the remaining credit may not be applied to reduce tax attributable to the elected farm income allocated to the base year. 
+
+ (3) Base year was previously an election year or another base year. If a base year for a current farm income averaging election was previously an election year for another farm income averaging election, determine the base year’s Oregon tax after reducing the base year’s taxable income by the elected farm income for the prior election year. If a base year for a current farm income averaging election was previously a base year for another farm income averaging election, determine the base year’s Oregon tax after increasing the base year’s taxable income by the elected farm income allocated to that year by the prior election. 
+
+ Example 1: In each of years 2015, 2016, and 2017, farmer Joe had taxable income of $15,000. In 2018, Joe had taxable income of $30,000 (prior to any farm income averaging election) and electable farm income of $9,000. Joe makes a farm income averaging election to average all $9,000 of his electable farm income for 2018. Thus, $3,000 of elected farm income is allocated to each of the tax years 2015, 2016, and 2017. Joe’s 2018 tax liability is the sum of: 
+
+ (a) The Oregon tax on $21,000 (2018 taxable income minus elected farm income); plus 
+
+ (b) For each of the tax years 2015, 2016, and 2017, the Oregon tax on $18,000 minus the Oregon tax on $15,000 (the increase in tax attributable to the elected farm income allocated to each year). 
+
+ In 2019, Joe has taxable income of $50,000 and electable farm income of $12,000. Joe makes a farm income averaging election to allocate all $12,000 of his electable farm income for 2019. Thus, $4,000 of elected farm income is allocated to each of the tax years 2016, 2017, and 2018. Joe’s 2019 tax liability is the sum of: 
+
+ (a) The Oregon tax on $38,000 (2019 taxable income minus elected farm income); plus 
+
+ (b) For both 2016 and 2017, the Oregon tax on $22,000 ($15,000 + $3,000 + $4,000) minus the tax on $18,000 (the increase in Oregon tax attributable to the elected farm income allocated to these years after increasing each years’ taxable income by elected farm income allocated to each year by the 2018 farm income averaging election); plus 
+
+ (c) For tax year 2018, the Oregon tax on $25,000 (the 2018 taxable income minus elected farm income plus the $4,000 allocated to this base year) minus the Oregon tax on $21,000 (the increase in tax attributable to the elected farm income allocated to this year after reducing this year’s taxable income by the 2018 elected farm income). 
+
+ (4) Electable farm income. 
+
+ (a) Farm income includes items of income, deduction, gain, and loss attributable to the individual’s farming business. Farm losses include an NOL carryover, or a net capital loss carryover to an election year that is attributable to a farming business. Income, gain, or loss from the sale of development rights, grazing rights, and other similar rights is not treated as attributable to a farming business. Farm income does not include wages. 
+
+ (b) Gain or loss on sale or other disposition of property. Gain or loss from the sale or other disposition of property (other than land, but including a structure affixed to the land) that was regularly used in the individual’s farming business for a substantial period of time is treated as attributable to a farming business. Whether property was regularly used for a substantial period of time depends on all of the facts and circumstances. 
+
+ (c) Cessation of a farming business. If gain or loss is realized on assets used in a farming business after the farming business stops, the gain or loss is treated as attributable to a farming business if the property is sold within a reasonable time after the business ceases operations. A sale or other disposition within one year of the end of business operations is considered to be within a reasonable time. Whether a sale or other disposition that occurs more than one year after the end of business operations is within a reasonable time depends on all of the facts and circumstances. 
+
+ (d) Determination of amount that may be elected farm income. The maximum amount of income that an individual may elect to average (electable farm income) is the sum of any farm income and gain minus any farm deductions or losses (including loss carryovers and carrybacks) that are allowed as a deduction in computing the individual’s taxable income. Electable farm income may not exceed taxable income. Electable farm income from net capital gain attributable to a farming business cannot exceed total net capital gain. An individual who has both ordinary and net capital gain farm income may elect (up to electable farm income) any combination of such ordinary and net capital gain farm income. 
+
+ Example 2: Andrew has farm gross receipts of $200,000 and farm ordinary deductions of $50,000. Andrew’s taxable income is $150,000 ($200,000 – $50,000). Andrew’s electable farm income is $150,000, all of which is ordinary income. 
+
+ Example 3: Bailey has a farm capital gain of $50,000 and a nonfarm capital loss of $40,000. Bailey also has ordinary farm income of $60,000. Bailey has taxable income of $70,000 ($50,000 – $40,000 + $60,000). Bailey’s electable farm income is $70,000. Bailey can elect up to $10,000 of farm capital gain and up to $60,000 of farm ordinary income. 
+
+ Example 4: Cameron has a nonfarm capital gain of $40,000 and a farm capital loss of $30,000. Cameron also has ordinary farm income of $100,000. Cameron has taxable income of $110,000 ($40,000 – $30,000 + $100,000). Cameron’s electable farm income is $100,000 ordinary farm income minus $30,000 farm capital loss, or $70,000, all of which is ordinary income. 
+
+ (5) Miscellaneous rules. 
+
+ (a) Short taxable year. If a base year or an election year is a short taxable year, the rules of IRC Section 443 and the regulations thereunder apply for purposes of calculating Oregon tax. 
+
+ (A) Base year is a short taxable year. If a base year is a short taxable year, the increase in Oregon tax attributable to the elected farm income allocated to the base year is determined after the taxable income for the base year has been annualized. 
+
+ (B) Election year is a short taxable year. If an election year is a short taxable year, any elected farm income is first annualized before being allocated to the base years. The increase in Oregon tax attributable to the elected farm income allocated to the base years is the part of the tax computed on an annual basis that bears the same ratio to the full amount as the number of months in the short election year bears to 12. 
+
+ (b) Changes in filing status. An individual is not prohibited from making a farm income averaging election solely because the individual’s filing status is not the same in an election year and the base years. For example, an individual who files single in the election year, but filed married filing jointly in all of the base years, may still elect to average farm income. 
+
+ (c) Changes in residency status. An individual is not prohibited from making a farm income averaging election solely because the individual’s residency status is not the same in the election year and the base years. If an individual’s filing status is as a part-year or nonresident in the election year, the taxpayer still may elect to average farm income. Only Oregon source farm income and Oregon source capital gains and losses are considered elected farm income. If an individual’s filing status is a full-year resident in the election year but some or all of the base years are filed as a part-year or nonresident, elected farm income is allocated over the three prior years and added to amounts in both the federal and state column. The Oregon percentage for allocating deductions and modifications and for apportioning tax is recomputed using the new amounts of income in the federal and Oregon columns. Exemption credits are not computed using the revised percentage. 
+
+ [Publications: C ontact the Oregon Department of Revenue for information about how to obtain a copy of the publication referred to or incorporated by reference in this rule pursuant to ORS 183.360(2) and ORS 183.355(1)(b).] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 & 314.297 
+ 
+ 
+ Statutes/Other Implemented:  ORS 314.297 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 74-2017, amend filed 12/22/2017, effective 01/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 150-314.297, REV 32-2016, f. 8-12-16, cert. ef. 9-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ Renumbered from 150-314.297(6), REV 9-2015, f. 12-23-15, cert. ef. 1-1-16 
+REV 8-2001, f. & cert. ef. 12-31-01
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

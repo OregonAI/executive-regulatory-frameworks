@@ -1,0 +1,300 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Aging and People with Disabilities and Developmental Disabilities - Chapter 411 
+ 
+ 
+ 
+ 
+ Division 35 K-STATE PLAN ANCILLARY SERVICES 
+ 411-035-0010 
+ Definitions
+ 
+ 
+ Unless the context indicates otherwise, the following definitions apply to the rules in OAR chapter 411, division 035: 
+
+ (1) "Activities of Daily Living (ADL)" mean those personal, functional activities required by an individual for continued well-being, which are essential for health and safety. Activities include eating, dressing and grooming, bathing and personal hygiene, mobility, elimination, and cognition as defined in OAR 411-015-0006. 
+
+ (2) "Aging and People with Disabilities (APD)" refers to the program within the Department of Human Services primarily responsible for service seniors and people with disabilities. 
+
+ (3) "Alert Systems" means a unit that is worn by the individual or is located in the individual's home for the purpose of generating notification that an emergency has or may occur. 
+
+ (4) "Area Agency on Aging (AAA)" means the Department designated agency charged with the responsibility to provide a comprehensive and coordinated system of services to older adults or individuals with disabilities in a planning and service area. The term Area Agency on Aging is inclusive of both Type A and Type B Area Agencies on Aging as defined in ORS 410.040 and described in ORS 410.210 to 410.300. 
+
+ (5) "Assistive Technology" means equipment that provides additional security and support to an individual and replaces the need for human interventions. Assistive technologies enable an individual to self-direct their care and maximize their independence. 
+
+ (6) "Back-up systems" mean devices, which secure help in emergencies, safety in the community, or are other reminders that help an individual with activities, including, but not limited to, medication management, eating, or other types of monitoring. 
+
+ (7) "Case Manager" means an employee of the Department or AAA who assesses the service needs of an individual, determines eligibility, and offers service choices to the eligible individual. The case manager authorizes and implements an individual's service plan, and monitors the services delivered as described in OAR chapter 411, division 028. 
+
+ (8) "Central Office" means the unit within the Department responsible for program and policy development and oversight. 
+
+ (9) "Chore Services" means specific services intended to ensure the individual's home is safe and allows for independent living. 
+
+ (10) "Consumer" or "Consumer-Employer" means the person applying for or eligible for Medicaid home or community-based services. 
+
+ (11) "Cost Effective" means being responsible and accountable with Department resources by offering less costly alternatives when providing choices that adequately meet an individual's service needs. Less costly alternatives include resources not paid for by the Department, other programs available from the Department, the utilization of assistive devices, natural supports, architectural modifications, and alternative service resources (defined in OAR 411-015-0005). 
+
+ (12) "Department" means the Department of Human Services (DHS). 
+
+ (13) "Durable Medical Equipment" means an apparatus, such as a walker, which is primarily used to serve a medical purpose and is appropriate to use in the individual's home. 
+
+ (14) "Environmental Modifications" means the changes made to adapt living spaces to meet specific service needs of eligible individuals with physical limitations to maintain their health, safety, and independence. 
+
+ (15) "Exception" means the individual has service needs above the limits described in these rules, and documented in the assessment and service plan that warrant an exception for payment. 
+
+ (16) "Individual" means a person 65 or older, or an adult with a physical disability, applying for or eligible for services. 
+
+ (17) "In-Home Services" mean the activities of daily living and instrumental activities of daily living that assist an individual to stay in his or her own home or the home of a relative. 
+
+ (18) "Instrumental Activities of Daily Living (IADL)" means those activities other than the activities of daily living, required by an individual to continue independent living. The definitions and parameters for assessing needs in IADL are identified in OAR 411-015-0007. 
+
+ (19) "Long-Term Care" means the Medicaid system through which the Department provides nursing facility, community-based, and in-home services to eligible adults who are aged, blind, or have physical disabilities. 
+
+ (20) "Medication Reminders" are devices used for the purpose of prompting an individual to take their medication. 
+
+ (21) "Natural Supports" means resources and supports (e.g. relatives, friends, neighbors, significant others, roommates, or the community) who are willing to voluntarily provide services to an individual without the expectation of compensation. Natural supports are identified in collaboration with the individual and the potential "natural support". The natural support is required to have the skills, knowledge, and ability to provide the needed services and supports. 
+
+ (22) "Person-centered Assessment and Service Plans" means: 
+
+ (a) A process, either formal or informal, for gathering and organizing information that helps an individual: 
+
+ (A) Determine and describe choices about personal goals, activities, and lifestyle preferences; 
+
+ (B) Design strategies and networks of support to achieve goals and a preferred lifestyle using individual strengths, relationships, and resources; and 
+
+ (C) Identify, use, and strengthen naturally occurring opportunities for support at home and in the community. 
+
+ (b) The methods for gathering information vary, but all are consistent with individual needs and preferences. 
+
+ (23) "Personal Emergency Response Systems" mean a type of electronic back-up system that: 
+
+ (a) Secures help for individuals in an emergency; 
+
+ (b) Ensures a consumer's safety in the community; and 
+
+ (c) Includes other reminders that help an individual with their activities of daily living and instrumental activities of daily living. 
+
+ (24) "Rate Schedule" means the rate schedule maintained by the Department in OAR 411-027-0170 and at http://www.dhs.state.or.us/spd/tools/program/osip/rateschedule.pdf. 
+
+ (25) "Representative" means a person with longstanding involvement in assuring the individual's health, safety, and welfare that is appointed by an individual to participate in service planning on the individual's behalf. In all cases, unless the individual is incapable, the individual's consent is obtained before designating a representative on the individual's behalf. When feasible, the individual's authorization of a representative is made in writing or by another method that clearly indicates the individual's free choice. An individual's representative is not a paid provider to an individual receiving services and supports. 
+
+ (26) "Service Need" means the assistance an individual requires from another person, or equipment that replaces the need for another person, for those functions or activities. 
+
+ (27) "These Rules" mean the rules in OAR chapter 411, division 35. 
+
+ (28) "Transition Services" means those services and supports necessary for an individual to transition from a nursing facility or the Oregon State Hospital to a community-based care or in-home setting. 
+
+ (29) "Voluntary Consumer Training Services" means activities to empower and inform individuals receiving in-home services regarding their rights, role, and responsibilities as employers of care providers. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 410.070 & ORS 409.050 
+ 
+ 
+ Statutes/Other Implemented:  ORS 409.050, 410.040, 410.090, 410.210 - 410.300 & 441.520 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 34-2019, amend filed 09/27/2019, effective 10/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 39-2016, f. 9-27-16, cert. ef. 10-1-16 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 7-2015, f. 3-4-15, cert. ef. 3-9-15 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 36-2014(Temp), f. & cert. ef. 11-10-14 thru 5-8-15 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 16-2014, f. & cert. ef. 6-4-14 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

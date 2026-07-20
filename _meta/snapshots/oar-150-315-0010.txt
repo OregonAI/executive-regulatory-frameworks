@@ -1,0 +1,241 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 315 PERSONAL INCOME TAX CREDITS 
+ 150-315-0010 
+ Claim of Right Credit 
+ 
+ (1) Credit qualifications. If you repaid income that was taxed in a prior year, you may be eligible for a credit on your Oregon return. This rule applies to repayments made on or after January 1, 2013 that are claimed on returns filed after the effective date of this rule. To claim the credit, you must:  (a) Claim a federal credit or deduction under Internal Revenue Code (IRC) section 1341; and  (b) Have paid Oregon tax in a prior year on the income that you repaid.  (2) Credit calculation. Your Oregon claim of right credit is the difference between the Oregon tax you paid in the prior year and the Oregon tax you would have paid without including the repaid income. Calculate your credit as follows:  (a) Refigure the Oregon tax before credits in the year the income was originally taxed by determining the tax for the year in which the income was originally taxed without the repaid income. Do not change the federal tax subtraction or any other items on the Oregon return.  (b) Subtract the refigured tax before credits from the Oregon tax before credits as filed (or amended or adjusted, if applicable). This is your claim of right credit.  Example 1: In 2012, Jerry was required to repay $10,000 of the unemployment compensation he had received in 2011. He claimed the claim of right credit on his federal return, so he can also claim the credit for Oregon. For 2011, Jerry had federal adjusted gross income (AGI) of $50,000 and Oregon tax before credits of $3,568. Jerry refigures his 2011 Oregon tax before credits without the repaid income. He reduces his federal AGI compared to what was included in his original 2011 federal return by the amount repaid, $10,000. All other Oregon items stay the same (including the federal tax subtraction). The recalculated Oregon tax before credits is $2,668. The difference between the refigured and original tax before credits is $900 ($3,568 minus $2,668). Jerry’s claim of right credit is $900.  (3) Federal deduction. If you claim a deduction under IRC § 1341 on your federal return, you can allow the deduction to flow through or you can claim a credit on your Oregon return. Determine by comparing the following amounts:  (a) Calculate Oregon tax before credits for the year of repayment with the deduction.  (b) Add back the federal deduction and figure your Oregon tax before credits. Then subtract the Oregon claim of right credit.  (c) If the tax in (a) is less, allow the deduction for Oregon also. If the tax in (b) is less, add back any deduction as required under ORS 316.680(2)(i) and claim the Oregon credit.  Example 2: In 2012, Shannon had to repay wages of $3,800 from tax year 2010. She qualifies to claim itemized deductions and chooses to claim the deduction on her federal return. Oregon allows this deduction to flow through or allows her to claim the credit instead. Her itemized deductions are mostly Oregon taxes, so her Oregon itemized deductions are less than the standard deduction. Therefore, she will not claim itemized deductions for Oregon and will claim the credit instead.  In 2010, she had federal AGI of $45,000 and her 2010 tax was $2,988. If Shannon had not received the $3,800 she had to repay, her 2010 tax would have been $2,679. Her 2012 credit is the difference of $342, which she will claim on her 2012 Oregon return as a claim of right credit. There’s no addition required because she claimed the standard deduction for Oregon, so the federal deduction did not flow through.  [Publications: Publications referenced are available from the agency.] 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 
+ 
+ 
+ Statutes/Other Implemented:  ORS 315.068 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 150-315.068, REV 45-2016, f. 8-12-16, cert. ef. 9-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 10-2013, f. 12-26-13, cert. ef. 1-1-14 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ Reverted to REV 10-2006, f. 12-27-06, cert. ef. 1-1-07 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 4-2013(Temp), f. & cert. ef. 6-5-13 thru 12-2-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 10-2006, f. 12-27-06, cert. ef. 1-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 8-2001, f. & cert. ef. 12-31-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 5-2000, f. & cert. ef. 8-3-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 9-1999, f. 12-30-99, cert. ef. 12-31-99 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

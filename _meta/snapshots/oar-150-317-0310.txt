@@ -1,0 +1,238 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 317 CORPORATION EXCISE TAX ACT OF 1929: RULES AND GENERAL PROVISIONS 
+ 150-317-0310 
+ Bad Debt Reserve of Financial Institutions Not Qualifying as Large Banks that Have Differences in Reserve for Federal and Oregon Tax Purposes
+ 
+ 
+ (1) For tax years beginning on or after January 1, 1987, Oregon has adopted the federal provisions for treatment of bad debts of financial institutions provided in Sections 585(a) and 585(b) of the Internal Revenue Code (IRC). These provisions apply to financial institutions not considered large banks, as defined in IRC 585(c)(2). 
+
+ (2) For Oregon tax purposes, the allowable addition to the reserve for bad debts shall be computed using the method provided in IRC 585(b), starting with the ending balance in the bad debt reserve calculated for Oregon tax purposes for the 1986 tax year. 
+
+ (a) For 1987 tax years, the federal law provides that the addition to reserve for bad debts shall be the greater of the amounts computed using the percentage method in IRC 585(b)(2) or the experience method in IRC 585(b)(3), as revised in 1986. 
+
+ (b) For tax years beginning on or after January 1, 1988, federal law provides that the addition to reserve for bad debts shall be no greater than the amount computed using the experience method in IRC 585(b)(2). 
+
+ (c) An Oregon addition modification shall be made if the federal addition exceeds the Oregon addition to the reserve for bad debts for the tax year. An Oregon subtraction modification shall be made if the Oregon addition exceeds the federal addition to the reserve for bad debts for the tax year. 
+
+ Example: Small Bank, Inc., must calculate its 1991 addition to its reserve for bad debts based on the following information: 
+
+ Base Year—1987 
+
+ Federal reserve balance, 12/31/87—$600 
+
+ Oregon reserve balance, 12/31/87—$400 
+
+ Bad debts charged against Oregon and federal reserves during 1991—$500 
+
+ Federal reserve balance, 12/31/91—$300 
+
+ Oregon reserve balance, 12/31/91—$200 
+
+ Total bad debts, after recoveries, sustained in current and 5 preceding years—$2,500 
+
+ Outstanding loans, 12/31/87—$150,000 
+
+ Outstanding loans, 12/31/91—$180,000 
+
+ Sum of loans outstanding at end of current and 5 preceding years—$960,000 
+
+ Using the experience method, the addition to the reserves for bad debts for 1991 is computed as follows:[Table not included. See ED. NOTE.] 
+
+ [Publications: The publication(s) referred to or incorporated by reference in this rule is available from the Department of Revenue pursuant to ORS 183.360(2) and ORS 183.355(6).] 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 
+ 
+ 
+ Statutes/Other Implemented:  ORS 317.259 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 59-2017, f. & cert. ef. 8-8-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 150-317.259-(A), REV 68-2016, f. 8-15-16, cert. ef. 9-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RD 9-1992, f. 12-29-92, cert. ef. 12-31-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RD 11-1988, f. 12-19-88, cert. ef. 12-31-88 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

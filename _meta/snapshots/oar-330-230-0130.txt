@@ -1,0 +1,173 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Energy 
+ Chapter 330 
+ 
+ 
+ 
+ 
+ 
+ Division 230 COMPLIANCE AND PASS THROUGH 
+ 330-230-0130 
+ Pass-Through Amount 
+ 
+ (1) The following formulas will be used to calculate the present value of the tax credit for transfer purposes:  (a) For tax credits that may be claimed over 5 succeeding tax years, the formula is: Tax Credit Amount/[1 + (3(5 year Treasury yield rate) – 3 year net rate of change for the urban CPI for the west region)]^5 = Present Value  (b) For tax credits that may be claimed in one tax year the formula is: Tax Credit Amount/[1 + (2(2 year Treasury yield rate) – net rate of change for the urban CPI for the west region)]^1 = Present Value  (2) Using the formulas in (1)(a) and (b) of this rule, the department will review and recalculate the present value of the tax credit on a quarterly basis and will publish the results on the department’s web page. The department will use the rates in effect on the 15th of March, June, September and December to calculate the present value for the quarter beginning on the first of the following month.  (3) In the event of a deflationary environment, the department may adjust the formulas in section (1), by adding the urban CPI for the western region, to ensure the present value is less than the certified tax credit amount.  (4) If an applicant elects to transfer the tax credit, the pass-through amount is determined by the present value in effect on the date the department receives the complete application for preliminary certification or the complete informational filing. Amendments will not change the pass-through rate. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  OL 2011, Ch. 730 & Sec. 34 - 51 
+ 
+ 
+ Statutes/Other Implemented:  OL 2011, Ch. 730 & Sec. 34 - 51 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 7-2012, f. & cert. ef. 6-19-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 12-2011(Temp), f. & cert. ef. 12-23-11 thru 6-19-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

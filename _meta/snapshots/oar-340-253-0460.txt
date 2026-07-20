@@ -1,0 +1,249 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 253 OREGON CLEAN FUELS PROGRAM 
+ 340-253-0460 
+ Energy Economy Ratio-Adjusted carbon intensity applications 
+ 
+ (1) EER-adjusted CI Applications submitted under this rule are modified Tier 2 pathway applications under OAR 340-253-0450. The vehicles covered by these applications must not be currently covered by a vehicle-category specific EER. 
+
+ (2) The following persons are eligible to submit an application under this rule: 
+
+ (a) Vehicle owners or operators that would be eligible to generate credits for their vehicles based in Oregon, including for vehicles otherwise exempt from this program under OAR 340-253-0250, subject to section (7); 
+
+ (b) Manufacturers of vehicles that would be eligible to generate credits may make a joint application with an owner or operator of their vehicles based in Oregon; and 
+
+ (c) A single, joint application may be submitted on behalf of, and combining data from, any combination of multiple vehicle owners, operators, and manufacturers except that at least one of the applicants must qualify under subsection (a). 
+
+ (3) Applications made under this rule must be for electric vehicles capable of full normal operation using energy from onboard batteries or fuel cells. 
+
+ (4) Application requirements for an EER-adjusted CI under this rule. Applications can be made in connection with a Tier 1 or Tier 2 electricity or hydrogen fuel pathway application, or the applicant can apply for a value that can be used in conjunction with one of the generally available or already-approved electricity or hydrogen fuel pathway codes. In addition to the application requirements for a Tier 2 pathway application under OAR 340-253-0450, the applicant or applicants must include: 
+
+ (a) A letter of intent to request an EER-adjusted CI and why the EER values provided in OAR 340-253-8010 are inapplicable. The letter must demonstrate using data that electricity is not the majority of the fuel currently used in the particular vehicle category; 
+
+ (b) A detailed description of the methodology used in its calculations, all assumptions made, and provide all data and references to calculations. The methodology used must compare the useful output from the alternative fuel-vehicle technology under consideration to comparable conventional fuel-vehicle technology; 
+
+ (c) Supplemental information including records and datasets used to establish any part of the application provided under (b); and 
+
+ (d) If the applicant or applicants plan to use a value in the lookup table in OAR 340-253-8010 for the carbon intensity of the fuel, or an electricity fuel pathway code issued under OAR 340-253-0470, to request an EER-adjusted CI then they do not need to provide the fuel facility-specific information required for a Tier 1 or Tier 2 fuel pathway application under OAR 340-253-0450(3)(e) through (h) and (5). 
+
+ (5) Minimum data requirements to apply for an EER-adjusted CI under this rule: 
+
+ (a) Any application made under this rule must include at least three months of operating data that represents typical usage for each individual vehicle included in the application, except that the application must cover at least 300 hours of operating data for each individual vehicle included in the application; and 
+
+ (b) Notwithstanding subsection (a), an application from a manufacturer may provide data from duty-cycle testing. A manufacturer seeking to apply using duty-cycle testing data must consult with DEQ prior to submitting an application and receive written, advanced approval from the agency for the duration and test cycles it is including in the application in addition to or in lieu of operational data. 
+
+ (6) Application review process to apply for an EER-adjusted CI under this rule: 
+
+ (a) DEQ will review an application for completeness, soundness of the assumptions and comparison to the conventional fuel technology, and accuracy of the data. DEQ may deny an application without prejudice if it is incomplete. DEQ may deny any application that it believes is adequately covered by an existing EER value in OAR 340-253-8010 or that it believes does not fit the intent and purpose of the CFP; 
+
+ (b) DEQ may prioritize its review of applications under this provision to those that cover a greater number of entities or that the agency believes are critical to the state’s transportation electrification goals; 
+
+ (c) If DEQ intends to approve an application, it first must present a review report with a proposed EER value and operating conditions to the applicant or applicants. If the applicant or applicants accept the proposed review report and EER value and operating conditions, DEQ will post the review report and application on its website for a 30-day public comment period. DEQ staff will work with the applicant to aggregate and summarize any submitted data in order to ameliorate concerns regarding trade secrets included in the application. The aggregated data must still allow external stakeholders to understand and replicate the EER value that DEQ is proposing to approve; and 
+
+ (d) Based on comments received during that public comment period, DEQ may move forward with approving the application as provided in section (7), deny the application, request additional information from the applicant or applicants, or modify the review report. If DEQ modifies the review report or receives additional information that has a material bearing on the proposed EER value, it will issue the modified review report and any affected supplemental materials for another round of public comment. 
+
+ (7) Based on its review of the application materials and any comments submitted upon the application under section (6), DEQ may issue an EER-adjusted CI or issue a value that it would post on its website that could be used similarly to the EER values contained in Table 7 of OAR 340-253-8010. Values issued under this rule can only be used by the applicant or applicants for that value. In its consideration of these applications, DEQ may, at its sole and complete discretion, deny applications for vehicles otherwise exempt under OAR 340-253-0250 if DEQ determines granting such an application is not in the best interests of program administration and goals. 
+
+ (8) Adding Joint Applicants after a value is approved. If DEQ has issued a value under section (7) as part of an application that includes the manufacturer of the vehicle(s), owners or operators who begin to operate the same vehicle(s) covered in that application in Oregon may request to be added as a joint applicant. In order to do so they must provide the following: 
+
+ (a) A letter from at least one of the applicants that qualify under either subsection (2)(a) or (2)(b); 
+
+ (b) A statement by the new joint applicant that they understand and accept any and all operating conditions associated with the EER-adjusted CI; and 
+
+ (c) Any current operational data by the new joint applicant, or other elements requested by DEQ. 
+
+ (9) Ongoing reporting requirements. 
+
+ (a) For any EER-adjusted CI approved by DEQ under section (7), the applicant for such approval must annually submit vehicle usage and energy consumption data for each individual vehicle using the value approved by DEQ to generate credits or deficits. DEQ may specify additional data elements that must be reported annually as part of its pathway conditions for an application that is approved under this rule. 
+
+ (b) Notwithstanding the applicability requirements of OAR chapter 340, division 272, for any EER-adjusted CI approved by DEQ under section (7), DEQ may require third party verification of the annual fuel pathway report submitted by the applicant or joint applicants for such approval. If DEQ determines that third party verification is required, DEQ will include that as an operating condition presented to the applicant or applicants under this rule as part of its approval of the EER value. 
+
+ (10) Modifications to EER values issued under this rule. Based on the ongoing reported data required under section (9) or additional applications for vehicles that DEQ determines to be in the same category, DEQ may modify any EER values issued under this provision for reporting beginning within the next full calendar quarter following its notice that the agency is modifying the value. DEQ will provide notice to the applicant(s) for such EER value prior to doing so and may request comment from them and the public prior to modifying the value. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, ORS 468A.266, ORS 468A.268 & ORS 468A.277 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468.020 & ORS 468A.265 - 468A.277 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 2-2025, amend filed 01/09/2025, effective 01/09/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 17-2022, amend filed 09/23/2022, effective 01/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 7-2021, adopt filed 03/26/2021, effective 03/26/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

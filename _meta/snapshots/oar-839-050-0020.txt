@@ -1,0 +1,409 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Bureau of Labor and Industries 
+ Chapter 839 
+ 
+ 
+ 
+ 
+ 
+ Division 50 CONTESTED CASE HEARING RULES 
+ 839-050-0020 
+ Definitions
+ 
+ 
+ Unless the context requires otherwise, the following definitions apply to OAR 839-050-0000 through 839-050-0445: 
+
+ (1) "Administrative Law Judge" means the Commissioner or an individual or a special tribunal designated by the Commissioner to preside over any or all aspects of a contested case proceeding including motions, oral or written hearings, preparation of the Proposed Order and assistance in preparation of the Final Order. The Administrative Law Judge may or may not be an employee of the Agency, except that when a case involves a complaint alleging an unlawful practice under ORS 659A.145 or 659A.421 or discrimination under federal housing law, the Administrative Law Judge or anyone appointed as a hearings officer or member of a special tribunal to hear the matter must be an employee of the Agency. 
+
+ (2) “Administrative Prosecution Unit" means the section of the Bureau of Labor and Industries handling the administrative prosecution of contested case proceedings. 
+
+ (3) "Administrative Prosecutor" means the Agency staff person assigned to prosecute contested case proceedings for the Agency and to handle all related matters, but does not include counsel for the Agency. 
+
+ (4) "Agency" means the Bureau of Labor and Industries and any employee thereof, and includes the bureau when acting as the agent of another governmental entity, but for the purposes of these rules does not refer to the Administrative Law Judge, Contested Case Coordinator, or the Commissioner. 
+
+ (5) “Aggrieved person” 
+
+ (a) For the purpose of proceedings involving a complaint alleging an unlawful practice under ORS 659A.145 or 659A.421 or discrimination under federal housing law, includes, but is not limited to, a person who believes that the person either: 
+
+ (A) Has been injured by an unlawful practice or discriminatory housing practice; or 
+
+ (B) Will be injured by an unlawful practice or discriminatory housing practice that is about to occur. 
+
+ (b) For the purpose of a complaint filed by the Commissioner or the Attorney General, is a person on whose behalf the complaint is filed. 
+
+ (c) A person who is, or was at any time, eligible to file a complaint under ORS 659A.820 or who is otherwise similarly situated. 
+
+ (d) A person who files a complaint personally or through an attorney under ORS 659A.825. 
+
+ (e) For the purpose of prevailing wage rate determinations, is an “aggrieved person” as defined at OAR 839-050-0445. 
+
+ (6) "Authorized Representative" means a member of a partnership, an authorized officer or regular employee of a corporation, association or organized group, including fiduciaries, mutual companies, trusts and unincorporated organizations, or an authorized officer or employee of a governmental agency who has been authorized by the partnership, corporation, association, organized group, or governmental agency to represent that entity during the contested case proceeding. 
+
+ (7) "Charging document" means any document issued by the Bureau of Labor and Industries stating that any person, entity, or government agency has violated the laws within this Agency's jurisdiction and includes, but is not limited to: 
+
+ (a) Formal Charges; 
+
+ (b) Order of Determination; 
+
+ (c) Notice of Intent to Revoke License; 
+
+ (d) Notice of Intent to Deny License; 
+
+ (e) Notice of Intent to Refuse to Renew a License; 
+
+ (f) Notice of Intent to Place Name on List of Ineligibles; 
+
+ (g) Notice of Intent to Assess Civil Penalties; 
+
+ (h) Notice of Intent to Suspend or Revoke License or to Assess Civil Penalty in Lieu Thereof. 
+
+ (8) “Chief Prosecutor” is the Administrative Prosecutor responsible for managing the Administrative Prosecution Unit. The Chief Prosecutor may also administratively prosecute cases on behalf of the Agency. 
+
+ (9) "Claimant" means any individual who has filed a wage claim pursuant to ORS chapter 652 or 653 and who has assigned that claim to the Commissioner. 
+
+ (10) "Commissioner" means the Commissioner of the Bureau of Labor and Industries. 
+
+ (11) "Complainant" means an individual who has, or whose attorney has, filed a complaint pursuant to ORS chapter 279C, 652, 653, 658 or 659A, or any other laws, regulations or ordinances enforced by the bureau, including laws, regulations or ordinances enforced by the bureau as the agent of another governmental entity. 
+
+ (12) “Contested Case Coordinator” means the Bureau of Labor and Industries staff person who receives and maintains all records filed with the Forum in contested cases, issues official contested case documents, and provides administrative support to the Forum and the Administrative Prosecution Unit. 
+
+ (13) “Counsel” means an attorney who is in good standing with the Oregon State Bar or the Bar of another state who is granted permission by the Administrative Law Judge to appear in the matter pursuant to ORS 9.241 and Oregon Uniform Trial Court Rule 3.170. Oregon counsel who request permission for the appearance of an out-of-state attorney must participate meaningfully in the case in which the out-of-state attorney appears. 
+
+ (14) "Counsel for the Agency" means the Oregon Attorney General, the Oregon Attorney General's designee, or separate counsel as authorized by the Oregon Attorney General pursuant to ORS 180.235. 
+
+ (15) “Forum” means the Administrative Law Judge assigned to preside over the contested case proceeding and the Commissioner or Deputy Commissioner who signs the final order. 
+
+ (16) "Good cause" means, unless otherwise specifically stated, that a participant failed to perform a required act due to an excusable mistake or a circumstance over which the participant had no control. "Good cause" does not include a lack of knowledge of the law, including these rules. 
+
+ (17) "Issuance" means the act of sending out a document from the Forum. For purposes of these rules, the date of issuance is the date, as noted on the document, that the document was sent out from the Forum. 
+
+ (18) "Mail" means the act of sending, or an item sent, by a method or manner that results in a postmark on the item or proof of service of registered or certified mail. 
+
+ (19) "Participant" means any party, including any person, aggrieved person intervening in a proceeding involving a complaint alleging an unlawful practice under ORS 659A.145 or 659A.421 or discrimination under federal housing law, or entity granted party status under OAR 137-003-0005, or the Agency. 
+
+ (20) "Party" means: 
+
+ (a) Any person, government agency, or entity upon whom a charging document has been served; 
+
+ (b) Any person, government agency, or entity that has been granted party or limited party status under OAR 137-003-0005; 
+
+ (c) Any aggrieved person intervening in a proceeding involving a complaint alleging an unlawful practice under ORS 659A.145 or 659A.421 or discrimination under federal housing law. 
+
+ (21) "Postmark" means, for purposes of these rules: 
+
+ (a) An imprint in black ink on the address side of the mail piece that shows the location of the United States Postal Service office that accepted custody of the mail, along with the state, zip code, and date of mailing, or 
+
+ (b) A stamp indicating when postage was paid, when accompanied by a fully executed certificate of service indicating the document was mailed on the date postage was paid. 
+
+ (22) "Service" means, for purposes of these rules, the method of sending documents and includes personal service, hand delivery, email, or registered, certified mail, or regular mail sent through the United States Postal Service. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS chapter 183, ORS 651.060, ORS 653.065, ORS 658.407, ORS 658.820 & ORS 659A.805 
+ 
+ 
+ Statutes/Other Implemented:  ORS 279C.860, ORS 279C.865, ORS 652.332, ORS 653.065, ORS 658.115, ORS 658.407, ORS 658.820 & ORS chapter 659A 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BLI 2-2025, amend filed 01/09/2025, effective 01/13/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BLI 1-2024, amend filed 01/04/2024, effective 01/04/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BLI 8-2019, amend filed 07/01/2019, effective 07/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BLI 5-2014, f. & cert. ef. 4-15-14 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BLI 38-2008, f. & cert. ef. 11-7-08 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BLI 24-2008, f. 7-10-08, cert. ef. 7-11-08 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ BLI 15-2004, f. 11-1-04, cert. ef. 11-3-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ BLI 2-2000, f. & cert. ef. 1-27-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ BL 12-1996, f. & cert. ef. 12-10-96 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ BL 8-1993, f. & cert. ef. 9-3-93, Renumbered from 839-030-0025 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ BL 4-1993(Temp), f. 4-7-93, cert. ef. 4-12-93 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ BL 10-1988, f. & cert. ef. 6-16-88 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ BL 8-1986, f. & ef. 9-2-86 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

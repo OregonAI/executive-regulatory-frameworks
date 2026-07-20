@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Oregon Occupational Safety and Health Division - Chapter 437 
+ 
+ 
+ 
+ 
+ Division 4 AGRICULTURE 
+ 437-004-1505 
+ Air Receivers and Pressure Systems 
+ 
+ (1) Application. This section applies to compressed air receivers and other equipment making and using compressed air or gas. This section does not apply to the use of compressed air to move materials nor to work in compressed air as in tunnels and caissons. It also does not apply to compressed air machinery and equipment used on transportation vehicles.  (2) General requirements. New and existing equipment.  (a) Construct all new air receivers installed after the effective date of these regulations according to the 1995 edition of the A.S.M.E. Boiler and Pressure Vessel Code Section VIII.  (b) Construct, install and maintain all safety valves according to the A.S.M.E. Boiler and Pressure Vessel Code, Section VIII Edition 1995.  (3) Installation and equipment requirements.  (a) Installation. Install air receivers so that all drains, hand holes and manholes are easily accessible. Do not bury an air receiver underground or put it in an inaccessible place.  (b) Drains and traps. Install a drain pipe and valve at the lowest point of every air receiver to provide for the removal of accumulated oil and water. Adequate automatic traps are acceptable besides drain valves. To prevent excessive amounts of liquid in the receiver, open the drain valve and drain the receiver completely as often as needed.  (c) Gages and valves.  (A) Every air receiver must have an indicating pressure gage that is visible and with one or more spring-loaded safety valves. These valves together must prevent pressure from exceeding the maximum allowable working pressure by more than 10 percent.  (B) No valve of any type must be between the air receiver and its safety valve or valves.  (C) Construct and place safety and control devices so that people cannot defeat them and are protected from the elements.  (D) Test all safety valves frequently to find out if they are in good operating condition.  (4) Compressed air — general.  (a) Never use compressed air or gas to clean clothing that is being worn. Never direct compressed air or gas at a person.  (b) Do not use compressed air for cleaning unless:  (A) It is reduced at the source to less than 30 p.s.i. and then only with effective chip guarding and personal protective equipment; or  (B) The outlet device or nozzle reduces end pressure to less than 30 p.s.i. when dead-ended or placed against an object, then only with effective chip guarding and personal protective equipment.  (c) All hose connections must be secure and maintained to be safe. Do not allow the hose to begin whipping.  NOTE: See 4/P, OAR 437-004-2230 for standards about using tools run by compressed air.  (5) Piping systems.  (a) All piping systems and their component parts that carry air, steam or other material at more than atmospheric pressure must safely withstand pressures to be placed upon them.  (b) To be acceptable for pressure line service with gaseous substances, non-metallic pipe must have its manufacturer’s recommendation and listing for compressed air or gas service. Only use PVC pipe for compressed air if you bury or encase it.  (6) High temperature piping. High temperature is 140° fahrenheit or higher.  (a) Cover all steam and other high temperature pipe lines within 7 feet of the floor or work platform or passageway with non-combustible insulating material or otherwise protect it against accidental contact with persons.  (b) All steam hose connections must be secure and maintained to be safe. Do not allow the hose to begin whipping.  [Publications: Publications referenced are available from the agency.] 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 654.025(2) & 656.726(3) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 654.001 - 654.295 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSHA 4-1998, f. 8-28-98, cert. ef. 10-1-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

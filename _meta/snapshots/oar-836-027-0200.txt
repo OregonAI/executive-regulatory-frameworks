@@ -1,0 +1,256 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Insurance Regulation - Chapter 836 
+ 
+ 
+ 
+ 
+ Division 27 DOMESTIC INSURERS; ORGANIZATION; CORPORATE PROCEDURES 
+ 836-027-0200 
+ Custodial Arrangements
+ 
+ 
+ (1) This rule is adopted pursuant to the rulemaking authority in ORS 731.244 and 732.245 for the purpose of implementing 732.245. 
+
+ (2) As used in this rule: 
+
+ (a) “Agent” means: 
+
+ (A) A national bank; 
+
+ (B) A state bank; or 
+
+ (C) A trust company with an account in a clearing corporation or a member of the Federal Reserve System. 
+
+ (b) "Bank" has the meaning given that term in ORS 706.008; 
+
+ (c) “Clearing corporation” means a corporation as defined in Article 8 of the Uniform Commercial Code (published by the American Law Institute and the National Conference of Commissioners on Uniform State Laws, 2003), that is organized for the purpose of effecting transactions in securities by computerized book-entry, except those securities issued under the laws of a foreign country; 
+
+ (d) "Custodian" means a bank or trust company licensed by the United States or by any state thereof and regularly examined by its licensing authority; 
+
+ (e) “National bank” has the meaning given that term in ORS 706.008; 
+
+ (f) "Securities" has the meaning given "security" in ORS 59.015; 
+
+ (g) "Securities depository" means a company that provides securities clearance or settlement services for member banks and other member institutions and that is regulated by the Securities and Exchange Commission, a Federal Reserve Bank and the appropriate banking authorities in its state of domicile; 
+
+ (h) “State bank” has the meaning given that term in ORS 706.008; and 
+
+ (i) "Trust company" means a trust company as that term is defined in ORS 706.008 or a company that is authorized under the laws of a state other than Oregon to transact trust business, and includes the trust department of a bank. 
+
+ (3) A domestic insurer may enter into a custodial or safekeeping arrangement with a custodian for the purpose of holding securities owned by the insurer, either in or outside this state, as provided in this section and section (4) of this rule. Such an arrangement must be made by written agreement between the domestic insurer and the custodian, must meet the requirements and standards of section (4) of this rule and must provide that the securities be held by the custodian or its agent. 
+
+ (4) A custodial or safekeeping arrangement to which section (3) of this rule applies must account for and safeguard the securities of the domestic insurer, must facilitate examination of the insurer and the records of the insurer's custody account maintained by the custodian and must be in accordance with the following standards established in the Examiners Handbook, published by the National Association of Insurance Commissioners: 
+
+ (a) The custodian must agree to indemnify the insurer for any loss of the insurer's securities as a result of the negligence or dishonesty of the officers or employees of the custodian, or burglary, robbery, holdup, theft or mysterious disappearance, including loss by damage or destruction; 
+
+ (b) The custodian must agree that, in the event of a loss of the insurer's securities for which the custodian is obligated to indemnify the insurer, the custodian shall promptly replace the securities or the value of any loss of rights or privileges resulting from the loss of the securities; 
+
+ (c) The insurer's securities or a certified listing of the insurer's securities through a securities depository or a Federal Reserve book entry system shall be subject to inquiry and examination by the director of the Department of Consumer and Business Services, either at the custodian's premises or elsewhere, as provided by ORS 731.296 and 731.308; 
+
+ (d) The national bank, state bank or trust company as custodian shall not be liable for any failure to take any action required to be taken under this rule in the event and to the extent that the taking of such action is prevented or delayed by war (whether declared or not and including a war in progress), revolution, insurrection, riot, civil commotion, act of God, accident, fire, explosions, stoppage of labor, strikes or other differences with employees, laws, regulations, orders or other acts of any governmental authority, or any other cause whatever beyond its reasonable control; 
+
+ (e) In the event that the custodian gains entry in a clearing corporation through an agent, there shall be a written agreement between the custodian and the agent that the agent shall be subjected to the same liability for loss of securities as the custodian. If the agent is governed by laws that differ from laws regulating the custodian, the director may accept a standard of liability applicable to the agent that is different from the standard liability; 
+
+ (f) The custodian must agree to provide written notification to the director, within three business days of receipt by the custodian of the insurer’s written notice of termination or withdrawal, if the custodial agreement has been terminated or if 100 percent of the account assets in any one custody account have been withdrawn; 
+
+ (g) The custodian must agree that during regular business hours, and upon reasonable notice, an officer or employee of the insurer, an independent accountant selected by the insurer or a representative of an appropriate regulatory body, or any combination thereof, shall be entitled to examine, on the premises of the custodian, its records relating to securities, if the custodian is given written instructions to that effect from an authorized officer of the insurer; 
+
+ (h) The custodian and its agents, upon reasonable request, must agree to send all reports that they receive from a clearing corporation or the Federal Reserve book-entry system that the clearing corporation or the Federal Reserve permits to be redistributed and reports prepared by the custodian's outside auditors, to the insurer on the custodian’s or agent’s respective systems of internal control; 
+
+ (i) To the extent that certain information maintained by the custodian is relied upon by the insurer in preparation of its annual statement and supporting schedules, the custodian must agree to maintain records sufficient to determine and verify such information; 
+
+ (j) The custodian must agree to provide, upon written request from a regulator or an authorized officer of the insurer, the appropriate affidavits, with respect to the insurer's securities held by the custodian; 
+
+ (k) The custodian must agree to secure and maintain insurance protection in an adequate amount; and 
+
+ (l) The custodian that is a foreign bank, or a U.S. custodian's foreign agent, or a foreign clearing corporation must agree to only hold foreign securities or securities required by the foreign country in order for the insurer to do business in that country. A U.S. custodian must hold all other securities. 
+
+ (m) The custodial agreement shall be authorized by a resolution of the board of directors or an authorized committee of the insurance company. 
+
+ (n) The custodial agreement shall state that certificated securities of the insurance company shall be held separate from all other securities or in a fungible bulk. Those securities held in a fungible bulk shall be separately identified on the custodian’s official records as being owned by the insurance company. Existing agreements must comply within 12 months of the effective date of this rule, or renewal of the agreement, whichever is sooner. 
+
+ (5) A domestic insurer may enter into a custodial or safekeeping arrangement directly with a securities depository for the purpose of holding securities owned by the insurer, either in or outside this state, as provided in this section. Such an arrangement must be made by written agreement between the domestic insurer and the securities depository and must provide that the securities be held by the securities depository. 
+
+ (6) A domestic insurer must obtain the approval of the director for any material change to a custodial or safekeeping arrangement established under ORS 732.245. A change is material for purposes of this section: 
+
+ (a) When the arrangement is with a custodian, if the purpose or effect of the change is to revise or omit any standard set forth in section (4) of this rule; 
+
+ (b) When the arrangement is with a securities depository, if the purpose or effect of the change is to reduce the safety of the securities. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 731.244 & ORS 732.245 
+ 
+ 
+ Statutes/Other Implemented:  ORS 732.245 & ORS 731.574(6) 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ID 9-2019, amend filed 11/25/2019, effective 01/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ID 3-2006, f. & cert. ef. 2-13-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ID 18-1998, f. & cert. ef. 11-20-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

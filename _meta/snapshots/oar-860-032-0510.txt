@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Public Utility Commission 
+ Chapter 860 
+ 
+ 
+ 
+ 
+ 
+ Division 32 TELECOMMUNICATIONS 
+ 860-032-0510 
+ Customer Proprietary Network Information (CPNI) 
+ 
+ (1) The purpose of this rule is to specify requirements under which telecommunications carriers may use, disclose, or permit access to customer proprietary network information. This rule does not relieve telecommunications carriers of any requirements imposed by the Federal Communications Commission (FCC) regarding Customer Proprietary Network Information in 47 Code of Federal Regulations (CFR), Part 64, §64.2001 through §64.2009, or by Section 222 of the Communications Act of 1934, as amended (47 USC 222).  (2) This rule applies to all telecommunications carriers providing intrastate telecommunications service in Oregon, except that it applies to telecommunications cooperatives only for services which are subject to the Commission’s jurisdiction pursuant to ORS 759.220 and 759.225.  (3) For purposes of this rule, the following definitions apply:  (a) "Aggregate customer proprietary network information" or "Aggregate CPNI" means collective CPNI data that relates to a group or category of services or customers, from which individual customer identities and characteristics have been removed.  (b) "Carrier" or "telecommunications carrier" means any provider of intrastate telecommunications service as defined in ORS 759.005(2). "Carrier" or "telecommunications carrier" includes competitive providers, telecommunications cooperatives, and telecommunications utilities  (c) "Customer" means a subscriber, end-user, or consumer of carrier services or an applicant for carrier services.  (d) "Customer proprietary network information" or "CPNI" means individual customer information that a carrier accumulates in the course of providing telecommunications service to the customer. CPNI includes information that relates to type, quantity, technical configuration, destination, location, billing amounts, and usage data. CPNI also includes information contained in bills pertaining to telecommunications service received by a customer, except that CPNI does not include subscriber list information.  (e) "Subscriber list information" means the listed names of subscribers of a carrier and those subscribers’ telephone numbers, addresses, or primary advertising classifications (as such classifications are assigned at the time of establishment of service), or any combination of such listed names, numbers, addresses, or classifications.  (4) Except as required by law or with approval of the customer, a telecommunications carrier that receives or obtains customer proprietary network information by virtue of its provision of telecommunications service shall only use, disclose, or permit access to CPNI in its provision of:  (a) The telecommunications service from which such information is derived; or  (b) Services necessary to, or used in, the provision of such telecommunications service, including publishing of directories and billing.  (5) A telecommunications carrier shall disclose CPNI, upon affirmative written request by the customer, to any person designated by the customer.  (6) A telecommunications carrier that obtains CPNI by virtue of its provision of a telecommunications service may use, disclose, or permit access to aggregate CPNI for any lawful purpose. However, a telecommunications carrier may use, disclose, or permit access to aggregate CPNI other than for purposes described in subsection (4) of this rule only if it provides such aggregate information to other carriers or persons on reasonable and nondiscriminatory terms and conditions, upon reasonable request therefor.  (7) Nothing in this rule prohibits a telecommunications carrier from using, disclosing, or permitting access to CPNI obtained from its customers, either directly or indirectly through its agents:  (a) To initiate, render, bill, or collect for telecommunications services;  (b) To protect the rights or property of the carrier, or to protect users of those services and other carriers from fraudulent, abusive, or unlawful use of, or subscription to, such services; or  (c) To provide any inbound telemarketing, referral, or administrative services to the customer for the duration of the call, if such call was initiated by the customer. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 183, 756 & 759 
+ 
+ 
+ Statutes/Other Implemented:  ORS 756.040, 759.015 & 759.030 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 3-2004, f. & cert. ef. 1-15-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

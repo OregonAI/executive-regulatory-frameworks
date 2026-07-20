@@ -1,0 +1,378 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Department of Education 
+ Chapter 581 
+ 
+ 
+ 
+ 
+ 
+ Division 27 SCHOOL FACILITIES PROGRAMS 
+ 581-027-0005 
+ Definitions
+ 
+ 
+ The following definitions and abbreviations apply to rules within OAR Chapter 581, Division 27: 
+
+ (1) “Acoustics” means the properties or qualities of a room or building that determine how sound is transmitted. 
+
+ (2) “Adjusted Assessed Property Value per ADM” means the value calculated per OAR 581-027-0010 to determine the ranking of Districts on the Priority List for Funding. 
+
+ (3) “Adjusted ADMr” means average daily membership as calculated under OAR 581-023-0006(5)-(7) reduced by the Average Daily Membership of virtual public charter schools in the District. 
+
+ (4) “Adjusted ADMw” means the number of students in a District as calculated under ORS 327.061 and includes all weights, and extended Average Daily Membership weighted, as calculated under ORS 327.013(1)(c) reduced by the Average Daily Membership of virtual public charter schools in the District. 
+
+ (5) “ADM” means Average Daily Membership. 
+
+ (6) “ADMr” or “Resident Average Daily Membership” means average daily membership as calculated under OAR 581-023-0006(5)-(7). 
+
+ (7) “Air Quality” means the degree to which the classrooms are ventilated to avoid high levels of carbon dioxide, and the indoor air is free from pollutants such as radon, asbestos, mold, and particulate matter. 
+
+ (8) “Asbestos Environmental Hazard Assessment” or “Asbestos Management Planning & Inspections” means an inspection, periodic re-inspection, and surveillance for asbestos-containing material in accordance with the Asbestos Hazard Emergency Response Act of 1986 as amended by Public Law 100.368 and subsequent rule published in the Friday, October 30, 1987, Federal Register (40 CFR Part 763). 
+
+ (9) “Assessed Value” means the total assessed value of all tangible property within the boundaries of the District as published by the Oregon Department of Revenue. 
+
+ (10) “Average Daily Membership” or “ADMw” means the number of students in a District as calculated under ORS 327.061 and includes all weights, and extended Average Daily Membership weighted, as calculated under ORS 327.013(1)(c). 
+
+ (11) “Campus” means the grounds and buildings of a school where academic learning takes place. 
+
+ (12) “Certified Assessor” means an entity or person who has gone through the process established by the Department that will certify the entity or person is qualified to perform the work. 
+
+ (13) “Closing” means the date on which a District receives some or all of the proceeds of its Local GO Bonds. 
+
+ (14) “Department” means the Oregon Department of Education. 
+
+ (15) “District” or “Districts” means school districts, as defined in ORS 328.001(3), that are eligible to apply for a State Matching Grant. 
+
+ (16) “DOGAMI” means the Oregon Department of Geology and Mineral Industries. 
+
+ (17) “Educational Adequacy Review Standards” means the qualitative measures used to help districts identify elements that are conducive to a healthy and comfortable indoor learning environment that are set forth in OAR 581-027-0043. 
+
+ (18) “Education Service District” means a district created under ORS 334.010. 
+
+ (19) “Engineered Wood Roof Systems Assessment” means a visual, engineer-led evaluation of the condition of engineered wood trusses and glue-laminated beams in long-span facilities, including documentation of observed deficiencies and recommended actions. 
+
+ (20) “Extended ADMw” means as that term is described in ORS 327.013(1)(c). 
+
+ (21) “Facility Assessment” means an assessment that evaluates one or more facilities in a District according to the requirements set forth in OAR 581-027-0035. 
+
+ (22) “First in Time” means that portion of the Oregon School Capital Improvement Matching Account that is to be awarded to Districts based on the order in which the Department receives the applications. 
+
+ (23) “Funding Cycle” means the period of time, as determined by the Department under OAR 581-027-0020(3), before and after a May or a November general election during which the Department will accept applications, issue commitments, award grants, and finalize grant agreements for State Matching Grants under the OSCIM Program. 
+
+ (24) “Gross Square Footage” means the total square footage of the building as measured by the outside wall of the building. 
+
+ (25) “Instructional Facility” means a building that is owned by a public school or education service district with a capacity of 250 or more persons that is routinely used for student activities. 
+
+ (26) “Lighting” means the level of illumination in a room or building. 
+
+ (27) “Local GO Bonds” means general obligation bonds approved by voters for the benefit of a District during the Funding Cycle for which the District applied for a State Matching Grant. 
+
+ (28) “Long-Range Facility Plan” means a plan that determines the long-range needs and goals of a District according to the requirements set forth in OAR 581-027-0040. 
+
+ (29) “Long-Span Facility” means a building that houses a large-volume space which includes, but is not limited to, a gymnasium, cafeteria, auditorium, or a room that serves multiple such purposes.   
+
+ (30) “Oregon School Capital Improvement Matching Account” means an interest-bearing account established in the State Treasury, separate and distinct from the General Fund, that consists of net proceeds from Article XI-P bonds issued under Article XI-P (School District Capital Costs) of the Oregon Constitution. 
+
+ (31) “Oregon School Capital Improvement Matching Program” or “OSCIM Program” means the program created by Article XI-P of the Oregon Constitution and ORS 286A.769 to 286A.806. 
+
+ (32) “Priority List” means the list created by the Department each biennium pursuant to ORS 286A.801 and the formula outlined in OAR 581-027-0010. 
+
+ (33) “Radon Environmental Hazard Assessment” means an assessment of a District’s radon exposure as one of the potential environmental hazards to be assessed as set forth in ORS 332.331. 
+
+ (34) “Rapid Visual Screening” means the standard adopted by the Oregon Department of Geology and Mineral Industries to assess the seismic hazard potential of K-12 public school buildings. 
+
+ (35) “School Capacity” means the total number of students who could be served in a given school building based on one of the following standards established by the district: 
+
+ (a) The number of teaching stations, target number of students per classroom, and a classroom utilization factor to reflect the amount of time classrooms can be used for teaching each day; or 
+
+ (b) The number of square feet in a classroom divided by the number of classroom square feet required per student per grade level. 
+
+ (36) “Seismic Assessment” means an assessment that evaluates one or more facilities in a District according to the requirements set forth in OAR 581-027-0045. 
+
+ (37) “State Matching Grant” means the grant funds provided by the State through the OSCIM Program to match the proceeds of a District’s Local GO Bonds. 
+
+ (38) “Statewide School Facility Assessment Program” means the assessment conducted under ORS 326.125(1)(g). 
+
+ (39) “Students in Poverty” means the number of children, age 5 to 17, in families in poverty as described by the Small Area Income Poverty Estimate published by the U.S. Census Bureau. 
+
+ (40) “Technical Assistance Grant” means a grant provided by the Department to a District such that a District can conduct an assessment as described in ORS 326.125 or these rules. 
+
+ (41) “Waitlist Ranking” means the list of Districts not initially awarded a State Matching Grant, based on either the District’s position on the Priority List or the District’s First in Time status, during any Funding Cycle. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 286A.796 - ORS 286.806 & ORS 326.125 
+ 
+ 
+ Statutes/Other Implemented:  ORS 286A.796 - ORS 286.806 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ODE 12-2026, amend filed 03/27/2026, effective 03/27/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ODE 35-2025, amend filed 06/18/2025, effective 06/18/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ODE 2-2024, amend filed 02/16/2024, effective 02/16/2024 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ODE 37-2021, amend filed 10/26/2021, effective 10/26/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ODE 42-2020, amend filed 10/22/2020, effective 10/22/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ODE 21-2019, amend filed 06/25/2019, effective 06/25/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ODE 32-2018, amend filed 10/19/2018, effective 10/21/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ODE 4-2017, f. & cert. ef. 3-1-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ODE 41-2016, f. & cert. ef. 7-20-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ODE 30-2016, f. & cert. ef. 4-28-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

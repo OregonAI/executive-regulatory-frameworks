@@ -1,0 +1,264 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 106 X-RAYS IN THE HEALING ARTS 
+ 333-106-0364 
+ Computed Tomography X-ray Systems: Initial and Annual Qualified CT Medical Physicist Scanner Performance Evaluations
+ 
+ 
+ (1) A CT medical physicist shall complete an initial performance evaluation of the CT scanner before use on patients and annually thereafter. 
+
+ (2) A performance evaluation of the CT system shall be performed after any change in the equipment which might cause a change in the radiation output or image quality. 
+
+ (3) A calibrated dosimetry system shall be used to measure the radiation output of a CT scanner. Calibration of the dosimetry system shall be within the preceding 24 months, or per manufacturer’s specifications, and shall be traceable to a national standard. 
+
+ (4) A performance evaluation shall include the following, as a minimum: 
+
+ (a) Alignment light accuracy; 
+
+ (b) Alignment of table to gantry; 
+
+ (c) Gantry tilt, as appropriate; 
+
+ (d) Slice localization from scanned projection radiograph; 
+
+ (e) Table travel accuracy; 
+
+ (f) Radiation beam width; 
+
+ (g) Image quality, including the following: 
+
+ (A) Gray level performance of CT acquisition display monitors, 
+
+ (B) Low-contrast performance, 
+
+ (C) Image uniformity, 
+
+ (D) Noise, 
+
+ (E) Artifact evaluation, and 
+
+ (F) Spatial resolution; 
+
+ (h) CT number uniformity; 
+
+ (i) Dosimetry, including the following: 
+
+ (A) Dose indicator such as computed tomography dose index (CTDI¬vol), and 
+
+ (B) Patient radiation dose for representative examinations. 
+
+ (j) A safety evaluation, including the following: 
+
+ (A) Visual inspection, 
+
+ (B) Audible and visual signals, and 
+
+ (C) Posting requirements. 
+
+ (k) A review of clinical protocols shall include at a minimum: 
+
+ (A) An evaluation of scanner features, including kV, mAs, detector configuration, reconstructed scan width, pitch, reconstruction algorithm, and other features such as dose reduction options, including automatic exposure controls, iterative reconstruction techniques, etc. to ensure they are being properly utilized; and 
+
+ (B) A review of the following clinical protocols, if they are used on the CT scanner: 
+
+ (i) Pediatric head (one year old); 
+
+ (ii) Pediatric abdomen (five years old; 40–50 pounds or approximately 20 kilograms); 
+
+ (iii) Adult head; 
+
+ (iv) Adult abdomen (70 kilograms); 
+
+ (v) High-resolution chest; 
+
+ (vi) Brain perfusion; and 
+
+ (vii) Low dose lung cancer screening exam. 
+
+ (l) A review of the facility’s ongoing quality control program, including test results and corrective action. 
+
+ (5) Evaluations and tests shall be performed following written procedures and methods found in the latest ACR CT Quality Control Manual. 
+
+ (6) The qualified CT medical physicist shall prepare a report that includes the following: 
+
+ (a) A summary of the performance evaluation required under section (1) of this rule; 
+
+ (b) Recommendations for necessary improvements; and 
+
+ (c) The type of dosimetry system used, including the date of the last calibration. 
+
+ (7) The report required under section (6) of this rule shall be provided to the CT facility within 30 days after completion of the evaluation and shall be made available to the Authority upon request. 
+
+ (8) The facility shall keep written documentation of actions taken in response to the recommendations from the performance evaluation report. 
+
+ (9) Records of preventive maintenance and repair shall be retained for each CT scanner and be made available to the Authority upon request. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 453.605 - 453.807 
+ 
+ 
+ Statutes/Other Implemented:  ORS 453.605 - 453.807 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 72-2020, amend filed 10/09/2020, effective 10/09/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 24-2014, f. & cert. ef. 8-15-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

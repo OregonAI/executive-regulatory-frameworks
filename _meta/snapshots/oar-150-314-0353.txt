@@ -1,0 +1,274 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 314 INCOME TAXATION GENERALLY  GENERAL PROVISIONS 
+ 150-314-0353 
+ Apportionment for Long-Term Construction Contracts
+ 
+ 
+ (1) This rule adopts a model regulation recommended by the Multistate Tax Commission to promote uniform treatment of this item by the states. If a taxpayer elects to use the percentage of completion method of accounting, or the completed contract method of accounting for long-term contracts, and has income from sources both within and without this state, the amount of apportionable income derived from sources within this state, including income from such long-term contracts, is determined pursuant to this rule. In such cases, the first step is to determine what portion of the taxpayer’s income constitutes apportionable income and nonapportionable income under ORS 314.610 and the rules thereunder. Nonapportionable income is directly allocated to specific states pursuant to the provisions of ORS 314.625 to 314.645. The apportionable income of the taxpayer is divided between or among the states in which the business is conducted pursuant to the property, payroll, and sales apportionment factors set forth in this rule. The sum of (1) the items of nonapportionable income directly allocated to this state, plus (2) the amount of apportionable income attributable to this state, constitutes the taxpayer’s entire net income that is subject to tax. For definitions, rules, and examples for determining apportionable and nonapportionable income, see ORS 314.610 and the rules thereunder. 
+
+ (2) Apportionment of Apportionable Income. 
+
+ (a) In General. Apportionable income is apportioned to this state by use of the formula provided in ORS 314.650 as it applies to the tax year involved. 
+
+ (b) Percentage of Completion Method. Under this method of accounting for long-term contracts, the amount to be included each year as apportionable income from each contract is the amount by which the gross contract price that has been completed during the taxable year exceeds all expenditures made during the taxable year in connection with the contract. In so doing, account must be taken of the material and supplies on hand at the beginning and end of the taxable year for use in each such contract. 
+
+ Example 1: A taxpayer using the percentage of completion method of accounting for long-term contracts, entered into a long-term contract to build a structure for $9,000,000. The contract allowed three years for completion and, as of the end of the second taxable year, the taxpayer’s books of account, kept on the accrual method, disclosed the following: [See PDF link below.] 
+
+ (c) Completed Contract Method. Under this method of accounting, apportionable income derived from long-term contracts is reported for the taxable year in which the contract is finally completed and accepted. Therefore, a special computation is required to compute the amount of apportionable income attributable to this state from each completed contract (see section (3) below). Thus, all receipts and expenditures applicable to such contracts, whether completed or not as of the end of the taxable year, are excluded from apportionable income derived from other sources. For example, income from short-term contracts, interest, rents, royalties, etc., is apportioned by the regular three-factor formula of property, payroll, and sales. 
+
+ (d) Property Factor. In general, the numerator and denominator of the property factor is determined as set forth in ORS 314.655 and the rules thereunder. However, the following special rules are also applicable: 
+
+ (A) The average value of the taxpayer’s costs (including materials and labor) of construction in progress, to the extent such costs exceed progress billings (accrued or received depending on whether the taxpayer is on the accrual or cash basis for keeping its accounts) is included in the denominator of the property factor. The value of any such construction costs attributable to construction projects in this state are included in the numerator of the property factor. 
+
+ Example 2: The taxpayer commenced a long-term construction project in this state as of the beginning of a given year. By the end of its second taxable year, its equity in the costs of production to be reflected in the numerator and denominator of its property factor for such year is computed as follows: [See PDF link below.] 
+
+ Example 3: Same facts as in Example 2, except that progress billings exceeded construction costs. No value for the taxpayer’s equity in the construction project is shown in the property factor. 
+
+ (B) Rent paid for the use of equipment directly attributable to a particular construction project is included in the property factor at eight times the net annual rental rate, even though such rental expense may be included in the cost of construction. 
+
+ (C) The property factor is computed in the same manner regardless of which method of accounting for long-term contracts the taxpayer has elected and is computed for each taxable year, even though under the completed contract method of accounting, apportionable income is computed separately (see section (3) below). 
+
+ (e) Payroll Factor. In general the numerator and denominator of the payroll factor is determined as set forth in ORS 314.660 and the rules thereunder. However, the following special rules are also applicable: 
+
+ (A) Compensation paid employees that is attributable to a particular construction project is included in the payroll factor, even though it is included in the cost of construction. 
+
+ (B) Compensation paid to employees engaged in performing services at a construction site are attributed to the state in which the services are performed. Compensation paid all other employees is governed by ORS 314.660(2). 
+
+ Example 4: A taxpayer engaged in a long-term contract in state X assigns several key employees to that state to supervise the project. The taxpayer, for unemployment tax purposes, reports these employees to state Y where the main office is maintained and where the employees reside. For payroll factor purposes, such compensation is assigned to the numerator of state X. 
+
+ (C) The payroll factor is computed in the same manner regardless of which method of accounting for long-term contracts the taxpayer has elected and is computed for each taxable year, even though under the completed contract method of accounting, apportionable income is computed separately (see section (3) below). 
+
+ (f) Sales Factor. In general, the numerator and denominator of the sales factor is determined as set forth in ORS 314.665 and the rules thereunder. However, the following special rules are also applicable: 
+
+ (A) Gross receipts derived from the performance of a contract are attributable to this state if the construction project is located in this state. If the construction project is located partly within and partly without this state, the gross receipts attributable to this state are based upon the ratio that construction costs for the project in this state bear to the total of such construction costs for the entire project during the taxable year. Any other method, such as engineering cost estimates, may be used if it provides a reasonable apportionment. 
+
+ Example 5: A construction project was undertaken in this state by a calendar-year taxpayer that had elected one of the methods of accounting for long-term contracts. The following gross receipts (progress billings) were derived from the contract during the three taxable years the contract was in progress. [See PDF link below.] 
+
+ Example 6: A taxpayer contracts to build a dam on a river at a point that lies half within this state and half within state X. During the taxpayer’s first taxable year, construction costs in this state were $2,000,000. Total construction costs for the project during the taxable year were $3,000,000. Gross receipts (progress billings) for the year were $2,400,000. Accordingly, gross receipts of $1,600,000 ($2,000,000 ÷ $3,000,000 = 66 2⁄3% x $2,400,000) are included in the numerator of the sales factor. 
+
+ (B) If the percentage of completion method is used, the sales factor includes only that portion of the gross contract price that corresponds to the percentage of the entire contract completed during the taxable year. 
+
+ Example 7: A taxpayer that elected the percentage of completion method of accounting entered into a long-term construction contract. At the end of its current taxable year (the first since starting the project) it estimated that the project was 30 percent completed. The bid price for the project was $9,000,000 and it had received $2,500,000 from progress billings as of the end of its current taxable year. The amount of gross receipts to be included in the sales factor for the current taxable year is $2,700,000 (30 percent of $9,000,000), regardless of whether the taxpayer uses the accrual method or the cash method for accounting for receipts and disbursements. 
+
+ (C) If the completed contract method of accounting is used, the sales factor includes the portion of the gross receipts (progress billings) received or accrued, whichever is applicable, during the taxable year attributable to each contract. 
+
+ Example 8: A taxpayer that entered into a long-term construction contract elected the completed contract method of accounting. By the end of its current taxable year (the second since starting the project) it had billed and accrued on its books a total of $5,000,000. Of that amount, $2,000,000 accrued in the first year the contract was undertaken, and $3,000,000 accrued in the current year. The amount of gross receipts to be included in the sales factor for the current taxable year is $3,000,000. 
+
+ Example 9: Same facts as in Example 8 except that the taxpayer keeps its books on the cash basis and, as of the end of its current taxable year, had received only $2,500,000 of the $3,000,000 billed during the current year. The amount of gross receipts to be included in the sales factor for the current taxable year is $2,500,000. 
+
+ (D) The sales factor, except as noted above in paragraphs (B) and (C), is computed in the same manner regardless of which method of accounting for long-term contracts the taxpayer has elected and is computed for each taxable year, even though under the completed contract method of accounting, apportionable income is computed separately. 
+
+ (g) Apportionment Percentage. The apportionment percentage provided in ORS 314.650 is applied to apportionable income to establish the amount apportioned to Oregon. 
+
+ (3) Completed Contract Method — Special Computation. The completed contract method of accounting requires that the reporting of income (or loss) be deferred until the year the construction project is completed and accepted. Accordingly, a separate computation is made for each such contract completed during the taxable year regardless of whether the project is located within or without this state in order to determine the amount of income attributable to sources within this state. The amount of income apportioned to this state from each contract completed during the taxable year, plus other apportionable income (such as interest income, rents, royalties, income from short-term contracts, etc.) apportioned to this state by the regular three factor formula, plus all nonapportionable income allocated to this state, is the measure of tax for the taxable year. The amount of income (or loss) from each contract derived from sources within this state using the completed contract method of accounting is computed as follows: 
+
+ (a) In the taxable year the contract is completed, the income (or loss) therefrom is determined. 
+
+ (b) The income (or loss) determined in (a) is apportioned to this state by the following method: 
+
+ (A) A fraction is determined for each year the contract was in progress. The numerator is the amount of construction costs paid or accrued each year the contract was in progress, and the denominator is the total of all such construction costs for the project. 
+
+ (B) Each percentage determined in (A) is multiplied by the apportionment formula percentage for that particular year as determined in section (2)(g) of this rule. 
+
+ (C) The products determined at (B) for each year the contract was in progress are totaled. The amount of total income (or loss) from the contract determined in (a) is multiplied by the total percentage. The resulting income (or loss) is the amount of apportionable income from such contract derived from sources within this state. 
+
+ Example 10: A taxpayer using the completed contract method of accounting for long-term contracts is engaged in three long-term contracts: Contract L in this state, Contract M in state X, and Contract N in state Y. In addition, it has other apportionable income (less expenses) during the taxable year 2016 from interest, rents, and short-term contracts amounting to $500,000, and nonapportionable income allocable to this state of $8,000. During 2016, it completed Contract M in state X at a profit of $900,000. Contracts L in this state and N in state Y were not completed during the taxable year. The apportionment percentages of the taxpayer as determined in subsection (g) of this rule and the percentages of contract costs as determined in subsection (b) above for each year Contract M in state X was in progress are as follows: [See PDF link below.] 
+
+ Example 11: Same facts as in Example 10 except that Contract L was started in 2016 in this state, the first year the taxpayer was subject to tax in this state. Contract L in this state and Contract N in state Y are incomplete in 2016. The corporation’s net income subject to tax in this state for 2016 is computed as follows: [See PDF link below.] 
+
+ Example 12: Same facts as in Example 10 except that the figures relate to Contract L in this state, and 2016 is the first year the corporation was taxable in another state (see ORS 314.615 and 314.620 and the rules thereunder). Contracts M and N in states X and Y were started in 2016 and are incomplete. The corporation’s net income subject to tax in this state for 2016 is computed as follows: [See PDF link below.] 
+
+ (4) Computation for Year of Withdrawal, Dissolution or Cessation of Business — Completed Contract Method. Use of the completed contract method of accounting for long-term contracts requires that income derived from sources within this state from incomplete contracts in progress outside this state on the date of withdrawal, dissolution, or cessation of business in this state be included in the measure of tax for the taxable year during which the corporation withdraws, dissolves or ceases doing business in this state. The amount of income (or loss) from each such contract to be apportioned to this state by the apportionment method set forth in section (3)(b) of this rule must be determined as if the percentage of completion method of accounting were used for all such contracts on the date of withdrawal, dissolution, or cessation of business. The amount of apportionable income (or loss) for each such contract is the amount by which that portion of the gross contract price of each such contract that corresponds to the percentage of the entire contract that has been completed as the date of withdrawal, dissolution, or cessation of business exceeds all expenditures made in connection with each such contract. In so doing, account must be taken of the material and supplies on hand at the beginning and end of the income year for use in each such contract. 
+
+ Example 13: A construction contractor qualified to do business in this state elected the completed contract method of accounting for long-term contracts. It was engaged in two long-term contracts. Contract L was started in Oregon in 2014 and completed at a profit of $900,000 on December 16, 2016. The taxpayer withdrew on December 31, 2016. Contract M was started in state X in 2015 and was incomplete on December 31, 2016. The apportionment percentages of the taxpayer as determined in section (2) of this rule, and percentages of construction costs as determined in section (3)(b) of this rule for each year during which Contract M in state X was in progress are as follows: [See PDF link below.] 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 
+ 
+ 
+ Statutes/Other Implemented:  ORS 314.615 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 68-2017, amend filed 12/22/2017, effective 01/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 41-2017, f. & cert. ef. 8-2-17 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ Renumbered from 150-314.615-(F), REV 30-2016, f. 8-12-16, cert. ef. 9-1-16 
+REV 4-2003, f. & cert. ef. 12-31-03 
+REV 1-2001, f. 7-31-01, cert. ef. 8-1-01 
+RD 5-1994, f. 12-15-94, cert. ef. 12-31-94 
+RD 11-1988, f. 12-19-88, cert. ef. 12-31-88 
+Renumbered from OAR 150-314.670-(D) to OAR 150-314.615-(F), 12-31-85 
+f. 12-6-82, ef. 12-31-82
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

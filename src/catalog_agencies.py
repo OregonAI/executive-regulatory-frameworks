@@ -168,6 +168,18 @@ def cmd_refresh():
             orgs[i]["parent_slug"] = None
             orgs[i]["parent_chapter"] = None
 
+    # Preserve manually-added entries (chapters OARD serves but the mirror's index
+    # omits, e.g. 419, 950 — discovered via renumbering redirects during the mass
+    # import). A refresh must never drop them; a collision with a newly-indexed
+    # chapter means the mirror caught up — then the manual flag should be removed
+    # by hand after comparing names.
+    if CATALOG.exists():
+        prev = yaml.safe_load(CATALOG.read_text())
+        for o in prev.get("organizations", []):
+            if o.get("manual") and o["slug"] not in by_slug                     and o.get("oar_chapter") not in {x["oar_chapter"] for x in orgs}:
+                orgs.append(o)
+                by_slug[o["slug"]] = o
+
     cat = {
         "note": ("Canonical registry of Oregon agencies and their sub-units, keyed on "
                  "the OAR chapter assignment scheme as presented by oregon.public.law/"

@@ -1,0 +1,281 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 102 LICENSING OF RADIOACTIVE MATERIAL 
+ 333-102-0190 
+ General Licenses — Radioactive Material Other than Source Material: Application for Specific Licenses 
+ 
+ (1) Applications for specific licenses must be filed on a form prescribed by the Authority. Information contained in previous applications, statements or reports filed with the Authority, the US Nuclear Regulatory Commission, or an Agreement State or a Licensing State or the Atomic Energy Commission may be incorporated by reference, provided that the reference is clear and specific.  (2) The Authority may at any time after the filing of the original application, and before the expiration of the license, require further statements in order to enable the Authority to determine whether the application shall be granted or denied or whether a license shall be modified or revoked.  (3) Each application must be signed by the applicant or licensee or a person duly authorized to act for and on the applicant's or licensee's behalf.  (4) Each applicant for a specific license is required to have a permanent in-state office with a copy of all required records available for inspection by the Authority.  (5) An application for a license filed pursuant to the rules in this division and divisions 105, 113, 115, 116, 117, and 121 of this chapter will be considered also as an application for licenses authorizing other activities for which licenses are required by the Act, provided that the application specifies the additional activities for which licenses are requested and complies with rules of the Authority and the US Nuclear Regulatory Commission as to applications for such licenses.  (6) Each new application for a radioactive material license must be accompanied by the fee prescribed by OAR 333-103-0010. Fees received by the Authority shall be refundable up to 10 calendar days if the application is withdrawn. No fee will be required to accompany an application for renewal or amendment of a license, except as provided in OAR 333-103-0010.  (7) An application for a license to receive and possess radioactive material for the conduct of any activity that the Authority has determined, pursuant to Subpart A of Part 51 of 10 CFR (Environmental Protection Regulations applicable to materials licensing), will significantly affect the quality of the environment, must be filed at least nine months prior to commencement of construction of the plant or facility in which the activity will be conducted and must be accompanied by any Environmental Report required pursuant to Subpart A of 10 CFR Part 51.  (8) An application for a specific license to use byproduct material in the form of a sealed source or in a device that contains the sealed source must either:  (a) Identify the source or device by manufacturer and model number as registered with the US Nuclear Regulatory Commission under 10 CFR Part 32.210 or with an Agreement State; or for a source or a device containing radium-226 or accelerator-produced radioactive material with a state under provisions comparable to 10 CFR Parts 32.210; or  (b) Contain the information identified in 10 CFR Part 32.210(c); or  (c) For sources or devices manufactured prior to October 23, 2012 that are not registered with the Nuclear Regulatory Commission or an Agreement State which the applicant is unable to provide all categories of information specified in 10 CFR Part 32.210(c) the applicant must provide:  (A) All available information identified in 10 CFR Part 32.210(c) concerning the source and if applicable the device; and  (B) Sufficient additional information to demonstrate that there is reasonable assurance that the radiation safety properties of the source or device are adequate to protect health and minimize danger to life and property. Information must include a description of the source or device, description of radiation safety features, intended use and associated operating experience and the results of a recent leak test:  (i) For sealed sources and devices allowed to be distributed without registration of safety information in accordance with 10 CFR Part 32.210(g)(1), the applicant may supply only the manufacturer, model number, and radionuclide and quantity; or  (ii) If it is not feasible to identify each sealed source and device individually, the applicant may propose constraints on the number and type of sealed sources and devices to be used and the conditions under which they will be used, in lieu of identifying each sealed source and device.  (9) As provided by OAR 333-102-0200, certain applications for specific licenses filed under this division and divisions 105, 113, 115, 116, 117, and 121 of this chapter must contain a proposed decommissioning funding plan or a certification of financial assurance for decommissioning as follows:  (10)(a) Each application to possess radioactive materials in unsealed form, on foils or plated sources, or sealed in glass in excess of the quantities in 10 CFR 30.72, "Schedule C — Quantities of Radioactive Materials Requiring Consideration of the Need for an Emergency Plan for Responding to a Release,'' must contain either:  (A) An evaluation showing that the maximum dose to a person offsite due to a release of radioactive materials shall not exceed one rem effective dose equivalent or five rems to the thyroid; or  (B) An emergency plan for responding to a release of radioactive material.  (b) One or more of the following factors may be used to support an evaluation submitted under paragraph (10)(a)(A) of this rule:  (A) The radioactive material is physically separated so that only a portion could be involved in an accident;  (B) All or part of the radioactive material is not subject to release during an accident because of the way it is stored or packaged;  (C) The release fraction in the respirable size range shall be lower than the release fraction shown in 10 CFR Part 30.72 (Schedule C — Quantities of Radioactive Materials Requiring Consideration of the Need for an Emergency Plan for Responding to a Release) due to the chemical or physical form of the material;  (D) The solubility of the radioactive material shall reduce the dose received;  (E) Facility design or engineered safety features in the facility shall cause the release fraction to be lower than shown in 10 CFR Part 30.72;  (F) Operating restrictions or procedures shall prevent a release fraction as large as that shown in 10 CFR Part 30.72; or  (G) Other factors appropriate for the specific facility.  (c) An emergency plan for responding to a release of radioactive material submitted under paragraph (10)(a)(B) of this rule must include the following information:  (A) Facility description. A brief description of the licensee's facility and area near the site.  (B) Types of accidents. An identification of each type of radio-active materials accident for which protective actions may be needed.  (C) Classification of accidents. A classification system for classifying accidents as alerts or site area emergencies.  (D) Detection of accidents. Identification of the means of detecting each type of accident in a timely manner.  (E) Mitigation of consequences. A brief description of the means and equipment for mitigating the consequences of each type of accident, including those provided to protect workers onsite, and a description of the program for maintaining the equipment.  (F) Assessment of releases. A brief description of the methods and equipment to assess releases of radioactive materials.  (G) Responsibilities. A brief description of the responsibilities of licensee personnel if an accident occurs, including identification of personnel responsible for promptly notifying offsite response organizations and the Authority; also responsibilities for developing, maintaining, and updating the plan.  (H) Notification and coordination. A commitment to and a brief description of the means to promptly notify offsite response organizations and request offsite assistance, including medical assistance for the treatment of contaminated injured onsite workers when appropriate. A control point must be established. The notification and coordination must be planned so that unavailability of some personnel, parts of the facility, and some equipment will not prevent the notification and coordination. The licensee also must commit to notify the Authority immediately after notification of the appropriate offsite response organizations and not later than one hour after the licensee declares an emergency.  NOTE: These reporting requirements do not supersede or release licensees of complying with the requirements under the Emergency Planning and Community Right-to-Know Act of 1986, Title III, Pub. L. 99-499 or other state or federal reporting requirements.  (I) Information to be communicated. A brief description of the types of information on facility status, radioactive releases, and recommended protective actions, if necessary, to be given to offsite response organizations and to the Authority.  (J) Training. A brief description of the frequency, performance objectives and plans for the training that the licensee will provide workers on how to respond to an emergency including any special instructions and orientation tours the licensee can offer to fire, police, medical and other emergency personnel. The training must familiarize personnel with site-specific emergency procedures. Also, the training must thoroughly prepare site personnel for their responsibilities in the event of accident scenarios postulated as most probable for the specific site, including the use of team training for such scenarios.  (K) Safe shutdown. A brief description of the means of restoring the facility to a safe condition after an accident.  (L) Exercises. Provisions for conducting quarterly communications checks with offsite response organizations and biennial onsite exercises to test response to simulated emergencies. Quarterly communications checks with offsite response organizations must include the check and update of all necessary telephone numbers. The licensee must invite offsite response organizations to participate in the biennial exercises. Participation of offsite response organizations in biennial exercises although recommended is not required. Exercises must use accident scenarios postulated as most probable for the specific site and the scenarios must not be known to most exercise participants. The licensee must critique each exercise using individuals not having direct implementation responsibility for the plan. Critiques of exercises must evaluate the appropriateness of the plan, emergency procedures, facilities, equipment, training of personnel, and overall effectiveness of the response. Deficiencies found by the critiques must be corrected.  (M) Hazardous chemicals. A certification that the applicant has met its responsibilities under the Emergency Planning and Community Right-to-Know Act of 1986, title III, Pub. L. 99-499, if applicable to the applicant's activities at the proposed place of use of the byproduct material.  (N) An application from a medical facility, educational institution, or federal facility to produce Positron Emission Tomography (PET) radiopharmaceutical drugs for noncommercial transfer to licensees in its consortium authorized for medical use under 10 CFR Part 35 or division 116 of this chapter or equivalent Agreement State requirements shall include:  (i) A request for authorization for the production of PET radionuclides or evidence of an existing license issued under 10 CFR Part 30 or Agreement State requirements for a PET radionuclide production facility within its consortium from which it receives PET radionuclides.  (ii) Evidence that the applicant is qualified to produce radiopharmaceutical drugs for medical use by meeting one of the criteria in 10 CFR 32.72(a)(2).  (iii) Identification of individual(s) authorized to prepare the PET radiopharmaceutical drugs if the applicant is a pharmacy, and documentation that each individual meets the requirements of an authorized nuclear pharmacist as specified in OAR 333-116-0880 and 333-116-0910.  (iv) Information identified in 10 CFR Part 32.72(a)(3) on the PET radiopharmaceutical to be non-commercially transferred to members of its consortium.  (v) Each applicant for a license for byproduct material shall protect Safeguards Information against unauthorized disclosure in accordance with the requirements in 10 CFR Parts 73.21, 73.22 and 73.23 as applicable.  (d) The licensee must allow the offsite response organizations expected to respond in case of an accident 60 days to comment on the licensee's emergency plan before submitting it to the Authority. The licensee must provide any comments received within the 60 days to the Authority with the emergency plan.  [Publications: Publications referenced are available from the agency.] 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 453.635 & 453.665 
+ 
+ 
+ Statutes/Other Implemented:  ORS 453.605 - 453.807 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 25-2016, f. 8-26-16, cert. ef. 9-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 19-2015, f. 9-30-15, cert. ef. 10-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 10-2011, f. 9-30-11, cert. ef. 10-1-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 20-2010, f. & cert. ef. 9-1-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 4-2010, f. & cert. ef. 2-16-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 14-2008, f. & cert. ef. 9-15-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 4-2007, f. & cert. ef. 3-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 12-2006, f. & cert. ef. 6-16-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 36-2004, f. & cert. ef. 12-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 31-2004(Temp), f. & cert. ef. 10-8-04 thru 4-5-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 3-2003, f. & cert. ef. 3-27-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

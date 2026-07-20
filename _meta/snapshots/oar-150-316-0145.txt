@@ -1,0 +1,173 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 316 PERSONAL INCOME TAX GENERAL PROVISIONS 
+ 150-316-0145 
+ Proration for Pass-through Entity Income of Part Year Oregon Residents 
+ 
+ A part-year Oregon resident with an ownership interest in a partnership or S corporation includes in Oregon adjusted gross income the sum of:  (1) All income derived from the ownership interest while the taxpayer was an Oregon resident. The amount included in Oregon income must be determined consistently with Internal Revenue Code sections 1366, 1377, 702, 704 and the corresponding Treasury Regulations and must reasonably reflect the taxpayer's share of income derived from the taxpayer's ownership interest, plus  (2) That portion of income derived from the ownership interest as a nonresident from an entity with business activity in Oregon. The taxpayer's share of the income is subject to the allocation and apportionment provisions of ORS 314.605 to 314.675 during the time that the taxpayer was not an Oregon resident.  Example 1: Ralph was an Oregon resident who moved to Nevada on August 16. During the same year, Ralph was a shareholder of an Idaho S corporation with no business activity in Oregon. From January 1 to March 31, he owned 250 of 500 total issued shares. Additional shares were issued on April 1, giving Ralph 300 of 800 total shares. On July 1, more shares were issued and traded, giving him 450 of 1000 total shares. The S corporation's federal income is $365,000; Ralph's share of federal income is $161,925. Ralph determines his Oregon income of $99,825 as follows:  Step 1. S corporation income assigned to each day:  $365,000 / 365 days = $1,000  Step 2. Figure per share, per day amount (per day amount / outstanding shares):  Jan 1–Mar 31 — $1,000 per day/500 shares = $2.00 per share, per day  Apr 1–Jun 30 — $1,000 per day/800 shares = $1.25 per share, per day  Jul 1–Dec 31 — $1,000 per day/1000 shares = $1.00 per share, per day  Step 3. Figure shareholder income (per share, per day):  Jan 1–Mar 31 — 90 days x 250 shares x $2.00 = $45,000  Apr 1–Jun 30 — 91 days x 300 shares x $1.25 = $34,125  Jul 1–Aug 15 — 46 days x 450 shares x $1.00 = $20,700  Aug 16–Dec 31 — Nonresident, no Oregon activity — $0  Oregon income: $99,825  Example 2: Assume the same facts as in Example 1, except that the S corporation also did business in Oregon and computed an Oregon apportionment percentage of 40 percent. Ralph's proportional share of this income reported to Oregon for the entire year is calculated as follows:  Jan 1–Mar 31 — 90 days x 250 shares x $2.00 = $45,000  Apr 1–Jun 30 — 91 days x 300 shares x $1.25 = $34,125  Jul 1–Aug 15 — 46 days x 450 shares x $1.00 = $20,700  Aug 16–Dec 31 — 138 days x 450 shares x $1.00 x 40% = $24,840  Oregon income: $124,665 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 
+ 
+ 
+ Statutes/Other Implemented:  ORS 316.119 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 150-316.119, REV 62-2016, f. 8-15-16, cert. ef. 9-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 6-2008, f. 8-29-08, cert. ef. 8-31-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

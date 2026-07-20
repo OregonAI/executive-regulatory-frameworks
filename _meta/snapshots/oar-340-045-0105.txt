@@ -1,0 +1,248 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 45 REGULATIONS PERTAINING TO NPDES AND WPCF PERMITS 
+ 340-045-0105 
+ Effect of a Permit - Intake Credits
+ 
+ 
+ (1) General Provisions. The following provisions apply to the consideration of intake pollutants in determining reasonable potential under section (2) of this rule and the consideration of intake pollutants in establishing water quality based effluent limits under section (3) of this rule. 
+
+ These provisions do not alter the permitting authority's obligation under 40 C.F.R.  §122.44(d)(vii)(B) to develop effluent limitations consistent with the assumptions and requirements of any available waste load allocations for the discharge, that is part of a TMDL prepared by DEQ and approved by the U.S. EPA under 40 C.F.R.  §130.7, or prepared by the EPA under 40 C.F.R.  §130.7(d). 
+
+ (a) An “intake pollutant” is the amount of a pollutant that is present in public waters, including groundwater as provided in subsection (d), below, at the time it is withdrawn from such waters by the discharger or other facility supplying the discharger with intake water. 
+
+ (b) An intake pollutant is considered to be from the “same body of water” as the discharge if DEQ finds that the intake pollutant would have reached the vicinity of the outfall point in the receiving water within a reasonable period had it not been removed by the permittee. This finding may be deemed established if: 
+
+ (A) The background concentration of the pollutant in the receiving water (excluding any amount of the pollutant in the facility's discharge) is similar to that in the intake water; 
+
+ (B) There is a direct hydrological connection between the intake and discharge points; and 
+
+ (C) Water quality characteristics (e.g., temperature, pH, hardness) are similar in the intake and receiving waters. 
+
+ (c) DEQ may also consider other site-specific factors relevant to the transport and fate of the pollutant to make the finding in a particular case that a pollutant would or would not have reached the vicinity of the outfall point in the receiving water within a reasonable period had the permittee not removed it. 
+
+ (d) An intake pollutant from groundwater may be considered to be from the “same body of water” if DEQ determines that the pollutant would have reached the vicinity of the outfall point in the receiving water within a reasonable period had the permittee not removed it, except that such a pollutant is not from the same body of water if the groundwater contains the pollutant partially or entirely due to human activity, such as industrial, commercial, or municipal operations, disposal actions, or treatment processes. 
+
+ (e) The determinations made under Sections (2) and (3), below, will be made on a pollutant-by-pollutant and outfall-by-outfall basis. 
+
+ (2) Consideration of Intake Pollutants in Determining Reasonable Potential: 
+
+ (a) DEQ may determine that there is “no reasonable potential” for the discharge of an identified intake pollutant to cause or contribute to an excursion above a narrative or numeric water quality criterion contained in Oregon’s water quality standards where a discharger demonstrates to DEQ’s satisfaction,  based on information provided in the permit application or other information, that: 
+
+ (A) The facility withdraws 100 percent of the intake water containing the pollutant from the same body of water into which the discharge is made; 
+
+ (B) The facility does not contribute any additional mass of the identified intake pollutant to its wastewater; 
+
+ (C) The facility does not alter the identified intake pollutant chemically or physically in a manner that would cause adverse water quality impacts to occur that would not occur if the pollutants were left in-stream; 
+
+ (D) The facility does not increase the identified intake pollutant concentration at the edge of the mixing zone, or at the point of discharge if a mixing zone is not allowed, as compared to the pollutant concentration in the intake water, unless the increased concentration does not cause or contribute to an excursion above an applicable water quality standard; and 
+
+ (E) The timing and location of the discharge would not cause adverse water quality impacts to occur that would not occur if the identified intake pollutant were left in-stream. 
+
+ (b) Upon a finding under subsection (a) of this section that an intake pollutant in the discharge does not cause, have the reasonable potential to cause, or contribute to an excursion above an applicable water quality standard, DEQ is not required to include a water quality-based effluent limit for the identified intake pollutant in the facility's permit, provided: 
+
+ (A) The NPDES permit evaluation report includes a determination that there is no reasonable potential for the discharge of an identified intake pollutant to cause or contribute to an excursion above an applicable numeric water quality criterion and references appropriate supporting documentation included in the administrative record; 
+
+ (B) The permit requires all influent, effluent, and ambient monitoring necessary to demonstrate that the conditions above in subsection (a) of this section are maintained during the permit term; and 
+
+ (C) The permit contains a re-opener clause authorizing modifying or revoking and re-issuing the permit if new information shows the discharger no longer meets the conditions in subsection (a)(A) through (E) of this section. 
+
+ (3) Consideration of Intake Pollutants in Establishing Water Quality Based Effluent Limits (WQBELs): 
+
+ (a) DEQ may consider pollutants in intake water as provided in section (3) when establishing water quality-based effluent limitations based on narrative or numeric criteria, provided that the discharger has demonstrated that the following conditions are met: 
+
+ (A) The facility withdraws 100 percent of the intake water containing the pollutant from the same body of water into which the discharge is made; 
+
+ (B) The observed maximum ambient background concentration and the intake water concentration of the pollutant exceed the most stringent applicable water quality criterion for that pollutant; 
+
+ (C) The facility does not alter the identified intake pollutant chemically or physically in a manner that would cause adverse water quality impacts to occur that would not occur if the pollutants were left in-stream; 
+
+ (D) The facility does not increase the identified intake pollutant concentration, as defined by DEQ, at the point of discharge as compared to the pollutant concentration in the intake water; and 
+
+ (E) The timing and location of the discharge would not cause adverse water quality impacts to occur that would not occur if the identified intake pollutant were left in-stream. 
+
+ (b) Where the conditions in subsection (a) of this section are met, DEQ may establish a water quality-based effluent limitation allowing the facility to discharge a mass and concentration of the intake pollutant that are no greater than the mass and concentration found in the facility’s intake water. A discharger may add mass of the pollutant to its waste stream if an equal or greater mass is removed prior to discharge, so there is no net addition of the pollutant in the discharge compared to the intake water. 
+
+ (c) Where proper operation and maintenance of a facility’s treatment system results in the removal of an intake water pollutant, DEQ may establish limitations that reflect the lower mass and concentration of the pollutant achieved by such treatment. 
+
+ (d) Where a municipal water supply system provides intake water for a facility and the supplier provides treatment of the raw water that removes an intake water pollutant, the concentration of the intake water pollutant will be determined at the point where the water enters the water supplier’s distribution system. 
+
+ (e) Where a facility discharges intake pollutants from multiple sources that originate from the receiving water body and from other water bodies, DEQ may derive an effluent limitation reflecting the flow-weighted amount of each source of the pollutant provided that adequate monitoring to determine compliance can be established and is included in the permit. 
+
+ (f) The permit will specify how compliance with mass and concentration-based limitations for the intake water pollutant will be assessed. This may be done by basing the effluent limitation on background concentration data. Alternatively, DEQ may determine compliance by monitoring the pollutant concentrations in the intake water and in the effluent. This monitoring may be supplemented by monitoring internal waste streams or by a department evaluation of the use of best management practices. 
+
+ (g) In addition to the above, DEQ must establish effluent limitations to comply with all other applicable State and Federal laws and regulations including technology-based requirements and anti-degradation policies. 
+
+ (h) When determining whether WQBELs are necessary, information from chemical-specific, DEQ will consider whole effluent toxicity and biological assessments independently. 
+
+ (i) Permits limits must be consistent with the assumptions and requirements of waste load allocations or other provisions in a TMDL that has been approved by the EPA. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, 468B.010, 468B.020, 468B.035 & 468B.110 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468B.048 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 15-2017, amend filed 10/31/2017, effective 11/01/2017 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 10-2011, f. & cert. ef. 7-13-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,197 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 113 RADIATION SAFETY REQUIREMENTS FOR WIRELINE SERVICE OPERATIONS AND SUB-SURFACE TRACER STUDIES 
+ 333-113-0120 
+ Equipment Control: Leak Testing of Sealed Sources 
+ 
+ (1) Testing and Record Keeping Requirements. Each licensee using sealed sources of radioactive material must have the sources tested for leakage at intervals not to exceed six months. Records of leak test results must be kept in units of microcuries (Bq) and maintained in accordance with 333-100-0057.  (2) Method of Testing. Tests for leakage must be performed only by persons specifically authorized to perform such tests by the Authority, the U.S. Nuclear Regulatory Agency, an Agreement State or a Licensing State. The test sample must be taken from the surface of the source, source holder or from the surface of the device in which the source is stored or mounted and on which one might expect contamination to accumulate. The test sample must be analyzed for radioactive contamination and the analysis must be capable of detecting the presence of 0.005 microcurie (185 Bq) of radioactive material on the test sample.  (3) Interval of Testing. Each sealed source of radioactive material must be tested at intervals not to exceed six months. In the absence of a certificate from a transferor indicating that a test has been made prior to the transfer, the sealed source must not be put into use until tested. If, for any reason, it is suspected that a sealed source may be leaking, it must be removed from service immediately and tested for leakage as soon as practical.  (4) Leaking or Contaminated Sources.  (a) If the test reveals the presence of 0.005 microcurie (185 Bq) or more of leakage or contamination, the licensee must immediately withdraw the source from use and have it decontaminated, repaired or disposed of in accordance with these rules.  (b) The licensee must check the equipment associated with the leaking source for radioactive contamination and, if contaminated, have it decontaminated or disposed of in accordance with these rules.  (c) A report describing the leaking source and equipment involved, the test results and the corrective action taken must be filed with the Authority within 30 days of discovery.  (5) Exemptions. The following sources are exempted from the periodic leak test requirements of sections (1) through (4) of this rule:  (a) Hydrogen-3 sources;  (b) Sources of radioactive material with a half-life of 30 days or less;  (c) Sealed sources of radioactive material in gaseous form;  (d) Sources of beta and/or gamma emitting radioactive material with an activity of 100 microcuries (3.7 MBq) or less;  (e) Sources of alpha emitting radioactive material with an activity of ten microcuries (0.370 MBq) or less;  (f) Each ECS that is not exempt from testing in accordance with section (5)(e) of this rule must be tested at intervals not to exceed three years. In the absence of a certificate from a transferor that a test has been made within the three years before the transfer, the ECS may not be used until tested; and  (g) Any source in storage and not being used need not be tested. When the source is removed from storage for use or transfer to another person, it must be tested before use or transfer unless it has been tested for leakage within six months before the date of use or transfer. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 453.635 
+ 
+ 
+ Statutes/Other Implemented:  ORS 453.605 - 453.807 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 4-2007, f. & cert. ef. 3-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 12-2006, f. & cert. ef. 6-16-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 1-1991, f. & cert. ef. 1-8-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 4-1985, f. & ef. 3-20-85 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

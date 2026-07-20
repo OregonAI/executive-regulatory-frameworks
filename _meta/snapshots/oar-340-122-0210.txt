@@ -1,0 +1,328 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 122 HAZARDOUS SUBSTANCE REMEDIAL ACTION RULES 
+ 340-122-0210 
+ Cleanup Rules for Leaking Petroleum UST Systems: Definitions
+ 
+ 
+ Terms not defined in this rule have the meanings set forth in ORS 465.200 and 466.706. Additional terms are defined as follows unless the context requires otherwise: 
+
+ (1) "Above-Ground Release" means any release to the land surface or to surface water. This includes, but is not limited to, releases from the above ground portion of a petroleum UST system and releases associated with overfills and transfer operations during petroleum deliveries to or dispensing from a petroleum UST system. 
+
+ (2) "Acceptable Risk Level" has the meanings set forth in OAR 340-122-0115(1) through (6). 
+
+ (3) "Ancillary Equipment" means any device, including but not limited to, piping, fittings, flanges, valves and pumps used to distribute, meter or control the flow of petroleum to and from a petroleum UST system. 
+
+ (4) "Aquatic Sediments" means any collection of fine-, medium-, and coarse-grained minerals and organic particles that are found within aquatic habitats. 
+
+ (5) "Below-Ground Release" means any release to the land subsurface having concentrations detected by the Northwest Total Petroleum Hydrocarbon Identification Analytical Method (NWTPH-HCID, DEQ, December 1996) or to groundwater having concentrations detected by any appropriate analytical method specified in OAR 340-122-0218. This includes, but is not limited to, releases from the below ground portion of a petroleum UST system and releases to the land subsurface or groundwater associated with overfills and transfer operations as the petroleum is delivered to or dispensed from a petroleum UST system. 
+
+ (6) "Buildings" means any structure occupied by residents, workers or visitors, including convenience stores for retailing of food. For purposes of these rules, "buildings" does not include service station kiosks less than 45 square feet in size if the kiosk is exclusively dedicated to services for motor vehicles. 
+
+ (7) "Certified Drinking Water Protection Area" means an area that has been delineated by the Oregon Health Division in accordance with OAR 333-061-0057 and certified by the department in accordance with OAR 340-040-0180. 
+
+ 
+ Note: To obtain information about certified drinking water protection areas, contact the Oregon Health Division's Drinking Water Program (503-731-4010). 
+ 
+
+ (8) "Confirmed Release" means petroleum contamination observed in soil or groundwater as a sheen, stain or petroleum odor, or petroleum contamination detected in soil by the Northwest Total Petroleum Hydrocarbon Identification Analytical Method (NWTPH-HCID, DEQ, December 1996) or detected in groundwater by any appropriate analytical method specified in OAR 340-122-0218. 
+
+ (9) "Contaminant of Concern" means a hazardous constituent contained in petroleum present at a concentration posing a potentially unacceptable risk to public health, safety or welfare or the environment. 
+
+ (10) "Engineering Control" means a remedial method used to prevent or minimize exposure to petroleum and hazardous substances, including technologies that reduce the mobility or migration of petroleum and hazardous substances. Engineering controls may include, but are not limited to, capping, horizontal or vertical barriers, hydraulic controls and alternative water supplies. 
+
+ (11) "Excavation Zone" means an area containing a petroleum UST system and backfill material bounded by the ground surface, walls and floor of the pit and trenches into which the petroleum UST system is placed at the time of installation. 
+
+ (12) "Free Product" means nonaqueous phase liquid petroleum. 
+
+ (13) "Gasoline" means any petroleum distillate used primarily for motor fuel of which more than 50 percent of its components have hydrocarbon numbers of C10 or less. For purposes of OAR 340-122-0205 through 340-122-0360, the concentration of gasoline in soil or groundwater is the level determined by the Northwest Total Petroleum Hydrocarbon Method NWTPH-Gx. 
+
+ (14) "Groundwater" means any water, except capillary moisture, beneath the land surface or beneath the bed of any stream, lake, reservoir, or other body of surface water within the boundaries of the state, whatever may be the geological formation or structure in which such water stands, flows, percolates or otherwise moves. 
+
+ (15) "Hazardous Substance" has the meaning set forth in OAR 340-122-0115(30). 
+
+ (16) "Heating Oil" means petroleum that is No. 1, No. 2, No. 4-light, No. 4-heavy, No. 5-light, No. 5-heavy, or No. 6 technical grades of fuel oil; other residual fuel oils (including Navy Special Fuel Oil and Bunker C); or other fuels when used as substitutes for one of these fuel oils. 
+
+ (17) "Heating Oil Tank" means any one or combination of underground tanks and above ground or underground pipes connected to the tank, which is used to contain heating oil used for space heating a building with human habitation, or water heating not used for commercial processing. 
+
+ (18) "Institutional Control" means a remedial method such as a legal or administrative tool or action used to reduce the potential for exposure to petroleum and hazardous substances. Institutional controls may include, but are not limited to, use restrictions and site access and security measures. 
+
+ (19) "Motor Fuel" means petroleum or a petroleum-based substance that is motor gasoline, aviation gasoline, No. 1 or 2 diesel fuel or any grade of gasohol, typically used in the operation of a motor engine. 
+
+ (20) "Native Soil" means the soil outside of the immediate boundaries of the pit that was originally excavated for the purpose of installing an underground storage tank. 
+
+ (21) "Non Gasoline Fraction" means diesel and any other petroleum distillate used for motor fuel or heating oil, of which more than 50 percent of its components have hydrocarbon numbers of C11 or greater. For purposes of OAR 340-122-0205 through 340-122-0360, the concentration of non gasoline fraction in soil or groundwater is the level determined by the Northwest Total Petroleum Hydrocarbon Method NWTPH-Dx. 
+
+ (22) "Petroleum" or "oil" means gasoline, crude oil, fuel oil, diesel oil, lubricating oil, oil sludge, oil refuse and crude oil fractions and refined petroleum fractions, including gasoline, kerosene, heating oils, diesel fuels and any other petroleum-related product or waste or fraction thereof that is liquid at a temperature of 60 degrees Fahrenheit and a pressure of 14.7 pounds per square inch absolute. "Petroleum" does not include any substance identified as a hazardous waste under 40 CFR Part 261. 
+
+ (23) "Petroleum UST System" has the same meaning as given in OAR 340-150-0010(55). 
+
+ (24) "Remediation" or "Remedial Measures" include "remedial action" as defined in ORS 465.200(22), "removal" as defined in 465.200(24) and "corrective action" as defined in 466.706(3). 
+
+ (25) "Remediation Level" means a concentration of petroleum or petroleum constituents in environmental media such as soil and groundwater that alone, or in combination with institutional controls or engineering controls, is determined to be protective of public health, safety and welfare and the environment in accordance with this division. 
+
+ (26) "Residential Heating Oil Tank" means a heating oil tank used primarily for single family dwelling purposes. 
+
+ (27) "Responsible Person" includes "owner" as defined in OAR 340-150-0010(51), "permittee" as defined in 340-150-0010(52), "owner or operator" as defined in ORS 465.200(19) and any other person liable for or voluntarily undertaking remediation under 465.200, et seq. or 466.706, et seq. 
+
+ (28) "Risk-Based Concentration" means a concentration of petroleum or petroleum constituents in environmental media such as soil and groundwater that is determined to be protective of public health, safety and welfare and the environment in accordance with these rules without requiring institutional controls or engineering controls. 
+
+ (29) "Soil" means any unconsolidated geologic materials including, but not limited to, clay, loam, loess, silt, sand, gravel and tills or any combination of these materials. 
+
+ (30) "Surface Water" means lakes, bays, ponds, impounding reservoirs, springs, wells, rivers, streams, creeks, estuaries, wetlands, inlets, canals, the Pacific Ocean within the territorial limits of the State of Oregon and all other bodies, natural or artificial, inland or coastal, fresh or salt, public or private (except those private waters which do not combine or effect a junction with natural surface waters), which are wholly or partially within or bordering the state or within its jurisdiction. 
+
+ (31) "Suspected Release" means those conditions described in OAR 340-150-0500. 
+
+ (32) "Underground storage tank" or "UST" means any one or combination of tanks (including connected underground pipes) that contains or used to contain a regulated substance and the volume of which (including the volume of connected underground pipes) is 10 percent or more beneath the ground surface or otherwise covered by earthen materials. 
+
+ [NOTE: OAR 340-150-0500 requires owners and permittees of UST systems to report suspected releases to the department. Owners and permittees must refer to OAR 340, division 150 for complete information on requirements for underground storage tanks.] 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 465.400 & 466.746 
+ 
+ 
+ Statutes/Other Implemented:  ORS 465.200 - 465.455 & 466.706 - 466.83 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 13-2019, amend filed 05/16/2019, effective 05/16/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 97-2018, minor correction filed 04/10/2018, effective 04/10/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 3-2008, f. 2-29-08, cert. ef. 3-10-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 6-2003, f. & cert. ef. 2-14-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 23-1998, f. & cert. ef. 11-2-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 13-1992, f. 6-9-92, cert. ef. 10-1-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 15-1991, f. & cert. ef. 8-14-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 29-1988, f. & cert. ef. 11-9-88 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

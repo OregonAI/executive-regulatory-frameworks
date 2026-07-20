@@ -1,0 +1,221 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Chapter 407 
+ 
+ 
+ 
+ 
+ 
+ Division 120 PROVIDER RULES 
+ 407-120-0100 
+ Definitions 
+ 
+ The following definitions apply to OAR 407-120-0100 through 407-120-0200:  (1) "Access" means the ability or means necessary to read, write, modify, or communicate data or information or otherwise use any information system resource.  (2) "Agent" means a third party or organization that contracts with a provider, allied agency, or prepaid health plan (PHP) to perform designated services in order to facilitate a transaction or conduct other business functions on its behalf. Agents include billing agents, claims clearinghouses, vendors, billing services, service bureaus, and accounts receivable management firms. Agents may also be clinics, group practices, and facilities that submit billings on behalf of providers but the payment is made to a provider, including the following: an employer of a provider, if a provider is required as a condition of employment to turn over his fees to the employer; the facility in which the service is provided, if a provider has a contract under which the facility submits the claim; or a foundation, plan, or similar organization operating an organized health care delivery system, if a provider has a contract under which the organization submits the claim. Agents may also include electronic data transmission submitters.  (3) "Allied Agency" means local and regional allied agencies and includes local mental health authority, community mental health programs, Oregon Youth Authority, Department of Corrections, local health departments, schools, education service districts, developmental disability service programs, area agencies on aging, federally recognized American Indian tribes, and other governmental agencies or regional authorities that have a contract (including an interagency, intergovernmental, or grant agreement, or an agreement with an American Indian tribe pursuant to ORS 190.110) with the Department to provide for the delivery of services to covered individuals and that request to conduct electronic data transactions in relation to the contract.  (4) "Clinic" means a group practice, facility, or organization that is an employer of a provider, if a provider is required as a condition of employment to turn over his fees to the employer; the facility in which the service is provided, if a provider has a contract under which the facility submits the claim; or a foundation, plan, or similar organization operating an organized health care delivery system, if a provider has a contract under which the organization submits the claim; and the group practice, facility, or organization is enrolled with the Department, and payments are made to the group practice, facility, or organization. If the entity solely submits billings on behalf of providers and payments are made to each provider, then the entity is an agent.  (5) "Confidential Information" means information relating to covered individuals which is exchanged by and between the Department, a provider, PHP, clinic, allied agency, or agents for various business purposes, but which is protected from disclosure to unauthorized individuals or entities by applicable state and federal statutes such as ORS 344.600, 410.150, 411.320, 418.130, or the Health Insurance Portability and Accountability Act of 1996, Public Law 104-191 and its implementing regulations. These statutes and regulations are collectively referred to as "Privacy Statutes and Regulations."  (6) "Contract" means a specific written agreement between the Department and a provider, PHP, clinic, or allied agency that provides or manages the provision of services, goods, or supplies to covered individuals and where the Department and a provider, PHP, clinic, or allied agency may exchange data. A contract specifically includes, without limitation, a Department provider enrollment agreement, fully capitated heath plan managed care contract, dental care organization managed care contract, mental health organization managed care contract, chemical dependency organization managed care contract, physician care organization managed care contract, a county financial assistance agreement, or any other applicable written agreement, interagency agreement, intergovernmental agreement, or grant agreement between the Department and a provider, PHP, clinic, or allied agency.  (7) "Covered Entity" means a health plan, health care clearing house, health care provider, or allied agency that transmits any health information in electronic form in connection with a transaction, including direct data entry (DDE), and who must comply with the National Provider Identifier (NPI) requirements of 45 CFR 162.402 through 162.414.  (8) "Covered Individual" means individuals who are eligible for payment of certain services or supplies provided to them or their eligible dependents by or through a provider, PHP, clinic, or allied agency under the terms of a contract applicable to a governmental program for which the Department processes or administers data transmissions.  (9) "Data" means a formalized representation of specific facts or concepts suitable for communication, interpretation, or processing by individuals or by automatic means.  (10) Data Transmission" means the transfer or exchange of data between the Department and a web portal or electronic data interchange (EDI) submitter by means of an information system which is compatible for that purpose and includes without limitation, web portal, EDI, electronic remittance advice (ERA), or electronic media claims (EMC) transmissions.  (11) "Department" means the Department of Human Services.  (12) "Department Network and Information Systems" means the Department's computer infrastructure that provides personal communications, confidential information, regional, wide area and local networks, and the internetworking of various types of networks on behalf of the Department.  (13) "Direct Data Entry (DDE)" means the process using dumb terminals or computer browser screens where data is directly keyed into a health plan's computer by a provider or its agent, such as through the use of a web portal.  (14) "Electronic Data Interchange (EDI)" means the exchange of business documents from application to application in a federally mandated format or, if no federal standard has been promulgated, using bulk transmission processes and other formats as the Department designates for EDI transactions. For purposes of these rules (OAR 407-120-0100 through 407-120-0200), EDI does not include electronic transmission by web portal.  (15) "Electronic Data Interchange Submitter" means an individual or entity authorized to establish the electronic media connection with the Department to conduct an EDI transaction. An EDI submitter may be a trading partner or an agent of a trading partner.  (16) "Electronic Media" means electronic storage media including memory devices in computers or computer hard drives; any removable or transportable digital memory medium such as magnetic tape or disk, optical disk, or digital memory card; or transmission media used to exchange information already in electronic storage media. Transmission media includes but is not limited to the internet (wide-open), extranet (using internet technology to link a business with information accessible only to collaborating parties), leased lines, dial-up lines, private networks, and the physical movement of removable or transportable electronic storage media. Certain transmissions, including paper via facsimile and voice via telephone, are not considered transmissions by electronic media because the information being exchanged did not exist in electronic form before transmission.  (17) "Electronic Media Claims (EMC)" means an electronic media means of submitting claims or encounters for payment of services or supplies provided by a provider, PHP, clinic, or allied agency to a covered individual.  (18) "Electronic Remittance Advice (ERA)" means an electronic file in X12 format containing information pertaining to the disposition of a specific claim for payment of services or supplies rendered to covered individuals which are filed with the Department on behalf of covered individuals by providers, clinics, or allied agencies. The documents include, without limitation, the provider name and address, individual name, date of service, amount billed, amount paid, whether the claim was approved or denied, and if denied, the specific reason for the denial. For PHPs, the remittance advice file contains information on the adjudication status of encounter claims submitted.  (19) "Electronic Data Transaction (EDT)" means a transaction governed by the Health Insurance Portability and Accountability Act (HIPAA) transaction rule, conducted by either web portal or EDI.  (20) "Envelope" means a control structure in a mutually agreed upon format for the electronic interchange of one or more encoded data transmissions either sent or received by an EDI submitter or the Department.  (21) "HIPAA Transaction Rule" means the standards for electronic transactions at 45 CFR Part 160 and 162 (version in effect on January 1, 2008) adopted by the Department of Health and Human Services (DHHS) to implement the Health Insurance Portability and Accountability Act of 1996, 42 USC 1320d et. seq.  (22) "Incident" means the attempted or successful unauthorized access, use, disclosure, modification, or destruction of an information system or information asset including but not limited to unauthorized disclosure of information, failure to protect user IDs, and theft of computer equipment using or storing Department information assets or confidential information.  (23) "Individual User Profile (IUP)" means Department forms used to authorize a user, identify their job assignment, and the required access to the Department's network and information system. It generates a unique security access code used to access the Department's network and information system.  (24) "Information Asset" means all information, also known as data, provided through the Department, regardless of the source, which requires measures for security and privacy of the information.  (25) "Information System" means an interconnected set of information resources under the same direct management control that shares common functionality. A system normally includes hardware, software, information, data, applications, communications, and trained personnel necessary for successful data transmission.  (26) "Lost or Indecipherable Transmission" means a data transmission which is never received by or cannot be processed to completion by the receiving party in the format or composition received because it is garbled or incomplete, regardless of how or why the message was rendered garbled or incomplete.  (27) "Mailbox" means the term used by the Department to indicate trading partner-specific locations on the Department's secure file transfer protocol (SFTP) server to deposit and retrieve electronic data identified by a unique Department assigned trading partner number.  (28) "Password" means the alpha-numeric codes assigned to an EDI submitter by the Department for the purpose of allowing access to the Department's information system, including the web portal, for the purpose of successfully executing data transmissions or otherwise carrying out the express terms of a trading partner agreement or provider enrollment agreement and these rules.  (29) "Personal Identification Number (PIN)" means the alpha-numeric codes assigned to web portal submitters by the Department for the purpose of allowing access to the Department's information system, including the web portal, for the purpose of successfully executing DDE, data transmissions, or otherwise carrying out the express terms of a trading partner agreement, provider enrollment agreement, and these rules.  (30) "Prepaid Health Plan (PHP) or Plan" means a managed health care, dental care, chemical dependency, physician care organization, or mental health care organization that contracts with the Department on a case managed, prepaid, capitated basis under the Oregon Health Plan (OHP).  (31) "Provider" means an individual, facility, institution, corporate entity, or other organization which supplies or provides for the supply of services, goods or supplies to covered individuals pursuant to a contract, including but not limited to a provider enrollment agreement with the Department. A provider does not include billing providers as used in the Division of Medical Assistance (DMAP) general rules. DMAP billing providers are defined in these rules as agents, except for DMAP billing providers that are clinics.  (32) "Provider Enrollment Agreement" means an agreement between the Department and a provider for payment for the provision of covered services to covered individuals.  (33) "Registered Transaction" means each type of EDI transaction applicable to a trading partner that must be registered with the Department before it can be tested or approved for EDI transmission.  (34) "Security Access Codes" means the alpha-numeric codes assigned by the Department to the web portal submitter or EDI submitter for the purpose of allowing access to the Department's information system, including the web portal, to execute data transmissions or otherwise carry out the express terms of a trading partner agreement, provider enrollment agreement, and these rules. Security access codes may include passwords, PINs, or other codes.  (35) "Source Documents" means documents or electronic files containing underlying data which is or may be required as part of a data transmission with respect to a claim for payment of charges for medical services or supplies provided to a covered individual, or with respect to any other transaction. Examples of data contained within a specific source document include but are not limited to an individual's name and identification number, claim number, diagnosis code for the services provided, dates of service, service procedure description, applicable charges for the services provided, and a provider's, PHP's, clinic's, or allied agency's name, identification number, and signature.  (36) "Standard" means a rule, condition, or requirement describing the following information for products, systems, or practices:  (a) Classification of components;  (b) Specification of materials, performance, or operations; or  (c) Delineation of procedures.  (37) "Standards for Electronic Transactions" mean a transaction that complies with the applicable standard adopted by DHHS to implement standards for electronic transactions.  (38) “Submitter” means a provider, PHP, clinic, or allied agency that may or may not have entered into a trading partner agreement depending upon whether the need is to exchange electronic data transactions or access the Department’s web portal.  (39) "Transaction" means the exchange of data between the Department and a provider using web portal access or a trading partner using electronic media to carry out financial or administrative activities.  (40) "Trade Data Log" means the complete written summary of data and data transmissions exchanged between the Department and an EDI submitter during the period of time a trading partner agreement is in effect and includes but is not limited to sender and receiver information, date and time of transmission, and the general nature of the transmission.  (41) "Trading Partner" means a provider, PHP, clinic, or allied agency that has entered into a trading partner agreement with the Department in order to satisfy all or part of its obligations under a contract by means of EDI, ERA, or EMC, or any other mutually agreed means of electronic exchange or transfer of data.  (42) "Trading Partner Agreement (TPA)" means a specific written request by a provider, PHP, clinic, or allied agency to conduct EDI transactions that governs the terms and conditions for EDI transactions in the performance of obligations under a contract. A provider, PHP, clinic, or allied agency that has executed a TPA will be referred to as a trading partner in relation to those functions.  (43) "User" means any individual or entity authorized by the Department to access network and information systems or information assets.  (44) "User Identification Security (UIS)" means a control method required by the Department to ensure that only authorized users gain access to specified information assets. One method of control is the use of passwords and PINs with unique user identifications.  (45) "Web Portal" means a site on the World Wide Web that typically provides secure access with personalized capabilities to its visitors and a pathway to other content designed for use with the Department’s specific DDE applications.  (46) "Web Portal Submitter" means an individual or entity authorized to establish an electronic media connection with the Department to conduct a DDE transaction. A web portal submitter may be a provider or a provider's agent. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 409.050 & 414.065 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.065 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 13-2011, f. & cert. ef. 12-27-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 5-2011(Temp), f. & cert. ef. 7-1-11 thru 12-27-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 410-001-0100, DHSD 1-2008, f. & cert. ef. 2-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 30-2007(Temp), f. 12-31-07, cert. ef. 1-1-08 thru 6-28-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 55-2003, f. & cert. ef. 8-22-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 25-2003(Temp), f. & cert. ef. 3-21-03 thru 9-8-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

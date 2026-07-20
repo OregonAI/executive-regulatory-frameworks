@@ -1,0 +1,403 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 215 OREGON GREENHOUSE GAS REPORTING PROGRAM 
+ 340-215-0020 
+ Definitions
+ 
+ 
+ The definitions in OAR 340-200-0020 and this rule apply to this division. If the same term is defined in this rule and OAR 340-200-0020, the definition in this rule applies to this division. 
+
+ (1) “Asset-controlling supplier” or “ACS” means a person that owns or operates inter-connected electricity generating facilities or has exclusive rights to claim electricity from these facilities even though it does not own them, and that has been designated by DEQ as an asset-controlling supplier under OAR 340-215-0120(7) and received a DEQ-published emission factor. Asset controlling suppliers are specified sources. 
+
+ (2) “Biogas” means gas that is produced from the breakdown of biomass in the absence of oxygen, including anaerobic digestion, anaerobic decomposition, and thermochemical decomposition. 
+
+ (3) “Biogenic CO2 emissions” means carbon dioxide emissions generated as the result of biomass or biomass-derived fuel combustion or oxidation. 
+
+ (4) “Biomass” means non-fossilized and biodegradable organic material originating from plants, animals, and micro-organisms, including products, byproducts, residues, and waste from agriculture, forestry, and related industries, as well as the non-fossilized and biodegradable organic fractions of industrial and municipal wastes, including gases and liquids recovered from the decomposition of non-fossilized and biodegradable organic matter. 
+
+ (5) “Biomass fuels” or “biofuels” or “biomass-derived fuels” means fuels derived from biomass. 
+
+ (6) “Biomethane” means refined biogas, or another synthetic stream of methane produced from biomass feedstock , that has been upgraded to meet pipeline quality standards or transportation fuel grade requirements, such that it may blend with, or substitute for, natural gas. 
+
+ (7) “Book and Claim” refers to the accounting methodology where the environmental attributes of an energy source are detached from the physical molecules when they are commingled into a common transportation and distribution system for that form of energy. The detached attributes are then assigned by the owner to the same form and amount of energy when it is used. For the purposes of this division, the common transportation and distribution system must be connected to Oregon and must allow for the transport of the specific form of energy that is booked and claimed. 
+
+ (8) “Bulk transfer/terminal system” means a fuel distribution system consisting of one or more of refineries, pipelines, vessels, and terminals. Fuel storage and blending facilities that are not fed by pipeline or vessel are considered outside the bulk transfer system. 
+
+ (9) “Busbar” means a power conduit of a facility with electricity generating units that serves as the starting point for the electricity transmission system. 
+
+ (10) “Carbon dioxide supplier” means a facility with production process units or production wells that capture, extract, or produce CO₂ for on-site use, commercial application, or for purposes of supplying CO₂ to another entity or facility, or that capture the CO₂ stream in order to utilize it for geologic sequestration, where capture refers to the initial separation and removal of CO₂ from a manufacturing process or any other process. The definition does not include transportation, distribution, purification, compression, or processing of CO2. 
+
+ (11) “Cease to operate” for the purposes of this division means the regulated entity did not operate any GHG –emitting processes for an entire year. Continued operation of space heaters and water heaters as necessary until operations are restarted in a subsequent year does not preclude a source from meeting this definition. 
+
+ (12) “C.F.R.” means Code of Federal Regulations and unless otherwise expressly identified refers to the December 9, 2016 edition. 
+
+ (13) “Cogeneration unit” means a unit that produces electric energy and useful thermal energy for industrial, commercial, or heating and cooling purposes, through the sequential or simultaneous use of the original fuel energy and waste heat recovery. 
+
+ (14) “Compressed natural gas” or “CNG” means natural gas stored inside a pressure vessel at a pressure greater than the ambient atmospheric pressure outside of the vessel, (though not to the point of liquefaction), typically to pressures ranging from 2900 to 3600 pounds per square inch. 
+
+ (15) “Consumer-owned utility” means a people’s utility district organized under ORS Chapter 261, a municipal utility organized under ORS Chapter 225, or an electric cooperative organized under ORS Chapter 62. 
+
+ (16) “Data year” means the calendar year in which emissions occurred. 
+
+ (17) “Designated representative” means the person responsible for certifying, signing, and submitting a greenhouse gas emissions data report, and any registration or report required to be submitted under this division, on behalf of a regulated entity. For owners or operators of Oregon Title V Operating Permits the designated representative is the responsible official and certification must be consistent with OAR 340-218-0040(5). 
+
+ (18) “Direct emissions” means emissions from a stationary source, including but not limited to fuel combustion activities, process related emissions, and fugitive emissions. 
+
+ (19) “EIA” means the Energy Information Administration. The Energy Information Administration (EIA) is a statistical agency of the United States Department of Energy. 
+
+ (20) “Electricity generating unit” means any combination of physically connected generator(s), reactor(s), boiler(s), combustion turbine(s), or other prime mover(s) operated together to produce electric power. 
+
+ (21) “Electricity service supplier” has the meaning given that term in ORS 757.600. 
+
+ (22) “Electricity supplier” means persons that import, sell, allocate, or distribute electricity to end users in the state, including but not limited to the following types of entities: 
+
+ (a) Investor-owned utilities; 
+
+ (b) Electricity service suppliers; and 
+
+ (c) Consumer-owned utilities. 
+
+ (23) “Emissions data report” means the report prepared and submitted to DEQ that provides the information required to be reported under this division. The emissions data report is for the year prior to the year in which the report is due, also known as the data year. 
+
+ (24) “Export” means to transport fuel from locations within Oregon to locations outside of the state, by any means of transport, other than in the fuel tank of a vehicle for the purpose of propelling the vehicle. 
+
+ (25) “Fuel supplier” means a supplier of petroleum products, liquid petroleum gas, biomass-derived fuels, or natural gas including operators of interstate pipelines, or liquefied natural gas. 
+
+ (26) “Fluorinated heat transfer fluids” is a fluorinated GHG that has the meaning given to that term in 40 C.F.R. 98.98. 
+
+ (27) “Environmental Attribute,” for the purposes of reporting biogas, biomethane, and hydrogen under this division, means any and all environmental claims, credits, benefits, emissions reductions, offsets, and allowances attributable to the production or use of the fuel. The environmental attributes include, but are not limited to, the avoided greenhouse gas emissions associated with the production, transport, and combustion of a quantity of fuel compared with the same quantity of fossil gas. 
+
+ (28) "Global warming potential” or "GWP" means the ratio of the time-integrated radiative forcing from the instantaneous release of one kilogram of a trace substance relative to that of one kilogram of carbon dioxide (the reference gas). The GWPs used for emissions calculation and reporting are specified in 40 C.F.R. part 98, subpart A, Table A–1-Global Warming Potentials. 
+
+ (29) “Greenhouse gas” or “GHG” means carbon dioxide (CO2), methane (CH4), nitrous oxide (N20), sulfur hexafluoride (SF6), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), and other fluorinated greenhouse gases or fluorinated GHG as defined in 40 C.F.R. part 98. 
+
+ (30) “Gross generation” or “gross power generated” means the total electrical output of the generating facility or unit, expressed in megawatt hours (MWh) per year. 
+
+ (31) “High heat value” or “HHV” means the high or gross heat content of the fuel with the heat of vaporization included. The water vapor is assumed to be in a liquid state. 
+
+ (32) “Hydrofluorocarbons” (HFCs) means gaseous chemical compounds containing only hydrogen, carbon, and fluorine atoms. 
+
+ (33) “Hydrogen” means diatomic molecular hydrogen. 
+
+ (34) To “Import” means bringing a product into Oregon from outside of the state. 
+
+ (35) “Importer” means any person that brings a product into Oregon from outside of the state. Including any person owning electricity or fuel from locations outside of Oregon at the time electricity is brought into this state through transmission equipment or at the time fuel is brought into this state by any means of transport, other than fuel brought into this state in the fuel tank of a vehicle used to propel the vehicle. 
+
+ (36) “In-state producer” means: 
+
+ (a) With respect to any liquid fuel, the person who makes the fuel in Oregon; 
+
+ (b) With respect to any gaseous biomass-derived fuel, the person who refines, treats, or otherwise produces the fuel in Oregon; or 
+
+ (c) With respect to any natural gas, the person who owns or operates one or more wells producing natural gas in Oregon. 
+
+ (37) “Interstate pipeline” means a natural gas pipeline delivering natural gas across state boundaries for use in Oregon and that is subject to rate regulation by the Federal Energy Regulatory Commission (FERC). 
+
+ (38) “Investor-owned utility” means a utility that sells electricity and that a corporation with shareholders operates. 
+
+ (39) “Large natural gas end users” means any end user receiving greater than or equal to 460,000 Mscf during the previous year. 
+
+ (40) “Liquefied natural gas” or “LNG” means natural gas that is liquefied. 
+
+ (41) “Local distribution company” or “LDC” means a legal entity that owns or operates distribution pipelines and that physically delivers natural gas to end users in the state. This includes public utility gas corporations and intrastate pipelines engaged in the retail sale, delivery, or both of natural gas. This excludes interstate pipelines. 
+
+ (42) “Multi-jurisdictional utility” means a utility that is an electricity retail provider to customers in a service territory that is at least partially located in Oregon and at least one other state. 
+
+ (43) “Metric ton,” “tonne,” “metric tonne,” or “MT” means a common international measurement for mass, equivalent to 2204.6 pounds or 1.1 short tons. 
+
+ (44) “MMBtu” means million British thermal units. 
+
+ (45) “Mscf” means one thousand standard cubic feet. 
+
+ (46) “Natural gas” means a naturally occurring mixture derived from anthropogenic or fossil sources of gaseous hydrocarbons and other compounds consisting primarily of methane. For the purposes of this division the term includes natural gas in all gaseous and liquid forms. 
+
+ (47) “Natural gas marketer” means a person that arranges for the purchasing or selling of natural gas but that does not own physical assets in Oregon used in the supply of natural gas such as pipelines. 
+
+ (48) “Natural gas supplier” means any person that imports, sells, produces, or distributes natural gas to end users in Oregon. 
+
+ (49) “Net generation” or “net power generated” means the gross generation minus station service or unit service power requirements, expressed in megawatt hours (MWh) per year. In the case of cogeneration, this value is intended to include internal consumption of electricity for the purposes of a production process, as well as power put on the grid. 
+
+ (50) “Perfluorocarbons” (PFCs) means gaseous chemical compounds containing only carbon and fluorine atoms. 
+
+ (51) “Position holder” means any person that has an ownership interest in a specific amount of fuel in the inventory of a terminal as reflected in the records of the terminal operator or a terminal operator that owns fuel in its terminal. This does not include inventory held outside of a terminal, retail establishments, or other fuel suppliers not holding inventory at a fuel terminal. 
+
+ (52) “Power contract” as used for the purposes of documenting specified versus unspecified sources of electricity means a written document, including associated verbal or electronic records if included as part of the written power contract, arranging for the procurement of electricity. A power contract for a specified source is a contract that is contingent upon delivery of power from a particular facility, unit, or asset-controlling supplier’s system that is designated at the time the transaction is executed. Power contracts may be, but are not limited to, power purchase agreements, enabling agreements, electricity transactions, and tariff provisions, without regard to duration, or written agreements to import or export on behalf of another person. 
+
+ (53) “Pre-charged equipment” has the meaning in 40 C.F.R. 98.438. 
+
+ (54) “Preference sales” means power distributed by Bonneville Power Administration to Oregon consumer-owned utilities, other than “surplus” power as that term is defined in 16 U.S.C. 839c(f) (2017). 
+
+ (55) “Rack” means a mechanism for delivering fuel from a refinery or terminal into a truck, trailer, railroad car, or other means of non-bulk transfer. 
+
+ (56) “Regulated entity” means any person subject to requirements to register and report under this division, as identified in OAR 340-215-0030. 
+
+ (57) “Related entity” means any direct or indirect parent company, direct or indirect subsidiary, company that shares ownership of a direct or indirect subsidiary, or company under full or partial common ownership or control. 
+
+ (58) “Retail sales” means electricity sold to retail end users. 
+
+ (59) “Shut down” means that the regulated entity has evidence that all industrial operations of a regulated entity are permanently shut down, including but not limited to, decommissioning and cancelling air permits. Permanent shutdown may include continued operations of space heaters and water heaters as necessary to support decommissioning activities. 
+
+ (60) “Specified source of electricity” or “specified source” means a facility or unit which is allowed to be claimed as the source of electricity delivered. The regulated entity must have either full or partial ownership in the facility or unit, or a written power contract to procure electricity generated by that facility or unit. Specified facilities or units include cogeneration systems. Specified source also means electricity procured from an asset-controlling supplier recognized by DEQ. 
+
+ (61) “Terminal” means a fuel storage and distribution facility that is supplied by pipeline or vessel, or a facility collocated where the fuel is produced and stored, and from which fuel may be removed at a rack. In-state fuel production facilities that have distribution equipment that allow them to distribute directly to retail sites or end users meet the definition of a terminal. 
+
+ (62) “Thermal energy” means the thermal output produced by a combustion source used directly as part of a manufacturing process, industrial or commercial process, or heating or cooling application, but not used to produce electricity. 
+
+ (63) “Transmission loss correction factor” or “TL” means the correction to account for transmission losses between the busbar and receipt, which is either known if measured at the busbar, or is the default factor equal to 1.02. 
+
+ (64) “Unspecified source of electricity” or “unspecified source” means a source of electricity that is not a specified source at the time of entry into the transaction to procure the electricity. For the purposes of this division, electricity imported, sold, allocated, or distributed to end users in this state through an energy imbalance market or other centralized market administered by a market operator is considered to be an unspecified source. 
+
+ (65) “Verification” means a systematic and documented process for evaluation of an emissions data report as conducted by DEQ or in accordance with OAR chapter 340, division 272. 
+
+ (66) “Year” means calendar year. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468A.050 & 468A.280 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468 & 468A 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 17-2023, amend filed 11/16/2023, effective 11/16/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 14-2020, amend filed 05/07/2020, effective 05/07/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 5-2019, amend filed 01/24/2019, effective 01/24/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 124-2018, minor correction filed 04/11/2018, effective 04/11/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 12-2015, f. & cert. ef. 12-10-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 11-2011, f. & cert. ef. 7-21-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 12-2010, f. & cert. ef. 10-27-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 13-2008, f. & cert. ef. 10-31-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

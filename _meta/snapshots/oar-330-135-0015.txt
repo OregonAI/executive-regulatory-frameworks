@@ -1,0 +1,289 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Energy 
+ Chapter 330 
+ 
+ 
+ 
+ 
+ 
+ Division 135 1.5 PERCENT FOR GREEN ENERGY TECHNOLOGY IN PUBLIC BUILDING CONSTRUCTION CONTRACTS 
+ 330-135-0015 
+ Definitions
+ 
+ 
+ For the purpose of this division, the following definitions apply:   
+
+ (1) "Baseline building” means a building that complies with the minimum requirements of the energy code, using either the prescriptive or performance pathways as specified in the energy code.   
+
+ (2) "Building" means any structure utilized or intended for supporting or sheltering any occupancy, as defined in Section 202 of the 2019 Oregon Structural Specialty Code.   
+
+ (3) "Contracting agency" means a public body as defined in ORS 174.109 that plans to enter into a public improvement contract for the construction, reconstruction or major renovation of a public building.   
+
+ (4) “Cost-effective” means that an investment in green energy technology or woody biomass energy technology away from the site has a higher estimated economic benefit than an investment in corresponding green energy technology or woody biomass energy technology at the site. The comparison must include, but is not limited to, the cost of green energy technology or woody biomass energy technology, the cost of energy transmission infrastructure back to the public building, the value of electrical energy produced, saved or used over the life of the system, and the value of thermal energy produced, saved or used over the life of the system.   
+
+ (5) "Department" means the Oregon Department of Energy.   
+
+ (6) "Director" means the Director of the Oregon Department of Energy.   
+
+ (7) “Direct use” of geothermal energy means using the geothermal resource directly for space or water heating in a building without the assistance of a heat pump. For the purpose of these rules, direct use applications employ resource temperatures of at least 140°F, except when applied to public school construction, in which case the minimum resource temperature is 128°F.   
+
+ (8) “Energy Code” means the Oregon energy code as adopted by the Department of Consumer and Business Services, Building Codes Division as Chapter 13 of the 2019 Oregon Structural Specialty Code.   
+
+ (9) “Energy Use Efficiency” means the use of construction and design standards, construction methods, products, equipment, and devices to increase efficient use of, and reduce consumption of, electricity, natural gas, and fossil fuels in buildings undergoing new construction, reconstruction, alteration, and repair.   
+
+ (10) “Geothermal energy” means the energy from a geothermal source including, but not limited to, indigenous steam, hot water, and hot brines.   
+
+ (11) “Green energy technology” has the definition given in ORS 279C.527 as updated by Oregon Laws 2019, chapter 160 (HB 2496).   
+
+ (12) “Lower Heating Value” means the net heat production during combustion with return of the temperature of the combustion products to 150 degrees Celsius and water vapor as product of combustion (reflecting the fact that evaporation requires heat and the latent heat of vaporization of water in the combustion reaction products is not recovered).   
+
+ (13) “ODOE 1.5 Percent for Green Energy Technology database” means a database, administered by the Oregon Department of Energy, of public building construction projects that report subject to these rules.   
+
+ (14) “Proposed Building” means the building as-designed with energy use efficiency improvements that reduce the energy consumption of a building compared to the baseline building.   
+
+ (15) “Public school” means a public educational program offering kindergarten through grade 12 or any part thereof.   
+
+ (16) “Site” means a land parcel or a group of contiguous land parcels, controlled by the contracting agency, on which a building either is or will be located.   
+
+ (17) "Total contract price" has the definition given in ORS 279C.527 and means all of the costs a contracting agency anticipates incurring in all contracts and subcontracts involved in constructing, reconstructing or performing a major renovation of a public building including design or architecture, engineering, transportation or environmental impact assessment and planning, construction management, labor, materials, land surveying and site preparation, demolition, hazardous material removal, required reinforcements or improvements to existing structures or appurtenant infrastructure, insurance, inspections and certifications and, except as provided in this paragraph, other costs the contracting agency would not incur but for the construction, reconstruction or major renovation of the public building. “Total contract price” does not include: 
+
+ (a) Costs of advertising, soliciting, evaluating bids or proposals for or awarding a public contract; 
+
+ (b) Costs of moving contracting agency employees, equipment and furnishings from and to a public building; 
+
+ (c) Costs of locating, renting or leasing and preparing to occupy alternative facilities; 
+
+ (d) Ordinary operating costs for a public building during periods of reconstruction or renovation; 
+
+ (e) Costs of storing equipment or furnishings at a site away from a public building; 
+
+ (f) Labor costs for employees of a contracting agency; 
+
+ (g) Direct costs that are solely for the purpose of retrofitting or improving a public building’s ability to withstand a seismic event; and 
+
+ (h) Costs that bear only a tenuous relationship to the construction, reconstruction or major renovation of a public building.   
+
+ (18) "Total solar resource fraction" (TSRF) means the percent of energy produced by a fixed axis solar energy system when compared to the annual performance of the same system with optimal tilt and orientation and no external shading.   
+
+ (19) “Woody Biomass Energy Technology” means a system that, for space or water heating or as a combined heat and power system, uses a boiler with lower heating value combustion efficiency of at least 80 percent and that uses as fuel material from trees and woody plants, such as limbs, tops, needles, leaves and other woody parts, that grow in a forest, woodland, farm, rangeland, or wildland that borders an urban area, and is a by-product of forest management, agriculture, ecosystem restoration or fire prevention or related activities.   
+
+ (a) Woody biomass does not include wood pieces that have been treated with creosote, pentachlorophenol, chromated copper arsenate or other chemical preservatives or municipal solid waste.   
+
+ (b) Sawdust that is a by-product of forest management, ecosystem restoration, fire prevention or related activities is considered to be a fuel that meets the woody biomass requirement. Woody biomass does not include wood products that are not a by-product of forest management, agriculture, ecosystem restoration or fire prevention or related activities, such as construction and demolition waste, or other industrial wood waste. 
+
+   
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 469.040, ORS 297C.528 & OL 2019, Ch. 160 (HB 2496) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 297C.528, ORS 279C.527 & OL 2019, Ch. 160 (HB 2496) 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 2-2019, amend filed 12/19/2019, effective 01/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 7-2017, amend filed 12/20/2017, effective 12/20/2017 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 5-2015, f. & cert. ef. 10-14-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 7-2013, f. & cert. ef. 12-23-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 15-2012, f. 12-27-12, cert. ef. 1-1-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOE 6-2007, f. 12-31-07, cert. ef. 1-2-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

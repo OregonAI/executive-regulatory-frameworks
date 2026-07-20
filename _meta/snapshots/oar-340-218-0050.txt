@@ -1,0 +1,476 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 218 OREGON TITLE V OPERATING PERMITS 
+ 340-218-0050 
+ Standard Permit Requirements
+ 
+ 
+ Each permit issued under this division must include the following elements: 
+
+ (1) Emission limitations and standards, including those operational requirements and limitations that assure compliance with all applicable requirements at the time of permit issuance: 
+
+ (a) The permit must specify and reference the origin of and authority for each term or condition, and identify any difference in form as compared to the applicable requirement upon which the term or condition is based; 
+
+ (b) To ensure the source’s emission will not cause or contribute to a new exceedance of a National Ambient Air Quality Standard adopted under OAR chapter 340, division 202: 
+
+ (A) Any physical or operational limitation, including any combination of the use of control devices, restrictions on hours of operation, or restrictions on the type or amount of materials combusted, stored, or processed, will be included as permit conditions to limit short term emissions for all emissions units that require controls or limitations; or 
+
+ (B) A requirement to conduct ambient monitoring to confirm a new exceedance of a National Ambient Air Quality Standard. Ambient monitoring and meteorological monitoring must be conducted in accordance with a DEQ approved monitoring plan for a period of not less than 12 months. There must be at least 12 months of valid data with greater than 75 percent data completeness per quarter; 
+
+ (c) For sources regulated under the national acid rain program, the permit must state that, where an applicable requirement of the FCAA or state rules is more stringent than an applicable requirement of regulations promulgated under Title IV of the FCAA, both provisions must be incorporated into the permit and will be enforceable by the EPA; 
+
+ (d) For any alternative emission limit established using OAR 340-226-0400, the permit must contain an equivalency determination and provisions to ensure that any resulting emissions limit has been demonstrated to be quantifiable, accountable, enforceable, and based on replicable procedures. 
+
+ (2) Permit duration. DEQ will issue permits for a fixed term of 5 years in the case of affected sources, and for a term not to exceed 5 years in the case of all other sources. 
+
+ (3) Monitoring and related recordkeeping and reporting requirements: 
+
+ (a) Each permit must contain the following requirements with respect to monitoring: 
+
+ (A) A monitoring protocol to provide accurate and reliable data that: 
+
+ (i) Is representative of actual source operation; 
+
+ (ii) Is consistent with the averaging time in the permit emission limits; 
+
+ (iii) Is consistent with monitoring requirements of other applicable requirements; and 
+
+ (iv) Can be used for compliance certification and enforcement. 
+
+ (B) All emissions monitoring and analysis procedures or test methods required under applicable monitoring and testing requirements, including OAR 340-212-0200 through 340-212-0280 and any other procedures and methods that may be promulgated pursuant to sections 504(b) or 114(a)(3) of the FCAA. If more than one monitoring or testing requirement applies, the permit may specify a streamlined set of monitoring or testing provisions provided the specified monitoring or testing is adequate to assure compliance at least to the same extent as the monitoring or testing applicable requirements that are not included in the permit as a result of such streamlining; 
+
+ (C) Where the applicable requirement does not require periodic testing or instrumental or noninstrumental monitoring (which may consist of recordkeeping designed to serve as monitoring), periodic monitoring sufficient to yield reliable data from the relevant time period that are representative of the source's compliance with the permit, as reported pursuant to OAR 340-218-0050(3)(c). Such monitoring requirements must assure use of terms, test methods, units, averaging periods, and other statistical conventions consistent with the applicable requirement. Continuous monitoring and source testing must be conducted using the DEQ Continuous Monitoring Manual and the Source Sampling Manual, respectively. [NOTE: DEQ manuals are published with OAR 340-200-0035.] Other monitoring must be conducted using DEQ approved procedures. The monitoring requirements may include but are not limited to any combination of the following: 
+
+ (i) Continuous emissions monitoring systems (CEMS); 
+
+ (ii) Continuous opacity monitoring systems (COMS); 
+
+ (iii) Continuous parameter monitoring systems (CPMS); 
+
+ (iv) Continuous flow rate monitoring systems (CFRMS); 
+
+ (v) Source testing; 
+
+ (vi) Material balance; 
+
+ (vii) Engineering calculations; 
+
+ (viii) Recordkeeping; or 
+
+ (ix) Fuel analysis; and 
+
+ (D) As necessary, requirements concerning the use, maintenance, and, where appropriate, installation of monitoring equipment or methods; 
+
+ (E) A condition that prohibits any person from knowingly rendering inaccurate any required monitoring device or method; 
+
+ (F) Methods used in OAR chapter 340, division 220 to determine actual emissions for fee purposes must also be used for compliance determination and can be no less rigorous than the requirements of OAR 340-218-0080. The compliance monitoring protocol must include the method used to determine the amount of actual emissions; 
+
+ (G) Monitoring requirements must commence on the date of permit issuance unless otherwise specified in the permit. 
+
+ (b) With respect to recordkeeping, the permit must incorporate all applicable recordkeeping requirements and require, where applicable, the following: 
+
+ (A) Records of required monitoring information that include the following: 
+
+ (i) The date, place as defined in the permit, and time of sampling or measurements; 
+
+ (ii) The date analyses were performed; 
+
+ (iii) The company or entity that performed the analyses; 
+
+ (iv) The analytical techniques or methods used; 
+
+ (v) The results of such analyses; 
+
+ (vi) The operating conditions as existing at the time of sampling or measurement; and 
+
+ (vii) The records of quality assurance for continuous monitoring systems (including but not limited to quality control activities, audits, calibrations drifts). 
+
+ (B) Retention of records of all required monitoring data and support information for a period of at least 5 years from the date of the monitoring sample, measurement, report, or application. Support information includes all calibration and maintenance records and all original strip-chart recordings for continuous monitoring instrumentation, and copies of all reports required by the permit; 
+
+ (C) Recordkeeping requirements must commence on the date of permit issuance unless otherwise specified in the permit. 
+
+ (c) With respect to reporting, the permit must incorporate all applicable reporting requirements and require the following: 
+
+ (A) Submittal of one (1) electronic copy of reports of any required monitoring at least every 6 months, unless otherwise required by permit, completed on forms approved by DEQ. Unless otherwise approved in writing by DEQ, six-month periods are January 1 to June 30, and July 1 to December 31. The reports required by this rule must be submitted within 30 days after the end of each reporting period, unless otherwise approved in writing by DEQ. One copy of the report must be submitted to the EPA, and two copies to DEQ's regional office identified in the permit. All instances of deviations from permit requirements must be clearly identified in such reports: 
+
+ (i) The semi-annual report will be due on July 30, unless otherwise approved in writing by DEQ, and must include the semi-annual compliance certification, OAR 340-218-0080; 
+
+ (ii) The annual report will be due on February 15, unless otherwise approved in writing by DEQ, but may not be due later than March 15, and must consist of the annual reporting requirements as specified in the permit; the emission fee report; the emission statement, if applicable, OAR 340-214-0220; the annual certification that the risk management plan is being properly implemented, 340-218-0050; and the semi-annual compliance certification, 340-218-0080. 
+
+ (B) Prompt reporting of deviations from permit requirements that do not cause excess emissions, including those attributable to upset conditions, as defined in the permit, the probable cause of such deviations, and any corrective actions or preventive measures taken. "Prompt" means within fifteen (15) days of the deviation. Deviations that cause excess emissions, as specified in OAR 340-214-0300 through 340-214-0360 must be reported under 340-214-0340; 
+
+ (C) Submittal of any required source test report within 30 days after the source test unless otherwise approved in writing by DEQ or specified in a permit; 
+
+ (D) All required reports must be certified by a responsible official consistent with OAR 340-218-0040(6); 
+
+ (E) Reporting requirements must commence on the date of permit issuance unless otherwise specified in the permit. 
+
+ (d) DEQ may incorporate more rigorous monitoring, recordkeeping, or reporting methods than required by applicable requirements in an Oregon Title V Operating Permit if they are contained in the permit application, are determined by DEQ to be necessary to determine compliance with applicable requirements, or are needed to protect human health or the environment. 
+
+ (4) A permit condition prohibiting emissions exceeding any allowances that the source lawfully holds under Title IV of the FCAA or the regulations promulgated there under: 
+
+ (a) No permit revision will be required for increases in emissions that are authorized by allowances acquired pursuant to the acid rain program, provided that such increases do not require a permit revision under any other applicable requirement; 
+
+ (b) No limit may be placed on the number of allowances held by the source. The source may not, however, use allowances as a defense to noncompliance with any other applicable requirement; 
+
+ (c) Any such allowance must be accounted for according to the procedures established in regulations promulgated under Title IV of the FCAA. 
+
+ (5) A severability clause to ensure the continued validity of the various permit requirements in the event of a challenge to any portions of the permit. 
+
+ (6) Provisions stating the following: 
+
+ (a) The permittee must comply with all conditions of the Oregon Title V Operating Permit, including keeping a copy of the permit onsite at the source. Any permit condition noncompliance constitutes a violation of the FCAA and state rules and is grounds for enforcement action; for permit termination, revocation and reissuance, or modification; or for denial of a permit renewal application; 
+
+ (b) The need to halt or reduce activity will not be a defense. It will not be a defense for a permittee in an enforcement action that it would have been necessary to halt or reduce the permitted activity in order to maintain compliance with the conditions of this permit; 
+
+ (c) The permit may be modified, revoked, reopened and reissued, or terminated for cause as determined by DEQ. The filing of a request by the permittee for a permit modification, revocation and reissuance, or termination, or of a notification of planned changes or anticipated noncompliance does not stay any permit condition; 
+
+ (d) The permit does not convey any property rights of any sort, or any exclusive privilege; 
+
+ (e) The permittee must furnish to DEQ, within a reasonable time, any information that DEQ may request in writing to determine whether cause exists for modifying, revoking and reissuing, or terminating the permit or to determine compliance with the permit. Upon request, the permittee must also furnish to DEQ copies of records required to be kept by the permit or, for information claimed to be confidential, the permittee may furnish such records directly to the EPA along with a claim of confidentiality. 
+
+ (7) A provision to ensure that an Oregon Title V Operating Permit program source pays fees to DEQ consistent with the fee schedule in OAR chapter 340, division 220. 
+
+ (8) Terms and conditions for reasonably anticipated alternative operating scenarios identified by the owner or operator in its application as approved by DEQ. Such terms and conditions: 
+
+ (a) Must require the owner or operator, contemporaneously with making a change from one operating scenario to another, to record in a log at the permitted facility a record of the scenario under which it is operating; 
+
+ (b) Must extend the permit shield described in OAR 340-218-0110 to all terms and conditions under each such alternative operating scenario; and 
+
+ (c) Must ensure that the terms and conditions of each such alternative operating scenario meet all applicable requirements and the requirements of this division. 
+
+ (9) Terms and conditions, if the permit applicant requests them, for the trading of emissions increases and decreases in the permitted facility solely for the purpose of complying with the PSELs. Such terms and conditions: 
+
+ (a) Must include all terms required under OAR 340-218-0050 and 340-218-0080 to determine compliance; 
+
+ (b) Must extend the permit shield described in OAR 340-218-0110 to all terms and conditions that allow such increases and decreases in emissions; 
+
+ (c) Must ensure that the trades are quantifiable and enforceable; 
+
+ (d) Must ensure that the trades are not Title I modifications; 
+
+ (e) Must require a minimum 7-day advance, written notification to DEQ and the EPA of the trade that must be attached to DEQ's and the source's copy of the permit. The written notification must state when the change will occur and must describe the changes in emissions that will result and how these increases and decreases in emissions will comply with the terms and conditions of the permit; and 
+
+ (f) Must meet all applicable requirements and requirements of this division. 
+
+ (10) Terms and conditions, if the permit applicant requests them, for the trading of emissions increases and decreases in the permitted facility, to the extent that the applicable requirements provide for trading such increases and decreases without a case-by-case approval of each emission trade. Such terms and conditions: 
+
+ (a) Must include all terms required under OAR 340-218-0050 and 340-218-0080 to determine compliance; 
+
+ (b) Must extend the permit shield described in OAR 340-218-0110 to all terms and conditions that allow such increases and decreases in emissions; and 
+
+ (c) Must meet all applicable requirements and requirements of this division. 
+
+ (11) Terms and conditions allowing for off-permit changes, OAR 340-218-0140(2). 
+
+ (12) Terms and conditions allowing for section 502(b)(10) changes, OAR 340-218-0140(3). 
+
+ [NOTE: Publications referenced are available from the agency.] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, 468.065, 468A.025, 468A.040, 468A.050, 468A.310 & 468A.315 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468 & 468A 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 19-2022, amend filed 11/18/2022, effective 03/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 13-2019, amend filed 05/16/2019, effective 05/16/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 131-2018, minor correction filed 04/11/2018, effective 04/11/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 7-2015, f. & cert. ef. 4-16-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 10-2008, f. & cert. ef. 8-25-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 8-2007, f. & cert. ef. 11-8-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 6-2007(Temp), f. & cert. ef. 8-17-07 thru 2-12-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-2130 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 21-1998, f. & cert. ef. 10-14-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 22-1995, f. & cert. ef. 10-6-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 24-1994, f. & ef. 10-28-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 13-1993, f. & ef. 9-24-93 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

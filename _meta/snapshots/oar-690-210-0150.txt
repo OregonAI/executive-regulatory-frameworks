@@ -1,0 +1,316 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Water Resources Department 
+ Chapter 690 
+ 
+ 
+ 
+ 
+ 
+ Division 210 WELL CONSTRUCTION STANDARDS 
+ 690-210-0150 
+ Sealing of Water Supply Wells in Consolidated Formations
+ 
+ 
+ (1) Water supply wells drilled into a water-bearing rock formation overlain by clay, silt, sand, gravel, cobbles, or similar materials, shall be constructed in accordance with one of the following methods: 
+
+ (a) Method 1 (Continuous Seal): 
+
+ (A) An upper oversize drillhole, at least four inches greater in diameter than the nominal diameter of the permanent well casing to be installed, shall extend from land surface to at least five feet into solid, unfractured, consolidated rock overlying the water-bearing rock formation below a depth of 13 feet. Unperforated permanent well casing shall extend to this same depth. 
+
+ (B) The annular space between the permanent well casing and the drillhole wall within the consolidated rock formation shall be filled with grout using an approved grout placement method. 
+
+ (C) The upper annular space between the permanent well casing and the drillhole wall shall be filled with grout using an approved grout placement method from land surface to at least five feet into a clay interval below a depth of 13 feet. 
+
+ (D) The annular space between the upper and lower sealing intervals shall be filled with grout using an approved grout placement method. 
+
+ (E) A smaller diameter liner pipe or well screen may be installed to complete the well. 
+
+ (F) If cement grout is placed by a suitable method from the bottom of the permanent well casing to land surface (Methods A, B, D, Appendix 210-3), the upper drillhole shall be at least two inches larger than the nominal diameter of the permanent well casing. (See Figure 210-4); 
+
+ (b) Method 2 (Step-Down Casing/Inner Casing): 
+
+ (A) An upper oversize drillhole, at least four inches greater in diameter than the upper permanent well casing to be installed, shall extend from land surface to at least five feet into a clay interval below a depth of 13 feet. If no clay interval is present, then the upper oversize drillhole shall extend to a minimum depth of 18 feet below land surface. In the event that the subsurface materials penetrated by the upper oversize drillhole cave, or tend to cave, an outer temporary surface casing at least 18 feet in length shall be used throughout the construction of the upper oversize drillhole to prevent caving. 
+
+ (B) The upper permanent well casing shall be unperforated and shall extend to, and be driven into, solid, unfractured, consolidated rock overlying the water- bearing rock formation. 
+
+ (C) A lower drillhole, at least as large as the inside diameter of the upper permanent well casing, shall be constructed at least five feet into solid unfractured consolidated rock overlying the water-bearing rock formation. 
+
+ (D) A smaller diameter steel well casing, at least two inches smaller in diameter than the diameter of the upper permanent well casing, shall extend at least five feet into solid unfractured consolidated rock overlying the water-bearing rock formation and at least eight feet into the upper permanent well casing. 
+
+ (E) The annular space between the upper oversize drillhole and the upper permanent well casing shall be completely filled with grout using an approved grout placement method after the upper permanent well casing is set into final position. The annular space between the smaller diameter lower permanent well casing and the lower drillhole shall be completely filled with cement grout using an approved grout placement method after the lower permanent well casing is set into final position. The lower annular seal shall extend at least eight feet into the upper permanent well casing (See Figure 210-5); 
+
+ (c) Method 3 (Under-Reaming): 
+
+ (A) An upper oversize drillhole, at least four inches greater in diameter than the permanent well casing to be installed, shall extend from land surface to at least five feet into a clay interval below a depth of 13 feet. If no clay interval is present, then the upper oversize drillhole shall extend to a minimum depth of 18 feet below land surface. In the event that the subsurface materials penetrated by the upper oversize drillhole cave, or tend to cave, an outer temporary surface casing at least 18 feet in length shall be used throughout the construction of the upper oversize drillhole to prevent caving. 
+
+ (B) A lower drillhole, at least two inches greater in diameter than the diameter of the permanent well casing to be installed, shall be constructed at least fifteen feet into solid, unfractured, consolidated rock overlying the water-bearing rock formation by under-reaming methods. 
+
+ (C) Unperforated, permanent well casing shall extend to and be driven into solid, unfractured, consolidated rock overlying the water-bearing rock formation at the bottom of the under-reamed section following placement of the casing seal material. 
+
+ (D) The annular space between the upper oversize drillhole and the permanent well casing shall be filled with cement grout using Method C or unhydrated bentonite. The annular space between the lower under- reamed drillhole and the permanent well casing shall be completely filled with cement grout applied under pressure in accordance with grout placement Method A, B, or D, in Appendix 210-3. See Figure 210-6. 
+
+ (E) Casing seals may not be placed in unconsolidated formation materials using the under-reaming method. 
+
+ (2) In all cases, (Methods 1, 2, or 3, above), if materials penetrated by the upper oversize drillhole cave, or tend to cave, an outer temporary surface casing shall be used to case out all caving material throughout construction of the oversize drillhole. The temporary surface casing shall be withdrawn as the annular space is filled with grout. 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 536.090, ORS 537.505-537.795, ORS 536.027, ORS 536.900 & ORS 537.992 
+ 
+ 
+ Statutes/Other Implemented:  ORS 536.090, ORS 537.505-537.795, ORS 536.900 & ORS 537.992 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WRD 5-2023, amend filed 06/22/2023, effective 07/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WRD 4-2018, minor correction filed 06/22/2018, effective 06/22/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WRD 5-2016, f. & cert. ef. 9-6-16 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WRD 5-2015, f. & cert. ef. 7-1-15 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WRD 7-2001, f. & cert. ef 11-15-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WRD 8-1993, f. 12-14-93, cert. ef. 1-1-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WRD 7-1988, f. & cert. ef. 6-29-88 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WRD 13-1986, f. 10-7-86, ef. 11-1-86, Renumbered from 690-061-0136 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WRD 9-1978, f. 12-12-78, ef. 1-1-79 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

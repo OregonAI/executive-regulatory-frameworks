@@ -1,0 +1,238 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon State Lottery 
+ Chapter 177 
+ 
+ 
+ 
+ 
+ 
+ Division 200 GENERAL VIDEO LOTTERYSM GAME RULES 
+ 177-200-0070 
+ Requirements for Poker Games
+ 
+ 
+ Video LotterySM game terminals offering poker games must meet the following requirements: 
+
+ (1) General: Standard decks of 52 playing cards shall be used. Jokers may be added to the decks if the resulting payout percentages meet the requirements of OAR 177-200-0060. 
+
+ (2) Shuffling: When the deck is shuffled, it must be shuffled randomly and frozen. All cards used for play must be taken in order from the top of the deck. All cards needed for play must be stored in the non-volatile memory of the Video LotterySM game terminal. Non-volatile memory is a device that stores information that cannot be erased or destroyed when power is disconnected to the Video LotterySM game terminal. The manufacturer need not represent the whole deck in memory. Shuffling is the process of generating the cards possibly used in the play and may be conducted in any manner that satisfies the randomness tests in OAR 177-200-0055. 
+
+ (3) Dealing: The program must deal the first cards in the order they are contained in the shuffled deck to the player. For draw poker games or hands, the player must have the option to hold or discard one or more of the cards initially drawn according to the game design. Any autohold features that assist players in their decision as to which of the cards to hold and discard for the chance to obtain a winning combination must be displayed. Any cards that are discarded must be replaced by the remaining cards in the deck by a predefined process that draws any additional cards in the order they are contained in the shuffled deck. 
+
+ (4) Initial Cards: If the initial cards dealt constitute a winning hand or hands according to the game’s pay table, the Video LotterySM game terminal must automatically notify the player of the winning hand or hands, display the kind of hand (e.g., one pair, two pair, three of a kind), and the potential prize amount. 
+
+ (5) Conclusion of Play: At the conclusion of each game play, the Video LotterySM game terminal must display the winning combinations, if any, and the amount won. 
+
+ (6) Extended Play: An extended play option may be included. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  Or Const, Art XV, § 4(4)(a) & ORS 461.220 
+ 
+ 
+ Statutes/Other Implemented:  Or Const, Art XV, § 4(4) & ORS 461.220 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LOTT 8-2025, minor correction filed 09/29/2025, effective 09/29/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ LOTT 9-2010, f. 8-30-10, cert. ef. 9-5-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ LOTT 11-2004, f. 6-23-04, cert. ef. 7-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ LOTT 15-2003, f. & cert. ef. 9-29-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ LOTT 7-2003(Temp), f. & cert. ef. 6-5-03 thru 11-28-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ LC 8-1991, f. & cert. ef. 11-25-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

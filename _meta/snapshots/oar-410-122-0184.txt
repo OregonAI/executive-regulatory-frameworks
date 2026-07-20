@@ -1,0 +1,494 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 122 DURABLE MEDICAL EQUIPMENT, PROSTHETIC ORTHOTICS AND SUPPLIES (DMEPOS) 
+ 410-122-0184 
+ Repairs, Servicing, Replacement, Delivery, and Dispensing
+ 
+ 
+ (1) For indications and limitations of coverage and medical appropriateness, the Division may cover reasonable and necessary repairs, servicing, and replacement of medically appropriate, covered durable medical equipment, prosthetics, and orthotics, including those items purchased or in use before the client enrolled with the Division:   
+
+ (a) Repairs:   
+
+ (A) To repair means to fix or mend and to put the equipment back in good condition after damage or wear to make the equipment serviceable;   
+
+ (B) Repairs (parts and labor) of DMEPOS items are performed on the base item. The replacement of parts or components that make up the base item is considered a repair;   
+
+ (C) If the expense for repairs exceeds the estimated expense of purchasing or renting another item of equipment for the remaining period of medical need, no payment may be made for the amount of the excess;   
+
+ (D) Payment for repairs is not covered when:   
+
+ (i) The skill of a technician is not required;   
+
+ (ii) The equipment has been previously denied;   
+
+ (iii) Equipment is being rented, including separately itemized charges for repair;   
+
+ (iv) Equipment, parts and labor are covered under a manufacturer’s or supplier’s warranty.   
+
+ (E) Code K0739 may not be used on an initial claim for equipment. Payment for any labor involved in assembling, preparing, or modifying the equipment on an initial claim is included in the allowable rate.   
+
+ (b) Servicing:   
+
+ (A) Additional payment for routine periodic servicing, such as testing, cleaning, regulating, and checking the client’s equipment is not covered. However, more extensive servicing that, based on the manufacturers’ recommendations may only be performed by authorized technicians, may be covered for medically appropriate client-owned equipment;   
+
+ (B) Payment for maintenance/service is not covered for rented equipment. Providers must maintain, repair, or replace rented equipment at no charge to the Division or the client during the authorized rental period. The Division may authorize payment for covered servicing of capped rental items after six months have passed from the end of the final paid rental month. Use the corresponding Healthcare Common Procedure Coding System (HCPCS) code for the equipment in need of servicing at no more than the rental fee schedule allowable amount;   
+
+ (C) Up to one (1) month’s rental shall be reimbursed at the level of either the equipment provided, or the equipment being repaired, whichever is less costly;   
+
+ (D) Maintenance and servicing that includes parts and labor covered under a manufacturer’s or supplier’s warranty is not covered.   
+
+ (i) Providers must notify clients of warranty coverage and honor all warranties under applicable State law, whether it is a warranty from the manufacturer or the supplier. All equipment under warranty shall be repaired or replaced at no charge to the Division or the client in accordance with ORS 646A.460 to 646A.476.    
+
+ (ii) If the dispensing provider is unable to fulfill the warranty and the equipment continues to be medically appropriate, the provider is responsible for any costs incurred to have a different provider repair or replace the equipment.    
+
+ (c) Replacement refers to the provision of an identical or nearly identical item:   
+
+ (A) Temporary Replacement: One (1) month’s rental of temporary replacement equipment (K0462) may be reimbursed when client-owned equipment, such as a wheelchair, is being repaired. The equipment in need of repair must be unavailable for use for more than one (1) day;   
+
+ (B) Permanent Replacement: Situations involving the provision of medically appropriate items when there is a change in the client’s condition that warrants a new device, the client has outgrown the equipment, or when reasonable wear and tear renders the item non-functioning and not repairable, and there is coverage for the specific item identified in chapter 410, division 122;   
+
+ (C) Equipment that the client owns or is a capped rental item may be replaced in cases of loss or irreparable damage. Irreparable damage refers to a specific accident or to a natural disaster.   
+
+ (D) Irreparable wear refers to deterioration sustained from day-to-day usage over time and a specific event cannot be identified. Replacement of equipment due to irreparable wear takes into consideration the reasonable useful lifetime of the equipment:   
+
+ (i) Reasonable useful lifetime of DME is no less than five (5) years unless otherwise specified in Chapter 410, Division 122 rules;   
+
+ (ii) Computation of the useful lifetime is based on when the equipment is delivered to the client, not the age of the equipment;   
+
+ (iii) Replacement of the base item due to wear is not covered during the reasonable useful lifetime of the equipment;   
+
+ (iv) During the reasonable useful lifetime, repair up to the cost of replacement (but not actual replacement for medically appropriate equipment owned by the client) may be covered.   
+
+ (E) Cases suggesting malicious damage, culpable neglect, or wrongful disposition of equipment may not be covered.   
+
+ (d) Delivery:   
+
+ (A) Providers may deliver directly to the client or the authorized designee;   
+
+ (B) Providers, their employees, or anyone else having a financial interest in the delivery of an item may not sign and accept an item on behalf of a client;   
+
+ (C) Provider shall have documentation on file containing a description of the item delivered to the client to determine the accuracy of claims coding including, but not limited to, an invoice or statement in the provider records.    
+
+ (D) A provider may deliver DMEPOS to a client in a hospital or nursing facility for the purpose of fitting or training the client in its proper use. This may be done up to two (2) days prior to the client's anticipated discharge to home. On the claim, bill the date of service as the date of discharge and specify the place of service as the client’s home. The item must be for subsequent use in the client's home;   
+
+ (E) A provider may deliver DMEPOS to a client's home in anticipation of a discharge from a hospital or nursing facility. The provider may arrange for actual delivery approximately two (2) days prior to the client's anticipated discharge to home. On the claim, bill the date of service as the date of discharge and specify the place of service as the client’s home;   
+
+ (F) No payment is made on dates of service the client receives training or fitting in the hospital or nursing facility for a particular DMEPOS item.   
+
+ (e) For Dispensing Refills:   
+
+ (A) For DMEPOS products that are supplied as refills to the original order, providers must contact the client or designee prior to dispensing the refill to check the quantity on hand and continued need for the product;   
+
+ (B) Contact with the client or designee regarding refills must take place no sooner than thirty (30) calendar days prior to the expected end of the current supply. Contact with the client or designee regarding refills may only take place no sooner than approximately fourteen (14) calendar days prior to the delivery/shipping date;   
+
+ (C) For subsequent deliveries of refills, the provider shall deliver the DMEPOS product no sooner than ten (10) calendar days prior to the end of usage for the current product. This is regardless of which delivery method is utilized. The Division shall allow for the processing of claims for refills delivered/shipped prior to the client exhausting their supply, but the provider must not dispense supplies that exceed a client’s expected utilization;   
+
+ (D) Supplies dispensed are based on the practitioner’s order. Regardless of utilization, a provider may not dispense more than a three (3) -month quantity of supplies at a time. This three (3) -month dispensing restriction for supplies may be further limited by rule limitations of coverage;   
+
+ (E) The provider may not automatically ship, dispense, or deliver a quantity of supplies on a predetermined regular basis, even if the client or designee has “authorized” this in advance;   
+
+ (F) Shipping and handling charges are not covered as this is included in the allowable rate for the DMEPOS product.   
+
+ (f) The following services are not eligible for reimbursement:   
+
+ (A) Pick-up, delivery, shipping, and handling charges for DMEPOS, whether rented or purchased including travel time:   
+
+ (i) These costs are included in the calculations for allowable rates;   
+
+ (ii)These charges are not billable to the client.   
+
+ (B) Supplies used with DME or a prosthetic device prior to discharge from a hospital or nursing facility;   
+
+ (C) Surgical dressings, urological supplies, or ostomy supplies applied in the hospital or nursing facility, including items worn home by the client.   
+
+ (2) Documentation Requirements:   
+
+ (a) For repairs, servicing, and temporary replacement, a new practitioner's order is not required;   
+
+ (b) Submit the following documentation with the prior authorization (PA) request:   
+
+ (A) For repairs and servicing:   
+
+ (i) Narrative description, manufacturer and brand name/model name and number, serial number, and original date of purchase for the covered equipment in need of repair;   
+
+ (ii) Itemized statement of parts needed for repair including the estimated date of service, manufacturer’s name (if billing for parts, include manufacturer’s name and part number for each part), product name, part number, manufacturer’s suggested retail price or manufacturer’s invoice price, and estimated labor time; and   
+
+ (iii) Justification of the client’s medical need for the item and statement that the client owns the equipment in need of repair.   
+
+ (B) For temporary replacement:   
+
+ (i) Narrative description, manufacturer and brand name/model name and number, serial number, and original date of purchase for the covered equipment in need of repair;   
+
+ (ii) Narrative description, manufacturer and brand name/model name, and number of the replacement equipment;   
+
+ (iii) Itemized statement of parts needed for repair including the estimated date of service, manufacturer’s name (if billing for parts, include manufacturer’s name and part number for each part), product name, part number, manufacturer’s suggested retail price or manufacturer’s invoice price, and estimated labor time;   
+
+ (iv) Justification of the client’s medical need for the item and statement that the client owns the equipment in need of repair; and   
+
+ (v) Description of why the repair takes more than one (1) day to complete.   
+
+ (C) For permanent replacement, see specific coverage criteria in chapter 410, division 122 for more information;   
+
+ (D) For proof of delivery, DMEPOS providers shall:   
+
+ (i) Maintain proof of delivery documentation to the client in their records for seven (7) years;   
+
+ (ii) Maintain documentation that supports conditions of coverage in this rule are met;   
+
+ (iii) Make proof of delivery documentation available to the Division upon request.   
+
+ (c) Proof of delivery requirements are based on the method of delivery;   
+
+ (d) A signed and dated delivery slip is required for items delivered directly by the provider to the client or designee. The delivery slip must include the following:   
+
+ (A) When a designee signs the delivery slip, their relationship to the client must be noted and the signature legible;   
+
+ (B) The client or designee’s signature with the date the items were received;   
+
+ (C) Client’s name;   
+
+ (D) Quantity, brand name, serial number, and a detailed description of the items being delivered;   
+
+ (E) The date of signature on the delivery slip must be the date the DMEPOS item is received by the client or designee; and   
+
+ (F) The date the client receives the item is the date of service.   
+
+ (e) If the provider uses a delivery or shipping service or mail order, proof of delivery must include the service’s tracking slip and the provider’s own shipping invoice:   
+
+ (A) The provider’s shipping invoice must include the:   
+
+ (i) Client’s name;   
+
+ (ii) Quantity, brand name, serial number, and a detailed description of the items being delivered;   
+
+ (iii) Delivery service’s package identification number associated with each individual client’s package with a unique identification number and delivery address, including the actual date of delivery, if possible; and   
+
+ (iv) The shipping date must be used as the date of service, unless the actual date of delivery is available, then use this date as the date of service.   
+
+ (B) The delivery service’s tracking slip must reference:   
+
+ (i) Each client’s packages; and   
+
+ (ii) The delivery address and corresponding package identification number given by the delivery service.   
+
+ (f) Providers must utilize a signed and dated return postage-paid delivery or shipping invoice from the client or designee as a form of proof of delivery that must contain the following information:   
+
+ (A) Client’s name;   
+
+ (B) Quantity, brand name, serial number, and a detailed description of items being delivered;   
+
+ (C) Required signatures from either the client or the designee.   
+
+ (g) Delivery to nursing facilities or hospitals:   
+
+ (A) The date of service is the date the DMEPOS item is received by the nursing facility if delivered by the DMEPOS provider;   
+
+ (B) The date of service is the shipping date (unless the actual delivery date is known and documented) if the DMEPOS provider uses a delivery or shipping service.   
+
+ (h) For those clients who are residents of an assisted living facility, a twenty-four (24) hour residential facility, an adult foster home, a child foster home, a private home or other similar living environment, providers must ensure supplies are identified and labeled for use only by the specific client for whom the supplies or items are intended.   
+
+ (3) Procedure codes:   
+
+ (a) Replacement parts for wheelchair repair are billed using the specific HCPCS code, if one exists, or code K0108 (other accessories);   
+
+ (b) K0739: 
+
+ (A) Repair or non-routine service for durable medical equipment other than oxygen equipment requiring the skill of a technician, labor component, per 15 minutes;   
+
+ (B) This code is used for services not covered by other codes or combination of codes in reference to the repairs of DMEPOS.   
+
+ (c) K0108 – Wheelchair component or accessory, not otherwise specified - PA is required when the billed charge for an item is greater than $150;   
+
+ (d) E1399 – Durable medical equipment, miscellaneous, - PA is required when the billed charge for an item is greater than $150;   
+
+ (e) K0462 – Temporary replacement for client-owned equipment being repaired, any type - No PA required.   
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042 & 414.065 
+ 
+ 
+ Statutes/Other Implemented:  414.065 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 20-2026, amend filed 06/03/2026, effective 06/03/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 95-2025, temporary amend filed 12/26/2025, effective 12/26/2025 through 06/23/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 87-2025, amend filed 12/09/2025, effective 12/09/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 101-2023, amend filed 12/29/2023, effective 01/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 12-2018, amend filed 03/07/2018, effective 03/08/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 36-2017(Temp), f. 9-14-17, cert. ef. 9-15-17 thru 3-13-18 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 13-2010, f. 6-10-10, cert. ef. 7-1-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 17-2008, f. 6-13-08, cert. ef. 7-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 47-2006, f. 12-15-06, cert. ef. 1-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 44-2005, f. 9-9-05, cert. ef. 10-1-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 44-2004, f. & cert. ef. 7-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

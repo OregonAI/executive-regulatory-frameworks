@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Public Utility Commission 
+ Chapter 860 
+ 
+ 
+ 
+ 
+ 
+ Division 23 SERVICE STANDARDS 
+ 860-023-0111 
+ Electric Reliability Calculations 
+ 
+ (1) Using records collected per OAR 860-023-0101, each electric company must perform annual reliability index calculations required by this rule in compliance with IEEE 1366. Each electric company must report the results of the calculations in the company’s annual report as set forth in 860-023-0151 and in the company’s major event filings as set forth in 860-023-0161.  (2) After December 31 of each year an electric company must calculate the SAIDI, SAIFI, and MAIFIE indices for the previous reporting period. These indices are to be calculated both with all interruptions included and separately with major event interruptions excluded:  (a) On a system-wide basis;  (b) For each reliability reporting area; and  (c) For each circuit.  (3) If an electric company estimates or uses factors in calculating actual CAIDI, SAIDI, SAIFI, or MAIFIE indices in sections (1) or (2) of this rule, the company must summarize the estimation methodologies in the company’s annual report, as set forth in OAR 860-023-0151.  (4) This rule is effective beginning January 1, 2012.  [Publications: Publications referenced in this rule are available for review at the agency.] 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 183, 756 & 757 
+ 
+ 
+ Statutes/Other Implemented:  ORS 757.020 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 10-2011, f. 10-14-11, cert. ef. 1-1-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

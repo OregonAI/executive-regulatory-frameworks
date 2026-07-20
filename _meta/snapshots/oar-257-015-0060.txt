@@ -1,0 +1,282 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of State Police 
+ Chapter 257 
+ 
+ 
+ 
+ 
+ 
+ Division 15 LAW ENFORCEMENT DATA SYSTEM (LEDS) 
+ 257-015-0060 
+ Information Access and Dissemination
+ 
+ 
+ Information is made available to LEDS users from various sources and agencies, including LEDS and other state information system files, motor vehicle departments, NCIC, Oregon State Police Identification Services Section, etc. Each user must observe any restrictions placed on the use or dissemination of information by its source. It is LEDS’ responsibility to advise user agencies of any restrictions which apply to any information accessed via the Law Enforcement Data System. 
+
+ (1) Investigative Files: Information from investigative files maintained by LEDS, NCIC, or other agencies is for criminal justice use only and is not to be disseminated to any person for other than an official criminal justice purpose. Inquiries from the public regarding the status of an investigative file should be referred to the agency holding the case. 
+
+ (2) Oregon Computerized Criminal History Records (CCH): 
+
+ (a) Oregon criminal history records are available via LEDS, from the Oregon State Police Computerized Criminal History Files, to agencies which are authorized by the Oregon State Police. 
+
+ (b) All agencies accessing the Oregon CCH files must have a signed agreement with the Oregon State Police and must adhere to Oregon Administrative Rules (OAR) 257-010-0025 through 257-010-0050 adopted by the Department of State Police. 
+
+ (3) Federal Bureau of Investigation — Interstate Identification Index (FBI-III): The Federal Bureau of Investigation maintains the Interstate Criminal Identification Index which is available through LEDS. Access to this information is restricted to criminal justice agencies, as defined in OAR 257-015-0030(7), in the discharge of their official responsibilities, or to non-criminal justice agencies which provide services to criminal justice agencies, and which have signed a management control agreement with a criminal justice agency as defined in OAR 257-015-0030(12). 
+
+ (4) Oregon Motor Vehicle and Driver Records: 
+
+ (a) Oregon motor vehicle registration and driving records are the responsibility of the Oregon Department of Transportation, Driver and Motor Vehicle Services Branch (DMV). Government agencies in Oregon have access to these records via LEDS for authorized criminal justice purposes and for licensing, employment and regulatory purposes specifically authorized by State Law and approved in writing by DMV. Communication, dissemination, or use of this information for other than authorized purposes is prohibited. 
+
+ (b) Authorized purposes do not include inquiries for the collection of taxes and parking violation fees or fines; 
+
+ (c) Authorized purposes are specifically defined as follows: 
+
+ (A) Enforcement of state traffic and criminal laws, and regulations; 
+
+ (B) Identification of vehicles which have been towed or impounded by police; 
+
+ (C) Screening of prospective or present agency employees.; 
+
+ (D) Identification of vehicles or individuals associated with criminal investigations; 
+
+ (E) Review of driving and registration records for prosecution and sentencing functions; 
+
+ (F) Processing of school bus driver applications by the State Department of Education; 
+
+ (G) Access to vehicle registration information by fire and rescue agencies in emergency situations where waiting for the availability of a law enforcement officer would compound the emergency; 
+
+ (H) The identification of vehicles or individuals associated with the Weighmaster enforcement function; 
+
+ (I) Inquiries for licensing, employment and regulatory purposes authorized by State law and approved in writing by DMV. 
+
+ (d) Inquiries for any purpose other than those specified in paragraphs (4)(c)(A)–(4)(c)(I) of this section must be directed to the department of Transportation, Driver and Motor Vehicle Services Branch (DMV) by telephone or by mail, together with the proper fee or account number. Violations of these policies may result in the suspension or termination of motor vehicle records access. 
+
+ (5) The International Justice & Public Safety Network, formerly known as the National Law Enforcement Telecommunications System (NLETS) Access: NLETS provides a link to criminal justice information systems in other states for the purpose of point-to-point communications between criminal justice agencies and for access to information systems. Access to criminal history records in other states, via NLETS, is restricted to criminal justice agencies, as defined in OAR 257-015-0030(7). Access to motor vehicle records in other states and the use of the agency-to-agency communication facilities may be limited by NLETS policies or policies in other states. 
+
+ (6) Corrections Offender Records: 
+
+ (a) The Corrections Offender File contains records of persons under the active supervision (probation, parole, other non-custodial supervision) of a state or local or federal corrections agency. Entries and changes to this file are the responsibility of the supervising state or local or federal corrections agency. 
+
+ (b) Access to Corrections offender records via LEDS is restricted to criminal justice agencies for criminal justice purposes. 
+
+ (7) Administrative Messages: An administrative message (AM) is a free text message for sending messages from one agency to one or more agencies. Use of administrative messages via LEDS is restricted to authorized or designated criminal justice agencies as defined in ORS 181A.010 and ORS 181A.265. Emergency public safety messages may be transmitted by authorized or designated criminal justice agencies. 
+
+ (a) Emergency public safety messages may be transmitted from non-criminal agencies with responsibilities for such messages through an agreement with a law enforcement agency or a criminal justice agency for subjects such as storm warnings, disaster warnings, road conditions, etc. 
+
+ (b) Messages from agencies recruiting for personnel are not to be sent as all points bulletins or area broadcast messages. They may be sent to LEDS. LEDS will then compile and transmit a consolidated bulletin weekly, or as needed. 
+
+ (c) Messages from agencies regarding equipment wanted, or for sale, are not to be sent as all points bulletins or area broadcast messages. They may be sent to LEDS. LEDS will then compile and transmit a consolidated bulletin weekly, or as needed. 
+
+ (d) Announcements of meetings of recognized criminal justice professional organizations may be sent by the authorized officers of such organizations. 
+
+ (e) Announcements of official inter-departmental or intra-departmental activities such as training classes, shooting tournaments and other organized professional competition or sports events, public service projects, etc., may be sent by the criminal justice agency responsible for scheduling the activity. The addressees of such announcements should be limited to those participating in, or interested in, the activity. 
+
+ (f) Use of LEDS for promotion of a particular political point of view (lobbying) regarding proposed legislation, elections, or other issues is prohibited. However, this does not preclude information announcements of association meetings, hearings, or other forums where such issues will be discussed. 
+
+ (8) Demonstration or Display of Records: Any public demonstration involving the display of records or communication received via LEDS shall be confined to information pertaining to the individual performing the demonstration or to appropriate test records. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 181A.280(3), ORS 181A.010, ORS 181A.265, ORS 802.179 & ORS 802.181 
+ 
+ 
+ Statutes/Other Implemented:  ORS 181A.280 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSP 3-2026, amend filed 06/24/2026, effective 06/24/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSP 5-2022, minor correction filed 12/15/2022, effective 12/15/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSP 18-2019, minor correction filed 01/03/2019, effective 01/03/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OSP 2-1998, f. & cert. ef. 10-6-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OSP 1-1995, f. & cert. ef. 8-15-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

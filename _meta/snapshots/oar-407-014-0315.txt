@@ -1,0 +1,185 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Chapter 407 
+ 
+ 
+ 
+ 
+ 
+ Division 14 PRIVACY AND CONFIDENTIALITY 
+ 407-014-0315 
+ Security Information Assets 
+ 
+ (1) No organization or user shall access an information asset for any purpose other than that specifically authorized by the Department access control process.  (2) Except as specified or approved by the Department, no organization or user shall alter, delete, or destroy any information asset.  (3) The organization shall prohibit unauthorized access by their staff, contractors, agents, or others to the network and information systems or Department information assets, and shall implement safeguards to prevent unauthorized access in accordance with section (4) of this rule.  (4) The organization shall develop a security risk management plan. The organization shall ensure that the plan includes but is not limited to the following:  (a) Administrative, technical, and physical safeguards commonly found in the International Standards Organization 27002: 2005 security standard or National Institute of Standards and Technology (NIST) 800 Series.  (b) Standards established in accordance with HIPAA security rules, 45 CFR Parts 160 and 164, applicable to an organization or user regarding the security and privacy of a client record, any information asset, or network and information system.  (c) The organization’s privacy and security policies.  (d) Controls and safeguards that address the security of equipment and storage of any information asset accessed to prevent inadvertent destruction, disclosure, or loss.  (e) Controls and safeguards that ensure the security of an information asset, regardless of the media, as identified below:  (A) The user keeps Department-assigned access control requirements such as identification of authorized users and access control information (passwords and personal identification numbers (PINs)), in a secure location until access is terminated;  (B) Upon request of the Department, the organization makes available all information about the user’s use or application of the access controlled network and information system or information asset; and  (C) The organization or user ensures the proper handling, storage, and disposal of any information asset obtained or reproduced and, when the authorized use of that information ends, is consistent with any applicable record retention requirements.  (f) Existing security plans developed to address other regulatory requirements, such as Sarbanes-Oxley Act of 2002 (PL 107-204), Title V of Gramm Leach Bliley Act of 1999, and Statement on Auditing Standards (SAS) number 70, will be deemed acceptable as long as they address the above requirements.  (5) The Department may request additional information related to the organization’s security measures.  (6) The organization or user must immediately notify the Department when access is no longer required and immediately cease access to or use of all information assets or network and information systems. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 409.050 
+ 
+ 
+ Statutes/Other Implemented:  ORS 182.122 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 1-2012, f. & cert. ef. 2-1-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 6-2011(Temp), f. & cert. ef. 8-9-11 thru 2-2-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 14-2007, f. 12-31-07, cert. ef. 1-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

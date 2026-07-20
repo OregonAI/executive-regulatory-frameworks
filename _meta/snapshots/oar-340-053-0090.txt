@@ -1,0 +1,325 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 53 GRAYWATER REUSE AND DISPOSAL SYSTEMS 
+ 340-053-0090 
+ Graywater Quality and Standards for Reuse
+ 
+ 
+ (1) All graywater. Unless otherwise approved by the department in writing, the following requirements apply to all types of graywater: 
+
+ (a) Beneficial purposes. 
+
+ (A) A person may use graywater only for the beneficial purposes described in this rule and must divert graywater not suitable for reuse or graywater exceeding the volume required for a beneficial purpose to an approved sewerage system, or a functioning onsite wastewater treatment system or holding tank system approved under OAR 340-071. 
+
+ (B) A person may request an alternative beneficial purpose not specified in this rule and must demonstrate to the department’s satisfaction that public health and the environment would be adequately protected. The department, in a permit issued under OAR 340-053-0110(2), will include limitations or conditions or both necessary to protect public health and the environment. 
+
+ (b) Treatment. All graywater originating from kitchen sinks must pass through primary graywater treatment. 
+
+ (c) Setback distances. 
+
+ (A) Except as otherwise allowed under this rule, a person may not operate a graywater reuse and disposal system unless it is designed and installed to meet the minimum horizontal separation distances in Table 2. 
+
+ (B) On a case-by-case basis, the department may consider and approve in a permit issued under OAR 340-053-0110(2) a setback distance other than what is required in this rule. A person requesting a reduced setback distance must demonstrate to the department’s satisfaction that public health and the environment would be adequately protected. 
+
+ (d) Access and exposure. The owner or operator of a graywater reuse and disposal system must take all reasonable steps to ensure that contact with graywater by humans and domestic pets is avoided. 
+
+ (e) Irrigation site selection and management. The owner or operator of a graywater reuse and disposal system may not use graywater for irrigation unless the following requirements are satisfied: 
+
+ (A) Irrigation sites must be located on stable geologic formations that are not subject to flooding or excessive runoff from adjacent land at the time of irrigation. 
+
+ (B) Graywater must not be applied to areas with slopes exceeding 45 percent. 
+
+ (C) Graywater must not be discharged to frozen or saturated soils. 
+
+ (D) At the time of irrigation, the minimum separation distance between the point of graywater discharge and the groundwater must be at least four feet. 
+
+ (E) Irrigation may occur only when evapotranspiration rates exceed natural precipitation. 
+
+ (F) The soil and vegetation in the irrigation area must have capacity to accommodate the volume and rate of graywater applied so that discharge to surface water or groundwater does not occur. 
+
+ (2) Type 1 graywater. In addition to the requirements in section 1 of this rule, the following requirements apply to the use of Type 1 graywater: 
+
+ (a) Beneficial purposes. A person may use Type 1 graywater only for the following beneficial purposes and only if the rules of this division are met: 
+
+ (A) Subsurface irrigation of gardens, lawns and landscape plants; 
+
+ (B) Subsurface irrigation of food crops, except root crops or crops that have edible portions that contact graywater; 
+
+ (C) Subsurface irrigation of vegetated roofs that do not drain to stormwater management structures; and 
+
+ (D) Subsurface irrigation of compost. 
+
+ (b) Treatment. Type 1 graywater is presumed to contain dissolved oxygen if it has been stored 24 hours or less and does not have an objectionable odor. 
+
+ (c) Access and exposure. A person may not use Type 1 graywater for subsurface irrigation unless the point of graywater discharge is covered by at least two inches of soil, mulch, compost or other suitable material. 
+
+ (d) Site management. A person may use Type 1 graywater only if the following site management requirements are met: 
+
+ (A) Type 1 graywater must not be stored for more than 24 hours. 
+
+ (B) When irrigating a parcel for the production of a food crop, the edible portion of the crop must not contact the graywater, and fruit or nuts must not be harvested off the ground for human consumption. 
+
+ (C) Graywater must not surface, pond or runoff. 
+
+ (3) Type 2 graywater. In addition to the requirements listed in section 1 of this rule, the following requirements apply to the use of Type 2 graywater: 
+
+ (a) Beneficial purposes. A person may use Type 2 graywater only for the following beneficial purposes and only if the rules of this division are met: 
+
+ (A) Any beneficial purpose defined in subsection (2)(a) of this rule; 
+
+ (B) Landscape ponds not intended for human contact; and 
+
+ (C) Surface drip irrigation of gardens, lawns, living walls, greenhouses and landscape plants. 
+
+ (b) Treatment. Type 2 graywater must meet the following secondary graywater treatment criteria: 
+
+ (A) A five-day biochemical oxygen demand concentration of 10 mg/L or less and 
+
+ (B) A total suspended solids concentration of 10 mg/L or less. 
+
+ (c) Monitoring. The owner or operator of a graywater reuse and disposal system must monitor Type 2 graywater as follows: 
+
+ (A) Analysis of graywater quality must be made on a sample collected at a time and from a location representative of the quality of graywater produced. Monitoring for five-day biochemical oxygen demand and total suspended solids must occur at the following frequencies: 
+
+ (i) A system producing 300 gallons per day or less must be sampled at least one time per calendar year. 
+
+ (ii) A system producing greater than 300 gallons per day must be sampled at least two times per calendar year. 
+
+ (B) The department may reduce monitoring requirements for a technology-based graywater treatment system that satisfies the requirement of OAR 340-053-0100(2)(a) and is used as specified by the manufacturer. 
+
+ (d) Access and exposure. A person may not use Type 2 graywater unless the public is restricted from direct contact with the graywater. 
+
+ (e) Site management practices. A person may not use Type 2 graywater unless the following site management requirements are met: 
+
+ (A) When irrigating a parcel for the production of a food crop, the edible portion of the crop must not contact the graywater, and fruit or nuts must not be harvested off the ground for human consumption. 
+
+ (B) When using graywater on a parcel for a surface irrigation or a landscape pond, signs must be posted at the use area and be visible to the public. The signs must state graywater is used and is not safe for drinking. 
+
+ (C) Unless authorized by the department in a permit issued under OAR 340-053-0110(2), when using graywater for a landscape pond, the pond must not combine or effect a junction with underground waters. 
+
+ (4) Type 3 graywater. In addition to the requirements listed in section 1 of this rule, the following requirements apply to the use of Type 3 graywater: 
+
+ (a) Beneficial purposes. A person may use Type 3 graywater for the following beneficial purposes and only if the rules of this division are met: 
+
+ (A) Any beneficial purpose defined in subsection (3)(a) of this rule; 
+
+ (B) Sprinkler irrigation of gardens, lawns, living walls, greenhouses and landscape plants; 
+
+ (C) Wash water for mechanical cleaning of equipment, cars, sidewalks and streets; 
+
+ (D) Industrial, commercial or constructions uses limited to industrial cooling, rock crushing, aggregate washing, mixing concrete and dust control; and 
+
+ (E) Stand-alone fire suppressions system in commercial and residential buildings, toilet or urinal flushing, or floor drain trap priming. 
+
+ (b) Treatment. Type 3 graywater must meet the following criteria: 
+
+ (A) Secondary Treatment. Prior to disinfection, graywater must meet the secondary treatment criteria in subsection (3)(b) of this rule. 
+
+ (B) Disinfection. After disinfection, graywater must not exceed a median of 2.2 total coliform organisms per 100 milliliters, based on results of the last seven days that analyses have been completed, and 23 total coliform organisms per 100 milliliters in any single sample. 
+
+ (c) Monitoring. The owner or operator of a graywater reuse and disposal system must monitor Type 3 graywater as follows: 
+
+ (A) Graywater analyses must be performed on a representative sample collected at a time and from a location representative of the quality of graywater produced. 
+
+ (B) Monitoring for secondary treatment criteria must occur, at a minimum, at the frequency prescribed in subsection (3)(c) of this rule. 
+
+ (C) Monitoring of a graywater disinfection system for total coliform organisms must occur three times per week at a minimum. 
+
+ (d) Setback distances. In addition to the setback distance requirements listed in subsection (1)(c) of this rule, a person may use Type 3 graywater for sprinkler irrigation only if the following setback distances are followed: 
+
+ (A) There must be a minimum of 10 feet from the edge of the site used for irrigation and the site property line. 
+
+ (B) Graywater must not be sprayed within 10 feet of an area where food is being prepared or served, or where a drinking fountain is located. 
+
+ (e) Access and exposure. A person may use Type 3 graywater only if the following access and exposure requirements are met: 
+
+ (A) During irrigation of a public landscape, the public must be restricted from direct contact with the graywater. 
+
+ (B) If aerosols are generated when using graywater for an industrial, commercial or construction purpose, the aerosols must not create a public health hazard. 
+
+ (C) When using graywater for an agricultural or horticultural purpose where sprinkler irrigation is used, or an industrial, commercial or construction purpose, the public and personnel at the use area must be notified that the water used is graywater and is not safe for drinking. The operations and maintenance plan must specify how notification will be provided. 
+
+ (f) Site management practices. A person may use Type 3 graywater only if the following requirements are met: 
+
+ (A) Irrigation of processed food crops where the edible portion of the plant is in contact with graywater is prohibited for three days before harvesting. 
+
+ (B) When using graywater for a landscape impoundment or for irrigating a public-accessible area such as, but not limited to, a golf course, park, cemetery, highway median, or industrial or business campus, signs must be posted at the use area and be visible to the public. The signs must state graywater is used and is not safe for drinking. 
+
+ (C) Unless authorized by the department in a permit issued under OAR 340-053-0110(2), when using graywater for a landscape pond, the pond must not combine or effect a junction with underground waters. 
+
+ (D) Aerator or decorative fixtures that may generate aerosols from graywater are allowed only if authorized in writing by the department. 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 454.610, 454.625, 468.020 & 468B.010 
+ 
+ 
+ Statutes/Other Implemented:  ORS 454.610, 454.615, 468B.020 & 468B.050 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 13-2019, amend filed 05/16/2019, effective 05/16/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 15-2011, f. & cert. ef. 9-12-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

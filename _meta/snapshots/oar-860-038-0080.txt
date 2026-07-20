@@ -1,0 +1,257 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Public Utility Commission 
+ Chapter 860 
+ 
+ 
+ 
+ 
+ 
+ Division 38 DIRECT ACCESS REGULATION 
+ 860-038-0080 
+ Resource Policies and Plans 
+ 
+ (1) The Commission adopts the following policies with respect to the Oregon share of generating resources (generating assets and power purchase contracts with a duration of at least one year) of each electric company:  (a) At such time as the Resource Plan is implemented and fully executed, each electric company will retain in its Oregon revenue requirement costs associated with a level of generating resources that is not greater than that necessary to meet the current and reasonably expected future loads of its Oregon cost-of-service consumers. In determining whether an electric company has excess generating resources, the Commission will consider the projected useful lives and mix of fuels of the electric company's generating resources. To encourage the development of a competitive retail energy market, it is the policy of the Commission to release to the competitive market generating resources in excess of such reasonably expected future loads. It is also the policy of the Commission to determine a one-time valuation for the share of an electric company's generating resources attributable to Oregon consumers who are not cost-of-service consumers;  (b) The Commission will not require an electric company to acquire new generating resources except as provided in ORS 757.663.  (c) Major capital improvements to existing generating resources will continue to be, and new generating resources will be, subject to least cost planning processes and analyses and the Oregon share of their prudently-incurred costs will be included in an electric company's Oregon revenue requirement, which for a multi-state electric company shall be consistent with Commission decisions pursuant to subsection (3)(a)(G) of this rule.  (d) The Oregon share of the costs of each generating resource may be either completely in, completely out, or "mixed" with respect to inclusion in an electric company's Oregon revenue requirement. The Commission will permit mixed status unless it finds that mixed status will:  (A) Reduce the generating resource's operating efficiency;  (B) Harm the development of a competitive market; and  (C) Prevent the owners from making economic decisions about the operation of the generating resource.  (e) For a multi-state electric company for which the Commission adopts a fixed-allocated Oregon share amount, and a Resource Plan is implemented, such generating allocation amount will be used for developing cost-of-service rates, transition charges and credits, and Operations and Maintenance allocations as well as other allocations that use generation-based factors.  (2) For purposes of this rule and OARs 860-038-0100 and 860-038-0140, a class's share of the total Oregon share of a generating resource will equal the ratio of the class's total Oregon retail load measured in weather-normalized kilowatt-hour sales to total Oregon retail load measured in weather-normalized kilowatt-hour sales for a 12 month period as determined by the Commission. Loads will be adjusted to remove the effects of demand exchange programs that were in effect during the 12 month period. To the extent such shares are not known as of the time period established by the Commission, the electric company will use estimates until relevant data are available.  (3) By a date to be determined by the Commission, each electric company must file with the Commission a resource plan that meets the following requirements:  (a) Information. The resource plan must include the following information:  (A) Consistent with paragraph subsection (3)(a)(G) of this rule, the amount of capacity and energy and the availability of each generating resource that is attributable to the share of the electric company's load from cost-of-service consumers, and the amount that is attributable to the share of the electric company's load from consumers not eligible for a cost-of-service rate;  (B) A forecast of the revenue requirements associated with each generating resource over both its projected remaining useful life and economic life, with sensitivities for major assumptions, and identification of deferred taxes, excess deferred taxes, FASB 109 assets, and any investment tax credits associated with each generating resource;  (C) The other characteristics of the generating resource that could affect its value including but not limited to its capability to provide or support ancillary services, the value of its site and environmental or operating permits, and any environmental issues associated with it;  (D) A forecast of future market prices for electricity, including forecasts of major fuel inputs and sensitivity analyses;  (E) A forecast of loads of the electric company's Oregon cost-of-service consumers covering at least the period of the longest-lived generating resource;  (F) The estimated fair market value of the Oregon share of each generating resource; and  (G) For a multi-state electric company, how the electric company proposes to allocate a share of its generating resources to Oregon. The multi-state electric company must also propose a fixed Oregon-allocated generating resource share based on the following factors:  (i) A forecasted allocation of each generating resource for a 12 month period as determined by the Commission, using traditional allocation methods recognized by the Commission;  (ii) The projected potential changes in Oregon share, due to alternative inter-jurisdictional allocation methods, over the life of each resource absent implementation of these rules; and  (iii) The change in risk borne by parties by fixing the Oregon share of generating resource.  (b) Recommended Valuation Methodology. The resource plan must identify, for each generating resource, or portion thereof if the resource meets the criteria for mixed status, whether the Oregon share of each generating resource should be:  (A) Retained in the electric company's Oregon revenue requirement for the purpose of serving Oregon cost-of-service consumers and administratively valued through a process to be specified by rule;  (B) Sold through the auction process specified in OAR 860-038-0100, and if so:  (i) The general terms and conditions that should apply to the sale, including but not limited to, a prototype purchase and sale agreement; and  (ii) Any sales incentives that the electric company proposes to apply to Oregon nonresidential consumers for the Oregon nonresidential consumers' share of the generating resource. Such incentives may be structured to encourage the electric company to follow the recommended timeline provided under subsection (3)(d) of this rule; or  (C) Removed from the electric company's Oregon revenue requirement and administratively valued through a process to be specified by rule, and if so, any incentive to apply to Oregon nonresidential consumers for removing the nonresidential consumers' share of the generating resource from revenue requirement. Such incentives may be structured to encourage the electric company to follow the recommended timeline provided under subsection (3)(d) of this rule.  (c) Results of the Resource Plan. The resource plan must identify the impacts of implementing it, including the following:  (A) The approximate load/resource balance, and the availability of each generating resource based on the electric company's current and forecasted load for Oregon cost-of-service consumers;  (B) The estimated rates to each Oregon customer class that will result from implementation of the resource plan, including:  (i) The amount of estimated transition charges and credits;  (ii) A comparison to the current effective rates of the electric company as of the date of filing; and  (iii) An estimate of the cost-of-service rates for cost-of-service consumers 10 years after implementation of the resource plan.  (C) How the resource plan is consistent with the purposes of SB 1149 in that the plan:  (i) Facilitates a fully competitive market;  (ii) Provides consumers fair, non-discriminatory access to competitive markets; and  (iii) Retains the benefits of low-cost resources for consumers.  (D) Any other implications of the resource plan that could help inform the Commissioners in their decision.  (d) Process. The electric company must develop the resource plan in a public process designed to inform and solicit input from Commission staff, representatives of Oregon residential, small nonresidential and large nonresidential consumers, and other interested parties.  (4) The Commission must consider the electric company's recommended resource plan in a contested case proceeding. The Commission's order must identify those resources that, at the option of the electric company, may be auctioned immediately, before any Commission decision to waive the requirements for a cost-of-service rate for any consumers under ORS 757.603(1)(b) and before final administrative valuation of other resources and potential modification of the electric company's Resource Plan. The Commission's order must also approve, modify, or reject the resource plan.  (a) If the Commission modifies the resource plan, the electric company will have 30 days from the date of the Commission's order to accept or reject the modifications. If the electric company rejects the Commission's modifications, the electric company must file a second recommended resource plan within 60 days of the date of rejection;  (b) If the Commission rejects the resource plan, the order rejecting the plan must specifically describe the deficiencies in the resource plan. In that event, the electric company must file a second recommended resource plan within 60 days of the order rejecting the original plan;  (c) If the Commission modifies the second recommended resource plan, the electric company will have 30 days from the date of the order to accept or reject the modifications. If the electric company rejects the Commission's modifications, future attempts at reaching a resource plan may be initiated by either the electric company or the Commission. The timelines outlined in subsection (4)(a) of this rule shall apply once a new resource plan is submitted or modifications to a former plan are suggested.  (5) A resource plan that has been recommended by the electric company and approved by the Commission, or modified by the Commission and accepted by the electric company, is referred to in these rules as a "Resource Plan." The Resource Plan may encompass one plan or a set of plan options corresponding to different assumptions about consumer eligibility for cost-of-service rates. The electric company must implement the Resource Plan consistent with OAR 860-038-0100 and a process for administrative valuation to be specified by rule. The ongoing valuation method, as described in 860-038-0140, will be used to establish transition charges and credits for resources that have not been sold or administratively valued.  (6) For a multi-state electric company, pending the implementation of a Resource Plan and establishing final values for generating resources in accordance with these rules, the following will guide developing rates for Oregon consumers of the electric company for the period March 1, 2002, through December 31, 2003:  (a) Cost-of-service rates will be based upon traditional allocation methods;  (b) Transition charges or credits shall not include assumed costs and revenues of the portion of generating resources not needed to serve Oregon loads associated with residential and small nonresidential consumers choosing portfolio access, small nonresidential consumers choosing direct access or standard offer rate options, and large nonresidential consumers when, and to the extent, the costs and revenues of the generating resources that are not needed are recognized and included in the electric company's revenue requirement in another state, less the costs and revenues of such generating resources which have been included in the electric company's revenue requirement by another state prior to October 1, 2001; and  (c) Beginning January 1, 2004, transition charges and transition credits will be calculated without regard to subsection (7)(b) of this rule. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 183, 756 & 757 
+ 
+ 
+ Statutes/Other Implemented:  ORS 756.040 & 757.600 - 757.667 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 3-2011, f. & cert. ef. 6-17-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 18-2002, f. & cert. ef. 10-17-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 24-2001, f. 10-25-01, cert. ef. 10-31-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 20-2001, f. 8-1-01, cert. ef. 8-4-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 14-2001, f. & cert. ef. 5-25-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 12-2001(Temp), f. & cert. ef. 5-4-01 thru 10-30-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 6-2001(Temp), f. & cert. ef. 3-1-01 thru 8-27-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 5-2001(Temp), f. & cert. ef. 2-6-01 thru 8-4-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 17-2000, f. & cert. ef. 9-29-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

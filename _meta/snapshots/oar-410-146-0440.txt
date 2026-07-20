@@ -1,0 +1,328 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 146 AMERICAN INDIAN/ALASKA NATIVE 
+ 410-146-0440 
+ Prepaid Health Plan Supplemental Payments
+ 
+ 
+ (1) Effective January 1, 2001, the Division is required by 42 USC 1396a(bb) to make supplemental payments to eligible Federally Qualified Health Centers (FQHC) and Rural Health Clinics (RHC) that contract with Prepaid Health Plans (PHP). American Indian/Alaska Native (AI/AN) program providers that are not FQHCs and that elect to receive payment under Title XIX and XXI according to the Indian Health Services (IHS) rate under the Memorandum of Agreement (MOA) effective July 11, 1996 will also be eligible to receive supplemental payments in the same manner as an FQHC under 1902(bb)(5). 
+
+ (2) IHCPs reimbursed according to a cost-based rate under the Prospective Payment System (PPS) are directed to Oregon administrative rule (OAR) 410-147-0460, Prepaid Health Plan Supplemental Payments. 
+
+ (3) The PHP supplemental payment represents the difference, if any, between the payment received by the IHCP from the PHP for treating the PHP enrollee and the payment to which the IHCP would be entitled if they had billed the Division directly for these encounters according to the clinic’s IHS rate. 
+
+ (4) In accordance with federal regulations, the provider must take all reasonable measures to ensure that in most instances, with the exception of IHS or designated Tribal funds, Medicaid shall be the payer of last resort. Providers must make reasonable efforts to obtain payment first from other resources before submitting claims to the PHP (refer to OAR 410-120-1140, Verification of Eligibility). 
+
+ (5) When any other coverage is known to the provider, the provider must bill the other resource prior to billing the PHP. When a provider receives a payment from any source prior to the submission of a claim to the PHP, the amount of the payment must be shown as a credit on the claim in the appropriate field (see OAR 410-120-1280, Billing and 410-120-1340, Payment). 
+
+ (6) Supplemental payment by the Division for encounters submitted by IIHCPs for purposes of this rule is reduced by any and all payments received by the IHCP from outside resources, including Medicare, private insurance, or any other coverage. IHCPs are required to report all payments received on the Managed Care Data Submission Worksheet, including: 
+
+ (a) Medicaid PHPs; 
+
+ (b) Medicare Advantage Managed Care Organizations (MCO); 
+
+ (c) Medicare, including Medicare MCO supplemental payments; and 
+
+ (d) Any third party resources (TPR). 
+
+ (7) The Division shall calculate the PHP supplemental payment in the aggregate of the difference between total payments received by the IHCP to include payments as listed in section (6) of this rule and the payment to which the IHCP would have been eligible to claim as an encounter if they had billed the Division directly according to the IHS encounter rate. 
+
+ (8) IHCPs must submit their clinic’s data using the Managed Care Data Submission Template developed by the Division to report all PHP encounter and payment activity. 
+
+ (9) To facilitate the Division processing PHP supplemental payments, the IHCP must submit the following: 
+
+ (a) To PHPs: 
+
+ (A) Claims within the required timelines outlined in the contract with the PHP and in OAR 410-141-0420, Oregon Health Plan Prepaid Health Plan Billing Payment under the OHP; 
+
+ (B) The AI/AN National Provider Identifier (NPI) number and applicable associated taxonomy code registered with the Division for the health center must be used when submitting all claims to the PHPs. 
+
+ (b) To the Division: 
+
+ (A) Report total payments for all services submitted to the PHP: 
+
+ (i) Including laboratory, radiology, nuclear medicine, and diagnostic ultrasound; and 
+
+ (ii) Excluding any bonus or incentive payments. 
+
+ (B) Report total payments for each category listed in the “Amounts Received during the Settlement Period” section of the Managed Care Data Submission Template coversheet; 
+
+ (C) Payments must be reported at the detail line level on the Managed Care Data Submission Template worksheet, except for capitated payments, or per member per month and risk pool payments received from the PHP; 
+
+ (D) The total number of actual encounters. An encounter represents all services for a like service element (medical, dental, mental health, or alcohol and chemical dependency) provided to an individual client on a single date of service. The total number of encounters is not the total number of clients assigned to the IHS or Tribal 638 facility or the total detail lines submitted on the Managed Care Data Submission Template worksheet; 
+
+ (E) A list of individual practitioners with active Division enrollment including names, legacy Division provider number, and NPI number assigned to practitioners associated with the IHS or Tribal 638 facility. “Associated” refers to a practitioner who is either subcontracted or employed by the IHCP; 
+
+ (F) A current list of all PHP contracts. An updated list of all PHP contracts must be submitted annually to the Division no later than October 31 of each year. 
+
+ (10) PHP supplemental payment process: 
+
+ (a) The Division processes PHP supplemental payments on a quarterly basis. The quarterly settlement includes a final reconciliation for the reported time period; 
+
+ (b) Upon processing a clinic’s data and the PHP supplemental payment, the Division shall: 
+
+ (A) Send a check to the IHCP for PHP supplemental payment calculated from clinic data the Division was able to process; 
+
+ (B) Provide a cover letter and summary of the payment calculation; and 
+
+ (C) Return data that is incomplete, unmatched, or cannot otherwise be processed by the Division. 
+
+ (c) The IHCP is responsible for reviewing the data the Division was unable to process for accuracy and completeness. The clinic has 30 days from the date of the Division’s cover letter under section (9) of this rule to make any corrections to the data and resubmit to the Division for processing. Documentation supporting any and all changes must accompany the resubmitted data. A request for extension must be received by the Division prior to expiration of the 30 days and must: 
+
+ (A) Be in writing; 
+
+ (B) Be accompanied by a cover letter fully explaining the reason for the late submission; and 
+
+ (C) Provide an anticipated date for providing the Division the clinic's resubmitted data and supporting documentation. 
+
+ (d) Within 30 days of the Division’s receipt of the re-submitted data, the Division shall: 
+
+ (A) Review the data and issue a check for all encounters the Division verifies to be valid; and 
+
+ (B) For quarterly data submissions, send a letter outlining the final quarterly settlement including any other pertinent information to accompany the check. 
+
+ (e) The IHCP must submit data to the Division within the timelines provided by the Division. 
+
+ (11) Clinics must carefully review in a timely fashion the data that the Division was unable to process and returns to the IHCP. If clinics do not bring any incomplete, inaccurate, or missing data to the Division’s attention within the time frames outlined, Division may not process an adjustment. 
+
+ (12) The Division encourages IHCPs to request PHP supplemental payment in a timely manner. 
+
+ (13) Clinics must exclude from a clinic’s data submission for PHP supplemental payment services provided to a PHP-enrolled non-AI/AN client denied by the PHP because the clinic does not have a contract or agreement with the PHP. This may not apply to family planning services or HIV/ AIDS prevention services. Family planning and HIV/AIDS prevention services provided to a PHP-enrolled client when a clinic does not have a contract or agreement with the PHP: 
+
+ (a) Must be reported in the clinic’s data submission for PHP supplemental payment if the clinic receives payment from the PHP; 
+
+ (b) May not be reported in the clinic’s data submission for PHP supplemental payment if the clinic is denied payment by the PHP. If the PHP denies payment to the clinic, the clinic may bill these services directly to the Division. 
+
+ (14) If a PHP denies payment to a contracted IHCP for all services, items, and supplies provided to a client on a single date of service and meeting the definition of an “encounter” as defined in OAR 410-146-0085 for the reason that all services, items, and supplies are non-covered by the plan, the Division may or may not make a supplemental payment to the clinic. The following examples are excluded from the provision of this rule: 
+
+ (a) Encounters that will later be billed to the PHP as a covered global procedure (e.g., Obstetrics Global Encounter); 
+
+ (b) If payment received by Medicare and any other third party resource does not exceed the payment the PHP would have made, the PHP would make payment; 
+
+ (c) At least one of the detail lines reported for all services, items and supplies provided to a client on a single date of service and represents an “encounter,” has a reported payment amount by the PHP. 
+
+ (15) The Division may not reimburse some Medicaid-covered services that are only reimbursed by PHPs and are not reimbursed by the Division. The Division may not make PHP supplemental payment for these services, as the Division does not reimburse these services when billed directly to the Division. 
+
+ (16) It is the responsibility of the IHCP to refer PHP-enrolled non-AI/AN clients back to their PHP if the IHCP does not have a contract with the PHP, and the service to be provided is not family planning or HIV/AIDS prevention. The provider assumes full financial risk in serving a person not confirmed by the Division as eligible on the date of service. See OAR 410-120-1140, Verification of Eligibility. The provider must verify: 
+
+ (a) That the individual receiving medical services is eligible on the date of service for the service provided; and 
+
+ (b) Whether a client is enrolled with a PHP or receives services on an “open card” or fee-for-service basis. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042 & ORS 414.065 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.065 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 42-2017, amend filed 10/03/2017, effective 10/03/2017 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 7-2011, f. 6-6-11, cert. ef. 7-1-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 34-2008, f. 11-26-08, cert. ef. 12-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 24-2008, f. 6-13-08, cert. ef. 7-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 19-2007, f. 12-5-07, cert. ef. 1-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 62-2004, f. 9-10-04, cert. ef. 10-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

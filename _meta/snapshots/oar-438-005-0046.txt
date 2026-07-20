@@ -1,0 +1,453 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Workers' Compensation Board - Chapter 438 
+ 
+ 
+ 
+ 
+ Division 5 ADOPTION; DEFINITIONS; CONSTRUCTION; NOTICES REQUIRED 
+ 438-005-0046 
+ Filing and Service of Documents; Correspondence
+ 
+ 
+ (1) Filing: 
+
+ (a) Except as otherwise provided in these rules, "filing" means the physical delivery of a thing to any permanently staffed office of the Board, or the date of mailing; 
+
+ (b) In addition to the procedures otherwise described in these rules, "filing" may also be accomplished in the manner prescribed in OAR chapter 436, division 009 or 010 for filing a request for administrative review with the Director provided that the request involves a dispute that requires a determination of either the compensability of the medical condition for which medical services are proposed or whether a sufficient causal relationship exists between medical services and an accepted claim to establish compensability; 
+
+ (c) If filing of a request for hearing or Board review of either an Administrative Law Judge's order or a Director's order finding no bona fide medical services dispute is accomplished by mailing, it shall be presumed that the request was mailed on the date shown on a receipt for registered or certified mail bearing the stamp of the United States Postal Service showing the date of mailing. If the request is not mailed by registered or certified mail and the request is actually received by the Board after the date for filing, it shall be presumed that the mailing was untimely unless the filing party establishes that the mailing was timely; 
+
+ (d) If a settlement stipulation, disputed claim settlement, or claim disposition agreement results from a mediation, "filing" also includes the physical delivery of the settlement stipulation, disputed claim settlement, or claim disposition agreement to the Administrative Law Judge who mediated the settlement or agreement, regardless of location. 
+
+ (e) The following things may be filed by electronic mail (e-mail) pursuant to subsection (f) of this section: 
+
+ (A) Request for hearing; 
+
+ (B) Request for Board review of an Administrative Law Judge's order; 
+
+ (C) Request for Board review of a Director's order finding no bona fide medical services dispute; 
+
+ (D) Request for extension of the briefing schedule under OAR 438-011-0020; 
+
+ (E) Request for waiver of the Board's rules under OAR 438-011-0030; or 
+
+ (F) Response to issues under OAR 438-006-0036. 
+
+ (f) To electronically file the requests listed in subsection (e) of this section by e-mail, a party shall: 
+
+ (A) Send an e-mail to: request.wcb@wcb.oregon.gov; and 
+
+ (B) Attach an electronic copy of a completed Workers' Compensation Board "Request for Hearing Form," or a completed request for Board review, or a completed request for extension of the briefing schedule, or a completed request for waiver of the Board's rules, or a completed Board "Response to Issues Form." These attachments must be in a format that can be viewed by the Board. Strict compliance with paragraph (B) of this subsection is not jurisdictional. Also, consistent with the Board’s policy in OAR 438-005-0035(3), an unrepresented party shall not be held strictly accountable for failure to comply with Board rules. 
+
+ (C) For purposes of this rule, the date of an electronic filing is determined by the date the Board receives the e-mail described in paragraph (A) of this subsection. An electronic filing under subsections (e) and (f) of this section received by the Board by 11:59 p.m. of a non-holiday, weekday is filed on that date. 
+
+ (g) The following things may be filed by website portal pursuant to subsection (h) of this section: 
+
+ (A) All actions described in subsection (e) of this section; and 
+
+ (B) Filing of any other thing that the Board makes available for filing by website portal. 
+
+ (h) To electronically file the things listed in subsection (g) of this section by website portal, a party shall: 
+
+ (A) Register as a "user" of the portal at: https://portal.wcb.oregon.gov; and 
+
+ (B) For subparagraph (g)(A) of this section, as appropriate, complete the electronic version of the Workers' Compensation Board "Request for Hearing Form," or complete a request for Board review, or complete a request for extension of a briefing schedule, or complete a request for waiver of the Board's rules, or complete a Board "Response to Issues Form"; or 
+
+ (C) For subparagraph (g)(B) of this section, complete the appropriate items on the website portal. 
+
+ (D) For the purposes of this rule, the date of a portal filing is determined by the date the Board receives the appropriate portal version of the form. 
+
+ (E) A portal filing under subsections (g) and (h) of this section received by the Board by 11:59 p.m. of a non-holiday, weekday is filed as of that date. 
+
+ (i) "Filing" includes the submission of any document (other than the exchange of exhibits and indexes under OAR 438-007-0018) to any permanently staffed office of the Board by means of a telephone facsimile communication device (FAX) provided that: 
+
+ (A) The document transmitted indicates at the top that it has been delivered by FAX; 
+
+ (B) The Board's facsimile transmission number is used; and 
+
+ (C) The Board receives the complete FAX-transmitted document by 11:59 p.m. of a non-holiday, weekday. 
+
+ (j) Except for the documents specified in subsections (c), (e), or (g) of this section, filing of any other thing required to be filed within a prescribed time may be accomplished by mailing by first class mail, postage prepaid. An attorney's certificate that a thing was deposited in the mail on a stated date is proof of mailing on that date. If the thing is not received within the prescribed time and no certificate of mailing is furnished, it shall be presumed that the filing was untimely unless the filing party establishes that the filing was timely. 
+
+ (2) Service: 
+
+ (a) A true copy of any thing delivered for filing under these rules shall be simultaneously served personally, by means of a facsimile transmission, by means of e-mail or website portal regarding requests, responses, or any other thing filed under OAR 438-005-0046(1)(e), (f), (g), or (h), or by mailing by first-class mail, postage prepaid, through the United States Postal Service, to each other party, or to their attorneys. Service by mail is complete upon mailing, service by facsimile transmission is complete upon disconnection following an error-free transmission, and service by e-mail or website portal regarding requests, responses, or any other thing filed under 438-005-0046(1)(e), (f), (g), or (h), is complete upon successful transmission, provided that the copy is sent in a format readable by the recipient; 
+
+ (b) Any thing delivered for filing under these rules shall include or have attached thereto either an acknowledgment of service by the person served or proof of service in the form of a certificate executed by the person who made service showing personal delivery, service by means of a facsimile transmission, service by means of e-mail or website portal regarding requests, responses, or any other thing filed under OAR 438-005-0046(1)(e), (f), (g), or (h), or deposit in the mails together with the names and addresses of the persons served. 
+
+ (3) Correspondence. All correspondence to the Board shall be captioned with the name of the claimant, the WCB Case number and the insurer or self-insured employer claim number. Correspondence to the Hearings Division shall also be captioned with the date of the hearing and name of the assigned Administrative Law Judge, if any. 
+
+ (4) Signatures. 
+
+ (a) Any thing delivered for filing under these rules shall include the signature of the party or the party's attorney, which may be provided in writing, by facsimile transmission, by electronic scanning, by the website portal, or by other electronic means. 
+
+ (b) The user name and password required to file a document with the Board by means of the website portal shall constitute the signature of the filer and for any other purpose for which a signature is required. 
+
+ (c) Except for documents filed under subsection (b) of this section, any document filed by electronic means must include a signature block that includes the printed name of the filer, preceded by an electronic symbol intended to substitute for a signature (such as a scan of the filer's handwritten signature or "s/") in the space where the signature would otherwise appear. 
+
+ (d) Any order, notice, or any other document issued by an Administrative Law Judge or a Board Member may include their signature in writing, by facsimile transmission, by electronic scanning, by the website portal, or by other electronic means permitted under the Board's rules. 
+
+ (e) Any electronically transmitted signature shall have the same force and effect as an original signature, provided that the electronically transmitted signature is executed or adopted by a person with the intent to sign the document as prescribed in ORS Chapter 84 (Uniform Electronic Transactions Act). 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 656.726(5) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 656.726(5) 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCB 22-2022, amend filed 07/11/2022, effective 10/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCB 2-2022, minor correction filed 03/15/2022, effective 03/15/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCB 1-2016, f. 9-15-16, cert. ef. 11-1-16 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCB 1-2014, f. 6-20-14, cert. ef. 9-1-14 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCB 2-2013, f. 12-10-13, cert. ef. 4-1-14 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCB 1-2012, f. 8-22-12, cert. ef. 11-1-12 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCB 2-2007, f. 12-11-07, cert. ef. 1-1-08 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCB 1-2007, f. 1-19-07, cert. ef. 3-1-07 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCB 1-2000, f. 3-29-00, cert. ef. 4-3-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCB 1-1999, f. 8-24-99, cert. ef. 11-1-99 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCB 2-1999(Temp), f. 9-24-99, cert. ef. 10-23-99 thru 4-14-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCB 8-1991, f. 11-6-91, cert. ef. 11-7-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCB 3-1991(Temp), f. 5-24-91, cert. ef. 5-28-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCB 11-1990, f. 12-13-90, cert. ef. 12-31-90 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ Reverted to WCB 5-1987, f. 12-18-87, cert. ef. 1-1-88 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCB 7-1990(Temp), f. 6-14-90, cert. ef. 7-1-90 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCB 5-1987, f. 12-18-87, cert. ef. 1-1-88 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

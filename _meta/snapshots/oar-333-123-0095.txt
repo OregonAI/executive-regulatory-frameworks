@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 123 THERAPEUTIC RADIATION MACHINES 
+ 333-123-0095 
+ Electronic Brachytherapy Source Calibration Measurements 
+ 
+ (1) Calibration of the electronic brachytherapy source output for an electronic brachytherapy device shall be performed by, or under the direct supervision of a Qualified Medical Physicist.  (2) Calibration of the electronic brachytherapy source output shall be made for each electronic brachytherapy source annually, or after any repair affecting the X-ray beam generation, or when indicated by the electronic brachytherapy source quality assurance checks.  (3) Calibration of the electronic brachytherapy source output shall utilize a calibration procedure in accordance with OAR 333-123-0010(5). The dosimetry system shall have been calibrated at the applicable electronic brachytherapy source energy.  (4) Calibration of the electronic brachytherapy source output shall include, as applicable, determination of:  (a) The output within two percent of the expected value, if applicable, or determination of the output if there is no expected value;  (b) Timer accuracy and linearity over the typical range of use;  (c) Proper operation of back-up exposure control devices;  (d) Evaluation that relative dose distribution around the source is within the limit recommended by the manufacturer or recommendations from a recognized national professional association in electronic brachytherapy (when available); and  (e) Source positioning accuracy to within 1 mm within the applicator.  (5) Calibration of the X-ray source output shall be in accordance with current published recommendations from a recognized national professional association with expertise in electronic brachytherapy (when available). In the absence of a calibration protocol published by a national professional association, the manufacturer’s calibration protocol shall be followed.  (6) The registrant shall maintain a record of each calibration in an auditable form for the duration of the registration. The record shall include:  (a) The date of the calibration;  (b) The manufacturer's name, model number and serial number for the electronic brachytherapy device and a unique identifier for its electronic brachytherapy source;  (c) The model numbers and serial numbers of the instrument(s) used to calibrate the electronic brachytherapy device; and  (d) The name and signature of the Qualified Medical Physicist responsible for performing the calibration. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 453.605 - 453.807 
+ 
+ 
+ Statutes/Other Implemented:  ORS 453.605 - 453.807 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 4-2013, f. & cert. ef. 1-29-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

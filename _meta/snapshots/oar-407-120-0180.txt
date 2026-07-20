@@ -1,0 +1,197 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Chapter 407 
+ 
+ 
+ 
+ 
+ 
+ Division 120 PROVIDER RULES 
+ 407-120-0180 
+ Record Retention and Audit 
+ 
+ (1) Records Retention. A provider, web portal submitter, trading partner, and EDI submitter shall maintain, for a period of no less than seven years from the date of service, complete, accurate, and unaltered copies of all source documents associated with all data transmissions.  (2) EDI Trade Data Log. An EDI submitter must establish and maintain a trade data log that must record all data transmissions taking place between an EDI submitter and the Department during the term of a TPA. A trading partner and EDI submitter must take necessary and reasonable steps to ensure that the trade data log constitutes a current, truthful, accurate, complete, and unaltered record of all data transmissions between the parties and must be retained by each party for no less than 24 months following the date of the data transmission. The trade data log may be maintained on electronic media or other suitable means provided that, if necessary, the information may be timely retrieved and presented in readable form.  (3) Right to Audit. A provider must allow and require any web portal submitter to allow, and a trading partner must allow and require an EDI submitter or other agent to allow access to the Department, the Oregon Secretary of State, the Oregon Department of Justice Medicaid Fraud Unit, or its designees, and DHHS or its designees to audit relevant business records, source documents, data, data transmissions, trade data logs, or information systems of a provider and its web portal submitter, and a trading partner, and its agents, as necessary, to ensure compliance with these rules. A provider must allow and require its web portal submitter to allow, and a trading partner must allow and require an EDI submitter or other agent to allow the Department, or its designee, access to ensure that adequate security precautions have been made and are implemented to prevent unauthorized disclosure of any data, data transmissions, or other information. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 409.050 & 414.065 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.065 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 410-001-0180, DHSD 1-2008, f. & cert. ef. 2-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 30-2007(Temp), f. 12-31-07, cert. ef. 1-1-08 thru 6-28-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 55-2003, f. & cert. ef. 8-22-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 25-2003(Temp), f. & cert. ef. 3-21-03 thru 9-8-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

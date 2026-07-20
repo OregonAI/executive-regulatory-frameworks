@@ -1,0 +1,218 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 215 OREGON GREENHOUSE GAS REPORTING PROGRAM 
+ 340-215-0110 
+ Requirements for Fuel Suppliers and In-State Producers 
+ 
+ Fuel suppliers and in-state producers including but not limited to gasoline, distillate fuel oil, propane, and aircraft fuel dealers required to register and report under OAR 340-215-0030(3), but not including natural gas suppliers, must: 
+
+ (1) Report all quantities of fuel disbursed in the state by fuel type, regardless of whether the fuel is intended for transportation or non-transportation use and regardless of whether the fuel is subject to state or federal fuel taxes. Such reports must include the fuel type and quantity imported, sold, or distributed in this state during the previous year and quantities must be reported in standard cubic feet for gaseous fuels and gallons for liquid fuels. In addition: 
+
+ (a) Fuel suppliers and in-state producers who report biomass-derived fuels must provide supporting documentation as required under OAR 340-215-0044(5); and 
+
+ (b) Meeting the requirements of this division does not replace the requirements that must be met in order to satisfy the requirements of OAR chapter 340, division 253 for any given fuel supplier subject to the Oregon Clean Fuels Program (CFP); 
+
+ (2) For reporting of regulated fuels as defined under OAR chapter 340, division 253, comply with OAR chapter 340 division 253 and submit quarterly and annual reports. In annual reports, persons dealing in regulated fuels as defined by OAR 340-253-0200(2) may further report fuel volumes by individual fuel type as defined in 40 C.F.R. part 98 subpart MM. If volumes are not reported by individual fuel type, default emission factors defined in 40 C.F.R. part 98 subpart MM must be used for emissions calculation purposes; 
+
+ (3) For reporting all other fuels not reported as regulated fuels under section (2) including, but not limited to, importers and producers of opt-in fuels and small importers of finished fuels as defined by OAR 340-253-0040(86), report fuel imported or produced in the state during the previous year by fuel type as defined in 40 C.F.R. part 98 subpart MM. Report as follows: 
+
+ (a) For fuel imported outside of the bulk system report the type and quantity in temperature corrected (net) gallons of fuel the fuel supplier held title to or owned at the time the fuel is brought into Oregon from out of state or produced in Oregon that is delivered directly to intermediate storage, retail, or end users. Exclude fuel imported outside of the bulk system and delivered to a terminal storage facility in Oregon; 
+
+ (b) Oregon position holders must report the type and quantity in temperature corrected (net) gallons of fuel owned and dispersed from terminals in Oregon as reflected in the records of the terminal operator. Exclude fuel that is transferred: 
+
+ (A) From one terminal storage facility in Oregon to another terminal storage facility in Oregon; and 
+
+ (B) Between entities within the terminal. Regulated entities must only report fuel that is owned as it is disbursed from the terminal; 
+
+ (c) If formulations are unknown for a given quantity of gasoline, report that quantity of gasoline using the fuel type “Gasoline formulation unknown.” If distillate or residual fuel oil numbers are unknown for a given quantity of distillate fuel oil, report that quantity using the fuel type “Diesel type unknown;” and 
+
+ (d) Regulated entities must exclude ; gallons that the regulated entity imported or dispensed as a position holder in Oregon and that were subsequently exported out of state. Exported volumes must be excluded based on documentation that meets the requirements of this division, as typically provided in a bill of lading or product transfer document. Regulated entities must report all volumes of fuel imported or dispensed from a position holder in Oregon that are not documented as exported; 
+
+ (4)(a) Fuel suppliers exporting fuel dispensed from a terminal in Oregon (each an “exporter”) must notify the position holder owning title to that fuel as it was dispensed if the product transfer documents issued at the terminal do not accurately reflect the state where the fuel was ultimately delivered.  The notification must: 
+
+ (A) Occur 30 calendar days prior to the reporting deadline; and 
+
+ (B) Include fuel types, volumes and delivery destination, based on documentation; 
+
+ (b) For fuel that was (i) delivered from the terminal to an intermediate storage location and then exported after being dispensed from intermediate storage, (ii) commingled with the same type of fuel, and (iii) purchased from multiple position holders, the exporter must inform position holders of the exports using the following method: The exporter must calculate the total exports from that intermediate storage tank by calendar quarter and fully tabulate which position holders it purchased fuel from and that was delivered to intermediate storage for that quarter. The exporter must then apportion the exported gallons to the position holders based on the percentage of fuel that the exporter purchased from each of the position holders in the calendar quarter. The entity exporting the fuel must provide written documentation to the position holder that it used this method to apportion the exports.  Documentation must be made available to DEQ and the impacted position holder within 14 calendar days of a request from either DEQ or the position holder; and 
+
+ (5) For all fuel suppliers and in-state producers, calculate and report the CO2, CO2 from biomass-derived fuels, CH4, N2O, and CO2e emissions in metric tons that would result from the complete combustion or oxidation of the annual quantity of fuel imported, sold, or distributed for use in this state. In such reports, GHG emissions must be calculated as follows: 
+
+ (a) Utilize emission quantification methodology prescribed in 40 C.F.R. part 98 subpart MM and equation MM-1 as specified in 40 C.F.R. 98.393(a)(1) to calculate the CO2 emissions and CO2 from biomass-derived fuels that would result from the complete combustion of the fuel reported under this division; 
+
+ (b) Calculate CH4 and N2O emissions using equation C–8 and Table C-2 as required in 40 C.F.R. 98.33(c)(1); and 
+
+ (c) Utilize a DEQ assigned emission factor for fuel and emission types not listed in 40 C.F.R. part 98. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468A.050 & 468A.280 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468 & 468A 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 17-2023, amend filed 11/16/2023, effective 11/16/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 14-2020, adopt filed 05/07/2020, effective 05/07/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

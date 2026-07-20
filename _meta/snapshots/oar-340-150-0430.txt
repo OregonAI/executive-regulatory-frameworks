@@ -1,0 +1,228 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 150 UNDERGROUND STORAGE TANK RULES 
+ 340-150-0430 
+ Inventory Control Method of Release Detection
+ 
+ 
+ (1) An owner and permittee using inventory control as a release detection method must meet this rule’s requirements. Inventory control may not be used as a release detection method for underground piping. 
+
+ (2) Use of inventory control as a release detection method is allowed for a period of: 
+
+ (a) Ten years after the installation of the UST system; or 
+
+ (b) Ten years after the UST system achieved compliance with corrosion protection requirements; except 
+
+ (c) In no case may inventory control be used as a primary release detection method after December 22, 2008; and 
+
+ (d) After the period of use has expired as listed in subsections (a) through (c) of this section, an owner and permittee must use one of the release detection methods in OAR 340-150-0435 or 340-150-0450 through 340-150-0470. 
+
+ (3) Regulated substance (i.e., product) inventory control must be recorded daily and reconciled monthly to detect a release of at least 1.0 percent of flow-through plus 130 gallons on a monthly basis. 
+
+ (4) Inventory volume measurements for regulated substance inputs (deliveries), withdrawals and the amount still remaining in the UST must be recorded each operating day. 
+
+ (5) The equipment used to measure the level of regulated substance in the UST (e.g., stick or automatic tank gauge) must be capable of measuring the level of the regulated substance over the full range of the tank's height to the nearest one-eighth of an inch. 
+
+ (6) Regulated substance inputs must be reconciled with delivery receipts by measuring the tank inventory volume before and after each delivery. 
+
+ (7) Regulated substance deliveries must be made through a drop tube that extends to within one foot of the tank bottom. To meet Stage I air quality vapor control requirements, drop tubes must be within six inches of the tank bottom. 
+
+ (8) Regulated substance dispensing must be metered and recorded within the local standards for meter calibration or an accuracy of six cubic inches for every five gallons of the regulated substance withdrawn. 
+
+ (9) The measurement of any water level in the bottom of the tank must be made to the nearest one-eighth of an inch at least once a month. 
+
+ (10) Any monthly inventory reconciliation (positive or negative) that exceeds the comparison number of 1.0 percent of flow-through plus 130 gallons or greater leak rate in any single month is considered to be a release detection failure. If this occurs, an owner and permittee must: 
+
+ (a) Report to DEQ a release detection failure that occurs for two consecutive months within 24 hours as a suspected release (OAR 340-150-0500) and immediately begin investigation as 340-150-0510 specifies; and 
+
+ (b) Immediately investigate all larger-than-normal or reoccurring variations in results, including widely fluctuating water levels in the UST, and report such variations to DEQ as a suspected release if the variation cannot be accounted for, without waiting to obtain a second month of data. 
+
+ (11) An owner and permittee must have USTs tightness tested (OAR 340-150-0445) at least once every five years when inventory control is used as the sole or primary release detection method. 
+
+ (12) An owner and permittee must retain at a minimum the most current 12 consecutive months of release detection records and the last two tightness test results. 
+
+ (13) An owner and permittee may use the practices described in the American Petroleum Institute RP 1621, "Bulk Liquid Stock Control at Retail Outlets” to comply with the requirements of this rule. 
+
+ [Note: Publications referenced are available from DEQ or from the publisher.] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 466.706 - 466.835, 466.994 & 466.995 
+ 
+ 
+ Statutes/Other Implemented:  ORS 466.746 & 466.765 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 188-2018, amend filed 05/14/2018, effective 06/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 3-2008, f. 2-29-08, cert. ef. 3-10-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 6-2003, f. & cert. ef. 2-14-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

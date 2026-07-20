@@ -1,0 +1,244 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 308 ASSESSMENT OF PROPERTY FOR TAXATION 
+ 150-308-0110 
+ Reduction of Maximum Assessed Value (MAV) for Property Destroyed or Damaged by Fire or Act of God
+ 
+ 
+ (1) "Fire or act of God" has the same meaning and restrictions as used in ORS 308.425 including the arson restriction of ORS 308.429. 
+
+ (2) As used in ORS 308.146(5)(a), "reduction in real market value" means that the total real market value (RMV) after adjustment is less than it would otherwise have been, had the damage or destruction by fire or act of God not occurred. 
+
+ (3) When a portion of property is destroyed or damaged by fire or act of God, use the following procedure to adjust MAV for the year in which the destruction or damage is reflected by a reduction in RMV. 
+
+ Note: An example is incorporated into the steps with the following assumptions: 
+
+ 2008-09 MAV = $187,379 
+
+ 2008-09 (1-1-08) total RMV equals $300,000. 
+
+ 2008-09 assessed value (AV) = $187,379. 
+
+ 9-1-08 the house is destroyed by fire. The house RMV for 1-1-08 was $180,000. 
+
+ There is no market trending in this area. 
+
+ Step 1: Multiply the prior year AV by 1.03. Compare the result to the prior year MAV to determine the larger amount. The larger amount becomes the current year MAV (unadjusted) as if the account had not changed, i.e., the larger of: Prior year AV x 1.03 or prior year MAV = current year MAV of unchanged account. 
+
+ Example: Larger of: $187,379 x 1.03 = $193,000 or $187,379. Current year MAV = $193,000. 
+
+ Step 2: Determine the prior year’s RMV for the affected portion. The affected portion is that part of the property that was destroyed or damaged by fire or act of God. The RMV of the loss is the RMV of the affected portion. 
+
+ Example: RMV of affected portion equals $180,000. 
+
+ Step 3: Subtract the RMV of the affected portion (Step 2) from the prior year total RMV to determine the RMV of the unaffected portion, i.e., the prior year total RMV - RMV of the affected portion = RMV of the unaffected portion. 
+
+ Example: $300,000 - $180,000 = $120,000. 
+
+ Step 4: Divide the RMV of the unaffected portion (Step 3) by the total prior year RMV to determine the percentage of unaffected property, i.e., the RMV of the unaffected portion / total prior year RMV = percentage of unaffected property. 
+
+ Example: $120,000 / $300,000 = 40% 
+
+ Step 5: Multiply the unadjusted MAV (Step 1) by the percentage of unaffected property (Step 4) to determine MAV that has been adjusted to reflect the loss from fire or act of God (MAV attributable to the unaffected portion only), i.e., the unadjusted MAV x percentage of unaffected property = MAV adjusted to reflect the loss from fire or act of God. 
+
+ Example: $193,000 x 40% = $77,200. 
+
+ (5) As used in section (4), the "year" in which the RMV is reduced due to fire or act of God can be either: 
+
+ (a) The assessment year. 
+
+ (b) The tax year if RMV is determined as of July 1 under ORS 308.146(6) or 308.428. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 
+ 
+ 
+ Statutes/Other Implemented:  ORS 308.146 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 4-2026, minor correction filed 03/10/2026, effective 03/10/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 150-308.146(5)(a), REV 58-2016, f. 8-13-16, cert. ef. 9-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 5-2009, f. & cert. ef. 7-31-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 8-2000, f. & cert. ef. 8-3-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

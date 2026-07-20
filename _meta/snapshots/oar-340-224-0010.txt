@@ -1,0 +1,301 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 224 NEW SOURCE REVIEW 
+ 340-224-0010 
+ Applicability, General Prohibitions, General Requirements and Jurisdiction 
+ 
+ (1) Except as provided in subsection (c), the owner or operator of a source undertaking one of the following actions must comply with the applicable Major New Source Review requirements of OAR 340-224-0010 through 340-224-0070 and 340-224-0500 through 340-224-0540 for such actions prior to construction or operation:  (a) In an attainment, unclassified or sustainment area:  (A) Construction of a new federal major source;  (B) Major modification at an existing federal major source; or  (C) Major modification at an existing source that will become a federal major source because emissions of a regulated pollutant are increased to the federal major source level or more.  (b) In a nonattainment, reattainment or maintenance area:  (A) Construction of a new source that will emit 100 tons per year or more of the nonattainment, reattainment or maintenance pollutant;  (B) A major modification for the nonattainment, reattainment or maintenance pollutant, at an existing source that emits 100 tons per year or more of the nonattainment, reattainment or maintenance pollutant; or  (C) A major modification for the nonattainment, reattainment or maintenance pollutant, at an existing source that will increase emissions of the nonattainment, reattainment or maintenance pollutant to 100 tons per year or more.  (c) The owner or operator of a source is subject to Prevention of Significant Deterioration for GHGs under OAR 340-224-0070 if the owner or operator is first subject to OAR 340-224-0070 for a pollutant other than GHGs, and the source meets the criteria in paragraph (A) or (B);  (A) The source is a new source which will emit GHGs at a rate equal to or greater than the SER; or  (B) The source is an existing source which is undertaking a major modification for GHGs.  (2) Except as provided in subsection (c), the owner or operator of a source that is undertaking an action that is not subject to Major NSR under section (1) and is one of the actions identified in subsections (a) or (b) must comply with the applicable State New Source Review requirements of OAR 340-224-0010 through 340-224-0038, 340-224-0245 through 340-224-0270 and 340-224-0500 through 340-224-0540 for such action prior to construction or operation.  (a) In a nonattainment, reattainment or maintenance area:  (A) Construction of a new source that will have emissions of the nonattainment, reattainment or maintenance pollutant equal to or greater than the SER; or  (B) Major modification for the nonattainment, reattainment or maintenance pollutant, at an existing source that will have emissions of the nonattainment, reattainment or maintenance pollutant equal to or greater than the SER over the netting basis.  (b) In any designated area, for actions other than those identified in subsection (a):  (A) Construction of a new source that will have emissions of a regulated pollutant equal to or greater than the SER; or  (B) Increasing emissions of a regulated pollutant to an amount that is equal to or greater than the SER over the netting basis.  (c) GHGs are not subject to State NSR.  (d) Type A and Type B State NSR: State NSR actions are categorized as follows:  (A) Actions under subsection (a), and actions for which the source must comply with OAR 340-224-0245(2), are categorized as Type A State NSR actions; and  (B) Actions under subsection (b) are categorized as Type B State NSR unless the source must comply with OAR 340-224-0245(2).  (3) The owner or operator of a source subject to section (1) or (2) must apply this division based on the type of designated area where the source is located for each regulated pollutant, taking the following into consideration:  (a) The source may be subject to this division for multiple pollutants;  (b) Some pollutants, including but not limited to NOx, may be subject to multiple requirements in this division both as pollutants and as precursors to other pollutants;  (c) Every location in the state carries an area designation for each criteria pollutant and the entire state is treated as an unclassified area for regulated pollutants that are not criteria pollutants; and  (d) Designated areas may overlap.  (4) Where this division requires the owner or operator of a source to conduct analysis under or comply with a rule in OAR 340 division 225, the owner or operator must complete such work in compliance with OAR 340-225-0030 and 340-225-0040.  (5) Owners and operators of all sources may be subject to other DEQ rules, including, but not limited to, Notice of Construction and Approval of Plans (OAR 340-210-0205 through 340-210-0250), ACDPs (OAR 340 division 216), Title V permits (OAR 340 division 218), Highest and Best Practicable Treatment and Control (OAR 340-226-0100 through 340-226-0140), Emission Standards for Hazardous Air Contaminants (OAR 340 division 244), and Standards of Performance for New Stationary Sources (OAR 340 division 238), as applicable.  (6) An owner or operator of a source that meets the applicability criteria of sections (1) or (2) may not begin actual construction, continue construction or operate the source without complying with the requirements of this division and obtaining an air contaminant discharge permit (ACDP) issued by DEQ authorizing such construction or operation.  (7) Subject to the requirements in this division and OAR 340-200-0010(3), LRAPA is designated by the EQC to implement the rules in this division within its area of jurisdiction.  NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan as adopted by the EQC under OAR 340-200-0040. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, 468A.025, 468A.040, 468A.050, 468A.055, 468A.135 & 468A.155 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468A 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 7-2015, f. & cert. ef. 4-16-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 12-2014(Temp), f. & cert. ef. 11-12-14 thru 5-10-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 5-2011, f. 4-29-11, cert. ef. 5-1-11 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ Reverted to DEQ 1-2004, f. & cert. ef. 4-14-04 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 10-2010(Temp), f. 8-31-10, cert. ef. 9-1-10 thru 2-28-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 1-2004, f. & cert. ef. 4-14-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-1900 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 26-1996, f. & cert. ef. 11-26-96 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 19-1993, f. & cert. ef. 11-4-93 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 12-1993, f. & cert. ef. 9-24-93, Renumbered from 340-020-0220 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 4-1993, f. & cert. ef. 3-10-93 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 25-1981, f. & ef. 9-8-81 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

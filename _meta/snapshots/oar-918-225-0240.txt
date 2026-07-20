@@ -1,0 +1,280 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Building Codes Division - Chapter 918 
+ 
+ 
+ 
+ 
+ Division 225 BOILERS AND PRESSURE VESSELS 
+ 918-225-0240 
+ Definitions
+ 
+ 
+ As used in OAR 918, division 225, unless the context requires otherwise: 
+
+ (1) "Agricultural Purposes" means: 
+
+ (a) Sowing, tending, and harvesting of products of the soil grown under natural conditions; 
+
+ (b) Raising of poultry or fowl; 
+
+ (c) Pasturage or raising of livestock or other animals; or 
+
+ (d) Original processing of the farm product, but not the processing of the product of a different operator, or reprocessing work as freezing, canning, or packing if performed substantially for commercial purposes. 
+
+ (2) "Available" to determine inspection fees at cost, means the vessels must be due for inspection in the year the notification is applicable, and must all be ready for inspection at the time designated by the inspector. 
+
+ (3) "Board" is defined in ORS 480.515(2). 
+
+ (4) "Boiler Room" means any enclosed room or designated space within a building, intended by design or by usage to contain a boiler that is connected and available for use. A boiler located in an area not meeting the definition of "boiler room" under OAR 918-225-0465 shall apply to any space within 20 feet of any burner. 
+
+ (5) "Building Service Piping" means piping systems operating at or less than 150 psig steam; and water at or less than 160 psig and 250o F as described in ANSI/ASME Standard B31.9. 
+
+ (6) "Chief Inspector" means the inspector appointed by the director pursuant to ORS 480.565(1). 
+
+ (7) "Farm" means an area of land: 
+
+ (a) Located in a rural district; 
+
+ (b) Of sufficient size to generally be considered as a farm in its locale; and 
+
+ (c) Devoted primarily to tillage and raising crops under natural conditions, or to raising animals, fowl, or poultry. 
+
+ (8) "Emergency" as used in ORS 480.630(6) means an unplanned circumstance requiring immediate repair, installation, replacement, or shutdown because of risk to health, life, or property. 
+
+ (9) "Hobby" or "Demonstration" means recreational or other noncommercial use. 
+
+ (10) "Immediate Safety Hazard" means hazardous conditions exist requiring immediate correction to a boiler, pressure vessel, or pressure piping system to preserve the safety of people or property. 
+
+ (11) “Installation” means, but is not limited to, permanently placing in its final operating position, assembling, or connecting a boiler, pressure vessel, boiler controls, or related appurtenances for service or use. Installation includes, but is not limited to, connecting water, steam, air, refrigerant, fuel source, or other product piping to or from a boiler or pressure vessel. Merely transporting, moving or temporarily positioning a boiler or pressure vessel is not an installation. For the purposes of these rules, an electrical power supply connection to a boiler or pressure vessel is not an installation. 
+
+ (12) "National Board" means the National Board of Boiler and Pressure Vessel Inspectors. 
+
+ (13) "Operating" means any vessel connected and ready for service. 
+
+ (14) "Person" means any individual, partnership, corporation, association, governmental subdivision, or public or private organization of any character. 
+
+ (15) "Place of Public Assembly" means a building used or held for use, in whole or in part, for worship; health treatment; rest, recuperation, or retirement living; child care nurseries or institutions; public meetings; education; instruction; entertainment; eating; recreation; or awaiting transportation. 
+
+ (16) "Pressure Piping" means piping systems and components under the scope of ASME B31.1, B31.3, B31.5, and B31.9. 
+
+ (17) "Pressure Relief Valve" means pressure relief device designed to open by inlet static pressure  and to reclose after pressure has lowered below the set point. Only ASME approved valves are allowed under the boiler rules. 
+
+ (18) "Pressure Vessel" is defined in ORS 480.515(12). 
+
+ (19) "Process Piping Inspector" means the owner's inspector, for the inspection of ASME B31.3 Process Piping, Category "M" fluid service only. 
+
+ (20) "Psig" means pounds per square inch gauge pressure. 
+
+ (21) "Related Appurtenance" is defined in ORS 480.515(13). 
+
+ (22) “Repair” means: 
+
+ (a) Welded or Riveted Repairs, meaning welding or riveting within or on the pressure boundaries of a boiler, pressure vessel or related appurtenance to restore the vessel or appurtenance to a safe and satisfactory operating condition, or any work that might impair the integrity of the pressure retaining item; 
+
+ (b) Non-welded Major Repairs, meaning work performed on a boiler or pressure vessel and its related appurtenances by non-welded means to restore the vessel or appurtenance to a safe and satisfactory operating condition, including but not limited to the replacement of burners, tubes and cast iron sections; and 
+
+ (c) Minor Repairs, meaning the non-welded replacement of safety devices, including but not limited to, low water cut-offs, pressure relief valves, safety valves, safety switches, rupture discs, high pressure or temperature limits, low pressure or temperature limits, fuel train components, flame detectors, flame safeguards, heat exchanger elements, and burner components. 
+
+ (23) "Safety Valve" means a valve activated by inlet static pressure and characterized by rapid opening or pop action. Only ASME approved valves are allowed under the boiler rules. 
+
+ (24) "Same Location," to determine inspection fees at cost, means that all vessels are within 2,000 feet of one another. 
+
+ (25) "Service of Process" means deposit in the U.S. mail a copy of a notice addressed to the respondent at the respondent's last known address. 
+
+ (26) "Single Family Dwelling" means a one-family dwelling structure. 
+
+ (27) "Structure" means a building or shed with a roof and enclosed on the sides 75 percent or more. 
+
+ (28) "Traction Boiler" means a boiler constructed before January 1, 1961, designed to operate or pull equipment, or to convert steam power into a flywheel energy driving apparatus such as a thresher, road roller, or grinding equipment. 
+
+ (29) "Vessel That is Considered Subject to Corrosion or Erosion" means the vessel contains or is intended to contain contents having a corrosive or erosive effect on any portion of the vessel. The use of glass linings leaves a vessel subject to corrosion unless all portions of the vessel are impervious to the corrosive or erosive effects of the contents. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 455.030 & ORS 480.545 
+ 
+ 
+ Statutes/Other Implemented:  ORS 480.545, ORS 480.525, ORS 480.550, ORS 480.560 & ORS 480.565 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BCD 8-2021, amend filed 08/24/2021, effective 10/01/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BCD 36-2011, f. 12-30-11, cert. ef. 1-1-12 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ BCD 10-2009, f. 12-30-09, cert. ef. 1-1-10 
+BCD 14-2007, f. 12-28-07 cert. ef. 1-1-08 
+BCD 20-2005, f. 9-15-05, cert. ef. 10-1-05 
+BCD 17-2005(Temp), f. & cert. ef. 7-12-05 thru 9-30-05 
+BCD 4-2003, f. & cert. ef. 3-14-03 
+BCD 36-2000, f. 12-29-00, cert. ef. 1-1-01 
+BCD 26-1998, f. 12-30-98, cert. ef. 1-1-99 
+BCD 18-1997, f. 12-3-97, cert. ef. 1-1-98 
+BCA 36-1993, f. 12-30-93, cert. ef. 1-1-94, Renumbered from 918-225-0005 
+BCA 5-1991, f. & cert. ef. 3-15-91 
+BCA 4-1989, f. & cert. ef. 4-17-89, Renumbered from 814-025-0003 
+DC 1-1984, f. & cert. ef. 1-5-84 
+DC 3-1982, f. & cert. ef. 2-3-82 
+DC 17-1972, f. 7-31-72, cert. ef. 8-15-72 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,302 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Oregon Occupational Safety and Health Division - Chapter 437 
+ 
+ 
+ 
+ 
+ Division 4 AGRICULTURE 
+ 437-004-9000 
+ Oregon Rules for Air Contaminants
+ 
+ 
+ An employee’s exposure to any substance in Oregon Tables Z-1, Z-2, or Z-3 of this section must be limited in accordance with the requirements of the following paragraphs of this section. 
+(1) Oregon Table Z-1. 
+(a) Substances with limits preceded by “C” – ceiling values. An employee’s exposure to any substance in Oregon Table Z-1, the exposure limit of which is not preceded by a “C”, must at no time exceed the ceiling exposure limit given for that substance. If instantaneous monitoring is not feasible, then assess the ceiling as a 15-minute time-weighted average. This exposure level must never be exceeded at any time during the workday. 
+(b) Other substances — 8-hour time-weighted averages (PEL-TWA). An employee’s exposure to any substance in Oregon Table Z-1, the exposure limit of which is not preceded by a “C”, must not exceed the 8-hour Time-Weighted Average for that substance in any 8-hour shift of a 40-hour work week. 
+(c) Other substances — Excursion Limits. Excursions in exposure levels may be more than three times the PEL-TWA number for no more than a total of 30 minutes during a workday, and must never be more than five times the PEL-TWA, provided that the overall 8-hour PEL-TWA is not exceeded. 
+(d) Skin designation. To prevent or reduce skin absorption, you must prevent or reduce an employee’s skin exposure to substances listed in Oregon Table Z-1 with an “X” in the Skin designation column following the substance name. Prevent or reduce exposure to the extent necessary in the cirumstances through the use of gloves, coveralls, goggles, or other appropriate personal protective equipment, engineering controls or work practices. 
+(e) Oregon Table Z-1 in Division 4/Z, OAR 437-004-9000, has a complete list of regulated substances. If your operation exposes an employee to a substances listed in Oregon Table Z-1, and that substance includes a reference to another rule, that rule may apply to your circumstances. 
+(2) Oregon Table Z-2. An employee’s exposure to any substance listed in Oregon Table Z-2 must not exceed the following exposure limits: 
+(a) 8-hour time-weighted averages. An employee’s exposure to any substance in Oregon Table Z-2, in any 8 hour work shift of a 40-hour work week, must not exceed the 8-hour time-weighted average limit for that substance in Oregon Table Z-2. 
+(b) Acceptable ceiling concentrations. An employee’s exposure to a substance in Oregon Table Z-2 must not exceed the acceptable ceiling concentration for that substance during an 8-hour shift except: Acceptable maximum peak above the acceptable ceiling concentration for an 8-hour shift. An employee’s exposure to a substance in Oregon Table Z-2 must never exceed the acceptable maximum peak above the acceptable ceiling concentration and must not exceed the maximum duration of exposure at that level for the substance during an 8-hour shift. 
+(c) Example. During an 8-hour work shift, an employee’s exposure to benzene is limited to an 8-hour time-weighted average (TWA) of 10 ppm. The acceptable ceiling concentration of benzene during the 8-hour work shift is a maximum of 25 ppm, unless that exposure is no more than 50 ppm and for not longer than 10 minutes during an 8-hour work shift. Such exposures must be compensated by lower exposure levels (concentrations below the TWA number – 10 ppm) during that shift so that the overall 8 hour time-weighted average is a maximum of 10 ppm. 
+
+ 
+ [Example from Oregon Table Z-2] 
+ 
+
+ (d) Skin designation. To prevent or reduce skin absorption, you must prevent or reduce an employee’s skin exposure to substances listed in Oregon Table Z-2 with an “X” in the Skin designation column following the substance name. Prevent or reduce exposure to the extent necessary in the circumstances through the use of gloves, coveralls, goggles, or other appropriate personal protective equipment, engineering controls, or work practices. 
+(3) Oregon Table Z-3. An employee’s exposure to any substance in Oregon Table Z-3, in any 8-hour work shift of a 40-hour work week, must not exceed the 8-hour time-weighted average limit given for that substance. 
+(4) Computation formulae. The computation formulae that apply to exposures to one or more substances, with 8-hour time-weighted averages included in OAR 437, Division 4/Z, Chemicals/Toxins, in order to determine whether an employee is exposed is over the regulatory limit are as follow: 
+(a) For a single air contaminant: 
+(A) Compute the cumulative exposure for an 8-hour work shift as follows: 
+
+ 
+ E = (CaTa + CbTb + ...CnTn) ÷ 8 
+Where: 
+E is the equivalent exposure to that substance for the shift. 
+C is the concentration during any period T where the concentration remains constant. 
+T is the duration in hours of the exposure at the concentration C. 
+The value of E must not exceed the 8-hour time-weighted average specified for that substance in Subdivision 4/Z. 
+ 
+
+ (B) To illustrate the formula in (4)(a)(i) above, assume that Substance A (from Oregon Table Z-1) has an 8 hour time-weighted average limit of 100 ppm. Assume that an employee is subject to the following exposure: 
+
+ 
+ Two hours exposure at 150 ppm 
+Two hours exposure at 75 ppm 
+Four hours exposure at 50 ppm 
+Substituting this information in the formula, we have: 
+[(Ca x Ta) + (Cb x Tb) + ... (Cn x Tn)] ÷ 8 = E =TWA 
+[(2 x 150) + (2 x 75) + (4 x 50)] ÷ 8 = 81.25 ppm 
+Since 81.25 ppm is less than 100 ppm, the 8-hour time-weighted average limit, the exposure is acceptable. 
+ 
+
+ (b) For a mixture of air contaminants: 
+(A) In case of a mixture of air contaminants, compute the equivalent exposure as follows: 
+
+ 
+ Em = (C1 ÷ L1) + (C2 ÷ L2) + . . .(Cn ÷ Ln) 
+Where: 
+Em is the equivalent exposure for the mixture. 
+Cn is the concentration of a particular contaminant. 
+Ln is the exposure limit for that substance in Subdivision 4/Z. 
+The value of Em must not exceed “unity” (1). 
+ 
+
+ (B) To illustrate the formula in (4)(b)(i) above, consider the following exposures: 
+
+ 
+ [Example] 
+Substituting in the formula, we have: 
+Em = (C1 ÷ L1) + (C2 ÷ L2) + . . .(Cn ÷ Ln) 
+Em = (500 ÷ 1000) + (45 ÷ 200) + (40 ÷ 200) 
+Em = 0.500 + 0.225 + 0.200 
+Em = 0.925 
+Since Em (0.925) is less than unity (1), the exposure combination is within acceptable limits. 
+ 
+
+ (5) Engineering or administrative controls. To achieve compliance with the exposure limits in paragraphs (1) through (4) of this section, first determine and implement, when feasible, engineering or administrative controls. When such controls are not feasible, mandate the use of protective equipment or any other protective measures to keep exposure within the limits in this section. Any equipment or technical measures used for this purpose must be approved for each particular use by a competent Industrial Hygienist or other technically qualified person. Whenever using respirators, comply with Division 4/I, OAR 437-004-1040, Respiratory Protection. Tables Z-1, Z-2, Z-3, and notes. 
+
+ 
+ [Table Z-1, Notes, Footnotes; Table Z-2, Note, Footnotes; Table Z-3, Note, Footnotes.] 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 654.025(2), 654.035 & 656.726(4) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 654.001 through 654.295 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSHA 11-2021, amend filed 09/01/2021, effective 09/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OSHA 4-2012, f. 9-19-12, cert. ef. 1-1-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OSHA 6-2006, f. & cert. ef. 8-30-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OSHA 9-2001, f. & cert. ef. 9-14-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OSHA 4-2001, f. & cert. ef. 2-5-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OSHA 4-1998, f. 8-28-98, cert. ef. 10-1-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

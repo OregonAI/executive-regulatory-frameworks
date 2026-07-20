@@ -1,0 +1,173 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Oregon Occupational Safety and Health Division - Chapter 437 
+ 
+ 
+ 
+ 
+ Division 4 AGRICULTURE 
+ 437-004-3600 
+ Roll-Over Protective Structures (ROPS) for Tractors in Agriculture 
+ 
+ (1) Definitions.  (a) Agricultural tractor — A two- or four-wheel drive type vehicle, or track vehicle, of more than 20 engine horsepower, designed to furnish the power to pull, carry, propel, or drive implements designed for agriculture. Self-propelled implements are excluded.  (b) Low profile tractor — A wheeled tractor with these characteristics:  (A) The front wheel spacing equals the rear wheel spacing, measured from the centerline of each right wheel to the centerline of the opposite left wheel;  (B) The clearance from the bottom of the chassis to the ground is less than 18 inches;  (C) The highest point of the hood is 60 inches or less; and  (D) The tractor is designed so that a seated operator straddles the transmission.  (c) Tractor weight — Includes the protective frame or enclosure, all fuels, and other components required for normal use of the tractor. Add ballast as necessary to get a minimum total weight of 110 pounds (50.0 kilograms) per maximum power takeoff horsepower at the rated engine speed or the maximum gross vehicle weight specified by the manufacturer, whichever is the greatest. Front end weight must be at least 25 percent of the tractor test weight. If power takeoff horsepower is not available, use 95 percent of net engine flywheel horsepower.  (2) General requirements. Agricultural tractors manufactured after October 25, 1976 and before January 1, 2007, must meet these requirements:  (a) Roll-over protective structures (ROPS) for tractors used in agriculture. A roll-over protective structure must be on each tractor operated by an employee. Except as in OAR 437-004-3600(5), ROPS on wheel-type tractors must meet the test and performance requirements of one of these: The American Society of Agricultural Engineers Standard (ASAE) S306.3-1974, “Protective Frame for Agricultural Tractors — Test Procedures and Performance Requirements” and Society of Automotive Engineers (SAE) Standard J334-1970, “Protective Frame Test Procedures and Performance Requirements.” ASAE Standard S336.1-1974, “Protective Enclosures for Agricultural Tractors — Test Procedures and Performance Requirements” and SAE J1194-1994.  These ASAE and SAE standards are incorporated by reference. Get copies from:  American Society of Agricultural Engineers  2950 Niles Road, PO Box 229  St Joseph, MI 49085  Society of Automotive Engineers  485 Lexington Avenue  New York, NY 10017  Copies are available for review at the Oregon OSHA Resource Center, 350 Winter Street NE, Salem, Oregon 97301-3882.  (b) Agricultural tractors manufactured on or after January 1, 2007, must meet these requirements:  (A) Roll-over protective structures (ROPS) for tractors used in agriculture. A roll-over protective structure must be on each tractor operated by an employee. Except as in OAR 437-004-3600(5), ROPS on wheel-type tractors must meet the test and performance requirements of:  (i) 29 CFR 1928.52 Protective frames for wheel-type agricultural tractors — test procedures and performance requirements. Link: http://www.osha.gov/pls/oshaweb/owadisp.show_document?p_table=STANDARDS&p_id=13076; and  (ii) 29 CFR 1928.53 Protective enclosures for wheel-type agricultural tractors — test procedures and performance requirements. Link: http://www.osha.gov/pls/oshaweb/owadisp.show_document?p_table=STANDARDS&p_id=13077 Copies of Federal OSHA rules are available at the Oregon OSHA Resource Center, 350 Winter Street NE, Salem, Oregon 97301-3882.  (3) Seat belts.  (a) When these rules require ROPS, the employer must:  (A) Have a seat belt that meets the requirement of this rule on each tractor;  (B) Ensure that workers use a seat belt while the tractor is moving; and  (C) Ensure that the worker tightens the seat belt enough to hold them in the protective area of the ROPS.  (b) Each seat belt must meet the requirements in Society of Automotive Engineers Standard J114-1994, J140-1995, J141-1995, J339-1994, and J800-1994, except;  (c) On suspended seats, fasten the seat belt to the movable part of the seat to accommodate the ride motion of the operator.  (d) The seat belt anchorage must be able to withstand a static tensile load of 1,000 pounds (453.6 kilograms) at 45 degrees to the horizontal equally divided between the anchorages. The seat mounting must be able to withstand this load plus a load equal to four times the weight of all applicable seat components applied at 45 degrees to the horizontal in a forward and upward direction. In addition, the seat mounting must be able to withstand a 500-pound (226.8 kilograms) belt load plus twice the weight of all applicable seat components both applied at 45 degrees to the horizontal in an upward and rearward direction. Floor and seat deformation is acceptable if there is no structure failure or release of the seat adjusted mechanism or other locking device.  (e) The seat belt webbing material must be resistant to acids, alkalis, mildew, aging, moisture, and sunlight.  (4) Protection from sharp surfaces. Sharp edges and corners at the operator’s station must not contribute to operator injury in case of a tip over or roll-over.  (5) Exempted uses. OAR 437-004-3600(2) and (3) do not apply to the following uses:  (a) “Low profile” tractors used in orchards, vineyards or hop yards where the vertical clearance would interfere with normal use, and while their use is incidental to the work done in that location.  (b) “Low profile” tractors used inside a farm building or greenhouse where the vertical clearance does not allow a tractor with ROPS to operate, and while their use is incidental to the work done in that location.  (c) Tractors with mounted equipment that is incompatible with ROPS (e.g., corn pickers, cotton strippers, vegetable pickers and fruit harvesters);  (d) Track-type agricultural tractors whose overall width (as measured between the outside edges of the tracks) is at least three times the height of their rated center of gravity, and whose rated maximum speed in either forward or reverse is not greater than 7 mph, when used only for tillage or harvesting operations and while their use is incidental thereto, and that:  (A) Does not involve operating on slopes more than 40 percent from the horizontal; and  (B) Does not involve operating on piled crop products or residue, such as, silage in stacks or pits; and  (C) Does not involve operating near irrigation ditches, or other excavations more than 2 feet deep which contain slopes more than 40 percent from the horizontal; and  (D) Does not involve construction type work, such as bulldozing, grading or land clearing.  (6) Remounting. When ROPS is removed for any reason, remount it to meet the requirements of these rules.  (7) Labeling. Each ROPS must have a permanent label that gives the:  (a) Manufacturer’s or fabricator’s name and address;  (b) ROPS model number, if any;  (c) Tractor makes, models, or series numbers that it is designed to fit; and  (d) That the ROPS model was tested according to the requirements of these rules. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 654.025(2) & 656.726(4) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 654.001 - 654.295 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSHA 9-2006, f. & cert. ef. 9-22-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OSHA 4-1998, f. 8-28-98, cert. ef. 10-1-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

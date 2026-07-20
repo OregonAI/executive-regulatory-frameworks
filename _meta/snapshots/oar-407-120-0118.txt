@@ -1,0 +1,173 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Chapter 407 
+ 
+ 
+ 
+ 
+ 
+ Division 120 PROVIDER RULES 
+ 407-120-0118 
+ Conduct of Direct Data Entry Using Web Portal 
+ 
+ (1) The web portal submitter is responsible for the conduct of the DDE transactions submitted on behalf of the provider, as follows:  (a) Accuracy of Web Portal Submissions. The web portal submitter must take reasonable care to ensure that data and DDE transmissions are timely, complete, accurate, and secure, and must take reasonable precautions to prevent unauthorized access to the information system or the DDE transmission. The Department will not correct or modify an incorrect DDE transaction prior to processing. The transactions may be rejected and the web portal submitter will be notified of the rejection.  (b) Cost of Equipment. The web portal submitter and the Department must bear their own information system costs. The web portal submitter must, at their own expense, obtain access to Internet service that is compatible with and has the capacity for secure access to the Department’s web portal. Web portal submitters must pay their own costs for all charges, including but not limited to charges for equipment, software and services, Internet connection and use time, terminals, connections, telephones, and modems. The Department is not responsible for providing technical assistance for access to or use of Internet web portal services or the processing of a DDE transaction.  (c) Format of DDE Transactions. The web portal submitter must send and receive all data transactions in the Department’s approved format. Any attempt to modify or alter the DDE transaction format may result in denial of web portal access.  (d) Re-submissions. The web portal submitter must maintain source documents and back-up files or other means sufficient to re-create a data transmission in the event that re-creation becomes necessary for any purpose, within timeframes required by federal or state law, or by contractual agreement. Back ups, archives, or related files are subject to the terms of these rules to the same extent as the original data transmission.  (2) Security and Confidentiality. To protect security and confidentiality, web portal submitters must comply with the following:  (a) Refrain from copying, reverse engineering, disclosing, publishing, distributing, or altering any data or data transmissions, except as permitted by these rules or the contract, or use the same for any purpose other than that which the web portal submitter was specifically given access and authorization by the Department or the provider.  (b) Refrain from obtaining access by any means to any data or the Department’s network and information system for any purpose other than that which the web portal submitter has received express authorization to receive access. If the web portal submitter receives data or data transmissions from the Department which are clearly not intended for the receipt of web portal submitter, the web portal submitter will immediately notify the Department and make arrangements to return or re-transmit the data or data transmission to the Department. After re-transmission, the web portal submitter must immediately delete the data contained in the data transmission from its information system.  (c) Install necessary security precautions to ensure the security of the DDE transmission or records relating to the information system of either the Department or the web portal submitter when the information system is not in active use by the web portal submitter.  (d) Protect and maintain, at all times, the confidentiality of security access codes issued by the Department. Security access codes are strictly confidential and specifically subject, without limitation, to all of the restrictions in OAR 407-120-0170. The Department may change the designated security access codes at any time and in any manner as the Department in its sole discretion considers necessary.  (e) Install, maintain, and use security measures for confidential information transmitted between a provider and the web portal submitter if a provider uses an agent or clinic as the web portal submitter. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 409.050 & 414.065 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.065 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 1-2008, f. & cert. ef. 2-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 13-2007(Temp), f. 12-31-07, cert. ef. 1-1-08 thru 6-28-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

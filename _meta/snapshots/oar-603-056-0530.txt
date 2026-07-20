@@ -1,0 +1,257 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Agriculture 
+ Chapter 603 
+ 
+ 
+ 
+ 
+ 
+ Division 56 HAY AND SEED 
+ 603-056-0530 
+ Determination of Civil Penalty Amount 
+ 
+ (1) In determining the amount of a civil penalty to be assessed for a violation, the Department shall calculate the amount of the civil penalty using the following formula: 
+
+ 
+ Total Civil Penalty Amount = B + 0.2 x B x (P + A + C + V), where: 
+
+ (a) B = base penalty.  The department will determine B as follows: 
+
+ (A) Base Penalty for Class I (Major) violations = $5,000 
+
+ (B) Base Penalty for Class II (Moderate) violations = $2,000 
+
+ (C) Base Penalty for Class III (Minor) violations = $200 
+
+ (b) P = past occurrence of violations of any provision of the Oregon Seed Law, or the terms or conditions of any final order issued by the department under the Oregon Seed Law. The department will determine P from 0 to 5 in the following manner: 
+
+ 0 = no prior violations or insufficient evidence on which to base a finding; 
+
+ 1 = one Class I violation in the five years prior to the date of the violation; 
+
+ (C) 2 = one Class II violation or two Class I violations in the five years prior to the date of the violation; 
+
+ (D) 3 = one Class III violation, two Class II violations, or three Class I violations in the five years prior to the date of the violation; 
+
+ (E) 4 = two Class III violations, three Class II violations, or four Class I violations in the five years prior to the date of the violation; and 
+
+ (F) 5 = three or more Class III violations, four or more Class II violations, or five or more Class I violations in the five years prior to the date of the violation. 
+
+ (c) A = avoidability of violation.  The department will determine the avoidability from -2 to 7 in the following manner: 
+
+ (A) -2 = the person’s actions determined to be violative were unavoidable; 
+
+ (B) 0 = insufficient information to make any finding; 
+
+ (C) 2 = the person’s actions determined to be violative were reasonably avoidable; and 
+
+ (D) 7 = the person’s actions were flagrant. 
+
+ (d) C = cooperativeness on the part of the person to assist the department in its investigation and to the extent possible, to rectify the violation.  The department will determine C from -2 to 2 in the following manner: 
+
+ (A) -2 = the person is cooperative; 
+
+ (B) -1 = the person provides limited cooperation; 
+
+ (C) 0 = the person is neither cooperative nor uncooperative; 
+
+ (D) 1 = the person is generally uncooperative; and 
+
+ (E) 2 = the person is uncooperative. 
+
+ (e) V = volume of seed. The department will determine V in the following manner: 
+
+ For agricultural seed kinds whose lot size is limited to 55,000 lbs as described in OAR 603-056-0125: 
+
+ 1 = 1 seed lot; 
+
+ 2 = 2-10 seed lots; 
+
+ 3 = 11-50 seed lots; 
+
+ 4 = 51-100 lots; or 
+
+ 5 = >101 lots. 
+
+ For agricultural, flower, or vegetable seed kinds without lot size limits: 
+
+ 1 = 0-50,000 lbs; 
+
+ 2 = 50,001 lbs to 100,000 lbs; 
+
+ 3 = 100,001 lbs to 500,000 lbs; 
+
+ 4 = 500,001 lbs to 1,000,000 lbs; or 
+
+ 5 = > 1,000,000 lbs.  
+
+ For agricultural, flower, and vegetable seed sold at retail: 
+
+ 2 = 1-10 units of sale; 
+
+ 3 = 11-50 units of sale; 
+
+ 4 = 51-100 units of sale; or 
+
+ 5 = >101 units of sale. 
+
+ For violations described in OAR 603-056-0540(2)(b)(D), the department will not use a volume multiplier. 
+ 
+
+ (2) If the formula in this rule generates a civil penalty for a single violation that exceeds $10,000, the department shall instead assess a civil penalty of $10,000 for that violation. 
+
+ (3) If the formula in this rule generates a civil penalty for a single violation that is less than the base penalty amount for that violation, the department shall instead assess the base penalty amount. 
+
+ (4) The department may, but is not required to, reduce or remit a civil penalty upon request during a contested case hearing on that civil penalty and upon such terms and conditions as the department considers proper and consistent with public health and safety or otherwise consistent with purpose of the Oregon Seed Law. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 561, 633 & 183.335 (5) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 183.745 & ORS 633.680 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 9-2020, adopt filed 07/14/2020, effective 07/14/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

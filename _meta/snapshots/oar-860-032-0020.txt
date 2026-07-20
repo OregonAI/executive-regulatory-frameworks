@@ -1,0 +1,209 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Public Utility Commission 
+ Chapter 860 
+ 
+ 
+ 
+ 
+ 
+ Division 32 TELECOMMUNICATIONS 
+ 860-032-0020 
+ Abandonment of Service 
+ 
+ (1) For the purpose of this rule:  (a) "Abandon" means to discontinue or cease providing.  (b) "Commission" means the Public Utility Commission of Oregon.  (c) "Exiting provider" means a telecommunications provider, which intends to abandon a telecommunications service.  (d) "Grandfather" means to discontinue or cease offering a service to new customers and to continue offering the service to existing customers.  (e) "Oregon Emergency Management" means the Technology and Operations Section, Oregon Emergency Management, Department of State Police, in Salem, Oregon.  (f) "Receiving provider" means a telecommunications provider, which receives or acquires customers for a service being abandoned by an exiting provider. A receiving provider may be a telecommunications utility, a telecommunications cooperative, or a competitive provider.  (g) "Receiving telecommunications utility" means a telecommunications utility, which is a receiving provider.  (h) "Receiving competitive provider" means a competitive provider, which is a receiving provider.  (i) "Regulated service" means a telecommunications service provided by a telecommunications utility which is not an exempt service as defined in OAR 860-032-0001.  (j) "Starting date" means the day a telecommunications utility may lawfully disconnect service to an exiting provider or the date a telecommunications utility knows that an exiting provider ceases providing service, whichever comes first.  (k) "Sunset date" means the day a telecommunications provider will abandon a grandfathered service being provided to existing customers.  (l) "Through service" has the same meaning as in OARs 860-022-0003 and 860-034-0015.  (2) Except as specified in section (3) of this rule, this rule applies:  (a) When a telecommunications utility or competitive provider abandons any intrastate telecommunications service; and  (b) When a telecommunications cooperative abandons any through service.  (3) This rule does not apply:  (a) When a telecommunications utility or cooperative transfers control of its operations, for any or all of its service area in Oregon, to another telecommunications utility or cooperative, under ORS 759.375 to 759.390 or 759.500 to 759.570;  (b) When a telecommunications provider replaces a telecommunications service with a substantially similar service; and  (c) When a telecommunications provider disconnects service to an individual customer at the customer’s request or for cause, including non-payment.  (4) This rule does not relieve telecommunications providers of any requirements imposed by the Federal Communications Commission (FCC), including FCC anti-slamming rules and 47 Code of Federal Regulations, Section 63.71.  (5) Notifications required by this rule shall include the following at a minimum:  (a) Name of the exiting provider;  (b) Address and telephone number where the public, customers, Commission staff, and affected telecommunications providers may contact the exiting provider for information regarding the abandonment;  (c) Description of telecommunications services to be abandoned;  (d) Identification of geographic areas where the services will be abandoned;  (e) Date the service(s) will be abandoned;  (f) If applicable, a statement whether customers of the services(s) to be abandoned will be converted to different service(s) offered by the exiting provider, and if so, what customers must do to be converted to the different service(s);  (g) If applicable, a statement that all customers will be automatically transferred to a specified receiving provider unless they disconnect or obtain service from another provider. The exiting provider must identify the receiving provider to which customers will be transferred;  (h) If the exiting provider intends to transfer customers to a specified receiving competitive provider and the receiving competitive provider will not accept all customers, a statement that customers may or will lose their service unless they obtain services from a provider of their choice. The exiting provider must provide reasonable means for each customer to determine whether he or she will be accepted by the receiving competitive provider;  (i) If applicable, a statement that service will be abandoned and that customers must obtain the service(s) to be abandoned from another provider;  (j) An explanation of how customers may receive a refund of payments or deposits for service they will not receive because of the abandonment; and  (k) An electronic document containing the notice in a format suitable for posting on the Commission website. The Commission will post such notification within two business days of receipt from the exiting carrier.  (6) In addition to other notifications required by this rule, the following notifications are also required at the same time the exiting provider files notice with the Commission. Notifications here required shall include the information required by section (5) of this rule plus the information specified in subsections (6)(a) or (6)(b) of this rule.  (a) An exiting provider that intends to abandon any service which allows access to the emergency 9-1-1 reporting system shall:  (A) Mail notification to Oregon Emergency Management, which notification shall include the number of customers affected by the proposed abandonment of service;  (B) Provide access to its customer records in the Enhanced 9-1-1 database(s), so that other telecommunications providers can update those customer records; and  (C) Send a letter to the appropriate Enhanced 9-1-1 database provider(s), with copies to the incumbent local exchange carrier(s), the Commission and Oregon Emergency Management, authorizing the Enhanced 9-1-1 database provider(s) to allow access by other telecommunications providers to any remaining Enhanced 9-1-1 database records belonging to the exiting provider, after the exiting provider has abandoned the service.  (b) An exiting provider that intends to abandon service so that it will no longer use a central office code or a thousands block of numbers (i.e., an NXX or an NXX-X) shall notify the North American Numbering Plan Administrator and the national administrator of the Local Exchange Routing Guide.  (7) A telecommunications utility that intends to abandon any regulated service, whether throughout its service territory or in limited geographic areas, for which there are current customers, shall:  (a) Petition the Commission for authority to abandon the service. The petition shall be filed at least 90 days before the telecommunications utility intends to abandon the service. If the Commission does not deny the petition or set it for hearing within 90 days after receiving the petition, it shall be deemed approved;  (b) Mail a notification to each affected customer and to each telecommunication provider affected by the proposed abandonment at the same time it files the petition with the Commission. The notification shall include the information required by section (5) of this rule. In addition, the notification shall include a statement that upon request from affected customers or providers the Commission may, but is not required to, deny the petition or set it for hearing;  (c) File with the Commission a copy of the notification at the same time it mails the notification and files the petition. In addition, the telecommunications utility shall inform the Commission of the number of customers and the number of other providers affected by the proposed abandonment;  (d) Demonstrate that the abandonment will not deprive the public of necessary telecommunications services. The telecommunications utility shall reinstate service at the Commission’s request to prevent the public from being deprived of necessary services; and  (e) Obtain Commission approval before transferring customers to other telecommunications providers. If the telecommunications utility seeks such approval, it shall include in the petition to abandon service a request for approval to automatically transfer customers.  (8) A telecommunications utility may request to abandon a regulated service for which there are no current customers by filing a tariff change which deletes the regulated service along with a cover letter or advice letter which clearly and explicitly discloses which regulated service the telecommunications utility proposes to abandon.  (9) A telecommunications utility that intends to abandon any exempt service, whether throughout its service territory or in limited geographic areas, for which there are current customers, shall comply with the following:  (a) At least 90 days before abandoning the service the telecommunications utility shall mail to each affected customer and to each telecommunication provider affected by the proposed abandonment, a notification of its intent to abandon the service. The notification shall include information required by section (5) of this rule;  (b) At the time the telecommunication utility mails notification to affected customers, it shall file a copy of the notification with the Commission. In addition, the telecommunications utility shall inform the Commission of the number of customers and the number of other providers affected by the proposed abandonment; and  (c) The telecommunications utility may, after complying with subsections (9)(a) and (9)(b) of this rule and subject to section (12) of this rule, transfer customers of its exempt service to another telecommunications provider, including an affiliated provider, without requiring affirmative approval from affected customers.  (10) A telecommunications cooperative that intends to abandon any through service, whether throughout its service territory or in limited geographic areas, shall:  (a) Petition the Commission for authority to abandon the service. The petition shall be filed at least 90 days before the telecommunications cooperative intends to abandon the service. If the Commission does not deny the petition or set it for hearing within 90 days after receiving the petition, it shall be deemed approved;  (b) Mail a notification to each affected customer and to each telecommunication provider affected by the proposed abandonment at the same time it files the petition with the Commission. The notification shall include the information required by section (5) of this rule. In addition, the notification shall include a statement that upon request from affected customers or providers the Commission may, but is not required to, deny the petition or set it for hearing;  (c) File with the Commission a copy of the notification at the same time it mails the notification and files the petition. In addition, the telecommunications cooperative shall inform the Commission of the number of customers and the number of other providers affected by the proposed abandonment;  (d) Demonstrate that the abandonment will not deprive customers of necessary telecommunications services. The telecommunications cooperative shall reinstate service at the Commission’s request to prevent customers from being deprived of necessary services; and  (e) Obtain Commission approval before transferring customers to other telecommunications providers. If the telecommunications cooperative seeks such approval, it shall include in the petition to abandon service a request for approval to automatically transfer customers.  (11) A competitive provider that intends to abandon any or all services, whether throughout its service territory or in limited geographic areas, for which there are current customers, shall comply with the following:  (a) At least 90 days before abandoning service the competitive provider shall mail to each affected customer, and to each telecommunications provider affected by the proposed abandonment, a notification of its intent to abandon the service(s). The notification shall include information required by section (5) of this rule;  (b) At the time it mails notification to affected customers, the competitive provider shall file a copy of the notification with the Commission. In addition, the competitive provider shall inform the Commission of the number of customers and the number of other providers affected by the proposed abandonment; and  (c) The competitive provider may, after complying with subsections (11)(a) and (11)(b) of this rule and subject to sections (12) and (13) of this rule, transfer customers to another telecommunications provider, including an affiliated company, without requiring affirmative approval from affected customers.  (12) Notwithstanding OAR 860-021-0009 or 860-034-0030, an exiting provider may transfer customers of an abandoned service to a receiving telecommunications utility without the customers applying to the receiving telecommunications utility for service only under all the conditions listed below. The exiting provider may be an affiliate of the receiving telecommunications utility:  (a) The receiving telecommunications utility must enter into a written agreement with the exiting provider to accept all the exiting provider’s customers with service locations within the receiving telecommunications utility’s local exchange service area;  (b) The exiting provider must provide at least a 90 day notice to its customers that it intends to abandon service, as provided in section (11) of this rule;  (c) The notice must comply with section (5), including subsection (5)(g), of this rule to ensure that:  (A) Customers are notified that they may apply to another telecommunications provider for the service which is being abandoned; and  (B) Customers are notified that if they do not act to obtain service from another telecommunications provider, then the exiting provider will automatically transfer them to the receiving telecommunications utility for the service which is being abandoned.  (d) Customers may be automatically transferred to a receiving telecommunications utility only if their service location is within that utility’s local exchange service area;  (e) The receiving telecommunications utility shall accept all customers of the exiting provider who are automatically transferred and shall provide to those customers the service being abandoned; and  (f) After the transferred customers become customers of the receiving telecommunications utility, they shall be treated equally as similarly situated customers.  (13) When an exiting provider fails to provide to its customers adequate notice that it intends to abandon service, as provided in section (11) of this rule, and when the exiting provider is either reselling finished, regulated, intraexchange services of a telecommunications utility, or the exiting provider is selling combinations of unbundled network elements equivalent to a finished, regulated, intraexchange service furnished by the telecommunications utility, the following conditions apply:  (a) Notwithstanding OAR 860-021-0009 or 860-034-0030, the underlying telecommunications utility may, at its option, continue providing service to the exiting provider’s customers, for not more than 45 calendar days from the starting date, without those customers first applying for service from the telecommunications utility. For purposes of this section (13) of this rule, those customers shall be defined as potential applicants for service from the telecommunications utility; and  (b) If the telecommunications utility chooses to continue service to the potential applicants, the following apply:  (A) The telecommunications utility shall apply the same procedures to all potential applicants;  (B) The telecommunications utility shall accept and process applications pursuant to administrative rules in chapter 860, division 021 or chapter 860, division 034;  (C) If an application is accepted, then the telecommunications utility may charge the applicant, who is now a customer of the telecommunications utility, for service provided as of the starting date;  (D) If an application is rejected, then the telecommunications utility shall disconnect the applicant’s service; and  (E) If a potential applicant does not apply for service within 45 days from the starting date, then telecommunications utility shall disconnect service immediately. For good and sufficient reason, the Commission may grant the telecommunications utility an extension of this time period.  (14) If an exiting provider abandons service, with or without adequate notice to its customers, a telecommunications utility or a competitive provider may not have resources or facilities in place sufficient to accept and serve all customers whose service is being abandoned. Upon application from those customers for service, the telecommunications utility shall provide service to them as soon as possible. However, under the circumstances described in this section (14) of this rule, the Commission’s intent is that a telecommunications utility or competitive provider not be penalized for failing to meet the applicable standards for held orders set forth in OARs 860-023-0055, 860-032-0012, or 860-034-0390. Therefore, in cases where an exiting provider abandons service, the telecommunications provider that intends to provide service may petition the Commission for relief from requirements of applicable Commission rules.  (15) The following provisions apply when a telecommunications utility grandfathers a regulated service or a telecommunications cooperative grandfathers a through service:  (a) Grandfathering a service without a sunset date is not considered abandonment of service.  (b) If a telecommunications utility intends to grandfather a regulated service, without a sunset date, whether throughout its service territory or in limited geographic areas, it shall file a tariff which designates the service as grandfathered. Normal tariff filing and review requirements applicable to the telecommunications utility and the grandfathered service apply.  (c) When a telecommunications utility intends to grandfather any regulated or exempt service, with a sunset date, whether throughout its service territory or in limited geographic areas, that grandfathering shall be considered abandonment of service subject to this rule.  (d) If a telecommunications cooperative intends to grandfather a through service, without a sunset date, whether throughout its service territory or in limited geographic areas, it shall petition the Commission for authority to grandfather the through service. If the Commission does not deny the petition or set it for hearing within 60 days after receiving the petition, it shall be deemed approved.  (e) When a telecommunications cooperative intends to grandfather a through service, with a sunset date, whether throughout its service territory or in limited geographic areas, then that grandfathering shall be considered abandonment of service subject to this rule.  (16) For good and sufficient reason, the Commission may grant a petition to waive any time period or requirement in this rule. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 183, 756 & 759 
+ 
+ 
+ Statutes/Other Implemented:  ORS 756.040, 759.020, 759.035 & 759.050 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 1-2003, f. & cert. ef. 2-12-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 4-2000, f. & cert. ef. 2-9-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 10-1998, f. & cert. ef. 4-28-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 16-1986, f. & ef. 11-17-86 (Order No. 86-1159) 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 27-1985(Temp), f. & ef. 12-19-85 (Order No. 85-1203) 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,292 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Department of Emergency Management 
+ Chapter 104 
+ 
+ 
+ 
+ 
+ 
+ Division 80 9-1-1 EMERGENCY COMMUNICATIONS  SYSTEM PROGRAM 
+ 104-080-0200 
+ Authorized expenditures from the 9-1-1 Subaccount
+ 
+ 
+ (1) The Department uses funds in the 9-1-1 Subaccount to reimburse or pay the costs on behalf of the 9-1-1 jurisdiction. The Department shall reimburse or pay a 9-1-1 jurisdiction only if that 9-1-1 jurisdiction has an approved 9-1-1 Jurisdiction Plan on file with the Department that describes the capital and recurring costs of the 9-1-1 jurisdiction. 
+
+ (2) In order to obtain pre-authorization, the Department will work with the 9-1-1 jurisdiction to establish a Not to Exceed Funding Level for cost of products and services. 
+
+ (3) Once a Not to Exceed Funding Level is executed between the 9-1-1 jurisdiction and the Department, the Department reviews each submission for reimbursement on the Department approved form(s) for appropriateness of the payment, including a review of the reasonableness of costs for products and services provided. 
+
+ (4) The Department may consider requests by a 9-1-1 jurisdiction for approval of reimbursement for products and services if the 9-1-1 jurisdiction: 
+
+ (a) Demonstrates it is unable to obtain and maintain satisfactory service levels from its current provider; 
+
+ (b) Provides documentation satisfactory to the Department that the current provider has failed to maintain service levels described in the provider’s contract with the 9-1-1 jurisdiction and the parties have been unable to resolve the dispute in accordance with the terms and conditions of the contract; and 
+
+ (c) Certifies that the 9-1-1 jurisdiction has complied with all applicable federal, state and local laws, including, but not limited to, the Oregon Public Contracting Code. 
+
+ (5) The Department provides all funds requested by 9-1-1 jurisdictions under ORS 403.240 for costs incurred for emergency communications services on a reimbursement basis. A request for reimbursement must be for costs incurred for products and services provided to the 9-1-1 jurisdiction in the previous calendar quarter or, for database development, network and on-premises equipment that satisfies the requirements of ORS 403.115(2) and (4), for costs incurred prior to the preceding calendar quarter. The Department may not provide reimbursement for products or services not provided to the 9-1-1 jurisdiction. 
+
+ (6) The following costs of providing emergency communications service are paid directly or reimbursed from the 9-1-1 Subaccount of the Emergency Communications Account, subject to available funds: 
+
+ (a) Costs of the Network Exchange Services necessary to provide the minimum grade of service defined in ORS 403.115; The secure network and associated components that deliver an emergency call from the caller to the primary PSAP with corresponding ANI and ALI information; 
+
+ (b) Costs for CPE for a primary PSAP: 
+
+ (A) Reimbursement for CPE for a primary PSAP that is customer-owned and maintained is subject to the Department’s review and approval; 
+
+ (B) An Application Programming Interface to integrate ANI and ALI into a CAD system in use by a primary PSAP; 
+
+ (C) On-going maintenance costs following the warranty period, if any, complying with 104-080-0195 (1) (e); 
+
+ (D) Payment of costs for on-going maintenance of CPE for the primary PSAP following the expiration of the equipment’s warranty period must be made by submitting a copy of the maintenance contract with an itemized listing of hourly labor rates and equipment costs to the Department for approval. 
+
+ (E) The Department may make payment directly to the vendor upon verification that the charges are for the CPE for the primary PSAP and services originally contracted for and that the vendor's hourly labor rate does not exceed the prevailing labor rate for similar communication equipment and services. 
+
+ (F) All requests for reimbursement must be for hardware received, services rendered, or both. ODEM may not provide reimbursement for hardware or services to be provided at a future date. 
+
+ (G) An instant playback recorder to record each incoming emergency call, preferably of a digital voice storage type with no moving parts and capable of storing at least 10 minutes of emergency calls; 
+
+ (H) Mapping software and hardware that displays the location of an emergency calling party, from information in the ALI record and the capability of displaying street address and the latitude and longitude of the emergency calling party. 
+
+ (I) Equipment allowing direct communication with the caller. 
+
+ (J) Uninterruptible power supply systems for the components of an emergency communications system in the primary PSAP meeting the requirements of the ODEM Policy, Uninterrupted Power Supply (UPS).[1] 
+
+ (K) Text-to-9-1-1 system upon prior approval by the Department. 
+
+ (L) Any 9-1-1 jurisdiction or provider seeking reimbursement for MSAG or GIS services meeting the requirements of ODEM Policy, 9-1-1 GIS / MSAG Funding: 
+
+ (M) Costs of consulting services related to a regional or statewide emergency communications system pursuant to contracts approved and entered into by the Department. Consulting costs are paid by the Department directly to the consultant. 
+
+ (7) The Department provides a Statewide Enterprise Management Information System (MIS). A 9-1-1 jurisdiction may request access to the system. MIS provides various reports using a variety of user defined criteria that provide: 
+
+ (a) ANI 
+
+ (b) ALI 
+
+ (c) Redundant method of capturing, storing, retrieving or printing call detail information 
+
+ (d) Document the transfer of voice or data 
+
+ (e) Document Selective Transfers 
+
+ (f) Document TTY / TDD communications 
+
+ (g) Document SMS Text-to-9-1-1 sessions 
+
+ (h) Provide total of calls answered by position 
+
+ (i) Provide average call ringing and call handling timer per position 
+
+ (j) Document trunk usage for system performance 
+
+ (k) Retrieve and display call detail data on demand 
+
+ (l) Document agent answering performance for 9-1-1 calls 
+
+ (m) Document 9-1-1 calls by trunk group 
+
+ (n) Document number of abandoned calls 
+
+ (o) Document agent average speed to answer at 1 to 10 seconds, 11 to 15 seconds, 16 to 20 seconds, 21 to 40 seconds, 41 to 60 seconds, 61 to 120 seconds and 120 seconds or more 
+
+ (8) A request for reimbursement must be made using a process established by the Department. 
+
+ (9) Failure to meet prerequisites or submit requests for reimbursement in a manner required by the Department may result in delay or denial of reimbursement. 
+
+ [Publications [1]: Publications referred to or incorporated by reference in this rule are available from the Department and are also available at https://www.oregon.gov/oem/Documents/ups_policy.pdf 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 403.120; 2015 HB 2426 
+ 
+ 
+ Statutes/Other Implemented:  ORS 403 & 2015 HB 2426 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OEM 29-2023, minor correction filed 04/10/2023, effective 04/10/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OEM 2-2018, amend filed 11/02/2018, effective 11/02/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OEM 1-2018, temporary amend filed 05/11/2018, effective 05/11/2018 through 11/06/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OEM 3-2015, f. & cert. ef. 12-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

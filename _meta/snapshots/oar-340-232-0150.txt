@@ -1,0 +1,350 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 232 EMISSION STANDARDS FOR VOC POINT SOURCES 
+ 340-232-0150 
+ VOC Liquid Storage
+ 
+ 
+ (1) Owners or operators which have tanks storing methanol or other VOC liquids with a true vapor pressure, as stored, greater than 10.5 kPa (kilopascals) (1.52 psia), at actual monthly average storage temperatures, and having a capacity greater than 150,000 liters (approximately 39,000 gallons) must comply with one of the following: 
+
+ (a) Meet the equipment specifications and maintenance requirements of the federal standards of performance for new stationary sources — Storage Vessels for Petroleum Liquids, 40 CFR part 60 subpart K and Ka; or 
+
+ (b) Be retrofitted with a floating roof or internal floating cover using at least a nonmetallic resilient seal as the primary seal meeting the equipment specifications in the federal standards referred to in subsection (a) or its equivalent. 
+
+ (2) All seals used in subsections (1)(b) and (c) are to be maintained in good operating condition and the seal fabric may not contain visible holes, tears or other openings. 
+
+ (3) All openings, except stub drains and those related to safety, such as slotted gage wells, are to be sealed with suitable closures. All tank gauging and sampling devices must be gas-tight except when gauging or sampling is taking place; except for slotted gage wells which must have floating seals with one-half inch edge gaps or less. 
+
+ (4) Secondary Seals: 
+
+ (a) Applicability: Subsection (c) applies to all VOC liquid storage vessels equipped with external floating roofs, having capacities greater than 150,000 liters (39,000 gallons) except as indicated in subsection (c) and paragraph (c)(H); 
+
+ (b) Exemptions: Subsection (c) does not apply to petroleum liquid storage vessels which: 
+
+ (A) Are used to store waxy, heavy pour crude oil; 
+
+ (B) Have capacities less than 1,600,000 liters (420,000 gallons) and are used to store produced crude oil and condensate prior to lease custody transfer; 
+
+ (C) Contain a VOC liquid with a true vapor pressure of less than 10.5 kPa (1.5 psia) where the vapor pressure is measured at the storage temperature; 
+
+ (D) Contain a VOC liquid with a true vapor pressure less than 27.6 kPa (4.0 psia); that 
+
+ (i) Are of welded construction; and 
+
+ (ii) Presently possess a metallic-type shoe seal, a liquid-mounted foam seal, a liquid-mounted liquid filled type seal, or other closure device of demonstrated equivalence approved by DEQ; or 
+
+ (E) Are of welded construction, equipped with a metallic-type shoe primary seal and has a secondary seal from the top of the shoe seal to the tank wall (shoe-mounted secondary seal). 
+
+ (c) No owner of a VOC liquid storage vessel subject to this rule may store VOC liquid in that vessel unless: 
+
+ (A) The vessel has been fitted with: 
+
+ (i) A continuous secondary seal extending from the floating roof to the tank wall (rim-mounted secondary seal); or 
+
+ (ii) A closure or other device which controls VOC emissions with an effectiveness equal to or greater than a seal required under subparagraph (A)(i) as approved in writing by DEQ. 
+
+ (B) All seal closure devices meet the following requirements: 
+
+ (i) There are no visible holes, tears, or other openings in the seals or seal fabric; 
+
+ (ii) The seals are intact and uniformly in place around the circumference of the floating roof between the floating roof and the tank wall; and 
+
+ (iii) For vapor mounted seals, the accumulated area of gaps exceeding 0.32 cm (1/8 inch) in width between the secondary seal and the tank wall are determined by the method in subsection (d) and must not exceed 21.2 cm2 per meter of tank diameter (1.0 in2 per foot of tank diameter). 
+
+ (C) All openings in the external floating roof, except for automatic bleeder vents, rim space vents, and leg sleeves, are: 
+
+ (i) Equipped with covers, seals, or lids in the closed position except when the openings are in actual use; and 
+
+ (ii) Equipped with projections into the tank which remain below the liquid surface at all times. 
+
+ (D) Automatic bleeder vents are closed at all times except when the roof is floated off or landed on the roof leg supports; 
+
+ (E) Rim vents are set to open only when the roof is being floated off the leg supports or at the manufacturer's recommended setting; 
+
+ (F) Emergency roof drains are provided with slotted membrane fabric covers or equivalent covers which cover at least 90 percent of the area of the opening; and 
+
+ (G) The owner or operator of a VOC liquid storage vessel with an external floating roof subject to subsection (c) must: 
+
+ (i) Perform routine inspections semi-annually in order to ensure compliance with paragraphs (A) through (F) and the inspections must include a visual inspection of the secondary seal gap; 
+
+ (ii) Measure the secondary seal gap annually in accordance with subsection (d) when the floating roof is equipped with a vapor-mounted primary seal; and 
+
+ (iii) Maintain records of the types of VOC liquids stored, the maximum true vapor pressure of the liquid as stored, and the results of the inspections performed in subparagraphs (G)(i) and (ii). 
+
+ (H) The owner or operator of a VOC liquid storage vessel having a capacity equal to or less than 150,000 liters (39,000 gallons) with an external floating roof, but containing a VOC liquid with a true vapor pressure greater than 7.00 kPa (1.0 psi), must maintain records of the average monthly storage temperature, the type of liquid, and the maximum true vapor pressure for all VOC liquids with a true vapor pressure greater than 7.0 kPa; 
+
+ (I) The owner or operator of a VOC liquid storage vessel subject to this rule, must submit to DEQ, as a minimum, annual reports summarizing the inspections; 
+
+ (J) Copies of all records and reports under paragraphs (G) (H), and (I) must be retained by the owner or operator for a minimum of five years after the date on which the record was made or the report submitted; 
+
+ (K) Copies of all records and reports under this section must immediately be made available to DEQ, upon verbal or written request, at any reasonable time; 
+
+ (L) DEQ may, upon written notice, require more frequent reports or modify the monitoring and recordkeeping requirements, when necessary to accomplish the purposes of this rule. 
+
+ (d) Secondary Seal Compliance Determination: 
+
+ (A) The owner or operator of any VOC source required to comply with section (4) must demonstrate compliance by the methods of this section or an alternative method; 
+
+ (B) A person proposing to conduct a VOC emissions test must notify DEQ of the intent to test not less than 30 days before the proposed initiation of the tests so DEQ may observe the test. The notification must contain the information required by, and be in a format approved by DEQ; 
+
+ (C) Compliance with subparagraph (4)(c)(B)(iii) is determined by: 
+
+ (i) Physically measuring the length and width of all gaps around the entire circumference of the secondary seal in each place where a 0.32 cm (1/8 inch) uniform diameter probe passes freely (without forcing or binding against the seal) between the seal and tank wall; and 
+
+ (ii) Summing the area of the individual gaps. 
+
+ NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, 468A.025, 468A.050 & 468A.070 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468A.025, 468A.050 & 468A.070 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 140-2018, minor correction filed 04/11/2018, effective 04/11/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 7-2015, f. & cert. ef. 4-16-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-022-0160 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 4-1993, f. & cert. ef. 3-10-93 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 8-1991, f. & cert. ef. 5-16-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 3-1986, f. & ef. 2-12-86 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 23-1980, f. & ef. 9-26-80 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 17-1979, f. & ef. 6-22-79 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 21-1978, f. & ef. 12-28-78 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

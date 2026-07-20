@@ -1,0 +1,232 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 116 USE OF RADIONUCLIDES IN THE HEALING ARTS 
+ 333-116-0445 
+ Calibration Measurements of Brachytherapy Sources
+ 
+ 
+ (1) Before the first medical use of a brachytherapy source on or after July 1, 2006, a licensee must have: 
+
+ (a) Determined the source output or activity using a dosimetry system that meets the requirements of OAR 333-116-0560(1); 
+
+ (b) Determined source positioning accuracy within applicators; and 
+
+ (c) Used published protocols currently accepted by nationally recognized bodies to meet the requirements of section (1) of this rule. 
+
+ (2) Instead of a licensee making its own measurements as required in this rule, the licensee may use measurements provided by the source manufacturer or by a calibration laboratory accredited by the American Association of Physicists in Medicine that are made in accordance with section (1) of this rule. 
+
+ (3) A licensee must mathematically correct the outputs or activities determined in section (1) of this rule for physical decay at intervals consistent with one percent physical decay. 
+
+ (4) Only an authorized medical physicist must calculate the activity of each strontium-90 source that is used to determine the treatment times for ophthalmic treatments. The decay must be based on the activity determined under section (1) of this rule. 
+
+ (5) A licensee must retain a record of each calibration in accordance with OAR 333-100-0057. Each record must include: 
+
+ (a) The date of the calibration; 
+
+ (b) The manufacturer's name, model number, and serial number for the source and the instruments used to calibrate the source; 
+
+ (c) The source output or activity; 
+
+ (d) The source positioning accuracy within the applicators; and 
+
+ (e) The name of the individual, the source manufacturer, or the calibration laboratory that performed the calibration. 
+
+ (6) Records of decay of strontium-90 sources for ophthalmic treatments must maintain a record of the activity of a strontium-90 source for the life of the source. The record must include: 
+
+ (a) The date and initial activity of the source; and 
+
+ (b) For each decay calculation, the date and the source activity. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 453.635 
+ 
+ 
+ Statutes/Other Implemented:  ORS 453.605 - 453.807 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 34-2018, minor correction filed 02/01/2018, effective 02/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 14-2008, f. & cert. ef. 9-15-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 4-2007, f. & cert. ef. 3-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 12-2006, f. & cert. ef. 6-16-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

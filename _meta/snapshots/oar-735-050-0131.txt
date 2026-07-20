@@ -1,0 +1,239 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Transportation 
+ Driver and Motor Vehicle Services Division - Chapter 735 
+ 
+ 
+ 
+ 
+ Division 50 FINANCIAL RESPONSIBILITY 
+ 735-050-0131 
+ Oregon Automobile Liability Insurance Reporting (ALIR) Requirements 
+ 
+ (1) This rule establishes the information required to be reported to DMV by trading partners and the form in which the information must be submitted, as required by ORS 742.580 and 806.195. 
+
+ (2) For purposes of this rule, a “trading partner” means an entity that exchanges motor vehicle liability insurance information with DMV. “Trading partner” includes an insurance company or third-party service bureau exchanging insurance information with DMV on behalf of insurance companies. 
+
+ (3) A trading partner must provide motor vehicle liability information to DMV in the data file format established in the Oregon Automobile Liability Insurance Reporting (ALIR) Technical Specifications Manual (DMV form 735-7483C (5-24)). 
+
+ (4) A trading partner must establish an ALIR trading partner profile by submitting Oregon DMV ALIR Trading Partner Profile Information - New Profile (DMV form 735-7488A) to DMV. 
+
+ (5) A trading partner may change its ALIR trading partner profile by submitting a completed Oregon DMV ALIR Trading Partner Profile Information – Change Profile (DMV form 735-7488C) to DMV. 
+
+ (6) In addition to submitting the form described in section (5) of this rule, a trading partner exchanging ALIR data on behalf of an insurance company or a trading partner that is an insurance company exchanging ALIR data must establish an Insurance Company Profile with DMV. A trading partner must establish an insurance company profile for each insurance company for which the trading partner is exchanging ALIR data. A trading partner establishes an insurance company profile by submitting Oregon DMV ALIR Insurance Company Profile Information – New Profile (DMV form 735-7488B) to DMV. 
+
+ (7) A trading partner exchanging ALIR data on behalf of an insurance company or an insurance company exchanging ALIR data may change the insurance company’s existing profile by submitting Oregon DMV ALIR Insurance Company Profile Information – Change Profile (DMV form 735-7488D) to DMV. 
+
+ (8) Prior to exchanging ALIR data, a new trading partner must successfully establish connectivity with DMV and complete the testing described in the Automobile Liability Insurance Reporting (ALIR) Technical Specifications Manual (DMV form 735-7483C (5-24)). 
+
+ (9) An ALIR data exchange error results in DMV’s return of an error message and is not added to ALIR. 
+
+ (10) An ALIR data exchange error results in DMV’s return of original data records sent by the trading partner along with an error code. Only records with errors are returned to the insurer. 
+
+ (11) In response to a DMV data exchange error or failure message, a trading partner is responsible for correcting data and resubmitting information in the ALIR database. 
+
+ (12) The reporting and records maintenance requirements implemented under ORS 742.580, 802.270, 806.195, and OAR 735-050-0131 may be used to augment DMV insurance monitoring programs used in determining uninsured motorist issues but does not affect any financial responsibility requirements. 
+
+ (13) Motor vehicle liability insurance information brought or sent to DMV for manual entry to the ALIR database will not be accepted. 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 184.619, 802.010 & 806.195 
+ 
+ 
+ Statutes/Other Implemented:  ORS 742.580, 802.270 & 806.195 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMV 28-2024, amend filed 08/06/2024, effective 08/06/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMV 10-2021, amend filed 05/14/2021, effective 06/01/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMV 16-2019, minor correction filed 08/06/2019, effective 08/06/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMV 15-2019, adopt filed 07/22/2019, effective 07/22/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

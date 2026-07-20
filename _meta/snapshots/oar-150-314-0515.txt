@@ -1,0 +1,316 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 314 INCOME TAXATION GENERALLY  GENERAL PROVISIONS 
+ 150-314-0515 
+ Oregon Composite Tax Return
+ 
+ 
+ (1) A pass-through entity (PTE) doing business in or deriving income from sources within this state is required to file an Oregon composite tax return if requested by one or more nonresident owners. 
+
+ (a) Computation of tax. Each PTE filing a composite return on behalf of electing nonresident owners must calculate the tax for each owner. The tax liability for each nonresident owner included on the composite return, determined without regard to the tax credits allowed under subsection (1)(b) of this rule, is calculated by applying the Oregon tax rates based on the owner's filing status to the difference between the owner's share of the entity's Oregon-source distributive income for the taxable year and, if applicable, the owner's self-employment tax deduction, as provided for in subsection (1)(b) of this rule. If distributive income is apportioned, the deduction must also be apportioned by multiplying the owner's federal deduction for one-half self-employment tax (attributable to the owner's share of the entity's net earnings from self-employment), if applicable, by the apportionment percentage provided in ORS 314.650 through 314.675. The PTE will report on the Oregon composite return the tax computed for each electing owner and total amounts for all electing owners. 
+
+ (b) Credits and deductions. Below is a list of items that may or may not be allowed for the electing owners. [See PDF link below] 
+
+ (c) Net operating losses for Oregon nonresidents subject to tax under ORS chapter 316 are computed under ORS 316.028. A PTE that has filed an Oregon composite tax return on behalf of nonresident individual owners may file amended returns to carry back the Oregon net operating losses incurred by the PTE. A schedule must be retained by the PTE indicating the taxpayers affected and calculations of the loss amounts and made available to the department upon request. These losses may also be carried forward. The allowed carryback and carryforward periods (including elections to forego the carryback period) are the same as provided under Internal Revenue Code section 172. The election to forego the carryback period must be made by attaching a statement to the Oregon composite return filed on or before the due date (including extensions) of the return for the loss year. Corporations are not allowed to carry back a net operating loss (ORS 317.476). 
+
+ (2) Election to participate in an Oregon composite tax return. The following provisions apply: 
+
+ (a) The owner must make a separate election for each tax year; 
+
+ (b) The owner must have been a nonresident of Oregon during the owner's entire tax year; 
+
+ (c) The owner is considered to have made the election on the date the PTE files the composite return that includes the owner; 
+
+ (d) By making the election, the owner elects to have the owner's Oregon tax liability on the owner’s share of distributive income from Oregon sources paid and reported by the PTE; 
+
+ (e) The owner is ultimately liable for tax, penalty and interest if the PTE fails to file a composite tax return or pay the tax on behalf of the owner; and 
+
+ (f) The election to participate in an Oregon composite tax return is irrevocable after the due date of the composite return, including extensions. 
+
+ 
+ Example 1 : Rene, an Oregon resident, is included as an owner in a composite filing. Rene’s election to participate is invalid because as an Oregon resident he may not join in the composite filing. Rene didn’t include the income reported on the composite return on his return. Rene must notify the PTE of the invalid election and amend his Oregon return to include the income reported on the composite return. The PTE must amend the composite return to remove Rene’s share of income. The PTE may submit a transfer request to move tax paid by the PTE on Rene’s behalf to Rene’s account. In the absence of the request from the PTE, the PTE will receive a refund for tax paid by the PTE on Rene’s behalf. 
+
+ Example 2 : Edie, a full-year resident of Idaho, is a shareholder in D-Cat, Inc., which does business in Oregon. Edie is eligible to join in a composite return filed by D-Cat, Inc. On February 1, 2020, Edie informed D-Cat, Inc. that she wished to join in the composite return for the 2020 tax year. Edie filed her Oregon return on April 14, 2021, forgetting she had elected to join in the composite return, and included her share of D-Cat, Inc.’s income on her return. D-Cat, Inc. is a calendar year S corporation filer and filed a timely extension for its S corporation’s composite return. D-Cat, Inc. also filed a composite return on May 15, 2021, including Edie’s share of D-Cat, Inc.’s income. Edie is allowed to revoke her election to participate in a composite filing up to the due date for the composite return, including extensions. To revoke her election, Edie must inform D-Cat., Inc. of her revocation, and D-Cat, Inc. must file an amended composite return no later than October 15, 2021, to remove Edie’s share of D-Cat, Inc.’s income from their return. D-Cat, Inc. may include a payment transfer request with the amended return under section 5 of this rule. In the absence of a payment transfer request, any refund of tax paid in response to the amended composite return will be made to D-Cat, Inc. Alternatively, instead of revoking her election, Edie may amend her tax return to remove her share of D-Cat, Inc.’s income which was reported twice. 
+ 
+
+ 
+ Example 3 : Using the same facts as in 2, except both Edie and D-Cat, Inc. filed original returns on October 15, 2021. Edie and D-Cat, Inc. had filed valid extensions. On October 31, 2021, Edie learns she is included in the composite return filed by D-Cat, Inc. Edie’s participation in the composite return filed by D-Cat, Inc. became irrevocable on October 16, 2021. Edie’s share of D-Cat, Inc.’s income is being reported twice, once on the return filed by Edie and again on the composite return filed by D-Cat, Inc. Although Edie’s share of D-Cat, Inc.’s income may not be removed from the composite return filed by D-Cat, Inc., she may amend her tax return to remove her share of D-Cat, Inc.’s income which was reported twice. 
+ 
+
+ (3)(a) Disregarded entities. The PTE must look to the owner of a disregarded entity to determine whether the owner of the disregarded entity may choose to join in the composite filing. 
+
+ 
+ Example 4 : Hermiston Partners is owned by four individuals, one grantor trust, and one single-member LLC. The trust and LLC are disregarded entities, and the owner of each disregarded entity is a nonresident. Hermiston Partners will look to the nonresident owner of each disregarded entity to determine if that nonresident owner may elect to join in the filing of a composite return. 
+
+ The grantor trust is owned by a nonresident individual. Hermiston Partners looks to the individual who owns the grantor trust. Hermiston Partners must allow the individual to join in the filing of the composite return. Hermiston Partners will use the individual’s name and Social Security number on the composite return, not the name or tax identification number of the disregarded trust. If the individual doesn’t join in the composite filing or file an affidavit, Hermiston Partners must send in estimated payments on the individual’s behalf as required in OAR 150-314-0520. 
+
+ The single-member LLC is owned by another partnership, Ontario LP. A partnership can’t join in the filing of a composite return. Thus, Hermiston Partners cannot include Ontario LP in the composite return and is not required to send in estimated payments on behalf of the LP. Ontario LP is the entity responsible for filing a composite return or sending estimated payments for its owners. 
+ 
+
+ (b) Corporate owners. 
+
+ (A) A corporate owner’s distributive income may be included in a composite return only when its distributive share is not required to be included in the corporate owner’s apportionable income. A PTE filing a composite return should assume a corporate owner’s distributive share is required to be included in the corporate owner’s apportionable income unless the corporate owner notifies the PTE in writing that it is not. 
+
+ (B) If it is determined by the department that the corporate owner’s distributive share should be included in the corporation’s apportionable income, the corporate owner’s election to be included in the composite return is invalid. The corporate owner must notify the PTE, and the PTE may file an amended composite return for a refund of tax that was paid on the corporate owner’s distributive share included in the composite return subject to the limitations provided in ORS 314.415. The PTE may file a transfer request to move the tax paid for the corporate owner to the owner’s account instead of having the tax refunded to the PTE. In the absence of the amended return, the department may adjust the composite return subject to the limitations provided in ORS 314.415. 
+
+ (C) The PTE must include an indirect corporate owner’s share of distributive income in the composite return unless the PTE can reasonably determine that the indirect corporate owner’s share of income is required to be included in the indirect corporate owner’s apportionable income. 
+
+ (D) Income includable in an indirect corporate owner’s apportionable income may be considered as reasonably determined if the PTE has received written notice from the indirect corporate owner that the indirect corporate owner’s distributive share of income is required to be included in the indirect corporate owner’s apportionable income. 
+
+ (4) Filing and payment requirements. 
+
+ (a) Due date. The Oregon composite tax return is due the 15th day of the fourth month after the close of the tax year of the majority of the number of electing owners. 
+
+ 
+ Example 5 : Around-the-Bend LLC (ATB) has a tax year ending June 30. The nonresident owners that want to join in the composite filing consist of four individuals and three corporations. Because the individuals are all calendar year taxpayers, the majority of owners have a calendar tax year which ends December 31. Therefore the composite return and any estimated payments are due using a calendar tax year. For the calendar tax year ending December 31, 2020, the composite return will include the income reported by ATB for its tax year ending June 30, 2020. The 2020 composite return that ATB will file on behalf of its owners is due April 15, 2021. 
+
+ Example 6 : Coast Around Oregon Incorporated (CAO) is an S corporation with a tax year ending October 31. The nonresident owners that want to join in the composite filing consist of 15 individuals, all calendar year taxpayers. For tax year 2020, the composite return will include the income reported by CAO for its tax year ending October 31, 2020. The 2020 composite return that CAO will file on behalf of its owners is due April 15, 2021. 
+ 
+
+ (b) Payment of amounts due. Payment of the amount due is made by the PTE on the owner's behalf and must accompany the filing of the Oregon composite tax return. The payment must include the tax due plus any penalty or interest provided by Oregon law. 
+
+ (c) Refund of tax made pursuant to a composite return filed after the due date, including extensions and filed under these provisions will be paid to the PTE, except as provided in Section 5, regardless of changes in ownership or changes in the identity of nonresidents participating in an Oregon composite filing. 
+
+ (d) Extensions of time to file. If the entity is granted a federal or Oregon extension of time to file the entity's return (partnership return or S corporation return), an extension for filing the Oregon composite return is allowed. This is true even if the composite return reports the income in a different tax year than the entity’s partnership or S corporation return. The entity must keep a copy of the federal extension with its tax records. The extension to file the composite return is 6 months from the composite return due date. 
+
+ 
+ Example 7 : Pendleton LLC filed for extension for its tax year ending June 30, 2021 (Form Year 2020 partnership return). The partnership return had an original due date of October 15, 2021. The owners of Pendleton LLC are calendar year filers. Therefore, they report the income for the calendar tax year that ends December 31, 2021. There is an extension of time to file a composite return on behalf of the nonresident owners that elect to participate in the 2021 composite return filed by Pendleton because the partnership has an extension to file for the partnership return. The 2021 composite return reporting this income is due April 15, 2022; however, with the extension, it is due October 15, 2022. The 6-month extension applies, even though the income is reported in a different tax year for the owners and Pendleton LLC received an extension for filing its partnership return. 
+ 
+
+ (e) A nonresident owner may file a separate tax return and elect to join in the filing of a composite return. The income reported on the composite return is subtracted on the owner’s separate return and tax is paid only on the Oregon-source income not reported on the composite return. 
+
+ (5) Ineligibility or revoking an election to participate in a composite return. 
+
+ (a) One or more owners may revoke the election to join in the Oregon composite tax return after the Oregon composite tax return has been filed and before the due date of the composite return, including extensions. To revoke a previous election and transfer tax paid: 
+
+ (A) Upon notification of the revocation, the PTE must file an amended Oregon composite return removing the owner and request a transfer of any payment made on the owner’s behalf to the revoking owner’s account, and 
+
+ (B) The revoking owner must file a separate return with the department showing all items of income and deduction from the PTE. If the owner did not previously file a return for the year, this separate return will be treated as an original return and, if filed after the due date, any tax liability shown on the return is subject to interest and penalties in the same manner as any other delinquently filed original return. 
+
+ (b) If an owner becomes ineligible, revokes an election before the due date of the return, including extensions, or declines to participate in filing an Oregon composite return, and the PTE made tax payments on the owner's behalf with a composite return, the PTE may submit a written transfer request using forms and instructions provided by the department. The department will transfer the tax payment to the account of the owner only if the PTE submits such a written request to the department. 
+
+ 
+ Example 8 : Tariq, a nonresident owner in an S corporation, filed his individual tax return on April 2. On his return he reported his share of the S corporation’s income and paid the tax due. On May 2 Tariq learned he was included in the composite return filed by the S corporation. Tariq’s share of the S corporation’s income is being reported and taxed twice, once on his return and again on the composite return. Tariq decides to revoke his election to participate in a composite return and have his share of tax paid transferred to his own account. Tariq must notify the S corporation that he is revoking his election to participate in the composite return. The S corporation is a calendar year S corporation filer and filed a valid extension for the S corporation’s composite return. The S corporation must file an amended composite return with the department by October 15, the extended due date of the composite return and request a payment transfer. The department will process the amended composite return and, as directed by the S corporation, transfer the amount paid on Tariq’s behalf by the S corporation to his personal account. 
+
+ Example 9 : The facts are the same as in example 8, except that the S corporation didn’t file an extension for the S corporation’s composite return. Tariq’s election to participate in the composite return is irrevocable once the due date, April 15, for the composite return has passed. Tariq may amend his individual tax return to remove his share of the S corporation’s income reported on the composite return. Tariq may not claim the composite tax paid on his behalf as a payment. That tax was paid on income reported on the composite return. 
+ 
+
+ (c) An owner who does not or cannot elect to participate in an Oregon composite tax return is subject to withholding on the owner's share of the Oregon source distributive income under ORS 314.781 and OAR 150-314-0520. 
+
+ (6) Payment of tax on behalf of nonresident owners. Estimated tax payments are required for the composite return if the total Oregon tax due for any owner is expected to be $1,000 or more for an individual; or $500 or more for a corporation. The tax liability required to be paid is the sum of each owner's estimated tax liability for that quarter that is attributable to each owner's interest in the entity. In determining the electing owner's tax liability, the provisions of ORS 314.505 to 314.525 or 316.579 to 316.589 regarding calculation of estimated tax apply. The PTE must remit the tax payments to the department using forms and instructions provided by the department. 
+
+ [Publications: Publications referenced are available from the agency.] 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 
+ 
+ 
+ Statutes/Other Implemented:  ORS 314.778 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 35-2022, amend filed 12/28/2022, effective 01/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 14-2019, amend filed 12/13/2019, effective 01/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 150-314.778, REV 34-2016, f. 8-12-16, cert. ef. 9-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 10-2013, f. 12-26-13, cert. ef. 1-1-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 10-2010, f. 7-23-10, cert. ef. 7-31-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

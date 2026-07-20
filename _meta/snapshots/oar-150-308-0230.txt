@@ -1,0 +1,173 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 308 ASSESSMENT OF PROPERTY FOR TAXATION 
+ 150-308-0230 
+ Calculation of Maximum Assessed Value (MAV) for Lot Line Adjustments 
+ 
+ (1) For purposes of calculating MAV when properties are subject to a lot line adjustment, the portion of the property that is “affected” includes:  (a) All the land comprising the properties subject to the lot line adjustment.  (b) Buildings or structures when a new lot line divides the building or structure.  NOTE: An example of how to perform the mathematics of this rule is incorporated throughout the rule based upon the following information:  The zoning for both tax lot 100 and tax lot 200 is RR-5 (Rural Residential 5-acre minimum) requiring a minimum of five acres before a dwelling may be built.  Before the lot line adjustment, tax lot 100 was a vacant 4-acre lot that was unbuildable due to its size. Undersized lots sell for $7,000 per acre, making the real market value (RMV) of this unbuildable tax lot $28,000. The associated MAV for this tax lot was $22,400. Tax lot 200 is a vacant 8-acre lot that is buildable under the current zoning. Buildable lots sell for $15,000 per acre, making the RMV of this tax lot $120,000. The associated MAV for this tax lot is $96,000.  After the lot line adjustment both lots are 6 acres in size and are buildable under the current zoning. Because buildable lots sell for $15,000 per acre, it makes the RMV of each tax lot $90,000.  The changed property ratio (CPR) to be used in this example is .800.  (2) Calculate the total MAV of the affected portion before the lot line adjustment as follows:  (a) For each account subject to the lot line adjustment:  (A) Divide the affected portion’s RMV by the total RMV of the account.  Tax Lot (TL) 100: $28,000/$28,000 = 1.00  TL 200: $120,000/$120,000 = 1.00.  (B) Multiply the result of (A) by the property’s total MAV to determine the MAV attributable to the affected portion.  TL 100: 1.00 x $22,400 = $22,400.  TL 200: 1.00 x $96,000 = $96,000.  (b) Add the MAV attributable to the affected portion for each account to determine the total MAV of the affected portion before the lot line adjustment.  $22,400 + $96,000 = $118,400.  (3) Calculate the total MAV for the affected portion after the lot line adjustment as follows:  (a) For each account subject to the lot line adjustment, multiply the new RMV of the affected portion by the appropriate CPR to determine the MAV for the affected portion as follows.  TL 100: $90,000 x .800 = $72,000.  TL 200: $90,000 x .800 = $72,000.  (b) Add the MAV for the affected portion of each account to determine the total MAV of the affected portion after the lot line adjustment.  $72,000 + $72,000 = $144,000.  (4) Compare the total MAV of the affected portion before the lot line adjustment to the total MAV of the affected portion after the lot line adjustment as follows:  Before = $118,400. After = $144,000.  (a) If the total MAV of the affected portion after the lot line adjustment is equal to or lesser than the total MAV of the affected portion before the lot line adjustment: Add the MAV for the affected portion of each account to any unaffected MAV for that account to determine the total MAV for each account.  The example does not fit this description. Continue to paragraph (b).  (b) If the total MAV of the affected portion after the lot line adjustment is greater than the total MAV of the affected portion before the lot line adjustment, the MAV for the affected portion of each account must be proportionally reduced.  The example fits this description. Proceed to paragraph (A).  (A) Divide the total MAV of the affected portion before the lot line adjustment by the total MAV of the affected portion after the lot line adjustment to determine the proportionate reduction.  $118,400/$144,000 = .822222.  (B) Multiply the proportionate reduction by the MAV of the affected portion after the lot line adjustment for each account.  TL 100: .822222 x $72,000 = $59,200.  TL 200: .822222 x $72,000 = $59,200.  (C) Add the MAV of the affected portion after the proportionate reduction in (B) to any unaffected MAV for that account to determine the total MAV for each account.  TL 100: $59,200 + $0 = $59,200.  TL 200: $59,200 + $0 = $59,200. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 & 308.156 
+ 
+ 
+ Statutes/Other Implemented:  ORS 308.159 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 150-308.159, REV 57-2016, f. 8-13-16, cert. ef. 9-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 6-2003, f. & cert. ef. 12-31-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

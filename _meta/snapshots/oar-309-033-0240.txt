@@ -1,0 +1,307 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Behavioral Health Services - Chapter 309 
+ 
+ 
+ 
+ 
+ Division 33 CIVIL COMMITMENT PROCEEDINGS 
+ 309-033-0240 
+ Initiation of the Civil Commitment Process 
+ 
+ (1) Initiation. The civil commitment process is initiated when a Notice of Mental Illness (NMI) is filed with the circuit court. The NMI shall be filed with the circuit court as directed below: 
+
+ (a) Public petition. When an NMI is given to the director of the county where the person alleged to have a mental illness resides pursuant to ORS 426.070, the director shall immediately file the NMI with the court in the county where the person alleged to have a mental illness resides. If the person has no residence, then the NMI shall be given to the director in the county where the person is currently located. The director shall file the original NMI with the court on the day the NMI is received or, if the NMI is received outside the court’s routine business hours, the next day the court is open for business. The director shall retain a copy of the NMI in the clinical record as required by OAR 309-033-0930. The following persons may give an NMI to the director: 
+
+ (A) Any two persons; 
+
+ (B) A county health officer; or 
+
+ (C) Any magistrate or judge. 
+
+ (b) Hospital hold. When a Licensed Independent Practitioner (LIP) admits or retains a person in a hospital pursuant to ORS 426.232, the LIP shall: 
+
+ (A) Immediately notify the director in the county in which the hospital is located unless the person resides in a county other than the county where the hospital is located, in which case the LIP shall immediately notify the director in the person’s county of residence and offer that director the first right of refusal; and 
+
+ (B) File the NMI with the appropriate circuit court as follows: 
+
+ (i) If the director of the person’s county of residence requests it, the LIP shall file the NMI with the circuit court in the person’s county of residence; or 
+
+ (ii) If the director of the person’s county of residence does not request it, or the person does not maintain a residence in Oregon, the LIP shall file the NMI with: 
+
+ (I) The circuit court in the county in which the hospital is located if the person did not arrive at the hospital under custody pursuant to ORS 426.228 or ORS 426.233; or 
+
+ (II) The circuit court in the county of custody if the director of the county in which the hospital is located does not request that the NMI be filed in its circuit court. 
+
+ (c) Nonhospital hold. When a director admits or retains a person in a nonhospital facility pursuant to ORS 426.233, the director shall file the NMI as follows: 
+
+ (A) If the director of the person’s county of residence requests it, the NMI shall be filed with the circuit court in the county of residence; or 
+
+ (B) If the director of the person’s county of residence does not request it, the NMI shall be filed with the circuit court in the county of custody. 
+
+ (d) How a director requests where the NMI is filed. A director may request that the LIP, in the case of a hospital hold, or the director of the county of custody, in the case of a nonhospital hold, file the NMI according to the provisions of ORS 426.234 by either: 
+
+ (A) Making the request immediately upon receipt of the notice required by ORS 426.234; or 
+
+ (B) Sending a written general request to a hospital or a director. 
+
+ (2) Initiation for a Person under the Jurisdiction of a Federally Recognized Tribe in Oregon. The civil commitment process may be initiated for a person under the jurisdiction of a federally recognized tribe located in Oregon by a tribal court pursuant to ORS 426.180, by a tribal court or other statutory grounds pursuant to ORS 426.070, or by a licensed independent practitioner (LIP) pursuant to ORS 426.232. 
+
+ (a) Initiation by a Tribal Court in Oregon. When a person is received at a hospital or nonhospital facility pursuant to ORS 426.180, the LIP at the hospital or nonhospital facility shall immediately review the accompanying medical records and court documents. 
+
+ (i) After reviewing the documentation, the receiving LIP may decline to hold the person if the LIP: 
+
+ (I) Does not believe that an emergency exists; or 
+
+ (II) Finds that the person is not a danger to self or others and is not in need of immediate care, custody, and treatment for mental illness. 
+
+ (ii) If the LIP determines that an emergency exists or that the person is a danger to self or others and is in need of emergency care or treatment for mental illness, the LIP shall: 
+
+ (I) Admit the person to the hospital or nonhospital facility by detaining the person pursuant to ORS 426.231 or placing an emergency hold pursuant to ORS 426.232; 
+
+ (II) Provide the person with the warning in accordance with ORS 426.123; and 
+
+ (III) Immediately file a NMI with the circuit court in the county in which the hospital is located and immediately notify the CMHP director in that county. 
+
+ (iii) The director of the hospital or nonhospital facility or LIP shall notify the tribal court that found the person to be a danger to self or others of any action taken in accordance with ORS 426.180 through ORS 426.210 no later than 24 hours after the action is taken, except for information protected from disclosure by state or federal laws. 
+
+ (b) Initiation  Pursuant to ORS 426.070. If a NMI is filed under ORS 426.070(1) for a person under the jurisdiction of a federally recognized tribe located in Oregon, the NMI shall be provided to the CMHP director in the county where the person alleged to have a mental illness resides, unless the person is eligible for services provided by a tribal CMHP in which case the NMI shall be provided to the CMHP director in the county where the person is located. When the CMHP director receives a NMI pursuant to this rule, the director shall immediately notify the judge in the circuit court where the CMHP is located. The following persons may provide a NMI to the director: 
+
+ (A) Any two persons; 
+
+ (B) A county health officer; or 
+
+ (C) Any magistrate or judge. 
+
+ (c) Initiation Pursuant to ORS 426.232. When a person under the jurisdiction of a federally recognized tribe located in Oregon is received at a hospital or nonhospital facility pursuant to ORS 426.232, after an LIP has evaluated the person, the following shall occur: 
+
+ (A) If the LIP determines that there likely is probable cause to believe the person is a danger to self or others and is in need of emergency care or treatment for mental illness, the LIP shall: 
+
+ (i) Admit the person to a hospital where the LIP has admitting privileges or is on staff; or approve the person for emergency care or treatment at a nonhospital facility approved by the Authority; 
+
+ (ii) Inform the person of their right to counsel and provide the warning in accordance with ORS 426.100 and 426.123; 
+
+ (iii) Notify the CMHP director in the county where the person alleged to have a mental illness resides, unless the person lives on an Indian reservation located within Oregon in which case the NMI shall be provided to the CMHP director in the county where the person is located. 
+
+ (iv) When the CMHP director receives the LIP’s notification as described in subsection (1)(e)(C)(3) of this rule, the director shall immediately notify the judge in the circuit court where the CMHP is located; 
+
+ (B) If the LIP determines there likely is not probable cause to believe the person is a danger to self or others and that the person is in need of emergency care or treatment for mental illness, the LIP shall release the person unless otherwise directed by a state or federal court order or the person agrees to remain in the hospital voluntarily. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042, 426.070, 426.180, 426.228, 426.231 & 426.232 & 426.236 
+ 
+ 
+ Statutes/Other Implemented:  ORS 426.005 - 426.395 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BHS 7-2024, amend filed 04/30/2024, effective 05/28/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BHS 42-2023, temporary amend filed 12/14/2023, effective 12/15/2023 through 06/11/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BHS 9-2023, amend filed 04/04/2023, effective 04/07/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ MHD 9-2000, f. & cert. ef. 7-21-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ MHD 2-2000(Temp), f. & cert. ef. 1-25-00 thru 7-22-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ MHD 6-1998, f. 6-26-98, cert. ef. 7-1-98, Renumbered from 309-200-0050 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

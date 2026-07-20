@@ -1,0 +1,330 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Department of Education 
+ Chapter 581 
+ 
+ 
+ 
+ 
+ 
+ Division 28 CONNECTING OREGON SCHOOLS 
+ 581-028-0015 
+ Connecting Oregon Schools Fund Priority List Calculations 
+ 
+ (1) The Department shall rank all applications received according to the Priority Calculations. 
+
+ (2) The Priority Calculations shall be based on an Organization’s Free and Reduced Lunch Percentage, the Number of Schools in the Organization, the presence of Remote Small Elementary Schools, the Organization’s current type of internet connection, and the Organization’s download speed. 
+
+ (3) The Priority Calculations shall be as follows: 
+
+ (a) District Calculation: 
+
+ (A) The District’s Free and Reduced Lunch Percentage shall be multiplied by 100 to create the Base Rate. If a District does not have a Free and Reduced Lunch Percentage then the District shall be assigned a percentage as follows: 
+
+ (i) If the District has a Remote Small Elementary School, then 90; or 
+
+ (ii) If the District does not have a Remote Small Elementary School, then 50. 
+
+ (B) The Number of Schools in the District shall be subtracted from the Base Rate to create the School Rate. 
+
+ (C) The School Rate shall be adjusted by the presence of a Remote Small Elementary School to obtain the Revised School Rate as follows: 
+
+ (i) Increased by 10 if a District has a Remote Small Elementary School; or 
+
+ (ii) No change if a District does not have a Remote Small Elementary School. 
+
+ (D) The Revised School Rate shall be adjusted by internet connection type and internet download speed to obtain the Final Priority Rank as follows: 
+
+ (i) Internet connection type at the location of the proposed construction project: 
+
+ (I) Increased by 5 for an internet connection type that uses DSL or Satellite Connection; 
+
+ (II) No change for an internet connection type that uses other internet connections that are not otherwise defined; or 
+
+ (III) Decreased by 5 for an internet connection type that uses Cable Connection. 
+
+ (ii) Internet download speed at the location of the proposed construction project: 
+
+ (I) Increased by 5 for an internet download speed less than or equal to 25 Mbps; 
+
+ (II) No change for an internet download speed greater than 25 Mbps and less than or equal to 100 Mbps; or 
+
+ (III) Decreased by 5 for an internet download speed greater than 100 Mbps. 
+
+ (b) Charter School Calculation: 
+
+ (A) The Free and Reduced Lunch Percentage of the District where the Charter School is located or headquartered shall be multiplied by 100 to create the Base Rate. If a District does not have a Free and Reduced Lunch Percentage then the Charter School shall be assigned a percentage as follows: 
+
+ (i) If the District where the Charter School is located or headquartered has a Remote Small Elementary School, then 90; or 
+
+ (ii) If the District where the Charter School is located or headquartered does not have a Remote Small Elementary School, then 50. 
+
+ (B) The Number of Schools in the District where the Charter School is located or headquartered shall be subtracted from the Base Rate to create the School Rate. 
+
+ (C) The School Rate shall be adjusted by the presence of a Remote Small Elementary School to obtain the Revised School Rate as follows: 
+
+ (i) Increased by 10 if a Charter School is a Remote Small Elementary School; or 
+
+ (ii) No change if a Charter School is not a Remote Small Elementary School. 
+
+ (D) The Revised School Rate will be adjusted by internet connection type and internet download speed to obtain the Final Priority Rank as follows: 
+
+ (i) Internet connection type of the Charter School: 
+
+ (I) Increased by 5 for an internet connection type that uses DSL or Satellite Connection; 
+
+ (II) No change for an internet connection type that uses other internet connections that are not otherwise defined; or 
+
+ (III) Decreased by 5 for an internet connection type that uses Cable Connection. 
+
+ (ii) Internet download speed of the Charter School: 
+
+ (I) Increased by 5 for an internet download speed less than or equal to 25 Mbps; 
+
+ (II) No change for an internet download speed greater than 25 Mbps and less than or equal to 100 Mbps; or 
+
+ (III) Decreased by 5 for an internet download speed greater than 100 Mbps. 
+
+ (c) ESD Calculation: 
+
+ (A) The Free and Reduced Lunch Percentage of the ESD shall be multiplied by 100 to create the Base Rate. If an ESD does not have a Free and Reduced Lunch Percentage, then the ESD shall use the average Free and Reduced Lunch Percentage of all of the ESD’s component Districts. 
+
+ (B) The Number of Schools for the component Districts of an ESD shall be averaged and subtracted from the Base Rate to create the School Rate. 
+
+ (C) The School Rate shall be adjusted by the presence of a Remote Small Elementary School to obtain the Revised School Rate as follows: 
+
+ (i) Increased by 10 if more than half of the component Districts of an ESD have a Remote Small Elementary School; or 
+
+ (ii) No change if less than half of the component Districts of an ESD have a Remote Small Elementary School. 
+
+ (D) The Revised School Rate will be adjusted by internet connection type and internet download speed to obtain the Final Priority Rank as follows: 
+
+ (i) Internet connection type: 
+
+ (I) Increased by 5 if the majority of component Districts of an ESD have an internet connection type that uses DSL or Satellite Connection; 
+
+ (II) No change if the majority of component Districts of an ESD have an internet connection type that uses other internet connections that are not otherwise defined; or 
+
+ (III) Decreased by 5 if a majority of component Districts of an ESD have an internet connection type that uses Cable Connection. 
+
+ (ii) Internet download speed: 
+
+ (I) Increased by 5 if the component Districts of an ESD have an average internet download speed less than or equal to 25 Mbps; 
+
+ (II) No change if the component Districts of an ESD have an average internet download speed greater than 25 Mbps and less than or equal to 100 Mbps; or 
+
+ (III) Decreased by 5 if the component Districts of an ESD have an average internet download speed greater than 100 Mbps. 
+
+ (d) Consortium Calculation: 
+
+ (A) The Free and Reduced Lunch Percentages of the members of the Consortium shall be averaged and multiplied by 100 to create the Base Rate. If a member of the Consortium does not have a Free and Reduced Lunch Percentage, that member will have a Free and Reduced Lunch Percentage assigned as in OAR 581-028-0015(3)(a)(A) for Districts OAR 581-028-0015(3)(b)(A) for charter schools, or OAR 581-028-0015(3)(c)(A) for ESDs. 
+
+ (B) The Number of Schools for the members of the Consortium shall be averaged and subtracted from the Base Rate to create the School Rate. 
+
+ (C) The School Rate shall be adjusted by the presence of a Remote Small Elementary School to obtain the Revised School Rate as follows: 
+
+ (i) Increased by 10 if more than half of the members of the Consortium have a Remote Small Elementary School; or 
+
+ (ii) No change if less than half of the members of the Consortium have a Remote Small Elementary School. 
+
+ (D) The Revised School Rate will be adjusted by internet connection type and internet download speed to obtain the Final Priority Rank as follows: 
+
+ (i) Internet connection type: 
+
+ (I) Increased by 5 if the majority of members of the Consortium have an internet connection type that uses DSL or Satellite Connection; 
+
+ (II) No change if the majority of members of the Consortium have an internet connection type that uses other internet connections that are not otherwise defined; or 
+
+ (III) Decreased by 5 if a majority of members of the Consortium have an internet connection type that uses Cable Connection. 
+
+ (ii) Internet download speed: 
+
+ (I) Increased by 5 if the members of the Consortium have an average internet download speed less than or equal to 25 Mbps; 
+
+ (II) No change if the members of the Consortium have an average internet download speed greater than 25 Mbps and less than or equal to 100 Mbps; or 
+
+ (III) Decreased by 5 if the members of the Consortium have an average internet download speed greater than 100 Mbps. 
+
+ (4)(a) If Organizations have the same Final Priority Rank, then the Organization with the smallest ADMr shall receive a higher priority rank. 
+
+ (b) ADMr shall be calculated as follows: 
+
+ (A) Districts shall use their ADMr; 
+
+ (B) Charter Schools shall use their ADMr; 
+
+ (C) ESDs shall use the average ADMr of their component Districts; 
+
+ (D) Consortia shall use the average ADMr of their members. 
+
+ (5) Organizations will be fully funded according to their Priority Calculation ranking. If there are not enough funds to provide a full match to a given Organization, the Department shall provide a partial match to that Organization. The Organization shall have the option of rejecting the partial funding and applying the next year for a full match. 
+
+ (6) Organizations that do not receive any funds from the Connecting Oregon Schools Fund, may reapply at the next application period. 
+
+ (7) Organizations that receive funding from the Connecting Oregon Schools Fund, may reapply for a different project but will be considered after all new applicants have been funded. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  Oregon Laws 2018 (HB 4023), Chapter 51 & Section 3 
+ 
+ 
+ Statutes/Other Implemented:  Oregon Laws 2018 (HB 4023), Chapter 51 & Section 3 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ODE 1-2020, amend filed 02/27/2020, effective 02/28/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ODE 33-2018, adopt filed 10/19/2018, effective 10/19/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

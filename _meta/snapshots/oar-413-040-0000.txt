@@ -1,0 +1,677 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+   Temporary rule language in effect until 09/26/2026. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Child Welfare Programs - Chapter 413 
+ 
+ 
+ 
+ 
+ Division 40 CASE MANAGEMENT — SERVICE PLANS 
+ 413-040-0000 
+ Definitions
+ 
+ 
+ Unless the context indicates otherwise, the following definitions apply to rules in OAR chapter 413, division 040: 
+
+ (1) "AAICPC" means the Association of Administrators of the Interstate Compact on the Placement of Children, which is the national professional association of state administrators of the Interstate Compact on the Placement of Children, housed at the American Public Human Services Association (APHSA). 
+
+ (2) "Action agreement" means a written document between the Department and a parent or guardian that identifies one or more of the services or activities provided by the Department or other community partners, in which the parent or guardian may participate to achieve an expected outcome. 
+
+ (3) "Acquired Immune Deficiency Syndrome (AIDS)" is a disorder in which a person's immune system is severely suppressed. It is caused by the human immunodeficiency virus (HIV). In order for a person to be diagnosed as having AIDS, the virus, immune system suppression, and an opportunistic infection or other condition stipulated by the U.S. Centers for Disease Control must all be present. A laboratory diagnosis of a CD4 less than 200 also is an AIDS defined illness. 
+
+ (4) "Age-appropriate or developmentally appropriate activities" means: 
+
+ (a) Activities or items that are generally accepted as suitable for children or young adults of the same chronological age or level of maturity or that are determined to be developmentally appropriate for a child or young adult, based on the development of cognitive, emotional, physical, and behavioral capacities that are typical for an age or age group; and 
+
+ (b) In the case of a specific child or young adult, activities or items that are suitable for the child or young adult based on the developmental stages attained by the child or young adult with respect to the cognitive, emotional, physical, and behavioral capacities of the child or young adult. 
+
+ (5) “Applicant” means any individual other than the parent of the child who is being placed who applies for approval from the Department to become an ICPC placement. 
+
+ (6) "CANS screening" means Child and Adolescent Needs and Strengths screening, a process of gathering information on the needs and strengths of a child or young adult for one or more of the following purposes: 
+
+ (a) To identify case planning, service planning, and supervision needs of the child or young adult in substitute care with a certified family. 
+
+ (b) To determine the level of care payment while in substitute care with a certified family; and 
+
+ (c) To determine the level of care payment included in an adoption assistance agreement or guardianship assistance agreement. 
+
+ (7) "Case plan" means a written goal-oriented, time-limited individualized plan for the child and the child's family, developed by the Department and the parents or guardians, to achieve the child's safety, permanency, and well-being. 
+
+ (8) "Certificate of Approval" means a document the Department issues to a certified family to approve the operation of a home to provide care for a child or young adult in the care or custody of the Department. 
+
+ (9) "Certified family" means an individual or individuals who hold a current Certificate of Approval from the Department to operate a home to provide care, in the home in which the individual or individuals reside, to a child or young adult in the care or custody of the Department. 
+
+ (10) "Child" means a person under 18 years of age. 
+
+ (11) "Child protective services assessment"(CPS assessment) means an investigation into a report of abuse pursuant to ORS 419B.020 or ORS 418.205 - 418.327 that includes activities and interventions to identify and analyze safety threats, determine if there is reasonable cause to believe abuse occurred, and ensure safety through protective action plans, initial safety plans, or ongoing safety planning. 
+
+ (12) "Compact administrator" means the person for each party to the Compact responsible for carrying out the provisions of the Compact. 
+
+ (13) "Complete judicial review" means a hearing that results in a written order that contains the findings required under ORS 419B.476 or includes substantially the same findings as are required under ORS 419A.116. 
+
+ (14) "Concurrent permanent plan" means the alternate permanency plan whenever the child has been placed in substitute care when the goal of the permanency plan is to return the child to the parents. The "concurrent permanent plan" is developed simultaneously with the plan to return the child to the parents or legal guardians. 
+
+ (15) "Conditions for return" mean a written statement of the specific behaviors, conditions, or circumstances that must exist within a child's home before a child can safely return and remain in the home with an in-home ongoing safety plan. 
+
+ (16) "Counseling" means group and individual counseling, emotional support groups, one-on-one emotional support, AIDS education, and/or information services. 
+
+ (17) “Court jurisdiction only” means a case where the sending court has an open abuse, neglect or dependency case that establishes court jurisdiction with the authority to supervise, remove, and/or place the child, and where the child is not in the custody or guardianship of an agency or the court at the time the ICPC Request form 100A is completed. 
+
+ (18) "Date child entered substitute care" means the earlier of the following two dates: 
+
+ (a) The date the court found the child within the jurisdiction of the court (under ORS 419B.100); or 
+
+ (b) The date that is 60 days from the date of removal. 
+
+ (19) "Department" means the Department of Human Services, Child Welfare. 
+
+ (20) "Deputy compact administrator" means the person appointed by a compact administrator as the coordinator to ensure compliance with the ICPC and OAR 413-040-0200 to 0300. 
+
+ (21) "Expected outcome" means an observable, sustained change in a parent or guardian's behavior, condition, or circumstance that, when accomplished, may increase a parent or guardian's protective capacity and reduce or eliminate an identified impending danger safety threat, and which, when accomplished, may no longer require Child Welfare intervention to manage a child's safety. It is a desired end result and takes effort to achieve. 
+
+ (22) "Expert evaluation" means a written assessment prepared by a professional with specialized knowledge of a particular subject matter such as physical health, psychological health, mental health, sexual deviancy, substance abuse, and domestic violence. The assessment provides information regarding an individual's functioning in the area of the professional's specialized knowledge, and when the expert is evaluating a parent or guardian, whether the individual's functioning impacts his or her protective capacity. 
+
+ (23) “Face-to-face"  means an in-person interaction between individuals. When the parent, guardian, or Indian Custodian is an adult in custody at an Oregon Department of Corrections facility, a face-to-face contact includes virtual/video contact when in-person contact is prevented by the facility. 
+
+ (24) “FDM” means family decision-making meeting as defined by ORS 417.365. 
+
+ (25) “FEM” means the family engagement meeting. The FEM occurs between 30 – 60 days after a child or young adult has been placed in substitute care or a cooperative case has opened. This meeting is family-focused, facilitated by a highly skilled meeting facilitator, and officially moves the family’s case from co-case management to ongoing case planning with the family and the permanency worker. It is designed to build on the strengths of the family and their team in order to support the written safety plan and meeting conditions for return. These meetings must include Oregon Family Decision Meeting (OFDM) requirements as described in ORS 417.365 to 417.375 regarding concurrent planning. Extended family, natural supports and professionals are invited. The purpose of the family engagement meeting is to continue support case planning with the family to provide for the safety, attachment, and permanency needs of the child and family. 
+
+ (26) "Family member" means any person related to the child or young adult by blood, marriage, or adoption, including, but not limited to, the parents, grandparents, stepparents, aunts, uncles, sisters, brothers, cousins or great-grandparents. Family member also includes the registered domestic partner of a person related to the child, a child 12 years of age or older, and when appropriate, a child younger than 12 years of age. In a case involving an Indian child under the Indian Child Welfare Act (ICWA), a "family member" is defined by the law or custom of the child's tribe. 
+
+ (27) “Fictive kin” has the same meaning as kith and means an individual who is not related to the child or young adult by blood, adoption or marriage but has an emotionally significant relationship with the child or young adult that has the characteristics of a family relationship. 
+
+ (28) "Family plan" means a written document developed at the FDM that includes family recommendations on planning for the child and may include a permanency plan, concurrent permanent plan, placement recommendations, or service recommendations. The "family plan" also includes expectations of the parents of the child and other family members, services the Department may provide, timelines for implementation of the plan, benefits of compliance with the plan, consequences of noncompliance with the plan, and a schedule of future meetings if appropriate. The "family plan" described in ORS 417.375(1) is incorporated into the case plan to the extent that it protects the child, builds on family strengths, and is focused on achieving permanency for the child within a reasonable time. 
+
+ (29) “Form 100A” means the sending agency’s formal written notice to the revocation of its intention to make an interstate placement and a request for a finding as to whether the placement would be contrary to the interests of the child. The form may also include a formal request for a home study. The form accompanies all requests for placement to which the Compact is applicable. 
+
+ (30) “Form 100B,” Interstate Compact Report on Child’s Placement Status, means the form used to: 
+
+ (a) Confirm that an approved placement in accordance with the Compact has been made; 
+
+ (b) Withdraw a request prior to the home study; 
+
+ (c) Indicate that an approved resource will not be used; 
+
+ (d) Report a change in the placement resource and/or type of care; or 
+
+ (e) Report a change of address. 
+
+ (31) "Grandparent" for purposes of notification, visitation, contact, or communication ordered by the court under ORS 419.B876 means the legal parent of the child or young adult’s legal parent, regardless of whether the parental rights of the child or young adult’s legal parent have been terminated under ORS 419B.500 to 419B.524. 
+
+ (32) "Guardian" means an individual who has been granted guardianship of a child through a judgment of the court. 
+
+ (33) "High-risk behaviors" means the following: 
+
+ (a) Having shared a needle with an intravenous drug abuser since 1977; 
+
+ (b) For a man, having had sex with another man or men since 1977; 
+
+ (c) Having been sexually active in an area where heterosexual transmission is believed to be high; 
+
+ (d) Persons with hemophilia; 
+
+ (e) Having been the sexual partner of a person in one of the previous categories; 
+
+ (f) Being born to a woman whose history has put her in one of these other categories. 
+
+ (34) "HIV" is the acronym for human immunodeficiency virus. This is the current name for the virus which causes AIDS. 
+
+ (35) "HIV Infection". People who have been tested and found to have the antibody are referred to as having HIV infection. These people are capable of transmitting the virus through risk behaviors, as described below. 
+
+ (36) "HIV Positive" means that a blood test has indicated the presence of antibodies to HIV. This means that the person has been infected by the virus and the immune system has responded by producing antibodies. An exception is infants of HIV-infected mothers. They have been exposed to the mother's antibodies and carry these antibodies in their blood for a number of months after birth. A series of tests is necessary to determine if these infants are themselves infected with HIV. 
+
+ (37) "Home study" means a document containing an analysis of the ability of the applicant to provide safe and appropriate care of a child or young adult. 
+
+ (38) “Home visit” means a face-to-face contact at an individual’s residence. 
+
+ (39) “ICPC” or “Compact” means the Interstate Compact on the Placement of Children. 
+
+ (40) "ICPC approved family" means a family approved by the Interstate Compact on the Placement of Children (ICPC) compact administrator, deputy compact administrator or designee after reviewing a home study. 
+
+ (41) "ICWA" or "the Act" means the Indian Child Welfare Act of 1978, 25 U.S.C. §§1901-63. 
+
+ (42) "Impending danger safety threat" means a family behavior, condition, or circumstance that meets all five safety threshold criteria. When it is occurring, this type of threat to a child is not immediate, obvious, or occurring at the onset of the CPS intervention. This threat is identified and understood more fully by evaluating and understanding individual and family function. 
+
+ (43) "Indian child" means any unmarried person who is under age 18 and either: 
+
+ (a) Is a member or citizen of an Indian tribe; or 
+
+ (b) Is eligible for membership or citizenship in an Indian tribe and is the biological child of a member or citizen of an Indian tribe. 
+
+ (44) "Indian custodian" means any Indian who has legal custody of an Indian child under applicable tribal law or custom or under applicable state law, or to whom temporary physical care, custody, and control has been transferred by the parent of such child. 
+
+ (45) "Indian tribe" means any Indian tribe, band, nation, or other organized group or community of Indians recognized as eligible for services provided to Indians by the Secretary of the Interior because of their status as Indians, including any Alaska Native village as defined in 43 USC section 1602. 
+
+ (46) "Legal custody" means that a person or agency has legal authority: 
+
+ (a) To have physical custody and control of a child or young adult ; 
+
+ (b) To supply the child or young adult with food, clothing, shelter and other necessities; 
+
+ (c) To provide the child or young adult with care, education and discipline; 
+
+ (d) To authorize medical, dental, psychiatric, psychological, hygienic or other remedial care or treatment for the child or young adult , and in any emergency where the child or young adult's safety appears urgently to require it, to authorize surgery or other extraordinary care; and 
+
+ (e) "Legal custody" includes temporary custody of a child or young adult under an order of a court. 
+
+ (47) "Local Citizen Review Board (CRB)" means a board of not less than three nor more than five members appointed by the Chief Justice of the Supreme Court of the State of Oregon to review the cases of all children in the custody of the Department and placed in an out-of-home placement (ORS 419A.090-419A.094). 
+
+ (48) "Member of the household" means any adult or child living in the home, including the applicant or parent and any caregiving employee or volunteer who resides in the home. 
+
+ (49) "Ongoing safety plan" means a documented set of actions or interventions that manage a child's safety after the Department has identified one or more impending danger safety threats at the conclusion of a CPS assessment or anytime during ongoing work with a family. 
+
+ (50)   "Parent” means the genetic or adoptive mother and the legal parent of the child. A legal parent is a person who has adopted the child or whose parentage has been established or declared under ORS 109.065. In cases involving an Indian child, "parent" means a biological parent of an Indian child, an Indian who has lawfully adopted an Indian child, including adoptions made under tribal law or custom, or a father whose parentage has been acknowledged or established under ORS 109.065(1) to (6) or (9) or 419B.609. Parent also includes an alleged genetic parent who has demonstrated a direct and significant commitment to the child by assuming or attempting to assume responsibilities normally associated with parenthood, unless a court finds that the alleged genetic parent is not the legal or genetic parent of the child. 
+
+ (51) "Parent home study" means a document containing an analysis of the ability of the parent to provide safe and appropriate care of a child or young adult. 
+
+ (52) "Permanency hearing" means the hearing that determines the permanency plan for the child. The "Permanency Hearing" is conducted by a juvenile court, another court of competent jurisdiction or by an authorized tribal court. 
+
+ (53) "Permanency plan" means a written course of action for achieving safe and lasting family resources for the child or young adult. Although the plan may change as more information becomes available, the goal is to develop safe and permanent family resources with the parents, relatives, or other people who may assume legal responsibility for the child or young adult during the remaining years of dependency and be accessible and supportive to the child or young adult in adulthood. 
+
+ (54) "Personal care services" means the provision of or assistance with those functional activities described in OAR 413-090-0120 consisting of mobility, transfers, repositioning, basic personal hygiene, toileting, bowel and bladder care, nutrition, medication management, and delegated nursing tasks that a child or young adult requires for his or her continued well-being. 
+
+ (55) "Placement" means the arrangement for the care of a child in the home of a parent, a resource home, relative resource home, non-paid relative home, or a child-caring agency or institution. It does not include the arrangement for care in an institute caring for the mentally ill, an institution primarily educational in character, or a hospital or other medical facility. 
+
+ (56) “Qualified individual” means an individual who is: 
+
+ (a) A trained professional or licensed clinician; 
+
+ (b) Not an employee of the Department or of the Oregon Health Authority; 
+
+ (c) Not connected to, or affiliated with, any placement setting in which a child or young adult is placed by the Department. 
+
+ (57) “Qualified residential treatment program (QRTP)” means a program that: 
+
+ (a) Provides residential care and treatment to a child or young adult who, based on a QRTP assessment, requires specialized, evidence-based supports and services related to the effects of trauma or mental, emotional or behavioral health needs. 
+
+ (b) Uses a trauma-informed treatment model that is designed to address the needs, including clinical needs as appropriate, of the child or young adult. 
+
+ (c) Ensures that the staff at the facility includes licensed or registered nurses licensed under ORS chapter 678 and other licensed clinical staff who: 
+
+ (A) Provide care within their licensed scope of practice; 
+
+ (B) Are on site according to the treatment model identified in OAR 410-170-0030 (2); and 
+
+ (C) Are available 24 hours per day and seven days per week. 
+
+ (d) Facilitates the involvement of the family of the child or young adult, as defined in ORS 418.575, in the treatment program of the child or young adult, to the extent appropriate, and in accordance with the best interests of the child or young adult. 
+
+ (e) Facilitates outreach to the family of the child or young adult, as defined in ORS 418.575, documents how outreach is made and maintains contact information for any known biological relatives or fictive kin, as defined by the Department. 
+
+ (f) Documents how the program integrates family into the treatment process of the child or young adult, including after discharge, and how sibling connections are maintained. 
+
+ (g) Provides discharge planning and family-based after-care support for at least six months following the discharge from the program. 
+
+ (h) Is accredited as outlined in OAR 413-095-0000 (2). 
+
+ (58) “QRTP assessment” means an assessment of the strengths and needs of a child or young adult by a qualified individual using the Child and Adolescent Needs and Strengths tool in combination with a review of clinical documentation to determine the most effective and appropriate level of care for the child or young adult. 
+
+ (59) "Protective capacity" means behavioral, cognitive, and emotional characteristics that can specifically and directly be associated with a person's ability and willingness to care for and keep a child safe. 
+
+ (60) "Reasonable and prudent parent standard" means the standard, characterized by careful and sensible parental decisions that maintain the health, safety, and best interests of a child or young adult while encouraging the emotional and developmental growth of the child or young adult, that a substitute care provider shall use when determining whether to allow a child or young adult in substitute care to participate in extracurricular, enrichment, cultural, and social activities. 
+
+ (61) "Receiving state" means the state to which a child is sent, brought, or caused to be sent or brought, whether by a public authority or a private person or agency, whether for placement with a state or local public authority or with a private agency or person. 
+
+ (62) "Registered domestic partner" means an individual joined in a domestic partnership that is registered by a county clerk in accordance with ORS 106.300 to 106.340. 
+
+ (63) "Reunification" means placement with a parent or guardian. 
+
+ (64) "Revocation" means an administrative act by the Department that rescinds an existing Certificate of Approval, Child-Specific Certificate of Approval, or Temporary Certificate of Approval. 
+
+ (65) "Safety threshold" means the point at which family behaviors, conditions, or circumstances are manifested in such a way that they are beyond being risk influences and have become an impending danger safety threat. In order to reach the "safety threshold" the behaviors, conditions, or circumstances must meet all of the following criteria: be imminent, be out of control, affect a vulnerable child, be specific and observable, and have potential to cause severe harm to a child. The "safety threshold" criteria are used to determine the presence of an impending danger safety threat. 
+
+ (66) "SAIP" means Secure Adolescent Inpatient Program. 
+
+ (67) "SCIP" means Secure Children's Inpatient Program. 
+
+ (68) "Sending agency" means a party state or an officer or employee thereof, a subdivision of a party state or an officer or employee thereof, a court of a party state, or a person, corporation, association, charitable agency, or other entity that sends, brings, or causes to be sent or brought a child to another party state. When an agency chooses to exert legal authority to supervise and or remove and place the child during a court jurisdiction only case, that agency is the sending agency. 
+
+ (69) "Sending state" means the state from which a proposed placement is made. 
+
+ (70) "Substitute care" means the out-of-home placement of a child or young adult who is in the legal or physical custody and care of the Department. 
+
+ (71) "Substitute caregiver" means a relative caregiver, resource parent, or provider authorized to provide care to a child or young adult in the legal or physical custody of the Department. 
+
+ (72) "Termination of parental rights" means that a court of competent jurisdiction has entered an order terminating the rights of the parent or parents, pursuant to ORS 419B.500 through 419B.530 or the statutes of another state. The date of the termination order determines the effective date of the termination even if an appeal of that order has been filed (ORS 419A.200). 
+
+ (73) "Young adult" means a person aged 18 through 20 years. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 418.005 & ORS 409.050 
+ 
+ 
+ Statutes/Other Implemented:  ORS 418.005 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 50-2026, temporary amend filed 03/31/2026, effective 03/31/2026 through 09/26/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 4-2026, amend filed 01/28/2026, effective 01/28/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 6-2024, minor correction filed 03/08/2024, effective 03/08/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 31-2021, amend filed 12/20/2021, effective 01/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 17-2021, temporary amend filed 07/06/2021, effective 07/06/2021 through 01/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 145-2020, amend filed 11/24/2020, effective 12/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 132-2020, temporary amend filed 06/29/2020, effective 07/01/2020 through 10/04/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 122-2020, temporary amend filed 04/08/2020, effective 04/08/2020 through 10/04/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 115-2020, minor correction filed 02/20/2020, effective 02/20/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 51-2019, amend filed 11/14/2019, effective 11/15/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 28-2019, amend filed 06/12/2019, effective 06/12/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 123-2018, amend filed 12/12/2018, effective 12/12/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 9-2017, f. 8-5-17, cert. ef. 8-6-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 2-2017(Temp), f. & cert. ef. 2-7-17 thru 8-5-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 8-2016, f. & cert. ef 6-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 29-2015(Temp), f. 12-31-15, cert. ef. 1-1-16 thru 6-28-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 19-2015, f. & cert. ef. 10-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 21-2009, f. & cert. ef. 12-29-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 4-2007, f. & cert. ef. 3-20-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 31-2003, f. & cert. ef. 10-1-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SOSCF 15-1998, f. & cert. ef. 7-27-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SCF 6-1995, f. 12-22-95, cert. ef. 12-29-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

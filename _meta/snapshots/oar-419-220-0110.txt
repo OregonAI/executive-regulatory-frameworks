@@ -1,0 +1,339 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Office of Training, Investigations and Safety 
+ Chapter 419 
+ 
+ 
+ 
+ 
+ 
+ Division 220 CHILD ABUSE INVESTIGATIONS IN CHILD CARE 
+ 419-220-0110 
+ Definitions 
+ 
+ Unless the context indicates otherwise, the following definitions apply to these rules, OAR chapter 419, division 220 : 
+
+ (1) "Abuse" has the same meaning as defined in ORS 419B.005 (see OAR 419-220-0170(2)). 
+
+ (2) "Abuse determination" means the determination OTIS makes after an investigation under these rules (OAR chapter 419, division 220 ) that a report of abuse is founded, unfounded or unable to determine as described in OAR 419-220-0170. 
+
+ (3) "Abuse investigation report" means the report the OTIS investigator completes as provided in OAR 419-220-0180 on a report of abuse that is determined to require an investigation under OAR 419-220-0130(1)(a). 
+
+ (4) “Alleged victim” means the child who is reported, alleged or determined to be subjected to abuse under these rules ( OAR chapter 419, division 220 ). 
+
+ (5) “Business days” means all consecutive calendar days, not counting Saturdays, Sundays and legal holidays as defined in ORS 187.010. 
+
+ (6) "Child" means an unmarried person who: 
+
+ (a) Is under 18 years of age; or 
+
+ (b) Is a child in care, as defined in ORS 418.257 . 
+
+ (7) “Child Care” means each of the following: 
+
+ (a) A Registered Family Child Care Home, which is the residence of a provider who has a current Family Child Care Registration at that address and who provides care in the family living quarters. 
+
+ (b) A Certified Family Child Care Home, which is a child care facility located in a building constructed as a single-family dwelling that has certification to care for a maximum of 16 children at any one time. 
+
+ (c) A Certified Child Care Center, which is certified to care for 13 or more children, or a facility that is certified to care for twelve or fewer children and located in a building constructed as other than a single-family dwelling. 
+
+ (d) A Regulated Subsidy Provider, which is a child care provider that is exempt from Department of Early Learning and Care  licensing and that receives subsidy payments for child care on behalf of clients of the Department. 
+
+ (e) Other facilities that are operating as a Registered Family Care Home, Certified Family Child Care Home, Certified Child Care Center, or Regulated Subsidy Provider without a certification or registration when a certification or registration is required by the Department of Early Learning and Care . 
+
+ (8) "Caregiver" means any person in the child care who works directly with the children, providing care, supervision, and guidance. 
+
+ (9) “Contractor” means a person who: 
+
+ (a) Provides services to a child care provider in a manner that requires the person to have direct, unsupervised contact with children; and 
+
+ (b) Interacts with a child because of the person’s status as a contractor for a child care provider. 
+
+ (10) "Department" means the Oregon Department of Human Services (ODHS). 
+
+ (11) "Indian child" as defined in 25 U.S.C. § 1903(4) means any unmarried individual who is under age 18 and either: 
+
+ (a) Is a member or citizen of an Indian Tribe; or 
+
+ (b) Is eligible for membership or citizenship in an Indian Tribe and is the biological child of a member or citizen of an Indian Tribe. 
+
+ (12) “Household member” means an adult who lives in the child care and is not a child care caregiver, contractor, or volunteer. 
+
+ (13) “Investigation” as defined in ORS 419B.005(4) means a detailed inquiry into or assessment of the safety of a child alleged to have experienced abuse. “Investigation” does not include screening activities conducted upon the receipt of a report. 
+
+ (14) “Law enforcement agency” has the same meaning as defined in ORS 419B.005(5). 
+
+ (15) “Legal guardian” means for an individual under the age of 18, the parent, unless a court appoints another person or agency to act as the individual's guardian. 
+
+ (16) "OTIS investigator" means a Department: Office of Training, Investigations and Safety (OTIS) employee who is authorized and receives OTIS approved training to screen or investigate reports of abuse under OAR chapter 419, division 220 . 
+
+ (17) "OTIS response" means how OTIS will respond to a report of abuse that is determined at the conclusion of the OTIS screening process. 
+
+ (18) “Reasonable cause” means a subjectively and objectively reasonable belief, given all of the circumstances and based on specific and articulable facts. (ORS 419B.150) 
+
+ (19) "Reasonable suspicion" for purposes of complying with ORS 419B.023 (Karly's Law) means a reasonable belief given all the circumstances, based upon specific and describable facts, that the suspicious physical injury may be the result of abuse. 
+
+ (20) “Redacted” means information deemed confidential under state or federal law has been protected from view. 
+
+ (21) "Reporter" means an individual who makes a report of suspected child abuse to the Department. 
+
+ (22) "Respondent" means the adult alleged to have committed abuse. 
+
+ (23) "Screening" means the process used by OTIS to determine the response to reports that are determined to be the responsibility of OTIS. 
+
+ (24) "Severe harm" as defined in ORS 419B.150 means: 
+
+ (a) Life threatening damage; or 
+
+ (b) Significant or acute injury to a person’s physical, sexual, or psychological functioning. 
+
+ (25) "Sex trafficking" as defined in ORS 418.322 (1)(b) means the recruitment, harboring, transportation, provision, obtaining, patronizing, or soliciting of an individual under the age of 18 for the purpose of a commercial sex act. 
+
+ (26) "Suspicious physical injury" has the same meaning as defined in ORS 419B.023 (Karly's Law). 
+
+ (27) “Volunteer” means a person who: 
+
+ (a) Acts as a volunteer for a child care; and 
+
+ (b) Interacts with a child because of the person’s status as a volunteer of a child care. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 409.050 
+ 
+ 
+ Statutes/Other Implemented:  ORS 419B.005 - 419B.050 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OTIS 25-2024, minor correction filed 11/01/2024, effective 11/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHS 14-2024, renumbered from 407-047-0410, filed 10/30/2024, effective 11/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHS 18-2023, amend filed 12/22/2023, effective 01/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHS 4-2023, temporary amend filed 08/31/2023, effective 09/01/2023 through 02/27/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHS 29-2022, amend filed 07/20/2022, effective 08/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHS 5-2021, amend filed 03/31/2021, effective 04/01/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 5-2020, adopt filed 06/01/2020, effective 06/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

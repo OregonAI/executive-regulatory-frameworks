@@ -1,0 +1,285 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Public Utility Commission 
+ Chapter 860 
+ 
+ 
+ 
+ 
+ 
+ Division 39 NET METERING RULES 
+ 860-039-0005 
+ Scope and Applicability of Net Metering Facility Rules
+ 
+ 
+ (1) OAR 860-039-0010 through 860-039-0080 (the "net metering rules") establish rules governing net metering facilities interconnecting to a public utility as required under ORS 757.300. Net metering is available to a customer-generator only as provided in these rules. These rules do not apply to a public utility that meets the requirements of ORS 757.300(9). 
+
+ (2) Upon request or its own motion, the Commission may waive any of the division 039 rules for good cause shown. A request for waiver must be made in writing, unless otherwise allowed by the Commission. 
+
+ (a) A public utility and net metering applicant may mutually agree to reasonable extensions to the required times for notices and submissions of information set forth in these rules for the purpose of allowing efficient and complete review of a net metering application. 
+
+ (b) If a public utility unilaterally seeks waiver of the timelines set forth in these rules, the Commission must consider the number of pending applications for interconnection review and the type of applications, including review level and facility size. 
+
+ (3) As used in OAR 860-039-0010 through 860-039-0080: 
+
+ (a) "ANSI C12.1 standards" means the standards prescribed by the 2022 edition of the American National Standards Institute, Committee C12.1 (ANSI C12.1), entitled "American National Standard for Electric Meters - Code for Electricity Metering," approved by the C12.1 Accredited Standard Committee on June 9, 2022. 
+
+ (b) "Applicant" means a person who has filed an application to interconnect a net metering facility to an electric distribution system. 
+
+ (c) “Contiguous” means a single area of land that is considered to be contiguous even if there is an intervening public or railroad right of way, provided that rights of way land on which municipal infrastructure facilities exist (such as street lighting, sewerage transmission, and roadway controls) are not considered contiguous. 
+
+ (d) "Customer-generator" means the person who is the user of a net metering facility and who has applied for and been accepted to receive electricity service at a premises from the serving public utility. 
+
+ (e) "Distribution system" means that portion of an electric system which delivers electricity from transformation points on the transmission system to points of connection at a customer's premises. 
+
+ (f) "Equipment package" means a group of components connecting an electric generator with an electric distribution system, and includes all interface equipment including switchgear, inverters, or other interface devices. An equipment package may include an integrated generator or electric production source. 
+
+ (g) "Export capacity" means the amount of power that can be transferred from the small generator facility to the distribution system. Export capacity is either the nameplate rating or a lower amount if limited using an acceptable means identified in OAR 860-082-0033. 
+
+ (h) "Fault current" means electrical current that flows through a circuit and is produced by an electrical fault, such as to ground, double-phase to ground, three-phase to ground, phase-to-phase, and three-phase. 
+
+ (i) "Generation capacity" means the nameplate capacity of the power generating device(s) in alternating current (AC). Generation capacity does not include the effects caused by inefficiencies of power conversion or plant parasitic loads. 
+
+ (j) "Good utility practice" means a practice, method, policy, or action engaged in or accepted by a significant portion of the electric industry in a region, which a reasonable utility official would expect, in light of the facts reasonably discernable at the time, to accomplish the desired result reliably, safely and expeditiously. 
+
+ (k) "IEEE 1547" means the standards published in the 2018 edition of the Institute of Electrical and Electronics Engineers (IEEE) Standard 1547, titled "IEEE Standard for Interconnection and Interoperability of Distributed Energy Resources with Associated Electric Power Systems Interfaces," approved by the IEEE SA Standards Board on February 15, 2018. 
+
+ (l) "IEEE 1547.1" means the standards published in the 2020 edition of the IEEE Standard 1547.1, titled "IEEE Standard Conformance Test Procedures for Equipment Interconnecting Distributed Resources with Electric Power Systems and Associated Interfaces," and approved by the IEEE SA Standards Board on March 5, 2020. 
+
+ (m) "Impact study" means an engineering analysis of the probable impact of a net metering facility on the safety and reliability of the public utility's electric distribution system. 
+
+ (n) "Interconnection agreement" means an agreement between a customer-generator and a public utility, which governs the connection of the net metering facility to the electric distribution system, as well as the ongoing operation of the net metering facility after it is connected to the system. An interconnection agreement will follow the standard form agreement developed by the public utility and filed with the Commission. 
+
+ (o) "Interconnection facilities study" means a study conducted by a utility for the customer-generator that determines the additional or upgraded distribution system facilities, the cost of those facilities, and the time schedule required to interconnect the net metering facility to the utility's distribution system. 
+
+ (p) "Nationally recognized testing laboratory" or "NRTL" means a qualified private organization that performs independent safety testing and product certification. Each NRTL must meet the requirements set forth by the United States Occupational Safety and Health Administration. 
+
+ (q) "Net metering facility" means a net metering facility as defined in ORS 757.300(1)(d). 
+
+ (r) "Non-residential customer" means a retail electricity consumer that is not a residential customer, except "non-residential customer" does not include a customer who would be a residential customer but for the residency provisions of subsection (v) of this rule. 
+
+ (s) "Point of common coupling" means the point beyond the customer-generator's meter where the customer-generator facility connects with the electric distribution system. 
+
+ (t) "Public utility" has the meaning set forth in ORS 757.005 and is limited to a public utility that provides electric service. 
+
+ (u) "Reference point of applicability" (RPA) means a location proximate to the generation where the interconnection and interoperability performance requirements, as specified by IEEE 1547, apply. 
+
+ (v) "Residential customer" means a retail electricity consumer that resides at a dwelling primarily used for residential purposes. "Residential customer" does not include retail electricity customers in a dwelling typically used for residency periods of less than 30 days, including hotels, motels, camps, lodges, and clubs. "Dwelling" includes, but is not limited to, single-family dwellings, separately-metered apartments, adult foster homes, manufactured dwellings, and floating homes. 
+
+ (w) "Spot network" means a type of electric distribution system that uses two or more inter-tied transformers protected by network protectors to supply an electrical network circuit. A spot network may be used to supply power to a single customer or a small group of customers. 
+
+ (x) "Written notice" means a required notice sent by the utility via electronic mail if the customer-generator has provided an electronic mail address. If the customer-generator has not provided an electronic mail address, or has requested in writing to be notified by United States mail, or if the utility elects to provide notice by United States mail, then written notices from the utility must be sent via First Class United States mail to the notification address provided by the customer-generator. The utility is deemed to have fulfilled its duty to respond under these rules on the day it sends the customer-generator notice via electronic mail or deposits such notice in First Class mail. The customer-generator is responsible for informing the utility of any changes to its notification address. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 183, ORS 756 & ORS 757 
+ 
+ 
+ Statutes/Other Implemented:  ORS 756.040 & ORS 757.300 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 3-2024, amend filed 04/09/2024, effective 04/09/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 5-2018, minor correction filed 09/13/2018, effective 09/13/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 1-2012, f. & cert. ef. 2-22-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 6-2011, f. & cert. ef. 9-14-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 5-2011, f. & cert. ef. 9-7-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 8-2007, f. & cert. ef. 7-27-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Land Conservation and Development Department 
+ Chapter 660 
+ 
+ 
+ 
+ 
+ 
+ Division 38 SIMPLIFIED URBAN GROWTH BOUNDARY METHOD 
+ 660-038-0030 
+ Residential Land Need 
+ 
+ OAR 660-038-0030 through 660-038-0080 provides steps that a city must take to determine residential land need over the 14-year planning period.  (1) A city that applies the UGB method in this division:  (a) Must forecast the amount of buildable lands that it will need for housing based on the population forecast for the 14-year period commencing on the date it initiates and consistent with OAR 660-038-0040 through OAR 660-038-0090, and  (b) Must provide within its UGB sufficient buildable lands and other development capacity, for needed housing to accommodate the growth in population forecast to occur over a 14-year period.  (2) The city must use the most recent final forecast issued by the Portland State University Population Research Center under ORS 195.033 in effect at the time the city initiates a UGB review to forecast the UGB population growth for a 14-year period.  (3) The city must subtract from the forecast population growth the number of persons projected to live in group quarters in the UGB during the planning period. The city shall determine this number by calculating the percentage of the city’s population living in group quarters at the last decennial United States Census and subtracting the same percentage from projected population growth. For the purpose of this rule, “group quarters,” as defined by the United States Census, are places where people live or stay, in a group living arrangement, which is owned or managed by an entity or organization providing housing or services for the residents.  (4) To determine the gross number of dwelling units needed for the 14-year period, the city must divide the projected growth reduced as determined in section (3) by the persons per household within the city determined at the most recent decennial United States Census.  (5) The city must adjust the gross number of needed dwelling units to account for the vacancy rate projected to occur during the planning period, as follows: Multiply the result calculated in section (4) by the vacancy rate and add the resulting product to the gross number of dwelling units needed. The vacancy rate used shall be five percent plus the portion of the vacancy rate that is comprised of seasonal, recreational, or occasional vacancies within the city, determined at the last decennial United States Census. However, the total vacancy rate used may not exceed 15 percent.  (6) The city must account for projected redevelopment expected to occur in residentially zoned areas, and for mixed use residential development expected to occur in commercially zoned areas, as follows: multiply the result calculated in section (5) by the applicable percentage in subsections (a) through (c) of this section.  (a) For cities with a current UGB population less than 10,000, the percentage shall be within a range from one percent to 10 percent of the result calculated in section (5).  (b) For cities with a current UGB population equal to or greater than 10,000 and less than 25,000, the percentage shall be within a range from five percent to 15 percent of the result calculated in section (5).  (c) For cities with a current UGB population equal to or greater than 25,000, the percentage shall be within a range from five percent to 25 percent of the result calculated in section (5).  (7) The city must account for accessory dwelling units expected to occur during the planning period by multiplying the result calculated in section (5) by the applicable percentage in subsection (a) or (b) of this section:  (a) For cities with UGB population less than 10,000, the percentage shall be within a range from zero percent to two percent of the result calculated in section (5).  (b) For cities with UGB population equal to or greater than 10,000, the percentage shall be within a range from one percent to three percent of the result calculated in section (5).  (8) The city must subtract the numbers determined in sections (6) and (7) from the result calculated in section (5). The resulting number is the identified need for new dwelling units for 14 years.  (9) The city shall accommodate the dwelling unit need identified in section (8):  (a) On vacant and partially vacant residentially zoned lands within the UGB, and  (b) If the amount of land described in subsection (a) is insufficient to accommodate all of the identified need, the remaining need must be accommodated on lands to be added to the UGB for residential development consistent with OAR 660-038-0180. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 197.040, 197A.305, 197A.320 & 197.235 
+ 
+ 
+ Statutes/Other Implemented:  ORS 197A.300, 197A.302, 197A.305, 197A.310, 197A.312, 197A.315, 197A.320 & 197A.325 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ LCDD 6-2015, f. 12-29-15, cert. ef. 1-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

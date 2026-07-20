@@ -1,0 +1,197 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 317 CORPORATION EXCISE TAX ACT OF 1929: RULES AND GENERAL PROVISIONS 
+ 150-317-0390 
+ IRC Section 338: Application to Oregon 
+ 
+ (1) Internal Revenue Code (IRC) Section 338 applies when at least 80 percent of the voting power and total value of the stock of a target corporation is acquired by a purchasing corporation. Under the election provided by IRC 338(g), the acquiring corporation treats the purchase of the target corporation’s stock as the purchase of its assets. The target’s assets are given a stepped-up basis and the target reports gain as if its assets were sold at fair market value. The seller recognizes a gain on the sale of stock.  (2) For all Oregon apportionment computations discussed in this rule, the gross receipts from the deemed sale of assets are not included in the target’s sales factor.  (3) If the target filed a separate federal return for the period ending with the date of acquisition, the gain from the deemed sale of assets must be included in the separately filed final return of the target corporation for the period which ends on the date of acquisition.  (a) For Oregon apportionment purposes, the apportionment factors computed on the separate Oregon return for the period ending with the date of acquisition must be used.  (b) The deemed gain on sale of assets is subject to Oregon apportionment if the target is doing business in Oregon.  (c) The gain on sale of stock is taxed by Oregon to the selling corporation through apportionment if the stock is considered a business asset and the seller is doing business in Oregon.  (d) The gain on sale of stock is taxed by Oregon to the selling corporation through allocation if the stock is considered a nonbusiness asset and the seller’s commercial domicile is in Oregon.  Example: S Corporation, a calendar year filer, and its nonunitary subsidiary, T Corporation, file separate federal returns. T does business in Oregon. S does not. On July 31, 2002, P Corporation purchases all of T’s stock from S and makes an election under IRC 338. T files a separate short period Oregon return through July 31, 2002, and apportions income, including the deemed sale of assets, to Oregon using its apportionment factors for the year to date. S’s gain on the sale of T’s stock, an intangible, is not taxed by Oregon.  (4) If the acquired target corporation is the common parent of an affiliated group, the group may elect to file a consolidated federal return. The final return of the common parent is also the final return of each subsidiary, which is considered to be acquired on the same date. The deemed sale of assets for each consolidated corporation must be reported on the consolidated return for the period ending on the date of acquisition. The apportionment factors computed on the Oregon return for the period ending with the date of acquisition must be used to apportion the income including the gain from the deemed sale of assets. The property factor must reflect the corporation’s basis prior to the step-up in basis under IRC 338.  (5) If the acquired corporation was purchased from an affiliated group with which it was unitary and elects to file a consolidated federal return, it must be included in the consolidated Oregon return of the selling group through the date of acquisition. However, the deemed gain from the sale of assets must be included on a separately filed single transaction return unless an election is made under IRC 338(h)(10). (See Section 6 of this rule for further information concerning the IRC 338(h)(10) election). For Oregon purposes, the deemed gain must be attributed to Oregon using the apportionment factors from the consolidated Oregon return for the period ending with the date of acquisition.  (6) An election may be made jointly by the selling and acquiring corporations under IRC 338(h)(10). If a corporation makes the election under IRC 338(h)(10) on its federal return, that election applies to the Oregon return.  (a) If a selling corporation making the election under IRC 338(h)(10) files a consolidated Oregon return including the target corporation, that return must include the gain or loss from the deemed sale of the target’s assets in income to be apportioned. The gain or loss from the sale of the target’s stock will not be recognized. The apportionment factors for the target must be included through the date of the stock sale. The property factor must reflect the target’s basis in its assets prior to the step-up in basis under IRC 338.  (b) If a selling corporation making an election under IRC 338(h)(10) does not file a consolidated Oregon return with the target corporation, and the target corporation is doing business in Oregon, the gain or loss from the target’s deemed sale of assets must be reported on the target’s separately filed Oregon return.  (c) If the selling corporation has not made an election under IRC 338(h)(10) on its federal return, the election will not be accepted by Oregon. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 
+ 
+ 
+ Statutes/Other Implemented:  ORS 317.329 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 150-317.329, REV 68-2016, f. 8-15-16, cert. ef. 9-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 2-2003, f. & cert. ef. 7-31-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RD 6-1996, f. 12-23-96, cert. ef. 12-31-96 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RD 12-1990, f. 12-20-90, cert. ef. 12-31-90 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

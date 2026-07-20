@@ -1,0 +1,173 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Insurance Regulation - Chapter 836 
+ 
+ 
+ 
+ 
+ Division 31 ACCOUNTING AND INVESTMENTS (ORS CHAPTER 733); REHABILITATION AND LIQUIDATION OF INSURERS (ORS CHAPTER 734) 
+ 836-031-0680 
+ Description of Actuarial Memorandum Including an Asset Adequacy Analysis and Regulatory Asset Adequacy Summary 
+ 
+ (1) General provisions. The following general provisions apply to actuarial memoranda that include an asset adequacy analysis:  (a) In accordance with ORS 733.304 (Standard Valuation Law), the appointed actuary shall prepare a memorandum to the Company describing the analysis done in support of the appointed actuary's opinion regarding the reserves under an opinion pursuant to OAR 836-0310-670. The memorandum must be made available for examination by the Director upon request of the Director but shall be returned to the company after such examination and not be filed with the Department;  (b) In preparing the memorandum, the appointed actuary may rely on, and include as a part of the appointed actuary's own memorandum, memoranda prepared and signed by other actuaries who are qualified within the meaning of OAR 836-031-0640(2), with respect to the areas covered in such memoranda, and so state in their memoranda;  (c) If the Director requests a memorandum and no such memorandum exists or if the Director finds that the analysis described in the memorandum fails to meet the standards of the Actuarial Standards Board or the standards and requirements of OAR 836-031-0600 to 836-031-0690, the Director may designate a qualified actuary to review the opinion and prepare such supporting memorandum as is required for review. The reasonable and necessary expense of the independent review shall be paid by the company but shall be directed and controlled by the Director;  (d) The reviewing actuary shall have the same status as an examiner for purposes of obtaining data from the company and the work papers and documentation of the reviewing actuary shall be retained by the Director. However, any information provided by the company to the reviewing actuary and included in the work papers shall be considered as material provided by the company to the Director and shall be kept confidential to the same extent as is prescribed by law with respect to other material provided by the company to the Director pursuant to the Standard Valuation Law. The reviewing actuary shall not be an employee of a consulting firm involved with the preparation of any prior memorandum or opinion for the insurer pursuant to OAR 836-031-0600 to 836-031-0690 for any one of the current year or the preceding three years.  (e) In accordance with ORS 733.304, the appointed actuary shall prepare a regulatory asset adequacy issues summary, the contents of which are specified in section (3) of this rule. All companies domiciled in Oregon shall submit the regulatory asset adequacy issues summary no later than March 15 of the year following the year for which a statement of actuarial opinion based on asset adequacy is required. For all other companies, the memorandum must be made available for examination by the Director upon request of the Director. The regulatory asset adequacy issues summary is to be kept confidential to the same extent and under the same conditions as the actuarial memorandum.  (2) Provisions relating to the Memorandum Section Documenting Asset Adequacy Analysis. When an actuarial opinion under OAR 836-031-0670 is provided, the memorandum shall demonstrate that the analysis has been done in accordance with standards for asset adequacy referred to in 836-031-0640(4) and any additional standards under OAR 836-031-0600 to 836-031-0690. It must specify:  (a) For reserves:  (A) Product descriptions, including market description, underwriting and other aspects of a risk profile and the specific risks the appointed actuary deems significant;  (B) Source of liability in force;  (C) Reserve method and basis;  (D) Investment reserves;  (E) Reinsurance arrangements;  (F) Identification of any explicit or implied guarantees made by the general account in support of benefits provided through a separate account or under a separate account policy or contract and the methods used by the appointed actuary to provide for the guarantees in the asset adequacy analysis; and  (G) Documentation of the following assumptions, sufficient for an actuary reviewing the actuarial memorandum to form the following conclusion as to the reasonableness of the assumptions in the context of asset adequacy testing:  (i) Base and excess lapse rates;  (ii) Interest crediting rate strategy;  (iii) Mortality;  (iv) Policyholder dividend strategy;  (v) Competitor or market interest rate;  (vi) Annuitization rates;  (vii) Commission and expenses; and  (viii) Morbidity.  (b) For assets:  (A) Portfolio descriptions, including a risk profile disclosing the quality, distribution and types of assets;  (B) Investment and disinvestment assumptions;  (C) Source of asset data;  (D) Asset valuation bases;  (E) Documentation of assumptions sufficient for an actuary reviewing the actuarial memorandum to form a conclusion as to the reasonableness of the assumption, made for:  (i) Default costs;  (ii) Bond call function;  (iii) Mortgage prepayment function;  (iv) Determining market value for assets sold due to disinvestment strategy; and  (v) Determining yield on assets acquired through the investment strategy.  (c) For the analysis basis:  (A) Methodology;  (B) Rationale for inclusion and exclusion of different blocks of business and how pertinent risks were analyzed;  (C) Rational for degree of rigor in analyzing different blocks of business (include in the rationale the level of “materiality” that was used in determining how rigorously to analyze different blocks of business);  (D) Criteria for determining asset adequacy (include in the criteria the precise basis for determining if assets are adequate to cover reserves under “moderately adverse conditions” or other conditions as specified in relevant actuarial standards of practice); and  (E) Whether the impact of federal income taxes was considered and the method of treating reinsurance in the asset adequacy analysis;  (d) A summary of material changes in methods, procedures or assumptions from prior year’s asset adequacy analysis.  (e) Summary of results; and  (f) Conclusion or conclusions.  (3) Details of the Regulatory Asset Adequacy Issues Summary. The regulatory asset adequacy issues summary shall:  (a) Include all of the following:  (A) Descriptions of the scenarios tested, including whether those scenarios are stochastic or deterministic, and the sensitivity testing done relative to those scenarios. If negative ending surplus results under certain tests in the aggregate, the actuary should describe those tests and the amount of additional reserve as of the valuation date, which, if held, would eliminate the negative aggregate surplus values. Ending surplus values shall be determined by either extending the projection period until the in-force and associated assets and liabilities at the end of the projection period are immaterial or by adjusting the surplus amount at the end of the projection period by an amount that appropriately estimates the value that can reasonably be expected to arise from the assets and liabilities remaining in force.  (B) The extent to which the appointed actuary uses assumptions in the asset adequacy analysis that are materially different than the assumptions used in the previous asset adequacy analysis.  (C) The amount of reserves and the identity of the product lines that had been subjected to asset adequacy analysis in the prior opinion but were not subject to analysis for the current opinion.  (D) Comments on any interim results that may be of significant concern to the appointed actuary. For example, the impact of the insufficiency of assets to support the payment of benefits and expenses and the establishment of statutory reserves during one or more interim periods.  (E) The methods used by the actuary to recognize the impact of reinsurance on the company’s cash flows, including both assets and liabilities, under each of the scenarios tested.  (F) Whether the actuary has been satisfied that all options whether explicit or embedded, in any asset or liability, including but not limited to those affecting cash flows embedded in fixed income securities, and equity-like features in any investments have been appropriately considered in the asset adequacy analysis.  (b) Contain the name of the company for which the regulatory asset adequacy issues summary is being supplied and shall be signed and dated by the appointed actuary rendering the actuarial opinion.  (4) Conformity to Standards of Practice. The memorandum must include the following statement:  "Actuarial methods, considerations and analyses used in the preparation of this memorandum conform to the appropriate Standards of Practice as promulgated by the Actuarial Standards Board, which standards form the basis for this memorandum." 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 731.244 & 733.304 
+ 
+ 
+ Statutes/Other Implemented:  ORS 733.304 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ ID 5-2011, f. & cert. ef. 2-23-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ID 10-1992, f. & cert. ef. 5-27-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

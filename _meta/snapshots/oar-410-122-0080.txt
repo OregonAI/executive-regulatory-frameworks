@@ -1,0 +1,739 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 122 DURABLE MEDICAL EQUIPMENT, PROSTHETIC ORTHOTICS AND SUPPLIES (DMEPOS) 
+ 410-122-0080 
+ Conditions of Coverage, Limitations, and Restrictions
+ 
+ 
+ (1) For EPSDT beneficiaries (as defined in OAR 410-151-0001) and clients in the Young Adults with Special Health Care Needs or “YSHCN” program (as defined in OAR 410-200-0455): The EPSDT program covers all medically necessary and medically appropriate services needed to correct or ameliorate health conditions, or to improve the client’s ability to grow, develop, or participate in school, regardless of placement on or inclusion in the Prioritized List of Health Services. Coverage for medical equipment and supplies shall not be denied without an individual review for medical necessity and medical appropriateness, as defined in OAR 410-151-0001.  
+
+ (2) For clients age 21 and older: The Division may pay for durable medical equipment, prosthetics, orthotics, and medical supplies (DMEPOS) when the item meets all criteria in these rules, including all of the following conditions. The item:  
+
+ (a) Is either approved, registered, or listed as a medical device by the Food and Drug Administration (FDA), and the item is otherwise generally considered to be safe and effective for the intended purpose. In the event of delay in FDA approval and/or registration, the Division shall review purchase options on a case-by-case basis;  
+
+ (b) Is medically appropriate and medically necessary for the client, as defined in OAR 410-120-0000;  
+
+ (c) Is primarily and customarily used to serve a medical purpose;  
+
+ (d) Is generally not useful to an individual in the absence of medical disability, illness, or injury;  
+
+ (e) Is suitable for use in a client’s home or any non-institutional setting in which normal life activities take place;  
+
+ (f) Specifically for durable medical equipment, the item can withstand repeated use and can be reusable or removable;  
+
+ (g) Meets the coverage criteria as specified in this division and subject to service limitations of the Division rules;  
+
+ (h) Is requested in relation to a diagnosis and treatment pair that is above the funding line and consistent with treatment guidelines on the Health Evidence Review Commission’s (HERC) Prioritized List of Health Services (Prioritized List of Health Services or List) or qualify for coverage under OAR 410-141-3820(11);   
+
+ (i) Is included in the Oregon Health Plan (OHP) client’s benefit package of covered services;  
+
+ (j) Is the least costly, medically appropriate item that meets the medical needs of the client;  
+
+ (k) Coverage is not restricted to items covered by the Medicare program.  
+
+ (3) Conditions for Medicare-Medicaid Services:  
+
+ (a) If Medicare is the primary payer and Medicare denies payment, an appeal to Medicare must be filed timely prior to submitting the claim to the Division for payment. If Medicare denies payment based on failure to submit a timely appeal, the Division may reduce any amount the Division determines could have been paid by Medicare;  
+
+ (b) If Medicare denies payment on appeal, the Division shall apply DMEPOS coverage criteria in this rule to determine whether the item or service is covered under the OHP;  
+
+ (c) Providers are not required to bill Medicare for items that are statutorily excluded and therefore not recognized as part of a covered Medicare benefit (e.g., incontinence supplies, bath equipment, adaptive car seats, standing frames). Prior authorization criteria for these services/items must still be met.  
+
+ (4) The Division may not cover DMEPOS items when the item or the use of the item is:  
+
+ (a) Not primarily medical in nature (e.g., personal hygiene items, sporting and fitness equipment, equipment used with the primary intent to physically restrain an individual);  
+
+ (b) For personal comfort or convenience of the client or caregiver;  
+
+ (c) A self-help device;  
+
+ (d) Not therapeutic or diagnostic in nature;  
+
+ (e) Used for precautionary reasons;  
+
+ (f) Inappropriate for client use in the home or non-institutional setting (e.g., institutional equipment like an oscillating bed);  
+
+ (g) For a purpose where the medical effectiveness is not supported by evidence-based clinical practice guidelines; or  
+
+ (h) Reimbursed as part of the bundled rate in a nursing facility as described in OAR 411-070-0085 or as part of a home and community-based care waiver service or by any other public, community, or third-party resource.  
+
+ (5) Codes that are identified in these rules or in fee schedules are provided as a mechanism to facilitate payment for covered items and supplies consistent with OAR 410-122-0186, but codes do not determine coverage. If prior authorization is required, the request for reimbursement shall document that prior authorization was obtained in compliance with the rules in this division.  
+
+ (6) DMEPOS providers shall have documentation on file that supports coverage criteria are met.  
+
+ (7) Billing records shall demonstrate that the provider has not exceeded any limitations and restrictions in the DMEPOS rules. The Division may require additional claim information from the provider consistent with program integrity review processes.  
+
+ (8) Documentation described in sections (5), (6), and (7) above shall be made available to the Division upon request.  
+
+ (9) The Division fee schedule provides a list of HCPCS codes that may be covered when criteria are met. Coverage may be provided for HCPCS codes that do not appear on the fee schedule with an individual medical appropriateness review as outlined in this rule.  
+
+ (10) Some benefit packages do not cover equipment and supplies (see OAR 410-120-1210, Medical Assistance Benefit Packages and Delivery System).  
+
+ (11) Buy-ups are prohibited. Advanced Beneficiary Notices (ABN) constitute a buy-up and is prohibited. Refer to the Division General Rules (chapter 410, division 120) for specific rules on buying up.  
+
+ (12) Equipment purchased by the Division for a client becomes the property of the client.  
+
+ (13) Rental charges starting with the initial date of service, regardless of payer, apply to the purchase price.  
+
+ (14) A provider who supplies rented equipment shall continue furnishing the same item throughout the entire rental period, except under documented reasonable circumstances.  
+
+ (15) Before renting, providers must consider purchase for long-term requirements.  
+
+ (16) The Division may not pay DMEPOS providers for medical supplies separately while a client is under a home health plan of care and covered home health care services.  
+
+ (17) The Division may not pay DMEPOS providers for medical supplies separately while a client is under a hospice plan of care where the supplies are included as part of the written plan of care and for which payment may otherwise be made by Medicare, the Division, or other carrier.  
+
+ (18) Separate payment may not be made to DMEPOS providers for equipment and medical supplies provided to a client when the cost of the items is already included in the capitated (per diem) rate paid to a facility or organization.  
+
+ (19) Certain specified medical equipment and supplies require a face-to-face examination as described in these rules consistent with federal regulations at 42 CFR 440.70. See OAR 410-122-0090 for the face-to-face requirements.  
+
+ (20) Non-contiguous out-of-state DMEPOS providers may seek Medicaid payment only under the following circumstances:  
+
+ (a) Medicare/Medicaid clients:  
+
+ (A) For Medicare covered services and then only Medicaid payment of a client’s Medicare cost-sharing expenses for DMEPOS services when all of the following criteria are met:  
+
+ (i) Client is a qualified Medicare beneficiary (QMB);  
+
+ (ii) Service is covered by Medicare;  
+
+ (iii) Medicare has paid on the specific code. Prior authorization is not required.  
+
+ (B) Services not covered by Medicare:  
+
+ (i) Only when the service or item is not available in the State of Oregon, and this is clearly substantiated by supporting documentation from the prescribing practitioner and maintained in the DMEPOS provider’s records;  
+
+ (ii) Some examples of services not reimbursable to a non-contiguous out-of-state provider include but are not limited to incontinence supplies, grab bars;  
+
+ (iii) Services billed must be covered under the OHP;  
+
+ (iv) Services provided and billed to the Division shall be in accordance with all applicable Division rules.  
+
+ (b) Medicaid-only clients:  
+
+ (A) For a specific Oregon Medicaid client who is temporarily outside Oregon and only when the prescribing practitioner has documented that a delay in service may cause client harm;  
+
+ (B) For foster care or subsidized adoption children placed out of state;  
+
+ (C) Only when the service or item is not available in the State of Oregon, and this is clearly substantiated by supporting documentation from the prescribing practitioner and maintained in the DMEPOS provider’s records;  
+
+ (D) Services billed must be covered under the OHP;  
+
+ (E) Services provided and billed to the Division shall be in accordance with all applicable Division rules.  
+
+ (21) An individual medical appropriateness review shall be conducted by the Division or CCO on requests for any DMEPOS item, related supplies, or services that are not already identified as covered by the Division in these rules or the Division fee schedule:  
+
+ (a) The DME supplier must submit clinical documentation from the prescribing practitioner that is client-specific and demonstrates there is no equally effective, less costly covered item or service that meets the client’s medical needs;  
+
+ (b) The client’s prescribing practitioner must certify that the less costly alternatives have been tried and failed or could be reasonably expected to fail or is inappropriate for the client;  
+
+ (c) Documentation must support that the requested item or service is medically appropriate and medically necessary as defined in OAR Chapter 410 Division 120 for adult beneficiaries and OAR Chapter 410 Division 151 for EPSDT beneficiaries. An EPSDT beneficiary is an individual under the age of 21 who is covered by the Oregon Health Plan (OHP) or an individual in the Young Adults with Special Health Care Needs (YSHCN) program as defined in OAR 410-200-0455; 
+
+ (d) Requests under this section for clients enrolled in CCOs shall be directed to the CCO in which the client is enrolled, in accordance with OAR 410-122-0040(2).  
+
+ (22) See General Rules OAR 410-120-1200 Excluded Services and Limitations for more information on general scope of coverage and limitations.  
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042 & 414.065 
+ 
+ 
+ Statutes/Other Implemented:  414.065 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 87-2025, amend filed 12/09/2025, effective 12/09/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 138-2024, amend filed 11/26/2024, effective 01/01/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 126-2024, minor correction filed 10/04/2024, effective 10/04/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 38-2024, minor correction filed 01/25/2024, effective 01/25/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 101-2023, amend filed 12/29/2023, effective 01/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 12-2018, amend filed 03/07/2018, effective 03/08/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 36-2017(Temp), f. 9-14-17, cert. ef. 9-15-17 thru 3-13-18 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 87-2014, f. 12-31-14, cert. ef. 1-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 3-2011, f. 3-23-11, cert. ef. 3-25-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 29-2010(Temp), f. & cert. ef. 10-13-10 thru 3-25-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 28-2010(Temp), f. & cert. ef. 10-7-10 thru 3-25-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 26-2010(Temp), f. 9-24-10, cert. ef. 10-1-10 thru 3-25-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 13-2010, f. 6-10-10, cert. ef. 7-1-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 15-2009, f. 6-12-09, cert. ef. 7-1-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 17-2008, f. 6-13-08, cert. ef. 7-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 12-2007, f. 6-29-07, cert. ef. 7-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 47-2006, f. 12-15-06, cert. ef. 1-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 25-2006, f. 6-14-06, cert. ef. 7-1-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 44-2005, f. 9-9-05, cert. ef. 10-1-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 46-2004, f. 7-22-04, cert. ef. 8-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 44-2004, f. & cert. ef. 7-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 25-2004, f. & cert. ef. 4-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 47-2002, f. & cert. ef. 10-1-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 32-2001, f. 9-24-01, cert. ef. 10-1-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 37-2000, f. 9-29-00, cert. ef. 10-1-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 13-1999, f. & cert. ef. 4-1-99 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 11-1998, f. & cert. ef. 4-1-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HR 7-1997, f. 2-28-97, cert. ef. 3-1-97 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HR 17-1996, f. & cert. ef. 8-1-96 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HR 26-1994, f. & cert. ef. 7-1-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HR 9-1993, f. & cert. ef. 4-1-93 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HR 10-1992, f. & cert. ef. 4-1-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HR 6-1991, f. & cert. ef. 1-18-91, Renumbered from 461-024-0020 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HR 24-1990(Temp), f. & cert. ef. 7-27-90 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 48-1989, f. & cert. ef. 8-24-89 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 6-1989(Temp), f. 2-9-89, cert. ef. 3-1-89 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 3-1982, f. 1-20-82, ef. 2-1-82 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

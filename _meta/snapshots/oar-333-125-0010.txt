@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 125 MATERIALS SAFETY AND SECURITY 
+ 333-125-0010 
+ Physical Protection of Category 1 and Category 2 Quantities of Radioactive Material: Definitions 
+ 
+ (1) "Access control" means a system for allowing only approved individuals to have unescorted access to the security zone and for ensuring that all other individuals are subject to escorted access.  (2) "Aggregated" means accessible by the breach of a single physical barrier that shall allow access to radioactive material in any form, including any devices that contain the radioactive material, when the total activity equals or exceeds a category 2 quantity of radioactive material.  (3) "Approved individual" means an individual whom the licensee has determined to be trustworthy and reliable for unescorted access in accordance with OAR 333-125-0020 through 333-125-0095 and who has completed the training required by OAR 333-125-0115.  (4) "Background investigation" means the investigation conducted by a licensee or applicant to support the determination of trustworthiness and reliability.  (5) "Category 1 quantity" means a quantity of radioactive material meeting or exceeding the category 1 threshold in Table 1 of Appendix A, Part 37. This is determined by calculating the ratio of the total activity of each radionuclide to the category 1 threshold for that radionuclide and adding the ratios together. If the sum is equal to or exceeds 1, the quantity shall be considered a category 1 quantity. Category 1 quantities of radioactive material do not include the radioactive material contained in any fuel assembly, subassembly, fuel rod, or fuel pellet.  (6) "Category 2 quantity" means a quantity of radioactive material meeting or exceeding the category 2 threshold but less than the category 1 threshold in Table 1 of Appendix A, Part 37. This is determined by calculating the ratio of the total activity of each radionuclide to the category 2 threshold for that radionuclide and adding the ratios together. If the sum is equal to or exceeds 1, the quantity shall be considered a category 2 quantity. Category 2 quantities of radioactive material do not include the radioactive material contained in any fuel assembly, subassembly, fuel rod, or fuel pellet.  (7) "Diversion" means the unauthorized movement of radioactive material subject to the physical protection program to a location different from the material's authorized destination inside or outside of the site at which the material is used or stored.  (8) "Escorted access" means accompaniment while in a security zone by an approved individual who maintains continuous direct visual surveillance at all times over an individual who is not approved for unescorted access.  (9) "Fingerprint orders" means the orders issued by the U.S. Nuclear Regulatory Commission or the legally binding requirements issued by Agreement States that require fingerprints and criminal history records checks for individuals with unescorted access to category 1 and category 2 quantities of radioactive material or safeguards information-modified handling.  (10) "Local law enforcement agency (LLEA)" means a public or private organization that has been approved by a federal, state, or local government to carry firearms and make arrests, and is authorized and has the capability to provide an armed response in the jurisdiction where the licensed category 1 or category 2 quantity of radioactive material is used, stored, or transported.  (11) "Lost or missing licensed material" means licensed material whose location is unknown. It includes material that has been shipped but has not reached its destination and whose location cannot be readily traced in the transportation system.  (12) "Mobile device" means a piece of equipment containing licensed radioactive material that is either mounted on wheels or casters, or otherwise equipped for moving without a need for disassembly or dismounting; or designed to be hand carried. Mobile devices do not include stationary equipment installed in a fixed location.  (13) "Movement control center" means an operations center that is remote from transport activity and maintains position information on the movement of radioactive material, receives reports of attempted attacks or thefts, provides a means for reporting incidents to appropriate agencies and can request and coordinate appropriate aid.  (14) "Nationally Tracked Source" means a sealed source containing a quantity equal to or greater than Category 1 or Category 2 levels of radioactive material listed in 10 CFR Part 20, Appendix E. In this context a sealed source is defined as radioactive material that is sealed in a capsule or closely bonded in a solid form and that is not exempt from regulatory control. It does not mean material encapsulated solely for disposal, or nuclear material contained in any fuel rod, or fuel pellet.  (15) "No-later-than arrival time" means the date and time that the shipping licensee and receiving licensee have established as the time to initiate an investigation if the shipment has not arrived at the receiving facility. The no-later-than arrival time may not be more than six hours after the estimated arrival time for shipments of category 2 quantities of radioactive material.  (16) "Reviewing official" means the individual who shall make the trustworthiness and reliability determination of an individual to determine whether the individual may have, or continue to have, unescorted access to the category 1 or category 2 quantities of radioactive materials that are possessed by the licensee.  (17) "Sabotage" means deliberate damage, with malevolent intent, to category 1 or 2 quantity of radioactive material, a device that contains a category 1 or 2 quantity of radioactive material, or the components of the security system.  (18) "Safe haven" means a readily recognizable and readily accessible site at which security is present or from which, in the event of an emergency, the transport crew can notify and wait for the local law enforcement authorities.  (19) "Security zone" means any temporary or permanent area determined and established by the licensee for the physical protection of category 1 or category 2 of radioactive material.  (20) "Telemetric position monitoring system" means a data transfer system that captures information by instrumentation and measuring devices about the location and status of a transport vehicle or package between the departure and destination locations.  (21) "Trustworthiness and reliability" means the characteristics of an individual considered dependable in judgment, character, and performance, such that unescorted access to category 1 or category 2 quantities of radioactive material by that individual does not constitute an unreasonable risk to the public health and safety or security. A determination of trustworthiness and reliability for this purpose is based upon the results from a background investigation.  (22) "Unescorted access" means solitary access to an aggregated category 1 or category 2 quantity of radioactive material or the devices that contain the material. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 453.635 
+ 
+ 
+ Statutes/Other Implemented:  ORS 453.635 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 19-2015, f. 9-30-15, cert. ef. 10-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,185 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Chapter 407 
+ 
+ 
+ 
+ 
+ 
+ Division 120 PROVIDER RULES 
+ 407-120-0300 
+ Definitions 
+ 
+ The following definitions apply to OAR 407-120-0300 to 407-120-0400:  (1) "Abuse" means provider practices that are inconsistent with sound fiscal, business, or medical practices resulting in an unnecessary cost to the Department, or in reimbursement for services that are not medically necessary or that fail to meet professionally recognized standards for health care. It also includes actions by clients or recipients that result in unnecessary cost to the Department.  (2) "Advance Directive" means a form that allows an individual to have another individual make health care decisions when he or she cannot make decisions and informs a doctor if the individual does not want any life sustaining help if he or she is near death.  (3) "Benefit Package" means the package of covered health care services for which the client is eligible.  (4) "Billing Agent or Billing Service" means a third party or organization that contracts with a provider to perform designated services in order to facilitate claim submission or electronic transactions on behalf of the provider.  (5) "Billing Provider" means an individual, agent, business, corporation, clinic, group, institution, or other entity who, in connection with submission of claims to the Department, receives or directs payment from the Department on behalf of a performing provider and has been delegated the authority to obligate or act on behalf of the performing provider.  (6) "Children's Health Insurance Program (CHIP)" means a federal and state funded portion of the Oregon Health Plan (OHP) established by Title XXI of the Social Security Act and administered by the Division of Medical Assistance Programs (DMAP).  (7) "Claim" means a bill for services, a line item of a service, or all services for one client within a bill. Claim includes a bill or an encounter associated with requesting reimbursement, whether submitted on paper or electronically. Claim also includes any other methodology for requesting reimbursement that may be established in contract or program-specific rules.  (8) "Client or Recipient" means an individual found eligible by the Department to receive services under the OHP demonstration, medical assistance program, or other public assistance programs administered by the Department. The following OHP categories are eligible for enrollment:  (a) Temporary Assistance to Needy Families (TANF) are categorically eligible families with income levels under current TANF eligibility rules;  (b) CHIP children under one year of age whose household has income under 185% Federal Poverty Level (FPL) and do not meet one of the other eligibility classifications;  (c) Poverty Level Medical (PLM) adults under 100% of the FPL are clients who are pregnant women with income under 100% of FPL;  (d) PLM adults over 100% of the FPL are clients who are pregnant women with income between 100% and 185% of the FPL;  (e) PLM children under one year of age who have family income under 133% of the FPL or were born to mothers who were eligible as PLM adults at the time of the child's birth;  (f) PLM or CHIP children one through five years of age who have family income under 185% of the FPL and do not meet one of the other eligibility classifications;  (g) PLM or CHIP children six through 18 years of age who have family income under 185% of the FPL and do not meet one of the other eligibility classifications;  (h) OHP adults and couples are clients age 19 or over and not Medicare eligible, with income below 100% of the FPL who do not meet one of the other eligibility classifications, and do not have an unborn child or a child under age 19 in the household;  (i) OHP families are clients, age 19 or over and not Medicare eligible, with income below 100% of the FPL who do not meet one of the other eligibility classifications, and have an unborn child or a child under the age of 19 in the household;  (j) General Assistance (GA) recipients are clients who are eligible by virtue of their eligibility under the GA program, ORS 411.710 et seq.;  (k) Assistance to Blind and Disabled (AB/AD) with Medicare eligibles are clients with concurrent Medicare eligibility with income levels under current eligibility rules;  (l) AB/AD without Medicare eligibles are clients without Medicare with income levels under current eligibility rules;  (m) Old Age Assistance (OAA) with Medicare eligibles are clients with concurrent Medicare Part A or Medicare Parts A and B eligibility with income levels under current eligibility rules;  (n) OAA with Medicare Part B only are OAA eligibles with concurrent Medicare Part B only income under current eligibility rules;  (o) OAA without Medicare eligibles are clients without Medicare with income levels under current eligibility rules; or  (p) Children, Adults and Families (CAF) children are clients with medical eligibility determined by CAF or Oregon Youth Authority (OYA) receiving OHP under ORS 414.025, 418.034, and 418.187 to 418.970. These individuals are generally in placement outside of their homes and in the care or custody of CAF or OYA.  (9) "Client Representative" means an individual who can make decisions for clients who are not able to make such decisions themselves. For purposes of medical assistance, a client representative may be, in the following order of priority, an individual who is designated as the client's health care representative under ORS 127.505(12), a court-appointed guardian, a spouse or other family member as designated by the client, the individual service plan team (for developmentally disabled clients), a Department case manager, or other Department designee. To the extent that other Department programs recognize other individuals who may act as a client representative, that individual may be considered the client representative in accordance with program-specific rules or applicable contracts.  (10) "Clinical Records" means the medical, dental, or mental health records of a client. These records include the Primary Care Provider (PCP) records, the inpatient and outpatient hospital records and the Exceptional Needs Care Coordinator (ENCC), complaint and disenrollment for cause records which may be located in the Prepaid Health Plan (PHP) administrative offices.  (11) "Conviction or Convicted" means that a judgment of conviction has been entered by a federal, state, or local court, regardless of whether an appeal from that judgment is pending.  (12) "Covered Services" means medically appropriate health services or items that are funded by the legislature and described in ORS chapter 414, including OHP authorized under ORS 414.705 to 414.750, and applicable Department rules describing the benefit packages of covered services except as excluded or limited under OAR 410-141-0500 or such other public assistance services provided to eligible clients under program-specific requirements or contracts by providers required to enroll with the Department under OAR 407-120-0300 to 407-120-0400.  (13) "Date of Service" means the date on which the client receives medical services or items, unless otherwise specified in the appropriate provider rules.  (14) "Department" means the Department of Human Services.  (15) "Diagnosis Code" means the code as identified in the International Classification of Diseases, 9th Revision, Clinical Modification (ICD-9-CM). The primary diagnosis code is shown in all billing claims and PHP encounters, unless specifically excluded in individual provider rules. Where they exist, diagnosis codes must be shown to the degree of specificity outlined in OAR 407-120-0340 (claim and PHP encounter submission).  (16) "Electronic Data Transaction (EDT)" means the electronic exchange of business documents from application to application in a federally mandated format or, if no federal standard has been promulgated, conducted by either web portal or electronic data interchange in accordance with the Department's electronic data transaction rule (OAR 407-120-0100 to 407-120-0200).  (17) "Exclusion" means the Department shall not reimburse a specific provider who has defrauded or abused the Department for items or services that a provider furnished.  (18) "False Claim" means a claim or PHP encounter that a provider knowingly submits or causes to be submitted that contains inaccurate or misleading information, and that information would result, or has resulted, in an overpayment or improper use for per capita cost calculations.  (19) "Fraud" means an intentional deception or misrepresentation made by an individual with the knowledge that the deception could result in some unauthorized benefit to himself or herself, or some other individual. It includes any act that constitutes fraud or false claim under applicable federal or state law.  (20) "Healthcare Common Procedure Coding System (HCPCS)" means a method for reporting health care professional services, procedures and supplies. HCPCS consists of the Level 1 — American Medical Association's Physicians' Current Procedural Terminology (CPT), Level II — National Codes and Level III — Local Codes.  (21) "Health Insurance Portability and Accountability Act (HIPAA)" means a federal law (Public Law 104-191, August 21, 1996) with the legislative objective to assure health insurance portability, reduce health care fraud and abuse, enforce standards for health information and guarantee security and privacy of health information.  (22) "Hospice" means a public agency or private organization or subdivision of either that is primarily engaged in providing care to terminally ill individuals, is certified for Medicare, accredited by the Oregon Hospice Association, and is listed in the Hospice Program Registry.  (23) "Individual Adjustment Request" means a form (DMAP 1036) used to resolve an incorrect payment on a previously paid claim, including underpayments or overpayments.  (24) "Medicaid" means a federal and state funded portion of the medical assistance program established by Title XIX of the Social Security Act, as amended, and administered in Oregon by the Department.  (25) "Medicaid Management Information System (MMIS)" means the automated claims processing and information retrieval system for handling all Medicaid transactions. The objectives of the system include verifying provider enrollment and client eligibility, managing health care provider claims and benefit package maintenance, and addressing a variety of Medicaid business needs.  (26) "Medical Assistance Program" means a program for payment of health care provided to eligible Oregonians. Oregon's medical assistance program includes Medicaid services including the OHP Medicaid Demonstration, and CHIP. The medical assistance program is administered and coordinated by DMAP, a division of the Department.  (27) "Medically Appropriate" means services and medical supplies that are required for prevention, diagnosis, or treatment of a health condition that encompasses physical or mental conditions, or injuries and which are:  (a) Consistent with the symptoms or treatment of a health condition;  (b) Appropriate with regard to standards of good health practice and generally recognized by the relevant scientific community, evidence based medicine, and professional standards of care as effective;  (c) Not solely for the convenience of a client or a provider of the service or medical supplies; and  (d) The most cost effective of the alternative levels of medical services or medical supplies that can be safely provided to a client in the provider's judgment.  (28) "Medicare" means the federal health insurance program for the aged and disabled administered by the Centers for Medicare and Medicaid Services (CMS) under Title XVIII of the Social Security Act.  (29) "National Provider Identification (NPI)" means a federally directed provider number mandated for use on HIPAA covered transactions by individuals, provider organizations, and subparts of provider organizations that meet the definition of health care provider (45 Code of Federal Regulations (CFR) 160.103) and who conduct HIPAA covered transactions electronically.  (30) "Non-Covered Services" means services or items for which the Department is not responsible for payment. Non-covered services are identified in:  (a) OAR 410-120-1200, Excluded Services and Limitations;  (b) OAR 410-120-1210, Medical Assistance Benefit Packages and Delivery System;  (c) OAR 410-141-0480, OHP Benefit Package of Covered Services;  (d) OAR 410-141-0520, Prioritized List of Health Services; and  (e) The individual Department provider rules, program-specific rules, and contracts.  (31) "Non-Participating Provider" means a provider who does not have a contractual relationship with the PHP.  (32) "Nursing Facility" means a facility licensed and certified by the Department's Seniors and People with Disabilities Division (SPD) defined in OAR 411-070-0005.  (33) "Oregon Health Plan (OHP)" means the Medicaid demonstration project that expands Medicaid eligibility to eligible clients. The OHP relies substantially upon prioritization of health services and managed care to achieve the public policy objectives of access, cost containment, efficacy, and cost effectiveness in the allocation of health resources.  (34) "Out-of-State Providers" means any provider located outside the borders of Oregon:  (a) Contiguous area providers are those located no more than 75 miles from the border of Oregon;  (b) Non-contiguous area providers are those located more than 75 miles from the borders of Oregon.  (35) "Post-Payment Review" means review of billings or other medical information for accuracy, medical appropriateness, level of service, or for other reasons subsequent to payment of the claim.  (36) "Prepaid Health Plan (PHP)" means a managed health, dental, chemical dependency, physician care organization, or mental health care organization that contracts with DMAP or Addictions and Mental Health Division (AMH) on a case managed, prepaid, capitated basis under the OHP. PHP's may be a Dental Care Organization (DCO), Fully Capitated Health Plan (FCHP), Mental Health Organization (MHO), Primary Care Organization (PCO) or Chemical Dependency Organization (CDO).  (37) "Prohibited Kickback Relationships" means remuneration or payment practices that may result in federal civil penalties or exclusion for violation of 42 CFR 1001.951.  (38) "PHP Encounter" means encounter data submitted by a PHP or by a provider in connection with services or items reimbursed by a PHP.  (39) "Prior Authorization" means payment authorization for specified covered services or items given by Department staff, or its contracted agencies, or a county if required by the county, prior to provision of the service. A physician or other referral is not a prior authorization.  (40) "Provider" means an individual, facility, institution, corporate entity, or other organization which supplies health care or other covered services or items, also termed a performing provider, that must be enrolled with the Department in accordance with OAR 407-120-0300 to 407-120-0400 to seek reimbursement from the Department, including services provided, under program-specific rules or contracts with the Department or with a county or PHP.  (41) "Quality Improvement" means the effort to improve the level of performance of key processes in health services or health care. A quality improvement program measures the level of current performance of the processes, finds ways to improve the performance and implements new and better methods for the processes. Quality improvement includes the goals of quality assurance, quality control, quality planning, and quality management in health care where "quality of care is the degree to which health services for individuals and populations increase the likelihood of desired health outcomes and are consistent with current professional knowledge."  (42) "Quality Improvement Organization (QIO)" means an entity which has a contract with CMS under Part B of Title XI to perform utilization and quality control review of the health care furnished, or to be furnished, to Medicare and Medicaid clients; formerly known as a "Peer Review Organization."  (43) "Remittance Advice" means the automated notice a provider receives explaining payments or other claim actions.  (44) "Subrogation" means the right of the state to stand in place of the client in the collection of third party resources, including Medicare.  (45) "Suspension" means a sanction prohibiting a provider's participation in the Department's medical assistance or other programs by deactivation of the assigned provider number for a specified period of time or until the occurrence of a specified event.  (46) "Termination" means a sanction prohibiting a provider's participation in the Department's programs by canceling the assigned provider number and agreement unless:  (a) The exceptions cited in 42 CFR 1001.221 are met; or  (b) Otherwise stated by the Department at the time of termination.  (47) "Third Party Resource (TPR)" means a medical or financial resource, including Medicare, which, by law, is available and applicable to pay for covered services and items for a medical assistance client.  (48) "Usual Charge" means when program-specific or contract reimbursement is based on usual charge, and is the lesser of the following, unless prohibited from billing by federal statute or regulation:  (a) The provider's charge per unit of service for the majority of non-medical assistance users of the same service based on the preceding month's charges;  (b) The provider's lowest charge per unit of service on the same date that is advertised, quoted, or posted. The lesser of these applies regardless of the payment source or means of payment; or  (c) Where the provider has established a written sliding fee scale based upon income for individuals and families with income equal to or less than 200% of the FPL, the fees paid by these individuals and families are not considered in determining the usual charge. Any amounts charged to TPR must be considered.  (49) "Visit Data" means program-specific or contract data collection requirements associated with the delivery of service to clients on the basis of an event such as a visit. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 409.050 & 411.060 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.115, 414.125, 414.135 & 414.145 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 11-2008, f. 12-26-08, cert. ef. 12-27-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 6-2008(Temp), f. & cert. ef. 7-1-08 thru 12-27-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 15-2007, f. 12-31-07, cert. ef. 1-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

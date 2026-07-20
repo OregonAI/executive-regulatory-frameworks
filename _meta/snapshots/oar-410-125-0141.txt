@@ -1,0 +1,456 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 125 HOSPITAL SERVICES 
+ 410-125-0141 
+ DRG Rate Methodology
+ 
+ 
+ (1) Diagnosis Related Groups, (DRG): 
+
+ (a)  The DRG is a system of classification of diagnoses and procedures based on the International Classification of Diseases, 10th Revision, Clinical Modification (ICD-10-CM); 
+
+ (b) The DRG classification methodology assigns a DRG category to each inpatient service, based on the patient’s diagnoses, age, procedures performed, length of stay, and discharge status. 
+
+ (2) Medicare Grouper: The Medicare Grouper is the software used to assign an individual claim to a DRG category. Medicare revises the Grouper program each year in October. The Agency uses the Medicare Grouper program in the assignment of inpatient hospital claims. The most recent version of the Medicare grouper shall be installed each year within ninety (90) days of the date it is implemented by Medicare. Where better assignment of claims is achieved through changes to the grouper logic, the Agency may modify the logic of the grouper program. The Agency shall work with representatives of hospitals that may be affected by grouper logic changes in reaching a cooperative decision regarding changes. The Agency DRG weight tables can be found on the Agency web site: 
+
+ (a) Acute Care Hospitals larger than fifty (50) beds are considered DRG hospitals and reimbursed using Medicare’s MS-DRG grouper; 
+
+ (b) Hospitals enrolled as long-term acute care (LTAC) are reimbursed using Medicare’s MS-LTC DRG grouper. 
+
+ (c) Inpatient psychiatric adult and pediatric services are reimbursed using the most recent Medical Severity Diagnosis Related Groups, (MS-DRG), in Major Diagnosis Category, (MDC), MDC-19 and MDC-20 published by Medicare in the latest inpatient Prospective Payment System, (IPPS) final rule. 
+
+ (3) DRG Relative Weights: 
+
+ (a) Relative weights are a measure of the relative resources required in the treatment of the average case falling within a specific DRG category; 
+
+ (b) For most DRGs, the Agency establishes a relative weight based on federal Medicare DRG weights. For state-specific Rehabilitation, and Neonate, Oregon Title XIX fee-for-service claims history is used.  The Agency employs the following methodology to determine whether enough claims exist to establish a reasonable weight for each state-specific Rehabilitation, and Neonate, the Agency uses the following methodology: Using the formula N = ((Z * S)/ R)^2, where Z=1.15(a 75 percent  confidence level), S is the standard deviation, and R = 10 percent of the mean. The Agency determines the minimum number of claims required to set a stable weight for each DRG (N must be at least 5). For state-specific Rehabilitation, and Neonate, lacking sufficient volume, the Agency sets a relative weight using: 
+
+ (A)  Agency non-Title XIX claims data; or 
+
+ (B) Data from other sources expected to reflect a population similar to the Agency Title XIX caseload; 
+
+ (c) When a test shows at the 90 percent confidence level that an externally derived weight is not representative of the average cost of services provided to the Agency Title XIX population in that DRG, the weight derived from the Agency Title XIX claims history is used instead of the externally derived weight for that DRG; 
+
+ (d) Those relative weights based on Federal Medicare DRG weights shall be established when changes are made to the DRG Grouper logic. State-specific relative weights shall be adjusted, as needed, as determined by the Agency. When relative weights are recalculated, the overall Case Mix Index (CMI) shall be kept constant. Reweighing of DRGs or the addition or modification of the grouper logic shall not result in a reduction of overall payments or total relative weights. 
+
+ (4) Case Mix Index: The hospital-specific case mix index is the total of all relative weights for all services provided by a hospital during a period, divided by the number of discharges. 
+
+ (5) Unit Value: Hospitals larger than fifty beds or enrolled as a long-term acute care (LTAC) hospital are reimbursed using the DRG as described in section (2). Effective for services on or after: 
+
+ (a) Effective October 1, 2009 the operating unit payment is 100 percent of the most recent version of the Medicare base payment rates. The Agency shall revise the base payment rates each year in October when Medicare posts the rates. 
+
+ (b) DRG Payment: The DRG payment to each Oregon DRG hospital or LTAC hospital is calculated by adding the unit value to the capital amount, then multiplied by the claim assigned DRG relative weight (out-of-state hospitals do not receive the capital amount). 
+
+ (c) Effective January 1, 2025; the Agency shall establish separate unit values for inpatient psychiatric adult and pediatric services. The unit values shall apply to the DRGs published in the most recent Major Diagnostic Category (MDC) group 19 and 20 and be multiplied by the claim-assigned DRG relative weight. The adult and pediatric psychiatric unit values for each hospital have been established as a percentage of the estimated Medicaid costs for inpatient hospital psychiatric services based on calendar year 2021 and 2022 Oregon inpatient hospital claims and the applicable Medicare cost reports. 
+
+ (6) The unit values for inpatient psychiatric adult and pediatric services are adjusted for the location of the hospital. The calculated labor portion of unit values are multiplied by the wage index as identified in the Medicare Inpatient Prospective Payment System Final Rule (IPPS Final Rule) to determine the location adjusted labor portion and the capital portion of the unit values are multiplied by the geographic adjustment factor as outlined in the IPPS Final Rule.  The total unit value for each hospital equals the sum of the wage-adjusted labor portion, the non-labor portion and geographic-adjusted capital portion shall be rebased every two (2) years or at the discretion of the Agency.  During non-rebase years, the adult and pediatric psychiatric unit values shall be updated using the Medicare increases in the Medicare market basket increases from the IPPS Final Rule effective October 1st of the non-rebase year. 
+
+ (7) DRG Hospital Cost Outlier Payments: 
+
+ (a) Cost outlier payments are an additional payment made to in-state and contiguous hospitals for exceptionally costly services or exceptionally long lengths of stay provided to Title XIX and SF (State Facility) clients. As of January 1, 2025, outlier payments for inpatient hospital psychiatric services follow the methodology outlines in Section (10); 
+
+ (b) The calculation to determine the cost outlier payment for Oregon DRG hospitals is as follows: 
+
+ (A) Non-covered services (such as ambulance charges) are deducted from billed charges; 
+
+ (B) The remaining billed charges are converted to hospital-specific costs using the hospital’s cost-to-charge ratio derived from the most recent audited Medicare cost report and adjusted to the Medicaid caseload; 
+
+ (C) If the hospital’s net costs as determined above are greater than 270 percent of the DRG payment for the admission and are greater than $25,000, an additional cost outlier payment is made; 
+
+ (D) Costs which exceed the threshold ($25,000 or 270 percent of the DRG payment, whichever is greater) are reimbursed using the following formula: 
+
+ (i) Billed charges less non-covered charges, multiplied by; 
+
+ (ii) Hospital-specific cost-to-charge ratio equals; 
+
+ (iii) Net Costs, minus; 
+
+ (iv) 270 percent of the DRG or $25,000 (whichever is greater), equals; 
+
+ (v) Outlier Costs, multiplied by; 
+
+ (vi) Cost Outlier Percentage, (cost outlier percentage is 50 percent), equals; 
+
+ (vii) Cost Outlier Payment; 
+
+ (E) Third party reimbursements are deducted from the Agency calculation of the payable amount; 
+
+ (F) When hospital cost reports are audited during the cost settlement process, an adjustment shall be made to cost outlier payments to reflect the actual Medicaid hospital-specific cost-to-charge ratio during the time cost outlier claims were incurred. The cost-to-charge ratio in effect for that period of time shall be determined from the audited Medicare Cost Report and cost statement template, adjusted to reflect the Medicaid mix of services. 
+
+ (8) LTAC Short Stay Outliers: Occurs when a covered length of stay is between one day and up to and including 5/6ths of the average length of stay for the LTC-DRG grouping. The Short Stay Outlier payment for the hospital shall be the lesser of: 
+
+ (a) Per Diem for Short Stay Outlier Calculation: 
+
+ (A) MS-LTC DRG payment, divided by; 
+
+ (B) Geometric Length of Stay (GLOS,) multiplied by; 
+
+ (C) Actual length of stay, multiplied by; 
+
+ (D) 120 percent equals; 
+
+ (E) Per Diem payment; 
+
+ (b) Full MS-LTC DRG payment. 
+
+ (9) LTAC High Cost Outliers: Are an additional payment when the estimated cost of a claim exceeds the outlier threshold (LTC DRG payment plus a fixed loss amount): 
+
+ (a) The fixed loss amount is published annually by Medicare; 
+
+ (b) If the estimated cost of a claim is greater than the outlier threshold, an additional payment is added to the LTC DRG payment; 
+
+ (c) The outlier payment is 80 percent of the difference between the estimated cost of the claim and the outlier threshold (LTC DRG payment plus the fixed loss amount); 
+
+ (d) The estimated cost of the claim is calculated by multiplying the Agency’s allowable charge on the claim by the hospital’s cost-to-charge ratio. 
+
+ (10) Inpatient psychiatric adult and pediatric services day outlier payment: 
+
+ (a) Effective for services on or after January 1, 2025; a day outlier shall be applied to inpatient psychiatric adult and pediatric services when the outlier threshold is met. The outlier threshold is a sliding scale starting at a length of stay thirty (30) days. The sliding scale determines the adjustment percentage for the calculation. 
+
+ (b) Adjustment percentage sliding scale effective on or after January 1, 2025: 
+
+ (A) Percentage scale for days of service 30-89 is 70 percent 
+
+ (B) Percentage scale for days of service 90 plus is 50 percent 
+
+ (11) Day outlier formula calculation effective on or after January 1, 2025: 
+
+ (a) Unit value as defined in (5)(c); 
+
+ (b) Multiplied by the DRG weight equals DRG base payment; 
+
+ (c) Divide DRG base payment by the arithmetic length of stay (ALOS), equals DRG per diem; 
+
+ (d) DRG per diem multiplied by days over the 30-day threshold, equals DRG outlier; 
+
+ (e) DRG day outlier times the DRG Day Outlier Percentage equals allowable DRG outlier. 
+
+ (f) Formula, unit value (70 percent of Medicare) X DRG weight=DRG base payment/ DRG ALOS= DRG per diem X days over 30-day threshold= DRG outlier X DRG day outlier percentage= allowable DRG outlier. 
+
+ (12) Capital: 
+
+ (a) The capital payment is a reimbursement to in-state hospitals for capital costs associated with the delivery of services to Title XIX, non-Medicare persons. The Agency uses the Medicare definition and calculation of capital costs. These costs are taken from the Hospital Statement of Reimbursable Cost (Medicare Report); capital cost per discharge is calculated as follows: 
+
+ (b)  The capital cost per discharge is 100 percent of the current year Medicare capital rate for non-psychiatric services and updated every October thereafter, see section (5) of this rule. The capital cost is added to the Unit Value and paid per discharge for non-psychiatric services. 
+
+ (c) There is no separate cost reimbursement for capital cost for adult and pediatric inpatient psychiatric services as it is captured in the unit value per section (5)(c). 
+
+ (13) Direct Medical Education: 
+
+ (a) The direct medical education payment is a reimbursement to in-state hospitals for direct medical education costs associated with the delivery of services to Title XIX eligible persons. The Agency uses the Medicare definition and calculation of direct medical education costs. These costs are taken from the Hospital Statement of Reimbursable Cost (Medicare Report); 
+
+ (b) Direct medical education cost per discharge is calculated as follows: 
+
+ (A) The direct medical education cost proportional to the number of Title XIX non-Medicare discharges during the period from July 1, 1986, through June 30, 1987, are divided by the number of Title XIX non-Medicare discharges. This is the Title XIX direct medical education cost per discharge; 
+
+ (B) The Title XIX direct medical education cost per discharge for this period is inflated forward to January 1, 1992, using the compounded HCFA-DRI market basket adjustment; 
+
+ (c) Direct medical education payment per discharge: 
+
+ (A) The number of Title XIX non-Medicare discharges from each hospital for the quarterly period is multiplied by the inflated Title XIX cost per discharge. This determines the current quarter’s Direct Medical Education costs. This amount is then multiplied by 85 percent. Payment is made within thirty days of the end of the quarter; 
+
+ (B) The Direct Medical Education Payment per Discharge shall be adjusted at an inflation factor determined by the Department in consideration of inflationary trends, hospital productivity, and other relevant factors. 
+
+ (C) Notwithstanding section (9) of this rule, this subsection becomes effective for dates of service: 
+
+ (i) On July 1, 2006, and thereafter direct medical education payments shall not be made to hospitals; and 
+
+ (ii) On July 1, 2008,and thereafter direct medical education payments shall be made to hospitals. 
+
+ (14) Indirect Medical Education: 
+
+ (a) The indirect medical education payment is a reimbursement made to in-state hospitals for indirect medical education costs associated with the delivery of services to Title XIX non-Medicare clients; 
+
+ (b) Indirect medical education costs are those indirect costs identified by Medicare as resulting from the effect of teaching activity on operating costs; 
+
+ (c) Indirect medical education payments are made to in-state hospitals determined by Medicare to be eligible for such payments. The indirect medical education factor in use by Medicare for each of these eligible hospitals at the beginning of the state’s fiscal year is the Agency indirect medical education factor. This factor is used for the entire Oregon Fiscal Year; 
+
+ (d) For dates of service on and after March 1, 2004, the calculation for the Indirect Medical Education quarterly payment is as follows: Total paid discharges during the quarter multiplied by the Case Mix Index, multiplied by the hospital-specific February 29, 2004, Unit Value, multiplied by the Indirect Factor, equals the Indirect Medical Education Payment; 
+
+ (e) Effective October 1, 2009, the calculation of the Indirect Medical Education quarterly payment is as follows: Total paid discharges during the quarter multiplied by the Case Mix Index, multiplied by the hospital unit value, see section (5)(c) of this rule, multiplied by the indirect factor, equals the Indirect Medical Education Payment; 
+
+ (f) This determines the current quarter’s Indirect Medical Education Payment. Indirect medical education payments are made quarterly to each eligible hospital. Payment for indirect medical education costs shall be made within thirty (30) days of the end of the quarter; 
+
+ (g) Notwithstanding section (10) of this rule, this subsection becomes effective for dates of service: 
+
+ (A) On July 1, 2006, and thereafter Indirect Medical Education payment shall not be made to hospitals; and 
+
+ (B) On July 1, 2008, and thereafter Indirect Medical Education payments shall be made to hospitals. 
+
+ [Publications: Publications referenced are available from the agency.] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.065 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 90-2025, amend filed 12/17/2025, effective 12/17/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 59-2025, temporary amend filed 07/30/2025, effective 08/01/2025 through 01/27/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 55-2025, amend filed 06/26/2025, effective 06/29/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 146-2024, temporary amend filed 12/29/2024, effective 01/01/2025 through 06/29/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 31-2016, f. 6-29-16, cert. ef. 7-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ DMAP 51-2015, f. 9-22-15, cert. ef. 10-1-15 
+DMAP 31-2009, f. 9-22-09, cert. ef. 10-1-09 
+DMAP 10-2009(Temp), f. 4-29-09, cert. ef. 5-1-09 thru 10-28-09 
+DMAP 19-2008, f. 6-13-08, cert. ef. 7-1-08 
+OMAP 17-2006, f. 6-12-06, cert. ef. 7-1-06 
+OMAP 70-2005, f. 12-21-05, cert. ef. 1-1-06 
+OMAP 37-2005(Temp), f. & cert. ef. 8-15-05 thru 1-15-06 
+OMAP 21-2005, f. 3-21-05, cert. ef. 4-1-05 
+OMAP 78-2004(Temp), f. & cert. ef. 10-1-04 thru 3-15-05 
+OMAP 90-2003, f. 12-30-03, cert. ef. 1-1-04 
+OMAP 37-2003, f. & cert. ef. 5-1-03 
+OMAP 16-2003(Temp), f. & cert. ef. 3-10-03 thru 8-1-03 
+OMAP 13-2003, f. 2-28-03, cert. ef. 3-1-03 
+OMAP 35-2001, f. 9-24-01, cert. ef. 10-1-01 
+OMAP 34-1999, f. & cert. ef. 10-1-99 
+OMAP 45-1998, f. & cert. ef. 12-1-98 
+HR 22-1996, f. 11-29-96, cert. ef. 12-1-96 
+HR 11-1996(Temp), f. & cert. ef. 7-1-96 
+HR 23-1994, f. 5-31-94, cert. ef. 6-1-94 
+HR 35-1993(Temp), f. & cert. ef. 12-1-93 
+HR 53-1991, f. & cert. ef. 11-18-91, Renumbered from 410-125-0840, 410-125-0880, 410-125-0900, 410-125-0920, 410-125-0960 & 410-125-0980 
+HR 32-1991(Temp), f. & cert. ef. 7-29-91 
+HR 28-1991(Temp), f. & cert. ef. 7-1-91 
+HR 3-1991, f. & cert. ef. 1-4-91 
+HR 42-1990, f. & cert. ef. 11-30-90 
+HR 36-1990(Temp), f. 10-29-90, cert. ef. 11-1-90 
+HR 31-1990(Temp), f. & cert. ef. 9-11-90 
+HR 21-1990, f. & cert. ef. 7-9-90, Renumbered from 461-015-0570, 461-015-0590, 461-015-0600 & 461-015-0610 
+HR 18-1990(Temp), f. 6-29-90, cert. ef. 7-1-90 
+AFS 72-1989, f. & cert. ef. 12-1-89, Renumbered from 461-015-0006, 461-015-0020 & 461-015-0124 
+AFS 49-1989(Temp), f. 8-24-89, cert. ef. 9-1-89 
+AFS 45-1989, f. & cert. ef. 8-21-89 
+AFS 37-1989(Temp), f. 6-30-89, cert. ef. 7-1-89 
+AFS 36-1989(Temp), f. & cert. ef. 6-30-89 
+AFS 15-1989(Temp), f. 3-31-89, cert. ef. 4-1-89 
+AFS 7-1989(Temp), f. 2-17-89, cert. ef. 3-1-89 
+AFS 63-1988, f. 10-3-88, cert. ef. 12-1-88 
+AFS 47-1988(Temp), f. 7-13-88, cert. ef. 7-1-88 
+AFS 26-1988, f. 3-31-88, cert. ef. 4-1-88 
+AFS 12-1988, f. 2-10-88, cert. ef. 6-1-88 
+AFS 62-1987(Temp), f. 12-30-87, cert. ef. 1-1-88 
+AFS 46-1987, f. & cert. ef. 10-1-87 
+AFS 33-1987(Temp), f. & cert. ef. 7-22-87 
+AFS 61-1986, f. 8-12-86, cert. ef. 9-1-86 
+AFS 46-1986(Temp), f. 6-25-86, cert. ef. 7-1-86 
+AFS 52-1985, f. 9-3-85, cert. ef. 10-1-85 
+AFS 6-1985, f. 1-28-85, cert. ef. 2-1-85 
+AFS 45-1984, f. & cert. ef. 10-1-84 
+AFS 1-1984, f. & cert. ef. 1-9-84 
+AFS 37-1983(Temp), f. & cert. ef. 7-15-83 
+AFS 60-1982, f. & cert. ef. 7-1-82; Renumbered from 461-015-0120(5) 
+AFS 18-1982(Temp), f. & cert. ef. 3-1-82 
+AFS 57-1980, f. 8-29-80, cert. ef. 9-1-80 
+AFS 14-1980, f. 3-27-80, cert. ef. 4-1-80 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

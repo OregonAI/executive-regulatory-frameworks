@@ -1,0 +1,269 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Department of Emergency Management 
+ Chapter 104 
+ 
+ 
+ 
+ 
+ 
+ Division 80 9-1-1 EMERGENCY COMMUNICATIONS  SYSTEM PROGRAM 
+ 104-080-0195 
+ Emergency Communications Account expenditures
+ 
+ 
+ (1) Authorized expenditures from the Emergency Communications Account by the 9-1-1 jurisdiction for the operation of the primary PSAP are: 
+
+ (a) Telecommunicators salaries; 
+
+ (b) E9-1-1 telephone line charges; 
+
+ (c) Components of the emergency communications system used in processing emergency calls; 
+
+ (A) ANI 
+
+ (B) ALI  
+
+ (C) ANI/ALI Controller 
+
+ (D) Selective Routing 
+
+ (E) Selective Transfer 
+
+ (F) Uninterrupted Power Supply 
+
+ (G) TDD / TTY Communications Capability 
+
+ (H) Instant Call-back Recorder 
+
+ (I) Text-to-9-1-1 
+
+ (J) ALI Database Services 
+
+ (K) Mapping 
+
+ (L) Combined telephone headset/handset to answer both 9-1-1 calls and non-emergency calls from the CPE 
+
+ (M) Automatic Call Distributor 
+
+ (d) Transfer and relay telephone line charges to secondary PSAPs; 
+
+ (e) Emergency Communications System maintenance include: 
+
+ (A) Remedial maintenance necessary to return all CPE to proper operating condition as described in manufacturer’s specifications.  Remedial maintenance must be provided 24 hours a day, 7 days a week, including Providers holidays, on a call-out basis. 
+
+ (B) Anti-virus software and any updates (hot fix/patches) to hardware and software to keep the CPE fully operational. 
+
+ (C) Parts, as needed, to maintain hardware and software. 
+
+ (f) Receive only pagers if this is the primary means of notifying responders of an emergency call for service; 
+
+ (g) Training expenses for telecommunicator training provided by the Department of Public Safety Standards and Training; 
+
+ (h) Logging recording equipment used to record emergency calls, date and time of the call, and notice to responding agencies of emergency calls for service; 
+
+ (i) Public education regarding 9-1-1 use and availability; 
+
+ (j) Computer data links to responding agencies if this is the means used to notify responding agencies of emergency calls for service; 
+
+ (k) Base rate charges for ten-digit emergency and non-emergency primary PSAP reporting numbers; 
+
+ (l) Emergency Notification System; 
+
+ (m) Radio base stations necessary to notify responders of an emergency call for service; 
+
+ (n) Computer aided dispatch systems that handle emergency call processing and notification of responding agencies of emergency calls for service; 
+
+ (o) Telephone and radio equipment; 
+
+ (p) Administration and overhead (rent, utilities, and maintenance) of a multi-use primary PSAP that includes dispatching of public safety services; 
+
+ (q) Backup power systems (generators) set for powering the primary PSAP during long term power outages; 
+
+ (r) Alternate primary PSAP sites and circuit routing when used for disaster recovery; 
+
+ (s) Planning and development costs for the 9-1-1 Jurisdiction Plan 
+
+ (t) Transmit and receive pagers, portable or mobile radios and repeater stations when used as primary means of notice to responding agencies of an emergency call for service; and 
+
+ (u) Any other item not covered by ORS 104-080-0195 that is necessary to provide emergency communication services in the primary PSAP service area. The 9-1-1 jurisdiction will provide all supporting documentation that describes why the products or services benefit the primary PSAP and the community served.  Prior written approval by the Department is required. 
+
+ (2) Except for the costs of transfer and relay telephone line charges to the secondary PSAP as set forth above, a 9-1-1 jurisdiction is not eligible to receive funding for the operation of a secondary PSAP from this account. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 403.120; 2015 HB 2426 
+ 
+ 
+ Statutes/Other Implemented:  ORS 403 & 2015 HB 2426 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OEM 28-2023, minor correction filed 04/10/2023, effective 04/10/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OEM 2-2018, amend filed 11/02/2018, effective 11/02/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OEM 3-2015, f. & cert. ef. 12-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

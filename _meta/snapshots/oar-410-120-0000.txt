@@ -1,0 +1,1600 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 120 MEDICAL ASSISTANCE PROGRAMS 
+ 410-120-0000 
+ Acronyms and Definitions
+ 
+ 
+ Identification of acronyms and definitions within this rule specifically pertain to their use within the Oregon Health Authority (Authority), chapter 410 administrative rules, applicable to medical assistance programs. This rule does not include an exhaustive list of program acronyms and definitions. For program and services definitions, see the appropriate OAR in the applicable division of chapter 410 administrative rules, and any appropriate governing acronyms and definitions in other Authority chapters such as 309 and 943 or the Oregon Department of Human Services (Department) administrative rules found in chapters 411, 413, or 461, or contact the Authority. 
+
+ (1) “Abuse” means provider practices that are inconsistent with sound fiscal, business, or medical practices and result in an unnecessary cost to the Authority or in reimbursement for services that are not medically necessary or medically appropriate. It also includes recipient practices that result in unnecessary cost to the Authority. 
+
+ (2) “Action” means a termination, suspension of, or reduction in covered benefits, services, eligibility or an increase in beneficiary liability. This includes a determination by a skilled nursing facility or nursing facility to transfer or discharge a resident, or an adverse determination with regard to the preadmission screening and resident review requirements. For the definition as it is related to a Coordinated Care Organization (CCO) member, refer to OAR 410-141-3500. 
+
+ (3) “Acupuncturist” means an individual licensed to practice acupuncture by the relevant state licensing board. 
+
+ (4) “Acupuncture Services” means services provided by a licensed acupuncturist within the scope of practice as defined under state law. 
+
+ (5) “Acute” means a condition, diagnosis, or illness with a sudden onset and that is of short duration. 
+
+ (6) “Acquisition Cost” means, unless specified otherwise in individual program administrative rules, the net invoice price of the item, supply, or equipment plus any shipping or postage for the item. 
+
+ (7) “Addictions and Mental Health Division” means the Division within the Authority’s Health Systems Division that administers mental health and addiction programs and services. 
+
+ (8) “Adequate Record Keeping” means documentation that supports the level of service billed. See OAR 410-120-1360, Requirements for Financial, Clinical, and Other Records, and the individual provider rules. 
+
+ (9) “Administrative Medical Examinations and Reports” means examinations, evaluations, and reports, including copies of medical records requested on the Oregon Health Plan (OHP) 729 form through the local Department branch office or requested or approved by the Authority to establish client eligibility for a medical assistance program or for casework planning. 
+
+ (10) “Adults and Youths Discharged from an HRSN Eligible Behavioral Health Facility” means Members who have been discharged from one of the settings listed below within the last 365 calendar days. Eligibility for HRSN Services shall expire on the 366th calendar day after discharge. 
+
+ (a) Acute Care Psychiatric Hospitals as defined in OAR 309-015-0005, 
+
+ (b) Institution for Mental Diseases as defined in 42 CFR 435.1010, 
+
+ (c) Integrated Psychiatric Residential Treatment Facilities and Residential Substance Use Disorders Treatment Programs as defined in OAR 309-022-0105, 
+
+ (d) Residential Treatment Facilities (RTF) as defined in OAR 309-035-0105, 
+
+ (e) Residential Treatment Homes (RTH) as defined in OAR 309-035-0105, 
+
+ (f) Secure Residential Treatment Facilities (SRTF), as defined in OAR 309-035-0105, 
+
+ (g) Psychiatric Residential Treatment Facilities (PRTF) as defined in OAR 309-022-0105, and 
+
+ (h) Residential Substance Use Disorders Treatment Programs as defined in OAR 309-018-0105 
+
+ (11) “Adults and Youths Released from Incarceration” means Members released from incarceration within the past 365 calendar days, including those released from state and federal prisons, local correctional facilities, juvenile detention facilities, Oregon Youth Authority closed custody corrections or tribal correctional facilities. Eligibility for HRSN Services shall expire on the 366th calendar day after release from a carceral facility. 
+
+ (12) “Advance Directive” means an individual’s instructions to an appointed person specifying actions to take in the event that the individual is no longer able to make decisions due to illness or incapacity. 
+
+ (13) “Adverse determination” means a determination made that the individual does not require the level of services provided by a nursing facility or that the individual does or does not require specialized services. 
+
+ (14) “Adverse Event” means an undesirable and unintentional, though not necessarily unexpected, result of medical treatment. 
+
+ (15) “Affiliation” means for provider requesting enrollment or revalidation as an Oregon Medicaid provider any of the following: 
+
+ (a) Five (5) percent or greater direct or indirect ownership interest that an individual or entity has in another organization; 
+
+ (b) A general or limited partnership interest (regardless of the percentage) that an individual or entity has in another organization; 
+
+ (c) An interest in which an individual or entity exercises operational or managerial control over, or directly or indirectly conducts, the day-to-day operations of another organization, either under contract or through some other arrangement, regardless of whether or not the managing individual or entity is a W-2 employee of the organization; includes sole proprietorships; 
+
+ (d) An interest in which an individual is acting as an officer or director of a corporation; or 
+
+ (e) Any payment assignment relationship under 42 CFR 447.10(g). 
+
+ (16) “Agent” means any person who has been delegated the authority to obligate or act on behalf of a provider. 
+
+ (17) “Aging and People with Disabilities (APD)” means the division in the Department of Human Services (Department) that administers programs for seniors and people with disabilities. This division was formerly named “Seniors and People with Disabilities (SPD).” 
+
+ (18) “All-Inclusive Rate” or “Bundled Rate” means the nursing facility rate established for a facility. This rate includes all services, supplies, drugs, and equipment as described in OAR 411-070-0085 and in the Division’s Pharmaceutical Services program administrative rules and the Home Enteral/Parenteral Nutrition and IV Services program administrative rules, except as specified in OAR 410-120-1340 Payment. 
+
+ (19) “Allied Agency” means local and regional governmental agency and regional authority that contracts with the Authority or Department to provide the delivery of services to covered individuals (e.g., local mental health authority, community mental health program, Oregon Youth Authority, Department of Corrections, local health departments, schools, education service districts, developmental disability service programs, Area Agencies on Aging (AAAs), and federally recognized American Indian tribes). 
+
+ (20) “Alternative Care Settings” means sites or groups of practitioners that provide care to members under contract with a Managed Care Entity (MCE), including urgent care centers, hospice, birthing centers, out-placed medical teams in community or mobile health care facilities, long-term care facilities, and outpatient surgical centers. 
+
+ (21) “Ambulance” means a specially equipped and licensed vehicle for transporting sick or injured individuals that meets the licensing standards of the Authority or the licensing standards of the state in which the ambulance provider is located. 
+
+ (22) “Ambulatory Payment Classification” means a reimbursement method that categorizes outpatient visits into groups according to the clinical characteristics, the typical resource use, and the costs associated with the diagnoses and the procedures performed. The groups are called Ambulatory Payment Classifications (APCs). 
+
+ (23) “Ambulatory Surgical Center (ASC)” means a facility licensed as an ASC by the Authority. 
+
+ (24) “American Indian/Alaska Native (AI/AN)” means a member of a federally recognized Indian tribe, band, or group, and an Eskimo or Aleut or other Alaska native enrolled by the Secretary of the Interior pursuant to the Alaska Native Claims Settlement Act, 43 U.S.C. 1601, or a person who is considered by the Secretary of the Interior to be an Indian for any purpose. 
+
+ (25) “American Indian/Alaska Native (AI/AN) Clinic” means a clinic recognized under Indian Health Services (IHS) law or by the Memorandum of Agreement between IHS and the Centers for Medicare and Medicaid Services (CMS). 
+
+ (26) “Ancillary Services” means services supportive of or necessary for providing a primary service, such as anesthesiology, which is an ancillary service necessary for a surgical procedure. 
+
+ (27) “Anesthesia Services” means administration of anesthetic agents to cause loss of sensation to the body or body part. 
+
+ (28) “Appeal” means a request for review of an adverse determination, action or as it relates to an MCE an adverse benefit determination. 
+
+ (29) “Area Agency on Aging (AAA)” means the designated entity with which the Department contracts to meet the requirements of the Older Americans Act and ORS chapter 410 in planning and providing services to the elderly or elderly and disabled population. 
+
+ (30) “Asynchronous” means not simultaneous or concurrent in time. For the purpose of this general rule, asynchronous telecommunication technologies for telemedicine or telehealth services may include audio and video, audio without video, client or member portal and may include remote monitoring. “Asynchronous” does not include voice messages, facsimile, electronic mail or text messages. 
+
+ (31) “At Risk of Homelessness” means a Member who: 
+
+ (a) Has an income that is 30 percent or less than the area median income where the individual resides according to the most recent available data from the U.S. Department of Housing and Urban Development; and, 
+
+ (b) Lacks sufficient resources or support networks to prevent their homelessness; and, 
+
+ (c) Meets any HRSN Housing and Nutrition Clinical Risk Factor as further defined in OAR 410-120-2005 in Tables 2-3. 
+
+ (d) At Risk of Homelessness does not include individuals in Category 1 of the HUD Homeless definition (24 CFR 91.5 (1)). Category 1 (also called “literally homeless”) includes people residing in Transitional Housing, as defined in 24 CFR 578.3. Recovery Housing is not Transitional Housing, and a Member in Recovery Housing may be eligible for HRSN Housing Supports. 
+
+ (32) “Atypical Provider” means an entity able to enroll as a Billing Provider (BP) or rendering provider for medical assistance programs related non-health care services but that does not meet the definition of health care provider for National Provider Identification (NPI) purposes. 
+
+ (33) “Audiologist” means an individual licensed to practice audiology by the State Board of Examiners for Speech Pathology and Audiology. 
+
+ (34) “Audiology” means the application of principles, methods, and procedures of measurement, testing, appraisal, prediction, consultation, counseling, and instruction related to hearing and hearing impairment for the purpose of modifying communicative disorders involving speech, language, auditory function, including auditory training, speech reading and hearing aid evaluation, or other behavior related to hearing impairment. 
+
+ (35) “Audio only” means the use of audio technology, permitting real-time communication between a health care provider and a member for the purpose of diagnosis, consultation or treatment. “Audio only” does not include health services that are customarily delivered by audio telephone technology and customarily not billed as separate services by a health care provider, such as the sharing of laboratory results. 
+
+ (36) “Automated Voice Response (AVR)” means a computer system that provides information on clients' current eligibility status from the Division by computerized phone response. 
+
+ (37) “Behavioral Health” means mental health, mental illness, addiction disorders, and substance use disorders. 
+
+ (38) “Behavioral Health Assessment” means a qualified mental health professional’s determination of a member’s need for mental health services. 
+
+ (39) “Behavioral Health Case Management” means services provided to members who need assistance to ensure access to mental health benefits and services from local, regional, or state allied agencies or other service providers. 
+
+ (40) “Behavioral Health Evaluation” means a psychiatric or psychological assessment used to determine the need for mental health or substance use disorder services. 
+
+ (41) “Benefit Package” means the package of covered health care services for which the client is eligible. 
+
+ (42) “Billing Agent or Billing Service” means third party or organization that contracts with a provider to perform designated services in order to facilitate an Electronic Data Interchange (EDI) transaction on behalf of the provider. 
+
+ (43) “Billing Provider (BP)” means an individual, agent, business, corporation, clinic, group, institution, or other entity who submits claims to or receives payment from the Division on behalf of a rendering provider and has been delegated the authority to obligate or act on behalf of the rendering provider. 
+
+ (44) “Buying Up” means the practice of obtaining client payment in addition to the Division or managed care plan payment to obtain a non-covered service or item. (See OAR 410-120-1350 Buying Up.) 
+
+ (45) “By Report (BR)" means services designated, as BR requires operative or clinical and other pertinent information to be submitted with the billing as a basis for payment determination. This information must include an adequate description of the nature and extent of need for the procedure. Information such as complexity of symptoms, final diagnosis, pertinent physical findings, diagnostic and therapeutic procedures, concurrent problems, and follow-up care shall facilitate evaluation. 
+
+ (46) “Care Coordination” means the act and responsibility of care coordination entities to deliberately organize a client’s services, care activities and information sharing among all participants involved with a client’s care according to the physical, developmental, behavioral, dental, and social needs (including Health Related Social Needs and Social Determinants of Health and Equity) of the client. Care Coordination requirements are described in OAR 410-120-1215, 410-120-1221, 410-120-1225, and in accordance with CFR 438.208. 
+
+ (47) “Care Plan” means a care plan that is developed for and in collaboration with the member, their family, representatives or guardian; and in consultation with the member’s providers, community supports and services, where applicable, to ensure continuity and coordination of a member’s care according to their needs. 
+
+ (48) “Care Profile” means the electronic record the Authority or its designee develops and maintains for all members. The care profile is the platform that receives feeds from different data sources used to identify, track and manage a member’s needs and risk level to direct the frequency of the outreach and care coordination activities/opportunities that shall be offered to the member. 
+
+ (49) “Case Management Services” means services provided to ensure that CCO members obtain health services necessary to maintain physical, mental, and emotional development and oral health. Case management services include a comprehensive, ongoing assessment of medical, mental health, substance use disorder or dental needs plus the development and implementation of a plan to obtain or make referrals for needed medical, mental, chemical dependency, or dental services, referring members to community services and supports that may include referrals to Allied Agencies. 
+
+ (50) "Center of Excellence (COE)" means a hospital, medical center, or other health care provider that meets or exceeds standards set by the agency for specific treatments or specialty care. 
+
+ (51) “Child Welfare (CW)” means a division within the Department responsible for administering child welfare programs, including child abuse investigations and intervention, foster care, adoptions, and child safety. 
+
+ (52) “Children's Health Insurance Program (CHIP)” means a federal and state funded portion of the Oregon Health Plan (OHP) established by Title XXI of the Social Security Act and administered by the Authority. 
+
+ (53) “Chiropractor” means an individual licensed to practice chiropractic by the relevant state licensing board. 
+
+ (54) “Chiropractic Services” means services provided by a licensed chiropractor within the scope of practice as defined under state law and federal regulation. 
+
+ (55) “Citizenship Waived Medical (CWM) Benefit Package” means the coverage and limitations defined in OAR 410-134-0005(2) for individuals who met the eligibility requirements in OAR 410-200-0240(1). 
+
+ (56) “Citizenship Waived Medical Plus (CWX) Benefit Package” means coverage and limitations described in OAR 410-134-0005(2) for CWM individuals who were pregnant or in their post-partum period and meet the eligibility requirements defined in OAR 410-200-0240(2). 
+
+ (57) “Claimant” means an individual who has requested a hearing. 
+
+ (58) “Client” means an individual found eligible to receive OHP health services. 
+
+ (59) “Clinical Nurse Specialist” means a registered nurse who has been approved and certified by the Board of Nursing to provide health care in an expanded specialty role. 
+
+ (60) “Clinical Social Worker” means an individual licensed to practice clinical social work pursuant to state law. 
+
+ (61) “Clinical Record” means the medical, dental, or mental health records of a client or member. 
+
+ (62) “Clinically Appropriate” means having at least one HRSN Clinical Risk Factor and at least one HRSN Social Risk Factor, each of which must be applicable to the HRSN Service for which the Member is authorized. For example, to determine whether a Member must be authorized to receive Home Changes for Health-Related Supports, the Member must, in addition to belonging to an HRSN Covered Population, have at least one HRSN Clinical Risk Factor and one HRSN Social Risk Factor. HRSN Services are not Clinically Appropriate if they are solely for the convenience or preference of the Member. 
+
+ (63) “Closed Loop Referral” means the process of exchanging information between and among an MCE, the Oregon Health Authority (which may include its Fee For Service (FFS) Program), a Member, HRSN Service Providers, and other similar organizations, to make referrals and communicate about the status of referrals and services for a Member. 
+
+ (64) “Comfort Care” means medical services or items that give comfort or pain relief to an individual who has a terminal illness, including the combination of medical and related services designed to make it possible for an individual with terminal illness to die with dignity and respect and with as much comfort as is possible given the nature of the illness. 
+
+ (65) “Community Health Worker” means an individual who: 
+
+ (a) Has expertise or experience in public health; 
+
+ (b) Works in an urban or rural community either for pay or as a volunteer in association with a local health care system; 
+
+ (c) To the extent practicable, shares ethnicity, language, socioeconomic status, and life experiences with the residents of the community where the worker serves; 
+
+ (d) Assists members of the community to improve their health and increases the capacity of the community to meet the health care needs of its residents and achieve wellness; 
+
+ (e) Advocates for the individual patient and community health needs, building individual and community capacity to advocate for their health; 
+
+ (f) Provides health education and information that is culturally appropriate to the individuals being served; 
+
+ (g) Assists community residents in receiving the care they require; 
+
+ (h) May give peer counseling and guidance on health behaviors; and 
+
+ (i) May provide direct services such as first aid or blood pressure screening. 
+
+ (66) “Community Information Exchange” and “CIE” each means a technology system used by a network of collaborative partners to exchange information for the purpose of connecting individuals to the services and supports they need. CIE functionality must include Closed Loop Referrals, a shared resource directory, and documentation of consent to the use of technology by the Member or other individual being connected to services. 
+
+ (67) “Community Mental Health Program (CMHP)” means the organization of all services for individuals with mental or emotional disorders operated by, or contractually affiliated with, a local Mental Health Authority operated in a specific geographic area of the state under an intergovernmental agreement or direct contract with the Authority. 
+
+ (68) “Community Partner” means an individual affiliated with an organization contracted, trained, and certified by the Oregon Health Authority’s Community Partner Outreach Program to provide free assistance to people applying for health coverage in Oregon that includes but is not limited to: 
+
+ (a) Health coverage application; 
+
+ (b) Help to enroll in health insurance plans; 
+
+ (c) Health coverage renewal assistance; 
+
+ (d) Healthcare System Navigation defined in OAR 410-120-0000; and 
+
+ (e) Outreach and engagement related to subsections (a) through (d) of this section (6). 
+
+ (69) “Co-morbid Condition” means a medical condition or diagnosis coexisting with one or more other current and existing conditions or diagnoses in the same patient. 
+
+ (70) “Condition-Specific Program” and “Condition-Specific Facility” mean programs or facilities that treat a narrowly defined illness, disorder or condition, such as: 
+
+ (a) Behavioral and Mental Health conditions, Substance Use Disorder (SUD) or addiction, including but not limited to: 
+
+ (A) Alcohol; 
+
+ (B) Illicit drugs; and 
+
+ (C) Gambling. 
+
+ (b) Physical Health conditions, including but not limited to: 
+
+ (A) Cancer; 
+
+ (B) Diabetes; 
+
+ (C) Bariatric Care. 
+
+ (c) Developmental Disabilities. 
+
+ (71) “Condition/Treatment Pair” means diagnoses described in the International Classification of Diseases Clinical Modifications, 10th edition (ICD-10-CM); the Diagnostic and Statistical Manual of Mental Disorders, 5th edition (DSM-5; and treatments described in the Current Procedural Terminology (CPT); or American Dental Association Codes (CDT) or the Authority Behavioral Health Fee Schedule, that, when paired by the Health Evidence Review Commission (HERC), constitute the line items in the Prioritized List of Health Services. Condition/treatment pairs may contain many diagnoses and treatments. 
+
+ (72) “Contested Case Hearing” means a proceeding before the Authority under the Administrative Procedures Act when any of the following contests an adverse determination, action, or as it relates to an MCE enrollee, an adverse benefit determination: 
+
+ (a) A client or member or their representative; 
+
+ (b) A member of an MCE after resolution of the MCE’s appeal process; 
+
+ (c) An MCE member’s provider; or 
+
+ (d) An MCE. 
+
+ (73) “Contiguous Area” means the area up to 75 miles outside the border of the State of Oregon. 
+
+ (74) “Contiguous Area Provider” means a provider practicing in a contiguous area. 
+
+ (75) “Continuing Treatment Benefit” means a benefit for clients who meet criteria for having services covered that were either in a course of treatment or scheduled for treatment the day immediately before the date the client’s benefit package changed to one that does not cover the treatment. 
+
+ (76) “Coordinated Care Organization (CCO)” has the meaning given that term in OAR 410-141-3500(21). 
+
+ (77) “Co-Payments” means the portion of a claim or medical, dental, or pharmaceutical expense that a client must pay out of their own pocket to a provider or a facility for each service. It is usually a fixed amount that is paid at the time service is rendered. (See OAR 410-120-1230 Client Copayment.) 
+
+ (78) “Cost Effective” means the lowest cost health service or item that, in the judgment of Authority staff or its contracted agencies, meets the medical needs of the client. 
+
+ (79) “Cover All Kids (CAK)” meaning defined in OAR 410-200-0015. 
+
+ (80) “Covered Services” means medically necessary and appropriate health services and items described in ORS chapter 414 and applicable administrative rules. Covered services include: 
+
+ (a) Services described in the Prioritized List of Health Services above the funding line set by the legislature; 
+
+ (b) Ancillary Services OAR 410-120-0000 (22); 
+
+ (c) Diagnostic Services OAR 410-120-0000 (82); 
+
+ (d) Services necessary for compliance with the requirements for parity in mental health and substance use disorder benefits in Code of Federal Regulations (CFR) 42 CFR part 438, subpart k; and 
+
+ (e) Services necessary for compliance with the requirements for Early and Periodic Screening, Diagnostic and Treatment (EPSDT) as described in chapter 410 division 151. 
+
+ (81) “Current Dental Terminology (CDT)” means a listing of descriptive terms identifying dental procedure codes used by the American Dental Association. 
+
+ (82) “Current Procedural Terminology (CPT)” means a medical code set developed by the American Medical Association used to report medical, surgical, and diagnostic procedures and services performed by physicians and other health care providers. 
+
+ (83) “Credible Allegation of Fraud” means an allegation for fraud, which has been verified by the Authority or delegate, from any source, including but not limited to: fraud hotline complaints, claims data mining, and patterns identified through provider audits, civil false claims cases, and law enforcement investigations. Allegations are considered to be credible when they have the indicia of reliability and the Agency has reviewed all allegations, facts and evidence carefully and acts judiciously on a case-by-case basis. 
+
+ (84) “Date of Receipt of a Claim” means the date on which the Authority receives a claim as indicated by the Internal Control Number (ICN) assigned to a claim. Date of receipt is shown as the Julian date in the 5th through 7th position of the ICN. 
+
+ (85) “Date of Service” means the date on which the client receives medical services or items, unless otherwise specified in the appropriate provider rules. For items that are mailed or shipped by the provider, the date of service is the date on which the order was received, the date on which the item was fabricated, or the date on which the item was mailed or shipped. 
+
+ (86) “Deactivation” means an action prohibiting a provider’s participation where the Authority assigned provider number is terminated as the result of inactivity, as evidenced by failure to submit claims for eighteen (18) months, or relocation, as evidenced by returned/undeliverable mail by the United States Postal Service or any other mail carrier. 
+
+ (87) “Declaration for Mental Health Treatment” means a written statement of an individual’s decisions concerning their mental health treatment. The individual makes the declaration when they are able to understand and make decisions related to treatment that is honored when the individual is unable to make such decisions. 
+
+ (88) “Dental Emergency Services” means dental services provided for severe tooth pain, unusual swelling of the face or gums, or an avulsed tooth. 
+
+ (89) “Dental Subcontractor” means a prepaid managed care health services organization that enters into a noncomprehensive risk contract with a coordinated care organization (CCO) or the Authority to provide dental services to their Members or, as applicable, Clients enrolled in OHP. Dental Subcontractors contracting with CCOs must perform all delegated activities in accordance with OAR 410-141-3505. 
+
+ (90) “Dental Therapist” means a person licensed to practice dental therapy within the scope of practice as defined under state law. 
+
+ (91) “Dentist” means an individual licensed to practice dentistry pursuant to state law of the state in which they practice dentistry or an individual licensed to practice dentistry pursuant to federal law for the purpose of practicing dentistry as an employee of the federal government. 
+
+ (92) “Denturist” means an individual licensed to practice denture technology pursuant to state law. 
+
+ (93) “Denturist Services” means services provided within the scope of practice as defined under state law by or under the personal supervision of a denturist. 
+
+ (94) “Dental Hygienist” means an individual licensed to practice hygiene under the direction of a licensed professional within the scope of practice pursuant to state law. 
+
+ (95) “Dental Hygienist with an Expanded Practice Permit” means an individual licensed to practice dental hygiene services as authorized by the Board of Dentistry with an Expanded Practice Dental Hygienist Permit (EPDHP) pursuant to state law. 
+
+ (96) “Dentally Appropriate” 
+
+ (a) means dental services, items or dental supplies that are: 
+
+ (A) Recommended by a licensed health provider practicing within the scope of their license; and 
+
+ (B) Safe, effective and appropriate for the patient based on standards of good dental practice and generally recognized by the relevant scientific or professional community based on the best available evidence; and 
+
+ (C) Not solely for the convenience or preference of an OHP client, member or a provider of the service, item or dental supply; and 
+
+ (D) The most cost effective of the alternative levels or types of health services, items or supplies that are covered services that can be safely and effectively provided to a client or member in the Division or MCE’s judgment. 
+
+ (b) All covered services must be dentally appropriate for the member or client but not all medically appropriate services are covered services. 
+
+ (c) For Early and Periodic Screening, Diagnostic and Treatment (EPSDT), see chapter 410, division 151. 
+
+ (97) “Oregon Department of Human Services (Department or ODHS)” means the agency established in ORS chapter 409, including such divisions, programs and offices as may be established therein. 
+
+ (98) “Department Representative” means an individual who represents the Department and presents the Department’s position in a hearing. 
+
+ (99) “Diagnosis Code” means as identified in the International Classification of Diseases, 10th revision, Clinical Modification (ICD-10-CM). The primary diagnosis code is shown in all billing claims, unless specifically excluded in individual provider rules. Where they exist, diagnosis codes shall be shown to the degree of specificity outlined in OAR 410-120-1280, Billing. 
+
+ (100) “Diagnosis Related Group (DRG)” means a system of classification of diagnoses and procedures based on the ICD-10-CM. 
+
+ (101) “Diagnostic Services” mean those services required to diagnose a condition, including but not limited to: radiology, ultrasound, other diagnostic imaging, electrocardiograms, laboratory and pathology examinations, and physician or other professional diagnostic or evaluative services. 
+
+ (102) “Dietitian” means an individual licensed by the Board of Licensed Dietitians to provide nutrition services as outlined in the Standards of Practice in the OR Administrative Rules, chapter 834, division 60 (OAR 834-060-0000). 
+
+ (103) “Division” means the Health Systems Division within the Authority. The Division is responsible for coordinating the medical assistance programs within the State of Oregon including the Oregon Health Plan (OHP) Medicaid demonstration, the State Children's Health Insurance Program (SCHIP-Title XXI), and several other programs. 
+
+ (104) “Durable Medical Equipment, Prosthetics, Orthotics and Medical Supplies (DMEPOS)” means equipment that can stand repeated use and is primarily and customarily used to serve a medical purpose. Examples include wheelchairs, respirators, crutches, and custom-built orthopedic braces. Medical supplies are non-reusable items used in the treatment of illness or injury. Examples of medical supplies include diapers, syringes, gauze bandages, and tubing. 
+
+ (105) “Early and Periodic Screening, Diagnostic and Treatment (EPSDT)” means the program requiring specific coverage for children and young adults, as described in chapter 410 division 151. 
+
+ (106) “Electronic Data Interchange (EDI)” means the exchange of business documents from application to application in a federally mandated format or, if no federal standard has been promulgated, using bulk transmission processes and other formats as the Authority designates for EDI transactions. For purposes of rules OAR 943-120-0100 through OAR 943-120-0200, EDI does not include electronic transmission by web portal. 
+
+ (107) “EDI Submitter” means an individual or an entity authorized to establish an electronic media connection with the Authority to conduct an EDI transaction. An EDI submitter may be a trading partner or an agent of a trading partner. 
+
+ (108) “Electronic Verification System (EVS)” means eligibility information that has met the legal and technical specifications of the Authority in order to offer eligibility information to enrolled providers of the Division. 
+
+ (109) “Emergency Department” means the part of a licensed hospital facility open 24 hours a day to provide care for anyone in need of emergency treatment. 
+
+ (110) “Emergency Health Benefit Funding” means funding for the health benefits defined in OAR 410-134-0004(2)(a-j), included in the Healthier Oregon benefits package that is in part funded with state funding and matched with federal funds (42 CFR 440.255). 
+
+ (111) “Emergency Medical Condition” means a medical condition, whether physical, dental, or behavioral, manifesting itself by acute symptoms of sufficient severity such that a prudent layperson who possesses an average knowledge of health and medicine could reasonably expect the absence of immediate medical attention to result in placing the health of the individual (or with respect to the pregnant person, the health of the person or their pregnancy) in serious jeopardy, serious impairment to bodily functions or serious dysfunction of any bodily organ or part. An emergency medical condition is not based on the final diagnosis but is based on presenting symptoms as perceived by a prudent layperson and includes cases in which the absence of immediate medical attention would not in fact have had the adverse results described in the previous sentence. 
+
+ (112) “Emergency Medical Transportation” means transportation necessary for a client with an emergency medical condition as defined in this rule and requires a skilled medical professional such as an Emergency Medical Technician (EMT) and immediate transport to a site, usually a hospital, where appropriate emergency medical service is available. 
+
+ (113) “Emergency Services” means health services from a qualified provider necessary to evaluate or stabilize an emergency medical condition, including inpatient and outpatient treatment that may be necessary to assure within reasonable medical probability that the patient’s condition is not likely to materially deteriorate from or during a client’s discharge from a facility or transfer to another facility. 
+
+ (114) “Evidence-Based Medicine” means the conscientious, explicit, and judicious use of current best evidence in making decisions about the care of individual patients. The practice of evidence-based medicine means integrating individual clinical expertise with the best available external clinical evidence from systematic research. By individual clinical expertise we mean the proficiency and judgment that individual clinicians acquire through clinical experience and clinical practice. Increased expertise is reflected in many ways, but especially in more effective and efficient diagnosis and in the more thoughtful identification and compassionate evaluation of individual patients' predicaments, rights, and preferences in making clinical decisions about their care. By best available external clinical evidence we mean clinically relevant research, often from the basic sciences of medicine, but especially from patient-centered clinical research into the accuracy and precision of diagnostic tests (including the clinical examination), the power of prognostic markers, and the efficacy and safety of therapeutic, rehabilitative, and preventive regimens. External clinical evidence both invalidates previously accepted diagnostic tests and treatments and replaces them with new ones that are more powerful, more accurate, more efficacious, and safer. (Source: BMJ 1996; 312:71-72 (13 January)). In addition, Evidence-Based Medicine considers the quality of evidence and the confidence that may be placed in findings. 
+
+ (115) “False Claim” means a claim that a provider knowingly submits or causes to be submitted that contains inaccurate, misleading, or omitted information and such inaccurate, misleading, or omitted information may result, or has resulted, in an overpayment. 
+
+ (116) “Family Planning Services” means services for clients of child bearing age (including minors who can be considered to be sexually active) who desire such services and that are intended to prevent pregnancy or otherwise limit family size. 
+
+ (117) "Federally Supported Hemophilia Treatment Center" means a hemophilia treatment center (HTC) that: 
+
+ (a) Receives funding from the U.S. Department of Health and Human Services, Maternal and Child Health Bureau National Hemophilia Program; 
+
+ (b) Is qualified to participate in 340B discount purchasing as an HTC; 
+
+ (c) Actively participates in the U.S. Center for Disease Control (CDC) and Prevention surveillance and has an identification number that is listed in the HTC directory on the CDC website; 
+
+ (d) Is recognized by the Federal Regional Hemophilia Network that includes the State of Oregon; and 
+
+ (e) Is a direct care provider offering comprehensive hemophilia care consistent with treatment recommendations set by the Medical and Scientific Advisory Council (MASAC) of the National Hemophilia Foundation in their standards and criteria for the care of persons with congenital bleeding disorders. 
+
+ (118) “Federally Qualified Health Center (FQHC)” means a federal designation for a medical entity that receives grants under Section 329, 330, or 340 of the Public Health Service Act or a facility designated as an FQHC by Centers for Medicare and Medicaid (CMS) upon recommendation of the U.S. Public Health Service. 
+
+ (119) “Fee-for-Service Provider” means a health care provider who is not reimbursed under the terms of an Authority contract with a Coordinated Care Organization or Prepaid Health Plan (PHP). A medical provider participating in a PHP or a CCO may be considered a fee-for-service provider when treating clients who are not enrolled in a PHP or a CCO. 
+
+ (120) “For Cause Termination” means a mandatory or discretionary termination by the Authority as is outlined in OAR 410-120-1400. 
+
+ (121) “Fraud” means an intentional deception or misrepresentation made by an individual with the knowledge that the deception may result in some unauthorized benefit to him or some other person. It includes any act that constitutes fraud under applicable federal or state law. 
+
+ (122) “Fruit and Vegetable Benefit” means a service that allows a HRSN Fruit and Vegetable Authorized Member (as that term is defined in this rule) to obtain or otherwise receive fruits and vegetables, including herbs, from an HRSN Service Vendor or HRSN Service Provider. The Fruit and Vegetable Benefit includes fresh, frozen, pureed, dried or canned (or any combination of fresh, frozen, dried, pureed or canned) fruits and vegetables, as well as herbs. The Fruit and Vegetable Benefit is one of several discrete benefits that comprise the Nutrition-Related Supports, which is an HRSN Service. 
+
+ (123) “Fruit and Vegetable Benefit Card” means a service that allows an HRSN Fruit and Vegetable Authorized Member to purchase the Fruit and Vegetable Benefit from participating food retailers, vendors, or farms, or any combination of them, while utilizing an approved Fruit and Vegetable Benefit retail card obtained from a vendor that is enrolled with OHA as an HRSN Service Provider. 
+
+ (124) “Fruit and Vegetable Box” means one of the Fruit and Vegetable Benefits that consists of pre-selected, pre-packaged fruit and vegetables that an HRSN Fruit and Vegetable Authorized Member obtains from an HRSN Fuit and Vegetable Service Vendor or Service Provider. Depending on which HRSN Fruit and Vegetable Service Vendor or Service Provider a CCO or the Authority works with, the HRSN Fruit and Vegetable Authorized Member may have the Fruit and Vegetable Box delivered to them by the HRSN Fruit and Vegetable Service Vendor or, if available, the Member may be able to pick up the box from the HRSN Fruit and Vegetable Service Vendor or HRSN Service Provider. 
+
+ (125) “Fully Dual Eligible” means for the purposes of Medicare Part D coverage (42 CFR 423.772), Medicare clients who are also eligible for Medicaid, meeting the income and other eligibility criteria adopted by the Authority for full medical assistance coverage. 
+
+ (126) “General Assistance (GA)” means medical assistance administered and funded 100 percent with State of Oregon funds through OHP. 
+
+ (127) “Grievance” means an expression of dissatisfaction about any matter other than an adverse benefit determination. Grievances may include, but are not limited to, the quality of care or services provided, and aspects of interpersonal relationships such as rudeness of a provider or employee, or failure to respect the enrollee’s rights regardless of whether remedial action is requested. 
+
+ (128) “Health Care Interpreter” Certified or Qualified have the meaning given those terms in ORS 413.550. 
+
+ (129) “Health Care Professionals” means individuals with current and appropriate licensure, certification, or accreditation in a medical, mental health, or dental profession who provide health services, assessments, and screenings for clients within their scope of practice, licensure, or certification. 
+
+ (130) “Healthcare Common Procedure Coding System (HCPCS)” means a method for reporting health care professional services, procedures, and supplies. HCPCS consists of the Level l — American Medical Association's Physician's Current Procedural Terminology (CPT), Level II — National codes, and Level III — Local codes. The Division uses HCPCS codes; however, the Division uses current Dental Terminology (DT) codes for the reporting of dental care services and procedures. 
+
+ (131) “Healthcare System Navigation” means the process by which a Community Partner supports individuals who are in need of health care by: 
+
+ (a) Assisting with application for or renewal of Oregon Health Plan (OHP); 
+
+ (b) Assisting with the management of the application process for OHP; 
+
+ (c) Assisting with accessing available benefits; 
+
+ (d) Identifying and removing barriers to care; 
+
+ (e) Providing the information needed to build the knowledge and confidence necessary for utilizing benefits; or 
+
+ (f) Promoting the establishment of healthcare services and continuity of care. 
+
+ (132) “Health Evidence Review Commission” means a commission that, among other duties, develops and maintains a list of health services ranked by priority from the most to the least important representing the comparative benefits of each service to the population served. 
+
+ (133) “Health Insurance Portability and Accountability Act of 1996 (HIPAA)” means the federal law (Public Law 104-191, August 21, 1996) with the legislative objective to assure health insurance portability, reduce health care fraud and abuse, enforce standards for health information, and guarantee security and privacy of health information. 
+
+ (134) “Health Maintenance Organization (HMO)” means a public or private health care organization that is a federally qualified HMO under Section 1310 of the U.S. Public Health Services Act. HMOs provide health care services on a capitated, contractual basis. 
+
+ (135) “Health Plan New/non-categorical client (HPN)” means an individual who is 19 years of age or older, is not pregnant, is not receiving Medicaid through another program, and who must meet all eligibility requirements to become an OHP client. 
+
+ (136) “Healthier Oregon” means the medical assistance benefit package that is equal to the OHP Plus benefit package defined in OAR 410-120-1210. The Healthier Oregon is for individuals; 
+
+ (a) Who do not meet the citizenship and non-citizen status requirements defined in OAR 410-200-0215 and OAR 461-120-0110; and 
+
+ (b) Who do meet the financial and other non-financial eligibility requirements for a Health Systems Division (HSD) Medical Program (see OAR chapter 410 division 200) or an Oregon Supplemental Income Program Medical (OSIPM) Program (see OAR chapter 461). 
+
+ (137) “Health-Related Social Needs” and “HRSN” each means the unmet, housing, nutrition, and outreach and engagement-related social needs, that contribute to an individual’s poor health and are a result of underlying social and structural determinants of health. 
+
+ (138) “Health Risk Assessment (HRA)” means a survey or questionnaire administered verbally, digitally or in writing, to collect information from a member, their representative or guardian about key areas of the member’s health, including their physical, developmental, behavioral, oral and social needs (including Health Related Social Needs and Social Determinants of Health and Equity). The HRA is intended to inform the coordination of services and supports that meet the members individualized needs. 
+
+ (139) “Hearing Aid Dealer” means an individual licensed by the Board of Hearing Aid Dealers to sell, lease, or rent hearing aids in conjunction with the evaluation or measurement of human hearing and the recommendation, selection, or adaptation of hearing aids. 
+
+ (140) “Home Changes for Health During Extreme Weather Supports” means health-related devices delivered, and as applicable installed or serviced (or both) by HRSN Service Vendors or HRSN Service Providers in the home of an HRSN-Home Changes for Health Authorized Member (as that term is defined in this rule). “Home Changes for Health” has the same meaning. 
+
+ (a) Clinically Appropriate home changes for health devices include: 
+
+ (A) Air conditioners for individuals at health risk due to significant heat; 
+
+ (B) Heaters for individuals at increased health risk due to significant cold; 
+
+ (C) Air filtration devices and, as needed, replacement air filters for individuals at health risk due to compromised air quality; 
+
+ (D) Mini refrigeration units as needed for individuals to store their medications; and 
+
+ (E) Portable power supplies (PPSs) for individuals who utilize and need to have access to medically necessary electricity-dependent equipment (e.g., ventilators, dialysis machines, intravenous equipment, chair lifts, mobility devices, communication devices, etc.) or are at risk of public safety power shutoffs that could prevent or interfere with their ability to use medically necessary devices. 
+
+ (b) Home Changes for Health services include, as may be needed by the Member, the provision and service delivery, and, as needed, installation of all the Home Changes for Health devices (identified in (a)(A)– (E) above in this rule) and device maintenance. 
+
+ (141) “Home Changes for Safety” means home modifications or remediations that are made by an HRSN Services Vendor for the purpose of eliminating known home-based health and safety risks and ensuring the HRSN Home Changes for Safety Authorized Member’s living environment meets that Member’s functional, health, or safety needs. The term “Home Modifications and Remediations” has the same meaning. 
+
+ (142) “Home Enteral Nutrition” means services provided in the client's place of residence to an individual who requires nutrition supplied by tube into the gastrointestinal tract as described in the Home Enteral/Parenteral Nutrition and IV Services program provider rules. 
+
+ (143) “Home Health Agency” means a public or private agency or organization that has been certified by Medicare as a Medicare home health agency and that is licensed by the Authority as a home health agency in Oregon and meets the capitalization requirements as outlined in the Balanced Budget Act (BBA) of 1997. 
+
+ (144) “Home Health Services” means part-time or intermittent skilled nursing services, other therapeutic services (physical therapy, occupational therapy, speech therapy), and home health aide services made available on a visiting basis in a place of residence used as the client's home. 
+
+ (145) “Home Intravenous Services” means services provided in the client's place of residence to an individual who requires that medication (antibiotics, analgesics, chemotherapy, hydrational fluids, or other intravenous medications) be administered intravenously as described in the Home Enteral/Parenteral Nutrition and IV Services program administrative rules. 
+
+ (146) “Home Parenteral Nutrition” means services provided in the client's residence to an individual who is unable to absorb nutrients via the gastrointestinal tract, or for other medical reasons, requires nutrition be supplied parenterally as described in the Home Enteral/Parenteral Nutrition and IV Services program administrative rules. 
+
+ (147) “Hospice” means a public agency or private organization or subdivision of either that is primarily engaged in providing care to terminally ill individuals and is certified by the federal Centers for Medicare and Medicaid Services as a program of hospice services meeting current standards for Medicare and Medicaid reimbursement and Medicare Conditions of Participation and is currently licensed by the Oregon Health Authority, Public Health Division. 
+
+ (148) “Hospital” means a facility licensed by the Public Health Division as a general hospital that meets requirements for participation in OHP under Title XVIII of the Social Security Act. The Division does not consider facilities certified by CMS as religious non-medical facilities as hospitals for reimbursement purposes. Out-of-state hospitals shall be considered hospitals for reimbursement purposes if they are licensed as a short-term acute care or general hospital by the appropriate licensing authority within that state and if they are enrolled as a provider of hospital services with the Medicaid agency within that state. 
+
+ (149) “Hospital-Based Professional Services” means professional services provided by licensed practitioners or staff based on a contractual or employee/employer relationship and reported as a cost on the Hospital Statement of Reasonable Cost report for Medicare and the Calculation of Reasonable Cost (DMAP 42) report for the Division. 
+
+ (150) “Hospital Dentistry” means dental services normally done in a dental office setting, but due to specific client need (as detailed in OAR chapter 410 division 123) are provided in an ambulatory surgical center or inpatient or outpatient hospital setting under general anesthesia (or IV conscious sedation, if appropriate). 
+
+ (151) “Hospital Laboratory” means a laboratory providing professional technical laboratory services as outlined under laboratory services in a hospital setting as either an inpatient or outpatient hospital service whose costs are reported on the hospital’s cost report to Medicare and to the Division. 
+
+ (152) “Housing-Related Supports” means housing services provided to Members authorized to receive one or more of the HRSN Housing-Related Supports service categories to help them maintain healthy and safe housing (as detailed in OAR 410-120-2005). Housing-Related Supports include: 
+
+ (a) Rent and Utility financial assistance (past due and prospective) 
+
+ (b) Hotel/Motel Stays 
+
+ (c) Utilities Arrears 
+
+ (d) Utilities Set Up 
+
+ (e) Storage Fees (past due and prospective) 
+
+ (f) Tenancy Services (paid via 15-minute increments) 
+
+ (g) Tenancy Services (paid per member per month) 
+
+ (h) Home Changes for Safety 
+
+ (i) Home Changes for Health 
+
+ (153) “HRSN Authorized Member” means a Member who has participated in an HRSN Eligibility Screening and has been approved by the MCE or, as applicable, the Authority, to receive one or more HRSN Services. Members who have been authorized for a specific HRSN Service may be identified by the specific HRSN service or benefit that they have been authorized to receive such as, without limitation, “HRSN Fruit and Vegetable Authorized Member” or “HRSN Rent and Utility Authorized Member” or “HRSN Tenancy Supports Authorized Member.” 
+
+ (154) “HRSN Clinical Risk Factor” is the generic term to describe the clinical risk a Member must have in order to be eligible for an HRSN service. All HRSN Clinical Risk Factors are identified in OAR 410-120-2005 in Tables 1 through 3 and include the following: 
+
+ (a) Table 1: Home Changes for Health Device-Specific and Outreach and Engagement Clinical Risk Factors 
+
+ (b) Table 2: Home Modifications and Remediations, Tenancy Supports, Nutrition Supports, and Outreach and Engagement Clinical Risk Factors 
+
+ (c) Table 3: Rent and Utility Financial Assistance and Outreach and Engagement Clinical Risk Factors 
+
+ (155) “HRSN Connector” means any person or entity, including HRSN Service Providers and other similar social service organizations, that assists Members in documenting the information necessary to make an HRSN Request to an MCE for an HRSN Eligibility Screening and HRSN Service authorization. 
+
+ (156) “HRSN Covered Populations” means Members, excluding Members receiving the BRG service package defined in OAR 410-115-0030, who belong to one or more of the following populations, which are further defined in this OAR 410-120-0000: 
+
+ (a) Adults and Youth Discharged from an Institution for Mental Diseases (IMD); residential mental health and substance use disorder facility, or inpatient psychiatric unit 
+
+ (b) Adults and Youth Released from Incarceration 
+
+ (c) Individuals currently or previously involved in Oregon’s Child Welfare system 
+
+ (d) Individuals Transitioning to Dual Medicaid and Medicare Status 
+
+ (e) Individuals who meet the definition of “HUD Homeless” 
+
+ (f) Individuals who meet the definition of “At Risk of Homelessness” 
+
+ (g) Individuals identified as “Young Adults with Special Health Care Needs” 
+
+ (157) “HRSN Eligibility Screening” means the process set out in OAR 410-120-2015, followed by MCEs or, as applicable, the Authority to determine whether a Member meets the criteria necessary for authorizing an HRSN Service. 
+
+ (158) “HRSN Eligible” means a Member, except for Members receiving the BRG service package defined in OAR 410-115-0030, who meets all of the following criteria: 
+
+ (a) Belongs to at least one of the HRSN Covered Populations, 
+
+ (b) Has at least one HRSN Clinical Risk Factor applicable to the HRSN Services, 
+
+ (c) Has at least one HRSN Social Risk Factor applicable to the HRSN Services, and 
+
+ (d) Meets any additional eligibility criteria and requirements that may apply to a specific HRSN Service all of which are identified in OAR 410-120-2005. 
+
+ (159) “HRSN Fee Schedule” means the comprehensive list of rates that establishes the maximum allowable reimbursement amount for each HRSN Service. Each service is associated with a unique procedure code and a corresponding procedure code modifier, which are used to correctly identify each service for billing purposes. 
+
+ (160) “HRSN Outreach and Engagement Services (HRSN O&E Services)” means the activities performed by HRSN Service Providers, the Authority, or MCEs as described in OAR 410-120-2005. HRSN Service Providers shall be compensated for providing HRSN O&E Services when provided to “Presumed HRSN Eligible” Members as described in OAR 410-120-2005. 
+
+ (161) “HRSN Person-Centered Service Plan” and “HRSN PCSP” each means the HRSN-related component of the care plan that is developed in consultation with the Member upon authorization of HRSN Services as described in OAR 410-120-2025. 
+
+ (162) “HRSN Self-Attestation” and “Self-Attestation” means an oral or written statement made by the Member or Member Representative that the Member satisfies the applicable requirements necessary to establish the Member is HRSN Eligible to receive one or more HRSN Services. Also see OAR 410-120-2015. 
+
+ (163) “HRSN Service Provider” means a private or public social service organization, community organization, or other similar individual or entity that provides HRSN Services and meets the qualifications outlined in OAR 410-120-2030 as applicable. 
+
+ (164) “HRSN Service Request(s)” and “HRSN Request” means a request from an HRSN Connector (an organization or an individual) made to an MCE or, as applicable, the Authority, for the purpose of requesting that the MCE, or as applicable, the Authority, perform an HRSN Eligibility Screening. Some HRSN Requests will be considered complete when the HRSN Connector identifies (i) the name and contact information of the individual who wants to be screened for an HRSN Service and (ii) the anticipated HRSN Service need; however, as described in OAR 410-120-2010, other HRSN Requests will need to identify other information in addition to the name, contact information, and HRSN Service need in order to be considered complete. HRSN Requests may also include confirmation of OHP enrollment, including confirmation of MCE or FFS enrollment, as well as any other information regarding the individual’s potential HRSN Eligibility. The MCE or, as applicable, the Authority, shall be required to document its attempts to collect the information needed to determine eligibility. 
+
+ (165) “HRSN Service Vendor” means any individual or entity that is contracted or procured by the Authority, an MCE, or an HRSN Service Provider to deliver or provide HRSN Services directly to an HRSN Eligible Member who has been approved to receive HRSN Services. HRSN Service Vendors do not provide HRSN O&E and Tenancy Services. All HRSN Service Vendors that contract directly with the Authority must be enrolled as a Medicaid HRSN Service Provider in accordance with the applicable provisions OAR 410-120-1260. Examples of HRSN Service Vendors include, without limitation, entities, individuals, or organizations that deliver or install air conditioners, heaters, air filtration devices, Portable Power Supplies (PPSs) or mini refrigeration units, as well as home modification vendors, landlords, hotels/motels, chore service providers, utilities and moving companies, pest eradication companies and storage facilities, organizations that assess Members for, plan, prepare, or deliver Medically Tailored Meals and organizations that coordinate, deliver, provide an array of Fruit and Vegetable produce services, and provide an array of Pantry Stocking services including, but not limited to, prepaid produce cards as applicable, usage of vouchers, associated internet platforms, delivery of produce, and produce box programs. 
+
+ (166) “HRSN Services” means any one of the Home Changes for Health Housing-Related Supports, Nutrition-Related Supports, or HRSN Outreach and Engagement services that address a Member’s Health-Related Social Needs. Additional information regarding the different components of HRSN Services are detailed in OAR 410-120-2005 Tables 4-10 The term “HRSN Benefits” has the same meaning. 
+
+ (167) “HRSN Social Risk Factor” means the need(s) of a Member related to a Health-Related Social Needs service. The HRSN Social Risk Factors are specific to each of the HRSN Services, which are Home Changes for Health, Housing-Related Supports, Nutrition-Related Supports, and Outreach and Engagement Services. HRSN Social Risk Factors are the following: 
+
+ (a) HRSN Home Changes for Health Social Risk Factor: A Member who requires a qualifying device to treat, improve, stabilize, or prevent their HRSN Clinical Risk Factor. 
+
+ (b) HRSN Housing-Related Social Risk Factor: A Member who (i) meets the HUD homeless definition as defined in OAR 410-120-0000, or (ii) is at risk of homelessness as defined in OAR 410-120-0000, or (iii) requires a home modification or remediation service to treat, improve, stabilize, or prevent their HRSN Clinical Risk Factor. 
+
+ (c) HRSN Nutrition-Related Social Risk Factor: A Member who meets the USDA definition of low food security or very low food security as defined in this OAR 410-120-0000. 
+
+ (d) HRSN Outreach and Engagement Social Risk Factor: A Member who requires support to obtain or maintain connection with benefit programs, services, or supports for basic needs. 
+
+ (168) “HUD Homeless” has the meaning assigned to it by the U.S. Department of Housing and Urban Development (HUD) in 24 CFR § 91.5. 
+
+ (169) “Imminent Eviction” means a tenant has received a court summons or documentation of a similar nature indicating that the eviction process has been initiated. 
+
+ (170) “Indian Health Care Provider” (IHCP) means an Indian health program operated by the Indian Health Service (IHS) or by an Indian Tribe, Tribal Organization or an urban Indian organization (otherwise known as an I/T/U) as defined in section 4 of the Indian Health Care Improvement Act (25 U.S.C. 1603). 
+
+ (171) “Indian Health Program” means any Indian Health Service (IHS) facility, any federally recognized tribe or tribal organization, or any FQHC with a 638 designation. 
+
+ (172) “Indian Health Service (IHS)” means an operating division (OPDIV) within the U.S. Department of Health and Human Services (HHS) responsible for providing medical and public health services to members of federally recognized tribes and Alaska Natives. 
+
+ (173) “Indian Managed Care Entities” (IMCE) means a CCO, MCO, PIHP, PAHP, PCCM, or PCCM entity that is controlled (section 1903(m)(1)(C) of the Act) by the Indian Health Service, a Tribe, Tribal Organization, or Urban Indian Organization, or a consortium, which may be composed of one or more Tribes, Tribal Organizations, or Urban Indian Organizations, and which may also include the Service. 
+
+ (174) “Indigent” means for the purposes of access to the Intoxicated Driver Program Fund (ORS 813.602), individuals with-out health insurance coverage, public or private, who meet standards for indigence adopted by the federal government as defined in ORS 813.602(5). 
+
+ (175) “Individual Adjustment Request Form (OHP 1036)” means a form used to resolve an incorrect payment on a previously paid claim, including underpayments or overpayments. 
+
+ (176) “Individuals Involved with Child Welfare” means Members who are currently, or have previously been, involved in Oregon’s Child Welfare System including Members who are currently or have previously been: 
+
+ (a) In foster/substitute care; 
+
+ (b) The recipient of adoption or guardianship assistance; 
+
+ (c) Served on an in-home plan; or 
+
+ (d) The subject of an open child welfare case. 
+
+ (177) “Individuals Transitioning to Dual Status” means Members enrolled in Medicaid who are transitioning to Fully Dual Eligible as defined in this rule. Members who are Individuals Transitioning to Dual Status shall be included in HRSN Covered Population for the ninety (90) calendar days preceding the date Medicare coverage is to take effect and 270 calendar days after it takes effect. 
+
+ (178) “Inpatient Hospital Services” means services that are furnished in a hospital for the care and treatment of an inpatient. (See Division Hospital Services program administrative rules in chapter 410, division 125 for inpatient covered services.) 
+
+ (179) “Institutional Level of Income Standards (ILIS)” means three times the amount SSI pays monthly to a person who has no other income and who is living alone in the community. This is the standard used for Medicaid eligible individuals to calculate eligibility for long-term nursing care in a nursing facility, Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID), and individuals on ICF/IID waivers or eligibility for services under Aging and People with Disabilities (APD) Home and Community Based Services program. 
+
+ (180) “Institutionalized” means a patient admitted to a nursing facility or hospital for the purpose of receiving nursing or hospital care for a period of thirty (30) days or more. 
+
+ (181) “International Classification of Diseases, 10th Revision, Clinical Modification (ICD-10-CM) (including volumes 1, 2, and 3, as revised annually)” means a book of diagnosis codes used for billing purposes when treating and requesting reimbursement for treatment of diseases. 
+
+ (182) “Joint Fair Hearing Request” means a request for a fair hearing that is included in an appeal request submitted to an Exchange or other insurance affordability program or appeals entity, in accordance with the signed agreement between the agency and an Exchange or Exchange appeals entity or other program or appeals entity described in 42 CFR 435.1200. 
+
+ (183) “Laboratory” means a facility licensed under ORS 438 and certified by CMS, Department of Health and Human Services (DHHS), as qualified to participate under Medicare and to provide laboratory services (as defined in this rule) within or apart from a hospital. An entity is considered to be a laboratory if the entity derives materials from the human body for the purpose of providing information for the diagnosis, prevention, or treatment of any disease or impairment of or the assessment of the health of human beings. If an entity performs even one laboratory test, including waived tests for these purposes, it is considered to be a laboratory under the Clinical Laboratory Improvement Act (CLIA). 
+
+ (184) “Laboratory Services” means those professional and technical diagnostic analyses of blood, urine, and tissue ordered by a physician or other licensed practitioner of the healing arts within their scope of practice as defined under state law and provided to a patient by or under the direction of a physician or appropriate licensed practitioner in an office or similar facility, hospital, or independent laboratory. 
+
+ (185) “Licensed Direct Entry Midwife” means a practitioner who has acquired the requisite qualifications to be registered or legally licensed to practice midwifery by the Public Health Division. 
+
+ (186) “Liability Insurance” means insurance that provides payment based on legal liability for injuries or illness. It includes, but is not limited to, automobile liability insurance, uninsured and underinsured motorist insurance, homeowner’s liability insurance, malpractice insurance, product liability insurance, Worker's Compensation, and general casualty insurance. It also includes payments under state wrongful death statutes that provide payment for medical damages. 
+
+ (187) “Long-Term Acute Care (LTAC) Hospital” means a facility that provides specialty care designed for patients with serious medical problems that require intense, special treatment for an extended period of time. 
+
+ (188) “Long-term Care or Long-term Services and Supports” means Medicaid funded Long-term care or long-term services and supports services that include: 
+
+ (a) “Long-term Care” as defined in OAR 461-001-0000 means the system through which the Department of Human Services provides a broad range of social and health services to eligible adults who are aged, blind, or have disabilities for extended periods of time. This includes nursing homes and behavioral health care outlined in OAR chapter 410, division 172 Medicaid Behavioral Health, including state psychiatric hospitals; 
+
+ (b) “Long-term Services and Supports” means the Medicaid services and supports provided under a CMS approved waiver to assist individual's needs and to avoid institutionalization as defined in OAR chapter 411, Division 4 and defined as Medicaid Home and Community-Based Settings and Services (HCBS) and as outlined in OAR chapter 410, division 172 (Medicaid Payment for Behavioral Health Services). 
+
+ (189) "Low Food Security” means reduced quality, variety, or desirability of diet; little or no indication of reduced food intake, as measured by the U.S. Household Food Security Survey Module: Six Item Short Form from the U.S. Department of Agriculture published in May 2024, available here: https://www.ers.usda.gov/media/xxsjnqd1/short2024.pdf 
+
+ (190) “Managed Care Entity (MCE)” means an entity that enters into a contract to provide services in a managed care delivery system, including but not limited to managed care organizations, prepaid health plans, primary care case managers and Coordinated Care Organizations. 
+
+ (191) “Managed Care Organization (MCO)” means a contracted health delivery system providing capitated or prepaid health services, also known as a Prepaid Health Plan (PHP). An MCO is responsible for providing, arranging, and making reimbursement arrangements for covered services as governed by state and federal law. An MCO may be a Chemical Dependency Organization (CDO), Dental Care Organization (DCO), Mental Health Organization (MHO), or Physician Care Organization (PCO). 
+
+ (192) “Managing Employee” means a general manager, business manager, administrator, director, or other individual who exercises operational or managerial control over, or who directly or indirectly conducts the day-to-day operations of the provider, whether the provider is an individual, institution, organization or agency. 
+
+ (193) “Maternity Case Management” means a program available to pregnant clients. The purpose of maternity case management is to extend prenatal services to include non-medical services that address social, economic, and nutritional factors. For more information refer to the Division’s Medical-Surgical Services program administrative rules. 
+
+ (194) “Meaningful access” means client or member-centered access reflecting the following statute and standards: 
+
+ (a) Pursuant to Title VI of the Civil Rights Act of 1964, Section 1557 of the Affordable Care Act and the corresponding Federal Regulation at 45 CFR Part 92 and The Americans with Disabilities Act (ADA), providers’ telemedicine or telehealth services shall accommodate the needs of individuals who have difficulty communicating due to a medical condition, who need accommodation due to a disability, advanced age or who have Limited English Proficiency (LEP) including providing access to auxiliary aids and services as described in 45 CFR Part 92; 
+
+ (b) National Culturally and Linguistically Appropriate Services (CLAS) Standards at https://thinkculturalhealth.hhs.gov/clas/standards; and 
+
+ (c) As applicable to the client or member, Tribal based practice standards: https://www.oregon.gov/OHA/HSD/AMH/Pages/EBP.aspx; 
+
+ (d) “Synchronous” means an interaction between a provider and a client or member that occurs at the same time using an interactive technology. This may include audio only, video only, or audio with video and may include remote monitoring. 
+
+ (195) “Medicaid” means a joint federal and state funded program for medical assistance established by Title XIX of the Social Security Act as amended and administered in Oregon by the Authority. 
+
+ (196) “Medical Assistance Eligibility Confirmation” means verification through the Electronic Verification System (EVS), AVR, Secure Web site or Electronic Data Interchange (EDI), or an authorized Department or Authority representative. 
+
+ (197) “Medical Assistance Program” means a program for payment of health services provided to eligible Oregonians, including Medicaid and CHIP services under the OHP Medicaid Demonstration Project and Medicaid and CHIP services under the State Plan, or Healthier Oregon, or Bridge Program, or any other programs that may be prescribed by the Authority from time to time, in accordance with ORS 414.025(17). 
+
+ (198) “Medical Care Identification” means the card commonly called the “medical card” or medical ID issued to clients (called the Oregon Health ID starting Aug. 1, 2012). 
+
+ (199) “Medical Services” means care and treatment provided by a licensed medical provider directed at preventing, diagnosing, treating, or correcting a medical problem. 
+
+ (200) “Medical Transportation” means transportation to or from covered medical services. 
+
+ (201) “Medically Appropriate” 
+
+ (a) Means health services, items, or medical supplies that are: 
+
+ (A) Recommended by a licensed health provider practicing within the scope of their license; and 
+
+ (B) Safe, effective, and appropriate for the patient based on standards of good health practice and generally recognized by the relevant scientific or professional community based on the best available evidence; and 
+
+ (C) Not solely for the convenience or preference of an OHP client, member, or a provider of the service item or medical supply; and 
+
+ (D) The most cost effective of the alternative levels or types of health services, items, or medical supplies that are covered services that can be safely and effectively provided to a Division client or member in the Division or MCE’s judgment. 
+
+ (b) All covered services must be medically appropriate for the member or client, but not all medically appropriate services are covered services. 
+
+ (c) For Early and Periodic Screening, Diagnostic and Treatment (EPSDT), see chapter 410 division 151. 
+
+ (202) “Medically Necessary” means: 
+
+ (a) Health services and items that are required to address one or more of the following: 
+
+ (A) The prevention, diagnosis, or treatment of a client or member's disease, condition, or disorder that could result in health impairments or a disability; or 
+
+ (B) The client’s or member’s ability to achieve age-appropriate growth and development; or 
+
+ (C) The client’s or member’s ability to attain, maintain, or regain independence in self-care, ability to perform activities of daily living or improve health status; or 
+
+ (D) The client’s or member’s ability to have access to the benefits of non-institutionalized community living, to achieve person centered care goals, and to live and work in the setting of their choice, when they are receiving Long Term Services or Supports (as defined in these rules); 
+
+ (b) A medically necessary service must also be medically appropriate. All covered services must be medically necessary, but not all medically necessary services are covered services. 
+
+ (c) For Early and Periodic Screening, Diagnostic and Treatment (EPSDT), see chapter 410 division 151. 
+
+ (203) “Medically Tailored Meal” means a fully prepared meal comprised of foods that have been identified, in consultation with a registered dietician nutritionist licensed in the state of Oregon, to meet the specific needs of a Member who has been authorized to receive HRSN Medically Tailed Meals. 
+
+ (204) “Medicare” means a federally administered program offering health insurance benefits for persons aged 65 or older and certain other aged or disabled persons. This program includes: 
+
+ (a) Hospital Insurance (Part A) for inpatient services in a hospital or skilled nursing facility, home health care, and hospice care; and 
+
+ (b) Medical Insurance (Part B) for physicians' services, outpatient hospital services, home health care, end-stage renal dialysis, and other medical services and supplies; 
+
+ (c) Prescription drug coverage (Part D) means covered Part D drugs that include prescription drugs, biological products, insulin as described in specified paragraphs of section 1927(k) of the Social Security Act, and vaccines licensed under section 351 of the Public Health Service Act. It also includes medical supplies associated with the injection of insulin. Part D covered drugs prohibit Medicaid Title XIX Federal Financial Participation (FFP). For limitations, see the Division’s Pharmaceutical Services program administrative rules in chapter 410, division 121. 
+
+ (205) “Medical Nutrition Therapy means” an evidence-based application of the Nutrition Care Process provided by licensed dietitians; focused on prevention, delay or management of diseases and conditions; and involving an in-depth assessment, periodic reassessment and intervention(s). (OAR 834-020-0000) 
+
+ (206) “Medicare Advantage” means an organization approved by CMS to offer Medicare health benefits plans to Medicare beneficiaries. 
+
+ (207) “Member” means an OHP client enrolled with a pre-paid health plan or coordinated care organization. 
+
+ (208) “National Correct Coding Initiative (NCCI)” means the Centers for Medicare and Medicaid Services (CMS) developed the National Correct Coding Initiative (NCCI) to promote national correct coding methodologies and to control improper coding leading to inappropriate payment. 
+
+ (209) “National Drug Code or (NDC)” means a universal number that identifies a drug. The NDC number consists of 11 digits in a 5-4-2 format. The Food and Drug Administration assigns the first five digits to identify the manufacturer of the drug. The manufacturer assigns the remaining digits to identify the specific product and package size. Some packages shall display less than 11 digits, but the number assumes leading zeroes. 
+
+ (210) “National Provider Identification (NPI)” means federally administered provider number mandated for use on HIPAA covered transactions; individuals, provider organizations, and subparts of provider organizations that meet the definition of health care provider (45 CFR 160.103) and who conduct HIPAA covered transactions electronically are eligible to apply for an NPI. Medicare and Medicaid covered entities are required to apply for an NPI. 
+
+ (211) “Naturopathic physician” means an individual licensed to practice naturopathic medicine by the Oregon Board of Naturopathic Medicine. 
+
+ (212) “Naturopathic Services” means services provided within the scope of practice as defined under state law and by rules of the Oregon Board of Naturopathic Medicine. 
+
+ (213) “Non-Billing Provider” also referred to as non-payable, means a provider who is issued a provider number for purposes of rendering, ordering, referring, prescribing, data collection, encounters, or non-claims-use of the Provider Web Portal (e.g., eligibility verification). 
+
+ (214) “Non-covered Services” means services or items for which the Authority is not responsible for payment or reimbursement. Non-covered services are identified in: 
+
+ (a) OAR 410-120-1200 Excluded Services and Limitations; and 
+
+ (b) OAR 410-120-1210 Medical Assistance Benefit Packages and Delivery System; 
+
+ (c) OAR 410-141-3820 OHP Benefit Package of Covered Services; 
+
+ (d) OAR 410-141-0520 Prioritized List of Health Services; and 
+
+ (e) Any other applicable Division administrative rules. 
+
+ (215) “Non-Emergent Medical Transportation Services (NEMT)” means transportation to or from a source of covered service, that does not involve a sudden, unexpected occurrence which creates a medical crisis requiring emergency medical services as defined in OAR 410-120-0000 and requiring immediate transportation to a site, usually a hospital, where appropriate emergency medical care is available. 
+
+ (216) “Nurse Anesthetist, C.R.N.A.” means a registered nurse licensed in the State of Oregon as a CRNA who is currently certified by the National Board of Certification and Recertification for Nurse Anesthetists. 
+
+ (217) “Nurse Practitioner” means an individual licensed as a registered nurse and certified by the Board of Nursing to practice as a nurse practitioner pursuant to state law. 
+
+ (218) “Nurse Practitioner Services” means services provided within the scope of practice of a nurse practitioner as defined under state law and by rules of the Board of Nursing. 
+
+ (219) “Nursing Facility” means a facility licensed and certified by the Department and defined in OAR 411-070-0005. 
+
+ (220) “Nursing Services” means health care services provided to a patient by a registered professional nurse or a licensed practical nurse under the direction of a licensed professional within the scope of practice as defined by state law. 
+
+ (221) “Nutrition Care Plan for HRSN Medically Tailored Meals” means a detailed plan created and documented by a dietitian during the Nutrition Care Process that details how Medically Tailored Meals will be used to treat the HRSN Authorized Member’s nutrition sensitive health condition. The term “HRSN MTM Nutrition Care Plan” has the same meaning. 
+
+ (222) “Nutrition Care Plan for HRSN Pantry Stocking” means the written description of the service, service duration, and service goals incorporated within the HRSN Pantry Stocking Authorized Member’s Person Centered Service Plan, as outlined in OAR 410-120-2025 4(a)-(h). The term “HRSN Pantry Nutrition Care Plan” has the same meaning. 
+
+ (223) “Nutrition Care Process” means a systematic method that dietetics and nutrition professionals use to provide nutrition care. It is comprised of four steps: nutrition assessment and reassessment, nutrition diagnosis, nutrition intervention and nutrition monitoring and evaluation. 
+
+ (224) “Nutrition-Related Supports” means nutrition services provided to Members who are authorized to receive one or more of the HRSN Nutrition-Related Supports service categories identified in (a) – (d) of this section, for the purpose of improving their access to food and health (as detailed in OAR 410-120-2005 Table 6). Nutrition-Related Supports include the following: 
+
+ (a) Assessment for HRSN Medically Tailored Meals (if not already authorized, performed, and covered by OHP under the Medically Necessary standard); 
+
+ (b) Medically Tailored Meals; 
+
+ (c) Nutrition Education; and 
+
+ (d) Fruit and Vegetable Box and Fruit and Vegetable Benefit Card; and 
+
+ (e) Pantry Stocking Grocery Box and Pantry Stocking Grocery Benefit Card 
+
+ (225) “Nutritional Counseling” means counseling that takes place as part of the treatment of an individual with a specific condition, deficiency, or disease such as diabetes, hypercholesterolemia, or phenylketonuria. 
+
+ (226) “Nutrition Education” means any combination of educational strategies, accompanied by environmental supports, designed to motivate and facilitate voluntary adoption of food choices and other food- and nutrition-related behaviors conducive to health and well-being. 
+
+ (227) “Occupational Therapist” means an individual licensed by the State Board of Examiners for Occupational Therapy. 
+
+ (228) “Occupational Therapy” means the functional evaluation and treatment of individuals whose ability to adapt or cope with the task of living is threatened or impaired by developmental deficiencies, physical injury or illness, the aging process, or psychological disability. The treatment utilizes task-oriented activities to prevent or correct physical and emotional difficulties or minimize the disabling effect of these deficiencies on the life of the individual. 
+
+ (229) “Ombudsman Services” means advocacy services provided by the Authority to clients whenever the client is reasonably concerned about access to, quality of, or limitations on the health services provided. 
+
+ (230) “Oregon Health ID” means a card the size of a business card that lists the client’s name, client ID (prime number), and the date it was issued. 
+
+ (231) “Oregon Health Plan (OHP)” means the Medicaid and Children’s Health Insurance (CHIP) Demonstration Project that expands Medicaid and CHIP eligibility beyond populations traditionally eligible for Medicaid to other low-income populations and Medicaid and CHIP services under the State Plan. 
+
+ (232) “Optometric Services” means services provided within the scope of practice of optometrists as defined under state law. 
+
+ (233) “Optometrist” means an individual licensed to practice optometry pursuant to state law. 
+
+ (234) “Oregon Health Authority (Authority)” means the agency established in ORS chapter 413 that administers the funds for Titles XIX and XXI of the Social Security Act. It is the single state agency for the administration of the medical assistance program under ORS chapter 414. For purposes of these rules, the agencies under the authority of the Oregon Health Authority are the Public Health Division, Health Systems Division, External Relations, Health Policy and Analytics, Fiscal and Operations, Health System Division, Office of Equity and Inclusion, and the Oregon State Hospital. 
+
+ (235) “Oregon Youth Authority (OYA)” means the state department charged with the management and administration of youth correction facilities, state parole and probation services, and other functions related to state programs for youth corrections. 
+
+ (236) “Out-of-State Providers” means any provider located outside the borders of the State of Oregon: 
+
+ (a) Contiguous area providers are those located no more than 75 miles from the border of the State of Oregon; 
+
+ (b) Non-contiguous area providers are those located more than 75 miles from the borders of the State of Oregon. 
+
+ (237) “Outpatient Hospital Services” means services that are furnished in a hospital for the care and treatment of an outpatient. For information on outpatient-covered services, see the Division’s Hospital Services administrative rules chapter 410, division 125. 
+
+ (238) “Overdue Claim” means a valid claim that is not paid within 45 days of the date it was received. 
+
+ (239) “Overpayment” means a payment made by the Authority to a provider in excess of the correct Authority payment amount for a service. Overpayments are subject to repayment to the Authority. 
+
+ (240) “Overuse” means use of medical goods or services at levels determined by Authority medical staff or medical consultants to be medically unnecessary or potentially harmful. 
+
+ (241) “Ownership interest” means the possession of equity in the capital, the stock, or the profits of the disclosing entity. A person with an ownership or control interest is a person or corporation that: 
+
+ (a) Has an ownership interest totaling 5 percent or more in a disclosing entity; 
+
+ (b) Has an indirect ownership interest equal to 5 percent or more in a disclosing entity; 
+
+ (c) Has a combination of direct and indirect ownership interests equal to 5 percent or more in a disclosing entity; 
+
+ (d) Owns an interest of 5 percent or more in any mortgage, deed of trust, note, or other obligation secured by the disclosing entity if that interest equals at least 5 percent of the value of the property or assets of the disclosing entity; 
+
+ (e) Is an officer or director of a disclosing entity that is organized as a corporation; or 
+
+ (f) Is a partner in a disclosing entity that is organized as a partnership. 
+
+ (242) “Pantry Stocking Benefit” means a service that allows an HRSN Pantry Stocking Authorized member to purchase or receive from an HRSN Service Vendor or HRSN Service Provider an assortment of foods aimed at promoting improved nutrition for that member. Foods available through this service may be fresh, frozen, dried, pureed, or canned and may include herbs. 
+
+ (243) “Pantry Stocking Benefit Card” means a service that allows an HRSN Pantry Stocking Authorized member to purchase the Pantry Stocking Benefit from participating food retailers, vendors, or farms, or any combination of them, while utilizing an approved Pantry Stocking Benefit retail card obtained from a vendor that is enrolled with OHA as an HRSN Service Provider. 
+
+ (244) “Pantry Stocking Grocery Box” means one of the Pantry Stocking Benefits that consists of pre-selected, pre-packaged assortment of foods aimed at promoting improved nutrition that the HRSN Pantry Stocking Authorized Member obtains from an HRSN Pantry Stocking Service Vendor or HRSN Service Provider. Depending on which HRSN Pantry Stocking Service Vendor or HRSN Service Provider, a CCO or the Authority works with, the HRSN Pantry Stocking Authorized Member may have the Pantry Stocking Box delivered to them by the HRSN Pantry Stocking Vendor or, if available, the Member may be able to pick up the box from the HRSN Pantry Stocking Service Vendor or HRSN Service Provider. 
+
+ (245) “Participating provider” means a provider that has a contractual relationship with an MCE. A Participating Provider is not a Subcontractor solely by virtue of a Participating Provider agreement with an MCE. “Network Provider” has the same meaning as Participating Provider. 
+
+ (246) “Payable Provider” means a provider who is issued a provider number for purposes of submitting medical assistance program claims directly to the Authority for payment. 
+
+ (247) “Payment Authorization” means authorization granted by the responsible agency, office, or organization for payment prior or subsequent to the delivery of services, as described in these general rules and the appropriate program rules. See the individual program rules for services requiring authorization. 
+
+ (248) “Peer Review Organization (PRO)” means an entity of health care practitioners of services contracted by the state to review services ordered or furnished by other practitioners in the same professional field. 
+
+ (249) “Peer Support Specialist” means an individual providing services to another individual who shares a similar life experience such as (i) addiction to addiction, (ii) mental health condition to mental health condition, or (iii) family member of an individual with a mental health condition to family member of an individual with a mental health condition. A peer support specialist shall be a self-identified individual: 
+
+ (a) Currently or formerly receiving addictions or mental health services; 
+
+ (b) In recovery from an addiction disorder who meets the abstinence requirements for recovering staff in alcohol or other drug treatment programs; 
+
+ (c) In recovery from problem gambling. 
+
+ (250) “Peer Wellness Specialist” including Family Support Specialist and Youth Support Specialist means an individual who is responsible for assessing mental health service and support needs of the individual’s peers through community outreach, assisting individuals with access to available services and resources, addressing barriers to services and providing education and information about available resources and mental health issues in order to reduce stigmas and discrimination toward consumers of mental health services, and to provide direct services to assist individuals in creating and maintaining recovery, health, and wellness. 
+
+ (251) “Person Centered Care” means care that reflects the individual patient’s strengths and preferences, reflects the clinical needs of the patient as identified through an individualized assessment, is based upon the patient’s goals, and shall assist the patient in achieving the goals. 
+
+ (252) “Personal Health Navigator” means an individual who provides information, assistance, tools, and support to enable a patient to make the best health care decisions in the patient’s particular circumstances and considering the patient’s needs, lifestyle, combination of conditions, and desired outcome. 
+
+ (253) “Pharmaceutical Services” means services provided by a pharmacist, including medications dispensed in a pharmacy upon an order of a licensed practitioner prescribing within the scope of practice. 
+
+ (254) “Pharmacist” means an individual licensed to practice pharmacy pursuant to state law. 
+
+ (255) “Physical Capacity Evaluation” means an objective, directly observed measurement of a person's ability to perform a variety of physical tasks combined with subjective analysis of abilities of the individual. 
+
+ (256) “Physical Therapist” means an individual licensed by the relevant state licensing authority to practice physical therapy. 
+
+ (257) “Physical Therapy” means treatment comprising exercise, massage, heat or cold, air, light, water, electricity, or sound for the purpose of correcting or alleviating any physical or mental disability, or the performance of tests as an aid to the assessment, diagnosis, or treatment of a human being. Physical therapy may not include radiology or electrosurgery. 
+
+ (258) “Physician” means an individual licensed to practice medicine pursuant to state law of the state in which they practice medicine or an individual licensed to practice medicine pursuant to federal law for the purpose of practicing medicine under a contract with the federal government. A physician may be an individual licensed under ORS 677 or ORS 685. 
+
+ (259) “Physician Associate" means an individual licensed as a physician associate in accordance with ORS 677. Physician associates provide medical services under the direction and supervision of an Oregon licensed physician according to a practice description approved by the Board of Medical Examiners. 
+
+ (260) “Physician Services” means services provided within the scope of practice as defined under state law by or under the personal supervision of a physician. 
+
+ (261) “Podiatric Services” means services provided within the scope of practice of podiatrists as defined under state law. 
+
+ (262) “Podiatrist” means an individual licensed to practice podiatric medicine pursuant to state law. 
+
+ (263) “Post-Payment Review” means review of billings or other medical information for accuracy, medical appropriateness, level of service, or for other reasons subsequent to payment of the claim. 
+
+ (264) “Practitioner” or “Practitioner of the Healing Arts” means an individual licensed pursuant to state law to engage in the provision of health care services within the scope of the practitioner's license or certification. 
+
+ (265) “Prepaid Health Plan (PHP)” means a managed health, dental, chemical dependency, or mental health organization that contracts with the Authority on a case managed, prepaid, capitated basis under OHP. PHPs may be a Chemical Dependency Organization (CDO), Dental Care Organization (DCO), Mental Health Organization (MHO), or Physician Care Organization (PCO) 
+
+ (266) “Presumed HRSN Eligible” means an OHP Member who, through Self-Attestation or other information available to the HRSN Service Provider or, as applicable, the Authority or the MCE, is believed to (i) belong to at least one HRSN Covered Population, (ii) have an HRSN Clinical Risk Factor, and (iii) have an HRSN Social Risk Factor. If the Member provides the HRSN Service Provider with Self-Attestation, the Self-Attestation does not need to identify the Member’s specific HRSN Covered Population or their specific HRSN Clinical Risk Factors. For purposes of making a presumption of HRSN Eligibility, it is sufficient that the Member attest that they belong to at least one of the HRSN Covered Populations and have at least one qualifying Clinical Risk Factor. However, the Member must attest to the specific HRSN Service need. 
+
+ (267) “Primary Care Dentist (PCD)” means a dental practitioner responsible for supervising and coordinating initial and primary dental care within their scope of practice for their members. 
+
+ (268) “Primary Care Provider (PCP)” means any enrolled medical assistance provider who has responsibility for supervising, coordinating, and providing initial and primary care within their scope of practice for identified clients. PCPs initiate referrals for care outside their scope of practice, consultations, and specialist care and assure the continuity of medically appropriate client care. A Federally qualified PCP means a physician with a specialty or subspecialty in family medicine, general internal medicine, or pediatric medicine as defined in OAR 410-130-0005. 
+
+ (269) “Prior Authorization (PA)” means payment authorization for specified medical services or items given by Authority staff or its contracted agencies before providing the service. A physician referral is not a PA. 
+
+ (270) “Prioritized List of Health Services” means the listing of conditions and treatment pairs developed by the Health Evidence Review Commission for the purpose of administering OHP. 
+
+ (271) “Private Duty Nursing Services” means nursing services provided within the scope of license by a registered nurse or a licensed practical nurse under the general direction of the patient's physician to an individual who is not in a health care facility. 
+
+ (272) “Provider” means an individual, facility, institution, corporate entity, or other organization enrolled or not enrolled that provides or supplies health services or items, also termed a rendering provider or participating provider, or bills, obligates, and receives reimbursement on behalf of a rendering provider of services, also termed a Billing Provider (BP). The term provider refers to both rendering providers and BP unless otherwise specified. 
+
+ (273) “Provider Organization” means a group practice, facility, or organization that is: 
+
+ (a) An employer of a provider, if the provider is required as a condition of employment to turn over fees to the employer; or 
+
+ (b) The facility in which the service is provided, if the provider has a contract under which the facility submits claims; or 
+
+ (c) A foundation, plan, or similar organization operating an organized health care delivery system, if the provider has a contract under which the organization submits the claim; and 
+
+ (d) Such group practice, facility, or organization is enrolled with the Authority, and payments are made to the group practice, facility, or organization; 
+
+ (e) An agent if such entity solely submits billings on behalf of providers and payments are made to each provider. (See Subparts of Provider Organization.) 
+
+ (274) “Psychiatric Emergency Services (PES)” means medical and behavioral health services provided to individuals experiencing an acute disturbance of thought, mood, behavior, or social relationship that requires an immediate intervention as defined by the patient, family, or the community to prevent harm to the patient or others. 
+
+ (275) “Public Health Clinic” means a clinic operated by a county government. 
+
+ (276) “Public Rates” means the charge for services and items that providers, including hospitals and nursing facilities, made to the general public for the same service on the same date as that provided to Authority clients. 
+
+ (277) “Public Safety Power Shutoff” and “PSPS” means the temporary shutdown of electricity for the purpose of protecting communities in high fire-risk areas when experiencing extreme weather events, which could cause the electrical system to spark wildfires. The decision to implement a PSPS is usually made by the utility provider of the affected service area. 
+
+ (278) “Qualified Medicare Beneficiary (QMB)” means a Medicare beneficiary as defined by the Social Security Act and its amendments. 
+
+ (279) “Qualified Medicare and Medicaid Beneficiary (QMM)” means a Medicare beneficiary who is also eligible for Division coverage. 
+
+ (280) “Quality Improvement” means the efforts to improve the level of performance of a key process or processes in health services or health care. 
+
+ (281) “Quality Improvement Organization (QIO)” means an entity that has a contract with CMS under Part B of Title XI to perform utilization and quality control review of the health care furnished, or to be furnished, to Medicare and Medicaid clients; formerly known as a Peer Review Organization. 
+
+ (282) “Radiological Services” means those professional and technical radiological and other imaging services for the purpose of diagnosis and treatment ordered by a physician or other licensed practitioner of the healing arts within the scope of practice as defined under state law and provided to a patient by or under the direction of a physician or appropriate licensed practitioner in an office or similar facility, hospital, or independent radiological facility. 
+
+ (283) “Recipient” means an individual who is currently eligible for medical assistance (also known as a client). 
+
+ (284) “Recreational Therapy” means recreational or other activities that are diversional in nature (includes, but is not limited to, social or recreational activities or outlets). 
+
+ (285) “Recoupment” means an accounts receivable system that collects money owed by the provider to the Authority by withholding all or a portion of a provider's future payments. 
+
+ (286) “Reduction of Services” means situations in which the agency authorizes an amount, duration or scope of a service which is less than that requested by the beneficiary or provider. For example, if the individual has requested twenty (20) physical therapy visits and the Division denies the individual’s coverage of twenty (20) visits, covering instead only ten (10) visits—this is considered a denial of a service and could be appealed. 
+
+ (287) “Reentry FCAA Services” means the defined set of existing Medicaid and CHIP services that must be provided to Members who are FCAA-Covered Youth, as defined in OAR 410-155-0000 and 410-155-0010. Reentry FCAA Services include: 
+
+ (a) Screening and diagnostic services in the thirty (30) days prior to release, or no later than one week, or as soon as practicable, after release; and 
+
+ (b) Targeted Case Management in the thirty (30) days prior to release and for at least thirty (30) days post-release (as defined in OAR 410-138-0000). 
+
+ (288) “Referral” means the transfer of total or specified care of a client from one provider to another. As used by the Authority, the term referral also includes a request for a consultation or evaluation or a request or approval of specific services. In the case of clients whose medical care is contracted through a Prepaid Health Plan (PHP), or managed by a Primary Care Physician, a referral is required before non-emergency care is covered by the PHP or the Authority. 
+
+ (289) “Remittance Advice (RA)” means the automated notice a provider receives explaining payments or other claim actions. It is the only notice sent to providers regarding claim actions. 
+
+ (290) “Rendering provider” means an individual, facility, institution, corporate entity, or other organization that supplies health services or items, also termed a provider, or bills, obligates, and receives reimbursement on behalf of a provider of services, also termed a billing provider (BP). The term rendering provider refers to both providers and BP unless otherwise specified. 
+
+ (291) “Request for Hearing” means a clear expression in writing by an individual or representative that the individual wishes to appeal a Department or Authority decision or action and wishes to have the decision considered by a higher authority. 
+
+ (292) “Representative” means an individual who can make OHP-related decisions for a client who is not able to make such decisions themselves. 
+
+ (293) “Retroactive Medical Eligibility” means eligibility for medical assistance granted to a client retroactive to a date prior to the client's application for medical assistance. 
+
+ (294) “Ride” means non-emergent medical transportation services for a client either to or from a location where covered services are provided. “Ride” does not include client-reimbursed medical transportation or emergency medical transportation in an ambulance. 
+
+ (295) “Rural” means a geographic area that is ten or more map miles from a population center of 30,000 people or less. 
+
+ (296) “Sanction” means an action against providers taken by the Authority in cases of misuse or abuse of Oregon Health Authority requirements or fraud, waste and abuse, in accordance with OAR 410-120-1400. 
+
+ (297) “School Based Health Service” means a health service required by an Individualized Education Plan (IEP) during a child's education program that addresses physical or mental disabilities as recommended by a physician or other licensed practitioner. 
+
+ (298) “Self-Sufficiency” means the division in the Department of Human Services that administers programs for adults and families.(299) “Service Agreement” means an agreement between the Authority and a specified provider to provide identified services for a specified rate. Service agreements may be limited to services required for the special needs of an identified client. Service agreements do not preclude the requirement for a provider to enroll as a provider. 
+
+ (299) “Service Authorization Request” means a member’s initial or continuing request for the provision of a service including member requests made by their provider or the member’s authorized representative. 
+
+ (300) “Service location” means the location of a provider when services are rendered. 
+
+ (301) “Sliding Fee Schedule” means a fee schedule with varying rates established by a provider of health care to make services available to indigent and low-income individuals. The sliding-fee schedule is based on ability to pay. 
+
+ (302) “Social Worker” means an individual licensed by the Board of Clinical Social Workers to practice clinical social work. 
+
+ (303) "Special Health Care Needs (SHCN)” means individuals of any age who experience or exhibit signs of developing; 
+
+ (a) Physical, functional, intellectual or developmental disabilities; or 
+
+ (b) Long-standing or chronic medical condition(s); or 
+
+ (c) Complex behavioral health conditions, including “Substance Use Disorders” or “Serious and Persistent Mental Illness;” or 
+
+ (d) Live with other health or social conditions placing them at risk, that without intervention will likely cause negative impact to an individual's health or wellbeing. 
+
+ (304) “Speech-Language Pathologist” means an individual licensed by the Oregon Board of Examiners for Speech Pathology. 
+
+ (305) “Speech-Language Pathology Services” means the application of principles, methods, and procedure for the measuring, evaluating, predicting, counseling, or instruction related to the development and disorders of speech, voice, or language for the purpose of preventing, habilitating, rehabilitating, or modifying such disorders in individuals or groups of individuals. 
+
+ (306) “State Facility” means a hospital or training center operated by the State of Oregon that provides long-term medical or psychiatric care. 
+
+ (307) “Supplemental Health Benefit State Funding” means funding for the health benefits included in the Healthier Oregon benefits package described in OAR 410-134-0004(3)(a-m). 
+
+ (308) “Subparts (of a Provider Organization)” means for NPI application, subparts of a health care provider organization may meet the definition of health care provider (45 CFR 160.103) if it were a separate legal entity and if it conducted HIPAA-covered transactions electronically or has an entity do so on its behalf and could be components of an organization or separate physical locations of an organization. 
+
+ (309) “Subrogation” means right of the state to stand in place of the client in the collection of Third-Party Resources (TPR). 
+
+ (310) “Substance Use Disorder (SUD) Services” means assessment, treatment, and rehabilitation on a regularly scheduled basis or in response to crisis for alcohol or other drug abuse for dependent members and their family members or significant others, consistent with Level I, Level II, or Level III of the most currently published edition of the American Society of Addiction Medicine Patient Placement Criteria (ASAM PPC). SUD is an interchangeable term with Chemical Dependency (CD), Alcohol and other Drug (AOD), and Alcohol and Drug (A & D). 
+
+ (311) “Supplemental Security Income (SSI)” means a program available to certain aged and disabled persons that is administered by the Social Security Administration through the Social Security office. 
+
+ (312) “Surgical Assistant” means an individual performing required assistance in surgery as permitted by rules of the State Board of Medical Examiners. 
+
+ (313) “Suspension” means a temporary sanction prohibiting a provider's participation in the medical assistance programs by suspending the provider's Authority-assigned provider number for a specified period of time for one or more of the reasons in OAR 410-120-1400. No payments, Title XIX, or State Funds shall be made for services provided while the provider is suspended. 
+
+ (314) “Targeted Case Management (TCM)” means activities that assist the client in a target group in gaining access to needed medical, social, educational, and other services. This includes locating, coordinating, and monitoring necessary and appropriate services. TCM services are often provided by allied agency providers. 
+
+ (315) “Telecommunication technologies” means the use of devices and services for telemedicine or telehealth delivered services. These technologies include videoconferencing, store-and-forward imaging, streaming media including services with information transmitted via landlines, and wireless communications, including the Internet and telephone networks. 
+
+ (316) “Telehealth” includes telemedicine and includes the use of electronic information and telecommunications technologies to support remote clinical healthcare, client or member and professional health-related education, public health, and health administration. 
+
+ (317) “Telemedicine” means the mode of delivering remote clinical health services using information and telecommunication technologies to provide consultation and education or to facilitate diagnosis, treatment, care management or self-management of a client or member’s healthcare. 
+
+ (318) “Termination” means a sanction prohibiting a provider's participation in the Authority’s programs by canceling the provider's Authority-assigned provider number and provider agreement for one or more of the reasons in OAR 410-120-1400 and the provider has exhausted all applicable appeal rights or the timeline for appeal has expired. No payments, Title XIX, or state funds shall be made for services provided after the date of termination. Termination is permanent unless: 
+
+ (a) The exceptions to mandatory exclusion are met; or 
+
+ (b) Otherwise stated by the Authority at the time of termination. 
+
+ (319) “Third Party Liability (TPL), Third Party Resource (TPR), or Third party payer” means a medical or financial resource that, under law, is available and applicable to pay for medical services and items for an Authority client. 
+
+ (320) “Traditional Health Worker” means a community health worker, peer wellness specialist, personal health navigator, peer support specialist, birth doula, or other similar health workers not regulated or certified by the State of Oregon. 
+
+ (321) “Transportation” means medical transportation. 
+
+ (322) “Trauma informed approach” means approach undertaken by providers and healthcare or human services programs, organizations, or systems in providing mental health and substance use disorders treatment where there is a recognition and understanding of the signs and symptoms of trauma in, and the intensity of such trauma on, individuals, families, and others involved within a program, organization, or system, and then takes into account those signs, symptoms, and their intensity and fully integrates that knowledge when implementing and providing potential paths for recovery from mental health or substance use disorders. The Trauma Informed Approach also means that providers and healthcare or human services programs, organizations, or systems actively resist re-traumatization of the individuals being served within their respective entities. 
+
+ (323) “Trauma Informed Services” means those services provided using a trauma informed approach. 
+
+ (324) “Type A Hospital” means a hospital identified by the Office of Rural Health as a Type A hospital. 
+
+ (325) “Type B AAA” means an AAA administered by a unit or combination of units of general purpose local government for overseeing Medicaid, financial and adult protective services, and regulatory programs for the elderly or the elderly and disabled. 
+
+ (326) “Type B AAA Unit” means a Type B AAA funded by Oregon Project Independence (OPI), Title III—Older Americans Act, and Title XIX of the Social Security Act. 
+
+ (327) “Type B Hospital” means a hospital identified by the Office of Rural Health as a Type B hospital. 
+
+ (328) “Urban” means a geographic area that is less than ten map miles from a population center of 30,000 people or more. 
+
+ (329) “Urgent Care Services” means health services that are medically appropriate and immediately required to prevent serious deterioration of a client’s health that are a result of unforeseen illness or injury. 
+
+ (330) “Usual Charge (UC)” means the lesser of the following unless prohibited from billing by federal statute or regulation: 
+
+ (a) The provider's charge per unit of service for the majority of non-medical assistance users of the same service based on the preceding month's charges; 
+
+ (b) The provider's lowest charge per unit of service on the same date that is advertised, quoted, or posted. The lesser of these applies regardless of the payment source or means of payment; 
+
+ (c) Where the provider has established a written sliding fee scale based upon income for individuals and families with income equal to or less than 200 percent of the federal poverty level, the fees paid by these individuals and families are not considered in determining the usual charge. Any amounts charged to Third Party Resources (TPR) are to be considered. 
+
+ (331) “Utilization Review (UR)” means the process of reviewing, evaluating, and assuring appropriate use of medical resources and services. The review encompasses quality, quantity, and appropriateness of medical care to achieve the most effective and economic use of health care services. 
+
+ (332) “Valid Claim” means an invoice received by the Division or the appropriate Authority or Department office for payment of covered health care services rendered to an eligible client that: 
+
+ (a) Can be processed without obtaining additional information from the provider of the goods or services or from a TPR; and 
+
+ (b) Has been received within the time limitations prescribed in these General Rules (OAR chapter 410 division 120). 
+
+ (333) “Valid Preauthorization” means a document the Authority, a PHP, or CCO receives requesting a health service for a member who may be eligible for the service at the time of the service, and the document contains: 
+
+ (a) A beginning and ending date not exceeding twelve months, except for cases of PHP or CCO enrollment where four months may apply; and 
+
+ (b) All data fields required for processing the request or payment of the service including the appropriate billing codes. 
+
+ (334) “Very Low Food Security” means reports of multiple indications of disrupted eating patterns and reduced food intake, as measured by the U.S. Household Food Security Survey Module: Six Item Short Form from the U.S. Department of Agriculture published in May 2024, available here: https://www.ers.usda.gov/sites/default/files/_laserfiche/DataFiles/50764/short2024.pdf 
+
+ (335) “Vision Services” means provision of corrective eyewear, including ophthalmological or optometric examinations for determination of visual acuity and vision therapy and devices. 
+
+ (336) “Volunteer” (for the purposes of NEMT) means an individual selected, trained and under the supervision of the Department who is providing services on behalf of the Department in a non-paid capacity except for incidental expense reimbursement under the Department Volunteer Program authorized by ORS 409.360. 
+
+ (337) “Young Adults with Special Health Care Needs (YSHCN)” means a program that provides young adults who meet pre-determined social and clinical criteria with supplementary benefits, in addition to OHP Plus or Healthier Oregon coverage. The supplementary benefits include EPSDT services, HRSN services, and extended vision and dental services. The YSHCN program is more fully described in OAR 410-200-0455. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042, ORS 414.065 & 414.231 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.025 & ORS 414.065 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 25-2026, amend filed 06/26/2026, effective 07/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 98-2025, amend filed 12/29/2025, effective 01/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 42-2025, amend filed 04/29/2025, effective 05/01/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 2-2025, minor correction filed 01/09/2025, effective 01/09/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 138-2024, amend filed 11/26/2024, effective 01/01/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 131-2024, amend filed 10/30/2024, effective 11/10/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 130-2024, amend filed 10/24/2024, effective 11/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 118-2024, amend filed 08/26/2024, effective 08/26/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 93-2024, amend filed 05/24/2024, effective 05/24/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 77-2024, amend filed 03/15/2024, effective 03/15/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 73-2024, minor correction filed 02/29/2024, effective 02/29/2024 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 35-2024, amend filed 01/22/2024, effective 01/22/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 99-2023, amend filed 12/28/2023, effective 01/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 89-2023, amend filed 12/19/2023, effective 12/20/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 84-2023, amend filed 11/30/2023, effective 12/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 55-2023, temporary amend filed 06/30/2023, effective 07/01/2023 through 12/27/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 14-2023, minor correction filed 03/31/2023, effective 03/31/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 9-2023, amend filed 03/06/2023, effective 03/06/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 7-2023, minor correction filed 03/01/2023, effective 03/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 96-2022, amend filed 12/28/2022, effective 01/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 67-2022, minor correction filed 08/15/2022, effective 08/15/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 65-2022, amend filed 06/30/2022, effective 07/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 29-2022, minor correction filed 02/16/2022, effective 02/16/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 62-2017, amend filed 12/28/2017, effective 01/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 77-2016, f. 12-29-16, cert. ef. 1-1-17 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ DMAP 63-2016(Temp), f. & cert. ef. 11-10-16 thru 5-8-17 
+DMAP 31-2016, f. 6-29-16, cert. ef. 7-1-16 
+DMAP 30-2016, f. 6-29-16, cert. ef. 7-1-16 
+DMAP 55-2015, f. 9-22-15, cert. ef. 10-1-15 
+DMAP 29-2015, f. & cert. ef. 5-29-15 
+DMAP 5-2015, f. & cert. ef. 2-10-15 
+DMAP 57-2014, f. 9-26-14, cert. ef. 10-1-14 
+DMAP 71-2013, f. & cert. ef. 12-27-13 
+DMAP 37-2013(Temp), f. 6-27-13, cert. ef. 7-1-13 thru 12-24-13 
+DMAP 49-2012, f. 10-31-12, cert. ef. 11-1-12 
+DMAP 28-2012, f. 6-21-12, cert. ef. 7-1-12 
+DMAP 11-2012(Temp), f. & cert. ef. 3-16-12 thru 9-11-12 
+DMAP 36-2011, f. 12-13-11, cert. ef. 1-1-12 
+DMAP 11-2011, f. 6-29-11, cert. ef. 7-1-11 
+DMAP 13-2009, f. 6-12-09, cert. ef. 7-1-09 
+DMAP 34-2008, f. 11-26-08, cert. ef. 12-1-08 
+DMAP 24-2007, f. 12-11-07, cert. ef. 1-1-08 
+OMAP 45-2006, f. 12-15-06, cert. ef. 1-1-07 
+OMAP 15-2006, f. 6-12-06, cert. ef. 7-1-06 
+OMAP 65-2005, f. 11-30-05, cert. ef. 1-1-06 
+OMAP 39-2005, f. 9-2-05, cert. ef. 10-1-05 
+OMAP 10-2005, f. 3-9-05, cert. ef. 4-1-05 
+OMAP 67-2004, f. 9-14-04, cert. ef. 10-1-04 
+OMAP 62-2003, f. 9-8-03, cert. ef. 10-1-03 
+OMAP 3-2003, f. 1-31-03, cert. ef. 2-1-03 
+OMAP 42-2002, f. & cert. ef. 10-1-02 
+OMAP 35-2000, f. 9-29-00, cert. ef. 10-1-00 
+OMAP 11-2000, f. & cert. ef. 6-23-00 
+OMAP 31-1999, f. & cert. ef. 10-1-99 
+OMAP 10-1999, f. & cert. ef. 4-1-99 
+OMAP 20-1998, f. & cert. ef. 7-1-98 
+HR 21-1997, f. & cert. ef. 10-1-97 
+HR 5-1997, f. 1-31-97, cert. ef. 2-1-97 
+HR 40-1994, f. 12-30-94, cert. ef. 1-1-95 
+HR 31-1994, f. & cert. ef. 11-1-94 
+HR 2-1994, f. & cert. ef. 2-1-94 
+HR 32-1993, f. & cert. ef. 11-1-93 
+HR 41-1991, f. & cert. ef. 10-1-91 
+HR 25-1991(Temp), f. & cert. ef. 7-1-91 
+HR 2-1990, f. 2-12-90, cert. ef. 3-1-90, Renumbered from 461-013-0005; 
+AFS 69-1988, f. & cert. ef. 12-5-88 
+AFS 7-1988, f. & cert. ef. 2-1-88 
+AFS 13-1987, f. 3-31-87, cert. ef. 4-1-87 
+AFS 24-1985, f. 4-24-85, cert. ef. 6-1-85 
+AFS 37-1984, f. 8-30-84, cert. ef. 9-1-84 
+AFS 13-1984(Temp), f. & cert. ef. 4-2-84 
+AFS 12-1984, f. 3-16-84, cert. ef. 4-1-84 
+AFS 4-1984, f. & cert. ef. 2-1-84 
+AFS 81-1982, f. 8-30-82, cert. ef. 9-1-82 
+AFS 57-1982, f. 6-28-82, cert. ef. 7-1-82 
+AFS 52-1982, f. 5-28-82, cert. ef. 6-30-82 
+AFS 47-1982, f. 4-30-82, cert. ef. 5-1-82 
+AFS 33-1981, f. 6-23-81, cert. ef. 7-1-81 
+AFS 5-1981, f. 1-23-81, cert. ef. 3-1-81 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,240 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 316 PERSONAL INCOME TAX GENERAL PROVISIONS 
+ 150-316-0043 
+ Qualified Business Income Reduced Tax Rate (QBIRTR) 
+ 
+ (1) Definitions. For purposes of ORS 316.043 and this rule: 
+
+ (a) “Employee” means an individual in the service of another under any contract of hire, express or implied, oral or written, where the person for whom the service is performed has the power or right to control and direct the individual in the material details of how the work is to be performed. 
+
+ (b) “Disregarded Entity” means an entity with only one owner that is not recognized for tax purposes as an entity separate from its owner. 
+
+ (c) “Independent contractor” is a person who performs services for another but is not an employee. 
+
+ (d) “Original return” is the first return filed for the tax year or the latest subsequent return filed by the due date of the return.  If a timely extension was filed, the due date is the extended due date. 
+
+ (2) Timing of Election. The Qualified Business Income Reduced Tax Rate (QBIRTR) is irrevocable and must be made on the original return filed on or before the due date with regard to extensions. 
+
+ 
+ Example 1: Rocky filed his original tax year 2018 return on March 1, 2019 and didn’t elect the QBIRTR or file an extension. He files an amended tax year 2018 return on April 12, 2019 and makes the election for the QBIRTR. His amended return was filed by the due date and will be treated as the original return. 
+
+ Example 2: Jenna filed her original tax year 2018 return on March 12, 2019 and didn’t elect the QBIRTR or file an extension. She files an amended tax year 2018  return on May 2, 2019 and elects the QBIRTR. The QBIRTR will be denied since the amended return was filed after the due date of April 15, 2019, and she didn’t file an extension. 
+
+ Example 3: Rod filed his original tax year 2018  return on May 3, 2019 and elects the QBIRTR. The QBIRTR election will be allowed because it was made on his original return. 
+
+ Example 4: Sol filed his original tax year 2018 return on a timely filed extension on May 1, 2019 and didn’t elect the QBIRTR. He files an amended tax year 2018 return on October 15, 2019 and makes the QBIRTR election. His amended return will be treated as the original return for purposes of the QBIRTR since it was filed by the extended due date. 
+ 
+
+ (3) Multi-tiered Entities.  If a partnership or S corporation is an upper-tier partner in a lower-tier partnership and the lower-tier partnership meets the employee requirement, nonpassive income from the lower-tier partnership that passes through to the upper-tier entity and in turn to a partner or shareholder of the upper-tier partnership or S corporation may qualify for the QBIRTR, so long as the partner or shareholder of the upper-tier entity materially participates in the lower-tier partnership’s trade or business and makes an election on the partner or shareholder’s original return.    
+
+ 
+ Example 5: Elaine is the sole shareholder of an S corporation. Sadie is the sole shareholder of an S corporation. The two S corporations each have a 50% ownership in a partnership. Elaine and Sadie both materially participate in the partnership, and the partnership employs ten full-time employees in Oregon. Elaine and Sadie receive a distributive share of nonpassive income from the partnership that passes through to their respective S corporations.  They also receive a salary as reasonable compensation for the work performed for the partnership. The distributive share of nonpassive income they receive from the partnership (as passed through to them from their respective S corporations) qualifies for the QBIRTR since the partnership also meets the employee requirement. However, the salary received from the partnership does not qualify for the QBIRTR since salaries are not nonpassive income. 
+ 
+
+ (4) Employees of disregarded entities are treated as employees of the owner of the disregarded entities. 
+
+ 
+ Example 6: Arlene receives a K-1 from Holding Company, a multiple-member LLC treated as a partnership for income tax purposes. Holding Company owns 100% of three subsidiary LLCs which are all disregarded entities. Two of the three subsidiary LLCs own rental real estate. The third subsidiary LLC manages the rental real estate and is paid a management fee from the other two subsidiary LLCs. The third subsidiary LLC employs several full-time non-owner employees who provide the property management services. Because the subsidiary LLCs are disregarded entities, they do not file separate returns, and their activity is reported on the return of Holding Company.  The employees of the third subsidiary LLC are treated as the employees of Holding Company for purposes of ORS 316.043. Assume that Arlene is a real estate professional who materially participates in the activity of Holding Company and that she makes an election to claim the QBIRTR on her original return.  The rental income of Holding Company that passes through to Arlene as reported on the K-1 is treated as nonpassive income. 
+
+ Example 7: An S corporation meets the employee requirement and has two shareholders - a grantor trust and a Qualified Subchapter S Trust (QSST).  The S corporation issues K-1s to and in the name of the grantor trust and QSST.  The grantor trust and QSST then issue grantor letters to the grantor of the grantor trust and the income beneficiary of the QSST.  The grantor letters reflect the S corporation income which is reportable on the individual return of the grantor of the grantor trust and the income beneficiary of the QSST.  Both the grantor of the grantor trust and the income beneficiary of the QSST materially participate in the S corporation. Because the owners materially participate and the S corporation meets the employee requirement, the nonpassive income qualifies for the QBIRTR since it is attributable to the S corporation. 
+ 
+
+ (5) Employee Requirement. 
+
+ (a) Leased employees include workers who are paid by a professional employer organization (PEO) that enters into a contract with a contracting company.  The workers subsequently perform their services for the contracting company, which has the right to control and direct the leased employee in the material details of how the work is to be performed.  The contracting company pays the PEO amounts of wages and other benefits due the workers, plus a fee for the PEO’s services.  The PEO directly pays the workers’ wages for the services performed for the contracting company.  Since the employees are performing services as employees for the contracting company and the contracting company is a common law employer responsible for paying their wages, these employees may be included as employees of the contracting company for purposes of the QBIRTR. 
+
+ 
+ Example 8: A partnership contracts with a PEO to employ three employees at the partnership’s place of business. The employees each work 30 hours per week for the partnership for forty weeks during the year. The partnership directs the leased employees in the material details of how the work is performed.  The partnership makes payments to the PEO, which in turn pays the employees’ wages. The employees’ hours can be used to qualify the partnership for the QBIRTR. The PEO, assuming they were also a partnership, s corporation, or sole proprietor, may not use those employee’s hours working for the partnership to claim the QBIRTR. 
+
+ Example 9: Partnership A and Partnership B are controlled by the same individual, who owns a majority of the interests in each partnership.  Partnership A has three full-time employees in Oregon. Partnership B has six full-time employees in Oregon. Partnership B handles all of the HR-related functions for both partnerships, and the employees of Partnership A receive their wages from Partnership B, including Forms W-2. Partnership A reimburses Partnership B for all employment related expenses. Partnership A meets the employee requirement since it controls the material details of how the work is performed, not Partnership B. 
+ 
+
+ (b) Persons performing services for another not as employees, but as independent contractors may not be used to qualify for the QBIRTR. 
+
+ 
+ Example 10: A partnership contracts with an accountant for payroll and tax services. The accountant is paid for her services as an independent contractor and the work is performed according to her own methods. In this case, the accountant does not qualify as an employee for the QBIRTR. 
+
+ Example 11: A partnership contracts with a management company to provide management services for the partnership. The management company performs the management services in accordance with its own methods and is paid for those services as an independent contractor.  The employees of the contracted management business cannot be used to qualify the partnership for the QBIRTR. The management company, assuming they were also a partnership, s corporation, or sole proprietor, employees may be considered in determining whether the management company qualifies for the QBIRTR. 
+ 
+
+ (c) Each employee must work thirty hours per week.  One may not aggregate employees who work the same position. 
+
+ 
+ Example 12: Partnership C has two part-time employees, each of whom works 20 hours per week in a job share position. Since neither employee individually works at least 30 hours per week, their hours may not be combined to qualify for the QBIRTR. 
+ 
+
+ (6) Individuals.  All members are pass-through entities subject to the personal income tax imposed by ORS chapter 316 and have elected to pay the pass-through business alternative income tax. The pass-through entity will have an addition in their Oregon tax in order to be considered for the QBIRTR and a tax credit may be taken by the individual for taxes paid by the entity. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 
+ 
+ 
+ Statutes/Other Implemented:  ORS 316.043 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 35-2022, amend filed 12/28/2022, effective 01/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 33-2020, adopt filed 12/23/2020, effective 01/01/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,1723 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Department of Education 
+ Chapter 581 
+ 
+ 
+ 
+ 
+ 
+ Division 53 SCHOOL BUS DRIVER TRAINING, LICENSING, AND SCHOOL BUS STANDARDS 
+ 581-053-0240 
+ Minimum Standards for School Buses
+ 
+ 
+ (1) Air Cleaner: 
+
+ (a) The engine intake air cleaner shall be furnished and properly installed by the chassis manufacturer to meet engine specifications; 
+
+ (b) All Type C and Type D buses equipped with diesel engines shall have an air cleaner restriction indicator properly installed by the chassis manufacturer to meet engine specifications. 
+
+ (2) Air System: All buses equipped with air systems for brakes shall provide and identify an appropriate air port for plumbing in air powered accessories. 
+
+ (3) Air-Operated Accessories: Air-operated accessories shall be plumbed into the vehicle's air supply system in compliance with all the following: 
+
+ (a) Safeguarded by a check valve or equivalent device located between the air supply system and the accessory to prevent air loss due to accessory failure. This shall include the supply line for a designated accessory air tank; 
+
+ (b) Connected to the air supply system in compliance with all applicable Federal Motor Vehicle Safety Standards; 
+
+ (c) Connected in the manner prescribed by the vehicle manufacturer. 
+
+ (4) Aisle: 
+
+ (a) Minimum clearance of all aisles shall be 12 inches. 
+
+ (b) Minimum clearance of aisles from wheelchair areas to an emergency door shall be at least 30 inches wide to permit passage of a wheelchair. Special service entrance doors are not considered emergency doors unless in compliance with all right side emergency door requirements. 
+
+ (5) Axles: The front and rear axles and suspension systems shall have a gross axle weight rating at ground commensurate with the respective front and rear weight loads of the bus loaded to the rated passenger capacity. 
+
+ (6) Body Construction: 
+
+ (a) Construction shall be of prime commercial quality steel, or other metal, or other material with strength at least equivalent to all-steel as certified by bus body manufacturer; 
+
+ (b) Construction shall provide a water-tight and reasonably dustproof unit; 
+
+ (c) Must meet or exceed applicable federal motor vehicle safety standards for construction, effective December 2, 1993. 
+
+ (7) Body Sizes: 
+
+ (a) Body manufacturer shall determine the vehicle's maximum designed and equipped passenger capacity and post it on the vehicle with the GVWR and vehicle compliance information. 
+
+ (b) For determining standard requirements on buses with power lifts and wheel chair tie down stations, the passenger and gross vehicle weight rating classification will be determined as if the vehicle were equipped with a standard seating arrangement. 
+
+ (8) Brakes: 
+
+ (a) Air brakes are required on all buses having a manufacturer's gross vehicle weight rating of 26,001 pounds or greater; 
+
+ (b) Buses using air or vacuum in the operation of the brake system shall be equipped with warning signals, readily audible and visible to the driver, that will give a continuous warning when the air pressure available in the system for braking is 60 psi (pounds per square inch) or less or the vacuum in the system available for braking is 8 inches of mercury or less. An illuminated gauge shall be provided that will indicate to the driver, the air pressure in pounds per square inch available for the operation of the brake. 
+
+ (A) Vacuum-assist brake systems shall have a reservoir used exclusively for brakes which shall be adequate to ensure loss in vacuum at full stroke application of not more than 30 percent with engine not running. Brake system on gas-powered chassis shall include suitable and convenient connections for the installation of separate vacuum reservoir; 
+
+ (B) Any brake system dry reservoir shall be so safeguarded by a check valve or equivalent device that in the event of failure or leakage in its connection to the source of compressed air or vacuum, the stored dry air or vacuum shall not be depleted by the leakage or failure. 
+
+ (c) Buses using a hydraulic assist-booster in the operation of brake system shall be equipped with a warning signal, readily audible and visible to the driver, which will provide continuous warning in the event of a loss of fluid pressure from primary source or loss of electric source powering the backup system; 
+
+ (d) The brake lines and booster-assist lines shall be protected from excessive heat and vibrations and be so installed as to prevent chafing; 
+
+ (e) All brake systems shall be designed to permit visual inspection of brake lining wear without removal of any chassis components except for inspection dust covers or wheels; 
+
+ (f) Air brake systems shall be equipped with manual drain valves on all air tanks. A provision shall be made to operate manual drain valve(s) on first (wet) reservoir(s) from the side of the bus unless one of the following options is provided: 
+
+ (A) Automatic moisture ejector on the first (wet) reservoir; 
+
+ (B) An air dryer that has the drying ability to ensure an adequate margin of safety under normal and adverse operating conditions; 
+
+ (C) Skirt-mounted controls for manual drain valve(s) shall not extend beyond the outer side of bus skirt panel. 
+
+ (9) Bumper (Front): 
+
+ (a) The bumper on Type A-2, B, C, and D buses shall be equivalent in strength and durability to pressed steel channel at least 3/16 inches thick and not less than 8 inches wide (high). It shall extend beyond the forward-most part of the body, grille, hood and fenders and shall extend to the outer edges of the fenders at the bumper’s top line. 
+
+ (b) Type A-1 buses may be equipped with an OEM-supplied bumper. 
+
+ (c) The bumper shall be of sufficient strength to permit pushing or being pushed by another vehicle with the same GVWR on a smooth surface with a five degree (8.7 percent) grade, without permanent distortion to the bumper, chassis, or body. 
+
+ (d) The bumper shall be designed or reinforced so that it will not deform when the bus is lifted by a chain that is attached to both tow hooks when the bus is empty and positioned on a level, hard surface and both tow hooks share the load equally. 
+
+ (e) Deer guards may be added to a front bumper to protect the front grill. Deer guards shall not be in any portion of the driver's forward view, including use of all mirrors. 
+
+ (10) Bumper (Rear): 
+
+ (a) Rear bumper for all body on chassis units shall be of pressed steel channel or equivalent material at least 3/16-inch thick and eight inches wide (high), and of sufficient strength to permit pushing by another vehicle without distortion; 
+
+ (b) Bumper for all body on chassis units shall wrap around back corners of bus. It shall extend forward at least 12 inches, measured from rear-most point of body at floor line; 
+
+ (c) Bumper shall be attached to chassis frame in such manner that it may be easily removed, shall be so braced as to develop full strength of bumper section from rear or side impact, and shall be so attached as to prevent the insertion of small fingers between the body and bumper; 
+
+ (d) Bumper shall extend beyond rear-most part of body surface at least one inch, measured at floor line; 
+
+ (e) An energy absorbing rear bumper may be used providing a self-restoring energy absorbing bumper system so attached as to prevent the hitching of rides and of sufficient strength to permit pushing by another vehicle without permanent distortion to the bumper, chassis, or body; 
+
+ (f) The manufacturer of the energy absorbing system shall provide evidence from an approved test facility (capable of performing the above FMVSS tests) that their product conforms to the above. 
+
+ (11) Cameras: 
+
+ (a) 360-degree camera system: A 360-degree camera system may be installed: 
+
+ (A) The camera housings shall not block any signage or lights that are required; 
+
+ (B) The monitor for the camera system shall not block the view of any window, gauge, or required indicator light. 
+
+ (C) The monitor shall only work when: 
+
+ (i) The transmission is in reverse; 
+
+ (ii) The transmission is in park; or 
+
+ (iii) The parking brake is set. 
+
+ (b) Back-up camera: A back-up camera may be installed. 
+
+ (A) The camera housing shall not block any signage or lights that are required. 
+
+ (B) The monitor for the back-up camera system shall not block the view of any window, gauge or required indicator light. 
+
+ (C) The monitor shall only work when the transmission is in reverse or when activated as part of a 360-degree camera system. 
+
+ (c) Forward-facing camera: A forward facing camera may be installed: 
+
+ (A) If installed outside of the vehicle, it shall be installed on the front of the vehicle and shall not block any signage or lights that are required; 
+
+ (B) If installed inside of the vehicle, it shall be mounted so that it does not block the view of any window, mirror, gauge, or required indicator light. 
+
+ (d) Video surveillance cameras may be mounted inside or on either the forward or rear bulkhead, or to the ceiling in compliance with the following requirements: 
+
+ (A) Surface mounted camera/camera housing/recording devices shall be mounted as far forward (if forward mounted) or as far rearward (if rear mounted) as possible and directly above the center of the windshield/rear window, and shall not: 
+
+ (i) Extend into the passenger compartment more than 9 inches; 
+
+ (ii) Extend(s) down from the ceiling more than five inches; 
+
+ (iii) Be more than five inches wide; 
+
+ (iv) Interfere with the rear view mirror or sun visor. 
+
+ (B) Recording devices or their housings shall not be mounted overhead in the passenger compartment; 
+
+ (C) Video cameras/housings (not recorders) may be mounted overhead in the passenger compartment, provided they are over the seating area, but not over any part of the aisle, all edges must be rounded and/or protected with enclosure of shatterproof construction; 
+
+ (D) Flush mounted cameras/housings may be mounted in any position in the front or rear bulkhead or ceiling provided that any modification to the body, in order to achieve flush mounting does not compromise the structural integrity of the body panels; 
+
+ (E) All video related devices mounted to the interior bus body shall be securely fastened in a manner to prevent separation from the bus body in the event of collision or mishap; 
+
+ (F) Recording devices/housings must allow ready access for camera and video recording medium removal without the use of tools; 
+
+ (e) A Stop Arm Camera system may be installed which may record drivers who fail to stop for bus safety lights in violation of ORS 811.155, and that is capable of recording the date, time, registration plate number and location of the offense. 
+
+ (f) All electrical connections shall be made with UL approved wiring and terminals, and protected by grommets any place it passes through metal panels. Any electrical load added to the vehicles electrical system shall be protected with appropriate over current device (fuse). 
+
+ (12) Certification: 
+
+ (a) The vehicle shall be certified as a “School Bus” as required in the FMVSS certification requirements of 49 CFR part 567. 
+
+ (b) Manufacturer will, upon request, certify to the Oregon Department of Education that their product meets minimum standards on items not covered by FMVSS certification requirements of 49 CFR part 567. 
+
+ (13) Chains, Automatic: Automatic tire chains (traction) may be installed at drive wheels in conformance with manufacturer specifications and any applicable chassis manufacturer standards. (Note: Air-applied chain systems must comply with air-operated accessory requirement included in this rule.) 
+
+ (14) Child Safety Restraint Systems: 
+
+ (a) Child safety restraint systems used for transporting infants, toddlers, or others requiring added support shall conform to specific strength and performance standards or dynamic test standards identified in 49 CFR 571.213; 
+
+ (b) Child safety restraint systems shall bear a label specifying compliance with all applicable Federal Motor Vehicle Safety Standards at the time of their manufacture; 
+
+ (c) Child safety restraint systems shall be secured to the school bus seat as per the manufacturer’s instructions. If used, a child safety restraint anchorage system must meet 49 CFR 571.225 and a seat belt shall meet section 62 of this rule. 
+
+ (15) Clutch: 
+
+ (a) Clutch torque capacity shall be equal to or greater than, the engine torque output; 
+
+ (b) A starter interlock shall be installed to prevent actuation of the starter if the clutch is not depressed on all buses manufactured after January 1, 1999. 
+
+ (16) Color: 
+
+ (a) Chassis and bumpers shall be black; Wheels may be painted either black or National School Bus Yellow. Type A-1, A-2, and B buses may have manufacturer standard color wheels. 
+
+ (b) The school bus body shall be painted a uniform National School Bus Yellow. The body exterior paint trim, bumper, lamp hoods, and emergency door lettering shall be black. The engine hood may be painted low-luster yellow. The roof of the bus may be painted white. The white color may extend across the roof down to the drip rails or within 6 inches above the passenger windows on the sides of the bus except that front and rear caps shall remain National School Bus Yellow. Retroreflective material may be used as trim on rear bumper; 
+
+ (17) Crossing Arm: A crossing arm shall be mounted on the front of a school bus in accordance with the following specifications: 
+
+ (a) Installed on the front bumper as close as practicable to the right (curb) side, opening left to right and providing an extension of the curbside of bus; 
+
+ (b) Arm shall be located at least 18 inches but not more than 32 inches above ground level and in the closed position; arm shall not cover numbers on license plate; 
+
+ (c) Installed in a manner to limit the outward deployment to 90 degrees from the front bumper; 
+
+ (d) Arm shall extend 70 inches from the front bumper in its extended position; 
+
+ (e) Arm shall be activated through the existing bus safety light system assuring the driver is required to take no additional action to either deploy or retract the arm. No outward movement of the arm may occur before red flashing sequence begins; 
+
+ (f) Override switches are prohibited; 
+
+ (g) Crossing arm must be safeguarded from damage due to pushing or pulling by hand through the use of a clutch-like device or equivalent, double spring hinges are not acceptable); 
+
+ (h) The arm may be equipped with an amber flashing light that functions only when the arm is in the fully extended position; 
+
+ (i) Entire unit shall have no sharp edges or other projections that could injure children or others due to casual contact; 
+
+ (j) Unit shall provide secure mounting opportunities to prevent misalignment or failure due to extreme weather conditions; 
+
+ (k) Shall be either air, vacuum, or electrically operated and in conformance to section (71)(g) of this rule; 
+
+ (l) Crossing arm color shall be yellow or yellow and black; 
+
+ (m) All components and connections shall be weatherproofed. 
+
+ (n) A crossing arm shall not be required on buses manufactured prior to January 1, 2026. 
+
+ (18) Cup holders on vehicles manufactured after July 1, 2013, shall not be allowed. No additional cup holders shall be installed. 
+
+ (19) Defrosters: 
+
+ (a) Defrosting and defogging equipment shall direct a sufficient flow of heated air onto the windshield, the window to the left of the driver and the glass in the viewing area directly to the right of the driver to reduce the amount of frost, fog and snow; 
+
+ (b) The defrosting system shall conform to SAE performance standards J-381; 
+
+ (c) The defroster and defogging system shall be capable of furnishing heated outside ambient air, except that part of the system furnishing additional air to the windshield, entrance door and step well may be of the recirculation air type; 
+
+ (d) Auxiliary fans, if used, shall not be considered as a defrosting and defogging system: 
+
+ (A) Auxiliary fans shall be mounted above the windshield, so as not to interfere with the driver's vision of the roadway, mirrors or students outside the bus; 
+
+ (B) The fan blades shall be covered with a protective cage. 
+
+ (20) Doors: 
+
+ (a) Service door shall be under the driver’s control, designed to afford easy release and to provide a positive latching device on manual operating doors to prevent accidental opening. When hand lever is used, no part shall come together so as to shear or crush fingers. Manual door controls shall not require more than 25 pounds of force to operate at any point throughout the range of operation, as tested on a 10% grade, both up hill and downhill; 
+
+ (b) Service door shall be located on right side of bus opposite driver and within direct view; 
+
+ (c) Service door shall have minimum horizontal opening of 24 inches and minimum vertical opening of 68 inches; 
+
+ (d) Service door shall be a split-type door and shall open outward; 
+
+ (e) If service door is power operated, pressure shall be controlled by a regulator valve or switch and provision shall be made for opening the door manually in the event of driver disability or mechanical failure. Emergency release valve or switch for power operated doors shall be located in an accessible place, in plain view, as near the service door as practicable. Valve or switch shall be properly identified and "open" and "closed" position plainly marked, and shall have no more than two positions; 
+
+ (f) All service door windows shall be approved safety glass. Bottom of lower glass panel shall not be more than ten inches from top surface of bottom step. Top of upper glass panel shall not be more than six inches from top of door. 
+
+ (g) Vertical closing edges on the service door shall be equipped with flexible material to protect children's fingers. 
+
+ (h) There shall be no door to left of driver. (This shall not be interpreted to conflict with emergency doors or windows.) Type A-1 and A-2 and B buses may be equipped with chassis manufacturers' left side driver's door; 
+
+ (i) All doors shall be equipped with an energy absorbing pad at the top edge of each door opening. Pad shall be at least 3 inches wide and 1-inch-thick and extend the full width of the door opening. 
+
+ (21) Drive Shaft: Drive shafts over 24 inches in length shall be protected by metal guard or guards around circumference of drive shaft to reduce the possibility of the shaft whipping through floor or dropping to ground if broken. Guards shall be mounted around front half of each drive shaft section. 
+
+ (22) Electrical System: 
+
+ (a) Battery(ies): 
+
+ (A) Battery shall have a minimum cold cranking capacity rating equal to the cranking current required for 30-seconds at 0° Fahrenheit (-17.8c) and a minimum reserve capacity rating of 120-minutes at 25 amps. Higher capacities may be needed dependent upon optional equipment and local environmental conditions; 
+
+ (B) The manufacturer shall securely attach the battery(ies) on a slide-out or swing-out tray in a closed, vented compartment in the body skirt so that the battery(ies) is accessible for convenient servicing from the outside. Battery compartment(s) door or cover shall be hinged at front or top and secured by adequate and conveniently operated latch or other type fastener. Type A-1 and A-2 buses may have battery(ies) mounted under the hood in an accessible location; 
+
+ (C) Access to battery shall not be through body floor; 
+
+ (D) Buses may be equipped with a battery shut-off switch. The switch shall be placed in a battery compartment or the engine compartment. 
+
+ (b) Circuits: An appropriate identifying diagram (color and number coded) for electrical circuits shall be provided to the body manufacturer for distribution to the end user; 
+
+ (c) Generator or Alternator: 
+
+ (A) All buses with a GVWR of 14,500 pounds or less shall have a generator or alternator with a minimum rating of at least 130 amperes (in accordance with Society of Automotive Engineer rating) with minimum charging of 50 percent of maximum rated output at manufacturer's recommended engine idle speed (12-volt system), and shall be ventilated and voltage-controlled and, if necessary, current-controlled; 
+
+ (B) All buses with a GVWR greater than 14,500 pounds shall have a generator or alternator with a minimum rating of at least 160 amperes (in accordance with Society of Automotive Engineer rating) with minimum charging of 50 percent of maximum rated output at manufacturer's recommended engine idle speed (12-volt system), and shall be ventilated and voltage-controlled and, if necessary, current-controlled; 
+
+ (C) Generator or alternator may be direct/gear driven or belt driven. Belt driven generator or alternators shall be capable of handling the rated capacity of the generator or alternator with no detrimental effect on other belt driven components; 
+
+ (d) Wiring, Chassis: 
+
+ (A) General — all wiring shall conform to current applicable recommended practices of the Society of Automotive Engineers. All wiring shall use a standard color coding and each chassis shall be delivered with a wiring diagram that coincides with the wiring of the chassis; 
+
+ (B) Chassis manufacturer shall install a readily accessible terminal strip or plug on the body side of the cowl, or at accessible location in engine compartment of vehicles designed without a cowl, which shall contain the following terminals for the body connections: 
+
+ (i) Main 100-amp body circuit; 
+
+ (ii) Tail lamps; 
+
+ (iii) Right turn signal; 
+
+ (iv) Left turn signal; 
+
+ (v) Stop lamps; 
+
+ (vi) Back up lamps; 
+
+ (vii) Instrument panel lights (controlled by dimmer switch). 
+
+ (e) Wiring, Body: 
+
+ (A) All wiring shall conform to current standards of Society of Automotive Engineers; 
+
+ (B) Circuits: 
+
+ (i) Wiring shall be arranged in circuits, as required, with a circuit protection system. A system of color or number coding shall be used for all buses purchased after September 1, 1993 and an appropriate identifying diagram shall be provided the end user along with the wiring diagram provided by the chassis manufacturer. The following interconnecting circuits shall be color coded as noted: 
+
+ (I) Left rear directional light — yellow; 
+
+ (II) Right rear directional light — dark green; 
+
+ (III) Stop lights — red; 
+
+ (IV) Back-up lights — blue; 
+
+ (V) Tail lights — brown; 
+
+ (VI) Ground — white; 
+
+ (VII) Ignition feed, primary feed — black; 
+
+ (VIII) The color of cables shall correspond to SAE J1128. 
+
+ (ii) Wiring shall be arranged in at least seven regular circuits, as follows: 
+
+ (I) Head, tail, stop (brake) and instrument panel lamps; 
+
+ (II) Clearance and step well lamps (step well lamp shall be activated when service door is opened); 
+
+ (III) Dome lamp; 
+
+ (IV) Ignition and emergency door signal; 
+
+ (V) Turn signal lamps; 
+
+ (VI) School Bus Safety Lights; 
+
+ (VII) Heaters and defrosters. 
+
+ (iii) Any of above combination circuits may be subdivided into additional independent circuits; 
+
+ (iv) Whenever possible, all other electrical functions (such as sanders and electric-type windshield wipers) shall be provided with independent and properly protected circuits. 
+
+ (C) The entire electrical system of the body shall be designed for the same voltage as the chassis on which the body is mounted; 
+
+ (D) All wiring shall have an amperage capacity equal to or exceeding the designed load. All wiring splices are to be done at an accessible location and noted as splices on wiring schematic; 
+
+ (E) Each body circuit shall be coded by number or letter on a diagram of easily readable size and be furnished with each bus body or affixed in an area convenient to the electrical accessory control panel; 
+
+ (F) Body power wire is to be attached to special terminal on the chassis; 
+
+ (G) All wires passing through metal openings shall be protected by a grommet; 
+
+ (H) Wires not enclosed within body shall be fastened securely at intervals of not more than 18 inches. All joints shall be soldered or joined by equally effective connectors and shall be moisture and corrosion resistant. 
+
+ (I) A 12-volt power port may be installed in the driver’s area; 
+
+ (J) There shall be a non-momentary manual noise suppression switch installed in the control panel. The switch shall be clearly labeled and distinguishable from other switches. This switch shall be an on/off type that deactivates body equipment that produces noise, including the AM/FM/audio radio, heaters, air conditioners, fans and defrosters. The switch shall not deactivate safety systems such as windshield wipers or lighting systems. 
+
+ (23) Emergency Equipment: 
+
+ (a) Belt cutter: Each bus shall have a belt cutter mounted in the driver's compartment within reach of a driver sitting in the driver’s seat. Belt cutter shall be of a design offering protected cutting edges to prevent accidental or intentional injury to drivers or passengers; 
+
+ (b) Emergency road reflectors: 
+
+ (A) Each bus shall be equipped with at least three reflex reflective triangle vehicle warning devices that conform to 49 CFR 581.125; 
+
+ (B) Reflectors must be in a container securely mounted with nut-and-bolt fasteners enhanced with large flat (fender) washers or held in place by a nut-and-bolt mounted metal bracket that also protects and secures the container lid. Both shall be located in an accessible location. Reflectors shall not be mounted in any engine compartment; 
+
+ (c) Body fluid cleanup kit: Buses shall have a removable moisture proof and dust proof body fluid cleanup kit, mounted in an accessible place within the driver's compartment. Contents shall include at least the following items: 
+
+ (A) Two pair rubber/latex gloves; 
+
+ (B) Two four-ounce packages of stabilized chlorine absorbent deodorant (or equivalent) capable of stabilizing at least 1 liter/36 fl. oz. of body fluids; 
+
+ (C) One spatula for pick up of congealed fluid; 
+
+ (D) One plastic bag in which to place congealed fluid; 
+
+ (E) One red plastic bag with tie, identified for infectious waste and as a bio-hazard; 
+
+ (F) One two-ounce bottle of germicidal detergent to apply to a contaminated area; 
+
+ (G) Four paper towels to wipe up contaminated area; 
+
+ (H) One one-ounce antiseptic alcohol hand rinse (or equivalent); 
+
+ (I) One placard of step by step use instructions; 
+
+ (J) Germicidal detergents, stabilized chlorine absorbent deodorant, alcohol hand rinse, or their equivalents shall provide documentation of EPA approval regarding their microbiological efficacy for at least the following: 
+
+ (i) Staphylococcus aureus; 
+
+ (ii) Pseudomonas aeruginosa; 
+
+ (iii) Salmonella choleraesuis; 
+
+ (iv) Streptococcus species; 
+
+ (v) Herpes simplex Type II; 
+
+ (vi) HIV (Associated with AIDS); 
+
+ (vii) Fungi (athlete's foot); 
+
+ (viii) Poliovirus; and 
+
+ (ix) Tuberculosis. 
+
+ (K) Documentation of efficacy for Hepatitis B may be hospital or test studies. The certified effective shelf life of these products shall be a minimum of 12 months. Product expiration date shall be clearly displayed on all time-sensitive products. 
+
+ (d) Fire extinguishers: 
+
+ (A) Each bus shall be equipped with at least one pressurized, dry, chemical type fire extinguisher, mounted in a bracket, located in the driver's compartment, and readily accessible. A pressure gauge shall be mounted on the extinguisher so as to be readily read without removing the extinguisher from its mounted position; 
+
+ (B) The fire extinguisher shall be of a type approved by the Underwriters Laboratories, Inc., with a rating of not less than 2 A-10 BC. The extinguisher shall have a minimum five-pound capacity and equipped with a hose and nozzle; 
+
+ (C) The operating mechanism shall be sealed with a type of seal that will not interfere with the use of the fire extinguisher; 
+
+ (D) Extinguishers with plastic heads are not permitted. 
+
+ (e) First aid kit; 
+
+ (A) Each bus shall have a readily removable, moisture proof and dustproof first-aid kit container mounted in an accessible place within driver's compartment; 
+
+ (B) The first aid kit contains a minimum of 24 units that shall include the following: 
+
+ (i) One 1" adhesive compress — 16 per unit; 
+
+ (ii) Two 2" bandage compress — 4 per unit; 
+
+ (iii) Two 3" bandage compress — 2 per unit; 
+
+ (iv) Two 4" bandage compress — 1 per unit; 
+
+ (v) Two 3" x 3" plain gauze pads — 4 per unit; 
+
+ (vi) Two 2" x 6 yards gauze roller bandage — 1 per unit; 
+
+ (vii) Three 1/2 square yard gauze; 
+
+ (viii) Three 24" x 72" gauze; 
+
+ (ix) Four triangular bandages; 
+
+ (x) One 1/2 x 5 yards adhesive tape - one per unit; 
+
+ (xi) One round nose scissors and tweezers. Latex gloves - one pair; and 
+
+ (xii) One micro-shield for mouth-to-mouth airway (to lay on top of other contents). 
+
+ (C) Specific local requirements may be substituted in lieu of 2 units of 1/2 square yard gauze. 
+
+ (f) Any piece of emergency equipment may be mounted in an enclosed compartment, provided the compartment is labeled in not less than 1 inch letters, identifying each piece of equipment contained therein. If emergency road reflectors are stored outside the driver’s compartment, the location of the triangles shall be displayed in a readily viewable location by the driver in minimum 1 inch letters. 
+
+ (24) Emergency Exits: 
+
+ (a) All emergency exits and doors shall comply with the design and performance requirements of 49 CFR 571.217, Bus Emergency Exits and Window Retention and Release applicable to that type of exit. 
+
+ (b) In addition to the requirements of 49 CFR 571.217, all emergency exits and doors shall meet the additional requirements: 
+
+ (A) Doors: 
+
+ (i) Upper portion of emergency door shall be equipped with approved safety glazing, exposed area of not less than 400 square inches; 
+
+ (ii) Lower portion of rear emergency door shall be equipped with approved safety glass and shall have an exposed area of not less than 350 square inches of approved safety glazing; 
+
+ (iii) There shall be no steps leading to emergency door; 
+
+ (iv) Clearance between outside emergency door handle and emergency door shall not exceed 1/4 inch when handle is in the closed position. Handle shall not provide a firm handhold for someone trying to “hitch” a ride. Handles shall be positioned to prevent snagging of clothing or pinching of fingers; 
+
+ (v) Emergency door hinge shall not provide an opening for insertion of fingers when door is closed; 
+
+ (vi) An adequately padded head bumper shall be placed on the interior directly above any emergency exit door opening. The pad shall extend the full width of the door opening and shall be at least three inches wide and one inch thick; 
+
+ (vii) If emergency door is lockable, provision must be made to prevent the bus from starting while the door is locked. An audible warning which does not affect engine operation shall be provided to alert the driver should the door be locked while the bus is in operation; and 
+
+ (viii) Emergency doors shall be labeled “Emergency Door” in minimum 2 inch letters that contrast with the background at the top of, or immediately above, the emergency door on both the inside and outside of the bus; 
+
+ (B) Rear Push-Out Window: 
+
+ (i) Rear push-out window shall be operable from inside or outside the bus; 
+
+ (ii) Rear push-out window shall have a lifting assistance device that will aid in lifting and holding the rear emergency window open; and 
+
+ (iii) If rear push-out window is lockable, provision must be made to prevent the bus from starting while the exit is locked. An audible warning which does not affect engine operation shall be provided to alert the driver should the exit be locked while the bus is in operation; 
+
+ (C) Swing-Out Windows: 
+
+ (i) Swing-out windows are windows along the side of the bus with a hinge that is opposite of the emergency release so that it “swings-out” when opened. Swing-out windows may be hinged along any edge of the window. If the hinge is installed vertically, it shall be installed on the forward side of the window; 
+
+ (ii) Swing-out windows shall not be located above a stop arm; 
+
+ (iii) Swing-out windows shall provide a minimum clear opening of 18” x 24”; and 
+
+ (iv) Swing-out windows that are inoperable from the outside shall include the message “Operates From Inside Only” adjacent to the outside “Emergency Exit” labeling required under 49 CFR 571.217; 
+
+ (D) Roof Hatches: 
+
+ (i) Roof hatch shall be waterproof and provide a minimum clear opening of 16” x 16”; 
+
+ (ii) When a release mechanism on the roof hatch is open and the vehicle’s ignition is in the “on” position, a continuous warning shall be audible at the drivers seating position; and 
+
+ (iii) Roof hatch may also serve as a roof ventilator; however, this shall not be used in place of the required static vent. 
+
+ (c) Each bus shall be equipped with: 
+
+ (A) A rear emergency exit door and one roof hatch; or 
+
+ (B) A left side emergency exit door, a rear emergency push out window, and one roof hatch. 
+
+ (d) Buses equipped with a rear emergency exit door and roof hatch (as in paragraph (c)(A) of this section) require additional emergency exits based on the maximum design passenger capacity listed below (see also table 1): 
+
+ (A) Buses designed or equipped with a maximum design passenger capacity of 1 to 22 shall also provide: 
+
+ (i) 2 swing-out windows placed at approximately the midpoint of the passenger compartment; or 
+
+ (ii) Side windows with a 12-inch vertical drop. 
+
+ (B) Buses designed or equipped with a maximum design passenger capacity of 23 to 45 shall also provide: 
+
+ (i) Left side emergency door; or 
+
+ (ii) 2 swing-out windows at approximately the midpoint of the passenger compartment. 
+
+ (C) Buses designed or equipped with a maximum design passenger capacity of 46 and above shall also provide one additional roof hatch and: 
+
+ (i) Left side emergency door; or 
+
+ (ii) 4 swing-out windows at approximately the midpoint of the passenger compartment, but not immediately adjacent to each other. 
+
+ (e) Buses equipped with a left side door and rear push-out window (as in paragraph (c)(B) of this section) require additional emergency exits based on the maximum design passenger capacity listed below (see also table 2): 
+
+ (A) Buses designed or equipped with a maximum design passenger capacity of 1 to 22 shall also provide: 
+
+ (i) 2 swing-out windows placed at approximately the midpoint of the passenger compartment; or 
+
+ (ii) Side windows with a 12-inch vertical drop. 
+
+ (B) Buses designed or equipped with a maximum design passenger capacity of 23 to 45 shall also provide: 
+
+ (i) Right side emergency door; or 
+
+ (ii) Two 2 swing-out windows. 
+
+ (C) Buses designed or equipped with a maximum design passenger capacity of 46 and above shall also provide one additional roof hatch and: 
+
+ (i) Right side emergency door; or 
+
+ (ii) Four swing-out windows. 
+
+ (f) Any additional emergency exits necessary to comply with the “additional emergency exit area” requirements of 49 CFR 571.217 shall be made by the vehicle purchaser. 
+
+ (g) Manufacturer shall identify all emergency exits used for calculations relating to this rule and 49 CFR 571.217 compliance and list the daylight (clear) opening for each exit. 
+
+ (h) All emergency exits shall be marked on the exterior perimeter with one-inch retroreflective yellow or white material that meets the retroreflectivity requirements of section (59) of this rule. 
+
+ (25) Emissions: School buses that operate on diesel fuel shall: 
+
+ (a) Have engines manufactured on or after January 1, 2007; or 
+
+ (b) Be retrofitted to meet the same federal emission standards as a bus equipped with an engine manufactured on or after January 1, 2007. 
+
+ (26) Engine Compartment Fire Suppression System: An automatic fire suppression system may be installed. If installed, the fire suppression system shall: 
+
+ (a) Be located in the engine compartment on buses and be automatically activated when the fire detector has detected a fire in the engine compartment. The system shall also include a mechanism for activation by the driver; 
+
+ (b) Have nozzles for fire suppression that shall be located under the school bus, in the electrical panel and under the dashboard, but not in the passenger compartment. 
+
+ (c) Include a lamp or buzzer to alert the driver when the system has been activated; and 
+
+ (d) Meet the SP Technical Research Institute of Sweden (SP) P-Mark certification standard. 
+
+ (27) Exhaust System: 
+
+ (a) The exhaust pipe, muffler, and tailpipe shall be outside bus body compartment and attached to chassis so any other chassis component is not damaged; 
+
+ (b) Tailpipe and after-treatment system shall be constructed of a corrosion-resistant tubing material at least equal in strength and durability to 16-gauge steel tubing of equal diameter; 
+
+ (c) Tailpipe shall meet one of the following options: 
+
+ (A) Tailpipe may exit in the rear of the bus provided it: 
+
+ (i) Does not create a hand hold. 
+
+ (ii) Does not create a step. 
+
+ (iii) Exhaust is defused away from passenger compartment. 
+
+ (iv) Exits to the left or the right of the emergency exit door. 
+
+ (B) Tailpipe may extend to, but not beyond the body limits on the left side of the bus forward or rearward of the rear tires outboard of chassis centerline If the tailpipe terminates forward of the rear tires it shall terminate not more than 24 inches or less than 6 inches forward of rear tires. No tailpipe shall terminate beneath any emergency exit or fuel fill receptacle; 
+
+ (C) Tailpipe shall not exit the right side of the vehicle. 
+
+ (d) Exhaust system shall be properly insulated from fuel tank and connections by securely attached metal shield at any point where it is 12 inches or less from tank or tank connections; 
+
+ (e) Muffler shall be constructed of corrosion-resistant material; 
+
+ (f) The design of an after-treatment system shall not allow active (non-manual) regeneration of the particulate filter during the loading and unloading of passengers. Manual regeneration systems will be designed such that unintentional operation will not occur; and 
+
+ (g) For after-treatment systems that require Diesel Exhaust Fluid (DEF) to meet federally mandated emission standards: 
+
+ (A) The composition of DEF must comply with ISO 22241-1; and 
+
+ (B) The DEF supply tank shall be sized to meet a minimum ration of three diesel fills to one DEF fill. 
+
+ (28) Fenders, Front: 
+
+ (a) Total spread of outer edges of front fenders, measured at fender line, shall exceed total spread of front tires when front wheels are in straight-ahead position; 
+
+ (b) When equipped, front fenders shall be properly braced and free from any body attachments. 
+
+ (29) Floor: 
+
+ (a) Floor in under seat area, including tops of wheel housing, driver's compartment and toe board, shall be covered with rubber floor covering or equivalent having minimum overall thickness of .125 inch: 
+
+ (A) Floor covering in aisle shall be of aisle-type fire-resistant rubber or equivalent, wear-resistant and ribbed or equivalent non-slip material. Minimum overall thickness shall be .1875 inch measured from tops of ribs; 
+
+ (B) Floor covering shall be permanently bonded to floor and shall not crack when subjected to sudden changes in temperature. Bonding or adhesive material shall be waterproof and shall be of type recommended by manufacturer of floor-covering material. All seams shall be sealed with waterproof sealer. 
+
+ (b) Edge of floor at step well shall be treated as a step edge and shall be protected as required in section (69)(f)(C) of this rule; 
+
+ (c) A vapor and liquid proof inspection plate provided for access to the fuel tank sending may be installed; 
+
+ (d) A subfloor of 5-ply plywood, at least 1/2-inch nominal thickness or equivalent for type A buses and 5/8-inch nominal thickness or equivalent for all other buses, shall be installed over the standard school bus floor. Plywood shall equal or exceed properties of exterior grade C-C plywood as specified in NIST PS 1. Floor shall be level from front to back and from side to side except for wheel housing, toe board and driver's seat platform areas; 
+
+ (e) Plywood sub-floor may be replaced with an equivalent material provided it has equal or greater insulation R-value, sound abatement, deterioration-resistant, and moisture-resistant properties. 
+
+ (30) Frame: 
+
+ (a) Frame shall be of such design and strength characteristics as to correspond at least to standard practice, for trucks of same general load characteristics which are used for highway service; 
+
+ (b) Any secondary manufacturer that modifies the original chassis frame shall guarantee the performance of workmanship and materials resulting from such modification; 
+
+ (c) Any frame modification shall not be for the purpose of extending the wheelbase; 
+
+ (d) Holes in top or bottom flanges of frame side rail shall not be permitted except as provided in original chassis frame. There shall be no welding to frame side rails except by chassis manufacturer; 
+
+ (e) Frame lengths shall be established in accordance with the design criteria for the complete vehicle. 
+
+ (31) Fuel System: 
+
+ (a) The following fuels may be used: 
+
+ (A) Diesel, including biodiesel blends, 
+
+ (B) Gasoline, including ethanol blends, 
+
+ (C) Liquefied Petroleum Gas (LPG), 
+
+ (D) Compressed Natural Gas (CNG), 
+
+ (E) Duel fuel systems using any combination of (A) through (D) above, provided that the system: 
+
+ (i) Meets Environmental Protection Agency specifications; 
+
+ (ii) Meets vehicle manufacture specifications; and 
+
+ (iii) Has been approved by the Oregon Department of Education. 
+
+ (F) Other fuels may be approved by the Oregon Department of Education upon request. 
+
+ (b) Buses with a capacity of 57 or less shall be equipped with one or more fuel tanks that provide a combined liquid capacity of not less than 25 gallons. 
+
+ (c) Buses with a capacity of 58 or more shall be equipped with one or more fuel tanks that provide a combined liquid capacity of not less than 60 gallons. 
+
+ (d) The actual draw capacity of each fuel tank shall be a minimum of 83 percent of the tank capacity. 
+
+ (e) No portion of the fuel system, which is located outside of the engine compartment, except the filler tube, shall extend above the top of the chassis frame rail. Fuel lines shall be mounted to obtain maximum possible protection from the chassis frame; 
+
+ (f) Fuel filter with replaceable element shall be installed between fuel tank and engine; 
+
+ (g) Tank(s) shall be mounted, filled and vented outside of body. The tank(s) location shall not permit fuel spillage to drip or drain on any portion of the exhaust system. 
+
+ (h) Liquefied Petroleum Gas (LPG) systems shall comply with National Fire Protection Association (NFPA) 58, Liquefied Petroleum Gas Code. 
+
+ (32) G.P.S. Navigation: A G.P.S. navigation unit may be installed. The unit shall not block any windows, gauges or indicator lights that are required. Portable units shall use an installed 12-volt power port. 
+
+ (33) Governor: 
+
+ (a) An electronic engine speed limiter shall be provided and set to limit engine speed, not to exceed the maximum revolutions per minute, as recommended by the engine manufacturer. 
+
+ (b) When it is desired to limit road speed, a road-speed governor should be installed; 
+
+ (34) Heaters and Air Conditioners: 
+
+ (a) At least one heater of hot water type shall be required; 
+
+ (b) If only one heater is used, it shall be of fresh-air or combination fresh-air and recirculation type; 
+
+ (c) If more than one heater is used, additional heaters may be of recirculation air type; 
+
+ (d) The heating system shall be capable of maintaining throughout the bus a temperature of not less than 50 degrees Fahrenheit at average minimum January temperature as established by the National Weather Service, for the area in which the vehicle is to be operated; 
+
+ (e) All heaters shall bear a name plate which shall indicate the heater rating in accordance with SBMTC Standard No. 001, said plate to be affixed by the heater manufacturer which shall constitute certification that the heater performance is as shown on the plate; 
+
+ (f) Heater hoses shall be adequately supported to guard against excessive wear due to vibration. The hoses shall not dangle or rub against the chassis or sharp edges, and shall not interfere with or restrict the operation of any engine function. Heater hose shall conform to SAE J20c. Heater hoses on the interior of the bus shall be shielded to prevent scalding of the driver or passengers; 
+
+ (g) Each hot water heater system installed by a body manufacturer shall include a shutoff valve installed in the pressure and return lines near the engine in an accessible location. There shall be a water flow regulating valve or airflow regulating door for the front heater installed for convenient operation by the driver while seated; 
+
+ (h) Return heater lines on body company installed heaters shall be equipped with bleeder valves in an accessible location to allow for removal of heater line air; 
+
+ (i) Auxiliary fuel-fired combustion heating systems may be installed, provided that: 
+
+ (A) The auxiliary heating system shall be marked plainly with certification stating, “Meets FMCSA Bus Heater Requirements” 
+
+ (B) The auxiliary heating system shall utilize the same type of fuel as specified for the vehicle engine; 
+
+ (C) The auxiliary heating system may be direct, hot air-type or may be connected to the engine coolant system; 
+
+ (D) When connected to the engine coolant system, the auxiliary heating system may be used to preheat the engine coolant or preheat and add supplementary heat to the heating system, or both; 
+
+ (E) Auxiliary heating systems shall be installed pursuant to the manufacturer’s recommendations outside of the passenger compartment; 
+
+ (F) Exhaust from auxiliary heating system shall not exit the right side of the bus; 
+
+ (G) Installation of auxiliary heating system shall not compromise the requirements of Title 49 CFR Part 579.301 Fuel System Integrity. 
+
+ (j) Portable heaters shall not be used. 
+
+ (k) buses manufactured after January 1, 2026 used to transport students with special needs shall be built to include both heating and air conditioning systems. 
+
+ (35) Horn: Bus shall be equipped with horn or horns of standard make, each horn capable of producing complex sound in bands of audio frequencies between approximately 250 and 2,000 cycles per second and tested per SAE Standard J-377. 
+
+ (36) Identification: 
+
+ (a) School buses shall bear the words "SCHOOL BUS" in black capital series letters at least eight inches high and of proportionate width on both front and rear of bus. Lettering shall be placed as high as possible without impairment of its visibility. The background shall be a maximum of 12 inches by 36 inches and shall be either: 
+
+ (A) Retroreflective material that conforms to the retroreflectivity requirements of section (59); or 
+
+ (B) Illuminated. 
+
+ (b) A warning sign shall be installed on the rear of all school buses calling attention to the school bus stop law. It shall be located in the most attainable vertical center of the rear emergency door, between the upper and lower windows. Signs on rear engine transit type buses shall be vertically centered and horizontally adjacent to the left and right upper brake lights. Sign shall be either: 
+
+ (A) A decal with white retroreflectorized letters that conforms to the retroreflective requirements listed in section (59) of this rule mounted on a flat black background. The word message shall be centered horizontally and vertically on the decal. The decal shall have the lettering shown below: 
+
+ (i) UNLAWFUL TO PASS (3 inches in height) 
+
+ (ii) WHEN (1 inches in height) 
+
+ (iii) RED LIGHTS FLASH (3 inches in height) or: 
+
+ (B) An electronic sign that displays warning messages to motorists. The electronic sign: 
+
+ (i) Shall be sealed weather tight construction approximately 23.5 X 8.75 X 1.5 in size. 
+
+ (ii) Shall be connected to the school bus safety lights; 
+
+ (iii) Shall alternately flash the word message “CAUTION” and the word message “STOPPING” when the amber school bus safety lights are active. The letters in the word messages shall be amber with a minimum height of three inches; 
+
+ (iv) Shall alternately flash the word message “STOP” and the word message “DO NOT PASS” when the red school bus lights are active. The letters in the word messages shall be red with a minimum of three inches; 
+
+ (v) May flash or display the word message “CAUTION” or the word message “CAUTION STOPPING” when the hazard lights are activated. The letters in the word message shall be amber with a minimum height of three inches; 
+
+ (vi) May flash or display the word message “CAUTION” when the backup lights are activated. The letters in the word message shall be amber with a minimum height of three inches; 
+
+ (vii) Shall have a minimum viewing angle of 15 degrees on each side of the perpendicular axis; 
+
+ (viii) Flashing messages may be controlled by the hazard light and school bus safety light flashers; 
+
+ (ix) Word and picture messages shall be clearly visible in direct sunlight from a distance of 500 feet along the axis of the vehicle; and 
+
+ (x) L.E.D. lights, if used, shall be of sufficient quantity to result in a clear and legible message. 
+
+ (C) An electronic sign that displays warning messages to motorists may be placed on the front of the bus provided that: 
+
+ (i) There is an electronic sign on the back of the bus per section (B) above; 
+
+ (ii) The sign shall only be wired to the amber and red bus safety lights; and 
+
+ (iii) The sign shall be mounted below the windshield, vertically centered. 
+
+ (D)(i) If a Stop Arm Camera system as described in section (11) is installed, the warning sign shall include a decal that shall have the lettering shown below in white retroreflectorized letters that conforms to the retroreflective requirements listed in section (59) of this rule mounted on a flat black background: 
+
+ (ii) CAMERA IN USE (3 inches in height) 
+
+ (E) If space will not permit this lettering below the other three required lines of text, it may be applied below the rear door window. 
+
+ (c) The name of the school district, private school, or parochial school, and contractor name if applicable, shall be placed on the left and right sides of the bus. The name shall appear in the area directly below the side windows and the letters and figures in the name shall not be less than four inches nor more than seven inches in height and of proportionate width; 
+
+ (d) School team name or contractor's insignia may be placed above the side windows on the front portion of the bus body. All such lettering must be approved by the Pupil Transportation Section of the Oregon Department of Education; 
+
+ (e) One bus identification number at least four inches in height shall be placed on a flat vertical surface on each side and on the front and rear of the bus. At least one complete bus identification number shall be visible from any point 50 feet from the bus. Type A-1 and A-2 bus numbers may be three inches in height. 
+
+ (f) Only signs and lettering approved by state law or by the regulations of the Department of Education shall appear on the inside or outside of a school bus. 
+
+ (g) Optional identification and lettering may be added to the vehicle as outlined below: 
+
+ (A) Bus identification number on top of the bus. Numbers shall be black and a minimum of 12 inches high; 
+
+ (B) The location of the battery(ies) identified by the word “BATTERY” or “BATTERIES” in black letters on the battery compartment door in 2-inch capital series letters; 
+
+ (C) Manufacture or dealer identification or logos. Placement must be approved by the Pupil Transportation Section of the Oregon Department of Education; 
+
+ (D) Identification of fuel type on or adjacent to the fuel filler opening in 2-inch black capital series letters; 
+
+ (E) Symbols, letters, or numbers not to exceed 64 square inches of total display near the entrance door, displaying information for identification by the students of the bus or route served; 
+
+ (F) Buses designed and used for transporting children with special needs shall display the International Symbol of Accessibility below the window line. Such emblems shall be white on blue or black background, shall not exceed 12 inches square in size and shall be of a high-intensity retroreflective material meeting the requirements of Federal Highway Administration (FHWA) FP-85, Standard Specifications for construction of Roads and Bridges on Federal Highway Projects. Emblems (3) shall be located as follows: one on the front, one on the rear of the bus body or bumper, and one on the special service entrance. 
+
+ (37) Inside Height: 
+
+ (a) Clear inside body height for type A-1 buses shall be a minimum of 62 inches measured at any point on the longitudinal center line from the front vertical bow to the rear vertical bow. 
+
+ (b) Clear inside body height for all other buses shall be a minimum of 72 inches measured at any point on the longitudinal center line from front vertical bow to rear vertical bow. 
+
+ (c) Height requirements do not apply to air conditioning units installed in the passenger compartment when installed to manufacture’s specifications. 
+
+ (38) Instruments, Gauges, and Indicators: 
+
+ (a) Bus shall be equipped with the following instruments and gauges. (Telltale warning lights in lieu of gauges are not acceptable except as noted: 
+
+ (A) Speedometer; 
+
+ (B) Odometer, which will give accrued mileage including tenths of miles; 
+
+ (C) Voltmeter: A graduated charge and discharge ammeter compatible with generating capacities is permitted in lieu of or in addition to a voltmeter; 
+
+ (D) Oil-pressure gauge; 
+
+ (E) Water temperature gauge; 
+
+ (F) Fuel gauge; 
+
+ (G) High beam headlight indicator light; 
+
+ (H) Air pressure or vacuum gauge according to brake system used: Light indicator or gauge required on vehicle equipped with hydraulic-over hydraulic brake system; 
+
+ (I) Turn signal indicator light; 
+
+ (J) Tachometer on type B, C, or D buses. Tachometer is optional on Type A buses; 
+
+ (K) Glow plug indicator light, where appropriate; 
+
+ (L) Fog light indicator, if fog lights are installed; 
+
+ (M) Bus safety light pilot lamps / monitors: Each bus shall be equipped with 2 illuminated pilot lamps, one amber and one red. The placement of these lamps shall be in accordance with other telltale light placement requirements in 49 CFR 571.101 Controls and Displays. Pilot lamps shall provide an unmistakable indication that the flasher system is operating and an unmistakable indication if any lamp is not operating or the system is not otherwise functioning normally. 
+
+ (b) All instruments shall be easily accessible for maintenance and repair; 
+
+ (c) Above instruments and gauges shall be mounted on instrument panel in such a manner that each is clearly visible to and lies within a 140-degree field of vision for a 95th percentile female anthropomorphic dummy while in normal seated position. Items installed after manufacture shall not block the view of any instrument or gauge listed above. 
+
+ (d) Instrument panel shall have lamps of sufficient candlepower to illuminate all instruments and gauges and shift selector indicator for automatic transmission. 
+
+ (e) All control and indicator lights shall be dimmable except telltale lights. Control and indicator lights may be controlled by one or two dimmer switches. 
+
+ (39) Insulation: 
+
+ (a) Ceiling and walls shall be insulated with proper material to deaden sound and to reduce vibration to a minimum. 
+
+ (b) Thermal insulation that is fire-resistant, non-water absorbing, UL approved, with a minimum R-value of 5.5 shall be installed in the ceiling and walls; 
+
+ (c) If floor insulation is desired it shall be installed in accordance with the floor section of this rule. 
+
+ (40) Interior: 
+
+ (a) Interior of bus shall be free of all projections, including but not limited to luggage/book racks or attendant hand holds, that can cause injury in the event of a collision or rollover. Padded and full enclosed overhead storage above the seating area is allowed. 
+
+ (b) The ceilings and walls shall have an inner lining. 
+
+ (c) If ceiling is constructed with lap joints, forward panel shall be lapped by rear panel and exposed edges shall be beaded, hemmed, flanged or otherwise treated to minimize sharp edges; 
+
+ (d) Buses shall assure noise level taken at the ear of the occupant nearest to the primary vehicle noise source shall not exceed 85 DBA when tested according to the Noise Test Procedure. 
+
+ (41) Lamps and Signals: 
+
+ (a) All lamps, signals, and reflectors shall comply with the design and performance requirements of FMVSS No. 108, Lamps, reflective devices, and associated equipment; Oregon Revised Statutes, Chapter 816, Vehicle Equipment: Lights; and Oregon Administrative rules, Chapter 735, Division 108, Lighting Equipment applicable to that type of lamp, signal or reflector. 
+
+ (b) The following lights shall be installed with any additional requirements listed: 
+
+ (A) Back-up lamps: The bus shall be equipped with 2 white rear back-up lamps that have a minimum illuminated area of 12 square inches. If back up lamps are placed in the same horizontal line as the tail-stop lamps and turn signal lamps, they shall be to the inside. 
+
+ (B) Back-up warning alarm: An automatic audible alarm shall be installed on the rear of the bus that complies with SAE 994 Back-Up Alarm Standard specifying a minimum of 97±4db(A). 
+
+ (C) Bus Safety Lights: 
+
+ (i) Shall have red and amber flashing lights installed in accordance with SAE Standard J887. Each amber light shall be located near each red signal lamp, at the same level, but closer to the vertical centerline of the bus. 
+
+ (ii) The area around each lens of the bus safety lights shall be painted black, extending outward a minimum of 3 inches where practicable. 
+
+ (iii) The front bus safety lights shall be visible either directly or indirectly from inside the bus. 
+
+ (iv) A separate fuse or circuit breaker, adequate to prevent damage to the system in the event of a short circuit, shall be provided between the power source and flasher system. 
+
+ (v) The system shall be wired so that the system is activated by a manually operated spring-loaded switch that is clearly labeled and distinguishable from other switches. 
+
+ (vi) A circuit master switch, if installed, shall be part of the activation switch outlined in subparagraph (v) of this paragraph. 
+
+ (vii) Buses equipped with power-controlled entrance doors may have an additional spring loaded switch that will activate the red school bus safety lights prior to opening the entrance door or keep the red bus safety lights on after closing the entrance door. 
+
+ (viii) The flashing mechanism shall be capable of carrying the full current load of the signal system. 
+
+ (ix) Each lamp shall have a minimum illumination area of 38 square inches, flash a minimum of 60 times per minute, and be clearly visible in direct sunlight from a distance of 500ft along the axis of the vehicle. 
+
+ (x) The Bus Safety Light System shall operate as follows: 
+
+ (I) The bus safety light activation switch shall activate the amber safety lights when the entrance door is closed or red safety lights when the entrance door is open; 
+
+ (II) When amber safety lights are activated, they shall automatically deactivate and the red safety lights shall automatically activate when the entrance door is opened; door switch shall not have more than two positions to open or close door; 
+
+ (III) Once active, the red safety lights shall automatically deactivate when the entrance door is closed; No bus safety lights shall activate when the entrance door is opened without first pressing the bus safety light activation switch; 
+
+ (IV) The amber bus safety lights and red bus safety lights shall not flash at the same time. 
+
+ (V) There shall be a canceling switch that will deactivate the bus safety lights and activation sequence if they are accidentally activated or if the driver discovers there is no need to make a stop after activating the switch. 
+
+ (D) Clearance lamps; 
+
+ (E) Headlamps; 
+
+ (F) Identification Lamps; 
+
+ (G) Fog lamps may be installed: 
+
+ (i) Fog lamps shall be mounted symmetrically around the front centerline of the bus, below the headlights not less than 12 inches, no more than 30 inches above the ground; 
+
+ (ii) Fog lamps shall be wired to a separate switch and pilot light and shall only come on when the low beam head lights are on. 
+
+ (H) Interior dome lamps: Interior lamps shall be provided which will adequately illuminate interior aisles. There shall be at least one interior lamp for every two rows of passenger seats. One or two rear dome lamp(s) shall be wired through a separate switch unless there are less than five rows of seats. 
+
+ (I) Reflectors; 
+
+ (J) Side Marker Lamps; 
+
+ (K) Step well Lamp: A step well lamp shall be provided which will adequately illuminate the entire step well. The lamp circuit shall be wired through the headlamp or clearance lamp system and shall be activated only when the door is opened. 
+
+ (L) Strobe Lamp: A white flashing strobe lamp may be installed on the longitudinal center of the roof on the rear third of the bus, but no closer than one foot from the rear of the bus. 
+
+ (i) The lamp shall have a single clear lens emitting light 360 degrees around its vertical axis and may not extend above the roof more than 6-1/2 inches, or exceed maximum legal vehicle height. 
+
+ (ii) The lamp shall have a separate switch and be wired through the vehicle hazard lamp system. A pilot lamp to indicate when the light is in operation is required. 
+
+ (M) Tail lamps & Stop lamps: Buses shall be equipped with four combination red tail-stop lamps. 
+
+ (i) Two combination lamps with a minimum 38 square inches of illuminated area shall be mounted immediately inside of, and in line with, the rear turn signal lamps. 
+
+ (ii) Two combination lamps with a minimum 12 square inches of illuminated area shall be placed on the rear of the bus between the beltline and the floor line. The horizontal centerline of the lights shall be a maximum of 12 inches above the floor line.  The beltline shall be defined as the horizontal section defined by the lower edges of the passenger windows and the top of the seat cushion-level rub rail. 
+
+ (iii) Stop lamps shall be activated by the service brakes and shall emit a steady light when illuminated. 
+
+ (N) Turn Signals: 
+
+ (i) Front signals shall either: 
+
+ (I) have a minimum illuminated area of 38 square inches; or 
+
+ (II) be manufacturer’s standard front turn signals for Type A. 
+
+ (ii) Rear signals shall have a minimum illuminated area of 38 square inches and be placed as wide apart as practical with the horizontal centerline a maximum of 12 inches below the rear window. 
+
+ (iii) Side signals: A turn signal lamp with a minimum of 4 candlepower shall be mounted on each side of the bus at approximately seat level height, located to the rear of the entrance door on the right side, and to the rear of the stop arm on the left side. Side turn signals should be in approximately the same location on each side of the bus. Additional side turn signals may be installed if the horizontal centerline is the same for all side turn signals, and additional signals are in the same approximate location on each side of the bus. 
+
+ (iv) All turn signal lamps shall be amber in color. 
+
+ (v) All turn signal lamps shall be independent units and connected to turn signal switch and four-way hazard warning switch that will cause all turn signals to flash simultaneously. 
+
+ (42) Metal Treatment: 
+
+ (a) All metal used in construction of bus body shall be zinc- or aluminum-coated or treated by equivalent process before bus is constructed. Included are such items as structural members, inside and outside panels and floor sills; excluded are such items as door handles, grab handles, interior decorative parts and other interior plated parts; 
+
+ (b) All metal parts that will be painted shall be (in addition to above requirements) chemically cleaned, etched, zinc-phosphate coated and zinc-chromate or epoxy primed or conditioned by equivalent process; 
+
+ (c) In providing for these requirements, particular attention shall be given lapped surfaces, welded connections of structural members, cut edges, punched or drilled hole areas in sheet metal, closed or box sections, un-vented or un-drained areas and surfaces subjected to abrasion during vehicle operation; 
+
+ (d) As evidence that above requirements have been met, samples of materials and sections used in construction of bus shall be subjected to a cyclic corrosion testing as outlined in SAE J1563. 
+
+ (43) Mirrors: 
+
+ (a) Exterior Mirror Systems: 
+
+ (A) Bus shall be equipped with mirror systems complying with 49 CFR Part 571, FMVSS 111 as adopted by the National Highway Traffic Safety Administration for December 3, 1993 implementation, plus all applicable standards specified in this rule; 
+
+ (B) Manufacturer shall certify compliance with mirror and direct/indirect visibility standards listed in the aforementioned FMVSS 111. 
+
+ (C) Crossover mirrors may be equipped with a lighting system that illuminates the ground where passengers would walk in front of the vehicle, provided that the lighting system does not direct light toward other road users. 
+
+ (b) Interior Mirror: 
+
+ (A) Interior mirror shall be either laminated or tempered. Mirror shall be a minimum of 6" x 30". Mirror shall have rounded corners and protected edges; 
+
+ (B) Type A buses shall be equipped with a mirror that is 6” x 16” or providing at least 96 square inches of flat mirror surface; 
+
+ (C) Bus seller shall certify compliance with mirror and direct/indirect visibility standards listed in the aforementioned FMVSS 111 and provide a copy to used bus purchasers when certification is not available from manufacturer for all buses manufactured prior to January 1, 1994. 
+
+ (44) Mobile Data Terminal (MDT): A school bus may be equipped with a MDT which meets all of the following specifications: 
+
+ (a) The MDT shall be installed so that it does not block any windows, mirrors, operational controls, gauges, or telltale indicator lights. 
+
+ (b) Unless used as a navigation aid, the MDT display shall be blank anytime that: 
+
+ (A) The vehicle transmission is not in the park position, or for a vehicle that does not have a park position, anytime that the vehicle is not in neutral and the parking brake is not engaged; or 
+
+ (B) The bus safety lights are operating 
+
+ (c) If used as a navigation aid, the MDT may display a map of the route instead of a blank display when required. 
+
+ (d) The MDT shall not accept driver input or other interaction at any time that the screen is to be blank or displaying a map as required in this section. 
+
+ (45) Mounting: 
+
+ (a) Chassis frame shall support rear body cross member. Bus body shall be attached to chassis frame at each main floor sill, except where chassis components interfere, in such a manner as to prevent shifting or separation of body from chassis under severe operating conditions; 
+
+ (b) Body front shall be attached and sealed to chassis in such manner as to prevent entry of water, dust or fumes through joint between chassis cowl and body; 
+
+ (c) When floor is provided by bus body manufacturer, adequate insulating padding shall be placed at all contact points between body and chassis frame. Insulating material shall be approximately 1/4-inch thick and shall be so attached as to prevent movement under severe operating conditions. 
+
+ (46) Mud Flaps: 
+
+ (a) Mud flaps or splash aprons are required for rear wheels on all school buses; 
+
+ (b) Flaps shall be of heavy-duty rubberized material or equivalent and shall extend at least the full width of tires from a point above the center of the tires to a point not more than ten inches above the surface of the highway when such vehicle is empty. 
+
+ (47) Oil Filter: Oil filter of replaceable element or cartridge type shall be provided and shall be connected by flexible oil lines if it is not built-in or engine mounted design. Oil filter shall have a capacity in accordance with the engine manufacturer’s recommendation. 
+
+ (48) Openings: All openings in floorboard or firewall between chassis and passenger-carrying compartment, such as for gearshift lever and parking brake lever, shall be sealed. Access plates to cover openings shall have adequate gaskets and be fastened securely. 
+
+ (49) Overall Length: Maximum length for school buses shall be limited to 45 feet. 
+
+ (50) Overall Width: Overall width of bus shall not exceed 8.5 feet. The mirrors may exceed the maximum allowable width by a distance of not greater than five inches on each side of the vehicle. 
+
+ (51) Overhang: Body shall be so mounted as to comply with requirements described in chassis weight distribution standard. Body length extending beyond the rear axle shall not exceed three-fourths the length of the vehicle's wheel base per Oregon Vehicle Code. 
+
+ (52) Passenger Load: 
+
+ (a) Actual gross vehicle weight (GVW) is the sum of the chassis wet weight, plus the body weight, plus the driver's weight, plus total seated pupil weight: 
+
+ (A) For purposes of calculation, the driver's weight is 250 pounds; 
+
+ (B) For purposes of calculation, the pupil weight is 120 pounds per pupil. 
+
+ (b) Actual gross vehicle weight (GVW) shall not exceed the chassis manufacturer's gross vehicle weight rating (GVWR) or gross axle weight rating (GAWR) for the chassis; 
+
+ (c) Manufacturer's gross vehicle weight rating and other chassis information shall be furnished by the manufacturer, the manufacturer's representative or seller to the Oregon Department of Education on forms furnished by the department. 
+
+ (53) Power and Gradeability: Gross vehicle weight (GVW) shall not exceed 165 pounds per net published horsepower of the engine at the manufacturer's recommended maximum number of revolutions per minute. 
+
+ (54) Power Lift: A power lift may be installed 
+
+ (a) Vehicle lifts and installations shall comply with the public use lift requirements set forth in 49 CFR 571.403, Platform Lift Systems for Motor Vehicles, and 49 CFR 571.404, Platform Lift Installations in Motor Vehicles. This rule change applies to buses manufactured after December 27, 2004. 
+
+ (b) Lifting mechanism shall be located on the right side of the bus and be capable of lifting a minimum load of 800 pounds; 
+
+ (c) When the platform is in the fully upright position, it shall be locked in position mechanically by means other than a support, or lug in the door; 
+
+ (d) Controls shall be provided that enable the operator to activate the lift mechanism from either inside or outside of the bus. There shall be a means of preventing the lift platform from falling while in operation due to a power failure. If equipped with a control switch flex cord, the cord shall be installed to minimize entanglement with lift mechanism; 
+
+ (e) Power lifts shall be so equipped that they may be manually raised and lowered in the event of power failure of the power lift mechanism; 
+
+ (f) Lift travel shall allow the lift platform to rest securely on the ground; 
+
+ (g) All edges of the platform shall be designed to restrain wheelchair and operator's feet from being entangled during the raising and lowering process; 
+
+ (h) Lift platform shall have a minimum usable area of 30 inches by 48 inches; 
+
+ (i) Platform shall be fitted on both sides with full width barriers which extend above the floor line of the lift platform; 
+
+ (j) A restraining device shall be affixed to the outer edge (curb end) of the platform that will prohibit the wheelchair from rolling off the platform when the lift is in any position other than fully extended to ground or desired platform level. Minimum height of device/barrier shall be four inches; 
+
+ (k) A self-adjusting, skid resistant plate shall be installed on the outer edge of the platform to minimize the incline from the lift platform to the ground level. This plate, if so designed, may also suffice as the restraining device described in subsection (h) of this section. The lift platform must be skid resistant; 
+
+ (l) A circuit breaker or fuse shall be installed between power source and lift motor if electrical power is used; 
+
+ (m) The lift mechanism shall be equipped with adjustable limit switches or bypass valves to prevent excessive pressure from building in the hydraulic system when the platform reaches the full up position or full down position; 
+
+ (n) Sharp corners or projections of the lift which are likely to cause injury to passengers in the event of a collision or rollover shall be padded with impact absorbing material; 
+
+ (o) There shall be no exposed areas on lift mechanism or adjacent to lift that could cause injury to children while lift is in motion; 
+
+ (p) Power unit for lift shall be located so as not to restrict or impair center aisle space or foot and leg room between seats; 
+
+ (q) If body floor section serves as a portion of the lift platform, the adjacent under-floor areas on three sides shall be closed off with shields when platform is in the lowered position; 
+
+ (r) Platform shall be confined within the perimeter of the school bus body when not extended, in no way attached to the exterior sides of the bus. 
+
+ (55) Racks: The installation of any kind of exterior luggage rack outside the bus is prohibited. This does not prohibit enclosed luggage compartments. 
+
+ (56) Radios and Public Address Systems: 
+
+ (a) Buses shall be equipped with a public address system having interior and exterior speakers and a switch to separate inside and outside speaker systems. 
+
+ (b) AM/FM/audio radio may be installed. 
+
+ (c) Interior speakers mounted in the ceiling panels or side panels shall be either flush mounted or may protrude not more than 1-1/2 inches if the speaker housing is free of any corners or projections which can cause injury by striking with the head or in the event of a collision or rollover. Speakers protruding more than 1-1/2 inches may be mounted in the vertical end panels above the windshield or back windows as long as speakers are free of corners or projections that could cause injury; 
+
+ (d) Speakers shall not be placed above any aisle or within four feet of the driver’s seat back in its rearmost upright position; 
+
+ (57) Ramps: a ramp may be installed on Type A buses: 
+
+ (a) Ramp shall utilize a special service entrance located on the right side of the bus that is not less than 30 inches in width; 
+
+ (b) Ramp shall be of sufficient strength and rigidity to support wheelchair, occupant and attendant. It shall be equipped with protective flange on each longitudinal side to keep wheelchair on ramp; 
+
+ (c) Floor of ramp shall be covered with nonskid material; 
+
+ (d) Ramp shall be of weight, and equipped with handle(s), to permit one person to put ramp in place and return it to storage place; 
+
+ (e) Provisions shall be made to secure ramp to side of bus for use without danger of detachment, and ramp shall be connected to bus at floor level in such manner as to permit easy access of wheels on wheelchair to floor of bus; 
+
+ (f) Ramp shall be at least 80 inches in length, and width of the ramp shall be adequate to accommodate wheelchairs up to 30 inches wide. Ramp shall be of one piece, or two 40-inch sections hinged to allow for storage; 
+
+ (g) Dustproof and waterproof enclosed container shall be provided. 
+
+ (h) Ramp shall not be stored in the passenger compartment. 
+
+ (58) Retarder System: Retarder system, if installed, shall maintain the speed of the fully loaded school bus at 19.0 MPH on a seven percent grade for 3.6 miles without incurring damage to the retarder or vehicle. 
+
+ (59) Retroreflective Material and Placement: 
+
+ (a) Red: when used or required, red retroreflective material shall meet or exceed ASDM D4956 standards for type V super high-intensity sheeting and have a coefficient of retroreflection equal to or greater than: 
+
+ (A) 120 for an observation angle of 0.2 degrees and a light entrance angle of -4 degrees; and 
+
+ (B) 72 for an observation angle of 0.2 degrees and a light entrance angle of +30 degrees; and 
+
+ (C) 28 for an observation angle of 0.5 degrees and a light entrance angle of -4 degrees; and 
+
+ (D) 13 for an observation angle of 0.5 degrees and a light entrance angle of +30 degrees; 
+
+ (b) White: when used or required, white retroreflective material shall meet or exceed ASDM D4956 standards for type V super high-intensity sheeting and have a coefficient of retroreflection equal to or greater than: 
+
+ (A) 700 for an observation angle of 0.2 degrees and a light entrance angle of -4 degrees; and 
+
+ (B) 400 for an observation angle of 0.2 degrees and a light entrance angle of +30 degrees; and 
+
+ (C) 160 for an observation angle of 0.5 degrees and a light entrance angle of -4 degrees; and 
+
+ (D) 75 for an observation angle of 0.5 degrees and a light entrance angle of +30 degrees; 
+
+ (E) Exception: white retroreflective material on the “unlawful to pass” sign shall meet or exceed ASDM D4956 standards for type I engineering grade sheeting and have a coefficient of retroreflection equal to or greater than: 
+
+ (i) 70 for an observation angle of 0.2 degrees and a light entrance angle of -4 degrees; and 
+
+ (ii) 30 for an observation angle of 0.2 degrees and a light entrance angle of +30 degrees; and 
+
+ (iii) 30 for an observation angle of 0.5 degrees and a light entrance angle of -4 degrees; and 
+
+ (iv) 15 for an observation angle of 0.5 degrees and a light entrance angle of +30 degrees; 
+
+ (c) Yellow: when used or required, yellow retroreflective material shall meet or exceed ASDM D4956 standards for type V super high-intensity sheeting and have a coefficient of retroreflection equal to or greater than: 
+
+ (A) 470 for an observation angle of 0.2 degrees and a light entrance angle of -4 degrees; and 
+
+ (B) 270 for an observation angle of 0.2 degrees and a light entrance angle of +30 degrees; and 
+
+ (C) 110 for an observation angle of 0.5 degrees and a light entrance angle of -4 degrees; and 
+
+ (D) 51 for an observation angle of 0.5 degrees and a light entrance angle of +30 degrees; 
+
+ (d) All retroreflective material shall maintain at least 50 percent of the coefficient of retroreflection for a minimum of six years. 
+
+ (e) Bumpers may be marked diagonally 45 degrees down to centerline of pavement with two-inch wide strips of black retroreflective material. 
+
+ (f) Rub Rails may have retroreflective black material. 
+
+ (g) The rear of the bus body shall be marked with strips of retroreflective yellow material that is a minimum of 1 inch and a maximum of 2 inches to outline the perimeter of the back of the bus. The horizontal strips shall be placed above the rear windows, and immediately above the bumper. Both horizontal strips shall extend to each rear corner of the bus. The vertical strips shall connect the two horizontal strips. 
+
+ (h) Each side of the bus shall be marked with yellow retroreflective material that extents for the entire length of the bus body and is either: 
+
+ (A) A background for the name of the school district identification required in section (36)(c) of this rule that is not less than 6 inches and not more than 12 inches in width; or 
+
+ (B) A two-inch-wide strip that is between the beltline and the floor line; 
+
+ (i) Further retroreflective placement requirements can be found in: Emergency Exits (section 24 of this rule), Identification (section 36 of this rule), and Stop Arm (section 71 of this rule) 
+
+ (60) Rub Rails: 
+
+ (a) There shall be one rub rail on each side of bus at, or no more than 8 inches above, the seat cushion level which shall extend from rear side of entrance door completely around bus body (except for emergency door and access panel(s)) to point of curvature near outside cowl on left side; 
+
+ (b) There shall be one rub rail located 10 inches or less above the floor line which shall cover same longitudinal area as upper rub rail, except at wheel housing, and shall extend only to longitudinal tangent of right and left rear corners; 
+
+ (c) All rub rails shall be attached at each body post and all other upright structural members; 
+
+ (d) All rub rails shall be four inches or more in width, shall be of 16-gauge steel, suitable material of equivalent strength, and shall be constructed in corrugated or ribbed fashion; 
+
+ (e) All rub rails shall be applied to the outside body or outside body posts. Pressed-in or snap-on rub rails do not satisfy this requirement. For buses using rear luggage or engine compartment, rub rails need not extend around rear corners. 
+
+ (f) The bottom edge of the body side skirts shall be stiffened by application of a rub rail, or the edge may be stiffened by providing a flange or other stiffeners. 
+
+ (61) Sanders and other traction assisting devices: 
+
+ (a) Sanders may be installed. When installed, sanders shall: 
+
+ (A) Be of hopper cartridge-valve type; 
+
+ (B) Have metal hopper with all interior surfaces treated to prevent condensation of moisture; 
+
+ (C) Be of at least 100 pound (grit) capacity; 
+
+ (D) Have cover on filler opening of hopper, which screws into place, sealing unit airtight; 
+
+ (E) Have discharge tubes extending to front of each rear wheel under fender; 
+
+ (F) Have no-clogging discharge tubes with slush-proof, nonfreezing rubber nozzles; 
+
+ (G) Be operated by electric switch with telltale light mounted on instrument panel; 
+
+ (H) Be exclusively driver-controlled. 
+
+ (b) Automatic traction chains may be installed. 
+
+ (62) Seat Belts: 
+
+ (a) Driver’s seat belt: A Type 2 seat belt shall be provided for the driver, a driver's seat with an integrated Type 2 seat belt may be substituted. Each belt section shall be booted to keep belt and the button or buckle type latch off floor when not in use. Shoulder belt assemblies on Type B, C, and D buses shall provide for a height adjustment of at least four inches at its upper point of attachment to the bus. Belt shall be anchored or guided in a manner at the seat frame to prevent the driver from sliding sideways when belt is in use. Locking retractors may be either an ELR (Emergency Locking Retractor) or an ALR (Automatic Locking Retractor). All ALR equipped buses received after July 1, 1989, must include an approved anti-cinching device; 
+
+ (b) Passenger seat belts: 
+
+ (A) On buses manufactured prior to October 21, 2011 with a GVWR of more than 10,000 pounds, Type 1 seat belts or Type 2 seat belts may be installed. The attachments, belts and installation shall meet the requirements of: 
+
+ (i) 49 CFR 571.208 Occupant Crash Protection, 49 CFR 571.209 Seat Belt Assemblies, and 49 CFR 571.210 Seat Belt Assembly Anchorages, as they apply to school buses with a GVWR of 10,000 pounds or less; or 
+
+ (ii) The voluntary Type 1 or Type 2 installation requirements outlined in 49 CFR 571.222 School Bus Passenger Seating and Crash Protection that take effect on October 21, 2011. 
+
+ (B) On buses manufactured on or after October 21, 2011 with a GVWR of more than 10,000 pounds, Type 2 seat belts may be installed. Standards for voluntary instillation of seat belts are outlined in 49 CFR 571.222 School Bus Passengers Seating and Crash Protection. 
+
+ (C) On buses with a GVWR of 10,000 pounds or less, mandatory seat belt standards are outlined in 49 CFR 571.222 School Bus Passenger Seating and Crash Protection. 
+
+ (63) Seats and Crash Barriers: 
+
+ (a) Driver's seat shall be so located in relationship to the steering wheel that the driver may assume a natural position while driving, have a clear view of the road, and sufficient leg room to operate safely and effectively the brake and clutch pedals and accelerator without cramping or interference. Minimum distance between steering wheel and back rest of driver's seat shall be 11 inches. Driver's seat shall have a fore-and-aft adjustment of not less than four inches and shall on Type B, C, and D buses be capable of being raised and lowered at least three inches and shall be strongly attached to comply with acceptable installation procedures: 
+
+ (A) For type B, C, and D buses, driver's seat shall be a high back (suspension) seat with a minimum seat back adjustment of 15 degrees, not requiring the use of tools, and with a head restraint to accommodate a 95th percentile female anthropomorphic dummy as defined in FMVSS 208. The driver's seat shall be secured with nuts, bolts, and washers or flanged-headed nuts. Type A buses may use manufacture’s standard driver’s seat. 
+
+ (B) Driver's seat positioning and range of adjustment shall be designed to accommodate comfortable actuation of the foot control pedal by 95 percent of the adult female population. 
+
+ (b) Passenger Seats: In addition to the requirements of 49 CFR 571.222 School Bus Passenger Seating and Crash Protection, all passenger seats have the following requirements: 
+
+ (A) All seats shall have minimum depth of 15 inches; 
+
+ (B) In determining seating capacity of bus, the minimum allowable rump width shall be 13 inches; 
+
+ (C) Seat, seat back cushion and crash barrier shall be covered with a material having a minimum 42-ounce finished weight, 54-inch width and finished vinyl coating of 1.06 broken twill, or other material with equal tensile strength, tear strength, seam strength, adhesion strength, resistance to abrasion, resistance to cold, and flex separation. Material shall meet or exceed the criteria contained in the School Bus Seat Upholstery Fire Block Test. (see Appendix); 
+
+ (D) All seats shall be forward facing and shall be securely fastened to that part(s) of bus that support them with a nut-and-bolt type of fastener. Each seat leg shall be secured to the floor by a minimum of two nut-and-bolt type fasteners of at least grade 5 SAE strength. Sheet metal screw-type fasteners without a nut are not acceptable, except in areas where it is not possible to install a nut-and-bolt type fastener. Seats may be track mounted; 
+
+ (E) If flexible track mounted seating is installed, the manufacturer shall supply minimum and maximum seat spacing dimensions on a label permanently affixed to the bus to notify end user of seat installation requirements. 
+
+ (F) No bus shall be equipped with jump seats or portable seats. Flip-up seats at side emergency exit doors are allowed; 
+
+ (G) Seat spacing shall not be less than 24 inches between the front of the back of each seat and the rear of the back of the seat immediately ahead, measured at the center of the seat. The seat upholstery may be placed against the seat cushion padding, but without compressing the padding, before the measurement is taken. 
+
+ (64) Shock Absorbers: Bus shall be equipped with front and rear double-acting shock absorbers compatible with manufacturer's rated axle capacity at each wheel location. 
+
+ (65) Side skirts shall be 2 inches above the horizontal line between the center of the front spindle to the center of the rear axle, or lower. Measurement shall apply to an unloaded school bus located on a flat, level surface. 
+
+ (66) Special Service Entrance: 
+
+ (a) Bus bodies may have a special service entrance constructed in the body to accommodate a power lift; 
+
+ (b) The special service entrance shall be at any convenient point on the right of the bus and far enough to the rear to prevent the door(s) from obstructing the right front regular service door when open; 
+
+ (c) The opening may extend below the floor through the bottom of the body skirt. If such an opening is used, reinforcements shall be installed at the front and rear of the floor opening to support the floor and give the same strength as other floor openings; 
+
+ (d) Entrance shall be of sufficient width and depth to accommodate various mechanical lifts and related accessories as well as the lifting platform. The minimum clear opening width shall be adequate to accommodate the minimum platform defined in section (54) of this rule; 
+
+ (e) Door posts and headers from entrance shall be reinforced sufficiently to provide support and strength equivalent to the areas of the side of the bus not used for service doors; 
+
+ (f) A drip molding shall be installed above the opening to effectively divert water from entrance; 
+
+ (g) A pad shall be placed at the top edge of the special service entrance that is at least three inches wide and one inch think and shall extend the full width of the door opening. 
+
+ (h) A single door or double door may be used for special service entrance; 
+
+ (i) A single door shall be hinged to the forward side of the entrance. If double doors are used, the system shall be designed to prevent the door(s) from being blown open by the aerodynamic forces created by the forward motion of the bus, and/or shall in corporate a safety mechanism to provides secondary protection should the primary latching mechanism(s) fail; 
+
+ (j) All doors shall open outwardly; 
+
+ (k) All doors shall be weather sealed; 
+
+ (l) All doors shall have positive non-hitchable fastening devices to hold doors in the open position; 
+
+ (m) All doors shall be weather sealed and on buses with double doors, they shall be so constructed that a flange on the forward door overlaps the edge of the rear door when closed; 
+
+ (n) When manually operated dual doors are provided the rear door leaf shall have at least a one-point fastening device to the header. The forward mounted door shall have at least three-point fastening devices. One shall be to the header, one to the floor line of the body, and the other shall be into the rear door. These locking devices shall afford maximum safety when the doors are in the closed position. the door and hinge mechanism shall be of a strength that will provide for the same type of use as that of a standard entrance door; 
+
+ (o) If optional power doors are installed the design shall permit manual release of the doors for opening and closing by the attendant from the platform inside the bus; 
+
+ (p) Door materials, panels, and structural strength shall be equivalent to the conventional service and emergency doors. Color, rub rail extensions, lettering and other exterior features shall match adjacent sections of the body; 
+
+ (q) Each door shall have windows set in a waterproof manner that are visually similar in size and location to adjacent non-door windows. Glazing shall be of the same type and tinting (if applicable) as standard fixed glass in other body locations; 
+
+ (r) Door(s) shall be equipped with a device that will activate a green flashing signal located in the driver's compartment when door(s) is not securely closed and ignition is in "on" position; 
+
+ (s) A switch shall be installed so that the lifting mechanism will not operate when the lift platform door(s) is closed; 
+
+ (t) An interior light shall be placed to illuminate the area directly inside the special service door above the lift and be activated when the door is open. Circuit may be wired through step well light circuit. 
+
+ (u) Buses equipped with special service entrance doors not currently in use for service to students with disabilities or power lift equipped, must assure that doors are in compliance with all requirements for right side emergency door, or all of the following: 
+
+ (A) Be sealed and inoperable; 
+
+ (B) Have no handles; and 
+
+ (C) Have the words NOT AN EXIT placed in letters at least two inches high above the door on both the interior and exterior of the bus. 
+
+ (67) Springs: 
+
+ (a) Capacity of springs or suspension assemblies shall be commensurate with chassis manufacturer's gross vehicle weight rating; 
+
+ (b) If rear springs are used, they shall be of progressive type. Front leaf springs shall have a stationary eye at one end and shall be protected by a wrapped leaf in addition to the main leaf. 
+
+ (68) Steering Gear: 
+
+ (a) Steering gear shall be approved by manufacturer and designed to assure safe and accurate performance when vehicle is operated with maximum load and at maximum speed; 
+
+ (b) Steering mechanism that allows for external adjustment to correct for lost motion shall provide an accessible adjustment location; 
+
+ (c) No changes shall be made in steering apparatus which are not approved by manufacturer; 
+
+ (d) There shall be clearance of at least two inches between steering wheel and cowl, instrument panel, windshield, or any other surface; 
+
+ (e) Power steering of the integral type is required; 
+
+ (f) The steering system shall be designed to provide for means for lubrication of all wear-points, if wear points are not permanently lubricated. 
+
+ (69) Steps: 
+
+ (a) Service door entrance may be equipped with two-step or three-step step well. Risers in each case shall be approximately equal and shall not exceed 10 inches in height. When plywood floor is used on steel, differential may be increased by thickness of plywood used: 
+
+ (A) First step at service door for type A-1, A-2, and B buses shall be not less than 10 inches and not more than 14 inches from ground, based on standard chassis specifications; 
+
+ (B) Type C and D buses shall be equipped with a three-step step well. First step at service door shall not be less than 12 inches and not more than 16 inches from the ground based on standard chassis specifications. 
+
+ (b) Steps shall be enclosed to prevent accumulation of ice and snow; 
+
+ (c) Steps shall not protrude beyond side body line; 
+
+ (d) Steps (if any) on Type A-1 and A-2 buses not manufactured originally as school buses may be chassis manufacturer's standard; 
+
+ (e) At least one grab handle not less than 20 inches in length shall be provided to assist passengers during entry or egress in unobstructed locations inside doorway. Grab handle shall be designed, installed and maintained to minimize the opportunity for entanglement of passenger clothing and belongings. 
+
+ (f) Step Treads: 
+
+ (A) All steps, including floor line platform area, shall be covered with 3/16-inch rubber floor covering or other materials equal in wear resistance and abrasion resistance to top grade rubber; 
+
+ (B) The step covering shall be permanently bonded to a durable backing material that is resistant; 
+
+ (C) 3/16-inch ribbed or pebbled step tread shall have a 1-1/2-inch white or yellow nosing as integral piece without any joint; 
+
+ (D) Rubber portion of step treads shall have the following characteristics: 
+
+ (i) Special compounding for good abrasion resistance and high coefficient of friction; 
+
+ (ii) Flexibility so that it can be bent around a 1/2-inch mandrel both at 130 degrees F and 20 degrees F without breaking, cracking or crazing; 
+
+ (iii) Show a durometer hardness 85 to 95. 
+
+ (E) Not withstanding subsection (a) of this section, a spray on application type material may be used. Spray on material shall meet subsections (b) through (d) of this section. The material shall also be applied to the underneath exterior of the step treads if not otherwise covered by undercoating. 
+
+ (70) Steps, Windshield Access: There shall be at least one folding step or recessed foothold and suitably located handles on each side of the front of the body for easy accessibility for cleaning the windshield and lamps except when windshield and lamps are easily accessible from the ground. Standard does not apply to chassis not originally manufactured as school buses. 
+
+ (71) Stop Signal Arms: Buses shall be equipped with stop signal arms mounted in accordance with the following requirements: 
+
+ (a) Shall be installed on the left side of the bus; the vertical center of the stop blade shall be at least seven inches but not more than 14 inches below the window line, on the first body post to the rear of the driver or as close as practicable; 
+
+ (b) A wind guard or mechanism defaulting the stop signal arm to a retracted state when not activated shall be provided. All sheet metal parts shall be 16-gauge metal or heavier; 
+
+ (c) All parts of the assembly that are not color specific in 49 CFR 571.131 School Pedestrian Safety Devices shall be painted black; 
+
+ (d) Shall be equipped with two, four-inch, double faced alternating flashing red lamps to be mounted centered on the vertical centerline of the stop arm near the perimeter of the sign with a minimum of 12 inches spacing between lamp centers. Lamps shall be LED or strobe 
+
+ (e) The stop arm and lamps shall be wired to the circuit of the flashing red warning lamps mounted on the front and rear of the bus and shall operate simultaneously with the red bus safety lamps. Override switch is prohibited; 
+
+ (f) Shall be retroreflectorized on both sides meeting the Retroreflective Materials standard (57) of this rule. 
+
+ (g) Shall be either air, vacuum, or electrically operated: 
+
+ (A) Air operated stop arms: 
+
+ (i) Air may be supplied from an air accessory tank or from the first (wet) tank; 
+
+ (ii) If source is from the first (wet) tank a pressure protection valve shall be installed to prevent the tank air supply from falling below 60 pounds; 
+
+ (iii) Stop arm system must have a pressure regulating valve; 
+
+ (iv) All fittings shall be brass. 
+
+ (B) Vacuum operated stop arms: 
+
+ (i) Vacuum shall be supplied from a separate accessory tank. Tank shall be protected by a check valve; 
+
+ (ii) All fittings shall be brass. 
+
+ (72) Sun Visor: Interior adjustable sun visor, not less than 6 by 30 inches in size, shall be installed above windshield in position convenient for use by driver. If transparent visor is used, it shall be of such material so as not to prevent distinguishing between the colors of red and green traffic signals. Type A-1 and A-2 may be equipped with manufacturer's standard visor. Visor shall have protected edges. 
+
+ (73) Throttle: The force required to operate the throttle shall not exceed 16 pounds throughout the full range of accelerator pedal travel. 
+
+ (74) Tires and Rims: 
+
+ (a) Tires and rims of proper size and tires with load rating commensurate with chassis manufacturer's gross vehicle weight rating shall be provided. The use of multi-piece rims and/or tube type tires shall not be permitted; 
+
+ (b) All tires on new buses shall be of same size. Load range of tires shall meet or exceed the gross axle weight rating as required by 49 CFR 571.120 Tire Selection and Rims for Vehicles Other Than Passenger Cars, and as indicated on the manufactures data plaque; 
+
+ (c) If bus is equipped with spare tire and rim assembly, it shall be of the same size and load range as those mounted on the vehicle; 
+
+ (d) A spare tire, when carried, shall be suitably mounted in an accessible location outside passenger compartment. Type A-1, and A-2 buses may have spare tire securely mounted in the rear corner of passenger compartment; 
+
+ (e) Recapped tires are prohibited on the front of the bus; 
+
+ (f) Regrooved tires are not permitted on any bus; 
+
+ (g) Minimum tread depth on tires shall be: 
+
+ (A) Front axle — 4/32 inch; 
+
+ (B) Rear axle — 2/32 inch. 
+
+ (h) Tread depth shall be measured as follows: The minimum depth in any two adjacent major grooves at three locations spaced approximately equally around the outside of the tire but not on wear indicators. 
+
+ (75) Tool Compartment: A metal container of adequate strength and capacity for storage of tire chains, tow chains and such tools as may be necessary, may be provided. Container may be located inside or outside of passenger compartment. If inside, it shall have a cover and positive type latch to prevent opening in event of a severe impact or bus rollover, and shall be attached to the floor with a nut and bolt fastener, or may be securely attached to a seat frame under a seat. If tool compartment is outside, it shall be lockable. 
+
+ (76) Tow Hooks: Type C and D buses shall have two front and rear tow hooks that have sufficient strength to pull or be pulled by another vehicle of the same GVWR. Tow hooks shall be installed in order that no permanent distortion to the body or chassis will result if the bus must be towed. 
+
+ (77) Transmission: 
+
+ (a) Transmission shall have an input torque capacity greater than maximum net torque developed by engine. 
+
+ (b) When automatic or semi-automatic transmission is used, it shall provide for not less than three forward and one reverse speed. The shift selector, if applicable, shall provide a detent between each gear position when shift selector is not steering column mounted. Type C and D buses shall be equipped with a transmission temperature gauge. 
+
+ (c) When manual transmission is used, second gear and higher shall be synchronized. A minimum of three forward speeds and one reverse shall be provided. 
+
+ (d) Automatic transmissions incorporating a parking pawl shall have a transmission shifter interlock controlled by the application of the service brake to prohibit accidental engagement of the transmission. All non-park pawl transmissions shall incorporate a park brake interlock that requires the service brake to be applied to allow release of the parking brake. 
+
+ (78) Trash container: When used, the trash container shall be secured by a holding device that is designed to prevent movement and to allow easy removal and replacement. It shall be installed in an accessible location in the driver’s compartment, not obstruct passenger access to the entrance door and maintained to minimize the opportunity for entanglement of passenger clothing and belongings. 
+
+ (79) Turning Radius: 
+
+ (a) Chassis with a wheel base of 264 inches or less shall have a right and left turning radius of not more than 42 1/2 feet, curb to curb measurement; 
+
+ (b) Chassis with a wheelbase of 265 inches or more shall have a right and left turning radius of not more than 44 1/2 feet, curb to curb measurement. 
+
+ (80) Under carriage luggage compartments: Luggage compartments may be installed on the outside of the bus mounted below the floor level or in the rear of the bus. Access to compartments must be from the outside only. Compartment doors must have a positive retention to hold the doors open. Compartment doors must be lockable. 
+
+ (81) Undercoating: 
+
+ (a) The entire underside of the bus body, including floor sections, cross members and below floor-line side panels, shall be coated with rust-proofing material for which the material manufacturer has issued to the bus manufacturer a notarized certification that the materials meet or exceed all performance requirements of SAE J1959, Corrosion Preventive Compound, Underbody Vehicle Corrosion Protection; 
+
+ (b) The undercoating material shall be applied to the material manufacturer’s specifications, including application method and recommended film thickness, and shall show no evidence of voids in the cured film. 
+
+ (c) The undercoating material shall not cover any exhaust components of the chassis. 
+
+ (82) Ventilation: 
+
+ (a) Body shall be equipped with suitable, controlled ventilating system of sufficient capacity to maintain proper quantity of air under operating conditions without opening of windows except in extremely warm weather; 
+
+ (b) Static-type non-closable exhaust ventilation shall be installed in low-pressure area of roof. 
+
+ (83) Weight Distribution: 
+
+ (a) Weight distribution of fully loaded bus on level surface shall be such as to not exceed the manufacturer's front gross axle weight rating and rear gross axle weight rating; 
+
+ (b) Weight distribution of fully loaded bus on level surface shall be such that no more than 75 percent of gross vehicle weight is on rear tires and no more than 35 percent is on front tires. Type B and D buses with engine inside front of body and entrance door ahead of front wheels shall have no more than 75 percent of gross vehicle weight on rear tires, no more than 50 percent on front tires. If entrance door is behind front wheels, no more than 75 percent of gross vehicle weight shall be on rear tires, no more than 40 percent on front tires. With engine in rear, no more than 75 percent of gross vehicle weight shall be on rear tires, no more than 40 percent on front tires. 
+
+ (84) Wheel housing: 
+
+ (a) The wheel housing opening shall allow for easy tire removal and service; 
+
+ (b) Wheel housing shall be attached to floor sheets in such a manner as to prevent any dust, water or fumes from entering the body. Wheel housing shall be constructed of 16-gauge steel, or other material of equal strength; 
+
+ (c) The inside height of the wheel housing above the floor line shall not exceed 12 inches; 
+
+ (d) The wheel housing shall provide clearance for installation and use of tire chains on single and dual (if so equipped) power-driving wheels; 
+
+ (e) No part of a raised wheel housing shall extend into the emergency door opening. 
+
+ (85) Wheelchair Tie Down and Occupant Restraint System (WTORS): 
+
+ (a) A WTORS that meets 49 CFR 571.222 shall be provided for each fixed wheelchair location. 
+
+ (b) A WTORS that meets 49 CFR 571.222 shall be provided for each flexible wheelchair location not occupied by a flexible track mounted school bus seat. 
+
+ (c) The WTORS, including the anchorage track, floor plates, pockets or other anchorages, shall be provided by the same manufacturer or shall be certified to be compatible by the manufacturers of all equipment/systems used. 
+
+ (d) Adjustable and accessible positive fastening devices shall be provided, attached to floor or walls or both, that will securely hold wheelchairs or other type of ambulatory mobility devices in the event the vehicle is overturned and to prevent the wheels from leaving the floor in case of a sudden movement. All floor-mounted attachment devices shall be affixed with nut and bolt fasteners, except in areas where it is not practicable. 
+
+ (e) Wheelchairs or other devices designed solely for use by handicapped or convalescent passengers may be positioned in a direction other than forward-facing only at the specific direction of the student's IEP when forward-facing positions are available; 
+
+ (f) No fastening device shall be attached to any door; 
+
+ (g) Wheelchair securement positions shall be located such that wheelchairs and their occupants do not block access to the lift door or exits. 
+
+ (h) An ANSI/RESNA WC18 Compliant WTORS may be specified when transporting a wheelchair that is fully compliant with WC19 (2012), which includes a crash tested wheelchair-anchored pelvic belt.  
+
+ (86) Wind Deflectors may be installed according to manufacturer's standards on the rear roof to deflect snow, dust and dirt from the rear window. 
+
+ (87) Windshield and Windows: 
+
+ (a) All glass in windshield, windows and doors shall be of approved safety glass so mounted that its identification mark is visible and of a quality to prevent distortion in any direction. All glazing materials shall be on the approved list of the Oregon Department of Motor Vehicles; 
+
+ (b) Windshield shall be of safety plate glass AS-1 grade as specified by American National Standards Institute Safety Code Z26.1; 
+
+ (c) Windshield glass may be heat absorbing and may have a horizontal gradient band starting slightly above the line of the operator's vision and gradually decreasing in light transmission to 20 percent or less at the top of the windshield in compliance with Federal Motor Vehicle Safety Standard 205; 
+
+ (d) Glass in all side windows, doors and rear windows shall be AS-2 or better grade, as specified in ANSI Z26.1, or AS-4 coated abrasion resistant rigid plastic meeting requirements of Federal Motor Vehicle Safety Standard 205. Rigid plastic cannot be used for windshields or windows immediately to the left or right of the driver; 
+
+ (e) Side windows shall conform to the following: 
+
+ (A) Buses shall provide full drop or split sash windows which provide an unobstructed opening of at least 12 inches and not more than 14 inches in height, obtained by lowering the sash, and at least 22 inches in width. Type A-1 and A-2 buses may have a full drop or split sash windows which provide an unobstructed opening of at least 9 inches and not more than 13 inches in height, obtained by lowering the sash, and at least 22 inches in width, provided the bus has 2 swing-out windows. This requirement does not apply to emergency exit windows installed in compliance with section (24) of this rule 
+
+ (B) One window on each side of the bus may be less than 22 inches in width. This window need not be split sash. 
+
+ (C) Windows may be tinted. 
+
+ (88)(a) Windshield Washers: 
+
+ (b) Bus shall be equipped with windshield washers. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 327.013, ORS 820.100, ORS 820.105, ORS 820.110 & ORS 820.120 
+ 
+ 
+ Statutes/Other Implemented:  ORS 327.013, ORS 820.100, ORS 820.105, ORS 820.110 & ORS 820.120 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ODE 56-2025, amend filed 10/17/2025, effective 10/17/2025 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ODE 55-2024, amend filed 10/25/2024, effective 10/25/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ODE 19-2021, amend filed 05/27/2021, effective 05/27/2021 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ODE 5-2018, amend filed 02/21/2018, effective 02/21/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ODE 40-2014, f. & cert. ef. 9-3-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ODE 19-2012, f. & cert. ef. 6-14-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

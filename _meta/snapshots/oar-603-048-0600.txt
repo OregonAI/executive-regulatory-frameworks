@@ -1,0 +1,478 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Agriculture 
+ Chapter 603 
+ 
+ 
+ 
+ 
+ 
+ Division 48 INDUSTRIAL HEMP 
+ 603-048-0600 
+ Pre-Harvest Sampling and Testing for Tetrahydrocannabinol 
+ 
+ (1) A grower may not: 
+(a) Harvest a harvest lot until it has been sampled in accordance with these rules. 
+(b) Transfer or sell a harvest lot until it has passed testing in accordance with these rules. 
+(c) Conduct repeat preharvest sampling and testing on a harvest lot that has failed testing under this rule except as expressly permitted in OAR 603-048-0630. 
+(2) Required Sampling and Testing: 
+(a) A grower must ensure that the grower’s entire crop is timely sampled and tested according to these rules. 
+(b) Harvest lots must be sampled and tested separately and may not be combined. At the discretion of the grower, industrial hemp grown in a single production area may be subdivided into separate harvest lots for sampling and testing consistent with these rules. A subdivided production area must still meet the definition of a production area. Sampling must be conducted and testing must be reported using the harvest lot identifier described in OAR 603-048-0500(2). 
+(c) A grower must arrange for and ensure the sampling of a harvest lot no more than 30 days prior to harvest for the purpose of ensuring that the harvest lot does not exceed permissible THC concentration levels on a dry weight basis. Harvest must be complete within the applicable time period for sampling or the grower must arrange for additional sampling of the unharvested cannabis in accordance with these rules. 
+(d) If a purpose of the harvest lot is to produce flower, the grower must arrange for sampling such that flowers are present at the time of sampling. In this case, only plants with flowers shall be sampled. 
+(e) The grower or authorized representative must provide the sampler with unrestricted and unobstructed access to all hemp and other cannabis plants whether growing or harvested and all lands, buildings, and other structures used for cultivation, handling, and storage of all hemp and Cannabis and all other locations listed in the grower’s license. 
+(f) During a scheduled sampling, the grower, person in charge of the grow site, or an authorized representative of the grower shall be present at the grow site. 
+(3) All sampling and testing must be performed by the Department or a laboratory. 
+(4) If a grower uses a laboratory to perform testing and sampling the grower must ensure that the laboratory: 
+(a) Retains all documentation of sampling and testing for at least three years and can provide such documentation to the Department upon request. 
+(b) Complies with laboratory control sample recovery and Relative Percent Difference requirements in OAR 333-064-0100. 
+(c) Conducts sampling and testing in accordance with these rules. 
+(d) Can demonstrate that its limit of quantification (LOQ) for THC is at or below 0.15 percent THC. 
+(e) Requires all laboratory staff conducting sampling to complete annual sampling training with the Department prior to conducting sampling. 
+(f) Tests for and reports the total THC content of the harvest lot calculated in accordance with OAR 333-064-0100(4). 
+(5) To request sampling and testing, prior to sampling a grower must submit to the laboratory, or the Department, a completed sampling request form provided by the Department that includes: 
+(a) A written sampling request for THC analysis for each harvest lot, as identified by the harvest lot identifier, for which the grower is requesting sampling and testing and the total number of harvest lots to be sampled and tested; 
+(b) A description of the location of the production area of each harvest lot, as identified by the harvest lot identifier, including the GPS coordinates or address of the harvest lot; and 
+(c) A written description and visual depiction of each harvest lot to be sampled and tested such that the production area for each harvest lot is apparent from a visual inspection of the premises and easily discernible from other harvest lots. 
+(6) Sampling of a harvest lot must: 
+(a) Occur after the laboratory or Department personnel fully complete the sampling form provided by the Department onsite at the production area. 
+(b) Produce a sample that is representative of the harvest lot. 
+(c) Be conducted: 
+(A) In accordance with the Department’s Sampling Protocol prescribed in Exhibit A and incorporated by reference. 
+(B) Such that a sufficient sample size is taken and retained for analysis of all requested tests, any requested retest, and any quality control performed by the testing laboratory for these tests. 
+(7) A grower must ensure that: 
+(a) The laboratory conducts testing according to the Department’s Testing Protocol prescribed in Exhibit B and incorporated by reference. 
+(b) The laboratory reports all test results electronically to the Department at HempTestReports@oda.oregon.gov using the forms provided by or approved by the Department or via an online portal operated by the Department, and include for each sample tested: 
+(A) Grower’s name and license number; 
+(B) Harvest lot identifier; 
+(C) Sample date; 
+(D) Testing date; 
+(E) Total THC percentage to the second decimal point only calculated in accordance with OAR 333-064-0100(4); 
+(F) The laboratory’s measurement of uncertainty for THC testing of industrial hemp. Measurement of uncertainty means the parameter, associated with the result of the measurement, that characterizes the dispersion of the values that could reasonably be attributed to the particular quantity subject to measurement; 
+(G) Clear identification of the harvest lot by harvest lot identifier that corresponds to the sample and the location of the corresponding harvest lot’s production area; 
+(H) Copy of grower’s sampling request form required in section (5) of this rule; and 
+(I) Copy of the completed sampling form required in section (6) of this rule. 
+(c) The laboratory reports all results from testing conducted under this rule to the United States Department of Agriculture. The test results report must contain the following information: 
+(A) Grower’s license number; 
+(B) Grower’s name; 
+(C) Business address of the grower; 
+(D) Harvest lot identifier 
+(E) Name of the laboratory 
+(F) Date of the test and report 
+(G) Whether it is a retest; 
+(H) Test result. 
+(d) If a sample fails testing a grower must ensure that: 
+(A) The laboratory sends the failed test report electronically to the Department at HempTestReports@oda.oregon.gov using the forms provided or approved by the Department or via an online portal operated by the Department within 24 hours of the failed test report. 
+(B) The laboratory sends failed test reports to the grower who requested the testing using the forms provided or approved by the Department within 24 hours of the failed test report. 
+(C) The grower complies with OAR 603-048-0630. 
+(8) A sample fails testing when the application of the measurement of uncertainty to the amount of total THC of the sample calculated in accordance with OAR 333-064-0100(4) reported by a laboratory produces a distribution or range that does not include 0.3 percent or less on a dry weight basis. A laboratory’s measurement of uncertainty may not exceed 10 percent of the measured value. If the sample from a harvest lot fails required THC testing under these rules the harvest lot corresponding to the sample fails required THC testing. 
+(9) A sample passes testing when the application of the measurement of uncertainty to the amount of total THC of the sample calculated in accordance with OAR 333-064-0100(4) reported by a laboratory produces a distribution or range that includes 0.3 percent or less on a dry weight basis and the harvest lot was sampled and tested in compliance with these rules. If the sample of the harvest lot passes THC testing under these rules, the harvest lot corresponding to the sample passes required THC testing. 
+(10) Upon receipt of a failed test report: 
+(a) The grower must immediately clearly label or place signage on the harvest lot that it failed testing. 
+(b) The grower must immediately detain the harvest lot at the grow site and may not sell, harvest, transfer, or process the harvest lot. 
+(c) The grower may not move the harvest lot from the grow site or allow the harvest lot to be removed from the grow site without written permission from the Department. 
+(d) If the harvest lot has not been harvested, the grower may continue normal agricultural processes to maintain the viability of the harvest lot, but may not harvest without written permission from the Department, 
+(e) If the harvest lot has been harvested, the grower must immediately segregate the failed harvest lots from any other harvest lots. If the failed harvest lot has been comingled, all cannabis commingled with a failed harvest lot must be detained and is subject to all of the requirements, including required disposal, of the failed harvest lot. 
+(11) For any harvest lot that fails testing, unless the harvest lot passes testing upon resampling or retesting in accordance with OAR 603-048-0630, the grower must dispose of the harvest lot, including all parts of the cannabis plants including the stalk and seed, in accordance with OAR 603-048-0640: 
+(a) Within fourteen (14) days of the failed test report if no resampling or retesting in accordance with these rules is sought unless extended by the Department in writing; or 
+(b) Within fourteen (14) days of any failed test report from any resampling, or retesting completed in accordance with these rules unless extended by the Department in writing. 
+(12) Invalid Sampling or Testing: 
+(a) It is the grower’s obligation to demonstrate and maintain documentation that each harvest lot was sampled and tested in accordance with these rules and passes THC testing required by these rules. 
+(b) Sampling or testing that does not meet all of the requirements and standards of these rules is invalid. The harvest lot corresponding to an invalid sampling or invalid testing fails to satisfy the required THC testing under these rules. 
+(c) The Department may detain, seize, embargo, and dispose of the harvest lot that fails THC testing under this rule or that was invalidly sampled or tested as provided under OAR 603-048-0900. 
+(13) The Department may, at its discretion, agree to conduct sampling and testing for a licensed grower. Prior to conducting the sampling and testing the grower must pay fees as described in OAR 603-048-0700 for each harvest lot requested to be sampled and tested. 
+(14) In addition to the testing required by this section the Department may inspect any industrial hemp and sample for testing for THC content. The Department may detain, seize, embargo, and dispose of any industrial hemp that fails THC testing as described in section (9) of this rule. 
+(15) All laboratories conducting sampling or testing must be registered with the United States Drug Enforcement Agency in accordance with 21 USC 823(f) unless the United States Department of Agriculture issues written guidance or amends the federal rules to extend or waive this requirement. 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 561.120, 561.200, 561.275, 561.190 & ORS 571.260-571.348 
+ 
+ 
+ Statutes/Other Implemented:  ORS 571.260-571.348 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 5-2026, amend filed 01/26/2026, effective 01/26/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 49-2023, amend filed 12/14/2023, effective 12/14/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 26-2022, amend filed 10/31/2022, effective 10/31/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 29-2021, amend filed 12/29/2021, effective 01/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 26-2021, amend filed 11/09/2021, effective 11/09/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 20-2020, amend filed 12/15/2020, effective 01/01/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 12-2019, amend filed 05/15/2019, effective 05/15/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 7-2019, temporary amend filed 03/01/2019, effective 03/01/2019 through 08/27/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 27-2018, amend filed 11/29/2018, effective 12/03/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 14-2018, amend filed 04/03/2018, effective 04/03/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 24-2017, temporary amend filed 12/19/2017, effective 12/19/2017 through 04/03/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 15-2017, temporary amend filed 10/06/2017, effective 10/06/2017 through 04/03/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 13-2017, f. & cert. ef. 8-30-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 7-2017(Temp), f. 3-14-17, cert. ef. 3-15-17 thru 9-10-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 19-2016, f. & cert. ef. 10-28-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 11-2016(Temp), f. & cert. ef. 5-3-16 thru 10-29-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 1-2016(Temp), f. & cert. ef. 1-29-16 thru 7-26-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 3-2015, f. & cert. ef. 1-29-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,547 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Energy 
+ Energy Facility Siting Council - Chapter 345 
+ 
+ 
+ 
+ 
+ Division 20 NOTICE OF INTENT 
+ 345-020-0011 
+ Contents of a Notice of Intent
+ 
+ 
+ (1) The applicant must, to the extent reasonably practicable, include in the notice of intent (NOI) the information described in the following subsections. If the applicant proposes alternative sites, the applicant must describe each alternative separately. The applicant must designate the information with the appropriate exhibit label identified in the following subsections: 
+
+ (a)  Exhibit A.  Information about the applicant and participating persons, including: 
+
+ (A) The name and address of the applicant including all co-owners of the proposed facility, the name, mailing address, email address and telephone number of the contact person for the NOI, and if there is a contact person other than the applicant, the name, title, mailing address, email address and telephone number of that person; 
+
+ (B) The contact name, mailing address, email address and telephone number of all participating persons, other than individuals, including but not limited to any parent corporation of the applicant, persons upon whom the applicant will rely for third-party permits or approvals related to the facility, and persons upon whom the applicant will rely in meeting any facility standard adopted by the Council; 
+
+ (C) If the applicant is a corporation: 
+
+ (i) The full name, official designation, mailing address, email address and telephone number of the officer responsible for submitting the NOI; 
+
+ (ii) The date and place of its incorporation; 
+
+ (iii) A copy of its articles of incorporation and its authorization for submitting the NOI; and 
+
+ (iv) In the case of a corporation not incorporated in Oregon, the name and address of the resident attorney-in-fact in this state and proof of registration to do business in Oregon; 
+
+ (D) If the applicant is a wholly owned subsidiary of a company, corporation or other business entity, in addition to the information required by paragraph (C), the full name and business address of each of the applicant's full or partial owners; 
+
+ (E) If the person submitting the NOI is an association of citizens, a joint venture or a partnership: 
+
+ (i) The full name, official designation, mailing address, email address and telephone number of the person responsible for submitting the NOI; 
+
+ (ii) The name, business address and telephone number of each person participating in the association, joint venture or partnership and the percentage interest held by each; 
+
+ (iii) Proof of registration to do business in Oregon; 
+
+ (iv) A copy of its articles of association, joint venture agreement or partnership agreement and a list of its members and their cities of residence; and 
+
+ (v) If there are no articles of association, joint venture agreement or partnership agreement, the applicant must state that fact over the signature of each member; 
+
+ (F) If the applicant is a public or governmental entity: 
+
+ (i) The full name, official designation, mailing address, email address and telephone number of the person responsible for submitting the NOI; and 
+
+ (ii) Written authorization from the entity's governing body to submit an NOI; 
+
+ (G) If the applicant is an individual, the individual's mailing address, email address and telephone number; and 
+
+ (H) If the applicant is a limited liability company: 
+
+ (i) The full name, official designation, mailing address, email address and telephone number of the officer responsible for submitting the NOI; 
+
+ (ii) The date and place of its formation; 
+
+ (iii) A copy of its articles of organization and its authorization for submitting the NOI; and 
+
+ (iv) In the case of a limited liability company not registered in Oregon, the name and address of the resident attorney-in-fact in this state and proof of registration to do business in Oregon. 
+
+ (b)  Exhibit B.  Information about the proposed facility, including: 
+
+ (A) A description of the proposed energy facility, including as applicable: 
+
+ (i) For electric power generating plants, the nominal electric generating capacity and the average electrical generating capacity, as defined in ORS 469.300; 
+
+ (ii) Major components, structures and systems, including a description of the size, type and configuration of equipment used to generate, store, transmit, or transport electricity, useful thermal energy, or fuels; 
+
+ (iii) Methods for waste management and waste disposal, including, to the extent known, the amount of wastewater the applicant anticipates, the applicant’s plans for disposal of wastewater and storm water, and the location of disposal; 
+
+ (iv) For thermal power plants, combustion turbine power plants, or other facilities designed to generate electricity from any gas, liquid, or solid fuels: 
+
+ (I) A discussion of the source, quantity and availability of all fuels proposed to be used in the facility to generate electricity or useful thermal energy; 
+
+ (II) If the facility will generate electric power from natural gas, petroleum, coal or any form of solid, liquid or gaseous fuel derived from such material, a discussion of methods the facility will use to ensure that the facility does not emit greenhouse gasses into the atmosphere, and a description of any equipment the facility will use to capture, sequester, or store greenhouse gases; 
+
+ (III) A discussion of the methods for the disposal of waste heat generated by the facility; 
+
+ (v) For transmission lines, approximate transmission line voltage, load carrying capacity and type of current; 
+
+ (vi) For pipelines, approximate operating pressure and delivery capacity in thousand cubic feet per day; 
+
+ (vii) For surface facilities related to underground gas storage, estimated daily injection and withdrawal rates, horsepower compression required to operate at design injection or withdrawal rates, operating pressure range and fuel type of compressors; 
+
+ (viii) For facilities to store liquefied natural gas, the approximate volume, maximum pressure, liquefication and gasification capacity in thousand cubic feet per hour; 
+
+ (B) A description of major components, structures and systems of each related or supporting facility; and 
+
+ (C) The approximate dimensions of major facility structures and visible features. 
+
+ (c)  Exhibit C.  A description of the location of the proposed energy facility site and the proposed site of each related or supporting facility and all areas that might be temporarily disturbed during construction of the facility, including the approximate land area of each. 
+
+ (d)  Exhibit D.  If the proposed energy facility is a pipeline or a transmission line or has, as a related or supporting facility, a transmission line or pipeline that, by itself, is an energy facility under the definition in ORS 469.300, identification of at least two proposed corridors, as defined in OAR 345-001-0010, or identification of a single proposed corridor with an explanation of why alternate corridors are unlikely to better meet the applicant’s needs and satisfy the Council’s standards. The applicant must include an explanation of the basis for selecting the proposed corridors and, for each proposed corridor, the information described in subsections (e), (g), (i), (j), (k), (L), (o) and (q) that is available from existing maps, aerial photographs, and a search of readily available literature. 
+
+ (e)  Exhibit E.  Identification of all federal, state and local government permits related to the siting of the proposed facility, a legal citation of the statute, rule or ordinance governing each permit, and the name, address, email address and telephone number of the agency or office responsible for each permit. For each permit, the applicant must provide a preliminary analysis of whether the permit should or should not be included in and governed by the site certificate. 
+
+ (f)  Exhibit F.  A list of the names and mailing addresses of property owners, as described in this rule: 
+
+ (A) The list must include all owners of record, as shown on the most recent property tax assessment roll, of property located: 
+
+ (i) Within 100 feet of property which the subject of the NOI, where the subject property is wholly or in part within an urban growth boundary; 
+
+ (ii) Within 250 feet of property which is the subject of the NOI, where the subject property is outside an urban growth boundary and not within a farm or forest zone; or 
+
+ (iii) Within 500 feet of property which is the subject of the NOI, where the subject property is within a farm or forest zone; and 
+
+ (B) In addition to incorporating the list in the NOI, the applicant must submit the list to the Department in an electronic format acceptable to the Department. 
+
+ (g)  Exhibit G.  A map or maps showing: 
+
+ (A) The proposed locations of the energy facility site, all related or supporting facility sites and all areas that might be temporarily disturbed during construction of the facility in relation to major roads, water bodies, cities and towns, important landmarks and topographic features; 
+
+ (B) The proposed locations of the corridors the applicant has identified under subsection (d) in relation to major roads, water bodies, cities and towns, important landmarks and topographic features; 
+
+ (C) The study areas for the proposed facility as defined in OAR 345-001-0010; 
+
+ (D) The topography of the study areas including streams, rivers, lakes, major roads and contour lines; 
+
+ (E) All protected areas in the study area as defined in OAR 345-001-0010 for impacts to protected areas; 
+
+ (F) The location of any potential waters of the state or waters of the United States that are on or adjacent to the site; and 
+
+ (G) For energy generation facilities, the approximate locations of any other energy generation facilities that are known to the applicant to be permitted at the state or local level within the study area as defined in OAR 345-001-0010 for impacts to public services. 
+
+ (h)  Exhibit H.  If the proposed facility is a non-generating energy facility for which the applicant must demonstrate need under OAR 345-023-0005, identification of the rule in division 23 of this chapter under which the applicant intends to demonstrate need and a summary statement of the need and justification for the proposed facility. 
+
+ (i)  Exhibit I.  A statement indicating whether the applicant intends to satisfy the Council’s land use standard, OAR 345-022-0030, by obtaining local land use approval under ORS 469.504(1)(a) or by seeking a Council determination under ORS 469.504(1)(b). 
+
+ (j)  Exhibit J.  Identification of potential significant environmental impacts of construction and operation of the proposed facility on resources in the study areas, including those impacts affecting air quality, surface and ground water quality and availability, wildlife and wildlife habitat, threatened and endangered plant and animal species, historic, cultural and archaeological resources, scenic resources, recreation opportunities, land use, and wildfire risk. 
+
+ (k)  Exhibit K.  Information about significant potential adverse impacts of construction and operation of the proposed facility on the ability of communities in the study area to provide the services listed in OAR 345-022-0110. 
+
+ (l) Exhibit L. A list of all protected areas in the study area for impacts to protected areas identifying: 
+
+ (A) The distance and direction of the protected area from the proposed facility; 
+
+ (B) The basis for protection of the area, by reference to a specific subsection of OAR 345-001-0010(26); and 
+
+ (C) The name, mailing address, phone number, and email address of the land management agency or organization with jurisdiction over the protected area; 
+
+ (m)  Exhibit M.  Information about anticipated water use during construction and operation of the proposed facility, including: 
+
+ (A) A description of each source of water and the applicant’s estimate of the amount of water the facility will need from each source; 
+
+ (B) If a new water right is required, the approximate location of the points of diversion and the estimated quantity of water to be taken at each point; and 
+
+ (C) For operation, the source of cooling water and the estimated consumptive use of cooling water, based on annual average conditions. 
+
+ (n)  Exhibit N.  If the proposed facility would emit carbon dioxide, an estimate of the gross carbon dioxide emissions that are reasonably likely to result from the operation of the facility and a statement of the means by which the applicant intends to comply with the applicable carbon dioxide emissions standard under OAR 345-024-500. 
+
+ (o)  Exhibit O.  Identification, by legal citation, of all state statutes and administrative rules and local government ordinances containing standards or criteria that the proposed facility must meet for the Council to issue a site certificate, other than statutes, rules and ordinances identified in Exhibit E, and identification of the agencies administering those statutes, administrative rules and ordinances. The applicant must analyze and describe any problems the applicant foresees in satisfying the requirements of any such statute, rule or ordinance. 
+
+ (p)  Exhibit P.  A schedule stating when the applicant expects to submit a preliminary application for a site certificate. 
+
+ (q)  Exhibit Q . The following evidence regarding the proposed facility's possible effects on Indian historic and cultural resources: 
+
+ (A) Consultation with the Legislative Commission on Indian Services to identify each appropriate tribe with which to confer.​ 
+
+ (B) The dates and summary of any meetings or communications with the tribes identified in (A) above; or documentation of all efforts to communicate with the tribes identified in (A) above. 
+
+ (2) Documents prepared in connection with an environmental assessment or environmental impact statement for the proposed facility under the National Environmental Policy Act of 1970, if any, may contain some of the information required by section (1) of this rule. The applicant may copy relevant sections of such documents into the appropriate exhibits of the NOI. The applicant may otherwise submit full copies of those documents and include, in the appropriate exhibits of the NOI, cross-references to the relevant sections of those documents. The applicant may use such documents only to avoid duplication. The applicant must include additional information in the NOI as needed to meet the requirements of section (1) of this rule. 
+
+ (3) The applicant must include a table of contents in the NOI identifying the location of each exhibit required by this rule. 
+
+ (4) The applicant or the applicant’s representative must attend all public informational meetings on the NOI as described in OAR 345-015-0130 to discuss the proposed facility and to answer questions from the public. If the applicant has identified one or more proposed corridors in Exhibit D of the NOI as required by section (1)(d), the applicant may present adjustments to the proposed corridor(s) at any public informational meeting. An adjustment is any change that is outside the boundaries of the corridors proposed in the NOI and may include an entirely new corridor. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 469.470 
+ 
+ 
+ Statutes/Other Implemented:  ORS 469.330 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 2-2026, amend filed 04/23/2026, effective 04/23/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 1-2023, amend filed 08/29/2023, effective 08/29/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 5-2022, amend filed 12/19/2022, effective 12/19/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 2-2022, amend filed 07/29/2022, effective 07/29/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 1-2022, amend filed 07/25/2022, effective 07/25/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 10-2019, amend filed 10/04/2019, effective 10/07/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 1-2012, f. & cert. ef. 5-15-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 1-2007, f. & cert. ef. 5-15-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 1-2003, f. & cert. ef. 9-3-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 1-2002, f. & cert. ef. 4-3-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 1-2000, f. & cert. ef. 2-2-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 2-1999, f. & cert. ef. 4-14-99 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 3-1995, f. & cert. ef. 11-16-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 5-1995, f. & cert. ef. 11-30-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 2-1992, f. & cert. ef. 8-28-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 1-1992(Temp), f. & cert. ef. 3-4-92 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ Reverted to EFSC 13, f. & ef. 6-11-76 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 2-1991(Temp), f. & cert. ef. 6-5-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 13, f. & ef. 6-11-76 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,502 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Self-Sufficiency Programs - Chapter 461 
+ 
+ 
+ 
+ 
+ Division 165 ISSUING BENEFITS 
+ 461-165-0230 
+ Replacing REF, SNAP, and TANF Program Benefits and EBT Cards
+ 
+ 
+ (1) The Department does not replace Refugee Assistance (REF), Supplemental Nutrition Assistance Program (SNAP), or Temporary Assistance for Needy Families (TANF) program benefits after they are delivered to the electronic benefit transfer (EBT) account unless one of the provisions in this rule apply. 
+
+ (2) The Department shall replace REF, SNAP, or TANF benefits when the Department failed to cancel the EBT card of an individual leaving a REF, SNAP, or TANF program household and that individual continues to access the REF, SNAP, or TANF program benefits in subsequent months. 
+
+ (3) For the purposes of this rule, electronic benefit theft includes the following defined terms: 
+
+ (a) “Card skimming” is defined as EBT card information stolen utilizing a store’s card-swiping machine. 
+
+ (b) “Card cloning” is defined as the use of information obtained by “card skimming” to create a fake EBT card for fraudulent use. 
+
+ (c) “Another similar fraudulent method” is defined as EBT card information compromised through electronic means. This may include but is not limited to scams such as text, email and telephone. It does not include the theft or unauthorized use of an individual’s physical EBT card. 
+
+ (4) In the SNAP program, 
+
+ (a) Household Misfortune or Disaster . The Department will replace the value of food purchased with SNAP program benefits when paragraphs (A) through (D) of this subsection are true. The replacement is limited and issued under paragraph (E) of this subsection. 
+
+ (A) The food was destroyed by a household misfortune or disaster. 
+
+ (B) The household misfortune or disaster is verified. 
+
+ (C) The filing group (see OAR 461-110-0370) reports the loss of food: 
+
+ (i) Within ten days of occurrence, or 
+
+ (ii) By the deadline permitted through Food and Nutrition Service waiver. 
+
+ (D) The filing group submits both of the following within ten days of reporting the loss: 
+
+ (i) The estimated cost of the food. 
+
+ (ii) A signed statement or affidavit attesting to the loss. 
+
+ (E) The replacement of destroyed food is governed as follows: 
+
+ (i) The amount may not exceed one month’s allotment of the benefit group (see OAR 461-110-0750), unless the issuance includes restored benefits which will be replaced up to the full value of the restored benefits. 
+
+ (ii) The Department will issue a timely replacement of the value of the loss by the later of these two timeframes: 
+
+ (I) Within ten days after the filing group reported the loss; or 
+
+ (II) Within two working days of receiving the signed statement or affidavit, the estimated cost of food destroyed, and verification of the household misfortune or disaster. 
+
+ (b) EBT Card-Caused Loss . The Department shall replace the amount of SNAP program benefits stolen or compromised (see paragraph (A) of this subsection) by means other than electronic benefit theft (see subsection (3)(c) of this section) when paragraph (B) of this subsection occurs. The replacement is limited and issued under paragraph (C) of this subsection. 
+
+ (A) For the purposes of this subsection, compromised means the EBT card or the EBT card number has been used by an unauthorized individual to withdraw or spend the SNAP benefits of the filing group . 
+
+ (B) The loss of SNAP benefits must be caused by one of the following reasons: 
+
+ (i) The Department issued the EBT card to an unauthorized individual who was not in the filing group . 
+
+ (ii) The Department failed to cancel the EBT card after the filing group reported to the Department it had been lost, stolen, or compromised. 
+
+ (C) The replacement of lost SNAP benefits is governed as follows: 
+
+ (i) When the loss is caused under subparagraph (B) (i) of this subsection, the Department will replace all SNAP benefits compromised. 
+
+ (ii) When the loss is caused under subparagraph (B) (ii) of this subsection, the Department will only replace the additional SNAP benefits compromised after the filing group reported to the Department the EBT card had been lost, stolen, or compromised. 
+
+ (iii) The Department will issue a timely replacement of the value of the loss within ten days after the filing group reported the loss. 
+
+ (c) Electronic Benefit Theft . Effective May 22, 2023, through September 30, 2025, the Department shall replace the value of SNAP program benefits lost due to electronic benefit theft when paragraph (A) occurs. The replacement is limited and issued under paragraph (B) of this subsection. 
+
+ (A) All of the following must occur: 
+
+ (i) The filing group reports to the Department that SNAP benefits have been lost due to electronic benefit theft due to card skimming , card cloning , or another similar fraudulent method. 
+
+ (ii) The electronic benefit theft occurred from October 1, 2022, through December 20, 2024. 
+
+ (iii) The theft is reported to the Department within thirty days of the date the electronic benefit theft is discovered. 
+
+ (iv) The filing group submits a signed statement or affidavit attesting to the electronic benefit theft within ten days of reporting the theft to the Department. The signed statement or affidavit must include all of the following: 
+
+ (I) The date they discovered the electronic benefit theft. 
+
+ (II) The total amount of benefits lost due to the electronic benefit theft. 
+
+ (III) Which EBT card transactions were electronic benefit theft. 
+
+ (IV) If their physical EBT card was in their possession on the date of each electronic benefit theft transaction. 
+
+ (v) The Department has validated the filing group’s electronic benefit claim through the EBT card transaction history. 
+
+ (B) The replacement of SNAP benefits lost due to electronic benefit theft is limited and governed as follows: 
+
+ (i) Replacement issuances are limited to the lesser of the following: 
+
+ (I) The amount of SNAP benefits reported and qualifying as stolen under paragraph (B) of this subsection. 
+
+ (II) Two times the monthly allotment of the benefit group immediately prior to the date of the first electronic benefit theft transaction. 
+
+ (ii) A filing group shall only receive replacements for two instances of electronic benefit theft in each federal fiscal year (FFY), even if an occurrence of electronic theft crosses two FFYs. Each FFY begins October 1 and ends September 30. When electronic benefit theft occurs over the course of several transactions and several days, this is considered one incident. 
+
+ (iii) The Department will issue a timely replacement of SNAP benefits by the later of these two timeframes: 
+
+ (I) Within ten days after the filing group reported the electronic benefit theft, or 
+
+ (II) Within two working days of receiving the signed statement or affidavit that includes all required information. 
+
+ (iv) As permitted through the Consolidated Appropriations Act (Omnibus) of 2023 and allowed by the Food and Nutrition Service. 
+
+ (5) In the REF and TANF programs, when a household is a victim of card skimming, card cloning, or  another similar fraudulent method  that causes a loss in benefits, or when the Department issues an EBT card in error to an individual that is not associated with the case that causes a loss in benefits -- 
+
+ (a) A benefit replacement request must meet all of the following for lost benefits to be replaced: 
+
+ (A) The household must report to the Department they are the victim of card skimming ,  card cloing,  or  another similar fruadulent method , or that the Department issued an EBT card in error, within 30 days of occurrence. 
+
+ (B) The household must submit a signed statement or affidavit attesting to the loss of benefits within ten days of reporting the loss. 
+
+ (b) When the provisions in subsection (a) of this section are met, 
+
+ (A) The Department will replace up to the amount of benefits lost. 
+
+ (B) The Department will issue a timely replacement of the value of the loss by the later of these two timeframes: 
+
+ (i) Within ten days after the group reported the loss; or 
+
+ (ii) Within two working days of receiving the signed statement or affidavit. 
+
+ (C) Benefits may be replaced only once in a calendar month. 
+
+ (6) The Department will replace an EBT card reported lost, stolen, or not received only after the current card has been deactivated. An EBT card that is damaged or not functioning properly is replaced only after the card's status is changed to "card damaged" and the card is destroyed. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 409.050, ORS 409.010, 411.060, 411.816 & Public Law 117-328 
+ 
+ 
+ Statutes/Other Implemented:  ORS 409.010, 411.060, 411.816, 7 CFR 280.1, Public Law 117-328, Public Law 118-83 & Public Law 118-158 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 20-2025, amend filed 09/29/2025, effective 10/01/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 3-2025, amend filed 03/25/2025, effective 04/01/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 29-2024, amend filed 03/26/2024, effective 04/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 47-2023, amend filed 09/25/2023, effective 10/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 25-2023, temporary amend filed 07/13/2023, effective 07/15/2023 through 11/17/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 59-2022, amend filed 12/27/2022, effective 01/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 33-2021, amend filed 06/22/2021, effective 07/01/2021 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 24-2021, temporary amend filed 02/26/2021, effective 02/26/2021 through 08/24/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 35-2018, amend filed 12/04/2018, effective 01/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 38-2009, f. 12-31-09, cert. ef. 1-1-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 10-2002, f. & cert. ef. 7-1-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 13-1997, f. 8-28-97, cert. ef. 9-1-97 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 6-1994, f. & cert. ef. 4-1-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 2-1992, f. 1-30-92, cert. ef. 2-1-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 13-1991, f. & cert. ef. 7-1-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 20-1990, f. 8-17-90, cert. ef. 9-1-90 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 80-1989, f. 12-21-89, cert. ef. 2-1-90 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

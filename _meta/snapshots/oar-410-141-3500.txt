@@ -1,0 +1,679 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 141 OREGON HEALTH PLAN 
+ 410-141-3500 
+ Definitions 
+ 
+ (1) The following definitions apply with respect to OAR chapter 410, division 141. The Oregon Health Authority (Authority) also incorporates the definitions in OAR 410-120-0000, 309-032-0860 for any terms not defined in this rule. 
+
+ (2) “Adjudication” means the act of a court or entity in authority when issuing an order, judgment, or decree, as in a final Managed Care Entity (MCE) claims decision or the Authority issuing a final hearings decision. For a final Managed Care Entity (MCE) claims decision, the date of “Adjudication” is the date on which an MCE has both (a) processed and (b) either paid or denied a Member’s claim for services. 
+
+ (3) “Aging and People with Disabilities (APD)” means the division in the Oregon Department of Human Services (ODHS) that administers programs for seniors and people with disabilities, as set forth in OAR 410-120-0000. 
+
+ (4) “Area Agency on Aging (AAA)” means the designated entity with which the ODHS contracts in planning and providing services to elderly populations, as set forth in OAR 410-120-0000. 
+
+ (5) “The Authority” means the Oregon Health Authority (OHA). 
+
+ (6) “Alternate Format” means any alternate approach to presenting print information to an individual with a disability. The Americans with Disabilities Act (ADA) groups the standard alternate formats: braille, large (18 point) print, audio narration, oral presentation, and electronic file along with other aids and services for other disabilities, including sign language interpretation and sighted guide; Centers for Medicare and Medicaid Services (CMS) Section 1557 of the Affordable Care Act (ACA) outlines requirements for health plans and providers on alternative formats. 
+
+ (7) “Auxiliary Aids and Services” means services available to members as defined in 45 Code of Federal Regulations (CFR) Part 92. 
+
+ (8) “Behavioral Health” means mental health, mental illness, addiction disorders, and substance use disorders. 
+
+ (9) “Benefit Period” means a period of time shorter than the five-year contract term, for which specific terms and conditions in a contract between a coordinated care organization and the Authority are in effect. 
+
+ (10) “Business Day” means any day except Saturday, Sunday, or a legal holiday recognized by the State of Oregon. The word "day" not qualified as business day means calendar day. 
+
+ (11) “Capitated Services” means those covered services that a Managed Care Entity (MCE) agrees to provide for a capitation payment under contract with the Authority. 
+
+ (12) “Capitation Payment” means monthly prepayment to a Managed Care Entity (MCE) for capitated services to Managed Care Entity (MCE) members. 
+
+ (13) “Care Coordination” means the act and responsibility of CCOs to deliberately organize a Member’s overall benefits, services, care activities (e.g., assessments, case management, care planning) and information sharing among a member’s care team, according to the physical, developmental, behavioral, oral and social needs (including Health Related Social Needs and Social Determinants of Health and Equity) of the Member. Care Coordination requirements are described in OAR 410-141-3860, 410-141-3865, 410-141-3870, and in accordance with 42 CFR 438.208. 
+
+ (14) "Care Plan" means a document (digital or paper) that is developed for and in collaboration with the Member, their family, representatives or guardian, to the extent they desire or are able to participate, and in consultation with the Member’s providers, community supports and services, where applicable, to ensure continuity and coordination of a Member’s care according to their needs. Care Plan requirements are described in OAR 410-141-3865 and 410-141-3870. 
+
+ (15) “Care Profile” means the electronic health record a CCO develops and maintains for all members. The Care Profile is the platform that receives feeds from different data sources used to identify, track and manage a Member’s needs and risk level to direct the frequency of the CCOs outreach and Care Coordination activities/opportunities that shall be offered to the Member including, but not limited to, care management and appropriate Care Plans. Care Profile requirements are further described in OAR 410-141-3865 and OAR 410-141-3870. 
+
+ (16) “Care Setting Transitions” means a transition between different locations, settings or levels of care. 
+
+ (17) “Certificate of Authority” means the certificate issued by Department of Consumer and Business Services (DCBS) to a licensed health entity granting authority to transact insurance as a health insurance company or health care service contractor. 
+
+ (18) “Client” means an individual found eligible to receive Oregon Health Plan (OHP) health services, whether or not the individual is enrolled as an CCO member. 
+
+ (19) “Community Advisory Council (CAC)” means the CCO-convened council that meets regularly to ensure the CCO is addressing the health care needs of CCO members and the community consistent with ORS 414.572 and in accordance with criteria specified in ORS 414.575. CCOs shall seek an opportunity for tribal participation on CACs to bring nominee(s) to the attention of the CAC Selection Committee as follows: 
+
+ (a) In a Service Area where only one (1) federally recognized tribe exists, the CCO shall seek one (1) tribal representative to serve on the CAC; 
+
+ (b) In Service Areas where multiple federally recognized tribes exist, the CCO shall seek one (1) tribal representative from each tribe to serve on the CAC; and 
+
+ (c) In metropolitan Service Areas where no federally recognized tribe exists, CCOs shall solicit the Urban Indian Health Program for a representative to serve on the CAC. 
+
+ (20) “Community Benefit Initiatives” (CBI) means community-level interventions focused on improving population health and health care quality. 
+
+ (21) “Condition-Specific Program” and “Condition-Specific Facility” mean programs or facilities that treat a narrowly defined illness, disorder or condition, such as: 
+
+ (a) Behavioral and Mental Health conditions, Substance Use Disorder (SUD) or addiction, including but not limited to; 
+
+ (A) Alcohol; 
+
+ (B) Illicit Drugs; and 
+
+ (C) Gambling. 
+
+ (b) Physical Health conditions, including but not limited to: 
+
+ (A) Cancer; 
+
+ (B) Diabetes; 
+
+ (C) Bariatric Care. 
+
+ (c) Developmental Disabilities. 
+
+ (22) “Continuous Inpatient Stay" means an uninterrupted period of time that a patient spends as inpatient, regardless of whether there have been changes in assigned specialty or facility during the stay. This includes discharge transfer to another inpatient facility, in or out of state, such as another acute care hospital, acute care psychiatric hospital, skilled nursing facility, psychiatric residential treatment facility (PRTF) or other residential facility for inpatient care and services. 
+
+ (23) “Contract” means an agreement between the State of Oregon acting by and through The Authority and a Managed Care Entity (MCE) to provide health services to eligible members. 
+
+ (24) “Coordinated Care Organization (CCO)” means a corporation, governmental agency, public corporation, or other legal entity that is certified as meeting the criteria adopted by the Authority under ORS 414.572 to be accountable for care management and to provide integrated and coordinated health care for each of the organization’s members. 
+
+ (25) “Coordinated Care Organization Payment or CCO Payment” means the monthly payment to a Coordinated Care Organization (CCO) for services the CCO provides to members in accordance with the global budget. 
+
+ (26) “Coordinated Care Services” means a Managed Care Entity’s (MCE) fully integrated physical, developmental, behavioral, oral and social needs (including Health Related Social Needs and Social Determinants of Health and Equity) services. 
+
+ (27) “Corrective Action” or “Corrective Action Plan (CAP)” means an Authority-initiated request for a Managed Care Entity (MCE) or a Managed Care Entity (MCE)-initiated request for a subcontractor to develop and implement a time specific plan for the correction of identified areas of noncompliance. 
+
+ (28) “Culturally and Linguistically Responsive and Appropriate Services” means the provision of effective, equitable, understandable, and respectful quality care and services that are responsive to diverse cultural beliefs and practices, preferred languages, health literacy, and other communication needs. Culturally and Linguistically appropriate services are further defined in 42 CFR § 59.2. 
+
+ (29) “Delivery System Network (DSN)” means the entirety of those Participating Providers who: 
+
+ (a) Contracts with; or 
+
+ (b) Are employed by, a CCO for purposes of providing services to the Members of such CCO. “Provider Network” has the same meaning. 
+
+ (30) “Dental Subcontractor” has the meaning as provided for in 410-120-0000. 
+
+ (31) “Department” means the Oregon Department of Human Services (ODHS). 
+
+ (32) “Department of Consumer and Business Services (DCBS)” means Oregon’s business regulatory and consumer protection department. 
+
+ (33) “Disenrollment” means the act of removing a member from enrollment with an MCE. 
+
+ (34) "Diversity of the workforce" refers to the ethnic, racial, linguistic, gender, and social variation among members of the health professional workforce. It is generally understood that a more diverse workforce represents a greater opportunity for better quality health care service, due to the array of life experiences and empathy of a mix of providers that can be brought to the delivery of health care. 
+
+ (35) “Downstream Entity” means any party that enters into a written contract or other agreement with a CCO’s subcontractor pursuant to which such party performs one or more of the obligations of the Subcontractor under the subcontractor’s subcontract with the CCO. Regardless of the number of parties that are downstream from a CCO’s subcontractor, a party is deemed a “downstream entity” of a CCO subcontractor if such party is, pursuant to a written or oral contract or agreement, performing the obligations the subcontractor is required to perform on behalf of the CCO under its subcontract therewith. 
+
+ (36) “Encounter Data” means the information relating to the receipt of any item(s) or service(s) by an enrollee under a contract between a State and a Managed Care Entity (MCE) that is subject to the requirements of 42 CFR 438.242 and 42 CFR 438.818 and under OAR 410-141-3570 and related to services that were provided to Members regardless of whether the services provided: 
+
+ (a) Were covered services, non-covered services, or other Health-Related Social Needs services; or 
+
+ (b) Were not paid; or 
+
+ (c) Paid for on a Fee- For-Service or capitated basis; or 
+
+ (d) Were performed by a Participating Provider, Non-Participating Provider, Subcontractor, or Contractor; and 
+
+ (e) Were performed pursuant to Subcontractor agreement, special arrangement with a facility or program, or other arrangement. 
+
+ (37) “Enrollment” means the assignment of a member to a Managed Care Entity (MCE) for management and coordination of health services. 
+
+ (38) “Family Planning” means services that enable individuals to plan and space the number of their children and avoid unintended pregnancies. The Oregon Health Plan covers family planning services for clients of childbearing age, including minors who are considered to be sexually active. Family Planning services include: 
+
+ (a) Annual exams; 
+
+ (b) Contraceptive education and counseling to address reproductive health issues; 
+
+ (c) Prescription contraceptives (such as birth control pills, patches or rings); 
+
+ (d) IUDs and implantable contraceptives and the procedures requires to inserted remove them; 
+
+ (e) Injectable hormonal contraceptives (such as Depo-Provera); 
+
+ (f) Prescribed pharmaceutical supplies and devices (such as male and female condoms, diaphragms, cervical caps, and foams); 
+
+ (g) Laboratory tests including appropriate infectious disease and cancer screening; 
+
+ (h) Radiology services; 
+
+ (i) Medical and surgical procedures, including vasectomies, tubal ligations and abortions. 
+
+ (39) “Flexible Services” means non-covered services under Oregon’s Medicaid State Plan intended to improve care delivery and overall member and community health and well-being, as defined in OAR 410-141-3845. 
+
+ (40) “Global Budget” means the total amount of payment as established by the Authority to a CCO to deliver and manage health services for its members including providing access to and ensuring the quality of those services. 
+
+ (41) “Grievance System” means the overall system that includes: 
+
+ (a) Grievances to a Managed Care Entity (MCE) on matters other than adverse benefit determinations; 
+
+ (b) Appeals to a Managed Care Entity (MCE) on adverse benefit terminations; and 
+
+ (c) Contested case hearings through the Authority on adverse benefit determinations and other matters for which the member is given the right to a hearing by rule or statute. 
+
+ (42) “Health Literacy” means the degree to which individuals have the capacity to obtain, process, and understand basic health information needed to make appropriate health decisions regarding services needed to prevent or treat illness. 
+
+ (43) “Health Risk Assessment (HRA)” means a survey or questionnaire administered verbally, digitally or in writing, to collect information from a Member, their representative or guardian about key areas of the Member’s health, including their physical, developmental, behavioral, oral and social needs (including Health Related Social Needs and Social Determinants of Health and Equity). The HRA is intended to inform the coordination of services and supports that meet the Members individualized needs as described in OAR 410-141-3860, 410-141-3865 and 410-141-3870. 
+
+ (44) “Health System Transformation” means the vision established by the Oregon Health Policy Board for reforming health care in Oregon, including both the Oregon Integrated and Coordinated Health Care Delivery System and reforms that extend beyond the context of Oregon Health Plan (OHP). 
+
+ (45) “Home CCO” means the CCO enrollment situation that existed for a member prior to placement, including services received through Oregon Health Plan (OHP) fee-for-service, based on permanent residency. 
+
+ (46) “Indian” and/or “American Indian/Alaska Native (AI/AN)” means any individual defined at 25 USC 1603(13), 1603(28), or 1679(a), or who has been determined eligible as an Indian, under 42 CFR 136.12; or as defined under 42 CFR 438.14(a). 
+
+ (47) “Indian Health Care Provider (IHCP)” means a health care program operated by the Indian Health Service (IHS) or by an Indian Tribe, Tribal Organization, or Urban Indian Organization (otherwise known as an I/T/U) as those terms are defined in section 4 of the Indian Health Care Improvement Act (25 U.S.C. § 1603). 
+
+ (48) “In Lieu of Service” (ILOS) means a setting or service determined by the Authority to be a medically appropriate and cost-effective substitute for a Covered Services consistent with provisions in OAR 410-141-3820. The utilization and actual cost of an ILOS is included in developing the components of the Capitation Payment. In lieu of services must meet the requirements of 42 CFR 438.3(e)(2). 
+
+ (49) “Individual with Limited English Proficiency” means a person whose primary language for communication is not English and who has a limited ability to read, write, speak, or understand English. 
+
+ (50) “Institution for Mental Diseases (IMD)” means, as defined in 42 CFR § 435.1010, a hospital, nursing facility, or other institution of more than 16 beds that is primarily engaged in providing inpatient psychiatric services such as diagnosis, treatment, or care of individuals with mental diseases, including medical attention, nursing care, and related services. Its primary character is that of a facility established and maintained primarily for the care and treatment of individuals with mental diseases, whether or not it is licensed as such. 
+
+ (51) “Legal Holiday” means the days described in ORS 187.010 and 187.020. 
+
+ (52) “Licensed Health Entity” means a Managed Care Entity (MCE) that has a Certificate of Authority issued by DCBS as a health insurance company or health care service contractor. 
+
+ (53) “Local Mental Health Authority” means one of the following entities: 
+
+ (a) The board of county commissioners of one or more counties that establishes or operates a community mental health program; 
+
+ (b) The tribal council, in the case of a federally recognized tribe of Native Americans that elects to enter into an agreement to provide mental health services; or 
+
+ (c) A regional local mental health authority comprising two or more boards of county commissioners. 
+
+ (54) “Local Planning Committee” means a local planning committee for alcohol and drug prevention and treatment services appointed or designated by the county governing body under ORS 430.342. 
+
+ (55) “Managed Care Entity (MCE)” is a general term that means an entity that enters into one or more contracts with the Authority to provide services in a managed care delivery system, including but not limited to the following types of entities defined in and subject to 42 CFR Part 438: managed care organizations (MCOs), primary care case managers (PCCMs), prepaid ambulatory health plans (PAHPs), and prepaid inpatient health plans (PIHPs). A CCO is an MCE for its managed care contract(s) with the Authority, without regard to whether the contract(s) involves federal funds or state funds or both. 
+
+ (56) “Managed Care Organization (MCO)” is a specific term that means an MCE defined in 42 CFR Part 438. A CCO is an MCO for its managed care contract(s) subject to federal managed care requirements specified in 42 CFR Part 438. 
+
+ (57) “Material Change to Delivery System” means: 
+
+ (a) Any change to the CCO’s Delivery System Network (DSN) that may result in more than five (5) percent of either its total Members or its Members in a county changing the physical location(s) of where services are received; or 
+
+ (b) Any change to CCO’s DSN that may likely affect less than five (5) percent of its Members but involves a Provider or Provider group that is the sole provider specialty type within the overall Provider Network or is the sole provider specialty type with a practice within a county in the CCO’s service area; or 
+
+ (c) Any change in CCO’s overall operations that affects its ability to meet a required DSN standard including, but not limited to: termination or loss of a Provider or Provider group, or any change likely to affect more than five (5) percent of CCO’s total Members or Provider Network or both; or 
+
+ (d) Any combination of the above changes. 
+
+ (58) “Medicaid-Funded Long-Term Services and Supports (LTSS)” means all Medicaid funded services CMS defines as long-term services and supports, including both: 
+
+ (a) “Long-term Care,” the system through which the Department of Human Services provides a broad range of social and health services to eligible adults who are aged, blind, or have disabilities for extended periods of time. This includes nursing homes and behavioral health care outlined in OAR chapter 410, division 172 Medicaid Payment for Behavioral Health Services, including state psychiatric hospitals; 
+
+ (b) “Home and Community-Based Services,” the Medicaid services and supports provided under a CMS-approved waiver to avoid institutionalization as defined in OAR chapter 411, division 4 and defined as Home and Community-Based Services (HCBS) and as outlined in OAR chapter 410, division 172 Medicaid Payment for Behavioral Health Services. 
+
+ (59) “Member” has the meaning provided for in OAR 410-120-0000. 
+
+ (60) “Member Representative” means an individual who can make Oregon Health Plan (OHP)-related decisions for a member who is not able to make such decisions themselves. 
+
+ (61) “National Association of Insurance Commissioners (NAIC)” means the U.S. standard-setting and regulatory support organization created and governed by the chief insurance regulators from the 50 states, the District of Columbia, and five U.S. territories. 
+
+ (62) “Non-Participating Provider” means a provider that does not have a contractual relationship with an MCE and is not on their panel of providers. 
+
+ (63) “Ombudsperson Services” means patient advocacy services available through the Authority for clients who are concerned about access to, quality of, or limitations in the health services provided. 
+
+ (64) “Oral Health” has the meaning provided for in OAR 410-123-1060. 
+
+ (65) “Oregon Health Plan (OHP)” means Oregon’s Medicaid program or related state-funded health programs. Any OHP contract shall identify whether it concerns Oregon’s Medicaid program or a related state-funded health program, or both. 
+
+ (66) “Oregon Integrated and Coordinated Health Care Delivery System” means the set of state policies and actions that promote integrated care delivery by CCOs to OHP clients, pursuant to ORS 414.570. 
+
+ (67) “Participating Provider” means a provider that has a contractual relationship with an MCE. A Participating Provider is not a Subcontractor solely by virtue of a Participating Provider agreement with an MCE. “Network Provider” has the same meaning as Participating Provider. 
+
+ (68) “Patient-Centered Primary Care Home (PCPCH)” means a recognized clinic that takes a patient and family-centered approach to all aspects of care. PCPCHs work with the member and their health care team to improve and coordinate care and help to eliminate repetitive procedures. As defined in ORS 414.655, meets the standards pursuant to OAR 409-055-0040, and has been recognized through the process pursuant to OAR 409-055-0040 and means the definition as set forth in OAR 409-055-0010. 
+
+ (69) “Permanent Residency” means the county code-zip code combination of the physical residence in which the member/client lived, as found in the benefit source system, prior to placement and to which the member/client is expected to return to after placement ends. 
+
+ (70) “Plan Type” means the designation used by the Authority to identify which health care services covered by a client’s OHP Plus or equivalent benefit package are paid by a CCO, by the Authority’s fee-for-service program, or both. If a client does not have a plan type designation, then all of the client’s health care services are paid by the fee-for-service program. Regardless of plan type, some health care services are carved out from CCOs by contract or rule and are instead paid by the fee-for-service program. The plan type designations are as follows: 
+
+ (a) CCOA: Physical, dental, and behavioral health services are paid by the client’s CCO; 
+
+ (b) CCOB: Physical and behavioral health services are paid by the client’s CCO. Dental services are paid the fee-for-service program; 
+
+ (c) CCOE: Behavioral health services are paid by the client’s CCO. Physical health and dental services are paid by the fee-for-service program; 
+
+ (d) CCOF: Dental services are paid by the client’s CCO. Physical health and behavioral health services are paid by the fee-for-service program, except for individuals receiving dental services through the Compact of Free Association (COFA) Dental Program or the Veteran Dental Program defined in OAR chapter 410, division 120. Any reference to CCOF means the benefit package covers dental services only; and 
+
+ (e) CCOG: Dental and behavioral health services are paid by the client’s CCO. Physical health services are paid by the fee-for-service program. 
+
+ (71) “Post Hospital Extended Care Services” (PHECS). Consistent with 42 USC § 1395x(i), PHECS means extended care services furnished an individual after transfer from a hospital in which a member was an inpatient for not less than three (3) consecutive days before discharge from the hospital in connection with such transfer. For purposes of the preceding sentence, items and services shall be deemed to have been furnished to a member after transfer from a hospital, and the member shall be deemed to have been an inpatient in the hospital immediately before transfer there from, if the member is admitted to the skilled nursing facility: 
+
+ (a) Within thirty (30) days after discharge from such hospital; or 
+
+ (b) Within such time as it may be medically appropriate to begin an active course of treatment, in the case of an individual whose condition is such that skilled nursing facility care may not be medically appropriate within thirty (30) days after discharge from a hospital; and 
+
+ (c) An individual shall be deemed not to have been discharged from a skilled nursing facility if, within thirty (30) days after discharge therefrom, the member is admitted to such facility or any other skilled nursing facility. 
+
+ (72) “Potential Member” means an individual who meets the eligibility requirements to enroll in the Oregon Health Plan but has not yet enrolled with a specific MCE. 
+
+ (73) “Primary Care Provider (PCP)” means an enrolled medical assistance provider who has responsibility for supervising, coordinating, and providing initial and primary care within their scope of practice for identified clients. PCPs are health professionals who initiate referrals for care outside their scope of practice, consultations, and specialist care, and assure the continuity of medically appropriate client care. PCPs include: 
+
+ (a) The following provider types: physician, naturopath, nurse practitioner, physician associate or other health professional licensed or certified in this state, whose clinical practice is in the area of primary care; 
+
+ (b) A health care team or clinic certified by the Authority as a PCPCH as defined in OAR 409-055-0010 and OAR 410-120-0000. 
+
+ (74) “Provider” means an individual, facility, institution, corporate entity, or other organization that: 
+
+ (a) Is engaged in the delivery of services or items or ordering or referring for those services or items; or 
+
+ (b) Bills, obligates, and receives reimbursement from the Authority’s Health Services Division on behalf of a Provider, (and also termed a “Billing Provider”); and 
+
+ (c) Supplies health services or items (also termed a “Rendering Provider”). 
+
+ (75) “Readily Accessible” means electronic information and services that comply with the  World Wide Web Consortium (W3C) Web Content Accessibility Guidelines (WCAG) 2.2 Levels A and AA, and successor versions. This fulfills digital accessibility requirements under Section 504 of the Rehabilitation Act of 1973 and the Americans with Disabilities Act (ADA) Title II. 
+
+ (76) "Risk" in the context of Care Coordination is the combination of a Member's health needs based on their physical, development, behavioral, oral, and social health status (including Health Related Social Needs and Social Determinants of Health and Equity) that creates an increased chance of having a negative health outcome that could be prevented by effective Care Coordination that addresses those needs. 
+
+ (77) "Rising Risk" means health related circumstance changes or events a Member may experience as described in OAR 410-141-3865, that are likely to increase risk level or negatively impact their physical, developmental, behavioral, oral or social needs (including Health Related Social Needs and Social Determinants of Health and Equity) or wellbeing from a previously identified or existing level of risk. 
+
+ (78) "Risk Stratification" means the process by which CCOs employ continuous data feeds, analysis, application of appropriate clinical or practical subjectivity and other factors to score a members identified physical, behavioral, developmental, oral and social needs (including Health Related Social Needs and Social Determinants of Health and Equity) and assign an appropriate risk level. Risk Stratification informs the level at which the CCOs coordinated services and activities (e.g., assessments, appropriate care planning, referrals) are deployed to meet the Member's needs. 
+
+ (79) “Service Area” means the geographic area within which the MCE agreed under contract with the Authority to provide health services. 
+
+ (80) “Serious Emotional Disorder” (SED) means a subpopulation of individuals under age 21 who meet the following criteria: 
+
+ (a) An infant, child or youth, between the ages of birth to 21 years of age; and 
+
+ (b) Must meet criteria for diagnosis, functional impairment and duration: 
+
+ (A) Diagnosis: The infant, child or youth must have an emotional, socio-emotional, behavioral or mental disorder diagnosable under the DSM-5 or its ICD-10-CM equivalents, or subsequent revisions (with the exception of DSM “V” codes, substance use disorders and developmental disorders, unless they co-occur with another diagnosable serious emotional, behavioral, or mental disorder): 
+
+ (i) For children three (3) years of age or younger. The child or youth must have an emotional, socio-emotional, behavioral or mental disorder diagnosable under the Diagnostic Classification of Mental Health and Developmental Disorders of Infancy and Early Childhood-Revised (DC: 0-3R) (or subsequent revisions); 
+
+ (ii) For children four (4) years of age and older. The child or youth must have an emotional, socio-emotional, behavioral or mental disorder diagnosable under the Diagnostic Interview Schedule for Children (DISC) or DSM-5 or its ICD-10-CM equivalents, or subsequent revisions (with the exception of DSM “V” codes, substance use disorders and developmental disorders, unless they co-occur with another diagnosable serious emotional, behavioral, or mental disorder). 
+
+ (B) Functional impairment: An individual is unable to function in the family, school or community, or in a combination of these settings; or the level of functioning is such that the individual requires multi-agency intervention involving two or more community service agencies providing services in the areas of mental health, education, child welfare, juvenile justice, substance abuse, or primary health care; 
+
+ (C) Duration: The identified disorder and functional impairment must have been present for at least one (1) year or, on the basis of diagnosis, severity or multi-agency intervention, is expected to last more than one (1) year. 
+
+ (81) Social Determinants of Health and Equity (SDOH-E) has the meaning provided for in OAR 410-141-3735. 
+
+ (82) “Special Health Care Needs” has the meaning provided for in OAR 410-120-0000. 
+
+ (83) “Subcontract” means either: 
+
+ (a) A contract between a CCO and a subcontractor pursuant to which such subcontractor is obligated to perform certain work that is otherwise required to be performed by the CCO under its contract with the State; or 
+
+ (b) Is the infinitive form of the verb “to Subcontract”, i.e. the act of delegating or otherwise assigning to a Subcontractor certain work required to be performed by an MCE under its contract with the State. 
+
+ (84) "Subcontractor" means an individual or entity that has a contract with an MCE that relates directly or indirectly to the performance of the MCE's obligations under its contract with the State. A Participating Provider is not a Subcontractor solely by virtue of having entered into a Participating Provider agreement with an MCE. 
+
+ (85) “Transition of Care” applies to Medicaid members who are enrolled in a CCO (“the receiving CCO”) immediately after disenrollment from a “predecessor plan” which may be another CCO (including disenrollment resulting from termination of the predecessor CCO’s contract) or Medicaid fee-for-service (FFS). Transition of Care does not apply to a member who is ineligible for Medicaid or who has a gap in coverage following disenrollment from the predecessor plan. Meets the standards pursuant to OAR 410-141-3850.” 
+
+ (86) “Trauma Informed Approach” means approach undertaken by providers and healthcare or human services programs, organizations, or systems in providing mental health and substance use disorders treatment wherein there is a recognition and understanding of the signs and symptoms of trauma in, and the intensity of such trauma on, individuals, families, and others involved within a program, organization, or system and then takes into account those signs, symptoms, and their intensity and fully integrating that knowledge when implementing and providing potential paths for recovery from mental health or substance use disorders. The Trauma Informed Approach also means that providers and healthcare or human services programs, organizations, or systems and actively resist re-traumatization of the individuals being served within their respective entities. 
+
+ (87) “Temporary Placement” means, for purposes of this rule, hospital, institutional, and residential placement only, including those placements occurring inside or outside of the service area with the expectation to return to the Home CCO service area. 
+
+ (88) "Trauma-informed services" means those services provided using a Trauma Informed Approach. 
+
+ (89) “Treatment Plan” means a documented plan that describes the patient's condition and procedures that shall be needed, detailing the treatment to be provided and expected outcome and expected duration of the treatment prescribed by the health care professional. This therapeutic strategy shall be designed in collaboration with the member, the member’s family, or the member’s representative. 
+
+ (90) “Urban Indian Health Program” (UIHP) means an urban Indian organization as defined in section 1603 of Title 25 that has an IHS Title V contract as described in section 1653 of Title 25. 
+
+ (91) "Workforce diversity capacity" means the organization's ability to foster an environment where diversity is commonplace and enhances execution of the organization's objectives. It means creating a workplace where differences demographics and culture are valued, respected and used to increase organizational capacity. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042 & ORS 414.065 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.065 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 94-2025, amend filed 12/22/2025, effective 01/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 74-2025, amend filed 09/26/2025, effective 09/29/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 50-2025, amend filed 06/20/2025, effective 06/20/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 26-2025, minor correction filed 01/22/2025, effective 01/22/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 143-2024, amend filed 12/29/2024, effective 01/01/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 140-2024, amend filed 12/06/2024, effective 01/01/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 138-2024, amend filed 11/26/2024, effective 01/01/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 81-2024, minor correction filed 04/01/2024, effective 04/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 37-2024, amend filed 01/25/2024, effective 02/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 8-2023, minor correction filed 03/01/2023, effective 03/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 89-2022, amend filed 12/16/2022, effective 01/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 60-2022, amend filed 06/24/2022, effective 07/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 56-2021, amend filed 12/30/2021, effective 01/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 28-2021, amend filed 06/28/2021, effective 07/01/2021 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 55-2019, adopt filed 12/17/2019, effective 01/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

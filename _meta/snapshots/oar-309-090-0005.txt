@@ -1,0 +1,398 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Behavioral Health Services - Chapter 309 
+ 
+ 
+ 
+ 
+ Division 90 FORENSIC MENTAL HEALTH EVALUATORS AND EVALUATIONS 
+ 309-090-0005 
+ Definitions
+ 
+ 
+ (1) “Acuity of symptoms” means the intensity and severity of the defendant’s or youth’s psychiatric symptoms. 
+
+ (2) “Authority” means the Oregon Health Authority (OHA). 
+
+ (3) “Capacity” means that the defendant or youth is able to: 
+
+ (a) Understand the nature of the proceedings against the defendant or youth; 
+
+ (b) Assist and cooperate with the counsel of the defendant or youth; and 
+
+ (c) Participate in the defense of the defendant or youth. 
+
+ (4) “Community restoration services” means services and treatment necessary to safely allow a defendant to gain or regain fitness to proceed in the community, which may include supervision by pretrial services. 
+
+ (5) “Competence” or “competency” means the same as capacity. 
+
+ (6) “Conditional Certification” means a psychologist, psychiatrist, or a LCSW evaluator who has not been certified by the Authority under these rules but who has received a temporary conditional certification by a court to perform a forensic evaluation in a specific criminal or delinquency case.  
+
+ (7) “Court” means a criminal court or juvenile court in this state with jurisdiction over the defendant or youth. 
+
+ (8) “Criminal Responsibility” means: 
+
+ (a) A defendant who, as a result of a qualifying mental disorder at the time of engaging in the alleged criminal conduct, lacks the substantial capacity to either appreciate the criminality of their conduct or to conform their conduct to the requirements of law; or 
+
+ (b) A youth who, as a result of a qualifying mental disorder at the time the youth committed the act alleged in the petition, lacked the substantial capacity to either appreciate the nature and quality of the act or to conform the youth’s conduct to the requirements of law. 
+
+ (9) “Defendant” means a person who is tried as an adult in a court of criminal jurisdiction. 
+
+ (10) “Delinquency case” means any case involving a person who is under 18 years of age and who has committed an act that is a violation, or that if done by an adult would constitute a violation, of a law or ordinance of the United States or a state, county or city; and who is under the jurisdiction of the juvenile court. 
+
+ (11) “Division” means the Health Systems Division of the Authority. 
+
+ (12) “Evaluator” means a “certified evaluator” as defined by ORS 161.309. 
+
+ (13) “Fit to Proceed” or “Fitness to Proceed” means the same as having capacity. 
+
+ (14) “Forensic Evaluation” means that an evaluator assesses the defendant’s or youth’s fitness to proceed or criminal responsibility, completes a written evaluation, and submits it to the court or attorneys in a criminal or delinquency case.    
+
+ (15) “Full Certification” means a psychiatrist, licensed psychologist, or LCSW is certified by the Authority to perform forensic evaluations under these rules for the duration of 24 months. 
+
+ (16) “Guilty Except for Insanity” means that a Court has determined that a defendant lacks criminal responsibility. 
+
+ (17) “Hospital level of care” means that a defendant requires the type of care provided by an inpatient hospital in order to gain or regain fitness to proceed. 
+
+ (18) “Incapacitated” or “incapable” means that a defendant or youth is unable, as a result of a qualifying mental disorder, to: 
+
+ (a) Understand the nature of the proceedings against the defendant or youth; 
+
+ (b) Assist and cooperate with the counsel of the defendant or youth; or 
+
+ (c) Participate in the defense of the defendant or youth. 
+
+ (d) A youth cannot be found “incapacitated” solely because: 
+
+ (A) Of the age of the youth; 
+
+ (B) Of the current inability of the youth to remember the acts alleged in the petition; or 
+
+ (C) Evidence exists that the youth committed the acts alleged in the petition while the youth was under the influence of intoxicants or medication. 
+
+ (19) “Juvenile” means the same as a youth. 
+
+ (20) “Juvenile Certification” means an evaluator who has been certified by the Authority under these rules to complete forensic evaluations of youths related to their fitness to proceed and criminal responsibility, or related only to their fitness to proceed in the case of LCSWs.. 
+
+ (21) “Licensed Clinical Social Worker (LCSW)” means a regulated social worker licensed with the Oregon Board of Licensed Social Workers pursuant to ORS 675.530. 
+
+ (22) “Licensed Psychologist” means a psychologist licensed pursuant to ORS 675.010 through 675.150 by the Oregon Board of Psychologist Examiners. 
+
+ (23) “Oregon Forensic Evaluator Training Program” means a training program, approved by the Authority, for psychiatrists, licensed psychologists, and LCSWs related to the best practices and requirements for forensic evaluations performed under these rules. 
+
+ (24) “Psychiatrist” means a physician licensed by the Oregon Medical Board pursuant to ORS 677.010 through 677.450 and who has completed an approved residency training program in psychiatry. 
+
+ (25) "Qualifying Mental Disorder" (formerly "Mental disease or defect") means: 
+
+ (a) A developmental or intellectual disability, traumatic brain injury, brain damage or other biological dysfunction that is associated with distress or disability causing symptoms or impairment in at least one important area of the defendant’s or youth’s functioning and is defined in the current Diagnostic and Statistical Manual of Mental Disorders (DSM 5-TR) of the American Psychiatric Association; or 
+
+ (b) Any diagnosis of a psychiatric condition which is a significant behavioral or psychological syndrome or pattern that is associated with distress or disability causing symptoms or impairment in at least one important area of the defendant’s or youth’s functioning and is defined in the Diagnostic and Statistical Manual of Mental Disorders (DSM 5-TR) of the American Psychiatric Association. 
+
+ (c) “Qualifying Mental Disorder" does not include: 
+
+ (A) A diagnosis solely constituting the ingestion of substances (e.g., chemicals or alcohol), including but not limited to transitory, episodic alcohol or drug-induced psychosis; 
+
+ (B) An abnormality manifested solely by repeated criminal or otherwise antisocial conduct; 
+
+ (C) An abnormality constituting a personality disorder; or 
+
+ (D) Constituting solely a conduct disorder for a youth. 
+
+ (26) “Redacted Forensic Evaluation” means a forensic evaluation report for which all identifying information of the client and evaluator has been removed. Specific information that should be redacted includes any information which may specifically identify the defendant or youth, name and discipline of the evaluator, address, phone, fax or logos that may identify the evaluator, qualifications of the evaluator that may identify the evaluator. 
+
+ (27) “Regulated Social Worker” means a baccalaureate social worker registered under ORS 675.532, a master’s social worker licensed under ORS 675.533, a clinical social work associate certified under ORS 675.537 or a clinical social worker licensed under ORS 675.530. 
+
+ (28) “Responsible Except for Insanity” means that a Court has determined that a youth lacks criminal responsibility. 
+
+ (29) “Serious mental condition” means the youth’s mental condition requires supervision and treatment services for the safety of others and is: 
+
+ (a) A mental illness of major depression; 
+
+ (b) A mental illness of bipolar disorder; or 
+
+ (c) A mental illness of psychotic disorder. 
+
+ (30) “Successful completion of training” means: 
+
+ (a) Attendance at the entire Oregon Forensic Evaluator Training Program; and 
+
+ (b) Passing the examination given at the conclusion of the training. 
+
+ (31) “Temporary Certification” means a psychiatrist, licensed psychologist, or LCSW is temporarily certified by the Authority to perform forensic evaluations as permitted under these rules for the duration of 12 months, with a possible extension of an additional three months.  Temporary Certification allows the evaluator time to complete their Forensic Evaluator Training and/or to submit their required redacted forensic evaluation reports to the Authority for Full Certification. 
+
+ (32) “Treatment team” means the clinical staff currently providing active psychiatric or psychological treatment to the defendant or youth, including but not limited to an attending psychiatrist, psychiatric mental health nurse practitioner, registered nurse, psychologist, social worker, mental health therapist, or treatment care plan specialist.  
+
+ (33) “Youth” means an individual who is under 18 years of age and who is alleged to have committed an act that is a violation, or, if done by an adult would constitute a violation, of a law or ordinance of the United States or a state, county, or city; and who is under the exclusive original jurisdiction of the juvenile court. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 161.392 & 419C.382 
+ 
+ 
+ Statutes/Other Implemented:  ORS 161.290-373, 419C.378-386, 161.392, 419C.411 & 419C.520-529 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BHS 5-2024, minor correction filed 03/21/2024, effective 03/21/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BHS 21-2021, amend filed 11/19/2021, effective 11/19/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BHS 14-2021, temporary amend filed 07/22/2021, effective 07/22/2021 through 01/17/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BHS 2-2020, amend filed 01/13/2020, effective 01/14/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BHS 18-2019, temporary amend filed 08/28/2019, effective 08/30/2019 through 02/24/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ MHS 4-2016, f. & cert. ef. 5-3-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ MHS 14-2014, f. & cert. ef. 10-29-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ MHS 16-2012, f. & cert. ef. 12-26-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ MHS 13-2012, f. & cert. ef. 6-25-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ MHS 12-2011(Temp), f. 12-21-11, cert. ef. 1-1-12 thru 6-27-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

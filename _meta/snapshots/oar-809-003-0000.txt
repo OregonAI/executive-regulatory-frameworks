@@ -1,0 +1,380 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Board of Geologist Examiners 
+ Chapter 809 
+ 
+ 
+ 
+ 
+ 
+ Division 3 DEFINITIONS 
+ 809-003-0000 
+ Definitions
+ 
+ 
+ The definitions of terms used in ORS 672.505 to 672.991, and the rules of this OAR chapter 809, are: 
+
+ (1) "ASBOG": National Association of State Boards of Geology; an organization of state boards that regulate the public practice of geology and which prepares the national standardized competency examination for candidates seeking registration as professional geologists. 
+
+ (2) "Candidate": An individual who has applied to the Board for approval to take an examination or who has been approved by the Board to take an examination. 
+
+ (3) "Deceit": An attempt to portray as true or valid something that is untrue or invalid. 
+
+ (4) "Equivalent": 45 quarter hours equals 30 semester hours, using the ratio of 1.5 quarter hours to 1 semester hour. 
+
+ (5) "Expert Opinion": An opinion tendered to a court, commission, hearings officer, or other tribunal which is considered to be expert testimony by virtue of the professional experience, training, and registration and certification of the geologist tendering the opinion. 
+
+ (6) "Falsely Impersonate": To assume without authority or with fraudulent intent the identity of another person. 
+
+ (7) "False or Forged Evidence": Untrue documents purporting to be proof, or falsely and fraudulently altered proof. 
+
+ (8) "Felony": A crime declared a felony by statute because of the punishment imposed. 
+
+ (9) "Fraud": Intentional perversion of truth in order to induce another to part with something of value or to surrender a legal right. 
+
+ (10) "Geological Work": For purposes of ORS 672.505(11), “geological work” means the public practice of geology as defined at 672.505(7) or that would otherwise require registration or certification by the Board if not exempted under 672.525 or 672.535, regardless of whether the work is conducted in or outside of Oregon. 
+
+ (11) "Gross Negligence": Reckless and wanton disregard for exercising care and caution. 
+
+ (12) "Incompetence": Inadequacy or unsuitability for effective action. The Board shall consider incompetence in the practice of geology to include, but not be limited to instances where a geologist has been adjudicated mentally incompetent by the court; been engaged in conduct which shows a lack of ability or fitness to discharge the duties and responsibilities a geologist owes a client, employer, or the general public; or been engaged in conduct which shows a lack of knowledge, or inability, to apply the principles or skills of the profession. 
+
+ (13) "Misconduct": Violation of any state or federal rule or statute in the course of the practice of geology. 
+
+ (14) "National examination": national standardized competency examination for professional geologists prepared by ASBOG and comprised of a four-hour fundamental section and a four-hour practical section. 
+
+ (15) "Neglect of Duty": Lack of attention to the performance or services that arise from one's position. 
+
+ (16) "Negligence": Failure by a registrant to exercise the care, skill, and diligence demonstrated by a registrant under similar circumstances in the community in which the registrant practices. 
+
+ (17) "Official Transcript": Transcript certified by the accredited college or university and received by the Board under seal or the equivalent via mail delivery or from the accredited college or university or official transcript service by electronic delivery. 
+
+ (18) "Project": A contractually specified scope and amount of geologic work relating to a specific undertaking, such as, but not limited to, the geologic reconnaissance of an area, a geohydrologic study of an area, or an analysis of volcanic hazards from a volcano. 
+
+ (19) "Proprietary": Belonging to a client, employer or geologist. 
+
+ (20) "Public proceeding": as used in ORS 672.525(9) means a public forum where members of the public are invited to comment or testify or permitted to comment or testify. 
+
+ (21) "Reciprocity": When one state will issue a registration to a geologist because the geologist holds a registration in another state. 
+
+ (22) "Reinstatement of Registration": Process to bring a lapsed registration to active status. 
+
+ (23) "Related Geological Science": A course of study that includes at least 45 quarter hours or the equivalent, including 36 quarter hours or the equivalent, of upper division courses, in geological subjects. 
+
+ (24) "Renewal of Registration": Annual process to maintain the current status of a valid registration or certification. 
+
+ (25) "Responsible Charge": This means in responsible charge of work as defined in ORS 672.505(11) and under these rules. 
+
+ (26) "Seal": The term seal means the same thing as to stamp as used within OAR Chapter 809. 
+
+ (27) "Supervision of Geological Work": For purposes of ORS 672.505(11), “supervision” means oversight by an individual who is fully responsible, accountable and liable for the geological work and where the individual is: 
+
+ (a) Registered as a geologist in Oregon with the Board; 
+
+ (b) Certified as an engineering geologist in Oregon by the Board, where required pursuant to ORS 672.505(3) and 672.565; 
+
+ (c) Registered as a geologist or engineering geologist in another jurisdiction with licensing requirements comparable to Oregon; 
+
+ (d) In charge of the geological work in a situation that does not require registration with the Board or, if done outside of Oregon, with another geologist licensure board;. 
+
+ (e) A Board approved supervisor under OAR 809-030-0022. 
+
+ (28) "Threat to the Public Health, Welfare, or Property": A threat of geologic nature such as, but not limited to, induced or imminent instability of a slope, exacerbation of or continuation of a high rate of erosion, flood hazard or land subsidence, ongoing or potential contamination of underground or surface waters. Also a potential threat which would be induced by an action taken in ignorance of, or without regard to geologic conditions such as construction of residences or other structures intended for habitation in areas prone to landslides, mudflows, volcanic eruption, tsunamis, or earthquakes without proper mitigation measures, or construction of dams or other waterworks, bridges, power plants or other critical facilities without exhaustive investigation of potential geologic hazards and incorporation of approved mitigation measures into their design. 
+
+ (29) "Upper Division": Geology courses successfully completed at an accredited college or university and determined by the Board to be other than introductory-level courses. These courses will generally include those completed in the third and fourth year of a bachelor's degree program in the geologic sciences but may also include other courses taken at the undergraduate level. Graduate-level geology courses are considered upper division. 
+
+ (30) "Year of Study": For purposes of calculating a year of education credit for post-baccalaureate studies, 22.5 quarter hours or the equivalent of successfully completed graduate-level geology coursework. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 672.515, 672.545, 672.555, 672.565, 672.585, 672.595 & 672.605 
+ 
+ 
+ Statutes/Other Implemented:  ORS 672.505 - 672.705 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BGE 2-2023, amend filed 12/08/2023, effective 12/08/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BGE 1-2021, amend filed 03/09/2021, effective 03/10/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BGE 3-2019, amend filed 12/09/2019, effective 12/09/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BGE 1-2012, f. & cert. ef. 6-15-12 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BGE 3-2006, f. & cert. ef. 11-13-06 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ BGE 9-2004, f & cert. ef. 10-19-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ BGE 2-2002, f. & cert. ef. 4-15-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ BGE 2-1999, f. & cert. ef. 11-8-99 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ GE 1-1985, f. & ef. 7-1-85 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ GE 4-1984, f. & ef. 12-18-84 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ GE 3-1984, f. & ef. 12-4-84 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ GE 1-1984, f. & ef. 2-1-84 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

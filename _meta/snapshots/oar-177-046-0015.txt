@@ -1,0 +1,362 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon State Lottery 
+ Chapter 177 
+ 
+ 
+ 
+ 
+ 
+ Division 46 LOTTERY GAMES GENERAL OPERATING RULES 
+ 177-046-0015 
+ Definitions
+ 
+ 
+ For purposes of divisions 10, 46, 50, 52, 69, 70, 75, 81, 83, 85, 92, 93, 94, 98, and 99, and if specifically cross-referenced in division 200, the following definitions apply, unless another definition is specifically provided or the context requires otherwise: 
+
+ (1) "Bonus" means free plays or similar promotional deposits, credits, or similar incentives that are credited to the player balance when the player meets any requirements that are applicable to the particular promotion. Each bonus may be subject to unique restrictions on use. Bonuses can be used to play Lottery games subject to limitations and restrictions, but bonuses have no cash value. 
+
+ (2) "Cash" means United States currency. 
+
+ (3) "Digitally" means an action done through a player account on the mobile app or site. 
+
+ (4) "Dormant" means a player account has had no login activity for at least 36 months. 
+
+ (5) "DraftKings Sportsbook" has the meaning given in OAR 177-093-0005 . 
+
+ (6) “Drawing” means the procedure whereby the Lottery, or a drawing agent, selects the winner or the winning combination in accordance with the rules of the game. 
+
+ (7) “Drawing agent” means a Lottery vendor or other designee who, subject to the approval of the Director, is designated by the Assistant Director of Security to conduct specified drawings on behalf of the Lottery. 
+
+ (8) “Electronic drawing” means any drawing that involves the use of a random number generator or other computer-driven or computer-assisted device to determine winners or winning combinations, and manual interaction is incidental to the selection process. 
+
+ (9) “Electronic drawing equipment” includes any computer-driven or computer-assisted device used by the Lottery, or a drawing agent, for the purpose of determining winners or winning combinations, including, but not limited to, devices used by the Lottery’s central gaming system for the Lottery’s Draw games, or for the Lottery’s periodic internet entry, raffle, second-chance drawings, or promotional games. 
+
+ (10) "Funds balance" means the amount of money in a player account including deposits and prizes (after required withholdings are successfully completed) but not bonuses. 
+
+ (11) "Highest Prize" means the highest level of prize according to the rules applicable to the game in which the prize is won, including, but not limited to, a Jackpot prize won in the Mega Millions game, a Grand Prize in the Megabucks game, or a High Tier prize in the Powerball game. 
+
+ (12) "In-game rules" has the meaning given in OAR 177-093-0005 . 
+
+ (13) "Lottery Branch" means Wilsonville Payment Center or such other office as the Director may designate. 
+
+ (14) "Lottery Headquarters" means the office of the Oregon State Lottery located at 500 Airport Road SE, Salem, Oregon 97301 that is responsible for processing prize claims and payments. 
+
+ (15) "Lottery Kiosk" means a location, other than Lottery Headquarters, designated by the Director as a Lottery Kiosk, where Lottery tickets or shares are sold directly to the public by Lottery employees. 
+
+ (16) "Mailing Address" means P.O. Box 14515, Salem, Oregon 97309. 
+
+ (17) “Manual drawing” means any drawing that does not involve the use of a random number generator or any other computer-driven or computer–assisted device to determine winners or winning combinations, and manual interaction is primary to the selection process. 
+
+ (18) “Manual equipment” includes any mechanical equipment or non-electronic method used by the Lottery, or a drawing agent, for the purpose of determining winners or winning combinations, including, but not limited, to Lottery’s periodic raffle games. 
+
+ (19) "Mobile app" means application software operated by the Lottery that is designed to operate on a mobile device or tablet through which a player can access their player account and play Lottery games. "Mobile app" includes the DraftKings Sportsbook mobile application through which players can play sports betting games. 
+
+ (20) "Payment Device" means an electronically loaded card or other device loaded with or representing Lottery prize winnings, which may include, but is not limited to a debit card with a corresponding player account. 
+
+ (21) "Person" means a natural person 18 years of age or older. 
+
+ (22) "Player account" means a digital gaming account that an individual 21 years of age or older opens as described in OAR 177-046-0022 that allows eligible players to play games digitally. A player account includes a personal DraftKings Sportsbook digital sports betting account as described in OAR chapter 177, division 93 . 
+
+ (23) "Player balance" means the amount available for the player to play games digitally. The player balance is a reflection of the funds balance plus any bonuses. 
+
+ (24) "Privacy policy" means a statement that discloses the type of personal information an entity may collect and how the entity will use, store, or disclose such information. Such disclosures, as amended from time to time, are provided to players online and are also available upon request from the Lottery. A privacy policy may be incorporated by reference into terms of use and terms and conditions that a player agrees to when creating a player account. 
+
+ (25) "Private express carrier" has the meaning given in ORS 293.660 . 
+
+ (26) “Random number generator” means a computer-driven electronic device capable of producing numbers at random. 
+
+ (27) "Site" means any website operated by the Lottery through which a player can access their player account and play Lottery games. "Site" includes https://sportsbook.draftkings.com/ where a player can access their player account and play sports betting games as described in OAR chapter 177, division 93 . 
+
+ (28) "Terms and conditions" means an agreement between an individual and the Lottery that sets out each party's rights and responsibilities regarding use of a Lottery-authorized mobile app and site and playing games and claiming prizes digitally. 
+
+ (29) "Terms of use" means an agreement between a player and a third party that sets out each party's rights and responsibilities. For example, but not limited to, an individual may agree to the DraftKings terms of use that set out each party's rights and responsibilities regarding the DraftKings Sportsbook player account, including funding the player account as described in OAR 177-046-0027 , and playing sports betting games on the mobile app or site. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  Or Const, Art XV, § 4(4)(a), ORS 461.120, 461.130, 461.150, 461.200, 461.210, 461.220, 461.230, 461.250 & 461.260 
+ 
+ 
+ Statutes/Other Implemented:  Or Const, Art XV, § 4(4), ORS 461.010, 461.020, 461.050, 461.100, 461.190, 461.400, ORS 461.120, 461.130, 461.150, 461.200, 461.210, 461.220, 461.230, 461.250 & 461.260 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LOTT 1-2024, amend filed 12/20/2024, effective 03/01/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LOTT 6-2022, amend filed 06/03/2022, effective 06/15/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LOTT 20-2021, temporary amend filed 12/17/2021, effective 12/17/2021 through 06/14/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LOTT 1-2020, amend filed 03/20/2020, effective 03/29/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LOTT 2-2019, temporary amend filed 10/01/2019, effective 10/01/2019 through 03/28/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LOTT 2-2018, amend filed 03/29/2018, effective 04/02/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LOTT 5-2017, temporary amend filed 10/09/2017, effective 10/09/2017 through 04/03/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ LOTT 2-2013, f. 6-24-13, cert. ef. 7-1-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ LOTT 1-2013(Temp), f. & cert. ef. 2-1-13 thru 7-27-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ LOTT 6-2009, f. 9-28-09, cert. ef. 10-1-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ LOTT 5-2008, f. 6-30-08, cert. ef. 7-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

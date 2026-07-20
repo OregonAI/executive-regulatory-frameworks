@@ -1,0 +1,248 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Workers' Compensation Division - Chapter 436 
+ 
+ 
+ 
+ 
+ Division 162 ELECTRONIC DATA INTERCHANGE; PROOF OF COVERAGE 
+ 436-162-0340 
+ Changes or Corrections 
+ 
+ (1) Changes or corrections to proof of coverage information must be submitted under the standards referenced in OAR 436-162-0004(1).  (2) To report changes or corrections of an insured employer's name or address, or other data elements, the insurer must transmit the appropriate transaction to specify what data is being changed or corrected.  (3) The insurer's policy number is used to assist in matching each transaction to the appropriate employer. When an insurer changes a policy number, the insurer must report that change prior to the next transaction submitted for that policy. Failure to report a change in the policy number will prevent future filings from being processed by the division's information processing system and the insurer will receive a Transaction Rejected acknowledgement.  (4) To add or delete coverage for corporate officers, members of a limited liability company, partners, sole proprietors, or other nonsubject workers, the insurer must file the appropriate “include” or “exclude” endorsement transaction to the associated policy filing. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 656.264, 656.419, 656.423, 656.427 & 656.726(4) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 656. 419, 656.423 & 656.427 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 12-2014, f. 11-13-14, cert. ef. 4-1-15 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 436-160-0340, WCD 7-2010, f. 10-1-10, cert. ef. 1-1-11 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 3-2009, f. 12-1-09, cert. ef. 1-1-10 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 4-2008, f. 9-17-08, cert. ef. 7-1-09 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 1-2008, f. 6-13-08, cert. ef. 7-1-08 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 12-2003, f. 12-4-03, cert. ef. 1-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 3-2003, f. 3-18-03, cert. ef. 4-1-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

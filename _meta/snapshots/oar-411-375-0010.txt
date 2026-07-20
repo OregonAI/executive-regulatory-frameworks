@@ -1,0 +1,405 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Aging and People with Disabilities and Developmental Disabilities - Chapter 411 
+ 
+ 
+ 
+ 
+ Division 375 INDEPENDENT PROVIDERS DELIVERING DEVELOPMENTAL DISABILITIES SERVICES 
+ 411-375-0010 
+ Definitions and Acronyms 
+ 
+ In addition to the following definitions, OAR 411-317-0000 includes general definitions for words and terms frequently used in OAR chapter 411, division 375. If a word or term is defined differently in OAR 411-317-0000, the definition in this rule applies. 
+
+ (1) "Active Provider Number" means an identifying number issued by the Department to an independent provider who has completed the qualification and enrollment conditions described in OAR 411-375-0020. An active provider number is a provider number not currently in inactivated or terminated status. 
+
+ (2) "ADL" means "activities of daily living". 
+
+ (3) "Base Pay Rate" means the hourly wage to be paid to personal support workers, without any differentials, established in the Collective Bargaining Agreement. 
+
+ (4) "Behaviorally-Driven Services and Supports" means the behavioral treatments an individual requires in addition to routine assessed ADL and IADL supports as identified in a functional needs assessment. 
+
+ (5) "Burden of Proof" means the existence or nonexistence of a fact is established by a preponderance of the evidence. 
+
+ (6) "CDDP" means "Community Developmental Disabilities Program". 
+
+ (7) "CIIS" means "Children's Intensive In-Home Services". 
+
+ (8) "Collective Bargaining Agreement" means the ratified agreement between the Home Care Commission and the Service Employees International Union, Local 503, Oregon Public Employees Union regarding wages, hours, rules, and working conditions for personal support workers. 
+
+ (9) "Common Law Employer" means the employer of record (EOR) responsible for the duties described in OAR 411-375-0055. 
+
+ (10) "Community Transportation" means the non-medical transportation provided to an individual. "Community Transportation" is further defined in OAR 411-435-0020 and described in OAR 411-435-0050. 
+
+ (11) "Confidentiality" means the conditions for use and disclosure of specific information governed by other laws and rules including, but not limited to, OAR 407-014-0000 to 407-014-0070. 
+
+ (12) "Department Funds" means state public funds or Medicaid funds used to purchase developmental disabilities services and supports for individuals enrolled in developmental disabilities services. 
+
+ (13) "Electronic Visit Verification" means an interface for eXPRS that records the service recipient, start time, end time, and geolocation for a service delivered by a personal support worker in real time. 
+
+ (14) "Enhanced Personal Support Worker" means a personal support worker certified by the Home Care Commission to deliver services to individuals who require advanced medically-driven services and supports or behaviorally-driven services and supports, as identified in a functional needs assessment. 
+
+ (15) "Evidence" means the testimony, writings, material objects, or other things presented to the senses, offered to prove the existence or nonexistence of a fact. 
+
+ (16) "Exceptional Personal Support Worker" means a personal support worker certified by the Home Care Commission to deliver services to individuals who require extensive medically-driven services and supports or behaviorally-driven services and supports, as identified in a functional needs assessment and whose service needs also require staff to be awake more than 20 hours in a 24-hour period. 
+
+ (17) "eXPRS" means "Express Payment and Reporting System". eXPRS is the information system used by the Department to track and document service delivery of claims funded by the Department. 
+
+ (18) "FICA" means "Federal Insurance Contributions Act". 
+
+ (19) "Fiscal Improprieties" means financial misconduct involving the money, property, or benefits of an individual. 
+
+ (a) Fiscal improprieties include, but are not limited to, financial exploitation, borrowing money from an individual, taking property or money from an individual, having an individual purchase items for the independent provider, forging the signature of an individual, falsifying payment records, claiming payment for hours not worked, claiming payment for hours not prior authorized, claiming payment for hours that exceed limitations, or similar acts intentionally committed for financial gain. 
+
+ (b) Fiscal improprieties do not include the exchange of money, gifts, or property between a personal support worker and an individual with whom the personal support worker is related unless an allegation of financial exploitation, as defined in OAR 411-020-0002 or ORS 430.735, has been substantiated based on an adult protective services investigation. 
+
+ (20) "Fiscal Intermediary" means a person or entity that receives and distributes Department funds on behalf of an individual who employs or contracts with a personal support worker to deliver services. 
+
+ (21) "IADL" means "instrumental activities of daily living". 
+
+ (22) "Imminent Danger" means there is reasonable cause to believe the life or physical, emotional, or financial well-being of an individual is in danger if no intervention is immediately initiated. 
+
+ (23) "Inactivation" means an independent provider has a Department issued provider number that has been inactivated in accordance with OAR 411-375-0070. 
+
+ (24) "Independent Provider" means a personal support worker, a person who is paid as a contractor, or a self-employed person. An agency or the employee of an agency is not an independent provider. 
+
+ (25) "ISP" means "Individual Support Plan". 
+
+ (26) "Lack of Skills, Knowledge, or Ability to Adequately or Safely Provide Services" means an independent provider does not possess the physical, mental, or emotional skills or abilities necessary to deliver services and the lack of skills or abilities puts an individual at risk because the independent provider fails to perform, or learn to perform, the duties needed to adequately meet the needs of the individual. 
+
+ (27) "Medically-Driven Services and Supports" means the medical treatments an individual requires in addition to routine assessed ADL and IADL supports as identified in a functional needs assessment. 
+
+ (28) "Non-Motorized Transportation" means traveling on foot, riding a bicycle, traveling in a wheelchair or scooter, or other similar means of transportation. 
+
+ (29) "ODDS" means the Department of Human Services, Office of Developmental Disabilities Services. 
+
+ (30) "Office of Administrative Hearings" means the office described in ORS 183.605 established within the Employment Department to conduct contested case proceedings on behalf of designated state agencies. 
+
+ (31) "Personal Support Worker": 
+
+ (a) Means a person: 
+
+ (A) Who has a Medicaid provider number. 
+
+ (B) Who is hired or selected by an individual, their designated common law employer, or proxy. 
+
+ (C) Who receives money from the Department for the purpose of delivering services to the individual in the home or community of the individual. 
+
+ (D) Whose compensation for providing services is provided in whole or in part through the Department. 
+
+ (b) This definition of personal support worker is intended to be interpreted consistently with ORS 410.600. 
+
+ (32) "Preponderance of the Evidence" in a contested case hearing means, the evidence of one party is more convincing than the evidence of the other party. 
+
+ (33) "Protective Service and Abuse Rules" means any of the rules described in: 
+
+ (a) OAR chapter 411, division 020. 
+
+ (b) OAR chapter 419, division 100. 
+
+ (c) OAR chapter 413, division 015. 
+
+ (d) OAR chapter 943, division 045. 
+
+ (34) "Proxy" means the common law employer proxy. The common law employer proxy is the person delegated specific tasks to assist a common law employer in the duties described in OAR 411-375-0055. 
+
+ (35) "Provider Enrollment" means the process for enrolling an independent provider for the purpose of receiving payment for authorized services delivered to an individual. Provider enrollment includes the completion and submission of a Provider Enrollment Agreement before receiving a provider number. 
+
+ (36) "Provider Number" means the identifying number issued to each qualified independent provider enrolled through the Department as a provider. 
+
+ (37) "Restricted Personal Support Worker" means the Department, or the designee of the Department, has placed restrictions on the provider enrollment of a personal support worker as described in OAR 411-375-0020. 
+
+ (38) "Termination" means an independent provider has a Department issued provider number that has been terminated in accordance with OAR 411-375-0070. 
+
+ (39) "Travel Directly" means the travel time for a personal support worker from one worksite to another worksite is not interrupted for any of the following reasons: 
+
+ (a) Eat a meal. 
+
+ (b) Purchase fuel for the vehicle being used for the travel. 
+
+ (c) Use a restroom. 
+
+ (d) Change buses, trains, or other modes of public transit. 
+
+ (40) "These Rules" mean the rules in OAR chapter 411, division 375. 
+
+ (41) "Violation of Protective Service and Abuse Rules" means a substantiated allegation of abuse or finding of abuse under the protective service and abuse rules or the violation of reporting or other requirements in the protective service and abuse rules. 
+
+ (42) "Workday" means 12:00 AM through 11:59 PM. 
+
+ (43) "Worksite" means the physical location where a personal support worker is authorized to deliver services to an individual. A worksite may be the home of an individual, the community of the individual, or a home and community-based setting. 
+
+ (44) "Workweek" means 12:00 AM Sunday through 11:59 PM Saturday. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 409.050 
+ 
+ 
+ Statutes/Other Implemented:  ORS 410.600, 410.606-410.619 & 427.007 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 52-2024, minor correction filed 07/19/2024, effective 07/19/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 38-2019, amend filed 10/29/2019, effective 11/01/2019 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 8-2019, amend filed 01/24/2019, effective 01/25/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 4-2017, f. 2-21-17, cert. ef. 2-28-17 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 33-2016(Temp), f. 8-30-16, cert. ef. 9-1-16 thru 2-27-17 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 29-2016, f. & cert. ef. 6-29-16 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 29-2015(Temp), f. 12-31-15, cert. ef. 1-1-16 thru 6-28-16 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 48-2014, f. 12-26-14, cert. ef. 12-28-14 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 30-2014(Temp), f. & cert. ef. 7-1-14 thru 12-28-14 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

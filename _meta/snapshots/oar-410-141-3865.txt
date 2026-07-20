@@ -1,0 +1,330 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 141 OREGON HEALTH PLAN 
+ 410-141-3865 
+ Care Coordination: Identification of Member Needs 
+ 
+ (1) In order to coordinate a Member’s services as described in this rule, OAR 410-141-3860 and OAR 410-141-3870, Coordinated Care Organizations (CCOs) must have mechanisms in place to identify the Member’s physical, developmental, behavioral, oral and social needs (including Health Related Social Needs (HRSN) and Social Determinants of Health and Equity (SDOH-E)), goals, and preferences of Members on an initial and ongoing basis. 
+
+ (2) CCOs must conduct an initial Health Risk Assessment (HRA), as defined in OAR 410-141-3500, with subsequent documented attempts as described in sub-paragraph (f) (A) of section (2) of this rule, within ninety (90) days of enrollment, or sooner if a Member’s health status requires, and must: 
+
+ (a) Conduct the HRA according to the evaluation checklist provided by the Oregon Health Authority (OHA) and available on the CCO Contract Forms page; 
+
+ (b) Make the HRA available to members, their representative or guardian orally, in writing, or online; 
+
+ (c) Document all attempts made to reach the Member in accordance with OAR 410-141-3520; 
+
+ (d) Review and document a Member’s HRA in their Care Profile or the member’s general health care record, if applicable, in accordance with OAR 410-141-3870(4)(h); 
+
+ (e) Share with other entities and providers serving the member the results of any HRA to reduce duplication of those activities; and 
+
+ (f) When the Member, their representative or guardian has not returned or responded to the HRA, the CCO must: 
+
+ (A) Follow up with the Member if additional information, or support with completion, is needed. This shall include; 
+
+ (i) Making a minimum of two (2) additional attempts to contact the Member to facilitate completion and identification of the Member’s needs; and 
+
+ (ii) The attempts to reach a Member shall utilize two (2) mixed modalities (e.g., paper, digital or verbal), , on different days and at different times; and 
+
+ (iii) Shall be in the Member’s preferred method of communication and language. Auxiliary Aids and Services and Alternate Formats must be made available upon request. 
+
+ (B) Use other available data sources, including but not limited to those identified in OAR 410-141-3860(8) and (3) of this rule, to identify sufficient information to assign a risk level to the Member; and 
+
+ (C) Ensure services are coordinated for members regardless of their participation in or completion of the HRA. 
+
+ (3) CCOs shall consider relevant information from a variety of sources to inform the development or update of a Member’s Care Profile, and/or Care Plan, if applicable, as described in OAR 410-141-3870(4) and (5). This includes, but is not limited to: 
+
+ (a) Progress notes from any entity involved in the Members care coordination team; 
+
+ (b) Any relevant assessments; 
+
+ (c) New medical diagnoses, courses of treatment, rising or emergent needs; 
+
+ (d) Social needs (including Health Related Social Needs (HRSN) and Social Determinants of Health and Equity (SDOH-E)) 
+
+ (e) Utilization of services as a result of claims review; 
+
+ (f) Information received from the Member, their representative or guardian or other involved providers or community supports. 
+
+ (g) Change in health-related circumstances which is defined as, but not limited to, any of the following occurrences: 
+
+ (A) Hospital ER visits, hospital admissions or discharges (including Institutions for Mental Disease); 
+
+ (B) Crisis Services (i.e., Mobile Crisis response, Mobile Response and Stabilization Services); 
+
+ (C) High-Risk Pregnancy diagnosis; 
+
+ (D) Newly diagnosed or significant change to a Chronic disease or condition ; 
+
+ (E) Newly diagnosed or significant change to a Behavioral health diagnosis or condition; 
+
+ (F) Newly diagnosed or significant change to an Intellectual/Developmental Disability (I/DD) diagnosis; 
+
+ (G) Event that poses a significant risk to the Member that is likely to occur, reoccur or escalate without intervention; 
+
+ (H) Recent homelessness, or at risk for homelessness or non-placement; 
+
+ (I) Two or more billable primary ICD-10 Z code diagnoses within one (1) month resulting in a change in health status and/or risk level; 
+
+ (J) Two or more caregiver placements within past six (6) months; 
+
+ (K) Discharge from carceral settings (i.e., state or federal prisons, local correctional facilities, juvenile detention facilities or Tribal correctional facilities), back to the community or another residential or care setting; 
+
+ (L) Admit to or discharge from a residential or long-term care setting back to the community or another care setting; 
+
+ (M) Exit from Condition Specific Program or Facility as defined in OAR 410-141-3500; 
+
+ (N) Enrollment or disenrollment in other service programs such as Long-Term Services and Supports (LTSS), Intellectual/Developmental Disability (I/DD) services or Children’s Intensive In-home services; 
+
+ (O) Orders for Home Health or Hospice services; 
+
+ (P) Newly identified or change to an identified Health Related Social Need (HRSN); 
+
+ (Q) An identified gap in network adequacy that leaves the Member without a needed service or care; 
+
+ (R) Life span developmental transitions such as a transition from pediatric to adult health care; 
+
+ (S) Entry into, discharge from , instability, or placement disruption while in foster care. 
+
+ (4) CCOs must implement mechanisms, including but not limited to the HRA and any additional relevant assessments described above, to identify the risk level and needs for: 
+
+ (a) Members with Special Health Care Needs (SHCN) as defined in OAR 410-120-0000and 
+
+ (b) Members requiring Medicaid Funded Long Term Services and Supports (LTSS) as defined in OAR 410-141-3500. 
+
+ (5) If at any time the Member is identified as potentially eligible for, or requiring LTSS, or having a Special Health Care Need, the CCO must also ensure those members are comprehensively assessed, per 42 CFR 438.208(c)(2), as soon as their health condition requires, to identify those members who have an ongoing special condition that requires either a course of treatment or regular care monitoring. 
+
+ (6) CCOs must ensure appropriate and prompt referral of Members identified in (5) of this rule to the Oregon Department of Human Services (ODHS), including Aging and People with Disability (APD) programs, the Office of Developmental Disabilities Services (ODDS), Local Mental Health Authorities (LMHA) or other service programs where appropriate for completion of a comprehensive assessment and potential service planning. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  414.615, 414.625, 414.635, 414.651 & ORS 413.042 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.610–414.685 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 140-2024, amend filed 12/06/2024, effective 01/01/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 37-2024, amend filed 01/25/2024, effective 02/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 89-2022, amend filed 12/16/2022, effective 01/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 56-2021, amend filed 12/30/2021, effective 01/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 62-2020, amend filed 12/16/2020, effective 01/01/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 57-2019, adopt filed 12/17/2019, effective 01/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

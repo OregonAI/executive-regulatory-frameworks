@@ -1,0 +1,173 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of State Lands 
+ Chapter 141 
+ 
+ 
+ 
+ 
+ 
+ Division 86 WETLAND CONSERVATION PLAN 
+ 141-086-0225 
+ Digital Data Standards 
+ 
+ (1) A minimum of two sets of the final Department-approved LWI geospatial datasets must be prepared; one set must be provided to the Department for inclusion in the SWI and the other must be provided to the local government.  (2) A georeferenced ArcGIS compatible dataset with attribute tables and metadata must be developed for each of the following:  (a) Wetland polygons with a unique wetland identification label, Cowardin classification code(s) and modifiers, HGM classification, approximate wetland size, Locally Significant Wetland significance determination (if made), whether it was visually confirmed, and the Department's wetland delineation report file number, if any.  (b) Probable wetland points with PW label;  (c) Streams with unique identification labels and, where available, names;  (d) Other natural bodies of water with names;  (e) Artificially created wetlands and water features (such as irrigation canals and ditches, industrial ponds, log ponds, golf course features, and storm water detention ponds) uniquely identified and purpose of artificially-created feature, if known;  (f) Watershed boundaries (6th order Hydrologic Unit Code scale or finer);  (g) Study area boundary;  (h) Tax lot lines and numbers;  (i) Sample plot dataset with unique identification labels that correspond to the field data form; and  (j) Major streets with name labels.  (3) All georeferenced data sets must be projected using the Oregon Geographic Information Council-endorsed state standard: Oregon Lambert conformal conic (Datum: NAD 83; Units: International feet: 3.28084; Spheroid: GRS1980).  (4) Metadata must be completed for each layer, conform to the current Oregon Geographic Information Council Metadata Standard, and must include a disclaimer as described in OAR 141-086-0222(3m). 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 273.045 
+ 
+ 
+ Statutes/Other Implemented:  ORS 196.668 - 196.686 & 196.692 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ DSL 11-2008, f. 12-12-08, cert. ef. 1-1-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DSL 2-2001, f. & cert. ef. 2-26-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

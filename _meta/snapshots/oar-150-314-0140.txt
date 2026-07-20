@@ -1,0 +1,268 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 314 INCOME TAXATION GENERALLY  GENERAL PROVISIONS 
+ 150-314-0140 
+ Information Returns
+ 
+ 
+ (1) Definition. As used in this rule: 
+
+ (a) “Information return,” as used in ORS 314.360(4) and sections (7) and (8) of this rule, means a federal form W-2 or 1099. 
+
+ (b) “Payer” means any person required to issue a 1099-MISC, 1099-G, 1099-R, W-2G, 1099-K, or a 1099-NEC. 
+
+ (2) In general, taxpayers are required to file information returns as described in ORS 314.360 except as provided in this rule. 
+
+ (3) Any person that issues one or more information returns, where the recipient, winner, or the payer has an Oregon address, is required to file the information returns electronically with the department by the federal due dates. For purposes of this rule, information returns required to be filed electronically include: 
+
+ (a) 1099-MISC Miscellaneous Income; 
+
+ (b) 1099-G Certain Government Payments; 
+
+ (c) 1099-R Distributions from Pensions, Annuities, Retirement or Profit-Sharing Plans, IRAs, etc.; 
+
+ (d) W-2G Certain Gambling Winnings; 
+
+ (e) 1099-K Payment Card and Third-Party Network Transactions; 
+
+ (f) 1099-NEC Non-Employee Compensation. 
+
+ (4) For information regarding the reporting requirements of salaries and wages, see ORS 316.202 and related rules. 
+
+ (5) The department may grant an exception to this filing requirement in section (3) upon a showing of undue hardship. Undue hardship is based on the facts and circumstances specific to each payer and determined on a case-by-case basis. 
+
+ (6) For persons issuing fewer than 11 information returns: 
+
+ (a) The requirement to file electronically begins with tax year 2017 forms due in 2018; and 
+
+ (b) For information returns due before January 1, 2018, the department may require the filing of the return(s) as it deems necessary. If requested under this section, an information return that is due before January 1, 2018 must be provided within 30 days of the date of the department’s written request to be considered timely under ORS 305.217. 
+
+ (7) Penalties. The department will assess penalties, as described in ORS 314.360(4), if a payer fails to file an information return with the department by the due date as required under subsections (3)(a) through (3)(d) of this rule or files an incorrect or incomplete information return. Penalties will be assessed if a payer fails to file an information return or files an incorrect or incomplete information return under subsections (3)(e) and (3)(f) of this rule beginning in tax year 2021 forms due in 2022. 
+
+ (a) An information return is incorrect or incomplete if one or more of the following circumstances exist: 
+
+ (A) Identifying employee information is missing from the information return, such as first or last name or social security number. 
+
+ (B) The information return contains an incorrect statement of state income tax withheld, federal income, or state income amounts. Obvious math or clerical errors are not considered an incorrect statement for this purpose. 
+
+ (C) Other information is incorrect or missing on the information return. 
+
+ (b) A payer knowingly fails to file an information return by the due date if: 
+
+ (A) The information return was not received by the department on or before the due date of the corresponding federal return for the tax year under consideration; 
+
+ (B) The payer has been assessed the penalty under ORS 314.360(4)(a) for one or more filing periods preceding the period at issue; and 
+
+ (C) The payer fails to file the information return upon written request to file the information return by the department; or 
+
+ (D) The department determines that the facts and circumstances in the particular case warrant penalty assessment. 
+
+ (c) A payer knowingly files an incomplete, false or misleading information return if one or more of the following occur: 
+
+ (A) A pattern of conduct exists by the payer of repeatedly filing incorrect information returns; 
+
+ (B) The payer failed to correct the information return upon discovering incorrect information; 
+
+ (C) The payer corrected the information return only upon written request to correct the information return by the department; 
+
+ (D) The amount of the potential information return penalty is less than the cost of complying with the requirement to include correct information on the information return; 
+
+ (E) The department determines that the facts and circumstances in the particular case warrant penalty assessment. 
+
+ (d) A penalty may be assessed under ORS 314.360(4)(b) even though a prior penalty assessed under ORS 314.360(4)(a) was waived under OAR 150-305-0062. 
+
+ (e) Payers issuing fewer than 11 information returns will not be assessed penalties imposed by this section for failing to file information returns due before January 1, 2018. 
+
+ (8) If the payer fails to produce documentation to support the information return, as requested by the department, the department will use the best information available to determine the appropriate penalty assessment amount. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 & 314.360 
+ 
+ 
+ Statutes/Other Implemented:  ORS 314.360 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 45-2020, amend filed 12/23/2020, effective 01/01/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 83-2016, f. 12-28-16, cert. ef. 1-1-17 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ Renumbered from 150-314.360, REV 32-2016, f. 8-12-16, cert. ef. 9-1-16 
+REV 2-2014, f. & cert. ef. 7-31-14 
+REV 4-2011, f. 12-30-11, cert. ef. 1-1-12 
+REV 8-2010, f. 7-23-10, cert. ef. 7-31-10 
+RD 5-1994, f. 12-15-94, cert. ef. 12-31-9 
+RD 7-1993, f. 12-30-93, cert. ef. 12-31-93 
+RD 12-1990, f. 12-20-90, cert. ef. 12-31-90 
+RD 7-1989, f. 12-18-89, cert. ef. 12-31-89 
+Renumbered to 150-314.360?, RD 11-1988, f. 12-19-88, cert. ef. 12-31-88 
+RD 15-1987, f. 12-10-87, cert. ef. 12-31-87 
+RD 10-1986, f. & cert. ef. 12-31-86 
+12-19-75 
+12-70 
+1958-59
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

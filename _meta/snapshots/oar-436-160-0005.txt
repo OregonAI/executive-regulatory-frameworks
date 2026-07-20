@@ -1,0 +1,259 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Workers' Compensation Division - Chapter 436 
+ 
+ 
+ 
+ 
+ Division 160 ELECTRONIC DATA INTERCHANGE; MEDICAL BILL DATA 
+ 436-160-0005 
+ General Definitions 
+ 
+ For the purpose of these rules, unless it conflicts with statute or rule:  (1) “ANSI” means the American National Standards Institute.  (2) “ASC X12” means the Accredited Standards Committee chartered by the American National Standards Institute (http://www.x12.org/x12org/index.cfm).  (3) “Director” means the Director of the Department of Consumer and Business Services or the director's designee for the matter.  (4) “Division” means the Workers' Compensation Division of the Department of Consumer and Business Services.  (5) “Electronic data interchange” or “EDI” means a computer to computer exchange of information in a standardized electronic format.  (6) “Electronic record” means information created, generated, sent, communicated, received, or stored by electronic means.  (7) “Exclude (not applicable to the transaction)” means the data element must not be sent or cannot be sent.  (8) “Fatal Technical” means the transaction set or item structurally requires the data element.  (9) “FEIN” means the federal employer identification number or other federal reporting number used by the insurer, insured, or employer for federal tax reporting purposes.  (10) “Header record” means the record that precedes each transmission for the purpose of identifying a sender, the date and time of the transmission, and the transaction set within the transmission.  (11) “Health Care Provider” has the same meaning as “medical provider,” under OAR 436-010-0005(28).  (12) “IAIABC” means the International Association of Industrial Accident Boards and Commissions, a professional trade association comprised of state workers' compensation regulators and insurance representatives (www.iaiabc.org).  (13) “If Applicable/Available with Item Accept if Invalid” means the data element must be sent if appropriate for the item record. Even if the item record has an invalid value, the transaction set or item record will not be rejected.  (14) “If Applicable/Available with Item Reject if Invalid” means the data element must be sent if appropriate for the item record. If the item record has an invalid value, then the transaction set or item record will be rejected.  (15) “Information” means data, text, images, sounds, codes, computer programs, software, databases, or the like.  (16) “Insurer” means the State Accident Insurance Fund Corporation, an insurer authorized under ORS chapter 731 to transact workers' compensation insurance in Oregon, an assigned claims agent selected by the director under ORS 656.054, or a self-insured employer.  (17) “Mandatory data element” means an element that will cause a rejection of a transaction if the data element is omitted or submitted in an invalid format, or with an improper value.  (18) “Mandatory Conditional” means the data element is required when certain conditions are present.  (19) “Medical Bill” means a statement of charges for medical services, specified as “compensable medical services,” under ORS 656.245.  (20) “Not Applicable” means the data element is not relevant, appropriate, or doesn't apply, although if present with an improper value will not cause a rejection of a transaction.  (21) “Record” means electronic record.  (22) “Trading partner” means the entity sending electronic data interchange (EDI) transactions to the division. Trading partners may include vendors or insurers.  (23) “Trailer record” means the record that designates the end of a transmission and provides a count of transactions contained within the transmission, not including the header and trailer records.  (24) “Transaction” means a set of EDI records, defined according to standards in OAR 436-160-0004.  (25) “Transmission” means a defined set of transactions, including both header and trailer records to be sent to the division or sender by EDI. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 656.264 & 656.726(4) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 84.004 & 656.264 
+ 
+ History: 
+ 
+ 
+
+ 
+ Reverted to WCD 6-2013, f. 10-10-13, cert. ef. 7-1-14 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Temporary suspended by WCD 7-2014(Temp), f. 7-10-14, cert. ef. 10-1-14 thru 12-27-14 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 6-2013, f. 10-10-13, cert. ef. 7-1-14 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 5-2014(Temp), f. 6-5-14, cert. ef. 7-1-14 thru 12-27-14 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 7-2010, f. 10-1-10, cert. ef. 1-1-11 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 4-2008, f. 9-17-08, cert. ef. 7-1-09 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 10-2007, f. 11-1-07, cert. ef. 1-1-08 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 3-2003, f. 3-18-03, cert. ef. 4-1-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

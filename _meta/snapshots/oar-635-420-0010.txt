@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Fish and Wildlife 
+ Chapter 635 
+ 
+ 
+ 
+ 
+ 
+ Division 420 CHEMICAL PROCESS MINING CONSOLIDATED APPLICATION AND PERMIT REVIEW STANDARDS 
+ 635-420-0010 
+ Definitions 
+ 
+ For the purposes of OAR 635-420-0000 through 635-420-0120 only:  (1) “Associated Wastewaters” means wastewaters, including but not limited to tailings in liquid or slurry form, which are created as a result of a chemical process mining operation.  (2) “Available Technology” means technology that is obtainable and:  (a) Has been demonstrated to meet environmental standards at an existing mine or a demonstration project of similar size and scale; or  (b) Is reasonably expected to meet or exceed environmental standards at the proposed mine.  (3) “Baseline Data” means information gathered to characterize the natural and cultural environments of an operation site before a mining operation begins.  (4) “Chemical Process Mine” means a mining and processing operation for metal-bearing ores that uses chemicals to dissolve metals from ore.  (5) “Consolidated Application” means the single application for a chemical process mine required by DOGAMI pursuant to OAR chapter 632, division 037.  (6) “Contained” means the use of solid containers such as tanks, vats or pipes to completely enclose chemical processing solutions or associated wastewaters to preclude access by wildlife.  (7) “Conveyance” means any conduit for chemical processing solutions or associated wastewaters including but not limited to pipes, channels, ditches and troughs.  (8) “Cover” means a permeable or impermeable material used to preclude access to chemical processing solutions or associated wastewaters by wildlife, including but not limited to netting, screening, or floating covers or liners.  (9) “Critical Habitat” for any federally listed threatened or endangered species means:  (a) The specific areas within the geographical area occupied by the species, at the time it is listed in accordance with the provisions of the federal Endangered Species Act (ESA), on which are found those physical and biological features:  (A) Essential to the conservation of the species; and  (B) Which may require special management considerations or protection; and  (b) Specific areas outside the geographical area occupied by the species at the time it is listed in accordance with the provisions of the ESA, upon a determination by the Secretary of the Interior that such areas are essential for the conservation of the species.  (10) “Department” means the Oregon Department of Fish and Wildlife.  (11) “DOGAMI” means the Oregon Department of Geology and Mineral Industries.  (12) “Endangered Species” means:  (a) Any native wildlife species determined by the Fish and Wildlife Commission to be in danger of extinction throughout any significant portion of its range within the state; or  (b) Any native wildlife species listed as an endangered species pursuant to the federal Endangered Species Act of 1973 (PL 93-205, 16 USC § 1531), as amended.  (13) “Environmental Evaluation” means an analysis prepared pursuant to ORS Chapter 517 to address specific impacts of the chemical process mine operation to allow affected agencies to develop permit conditions.  (14) “Environmental Standards” means standards established either by statute or rule that shall be met by a chemical process mine.  (15) “Essential Habitat” means any habitat condition or set of habitat conditions, which, if diminished in quality or quantity, would result in depletion of a wildlife species.  (16) “Habitat” means the physical and biological conditions within the geographic range of occurrence of a species, extending over time, that affect the welfare of the species or any sub-population or members of the species.  (17) “Habitat Evaluation Procedures” means a system developed by the U.S. Fish and Wildlife Service to determine the habitat value of a project site.  (18) “Habitat Value” means the relative ability of a habitat to support wildlife populations.  (19) “Harm” means mortality of or injury to wildlife, including physical injury or impairment of productivity through alteration of essential behavior patterns such as breeding, feeding or sheltering.  (20) “Hazing” means acts to frighten but not kill wildlife through the use of visual deterrent or audio aversion methods.  (21) “Impact” means an adverse effect of a chemical process mine upon wildlife habitat.  (22) “Mitigation” means the reduction of adverse effects of a proposed chemical process mining operation by considering, in the following order:  (a) Avoiding the impact altogether by not taking a certain action or parts of an action;  (b) Minimizing impacts by limiting the degree or magnitude of the action or parts of an action;  (c) Rectifying the impact by repairing, rehabilitating or restoring the affected environment;  (d) Reducing or eliminating the impact over time by preservation and maintenance operations during the life of the action by monitoring and taking appropriate corrective measures; or  (e) Compensating for the impact by replacing or providing comparable substitute resources or environments.  (23) “Necessary Technology” means technology that is required to ensure compliance with environmental standards.  (24) “Off-Site Mitigation” means habitat mitigation measures undertaken in areas distant from the mining operation, and which are intended to benefit wildlife populations other than those directly affected by the mining operation.  (25) “On-Site Mitigation” means habitat mitigation measures undertaken in areas within or in proximity to the mining operation, and which are intended to benefit wildlife populations directly affected by the operation.  (26) “Permittee” means the recipient of a permit for a chemical process mine pursuant to OAR 632, division 037.  (27) “Practicable Technology” means available and necessary technology whose costs are not significantly disproportionate to the potential environmental benefits. A technology is not practicable if the cost is so high it renders a mine operation infeasible.  (28) “Processing” means milling and the use of chemicals to dissolve metals from ore. As used in these rules, processing includes but is not limited to cyanide heap leach processing and cyanide vat processing operations.  (29) “Processing Solutions” means those solutions which are used directly or indirectly to recover minerals.  (30) “Project Coordinating Committee” means the interagency governmental committee established in accordance with OAR 632-037-0020.  (31) “Sensitive” refers to wildlife species, subspecies, 0or populations identified on the List of Sensitive Species adopted pursuant to OAR 635-100-0040.  (32) “Snow Load” means the maximum force that may be applied by snow accumulation in a mean recurrence interval.  (33) “Study Area” means those areas determined by the Technical Review Team for which baseline data must be collected and an environmental evaluation and social impact analysis must be developed.  (34) “Tailings” means ground rock residue from a milling procedure which utilized process solutions to remove minerals from ore.  (35) “Technical Review Team” means the interagency group established in accordance with OAR 632-037-0025.  (36) “Threatened Species” means:  (a) Any native wildlife species the Fish and Wildlife Commission has determined is likely to become an endangered species within the foreseeable future throughout any significant portion of its range within this state; or  (b) Any native wildlife species listed as a threatened species pursuant to the federal Endangered Species Act of 1973 (PL 92-205, 16 USC § 1531), as amended.  (37) “Undamaged Ecosystem” means an ecosystem that is comparable in utility and stability to the ecosystem surrounding the chemical process mine and/or the pre-mine ecosystem and which retains the principle ecological characteristics reasonably expected to exist under local, climatic, geological, soil, hydrological and biological conditions.  (38) “Wildlife” means all fish, shellfish, intertidal animals, wild birds, amphibians, reptiles, and wild mammals.  (39) “Wind Load” means the maximum forces that may be applied to a structural element by wind in a mean recurrence interval.  (40) “Zero Mortality Objective” means the lowest level of wildlife mortality achievable by the use of the best available, practicable and necessary technology for wildlife protection measures at a chemical process mining operation, maintained and monitored on an ongoing and constant basis to assure that this standard is achieved throughout the life of the chemical process mining operation and subsequent reclamation. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 496.012 & 506.109 
+ 
+ 
+ Statutes/Other Implemented:  ORS 496.012 & 506.109 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ FWC 140-1991, f. & cert. ef. 12-26-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

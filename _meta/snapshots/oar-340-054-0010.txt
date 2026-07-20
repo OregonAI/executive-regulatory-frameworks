@@ -1,0 +1,449 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 54 CLEAN WATER STATE REVOLVING FUND PROGRAM 
+ 340-054-0010 
+ Definitions
+ 
+ 
+ The following definitions apply to this rule division: 
+
+ (1) “Applicant” means a public agency or qualified institution that has applied for a CWSRF loan under this division. 
+
+ (2) “Available sewer” has the meaning given in ORS 454.779. 
+
+ (3) “Borrower” means a public agency or qualified institution that has signed a CWSRF loan agreement with DEQ. 
+
+ (4) “Change order” means a written order, and supporting information from a borrower, to a borrower’s contractor authorizing an addition, deletion or revision in the work within the scope of the contract documents, including any required adjustment in contract price or time. 
+
+ (5) “Checklist of loan application requirements” means a list that DEQ provides of all documents an applicant must submit to DEQ to receive a loan offer under this division. 
+
+ (6) “Clean Water Act” or “CWA” means the federal Water Pollution Control Act, 33 U.S.C. § 1251 – § 1387. 
+
+ (7) “Clean Water State Revolving Fund” or “CWSRF” means the Water Pollution Control Revolving Fund established under ORS 468.427. 
+
+ (8) “Community development financial institution borrower” or “CDFI Borrower” means a qualified institution that has signed a CWSRF loan agreement with DEQ. 
+
+ (9) “Community development financial institution loan” or “CDFI loan” means a loan with proceeds made available from a CWSRF loan that a qualified institution uses to finance projects to (i) repair or replace failing on-site septic systems or (ii) replace failing on-site septic systems with connections to an available sewer. 
+
+ (10) “Construction” means erecting, installing, expanding or improving a wastewater or stormwater facility, nonpoint source control activity or estuary management project, and includes demolishing an obsolete facility. 
+
+ (11) “Cross-cutting authorities” means requirements of federal laws and Executive Orders that apply to projects and activities funded under the CWSRF program. 
+
+ (12) “Default” means failing to pay principal, interest or annual fees, or to comply with other CWSRF loan terms or provisions, and includes filing bankruptcy or other written admission of an inability to satisfy a borrower’s obligations under a CWSRF loan. 
+
+ (13) “DEQ” means the Oregon Department of Environmental Quality. 
+
+ (14) “Design” means preparing engineering drawings and specifications for the proposed construction, and may include pre-design activities. 
+
+ (15) “Eligible recipient” means public agency with the meaning given in ORS 468.423. 
+
+ (16) “EPA” means the U.S. Environmental Protection Agency. 
+
+ (17) “Estuary management” means implementing actions identified in a Comprehensive Conservation Management Plan developed for a designated national estuary. 
+
+ (18) “Failing on-site septic system” means an on-site septic system that discharges untreated or incompletely treated sewage or septic tank effluent directly or indirectly onto the ground surface or into public waters or that creates a public health hazard. 
+
+ (19) “Federal loans” are loans DEQ designates yearly in its Intended Use Plan that represent projects that are funded with monies directly made available by the federal capitalization grant for the associated federal fiscal year. 
+
+ (20) “Local community loan” means a loan, the proceeds of which a public agency uses to establish a local financial program that will fund an eligible nonpoint source control or estuary management activity. 
+
+ (21) “Maintenance” means regularly scheduled work performed to repair, replace or upgrade equipment in a facility, or to prevent or correct a failure or a malfunction of a wastewater or stormwater facility, nonpoint source control or estuary management project. 
+
+ (22) “Natural infrastructure” means using a natural form and ecosystem function to restore or augment a project’s intended water quality benefits. 
+
+ (23) “Nonpoint source” has the meaning given in ORS 468B.005. 
+
+ (24) “Nonpoint source control” means implementing a nonpoint source control activity under section 319 of the Clean Water Act and 40 C.F.R. § 35.3115(b) that is included in the  Oregon Nonpoint Source Management Program Plan. 
+
+ (25) “On-site septic system” means a subsurface on-site sewage treatment and disposal system, including, but not limited to, alternative sewage disposal systems, nonwater-carried sewage disposal facilities and subsurface sewage disposal systems as those terms are defined in ORS 454.605. 
+
+ (26) “Operation” means controlling wastewater collection system pumping stations and wastewater facility treatment unit processes, controlling equipment and processes of stormwater facilities, nonpoint source control and estuary management projects, and the financial and personnel management, records, laboratory control, process control, safety, and emergency planning for these facilities and projects. 
+
+ (27) “Planning” means monitoring, data collection and measurement, evaluation, analysis, security evaluations, report preparation, environmental review, public education and review process and any other activity leading to a written plan for providing a wastewater or stormwater facility, nonpoint source control or estuary management project intended to remediate an existing or anticipated water pollution problem, but does not include the preparation of detailed bid documents for construction. 
+
+ (28) “Point source” has the meaning given in ORS 468B.005. 
+
+ (29) “Principal forgiveness” means additional subsidization that allows a borrower to repay only a specified portion of the loan principal. 
+
+ (30) “Project” means the activities or tasks identified in a loan application or a loan agreement for which a borrower may expend or obligate funds. 
+
+ (31) “Project period” means the timeframe a project may be financed by a CWSRF loan. 
+
+ (32) “Public agency” has the meaning given in ORS 468.423. 
+
+ (33) “Public agency borrower” means a public agency that has signed a CWSRF loan agreement with DEQ. 
+
+ (34) “Qualified institution” has the meaning given in ORS 468.423. 
+
+ (35) “Ready to proceed” means, in regard to a project, that a loan applicant’s project details have been published in the Intended Use Plan under OAR 340-054-0025(3)–340-054-0025(5) and the applicant has met all loan requirements set out in OAR 340-054-0022. 
+
+ (36) “Replacement” means obtaining and installing equipment, accessories or appurtenances necessary for operating a wastewater or stormwater facility, nonpoint source control or estuary management project in order to maintain a facility or project for the purpose for which it was designed and constructed during its useful life, but does not mean replacing a facility or project at the end of its useful life. 
+
+ (37) “Small community” means a public agency serving a population of 10,000 or less. 
+
+ (38) “Sponsorship option” means DEQ’s financing mechanism that allows a public agency with the authority to finance and implement a wastewater facility project and an eligible nonpoint source control or estuary management activity to be financed through one combined CWSRF application. 
+
+ (39) “Stormwater” means water runoff from a precipitation event, snowmelt runoff, and surface runoff and drainage. 
+
+ (40) “Sub-borrower” means a responsible party that signs a sub-loan. 
+
+ (41) “Sub-loan” means a loan issued to a sub-borrower by a borrower using CWSRF loan proceeds. 
+
+ (42) “Sustainability” means the long term reliability and viability of finance, operations, environmental performance or technology, or using natural infrastructure. 
+
+ (43) “Treatment works” has the meaning given in ORS 468.423. 
+
+ (44) “Wastewater” has the meaning given for “sewage” in ORS 468B.005. 
+
+ (45) “Wastewater collection system” means publicly owned pipelines, conduits, pumping stations, force mains and any other related structures, devices or equipment used to convey wastewater to a wastewater treatment facility. 
+
+ (46) “Wastewater facility” means a wastewater collection system or wastewater treatment facility. 
+
+ (47) “Wastewater treatment facility” means a publicly owned plant, device, structure or equipment used to treat, neutralize, stabilize, reuse or dispose of wastewater and treatment residuals. 
+
+ (48) “Water quality standards” means the surface water standards established in OAR 340-041 and the minimum groundwater protection requirements established in OAR 340-040. 
+
+ [Note: The Intended Use Plan referenced is available from the agency. View a PDF of the Oregon Nonpoint Source Management Program by clicking on the "Tables" link below.] 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020 & 468.440 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468.423 – 468.440 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 5-2023, amend filed 05/10/2023, effective 05/10/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 12-2021, amend filed 07/26/2021, effective 07/26/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 8-2018, minor correction filed 02/14/2018, effective 02/14/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 37-2017, minor correction filed 12/14/2017, effective 12/14/2017 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 18-2017, amend filed 11/06/2017, effective 11/07/2017 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 9-2015, f. & cert. ef. 10-16-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 2-2014, f. 1-28-14, cert. ef. 2-3-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 11-2012, f. & cert. ef. 12-14-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 13-2010, f. & cert. ef. 10-27-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 3-2010(Temp), f. & cert. ef. 5-4-10 thru 10-29-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 10-2003, f. & cert. ef. 5-27-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 3-1995, f. & cert. ef. 1-23-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 1-1993, f. & cert. ef. 1-22-93 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 30-1990, f. & cert. ef. 8-1-90 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 2-1989, f. & cert. ef. 3-10-89 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

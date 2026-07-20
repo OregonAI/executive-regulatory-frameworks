@@ -1,0 +1,321 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Criminal Justice Commission 
+ Chapter 213 
+ 
+ 
+ 
+ 
+ 
+ Division 3 DEFINITIONS 
+ 213-003-0001 
+ Definitions
+ 
+ 
+ As used in these rules: 
+
+ (1) "Bench probation" means a probationary sentence, which directs the probationer to remain under the supervision and control of the sentencing judge. 
+
+ (2) "Board" means the State Board of Parole and Post-Prison Supervision. 
+
+ (3) "Correctional supervision status" means any form of incarcerative or non-incarcerative supervision which is served by an offender as part of a sentence for a criminal conviction. 
+
+ (4) "Department" means the Department of Corrections. 
+
+ (5) "Departure" means a sentence, except an optional probationary sentence, which is inconsistent with the presumptive sentence for an offender. 
+
+ (6) "Dispositional departure" means a sentence which imposes probation when the presumptive sentence is prison or prison when the presumptive sentence is probation. An optional probationary sentence is not a dispositional departure. 
+
+ (7) "Dispositional line" means the solid black line on the Sentencing Guidelines Grid (Appendix 1) which separates the grid blocks in which the presumptive sentence is a term of imprisonment and post-prison supervision from the grid blocks in which the presumptive sentence is probation which may include local custodial sanctions. 
+
+ (8) "Durational departure" means a sentence which is inconsistent with the presumptive sentence as to term of incarceration, term of supervised probation or number of sanction units which may be imposed as a condition of probation. 
+
+ (9) "Grid" means the Sentencing Guidelines Grid set forth as Appendix 1. 
+
+ (10) "Grid block" means a box on the grid formed by the intersection of the crime seriousness ranking of a current crime of conviction and an offender's criminal history classification. 
+
+ (11) "Juvenile adjudication" means a formal adjudication or finding by a court that the juvenile has committed an act, which, if committed by an adult, would be punishable as a felony. 
+
+ (12) "Non-person felonies" are any felonies not defined as a person felony in section (14) of this rule. 
+
+ (13) "Optional probationary sentence" means any probationary sentence imposed pursuant to OAR 213-005-0006. 
+
+ (14) "Person felonies" are in numerical statutory order: ORS 97.981 Purchase or Sale of a Body Part for Transplantation or Therapy; ORS 97.982 Alteration of a Document of Gift; ORS 162.165 Escape I; ORS 162.185 Supplying Contraband as defined in Crime Categories 6 and 7 (OAR 213-018-0070(1) and (2)); ORS 163.095 Aggravated Murder; ORS 163.107 Murder I; ORS 163.115 Murder II; ORS 163.115 Felony Murder; ORS 163.118 Manslaughter I; ORS 163.125 Manslaughter II; ORS 163.145 Negligent Homicide; ORS 163.149 Aggravated Vehicular Homicide; ORS 163.160(3) Felony Assault; ORS 163.165 Assault III; ORS 163.175 Assault II; ORS 163.185 Assault I; ORS 163.187(4) Felony Strangulation; ORS 163.192 Endangering Person Protected by FAPA Order; ORS 163.196 Aggravated Driving While Suspended or Revoked; ORS 163.205 Criminal Mistreatment I; ORS 163.207 Female Genital Mutilation; ORS 163.208 Assaulting a Public Safety Officer; ORS 163.213 Use of Stun Gun, Tear Gas, Mace I; ORS 163.225 Kidnapping II; ORS 163.235 Kidnapping I; ORS 163.263 Subjecting Another Person to Involuntary Servitude II; ORS 163.264 Subjecting Another Person to Involuntary Servitude I; ORS 163.266 Trafficking in Persons; ORS 163.275 Coercion as defined in Crime Category 7 (OAR 213-018-0035(1)); ORS 163.355 Rape III; ORS 163.365 Rape II; ORS 163.375 Rape I; ORS 163.385 Sodomy III; ORS 163.395 Sodomy II; ORS 163.405 Sodomy I; ORS 163.408 Sexual Penetration II; ORS 163.411 Sexual Penetration I; ORS 163.413 Purchasing Sex With a Minor; ORS 163.425 Sexual Abuse II; ORS 163.427 Sexual Abuse I; ORS 163.429 Sexual Abuse by Fraudulent Misrepresentation; ORS 163.432 Online Sexual Corruption of a Child II; ORS 163.433 Online Sexual Corruption of a Child I; ORS 163.452 Custodial Sexual Misconduct in the First Degree; ORS 163.465 Felony Public Indecency; ORS 163.472 Unlawful Dissemination of Intimate Image; ORS 163.479 Unlawful Contact with a Child; ORS 163.525 Incest; ORS 163.535 Abandon Child; ORS 163.537 Buying/Selling Custody of a Minor; ORS 163.547 Child Neglect I; ORS 163.670 Using Child In Display of Sexual Conduct; ORS 163.684 Encouraging Child Sex Abuse I; ORS 163.686 Encouraging Child Sex Abuse II; ORS 163.688, Possession of Material Depicting Sexually Explicit Conduct of Child I; ORS 163.689, Possession of Material Depicting Sexually Explicit Conduct of Child II; ORS 163.701 Invasion of Personal Privacy I; ORS 163.732 Stalking; ORS 163.750 Violation of Court's Stalking Order; ORS 164.075 Extortion as defined in Crime Category 7 (OAR 213-018-0075(1)); ORS 164.225 Burglary I as defined in Crime Categories 8 and 9 (OAR 213-018-0025(1) and (2)); ORS 164.325 Arson I; ORS 164.342 Arson Incident to the Manufacture of a Controlled Substance I; ORS 164.377(2)(c) Computer Crime—Theft of an Intimate Image; ORS 164.395 Robbery III; ORS 164.405 Robbery II; ORS 164.415 Robbery I; ORS 164.886(3) Tree Spiking (Injury); ORS 166.070 Aggravated Harassment; ORS 166.087 Abuse of Corpse I; ORS 166.125(1)(a) Domestic Terrorism I (if conduct places persons at risk of harm); ORS 166.125(1)(b) Domestic Terrorism I; ORS 166.128(1)(a) and (1)(d) Domestic Terrorism II; ORS 166.128(1)(b) and (1)(c) Domestic Terrorism II (if conduct places persons at risk of harm); ORS 166.165 Bias Crime I; ORS 166.220 Unlawful Use of a Weapon; ORS 166.275 Inmate In Possession of Weapon; ORS 166.385(3) Felony Possession of a Hoax Destructive Device; ORS 166.643 Unlawful Possession of Soft Body Armor as defined in Crime Category 6 (OAR 213-018-0090(1)); ORS 167.012 Promoting Prostitution; ORS 167.017 Compelling Prostitution; ORS 167.333 Sexual Assault of an Animal (Felony); ORS 167.435 Contributing to Sexual Delinquency of Minor (Felony); ORS 163.445 Sexual Misconduct (If person over 18) (Felony); ORS 167.057 Luring a Minor; ORS 167.320(4) Felony Animal Abuse I; ORS 167.322 Aggravated Animal Abuse I; ORS 468.951 Environmental Endangerment; ORS 475.752(6)(a) Manufacturing or Delivering a Schedule IV Controlled Substance Thereby Causing Death to a Person; ORS 475.908 Causing Another to Ingest a Controlled Substance as defined in Crime Categories 8 and 9 (OAR 213-019-0007 and 0008); ORS 475.910 Unlawful Administration of a Controlled Substance as defined in Crime Categories 5, 8, and 9 (OAR 213-019-0007, -0008, and -0011); ORS 475B.359 Arson Incident to Manufacture of Cannabinoid Extract I; ORS 475B. 367 Causing Another Person to Ingest Marijuana; ORS 475B.371 Administration to Another Person Under 18 Years of Age; ORS 475C.337(3)(d) Unlawful Possession by Person 21 Years or Older as defined in Crime Category 8 (OAR 213-19-0009); ORS 475C.341(4) Unlawful Possession by Person Under 21 Years of Age as defined in Crime Category 8 (OAR 213-19-0009); ORS 475C.349(3)(c)(B) Unlawful Manufacture of Marijuana Item as defined in Crime Category 8 (OAR 213-19-0009); ORS 475C.349(3)(c)(C) as defined in Crime Category 8 (OAR 213-19-0009); ORS 609.990(3)(b) Maintaining Dangerous Dog; ORS 811.705 Hit and Run Vehicle (Injury); ORS 813.010(5) Felony Driving Under the Influence of Intoxicants (as provided in OAR 213-004-0009); ORS 830.475(2) Hit and Run Boat; ORS 837.365(2)(b) and (c) Unlawful Operation of Weaponized Unmanned Aircraft System; ORS 837.374(3) Reckless Interference With Aircraft; and attempts or solicitations to commit any Class A or Class B person felonies as defined herein. 
+
+ (15) "Person Class A misdemeanors" are in numerical statutory order: ORS 162.315 Resisting Arrest; ORS 163.160 Assault IV; ORS 163.187 Strangulation; ORS 163.190 Menacing; ORS 163.195 Recklessly Endanger Another; ORS 163.200 Criminal Mistreatment II; ORS 163.212 Use of Stun Gun, Tear Gas, Mace II; ORS 163.415 Sexual Abuse III; ORS 163.454 Custodial Sexual Misconduct in the Second Degree; ORS 163.465 Public Indecency; ORS 163.467 Private Indecency; ORS 163.472 Unlawful Dissemination of Intimate Image; ORS 163.476 Unlawfully Being in a Location Where Children Regularly Congregate; ORS 163.545 Child Neglect II; ORS 163.575 Endanger Welfare of Minor; ORS 163.687 Encouraging Child Sex Abuse III; ORS 163.700 Invasion of Personal Privacy II; ORS 163.709 Unlawfully Directing a Laser Pointer; ORS 163.732(1) Stalking; ORS 163.750(1) Violating Court's Stalking Order; ORS 165.572 Interfering with Making a Police Report; ORS 165.815 Criminal Impersonation; ORS 166.065(4) Harassment/Offensive Sexual Contact; ORS 166.155 Bias Crime II; ORS 166.385(2) Misdemeanor Possession of a Hoax Destructive Device; ORS 167.054 Furnishing Sexually Explicit Material to a Child; ORS 475.910(4) Unlawful Administration of a Controlled Substance; ORS 609.990(3)(a) Maintaining Dangerous Dog; ORS 811.060 Vehicular Assault; ORS 813.010, Driving Under the Influence of Intoxicants (as provided in OAR 213-004-0009); ORS 837.374(2) and (3) Unlawful Interference with Aircraft (if aircraft manned at time of offense); and attempts or solicitations to commit any Class C person felonies as defined in section (14) of this rule. 
+
+ (16) "Presumptive sentence" means the sentence provided in a grid block for an offender classified in that grid block by the combined effect of the crime seriousness ranking of the current crime of conviction and the offender's criminal history or a sentence designated as a presumptive sentence by statute. 
+
+ (17) "Primary offense" means the offense of conviction with the highest crime seriousness ranking. If more than one offense of conviction is classified in the same crime category, the sentencing judge shall designate which offense is the primary offense. 
+
+ (18) "Supervisory agent" means the local community corrections agency responsible for supervising the offender. 
+
+ (19) "Supervisory authority" means the state and local corrections agency or official designated in each county by that county's Board of County Commissioners or county court to operate corrections supervision services, custodial facilities or both. 
+
+ (20) “Straight jail” means a sentence of jail imposed instead of a presumptive probationary sentence that is not followed by a term of post-prison supervision defined in OAR 213-005-0002. 
+
+   
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 137.667, 475.986, 475.998 & 2003 OL Ch. 453 
+ 
+ 
+ Statutes/Other Implemented:  ORS 137.667 - 137.669, 2001 OL Ch. 387, 510, 635, 828, 857, 884, 2003 OL Ch. 453, 577, 2007 OL Ch. 681, 811, 867, 869, 876, 2009 OL Ch. 774, 783, 876, 898, 2011 OL Ch. 3 Sec. 1, 2011 OL Ch. 598, 2011 OL Ch. 666, SB 6 (2013), SB 482 (2013), SB 673 (2013), HB 2334 (2013), HB 3194 (2013), SB 1567 (2016), HB 4082 (2016), HB 4128 (2016), SB 302 (2017), SB 323 (2017), SB 493 (2017), HB 2355 (2017), HB 2598 (2017), HB 2721 (2017), HB 2988 (2017), HB 3047 (2017), SB 1562 (2018), HB 4055 (2018), SB 577 (2019), SB 581 (2019), SB 1013 (2019), HB 2045 (2019), HB 2393 (2019), HB 2428 (2019), SB 810 (2023 Regular Session), SB 974 (2023 Regular Session), SB 326 (2023 Regular Session), 2023 OL Chapter 608, Sections 2 & 3, HB 2772 (2023), ORS 167.333, ORS 163.435 & ORS 163.445 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CJC 1-2025, amend filed 01/31/2025, effective 02/03/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CJC 2-2024, amend filed 03/18/2024, effective 03/18/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CJC 4-2020, amend filed 06/26/2020, effective 06/30/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CJC 1-2020, temporary amend filed 01/02/2020, effective 01/02/2020 through 06/29/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CJC 2-2019, amend filed 12/19/2019, effective 01/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CJC 1-2018, amend filed 08/06/2018, effective 08/06/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CJC 3-2016, f. 12-29-16, cert. ef. 1-1-17 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ CJC 1-2016, f. & cert. ef. 5-10-16 
+CJC 1-2014, f. 1-31-14, cert. ef. 2-3-14 
+CJC 2-2012, f. & cert. ef. 4-27-12 
+CJC 2-2011(Temp), f. 12-30-11, cert. ef. 1-1-12 thru 4-27-12 
+CJC 1-2011(Temp), f. & cert. ef. 11-1-11 thru 4-27-12 
+CJC 7-2009, f. 12-31-09, cert. ef. 1-1-10 
+CJC 2-2009(Temp), f. 3-24-09, cert. ef. 1-1-10 thru 6-29-10 
+CJC 1-2009(Temp), f. 3-24-09, cert. ef. 1-1-10 thru 6-29-10 
+CJC 3-2007, f. 12-31-07 & cert. ef. 1-1-08 
+CJC 1-2006, f. & cert. ef. 4-12-06 
+CJC 2-2003, f. 12-31-03, cert. ef. 1-1-04 
+CJC 2-2001, f. 12-26-01, cert. ef. 1-1-02 
+CJC 1-1999, f. & cert. ef. 11-1-99 
+CJC 3-1997, f. 10-29-97, cert. ef. 11-1-97 
+CJC 1-1996, f. 3-6-96, cert. ef. 3-8-96, Renumbered from 253-003-0001 
+CJC 2-1995, f. & cert. ef. 11-2-95 
+SSGB 2-1993, f. 10-28-93, cert. ef. 11-1-93 
+SSGB 1-1989, f. 5-25-89, cert. ef. 9-1-89 
+SSGB 2-1988, f. 12-30-88, cert. ef, 9-1-89 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

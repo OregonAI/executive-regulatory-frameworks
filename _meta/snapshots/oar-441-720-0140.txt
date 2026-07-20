@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Finance and Securities Regulation - Chapter 441 
+ 
+ 
+ 
+ 
+ Division 720 CREDIT UNIONS 
+ 441-720-0140 
+ Procedures, Risk-Weight Ratios and Computations 
+ 
+ (1) Procedures. Balances sheet assets and credit equivalent amounts for off-balance sheet items are assigned to a risk-weight category. The total dollar amount in each category shall be multiplied by the risk-weight assigned to that category. The sum of the categories comprises risk-weighted assets.  (2) Frequency. The corporate central credit union shall calculate the ratio of capital to risk-weighted assets each month. A record of such calculation shall maintained.  (3) Risk Weights for Balance Sheet Assets. Each balance sheet asset shall be assigned a risk weight of 0 percent, 20 percent, 50 percent, and 100 percent as set forth in OAR 441-720-0120.  (4) Other Considerations:  (a) An investment in the shares of a mutual fund is assigned to the risk category appropriate to the highest risk-weighted asset that the fund is permitted to hold. In addition, if the fund engages in the use of forwards, options, futures, or similar activities other than when used to reduce interest rate risk, then investments in the fund will be assigned to the 100 percent risk category; and  (b) Accruals will be assigned the risk-weighting of the underlying asset that they represent.  (5) Credit Conversion Factors for Off-Balance Sheet Items. Off-balance sheet items will be risk-weighted each month using the following credit conversion factors:  (a) Zero Percent Credit Conversion Factor. Unused portions of credit lines with original maturities of six months or less, or which are unconditionally cancelable;  (b) 50 Percent Credit Conversion factor:  (A) Unused portions of credit lines with original maturities exceeding six months; and  (B) Commitments to participate in a loan or loan package;  (c) 100 Percent Credit Conversion Factor:  (A) Irrevocable standby letters of credit guaranteeing financial performance, including VISA letters of credit issued by corporate central credit unions on behalf of their members, or standby letters of credit backing Industrial Revenue Bonds;  (B) Forward Commitments to purchase an asset or perform under a lease contract; and  (C) Securities held in safekeeping loaned with indemnification.  (d) Those items and credit conversion factors addressed on a case-by-case basis by the Director.  (6) Risk-based Capital Ratios:  (a) The primary capital ratio is computed by dividing primary capital by total risk-weighted assets;  (b) The total capital ratio is computed by dividing risk-based capital by total risk-weighted assets; and  (c) Month-end amounts will be used to calculate corporate central credit union capital ratios. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 723.102, 723.156 & 723.730 
+ 
+ 
+ Statutes/Other Implemented:  ORS 723.730 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ FCS 5-1992, f. & cert. ef. 12-21-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

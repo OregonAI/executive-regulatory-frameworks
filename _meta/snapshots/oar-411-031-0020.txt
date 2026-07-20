@@ -1,0 +1,680 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Aging and People with Disabilities and Developmental Disabilities - Chapter 411 
+ 
+ 
+ 
+ 
+ Division 31 HOMECARE WORKERS ENROLLED IN THE CONSUMER-EMPLOYED PROVIDER PROGRAM 
+ 411-031-0020 
+ Definitions
+ 
+ 
+ Unless the context indicates otherwise, the following definitions apply to the rules in OAR chapter 411, division 031: 
+
+ (1) "Abuse" means abuse as defined by OAR 411-020-0002 and OAR 419-100-0010. 
+
+ (2) "Active" means a homecare worker who has: 
+
+ (a) A valid and current provider number issued by APD; 
+
+ (b) Worked and been paid with public funds in any of the past 12 months as a homecare worker; 
+
+ (c) A valid and current credential; and 
+
+ (d) Met the orientation and training requirements of the homecare worker program as set forth in chapter 418, Division 020. 
+
+ (3) "Activities of Daily Living (ADL)" means those personal, functional activities required by an individual for continued well-being, which are essential for the individual's health and safety. ADLs consist of bathing, cognition, dressing, eating, elimination, grooming, mobility, and personal hygiene as defined in OAR 411-015-0006. 
+
+ (4) "Adult" means any person at least 18 years of age. 
+
+ (5) "Adult Protective Services (APS)" means the APD program that responds to abuse and self-neglect of older adults and adults with physical disabilities as described in OAR chapter 411, division 020, including screening, triage or consultation, on-site assessment, investigation, intervention, documentation, and APS risk management. 
+
+ (6) “Aging and People with Disabilities (APD)" means the program within the department primarily responsible for serving older adults and people with disabilities as defined in OAR chapter 411, division 015 and division 030. 
+
+ (7) “APD central office” means the unit within the Department responsible for program and policy development and oversight. (OAR 411-027-0005(9)). 
+
+ (8) "Area Agency on Aging (AAA)" means the Department designated agency charged with the responsibility to provide a comprehensive and coordinated system of services to older adults and adults with disabilities in a planning and service area. The terms AAA and Area Agency on Aging are inclusive of both Type A and Type B Area Agencies on Aging as defined in ORS 410.040 and described in ORS 410.210 to 410.300. 
+
+ (9) "Base Pay Rate" means the hourly wage to be paid to homecare workers, without any differentials, established in the Collective Bargaining Agreement. 
+
+ (10) "Case Manager (CM)" means an employee of the Department or Area Agency on Aging who assesses the service needs of an individual applying for services, determines eligibility, and offers service choices to the eligible individual. The case manager authorizes and implements an individual's service plan and monitors the services delivered as described in OAR chapter 411, division 028. CM may also include Diversion/Transition Coordinators. 
+
+ (11) “Centers for Medicare and Medicaid Services (CMS)” means the agency within the U.S. Department of Health and Human Services (HHS) that administers Medicare, Medicaid, the Children's Health Insurance Program (CHIP) , and the state and federa l health insurance marketplaces. 
+
+ (12) "Collective Bargaining Agreement" means the ratified Collective Bargaining Agreement between the Home Care Commission and the Service Employees International Union, Local 503. The Collective Bargaining Agreement is maintained on the Department's website: (https://www.oregon.gov/odhs/providers-partners/homecare-workforce/Pages/default.aspx). Printed copies may be obtained by writing to the Oregon Department of Human Services, Office of Aging and People with Disabilities, Attn: Rules Coordinator, 500 Summer Street NE, E-2, Salem, Oregon 97301. 
+
+ (13) "Community Transportation" means non-medical transportation a homecare worker provides to a consumer-employer: 
+
+ (a) Using the homecare worker’s personal vehicle; and 
+
+ (b) Provided in accordance with the consumer-employer’s authorized service plan. 
+
+ (14) "Consumer-Employed Provider Program" means the program wherein a qualified Homecare Worker is directly employed by a consumer to provide in-home services. In some aspects of the employer and employee relationship, the Department acts as an agent for the consumer-employer. These functions are clearly described in OAR 411-031-0040. 
+
+ (15) "Consumer-Employer" means an individual eligible for in-home services receiving services through the Consumer-Employer Provider Program or Oregon Project Independence. 
+
+ (16) "Consumer-Employer’s Representative" means an individual assigned by a consumer, or designated by a consumer's legal representative, to act as the consumer-employer as defined in chapter 411, division 30. 
+
+ (17) "Continuing Education" means training approved by the Oregon Home Care Commission consistent with the requirements outlined in chapter 418, division 20 rules. Continuing education is separate from orientation or core training pursuant to chapter 418, division 20 rules. 
+
+ (18) "Core Training" means the mandated training, or series of trainings, required for homecare workers pursuant to chapter 418, division 20 rules. 
+
+ (19) "Credential" means a time-limited approval by DHS for an individual to provide services as a homecare worker, which includes a start date, designated by a service delivery office, no earlier than the individual's most recent background check and signed provider enrollment agreement, and an end date no later than 24 months from the homecare worker's most recent background check. This may also be referred to as an approved to work credential. 
+
+ (20) "Department" means the Oregon Department of Human Services (ODHS), Aging and People with Disabilities. 
+
+ (21) “Electronic Visit Verification (EVV)” means an interface that records the homecare worker’s start time, end time, and geolocation for a service delivered by a homecare worker in real time. 
+
+ (22) "Enhanced Homecare Worker" means a homecare worker who is certified by the Oregon Home Care Commission to provide services and supports for consumers who require assistance with certain medically driven services and supports as assessed by the case manager. 
+
+ (23) "Enrolled" means an individual has met the requirements in OAR 418-020-0020(1)(a) through (f) to become a Medicaid approved homecare worker and has been issued a Medicaid provide r number. 
+
+ (24) "Enrollment Agreement" means the program-specific document an individual must complete to be approved to provide services as a homecare worker. 
+
+ (25) "Established Work Schedule" means the work schedule established by the consumer-employer to best meet the consumer-employer’s assessed needs and agreed to by the homecare worker employed by the consumer-employer. A homecare worker adheres to the established work schedule by arriving to work on time, requesting absence from work in a timely manner, and notifying the consumer-employer of unscheduled absences in a timely manner. 
+
+ (26) "Evidence" means testimony, writings, material objects, or other things presented to the senses that are offered to prove the existence or nonexistence of a fact. 
+
+ (27) “Exceptional Homecare Worker” means a homecare worker who is certified by the Oregon Home Care Commission to provide services and supports for consumers who have been assessed as needing awake staff at least 16 hours a day and who have exceptional behavioral needs. 
+
+ (28) "Exerts Undue Influence" means a homecare worker assumes or attempts to assume control of a consumer-employer’s decision-making, finances, home, property, medication, social interaction, or ability to communicate. Exertion of undue influence may exist whether or not a consumer-employer willfully allows the homecare worker to assume such control. 
+
+ (29) "Fiscal Improprieties" means a homecare worker committed financial misconduct involving a consumer's money, property, or benefits. 
+
+ (a) Fiscal improprieties include, but are not limited to: 
+
+ (A) Financial exploitation, as defined in OAR 411-020-0002(1)(e); 
+
+ (B) Borrowing money, property, or belongings from a consumer; 
+
+ (C) Taking a consumer's property or money; 
+
+ (D) Accepting or receiving items or services purchased for the homecare worker by a consumer-employer; 
+
+ (E) Requesting or demanding payment from the consumer-employer for any reason; 
+
+ (F) Forging a consumer-employers signature; 
+
+ (G) Falsifying requests for payment which includes but is not limited to: 
+
+ (i) Submitting incorrect start and end times of work; or 
+
+ (ii) Submitting payment for days that were not worked. 
+
+ (H) Claiming payment for hours not worked which includes but is not limited to: 
+
+ (i) Claiming payment for specific start and stop times of work that were not actually worked; or 
+
+ (ii) Claiming payment for a total number of hours that is more than the hours actually worked. 
+
+ (I) Claiming to deliver services to a consumer-employer during a time also claimed for travel; 
+
+ (J) On two or more occasions, working or claiming to work hours not prior authorized on a consumer-employer's service plan or working or claiming to work hours over the maximum authorized weekly number of hours allowed for the homecare worker; 
+
+ (K) Claiming hours worked for a consumer-employer while taking time off or when another homecare worker is paid for providing services; 
+
+ (L) Requesting or demanding payment for services from either the Department or the consumer-employer for more than the amount paid following the submission and processing of a properly completed claim; 
+
+ (M) One or more intentional acts of dishonesty for purposes of unearned financial gain; and 
+
+ (N) Creating an overpayment whether intentionally or unintentionally and not paying it back within 6 months. 
+
+ (b) Fiscal improprieties do not include the exchange of money, gifts, or property between a homecare worker and a consumer-employer with whom the homecare worker is related unless an allegation of financial exploitation, as defined in OAR 411-020-0002 or OAR 419-100-0010, has been substantiated based on an adult protective services investigation. 
+
+ (30) “Healthier Oregon” means an OHP Plus equivalent benefit (410-120-1210(4)(h)) for individuals described in 461-135-1080. 
+
+ (31) "Homecare Worker" means a provider, as described in OAR 411-031-0040, that is directly employed by a consumer to provide services to the consumer. 
+
+ (a) The term homecare worker includes: 
+
+ (A) A consumer-employed provider of a Medicaid in-home services recipient including those eligible for the Spousal Pay services; 
+
+ (B) A consumer-employed provider of an Oregon Project Independence Program service recipient; 
+
+ (C) A consumer-employed provider of a Healthier Oregon service recipient; or 
+
+ (D) A consumer-employed provider that provides state plan personal care services. 
+
+ (b) The term homecare worker does not include an Independent Choices Program provider or a personal support worker enrolled through Developmental Disabilities Services or the OHA Health Systems Division, Behavioral Health. 
+
+ (32) "Individual" means an adult applying for or eligible for services per OAR 411-015-0100. 
+
+ (33) "In-Home Services" means those services that meet an individual’s assessed need related to activities of daily living and instrumental activities of daily living when the individual resides in a living arrangement that meets the criteria described in OAR 411-030-0033. 
+
+ (34) "Instrumental Activities of Daily Living (IADL)" means those activities, other than activities of daily living, required by an individual to continue independent living. The definitions and parameters for assessing needs in IADL are identified in OAR 411-015-0007. 
+
+ (35) "Local Office" means the local service staff of the Department or Area Agency on Aging (Type A and B). 
+
+ (36) "Maintain a Drug-Free Workplace" means the Homecare Worker has a duty to: 
+
+ (a) Be free of the influence of alcohol, inhalants, prescription drugs, or other drugs, including over-the-counter medications, while responsible for the care of a consumer-employer, while in the consumer's home or care setting, or while transporting the consumer; or 
+
+ (b) Not manufacture, possess, sell, offer to sell, trade, or use illegal drugs while providing authorized services to a consumer-employer or while in the consumer-employers home or care setting. 
+
+ (37) “Maintain Consumer-Employer Confidentiality” means the homecare worker’s responsibility to not disclose personally identifiable information about a consumer- employer unless otherwise authorized by law. 
+
+ (38) "Mandatory Abuse Reporter" for the purpose of these rules, means any public or private official who is required by state abuse statutes to report alleged abuse. This includes per ORS 419B.005(s) Personal Support Worker and (t) Homecare Workers. 
+
+ (39) “Medicaid” means the program that provides health care coverage and long-term services to low-income individuals. The program is jointly funded by the federal government and states and administered by the State. For purpose of these rules, Medicaid means the state and federal program that provides the funding for long-term services and supports for qualified individuals including those through the Consumer-Employer program. 
+
+ (40) "Medically-Driven Services and Supports" means medical or behavioral treatments, assessed by a case manager, and included in a consumer-employers’ service plan, which a consumer-employer requires in addition to assessed ADL and IADL services. 
+
+ (41) "Natural Supports" or "Natural Support System" means resources and supports (e.g., relatives, friends, neighbors, significant others, roommates, or the community) who are willing to voluntarily provide services to an individual without the expectation of compensation. Natural supports are identified in collaboration with the individual and the potential natural support. The natural support is required to have the skills, knowledge, and ability to provide the needed services and supports. 
+
+ (42) "Non-Motorized Transportation" means traveling on foot, riding a bicycle, or other means of moving between two locations that do not rely on an external energy source. 
+
+ (43) "Office of Administrative Hearings" means the Office described in ORS 183.605 - 183.690 established within the Employment Department to conduct contested case proceedings, and other such duties, on behalf of designated state agencies. 
+
+ (44) “Office of Inspector General (OIG)” means the office within the United States Department of Health and Human Services (HHS) that is charged with identifying and combating waste, fraud, and abuse. 
+
+ (45) “Oregon Home Care Commission (OHCC)” means the commission that was established and operated pursuant to Article XV, Section 11, of the Oregon Constitution, and ORS 410.595 - 410.625. 
+
+ (46) "Oregon Project Independence" means the program of in-home services described in OAR chapter 411, division 032. 
+
+ (47) "Person-Centered Service Plan (Service Plan)" means the written details of the supports, desired outcomes, activities, and resources required for an individual to achieve and maintain personal goals, health, and safety. The plan is written by the case manager with input and approval from the individual. 
+
+ (48) "Personal Support Worker" means the worker defined in OAR 411-375-0010. 
+
+ (49) "Preponderance of the Evidence" means that the factfinder is persuaded that the proponent of the fact has demonstrated that the fact asserted is more likely true than not. 
+
+ (50) "Provider" means the person who renders the services. 
+
+ (51) "Provide Services as Required" means a homecare worker provides services to a consumer-employer as described in the consumer-employers service plan. 
+
+ (52) "Provider Enrollment" means the application and agreement between the Department and a qualified Medicaid provider to deliver services to a Medicaid eligible individual for compensation. The Provider Enrollment agreement must be renewed at the same time the provider’s credentials are renewed. 
+
+ (53) "Provider Number" means an identifying number issued to each homecare worker who is enrolled as a provider through the Department. 
+
+ (54) "Relative" means a person who is related to the individual by blood, marriage, or adoption. 
+
+ (55) "Restricted Homecare Worker" means the Department or Area Agency on Aging has placed restrictions on a homecare worker's provider enrollment as described in OAR 411-031-0040. 
+
+ (56) “S ervice Delivery Office” means the Department or Area Agency on Aging that coordinates the consumer’s service plan. 
+
+ (57) "Service Need" means the assistance an individual requires from another person for those tasks, functions or activities identified in OAR 411-015-0006 and 411-015-0007. 
+
+ (58) "Service Period" means two specific consecutive workweeks, defined by the Department, for a total of 14 calendar days. 
+
+ (59) "Shift Services" means those services provided by awake homecare workers, Independent Choices Program employee providers, or contracted in-home care agency provider to an individual who is authorized to receive 16 hours of services during a 24-hour work period. 
+
+ (60) "Skills, Knowledge, and Ability to Adequately or Safely Perform the Required Work" means a homecare worker possesses and demonstrates the physical, mental, organizational, and emotional skills or abilities necessary to perform services which safely and adequately meet the needs of consumers as well as the homecare worker provider enrollment standards. 
+
+ (61) "Spouse" means an individual who is legally married to the individual. 
+
+ (62) “Substantiated for Committing Abuse” means a homecare worker was found to have committed abuse as defined in OAR chapter 411, division 020; OAR chapter 419, division 100; and ORS 419B.005. 
+
+ (63) "Tasks" means distinct parts of an activity of daily living as defined in OAR chapter 411, division 015. 
+
+ (64) "Termination" means a homecare worker’s Department issued provider number and enrollment has been terminated in accordance with OAR 411-031-0050. 
+
+ (65) "These Rules" mean the rules in OAR chapter 411, division 031. 
+
+ (66) "Time Off" means time where a homecare worker is not providing services to a consumer during a normally scheduled work time. 
+
+ (67) "Unacceptable Background Check" means a check that produces information related to a person's background that precludes the person from being a homecare worker for the following reasons: 
+
+ (a) The person applying to be a homecare worker has been disqualified under OAR 407-007-0275; 
+
+ (b) A homecare worker enrolled in the Consumer-Employed Provider Program for the first time, or after any break in enrollment, after July 28, 2009 has been disqualified under OAR 407-007-0275; or 
+
+ (c) A background check and fitness determination has been conducted resulting in a "denied" status, as defined in OAR 407-007-0210. 
+
+ (68) "Unwelcome Nuisance to the Workplace" means creating disruption in the individual’s home or life and includes, but is not limited to, unwelcome guests, children or pets invited by a homecare worker into a consumer-employers home, unwelcome behaviors such as smoking or vaping, or unwelcome items resulting in the consumer-employers dissatisfaction or a homecare worker's inattention to the consumer's required service needs. 
+
+ (69) "Workday" means 12:00 a.m. through 11:59 p.m. 
+
+ (70) "Workweek" means 12:00 a.m. on Sunday through 11:59 p.m. on Saturday. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 409.050, 410.070, 410.090 & 42 CFR 441.505 
+ 
+ 
+ Statutes/Other Implemented:  410.070, ORS 410.010, 410.020 & 42 CFR 441.505 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 4-2026, minor correction filed 04/13/2026, effective 04/13/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 1-2025, minor correction filed 01/15/2025, effective 01/15/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 3-2023, amend filed 03/01/2023, effective 03/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 27-2018, amend filed 07/31/2018, effective 07/31/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 1-2018, temporary amend filed 01/26/2018, effective 02/01/2018 through 07/30/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 31-2016, f. 8-24-16, cert. ef. 8-28-16 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 6-2016(Temp), f. & cert. ef. 3-23-16 thru 8-28-16 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 2-2016(Temp), f. & cert. ef. 3-2-16 thru 8-28-16 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 47-2013, f. 12-13-13, cert. ef. 12-15-13 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SDP 18-2013(Temp), f. & cert. ef. 7-1-13 thru 12-28-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 4-2013, f. 3-25-13, cert. ef. 3-26-13 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 13-2012(Temp), f. & cert. ef. 9-26-12 thru 3-25-13 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 26-2010, f. 11-29-10, cert. ef. 12-1-10 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 4-2010(Temp), f. 6-23-10, cert. ef. 7-1-10 thru 12-28-10 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 3-2010, f. 5-26-10, cert. ef. 5-30-10 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 4-2007, f. 4-12-07, cert. ef. 4-17-07 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 28-2006(Temp), f. 10-18-06, cert. ef. 10-23-06 thru 4-20-07 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 15-2006, f. 4-26-06, cert. ef. 5-1-06 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 15-2005(Temp), f. & cert. ef. 11-16-05 thru 5-15-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 10-2005, f. & cert. ef. 7-1-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 40-2004(Temp), f. 12-30-04, cert. ef. 1-1-05 thru 6-30-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 17-2004, f. 5-28-04, cert.ef. 6-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

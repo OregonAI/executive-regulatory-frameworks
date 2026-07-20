@@ -1,0 +1,250 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Corrections 
+ Chapter 291 
+ 
+ 
+ 
+ 
+ 
+ Division 5 NETWORK INFORMATION SYSTEM ACCESS AND SECURITY 
+ 291-005-0015 
+ General
+ 
+ 
+ (1) These rules cover the following assets of the department: 
+
+ (a) Any and all information regarding or related to the department’s business and mission, where that information is stored as data contained in or on any information system or is produced for display and review by that system. 
+
+ (A) Data may be recorded on different media, such as magnetic drives (hard disk drive (HDD) or floppy), optical disks (compact disk (CD) or digital versatile disk (DVD), semiconductor drives (solid state drives (SSD) or flash), and a variety of printed output, etc. 
+
+ (B) This data may be stored, processed, accessed, or displayed on any number of computer systems including, but not limited to, those owned and operated by the department, contractors, or consultants. Personally-owned devices are not authorized to store or process agency data. 
+
+ (b) The information systems equipment, including the computer hardware and software, peripheral devices, network components, data communications devices, terminals, stand-alone computers, and printers which are owned, leased, managed, or operated by the department to collect, store, process, maintain, disseminate, dispose of, or display information. 
+
+ (c) Access to and use of the department’s information systems. 
+
+ (2) These rules enable the agency to mitigate the potential loss of data from misuse of user accounts. Further prevention, mitigation, and remediation efforts are explained in agency policies and procedures as well as the State of Oregon Security Plan and State of Oregon Information and Cyber Security Standards. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 179.040, 423.020, 423.030 & 423.075 
+ 
+ 
+ Statutes/Other Implemented:  ORS 179.040, 423.020, 423.030 & 423.075 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 5-2024, amend filed 04/29/2024, effective 04/29/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 16-1999, f. 9-24-99, cert. ef. 10-1-99 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CD 10-1997, f. & cert. ef. 6-20-97 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CD 24-1992, f. 11-24-92, cert. ef. 12-1-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CD 12-1986, f. & ef. 6-30-86 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CD 38-1985, f. & ef. 8-16-85 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CD 7-1981, f. & ef. 4-17-81 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

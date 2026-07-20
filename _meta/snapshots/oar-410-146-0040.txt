@@ -1,0 +1,324 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 146 AMERICAN INDIAN/ALASKA NATIVE 
+ 410-146-0040 
+ ICD-10-CM Diagnosis Codes and CPT/HCPCs Procedure Codes
+ 
+ 
+ (1) The Division requires diagnosis codes on all claims including those submitted by independent laboratories and portable radiology and including nuclear medicine and diagnostic ultrasound providers. A clinic must always provide the client's diagnosis to ancillary service providers when prescribing services, equipment, and supplies. 
+
+ (2) The appropriate ICD-10-CM code must be used to identify: 
+
+ (a) Diagnoses; 
+
+ (b) Symptoms; 
+
+ (c) Conditions; 
+
+ (d) Problems; 
+
+ (e) Complaints; or 
+
+ (f) Other reasons for the encounter/visit. 
+
+ (3) Clinics must list the principal diagnosis in the first position on the claim. Clinics must use the principal diagnosis code for the diagnosis, condition, problem, or other reason for an encounter/visit shown in the medical record to be chiefly responsible for the services provided. Clinics may list up to three additional diagnosis codes on the claim for documented conditions that coexist at the time of the encounter/visit and require or affect client care, treatment, or management. 
+
+ (4) Clinics must list the diagnosis codes using the highest degree of specificity available in the ICD-10-CM. The Division considers a diagnosis code invalid if it has not been coded to its highest specificity. 
+
+ (5) The Division requires providers to use the standardized code sets required by the Health Insurance Portability and Accountability Act (HIPAA) and adopted by CMS. Unless otherwise directed in rule, providers must accurately code claims according to the national standards in effect for the date the service was provided: 
+
+ (a) For dental services, use codes that are in effect for the date the services was provided that are found in Dental Procedures and Nomenclature as maintained and distributed by the American Dental Association; 
+
+ (b) For health care services, use the combination of Health Care Common Procedure Coding System (HCPCS) and Current Procedural Terminology (CPT) codes in effect for the date the services was provided. These services include, but are not limited to, the following: 
+
+ (A) Physician services; 
+
+ (B) Physical and occupational therapy services; 
+
+ (C) Radiology procedures; 
+
+ (D) Clinical laboratory tests; 
+
+ (E) Other medical diagnostic procedures; 
+
+ (F) Hearing and vision services. 
+
+ (6) The Division maintains unique coding and claim submission requirements for Administrative Exams and Death with Dignity services. Refer to OAR 410 division 150, Administrative Examination and Billing Services, and OAR 410-130-0670, Death with Dignity Services for specific requirements. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042 & ORS 414.065 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.065 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 42-2017, amend filed 10/03/2017, effective 10/03/2017 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 51-2015, f. 9-22-15, cert. ef. 10-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 41-2008, f. 12-11-08, cert. ef. 1-1-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 19-2007, f. 12-5-07, cert. ef. 1-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 62-2004, f. 9-10-04, cert. ef. 10-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 68-2003, f. 9-12-03, cert. ef. 10-1-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 59-2002, f. & cert. ef. 10-1-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 45-2001, f. 9-24-01, cert. ef. 10-1-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 6-2001, f. 3-30-01, cert. ef. 4-1-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 25-2000, f. 9-28-00, cert. ef. 10-1-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 2-1999, f. & cert. ef. 2-1-99 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

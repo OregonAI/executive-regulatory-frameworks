@@ -1,0 +1,374 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Self-Sufficiency Programs - Chapter 461 
+ 
+ 
+ 
+ 
+ Division 160 DETERMINING FINANCIAL ELIGIBILITY AND CALCULATING BENEFIT LEVEL 
+ 461-160-0551 
+ Income Deductions; Non-SSI OSIP (except OSIP-EPD) and OSIPM (except OSIPM-EPD) in the Community When There Are Children in the Household Group
+ 
+ 
+ (1) For purposes of this rule: 
+
+ (a) ”Ineligible child" means an individual who is: 
+
+ (A) Unmarried; 
+
+ (B) Living with a natural or adoptive parent; 
+
+ (C) Not considered a decision-maker in the household; 
+
+ (D) Not eligible to receive SSI or TANF benefits; and 
+
+ (E) Either under the age of 18; or under the age of 22 and attending full-time secondary, postsecondary, or vocational-technical training designed to prepare the individual for employment. 
+
+ (b) "Ineligible spouse" means a spouse (see OAR 461-001-0000) who is not eligible to receive either SSI or TANF. 
+
+ (2) This rule is used to calculate adjusted income (see OAR 461-001-0000) for an individual in the OSIP (except OSIP-EPD) and OSIPM (except OSIPM-EPD) programs who meets the requirements of all of the following subsections: 
+
+ (a) Either: 
+
+ (A) The individual is considered a child under OAR 461-001-0000; or 
+
+ (B) The individual is age 18 or older and has at least one ineligible child (see subsection (1)(a) of this rule) in the household group (see OAR 461-110-0210). 
+
+ (b) Live in the community. 
+
+ (c) Is not assumed eligible (see OAR 461-135-0010). 
+
+ (d) Does not receive home and community-based care (see OAR 461-001-0030). 
+
+ (3) For purposes of this rule, and for determining whether an individual’s ineligible spouse is included in the financial group (see OAR 461-115-0530), the countable (see OAR 461-001-0000) income of the ineligible spouse is further reduced by the following: 
+
+ (a) All child support paid by an ineligible spouse to any individual who is not in the household group . 
+
+ (b) The Department deducts the amount of child support paid from unearned income first, and uses any remaining balance to reduce earned income. 
+
+ (4) For an individual described in section (2) of this rule who is 18 or older and does not have a spouse in the household group , the Department calculates the adjusted income of the individual under subsections (7)(b) to (7)(g) of this rule.  If the individual’s adjusted income is equal to or greater than the OSIPM program adjusted income standard for a need group of one under OAR 461-155-0250, the individual is not eligible for the OSIPM program. 
+
+ (5) For an individual described in section (2) of this rule who is 18 or older, and has a spouse in the household group who is receiving TANF or SSI benefits, the Department calculates the adjusted income of the financial group under subsections (7)(b) to (7)(g) of this rule.  If the adjusted income of the financial group is equal to or greater than the OSIPM program adjusted income standard for a need group of two under OAR 461-155-0250, the individual is not eligible for the OSIPM program. 
+
+ (6) For an individual described in section (2) of this rule who is 18 or older, with an ineligible spouse in the household group , the Department calculates the adjusted income of the individual under subsections (7)(b) to (7)(g) of this rule first. 
+
+ (a) If the individual’s adjusted income is equal to or greater than the OSIPM program adjusted income standard for a need group of one under OAR 461-155-0250 after completing the calculation referenced in section (6) of this rule , the individual is not eligible for OSIPM. 
+
+ (b) If the individual’s adjusted income is less than the OSIPM program adjusted income standard for a need group of one under OAR 461-155-0250 after completing the calculation referenced in section (6) of this rule, and the ineligible spouse is in the individual’s financial group , the Department calculates the adjusted income of the financial group under sections (3) and (7) of this rule. 
+
+ (c) If the individual’s adjusted income is less than the OSIPM program adjusted income standard for a need group of one under OAR 461-155-0250 after completing the calculation referenced in section (6) of this rule, and the ineligible spouse is not in the individual’s financial group , the individual meets the income requirements for the OSIPM program. 
+
+ (7) To determine adjusted income , deductions from countable (see OAR 461-001-0000) income are made in the following order: 
+
+ (a) An allocation as described below: 
+
+ (A) When an adult is applying, income is allocated (see paragraph (C) of this subsection) from an ineligible spouse included in the financial group to each ineligible child of the couple. 
+
+ (B) When a child is applying: 
+
+ (i) Income from ineligible parents is first allocated to each ineligible child in the household group . 
+
+ (ii) Second, the remaining income from subparagraph (i) of this paragraph is reduced as provided in subsections (b) to (g) of this section. 
+
+ (iii) Third, the remaining income is reduced by the non-SSI OSIP and OSIPM adjusted income standard of the – 
+
+ (I) Couple if both parents live with the child ; or 
+
+ (II) Individual if only one ineligible parent lives with the child . 
+
+ (iv) Fourth, the remainder is deemed equally to each child applicant in the household group . 
+
+ (v) The income deemed to the child is added to the other income of the child and deductions are taken as described in subsections (b) to (g) of this section to calculate the child's adjusted income . 
+
+ (C) The maximum amount of each allocation under paragraphs (A) and (B) of this subsection is the difference between the couple and the individual SSI Standard. The allocation for paragraphs (A) and (B) of this subsection is reduced by the other countable income of each ineligible child . An allocation is taken from unearned income first, and any remaining allocation is then taken from earned income. 
+
+ (b) One standard deduction of $20 from unearned income. 
+
+ (A) This deduction may be taken from earned income if the individual or financial group has less than $20 in unearned income. 
+
+ (B) This deduction does not apply to a benefit based on need that is totally or partially funded by the federal government or by a nongovernmental agency. 
+
+ (c) One standard earned income deduction of $65. 
+
+ (d) An income deduction for documented Impairment Related Work Expenses (see OAR 461-001-0000). 
+
+ (e) One half of the remaining earned income. 
+
+ (f) An income deduction for documented Blind Work Expenses (see OAR 461-001-0000). 
+
+ (g) Any earned income used to fulfill a plan for self-support approved by the Social Security Administration. 
+
+   
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 409.050, 410.070, 411.060, 411.070, 411.083, 411.404, 411.706, 413.085 & 414.685 
+ 
+ 
+ Statutes/Other Implemented:  ORS 409.010, 410.070, 411.060, 411.070, 411.083, 411.404, 411.706, 413.085 & 414.685 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 11-2018, amend filed 03/09/2018, effective 04/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 14-2017, f. 6-5-17, cert. ef. 7-1-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 35-2015, f. 12-23-15, cert. ef. 1-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 15-2014, f. & cert. ef. 7-1-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 26-2013, f. & cert. ef. 10-1-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 17-2013(Temp), f. & cert. ef. 7-1-13 thru 12-28-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 13-2009, f. & cert. ef. 7-1-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 5-2009, f. & cert. ef. 4-1-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 25-2008(Temp), f. 12-31-08, cert. ef. 1-1-09 thru 6-30-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 23-2008, f. & cert. ef. 10-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 17-2008, f. & cert. ef. 7-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

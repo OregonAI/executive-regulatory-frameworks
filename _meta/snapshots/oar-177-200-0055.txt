@@ -1,0 +1,173 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon State Lottery 
+ Chapter 177 
+ 
+ 
+ 
+ 
+ 
+ Division 200 GENERAL VIDEO LOTTERYSM GAME RULES 
+ 177-200-0055 
+ Requirements for Randomness Testing 
+ 
+ (1) Chi-Squared Analysis: Each card position, symbol position, or number position must satisfy the 99 percent confidence limit using standard chi-squared analysis. For purposes of this rule, chi-squared analysis is the sum of the squares of the difference between the expected result and the observed result. Card position means the first card dealt, second card dealt in sequential order, up to the last card dealt. Symbol position means the first symbol drawn, second symbol drawn in sequential order, up to the last symbol drawn. Number position means first number drawn, second number drawn in sequential order, up to the 20th number drawn.  (2) Run Test: Each card position, symbol position, or number position must not produce a significant statistic with regard to producing patterns of occurrences. For purposes of this rule, the run test is a mathematical statistic that determines the existence of recurring patterns within a set of data. Each card, symbol, or number position will be considered random if it meets the 99 percent confidence level with regard to the run test or any similar pattern-testing statistic.  (3) Correlation Test: Each card position, symbol position, or number position must be independently chosen without regard to any other card, symbol, or number drawn within that game play. This test is the correlation test. Each pair of card, symbol, or number positions is considered random if it meets the 99 percent confidence level using standard correlation analysis.  (4) Serial Correlation Test: Each card position, symbol position, or number position must be independently chosen without reference to the same card, symbol, or number position in the previous game. This test is the serial correlation test. Each card, symbol, or number position is considered random if it meets the 99 percent confidence level using standard serial correlation analysis.  (5) Outside Influences: The random number generator and selection process must be impervious to influences from outside devices including, but not limited to, electromagnetic interferences, electrostatic discharge, and radio frequency interferences. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  OR Const. Art. XV, Sec. 4(4) & ORS 461 
+ 
+ 
+ Statutes/Other Implemented:  ORS 461.215 & 461.217 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ LOTT 15-2003, f. & cert. ef. 9-29-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ LOTT 7-2003(Temp), f. & cert. ef. 6-5-03 thru 11-28-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

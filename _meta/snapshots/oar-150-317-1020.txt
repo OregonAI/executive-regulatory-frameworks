@@ -1,0 +1,364 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 317 CORPORATION EXCISE TAX ACT OF 1929: RULES AND GENERAL PROVISIONS 
+ 150-317-1020 
+ Corporate Activity Tax Unitary Business Factors, Common Ownership and Filing Requirements for Unitary Groups 
+ 
+ (1) Definition. As used in this rule, the term “entity” or “business entity” refers to any individual or legal entity described in ORS 317A.100(14). 
+
+ (2) The presence of all of the factors described in ORS 317A.100(19)(a)(A)-(C) will demonstrate that a unitary business exists, but the presence of one or two such factors may also demonstrate the flow of value requisite for a unitary business determination. 
+
+ (3) The Concept of a Unitary Business . A unitary business is a single economic enterprise that is made up either of separate parts of a single entity or a commonly owned group of entities that are sufficiently interdependent, integrated, and interrelated through their activities so as to provide a synergy and mutual benefit that produces a sharing or exchange of value among them and a significant flow of value to the separate parts. This sharing or exchange of value may also be described as requiring that the operation of one part of the business be dependent upon, or contribute to, the operation of another part of the business. In other words, if the activities of one business either contribute to the activities of another business or are dependent upon the activities of another business, those businesses are part of a unitary business. 
+
+ (4) Requirement for a Unitary Business . The sharing or exchange of value described in section (3) that defines the scope of a unitary business requires more than the mere flow of funds arising out of a passive investment or from the financial strength contributed by a distinct business undertaking that has no operational relationship to the unitary business. In Oregon, the unitary business principle will be applied to the fullest extent allowed by the U.S. Constitution. 
+
+ (5) Separate Trades or Businesses Conducted within a Single Entity . A single entity may have more than one unitary business. In such cases, it is necessary to determine the commercial activity attributable to each separate unitary business for purposes of sourcing commercial activity to Oregon under ORS 317A.128, and the subtraction under ORS 317A.119. 
+
+ (6) Unitary Business Unaffected by Formal Business Organization . A unitary business may exist within a single entity or among a commonly owned group of entities. 
+
+ (7) Determination of a Unitary Business . A unitary business is characterized by significant flows of value evidenced by factors such as those described in Mobil Oil Corp. v. Vermont , 445 U.S. 425 (1980) and ORS 317A.100(19)(a)(A) to (C): centralization of management, economies of scale, and functional integration. These factors provide evidence of whether the business activities operate as an integrated whole or exhibit substantial mutual interdependence. Facts suggesting the presence of the factors mentioned above should be analyzed in combination for their cumulative effect and not in isolation. A particular business operation may be suggestive of one or more of the factors mentioned above. 
+
+ (8) Description and Illustration of Centralization of Management, Economies of Scale, and Functional Integration. 
+
+ (a) Centralization of Management . Centralization of management exists when officers, directors, partners, members, managers, or others jointly participate in the management decisions that affect the respective business activities and that may also operate to the benefit of the entire economic enterprise. Centralization of management can exist whether the centralization is effected from a parent entity to a subsidiary entity, from a subsidiary entity to a parent entity, from one subsidiary entity to another, from one division within a single entity to another division within an entity, or from any combination of the foregoing. Centralization of management may exist even when day-to-day management responsibility and accountability has been decentralized, so long as the management has an ongoing operational role with respect to the business activities. An operational role can be effected through mandates, consensus building, or an overall operational strategy of the business, or any other mechanism that establishes joint management. 
+
+ (A) Facts Providing Evidence of Centralization of Management . Evidence of centralization of management is provided when common officers, directors, partners, members, managers, or others participate in the decisions relating to the business operations of the different segments. Centralization of management may exist when management shares or applies knowledge and expertise among the parts of the business. Existence of common officers, directors, partners, members, managers, or others, while relevant to a showing of centralization of management, does not alone provide evidence of centralization of management. Common officers are more likely to provide evidence of centralization of management than are common directors. 
+
+ (B) Stewardship Distinguished . Centralized efforts to fulfill stewardship oversight are not evidence of centralization of management. Stewardship oversight consists of those activities that any owner would take to review the performance of or safeguard an investment. Stewardship oversight is distinguished from those activities that an owner may take to enhance value by integrating one or more significant operating aspects of one business activity with the other business activities of the owner. For example, implementing reporting requirements or mere approval of capital expenditures may evidence only stewardship oversight. 
+
+ (b) Economies of Scale . Economies of scale refers to a relation among and between business activities resulting in a significant decrease in the average per unit cost of operational or administrative functions due to the increase in operational size. Economies of scale may exist from the inherent cost savings that arise from the presence of functional integration or centralization of management. The following are examples of business operations that can support the finding of economies of scale. The order of the list does not establish a hierarchy of importance. 
+
+ (A) Centralized Purchasing . Centralized purchasing designed to achieve savings due to the volume of purchases, the timing of purchases, or the interchangeability of purchased items among the parts of the business engaging in the purchasing provides evidence of economies of scale. 
+
+ (B) Centralized Administrative Functions . The performance of traditional administrative functions, such as legal services, payroll services, pension and other employee benefit administration, in common among the parts of the business may result in some degree of economies of scale. A business entity that secures savings in the performance of corporate administrative services due to its affiliation with other business entities that it would not otherwise reasonably be able to secure on its own because of its size, financial resources, or available market, provides evidence of economies of scale. 
+
+ (c) Functional Integration . Functional integration refers to transfers between, or pooling among, business activities that significantly affect the operation of the business activities. Functional integration includes, but is not limited to, transfers or pooling with respect to the unitary business's products or services, technical information, marketing information, distribution systems, purchasing, and intangibles such as patents, trademarks, service marks, copyrights, trade secrets, know-how, formulas, and processes. There is no specific type of functional integration that must be present. The following is a list of examples of business operations that can support the finding of functional integration. The order of the list does not establish a hierarchy of importance. 
+
+ (A) Sales, exchanges, or transfers (collectively "sales") of products, services, or intangibles between business activities provide evidence of functional integration. The significance of the intercompany sales to the finding of functional integration will be affected by the character of what is sold and/or the percentage of total sales or purchases represented by the intercompany sales. For example, sales among business entities that are part of a vertically integrated unitary business are indicative of functional integration. Functional integration is not negated by the use of a readily determinable market price to affect the intercompany sales, because such sales can represent an assured market for the seller or an assured source of supply for the purchaser. 
+
+ (B) Common Marketing . The sharing of common marketing features among business entities is an indication of functional integration when such marketing results in significant mutual advantage. Common marketing exists when a substantial portion of the business entities’ products, services, or intangibles are distributed or sold to a common customer, when the business entities use a common trade name or other common identification, or when the business entities seek to identify themselves to their customers as a member of the same enterprise. The use of a common advertising agency or a commonly owned or controlled in-house advertising office does not by itself establish common marketing that is suggestive of functional integration. Such activity, however, is relevant to determining the existence of economies of scale or centralization of management. 
+
+ (C) Transfer or Pooling of Technical Information or Intellectual Propert y. Transfers or pooling of technical information or intellectual property, such as patents, copyrights, trademarks and service marks, trade secrets, processes or formulas, know-how, research, or development, provide evidence of functional integration when the matter transferred is significant to the businesses' operations. 
+
+ (D) Common Distribution System . Use of a common distribution system by the business entities, under which inventory control and accounting, storage, trafficking, or transportation are controlled through a common network provides evidence of functional integration. 
+
+ (E) Common Purchasing . Common purchasing of substantial quantities of products, services, or intangibles from the same source by the business entities, particularly where the purchasing results in significant cost savings or where the products, services or intangibles are not readily available from other sources and are significant to each entity’s operations or sales, provides evidence of functional integration. 
+
+ (F) Common or Intercompany Financing . Significant common or intercompany financing, including the guarantee by or the pledging of the credit of, one or more business entities for the benefit of another business entity or entities provides evidence of functional integration, if the financing activity serves an operational purpose of both borrower and lender. Lending which serves an investment purpose of the lender does not necessarily provide evidence of functional integration. 
+
+ (9) Indicators of a Unitary Business. 
+
+ (a) Same Type of Business . Business activities that are in the same general line of business generally constitute a single unitary business, as, for example, a multistate grocery chain. 
+
+ (b) Steps in a Vertical Process . Business activities that are part of different steps in a vertically structured business almost always constitute a single unitary business. For example, a business engaged in the exploration, development, extraction, and processing of a natural resource and the subsequent sale of a product based upon the extracted natural resource, is engaged in a single unitary business, regardless of the fact that the various steps in the process are operated substantially independently of each other with only general supervision from the business's executive offices. 
+
+ (c) Strong Centralized Management. Business activities which might otherwise be considered as part of more than one unitary business may constitute one unitary business when there is a strong central management, coupled with the existence of centralized departments for such functions as financing, advertising, research, or purchasing. Strong centralized management exists when a central manager or group of managers makes substantially all of the operational decisions of the business. For example, some businesses conducting diverse lines of business may properly be considered as engaged in only one unitary business when the central executive officers are actively involved in the operations of the various business activities and there are centralized offices which perform for the business activities the normal matters which a truly independent business would perform for itself, such as personnel, purchasing, advertising, or financing. 
+
+ (10) More Than 50 Percent Common Ownership. If a person owns, directly or indirectly, more than 50 percent of the voting power and value of the ownership interest of an entity, then the person and entity are under common ownership, and the person and entity are included in a unitary group if they are also engaged in a unitary business. The provisions of this section (10) apply to all persons and entities described in ORS 317A.100(14) other than entities described in ORS 317A.100(4)(a) to (i),(k), and (L). 
+
+ (a) For purposes of the definition of common ownership, each of the following apply: 
+
+ (A) "Voting power" means: 
+
+ (i) the power of all classes of stock entitled to vote that possess the power to elect the membership of the board of directors of a corporation, or 
+
+ (ii) in the case of an entity that is not a corporation, the power of all ownership interests with the right to control or determine the management of the entity. 
+
+ (B) "More than 50 percent of the voting power of the ownership interest" means voting power equal to more than 50 percent of all outstanding voting stock or other ownership interests with the ability to control or determine the management of the entity. 
+
+ (C) "Ownership interest" includes an ownership interest where ownership is retained but the actual voting power is transferred in the following manner: 
+
+ (i) For one year or less, or 
+
+ (ii) By proxy, voting trust, written shareholder agreement, or by similar device, where the transfer is revocable by the transferor. 
+
+ (b) "Common ownership" in a group of persons means any of the following: 
+
+ (A) A parent entity and any one or more entity or chains of entities, connected through direct ownership (or constructive ownership) with the parent entity, but only if: 
+
+ (i) The parent owns stock or other ownership interest possessing more than 50 percent of the voting power of at least one entity, and, if applicable; 
+
+ (ii) Ownership interests cumulatively possessing more than 50 percent of the voting power of each of the entities, except the parent entity, is owned by the parent, or one or more entities described in subparagraph (i). 
+
+ (B) Any two or more entities, if stock or ownership interest possessing more than 50 percent of the voting power of the entities is owned, or constructively owned, by the same person. 
+
+ (C) Any two or more entities that constitute stapled entities. 
+
+ (i) For purposes of this paragraph, "stapled entities" means any group of two or more entities if more than 50 percent of the ownership or beneficial ownership of the stock or other ownership interest possessing voting power in each entity consists of stapled interests. 
+
+ (ii) Two or more interests are stapled interests if, by reason of form of ownership, restrictions on transfer, or other terms or conditions, in connection with the transfer of one of the interests, the other interest or interests are also transferred or required to be transferred. 
+
+ (c) Membership in a commonly owned group must be treated as terminated in any year, or fraction thereof, in which the conditions of subsection (b) of this section are not met, except as follows: 
+
+ (A) When stock or an ownership interest of an entity is sold, exchanged, or otherwise disposed of, the membership of an entity in a commonly owned group cannot be terminated, if the requirements of subsection (b) of this section are again met immediately after the sale, exchange, or disposition. 
+
+ (B) The department may treat the commonly owned group as remaining in place if the conditions of subsection (b) of this section are again met within a period not to exceed two years. 
+
+ (d) Except as otherwise provided, stock or an ownership interest is "owned" when title to the stock or ownership interest is directly or indirectly held, or if the stock or ownership interest is constructively owned. 
+
+ (A) An individual constructively owns stock or an ownership interest that is directly owned by any of the following: spouse, parents, brothers or sisters, grandparents, children, grandchildren, and an estate or trust, of which the individual is an executor, trustee, or grantor, to the extent that the estate or trust is for the benefit of that individual's spouse or children. 
+
+ (B) If an ownership interest in an entity is owned directly or indirectly by or for any person, such person shall be considered as owning any stock or other ownership interest owned directly or indirectly by or for such entity, in that proportion which the value of the entity interest that such person owns bears to the value of all ownership interests in that entity. 
+
+ (C) In the case of a partnership, a person owning more than 50 percent of the capital or profits interest in the partnership is treated as a common owner in the partnership. 
+
+ (D) In the case of a grantor trust to which IRC § 677 applies, the grantor is treated as the owner of stock or ownership interest held by the trust. 
+
+ (E) In the case of a trust to which IRC § 678 applies, the person, other than the trust, described in IRC § 678 is treated as the owner of stock or ownership interest held by the trust. 
+
+ 
+ Example 1: Harvey and his siblings, Ellie and Ben, each own one third of the stock in S corporation DEF. Harvey also owns 100% of sole proprietorship ABC. ABC and DEF are engaged in activities that constitute a unitary business. Harvey constructively owns 100% of DEF because of his family relationship with Ellie and Ben. Because DEF and ABC meet the common ownership requirement and are engaged in a unitary business, they must register, file, and pay the corporate activity tax as a single taxpayer. 
+ 
+
+ (11) Member of More Than One Unitary Group. 
+
+ (a) If, in the application of the constructive ownership rules in section (10), an entity is included in more than one unitary group, the entity must file annually as a member of the unitary group that realizes the greatest amount of Oregon commercial activity, after the exclusions described under ORS 317A.100(1)(b) and without deduction for any cost inputs or any labor costs attributable to the subtraction provided in ORS 317A.119. 
+
+ 
+ Example 2: Hill Enterprises (Hill), Lupine Inc. (Lupine), and Terry Mart are members of the same unitary group. During the tax year Hill, Lupine and Terry Mart together realized total Oregon commercial activity of $6 million after exclusions. Hill, Lupine and Terry Mart do not have any receipts from transactions among members of a unitary group that would be excluded under ORS 317A.100(1)(b)(FF). Because of the application of the constructive ownership rules in section (10), Hill is also a member of a unitary group with Jasmine Dealers (Jasmine) and Janet Outfitters (Janet). Hill, Jasmine and Janet realized total Oregon commercial activity after exclusions of $3 million during the tax year. Hill, Jasmine and Janet do not have any receipts from transactions among members of a unitary group that would be excluded under ORS 317A.100(1)(b)(FF). Hill is unitary with more than one group but is required to be part of only one unitary group. Hill must file with Lupine and Terry Mart because this is the unitary group with the greatest amount of Oregon commercial activity after exclusions. Jasmine and Janet file together as a unitary group. 
+ 
+
+ (b) If there are receipts from transactions that would be excluded under ORS 317A.100(1)(b)(FF), the exclusion is taken into account in determining the unitary group with which the entity must file under section (11)(a). However, once it is determined pursuant to section (11)(a) that an entity is not included in the Corporate Activity Tax return of a unitary group, that unitary group may not exclude receipts from transactions with the entity that would otherwise be excluded from commercial activity under ORS 317A.100(1)(b)(FF). 
+
+ 
+ Example 3: Same facts as in Example 2, except that Jasmine had $5 million in receipts from Hill included in Oregon commercial activity before application of the exclusion under ORS 317A.100(1)(b)(FF) and Terry Mart also has $1 million in receipts from Hill included in Oregon commercial activity before application of ORS 317A.100(1)(b)(FF). Hill, Janet, and Jasmine have a total of $8 million in Oregon commercial activity before exclusions under ORS 317A.100(1)(b)(FF). Hill, Lupine, and Terry Mart have a total of $7 million in Oregon commercial activity before exclusions under ORS 317A.100(1)(b)(FF). Hill is still required to file with Lupine and Terry Mart because this is the unitary group with the greatest amount of Oregon commercial activity after exclusions when Hill is considered a member of each group. Therefore, Hill is not part of a unitary group with Jasmine and Janet for purposes of the return filed under ORS 317A.106. Jasmine and Janet must file together as a unitary group and may not exclude from Oregon commercial activity reported on the group’s return the $5 million in receipts Jasmine received from Hill. The $1 million that Terry Mart receives from Hill is excluded from Oregon commercial activity on the unitary group return filed by Hill, Lupine, and Terry Mart. 
+ 
+
+ (12) Filing requirements. In accordance with ORS 317A.106, persons who compose a unitary group, as defined in ORS 317A.100(19), shall register, file, and pay the corporate activity tax as a single taxpayer based on the commercial activity of all members of the unitary group, if at least one member of the unitary group has substantial nexus with Oregon (refer to OAR 150-317-1010: Substantial Nexus). Unitary groups with non-U.S. members that have no commercial activity in Oregon, or that realize commercial activity that is excluded from the definition of Oregon commercial activity may elect to modify unitary group membership to exclude such non-U.S. members as provided in OAR 150-317-1025. 
+
+ 
+ Example 4 : Clarendon Corp. (Clarendon), Deanwood LLC (Deanwood), and Eisenhower Partnership (Eisenhower) are members of the same unitary group. Clarendon is an engineering company based in Oregon. Deanwood is headquartered outside of Oregon and sells tangible personal property throughout the United States. Eisenhower provides consulting services to third parties and has no employees or property in Oregon. During the calendar year, Clarendon realized commercial activity of $2.3 million in Oregon from transactions with persons outside the unitary group. Deanwood realized commercial activity in Oregon of $230,000 from transactions with persons outside the unitary group. Eisenhower provided one hour of consulting service to a third party in Oregon, from which it realized $1,000 of commercial activity. Clarendon and Deanwood each have substantial nexus with Oregon. Eisenhower does not. Because they are members of a unitary group at least one of which has substantial nexus with Oregon, the unitary group is required to register, file, and pay the corporate activity tax as a single taxpayer on the total amount of commercial activity realized by Clarendon, Deanwood, and Eisenhower. 
+ 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 & 317A.143 
+ 
+ 
+ Statutes/Other Implemented:  ORS 317A.100, 317A.106 & 317A.116 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 6-2024, amend filed 02/28/2024, effective 03/01/2024 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 2-2023, minor correction filed 01/26/2023, effective 01/26/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 9-2021, amend filed 06/28/2021, effective 07/01/2021 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 4-2021, temporary amend filed 02/22/2021, effective 03/01/2021 through 08/27/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 11-2020, adopt filed 06/24/2020, effective 06/28/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 15-2019, temporary adopt filed 12/30/2019, effective 01/01/2020 through 06/28/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

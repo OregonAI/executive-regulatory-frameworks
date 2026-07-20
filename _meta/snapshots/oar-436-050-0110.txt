@@ -1,0 +1,419 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Workers' Compensation Division - Chapter 436 
+ 
+ 
+ 
+ 
+ Division 50 EMPLOYER/INSURER COVERAGE RESPONSIBILITY 
+ 436-050-0110 
+ Notice of Insurer’s or Service Company’s Place of Business in State; Records Insurer Must Maintain
+ 
+ 
+ (1) Oregon claims processing location required. Except as described in section (4) of this rule, every insurer that is authorized to issue workers’ compensation policies to Oregon subject employers must establish and maintain at least one designated Oregon claims processing location as required by ORS 731.475, subject to the following: 
+
+ (a) The insurer must conduct all claims processing activities necessary to meet the requirements of ORS chapter 656 and OAR chapter 436 from its designated claims processing locations, including, but not limited to: 
+
+ (A) Processing claims; 
+
+ (B) Making available all records required under OAR 436-050-0120; and 
+
+ (C) Responding to specific claims processing inquiries; 
+
+ (b) At the director’s request, the insurer must: 
+
+ (A) Make claims processing locations accessible during regular business hours or other reasonable times to accommodate periodic audits and examination of records; or 
+
+ (B) Provide the director electronic access to the records to be audited or examined. 
+
+ (c) The insurer may process claims subject to ORS chapter 656 remotely. As used in this subsection, to “process claims remotely” means to process claims outside of an insurer’s Oregon claims processing location, including at the place of residence of an employee of the insurer, as directed from the Oregon claims processing location. 
+
+ (A) The insurer may not process claims at places of business outside of Oregon that are maintained or operated by the insurer or a service company, except as follows: 
+
+ (i) The insurer may receive claim reports at locations outside of Oregon if claims are forwarded to an Oregon claims processing location for processing; and 
+
+ (ii) Payments may be made from outside of Oregon as directed from the Oregon claims processing location. 
+
+ (B) The director may suspend an insurer’s authority to process claims remotely, subject to the following: 
+
+ (i) The director may suspend an insurer’s authority to process claims remotely when: 
+
+ (I) The director finds the insurer has repeatedly violated ORS chapter 656 or OAR chapter 436; and 
+
+ (II) The director has reason to believe that the violations are related to the insurer’s practice of processing claims remotely. 
+
+ (ii) The director will not suspend an insurer’s authority to process claims remotely until the insurer has been given notice and the opportunity to be heard through a show-cause hearing with the director. During the show-cause hearing, the insurer will be provided an opportunity to: 
+
+ (I) Present evidence regarding the proposed order to suspend the insurer’s authority to process claims remotely; and 
+
+ (II) Give reason why the insurer should be permitted to continue processing claims remotely. 
+
+ (iii) If the director suspends an insurer’s authority to process claims remotely, the insurer may not process claims remotely for a specified period of time, up to two years. 
+
+ (iv) The insurer may request the director restore the insurer’s authority to process claims remotely by submitting a plan demonstrating its ability and commitment to comply with ORS chapter 656 and OAR chapter 436. 
+
+ (v) The insurer may request a hearing on an order of suspension issued under this rule under OAR 436-050-0008(5). 
+
+ (2) Notice of insurer’s business in Oregon. The insurer must give the director notice of its business in Oregon, subject to the following: 
+
+ (a) The notice must be filed with the director not more than 30 days after the insurer is authorized and starts writing workers’ compensation insurance policies for Oregon subject employers; 
+
+ (b) The notice must include: 
+
+ (A) The insurer’s: 
+
+ (i) Legal name; 
+
+ (ii) Federal Employer Identification Number; 
+
+ (iii) Identification numbers assigned by the National Association of Insurance Commissioners and the National Council on Compensation Insurance; and 
+
+ (iv) Certificate of Authority number issued by the director; 
+
+ (B) The insurer’s principal place of business, including its street and mailing addresses, telephone number, and a general email address that is monitored on a regular basis, where the director can direct general inquiries; 
+
+ (C) A primary contact at the insurer’s principal place of business, including the contact’s name, title, phone number, fax number, and email address; 
+
+ (D) If the insurer maintains an Oregon claims processing location: 
+
+ (i) The street and mailing addresses, and telephone number of the claims processing location; and 
+
+ (ii) The name, title, phone number, fax number, and email address of a primary contact for the claims processing location; 
+
+ (E) Contact information for: 
+
+ (i) A designated person or position within the company who will assure payment of penalties and resolution of collections issues; and 
+
+ (ii) A designated person or position within the company who can respond to workers’ compensation policy and proof of coverage filing inquiries; 
+
+ (F) If the insurer uses more than one Oregon claims processing location, or locations operated by service companies as described in section (4) of this rule: 
+
+ (i) The name of each service company, if applicable; 
+
+ (ii) The street and mailing addresses of each claims processing location; and 
+
+ (iii) The name, title, phone number, and email address of a contact person at each claims processing location; and 
+
+ (G) Any other information requested by the director; 
+
+ (c) The information provided under this section must reasonably lead an inquirer to an Oregon certified claims examiner who can respond to inquiries regarding workers’ compensation policies, claim filing, claims processing, and claims processing location information within 48 hours, not including weekends or legal holidays; and 
+
+ (d) The insurer may use Form 1352, “Insurer’s notification of business in Oregon,” to satisfy the requirement of this section. 
+
+ (3) Changes in information. An insurer must notify the director of a change in any of the information required under section (2) of this rule, subject to the following: 
+
+ (a) The notice must be filed at least 30 days before the effective date of the change; and 
+
+ (b) The insurer may use Form 5188, “Insurer Contact Update,” to satisfy the requirements of this section. 
+
+ (4) Service companies. In lieu of, or in addition to, establishing and maintaining its own claims processing locations in Oregon, the insurer may use Oregon claims processing locations operated by service companies to satisfy the requirements of section (1) of this rule. If an insurer elects to use claims processing locations operated by one or more service companies with respect to all or any portion of its business: 
+
+ (a) Each service company must be incorporated in or authorized to do business in Oregon; 
+
+ (b) The insurer must provide the director with a copy of the service agreement between the insurer and each service company for approval. The director must approve the service agreement before the service company begins processing the insurer’s Oregon claims, regardless of the agreement’s effective date. To be approved, the service agreement must: 
+
+ (A) Be an agreement for claims processing services between the underwriting insurer and a service company, and must not be between any other third parties; 
+
+ (B) Identify the insurer by company name, or if the agreement includes multiple insurers related by ownership, by the name of the group if it includes all affiliates; 
+
+ (C) Identify the service company by name; 
+
+ (D) Describe the claims processing services to be provided; 
+
+ (E) Identify the effective date of the agreement; 
+
+ (F) Identify the termination date of the agreement, if any; 
+
+ (G) Grant the service company a power of attorney to act for the insurer in workers’ compensation coverage and claims proceedings under ORS chapter 656, subject to the following: 
+
+ (i) The power of attorney must be effective the same date of the service agreement; 
+
+ (ii) The power of attorney must not be revocable before all claims processing services provided under the service agreement have concluded; 
+
+ (iii) The power of attorney must be applicable to all claims processed under the agreement, and may not have unspecified limitations; and 
+
+ (iv) The service agreement must use language that clearly grants power of attorney to the service company, such as the words “power of attorney” or “attorney-in-fact”; and 
+
+ (H) Contain only those provisions for workers’ compensation activities that are allowed in Oregon, subject to the following: 
+
+ (i) The director may approve an agreement that contains provisions for activities not allowed in Oregon if the agreement or an addendum provides that any services or provisions not allowed under Oregon workers’ compensation law will not be applied when processing Oregon claims; and 
+
+ (ii) The director may require existing agreements that contain provisions for activities not allowed in Oregon to be amended accordingly; 
+
+ (c) Each service company must notify the director of its business in Oregon, subject to the following: 
+
+ (A) The notice must include the service company’s location, mailing address, telephone number, email address, and any other contact information requested by the director; 
+
+ (B) The notice must be filed before the insurer begins using a place of business operated by the service company as a claims processing location; and 
+
+ (C) The service company may use Form 4929, “Service Company’s Notification of Business in Oregon,” to satisfy the requirements of this subsection; and 
+
+ (d) The insurer or service company must notify the director of a change in any of the information required under subsection (4)(c) of this rule, subject to the following: 
+
+ (A) The notice must be filed at least 30 days before the effective date of the change; and 
+
+ (B) The insurer may use Form 5215, “Service Company Contact Update,” to satisfy the requirements of this subsection. 
+
+ (5) Limit on claims processing locations. The insurer may not have more than eight Oregon claims processing locations at any time. For the purposes of this section: 
+
+ (a) Each of the following is considered to be one claims processing location: 
+
+ (A) Each physical location where the insurer processes claims or maintains records; and 
+
+ (B) Each physical location where a service company processes the insurer’s claims or maintains records; and 
+
+ (b) If more than one entity, including the insurer or a service company, processes claims at the same physical location, each entity must be counted as a separate claims processing location. 
+
+ (6) Changes in claims processing locations. If an insurer intends to change the location where claims are processed or records of claims are stored, the insurer must, at least 10 days before the change is effective: 
+
+ (a) Provide notice of the change to any worker, the estate of any deceased worker, or any worker’s beneficiary, with an open or active claim that will be processed at the new location, subject to the following: 
+
+ (A) The notice must include contact information for the new claims processing location, including the name and title of a contact person, telephone number, email address, and mailing address; and 
+
+ (B) The insurer must send a copy of the notice to the worker’s attorney, if the worker is represented, and to the worker’s attending physician; 
+
+ (b) Provide notice of the change to the director, subject to the following: 
+
+ (A) The notice must include: 
+
+ (i) Contact information for the current claims processing location, including the name of the claims processor, the name and title of a contact person, mailing address, telephone number, and email address; 
+
+ (ii) Contact information for the new claims processing location, including the name of the claims processor, the name and title of a contact person, street and mailing address, if different, telephone number, and email address; 
+
+ (iii) The effective date of the transfer; and 
+
+ (iv) Any other information requested by the director; and 
+
+ (B) The notice must specify if all or a portion of the insurer’s claims will be transferred, and if closed and denied claims will be included. If only a portion of the insurer’s claims will be transferred, the notice must include a listing of the claims being transferred that identifies, for each claim: 
+
+ (i) The underwriting insurer; 
+
+ (ii) The employer; 
+
+ (iii) The claimant’s name; 
+
+ (iv) The date of injury; and 
+
+ (v) The sending processor’s claim number; and 
+
+ (c) The insurer may use Form 5042, “Claim Move Notice,” to satisfy the requirements of this section. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 731.475 & ORS 656.726(4) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 731.475 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 4-2025, amend filed 11/13/2025, effective 01/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 18-2021, amend filed 12/13/2021, effective 01/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 20-2018, amend filed 11/15/2018, effective 01/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 5-2016, f. 11-28-16, cert. ef. 1-1-17 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ WCD 6-2012, f. 10-4-12, cert. ef. 1-1-13 
+WCD 4-2008, f. 9-17-08, cert. ef. 7-1-09 
+WCD 1-2008, f. 6-13-08, cert. ef. 7-1-08 
+WCD 8-2005, f. 12-6-05, cert. ef. 1-1-06 
+WCD 12-2003, f. 12-4-03, cert. ef. 1-1-04 
+WCD 5-2001, f. 6-22-01, cert. ef. 7-1-01 
+WCD 7-1989, f. 12-22-89, cert. ef. 1-1-90 
+WCD 9-1987, f. 12-18-87, cert. ef. 1-1-88 
+WCD 9-1985, f. 12-12-85, cert. ef. 1-1-86 
+WCD 5-1985, f. 12-10-85, cert. ef. 1-1-86, Renumbered from 436-051-0205 
+WCD 6-1984, f. & cert. ef. 9-14-84 
+WCD 7-1983, f. 12-22-83, cert. ef. 12-27-83 
+WCD 4-1982, f. 2-10-82, cert. ef. 2-15-82 
+WCD 3-1980, f. & cert. ef. 4-2-80 
+WCB 18-1975, f. 12-19-75, cert. ef. 1-1-76 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

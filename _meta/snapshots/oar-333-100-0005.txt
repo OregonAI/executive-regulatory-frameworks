@@ -1,0 +1,803 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 100 CONTROL OF RADIATION IN OREGON – GENERAL REQUIREMENTS 
+ 333-100-0005 
+ Definitions
+ 
+ 
+ The following definitions apply to OAR chapter 333 divisions 100, 102, 103, 106, 111, 116, 118, 119, 120, 121, 122, 123, and 124. Additional definitions used only in a certain division can be found in that division. 
+
+ (1) "Absorbed dose" means the energy imparted by ionizing radiation per unit mass of irradiated material. The units of absorbed dose are the gray (Gy) and the rad. 
+
+ (2) "Accelerator" means any machine capable of accelerating electrons, protons, deuterons, or other charged particles in a vacuum and of discharging the resultant particulate or other radiation into a medium at energies usually in excess of 1 MeV. For purposes of this definition, "particle accelerator" is an equivalent term 
+
+ (3) "Accelerator-produced material" means any material made radioactive by a particle accelerator. 
+
+ (4) "Act" means Oregon Revised Statutes 453.605 through 453.807. 
+
+ (5) "Activity" means the rate of disintegration or transformation or decay of radioactive material. The units of activity are the becquerel (Bq), defined as one disintegration per second, and the curie (Ci), defined as 3.7 x 1010 disintegrations per second. 
+
+ (6) "Adult" means an individual 18 or more years of age. 
+
+ (7) "Agreement State" means any state with which the U.S. Nuclear Regulatory Commission or the U.S. Atomic Energy Commission has entered into an effective agreement under subsection 274b. of the Atomic Energy Act of 1954, as amended (73 Stat. 689). States not entering an agreement under the Act are considered a non-agreement state. 
+
+ (8) "Airborne radioactive material" means any radioactive material dispersed in the air in the form of dusts, fumes, particulates, mists, vapors, or gases. 
+
+ (9) "Airborne radioactivity area" means a room, enclosure, or area in which airborne radioactive material, composed wholly or partly of licensed material, exist in concentrations: 
+
+ (a) In excess of the derived air concentrations (DACs) specified in Appendix B, Table I, column 3, to 10 CFR Part 20.1001 to 20.2401; or 
+
+ (b) To such a degree that an individual present in the area without respiratory protective equipment could exceed, during the hours an individual is present in a week, an intake of 0.6 percent of the annual limit on intake (ALI) or 12 DAC-hours. 
+
+ (10) "ALARA" (acronym for "As Low As Reasonably Achievable") means making every reasonable effort to maintain exposures to radiation as far below the dose limits in this part as is practical consistent with the purpose for which the licensed activity is undertaken, taking into account the state of technology, the economics of improvements in relation to state of technology, the economics of improvements in relation to benefits to the public health and safety, and other societal and socioeconomic considerations, and in relation to utilization of nuclear energy and licensed materials in the public interest. 
+
+ (11) "Alert" means events may occur, are in progress, or have occurred that could lead to a release of radioactive material but that the release is not expected to require a response by offsite response organizations to protect persons offsite. 
+
+ (12) "Annual" means occurring every year or within a consecutive twelve month cycle. 
+
+ (13) "Annual Limit on Intake" (ALI) means the derived limit for the amount of radioactive material taken into the body of an adult worker by inhalation or ingestion in a year. ALI is the smaller value of intake of a given radionuclide in a year by the Reference Man that could result in a committed effective dose equivalent of 0.05 Sv (5 rem) or a committed dose equivalent of 0.5 Sv (50 rem) to any individual organ or tissue. ALI values for intake by ingestion and by inhalation of selected radionuclides are given in Appendix B, Table I, Columns 1 and 2, to 10 CFR Part 20.1001 to 20.2401. 
+
+ (14) "As Low As Reasonably Achievable" see "ALARA." 
+
+ (15) "Authority" means the Oregon Health Authority. 
+
+ (16) "Background radiation" means radiation from cosmic sources; naturally occurring radioactive materials, including radon, except as a decay product of source or special nuclear material, and including global fallout as it exists in the environment from the testing of nuclear explosive devices or from past nuclear accidents such as Chernobyl that contribute to background radiation and are not under the control of the licensee. "Background radiation" does not include sources of radiation from radioactive or special nuclear materials regulated by the Authority. 
+
+ (17) "Becquerel" (Bq) means one disintegration per second. 
+
+ (18) "Bioassay" means the determination of kinds, quantities or concentrations, and, in some cases, the locations, of radioactive material in the human body, whether by direct measurement (in vivo counting) or by analysis and evaluation of materials excreted or removed from the human body. For purposes of these rules, "radiobioassay" is an equivalent term. 
+
+ (19) "Brachytherapy" means a method of radiation therapy in which sealed sources are utilized to deliver dose at a distance of up to a few centimeters, by surface, intracavitary, or interstitial application. 
+
+ (20) "Byproduct material" means 
+
+ (a) Any radioactive material, except special nuclear material, yielded in, or made radioactive by, exposure to the radiation incident to the process of producing or utilizing special nuclear material; 
+
+ (b) The tailings or wastes produced by the extraction or concentration of uranium or thorium from any ore processed primarily for its source material content, including discrete surface wastes resulting from uranium solution extraction process. Underground ore bodies depleted by such solution extraction operations do not constitute "byproduct material" within this definition; 
+
+ (c) Any discrete source of radium-226 that is produced, extracted, or converted after extraction, before, on, or after August 8, 2005, for use for a commercial, medical, or research activity; or 
+
+ (d) Any material that: 
+
+ (A) Has been made radioactive by use of a particle accelerator; and 
+
+ (B) Is produced, extracted, or converted after extraction, before, on, or after August 8, 2005, for use for a commercial, medical, or research activity; and 
+
+ (C) Any discrete source of naturally occurring radioactive material, other than source material, that: 
+
+ (i) The Nuclear Regulatory Commission, in consultation with the Administrator of the Environmental Protection Agency, the Secretary of Energy, the Secretary of Homeland Security, and the head of any other appropriate state and federal agency, determines would pose a threat similar to the threat posed by a discrete source of radium-226 to the public health and safety or the common defense and security; and 
+
+ (ii) Before, on, or after August 8, 2005, is extracted or converted after extraction for use in a commercial, medical, or research activity. 
+
+ (21) "Calendar quarter" means not less than 12 consecutive weeks nor more than 14 consecutive weeks. The first calendar quarter of each year must begin in January and subsequent calendar quarters must be so arranged such that no day is included in more than one calendar quarter and no day in any one year is omitted from inclusion within a calendar quarter. No licensee or registrant may change the method observed for determining calendar quarters except at the beginning of a calendar year. 
+
+ (22) "Calibration" means the determination of: 
+
+ (a) The response or reading of an instrument relative to a series of known radiation values over the range of the instrument; or 
+
+ (b) The strength of a source of radiation relative to a standard. 
+
+ (23) "CFR" means Code of Federal Regulations. 
+
+ (24) "Chelating agent" means amine polycarboxylic acids, hydroxy-carboxylic acids, gluconic acid, and polycarboxylic acids. 
+
+ (25) "Class" means a classification scheme for inhaled material according to its rate of clearance from the pulmonary region of the lung. For purposes of these rules, "lung class" or "inhalation class" are equivalent terms. Materials are classified as D, W, or Y, which applies to a range of clearance half-times: 
+
+ (a) For Class D, Days, of less than 10 days; 
+
+ (b) For Class W, Weeks, from 10 to 100 days; and 
+
+ (c) For Class Y, Years, of greater than 100 days. 
+
+ (26) "Clinical laboratory" means a laboratory licensed pursuant to ORS 438.110 through 438.140. 
+
+ (27) "Collective dose" means the sum of the individual doses received in a given period of time by a specified population from exposure to a specified source of radiation. 
+
+ (28) "Committed dose equivalent" (HT, 50) means the dose equivalent to organs or tissues of reference (T) that will be received from an intake of radioactive material by an individual during the 50-year period following the intake. 
+
+ (29) "Committed effective dose equivalent" (HE, 50) is the sum of the products of the weighting factors applicable to each of the body organs or tissues that are irradiated and the committed dose equivalent to each of these organs or tissues (HE, 50 = ∑WT,HT,50). 
+
+ (30) "Contamination" (Radioactive) means deposition or presence of radioactive material in any place where it is not desired, and particularly in any place where its presence can be harmful. The harm may be in compromising the validity of an experiment or a procedure, or in being a source of danger to persons. Contamination may be divided into two types: Fixed and removable. Removable contamination may be transferred easily from one object to another by light rubbing or by the use of weak solvents such as water or alcohol. Removable contamination is evaluated and recorded in units of microcuries or dpm. Fixed contamination is not easily transferred from one object to another and requires mechanical or strong chemicals to remove it from its current location. Fixed contamination is evaluated and recorded in units of mR/hr. 
+
+ (31) "Curie" means that amount of radioactive materials which disintegrates at the rate of 37 billion atoms per second. 
+
+ (32) "Declared pregnant woman" means a woman who has voluntarily informed the licensee, in writing, of her pregnancy and the estimated date of conception. The declaration remains in effect until the declared pregnant woman withdraws the declaration in writing or is no longer pregnant. 
+
+ (33) "Decommission" means to remove (as a facility) safely from service and reduce residual radioactivity to a level that permits: 
+
+ (a) Release of the property for unrestricted use and termination of license; or 
+
+ (b) Release of the property under restricted conditions and termination of the license. 
+
+ (34) "Deep dose equivalent" (Hd) which applies to external whole body exposure, means the dose equivalent at a tissue depth of 1 centimeter (1000 mg/cm2). 
+
+ (35) "Depleted uranium" means source material uranium in which the isotope uranium-235 is less than 0.711 weight percent of the total uranium present. Depleted uranium does not include special nuclear material. 
+
+ (36) "Derived air concentration" (DAC) means the concentration of a given radionuclide in air which, if breathed by Reference Man for a working year of 2,000 hours under conditions of light work, results in an intake of one ALI. For purposes of these rules, the condition of light work is an inhalation rate of 1.2 cubic meters of air per hour for 2,000 hours in a year. DAC values are given in Table I, Column 3, of Appendix B to 10 CFR Part 20.1001 to 20.2401. 
+
+ (37) "Derived air concentration-hour" (DAC-hour) means the product of the concentration of radioactive material in air, expressed as a fraction or multiple of the derived air concentration for each radionuclide, and the time of exposure to that radionuclide, in hours. A licensee may take 2,000 DAC-hours to represent one ALI, equivalent to a committed effective dose equivalent of 0.05 Sv (5 rem). 
+
+ (38) "Dose" is a generic term that means absorbed dose, dose equivalent, effective dose equivalent, committed dose equivalent, committed effective dose equivalent, total organ dose equivalent, or total effective dose equivalent. For purposes of these rules, "radiation dose" is an equivalent term. 
+
+ (39) "Dose equivalent" (HT) means the product of the absorbed dose in tissue, quality factor, and all other necessary modifying factors at the location of interest. The units of dose equivalent are the sievert (Sv) and rem (see "Rem"). (See OAR 333-100-0070(2) for SI equivalent sievert. 
+
+ (40) "Dose limits" means the permissible upper bounds of radiation doses established in accordance with these rules. For purposes of these rules, "limits" is an equivalent term. 
+
+ (41) "Dosimetry processor" means an individual or an organization that processes and evaluates individual monitoring equipment in order to determine the radiation dose delivered to the equipment 
+
+ (42) "Effective dose equivalent" (HE) means the sum of the products of the dose equivalent to the organ or tissue (HT) and the weighting factor (WT) applicable to each of the body organs or tissues that are irradiated (HE = WT HT). 
+
+ (43) "Electronic product" means any manufactured product or device or component part of such a product or device that is capable of generating or emitting electromagnetic or sonic radiation such as, but not limited to, X-rays, ultrasonic waves, microwaves, laser light or ultraviolet light. 
+
+ (44) "Embryo/fetus" means the developing human organism from conception until the time of birth. 
+
+ (45) "Entrance or access point" means any opening through which an individual or extremity of an individual could gain access to radiation areas or to licensed or registered radioactive materials. This includes entry or exit portals of sufficient size to permit human entry, irrespective of their intended use. 
+
+ (46) "Exclusive use" (also referred to in other regulations as "sole use" or "full load") means the sole use of a conveyance by a single consignor and for which all initial, intermediate, and final loading and unloading are carried out in accordance with the direction of the consignor or consignee. 
+
+ (47) "Explosive material" means any chemical compound, mixture, or device that produces a substantial instantaneous release of gas and heat spontaneously or by contact with sparks or flame. 
+
+ (48) "Exposure" means: 
+
+ (a) The quotient of dQ by dm where "dQ" is the absolute value of the total charge of the ions of one sign produced in air when all the electrons (negatrons and positrons) liberated by photons in a volume element of air having mass "dm" are completely stopped in air. The SI unit of exposure is the coulomb per kilogram. 
+
+ (b) Being exposed to ionizing radiation or to radioactive material. 
+
+ (49) "Exposure rate" means the exposure per unit of time, such as roentgen per minute (R/min) and milliroentgen per hour (mR/hr). 
+
+ (50) "External dose" means that portion of the dose equivalent received from any source of radiation outside the body. 
+
+ (51) "Extremity" means hand, elbow, arm below the elbow, foot, knee, or leg below the knee. 
+
+ (52) "Eye dose equivalent" means the external dose equivalent to the lens of the eye at a tissue depth of 0.3 centimeter (300 mg/cm2). 
+
+ (53) "Fixed gauge" means a measuring or controlling device that is intended to be mounted at a specific location, stationary, not to be moved, and is not portable. 
+
+ (54) "Former U.S. Atomic Energy Commission (AEC) or U.S. Nuclear Regulatory Commission (NRC) licensed facilities" means nuclear reactors, nuclear fuel reprocessing plants, uranium enrichment plants, or critical mass experimental facilities where AEC or NRC licenses have been terminated. 
+
+ (55) "General license" means a license granted by rule, in contrast to an issued license, to acquire, own, possess, use, or transfer radioactive material or a device that contains radioactive material. 
+
+ (56) "Generally applicable environmental radiation standards" means standards issued by the U.S. Environmental Protection Agency (EPA) under the authority of the Atomic Energy Act of 1954, as amended, that impose limits on radiation exposures or levels, or concentrations or quantities of radioactive material, in the general environment outside the boundaries of locations under the control of persons possessing or using radioactive material. 
+
+ (57) "Gray" (Gy) means the International System of Units (SI), unit of absorbed dose. One gray is equal to an absorbed dose of one joule per kilogram (100 rad). (See OAR 333-100-0070(2)) 
+
+ (58) "Hazardous waste" means those wastes designated as hazardous by U.S. Environmental Protection Agency regulations in 40 CFR Part 261. 
+
+ (59) "Healing arts" means: 
+
+ (a) The professional disciplines authorized by the laws of this state to use X-rays or radioactive material in the diagnosis or treatment of human or animal disease. For the purposes of this division they are Medical Doctors, Osteopaths, Dentists, Veterinarians, Chiropractors, Naturopathic Doctors and Podiatrists; or 
+
+ (b) Any system, treatment, operation, diagnosis, prescription, or practice for the ascertainment, cure, relief, palliation, adjustment, or correction of any human disease, ailment, deformity, injury or unhealthy or abnormal physical or mental condition. 
+
+ (60) "Human use" means the internal or external administration of radiation or radioactive material to human beings. 
+
+ (61) "Individual" means any human being. 
+
+ (62) "Individual monitoring" means: 
+
+ (a) The assessment of dose equivalent by the use of devices designed to be worn by an individual; 
+
+ (b) The assessment of committed effective dose equivalent by bioassay (see Bioassay) or by determination of the time-weighted air concentrations to which an individual has been exposed, that is, DAC-hours; or 
+
+ (c) The assessment of dose equivalent by the use of survey data. 
+
+ (63) "Individual monitoring devices" means devices designed to be worn by a single individual for the assessment of dose equivalent such as film badges, thermoluminescent dosimeters (TLDs), pocket ionization chambers, and personal ("lapel") air sampling devices. 
+
+ (64) "Inhalation class" (see "Class"). 
+
+ (65) "Inspection" means an official examination or observation including, but not limited to, tests, surveys, and monitoring to determine compliance with rules, regulations, orders, requirements, and conditions of the Authority. 
+
+ (66) "Interlock" means a device arranged or connected such that the occurrence of an event or condition is required before a second event or condition can occur or continue to occur. 
+
+ (67) "Internal dose" means that portion of the dose equivalent received from radioactive material taken into the body. 
+
+ (68) "Ionizing radiation" means any electromagnetic or particulate radiation capable of producing ions, directly or indirectly, in its passage through matter. It includes any or all of the following: Alpha particles, beta particles, electrons, positrons, gamma rays, X-rays, neutrons, high-speed electrons, high-speed protons, fission fragments and other atomic and subatomic particles; but not sound or radio waves, or visible, infrared, or ultraviolet light. 
+
+ (69) "Laser" means any device which, when coupled with an appropriate laser energy source, can produce or amplify electromagnetic radiation by the process of controlled stimulated emission. 
+
+ (70) "License" means a license issued by the Authority in accordance with rules adopted by the Authority. 
+
+ (71) "Licensed material" means radioactive material received, possessed, used, transferred or disposed of under a general or specific license granted or issued by the Authority. For the purpose of meeting the definition of a Licensing State by the Conference of Radiation Control Program Directors, Inc. (CRCPD), Naturally Occurring and Accelerator Produced Radioactive Material (NARM) refers only to discrete sources of NARM. Diffuse sources of NARM are excluded from consideration by the CRCPD for Licensing State designation purposes. 
+
+ (72) "Licensee" means any person who is licensed by the Authority in accordance with these rules and the Act. 
+
+ (73) "Licensing state" means any state with rules or regulations equivalent to the Suggested State Regulations for Control of Radiation relating to, and having an effective program for, the regulatory control of NARM. 
+
+ (74) "Limits" (dose limits) means the permissible upper bounds of radiation doses. 
+
+ (75) "Lost or missing licensed or registered source of radiation" means licensed or registered source(s) of radiation whose location is unknown. This definition includes licensed material that has been shipped but has not reached its planned destination and whose location cannot be readily traced in the transportation system. 
+
+ (76) "Lung class" (see "Class"). 
+
+ (77) "Major processor" means a user processing, handling, or manufacturing radioactive material exceeding Type A quantities as unsealed sources or material, or exceeding four times Type B quantities as sealed sources, but does not include nuclear medicine programs, universities, industrial radiographers, or small industrial programs. Type A and B quantities are defined in division 118 of this chapter. 
+
+ (78) "Member of the public" means an individual, except when that individual is receiving an occupational dose 
+
+ (79) "Minor" means an individual less than 18 years of age. 
+
+ (80) "Monitoring" means the measurement of radiation, radioactive material concentrations, surface area activities or quantities of radioactive material and the use of the results of these measurements to evaluate potential exposures and doses. For purposes of these rules, "radiation monitoring" and "radiation protection monitoring" are equivalent terms. 
+
+ (81) "NARM" means any naturally occurring or accelerator-produced radioactive material. It does not include byproduct, source, or special nuclear material. 
+
+ (82) "Natural radioactivity" means radioactivity of naturally occurring nuclides. 
+
+ (83) "Naturally-occurring radioactive material" (NORM) means any nuclide that is found in nature as a radioactive material (and not technologically produced). 
+
+ (84) "Natural thorium" means thorium with the naturally occurring distribution of thorium isotopes (essentially 100 weight percent thorium-232). 
+
+ (85) "Natural uranium" means a mixture of the uranium isotopes 234, 235 and 238 (approximately 0.7 weight percent uranium- 235 and the remainder by weight essentially uranium-238), found in nature, that is neither enriched nor depleted in the isotope uranium 235. 
+
+ (86) "Nonstochastic effect" means a health effect that varies with the dose and a threshold is believed to exist. Radiation-induced cataract formation is an example of a nonstochastic effect. For purposes of these rules, "deterministic effect" is an equivalent term. 
+
+ (87) "Normal form radioactive material" means radioactive material that has not been demonstrated to qualify as "special form radioactive material". See "Special form." 
+
+ (88) "NRC" is the acronym for Nuclear Regulatory Commission. 
+
+ (89) "Nuclear Regulatory Commission" ("NRC" or "Commission") means the U.S. Nuclear Regulatory Commission or its duly authorized representatives. 
+
+ (90) "Package" means the packaging together with its radioactive contents as presented for transport. 
+
+ (91) "Particle accelerator" means any machine capable of accelerating electrons, protons, deuterons, or other charged particles in a vacuum and of discharging the resultant particulate or other radiation into a medium at energies usually in excess of one MeV. 
+
+ (92) "Person" means any individual, corporation, partnership, firm, association, trust, estate, public or private institution, group, agency, political subdivision of this state, any other state or political subdivision or agency thereof, and any legal successor, representative, agent, or agency of the foregoing. 
+
+ (93) "Personnel monitoring equipment" means devices such as film badges, pocket dosimeters, and thermoluminescent dosimeters designed to be worn or carried by an individual for the purpose of estimating the dose received by the individual. See "Individual monitoring devices." 
+
+ (94) "Pharmacist" means an individual licensed by a state or territory of the United States, the District of Columbia, or the Commonwealth of Puerto Rico to practice pharmacy. 
+
+ (95) "Physician" means an individual licensed by the Oregon Medical Board to dispense drugs in the practice of medicine. 
+
+ (96) "Planned special exposure" means an infrequent exposure to radiation, separate from and in addition to the annual occupational dose limits. 
+
+ (97) "Portable gauge" means a measuring or controlling device that is intended to be portable and is not fixed to a specific location. All portable gauges require a specific license (there is no general license granted for portable generally licensed devices in the State of Oregon). 
+
+ (98) "Program" means the Radiation Protection Services section of the Public Health Division of the Oregon Health Authority. 
+
+ (99) "Pyrophoric liquid" means any liquid that ignites spontaneously in dry or moist air at or below 130OF (54.4OC). 
+
+ (100) "Pyrophoric solid" means any solid material, other than one classed as an explosive, which under normal conditions is liable to cause fires through friction, retained heat from manufacturing or processing, or which can be ignited readily and, when ignited, burns so vigorously and persistently as to create a serious transportation, handling, or disposal hazard. Included are spontaneously combustible and water-reactive materials. 
+
+ (101) "Qualified expert" means an individual, approved by the Authority, who has demonstrated, pursuant to these rules, that he/she possesses the knowledge, skills, and training to measure ionizing radiation, to evaluate radiation parameters, to evaluate safety techniques, and to advise regarding radiation protection needs. The individual must: 
+
+ (a) Be certified in the appropriate field by the American Board of Radiology, the American Board of Health Physics, the American Board of Medical Physics or the American Board of Nuclear Medicine Science; or 
+
+ (b) Hold a master's or doctor's degree in physics, biophysics, radiological physics, health physics, or medical physics and have completed one year of documented, full time training in the appropriate field and also one year of documented, full time work experience under the supervision of a qualified expert in the appropriate field. To meet this requirement, the individual must have performed the tasks required of a qualified expert during the year of work experience; or 
+
+ (c) Receive approval from the Authority for specific activities. 
+
+ (102) "Quality factor" (Q) means the modifying factor (listed in Tables 1004(b).1 and 1004(b).2 of 10 CFR Part 20.1004 provided at the end of this division) that is used to derive dose equivalent from absorbed dose. 
+
+ (103) "Quarter" means a period of time equal to one-fourth of the year observed by the licensee, approximately 13 consecutive weeks, providing that the beginning of the first quarter in a year coincides with the starting date of the year and that no day is omitted or duplicated in consecutive quarters. 
+
+ (104) "Rad" means the special unit of absorbed dose. One rad is equal to an absorbed dose of 100 erg per gram or 0.01 joule per kilogram (0.01 gray). See OAR 333-100-0070(2) for SI equivalent gray. 
+
+ (105) "Radiation" means: 
+
+ (a) Ionizing radiation including gamma rays, X-rays, alpha and beta particles, protons, neutrons, and other atomic or nuclear particles or rays; 
+
+ (b) Any electromagnetic radiation which can be generated during the operations of electronic products and which the Authority has determined to present a biological hazard to the occupational or public health and safety but does not include electromagnetic radiation which can be generated during the operation of an electronic product licensed by the Federal Communications Commission; 
+
+ (c) Any sonic, ultrasonic or infrasonic waves which are emitted from an electronic product as a result of the operation of an electronic circuit in such product and which the Authority has determined to present a biological hazard to the occupational or public health and safety. 
+
+ (106) "Radiation area" means any area, accessible to individuals, in which radiation levels could result in an individual receiving a dose equivalent in excess of 0.05 mSv (0.005 rem) in one hour at 30 centimeters from the source of radiation or from any surface that the radiation penetrates. 
+
+ (107) "Radiation machine tube" means a device for generating X-rays by accelerating electrons to high energies and causing them to strike a metal target from which the X-rays are emitted. 
+
+ (108) "Radiation safety officer" means: 
+
+ (a) An individual who has the knowledge, responsibility, and authority to apply appropriate radiation protection rules; or 
+
+ (b) The representative of licensee management, authorized by the Authority, and listed on the specific license as the radiation safety officer, who is responsible for the licensee's radiation safety program. 
+
+ (109) "Radioactive material" means any solid, liquid, or gas that emits radiation spontaneously. 
+
+ (a) Radioactive material, as used in these rules, includes: byproduct material, naturally occurring radioactive material, accelerator produced material, and source material, as defined in this rule. 
+
+ (b) Radioactive material, as used in these rules, does not include special nuclear material. 
+
+ (110) "Radioactive waste" means radioactive material that is unwanted or is unusable, as defined in division 50 of chapter 345. No radioactive material may be disposed of in Oregon except as provided in division 50 of chapter 345. 
+
+ (111) "Radioactivity" means the transformation of unstable atomic nuclei by the emission of radiation. 
+
+ (112) "Reference Man" means a hypothetical aggregation of human physical and physiological characteristics determined by international consensus. These characteristics may be used by researchers and public health workers to standardize results of experiments and to relate biological insult to a common base. A description of the Reference Man is contained in the International Commission on Radiological Protection report, ICRP Publication 23, "Report of the Task Group on Reference Man." 
+
+ (113) "Registrant" means any person who is registered with the Authority and is legally obligated to register with the Authority pursuant to these rules and the Act. 
+
+ (114) "Registration" means the identification of any material or device emitting radiation, and the owner of such material or device must furnish information to the Authority in accordance with the rules adopted by the Authority. 
+
+ (115) "Regulations of the U.S. Department of Transportation" means the regulations in 49 CFR Parts 100-189 and Parts 390-397. 
+
+ (116) "Rem" means the special unit of any of the quantities expressed as dose equivalent. The dose equivalent rem is equal to the absorbed dose in rad multiplied by the quality factor (1 rem = 0.01 sievert). 
+
+ (117) "Research and development" means: 
+
+ (a) Theoretical analysis, exploration, or experimentation; or 
+
+ (b) The extension of investigative findings and theories of a scientific or technical nature into practical application for experimental and demonstration purposes, including the experimental production and testing of models, devices, equipment, materials, and processes. Research and development does not include the internal or external administration of radiation or radioactive material to human beings. 
+
+ (118) "Respiratory protective equipment" means an apparatus, such as a respirator, used to reduce an individual's intake of airborne radioactive materials. 
+
+ (119) "Restricted area" means an area to which access is limited by the licensee or registrant for the purpose of protecting individuals against undue risks from exposure to sources of radiation. A restricted area does not include areas used as residential quarters, but separate rooms in a residential building may be set apart as a restricted area. 
+
+ (120) "Roentgen" means the special unit of exposure. One roentgen (R) equals 2.58 x 10-4 Coulombs/kilogram of air (see "Exposure" and division 120). 
+
+ (121) "Sanitary sewerage" means a system of public sewers for carrying off waste water and refuse, but excluding sewage treatment facilities, septic tanks, and leach fields owned or operated by the licensee. 
+
+ (122) "Screening" means the use of a systematic approach to obtain cursory examinations of a person or group of persons without regard to specific clinical indications. 
+
+ (123) "Sealed source" means radioactive material that is encased in a capsule designed to prevent leakage or escape of the radioactive material. 
+
+ (124) "Sealed Source and Device Registry" means the national registry that contains all the registration certificates, generated by both the U.S. Nuclear Regulatory Commission and Agreement States, that summarize the radiation safety information for sealed sources and devices and describe the licensing and use conditions approved for the product. 
+
+ (125) "Shallow dose equivalent" (Hs), which applies to the external exposure of the skin or an extremity, means the dose equivalent at a tissue depth of 0.007 centimeter (7 mg/cm2) averaged over an area of one square centimeter. 
+
+ (126) "SI" means the abbreviation for the International System of Units. 
+
+ (127) "Sievert" means the International System of Units (SI), unit of any of the quantities expressed as dose equivalent. The dose equivalent in sievert is equal to the absorbed dose in gray multiplied by the quality factor (1 Sv = 100 rem). (See OAR 333-100-0070(2)). 
+
+ (128) "Site boundary" means that line beyond which the land or property is not owned, leased, or otherwise controlled by the licensee or registrant. 
+
+ (129) "Source material" means: 
+
+ (a) Uranium or thorium or any combination of uranium and thorium in any physical or chemical form; or 
+
+ (b) Ores that contain by weight one-twentieth of one percent (0.05 percent) or more of uranium, thorium, or any combination thereof. Source material does not include special nuclear material. 
+
+ (130) "Source material milling" means any activity that result in the production of byproduct material, as defined by this rule. 
+
+ (131) "Source of radiation" means any radioactive material or any device or equipment emitting, or capable of producing, radiation. Source of radiation, pursuant to this rule, includes, but is not limited to, radiation facilities, radiation producing machines, radiation producing devices, radioactive material sealed and unsealed form (normal form and special form), and radioactive material uses. 
+
+ (132) "Special form radioactive material" means radioactive material that satisfies the following conditions: 
+
+ (a) It is either a single solid piece or is contained in a sealed capsule that can be opened only by destroying the capsule; 
+
+ (b) The piece or capsule has at least one dimension not less than five millimeters (0.2 inch); and 
+
+ (c) It satisfies the test requirements specified by the U.S. Nuclear Regulatory Commission. A special form encapsulation designed in accordance with the U.S. Nuclear Regulatory Commission requirements in effect on June 30, 1983, and constructed prior to July 1, 1985, and a special form encapsulation designed in accordance with the Nuclear Regulatory Commission requirements in effect on March 31. 1996, and constructed prior to April 1, 1998, may continue to be used. Any other special form encapsulation either designed or constructed after April 1, 1998, must meet requirements of this definition applicable at the time of its design or construction. 
+
+ (133) "Special nuclear material" means: 
+
+ (a) Plutonium, uranium-233, uranium enriched in the isotope 233 or in the isotope 235, and any other material that the U.S. Nuclear Regulatory Commission, pursuant to the provisions of section 51 of the Atomic Energy Act of 1954, as amended, determines to be special nuclear material, but does not include source material; or 
+
+ (b) Any material artificially enriched by any of the foregoing but does not include source material. 
+
+ (134) "Special nuclear material in quantities not sufficient to form a critical mass" means uranium enriched in the isotope U-235 in quantities not exceeding 350 grams of contained U-235; uranium-233 in quantities not exceeding 200 grams; plutonium in quantities not exceeding 200 grams; or any combination of them in accordance with the following formula: For each kind of special nuclear material, determine the ratio between the quantity of that special nuclear material and the quantity specified above for the same kind of special nuclear material. The sum of such ratios for all of the kinds of special nuclear material in combination must not exceed one. 
+
+ 
+ For example, the following quantities in combination does not exceed the limitation and are within the formula: * * 175 (grams U-235)/350 + 50 (grams U-233)/200 + 50 (grams Pu)/200 = 1. 
+ 
+
+ (135) "Specific activity of a radionuclide" means the radioactivity of the radionuclide per unit mass of that nuclide. The specific activity of a material in which the radionuclide is essentially uniformly distributed is the radioactivity per unit mass of the material. 
+
+ (136) "Stochastic effect" means health effects that occur randomly and for which the probability of the effect occurring, rather than its severity, is assumed to be a linear function of dose without threshold. Hereditary effects and cancer incidence are examples of stochastic effects. 
+
+ (137) "Supervision" as used in these rules, means the responsibility for, and control of, the application, quality, radiation safety and technical aspects of all sources of radiation possessed, used and stored through authorization granted by the Authority. 
+
+ (138) "Survey" means an evaluation of the radiological conditions and potential hazards incident to the production, use, transfer, release, disposal, or presence of sources of radiation. When appropriate, such evaluation includes, but is not limited to, tests, physical examinations, and measurements of levels of radiation or concentrations of radioactive material present. 
+
+ (139) "Termination" means: 
+
+ (a) The end of employment with the licensee or registrant or, in the case of individuals not employed by the licensee or registrant, the end of work assignment in the licensee's or registrant's restricted area in a given calendar quarter, without expectation or specific scheduling of re-entry into the licensee's or registrant's restricted area during the remainder of that calendar quarter; or 
+
+ (b) The closure of a registered or licensed facility and conclusion of licensed or registered activities, pursuant to a registration or specific license. 
+
+ (140) "Test" means the process of verifying compliance with an applicable rule. 
+
+ (141) "These rules," mean all parts of the Oregon Administrative Rules promulgated under ORS 453.605 through 453.807. 
+
+ (142) "Total effective dose equivalent" (TEDE) means the sum of the deep dose equivalent for external exposures and the committed effective dose equivalent for internal exposures. 
+
+ (143) "Total organ dose equivalent" (TODE) means the sum of the deep dose equivalent (DDE) and the committed dose equivalent (CDE) to the organ receiving the highest dose as described in OAR 333-120-0650(1)(d). 
+
+ (144) "Transport index" means the dimensionless number (rounded up to the first decimal place) placed on the label of a package to designate the degree of control to be exercised by the carrier during transportation. The transport index is the number expressing the maximum radiation level in millirem per hour at one meter from the external surface of the package. 
+
+ (145) "U.S. Department of Energy" means the Department of Energy established by Public Law 95-91, August 4, 1977, 91 Stat. 565, 42 U.S.C. 7101 et seq., to the extent that the Department exercises functions formerly vested in the U.S. Atomic Energy Commission, its Chairman, members, officers and components and transferred to the U.S. Energy Research and Development Administration and to the Administrator thereof pursuant to sections 104(b), (c) and (d) of the Energy Reorganization Act of 1974 (Public Law 93-438, October 11, 1974, 88 Stat. 1233 at 1237 42 U.S.C. 5814, effective January 19, 1975) and retransferred to the Secretary of Energy pursuant to section 301(a) of the Department of Energy Organization Act (Public Law 95-91, August 4, 1977, 91 Stat. 565 at 577-578, 42 U.S.C. 7151, effective October 1, 1977). 
+
+ (146) "Unrefined and unprocessed ore" means ore in its natural form prior to any processing, such as grinding, roasting, beneficiating, or refining. Processing does not include sieving or encapsulation of ore or preparation of samples for laboratory analysis. 
+
+ 
+ NOTE: "Ore" refers to fuel cycle materials pursuant to 10 CFR Part 150. 
+ 
+
+ (147) "Unrestricted area" means an area, access to which is neither limited nor controlled by the licensee or registrant. For purposes of these rules, "uncontrolled area" is an equivalent term. 
+
+ (148) "Uranium — depleted, enriched" means: 
+
+ (a) "Depleted uranium" means uranium containing less uranium-235 than the naturally occurring distribution of uranium isotopes. 
+
+ (b) "Enriched uranium" means uranium containing more uranium-235 than the naturally occurring distribution of uranium isotopes. 
+
+ (149) "Validation certificate" means the official document issued upon payment to the Authority of the appropriate fee listed in division 103 of this chapter. The license or registration is subject and void without the annual validation certificate. 
+
+ (150) "Waste" means radioactive waste. 
+
+ (151) "Week" means seven consecutive days starting on Sunday. 
+
+ (152) "Weighting factor" (WT) for an organ or tissue (T) means: 
+
+ (a) The proportion of the risk of stochastic effects resulting from irradiation of that organ or tissue to the total risk of stochastic effects when the whole body is irradiated uniformly. For calculating the effective dose equivalent, the values of WT are: 
+
+ (A) Gonads 0.25; 
+
+ (B) Breast 0.15; 
+
+ (C) Red Bone Marrow 0.12; 
+
+ (D) Lung 0.12; 
+
+ (E) Thyroid 0.03; 
+
+ (F) Bone Surfaces 0.03; 
+
+ (G) Remainder 0.30 (see note below); 
+
+ (H) Whole Body 1.00. 
+
+ 
+ NOTE: Assignment of 0.30 for the remaining organs results from a weighting factor of 0.06 for each of five "remainder" organs, excluding the skin and the lens of the eye, that receive the highest doses. 
+ 
+
+ (b) For the purpose of weighting the external whole body dose, for adding it to the internal dose, a single weighting factor, WT = 1.0, has been specified. The use of other weighting factors for external exposure may be approved on a case-by-case basis until such time as specific guidance is issued. 
+
+ (153) "Whole body" means, for purposes of external exposure, head, trunk including male gonads, arms above the elbow, or legs above the knee. 
+
+ (154) "Worker" means an individual engaged in work under a license or registration issued by the Authority and controlled by a licensee or registrant, but does not include the licensee or registrant. 
+
+ (155) "Working level" (WL) means any combination of short-lived radon progeny in one liter of air that will result in the ultimate emission of 1.3 x 105 MeV of potential alpha particle energy. The short-lived radon-222 progeny are: polonium-218, lead-214, bismuth-214, and polonium-214; and for radon-220 the progeny are: polonium-216, lead-212, bismuth-212, and polonium-212. 
+
+ (156) "Working level month" (WLM) means an exposure to one working level for 170 hours (2,000 working hours per year divided by 12 months per year is approximately equal to 170 hours per month.) 
+
+ (157) "Year" means the period of time beginning in January used to determine compliance with the provisions of these rules. The licensee or registrant may change the starting date of the year used to determine compliance by the licensee or registrant provided that the change is made at the beginning of the year and that no day is omitted or duplicated in consecutive years. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 453.635 
+ 
+ 
+ Statutes/Other Implemented:  ORS 453.605 - 453.807 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 55-2023, amend filed 12/14/2023, effective 12/20/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 19-2015, f. 9-30-15, cert. ef. 10-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 92-2021, amend filed 12/29/2021, effective 01/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 4-2013, f. & cert. ef. 1-29-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 10-2011, f. 9-30-11, cert. ef. 10-1-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 5-2011(Temp), f. & cert. ef. 7-1-11 thru 12-27-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 14-2008, f. & cert. ef. 9-15-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 4-2007, f. & cert. ef. 3-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 12-2006, f. & cert. ef. 6-16-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 36-2004, f. & cert. ef. 12-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 31-2004(Temp), f. & cert. ef. 10-8-04 thru 4-5-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 3-2003, f. & cert. ef. 3-27-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 1-1995, f. & cert. ef. 4-26-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 15-1994, f. & cert. ef. 5-6-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 1-1991, f. & cert. ef. 1-8-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 10-1987, f. & ef. 7-28-87 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 4-1985, f. & ef. 3-20-85 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

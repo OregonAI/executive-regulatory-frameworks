@@ -1,0 +1,347 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Workers' Compensation Division - Chapter 436 
+ 
+ 
+ 
+ 
+ Division 9 OREGON MEDICAL FEE AND PAYMENT 
+ 436-009-0020 
+ Hospitals
+ 
+ 
+ (1) Inpatient. 
+
+ (a) For the purposes of this rule, hospital inpatient services are those services that are billed with codes "0111" through "0118" in form locator #4 on the UB-04 billing form. 
+
+ (b) Hospital inpatient bills must include: 
+
+ (A) For dates of service prior to Oct. 1, 2015, ICD-9-CM codes, and for dates of service on and after Oct. 1, 2015, ICD-10-CM codes; 
+
+ (B) When applicable, procedural codes; 
+
+ (C) The hospital’s NPI; and 
+
+ (D) The Medicare Severity Diagnosis Related Group (MS-DRG) code, except for: 
+
+ (i) Bills from critical access hospitals, (See Bulletin 290); or 
+
+ (ii) Bills containing revenue code 002x. 
+
+ (c) Unless otherwise provided by contract, the insurer must pay the audited bill for hospital inpatient services by multiplying the amount charged by the hospital’s adjusted cost-to-charge ratio (See Bulletin 290). The insurer must pay in-state hospitals not listed in Bulletin 290 at 80 percent of billed charges for inpatient services. 
+
+ (2) Outpatient. 
+
+ (a) For the purposes of this rule, hospital outpatient services are those services that are billed with codes "0131" through "0138" in form locator #4 on the UB-04 billing form. 
+
+ (b) Hospital outpatient bills must, when applicable, include the following: 
+
+ (A) Revenue codes; 
+
+ (B) For dates of service prior to Oct. 1, 2015, ICD-9-CM codes, and for dates of service on and after Oct. 1, 2015, ICD-10-CM codes, 
+
+ (C) CPT® codes and HCPCS codes; and 
+
+ (D) The hospital’s NPI. 
+
+ (c) Unless otherwise provided by contract, the insurer must pay for hospital outpatient services as follows: [See attached table.] 
+
+ (3) Specific Circumstances. When a patient is seen initially in an emergency department and is then admitted to the hospital for inpatient treatment, the services provided immediately prior to admission are considered part of the inpatient treatment. Diagnostic testing done prior to inpatient treatment is considered part of the hospital services subject to the hospital inpatient fee schedule. 
+
+ (4) Out-of-State Hospitals. 
+
+ (a) Unless otherwise agreed upon by the hospital and the insurer, insurers must pay an out-of-state hospital for inpatient services as outlined in subsection (1)(c) of this rule and for outpatient services as outlined in subsection (2)(c) of this rule. 
+
+ (b) The payment to out-of-state hospitals may be negotiated between the insurer and the hospital. 
+
+ (c) Any agreement for payment less than the Oregon fee schedule amount must be in writing and signed by the hospital and insurer representative. 
+
+ (d) The agreement must include language that the hospital will not bill the patient any remaining balance and that the negotiated amount is considered payment in full. 
+
+ (e) Notwithstanding OAR 436-009-0010(8), if the insurer and the hospital are unable to reach an agreement within 45 days of the insurer's receipt of the bill, the insurer must pay an out-of-state hospital for inpatient services as outlined in subsection (1)(c) of this rule and for outpatient services as outlined in subsection (2)(c) of this rule. 
+
+ (5) Calculation of Cost-to-Charge Ratio Published in Bulletin 290 . 
+
+ (a) Each hospital's CMS 2552 form and financial statement is the basis for determining its adjusted cost-to-charge ratio. If a current form 2552 is not available, then financial statements may be used to develop estimated data. If the adjusted cost–to-charge ratio is determined from estimated data, the hospital will receive the lower ratio of either the hospital's last published cost-to-charge ratio or the hospital's cost-to-charge ratio based on estimated data. 
+
+ (b) The basic cost-to-charge ratio is developed by dividing the total net expenses for allocation shown on Worksheet A, and as modified in subsection (c), by the total patient revenues from Worksheet G-2. 
+
+ (c) The net expenses for allocation derived from Worksheet A is modified by adding, from Worksheet A-8, the expenses for: 
+
+ (A) Provider-based physician adjustment; 
+
+ (B) Patient expenses such as telephone, television, radio service, and other expenses determined by the director to be patient-related expenses; and 
+
+ (C) Expenses identified as for physician recruitment. 
+
+ (d) The basic cost-to-charge ratio is further modified to allow a factor for bad debt and the charity care provided by each hospital. The adjustment for bad debt and charity care is calculated in two steps. Step one: Add the dollar amount for net bad debt to the dollar amount for charity care. Divide this sum by the dollar amount of the total patient revenues, from Worksheet G-2, to compute the bad debt and charity ratio. Step two: Multiply the bad debt and charity ratio by the basic cost-to-charge ratio calculated in subsection (5)(b) to obtain the factor for bad debt and charity care. 
+
+ (e) The basic cost-to-charge ratio is further modified to allow an adequate return on assets. The director will determine a historic real growth rate in the gross fixed assets of Oregon hospitals from the audited financial statements. This real growth rate and the projected growth in a national fixed weight price deflator will be added together to form a growth factor. This growth factor will be multiplied by the total fund balance, from Worksheet G of each hospital's CMS 2552 to produce a fund balance amount. The fund balance amount is then divided by the total patient revenues from Worksheet G-2, to compute the fund balance factor. 
+
+ (f) The factors resulting from subsections (5)(d) and (5)(e) of this rule are added to the ratio calculated in subsection (5)(b) of this rule to obtain the adjusted cost-to-charge ratio. In no event will the adjusted cost-to-charge ratio exceed 1.00. 
+
+ (g) The adjusted cost-to-charge ratio for each hospital will be revised annually, at a time based on their fiscal year, as described by bulletin. Each hospital must submit a copy of its CMS 2552 and financial statements each year within 150 days of the end of the hospital’s fiscal year to the Information Technology and Research Section, Department of Consumer and Business Services. The adjusted cost-to-charge ratio schedule will be published by bulletin yearly. 
+
+ (h) For newly formed or established hospitals for which no CMS 2552 has been filed or for which there is insufficient data, or for those hospitals that do not file Worksheet G-2 with the submission of their CMS 2552, the division determines an adjusted cost–to-charge ratio for the hospital based upon the adjusted cost to charge ratios of a group of hospitals of similar size or geographic location. 
+
+ (i) If the financial circumstances of a hospital unexpectedly or dramatically change, the division may revise the hospital's adjusted cost-to-charge ratio to allow equitable payment. 
+
+ (j) If audit of a hospital's CMS 2552 by the CMS produces significantly different data from that obtained from the initial filing, the division may revise the hospital's adjusted cost-to-charge ratio to reflect the data developed subsequent to the initial calculation. 
+
+ (k) Notwithstanding subsections (1)(c) and (2)(c) of this rule, the director may exclude rural hospitals from imposition of the adjusted cost-to-charge ratio based upon a determination of economic necessity. The rural hospital exclusion will be based on the financial health of the hospital reflected by its financial flexibility index. All rural hospitals having a financial flexibility index at or below the median for all Oregon critical access hospitals qualify for the rural exemption. Rural hospitals that are designated as critical access hospitals under the Oregon Medicare Rural Hospital Flexibility Program are automatically exempt from imposition of the adjusted cost-to-charge ratio. 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 656.726(4), ORS 656.012, ORS 656.236(5), ORS 656.327(2) & ORS 656.313(4)(d) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 656.248, ORS 656.252 & ORS 656.256 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 1-2023, amend filed 03/09/2023, effective 04/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 2-2022, amend filed 03/02/2022, effective 04/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 4-2020, amend filed 03/04/2020, effective 04/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 1-2017, f. 3-6-17, cert. ef. 4-1-17 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ WCD 1-2016, f. 3-7-16, cert. ef. 4-1-16 
+WCD 3-2015, f. 3-12-15, cert. ef. 4-1-15 
+WCD 6-2014, f. 6-13-14, cert. ef. 7-1-14 
+WCD 4-2014(Temp), f. & cert. ef. 4-15-14 thru 10-11-14 
+WCD 3-2014, f. 3-12-14, cert. ef. 4-1-14 
+WCD 2-2013, f. 3-11-13, cert. ef. 4-1-13 
+WCD 1-2011, f. 3-1-11, cert. ef. 4-1-11 
+WCD 3-2010, f. 5-28-10, cert. ef. 7-1-10 
+WCD 1-2009, f. 5-22-09, cert. ef. 7-1-09 
+WCD 5-2008, f. 12-15-08, cert. ef. 1-1-09 
+WCD 3-2008(Temp), f. & cert. ef. 7-7-08 thru 1-2-09
+WCD 1-2008, f. 6-13-08, cert. ef. 7-1-08 
+WCD 10-2007, f. 11-1-07, cert. ef. 1-1-08 
+WCD 2-2007, f. 5-23-07, cert. ef. 7-1-07 
+WCD 3-2006, f. 3-14-06, cert. ef. 4-1-06 
+WCD 2-2005, f. 3-24-05, cert. ef. 4-1-05 
+WCD 3-2004, f. 3-5-04, cert. ef. 4-1-04 
+WCD 6-2003, f. 5-28-03, cert. ef. 7-1-03 
+WCD 3-2002, f. 2-25-02, cert. ef. 4-1-02 
+WCD 2-2001, f. 3-8-01, cert. ef. 4-1-01 
+WCD 9-1999, f. 5-27-99, cert. ef. 7-1-99 
+WCD 5-1998, f. 4-3-98, cert. ef. 7-1-98 
+WCD 16-1997, f. & cert. ef. 12-15-97 
+WCD 8-1997(Temp), f. & cert. ef. 7-9-97 
+WCD 5-1997, f. 4-21-97, cert. ef. 7-1-97 
+WCD 20-1996, f. 10-2-96, cert. ef. 1-1-97 
+WCD 12-1996, f. 5-6-96, cert. ef. 6-1-96, Renumbered from 436-010-0090 
+WCD 18-1995(Temp), f. & cert. ef. 12-4-95 
+WCD 13-1994, f. 12-20-94, cert. ef. 2-1-95 
+WCD 11-1992, f. 6-11-92, cert. ef. 7-1-92 
+WCD 30-1990, f. 12-10-90, cert. ef. 12-26-90 
+WCD 15-1990, f. & cert. ef. 8-7-90 
+WCD 12-1990(Temp), f. 6-20-90, cert. ef. 7-1-90 
+WCD 1-1990, f. 1-5-90, cert. ef. 2-1-90 
+WCD 2-1989, f. 8-21-89, cert. ef. 9-1-89 
+WCD 6-1988, f. 9-6-88, cert. ef. 9-15-88 
+WCD 1-1988, f. 1-20-88, cert. ef. 2-1-88 
+WCD 2-1987, f. 2-20-87, cert. ef. 3-16-87 
+WCD 2-1986, f. 3-10-86, cert. ef. 3-17-86 
+WCD 1-1986(Temp), f. 2-5-86, cert. ef. 2-6-86 
+WCD 6-1985, f. 12-10-85, cert. ef. 1-1-86 
+WCD 4-1985(Temp), f. & cert. ef. 9-11-85 
+WCD 3-1985(Temp), f. & cert. ef. 9-4-85, Renumbered from 436-069-0701 
+WCD 2-1985, f. 4-29-85, cert. ef. 6-3-85 
+WCD 1-1984, f. & cert. ef. 1-16-84 
+WCD 5-1982, f. 2-23-82, cert. ef. 3-1-82 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

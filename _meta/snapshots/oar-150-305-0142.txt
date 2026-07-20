@@ -1,0 +1,418 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 305 GENERAL ADMINISTRATION OF REVENUE LAWS 
+ 150-305-0142 
+ Interest on Refunds
+ 
+ 
+ (1) Adjustment to statutory rate. For refunds owing on or after January 1, 2026, unless specifically provided by statute or by rule, every refund arising under any law administered by the department will bear interest at the rate of eight percent annually. For historic rates, see section (4) of this rule. 
+
+ (2) Interest start date. 
+
+ (a) As provided in OAR 150-314-0240, when a refund of individual income tax is attributable to tax withheld by an employer, or when a refund of individual income tax, corporate excise tax, or corporate income tax is attributable to estimated taxes, the interest starting date is 45 days after the return was due or 45 days after the return was filed, whichever is later. 
+
+ (b) The interest start date for a refund of estate tax is 45 days after the return was due, 45 days after the original return was filed, or 45 days after the tax was paid, whichever is later. 
+
+ (c) The interest start date for refunds not described in (2)(a) or (2)(b) is 45 days after the return was due or 45 days after the date the tax was paid, whichever is later. 
+
+ (3) Interest periods. 
+
+ (a) An interest period is one full calendar day beginning with the interest start date. Interest will be computed on a daily basis. The daily rate is based on a 365-day year. 
+
+ (b) The daily interest rate is calculated by dividing the annual interest rate by 365 without rounding. 
+
+ (4) The following table shows interest rates used by the department to compute interest due to taxpayers on refunds. 
+
+ 
+ Percentage Rates. 
+
+ Effective date — Annual rate — Monthly rate — Daily rate 
+
+ January 1, 1969 — 8 — 0.6667 — — 
+
+ September 13, 1975 — 6 — 0.5 — — 
+
+ June 1, 1982 — 12 — 1.0 — 0.0329 
+
+ June 1, 1983 — 18 — 1.5 — 0.0493 
+
+ August 1, 1986 — 17 — 1.4167 — 0.0466 
+
+ January 1, 1987 — 16 — 1.3333 — 0.0438 
+
+ January 1, 1988 — 11 — 0.9167 — 0.0301 
+
+ January 1, 1993 — 8 — 0.6667 — 0.0219 
+
+ January 1, 1995 — 10 — 0.8333 — 0.0274 
+
+ January 1, 1999 — 9 — 0.75 — 0.0247 
+
+ January 1, 2001 — 10 — 0.8333 — 0.0274 
+
+ February 1, 2002 — 8 — 0.6667 — 0.0219 
+
+ February 1, 2003 — 7 — 0.5833 — 0.0192 
+
+ January 1, 2004 — 6 — 0.5 — 0.0164 
+
+ January 1, 2005 — 5 — 0.4167 — 0.0137 
+
+ January 1, 2006 — 7 — 0.5833 — 0.0192 
+
+ January 1, 2007 — 9 — 0.75 — 0.0247 
+
+ January 1, 2009 — 6 — 0.5 — 0.0164 
+
+ January 1, 2010 — 5 — 0.4167 — 0.0137 
+
+ January 1, 2013 — 4 — 0.3333 — 0.0110 
+
+ January 1, 2017 — 5 — 0.4167 — 0.0137 
+
+ January 1, 2018 — 5 — N/A — 0.0137 
+
+ January 1, 2019 — 6 — N/A — 0.0164 
+
+ January 1, 2021 — 4 — N/A — 0.0110 
+
+ January 1, 2023 — 6 — N/A — 0.0164 
+
+ January 1, 2024 — 8 — N/A — 0.0219 
+
+ January 1, 2025 — 9 — N/A — 0.0247 
+
+ January 1, 2026 — 8 — N/A — 0.0219 
+
+ The daily interest rates shown above are rounded for illustrative purposes. 
+
+ Example: Tom filed his 2016 return and paid the tax due on April 6, 2017. On November 1, 2018, Tom filed a 2016 amended return to claim a $1,000 refund. The refund was paid on December 11, 2018. The interest start date is June 2, 2017, the 45th day after the original return was due (April 18, 2017). Interest is computed on a daily basis as follows: 
+
+ 6/2/2017-12/11/2018 – (Annual interest rate / 365 days) x number of days x amount of refund 
+
+ (5% / 365) x 558 days x $1,000 = $76.44 
+
+ Total interest: $76.44 
+ 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 & 305.220 
+ 
+ 
+ Statutes/Other Implemented:  ORS 305.220 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 9-2025, amend filed 12/15/2025, effective 01/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 50-2024, amend filed 12/26/2024, effective 01/01/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 23-2023, amend filed 12/26/2023, effective 01/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 30-2022, amend filed 12/20/2022, effective 01/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 44-2020, amend filed 12/23/2020, effective 01/01/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 31-2018, amend filed 12/31/2018, effective 01/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 73-2017, amend filed 12/22/2017, effective 01/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 81-2016, f. 12-28-16, cert. ef. 1-1-17 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ Renumbered from 150-305.220(2), REV 47-2016, f. 8-13-16, cert. ef. 9-1-16 
+REV 3-2013, f. & cert. ef. 3-28-13 
+REV 10-2012, f. 12-18-12, cert. ef. 1-1-13 
+REV 9-2009, f. 12-21-09, cert. ef. 1-1-10 
+REV 16-2008, f. 12-26-08, cert. ef. 1-1-09 
+REV 11-2007, f. 12-28-07, cert. ef. 1-1-08 
+REV 11-2006, f. 12-27-06, cert. ef. 1-1-07 
+REV 5-2005, f. 12-30-05, cert. ef. 1-1-06 
+REV 10-2004, f. 12-29-04, cert. ef. 12-31-04 
+REV 4-2003, f. & cert. ef. 12-31-03 
+REV 9-2002, f. 12-31-02, cert. ef. 1-31-03 
+REV 9-2001, f. 12-31-01, cert. ef. 2-1-02 
+REV 12-2000, f. & cert. ef. 12-29-00, cert. ef. 12-31-00 
+REV 7-1998, f. 11-13-98, cert. ef. 12-31-98 
+RD 7-1994, f. 12-15-94, cert. ef. 12-30-94 
+RD 7-1993, f. 12-30-93, cert. ef. 12-31-93 
+RD 7-1992, f. & cert. ef. 12-29-92 
+RD 7-1991, f. 12-30-91, cert. ef. 12-31-91 
+RD 12-1990, f. 12-20-90, cert. ef. 12-31-90 
+RD 7-1989, f. 12-18-89, cert. ef. 12-31-89 
+RD 11-1988, f. 12-19-88, cert. ef. 12-31-88 
+RD 15-1987, f. 12-10-87, cert. ef. 12-31-87, Renumbered from 305.220 
+;Renumbered from 150-314.415(1)(a); 
+12-31-86 
+12-31-85 
+12-31-82, Renumbered from Ch. 16. Or Laws 1982 (2nd SS) to 150-314.415(1)(a) 
+6-15-82 
+5-5-82
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

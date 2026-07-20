@@ -1,0 +1,173 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Insurance Regulation - Chapter 836 
+ 
+ 
+ 
+ 
+ Division 43 WORKERS’ COMPENSATION INSURANCE RATING SYSTEM AND AUDIT PROCEDURES 
+ 836-043-0060 
+ Assignment Formula 
+ 
+ (1) This rule describes the mechanism used to provide for the random and equitable distribution of employers under the Plan to servicing carriers. The Plan Administrator may override the random assignment process to ensure the availability of requested Plan coverages to the employer.  (2)(a) A servicing carrier is responsible for providing services on behalf of those insurers that have elected to meet their Plan participation requirements by subscribing to the organizing principles. The Plan Administrator shall determine the allocable percentage of the servicing carrier through an objective selection process. However, the combined allocable percentages for all servicing carriers must be equal to the combined net voluntary premiums written for all signatories to the organizing principles as compared to the total net premiums of all insurers participating in the Plan in Oregon. An approved servicing carrier may receive assignments for any risk eligible for coverage under the Plan.  (b) When assigning an employer to an insurer, the Plan Administrator shall consider the employer’s prior Plan coverage, special requirements, including but not limited to additional states or federal coverage, and premium size.  (c) Any carrier authorized by the U.S. Department of Labor to provide coverage under the U.S. Longshore and Harbor Workers’ Compensation Act (USL&HW) and extension acts is eligible to receive assignments requesting the same coverage in the assigned risk market. A carrier with USL&HW authorization is also eligible for assignments requesting Maritime, Program I or II. The Plan Administrator shall determine request for assignments under the USL&HW Act, Maritime, or extension acts coverage in accordance with the assignment methodology established by the Plan Administrator.  (d) A servicing carrier that has previously reported voluntary or assigned risk premium writing in any state, that is subject to the Federal Coal Mine Health and Safety Act or that has previously accepted assignments in any state for operations that are subject to the Federal Coal Mine Health and Safety Act, will receive assignments requesting such coverage in accordance with the assignment methodology established by the Plan Administrator.  (3) If an employer has prior assigned risk coverage, the Plan Administrator shall reassign the employer to the original servicing carrier as long as the carrier can provide the coverage requested by the employer. Circumstances may require the suspension of this criterion, such as when the suspension is warranted, in order to ensure that all servicing carriers achieve their allocable percentage of Plan business. The Plan Administrator shall provide a report of such suspensions to the regulatory authority upon request.  (4) The Plan Administrator shall identify those servicing carriers eligible to receive an assignment based on the following requirements of the employer and the capabilities of carriers:  (a) The Plan Administrator shall select a servicing carrier that is able to provide coverage in the additional states requested by the employer in accordance with Interstate Assignments section of the Plan.  (b) The Plan Administrator shall select a servicing carrier that is able to provide authorized additional coverage requested by the employer. The following coverages require assignment to a servicing carrier with special capabilities as indicated:  (A) For coverage under the USL&HW Act and its extension acts, including the Outer Continental Shelf Lands Act, Defense Base Act, and Nonappropriated Fund Instrumentalities Act, the Plan Administrator shall select a carrier authorized by the U.S. Department of Labor to provide these coverages.  (B) For Maritime coverage, the Plan Administrator shall select a carrier authorized by the Department of Labor to provide United States Longshore and Harbor Workers’ Compensation Act coverage.  (C) For coal mine risks, the Plan Administrator shall select a carrier experienced in servicing coal mine risks, either through writing coal mine policies in the voluntary market or through prior servicing of assigned risk market coal mine risks.  (c) Under special circumstances, the Plan Administrator may establish a minimum or maximum number of assignments or premium in order to ensure equitable assignments. These numbers may vary and are based on the amount of business remaining to be assigned and the number of weeks remaining in the calendar year.  (d) A servicing carrier that meets or exceeds its maximum weekly number of risks is not considered eligible. Each employer is assigned to an eligible servicing carrier according to the following algorithm, considering all servicing carriers in the aggregate:  (A) Each servicing carrier’s quota premium is calculated by multiplying total premium in the Plan at the time of the assignment by the carrier’s quota percent. A servicing carrier’s quota percent may be adjusted to allow for a more even distribution of assignments over a period of time.  (B) Each servicing carrier’s remaining business to be assigned is calculated by subtracting its premium in force at the time of the assignment from its adjusted quota premium. In order to allow the flexibility of slightly larger assignments in the carrier assignment process, an adjustment is made to each carrier’s quota premium. This adjustment consists of applying an “over-quota limit” of five percent or $5,000, whichever is greater, up to a maximum of $200,000. The Plan Administrator may lower this limit if circumstances warrant, such as when required to ensure that all servicing carriers achieve their allocable percentage of Plan business.  (C) Based on the difference between the percentage of a servicing carrier’s premium in force and its quota premium, a range of numbers proportional in size to the percentage difference is assigned to each carrier. A random number is generated, and the assignment is made to the servicing carrier whose range encompasses the random number. Issuance and Continuation of Policy A policy must be issued, renewed or reinstated without a lapse in coverage when premium is received by the carrier or postmarked by the United States Postal Service prior to the policy effective date or cancellation date. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 656.427, 656.730 & 731.244 
+ 
+ 
+ Statutes/Other Implemented:  ORS 656.427, 656.730 & 737.265 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ ID 18-2008, f. 12-9-08, cert. ef. 1-1-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ID 10-1996, f. 6-27-96, cert. ef. 7-1-96 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

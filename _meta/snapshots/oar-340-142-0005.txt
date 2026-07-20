@@ -1,0 +1,292 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 142 OIL AND HAZARDOUS MATERIALS EMERGENCY RESPONSE REQUIREMENTS 
+ 340-142-0005 
+ Definitions as Used in This Division Unless Otherwise Specified
+ 
+ 
+ (1) "Barrel" means 42 U.S. gallons at 60 degrees Fahrenheit. 
+
+ (2) "Cleanup" means the containment, collection, removal, treatment or disposal of oil or hazardous material; site restoration; and any investigations, monitoring, surveys, testing and other information gathering required or conducted by the Department. 
+
+ (3) "Cleanup Costs" means all costs associated with the cleanup of a spill or release incurred by the state, its political subdivision or any person with written approval from the Department when implementing ORS 466.205, 466.605 to 466.680, 468B.990(3) and (4) and 466.995 or 468B.320. 
+
+ (4) "Commission" means the Environmental Quality Commission. 
+
+ (5) "Department" means the Department of Environmental Quality. 
+
+ (6) "Director" means the Director of the Department of Environmental Quality. 
+
+ (7) "Dry cleaning facility" means any active or inactive facility located in this state that is or was engaged in dry cleaning apparel and household fabrics for the general public, and dry stores, other than a: 
+
+ (a) Facility located on a United States military base; 
+
+ (b) Uniform service or linen supply facility; 
+
+ (c) Prison or other penal institution; or 
+
+ (d) Facility engaged in dry cleaning operations only as a dry store and selling less than $50,000 per year of dry cleaning services. 
+
+ (8) "Having Control Over Any Oil or Hazardous Material" includes, but is not limited to using, handling, processing, manufacturing, storing, treating, disposing or transporting oil or hazardous material. During transport this also includes oil or hazardous materials that are cargo, fuel, or a part or fluid in the transporting vessel, vehicle, aircraft, or railcar. 
+
+ (9) "Hazardous material" means one of the following: 
+
+ (a) Hazardous waste as defined in ORS 466.005. 
+
+ (b) Radioactive waste as defined in ORS 469.300, radioactive material identified by the Energy Facility Siting Council under 469.605 and radioactive substances as defined in 453.005. 
+
+ (c) Communicable disease agents as regulated by the Health Division under ORS 431 and 433.010 to 433.045 and 433.106 to 433.990. 
+
+ (d) Hazardous substances designated by the United States Environmental Protection Agency under section 311 of the Federal Water Pollution Control Act, P.L. 92-500, as amended. 
+
+ (e) Substances listed by the United States Environmental Protection Agency in 40 Code of Federal Regulations Part 302 — Table 302.4 (List of Hazardous Substances and Reportable Quantities) and amendments. 
+
+ (f) Material regulated as a Chemical Agent under ORS 465.550. 
+
+ (g) Material used as a weapon of mass destruction, or biological weapon. 
+
+ (h) Pesticide residue. 
+
+ (i) Dry cleaning solvent as defined by ORS 465.200(9). 
+
+ (10) "Immediately" in relation to a response to a spill means that the actions necessary to protect human health and the environment take priority over all other concerns of the responsible person. 
+
+ (11) "Incident Commander" means the individual under the National Incident Management System (NIMS) Incident Command System that is responsible for the overall management and control of responding entities. The first emergency responder to arrive at the scene becomes the incident commander until relieved, or the incident is over. The Department is the Lead Agency of the State of Oregon during the cleanup phase of oil and hazardous material incidents, and relieves the Incident Commander when the life safety portion of the emergency response is complete and the focus of the effort is on containment and cleanup of oil or hazardous materials. 
+
+ (12) "Initial assessment" includes, but is not limited to, the following tasks: 
+
+ (a) Verifying the spill location; 
+
+ (b) Establishing of the type of incident based on products and conditions; 
+
+ (c) Confirming or correcting the reported quantity released or areal extent of the contamination; 
+
+ (d) Reporting the efficacy of the initial containment; 
+
+ (e) Projecting immediate resource needs to control the release; 
+
+ (f) Reporting local knowledge about the probable impacts of the release; 
+
+ (g) Providing the Department with information necessary to the Department's preliminary risk evaluation for the incident and characterizing of the release; and 
+
+ (h) Other tasks as necessary to collect ephemeral data and information ascertainable only at the time of the release. 
+
+ (13) "Lead Agency" means the designated representative authority of either the state or federal government. The Department is the Lead Agency of the State of Oregon for oil and hazardous materials incidents. The Environmental Protection Agency and the United States Coast Guard are the Lead agencies of the federal government for oil and hazardous materials incidents. The Lead Agency appoints the State or Federal On-Scene Coordinator. 
+
+ (14) "Non-petroleum oils" includes synthetic lubricants, edible oil, vegetable oils, and animal oils. 
+
+ (15) "Oils" or "Oil" includes gasoline, crude oil, fuel oil, diesel oil, lubricating oil, sludge, oil refuse and any other petroleum related product. 
+
+ (16) "Person" includes, but is not limited to, an individual, trust, firm, joint stock company, corporation, partnership, association, municipal corporation, political subdivision, interstate body, the state and any agency or commission thereof and the federal government and any agency thereof. 
+
+ (17) "Pesticide" has the meaning given in ORS 634.006. 
+
+ (18) "Pesticide Residue" means a hazardous waste that is generated from pesticide operations and pesticide management, such as, from pesticide use (except household use), manufacturing, repackaging, formulation, bulking and mixing, and spills. Pesticide residue includes, but is not limited to, unused commercial pesticides, tank or container bottoms or sludges, pesticide spray mixture, container rinsings and pesticide equipment washings, and substances generated from pesticide treatment, recycling, disposal, and rinsing spray and pesticide equipment. Pesticide residue does not include pesticide-containing materials that are used according to label instructions, and substances such as, but not limited to treated soil, treated wood, foodstuff, water, vegetation, and treated seeds where pesticides were applied according to label instructions. 
+
+ (19) "Plan" as used in this Division, means any spill prevention, contingency, or emergency response document prepared in compliance with the requirements of a federal, state, or local government authority. 
+
+ (20) "Reportable quantity" is an amount of oil or hazardous material which if spilled or released, or threatens to spill or release, in quantities equal to or greater than those specified in OAR 340-142-0050 must be reported pursuant to 340-142-0040 
+
+ (21) "Respond" or "response" means: 
+
+ (a) Actions taken to monitor, assess and evaluate a spill or release or threatened spill or release of oil or hazardous material; 
+
+ (b) First aid, rescue or medical services, and fire suppression; or 
+
+ (c) Containment or other actions appropriate to prevent, minimize or mitigate damage to the public health, safety, welfare or the environment which may result from a spill or release or threatened spill or release if action is not taken. 
+
+ (22) "Responsible Person" means any person owning or having control over any oil or hazardous material spilled or released or threatening to spill or release. 
+
+ (23) "SOSC" means State On-Scene Coordinator, the state official appointed by the Department when serving as the lead agency to represent the interests of the Department and the State of Oregon in response to an oil or hazardous material spill or release or threatened spill or release. The SOSC coordinates the interests of other state and local agencies within a unified command. Before assuming an incident command role under the National Incident Management System (NIMS) Incident Command System, the SOSC may provide technical advice to police, fire and other first responders, and coordinate a cleanup response with state and local agencies. 
+
+ (24) "Spill or Release" means the discharge, deposit, injection, dumping, spilling, emitting, releasing, leaking or placing of any oil or hazardous material into the air or into or on any land or waters of the state, as defined in 468B.005, except as authorized by a permit issued under ORS Chapter 454, 459, 459A, 468. 468A, 468B or 469, 466.005 to 466.385, 466.990(1) and (2), 466.992 or federal law or while being stored or used for its intended purpose. 
+
+ (25) "Threatened Spill or Release" means oil or hazardous material is likely to escape or be carried into the air or into or on any land or waters of the state 
+
+ (26) "Unified Command" means the combined representatives of the Lead Agencies, responsible person, and others with the authority to make ultimate decisions as part of a National Incident Management System (NIMS)-style Incident Command System during an emergency response. 
+
+ (27) "Waters of the State" includes lakes, bays, ponds, impounding reservoirs, springs, wells, rivers, streams, creeks, estuaries, marshes, inlets, canals, the Pacific Ocean within the territorial limits of the State of Oregon and all other bodies of surface or underground waters, natural or artificial, inland or coastal, fresh or salt, public or private (except those private waters which do not combine or effect a junction with natural surface or underground waters), which are wholly or partially within or bordering the state or within its jurisdiction. 
+
+ [Note: Publications and tables referenced are available from the agency.] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 183, 459, 466 & 468B 
+ 
+ 
+ Statutes/Other Implemented:  ORS 466.605 & 466.630 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 51-2017, minor correction filed 12/19/2017, effective 12/19/2017 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 8-2005, f. & cert. ef. 7-14-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 3-2003, f. & cert. ef. 1-31-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

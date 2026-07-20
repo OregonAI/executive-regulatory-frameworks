@@ -1,0 +1,280 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 23 PRESCRIPTION DRUG MONITORING PROGRAM 
+ 333-023-0810 
+ Reporting Requirements
+ 
+ 
+ (1) Not later than 72 hours after dispensing a controlled substance a pharmacy shall electronically report to the Oregon Health Authority (Authority) the following information for prescription drugs dispensed that are classified in schedules II through V under the federal Controlled Substances Act, 21 U.S.C. 811 and 812, as modified by the State Board of Pharmacy by rule under ORS 475.035: 
+
+ (a) Patient’s full name, address, phone number, date of birth, and sex; 
+
+ (b) Pharmacy Drug Enforcement Administration Registration Number (or other identifying number in lieu of such registration number); 
+
+ (c) Prescriber name and Drug Enforcement Administration Registration Number (or other identifying number in lieu of such registration number); 
+
+ (d) Identification of the controlled substance using a national drug code number; 
+
+ (e) Prescription number; 
+
+ (f) Date the prescription was written; 
+
+ (g) Date the drug was dispensed; 
+
+ (h) Number of metric units dispensed; 
+
+ (i) Number of days supplied; 
+
+ (j) Number of refills authorized by the prescriber and the number of the fill of the prescription; 
+
+ (k) ICD-10, if it is provided by the prescriber with the prescription; 
+
+ (l) Reason for prescription, if it is provided by the prescriber with the prescription; and 
+
+ (m) If applicable, the species, name and sex of the animal for which the prescription drug was prescribed. 
+
+ (2) A pharmacy located outside of the state and licensed by the Oregon Board of Pharmacy shall electronically report the required information for controlled substances dispensed to residents of Oregon. 
+
+ (3) A pharmacy shall submit data formatted in the American Society for Automation in Pharmacy (ASAP) 2016 version 4 release 2a specification standard. 
+
+ (4) Data submitted by a pharmacy shall meet criteria prescribed by the Authority before it is uploaded into the system. 
+
+ (5) A pharmacy shall be responsible for the correction of errors in the submitted data. Corrections shall be submitted no later than one week after the data was submitted. 
+
+ (6) A pharmacy that has not dispensed any controlled substances during a seven-day reporting period must submit a zero report to the Authority at the end of the reporting period. 
+
+ (7) A pharmacy that does not dispense any controlled substances or any controlled substances directly to a patient may request a waiver from the Authority for exemption from the reporting requirement. A pharmacy requesting a no reporting waiver shall submit to the Authority a written waiver request form provided by the Authority. 
+
+ (8) If the Authority approves or denies the no reporting waiver request, the Authority shall provide written notification of approval or denial to the pharmacy. The duration of the waiver shall be two years at which time the pharmacy must reapply. 
+
+ (9) A pharmacy may request a waiver from the Authority for exemption from the electronic reporting method. A pharmacy requesting an electronic reporting waiver shall submit to the Authority a written waiver request form provided by the Authority that contains the reason for the requested waiver. 
+
+ (10) The Authority may grant a waiver of the electronic reporting requirement for good cause as determined by the Authority. Good cause includes financial hardship and not having an automated recordkeeping system. 
+
+ (a) If the Authority approves the electronic reporting waiver, the Authority shall provide written notification to the pharmacy. The Authority shall determine an alternative reporting method for the pharmacy granted a waiver. The duration of the waiver shall be two years at which time the pharmacy must reapply. 
+
+ (b) If the Authority denies the electronic reporting waiver, the Authority shall provide written notification to the pharmacy explaining why the request was denied. The Authority may offer alternative suggestions for reporting to facilitate participation in the program. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 431A.855 
+ 
+ 
+ Statutes/Other Implemented:  ORS 431A.855 & 431A.860 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 3-2025, amend filed 01/22/2025, effective 01/22/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 27-2019, amend filed 12/16/2019, effective 01/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 232-2018, amend filed 07/02/2018, effective 07/02/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 410-121-4010, PH 28-2015, f. 12-29-15, cert. ef. 1-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 64-2013, f. & cert. ef. 11-19-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 6-2011, f. & cert. ef. 5-5-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

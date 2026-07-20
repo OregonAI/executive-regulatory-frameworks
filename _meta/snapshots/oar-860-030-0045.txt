@@ -1,0 +1,209 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Public Utility Commission 
+ Chapter 860 
+ 
+ 
+ 
+ 
+ 
+ Division 30 RESIDENTIAL AND COMMERCIAL ENERGY CONSERVATION 
+ 860-030-0045 
+ Definitions for Energy Conservation 
+ 
+ For the purpose of these rules, the following terms shall have the following definitions, unless the context clearly indicates otherwise:  (1) "Automatic control system" means devices, including but not limited to: wide dead band thermostats, which regulate lighting, heating, ventilating, air conditioning, or other energy loads automatically based on time, temperature, humidity, pressure, or load limiting measures. Equipment associated with automatic control systems includes, but is not limited to: automatic dampers, wiring, electronic circuitry, relays, valves, and other equipment which produces a reduction in energy consumption or demand.  (2) "BTU" means a British Thermal Unit, the amount of energy required to raise the temperature of a one-pound mass of water one degree Fahrenheit.  (3) "Commercial building" means a public building as defined in ORS 456.746 and other commercial structures as defined by energy utility tariff.  (4) "Commercial building customer" means the owner or tenant of a commercial building who is responsible for paying fuel costs to an energy utility which provides electricity or gas energy to the building.  (5) "Commercial energy audit" means the service provided to a commercial building customer which includes on-site data gathering, energy use analysis, and a report to the customer recommending energy conservation measures, and an estimate of the cost/benefit of those measures.  (6) "Commercial energy auditor" (or "Level I Auditor") means a person who is qualified through general training and experience and who has demonstrated a general knowledge of heat transfer principles, construction terms and components, energy efficient operations and maintenance procedures, boiler and furnace efficiency improvements, infiltration controls, envelope weatherization, heating, ventilating, and air conditioning (HVAC) systems, electric control systems, lighting systems, solar insulation, and applicable energy conservation measures.  (7) "Commercial energy specialist" (or "Level II Auditor") means a person who is qualified through specialized training and experience, who has demonstrated knowledge and abilities of a qualified commercial energy auditor, and who can in addition:  (a) Perform calculations of energy use analysis;  (b) Perform calculations of energy efficiencies of HVAC, lighting, plumbing, water, steam, control, or electrical systems; and  (c) Can prepare technical reports of net energy savings for energy conservation measures.  (8) "Conservation services" means those services specified in ORS 469.865 and 469.885.  (9) "Commission" means the Public Utility Commission of Oregon.  (10) "Energy use analysis" means estimates of energy consumed by various systems and components of a building including, but not limited to: envelope, lighting, HVAC, and hot water.  (11) "Energy conservation measure" has the meaning specified in ORS 469.860(1)(e).  (12) "Envelope weatherization" includes, but is not limited to: insulation of ceiling, walls, floors, ducts, or pipes, and installation of storm or thermal windows and doors.  (13) "Furnace and boiler efficiency improvements" means replacement burners, furnaces, or boilers of the same energy type which, due to their design, reduce energy use due to an increase in combustion efficiency, improved heat generation or reduced heat losses, automatic vent dampers, automatic ignition devices, replacement filters, and cleaning and combustion efficiency adjustments.  (14) "Heat recovery devices" means those devices or equipment which recover heat from commercial use by capturing, storing, transferring, and using heat content of liquid or gaseous streams to reduce the need for additional energy resources. Devices include, but are not limited to: recuperators, heat wheels, regenerators, heat exchangers, and economizers.  (15) "Heating, ventilating, and air conditioning (HVAC) system modifications" includes, but is not limited to: improving control and use of outside air, adjusting temperature and humidity of supply air, reducing energy use of reheat systems and exhaust hoods, and replacement air conditioning systems of the same energy type which reduce the amount of energy use due to an increase in efficiency.  (16) "Infiltration controls" means caulking, weather stripping, dampers, sealants, air locks, revolving doors, and gaskets used to reduce air leaks in a building shell.  (17) "Improved operations and maintenance measures" means any energy conservation measure which is presumed cost-effective because there is little or no cost associated with the measure, so the simple payback period is generally less than one year. Operations and maintenance measures include, but are not limited to: temperature setbacks, water flow reductions, reduced use of ancillary systems or reduced energy use when a building is unoccupied, repairing air duct leaks, and steam system and furnace or boiler maintenance.  (18) "Lighting system improvements" means devices and actions which reduce overall indoor or outdoor lighting energy consumption while maintaining satisfactory lighting levels. Devices and actions include, but are not limited to: reducing light levels to acceptable minimum levels; installation of task lighting, local switching, time control, and sensing devices; and installation of more efficient lamps.  (19) "Net energy savings" means the BTU savings from a conservation measure, taking into account interactions of other known consumption measures being implemented and impacts on all energy sources and systems in the building.  (20) "Simple payback period" means the estimated total installed costs of an energy conservation measure divided by the estimated first year dollar savings to the customer resulting from the measure.  (21) "Solar water heaters" means water heating devices, either active or passive, designed to heat water with radiant energy from the sun.  (22) "Utility" or "energy utility" shall have the meaning given to an "investor-owned utility" in ORS 469.631 or to a "public utility" under ORS 757.005, which provides natural gas or electric service for heat, light, or power and is regulated by the Commission under ORS Chapter 757.  (23) "Water heating heat pumps" means water heating devices designed to heat water by extracting energy from the surrounding ambient environment, including air, earth, and ground water. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 183, 469, 756 & 757 
+ 
+ 
+ Statutes/Other Implemented:  ORS 756.040 & 469.631 - 469.645 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 9-2001, f. & cert. ef. 3-21-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 18-1998, f. & cert. ef. 10-12-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 1-1998, f. & cert. ef. 1-12-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 15-1985, f. & ef. 10-1-85 (Order No. 85-896) 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 10-1982, f. & ef. 9-30-82 (Order No. 82-685) 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

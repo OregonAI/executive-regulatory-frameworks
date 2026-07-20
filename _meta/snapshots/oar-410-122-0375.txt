@@ -1,0 +1,370 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 122 DURABLE MEDICAL EQUIPMENT, PROSTHETIC ORTHOTICS AND SUPPLIES (DMEPOS) 
+ 410-122-0375 
+ Walkers
+ 
+ 
+ (1) Indications and Limitations of Coverage: 
+
+ (a) A standard walker (E0130, E0135, E0141, E0143) and related accessories are covered if both of the following criteria are met: 
+
+ (A) When prescribed by a treating practitioner for a client with a medical condition impairing ambulation and there is a potential for increasing ambulation; and 
+
+ (B) When there is a need for greater stability and security than provided by a cane or crutches; 
+
+ (b) For an adult gait trainer, use the appropriate walker code. If a gait trainer has a feature described by one of the walker attachment codes (E0154-E0157), that code may be separately billed; 
+
+ (c) A heavy duty walker (E0148, E0149) is covered for clients who meet coverage criteria for a standard walker and who weigh more than 300 pounds 
+
+ (d) A heavy duty, multiple braking system, variable wheel resistance walker (E0147) is covered for clients who meet coverage criteria for a standard walker and who are unable to use a standard walker due to a severe neurologic disorder or other condition causing the restricted use of one hand; 
+
+ (e) When a walker with an enclosed frame (E0144) is dispensed to a client, documentation must support why a standard folding wheeled walker, E0143, was not provided as the least costly medically appropriate alternative; 
+
+ (f) Enhancement accessories of walkers are non-covered; 
+
+ (g) Leg extensions (E0158) are covered only for patients six feet tall or more. 
+
+ (2) Coding Guidelines: 
+
+ (a) A wheeled walker (E0141, E0143, E0149) is one with either two, three or four wheels. It may be fixed height or adjustable height. It may or may not include glide-type brakes (or equivalent). The wheels may be fixed or swivel; 
+
+ (b) A glide-type brake consists of a spring mechanism (or equivalent) which raises the leg post of the walker off the ground when the patient is not pushing down on the frame; 
+
+ (c) Code E0144 describes a folding wheeled walker which has a frame that completely surrounds the patient and an attached seat in the back; 
+
+ (d) A heavy duty walker (E0148, E0149) is one which is labeled as capable of supporting patients who weigh more than 300 pounds. It may be fixed height or adjustable height. It may be rigid or folding; 
+
+ (e) Code E0147 describes a 4-wheeled, adjustable height, folding-walker that has all of the following characteristics: 
+
+ (A) Capable of supporting patients who weigh greater than 350 pounds; 
+
+ (B) Hand operated brakes that cause the wheels to lock when the hand levers are released; 
+
+ (C) The hand brakes can be set so that either or both can lock both wheels; 
+
+ (D) The pressure required to operate each hand brake is individually adjustable; 
+
+ (E) There is an additional braking mechanism on the front crossbar; 
+
+ (F) At least two wheels have brakes that can be independently set through tension adjustability to give varying resistance; 
+
+ (f) The only walkers that may be billed using code E0147 are those products listed in the Product Classification List on the Medicare Pricing, Data Analysis and Coding (PDAC) contractor’s web site; 
+
+ (g) An enhancement accessory is one which does not contribute significantly to the therapeutic function of the walker. It may include, but is not limited to style, color, hand operated brakes (other than those described in code E0147), or basket (or equivalent); 
+
+ (h) A4636, A4637, and E0159 are only used to bill for replacement items for covered, patient-owned walkers. Codes E0154, E0156, E0157, and E0158 can be used for accessories provided with the initial issue of a walker or for replacement components. Code E0155 can be used for replacements on covered, patient-owned wheeled walkers or when wheels are subsequently added to a covered, patient-owned non-wheeled walker (E0130, E0135). Code E0155 cannot be used for wheels provided at the time of, or within one month of, the initial issue of a non-wheeled walker; 
+
+ (i) Hemi-walkers must be billed using code E0130 or E0135, not E1399; 
+
+ (j) A gait trainer is a term used to describe certain devices that are used to support a client during ambulation. Gait trainers are billed using one of the codes for walkers. If a gait trainer has a feature described by one of the walker attachment codes (E0154, E0155, E0157) that code may be separately billed. Other unique features of gait trainers are not separately payable and may not be billed using E1399; 
+
+ (k) Column II code is included in the allowance for the corresponding Column I code when provided at the same time and must not be billed separately at the time of billing the Column I code: See attached Table 122-0375-1 
+
+ (L) Providers shall contact PDAC for guidance on the correct coding of these items. 
+
+ (3) Documentation: An order for each item billed must be signed and dated by the treating practitioner, kept on file by the DMEPOS provider, and made available to the Division upon request. The treating practitioner’s records must contain information that supports the medical appropriateness of the item ordered, including height and weight. 
+
+ (4) Table 122-0375-1. 
+
+ (5) Table 122-0375-2. 
+
+ [ED. NOTE: Tables referenced are available from the agency.] 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042 & 414.065 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.065 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 13-2024, minor correction filed 01/04/2024, effective 01/04/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 101-2023, amend filed 12/29/2023, effective 01/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 15-2009, f. 6-12-09, cert. ef. 7-1-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 47-2006, f. 12-15-06, cert. ef. 1-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 11-2005, f. 3-9-05, cert. ef. 4-1-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 44-2004, f. & cert. ef. 7-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 25-2004, f. & cert. ef. 4-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 21-2003, f. 3-26-03, cert. ef. 4-1-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 47-2002, f. & cert. ef. 10-1-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 32-2001, f. 9-24-01, cert. ef. 10-1-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 4-2001, f. 3-30-01, cert. ef. 4-1-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 37-2000, f. 9-29-00, cert. ef. 10-1-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

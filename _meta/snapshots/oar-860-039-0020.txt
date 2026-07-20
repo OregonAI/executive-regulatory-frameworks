@@ -1,0 +1,190 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Public Utility Commission 
+ Chapter 860 
+ 
+ 
+ 
+ 
+ 
+ Division 39 NET METERING RULES 
+ 860-039-0020 
+ Net Metering Facility Requirements
+ 
+ 
+ (1) To qualify for the Tier 1 and the Tier 2 interconnection review procedures set forth below, a net metering facility must be certified as complying with the following standards, as applicable: 
+
+ (a) IEEE 1547 standards; and 
+
+ (b) UL 1741, Third Edition, Supplement SB (2021). 
+
+ (2) An equipment package will be considered certified for interconnected operation if it has been submitted by a manufacturer to an NRTL and has been tested and listed by the laboratory for continuous interactive operation with an electric distribution system in compliance with the applicable codes and standards listed in section (1) of this rule. 
+
+ (3) If the equipment package has been tested and listed in accordance with this section as an integrated package, which includes a generator or other electric source, the equipment package will be deemed certified, and the public utility will not require further design review, testing or additional equipment. 
+
+ (4) If the equipment package includes only the interface components (switchgear, inverters, or other interface devices), an interconnection applicant must show that the generator or other electric source being utilized with the equipment package is compatible with the equipment package and consistent with the testing and listing specified for the package. If the generator or electric source being utilized with the equipment package is consistent with the testing and listing performed by the NRTL, the equipment package will be deemed certified, and the public utility will not require further design review, testing or additional equipment. 
+
+ (5) A net metering facility must be equipped with metering equipment that can measure the flow of electricity in both directions, comply with ANSI C12.1 standards and OAR 860-023-0015. The public utility will install the required metering equipment at the utility’s expense. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 183, ORS 756 & ORS 757 
+ 
+ 
+ Statutes/Other Implemented:  ORS 756.040 & ORS 757.300 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 3-2024, amend filed 04/09/2024, effective 04/09/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 8-2007, f. & cert. ef. 7-27-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

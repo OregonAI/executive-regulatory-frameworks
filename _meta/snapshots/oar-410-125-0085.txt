@@ -1,0 +1,390 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 125 HOSPITAL SERVICES 
+ 410-125-0085 
+ Outpatient Services
+ 
+ 
+ (1) Outpatient services that may require prior authorization (PA) include (see the individual program in the Authority’s Health Systems Division (Division)) Oregon Administrative Rules: 
+
+ (a) Physical Therapy (chapter 410, division 131); 
+
+ (b) Occupational Therapy (chapter 410, division 131); 
+
+ (c) Speech Therapy (chapter 410, division 129); 
+
+ (d) Audiology (chapter 410, division 129); 
+
+ (e) Hearing Aids (chapter 410, division 129); 
+
+ (f) Dental Procedures (chapter 410, division 123); 
+
+ (g) Drugs (chapter 410, division 121); 
+
+ (h) Apnea monitors, services, and supplies (chapter 410, division 122); 
+
+ (i) Home Parenteral/Enteral Therapy (chapter 410, division 148); 
+
+ (j) Durable Medical Equipment and Medical supplies (chapter 410, division 122); 
+
+ (k) Certain hospital services. 
+
+ (2) The National Drug Code (NDC) must be included on the electronic (837I) and paper (UB 04) claims for physician administered drug codes required by the Deficit Reduction Act of 2005. 
+
+ (3) Outpatient surgical procedures: 
+
+ (a) For Coordinated Care Organization (CCO) members: Contact the CCO. The CCO may have different PA requirements than the Division. Some services are not covered under CCO contracts and require PA from the Division, or the Division’s Dental Services program analyst; 
+
+ (b) For Medicare clients enrolled in a CCO: These services must be authorized by the CCO even if Medicare is the primary payer. Without this authorization, the provider may not be paid beyond any Medicare payments (see also OAR 410-125-0103); 
+
+ (c) For fee-for-service clients on the OHP Plus benefit package: 
+
+ (A) Surgical procedures listed in OAR 410-125-0080 require PA when performed in an outpatient or day surgery setting, unless they are urgent or emergent; 
+
+ (B) Contact the Division for PA (unless indicated otherwise in OAR 410-125-0080). 
+
+ (d) Out-of-State services: Outpatient services provided by hospitals located less than 75 miles from the border of Oregon do not require PA unless specified in the Division’s Hospital Services Program rules. All non-urgent or non-emergent services provided by hospitals located more than 75 miles from the border of Oregon require PA. For clients enrolled in a CCO, contact the CCO for authorization. For clients not enrolled in a health plan, contact the Division’s Provider Clinical Support Unit. 
+
+ (4) Psychiatric Emergency Services (PES): 
+
+ (a) Psychiatric emergency services as defined by OAR 309-023-0110 delivered in a PES facility as described in OAR 309-023-0120 shall be reimbursed for a maximum of 20 hours per admittance; 
+
+ (b) Psychiatric emergency services shall be reimbursed with a bundled, hourly rate using a fee-for-service rate methodology that is based on rates paid for similar services, using similar providers at a similar level-of-care. 
+
+ (5) High-Cost Drug Carve-Out (HCDCO) products:  
+
+ (a) Drugs and biologics included in the HCDCO referenced in OAR 410-141-3855 will be carved out from the inpatient Diagnosis Related Grouper (DRG) and will be reimbursed on an outpatient claim when drugs are administered during an inpatient stay.  
+
+ (b) The Agency will reimburse for HCDCO drugs and biologics billed on an outpatient claim at the actual acquisition cost according to invoice, up to Wholesale Acquisition Cost (WAC).  
+
+ (6) Long-Acting Reversible Contraceptives (LARCs):  
+
+ (a) LARCs will be carved out from the inpatient Diagnosis Related Grouper (DRG) and will be reimbursed on an outpatient claim when they are administered during an inpatient stay.  
+
+ (b) The Agency will reimburse the LARCs billed on an outpatient claim at the Wholesale Acquisition Cost (WAC).  
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.065 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 92-2025, amend filed 12/22/2025, effective 01/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 77-2016, f. 12-29-16, cert. ef. 1-1-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 63-2016(Temp), f. & cert. ef. 11-10-16 thru 5-8-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 23-2014, f. & cert. ef. 4-4-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 75-2013(Temp), f. 12-31-13, cert. ef. 1-1-14 thru 6-30-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 37-2011, f. 12-13-11, cert. ef. 1-1-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 32-2010, f. 12-15-10, cert. ef. 1-1-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 39-2008, f. 12-11-08, cert. ef. 1-1-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 70-2004, f. 9-15-04, cert. ef. 10-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 34-1999, f. & cert. ef. 10-1-99 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HR 4-1995, f. & cert. ef. 3-1-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HR 5-1994, f. & cert. ef. 2-1-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HR 36-1993, f. & cert. ef. 12-1-93 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HR 39-1992, f. 12-31-92, cert. ef. 1-1-93 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HR 42-1991, f. & cert. ef. 10-1-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

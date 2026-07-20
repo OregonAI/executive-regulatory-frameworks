@@ -1,0 +1,562 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Child Welfare Programs - Chapter 413 
+ 
+ 
+ 
+ 
+ Division 10 CLIENT RIGHTS 
+ 413-010-0000 
+ Definitions
+ 
+ 
+ Unless the context indicates otherwise, the following definitions apply to OAR chapter 413, division 10. 
+
+ (1) "Adoption assistance" means assistance provided on behalf of an eligible child or young adult to offset the costs associated with adopting and meeting the ongoing needs of the child or young adult. "Adoption assistance" may be in the form of payments, medical coverage, reimbursement of nonrecurring expenses, or special payments. 
+
+ (2) "Adoption records, papers, and files" means all documents, writings, information, exhibits, and other filings retained in the court's record of an adoption case pursuant to ORS 109.319 and includes but is not limited to the Adoption Summary and Segregated Information Statement described in ORS 109.317 and exhibits attached to the statement, the petition and exhibits attached to the petition pursuant to ORS 109.315 , and any other motion, judgment, document, writing, information, exhibit, or filing retained in the court's record of the adoption case. 
+
+ (3) "Adoptive family" means an individual or individuals who have legalized a parental relationship to the child who joined the family through a judgment of the court. 
+
+ (4) "Adult" means a person 18 years of age or older. 
+
+ (5) "Base rate payment" means a payment to the resource parent or relative resource parent at a rate established by the Department for the costs of providing the child or young adult with the following: 
+
+ (a) Food, including the special or unique nutritional needs of the child or young adult ; 
+
+ (b) Clothing, including purchase and replacement; 
+
+ (c) Housing, including maintenance of household utilities, furnishings, and equipment; 
+
+ (d) Daily supervision, including teaching and directing to ensure safety and well-being at a level appropriate for the chronological age of the child or young adult ; 
+
+ (e) Personal incidentals, including personal care items, entertainment, reading materials, and miscellaneous items; and 
+
+ (f) Transportation, including gas, oil, and vehicle maintenance and repair costs for local travel associated with providing the items listed above, and transportation to and from extracurricular, child care, recreational, and cultural activities. 
+
+ (6) "Case plan" means a written, goal oriented, and time-limited individualized plan for the child and the child's family, developed by the Department and the parents or guardians, to achieve the child's safety, permanency, and well-being. 
+
+ (7) "Central Office CPS Founded Disposition Review" means a process wherein a Central Office CPS Founded Disposition Review Committee reviews a founded disposition, makes recommendations to the Central Office Safety Program Manager or designee, and the Central Office Safety Program Manager or designee makes a decision to uphold, overturn, or change the abuse type of the founded disposition. 
+
+ (8) "Central Office CPS Founded Disposition Review Committee" means a group of two child welfare employees who make a recommendation or recommendations to the Child Protective Services Program Manager or designee regarding the CPS founded disposition. No one may serve on the "Central Office CPS Founded Disposition Review Committee" who participated in or observed the Local Child Welfare Office CPS Founded Disposition Review or had a role in the CPS assessment, including having participated in a staffing, that resulted in the CPS founded disposition under review. Further requirements of the "Central Office CPS Founded Disposition Review Committee" are found in OAR 413-010-0745 and 413-010-0746. The two child welfare staff on the committee must include any two of the following: 
+
+ (a) Either the Program Manager for CPS or a designee; 
+
+ (b) A CPS program coordinator; 
+
+ (c) A CPS consultant; or 
+
+ (d) A Department supervisor. 
+
+ (9) "Certificate of Approval" means a document that the Department issues to approve the operation of a child-specific relative resource parent home, child-specific resource home, pre-adoptive home, or a regular resource home. 
+
+ (10) "Certified family" means an individual or individuals who hold a current Certificate of Approval from the Department to operate a home to provide care, in the home in which they reside, to a child or young adult in the care or custody of the Department. 
+
+ (11) "Child" means a person who: 
+
+ (a) Is under 18 years of age; or 
+
+ (b) Is under 21 years of age and residing in or receiving care or services at a child- caring agency or proctor foster home. 
+
+ (12) "Child-caring agency" has the meaning given to it in ORS 418.205 as amended by Oregon Laws 2017 chapter 244, and means a "child-caring agency" that is not owned, operated, or administered by a governmental agency or unit. 
+
+ (13) "Child protective services" (CPS) means a specialized social service program that the Department provides on behalf of children or, when applicable, young adults who may be unsafe after a report of abuse is received. 
+
+ (14) "Client" means any individual receiving services from the Department, including the parent or legal guardian of a child or young adult , or the custodian of an unemancipated minor client. 
+
+ (15) "Client file" means an electronic or paper file that the Department marks with the names of one or more clients, into which the Department places all of the named clients' records. A "client file" may contain confidential information about other clients and persons who are not clients. 
+
+ (16) "Client information" means confidential information about a client or identified with a client . 
+
+ (17) "Client record" means any record that includes client information and is created, requested, or held by the Department. A "client record" does not include general information, policy statements, statistical reports, or similar compilations of data which are not identified with an individual child , family or other recipient of services. 
+
+ (18) "Confidential information" means information that is unavailable to the public by statute, rule, or court order. 
+
+ (19) "Contract Provider" means any individual or organization that provides services to a Child Welfare client pursuant to a contract or agreement with Child Welfare. 
+
+ (20) "Court Appointed Special Advocate (CASA)" means a volunteer who is appointed by the court, is a party to the juvenile proceeding, and advocates for the child pursuant to ORS 419A.170 . 
+
+ (21) "CPS Disposition" means a determination that completes a CPS assessment. Dispositions are discussed in OAR 413-015-1000 and include founded, unfounded, and unable to determine. 
+
+ (22) "Department" means the Oregon Department of Human Services. 
+
+ (23) "Department adoption records" means all documents, writings, and information required to be retained in the Department's Central Office adoption file including, but not limited to: 
+
+ (a) Adoption records, papers, and files; 
+
+ (b) Records and information created, generated, produced, or submitted for purposes of selecting the adoptive family for the child ; 
+
+ (c) Documents, writings and information obtained, created, or submitted by the Department Child Permanency Program staff for the purposes of finalizing the child’s adoption; 
+
+ (d) Records and information obtained or created by the Department for the purposes of determining eligibility or making payment for adoption assistance ; 
+
+ (e) Any medical, psychiatric, or psychological records of the child received by the Child Permanency Program staff for retention as part of the Child Permanency Program adoption file of the child ; 
+
+ (f) The names, address, or other identifying information of the adoptive family of the child ; and 
+
+ (g) The birth certificate of the child . 
+
+ (24) "Discipline" means a training process a family uses to help a child or young adult develop the self-control and self-direction necessary to assume responsibilities, make daily living decisions, and learn to conform to accepted levels of social behavior. 
+
+ (25) "Disclose" means reveal or provide client information to a person, agency, organization, or other entity outside of the Department of Human Services. Disclosing includes, but is not limited to: 
+
+ (a) Showing or providing a client record or copy of a client record ; and 
+
+ (b) Orally transmitting client information . 
+
+ (26) "Gender expression" means the manner in which a person expresses gender through clothing, appearance, behavior, speech, etc. Gender expression is distinct from sexual orientation and gender identity. 
+
+ (27) “ Gender identity” means an individual’s gender-related identity, appearance, expression or behavior, regardless of whether the identity, appearance, expression or behavior differs from that associated with the gender assigned to the individual at birth. 
+
+ (28) "Guardian" means an individual who has been granted guardianship of a child through a judgment of the court. 
+
+ (29) "Guardianship assistance" means assistance provided by the Department to the guardian on behalf of an eligible child or young adult to offset costs associated with meeting the ongoing needs of the child or young adult . "Guardianship assistance" may be in the form of a payment, medical coverage, or reimbursement of guardianship expenses. 
+
+ (30) "Indian child" means an unmarried person who is under 18 years of age and who is either a member of an Indian Tribe or is eligible for membership in an Indian Tribe and who is the biological child of a member of an Indian Tribe. 
+
+ (31) "Juvenile" means a person younger than the age of 18 years who is identified as a perpetrator. OAR 413-010-0716 provides specific requirements regarding application of these rules to juveniles. 
+
+ (32) "Legal custody" means that a person or agency has legal authority: 
+
+ (a) To have physical custody and control of a child ; 
+
+ (b) To supply the child with food, clothing, shelter and other necessities; 
+
+ (c) To provide the child with care, education and discipline; 
+
+ (d) To authorize ordinary medical, dental, psychiatric, psychological, hygienic or other remedial care or treatment for the child , and in any emergency where the child's safety appears urgently to require it, to authorize surgery or other extraordinary care; and 
+
+ (e) "Legal custody" includes temporary custody of a child under an order of a court. 
+
+ (33) "Legal finding" means a court or administrative finding, judgment, order, stipulation, plea, or verdict that determines who was responsible for the abuse that is the subject of a CPS founded disposition. Successful completion of a diversion program is not a legal finding. 
+
+ (34) "Legal proceeding" means a court or administrative proceeding that may result in a legal finding. 
+
+ (35) "Legally emancipated " means a person under 18 years of age who is married or has been emancipated by the court in accordance with the requirements of ORS 419B.558 . 
+
+ (36) "Level of care payment" means the payment provided to an approved or certified family , a guardian , a pre-adoptive family , or an adoptive family based on the need for enhanced supervision of a child or young adult as determined by applying the CANS algorithm to the results of the CANS screening. 
+
+ (37) "Level of personal care payment" means the payment to a qualified provider for performing the personal care services for an eligible child or young adult based on the child's or young adult's need for personal care services as determined by applying the personal care services algorithm to the results of the personal care services rating scale. 
+
+ (38) "Licensee" means a child-caring agency that holds a license issued by the Department. 
+
+ (39) "Local Child Welfare Office CPS Founded Disposition Review" means a process wherein a Local Child Welfare Office CPS Founded Disposition Review Committee reviews a founded disposition, makes recommendations to a Child Welfare Program Manager or designee, and the Child Welfare Program Manager or designee makes a decision to uphold, overturn, or change the abuse type of the founded disposition. 
+
+ (40) "Local Child Welfare Office CPS Founded Disposition Review Committee" means a group of two child welfare employees who make a recommendation or recommendations to a Child Welfare Program Manager or designee regarding a CPS founded disposition. One of the members must be a manager and one must be staff trained in CPS assessment and dispositions. No one may serve on the "Local Child Welfare Office CPS Founded Disposition Review Committee" in the review of an assessment in which he or she had a role in the CPS assessment, including having participated in a staffing, that resulted in the CPS founded disposition under review. Further requirements of the "Local Child Welfare Office CPS Founded Disposition Review Committee" are found in OAR 413-010-0735 and 413-010-0738. 
+
+ (41)  "Parent” means the genetic or adoptive mother and the legal parent of the child. A legal parent is a person who has adopted the child or whose parentage has been established or declared under ORS 109.065. In cases involving an Indian child, "parent" means a biological parent of an Indian child, an Indian who has lawfully adopted an Indian child, including adoptions made under tribal law or custom, or a father whose parentage has been acknowledged or established under ORS 109.065(1) to (6) or (9) or 419B.609. Parent also includes an alleged genetic parent who has demonstrated a direct and significant commitment to the child by assuming or attempting to assume responsibilities normally associated with parenthood, unless a court finds that the alleged genetic parent is not the legal or genetic parent of the child. 
+
+ (42) "Participating Tribe" means a federally recognized Indian Tribe in Oregon with a Title IV-E agreement with the Department. 
+
+ (43) "Party" means a person entitled to a contested case hearing under these rules. 
+
+ (44) "Perpetrator" means the person the Department has reasonable cause to believe is responsible for child abuse in a CPS founded disposition. 
+
+ (45) "Person Requesting Review" or "Requestor" means a perpetrator, their attorney, or, if a juvenile is identified as the perpetrator, the person who may request a review on their behalf, who requests a review of the founded disposition. 
+
+ (46) "Potential guardian" means an individual who: 
+
+ (a) Has been approved by the Department or participating Tribe to be a child's guardian ; and 
+
+ (b) Is in the process of legalizing the relationship to the child through the judgment of the court. 
+
+ (47) "Pre-adoptive family" means an individual or individuals who: 
+
+ (a) Has been selected to be a child's adoptive family; and 
+
+ (b) Is in the process of legalizing the relationship to the child through the judgment of the court. 
+
+ (48) "Record" means a record, file, paper, or communication and includes, but is not limited to, any writing or recording of information including automated records and printouts, handwriting, typewriting, printing, photostating, photographing, magnetic tapes, videotapes, or other documents. "Record" includes records that are in electronic form. 
+
+ (49) “Record of sexual orientation, gender identity or gender expression” means a written or recorded statement made by a child, memoranda of an oral statement made by a child or any other documentation in a child’s child welfare records of the child’s statement, if the statement concerns the child’s sexual orientation, gender expression or gender identity . 
+
+ (50) "Registered domestic partner" means an individual joined in a domestic partnership that has been registered by a county clerk in accordance with ORS 106.300 to 106.340. 
+
+ (51) "Relative" means any of the following: 
+
+ (a) An individual with one of the following relationships to the child or young adult through the parent of the child or young adult unless the relationship has been dissolved by adoption of the child, young adult or parent: 
+
+ (A) Any genetic relative of preceding generations denoted by the prefixes of grand, great or great-great. 
+
+ (B) An aunt, uncle, nephew, niece, first cousin and first cousin once removed. 
+
+ (C) A spouse of anyone listed in paragraphs (A) to (B) of this subsection, even if a petition for annulment, dissolution or separation has been filed or the marriage is terminated by divorce or death. To be considered a "relative" under this paragraph, the child or young adult must have had a relationship with the spouse prior to the most recent episode of Department custody. 
+
+ (b) An individual with one of the following relationships to the child or young adult: 
+
+ (A) A sibling, also to include an individual with a sibling relationship to the child or young adult through an alleged genetic parent. 
+
+ (B) An individual defined as a relative by the law or custom of the tribe of the child or young adult, if the child or young adult is an Indian child under the Indian Child Welfare Act or in the legal custody of a tribe. 
+
+ (C) An individual defined as a relative of a refugee child or young adult under OAR 413-070-0300 to 413-070-0380. 
+
+ (D) A stepparent or former stepparent if the child or young adult had a relationship with the former stepparent prior to the most recent episode of Department custody; a stepsibling. 
+
+ (E) A registered domestic partner of the parent of the child or young adult or a former registered domestic partner of the parent of the child or young adult, if the child or young adult had a relationship with the former domestic partner prior to the most recent episode of Department custody. 
+
+ (F) The adoptive parent or an individual who has been designated as the adoptive resource of a sibling of the child or young adult. 
+
+ (G) An unrelated parent of a half-sibling of the child or young adult when the half-sibling of the child or young adult is living with the unrelated parent. 
+
+ (c) An individual identified by the child or young adult or the family of the child or young adult, or an individual who self-identifies as being related to the child or young adult through the parent of the child or young adult genetically, or by adoption or marriage to a degree other than an individual specified as a "relative" in paragraphs (A) to (C) of subsection (a) of this section, unless the relationship has been dissolved by adoption of the child, young adult or parent. 
+
+ (d) An individual meeting the requirements of at least one of the following: 
+
+ (A) An individual not related to the child, young adult or parent genetically or by adoption or marriage: 
+
+ (i) Who is identified as a member of the family by the child or young adult or by the family of the child or young adult; and 
+
+ (ii) Who had an emotionally significant relationship with the child or young adult or the family of the child or young adult prior to the most recent episode of Department custody. 
+
+ (B) An individual who has a genetic relationship to the child or young adult as described in paragraphs (A) to (C) of subsection (a) of this section through the genetic parent of the child or young adult, but the prior legal relationship has been dissolved by adoption of the child, young adult or genetic parent, and who is identified as a member of the family by the child or young adult or who self-identifies as a member of the family. 
+
+ (e) For eligibility for the guardianship assistance program: 
+
+ (A) A stepparent is considered a parent and is not a "relative" for the purpose of eligibility for guardianship assistance unless a petition for annulment, dissolution or separation has been filed, or the marriage to the parent of the child has been terminated by divorce or death. 
+
+ (B) A resource parent may only be considered a "relative" for the purpose of eligibility for guardianship assistance when: 
+
+ (i) There is a compelling reason why adoption is not an achievable permanency plan; 
+
+ (ii) The resource parent is currently caring for a child, in the care or custody of the Department or a participating tribe, who has a permanency plan or concurrent permanent plan of guardianship; 
+
+ (iii) The resource parent has cared for the child for at least 12 of the past 24 months; and 
+
+ (iv) The Department or Tribe has approved the resource parent for consideration as a guardian. 
+
+ (52) " Relative resource parent" means an individual who operates a home that has been approved by the Department to provide care for a related child or young adult placed in the home by the Department. 
+
+ (53) "Request for a Central Office CPS Founded Disposition Review" means a written request for a Central Office CPS Founded Disposition Review from a requestor who has received a Local Child Welfare Office CPS Founded Disposition Review Decision (Form CF 314) to retain a founded disposition. The specific requirements for a request for review by Central Office are described in OAR 413-010-0740. 
+
+ (54) "Safety service provider" means a participant in a protective action plan, initial safety plan, or ongoing safety plan whose actions, assistance, or supervision help a family in managing a child's safety. 
+
+ (55) "Service" means assistance that the Department provides clients. 
+
+ (56) “Sexual orientation” means an individual’s actual or perceived heterosexuality, homosexuality or bisexuality. 
+
+ (57)  "Sibling" means one of two or more children or young adults who are related, or would be related but for a termination or other disruption of parental rights, in one of the following ways: 
+
+ (a) Genetically or by adoption through a common parent; 
+
+ (b) Through the marriage of the legal or genetic parents of the children or young adults; or 
+
+ (c) Through a legal or genetic parent who is the registered domestic partner of the legal or genetic parent of the children or young adults. 
+
+ (58) "Substitute care" means the out-of-home placement of a child or young adult who is in the legal or physical custody and care of the Department. 
+
+ (59) "Substitute caregiver" means a relative resource parent, resource parent, or provider authorized to provide care to a child or young adult in the legal or physical custody of the Department. 
+
+ (60) "Visit" means planned, in-person contact between the child or young adult and one or more family members. 
+
+ (61) "Voluntary services" means services that the Department provides at the request of a person or persons and there is no open and related juvenile court proceeding. 
+
+ (62) "Young adult" means a person 18 through 20 years of age. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 418.005 & ORS 409.050 
+ 
+ 
+ Statutes/Other Implemented:  ORS 409.010, ORS 409.225, ORS 419A.255, ORS 418.200, ORS 418.606-418.609 & ORS 174.100 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 4-2026, amend filed 01/28/2026, effective 01/28/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 96-2023, amend filed 12/22/2023, effective 01/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 1-2021, amend filed 01/04/2021, effective 01/04/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 34-2019, minor correction filed 08/06/2019, effective 08/06/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 22-2017, amend filed 12/29/2017, effective 01/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 22-2016, f. & cert. ef. 12-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 2-2016, f. & cert. ef. 2-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 22-2015, f. & cert. ef. 10-6-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 13-2015, f. & cert. ef. 8-4-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 12-2013, f. 12-31-13, cert. ef. 1-1-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ CWP 18-2011, f. & cert. ef. 9-2-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SOSCF 9-1999, f. 5-24-99, cert. ef. 6-1-99 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SCF 6-1995, f. 12-22-95, cert. ef. 12-29-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

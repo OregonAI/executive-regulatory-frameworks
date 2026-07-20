@@ -1,0 +1,282 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 256 MOTOR VEHICLES 
+ 340-256-0340 
+ Emission Control System Inspection: Light Duty Motor Vehicle and Heavy Duty Gasoline Motor Vehicle Emission Control Test Method for Basic Program 
+ 
+ This rule documents the general requirements and test sequence for the basic light duty motor vehicle and heavy duty gasoline motor vehicle emission test method. 
+
+ (1) General Requirements: 
+
+ (a) The vehicle must have a properly affixed and readable VIN. 
+
+ (b) DEQ must reject from the testing area vehicles having coolant, oil or fuel leaks or any other such defect that make conducting the emission test unsafe. The inspector may not conduct the emissions test until the defects are corrected. 
+
+ (c) The vehicle transmission must be placed in neutral gear if equipped with a manual transmission or in park position if equipped with an automatic transmission. The hand or parking brake must be engaged. If the brake is defective, then wheel chocks must be placed in front of or behind the vehicle's tires, or both when appropriate. 
+
+ (d) All accessories are to be turned off. 
+
+ (e) The inspector must ensure that the motor vehicle is equipped with the required functioning motor vehicle pollution control system in accordance with the criteria of OAR 340-256-0380 or 340-256-0390. For vehicles not meeting these criteria upon completion of the testing process, the inspector must issue a report to the driver stating all ways in which the motor vehicle pollution control system does not meet the criteria of OAR 340-0256-0380 and 0390. 
+
+ (f) Exhaust gas sampling algorithm. The analysis of exhaust gas concentrations will begin 10 seconds after the applicable test mode begins and will be analyzed at a rate of two times per second. The measured value for pass or fail determinations will be a simple running average of the measurements taken over five seconds. 
+
+ (g) Pass or fail determinations. A pass or fail determination will be made for each applicable test mode based on a comparison of the applicable standards listed in OAR 340-256-0400 and 340-256-0420 and the measured value for HC and CO. A vehicle will pass the test mode if any pair of simultaneous values for HC and CO are below or equal to the applicable standards. A vehicle will fail the test mode if the values for either HC or CO, or both, in all simultaneous pairs of values are above the applicable standards. 
+
+ (h) Void test conditions. If the measured concentration of CO plus CO2 falls below the applicable standards listed in OAR 340-256-0380 and 340-256-0390, or if the vehicle's engine stalls at any time during the test sequence, the test will end, and any exhaust gas measurements will be voided. 
+
+ (i) Multiple exhaust pipes. Exhaust gas concentrations from vehicle engines equipped with multiple exhaust pipes will be sampled simultaneously. 
+
+ (j) The test will be terminated upon reaching the overall maximum test time. 
+
+ (2) Test sequence. The test sequence will consist of a first-chance idle mode, a high idle conditioning mode, and a second chance idle mode. 
+
+ (a) First-chance idle mode: the engine RPM shall be maintained between 550 and 1300 during the first chance idle mode. The maximum duration of this test shall be 30 seconds. 
+
+ (A) If, before an elapsed time of 30 seconds, the measured values are less than or equal to the applicable standards listed in OAR 340-256-0400 and 340-256-0420, the vehicle will pass, and the test will be terminated. 
+
+ (B) If, before an elapsed time of 30 seconds, the measured values exceed the applicable gross emission standards listed in OAR 340-256-0400 and 340-256-0420, the vehicle will fail, and the test will be terminated. 
+
+ (b) High idle conditioning mode: If, before an elapsed time of 30 seconds, the test has not been terminated in accordance with (2)(a)(A) or (2)(a)(B) then the engine RPM shall be raised and maintained between 2200 and 2800. The maximum duration of the high idle conditioning mode test shall be 180 seconds. If, before an elapsed time of 180 seconds, the measured values exceed the applicable gross emission standards listed in OAR 340-256-0400 and 340-256-0420 the vehicle will fail and the test will be terminated. 
+
+ (c) Second-chance idle mode: If the test has not been terminated in accordance with (2)(a) or (2)(b) then the engine RPM shall be lowered and maintained between 550 and 1300 during the second chance idle mode. The maximum duration of the second-chance idle mode test shall be 30 seconds. 
+
+ (A) If, before an elapsed time of 30 seconds, measured values are less than or equal to the applicable standards listed in OAR 340-256-0400 and 340-256-0420, the vehicle will pass, and the test will be terminated. 
+
+ (B) If, before an elapsed time of 30 seconds, the measured values exceed the applicable gross emission standards listed in OAR 340-256-0400 and 340-256-0420, the vehicle will fail, and the test will be terminated. 
+
+ (C) If, after an elapsed time of 30 seconds, measured values exceed the applicable standards listed in OAR 340-256-0400 and 340-256-0420, the vehicle will fail, and the test will be terminated. 
+
+ [NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468A.360 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468A.350 - 468A.385 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 21-2020, amend filed 11/19/2020, effective 11/19/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 163-2018, minor correction filed 04/12/2018, effective 04/12/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 7-2005, f. & cert. ef. 7-12-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-024-0309 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 25-1996, f. & cert. ef. 11-26-96 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 15-1994, f. 6-8-94, cert. ef. 7-1-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 16-1993, f. & cert. ef. 11-4-93 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

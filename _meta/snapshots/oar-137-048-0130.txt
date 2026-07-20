@@ -1,0 +1,384 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Justice 
+ Chapter 137 
+ 
+ 
+ 
+ 
+ 
+ Division 48 MODEL RULES CONSULTANT SELECTION: ARCHITECTURAL, ENGINEERING AND LAND SURVEYING SERVICES AND RELATED SERVICES CONTRACTS 
+ 137-048-0130 
+ Applicable Selection Procedures; Pricing Information; Disclosure of Proposals; Conflicts of Interest
+ 
+ 
+ (1) When selecting the most qualified Consultant to perform Architectural, Engineering, Photogrammetric Mapping, Transportation Planning or Land Surveying Services, Contracting Agencies shall follow the applicable selection procedure under either OAR 137-048-0200 (Direct Appointment Procedure), 137-048-0210 (Informal Selection Procedure) or 137-048-0220 (Formal Selection Procedure). State Contracting Agencies selecting a Consultant under this section (1) may solicit or use pricing policies and pricing Proposals, or other pricing information, including the number of hours proposed for the services required, expenses, hourly rates and overhead, to determine a Consultant’s compensation only after the State Contracting Agency has selected the most qualified Consultant in accordance with the applicable selection procedure; provided, however, this restriction on a State Contracting Agency’s solicitation or use of pricing policies, pricing Proposals or other pricing information does not apply to selection procedures used by the State Contracting Agency to select a Consultant when the Architectural, Engineering, Photogrammetric Mapping, Transportation Planning or Land Surveying Services for the Project do not exceed $100,000 or in an Emergency, pursuant to ORS 279C.0110(10) and (11). In following the Direct Appointment Procedure under OAR 137-048-0200, a State Contracting Agency or Local Contracting Agency may base its selection of a Consultant on any information available to the Agency prior to beginning the Direct Appointment Procedure for the Project involved. Local Contracting Agencies may solicit or use pricing policies and pricing Proposals, or other pricing information, including the number of hours proposed for the services required, expenses, hourly rates and overhead, in any of the Local Contracting Agencies’ selection procedures to select Consultants to perform Architectural, Engineering, Photogrammetric Mapping, Transportation Planning or Land Surveying Services, pursuant to the requirements of ORS 279C.110(5). 
+
+ (2) Contracting Agencies selecting a Consultant to perform Related Services shall follow one of the following selection procedures: 
+
+ (a) When selecting a Consultant on the basis of qualifications alone, Contracting Agencies shall follow the applicable selection procedure under OAR 137-048-0200 (Direct Appointment Procedure), 137-048-0210 (Informal Selection Procedure), or 137-048-0220 (Formal Selection Procedure); 
+
+ (b) When selecting a Consultant on the basis of price competition alone, Contracting Agencies shall follow the applicable provisions under OAR 137-048-0200 (Direct Appointment Procedure), the applicable provisions of 137-048-0210 (Informal Selection Procedure) pertaining to obtaining and evaluating price Proposals and other pricing information, or the applicable provisions of 137-048-0220 (Formal Selection Procedure) pertaining to obtaining and evaluating price Proposals and other pricing information; and 
+
+ (c) When selecting a Consultant on the basis of price and qualifications, Contracting Agencies shall follow the applicable provisions under OAR 137-048-0200 (Direct Appointment Procedure), the applicable provisions of 137-048-0210 (Informal Selection Procedure) pertaining to obtaining and evaluating price and qualifications Proposals, or the applicable provisions of 137-048-0220 (Formal Selection Procedure) pertaining to obtaining and evaluating price and qualifications Proposals. For selections under the informal selection procedure of OAR 137-048-0210, Contracting Agencies may use abbreviated requests for Proposals that nevertheless meet the requirements of OAR 137-048-0210, when the Contracting Agency determines, in its sole discretion, that the characteristics of the Project and the Related Services required by the Contracting Agency would be adequately addressed by a more abbreviated request for Proposals document, generally comparable to the intermediate Procurement procedures and related documentation under ORS 279B.070 and OAR 137-047-0270. Contracting Agencies subject to this section (2) may request and consider a Proposer’s pricing policies and pricing Proposals or other pricing information, including the number of hours proposed for the services required, expenses, hourly rates and overhead, submitted with a Proposal. 
+
+ (3) A Contracting Agency is not required to follow the procedures in Section (1) or Section (2) of this rule, when the Contracting Agency has established Price Agreements with more than one Consultant and is selecting a single Consultant to perform Architectural, Engineering, Photogrammetric Mapping, Transportation Planning or Land Surveying Services or Related Services under an individual work order or task order. Provided, however, the criteria and procedures the Contracting Agency uses to select a single Consultant, when the Contracting Agency has established Price Agreements with more than one Consultant, must meet the requirements of OAR 137-048-0270 (Price Agreements). 
+
+ (4) Contracting Agencies may use electronic methods to screen and select a Consultant in accordance with the procedures described in sections (1) and (2) of this rule. If a Contracting Agency uses electronic methods to screen and select a Consultant, the Contracting Agency shall first promulgate rules for conducting the screening and selection procedure by electronic means, substantially in conformance with OAR 137-047-0330 (Electronic Procurement). 
+
+ (5) For purposes of these division 48 rules, a “mixed” Contract is one requiring the Consultant to perform Architectural, Engineering, Photogrammetric Mapping, Transportation Planning or Land Surveying Services, and also provide Related Services, other Services or other related Goods under the Contract. A Contracting Agency’s classification of a procurement that will involve a “mixed” Contract will be determined by the predominant purpose of the Contract. A Contracting Agency will determine the predominant purpose of the Contract by determining which of the Services involves the majority of the total Estimated Fee to be paid under the Contract. If the majority of the total Estimated Fee to be paid under the Contract is for Architectural, Engineering, Photogrammetric Mapping, Transportation Planning or Land Surveying Services, the Contracting Agency shall comply with the requirements of ORS 279C.110 and section (1) of this rule. If majority of the total Estimated Fee to be paid under the Contract is for Related Services, the Contracting Agency shall comply with the requirements of ORS 279C.120 and section (2) of this rule. If the majority of the total Estimated Fee to be paid under the Contract is for some other Services or Goods under the Public Contracting Code, the Contracting Agency shall comply with the applicable provisions of the Public Contracting Code and divisions 46, 47 and 49 of the Model Rules that match the predominant purpose of the Contract. 
+
+ (6) In applying these rules, State Contracting Agencies shall support the State of Oregon’s goal of promoting a sustainable economy in the rural areas of the state. 
+
+ (7) Consistent with the requirements of ORS 279C.107 and the remaining requirements of ORS 279C.100, 279C.105 and 279C.110 through 279C.125, the following provisions apply to Proposals received by a Contracting Agency for Architectural, Engineering, Photogrammetric Mapping, Transportation Planning or Land Surveying Services or Related Services: 
+
+ (a) The term “competitive proposal,” for purposes of ORS 279C.107, includes Proposals under OAR 137-048-0200 (Direct Appointment Procedure), 137-048-0210 (Informal Selection Procedure), 137-048-0220 (Formal Selection Procedure) or 137-048-0130(2)(c) (selection based on price and qualifications) and any Proposals submitted in response to a selection process for a work order or task order under 137-048-0270 (Price Agreements). 
+
+ (b) For purposes of Proposals received by a Contracting Agency under OAR 137-048-0200 (Direct Appointment Procedure), a formal notice of intent to award is not required. As a result, while a Contracting Agency may make Proposals under 137-048-0200 (Direct Appointment Procedure) open for public inspection following the Contracting Agency’s decision to begin Contract negotiations with the selected Consultant, 137-048-0200 Proposals are not required to be open for public inspection until after the Contracting Agency has executed a Contract with the selected Consultant. 
+
+ (c) In the limited circumstances permitted by ORS 279C.110, 279C.115 and 279C.120, where the Contracting Agency is conducting discussions or negotiations with Proposers who submit Proposals that the Contracting Agency has determined to be closely competitive or to have a reasonable chance of being selected for award, the Contracting Agency may open Proposals so as to avoid disclosure of Proposal contents to competing Proposers, consistent with the requirements of ORS 279C.107. Otherwise, Contracting Agencies may open Proposals in such a way as to avoid disclosure of the contents until after the Contracting Agency executes a Contract with the selected Consultant. If the Contracting Agency determines that it is in the best interest of the Contracting Agency to do so, the Contracting Agencies may make Proposals available for public inspection following the Contracting Agency’s issuance of a notice of intent to award a Contract to a Consultant; and 
+
+ (d) Disclosure of Proposals and Proposal information is otherwise governed by ORS 279C.107. 
+
+ (8) As required by ORS 279C.307(1), pertaining to requirements to ensure the objectivity and independence of providers of certain Personal Services which are procured under ORS chapter 279C, Contracting Agencies may not: 
+
+ (a) Procure the Personal Services identified in ORS 279C.307 from a Contractor or Consultant or an affiliate of a Contractor or Consultant who is a party to the Public Contract that is subject to administration, management, monitoring, inspection, evaluation or oversight by means of the Personal Services; or 
+
+ (b) Procure the Personal Services identified in ORS 279C.307 through the Public Contract that is subject to administration, management, monitoring, inspection, evaluation or oversight by means of the Personal Services. 
+
+ (9) The requirements of ORS 279C.307(1) and section (8) of this rule apply in the following circumstances, except as provided in sections (10) and (11) of this rule: 
+
+ (a) A Contracting Agency requires the Procurement of Personal Services for the purpose of administering, managing, monitoring, inspecting, evaluating compliance with or otherwise overseeing a Public Contract or performance under a Public Contract that is subject to ORS chapter 279C. A Public Contract that is “subject to ORS chapter 279C” includes a Public Contract for Architectural, Engineering, Photogrammetric Mapping, Transportation Planning or Land Surveying Services, a Public Contract for Related Services or a Public Contract for construction services under ORS chapter 279C. 
+
+ (b) The Procurements of Personal Services subject to the requirements of ORS 279C.307 include, but are not limited to, the following: 
+
+ (A) Procurements for Architectural, Engineering, Photogrammetric Mapping, Transportation Planning or Land Surveying Services, which involve overseeing or monitoring the performance of a construction Contractor under a Public Contract for construction services subject to ORS chapter 279C; 
+
+ (B) Procurements for commissioning services, which involve monitoring, inspecting, evaluating or otherwise overseeing the performance of a Contractor or Consultant providing Architectural, Engineering, Photogrammetric Mapping, Transportation Planning or Land Surveying Services or the performance of a construction Contractor under a Public Contract for construction services subject to ORS chapter 279C; 
+
+ (C) Procurements for project management services, which involve administration, management, monitoring, inspecting, evaluating compliance with or otherwise overseeing the performance of a Contractor or Consultant providing Architectural, Engineering, Photogrammetric Mapping, Transportation Planning or Land Surveying Services, construction services subject to ORS chapter 279C, commissioning services or other Related Services for a Project; 
+
+ (D) Procurements for special inspections and testing services, which involve inspecting, testing or otherwise overseeing the performance of a construction Contractor under a Public Contract for construction services subject to ORS chapter 279C; and 
+
+ (E) Procurements for other Related Services or Personal Services, which involve administering, managing, monitoring, inspecting, evaluating compliance with or otherwise overseeing the Public Contracts described in Section (9)(a) of this rule. 
+
+ (10) The requirements of ORS 279C.307(1) and section (8) of this rule do not apply in the following circumstances, except as further specified below: 
+
+ (a) To a Contracting Agency’s Procurement of both design services and construction services through a single “Design-Build” Procurement, as that term is defined in OAR 137-049-0610. Such a Design-Build Procurement includes a Procurement under an Energy Performance Contract, as defined in ORS 279A.010. Provided, however, the requirements of ORS 279C.307 do apply to a Contracting Agency’s Procurement of Personal Services for the purpose of administering, managing, monitoring, inspecting, evaluating compliance with or otherwise overseeing a Design-Build Contract or performance under such a Contract resulting from a Design-Build Procurement; and 
+
+ (b) To a Contracting Agency’s Procurement of both pre-construction services and construction services through a single Procurement of Construction Manager/General Contractor Services, as that term is defined in ORS 279C.332(3). Provided, however, the requirements of ORS 279C.307 do apply to a Contracting Agency’s Procurement of Personal Services for the purpose of administering, managing, monitoring, inspecting, evaluating compliance with or otherwise overseeing a Construction Manager/General Contractor Services Contract or performance under such a Contract resulting from a Procurement of Construction Manager/General Contractor Services. 
+
+ (11) As permitted by ORS 279C.307(3), a Contracting Agency may apply for an exception to the requirements of ORS 279C.307(1) in the situation when the Contracting Agency anticipates that it must procure Personal Services for the purpose of administering, managing, monitoring, inspecting, evaluating compliance with or otherwise overseeing a Public Contract or performance under a Public Contract that is subject to ORS chapter 279C, and the Contracting Agency desires to accept a Bid or other Proposal from a Contractor or Consultant that would otherwise be prohibited from bidding or proposing to provide the required Personal Services. In order for the Contracting Agency to obtain such an exception to the requirements of ORS 279C.307(1), the Contracting Agency must apply for and obtain an approved exception from the Appropriate Authority for the Contracting Agency before awarding a contract to the Contractor or Consultant under a Procurement for the required Personal Services, or before entering into an amendment of an existing Public Contract with the Contractor or Consultant to obtain the Personal Services. 
+
+ (a) Application Requirements. The Contracting Agency’s application to the Appropriate Authority for an exception under ORS 279C.307(3) must include the following Findings and Justifications: 
+
+ (A) The Contracting Agency requires the Personal Services described in ORS 279C.307(1); 
+
+ (B) Accepting a Bid or Proposal from a Contractor or Consultant that would be subject to the prohibition described in ORS 279C.307(1) is in the best interest of the Contracting Agency; 
+
+ (C) Approving the exception is unlikely to encourage favoritism in awarding Public Contracts or to substantially diminish competition for Public Contracts; and 
+
+ (D) Approving the exception: 
+
+ (i) Is reasonably expected to result in substantial cost savings to the Contracting Agency or the public; or 
+
+ (ii) Otherwise will substantially promote the public interest in a manner that could not be practicably realized by complying with the prohibition described in ORS 279C.307(1). 
+
+ (b) Consultation with Legal Counsel. A Contracting Agency shall consult with the Contracting Agency’s legal counsel during the exception process provided for in ORS 279C.307(3) as follows: 
+
+ (A) During the process of preparing an application for the exception to ensure compliance with the requirements of ORS 279C.307 and with the other applicable provisions of ORS Chapter 279C; 
+
+ (B) Pursuant to the requirements of an ORS 279C.307(3) exception approved by the Contracting Agency’s Appropriate Authority; and 
+
+ (C) The Contracting Agency’s consultation with its legal counsel should include discussion and evaluation of mitigation measures that the Contracting Agency can include in the Procurement and in any resulting Public Contract for the Personal Services, in order to reduce any competitive advantage that the Contractor or Consultant may have or may be perceived to have, and to increase the objectivity and independence of the Contractor or Consultant during its performance of the Personal Services. 
+
+ (c) Definitions. The following definitions apply to section (11) of this rule: 
+
+ (A) “Appropriate Authority” means, for a State Contracting Agency, the Director of the Oregon Department of Administrative Services; for the Oregon Department of Transportation pursuant to ORS 279A.050(3)(b), the Director of Transportation; and, for a Local Contracting Agency, the Local Contracting Agency’s local contract review board; and 
+
+ (B) “Findings and Justifications” means the determinations, findings and justifications for a conclusion that a Contracting Agency, in seeking an exception from the objectivity and independence requirements of ORS 279C.307(1), reaches based on the considerations set forth in ORS 279C.307(3)(d) and based on sufficient supporting facts. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 279A.065 & OL 2011 ch. 458 
+ 
+ 
+ Statutes/Other Implemented:  ORS 279A.065, OL 2011 ch. 458, ORS 279C.100-279C.125 & OL 2009 ch. 880 sec. 11 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 1-2026, amend filed 01/21/2026, effective 01/21/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 26-2023, amend filed 12/27/2023, effective 01/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 15-2019, amend filed 12/23/2019, effective 01/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 2-2015, f. & cert. ef. 2-3-15 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ Reverted to DOJ 8-2012, f. 7-2-12, cert. ef. 8-1-12 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 10-2014(Temp), f. & cert. ef. 7-1-14 thru 12-26-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 8-2012, f. 7-2-12, cert. ef. 8-1-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 10-2011, f. 11-29-11, cert. ef. 1-1-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 15-2009, f. 12-1-09, cert. ef. 1-1-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 19-2007, f. 12-28-07, cert. ef. 1-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 20-2005, f. 12-27-05, cert. ef. 1-1-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 11-2004, f. 9-1-04, cert. ef. 3-1-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

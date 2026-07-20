@@ -1,0 +1,220 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Public Utility Commission 
+ Chapter 860 
+ 
+ 
+ 
+ 
+ 
+ Division 82 SMALL GENERATOR INTERCONNECTION RULES 
+ 860-082-0030 
+ Construction, Operation, Maintenance, and Testing of Small Generator Facilities
+ 
+ 
+ (1) IEEE 1547. An interconnection customer or applicant must construct, operate, and maintain a small generator facility and its associated interconnection equipment in compliance with IEEE 1547 and 1547.1. New interconnection applicants will be required to use IEEE 1547-2018 compliant equipment by no earlier than June 1, 2024. For purposes of OAR 860-082-0030, capitalized terms not otherwise defined in Division 082 have the meaning set forth in IEEE 1547. 
+
+ (a) Small generator facilities compliant with IEEE 1547 must conform with the following minimum requirements: 
+
+ (A) Abnormal performance requirements: Category III Ride-Through capabilities must be supported for inverter-based small generator facilities. Rotating small generator facilities must meet Category I Ride-Through capabilities, at minimum. 
+
+ (B) Normal performance requirements: Inverter-based small generator facilities must meet reactive power requirements of IEEE 1547 Category B. Rotating small generator facilities must meet Category A, and may meet Category B. 
+
+ (C) Inverter-based interconnection equipment will be tested to and certified as being compliant with UL 1741 Third Edition, Supplement SB, by a NRTL. Equipment that is not certified by a NRTL may require additional evaluation and commissioning testing to confirm compliance with IEEE 1547. 
+
+ (b) Interconnection requirements handbook. Each public utility must post an interconnection requirements handbook on its public website. Prior to revising its handbook, a utility must provide public notice on its website and use best efforts to notify organizations representing interconnection customers as specified and periodically updated in the handbook. The utility must provide a minimum of 30 days for interested persons to comment, and the utility must respond within 30 days to any comments received and make its responses public. 
+
+ (c) Preferred default settings. A public utility must allow small generator facilities to interconnect using the public utility's preferred default settings, except when the application reviewed under Tier 4, OAR 860-082-0060, or the application fails the Tier 1, Tier 2, or Tier 3 approval criteria in OAR 860-082-0045(2), OAR 860-082-0050(2), or OAR 860-082-0055(2). Interconnection requirements handbooks must include preferred default settings. As applicable, the following must be identified in the interconnection requirements handbook: 
+
+ (A) Voltage and frequency trip settings; 
+
+ (B) Frequency droop settings;  
+
+ (C) Activated reactive power control function and default settings; 
+
+ (D) Voltage active power (volt-watt) mode activation and default setting; and 
+
+ (E) Communication protocols and ports requirements. 
+
+ (2) The applicant must provide written notice to the interconnecting public utility 10 business days before beginning operation of an approved small generator facility. 
+
+ (3) Before beginning operation of a small generator facility, an interconnection customer or applicant must receive approval of the facility under the small generator interconnection rules and must execute an interconnection agreement with the interconnecting public utility. Applicants or interconnection customers are entitled to a 20-year term for an interconnection agreement, or if the interconnection customer and the public utility have entered a separate Power Purchase Agreement for a specified period of time, to a term that coincides with the length of such Power Purchase Agreement. 
+
+ (4) A small generator facility must be capable of being isolated from the interconnecting public utility’s transmission or distribution system. An interconnection customer may not disable an isolation device without the prior written consent of the interconnected public utility. 
+
+ (a) For a small generator facility interconnecting to a primary line, the interconnection customer or applicant must use a lockable, visible-break isolation device readily accessible to the public utility. 
+
+ (b) For a small generator facility interconnecting to a secondary line, the interconnection customer or applicant must use a lockable isolation device that is readily accessible by the public utility. The status of the isolation device must be clearly indicated. An exception from the requirement to use a lockable isolation device is allowed for a small generator facility that has a maximum total output of 30 amperes or less; is connected to a secondary line; uses lab-tested, inverter-based interconnection equipment; and is interconnected to the distribution system through a metered service owned by the interconnected public utility. In this limited case, the meter base may serve as the required isolation device if it is readily accessible to the public utility. 
+
+ (A) A draw-out type circuit breaker with the provision for padlocking at the draw-out position can be considered an isolation device. 
+
+ (B) The interconnection customer or applicant may elect to provide the public utility access to an isolation device that is contained in a building or area that may be unoccupied and locked or not otherwise readily accessible to the public utility. The interconnection customer or applicant must provide a lockbox capable of accepting a lock provided by the public utility that provides ready access to the isolation device. The interconnection customer or applicant must install the lockbox in a location that is readily accessible by the public utility and must affix a placard in a location acceptable to the public utility that provides clear instructions to utility personnel on how to access the isolation device. 
+
+ (c) Other than the exception in (4)(b), all isolation devices must be installed, owned, and maintained by the interconnection customer or applicant; must be capable of interrupting the full load of the small generator facility; and must be located between the small generator facility and the point of interconnection. 
+
+ (5) An interconnecting public utility must have access to an interconnection customer’s or an applicant’s premises for any reasonable purpose related to an interconnection application or an interconnected small generator facility. The public utility must request access at reasonable hours and upon reasonable notice. In the event of an emergency or hazardous condition, the public utility may access the interconnection customer’s or applicant’s premises at any time without prior notice, but the public utility must provide written notice within five business days after entering the interconnection customer’s or applicant’s premises that describes the date of entry, the purpose of entry, and any actions performed on the premises. 
+
+ (6) When a small generator facility undergoes maintenance or testing in compliance with the small generator interconnection rules, IEEE 1547, or IEEE 1547.1, the interconnection customer must retain written records for at least seven years documenting the maintenance and the results of testing. The interconnection customer must provide copies of these records to the interconnected public utility upon request. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 183, ORS 756 & ORS 757 
+ 
+ 
+ Statutes/Other Implemented:  ORS 756.040 & ORS 756.060 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 4-2024, amend filed 04/09/2024, effective 04/09/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 10-2009, f. & cert. ef. 8-26-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

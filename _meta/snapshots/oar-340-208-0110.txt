@@ -1,0 +1,321 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 208 VISIBLE EMISSIONS AND NUISANCE REQUIREMENTS 
+ 340-208-0110 
+ Visible Air Contaminant Limitations
+ 
+ 
+ (1) The emissions standards in this rule do not apply to: 
+
+ (a) Fugitive emissions from a source or part of a source; or 
+
+ (b) Recovery furnaces regulated under OAR chapter 340, division 234. 
+
+ (2) The visible emissions standards in this rule are based on the average of 24 consecutive observations recorded at 15-second intervals, or more frequently as allowed under subsection (b), which comprise a six-minute block. Six-minute blocks need not be consecutive in time and in no case may two blocks overlap. For each set of 24 observations, the six-minute block average is calculated by summing the opacity of the 24 observations and dividing the sum by 24. Six-minute block averages are measured by: 
+
+ (a) EPA Method 9; 
+
+ (b) A continuous opacity monitoring system (COMS) installed and operated in accordance with the DEQ Continuous Monitoring Manual or 40 C.F.R. part 60 [NOTE: DEQ manual is published with OAR 340-200-0035]; or 
+
+ (c) An alternative monitoring method approved by DEQ that is equivalent to EPA Method 9. 
+
+ (3)(a) For all emissions units, no person may emit or allow to be emitted any visible emissions that equal or exceed an average of 20 percent opacity, except as allowed under subsection (b) or (c). 
+
+ (b) For wood-fired boilers installed, constructed or last modified on or after June 1, 1970 but before April 16, 2015, visible emissions may equal or exceed an average of 20 percent opacity for up to two independent six-minute blocks in any hour, as long as the average opacity during each of these two six-minute blocks is less than 40 percent; 
+
+ (c) For wood-fired boilers installed, constructed or last modified prior to June 1, 1970: 
+
+ (A) Visible emissions may equal or exceed an average of 20 percent opacity but may not equal or exceed 40 percent opacity, as the average of all six-minute blocks during grate cleaning operations provided the grate cleaning is performed in accordance with a grate cleaning plan approved by DEQ; or 
+
+ (B) DEQ may approve, at the owner’s or operator’s request, a boiler specific limit greater than an average of 20 percent opacity, but not to equal or exceed an average of 40 percent opacity, based on the opacity measured during a source test that demonstrates compliance with OAR 340-228-0210(2)(d) and: 
+
+ (i) Opacity must be measured for at least 60 minutes during each compliance source test run using any method included in section (2); 
+
+ (ii) The boiler specific limit will be the average of at least 30 six-minute block averages obtained during the compliance source test; 
+
+ (iii) The boiler-specific limit will include a higher limit for one six-minute period during any hour based on the maximum six-minute block average measured during the compliance source test; 
+
+ (iv) Specific opacity limits will be included in the permit for each affected source as a minor permit modification (simple fee) for sources with an Oregon Title V Operating Permit or a Basic Technical Modification for sources with an Air Contaminant Discharge Permit; and 
+
+ (v) If an alternative limit is established in accordance with this paragraph, the exception provided in paragraph (A) does not apply. 
+
+ [NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.] 
+
+ [NOTE: View a PDF of referenced EPA Method by clicking on "Tables" link below.] 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020 & 468A 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468A.025 & 468A.035 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 19-2022, amend filed 11/18/2022, effective 03/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 13-2019, amend filed 05/16/2019, effective 05/16/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 121-2018, minor correction filed 04/11/2018, effective 04/11/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 7-2015, f. & cert. ef. 4-16-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 8-2007, f. & cert. ef. 11-8-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 2-2001, f. & cert. ef 2-5-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-021-0015 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 3-1996, f. & cert. ef. 1-29-96 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 4-1993, f. & cert. ef. 3-10-93 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 16, f. 6-12-70, ef. 7-11-70 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,228 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 245 CLEANER AIR OREGON 
+ 340-245-0210 
+ Modeling and Risk Assessment Work Plan Requirements 
+ 
+ The owner or operator of a source must follow the applicable procedures in this rule when required to perform a risk assessment under OAR 340-245-0050 or 340-245-0060. 
+
+ (1) Modeling Requirements. All modeled estimates of ambient concentrations required under this division must be based on the applicable air quality models and other requirements as specified in 40 CFR part 51, Appendix W, "Guidelines on Air Quality Models (Revised)," or a substantially equivalent model or requirement approved by DEQ. Any change or substitution from models and procedures specified in 40 CFR part 51, Appendix W must be approved by DEQ in advance and incorporated in the modeling protocol. AERSCREEN and AERMOD are examples of approved air quality models. 
+
+ (a) When choosing to perform a Level 1 Risk Assessment or modeling for a Level 2, Level 3 or Level 4 Risk Assessment, the owner or operator of a source must first submit a modeling protocol that must be approved by DEQ as required in OAR 340-245-0030. The necessary information to perform any modeling will depend on the risk assessment level and the model being used, if any, and may include but is not limited to: 
+
+ (A) Toxic air contaminant emission rates based on the emissions inventory submitted under OAR 340-245-0040(1); 
+
+ (B) Stack parameter and building data, including stack height above ground, stack orientation and configuration, exit diameter, exit velocity, and exit temperature, for all existing and proposed emission points from the source, and dimension data of buildings; 
+
+ (C) Meteorological and topographical data; 
+
+ (D) Information about the dispersion models and modeling parameters used; 
+
+ (E) Exposure locations where ambient concentrations will be modeled; 
+
+ (F) For determining exposure locations where ambient concentrations will be modeled, an owner or operator may provide documentation to demonstrate an area is not being used in the manner allowed by the land use zoning at the time the modeling is to be performed, and may request that the land use zoning classification of these areas be excluded in determining chronic exposure locations. If DEQ approves an exclusion under this paragraph, then: 
+
+ (i) The owner or operator must model the approved locations based on their actual use; 
+
+ (ii) The owner or operator must annually submit to DEQ documentation showing the areas subject to the excluded land use zoning classification continue to not be used in the manner allowed by the land use zoning applicable to the area; and 
+
+ (iii) If the annual documentation provided under subparagraph (ii) shows the area is being used in the manner allowed by the land use zoning and results in potential exposure to toxic air contaminants from the source, the owner or operator must update the risk assessment based on the change in use and apply for a Toxic Air Contaminant Permit Addendum modification under OAR 340-245-0100(8) or for an operating permit modification under OAR 340 division 216 or 218 using the procedures in this division, if applicable; 
+
+ (G) Use of other exposure locations where DEQ determines, based on documented evidence, that an area is not being used in the manner allowed by the land use zoning at the time the modeling is to be performed, such area should be considered an exposure location based on its actual use; and 
+
+ (H) Other information that may be necessary to estimate air quality concentrations and risk at exposure locations; 
+
+ (b) For the purpose of any risk assessment undertaken by DEQ, the owner or operator of any permitted or unpermitted source must submit the information in subsection (a) within 30 days of the written request from DEQ. DEQ shall use the procedures in OAR 340-245-0030 to review the information in determining its completeness, consider extensions requests, and request additional information, if needed. 
+
+ (2) Risk assessment work plan requirements. When choosing to conduct a Level 3 or Level 4 Risk Assessment, the owner or operator of a source must submit a risk assessment work plan that must be approved by DEQ as required in OAR 340-245-0030. The work plan must be developed in consultation with DEQ and include but is not limited to: 
+
+ (a) A problem formulation step ending with development of a conceptual site model identifying TEUs and exposure locations; 
+
+ (b) An exposure assessment that models or measures toxic air contaminant concentrations at exposure locations; 
+
+ (c) A risk characterization presenting a quantitative calculation of excess cancer, chronic noncancer and acute noncancer health risks associated with human exposure to toxic air contaminant emissions from the source; 
+
+ (d) A quantitative or qualitative uncertainty evaluation of appropriate elements of the risk assessment; 
+
+ (e) A Level 4 Risk Assessment must also include a toxicity assessment evaluating the carcinogenic effects, noncarcinogenic chronic effects, and noncarcinogenic acute effects of toxic air contaminants to which human populations may be exposed, and determining persistence and bioaccumulation potential. Sources may not consider Toxicity Reference Values other than those listed in OAR 340-247-8010 Table 2; and 
+
+ (f) In a Level 4 Risk Assessment, the owner or operator may propose modifications to default exposure assumptions, including but not limited to: 
+
+ (A) Exposure times, frequencies, and durations; 
+
+ (B) Relative bioavailability of chemicals; and 
+
+ (C) Multipathway considerations for persistent, and bioaccumulative and toxic chemicals. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, 468.065, 468A.025, 468A.040, 468A.050, 468A.070, 468A.155, 468A.135 & 468A.337 
+ 
+ 
+ Statutes/Other Implemented:  468.065, 468A.025, 468A.040, 468A.050, 468A.070, 468A.155, 468A.010, 468A.015, 468A.035, 468A.337 & 468A.335 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 18-2021, amend filed 11/17/2021, effective 11/17/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 197-2018, adopt filed 11/16/2018, effective 11/16/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

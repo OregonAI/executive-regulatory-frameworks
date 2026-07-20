@@ -1,0 +1,356 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 18 DISEASE REPORTING 
+ 333-018-0110 
+ HAI Reporting for Hospitals
+ 
+ 
+ (1) Hospitals must report to the Authority the following HAIs: 
+
+ (a) CLABSI in: 
+
+ (A) Adult, pediatric, and neonatal ICUs; and 
+
+ (B) Adult and pediatric, medical, surgical, and medical/surgical wards. 
+
+ (b) SSIs for inpatient CBGB, COLO, HPRO, HYST, and KPRO procedures. 
+
+ (c) CAUTI in: 
+
+ (A) Adult and pediatric ICUs; and 
+
+ (B) Adult and pediatric medical, surgical, medical/surgical wards, and inpatient rehabilitation wards. 
+
+ (d) Inpatient CDI facility-wide lab ID events, excluding neonatal and well-baby units. 
+
+ (e) Inpatient MRSA bacteremia lab ID events. 
+
+ (2) Hospitals must report to the Authority all fields required to be reported by NHSN in accordance with the NHSN manual, including discharge dates. 
+
+ (3) A hospital must report the information required in section (1) of this rule to the Authority no later than 30 days after the end of the collection month. 
+
+ (4) A hospital must have an infection preventionist (IP) who actively seeks out HAIs required to be reported under this rule by screening a variety of data from various sources that may include but are not limited to: 
+
+ (a) Laboratory; 
+
+ (b) Pharmacy; 
+
+ (c) Admission; 
+
+ (d) Discharge; 
+
+ (e) Transfer; 
+
+ (f) Radiology; 
+
+ (g) Imaging; 
+
+ (h) Pathology; and 
+
+ (i) Patient charts, including history and physical notes, nurses’ and physicians’ notes, and temperature charts. 
+
+ (5) An IP shall use follow-up surveillance methods to detect SSIs for procedures listed in section (1) of this rule using at least one of the following: 
+
+ (a) Direct examination of patients’ wounds during follow-up visits to either surgery clinics or physicians’ offices; 
+
+ (b) Review of medical records, subsequent hospitalization records, or surgery clinic records; 
+
+ (c) Surgeon surveys by mail or telephone; 
+
+ (d) Patient surveys by mail or telephone; or 
+
+ (e) Other facility surveys by mail or telephone. 
+
+ (6) A hospital may train others employed by the facility to screen data sources for these infections required to be reported in section (1) of this rule but the IP must determine that the infection meets the criteria established by these rules. 
+
+ (7) Hospitals that report the information in subsection (1)(a) to (e) of this rule through NHSN in order to meet CMS reporting requirements, may, in lieu of reporting this information directly to the Authority, permit the Authority to access the information through NHSN. A hospital that permits the Authority to access the information through NHSN must: 
+
+ (a) Join the Oregon HAI group in NHSN; 
+
+ (b) Authorize disclosure of NHSN data to the Authority as necessary for compliance with these rules, including but not limited to summary data and denominator data for all SSIs, the annual hospital survey and data analysis components for all SSIs, and summary data and denominator data for all adult, pediatric and neonatal ICUs; and 
+
+ (c) Permit the Authority to access data reported through NHSN dating back to when reporting was first required by CMS for the different HAIs. 
+
+ (8) All hospitals must report to the Authority on a quarterly basis the following HAI process measures, including but not limited to definitions, data collection, data reporting and training requirements: 
+
+ (a) SCIP-Inf-1; 
+
+ (b) SCIP-Inf-2; 
+
+ (c) SCIP-Inf-3; 
+
+ (d) SCIP-Inf-4; 
+
+ (e) SCIP-Inf-6; 
+
+ (f) SCIP-Inf-9; and 
+
+ (g) SCIP-Inf-10. 
+
+ (9) Hospitals that report the information in section (8) of this rule to CMS or the Joint Commission do not have to provide the information directly to the Authority; the Authority will access the information through CMS or the Joint Commission. If a hospital is not reporting the information in section (8) of this rule to CMS or the Joint Commission, in accordance with CMS or Joint Commission reporting requirements, it must provide the information to the Authority no later than on the 15th calendar day, four months after the end of the quarter. As CMS reporting requirements for SCIP measures are removed, reporting requirements for the Authority will change accordingly. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 442.420 & 442.853 - 442.856 
+ 
+ 
+ Statutes/Other Implemented:  ORS 442.405 & 442.853 - 442.856 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 17-2020, amend filed 03/26/2020, effective 04/06/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 24-2016, f. 8-8-16, cert. ef. 8-16-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 8-2015, f. & cert. ef. 3-24-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 17-2014, f. & cert. ef. 6-9-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 409-023-0010 by PH 13-2013, f. 12-26-13, cert. ef. 1-1-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 7-2011, f. 9-30-11, cert. ef. 10-1-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 4-2011(Temp), f. 7-28-11, cert. ef. 8-1-11 thru 1-25-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 4-2010, f. 6-30-10, cert. ef. 7-1-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 1-2009, f. & cert. ef. 7-1-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHP 1-2008, f. & cert. ef. 7-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

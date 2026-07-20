@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Oregon Occupational Safety and Health Division - Chapter 437 
+ 
+ 
+ 
+ 
+ Division 2 GENERAL OCCUPATIONAL SAFETY AND HEALTH RULES 
+ 437-002-0081 
+ Oregon Ventilation Regulations 
+ 
+ In addition to, and not in lieu of 29 CFR 1910.94, the following rules pertaining to ventilation apply in Oregon:  (1) Definitions:  (a) “Administrative Control” means the reduction of employee exposure to physical or chemical agents by control of the time of exposure to some period less than eight hours in length;  (b) “Harmful” or “Hazardous” as applied to the health effects of dusts, fumes, vapors, mists, gases, or any environmental condition, means any mechanical, infectious, toxic, or other action which is likely to produce medically determined injury or disease of exposed workers;  (c) “Health Hazard Control Measure” means the equipment or working arrangements designed to prevent the exposure of employees to harmful or hazardous situations. Such control measures may include, but are not limited to:  (A) Ventilation systems;  (B) Energy absorption system;  (C) Personal protective equipment;  (D) Air contaminant monitoring; and  (E) Human biological monitoring.  (d) “Local Exhaust System” means a system of hoods, booths, or enclosures designed to remove contaminants at points of generation or release into the atmosphere connected by means of piping to airflow or suction producing equipment;  (e) “Occupational Health Hazard” means those materials, processes, and atmospheric contaminants or energy concentrations which during normal or abnormal working conditions are likely to result in injury or illness to the unprotected employee;  (f) “Ventilation, Dilution” means ventilation provided to dilute the concentration of atmospheric contaminants in the atmosphere in all or part of the place of employment;  (g) “Ventilation, General” means the provision of fresh air at the place of employment;  (h) “Ventilation, Local Exhaust” means that the type of ventilation in which suction is applied at the point of generation or release of atmospheric contaminants;  (i) “Ventilation, Natural” means ventilation designed to depend wholly upon relative air density, and includes the use of openable doors, windows, and other building apertures.  (2) Recirculation. No air from any local exhaust system shall be recirculated, unless:  (a) The inert dust contained therein has a Permissible Exposure Limit (PEL) equal to or greater than ten milligrams per cubic meter as listed in Tables Z-1, Z-2, or Z-3 in OAR chapter 437, division 2, subdivision Z, 1910, OAR 437-002-0382, Oregon Rules for Air Contaminants. The inert dust concentration in such recirculated air shall not exceed five milligrams per cubic meter; or  (b) The contaminant contained therein has a Permissible Exposure Limit (PEL) equal to or greater than 100 parts per million as listed in Tables Z-1, Z-2, or Z-3 or OAR chapter 437, division 2, subdivision Z, OAR 437-002-0382, Oregon Rules for Air Contaminants. The contaminant concentration in such recirculated air shall not exceed 25 percent of its PEL; or  (c) The concentrations of contaminants in recirculated air do not exceed 25 percent of unity as calculated by the formula given in Division 2, Subdivision Z, OAR 437-002-0382(4)(b), Oregon Rules for Air Contaminants.  (3) Make-Up Air. Outside air equal in amount to the air removed by local exhaust systems shall be provided to replace air removed by an exhaust ventilation system.  (4) Air Contamination from Exhaust System. The discharge from any exhaust system shall be such that no air contamination therefrom will enter any window, door, or other opening of any work area in quantities sufficient to create a harmful or hazardous work atmosphere.  (5) Use of Salamanders and Fuel-Burning Heating Devices. Salamanders and other fuel-burning heating devices shall not be used in enclosed or inadequately ventilated spaces in which workers are employed unless such heating device is provided with a proper pipe, chimney, or enclosure to carry hazardous gases to the outside atmosphere.  (6) Local Exhaust Ventilation. The capacity of a local exhaust system shall be calculated on the basis of all hoods, booths, and enclosures connected to the system being open, except where the system is so interlocked that only a portion of it can be operated at a given time, in which case the capacity shall be calculated on the basis that all the hoods in the group requiring the greatest volume rate of exhaust are open.  (7) Exhausting More Than One Substance. Two or more operations involving more than one substance shall not be connected to the same exhaust system when a combination of the substances removed may constitute a fire hazard, or otherwise dangerous mixture.  (8) Exhausting Materials with Flammable Properties. Those processes or operations which require local exhaust ventilation and generate materials with flammable properties shall be protected from sources of ignition.  (9) Removal of Collected Materials. Collected materials shall be removed when necessary so as to maintain effective operation of the local exhaust system at all times.  (10) Disposal of Collected Materials. Collected materials shall be disposed of in a manner which will not result in a hazard.  (11) Requirements for Reduction of Air Contaminant Concentrations. A local exhaust system shall be in operation until all contaminants are reduced to concentrations at or below the Threshold Limit Values when any person is at risk.  NOTE: 1910.94(a)(6) was NOT adopted by OR-OSHA. In Oregon, OAR 437-002-0081(12) (which references a more current ANSI standard) applies.)  (12) Air supply and air compressors. The air for abrasive-blasting respirators shall be free of harmful quantities of dusts, mists, or noxious gases, and shall meet the requirements for air purity set forth in ANSI Z9.2-1979, Fundamentals Governing the Design and Operation of Local Exhaust Systems. The air from the regular compressed air line of the plant may be used for the abrasive-blasting respirator if:  (a) A trap and carbon filter are installed and regularly maintained to remove oil, water, scale, and odor;  (b) A pressure reducing diaphragm or valve is installed to reduce the pressure down to requirements of the particular type of abrasive-blasting respirator; and  (c) An automatic control is provided to either sound an alarm or shut down the compressor in case of overheating.  NOTE: Oregon did not adopt 1910.94(a)(6), which references an outdated ANSI standard. Instead, the following Oregon-initiated rule applies. This rule is identical, except that the current ANSI standard is referenced.  (13) Blasting Nozzles. In addition to and not in lieu of the provisions of 1910.94(a)(7), blasting nozzles shall be equipped with a deadman switch or other effective means to prevent hose and nozzle from whipping. A support shall be provided on which the nozzle may be mounted when not in use.  [Publications: Publications referenced are available from the agency.] 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 654.025(2) & 656.726(3) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 654.001 - 654.295 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSHA 2-1992, f. 2-6-92, cert. ef. 5-1-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

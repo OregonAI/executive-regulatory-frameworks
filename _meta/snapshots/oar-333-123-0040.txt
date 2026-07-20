@@ -1,0 +1,226 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 123 THERAPEUTIC RADIATION MACHINES 
+ 333-123-0040 
+ Quality Assurance and Safety Checks
+ 
+ 
+ (1) Periodic quality assurance checks must be performed on all therapeutic radiation machines subject to OAR 333-123-0025 at intervals in accordance with industry standards of practice; and 
+
+ (a) Quality assurance checks must include determination of central axis radiation output and a representative sampling of periodic quality assurance checks in accordance with the written procedures established by the Qualified Medical Physicist. 
+
+ (b) Quality assurance checks required in this rule must be conducted using a dosimetry system that has been intercompared within the previous 12 months with the dosimetry system described in OAR 333-123-0010(5). 
+
+ (c) The quality assurance procedures established by the Qualified Medical Physicist must: 
+
+ (A) Specify the frequency at which tests or measurements are to be conducted; and 
+
+ (B) Specify equipment required for the test; and 
+
+ (C) Include the name of personnel conducting the test; and 
+
+ (D) Include the acceptable tolerance for each parameter measured in the quality assurance check and the response triggered by test results that exceed tolerance levels. 
+
+ (d) The registrant must have the Qualified Medical Physicist review and sign the results of each radiation output quality assurance check within one month of the date that the check was performed. The results of each periodic radiation output check must be reviewed according to the following procedures: 
+
+ (A) The Radiation Therapy Physician and Qualified Medical Physicist must be immediately notified if any parameter is not within its acceptable tolerance. The therapeutic radiation machine must not be used clinically until the Qualified Medical Physicist has determined that all parameters are within their acceptable tolerances; and 
+
+ (B) Notwithstanding the other requirements of this rule, the registrant must ensure that no therapeutic radiation machine is used to administer radiation to humans unless the quality assurance checks required by section (1) of this rule have been performed within the 30 day period immediately prior to said administration. 
+
+ (2) Safety Checks. Therapeutic radiation machines subject to OAR 333-123-0025 of this rule must have applicable safety quality assurance check in accordance with industry standards of practice and performed at intervals not to exceed one year to ensure proper functioning and operation of: 
+
+ (a) Electrical interlocks at each external beam radiation therapy room entrance; and 
+
+ (b) The "BEAM-ON" and termination switches; and 
+
+ (c) Beam condition indicator lights on the access door(s), control console, and in the radiation therapy room; and 
+
+ (d) Viewing and auditory systems; and 
+
+ (e) If applicable, electrically operated treatment room doors from inside and outside the treatment room; and 
+
+ (f) All emergency cutoff switches. 
+
+ (3) The registrant must promptly repair any system identified in this rule that is not operating properly. 
+
+ (4) The registrant must maintain a record of each quality assurance check required by section (1) of this rule for three years. The record must include: 
+
+ (a) The date of the quality assurance check; 
+
+ (b) The manufacturer's name, model number, and serial number of the therapeutic radiation machine control panel; 
+
+ (c) The record must also include the manufacturer's name, model number and serial number and calibration date for the instrument(s) used to measure the radiation output of the therapeutic radiation machine; and 
+
+ (d) The signature of the individual who performed the periodic quality assurance check. 
+
+ (5) Quality assurance for a conventional or virtual simulator must include acceptance testing and periodic verification of system performance in accordance with industry standards of practice for a conventional simulator or computed tomography simulators. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 453.605 – 453.807 
+ 
+ 
+ Statutes/Other Implemented:  ORS 453.605 – 453.807 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 81-2021, amend filed 11/19/2021, effective 11/23/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 23-2006, f. & cert. ef. 10-19-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

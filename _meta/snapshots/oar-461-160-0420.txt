@@ -1,0 +1,525 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Self-Sufficiency Programs - Chapter 461 
+ 
+ 
+ 
+ 
+ Division 160 DETERMINING FINANCIAL ELIGIBILITY AND CALCULATING BENEFIT LEVEL 
+ 461-160-0420 
+ Shelter Cost; SNAP
+ 
+ 
+ (1) This rule explains how to calculate the shelter cost. The shelter cost is used to determine the shelter deduction (see OAR 461-160-0430). The shelter cost is the sum of the filing group's cost of housing plus an allowance for utilities, if the individual incurs a utility cost. The shelter deduction is calculated considering the shelter cost and may be subject to a limitation described in OAR 461-160-0430. 
+
+ (2) Cost of housing. 
+
+ (a) The following comprise the cost of housing if they are incurred with respect to the filing group's current residence or the home described in section (5) of this rule: 
+
+ (A) Regular, periodic charges for the shelter of the filing group (see OAR 461-110-0370), such as rent, mortgage payments, and condominium or association fees. Late fees charged because a mortgage or rent payment was made late are not deductible. 
+
+ (B) Property taxes, state and local assessments, and property insurance on the structure. 
+
+ (C) Costs for repairing a home substantially damaged or destroyed by a natural disaster (such as a fire or flood), if such costs are not reimbursed. 
+
+ (D) If a filing group is experiencing homelessness and their living circumstances meet the definition of homeless under OAR 461-001-0015, the following are allowable costs: 
+
+ (i) Working in exchange for housing costs; or 
+
+ (ii) If living in a vehicle, vehicle payments and collision and comprehensive insurance premiums. 
+
+ (E) For filing group members required to pay room and board in a nonstandard living arrangement (see OAR 461-001-0000), the shelter cost is the cost of room and board, minus the payment standard for the benefit group; or the actual room cost if the individual can prove that the room cost exceeds the room and board minus the payment standard. 
+
+ (b) If housing costs are billed on a weekly or biweekly basis, the monthly cost is the weekly cost multiplied by 4.3 or the biweekly cost multiplied by 2.15. 
+
+ (c) The filing group has the following choices about housing costs: 
+
+ (A) The group may choose to apply the cost in the month it is billed or becomes due. 
+
+ (B) The group may choose to have periodic costs averaged. 
+
+ (C) For expenses that are billed less often than monthly, the group may choose to have them averaged over the period they are intended to cover. 
+
+ (3) Shared housing. If the filing group shares housing costs with an individual in the dwelling who is not in the filing group , only the housing costs incurred by the filing group are included in the calculation. If the portion paid by an individual outside the filing group cannot be ascertained, the cost is apportioned among the individuals contributing to the cost. The pro rata share of those not in the filing group is deducted from the total, and the balance is considered a housing cost of the filing group . 
+
+ (4) Cost for utilities. 
+
+ (a) A filing group has a cost for utilities if it incurs a cost for heating or cooling; cooking fuel; electricity; water and sewerage; well installation and maintenance; septic tank system installation and maintenance; garbage and trash collection; service for a telephone, such as basic service fee, wire maintenance, subscriber line charges, relay center surcharges, 911 service, and taxes; or initial installation fees charged by a utility provider. 
+
+ (b) If the group incurs no cost for utilities in either its current home or in the home described in section (5) of this rule, then the shelter cost is calculated without an allowance for utilities. 
+
+ (c) If a  filing group experiencing homelessness uses a vehicle for shelter, the cost of fuel for the vehicle is considered a utility cost. 
+
+ (d)  A full utility allowance (FUA) of $515 is given if the filing group : 
+
+ (A)  Incurs a cost for heating or cooling for its dwelling; or 
+
+ (B)  Includes an individual who meets the SNAP definition of disabled  (see OAR 461-001-0015) or elderly  (see OAR 461-001-0015), and the filing group received an energy assistance payment (see OAR 461-001-0015 and 461-145-0170) or weatherization assistance payment (see OAR 461-001-0015). 
+
+ (i) The energy assistance payment , weatherization assistance payment , or combination of such payments must be greater than $20 annually; and 
+
+ (ii) Must be received by the filing group in the current month or the immediately preceding 12 months. 
+
+ (e) A limited utility allowance (LUA) of $404 is given if the filing group is not billed for heating or cooling costs but is billed for at least two other costs enumerated in subsection (4)(a) of this rule. 
+
+ (f) An individual utility allowance (IUA) of $65 is given if the filing group is not billed for heating or cooling costs but is billed for only one of the costs enumerated in subsection (4)(a) of this rule other than the service cost for a telephone, including the related taxes or fees. 
+
+ (g) A telephone utility allowance (TUA) of $81 is given if the filing group is billed only for telephone service, such as basic service fee, wire maintenance, subscriber line charges, relay center surcharges, 911 service, and taxes. 
+
+ (5) Housing costs for a home not occupied by the filing group. Housing and utility costs with respect to a home not currently occupied may be considered in calculating the shelter cost if-- 
+
+ (a) The home is temporarily unoccupied because of employment or training away from home, illness, or abandonment caused by casualty or natural disaster; 
+
+ (b) The filing group intends to return to the home; 
+
+ (c) No other, current occupant is claiming a deduction for shelter costs in the Supplemental Nutrition Assistance Program (SNAP); and 
+
+ (d) The home is not leased during the household's absence. 
+
+ (6) SNAP eligibility provisions in subsection (4)(d) of this rule implement section 10103 of Pub. L. 119-21, 139 Stat. 72 (2025), and are applied to existing SNAP cases as follows: 
+
+ (a) For a benefit group whose SNAP eligibility is based on an application with a filing date (see OAR 461-115-0040) of July 4, 2025, or after, the Department shall redetermine SNAP eligibility to apply the provisions of this rule. 
+
+ (b) For a benefit group whose SNAP eligibility is based on an application with a filing date before July 4, 2025, the Department shall apply the provisions of this rule when SNAP eligibility is redetermined for any reason. 
+
+ (7) See former OAR 461-135-0665 for SNAP eligibility provisions and effective dates that implement Pub. L. 119-21, 139 Stat. 72 (2025) in this rule for the time period October 1, 2025, through March 18, 2026. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 409.050, 411.060, 411.070 & 411.816 
+ 
+ 
+ Statutes/Other Implemented:  ORS 409.010, 409.050, 411.060, 411.070, 411.816, 411.825, 411.837 & 7 CFR 273.5 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 29-2026, amend filed 06/29/2026, effective 07/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 21-2026, temporary amend filed 03/19/2026, effective 03/19/2026 through 09/14/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 27-2025, amend filed 12/23/2025, effective 01/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 22-2025, temporary amend filed 10/01/2025, effective 10/01/2025 through 03/28/2026 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 54-2024, amend filed 09/27/2024, effective 10/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 47-2023, amend filed 09/25/2023, effective 10/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 48-2022, amend filed 09/27/2022, effective 10/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 47-2022, amend filed 09/20/2022, effective 09/27/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 33-2022, temporary amend filed 03/31/2022, effective 04/01/2022 through 09/27/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 49-2021, amend filed 09/23/2021, effective 10/01/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 36-2020, amend filed 10/01/2020, effective 10/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 25-2019, amend filed 12/24/2019, effective 01/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 22-2019, temporary amend filed 10/01/2019, effective 10/01/2019 through 03/28/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 20-2019, amend filed 09/19/2019, effective 10/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 27-2018, amend filed 09/04/2018, effective 10/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 34-2017, amend filed 12/18/2017, effective 01/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 25-2017(Temp), f. 9-15-17, cert. ef. 10-1-17 thru 1-31-18 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 35-2016, f. 9-30-16, cert. ef. 10-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ SSP 28-2015, f. 9-29-15, cert. ef. 10-1-15 
+SSP 24-2014, f. & cert. ef. 10-1-14 
+SSP 13-2014(Temp), f. & cert. ef. 5-20-14 thru 11-16-14 
+SSP 24-2013, f. & cert. ef. 10-1-13 
+SSP 8-2013, f. & cert. ef. 4-1-13 
+SSP 30-2012, f. 9-28-12, cert. ef. 10-1-12 
+SSP 25-2011, f. 9-30-11, cert. ef. 10-1-11 
+SSP 32-2010, f. & cert. ef. 10-1-10 
+SSP 28-2009, f. & cert. ef. 10-1-09 
+SSP 23-2008, f. & cert. ef. 10-1-08 
+SSP 10-2007, f. & cert. ef. 10-1-07 
+SSP 14-2006, f. 9-29-06, cert. ef. 10-1-06 
+SSP 14-2005, f. 9-30-05, cert. ef. 10-1-05 
+SSP 22-2004, f. & cert. ef. 10-1-04 
+SSP 23-2003, f. & cert. ef. 10-1-03 
+AFS 13-2002, f. & cert. ef. 10-1-02 
+AFS 22-2001, f. & cert. ef. 10-1-01 
+AFS 9-2001, f. & cert. ef. 6-1-01 
+AFS 25-2000, f. 9-29-00, cert. ef. 10-1-00 
+AFS 25-1998, f. 12-28-98, cert. ef. 1-1-99 
+AFS 21-1998(Temp), f. 10-15-98 & cert. ef. 11-1-98 thru 12-31-98 
+AFS 19-1997, f. & cert. ef. 10-1-97 
+AFS 34-1996, f. 9-26-96, cert. ef. 10-1-96 
+AFS 13-1995, f. 6-29-95, cert. ef. 7-1-95 
+AFS 23-1994, f. 9-29-94, cert. ef. 10-1-94 
+AFS 13-1994, f. & cert. ef. 7-1-94 
+AFS 19-1993, f. & cert. ef. 10-1-93 
+AFS 8-1992, f. & cert. ef. 4-1-92 
+AFS 13-1991, f. & cert. ef. 7-1-91 
+AFS 1-1991(Temp), f. & cert. ef. 1-2-91 
+AFS 80-1989, f. 12-21-89, cert. ef. 2-1-90 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

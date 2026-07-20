@@ -1,0 +1,430 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 141 OIL SPILL CONTINGENCY PLANNING AND FEES 
+ 340-141-0140 
+ Plan Content Requirements
+ 
+ 
+ (1) Submittal Agreement. Each plan must contain a submittal agreement that: 
+
+ (a) Includes the name, address and phone number of the submitting party; 
+
+ (b) Verifies acceptance of the plan, including any incorporated contingency plans, by the owner or operator of the facility or covered vessel by either signature of the owner or operator or a person with authority to bind the corporation that owns or operates the facility or covered vessel; 
+
+ (c) Commits to execution of the plan, including any incorporated contingency plans, by the owner or operator of the facility or covered vessel, and verifies authority for the plan holder to make appropriate expenditures in order to execute plan provisions; and 
+
+ (d) Includes: 
+
+ (A) In the case of a facility, the name, location including latitude, longitude and river mile, and address of the facility, type of facility, starting date of operations, types of oils (see definition of oil) handled, volume of oil stored and maximum volume of oil capable of being stored. 
+
+ (B) In the case of a covered vessel, the vessel's name, the name, location and address of the owner or operator, official identification code or call sign, country of registry, common ports of call in Oregon, type of oils (see definition of oil) handled, volume of oil transported as fuel and expected period of operation in state waters. 
+
+ (C) In the case of a covered vessel enrolled in a cooperative or maritime association plan, the vessel may provide evidence of coverage in lieu of paragraph (B) of this subsection. 
+
+ (2) Amendments. Each plan must include a log sheet to record amendments to the plan. The log sheet must be placed at the front of the plan. The log sheet must provide for a record of the section amended, the date that the old section was replaced with the amended section, verification that DEQ was notified of the amendment under OAR 340-141-0220(3) and the initials of the individual making the change. A description of the amendment and its purpose must also be included in the log sheet, or filed in the form of an amendment letter immediately after the log sheet. 
+
+ (3) Table of Contents. Each plan must include a detailed table of contents based on chapter, section, appendix numbers and titles and tables and figures. If the plan is an integrated plan used to also satisfy USCG and USEPA requirements, a cross reference must be included. 
+
+ (4) Purpose and Scope. Each plan must describe the purpose and scope of that plan, including: 
+
+ (a) The region of operation covered by the plan; 
+
+ (b) The onshore facility, offshore facility or covered vessel operations covered by the plan; and 
+
+ (c) The size and type of the average most probable spill and the worst case spill from the facility or covered vessel. 
+
+ (5) Updates. Each plan must describe the events or time periods that will trigger updates of the plan. 
+
+ (6) Implementation Strategy. Each plan must present a strategy for ensuring use of the plan for spill response and cleanup operations as required by OAR 340-141-0210. 
+
+ (7) Spill Response System. Each plan must describe the organization of the spill response system, including all task assignments anticipated by the end of the first full operational period, or necessary to manage the resources required by the 12 hour planning standard, given a response to an Average Most Probable Discharge. Plans must use a National Incident Management System (NIMS) incident management system, as described in the Northwest Area Contingency Plan (NWACP). 
+
+ (8) Contractor Identification. Each plan must identify the primary response contractor and subcontractors (except equipment rentals or supply vendors) whose services are bound to the plan by a contract or other approved means: 
+
+ (a) If a plan holder is a member of an oil spill response cooperative and relies on that cooperative to perform or supplement its response operations within the regions of operations covered by the plan, the plan must state the cooperative's name, address, phone number and response capability. The plan must also include proof of cooperative membership; or 
+
+ (b) If a plan holder is not a member of an oil spill response cooperative, for each contractor, the plan must state that contractor's name, address, phone number or other means of contact at any time of the day, and response capability (e.g., land spills only). For each contractor, the plan must include a letter of intent signed by the contractor which indicates the contractor's commitment to respond within the specified time period, with personnel and equipment listed in (12) and (13) of this section. Copies of written contracts or agreements with contractors must be available for inspection, if requested by DEQ. 
+
+ (9) Relationship to Other Plans. Each plan must briefly describe its relation to all applicable local, state, regional and federal government spill response plans. The plan must describe how the plan holder's response organization will be integrated into the Northwest Area Contingency Plan. 
+
+ (10) Spill Detection. Each plan must list procedures that will be used to detect and document the presence and size of a spill, including methods which are effective during low visibility conditions. The plan must also describe the use of mechanical or electronic monitoring or alarm systems (including threshold sensitivities) used to detect oil discharges into adjacent land or water from tanks, pipes, manifolds and other transfer or storage equipment. 
+
+ (11) Notifications. Each plan must describe procedures that will be taken to immediately notify appropriate parties that a spill has occurred. 
+
+ (a) The plan holder must maintain a notification call out list that must be available for inspection upon the request of DEQ, and that: 
+
+ (A) Provides a contact at any time of the day for all spill response personnel identified under section (7) of this rule, including the contact's name, position title, phone number or other means of contact for any time of the day, and an alternate contact in the event the individual is unavailable; 
+
+ (B) Lists the name and phone number of all government agencies that must be notified in the event of an oil spill under ORS 466.635; and 
+
+ (C) Establishes a clear order of priority for immediate notifications. 
+
+ (b) The plan must identify a central reporting office or individual who is responsible for implementing the call out process. 
+
+ (12) Response Personnel. Each plan must describe the personnel, including contract personnel available, to respond to an oil spill, including: 
+
+ (a) A job description for each type of spill response position needed as indicated in the spill response organization scheme addressed in section (7) of this rule, or a reference to a recognized NIMS position; 
+
+ (b) The number of personnel available to perform the duties of each type of spill response position; 
+
+ (A) This number must be equal to or greater than the number of persons necessary to sustain a response to the worst case spill defined in the plan. 
+
+ (B) If 24 hour operations are expected, the number of persons available to staff the ICS must be multiplied by the proposed number of operational periods (shifts). 
+
+ (c) Arrangements for pre-positioning personnel at strategic locations that will meet criteria under OAR 340-141-0190(3)(d); and 
+
+ (d) The type and frequency of spill response operations and safety training that each individual in a spill response position receives to attain the level of qualification demanded by their job description. 
+
+ (13) Equipment and spill response resources. Each plan must describe equipment and spill resources as follows: 
+
+ (a) Each plan must list all resident equipment and resident dedicated response vessels used for oil containment, recovery, removal, shoreline and adjacent lands cleanup and wildlife rescue and rehabilitation. Each plan must also list all relied upon communication tools. DEQ will accept information about equipment by reference if the equipment is being provided through a primary response contractor as part of the plan. DEQ may request information about the condition and date of manufacture of any listed and referenced equipment to further evaluate its applicability to the planning standards or a response. 
+
+ (b) For resident equipment and vessels listed under subsection (a) of this section that are not owned by or available exclusively to the plan holder, the plan must also estimate the extent that other contingency plans rely on the same equipment. 
+
+ (c) For all resident oil containment and recovery equipment, the plan also must include equipment make and model, the manufacturer's nameplate capacity of the response equipment, the EDRC (in barrels per day) and applicable design limits (e.g., maximum wave height capability, suitability for inland waters or open ocean). 
+
+ (d) Based on information described in subsection (c) of this section, the plan must state the maximum amount of oil that could be recovered per 24-hour period with the equipment used as it is designed. 
+
+ (e) For purposes of determining plan adequacy under OAR 340-141-0190, and to assess realistic capabilities based on potential limitations by weather, sea state, and other variables, DEQ will use the data presented in subsections (c) and (d) of this section to apply a higher efficiency factor for equipment listed in a plan if that plan holder provides adequate evidence that the higher efficiency factor is warranted for particular equipment or if the United States Coast Guard has approved a higher efficiency rating. 
+
+ (f) The plan must provide arrangements for pre-positioning of oil spill response equipment at strategic locations that will meet response time criteria under OAR 340-141-0190(3)(d). 
+
+ (g) When calculating the delivery time of equipment to a spill staging area, the plan must use travel speeds consistent with federal speed predictions for the equipment being moved. 
+
+ (14) Communications. Each plan must describe the communication systems used for spill notification and response operations, including: 
+
+ (a) Communication procedures that identify who will be responsible for the function, to whom and from whom communication will be established and any special instructions; 
+
+ (b) The communication function (e.g., ground-to-air) assigned to each channel or frequency used; 
+
+ (c) The maximum geographic range for each type of communications equipment used; and 
+
+ (d) The communication system compatibility with key spill response agencies. 
+
+ (15) Response Operation Sites. Each plan must describe the process used by the plan holder to establish sites needed for spill response operations, including location or location selection criteria for an incident command post, a communications center if located away from the command post and equipment and personnel staging areas. 
+
+ (16) Response Flow Chart or Timeline. Each plan must describe the response process by: 
+
+ (a) Presenting a flowchart or decision tree describing the procession of each major stage of spill response operations from spill discovery to completion of cleanup. The flowchart or decision tree must describe the general order and priority in which key spill response activities are performed; and 
+
+ (b) Describing all key spill response operations in checklist forms, to be used by spill response managers in the event of an oil spill. 
+
+ (17) Authorities. Each plan must describe responsible authorities by: 
+
+ (a) Listing the local, state and other government authorities responsible for the emergency procedures peripheral to spill containment and cleanup; and 
+
+ (b) Describing the plan holder's role in these emergency operation procedures before the proper authorities arrive, including but not limited to, control of fires and explosions, rescue activities, access restriction to the spill impact area and site security. 
+
+ (18) Damage Control. Each plan must describe equipment and procedures to be used by the facility or covered vessel personnel to minimize the magnitude of the spill and minimize structural damage that could increase the quantity of oil spilled. 
+
+ (a) For facilities, damage control procedures must include methods to slow or stop pipeline, storage tank, and other leaks, and methods to achieve immediate emergency shutdown. 
+
+ (b) For tank vessels, damage control procedures must include methods and onboard equipment to achieve vessel stability and prevent further vessel damage, slow or stop pipe, tank, and other leaks and achieve emergency shutdown during oil transfer. 
+
+ (c) For other covered vessels, damage control procedures must address methods to achieve vessel stability and slow or stop leaks from fuel tanks and lines. 
+
+ (19) Containment. Each plan must describe, in detail, any nonstandard methods specific to the plan to contain spilled oil and recover it from the environment. When a plan calls for the use of methods that have not been expressly approved by DEQ, the description of the proposed options must include: 
+
+ (a) The surveillance methods expected to be used to detect and track the extent and movement of the spill; and 
+
+ (b) A description of methods to be used to contain and remove oil that will be effective for environmentally sensitive locations included in the Zone, or Zones, for which the plan is written. 
+
+ (20) Response Time. Each plan must briefly describe initial equipment and personnel deployment activities that will accomplish the response standard listed in OAR 340-141-0190(e)(d) and provide: 
+
+ (a) An estimate of the actual execution time; 
+
+ (b) The specific location in the Zone where the resident required response equipment is stored; and 
+
+ (c) The source and management of personnel to deploy the initial response equipment. 
+
+ (21) Chemical Agents. If the plan holder proposes to use dispersants, coagulants, bioremediants or other chemical agents for response operations under certain conditions, the plan must describe: 
+
+ (a) Type and toxicity of chemicals, supplemented with material safety data sheets (MSDS) for each product; 
+
+ (b) The conditions under which the chemicals will be applied, in conformance with all applicable local, state and federal requirements, including the Northwest Area Contingency plan and OAR 340-141-0020; 
+
+ (c) Methods of deployment; and 
+
+ (d) Location and accessibility of supplies and deployment equipment. 
+
+ (22) In Situ-Burning. If the plan holder proposes to use in-situ burning for response operations, the plan must describe: 
+
+ (a) Type of burning operations; 
+
+ (b) Conditions under which burning will be applied in conformance with all applicable local, state and federal requirements, including the Northwest Area Contingency plan and OAR 340-264-0030 to 0040; 
+
+ (c) Methods of application; and 
+
+ (d) Location and accessibility of supplies and deployment equipment. 
+
+ (23) Environmental Protection. Each plan must describe how environmental protection will be achieved, including: 
+
+ (a) Protection of sensitive shoreline and inland habitat by diverting or blocking oil movement; 
+
+ (b) Priorities for sensitive area protection in the region of operation covered by the plan as provided in a Geographic Response Strategy of the Northwest Area Contingency Plan, or designated by DEQ; 
+
+ (c) Rescue and rehabilitation of birds, marine mammals and other wildlife contaminated or otherwise affected by the oil spill; and 
+
+ (d) Measures taken to reduce damages to the environment caused by shoreline and adjacent land cleanup operations. 
+
+ (24) Interim Storage. Each plan that has identified that oil will be recovered must plan for the storage of the oil and combined oily waste material potentially created. 
+
+ (a) Each plan must describe site criteria and methods used for interim storage of oil recovered and oily wastes generated during response and cleanup operations, including sites available within the facility. Interim storage methods and sites must be designed to prevent contamination of the storage area by recovered oil and oily wastes. 
+
+ (b) If use of interim storage sites will require approval by local, state or federal officials, the plan must include information that could expedite the approval process, including a list of appropriate contacts and a brief description of procedures to follow for each applicable approval process. 
+
+ (c) Interim storage and permanent disposal methods and sites must be sufficient to sustain support for oil recovery operations and manage the entire volume of oil recovered and oily wastes generated. 
+
+ (d) Interim storage and permanent disposal methods and sites must comply with all applicable local, state and federal requirements. 
+
+ (25) Health and Safety. Each plan must describe procedures to protect the health and safety of oil spill response workers, and other individuals on-site. Provisions for training, decontamination facilities, safety gear and a safety officer position must be addressed. 
+
+ (26) A description of steps taken for air monitoring to protect responders and the public including: 
+
+ (a) A description of air monitoring procedures for the work site, 
+
+ (b) A description of air monitoring procedures for the surrounding area (including surrounding communities), 
+
+ (c) A description of a communication plan to inform communities of any risks, 
+
+ (d) A plan to identify shelter in place and evacuation procedures 
+
+ (27) Post Spill Review. Each plan must explain post-spill review procedures, including methods to review both the effectiveness of the plan and the need for plan amendments. Post-spill procedures must provide for a debriefing with DEQ that will include any newly recognized need to amend the plan and list of any other lessons learned. 
+
+ (28) Drills and Exercises. All approved plans must be verified by drills and exercises. Each plan must describe the schedule and type of drills and other exercises that will be practiced to ensure readiness of the plan elements, including drills that satisfy OAR 340-141-0200 (3). 
+
+ (a) The plan holder must test and document internal call out procedures at least once every 90 calendar days. The plan holder must retain records of these drills for at least three years and make them available for DEQ review upon request. 
+
+ (b) The plan holder must notify DEQ of drills and exercises, at least 60 days before full deployment and tabletop drills, and 10 days prior to equipment exercises. Prior notice to DEQ is not required before notification drills and internal phone number verification exercises. 
+
+ (c) The plan holder must send post drill reports for all tabletop exercises or deployment drills to DEQ no later than 60 days after the completion of the drill or exercise. The executive summary from a National Preparedness for Response Exercise Program (NPREP) report may be submitted to meet this requirement when the exercise has been designed by the NPREP staff. 
+
+ (29) Risk Variables. Each plan must list the spill risk variables within the region of operation covered by the plan, including: 
+
+ (a) Each plan for a facility must list the following: 
+
+ (A) Types, physical properties and amounts of oil handled; 
+
+ (B) A written description and map indicating site topography, stormwater and other drainage systems, mooring areas, pipelines, tanks, and other oil processing, storage and transfer sites and operations; 
+
+ (C) A written description of sites or operations with a history of or high potential for oil spills, including key areas that pose significant navigation risk within the region of operation covered by the plan; and 
+
+ (D) Methods to reduce spills during transfer operations, including overfill prevention. 
+
+ (b) Each plan for a covered vessel must list the following: 
+
+ (A) Types, physical properties and amounts of oil handled; 
+
+ (B) A written description and diagram showing cargo, fuel and ballast tanks; and piping, power plants and other oil storage and transfer sites and operations; and 
+
+ (C) A written description of operations with a history of or high potential for oil spills, including key areas that pose significant navigation risks within the region of operation covered by the plan. 
+
+ (30) Environmental Variables. Each plan must list the environmental variables within the region of operation covered by the plan. Facility plans required to include river or coastal areas must identify the environmental variables from the probable point of release to the point the oil could travel in 24 hours in a current of four knots. Vessel contingency plans must encompass the entire length of the Oregon waterway in the Zone or sub-Zone entered. All plans must describe: 
+
+ (a) Natural resources, including coastal and aquatic habitat types and sensitivity by season, breeding sites, presence of state or federally listed endangered or threatened species and presence of commercial and recreational species; 
+
+ (b) Public resources, including public beaches, water intakes, drinking water supplies and marinas; 
+
+ (c) Seasonal hydrographic and climatic conditions; and 
+
+ (d) Physical geographic features, including relative isolation of coastal regions, beach types, and other geological characteristics. Plans may reference numbered Geographic Response Plan strategies (GRPs) in the Northwest Area Contingency Plan when identifying individual environmental features. 
+
+ (31) Logistical Resources. Each plan must list the logistical resources within the region of operation covered by the plan, including facilities for fire services, medical services and accommodations; and shoreline access areas, including boat launches. 
+
+ (32) Response Strategy Outline. Each plan must include a statement of the intended response activities. This statement must describe how the plan resources must be applied to adequately respond during the initial phase of the response to an average most probable and worst case spill, release or discharge. The Response Strategy Outline must begin with a description of the situation to be managed, and must describe: 
+
+ (a) Deployment of resources and estimates of response times; 
+
+ (b) The intended result of the activity for each person listed in section (7) and (12) of this section; 
+
+ (c) Command and control arrangements; 
+
+ (d) Required coordination; and 
+
+ (e) Probable obstacles and an estimate of oil movement during the first 72 hours. 
+
+ (33) Financial Responsibility. Each plan must provide evidence that the facility or vessel is in compliance with federal financial responsibility requirements under ORS 468B.390. 
+
+ (34) Technical Terms Glossary. Each plan must include a glossary of technical terms and abbreviations used in the plan. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020 & 468B.395 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468B.345 - 468B.390 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 8-2021, amend filed 05/20/2021, effective 05/20/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 8-2005, f. & cert. ef. 7-14-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 2-2003, f. & cert. ef. 1-31-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

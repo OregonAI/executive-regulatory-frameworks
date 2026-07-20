@@ -1,0 +1,199 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 317 CORPORATION EXCISE TAX ACT OF 1929: RULES AND GENERAL PROVISIONS 
+ 150-317-0630 
+ Oregon Return: Apportionment Formula
+ 
+ 
+ (1) Each member of an affiliated group of corporations must be treated as a separate corporation for purposes of determining whether it is subject to the tax jurisdiction of Oregon. A corporation is subject to the tax jurisdiction of Oregon if it is "doing business" in Oregon as defined under ORS 317.010(4) or has income from Oregon sources taxable under 318.020. 
+
+ (2) In applying the apportionment provisions of ORS 314.280 or 314.605 to 314.667, each corporation subject to the tax jurisdiction of Oregon must be considered separately. 
+
+ 
+ Example: Corporations A, B and C are members of the same unitary group and file a consolidated federal return. Corporation C is "doing business" in Oregon as defined under ORS 317.010(4) while Corporations A and B have no activities in Oregon. Since Corporation C is the only member of the affiliated group subject to the tax jurisdiction of Oregon, the Oregon amounts included in the numerator of the apportionment formula are determined by applying the provisions of 314.605 to 314.667 to the business activities of Corporation C. The denominator of the apportionment formula will include the everywhere amounts for Corporations A, B and C as determined by applying the provisions of 314.655 to 314.667. See OAR 150-314-0439 and 150-314-0441 for an explanation regarding how ORS 317.715(3) and this rule work with the "primary business activity" provisions of 314.665(6). 
+ 
+
+ (3) The factors included in the apportionment formula of an Oregon return must be computed by eliminating transactions between members of the affiliated group filing the Oregon return. See OAR 150-314-0385 regarding transactions between members of an affiliated group filing an Oregon return and related pass-through entities such as partnerships and S corporations owned by other members of that affiliated group. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 
+ 
+ 
+ Statutes/Other Implemented:  ORS 317.715 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 18-2021, amend filed 12/15/2021, effective 01/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 150-317.715(4)(b), REV 69-2016, f. 8-15-16, cert. ef. 9-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ Renumbered from 150-317.715(3)(b), REV 2-2014, f. & cert. ef. 7-31-14 
+REV 11-2004, f. 12-29-04, cert. ef. 12-31-04 
+REV 1-2001, f. 7-31-01, cert. ef. 8-1-01 
+RD 10-1986, f. & cert. ef. 12-31-86 
+RD 12-1985, f. 12-16-85, cert. ef. 12-31-85
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

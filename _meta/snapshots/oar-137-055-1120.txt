@@ -1,0 +1,548 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Justice 
+ Chapter 137 
+ 
+ 
+ 
+ 
+ 
+ Division 55 OREGON CHILD SUPPORT PROGRAM 
+ 137-055-1120 
+ Case Closure
+ 
+ 
+ (1) The administrator may elect to close a case if the case meets at least one of the following criteria and supporting documentation for the case closure decision is maintained in the case record: 
+
+ (a) There is no longer a current support order and arrearages are under $500 or unenforceable under state law; 
+
+ (b) There is no longer a current support order and all arrearages in the case are assigned to the state; 
+
+ (c) There is no longer a current support order, the children have reached the age of majority, the obligor is entering or has entered long-term care arrangements (such as a residential care facility or home health care), and that parent has no income or assets available above the subsistence level that could be levied or attached for support; 
+
+ (d) The obligor or alleged father is deceased and no further action, including a levy against the estate, can be taken; 
+
+ (e) The obligor is living with the minor child (as the primary caregiver or in an intact two-parent household), and the administrator has determined that services are not appropriate or are no longer appropriate; 
+
+ (f) Parentage cannot be established because: 
+
+ (A) The child is at least 18 years old and an action to establish parentage has not been initiated; 
+
+ (B) A genetic test or a court or an administrative process has excluded the alleged genetic parent and no other alleged parent can be identified; 
+
+ (C) The administrator has determined that it would not be in the best interests of the child to establish parentage in a case involving incest or rape, or in any case where legal proceedings for adoption are pending. For the purposes of this paragraph, a determination by the Oregon Department of Human Services that parentage establishment is not in the best interests of the child will be considered a determination by the administrator; or 
+
+ (D) The identity of the genetic parent is unknown and cannot be identified after diligent efforts, including at least one interview by the administrator with the recipient of services; 
+
+ (g) The obligor’s location is unknown, and the administrator has made diligent efforts using multiple sources to locate the obligor, in accordance with 45 CFR 303.3, all of which have been unsuccessful: 
+
+ (A) Over a two-year period when there is sufficient information to initiate an automated locate effort; or 
+
+ (B) Over a six-month period when there is not sufficient information to initiate an automated locate effort; or 
+
+ (C) After a one-year period when there is sufficient information to initiate an automated locate effort, but locate interfaces are unable to verify a Social Security number; 
+
+ (h) The administrator has determined that throughout the duration of the child’s minority (or after the child has reached the age of majority), the obligor cannot pay support and shows no evidence of support potential because the parent has been institutionalized in a psychiatric facility, is incarcerated, or has a medically verified total and permanent disability. The administrator must also determine that the obligor has no income or assets available above the subsistence level that could be levied or attached for support; 
+
+ (i) The obligor’s sole income is from: 
+
+ (A) Supplemental Security Income (SSI) payments; or 
+
+ (B) Both SSI payments and either Social Security Disability Insurance (SSDI) or Social Security Retirement (SSR) benefits. 
+
+ (j) The obligor is a citizen of and lives in a foreign country, does not work for the federal government or a company with headquarters or offices in the United States, and has no reachable domestic income or assets; and there is no federal or state treaty or reciprocity with the country; 
+
+ (k) The state parent locator service has provided location-only services as requested under 45 CFR 302.35(c)(3); 
+
+ (l) The non-TANF recipient of services requests closure of a case and there is no assignment to the state of medical support or of arrearages that accrued under a support order; 
+
+ (m) The administrator has completed a parentage-only limited service application; 
+
+ (n) The Oregon Department of Human Services, Oregon Health Authority, or the administrator, pursuant to OAR 137-055-1090, has made a finding of good cause or other exceptions to cooperation with the Oregon Child Support Program and has determined that child support services may not be provided without risk of harm to the child or caretaker relative; 
+
+ (o) In a non-TANF case, or a Medicaid case when cooperation with the Oregon Child Support Program is not required of the recipient of services, the administrator is unable to contact the recipient despite a good faith effort to contact the recipient through at least two different methods; 
+
+ (p) In a non-TANF case, or a Medicaid case when cooperation with the Oregon Child Support Program is not required of the recipient of services, the administrator documents the circumstances of the recipient’s noncooperation and an action by the recipient of services is essential for the next step in providing IV-D services; 
+
+ (q) The administrator documents failure by the initiating agency to take an action that is essential for the next step in providing services; 
+
+ (r) The initiating agency has notified the administrator that the initiating state has closed its case; 
+
+ (s) The initiating agency has notified the administrator that its intergovernmental services are no longer needed; 
+
+ (t) The Oregon Department of Human Services or Oregon Health Authority has referred a case to the Oregon Child Support Program that is inappropriate to establish, enforce, or continue to enforce a child support order and the custodial or noncustodial parent has not applied for services; or 
+
+ (u) The obligee is deceased and no trustee or personal representative has requested services to collect arrears despite a good faith effort to contact a representative of the obligee through at least two different methods. 
+
+ (2) For the purposes of this rule, subsistence level means the income or assets of the obligor is at or below the amount of income designated as the parent’s self-support reserve, as defined in OAR 137-050-0745. 
+
+ (3) The administrator will close a case and maintain supporting documentation for the case closure decision when the following criteria have been met: 
+
+ (a) The child is eligible for health care services from the Indian Health Service (IHS); and 
+
+ (b) The IV-D case was opened because of a Medicaid referral based solely upon health care services, including the Purchased/Referred Care Program, provided through an Indian health program. 
+
+ (4) The administrator will provide notice of case closure and case reopening: 
+
+ (a) In cases meeting the criteria in subsections (1)(a) through (j), (1)(n) through (p), and (1)(u) of this rule, the administrator will notify the recipient of services in writing 60 calendar days prior to closure of the case of the administrator’s intent to close the case. 
+
+ (b) In an intergovernmental case meeting the criteria for closure under subsection (1)(q) of this rule, the administrator will notify the initiating agency in a record 60 calendar days prior to closure of the case of the administrator’s intent to close the case. 
+
+ (c) The case will be kept open if the recipient of services or the initiating agency supplies information in response to the notice provided under subsection (4)(a) or (b) of this section that could lead to the establishment of parentage or a support order or enforcement of an order, or, in the instance of subsection (1)(o) of this section, if contact is reestablished with the recipient of services. 
+
+ (d) For cases to be closed in accordance with subsection (1)(m) of this rule, the administrator must notify the recipient of services in writing 60 calendar days prior to closure of the case of the administrator’s intent to close the case. This notice must also provide information regarding reapplying for child support services and the consequences of receiving services, including any state fees, cost recovery, and distribution policies. If the recipient reapplies for child support services in a case that was closed in accordance with subsection (1)(m) of this section, the recipient must complete a new application for IV-D services and pay any applicable fee. 
+
+ (e) If the administrator elects to close a case pursuant to subsections (1)(a) through (e), (1)(g) through (j), (1)(n) through (p) and (1)(u) of this rule, the administrator will notify any child attending school in writing at least 60 days prior to closure of the case of the intent to close the case. 
+
+ (f) If the administrator elects to close a case pursuant to subsections (1)(a) through (c), (1)(e), (1)(h) through (j), (1)(m), (1)(o), (1)(p) and (1)(u) of this rule, the administrator will notify the obligor in writing at least 60 days prior to closure of the case of the intent to close the case. 
+
+ (g) If the administrator elects to close a case pursuant to subsections (1)(k), (1)(L) or (1)(r) through (t) of this rule, the administrator is not required to notify any party of the intent to close the case. However, if the case is closed pursuant to subsection (1)(L), (1)(r) or (1)(s), the administrator will send a courtesy notice to the parties advising the reason for closure. 
+
+ (h) If the case is closed, the former recipient of services or any party to the case may request at a later date that the case be reopened if there is a change in circumstances that could lead to the establishment of parentage or a support order or enforcement of an order by completing a new application for IV-D services and paying any applicable fee. 
+
+ (i) For notices under subsections (4)(a) and (d) through (g) of this rule, if the recipient of services or any party to the case specifically authorizes consent for electronic notifications, the administrator may elect to notify the recipient of services electronically of the administrator’s intent to close the case. The Oregon Child Support Program must maintain documentation of the recipient’s consent in the case record. 
+
+ (5) For notices under subsections (4)(a) and (4)(d) through (f) of this rule, a case may be closed immediately if: 
+
+ (a) All parties agree to waive the notice of intent to close and the 60-day objection period when the notice of intent to close has not yet been sent; or 
+
+ (b) All parties agree to waive the remainder of the 60-day objection period when the notice of intent to close has already been sent. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 25.080 & 180.345 
+ 
+ 
+ Statutes/Other Implemented:  ORS 25.020 & 25.080 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 6-2026, minor correction filed 02/26/2026, effective 02/26/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 9-2025, amend filed 12/22/2025, effective 01/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 18-2021, amend filed 12/29/2021, effective 01/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 4-2021, amend filed 01/28/2021, effective 02/01/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 6-2017, amend filed 10/06/2017, effective 10/06/2017 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 4-2011, f. & cert. ef. 7-1-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 3-2011(Temp), f. & cert. ef. 3-31-11 thru 9-26-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 1-2010, f. & cert. ef. 1-4-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 1-2007, f. & cert. ef. 1-2-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 6-2006, f. & cert. ef. 10-2-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 1-2006, f & cert. ef. 1-3-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 8-2005(Temp), f. & cert. ef. 9-1-05 thru 2-17-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 4-2005, f. & cert. ef. 4-1-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 10-2003, f. 9-29-03, cert. ef. 10-1-03, Renumbered from 461-200-1120 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOJ 6-2003(Temp), f. 6-25-03, cert. ef. 7-1-03 thru 12-28-03, Renumbered from 461-200-1120 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 28-2001, f. 12-28-01, cert. ef. 1-1-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 2-2001, f. 1-31-01, cert. ef. 2-1-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 32-2000, f. 11-29-00, cert. ef. 12-1-00, Renumbered from 461-195-0050 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 13-1999, f. 10-29-99, cert. ef. 11-1-99 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 15-1993, f. 8-13-93, cert. ef. 8-15-93 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 66-1989, f. 11-28-89, cert. ef. 12-1-89, Renumbered from 461-035-0055 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 27-1988, f. & cert. ef. 4-5-88 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 66-1986, f. & ef. 9-19-86 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 35-1986(Temp), f. & ef. 4-14-86 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

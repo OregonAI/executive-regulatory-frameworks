@@ -1,0 +1,229 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Insurance Regulation - Chapter 836 
+ 
+ 
+ 
+ 
+ Division 11 ANNUAL STATEMENTS AND REPORTS BY INSURERS 
+ 836-011-0160 
+ Qualifications of Independent Certified Public Accountant 
+ 
+ (1) The Director shall not recognize any person as a qualified independent certified public accountant for the purposes of OAR 836-011-0100 to 836-011-0230 if the person:  (a) Is not in good standing with the American Institute of Certified Public Accountants (AICPA) and in all states in which the person is licensed to practice as a certified public accountant or, if the insurer is a Canadian or British insurer, the person is not a chartered accountant; or  (b) Has either directly or indirectly entered into an agreement of indemnity or a release from liability (collectively referred to as indemnification) with respect to the audit of the insurer.  (2) Except as otherwise provided in this rule, the Director shall recognize an independent certified public accountant as qualified as long as the certified public accountant conforms to the standards of the certified public accountant profession, as contained in the Code of Professional Ethics of the American Institute of Certified Public Accountants and the rules and the Code of Professional Conduct of the Oregon State Board of Accountancy, or a similar code of conduct of the state board regulating the practice of accountancy in the state in which the accountant is licensed to practice.  (3) A qualified independent certified public accountant may enter into an agreement with an insurer to have disputes relating to an audit resolved by mediation or arbitration. In the event of a delinquency proceeding commenced against the insurer under ORS 734.130, however, the mediation or arbitration provisions shall operate at the option of the statutory successor.  (4) The lead or coordinating audit partner having primary responsibility for the audit may not act in that capacity for more than five consecutive years. The partner or other person is disqualified from acting in that or a similar capacity for the same insurer or its insurance subsidiaries or affiliates for a period of five consecutive years. An insurer may apply to the Director for relief from the rotation requirement of this section on the basis of unusual circumstances. An insurer must apply for relief at least 30 days before the end of the calendar year. The Director may consider the following factors in determining whether the relief should be granted:  (a) The number of partners, the expertise of the partners or the number of insurance clients in the currently registered firm;  (b) The premium volume of the insurer;  (c) The number of jurisdictions in which the insurer transacts insurance.  (5) An insurer to which relief from the rotation requirements under section (4) of this rule has been granted shall file with its annual statement filing the Director’s approval for relief with the states that it is licensed in or doing business in, and with the NAIC. If the nondomestic state accepts electronic filing with the NAIC, the insurer shall file the approval in an electronic format acceptable to the NAIC.  (6) The Director shall not recognize an individual as an independent certified public accountant, or accept an annual audited financial report required by OAR 836-011-0100 to 836-011-0230 that is prepared in whole or part by an individual, if the individual:  (a) Has been convicted of fraud, bribery, a violation of the Racketeer Influenced and Corrupt Organizations Act, 18 U.S.C. Sections 1961-1968, or any dishonest conduct or practices under federal or state law;  (b) Has been found to have violated the insurance laws of this state with respect to any previous reports submitted under OAR 836-011-0100 to 836-011-0230; or  (c) Has demonstrated a pattern or practice of failing to detect or disclose material information in any report filed under OAR 836-011-0100 to 836-011-0230.  (7) The Director may hold a hearing to determine whether an independent certified public accountant is qualified and, considering the evidence presented, may rule that the accountant is not qualified for purposes of expressing the accountant's opinion on the financial statements in the annual audited financial report made pursuant to OAR 836-011-0100 to 836-011-0230 and require the insurer to replace the accountant with another accountant who is qualified with respect to the insurer as provided in 836-011-0100 to 836-011-0230.  (8) The Director may not recognize an accountant as a qualified independent certified public accountant or accept an annual audited financial report prepared in whole or in part by the accountant if the accountant provides to an insurer, contemporaneously with the audit, the following non-audit services:  (a) Bookkeeping or other services related to the accounting records or financial statements of the insurer;  (b) Financial information systems design and implementation;  (c) Appraisal or valuation services, fairness opinions, or contribution-in-kind reports;  (d) Actuarially-oriented advisory services involving the determination of amounts recorded in the financial statements. The accountant may assist an insurer in understanding the methods, assumptions and inputs used in the determination of amounts recorded in the financial statement only if it is reasonable to conclude that the services provided will not be subject to audit procedures during an audit of the insurer’s financial statements. An accountant’s actuary may also issue an actuarial opinion or certification (“opinion”) on an insurer’s reserves if the following conditions have been met:  (A) Neither the accountant nor the accountant’s actuary has performed any management functions or made any management decisions;  (B) The insurer has competent personnel (or engages a third party actuary) to estimate the reserves for which management takes responsibility; and  (C) The accountant’s actuary tests the reasonableness of the reserves after the insurer’s management has determined the amount of the reserves;  (e) Internal audit outsourcing services;  (f) Management functions or human resources;  (g) Broker or dealer, investment adviser or investment banking services;  (h) Legal services or expert services unrelated to the audit; or  (i) Any other services that the Director has determined by rule to be impermissible.  (9) In general, the principles of independence with respect to services provided by a qualified independent certified public accountant are largely predicated on three basic principles, violations of which would impair the accountant’s independence. The principles are that the accountant cannot function in the role of management, cannot audit the accountant’s own work, and cannot serve in an advocacy role for the insurer.  (10) An insurer having direct written and assumed premiums of less than $100,000,000 in any calendar year may request an exemption from section (8) of this rule. The insurer shall file with the Director a written statement discussing the reasons why the insurer should be exempt from these provisions. If the Director finds, upon review of this statement, that compliance with section (8) of this rule would constitute a financial or organizational hardship upon the insurer, the Director may grant an exemption.  (11) A qualified independent certified public accountant who performs the audit may engage in other non-audit services, including tax services, that are not described in section (8) of this rule and that do not conflict with section (9) of this rule only if the activity is approved in advance by the audit committee in accordance with section (12) of this rule.  (12) All auditing services and non-audit services provided to an insurer by a qualified independent certified public accountant of the insurer shall be preapproved by the audit committee. The preapproval requirement is waived with respect to non-audit services if the insurer is a SOX Compliant Entity or a direct or indirect wholly-owned subsidiary of a SOX Compliant Entity or:  (a) The aggregate amount of all such non-audit services provided to the insurer constitutes not more than five percent of the total amount of fees paid by the insurer to its qualified independent certified public accountant during the fiscal year in which the non-audit services are provided;  (b) The services were not recognized by the insurer at the time of the engagement to be non-audit services; and  (c) The services are promptly brought to the attention of the audit committee and approved prior to the completion of the audit by the audit committee or by one or more members of the audit committee who are the members of the board of directors to whom authority to grant such approvals has been delegated by the audit committee.  (13) The audit committee may delegate to one or more designated members of the Audit committee the authority to grant the preapprovals required by section (12) of this rule. The decisions of any member to whom this authority is delegated shall be presented to the full audit committee at each of its scheduled meetings.  (14)(a) The Director may not recognize an independent certified public accountant as qualified for a particular insurer if a member of the board, president, chief executive officer, controller, chief financial officer, chief accounting officer or any person serving in an equivalent position for that insurer was employed by the independent certified public accountant and participated in the audit of that insurer during the one-year period preceding the date that the most current statutory opinion is due. This section applies only to partners and senior managers involved in the audit. An insurer may apply to the Director for relief from the requirement of this subsection on the basis of unusual circumstances.  (b) The insurer shall file with its annual statement filing the approval for relief from subsection (a) of this section with the states that it is licensed in or doing business in and with the NAIC. If the nondomestic state accepts electronic filing with the NAIC, the insurer shall file the approval in an electronic format acceptable to the NAIC.  [Publications: Publications referenced are available from the agency.] 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 731.244 & 731.488 
+ 
+ 
+ Statutes/Other Implemented:  ORS 731.488 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ ID 11-2008, f. & cert. ef. 7-29-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ID 9-2008, f. 6-30-08, cert. ef. 7-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ID 22-2002, f. & cert. ef. 11-27-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ID 17-2002, f. & cert. ef. 7-11-02 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ Reverted to ID 4-1992, f. & cert. ef. 3-26-92 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ID 2-2002(Temp), f. & cert. ef. 1-15-01 thru 7-5-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ID 4-1992, f. & cert. ef. 3-26-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

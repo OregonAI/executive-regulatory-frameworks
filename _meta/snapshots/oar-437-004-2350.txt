@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Oregon Occupational Safety and Health Division - Chapter 437 
+ 
+ 
+ 
+ 
+ Division 4 AGRICULTURE 
+ 437-004-2350 
+ Oxygen-Fuel Gas Welding and Cutting 
+ 
+ (1) Scope. This subdivision applies to agricultural welding, except the following types that are covered by Subdivision 2/Q:  (a) Production type or amount of welding.  (b) Welding in confined spaces like tanks, vats, pits, or those defined in 4/J, OAR 437-004-1250(1). This section (4/Q) covers some confined space welding topics. In those cases, follow this section in addition to the rules in 2/Q.  (c) Welding with toxic or dangerous coatings or fluxes. This includes manganese, lead, zinc, cadmium, mercury, beryllium, or fluorine compounds.  (d) Welding or heating galvanized materials.  (2) General requirements.  (a) Flammable mixture. Do not use any device or attachment, not approved for the purpose, that allows air or oxygen to mix with flammable gases prior to consumption, except at the burner or in a standard torch.  (b) Maximum pressure. Never generate (except in approved cylinder manifolds), pipe or use acetylene at a pressure in excess of 15 p.s.i.g. (103 kPa gauge pressure) or 30 p.s.i.a. (206 kPa absolute). (The 30 p.s.i.a (206 kPa absolute) limit is to prevent unsafe use of acetylene in pressurized chambers such as caissons, underground excavations or tunnel construction.) This requirement does not apply to storage of acetylene dissolved in a suitable solvent in cylinders manufactured and maintained according to U.S. Department of Transportation requirements, or to acetylene for chemical use. Never use liquid acetylene for any purpose.  (c) Apparatus. Use only approved apparatus such as torches, regulators or pressure-reducing valves.  (3) Cylinders and containers.  (a) Approval and marking.  (A) DOT. All portable cylinders used for the storage and shipment of compressed gases must meet regulations of the U.S. Department of Transportation, 49 CFR parts 171–179.  (B) Markings. Compressed gas cylinders must have legible markings that identify the gas content. They must show either the chemical or the trade name of the gas. These markings must not be easily removable. If possible, the marking must be on the shoulder of the cylinder and conform to the American National Standard Method for Marking Portable Compressed Gas Containers to Identify the Material Contained, ANSI/CGA C-4, 1990.  (C) Connections. Compressed gas cylinders must have connections that comply with the American National Standard Compressed Gas Cylinder Valve Outlet and Inlet Connections, ANSI/CGA V-1, 1987.  (D) Protection cap. All cylinders with a water weight capacity of more than 30 pounds (13.6 kg) must have a means of connecting a valve protection cap or a collar or recess to protect the valve.  (b) Storage of cylinders, General.  (A) No heat. Keep cylinders away from radiators and other sources of heat.  (B) Inside storage. Inside buildings, store cylinders in a well-protected, well-ventilated, dry location, at least 20 feet (6.1 m) from highly combustible materials such as oil or excelsior. Locate storage spaces where cylinders will not be knocked over or damaged by passing or falling objects. Do not keep cylinders in unventilated enclosures such as lockers and cupboards.  (C) Empties. Empty cylinders must have their valves closed.  (D) Caps. Valve protection caps must always be in place, hand-tight, except when cylinders are in use or connected for use.  (E) Secure. Securely lash cylinders in place when necessary to prevent them from falling.  (c) Fuel-gas cylinder storage. Store acetylene cylinders valve end up.  (d) Oxygen cylinder storage.  (A) Oxygen storage. Do not store oxygen cylinders:  (i) Near highly combustible material, especially oil and grease;  (ii) Near reserve stocks of carbide and acetylene or other fuel-gas cylinders, or any other substance likely to cause or accelerate fire.  (B) Not near fuel cylinders. Separate stored oxygen cylinders from fuel-gas cylinders or combustible materials (especially oil or grease), by at least 20 feet (6.1 m) or by a noncombustible barrier at least 5 feet (1.5 m) high with a fire-resistance rating of at least one-half hour.  (e) Operating procedures.  (A) No oil or grease. Cylinders, cylinder valves, couplings, regulators, hose, and apparatus must be free from oily or greasy substances. Do not handle oxygen cylinders or apparatus with oily hands or gloves. Never allow a jet of oxygen to strike an oily surface, greasy clothes, or enter a fuel oil or other storage tank.  (B) Handling cylinders.  (i) Do not drop cylinders or allow them to strike each other.  (ii) Do not use valve-protection caps to lift cylinders from one vertical position to another. Do not use bars under valves or valve-protection caps to pry cylinders loose when frozen to the ground or otherwise fixed.  (iii) Unless cylinders are secured on a special truck, remove regulators and install valve-protection caps, when provided, before cylinders are moved.  (iv) Cylinders without fixed hand wheels must have keys, handles or non-adjustable wrenches on valve stems while they are in service. In multiple cylinder installations a single key or handle is acceptable for each manifold.  (v) Close cylinder valves before moving cylinders.  (vi) Close cylinder valves when work is done.  (vii) Close valves of empty cylinders.  (viii) Keep cylinders far enough away from the actual welding or cutting operation so that sparks, hot slag, or flame will not reach them. Otherwise, provide fire-resistant shields.  (ix) Do not set cylinders where they might become part of an electric circuit. Never tap an electrode against a cylinder to strike an arc.  (x) Do not use cylinders as rollers or supports, whether full or empty.  (xi) Do not use cylinders with altered or defaced numbers and markings.  (xii) Only the gas supplier, may mix gases in a cylinder. Only the owner of the cylinder or person authorized by them, may refill a cylinder.  (xiii) Do not allow anybody to tamper with safety devices in cylinders or valves.  (xiv) Do not drop or roughly handle cylinders.  (xv) Unless connected to a manifold, do not use oxygen from a cylinder without first attaching an oxygen regulator to the cylinder valve. Before connecting the regulator to the cylinder valve, open the valve slightly for an instant and then close it. Always stand to one side of the outlet when opening the cylinder valve.  (xvi) Do not use a hammer or wrench to open cylinder valves. If opening the valve by hand doesn’t work, notify the supplier.  (xvii)(I) Do not repair or tamper with cylinder valves. Notify the supplier if you have trouble with a cylinder and follow their instructions as to its disposition.  (II) Do not remove the stem from a diaphragm-type cylinder.  (C) Attachments and use.  (i) Fuel-gas cylinders must have the valve end up when they are in use. Store and ship liquefied gases with the valve end up.  (ii) Before connecting a regulator to a cylinder valve, open the valve slightly and then close it immediately. Never crack a fuel-gas cylinder valve near other welding work or near sparks, flame, or other possible sources of ignition.  (iii) Before removing a regulator from a cylinder valve, close the cylinder valve and release the gas from the regulator.  (iv) There can be nothing on top of an acetylene cylinder when in use that may damage the safety device or interfere with the quick closing of the valve.  (v) If closing the valves will not stop leaks in cylinders and attachments, take them outdoors away from sources of ignition and allow them to slowly empty.  (vi) Put a warning near cylinders with leaking fuse plugs or other leaking safety devices. It must warn employees not to approach them with a lighted cigarette or other source of ignition. Plainly tag the cylinder and notify the supplier. Follow their instructions.  (vii) Do not tamper with safety devices.  (viii) Never use fuel-gas from cylinders through torches or other devices with shutoff valves without reducing the pressure through a suitable regulator attached to the cylinder valve or manifold.  (ix) Always open the cylinder valve slowly.  (x) Do not open an acetylene cylinder valve more than one and one-half turns of the spindle, and preferably no more than three-fourths of a turn.  (xi) If a cylinder takes a special wrench leave it in position on the stem of the valve while the cylinder is in use. For manifolded or coupled cylinders at least one such wrench must always be available for immediate use.  (xii) Do not use regulators with cracked, broken, or defective parts.  (xiii) Inspect union nuts and connectors on regulators before use. Do not use those with faulty seats.  (xiv) Before attaching the regulator to a cylinder, fully release the regulator’s pressure adjusting screw.  (xv) Close the cylinder valve and release the gas from the regulator before removing it from the cylinder.  (D) Blowpipes and torches.  (i) Approved backflow preventer or flashback preventers must be between the blowpipe or torch and the hoses.  (ii) Use only friction lighters, stationary pilot flames or other recognized sources of ignition to ignite torches. Do not use matches or other hand held open flames.  (iii) When welding or cutting stops for an extended period of time, for example, during the lunch break, overnight or longer:  (I) Close the oxygen and fuel-gas cylinder or manifold valves;  (II) Open torch valves momentarily to release all gas pressure from the hoses and then close them;  (III) Release the regulator pressure adjusting screws; and  (IV) When the welding or cutting stops for a few minutes, closing only the torch valves is acceptable.  (iv) Follow the manufacturer’s procedures for the sequence of operations in lighting, adjusting, and extinguishing blowpipe flames and connecting to the gas supply.  (v) Use a suitable cylinder truck, chain or steadying device to secure cylinders while in use.  (vi) Post signs conspicuously in fuel-gas storage areas. They must say, “DANGER — NO SMOKING, MATCHES OR OPEN LIGHTS,” or equivalent wording.  (vii) Acetylene gas must not contact unalloyed copper except in a blowpipe or torch.  (viii) Do not use oxygen in pneumatic tools, in oil preheating burners, to start internal-combustion engines, to blow out pipelines, to “dust” clothing or work, to create pressure, or for ventilation.  (ix) After connecting welding or cutting apparatus to oxygen and fuel-gas cylinders, or when starting to reuse the apparatus after a half hour or more, let each gas flow through its respective hose separately for a few seconds to purge the hose of any mixture of gases.  (x) Never put down a torch unless the oxygen and fuel-gas have been completely shut off at the torch.  NOTE: Regulation of manifolds, piping systems, acetylene generators and calcium carbide are found in Division 2, 1910.253.  [Publications: Publications referenced are available from the agency.] 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 654.025(2) & 656.726(3) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 654.001 - 654.295 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSHA 4-1998, f. 8-28-98, cert. ef. 10-1-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

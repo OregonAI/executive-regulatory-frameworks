@@ -1,0 +1,345 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 120 STANDARDS FOR PROTECTION AGAINST RADIATION 
+ 333-120-0320 
+ Respiratory Protection and Controls to Restrict Internal Exposure in Restricted Areas: Use of Individual Respiratory Protection Equipment
+ 
+ 
+ (1) If the licensee uses respiratory protection equipment to limit intakes pursuant to OAR 333-120-0310: 
+
+ (a) The licensee must use only respiratory protection equipment that is tested and certified or had certification extended by the National Institute for Occupational Safety and Health/Mine Safety and Health Administration (NIOSH/MSHA). 
+
+ (b) The licensee may use equipment that has not been tested or certified by NIOSH/MSHA, has not had certification extended by NIOSH/MSHA, or for which there is no schedule for testing or certification, the licensee must submit an application for authorized use of that equipment, including a demonstration by testing, or a demonstration on the basis of reliable test information, that the material and performance characteristics of the equipment are capable of providing the proposed degree of protection under anticipated conditions of use. 
+
+ (c) The licensee must implement and maintain a respiratory protection program that includes: 
+
+ (A) Air sampling sufficient to identify the potential hazard, permit proper equipment selection, and estimate doses; and 
+
+ (B) Surveys and bioassays, as appropriate, to evaluate actual intakes; and 
+
+ (C) Testing of respirators for operability immediately prior to each use; and 
+
+ (D) Written procedures regarding: 
+
+ (i) Monitoring, including air sampling and bioassays; 
+
+ (ii) Supervision and training of respirator users; 
+
+ (iii) Fit testing; 
+
+ (iv) Respirator selection; 
+
+ (v) Breathing air quality; 
+
+ (vi) Inventory and control; 
+
+ (vii) Storage, issuance, maintenance, repair, testing, and quality assurance of respiratory protection equipment; 
+
+ (viii) Recordkeeping; and 
+
+ (ix) Limitations on periods of respirator use and relief from respirator use; and 
+
+ (E) Determination by a physician prior to initial fitting and use of respirators, and at least every 12 months thereafter, that the individual user is physically able to use the respiratory protection equipment. 
+
+ (F) Fit testing, with fit factor greater than or equal to 10 times the APF for negative pressure devices, and a fit factor greater than or equal to 500 for any positive pressure, continuous flow, and pressure-demand devices, before the first field use of tight fitting, face-sealing respirators and periodically thereafter at a frequency not to exceed one year. Fit testing must be performed with the facepiece operating in the negative pressure mode. 
+
+ (d) The licensee must issue a written policy statement on respirator usage covering: 
+
+ (A) The use of process or other engineering controls, instead of respirators; and 
+
+ (B) The routine, nonroutine, and emergency use of respirators; and 
+
+ (C) The periods of respirator use and relief from respirator use. 
+
+ (e) The licensee must advise each respirator user that the user may leave the area at any time for relief from respirator use in the event of equipment malfunction, physical or psychological distress, procedural or communication failure, significant deterioration of operating conditions, or any other conditions that might require such relief. 
+
+ (f) The licensee must use equipment within limitations for type and mode of use and must provide proper visual, communication, low temperature work environments, the concurrent use of safety or radiological protection equipment and other special capabilities (such as adequate skin protection) when needed. The licensee must ensure equipment is used in such a way as not to interfere with the proper operation of the respirator. 
+
+ (2) In estimating exposure of individuals to airborne radioactive materials, the licensee or registrant may make allowance for respiratory protection equipment used to limit intakes pursuant to OAR 333-120-0310, provided that the following conditions, in addition to those in section (1) of this rule, are satisfied: 
+
+ (a) The licensee selects respiratory protection equipment that provides a protection factor (10 CFR Part 20 Appendix A to 20.1001 to 20.2401) greater than the multiple by which peak concentrations of airborne radioactive materials in the working area are expected to exceed the values specified in 10 CFR Part 20 Table 1, Column 3 of Appendix B to 20.1001 to 20.2401. If the selection of a respiratory protection device with a protection factor greater than the peak concentration is inconsistent with the goal specified in OAR 333-120-0310 of keeping the total effective dose equivalent ALARA, the licensee or registrant may select respiratory protection equipment with a lower protection factor only if such a selection would result in keeping the total effective dose equivalent ALARA. The concentration of radioactive material in the air that is inhaled when respirators are worn may be initially estimated by dividing the average concentration in air, during each period of uninterrupted use, by the protection factor. If the exposure is later found to be greater than estimated, the corrected value must be used; if the exposure is later found to be less than estimated, the corrected value may be used; and 
+
+ (b) The licensee must obtain authorization from the Authority before assigning respiratory protection factors in excess of those specified in 10 CFR Part 20 Appendix A to 20.1001 to 20.2401. The Authority may authorize a licensee to use higher protection factors on receipt of an application that: 
+
+ (A) Describes the situation for which a need exists for higher protection factors; and 
+
+ (B) Demonstrates that the respiratory protection equipment provides these higher protection factors under the proposed conditions of use. 
+
+ (3) The licensee must use as emergency devices only respiratory protection equipment that has been specifically certified or had certification extended for emergency use by NIOSH/MSHA. 
+
+ (4) The licensee must notify the Authority, in writing, at least 30 days before the date that respiratory protection equipment is first used under the provisions of either sections (1) or (2) of this rule. 
+
+ (5) Standby rescue persons are required whenever one-piece atmosphere-supplying suits, or any combination of supplied air respiratory protection device and personnel protective equipment are used from which an unaided individual would have difficulty extricating himself or herself. The standby persons must be equipped with respiratory protection devices or other apparatus appropriate for the potential hazards. The standby rescue persons must observe or otherwise maintain continuous communication with the workers (visual, voice, signal line, telephone, radio, or other suitable means), and be immediately available to assist them in case of a failure of the air supply or for any other reason that requires relief from distress. A sufficient number of standby rescue persons must be immediately available to assist all users of this type of equipment and to provide effective emergency rescue if needed. 
+
+ (6) Atmosphere-supplying respirators must be supplied with respirable air of grade D quality or better as defined by the Compressed Gas Association in publication G-7.1, "Commodity Specification for Air," 1997. Grade D quality air criteria include: 
+
+ (a) Oxygen content (v/v) of 19.5-23.5 percent; 
+
+ (b) Hydrocarbon (condensed) content of five milligrams per cubic meter of air or less; 
+
+ (c) Carbon monoxide (CO) content of 10 ppm or less; 
+
+ (d) Carbon dioxide content of 1,000 ppm or less; and 
+
+ (e) Lack of noticeable odor. 
+
+ (7) The licensee must ensure that no objects, materials or substances, such as facial hair, or any conditions that interfere with the facepiece seal or valve function, and that are under the control of the respirator wearer, are present between the skin of the wearer’s face and the sealing surface of a tight-fitting respirator facepiece. 
+
+ (8) In estimating the dose to individuals from intake of airborne radioactive materials, the concentration of radioactive material in the air that is inhaled when respirators are worn is initially assumed to be the ambient concentration in air without respiratory protection, divided by the assigned protection factor. If the dose is later found to be greater than the estimated dose, the corrected value must be used. If the dose is later found to be less than the estimated dose, the corrected value may be used. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 453.635 
+ 
+ 
+ Statutes/Other Implemented:  ORS 453.605 - 453.807 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 16-2019, amend filed 09/19/2019, effective 09/19/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 234-2018, amend filed 08/02/2018, effective 08/16/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 14-2008, f. & cert. ef. 9-15-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 4-2007, f. & cert. ef. 3-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 12-2006, f. & cert. ef. 6-16-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 36-2004, f. & cert. ef. 12-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 31-2004(Temp), f. & cert. ef. 10-8-04 thru 4-5-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 3-2003, f. & cert. ef. 3-27-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 15-1994, f. & cert. ef. 5-6-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

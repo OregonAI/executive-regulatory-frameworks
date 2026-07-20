@@ -1,0 +1,356 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 116 USE OF RADIONUCLIDES IN THE HEALING ARTS 
+ 333-116-1000 
+ Report and Notification of a Medical Event
+ 
+ 
+ (1) A licensee must report any medical event, except for an event that results from patient intervention, in which: 
+
+ (a) The administration of byproduct material or radiation from byproduct material, except permanent implant brachytherapy, results in: 
+
+ (A) A dose that differs from the prescribed dose or dose that would have resulted from the prescribed dosage by more than 0.05 Sv (5 rem) effective dose equivalent, 0.5 Sv (50 rem) to an organ or tissue, or 0.5 Sv (50 rem) shallow dose equivalent to the skin; or 
+
+ (i) The total dose delivered differs from the prescribed dose by 20 percent or more; 
+
+ (ii) The total dosage delivered differs from the prescribed dosage by 20 percent or more or falls outside the prescribed dosage range; or 
+
+ (iii) The fractionated dose delivered differs from the prescribed dose for a single fraction by 50 percent or more. 
+
+ (B) A dose that exceeds 0.05 Sv (5 rem) effective dose equivalent, 0.5 Sv (50 rem) to an organ or tissue, or 0.5 Sv (50 rem) shallow dose equivalent to the skin from any of the following: 
+
+ (i) An administration of a wrong radioactive drug containing byproduct material or the wrong radionuclide for a brachytherapy procedure; 
+
+ (ii) An administration of a radioactive drug containing byproduct material by the wrong route of administration; 
+
+ (iii) An administration of a dose or dosage to the wrong individual or human research subject; 
+
+ (iv) An administration of a dose or dosage delivered by the wrong mode of treatment; or 
+
+ (v) A leaking sealed source. 
+
+ (C) A dose to the skin or an organ or tissue other than the treatment site that exceeds by: 
+
+ (i) 0.5 Sv (50 rem) or more the expected dose to that site from the procedure if the administration had been given in accordance with the written directive prepared or revised before administration; and 
+
+ (ii) 50 percent or more the expected dose to that site from the procedure if the administration had been given in accordance with the written directive prepared or revised before administration. 
+
+ (b) For permanent implant brachytherapy, the administration of byproduct material or radiation from byproduct material (excluding sources that were implanted in the correct site but migrated outside the treatment site) that results in: 
+
+ (A) The total source strength administered differing by 20 percent or more from the total source strength documented in the post-implantation portion of the written directive; 
+
+ (B) The total source strength administered outside of the treatment site exceeding 20 percent of the total source strength documented in the post-implantation portion of the written directive; or 
+
+ (C) An administration of a source that includes any of the following: 
+
+ (i) The wrong radionuclide; 
+
+ (ii) The wrong individual or human research subject; 
+
+ (iii) Sealed source(s) implanted directly into a location discontiguous from the treatment site, as documented in the post-implantation portion of the written directive; or 
+
+ (iv) A leaking sealed source resulting in a dose that exceeds 0.5 Sv (50 rem) to an organ or tissue. 
+
+ (2) A licensee shall report any event resulting from intervention of a patient or human research subject where the administration of byproduct material or radiation from byproduct material results or will result in unintended permanent functional damage to an organ or a physiological system, as determined by a physician. 
+
+ (3) The licensee must notify by telephone the Oregon Health Authority (Authority) no later than the next calendar day after discovery of the medical event. 
+
+ (4) The licensee must submit a written report to the Authority within 15 days after discovery of the medical event. 
+
+ (a) The written report must include: 
+
+ (A) The licensee's name; 
+
+ (B) The name of the prescribing physician; 
+
+ (C) A brief description of the event; 
+
+ (D) Why the event occurred; 
+
+ (E) The effect, if any, on the individual(s) who received the administration; 
+
+ (F) What actions, if any, have been taken or are planned to prevent recurrence; and 
+
+ (G) Certification that the licensee notified the individual (or the individual's responsible relative or guardian), and if not, why not. 
+
+ (b) The report may not contain the individual's name or any other information that could lead to identification of the individual. 
+
+ (5) The licensee must provide notification of the event to the referring physician and also notify the individual who is the subject of the medical event no later than 24 hours after its discovery, unless the referring physician personally informs the licensee either that they will inform the individual or that, based on medical judgment, telling the individual would be harmful. The licensee is not required to notify the individual without first consulting the referring physician. If the referring physician or the affected individual cannot be reached within 24 hours, the licensee must notify the individual as soon as possible thereafter. The licensee may not delay any appropriate medical care for the individual, including any necessary remedial care as a result of the medical event, because of any delay in notification. To meet the requirements of this rule, the notification of the individual who is the subject of the medical event may be made instead to that individual's responsible relative or guardian. If a verbal notification is made, the licensee must inform the individual, or appropriate responsible relative or guardian that a written description of the event can be obtained from the licensee upon request. The licensee must provide such a written description if requested. 
+
+ (6) Aside from the notification requirement, nothing in this rule affects any rights or duties of licensees and physicians in relation to each other, to individuals affected by the medical event, or to that individual's responsible relatives or guardians. 
+
+ (7) A licensee shall: 
+
+ (a) Maintain a copy of the report described in section (4) of this rule and annotate as follows: 
+
+ (A) Name of the individual who is the subject of the event; and 
+
+ (B) Identification number, or if no other identification number is available, the Social Security number of the individual who is the subject of the event. 
+
+ (b) Provide a copy of the annotated report to the referring physician, if other than the licensee, no later than 15 days after the discovery of the event. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 453.635 
+ 
+ 
+ Statutes/Other Implemented:  ORS 453.605 - 453.807 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 28-2026, amend filed 07/02/2026, effective 07/02/2026 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 55-2023, amend filed 12/14/2023, effective 12/20/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 3-2023, amend filed 01/17/2023, effective 01/18/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 81-2021, amend filed 11/19/2021, effective 11/23/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 89-2018, minor correction filed 02/01/2018, effective 02/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 25-2016, f. 8-26-16, cert. ef. 9-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 10-2011, f. 9-30-11, cert. ef. 10-1-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 4-2007, f. & cert. ef. 3-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 12-2006, f. & cert. ef. 6-16-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

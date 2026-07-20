@@ -1,0 +1,638 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Aging and People with Disabilities and Developmental Disabilities - Chapter 411 
+ 
+ 
+ 
+ 
+ Division 320 COMMUNITY DEVELOPMENTAL DISABILITIES PROGRAM 
+ 411-320-0020 
+ Definitions and Acronyms for Community Developmental Disabilities Programs (CDDPs)
+ 
+ 
+ In addition to the following definitions and acronyms, OAR 411-317-0000 includes general definitions for words and terms frequently used in OAR chapter 411, division 320. If a word or term is defined differently in OAR 411-317-0000, the definition in this rule applies. 
+(1) "ABAS" means Adaptive Behavior Assessment System. 
+(2) "ABES" means Adaptive Behavior Evaluation Scale. 
+(3) "Adaptive Behavior" means the degree to which an individual meets the standards of personal independence and social responsibility expected for age and culture group. Other terms used to describe adaptive behavior include, but are not limited to, adaptive impairment, ability to function, daily living skills, and adaptive functioning. Adaptive behaviors are everyday living skills including, but not limited to, walking (mobility), talking (communication), getting dressed or toileting (self-care), going to school or work (community use), and making choices (self-direction). 
+(a) Adaptive behavior is measured by normed, standardized tests administered by a licensed clinical psychologist, school psychologist, doctor of medicine, or doctor of osteopathic medicine, with specific training and experience in test interpretation of adaptive behavior scales for individuals with intellectual or developmental disabilities. An assessment of adaptive behavior is used to determine if a person has significant impairment in adaptive behavior as required in eligibility criteria OAR 411-320-0080(3) and (4), and support similar to intellectual disability as required in OAR 411-320-0080(4), Assessments of adaptive behavior include the following: 
+(A) Adaptive Behavior Assessment System (ABAS); 
+(B) Adaptive Behavior Evaluation Scale (ABES); 
+(C) Vineland Adaptive Behavior Scale (VABS); or 
+(D) Other assessments approved by the Department that are designed to measure adaptive behavior, standardized and normed to a population consistent with people who experience an intellectual or developmental disability.  
+(b) DOMAIN SCORES. Adaptive behavior domain scores are identified on the following assessments of adaptive behavior: 
+(A) The ABAS and ABES are: 
+(i) Conceptual; 
+(ii) Practical; and 
+(iii) Social. 
+(B) The VABS are: 
+(i) Socialization; 
+(ii) Daily living skills; 
+(iii) Communication; and 
+(iv) Motor. 
+(c) COMPOSITE SCORE. The adaptive behavior composite score is the overall score which results from summing two or more domain scores on a given assessment of adaptive behavior. 
+(d) SKILLED AREAS. Skilled areas are a particular assessed score. The skilled areas on the ABAS or ABES are the only skilled areas used for the purposes of OAR 411-320-0080 and include scaled scores in: 
+(A) Communication; 
+(B) Functional academics; 
+(C) Self-direction; 
+(D) Leisure; 
+(E) Social; 
+(F) Community use; 
+(G) Home and school living; 
+(H) Self-care; 
+(I) Health and safety; and 
+(J) Work. 
+(e) "Significant impairment" in adaptive behavior means: 
+(A) A composite score of at least two standard deviations below the norm; or 
+(B) Two or more domain scores, as identified in subsection (b) of this section, are at least two standard deviations below the norm; or 
+(C) Two or more skilled areas, as identified in subsection (d) of this section, are at least two standard deviations below the norm. 
+(f) “Support similar” means a person with a developmental disability has an adaptive behavior assessment score that is either: 
+(A) A composite score of at least two standard deviations below the norm; or 
+(B) One domain score, as identified in subsection (b) of this section, at least two standard deviations below the norm. 
+(4) “Application” means, for the purposes of an eligibility determination, the intake application for developmental disabilities services (form 0552).   
+(5) “Assessor” as defined in OAR 411-317-0000. 
+(6) "CAM" means "Centralized Abuse Management" as defined in OAR 411-317-0000. 
+(7) "CDDP" means "Community Developmental Disabilities Program" as defined in OAR 411-317-0000. 
+(8) "CIIS" means "Children's Intensive In-Home Services" as defined in OAR 411-317-0000 and described in OAR chapter 411, division 300. 
+(9) "CMS" means "Centers for Medicare and Medicaid Services" as defined in OAR 411-317-0000. 
+(10) "Completed Application" means, for the purposes of an eligibility determination, an application required by the Department that: 
+(a) Is filled out accurately based on individual information and is signed and dated by the applicant or their legal representative. An applicant who is unable to sign may sign with a mark, witnessed by another person; and 
+(b) Contains all documentation required to make an eligibility determination as outlined in OAR 411-320-0080. 
+(11) "Composite Score" means the score identified by an assessment of adaptive behavior as described in the definition for "adaptive behavior". 
+(12) "County of Origin" means: 
+(a) For an adult, the adult’s county of residence; and 
+(b) For a child, the county where the jurisdiction of legal guardianship exists. 
+(13) "Current Documentation" means, for the purposes of an eligibility determination, documentation that is less than three years old from the date of the application (form 0552) or Notice of Redetermination (form 5101), that relates  to a person’s intellectual or developmental disabilities. Current documentation may include, but is not limited to, records such as: 
+(a) Individual Support Plans or Annual Plans.  
+(b) Positive Behavior Support Plans. 
+(c) Required assessments.  
+(d) Educational records.  
+(e) Medical assessments related to a person’s intellectual or developmental disabilities.  
+(f) Psychological evaluations.  
+(g) Assessments of adaptive behavior. 
+(14) "Developmental Disability" means a neurological condition that: 
+(a) Originates before an individual is 22 years of age; 
+(b) Originates in and directly affects the brain and has continued, or is expected to continue, indefinitely; 
+(c) Constitutes significant impairment in adaptive behavior as diagnosed and measured by a qualified professional as described in OAR 411-320-0080; 
+(d) Is not primarily attributed to other conditions including, but not limited to, a mental  disorder, sensory impairment, motor impairment, substance use, personality disorder, learning disability, or Attention Deficit Hyperactivity Disorder (ADHD); and 
+(e) Requires training and support similar to an individual with an intellectual disability as described in OAR 411-320-0080. 
+(15) "Domain Score" means the score identified by an assessment of adaptive behavior as described in the definition for "adaptive behavior". 
+(16) "Eligibility Determination" means the decision by a CDDP or the Department regarding the eligibility of a person for developmental disabilities services according to OAR 411-320-0080. and is either a decision that a person is eligible, presumptively eligible, or ineligible for developmental disabilities services. 
+(17) "Eligibility Specialist" means an employee of the CDDP, or other agency that contracts with the county or Department, that determines eligibility for developmental disabilities services. 
+(18) "FSIQ" means the full-scale intelligence quotient. FSIQ is a broad measure of intelligence achieved through administration of a standardized intelligence test that is accepted by the Department for an eligibility determination. Any standard error of measurement value is not taken into consideration when making an eligibility determination. FSIQs obtained from administration of brief intelligence tests are not considered valid FSIQ scores when making an eligibility determination. 
+(19) "Health Systems Division (HSD) Medical Programs" as defined in OAR 410-200-0015. 
+(20) "History" means, for the purposes of an eligibility determination, records from the developmental years, as described in OAR 411-320-0080,  that include necessary and consistent evidence confirming intellectual disability before age 18 or developmental disability before age 22.   
+(21) "IEP" means "Individualized Education Program" as defined in OAR 411-317-0000. 
+(22) "Indefinitely" means, for the purposes of an eligibility determination, a condition or impairment that is likely to be permanent, as determined by the Department. For intellectual and developmental disabilities, this means the condition and impairment begins in childhood and is lifelong.   
+(23) "Informal Adaptive Behavior Assessment" means: 
+(a) Documentation of impairment in adaptive behavior recorded on a form identified by the Department and in an individual’s progress notes, completed by a services coordinator, personal agent, Oregon Needs Assessment certified assessor, or a trained eligibility specialist, with at least two years of experience working with individuals with intellectual or developmental disabilities; or 
+(b) A standardized measurement of adaptive behavior, such as a Vineland Adaptive Behavior Scale (VABS) or Adaptive Behavior Assessment System (ABAS), that is administered and scored by a social worker or other professional with a graduate degree and specific training and experience in individual assessment, administration, and test interpretation of adaptive behavior scales for individuals with intellectual or developmental disabilities. 
+(24) "Intake" means completing an eligibility interview, either in-person, virtually, or by phone, with the CDDP and the applicant or their legal representative, based on applicant’s preference, to complete or review the application (form 0552) and necessary releases of information.   
+(25) "Intellectual Disability (ID)" means full-scale intelligence quotients (FSIQs) 70 and under, as measured by a qualified professional, and existing concurrently with significant impairment in adaptive behavior directly related to an intellectual disability as described in OAR 411-320-0080 that manifested prior to an individual’s 18th birthday. An individual with a diagnosis of intellectual disability that manifested prior to the individual’s 18th birthday and who has a valid FSIQ of 71-75, may be considered to have an intellectual disability if the individual also has significant impairment in adaptive behavior directly related to the intellectual disability as measured by a licensed clinical or school psychologist and diagnosed by a qualified professional, as described in OAR 411-320-0080. 
+(26) "Intellectual Functioning" means functioning as assessed by one or more of the individually administered general intelligence tests developed for the purpose of measuring intelligence.  
+(27) "Intelligence Tests": 
+(a) Approved by the Department include: 
+(A) Wechsler Intelligence Scales. 
+(B) Stanford-Binet Intelligence Scale. 
+(C) Woodcock-Johnson Test of Cognitive Abilities. 
+(D) Any other intelligence assessment approved by the Department designed to measure intelligence quotients, standardized and normed to a population consistent with people who experience an intellectual or developmental disability.  
+(b) Brief measures of intelligence quotients are not accepted, or tests that only administer part of a full assessment when all parts are required for validity. Examples of brief tests include, but are not limited to, the Kaufman Brief Intelligence Test (K-BIT) or Weschler Abbreviated Scale of Intelligence (WASI).  
+(28) "IQ" means intelligence quotient. 
+(29) "ISP" means "Individual Support Plan" as defined in OAR 411-317-0000. 
+(30) "Learning Disability" means a condition that interferes with development of academic skills. Learning disability includes, but is not limited to: 
+(a) Communication disorder.  
+(b) Dyslexia.  
+(c) Dysgraphia.  
+(d) Dyscalculia.  
+(e) Language disorder.  
+(f) Fluency disorder.  
+(g) Non-verbal learning disorder.  
+(h) Specific auditory or processing disorder.  
+(i) Social pragmatic communication disorder.  
+(j) Specific learning disorder.  
+(k) Speech sound disorder. 
+(31) “Legal Representative” as defined in OAR 411-317-0000. 
+(32) "Licensed Medical Practitioner" means any of the following licensed professionals: 
+(a) Medical Doctor (MD). 
+(b) Doctor of Osteopathic Medicine (DO). 
+(c) Licensed Clinical Psychologist (Ph.D. or Psy.D.). 
+(d) Nurse Practitioner (NP). 
+(e) Physician Associate (PA). 
+(f) Naturopathic Doctor (ND). 
+(33) "Military Service" means service in the Armed Forces of the United States, as defined in ORS 341.496. 
+(34) "Motor Impairment" means impairment in the ability to move all or parts of an individual’s body caused by trauma, disease, or any condition affecting the muscular-skeletal system, spinal cord, or sensory or motor nerves. The disability may interfere with the development or function of the bones, muscles, joints, and central nervous system.  
+(a) Physical characteristics may include:  
+(A) Paralysis;  
+(B) Altered muscle tone;  
+(C) Unsteady gait;  
+(D) Loss of, or inability to use, one or more limbs;  
+(E) Difficulty with gross-motor skills such as walking or running; or  
+(F) Difficulty with fine-motor skills such as buttoning clothing, printing, or writing.  
+(b) Motor impairment includes, but is not limited to:   
+(A) Ataxia.  
+(B) Developmental coordination disorder.  
+(C) Dyspraxia.  
+(D) Motor learning difficulty.  
+(E) Muscular dystrophy.  
+(F) Involuntary or stereotypic movement disorders. 
+(35) "Neurological Condition" means a condition that originates in and directly affects the brain, leads to delays in achieving expected milestones, and is likely to cause lifelong impairments of personal, social, academic, and occupational functioning.  
+(a) A condition does not originate in and directly affect the brain if the condition only causes abnormalities or changes of the spinal cord, peripheral nerves, autonomic nervous system, neuromuscular junction, cardiovascular system, or musculoskeletal system.  
+(b) Conditions that do not originate in and directly affect the brain include, but are not limited to:  
+(A) Muscular dystrophy.  
+(B) Spinal muscular atrophy.  
+(C) Non-shunted spina bifida.  
+(36) "Notice of Redetermination" means the redetermination of eligibility for developmental disabilities services (form 5101). 
+(37) "OSIPM" means "Oregon Supplemental Income Program-Medical" as defined in OAR 411-317-0000. 
+(38) "OTIS" means the Oregon Department of Human Services, Office of Training, Investigations, and Safety. 
+(39) "Qualified Professional" means, for the purposes of OAR 411-320-0080, any of the following licensed professionals trained to make a diagnosis of a specific intellectual or developmental disability: 
+(a) Licensed clinical psychologist (Ph.D., Psy.D.). 
+(b) Medical doctor (MD).  
+(c) Doctor of Osteopathic Medicine (DO). 
+(d) Nurse Practitioner (NP). 
+(40) "Quality Management Strategy" means the Department’s Quality Assurance Plan for meeting the Centers for Medicare and Medicaid Services:  
+(a) Waiver quality assurances as required and defined by 42 CFR 441.301 and 42 CFR 441.302; and  
+(b) State Plan K option quality assurances as required and defined by  42 CFR 441.570. 
+(41) “Request for Service” as defined in OAR 411-317-0000. 
+(42) "Resident" means a person that meets the Oregon residency requirements in OAR 461-120-0010. "Resident" includes a person that is absent due to military obligation, if the person intends to return to Oregon, and Oregon remains their principal establishment, home of record, or permanent home during the absence. 
+(43) “School-Aged” means the age at which an individual is old enough to attend Kindergarten through high school. 
+(44) "School-Age Testing" means a standardized test used for school services or supports that is administered to a child when the child is at least 5 years old. Schooling begins in Kindergarten.  
+(45) "Service Member" means a person who is in the military service or who has separated from military service in the previous 18 months through retirement, discharge, or other separation. 
+(46) “Services Coordinator” as defined in OAR 411-317-0000. 
+(47) "Significantly Subaverage" means a score on an intelligence test that is two or more standard deviations below the mean for the test. 
+(48) "Skilled Areas" means a particular assessed score as described in the definition for "adaptive behavior". 
+(49) "SSI" means Supplemental Security Income. SSI is administered by the Social Security Administration. 
+(50) "These Rules" mean the rules in OAR chapter 411, division 320. 
+(51) "VABS" means Vineland Adaptive Behavior Scale. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 409.050, 427.104, 427.105, 427.154, 430.662 & 430.731 
+ 
+ 
+ Statutes/Other Implemented:  ORS 409.010, 427.005, 427.101-427.105, 427.154, 430.215, 430.610, 430.620, 430.662, 430.664 & 430.731-430.768 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 15-2026, amend filed 06/30/2026, effective 07/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 43-2024, minor correction filed 07/16/2024, effective 07/16/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 4-2023, amend filed 04/28/2023, effective 05/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 45-2019, amend filed 10/29/2019, effective 11/01/2019 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 18-2019, amend filed 04/30/2019, effective 05/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 43-2018, temporary amend filed 12/18/2018, effective 12/18/2018 through 04/30/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 38-2018, temporary amend filed 11/07/2018, effective 11/08/2018 through 04/30/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 16-2016, f. 6-28-16, cert. ef. 6-29-16 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 36-2015(Temp), f. 12-31-15, cert. ef. 1-1-16 thru 6-28-16 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 41-2014, f. 12-26-14, cert. ef. 12-28-14 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 23-2014(Temp), f. & cert. ef. 7-1-14 thru 12-28-14 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 57-2013, f. 12-27-13, cert. ef. 12-28-13 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 22-2013(Temp), f. & cert. ef. 7-1-13 thru 12-28-13 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 31-2011, f. 12-30-11, cert. ef. 1-1-12 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 28-2010, f. 12-29-10, cert. ef. 1-1-11 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 6-2010(Temp), f. 6-29-10, cert. ef. 7-4-10 thru 12-31-10 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 5-2010, f. 6-29-10, cert. ef. 7-1-10 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 25-2009(Temp), f. 12-31-09, cert. ef. 1-1-10 thru 6-30-10 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 9-2009, f. & cert. ef. 7-13-09 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 5-2006, f. 1-25-06, cert. ef. 2-1-06 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 16-2005(Temp), f. & cert. ef. 11-23-05 thru 5-22-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 28-2004, f. & cert. ef. 8-3-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 24-2003, f. 12-29-03, cert. ef. 1-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

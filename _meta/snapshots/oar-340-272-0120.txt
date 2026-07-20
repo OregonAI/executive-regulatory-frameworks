@@ -1,0 +1,261 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 272 THIRD PARTY VERIFICATION 
+ 340-272-0120 
+ Requirements for Verification of GHG Reporting Program Emissions Data Reports Submitted under OAR Chapter 340, Division 215 
+ 
+ (1) Annual verification of GHG Reporting Program emissions data reports. 
+
+ (a) Applicability. The following persons must meet the requirements of this division and engage the services of a verification body for the purposes of annual verification of the entire emissions data report, including required site visit(s), for each separate emissions data report submitted under OAR chapter 340, division 215, except as otherwise provided under subsection (b): 
+
+ (A) A regulated entity that submits an emissions data report as described under OAR 340-215-0044(1) that indicates emissions equaled or exceeded 25,000 metric tons of CO2e, excluding CO2 from biomass-derived fuels. Third party verification applicability is based on the annual report at the time of the annual reporting deadline, regardless of whether later-submitted corrections decrease the reported emissions below the applicable 25,000 MT CO2e threshold 
+
+ (B) A third party that is not the Bonneville Power Administration (BPA) that registers and submits an emissions data report on behalf of a consumer-owned utility for emissions, data, and information submitted for each individual utility with emissions that equaled or exceeded 25,000 metric tons of CO2e, excluding CO2 from biomass-derived fuels and excluding emissions associated with preference power purchased from BPA; 
+
+ (C) A regulated entity that submitted an emissions data report that indicated emissions exceeded the threshold in paragraph (A) in the previous year, but that submits an emissions data report that indicates emissions are reduced below that applicability threshold in the current reporting year; 
+
+ (D) All regulated entities subject to the Climate Protection Program requirements described under OAR chapter 340, division 273, regardless of emissions reported; and 
+
+ (E) All regulated entities that are electric companies and electricity service suppliers as defined in ORS 757.600, regardless of emissions reported. 
+
+ (b) Exemptions. The following are not subject to the requirements of this division: 
+
+ (A) A regulated entity that is not an electric company and not subject to requirements under OAR chapter 340, division 215 and that submits an emissions data report as described under OAR 340-215-0044(1) that indicates emissions were less than 25,000 metric tons of CO2e, excluding CO2 from biomass-derived fuels. For the purposes of this rule, any GHG emissions in emissions data reports as described under OAR 340-215-0044(1)(c) submitted by fuel suppliers or in-state producers that are related entities or share full or partial common ownership or operational control must be aggregated together to determine whether or not the exemption applies; 
+
+ (B) An emissions data report as described under OAR 340-215-0044(1)(a) that includes emissions data and information described in 40 C.F.R. part 98 subpart HH – Municipal Solid Waste Landfills; 
+
+ (C) An emissions data report as described under OAR 340-215-0044(1)(d) submitted by a natural gas supplier that is an interstate pipeline; and 
+
+ (D) Any emissions data report as described under OAR 340-215-0044(1)(e) submitted by Bonneville Power Administration (BPA) acting as a third-party reporter on behalf of any consumer-owned utility, as allowable under OAR 340-215-0120(4). 
+
+ (c) Verification schedule. Responsible entities that are subject to the subsection (a) requirement to engage the services of a verification body to perform verification of emissions data reports must ensure a verification statement for each emissions data report is submitted to DEQ according to OAR 340-272-0100. 
+
+ (A) These requirements are in addition to the requirements in 40 C.F.R. 98.3(f). 
+
+ (B) An asset-controlling supplier that submitted an emissions data report to DEQ as described under OAR 340-215-0044(1)(f) that includes the same data and information reported to and verified under California ARB's Mandatory Reporting of Greenhouse Gas Emissions program may submit the same verification statement to DEQ. If an adverse verification statement is received, a current issues log must also be submitted to DEQ. 
+
+ (2) Cessation of verification requirement. 
+
+ (a) Responsible entities must have an emissions data report verified for the first year that the report indicates emissions are reduced below the applicability threshold defined in paragraph (1)(a)(A). An emissions data report is not subject to verification in any following year thereafter where emissions remain below the threshold. 
+
+ (b) A responsible entity that meets the verification cessation requirements for two consecutive years must notify DEQ in writing in the second year that it is ceasing the verification requirement according to this paragraph and provide the reason(s) for cessation of verification. The notification must be submitted no later than the applicable reporting deadline under OAR chapter 340, division 215 for that year. 
+
+ (c) If in any subsequent year after meeting verification cessation requirements an emissions data report meets the applicability requirements of subsection (1)(a), the responsible entity must have the emissions data report verified according to the requirements of this division, and verification must continue until the cessation requirement is met again. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, 468A.050 & 468A.280 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468A.010, 468A.015, 468A.050 & 468A.280 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 7-2025, minor correction filed 02/21/2025, effective 02/21/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 2-2025, amend filed 01/09/2025, effective 01/09/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 18-2024, amend filed 11/22/2024, effective 11/22/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 17-2023, amend filed 11/16/2023, effective 11/16/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 14-2020, adopt filed 05/07/2020, effective 05/07/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

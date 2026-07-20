@@ -1,0 +1,196 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of State Police 
+ Chapter 257 
+ 
+ 
+ 
+ 
+ 
+ Division 15 LAW ENFORCEMENT DATA SYSTEM (LEDS) 
+ 257-015-0050 
+ User Responsibilities
+ 
+ 
+ (1) “User Agreement” — Any agency using a terminal to access the Law Enforcement Data System, whether directly or through another agency, is responsible for adhering to all applicable LEDS rules and policies and must sign an agreement with LEDS to that effect. 
+
+ (2) “Record Validation” — Any agency that enters information into LEDS or NCIC files is responsible for the accuracy, timeliness and completeness of that information. LEDS will send a record validation review list, regularly, to each agency. Validation is accomplished by reviewing the original entry and current supporting documents. Recent reconsultation with any appropriate complainant, victim, prosecutor, court, motor vehicle registry files, or other appropriate source or individual also is required with respect to the Wanted Person, Missing Person, and Vehicle Files. In the event the agency is unsuccessful in its attempts to contact the victim, complainant, etc., the entering authority must make a determination based on the best information and knowledge available whether or not to retain the original entry in the file. Validation procedures must be formalized and copies of these procedures must be on file for review during a LEDS or NCIC audit. When the agency has completed the validation they must return a signed certification of their validity within an appropriate time as established by LEDS. 
+
+ (3) “Minimum Training” — Each agency employee who operates a terminal to access the LEDS network must complete a LEDS System Training Guide at a level consistent with the employee’s duties. Pursuant to procedures outlined in the LEDS Operating Manual, the agency LEDS Representative must issue a Training Guide to such employees within ten (10) calendar days of the person beginning to access LEDS via a terminal. The Training Guide must be completed within 60 calendar days from the date of issue. Each employee who operates a terminal to access LEDS must be re-certified by the agency every two years per schedules and procedures as prescribed by LEDS. 
+
+ (4) “Hit Confirmation” — When another agency receives a positive record response (Hit) from LEDS or NCIC and requests confirmation of the status of the record (warrant, stolen vehicle, etc.), the agency responsible for entry of the record must respond within 10 minutes for urgent hit confirmation requests or within one (1) hour for routine hit confirmation requests, with an answer indicating the status of the record or indicating when the record status will be confirmed. 
+
+ (5) “Agency LEDS Representatives” — The agency administrator of each agency with terminal access to LEDS must designate an agency LEDS Representative who shall be the primary contact for all matters relating to use of LEDS by the agency. The agency LEDS Representative must complete the LEDS System Training Guide before a training guide will be issued to other agency employees. The agency LEDS Representative must complete a LEDS System Training Guide at the highest level required by any person in the agency before a training guide will be issued to other agency personnel. Every LEDS Representative must satisfactorily complete no less than the Inquiry Level Training Guide. 
+
+ (6) “Background Checks of Terminal Operators Required” — Policies for access to the FBI-NCIC system require background screening of all terminal operators with access to the NCIC system. For efficiency and consistency, the key elements of the NCIC background screening policies are also adopted for all LEDS access, as follows: 
+
+ (a) Appropriate Background investigations, including a check of LEDS and NCIC fugitive warrant files, the Oregon computerized criminal history (CCH) system, and the FBI Interstate Identification Index (III), must be conducted on all terminal operators with LEDS access. To assure positive identification, submission of a completed applicant fingerprint card to the FBI Identification Division through the Oregon State Police Identification Services Section is also required; 
+
+ (b) If the applicant is found to be a fugitive or to be the subject of a current prosecution, access will be denied. If the applicant has been convicted of a crime which could have resulted in a sentence to a Federal or State penitentiary, access will be denied; 
+
+ (c) Exceptions to denials based upon prior criminal convictions may be made in extraordinary circumstances upon application by the user agency to the Superintendent of State Police setting forth the circumstances. The Superintendent or his/her designee will maintain a central file where such exception authorizations shall be filed. 
+
+ [Publications: Publications referenced are available from the agency.] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 181A.280(3) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 181A.280 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSP 17-2019, minor correction filed 01/03/2019, effective 01/03/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OSP 1-1995, f. & cert. ef. 8-15-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

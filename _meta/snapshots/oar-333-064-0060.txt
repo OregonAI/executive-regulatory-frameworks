@@ -1,0 +1,420 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 64 ACCREDITATION OF LABORATORIES 
+ 333-064-0060 
+ Fee Schedule
+ 
+ 
+ Fees will be charged to Oregon and out-of-state laboratories according to the following schedule. A mobile category 2 laboratory that operates as an entity of an Oregon fixed base facility will be considered an in-state laboratory, and one that does not operate as an entity of an Oregon fixed base facility will be considered an out-of-state laboratory. Mobile category 1 laboratories are covered under the parent fixed laboratory’s accreditation and are not required to pay an additional fee. Mobile category 2 laboratories require separate accreditation and are accredited to their vehicle identification numbers (VIN). 
+
+ (1) A non-refundable application fee must be paid for each application requesting accreditation for methods. 
+
+ (a) For laboratories located in Oregon, one of five levels of fees, Tier 1 at $1,200, Tier 2 at $2,200, Tier 3 at $3,400, Tier 4 at $4,600, and Tier 5 at $5,800 will be charged. The Tiers will be determined by the total number of points derived from the number of fields of accreditation requested for accreditation listed in subsections (2)(a) through (c) of this rule. 
+
+ (A) Each Basic Field of Accreditation has a multiplier of 1. 
+
+ (B) Each Moderate Field of Accreditation has a multiplier of 3. 
+
+ (C) Each Complex Field of Accreditation has a multiplier of 5. 
+
+ (D) Each Advanced Technology Field of Accreditation has a multiplier of 7. 
+
+ (E) Cannabis and Psilocybin Sampling only for application has a multiplier of 11. 
+
+ (F) The total number of points is determined by first summing the number of fields of accreditation within each category (Basic, Moderate, Complex or Advanced Technology) and then multiplying the sums by their appropriate multiplier as given in this rule. The sum of these results determines the total number of points for each laboratory. Laboratories with a total of 1 to 10 points are to be considered Tier 1 laboratories, 11 to 25 points are Tier 2 laboratories, 26 to 40 points are Tier 3 laboratories, 41 to 55 points are Tier 4 laboratories, and 56 or more points are Tier 5 laboratories. 
+
+ (b) For each out-of-state laboratory requesting primary or secondary accreditation through ORELAP, one of five levels of fees, Tier 1 at $3,100, Tier 2 at $4,850, Tier 3 at $6,950, Tier 4 at $9,050, and Tier 5 at $11,150 will be charged with each Tier determined according to paragraphs (1)(a)(A) through (F) of this rule. 
+
+ (c) If a new owner acquires the laboratory and wishes the laboratory to remain accredited, the laboratory must submit a new owner application, and may be required to pay the application fee and be subject to a new on-site assessment and payment of on-site assessment fees as described in this rule. 
+
+ (2) Upon ORELAP's review of a laboratory's application, each laboratory requesting primary accreditation through ORELAP will be charged an assessment fee as follows: 
+
+ (a) Laboratories will be charged $200 for each of the following Basic Fields of Accreditation requested for accreditation: 
+
+ (A) Gravimetric; 
+
+ (B) Physical; 
+
+ (C) Probe. 
+
+ (b) Laboratories will be charged $600 for each of the following Moderate Fields of Accreditation requested for accreditation: 
+
+ (A) Inorganic Atomic absorption spectrometry; 
+
+ (B) Inorganic Atomic fluorescence spectrometry; 
+
+ (C) Inorganic-non-metals automated colorimetric; 
+
+ (D) Inorganic-non-metals manual colorimetric; 
+
+ (E) Inorganic-ion chromatography (IC); 
+
+ (F) Organic-liquid chromatography (LC); 
+
+ (G) General microbiology including but not limited to these three: 1) Chromofluorogenic; 2) Membrane Filter and /or Heterotrophic Plate Count (HPC); and 3) Multiple Tube Fermentation/Most Probable Number (MPN) (one fee applies for all); 
+
+ (H) Asbestos (bulk). 
+
+ (c) Laboratories will be charged $1,000 for each of the following Complex Fields of Accreditation requested for accreditation: 
+
+ (A) Organic — gas chromatography/mass spectrometry (GC/MS) — volatiles; 
+
+ (B) Organic — gas chromatography/mass spectrometry (GC/MS) — extractables; 
+
+ (C) Organic — liquid chromatography/mass spectrometry (LC/MS); 
+
+ (D) Organic — gas chromatography (GC) volatiles, extractables; 
+
+ (E) Inorganic — metals — inductively coupled plasma/atomic emission spectrometry (ICP/AES); 
+
+ (F) Inorganic — metals — inductively coupled plasma/mass spectrometry (ICP/MS); 
+
+ (G) Inorganic — ion chromatography/mass spectrometry (IC/MS); 
+
+ (H) X-ray; 
+
+ (I) Whole Effluent Toxicity (WET); 
+
+ (J) Radiochemistry; 
+
+ (K) Immunoassay; 
+
+ (L) Asbestos – electron microscopy. 
+
+ (d) Laboratories will be charged $1,400 for each of the following Advanced Technology Fields of Accreditation requested for accreditation: 
+
+ (A) Organic — gas chromatography/tandem mass spectrometry (GC/MS/MS); 
+
+ (B) Organic — high resolution gas chromatography/high resolution mass spectrometry (HiResGC/HiResMS); 
+
+ (C) Organic — liquid chromatography/tandem mass spectrometry (LC/MS/MS); 
+
+ (D) Polymerase chain reaction (PCR); 
+
+ (E) Mycology and Parasitology — Filtration/Immunomagnetic Separation/Immunoflurorescence Assay microscopy (Filtration/IMS/FA); 
+
+ (F) Cannabis or Psilocybin Sampling. 
+
+ (e) The following additional fees will be charged to Oregon laboratories for each additional matrix per field of accreditation for which the laboratory has requested accreditation: 
+
+ (A) $10 for Basic Fields of Accreditation. 
+
+ (B) $40 for Moderate Fields of Accreditation. 
+
+ (C) $75 for Complex Fields of Accreditation. 
+
+ (D) $150 for Advanced Technology Fields of Accreditation. 
+
+ (f) The following additional fees will be charged to out-of-state laboratories for each additional matrix per field of accreditation for which the laboratory has requested accreditation: 
+
+ (A) $13 for Basic Fields of Accreditation. 
+
+ (B) $53 for Moderate Fields of Accreditation. 
+
+ (C) $100 for Complex Fields of Accreditation. 
+
+ (D) $198 for Advanced Technology Fields of Accreditation. 
+
+ (3) For purposes of section (2) of this rule the matrices are: 
+
+ (a) Air; 
+
+ (b) Biological tissue; 
+
+ (c) Drinking water; 
+
+ (d) Non-potable water; and 
+
+ (e) Solids. 
+
+ (4) Assessment fees must be paid before a routine on-site assessment will be performed. 
+
+ (5) All laboratories must pay the appropriate on-site assessment fee per on-site assessment performed due to just cause according to TNI Standards. 
+
+ (6) ORELAP may use third party assessors to provide assessment services. In this event, the laboratory will still pay the assessment fee described in this fee schedule to ORELAP. Upon the laboratory’s consent to the third party assessment, ORELAP will pay the third party assessor costs. 
+
+ (7) All out-of-state laboratories must pay all on-site assessment costs incurred by ORELAP approved assessors to perform the on-site assessment including but not limited to transportation, per diem and wages during travel. For a mobile category 2 laboratory, the travel costs are waived if it is moved to the Oregon State Public Health Laboratory for the on-site assessment, and reduced to the amount in excess of its fixed base facility when moved to the fixed base facility if both are to be assessed at the same time. The excess amount is to be determined by those fields of accreditation and matrices requested for accreditation by the mobile laboratory that have not been requested by its fixed based facility. 
+
+ (8) Accredited laboratories requesting additions to their fields of accreditation during the accreditation period must pay: 
+
+ (a) The difference in cost of the application fee with a minimum fee of $200; 
+
+ (b) The difference in cost of the assessment fee. 
+
+   
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 448.150, 448.131, 448.280, 438.605, 438.610, 438.615, 438.620, 475C.544, 475C.560, 475A.590 & 475A.606 
+ 
+ 
+ Statutes/Other Implemented:  448.280, 438.605, 438.610, 438.615, 438.620, 475C.544, 475C.560, 475A.590 & 475A.606 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 207-2022, amend filed 12/27/2022, effective 12/27/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 162-2022, amend filed 07/15/2022, effective 07/15/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 44-2022, minor correction filed 04/26/2022, effective 04/26/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 89-2020, amend filed 12/30/2020, effective 01/01/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 85-2020, amend filed 12/23/2020, effective 01/01/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 54-2020, temporary amend filed 06/05/2020, effective 06/05/2020 through 12/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 42-2020, minor correction filed 05/07/2020, effective 05/07/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 17-2016, f. & cert. ef. 6-7-16 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ PH 31-2015(Temp), f. 12-29-15, cert. ef. 1-1-16 thru 6-28-16 
+PH 6-2011, f. & cert. ef. 8-9-11 
+PH 5-2006, f. & cert. ef. 4-6-06 
+PH 3-2006(Temp), f. & cert. ef. 2-8-06 thru 7-30-06 
+PH 20-2003, f. 12-02-03, cert. ef. 12-08-03 
+PH 13-2003(Temp), f. & cert. ef. 9-22-03 thru 3-20-04 
+OHD 16-2002, f. & cert. ef. 10-10-02 
+OHD 1-2001, f. & cert. ef. 1-17-01 
+OHD 7-1999, f. & cert. ef. 10-26-99 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

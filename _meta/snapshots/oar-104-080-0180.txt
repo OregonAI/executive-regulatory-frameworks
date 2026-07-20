@@ -1,0 +1,241 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Department of Emergency Management 
+ Chapter 104 
+ 
+ 
+ 
+ 
+ 
+ Division 80 9-1-1 EMERGENCY COMMUNICATIONS  SYSTEM PROGRAM 
+ 104-080-0180 
+ Customer Premises Equipment
+ 
+ 
+ (1) Provisioning CPE is subject to approval by the Department and must meet emergency communications system interoperability requirements. 
+
+ (2) A 9-1-1 jurisdiction may acquire CPE through the incumbent local exchange carrier or, in the alternative, the 9-1-1 jurisdiction may acquire CPE through any other provider providing the CPE meets the standards set by the Department. 
+
+ (3) The Department uses, in part, the Oregon Erlang C formula to ensure a consistent allocation model to be utilized for all primary PSAPs within the state. This formula is to be utilized for CPE reimbursement and is not intended to suggest what personnel and personnel functionality needs are of any given PSAP to provide optimal service to their community. 
+
+ (4) Maintenance must conform to the standards set by the Department and may be provided by a utility or other provider. 
+
+ (5) A 9-1-1 jurisdiction is responsible for CPE maintenance and provisioning to meet standards set by the Department. 
+
+ (6) CPE must meet the following requirements: 
+
+ (a) CPE must include line hold and line indicators for emergency calls; 
+
+ (b) ALI Controller must provide 2 interfaces for transmission and receipt of wireline, wireless and Voice over Internet Protocol call data to the ALI database. 
+
+ (c) CPE must be capable of displaying 10 digit ANI, telephone company identification and Phase I and Phase II Wireless ALI in Oregon’s Statewide ALI format.[1] 
+
+ (d) ALI uniform data stream, data devices, data channels and displays used for primary interrogation; Each ALI link will be configurable for a specific ALI Format[2] and assignable to individual trunk groups. 
+
+ (e) Capable of seamlessly interfacing to standard radio, logging recorder, and CAD dispatch and GIS mapping systems. 
+
+ (f) Telephone sets used for primary interrogation must provide the capability for an analog and digital audio interface to a headset/handset and to the radio system arbitration unit to accommodate both radio and 9-1-1 audio in the same headset/handset. 
+
+ (g) CPE must be capable of interfacing with the time synchronization device residing on Oregon’s Enterprise Internet Protocol Network interconnecting all primary PSAPs statewide. 
+
+ (h) ANI and associated displays; 
+
+ (7) When a primary PSAP elects to purchase CPE that is intended to be customer-owned and maintained premises equipment, the 9-1-1 jurisdiction must comply with the following: 
+
+ (a) The equipment must be compatible with and functionally equivalent to the E9-1-1 network provided by the incumbent local exchange carrier. 
+
+ (b) Mean time to repair the equipment must establish identification, response, and repair parameters where the provider can return a failed component or device to its normal operating condition. The provider must provide a 9-1-1 jurisdiction(s) access to a Provider Customer Support Center, where the 9-1-1 jurisdiction may submit trouble reports 24 hours per day, 7 days per week, including provider observed holidays (‘covered hours”). The provider must accept trouble reports during covered hours. The provider must perform trouble isolation during the covered hours. If the provider and the 9-1-1 jurisdiction determine an on-site response is required the provider must complete response during covered hours for severity level 1 and severity level 2 incidents based on the following conditions: 
+
+ (A) Severity Level 1 (Major): Highest service level incident where total service loss affects the ability to answer a 9-1-1 call. Provider must respond with a response time of 2 hours remote from the receipt of the call to the Provider Customer Support Center and 4 hours on-site, if necessary. The provider must make a reasonable effort to arrive on-site with all required replacement parts. All Severity Level 1 incidents must be reported by the 9-1-1 jurisdiction to the Oregon Emergency Response System and the Provider Customer Support Center. 
+
+ (B) Severity Level 2 (Critical): Call handling capability is present; however, service loss or degradation of services jeopardizes overall performance of CPE. Provider must respond with a response time of 4 hours remote from the receipt of a call to the Provider Customer Support Center, and 8 hours on-site, if necessary. The Provider must make a reasonable effort to arrive on-site with all required replacement parts. All Severity Level 2 incidents must be reported by the 9-1-1 jurisdiction to the Oregon Emergency Response System and the Provider Customer Support Center. 
+
+ (C) Severity Level 3 (Minor): Issues that are not related to a service failure and the remediation period has no impact on the overall performance of the CPE. The provider must respond the next business day from the receipt of a call to the Provider Customer Support Center. All Severity Level 3 incidents must be reported by the 9-1-1 jurisdiction to the Provider Customer Support Center. 
+
+ (D) All technicians must be certified to work on 9-1-1 specific systems before performing any work on the specific system. 
+
+ (8) Equipment must provide noiseless supervised transfer and conferencing. 
+
+ (9) A CPE installation must be capable of both analog and digital receipt of incoming emergency calls, including the ability to accept ANI and ALI on a single digital transport. 
+
+ (10) The Department shall work with a 9-1-1 jurisdiction that has requested CPE replacement to determine the need for replacement, based on the equipment’s anticipated lifespan. If the 9-1-1 jurisdiction is requesting reimbursement from the 9-1-1 Subaccount, the Department makes the final determination concerning replacement of CPE. 
+
+ [Publications [1] & [2]: Publications referred to or incorporated by reference in this rule are available from the Department and are also available at https://www.oregon.gov/OEM/Documents/oregonali_aliaqor.pdf] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 403.120; 2015 HB 2426 
+ 
+ 
+ Statutes/Other Implemented:  ORS 403 & 2015 HB 2426 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OEM 26-2023, minor correction filed 04/10/2023, effective 04/10/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OEM 2-2018, amend filed 11/02/2018, effective 11/02/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OEM 3-2015, f. & cert. ef. 12-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

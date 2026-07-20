@@ -1,0 +1,188 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Water Resources Department 
+ Chapter 690 
+ 
+ 
+ 
+ 
+ 
+ Division 507 UMATILLA BASIN PROGRAM 
+ 690-507-0660 
+ Butter Creek CGWA: Method for Determining the Sustainable Annual Yield 
+ 
+ (1) The Department shall determine the sustainable annual yield for each subarea by comparing the volume of groundwater pumped annually from each subarea for a given year to the average of the annual changes in groundwater levels for the subarea for the same year.  (a) The Department shall calculate pumpage from each well based on data collected by the Department and as submitted under OAR 690-507-0640. The pumpage for each subarea shall be calculated by totaling the pumpage from each non-exempt well in the subarea.  (b) The Department shall calculate annual change in groundwater levels for a subarea by subtracting the current year's February or March water level from the previous year's February or March water level. The average shall be calculated by adding the change at each well in the subarea and dividing by the number of wells with available water level data. Data from all permitted or certificated wells in each subarea that are measurable shall be used to calculate the average annual change. If water level data cannot be collected at a particular well, data from a nearby well may be substituted.  (2) The total volume of groundwater pumped from each subarea for a given year shall be plotted against the average change in groundwater levels from that subarea for that year.  (3) A line of regression is drawn through the data using the least squares fit method and extended through the zero decline axis. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 536 & 537 
+ 
+ 
+ Statutes/Other Implemented:  ORS 537.535 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WRD 2-2017, f. & cert. ef. 5-22-17 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WRD 2-1999, f. & cert. ef. 3-3-99 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ WRD 9-1990, f. & cert. ef. 6-25-90 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

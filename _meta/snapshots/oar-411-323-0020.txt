@@ -1,0 +1,470 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Aging and People with Disabilities and Developmental Disabilities - Chapter 411 
+ 
+ 
+ 
+ 
+ Division 323 AGENCY CERTIFICATION AND ENDORSEMENT TO DELIVER DEVELOPMENTAL DISABILITIES SERVICES IN COMMUNITY-BASED SETTINGS 
+ 411-323-0020 
+ Definitions and Acronyms for Agency Certification and Endorsement 
+ 
+ In addition to the following definitions and acronyms, OAR 411-317-0000 includes general definitions for words and terms frequently used in OAR chapter 411, division 323. If a word or term is defined differently in OAR 411-317-0000, the definition in this rule applies. 
+(1) “Advisory Letter” means a written notification from the Department that informs an agency of a violation, or possible violation, and requirements to correct the violation or offer evidence that there is no violation.  
+(2) “Agency” means a public or private community organization that is formed to deliver developmental disabilities services and is certified and endorsed by the Department under these rules that: 
+(a) Is in business to provide supports for individuals eligible to receive developmental disabilities services. 
+(b) Provides supports for individuals through employees, contractors, or volunteers. 
+(c) Receives compensation to recruit, supervise, and pay the people who provide supports for the individuals.  
+(3) “Applicant” means: 
+(a) A person or legal entity who applies for certification or endorsement to operate an agency delivering services to individuals with intellectual or developmental disabilities.  
+(b) A person with an ownership interest in, or is identified as the executive director of, an agency, entity, or governmental unit that applies for certification or endorsement to deliver program services to individuals with intellectual or developmental disabilities. 
+(4) “Audit” means an inspection completed by a Certified Public Accountant using standards and accepted practices of accounting.  
+(5) “Board of Directors” means the group of people formed to set policy and give directions to an agency designed to provide services to individuals with intellectual or developmental disabilities. A board of directors may include local advisory boards used by multi-state organizations. 
+(6) “CDDP” means “Community Developmental Disabilities Program” as defined in OAR 411-317-0000. 
+(7) “Certificate” means the document issued by the Department to an agency that certifies the agency is qualified to seek endorsement to deliver a program service.  
+(8) “Complete Application” means the submission of all information and documentation required by the Department to make a decision to approve or deny a certificate and endorsement as described in OAR 411-323-0030(3). 
+(9) “Denial” means the refusal, after submission of an application, by the Department to issue a certificate or endorsement. 
+(10) “Direct Solicitation” means approaching potential service recipients, or their legal representatives, in person, by phone, by email, or other direct means and asking them to use a service offered by an agency. Direct solicitation does not include promoting an agency through methods such as commercial advertisements, billboards, web banners, resource fairs, websites, newsletters, brochures, posters, or bus wraps. 
+(11) “Direct Support Professional” is defined in OAR 411-450-0020. 
+(12) “DOJ MFCU” means the Oregon Department of Justice, Medicaid Fraud Control Unit. 
+(13) “Endorsement” means the authorization of an agency with a current certificate to deliver a program service.  
+(14) “Executive Director” means the person designated by the board of directors or entity of an agency that is responsible for the administration of the services delivered by the agency. 
+(15) “Informal Conference” means the discussion between the Department and an applicant or an agency that is held prior to a hearing to address any matters pertaining to the hearing. An administrative law judge does not participate in an informal conference.  
+(16) “Initial Application” means an application for a certificate following a period when an applicant did not hold a current certificate. 
+(17) “ISP” means “Individual Support Plan” as defined in OAR 411-317-0000. 
+(18) “Managing Employee” means a general manager, business manager, administrator, director, or other individual who exercises operational or managerial control over, or who directly or indirectly conducts the day-to-day operation of an entire organization or agency or the operations of the agency within Oregon. 
+(19) “ODDS” means the Oregon Department of Human Services, Office of Developmental Disabilities Services. 
+(20) “OTIS” means the Oregon Department of Human Services, Office of Training, Investigations, and Safety. 
+(21) “Ownership Interest” means, as defined in 42 CFR 455.101, the possession of equity in the capital, the stock, or the profits of the disclosing entity as determined by 42 CFR 455.102.  
+(22) “Ownership or Control Interest” means a person or entity that: 
+(a) Has an ownership interest totaling five percent or more in a disclosing entity; 
+(b) Has an indirect ownership interest equal to five percent or more in a disclosing entity; 
+(c) Has a combination of direct and indirect ownership interests equal to five percent or more in a disclosing entity; 
+(d) Owns an interest of five percent or more in any mortgage, deed of trust, note, or other obligation secured by the disclosing entity if that interest equals at least five percent of the value of the property or assets of the disclosing entity; 
+(e) Is an officer or director of a disclosing entity that is organized as an entity; 
+(f) Is a partner in a disclosing entity that is organized as a partnership; or 
+(g) Is a member of the board of directors of the disclosing entity. 
+(23) “Plan of Correction” means a document developed by an agency that describes the actions the agency will take to correct violations and specifies the date by which those violations will be corrected. 
+(24) “Program Rules” mean the following rules: 
+(a) OAR chapter 411, division 304 for professional behavior services. 
+(b) OAR chapter 411, division 325 for 24-hour residential programs and settings. 
+(c) OAR chapter 411, division 328 for supported living programs. 
+(d) OAR chapter 411, division 345 for employment services.  
+(e) OAR chapter 411, division 348 for host home programs and settings. 
+(f) OAR chapter 411, division 380 for direct nursing services.  
+(g) OAR chapter 411, division 450, excluding OAR 411-450-0095, for community living supports delivered by a standard model agency as defined in OAR 411-450-0020. 
+(h) OAR chapter 411, division 450, excluding OAR 411-450-0090, for community living supports delivered by an employer model agency as defined in OAR 411-450-0020. 
+(25) “Program Service” means a service delivered by an agency as described in: 
+(a) OAR chapter 411, division 304 for professional behavior services. 
+(b) OAR chapter 411, division 325 for 24-hour residential programs and settings. 
+(c) OAR chapter 411, division 328 for supported living programs.  
+(d) OAR chapter 411, division 345 for employment services.  
+(e) OAR chapter 411, division 348 for host home programs and settings.  
+(f) OAR chapter 411, division 380 for direct nursing services. 
+(g) OAR chapter 411, division 450, excluding OAR 411-450-0095, for community living supports delivered by a standard model agency as defined in OAR 411-450-0020. 
+(h) OAR chapter 411, division 450, excluding OAR 411-450-0090, for community living supports delivered by an employer model agency as defined in OAR 411-450-0020. 
+(26) “Provider Enrollment Agreement” means the agreement between the Department and a qualified Medicaid provider to deliver services to a Medicaid eligible individual for compensation. 
+(27) “Responsible Person” means a person who:  
+(a) Exercises operational or managerial control over an agency; 
+(b) Has an ownership interest in an agency; or  
+(c) Directly or indirectly conducts day to day operations of an agency. 
+(28) “Revocation” means the action taken by the Department to rescind a certificate or endorsement in accordance with OAR 411-323-0033(3).  
+(29) “Serious Incident” is defined in OAR 411-317-0000. 
+(30) “Serious Violation Letter” means a written notification from the Department that informs an agency of a violation which poses a substantial risk to health and safety to any person and the necessary steps for correcting the violations as determined by the Department.  
+(31) “Support Document” means a written strategy intended to mitigate an identified risk. Support documents include, but are not limited to, protocols and professional behavior support plans. 
+(32) “Suspension” means an immediate temporary withdrawal of the: 
+(a) Certificate to operate an agency after the Department determines that the agency is not in compliance with these rules or the corresponding program rules; or 
+(b) Endorsement for an agency to operate a program after the Department determines that the agency is not in compliance with these rules or the corresponding program rules. 
+(33) “These Rules” mean the rules in OAR chapter 411, division 323. 
+(34) “Violation” means a determination by the Department or Oregon Health Authority that an agency is not in compliance with any of the following: 
+(a) An Oregon statutory requirement.  
+(b) A rule in OAR chapter 411, division 323.  
+(c) A program rule that corresponds to a program service to which an agency is endorsed. 
+(d) A federal regulation applicable to the provision of developmental disabilities services program or health care services program. 
+(e) The Provider Enrollment Agreement. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 409.050, 427.024, 427.104, 427.181 & 430.662 
+ 
+ 
+ Statutes/Other Implemented:  ORS 409.010, 410.855, 427.007, 427.024, 427.026, 427.104, 427.181, 430.215, 430.610 & 430.662 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 1-2026, amend filed 01/12/2026, effective 01/15/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 11-2025, temporary amend filed 07/17/2025, effective 07/21/2025 through 01/16/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 16-2023, amend filed 09/30/2023, effective 10/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 55-2022, amend filed 12/16/2022, effective 12/20/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 30-2022, temporary amend filed 06/25/2022, effective 07/01/2022 through 12/27/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 44-2019, amend filed 10/29/2019, effective 11/01/2019 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 21-2019, amend filed 06/28/2019, effective 07/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 25-2018, minor correction filed 07/17/2018, effective 07/17/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 29-2017, amend filed 11/30/2017, effective 12/01/2017 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 25-2016, f. & cert. ef. 6-29-16 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 35-2015(Temp), f. 12-31-15, cert. ef. 1-1-16 thru 6-28-16 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 42-2014, f. 12-26-14, cert. ef. 12-28-14 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 24-2014(Temp), f. & cert. ef. 7-1-14 thru 12-28-14 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 1-2012, f. & cert. ef. 1-6-12 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ Reverted to SPD 12-2011, f. & cert. ef. 7-1-11 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 12-2011, f. & cert. ef. 7-1-11 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPD 19-2011(Temp), f. & cert. ef. 7-1-11 thru 12-28-11 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

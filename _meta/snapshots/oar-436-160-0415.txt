@@ -1,0 +1,209 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Workers' Compensation Division - Chapter 436 
+ 
+ 
+ 
+ 
+ Division 160 ELECTRONIC DATA INTERCHANGE; MEDICAL BILL DATA 
+ 436-160-0415 
+ Oregon ASC X12 837 Medical Bill Data Reporting Requirements 
+ 
+ (1) Event reporting requirements:  (a) Medical bills, including interpreter bills under OAR 436-009, must be reported within 60 days of the date paid.  (b) Denied medical bills for accepted claims must be reported within 60 days of date of denial. Denied bills are defined as any bills in which there is a non-zero charge and a zero payment.  (c) Transactions must be received and accepted by the division within 60 days of either the date paid or the date denied to be considered timely reported. If a transaction is initially rejected it must be corrected, resubmitted, and accepted within the original 60 day time period to be considered timely reported.  (d) Cancellations must be reported as soon as the payer knows that a medical bill was sent in error.  (e) Corrections/Replacements must be reported within 60 days of changes to any of the “Fatal Technical,” “Mandatory,” or “Mandatory Conditional” data elements in Appendices A and B.  (f) Bills received by the insurer before Oct. 1, 2014, may be reported to the Division using the IAIABC reporting standard version 1.1.  (2) Data reporting requirements are described in Appendices A and B.  (3) Technical requirements are described on the division’s Electronic Data EDI webpage for specifications on the Secure File Transfer Protocol (SFTP) requirements.  (4) Data Quality: The director will conduct electronic edits for blank or invalid data. Affected insurers are responsible for pre-screening the data they submit to check that all the required information is reported and is formatted correctly. OAR 436-160-0420 describes the acceptance or rejection protocol for all reported medical bills. The insurer is responsible for timely correcting and resubmitting all rejected transactions for which law or rule require filing, reporting, or notice to the director.  (5) An insurer must request and receive authorization from the director to stop submitting a previously rejected transaction when the division determines the transaction is uncorrectable.  (6) The director will periodically review reported bill data to monitor insurer performance. If the director finds repeated or egregious violations of the reporting requirements of these rules the director may issue civil penalties under OAR 436-160-0445 and ORS 656.745.  (a) Medical bills must be reported timely. “Timely” means that an insurer reports medical bills as required by OAR 436-160-0415(1).  (b) Medical bills must be reported accurately. “Accurately” means that the reported medical bill data accepted by the division conforms to the reporting requirements of the Appendices A and B.  (c) The insurer may be subject to penalties for any reported medical bills that have not been accepted by the division or designated as uncorrectable under OAR 436-160-0415(5) within 180 days of the date of bill payment or denial. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 656.726(4) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 656.264 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 8-2014, f. 7-10-14, cert. ef. 10-1-14 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 5-2014(Temp), f. 6-5-14, cert. ef. 7-1-14 thru 12-27-14 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 6-2013, f. 10-10-13, cert. ef. 7-1-14 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WCD 7-2010, f. 10-1-10, cert. ef. 1-1-11 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

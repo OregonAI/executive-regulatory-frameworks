@@ -1,0 +1,468 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Self-Sufficiency Programs - Chapter 461 
+ 
+ 
+ 
+ 
+ Division 160 DETERMINING FINANCIAL ELIGIBILITY AND CALCULATING BENEFIT LEVEL 
+ 461-160-0430 
+ Income Deductions; SNAP
+ 
+ 
+ In the Supplemental Nutrition Assistance Program (SNAP): 
+
+ (1) Deductions from income are subtracted from countable (see OAR 461-001-0000) income (see OAR 461-140-0010) in the following order to determine adjusted income (see OAR 461-001-0000) for the SNAP program: 
+
+ (a) An earned income deduction as follows: 
+
+ (A) An earned income deduction of 20 percent of countable earned income. Multiply the total countable earned income by 20 percent and subtract that amount from the countable income. The 20 percent deduction is not taken from the wages funded by grant diversions such as Work Supplementation wages. 
+
+ (B) Effective January 19, 2023, an earned income deduction of 20 percent of the earned income excluded due to payment of court ordered child support (see OAR 461-140-0265). For individuals who qualify for this exclusion, multiply the excluded earned income used to pay child support by 20 percent and deduct that amount from the countable income. 
+
+ (b) A standard deduction of: 
+
+ (A) $ 209 per month for a benefit group (see OAR 461-110-0750) of one, two, or three individuals. 
+
+ (B) $ 223 per month for a benefit group of four individuals. 
+
+ (C) $ 261 per month for a benefit group of five individuals. 
+
+ (D) $ 299 per month for a benefit group of six or more individuals. 
+
+ (c) A dependent care deduction for dependent care costs billed to a member of the filing group (see OAR 461-110-0370) and not paid for through any other program of the Department. For the cost to be deductible under this section, the care must be necessary to enable a member of the filing group to-- 
+
+ (A) Accept or continue employment; 
+
+ (B) Seek employment, including a job search that meets the requirements of a case plan (see OAR 461-001-0020); or 
+
+ (C) Attend vocational or educational training. A student receiving educational income is entitled to a deduction only for costs not excluded from educational income by OAR 461-145-0150. 
+
+ (d) The medical deduction for elderly (see OAR 461-001-0015) individuals and individuals who have a disability (see OAR 461-001-0015) in the filing group . The deduction is calculated by determining the total of their deductible medical costs (see OAR 461-160-0415) and subtracting $35.  The Department uses the resulting amount to determine the allowable deduction as follows: 
+
+ (A) For an amount less than $0, no deduction is allowed. 
+
+ (B) For an amount greater than $0 but less than $170.01, a deduction of $170 is allowed. 
+
+ (C) For an amount greater than $170, a deduction of the amount determined under this subsection is allowed. 
+
+ (e) An Excess Shelter Deduction or Homeless Shelter Deduction is calculated if the filing group has an allowable shelter cost under OAR 461-160-0420. 
+
+ (A) If the group is eligible for both deductions listed in paragraphs (B) and (C) of this subsection, they will receive the higher of the two. 
+
+ (B) Excess Shelter Deduction is calculated as follows: 
+
+ (i) The standard deduction and the deductions of earned income, dependent care, and medical expenses are subtracted from countable income. 
+
+ (ii) Fifty percent of the remainder is subtracted from the shelter cost calculated in accordance with OAR 461-160-0420. 
+
+ (iii) The rounded balance is the deduction, except the deduction is limited if the filing group has no member who has a disability or is elderly . The limit is $744 per month. 
+
+ (C) The Homeless Shelter Deduction is $198.99 for a filing group  experiencing homelessness whose living circumstances meet the definition of  homeless (see OAR 461-001-0015). 
+
+ (2) If an individual cannot verify a medical expense or cannot verify any other expense when asked to do so, the unverified expense is not used to calculate the deduction. If the individual provides verification, the deduction is applied when calculating the next month's benefits. If verification is provided within the period authorized for processing applications (see OAR 461-115-0210), the benefits for the initial month (see OAR 461-001-0000) are recalculated using the deduction. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 411.060, 411.070, 411.816 & ORS 409.050 
+ 
+ 
+ Statutes/Other Implemented:  ORS 409.010, 409.050, 411.060, 411.070, 411.816, 411.825, 411.837, 7 CFR 273.5, 7 CFR 273.9, 7 CFR 273.10 & 7 CFR 273.11 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 20-2025, amend filed 09/29/2025, effective 10/01/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 54-2024, amend filed 09/27/2024, effective 10/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 47-2023, amend filed 09/25/2023, effective 10/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 10-2023, temporary amend filed 02/15/2023, effective 02/15/2023 through 08/13/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 48-2022, amend filed 09/27/2022, effective 10/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 47-2022, amend filed 09/20/2022, effective 09/27/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 33-2022, temporary amend filed 03/31/2022, effective 04/01/2022 through 09/27/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 49-2021, amend filed 09/23/2021, effective 10/01/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 36-2020, amend filed 10/01/2020, effective 10/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 20-2019, amend filed 09/19/2019, effective 10/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 27-2018, amend filed 09/04/2018, effective 10/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 34-2017, amend filed 12/18/2017, effective 01/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 25-2017(Temp), f. 9-15-17, cert. ef. 10-1-17 thru 1-31-18 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 13-2017, f. 6-5-17, cert. ef. 7-1-17 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ SSP 1-2017(Temp), f. & cert. ef. 2-1-17 thru 7-30-17 
+SSP 35-2016, f. 9-30-16, cert. ef. 10-1-16 
+SSP 28-2015, f. 9-29-15, cert. ef. 10-1-15 
+SSP 24-2014, f. & cert. ef. 10-1-14 
+SSP 24-2013, f. & cert. ef. 10-1-13 
+SSP 8-2013, f. & cert. ef. 4-1-13 
+SSP 30-2012, f. 9-28-12, cert. ef. 10-1-12 
+SSP 25-2011, f. 9-30-11, cert. ef. 10-1-11 
+SSP 10-2011, f. 3-31-11, cert. ef. 4-1-11 
+SSP 43-2010(Temp), f. 12-30-10, cert. ef. 1-1-11 thru 4-30-11 
+SSP 41-2010, f. 12-30-10, cert. ef. 1-1-11 
+SSP 39-2010(Temp), f. & cert. ef. 11-4-10 thru 5-3-11 
+SSP 28-2009, f. & cert. ef. 10-1-09 
+SSP 23-2008, f. & cert. ef. 10-1-08 
+SSP 5-2008, f. 2-29-08, cert. ef. 3-1-08 
+SSP 11-2007(Temp), f. & cert. ef. 10-1-07 thru 3-29-08 
+SSP 10-2007, f. & cert. ef. 10-1-07 
+SSP 15-2006, f. 12-29-06, cert. ef. 1-1-07 
+SSP 14-2006, f. 9-29-06, cert. ef. 10-1-06 
+SSP 14-2005, f. 9-30-05, cert. ef. 10-1-05 
+SSP 22-2004, f. & cert. ef. 10-1-04 
+SSP 17-2004, f. & cert. ef. 7-1-04 
+SSP 23-2003, f. & cert. ef. 10-1-03 
+AFS 13-2002, f. & cert. ef. 10-1-02 
+AFS 22-2001, f. & cert. ef. 10-1-01 
+AFS 3-2001, f. 2-27-01, cert. ef. 3-1-01 
+AFS 34-2000, f. 12-22-00, cert. ef. 1-1-01 
+AFS 23-2000(Temp) Suspended by AFS 28-2000(Temp), f. 10-31-0, cert. ef. 11-1-00 thru 12-31-00 
+AFS 25-2000, f. 9-29-00, cert. ef. 10-1-00 
+AFS 23-2000(Temp), f. 9-29-00, cert. ef. 10-1-00 thru 12-31-00 
+AFS 2-1999, f. 3-26-99, cert. ef. 4-1-99 
+AFS 22-1998, f. 10-30-98, cert. ef. 11-1-98 
+AFS 15-1998(Temp), f. 9-15-98, cert. ef. 10-1-98 thru 10-31-98 
+AFS 8-1998, f. 4-28-98, cert. ef. 5-1-98 
+AFS 5-1998(Temp), f. & cert. ef. 3-11-98 thru 5-31-98 
+AFS 4-1998, f. 2-25-98, cert. ef. 3-1-98 
+AFS 19-1997, f. & cert. ef. 10-1-97 
+AFS 3-1997, f. 3-31-97, cert. ef. 4-1-97 
+AFS 41-1996(Temp), f. & cert. ef. 12-31-96 
+AFS 31-1996, f. & cert. ef. 9-23-96 
+AFS 27-1996, f. 6-27-96, cert. ef. 7-1-96 
+AFS 41-1995, f. 12-26-95, cert. ef. 1-1-96 
+AFS 27-1995(Temp), f. 10-30-95, cert. ef. 11-1-95 
+AFS 22-1995, f. 9-20-95, cert. ef. 10-1-95 
+AFS 10-1995, f. 3-30-95, cert. ef. 4-1-95 
+AFS 23-1994, f. 9-29-94, cert. ef. 10-1-94 
+AFS 19-1994, f. & cert. ef. 9-1-94 
+AFS 13-1994, f. & cert. ef. 7-1-94 
+AFS 19-1993, f. & cert. ef. 10-1-93 
+AFS 28-1992, f. & cert. ef. 10-1-92 
+AFS 8-1992, f. & cert. ef. 4-1-92 
+AFS 20-1991, f. & cert. ef. 10-1-91 
+AFS 13-1991, f. & cert. ef. 7-1-91 
+AFS 23-1990, f. 9-28-90, cert. ef. 10-1-90 
+AFS 12-1990, f. 3-30-90, cert. ef. 4-1-90 
+AFS 80-1989, f. 12-21-89, cert. ef. 2-1-90 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

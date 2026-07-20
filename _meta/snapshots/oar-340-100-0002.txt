@@ -1,0 +1,494 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 100 HAZARDOUS WASTE MANAGEMENT 
+ 340-100-0002 
+ Adoption of United States Environmental Protection Agency Hazardous Waste and Used Oil Management Regulations 
+ 
+ (1) Except as otherwise modified or specified by OAR 340, divisions 100 to 106, 109, 111, 113, 120, 124 and 142, the Commission adopts by reference, and requires every person subject to ORS 466.005 to 466.080 and 466.090 to 466.215, to comply with the rules and regulations governing the management of hazardous waste, including its generation, transportation, treatment, storage, recycling and disposal, as the United States Environmental Protection Agency prescribes in 40 C.F.R. Parts 260 to 268, 270, 273 and Subpart A and Subpart B of Part 124, as enacted through July 30, 2020, except as modified below in sections (2), (3) and (4). 
+
+ (2) The Commission expressly adopts only 40 C.F.R. § 270.14(a) and § 270.28 as amended in adoption of 63 Federal Register 56710 (c174), October 22, 1998. 
+
+ (3) The Commission excludes from the rules adopted in Section (1) of this rule, and does not adopt by reference 40 C.F.R. § 266.504(d), 40 C.F.R. § 260. 2, 40 C.F.R. § 260.10 “contained,” and the amendments to 40 C.F.R. Parts 124, 260 to 268, 270 and 273 as enacted at: 
+
+ (a) 63 Federal Register 56710-56735 (c174), October 22, 1998 (amendments to 40 C.F.R. § 264-265 and § 270(1)(c)); 
+
+ (b) 69 Federal Register 21737-21754 (c204), April 22, 2004; 
+
+ (c) 69 Federal Register 62217-62224 (c204.1), October 25, 2004; 
+
+ (d) 73 Federal Register 57-72 (c216), January 2, 2008; 
+
+ (e) 73 Federal Register 64668-64788 (c219), October 30, 2008; 
+
+ (f) 73 Federal Register 77954-78017 (c221), December 19, 2008; 
+
+ (g) 79 Federal Register 350-364 (c230), January 3, 2014; 
+
+ (h) 80 Federal Register 1694-1814 ( c233D and E), January 13, 2015; and 
+
+ (i) 83 Federal Register 24664-24671 (c233D and E), May 30, 2018. 
+
+ (4) Except as otherwise modified or specified by OAR 340, division 111, the Commission adopts by reference, and requires every person subject to ORS 466.005 to 466.080 and 466.090 to 466.215, to comply with the rules and regulations governing the standards for managing used oil, the United States Environmental Protection Agency prescribes in 40 C.F.R. Part 279, enacted through July 30, 2003. 
+
+ [COMMENT: The Department uses the federal preamble accompanying the federal regulations and federal guidance as a basis for regulatory decision-making.] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 465.009, 465.505 & 466.020 
+ 
+ 
+ Statutes/Other Implemented:  ORS 465.003, 465.009, 465.505, 466.005, 466.075 & 466.105 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 20-2022, amend filed 11/21/2022, effective 01/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 20-2021, amend filed 11/18/2021, effective 01/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 5-2017, f. & cert. ef. 7-12-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 5-2015, f. & cert. ef. 4-15-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 2-2009, f. & cert. ef. 6-25-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 8-2005, f. & cert. ef. 7-14-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 13-2003, f. & cert. ef. 10-24-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 13-2002, f. & cert. ef. 10-9-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 10-2000, f. & cert. ef. 7-21-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 4-1999, f. & cert. ef. 3-19-99 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 26-1998(Temp), f. & cert. ef. 11-3-98 thru 3-19-99 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 11-1998, f. & cert. ef. 6-26-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 14-1997, f. & cert. ef. 7-23-97 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 12-1996, f. & cert. ef. 7-31-96 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 11-1995, f. & cert. ef. 5-19-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 31-1994(Temp), f. 12-6-94, cert. ef. 12-19-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 6-1994, f. & cert. ef. 3-22-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 11-1993, f. & cert. ef. 7-29-93 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 24-1992, f. 10-23-92, cert. ef. 11-1-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 4-1991, f. & cert. ef. 3-15-91 (and corrected 6-20-91) 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 12-1989, f. & cert. ef. 6-12-89 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 19-1988, f. & cert. ef. 7-13-88 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 23-1987, f. & ef. 12-16-87 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 10-1987, f. & ef. 6-11-87 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 8-1985, f. & ef. 7-25-85 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

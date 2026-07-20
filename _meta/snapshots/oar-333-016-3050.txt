@@ -1,0 +1,220 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 16 HAZARDOUS SUBSTANCES 
+ 333-016-3050 
+ Quantitative Exposure Assessment 
+ 
+ (1) For purposes of this rule, "inaccessible" means a HPCCCH that cannot be absorbed, swallowed, mouthed, or inhaled through normal and reasonably foreseeable use and abuse of the product. 
+
+ (2) A Quantitative Exposure Assessment (QEA) must demonstrate that a HPCCCH in a children’s product is not reasonably anticipated to result in exposure to a child based on an analysis of the leachability and bioavailability of the HPCCCH. 
+
+ (3) A QEA may be done in two steps, as follows: 
+
+ (a) A description of exposure scenario(s) that demonstrates that a HPCCCH in a children’s product is inaccessible to the consumer or otherwise could not reasonably be anticipated to be transferred to or into a child’s body through a completed exposure pathway because of leachability and bioavailability of a HPCCCH from the children’s produ ct. Exposure scenarios must focus on the reasonably foreseeable use and abuse of the specified children’s product. 
+
+ (b) If the manufacturer determines that the exposure scenarios, through reasonably foreseeable use and abuse of the specified children’s product, are reasonably anticipated to result in a completed exposure pathway to a child regardless of the amount of HPCCCH potentially transferred, the manufacturer shall submit information on the leachability and bioavailability of HPCCCH from a product, including measurements of the concentration of a HPCCCH in the simulated media such as saliva, sweat, or digestive fluid appropriate for the exposure scenarios, using analytical methods relevant to the chemical and the product. The manufacturer must also submit a copy of any analytical test results for the HPCCCH in each media tested that include: 
+
+ (A) The specific analytical methods or source of information utilized to determine the concentration of the HPCCCH in media relevant for each exposure pathway. 
+
+ (B) The detection limit for each HPCCCH for each analytical instrument used for the testing in each medium tested. 
+
+ (c) If a manufacturer determines that, based on exposure scenarios, a HPCCC H is inaccessible or cannot reasonably be anticipated to be transferred to or into a child’s body through a completed exposure pathway because of leachability and bioavailability and only conducts the first step of the QEA as described in section (3)(a) of this rule, the manufacturer shall provide a detailed report and analysis to the Oregon Health Authority (Authority) that demonstrates to the Authority’s satisfaction, that a child would not be exposed to a HPCCCH. 
+
+ (4) A QEA must include citations from scientific literature for any assertion made. 
+
+ (5) Laboratory analysis done for purposes of a QEA must be conducted by a laboratory accredited to ISO/IEC 17025 as described in OAR 333-016-2070(7)(a). 
+
+ (6) To enable accurate identification of children’s products on which a QEA is conducted, such products must be identified by manufacturers as specified in OAR 333-016-3010(3)(a) through (c). 
+
+ (7) In order to be approved a QEA must demonstrate that HPCCCH concentrations measured in the media are less than or equal to the Practical Quantification Limit of the HPCCCH established in OAR 333-016-2035(2), Exhibit A, incorporated by reference. 
+
+ (8) If the Authority determines that there are exposure scenarios for which a completed exposure pathway is possible through reasonably foreseeable use and abuse of the specified children’s product, it will deny the QEA. The manufacturer may resubmit a revised request along with a completed QEA. 
+
+ (9) A QEA approved by the Authority may be used to apply to a new product if the composition of the new product is substantially similar to those specified in an approved QEA and differ only in ways that do not affect the HPCCCH's behavior in the product. Differences may include, but are not limited to, packaging, size/volume, product name, and other minor aesthetic differences. The use of a QEA approved by the Authority in this manner is permitted if all of the following are demonstrated for the new product: 
+
+ (a) The chemical composition of the new product is substantially similar to those in an approved QEA; 
+
+ (b) There are not any HPCCCHs at or above de minimis in addition to those in the product specified in the approved QEA; and 
+
+ (c) Neither the concentration of the HPCCCH nor its mobility from the product has increased from those in the referenced product. 
+
+ (10) To substantiate a claim that a QEA approved by the Authority applies to a new product, manufacturers shall submit all of the following: 
+
+ (a) A copy of the referenced QEA approved by the Authority; 
+
+ (b) Documentation demonstrating compliance with section (9) of this rule, which must include the signature, on an application form provided by the Authority, of an authorized representative of the manufacturer bringing the product into Oregon, with the knowledge and authority to attest to the veracity of the information submitted under section (9) of this rule; and 
+
+ (c) Identification of new affected products as specified in section (6) of this rule. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042 & ORS 431A.265 
+ 
+ 
+ Statutes/Other Implemented:  ORS 431A.265 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 56-2023, amend filed 12/15/2023, effective 01/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 9-2021, adopt filed 02/28/2021, effective 03/01/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,398 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 24 CLINICAL LABORATORIES 
+ 333-024-0035 
+ Internal Quality Control for Moderate and High Complexity Laboratories
+ 
+ 
+ (1) Laboratories that perform testing using unmodified, moderate complexity test systems, cleared by the U.S. Food and Drug Administration (FDA) through the 510(k) or Premarket Approval (PMA) process must comply with quality control requirements in OAR 333-024-0035(3) through (21) and OAR 333-024-0037. 
+
+ (2) High complexity testing, methods developed in house, devices not subject to clearance by the FDA through the 510(k) or PMA process, or modified test systems must comply with quality control requirements in OAR 333-024-0035(3) through 333-024-0035(21) and OAR 333-024-0037. 
+
+ (3) The procedure manual must include, when applicable to the test procedure: 
+
+ (a) Requirements for specimen collection and processing, and criteria for specimen rejection; 
+
+ (b) Procedures for microscopic examinations, including the detection of inadequately prepared slides; 
+
+ (c) Step-by-step performance of the procedure, including test calculations and interpretation of results; 
+
+ (d) Preparation of slides, solutions, calibrators, controls, reagents, stains and other materials used in testing; 
+
+ (e) Calibration and calibration verification procedures; 
+
+ (f) The reportable range for patient test results; 
+
+ (g) Control procedures; 
+
+ (h) Remedial action to be taken when calibration or control results fail to meet the laboratory’s criteria for acceptability; 
+
+ (i) Limitations in methodologies, including interfering substances; 
+
+ (j) Reference range (normal values); 
+
+ (k) Imminent life-threatening laboratory results or “panic values”; 
+
+ (l) Pertinent literature references; 
+
+ (m) Appropriate criteria for specimen storage and preservation to ensure specimen integrity until testing is completed; 
+
+ (n) The laboratory’s system for reporting patient results including, when appropriate, the protocol for reporting panic values; 
+
+ (o) Description of the course of action to be taken in the event that a test system becomes inoperable; 
+
+ (p) Criteria for the referral of specimens including procedures for specimen submission and handling; 
+
+ (q) Manufacturers’ package inserts or operator manuals may be used. Any of the required items for procedure manuals not provided by the manufacturer must be written by the laboratory; 
+
+ (r) The laboratory must maintain a copy of each procedure with the dates of initial use and discontinuance. These records must be retained for two years after a procedure has been discontinued; and 
+
+ (s) Textbooks may be used as a supplement to these written descriptions but may not be used in lieu of the laboratory’s written procedures for testing or examining specimens. 
+
+ (4) Laboratory procedure manuals and relevant texts shall be reviewed, approved and signed by the director, initially and whenever there is a change in method or policy. 
+
+ (5) The laboratory must define and document criteria for those conditions that are essential for proper storage of reagents and specimens, accurate and reliable test system operation to include water quality, temperature, humidity, protection of test equipment, test result reporting and remedial action taken to correct any conditions that fail to meet the laboratory’s criteria. 
+
+ (6) Reagents, solutions, culture media, control materials, calibration materials and other supplies, as appropriate, must be labeled to indicate: 
+
+ (a) Identity and, when significant, titer, strength or concentration; 
+
+ (b) Recommended storage requirements; 
+
+ (c) Preparation and expiration date; and 
+
+ (d) Other pertinent information required for proper use. 
+
+ (7) Reagents, solutions, culture media, control materials, calibration materials and other supplies must be prepared, stored, and handled in a manner to ensure that: 
+
+ (a) They are not used when they have exceeded their expiration date, have deteriorated or are of substandard quality; and 
+
+ (b) Components of reagent kits of different lot numbers are not interchanged unless otherwise specified by the manufacturer. 
+
+ (8) Prior to reporting patient test results, the laboratory must verify or establish, for each method; accuracy, precision, analytical sensitivity and specificity, the reportable range of patient test results, the reference range (normal values) and any other applicable performance characteristic. 
+
+ (a) Each laboratory that introduces a new procedure for patient testing using a device (instrument, kit, or test system) must ensure that it meets the requirements for quality control; 
+
+ (b) The laboratory must have documentation of the verification or establishment of all applicable test performance specifications; 
+
+ (c) Perform function checks including background or baseline, verifying that they are within established limits and document results; and 
+
+ (d) The manufacturer’s reference range for each test is appropriate for the laboratory’s patient population. 
+
+ (9) A laboratory that introduces a new procedure must, prior to reporting patient test results: 
+
+ (a) Verify or establish for each method the performance specifications for the following performance characteristics: 
+
+ (A) Accuracy; 
+
+ (B) Precision; 
+
+ (C) Analytical sensitivity; 
+
+ (D) Analytical specificity to include interfering substances; 
+
+ (E) Reportable range of patient test results; 
+
+ (F) Reference ranges; and 
+
+ (G) Any other performance characteristic required for test performance. 
+
+ (b) Establish calibration and control procedures for the tests as required in OAR 333-024-0026; and 
+
+ (c) Document the verification or establishment of all applicable test performance specifications. 
+
+ (10) The laboratory must have available written policies and procedures for the preparation of patients, specimen collection, specimen labeling, specimen preservation, conditions for specimen transportation, specimen processing and rejection of unacceptable specimens. 
+
+ (11) The laboratory must ensure the identification and integrity of the patient specimen(s) from collection until testing has been completed and the results reported. 
+
+ (12) The laboratory must have written instructions for the handling of referral specimens. 
+
+ (13) For qualitative tests, the laboratory must include a positive and negative control each day of testing, unless the manufacturer’s instructions, or the laboratory’s method validation indicates the need for more frequent control checks to assure accurate testing. 
+
+ (14) For quantitative tests, the laboratory must include at least two samples of different concentrations of either calibration materials, control materials, or a combination thereof at least each day of testing, unless the manufacturer’s instructions, or the laboratory’s method validation indicates the need for more frequent control checks to assure accurate testing. 
+
+ (15) Limits for controls shall be clearly stated and recorded. The course of action taken when analyses are outside these control limits shall be clearly stated and recorded. The control limits shall be set so that clinically reliable results are assured. Values for standards shall be clearly stated and recorded. 
+
+ (16) The manufacturer’s instructions shall be followed unless there is documentation available showing the changes made, and proof these changes do not adversely affect the reliability of the test result. 
+
+ (17) All test methods shall meet the following quality control requirements: 
+
+ (a) The laboratory must follow the manufacturer’s instructions for control procedures; 
+
+ (b) Each day of use, the laboratory must evaluate the detection phase of direct antigen systems using an appropriate positive and negative control material (organism or antigen extract). When direct antigen systems include an extraction phase, the system must be checked each day of use using a positive organism; 
+
+ (c) If calibration or control materials are not available, the laboratory must have an alternative mechanism to assure the validity of patient test results; 
+
+ (d) Control samples must be tested in the same manner as patient specimens; 
+
+ (e) When calibration or control materials are used, statistical parameters (for example, mean and standard deviation) for each lot number of calibration material and each lot of control material must be determined through repetitive testing: 
+
+ (A) The stated values of an assayed control material may be used as the target values provided the stated values correspond to the methodology and instrumentation employed by the laboratory and are verified by the laboratory; and 
+
+ (B) Statistical parameters for unassayed materials must be established over time by the laboratory through concurrent testing with calibration materials or control materials having previously determined statistical parameters. 
+
+ (f) Control results must meet the laboratory’s criteria for acceptability prior to reporting patient test results; and 
+
+ (g) Reagent and supply checks: 
+
+ (A) The laboratory must check each batch or shipment of reagents, discs, stains, antisera and identification systems (systems using two or more substrates) when prepared or opened for positive and negative reactivity, as well as graded reactivity if applicable; 
+
+ (B) Each day of use (unless otherwise specified in OAR 333-024-0037), the laboratory must test staining materials for intended reactivity to ensure predictable staining characteristics; 
+
+ (C) The laboratory must check fluorescent stains for positive and negative reactivity each time of use (unless otherwise specified); 
+
+ (D) The laboratory must document that the physical characteristics of the media are not compromised and report any deterioration in the media to the manufacturer; 
+
+ (E) The laboratory must follow the manufacturer’s specifications for using the media and be responsible for the test results; 
+
+ (F) The laboratory must check each batch or shipment of media for sterility, ability to support growth, and as appropriate, selectivity/inhibition and/or biochemical response; 
+
+ (G) The laboratory may use manufacturer’s control checks of media provided the manufacturer’s product insert specifies that the manufacturer’s quality control checks meet the Clinical and Laboratory Standards Institute (CLSI) standards for media quality control, except for the following media: 
+
+ (i) Campylobacter agar; 
+
+ (ii) Chocolate agar; 
+
+ (iii) Pathogenic Neisseria selective isolation media; 
+
+ (iv) Media used for the isolation of parasites, viruses, mycoplasmas, chlamydia; 
+
+ (v) Mueller Hinton media used for susceptibility tests; and 
+
+ (vi) Commercially prepared media packaged as a unit or system consisting of two or more different substrates. 
+
+ (18) Remedial action policies and procedures must be established, implemented and documented when: 
+
+ (a) The test systems do not meet the laboratory’s established performance specifications; 
+
+ (b) Patient test values are outside of the laboratory’s reportable range of patient test results; 
+
+ (c) The laboratory’s reference range for a test procedure is inappropriate for the laboratory’s patient population; 
+
+ (d) Results of control, calibration or calibration verification materials fail to meet the laboratory’s established criteria; 
+
+ (e) The laboratory cannot report patient test results within its established time frames; and must notify the appropriate individual of the delayed testing; or 
+
+ (f) Errors are detected in the reported patient test results: 
+
+ (A) The laboratory must promptly notify the authorized person ordering or individual utilizing the test results of the reporting error; 
+
+ (B) Issue a corrected report to the authorized person ordering or individual utilizing the test report; and 
+
+ (C) Maintain exact duplicates of the original and the corrected report for two years. 
+
+ (19) For electrophoretic determinations: 
+
+ (a) At least one control sample must be used in each electrophoretic cell; and 
+
+ (b) The control sample must contain fractions representative of those routinely reported in patient specimens. 
+
+ (20) If an initial screen for substances of abuse is positive and confirmatory testing is required as directed under OAR 333-024-0345(1), it must be confirmed by a principle stated in OAR 333-024-0345(3). 
+
+ (21) Additional quality control practices may be required by the Public Health Division for specialized categories of testing. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 438.040 
+ 
+ 
+ Statutes/Other Implemented:  ORS 438.040 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 21-2026, amend filed 05/20/2026, effective 05/21/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 6-1995, f. & cert. ef. 9-13-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 20-1994, f. & cert. ef. 7-20-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 28-1988, f. & cert. ef. 12-7-88 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HB 248, f. 6-30-70, ef. 7-25-70 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

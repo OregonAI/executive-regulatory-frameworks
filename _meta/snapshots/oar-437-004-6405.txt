@@ -1,0 +1,276 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Oregon Occupational Safety and Health Division - Chapter 437 
+ 
+ 
+ 
+ 
+ Division 4 AGRICULTURE 
+ 437-004-6405 
+ Restrictions Associated With Outdoor Production Pesticide Applications 
+ 
+ Note: Oregon OSHA has declined to adopt 40 CFR 170.405(a). In Oregon OAR 437-004-6405 applies. 
+
+ This rule applies in Oregon w here workers or other people are adjacent to pesticides being applied in outdoor production areas that are within the boundaries of the establishment. This rule becomes effective January 1, 2019. 
+
+ Note: Nothing in these rules affects separate statutory or regulatory requirements such as the buffer zone requirement related to aerial herbicide applications in forestry operations (ORS 527.672). 
+
+ (1) Treated area: The area to which a pesticide is being directed and/or deposited during an application. After the application is complete, the treated area is subject to the labeling-specified restricted-entry interval (REI) and the post-application entry restrictions specified in Sec. 170.407 of the Worker Protection Standard (WPS). 
+
+ (2) Enclosed agricultural structure: a fully-enclosed space (has walls, ceilings, and floors that minimize the entry of outside air when doors, windows, and mechanical air intakes are closed) with an interior area that shelters occupants from dermal exposure to pesticide spray drift. 
+
+ (3) Application Exclusion Zone (AEZ): The AEZ is an area that moves with and exists in relationship to the application equipment. The number of feet shown is the horizontal radius of the area surrounding the application equipment during the application process and may extend beyond the treated area. It extends downward from that horizontal plane to the ground. Pesticide labels that have more stringent restrictions regarding distances must be followed. The agricultural employer must implement the AEZ as follows: 
+
+ (a) Workers and labor housing occupants must evacuate the AEZ, which shall extend 150 feet from the application equipment and last until 15 minutes after the application equipment passes, when the label requires the handler to use respiratory protection during application and one of the following applies: 
+
+ (A) The application is by air blast sprayer; 
+
+ (B) The pesticide is applied aerially; 
+
+ (C) The spray quality is smaller than medium; 
+
+ (b) Workers and labor housing occupants must either remain in an enclosed agricultural structure or evacuate the AEZ, which shall extend 100 feet from the application equipment and last until 15 minutes after the application equipment passes, when the label does not require the handler to use respiratory protection during application and one of the following applies: 
+
+ (A) The application is by air blast sprayer; 
+
+ (B) The pesticide is applied aerially; 
+
+ (C) The spray quality is smaller than medium. 
+
+ Workers not on paid status or labor housing occupants must be permitted to evacuate even if the employer otherwise chooses to allow them to remain in an enclosed agricultural structure. 
+
+ (c) Workers and labor housing occupants must either remain in an enclosed agricultural structure or evacuate the AEZ, which shall extend 25 feet from the application equipment when all of the following apply: 
+
+ (A) The application is not by air blast sprayer; 
+
+ (B) The pesticide is not applied aerially; 
+
+ (C) The pesticide is sprayed from a height greater than 12 inches from the planting medium; 
+
+ (D) The spray quality is medium or larger; 
+
+ (d) No AEZ applies for appropriately trained and equipped handlers involved in the application . 
+
+ Note: No AEZ is required for applications not covered by the above. Examples include applications of granular, soil incorporated (other than fumigants) pre-plant, dipping cuttings, and at-plant pesticide applications as long as they are applied from a distance of less than 12 inches from the planting medium and use a spray quality of medium or larger. 
+
+ See Figure 1 -- Worker Protection Standard Application Exclusion Zone Decision Matrix. 
+
+ (4) The agricultural employer must ensure that prior to pesticide applications, any enclosed agricultural structures (labor housing or work-related structures) that are located within the AEZ and that are used at any time by employees and other occupants must have all of the following: 
+
+ (a) All doors and windows closed; 
+
+ (b) Any air in-take devices or mechanisms turned off; 
+
+ (c) Provisions to protect or store personal or household items that are not located in an enclosed agricultural structure from potential contamination; 
+
+ (d) A closeable storage area for shoes/boots to prevent tracking of pesticide into the structures where people live or reside. 
+
+ (5) Employers must provide the following information in a manner that is easy to understand and effectively conveys the information needed prior to the pesticide application, to occupants of an enclosed agricultural structure in the AEZ: 
+
+ (a) Instructions on closing windows and doors to minimize exposure to outside air regardless of whether they are staying inside the enclosed agricultural structure or evacuating during nearby pesticide applications. 
+
+ (b) Instructions on how to close potential air-intakes and any other measures to minimize exposure to outside air during nearby pesticide applications. 
+
+ (c) The start and stop times for remaining inside the enclosed agricultural structures and how to determine when the application equipment is in range. 
+
+ (d) Instructions as to whether people can, as appropriate, evacuate or stay in an enclosed agricultural structure, how to maintain protective measures, and how long they must remain outside the AEZ. 
+
+ (e) Instructions on how to protect personal or household items in the AEZ from potential contamination. 
+
+ (f) Instructions on how to report pesticide residue or deposit on enclosed agricultural structures, personal, or household items in AEZ. 
+
+ (6) Employers must provide information and ensure that all adult occupants of agriculture labor housing within the AEZ have access to: 
+
+ (a) An information station located in close proximity to agriculture labor housing that contains information on pending applications, with a means of alerting occupants to changing information. 
+
+ (b) Information on how to prevent and reduce pesticide exposure. 
+
+ (c) Information about the location of the pesticide safety information required by Sec. 170.311(a) 
+
+ (7) If anyone other than a trained and protected handler exits an enclosed agricultural structure and enters the AEZ the handler must suspend the pesticide application as per Sec. 170.505(b). 
+
+ Figure 1- Worker Protection Standard, Application Exclusion Zone Decision Matrix 
+
+ *Spray quality: (as defined by the American Society of Agricultural and Biological Engineers Standard S-572.1) considers several factors including the nozzle design, system pressure, and speed of the application equipment. The eight spray quality categories are referenced in nozzle charts: 
+
+ Smaller than medium (droplet spectrum with volume median diameter of less than 294 microns+): 
+
+ Extra fine (XF) 
+
+ Very fine (VF) 
+
+ Fine (F) 
+
+ Medium or larger (droplet spectrum with volume median diameter of 294 microns+ or more): 
+
+ Medium (M) 
+
+ Coarse (C) 
+
+ Very coarse (VC) 
+
+ Extra coarse (XC) 
+
+ Ultra coarse (UC) 
+
+ +Micron = (um) =micrometer: Standard unit of measure for particulate matter. 
+
+ 1 um is 1/1000th of a millimeter. 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 654.025(2) & ORS 656.726(4) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 654.001-654.295 & ORS 654.750-654.780 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSHA 2-2018, adopt filed 06/29/2018, effective 01/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

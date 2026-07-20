@@ -1,0 +1,320 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 314 INCOME TAXATION GENERALLY  GENERAL PROVISIONS 
+ 150-314-0250 
+ Refunds; Net Operating Loss and Net Capital Loss Carryback Claims
+ 
+ 
+ (1) Application. For purposes of this rule, provisions applying to individuals also apply to estates and trusts. 
+
+ (2) Extended period for refund claim. 
+
+ (a) A special period of limitations is provided under ORS 314.415(5)(a) to claim a refund or credit attributable to an individual net operating loss (NOL) or corporation net capital loss carryback. A refund claim for an individual net operating loss or corporation net capital loss carryback year must be filed within three years from the due date (including extensions) of the taxable year of the net operating loss or net capital loss which results in the carryback. 
+
+ 
+ Example 1: Edward filed his 2007, 2008, 2009, 2010, and 2011 returns by their respective due dates. On March 15, 2014, Edward filed his 2012 return on which he claimed a net operating loss. The refund claims for the carryback years (2007 through 2011) must be filed by April 15, 2016, three years after the due date of the 2012 net operating loss year return. 
+ 
+
+ (b) The provision allowing refunds of tax within two years of the date of payment is not extended. 
+
+ 
+ Example 2: Assume the same facts as in Example 1 except that the original 2012 return was not filed until March 15, 2016, was filed as a paid return and did not claim a net operating loss. On June 15, 2016, Edward filed an amended return (refund claim) for 2012 to claim an additional business expense. The amended return creates a net operating loss for 2012. Edward is allowed a refund for the 2012 taxes paid within the two years preceding his refund claim. Refund claims for the net operating loss carryback years (2007 through 2011) must have been filed by April 15, 2016, three years after the due date of the 2012 net operating loss year return. The date of filing of the net operating loss claim (June 15, 2016) does not extend the date of filing of the refund claims for the carryback years beyond the three-year period. 
+ 
+
+ (3) Carryback periods for individuals. The total number of years to which an NOL may be carried back or forward is the same for Oregon and federal (including exceptions and limitations). 
+
+ (4) Limitations on credit or refund. 
+
+ (a) If a claim for a credit or refund is based on an overpayment attributable to an individual net operating loss or corporation net capital loss carryback, the credit or refund may exceed the amount of tax paid within three years of when the return was filed or within two years immediately preceding the filing of the claim but only to the extent the overpayment is attributable to the net operating loss or net capital loss carryback. 
+
+ 
+ Example 3: Jake amended his timely filed 2013 return November 1, 2017 to claim a refund for a carryback arising from a 2015 net operating loss. In addition to reducing income for the net operating loss carryback, Jake claimed a subtraction for U.S. government interest and an additional exemption credit. The refund claim is limited to the portion of the overpayment attributable to the net operating loss carryback. The subtraction for interest and the additional exemption credit are outlawed by the period of limitations under ORS 314.415(2). 
+ 
+
+ (b) If a claim for a credit or refund is based not only on an overpayment attributable to an individual net operating loss or corporation net capital loss carryback, but also on other items, the credit or refund may not exceed the sum of: 
+
+ (A) The amount of the overpayment attributable to the individual net operating loss or corporation net capital loss carryback, and 
+
+ (B) The balance of such overpayment not to exceed the amount of taxes paid within the periods provided in ORS 314.415(2)(a). 
+
+ 
+ Example 4: Assume the same facts as in Example 3 except that Jake paid additional tax for the 2013 taxable year on May 1, 2016. He may receive a refund for any overpayment of taxes attributable to the net operating loss carryback plus any remaining balance of overpayment, but not in excess of the amount of any taxes paid for 2013 during the two years immediately preceding November 1, 2017, the date the claim was filed. 
+ 
+
+ (c) Delinquent returns. If a taxpayer filed an original return after the three-year period for requesting a refund provided in ORS 314.415(2)(a), but amends the same return for an individual net operating or corporation net capital loss carryback within the period allowed by ORS 314.415(5)(a), a refund will be allowed. The refund will be limited to the amount of net tax liability shown on the original return. Any additional refund requested on the amended return is barred by ORS 314.415(2)(a). 
+
+ 
+ Example 5: Chuck files his 2014 return on September 30, 2018, more than three years beyond the original due date of the return. His return showed tax liability of $500 and he requested a refund of $300 for overpayment of estimated tax. The refund was denied based on ORS 314.415(2)(a). On October 15, 2018, Chuck filed an amended 2014 return carrying back a 2017 net operating loss. Chuck requests a refund of $800 since he filed within the additional three-year period allowed by ORS 314.415(5)(a). Chuck will receive a refund of $500 that is attributable to the net operating loss carryback. The additional $300 refund is not allowable based on ORS 314.415(2)(a). 
+ 
+
+ (5) Treatment of carryover amounts. Although refunds for NOL years, individual net operating loss, or corporation net capital loss carryback years may be closed or limited under ORS 314.415 and this rule, the balance of any individual NOL or corporation net capital loss carryover amounts not fully absorbed in carryback years may be used in the computation of Oregon taxable income for all applicable carryover years to the same extent includable for federal. 
+
+ 
+ Example 6: Jay filed his original 2010 return showing a net operating loss of $20,000 on July 1, 2018. Refunds for the carryback years 2008 and 2009 and the carryforward years of 2011, 2012, 2013, and 2014 are barred by the statute of limitations. However, any portion of the net operating loss deduction not fully absorbed in those years may be used to determine Oregon taxable income for 2015 and later years in accordance with ORS 316.028 and the related rules. The limitation of the refunds for the closed years will not limit the carryover amounts to be used in subsequent years. 
+ 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 
+ 
+ 
+ Statutes/Other Implemented:  ORS 314.415 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 28-2018, amend filed 12/28/2018, effective 01/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 150-314.415(5)(a), REV 31-2016, f. 8-12-16, cert. ef. 9-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 10-2006, f. 12-27-06, cert. ef. 1-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 150-314.415(4)(a), REV 4-2005, f. 12-30-05, cert. ef. 1-1-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 9-1999, f. 12-30-99, cert. ef. 12-31-99 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RD 3-1995, f. 12-29-95, cert. ef. 12-31-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RD 7-1993, f. 12-30-93, cert. ef. 12-31-93 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RD 9-1992, f. 12-29-92, cert. ef. 12-31-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RD 7-1991, f. 12-30-91, cert. ef. 12-31-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ RD 7-1989, f. 12-18-89, cert. ef. 12-31-89 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

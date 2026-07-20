@@ -1,0 +1,185 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 308 ASSESSMENT OF PROPERTY FOR TAXATION 
+ 150-308-1090 
+ Calculation of MSAV When SAV Soil Classification is Changed 
+ 
+ (1) Definitions:  (a) “MSAV” means maximum assessed value for property subject to special assessment (maximum specially assessed value).  (b) “SAV” means specially assessed value.  (c) “MSAV tables” are the tables that provide a maximum assessed value per acre equal to 103% of the maximum assessed value per acre from the previous assessment year. The county assessor is required to develop these tables for each assessment year under ORS 308A.107(3)(b).  (2) When an SAV soil classification as provided by the assessor in each county is changed, the MSAV must use corresponding soil classification values from the MSAV Table if:  (a) There is a physical change such as, but not limited to:  (A) Irrigation is added.  (B) Irrigation is removed.  (C) Soil movement caused by slides, erosion, flooding, wind, etc.  (D) Soil is depleted indefinitely due to extended over use of crop.  (E) Soil is enhanced due to extensive additives to the soil.  (F) Trees are removed so that cultivation can take place and previous classification was based in part on the inability to cultivate.  (G) Rocks and other debris are removed to enhance cultivation.  (H) Site improvements are added including but not limited to drainage system, fill, contouring, leveling, and diking.  (b) There are specific non-physical changes such as:  (A) Comprehensive soil reclassification due to a new published government agency soil survey.  (B) Land class acreage adjustments to implement a GIS mapping system.  (C) The assessor reasonably determines that a property’s land is no longer in the same land class that it was in during the prior assessment year. The assessor’s determination that the land is no longer in the same land class cannot be arbitrary, but must be based on preexisting criteria for the respective land classes. The preexisting criteria for the respective land classes must be clear, objective, consistently applied and uniform within the county. Land classification changes must be the result of the reasonable application of the preexisting criteria to the actual condition of the land.  (3) The assessor must calculate the corresponding MSAV for new SAV soil classes using the following procedure:  (a) Divide the average MSAV for all soil types by the average SAV for all soil types to derive a changed property ratio.  (b) Multiply the SAV value of the new soil type by the changed property ratio to obtain the MSAV for the new soil class. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 
+ 
+ 
+ Statutes/Other Implemented:  ORS 308.370 & 308A.107 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 150-308A.107, REV 25-2016, f. 8-12-16, cert. ef. 9-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 11-2000, f. 12-29-00, cert. ef. 12-31-00, Renumbered from 150-308.370(5) 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 13-1999, f. 12-30-99, cert. ef. 12-31-99 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

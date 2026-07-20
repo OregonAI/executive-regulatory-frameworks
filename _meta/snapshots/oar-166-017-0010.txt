@@ -1,0 +1,223 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Secretary of State 
+ Archives Division - Chapter 166 
+ 
+ 
+ 
+ 
+ Division 17 ELECTRONIC RECORDS 
+ 166-017-0010 
+ Definitions 
+ 
+ In addition to the definitions contained in OAR 166-005-0010, the following definitions apply to this division: 
+
+ (1) "AIIM" — Association for Information and Image Management. 
+
+ (2) "ANSI" — American National Standards Institute. 
+
+ (3) "ASCII" — American Standard Code for Information Interchange; A standard, seven-bit character set for use by digital computers, which includes 96 displaying symbols (letters, digits, punctuation) and 32 control codes (line feed, newline, tab, etc.). 
+
+ (4) “Born-digital records” refers to records which originate in a digital form rather than physical formats such as paper or film. 
+
+ (5) “Cloud storage” is a model of networked enterprise storage where data is stored in virtualized pools of storage which may be hosted by third parties. 
+
+ (6) "Digitization" means the process of transforming analog material into electronic form, especially for storage and use in a computer. 
+
+ (7) "DPI" — Dots per inch; refers to the number of pixels contained in a linear inch. 
+
+ (8) "Electronic record" means any information recorded in a form that requires a machine to process and access the information. 
+
+ (9) "Electronic records system" is a generic term to indicate any combination of hardware, media or storage, and software used to store electronic records. 
+
+ (10) "Hybrid micrographic system" means a system that combines a micrographic/microfilm analog system with electronic, digital technology. 
+
+ (11) “IEC” — International Electrotechnical Commission. 
+
+ (12) “ISO” — International Organization for Standardization. 
+
+ (13) "Magnetic media" means any type of storage medium that utilizes magnetic patterns to represent information. 
+
+ (14) “NIST SP” — National Institute of Standards and Technology Special Publication 
+
+ (15) "Open format" means a data format that is defined in complete detail and that allows transformation of the data to other formats without loss of information. An open format may be either standards-based or proprietary. 
+
+ (16) "Optical media" means a platter used to store large quantities of data that can be read using light. 
+
+ (17) "WORM” — Write once, read many; refers to a type of optical disk which cannot be erased or amended. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 192.005-192.170 & ORS 357.805-357.895 
+ 
+ 
+ Statutes/Other Implemented:  ORS 192.005-192.170 & ORS 357.805-357.895 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSA 1-2026, amend filed 01/06/2026, effective 01/06/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OSA 1-2016, f. & cert. ef. 5-5-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OSA 2-1994, f. 1-28-94, cert. ef. 4-1-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

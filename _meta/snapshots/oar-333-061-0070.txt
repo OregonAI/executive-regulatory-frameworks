@@ -1,0 +1,607 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Public Health Division - Chapter 333 
+ 
+ 
+ 
+ 
+ Division 61 DRINKING WATER 
+ 333-061-0070 
+ Cross Connection Control Requirements
+ 
+ 
+ (1) Water suppliers must undertake cross connection control programs to protect the public water systems from pollution and contamination. 
+
+ (2) For the purposes of this rule, the following definitions apply: 
+
+ (a) "Pollutant" means a substance that creates an impairment of the quality of the water to a degree which does not create a hazard to the public health, but which does adversely affect the aesthetic qualities of the water. 
+
+ (b) "Thermal expansion" means the pressure increase due to a rise in water temperature that occurs in water piping systems when such systems become "closed" by the installation of a backflow prevention assembly or other means, and will not allow for expansion beyond that point of installation. 
+
+ (3) The water supplier's responsibility for cross connection control must begin at the water supply source, include all public treatment, storage, and distribution facilities under the water supplier's control, and end at the point of delivery (POD) to the water user's premises. 
+
+ (4) Water suppliers must develop and implement cross connection control programs that meet the minimum requirements set forth in these rules. 
+
+ (5) Water suppliers must develop a procedure to coordinate cross connection control requirements with the appropriate local administrative authority having jurisdiction. 
+
+ (6) The water supplier must ensure that inspections of approved air gaps, approved devices, and inspections and tests of approved backflow prevention assemblies protecting the public water system are conducted: 
+
+ (a) By an Oregon Health Authority (Authority) certified backflow assembly tester with a currently calibrated gauge; 
+
+ (b) At the time of installation, repair or relocation; 
+
+ (c) At least once every 12 months after installation; 
+
+ (d) More frequently than every 12 months for approved backflow prevention assemblies that repeatedly fail, or are protecting health hazard cross connections, as determined by the water supplier; 
+
+ (e) After a backflow incident; or 
+
+ (f) After an approved air gap is re-plumbed. 
+
+ (7) Approved air gaps, approved devices, or approved backflow prevention assemblies, found not to be functioning properly must be flushed and cleaned, repaired, replaced or re-plumbed by the water user or premises owner, as defined in the water supplier's local ordinance or enabling authority, or the water supplier may take action in accordance with subsection (10)(a) of this rule. 
+
+ (8) A water user or premises owner who obtains water from a water supplier must notify the water supplier if they add any chemicals or substance to the water. 
+
+ (9) Mandatory premises isolation requirements: 
+
+ (a) For service connections to premises listed or defined in Table 46 (Premises Requiring Isolation), the water supplier must ensure an approved backflow prevention assembly or an approved air gap is installed; 
+
+ (A) Premises with cross connections not listed or defined in Table 46 (Premises Requiring Premises Isolation), must be individually evaluated. The water supplier must require the installation of an approved backflow prevention assembly or an approved air gap commensurate with the degree of hazard on the premises, as defined in Table 47 (Backflow Prevention Methods); 
+
+ (B) In lieu of premise isolation, the water supplier may accept an in-premises approved backflow prevention assembly as protection for the public water system when the approved backflow prevention assembly is installed, maintained and tested in accordance with these rules. 
+
+ (C) Water suppliers may, on a case-by-case basis, provide an exemption to mandatory premises isolation requirements to premises listed on Table 46, if the premises contains no health hazards. 
+
+ (b) Where premises isolation is used to protect against a cross connection, the following requirements apply; 
+
+ (A) The water supplier must: 
+
+ (i) Ensure the approved backflow prevention assembly is installed at a location adjacent to the service connection or POD; 
+
+ (ii) Ensure any alternate location used must be with the approval of the water supplier and must meet the water supplier's cross connection control requirements; and 
+
+ (iii) Notify the premises owner and water user, in writing, of thermal expansion concerns. 
+
+ (B) The premises owner must: 
+
+ (i) Ensure no cross connections exist between the POD from the public water system and the approved backflow prevention assemblies, when these are installed in an alternate location; and 
+
+ (ii) Assume responsibility for installation, testing, maintenance, and repair of the installed approved backflow prevention assembly to protect against the hazard. 
+
+ (c) Where unique conditions exist, but not limited to, extreme terrain or pipe elevation changes, or structures greater than three stories in height, even with no actual or potential health hazard, an approved backflow prevention assembly may be installed at the POD; and 
+
+ (d) Where the water supplier chooses to use premises isolation by the installation of an approved backflow prevention assembly on a one- or two-family dwelling under the jurisdiction of the Oregon Plumbing Specialty Code and there is no unprotected actual or potential cross connection, the water supplier must: 
+
+ (A) Install the approved backflow prevention assembly at the POD; 
+
+ (B) Notify the premises owner and water user in writing of thermal expansion concerns; and 
+
+ (C) Take responsibility for installation, testing, maintenance and repair of the installed approved backflow prevention assembly. 
+
+ (10) In community water systems, water suppliers must implement a cross connection control program directly, or by written agreement with another agency experienced in cross connection control. The local cross connection program must consist of the following elements: 
+
+ (a) Local ordinance or enabling authority that authorizes discontinuing water service to premises for: 
+
+ (A) Failure to remove or eliminate an existing unprotected or potential cross connection; 
+
+ (B) Failure to install a required approved backflow prevention assembly; 
+
+ (C) Failure to maintain an approved backflow prevention assembly; or 
+
+ (D) Failure to conduct the required testing of an approved backflow prevention assembly. 
+
+ (b) A written program plan for community water systems with 300 or more service connections must include the following: 
+
+ (A) A list of premises where health hazard cross connections exist, including, but not limited to, those listed in Table 46 (Premises Requiring Premises Isolation); 
+
+ (B) Current records of approved backflow prevention assemblies installed, inspections completed, backflow prevention assembly test results on backflow prevention assemblies and verification of current Backflow Assembly Tester certification; 
+
+ (C) A public education program about cross connection control; 
+
+ (D) A current list of certified cross connection control staff members; and 
+
+ (E) Written procedures for: 
+
+ (i) Evaluating the degree of hazard posed by a water user's premises; 
+
+ (ii) Notifying the water user if a non-health hazard or health hazard is identified, and for informing the water user of any corrective action required; 
+
+ (iii) A description of what corrective actions will be taken if a water user fails to comply with the water supplier's cross connection control requirements; 
+
+ (iv) The type of protection required to prevent backflow into the public water supply, commensurate with the degree of hazard that exists on the water user's premises, as defined in Table 47 (Backflow Prevention Methods); and 
+
+ (v) Ensuring backflow assembly testers have current state tester certification. 
+
+ (c) The water supplier must prepare and submit a cross connection control Annual Summary Report to the Authority, on forms provided by the Authority, before the last working day of March each year. 
+
+ (d) In community water systems having 300 or more service connections, water suppliers must ensure at least one person is certified as a Cross Connection Control Specialist, unless specifically exempted from this requirement by the Authority. 
+
+ (11) Fees: Water suppliers responsible for community water systems must submit an annual cross connection program implementation fee to the Authority, based on the number of service connections as prescribed by Table 45. 
+
+ (a) Billing invoices will be mailed to water systems in the first week of November each year and are due by January first of the following year; 
+
+ (b) Fees are payable to Oregon Health Authority by check or money order; 
+
+ (c) A late fee of 50 percent of the original amount will be added to the total amount due and will be assessed after January 31 of each year. 
+
+ (d) The Authority may waive an annual cross connection program implementation fee that is past-due on a case-by-case basis, as a result of changes in the ownership of the public water system or other circumstances. 
+
+ (12) In transient or non-transient non-community (NTNC) water systems, the water supplier that owns or operates the system must: 
+
+ (a) Ensure no cross connections exist, or are isolated from the potable water system with an approved backflow prevention assembly, as required in section (13) of this rule; 
+
+ (b) Ensure approved backflow prevention assemblies are installed at, or near, the cross connection; and 
+
+ (c) Conduct an annual cross connection survey and inspection to ensure compliance with these rules, and test all backflow assemblies annually. All building permits and related inspections are to be made by the Department of Consumer and Business Services, Building Codes Division, as required by ORS 447.020. 
+
+ (13) Approved backflow prevention assemblies and devices required under these rules must be approved by the University of Southern California, Foundation for Cross-Connection Control and Hydraulic Research, or other equivalent testing laboratories approved by the Authority. 
+
+ (14) Backflow prevention assemblies installed before the effective date of these rules that were approved at the time of installation, but are not currently approved, must be permitted to remain in service provided the assemblies are not moved, the piping systems are not significantly remodeled or modified, the assemblies are properly maintained, and they are commensurate with the degree of hazard they were installed to protect. The assemblies must be tested at least annually and perform satisfactorily to the testing procedures set forth in these rules. 
+
+ (15) Tests performed by Authority-certified Backflow Assembly Testers must be in conformance with procedures established by the University of Southern California, Foundation for Cross Connection Control and Hydraulic Research, Manual of Cross-Connection Control, 10th Edition, or other equivalent testing procedures approved by the Authority. 
+
+ (16) Backflow prevention assemblies must be tested by Authority-certified Backflow Assembly Testers, journeyman plumbers or apprentice plumbers as prescribed by OAR 333-061-0072. The Backflow Assembly Tester must produce three copies of all test reports. One copy must be maintained in the Tester’s permanent records, one copy must be provided to the water user or property owner, and one copy must be provided to the water supplier. 
+
+ (a) Test reports must be provided within 10 working days; and 
+
+ (b) The test reports must be in a manner and form acceptable to the water supplier. 
+
+ (17) All approved backflow prevention assemblies subject to these rules must be installed in accordance with OAR 333-061-0071 and the Oregon Plumbing Specialty Code. 
+
+ (18) The Authority must establish an advisory board for cross connection control issues consisting of not more than 10 members, and including representation from the following: 
+
+ (a) Oregon licensed plumbers; 
+
+ (b) Authority certified backflow assembly testers; 
+
+ (c) Authority certified cross connection specialists; 
+
+ (d) Water suppliers; 
+
+ (e) The general public; 
+
+ (f) Authority certified instructors of backflow assembly testers or cross connection specialists; 
+
+ (g) Backflow assembly manufacturers or authorized representatives; 
+
+ (h) Engineers experienced in water systems, cross connection control or backflow prevention; 
+
+ (i) Oregon certified plumbing inspectors; and 
+
+ (j) The Oregon Water Resources Department. 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 448.131 
+ 
+ 
+ Statutes/Other Implemented:  ORS 448.131, 448.150, 448.278 & 448.279 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 118-2024, amend filed 12/13/2024, effective 01/01/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 7-2023, amend filed 01/31/2023, effective 02/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 2-2018, amend filed 01/10/2018, effective 01/10/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 5-2016, f. 2-10-16, cert. ef. 4-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 3-2013, f. & cert. ef. 1-25-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 7-2010, f. & cert. ef. 4-19-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 4-2009, f. & cert. ef. 5-18-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 2-2008, f. & cert. ef. 2-15-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 2-2006, f. & cert. ef. 1-31-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PH 34-2004, f. & cert. ef. 11-2-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHD 4-1999, f. 7-14-99, cert. ef. 7-15-99 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 1-1996, f. 1-2-96, cert. ef. 1-2-96 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 1-1994, f. & cert. ef. 1-7-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 26-1990, f. 12-26-90, cert. ef. 12-29-90 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 9-1989, f. & cert. ef. 11-13-89 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 1-1988, f. & cert. ef. 1-6-88 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 3-1987, f. & ef. 2-17-87 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 30-1985, f. & ef. 12-4-85 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 20-1983, f. 10-20-83, ef. 11-1-83 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 333-042-0230, HD 2-1983, f. & ef. 2-23-83 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 4-1982, f. & ef. 2-26-82 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ Reverted to HD 106, f. & ef. 2-6-76 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 17-1981(Temp), f. & ef. 8-28-81 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 106, f. & ef. 2-6-76 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,173 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Chapter 943 
+ 
+ 
+ 
+ 
+ 
+ Division 14 PRIVACY AND CONFIDENTIALITY 
+ 943-014-0320 
+ User Responsibility 
+ 
+ The organization or user shall not make any root level changes to any Authority or State of Oregon network and information system. The Authority recognizes that some application users have root level access to certain functions to allow the user to diagnose problems (such as startup or shutdown operations, disk layouts, user additions, deletions or modifications, or other operation) that require root privileges. This access does not give the user the right to make any changes normally restricted to root without explicit written permission from the Authority.  (1) Use and disclosure of any Authority information asset is strictly limited to the minimum information necessary to perform the requested and authorized service.  (2) The organization shall have established privacy and security measures that meet or exceed the standards set forth in the Authority privacy and information security policies, available from the Authority, regarding the disclosure of an information asset.  (3) The organization or user shall comply with all security and privacy federal and state laws, rules, and regulations applicable to the access granted.  (4) The organization shall make the security risk plan available to the Authority for review upon request.  (5) The organization or user shall report to the Authority all privacy or security incidents by the user that compromise, damage, or cause a loss of protection to the Authority information assets or the network and information systems. The incident report shall be made no later than five business days from the date on which the user becomes aware of such incident. The user shall provide the Authority a written report which must include the results of the incident assessment findings and resolution strategies.  (6) Wrongful use of a network and information system, or wrongful use or disclosure of an Authority information asset by the organization or user may cause the immediate suspension or revocation of any access granted, at the sole discretion of the Authority without advance notice.  (7) The organization or user shall comply with the Authority's request for corrective action concerning a privacy or security incident and with laws requiring mitigation of harm caused by the unauthorized use or disclosure of confidential information, if any. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042 
+ 
+ 
+ Statutes/Other Implemented:  ORS 182.122 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHA 27-2011, f. & cert. ef. 12-1-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHA 16-2011(Temp), f. & cert. ef. 8-9-11 thru 2-2-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,287 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 253 OREGON CLEAN FUELS PROGRAM 
+ 340-253-0670 
+ Authority to Suspend, Revoke, or Modify 
+ 
+ (1) If DEQ determines that any basis for invalidation set forth in section (2) below has occurred, in addition to taking any other authorized enforcement action, DEQ may take any of the actions described in subsections (a) through (d). For the purposes of this section an approved carbon intensity refers to carbon intensities, adjusted carbon intensities and values approved by DEQ under OAR 340-253-0400(4), 340-253-0450, 340-253-0460, or 340-253-0470, as applicable. DEQ may: 
+
+ (a) Suspend, restrict, modify, or revoke an account in the OFRS, or take a combination of two or more such actions; 
+
+ (b) Modify or delete an approved carbon intensity; 
+
+ (c) Restrict, suspend, or invalidate credits; and 
+
+ (d) Recalculate the deficits in a regulated party’s OFRS account or assign deficits as an administrative mechanism for requiring the replacement of invalid credits if the invalid credits cannot be directly canceled. 
+
+ (2) DEQ may take any of the actions described in section (1) based on any of the following: 
+
+ (a) Any of the information used to generate or support the approved carbon intensity or other value was incorrect, including if material information was omitted or the process changed following the submission of the carbon intensity application; 
+
+ (b) Any material information submitted in connection with the approved carbon intensity, other value, or a credit transaction was incorrect; 
+
+ (c) Fuel reported under a given fuel pathway was produced or transported in a manner that varies in any way from the methods set forth in any corresponding fuel pathway application documents submitted under OAR 340-253-0400 and OAR 340-253-0450 such that the variance would meet the threshold to be material information, or the fuel pathway holder had violated a fuel pathway condition imposed by DEQ during the approval process; 
+
+ (d) Fuel transaction data or other data reported into the OFRS and used to calculate credits and deficits was incorrect or omitted material information; 
+
+ (e) Credits or deficits were generated or transferred in violation of any provision of this division or in violation of other laws, statutes, or regulations; 
+
+ (f) A party obligated to provide records under this division refused to provide such records or failed to do so within the required timeframe in OAR 340-253-0600; 
+
+ (g) Failure to submit a verification statement when it is required under OAR chapter 340, division 272; 
+
+ (h) An adverse verification statement submitted under OAR chapter 340, division 272; 
+
+ (i) Failure to submit a Green-e certification for RECs used to claim a carbon intensity other than the statewide or a utility-specific mix under OAR 340-253-0470(5); or 
+
+ (j) Failure to respond to a correction request under OAR 340-253-0650(5). 
+
+ (3) Providing Notice of an Initial Determination. If DEQ determines that any basis for invalidation under section (1) has occurred, then: 
+
+ (a) Upon making an initial determination that a credit calculation, deficit calculation, or an approved carbon intensity may be subject to an action described in section (1), DEQ will notify all potentially affected parties; 
+
+ (b) The notice required under subsection (a) shall state the reason for the initial determination and may also include a specific request from any party for information relevant to any of the bases described in section (2); 
+
+ (c) Within 20 calendar days of the issuance of a notice under subsection (a), the affected parties must make records and personnel available to DEQ as it conducts its investigation; and 
+
+ (d) Any party receiving a notice under subsection (a) may submit any information it believes is relevant to the investigation and that it wants DEQ to consider in its evaluation, not later than 20 calendar days after the issuance of the notice or by a later deadline approved by DEQ in writing. 
+
+ (4) Interim Account Suspension. Once a notice has been issued under section (3), DEQ may immediately take one or both of the following actions: 
+
+ (a) Deactivate an approved carbon intensity in the AFP; or 
+
+ (b) Suspend an account in the OFRS. In cases where a discrete number of credits are being investigated, DEQ may place an administrative hold on a specific number of credits rather than suspending an entire account. 
+
+ (5) Final Determination. Within 50 calendar days after making an initial determination under sections (2) and (3) above, the DEQ shall make a final determination based on the available information, as provided in subsections (a) through (c). 
+
+ (a) The final determination will include: 
+
+ (A) Whether any of the bases for invalidation in section (2) exist; 
+
+ (B) Identification of the affected parties; and 
+
+ (C) What actions in section (1) DEQ will impose and how many credits, deficits, or approved carbon intensities are affected. If the final determination invalidates credits or deficit calculations, the corresponding credits and deficits will be added or subtracted from the appropriate accounts in the OFRS. 
+
+ (b) The affected parties may contest the final determination by providing DEQ with a written request for a hearing within 20 calendar days of receipt of the final determination. 
+
+ (c) The hearing will be conducted as a contested case hearing under ORS 183.413 through 183.470 and OAR chapter 340, division 11. DEQ’s determination under section (5) will remain pending until a final order is issued in the contested case, and no party may use or rely upon an account or any credits, deficits or carbon intensities at issue in the contested case until such resolution. 
+
+ (6) Responsibility for invalidated credits or miscalculated deficits. Any party that generated, previously held, or holds invalidated credits or whose account reflects an invalid deficit calculation is responsible for returning its account to compliance without regard to its fault or role with respect to the invalidation of the credits or miscalculation of deficits. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, 468A.266, 468A.268 & 468A.277 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468.020 & ORS 468A.265 - 468A.277 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 2-2025, amend filed 01/09/2025, effective 01/09/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 17-2022, amend filed 09/23/2022, effective 01/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 14-2020, amend filed 05/07/2020, effective 05/07/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 199-2018, amend filed 11/16/2018, effective 01/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 27-2017, adopt filed 11/17/2017, effective 11/17/2017 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

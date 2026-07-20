@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Oregon Occupational Safety and Health Division - Chapter 437 
+ 
+ 
+ 
+ 
+ Division 4 AGRICULTURE 
+ 437-004-0716 
+ Oxygen 
+ 
+ (1) Scope. This applies to the installation of bulk oxygen systems on agricultural establishments.  (2) Bulk oxygen systems.  (a) Definition. A bulk oxygen system is an assembly of equipment, such as oxygen storage containers, pressure regulators, safety devices, vaporizers, manifolds, and interconnecting piping, with storage capacity more than 13,000 cubic feet of oxygen, Normal Temperature and Pressure (NTP), connected in service or ready for service, or more than 25,000 cubic feet of oxygen (NTP) including unconnected reserves on hand at the site. The bulk oxygen system ends where oxygen at service pressure first enters the supply line. The oxygen containers may be stationary or movable, and the oxygen may be gas or liquid.  (b) Location.  (A) General. Bulk oxygen storage systems must be above ground, outdoors or in a noncombustible building, adequately vented and used exclusively for oxygen storage. Locate containers and associated equipment so there is no exposure to electric power lines, flammable or combustible liquid lines, or flammable gas lines.  (B) Accessibility. Locate the system so that it is readily accessible to mobile supply equipment at ground level and to authorized personnel.  (C) Leakage. For liquid oxygen storage, provide noncombustible surfacing in the area where any leakage might fall during operation of the system and filling of the container. Asphalt or bituminous paving is combustible.  (D) Elevation. When locating bulk oxygen systems near above-ground flammable or combustible liquid storage that may be either indoors or outdoors, it is advisable to locate the system on ground higher than the flammable or combustible liquid storage.  (E) Dikes. When a bulk oxygen system must be lower than adjacent flammable or combustible liquid storage, there must be suitable means (such as diking, diversion curbs, or grading) to prevent accumulation of liquids under the bulk oxygen system.  (c) Distance between systems and exposures.  (A) The minimum distance from any bulk oxygen storage container to exposures, measured in the most direct line except as in (2)(c)(A)(v) and (vii) below, must be as follows:  (i) Fifty feet from combustible structures.  (ii) Twenty-five feet from structures with fire-resistive exterior walls or sprinklered buildings of other construction, but not less than one-half the height of the adjacent side wall of the structure.  (iii) At least 10 feet from any opening in adjacent walls of fire resistive structures. Spacing from such structures must be adequate to permit maintenance, but not be less than 1 foot.  (iv) Flammable liquid storage above-ground. [Table not included. See ED. NOTE.]  (v) Flammable liquid storage below-ground. [Table not included. See ED. NOTE.]  (vi) Combustible liquid storage above-ground. [Table not included. See ED. NOTE.]  (vii) Combustible liquid storage below ground. [Table not included. See ED. NOTE.]  (viii) Flammable gas storage. (Such as compressed flammable gases, liquefied flammable gases and flammable gases in low pressure gas holders). [Table not included. See ED. NOTE.]  (ix) Fifty feet from solid materials that burn rapidly, such as excelsior or paper.  (x) Twenty-five feet from solid materials that burn slowly, such as coal and heavy timber.  (xi) Seventy-five feet in one direction and 35 feet in approximately 90° direction from confining walls (not including firewalls less than 20 feet high) to provide adequate ventilation in courtyards and similar confining areas.  (xii) Twenty-five feet from areas such as offices, lunchrooms, locker rooms, time clock areas, and similar locations where people may gather.  (B) Exceptions. The distances in (2)(c)(A)(i), (ii), (iv) to (x) above, do not apply where there are protective structures, like firewalls, between the bulk oxygen storage installation and the exposure high enough to safeguard the oxygen storage systems. In those cases, the bulk oxygen storage installation may be a minimum distance of 1 foot from the firewall.  (d) Storage containers.  (A) Permanently installed containers must be on substantial noncombustible supports on firm noncombustible foundations.  (B) Make liquid oxygen storage containers from materials meeting the impact test requirements of paragraph UG-84 of ASME Boiler and Pressure Vessel Code, Section VIII — Unfired Pressure Vessels — 1968. Containers operating at pressures more than 15 pounds per square inch gage (p.s.i.g.) must comply with ASME Boiler and Pressure Vessel Code, Section VII — Unfired Pressure Vessels — 1968. Insulation on the liquid oxygen container must be noncombustible.  (C) High-pressure gaseous oxygen containers must comply with one of the following:  (i) ASME Boiler and Pressure Vessel Code, Section VIII — Unfired Pressure Vessels — 1968.  (ii) DOT Specifications and Regulations.  (e) Piping, tubing, and fittings.  (A) Piping, tubing, and fittings must be suitable for oxygen service and for the pressures and temperatures involved.  (B) Piping and tubing must conform to Section 2 — Gas and Air Piping Systems of Code for Pressure Piping, American National Standard (ANSI), B31.1-1967 with addenda B31.10a-1969.  (C) Fabricate piping or tubing for operating temperatures below 20°F from materials meeting the impact test requirements of paragraph UG-84 of ASME Boiler and Pressure Vessel Code, Section VIII — Unfired Pressure Vessels — 1968, when tested at the anticipated minimum operating temperature.  (f) Safety relief devices.  (A) Equip bulk oxygen storage containers, regardless of design pressure, with safety relief devices required by the ASME code or the DOT specifications and regulations.  (B) Bulk oxygen storage containers designed and constructed according to DOT specifications must have safety relief devices as required.  (C) Bulk oxygen storage containers that comply with the ASME Boiler and Pressure Vessel Code, Section VIII — Unfired Pressure Vessel — 1968 must have safety relief devices that comply with the Compressed Gas Association Pamphlet “Safety Relief Device Standards for Compressed Gas Storage Containers,” S-1, Part 3.  (D) Equip insulation casings on liquid oxygen containers with suitable safety relief devices.  (E) Safety relief devices must not allow moisture that would interfere with proper operation to collect and freeze.  (g) Liquid oxygen vaporizers.  (A) Anchor the vaporizer and use connecting piping sufficiently flexible to compensate for expansion and contraction due to temperature changes.  (B) Adequately protect the vaporizer and its piping on the oxygen and heating medium sections with safety relief devices.  (C) Heat used in an oxygen vaporizer must be indirectly supplied only through media such as steam, air, water or water solutions that do not react with oxygen.  (D) If electric heaters provide the primary source of heat, ground the vaporizing system.  (h) Equipment assembly and installation.  (A) Remove oil, grease or other readily oxidizable materials before placing the system in service.  (B) Make joints in piping and tubing by welding or by using flanged, threaded, slip, or compression fittings. Gaskets or thread sealants must be suitable for oxygen service.  (C) Valves, gages, regulators, and other accessories must be suitable for oxygen service.  (D) People familiar with proper practices must supervise the installation of bulk oxygen systems.  (E) After installation test and prove tight all field erected piping at maximum operating pressure. Use oil-free, non-flammable substances for testing.  (F) Protect storage containers, piping, valves, regulating equipment, and other accessories from physical damage and tampering.  (G) Adequately ventilate enclosures for oxygen control or operating equipment.  (H) The bulk oxygen storage location must have permanent placards that say: “OXYGEN — NO SMOKING — NO OPEN FLAMES,” or an equivalent warning.  (I) Bulk oxygen installations are not hazardous locations as defined and covered in Division 4/S. Therefore, general purpose or weatherproof types of electrical wiring and equipment are acceptable depending on whether the installation is indoors or outdoors. Install this equipment according to Division 4/S.  (i) For installations that require operation of equipment by the user, keep legible instructions by the equipment.  (j) Cut back or clear combustible growth 15 feet from any bulk oxygen storage container.  [ED. NOTE: Tables referenced are available from the agency.]  [Publications: Publications referenced are available from the agency.] 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 654.025(2) & 656.726(3) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 654.001 - 654.295 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSHA 4-1998, f. 8-28-98, cert. ef. 10-1-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

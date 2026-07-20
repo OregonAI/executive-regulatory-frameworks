@@ -1,0 +1,242 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Public Utility Commission 
+ Chapter 860 
+ 
+ 
+ 
+ 
+ 
+ Division 82 SMALL GENERATOR INTERCONNECTION RULES 
+ 860-082-0045 
+ Tier 1 Interconnection Review
+ 
+ 
+ (1) A public utility must use the Tier 1 review procedures when an applicant submits an application to interconnect a small generator facility that meets the following requirements: 
+
+ (a) The small generator facility must have an export capacity not greater than 25 kilowatts, a nameplate rating not greater than 50 kilowatts, and use a UL 1741 certified inverter; and 
+
+ (b) The small generator facility must not be interconnected to a transmission line or an area network. 
+
+ (2) Tier 1 Approval Criteria. A public utility must approve an application for interconnection under the Tier 1 interconnection review procedures if the small generator facility meets the approval criteria in subsections (a) through (f). A public utility may not impose different or additional approval criteria. 
+
+ (a) A Tier 1 small generator facility interconnection must use existing public utility facilities. 
+
+ (b) Substation transformer backfeed screen. Where existing protective devices and equipment cannot adequately support backfeed, the aggregated export capacity on the substation transformer must be less than 80 percent of the relevant minimum load for the substation transformer. 
+
+ (c) Penetration Screen for interconnection to a radial distribution circuit. 
+
+ (A) If 12 months of minimum load data (including onsite load but not station service load served by the proposed small generator facility) are available for the line section, the aggregated export capacity on the line section is less than 90 percent of the relevant minimum load for all line sections bounded by automatic sectionalizing devices upstream of the proposed small generator facility; 
+
+ (B) If 12 months of minimum load data (including onsite load but not station service load served by the proposed small generator facility) are not available for the line section, the aggregated export capacity on the circuit is less than 90 percent of the relevant minimum load for the feeder; 
+
+ (C) If minimum load data are not available for the line section or the circuit, the aggregated export capacity on the circuit must not exceed 15 percent of the line section annual peak load as most recently measured at the substation or calculated for the line section. 
+
+ (d) Network Screen. For interconnection of a small generator facility within a spot network, the aggregate nameplate rating may not exceed 20 percent of the spot network anticipated minimum load. The public utility may select any of the following methods to determine anticipated minimum load: 
+
+ (A) The spot network’s measured minimum load in the previous year, if available; 
+
+ (B) Five percent of the spot network’s maximum load in the previous year; 
+
+ (C) The applicant’s good faith estimate, if provided; or 
+
+ (D) The public utility’s good faith estimate if provided in writing to the applicant along with the reasons why the public utility considered the other methods to estimate minimum load inadequate. 
+
+ (e) Single-Phase Shared Secondary Screen. For interconnection of a small generator facility to a single-phase shared secondary line, the aggregated export capacity on the shared secondary must not exceed 65 percent of the transformer nameplate power rating. 
+
+ (f) Service Imbalance Screen. For interconnection of a single-phase small generator facility to the center tap neutral of a 240-volt service line, the addition of the small generator facility must not create a current imbalance between the two sides of the 240-volt service line of more than 20 percent of the nameplate power rating of the service transformer. 
+
+ (3) In addition to the timelines and requirements in OAR 860-082-0025, the public utility must provide written notice to the applicant stating whether the small generator facility meets the Tier 1 approval criteria no later than 15 business days from the date a Tier 1 interconnection application is deemed complete. If a public utility does not notify an applicant whether the interconnection is approved or denied within 20 business days after the application is deemed complete, the interconnection will be deemed approved. 
+
+ (4) Interconnection after passing screens. If the proposed interconnection passes the screens, the public utility must follow the requirements in OAR 860-082-0025(7)(f). 
+
+ (5) Approval despite screen failure. Despite the failure of one or more screens, the public utility, at its sole option, may approve the interconnection provided such approval is consistent with safety and reliability. If the public utility determines that the small generator facility can be interconnected safely if minor modifications to the transmission or distribution system were made (for example, changing meters, fuses, or relay settings), then the public utility must offer the applicant a good-faith, non-binding estimate of the costs of such proposed minor modifications. Modifications are not considered minor under this section if the total cost of the modifications exceeds $10,000. If the applicant authorizes the public utility to proceed with the minor modifications and agrees to pay the entire cost of the modifications, then the public utility must approve the application.  
+
+ (6) Process after screen failure. If the public utility cannot determine that the small generator facility may nevertheless be interconnected consistent with safety, reliability, and power quality standards, at the time the public utility notifies the applicant of the Tier 1 review results, the public utility must provide the applicant with: 
+
+ (a) The screen results including specific information on the reason(s) for failure in writing using a standard format approved by the Commission; and 
+
+ (b) An executable Supplemental Review Agreement. 
+
+ (c) In addition, the public utility must allow the applicant to select one of the following, at the applicant’s option. The applicant must notify the public utility of its selection within 10 business days, or the application will be deemed withdrawn. 
+
+ (A) Request an applicant options meeting; 
+
+ (B) Undergo supplemental review in accordance with OAR 860-082-0063; or 
+
+ (C) Continue evaluating the application under Tier 4. 
+
+ (7) Applicant options meeting. If the applicant requests an applicant options meeting, the public utility shall offer to convene a meeting at a mutually agreeable time within 15 business days of the applicant’s request. At the applicant options meeting the public utility shall provide the applicant the opportunity to review the screen analysis and related results, to designate a different RPA, to review possible customers-generator modifications, and to discuss what further steps are needed to permit the small generator facility to connect safely and reliably. 
+
+ (8) The interconnection process is not complete until: 
+
+ (a) The witness test, if conducted by the public utility, is successful; and 
+
+ (b) The applicant and public utility execute a certificate of completion. The certificate of completion must follow the standard form certificate developed by the public utility and approved by the Commission. 
+
+   
+
+   
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 183, ORS 756 & ORS 757 
+ 
+ 
+ Statutes/Other Implemented:  ORS 756.040 & ORS 756.060 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 4-2024, amend filed 04/09/2024, effective 04/09/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 10-2009, f. & cert. ef. 8-26-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

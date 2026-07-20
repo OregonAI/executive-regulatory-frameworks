@@ -1,0 +1,327 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 121 PHARMACEUTICAL SERVICES 
+ 410-121-0185 
+ Pharmacy Based Immunization Delivery
+ 
+ 
+ (1) Pursuant to ORS 689.645 and the Board of Pharmacy administrative rule OAR 855-115-0305 , pharmacists may prescribe and administer vaccines to persons ; 
+
+ (a) Who are seven (7) years of age or older; 
+
+ (b) If authorized by the Governor or the Director of the Oregon Department of Emergency Management under ORS 433.441 or the Public Health Director under ORS 433.443 or 433.444, to a person three (3) years of age or older; or 
+
+ (c) Who are six (6) months of age or older if the vaccine administered is an influenza vaccine. 
+
+ (2) To receive reimbursement for vaccine administration and serum for adults (ages 19 and older), the pharmacy may bill either: 
+
+ (a) Through Point-of-Sale (POS) using the appropriate National Drug Code (NDC) for the serum, and the administration fee shall automatically be applied equivalent to Current Procedural Terminology (CPT) codes 90470-90474 ; or 
+
+ (b) Bill on a CMS-1500, OHP 505, or Provider Web Portal professional claim using the appropriate immunization CPT code for the serum; or 
+
+ (c) Bill as a Provider Web Portal pharmacy claim. 
+
+ (3) If billing as a professional claim, the pharmacy must include: 
+
+ (a) A primary diagnosis to the highest degree of specificity; 
+
+ (b) The appropriate CPT code for the serum, code ranges 90476-90749; and 
+
+ (c) The appropriate CPT code for the administration, code ranges 90470-90474. 
+
+ (4) Vaccines for Children (VFC) is a federal program that provides vaccine serums at no cost to providers for patients under age 19. All vaccines for this age group and for conditions covered by the VFC program must be obtained through the VFC program. For information about the VFC program or to enroll as a VFC provider, contact the Public Health Immunization Program. The Oregon VFC program website is located at http://public.health.oregon.gov/PreventionWellness/VaccinesImmunization/ImmunizationProviderResources/vfc/Pages/index.aspx. 
+
+ (5) The Division shall reimburse only for the administration, not the serum, of vaccines available for free through the VFC program. For a list of vaccines provided through the VFC program, see the current Oregon Immunization Program State-Supplied Vaccine Billing Codes table available at  https://www.oregon.gov/oha/ph/PreventionWellness/VaccinesImmunization/ImmunizationProviderResources/Documents/NewCPTcodes.pdf 
+
+ (6) To receive reimbursement for vaccine administration to a child age seven (7) through eighteen (18), the pharmacy must: 
+
+ (a) Be enrolled as a pharmacy provider in the VFC program; 
+
+ (b) Bill on a CMS-1500, OHP 505, or Provider Web Portal professional claim; 
+
+ (c) Use the appropriate immunization CPT code for the serum; and 
+
+ (d) Include the appropriate modifier –SL or -26; 
+
+ (7) For detailed information on billing for the VFC Program, refer to Medical Surgical Services OAR 410-130-0255. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042 & 414.065 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.065 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 145-2024, amend filed 12/29/2024, effective 01/01/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 11-2018, amend filed 03/02/2018, effective 03/02/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 51-2015, f. 9-22-15, cert. ef. 10-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 44-2011, f. 12-21-11, cert. ef. 1-1-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 14-2011, f. 6-29-11, cert. ef. 7-1-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 17-2010, f. 6-15-10, cert. ef. 7-1-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 36-2008, f. 12-11-08, cert. ef. 1-1-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 9-2005, f. 3-9-05, cert. ef. 4-1-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 18-2004, f. 3-15-04 cert. ef. 4-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 7-2002, f. & cert. ef. 4-1-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 31-2001, f. 9-24-01, cert. ef. 10-1-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,205 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 125 HOSPITAL SERVICES 
+ 410-125-0450 
+ Provider Preventable Conditions 
+ 
+ (1) Health Care-Acquired Conditions (HCAC):  (a) Formally known as Medicare’s list of “hospital acquired conditions” (HAC) that apply to inpatient hospital settings with dates of admission on or after January 1, 2011 except those hospitals exempt from the reporting requirements.  (b) For inpatient hospital admissions on or after July 1, 2012, all in-state, contiguous and non-contiguous hospitals must report health care-acquired conditions.  (A) A HCAC is a condition that is reasonably preventable and was not present or identified at the hospital admission.  (B) A “present on admission” (POA) indicator is a status code the hospital uses on an inpatient claim that indicates if a condition was present at the time the order for inpatient admission occurs. A POA indicator can also identify a condition that developed during an outpatient encounter. This includes, but is not limited to the emergency department, observation, and outpatient surgery.  (C) The Division of Medical Assistance Program (Division) shall use the most recent list of conditions identified as non-payable by Medicare. The Division may revise through addition or deletion the selected conditions at any time during the fiscal year.  (D) Diagnosis-related groups (DRG) and percentage paid hospitals must submit a POA indicator for the principal diagnosis and every secondary diagnosis code. A valid POA indicator must be included all inpatient hospital claims. Claims without a valid POA indicator shall be denied.  (E) Critical Access Hospitals (CAH) must implement the POA reporting requirements by September 1, 2013.  (F) For a complete list of HCACs and billing instructions please see the hospital supplemental guide.  (2) Other Provider-Preventable Conditions (OPPC):  (a) Applies to any health care setting, including but not limited to inpatient and outpatient hospital settings.  (b) Effective July 1, 2012 the Agency shall no longer cover the following conditions identified by the National Coverage Determinations (NCD):  (A) Wrong surgical or other invasive procedure performed on a patient;  (B) Surgical or other invasive procedure performed on the wrong body part;  (C) Surgical or other invasive procedure performed on the wrong patient.  (c) To protect the access to care the Division requires:  (A) No reduction in payment for a Provider Preventable Conditions (PPC) will be imposed on a provider when an identified PPC for a client existed prior to the initiation of treatment for that client by that provider.  (B) Reductions in provider payment may be limited to the extent that the identified PPC would otherwise result in an increase in payment; and the Division reasonably isolate for nonpayment the portion of the payment directly related to treatment for, and related to the PPC.  (3) For clients with both Medicare and Medicaid (duals) the agency may not act as secondary payer for Medicare non-payment of HCAC. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.065 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 47-2013, f. 8-29-13, cert. ef. 9-3-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 32-2012, f. 6-29-12, cert. ef. 7-1-12 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ Reverted to DMAP 32-2010, f. 12-15-10, cert. ef. 1-1-11 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 49-2011(Temp), f. 12-23-11, cert. ef. 1-1-12 thru 6-25-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 32-2010, f. 12-15-10, cert. ef. 1-1-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

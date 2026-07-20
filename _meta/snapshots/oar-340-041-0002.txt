@@ -1,0 +1,386 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 41 WATER QUALITY STANDARDS: BENEFICIAL USES, POLICIES, AND CRITERIA FOR OREGON 
+ 340-041-0002 
+ Definitions
+ 
+ 
+ Definitions in this rule apply to all basins unless context requires otherwise. 
+
+ (1) "401 Water Quality Certification" means a determination made by DEQ that a dredge and fill activity, private hydropower facility, or other federally licensed or permitted activity that may result in a discharge to waters of the state has adequate terms and conditions to prevent an exceedance of water quality criteria. The federal permit in question may not be issued without this state determination in accordance with the Federal Clean Water Act, section 401 (33 USC 1341). 
+
+ (2) "Ambient Stream Temperature" means the stream temperature measured at a specific time and place. The selected location for measuring stream temperature must be representative of the stream in the vicinity of the point being measured. 
+
+ (3) "Anthropogenic," when used to describe "sources" or "warming," means that which results from human activity. 
+
+ (4) "Applicable Criteria" means the biologically based temperature criteria in OAR 340-041-0028(4), the superseding cold water protection criteria in 340-041-0028(11) or the superseding natural condition criteria in 340-041-0028(8). The applicable criteria may also be site-specific criteria approved by U.S. EPA. A subbasin may have a combination of applicable temperature criteria derived from some or all of these numeric and narrative criteria. 
+
+ (5) "Appropriate Reference Site or Region" means a site on the same water body or within the same basin or ecoregion that has similar habitat conditions and represents the water quality and biological community attainable within the areas of concern. 
+
+ (6) "Aquatic Species" means plants or animals that live at least part of their life cycle in waters of the state. 
+
+ (7) "Basin" means a third-field hydrologic unit as identified by the U.S. Geological Survey. 
+
+ (8) "BOD" means 5-day, 20°C Biochemical Oxygen Demand. 
+
+ (9) "Cold Water Species" means aquatic organisms that are physiologically restricted to cold water including, but not limited to, native salmon, steelhead, mountain whitefish, char including bull trout, and trout. 
+
+ (10) "Cold Water Refugia" means those portions of a water body where or times during the diel temperature cycle when the water temperature is at least 2 degrees Celsius colder than the daily maximum temperature of the adjacent well-mixed flow of the water body. 
+
+ (11) "Commission" or “EQC” means the Oregon Environmental Quality Commission. 
+
+ (12) "Cool Water Species" means aquatic organisms that are physiologically restricted to cool waters including, but not limited to, native sturgeon, Pacific lamprey, suckers, chub, sculpins and certain species of cyprinids (minnows.) 
+
+ (13) "Core Cold Water Habitat Use" means waters expected to maintain temperatures within the range generally considered optimal for salmon and steelhead rearing, or that are suitable for bull trout migration, foraging and sub-adult rearing that occurs during the summer. These uses are designated on the following subbasin maps set out at OAR 340-041-0101 to 340-041-0340: Figures 130A, 151A, 160A, 170A, 180A, 201A, 220A, 230A, 271A, 286A, 300A, 310A, 320A, and 340A. 
+
+ (14) "Critical Habitat" means those areas that support rare, threatened, or endangered species or serve as sensitive spawning and rearing areas for aquatic life as designated by the U.S. Fish and Wildlife Service or National Oceanic and Atmospheric Administration-Fisheries according to the Endangered Species Act (16 U.S. Code § 1531). 
+
+ (15) "Daily Mean" for dissolved oxygen means the numeric average of an adequate number of data to describe the variation in dissolved oxygen concentration throughout a day, including daily maximums and minimums. For calculating the mean, concentrations in excess of 100 percent of saturation are valued at the saturation concentration. 
+
+ (16) "Department" or "DEQ" means the Oregon State Department of Environmental Quality. 
+
+ (17) "Designated Beneficial Use" means the purpose or benefit to be derived from a water body as designated by the Water Resources Department or the Water Resources Commission. 
+
+ (18) "DO" means dissolved oxygen. 
+
+ (19) "Ecological Integrity" means the summation of chemical, physical, and biological integrity capable of supporting and maintaining a balanced, integrated, adaptive community of organisms having a species composition, diversity, and functional organization comparable to that of the natural habitat of the region. 
+
+ (20) "Epilimnion" means the seasonally stratified layer of a lake or reservoir above the metalimnion; the surface layer. 
+
+ (21) "Erosion Control Plan" means a plan containing a list of best management practices to be applied during construction to control and limit soil erosion. 
+
+ (22) “Estuarine Waters” means all mixed fresh and oceanic waters in estuaries or bays from the point of oceanic water intrusion inland to a line connecting the outermost points of the headlands or protective jetties. 
+
+ (23) "High Quality Waters" means those waters that meet or exceed levels necessary to support the propagation of fish, shellfish and wildlife; recreation in and on the water; and other designated beneficial uses. 
+
+ (24) "Hypolimnion" means the seasonally stratified layer of a lake or reservoir below the metalimnion; the bottom layer. 
+
+ (25) "Industrial Waste" means any liquid, gaseous, radioactive, or solid waste substance or a combination thereof resulting from any process of industry, manufacturing, trade, or business or from the development or recovery of any natural resources. 
+
+ (26) "In Lieu Fee" means a fee collected by a jurisdiction in lieu of requiring construction of onsite stormwater quality control facilities. 
+
+ (27) "Intergravel Dissolved Oxygen" (IGDO) means the concentration of oxygen measured in the water within the stream bed gravels. Measurements should be taken within a limited time period before emergence of fry. 
+
+ (28) "Jurisdiction" means any city or county agency in the Tualatin River and Oswego Lake subbasin that regulates land development activities within its boundaries by approving plats or site plans or issuing permits for land development. 
+
+ (29) "Land Development" means any human-induced change to improved or unimproved real estate including, but not limited to, construction, installation or expansion of a building or other structure; land division; drilling; or site alteration such as land surface mining, dredging, grading, construction of earthen berms, paving, improvements for use as parking or storage, excavation or clearing. 
+
+ (30) "Load Allocation” or “LA" means the portion of a receiving water's loading capacity that is attributed either to one of its existing or future nonpoint sources of pollution or to natural background sources. Load allocations are best estimates of the loading that may range from reasonably accurate estimates to gross allotments, depending on the availability of data and appropriate techniques for predicting loading. Whenever possible, natural and nonpoint source loads should be distinguished. 
+
+ (31) "Loading Capacity” or “LC" means the greatest amount of loading that a water body can receive without violating water quality standards. 
+
+ (32) "Low Flow Period" means the flows in a stream resulting primarily from groundwater discharge or base flows augmented from lakes and storage projects during the driest period of the year. The dry weather period varies across the state according to climate and topography. Wherever the low flow period is indicated in Water Quality Management Plans, this period has been approximated by the inclusive months. Where applicable in a waste discharge permit, the low flow period may be further defined. 
+
+ (33) "Managed Lakes" refers to lakes in which hydrology is managed by controlling the rate or timing of inflow or outflow. 
+
+ (34) “Marine Waters” means all oceanic, offshore waters outside of estuaries or bays and within the territorial limits of the State of Oregon. 
+
+ (35) "mg/l" or "mg/L" means milligrams per liter. 
+
+ (36) "Metalimnion" means the seasonal, thermally stratified layer of a lake or reservoir that is characterized by a rapid change in temperature with depth and that effectively isolates the waters of the epilimnion from those of the hypolimnion during the period of stratification; the middle layer. 
+
+ (37) "Migration Corridors" mean those waters that are predominantly used for salmon and steelhead migration during the summer and have little or no anadromous salmonid rearing in the months of July and August. Migration corridors are designated in Tables 101B and 121B and Figures 151A, 170A, 300A and 340A under OAR 340-041-0101 to 340-041-0340. 
+
+ (38) "Minimum" for dissolved oxygen means the minimum recorded concentration including seasonal and diurnal minimums. 
+
+ (39) "Monthly (30-day) Mean Minimum" for dissolved oxygen means the minimum of the 30 consecutive-day floating averages of the calculated daily mean dissolved oxygen concentration. 
+
+ (40) "Natural Conditions" means conditions or circumstances affecting the physical, chemical, or biological integrity of a water of the state that are not influenced by past or present anthropogenic activities. Disturbances from wildfire, floods, earthquakes, volcanic or geothermal activity, wind, insect infestation and diseased vegetation are considered natural conditions. 
+
+ (41) "Natural Thermal Potential" means the determination of the thermal profile of a water body using best available methods of analysis and the best available information on the site-potential riparian vegetation, stream geomorphology, stream flows and other measures to reflect natural conditions. 
+
+ (42) "Nonpoint Sources" means any source of water pollution other than a point source. Generally, a nonpoint source is a diffuse or unconfined source of pollution where wastes can either enter into waters of the state or be conveyed by the movement of water into waters of the state. 
+
+ (43) "Ocean Waters" means all oceanic, offshore waters outside of estuaries or bays and within the territorial limits of Oregon. 
+
+ (44) "Outstanding Resource Waters" means waters designated by the EQC where existing high quality waters constitute an outstanding state or national resource based on their extraordinary water quality or ecological values or where special water quality protection is needed to maintain critical habitat areas. 
+
+ (45) "Pollution" means such contamination or other alteration of the physical, chemical, or biological properties of any waters of the state, including change in temperature, taste, color, turbidity, silt, or odor of the waters, or such discharge of any liquid, gaseous, solid, radioactive, or other substance into any water of the state that either by itself or in connection with any other substance present can reasonably be expected to create a public nuisance or render such waters harmful, detrimental, or injurious to public health, safety, or welfare; to domestic, commercial, industrial, agricultural, recreational, or other legitimate beneficial uses; or to livestock, wildlife, fish, other aquatic life or the habitat thereof. 
+
+ (46) "Point Source" means a discernible, confined, and discrete conveyance including, but not limited to, a pipe, ditch, channel, tunnel, conduit, well, discrete fissure, container, rolling stock, concentrated animal feeding operation, vessel or other floating craft, or leachate collection system from which pollutants are or may be discharged. Point source does not include agricultural storm water discharges and return flows from irrigated agriculture. 
+
+ (47) "Public Water" means the same as "waters of the state". 
+
+ (48) "Public Works Project" means any land development conducted or financed by a local, state, or federal governmental body. 
+
+ (49) "Reserve Capacity" means that portion of a receiving stream's loading capacity that has not been allocated to point sources or to nonpoint sources and natural background as waste load allocations or load allocations, respectively. The reserve capacity includes that loading capacity that has been set aside for a safety margin and is otherwise unallocated. 
+
+ (50) "Resident Biological Community" means aquatic life expected to exist in a particular habitat when water quality standards for a specific ecoregion, basin or water body are met. This must be established by accepted biomonitoring techniques. 
+
+ (51) "Salmon" means chinook, chum, coho, sockeye and pink salmon. 
+
+ (52) "Salmon and Steelhead Spawning Use" means waters that are or could be used for salmon and steelhead spawning, egg incubation, and fry emergence. These uses are designated on the following subbasin maps set out at OAR 340-041-0101 to 340-041-0340: Tables 101B, and 121B, and Figures 130B, 151B, 160B, 170B, 220B, 230B, 271B, 286B, 300B, 310B, 320B, and 340B. 
+
+ (53) "Salmon and Trout Rearing and Migration Use" means thermally suitable rearing habitat for salmon, steelhead, rainbow trout, and cutthroat trout as designated on subbasin maps set out at OAR 340-041-0101 to 340-041-0340: Figures 130A, 151A, 160A, 170A, 220A, 230A, 271A, 286A, 300A, 310A, 320A, and 340A. 
+
+ (54) "Salmonid or Salmonids" means native salmon, trout, mountain whitefish and char including bull trout. For purposes of Oregon water quality standards, salmonid does not include brook or brown trout because they are introduced species. 
+
+ (55) "Secondary Treatment" means the following depending on the context: 
+
+ (a) For sewage wastes, secondary treatment means the minimum level of treatment mandated by U.S. Environmental Protection Agency regulations pursuant to Public Law 92-500. 
+
+ (b) For industrial and other waste sources, secondary treatment means control equivalent to best practicable treatment. 
+
+ (56) "Seven-Day Average Maximum Temperature" means a calculation of the average of the daily maximum temperatures from seven consecutive days made on a rolling basis. 
+
+ (57) "Sewage" means the water-carried human or animal waste from residences, buildings, industrial establishments, or other places together with such groundwater infiltration and surface water as may be present. The admixture with sewage of industrial wastes or wastes, as defined in this rule, may also be considered "sewage" within the meaning of this division. 
+
+ (58) "Short-Term Disturbance" means a temporary disturbance of six months or less when water quality standards may be violated briefly but not of sufficient duration to cause acute or chronic effects on beneficial uses. 
+
+ (59) "Spatial Median" means the value that falls in the middle of a data set of multiple intergravel dissolved oxygen (IGDO) measurements taken within a spawning area. Half the samples should be greater than and half the samples should be less than the spatial median. 
+
+ (60) "SS" means suspended solids. 
+
+ (61) "Stormwater Quality Control Facility" means any structure or drainage way designed, constructed and maintained to collect and filter, retain, or detain surface water runoff during and after a storm event for the purpose of water quality improvement. It may also include, but is not limited to, existing features such as wetlands, water quality swales and ponds maintained as stormwater quality control facilities. 
+
+ (62) "Subbasin" means a fourth-field hydrologic unit as identified by the U.S. Geological Survey. 
+
+ (63) "Summer" means June 1 through September 30 of each calendar year. 
+
+ (64) "Threatened or Endangered Species" means aquatic species listed as either threatened or endangered under the federal Endangered Species Act (16 U.S. Code § 1531 et seq. and Title 50 of the Code of Federal Regulations). 
+
+ (65) "Total Maximum Daily Load (TMDL)" means the sum of the individual waste load allocations (WLAs) for point sources and load allocations (LAs) for nonpoint sources and background. If receiving water has only one point source discharger, the TMDL is the sum of that point source WLA plus the LAs for any nonpoint sources of pollution and natural background sources, tributaries, or adjacent segments. TMDLs can be expressed in terms of either mass per time, toxicity, or other appropriate measure. If Best Management Practices (BMPs) or other nonpoint source pollution controls make more stringent load allocations practicable, then wasteload allocations can be made less stringent. Thus, the TMDL process provides for nonpoint source control tradeoffs. 
+
+ (66) "Toxic Substance" means those pollutants or combinations of pollutants, including disease-causing agents, that after introduction to waters of the state and upon exposure, ingestion, inhalation or assimilation either directly from the environment or indirectly by ingestion through food chains will cause death, disease, behavioral abnormalities, cancer, genetic mutations, physiological malfunctions (including malfunctions in reproduction), or physical deformations in any organism or its offspring. 
+
+ (67) "Wasteload Allocation” or “WLA" means the portion of a receiving water's loading capacity allocated to one of its existing or future point sources of pollution. WLAs constitute a type of water quality-based effluent limitation. 
+
+ (68) “Warm-Water Aquatic Life” means the aquatic communities that are adapted to warm-water conditions and do not contain either cold- or cool-water species. 
+
+ (69) "Wastes" means sewage, industrial wastes, and all other liquid, gaseous, solid, radioactive, or other substances that may cause or tend to cause pollution of any water of the state. 
+
+ (70) "Water Quality Limited" means one of the following: 
+
+ (a) A receiving stream that does not meet narrative or numeric water quality criteria during the entire year or defined season even after the implementation of standard technology; 
+
+ (b) A receiving stream that achieves and is expected to continue to achieve narrative or numeric water quality criteria but uses higher than standard technology to protect beneficial uses; 
+
+ (c) A receiving stream for which there is insufficient information to determine whether water quality criteria are being met with higher-than-standard treatment technology or a receiving stream that would not be expected to meet water quality criteria during the entire year or defined season without higher than standard technology. 
+
+ (71) "Water Quality Swale" means a natural depression or wide, shallow ditch used to temporarily store, route or filter runoff for the purpose of improving water quality. 
+
+ (72) "Waters of the state" means lakes, bays, ponds, impounding reservoirs, springs, wells, rivers, streams, creeks, estuaries, marshes, inlets, canals, the Pacific Ocean within the territorial limits of the State of Oregon, and all other bodies of surface or underground waters, natural or artificial, inland or coastal, fresh or salt, public or private (except those private waters that do not combine or effect a junction with natural surface or underground waters) that are located wholly or partially within or bordering the state or within its jurisdiction. 
+
+ (73) "Weekly (seven-day) Mean Minimum" for dissolved oxygen means the minimum of the seven consecutive-day floating average of the calculated daily mean dissolved oxygen concentration. 
+
+ (74) "Weekly (seven-day) Minimum Mean" for dissolved oxygen means the minimum of the seven consecutive-day floating average of the daily minimum concentration. For application of the criteria, this value is the reference for diurnal minimums. 
+
+ (75) "Without Detrimental Changes in the Resident Biological Community" means no loss of ecological integrity when compared to natural conditions at an appropriate reference site or region. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, 468B.010, 468B.015, 468B.035 & 468B.048 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468B.035 & 468B.048 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 27-2023, amend filed 12/21/2023, effective 12/21/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 1-2015, f. & cert. ef. 1-7-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 3-2012, f. & cert. ef. 5-21-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 2-2007, f. & cert. ef. 3-15-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 3-2004, f. & cert. ef. 5-28-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 17-2003, f. & cert. ef. 12-9-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

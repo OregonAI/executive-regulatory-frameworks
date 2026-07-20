@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Oregon Occupational Safety and Health Division - Chapter 437 
+ 
+ 
+ 
+ 
+ Division 4 AGRICULTURE 
+ 437-004-1250 
+ Confined and Hazardous Spaces 
+ 
+ (1) Definitions.  (a) Competent person is somebody who can identify existing and predictable hazards and take measures to eliminate them.  (b) Confined space is a space that:  (A) Is large enough and so configured that an employee can bodily enter and work; and  (B) Has limited or restricted entry or exit (for example, tanks, vessels, silos, storage bins, hoppers, vaults, and pits may have limited entry); and  (C) Is not designed for continuous employee occupancy.  (c) Engulfment is the covering of a person by a liquid or finely divided (flowable) solid substance that when inhaled causes death or that can exert enough force on the body to cause death by strangulation, constriction or crushing.  (d) Entry is passing through an opening into a hazardous or confined space. Entry includes work in the space and occurs when any part of the entrant’s body breaks the plane of an opening into the space in a way that creates a hazard.  (e) IDLH Atmospheres. Atmospheres immediately dangerous to life or health (IDLH) are those with less than 19.5 percent oxygen by volume, or which because of the high toxicity of the contaminant, would endanger the life of a person breathing them for even a short period of time.  (f) Oxygen-deficient is an atmosphere with less than 19.5 percent oxygen by volume.  (2) Fuel bins.  (a) Fuel bins must have adequate exits and all necessary devices to provide safety for employees who enter them.  (b) There may be sentry stations or tunnels near the bottom conveyor for employees to use to stoke down congested fuel through openings. Safely built pneumatic bottoms, mechanical agitators or scrapers and similar devices are acceptable.  (3) Entering confined spaces.  (a) Test first. Always test the atmosphere in a confined space before an employee places any part of their body into it. Following the instructions below, test first for oxygen, then flammable atmosphere then toxic atmosphere.  (b) Entry. No person will enter or work in any confined space with an atmosphere immediately dangerous to life or health, except under the following conditions:  (A) They must wear a supplied air or self-contained air breathing apparatus;  (B) They must wear a safety belt with lifeline attached, where practical. Another person, equipped as required in subsection (3)(b)(A) above and with safety belt and lifeline attached, must be at the opening with adequate help available to remove the person if necessary (see (5), Rescue below);  (C) Failure of the person within the enclosure to respond to agreed upon signals requires immediate rescue action by a person or persons equipped as required in subsections (3)(b)(A) and (B) above;  (D) Air supplied to hose masks and positive pressure air helmets must be free from harmful dusts, fumes, mists, vapors, or gases to the extent that breathing it does not constitute harmful exposure. Position the air intake to the blower fan or compressor to prevent contamination of the air by carbon monoxide or other hazardous materials or gases;  (E) Supplied air respiratory equipment must have an automatic pressure relief valve, and connect through a pressure reduction valve in the supply line. Maximum allowable pressure, unless otherwise specifically approved, is 25 pounds per square inch;  (F) To assure safety when using positive-pressure air respiratory equipment, a minimum volume of air delivered to the user must be at least 4 cubic feet of air per minute for a face mask and 6 cubic feet of air per minute for hoods or helmets.  (c) Oxygen-deficient atmospheres. The atmosphere in a sealed or unventilated confined space is considered immediately dangerous to life or health. Nobody will enter such space unless:  (A) All requirements for safety equipment and procedures in (3)(b) above are met; or  (B) A competent person tests the atmosphere with an oxygen indicator or other suitable device immediately before entry to ensure that it contains enough oxygen to sustain life; or  (C) Until mechanical ventilation provides at least one complete change of uncontaminated air immediately before entry and continues while anybody is inside the enclosure. A safety watcher meeting the requirements in (3)(b) above must be at the entry.  (d) Toxic atmospheres. Nobody will enter any sealed or unventilated tank or other confined space that contains or has contained toxic materials or gases, unless:  (A) All requirements for safety equipment and safety procedures in (3)(b) above are met, or a competent person tests the atmosphere with an appropriate instrument or method and finds it to have contaminants below the threshold limit values of the particular material or gas.  (B) If the atmosphere has concentrations of hazardous contaminants not immediately dangerous to life or health, but above the threshold limit values for the toxic material, the person entering the space must wear respiratory protective equipment approved by the National Institute of Occupational Safety and Health, or recommended by the U.S. Department of Agriculture for the exposure.  (e) Flammable or explosive atmospheres. The atmosphere in any sealed or unventilated tank or other confined space and that contains or has contained combustible or flammable materials or gases is an atmosphere immediately dangerous to life or health.  (A) Nobody must enter such space unless all requirements for safety equipment and safety procedures in (3)(b) above are met or atmosphere tests by a competent person using an appropriate instrument or method shows no flammable or explosive atmosphere is present.  (B) If the atmosphere contains flammable or explosive vapors at or above 20 percent of their lower explosive limit, ventilate the space enough to bring the level below 20 percent of the lower explosive limit. Otherwise only persons meeting the requirements of (c) above may enter the enclosure for emergency work, including preparatory work or work to set up equipment to eliminate the gas.  (f) Ventilation. Natural and/or mechanical ventilation must maintain the atmosphere within the limits permissible for explosive or toxic materials and gases while employees are in the space.  (g) Residues and other sources. When there could be a release of explosive or toxic materials from residues or other sources in a confined space, there must be additional testing as necessary to assure the atmosphere has not become immediately dangerous to life or health. If such conditions arise, immediately leave the contaminated space until the atmosphere is safe for persons wearing respiratory protective equipment.  (h) Physical hazards. Do not allow employees to enter confined spaces that contains physical hazards, until you comply with OAR 437-004-1275.  (i) Engulfment. Do not allow employees to enter confined spaces where there is a hazard from engulfment by collapsing material.  (j) Lifeline and attendant. When entering confined spaces that have loose material (such as chips, sand, grain, gravel, sawdust, etc.) you must wear a safety belt with lifeline. There must be an attendant for the lifeline.  (k) Lockout/tagout. Follow the procedures of OAR 437-004-1275, for intake pipelines that convey hazardous substances into confined spaces before workers enter. Blinds, if used, must clearly show whether the line is open or closed. Close, lock and attach warning tags to valves in such lines nearest the containers. Blinding or lockout of cold water and air lines is not necessary if they have positive control valves near the container and you lock, close and tag the valves.  (4) Training.  (a) Train all workers before they do anything covered by this section. Retrain workers when there are changes in their duties or the spaces related to this section.  (b) Training must cover all hazards associated with the employer’s confined and hazardous spaces.  (c) Training must cover this standard and all duties associated with it.  (d) Keep written documentation of all training until it is superseded by new training.  (5) Rescue.  (a) These requirements apply to employers who have employees enter confined spaces to rescue people.  (A) You must give each rescuer the personal protective equipment and rescue equipment necessary to make rescues from hazardous spaces. You must also provide training on the proper use of that equipment.  (B) Train each rescuer in basic first aid and in cardiopulmonary resuscitation (CPR). At least one rescuer with current certification in first aid and in CPR must be available.  (b) When employers arrange to have persons other than their own employees do confined space rescue, the employer must:  (A) Inform the rescue service of the hazards they may confront during the rescue at the host employer’s facility; and  (B) Provide the rescue service with access to all confined spaces from which rescue may be necessary so that the rescue service can develop appropriate rescue plans and practice rescue operations.  (c) To accomplish non-entry rescue, attach the other end of the retrieval line to a mechanical device or fixed point outside the hazardous space in a way that rescue can begin as soon as the rescuer becomes aware that rescue is necessary. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 654.025(2) & 656.726(3) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 654.001 - 654.295 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSHA 4-1998, f. 8-28-98, cert. ef. 10-1-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,254 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Forestry 
+ Chapter 629 
+ 
+ 
+ 
+ 
+ 
+ Division 48 SMOKE MANAGEMENT 
+ 629-048-0005 
+ Definitions
+ 
+ 
+ Unless otherwise defined below, terms used in this rule division shall have the meaning provided in ORS 477.001: 
+
+ (1) “Alternatives to burning” means any forest management activity that reduces the volume of material, rather than actually being burned. 
+
+ (2) “Board” means the State Board of Forestry. 
+
+ (3) “Burn boss” means the person, authorized by the owner (may include the owner) or a federal land management agency to conduct and make decisions regarding the practices involved in conducting a prescribed burning operation and who is responsible for compliance with all requirements under this rule division and related laws. 
+
+ (4) “Burn registration” means the act or product of notifying the forester to the required level of detail, of intent to conduct a prescribed burning operation as required by OAR 629-048-0300. 
+
+ (5) “Class I Area” means national parks and certain wilderness areas designated by Congress in 1977 as federal Class I Areas that are subject to visibility protection under the Environmental Protection Agency’s Regional Haze Rule and the federal Clean Air Act. Class I Areas in Oregon include: Crater Lake National Park, Diamond Peak Wilderness, Eagle Cap Wilderness, Gearhart Mountain Wilderness, Hells Canyon Wilderness, Kalmiopsis Wilderness, Mountain Lakes Wilderness, Mount Hood Wilderness, Mount Jefferson Wilderness, Mount Washington Wilderness, Strawberry Mountain Wilderness and Three Sisters Wilderness. 
+
+ (6) “Class 1 forestland” has the same meaning as given in ORS 526.324 to “timber class” and includes all forestland primarily suitable for the production of timber. 
+
+ (7) “Class 2 forestland” has the same meaning as given in ORS 526.324 to “timber and grazing class” and includes all forestland primarily suitable for joint use for timber production and the grazing of livestock, as a permanent or semi-permanent joint use, or as a temporary joint use during the interim between logging and reforestation. 
+
+ (8) “Class 3 forestland” has the same meaning as given in ORS 526.324 to “agricultural class” and includes all forestland primarily suitable for grazing or other agricultural use. 
+
+ (9) “Department” means the Oregon Department of Forestry (ODF). 
+
+ (10) “Eastern Oregon” means the eighteen Oregon counties lying east of Multnomah, Clackamas, Marion, Linn, Lane, Douglas, and Jackson Counties. 
+
+ (11) “Emission reduction technique” means any forest management activity that allows for a lower volume of particulate to be produced from a given volume of burning. 
+
+ (12) “Emissions” means the gaseous and particulate combustion products in smoke resulting from burning forest fuels. 
+
+ (13) “Federal land management agency” means the United States Department of Agriculture’s Forest Service; the United States Department of the Interior’s Bureau of Land Management, National Park Service, United States Fish and Wildlife Service, or Bureau of Indian Affairs; or any other federal agency that may conduct prescribed burning within a forest protection district. 
+
+ (14) “Field administrator” means an ODF employee, a forest protective association, or federal land management agency who has, among other responsibilities, an official role in determining whether a prescribed burn should proceed, continue or be suspended. 
+
+ (15) “Forester” means the State Forester or authorized representative including but not limited to fire wardens appointed under ORS 477.355. 
+
+ (16) “Forest fuels” means any flammable woody material, grass or other plant matter that may constitute a wildfire hazard or that is intended for disposal by prescribed burning, but does not include products that have had secondary processing such as boards, posts or paper. 
+
+ (17) “Forest protection district” means an area of forestland designated by the State Forester for protection from fire pursuant to ORS 477.225. Detailed descriptions of the forest protection districts may be found in OAR 629-041-0500 to 629-041-0575. 
+
+ (18) “Ground level” means at or close to the surface of the earth such that smoke at “ground level” could be inhaled by persons going about their normal business, in or out of doors. It does not include smoke that passes overhead when prescribed burning is conducted in accordance with the Smoke Management forecast and instructions. 
+
+ (19) “Level 1 regulation” means the program of requirements that apply to all forestland managed by a federal land management agency statewide, and all Class 1 forestland in western Oregon within a forest protection district (OAR 629-048-0100(2). These requirements include burn registration at least seven days in advance (OAR 629-048-0300), fee administration (OAR 629-048-0310), compliance with Smoke Management forecast instructions (OAR 629-048-0230), and reporting of accomplishments (OAR 629-048-0320). 
+
+ (20) “Level 2 regulation” means the program of requirements that apply to all non-federal forestlands in eastern Oregon, and all Class 3 forestland in western Oregon within a forest protection district (OAR 629-048-0100(3). These requirements include burn registration (OAR 629-048-0300) and reporting of accomplishments (OAR 629-048-0320). 
+
+ (21) “Mop-up” means action, usually involving the application of water or other means to eliminate heat, remove fuel or reduce the supply of oxygen, sufficient to make a fire safe or reduce residual smoke. 
+
+ (22) “Other areas sensitive to smoke” means specific recreation areas not listed as SSRAs in OAR 629-048-0140 but that are intended to receive consideration for focused forecasting attention for limited times during periods of heavy use by the public such as coastal beaches on holidays and other areas during special events. 
+
+ (23) “Prescribed burning” means the use of fire ignited as a planned management activity on forestland to meet specific objectives involving the reduction or removal of forest fuels. Prescribed burning does not include impromptu fires ignited for purposes such as warming fires, burn-out or backfire operations used in wildfire suppression, or lightning ignited “wildland fire use” as practiced by federal land management agencies. 
+
+ (24) “Regional haze” means air pollution transported over long distances into Class I Areas that reduces visibility in those areas. 
+
+ (25) “Residual smoke” means smoke produced after the initial fire has passed through the fuel. 
+
+ (26) “Smoke Sensitive Receptor Area or SSRA” means an area designated for the highest level of protection under the Smoke Management Plan, as described and listed in OAR 629-048-0140. 
+
+ (27) “Smoke intrusion” means the verified entrance of smoke from prescribed burning into an SSRA at ground level that averages at or above 70 micrograms per cubic meter of particulate matter of 2.5 microns or less (PM2.5) for any one-hour period and/or averages at or above 26 micrograms per cubic meter for a 24-hour period, measured from midnight to midnight. 
+
+ (28) “Smoke incident” means the verified entrance of smoke from prescribed burning into an SSRA at levels below a smoke intrusion (see “smoke intrusion” definition) , other areas sensitive to smoke, or a community other than an SSRA . 
+
+ (29) “Smoke Management forecast unit” means any or all of the persons appointed or assigned by the State Forester to develop and interpret weather forecasts and produce Smoke Management instructions, usually operating from the department headquarters in Salem. 
+
+ (30) “Underburning” means low-intensity prescribed burning to maintain forest health through reduction of fuels in the understory of a forest stand while maintaining the over story stand characteristics. 
+
+ (31) “Vulnerable populations” means people with specific sensitivities including, but not limited to, those with heart diseases, coronary artery disease, congestive heart failure, or those with lung and respiratory diseases, such as chronic obstructive pulmonary disease (COPD), and those with asthma, older adults, pregnant women, and children. 
+
+ (32) “Western Oregon” means the eighteen Oregon counties lying west of Hood River, Wasco, Jefferson, Deschutes and Klamath Counties. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 477.013, 477.562, 526.016 & 526.041 
+ 
+ 
+ Statutes/Other Implemented:  ORS 477.013, 477.515 & 477.562 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOF 1-2019, amend filed 02/15/2019, effective 03/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOF 2-2014, f. & cert. ef. 7-11-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DOF 4-2007, f. 12-31-07, cert. ef. 1-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

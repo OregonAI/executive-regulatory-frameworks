@@ -1,0 +1,208 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Public Utility Commission 
+ Chapter 860 
+ 
+ 
+ 
+ 
+ 
+ Division 39 NET METERING RULES 
+ 860-039-0015 
+ Installation, Operation, Maintenance, and Testing of Net Metering Facilities
+ 
+ 
+ (1) Except for customer-generators established as net metering customers prior to the effective date of this rule, a customer-generator of a public utility must install, operate and maintain a net metering facility in compliance with IEEE 1547 and IEEE 1547.1. 
+
+ (2) Except for customer-generators established as net metering customers prior to the effective date of this rule, a customer-generator of a public utility must install and maintain a manual disconnect switch that will disconnect the net metering facility from the public utility’s system. The disconnect switch must be a lockable, load-break switch that plainly indicates whether it is in the open or closed position. The disconnect switch must be readily accessible to the public utility at all times and located within 10 feet of the public utility’s meter. 
+
+ (a) For customer services of 600 volts or less, a public utility may not require a disconnect switch for a net metering facility that is inverter-based with a maximum rating as shown below. 
+
+ (A) Service type: 240 Volts, Single-phase, 3 Wire — Maximum size 7.2 kW AC. 
+
+ (B) Service type: 120/208 Volts, 3-Phase, 4 Wire — Maximum size 10.5 kW AC. 
+
+ (C) Service type: 120/240 Volts, 3-Phase 4 Wire — Maximum size 12.5 kW AC. 
+
+ (D) Service type: 277/480, 3-Phase, 4 Wire — Maximum size 25.0 kW AC. 
+
+ (E) For other service types, the net metering facility must not impact the customer-generator’s service conductors by more than 30 amperes. 
+
+ (b) The disconnect switch may be located more than 10 feet from the public utility meter if permanent instructions are posted at the meter indicating the precise location of the disconnect switch. The public utility must approve the location of the disconnect switch prior to the installation of the net metering facility. 
+
+ (3) The customer-generator’s electric service may be disconnected by the public utility entirely if the net metering facility must be physically disconnected for any reason. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 183, ORS 756 & ORS 757 
+ 
+ 
+ Statutes/Other Implemented:  ORS 756.040 & ORS 757.300 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 3-2024, amend filed 04/09/2024, effective 04/09/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 4-2008, f. & cert. ef. 10-9-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 8-2007, f. & cert. ef. 7-27-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

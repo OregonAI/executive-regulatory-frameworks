@@ -1,0 +1,1181 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Self-Sufficiency Programs - Chapter 461 
+ 
+ 
+ 
+ 
+ Division 1 GENERAL DEFINITIONS AND RULEMAKING 
+ 461-001-0000 
+ Definitions for Chapter 461
+ 
+ 
+ Defined terms are often italicized throughout this chapter of rules. If a defined term is accompanied by a cross-reference to a rule defining the term, subsequent usages of that term in the same rule refer to the same definition cross-referenced earlier in the rule. I n this chapter of rules, unless the context indicates otherwise: 
+
+ (1) A reference to Division, Adult and Family Services Division (or AFS), Senior and Disabled Services Division (or SDSD), Department of Human Services (DHS), or any other agency formerly part of the Oregon Department of Human Services means the Oregon Department of Human Services (ODHS), except : 
+
+ (a) The rule in which reference occurs only regulates programs covered by OAR chapter 461. 
+
+ (b) Eligibility rules for HSD medical programs (see section (34) of this rule) are in OAR chapter 410, division 200. 
+
+ (2) "Address Confidentiality Program" (ACP) means a program of the Oregon Department of Justice, which provides a substitute mailing address and mail forwarding service for ACP participants who are survivors of domestic violence (see section (25) of this rule), sexual assault, or stalking. 
+
+ (3) "Adjusted income" means the amount determined by subtracting income deductions from countable (see section (19) of this rule) income (see OAR 461-140-0010). Specific rules on the deductions are in OAR chapter 461, division 160. 
+
+ (4) "Adoption assistance" means financial assistance provided to families adopting children with special needs. "Adoption assistance" may be state or federally funded. Federal adoption assistance is authorized by the Adoption Assistance and Child Welfare Act of 1980 (Pub. L. No. 96-272, 94 Stat. 500 (1980)). State adoption assistance is authorized by ORS 418.330 to 418.335. 
+
+ (5) "Assets" mean income and resources. 
+
+ (6) "Basic decision notice" means a decision notice (see section (21) of this rule) mailed no later than one of the following: 
+
+ (a) The date of action given in the notice. 
+
+ (b)  When suspending medical assistance due to incarceration, the date the suspense action was taken. 
+
+ (7) “Blind Work Expenses” has the meaning given in OAR 461-001-0035. 
+
+ (8) "Branch office" means any Department or AAA (Area Agency on Aging) office serving a program covered by this chapter of rules. 
+
+ (9) "Budgeting" means the process of calculating the benefit level. 
+
+ (10) "Budget month" means the calendar month from which nonfinancial and financial information is used to determine eligibility (see section (28) of this rule) and benefit level for the payment month (see section (50) of this rule). 
+
+ (11) "Cafeteria plan" means a written benefit plan offered by an employer in which: 
+
+ (a) All participants are employees; and 
+
+ (b) Participants may choose, cafeteria-style, from a menu of two or more cash or qualified benefits. In this context, qualified benefits are benefits other than cash that the Internal Revenue Service does not consider part of an employee's gross income. Qualified benefits include, but are not limited to: 
+
+ (A) Accident and health plans (including medical plans, vision plans, dental plans, accident and disability insurance); 
+
+ (B) Group term life insurance plans (up to $50,000); 
+
+ (C) Dependent care assistance plans; and 
+
+ (D) Certain stock bonus plans under section 401(k)(2) of the Internal Revenue Code (but not 401(k)(1) plans). 
+
+ (12) "Capital asset" means property that contributes toward earning self-employment income, either directly or indirectly. A "capital asset" generally has a useful life of over one year and a value, alone or in combination, of $100 or more. 
+
+ (13) "Caretaker" means an individual who is responsible for the care, control, and supervision of a child (see section (16) of this rule). The status of "caretaker" ends once the individual no longer exercises care, control, and supervision of the child for 30 days. 
+
+ (14) "Caretaker relative" means an individual with whom the dependent child (see section (23) of this rule) is living, who assumes primary responsibility for the care of the dependent child , and: 
+
+ (a) Is a biological, step, or adoptive relative of the dependent child ; or 
+
+ (b) Is the spouse of an individual described in subsection (a), even after the marriage is terminated by death or divorce. 
+
+ (15) "Certification period" means the period for which an individual is certified eligible for a program. 
+
+ (16) "Child" includes natural, step, and adoptive children. The term "child" does not include an unborn. 
+
+ (a) In the General Assistance (GA) program, a "child" is an individual under the age of 18. 
+
+ (b) For Medicare Savings Programs (see section (45) of this rule) and the Oregon Supplemental Income Program Medical (OSIPM), "child" means an unmarried individual who: 
+
+ (A) Is not considered a decision-maker in the household; 
+
+ (B) Is under the age of 18; and 
+
+ (C) Has at least one natural or adoptive parent  (see section (49) of this rule) in the same household. 
+
+ (c) In the Refugee Assistance (REF) and Refugee Assistance Medical (REFM) programs, a "child" is an individual who is not an emancipated minor and is under the age of 18. 
+
+ (17) "Community-based care" is any of the following: 
+
+ (a) Adult foster care — Room and board and 24-hour care and services for the elderly or for people with disabilities 18 years of age or older. The care is contracted to be provided in a home for five or fewer individuals. 
+
+ (b) Assisted living facility — A program approach, within a physical structure, which provides or coordinates a range of services, available on a 24-hour basis, for support of resident independence in a residential setting. 
+
+ (c) In-home Services — Individuals living in their home receiving services determined necessary by the Department. 
+
+ (d) Residential care facility — A facility that provides residential care in one or more buildings on contiguous property for six or more individuals who have physical disabilities or are socially dependent. 
+
+ (e) Specialized living facility — Identifiable services designed to meet the needs of individuals in specific target groups which exist as the result of a problem, condition, or dysfunction resulting from a physical disability or a behavioral disorder and require more than basic services of other established programs. 
+
+ (f) Independent choices — In-Home Services program wherein the participant is given cash benefits to purchase self-directed personal assistance services or goods and services provided pursuant to a written service plan (see OAR 411-030-0020). 
+
+ (18) "Continuing benefit decision notice" means a decision notice that informs the individual of the right to continued benefits and is mailed in time to be received by the date benefits are, or would be, received. 
+
+ (19) "Countable" means that an available asset (either income or a resource) is not excluded and may be considered by some programs to determine eligibility . 
+
+ (20) "Custodial parents" mean parents who have physical custody of a child . "Custodial parents" may be receiving benefits as dependent children or as caretaker relatives for their own children. 
+
+ (21) "Decision notice" means a written notice of a decision by the Department regarding an individual's eligibility for benefits in a program. 
+
+ (22) "Department" means the Oregon Department of Human Services (ODHS). 
+
+ (23) "Dependent child" in the Temporary Assistance for Needy Families (TANF) program means an individual who has not been legally emancipated and who is one of the following: 
+
+ (a) An individual who is not a caretaker relative (see section (14) of this rule) of a child in the household, is unmarried or married but separated, and is under the age of 18, or 18 years of age and a full time student in secondary school or the equivalent level of vocational or technical training; or 
+
+ (b) A minor parent (see section (46) of this rule) whose parents have chosen to apply for benefits for the minor parent . This does not apply to a minor parent who is married and living with their  spouse . 
+
+ (24) "Disability" means: 
+
+ (a) In the Supplemental Nutrition Assistance Program (SNAP), see OAR 461-001-0015. 
+
+ (b) In the REF, State Family Pre-SSI/SSDI (SFPSS), Temporary Assistance for Domestic Violence Survivors (TA-DVS), and TANF programs, for purposes other than determining eligibility : 
+
+ (A) An individual with a physical or mental impairment that substantially limits the individual's ability to meet the requirements of the program; or 
+
+ (B) An individual with a physical or mental impairment that substantially limits one or more major life activities, a record of such impairment, or who is regarded as having such an impairment as defined by the Americans with Disabilities Act (42 USC 12102; 28 CFR 35.104). 
+
+ (25) "Domestic violence" means the occurrence of one or more of the acts described in subsections (a) to (d) of this section between family members, intimate partners, or household members: 
+
+ (a) Attempting to cause or intentionally, knowingly, or recklessly causing physical injury or emotional, mental, or verbal abuse. 
+
+ (b) Intentionally, knowingly, or recklessly placing another in fear of imminent serious physical injury. 
+
+ (c) Committing sexual abuse in any degree as defined in ORS 163.415, 163.425 and 163.427. 
+
+ (d) Using coercive or controlling behavior. 
+
+ (e) As used in this section, "family members" and "household members" mean any of the following: 
+
+ (A) Spouse ; 
+
+ (B) Former spouse ; 
+
+ (C) Individuals related biologically, by marriage (see section (44) of this rule), or adoption; 
+
+ (D) Individuals who are cohabitating or have cohabited with each other; 
+
+ (E) Individuals who have been involved in a sexually intimate or dating relationship; or 
+
+ (F) Unmarried parents of a child . 
+
+ (26) "Domestic violence shelters" are public or private nonprofit residential facilities providing services to survivors of domestic violence . If the facility serves other people, a portion must be used solely for survivors of domestic violence . 
+
+ (27) "Electronic application" is an application electronically signed and submitted through the Internet. 
+
+ (28) "Eligibility" means the decision as to whether an individual qualifies, under financial and nonfinancial requirements, to receive program benefits. 
+
+ (29) "Equity value" means fair market value (see section (30) of this rule) minus encumbrances. 
+
+ (30) "Fair market value" means the amount an item is worth on the open market. 
+
+ (31) "Family stability" in the Job Opportunity and Basic Skills (JOBS), Pre-TANF, SFPSS, TA-DVS, and TANF programs means the characteristics of a family that support healthy child development, including parental mental health, drug and alcohol free environment, stable relationships, and a supportive, flexible, and nurturing home environment. 
+
+ (32) "Family stability activity" in the JOBS, Pre-TANF, SFPSS, TA-DVS, and TANF programs means an action or set of actions taken by an individual, as specified in a case plan, intended to promote the ability of one or both parents to achieve or maintain family stability (see section (31) of this rule). 
+
+ (33) "Financial institution" means a bank, credit union, savings and loan association, investment trust, or other organization held out to the public as a place receiving funds for deposit, savings, checking, or investment. 
+
+ (34) “HSD medical programs” means all programs administered by the Health Systems Division (HSD). These medical programs are described in OAR 410-200-0015 and governed under chapter 410 division 200. 
+
+ (35) “Impairment-Related Work Expenses” have the meaning found in OAR 461-001-0035. 
+
+ (36) "Income producing property" means: 
+
+ (a) In all programs except Medicare Savings Programs  and OSIPM, real or personal property that generates income for the financial group (see OAR 461-110-0530). Examples of "income producing property" are: 
+
+ (A) Livestock, poultry, and other animals. 
+
+ (B) Farmland, rental homes (including a room or other space in the home or on the property of a member of the financial group ), vacation homes, and condominiums. 
+
+ (b) For Medicare Savings Programs and OSIPM, "income-producing property" means any real or personal property not used in self-employment (see OAR 461-145-0600 and 461-145-0915) that produces income for the financial group . "Income-producing property" includes: 
+
+ (A) Livestock, poultry, or other animals that produce marketable products sold by the financial group . 
+
+ (B) Farmland not excluded under OAR 461-145-0220 that is farmed or rented out by the financial group . 
+
+ (C) Real property other than the home (including vacation homes and condominiums), that is rented out. 
+
+ (c) For Medicare Savings Programs  and OSIPM, "income-producing property" does not include: 
+
+ (A) Rooms or other space for rent in the home (see OAR 461-145-0220). 
+
+ (B) Livestock, poultry, or other animals kept for resale (see OAR 461-145-0010). 
+
+ (37) "Initial month" of eligibility means any of the following: 
+
+ (a) In all programs, the first month a benefit group (see OAR 461-110-0750) is eligible for a program benefit in Oregon after a period during which the group is not eligible. 
+
+ (b) In all programs except the SNAP program, the first month a benefit group is eligible for a program benefit after there has been a break in the program benefit of at least one full calendar month. If benefits are suspended for one month, that is not considered a break. 
+
+ (c) In the SNAP program: 
+
+ (A) The first month for which the benefit group is certified following any period during which they were not certified to participate, except for migrant and seasonal farm workers (see OAR 461-001-0015). 
+
+ (B) For migrant and seasonal farmworkers , the first month for which the benefit group is certified following any period of one month or more during which they were not certified to participate. 
+
+ (d) For a new applicant for Department-paid nursing facility services or home and community-based care (see OAR 461-001-0030), for the purposes of calculating the correct divisor in OAR 461-140-0296, the month in which the individual would have been eligible had it not been for the disqualifying transfer of assets (see section (5) of this rule). 
+
+ (e) For a current recipient of Department-paid nursing facility services or home and community-based care,  for the purpose of calculating the correct divisor in OAR 461-140-0296, the month the disqualifying transfer occurred.  
+
+ (38) "In-kind income" means income in a form other than money (such as food, clothing, cars, furniture, and payments made to a third party). 
+
+ (39) "Legally married" means a marriage uniting two individuals according to: 
+
+ (a) The statutes of the state where the marriage occurred; 
+
+ (b) Except in the SNAP program, the common law of the state in which the two individuals previously resided while meeting the requirements for common law marriage in that state; or 
+
+ (c) The laws of a country in which the two individuals previously resided while meeting the requirements for legal or cultural marriage in that country. 
+
+ (40) "Life estate" means the right to property limited to the lifetime of the individual holding it or the lifetime of some other individual. In general, a "life estate" enables the owner of the "life estate" to possess, use, and obtain profits from property during the lifetime of a designated individual while actual ownership of the property is held by another individual. A "life estate" is created when an individual owns property and then transfers ownership to another individual while retaining, for the rest of the individual's life, certain rights to that property. In addition, a "life estate" is established when a member of the financial group purchases a "life estate" interest in the home of another individual. 
+
+ (41) "Lodger" means someone who--- 
+
+ (a) Is living with an individual receiving Department benefits; 
+
+ (b) Is not a member of the individual’s filing group (see OAR 461-110-0310); and 
+
+ (c) Pays the filing group : 
+
+ (A) In all programs except Medicare Savings Programs and OSIPM, for room and board. 
+
+ (B) For Medicare Savings Programs and OSIPM, for room with or without board. 
+
+ (42) "Long term care" means the system through which the Department provides a broad range of social and health services for extended periods of time to eligible adults who are aged, blind, or have disabilities. This includes nursing facilities and the Oregon State Hospital. 
+
+ (43) "Lump-sum income" means earned or unearned income received too infrequently or irregularly to be reasonably anticipated, or received as a one-time payment. "Lump-sum income" includes but is not limited to: 
+
+ (a) Retroactive benefits covering more than one month, whether received in a single payment or several payments. 
+
+ (b) Income from inheritance, gifts, winnings, and personal injury claims. 
+
+ (c) Income received less frequently than annually. 
+
+ (44) "Marriage" means the union of two individuals who are legally married (see section (39) of this rule). 
+
+ (45) “Medicare Savings Programs” means Medicaid programs that provide payment for Medicare-related expenses. When used alone in a rule, “Medicare Savings Programs” refers to all the individual programs listed in subsections (a) through (d) below. “Medicare Savings Programs” are also referred to as “QMB programs” in Chapter 461 rules. 
+
+ (a)  Qualified Disabled and Working Individual (QDWI) 
+
+ (b)  Qualifying Individual (QI) 
+
+ (c)  Qualified Medicare Beneficiary (QMB) 
+
+ (d)  Specified Low-Income Medicare Beneficiary (SLMB) 
+
+ (46) "Minor parent" in the TANF program means a parent under the age of 18. 
+
+ (47) "Nonstandard living arrangement" is defined as follows: 
+
+ (a) For Medicare Savings Programs and OSIPM, an individual is considered to be in a "nonstandard living arrangement" when the individual is applying for or receiving services in any of the following locations: 
+
+ (A) A nursing facility in which the individual receives long-term care services paid with Medicaid funding, except this subsection does not apply to a Medicare recipient in a skilled-stay nursing facility. 
+
+ (B) An intermediate care facility for individuals with intellectual disabilities (ICF/ID). 
+
+ (C) A psychiatric institution, if the individual is not yet 21 years of age or has reached the age of 65. 
+
+ (D) A community-based care (see section (17) of this rule) setting, except a State Plan Personal Care (SPPC) setting is not considered a "nonstandard living arrangement". 
+
+ (b) In all programs except Medicare Savings Programs and OSIPM, "nonstandard living arrangement" means each of the following locations: 
+
+ (A) Foster care. 
+
+ (B) Residential Care facility. 
+
+ (C) Drug or alcohol residential treatment facility. 
+
+ (D) Shelter for individuals experiencing homelessness or domestic violence shelter. 
+
+ (E) Lodging house if paying for room and board. 
+
+ (F) Correctional facility. 
+
+ (G) Medical institution. 
+
+ (48) "Ongoing month" means one of the following: 
+
+ (a) For all programs except the SNAP program, any month following the initial month (see section (37) of this rule) of eligibility , if there is no break in the program benefit of one or more calendar months. 
+
+ (b) For the SNAP program, any month in the certification period (see section (15) of this rule) following the initial month of eligibility . 
+
+ (49) "Parent" for all programs except Job Participation Incentive (JPI) (see OAR 461-135-1260) and the SNAP program means the biological or legal parent of an individual or unborn. For JPI and the SNAP program, "parent" means the biological or legal parent of an individual. 
+
+ (a) If the person who gave birth (parent 1) to the child lives with an individual (parent 2) and either parent 1 or parent 2 claims that parent 2 is the other biological parent of the child or unborn, and no one else claims to be the other biological parent, parent 2 is treated as a parent even if parentage has not been legally established. 
+
+ (b) A stepparent relationship exists if: 
+
+ (A) The individual is legally married to the child's biological or adoptive parent; and 
+
+ (B) The marriage has not been terminated by legal separation, divorce, or death. 
+
+ (c) A legal adoption erases all prior legal and biological relationships and establishes the adoptive parent as the legal parent. However, the biological parent is also considered a "parent" if both of the following are true: 
+
+ (A) The child lives with the biological parent; and 
+
+ (B) The legal parent has given up care, control, and supervision of the child . 
+
+ (50) "Payment month" means, for all programs except Emergency Assistance (EA), the calendar month for which benefits are issued. 
+
+ (51) "Payment period" means, for EA, the 30-day period starting with the date the first payment is issued and ending on the 30th day after the date the payment is issued. 
+
+ (52) "Periodic income" means income received on a regular basis less often than monthly. 
+
+ (53) "Primary person" for all programs except the SNAP program, means the filing group member who is responsible for providing information necessary to determine eligibility and calculate benefits. The "primary person" for individual programs is as follows: 
+
+ (a) In the TANF program, the parent or caretaker relative . 
+
+ (b) In the SNAP program, see OAR 461-001-0015. 
+
+ (c) For  GA, Medicare Savings Programs , OSIPM, REF, and REFM, the individual or individual's spouse . 
+
+ (54) "Qualified Partnership Policy" means a long-term care insurance policy meeting the requirements of OAR 836-052-0531 that was either: 
+
+ (a) Issued while the individual was a resident in Oregon on January 1, 2008 or later; or 
+
+ (b) Issued in another state while the individual was a resident of that state on or after the effective date of that state's federally approved State Plan Amendment to issue qualified partnership policies. 
+
+ (55) "Real property" means land, buildings, and whatever is erected on or affixed to the land and taxed as "real property". 
+
+ (56) "Reimbursement" means money or in-kind compensation provided specifically for an identified expense. 
+
+ (57) "Safe homes" mean private homes that provide a few nights lodging to survivors of domestic violence . The homes must be recognized as such by the local domestic violence agency, such as crisis hot lines and shelters. 
+
+ (58) "Shelter costs" mean, in all programs except the SNAP program, housing costs (rent or mortgage payments, property taxes) and utility costs, not including cable TV or non-basic telephone charges. In the SNAP program, see OAR 461-160-0420. 
+
+ (59) "Shelter‑in‑kind" means an agency or individual outside the financial group provides the shelter of the financial group , or makes a payment to a third party for some or all of the shelter costs (see section (58) of this rule) of the financial group . "Shelter-in-kind" does not include temporary shelter provided by a domestic violence shelter, shelter for individuals experiencing homelessness, or residential alcohol and drug treatment facilities or situations where no shelter is being provided, such as sleeping in a doorway, park, or bus station. 
+
+ (60) "Sibling" means the brother or sister of an individual. "Biologically-related" means they share at least one biological or adoptive parent. "Step" means they are not related biologically, but are related by the marriage of their parents. 
+
+ (61) "Spousal support" means income paid (voluntarily, per court order, or per administrative order) by a separated or divorced spouse to a member of the financial group . 
+
+ (62) "Spouse" means an individual who is legally married to another individual. 
+
+ (63) "Stable income" means income that is the same amount each time it is received. 
+
+ (64) "Standard living arrangement" means a location that does not qualify as a nonstandard living arrangement . 
+
+ (65) "Teen parent" means, in the JOBS, REF, REFM, and TANF programs, a parent who is the age of 18 or 19. 
+
+ (66) "Timely continuing benefit decision notice" means a decision notice that informs the individual of the right to continued benefits and is mailed no later than the time requirements in OAR 461-175-0050. 
+
+ (67) "Trust funds" mean money, securities, or similar property held by an individual or institution for the benefit of another individual. 
+
+ (68) "USDA meal reimbursements" mean cash reimbursements made by the Oregon Department of Education for family day-care providers who serve snacks and meals to children in their care. 
+
+ (69) "Variable income" means earned or unearned income that is not always received in the same amount each month. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 409.050, 411.060, 411.070, 411.404, 411.706, 411.816, 412.006, 412.014, 412.049, 413.085 & 414.619 
+ 
+ 
+ Statutes/Other Implemented:  ORS 409.010, 409.050, 411.060, 411.070, 411.404, 411.816, 411.837, 412.001, 412.006, 412.014, 412.049, 413.085 & 414.619 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 29-2025, amend filed 12/29/2025, effective 01/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 41-2024, amend filed 06/20/2024, effective 07/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 30-2024, amend filed 03/26/2024, effective 04/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 21-2023, amend filed 06/22/2023, effective 07/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 53-2021, minor correction filed 12/13/2021, effective 12/13/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 45-2020, amend filed 12/22/2020, effective 01/01/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 21-2020, amend filed 07/08/2020, effective 07/08/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 8-2019, amend filed 03/13/2019, effective 04/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 33-2017, amend filed 12/08/2017, effective 01/01/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 23-2017, f. 9-11-17, cert. ef. 10-1-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 40-2016, f. & cert. ef. 11-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 35-2016, f. 9-30-16, cert. ef. 10-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 31-2016, f. & cert. ef. 9-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 25-2016(Temp), f. 6-30-16, cert. ef. 7-1-16 thru 12-27-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 15-2016, f. & cert. ef. 4-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 36-2015, f. 12-23-15, cert. ef. 1-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 29-2015(Temp), f. & cert. ef. 10-1-15 thru 3-28-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 25-2015, f. 9-29-15, cert. ef. 10-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 11-2015, f. 3-13-15, cert. ef. 4-1-15 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 24-2014, f. & cert. ef. 10-1-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 18-2014(Temp), f. & cert. ef. 7-1-14 thru 12-23-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 15-2014, f. & cert. ef. 7-1-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 14-2014(Temp), f. & cert. ef. 6-26-14 thru 12-23-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 9-2014, f. & cert. ef. 4-1-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 39-2013(Temp), f. 12-31-13, cert. ef. 1-1-14 thru 6-30-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 37-2013, f. 12-31-13, cert. ef. 1-1-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 29-2013(Temp), f. & cert. ef. 10-1-13 thru 2-19-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 24-2013, f. & cert. ef. 10-1-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 22-2013(Temp), f. & cert. ef. 8-23-13 thru 2-19-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 30-2012, f. 9-28-12, cert. ef. 10-1-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 17-2012(Temp), f. & cert. ef. 5-1-12 thru 10-28-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 25-2011, f. 9-30-11, cert. ef. 10-1-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 41-2010, f. 12-30-10, cert. ef. 1-1-11 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ Reverted to SSP 13-2009, f. & cert. ef. 7-1-09 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 29-2009(Temp), f. & cert. ef. 10-1-09 thru 3-30-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 13-2009, f. & cert. ef. 7-1-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 5-2009, f. & cert. ef. 4-1-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 26-2008, f. 12-31-08, cert. ef. 1-1-09 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 23-2008, f. & cert. ef. 10-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 17-2008, f. & cert. ef. 7-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 8-2008, f. & cert. ef. 4-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 5-2008, f. 2-29-08, cert. ef. 3-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 14-2007, f. 12-31-07, cert. ef. 1-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 15-2007(Temp), f. 12-31-07, cert. ef. 1-1-08 thru 3-29-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 10-2007, f. & cert. ef. 10-1-07 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 11-2007(Temp), f. & cert. ef. 10-1-07 thru 3-29-08 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 4-2007, f. 3-30-07, cert. ef. 4-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 15-2006, f. 12-29-06, cert. ef. 1-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 14-2006, f. 9-29-06, cert. ef. 10-1-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 14-2005, f. 9-30-05, cert. ef. 10-1-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 27-2001, f. 12-21-01, cert. ef. 1-1-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 25-2000, f. 9-29-00, cert. ef. 10-1-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 21-1995, f. 9-20-95, cert. ef. 10-1-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 54-1984, f. 12-28-84, ef. 1-1-85 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ AFS 28-1978, f. & ef. 7-13-78 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

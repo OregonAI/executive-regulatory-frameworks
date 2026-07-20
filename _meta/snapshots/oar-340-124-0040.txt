@@ -1,0 +1,334 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 124 STANDARDS APPLICABLE TO DRY CLEANING FACILITIES AND DRY STORES 
+ 340-124-0040 
+ Waste Minimization Requirements
+ 
+ 
+ In addition to the otherwise applicable hazardous waste management requirements of OAR 340-100-0001 and 0002 that apply to hazardous waste generators and facilities, the following waste minimization requirements implement ORS 465.505. The following apply to dry cleaning facilities and dry stores: 
+
+ (1) Hazardous waste: 
+
+ (a) Persons generating hazardous waste at a dry cleaning facility in amounts of 220 pounds a month or less or who never store onsite more than 2,200 pounds of hazardous waste shall manage hazardous waste as follows: 
+
+ (A) All waste meeting the state and federal criteria for hazardous waste identified in OAR 340-102-0011, excluding wastewater, generated at a dry cleaning facility and containing dry cleaning solvents, shall be managed and disposed of regardless of quantity generated as a hazardous waste at a permitted hazardous waste treatment, storage, disposal or recycling facility or at some other waste disposal facility approved by the Department; 
+
+ (B) Store all hazardous wastes, including dry cleaning wastewater, in closed containers labeled with the words “hazardous waste” and the date waste was first placed in the container; 
+
+ (C) Ship hazardous waste offsite within one year of placing waste in the hazardous waste container, and 
+
+ (D) May submit a written request for an extension of one additional year to store hazardous waste onsite prior to shipping it offsite if the dry cleaning facility is in a remote location in Oregon, or if the dry cleaning facility does not generate hazardous waste in economically feasible quantities to ship within one year of the date the waste was placed in the container; 
+
+ (E) Retain onsite hazardous waste shipping records for three years; and 
+
+ (F) Post the Oregon Emergency Response System notification information. 
+
+ (b) Persons accumulating hazardous waste at a dry cleaning facility in amounts greater than 2200 pounds at any time shall consult OAR 340-100-0001 and 0002 for the applicable hazardous waste regulations that apply. 
+
+ (c) Persons generating hazardous waste at dry cleaning facilities in amounts greater than 220 pounds but less than 2,200 pounds in a month shall consult OAR 340-100-0001 and 0002 for the applicable hazardous waste regulations that apply. 
+
+ (d) Persons generating hazardous waste at dry cleaning facilities in amounts of 2200 pounds or more in a month shall consult OAR 340-100-0001and 0002 for the applicable hazardous waste regulations that apply. 
+
+ (e) Any dry cleaning operator making the claim they do not generate a hazardous waste shall maintain documentation of their hazardous waste determination as required by OAR 340-102-0011 and provide such documentation to the Department on request. 
+
+ (f) No person shall dispose of or place dry cleaning solvent, filters, lint from dry cleaning machine cleanout, button trap cleanout, prefilter cleanout, spent diatomaceous earth, sludge, dry cleaning wastewater, still bottoms or other waste material containing hazardous waste dry cleaning solvent in a dumpster or trash receptacle, on the ground or in any location other than in an appropriately labeled hazardous waste storage container for these wastes. 
+
+ (g) No person shall dispose of or place dry cleaning solvent, filters, lint from dry cleaning machine cleanout, button trap cleanout, prefilter cleanout, spent diatomaceous earth, sludge, dry cleaning wastewater, still bottoms or other waste material containing hazardous waste dry cleaning solvent in a sanitary sewer, drain, storm sewer, septic tank or any other underground structure which may result in a release to the waters of the state. 
+
+ (h) Each dry cleaning operator or dry cleaning owner of a dry cleaning facility which ceases operation as a dry cleaning facility for 45 continuous days shall remove dry cleaning solvent, including dry cleaning solvent remaining in the dry cleaning machine and waste materials containing dry cleaning solvent from the dry cleaning facility, within 45 days after the last day of operation. A dry cleaning operator or dry cleaning owner shall remove dry cleaning solvent and solvent-containing residue from a dry cleaning machine in accordance with 40 CFR 261.4(c) prior to the dry cleaning machine being disposed, recycled or reused. 
+
+ (i) Any dry cleaning operator or dry cleaning owner may request from the Department a written extension of the 45-day time limit in subsection (h) above, subject to Department approval. 
+
+ (2) Dry cleaning wastewater shall be managed as follows: 
+
+ (a) Dry cleaning wastewater shall not be discharged into any sanitary sewer, storm sewer, septic system, boiler, or into the waters of the state. 
+
+ (b) Dry cleaning facilities generating dry cleaning wastewater containing hazardous waste, in amounts of 220 pounds a month or less or never store onsite more than 2,200 pounds of hazardous waste, shall manage the hazardous dry cleaning wastewater as follows: 
+
+ (A) Collect the wastewater in a closed container, labeled with the words “hazardous waste” and the date waste was first placed in the container, count the wastewater toward the dry cleaning facility’s monthly hazardous waste generator category and send the wastewater offsite to a permitted hazardous waste treatment, disposal or recycling facility; 
+
+ (B) Collect the wastewater in a closed container, labeled with the words “hazardous waste” and the date waste was first placed in the container, count the wastewater toward the dry cleaning facility’s monthly hazardous waste generator category unless the wastewater is managed immediately upon generation in a wastewater treatment unit and treated in a wastewater treatment unit; or 
+
+ (C) Directly pipe the wastewater to a wastewater treatment unit and treat onsite. 
+
+ (c) Dry cleaning operators treating wastewater containing hazardous waste at a dry cleaning facility in a wastewater treatment unit shall meet the following conditions: 
+
+ (A) The wastewater treatment unit meets the definition in 40 CFR 260.10, and shall have the following components: 
+
+ (i) A second solvent water separator settling chamber to recover free-phase dry cleaning solvent from the wastewater that exits the dry cleaning machine’s water separator; 
+
+ (ii) An initial filter with filter media capable of removing dry cleaning solvent dissolved in the dry cleaning wastewater that exits the second solvent water separator; 
+
+ (iii) A monitor-alarm that automatically shuts down the wastewater treatment unit when the initial filter becomes saturated with solvent; and 
+
+ (iv) A second filter with filter media capable of removing dry cleaning solvent dissolved in the dry cleaning wastewater after it passes through the initial filter and past the monitor-alarm. 
+
+ (B) All treated wastewater is evaporated, misted, atomized or released such that no visible liquid deposition or accumulation is present, and the discharge does not create a nuisance according to OAR 340-208-0300; 
+
+ (C) All spent filters from the wastewater treatment unit are managed as hazardous waste; 
+
+ (D) An operational and maintenance manual is kept onsite at all times; and 
+
+ (E) If the monitor-alarm shuts down the wastewater treatment unit, the dry cleaning operator shall, before continuing to use the wastewater treatment unit: 
+
+ (i) Replace the initial and second filter with new filters; or 
+
+ (ii) Replace the initial filter with the used second filter and install a new second filter. 
+
+ (d) A dry cleaning operator may treat dry cleaning wastewater in equipment other than described in OAR 340-124-0040(2)(c) provided the following conditions are met: 
+
+ (A) The equipment meets the definition of wastewater treatment unit in 40 C.F.R. §260.10; 
+
+ (B) The wastewater treatment unit is designed to remove free phase dry cleaning solvent; 
+
+ (C) The treated wastewater discharged from the wastewater treatment unit does not meet or exceed the hazardous waste levels in 40 C.F.R. §§261.20 to 261.24; 
+
+ (D) The unit ceases operation if the levels under (C) are exceeded; 
+
+ 
+ NOTE: The toxic characteristic hazardous waste regulatory level for perchloroethylene is 0.7 parts per million and for benzene is 0.5 parts per million analyzed by the Toxic Characteristic Leaching Procedure (TCLP). If other hazardous waste constituents are present they must similarly be compared to the hazardous waste levels in 40 C.F.R. §§261.20 and 261.24. 
+ 
+
+ (E) Documentation that under normal use, concentrations do not exceed the hazardous waste level in 40 C.F.R. §§261.20 to 261.24; 
+
+ (F) All spent filters from the wastewater treatment unit are managed as hazardous waste; 
+
+ (G) An operational manual and maintenance manual is kept onsite at all times; and 
+
+ (H) All treated wastewater is evaporated, misted, atomized or released such that that no visible liquid deposition or accumulation is present and the discharge does not create a nuisance according to OAR 340-208-0300. 
+
+ (e) Dry cleaning wastewater containing hazardous waste may be treated in a wastewater treatment unit other than that described in OAR 340-124-0040(2)(c) provided the treatment process utilizes a technology that is capable of providing equivalent or better levels of solvent removal than the limits defined in 340-124-0040(2)(d) of this rule. Any person proposing to use an alternate wastewater treatment unit shall demonstrate that the alternative unit provides treatment at equivalent or better levels of solvent removal under operational conditions than the limits defined in 340-124-0040(2)(d) of this rule. All requests for an alternative wastewater treatment unit will be submitted to the Department in writing. 
+
+ (3) Containment systems: All dry cleaning operators shall comply with the following requirements to be in compliance with ORS 465.505: 
+
+ (a) A secondary containment system under and around the dry cleaning machine must be constructed of rigid metal material impermeable to the solvent in use. Dry cleaning machine containment systems must be installed in such a way as not to compromise the integrity of the containment. A secondary containment system under and around the dry cleaning machine shall be capable of containing at least 110% of the capacity of the largest tank in the dry cleaning machine for 72 hours. The containment system for a dry cleaning machine shall extend to the outside perimeter of the dry cleaning machine to provide protection from leaks and drips from seals; 
+
+ (b) All sealant and caulk used on each secondary containment system shall be impermeable and impervious to the dry cleaning solvent and dry cleaning waste in use, inspected for leaks, and maintained in a non-leaking condition; 
+
+ (c) A secondary containment system under and around dry cleaning solvent stored at a dry cleaning facility shall be constructed of rigid material impermeable to the solvent in use and capable of containing 110 percent of the capacity of solvent being stored; 
+
+ (d) Outdoor storage areas shall be secured and covered to protect from accumulation of rainfall and unauthorized entry; 
+
+ (e) A secondary containment system under and around the wastewater treatment unit shall be constructed of rigid material impermeable to the solvent in use and capable of containing 110 percent of the capacity of each wastewater treatment unit; 
+
+ (f) A secondary containment system under and around a hazardous waste storage container/s shall be constructed of rigid material impermeable to the solvent in use and capable of containing 110 percent of the volume of the liquid contained in each hazardous waste storage container. Outdoor storage areas shall be secured and covered to protect from accumulation of rainfall and unauthorized entry; 
+
+ (g) All other items of equipment in which dry cleaning solvent is used, treated or stored shall have secondary containment constructed of rigid material impermeable to the solvent in use and capable of containing 110 percent of the volume of the liquid contained in each piece of equipment; and 
+
+ (h) Any dry cleaning operator many petition the Department to use another material for secondary containment for the dry cleaning machine, provided they can demonstrate to the Department that the material is impermeable to the dry cleaning solvent in use. 
+
+ (4) Annual reporting for dry cleaning facilities and dry stores: 
+
+ (a) All dry cleaning operators and/or owners of a dry cleaning business shall report annually to the Department on forms supplied by the Department regarding compliance with the waste minimization requirements set forth in this rule; and 
+
+ (b) All dry store operators shall report to the Department annually on forms supplied by the Department. 
+
+ (5) Spill reporting: 
+
+ (a) All dry cleaning operators shall prominently post the Oregon Emergency Response System telephone number 1-800-452-0311, so the number is immediately available to employees of the dry cleaning facility in case on an emergency; 
+
+ (b) All spill reporting shall be made to the Oregon Emergency Response System, OERS; 
+
+ (c) All dry cleaning operators shall report the release of more than 1 pound of dry cleaning solvent in a 24-hour period released outside of a containment system; 
+
+ (d) All dry cleaning operators shall take emergency action as required by OAR 340 division 142 “Oil and Hazardous Materials Emergency Response Requirements” for releases of more than 1 pound of dry cleaning solvent in a 24-hour period released outside of a containment system; and 
+
+ (e) Dry cleaning operators are not required to report releases of dry cleaning solvent, provided the release is contained within an existing containment system, is cleaned up immediately, and repairs are made immediately to the cause of the release. 
+
+ (6) Closed direct-coupled delivery of perchloroethylene: 
+
+ (a) All perchloroethylene dry cleaning machines shall be fitted with closed, self-sealing couplings for input of solvent into the dry cleaning machine and closed, self-sealing couplings on the vapor displacement outlet that captures perchloroethylene gas vapors and returns the vapor to the delivery container; and 
+
+ (b) All suppliers of perchloroethylene to dry cleaning facilities shall deliver solvent to the dry cleaning facility in containers that are fitted with closed, self-sealing couplings on the delivery line for input of solvent into the dry cleaning machine and closed self-sealing couplings on the vapor displacement vent line that captures perchloroethylene gas vapors and returns the vapor to the delivery container, or the supplier of perchloroethylene solvent may use an alternative delivery system to that required in (6)(b), subject to the condition that the system provides the same or better protection from releases and is approved by the Department. All requests for alternative systems shall be submitted in writing, including system schematic to the Department for approval. 
+
+ [NOTE: View a PDF of Toxic Characteristic Leaching Procedure by clicking on "Tables" link below.] 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 465.505(1)(c), 465.505(5) & 468.020 
+ 
+ 
+ Statutes/Other Implemented:  ORS 465.505 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 13-2019, amend filed 05/16/2019, effective 05/16/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 100-2018, minor correction filed 04/10/2018, effective 04/10/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 13-2002, f. & cert. ef. 10-9-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

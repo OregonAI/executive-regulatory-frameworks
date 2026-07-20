@@ -1,0 +1,177 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Finance and Securities Regulation - Chapter 441 
+ 
+ 
+ 
+ 
+ Division 175 LICENSING OF BROKER-DEALERS,  INVESTMENT ADVISERS, AND SALESPERSONS 
+ 441-175-0010 
+ Definitions 
+ 
+ As used in these rules:  (1) "Associated person" means any partner, officer, director, or branch manager of a broker-dealer, or investment adviser (or any person occupying a similar status or performing similar functions), or any person directly or indirectly controlling or controlled by such broker-dealer, or investment adviser, including any employee of such broker-dealer or investment adviser, except that for the purposes of OAR 441-195-0010, 441-195-0070, 441-205-0140, and 441-205-0210, the term "associated person" shall not include persons whose functions are only clerical or ministerial.  (2) "CRD" means the Central Registration Depository of the Financial Industry Regulatory Authority, a database maintained by the Financial Industry Regulatory Authority to register broker-dealers and salespersons.  (3) "The completion of the transaction" means:  (a) In the case of a customer who purchases a security through or from a broker-dealer except as provided in subsection (b) of this section, the time when such customer pays the broker-dealer any part of the purchase price, or if payment is effected by a bookkeeping entry, the time when such bookkeeping entry is made by the broker-dealer for any part of the purchase price;  (b) In the case of a customer who purchases a security through or from a broker-dealer and who makes payment therefor prior to the time when payment is requested or notification is given that payment is due, the time when such broker-dealer delivers the security to or into the account of such customer;  (c) In the case of a customer who sells a security through or to a broker-dealer except as provided in subsection (d) of this section, if the security is not in the custody of the broker-dealer at the time of sale, the time when the security is delivered to the broker-dealer and, if the security is in the custody of the broker-dealer at the time of sale, the time when the broker-dealer transfers the security from the account of such customer; and  (d) In the case of a customer who sells a security through or to a broker-dealer and who delivers the security to such broker-dealer prior to the time when delivery is requested or notification is given that delivery is due, the time when such broker-dealer makes payment to or into the account of such customer.  (4) "Controlling security holder" means a person who exercises control as defined under ORS 59.015(2) or who is directly or indirectly the beneficial owner of more than ten percent of the outstanding voting securities of an issuer.  (5) "Director" means the Director of the Department of Consumer and Business Services.  (6)(a) “Financial Industry Regulatory Authority” or “FINRA” means the self-regulatory organization registered as a national securities association under section 15A of the Securities Exchange Act of 1934, 15 U.S.C. §73o-3, to register and regulate broker-dealers and salespersons and approved by the SEC as a successor to the National Association of Securities Dealers, Inc.  (b) For purposes of ORS 59.025, 59.049, 59.065, 59.175, 59.331, and 59.370, references to the “National Association of Securities Dealers, Inc.” or “NASD” shall refer to the Financial Industry Regulatory Authority or FINRA.  (7) “FINRA broker-dealer” means a broker-dealer subject to section 15 of the Securities Exchange Act of 1934, 15 U.S.C. §78o, as amended.  (8) “Form ADV” means the application for registration as an investment adviser under sections 203(c) or 203(g) of the Investment Advisors Act of 1940, 15 U.S.C. § 80b-3, as prescribed by 17 C.F.R. § 279.1, and available at http://www.sec.gov/divisions/investment/iard/iastuff.shtml.  (9) “Form BD” means the application for registration as a broker-dealer under the Securities Exchange Act of 1934, 17 U.S.C. §78a et seq., as prescribed by 17 C.F.R. § 249.501, and available at http://www.sec.gov/about/forms/formbd.pdf.  (10) “Form U-4” means the Uniform Application for Securities Industry Registration or Transfer, published by FINRA and available at http://www.finra.org/industry/compliance/registration/crd/filingguidance/p005235  (11) “Form U-5” means the Uniform Termination Notice for Securities Industry Registration, published by FINRA and available at http://www.finra.org/industry/compliance/registration/crd/filingguidance/p005235.  (12) "IARD" means the Investment Adviser Registration Depository maintained by the Financial Industry Regulatory Authority to register investment advisers and investment adviser representatives.  (13) "Independent accountant" means a certified public accountant (CPA) or public accountant (PA), who holds an Oregon permit pursuant to ORS 673.150 or similar permit or license from another state or province.  (14)(a) "Interim financial statement" means a financial statement prepared at a time other than year end. Interim financial statements must be prepared at month end, may be prepared by management, and must include at least a balance sheet and statement of income or operations.  (b) The Focus Report filed with the Securities and Exchange Commission, Form X-17A-5 as required by 17 C.F.R. § 240.17a-5 and available at http://www.sec.gov/about/forms/secforms.htm, is acceptable as an interim financial statement.  (15) "NASD" means the National Association of Securities Dealers, Inc., the self-regulatory organization previously registered as a national securities association under section 15A of the Securities Exchange Act of 1934, 15 U.S.C. §73o-3, to register and regulate broker-dealers and salespersons and subsequently succeeded by the Financial Institution Regulatory Authority.  (16) "Non-FINRA broker-dealer" means a broker-dealer who is not a member of the Financial Industry Regulatory Authority.  (17) “S-63” means the Uniform Securities Agent State Law Examination published by the North American Securities Administrators Association in January 2010 and made available at http://www.nasaa.org/industry-resources/exams/study-guides/.  (18) “S-65” means the Series 65 Uniform Investment Adviser Law Examination published by the North American Securities Administrators Association in 2010 and made available at http://www.nasaa.org/industry-resources/exams/series-65-66-resources/series-65-study-guide/.  (19) “S-66” means the Series 66 Uniform Combined State Law Examination published by the North American Securities Administrators Association in January 2010 and made available at http://www.nasaa.org/industry-resources/exams/study-guides/.  (20) "SEC" means the United States Securities and Exchange Commission. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 59.285 
+ 
+ 
+ Statutes/Other Implemented:  ORS 59.175 & 59.285 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ FSR 1-2016, f. & cert. ef. 3-7-16 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ FCS 1-2012, f. & cert. ef. 7-9-12 
+FCS 9-2003, f. 12-30-03, cert. ef. 1-1-04 
+FCS 9-2001, f. & cert. ef. 9-28-01 
+FCS 7-2000, f. & cert. ef. 6-2-00 
+FCS 2-1994, f. & cert. ef. 1-7-94 
+FCS 1-1992, f. 1-31-92, cert. ef. 2-1-92 
+FCS 6-1988, f. 3-22-88, cert. ef. 3-25-88, Renumbered from 815-030-0065 
+FCS 7-1987(Temp), f. 9-24-87, cert. ef. 9-28-87 
+CC 12-1973, f. 7-12-73, cert. ef. 9-1-73, Renumbered from 815-030-0161 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

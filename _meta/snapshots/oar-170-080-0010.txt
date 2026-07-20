@@ -1,0 +1,268 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon State Treasury 
+ Chapter 170 
+ 
+ 
+ 
+ 
+ 
+ Division 80 OREGON RETIREMENT SAVINGS PROGRAM 
+ 170-080-0010 
+ Administration
+ 
+ 
+ (1) Policy.  The Board intends that, consistent with ORS Section 178.210(1)(p), the Program be operated, and these rules be construed, in a manner consistent with applicable guidance provided by the U.S. Department of Labor relating to payroll deduction IRA programs that are not pension plans under Title I of the Employee Retirement Income Security Act (ERISA) including, but not limited to, 29 CFR Sections 2509.99-1, 2510.3–2(d).  
+
+ (2) Definitions.  All capitalized terms used in these rules shall be as defined in the Act.  Where a conflict is found to exist between a definition stated in these rules and the corresponding definition in the Act, the statutory definition shall apply.  As used in these rules, unless the context indicates otherwise: 
+(a) “Act” means ORS 178.200 to 178.245, as amended from time to time. 
+(b) “Automatic Contribution Plan” means a program that allows a Participating Individual to contribute funds to a Program Roth or Traditional IRA at regular intervals through electronic transmission. Contributions shall be deemed to be made at regular intervals if they are made at least quarterly.   
+(c) “Beneficiary” means the individual(s), person(s), or entity(ies) entitled to receive the proceeds of a Program IRA. 
+(d) “Board” means the Oregon Retirement Savings Board established in ORS 178.200(1). 
+(e) “Certificate of Exemption” means a truthful statement by an authorized representative of an Employer that it offers a Qualified Plan to some or all of its Employees.  
+(f) “Client Employer” means a client of a Worker Leasing Company that obtains services of Leased Workers as defined in OAR 436-050-0005.  
+(g) “Code” means the Internal Revenue Code and any regulations, rulings, announcements, or other guidance issued thereunder, as amended.  
+(h) “Compensation” means W-2 wages, as defined in 26 CFR 1.415(c)-2(d)(4). 
+(i) “Distribution” means any distribution of funds from an IRA established pursuant to the Program. 
+(j) “Employee” means any person 18 years of age and older working in an Employment, as defined herein. 
+(k) “Employer” means any employing unit which employs one or more individuals in an Employment in each of 18 separate weeks during any calendar year, or in which the employing unit’s total payroll during any calendar quarter amounts to $1,000 or more. 
+(l) “Employer of Record” means the business associated with the Business Identification Number (BIN), or if unavailable, the Federal Employer Identification Number (FEIN), listed on an Employee’s or Participating Employee’s W-2. 
+(m) “Employment” means any employment subject to ORS Chapter 657 provided that, notwithstanding the exemptions from the definition of Employment contained in Chapter 657, for the purposes of the Program, Employment includes:  
+(A) Agricultural labor, as defined in ORS 657.045; and 
+(B) Commissioned positions, as defined in ORS 657.085, 657.087(1) and (2), and 657.090. 
+(n) “Enrollment Date” means either: 
+(A) the Initial Enrollment Date, for Participating Employees hired on or before the Facilitating Employer’s required Registration Date; or 
+(B) a date not more than 60 days following start of employment, for Participating Employees hired after the Facilitating Employer’s required Registration Date.     
+(o) “Executive Director” means the Executive Director of the Oregon Savings Network. 
+(p) “Exempt Employer” means an Employer who offers a Qualified Plan to some or all of its Employees; and 
+(A)  has filed a valid and current Certificate of Exemption pursuant to procedures established by the Board; or 
+(B) has received a notice of presumed exemption, as provided in OAR 170-080-0020. 
+(q) “Facilitating Employer” means an Employer whose Registration Date has passed and who is not an Exempt Employer. 
+(r) “Initial Enrollment Date” means the date not more than 60 days after the Facilitating Employer’s required Registration Date, by which a Facilitating Employer must initially enroll its Participating Employees. 
+(s) “IRA” means the individual retirement account established by a Participating Individual or by or for a Participating Employee under the Program. 
+(t) “IRS” means the Internal Revenue Service of the United States Treasury Department. 
+(u) “Minimum Initial Contribution” means the minimum Non-Payroll Contribution required for a Participating Individual to establish a Program IRA.  
+(v) “Non-Payroll Contributions” means contributions other than Payroll Deduction Contributions, rollover contributions, or transfer contributions. 
+(w) “Number of Employees” means the number of employees as submitted on the Employer’s  Oregon Quarterly Tax Report (Form OQ): Number of covered workers for Unemployment Insurance, in accordance with OAR 170-080-0015. 
+(x) “Participating Employee” means any person who is an Employee of a Facilitating Employer, enrolled in the Program, maintains a Program IRA and is not a Participating Individual..  
+(y) “Participating Individual” means any person who is in the Program independent of an employment relationship with a Facilitating Employer, maintains a Program IRA, and is not a Participating Employee.  
+(z) “Payroll Date” means the date that an Employee’s Compensation is paid to the Employee by the Employer through the payment of cash, issuance of a check, electronic funds transfer or other method.  
+(aa) “Payroll Deduction Contributions” means contributions made by a Participating Employee or Participating Individual pursuant to a payroll deduction.  
+(bb) “Program” means the Oregon Retirement Savings Program established by the Board pursuant to ORS 178.205(1). 
+(cc) “Program Administrator” means a third party administrator chosen by the Board to assist in carrying out the requirements of the Act. 
+(dd) “Qualified Plan” means a retirement plan qualified under the Code section 401(a), section 401(k), section 403(a), section 403(b), section 408(k), section 408(p), section 413(c), section 414(f), or a governmental plan qualified under section 457(b) of the Code. For purposes of this rule, a payroll deduction IRA program as defined in 29 CFR 2510.3-2(d) is not a Qualified Plan.  
+(ee) “Registration Date” means, for each Employer, the date by which the Employer is required to register with the Program or file a Certificate of Exemption, in accordance with OAR 170-080-0015.  
+(ff) “Roth IRA” means an individual retirement account as defined in Code section 408A.  
+(gg) “Standard Elections” means the default Program elections applicable to a Participating Employee who has not opted for different elections, as specified in OAR 170-080-0030.  
+(hh) “Target Date Fund” means a professionally-managed fund containing a mix of investments that invests based on the employee’s age and/or projected retirement date. 
+(ii) “Traditional IRA” means an individual retirement account as defined in Code section 408(a). 
+(jj) “Worker Leasing Company” (also known as a Professional Employer Organization or PEO) means a person who provides workers, by contract and for a fee, to work for a client and is licensed as a Worker Leasing Company by the Oregon Department of Consumer and Business Services. 
+  
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 178.200–178.245 
+ 
+ 
+ Statutes/Other Implemented:  ORS 178.200–178.245 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OST 1-2019, amend filed 04/04/2019, effective 04/09/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OST 5-2018, temporary amend filed 10/16/2018, effective 10/20/2018 through 04/10/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OST 3-2018, amend filed 10/11/2018, effective 10/19/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OST 6-2017, amend filed 10/24/2017, effective 10/24/2017 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OST 3-2017, f. & cert. ef. 4-19-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

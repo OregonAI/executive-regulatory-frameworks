@@ -1,0 +1,202 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Water Resources Department 
+ Chapter 690 
+ 
+ 
+ 
+ 
+ 
+ Division 20 DAM SAFETY 
+ 690-020-0120 
+ Dam Breach Inundation Analysis 
+ 
+ (1) A Dam breach inundation analysis will be conducted as specified in this section to determine or revise the Hazard Rating of a Dam. 
+
+ (2) Any simplified and conservative hydraulic model may be used for the Dam breach inundation analysis to show that a Dam should be rated Low Hazard. The State Engineer may determine if the model was used appropriately and conservatively. 
+
+ (3) An accepted and hydraulically consistent computational model must be used to conduct the inundation analysis for Significant and High Hazard Dams. 
+
+ (4) A report summarizing the model information and results must be stamped by the Engineer. The summary report shall contain sufficient information to reproduce the model and shall include at a minimum the following information: 
+
+ (a) The specific proprietary model name or method used for the analysis; 
+
+ (b) Details regarding the model geometry; 
+
+ (c) The specific mode of failure and any assumptions made in the selection of the mode of failure; 
+
+ (d) A list of Dam breach parameters and any assumptions made in the selection of the breach parameters. The breach parameters must be based on Dam material and thickness and any other factors that would influence the time it would take for the Dam to breach from internal erosion, overtopping, or displacement; 
+
+ (e) A list of all boundary and initial conditions and any assumptions in the selection of these conditions. For High and Significant Hazard Dams, the analysis must be conducted with reservoir at full pool and inflow equal to the 0.2% Annual Exceedance Probability Flood flow; 
+
+ (f) A map indicating the inundation boundary, areas inundated by a depth greater than two feet, and all frequently occupied structures that fall within or are immediately adjacent to the inundation boundary; 
+
+ (g) The breach flow as calculated by the model immediately downstream of the Dam. If an empirical formula was used as the basis for determining breach flow, the formula and all inputs must be clearly stated; and 
+
+ (h) A sensitivity analysis evaluating the variability in model inputs may be required when the Dam breach inundation analysis results indicate the Hazard Rating is on the border between two ratings. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 536.027, 540.488 
+ 
+ 
+ Statutes/Other Implemented:  ORS 540.443, 540.488 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WRD 3-2020, amend filed 06/29/2020, effective 07/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WRD 2-2015, f. & cert. ef. 3-17-15 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

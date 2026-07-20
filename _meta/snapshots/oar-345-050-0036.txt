@@ -1,0 +1,172 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Energy 
+ Energy Facility Siting Council - Chapter 345 
+ 
+ 
+ 
+ 
+ Division 50 RADIOACTIVE WASTE MATERIALS 
+ 345-050-0036 
+ Gamma Pathway Exemption Interpretive Rule 
+ 
+ (1) In determining compliance with OAR 345-050-0035 when considering external gamma radiation exposure, the Council or the Department of Energy must find that the disposal in Oregon of waste materials containing naturally-occurring radioactive materials (NORM) cannot result in doses to individuals greater than 500 millirem (mrem) per year. If doses could exceed this limit, the Council or the Department shall find that the waste material is radioactive and requires disposal in a licensed radioactive waste disposal site. To find the waste materials exempt, the Council or the Department must find that the waste materials meet air and water (including radon and leaching) pathway exemptions in OAR 345-050-0035. To determine compliance with the gamma pathway exemption in 345-050-0035, the following conditions apply:  (a) "Waste material" means the annual solid waste stream leaving a site for landfill disposal.  (b) Actual field gamma radiation exposures are measured. The exposure readings are compared with the levels given in section (2) of this rule. The levels given in section (2) correspond to a potential 500 mrem dose per year. They are based on the dose a person might receive being 90 percent of the time in a house built on a homogeneous, semi-infinite plane (slab) of NORM assuming the house has a two-inch wooden floor over a two-foot crawl space and assuming exposure is measured at three feet above the floor. Computer modeling was used to correlate the radiation levels measured in the house to radiation from NORM in two container geometries — a standard 55-gallon steel drum and a box measuring 1.5 x 1 x 2 feet (H x W x L).  (c) Readings are in microRoentgen per hour (uR/hr) using a detection system that is sensitive enough to determine compliance with the gamma radiation levels in section (2). Systems are calibrated according to National Institute of Standards and Technology (NIST) procedures with an NIST-traceable source, or equivalent calibration as judged by the Council Secretary. Measurements are made at a distance of one foot from the waste container. The contents of the container are proportional in composition to the average waste material. The highest reading measured around the container is used.  (2) The following readings correspond to a potential dose of 500 millirem per year for the respective container geometries. Long-lived radionuclides are assumed to be in secular equilibrium. If measurements as described in subsection (1)(c) of this rule produce readings below the following levels, the Council or the Department shall find the waste material is exempt based on the gamma pathway only:  (a) Standard 55-gallon steel drum: 18 uR/hr (above background) at one foot;  (b) Box (1.5H x 1W x 2L feet): 18 uR/hr (above background) at one foot.  (3) The Department may approve the use of exemption levels corresponding to container types other than those in section (2) to determine compliance if:  (a) The exemption levels for other container types are derived by the same computer model and assumptions used to calculate the exemption levels for the drum and the box in section (2);  (b) Measurements are made in compliance with subsections (1)(b) and (c);  (c) The contents of containers larger than a box or drum are uniformly mixed before readings are taken to determine compliance. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 469.470 
+ 
+ 
+ Statutes/Other Implemented:  ORS 469.525 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 1-2007, f. & cert. ef. 5-15-07 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+ EFSC 1-1999, f. & cert. ef. 3-5-99 
+EFSC 1-1999, f. & cert. ef. 3-5-99 
+EFSC 3-1993, f. & cert. ef. 3-22-93 
+EFSC 2-1993, f. & cert. ef. 3-19-93 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

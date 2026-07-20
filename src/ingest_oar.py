@@ -11,6 +11,8 @@ number than requested (the 125-800 -> 128-030 lesson), the document is filed und
 SERVED number and the mapping recorded in the catalog. Enumeration results are cached
 to _meta/catalog/oar.yml so --ingest runs from the approved list."""
 import argparse
+import fcntl
+import os
 import re
 import subprocess
 import sys
@@ -143,6 +145,25 @@ history are in the full text below.
 """
 
 
+def _write_catalog_merged(cat, my_chapters):
+    """Concurrent-safe catalog save for parallel --ingest workers: under an exclusive
+    lock, re-read the catalog from disk and replace ONLY this worker's chapters with
+    our in-memory state, then write atomically. Workers own disjoint chapter sets, so
+    merge-by-chapter is conflict-free — this exists because whole-file checkpoint
+    writes from parallel workers would silently revert each other's progress (the
+    lesson from the EO OCR concurrency incident)."""
+    lock_path = REPO_ROOT / "_meta/.cache/oar-catalog.lock"
+    lock_path.parent.mkdir(exist_ok=True)
+    mine = {c["chapter"]: c for c in cat["chapters"] if c["chapter"] in my_chapters}
+    with open(lock_path, "w") as lk:
+        fcntl.flock(lk, fcntl.LOCK_EX)
+        disk = yaml.safe_load(CATALOG.read_text())
+        disk["chapters"] = [mine.get(c["chapter"], c) for c in disk["chapters"]]
+        tmp = CATALOG.parent / ".oar.yml.tmp"
+        tmp.write_text(yaml.safe_dump(disk, sort_keys=False, allow_unicode=True, width=100))
+        os.replace(tmp, CATALOG)
+
+
 def cmd_ingest(chapters, skip_group=False):
     # skip_group: mass-import mode — do NOT append per-rule entries to the oar
     # update group. At thousands of rules, per-rule content-hash rechecking is
@@ -220,7 +241,18 @@ def cmd_ingest(chapters, skip_group=False):
                 body = doc_body(target, title_line, url, sha, s_ch, s_div)
                 body = body.replace("{FT}", flow_to_lines(sl))
                 out.write_text(body)
-                enrich_apply(out, enrich_derive(flow_to_lines(sl), doc_id, registry_by_ch))
+                try:
+                    enrich_apply(out, enrich_derive(flow_to_lines(sl), doc_id, registry_by_ch))
+                except SystemExit as e:
+                    # e.g. OARD renumbered the rule into a chapter the registry doesn't
+                    # know (mirror index gap). Quarantine: withdraw the doc, record why,
+                    # keep the worker alive — resolved by a later registry fix + re-run.
+                    out.unlink(missing_ok=True)
+                    print(f"NEEDS REGISTRY {num} -> {target}: {e}")
+                    r["status"] = "needs_registry"
+                    r["note"] = str(e)[:160]
+                    failed += 1
+                    continue
                 if served == num:
                     r["status"] = "ingested"
                 r["path"] = str(out.relative_to(REPO_ROOT))
@@ -230,12 +262,11 @@ def cmd_ingest(chapters, skip_group=False):
                 made += 1
                 if made % 100 == 0:
                     print(f"...{made} ingested")
-                    CATALOG.write_text(yaml.safe_dump(cat, sort_keys=False,
-                                                      allow_unicode=True, width=100))
+                    _write_catalog_merged(cat, set(chapters))
     if not skip_group:
         group["sources"] = sorted(gsrc.values(), key=lambda s: s["id"])
         GROUP.write_text(yaml.safe_dump(group, sort_keys=False, allow_unicode=True, width=110))
-    CATALOG.write_text(yaml.safe_dump(cat, sort_keys=False, allow_unicode=True, width=100))
+    _write_catalog_merged(cat, set(chapters))
     print(f"made {made}, renumbered {renumbered}, skipped {skipped}, failed {failed}")
 
 

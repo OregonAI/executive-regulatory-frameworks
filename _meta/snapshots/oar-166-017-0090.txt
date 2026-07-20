@@ -1,0 +1,161 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Secretary of State 
+ Archives Division - Chapter 166 
+ 
+ 
+ 
+ 
+ Division 17 ELECTRONIC RECORDS 
+ 166-017-0090 
+ Records Destruction Requirements for Electronic Records 
+ 
+ Agency electronic records may be destroyed only in accordance with the provisions of a records retention schedule approved by the State Archivist. Each agency must ensure:  (1) Electronic records which are confidential by law and negotiable instruments (even when cancelled or satisfied in writing) and records that contain sensitive, proprietary, or security information must be destroyed so that the image and confidential metadata are irreversibly non-retrievable, either through electronic or physical destruction as specified below:  (a) Electronic records stored on magnetic media must be degaussed or "bulk erased" and then irreversibly reformatted to ensure the data/information cannot be retrieved.  (b) Electronic records held on optical media may be destroyed by cutting, crushing, shredding, or other physical means of destruction. Rewritable optical disks must be irreversibly reformatted before being disposed of or re-used.  (c) Electronic records stored on hard drives or flash drives of personal computers and servers must be irreversibly reformatted before computers are disposed of. If the agency is unable to determine whether a hard drive or flash drive has been irreversibly reformatted, it must be physically destroyed.  (d) For additional guidance on data sanitation and destruction, refer to NIST SP 800-88, Guidelines for Media Sanitization and DoD 5220.22-M.  (2) Expungement of digital images stored on WORM optical media must conform to the Expungement of Information Recorded on Optical Write-Once-Read-Many (WORM) Systems (TR28-1991) which is incorporated by reference and is available from Association of Information and Image Management, 1100 Wayne Avenue, Suite 1100, Silver Spring, MD 20910 or the State Archives. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 192.050, 192.060 & 192.105 
+ 
+ 
+ Statutes/Other Implemented:  357.825(2), 357.855 & 357.895 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSA 1-2016, f. & cert. ef. 5-5-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

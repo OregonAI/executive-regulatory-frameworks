@@ -1,0 +1,289 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 272 THIRD PARTY VERIFICATION 
+ 340-272-0110 
+ Requirements for Validation of Fuel Pathway Applications Submitted under OAR Chapter 340, Division 253 and Verification of Annual Fuel Pathway Reports and CFP Quarterly Reports submitted under OAR Chapter 340, Division 253 
+ 
+ (1) Validation of CFP fuel pathway (carbon intensity or CI) applications.   Fuel pathway applicants supplying site-specific CI data for the fuel pathway application are required to: 
+
+ (a) Engage the services of a verification body to perform validation for each fuel pathway application submitted under OAR chapter 340, division 253; or 
+
+ (b) Submit to DEQ documentation generated during validation of the fuel pathway for the California ARB Low Carbon Fuel Standard program and a recertification fuel pathway application to DEQ, including the verification statement and report.  If a verification statement has been completed for the fuel pathway under California ARB’s Low Carbon Fuel Standard more recently than the latest validation statement, then the verification statement must also be submitted at the same time that the fuel pathway application and validation statement are submitted to DEQ. 
+
+ (2)(a) Fuel pathway applicants submitting fuel pathway applications to DEQ that have been validated according to the requirements of this division must submit the validation statement and report to DEQ at the same time that the application is submitted. 
+
+ (b) A fuel pathway application submitted to DEQ that includes an adverse validation statement will not be considered by DEQ. 
+
+ (c) Fuel pathway applications submitted to DEQ that include an adverse validation statement issued under California ARB’s Low Carbon Fuel Standard will not be considered by DEQ. 
+
+ (3) Annual verification of CFP annual fuel pathway (carbon intensity or CI) reports. 
+
+ (a) Applicability. The following persons must meet the requirements of this division and engage the services of a verification body for the purposes of annual verification under this division, including required site visit(s), for each annual fuel pathway report submitted under OAR chapter 340, division 253, except as otherwise provided under subsection (b): 
+
+ (A) Holders of certified fuel pathways that supplied site-specific CI data for pathway certification and are required to update site-specific CI data on an annual basis; and 
+
+ (B) Specified source feedstock suppliers and other persons with site-specific CI data that apply for separate DEQ recognition as a joint applicant under OAR chapter 340, division 253 and elect to be responsible for separate verification. 
+
+ (b) Exemptions. Holders of approved fuel pathways that do not generate at least 6,000 total credits and deficits during the previous calendar year for the quantity of fuel produced at a given production facility and reported in the CFP are not subject to the requirements of this division for that year. 
+
+ (c) Verification schedule. Responsible entities that are subject to the subsection (a) requirement to engage the services of a verification body to perform verification of annual fuel pathway reports (CI) must ensure a fuel pathway verification statement for each fuel pathway report is submitted to DEQ according to OAR 340-272-0100. 
+
+ (A) Quarterly review of operational CI data is optional and may only be included as part of annual verification services if the fuel pathway holder submits quarterly data to DEQ. Quarterly review may only be conducted after the fuel pathway holder submits the report and attests that the statements and information submitted are true, accurate, and complete. Quarterly review does not replace the requirements for the verification team to consider all quarterly data submitted during annual verification. Quarterly review must meet the requirements for verification under this division, but a verification statement and verification report are not submitted after quarterly review. 
+
+ (B) Facilities with California pathways recertified in Oregon. A responsible entity that must meet the requirements of this division for the purposes of annual verification for any fuel production facility that is also subject to annual or deferred verification under California ARB’s Low Carbon Fuel Standard must submit its verification statement to DEQ within ten calendar days of its comparable submittal to California ARB. If the responsible entity received an adverse verification statement, it must also submit the log of issues at the same time it submits the verification statement to DEQ. 
+
+ (i) For responsible entities that operate facilities with one or more Oregon fuel pathway codes that are a recertification of California fuel pathway codes, the verification statement submitted to California ARB must be submitted to DEQ according to the verification deadline specified under OAR 340-272-0100. 
+
+ (ii) For responsible entities that operate facilities with one or more fuel pathway codes that are not a recertification of California fuel pathway codes, but have active California fuel pathway codes, the fuel pathway holder must ensure the following: 
+
+ (I) That when verification services are provided, the inputs and annual operational carbon intensity are confirmed under OR-GREET as required under OAR 340-272-0450; and 
+
+ (II) That a fuel pathway verification statement for each annual fuel pathway report is submitted to DEQ according to OAR 340-272-0100. 
+
+ (C) If a fuel pathway holder is eligible for deferred verification under the California program, the fuel pathway holder must notify DEQ before April 30 of each year. If fuel from the facility generates 6,000 or more total credits and deficits in Oregon, then the fuel pathway holder must engage the services of a verification body to perform verification and ensure a fuel pathway verification statement for each annual fuel pathway report is submitted to DEQ according to OAR 340-272-0100. 
+
+ (4) Annual verification of CFP quarterly reports. 
+
+ (a) Applicability. The following persons must meet the requirements of this division and engage the services of a verification body for the purposes of annual verification under this division, including required site visit(s), for CFP quarterly reports submitted under OAR chapter 340, division 253, except as otherwise provided under subsection (b): 
+
+ (A) For regulated parties, credit generators, and aggregators subject to OAR 340-253-0100, the scope of verification services is limited to the transaction types under paragraph (B), including associated corrections submitted into CFP quarterly and annual reports. Third party verification applicability for such persons is based on the annual report as of the annual reporting deadline, regardless of whether submitted corrections lower credits and deficits generated below the applicable thresholds. 
+
+ (B) Except as provided in subsection (b), reporters of volumes for any of the following transaction types must engage the services of a verification body to perform verification for the following transaction types: 
+
+ (i) All liquid fuels, including: 
+
+ (I) Production in Oregon; 
+
+ (II) Out of State Production for Import; 
+
+ (III) All Import transactions; 
+
+ (IV) Exports, other than Position Holder Sales for Export or export transactions reported on behalf of an unregistered exporter; 
+
+ (V) Gain of inventory; 
+
+ (VI) Loss of inventory; 
+
+ (VII) Not used for transportation; and 
+
+ (VIII) Transactions used to claim exempt uses under OAR 340-253-0250; 
+
+ (ii) NGV fueling; 
+
+ (iii) Propane fueling, and 
+
+ (iv) Starting in 2026 for the 2025 data year, EV charging, except when related to residential charging. 
+
+ (b) Exemptions. The following are not subject to the requirements of this division: 
+
+ (A) Persons that do not generate 6,000 or more total credits and deficits (not counting residential charging credits), in the aggregate, during the previous calendar year. For the purposes of this rule, any credits or deficits generated by persons that are related entities or share full or partial common ownership or operational control must be aggregated together to determine whether or not the exemption applies; 
+
+ (B) Persons, including their related entities, reporting fuel transactions only in one or more of the transaction types: Export, Position Holder Sale for Export, Gain of inventory, Loss of inventory, and Not used for transportation, if all of the following conditions are met: 
+
+ (i) All such transactions do not generate 6,000 or more total credits and deficits, in the aggregate, during the previous calendar year; 
+
+ (ii) The person did not report any liquid fuel using the transaction types: Production in Oregon or Import into Oregon; and 
+
+ (iii) The person did not report any NGV fueling transactions. 
+
+ (c) Verification schedule. Responsible entities under subsection (a) required to engage the services of a verification body to perform annual verification of CFP quarterly reports must ensure a transactions data verification statement is submitted to DEQ according to OAR 340-272-0100. 
+
+ (d) Optional quarterly review. Quarterly review of a CFP quarterly report is optional and does not replace the requirements for the verification team to consider all quarterly data submitted during annual verification. Quarterly review must meet the requirements of this division, but a verification statement and verification report are not submitted after quarterly review. 
+
+ (5) Annual verification of CFP annual project reports. 
+
+ (a) Applicability. The following persons must meet the requirements of this division and engage the services of a verification body for the purposes of annual verification, including required site visit(s), for CFP project reports required to be submitted as a condition of a fuel pathway’s continued approval under OAR 340-253-0450(9)(e)(E): 
+
+ (A) Project operators; and 
+
+ (B) Joint applicants. 
+
+ (b) Verification schedule. Responsible entities under subsection (a) required to engage the services of a verification body to perform verification of CFP project reports must ensure a project report verification statement is submitted annually to DEQ according to with OAR 340-272-0100. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, 468A.266, 468A.271 & 468A.277 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468A.010, 468A.015 & 468A.265 - 468A.277 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 2-2025, amend filed 01/09/2025, effective 01/09/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 17-2023, amend filed 11/16/2023, effective 11/16/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 14-2020, adopt filed 05/07/2020, effective 05/07/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

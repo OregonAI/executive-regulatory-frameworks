@@ -1,0 +1,280 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 41 WATER QUALITY STANDARDS: BENEFICIAL USES, POLICIES, AND CRITERIA FOR OREGON 
+ 340-041-0059 
+ Variances
+ 
+ 
+ (1) Applicability. Subject to the requirements and limitations set out in sections (2) through (7) below, DEQ or the EQC may grant a water quality standards variance where the discharger or DEQ demonstrates that it is not feasible to attain the designated use and criterion during the term of the variance because of one of the factors listed in subsection (2)(a) of this rule. The director may grant an individual discharger variance and the commission may grant a multiple discharger variance or a water body variance. All water quality standards variances are subject to EPA approval. The variance may be used only for the purpose of establishing NPDES permit limits and requirements under CWA Section 301(b)(1)(C) or for issuing certifications under CWA Section 401. The underlying designated use and criterion otherwise remains in effect. 
+
+ (2) Conditions to Grant a Variance. Before the EQC or DEQ may grant a variance, it must determine that: 
+
+ (a) Attaining the designated use and criterion during the term of the variance is not feasible for one or more of the following reasons: 
+
+ (A) Naturally occurring pollutant concentrations prevent attaining the use; 
+
+ (B) Natural, ephemeral, intermittent, or low flow conditions, or water levels prevent attaining the use, unless these conditions may be compensated for by discharging sufficient volume of effluent discharges to enable uses to be met without violating state water conservation requirements; 
+
+ (C) Human-caused conditions or sources of pollution prevent attaining the use and cannot be remedied or would cause more environmental damage to correct than to leave in place; 
+
+ (D) Dams, diversions, or other types of hydrologic modifications preclude attaining the use, and it is not feasible to restore the waterbody to its original condition or to operate such modification in a way which would result in the attainment of the use; 
+
+ (E) Physical conditions related to the natural features of the waterbody, such as the lack of a proper substrate, cover, flow, depth, pools, riffles, and the like, unrelated to water quality preclude attaining aquatic life protection uses; 
+
+ (F) Controls more stringent than those required by sections 301(b) and 306 of the federal Clean Water Act would result in substantial and widespread economic and social impact; or 
+
+ (G) Actions necessary to facilitate lake, wetland, or stream restoration through dam removal or other significant reconfiguration activities preclude attainment of the designated use and criterion while the actions are being implemented; 
+
+ (b) The effluent limit sufficient to meet the underlying designated use and criterion cannot be attained by implementing technology-based effluent limits required under sections 301(b) and 306 of the federal Clean Water Act. 
+
+ (c) The requirements that apply throughout the term of the water quality standards variance will not result in lowering the currently attained ambient water quality, unless the variance is needed for restoration activities as specified in paragraph(2)(a)(G) of this rule. 
+
+ (3) Variance Duration and Re-evaluation. 
+
+ (a) The duration of a variance must only be as long as necessary to achieve the highest attainable condition as described in section (5) of this rule. 
+
+ (b) The DEQ order or EQC rule will specify the duration of the variance. 
+
+ (c) If the duration of the variance is less than the term of the NPDES permit, the permittee must comply with the specified effluent limitation sufficient to meet the underlying water quality standard when the variance expires. The permit will include the date the variance and corresponding interim effluent limit will expire. 
+
+ (d) If the term of the variance exceeds five years, DEQ will re-evaluate the highest attainable condition using all existing and readily available information at least every five years. DEQ will specify the re-evaluation frequency in the variance. Following public input, DEQ will submit its re-evaluation to EPA within 30 days of completion. If DEQ does not submit the re-evaluation to EPA within the specified timeline, the variance will no longer be the applicable water quality standard until DEQ completes the re-evaluation and submits it to EPA. 
+
+ (4) Variance Submittal Requirements. 
+
+ (a) To request an individual variance, a permittee must submit the following information to DEQ: 
+
+ (A) The specific pollutant, discharger, and receiving waterbody to which the variance will apply; 
+
+ (B) A demonstration that attaining the designated use and criterion for the specific pollutant is not feasible for the requested duration of the variance based on one of the factors found in subsection (2)(a) of this rule; 
+
+ (C) A description of treatment or alternative options the permittee considered to meet permit limits based on the applicable underlying water quality criterion, and a description of why these options are not technologically, economically, or otherwise feasible; 
+
+ (D) Sufficient water quality data and analyses to characterize ambient and discharge water pollutant concentrations and determine the Highest Attainable Condition, as required in section (5) of this rule; 
+
+ (E) If the highest attainable condition for the variance is consistent with paragraph (5)(a)(C) of this rule, a proposed pollutant minimization plan covering the term of the variance that includes actions the permittee(s) will take that will result in progress toward meeting the underlying water quality standard; and 
+
+ (F) If the discharger is a publicly owned treatment works, a demonstration of the jurisdiction’s legal authority, such as a sewer use ordinance, to regulate the pollutant for which the variance is sought. The jurisdiction’s legal authority must be sufficient to control potential sources of that pollutant that discharge into the jurisdiction’s sewer collection system. 
+
+ (b) To be eligible for any multiple discharger variance or waterbody variance, a permittee must submit all the information required in the specific multiple discharger or waterbody variance rule. 
+
+ (5) Highest Attainable Condition. The highest attainable condition is a quantifiable expression of one of the following: 
+
+ (a) For individual or multiple discharger WQS variances: 
+
+ (A) The highest attainable interim criterion; or 
+
+ (B) The interim effluent condition that reflects the greatest pollutant reduction achievable; or 
+
+ (C) If no additional feasible pollutant control technology can be identified, the interim criterion or interim effluent condition that reflects the greatest pollutant reduction achievable with the pollutant control technologies installed at the time the State grants the WQS variance, and adoption and implementation of a pollutant minimization plan. 
+
+ (b) For WQS variances applicable to a waterbody or waterbody segment: 
+
+ (A) The highest attainable interim use and interim criterion; or 
+
+ (B) If no additional feasible pollutant control technology can be identified, the interim use and interim criterion that reflects the greatest pollutant reduction achievable with the pollutant control technologies installed at the time the State adopts the WQS variance, and the adoption and implementation of a pollutant minimization plan. 
+
+ (c) For any WQS variance that applies to a waterbody or waterbody segment, supporting documentation will identify and document any cost-effective and reasonable best management practices for nonpoint source controls related to the pollutant(s) or water quality parameter(s) and waterbody or waterbody segment(s) specified in the WQS variance that could be implemented to make progress towards attaining the underlying designated use and criterion. DEQ will provide public notice and comment for any such documentation. 
+
+ (d) In any subsequent WQS variance for a waterbody or waterbody segment, DEQ will document whether and to what extent best management practices for nonpoint source controls were implemented to address the pollutant(s) or water quality parameter(s) subject to the WQS variance and the water quality progress achieved. 
+
+ (6) Variance Permit Conditions. DEQ must establish and incorporate into the discharger’s NPDES permit all conditions necessary to implement an approved variance in lieu of the underlying water quality standard, so long as the variance remains effective. The permit must include, at a minimum, the following requirements: 
+
+ (a) A permit limit or requirement deriving from the highest attainable effluent condition or highest attainable use and criterion specified in the variance, including any updated highest attainable effluent condition based on a five year re-evaluation; 
+
+ (b) For variances expressing the highest attainable condition per section 5(a)(C) or 5(b)(B) of this rule, a requirement to implement the Pollutant Minimization Program included in the applicable variance ; 
+
+ (c) Any studies, effluent monitoring, or other monitoring necessary to ensure compliance with the conditions of the variance; and 
+
+ (d) An annual progress report to DEQ describing the results of any required studies or monitoring during the reporting year, and identifying the pollutant reduction activities completed and any impediments to reaching any specific milestones stated in the variance. 
+
+ (7) Public Input and Notification Requirements. 
+
+ (a) If DEQ proposes to grant a variance, it must provide public notice of the proposed variance and accept public comment. The public notice may be coordinated with the public notification of a draft NPDES permit or draft 401 certification that would rely on the variance; 
+
+ (b) If DEQ is required to re-evaluate the highest attainable condition consistent with (3)(d) of this rule, DEQ will obtain public input on the re-evaluation prior to submitting the re-evaluation to EPA. The specific method of obtaining public input will be documented in the variance. 
+
+ (c) DEQ will publish a list of all variances approved under this rule on its website. DEQ will add newly approved variances to this list within 30 days of their effective date. The list will identify: 
+
+ (A) The effective date and duration of the variance; 
+
+ (B) The facility or facilities; 
+
+ (C) The pollutant(s) or water quality parameter(s); 
+
+ (D) The waters to which the variance applies; 
+
+ (E) The underlying designated use and criterion for the waterbody; 
+
+ (F) The highest attainable condition specified in the variance; 
+
+ (G) How to obtain additional information about the variance. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, 468B.010, 468B.020, 468B.035 & 468B.110 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468B.048 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 3-2020, amend filed 01/24/2020, effective 01/24/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 10-2011, f. & cert. ef. 7-13-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

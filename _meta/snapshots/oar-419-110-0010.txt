@@ -1,0 +1,387 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Office of Training, Investigations and Safety 
+ Chapter 419 
+ 
+ 
+ 
+ 
+ 
+ Division 110 ADULT ABUSE INVESTIGATIONS IN MENTAL HEALTH SERVICES 
+ 419-110-0010 
+ Definitions
+ 
+ 
+ In addition to the definitions in ORS 430.735, the following terms are defined as used in OAR chapter 419, division 110. 
+
+ (1) “Abuse” means as defined in ORS 430.735. 
+
+ (2) “Abuse Investigation and Protective Services Report” means a written report completed under these rules (OAR chapter 419, division 110). 
+
+ (3) “Accused Person” or “Accused Provider” (AP formerly known as “Alleged Perpetrator”) means a person, caregiver, facility or service provider who is the respondent in an abuse investigation under these rules, alleged or determined to have committed abuse of an adult. 
+
+ (4)  “Administrative closure” means an assigned abuse allegation that is approved to be closed without further investigation due to being opened in error. 
+
+ (5) “Adult” as defined in ORS 430.735 and used in OAR chapter 419, division 110 means an individual who is 18 years of age or older: 
+
+ (a) With a severe and persistent mental illness and is receiving mental health treatment from a community program; or 
+
+ (b) Who is receiving services for a mental illness in a facility; and 
+
+ (c) Is the reported or alleged victim of abuse. 
+
+ (6) “Adult protective services” as defined in ORS 430.735 means the necessary actions taken to prevent abuse or exploitation of an adult, to prevent self-destructive acts, and to safeguard the adult’s person, property, or funds, including petitioning for a protective order as defined in ORS 125.005. Any actions taken to protect an adult shall be undertaken in a manner that is least intrusive to the adult and provides for the greatest degree of independence. 
+
+ (7) “Authority” means the Oregon Health Authority (OHA). 
+
+ (8) “Caregiver” as defined in ORS 430.735 means an individual, whether paid or unpaid, or a facility that has assumed responsibility for all or a portion of the care of an adult as a result of a contract or agreement. 
+
+ (9) “Closed without abuse determination” means after diligent efforts have been made, the investigator is unable to locate the AP, the alleged victim or another individual who might have information critical to the outcome of the investigation; or relevant records or documents are unavailable, so that the investigation cannot be completed. 
+
+ (10) “Community program” as defined in ORS 430.735 includes: 
+
+ (a) A community mental health program (CMHP) or a community developmental disabilities program (CDDP) as established in ORS 430.610 to 430.695. 
+
+ (b) A provider that is paid directly or indirectly by the Oregon Health Authority to provide mental health treatment in the community. 
+
+ (11) “Designee” means the community mental health or developmental disabilities program. A community mental health program is considered a designee of the Department for the purposes of these rules and ORS 430.731 to 430.765. 
+
+ (12) “Department” means the Oregon Department of Human Services (ODHS). 
+
+ (13) “Exception for religious practice” as described in ORS 430.765 means an adult who in good faith is voluntarily under treatment solely by spiritual means through prayer in accordance with the tenets and practices of a recognized church or religious denomination by a duly accredited practitioner shall for this reason alone not be considered subjected to abuse under ORS 430.735 to 430.765. 
+
+ (14) “Facility” as defined in ORS 430.735 means a residential treatment home or facility, residential care facility, adult foster home, residential training home or facility or crisis respite facility. 
+
+ (15) “Good cause” for an extension means: 
+
+ (a) When law enforcement is conducting an investigation or in process of prosecution; 
+
+ (b) A material party or witness is temporarily unavailable; or 
+
+ (c) New evidence is discovered that leads to additional alleged abuses being investigated (allegations). 
+
+ (16) “Intimidation” as defined in ORS 430.735 means compelling or deterring conduct by threat. 
+
+ (17) “Investigator” means an OTIS employee or community mental health program designee who is authorized and receives OTIS approved training to screen complaints of abuse, assess protective services and investigate alleged abuse (allegations) under these rules. 
+
+ (18) “Law enforcement agency” (LEA) as defined in ORS 430.735 means: 
+
+ (a) Any city or municipal police department; 
+
+ (b) A police department established by a university under ORS 352.121 or 353.125; 
+
+ (c) Any county sheriff’s office; 
+
+ (d) The Oregon State Police; or 
+
+ (e) Any district attorney 
+
+ (19) “Not substantiated” means there is less than a preponderance of evidence to show that abuse occurred. 
+
+ (20) “Office of Training, Investigations and Safety" (OTIS) means the unit within the Oregon Department of Human Services Shared Services . 
+
+ (21) “Provider” means a person or entity: 
+
+ (a) Licensed by the Department or Authority to provide residential services for mental illness in a facility; or 
+
+ (b) Certified by or contracted with the Authority to provide mental health treatment services. 
+
+ (22) “Redacted” means information deemed confidential under state or federal laws that are excluded from public record release. 
+
+ (23) “Self-defense” as defined on ORS 430.768 and used in OAR 419-110-0080, means the use of physical force upon another person in self-defense or to defend a third person. 
+
+ (24) “Services” as defined in ORS 430.735 includes but is not limited to the provision of food, clothing, medicine, housing, medical services, assistance with bathing or personal hygiene, or any other services essential to the well-being of the adult. 
+
+ (25) “Severe and persistent mental illness” or “SPMI” (also known as serious and persistent mental illness) means the current Diagnostic Statistical Manual of Mental Disorders diagnostic criteria for: 
+
+ (a) At least one of the following conditions as a primary diagnosis for an adult age 18 or older: 
+
+ (A) Schizophrenia and other psychotic disorders; 
+
+ (B) Major depressive disorder; 
+
+ (C) Bipolar disorder; 
+
+ (D) Obsessive Compulsive Disorder (OCD);  
+
+ (E) Post Traumatic Stress Disorder (PTSD); 
+
+ (F) Schizotypal personality disorder; or 
+
+ (G) Borderline personality disorder. 
+
+ (b) For purpose of mandatory abuse reporting of an adult with SPMI and ORS 430.765, the adult with SPMI shall also have a serious functional impairment that currently substantially interferes with or limits their ability to protect themselves from abuse as documented by their health record or other credible evidence.  These additional requirements do not apply to other chapters of the Oregon Administrative Rules that address persons with SPMI in Chapters 410 and 309. 
+
+ (26) "State Hospital" as described in ORS 426.010 means the Oregon State Hospital campuses in Salem and in Junction City for persons with mental illness for care and treatment. 
+
+ (27) “Substantiated” means that the preponderance of evidence establishes the abuse occurred. 
+
+ (28) “Unbiased investigation” means an investigation that is conducted by an investigator that does not have an actual or potential conflict of interest with the outcome. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 409.010, 409.050, 413.085 & ORS 430.731 
+ 
+ 
+ Statutes/Other Implemented:  ORS 430.731, ORS 409.027, 443.875, 430.610 - 430.695, 430.735 - 430.765, 430.768, 443.400 - 443.465, 443.705 – 443.825 & 413.036 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OTIS 5-2026, amend filed 07/08/2026, effective 07/08/2026 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OTIS 94-2023, minor correction filed 12/01/2023, effective 12/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHS 7-2023, renumbered from 407-045-0130, filed 12/01/2023, effective 12/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHS 11-2022, minor correction filed 04/29/2022, effective 04/29/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 8-2019, amend filed 06/28/2019, effective 07/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 1-2019, temporary amend filed 02/12/2019, effective 02/12/2019 through 08/10/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 23-2018, temporary amend filed 08/09/2018, effective 08/15/2018 through 02/10/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 2-2018, adopt filed 02/27/2018, effective 02/27/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DHSD 9-2017(Temp), f. & cert. ef. 9-1-17 thru 2-27-18 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

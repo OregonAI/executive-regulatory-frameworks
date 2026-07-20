@@ -1,0 +1,770 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 45 REGULATIONS PERTAINING TO NPDES AND WPCF PERMITS 
+ 340-045-0075 
+ Permit Fee Schedule
+ 
+ 
+ (1) OAR chapter 340, division 71 contains the fee schedule for onsite sewage disposal system permits, including WPCF permits, and graywater reuse and disposal system WPCF individual permits. 
+
+ (2) DEQ establishes fees for various industrial, domestic and general water quality permits: 
+
+ (a) Table 70A lists the application and modification fees that apply to industrial NPDES and WPCF individual permits. 
+
+ (b) Table 70B lists the annual fees that apply to industrial NPDES and WPCF individual permits. 
+
+ (c) Table 70C lists application, modification and annual fees for domestic NPDES and WPCF individual permits. 
+
+ (d) Table 70D lists annual population fees. 
+
+ (e) Table 70E lists annual pretreatment fees applicable to domestic wastewater systems. 
+
+ (f) Table 70I lists application, annual and surcharge fees for Underground Injection Control rule authorizations and general permits. 
+
+ (3) DEQ must consider the following criteria when classifying a facility for determining applicable fees. For industrial sources that discharge to surface waters, discharge flow rate refers to the system design capacity. For industrial sources that do not discharge to surface waters, discharge flow refers to the total annual flow divided by 365: 
+
+ (a) Tier 1 industry. A facility is classified as a Tier 1 industry if the facility: 
+
+ (A) Discharges at a flow rate that is greater than or equal to 1 mgd; or 
+
+ (B) Discharges large biochemical oxygen demand loads; or 
+
+ (C) Is a large metals facility; or 
+
+ (D) Has significant toxic discharges; or 
+
+ (E) Has a treatment system that will have a significant adverse impact on the receiving stream if not operated properly; or 
+
+ (F) Needs special regulatory control, as DEQ determines. 
+
+ (b) Tier 1 domestic facility. A facility is classified as a Tier 1 domestic facility if the facility: 
+
+ (A) Has a dry weather design flow of 1 mgd or greater; or 
+
+ (B) Serves an industry that can have a significant impact on the treatment system. 
+
+ (c) Tier 2 industry or domestic facility: A facility is classified as Tier 2 if it does not meet Tier 1 qualifying factors. 
+
+ (4) New permit application fee. Unless this rule does not require it, the applicant must submit the applicable new permit application fee listed in Table 70A, 70C, 70G, or 70I with each application. The facility category and type of permit (e.g., individual vs. general) determines the amount of the fee. 
+
+ (5) Permit modification fee. Tables 70A and 70C list the permit modification fees. Modification fees for Individual WPCF Underground Injection Control permits are contained in Table 70I. Permit modification fees vary with the type of permit, the type of modification and the timing of modification as follows: 
+
+ (a) Modification at time of permit renewal: 
+
+ (A) Major modification — involves an increase in effluent limitations or any other change that involves significant analysis by DEQ; 
+
+ (B) Minor modification — does not involve significant analysis by DEQ. 
+
+ (b) Modification prior to permit renewal: 
+
+ (A) Major modification — involves an increase in effluent limitations or any other change that involves significant analysis by DEQ. DEQ may require a permittee requesting a significant modification to their permit to enter into an agreement to pay for these services according to ORS 468.073. ORS 468.073 allows DEQ ". . . to expedite or enhance a regulatory process by contracting for services, hiring additional staff or covering costs of activities not otherwise provided during the ordinary course of department business . . . ." 
+
+ (B) Minor modification — does not involve significant analysis by DEQ. 
+
+ (6) Annual fees. Tables 70B and 70G list applicable annual fees for general and industrial permit holders. Table 70H lists applicable annual fees for Municipal Separate Storm Sewer permits. Tables 70C, 70D, and 70E also list annual fees for domestic sources and include the following: 
+
+ (a) Annual fee. This is based on the type of treatment system, the dry weather design flow, and the duration assigned to the permit before a renewal application is required; 
+
+ (b) Population-based fee. A permit holder with treatment systems other than Type F (septage alkaline stabilization facilities) must pay an annual population-based fee. Table 70D lists the applicable fee; 
+
+ (c) Pretreatment fee. A source DEQ requires to administer a pretreatment program under federal pretreatment program regulations (40 C.F.R., Part 403; January 29, 1981, and its amendments) must pay an additional annual fee plus a fee for each significant industrial user specified in their annual report for the previous year. Table 70E lists the applicable fee. 
+
+ (7) Technical activities fee. Table 70F lists the technical activity, plan review and administrative fees. They are categorized as follows: 
+
+ (a) All permits. A permittee must pay a fee for NPDES and WPCF individual and general permit-related technical activities. DEQ will charge a fee for initial submittal of engineering plans and specifications. DEQ will not charge fees for revisions and re-submittals of engineering plans and specifications or for facilities plans, design studies, reports, change orders, or inspections. 
+
+ (b) General permits. A permittee must pay the technical activity fee shown in Table 70F when the following activities are required for application review: 
+
+ (A) Disposal system and environmental management plan review; 
+
+ (B) Site inspection and evaluation. 
+
+ (8) For permits the Oregon Department of Agriculture administers, the permit applicant or permit holder must pay the permit fees following the fee schedule the Oregon Department of Agriculture establishes. 
+
+ (9) Administrative activity fees are listed in Table 70F: 
+
+ (a) The annual electronic reporting requirement waiver fee applies to permit holders who qualify for a temporary or permanent waiver exempting them from submitting data and reports electronically. 
+
+ (b) A permittee must pay a fee for a transfer of ownership as specified under OAR 340-045-0045 and for requests to change the legal or common name on the permit issued to the facility. 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, 468B.020 & 468B.035 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468.065, 468B.015, 468B.035 & 468B.050 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 2-2026, amend filed 05/01/2026, effective 07/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 21-2025, amend filed 07/23/2025, effective 11/01/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 12-2024, amend filed 07/15/2024, effective 11/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 12-2023, amend filed 09/13/2023, effective 11/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 15-2022, amend filed 09/06/2022, effective 11/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 15-2021, amend filed 09/30/2021, effective 11/01/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 3-2021, amend filed 01/22/2021, effective 01/22/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 16-2020, amend filed 07/29/2020, effective 08/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 22-2019, amend filed 09/27/2019, effective 09/27/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 194-2018, minor correction filed 09/18/2018, effective 09/18/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 193-2018, amend filed 09/17/2018, effective 09/17/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 48-2018, minor correction filed 04/03/2018, effective 04/03/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 34-2017, minor correction filed 12/13/2017, effective 12/13/2017 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 16-2015, f. 12-10-15, cert. ef. 1-1-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 15-2017, amend filed 10/31/2017, effective 11/01/2017 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 13-2014, f. 11-14-14, cert. ef. 12-1-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 8-2013, f. 10-23-13, cert. ef. 11-1-13 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 6-2012, f. 10-31-12, cert. ef. 11-1-12 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 15-2011, f. & cert. ef. 9-12-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 9-2011, f. & cert. ef. 6-30-11 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 7-2010, f. 8-27-10, cert. ef. 9-1-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 8-2008, f. 6-27-08, cert. ef. 7-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 5-2007, f. & cert. ef. 7-3-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 11-2006, f. & cert. ef. 8-15-06 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 5-2005, f. & cert. ef. 7-1-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 7-2004, f. & cert. ef. 8-3-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 2-2002, f. & cert. ef. 2-12-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 15-2000, f. & cert. ef. 10-11-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 4-1998, f. & cert. ef. 3-30-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 20-1994, f. & cert. ef. 10-7-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 30-1992, f. & cert. ef. 12-18-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 10-1992, f. & cert. ef. 6-9-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 9-1992, f. & cert. ef. 6-5-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 10-1991, f. & cert. ef. 7-1-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 18-1990, f. & cert. ef. 6-7-90 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 9-1987, f. & ef. 6-3-87 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 12-1983, f. & ef. 6-2-83 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 18-1981, f. & ef. 7-13-81 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 31-1979, f. & ef. 10-1-79 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 129, f. & ef. 3-16-77 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 113, f. & ef. 5-10-76 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

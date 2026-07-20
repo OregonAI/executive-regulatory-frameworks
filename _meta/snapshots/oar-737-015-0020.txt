@@ -1,0 +1,335 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Transportation 
+ Transportation Safety Office - Chapter 737 
+ 
+ 
+ 
+ 
+ Division 15 TRAFFIC SAFETY EDUCATION 
+ 737-015-0020 
+ Definitions
+ 
+ 
+ As used in division 15 rules, unless the context otherwise requires: 
+
+ (1) “Adaptive Strategy” means a program element that may be altered to help support and promote driver education in underserved areas of the state. 
+
+ (2) “Approved Course” also “Approved Program” means a traffic safety education course or program conducted by an approved provider. 
+
+ (3) “Approved individual” means an individual that is an employee of an approved provider who has been authorized by the approved provider to enter information into DMV2U. 
+
+ (4) “Approved Instructor” also “Instructor” means a teacher who holds a valid approved instructor certification. An approved instructor has successfully completed required training and meets minimum requirements set forth in OAR 737-015-0070. 
+
+ (5) “Approved provider” also “provider” is a private school, public school, commercial driver training school or county that has been granted approval by ODOT-TSO to provide instruction using a Division-approved curriculum by instructors who have completed a Division-approved instructor course of study. A provider is responsible for all aspects of the program and is required to maintain required records, whether or not instruction is contracted. 
+
+ (6) “Behind-the-wheel” instruction means the portion of the approved course that requires the student to be located behind the steering wheel of a dual control equipped motor vehicle or a simulated vehicle, operating it either in real or simulated traffic situations, through the direct guidance of a driver education instructor. 
+
+ (a) Four hours of simulation is equal to one hour of behind the wheel instruction. 
+
+ (b) One hour of operating a motor vehicle is equal to one hour of behind the wheel instruction. 
+
+ (7) "Business day" means Monday through Friday, 8 a.m. to 5 p.m., excluding Oregon state and federal holidays. 
+
+ (8) “Cancellation” means to declare the approved provider or instructor status void and obtainable only as defined in OAR 737-015-0010 to 737-015-0130. 
+
+ (9) “Classroom instruction” means that portion of an approved course held in the presence of an approved instructor in a classroom situation and does not include time spent in home study, reading outside of class time or break time. Classroom make-up time is subject to the same provisions. 
+
+ (10) “Commercial Driver Training School” means a privately or publicly owned driver training facility in Oregon that has been issued a School Certificate by DMV to provide student drivers behind-the-wheel instruction, classroom instruction or both, for a fee. 
+
+ (11) “Completing the course” or “completed the course” means completing an ODOT-TSO approved course, with documentation showing 30 hours classroom instruction, 6 hours behind-the-wheel instruction, and 6 hours practice driving observation. 
+
+ (12) “Curriculum guide” means a document that describes what the students need to learn and provides a guide for instructors as they prepare for instruction. It is a document that assists traffic safety instructors and district coordinators in meeting the needs of the regulations identified in OAR 737-015-0030. 
+
+ (13) “Department” or “ODOT” means the Oregon Department of Transportation. 
+
+ (14) “Division” or “TSO” means the Transportation Safety Office of the Oregon Department of Transportation. A reference to the Division or TSO may include its designee. 
+
+ (15) “DMV” means the Driver and Motor Vehicle Services Division of the Oregon Department of Transportation. 
+
+ (16) “DMV2U” means DMV’s internet address at https://dmv2u.oregon.gov/eServices/_/ . 
+
+ (17) “Driver Improvement Violation” means: 
+
+ (a) One conviction for an offense listed in OAR 735-064-0220; or 
+
+ (b) A Preventable Accident as defined in OAR 735-072-0020(7). 
+
+ (18) “Driving simulator” means an electromechanical device designed to represent the driver’s compartment of the automobile and with the use of films or video programs attempts to develop judgment, decision-making skills, behavior response, and manipulative skills essential in learning the driving task. 
+
+ (19) “Electronic driver education completion notation” means the notation added to an eligible student’s DMV record to document the student has completed and either passed or failed an approved course. 
+
+ (20) “Eligible student” means a student that is at least 15 years of age, will complete an approved course before reaching 18 years of age, and has a valid Oregon instruction driver permit. 
+
+ (21) “Hours” means clock hours, not including breaks or other time that does not apply to actual instruction. 
+
+ (22) “Instructor Brake” or “Dual control” means the vehicle is equipped with a foot brake control for both the student driver and the instructor connected either by mechanical or hydraulic means, installed as specified by the manufacturer. 
+
+ (23) “Lesson plan” means a written outline of the content and method of instruction. Required elements are specified in OAR 737-015-0030(3). 
+
+ (24) “Practice driving observation” means that portion of an approved course given in a dual control vehicle as the instructor observes the student driver and engages the back seat passengers in discussion of the student driver operation of the motor vehicle. 
+
+ (25) “Private Provider” means a Commercial Driver Training School that meets approved provider requirements and is in compliance with OAR 737-015-0010 thru 737-015-0130. 
+
+ (26) “Public Provider” means a public school or county that meets approved provider status and is in compliance with OAR 737-015-0010 thru 737-015-0130. 
+
+ (27) “Public school” is as defined in ORS 336.790. 
+
+ (28) “Repeated Violation” means the provider or instructor was notified in writing within three years of the same or a substantially similar deficiency. 
+
+ (29) “Revocation” means the termination of the authority granted an approved provider or an approved instructor for a specified period, with a new certificate obtainable only as defined under OAR 737-015-0120 or 737-015-0130. 
+
+ (30) “Sanction” means an action taken by ODOT-TSO against a provider or instructor for non-compliance with Oregon law or ODOT-TSO rule related to traffic safety education. 
+
+ (31) “Simulation” means the portion of the behind-the-wheel traffic safety education course given in a driving simulator. 
+
+ (32) “Student Completion Certificate” means an ODOT-TSO issued certificate that serves as proof of an eligible student completing an approved course with a passing score. 
+
+ (33) “Suspend” or “Suspension” means the temporary withdrawal for a specified period of time of the authority to conduct business or perform instructional activities granted under approved provider or approved instructor status. 
+
+ (34) “Traffic Crime” means a conviction under Oregon statute or city ordinance, or a comparable statute or city ordinance of any other jurisdiction, for any misdemeanor or felony involving the use of a motor vehicle that may result in a jail sentence. 
+
+ (35) “Traffic safety education” means a course consisting of classroom instruction, practice driving, and practice driving observation, all devoted to educating teen student drivers in safe and proper driving practices. 
+
+ (36) “Valid instruction driver permit” means an instruction permit issued by the State of Oregon under ORS 807.280 or an interim driver card issued by the State of Oregon under ORS 807.310 that is in the student’s name and is not expired, canceled, suspended or revoked. 
+
+ (37) “Warning” means a written correction notice issued by ODOT-TSO that requires corrective action be taken as specified. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 184.619 & 802.345 
+ 
+ 
+ Statutes/Other Implemented:  ORS 336.800, 336.805, 336.810, 802.110, 802.345 & 807.065 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TSO 2-2024, amend filed 10/10/2024, effective 10/14/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TSD 5-2021, minor correction filed 07/29/2021, effective 07/29/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ TSD 1-2014, f. 1-22-14, cert. ef. 3-1-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ TSD 3-2010, f. & cert. ef. 7-30-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ TSD 2-2010(Temp), f. & cert. ef. 2-25-10 thru 8-20-10 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ TSD 1-2007, f. 3-26-07, cert. ef. 4-1-07 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ TSS 2-2000, f. 8-10-00, cert. ef. 8-28-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ TSS 1-2000(Temp), f. 2-11-00, cert. ef. 3-1-00 thru 8-27-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

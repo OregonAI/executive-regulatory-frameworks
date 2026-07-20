@@ -1,0 +1,218 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 224 NEW SOURCE REVIEW 
+ 340-224-0530 
+ Net Air Quality Benefit Emission Offsets: Requirements for Demonstrating Net Air Quality Benefit for Non-Ozone Areas
+ 
+ 
+ (1) When directed by the Major or State NSR rules, OAR 340-222-0042, or OAR 340-226-0400, the owner or operator of the source must comply with sections (2) through (6), as applicable. For purposes of this rule, priority sources are sources identified under OAR 340-204-0320 for the designated area. 
+
+ (2) The ratio of offsets compared to the source’s potential emissions increase is 1.2:1 (offsets:emissions). If the offsets include offsets from priority sources, the ratio will be decreased by the offsets obtained from priority sources as a percentage of the source’s potential emissions increase. For example, if the owner or operator obtains offsets from priority sources equal to 10% of its potential emissions increase, then the offset ratio is reduced by 0.10, to 1.1:1. In no event, however, will the offset ratio be less than 1.0:1, even if more than 20% of offsets are from priority sources. 
+
+ (3) The ratio of offsets compared to the source’s potential emissions increase is 1.0:1 (offsets:emissions), except as allowed by subsection (a) or required by subsection (b). 
+
+ (a) For State NSR only, if the offsets include offsets from priority sources, the ratio will be decreased by the offsets obtained from priority sources as a percentage of the source’s potential emissions increase. For example, if the owner or operator obtains offsets from priority sources equal to 20% of its potential emissions increase, then the offset ratio is reduced by 0.2, to 0.8:1. In no event, however, will the offset ratio be less than 0.5:1, even if more than 50% of offsets are from priority sources. 
+
+ (b) In the Medford-Ashland AQMA, proposed new PM10 major sources or PM10 major modifications locating within the AQMA that are required to provide emission offsets under OAR 340-224-0060(2)(a) must provide reductions in PM10 emissions equal to 1.2 times the emissions increase over the netting basis from the new or modified source. 
+
+ (4) Except as provided in sections (5) and (6), the owner or operator must conduct an air quality analysis of the impacts from the proposed new emissions and comply with subsections (a) and (b) using the procedures specified in subsections (c) through (e): 
+
+ (a) Demonstrate that the offsets obtained result in a reduction in concentrations at a majority of modeled receptors within the entire designated area; and 
+
+ (b) Comply with paragraph (A) or paragraphs (B): 
+
+ (A) Demonstrate that the impacts from the emission increases above the source’s netting basis are less than the Class II SIL at all receptors within the entire designated area; or 
+
+ (B) Demonstrate that the impacts from the emission increases above the source’s netting basis: 
+
+ (i) Are less than the Class II SIL at an average of receptors within an area designated by DEQ as representing a neighborhood scale, as specified in 40 CFR part 58, Appendix D, a reasonably homogeneous urban area with dimensions of a few kilometers that represent air quality where people commonly live and work in a representative neighborhood, centered on the DEQ approved ambient monitoring sites; and 
+
+ (ii) The impacts of emission increases or decreases since the date of the current area designation of all other sources within the designated area or having a significant impact on the designated area, are less than 10 percent of the AAQS at all receptors within the designated area; 
+
+ (c) The air quality analysis must comply with OAR 340-225-0030 and 340-225-0040; 
+
+ (d) The air quality analysis must use a uniform receptor grid over the entire modeled area for the analyses required in subsections (a) and (b). The spacing of the receptor grids will be determined by DEQ for each analysis; 
+
+ (e) For the purpose of subsection (a) and paragraph (b)(B): 
+
+ (A) Subtract the priority source offsets from the new or modified source’s emission increase if the priority sources identified are area sources. Area source emissions are spatially distributed emissions that can be generated from activities such as, but not limited to, residential wood heating, unpaved road dust, and non-road mobile sources; 
+
+ (B) If the source’s emissions are not offset 100 percent by priority sources that are area sources, conduct dispersion modeling of the source’s remaining emission increases after subtracting any priority source offsets allowed in subparagraph (A); and in addition, model all other sources with emission increases or decreases in or impacting the designated area since the date the area was designated, including offsets used for the proposed project, but excluding offsets from priority sources that are area sources; and 
+
+ (C) If the source’s emissions are offset 100 percent by priority sources that are area sources, no further analysis is required. 
+
+ (5) Small scale local energy projects and any infrastructure related to that project located in the same area are not subject to the requirements in section (4) provided that the proposed source or modification would not cause or contribute to a violation of an ambient air quality standard or otherwise pose a material threat to compliance with air quality standards in a nonattainment area. 
+
+ (6) Offsets obtained in accordance with OAR 340-240-0550 and 340-240-0560 for sources locating within or causing significant air quality impact on the Klamath Falls PM2.5 nonattainment or PM10 maintenance areas are exempt from the requirements of OAR 340-224-0510 and section (4) provided that the proposed major source or major modification would not cause or contribute to a new violation of the national ambient air quality standard. This exemption only applies to the direct PM2.5 or PM10 offsets obtained from residential wood-fired devices in accordance with 340-240-0550 and 340-240-0560. Any remaining emissions from the source that are offset by emission reductions from other sources are subject to the requirements of OAR 340-224-0510 or section (4), as applicable. 
+
+ [NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-020-0040.] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, 468A.025, 468A.035, 468A.040, 468A.050, 468A.055 & 468A.070 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468A 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 19-2022, amend filed 11/18/2022, effective 03/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 7-2015, f. & cert. ef. 4-16-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

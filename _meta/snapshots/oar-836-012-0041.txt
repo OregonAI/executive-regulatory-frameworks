@@ -1,0 +1,364 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Insurance Regulation - Chapter 836 
+ 
+ 
+ 
+ 
+ Division 12 CREDIT FOR REINSURANCE 
+ 836-012-0041 
+ Credit for Reinsurance — Reinsurers Maintaining Trust Funds
+ 
+ 
+ (1) Pursuant to ORS 731.509(7), the director shall allow credit for reinsurance ceded by a domestic insurer to an assuming insurer which, as of any date on which statutory financial statement credit for reinsurance is claimed, and thereafter for so long as credit for reinsurance is claimed, maintains a trust fund in an amount prescribed in this rule in a qualified U.S. financial institution as defined in ORS 731.510(1), for the payment of the valid claims of its U.S. domiciled ceding insurers and their assigns and successors in interest. The assuming insurer shall report annually to the director substantially the same information as that required to be reported on the National Association of Insurance Commissioners annual statement form by authorized insurers, to enable the director to determine the sufficiency of the trust fund. 
+
+ (2) The following requirements apply to the following categories of assuming insurer: 
+
+ (a) The trust fund for a single assuming insurer shall consist of funds in trust in an amount not less than the assuming insurer's liabilities attributable to reinsurance ceded by U.S. domiciled insurers, and in addition, the assuming insurer shall maintain a trusteed surplus of not less than $20,000,000, except as provided in paragraph (b) of this subsection. 
+
+ (b) At any time after the assuming insurer has permanently discontinued underwriting new business secured by the trust for at least three full years, the commissioner with principal regulatory oversight of the trust may authorize a reduction in the required trusteed surplus, but only after a finding, based on an assessment of the risk, that the new required surplus level is adequate for the protection of U.S. ceding insurers, policyholders and claimants in light of reasonably foreseeable adverse loss development. The risk assessment may involve an actuarial review, including an independent analysis of reserves and cash flows, and shall consider all material risk factors, including when applicable the lines of business involved, the stability of the incurred loss estimates and the effect of the surplus requirements on the assuming insurer’s liquidity or solvency. The minimum required trusteed surplus may not be reduced to an amount less than 30 percent of the assuming insurer’s liabilities attributable to reinsurance ceded by U.S. ceding insurers covered by the trust. 
+
+ (c)(A)The trust fund for a group including incorporated and individual unincorporated underwriters shall consist of: 
+
+ (i) For reinsurance ceded under reinsurance agreements with an inception, amendment or renewal date on or after January 1, 1993, funds in trust in an amount not less than the respective underwriters’ several liabilities attributable to business ceded by U.S. domiciled ceding insurers to any underwriter of the group; 
+
+ (ii) For reinsurance ceded under reinsurance agreements with an inception date on or before December 31, 1992, and not amended or renewed after that date, notwithstanding the other provisions of this regulation, funds in trust in an amount not less than the respective underwriters’ several insurance and reinsurance liabilities attributable to business written in the United States; and 
+
+ (iii) In addition to these trusts, the group shall maintain a trusteed surplus of which $100,000,000 shall be held jointly for the benefit of the U.S. domiciled ceding insurers of any member of the group for all the years of account. 
+
+ (B) The incorporated members of the group shall not be engaged in any business other than underwriting as a member of the group and shall be subject to the same level of regulation and solvency control by the group’s domiciliary regulator as are the unincorporated members. The group shall, within 90 days after its financial statements are due to be filed with the group’s domiciliary regulator, provide to the director: 
+
+ (i) An annual certification by the group’s domiciliary regulator of the solvency of each underwriter member of the group; or 
+
+ (ii) If a certification is unavailable, a financial statement prepared by independent public accountants, of each underwriter member of the group. 
+
+ (d)(A) The trust fund for a group of incorporated insurers under common administration, whose members possess aggregate policyholders surplus of $10,000,000,000, calculated and reported in substantially the same manner as prescribed by the annual statement instructions and the 2019 version of the Accounting Practices and Procedures Manual of the National Association of Insurance Commissioners, and which has continuously transacted an insurance business outside the United States for at least three years immediately prior to making application for accreditation, shall: 
+
+ (i) Consist of funds in trust in an amount not less than the assuming insurers' several liabilities attributable to business ceded by U.S. domiciled ceding insurers to any members of the group pursuant to reinsurance contracts issued in the name of such group; 
+
+ (ii) Maintain a joint trusteed surplus of which $100,000,000 shall be held jointly for the benefit of U.S. ceding insurers of any member of the group; and 
+
+ (iii) File a properly executed Form AR-1 (Exhibit 1, OAR 836-012-0000) as evidence of the submission to this state's authority to examine the books and records of any of its members and shall certify that any member examined will bear the expense of any such examination. 
+
+ (B) Within 90 days after the statements are due to be filed with the group’s domiciliary regulator, the group shall file with the director an annual certification of each underwriter member’s solvency by the member’s domiciliary regulators, and financial statements, prepared by independent public accountants, of each underwriter member of the group. 
+
+ (3)(a) Credit for reinsurance shall not be granted unless the form of the trust and any amendments to the trust have been approved by either the commissioner of the state where the trust is domiciled or the commissioner of another state who, pursuant to the terms of the trust instrument, has accepted responsibility for regulatory oversight of the trust. The form of the trust and any trust amendments also shall be filed with the commissioner of every state in which the ceding insurer beneficiaries of the trust are domiciled. The trust instrument shall provide that: 
+
+ (A) Contested claims shall be valid and enforceable out of funds in trust to the extent remaining unsatisfied 30 days after entry of the final order of any court of competent jurisdiction in the United States; 
+
+ (B) Legal title to the assets of the trust shall be vested in the trustee for the benefit of the grantor's U.S. ceding insurers, their assigns and successors in interest; 
+
+ (C) The trust shall be subject to examination as determined by the director; 
+
+ (D) The trust shall remain in effect for as long as the assuming insurer, or any member or former member of a group of insurers, has outstanding obligations under reinsurance agreements subject to the trust; and 
+
+ (E) Not later than March 1 of each year, the trustees of the trust shall submit to the director in writing a report setting forth the balance in the trust and listing the trust's investments at the preceding year end, and shall certify the date of termination of the trust, if so planned, or certify that the trust shall not expire prior to the next following December 31. 
+
+ (b)(A) Notwithstanding any other provisions in the trust instrument, if the trust fund is inadequate because it contains an amount less than the amount required by this subsection or if the grantor of the trust has been declared insolvent or placed into receivership, rehabilitation, liquidation or similar proceedings under the laws of its state or country of domicile, the trustee shall comply with an order of the commissioner with regulatory oversight over the trust or with an order of a court of competent jurisdiction directing the trustee to transfer to the commissioner with regulatory oversight over the trust or other designated receiver all of the assets of the trust fund. 
+
+ (B) The assets shall be distributed by and claims shall be filed with and valued by the commissioner with regulatory oversight over the trust in accordance with the laws of the state in which the trust is domiciled applicable to the liquidation of domestic insurance companies. 
+
+ (C) If the commissioner with regulatory oversight over the trust determines that the assets of the trust fund or any part thereof are not necessary to satisfy the claims of the U.S. beneficiaries of the trust, the commissioner with regulatory oversight over the trust shall return the assets, or any part thereof, to the trustee for distribution in accordance with the trust agreement. 
+
+ (D) The grantor shall waive any right otherwise available to it under U.S. law that is inconsistent with this provision. 
+
+ (4) For purposes of this rule, the term "liabilities" means the assuming insurer’s gross liabilities attributable to reinsurance ceded by U. S. domiciled insurers excluding liabilities that are not otherwise secured by acceptable means, and, shall include: 
+
+ (a) For business ceded by domestic insurers authorized to write accident and health insurance and property and casualty insurance: 
+
+ (A) Losses and allocated loss expenses paid by the ceding insurer, recoverable from the assuming insurer; 
+
+ (B) Reserves for losses reported and outstanding; 
+
+ (C) Reserves for losses incurred but not reported; 
+
+ (D) Reserves for allocated loss expenses; and 
+
+ (E) Unearned premiums. 
+
+ (b) For business ceded by domestic insurers authorized to write life, health and annuity insurance: 
+
+ (A) Aggregate reserves for life policies and contracts net of policy loans and net due and deferred premiums; 
+
+ (B) Aggregate reserves for accident and health policies; 
+
+ (C) Deposit funds and other liabilities without life or disability contingencies; and 
+
+ (D) Liabilities for policy and contract claims. 
+
+ (5) Assets deposited in trusts established pursuant to ORS 731.509 and this rule shall be valued according to their current fair market value and shall consist only of cash in U.S. dollars, certificates of deposit issued by a U.S. financial institution as defined in ORS 731.510(2)(c), clean, irrevocable, unconditional and "evergreen" letters of credit issued or confirmed by a qualified U.S. financial institution as defined in 731.510(2)(c), and investments of the type specified in this section, but investments in or issued by an entity controlling, controlled by or under common control with either the grantor or beneficiary of the trust shall not exceed five percent of total investments. No more than 20 percent of the total of the investments in the trust may be foreign investments authorized under subsections (a)(E), (c), (f)(B) or (g) of this section, and no more than 10 percent of the total of the investments in the trust may be securities denominated in foreign currencies. For purposes of applying the preceding sentence, a depository receipt denominated in U.S. dollars and representing rights conferred by a foreign security shall be classified as a foreign investment denominated in a foreign currency. The assets of a trust established to satisfy the requirements of 731.509 shall be invested only as follows: 
+
+ (a) Government obligations that are not in default as to principal or interest, that are valid and legally authorized and that are issued, assumed or guaranteed by: 
+
+ (A) The United States or by any agency or instrumentality of the United States; 
+
+ (B) A state of the United States; 
+
+ (C) A territory, possession or other governmental unit of the United States; 
+
+ (D) An agency or instrumentality of a governmental unit referred to in paragraphs (B) and (C) of this subsection if the obligations are by law (statutory of otherwise) payable, as to both principal and interest, from taxes levied or by law required to be levied or from adequate special revenues pledged or otherwise appropriated or by law required to be provided for making these payments, but shall not be obligations eligible for investment under this subsection if payable solely out of special assessments on properties benefited by local improvements; or 
+
+ (E) The government of any other country that is a member of the Organization for Economic Cooperation and Development and whose government obligations are rated A or higher, or the equivalent, by a rating agency recognized by the Securities Valuation Office of the NAIC. 
+
+ (b) Obligations that are issued in the United States, or that are dollar denominated and issued in a non-U.S. market, by a solvent U.S. institution (other than an insurance company) or that are assumed or guaranteed by a solvent U.S. institution (other than an insurance company) and that are not in default as to principal or interest if the obligations: 
+
+ (A) Are rated A or higher (or the equivalent) by a securities rating agency recognized by the Securities Valuation Office of the NAIC, or if not so rated, are similar in structure and other material respects to other obligations of the same institution that are so rated; 
+
+ (B) Are insured by at least one authorized insurer (other than the investing insurer or a parent, subsidiary or affiliate of the investing insurer) licensed to insure obligations in this state and, after considering the insurance, are rated AAA (or the equivalent) by a securities rating agency recognized by the Securities Valuation Office of the NAIC; or 
+
+ (C) Have been designated as Class One or Class Two by the Securities Valuation Office of the NAIC. 
+
+ (c) Obligations issued, assumed or guaranteed by a solvent non-U.S. institution chartered in a country that is a member of the Organization for Economic Cooperation and Development or obligations of U.S. corporations issued in a non-U.S. currency, provided that in either case the obligations are rated A or higher, or the equivalent, by a rating agency recognized by the Securities Valuation Office of the NAIC; 
+
+ (d) An investment made pursuant to the provisions of subsections (a), (b) or (c) of this section shall be subject to the following additional limitations: 
+
+ (A) An investment in or loan upon the obligations of an institution other than an institution that issues mortgage-related securities shall not exceed five percent of the assets of the trust; 
+
+ (B) An investment in any one mortgage-related security shall not exceed five percent of the assets of the trust; 
+
+ (C) The aggregate total investment in mortgage-related securities shall not exceed 25 percent of the assets of the trust; and 
+
+ (D) Preferred or guaranteed shares issued or guaranteed by a solvent U.S. institution are permissible investments if all of the institution’s obligations are eligible as investments under paragraph (A) or (C) of subsection (b) of this section, but shall not exceed two percent of the assets of the trust. 
+
+ (e) As used in this rule: 
+
+ (A) "Mortgage-related security" means an obligation that is rated AA or higher (or the equivalent) by a securities rating agency recognized by the Securities Valuation Office of the NAIC and that either: 
+
+ (i) Represents ownership of one or more promissory notes or certificates of interest or participation in the notes (including any rights designed to assure servicing of, or the receipt or timeliness of receipt by the holders of the notes, certificates, or participation of amounts payable under, the notes, certificates or participation), that: 
+
+ (I) Are directly secured by a first lien on a single parcel of real estate, including stock allocated to a dwelling unit in a residential cooperative housing corporation, upon which is located a dwelling or mixed residential and commercial structure, or on a residential manufactured home as defined in 42 U.S.C.A. Section 5402(6), whether the manufactured home is considered real or personal property under the laws of the state in which it is located; and 
+
+ (II) Were originated by a savings and loan association, savings bank, commercial bank, credit union, insurance company, or similar institution that is supervised and examined by a federal or state housing authority, or by a mortgagee approved by the Secretary of Housing and Urban Development pursuant to 12 U.S.C.A. Sections 1709 and 1715-b, or, where the notes involve a lien on the manufactured home, by an institution or by a financial institution approved for insurance by the Secretary of Housing and Urban Development pursuant to 12 U.S.C.A. Section 1703; or 
+
+ (ii) Is secured by one or more promissory notes or certificates of deposit or participations in the notes (with or without recourse to the insurer of the notes) and, by its terms, provides for payments of principal in relation to payments, or reasonable projections of payments, or notes meeting the requirements of sub-subparagraphs (i)(I) and (i)(II) of this paragraph. 
+
+ (B) "Promissory note," when used in connection with a manufactured home, also includes a loan, advance or credit sale as evidenced by a retail installment sales contract or other instrument. 
+
+ (f) Equity interests are subject to the following provisions: 
+
+ (A) Investments in common shares or partnership interests of a solvent U.S. institution are permissible if: 
+
+ (i) Its obligations and preferred shares, if any, are eligible as investments under this section; and 
+
+ (ii) The equity interests of the institution (except an insurance company) are registered on a national securities exchange as provided in the Securities Exchange Act of 1934, 15 U.S.C. §§ 78a to 78kk or otherwise registered pursuant to that Act, and if otherwise registered, price quotations for them are furnished through a nationwide automated quotations system approved by the Financial Industry Regulatory Authority (FINRA) or successor organization. A trust shall not invest in equity interests under this paragraph an amount exceeding one percent of the assets of the trust even though the equity interests are not so registered and are not issued by an insurance company. 
+
+ (B) Investments in common shares of a solvent institution organized under the laws of a country that is a member of the Organization for Economic Cooperation and Development, if: 
+
+ (i) All its obligations are rated A or higher, or the equivalent, by a rating agency recognized by the Securities Valuation Office of the NAIC; 
+
+ (ii) The equity interests of the institution are registered on a securities exchange regulated by the government of a country that is a member of the Organization for Economic Cooperation and Development; and 
+
+ (iii) An investment in or loan upon any one institution’s outstanding equity interests shall not exceed one percent of the assets of the trust. The cost of an investment in equity interests made pursuant to this subsection, when added to the aggregate cost of other investments in equity interests then held pursuant to this subsection, shall not exceed 10 percent of the assets in the trust; 
+
+ (g) Obligations issued, assumed or guaranteed by a multinational development bank, provided the obligations are rated A or higher, or the equivalent, by a rating agency recognized by the Securities Valuation Office of the NAIC. 
+
+ (h) Investment companies are subject to the following provisions: 
+
+ (A) Securities of an investment company registered pursuant to the Investment Company Act of 1940, 15 U.S.C. § 802, are permissible investments if the investment company: 
+
+ (i) Invests at least 90 percent of its assets in the types of securities that qualify as an investment under subsection (a), (b) or (c) of this section or invests in securities that are determined by the director to be substantively similar to the types of securities set forth in subsection (a), (b) or (c) of this section; or 
+
+ (ii) Invests at least 90 percent of its assets in the types of equity interests that qualify as an investment under subsection (f)(A) of this section. 
+
+ (B) Investments made by a trust in investment companies under this subsection shall not exceed the following limitations: 
+
+ (i) An investment in an investment company qualifying under paragraph (A)(i) of this subsection shall not exceed 10 percent of the assets in the trust and the aggregate amount of investment in qualifying investment companies shall not exceed 25 percent of the assets in the trust; and 
+
+ (ii) Investments in an investment company qualifying under paragraph (A)(ii) of this subsection shall not exceed five percent of the assets in the trust and the aggregate amount of investment in qualifying investment companies shall be included when calculating the permissible aggregate value of equity interests pursuant to subsection (f)(A) of this section. 
+
+ (i) Letters of credit are subject to the following provisions: 
+
+ (A) In order for a letter of credit to qualify as an asset of the trust, the trustee shall have the right and the obligation pursuant to the deed of trust or some other binding agreement, as duly approved by the director, to immediately draw down the full amount of the letter of credit and hold the proceeds in trust for the beneficiaries of the trust if the letter of credit will otherwise expire without being renewed or replaced. 
+
+ (B) The trust agreement shall provide that the trustee shall be liable for its negligence, willful misconduct or lack of good faith. The failure of the trustee to draw against the letter of credit in circumstances where the draw would be required shall be considered to be negligence or willful misconduct, or both. 
+
+ (6) A specific security provided to a ceding insurer by an assuming insurer pursuant to OAR 836-012-0060 shall be applied, until exhausted, to the payment of liabilities of the assuming insurer to the ceding insurer holding the specific security prior to, and as a condition precedent for, presentation of a claim by the ceding insurer for payment by a trustee of a trust established by the assuming insurer pursuant to this section. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 731.508 - 731.511 & 731.244 
+ 
+ 
+ Statutes/Other Implemented:  ORS 731.508 - 731.511 & Or Laws 2019, ch 151 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ID 13-2019, amend filed 12/19/2019, effective 01/01/2020 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ID 22-2002, f. & cert. ef. 11-27-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ID 7-1995, f. & cert. ef. 11-15-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ID 8-1993, f. & cert. ef. 9-23-93 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

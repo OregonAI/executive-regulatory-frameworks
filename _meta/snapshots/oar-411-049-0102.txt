@@ -1,0 +1,546 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Aging and People with Disabilities and Developmental Disabilities - Chapter 411 
+ 
+ 
+ 
+ 
+ Division 49 ADULT FOSTER HOMES FOR OLDER ADULTS OR ADULTS WITH PHYSICAL DISABILITIES - PURPOSE, DEFINITIONS, AND LICENSURE 
+ 411-049-0102 
+ Definitions 
+ 
+ Unless the context indicates otherwise, the following definitions apply to the rules in OAR chapter 411, division 049, 050, 051, and 052: 
+
+ (1) "AAA" means an Area Agency on Aging, which is an established public agency within a planning and service area designated under Section 305 of the Older Americans Act that has responsibility for local administration of programs within the Department of Human Services. 
+
+ (2) "Abuse" means "abuse" as defined in OAR 411-020-0002 (Adult Protective Services). 
+
+ (3) "Activities of Daily Living (ADL)" mean the personal, functional activities described in OAR 411-015-0006 required by an individual for continued well-being, which are essential for health and safety. Activities include eating, dressing and grooming, bathing and personal hygiene, mobility, elimination, and cognition. 
+
+ (4) "Administrator" means the person who is designated by the Licensee that is responsible for the daily operation and maintenance of the AFH. 
+
+ (5) "Adult Day services" means care, assistance, and supervision of an individual who is older, as defined in these rules, who does not stay overnight. 
+
+ (6) "Adult Foster Home (AFH)" means any family home or other facility where residential care is provided in a homelike environment for compensation to five or fewer adults who are not related to the licensee, administrator, resident manager, or floating resident manager, by blood, marriage, or adoption and who are 65 years of age or older or an adult with a physical disability. AFHs are home and community-based settings as defined in OAR chapter 411, division 004. For the purpose of these rules: 
+
+ (a) "Adult foster home" does not include any house, institution, hotel, or other similar living situation that supplies room or board only, if no resident thereof requires any element of care. 
+
+ (b) "Facility" and "Home" are synonymous with the term "Adult Foster Home". 
+
+ (7) "Advance Directive" or "Advance Directive for Health Care" means the legal document signed by a resident that provides health care instructions in the event the resident is no longer able to give directions regarding his or her wishes. The directive gives the resident the means to control his or her own health care in any circumstance. "Advance Directive for Health Care" does not include Physician Orders for Life-Sustaining Treatment (POLST). 
+
+ (8) "Applicant" means an individual, partnership, corporation, or other entity who completes an application to own or operate an AFH. An individual applicant may also complete an application to become an administrator, resident manager, floating resident manager, or shift caregiver. "Applicant" is synonymous with "Co-applicant". 
+
+ (9) "Background Check" means a criminal records check and abuse check as defined in OAR 407-007-0210. An approved "Background Check" means a final determination, made by an authorized agency or district that the subject individual is fit to: 
+
+ (a) Hold a position, paid or not paid; 
+
+ (b) Obtain or retain credentials; 
+
+ (c) Have direct access to; or 
+
+ (d) Otherwise provide services necessary for the health, welfare, maintenance or protection of an individual. 
+
+ (10) "Background Check Rules" means the rules in OAR 407-007-0200 to 407-007-0370. 
+
+ (11) "Back-Up Provider Agreement" means an agreement between the licensee and another licensee, approved administrator, resident manager, or approved floating resident manager, who does not live in the home, and has agreed to oversee the operation of an AFH of the same license classification or higher in the event of an emergency. The Department’s (APD 0350) form may be used in place of the succession plan. (See “Succession Plan”). 
+
+ (12) "Behavioral Interventions" mean those interventions that modify a resident's behavior or a resident's environment. 
+
+ (13) "Board of Nursing Rules" means the standards and practice for licensed practical nurses and registered nurses to teach and delegate to unlicensed persons according to the statutes and rules of the Oregon State Board of Nursing (OSBN) ORS 678.010 to 678.445 and OAR chapter 851, division 045 and 047. 
+
+ (14) "Care" means the provision of assistance with activities of daily living to promote a resident's maximum independence and enhance the resident's quality of life. "Care" includes, but is not limited to, assistance with bathing, dressing, grooming, eating, money management, recreation, and medication management excluding assistance with self-medication. 
+
+ (15) "Caregiver" means any person providing care and services to residents. (See "Qualified Caregiver"). 
+
+ (16) "Care Plan" means a licensee or administrator's written description of a resident's needs, preferences, and capabilities, including by whom, when, and how often care and services are to be provided. 
+
+ (17) "CFR" or "Code of Federal Regulations" or means the codification of the rules and regulations published in the Federal Register and produced by the executive departments and agencies of the federal government of the United States. 
+
+ (18) "Classification" means a designation of license assigned to a licensee based on the qualifications of the licensee, administrator, resident manager, floating resident manager, and shift caregivers, as applicable. 
+
+ (19) "CMS" means the United States Department of Health and Human Services, Centers for Medicare and Medicaid Services. 
+
+ (20) "Compensation" means monetary or in-kind payments by or on behalf of a resident to a licensee in exchange for room, board, care, and services. "Compensation" does not include the voluntary sharing of expenses between or among roommates. 
+
+ (21) "Complaint" means an allegation of abuse, a violation of these rules, or an expression of dissatisfaction relating to a resident or the condition of an AFH. 
+
+ (22) "Condition" means a provision attached to a new or existing license that limits or restricts the scope of the license or imposes additional requirements on the licensee. 
+
+ (23) "Consumer" means an individual eligible for Medicaid services for whom case management services are provided by the Department. 
+
+ (24) "Delegation" means the process where a registered nurse teaches and supervises a nursing procedure to an unlicensed person. The OSBN defines an unlicensed person as any caregiver or certified nursing assistant (CNA). (See OAR chapter 851, division 047). 
+
+ (25) "Department" means the Department of Human Services (DHS) unless otherwise specified. 
+
+ (26) "Designated Representative" means: 
+
+ (a) Any adult, such as a parent, family member, guardian, advocate, or other person who is: 
+
+ (A) Chosen by the individual, or as applicable the legal representative; 
+
+ (B) Not a paid provider for the individual; and 
+
+ (C) Authorized by the individual, or as applicable the legal representative, to serve as the representative of the individual, or as applicable the legal representative, in connection with the provision of funded supports. 
+
+ (b) The power to act as a designated representative is valid until the individual modifies the authorization or notifies the agency that the designated representative is no longer authorized to act on the individual's behalf. 
+
+ (c) An individual, or as applicable the legal representative, is not required to appoint a designated representative. 
+
+ (27) "Director" means the Director of the Department of Human Services or that person's designee. 
+
+ (28) "Disability" means a physical, cognitive, or emotional impairment, which for an individual, constitutes or results in a functional limitation in one or more activities of daily living. 
+
+ (29) "Emergency Preparedness Plan" means a written procedure that identifies a facility's response to an emergency or disaster for minimizing loss of life, mitigating trauma, and to the extent possible, maintaining services for residents, and preventing or reducing property loss. 
+
+ (30) "Entity" means an individual, a trust or estate, a partnership, a corporation (including associations, joint stock companies, and insurance companies), a state, or a political subdivision or instrumentality, including a municipal corporation. 
+
+ (31) "Exclusion Lists" mean the following federal lists that exclude listed individuals from receiving federal awards, not limited to Medicaid and Medicare programs: 
+
+ (a) The U.S. Office of Inspector General's Exclusion List at www.exclusions.oig.hhs.gov/; and 
+
+ (b) The U.S. General Services Administration's System for Award Management Exclusion List at www.sam.gov. 
+
+ (32) "Exempt Area" means a county where there is a county agency that provides similar programs for licensing and inspection of AFHs that the Director finds are equal or superior to the requirements of ORS 443.705 to 443.825 and that the Director has exempted from the license, inspection, and fee provisions of ORS 443.705 to 443.825. 
+
+ (33) "Family Member" means spouses in a legally recognized marriage or domestic partnership, natural parent, child, sibling, adopted child, adoptive parent, adoptive sibling, stepparent, stepchild, stepbrother, stepsister, father-in-law, mother-in-law, son-in-law, daughter-in-law, brother-in-law, sister-in-law, grandparent, grandchild, aunt, uncle, niece, nephew, or first cousin. 
+
+ (34) "Final Point of Safety" means a designated assembly area located on a public sidewalk or street not less than 50 feet away from an AFH where occupants of the home evacuate to in the event of an emergency. 
+
+ (35) "Floating Resident Manager" means an employee of the licensee, approved by the LLA, who under the direction of the licensee, is directly responsible for the care of residents in one or more AFHs owned by that licensee. A "floating resident manager" is not required to live in any one AFH owned by his or her employer, except on a temporary basis, as directed by the licensee, when the regularly scheduled caregiver is unavailable. 
+
+ (36) “Gender expression” means a person’s gender-related appearance and behavior, whether or not these are stereotypically associated with the sex the person was assigned at birth. 
+
+ (37) “Gender identity” means a person’s internal, deeply held knowledge or sense of the person’s gender, regardless of physical appearance, surgical history, genitalia, legal sex, sex assigned at birth or name and sex as it appears in medical records or as it is described by any other person, including a family member, conservator or legal representative of the person. A person’s gender identity is the last gender identity conveyed by a person who lacks the present ability to communicate. 
+
+ (38) “Gender nonconforming” means having a gender expression that does not conform to stereotypical expectations of one’s gender. 
+
+ (39) “Gender transition” means a process by which a person begins to live according to that person’s gender identity rather than the sex the person was assigned at birth. The process may include changing the person’s clothing, appearance, name or identification documents or undergoing medical treatments. 
+
+ (40) “Harass” or “harassment” means to act in a manner that is unwanted, unwelcomed, or uninvited, or that demeans, threatens or offends a resident. 
+
+ (a) This includes bullying, denigrating, or threatening a resident based on a resident’s actual or perceived status as a member of one of the protected classes in Oregon, as provided: 
+
+ (A) Race. 
+
+ (B) Color. 
+
+ (C) National origin. 
+
+ (D) Religion. 
+
+ (E) Disability. 
+
+ (F) Sex (includes pregnancy). 
+
+ (G) Sexual orientation. 
+
+ (H) Gender identity. 
+
+ (I) Age. 
+
+ (J) Marital status 
+
+ (b) An example of “harassment” includes, but is not limited to, requiring a resident to show identity documents in order to gain entrance to a restroom or other area of a care facility that is available to other person of the same gender identity as the resident . 
+
+ (41) "Home and Community-Based Services" or "HCBS" means Home and Community-Based Services as defined in OAR chapter 411, division 004. 
+
+ (42) "Home and Community-Based Settings" or "HCB Settings" means a physical location meeting the qualities of OAR 411-004-0020 where an individual receives Home and Community-Based Services. 
+
+ (43) "Homelike" means an environment that promotes the dignity, security, and comfort of residents through the provision of personalized care and services, and encourages independence, choice, and decision-making by the residents. 
+
+ (44) "House Policies" or the "Home's Policies" means the written and posted statements addressing house activities in an AFH identified in the Residency Agreement. 
+
+ (45) "Indirect Ownership Interest" means an ownership interest in an entity that has an ownership interest in the AFH. 
+
+ (46) "Individual" means an adult who is at least 65 years of age or is an adult with physical disabilities who is receiving Home and Community-Based Services, including those receiving adult day services. 
+
+ (47) "Individually-Based Limitation" or "Limitation" means any limitation to the qualities outlined in OAR 411-004-0020(1)(d) and (2)(d) to (2)(j) due to health and safety risks. An individually-based limitation is based on specific assessed need and only implemented with the informed consent of the resident or, as applicable, the legal representative of the resident, as described in OAR 411-004-0040. 
+
+ (48) "Informed Consent" means: 
+
+ (a) Options, risks, and benefits have been explained to the individual and, as applicable the legal representative of the individual, in a manner that the individual, and as applicable, the representative, comprehends; and 
+
+ (b) The individual or, as applicable, the legal representative of the individual, consents to a person-centered service plan of action, including any individually-based limitations to the rules, before implementation of the initial or updated person-centered service plan or any individually-based limitation. 
+
+ (49) "Initial Point of Safety" means a designated area that has unobstructed direct access to a public sidewalk or street located not less than 25 feet away from an AFH where occupants of the home evacuate to in the event of an emergency and for the purpose of conducting evacuation drills. 
+
+ (50) "Investigative Authority" means the Office of Adult Abuse Prevention and Investigation (OAAPI), local Department offices, and Area Agencies on Aging that contract with the Department to provide adult protective services to adults who are older or adults with physical, mental, or developmental disabilities. 
+
+ (51) "Legal Representative" means a person who has the legal authority to act for an individual. The legal representative only has authority to act within the scope and limits of their authority as designated by the court or other agreement. 
+
+ (a) Legal representatives acting outside of their authority or scope must meet the definition of designated representative. 
+
+ (b) For an individual 18 years of age or older, a guardian appointed by a court order or an agent legally designated as the health care representative, where the court order or the written designation provide authority for the appointed or designated person to make the decisions indicated where the term "legal representative" is used in this rule. 
+
+ (52) "Level" means the designation of ventilator-assisted care assigned to an AFH license based on the qualifications of the licensee, administrator, resident manager, floating resident manager, and shift caregivers, as applicable. 
+
+ (53) “LGBTQIA2S+” means lesbian, gay, bisexual, transgender, queer, intersex, asexual, Two Spirit, nonbinary or other minority gender identity or sexual orientation. These terms are defined below: 
+
+ (a) “Lesbian” means the sexual orientation of a person who is female, feminine or nonbinary and who is physically, romantically or emotionally attracted to other women. Some lesbians may prefer to identify as gay, a gay woman, queer or in other ways. 
+
+ (b) “Gay” means the sexual orientation of a person attracted to people of the same gender. Although often used as an umbrella term, it is used more specifically to describe men attracted to men. 
+
+ (c) “Bisexual” means a person who has the potential to be physically, romantically and/or emotionally attracted to people of more than one gender, not necessarily at the same time, in the same way or to the same degree. 
+
+ (d) “Transgender” means having a gender identity or gender expression that differs from the sex one was assigned at birth, regardless of whether one has undergone or is in the process of undergoing gender-affirming care. Being transgender does not imply any specific sexual orientation. Therefore, transgender people may identify as straight, gay, lesbian, bisexual, etc. 
+
+ (e) “Queer” means people who do not identify as exclusively straight or a person who has non-binary or gender-expansive identities and is often used as a catch-all to refer to the LGBTQIA2S+ population as a whole. This term was previously used as a slur but has been reclaimed by many parts of the LGBTQIA2S+ movement. It can also include transgender people who identify as male or female. The term should only be used to refer to a specific person if that person self-identifies as queer. 
+
+ (f) “Intersex” means someone born with a variety of differences in their sex traits and reproductive anatomy. Intersex traits greatly vary, including differences in, but not limited to, hormone production and reproductive anatomy. 
+
+ (g) “Asexual” or “Ace” means a complete or partial lack of sexual attraction or lack of interest in sexual activity with others. Asexuality exists on a spectrum, and asexual people may experience no, little or conditional sexual attraction. Many people who are asexual still identify with a specific romantic orientation. 
+
+ (h) “2S” or “Two-Spirit” means a term used within some Indigenous communities, encompassing cultural, spiritual, sexual and gender identity. The term reflects complex indigenous understandings of gender roles, spirituality, and the long history of sexual and gender diversity in Indigenous cultures. The definition and common use of the term two-spirit may vary among Tribes and Tribal communities. 
+
+ (i) The “+” means all other identities and expressions of gender, romantic and sexual orientation, including minority gender identities. 
+
+ (j) “Nonbinary” means a person who does not identify exclusively as a man or a woman. Nonbinary people may identify as being both a man and a woman, somewhere in between, or as falling completely outside these categories. While many also identify as transgender, not all nonbinary people do. Nonbinary can also be used as an umbrella term encompassing identities such as agender, bigender, genderqueer or gender-fluid. 
+
+ (54) "Licensed Health Care Professional" means a person who possesses a professional medical license that is valid in Oregon. Examples include, but are not limited to, a registered nurse (RN), nurse practitioner (NP), licensed practical nurse (LPN), medical doctor (MD), osteopathic physician (DO), respiratory therapist (RT), physical therapist (PT), physician assistant (PA), or occupational therapist (OT). 
+
+ (55) "Licensee" means the applicant to whom an AFH license has been issued. "Licensee" is synonymous with "Co-Licensee" in these rules. 
+
+ (56) "Limited Adult Foster Home" means a home that provides care and services for compensation to a specific individual who is unrelated to the licensee, but with whom the licensee has an established relationship of no less than one year. 
+
+ (57) "Liquid Resource" means cash or those assets that may readily be converted to cash, such as a life insurance policy that has a cash value, stock certificates, or a guaranteed line of credit from a financial institution. 
+
+ (58) "Local Licensing Authority" or "LLA" means the local Department offices and Area Agencies on Aging that contract with the Department to perform specific functions of the AFH licensing process. 
+
+ (59) "Management agreement" means a written, executed agreement between the licensee and another individual or entity regarding the provision of operational services on behalf of the licensee. 
+
+ (60) "Nursing Care" means the practice of nursing by a licensed nurse, including tasks and functions relating to the provision of "nursing care" that are taught or delegated under specified conditions by a registered nurse to a person other than licensed nursing personnel, as governed by ORS chapter 678 and rules adopted by the OSBN in OAR chapter 851. 
+
+ (61) "Occupant" means any person residing in or using the facilities of an AFH, including residents, licensees, resident manager, floating resident manager, friends or family members, adult day services individuals, and room and board tenants. 
+
+ (62) "OHA" Means the Oregon Health Authority. 
+
+ (63) "Older" means any person at least 65 years of age. 
+
+ (64) "Ombudsman" means the Oregon Long-Term Care Ombudsman (LTCO) or a designee appointee that serves as an LTCO representative to investigate and resolve complaints on behalf of AFH residents. 
+
+ (65) "Owner" is synonymous with "Licensee" as defined in this rule. 
+
+ (66) "Ownership Interest" means the possession of equity in the capital, stock, or profits of an AFH. 
+
+ (67) "Person" has the same meaning as set forth in ORS 174.100(6). 
+
+ (68) "Person-Centered Service Plan" has the meaning given in OAR chapter 411, division 004. 
+
+ (a) FOR MEDICAID CONSUMERS. The person-centered service plan coordinator completes the person-centered service plan. 
+
+ (b) FOR NON-MEDICAID CONSUMERS. The person-centered service plan may be completed by the resident, and as applicable, the representative of the resident, and others as chosen by the resident. The licensee may assist non-Medicaid residents in developing person-centered service plans when no alternative resources are available. The elements of the resident's person-centered service plan may be incorporated into the resident's care plan. 
+
+ (69) "Person-Centered Service Plan Coordinator" means case managers, services coordinators, personal agents, and other people designated by DHS or OHA to provide case management services or person-centered service planning for and with individuals. 
+
+ (70) "Prescribing Practitioner" means a physician, nurse practitioner, physician assistant, chiropractor, dentist, ophthalmologist, or other healthcare practitioner with prescribing authority. 
+
+ (71) "Primary Caregiver" means one or any combination of a licensee, administrator, resident manager, or shift caregivers who personally provide care and services, and safeguards the health and safety of residents a minimum of five 24-hour days per week. 
+
+ (72) "Primary Care Provider" means a physician, physician's assistant or nurse practitioner that provides regular and continuous health care services. 
+
+ (73) "PRN" is a Latin term (pro re nata), means "as needed." It describes medications and treatments that have been ordered by a prescribing practitioner to be administered as needed when the resident exhibits or expresses signs or symptoms related to the reason the medication was ordered. 
+
+ (74) "Provisional License" means a 60-day license issued in an emergent situation when a licensee is no longer overseeing the operation of an AFH. A provisional license is issued to a qualified person who meets the standards of OAR 411-049-0125 and OAR 411-049-0105(9) except for completing the training and testing requirements. (See OAR 411-049-0105(14)(b)). 
+
+ (75) "Psychotropic Medication" means any drug that affects the brain activities associated with mental processes and behavior. These drugs include, but are not limited to, drugs in the following categories: 
+
+ (a) Anti-psychotic. 
+
+ (b) Anti-depressant. 
+
+ (c) Anti-anxiety (Anxiolytic). 
+
+ (d) Hypnotic. 
+
+ (76) "Qualified Caregiver" means an individual who has fully satisfied and maintained the requirements to be a licensee, administrator, resident manager, floating resident manager, shift caregiver or substitute caregiver. (See "Caregiver"). 
+
+ (77) "QED" means qualified entity designee as defined in OAR 407-007-0210. A QED may be a licensee who is approved by the Department's Background Check Unit to handle background checks on behalf of the LLA. 
+
+ (78) "Relative" means those persons identified as family members as defined in this rule. 
+
+ (79) "Representative" means "Designated Representative" and "Legal Representative" as defined in these rules, unless otherwise stated. 
+
+ (80) "Reside" means for a person to live in an AFH for a permanent or extended period of time. For the purpose of a background check, a person is considered to "reside" in a home if the person's visit is four weeks or greater. 
+
+ (81) "Residency Agreement" or "Agreement" means the written and legally enforceable agreement between an AFH licensee and an individual receiving Home and Community Based Services (HCBS), or representative of the individual, in a licensee owned, controlled, or operated setting. The Residency Agreement identifies the policies of the home, services to be provided, and the rights and responsibilities of the individual, and the licensee. The Residency Agreement provides the individual protection from eviction substantially equivalent to landlord-tenant laws. 
+
+ (82) "Resident" means an adult who is at least 65 years of age, or an adult with a physical disability who is receiving room and board and care and services in an AFH on a 24-hour day basis in exchange for compensation. 
+
+ (83) "Resident Manager" means an employee of the licensee, approved by the LLA, who lives in the AFH, and is directly responsible for the care of the residents. Resident Manager is not synonymous with administrator. 
+
+ (84) "Resident Rights" or "Rights" means civil, legal, or human rights, including, but not limited to, those rights listed in the Adult Foster Home Resident's Bill of Rights and HCBS freedoms. (See ORS 443.739 and OAR 411-051-0105). 
+
+ (85) "Residential Care" means the provision of care on a 24-hour day basis. 
+
+ (86) "Restraint" means restraint as defined in OAR 411-004-0010(19): 
+
+ (a) Physical restraints are any manual method, or physical or mechanical device, material, or equipment attached to or adjacent to the resident's body that the resident cannot remove easily, which restricts freedom of movement or normal access of the resident to the resident's body. Any manual method includes physically restraining a person by manually holding the person in place. 
+
+ (b) Chemical restraints are any substance or drug used for discipline or convenience that has the effect of restricting the individual's freedom of movement or behavior and is not used to treat the resident's medical or psychiatric condition. 
+
+ (87) "Room and Board" means receiving compensation for the provision of meals, a place to sleep, laundry, and housekeeping to adults who are older or adults with physical disabilities and who do not need assistance with activities of daily living. Room and board facilities for two or more persons are required to register with the Department under the rules in OAR chapter 411, division 068, unless registered with the local authority having jurisdiction. AFHs with room and board tenants are not subject to OAR chapter 411, division 068. 
+
+ (88) "Safety, Oversight and Quality Unit" or "SOQ" is a program within the Department's Aging and People with Disabilities office. 
+
+ (89) "Screening" means the evaluation process used to identify an individual's ability to perform activities of daily living and address health and safety concerns. 
+
+ (90) "Self-Administration of Medication" means the resident identifies the medication, the time and manner of administration, and places the medication internally or externally on his or her own body without assistance. 
+
+ (91) "Self-Preservation" means the ability of a resident to respond to an alarm or emergent situation without additional cues and reach a point of safety without assistance. 
+
+ (92) "Services" mean activities that help the residents develop skills to increase or maintain the resident's level of functioning or assist the residents to perform personal care, activities of daily living, or individual social activities. 
+
+ (93) “Sexual orientation” means romantic or sexual attraction, or a lack of romantic or sexual attraction, to other people. 
+
+ (94) "Shift Caregivers" mean caregivers who are responsible for providing care for regularly scheduled periods of time, including, but not limited to, 8 or 12 hours per day or night, in homes where there is no licensee or resident manager living in the home. 
+
+ (95) "Subject Individual" has the meaning as given in OAR 407-007-0210, and means any person 16 years of age or older, including: 
+
+ (a) All licensed AFH licensees and license applicants; 
+
+ (b) All persons intending to work in, or currently working in an AFH, including, but not limited to, caregivers, including trainees, and licensed healthcare workers when employed by or contracted with the licensee or facility; 
+
+ (c) Volunteers on the home's premises who provide services for, or who have access to, any resident, or any resident's funds, belongings, or confidential information; and 
+
+ (d) Occupants, excluding residents, residing in or on the premises of a proposed or currently licensed AFH, including: 
+
+ (A) Household members; 
+
+ (B) Room and board tenants; and 
+
+ (C) Persons staying in the home for a period of four weeks or more. 
+
+ (e) "Subject Individual" does not apply to: 
+
+ (A) Persons under 16 years of age. 
+
+ (B) Residents of the AFH or the resident's visitors. 
+
+ (C) Persons who live or work in or on the AFH premises who do not have: 
+
+ (i) Regular access to the home for meals; 
+
+ (ii) Regular use of the AFH's appliances or facilities; or 
+
+ (iii) Unsupervised access to the residents or the residents' personal property. 
+
+ (D) A person providing services to the residents who is employed by a private business not regulated by the Department. 
+
+ (96) "Substantial Compliance" means a level of compliance with these rules where any deficiencies pose no greater risk to resident health or safety than the potential for causing minor harm. 
+
+ (97) "Substitute Caregiver" means any person other than the licensee, resident manager, floating resident manager, or shift caregiver who provides care and services in an AFH under the jurisdiction of the Department. 
+
+ (98) “Succession Plan” means the licensee or administrator’s written plan addressing coverage, continuance of care and services for residents, and AFH operations should the licensee or administrator be unable to fulfill their duties due to illness, death, or other unexpected absence. The Department’s Back-up Provider Agreement form (APD 0350) may be used for this purpose. (See “Back-up Provider Agreement”). 
+
+ (99) "Tenant" means any individual who is residing in an AFH who receives services, such as meal preparation, laundry, and housekeeping. 
+
+ (100) "Tenancy Agreement" means a written and legally enforceable agreement between an AFH licensee and an adult who is older or an adult with physical disabilities who resides in the home and does not require assistance with any activity of daily living. The agreement specifies the terms and conditions of a room and board residency in the home. 
+
+ (101) "These Rules" mean the rules in OAR chapter 411, division 49, 50, 51, and 52. 
+
+ (102) “Transgender” means having a gender identity or gender expression that differs from the sex one was assigned at birth, regardless of whether one has undergone or is in the process of undergoing gender-affirming care. Being transgender does not imply any specific sexual orientation. Therefore, transgender people may identify as straight, gay, lesbian, bisexual, etc. 
+
+ (103) "Variance" means an exception from a regulation or provision of these rules in accordance with OAR 411-049-0160. 
+
+ (104) "Ventilator-Assisted Care" means the provision of mechanical assistance to replace spontaneous breathing. Devices used include, but are not limited to, mechanical ventilators, manual ventilators, and positive airway pressure ventilators. 
+
+ (105) "Violation" means an area of non-compliance with these rules. "Violation" is synonymous with "Deficiency". 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 409.050, 410.070, 413.085, 441.122, 443.001, 443.004, 443.725, 443.730, 443.735, 443.738, 443.742, 443.760, 443.767, 443.775 & 443.790 
+ 
+ 
+ Statutes/Other Implemented:  ORS 106.010, 409.050, 410.070, 413.085, 441.111, 443.001 - 443.004, 443.705 - 443.825, 443.875 & 443.991 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 57-2024, amend filed 09/23/2024, effective 09/25/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 13-2024, temporary amend filed 03/28/2024, effective 04/01/2024 through 09/27/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 61-2021, amend filed 12/23/2021, effective 01/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 19-2019, adopt filed 06/20/2019, effective 07/01/2019 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,227 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 245 CLEANER AIR OREGON 
+ 340-245-9080 
+ Colored Art Glass Manufacturing Facility Rules; Emission Control Device Monitoring 
+ 
+ (1) Each Tier 1 CAGM must perform the following monitoring on each emission control device it uses to comply with this rule: 
+
+ (a) At least once each week, observe and record the inlet temperature and the fabric filter (baghouse) differential pressure and afterfilter differential pressure (as applicable); and 
+
+ (b) At least once every 12 months: 
+
+ (A) Inspect the ductwork and emission control device housing for leakage; 
+
+ (B) Inspect the interior of the emission control device for structural integrity and, if a fabric filter (baghouse) is used, to determine the condition of the fabric filter; and 
+
+ (C) Record the date, time and results of the inspection. 
+
+ (2) Each Tier 2 CAGM must perform the following monitoring on each emission control device used to comply with this rule: 
+
+ (a) At least once each day, observe and record the inlet temperature and the fabric filter (baghouse) differential pressure and afterfilter differential pressure (as applicable); and 
+
+ (b) At least once every 12 months: 
+
+ (A) Inspect the ductwork and emission control device housing for leakage; 
+
+ (B) Inspect the interior of the emission control device for structural integrity and, and if a fabric filter (baghouse) is used, to determine the condition of the fabric filter; and 
+
+ (C) Record the date, time and results of the inspection. 
+
+ (3) CAGMs must observe and record any parameters specified in a DEQ approval of the Notice of Intent to Construct applicable to a control device. 
+
+ (4) If a bag leak detection system is used, the CAGM must develop and submit to DEQ for approval a site-specific monitoring plan for each bag leak detection system. The CAGM must operate and maintain the bag leak detection system according to the site-specific monitoring plan at all times. Each monitoring plan must describe the items in subsections (a) through (f). 
+
+ (a) Installation of the bag leak detection system; 
+
+ (b) Initial and periodic adjustment of the bag leak detection system, including how the alarm set-point will be established; 
+
+ (c) Operation of the bag leak detection system, including quality assurance procedures; 
+
+ (d) How the bag leak detection system will be maintained, including a routine maintenance schedule and spare parts inventory list; 
+
+ (e) How the bag leak detection system output will be recorded and stored; and 
+
+ (f) Corrective action procedures as specified in section (5). In approving the site-specific monitoring plan, DEQ may allow owners and operators more than 3 hours to alleviate a specific condition that causes an alarm if the owner or operator identifies in the monitoring plan this specific condition as one that could lead to an alarm, adequately explains why it is not feasible to alleviate this condition within 3 hours of the time the alarm occurs, and demonstrates that the requested time will ensure alleviation of this condition as expeditiously as practicable. 
+
+ (5) For each bag leak detection system, the CAGM must initiate procedures to determine the cause of every alarm within 1 hour of the alarm. Except as provided in subsection (4)(f), the CAGM must alleviate the cause of the alarm within 3 hours of the alarm by taking all necessary corrective actions. Corrective actions may include, but are not limited to the following: 
+
+ (a) Inspecting the fabric filter for air leaks, torn or broken bags or filter media, or any other condition that may cause an increase in PM emissions; 
+
+ (b) Sealing off defective bags or filter media; 
+
+ (c) Replacing defective bags or filter media or otherwise repairing the control device; 
+
+ (d) Sealing off a defective fabric filter compartment; 
+
+ (e) Cleaning the bag leak detection system probe or otherwise repairing the bag leak detection system; and 
+
+ (f) Shutting down the process producing the PM emissions. 
+
+ (6) For each bag leak detection system, the CAGM must keep the following records: 
+
+ (a) Records of the bag leak detection system output; 
+
+ (b) Records of bag leak detection system adjustments, including the date and time of the adjustment, the initial bag leak detection system settings, and the final bag leak detection system settings; and 
+
+ (c) The date and time of all bag leak detection system alarms, the time that procedures to determine the cause of the alarm were initiated, the cause of the alarm, an explanation of the actions taken, the date and time the cause of the alarm was alleviated, and whether the alarm was alleviated within 3 hours of the alarm. 
+
+ NOTE: This rule was moved verbatim from OAR 340-244-9080 and renumbered. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, 468A.025 & 468A.040 
+ 
+ 
+ Statutes/Other Implemented:  468A.025 & 468A.040 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 197-2018, adopt filed 11/16/2018, effective 11/16/2018 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ v2.1.7
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
