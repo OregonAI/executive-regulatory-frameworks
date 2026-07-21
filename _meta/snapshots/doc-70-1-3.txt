@@ -1,0 +1,412 @@
+                                   DEPARTMENT OF CORRECTIONS
+                                           Inspections
+
+                     Criminal & Administrative
+ Title:                                                                    DOC Policy: 70.1.3
+                     Evidence Handling
+ Effective:           5/1/14                                               Supersedes: 7/1/99
+
+ Applicability:      All functional units
+ Directives Cross-Reference:
+        Trust Accounts (Inmate) Div 158
+        Prison Rape Elimination Act (PREA) 40.1.13
+        Investigations 70.1.4
+ Attachments: Attachment A – Investigation Assignment by Type
+                 Attachment B – Evidence Flow
+
+I.        PURPOSE
+          To establish a uniform method of handling and maintaining the integrity of criminal evidence
+          seized in Department of Corrections (DOC) facilities.
+II.       DEFINITIONS
+          A.   Contraband: Any article or thing which an inmate/offender is prohibited by statute, rule
+               or order from obtaining, or which the inmate/offender is not specifically authorized to
+               obtain or possess or which the inmate/offender alters without authorization.
+          B.   Evidence: Any material however microscopic, solid, liquid, or gaseous that may aid in
+               the determination of truth during an investigation.
+          C.   Controlled Substance: A drug or its immediate precursor classified in Schedules I
+               through V under the Federal Controlled Substance Act, 21 U.S.C. sections 811 to 812
+               as modified under ORS 475.035.
+          D.   Functional Unit Manager: Any person within DOC who reports to the Director, Deputy
+               Director, an Assistant Director, or an administrator and has responsibility for delivery of
+               program services or the coordination of program operations.
+          E.   Investigation: A fact finding activity for the specific purpose of addressing complaints or
+               allegations. Investigations may include, but are not limited to interviews, surveillance,
+               review of electronic and paper records, correspondence and other information storage
+               devices of an employee or inmate of DOC or an employee of Oregon Corrections
+               Enterprises (OCE).
+III.      POLICY
+          A.   General
+               Any crime scene and any evidence seized as part of a criminal investigation, for the
+               purpose of criminal prosecution, or for DOC administrative cases will be handled in a
+               uniform and consistent manner by DOC employees to ensure the integrity and security
+               of the evidence. An administrative investigation can turn into a criminal investigation
+               depending on the circumstances. Therefore, all evidence should be treated as criminal
+               evidence. For this reason, all evidence will be treated with the same integrity to preserve
+               the chain of evidence.
+
+
+Effective: 5/1/14                              Page 1 of 9                                  Policy 70.1.3
+       B.    Notification
+             1.     The Oregon State Police and the Office of Inspector General’s Special
+                    Investigations Unit (SIU) are the authorized investigators of alleged crimes
+                    occurring in or on DOC facilities and/or property. Notification will immediately be
+                    made to the Oregon State Police and SIU by the OIC or designee.
+                    a.   Oregon State Police notification will be made by DOC staff by calling the
+                         Oregon State Police Command center in the area. Each dispatch center will
+                         assign an Oregon State Police case number to the incident, and will make
+                         notification to either the on-call Oregon State Police staff or they will contact
+                         the appropriate Oregon State Police office. DOC staff will affix the Oregon
+                         State Police case number to all documents and evidence.
+                    b.   SIU shall be notified by calling the Inspector General’s SIU Administrator or
+                         the SIU 24 hour phone.
+                    c.   An Unusual incident report will be written any time the Oregon State Police
+                         have been notified with copies forwarded to Oregon State Police and SIU.
+       C.    Crime Scene Preservation, Security and Processing
+             Regardless of whether the criminal investigation will be handled by Oregon State
+             Police, SIU, or Institution staff, the crime scene and all evidence will be handled in the
+             same manner to preserve the chain of custody. Prior to collecting any evidence it is
+             imperative that the crime scene, and any potential crime scenes, be secured and
+             photographed and/or videotaped. Removal of evidence will be in a manner consistent
+             with preservation of evidence, ensuring not to destroy fingerprints, blood and other
+             fragment evidence that might be affixed to the item, documenting who seized the item,
+             who maintained custody of the item and in what manner the item was secured.
+             1.     Security of the Scene:
+                    a.   The first DOC employee on scene not involved in any rescue or first aid efforts
+                         will secure the scene and ascertain the identities of all persons who are
+                         present. The identification cards of all inmates who are present will be
+                         gathered so they can be positively identified for later interviews or possible
+                         evidence collection.
+                    b.   A crime scene includes the area where the crime occurs and the area any
+                         involved parties travel to or come from. It may be necessary to move those
+                         present at the crime scene to another location to preserve the scene as well
+                         as to maintain the security of the institution.
+                    c.   Until released by the Investigator(s), the area in where bystanders and
+                         witnesses are placed is part of the crime scene.
+                    d.   The affected DOC facility’s officer-in-charge (OIC) will authorize entry into the
+                         crime scene and designate a DOC employee to maintain the security of the
+                         crime scene until released by investigators of the Oregon State Police, SIU or
+                         their designee.
+                    e.   This employee will initiate a Crime Scene Log (CD1201D located on the U
+                         drive). All persons entering the crime scene shall complete an entry in the log
+                         justifying their reason for entry.
+             2.     Photographing the Scene/Evidence:
+
+Effective: 5/1/14                               Page 2 of 9                                 Policy 70.1.3
+                    a.   Prior to photographing the scene, the photographer will make sure their
+                         camera memory has been cleared of other pictures.
+                    b.   Once the scene has been secured, the entire scene will be photographed
+                         starting with overall pictures of the scene showing a wide angle shot to include
+                         markers and entry points before moving anything.
+                    c.   Mid-range photos are then taken closer to the scene. Photographs of each
+                         piece of evidence should be taken where the item was found. Each
+                         photograph should include a marker, a scale of reference, and be taken from
+                         a 90 degree orientation as to not warp the scale of objects. Photographs shall
+                         be treated like a piece of evidence and secured as such.
+                    d.   Videotaping or sketching of the crime scene can also be done when
+                         necessary.
+             3.     Assignment of an Evidence Custodian: Nothing within the crime scene area shall
+                    be moved or touched by anyone unless the object needs to be removed because
+                    it is an immediate and ongoing threat to security, such as a weapon. The
+                    designated evidence custodian will be responsible for:
+                    a.   The recovery, packaging, sealing, and securing of all evidence to ensure an
+                         intact chain of custody, documenting the date and time of each action. If it is
+                         necessary for another staff member to take custody of an item of evidence,
+                         entering the chain of evidence, it must be clearly documented by both parties.
+                         If staff conducting a search identifies a piece of evidence, they will not touch
+                         it until it has been photographed. The evidence will then be recovered by the
+                         evidence custodian following the protocol outlined in section III. D & E below.
+                    b.   All evidence seized involving a crime will be documented on a Property Report
+                         Form (CD1440) and placed in an Oregon State Police or SIU evidence
+                         locker(s) along with the evidence. There are four copies of the Property Report
+                         Form:
+                         1)   The top white copy (original) will need to be attached to the Unusual
+                              Incident Report and provided to the Oregon State Police or SIU.
+                         2)   The three remaining copies (yellow, green, and pink) will be attached to
+                              the property before it is placed in the facilities designated Oregon State
+                              Police or SIU evidence locker(s).
+                    c.   A supplemental report or memo detailing the recovery of all evidence, the
+                         transfer of any evidence (including the reasons for the transfer), and the date
+                         and time the evidence was transferred will also be submitted and attached to
+                         the Unusual Incident Report. If an item of evidence is transferred, it will also
+                         be recorded on the back of the yellow copy of the Property Report Form
+                         (CD1440).
+       D.    Evidence Packaging and Sealing
+             All evidence, whether it relates to an administrative case or a criminal case, should be
+             packaged to meet the standards of evidence outlined below. Evidence submitted for
+             administrative violations will be accepted by the DOC Hearings Unit without being
+             processed to the standards of evidence. Reference the Investigation Assignment by
+             Type chart (Attachment A to this policy) when deciding whether a piece of evidence will
+             be submitted for an administrative hearing or criminal prosecution. When in question,
+             evidence should be packaged according to the standards of evidence.
+
+
+Effective: 5/1/14                              Page 3 of 9                                 Policy 70.1.3
+             Standards of Evidence
+             After being photographed and/or videotaped all evidence which could relate to a
+             criminal case will be collected in the same manner, ensuring trace evidence,
+             fingerprints, and any biological evidence on an item are retained and the chain of
+             custody documented and complete. The person collecting the evidence must WEAR
+             GLOVES and change regularly as to not cross contaminate trace elements between
+             different pieces of evidence.
+             1.     Each individual item of evidence shall be packaged separately and marked directly
+                    on the bag, with an evidence tag, and an attached Property Report Form (CD1440)
+                    for identification and to document chain of custody. All evidence containers will be
+                    labeled with the following information and must be legible.
+                         •   Date and time seized;
+                         •   DOC employee, contractor, or volunteer who seized the item;
+                         •   Description of item;
+                         •   Victim's name, DOB and SID# if appropriate;
+                         •   Suspect's name, DOB and SID # if appropriate;
+                         •   Brief summary of the crime;
+                         •   Record of the item's chain of custody (each person who had custody of
+                             the item); and
+                         •   Oregon State Police Case number, provided by Oregon State Police
+                             Command Center if applicable.
+             2.     Evidence that may be finger printed SHALL NOT BE placed into a plastic bag or
+                    other air-tight container. Moisture may condensate on the item, disturbing or
+                    destroying the oils in which the finger print is contained. This evidence shall be
+                    stored in a paper bag by careful handling and minimal contact by staff.
+             3.     Damp or biological evidence SHALL NOT BE placed in plastic bags. Always mark
+                    each evidence bag with a biohazard sticker if the item has been contaminated.
+                    a.   Damp items shall air dry, unaided. Damp items shall not be dried in the sun or
+                         with artificial heat as the properties of the evidence may be altered. Ideally the
+                         evidence should be hung up or positioned so that air can get to all sides. If
+                         hanging is not feasible, the items should be laid on a flat, non-porous surface
+                         covered with butcher paper and turned routinely until dry. If more than one
+                         item needs to be dried, sufficient space needs to be maintained between the
+                         items to prevent cross contamination. The location where the item dries MUST
+                         be secure and have access only by the evidence custodian thus maintaining
+                         the chain of custody. The location also must have some source of ventilation.
+                         A piece of butcher paper should be placed below each hanging item to catch
+                         any trace evidence that may fall off while drying.
+                    b.   After having been dried, each item will be placed into individual paper
+                         evidence bags. Once dry, the butcher paper should also be packaged in a
+                         separate paper evidence bag clearly marked as to which wet item it correlates
+                         to.
+                    c.   If wet evidence cannot be dried following the above protocol and it is
+                         necessary for damp items to be placed in a paper bag, the investigator
+
+Effective: 5/1/14                               Page 4 of 9                                 Policy 70.1.3
+                         involved shall be notified immediately for further instructions or to take
+                         immediate custody of the evidence for proper drying.
+             4.     Paper folds/envelopes will be suitable for small amounts of suspected narcotic
+                    substances, hair, fibers, etc. The paper fold shall then be placed into an appropriate
+                    evidence container.
+             5.     The evidence container will be sealed with evidence tape or fracture tape that will
+                    indicate any tampering. The officer seizing the evidence will place his/her initials
+                    and date over the evidence tape. Evidence tape will be used on all evidence
+                    packages, bags, boxes or tubes, regardless of factory seal.
+             6.     Plastic containers can be used to safely seal and secure sharp objects or liquids.
+             7.     Cardboard boxes can be used to secure weapons or glass. Metal cans may also
+                    be used when dealing with arson evidence.
+             (Employee’s may refer to Evidence Flow chart, Attachment B, for reference and posting
+             in each institutions evidence room.)
+       E.    Evidence Lockers
+             1.     There are three types of evidence lockers:
+                    a.   Oregon State Police Evidence Lockers
+                         Only Oregon State Police will possess the keys to the Oregon State Police
+                         evidence lockers. No duplicate keys to the Oregon State Police lockers will be
+                         maintained at the facility or possessed by any DOC staff.
+                    b.   SIU Evidence Lockers
+                         Only SIU will possess keys to the SIU criminal evidence lockers. No duplicate
+                         keys to the SIU lockers will be maintained at the facility or possessed by any
+                         unauthorized DOC staff.
+                    c.   Administrative Evidence Lockers
+                         The institution’s OIC/Master Control Center will possess keys to the
+                         administrative evidence lockers.
+             2.     The location of evidence lockers will afford limited access.
+             3.     All evidence lockers will be constructed and designed to contain various sized
+                    items of evidence. The construction of all lockers will be tamper resistant and as
+                    follows:
+                    a.   Locks will be tamper resistant, slam type, or keyed. A small drop box will be
+                         provided for any key needed to lock the evidence locker. This small drop box
+                         will be constructed so the keys cannot be retrieved. Only the Oregon State
+                         Police shall possess a key for their small drop box. Only SIU will possess a
+                         key for their small drop box.
+                    b.   Hinges will have no exposed screws or pins which can be easily removed.
+                    c.   If a drop box system has been employed, baffles will be installed so items
+                         cannot be retrieved through the drop area.
+             4.     Evidence Registers: Three separate evidence registers (CD1675a, CD1675b,
+                    CD1675c located on the U drive) will be maintained at the site of the evidence
+                    lockers. One register for each set of lockers: Oregon State Police, SIU, and
+                    administrative. These evidence registers will contain descriptive information of the
+
+Effective: 5/1/14                               Page 5 of 9                                 Policy 70.1.3
+                    evidence and its disposition. The registers will be maintained on site for a minimum
+                    of two years and include the following information:
+                    a.   Date evidence was entered into the locker(s);
+                    b.   Description of the evidence, property or item;
+                    c.   Charge of offense involved (i.e., assault, possession of contraband);
+                    d.   Victim's name, DOB and SID number, if appropriate
+                    e.   Suspect's name, DOB and SID number, if appropriate
+                    f.   Property officer's name making entry in the evidence register;
+                    g.   Disposition of property removed from the evidence locker (include destination,
+                         date removed or destroyed, and by whom); and
+                    h.   Oregon State Police case number which was provided by the Oregon State
+                         Police Command center.
+                         Evidence that cannot be adequately stored in an evidence locker may be
+                         released directly to the Oregon State Police or SIU. A notation should still be
+                         made into the evidence register documenting the delivery of evidence directly
+                         to the Oregon State Police or SIU.
+       F.    Controlled Substance Evidence
+             1.     SIU is the primary investigative unit dealing with controlled substance
+                    investigations.
+             2.     All recovered controlled substances, whether an investigation is opened or not,
+                    shall be properly packaged and placed in an SIU evidence locker for proper
+                    disposal.
+             3.     All controlled substances will be tested with a field drug identification kit,
+                    photographed, and weighed. This information, along with recovery and chain of
+                    custody details will be documented in an SIU report. All controlled substances will
+                    be re-sealed and stored in SIU’s main evidence room.
+             4.     SIU will follow the SIU Administrative and Criminal Evidence/property procedure 3
+                    for proper disposal of all controlled substances.
+       G.    Statements by Witnesses/Suspects
+             1.     Once the Oregon State Police have been notified about a crime, and accept the
+                    case for investigation, interviews with witnesses/suspects about the crime under
+                    investigation, shall be completed only as directed by the Oregon State Police.
+             2.     If the case is being investigated by SIU, SIU Inspectors or their designees shall
+                    conduct all interviews with witnesses/suspects.
+             3.     Any comments, actions, or utterances made by suspects or witnesses to DOC
+                    staff, concerning criminal conduct, shall be documented in a memo and forwarded
+                    to the institution OIC. These reports shall identify the circumstances of the remarks
+                    and the person to whom the remarks were made. DOC staff will not engage in
+                    questioning the suspect/witness concerning the validity of the crime, but will make
+                    note of unsolicited information.
+
+
+       H.    Photographs
+
+Effective: 5/1/14                              Page 6 of 9                                 Policy 70.1.3
+             1.     Photographs that become evidence will not be shown to victims or witnesses by
+                    DOC staff unless directed to do so by the Oregon State Police. Regardless of the
+                    quality of a picture, all pictures taken of a crime scene are evidence and need to
+                    be either attached to the Unusual Incident Report or turned in as evidence.
+             2.     Persons involved in violent person crimes, if cameras are available, shall be
+                    photographed prior to removal of clothing. Clothing shall be removed, bagged
+                    separately in paper bags following proper evidence handling protocol. The
+                    evidence will be held in an evidence locker or released directly to the Oregon State
+                    Police. If Oregon State Police cannot take custody of the evidence immediately
+                    and there are items that are wet, drying protocol outlined in section D(3)(a) will be
+                    followed.
+       I.    Disposition of Found Coin/Currency
+             1.     Coin/Currency falls into two categories:
+                    a.   Evidentiary Coin/Currency: Recovered coin/currency used in conjunction with
+                         a crime either administrative or criminal. (Counterfeit coin/currency is
+                         considered evidence).
+                    b.   Found Coin/Currency: Any amount of coin/currency found on DOC property
+                         by anyone or found at an off-site location by a DOC work crew member or
+                         staff.
+                    All coin/currency shall be handled the same until it reaches the disposition
+                    phase outlined below.
+             2.     General Information:
+                    a.   Gloves should be worn while handling all coin/currency to prevent exposure
+                         to possible contaminants.
+                    b.   When handling coin/currency, there must be two people present for
+                         accounting purposes.
+                    c.   A Currency Worksheet (form CD1673 located on the U drive) will be
+                         completed for all currency maintained in an evidence locker.
+                    d.   Prior to packaging, photocopy or photograph the front and back of all
+                         coin/currency.
+             3.     Packaging:
+                    a.   In general, all coin/currency will be packaged in pre-printed plastic currency
+                         bags. If the coin/currency is wet, package in a paper bag or adhere to drying
+                         protocol outlined in section D(3) above. If currency has suspected drug
+                         residue it should be packaged in plastic.
+                    b.   If the currency is contaminated – clearly mark the packaging or use a
+                         biohazard sticker.
+                    c.   Ensure that packaging is strong enough to hold the weight of the coin/currency
+                         to prevent any loss.
+                    d.   All currency must be sealed by red tamper proof evidence tape (gum seal by
+                         itself is not adequate).
+                    e.   ALL SEALS ON CURRENCY MUST BE SIGNED BY THE SAME TWO
+                         INDIVIDUALS WHO FILLED OUT THE CURRENCY WORKSHEET PRIOR
+                         TO SUBMISSION TO THE EVIDENCE LOCKER.
+
+Effective: 5/1/14                              Page 7 of 9                                 Policy 70.1.3
+                    f.   Prior to placing coin/currency in the proper evidence locker, a Currency
+                         Worksheet (CD1673 located on the U drive) must also be submitted, signed
+                         by the same two individuals signing the seal on the evidence bag.
+             4.     Storage:
+                    a.   All coin/currency, whether found or believed to be evidence, will be placed in
+                         SIU evidence lockers. If coin/currency relates to an Oregon State Police case,
+                         it shall be placed in an Oregon State Police evidence locker. Please notify
+                         either SIU or Oregon State Police once the coin/currency is placed in an
+                         evidence locker.
+                    b.   Once in the custody of SIU, coin/currency can be maintained in general
+                         evidence storage. Ideally, currency should be stored in a locker that has
+                         additional security. Examples of providing additional or secondary security
+                         include using a safe, a file cabinet with a padlock or a locking closet/cabinet
+                         within the evidence locker to maintain the evidence.
+             5.     Disposition:
+                    a.   Evidentiary coin/currency used in a Criminal case:
+                         The evidence technician must receive a court-ordered disposition or a
+                         signature from the district attorney or a signature from the SIU Investigator
+                         authorizing release or destruction.
+                    b.   Evidentiary coin/currency used in an Administrative case:
+                         Per ORS 421.068(1)(d), coin/currency confiscated in an administrative
+                         disciplinary will be deposited into the established DOC account which provides
+                         money to enhance inmate activities and programs (Inmate Welfare Account).
+                         1)    Counterfeit currency: After obtaining the appropriate disposal
+                               authorization, counterfeit currency should be disposed of by releasing to
+                               the U.S. Secret Service. Contact the Portland USSS office at (503) 326-
+                               2162 for assistance.
+                         2)    Contaminated currency: Currency that has been contaminated should
+                               be exchanged at a bank. Contact a local bank and make arrangements
+                               to exchange the currency. They may have specific procedures to follow.
+                               When transporting the currency it is recommended that one SIU staff
+                               accompanies the evidence technician or property custodian as a
+                               witness. Once the currency has been exchanged, it can be disposed of
+                               according to the court order, district attorney, or Oregon State Police or
+                               SIU’s authorization.
+                    c.   All Found coin/currency:
+                         1)    As inmates are not allowed to possess coin/currency, found
+                               coin/currency cannot be the property of an inmate (per OAR 291-117-
+                               0080 & 291-117-0090).
+                         2)    If the coin/currency is found IN or ON DOC property, SIU will deliver the
+                               coin/currency to Central Trust for deposit.
+                         3)    If the coin/currency is found outside of DOC property, it will be
+                               considered lost and found funds and SIU will deliver the coin/currency to
+                               Central Trust for deposit into the Inmate Welfare Account.
+
+
+Effective: 5/1/14                               Page 8 of 9                                Policy 70.1.3
+                         4)   When transporting coin/currency it is recommended that one SIU staff
+                              accompanies the evidence technician or property custodian as a
+                              witness.
+                         5)   Documentation of delivery of coin/currency will be documented in a
+                              written report and submitted to the SIU/STM Administrator.
+       J.    Cell Phone Evidence Handling / Preservation of Electronic Evidence:
+             As technology is continually changing, whenever electronic evidence needs to be
+             collected, please contact SIU for guidance.
+             1.     Cell Phone Evidence:
+                    a.   Handle the cell phone minimally and WITH gloves
+                    b.   If a cell phone is found already turned on, and you have knowledge of how,
+                         turn on airplane mode and turn off the Wi-Fi access. Leave the cell phone ON.
+                    c.   If a cell phone is found already off, leave OFF.
+                    d.   Do NOT remove the battery from the cell phone.
+                    e.   Do NOT attempt to break a password on the phone. This may further lock the
+                         phone and inhibit the extraction process.
+                    f.   If you can remove the SIM card without removing the battery, that will also get
+                         the phone off the network.
+                    g.   Properly package your evidence and place into the SIU evidence locker and
+                         record it in the proper evidence log book.
+                    h.   Submit all reports and memoranda, along with a filled out property report
+                         CD1440, in the evidence locker.
+                    i.   Contact SIU immediately so a timely forensic extraction can take place
+III.   IMPLEMENTATION
+
+
+       This policy will be adopted immediately without further modification.
+
+Certified: ______signature on file________________
+Birdie Worley, Rules Coordinator
+
+
+Approved: ____signature on file_________________
+Colette S. Peters, Director
+
+
+
+
+Effective: 5/1/14                              Page 9 of 9                                Policy 70.1.3
+

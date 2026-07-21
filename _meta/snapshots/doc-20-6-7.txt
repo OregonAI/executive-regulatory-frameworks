@@ -1,0 +1,865 @@
+                                      DEPARTMENT OF CORRECTIONS
+                                           Employee Services
+
+
+Title:             Blood Borne Pathogens                                     DOC Policy: 20.6.7
+Effective:         3/6/24                                                    Supersedes: 12/01/15
+Applicability:     All Employees, Students, Volunteers and Contract Service Providers
+Directives Cross-Reference:
+                 ORS 179.505 Disclosure of Written Accounts by Health Care Services Provider
+                 ORS 192.558 Use or Disclosure by Health Care Provider or State Health Plan
+                 ORS 433.085 HIV and Hepatitis Test at Request of Law Enforcement Officer
+                 OAR 437, Division 2, Subdivision Z, Toxic and Hazardous Substances, 1910.1030 BBP
+                 OAR 437-002-1030 Additional Oregon Rules for Bloodborne Pathogens
+                 OAR 437-002-1035 Oregon Rule for Sharps Injury Log
+                 DOC Policy 20.1.3 Code of Conduct
+                 DOC Policy 20.1.7 Promotion and Maintenance of a Respectful Workplace
+                 DOC Health Services P-B-02.2 Exposure Control Plan
+Attachments:
+        Attachment A – Employee Information Following Exposure
+        Attachment B – Post Exposure – Roles/Responsibilities/Duties
+        Attachment C – Outline of BBP Roles and Responsibilities
+        Attachment D – Instructions for Filling Out Affidavit, Petition, and Order for Required
+                      Medical Testing
+        Form CD1398 – Offer/Declination of Hep B Vaccination
+        Form CD1401 – Supervisor’s Report of Employee’s Duties & Description
+        Form CD1402 – Post-Exposure Follow-Up Checklist
+        Form CD1947 – Treating Physician Authorization Release of Information
+
+I.       PURPOSE
+         To eliminate or minimize exposure to blood borne pathogens in the workplace by providing
+         consistent guidance to all Department of Corrections (DOC) employees, supervisors and
+         managers, and volunteers and contract service providers.
+         To provide guidance for the post-exposure process.
+
+
+II.      DEFINITIONS
+         A.   Adult in Custody (AIC): Any person under the supervision of the Department of
+              Corrections who is not on parole, probation, or post-prison supervision status.
+         B.   Adult on Supervision: Any person under the supervision of the Department of
+              Corrections who is on parole, probation, or post-prison supervision status.
+         C.   Blood Borne Pathogens (BBP): Disease-causing microorganisms present in human
+              blood. These pathogens include, but are not limited to, Hepatitis B Virus (HBV),
+
+
+
+Effective 3/6/24                           Page 1 of 7                                  Policy 20.6.7
+             Hepatitis C Virus (HCV), and Human Immunodeficiency Virus (HIV).
+       D.    Blood Borne Pathogens Safety Oversight Committee: The statewide multi-disciplinary
+             committee responsible for conducting ongoing reviews of policies, plans, practices,
+             training, exposure incidents, and equipment selection including medical sharps. The
+             committee makes recommendations to the Director and appropriate managers to
+             accomplish the aims and requirements of this policy and applicable regulations.
+       E.    Contaminated Laundry: Laundry that has been soiled with blood or other potentially
+             infectious materials or that may contain sharps.
+       F.    Critical Incident Stress Management Team (CISM): A team responsible for the
+             prevention and mitigation of disabling stress among emergency responders in
+             accordance with the standards of the International Critical Incident Stress Foundation.
+       G.    Engineering Controls: Controls (e.g., sharps containers, self-sheathing needles, etc.)
+             that isolate or reduce the blood borne pathogen hazards from the workplace.
+       H.    Exposure Control Plan: A written document which identifies occupational hazards and
+             specifies the methods of protecting and training employees (DOC Health Services policy
+             P-B-02.2 Exposure Control Plan).
+       I.    Exposure Incident: Occurs when blood or other potentially infectious materials comes into
+             direct contact with eye, mouth, other mucous membrane, non-intact skin, or penetrated skin.
+             If blood or other potentially infectious material comes into contact with anything but
+             mucous membrane or non-intact skin, it is considered indirect contact.
+       J.    Facility Safety Liaison: Main contact for each specific location to facilitate safety related
+             questions or concerns.
+       K.    Job Hazard Analysis (JHA): A part of risk assessment in which the hazards that come
+             along with a certain job or workplace are identified and mitigated before they occur.
+       L.    Licensed Health Care Professional: A person who possesses a valid professional medical
+             license and can provide consultation and medical treatment.
+       M.    Other Potentially Infectious Materials (OPIM): Includes, but is not limited to, semen,
+             vaginal secretions, cerebrospinal fluid, synovial fluid, pleural fluid, pericardial fluid, and
+             any bodily fluid that is visibly contaminated with blood. Note: Feces, urine, nasal
+             secretions, sputum, sweat, tears, and vomitus are not considered OPIM unless they
+             contain visible blood.
+       N.    Personal Protective Equipment (PPE): Specialized clothing or equipment worn by an
+             employee for protection against a hazard. General work clothes (e.g., uniforms, pants,
+             shirts, or blouses) are not intended to function as protection against a hazard and are
+             not considered personal protective equipment.
+       O.    Regulated Waste: Liquid or semi-liquid blood or other potentially infectious materials;
+             contaminated items that would release blood or other potentially infectious materials
+             in a liquid or semi-liquid state, if compressed; items that are caked with dried blood or
+             other potentially infectious materials and are capable of releasing these materials
+             during handling; contaminated sharps; and pathological and microbiological wastes
+             containing blood or other potentially infectious materials.
+       P.    Sharps: Any object that can penetrate the skin (i.e., needles, scalpels, broken glass,
+
+
+Effective 3/6/24                             Page 2 of 7                                     Policy 20.6.7
+             broken capillary tubes, exposed ends of dental wires, etc.).
+       Q.    Source Individual: Any living or dead individual whose blood or OPIM may be a source
+             of occupational exposure to blood borne pathogens.
+       R.    Titer Test: A blood test conducted to determine if HBV antigens and antibodies are
+             present in the blood and the level of immunity achieved.
+       S.    Treating Physician Authorization Release of Information (CD1947): Template letter
+             providing medical professionals directions for obtaining AIC health information when
+             treating staff for a potential BBP exposure. See ORS 179.505 and 192.558.
+       T.    Universal Precautions: An approach to infection control which treats all human blood
+             and certain human body fluids as if they are infectious for HBV, HCV, HIV, or other blood
+             borne pathogens.
+       U.    Work Practice: The established and accepted methods for performing tasks, called
+             standard operating procedures, would include the accepted practices of licensed or
+             certified professionals.
+
+
+III.   POLICY
+        A.   General
+             Department of Corrections staff may be exposed to blood and other potentially
+             infectious materials in the performance of their duties. It is the policy of the DOC to
+             comply fully with Occupational Health and Safety Regulations to eliminate or reduce
+             the potential for exposure through the use of engineering controls and work practices,
+             to establish written exposure control plans, to provide appropriate PPE, to provide
+             training, to provide recommended immunizations, and to conduct an ongoing review
+             of its equipment, procedures, and exposure incidents.
+
+
+             1.    DOC will provide confidential investigations, treatment, and follow-up for all
+                   exposure incidents following guidelines established by the Centers for Disease
+                   Control.
+             2.    DOC will establish and maintain records and reports required under the Blood
+                   Borne Pathogens Standard.
+             3.    This policy applies to all DOC locations, institutions, and functional units.
+
+
+        B.   Exposure Control Plan
+             1.    Each functional unit has an exposure control plan to minimize or mitigate exposure
+                   of employees, volunteers, or contract service providers to blood borne pathogens.
+             2.    Each site-specific plan will, at a minimum, include the following elements:
+
+                   a. A copy of DOC Policy 20.6.7 and all attachments;
+
+                   b. A copy of Oregon OSHA Subdivision Z (OR-OSHA);
+
+
+
+Effective 3/6/24                             Page 3 of 7                                     Policy 20.6.7
+                   c. A list of job titles where exposure can be anticipated;
+
+                   d. A description of training;
+
+                   e. A description of preventive measures;
+
+                        A.     Universal precautions;
+
+                        B.     Hepatitis vaccination;
+
+                   f. A description of local methods of hazard control;
+
+                        A.    Engineering and work practice controls;
+
+                        B.    Personal protective equipment;
+
+                        C.    Housekeeping;
+
+                        D.    Labeling and communication;
+
+                        E.    Post-exposure control measures;
+
+                   g. A description of actions to take in the event of an exposure incident;
+
+                   h. A description of recording and reporting requirements; and
+                   i.   A set of appendices with information specific to the functional unit or site.
+             3.    Each functional unit or site-specific exposure control plan shall be reviewed at least
+                   annually by the facility safety liaison or designee and a health service staff member,
+                   or more often as necessary to eliminate or reduce risks. A record of the review
+                   process will be maintained.
+             4.    Training in all aspects of the functional unit or site-specific exposure control plan
+                   will occur at the time of initial assignment, or when changes in equipment or work
+                   practices are adopted.
+                   a.    Refresher training is required annually or more often as necessary to eliminate
+                         or reduce risk.
+                   b.    Training will be provided by qualified persons.
+                   c.    Training will be provided at no cost to the employee.
+                   d.    Training will encompass the training elements required under OR-OSHA.
+                   e.    Each employee will have an opportunity to have questions answered.
+                   f.    Training records will be maintained.
+                   g.    Appropriate training on blood borne pathogens shall be presented to
+                         students, volunteers, and contract service providers prior to assignment.
+             5.    Hepatitis B Vaccinations Program (HBV)
+
+
+
+
+Effective 3/6/24                              Page 4 of 7                                   Policy 20.6.7
+                   a.   Vaccinations for HBV and titer testing will be offered to all employees at no cost
+                        to the employee. Employees can go to any medical provider and turn in their
+                        receipt to their location’s business office for reimbursement. Hepatitis B
+                        vaccinations are tracked in Workday.
+                   b.   Offer/Declination of Hepatitis B Vaccination (CD1398) should be offered and
+                        filled out by all staff within the first 30 days of employment, even if
+                        vaccination is declined. The form is in the employee new hire packet and will
+                        be kept in a permanent record in Workday for all employees. Employees who
+                        decline vaccination may later request the series by contacting their Human
+                        Resources representative.
+
+
+        C.   Exposure Incidents Involving AICs
+             1.    An exposure incident is a potential medical emergency and prompt referral to a
+                   qualified health care provider may be necessary.
+                   a.   First aid will be provided at the institution.
+                   b.   Accurate and thorough records of the incident will be initiated and maintained.
+                   c.   The employee will be referred to a medical provider and provided a copy of
+                        Treating Physician Authorization Release of Information (CD1947).
+                   d.   The medical provider will supply a written opinion.
+                   e.   Exposure incident records will be maintained for at least 30 years beyond the
+                        last day of employment.
+             2.    Supervisor: A post-exposure evaluation will be conducted by a manager of the
+                   affected person following the latest recommendation(s) from the Centers for
+                   Disease Control and include completion of Supervisor’s Report of Employee’s
+                   Duties & Description (CD1401) and Post-Exposure Follow-Up Checklist (CD1402).
+                   Supervisors will use Attachment B Post Exposure – Roles/Responsibilities/Duties
+                   and Attachment C Outline of BBP Roles and Responsibilities as guidance for
+                   processing exposure incidents.
+                   Employee: Attachment A Employee Information Following Exposure, Attachment
+                   B Post Exposure – Roles/Responsibilities/Duties and Attachment C Outline of BBP
+                   Roles and Responsibilities will be provided to the affected person.
+              3.   Volunteers and contractors who have been exposed, or believe they have been
+                   exposed, to a BBP are encouraged to seek private medical attention within the
+                   time frames outlined in the exposure control plan and are expected to comply with
+                   the reporting requirements of the plan. All costs associated with medical care are
+                   the sole responsibility of the volunteer or contractor unless otherwise approved.
+
+
+        D.   Exposure Incidents Involving Other Persons (Such as Adults on Supervision, Staff,
+             Visitors)
+             1.    An exposure incident is a potential medical emergency and prompt referral to a
+
+
+
+Effective 3/6/24                            Page 5 of 7                                      Policy 20.6.7
+                   qualified health care provider may be necessary.
+                   a.   First aid will be provided.
+                   b.   Accurate and thorough records of the incident will be initiated and maintained.
+                   c.   The employee will be referred to a medical provider.
+                   d.   The medical provider will supply a written opinion.
+                   e.   Exposure incident records will be maintained for at least 30 years beyond the
+                        last day of employment.
+             2.    Supervisor: A post-exposure evaluation will be conducted by a manager of the
+                   affected person following the latest recommendation(s) from the Centers for
+                   Disease Control and include completion of Supervisor’s Report of Employee’s
+                   Duties & Description (CD1401) and Post-Exposure Follow-Up Checklist (CD1402).
+                   Supervisors will use Attachment B Post Exposure – Roles/Responsibilities/Duties
+                   and Attachment C Outline of BBP Roles and Responsibilities as guidance for
+                   processing exposure incidents.
+                   Employee: Attachment A Employee Information Following Exposure, Attachment
+                   B Post Exposure – Roles/Responsibilities/Duties and Attachment C Outline of BBP
+                   Roles and Responsibilities will be provided to the affected person.
+                   As an employee of the Department of Corrections, per ORS 433.085, if you come
+                   into contact with blood or OPIM of another person(s) you may petition the court
+                   to have that person tested for HIV and Hepatitis B and C. You can ask the judge to
+                   order the testing without the source individual even being notified or present.
+                   Refer to Attachment D Instructions for Filling Out Affidavit, Petition, and Order For
+                   Required Medical Testing.
+              3.   Volunteers and contractors who have been exposed, or believe they have been
+                   exposed, to a BBP are encouraged to seek private medical attention within the
+                   time frames outlined in the exposure control plan and are expected to comply with
+                   the reporting requirements of the plan. All costs associated with medical care are
+                   the sole responsibility of the volunteer or contractor unless otherwise approved.
+
+
+        E.   Blood Borne Pathogens Safety Oversight Committee
+             A Blood Borne Pathogens Safety Oversight Committee, composed of representatives
+             from Employee Services, Health Services, and Operations functional units, shall:
+             1.    Meet regularly to provide ongoing oversight of the Blood Borne Pathogens Safety
+                   Program; to review policies and procedures and recommend necessary changes;
+                   to review the HBV vaccination program; and to review and analyze incidents of
+                   blood borne pathogen exposure.
+             2.    Monitor the agency’s BBP safety training programs and make recommendations
+                   regarding their content and compliance with OR-OSHA requirements.
+             3.    Identify, evaluate, and recommend engineering controls and work practice
+                   controls including safer medical devices. This evaluation shall be done annually, at
+
+
+
+Effective 3/6/24                            Page 6 of 7                                    Policy 20.6.7
+                   a minimum, and it will comply with OR-OSHA requirements for line staff.
+             4.    Conduct the required annual review of the BBP policy and safety programs and
+                   recommend changes to the policy committee.
+             5.    Make recommendations to the Director and functional unit managers for
+                   improvements to policies, processes, and equipment.
+
+
+        F.   Reports and Records
+             1.    Reports and records required by OR-OSHA and DOC will be initiated, completed,
+                   and maintained.
+             2.    Records to include vaccinations; training; exposure incident reporting and follow
+                   up; product and equipment evaluations and follow up; minutes of meetings of
+                   committee and work groups; and copies of reports to the Director and functional
+                   unit managers will be maintained.
+             3.    Storage location, reports and records content, and level of confidentiality of
+                   reports and records will be determined by the appropriate functional unit
+                   manager, facility safety liaison or designee, medical provider, committee, or work
+                   group.
+             4.    Records and reports will be managed and maintained in accordance with DOC
+                   retention schedules, Oregon law, and OR-OSHA requirements.
+
+
+III.   IMPLEMENTATION
+       This policy will be adopted immediately without further modification.
+
+
+Certified:       signature on file
+Julie Vaughn, Rules Coordinator
+
+Approved:        signature on file
+Heidi Steward, Deputy Director
+
+
+
+
+Effective 3/6/24                           Page 7 of 7                                  Policy 20.6.7
+                                                                                                       Attachment A
+
+
+                  EMPLOYEE INFORMATION FOLLOWING
+                 EXPOSURE TO BLOOD BORNE PATHOGENS
+Occupational Exposure to Blood and Body Fluids
+
+Initial Action
+
+Wash wounds with soap and water and flush exposed mucous membranes as soon as possible after an exposure.
+You may also need to shower and change clothing.
+
+You may go to the emergency roomer (ER) for evaluation. The ER physician will speak to you about the exposure
+incident and review the Supervisor’s Report of Employee’s Duties and Description of Exposure Incident (CD1401)
+to determine your treatment. The ER physician may offer or recommend that you take medication. Since it is
+important to begin medication as soon as possible (within hours rather than days) in order to prevent HIV
+infection, you may want to begin taking the prescribed drug treatment and later discontinue it after discussion
+with loved ones or your physician, or when negative source tests are known. Further follow up may be through
+your personal physician.
+
+Risk of HIV Infection After Exposure
+
+The risk is decreased if the needle first passed through clothing or a glove, was not a hollow needle, or when the
+source has HIV with an undetectable viral count. The risk of infection after mucous membrane or non-intact skin
+exposure is much lower than after a needle stick exposure. The vast majority of people do not have HIV infection.
+
+If you have a significant exposure, your treating physician will offer you the opportunity to begin drug treatment.
+A workers’ compensation claim may be filed.
+
+What is the Antibody Test (AT)?
+
+The antibody test is a blood test used to detect antibodies to HIV. The current recommendation is to test the
+exposed worker up to 6 months after a possible exposure to HIV. Testing is also recommended if the exposed
+individual develops symptoms suggesting acute HIV infection (fever, rash, swollen lymph nodes) or develops
+Hepatitis C infection.
+
+Risk of Hepatitis B After Exposure
+
+Most DOC workers have been immunized or have been offered immunization against Hepatitis B by receiving a
+series of three shots. Having Hepatitis B antibodies protects you from becoming infected.
+
+Risk of Hepatitis C After Exposure
+
+The severity of the Hepatitis C illness varies but is usually very mild. There is no vaccine for Hepatitis C at present.
+
+If the source results for Hepatitis C antibody testing are negative, no further testing needs to be done. If the
+source results for Hepatitis C antibody testing are positive, your Hepatitis C antibody test will be repeated at 6
+months. There is no preventive treatment for Hepatitis C available. If you become infected with Hepatitis C, you
+will need to be seen on a regular basis by your physician so that your liver function tests may be monitored.
+
+
+20.6.7 Bloodborne Pathogens Attachment A – Page 1                                                       Revised 2/2024
+                                                                                                   Attachment A
+
+
+Source Results
+
+The results from testing the source will be given to your treating physician to discuss with you. Remember that
+these are confidential test results.
+
+Consideration After Exposure
+
+If you have been exposed to a blood borne pathogen, it is important to protect your sexual partner. Until you
+test negative at your final antibody test, you should practice abstinence or use latex condoms during sexual
+intercourse. To protect others from possible exposure, refrain from donating blood, plasma, body organs, other
+tissues, or sperm. Do not share toothbrushes, razors, needles, or other implements that could be contaminated
+with blood. Breast-feeding is discouraged until you test negative at your final antibody test because HIV has
+been isolated from human breast milk.
+
+If you elect not to have HIV testing or Hepatitis B or Hepatitis C screening done on yourself, the final outcome of
+any workers’ compensation claim filed for this exposure may be affected, as they recommend baseline testing
+within 2 weeks of exposure.
+
+* Data from Oregon Health Division based on several years of annual sampling and testing for HIV and
+Hepatitis C.
+
+
+
+
+20.6.7 Bloodborne Pathogens Attachment A – Page 2                                                   Revised 2/2024
+                                                                                                  Attachment B
+
+                      POST EXPOSURE - ROLES/RESPONSIBILITIES/DUTIES
+
+NOTE: This is only a general listing of roles, duties and responsibilities and general order of process. The
+severity and nature of the incident may affect this process. In most situations, this outline should be followed.
+Attachment C Outline of BBP Exposure Roles and Responsibilities summarizes duties in the exposure incident.
+
+    A.      Employees sustaining a workplace exposure incident shall:
+
+            1.      Notify their supervisor immediately. If the supervisor is not available, notify a manager
+                    through the chain of command. If in the rare case a manager is not available through the
+                    direct chain of command, the employee shall contact another manager (in institutions, this
+                    is usually the Officer-in-Charge), who will endeavor to notify the appropriate chain of
+                    command manager.
+
+            2.      Be given the opportunity to shower and change clothing, dependent on the exposure
+                    incident.
+
+            3.      Provide information to the supervisor to facilitate completion of the Supervisor's Report of
+                    Employee's Duties and Description of Exposure Incident (CD1401). This report is used by the
+                    treating physician to help assess the employee patient exposure incident.
+
+            4.      Provide the supervisor or manager the name of the source individual, if known.
+
+            5.      Be given the time to receive consultation and treatment from an outside licensed health
+                    care professional within 2 hours for any workplace exposure incident. It is the employee’s
+                    choice to seek medical consultation or treatment.
+
+            6.      For exposure incidents involving AICs: If the employee seeks consultation or treatment from
+                    an outside licensed health care professional, the Treating Physician Authorization Release
+                    of Information form (CD1947) will be provided to the employee to take with them to the
+                    visit.
+
+                    For Exposure Incidents Involving Other Persons (Such as Adults on Supervision, Staff,
+                    Visitors): The employee will follow the process outlined on the Post-Exposure Follow-Up
+                    Checklist (CD1402). As an employee of the Department of Corrections, per ORS 433.085, if
+                    you come into contact with blood or OPIM of another person(s) you may petition the court
+                    to have that person tested for HIV and Hepatitis B and C. You can ask the judge to order the
+                    testing without the source individual even being notified or present. Refer to Attachment D
+                    Instructions for Filling Out Affidavit, Petition, and Order for Required Medical Testing.
+
+            7.      Present a copy of the Supervisor's Report of Employee's Duties and Description of Exposure
+                    Incident (CD1401) to the treating physician.
+
+            8.      Complete or help complete any other reports concerning the incident that may be required.
+
+            9.      Complete a Workday Safety Report.
+
+            10.     Complete the worker section of a Report of Job Injury or Illness (SAIF 801 form), if the
+                    employee intends to file a claim for an on-the-job injury or illness. Give the signed form to
+
+20.6.7 Bloodborne Pathogens Attachment B – Page 1                                                Revised 2/2024
+                                                                                                 Attachment B
+
+                    the department’s Workers’ Compensation specialist for completion.
+
+            11.     As soon as possible, provide information to Health Services to prepare for a request by the
+                    staff members treating physician for AIC health information.
+
+            12.     Within the limitations of ORS 433.085, seek to have the source individual tested for HIV and
+                    Hepatitis B or C by petitioning the circuit court for an order compelling the testing. Notify
+                    supervisor or manager of intent to compel source individual to submit to testing.
+
+
+    B.      Supervisor or Manager shall:
+
+            1.      Arrange for the exposed employee to be released from their post, as soon as possible.
+
+            2.      Follow the post-exposure process. If a manager in the chain of command cannot be
+                    immediately located or notified, the manager who takes the report is responsible and shall
+                    follow the post-exposure process.
+
+            3.      Give the exposed employee the opportunity to shower and change clothing, dependent on
+                    the exposure incident.
+
+            4.      Review the workplace exposure incident with the employee and complete the required
+                    documentation on a Supervisor’s Report of Employee’s Duties and Description of Exposure
+                    Incident (CD1401). The supervisor or manager shall endeavor to provide a copy to the
+                    employee before the employee is seen by a licensed health care professional.
+
+            5.      Provide the exposed employee(s) time to access a licensed health care professional within
+                    a two-hour window if the exposed employee chooses to seek medical consultation or
+                    treatment.
+
+                    For exposure incidents involving AICs, provide the employee with a copy of DOC policy
+                    20.6.7 Attachment A - Employee Information Following Exposure to Blood Borne Pathogens,
+                    Attachment B - Post Exposure Roles/Responsibilities/Duties and Attachment C - Outline of
+                    BBP Roles and Responsibilities; and the Treating Physician Authorization Release of
+                    Information form (CD1947), and a copy of the Supervisor's Report of Employee's Duties and
+                    Description of Exposure Incident form (CD1401).The treating medical provider can contact
+                    the location’s Health Service Staff Manager or designee who will help provide the needed
+                    source health information.
+
+                    For exposure incidents involving Other Persons (Such as Adults on Supervision, Staff,
+                    Visitors), provide the employee with a copy of DOC policy 20.6.7 Attachment A - Employee
+                    Information Following Exposure to Blood Borne Pathogens and a copy of the Supervisor's
+                    Report of Employee's Duties and Description of Exposure Incident form (CD1401).
+                    Supervisors will assist the exposed employee as needed and as appropriate in petitioning
+                    the court to compel testing of source individuals.
+
+                    Note: If the employee refuses to seek medical attention or consultation, the supervisor or
+                    manager shall document that fact on the Post-Exposure Follow-Up Checklist (CD1402). If the
+                    exposed employee(s) changes their decision on seeking treatment or consultation and the
+                    exposed employee chooses to seek medical attention or consultation, the employee(s) shall
+
+
+20.6.7 Bloodborne Pathogens Attachment B – Page 2                                               Revised 2/2024
+                                                                                                 Attachment B
+
+                    be released as soon as possible to do so.
+
+            6.      Upon receipt of the AIC source individual’s name, provide the source AIC’s name to Health
+                    Services.
+
+            7.      Arrange for the employee's contaminated clothing to be laundered or sent to a laundry
+                    labeled as “contaminated laundry” and returned before the employee(s) takes possession
+                    of the clothing.
+
+            8.      Complete the employer section of Report of Job Injury or Illness (Form 801), if the employee
+                    intends to file a claim for an on-the-job injury or illness, and forward to the department’s
+                    insurer.
+
+            9.      Offer CISM counseling as soon as possible to those involved in an exposure incident.
+
+            10.     Complete the supervisor’s accident investigation report in Workday
+
+            11.     Respect the exposed staff member by restricting any discussion about the exposure incident
+                    to those staff that have a need to know.
+
+    C.      Health Services shall: (Note: Health Services involvement in this process is limited to issues
+            concerning the AIC source individual(s)).
+
+            1.      Per DOC policy 20.6.7 Bloodborne Pathogens, use the Treating Physician Authorization
+                    Release of Information form (CD1947) to release health information to the health care
+                    provider concerning the AIC source individual identified by the exposed employee(s) as soon
+                    as possible.
+
+            2.      Refer to Medical Services for further medical testing of the source AIC, as soon as possible,
+                    if needed. Medical Services will obtain written consent for testing from source AIC before
+                    blood can be drawn.
+
+            3.      Upon receipt of such information, release results of further testing of the source AIC to the
+                    health care provider identified by the exposed employee as soon as possible.
+
+    D.      Policy Statements
+
+            1.      At no time shall anyone involved in an exposure incident be discriminated or retaliated
+                    against.
+
+            2.      Employees shall adhere to DOC Policy 20.1.3 Code of Conduct, DOC Policy 20.1.7
+                    Promotion and Maintenance of a Respectful Workplace, and respect the exposed staff
+                    member by restricting any discussion about the exposure incident to those staff that have
+                    a need to know and to only that information necessary to complete required reports.
+
+                    For exposure incidents involving AICs, the Department of Corrections will provide support
+                    for affected employees throughout this process as described in DOC policy 20.6.7
+                    Bloodborne Pathogens and within DOC policy 20.6.7 B Post Exposure –
+                    Roles/Responsibilities/Duties. form.
+
+
+
+20.6.7 Bloodborne Pathogens Attachment B – Page 3                                               Revised 2/2024
+                                                                                                 Attachment C
+                             Outline of BBP Roles and Responsibilities
+
+                 All: Restrict discussion of BBP incident respecting privacy of those involved
+
+           Employee                               Supervisor                      Health Services
+ Wash or shower or change           ASAP allow employee to shower or      Render emergency care, as
+ clothing                           change (provide clothing and          needed
+                                    arrange for laundering of
+                                    employee’s clothing, if needed)
+ Notify supervisor of exposure      Encourage employee to seek            For Exposure Incident Involving
+ incident ()                        medical evaluation or treatment       AICs: Contact AIC source.
+
+ Assist supervisor by providing     Document exposure and gather          Provide AIC health information to
+ information, including source if   evidence for Supervisor’s Report      employee’s physician upon
+ known, for CD1401 and              CD1401                                request.
+ CD1402
+ Seek (or refuse) emergency         For Exposure Incident Involving
+ medical evaluation or              AICs: Provide staff a copy of DOC
+ treatment (provide CD1401)         policy 20.6.7 Attachment A-C and
+                                    CD1401CD1401 prior to staff
+                                    seeking medical treatment
+ Provide name and address of        For Exposure Incident Involving
+ treating physician to Health       Other Persons: Provide staff a copy
+ Services                           of DOC policy 20.6.7 Attachment A-
+                                    D and CD1401 prior to staff seeking
+                                    medical treatment
+ For Exposure Incident Involving    Notify Health Services of incident
+ AICs: If seeking medical           and source, if known
+ treatment, take CD1947 to
+ appointment
+ For Exposure Incident Involving    Complete Supervisor’s Report
+ Other Persons: Follow process      CD1401 and CD1402
+ in Attachment D to petition for
+ medical information
+ Assist or complete Workday         Offer *CISM counseling services to
+ Safety Report                      affected staff
+ Assist or complete Form 801        Complete supervisor’s section of
+                                    Workday Safety Report
+ Return EMSR* to supervisor,        Assist or complete SAIF 801, if
+ HR Manager, or Worker’s            needed
+ Compensation Specialist
+ Assist/Complete SAIF 801
+*EMSR = Employee Medical Status Report
+*CISM = Crisis Incident Stress Management
+
+
+
+
+20.6.7 Bloodborne Pathogens Attachment C                                                     Revised 2/2024
+                                                                                           Attachment D
+
+
+                 FOR EXPOSURE INCIDENTS INVOLVING OTHER PERSONS
+                  (SUCH AS ADULTS ON SUPERVISION, STAFF, VISITORS)
+
+          INSTRUCTIONS FOR FILLING OUT AFFIDAVIT, PETITION, AND ORDER
+                        FOR REQUIRED MEDICAL TESTING
+
+
+As an employee of the Department of Corrections, per ORS 433.085 if you come into
+contact with the blood or other potentially infectious materials of another person(s)
+you may petition the court to have that person tested for HIV and Hepatitis B and C.
+You can ask the judge to order the testing without the source individual even being
+notified or present.
+
+
+STEP 1          PETITION - Fill in the blanks, sign your name and that’s it.
+
+STEP 2          AFFIDAVIT - Fill in the blanks. Describe source individual’s location – such as, is the
+                individual in custody, at home, in the hospital? Be specific.
+
+                Describe how you came into contact with the source individual’s bodily fluids. The
+                exposure needs to be a substantial contact, so be explicit. Discuss the exposure incident
+                with a licensed medical professional and if they agree you need testing include that
+                information in the affidavit (even if you have to call the medically trained individual on
+                the phone and have them agree you need testing).
+
+                Swear to and sign the affidavit in front of a notary public. Once the notary public has
+                signed and placed their seal on the affidavit, attach the affidavit to the petition.
+
+STEP 3          ORDER - Fill in the caption of the order but leave the rest of the page blank for the
+                court to complete.
+
+STEP 4          FILE - File the petition, affidavit, and order with the court. There should be no charge or
+                filing fee imposed. If there is a charge or filing fee imposed, the department will pay or
+                reimburse the employee.
+
+STEP 5          HEARING - The court is to hold an ex parte hearing, in person or by telephone, on the
+                day of receipt of the petition, if possible, or within a reasonable period of time not to
+                exceed three judicial days. If there are no mistakes in the petition and affidavit, the
+                court will sign the order to require the source individual to be tested for HIV and
+                Hepatitis B and C. If the affected individual is a Department of Corrections employee,
+                cost of testing is paid by the Department of Corrections.
+
+STEP 6          SERVICE - If the source individual is in custody, deliver the signed order to the
+                institution or agency that has custody and direct the institution or agency that has
+                custody to deliver a copy of the order to the source individual and arrange for the
+                required testing on your behalf. If the source individual is out of custody, arrange with
+                the local jurisdiction for service of the signed order to the source individual or seek
+                alternative methods of service.
+
+
+
+
+20.6.7 Bloodborne Pathogens Attachment D                                                  Revised 2/2024
+                              Offer/Declination of Hepatitis B Vaccination
+
+
+To:               All Department of Corrections (DOC) Employees
+
+Subject: Hepatitis B Vaccination
+
+The Department of Corrections offers Hepatitis B vaccination to every employee who may be at risk of an
+occupational exposure to blood or other potentially infectious material in accordance with OR-OSHA rules
+regarding blood borne pathogens. The following broad classification of Corrections employees have been
+determined to have a risk of occupational exposure to blood or other potentially infectious material:
+
+         Institution Security              Health Services       Physical Plant
+         Food Service Staff                Education Staff       Recreation Staff
+         Safety Manager                    Staff who do Searches
+
+If specific tasks in your job provide a risk of occupational exposure to blood borne pathogens and you are
+not included in the above classifications, please discuss your concerns with your supervisor immediately
+and arrange to be included in the next vaccination clinic.
+
+The vaccination consists of a series of three inoculations provided by DOC at no cost to DOC employees.
+The vaccine is a synthetic compound in a yeast derivative. It is not a live virus vaccine. The first vaccination
+is given; the second follows 30 days later; the series is ended normally with the third vaccination six
+months from the date of the first. In the future if a booster is recommended by the U.S. Public Health
+Service it also shall be provided at no cost to the employee.
+
+Oregon OSHA and DOC policy require that DOC retains a copy of a form indicating that you accept or
+decline the offer to be vaccinated.
+
+COMPLETE AND CIRCLE YOUR CHOICE BELOW:
+
+ Print Name:                                                           Employee ID No:
+
+ Employee Signature:                                                   Date:
+
+ Functional Unit:
+
+ Please Circle Either 1, (A, B, or C) to Decline or 2, to Accept
+ 1. I DECLINE TO BE VACCINATED BECAUSE:
+     A. I have previously completed or started and intend to complete the HEP B Vaccination elsewhere.
+     B. I understand due to my occupational exposure to blood or other potentially infectious material, I may be
+         at risk of acquiring Hepatitis B virus infection. I have been given the opportunity to receive this vaccination
+         at no cost to myself; however, I decline to be vaccinated at this time. I understand that by declining this
+         vaccine, I continue to be at risk of acquiring Hepatitis B. If in the future I want to be vaccinated, I can
+         receive the vaccination series at no cost to me by notifying my supervisor and requesting to be scheduled
+         for vaccination.
+     C. I do not have a risk of occupational exposure to blood or other potentially infectious materials and decline
+         to be vaccinated.
+ 2. I WANT THE HEPATITIS B VACCINATION OFFERED BY MY EMPLOYER AT NO COST. I ALSO AGREE TO COMPLETE
+     THE VACCINATION SERIES IN THE APPROPRIATE TIME FRAME.
+
+Supervisors: Upload this form to employee’s Workday file.
+
+20.6.7 Bloodborne Pathogens                                                                   CD 1398 (09/23)
+                                 Supervisor’s Report of Employee’s Duties and
+                                       Description of Exposure Incident
+
+Employee name
+Employee job title
+Assigned post
+Location of incident
+Date of incident
+Time of incident
+Source individual, if known
+Description of employee's duties at time of incident.
+
+
+
+
+Description or nature of exposure incident, include route of exposure, sharps involved, etc.
+
+
+
+
+Was this a direct exposure incident (blood or OPIM made direct contact with eye, mouth, other mucous
+membrane, non-intact skin, or penetrated skin)? Please describe fully.
+
+
+
+
+For Exposure Incidents Involving AICs only: The employee was provided the prepared Treating
+Physician Authorization Release of Information letter (CD1947) with institution specific information.
+Yes ☐
+Date
+Name of supervisor completing report
+Signature
+
+
+   20.6.7 Bloodborne Pathogens                                                          CD 1401 (09/23)
+                                  Post-Exposure Follow-Up Checklist
+
+
+Supervisors: The following steps shall be taken and the information transmitted as noted for any
+incident of employee exposure to blood borne pathogens. Copy retained in employee’s working
+personnel file.
+
+Employee Name:                                                       Date of Incident:
+
+
+                               Activity                                          Completion Date
+
+ For Exposure Incidents Involving AICs
+                                                                     Workday incident report #:
+ A.        Supervisor or employee reports incident in Workday
+                                                                     Completion date:
+ B.        Unusual Incident Report (UIR) (CD1676e) completed.
+                                                                     Date provided to employee:
+ C.        Employee provided copies of documentation and
+           information regarding incident and a copy of OR-
+           OSHA (OAR 437, Division 2, Subdivision Z, Toxic and
+           Hazardous Substance, 1910.1030 Blood Borne
+           Pathogens)
+                                                                     Yes _____                 No_____
+ D.        Did employee seek medical attention or treatment?
+                                                                     (Complete below)
+
+           1. If yes, employee completes Report of Job Injury or     Submitted: Yes _____
+              Illness (Form 801) and submits to Worker’s
+              Compensation Specialist.
+
+                                                                     Name of Source Individual(s) and SID#:
+
+
+           2. Source Individual(s): If known; If AIC, include SID#
+
+
+
+                                                                     Yes_____ No_____
+           3. Employee provided the prepared Treating
+              Physician Authorization Release of Information
+              (CD1947) with institution specific information
+              prior to leaving the institution.
+                                                                     Cleared to return to work? Y/N _____
+           4. Post-Exposure Employee Medical Status Report
+              (EMSR/Doctor’s Note)
+
+
+                                                       1
+20.6.7 Bloodborne Pathogens                                                          CD 1402 (2/2024)
+ For Exposure Incidents Involving Other Persons (Such as Adults on Supervision, Staff, Visitors)
+  E. Name of staff to obtain source individual(s) consent of      Name:
+ blood tests.
+                                                                  Date:
+ F. Consent from source individual(s) for blood testing obtained.
+ G. Result of source individual(s) (inmate) blood testing sent    Name:
+ to treating physician by Health Services.
+                                                                  Date:
+
+
+
+
+                                                   2
+20.6.7 Bloodborne Pathogens                                                     CD 1402 (2/2024)
+                           Treating Physician Authorization Release of Information
+
+
+To: Medical professionals treating Oregon Department of Corrections (DOC) employees
+
+From: DOC, ____________________________________________
+                              (Name of location)
+Subject: Authorization to obtain vital health information
+
+
+Dear Treating Physician:
+
+You are being provided this notification because you are treating a DOC employee. Senate Bill 367 (which took
+effect January 1, 2018 and is now law) permits a health care provider to disclose protected health information of
+an adult in custody (AIC) to the physician of a DOC employee who is exposed to the AIC’s bodily fluids, if
+exposure is substantial and the AIC has tested positive for HIV, Hepatitis B or C, or other communicable diseases.
+The purpose of this legal allowance is to help you in your care for DOC staff who may have come into contact
+with bodily fluids while in the workplace.
+
+Be advised that the staff member in your care needs you to call the facility at the following numbers in order to
+receive vital health information on AIC _________________________________________________ (name),
+State Identification Number (SID) _________________. This may help you better treat and or assist the
+individual in your care.
+
+Be advised when calling the numbers below, do so in order and when you speak with of one of our medical
+professionals, please state the following: “I am _______________. I am at ______________ and I am treating a
+staff member from your facility. I am requesting information on adult in custody [name and SID number], so I
+may best treat the staff member.” Depending on the day or the time of day, it may be necessary to call more
+than one of the numbers below. We hope this will not discourage you in your effort to gain vital information
+from our team.
+
+Medical Records ____________________
+
+Medical Services Manager _____________________
+
+Nurse Manager _____________________
+
+Lead Nurse _____________________
+
+   SB 367 allows you to gain important information on the AIC involved in the exposure incident and the reason
+   for the staff member’s visit to you today. Through this law, you are authorized to speak to one of our medical
+   professionals and gain pertinent information about the source individual to help in your treatment of the
+   DOC staff member.
+
+Thank you.
+
+Oregon Department of Corrections
+
+20.6.7 Bloodborne Pathogens                                                              CD 1947 (11/23)
+

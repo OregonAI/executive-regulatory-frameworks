@@ -1,0 +1,684 @@
+group: department-of-corrections-policies
+title: Department of Corrections policies
+kind: content-hash
+recheck: monthly
+last_checked: '2026-07-20'
+upstream_signal: 'Static HTML listing of numbered policy PDFs at https://www.oregon.gov/doc/rules-and-policies/pages/policies.aspx
+  (not a SharePoint list). Freshness: re-fetch the page and diff the PDF-link set; re-hash members.'
+sources:
+- id: doc-10-1-2
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/10-1-2-telecommunications.pdf
+  sha256: e20b774981dfb780219422b1feadea6a47eaf47c40aec3d0813897bac4beb890
+  last_checked: '2026-07-20'
+  notes: Telecommunications (DOC 10.1.2)
+- id: doc-10-1-3
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/10-1-3-forms-control.pdf
+  sha256: e78b36da589ab3723f9459922679b5632b3c58d61bb45c462e0a678d1241bbd9
+  last_checked: '2026-07-20'
+  notes: Forms Control (DOC 10.1.3)
+- id: doc-10-1-4
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/10-1-4-resource-conservation.pdf
+  sha256: 92d35152c3cb68959275f47040a47d7845a5321281b741190abdbe1e0d412a9f
+  last_checked: '2026-07-20'
+  notes: Resource Conservation (DOC 10.1.4)
+- id: doc-10-1-5
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/10-1-5.pdf
+  sha256: 84e3ef361705252652d8a976c17bdeb2c817aea1f3fad4ede1b59ba76a3ef426
+  last_checked: '2026-07-20'
+  notes: Honor Guard (DOC 10.1.5)
+- id: doc-10-1-6
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/10-1-6.pdf
+  sha256: 64e92f524e8fb0c8fcac39248d985802137384605a8e70d944603a39c47eb8ed
+  last_checked: '2026-07-20'
+  notes: Government-to-Government Tribal Relations (DOC 10.1.6)
+- id: doc-10-1-7
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/10-1-7-secure-storage-of-personal-handguns-and-ammunition.pdf
+  sha256: 296fc29262eb702c003da6dc3ce70b23db2abd9dd940305986eebca21ad54916
+  last_checked: '2026-07-20'
+  notes: Secure Storage of Personal Handguns and Ammunition (DOC 10.1.7)
+- id: doc-10-1-8
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/10-1-8.pdf
+  sha256: a0bbe57f472811e54f8e8935d8901e226481eea77ac012678d7c6934f8e70736
+  last_checked: '2026-07-20'
+  notes: Diversity and Inclusion (DOC 10.1.8)
+- id: doc-10-1-9
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/10-1-9.pdf
+  sha256: b2c9dda481c39af7f101253d66c61fb361e0d156c7892e536ed14e0d967d0edb
+  last_checked: '2026-07-20'
+  notes: Public Records Management (DOC 10.1.9)
+- id: doc-10-1-12
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/10-1-12-immigration-and-citizenship.pdf
+  sha256: 33fa62cc43682382ac68dd31a2ca4e5e1cd027689fc782ce99e24292a59715d9
+  last_checked: '2026-07-20'
+  notes: Collection, Maintenance, and (DOC 10.1.12)
+- id: doc-10-2-1
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/10-2-1.pdf
+  sha256: e26a0654d722fccbff1c7bcf323043e6a5b840a88170e10c0e2a225cda9824fe
+  last_checked: '2026-07-20'
+  notes: Internal Audit (DOC 10.2.1)
+- id: doc-10-3-1
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/10-3-1.pdf
+  sha256: 894adc84c205b48c3c32f5e3d43b4c8e984fcfd55a2c4ef47f1572a970b99148
+  last_checked: '2026-07-20'
+  notes: Emergency Management (DOC 10.3.1)
+- id: doc-10-3-2
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/10-3-2.pdf
+  sha256: 00287d64247b564b6aafe6bd1b06c228642e20a5d35c93328f51f8b04c1fb1fd
+  last_checked: '2026-07-20'
+  notes: Bomb Threats/Suspected Bomb Threats/Suspicious Packages (DOC 10.3.2)
+- id: doc-10-3-3
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/10-3-3.pdf
+  sha256: 14377c0a9d71859f726cb9d8a4522bdc523abbe9daed79d1b77014eecca517ed
+  last_checked: '2026-07-20'
+  notes: USE OF NALOXONE NASAL SPRAY (DOC 10.3.3)
+- id: doc-10-4-01
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/10-4-1-directive-development.pdf
+  sha256: e3edf31031d34df8f520eeb7461f2eeb0d76217eec5de01413458e496b665608
+  last_checked: '2026-07-20'
+  notes: Directive Development (DOC 10.4.01)
+- id: doc-10-4-2
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/10-4-2-procedure-development.pdf
+  sha256: b2013241b99af3a6066a8896d3827910df37608ff46769b862dc62fb21851d1e
+  last_checked: '2026-07-20'
+  notes: Procedure Development (DOC 10.4.2)
+- id: doc-20-1-1
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/20-1-1-mission-and-values.pdf
+  sha256: f4e1b45720358848a30cd1804488f746d50f5a93c5ea608a69e5865e98bc0f7c
+  last_checked: '2026-07-20'
+  notes: Department Mission and Values (DOC 20.1.1)
+- id: doc-20-1-2
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/20-1-2-code-of-ethics.pdf
+  sha256: a03f5921c99871263a3cab3f64515dc9d773b02c066e0c17a7bc14c57cb3b579
+  last_checked: '2026-07-20'
+  notes: Code of Ethics (DOC 20.1.2)
+- id: doc-20-1-3
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/20-1-3-code-of-conduct.pdf
+  sha256: fd73b54e10f209d627a85a9711c0fdb817f60db53954279934db64d41aa7c33a
+  last_checked: '2026-07-20'
+  notes: Code of Conduct (DOC 20.1.3)
+- id: doc-20-1-4
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/20-1-4-attachment-federal-gun-control-act-cd-1369.pdf
+  sha256: 214b567f2d4ec00d94ae6179106b4e0b366b47236bc0e891d8d874e26a82c6ce
+  last_checked: '2026-07-20'
+  notes: Act of 1968 (DOC 20.1.4)
+- id: doc-20-1-5
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/20-1-5.pdf
+  sha256: df1259ed38f08a570b397eff1b982ce51e97750642451e44525ba205b7511acb
+  last_checked: '2026-07-20'
+  notes: Essential Functions of DPSST Certifiable (DOC 20.1.5)
+- id: doc-20-1-6
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/20-1-6.pdf
+  sha256: 9087b8db6befe0129dce497cb2122435a2531c6aa77b09a2696086532a177a38
+  last_checked: '2026-07-20'
+  notes: Dress Code (DOC 20.1.6)
+- id: doc-20-1-8
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/20-1-8.pdf
+  sha256: 728b7c8e0702d91ba4fbe788dd2b8788d689f083a72d0eee4201ce39aae37192
+  last_checked: '2026-07-20'
+  notes: Personal Use of Social Media That Impacts (DOC 20.1.8)
+- id: doc-20-1-9
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/20-1-9-email-standards.pdf
+  sha256: f7742e297e7e6b486a150c1fc0186155967dad37ac6fdad91ae2e00f96ccf15f
+  last_checked: '2026-07-20'
+  notes: Email Standards (DOC 20.1.9)
+- id: doc-20-2-2
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/20-2-2-pay-practices-and-differentials.pdf
+  sha256: 26db94e891e6ced87358aaeb409975af1b29dcb1dec65434f4e499cd06f34a3b
+  last_checked: '2026-07-20'
+  notes: Pay Practices and Differentials (DOC 20.2.2)
+- id: doc-20-2-4
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/20-2-4-fair-labor-standards-act.pdf
+  sha256: b7457b72f871c0256f1a2eca8fdaae79515549ec8374819577f7c7e7f3b465d5
+  last_checked: '2026-07-20'
+  notes: Fair Labor Standards Act (DOC 20.2.4)
+- id: doc-20-3-4
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/20-3-4.pdf
+  sha256: 20bc03c21247c6b8ef8b5494dac20ca82a210782480af7f8615c74579261b1d4
+  last_checked: '2026-07-20'
+  notes: 20-3-4.pdf (DOC 20.3.4)
+- id: doc-20-4-2
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/20-4-2.pdf
+  sha256: 20c8c485c22cac1697b39ed3f8c9c41cc7d6164bea3ab185699f7167ca9383da
+  last_checked: '2026-07-20'
+  notes: Applicants for DOC Positions with Prior Criminal Convictions (DOC 20.4.2)
+- id: doc-20-4-14
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/20-4-14.pdf
+  sha256: ebbc2e29f2dfa52fc5519376fcf776e16c81ca8c48f9decfd5765371785e1b50
+  last_checked: '2026-07-20'
+  notes: Hardship Transfer (DOC 20.4.14)
+- id: doc-20-5-2
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/20-5-2.pdf
+  sha256: b21a3c08dd65315c7dd14468832998f859e0019dbe2823ba732271afb46415de
+  last_checked: '2026-07-20'
+  notes: Critical Incident Stress Management (DOC 20.5.2)
+- id: doc-20-5-4
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/20-5-4-recognition-and-awards.pdf
+  sha256: ba1304463eb43a6e3c74fe1dcd345edfdbe7694b600a90c3c12ad606c37e75d2
+  last_checked: '2026-07-20'
+  notes: Recognition and Awards (DOC 20.5.4)
+- id: doc-20-5-11
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/20-5-11.pdf
+  sha256: 02ad4da3ec49b967ac98bf99b82b6300cf34fa1b94ecf64b437996b7acdda3d3
+  last_checked: '2026-07-20'
+  notes: Employee Time Reporting and Payroll Process (DOC 20.5.11)
+- id: doc-20-5-12
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/20-5-12.pdf
+  sha256: 8606341a800d69a7fb2cb42fe036a9b7184b005e8cb309d1aa6b6106ded9fe8f
+  last_checked: '2026-07-20'
+  notes: Maintenance and Access to Employee Records (DOC 20.5.12)
+- id: doc-20-5-13
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/20-5-13-employment%20references.pdf
+  sha256: 50e4d9cbffaddf84a6bb93317a55b86fb68eff1d62bc6c4e9975010709519a55
+  last_checked: '2026-07-20'
+  notes: Employment References (DOC 20.5.13)
+- id: doc-20-5-15
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/20-5-15.pdf
+  sha256: 23379481f1f807097b661cdf7d7d5eeb7f2b0f89e4a8d7bdac78fdfc52eaddf1
+  last_checked: '2026-07-20'
+  notes: Identification Cards (DOC 20.5.15)
+- id: doc-20-5-17
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/20-5-17-injured-worker.pdf
+  sha256: 6cf06ea59927bb21f20f113282cfec837214e1ce054b3a2b4ea912689fc0032d
+  last_checked: '2026-07-20'
+  notes: Injured Workers (DOC 20.5.17)
+- id: doc-20-5-18
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/20-5-18-police-drug-and-alcohol-testing-of-employees.pdf
+  sha256: 15f47547f843d0fc7cfc3f60b712d982ea39a977e629b4ccefd0806aec8ad039
+  last_checked: '2026-07-20'
+  notes: Drug and Alcohol Testing of Employees (DOC 20.5.18)
+- id: doc-20-5-19
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/20-5-19.pdf
+  sha256: 85704ef55d0e24ee23902ead75e9ce6e59243005ccda46d8551e744d529b2ba1
+  last_checked: '2026-07-20'
+  notes: of Employees Having Commercial Drivers (DOC 20.5.19)
+- id: doc-20-5-21
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/20-5-21.pdf
+  sha256: ada554012be15b9f72b08e433edb69b933141779a9ed31f78294e744d7f5ffc6
+  last_checked: '2026-07-20'
+  notes: Strike Contingency Planning (DOC 20.5.21)
+- id: doc-20-5-22
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/20-5-22.pdf
+  sha256: d5de17be485c511b7f587b1b4d4d1c25e52062e1e3eb51b8ed1eafeaa8bf99ac
+  last_checked: '2026-07-20'
+  notes: 20-5-22.pdf (DOC 20.5.22)
+- id: doc-20-5-23
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/20-5-23-cjis-background-clearances.pdf
+  sha256: b3913b4d47d1ba73ea35023328d9c44407fbb9f299c1939c34c26e8e7cdc92bd
+  last_checked: '2026-07-20'
+  notes: CJIS Background Clearances (DOC 20.5.23)
+- id: doc-20-5-24
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/20-5-24-conflict-of-interest-nepotism-and-family-relationships.pdf
+  sha256: ff164284a66bf252e148d355045dd28371227465d7329de195bed725e7472984
+  last_checked: '2026-07-20'
+  notes: Conflicts of Interest, Nepotism, and Familiar Relationships (DOC 20.5.24)
+- id: doc-20-6-2
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/20-6-2.pdf
+  sha256: b1480a4469a7559611b0d23279d6e31ab8976e59774afbb3001f85249a085e71
+  last_checked: '2026-07-20'
+  notes: Drug-Free Workplace (DOC 20.6.2)
+- id: doc-20-6-4
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/20-6-4.pdf
+  sha256: b504b0a1ae7c1cf743346262f5e204595c9a93db22a5510cbd12f7937e8473e0
+  last_checked: '2026-07-20'
+  notes: Safe Employment/Workplace (DOC 20.6.4)
+- id: doc-20-6-5
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/20-6-5.pdf
+  sha256: c4f0166b004c0ba22054f19020a0b8ad6fff27acbe6b84947333e01cf7731521
+  last_checked: '2026-07-20'
+  notes: Safety Committee (DOC 20.6.5)
+- id: doc-20-6-6
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/20-6-6-fire-safety.pdf
+  sha256: 62c21cdb55d69920f378d9f3f187405dbb7993caa11f5bea81e18c78c2120e26
+  last_checked: '2026-07-20'
+  notes: Fire Safety (DOC 20.6.6)
+- id: doc-20-6-7
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/20-6-7-blood-borne-pathogens.pdf
+  sha256: a3b7062d1abc4244f2867b36591bb77acc2a630efc58a0a276f98427e8d15df9
+  last_checked: '2026-07-20'
+  notes: Blood Borne Pathogens (DOC 20.6.7)
+- id: doc-20-6-8
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/20-6-8.pdf
+  sha256: e6a1bd5519475e4bb17f72ee75ffb89aaf3e3bebe5da14db30b3ce2077d05f50
+  last_checked: '2026-07-20'
+  notes: Hazard Communication Program (DOC 20.6.8)
+- id: doc-20-6-9
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/20-6-9.pdf
+  sha256: decaf8b828332ff9d16a8074e174f5c8848d9bd5a97be3d148105886a46e3ef7
+  last_checked: '2026-07-20'
+  notes: Respiratory Protection (DOC 20.6.9)
+- id: doc-20-6-10
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/20-6-10-vehicle-use-and-reporting-of-accidents.pdf
+  sha256: 69bca8f3945bc0c21f5e6ab5004c601ae6ac3fc07ee83b63c526c16b2936cce1
+  last_checked: '2026-07-20'
+  notes: Vehicle Use and Reporting of Accidents (DOC 20.6.10)
+- id: doc-20-6-11
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/20-6-11.pdf
+  sha256: d32ae1e35b163cba9d582669df22eca6aff12c56e279f516c9daede281eb6f3f
+  last_checked: '2026-07-20'
+  notes: Confined Space & Permit Confined Space (DOC 20.6.11)
+- id: doc-20-6-12
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/20-6-12.pdf
+  sha256: d4d67651c8881a0c0f1c2646c585d150e3b061162fc525998dbf63c53fbd6ab4
+  last_checked: '2026-07-20'
+  notes: Control of Hazardous Energy (Lockout/Tagout) (DOC 20.6.12)
+- id: doc-20-6-13
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/20-6-13.pdf
+  sha256: ed9762760b226198ebefb95d98759adfd953e4c85ee383f577297ea37dc5a3f9
+  last_checked: '2026-07-20'
+  notes: Powered Industrial Trucks (DOC 20.6.13)
+- id: doc-20-6-15
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/20-6-15.pdf
+  sha256: 127bd8c3f669db59d288203560e3cb7c04cf3ae8b96e88286eb7bbf83b235379
+  last_checked: '2026-07-20'
+  notes: Personal Protective Equipment (DOC 20.6.15)
+- id: doc-20-6-16
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/20-6-16.pdf
+  sha256: 1032ebe5e598039537bc80ebe9763c58cc185e4053c00f2c13a706e458d47ba2
+  last_checked: '2026-07-20'
+  notes: Automatic External Defibrillator (AED) (DOC 20.6.16)
+- id: doc-20-6-17
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/20-6-17-EAIP-funds.pdf
+  sha256: ff547125665e85102783983057c06856d6b675944d91f8665c910b8e6f3f4f34
+  last_checked: '2026-07-20'
+  notes: EAIP Funds (DOC 20.6.17)
+- id: doc-20-6-18
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/20-6-18.pdf
+  sha256: a96d196a1b9f5e8ba499ddc020bfffa10eb5940dc215d48785be92abbb1cd4d7
+  last_checked: '2026-07-20'
+  notes: Employee Wellness Policy (DOC 20.6.18)
+- id: doc-20-7-1
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/20-7-1.pdf
+  sha256: fa04d6e30885bb0b709da6d155c94f47322a27eff690e0f9a54d01e120f62a04
+  last_checked: '2026-07-20'
+  notes: Professional Development Training (DOC 20.7.1)
+- id: doc-30-1-1
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/30.1.1.accounting.pdf
+  sha256: 92aaf550ace570ecaba8eb6b80d8d88c09467bf7b2a18b175e1ab058660b5db5
+  last_checked: '2026-07-20'
+  notes: Accounting – Control of Funds (DOC 30.1.1)
+- id: doc-30-1-2
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/30-1-2.pdf
+  sha256: c6dcd13f780438d9a8c77aefbc399484d27aa4dd34b50980869909237783d661
+  last_checked: '2026-07-20'
+  notes: Checks, Warrants, and Vouchers (Issuance) (DOC 30.1.2)
+- id: doc-30-1-3
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/30-1-3-receipting-securing-and-depositing-funds.pdf
+  sha256: 54210631dc7645881240d83b5ebb8d899c3ae16099820cbeb2f4cbe79b4d1270
+  last_checked: '2026-07-20'
+  notes: Receipting, Securing, and Depositing Funds (DOC 30.1.3)
+- id: doc-30-1-4
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/30-1-4-expenditure-authority.pdf
+  sha256: df6aff498e7e5470ccdafa9a7e02d034a7aa82963a209b688b9fcef8a0062cb5
+  last_checked: '2026-07-20'
+  notes: Expenditure Authority (DOC 30.1.4)
+- id: doc-30-1-5
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/30-1-5-readoption.pdf
+  sha256: 722a23b7c438ea4afe233e0bca724c1e76c4c79f13c6c372fd11bc82661834ab
+  last_checked: '2026-07-20'
+  notes: Customer Credit Card Payment (DOC 30.1.5)
+- id: doc-30-1-6
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/30-1-6-aic-revenue-generating-activities-and-programs.pdf
+  sha256: bec537e84d6be5f2b8a1cbe82f57e0fc31d5e3c75d4144e4b721bddaf84493bc
+  last_checked: '2026-07-20'
+  notes: 30-1-6-aic-revenue-generating-activities-and-programs.pdf (DOC 30.1.6)
+- id: doc-30-1-7
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/30-1-7-donationspdf.pdf
+  sha256: cd3ea96c5a6b91bdcb27fd023eeed3161d37eafec3a9d86f53f5f65bbc91ae9f
+  last_checked: '2026-07-20'
+  notes: Donations (DOC 30.1.7)
+- id: doc-30-1-9
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/30-1-9.pdf
+  sha256: 31227dd8dff631824ad07358117d6bd754d10101e098419585435ddfc3c23fd3
+  last_checked: '2026-07-20'
+  notes: Learning Entrepreneurship, Arts, and Production (LEAP) (DOC 30.1.9)
+- id: doc-30-2-2
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/30-2-2.pdf
+  sha256: fc10627140a4a1012f5112568ced5155f6e6ffbba9d713f8e550c9ccef83a801
+  last_checked: '2026-07-20'
+  notes: Warehouse Operations (DOC 30.2.2)
+- id: doc-30-2-3
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/30-2-3.pdf
+  sha256: 0bb063d5c747a87a8eda27dbdc2b03878fdf680c7392aac0d05698d3c34b3116
+  last_checked: '2026-07-20'
+  notes: Employee Assigned Assets (DOC 30.2.3)
+- id: doc-30-3-1
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/30-3-1-food-services-operations-procurement.pdf
+  sha256: 5aeb0826cc761a4a06a5f34b1b861a73dd9524a8b058bad9cf638a4fc0b0b949
+  last_checked: '2026-07-20'
+  notes: Food Service Operations Procurement (DOC 30.3.1)
+- id: doc-30-3-2
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/30-3-2.pdf
+  sha256: d83da9bcf10420690545399d72b79b6a7b0905a536e296a31ce389dc3b291a74
+  last_checked: '2026-07-20'
+  notes: The State P-Card of Oregon Transaction (DOC 30.3.2)
+- id: doc-30-3-3
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/30-3-3.pdf
+  sha256: 5d607001036b19fcddcb1e080801e2023a03652397b2eecc2c6dcfd19f31fc0c
+  last_checked: '2026-07-20'
+  notes: Contracts Administration (DOC 30.3.3)
+- id: doc-30-3-4
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/30-3-4-procurement.pdf
+  sha256: 702d7f2806fc96f60e3221adcf1e6af3b01d2934ee3e7147974f592a8e6a05ab
+  last_checked: '2026-07-20'
+  notes: Procurement Policy (DOC 30.3.4)
+- id: doc-30-4-2
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/30-4-2-out-of-state-travel.pdf
+  sha256: 51de5f72a79a64f16f03865c3f64c0f4651a229362cfe60adbb130ed9e3c7c86
+  last_checked: '2026-07-20'
+  notes: Out-of-State Travel Authorization (DOC 30.4.2)
+- id: doc-30-5-1
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/30-5-1.pdf
+  sha256: b39ae7af536c052d6b3433147d5ce4d2f9e84ce783913f0091386ea132d62e84
+  last_checked: '2026-07-20'
+  notes: Fiscal Accountability (DOC 30.5.1)
+- id: doc-30-5-2
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/30-5-2-emergency-board.pdf
+  sha256: fecfd5913e1bc0eea7e00a342e058be790dc35352d8931f6e548be9923e583e0
+  last_checked: '2026-07-20'
+  notes: Committee on Ways and Means Requests (DOC 30.5.2)
+- id: doc-40-1-1
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/40-1-1.pdf
+  sha256: 5916e63620933f69b89c1a0cb17af5398dca42553130a5236221cb6a47c8b35b
+  last_checked: '2026-07-20'
+  notes: Escorting of Inmates (DOC 40.1.1)
+- id: doc-40-1-2
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/40-1-2-keys-and-locks.pdf
+  sha256: abb54b75f1a6f95f848181aba6807fe71a61561babfd9d1931f6b850df02cf4b
+  last_checked: '2026-07-20'
+  notes: Keys and Locks (DOC 40.1.2)
+- id: doc-40-1-3
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/40-1-3-aic-counts.pdf
+  sha256: 5a3971a404b1353136459b04eb62de6d50994f0e6b4bc34ccabae7552234874a
+  last_checked: '2026-07-20'
+  notes: AIC Counts (DOC 40.1.3)
+- id: doc-40-1-4
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/40-1-4.pdf
+  sha256: 573500b76e0ad38e0c88142962cde226c898900eb938b87b6f6f490e4e95e277
+  last_checked: '2026-07-20'
+  notes: Operations Division Security Audits (DOC 40.1.4)
+- id: doc-40-1-6
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/40-1-6.pdf
+  sha256: bdb86d11e5f2e94f07b455b329c464d0586f98aa0e21233d25366da4cec051bb
+  last_checked: '2026-07-20'
+  notes: Unusual Incident Report Process (DOC 40.1.6)
+- id: doc-40-1-7
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/40-1-7.pdf
+  sha256: 7042b6fb592a96e559b2c39f3e1efe32b590c0cc47b3fc98e810e569dfe839a7
+  last_checked: '2026-07-20'
+  notes: Post Orders (DOC 40.1.7)
+- id: doc-40-1-8
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/40-1-8-critical-incident.pdf
+  sha256: 3778658d80dd9a27964023318d6b8aec02452f286ff815532f1ced59368bb535
+  last_checked: '2026-07-20'
+  notes: Critical Incident (DOC 40.1.8)
+- id: doc-40-1-11
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/40-1-11.pdf
+  sha256: b4ea55c43918d37a2c2bcdc16fb81a1125750530c45c09755effa16747fe51f2
+  last_checked: '2026-07-20'
+  notes: Dry Cell Status (DOC 40.1.11)
+- id: doc-40-1-12
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/40-1-12.pdf
+  sha256: 5c207e251add5d3bcbd3db25b8f942996c9c559e067e47c9da13640d6b4be9a6
+  last_checked: '2026-07-20'
+  notes: Conflict Management (DOC 40.1.12)
+- id: doc-40-1-13
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/40-1-13-prea.pdf
+  sha256: 1038929269279fe26e6583ad0592369def84ef1347e9af177ddb392f1d3de30f
+  last_checked: '2026-07-20'
+  notes: Prison Rape Elimination Act (DOC 40.1.13)
+- id: doc-40-1-14
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/40-1-14.pdf
+  sha256: f284112b84b038480565c622ffff000cc981ecb655154fa0175cf2e6d741481f
+  last_checked: '2026-07-20'
+  notes: Planned Use of Force for Inmates Designated at MH3 (DOC 40.1.14)
+- id: doc-40-1-15
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/40-1-15.pdf
+  sha256: 76e5b699621c1ef6c8d24e2a9eb1804995830e542db29318ebce536c4e970237
+  last_checked: '2026-07-20'
+  notes: Cellular Phone Chit System (DOC 40.1.15)
+- id: doc-40-1-17
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/40-1-17.pdf
+  sha256: d46eb386e63aeeb5f4a791ac2f55f0fc320a0ef2597b8e4a54cfc8f0fbadb129
+  last_checked: '2026-07-20'
+  notes: Armory Operations (DOC 40.1.17)
+- id: doc-40-1-18
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/40-1-18.pdf
+  sha256: 473543e125305e8b3a578f9317cc12977fe3be05cc090bd39493b21d56e97e78
+  last_checked: '2026-07-20'
+  notes: Perimeter Security (DOC 40.1.18)
+- id: doc-40-1-19
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/40-1-19.pdf
+  sha256: 6f85dafaae02f0e65e77abb298ef322d4c102100f8af5261e76715d2ffa9c53b
+  last_checked: '2026-07-20'
+  notes: Tool Control (DOC 40.1.19)
+- id: doc-40-2-1
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/40-2-1.pdf
+  sha256: dc8f4c573f82ffa28436153912f93e4b8e03e80828c6f28461965acf59dd43e4
+  last_checked: '2026-07-20'
+  notes: Staff Deployment System (DOC 40.2.1)
+- id: doc-40-2-2
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/40-2-2-officer-of-the-day-selection-criteria-and-training.pdf
+  sha256: 62ee631a3dc83db66c08ac2cb0af25dde26cbab4c50e3e187750ea6cc6e78fa4
+  last_checked: '2026-07-20'
+  notes: Officer-of-the-Day Selection Criteria and Training (DOC 40.2.2)
+- id: doc-40-2-3
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/40-2-3.pdf
+  sha256: d48e895c4f6bf34581d9e9c508e959dd87c90d509761e46369f7c07832d81d1a
+  last_checked: '2026-07-20'
+  notes: Commissary Operations (DOC 40.2.3)
+- id: doc-40-2-4
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/40-2-4.pdf
+  sha256: 3d120494dbf3f54b417b94d4e39f72b0f9a063a096758b329818114f74a427bc
+  last_checked: '2026-07-20'
+  notes: DOC Meal Tickets (DOC 40.2.4)
+- id: doc-40-2-6
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/40-2-6.pdf
+  sha256: 1e86335137d9c78d0aa02cc5b48bdc77310b7743d1ebc53541fa5014d229446f
+  last_checked: '2026-07-20'
+  notes: Management Process (DOC 40.2.6)
+- id: doc-40-2-7
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/40-2-7.pdf
+  sha256: a2263c865579282c1c9274346e9330d3e1e381ee12b79372cb825f890040047f
+  last_checked: '2026-07-20'
+  notes: Determining County of Residence (DOC 40.2.7)
+- id: doc-40-2-10
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/40-2-10.pdf
+  sha256: f5f225cc937c2856f409164b7dc61f0b0a8c4c1408f3cf41cfb811d637bf0785
+  last_checked: '2026-07-20'
+  notes: Consular Notification and Access (DOC 40.2.10)
+- id: doc-40-2-12
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/40-2-12-food-costs.pdf
+  sha256: 008e713656dc855fca061a994062acdb5ece6defeae327b0bdcff3c543975769
+  last_checked: '2026-07-20'
+  notes: Food Cost (Food Service) (DOC 40.2.12)
+- id: doc-40-2-13
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/40.2.13%20combined.pdf
+  sha256: 5c807bc1c9d2e7135de8e45ee68ba57474eb7769fc3cdfa8c02828857140ab24
+  last_checked: '2026-07-20'
+  notes: Discrimination Complaint and (DOC 40.2.13)
+- id: doc-40-2-14
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/40-2-14.pdf
+  sha256: 6a4486fcedbcc076a5f0e20743b1591ba5a5eb205c44675a39631f6a4f0ffcee
+  last_checked: '2026-07-20'
+  notes: Accessibility for Adults in Custody with Disabilities (DOC 40.2.14)
+- id: doc-40-2-15
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/40-2-15-status-letters-for-adults-in-custody.pdf
+  sha256: 2bc0390c5862758005cf0a64128de4d845ab6a2fe9b98e48940642d70b12149c
+  last_checked: '2026-07-20'
+  notes: Status Letters for Adults in Custody (DOC 40.2.15)
+- id: doc-40-3-1
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/40-3-1.pdf
+  sha256: ad430d5895a20136f84e32071c5a1636975899cb1f18b42090235d05438fe4eb
+  last_checked: '2026-07-20'
+  notes: Committee (DOC 40.3.1)
+- id: doc-40-3-2
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/40-3-2.pdf
+  sha256: 94274185b8344cc88907082845a694c8cc390ac6316e4e07ad741ec766b55f49
+  last_checked: '2026-07-20'
+  notes: Capacity Management (DOC 40.3.2)
+- id: doc-40-3-3
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/40-3-3.pdf
+  sha256: 23dfe91da963b5ea9cdb87db60fe0aa9d5cff2107290272a479e58bd8d1b4846
+  last_checked: '2026-07-20'
+  notes: Administrative Housing Placement (DOC 40.3.3)
+- id: doc-40-3-4
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/40-3-4.pdf
+  sha256: 8770f36450b6d967f341c244d6b019955ada0a7ea53f3d3c01c53736439016b0
+  last_checked: '2026-07-20'
+  notes: Interstate Corrections Compact Property (DOC 40.3.4)
+- id: doc-50-1-2
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/50-1-2.pdf
+  sha256: ef1a705526d246ff3970203fc4e3713605a917af1ef23d378027d54d74cefef5
+  last_checked: '2026-07-20'
+  notes: Authorization to Carry Firearms (Parole and Probation Officers) (DOC 50.1.2)
+- id: doc-50-1-3
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/50-1-3.pdf
+  sha256: 4b756ed5ee9068a40e902d881e2bc0af512c916f6e8877e1210d3167e53bebf6
+  last_checked: '2026-07-20'
+  notes: Electronic Control Devices (Parole and Probation Officers) (DOC 50.1.3)
+- id: doc-50-1-4
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/50-1-4.pdf
+  sha256: 33d394645aac6214973c47159f4de8079c9a311b7a1e8017dfa82172fd970a3d
+  last_checked: '2026-07-20'
+  notes: Volunteer Services/ Student Interns (DOC 50.1.4)
+- id: doc-50-1-5
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/50-1-5.pdf
+  sha256: be268f238f90fa5551072aaa875caa81817ccb53632ccd6542260b4dec898221
+  last_checked: '2026-07-20'
+  notes: Critical Incident (DOC 50.1.5)
+- id: doc-50-1-6
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/50.1.6-body-armor.pdf
+  sha256: fc57f55f99afb30a185b9e33f92a804846e79463a1f79cd1be572cdfe6742e87
+  last_checked: '2026-07-20'
+  notes: Body Armor (DOC 50.1.6)
+- id: doc-50-1-7
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/50-1-7.pdf
+  sha256: 9323c8ce2f1ebcf23d370099c8dcbc1cfc7f42963eb12612f0fbc953b8dbe9dc
+  last_checked: '2026-07-20'
+  notes: System (ICOTS) User Administration and (DOC 50.1.7)
+- id: doc-60-1-1
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/60-1-1-acceptable-use-of-information-technology.pdf
+  sha256: d599224f2bbf3bdf88bcdffda28e9ed703b84aa8380a0cf7960ef833fb220dcb
+  last_checked: '2026-07-20'
+  notes: Acceptable Use of Information Technology (DOC 60.1.1)
+- id: doc-60-3-1
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/60-3-1.pdf
+  sha256: 7f15815782b54dcf481fe73520d37ecef48f75f8bccd10b229f8fc633a8e87ed
+  last_checked: '2026-07-20'
+  notes: Information Technology Asset Management (DOC 60.3.1)
+- id: doc-60-3-2
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/60-3-2.pdf
+  sha256: 81b730da88940ba0eaead45d0c1843b5e3ba1df6e0bd4e96b01fad3dfe3e1f52
+  last_checked: '2026-07-20'
+  notes: Removable Media Policy (DOC 60.3.2)
+- id: doc-60-3-3
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/60-3-3-agency-mobile-devices.pdf
+  sha256: 9d2ad752c2e6f416df9f3e7fcb2a516c14723cff4269f7731f460a315d0de75f
+  last_checked: '2026-07-20'
+  notes: Agency Mobile Devices (DOC 60.3.3)
+- id: doc-60-4-1
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/60-4-1.pdf
+  sha256: a67ba2b180a9840967d86f729fd1a288c7fdd16941db79ab1dd9c2ba0a59353b
+  last_checked: '2026-07-20'
+  notes: Electronic Mail, Business Communication Platforms, Internet Usage and Employee Services and SIU
+    IT Investigation Requests (DOC 60.4.1)
+- id: doc-60-6-1
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/60-6-1.pdf
+  sha256: fdd5d0105ff66b0c805dd2900d1499739dd338d1acbc00fa320b31bf509811ab
+  last_checked: '2026-07-20'
+  notes: Information Security Program (DOC 60.6.1)
+- id: doc-60-6-2
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/60-6-2.pdf
+  sha256: 8a94bc4c73f68bc79bb629947069d5d2a84b2784a39bca548f25096b516165a6
+  last_checked: '2026-07-20'
+  notes: Information Security Training and (DOC 60.6.2)
+- id: doc-60-6-3
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/60-6-3.pdf
+  sha256: 91edeb4796c7b137dea0372e0891e0a852c5753ceba788c68a249b98b2832ce8
+  last_checked: '2026-07-20'
+  notes: Information Security Incident Response (DOC 60.6.3)
+- id: doc-60-7-1
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/60-7-1-investment-governance.pdf
+  sha256: 18bdb1271ec49ffcce80ff275c20b1d7c0b59e1f5df879ef43be810cdd8d555c
+  last_checked: '2026-07-20'
+  notes: Information Technology Investment Governance (DOC 60.7.1)
+- id: doc-70-1-1
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/70-1-1-escapes.pdf
+  sha256: e845ab520b5a328440183e9e4ee733e2f61e32eecc5c8e13996a2cf03e70d96b
+  last_checked: '2026-07-20'
+  notes: Escapes (DOC 70.1.1)
+- id: doc-70-1-3
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/70-1-3.pdf
+  sha256: e1c9838d0bc54cc2a9ad3f900ec9cca2da61d0d270affbdd0fd20c3b32cde26e
+  last_checked: '2026-07-20'
+  notes: Criminal & Administrative Evidence Handling (DOC 70.1.3)
+- id: doc-70-1-4
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/70-1-4.pdf
+  sha256: 928795590ed7d27f3d37cb7f054776fb8c143de00462b6d1a4795e938e4c93b6
+  last_checked: '2026-07-20'
+  notes: Investigations (DOC 70.1.4)
+- id: doc-70-1-5
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/70-1-5.pdf
+  sha256: 96ca1bf6a50ab88995202a0981840a56bed18b5c380fc44150fc1f98612dab27
+  last_checked: '2026-07-20'
+  notes: Use of Electronic Surveillance Devices (DOC 70.1.5)
+- id: doc-90-1-1
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/90-1-1-oregon-corrections-plan.pdf
+  sha256: 0bfecea37cf2dc966d487a543304ee5d2ebe150646820379e96b1e653673c94a
+  last_checked: '2026-07-20'
+  notes: Oregon Corrections Plan (DOC 90.1.1)
+- id: doc-90-1-2
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/90-1-2-end-of-life-care.pdf
+  sha256: afd5bf1b405d1f3cbde445447a932ff2df2c4164239e656db1d3eaf756547593
+  last_checked: '2026-07-20'
+  notes: End-Of-Life Care (DOC 90.1.2)
+- id: doc-90-1-3
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/90-1-3.pdf
+  sha256: 41c6d500c67fceeaeb44b77c3430992dd80554ca2dd2c8888949c6595df34f0d
+  last_checked: '2026-07-20'
+  notes: Correctional Case Management (DOC 90.1.3)
+- id: doc-90-1-4
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/90-1-4-treatment-programs.pdf
+  sha256: 3f0608850c9c2b144e36fb1a32ff1f028f7136b282138714d17af7e385cd68f2
+  last_checked: '2026-07-20'
+  notes: Treatment Programs (DOC 90.1.4)
+- id: doc-90-1-5
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/90-1-5-behavioral-change-programs.pdf
+  sha256: e7194111c52183a5e2b91f0b2a5a02abc2a7248882d2d66acd742457bf6a5894
+  last_checked: '2026-07-20'
+  notes: Behavioral Change Programs (DOC 90.1.5)
+- id: doc-90-1-6
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/90-1-6.pdf
+  sha256: 61dc5e8ec374e663491fac895bdd78e983096fb99e8522ff5f2b1a678e9cf4f4
+  last_checked: '2026-07-20'
+  notes: Release Funds (DOC 90.1.6)
+- id: doc-90-2-2
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/90-2-2-search-of-medicine-bags.pdf
+  sha256: cbd0ab6cf0662502ab38e3d298267b5dc29b4f9a8907445c8c59e1fbe89bd689
+  last_checked: '2026-07-20'
+  notes: Searches of Medicine Bags (DOC 90.2.2)
+- id: doc-90-2-3
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/90-2-3.pdf
+  sha256: 2d05ad50ea014bed8dc25f9210c051616335ef7dc6e0dbeb17e06907449133a6
+  last_checked: '2026-07-20'
+  notes: Volunteers to Bring into ODOC (DOC 90.2.3)
+- id: doc-90-2-4
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/90-2-4-religious-property.pdf
+  sha256: 83c166dbd2f7304559e023240d1a3eb276afbe916bfe39dc41974df3095374b2
+  last_checked: '2026-07-20'
+  notes: Religious Property (Inmate) (DOC 90.2.4)
+- id: doc-90-2-5
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/90-2-5.pdf
+  sha256: 1d6e28f35ee1ea02dd96b1cd2c7de3d2161e7c25826ed5f9e4658fa54a1f1291
+  last_checked: '2026-07-20'
+  notes: Christian Science Health Assistance (DOC 90.2.5)
+- id: doc-90-2-6
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/90-2-6.pdf
+  sha256: 39a7aad0f5d049a93d14bde43572464a80c3cdfc3e80b1cfcfcb1299ec5edd18
+  last_checked: '2026-07-20'
+  notes: Volunteer/Student Interns (DOC 90.2.6)
+- id: doc-90-3-1
+  url: https://www.oregon.gov/doc/rules-and-policies/Documents/90-3-1.pdf
+  sha256: 323127e0ade944866c62d78b786fcd4c9104fee3d93b8c1ba34584c5ffbff064
+  last_checked: '2026-07-20'
+  notes: Identification Documents for Adults in Custody (DOC 90.3.1)

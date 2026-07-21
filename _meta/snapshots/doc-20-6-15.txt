@@ -1,0 +1,394 @@
+                           DEPARTMENT OF CORRECTIONS
+                                Human Resources
+
+ Title:         Personal Protective Equipment                DOC Policy: 20.6.15
+ Supersedes: None
+ Applicability: All employees, volunteers, and contract service providers
+ Directive Cross - Reference: OAR437, Division 2, Subdivision I, Personal
+                Protective Equipment (432-002-0120 through 140 and 1910.132
+                through .140, Respiratory Protection, (1910.134) is addressed in
+                DOC Policy 20.6.9)
+
+I.     PURPOSE
+       To ensure that Personal Protective Equipment (PPE) for eyes, face, head,
+       extremities, and/or other body areas, is identified, provided, properly used, and
+       maintained in a safe, sanitary, and reliable condition.
+
+II.    DEFINITIONS
+
+       A.    Affected Employee: An employee who is required to wear PPE to safely
+             perform the duties of his/her job function.
+
+       B.    American National Standards Institute (ANSI): Nonprofit private
+             organization dedicated to the establishment of standards and assessment
+             systems for the safety of workers.
+
+       C.    Hazards: Worksite hazards include but are not limited to, mechanical
+             hazards, chemical hazards, radiological hazards, irritants, electrical
+             hazards, work environment hazards, environmental hazards, and/or any
+             other possible health or safety hazards.
+
+       D.    Job Hazard Analysis (JHA): A walk through survey completed and
+             documented by individuals knowledgeable of the work being performed and
+             knowledgeable of PPE selection for all work areas or sites to determine
+             appropriate PPE to mitigate worksite hazards.
+
+       E.    Personal Protective Equipment (PPE): Equipment designed to protect
+             employees from the risk of injury by creating a barrier against workplace
+             hazards.
+
+III.   POLICY
+
+       A.    Protective equipment shall be provided wherever it is necessary to protect
+             affected employees from the hazards of the work environment, the job
+             process, or work-site configuration. Note: Whenever it is feasible or more
+             cost effective engineering, administrative controls, or good work practices
+             should be used to mitigate worksite hazards, PPE should be used in
+             conjunction with these controls to ensure the safety and health of
+             employees.
+
+
+Effective Date: 08/20/02             1 of 7
+DOC Policy: 20.6.15        Personal Protective Equipment
+
+
+      B.    A written Job Hazard Analysis (JHA) shall be completed for all work areas
+            (Attachment A), including inmate work crew sites, to determine the need for
+            PPE and to help in selecting the proper PPE as related to the work or tasks
+            performed. JHA's that are provided by host agencies and/or businesses
+            may be used if reviewed and are signed off as being complete and adequate
+            for the work being performed.
+
+      C.    General Policy Requirements
+
+            1.    PPE Shall be:
+
+                  a.       Provided by the Department of Corrections. Note: PPE
+                           supplied by a host agency or business (inmate work crews)
+                           shall be approved by the assigned safety manager of the
+                           workcrew unit.
+
+                  b.       Of safe design and construction, and appropriate for the work
+                           to be performed.
+
+                  c.       Stored in designated areas only.
+
+                  d.       Immediately removed from service if defective.
+
+            2.    Employees, visitors, contractors, or others passing through an
+                  identified PPE hazard area shall wear the appropriate PPE.
+
+            3.    Contractors performing work for the Department of Corrections shall
+                  be required to meet or exceed DOC PPE requirements.
+
+            4.    Electricians and/or electrician's helpers, etc., shall use and maintain
+                  the appropriate PPE designed for the type of work being performed.
+
+            5.    Employees who supervise inmates performing jobs or work tasks are
+                  exposed to the same risks of the job and shall wear the appropriate
+                  PPE as determined by the JHA.
+
+            6.    Work Clothes
+
+                  a.       Loose sleeves, ties, lapels, cuffs, or other loose fitting clothes
+                           shall not be worn if they might come in contact with power
+                           driven machines.
+
+                  b.       Wristwatches, rings, earrings, or other jewelry shall not be
+                           worn if they can come in contact with power driven machines
+                           or electrical circuitry.
+
+
+
+Effective Date: 08/20/02              2 of 7
+DOC Policy: 20.6.15        Personal Protective Equipment
+
+            7.    Eye and Face Protection
+
+                  a.       Affected employees shall use appropriate eye or face
+                           protection when exposed to hazards from flying particles,
+                           molten metal, liquid chemicals, acids or caustic liquids,
+                           chemical gases or vapors, or potentially injurious light
+                           radiation.
+
+                  b.       Eye and face protection shall conform to ANSI Z87.1-1989
+                           “American National Standard Practices for Occupational and
+                           Educational Eye and Face Protection.”
+
+                  c.       Safety eye wear and face protection shall have
+                           documentation, e.g., the JHA, and/or labeling to verify
+                           appropriateness for protection against the associated
+                           hazard(s).
+
+            8.    Hand Protection
+
+                  a.       Affected employees shall use the appropriate hand protection
+                           when hands are exposed to hazards such as those from skin
+                           absorption of harmful substances, severe cuts or lacerations,
+                           severe abrasions, punctures, chemical burns, thermal burns,
+                           and harmful temperature extremes.
+
+                  b.       There are no ANSI standards for gloves; therefore, a selection
+                           must be based on the performance characteristics of the
+                           glove in relation to the tasks to be performed.
+
+                  c.       Persons whose hands are exposed to moving parts in which
+                           they could get caught shall not wear gloves.
+
+            9.    Head Protection
+
+                  a.       Affected employees shall wear protective helmets/hardhats
+                           when working in areas where there is the potential for injury
+                           to the head from falling objects or low clearance.
+
+                  b.       Head protection shall conform to ANSI Z89.1-1986 “American
+                           National Standard for Personal Protection – Protective
+                           Headwear for Industrial Workers – Requirements.”
+
+                  c.       Bump hats and/or soft caps may be worn in areas where a
+                           hazard analysis has demonstrated they provide adequate
+                           protection for associated hazards.
+
+            10.   Foot Protection
+
+
+Effective Date: 08/20/02             3 of 7
+DOC Policy: 20.6.15        Personal Protective Equipment
+
+
+                  a.       Employees shall wear protective footwear when working in
+                           areas where there is a danger of foot injuries due to falling or
+                           slipping, rolling objects, objects piercing the sole, and/or
+                           where employees feet are exposed to electrical hazards.
+
+                  b.       Foot protection shall conform to ANSI Z41-1991 “American
+                           National Standard for Personal Protection – Protective
+                           Footwear.”
+
+            11.   Hearing Protection
+
+                  a.       Affected employees shall wear hearing protection when it has
+                           been determined through appropriate testing that hearing
+                           protection is required. Note: If analysis and testing results
+                           indicate that a hearing conservation program is required by
+                           OR-OHSA OAR 437, Division 2, Subdivision G, Occupational
+                           Noise Exposure (1910.95), a hearing conservation program
+                           shall be implemented.
+
+                  b.       Hearing protection shall be worn in posted areas.
+
+            12.   Fall Protection
+
+                  a.       Employees shall be protected from fall hazards when working
+                           on unguarded surfaces more than 10 feet above a lower level
+                           or at any height above dangerous equipment.
+
+                  b.       Lifelines, body belts/harnesses, and lanyards shall only be
+                           used for employee safeguarding.
+
+                  c.       Employees who are required to use fall arrest/protection
+                           systems must be trained on proper techniques.
+
+                  d.       Fall arrest/protection equipment shall be removed from
+                           service if it shows signs of wear, abuse, or has been used in
+                           stopping a person from falling.
+
+                  e.       The point of attachment for lifelines shall be capable of
+                           supporting a minimum dead weight of 5,000 pounds.
+
+                  f.       Personal fall arrest systems shall be rigged so that an
+                           employee can neither free fall more than six feet nor contact
+                           any lower level.
+
+                  g.       Personal fall restraint systems shall be rigged so that an
+                           employee cannot free fall more than two feet.
+
+
+Effective Date: 08/20/02              4 of 7
+DOC Policy: 20.6.15        Personal Protective Equipment
+
+
+                  h.       All lifelines, harnesses, and lanyards shall meet or exceed
+                           current standards for construction.
+
+                  i.       Supervisor shall periodically inspect all fall protection
+                           equipment.
+
+                  j.       Employees shall inspect their harnesses, lifelines, and
+                           lanyards before each day of use.
+
+      D.    All employees shall:
+
+            1.    Follow the requirements of this policy.
+
+            2.    Report to work-sites with identified and proper PPE.
+
+            3.    Wear PPE as required.
+
+            4.    Inspect and test any PPE at the beginning of each shift and
+                  frequently while being worn to ensure its ability to protect from
+                  potential hazards.
+
+            5.    Attend required training sessions.
+
+            6.    Care for, clean, and maintain PPE as required.
+
+            7.    Inform the supervisor of the need to repair or replace PPE.
+
+      E.    Supervisors shall:
+
+            1.    Complete a JHA for all work areas or sites, seeking assistance of the
+                  assigned safety manager if needed. Supervisor will provide copies
+                  of all JHA's to the assigned safety manager.
+
+            2.    Ensure that all employees under their supervision are supplied,
+                  properly fitted, and trained in the proper use, maintenance,
+                  inspection, and care of PPE that is required to safely perform the
+                  duties of their work assignment.
+
+            3.    Ensure that employees demonstrate skills necessary to don, doff,
+                  use, inspect, and maintain assigned PPE.
+
+            4.    Ensure that contractors performing work for the department meet or
+                  exceed the standards as set in this policy.
+
+            5.    Provide safe and proper storage areas for their employees PPE.
+
+
+
+Effective Date: 08/20/02             5 of 7
+DOC Policy: 20.6.15        Personal Protective Equipment
+
+            6.    Notify the assigned safety manager when new hazards are
+                  introduced or when processes are added or changed necessitating
+                  a new or revised JHA.
+
+            7.    Ensure that defective or damaged PPE is immediately replaced.
+
+            8.    Periodically inspect the usage, effectiveness, and maintenance of
+                  PPE furnished to employees.
+
+      F.    Safety Managers shall
+
+            1.    Assist worksite supervisors in the completion of a JHA for all work
+                  areas or sites.
+
+            2.    Maintain current file of JHA's provided by worksite supervisor.
+
+            3.    Annually review, monitor, and audit this standard for compliance and
+                  continual    safety   improvement        and    notify   appropriate
+                  supervisors/managers of any compliance concerns.
+
+            4.    Provide technical assistance to supervisors on the proper use, care,
+                  cleaning and training of approved PPE.
+
+            5.    Provide guidance to supervisors for the selection and purchase of
+                  approved PPE.
+
+            6.    Re-evaluate the suitability of previously selected PPE.
+
+      G.    Training
+
+            1.    Any employee required to wear PPE shall receive training in the
+                  following:
+
+                  a.       When PPE is needed to be worn.
+
+                  b.       What PPE is necessary.
+
+                  c.       How to properly don, doff, adjust, and wear PPE.
+
+                  d.       The limitations of PPE.
+
+                  e.       The proper care, maintenance, inspection procedures, useful
+                           life, and disposal of the PPE.
+
+            2.    Retraining shall be required whenever any of the following situations
+                  occur:
+
+
+
+Effective Date: 08/20/02             6 of 7
+DOC Policy: 20.6.15        Personal Protective Equipment
+
+                   a.      Changes in the workplace render the previous training
+                           obsolete; or
+
+                   b.      Changes in the types of PPE to be used render the previous
+                           training obsolete; or
+
+                   c.      The affected employee’s knowledge or use of assigned PPE
+                           indicate that the employee has not retained the requisite
+                           understanding or skill associated with the assigned PPE.
+
+            3.     All training provided to employees on the proper use, maintenance,
+                   and care of assigned PPE shall be documented. Documentation
+                   shall be maintained by the supervisor with copies forwarded to
+                   Human Resources Training section.
+
+IV.   IMPLEMENTATION
+
+      This policy will be adopted immediately without further modification.
+
+
+
+
+Effective Date: 08/20/02             7 of 7
+                                  DEPARTMENT OF CORRECTIONS Attachment A
+                                     JOB HAZARD ANALYSIS
+ Analysis Conducted by:                                              Date:
+
+ Project Location:                                                   Department:
+ Project or Task:                                                    Host Agency:
+ Equipment and Tool list:
+
+ Job Description:
+                        LIST THE SPECIFIC HAZARD NOTED IN THE BOXES BELOW:
+                        HEAD   EYES/FACE    SKIN   HAND   FOOT    HEARING    OTHER   PPE: (minimum requirement)
+ FALL/TRIP/SLIP
+          Description
+ ENTRAPMENT
+          Description
+ NOISE
+          Description
+ DUST/VAPOR/FUMES
+          Description
+ ABSORPTION
+          Description
+ ELECTRICAL
+          Description
+ CHEMICAL
+          Description
+ WORKING SURFACE
+          Description
+ EQUIPMENT
+          Description
+ EXPOSURE
+          Description
+
+
+          Description
+
+
+
+          Description
+
+
+                                           CHEMICALS AND PRODUCTS
+ CHEMICALS/PRODUCTS BEING USED YES                 NO                         PPE                     MSDS
+                IF YES LIST                               Y   N                                       Y   N
+ 1.
+ 2.
+ 3.
+ 4.
+ 5.
+
+NOTES:
+
+
+
+
+Signature:                                                                   Date:
+
+                                                                                         CD 1414 (8/02)
+

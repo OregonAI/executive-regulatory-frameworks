@@ -1,0 +1,251 @@
+                                  DEPARTMENT OF CORRECTIONS
+                                       Human Resources
+
+                      Automatic External Defibrillator
+ Title:                                                              DOC Policy: 20.6.16
+                      (AED)
+ Effective:           4/21/08                                        Supersedes: None
+ Applicability: All Locations with an Automatic External Defibrillator (AED)
+ Directives Cross-Reference: None
+ Attachments:
+    Daily AID Checklist
+    Monthly / Annual AED Checklist
+
+I.        PURPOSE
+
+          To establish policy for training, use, and care of automated external defibrillator.
+
+II.       DEFINITIONS
+
+          A.     Sudden Cardiac Arrest: is an electrical malfunction of the heart, disrupting the heart
+                 muscle's normal rhythm.
+
+          B.     Automatic External Defibrillator (AED): as used in this policy an AED is a self-testing,
+                 battery-operated automated external defibrillator (AED).
+
+          C.     CPR: the letters in CPR stand for cardiopulmonary resuscitation, a combination of
+                 rescue, breathing (mouth-to-mouth resuscitation), and chest compressions.
+
+          D.     Safety Manager: Local safety person who is responsible for the overall administration
+                 of the Automatic External Defibrillator program—the Automatic External Defibrillator
+                 coordinator will inspect and maintain Automatic External Defibrillator’s per the
+                 manufacturer’s requirements.
+
+          E.     Safety Administrator: DOC safety person who will audit the Automatic External
+                 Defibrillator program at each facility on an annual basis.
+
+
+III.      POLICY
+
+          A.     Safety Manager is overall responsible for administration of the program.
+
+          B.     Overview:
+
+                 An automated external defibrillator (AED) is used to treat victims who experience
+                 sudden cardiac arrest (SCA). An AED is only to be applied to victims who are
+                 unconscious, without a pulse and not breathing. The AED will analyze the heart
+                 rhythm and advise the operator if a shockable rhythm is detected. If a shockable
+                 rhythm is detected, the AED will charge to the appropriate energy level and advise
+                 the operator to deliver a shock.
+C.   AED Coordinator:
+
+     a.     Each location with an AED will appoint an AED Coordinator to ensure that all
+            AED’s are inspected and maintained according to the manufacturer’s
+            requirements.
+
+     b.     AED coordinator is to report to Safety Manager quarterly & report deficiencies
+            immediately to Safety Manager.
+
+D.   Training:
+
+     a.     AED training will only be provided to staff that have successfully completed
+            CPR training.
+
+     b.     Training and curriculum will be provided by the Department’s Professional
+            Development Unit, including Health Services, to all instructors of CPR/1st Aid.
+
+E.   Locations:
+
+     a.     Each facility with an AED shall determine the appropriate physical location to
+            house the unit.
+
+     b.     Each location will establish a procedure for the deployment of an AED.
+
+     c.     Each location will post signage on location and activation process of AED’s.
+
+F.   Safety & Risk Administrator will audit each location annually.
+
+G.   Inspection and Maintenance:
+
+     a.     Inspections will be done according to the AED manufacturer’s written
+            instructions (Daily, Monthly, and Annual inspections).
+
+     b.     Each location that has an AED shall have assigned personnel to ensure that
+            inspections are performed, Daily, Monthly, and Annually.
+
+     c.     Inspection reports will be forwarded to the assigned AED Coordinator for
+            review, noted deficiencies will be corrected.
+
+     d.     Maintenance will be done according to the AED manufacturer’s written
+            instructions.
+
+     e.     Each location that has an AED shall maintain inspection and maintenance
+            records for the life of the unit plus one year.
+
+     f.     Daily check lists will be with Automatic External Defibrillator equipment at all
+            locations within a facility.
+
+
+
+H.   Post Event Procedures:
+
+     a.     The AED Coordinator shall ensure that internal data stored within a used AED
+            is downloaded and stored according to applicable retention statutes.
+             b.      After the use of an AED, the AED Coordinator shall ensure that any and all
+                     replacement parts (such as electrode pads) are ordered immediately.
+
+
+IV.   IMPLEMENTATION
+
+      This policy will be adopted immediately without further modification.
+                                Oregon Department of Corrections
+                                      Daily AED Checklist
+Facility                                                        Unit
+                                             Readiness-for-Use Checklist: AED
+                         Date:______________ Covering Period: _____________ to _____________
+                                      (This checklist covers 1 month of daily checks )
+Institution Location/Identifier: _______________________ Mfr/Model No: __________________ Serial/ID No.
+______________
+At each scheduled time, inspect the AED, using the checklist below. Note any inconsistencies, deficiencies, and corrective action taken.
+If the device is not ready for use or out of service, write OOS on the “day of month” line and note deficiencies in the corrective action log.
+
+ Daily Check:
+                                                                                   Day of Month/Print Name and Initial
+                                                                              1.____________________________________
+ 1.   Visually inspect the AED:
+      a. In proper location
+                                                                              2.____________________________________
+      b. Clean, no spills                                                     3.____________________________________
+      c. No signs of damage.                                                  4.____________________________________
+      d. All readiness-for-use status indicators light,
+          indicates “ready” (green).
+                                                                              5.____________________________________
+      e. If problem identified contact AED Coordinator.                       6.____________________________________
+ With clinical uses also check:                                               7.____________________________________
+                                                                              8.____________________________________
+ 1.   Open AED lid
+      a. Listen for voice prompt.                                             9.____________________________________
+      b. Replace used Electrode pads.                                         10.___________________________________
+      c. Close AED lid                                                        11.___________________________________
+ 2.   Indicator light                                                         12.___________________________________
+      a. All readiness-for-use status              indicators        light,   13.___________________________________
+          indicates “ready” (green)
+                                                                              14.___________________________________
+ 3.   AED cables and connectors
+      a. Observe the expiration date on the electrodes.
+                                                                              15.___________________________________
+      b. Electrodes (ready for use) expiration date is                        16.___________________________________
+         visible.                                                             17.___________________________________
+ 4.   Supplies available                                                      18.___________________________________
+      a. 2 sets of unexpired electrode pads in sealed                         19.___________________________________
+         package.
+      a. Personal protective equipment (gloves, barrier
+                                                                              20.___________________________________
+         device)                                                              21.___________________________________
+      b. Razor                                                                22.___________________________________
+      c. Hand towel or 4x4 to dry patient.
+                                                                              23.___________________________________
+ 5.   AED returned to ready-for-use status.                                   24.___________________________________
+ 6.   Check Battery expiration date.                                          25.___________________________________
+      a. Date ((a) if previously use).                          .             26.___________________________________
+      b. Date ((b) if never used).                               .
+                                                                              27.___________________________________
+ 7.    Number of times used                                     .             28.___________________________________
+ 8.    Number of Shocks delivered                                .
+                                                                              29.___________________________________
+                                                                              30.___________________________________
+ CD1475                                                                       31.___________________________________
+                                                                              Example: 5. October 5, John Jones JJ . Note if used
+                                                                              that day and Number of Shocks delivered
+                                                       Corrective Action Log
+                              Oregon Department of Corrections
+                               Monthly / Annual AED Checklist
+Facility                                                     Unit
+                                          Readiness-for-Use Checklist: AED
+                        Date:______________ Covering Period: _____________ to _____________
+                    (This checklist covers 1 year of monthly checks and includes the annual review and comments)
+Institution Location/Identifier: _________________________ Mfr/Model No:_______________ Serial/ID No.
+_______________
+At each scheduled time, inspect the AED, using the checklist below. Note any inconsistencies, deficiencies, and corrective action taken.
+If the device is not ready for use or out of service, write OOS and note deficiencies in the corrective action log.
+
+ Monthly Checks:                                           Monthly Checks/Number of times used and number of shocks
+ 1.   Were all Daily checks Completed:                                delivered/ and Corrective Action Log
+                                                           January: _______________________________________
+ 2.  Visually inspect the AED:
+                                                           ________________________________________________
+    a. In proper location
+    b Clean, no spills
+                                                           ________________________________________________
+    c. No signs of damage.                                 February: _______________________________________
+    d. All readiness-for-use status indicators             ________________________________________________
+         light, indicates “ready” (green).                 ________________________________________________
+    e. If problem identified contact AED                   March: _________________________________________
+ Coordinator.                                              ________________________________________________
+ 3.   Open AED lid                                         ________________________________________________
+      a. Listen for voice prompts.                         April: __________________________________________
+      b. Close lid and confirm that status                 ________________________________________________
+         indicator light remains green.                    ________________________________________________
+ 4.   AED cables and connectors                            May: ___________________________________________
+      a. Observe the expiration date on the                ________________________________________________
+         electrodes.                                       ________________________________________________
+      b. Electrodes (ready for use) expiration             June: __________________________________________
+         date is visible.                                  ________________________________________________
+ 5.   Indicator light                                      ________________________________________________
+      a. All readiness-for-use status indicators           July: ___________________________________________
+          light, indicates “ready” (green)
+                                                           ________________________________________________
+ 6.   Supplies available                                   ________________________________________________
+      a. 2 sets of unexpired electrode pads in             August: ________________________________________
+         sealed package.                                   ________________________________________________
+      b. Personal protective equipment (gloves,            ________________________________________________
+         barrier device)
+      c. Razor
+                                                           September: _____________________________________
+      d. Hand towel or 4x4 to dry patient.                 ________________________________________________
+                                                           ________________________________________________
+ 7.   AED returned to ready-for-use status.                October: _______________________________________
+ 8.   Check Battery expiration date.                       ________________________________________________
+      a. Date ((a) if previously use).                     ________________________________________________
+ .                                                         November: _____________________________________
+      b.   Date ((b) if never used).                       ________________________________________________
+ .
+                                                           ________________________________________________
+ Annual Checks:                                            December: _____________________________________
+ In addition to the information completed on               ________________________________________________
+ the monthly checks also check:                            ________________________________________________
+ 1.   Were all monthly checks completed                    ANNUAL: ______________________________________
+                                                           ________________________________________________
+ 2. AED cables and
+ connectors
+                                                           ________________________________________________
+                                                           ________________________________________________
+      a.   Remove electrodes, close lid, confirm           ________________________________________________
+           status indicator turns red.                     Date/ Print Name/Initial and describe problems noted:
+      b.   Open lid and confirm the electrode              Example: October 5, 200? John Jones JJ . AED electrode pads
+           indicator is lit, reconnect the electrodes      expired.
+           and close lid.
+    c. Observe the expiration date on the
+electrodes.
+     d. Electrodes (ready for use) expiration
+         date is visible.
+8. Number of times used during the year
+_________
+9. Number of Shocks delivered during year
+_______
+
+
+
+
+                                                CD#1474
+

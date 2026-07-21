@@ -1,0 +1,196 @@
+                                          DEPARTMENT OF CORRECTIONS
+                                              Chief Financial Office
+
+Title:                Contracts Administration                                  DOC Policy: 30.3.3
+Effective:            12/21/22                                                  Supersedes: 04/01/21
+                    All DOC employees responsible for monitoring and approving the performance and
+Applicability:
+                    obligations of DOC contractors and providers.
+Directives Cross-Reference:
+            Statute: ORS 279A.075 and 279A.159
+           Rule:     OAR 125-246, OAR 137-046, OAR 291-026, OAR 291-164 and OAR 291-026
+           Policy: 30.3.4Procurement Policy
+           OAM: 10.40.00
+Attachments:
+             Attachment A: Contract Administrator Roles and Responsibilities
+             Attachment B: Contractor Administrator Responsibility Form
+
+I.       PURPOSE
+         The purpose of this policy is to establish the Department of Corrections (DOC) policy on contract
+         administration. This policy also addresses the requirement to attend contract administration training for
+         those DOC employees responsible for contract administration duties as required by ORS 279A.159.
+
+
+II.      DEFINITIONS
+
+
+           Contract: An agreement between two or more entities which creates an obligation to do or not to
+           do a specified activity. The essentials of a contract are competent parties, subject matter, a legal
+           consideration, mutuality of agreement, and mutuality of obligation. For the purposes of this policy,
+           “contract” means “public contract”.
+
+
+           Contract Administration: All functions related to a given contract between DOC and a contractor
+           from the time the contract is awarded until the work is completed and accepted or the contract is
+           terminated, payment has been made, and disputes have been resolved. Contract administration
+           includes responsibility for amendments and contract close out.
+
+
+           Contract Administrator: A DOC employee who is assigned the duties and responsibilities of
+           providing contract administration, either as a part of the employee’s position description, or as
+           assigned within a particular contract. The Contract Administrator may delegate in writing a portion
+           of the Contract Administrator's responsibilities to a technical representative for specific day-to-day
+           administrative activities for each contract, including communications. Delegating responsibilities
+           does not eliminate responsibility from the Contract Administrator. DOC employees assigned to
+
+
+         Effective: 12/21/22                Page 1 of 5                               Policy 30.3.3
+          monitor contractor performance are technical representatives and not Contract Administrators.
+          Documentation of such delegation should be maintained in the Contract Administrator’s working
+          file.
+
+
+         Contract Administrator Roles and Responsibilities: Attachment A in this policy outlines the
+         responsibilities of contract administration and serves as a reference guide for Contract
+         Administrators.
+
+
+         Contract Administration Training Certificate: A training certificate required for state employees
+         responsible for administering a state contract which can be pulled from the Learning widget in
+         Workday for submission to DPO.
+
+
+         Designated Procurement Officer (DPO): The individual designated and authorized by the Director to
+         perform procurement review and oversight functions and is responsible for all delegated
+         procurement activity on behalf of the agency.
+
+
+         Expenditure Authority: The authority given by an approving officer to expend state funds by review,
+         approval, and signature of a claim of authorization document. Such documents may include
+         purchase requests, invoices, charge or credit card invoices (SPOTS, Voyager, etc.), contract invoice,
+         or other documents that commit state funds.
+
+
+         Price Agreement: A public contract for the procurement of goods or services as a set price with:
+            1. No guarantee of a minimum or maximum purchase; or
+            2. An initial order or minimum purchase combined with a continuing contractor obligation to
+               provide goods or services in which the contracting agency does not guarantee a minimum or
+               maximum additional purchase.
+
+III.   POLICY
+       The agency has the responsibility to maintain the integrity of its programs by applying a high degree of
+       professionalism, integrity, and stewardship towards its activities associated with monitoring the
+       performance and obligations of its contractors and providers.
+
+
+       A. General Provisions:
+
+            1. All Contract Administrators must adhere to Contract Administrator roles and responsibilities
+               (Attachment A).
+            2. The Contract Administrator is responsible for monitoring contract performance and compliance
+               with the contract requirements.
+
+
+       Effective: 12/21/22               Page 2 of 5                                Policy 30.3.3
+    3. The Procurement and Contracts Manager or the DPO is responsible for developing and
+       maintaining policy to ensure effective and efficient contract administration of the agency’s
+       contracts.
+    4. The Procurement and Contracts Manager shall ensure all Contract Administrators complete all
+       required contract administration training as prescribed by Department of Administrative
+       Services (DAS) Procurement Services and DOC Procurement and Contracts Manager prior to
+       taking on any contract responsibilities.
+
+B. Duties and Responsibilities of Contract Administrator:
+
+    1. Manage contract budget.
+         a. The Contract Administrator will work with the Procurement and Contracts Unit to ensure
+              adequate and appropriate encumbrances are made to the initial contract, along with
+              subsequent amendments, within the contract’s module.
+         b. The Contract Administrator will ensure sufficient current biennium funds are available,
+              amending for consideration, when necessary, to safeguard against delay in service or
+              contractual obligation. Although contracts and price agreements may cross biennia,
+              proper budget management is the responsibility of the Contract Administrator.
+    2. Monitor progress of work and ensure contract deliverables are met in accordance with the
+       contract.
+    3. Correct and remedy any problems which may interfere with completion of the work or
+       delivery of goods. This may include, but is not limited to, initiating amendments, exercising
+       termination provisions, or any other provisions or actions required. The Contract
+       Administrator will document in writing all such steps taken.
+    4. Ensure the contractor does not perform services outside the scope and term of the contract.
+    5. Receive and monitor contract expiration notices and take appropriate action.
+    6. Initiate request forms when necessary to amend or extend the contract.
+    7. Ensure invoices meet the requirements specified in the contract and approve for payment as
+       appropriate.
+    8. Monitor expenditures paid against the contract total and ensure DOC payment obligations do
+       not exceed the contract maximum dollar amount.
+    9. Make available for review all contract records associated with the duties and activities
+       provided upon request.
+   10. Contact the contracts staff for assistance related to contractor performance, corrective action
+       remedies, and termination of contract prior to contract or price agreement expiration date.
+   11. Perform contract closeout functions, including but not limited to, assuring that all deliverables
+       and work products have been received, all deliverables have been accepted and approved for
+       payment, and that all issues have been resolved including the return of state property, if any.
+   12. Ensure the contractor is functioning as an independent contractor and not as a state employee.
+   13. Maintain a contract administration working file for each contract as outlined below. Maintain
+       appropriate documentation and administrative practices to effectively manage the contract
+
+
+
+Effective: 12/21/22               Page 3 of 5                               Policy 30.3.3
+          and meet auditing requirements. The Contract Administrator should coordinate closely with
+          the procurement team throughout the life of the contract to ensure the procurement file
+          contains the appropriate contract administration documentation that must be retained
+          according to the procurement method.
+      14. Maintain documentation in accordance with the requirements outlined in Attachment A.
+
+
+C. Training:
+
+       1. DOC employees assigned contract administration duties for a DOC contract are required to
+           obtain the contract administration training certificate as directed in statute.
+       2. Other DOC employees assigned contract administration related duties or who administer a
+           contract shall complete the trainings offered by DAS Procurement Services that apply to their
+           roles and responsibilities with contracts and determined by the Procurement and Contracts
+           Manager.
+       3. Individuals may register for contract administration training administered by DAS Procurement
+           Services on the Workday website.
+
+D. Responsibilities of Managers Who Designate Individuals as Contract Administrators:
+
+      Managers who have authority to bind and obligate the agency through the execution of contracts in
+      accordance with this policy must ensure staff assigned as Contract Administrators have attended
+      contract administration training as prescribed by the DPO.
+
+
+E. Failure to Comply:
+
+       1. The ramifications of failure to obtain the required training or appropriately administer a
+          contract or price agreement could result in over-expenditure of state funds. Negligent or
+          fraudulent expenditures may result in personal financial responsibility or disciplinary action, up
+          to and including dismissal pursuant to OAR 291-026-0050.
+       2. Infraction letters will be issued when procurement rules are violated. While attempts may be
+          made to support, provide additional training, and reset expectations, contract administration
+          is a delegated authority per ORS 279A.075 and the Oregon Accounting Manual 10.40.00
+          Section 109, that can be revoked and reassigned when there are compliance issues.
+
+IV.       IMPLEMENTATION
+This policy will be adopted immediately without further modification.
+
+
+
+
+Effective: 12/21/22                  Page 4 of 5                                Policy 30.3.3
+Certified: __signature on file______________
+Julie Vaughn, Rules Coordinator
+
+
+
+
+Approved: __signature on file_______________
+Heidi Steward, Acting Director
+
+
+
+
+Effective: 12/21/22               Page 5 of 5   Policy 30.3.3
+

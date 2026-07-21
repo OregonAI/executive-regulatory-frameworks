@@ -20,9 +20,22 @@ FURN_RE = re.compile(
 FURN_HINTS = ("page", "oregon accounting manual", "policy no", "statewide policy",
               "level 1, published", "effective:", "reviewed:")
 
+# Per-agency page-furniture patterns (BACKLOG: data, not one ever-growing regex). Each
+# agency's PDFs have their own running header/footer; the shared FURN_RE handles DAS/OAM.
+# A running footer whose page number varies per page ("Effective: 04/14/21  Page 3") is
+# NOT caught by the repeated-identical-line rule below, so agencies with that style need
+# an explicit pattern here. Keyed by registry slug.
+AGENCY_FURNITURE = {
+    "department-of-corrections": [
+        re.compile(r"^Effective:\s*[\d/]+\s+Page\s+\d+"),   # per-page footer
+    ],
+}
 
-def clean_pdf_text(raw: str):
-    """Strip page furniture from pdftotext output. Returns (text, conversion_notes)."""
+
+def clean_pdf_text(raw: str, agency: str | None = None):
+    """Strip page furniture from pdftotext output. Returns (text, conversion_notes).
+    `agency` (registry slug) adds that agency's furniture patterns to the shared ones."""
+    extra = AGENCY_FURNITURE.get(agency or "", ())
     lines = raw.replace("\f", "\n").splitlines()
     counts = Counter(normalize_ws(l) for l in lines if normalize_ws(l))
     stripped = Counter()
@@ -30,7 +43,7 @@ def clean_pdf_text(raw: str):
     for l in lines:
         nl = normalize_ws(l)
         low = nl.lower()
-        if nl and len(nl) < 140 and FURN_RE.search(nl):
+        if nl and len(nl) < 140 and (FURN_RE.search(nl) or any(p.search(nl) for p in extra)):
             stripped[re.sub(r"\d+", "N", nl)[:55]] += 1
             continue
         if nl and counts[nl] >= 3 and len(nl) < 130 and any(h in low for h in FURN_HINTS):
@@ -99,9 +112,9 @@ def build_fulltext(fm: dict) -> tuple:
         return flow_to_lines(sl), ("sliced the document's own text out of the shared snapshot; "
                                    "line breaks inserted at subsection markers (whitespace-only)")
     if snap_id != doc_id:
-        text, notes = clean_pdf_text(sl)
+        text, notes = clean_pdf_text(sl, fm.get("agency"))
         return text, f"slice of the shared snapshot; {notes}"
-    return clean_pdf_text(raw)
+    return clean_pdf_text(raw, fm.get("agency"))
 
 
 def refresh_document(md_path: Path, today: str) -> str:

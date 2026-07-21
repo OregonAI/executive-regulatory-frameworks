@@ -1,0 +1,285 @@
+                                            DEPARTMENT OF CORRECTIONS
+                                               Administrative Services
+
+
+ Title:              Warehouse Operations                                     DOC Policy: 30.2.2
+ Effective:         08/10/23                                                  Supersedes: 07/17/20
+ Applicability:      All functional units
+Directives Cross-Reference:
+                  Rule: 291-016 Facility Access
+                  Rule: 291-061 Food Services ProgramsDOC
+                  Policy 40.1.3 AIC Counts
+Attachments: None
+
+
+I. PURPOSE
+   To establish standardized processes to ensure materials purchased by the Department of Corrections (DOC)
+   are received and inspected by staff at authorized locations and that all warehouse stock commodities are
+   received at, stored in, inventoried at, issued from, and secured by staff at these authorized locations.
+
+II. DEFINITIONS
+
+   A. Adult in Custody (AIC): Any person under the supervision of DOC who is not on parole, probation, or post-
+      prison supervision status.
+
+   B. AIC Packages and Parcels: Items addressed to a specific AIC.
+
+   C. Commodity: A purchased or manufactured good or product.
+
+   D. Controlled Commodities: Items AICs are not authorized to handle unless under direct supervision of
+      staff, as determined by the warehouse manager.
+
+   E. Distribution Services: Functional unit responsible for statewide commissary and warehouse facilities
+      that provide the primary logistics support for the department.
+
+   F. Functional Unit Manager: Any person within DOC who reports to the Director, Deputy Director, an
+      Assistant Director, or an administrator. In a correctional facility, the functional unit manager is the
+      superintendent.
+
+   G. Non-stock Commodities: Items purchased but not carried in the warehouse inventory (i.e., non-expendable
+      property, capital improvement supplies, general maintenance items, and office supplies which are received
+      at a warehouse, then sent directly to the requesting facility or functional unit)..
+
+   H. Purchasing Agent: Staff authorized to buy goods and services for the department.
+
+   I.     Purchase Order: A legally binding document between DOC and a vendor.
+
+   J.     Receiver: A copy of the purchase order.
+
+
+   Effective: 08/10/23                                  Page 1                                Policy 30.2.2
+   K. Warehouse: A facility designed to receive, inspect, store, and issue commodities for use within DOC
+      facilities.
+
+   L. Warehouse Stock: Items inventoried and stored in a warehouse facility that are approved by the
+      Distribution Services Administrator or designee.
+
+
+III. POLICY
+
+       A. General
+
+       1. Commodities purchased by DOC shall be received and inspected by Distribution Services staff at DOC
+          warehouses unless otherwise exempted as noted in section (D) of this policy.
+
+       2. The Distribution Services Administrator is responsible for:
+
+              a. Overseeing standardized processes for receiving and inspecting commodities;
+
+              b. Identifying a list of additional commodities that are exceptions to the standard process;
+
+              c. Overseeing storage, inventory, issues, and security procedures for warehouse operations and
+                 warehouse stock; and
+
+              d. Working with Distribution Services Managers to establish procedures for receipt and inspection
+                 of those materials that are exceptions to the standard process.
+
+       3. Access to warehouse facilities will be authorized and controlled in accordance with the department’s
+          rule on Facility Access (OAR 291-016).
+
+       B. Warehouse Stock Commodities
+
+       1. Ordering: Orders will be entered in the department’s software system through the process outlined
+          in the Distribution Services Product Receiving Procedure.
+
+       2. Delivery and Receiving:
+
+              a. Staff will verify that the bill of lading and the receiver match. If the paperwork doesn’t match, the
+                 driver will be required to provide the correct paperwork before unloading will begin. If the driver
+                 is unable to provide the required paperwork, staff will contact the DOC purchasing agent that
+                 created the purchase order for assistance in acquiring the required paperwork. If the required
+                 paperwork cannot be provided or found, the load will be rejected.
+
+              b. Before any product is offloaded, the staff receiving the product will visually inspect the load to
+                 ensure it is acceptable. The following inspection will be done:
+
+                  I. The load will be checked that it is clean, stacked appropriately, and the pallets are in good
+                     condition;
+
+                  II. Verification will be made that the correct items are on the pallets; and
+
+
+
+   Effective: 08/10/23                                      Page 2                                 Policy 30.2.2
+              III. The temperature of the load is appropriate for the items being delivered (frozen,
+                   refrigerated, or dry).
+
+        c. Once the product is offloaded, staff will follow the Distribution Services Product Receiving
+           Procedure for processing.
+
+              I. If the offloaded product is discovered to be damaged, the receiving staff will take
+                 photographs and send them to the DOC purchasing agent, the Food Services Administrator,
+                 and the Central Distribution Services Warehouse Manager.
+
+              II. The damaged product will not be received into warehouse stock and the vendor will be
+                  notified.
+
+    3. Storage:
+
+        a. Commodities will be stored in compliance with the manufacturer’s specifications.
+
+        b. All warehouse stock commodities will be stored and rotated in compliance with DOC guidelines,
+           state statutes, state health directives, and OSHA guidelines as outlined in the department’s rule
+                                                                 on Food Service Programs (OAR 291- 061).
+
+                  c. Warehouse stock will be maintained at levels necessary to accommodate agency usage
+                                                              requirements and storage space availability.
+
+          d. Stock commodities issued from warehouses will not be returned to the warehouse for storage
+             except in situations involving shipping errors, ordering errors, or special exceptions established
+             to support programs such as fire crews. Other exceptions may be made with approval from the
+                                          local warehouse manager as needed to support agency operations.
+
+               e. Institutional surplus items will not be returned to the warehouse without the Distribution
+              Services Warehouse Manager or designee’s prior approval. Surplus items will be identified and
+                                                      disposed of in compliance with established procedures.
+
+         f.   Warehouses will not be used to store warehouse stock consisting of gases, toxic substances, or
+                                                                                         explosive supplies.
+
+    4. Transfer:
+
+        a. Warehouse stock will be issued upon receipt of a generated requisition initiated by the
+           requesting institution. Distribution Services warehouse staff or designee will fill requisition(s)
+           and prepare the commodities for shipment or pick-up as needed to meet institution
+           operational needs.
+
+        b. The person physically receiving the commodities will sign for the delivered product. Final
+           approval of receipt is subject to count. Discrepancies will be reported to the sending warehouse
+           within 72 hours of delivery and will be reconciled in the inventory system.
+
+        c. Spoilage, defects, or other quality issues relating to received commodities will be reported to
+           the sending warehouse within 72 hours of discovery. These items will be replaced, or their cost
+           will be credited back to the receiving institution.
+
+
+Effective: 08/10/23                                    Page 3                                  Policy 30.2.2
+    5. Security:
+
+        a. Each Distribution Services Warehouse Manager or designee is responsible for the security of
+           their assigned warehouse.
+
+        b. Procedures will be maintained to ensure safe and secure warehouse operations.
+
+        c. Each Distribution Services Warehouse Manager or their designee will implement controls to
+           prevent theft.
+
+        d. All warehouses shall maintain a secure, restricted storage area for controlled commodities in
+           warehouse facilities to prevent AIC access.
+
+        e. Direct supervision of AICs will include random, documented AIC and facility searches during
+           duty hours. Counts will be conducted in accordance with the department’s policy on Inmate
+           Counts (DOC policy 40.1.3).
+
+    6. Inventory: Physical inventories will follow established accounting procedures to ensure accuracy and
+       accountability of warehouse stock commodities.
+
+ C. Non-Stock Commodities Receiving
+
+   1. Before any product is offloaded, the staff receiving the product will visually inspect the load to
+      ensure the load is acceptable. The following inspection will be done:
+
+       a. The load will be checked that it is clean, stacked appropriately, and the pallets are in good condition;
+          and
+
+       b. Verification will be made that the correct items are on the pallets.
+
+   2. Staff will open and inspect all packages for contraband.
+
+   3. The product in the package will be checked against the receiving paperwork and the receiver.
+
+   4. If no paperwork is attached, staff will contact the purchasing agent and request the paperwork to be
+      sent to them from the vendor.
+
+   5. Packages will not be processed without proper paperwork.
+
+ D. Exceptions to the Standard Receiving Process
+
+   1. Commodities that may not be required to be received through an authorized warehouse include:
+
+       a. On-site equipment repairs;
+
+       b. Rental equipment;
+
+       c. Building materials 8 feet or longer in length;
+
+       d. After hours or emergency maintenance supplies necessary for safe and secure facility operation;
+
+Effective: 08/10/23                                   Page 4                                 Policy 30.2.2
+       e. Food to be consumed the same day (bread, dairy, etc.);
+
+       f.   Office supply orders;
+
+       g. Farm supplies;
+
+       h. Bulk gasoline, oil, and other combustibles; or
+
+       i.   Health Services pharmaceuticals and supplies
+
+   2. Weapons, ammunition, and less than lethal munitions are not authorized for receipt at any DOC
+      warehouse. These items must be sent to and received by designated DOC armories only.
+
+ E. Receipt and Transfer of Other Items
+
+   1. DOC warehouses may receive other types of packages or packages for other agencies (i.e., OCE) if
+      authorized by the Distribution Services Administrator or designee to support a legitimate
+      operational need.
+
+   2. AIC packages and parcels will be sent directly from the vendor to the mailroom of the facility where
+      the AIC is housed. AIC-purchased items are not to be sent to or received by DOC warehouses.
+
+   3. Transfers of authorized packages between DOC warehouses and other DOC facilities will be
+      documented by established processes.
+
+ F. Access to Distribution Services Warehouse and Satellite Warehouses
+
+   1. All DOC warehouse facilities will be secured when Distribution Services warehouse staff or designee
+      are not present.
+
+   2. After hours emergency entry to warehouse facilities may be authorized by the Director, Assistant
+      Director of Administrative Services, Distribution Services Administrator, or a warehouse manager or
+      designee. All other access will be during normal operation hours established at each warehouse
+      location.
+
+ G. Storage Authorization
+
+   1. If approved by the Distribution Services Administrator or designee, warehouse space may be
+      utilized to store property or commodities for other sections or agencies as space allows after
+      meeting DOC operational needs.
+
+   2. Items stored for other sections or agencies will not be maintained in the warehouse cycle counts or
+      yearly physical inventory. The sections or agencies storing the material must conduct and maintain
+      their own cycle counts and yearly physical inventory.
+
+   3. Items stored in a Distribution Services warehouse must have a tag on each box with a contact name,
+      phone number, and destruction date.
+
+   4. Items stored in a Distribution Services warehouse must be destroyed by the section or agency in
+
+Effective: 08/10/23                                 Page 5                                 Policy 30.2.2
+           accordance with the destruction date listed on the box tag. Items cannot be stored in the
+           warehouse indefinitely.
+
+      5. The Distribution Services Administrator, in cooperation with the DOC Contracts and Procurements
+         unit, may implement a rental fee agreement for the use of warehouse space.
+
+
+IV. IMPLEMENTATION
+   This policy will be adopted immediately without further modification.
+
+
+
+Certified: _signature on file
+Julie Vaughn, Rules Coordinator
+
+
+
+
+Approved: _signature on file
+Heidi Steward, Acting Director
+
+
+
+
+  Effective: 08/10/23                                   Page 6                                Policy 30.2.2
+

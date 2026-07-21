@@ -1,0 +1,763 @@
+                                      DEPARTMENT OF CORRECTIONS
+                                            Health Services
+
+ Title:               Treatment Programs                               DOC Policy:      90.1.4
+ Effective:           8/1/25                                           Supersedes:      3/29/16
+ Applicability:       All functional units
+ Directives Cross-Reference:
+     Oregon Health Authority - Division 57
+     Alternative Incarceration Programs - Division 62
+     Inmate Communication and Grievance Review System - Division 109
+     Structured, Intermediate Sanctions – Division 58
+     Prohibited Inmate Conduct and Processing Disciplinary Actions – Division 105
+     Correctional Case Management - DOC Policy 90.1.3
+ Attachments:
+     Attachment – Treatment Programs Eligibility and Screening Criteria
+     Form – Notification AIP Failure (CD1691)
+     Form – Notification Non-AIP Failure (CD1690)
+     Form – Program Completion Exception Request (CD1722)
+
+I.        PURPOSE
+
+          The purpose of this policy is to establish guidelines for providing treatment program
+          interventions that are designed to address criminal risk factors and reduce the risk of future
+          criminal behavior.
+
+II.       DEFINITIONS
+
+          A. Alternative Incarceration Program (AIP) Treatment: A highly structured corrections
+             program that includes intensive treatment interventions. The program is a minimum of
+             270 days and consists of a structured institution program and a period of up to 90 days of
+             non-prison leave. Inmates must be statutorily eligible to participate in the program.
+
+          B. Contract Service Providers (CSP): Agencies or individuals under contract with the
+             Department of Corrections (DOC) to provide treatment program services.
+
+          C. Program Designee: The Oregon Department of Corrections (DOC) employee assigned the
+             responsibility for oversight of an institution program that is not provided by a contractor.
+
+          D. Non-Prison Leave: A period of leave not to exceed 90 days preceding an established
+             release date granted to inmates successfully completing the institution phase of an
+             Alternative Incarceration Program. Non-prison leave is designed to provide inmates with
+             transitional opportunities that promote successful reintegration into the community and
+
+
+Effective 8/1/25                                Page 1 of 10                                Policy 90.1.4
+             is granted in accordance with ORS 137.751, ORS 421.510, and the department’s rule on
+             Alternative Incarceration Programs (OAR 291-062).
+
+        E. Short-Term Transitional Leave: A period of leave not to exceed 90 days preceding an
+           established release date designed to provide inmates with transitional opportunities that
+           promote successful reintegration into the community. Short-term transitional leave shall
+           be granted in accordance with ORS 421.168 and the department’s rule on Short-Term
+           Transitional Leave and Emergency Leaves (OAR 291-063).
+
+        F. Texas Christian University (TCU) Drug Screen II: A drug and alcohol assessment used to
+           determine the level of dependency. The assessment translates to a SUBS rating in the
+           Corrections Information System and is used to screen inmates for eligibility and placement
+           into treatment programs.
+
+        G. Treatment Assignment and Screening Committee (TASC): A multidisciplinary team
+           comprised of unit stakeholders in the agency who are responsible for screening and
+           referring inmates to treatment using standard criteria.
+
+        H. Treatment Programs: The department’s treatment programs consist of intensive in-prison
+           alcohol and other drug (A&D) treatment programs. The A&D treatment programs include
+           both outpatient and residential programs which require a minimum number of
+           therapeutic hours depending on the type of intervention provided.
+
+III.    POLICY
+
+        A. Programs Planning, Coordination, and Oversight
+
+             1. The Education, Training, and Treatment Administrator shall have overall responsibility
+                for the planning and coordination of all treatment programs throughout the
+                department, overseeing the work of the unit.
+
+             2. The Education, Training, and Treatment Administrator responsibilities shall include but
+                are not limited to:
+
+                   a. Planning for the department-wide placement of treatment programs;
+
+                   b. Supervising the programs delivery systems through the administering and
+                      monitoring of contracts with contract service providers;
+
+                   c.   Establishing and maintaining eligibility criteria for addictions treatment programs;
+                        and
+
+                   d. Developing prioritization criteria to be followed when demand for programming
+                      exceeds availability.
+
+
+Effective 8/1/25                                  Page 2 of 10                                 Policy 90.1.4
+        B. Program Standards
+
+             Treatment programs shall address a wide range of individual issues including but not
+             limited to motivation and stages of change, criminal thinking errors, relapse, triggers, and
+             anger management and emotional regulation. Programs may emphasize the interference
+             of addiction and criminality with basic life functioning.
+
+             1. All A&D treatment programs shall comply with the requirements outlined in the
+                Oregon Health Authority rule on Standards for Department of Corrections
+                Prison-Based Alcohol and Other Drug Treatment Programs (OAR 415-057).
+
+             2. Treatment programs shall utilize evidence-based curriculum and research-based
+                practices in the delivery of program interventions.
+
+             3. Treatment programs will be designed and implemented with an inmate accountability
+                system including rewards and consequences related to requirement in the program.
+                The social learning environment shall provide inmates with opportunities to practice
+                pro-social skills.
+
+             4. Institutions shall notify the Education, Training, and Treatment Administrator of any
+                interruptions to treatment programs that extend beyond three days (i.e., power
+                outage, weather event, lockdown, etc.). The Education, Training, and Treatment Unit
+                will work with the treatment programs to modify treatment plans as needed.
+
+             5. Treatment programs shall consist of 180 days. Inmates successfully completing the
+                program will receive a certificate of completion from the contract service provider. To
+                extend an inmate beyond the 180-day maximum program, an extension must be
+                requested and approved as outlined in sections F.1. and G.1. for AIP and non-AIP
+                respectively.
+
+             6. Inmates spending less than 180 days in a treatment program, who are identified as
+                successfully completing program requirements, may be granted an exception and
+                receive a certificate of completion. Upon consultation with the contract service
+                provider program manager, the Correctional Rehabilitation Manager, in collaboration
+                with the contract service provider, shall submit a Program Completion Exception
+                Request (CD #1722) to the Education, Training, and Treatment Unit Administrator or
+                designee for approval. This applies to non-AIP only.
+
+             7. Completion of Program: All institutions with treatment programs shall develop and
+                maintain program completion standard criteria.
+
+                   a. Program standards shall be defined in the contract agreements between the
+                      Department of Corrections and the contract service provider.
+
+
+
+Effective 8/1/25                               Page 3 of 10                                 Policy 90.1.4
+                   b. Program standards will be reviewed with each institution correctional
+                      rehabilitation manager by September 1 at the beginning of each biennium.
+
+        C. Program Needs Assessment
+
+             The department shall use evidence-based criminal risk factor assessments, treatment
+             screening tools, as well as a variety of research-based methods to assess an inmate’s
+             program needs for appropriate program placement.
+
+        D. Programs Referrals, Eligibility Screening, and Placement
+
+              1.     Institution counselors shall review case plans using established practices of
+                     effective case management and refer inmates as appropriate to the Treatment
+                     Assignment and Screening Committee (TASC).
+
+              2.     The TASC shall:
+
+                      a.   Include representation from institutions, the Education, Training, and
+                           Treatment Unit, Behavioral Health Services, and Medical Services;
+
+                      b.   Utilize a multidisciplinary team to screen and determine program eligibility
+                           based on established eligibility criteria outlined in Attachment A; and
+
+                      c.   Refer inmates to institutions for treatment and program placement.
+
+              3.     The Office of Population Management shall:
+
+                      a.   Establish and maintain a waiting list for institutions to ensure timely filling of
+                           treatment beds; and
+
+                      b.   Coordinate the transfer of inmates to institutions where the appropriate
+                           treatment program is located.
+
+              4.     Institutions shall prioritize placement of inmates into programs and keep the
+                     Education, Training, and Treatment Unit and Office Population Management
+                     informed of bed vacancies.
+
+        E. Program Refusals from Inmates
+
+             1. Inmates who are offered mandatory or required treatment programs must participate
+                in programming as prescribed in their case plan. Those refusing to participate in a
+                required program shall receive a program failure, which may result in failure to receive
+                earned time credit.
+
+
+
+Effective 8/1/25                                 Page 4 of 10                                   Policy 90.1.4
+             2. Although program refusals generally occur prior to program entry, inmates voluntarily
+                exiting from a required program within the first seven days of entry shall also be
+                considered a program refusal for purposes of program outcome data. However, the
+                program refusal will still result in a program failure and failure to receive earned time
+                credit.
+
+        F. Alternative Incarceration Program (AIP) Extensions, Suspensions, & Removals
+
+             1. AIP Extensions: Two program extensions, up to 30 days each, may be granted to
+                inmates in an AIP.
+
+                   a. First 30-Day Extension
+
+                      A. The contract service provider shall recommend a program extension to the
+                         correctional rehabilitation manager or designee for final approval.
+
+                      B. Within 24 hours of approval of the program extension, the contract service
+                         provider’s program manager or correctional rehabilitation manager shall notify
+                         the Education, Training, and Treatment Administrator via email of an inmate’s
+                         program extension.
+
+                      C. Within two business days of the correctional rehabilitation manager’s or
+                         designee’s program extension approval, the contract service provider’s
+                         program manager or, if the program is not provided by a contractor, the
+                         department program designee, shall complete and send an extension
+                         memorandum to the Correctional Rehabilitation Manager (with copies to the
+                         Education, Training, and Treatment Administrator and institution counselor)
+                         that contains, at a minimum:
+
+                           i.   Inmate’s name;
+                          ii.   Inmate’s SID number;
+                         iii.   Institution;
+                         iv.    Program name;
+                          v.    Inmate’s program entry date;
+                         vi.    Dates and description of significant events leading to the program
+                                extension recommendation; and
+                         vii.   Name and title of department employee approving program extension.
+
+                   b. Second Program Extension
+
+                      A second program extension requires final approval by the Education, Training, and
+                      Treatment Administrator. To request such approval, the contract service provider
+                      program manager (or, if the program is not provided by a contractor, the
+                      department program designee), in collaboration with the correctional
+                      rehabilitation manager, shall prepare a memorandum to the Education, Training,
+
+Effective 8/1/25                                Page 5 of 10                                Policy 90.1.4
+                      and Treatment Administrator recommending a second extension, which shall
+                      include, at a minimum, the following information:
+
+                      A. Inmate’s name;
+                      B. Inmate’s SID number;
+                      C. Institution;
+                      D. Program name;
+                      E. Inmate’s program entry date;
+                      F. Date of first extension; and
+                      G. Dates and description of significant events leading to the second program
+                         extension recommendation.
+
+             2. AIP Suspensions
+
+                   a. Inmates participating in an AIP who become unavailable to substantially
+                      participate in the program (e.g., physical and mental illness, court appearance,
+                      disciplinary segregation) for up to 30 days following placement may be suspended
+                      from the program and be evaluated by the institution correctional rehabilitation
+                      manager to determine continued participation. Under these circumstances,
+                      inmates shall be administratively removed from the program as described in
+                      Section 3.a below.
+
+                   b. Inmates who are reinstated and returned to the program within 30 days of
+                      suspension are required to make up suspension days in order to meet the 180-day
+                      requirement for the in-prison component of AIP.
+
+                   c. Inmates who are not reinstated to the program within 30 days of suspension are
+                      required to restart the program if they reenter at a later date.
+
+             3. AIP Removals
+
+                   a. Administrative Removals
+
+                      Inmates unable to continue participation in their AIP, due to no fault of their own,
+                      (e.g., medical or mental health reasons) may be administratively removed from a
+                      program. An administrative removal shall be determined by the institution
+                      correctional rehabilitation manager in collaboration with the contract service
+                      provider program manager. Administrative removals will not prevent inmates from
+                      future participation in treatment programs.
+
+                   b. AIP Failures
+
+                      A. Inmates may be removed from an AIP based on behavior expectations not
+                         being met by the inmate (e.g., behavior problems, attitude, failure to progress,
+                         and lacking engagement).
+
+Effective 8/1/25                                Page 6 of 10                                 Policy 90.1.4
+                     B. If an inmate must be removed immediately, the removal shall be determined
+                        by the Correctional Rehabilitation Manager, or designee.
+
+                     C. Removal from an AIP constitutes a program failure as recommended by the
+                        contract service provider program manager and upon approval from the
+                        Correctional Rehabilitation Manager and multidisciplinary team.
+
+                     D. The removal must be recommended by the contract service provider and/or
+                        institution counselor, approved by the multidisciplinary team, and the approval
+                        accepted by the Correctional Rehabilitation Manager. The Correctional
+                        Rehabilitation Manager shall notify the Education, Training, and Treatment
+                        Administrator
+
+                     E. Inmates who voluntarily exit (sign out) from an AIP after the first seven days of
+                        participation shall be considered a program failure for the purposes of
+                        outcome data and earned-time eligibility.
+
+        G. Non-AIP Treatment Program Extensions, Suspensions, and Removals
+
+             1. Treatment Program Extensions (Non-AIP)
+
+                   Treatment Program Extensions (Non-AIP): Inmates participating in treatment
+                   programs (non-AIP) who are approved for short-term transitional leave may be
+                   granted 1 program extension of up to 30 days upon a joint recommendation from the
+                   contract service provider program manager and institution correctional rehabilitation
+                   manager. The contract service provider shall recommend a program extension to the
+                   Correctional Rehabilitation Manager or designee for final approval.
+
+                   a. Within 24 hours of approval of the program extension, the contract service
+                      provider or correctional rehabilitation manager shall notify the Education,
+                      Training, and Treatment Administrator via email of an inmate’s program
+                      extension.
+
+                   b. Within two business days of the correctional rehabilitation manager’s or
+                      designee’s program extension approval, the contract service provider’s program
+                      manager or, if the program is not provided by a contractor, the department
+                      designee, shall complete and send an extension memorandum to the Correctional
+                      Rehabilitation Manager (with copies to the Education, Training, and Treatment
+                      Administrator and institution counselor) that contains, at a minimum:
+
+                      A. Inmate’s name;
+                      B. Inmate’s SID number;
+                      C. Institution;
+                      D. Program name;
+
+Effective 8/1/25                                Page 7 of 10                                Policy 90.1.4
+                       E. Inmate’s program entry date;
+                       F. Dates and description of significant events leading to the program extension
+                          recommendation;
+                       G. Name and title of department employee approving program extension.
+
+
+             2. Treatment Program Suspensions (Non-AIP)
+
+                   Treatment Program Suspensions (Non-AIP): Inmates participating in treatment
+                   programs (non-AIP) who become unavailable to substantially participate in the
+                   program (e.g., physical and mental illness, court appearance, disciplinary segregation)
+                   for up to 30 days following placement may be suspended from the program through
+                   an administrative removal and be evaluated by the multidisciplinary team to
+                   determine continued participation. Such an evaluation will occur only if enough time
+                   remains on the inmate’s sentence for completion of the program upon reinstatement.
+                   An extension to the suspension may be made by the functional unit manager, or
+                   designee, on a case-by-case basis.
+
+
+             3. Treatment Program Removals (Non-AIP)
+
+                   a. Administrative Removals (Non-AIP): Inmates unable to continue participation in
+                      their treatment program due to no fault of their own (medical or mental health
+                      reasons, insufficient time left, etc.) may be administratively removed from the
+                      program. An administrative removal shall be determined by the Correctional
+                      Rehabilitation Manager in collaboration with the contract service provider
+                      program manager. The Correctional Rehabilitation Manager shall notify the
+                      Education, Training, and Treatment Administrator via email within 24 hours.
+                      Administrative removals will not prevent inmates from future participation in
+                      treatment change programs.
+
+                   b. Treatment Program Failures (Non-AIP):
+
+                      A. Inmates failing to progress in treatment programs shall be considered a
+                         program failure. Program failures shall be recommended by the contract
+                         service provider program manager to the multidisciplinary team and
+                         correctional rehabilitation manager for final approval.
+
+                      B. The contract service provider shall recommend a program failure to the
+                         correctional rehabilitation manager or designee for final approval.
+
+                      C. Within 24 hours of approval of the program failure, the contract service
+                         provider or Correctional Rehabilitation Manager shall notify the Education,
+                         Training, and Treatment Administrator via email.
+
+
+Effective 8/1/25                                 Page 8 of 10                                Policy 90.1.4
+                      D. Within two business days of the Correctional Rehabilitation Manager’s or
+                         designee’s program failure approval, the contract service provider’s program
+                         manager shall complete and send a program failure memorandum to the
+                         institution correctional rehabilitation manager (with copies to the Education,
+                         Training, and Treatment Administrator and institution counselor) that
+                         contains, at a minimum:
+
+                           i.   Inmate’s name;
+                          ii.   Inmate’s SID number;
+                         iii.   Institution;
+                         iv.    Program name;
+                          v.    Inmate’s program entry date;
+                         vi.    Dates and description of significant events leading to the program failure
+                                recommendation;
+                         vii.   Name and title of department employee approving the program failure.
+
+                   c. Inmates who voluntarily exit (sign out) from a non-AIP treatment program after
+                      the first seven days of participation shall be considered a program failure for the
+                      purposes of outcome data and earned-time eligibility.
+
+
+        H. Program Failure Notification, Grievances, and Administrative Reviews
+
+             1. Treatment Change Program Failure Notification to Inmates
+
+                   a. AIP Failures: Institution counselors shall provide written notification to inmates
+                      upon their removal from an AIP. Institution counselors shall complete the Notice
+                      of Program Removal form CD1691 and present notice to the inmate as soon as
+                      practicable following the program removal.
+
+                   b. Non-AIP Failures: Inmates who receive a program failure from a non-AIP treatment
+                      program will be notified in writing. Institution counselors and contract service
+                      provider program manager or designee shall complete the program removal
+                      notification using CD1690.
+
+             2. Grievances for Treatment Non-AIP Failures: Inmates may file grievances regarding
+                their failure from a non-AIP treatment program in accordance with the department’s
+                rule on Inmate Communication and Grievance Review System (OAR 291-109).
+
+             3. Administrative Reviews for AIP Failures: Inmates may request an administrative review
+                of their failure from an AIP by submitting a written request to the Assistant Director of
+                Offender Management and Rehabilitation in accordance with the department’s rule
+                on Alternative Incarceration Programs (OAR 291-062).
+
+
+Effective 8/1/25                                 Page 9 of 10                                Policy 90.1.4
+        I. Non-Prison Leave and Short-Term Transitional Leave Failures
+
+             Administrative sanctions and interventions may be imposed on inmates who violate AIP
+             non-prison leave or short-term transitional leave. Administrative sanctions and
+             interventions will be imposed in accordance with the department’s rule on Structured,
+             Intermediate Sanctions (OAR 291-058). Additionally, for inmates whose violation of non-
+             prison leave or short-term transitional leave results in their return to prison, a hearing
+             shall be conducted and additional sanctions may occur in accordance with the
+             department’s rule on Prohibited Inmate Conduct and Processing Disciplinary Actions (OAR
+             291-105).
+
+        J. Monitoring and Evaluation of Programs
+
+             The Education, Training, and Treatment Administrator shall be responsible to monitor and
+             evaluate program quality, adherence to evidence-based practices, and contractual
+             compliance of the treatment programs.
+
+IV.     IMPLEMENTATION
+
+        This policy will be adopted immediately without further modification.
+
+
+Certified: ______signature on file_________________
+Julie Vaughn, Rules Coordinator
+
+
+Approved: _____signature on file__________________
+Michael Reese, Director
+
+
+
+
+Effective 8/1/25                              Page 10 of 10                               Policy 90.1.4
+                                                                                                            ATTACHMENT A
+                                                                                            Treatment Programs Eligibility and Screening Criteria
+
+
+                                                                                                                                    Criteria for Screening
+                                          Serves                                                                 Must meet all the screening criteria on at least one line
+                                               Non-                               Treatment
+LOCATION              PROGRAM            AIP   AIP    Intervention   ACRS           Need                                       LS/CMI                                                            WRNA                                                   Notes
+                                         X      X                    ≥ 0.15 a   SUB2/SUB3                                                                                                                                          a
+                                                                                                                                                                                                                                       See Low-ACRS Exception Criteria
+                                                                                                                                                                        Medium/High WRNA score PLUS at least one of the
+                                                                                                                                                                        following identified WRNA needs:
+               Living in Freedom Today                 Outpatient
+CCCM           (LIFT)                                  Treatment                SUB0 or
+                                                                                                                                                                          • ≥4 Antisocial Attitudes
+                                         X      X                    ≥ 0.15 a   No Assessment
+                                                                                                                                                                          • ≥3 Antisocial Friends                                  a
+                                                                                                                                                                                                                                       See Low-ACRS Exception Criteria
+                                                                                                                                                                          • ≥2 Family Conflict
+                                                                                                                                                                          • ≥4 Relationships Difficulty
+                                                                                                                                                                          • ≥6 Substance Abuse History
+                                                                     ≥ 0.15 a   SUB3
+                                                                                                                                                                        1. If overall WRNA score is medium or high and the
+CCCM           Turning Point             X      X      Residential              SUB0                                                                                       Substance Abuse History is identified as a need (≥6),   a
+                                                                                                                                                                                                                                       See Low-ACRS Exception Criteria
+                                                       Treatment     ≥ 0.15 a   SUB2                                                                                       rescore the TCU.
+                                                                                No Assessment                                                                           2. If the rescored TCU results in a ≥3 SUB, meets
+                                                                                                                                                                           screening criteria.
+                                         X      b                    ≥ 0.15 a   SUB2/SUB3
+                                                                                                                                                                                                                                   a
+                                                                                                                                                                                                                                       See Low-ACRS Exception Criteria
+                                         X      b                    ≥ 0.15 a                   1.3 High/Very High Family/Marital (and Domestic Violence Offense)
+               Recovery in Progress                                                                                                                                                                                                b
+                                                       Outpatient                                                                                                                                                                      Priority is AIP placement; non-AIP
+CRCI           (RIP)
+                                         X      b                    ≥ 0.15 a   SUB0 or         1.6 High/Very High Drug and Alcohol
+                                                                                                                                                                                                                                       placements will be reviewed on a case-by-
+                                                       Treatment
+                                         X      b                    ≥ 0.15 a   No Assessment   1.7 High/Very High Procriminal Attitude                                                                                                case basis.
+                                         X      b                    ≥ 0.15 a                   1.8 High/Very High Antisocial Pattern
+
+                                                                     ≥ 0.15 a   SUB3
+
+CRCI           Turning Point                    X      Residential                                                                                                                                                                 a
+                                                                                                                                                                                                                                       See Low-ACRS Exception Criteria
+                                                       Treatment                SUB0
+                                                                                                1. If 1.6 Drug & Alcohol is high or very high, rescore the TCU.
+                                                                     ≥ 0.15 a   SUB2
+                                                                                                2. If the rescored TCU results in a ≥3 SUB, meets screening criteria.
+                                                                                No Assessment
+
+                                                                     ≥ 0.15 a   SUB3
+
+DRCM           Phoenix Program                  X      Residential                                                                                                                                                                 a
+                                                                                                                                                                                                                                       See Low-ACRS Exception Criteria
+                                                       Treatment                SUB0
+                                                                                                1. If 1.6 Drug & Alcohol is high or very high, rescore the TCU.
+                                                                     ≥ 0.15 a   SUB2
+                                                                                                2. If the rescored TCU results in a ≥3 SUB, meets screening criteria.
+                                                                                No Assessment
+
+OSCI           Freedom in Recovery              X      Outpatient    ≥ 0.15 a   SUB2/SUB3                                                                                                                                          a
+                                                                                                                                                                                                                                       See Low-ACRS Exception Criteria
+                                                       Treatment
+                                                                                                                                                                                                                                   a
+                                                                     ≥ 0.15 a   SUB3                                                                                                                                                   See Low-ACRS Exception Criteria
+                                                                                                                                                                                                                                   b
+PRCF           New Directions            X      b      Residential                                                                                                                                                                     Priority is AIP placement; non-AIP
+                                                       Treatment                SUB0                                                                                                                                                   placements will be reviewed on a case-by-
+                                                                                                1. If 1.6 Drug & Alcohol is high or very high, rescore the TCU.
+                                                                     ≥ 0.15 a   SUB2
+                                                                                                2. If the rescored TCU results in a ≥3 SUB, meets screening criteria.
+                                                                                                                                                                                                                                       case basis.
+                                                                                No Assessment
+
+SCI            Turning Point                    X      Outpatient    ≥ 0.15 a   SUB2/SUB3                                                                                                                                          a
+                                                                                                                                                                                                                                       See Low-ACRS Exception Criteria
+                                                       Treatment
+
+                                                                                  See following page for low-ACRS exception criteria and additional information
+
+
+       Programs Policy – Attachment A                                                                                           Page 1                                                                                                                             03/28/16
+a Low-ACRS Exception Criteria that may be Considered
+
+                                                                                                                                                                                                                                Then           Then
+                                If                                 and Overall                                                     and Overall        and the WRNA has one or                                                Eligible for   Eligible for
+ At Least One of the        Inmate               Treatment        LS/CMI Score         and if One of the LS/CMI Domains            WRNA Score           more of the following                                                Residential    Outpatient
+      Following               is…    ACRS          Need               is…                              is…                            is …               Identified needs…                Then do the following…             Treatment      Treatment
+                                                                                     1.7 High/Very High Pro-criminal Attitude                                                                                                                    X
+                                               SUB0 or
+                                               No Assessment
+                                                                 High/Very High      1.8 High/Very High Antisocial Pattern                                                                                                                       X
+                             Male    ≤ 0.14
+                                                                                     1.6 High/Very High Drug & Alcohol                                                             Rescore the TCU and if TCU = 3 or above        X
+                                               SUB2/SUB3         High/Very High                                                                                                                                                   X
+• Repeat DUII
+                                                                                                                                                     ≥4 Antisocial Attitudes                                                                     X
+• Extensive Out-of-
+                                                                                                                                                     ≥3 Antisocial Friends                                                                       X
+  State History                                                                                                                    Medium/High
+                                               SUB0 or
+                                               No Assessment
+                                                                                                                                                     ≥2 Family Conflict                                                                          X
+                            Female   ≤ 0.14
+                                                                                                                                                     ≥4 Relationships Difficulty                                                                 X
+                                                                                                                                   Medium/High       ≥6 Substance Abuse History    Rescore the TCU and if TCU = 3 or above        X
+                                               SUB2/SUB3                                                                           Medium/High                                                                                    X
+                                                                                     1.3 High/Very High Family/Marital                                                                                                                           X
+                                               SUB0 or                               1.7 High/Very High Pro-criminal Attitude                                                                                                                    X
+                                               No Assessment
+                                                                 High/Very High
+                             Male    ≤ 0.14                                          1.8 High/Very High Antisocial Pattern                                                                                                                       X
+                                                                                     1.6 High/Very High Drug & Alcohol                                                             Rescore the TCU and if TCU = 3 or above        X
+                                               SUB2/SUB3         High/Very High                                                                                                                                                   X
+• Assault IV (Domestic
+  Violence)                                                                                                                                          ≥4 Antisocial Attitudes                                                                     X
+                                                                                                                                                     ≥3 Antisocial Friends                                                                       X
+                                               SUB0 or                                                                             Medium/High
+                                               No Assessment
+                                                                                                                                                     ≥2 Family Conflict                                                                          X
+                            Female   ≤ 0.14
+                                                                                                                                                     ≥4 Relationships Difficulty                                                                 X
+                                                                                                                                   Medium/High       ≥6 Substance Abuse History    Rescore the TCU and if TCU = 3 or above        X
+                                               SUB2/SUB3                                                                           Medium/High                                                                                    X
+
+
+
+
+  Notes:                                                                                                 Acronyms:
+   • Inmate with mental health issues may be served on a case-by-case basis as approved by BHS.             ACRS =       Automated Criminal Risk Score at time of TASC review
+   • Inmate scoring 6 or higher on the Static-99 shall be excluded from treatment.                          AIP    =     Alternative Incarceration Program
+   • SUB rating is derived from TCU Drug Screen II assessment.                                              BHS =        Behavioral Health Services
+                                                                                                            WRNA =       Women’s Risk Needs Assessment
+
+
+
+
+    Programs Policy – Attachment A                                                                                               Page 2                                                                                                              03/28/16
+              Oregon                                                   Oregon Department of Corrections
+                                                                    Offender Management and Rehabilitation Division
+                                                                                             2575 Center Street, NE
+                                                                                            Salem, OR 97301-4667
+                Kate Brown, Governor                                                    Telephone: (503) 945-9055
+                                                                                               Fax: (503) 373-1173
+
+
+                                       NOTICE OF NON-AIP FAILURE
+
+Date:         July 25, 2025
+
+To:           Inmate Name, SID # Inmate’s SID
+
+From:         First initial and last name of CRM
+              Select Institution Name
+
+Subject:      Program Failure
+
+
+This memorandum is to notify you of your program failure from the Type out name of the program
+program on select date.
+
+The reason for your program failure is as follows:
+
+      Provide basis for program failure and removal from the AIP.
+
+If you disagree with the program failure decision, you are encouraged to resolve the issue through
+informal communications/kytes. If you are unable to resolve the issue through information
+communications and the program failure is not a direct result of a misconduct report where you were
+found in violation, you are entitled to request a review of the decision by submitting a written
+grievance using the department’s approved inmate grievance form. In accordance with Oregon
+Administrative Rule 291-109-0140, you must submit a grievance form (CD#117) to the institution
+grievance coordinator using the locally established processes for reconsideration of the program
+failure decision.
+
+
+
+
+ First initial and last name of CRM                                         Date
+ Select Institution Name
+
+xc: Superintendent
+    Correctional Rehabilitation Manager
+    Type out name of the program Program Manager
+    Addictions Treatment Services Coordinator
+
+
+
+
+                                                                                            CD 1690 - 05/05/16
+              Oregon                                                   Oregon Department of Corrections
+                                                                    Offender Management and Rehabilitation Division
+                                                                                             2575 Center Street, NE
+                                                                                            Salem, OR 97301-4667
+                Kate Brown, Governor                                                    Telephone: (503) 945-9055
+                                                                                               Fax: (503) 373-1173
+
+
+                                       NOTICE OF AIP FAILURE
+
+Date:         July 25, 2025
+
+To:           Inmate Name, SID # Inmate’s SID
+
+From:         First initial and last name of CRM
+              Select Institution Name
+
+Subject:      Program Failure
+
+
+This memorandum is to notify you of your removal and failure from the Type out name of the AIP
+alternative incarceration program (AIP) on select date.
+
+The reason for your program failure is as follows:
+
+      Provide basis for program failure and removal from the AIP.
+
+Once you have been removed from an AIP as a program failure, you are ineligible to participate in
+another AIP during the same custody cycle. If the program failure is from an addictions AIP, you are
+ineligible to participate in any other alcohol and drug treatment program during the same custody
+cycle (this does not include dual-diagnosis programs).
+
+If you disagree with the program failure decision, you are entitled to request an administrative review
+of the decision in accordance with Oregon Administrative Rule 291-062-0150(6). To request a
+review, please send your written request for administrative review to the Assistant Director of the
+Offender Management and Rehabilitation Division, together with any supporting documentation, to
+the following address:
+
+          Oregon Department of Corrections
+          Assistant Director
+          Offender Management and Rehabilitation
+          2575 Center Street, N.E.
+          Salem, OR 97301
+
+The OMR Division Assistant Director must receive the request within fifteen (15) calendar days of the
+date of this program failure notice.
+
+
+
+
+ First initial and last name of CRM                                         Date
+ Select Institution Name
+
+xc: Superintendent
+    Correctional Rehabilitation Manager
+    Type out name of the AIP Program Manager
+    Addictions Treatment Services Coordinator
+
+
+
+
+                                                                                            CD 1691 - 05/05/16
+            Oregon                                                     Oregon Department of Corrections
+                                                                    Offender Management and Rehabilitation Division
+                                                                                             2575 Center Street, NE
+                                                                                            Salem, OR 97301-4667
+              Kate Brown, Governor                                                      Telephone: (503) 945-9055
+                                                                                               Fax: (503) 373-1173
+
+
+                         PROGRAM COMPLETION EXCEPTION REPORT
+
+Date:        July 25, 2025
+
+To:          Dawnell Meyer, Education, Training, and Treatment Administrator
+             Offender Management and Rehabilitation Division
+
+From:        Correctional Rehabilitation Manager
+             Select Institution Name
+
+Subject:     Program Completion Exception Report
+             Inmate: Inmate Name
+             SID#:   Inmate’s SID
+
+
+
+REQUEST:
+
+Inmate Inmate Name participated in the type in name of program for less than 180 days, yet has
+completed program requirements and demonstrated the necessary behavioral changes to be considered
+a successful program completer. Below is the reason for the shortened treatment duration and the
+specific explanation describing the inmate’s success in the program.
+
+Reason for Shortened Treatment Duration: click here to enter text
+
+Explanation Describing Inmate’s Program Success: click here to enter text
+
+
+
+
+DECISION:
+
+
+  ☐ Approved
+
+  ☐ Denied       Denial Reason:
+
+
+
+  Dawnell Meyer, Administrator                         Date
+  Education, Training, & Treatment Unit
+
+
+
+xc: Addictions Treatment Services Coordinator
+
+
+
+
+                                                                                            CD 1722 - 05/05/16
+

@@ -142,12 +142,15 @@ agencies:
     — check sub-divisions individually.
 - slug: department-of-corrections
   name: Department of Corrections
-  status: candidate_found
+  status: ingested
   url: https://www.oregon.gov/doc/rules-and-policies/pages/policies.aspx
   appears_to_be: '"Departmental Policies" page — dropdown listing of numbered policies (e.g. Policy 60.1.2,
     60.1.6) as individual PDFs, covering operations, security, community corrections, etc. Large, well-structured
     listing.'
   confidence: high
+  verified: 'human-confirmed 2026-07-20: static HTML listing (not SharePoint), ~141 machine-readable
+    policy PDFs; ingested via src/ingest_policies.py into agencies/department-of-corrections/policies/.
+    Source group: _meta/sources/department-of-corrections-policies.yml.'
 - slug: department-of-energy
   name: Department of Energy
   status: not_found

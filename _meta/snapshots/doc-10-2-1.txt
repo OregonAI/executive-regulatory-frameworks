@@ -1,0 +1,412 @@
+                                   DEPARTMENT OF CORRECTIONS
+                                         Administration
+
+ Title:             Internal Audit                                DOC Policy: 10.2.1
+ Effective:         4/27/23                                       Supersedes: 5/1/16
+ Applicability:     All functional units
+ Directives Cross-Reference
+             OAR 125-700 Internal Auditing (DAS)
+ Attachments:
+             Internal Audit Charter
+             Audit Committee Charter
+
+I. PURPOSE
+
+      The purpose of this policy is to establish requirements for Department of Corrections (DOC)
+      Internal Audit function.
+
+
+II. POLICY
+
+   A. DOC will maintain an internal audit function for as long as the agency meets the eligibility
+      requirements set in Department of Administrative Services (DAS) rule 125-700 Internal
+      Auditing.
+
+   B. Internal Audit will comply with rules and standards for internal audit functions in state
+      government set by DAS. The Chief Audit Executive shall, with approval from the Audit
+      Committee:
+
+          1. Select appropriate professional auditing standards to follow in performing audit work.
+
+          2. Develop and periodically update the Internal Audit charter and Audit Committee
+             charter.
+
+          3. Annually, produce a risk assessment of the entire agency and develop an annual plan
+             of audit engagements based on the agency risk assessment.
+
+          4. Perform at least one audit per year and complete an audit related to governance and
+             risk management at least once every five years.
+
+          5. Complete internal and external reviews in accordance with chosen professional
+             auditing standards.
+
+          6. File annual reports with the Department of Administrative Services.
+
+Effective 4/27/23                           Page 1 of 3                                Policy 10.2.1
+   C. The Chief Audit Executive of the Internal Audit function will report administratively to the
+      Director or Deputy Director and report functionally to the Audit Committee.
+
+   D. The DOC Internal Audit Charter attached to this policy is a formal document that defines
+      the purpose, authority, and responsibility of the Internal Audit activity. Final approval of
+      the Internal Audit Charter resides with the DOC Audit Committee. The Internal Audit
+      Charter establishes Internal Audit’s role within the department, including:
+
+       1. Administrative and functional reporting relationships of the DOC Chief Audit
+          Executive;
+
+       2. Authorization of unrestricted access to records, employees, contractors, volunteers,
+          and physical properties relevant to the performance of engagements;
+
+       3. Definition of the nature of assurance services provided;
+
+       4. Provision for independence and objectivity of the Internal Audit function and for the
+          Internal Audit Quality Assurance and Improvement program; and
+
+       5. Recognizing mandatory guidance of professional auditing standards.
+
+   E. The role and function of the DOC Audit Committee shall be stated in a formal, written
+      charter that describes the authority, responsibilities, and structure of the Audit
+      Committee. The charter must be approved and periodically reviewed by the Audit
+      Committee.
+
+       1. Committee members are appointed by and responsible to the DOC Director. The
+          committee members will be composed of the DOC Executive Team and qualified
+          external members as defined in the Audit Committee Charter.
+
+       2. The committee will meet at least four times a year with authority to convene
+          additional meetings as circumstances require. The committee may invite members of
+          management, auditors, or others to attend meetings and provide pertinent
+          information as necessary. The committee may hold private meetings with auditors
+          and executive sessions. Meeting agendas will be prepared and provided in advance to
+          members along with appropriate briefing materials. Minutes will be prepared.
+
+
+III. IMPLEMENTATION
+
+
+
+Certified: _____signature on file_______________
+          Julie Vaughn, Rules Coordinator
+
+Effective 4/27/23                         Page 2 of 3                               Policy 10.2.1
+Approved: _____signature on file________________
+        Heidi Steward, Acting Director
+
+
+
+
+Effective 4/27/23                     Page 3 of 3   Policy 10.2.1
+                   OREGON DEPARTMENT OF CORRECTIONS
+                        INTERNAL AUDIT CHARTER
+
+
+Purpose and Mission
+The purpose of the Oregon Department of Corrections (DOC) Internal Audit unit is to
+provide independent, objective assurance and consulting services designed to add value
+and improve department operations, including Oregon Corrections Enterprises operations.
+The mission of Internal Audit is to enhance and protect organizational value by providing
+independent, risk-based, and objective assurance, advice, and insight. Internal Audit helps
+the department accomplish its objectives by bringing a systematic, disciplined approach to
+evaluate and improve the effectiveness of risk management, control, and governance
+processes.
+
+Standards for the Professional Practice of Internal Auditing
+
+The Internal Audit unit will govern itself by adherence to the mandatory elements of The
+Institute of Internal Auditors’ (IIA) International Professional Practices Framework,
+including the Core Principles for the Professional Practice of Internal Auditing, the Code
+of Ethics, and the International Standards for the Professional Practice of Internal
+Auditing (Standards), and the Definition of Internal Auditing. The Chief Audit Executive
+(CAE) will report periodically to senior management and the DOC Audit Committee
+regarding the Internal Audit unit’s conformance to the IIA’s Code of Ethics and the
+Standards.
+
+Authority
+
+The CAE will report functionally to the Audit Committee and administratively to the
+Director and Deputy Director. To assure the Internal Audit unit has sufficient authority to
+fulfill its duties, the Audit Committee will:
+    • Approve the DOC Internal Audit Charter.
+    • Approve the risk-based internal audit plan.
+    • Receive communications from the CAE on the Internal Audit unit’s performance
+          relative to its plan and other matters.
+    • Make appropriate inquiries of management and the CAE to determine whether
+          there is inappropriate scope or resource limitations
+
+The CAE will have unrestricted access to communicate with and interact directly with the
+Audit Committee.
+
+The CAE and Internal Audit staff are authorized to:
+   • Have unrestricted access to all department functions, records, property, and
+      personnel pertinent to carrying out any engagement, subject to accountability
+      for confidentiality and safeguarding records and information.
+   • Select subjects, determine scopes of work, allocate resources, and apply
+      techniques required to accomplish audit objectives and issue reports.
+   • Obtain the necessary assistance of personnel within the department as well as other
+      specialized services from within or outside the department.
+                                                                                              1
+Independence and Objectivity
+
+The CAE shall ensure that the Internal Audit unit remains free from all conditions that
+threaten the ability of internal auditors to carry out their responsibilities in an unbiased
+manner, including matters of audit selection, scope, procedures, frequency, timing, and
+report content. If the CAE determines that independence or objectivity may be impaired in
+fact or appearance, the details of impairment will be disclosed to appropriate parties.
+
+Internal auditors will maintain an unbiased mental attitude allowing them to perform
+engagements objectively and value their work product and ensuring no quality compromises
+are made and they do not subordinate their judgment on audit matters to others.
+
+Internal auditors will have no direct operational responsibility or authority over any of the
+activities audited. Accordingly, internal auditors will not implement internal controls,
+develop procedures, install systems, prepare records, or engage in any other activity that
+may impair their judgment, including:
+
+   •   Assessing specific operations for which they had responsibility within the previous
+       year.
+   •   Performing any operational duties for the department or Oregon Corrections
+       Enterprises.
+   •   Initiating or approving transactions external to Internal Audit.
+   •   Directing the activities of any DOC employee not employed by Internal Audit,
+       except to the extent such employees have been appropriately assigned to auditing
+       teams or to otherwise assist the internal auditors.
+
+Internal auditors will:
+    • Disclose any impairment of independence or objectivity, in fact or appearance, to
+        appropriate parties.
+    • Exhibit professional objectivity in gathering, evaluating, and communicating
+        information about the activity or process being examined.
+    • Make balanced assessments of all available and relevant facts and circumstances.
+    • Take necessary precautions to avoid being unduly influenced by their own interests
+        or by others in forming judgments.
+
+The CAE will confirm to the Audit Committee, at least annually, the organizational
+independence of the Internal Audit unit.
+
+The CAE will disclose to the Audit Committee any interference and related implications in
+determining the scope of internal auditing, performing work, or communicating results.
+
+Scope of Internal Audit Activities
+
+The scope of internal audit activities encompasses, but is not limited to, objective
+examinations of evidence for the purpose of providing independent assessments to the
+Audit Committee, management, and outside parties on the adequacy and effectiveness of
+                                                                                                2
+governance, risk management, and control processes for the department. Internal
+audit assessments include evaluating whether:
+   • Risks relating to the achievement of the department’s strategic objectives are
+        appropriately identified and managed.
+   • The actions of DOC’s employees and contractors comply with DOC’s rules and
+        policies and applicable laws, regulations, and governance standards.
+   • The outcomes of programs or operations are consistent with established goals
+        and objectives.
+   • Programs or operations are being carried out effectively and efficiently.
+   • Established processes and systems enable compliance with the policies, procedures,
+        laws, and regulations that could significantly impact the department.
+   • Information and the means used to identify, measure, analyze, classify, and report
+        such information are reliable and have integrity.
+   • Resources and assets are acquired economically, used efficiently, and protected
+        adequately.
+
+The CAE will report periodically to senior management and the Audit Committee
+regarding:
+
+   •   The Internal Audit unit’s purpose, authority, and responsibility.
+   •   The Internal Audit unit’s plan and performance relative to its plan.
+   •   The Internal Audit unit’s conformance with the IIA’s Standards and Code of
+       Ethics, and actions plans to address any significant conformance issues.
+   •   Significant risk exposures and control issues, including fraud risks, governance
+       issues, and other matters requiring the attention of, or requested by, the Audit
+       Committee.
+   •   Results of audit engagements or other activities.
+   •   Resource requirements.
+   •   Any response to risk by management that may be unacceptable to the department.
+
+Opportunities for improving the efficiency of governance, risk management, and control
+processes may be identified during engagements. These opportunities will be
+communicated to the appropriate level of management.
+
+In addition to audit engagements, the Internal Audit unit may perform advisory or other
+consulting services, provided the Internal Audit unit does not assume management
+responsibility. The nature and scope of these activities will be agreed upon with senior
+management. These types of services may include, but are not limited to:
+    • Conducting special projects, reviews, or investigations.
+    • Performing research, such as researching best practices.
+    • Providing training on audit related topics, such as internal controls, risk
+        assessment/ or risk management, and ethics.
+    • Providing counsel or advice, such as assessing the adequacy of draft policies or
+        process design.
+    • Participating in a non-voting role on department or statewide committees.
+
+
+
+                                                                                           3
+The CAE also coordinates activities, where possible, and considers relying on the work of
+other internal and external assurance and consulting service providers as needed.
+
+Responsibility
+
+The CAE has the responsibility to:
+   • Submit, at least annually, to senior management and the Audit Committee a risk-
+      based internal audit plan for review and approval.
+   • Communicate to senior management and the Audit Committee the impact of
+      resource limitations on the internal audit plan.
+   • Review and adjust the internal audit plan, as necessary, in response to changes in
+      department programs, operations, systems, risks, and controls.
+   • Communicate to senior management and the Audit Committee any significant
+      interim changes to the internal audit plan.
+   • Ensure each engagement of the internal audit plan is executed, including the
+      establishment of objectives and scope, the assignment of appropriate and
+      adequately supervised resources, the documentation of work programs and testing
+      results, and the communication of engagement results with conclusions and
+      recommendations to appropriate parties.
+   • Follow up on engagement findings and corrective actions, and report periodically
+      to senior management and the Audit Committee any corrective actions not
+      implemented.
+   • Ensure the principles of objectivity, competency, confidentiality, and integrity
+      are applied and upheld.
+   • Ensure the Internal Audit unit collectively possesses or obtains the knowledge,
+      skills, and other competencies needed to meet the requirements of the Internal
+      Audit Charter.
+   • Ensure emerging trends and successful practices in internal auditing are considered.
+   • Establish and ensure adherence to policies and procedures designed to guide the
+      Internal Audit unit.
+   • Assist in the investigation of suspected fraudulent activities within the
+      department and notify management and the Audit Committee of the results.
+
+Quality Assurance and Improvement Program
+
+The Internal Audit unit will maintain a quality assurance and improvement program that
+covers all aspects of the Internal Audit unit. The program will include an evaluation of the
+unit’s conformance with the Standards and an evaluation of whether internal auditors
+apply the IIA’s Code of Ethics. The program will also assess the efficiency and
+effectiveness of the Internal Audit unit and identify opportunities for improvement.
+
+The CAE will communicate to senior management and the Audit Committee on the
+Internal Audit unit’s quality assurance and improvement program, including results of
+internal assessments and external assessments.
+
+
+
+
+                                                                                               4
+                            Audit Committee Charter
+                           Oregon Department of Corrections
+                                        2021
+
+PURPOSE
+
+The purpose of the audit committee is to enhance the quality and independence of the internal
+audit function and assist the Director in fulfilling oversight responsibilities of the Department of
+Corrections (DOC) and Oregon Corrections Enterprises (OCE), including reporting processes,
+the system of internal control, internal and external audits, and monitoring compliance with laws,
+regulations, agency policies, and the code of conduct.
+
+The DOC audit function is made up of Internal Audit staff, the Audit Advisory Committee, and
+the Audit Governance Committee. Staff and committees will maintain free and open
+communication with the DOC Chief Audit Executive, DOC Director, and the Secretary of State
+Audits Division.
+
+AUTHORITY
+
+The mandate for the establishment of the Audit Committee is derived from Oregon Revised
+Statute 184.360 and Oregon Administrative Rule 125-700-0100 through 125-700-0155 which
+govern internal audit functions in Oregon state agencies. The DOC Audit Advisory and
+Governance Committees will meet the requirements set forth in state law and policy, including
+assisting the Chief Audit Executive in the operation of the internal audit function in compliance
+with chosen professional auditing standards.
+
+Charter elements related to structure, committee chair, composition, and committee
+responsibilities will take effect upon the appointment of three external members. Until that time,
+the current Audit Committee will fulfill all listed responsibilities.
+
+STRUCTURE AND COMPOSITION
+
+The Audit Advisory Committee is comprised of the following members appointed by the DOC
+Director:
+
+   •   Members of the DOC Executive Team
+   •   At least 3 external members
+
+Continuance of external Audit Advisory Committee members will be reviewed every two years
+by the DOC Director. Terms for external members must be staggered to avoid full turnover in one
+year.
+
+One member will be appointed Audit Advisory Committee Chair by the DOC Director or Deputy
+Director for a term of two years. The individual responsible for administrative oversight of the
+Chief Audit Executive is exempt from serving as Audit Committee Chair.
+                                                                                                       1
+The Audit Governance Committee is comprised of the external members and two internal members
+of the Audit Committee. Internal members will serve one-year terms and will be appointed by the
+DOC Director or Deputy Director. The Audit Governance Committee will be chaired by one of
+the external members as appointed by the DOC Director or Deputy Director.
+
+The audit committees should collectively possess sufficient knowledge of agency operations,
+internal audit, financial management, and information technology. External members are not staff
+members of DOC or OCE, and do not carry out other activities on behalf of DOC or OCE. At least
+one external member will have audit knowledge and experience.
+
+MEETINGS
+
+The audit committees will attempt to meet four times annually with authority to convene additional
+meetings as circumstances require. The committee may invite others to attend meetings and
+provide pertinent information, as necessary. The Chief Audit Executive will develop meeting
+agendas in consultation with the Director, Deputy Director, or Audit Governance Committee chair.
+Minutes will be recorded by the Chief Audit Executive or Internal Audit staff.
+
+The Audit Governance Committee will convene separately from the Audit Committee. A quorum
+of four members must be present to approve decisions, including at least two external members.
+Decisions and recommendations can also be made electronically. If there is a tie vote, the item will
+be tabled for further discussion.
+
+RESPONSIBILITIES
+
+The Chief Audit Executive will fulfill requirements stated in the DOC Internal Audit Charter
+and will oversee daily operations of the internal audit function per chosen professional auditing
+standards. The Chief Audit Executive will also provide or arrange for orientation and training of
+Audit Committee members on the purpose of the committee, professional auditing standards,
+and other relevant topics.
+
+The Audit Advisory Committee will carry out the following responsibilities:
+   • Receive communications from the Chief Audit Executive and DOC Internal Audit staff
+      on results of audit and consulting engagements, risk assessments, internal and external
+      quality assurance reviews, and the results of other activities;
+   • Provide input to the Chief Audit Executive on the agency-wide risk assessment, audit
+      plan, Internal Audit Charter, Audit Committee Charter, and Internal Audit staffing
+      and resources;
+   • Assess areas of department risk based on internal and external audit reports and establish
+      plans to eliminate or mitigate risk;
+   • Annually review the performance of the Chief Audit Executive and the internal audit
+      function;
+   • Assist the agency in implementing audit recommendations and support the Chief Audit
+      Executive on identified corrective actions; and
+   • Assist Chief Audit Executive in maintaining conformance with professional auditing
+      standards, independence and objectivity of the audit function, and unrestricted
+      access to agency staff, management, data, and records.
+                                                                                                       2
+   •   Review all audit results from external auditors to determine management’s response to
+       audit recommendations
+   •   Review and approve the selection of any independent auditors retained by the DOC for
+       the performance of external audits
+   •   Other duties as necessary to fulfill the stated purpose of the committee and conformance
+       with chosen professional auditing standards
+
+The Audit Governance Committee will carry out the following responsibilities
+   • Review and approve the Internal Audit Charter and Audit Committee Charter at least
+      every 2 years or as needed
+   • Review and approve the annual Agency-Wide Risk Assessment
+   • Review and approve the annual Audit Plan and significant changes to the plan
+
+CONFLICTS OF INTEREST
+It is the responsibility of an Audit Committee member to disclose a conflict of interest, whether
+actual or perceived, to the Committee. Performance of an internal audit in the area of
+responsibility of the Audit Committee member does not inherently constitute a conflict of
+interest.
+
+Approved by a vote of the Audit Committee on 3/5/2021
+
+
+
+
+                                                                                                    3
+

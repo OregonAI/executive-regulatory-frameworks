@@ -34,6 +34,13 @@ OAR_RULE_RE = re.compile(r"\b(\d{3}-\d{3}-\d{4})\b")
 OAR_DIV_RE = re.compile(r"OAR\s+(\d{3}-\d{3})(?!-)")
 DIV_LINK_CAP = 12  # division-level citations link all its rules only if small
 
+# Policy-to-policy cross-references (a policy's own "Directives/References" block naming
+# other agencies' policies). These are `related` edges, not authority `implements`.
+#   DAS Policy: 107-001-015   -> das-107-001-015   (hyphen triple)
+#   (DOC) Policy: 30.2.3      -> doc-30-2-3        (dotted triple, DOC numbering)
+DAS_POL_RE = re.compile(r"DAS Policy:?\s*(\d{3}-\d{3}-\d{3})", re.I)
+DOC_POL_RE = re.compile(r"\bPolicy:?\s*(\d{1,3}\.\d{1,2}\.\d{1,3})\b")
+
 REL_KEYS = ["implements", "implemented_by", "references_external", "related", "supersedes"]
 
 
@@ -104,6 +111,23 @@ def resolve_citations(text, docs, rule_map, div_map, rules_by_div, self_id):
     return out
 
 
+def policy_xrefs(text, docs, self_id):
+    """In-repo policy ids cross-referenced by a policy's directives/references block —
+    `related` edges (not authority). Resolves DAS (hyphen-triple) and DOC (dotted-triple)
+    policy numbers; links only to policies actually in the corpus."""
+    out = set()
+    for num in DAS_POL_RE.findall(text):
+        tid = f"das-{num}"
+        if tid in docs:
+            out.add(tid)
+    for num in DOC_POL_RE.findall(text):
+        tid = "doc-" + num.replace(".", "-")
+        if tid in docs:
+            out.add(tid)
+    out.discard(self_id)
+    return out
+
+
 def rewrite_relationships(path, new_rel):
     """Textually splice the relationships block (between 'relationships:' and 'tags:')."""
     raw = path.read_text()
@@ -157,6 +181,8 @@ def compute(write=False):
             targets = resolve_citations(
                 d["auth"], docs, rule_map, div_map, rules_by_div, did)
             rel[did]["implements"].extend(sorted(targets))
+            if d["fm"]["doc_type"] in ("policy", "procedure"):
+                rel[did]["related"].extend(sorted(policy_xrefs(d["auth"], docs, did)))
 
     # 2) procedure <-> policy naming pairs
     for did, d in docs.items():
