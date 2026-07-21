@@ -4,6 +4,14 @@
 # `mcp_lib --selftest` runs without them. Install only to BUILD the vector index
 # (src/build_embeddings.py) or to SERVE semantic queries.
 numpy
-# Production embedding backend (a small local model, e.g. BAAI/bge-small-en-v1.5).
-# Omit to use the zero-quality `hashing` fallback backend for wiring/tests only.
-sentence-transformers
+# Default production backend: static (model2vec) embeddings — token-vector lookup, no
+# transformer forward pass, so it embeds ~10k texts/sec on CPU (a transformer manages
+# ~1-2/sec at this text length). Retrieval quality is lower than a transformer but clearly
+# separates related from unrelated concepts, which is what the vector arm of hybrid search
+# needs. Default model: minishlab/potion-retrieval-32M.
+model2vec
+# Optional higher-quality transformer backend (--backend sentence-transformers), practical
+# only with a GPU or a small corpus; far too slow for a large corpus on CPU. torch must
+# come from the CPU wheel index:
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+# sentence-transformers
