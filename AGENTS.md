@@ -178,12 +178,17 @@ add a hand-authored relationship if the document really has no in-repo authority
 
 ## MCP server
 
-`src/mcp_server.py` serves this corpus over MCP (stdio or `--http`): full-text
-search (SQLite FTS5), `get_document` with provenance, citation resolution incl. OAR
-renumbering, and authority-chain traversal over `_meta/graph.json`. Setup, tool
-reference, and deploy notes: [docs/mcp.md](docs/mcp.md). The query engine
-(`src/mcp_lib.py`) is stdlib-only and CI-tested (`--selftest`); its FTS cache lives
-in `_meta/.cache/` (gitignored) and rebuilds automatically when the repo changes.
+`src/mcp_server.py` serves this corpus over MCP (stdio or `--http`): search
+(`search_corpus`, `mode` = hybrid/keyword/semantic), `get_document` with provenance,
+citation resolution incl. OAR renumbering, and authority-chain traversal over
+`_meta/graph.json`. Setup, tool reference, and deploy notes: [docs/mcp.md](docs/mcp.md).
+The query engine (`src/mcp_lib.py`) is stdlib-only and CI-tested (`--selftest`); its FTS
+cache lives in `_meta/.cache/` (gitignored) and rebuilds automatically when the repo
+changes. Semantic/vector search is optional and additive: it uses a committed int8 vector
+index under `_meta/embeddings/` (built offline by `src/build_embeddings.py`, refreshed
+after ingests, CI-gated by `--check`) and the extras in `requirements-embeddings.txt`
+(numpy + a local embedding model); when those are absent the engine transparently falls
+back to keyword-only, so the stdlib guarantee holds. Never hand-edit the vector artifact.
 
 ## Validation commands
 
@@ -192,5 +197,11 @@ python3 src/validate_frontmatter.py   # schema + relationship-graph check, all c
 python3 src/verify_provenance.py      # snapshot hash + full-text containment/coverage
 python3 src/detect_changes.py         # re-fetch manifest URLs, report hash drift
 ```
+
+At corpus scale both validators support `--changed [ref]` (verify only files in the git
+diff vs `ref`, default merge-base with `origin/main`) and `-j N` (parallel workers,
+default all CPUs). CI uses `--changed` on PRs and the full corpus on push-to-main + a
+nightly cron. The relationship-resolution universe in `--changed` mode is read from
+`_meta/graph.json`'s nodes, so scoped PR runs still resolve targets against the whole corpus.
 
 Dependencies: `pip install pyyaml jsonschema`.

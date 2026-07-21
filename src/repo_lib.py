@@ -38,6 +38,17 @@ DIR_DOC_TYPE = {
 JURISDICTION_WIDE_DIRS = {"statutes", "rules", "executive-orders", "external-references"}
 
 
+def _is_content_path(p: Path) -> bool:
+    """True if p is a content document (under a CONTENT_DIR, .md, not _index/CHANGELOG)."""
+    if p.suffix != ".md" or p.name.startswith("_") or p.name in NON_CONTENT_NAMES:
+        return False
+    try:
+        rel = p.resolve().relative_to(REPO_ROOT)
+    except ValueError:
+        return False
+    return rel.parts and rel.parts[0] in CONTENT_DIRS
+
+
 def content_files():
     """Yield every content document (excludes _index.md and CHANGELOG.md)."""
     for d in CONTENT_DIRS:
@@ -48,6 +59,42 @@ def content_files():
             if p.name.startswith("_") or p.name in NON_CONTENT_NAMES:
                 continue
             yield p
+
+
+def changed_content_files(base_ref: str | None = None):
+    """Content files added/modified relative to base_ref (default: merge-base with
+    origin/main, else HEAD~1). Includes uncommitted working-tree changes. Returns a
+    sorted list of existing paths — deletions are dropped (nothing to verify).
+
+    Used by verify_provenance.py / validate_frontmatter.py --changed so PR CI only
+    checks the diff; full-corpus runs stay on push-to-main / nightly."""
+    import subprocess
+
+    def _git(*args):
+        return subprocess.run(["git", "-C", str(REPO_ROOT), *args],
+                              capture_output=True, text=True)
+
+    if base_ref is None:
+        base_ref = "HEAD~1"
+        mb = _git("merge-base", "origin/main", "HEAD")
+        if mb.returncode == 0 and mb.stdout.strip():
+            base_ref = mb.stdout.strip()
+
+    names = set()
+    # committed diff base..HEAD, plus staged and unstaged working-tree changes
+    for args in (("diff", "--name-only", "--diff-filter=d", f"{base_ref}...HEAD"),
+                 ("diff", "--name-only", "--diff-filter=d", "HEAD"),
+                 ("ls-files", "--others", "--exclude-standard")):
+        res = _git(*args)
+        if res.returncode == 0:
+            names.update(n for n in res.stdout.splitlines() if n.strip())
+
+    out = []
+    for n in names:
+        p = (REPO_ROOT / n)
+        if p.is_file() and _is_content_path(p):
+            out.append(p)
+    return sorted(out)
 
 
 def parse_frontmatter(path: Path):
